@@ -6,7 +6,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='text-scrubber',
-    version='0.1.0',
+    version='0.1.1',
     author='Slimmer.AI',
     description='Python package that offers text scrubbing functionality, providing building blocks for string '
                 'cleaning as well as normalizing geographical text (countries/states/cities)',
@@ -28,7 +28,9 @@ setup(
         'Development Status :: 5 - Production/Stable',
 
         # Supported Python versions
-        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
 
         # License
         'License :: OSI Approved :: MIT License',
