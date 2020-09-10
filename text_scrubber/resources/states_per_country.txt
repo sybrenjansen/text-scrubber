@@ -1,0 +1,269 @@
+##########################
+# Australia
+##########################
+
+new south wales, NSW, australia
+queensland, Qld, australia
+south australia, SA, australia
+tasmania, Tas, australia
+victoria, Vic, australia
+western australia, WA, australia
+northern territory, NT, australia
+australian capital territory, ACT, australia
+jervis bay territory, JBT, australia
+coral sea islands, australia
+coral sea islands territory, australia
+christmas island, australia
+cocos islands, australia
+cocos (keeling) islands, australia
+norfolk island, australia
+ashmore and carties islands, australia
+heard island and mcdonald islands, HIMI, australia
+australian antarctic territory, AAT, australia
+
+##########################
+# Brazil
+##########################
+
+Acre, AC, brazil
+Alagoas, AL, brazil
+Amapa, AP, brazil
+Amazonas, AM, brazil
+Bahia, BA, brazil
+Ceara, CE, brazil
+Distrito Federal, DF, brazil
+Espirito Santo, ES, brazil
+Golas, GO, brazil
+Maranhao, MA, brazil
+Mato Grosso, MT, brazil
+Mato Grosso do Sul, MT, brazil
+Minas Gerais, MG, brazil
+Para, PA, brazil
+Paraiba, PB, brazil
+Parana, PR, brazil
+Pernambuco, PE, brazil
+Piaui, PI, brazil
+Rio de Janeiro, RJ, brazil
+Rio Grande do Norte, RN, brazil
+Rio Grande do Sul, RS, brazil
+Rondonia, RO, brazil
+Roraima, RR, brazil
+Santa Catarina, SC, brazil
+Sao Paulo, SP, brazil
+Sergipe, SE, brazil
+Tocantins, TO, brazil
+
+##########################
+# Canada
+##########################
+
+ontario, ON, canada
+quebec, QC, canada
+nova Scotia, NS, canada
+new Brunswick, NB, canada
+manitoba, MB, canada
+british columbia, BC, canada
+prince edward island, PE, canada
+saskatchewan, SK, canada
+alberta, AB, canada
+newfoundland and labrador, NL, canada
+
+##########################
+# China
+##########################
+
+Anhui, AH, china
+Beijing, BJ, china
+Chingqing, CG, china
+Fujian, FJ, china
+Guangdong, GD, china
+Gansu, GS, china
+Guangxi Zhuang, GX, china
+Guizhou, GZ, china
+Hainan, HI, china
+Hebei, HE, china
+Heilongjiang, HL, china
+Henan, HA, china
+Hong Kong, HK, china
+Hongkong, china
+Hubei, HB, china
+Hunan, HN, china
+Inner Mongolia, NM, china
+Jiangsu, JS, china
+Jiangxi, JX, china
+Jilin, JL, china
+Liaoning, LN, china
+Macau, MO, china
+Ningxia Hui, NX, china
+Qinghai, QH, china
+Shaanxi, SN, china
+Shandong, SD, china
+Shanghai, SH, china
+Shanxi, SX, china
+Sichuan, SC, china
+Taiwan, TW, china
+Tianjin, TJ, china
+Tibet, XZ, china
+Xinjiang, XJ, china
+Yunnan, YN, china
+Zhejiang, ZJ, china
+
+#########################
+# India
+#########################
+
+Andhra Pradesh, AP, india
+Arunachal Pradesh, AR, india
+Assam, AS, india
+Bihar, BR, india
+Chhattisgarh, CG, india
+Goa, GA, india
+Gujarat, GJ, india
+Haryana, HR, india
+Himachal Pradesh, HP, india
+Jammu and Kashmir, JK, india
+Jharkhand, JH, india
+Karnataka, KA, india
+Kerala, KL, india
+Madhya Pradesh, MP, india
+Maharashtra, MH, india
+Manipur, MN, india
+Meghalaya, ML, india
+Mizoram, MZ, india
+Nagaland, NL, india
+Odisha, OD, india
+Punjab, PB, india
+Rajasthan, RJ, india
+Sikkim, SK, india
+Tamil Nadu, TN, india
+Telangana, TS, india
+Tripura, TR, india
+Uttar Pradesh, UP, india
+Uttarakhand, UK, india
+West Bengal, WB, india
+
+
+##########################
+# Japan
+##########################
+
+Hokkaidō, japan
+Aomori, japan
+Iwate, japan
+Miyagi, japan
+Akita, japan
+Yamagata, japan
+Fukushima, japan
+Ibaraki, japan
+Tochigi, japan
+Gunma, japan
+Saitama, japan
+Chiba, japan
+Tōkyō, japan
+Kanagawa, japan
+Niigata, japan
+Toyama, japan
+Ishikawa, japan
+Fukui, japan
+Yamanashi, japan
+Nagano, japan
+Gifu, japan
+Shizuoka, japan
+Aichi, japan
+Mie, japan
+Shiga, japan
+Kyōto, japan
+Ōsaka, japan
+Hyōgo, japan
+Nara, japan
+Wakayama, japan
+Tottori, japan
+Shimane, japan
+Okayama, japan
+Hiroshima, japan
+Yamaguchi, japan
+Tokushima, japan
+Kagawa, japan
+Ehime, japan
+Kōchi, japan
+Fukuoka, japan
+Saga, japan
+Nagasaki, japan
+Kumamoto, japan
+Ōita, japan
+Miyazaki, japan
+Kagoshima, japan
+Okinawa, japan
+
+##########################
+# SOUTH AFRICA
+##########################
+
+venda, south africa
+
+# State (unrecognized)
+transkei, south africa
+
+##########################
+# UNITED KINGDOM
+##########################
+
+Fife, united kingdom
+
+##########################
+# UNITED STATES
+##########################
+
+alabama, AL, united states
+alaska, AK, united states
+arizona, AZ, united states
+arkansas, AR, united states
+california, CA, united states
+colorado, CO, united states
+connecticut, CT, united states
+delaware, DE, united states
+florida, FL, united states
+georgia, GA, united states
+hawaii, HI, united states
+idaho, ID, united states
+illinois, IL, united states
+indiana, IN, united states
+iowa, IA, united states
+kansas, KS, united states
+kentucky, KY, united states
+louisiana, LA, united states
+maine, ME, united states
+maryland, MD, united states
+massachusetts, MA, united states
+michigan, MI, united states
+minnesota, MN, united states
+mississippi, MS, united states
+missouri, MO, united states
+montana, MT, united states
+nebraska, NE, united states
+nevada, NV, united states
+new hampshire, NH, united states
+new jersey, NJ, united states
+new mexico, NM, united states
+new york, NY, united states
+north carolina, NC, united states
+north dakota, ND, united states
+ohio, OH, united states
+oklahoma, OK, united states
+oregon, OR, united states
+pennsylvania, PA, united states
+rhode island, RI, united states
+south carolina, SC, united states
+south dakota, SD, united states
+tennessee, TN, united states
+texas, TX, united states
+utah, UT, united states
+vermont, VT, united states
+virginia, VA, united states
+washington, WA, united states
+west virginia, WV, united states
+wisconsin, WI, united states
+wyoming, WY, united states
+
+# Former district of Columbia, this indicates washington, DC
+DC, united states

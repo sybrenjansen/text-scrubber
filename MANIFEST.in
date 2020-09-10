@@ -1,0 +1,4 @@
+include README.md
+recursive-include text_scrubber *.txt
+include requirements.txt
+include MANIFEST.in
