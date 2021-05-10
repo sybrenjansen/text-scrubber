@@ -323,7 +323,7 @@ class CleanGeoStringTest(unittest.TestCase):
         Unicode characters should be translated to closest ascii equivalent
         """
         test_input = [
-            ('北京', 'bei jing'),
+            ('北京', 'beijing'),
             ('durrës', 'durres'),
             ('béjaïa', 'bejaia'),
             ('płońsk', 'plonsk')

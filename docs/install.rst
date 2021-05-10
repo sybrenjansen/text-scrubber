@@ -17,4 +17,4 @@ Python packages (installed automatically when installing ``text-scrubber``):
 
 - num2words
 - python-Levenshtein
-- unidecode
+- anyascii

@@ -5,7 +5,7 @@ from operator import itemgetter
 from string import punctuation
 from typing import Callable, Generator, Iterable, Match, Pattern, Union, Dict, Set
 
-import unidecode
+from anyascii import anyascii
 from num2words import num2words
 
 from text_scrubber.io import read_resource_file
@@ -375,12 +375,12 @@ class TextScrubber:
 
     def to_ascii(self, on_tokens: bool = False, name: str = 'to_ascii') -> 'TextScrubber':
         """
-        Uses ``unidecode.unidecode`` to strip accents and convert unicode characters to plain 7-bit ASCII.
+        Uses ``anyascii`` to strip accents and convert unicode characters to plain 7-bit ASCII.
 
         :param on_tokens: Whether to transform on a list of tokens or a single string.
         :param name: Name to give to the pipeline step.
         """
-        return self._add_step(name, unidecode.unidecode, on_tokens)
+        return self._add_step(name, anyascii, on_tokens)
 
     # Alias
     strip_accents = to_ascii
