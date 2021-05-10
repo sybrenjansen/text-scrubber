@@ -1,6 +1,13 @@
 Change log
 ==========
 
+0.2.0
+-----
+
+*(2021-05-10)*
+
+- Replaced `unidecode` by `anyascii`, which has a more relaxed license. Output of `to_ascii` can change because of it
+
 0.1.1
 -----
 
