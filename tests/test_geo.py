@@ -38,16 +38,17 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), expected)
+                self.assertEqual(normalize_country(original, return_scores=False), expected)
+                self.assertEqual(normalize_country(original, return_scores=True), [(c, 1.0) for c in expected])
 
     def test_no_match(self):
         """
         If nothing matches it should return an empty list
         """
-        self.assertEqual(normalize_country('*'), [])
-        self.assertEqual(normalize_country('fooBar'), [])
-        self.assertEqual(normalize_country('New South Wales'), [])
-        self.assertEqual(normalize_country('Paris'), [])
+        self.assertEqual(normalize_country('*', return_scores=False), [])
+        self.assertEqual(normalize_country('fooBar', return_scores=True), [])
+        self.assertEqual(normalize_country('New South Wales', return_scores=False), [])
+        self.assertEqual(normalize_country('Paris', return_scores=True), [])
 
     def test_common_country_replacements(self):
         """
@@ -64,21 +65,28 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), expected)
+                self.assertEqual(normalize_country(original, return_scores=False), expected)
+                self.assertEqual(normalize_country(original, return_scores=True), [(c, 1.0) for c in expected])
 
     def test_close_match(self):
         """
         Close matches to the standard countries map should yield the correct country
         """
         test_countries = [
-            ('Belgum', ['Belgium']),
-            ('Jamayca', ['Jamaica']),
-            ('mecico', ['Mexico']),
-            ('saint Nevis and Kitties', ['Saint Kitts and Nevis'])
+            ('Belgum', ['Belgium'], [0.923]),
+            ('Jamayca', ['Jamaica'], [0.857]),
+            ('mecico', ['Mexico'], [0.833]),
+            ('saint Nevis and Kitties', ['Saint Kitts and Nevis'], [0.75])
         ]
-        for original, expected in test_countries:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), expected)
+        for original, expected_countries, expected_scores in test_countries:
+            with self.subTest(original=original, expected_countries=expected_countries,
+                              expected_scores=expected_scores):
+                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
+                for (country, score), expected_country, expected_score in zip(
+                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                ):
+                    self.assertEqual(country, expected_country)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
     def test_not_close_enough_match(self):
         """
@@ -92,34 +100,47 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original in test_countries:
             with self.subTest(original=original):
-                self.assertEqual(normalize_country(original), [])
+                self.assertEqual(normalize_country(original, return_scores=False), [])
+                self.assertEqual(normalize_country(original, return_scores=True), [])
 
     def test_multiple_close_matches(self):
         """
         Close matches to the standard countries map should yield all correct countries
         """
         test_countries = [
-            ('Ira', ['Iran', 'Iraq']),
-            ('oth korea', ['North Korea', 'South Korea']),
-            ('Slovia', ['Slovakia', 'Slovenia'])
+            ('Ira', ['Iran', 'Iraq'], [0.857, 0.857]),
+            ('oth korea', ['North Korea', 'South Korea'], [0.9, 0.9]),
+            ('Slovia', ['Slovakia', 'Slovenia'], [0.857, 0.857])
         ]
-        for original, expected in test_countries:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), expected)
+        for original, expected_countries, expected_scores in test_countries:
+            with self.subTest(original=original, expected_countries=expected_countries,
+                              expected_scores=expected_scores):
+                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
+                for (country, score), expected_country, expected_score in zip(
+                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                ):
+                    self.assertEqual(country, expected_country)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
     def test_country_pattern_match(self):
         """
         When the input string follows a certain country pattern it should yield the correct country
         """
         test_countries = [
-            ('5A5 canada B34C', ['Canada']),
-            ('2F2 Canada C3Q', ['Canada']),
-            ('234522 Russia', ['Russia']),
-            ('998833 russia', ['Russia'])
+            ('5A5 canada B34C', ['Canada'], [1.0]),
+            ('2F2 Canada C3Q', ['Canada'], [1.0]),
+            ('234522 Russia', ['Russia'], [1.0]),
+            ('998833 russia', ['Russia'], [1.0])
         ]
-        for original, expected in test_countries:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), expected)
+        for original, expected_countries, expected_scores in test_countries:
+            with self.subTest(original=original, expected_countries=expected_countries,
+                              expected_scores=expected_scores):
+                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
+                for (country, score), expected_country, expected_score in zip(
+                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                ):
+                    self.assertEqual(country, expected_country)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
 
 class NormalizeStateTest(unittest.TestCase):
@@ -139,7 +160,8 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected in test_states:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original), expected)
+                self.assertEqual(normalize_state(original, return_scores=False), expected)
+                self.assertEqual(normalize_state(original, return_scores=True), [(s, c, 1.0) for s, c in expected])
 
     def test_multiple_matches(self):
         """
@@ -152,30 +174,36 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected in test_states:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original), expected)
+                self.assertEqual(normalize_state(original, return_scores=False), expected)
+                self.assertEqual(normalize_state(original, return_scores=True), [(s, c, 1.0) for s, c in expected])
 
     def test_no_match(self):
         """
         If nothing matches it should return an empty list
         """
-        self.assertEqual(normalize_state('*'), [])
-        self.assertEqual(normalize_state('fooBar'), [])
-        self.assertEqual(normalize_state('Brazil'), [])
-        self.assertEqual(normalize_state('Paris'), [])
+        self.assertEqual(normalize_state('*', return_scores=False), [])
+        self.assertEqual(normalize_state('fooBar', return_scores=True), [])
+        self.assertEqual(normalize_state('Brazil', return_scores=False), [])
+        self.assertEqual(normalize_state('Paris', return_scores=True), [])
 
     def test_close_match(self):
         """
         Close matches to the states map should yield the correct state
         """
         test_states = [
-            ('Ilinios', [('Illinois', 'United States')]),
-            ('Saytama', [('Saitama', 'Japan')]),
-            ('kashmir and jannu', [('Jammu and Kashmir', 'India')]),
-            ('King Kong', [('Hong Kong', 'China')])
+            ('Ilinios', [('Illinois', 'United States')], [0.8]),
+            ('Saytama', [('Saitama', 'Japan')], [0.857]),
+            ('kashmir and jannu', [('Jammu and Kashmir', 'India')], [0.6]),
+            ('King Kong', [('Hong Kong', 'China')], [0.5])
         ]
-        for original, expected in test_states:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original), expected)
+        for original, expected_states, expected_scores in test_states:
+            with self.subTest(original=original, expected_states=expected_states, expected_scores=expected_scores):
+                self.assertEqual(normalize_state(original, return_scores=False), expected_states)
+                for (state, country, score), expected_state, expected_score in zip(
+                        normalize_state(original, return_scores=True), expected_states, expected_scores
+                ):
+                    self.assertEqual((state, country), expected_state)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
     def test_not_close_enough_match(self):
         """
@@ -189,21 +217,27 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original in test_states:
             with self.subTest(original=original):
-                self.assertEqual(normalize_state(original), [])
+                self.assertEqual(normalize_state(original, return_scores=False), [])
+                self.assertEqual(normalize_state(original, return_scores=True), [])
 
     def test_multiple_close_matches(self):
         """
         Close matches to the states map should yield all correct states
         """
         test_states = [
-            ('Jiang', [('Jiangsu', 'China'), ('Jiangxi', 'China')]),
-            ('oshima', [('Hiroshima', 'Japan'), ('Kagoshima', 'Japan'), ('Tokushima', 'Japan')]),
+            ('Jiang', [('Jiangsu', 'China'), ('Jiangxi', 'China')], [0.833, 0.833]),
+            ('oshima', [('Hiroshima', 'Japan'), ('Kagoshima', 'Japan'), ('Tokushima', 'Japan')], [0.8, 0.8, 0.8]),
             ('VWA', [('Virginia', 'United States'), ('Washington', 'United States'),
-                     ('Western Australia', 'Australia')])
+                     ('Western Australia', 'Australia')], [0.8, 0.8, 0.8])
         ]
-        for original, expected in test_states:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original), expected)
+        for original, expected_states, expected_scores in test_states:
+            with self.subTest(original=original, expected_states=expected_states, expected_scores=expected_scores):
+                self.assertEqual(normalize_state(original, return_scores=False), expected_states)
+                for (state, country, score), expected_state, expected_score in zip(
+                        normalize_state(original, return_scores=True), expected_states, expected_scores
+                ):
+                    self.assertEqual((state, country), expected_state)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
 
 class NormalizeCityTest(unittest.TestCase):
@@ -220,7 +254,8 @@ class NormalizeCityTest(unittest.TestCase):
         ]
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original), expected)
+                self.assertEqual(normalize_city(original, return_scores=False), expected)
+                self.assertEqual(normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected])
 
     def test_multiple_matches(self):
         """
@@ -236,15 +271,16 @@ class NormalizeCityTest(unittest.TestCase):
         ]
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original), expected)
+                self.assertEqual(normalize_city(original, return_scores=False), expected)
+                self.assertEqual(normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected])
 
     def test_no_match(self):
         """
         If nothing matches it should return an empty list
         """
-        self.assertEqual(normalize_city('*'), [])
-        self.assertEqual(normalize_city('fooBar'), [])
-        self.assertEqual(normalize_city('United States'), [])
+        self.assertEqual(normalize_city('*', return_scores=False), [])
+        self.assertEqual(normalize_city('fooBar', return_scores=True), [])
+        self.assertEqual(normalize_city('United States', return_scores=False), [])
 
     def test_removal_of_city_suffixes(self):
         """
@@ -258,21 +294,27 @@ class NormalizeCityTest(unittest.TestCase):
         ]
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original), expected)
+                self.assertEqual(normalize_city(original, return_scores=False), expected)
+                self.assertEqual(normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected])
 
     def test_close_match(self):
         """
         Close matches to the cities map should yield the correct city
         """
         test_cities = [
-            ('Texas', [('Texas City', 'United States')]),
-            ('Kiyoto', [('Kyoto', 'Japan')]),
-            ('Napholi', [('Napoli', 'Italy')]),
-            ('leeeR', [('Leer', 'Germany')])
+            ('Texas', [('Texas City', 'United States')], [0.538]),
+            ('Kiyoto', [('Kyoto', 'Japan')], [0.909]),
+            ('Napholi', [('Napoli', 'Italy')], [0.923]),
+            ('leeeR', [('Leer', 'Germany')], [0.889])
         ]
-        for original, expected in test_cities:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original), expected)
+        for original, expected_cities, expected_scores in test_cities:
+            with self.subTest(original=original, expected_cities=expected_cities, expected_scores=expected_scores):
+                self.assertEqual(normalize_city(original, return_scores=False), expected_cities)
+                for (city, country, score), expected_state, expected_score in zip(
+                        normalize_city(original, return_scores=True), expected_cities, expected_scores
+                ):
+                    self.assertEqual((city, country), expected_state)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
     def test_not_close_enough_match(self):
         """
@@ -286,7 +328,8 @@ class NormalizeCityTest(unittest.TestCase):
         ]
         for original in test_cities:
             with self.subTest(original=original):
-                self.assertEqual(normalize_city(original), [])
+                self.assertEqual(normalize_city(original, return_scores=False), [])
+                self.assertEqual(normalize_city(original, return_scores=True), [])
 
     def test_multiple_close_matches(self):
         """
@@ -294,13 +337,19 @@ class NormalizeCityTest(unittest.TestCase):
         """
         test_cities = [
             ('Pari', [('Parai', 'Brazil'), ('Paris', 'Canada'), ('Paris', 'France'), ('Paris', 'United States'),
-                      ('Parit', 'Malaysia'), ('Pariz', 'Czech Republic')]),
-            ('canada', [('Canadian', 'Australia'), ('Canadian', 'United States'), ('Chantada', 'Spain')]),
-            ('KIWI', [('Kirwin', 'United States'), ('Kiwity', 'Poland')])
+                      ('Parit', 'Malaysia'), ('Pariz', 'Czech Republic')], [0.889, 0.889, 0.889, 0.889, 0.889, 0.889]),
+            ('canada', [('Canadian', 'Australia'), ('Canadian', 'United States'), ('Chantada', 'Spain')],
+             [0.857, 0.857, 0.857]),
+            ('KIWI', [('Kirwin', 'United States'), ('Kiwity', 'Poland')], [0.8, 0.8])
         ]
-        for original, expected in test_cities:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original), expected)
+        for original, expected_cities, expected_scores in test_cities:
+            with self.subTest(original=original, expected_cities=expected_cities, expected_scores=expected_scores):
+                self.assertEqual(normalize_city(original, return_scores=False), expected_cities)
+                for (city, country, score), expected_state, expected_score in zip(
+                        normalize_city(original, return_scores=True), expected_cities, expected_scores
+                ):
+                    self.assertEqual((city, country), expected_state)
+                    self.assertAlmostEqual(score, expected_score, places=3)
 
 
 class CleanGeoStringTest(unittest.TestCase):

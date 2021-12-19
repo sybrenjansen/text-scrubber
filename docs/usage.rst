@@ -69,6 +69,10 @@ country name variations, etc.:
                                   #  ('Paris', 'France'), ('Paris', 'United States'),
                                   #  ('Parit', 'Malaysia'), ('Pariz', 'Czech Republic')]
 
+Each of the above normalization functions can optionally return the match scores by specifying ``return_scores=True``.
+These scores are always between 0.0 and 1.0, where 1.0 is a perfect match. If a known mapping exists, like
+``Deutschland`` to ``Germany``, then the match score will be 1.0.
+
 .. warning::
 
     There's a good chance that the list of states/cities is not complete for all countries.

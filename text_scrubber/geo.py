@@ -1,18 +1,19 @@
 import re
 from collections import defaultdict
-from typing import List, Tuple, Dict
+from typing import List, Tuple, Dict, Union
 
 from text_scrubber import TextScrubber
 from text_scrubber.io import read_resource_file
 from text_scrubber.string_distance import find_closest_string, get_trigram_tokens, pattern_match
 
 
-def normalize_country(country: str) -> List[str]:
+def normalize_country(country: str, return_scores: bool = False) -> List[Union[Tuple[str, float], Tuple[str]]]:
     """
     Cleans up a country by string cleaning and performs some basic country lookups to get the canonical name.
 
     :param country: Country string to clean.
-    :return: List of country candidates in canonical form.
+    :param return_scores: Whether to return match scores.
+    :return: List of country candidates in canonical form. Optionally accompanied with match scores.
     """
     # Clean country
     cleaned_country = clean_country(country)
@@ -23,32 +24,37 @@ def normalize_country(country: str) -> List[str]:
 
     # Check if country is part of the known countries list
     if cleaned_country in _COUNTRY_RESOURCES['cleaned_to_capitilized']:
-        return [_COUNTRY_RESOURCES['cleaned_to_capitilized'][cleaned_country]]
+        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][cleaned_country]
+        return [(candidate, 1.0) if return_scores else candidate]
 
     # There's a number of known expansions/translations which can be applied. Check if we can find anything with that
     if cleaned_country in _COUNTRY_RESOURCES['replacements']:
-        return [_COUNTRY_RESOURCES['cleaned_to_capitilized'][_COUNTRY_RESOURCES['replacements'][cleaned_country]]]
-
-    # Check if we can find a close match (using default threshold of 0.8 (magic number))
-    country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['cleaned_trigrams'])
-    if country_match:
-        best_matches, _ = country_match
-        return [_COUNTRY_RESOURCES['cleaned_to_capitilized'][country] for country in best_matches]
+        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][_COUNTRY_RESOURCES['replacements'][cleaned_country]]
+        return [(candidate, 1.0) if return_scores else candidate]
 
     # Check if the country follows a certain country pattern
     known_country = pattern_match(country, _COUNTRY_RESOURCES['replacement_patterns'])
     if known_country:
-        return [_COUNTRY_RESOURCES['cleaned_to_capitilized'][known_country]]
+        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][known_country]
+        return [(candidate, 1.0) if return_scores else candidate]
+
+    # Check if we can find a close match (using default threshold of 0.8 (magic number))
+    country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['cleaned_trigrams'])
+    if country_match:
+        best_matches, score = country_match
+        candidates = (_COUNTRY_RESOURCES['cleaned_to_capitilized'][country] for country in best_matches)
+        return [(candidate, score) for candidate in candidates] if return_scores else list(candidates)
 
     # No match found
     return []
 
 
-def normalize_state(state: str) -> List[Tuple[str, str]]:
+def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple[str, str, float], Tuple[str, str]]]:
     """
     Cleans up a state by string cleaning and performs some basic state lookups to get the canonical name.
 
     :param state: State name or code.
+    :param return_scores: Whether to return match scores.
     :return: List of (state, country) candidates in canonical form.
     """
     # Clean state
@@ -57,27 +63,34 @@ def normalize_state(state: str) -> List[Tuple[str, str]]:
     # Check if state is part of the known states list
     if cleaned_state in _STATE_RESOURCES['state_country_map']:
         candidates = _STATE_RESOURCES['state_country_map'][cleaned_state]
+        candidates = [(candidate, 1.0) for candidate in candidates] if return_scores else candidates
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     else:
         state_match = find_closest_string(cleaned_state, _STATE_RESOURCES['cleaned_trigrams'])
         if state_match:
-            best_matches, _ = state_match
-            candidates = [candidate for state in best_matches
-                          for candidate in _STATE_RESOURCES['state_country_map'][state]]
+            best_matches, score = state_match
+            candidates = (candidate for state in best_matches
+                          for candidate in _STATE_RESOURCES['state_country_map'][state])
+            candidates = [(candidate, score) for candidate in candidates] if return_scores else list(candidates)
         else:
             # No match found
             candidates = []
 
     # Return canonical form
-    return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country]) for state, country in candidates)
+    if return_scores:
+        return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country], score)
+                      for (state, country), score in candidates)
+    else:
+        return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country]) for state, country in candidates)
 
 
-def normalize_city(city: str) -> List[Tuple[str, str]]:
+def normalize_city(city: str, return_scores: bool = False) -> List[Union[Tuple[str, str, float], Tuple[str, str]]]:
     """
     Cleans up a city by string cleaning and performs some basic city lookups to get the canonical name.
 
     :param city: City name.
+    :param return_scores: Whether to return match scores.
     :return: List of (city, country) candidates in canonical form.
     """
     # Clean city
@@ -86,19 +99,25 @@ def normalize_city(city: str) -> List[Tuple[str, str]]:
     # Check if city is part of the known cities list
     if cleaned_city in _CITY_RESOURCES['city_country_map']:
         candidates = _CITY_RESOURCES['city_country_map'][cleaned_city]
+        candidates = [(candidate, 1.0) for candidate in candidates] if return_scores else candidates
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     else:
         city_match = find_closest_string(cleaned_city, _CITY_RESOURCES['cleaned_trigrams'])
         if city_match:
-            best_matches, _ = city_match
-            candidates = [candidate for city in best_matches for candidate in _CITY_RESOURCES['city_country_map'][city]]
+            best_matches, score = city_match
+            candidates = (candidate for city in best_matches for candidate in _CITY_RESOURCES['city_country_map'][city])
+            candidates = [(candidate, score) for candidate in candidates] if return_scores else list(candidates)
         else:
             # No match found
             candidates = []
 
     # Return canonical form
-    return sorted((city, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country]) for city, country in candidates)
+    if return_scores:
+        return sorted((city, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country], score)
+                      for (city, country), score in candidates)
+    else:
+        return sorted((city, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country]) for city, country in candidates)
 
 
 # Some common token replacements
@@ -117,7 +136,8 @@ _GEO_TOKEN_MAP = {'afr': 'african',
                   'republ': 'republic',
                   'republik': 'republic',
                   'sint': 'saint',
-                  'st': 'saint'}
+                  'st': 'saint',
+                  'ter': 'territory'}
 
 # We define the scrubber once so the regex objects will be compiled only once
 _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
@@ -177,8 +197,8 @@ def _get_country_resources() -> Dict[str, Dict]:
 
     # Replacement patterns additional to the other replacements (mainly filters zipcodes)
     resources['replacement_patterns'] = [(pattern, clean_country(canonical_country)) for pattern, canonical_country in
-                                         ((re.compile(r'\d[a-z]\d canada [a-z]\d[a-z]', re.IGNORECASE), 'canada'),
-                                          (re.compile(r'\d{6} russia', re.IGNORECASE), 'russia'))]
+                                         ((re.compile(r'\d+[a-z]+\d+ canada [a-z]+\d+[a-z]+', re.IGNORECASE), 'canada'),
+                                          (re.compile(r'\d+ russia', re.IGNORECASE), 'russia'))]
 
     # Generate trigrams for the cleaned countries
     resources['cleaned_trigrams'] = {cleaned_country: get_trigram_tokens(cleaned_country)

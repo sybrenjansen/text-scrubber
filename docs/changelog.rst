@@ -1,6 +1,13 @@
 Change log
 ==========
 
+Master
+------
+- :meth:`text_scrubber.geo.normalize_country`, :meth:`text_scrubber.geo.normalize_state`, and
+  :meth:`text_scrubber.geo.normalize_city` now optionally return the match scores
+- Fixed replacement patterns for normalizing countries
+- Few entries in country mapping updated
+
 0.2.0
 -----
 
