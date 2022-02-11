@@ -1,0 +1,886 @@
+##########################
+# Argentina
+##########################
+
+republica argentina, argentina
+
+##########################
+# Armenia
+##########################
+
+arssr, armenia
+republic of armenia, armenia
+
+##########################
+# Australia
+##########################
+
+au, australia
+austl, australia
+
+##########################
+# Austria
+##########################
+
+at, austria
+osterreich, austria
+osterrich, austria
+
+##########################
+# Azerbaijan
+##########################
+
+azssr, azerbaijan
+republic of azerbaijan, azerbaijan
+
+# Still recognized by the UN as part of azerbaijan
+nagorno-karabakh, azerbaijan
+
+##########################
+# Bahrain
+##########################
+
+kingdom of bahrain, bahrain
+
+##########################
+# Belarus
+##########################
+
+belorussia, belarus
+republic of belarus, belarus
+
+##########################
+# Belgium
+##########################
+
+be, belgium
+belgien, belgium
+belgique, belgium
+
+##########################
+# Benin
+##########################
+
+republic of benin, benin
+
+##########################
+# Bosnia and herzegovina
+##########################
+
+bosnia herceg, bosnia and herzegovina
+
+##########################
+# brazil
+##########################
+
+brasil, brazil
+brasilien, brazil
+bresil, brazil
+
+##########################
+# Brunei
+##########################
+
+brunei darussalam, brunei
+darussalam, brunei
+
+##########################
+# Bulgaria
+##########################
+
+peoples republic of bulgaria, bulgaria
+
+##########################
+# Canada
+##########################
+
+ca, canada
+can, canada
+
+##########################
+# Cape verde
+##########################
+
+cabo verde, cape verde
+
+##########################
+# Central African Republic
+##########################
+
+republique centrafricaine, central african republic
+
+##########################
+# Chile
+##########################
+
+easter island, chile
+juan fernandez islands, chile
+
+##########################
+# China
+##########################
+
+ch, china
+macao, china
+macau, china
+
+# There is disagreement whether Taiwan is independent
+# or not. Following the UN by mapping it to China.
+taiwan, china
+taiwan china, china
+taiwan provinc, china
+taiwan province of china, china
+taiwan republic of china, china
+taiwan r o c, china
+taiwan roc, china
+people's r, china
+peoples, china
+peoples r china, china
+peoples republic, china
+prc, china
+prchina, china
+p.r. china, china
+p. r. china, china
+eoples r china, china
+ceoples r china, china
+peoples republic of china, china
+peoples republ, china
+republic of china, china
+roc, china
+
+##########################
+# Congo
+##########################
+
+dem rep congo, congo
+dem repub congo, congo
+democratic republic of the congo, congo
+republic of the congo, congo
+republique democratique du congo, congo
+republique du congo, congo
+rep congo, congo
+rep dem congo, congo
+rep of congo, congo
+zaire, congo
+
+##########################
+# Croatia
+##########################
+
+republic of croatia, croatia
+
+# Jugoslavia can be mapped to multiple current countries, but we have to choose one
+croatia yugoslavia, croatia
+jugoslavia, croatia
+jugoslavien, croatia
+jugoslawien, croatia
+yugoslavia, croatia
+
+##########################
+# Cyprus
+##########################
+
+cyprus north, cyprus
+cyprus northern, cyprus
+
+##########################
+# Czech republic
+##########################
+
+csr, czech republic
+czechia, czech republic
+tschechische republik, czech republic
+
+# Can be added to two countries, but we have to choose one
+cssr, czech republic
+czech and slovak federal republic, czech republic
+czechoslovakia, czech republic
+tschechoslowakei, czech republic
+
+##########################
+# Denmark
+##########################
+
+faroe islands, denmark
+greenland, denmark
+
+##########################
+# Dominican republic
+##########################
+
+dominicanrepu, dominican republic
+
+##########################
+# East Timor
+##########################
+
+timor leste, east timor
+
+##########################
+# Egypt
+##########################
+
+agypten, egypt
+eg, egypt
+
+# Both Egypt (until 1971) and Syria (until 1961)
+egypt uar, egypt
+uar, egypt
+united arab republic, egypt
+
+##########################
+# Estonia
+##########################
+
+esssr, estonia
+estland, estonia
+
+##########################
+# Finland
+##########################
+
+aland, finland
+aland islands, finland
+
+##########################
+# France
+##########################
+
+clipperton island, france
+fr, france
+frankreich, france
+fr guiana, france
+fr polynesia, france
+french guiana, france
+french polynesia, france
+guadeloupe, france
+martinique, france
+mayotte, france
+new caledonia, france
+polynésie française, france
+réunion, france
+saint barthélemy, france
+saint martin, france
+saint pierre and miquelon, france
+wallis and futuna, france
+
+# Southern islands
+fr southern and antarctic lands, france
+fr southern territories, france
+fr southern lands, france
+french southern and antarctic lands, france
+french southern territories, france
+french southern lands, france
+kerguelen islands, france
+crozet islands, france
+adelie land, france
+
+# Region
+evreux, france
+
+##########################
+# Germany
+##########################
+
+allemagne, germany
+brd, germany
+bundes republic, germany
+bundes republik, germany
+bundesrepublik deutschland, germany
+ddr, germany
+de, germany
+deutsch dem rep, germany
+deutsche demokratische republik, germany
+deutchland, germany
+deustchland, germany
+deutschland, germany
+duetschland, germany
+east germany, germany
+fed rep ger, germany
+fed rep of germany, germany
+federal republic of germany, germany
+federal republik of germany, germany
+f r g, germany
+f r germany, germany
+fr germany, germany
+frg, germany
+gdr, germany
+gfr, germany
+ger dem rep, germany
+german democratic republic, germany
+german federal republic brd, germany
+germany frg, germany
+west germany, germany
+
+##########################
+# Georgia
+##########################
+
+gessr, georgia
+
+# Disputed. Following Wikipedia's claim that most countries recognize it as Georgia
+abkhazia, georgia
+south ossetia, georgia
+
+# Truncate to common name
+republic of georgia, georgia
+
+##########################
+# Greece
+##########################
+
+gr, greece
+griechenland, greece
+
+##########################
+# Guinea
+##########################
+
+republique de guinee, guinea
+
+##########################
+# Hungary
+##########################
+
+ungarn, hungary
+ungran, hungary
+
+##########################
+# India
+##########################
+
+in, india
+india six, india
+indien, india
+south india, india
+
+##########################
+# Iran
+##########################
+
+i. iran r., iran
+ir iran, iran
+iran islamic r, iran
+iranincidence, iran
+irantherapeutic, iran
+islamic republic of, iran
+islamic republic of iran, iran
+
+##########################
+# Iraq
+##########################
+
+iraqi kurdistan, iraq
+
+##########################
+# Ireland
+##########################
+
+republic of ireland, ireland
+
+##########################
+# Israel
+##########################
+
+il, israel
+
+##########################
+# Italy
+##########################
+
+it, italy
+italia, italy
+italie, italy
+italien, italy
+
+##########################
+# Ivory coast
+##########################
+
+cote ivoire, ivory coast
+cote divoire, ivory coast
+
+##########################
+# Japan
+##########################
+
+# Abbreviation
+jp, japan
+
+##########################
+# Kazakhstan
+##########################
+
+kassr, kazakhstan
+republic of kazakhstan, kazakhstan
+
+##########################
+# Kosovo
+##########################
+
+kosova, kosovo
+kos republic, kosovo
+
+##########################
+# Kyrgyzstan
+##########################
+
+kyrgyz republic, kyrgyzstan
+
+##########################
+# Laos
+##########################
+
+lao pdr, laos
+lao p d r, laos
+lao peoples democratic republic, laos
+
+##########################
+# Latvia
+##########################
+
+lassr, latvia
+
+##########################
+# Lithuania
+##########################
+
+lissr, lithuania
+lithuanian ssr, lithuania
+
+##########################
+# Macedonia
+##########################
+
+north macedonia, macedonia
+republic of macedonia, macedonia
+
+##########################
+# Madagascar
+##########################
+
+# Became democratic republic of madagascar
+malagasy republic, madagascar
+
+##########################
+# Federated states of Micronesia
+##########################
+
+micronesia, federated states of micronesia
+
+##########################
+# Moldova
+##########################
+
+moldavia, moldova
+mossr, moldova
+republic of moldova, moldova
+
+# Claimed by moldova
+transnistria, moldova
+
+# 2/3 of it lies in moldova, 1/3 in ukraine
+bessr, moldova
+
+##########################
+# Mongolia
+##########################
+
+mongol peo rep, mongolia
+mongoliaa, mongolia
+
+##########################
+# Morocco
+##########################
+
+maroc, morocco
+
+# Sahrawi arab democratic republic sovereignty disputed
+sadr, morocco
+sahrawi arab democratic republic, morocco
+saharawi, morocco
+
+##########################
+# Myanmar
+##########################
+
+burma, myanmar
+myanmar burma, myanmar
+
+##########################
+# Netherlands
+##########################
+
+aruba, netherlands
+bonaire, netherlands
+bonaire saint eustatius and saba, netherlands
+curacao, netherlands
+die niederlande, netherlands
+holland, netherlands
+nederlande, netherlands
+netherlands antilles, netherlands
+niederlande, netherlands
+nl, netherlands
+saba, netherlands
+saint eustatius, netherlands
+sint maarten, netherlands
+saint martin, netherlands
+TheNetherlands, netherlands
+
+##########################
+# New Zealand
+##########################
+
+cook islands, new zealand
+ross dependency, new zealand
+tokelau, new zealand
+niue, new zealand
+nz, new zealand
+
+##########################
+# Norway
+##########################
+
+norwegen, norway
+svalbard and jan mayen, norway
+
+##########################
+# Oman
+##########################
+
+sultanate of oman, oman
+
+##########################
+# Pakistan
+##########################
+
+azad kashmir, pakistan
+gilgit baltistan, pakistan
+west pakistan, pakistan
+
+##########################
+# Palestine
+##########################
+
+palestine stat, palestine
+palestinian ter, palestine
+palestinian authority, palestine
+
+##########################
+# Papua new guinea
+##########################
+
+newguinea papua, papua new guinea
+papuanewguinea, papua new guinea
+
+##########################
+# Poland
+##########################
+
+polen, poland
+pologne, poland
+
+##########################
+# Romania
+##########################
+
+rumanien, romania
+
+##########################
+# Russia
+##########################
+
+as ussr, russia
+bashkortostan russia, russia
+cccp, russia
+republic of tatarstan russia, russia
+russia federation, russia
+russian federation, russia
+rf, russia
+ru, russia
+russland, russia
+soviet union, russia
+sssr, russia
+tatarstan russia, russia
+udssr, russia
+urss, russia
+ussr, russia
+
+# Controlled and governed as part of the Russian Federation (Wikipedia)
+crimea, russia
+
+##########################
+# Saint Kitts and Nevis
+##########################
+
+saint kitts, saint kitts and nevis
+st kitts, saint kitts and nevis
+
+##########################
+# Saint Vincent
+##########################
+
+saint vincent and the grenadines, saint vincent
+
+##########################
+# Samoa
+##########################
+
+western samoa, samoa
+
+##########################
+# Saudi arabia
+##########################
+
+ksa, saudi arabia
+kingdom of saudi arabia, saudi arabia
+
+##########################
+# Senegal
+##########################
+
+# Belongs to multiple countries, but we need to select one
+senegambia, senegal
+
+##########################
+# Serbia
+##########################
+
+republic of serbia, serbia
+srbija, serbia
+
+# Belongs to two countries, but we need to select one
+serbia and montenegro, serbia
+serbia monteneg, serbia
+
+##########################
+# Singapore
+##########################
+
+republic of singapore, singapore
+
+##########################
+# Slovakia
+##########################
+
+slovak republic, slovakia
+
+##########################
+# Somalia
+##########################
+
+# Claimed by somalia
+somaliland, somalia
+
+##########################
+# South africa
+##########################
+
+republic of south africa, south africa
+
+##########################
+# South korea
+##########################
+
+korea, south korea
+rok, south korea
+republic of korea, south korea
+
+##########################
+# Spain
+##########################
+
+catalonia, spain
+es, spain
+espagne, spain
+espana, spain
+navarraspain, spain
+
+##########################
+# Swaziland
+##########################
+
+eswatini, swaziland
+
+##########################
+# Sweden
+##########################
+
+se, sweden
+
+##########################
+# Switzerland
+##########################
+
+die schweiz, switzerland
+schweiz, switzerland
+suisse, switzerland
+
+##########################
+# Syria
+##########################
+
+syrian arab republic, syria
+syrian kurdistan, syria
+
+##########################
+# Tanzania
+##########################
+
+united republic of tanzania, tanzania
+
+##########################
+# Trinidad and Tobago
+##########################
+
+trinidad, trinidad and tobago
+
+##########################
+# Turkey
+##########################
+
+turkiye, turkey
+
+# Province
+samsun, turkey
+
+##########################
+# Trinidad and Tobago
+##########################
+
+west indies, trinidad and tobago
+
+##########################
+# Ukraine
+##########################
+
+ukr ssr, ukraine
+ukranian ssr, ukraine
+ukrainian ssr, ukraine
+ukrssr, ukraine
+ukssr, ukraine
+
+##########################
+# United arab emirates
+##########################
+
+u arab emirates, united arab emirates
+uae, united arab emirates
+ara united, united arab emirates
+
+##########################
+# United kingdom
+##########################
+
+britain, united kingdom
+engl, united kingdom
+england, united kingdom
+england uk, united kingdom
+gb, united kingdom
+great britain, united kingdom
+north ireland, united kingdom
+northern ireland, united kingdom
+northern ireland uk, united kingdom
+scotland, united kingdom
+scotland uk, united kingdom
+scotland united kingdom, united kingdom
+uk, united kingdom
+uk e-mail, united kingdom
+u k, united kingdom
+unitedkingdom, united kingdom
+wales, united kingdom
+wales uk, united kingdom
+
+# Brittish overseas
+akrotiri and dhekelia, united kingdom
+anguilla, united kingdom
+ascension isl, united kingdom
+bermuda, united kingdom
+british indian ocean territory, united kingdom
+british virgin islands, united kingdom
+cayman islands, united kingdom
+channel islands, united kingdom
+falkland, united kingdom
+falkland islands, united kingdom
+falklandislands, united kingdom
+gibraltar, united kingdom
+montserrat, united kingdom
+pitcairn islands, united kingdom
+saint helena, united kingdom
+saint helena ascension and tristan da cunha, united kingdom
+south georgia and the south sandwich islands, united kingdom
+turks & caicos, united kingdom
+turks and caicos islands, united kingdom
+guernsey, united kingdom
+alderney, united kingdom
+herm, united kingdom
+sark, united kingdom
+isle of man, united kingdom
+jersey, united kingdom
+west indies associated states, united kingdom
+w ind assoc st, united kingdom
+
+# Original regex patterns
+brit virgin isl, united kingdom
+british, united kingdom
+british virgin, united kingdom
+britishvirgin, united kingdom
+
+##########################
+# United states
+##########################
+
+american samoa, united states
+guam, united states
+northern mariana islands, united states
+puerto rico, united states
+u.s. virgin islands, united states
+wake island, united states
+us, united states
+usa, united states
+usa e-mail, united states
+u s a, united states
+united st, united states
+united states of america, united states
+
+# Some typos in the original list of states
+tennesee, united states
+west verginia, united states
+
+##########################
+# Uzbekistan
+##########################
+
+republic of uzbekistan, uzbekistan
+uzssr, uzbekistan
+
+##########################
+# Vatican city
+##########################
+
+vatican, vatican city
+
+##########################
+# Venezuela
+##########################
+
+bolivarian republic of venezuela, venezuela
+
+##########################
+# Vietnam
+##########################
+
+viet nam, vietnam
+
+##########################
+# Yemen
+##########################
+
+yemen arab republic, yemen
+
+##########################
+# Zimbabwe
+##########################
+
+# Unrecognized state from 1965 to 1979, equivalent in territory to modern Zimbabwe
+rhodesia, zimbabwe
