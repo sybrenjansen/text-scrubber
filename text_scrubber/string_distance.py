@@ -3,7 +3,7 @@ from typing import Callable, Dict, Iterable, List, Optional, Pattern, Set, Tuple
 import Levenshtein
 
 
-def find_closest_string(string: str, options: Dict[str, Set[str]]) -> Optional[Tuple[List[str], float]]:
+def find_closest_string(string: str, options: Dict[str, Set[int]]) -> Optional[Tuple[List[str], float]]:
     """
 
     :param string: string to search for
@@ -21,8 +21,9 @@ def find_closest_string(string: str, options: Dict[str, Set[str]]) -> Optional[T
     return result
 
 
-def _find_closest_string(string: str, options: Dict[str, Set[str]], compare_func: Callable,
-                         use_trigrams: bool, min_score: float) -> Optional[Tuple[List[str], float]]:
+def _find_closest_string(
+    string: str, options: Dict[str, Set[int]], compare_func: Callable, use_trigrams: bool, min_score: float
+) -> Optional[Tuple[List[str], float]]:
     """
     Find the closest match for a string from a list of options using Levenshtein edit distance
 
