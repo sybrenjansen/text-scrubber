@@ -101,28 +101,39 @@ def normalize_city(
     cleaned_city = clean_city(city)
 
     # Check if city is part of the known cities list
-    all_cities = set()
     candidates = []
     not_found = True
     for country, cities_in_country in _CITY_RESOURCES["cities_per_country_map"].items():
+        # This condition prevent from searching again in country codes
         if country.upper() not in list(_CITY_RESOURCES["country_code_to_country"].keys()):
             all_cities = set(cities_in_country.keys())
             if cleaned_city in all_cities:
                 # capitalize the city name
-                cleaned_city = capitalize_geo_string(cleaned_city)
-                candidates.append(((cleaned_city, country), 1.0) if return_scores else (cleaned_city, country))
+                capitalize_city = capitalize_geo_string(cleaned_city)
+                capitalize_country = capitalize_geo_string(country)
+                candidates.append(
+                    (capitalize_city, capitalize_country, 1.0)
+                    if return_scores
+                    else (capitalize_city, capitalize_country)
+                )
                 not_found = False
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     if not_found:
         for country, cities_in_country in _CITY_RESOURCES["cities_per_country_map"].items():
+            # This condition prevent from searching again in country codes
             if country.upper() not in list(_CITY_RESOURCES["country_code_to_country"].keys()):
                 city_match = find_closest_string(cleaned_city, cities_in_country)
                 if city_match:
                     best_matches, score = city_match
                     # capitalize the city name
                     best_matches = [capitalize_geo_string(best_match) for best_match in best_matches]
-                    candidates.append(((best_matches, country), score) if return_scores else (best_matches, country))
+                    capitalize_country = capitalize_geo_string(country)
+                    candidates.append(
+                        (best_matches, capitalize_country, score)
+                        if return_scores
+                        else (best_matches, capitalize_country)
+                    )
 
     return sorted(candidates)
 
@@ -304,7 +315,6 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[s
     for country_code, country in tqdm(country_code_to_country.items()):
         cleaned_country = clean_country(country)
         cities = read_resource_file(__file__, f"resources/{country_code}.txt")
-        resources["cities_per_country_map"][cleaned_country] = {}
         for city in cities:
             cleaned_city = clean_city(city)
             resources["cities_per_country_map"][cleaned_country][cleaned_city] = get_trigram_tokens(cleaned_city)
@@ -316,7 +326,9 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[s
 
 
 st = datetime.now()
-_CITY_RESOURCES = _get_city_resources()
+_CITY_RESOURCES = _get_city_resources(
+    {"AU", "AT", "FR", "IR", "CA", "US", "GB", "DE", "ZA", "AR", "PH", "ES", "CR", "KR", "CN", "JP", "IT"}
+)
 # TODO:
 #  - Loading the _CITY_RESOURCES['cities_per_country_map'] resource takes too long now (~50 seconds), so it should not
 #    load all the countries when imported, but on-the-fly when needed. We can add an additional function to pre-load
