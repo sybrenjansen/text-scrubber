@@ -14,7 +14,7 @@ setup(
     url='https://github.com/Slimmer-AI/text-scrubber',
     license='MIT',
     packages=find_packages(),
-    install_requires=['num2words', 'python-Levenshtein', 'anyascii'],
+    install_requires=['num2words', 'python-Levenshtein', 'anyascii', 'tqdm'],
     include_package_data=True,
     extras_require={'docs': ['sphinx==3.2.1',
                              'sphinx-rtd-theme==0.5.0',
@@ -22,7 +22,7 @@ setup(
                              'sphinx-versions==1.0.1'],
                     'tests': ['nose2']},
     test_suite='nose2.collector.collector',
-    tests_require=['nose2'],
+    tests_require=['nose2', 'numpy'],
     classifiers=[
         # Development status
         'Development Status :: 5 - Production/Stable',
@@ -31,6 +31,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
 
         # License
         'License :: OSI Approved :: MIT License',
