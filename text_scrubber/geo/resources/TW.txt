@@ -539,8 +539,8 @@ Bihu
 Bilai
 Bililiang
 Bilin
-Bilu
-Biluexi
+Bilü
+Bilüxi
 Bingdianzi
 Binglu
 Bingzigou
@@ -688,9 +688,9 @@ Caolin
 Caoling
 Caolingding
 Caolingjiao
-Caoluegou
 Caolun
 Caoluo
+Caolügou
 Caona
 Caonan
 Caonandi
@@ -922,7 +922,7 @@ Chitan
 Chitonghulun
 Chitouzi
 Chituqi
-Chiu-ch'u-ts'un
+Chiu-ch'ü-ts'un
 Chiu-kuei-ts'un
 Chixi
 Chong'an
@@ -2081,8 +2081,8 @@ Eryikeng
 Erzhangli
 Erzhen
 Erzhuang
-Falu
 Faluo'an
+Falü
 Fan'ailun
 Fancuo
 Fandian
@@ -4420,11 +4420,6 @@ Lucuowa
 Ludong
 Ludukeng
 Ludushikeng
-Luechuan
-Luecuo
-Luefeng
-Luemao
-Lueshui
 Lufeng
 Lugang
 Lugangliao
@@ -4520,7 +4515,6 @@ Lutaoyang
 Lutenghu
 Luweilin
 Luwen
-Luwu
 Luye
 Luzhongxiang
 Luzhou
@@ -4537,6 +4531,12 @@ Luzhuwen
 Luzhuxiang
 Luzijiao
 Luzikeng
+Lüchuan
+Lücuo
+Lüfeng
+Lümao
+Lüshui
+Lüwu
 Ma'an
 Ma'anliao
 Ma'anlun
@@ -4816,8 +4816,8 @@ Muguatan
 Muguayuan
 Mujiliao
 Mukeng
-Mulueliao
 Mulun
+Mulüliao
 Mupi
 Muwei
 Muzha
@@ -6743,7 +6743,7 @@ Shubogong
 Shuguang
 Shuhanpojiao
 Shui'an
-Shui-ch'uean-li
+Shui-ch'üan-li
 Shuibantou
 Shuibiantou
 Shuibolin
@@ -7697,7 +7697,7 @@ Wencuobu
 Wencuojiao
 Wencuoliao
 Wendi
-Weng-yuan-ts'un
+Weng-yüan-ts'un
 Wengang
 Wengcuo
 Wenggongyuan
@@ -8142,12 +8142,12 @@ Xialu
 Xialubei
 Xialubu
 Xialuchang
-Xialuecuo
 Xialulitan
 Xialun
 Xialuntian
 Xialunzi
 Xialutou
+Xialücuo
 Xiama
 Xiamacuo
 Xiamagu
@@ -8753,10 +8753,10 @@ Xinlizu
 Xinlong
 Xinlu
 Xinluchang
-Xinlueexinzhuang
 Xinlun
 Xinluwei
 Xinluzi
+Xinlüexinzhuang
 Xinma
 Xinmang
 Xinmei
@@ -9347,7 +9347,6 @@ Yuchouhu
 Yucun
 Yucuo
 Yucuozhuang
-Yue-ch'uean-ts'un
 Yuefuni
 Yuehu
 Yuemei
@@ -9413,6 +9412,7 @@ Yuzhenlong
 Yuzichang
 Yuzidi
 Yuzitan
+Yü-ch'üan-ts'un
 Zailian
 Zaixing
 Zaizhuqi
@@ -9952,4 +9952,4 @@ Zuoying
 Zuozhen
 Zushitian
 Zuzhou
-zuo ying qu
+左營區

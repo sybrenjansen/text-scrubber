@@ -1,30 +1,85 @@
+'Adanim
 'Adi
+'Agur
+'Akbara
+'Alma
+'Alumim
+'Amasa
+'Amir
+'Ammi'oz
 'Amminadav
+'Ammiqam
+'Amqa
+'Aqqāda
 'Ar'ara
 'Ar'ara BaNegev
-'Araba
+'Ara
 'Aramsha
 'Arugot
+'Arāba
 'Aseret
+'Avdon
+'Ayanot
+'Azarya
+'Azri'el
 'Azriqam
-'Ein Mahil
-'Ein Naquba
-'Ein Quniya
+'Eilabun
+'Ein Ibrāhīm
+'Ein Māhil
+'Ein Naqūbā
+'Ein Qunīya
+'Ein Rāfa
+'Ein el Asad
+'Ein el Ma'lqā
+'Ein es Sahlā
+'Ein ez Zaytūnā
+'En 'Iron
 'En Ayyala
+'En Boqeq
 'En Dor
-'En HaMifraz
-'En Harod - Meuhad
+'En Gedi
+'En Gev
+'En Ha'Emeq
+'En HaBesor
+'En HaH̱oresh
+'En HaMifraẕ
+'En HaNaẕiv
+'En HaShelosha
+'En HaShofet
+'En Hod
+'En H̱arod - Meuhad
+'En H̱arod Iẖud
+'En H̱aẕeva
+'En Karmel
+'En Shemer
+'En Tamar
 'En Ya'aqov
-'Ilut
-'Isfiya
+'En Yahav
+'En Zetim
+'En Ẕurim
+'Enat
+'Evron
+'Ezuz
+'Iddan
+'Ilūṭ
+'Ir Gannim
+'Ir Ovot
+'Isfiyā
+'Ofer
 'Olesh
 'Omer
+'Otni'el
+'Oẕem
+'Uza
+'Uzeir
+'Ézer
+'Īsawīya
 Abbirim
-Abu Ghaush
-Abu Rabi`a
-Abu Raqeiq
-Abu Shusha
-Abu Sinan
+Abū Ghaush
+Abū Rabī'a
+Abū Raqeiq
+Abū Shūsha
+Abū Sinān
 Acre
 Adamit
 Adderet
@@ -32,33 +87,26 @@ Addirim
 Afeq
 Afiqim
 Afula
-Ahawa
-Ahi'ezer
-Ahihud
-Ahisamakh
-Ahituv
-Ahuzzam
-Ahuzzat Baraq
-Al Butayhah
-Al Fajir
-Al Khushniyah
-Al Rum
+Al Buţayḩah
+Al Fājir
+Al Khushnīyah
+Al Rūm
 Al-Ramadien
 AlSayid Tribe
 Allon HaGalil
 Allone Abba
-Allone Yizhaq
 Allonim
+Alloné Yiẕẖaq
 Almagor
 Alon
 Alumma
 Alummot
-Amazya
+Amaẕya
 Ami'ad
 Amirim
 Amnun
 Amuka
-Ani`am
+Ani'am
 Arad
 Arbel
 Ari'el
@@ -66,96 +114,104 @@ Ariel
 Arsuf
 Ashalim
 Ashdod
-Ashdot Ya'aqov Ihud
-Ashdot Ya`aqov
-Ashdot Ya`aqov Me'uhad
+Ashdot Ya'aqov
+Ashdot Ya'aqov Iẖud
+Ashdot Ya'aqov Me'uẖad
 Asherat
 Ashkelon
 Ashmura
-At Tawahin
 Atlit
 Avi'el
-Avi`ezer
+Avi'ezer
 Avigedor
-Avihayil
 Avital
 Avivim
+Aviẖayil
 Avnei Eitan
 Avshalom
 Avtalyon
-Ayyelet HaShahar
+Ayyelet HaShaẖar
 Azor
-Bahan
+Aţ Ţawāḩīn
+Aẖawa
+Aẖi'ezer
+Aẖihud
+Aẖisamakh
+Aẖituv
+Aẖuzzam
+Aẖuzzat Baraq
 Balfouriyya
-Baqa el Gharbiya
 Bar Giyyora
-Bar Yuhay
-Bar`am
+Bar Yuẖay
+Bar'am
 Baraq
 Bareqet
 Barqay
-Barta`a
+Barta'a
 Basma
-Basmat Tab`un
+Basmat Ṭab'ūn
 Bat Hadar
-Bat Hefer
-Bat Hen
+Bat H̱efer
+Bat H̱en
 Bat Shelomo
 Bat Yam
 Bayt Mirsim
-Bazra
+Baẕra
+Baẖan
 Be'er Ganim
-Be'er Menuha
+Be'er Menuẖa
 Be'er Ora
 Be'er Toviyya
 Be'er Ya'aqov
 Be'eri
-Be'erot Yizhaq
+Be'erot Yiẕẖaq
 Be'erotayim
 Beersheba
-Beit Herut
 Beit Horon
+Beit H̱erut
 Beit Jann
-Beit Jimal
-Beit Safafa
+Beit Jimāl
+Beit Ṣafāfā
+Ben 'Ammi
 Ben Dor
 Ben Shemen
 Ben Zakkay
-Ben `Ammi
 Benaya
-Bene 'Atarot
-Bene Darom
-Bene Deror
-Bene Re'em
-Bene Ziyyon
-Beqoa`
+Bene Re'ém
+Bené 'Atarot
+Bené Darom
+Bené Deror
+Bené Ẕiyyon
+Beqoa'
 Berekhya
-Beror Hayil
+Beror H̱ayil
 Berosh
 Berurim
 Bet 'Arif
 Bet 'Ezra
+Bet 'Ovéd
+Bet 'Uzi'él
 Bet Alfa
 Bet Dagan
 Bet El'azari
-Bet Gamli'el
+Bet Gamli'él
 Bet Guvrin
 Bet Ha'Arava
+Bet Ha'Emeq
 Bet HaGaddi
 Bet HaLewi
 Bet HaShitta
-Bet Ha`Emeq
-Bet Hanan
-Bet Hananya
-Bet Hashmonay
 Bet Hillel
-Bet Hilqiyya
-Bet Lehem HaGelilit
-Bet Ma`on
+Bet H̱anan
+Bet H̱ananya
+Bet H̱ashmonay
+Bet H̱ilqiyya
+Bet Leẖem HaGelilit
+Bet Ma'on
 Bet Me'ir
 Bet Mirsham
-Bet Nehemya
 Bet Neqofa
+Bet Neẖemya
 Bet Nir
 Bet Oren
 Bet Qama
@@ -163,75 +219,74 @@ Bet Qeshet
 Bet Rabban
 Bet Rimmon
 Bet She'an
-Bet She`arim
+Bet She'arim
 Bet Shemesh
 Bet Shiqma
 Bet Yannay
 Bet Yehoshua'
-Bet Yizhaq
-Bet Yizhaq Sha'ar Hefer
+Bet Yiẕẖaq
+Bet Yiẕẖaq Sha'ar H̱éfer
 Bet Yosef
 Bet Zayd
 Bet Zayit
-Bet Zera`
-Bet Zevi
-Bet `Oved
-Bet `Uzi'el
-Bezet
+Bet Zera'
+Bet Ẕevi
+Beẕet
 Bi'na
 Binyamina
 Binyamina-Giv'at Ada
 Bir Hadaj
-Bir el Maksur
-Bir es Sikka
 Biriyya
 Bitan Aharon
 Bitanya
-Bitha
-Bizzaron
+Bitẖa
+Biẕẕaron
 Bne Yehuda
 Bnei Ayish
 Bnei Brak
 Bnei Dkalim
 Bnei Netsarim
-Brit Ahim
+Brit Aẖim
 Bu'ayna-Nujaydat
-Bu`eina
-Buqei`a
+Bu'eina
+Buqei'a
 Buregan
 Buregeta
-Burj el Baiyara
+Burj el Baiyāra
 Bustan HaGalil
+Bāqa el Gharbīya
+Bīr el Maksūr
+Bīr es Sikka
 Caesarea
 Chorazim
-Dabburiya
+Dabbūrīya
 Dafna
 Daliyat al Karmel
-Daliyat er Ruha
 Daliyya
 Dalton
 Dan
 Dar Hagolan
-Dar `Isa Shahab
 Daverat
 Deganim
 Deganya Alef
 Deganya Bet
-Deir Hanna
 Deir el Asad
+Deir Ḥannā
 Deqel
 Devira
 Devora
 Dimona
 Dishon
-Dohan
 Dolev
 Dor
 Dorot
 Dovev
+Doẖan
 Drijat
-Ed Dahi
-Ed Dumeida
+Dāliyat er Rūhā
+Dār 'Īsā Shahāb
+Ed Dahī
+Ed Dumeidā
 Eilat
 Ein Bokek
 Ein Feshkha
@@ -239,22 +294,22 @@ Ein Sarid
 Ein Vered
 Ein Zivan
 Ein hud
-El Baiyada
-El Fureidis
+El 'Aryān
+El Baīyāda
+El Fureidīs
 El Ghajar
 El Huzaiyil
 El Makr
-El Mazra`a
-El Murtafi`a
-El Musheirifa
-El Musheirifa el Fawqa
-El Musheirifa et Tahta
+El Mazra'a
+El Murtafi'a
+El Musheirifā
+El Musheirifā el Fawqā
+El Musheirifā et Taḥtā
 El Musherifa
-El Qal`
-El `Aryan
+El Qal'
 El'ad
 El'azar
-Eli-`Ad
+Eli-'Ad
 Eliav
 Elifaz
 Elifelet
@@ -266,51 +321,51 @@ Elyakhin
 Elyaqim
 Elyashiv
 Emunim
-En Nawaqir
+En Nawāqir
 En Nuqeib
 Er Reina
 Erez
-Esh Sheikh Dannun
+Esh Sheikh Dannūn
 Eshbal
 Eshbol
 Eshel HaNasi
-Eshhar
 Eshta'ol
-Et Taiyiba
-Et Tira
+Eshẖar
 Etan
 Etanim
-Even Menahem
+Even Menaẖem
 Even Sappir
 Even Shemu'el
 Even Yehuda
 Eyal
-Fassuta
-Fazara
-Fiq
-Ga`ash
-Ga`ton
+Eṭ Ṭaiyiba
+Eṭ Ṭīra
+Fassūta
+Fazāra
+Fīq
+Ga'ash
+Ga'ton
 Gadish
 Gadot
+Gal'ed
 Gal'on
-Gal`ed
 Gan HaDarom
-Gan Hayyim
+Gan H̱ayyim
 Gan Ner
 Gan Shelomo
-Gan Shemu'el
+Gan Shemu'él
 Gan Shomeron
-Gan Soreq
+Gan Soréq
 Gan Yavne
 Gan Yoshiyya
 Ganei Tikva
 Ganey Tal
-Ganne Hadar
-Ganne Yehuda
-Ganne Yohanan
-Ganne `Am
 Gannot
 Gannot Hadar
+Ganné 'Am
+Ganné Hadar
+Ganné Yehuda
+Ganné Yoẖanan
 Gat
 Gat Rimmon
 Gazit
@@ -325,216 +380,214 @@ Gerofit
 Gesher
 Gesher HaZiw
 Geshur
+Geva'
 Geva' Karmel
-Geva`
-Gevar`am
+Gevar'am
 Gevat
 Gevim
 Gevulot
 Gezer
-Gid`ona
+Gid'ona
 Gilat
-Gile`am
+Gile'am
 Gilon
 Gimzo
 Ginnaton
 Ginnegar
 Ginnosar
 Gitta
+Giv'a Nili
+Giv'at 'Ada
+Giv'at 'Oz
 Giv'at Avni
 Giv'at Brenner
 Giv'at Ela
-Giv'at Hayyim Ihud
-Giv'at Hayyim Me'uhad
+Giv'at HaShelosha
+Giv'at H̱aviva
+Giv'at H̱ayyim Iẖud
+Giv'at H̱ayyim Me'uẖad
+Giv'at H̱azaq
+Giv'at H̱en
+Giv'at Koaẖ
+Giv'at Raẖel
+Giv'at Shappira
+Giv'at Shemesh
 Giv'at Shmuel
 Giv'at Ye'arim
+Giv'at Yesha'yahu
 Giv'at Yo'av
 Giv'ati
+Giv'olim
 Giv'on HaHadasha
 Giv'ot Bar
-Giv`a Nili
-Giv`at HaShelosha
-Giv`at Haviva
-Giv`at Hazaq
-Giv`at Hen
-Giv`at Koah
-Giv`at Rahel
-Giv`at Shappira
-Giv`at Shemesh
-Giv`at Yesha`yahu
-Giv`at `Ada
-Giv`at `Oz
-Giv`olim
-Giv`ot Mordekhay
+Giv'ot Mordekhay
 Givatayim
 Gizo
 Gonen
 Goren
 Gornot HaGalil
+Ha'Ogen
 HaBonim
 HaGosherim
-HaHoterim
-HaMa`pil
+HaH̱oterim
+HaMa'pil
 HaOn
 HaSolelim
 HaYogev
 HaZore'im
-HaZorea`
-Ha`Ogen
+HaZorea'
 Hable
-Had Nes
-Hadar `Am
+Hadar 'Am
 Hadassim
 Hadera
-Hadid
-Hafez Hayyim
-Hagor
 Haifa
-Hajajra
-Halaf Tabbash
-Haluz
-Hamadya
-Hamam
-Hammat
-Hanita
-Hannaton
-Hanni'el
 Har Adar
 Har'el
 Hararit
-Harashim
 Harduf
-Harish
-Haruzim
 Hashmonaim
-Haspin
-Havazzelet HaSharon
-Hawalid
-Hawwat Maresha
-Hawwat Shemu'el
-Hawwat `Eden
-Hazav
-Hazerim
-Hazeva
-Hazon
-Hazor Ashdod
-Hazor HaGelilit
-Hefzi Bah
-Hela
-Helez
-Hemdat Yamim
-Hemed
-Herev Le'et
-Herut
 Herzliya
-Hever
-Hibbat Ziyyon
 Hilla
 Hod HaKarmel
 Hod HaSharon
 Hodayot
 Hodiyya
-Hofit
-Hogla
-Holit
-Holon
-Horeshim
-Hosen
-Hosha`ya
+Hosha'ya
 Hujairat (Dhara)
 Hukok
-Hulata
-Hulda
-Hura
-Hurfeish
-Huseiniya
-I'billin
+H̱ad Nes
+H̱adid
+H̱afeẕ H̱ayyim
+H̱agor
+H̱ajajra
+H̱alaf Tabbash
+H̱aluẕ
+H̱amadya
+H̱amam
+H̱ammat
+H̱anita
+H̱annaton
+H̱anni'el
+H̱arashim
+H̱arish
+H̱aruẕim
+H̱aspin
+H̱avaẕẕelet HaSharon
+H̱awalid
+H̱awwat 'Eden
+H̱awwat Maresha
+H̱awwat Shemu'el
+H̱azon
+H̱aẕav
+H̱aẕerim
+H̱aẕeva
+H̱aẕor Ashdod
+H̱aẕor HaGelilit
+H̱efẕi Bah
+H̱ela
+H̱eleẕ
+H̱emdat Yamim
+H̱emed
+H̱erev Le'et
+H̱erut
+H̱ever
+H̱ibbat Ẕiyyon
+H̱ofit
+H̱ogla
+H̱olit
+H̱olon
+H̱oreshim
+H̱osen
+H̱ulata
+H̱ulda
+H̱ura
+I'billīn
 Ibbim
-Ibthan
-Ibtin
-Iksal
+Ibthān
+Ibṭīn
+Iksāl
 Ilaniyya
-Intisar
+Intiṣār
 Iqrit
-Jaljulya
+Jaljūlya
 Jatt
 Jerusalem
-Jish
-Jisr ez Zarqa
+Jisr ez Zarqā
 Judeida Makr
-Julis
-Jurdeih
+Jurdeiḥ
+Jīsh
+Jūlis
 Ka'abiyya
 Kaabia - Tabbash - Hajara
 Kabri
-Kabul
 Kadesh Bare'a
 Kadima
 Kadima Zoran
-Kafr Bara
-Kafr Kamma
-Kafr Kanna
-Kafr Manda
-Kafr Misr
+Kafr Barā
+Kafr Kammā
+Kafr Kannā
+Kafr Mandā
+Kafr Miṣr
 Kafr Qari'
-Kafr Qasim
-Kafr Sumei`
-Kahal
+Kafr Qāsim
+Kafr Sumei'
 Kallanit
 Kammana
 Kammon
 Kannot
 Karkom
 Karkur
-Karme Yosef
 Karmei Katiff
 Karmi'el
 Karmiyya
 Karmon
-Karz el Khaz`al
+Karmé Yosef
+Karz el Khaz'al
 Katzrin
-Kaukab Abu el Hija
-Kawas
-Kefar Ahim
+Kaukab Abū el Hījā
+Kawās
+Kaẖal
+Kefar 'Azza
 Kefar Aviv
+Kefar Aẖim
 Kefar Barukh
 Kefar Bialik
 Kefar Bilu
 Kefar Bin Nun
 Kefar Daniyyel
 Kefar Gallim
-Kefar Gid`on
+Kefar Gid'on
 Kefar Glickson
-Kefar HaHoresh
+Kefar HaH̱oresh
 Kefar HaMakkabbi
 Kefar HaNagid
-Kefar HaNo`ar HaDati
-Kefar HaNo`ar Nir Ha`Emeq
+Kefar HaNo'ar HaDati
+Kefar HaNo'ar Nir Ha'Emeq
 Kefar HaRif
 Kefar HaRo'e
-Kefar Habad
-Kefar Hasidim Alef
-Kefar Hasidim Bet
-Kefar Hayyim
-Kefar Hittim
-Kefar Hoshen
+Kefar H̱abad
+Kefar H̱asidim Alef
+Kefar H̱asidim Bet
+Kefar H̱ayyim
+Kefar H̱ittim
+Kefar H̱oshen
 Kefar Kisch
 Kefar Malal
 Kefar Masaryk
 Kefar Maymon
-Kefar Menahem
+Kefar Menaẖem
 Kefar Monash
 Kefar Mordekhay
 Kefar Netter
 Kefar Pines
-Kefar Pir`am
+Kefar Pir'am
 Kefar Rosh HaNiqra
 Kefar Ruppin
 Kefar Rut
 Kefar Shamir
 Kefar Shammay
 Kefar Shemaryahu
-Kefar Shemu'el
+Kefar Shemu'él
 Kefar Silver
 Kefar Sirkin
 Kefar Tavor
@@ -543,15 +596,14 @@ Kefar Uriyya
 Kefar Vitqin
 Kefar Warburg
 Kefar Weradim
-Kefar Ya`bez
-Kefar Yehezqel
-Kefar Yehoshua`
+Kefar Ya'beẕ
+Kefar Yehoshua'
 Kefar Yeladim
+Kefar Yeẖezqel
 Kefar Yona
-Kefar Zahorim
 Kefar Zetim
 Kefar Ziw
-Kefar `Azza
+Kefar Ẕahorim
 Kelil
 Kemehin
 Keramim
@@ -563,12 +615,12 @@ Kesalon
 Ketef Avraham
 Ketura
 Kfar Blum
-Kfar Gil`adi
+Kfar Gil'adi
 Kfar Giladi
 Kfar HaNasi
-Kfar Hananya
 Kfar Haruv
 Kfar Hess
+Kfar H̱ananya
 Kfar NaOranim
 Kfar Rut
 Kfar Saba
@@ -576,24 +628,25 @@ Kfar Szold
 Kfar Yasif
 Khawalid
 Kheurbet ej Jalabina
-Khirbat Abu Tulul
-Khirbat ad Dajajinah
+Khirbat Abu Tulūl
+Khirbat ad Dajājinah
 Kinneret
 Kiryat Gat
 Kiryat Netafim
 Kiryat Ono
 Kishor
-Kisra
 Kisra - Sume'a
+Kisrā
 Kissufim
-Kokhav HaShahar
+Kokhav HaShaẖar
 Kokhav Michael Sobell
 Kokhav Ya'ir
 Korazim
 Kuseifa
+Kābūl
 Lahav
 Lahavot HaBashan
-Lahavot Haviva
+Lahavot H̱aviva
 Lakhish
 Lapid
 Lappidot
@@ -607,72 +660,69 @@ Lido Yehuda
 Liman
 Livnim
 Lod
-Lohame HaGeta'ot
 Lotan
 Lotem
+Loẖame HaGeta'ot
 Luzit
+Ma'agan
 Ma'agan Mikha'el
+Ma'ale Gamla
+Ma'ale Shomeron
+Ma'alé Gilboa'
+Ma'alé HaH̱amisha
+Ma'anit
+Ma'as
+Ma'bara
+Ma'barot
 Ma'galim
 Ma'or
-Ma`agan
-Ma`ale Gamla
-Ma`ale Gilboa`
-Ma`ale HaHamisha
-Ma`ale Shomeron
-Ma`anit
-Ma`as
-Ma`bara
-Ma`barot
-Ma`oz Hayyim
-Ma`oz Ziyyon
-Ma`yan Barukh
-Ma`yan Zevi
+Ma'oz H̱ayyim
+Ma'oz Ẕiyyon
+Ma'yan Barukh
+Ma'yan Ẕevi
 Maale Iron
 Mabbu'im
 Magen
-Magen Sha'ul
 Maggal
-Maghar
+Maghār
 Magshimim
-Mahanayim
+Magén Sha'ul
 Mahane Hila
 Mahane Miriam
 Mahane Yafe
 Mahane Yocheved
-Mahseya
-Mahzevet Geves
-Majd el Kurum
+Majd el Kurūm
 Majdal Shams
-Makhfar Kaliyah
+Makhfar Kālīyah
 Malkiyya
 Manof
 Manot
-Manshiyet Zabda
-Maqura
+Manshīyet Zabda
 Margaliyyot
 Marja
-Marom Golan
 Mash Had
-Mash'abbe Sade
-Mash'en
-Mashmia` Shalom
+Mash'abbe Sadé
+Mash'én
+Mashmia' Shalom
 Maskiyyot
 Maslul
 Massad
 Massada
 Massu'a
-Massu'ot Yizhaq
+Massu'ot Yiẕẖaq
 Matan
-Matta`
+Matta'
 Mattat
-Matte `Oz
-Mavqi`im
+Matte 'Oz
+Mavqi'im
 Mazkeret Batya
-Mazliah
 Mazor
-Mazra`at Qafwa
-Mazzuva
-Me `Ammi
+Mazra'at Qafwa
+Maẕliaẖ
+Maẕẕuva
+Maẖanayim
+Maẖseya
+Maẖẕevet Geves
 Me'ir Shefeya
 Me'ona
 Mefallesim
@@ -682,154 +732,156 @@ Meisir
 Meitar
 Mele'a
 Melilot
-Menahemya
 Menara
+Menaẖemya
 Menora
-Menuha
+Menuẖa
 Merav
 Merhav Am
-Merhavya
 Merkaz Shapira
 Meron
+Merẖavya
 Meshar
-Mesheq HaPo`alot
-Mesillat Ziyyon
+Mesheq HaPo'alot
+Mesillat Ẕiyyon
 Mesillot
 Metar
 Metav
 Metulla
-Mevasseret Ziyyon
+Mevasseret Ẕiyyon
 Mevo Betar
 Mevo Modi'im
-Mevo-Hama
+Mevo-H̱ama
 Mezadot Yehuda
-Mezer
-Midrakh `Oz
+Meẕer
+Midrakh 'Oz
 Midreshet Ben-Gurion
 Migdal
-Migdal Ha`Emeq
+Migdal Ha'Emeq
 Mikhmannim
 Mikhmoret
 Misgav
+Misgav 'Am
 Misgav Dov
-Misgav `Am
 Mishmar Ayyalon
 Mishmar Dawid
 Mishmar Ha'Emeq
 Mishmar HaNegev
 Mishmar HaSharon
-Mishmar HaShiv`a
+Mishmar HaShiv'a
 Mishmar HaYam
 Mishmar HaYarden
 Mishmarot
 Mishmeret
 Mitzpe Ilan
 Mitzpe Ramon
-Mivtahim
-Mizpa
-Mizpe Aviv
+Mivtaẖim
 Mizpe Deragot
-Mizpe Netofa
-Mizpe Yeriho
-Mizra`
+Mizra'
+Miẕpa
+Miẕpé Aviv
+Miẕpé Netofa
+Miẕpé Yeriẖo
 Modi'in Makkabbim Re'ut
 Modiin Ilit
 Moledet
 Moran
 Moreshet
-Moza
-Moza `Illit
-Mu`awiya
+Moẕa
+Moẕa 'Illit
+Mu'āwīya
 Mul Nevo
 Muqeibila
-Musmus
+Muṣmuṣ
+Mé 'Ammi
+Māqūra
+Mārom Golan
 Na'ale
+Na'aman
 Na'an
 Na'ot Semadar
-Na'ura
-Na`aman
-Nahal Malkishua`
-Nahal Teqoa'
-Nahal `Oz
-Nahala
-Nahala'ot
 Nahalal
-Nahalat Yehuda
-Naham
 Nahariyya
-Nahf
 Nahliel
-Nahsholim
-Nahshon
-Nahshonim
 Nataf
 Natur
 Nazareth
-Nazerat 'Illit
+Naḥf
+Naẕerat 'Illit
+Naẖal 'Oz
+Naẖal Malkishua'
+Naẖal Teqoa'
+Naẖala
+Naẖala'ot
+Naẖalat Yehuda
+Naẖam
+Naẖsholim
+Naẖshon
+Naẖshonim
 Ne'ot Golan
 Ne'ot HaKikar
 Ne'ot Mordekhay
-Ne`urim
+Ne'urim
 Negba
-Nehalim
 Nehora
-Nehusha
 Nein
 Neriyya
+Nes 'Ammim
 Nes Harim
-Nes `Ammim
 Nesher
 Ness Ziona
 Neta
-Neta`im
+Neta'im
 Netanya
+Netiv Ha'Asara
 Netiv HaLamed He
 Netiv HaShayyara
-Netiv Ha`Asara
 Netivot
 Netser hazani
-Netu`a
+Netu'a
 Nevatim
 Neve
+Neve Ativ
 Neve Ilan
+Neve Mivtaẖ
 Neve Shalom
-Newe Ativ
-Newe Etan
-Newe Harif
-Newe Mikha'el
-Newe Mivtah
-Newe Ur
-Newe Yam
-Newe Yamin
-Newe Yaraq
 Newe Ziw
-Newe Zohar
-Nezer Sereni
+Newé Etan
+Newé H̱arif
+Newé Mikha'el
+Newé Ur
+Newé Yam
+Newé Yamin
+Newé Yaraq
+Newé Zohar
+Neẕer Sereni
+Neẖalim
+Neẖusha
 Nili
-Nir 'Ezyon
+Nir 'Aqiva
+Nir 'Eẕyon
+Nir 'Oz
 Nir Banim
 Nir Dawid
 Nir Eliyyahu
 Nir Gallim
-Nir Hen
+Nir H̱en
 Nir Moshe
 Nir Yafe
 Nir Yisra'el
-Nir Yizhaq
-Nir Zevi
-Nir `Aqiva
-Nir `Oz
-Nir`am
+Nir Yiẕẖaq
+Nir Ẕevi
+Nir'am
 Niran
 Nirim
 Nirit
 Niva
-Nizzan
-Nizzana
-Nizzane 'Oz
-Nizzanim
-No`am
-No`omi
+Niẕẕan
+Niẕẕana
+Niẕẕanim
+Niẕẕané 'Oz
+No'am
+No'omi
 Nof Ayalon
 Nof Kinneret
 Nofei Prat
@@ -838,12 +890,13 @@ Nofit
 Nogah
 Nordiyya
 Nov
-Nujeidat
+Nujeidāt
+Nā'ūra
 Odem
 Ofaqim
 Ohad
 Omen
-Omez
+Omeẕ
 Or Akiva
 Or HaGanuz
 Or HaNer
@@ -853,21 +906,21 @@ Oranim
 Oron
 Orot
 Ortal
-Pa`ame Tashaz
-Palmahim
+Pa'amé Tashaz
+Palmaẖim
 Paran
-Pardes Hanna Karkur
 Pardesiyya
+Pardés H̱anna Karkur
 Parod
 Pattish
 Pedaya
 Peduyim
 Pelekh
-Peqi`in Hadasha
+Peqi'in H̱adasha
 Perazon
 Peri Gan
-Petah Tiqwa
-Petahya
+Petaẖ Tiqwa
+Petaẖya
 Pisgat Ze'ev
 Porat
 Poria Illit
@@ -877,36 +930,35 @@ Qaddita
 Qadima
 Qalansuwa
 Qalya
-Qazir
+Qaẕir
 Qedma
-Qela`
-Qelahim
+Qela'
+Qelaẖim
 Qeren
 Qeshet
-Qevuzat Yavne
-Qezi`ot
+Qevuẕat Yavne
+Qeẕi'ot
 Qidmat Tsevi
 Qidron
+Qiryat 'Anavim
 Qiryat 'Eqron
 Qiryat Ata
 Qiryat Bialik
 Qiryat HaYovel
-Qiryat Haroshet
+Qiryat H̱aroshet
 Qiryat Mal'akhi
-Qiryat Menahem
-Qiryat Mozqin
+Qiryat Menaẖem
+Qiryat Moẕqin
 Qiryat Ono
 Qiryat Sara
 Qiryat Shemona
 Qiryat Tiv'on
 Qiryat Yam
 Qiryat Ye'arim
-Qiryat Ye`arim
-Qiryat `Anavim
 Qomemiyyut
 Qoranit
 Qunayr
-Qusbiyah
+Quşbīyah
 Ra'anana
 Rahat
 Ram On
@@ -914,17 +966,17 @@ Rama
 Ramat Dawid
 Ramat Eliyyahu
 Ramat Gan
-Ramat HaKovesh
+Ramat HaKovésh
 Ramat HaSharon
 Ramat HaShenayim
 Ramat HaShofet
 Ramat Hadar
 Ramat Magshimim
-Ramat Rahel
 Ramat Razi'el
+Ramat Raẖel
 Ramat Yishay
-Ramat Yohanan
-Ramat Zevi
+Ramat Yoẖanan
+Ramat Ẕevi
 Ramla
 Ramot
 Ramot Eshkol
@@ -935,96 +987,93 @@ Ramot Naftali
 Ramot Remez
 Rannen
 Raqqefet
-Ras `Ali
-Ras el 'Ein
-Rasm Fatma
+Ras 'Ali
+Rasm Fātma
 Ravid
-Re`im
+Re'im
 Regavim
 Regba
-Rehov
-Rehovot
 Rekhasim
 Reshafim
 Retamim
 Revadim
-Revaha
 Revava
+Revaẖa
 Revivim
 Rewaya
-Rihaniya
+Reẖov
+Reẖovot
 Rinnatya
-Rishon LeZiyyon
+Rishon LeẔiyyon
 Rishpon
+Riẖaniya
 Rosh Ha'Ayin
 Rosh Pinna
-Ruhama
 Rumat Heib
-Rummana
-Sa`ad
-Sa`ar
+Rummāna
+Ruẖama
+Rās el 'Ein
+Sa'ad
+Sa'ar
 Sada
 Safed
-Sajur
-Sakhnin
-Salim
+Sakhnīn
 Sallama
 Samar
-Sandala
 Sansana
 Sappir
 Sarid
 Sasa
 Savyon
-Sawa`id
+Sawa'id
 Sde 'Uziyyahu
 Sde Boker
 Sde Dawid
 Sde Eli'ezer
 Sde Eliyyahu
-Sde Hemed
+Sde H̱emed
 Sde Ilan
 Sde Moshe
-Sde Nahum
-Sde Nehemya
+Sde Naẖum
+Sde Neẖemya
 Sde Terumot
 Sde Warburg
 Sde Ya'aqov
-Sde Yizhaq
+Sde Yiẕẖaq
 Sde Yo'av
-Sde Zevi
+Sde Ẕevi
 Sdot Yam
-Sede Avraham
-Sede Nizzan
 Sederot
 Sedot Mikha
+Sedé Avraham
+Sedé Niẕẕan
 Segev
 Segev Shalom
 Segula
 Semadar
+Sha'al
 Sha'alvim
 Sha'ar Efrayim
+Sha'ar Ha'Aliya
+Sha'ar Ha'Amaqim
+Sha'ar HaGolan
+Sha'ar Menashe
+Sha'are Avraham
 Sha'av
-Sha`al
-Sha`ar HaGolan
-Sha`ar Ha`Aliya
-Sha`ar Ha`Amaqim
-Sha`ar Menashe
-Sha`are Avraham
 Shadmot Devora
 Shafir
-Shahar
-Shahariyya
-Shaharut
 Shalwa
 Shamerat
 Shamir
 Shani
-Shari`
 Sharona
 Sharsheret
-Shave Ziyyon
+Sharī'
 Shavei darom
+Shavé Ẕiyyon
+Shaẖar
+Shaẖariyya
+Shaẖarut
 She'ar Yashuv
 Shedema
 Shefar'am
@@ -1032,19 +1081,19 @@ Shefayim
 Shefer
 Sheikh Bureik
 Shekhanya
-Shekhunat Bet Eli`ezer
+Shekhunat Bet Eli'ezer
 Shelomi
-Sheluhot
+Sheluẖot
 Sheqef
 Shetula
 Shetulim
-Shevut `Am
+Shevut 'Am
 Shezaf
 Shezor
 Shibbolim
 Shibli
-Shibli-Umm al-Ghanam
-Shikkun Gil `Amal
+Shibli–Umm al-Ghanam
+Shikkun Gil 'Amal
 Shilat
 Shimron
 Shimshit
@@ -1057,39 +1106,40 @@ Shomeriyya
 Shoqeda
 Shorashim
 Shoresh
-Shoshannat Ha`Amaqim
+Shoshannat Ha'Amaqim
 Shoval
 Shuva
 Sitriyya
 Snir
 Sufa
-Sulam
-Summeil
-Ta`oz
+Sājūr
+Sālim
+Sūlam
+Ta'oz
 Taiyiba
 Tal El
-Tal Shahar
-Talme Bilu
-Talme El`azar
-Talme Eliyyahu
-Talme Yafe
-Talme Yehi'el
+Tal Shaẖar
 Talme Yosef
 Talmon
+Talmé Bilu
+Talmé El'azar
+Talmé Eliyyahu
+Talmé Yafe
+Talmé Yeẖi'él
 Talpiyyot
 Tamra
 Tarum
 Te'ashur
-Tefahot
+Tefaẖot
 Tel 'Adashim
 Tel Aviv
-Tel Hanan
-Tel Hay
+Tel H̱anan
+Tel H̱ay
 Tel Mond
 Tel Qatsir
 Tel Sheva'
 Tel Te'omim
-Tel Yizhaq
+Tel Yiẕẖaq
 Tel Yosef
 Telalim
 Telamim
@@ -1097,85 +1147,82 @@ Tenuvot
 Tequma
 Tiberias
 Tidhar
-Tifrah
+Tifraẖ
 Timmorim
 Timrat
 Tirabin al-Sana
 Tirat Karmel
 Tirat Yehuda
-Tirat Zevi
+Tirat Ẕevi
 Tirosh
-Tohelet
+Toẖelet
 Tsur Itshak
-Tuba Zangariya
-Tur`an
+Tur'ān
 Tushiyya
 Tuval
 Tzova
 Tzrifin
 Tzukei yam
+Tūbā Zangarīya
 Udim
 Umm Batin
-Umm el Fahm
+Umm el Faḥm
 Umm el Ghanam
-Umm el Qutuf
+Umm el Quṭūf
 Uri'el
 Urim
 Usha
 Vardon
-Ya`ad
-Ya`alon
-Ya`ara
-Ya`el
+Ya'ad
+Ya'alon
+Ya'ara
+Ya'el
 Yad Binyamin
 Yad HaShemona
-Yad Hanna
+Yad H̱anna
 Yad Mordekhay
 Yad Natan
 Yad Rambam
-Yafa
 Yagel
 Yagur
-Yahad
 Yahel
-Yahudiyah at Tahtaniyah
-Yajur
+Yahūdīyah at Taḩtānīyah
 Yakhini
 Yamma
 Yanuah Jat
-Yanuh
 Yanuh-Jat
 Yanuv
 Yaqum
 Yardena
-Yarhiv
 Yarqona
-Yas`ur
+Yarẖiv
+Yas'ur
 Yashresh
 Yated
-Yavne
 Yavne'el
+Yavné
 Yavor
-Yaziz
-Ye`af
+Yaẕiẕ
+Yaẖad
+Ye'af
 Yedidya
-Yehi`am
 Yehud
 Yehud-Monosson
-Yeroham
-Yesha`
+Yeroẖam
+Yesha'
 Yesodot
 Yesud HaMa'ala
 Yevul
+Yeẖi'am
 Yif'at
-Yiftah
+Yiftaẖ
 Yikkon
 Yinnon
 Yir'on
-Yirka
-Yish`i
+Yirkā
+Yish'i
 Yittar
-Yizre`el
+Yizre'el
 Yodefat
 Yonatan
 Yoqne'am 'Illit
@@ -1184,94 +1231,46 @@ Yoshivya
 Yotvata
 Yuval
 Yuvallim
-Zafon Ka`abiyya
-Zafririm
-Zafriyya
+Yāfā
+Yājur
+Yānūḥ
 Zalafa
-Zanoah
-Zar`it
+Zanoaẖ
+Zar'it
 Zarzir
-Zavdi'el
-Ze'elim
+Zavdi'él
 Zekharya
-Zelafon
 Zemer
-Zerahya
-Zeru`a
-Zerufa
+Zeraẖya
+Zeru'a
 Zetan
-Zeviyya
 Zikhron Ya'aqov
 Zimrat
-Zippori
 Ziqim
-Ziv`on
-Zofar
-Zofit
 Zohar
-Zor`a
-Zoran
-Zuqim
-Zur Hadassa
-Zur Moshe
-Zur Natan
-Zur Shalom
-Zuri'el
-Zurit
-`Adanim
-`Agur
-`Akbara
-`Alma
-`Alumim
-`Amasa
-`Amir
-`Ammi`oz
-`Ammiqam
-`Amqa
-`Aqqada
-`Ara
-`Avdon
-`Ayanot
-`Azarya
-`Azri'el
-`Eilabun
-`Ein Ibrahim
-`Ein Rafa
-`Ein el Asad
-`Ein el Ma`lqa
-`Ein es Sahla
-`Ein ez Zaytuna
-`En Boqeq
-`En Gedi
-`En Gev
-`En HaBesor
-`En HaHoresh
-`En HaNaziv
-`En HaShelosha
-`En HaShofet
-`En Ha`Emeq
-`En Harod Ihud
-`En Hazeva
-`En Hod
-`En Karmel
-`En Shemer
-`En Tamar
-`En Yahav
-`En Zetim
-`En Zurim
-`En `Iron
-`Enat
-`Evron
-`Ezer
-`Ezuz
-`Iddan
-`Ir Gannim
-`Ir Ovot
-`Isawiya
-`Ofer
-`Otni'el
-`Ozem
-`Uza
-`Uzeir
 maale adumim
-maalot Tarshiha
+maalot Tarshīhā
+Ḥurfeish
+Ḥuseinīya
+Ṣandala
+Ṣummeil
+Ẕafon Ka'abiyya
+Ẕafririm
+Ẕafriyya
+Ẕe'elim
+Ẕelafon
+Ẕerufa
+Ẕeviyya
+Ẕippori
+Ẕiv'on
+Ẕofar
+Ẕofit
+Ẕor'a
+Ẕoran
+Ẕuqim
+Ẕur Hadassa
+Ẕur Moshe
+Ẕur Natan
+Ẕur Shalom
+Ẕuri'el
+Ẕurit

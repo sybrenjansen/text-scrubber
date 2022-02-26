@@ -27,10 +27,10 @@ Ak-Chabuu
 Ak-Changyl
 Ak-Chaya
 Ak-Chiy
-Ak-Doeboe
 Ak-Dyube
 Ak-Dzhar
 Ak-Dzhol
+Ak-Döbö
 Ak-Ityk
 Ak-Jol
 Ak-Jylga
@@ -48,10 +48,10 @@ Ak-Oy
 Ak-Saich
 Ak-Say
 Ak-Say Madaniy Borbor
-Ak-Seok
 Ak-Shor
 Ak-Shyyrak
 Ak-Suu
+Ak-Sëok
 Ak-Tal
 Ak-Tala
 Ak-Talaa
@@ -85,8 +85,8 @@ Akshar
 Aksu
 Aktala
 Aktash
-Aktee
 Akterek
+Akteë
 Akulen
 Akyya
 Ala-Archa Al'plegri
@@ -115,7 +115,7 @@ Almalyk
 Almurut
 Altalu
 Altyn
-Altyn-Kyurek
+Altyn-Kyurëk
 Altyn-Kyya
 Altynamach
 Altynaryk
@@ -130,8 +130,8 @@ Andarak
 Andarkhan
 Ankolot
 Apyrtan
-Ara-Kel'
-Arakel'
+Ara-Kël'
+Arakël'
 Aral
 Aral-Blizhniy
 Aral-Dal'niy
@@ -234,13 +234,9 @@ Bazar-Bulak
 Bazar-Korgon
 Bazar-Turuk
 Bedachi
-Bedzhey
-Beget
 Bek-Abad
 Bek-Dzhar
-Bekey
 Bekitai
-Bekse-Dzhol
 Bel
 Bel'
 Bel'-Chargay
@@ -263,7 +259,7 @@ Besh-Belchir
 Besh-Burkhan
 Besh-Dzhygach
 Besh-Kala
-Besh-Kyungey
+Besh-Kyungëy
 Besh-Oryuk
 Besh-Tal
 Besh-Tash
@@ -295,7 +291,7 @@ Bogatyrovka
 Bokombayevskoye
 Boksy
 Bol'shevik
-Bor-Debe
+Bor-Dëbe
 Borbash
 Bordu
 Borko
@@ -318,8 +314,8 @@ Bozbulun
 Bozuchuk
 Budalyk
 Budaylyk
-Budennovka
 Budennyy
+Budënnovka
 Buguchu
 Bujum
 Bukara
@@ -339,6 +335,10 @@ Buzuk
 Byurgendyu
 Byurgendyu OPKH
 Byurkyut
+Bëdzhëy
+Bëgët
+Bëkey
+Bëksë-Dzhol
 Chaar-Tash
 Chagyr
 Chakmak
@@ -347,7 +347,7 @@ Chal Tash
 Chalakazaki
 Chaldavar
 Chaldybar
-Chalk-Oyde
+Chalk-Oydë
 Chalkoy
 Chalma
 Changet
@@ -359,7 +359,7 @@ Charbak
 Charbak-Say
 Chartak-Tash
 Chat
-Chat-Kel'
+Chat-Kël'
 Chatbazar
 Chaty
 Chatynsy
@@ -367,23 +367,21 @@ Chatyr
 Chatyr-Tash
 Chauvai
 Chayek
-Chech-Debe
-Chech-Tebe
+Chech-Tëbë
 Chechen-Makhalla
 Chechme
 Chegeden
 Chek
 Chekabad
-Cheke-Debe
 Chekelik
 Chekulo
 Cheleke
 Chelpek
 Chemyndy
 Chenget-Say
-Cheremushki
 Cherik
 Chertik
+Cherëmushki
 Chet-Bulak
 Chet-Kurgandy
 Chet-Kyzyl
@@ -404,7 +402,7 @@ Chirlykty
 Chiy-Talaa
 Chiye
 Chiyrchik
-Cho`loq-Tuma
+Cho'loq-Tuma
 Chogon
 Chogorok
 Chok-Tal
@@ -430,12 +428,12 @@ Chonalysh
 Chonbet
 Chonbulak
 Chong-Aryk
-Chong-Byulelyu
+Chong-Byulëlyu
 Chong-Kyzylsu
 Chong-Taldy-Suu
 Chong-Tash
 Chongolot
-Chongtebe
+Chongtëbe
 Chonshar
 Chontash
 Chontoguzbay
@@ -459,6 +457,8 @@ Chymchyk
 Chymchyk-Dzhar
 Chymgent
 Chyrpykty
+Chëch-Dëbë
+Chëkë-Dëbë
 Dachnoye
 Dangi
 Dardasan
@@ -469,27 +469,21 @@ Dashman
 Dashtepe
 Davlet-Aryk
 Dayyrbek
-Debey
 Dekhkan
-Demer
 Den-Alyn
-Dengtala
 Denisovka
 Denuz-Too
 Dergochko
-Desh
 Dhzangyturmush
 Dhzany-Bak
 Dinau
 Djajylma
 Djany-Djol
 Dmitriyevka
-Dodomol
 Dodon
 Dolon
 Dolono
 Donalysh
-Dong-Aryk
 Dorozhnyy
 Dorstroy
 Doskana
@@ -567,14 +561,14 @@ Dzhergalan
 Dzherge-Tal
 Dzhergetal
 Dzheti-Koshkon
-Dzhetim-Debe
+Dzhetim-Dëbë
 Dzheyek
 Dzhigdy
 Dzhil'-Aryk
 Dzhil'ma-Dva
 Dzhil'ma-Odin
 Dzhilandy
-Dzhildyz-Kel'
+Dzhildyz-Kël'
 Dzhilgin-Say
 Dzhin-Dzhigen
 Dzhinde
@@ -590,7 +584,7 @@ Dzhon-Aryk
 Dzhonalysh
 Dzhonbulak
 Dzhoo-Paya
-Dzhoon-Kyungey
+Dzhoon-Kyungëy
 Dzhosha
 Dzhosho
 Dzhoshuk
@@ -604,6 +598,12 @@ Dzhylan-Temir
 Dzhylgamysh
 Dzhyuzyumdzhan
 Dzhyydelik
+Dëbëy
+Dëmër
+Dëngtala
+Dësh
+Dödömöl
+Döng-Aryk
 Echkili-Tash
 Efironos
 Egin-Dzhay
@@ -645,7 +645,7 @@ Gidrostroy
 Golbo
 Gologon
 Gornaya Serafimovka
-Gornaya-Mayevka
+Gornaya-Mayëvka
 Gorno-Serafimovka
 Gosplodopitomnik
 Gostutpitomnik
@@ -672,8 +672,8 @@ Il'ichyovskoe
 Imamata
 Imeni Chapayeva
 Imeni Chkalova
-Imeni Fedorova
 Imeni Frunze
+Imeni Fëdorova
 Imeni Gagarina
 Imeni Kalinina
 Imeni Karla Marksa
@@ -739,11 +739,11 @@ Jergetal
 Jetigen
 Jiluu-Bulak
 Jon-Aryk
-Joon-Dobo
+Joon-Döbö
 Joy-Belent
 Jumgal
 Kaarman
-Kablan-Kel'
+Kablan-Kël'
 Kachkynchy
 Kadamjay
 Kadu
@@ -803,19 +803,17 @@ Kara-Chagat
 Kara-Cholok
 Kara-Chungkur
 Kara-Dar'ya
-Kara-Debe
-Kara-Dobo
-Kara-Doeboe
 Kara-Dyjkan
 Kara-Dzhygach
 Kara-Dzhylga
+Kara-Dëbë
+Kara-Döbö
 Kara-Echki
 Kara-Gonush
 Kara-Ingen
 Kara-Jygach
 Kara-Kabak
 Kara-Kashat
-Kara-Kel'
 Kara-Kesmak
 Kara-Kindik
 Kara-Kismak
@@ -830,17 +828,18 @@ Kara-Kulja
 Kara-Kungey
 Kara-Kyshtak
 Kara-Kyz
+Kara-Kël'
 Kara-Moynok
 Kara-Oot
 Kara-Otek
 Kara-Oy
 Kara-Say
 Kara-Saz
-Kara-Seget
 Kara-Shaar
 Kara-Shibak
 Kara-Shoro
 Kara-Suu
+Kara-Sëgët
 Kara-Talaa
 Kara-Tangi
 Kara-Tash
@@ -903,8 +902,8 @@ Karchabek
 Kardydzharyk
 Karkara
 Karool
-Karool-Debe
-Karool-Tobo
+Karool-Dëbë
+Karool-Töbö
 Karoy
 Kashat
 Kashgar Kyshtak
@@ -951,25 +950,10 @@ Kedzhige
 Kegere-Tash
 Kegeti
 Keglatar
-Kek-Alma
 Kek-Aydar
-Kek-Bulak
-Kek-Dzhar
-Kek-Moynok Vtoroye
-Kek-Say
-Kek-Tal
-Kek-Talaa
 Kek-Tash
-Kek-Tebe
-Kekbel'
-Kekkashat
-Kekoy
 Kektash
-Kektokoy
-Kektyube
-Kel'
-Kel'dyun-Chaty
-Kel'me
+Kel'më
 Kel'techap
 Kel-Chaty
 Kelish
@@ -998,8 +982,7 @@ Kesek
 Kesken-Tash
 Keskentyube
 Kesov
-Keterme
-Ketmen-Tobo
+Ketmen-Töbö
 Khadzhir-Abad
 Khalmion
 Khanabad
@@ -1013,9 +996,9 @@ Khodzhaaryk
 Khodzhasuydu
 Khoshchan
 Khun-Chi
-Kichi Byuogendyu
+Kichi Byuogëndyu
 Kichi-Borolbos
-Kichi-Byulelyu
+Kichi-Byulëlyu
 Kichi-Dzhargylchak
 Kichi-Dzhaz
 Kichi-Dzhotash
@@ -1042,16 +1025,12 @@ Kochoboyu
 Kochubayevo
 Kodzho-Aryk
 Kodzhoke
-Koek-Oy
 Kogoy
 Koj-Yar
-Kojokel'
+Kojokël'
 Kojomkul
-Kok-Art
 Kok-Aryk
-Kok-Aygyr
 Kok-Moynak
-Kok-Moynok Eki
 Kok-Tundy
 Kok-Yangak
 Kokandyk
@@ -1063,7 +1042,6 @@ Kokyangkok
 Kol'kain
 Kol'tor
 Kol'tso
-Kol-Suu
 Kolaryk
 Kolba
 Kolot
@@ -1076,7 +1054,7 @@ Komsomol'skoye
 Kon
 Konduk
 Kongur-Ogyuz
-Kongur-Olon
+Kongur-Ölön
 Konokbay-Talaa
 Konorchok
 Konstantinovka
@@ -1096,18 +1074,18 @@ Korumdu
 Korumdy
 Kosh-Bolot
 Kosh-Bulak
-Kosh-Debe
-Kosh-Doeboe
+Kosh-Dëbë
+Kosh-Döbö
 Kosh-Eter
-Kosh-Kol
 Kosh-Korgon
+Kosh-Köl
 Kosh-Terek
 Koshalysh
 Koshbulak
 Koshoj
-Koshtebe
 Koshterek
 Koshtyube
+Koshtëbë
 Koshulmurut
 Koshulush
 Kotormo
@@ -1166,7 +1144,6 @@ Kurmenty
 Kurn
 Kurnsay
 Kurpak-Korgon
-Kurpuldok
 Kurshab
 Kurskoye
 Kuru-Maymak
@@ -1198,14 +1175,14 @@ Kyrkkazyk
 Kysh-Abad
 Kyshtut
 Kysyk-Alma
-Kyulyuk-Debe
+Kyulyuk-Dëbë
 Kyumyush-Aziz
 Kyundelyuk
 Kyungey
 Kyyal-Say
 Kyymyl
 Kyz-Emchek
-Kyz-Kel'
+Kyz-Kël'
 Kyz-Molo
 Kyzart
 Kyzkiya
@@ -1230,11 +1207,8 @@ Kyzyl-Dzhyldyz
 Kyzyl-Eshme
 Kyzyl-Jol
 Kyzyl-Jyldyz
-Kyzyl-Kechyu
-Kyzyl-Kel'
 Kyzyl-Kia
 Kyzyl-Kiya
-Kyzyl-Kol
 Kyzyl-Korgon
 Kyzyl-Koshchu
 Kyzyl-Kum
@@ -1243,11 +1217,13 @@ Kyzyl-Kyrman
 Kyzyl-Kyshtak
 Kyzyl-Kyshtoo
 Kyzyl-Kyya
+Kyzyl-Këchyu
+Kyzyl-Kël'
+Kyzyl-Köl
 Kyzyl-Mekhnat
 Kyzyl-Oktyabr'
 Kyzyl-Ordo
 Kyzyl-Oy
-Kyzyl-Ozgorush
 Kyzyl-Saray
 Kyzyl-Say
 Kyzyl-Sengir
@@ -1263,6 +1239,7 @@ Kyzyl-Too
 Kyzyl-Tuu
 Kyzyl-Unkyur
 Kyzyl-Uraan
+Kyzyl-Özgörüsh
 Kyzylbiit
 Kyzylcharba
 Kyzyldezkan
@@ -1272,12 +1249,34 @@ Kyzyldzhyldyz
 Kyzylemgek
 Kyzylkurgan
 Kyzyloy
-Kyzyltebe
 Kyzyltol
 Kyzyltu
 Kyzyltyube
+Kyzyltëbë
 Kyzylzhildyz
 Kyzymchek-Karakash
+Këk-Alma
+Këk-Bulak
+Këk-Dzhar
+Këk-Moynok Vtoroye
+Këk-Say
+Këk-Tal
+Këk-Talaa
+Këk-Tëbë
+Këkbel'
+Këkkashat
+Këkoy
+Këktokoy
+Këktyube
+Kël'
+Kël'dyun-Chaty
+Këtërme
+Kök-Art
+Kök-Aygyr
+Kök-Moynok Eki
+Kök-Oy
+Köl-Suu
+Kürpüldök
 Ladan Kara
 Laglan
 Lakol
@@ -1377,7 +1376,7 @@ Murake
 Murdash
 Murgejak
 Myk
-Myk-Debe
+Myk-Dëbë
 Mykan
 Myrza-Aryk
 Myrza-Patcha
@@ -1429,8 +1428,7 @@ Ondokon
 Oogon-Talaa
 Oq-Toyloq
 Orazak
-Ordesh
-Oren-Terek
+Ordësh
 Orgulu
 Orkazgan
 Orke
@@ -1439,7 +1437,7 @@ Orlovka
 Ormosh
 Ornek
 Ornok
-Oro-Debe
+Oro-Dëbë
 Orobashi
 Orozbekovo
 Orto-Aryk
@@ -1460,6 +1458,7 @@ Ortoaryk
 Ortok
 Ortosu
 Oryuktyu-Khutor
+Orën-Terek
 Osh
 Osoaviakhim
 Osor
@@ -1477,10 +1476,10 @@ Oyalma
 Oybulak
 Oyrongdu
 Oytal
-Ozernoye
-Ozgeryush
 Ozgorush
 Ozgur
+Ozgëryush
+Ozërnoye
 Paizbulak
 Pakhalya
 Pakhtachi
@@ -1521,10 +1520,10 @@ Pushkino
 Pyat'desyat Let Soyuz Sovetskikh Sotsialisticheskikh Respublik
 Pyatiletka
 Pyldyrak
-Qaratobe Asuy
+Qaratöbe Asūy
 Qizil-Bayroq
-Qurg`oq-Ko`l
-Rabochiy Poselok
+Qurg'oq-Ko'l
+Rabochiy Posëlok
 Rakhmandzhan
 Rassvet
 Ravat
@@ -1562,16 +1561,15 @@ Sary
 Sary-Bee
 Sary-Bez
 Sary-Bulak
-Sary-Dobo
-Sary-Doeboe
 Sary-Dzhon
-Sary-Gogot
+Sary-Döbö
+Sary-Gögöt
 Sary-Kamysh
 Sary-Kashka
 Sary-Kolot
 Sary-Kyungey
 Sary-Mogol
-Sary-Otek
+Sary-Otëk
 Sary-Talaa
 Sary-Tash
 Sarybulak
@@ -1594,13 +1592,12 @@ Saydanauze
 Saydikum
 Saylyk
 Saz
-Seget
 Segizinchi Mart
 Selektsionnoye
-Semenovka
 Semisbel'
-Semiz-Kel'
+Semiz-Kël'
 Semizbel'
+Semënovka
 Severnoye
 Severnyy
 Seyit-Kazy
@@ -1659,7 +1656,7 @@ Sotsializm
 Sovet-Soy
 Sovetskiy
 Sovetskoye
-Sovkhoz Kek-Say
+Sovkhoz Këk-Say
 Sovkhoz Orgochor
 Spartak
 Sretenka
@@ -1688,6 +1685,7 @@ Syrt
 Syrt Vtoroy
 Syuttubulak
 Syuttyuu-Bulak
+Sëgët
 Tabylgany
 Tabylgy
 Tabylgyty
@@ -1722,7 +1720,7 @@ Tash-Akyr
 Tash-Aryk
 Tash-Bashat
 Tash-Bulak
-Tash-Dobo
+Tash-Döbö
 Tash-Kel'
 Tash-Kepe
 Tash-Kitchu
@@ -1757,7 +1755,6 @@ Tegirmenti
 Tegizchil
 Tel'man Atyndagy
 Tel'manchaty
-Teleyken
 Temen-Suu
 Temir Koruk
 Temirkanat
@@ -1765,16 +1762,12 @@ Temirovka
 Tendik
 Tenge
 Tengi
-Teoles
 Tepe-Korgon
 Tepke
 Terek
 Terek-Say
 Terek-Suu
 Tereksu
-Tert-Kel'
-Tert-Kul'
-Tesh
 Teskey
 Tilekmat
 Tillya-Bay-Kurgan
@@ -1791,7 +1784,6 @@ Toktobek
 Toktogul
 Toktoyan
 Tolman
-Tolok
 Toluk
 Tomonku Chuy
 Tong
@@ -1823,7 +1815,7 @@ Turatam
 Turduk
 Turkkishlak
 Turpachaty
-Tutek
+Tutëk
 Tuura-Suu
 Tuyuk-Suu
 Tuz
@@ -1831,21 +1823,25 @@ Tuz-Bel'
 Tuzbel'
 Tyolyoyken
 Tyube
-Tyugel'say
+Tyugël'say
 Tyul'kutyube
 Tyundik
 Tyup
 Tyurk-Maala
 Tyuz
 Tyz-Ashu
+Tëlëyken
+Tëolës
+Tërt-Kul'
+Tërt-Kël'
+Tësh
+Tölök
 Uch-Chymchyk
 Uch-Debe
 Uch-Emchek
 Uch-Korgon
-Uch-Koshkon
 Uch-Kul'
 Uch-Malay
-Uch-Terek
 Uch-Top-Kyr
 Uch-Tyube
 Uchar
@@ -1925,7 +1921,7 @@ Yrdyk
 Yrgayty
 Yshtyk
 Ysyk-Ata
-Ysyk-Kol
+Ysyk-Köl
 Yuqori Uvam
 Yur'yevka
 Zamaryk
@@ -1937,8 +1933,8 @@ Zarechnyy
 Zarger
 Zarya
 Zavodskoye
-Zelenoye
 Zelenyy Gay
+Zelënoye
 Zhany-Zher
 Zhanyryk
 Zhdanovo
@@ -1956,3 +1952,5 @@ Zimov'ye Taka
 Zimovka Boron
 Zyndan
 kyzyl-Toqoy
+Üch-Koshkon
+Üch-Terek

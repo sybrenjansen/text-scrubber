@@ -466,7 +466,7 @@ Baie Verte
 Baie Verte Road
 Baie de Bouctouche
 Baie-Comeau
-Baie-D'Urfe
+Baie-D'Urfé
 Baie-Des-Sables
 Baie-Dorval
 Baie-James
@@ -476,7 +476,7 @@ Baie-Rouge
 Baie-Saint-Ludger
 Baie-Saint-Paul
 Baie-Sainte-Catherine
-Baie-Trinite
+Baie-Trinité
 Baie-de-Vaudreuil
 Baie-de-l'Ours
 Baie-des-Brises
@@ -603,12 +603,12 @@ Barrhead
 Barrie
 Barrieau
 Barriefield
-Barriere
 Barrillia Park
 Barrington
 Barrington Head
 Barrington Passage
 Barrington West
+Barrière
 Barronsfield
 Barrow Bay
 Barrows
@@ -731,7 +731,6 @@ Bear Valley
 Bearbrook
 Beardmore
 Beardsley
-Bearn
 Beatrice
 Beatty
 Beaucage
@@ -747,11 +746,11 @@ Beaumaris
 Beaumonde Heights
 Beaumont
 Beauport
-Beaupre
+Beaupré
 Beausejour
 Beauval
 Beauvallon
-Beaux-Rivages--Lac-des-Ecorces--Val-Barrette
+Beaux-Rivages--Lac-des-Écorces--Val-Barrette
 Beaver Bank
 Beaver Brook
 Beaver Brook Station
@@ -771,7 +770,6 @@ Beaverley
 Beaverlodge
 Beavers Corner
 Beaverton
-Becancour
 Bechard
 Becher
 Becketts Bridge
@@ -804,8 +802,7 @@ Beechwood Park
 Beechy
 Beersville
 Beeton
-Begin
-Behchoko
+Behchokǫ̀
 Beinn Bhreagh
 Beiseker
 Bel Air Heights
@@ -922,7 +919,6 @@ Berwyn
 Berylvale
 Bessemer
 Bestwick
-Bethanie
 Bethany
 Bethel
 Bethesda
@@ -1147,7 +1143,7 @@ Bogton
 Boharm
 Boiestown
 Boileau
-Bois Hebert
+Bois Hébert
 Bois-Blanc
 Bois-Franc
 Bois-des-Acadiens
@@ -1181,7 +1177,7 @@ Bondiss
 Bonfield
 Bongard
 Bongard Corners
-Bonne-Esperance
+Bonne-Espérance
 Bonnechere
 Bonnet Hill
 Bonney Road
@@ -1614,6 +1610,10 @@ Byersville
 Byng Inlet
 Byrnedale
 Byron
+Béarn
+Bécancour
+Bégin
+Béthanie
 CPR
 Cabano
 Cabbagetown
@@ -1769,7 +1769,7 @@ Cap-Pele
 Cap-Saint-Ignace
 Cap-Saint-Jacques
 Cap-Saint-Martin
-Cap-Sante
+Cap-Santé
 Cap-Seize
 Cap-au-Renard
 Cap-aux-Meules
@@ -2121,9 +2121,6 @@ Chase Corners
 Chase River
 Chaswood
 Chatboro
-Chateau-Richer
-Chateauguay
-Chateauguay-Centre
 Chateh
 Chatfield
 Chatham
@@ -2152,7 +2149,6 @@ Chemong Heights
 Chemong Park
 Chenail-du-Moine
 Chenaux
-Cheneville
 Cheney
 Cherhill
 Cherry Brook
@@ -2179,7 +2175,6 @@ Chester Grant
 Chesterfield
 Chestermere
 Chesterville
-Cheticamp
 Chetwynd
 Cheverie
 Chezacut
@@ -2241,6 +2236,11 @@ Chute-Victoria
 Chute-aux-Galets
 Chute-aux-Outardes
 Chutes-de-Sainte-Ursule
+Château-Richer
+Châteauguay
+Châteauguay-Centre
+Chénéville
+Chéticamp
 Cinnabar Valley
 Cinnamon Hills
 Ciquart
@@ -2312,7 +2312,6 @@ Clearwater Beach
 Clearwater River
 Clementsport
 Clementsvale
-Clericy
 Clermont
 Clerval
 Cleveland
@@ -2344,6 +2343,7 @@ Clute
 Clyde
 Clyde River
 Clydesville
+Cléricy
 Coachman's Cove
 Coady Road
 Coal Branch
@@ -2456,7 +2456,7 @@ Comins Mills
 Commanda
 Commodore Park
 Commons
-Communaute metropolitaine de Montreal
+Communauté métropolitaine de Montréal
 Community Beach
 Como
 Como-Est
@@ -2581,8 +2581,6 @@ Cosman Settlement
 Cosmos
 Costigan
 Cosy Cove
-Cote-Nord-du-Golfe-du-Saint-Laurent
-Cote-Saint-Luc
 Coteau Beach
 Coteau-du-Lac
 Cotieville
@@ -2777,6 +2775,8 @@ Cypress River
 Cyr Junction
 Cyrville
 Czar
+Côte-Nord-du-Golfe-du-Saint-Laurent
+Côte-Saint-Luc
 D'Arcy
 D'Escousse
 Dablon
@@ -2898,7 +2898,6 @@ Deerhurst
 Deersdale
 Deerville
 Defoy
-Degelis
 Dejong
 Del Ray
 Del-Val
@@ -2906,7 +2905,6 @@ Delamere
 Delaps Cove
 Delaware West
 Delburne
-Deleage
 Delhaven
 Delhi
 Delia
@@ -2953,7 +2951,7 @@ Desbiens
 Deschaillons-sur-Saint-Laurent
 Deschambault
 Deschambault Lake
-Deschenes
+Deschênes
 Deseronto
 Desert Lake
 Desherbiers
@@ -2964,7 +2962,7 @@ Desmond
 Despinassy
 Dettah
 Deux-Montagnes
-Deuxieme-Sault
+Deuxième-Sault
 Devault
 Devine Corner
 Devizes
@@ -3353,6 +3351,8 @@ Dyer's Bay
 Dyment
 Dynes
 Dysart
+Dégelis
+Déléage
 Eades
 Eads Bush
 Eady
@@ -3750,7 +3750,6 @@ Etzikom
 Eugenia
 Eureka
 Eustis
-Evain
 Evandale
 Evanston
 Evansville
@@ -4089,7 +4088,7 @@ Fountain Beach
 Fountain Road
 Four Falls
 Four Mile Brook
-Fourche-a-Clark
+Fourche-à-Clark
 Fourchu
 Fourth Chute
 Fourth Line
@@ -4195,7 +4194,7 @@ Froude
 Fruitvale
 Fryatt
 Frys
-Fugereville
+Fugèreville
 Fulda
 Fulford
 Fulford Harbour
@@ -4218,9 +4217,9 @@ Gads Hill
 Gadsby
 Gaetz Brook
 Gagetown
-Gagne
 Gagnon
 Gagnon-Siding
+Gagné
 Gainsborough
 Galahad
 Galbraith
@@ -4241,7 +4240,7 @@ Galts Corner
 Gambo
 Gamebridge Beach
 Gameland
-Gameti
+Gamèti
 Gananoque
 Gander
 Gander Bay North
@@ -4287,10 +4286,10 @@ Garson
 Gaskiers
 Gaskiers-Point La Haye
 Gasline
-Gaspe
 Gaspereau
 Gaspereau Forks
 Gaspereau Mountain
+Gaspé
 Gateway
 Gatineau
 Gaud Corners
@@ -4618,7 +4617,7 @@ Grand River Falls
 Grand Tracadie
 Grand Valley
 Grand View
-Grand pre
+Grand pré
 Grand-Calumet
 Grand-Fonds
 Grand-Remous
@@ -4778,8 +4777,8 @@ Grondines-Station
 Grono Road
 Gros Cap
 Gros-Cap
-Gros-Mecatina
 Gros-Morne
+Gros-Mécatina
 Grosse Isle
 Grosses Coques
 Grosvenor
@@ -5124,7 +5123,6 @@ Heathland
 Heathton
 Hebbs Cross
 Hebbville
-Hebertville
 Hebron
 Hecate
 Heckmans Island
@@ -5176,7 +5174,6 @@ Heron Bay
 Heron Gate
 Heron Island
 Heron Park
-Herouxville
 Herring Cove
 Herringville
 Herrons Corners
@@ -5449,13 +5446,13 @@ Hymers
 Hyndford
 Hyndman
 Hythe
+Hébertville
+Hérouxville
 Ice Lake
 Ida
 Ida Hill
 Ignace
-Ile des Chenes
-Ile-Aux-Grues
-Ile-a-la-Crosse
+Ile des Chênes
 Ilford
 Ilfracombe
 Immaculate Conception Church
@@ -6031,13 +6028,13 @@ L'Ancienne-Lorette
 L'Ange-Gardien
 L'Annonciation
 L'Anse-Saint-Jean
-L'Anse-a-Valleau
 L'Anse-au-Clair
 L'Anse-au-Griffon
 L'Anse-au-Loup
 L'Anse-aux-Canons
 L'Anse-aux-Fraises
 L'Anse-du-Portage
+L'Anse-à-Valleau
 L'Archeveque
 L'Ardoise
 L'Ardoise West
@@ -6046,17 +6043,17 @@ L'Ascension
 L'Ascension-de-Notre-Seigneur
 L'Assomption
 L'Avenir
-L'Epiphanie
-L'Etang-du-Nord
-L'Ile-Cadieux
-L'Ile-Perrot
-L'Ile-d'Anticosti
 L'Isle-Verte
 L'Isle-aux-Allumettes
 L'Islet
 L'Islet-sur-Mer
 L'Oiseau-Bleu
 L'Orignal
+L'Épiphanie
+L'Étang-du-Nord
+L'Île-Cadieux
+L'Île-Perrot
+L'Île-d'Anticosti
 La Baie
 La Berge
 La Bostonnais
@@ -6068,7 +6065,7 @@ La Conception-Station
 La Corne
 La Corniche
 La Croche
-La Dore
+La Doré
 La Durantaye
 La Fourche
 La Grande-1
@@ -6083,23 +6080,23 @@ La Martine
 La Martre
 La Minerve
 La Montagne
-La Morandiere
+La Morandière
 La Motte
 La Nation
 La Palestine
 La Patrie
-La Peche
 La Perdriole
 La Petite-Barbue
 La Petite-Minerve
-La Pocatiere
+La Pocatière
 La Poile
 La Pointe
 La Prairie
 La Providence
+La Pêche
 La Reine
 La Renouche
-La Riviere
+La Rivière
 La Romaine
 La Ronge
 La Salette
@@ -6107,12 +6104,12 @@ La Salle
 La Sarre
 La Scie
 La Seigneurie
-La Tabatiere
+La Tabatière
 La Trappe
 La Tuque
 La Visitation
 La Visitation-de-Yamaska
-La Visitation-de-l'Ile-Dupas
+La Visitation-de-l'Île-Dupas
 LaHave
 LaRue Mills
 LaSalle
@@ -6124,7 +6121,7 @@ Labrecque
 Labrieville
 Lac Baker
 Lac Delage
-Lac Frontiere
+Lac Frontière
 Lac La Biche
 Lac La Biche Mission
 Lac Seul
@@ -6177,7 +6174,6 @@ Lac-Diane
 Lac-Drolet
 Lac-Duffy
 Lac-Dufresne
-Lac-Edouard
 Lac-Elgin
 Lac-Etchemin
 Lac-Filion
@@ -6216,11 +6212,11 @@ Lac-Manitou-Sud
 Lac-Marsan
 Lac-Masketsi
 Lac-McGregor
-Lac-Megantic
 Lac-Miroir
 Lac-Mondor
 Lac-Moore
 Lac-Morin
+Lac-Mégantic
 Lac-Notre-Dame
 Lac-Ouareau
 Lac-Paradis
@@ -6247,7 +6243,7 @@ Lac-Siesta
 Lac-Simon
 Lac-Spectacles
 Lac-Stoke
-Lac-Superieur
+Lac-Supérieur
 Lac-Tire
 Lac-Unique
 Lac-Vert
@@ -6270,7 +6266,7 @@ Lac-des-Perdrix
 Lac-des-Piles
 Lac-des-Pins
 Lac-des-Plages
-Lac-des-Seize-Iles
+Lac-des-Seize-Îles
 Lac-des-Sources
 Lac-du-Brochet
 Lac-du-Camp
@@ -6279,6 +6275,7 @@ Lac-du-Marcheur
 Lac-du-Milieu
 Lac-du-Pin-Rouge
 Lac-en-Coeur
+Lac-Édouard
 Lacadena
 Lacey Green
 Lachenaie
@@ -6299,7 +6296,7 @@ Laforce
 Laforest
 Laforge-1
 Laforge-2
-Lagaceville
+Lagacéville
 Laggan
 Lagoon City
 Laird
@@ -6376,13 +6373,13 @@ Lamberts Cove
 Lambertville
 Lambton
 Lambton Shores
-Lameque
 Lamlash
 Lammermoor
 Lamont
 Lamoreaux Corner
 Lamoureux
 Lampman
+Lamèque
 Lanark
 Lancaster
 Lancelot
@@ -6448,7 +6445,6 @@ Latulipe-et-Gaboury
 Lauder
 Lauderbach
 Laura
-Laureat
 Laurel
 Laurel-Station
 Laurence
@@ -6460,6 +6456,7 @@ Laurentien
 Laurier-station
 Laurin
 Lauriston
+Lauréat
 Lauvergot
 Laval
 Laval-Nord
@@ -6468,7 +6465,7 @@ Laval-des-Rapides
 Lavaltrie
 Lavant
 Lavant Station
-Laverlochere
+Laverlochère
 Lavigne
 Lavillette
 Lavington
@@ -6535,7 +6532,7 @@ Leaskdale
 Leavitt
 Lebahdo
 Lebanon
-Lebel-sur-Quevillon
+Lebel-sur-Quévillon
 Leblanc
 Lebret
 Leckie Park
@@ -6584,23 +6581,22 @@ Lequille
 Leross
 Leroy
 Lerwick
-Lery
 Les Buissons
 Les Caps
-Les Cedres
 Les Chenaux
 Les Coteaux
+Les Cèdres
 Les Dalles
-Les Eboulements
 Les Escoumins
 Les Explorateurs
 Les Gouverneurs
 Les Hurons
 Les Islets-Caribou
-Les Mechins
+Les Méchins
 Les Prairies
 Les Rapides
 Les Souliers-Verts
+Les Éboulements
 Lesage
 Leskard
 Leslie
@@ -6623,7 +6619,6 @@ Leverville
 Levesque
 Levesque Settlement
 Leville
-Levis
 Lewin's Cove
 Lewis Corners
 Lewis Cove Road
@@ -6678,7 +6673,7 @@ Lineboro
 Lingan
 Lingan Road
 Lingman Lake
-Liniere
+Linière
 Linkletter
 Links Mills
 Lintlaw
@@ -6854,7 +6849,7 @@ Lost Channel
 Lost Nation
 Lost River
 Lot 11 and Area
-Lotbiniere
+Lotbinière
 Lothian
 Lotus
 Loughbreeze
@@ -7030,7 +7025,6 @@ Lussier
 Lust Subdivision
 Lutes Mountain
 Luton
-Lutselk'e
 Lutterworth
 Luxton
 Lydgate
@@ -7053,6 +7047,8 @@ Lyons Brook
 Lyster
 Lyttleton
 Lytton
+Léry
+Lévis
 Ma-Me-O Beach
 Mabee's Corners
 Mabel
@@ -7123,7 +7119,7 @@ Maidstone
 Main Brook
 Main Point-Davidsville
 Main Square
-Main-a-Dieu
+Main-à-Dieu
 Mainstream
 Mainsville
 Mair
@@ -7358,7 +7354,7 @@ Mascouche Heights
 Mascouche-Ouest
 Masefield
 Mashteuiatsh
-Maskinonge
+Maskinongé
 Mason Creek
 Masons Beach
 Masons Point
@@ -7375,7 +7371,7 @@ Matador
 Matagami
 Matamec
 Matane
-Matapedia
+Matapédia
 Mates Corner
 Mathers Corners
 Matheson
@@ -7609,7 +7605,6 @@ Merville
 Mervin
 Mesachie Lake
 Messines
-Metabetchouan
 Metabetchouan-Lac-a-la-Croix
 Metagama
 Metcalfe
@@ -7619,7 +7614,6 @@ Meteghan Centre
 Meteghan River
 Meteghan Station
 Metinota
-Metis-sur-Mer
 Metiskow
 Metlakatla
 Metropolitan
@@ -7870,11 +7864,11 @@ Mont-Howard
 Mont-Joie
 Mont-Joli
 Mont-Laurier
-Mont-Megantic
 Mont-Murray
+Mont-Mégantic
 Mont-Orford
 Mont-Royal
-Mont-Saint-Gregoire
+Mont-Saint-Grégoire
 Mont-Saint-Hilaire
 Mont-Saint-Michel
 Mont-Saint-Pierre
@@ -7906,12 +7900,12 @@ Montmagny
 Montmartre
 Montpellier
 Montplaisant
-Montreal
 Montreal River
-Montreal-Est
-Montreal-Ouest
 Montrock
 Montrose
+Montréal
+Montréal-Est
+Montréal-Ouest
 Monument Corners
 Moon River
 Moonbeam
@@ -8133,6 +8127,8 @@ Myrtle
 Myrtle Point
 Myrtle Station
 Mystic
+Métabetchouan
+Métis-sur-Mer
 NE Crescent Heights
 NW Crescent Heights
 Nackawic
@@ -8419,7 +8415,7 @@ Normandy Heights
 Normanhurst
 Normanview
 Normanview West
-Normetal
+Normétal
 Norquay
 Norris Arm
 Norris Beach
@@ -8574,7 +8570,7 @@ Notre-Dame-de-Lourdes
 Notre-Dame-de-Montauban
 Notre-Dame-de-Pierreville
 Notre-Dame-de-Pontmain
-Notre-Dame-de-l'Ile-Perrot
+Notre-Dame-de-l'Île-Perrot
 Notre-Dame-de-la-Merci
 Notre-Dame-de-la-Salette
 Notre-Dame-des-Anges
@@ -8749,8 +8745,8 @@ Orient
 Orient Bay
 Orillia
 Orkney Beach
-Orleans
 Orlo
+Orléans
 Ormond
 Ormond Beach
 Ormsby
@@ -9020,7 +9016,6 @@ Penzance
 Pepper Creek
 Perce
 Perdue
-Peribonka
 Perivale
 Perkins
 Perkins Landing
@@ -9074,15 +9069,15 @@ Petitcodiac East
 Petitcodiac West
 Petite Passe
 Petite Riviere
-Petite Riviere Bridge
+Petite Rivière Bridge
 Petite-Aldouane
 Petite-Allemagne
 Petite-Anse
-Petite-Reserve
-Petite-Riviere-a-la-Truite
-Petite-Riviere-au-Renard
+Petite-Rivière-au-Renard
+Petite-Rivière-à-la-Truite
+Petite-Réserve
 Petite-Tourelle
-Petite-Vallee
+Petite-Vallée
 Petits-Capucins
 Petrie Shore
 Petrolia
@@ -9266,7 +9261,7 @@ Plympton Station
 Plympton-Wyoming
 Pockwock
 Pocologan
-Pohenegamook
+Pohénégamook
 Point Abino
 Point Alexander
 Point Alison
@@ -9316,10 +9311,7 @@ Pointe-Sainte-Anne-des-Monts
 Pointe-Sapin-Centre
 Pointe-Sud
 Pointe-Verte
-Pointe-a-Maurier
-Pointe-a-la-Croix
-Pointe-a-la-Fregate
-Pointe-au-Pere
+Pointe-au-Père
 Pointe-au-Sable
 Pointe-aux-Anglais
 Pointe-aux-Loups
@@ -9327,8 +9319,11 @@ Pointe-aux-Outardes
 Pointe-aux-Trembles
 Pointe-des-Cascades
 Pointe-des-Monts
-Pointe-du-Chene
+Pointe-du-Chêne
 Pointe-du-Lac
+Pointe-à-Maurier
+Pointe-à-la-Croix
+Pointe-à-la-Frégate
 Poirierville
 Poissant
 Poisson-Blanc
@@ -9358,7 +9353,7 @@ Pont-Rouge
 Pont-du-Gouvernement
 Pont-du-Milieu
 Ponteix
-Pontgrave
+Pontgravé
 Pontiac
 Pontiac Station
 Pontrilas
@@ -9530,7 +9525,6 @@ Prairie Heights
 Prairie Siding
 Prairie Valley
 Pratts Camp
-Precieux-Sang
 Precious Corners
 Preeceville
 Preissac
@@ -9543,7 +9537,6 @@ Preston
 Preston East
 Preston Lake
 Prestonvale
-Prevost
 Price
 Price Road
 Price Settlement
@@ -9589,6 +9582,8 @@ Providence Bay
 Province Hill
 Provost
 Prud'homme
+Précieux-Sang
+Prévost
 Public Landing
 Pubnico
 Pughs Crossing
@@ -9613,6 +9608,7 @@ Pusey
 Puslinch
 Putnam
 Puvirnituq
+Péribonka
 Qu'Appelle
 Qu'Appelle Village
 Quabbin
@@ -9629,7 +9625,6 @@ Quathiaski Cove
 Quatre-Coins
 Quatre-Milles
 Quatsino
-Quebec
 Quebec Harbour
 Queen Charlotte
 Queens Acres
@@ -9666,6 +9661,7 @@ Quispamsis
 Quorn
 Quyon
 Quyon Ferry Landing
+Québec
 Rabbit Lake
 Race Horse Camp
 Racine
@@ -9712,11 +9708,11 @@ Rang-Saint-Joseph
 Rang-Seize
 Rang-Sept
 Rang-Sept-et-Huit
-Rang-des-Bosse
+Rang-des-Bossé
 Rang-des-Bourgoin
 Rang-des-Collin
 Rang-des-Couturier
-Rang-des-Deschene
+Rang-des-Deschêne
 Rang-des-Lavoie
 Rang-des-Morneault
 Ranger
@@ -9818,7 +9814,6 @@ Reidville
 Relais-Gabriel
 Relessey
 Remicks
-Remigny
 Remington Park
 Remo
 Renabie
@@ -9974,26 +9969,26 @@ Riverview Heights
 Riverview Park
 Riverville
 Riviera
-Riviere des Francais
-Riviere-Beaudette
-Riviere-Heva
-Riviere-Matawin
-Riviere-Ouelle
-Riviere-Pentecote
-Riviere-Pigou
-Riviere-Rouge
-Riviere-Saint-Jean
-Riviere-Saint-Paul
-Riviere-Verte
-Riviere-a-Claude
-Riviere-a-Pierre
 Riviere-au-Renard
-Riviere-au-Tonnerre
-Riviere-aux-Graines
-Riviere-des-Caches
-Riviere-du-Loup
-Riviere-du-Portage
 Rivington
+Rivière des Français
+Rivière-Beaudette
+Rivière-Héva
+Rivière-Matawin
+Rivière-Ouelle
+Rivière-Pentecôte
+Rivière-Pigou
+Rivière-Rouge
+Rivière-Saint-Jean
+Rivière-Saint-Paul
+Rivière-au-Tonnerre
+Rivière-aux-Graines
+Rivière-des-Caches
+Rivière-du-Loup
+Rivière-du-Portage
+Rivière-à-Claude
+Rivière-à-Pierre
+Riviére-Verte
 Rivulet
 Roachvale
 Roachville
@@ -10113,9 +10108,9 @@ Rosehaven
 Rosehill
 Roseland
 Rosemary
-Rosemere
 Rosemont
 Rosemount
+Rosemère
 Rosendale
 Roseneath
 Rosenfeld
@@ -10238,6 +10233,7 @@ Ryerson University
 Ryland
 Ryley
 Rylstone
+Rémigny
 SE Hill
 SW Hill
 Saanich
@@ -10248,7 +10244,7 @@ Sable River West
 Sabourins Crossing
 Sabrevois
 Sackville
-Sacre-Coeur
+Sacré-Coeur
 Saddle Lake
 Saddlebrook
 Sadowa
@@ -10263,7 +10259,7 @@ Sailors Encampment
 Saint Almo
 Saint Andrews
 Saint Fintan's
-Saint Irenee and Alderwood
+Saint Irénée and Alderwood
 Saint John
 Saint John East
 Saint John West
@@ -10275,24 +10271,24 @@ Saint Wilfred
 Saint-Adolphe-d'Howard
 Saint-Adrien
 Saint-Agapit
-Saint-Aime-des-Lacs
+Saint-Aimé-des-Lacs
 Saint-Alban
 Saint-Albert
 Saint-Alexandre
 Saint-Alexandre-de-Kamouraska
-Saint-Alexis-de-Matapedia
+Saint-Alexis-de-Matapédia
 Saint-Alexis-des-Monts
 Saint-Alphonse
 Saint-Alphonse-Rodriguez
 Saint-Amable
 Saint-Amand
 Saint-Ambroise
-Saint-Andre
-Saint-Andre-Avellin
-Saint-Andre-Est
 Saint-Andre-LeBlanc
-Saint-Andre-d'Argenteuil
-Saint-Andre-du-Lac-Saint-Jean
+Saint-André
+Saint-André-Avellin
+Saint-André-Est
+Saint-André-d'Argenteuil
+Saint-André-du-Lac-Saint-Jean
 Saint-Anicet
 Saint-Anselme
 Saint-Antoine
@@ -10306,13 +10302,13 @@ Saint-Athanase
 Saint-Aubert
 Saint-Augustin
 Saint-Augustin-de-Desmaures
-Saint-Barnabe-Sud
+Saint-Barnabé-Sud
 Saint-Basile
 Saint-Basile-le-Grand
-Saint-Benoit-du-Lac
+Saint-Benoît-du-Lac
 Saint-Bernard
 Saint-Bernard-de-Michaudville
-Saint-Bernard-de-l'Ile-aux-Coudres
+Saint-Bernard-de-l'Île-aux-Coudres
 Saint-Blaise-sur-Richelieu
 Saint-Bonaventure
 Saint-Boniface
@@ -10326,10 +10322,8 @@ Saint-Calixte-de-Kilkenny
 Saint-Camille
 Saint-Canut
 Saint-Casimir
-Saint-Celestin
-Saint-Cesaire
 Saint-Charles
-Saint-Charles-Borromee
+Saint-Charles-Borromée
 Saint-Charles-Nord
 Saint-Charles-de-Bourget
 Saint-Charles-de-Drummond
@@ -10339,17 +10333,19 @@ Saint-Charles-sur-Richelieu
 Saint-Chrysostome
 Saint-Claude
 Saint-Claude-Nord
-Saint-Cleophas-de-Brandon
 Saint-Clet
+Saint-Cléophas-de-Brandon
 Saint-Coeur-de-Marie
 Saint-Colomban
-Saint-Come--Liniere
 Saint-Constant
 Saint-Cuthbert
 Saint-Cyprien-de-Napierville
 Saint-Cyr
 Saint-Cyrille
 Saint-Cyrille-de-Wendover
+Saint-Célestin
+Saint-Césaire
+Saint-Côme--Linière
 Saint-Damase
 Saint-Damien
 Saint-Damien-de-Buckland
@@ -10362,70 +10358,62 @@ Saint-Dominique-du-Rosaire
 Saint-Donat
 Saint-Donat-de-Montcalm
 Saint-Edmond
-Saint-Edouard
-Saint-Edouard-de-Maskinonge
-Saint-Elie
-Saint-Elzear
-Saint-Emile-de-Suffolk
-Saint-Ephrem-de-Beauce
+Saint-Elzéar
 Saint-Esprit
 Saint-Etienne-De-Lauzon
-Saint-Etienne-de-Beauharnois
-Saint-Etienne-de-Bolton
-Saint-Eugene
-Saint-Eugene de Ladriere
-Saint-Eugene-d'Argentenay
-Saint-Eugene-de-Guigues
+Saint-Eugène
+Saint-Eugène de Ladrière
+Saint-Eugène-d'Argentenay
+Saint-Eugène-de-Guigues
 Saint-Eustache
-Saint-Evariste-de-Forsyth
 Saint-Fabien
 Saint-Faustin
-Saint-Faustin--Lac-Carre
-Saint-Felicien
-Saint-Felix-de-Dalquier
-Saint-Felix-de-Kingsey
-Saint-Felix-de-Valois
+Saint-Faustin--Lac-Carré
 Saint-Ferdinand
-Saint-Ferreol-les-Neiges
+Saint-Ferréol-les-Neiges
 Saint-Flavien
 Saint-Fortunat
-Saint-Francois-de-Madawaska
-Saint-Francois-de-Sales
-Saint-Francois-de-l'Ile-d'Orleans
-Saint-Francois-du-Lac
+Saint-François-de-Madawaska
+Saint-François-de-Sales
+Saint-François-de-l'Île-d'Orléans
+Saint-François-du-Lac
 Saint-Fulgence
+Saint-Félicien
+Saint-Félix-de-Dalquier
+Saint-Félix-de-Kingsey
+Saint-Félix-de-Valois
 Saint-Gabriel
 Saint-Gabriel-de-Kent
 Saint-Gabriel-de-Valcartier
-Saint-Gedeon
-Saint-Gedeon-de-Beauce
 Saint-Georges
 Saint-Georges-de-Bagot
 Saint-Georges-de-Cacouna
 Saint-Georges-de-Clarenceville
 Saint-Georges-de-Malbaie
 Saint-Georges-de-Windsor
-Saint-Gerard
 Saint-Germain-de-Grantham
-Saint-Gregoire
-Saint-Gregoire-le-Grand
+Saint-Grégoire
+Saint-Grégoire-le-Grand
 Saint-Guillaume
 Saint-Guillaume-Nord
+Saint-Gédéon
+Saint-Gédéon-de-Beauce
+Saint-Gérard
 Saint-Henri
 Saint-Henri-de-Taillon
 Saint-Hermas
-Saint-Hermenegilde
+Saint-Herménégilde
 Saint-Hilaire
 Saint-Hilarion
 Saint-Hippolyte
-Saint-Honore
-Saint-Honore-de-Shenley
-Saint-Honore-de-Temiscouata
+Saint-Honoré
+Saint-Honoré-de-Shenley
+Saint-Honoré-de-Témiscouata
 Saint-Hugues
 Saint-Hyacinthe
 Saint-Ignace
 Saint-Ignace-du-Lac
-Saint-Irenee
+Saint-Irénée
 Saint-Isidore
 Saint-Isidore-d'Auckland
 Saint-Isidore-de-Clifton
@@ -10438,10 +10426,9 @@ Saint-Jean-Baptiste
 Saint-Jean-Baptiste-de-Restigouche
 Saint-Jean-de-Dieu
 Saint-Jean-de-Matha
-Saint-Jean-de-l'Ile-d'Orleans
+Saint-Jean-de-l'Ile-d'Orléans
 Saint-Jean-des-Piles
 Saint-Jean-sur-Richelieu
-Saint-Jerome
 Saint-Joachim-de-Courval
 Saint-Joachim-de-Shefford
 Saint-Joseph
@@ -10450,7 +10437,7 @@ Saint-Joseph-de-Coleraine
 Saint-Joseph-de-Ham-Sud
 Saint-Joseph-de-Kent
 Saint-Joseph-de-Madawaska
-Saint-Joseph-de-Mekinac
+Saint-Joseph-de-Mékinac
 Saint-Joseph-de-Sorel
 Saint-Joseph-de-la-Rive
 Saint-Joseph-des-Monts
@@ -10458,18 +10445,13 @@ Saint-Joseph-du-Lac
 Saint-Jovite
 Saint-Jovite-Station
 Saint-Jude
-Saint-Just-de-Bretenieres
+Saint-Just-de-Bretenières
 Saint-Juste-du-Lac
+Saint-Jérôme
 Saint-Lambert-de-Lauzon
-Saint-Laurent-d'Orleans
+Saint-Laurent-d'Orléans
 Saint-Lazare
 Saint-Lazare-de-Bellechasse
-Saint-Leon
-Saint-Leon-de-Standon
-Saint-Leonard
-Saint-Leonard-Parent
-Saint-Leonard-d'Aston
-Saint-Leonard-de-Portneuf
 Saint-Liboire
 Saint-Lin-Laurentides
 Saint-Louis de Kent
@@ -10480,9 +10462,15 @@ Saint-Luc
 Saint-Luc-de-Vincennes
 Saint-Ludger
 Saint-Ludger-de-Milot
+Saint-Léon
+Saint-Léon-de-Standon
+Saint-Léonard
+Saint-Léonard-Parent
+Saint-Léonard-d'Aston
+Saint-Léonard-de-Portneuf
 Saint-Malachie
 Saint-Malo
-Saint-Marc-des-Carrieres
+Saint-Marc-des-Carrières
 Saint-Marc-sur-Richelieu
 Saint-Marcel
 Saint-Marcel-de-Richelieu
@@ -10499,7 +10487,7 @@ Saint-Mathieu-du-Parc
 Saint-Maure
 Saint-Maurice
 Saint-Maurice-de-Dalquier
-Saint-Maurice-de-l'Echouerie
+Saint-Maurice-de-l'Échouerie
 Saint-Maxime-du-Mont-Louis
 Saint-Michel
 Saint-Michel-de-Bellechasse
@@ -10510,11 +10498,11 @@ Saint-Narcisse
 Saint-Narcisse-de-Rimouski
 Saint-Nazaire
 Saint-Nazaire-de-Berry
-Saint-Nicephore
+Saint-Nicéphore
 Saint-Norbert
 Saint-Odilon-de-Cranbourne
 Saint-Ours
-Saint-Pacome
+Saint-Pacôme
 Saint-Pamphile
 Saint-Pascal
 Saint-Pascal-Baylon
@@ -10522,29 +10510,27 @@ Saint-Patrice-de-Sherrington
 Saint-Paul
 Saint-Paul-de-Montminy
 Saint-Paulin
-Saint-Philemon
 Saint-Philippe
 Saint-Philippe-Est
 Saint-Philippe-de-La Prairie
+Saint-Philémon
 Saint-Pie
 Saint-Pie-V
 Saint-Pierre
 Saint-Pierre-de-Broughton
 Saint-Pierre-de-Kent
-Saint-Pierre-de-Veronne-a-Pike-River
+Saint-Pierre-de-Véronne-à-Pike-River
 Saint-Pierre-de-Wakefield
-Saint-Pierre-de-l'Ile-d'Orleans
+Saint-Pierre-de-l'Île-d'Orléans
 Saint-Pierre-les-Becquets
 Saint-Placide
 Saint-Polycarpe
 Saint-Prime
 Saint-Prosper-de-Champlain
 Saint-Quentin
-Saint-Raphael
+Saint-Raphaël
 Saint-Raymond
-Saint-Remi
-Saint-Remi-de-Tingwick
-Saint-Rene-de-Matane
+Saint-René-de-Matane
 Saint-Robert-Bellarmin
 Saint-Roch
 Saint-Roch-Ouest
@@ -10552,37 +10538,39 @@ Saint-Roch-de-Richelieu
 Saint-Roch-de-l'Achigan
 Saint-Roch-des-Aulnaies
 Saint-Romain
+Saint-Rémi
+Saint-Rémi-de-Tingwick
 Saint-Samuel
 Saint-Samuel-Station
 Saint-Samuel-de-Horton
 Saint-Sauveur
 Saint-Sauveur-des-Monts
-Saint-Sebastien
-Saint-Simeon
 Saint-Simon-de-Bagot
 Saint-Simon-de-Rimouski
+Saint-Siméon
 Saint-Sixte
 Saint-Sosime
 Saint-Stanislas
 Saint-Sulpice
-Saint-Sylvere
-Saint-Telesphore
-Saint-Theodore-d'Acton
-Saint-Theophile
+Saint-Sylvère
+Saint-Sébastien
 Saint-Thomas
 Saint-Thomas-Didyme
 Saint-Thomas-de-Caxton
 Saint-Thomas-de-Kent
 Saint-Thomas-de-Soulanges
-Saint-Timothee
+Saint-Théodore-d'Acton
+Saint-Théophile
+Saint-Timothée
 Saint-Tite
 Saint-Tite-des-Caps
+Saint-Télesphore
 Saint-Ubalde
 Saint-Ulric
 Saint-Urbain
 Saint-Urbain-Premier
-Saint-Valere
-Saint-Valerien-de-Milton
+Saint-Valère
+Saint-Valérien-de-Milton
 Saint-Venant-de-Paquette
 Saint-Victor
 Saint-Vincent-de-Paul
@@ -10590,59 +10578,64 @@ Saint-Vital-de-Clermont
 Saint-Wenceslas
 Saint-Yvon
 Saint-Zacharie
-Saint-Zenon
 Saint-Zotique
+Saint-Zénon
+Saint-Édouard
+Saint-Édouard-de-Maskinongé
+Saint-Élie
+Saint-Émile-de-Suffolk
+Saint-Éphrem-de-Beauce
+Saint-Étienne-de-Beauharnois
+Saint-Étienne-de-Bolton
+Saint-Évariste-de-Forsyth
 Sainte Catherine de la Jacques Cartier
-Sainte-Adele
+Sainte-Adèle
 Sainte-Agathe
 Sainte-Agathe-des-Monts
-Sainte-Agnes
-Sainte-Angele-de-Laval
-Sainte-Angele-de-Premont
-Sainte-Anne-de-Beaupre
+Sainte-Agnès
+Sainte-Angèle-de-Laval
+Sainte-Angèle-de-Prémont
+Sainte-Anne-de-Beaupré
 Sainte-Anne-de-Bellevue
 Sainte-Anne-de-Kent
 Sainte-Anne-de-Madawaska
-Sainte-Anne-de-la-Perade
+Sainte-Anne-de-la-Pérade
 Sainte-Anne-de-la-Rochelle
 Sainte-Anne-des-Monts
 Sainte-Anne-des-Plaines
 Sainte-Anne-du-Lac
 Sainte-Anne-du-Sault
-Sainte-Beatrix
 Sainte-Brigide-d'Iberville
 Sainte-Brigitte-de-Laval
+Sainte-Béatrix
 Sainte-Catherine
 Sainte-Catherine-de-Hatley
-Sainte-Cecile-de-Levrard
-Sainte-Cecile-de-Masham
-Sainte-Cecile-de-Whitton
 Sainte-Christine-d'Auvergne
 Sainte-Claire
-Sainte-Clotilde-de-Chateauguay
+Sainte-Clotilde-de-Châteauguay
 Sainte-Clotilde-de-Horton
-Sainte-Come
 Sainte-Croix
-Sainte-Dorothee
+Sainte-Cécile-de-Lévrard
+Sainte-Cécile-de-Masham
+Sainte-Cécile-de-Whitton
+Sainte-Côme
+Sainte-Dorothée
 Sainte-Edwidge
-Sainte-Elisabeth
-Sainte-Elisabeth-de-Warwick
-Sainte-Emelie-de-l'Energie
 Sainte-Eulalie
-Sainte-Euphemie-sur-Riviere-du-Sud
-Sainte-Felicite
+Sainte-Euphémie-sur-Rivière-du-Sud
 Sainte-Flavie
 Sainte-Foy
-Sainte-Francoise
-Sainte-Genevieve-de-Batiscan
-Sainte-Germaine-Boule
+Sainte-Françoise
+Sainte-Félicité
+Sainte-Geneviève-de-Batiscan
+Sainte-Germaine-Boulé
 Sainte-Gertrude
 Sainte-Gertrude-Manneville
 Sainte-Hedwidge
 Sainte-Hedwidge-de-Roberval
-Sainte-Helene-de-Bagot
-Sainte-Helene-de-Breakeyville
-Sainte-Helene-de-Chester
+Sainte-Hélène-de-Bagot
+Sainte-Hélène-de-Breakeyville
+Sainte-Hélène-de-Chester
 Sainte-Jeanne-d'Arc
 Sainte-Julie
 Sainte-Julienne
@@ -10651,10 +10644,10 @@ Sainte-Justine-Station
 Sainte-Luce
 Sainte-Lucie-des-Laurentides
 Sainte-Madeleine
-Sainte-Madeleine-de-la-Riviere-Madeleine
+Sainte-Madeleine-de-la-Rivière-Madeleine
 Sainte-Marcelline-de-Kildare
 Sainte-Marguerite
-Sainte-Marguerite--Esterel
+Sainte-Marguerite--Estérel
 Sainte-Marguerite-Marie
 Sainte-Marguerite-Station
 Sainte-Marguerite-de-Lingwick
@@ -10668,20 +10661,23 @@ Sainte-Marie-de-Laval
 Sainte-Marthe
 Sainte-Marthe-sur-le-Lac
 Sainte-Martine
-Sainte-Melanie
 Sainte-Monique
-Sainte-Perpetue
+Sainte-Mélanie
+Sainte-Perpétue
 Sainte-Rosalie
 Sainte-Rosalie-Jonction
 Sainte-Rose
 Sainte-Rose-du-Nord
 Sainte-Scholastique
 Sainte-Sophie
-Sainte-Thecle
-Sainte-Therese
-Sainte-Therese-de-Gaspe
-Sainte-Therese-de-la-Gatineau
+Sainte-Thècle
+Sainte-Thérèse
+Sainte-Thérèse-de-Gaspé
+Sainte-Thérèse-de-la-Gatineau
 Sainte-Victoire-de-Sorel
+Sainte-Élisabeth
+Sainte-Élisabeth-de-Warwick
+Sainte-Émélie-de-l'Énergie
 Saintfield
 Saints Rest
 Saints-Martyrs
@@ -10903,7 +10899,7 @@ Senneterre
 Sentiers-du-Sommet
 Sentinel Hill
 Seouls Corners
-Sept-Iles
+Sept-Îles
 Serath
 Sesekinika
 Seton Portage
@@ -11433,7 +11429,7 @@ Squirreltown
 St-Albert
 St-Amour
 St-Anaclet
-St-Andre
+St-André
 St-Arthur
 St-Bernardin
 St-Hilaire
@@ -11477,7 +11473,7 @@ St. Eugene Mission
 St. Eustache
 St. Felix
 St. Francis Harbour
-St. Francois Xavier
+St. François Xavier
 St. George
 St. George's
 St. Georges Channel
@@ -11920,7 +11916,6 @@ Telkwa
 Telly Road Crossing
 Temagami
 Temagami North
-Temiscaming
 Temiskaming Shores
 Temperance Vale
 Temperanceville
@@ -11959,8 +11954,6 @@ Terrenceville
 Teslin
 Tessier
 Teston
-Tete Jaune
-Tete-a-la-Baleine
 Teulon
 Teviotdale
 Texas
@@ -12180,8 +12173,6 @@ Trent Hills
 Trent Lakes
 Trenton
 Trepassey
-Tres-Saint-Redempteur
-Tres-Saint-Sacrement
 Trevelyan
 Tribune
 Trinity
@@ -12195,7 +12186,7 @@ Trochu
 Trois Pistoles
 Trois-Lacs
 Trois-Rives
-Trois-Rivieres
+Trois-Rivières
 Trois-Ruisseaux
 Trout Brook
 Trout Creek
@@ -12210,6 +12201,8 @@ Truemanville
 Truro
 Truro Heights
 Tryon Settlement
+Très-Saint-Rédempteur
+Très-Saint-Sacrement
 Tsawwassen
 Tsiigehtchic
 Tubbs Corners
@@ -12273,6 +12266,9 @@ Tyrone
 Tyrrell
 Tyvan
 Tzouhalem
+Témiscaming
+Tête Jaune
+Tête-à-la-Baleine
 Uchi Lake
 Ucluelet
 Udney
@@ -12484,7 +12480,6 @@ Valens
 Valentia
 Valetta
 Valhalla Estate
-Vallee-Jonction
 Valley
 Valley Centre
 Valley Cross Roads
@@ -12499,6 +12494,7 @@ Valleys Corners
 Valleyview
 Valleyview North
 Vallican
+Vallée-Jonction
 Valparaiso
 Van Allens
 Van Anda
@@ -12543,13 +12539,13 @@ Vedder Crossing
 Vegreville
 Veneer
 Venise
-Venise-en-Quebec
+Venise-en-Québec
 Venn
 Vennachar
 Vennachar Junction
 Venosta
 Ventry
-Vercheres
+Verchères
 Verdun
 Veregin
 Vereker
@@ -13374,3 +13370,7 @@ Ziska
 Zuber Corners
 Zurich
 le Plateau
+Évain
+Île-Aux-Grues
+Île-à-la-Crosse
+Łutselk'e

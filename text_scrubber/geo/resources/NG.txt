@@ -49,6 +49,7 @@ Aba Osa
 Aba Otun
 Aba Owode
 Aba Panu
+Aba Petu
 Aba Poju
 Aba Risawe
 Aba Sawe
@@ -90,7 +91,6 @@ Aba-Oyo
 Aba-Panu
 Aba-Sule
 Aba-Ugbonla
-AbaPetu
 Abaa
 Abaagu
 Abaal
@@ -5981,7 +5981,7 @@ Bad
 Bada
 Bada Ajegunle
 Bada Koshi
-BadaSojukonko
+Bada Sojukonko
 Badabai
 Badabdi
 Badadi
@@ -6385,6 +6385,7 @@ Balogun
 Balogun Ajikobi
 Balogun Budoloke
 Balogun Mini
+Balogun Ogundijo
 Balogun Ojuade
 Balogun-Adiatu
 Balogun-Apomu
@@ -6396,7 +6397,6 @@ Balogun-Itesi
 Balogun-Molete
 Balogun-Oja
 Balogun-Tapa
-BalogunOgundijo
 Baloje
 Balori Bulabulin
 Baloro
@@ -11823,7 +11823,7 @@ Epame
 Epan
 Epangi
 Epe
-EpeOsi
+Epe Osi
 Epebite
 Epelematubo
 Epelpelbeleo
@@ -25175,15 +25175,15 @@ Laute
 Lauya
 Lawa
 Lawan
+Lawan Alalubosa
 Lawan-Dalari
-LawanAlalubosa
 Lawande
 Lawandi
 Lawandi Jambo
 Lawanga Jiri
 Lawani
+Lawani Alalade
 Lawani Oguntayo
-LawaniAlalade
 Lawanti
 Lawe
 Lawegboro
@@ -27219,9 +27219,9 @@ Mberubu
 Mbesa
 Mbese
 Mbewa
-Mbewe
 Mbewere
 Mbeweri
+Mbewé
 Mbiabam
 Mbiabet-Ikot-Efa
 Mbiabo
@@ -28210,12 +28210,12 @@ Nadu
 Nadwi
 Nafada
 Nafako
-Nafene
 Nafori
 Naforija
 Nafuche
 Nafuta
 Nafuta Sutumi
+Naféne
 Naga
 Naga'a
 Nagago
@@ -29719,6 +29719,7 @@ Nzumi
 Oba
 Oba Agun
 Oba Efa
+Oba Igbo-Ora
 Oba Offa
 Oba Sinkin
 Oba-Aboji
@@ -29728,7 +29729,6 @@ Oba-Ile
 Oba-Imala
 Oba-Oyinbo
 Oba-Umulokpe
-ObaIgbo-Ora
 Obabebe
 Obabene
 Obada
@@ -42191,11 +42191,11 @@ Wasimi
 Wasimi Alafia
 Wasimi Ijemo
 Wasimi Ojokoro
-Wasimi Okuta
 Wasimi-Aiyetoro
 Wasimi-Ake
 Wasinmi
 Wassagi
+Wasímí Okuta
 Wata
 Watame
 Watapare

@@ -114,12 +114,12 @@ An Baile Nua
 An Baile Thiar
 An Bheairic
 An Cheathru Bheag
-An Chlais
 An Chloch Bhreac
+An Chlàis
 An Chrois Thoir
 An Droim
 An Fhairche
-An Geata Mor
+An Geata Mór
 An Ghleadraigh
 An Gort Breac
 An Muileann gCearr
@@ -324,15 +324,15 @@ Baggotstown
 Bahana
 Baile Bhuirne
 Baile Chuag
-Baile an Chaisleain
-Baile an Duna
+Baile an Chaisleáin
+Baile an Dúna
 Baile an Fhormna
-Baile an Lisin
+Baile an Lisín
 Baile an Lurgain
 Baile an Mhothair
 Baile an Mhuilinn
 Baile an Teampaill
-Baile an tSeipeil
+Baile an tSéipéil
 Baile na Craige
 Baile na Creige
 Baile na Seoigheach
@@ -1879,7 +1879,7 @@ Cavanagarvan
 Cavangarden
 Cavestown and Rosmead
 Cavetown
-Ceantar na nOilean
+Ceantar na nOileán
 Cecilstown
 Celbridge
 Cellarstown
@@ -1912,7 +1912,7 @@ Churchbay
 Churchill
 Churchtown
 Cill Airne
-Cill Fhionain
+Cill Fhíonáin
 Cinn an Bhaile
 Civil Hollow
 Claddagh
@@ -2453,8 +2453,8 @@ Corrigeenroe
 Corrigo
 Corrofin
 Corroy
-Corruch
 Corry
+Corrúch
 Corskeagh
 Corstown
 Cortown
@@ -2522,7 +2522,7 @@ Creggolympry
 Creggs
 Cregnafyla
 Crehelp
-Creig an Cheirin
+Creig an Chéirín
 Creroge
 Crinkill
 Crinnaghtane
@@ -3111,7 +3111,6 @@ Dugort
 Duke Street
 Dulane
 Duleek
-Dun Laoghaire
 Dunaff
 Dunany
 Dunbeacon
@@ -3178,6 +3177,7 @@ Durrus
 Dysart
 Dysart Bridge
 Dysertmore
+Dún Laoghaire
 Eadestown
 Eakin's Cross Roads
 Eanymore Bridge
@@ -3958,7 +3958,7 @@ Hurdlestown
 Hurlers Cross
 Hyinenstown
 Hynestown
-Iarairne
+Iaráirne
 Idle Corner
 Ightermurragh
 Illannaskenoga
@@ -5240,7 +5240,6 @@ Mogeely
 Mogh
 Moglass
 Mohill
-Moinin na Ruaige
 Molahiffe
 Molly Barry Cross Roads
 Monacaum Cross Roads
@@ -5478,6 +5477,7 @@ Myross
 Myrtlegrove
 Myrtleville
 Myshall
+Móinín na Ruaige
 Na Monga
 Naas
 Nad
@@ -6444,7 +6444,7 @@ Srahnamanragh
 Sraleigh
 Sranalee
 Sruh
-Sruthan
+Sruthán
 St Johnston
 Stabannan
 Stackallan
@@ -6768,7 +6768,6 @@ Tossy
 Tourin
 Tower
 Tower Bridge
-Tra Mhor
 Tracarta
 Tracton
 Trafaska
@@ -6794,6 +6793,7 @@ Trough
 Trubley
 Trumra
 Trusklieve
+Trá Mhór
 Tuam
 Tuamgraney
 Tubber

@@ -8,8 +8,8 @@ Aankomst
 Aapdraai
 Aarbossiesplaat
 Aasfontein
-Aasvoelkop
 Aasvogelboom
+Aasvoëlkop
 Abbey
 Abbotspoort
 Abelsruhe
@@ -178,7 +178,7 @@ Assagay
 Assegaairivier
 Assen
 Assina
-Assvoelkop
+Assvoëlkop
 Aston Bay
 Aston Manor
 Aston Woods
@@ -374,7 +374,7 @@ Belekana
 Belekence
 Belfast
 Belfort
-Belgie
+België
 Belhambra
 Belhar
 Bell
@@ -784,7 +784,6 @@ Breakfast Vlei
 Brechen
 Bredasdorp
 Breedpan
-Breerivier
 Breetsvlei
 Breidbach
 Bremiker
@@ -795,6 +794,7 @@ Brereton Park
 Breswol AH
 Bretby
 Breyten
+Breërivier
 Brierspan
 Brigg's Haven
 Brightwater
@@ -1257,8 +1257,8 @@ Dancornia
 Dangers Hoek
 Dangwana
 Dangwani
-Danielskuil
 Daninge
+Daniëlskuil
 Dankbaar
 Dankeni
 Dannhauser
@@ -1561,9 +1561,6 @@ Drift Hotel
 Drift Sands
 Drillhole
 Driversdrift
-Droefontein
-Droevlakte
-Droevlei
 Dronkfontein
 Droogdal
 Droogeboom
@@ -1572,6 +1569,9 @@ Droogenhoutputs
 Droogfontein
 Droogheuwel
 Droogte
+Droëfontein
+Droëvlakte
+Droëvlei
 Drukop
 Drummond Gate
 Drupfontein
@@ -2482,7 +2482,7 @@ Glimlag
 Gloria
 Glosam
 Gluckauff
-Gluckstadt
+Glückstadt
 Goboti
 Godeni
 Godini
@@ -2973,7 +2973,6 @@ Hoekfontein
 Hoeko
 Hoekskraal
 Hoekwil
-Hoeveld
 Hofisi
 Hofmeyr
 Hogsback
@@ -3052,6 +3051,7 @@ Houtrivier
 Howden
 Howick
 Howieson's Poort
+Hoëveld
 Hueningkrans
 Hugenoot
 Hughenden
@@ -3530,7 +3530,7 @@ Klein
 Klein Bergrivier
 Klein Camp
 Klein Dikgale
-Klein Droehout
+Klein Droëhout
 Klein Elandsvlei
 Klein Gelukpan (1)
 Klein Gelukpan (2)
@@ -3745,7 +3745,7 @@ Kranskop
 Kranskraal
 Kranspan
 Kransplaat
-Kransvoelleegte
+Kransvoëlleegte
 Krapfontein
 Kratzenstein
 Krauses Beach
@@ -5621,7 +5621,7 @@ Mbenge
 Mbewana
 Mbewula
 Mbhawula
-Mbhele Namahali
+Mbhelé Namahali
 Mbhulanja
 Mbidlana
 Mbihli
@@ -6224,7 +6224,6 @@ Moreletapark
 Morelig
 Moremela
 Moreson
-Morester
 Morgan's Bay
 Morganville
 Morgenson
@@ -6540,6 +6539,7 @@ Mzumbane
 Mzuzanto
 Mzwakazi
 Mzwini
+Môrester
 N'Rougas Noord
 Naaupoort
 Naauwpoort
@@ -8556,7 +8556,7 @@ Sizabantu
 Sizindini
 Sizini
 Skaapkraal
-Skandinawiedrif
+Skandinawiëdrif
 Skatfontein
 Skeenshoek
 Skeerhok
@@ -9221,7 +9221,6 @@ Tsembeyi
 Tsende
 Tseng
 Tsengiwe
-Tsetse
 Tshabvuma
 Tshabya
 Tshaka
@@ -9307,6 +9306,7 @@ Tsweleni
 Tswenyane
 Tswera
 Tswinga
+Tsêtsê
 Tubeni
 Tugela
 Tugela Estates
@@ -9657,8 +9657,6 @@ Vleiview
 Vliegpan
 Vlottenburg
 Vnooifontein
-Voelfontein
-Voelklip
 Vogelfontein
 Vogelstruisfontein
 Volksrust
@@ -9684,6 +9682,8 @@ Vosburg
 Vosloorus
 Vosloosrust
 Voyizane
+Voëlfontein
+Voëlklip
 Vrede
 Vredefort
 Vredehoek
@@ -9753,7 +9753,7 @@ Wasbank
 Washington
 Water Fall
 Water's Edge
-Water-fouche
+Water-fouché
 Waterbron
 Waterbult
 Waterdal
@@ -9877,7 +9877,7 @@ Wilgerhof
 Wilgerivier
 Wilgevlei
 Wilhelmina
-Wilhelmshohe
+Wilhelmshöhe
 Wilkoppies
 Willemsdal
 Willis-Myline
@@ -9993,7 +9993,7 @@ Wrosemore
 Wuppertal
 Wychwood
 Wycliffe
-Wydgelee
+Wydgeleë
 Wydhoek
 Wyedrif
 Wykeham

@@ -71,9 +71,9 @@ Akriony
 Aksakawshchyna
 Aksamity
 Aksanovka
-Aksen'kovichi
 Aksenovka
 Aksyutovo
+Aksën'kovichi
 Aktaviya
 Aktsyabr
 Aktsyabrova
@@ -107,8 +107,6 @@ Alantevo
 Alashki
 Alashkovshchina
 Alekhnovichi
-Alekhnovo
-Alekhny
 Aleksandrina
 Aleksandrino
 Aleksandriya
@@ -131,8 +129,6 @@ Aleksichi
 Alenovichi
 Ales
 Alesenkovo
-Aleshkovets
-Aleshkovo
 Aleshnya
 Alesino
 Alesy
@@ -144,6 +140,10 @@ Alyanovo
 Alyeksinichy
 Alyoshcha
 Alyuty
+Alëkhnovo
+Alëkhny
+Alëshkovets
+Alëshkovo
 Ambilevtsy
 Ambrazhilevichi
 Ambrosavichy
@@ -279,9 +279,6 @@ Arpa
 Artekhov
 Artel'
 Artel'nyy
-Artemovka
-Artemovo
-Artemy
 Arteykovichi
 Artsimoviche
 Artuki
@@ -291,6 +288,9 @@ Artyukhovka
 Artyukhovskiye
 Artyushi
 Artyushki
+Artëmovka
+Artëmovo
+Artëmy
 Arzheukhovo
 Asany
 Asarevichy
@@ -377,7 +377,6 @@ Awsyanka
 Aytsvily
 Ayutsavichy
 Azanchevka
-Azarenki
 Azarichi
 Azarki-Dvorishche
 Azarki-Pudovinka
@@ -385,6 +384,7 @@ Azarki-Staryye
 Azarovka
 Azartsy
 Azarychy
+Azarënki
 Azdamichy
 Azdzyatsichy
 Azdzyelina
@@ -444,7 +444,6 @@ Bachki
 Badeni
 Badezhi
 Badiny
-Baevka
 Baglai
 Bagnev
 Bagny
@@ -457,10 +456,10 @@ Bahatyrskaya
 Bahdanava
 Bahdanavichy
 Bahdanawka
-Bahusevicy
 Bahushewsk
 Bahushova
 Bahushowka
+Bahuševičy
 Bakanikha
 Bakanovo
 Bakany
@@ -468,8 +467,8 @@ Bakhan'
 Bakhani
 Bakhanskiye
 Bakhany
-Bakhareva
 Bakharevichi
+Bakharëva
 Bakhiry
 Bakhmetovka
 Bakhmoty
@@ -494,9 +493,9 @@ Balai
 Balamutovichi
 Balandichi
 Balashevichi
-Balashevka
 Balashi
 Balashova
+Balashëvka
 Balazhevichi
 Balbasava
 Balbeki
@@ -518,12 +517,12 @@ Ban'ki
 Ban'kovo
 Ban'kovshchina
 Bandeli
-Banevka
 Banifatsevo
 Banniki
 Bantserovshchina
 Bantsevichi
 Banyuki
+Banëvka
 Barak
 Baran'
 Baran' Gora
@@ -657,6 +656,7 @@ Baytserovo
 Bazary
 Bazylevka
 Bazyli
+Baëvka
 Bechanskaya Buda
 Bechi
 Bedino
@@ -735,7 +735,7 @@ Belokor'ye
 Belolesskoye
 Belolozy
 Belomosh'ye
-Beloozernyy
+Beloozërnyy
 Belorus'
 Belorusskaya
 Belousovshchina
@@ -775,7 +775,6 @@ Belyye
 Belyye Lugi
 Ben'ki
 Benapol'
-Benevichi
 Beneyki
 Benikontsy
 Benin
@@ -783,6 +782,7 @@ Benkevichi
 Bentyai
 Benyany
 Benyuny
+Benëvichi
 Ber'ye
 Berazinets
 Berazino
@@ -802,8 +802,8 @@ Berekal'
 Berendishki
 Bereshevtsy
 Bereshovo
-Beresnevka
 Beresnikha
+Beresnëvka
 Berespol'ye
 Berest'ye
 Berestechko
@@ -816,8 +816,6 @@ Beresty
 Beretishki
 Bereva
 Berevitsa
-Bereza
-Bereza-Kostinskaya
 Berezetnya
 Berezha
 Berezhany
@@ -828,31 +826,15 @@ Berezina
 Berezinets
 Berezinka
 Berezinskiy Forshtadt
-Berezka
-Berezki
 Berezlyany
 Berezna
 Berezniki
 Bereznitsa
-Berezno
-Bereznyaki
 Bereznyanka
-Berezovaya Gora
-Berezovaya Roshcha
-Berezovets
-Berezovichi
 Berezovitsa
-Berezovka
-Berezovka Pervaya
-Berezovo
-Berezovshchina
-Berezovtsy
-Berezovyy Gay
-Berezovyy Mostik
 Bereztsy
 Berezuga
 Berezuyki
-Berezy
 Berezyaki Vtoryye
 Berkov
 Berkovichi
@@ -876,6 +858,24 @@ Bervishchi
 Bervy
 Bervyaki
 Berzhelaty
+Berëza
+Berëza-Kostinskaya
+Berëzka
+Berëzki
+Berëzno
+Berëznyaki
+Berëzovaya Gora
+Berëzovaya Roshcha
+Berëzovets
+Berëzovichi
+Berëzovka
+Berëzovka Pervaya
+Berëzovo
+Berëzovshchina
+Berëzovtsy
+Berëzovyy Gay
+Berëzovyy Mostik
+Berëzy
 Beseda
 Besedki
 Besednoye
@@ -940,7 +940,7 @@ Biryuzovo
 Birzhini
 Biskupka
 Biskuptsy
-Bitelevo
+Bitelëvo
 Bitevtsy
 Bitonyaty
 Bitsevichi
@@ -957,7 +957,6 @@ Blazhishki
 Blazhki
 Blazhuny
 Blevachi
-Blevchitsy
 Blinovshchina
 Bliny
 Bliung
@@ -977,6 +976,7 @@ Blyshki
 Blyudnitsa
 Blyuvinichi
 Blyuyev
+Blëvchitsy
 Bobaryki
 Bobayedovo
 Bobinka
@@ -1029,9 +1029,9 @@ Bogat'ki
 Bogat'kovka
 Bogatki
 Bogatyr'
-Bogatyrevo
-Bogatyrevo Vtoroye
 Bogatyri-Pol'nyye
+Bogatyrëvo
+Bogatyrëvo Vtoroye
 Bogdan
 Bogdanishki
 Bogdanovka
@@ -1052,9 +1052,9 @@ Bogunovka
 Bogushchi
 Bogushevichi
 Bogushevka
-Bogushevo
 Bogushi
 Bogushovka
+Bogushëvo
 Boguslavitsa
 Boguslavka
 Boguslovovo
@@ -1084,7 +1084,7 @@ Bol'shaya Kaplitsa
 Bol'shaya Kolonaya
 Bol'shaya Komarovka
 Bol'shaya Kontora
-Bol'shaya Korolevka
+Bol'shaya Korolëvka
 Bol'shaya Krapivnya
 Bol'shaya Leshchenka
 Bol'shaya Lipovka
@@ -1112,7 +1112,6 @@ Bol'shaya Zimnitsa
 Bol'she-Bloshnaya
 Bol'she-Borovaya
 Bol'shevik
-Bol'shie Motykaly
 Bol'shiye Bakshty
 Bol'shiye Bobrovniki
 Bol'shiye Boyary
@@ -1140,12 +1139,12 @@ Bol'shiye Novosyady
 Bol'shiye Orly
 Bol'shiye Osetki
 Bol'shiye Ovchinenki
-Bol'shiye Ozeranki
+Bol'shiye Ozëranki
 Bol'shiye Pirklishki
 Bol'shiye Pleyki
 Bol'shiye Pozhen'ki
 Bol'shiye Pugachi
-Bol'shiye Pushchevyye
+Bol'shiye Pushchëvyye
 Bol'shiye Pyshnogory
 Bol'shiye Reksti
 Bol'shiye Rogi
@@ -1188,10 +1187,10 @@ Bol'shoye Babino
 Bol'shoye Barovo
 Bol'shoye Belyakovo
 Bol'shoye Bushkovo
-Bol'shoye Chernoye
+Bol'shoye Chërnoye
 Bol'shoye Gal'tsevo
 Bol'shoye Gatishche
-Bol'shoye Goloshevo
+Bol'shoye Goloshëvo
 Bol'shoye Gorodno
 Bol'shoye Kasho
 Bol'shoye Losvido
@@ -1332,10 +1331,10 @@ Borovukha Tret'ya
 Borovukha Vtoraya
 Borovyye
 Borshchevatka
-Borshchevka
-Borshchevo
 Borshchi
 Borshchovka
+Borshchëvka
+Borshchëvo
 Borstvinovo
 Borsuchina
 Borsuchizna
@@ -1436,13 +1435,13 @@ Briki
 Briksichi
 Brilek
 Brilev
-Brilevka
-Brilevo
 Brili
+Brilëvka
+Brilëvo
 Brindenyata
-Brinevo
 Brinichevo
 Brinval'dy
+Brinëvo
 Britiki
 Britsiki
 Briyalevo
@@ -1529,7 +1528,6 @@ Budcha
 Budchin
 Budenichi
 Budenichskaya Rudnya
-Budenovka
 Budevtsy
 Budichi
 Budilka
@@ -1543,12 +1541,12 @@ Budislovo
 Budka
 Budka-Shibenka
 Budki
-Budnevo
 Budniki
 Budnitsa
 Budnitskiy
 Budno
 Budnyye
+Budnëvo
 Budobol'
 Budochka
 Budogoshch'
@@ -1557,13 +1555,14 @@ Budovlya
 Budrany
 Budrevichi
 Budrovtsy
-Budslaw
+Budsław
 Budy
 Budyanka
 Budynki
 Budzilava
 Budzyenichy
 Budzyonawka
+Budënovka
 Bugai
 Buglai
 Buglayevo
@@ -1628,11 +1627,11 @@ Burez'
 Burki
 Burlak
 Burmaki
-Burnevka
 Burneyki
 Burnosy
 Burnyeva
 Burnyy
+Burnëvka
 Burosovo
 Burovshchina
 Burtichi
@@ -1649,8 +1648,8 @@ Bushki
 Bushlyaki
 Bushmichi
 Bushmin
-Bushnevo
 Bushnyaki
+Bushnëvo
 Bushovka
 Buslovka
 Busni
@@ -1779,7 +1778,6 @@ Byvalino
 Bzhegi
 Bzhukhache
 Ceramik
-Cervien
 Chabai
 Chabakhi
 Chabany
@@ -1800,11 +1798,11 @@ Chanovichi
 Chapayevka
 Chapayevo
 Chapayevskiy
-Chaplevshchina
 Chapli
 Chaplichi
 Chaplin
 Chaplitsy
+Chaplëvshchina
 Chapyali
 Chapyalinka
 Chapyalyeva
@@ -1872,19 +1870,16 @@ Chepuki Pervyye
 Chepuki Vtoryye
 Cherbomyslo
 Cherchenovka
-Cherchenovo
 Cherchenoye
 Cherchitsy
 Cherchychy
+Cherchënovo
 Cherebasovo
 Cherebomir
 Cheremkha
 Cheremkhovo
 Cheremshitsy
-Cheremukha
-Cheremushki
 Cheremushniki Podisennyye
-Cheremushniki Pogornyye
 Cherenka
 Cherenki
 Cherepki
@@ -1898,24 +1893,18 @@ Cheretyanka
 Cherevach
 Cherevachitsy
 Cherevki
-Chereyevka
 Chereyshchina
-Cherjomushki
+Chereyëvka
 Cherkasovo
 Cherkasy
 Cherkesy
-Cherlenka
+Cherlënka
 Chernaki
 Chernaki-Malyye
-Chernaya Loza
-Chernaya Luzha
-Chernaya Sosna
-Chernaya Virnya
 Cherneli
 Chernetskiy Mokh
 Chernetskoye
 Chernevichi
-Chernevo
 Chernevshchina
 Cherneya
 Cherneyevichi
@@ -1932,11 +1921,7 @@ Chernikovshchina
 Chernilovo
 Chernin
 Chernishki
-Chernitsa
-Chernitsa Pervaya
-Chernitsa Vtoraya
 Chernitskiy
-Chernitsy
 Chernobel'
 Chernogost'ye
 Chernogostnitsa
@@ -1957,9 +1942,8 @@ Chernova
 Chernovo Pervoye
 Chernovo Vtoroye
 Chernovshchina
-Chernoye
-Chernozem'ye
 Chernozemovka
+Chernozëm'ye
 Chernukha
 Chernushka
 Chernya
@@ -1975,15 +1959,10 @@ Chernyavskiye Malynichi
 Chernyavtsy
 Chernyewka
 Chernyshenki
-Chernyshevo
 Chernyshi
 Chernyshin
-Chernyy Bor
-Chernyy Brod
-Chernyy Lug
-Chernyy Osov
-Chernyye
-Chernyye Brody
+Chernyshëvo
+Chernëvo
 Chersk
 Cherstvidy
 Cherten'
@@ -2009,6 +1988,9 @@ Chervonyy Ostrov
 Chervonyy Promen'
 Chervyaki
 Cherykaw
+Cherëmukha
+Cherëmushki
+Cherëmushniki Pogornyye
 Cheshchevlyany
 Chesheyki
 Cheshuny
@@ -2121,6 +2103,21 @@ Chyst'
 Chystsi-Vardamskiya
 Chyzhakha
 Chyzhevichy
+Chërnaya Loza
+Chërnaya Luzha
+Chërnaya Sosna
+Chërnaya Virnya
+Chërnitsa
+Chërnitsa Pervaya
+Chërnitsa Vtoraya
+Chërnitsy
+Chërnoye
+Chërnyy Bor
+Chërnyy Brod
+Chërnyy Lug
+Chërnyy Osov
+Chërnyye
+Chërnyye Brody
 Czarny Las
 Czorty
 D'yakovichi
@@ -2137,8 +2134,8 @@ Dabuzha
 Dacha
 Dachnaya
 Dachnoye
-Dachnyy Poselok Nomer Odin
-Dachnyy Poselok Nomer Shest'
+Dachnyy Posëlok Nomer Odin
+Dachnyy Posëlok Nomer Shest'
 Dadeki
 Dajnowa Wielka
 Daklon'
@@ -2150,12 +2147,12 @@ Dal'niy
 Dal'niye Bondari
 Dal'yevo
 Dalekiye
-Dalekoye
 Dalenshchina
 Daletskiye
 Dalidovichi
 Daliki
 Dalyokiya
+Dalëkoye
 Damachava
 Damamyerychy
 Damanava
@@ -2165,7 +2162,6 @@ Damatkanavichy
 Damovtsy
 Dan'ki
 Dan'kovichi
-Danevo
 Danevtsy
 Daneyki
 Danilavichy
@@ -2180,6 +2176,7 @@ Danilovtsy
 Daniluvka
 Danilyevichy
 Danyushevo
+Danëvo
 Dapany
 Darahanava
 Darahaya
@@ -2283,9 +2280,7 @@ Demidovichi
 Demidovka
 Demidovo
 Demidy
-Demino
 Demovshchina
-Demskiye
 Demyachintsy
 Demyakhi
 Demyanichi
@@ -2325,7 +2320,6 @@ Derkachi
 Dernaki
 Dernovaya
 Derti
-Dertniki
 Dertnitsa
 Deruki
 Derutskaya
@@ -2333,15 +2327,14 @@ Dervany
 Derveli
 Deryugi
 Derzhinovo
-Deshevichi
 Deshkovichi
 Deshkovtsy
 Deshkovtsy-Grud
+Deshëvichi
 Desnakita
 Desnyanikovo
 Desyatiny
 Desyatniki
-Detki
 Detkovtsy
 Detomlya
 Devenitsa
@@ -2404,7 +2397,7 @@ Dobritsa
 Dobrody
 Dobrogoshcha
 Dobromysli
-Dobroplesy
+Dobroplësy
 Dobropol'
 Dobropol'ye
 Dobrosel'tsy
@@ -2440,7 +2433,7 @@ Dokuchino
 Dokudovo
 Dol'devo
 Dolbnevichi
-Dolbnevo
+Dolbnëvo
 Dolbtsy
 Dolevichi
 Dolgany
@@ -2487,10 +2480,10 @@ Domantovichi
 Domany
 Domashany
 Domashevichi
-Domashevo
 Domashi
 Domashki
 Domashkovichi
+Domashëvo
 Dombrovka
 Domenikovo
 Domeyki
@@ -2566,9 +2559,9 @@ Doynichevo
 Doynyaki
 Drabovichi
 Drabovshchina
-Dracheva
 Drachkava
 Drachkovo
+Drachëva
 Dragomilovo
 Dragunovo
 Dragunsk
@@ -2595,7 +2588,7 @@ Drechany
 Drekhcha
 Dreki
 Drekol'ye
-Dremlevo
+Dremlëvo
 Dretun'
 Dreveniki
 Dribino
@@ -2719,8 +2712,8 @@ Dubravy
 Dubrawka
 Dubrawlyany
 Dubrokva
-Dubrolevo
 Dubrolezh
+Dubrolëvo
 Dubrova
 Dubrovino
 Dubrovitsa
@@ -2780,7 +2773,7 @@ Dulino
 Dulyawtsy
 Dulyeby
 Dumanovshchina
-Dumarishki Chetvertyye
+Dumarishki Chetvërtyye
 Dumarishki Pyatyye
 Dumarishki Sed'myye
 Dumarishki Shestyye
@@ -2829,7 +2822,7 @@ Dvor-Khottevichi
 Dvor-Krapivno
 Dvor-Lyudchitsy
 Dvor-Nizgolovo
-Dvor-Novoselki
+Dvor-Novosëlki
 Dvor-Paul'ye
 Dvor-Peresika
 Dvor-Plino
@@ -2883,7 +2876,7 @@ Dybali
 Dybun'ki
 Dykhnovichi
 Dylevichi
-Dylevo
+Dylëvo
 Dymanovo
 Dymanovo-Dva
 Dymniki
@@ -2931,6 +2924,10 @@ Dzyetkavichy
 Dzyevyatki
 Dzyevyatkowtsy
 Dzyevyatni
+Dëmino
+Dëmskiye
+Dërtniki
+Dëtki
 Ekiman'
 Ekonomiya
 Energiya
@@ -2958,7 +2955,7 @@ Fanipol
 Farnyy Konets
 Farynava
 Fashchawka
-Fashchevka
+Fashchëvka
 Fastavichy
 Fatyn'
 Fatynya
@@ -2967,11 +2964,6 @@ Fed'kovo
 Federativnaya
 Fedorenki
 Fedorinki
-Fedorki
-Fedorovka
-Fedorovo
-Fedorovsk
-Fedortsy
 Fedosovka
 Fedosovo
 Fedosovshchina
@@ -3020,7 +3012,6 @@ Fortuny
 Forty
 Foyna
 Frankovo
-Franopol'
 Franopol'ye
 Frantishkany
 Frantishkovo
@@ -3039,9 +3030,14 @@ Furmanishki
 Furmany
 Fyadory
 Fyedzyuki
+Fëdorki
+Fëdorovka
+Fëdorovo
+Fëdorovsk
+Fëdortsy
 Gabitatsiya
-Gabrilevo
 Gabrileyevka
+Gabrilëvo
 Gabriyalovshchina
 Gabriyelevka
 Gabrovka
@@ -3050,7 +3046,6 @@ Gadichevo
 Gadiluny
 Gadivlya
 Gadovichi
-Gaek
 Gagali
 Gagarino
 Gai
@@ -3061,7 +3056,7 @@ Gal'ki
 Gal'kovka
 Gal'kovshchina
 Galabordy
-Galachevo
+Galachëvo
 Galczuny
 Galenchino
 Galenovka
@@ -3094,7 +3089,7 @@ Galynovka
 Gamarnya
 Gamovshchina
 Gamza
-Gamzelevo
+Gamzelëvo
 Gamzichi
 Gan'chitsy
 Gan'kovichi
@@ -3172,7 +3167,6 @@ Gaydukovka
 Gaydukovo
 Gaydukovshchina
 Gayek
-Gayevka
 Gayevskiy
 Gayevtsy
 Gaygoly
@@ -3184,7 +3178,9 @@ Gaylyuny
 Gaynin
 Gayninets
 Gaytyunishki
+Gayëvka
 Gazhin
+Gaëk
 Gedevichi
 Gelenovo
 Gelin
@@ -3311,8 +3307,8 @@ Glinsk
 Glinskiye
 Glinyanki
 Glinyany
-Glistenki
 Glistinets
+Glistënki
 Glodanki
 Gloty
 Glubokiy
@@ -3380,7 +3376,6 @@ Golenberg
 Golenchitsy
 Goleni Pervyye
 Goleni Vtoryye
-Golenki
 Golenovo
 Golet'
 Golevichi
@@ -3396,8 +3391,8 @@ Golodnitsa
 Gololobovka
 Golomyslo
 Goloshchakino
-Goloshevka
-Goloshevo
+Goloshëvka
+Goloshëvo
 Golosovichi
 Golotyl'tsy
 Golovachi
@@ -3430,9 +3425,10 @@ Golyn'
 Golynets
 Golynka
 Golysheno
-Golyshevka
 Golyshki
 Golyshovo
+Golyshëvka
+Golënki
 Gon'ki
 Goncharov Podel
 Goncharovka
@@ -3453,10 +3449,10 @@ Goravitsa
 Goravki
 Gorbach
 Gorbachenki
-Gorbachevka
 Gorbachevo
-Gorbachevshchina
 Gorbachi
+Gorbachëvka
+Gorbachëvshchina
 Gorbatichi
 Gorbatitsa
 Gorbatka
@@ -3589,7 +3585,7 @@ Goryane
 Goryani
 Goryany
 Goryuny
-Goshch-Chernyy
+Goshch-Chërnyy
 Goshcha
 Goshchevo
 Goshevo
@@ -3618,7 +3614,7 @@ Goyenka
 Goyzhevo
 Goza
 Gozha
-Grab'ye
+Grab'yë
 Grabli
 Grabniki
 Grabolovo
@@ -3629,11 +3625,11 @@ Grabovo Pervaya
 Grabovo Vtoraya
 Grabovtsy
 Grabsk
-Grad'ye
+Grad'yë
 Gradovshchizna
 Grakovka
 Grakovo
-Graleva
+Gralëva
 Gramoki
 Gramoshche
 Graniche-Male
@@ -3641,17 +3637,17 @@ Granovka
 Grayevshchina
 Grayno
 Greben'
-Grebenevo
 Grebenevskiy
 Grebeni
 Grebeniki
 Grebenitsa
 Grebenka
-Grebenovshchina
 Grebentsy
+Grebenëvo
 Greblo
 Grebnitsa
 Grebucheye
+Grebënovshchina
 Grechikhi
 Grechikhino
 Grechukhi
@@ -3762,12 +3758,12 @@ Grushechka
 Grushentsy
 Grushevka
 Grushevnik
-Grushevo
 Grushevskaya
 Grushka
 Grushnoye
 Grushovshchina
 Grushtelishki
+Grushëvo
 Grusk
 Gruskovo
 Gruzdovka
@@ -3787,7 +3783,7 @@ Grytsuki
 Gryunevskiy
 Guba
 Gubanovo
-Gubarevo
+Gubarëvo
 Gubchitsy
 Gubenichi
 Gubern'ya
@@ -4066,7 +4062,7 @@ Ikany
 Ikazn'
 Ikonki
 Il'ich
-Il'ichevka
+Il'ichëvka
 Il'inka
 Il'inovo
 Il'intsy
@@ -4078,7 +4074,6 @@ Ilantsy
 Ilava
 Ilgaytsy
 Ilishchevichi
-Ilja
 Ilosk
 Ilovo
 Ilynka
@@ -4115,7 +4110,7 @@ Irditsa
 Irinpol'ye
 Irtishchevo
 Irvenitsa
-Irzhevka
+Irzhëvka
 Isachkovo
 Isai
 Isakova Buda
@@ -4129,8 +4124,8 @@ Iskan'
 Iskozy
 Iskra
 Iskry
-Islochevka
 Islochka
+Islochëvka
 Ismanovka
 Ispos'
 Ist
@@ -4206,7 +4201,7 @@ Izbyn'
 Izdrashevo
 Izgorodishche
 Izha
-Izhery
+Izhëry
 Izin
 Izmaylovo
 Izmoki
@@ -4218,6 +4213,7 @@ Izoty
 Izubritsa
 Izyumovo
 Izyuory
+Iĺja
 Jakientany
 Jodczyki
 Kabak
@@ -4350,7 +4346,7 @@ Kamentsy
 Kamerovo
 Kameyki
 Kameyshi
-Kamien
+Kamień
 Kaminshchina
 Kamki
 Kamli
@@ -4375,8 +4371,6 @@ Kanava
 Kanavka
 Kanavy
 Kanchary
-Kanevka
-Kanevo
 Kanichev
 Kanichy
 Kanikovichi
@@ -4386,6 +4380,8 @@ Kantynovo
 Kanvyelishki
 Kanyawtsy
 Kanyukhi
+Kanëvka
+Kanëvo
 Kapachewka
 Kapachy
 Kapani
@@ -4613,9 +4609,6 @@ Kazeki
 Kazekovo
 Kazel'shchina
 Kazemirovo
-Kazennyye Borki
-Kazennyye Lychitsy
-Kazennyye Porshni
 Kazhamyakina
 Kazhan-Haradok
 Kazhary
@@ -4644,7 +4637,9 @@ Kazyany
 Kazyellye
 Kazyry
 Kazyuki
-Kel'
+Kazënnyye Borki
+Kazënnyye Lychitsy
+Kazënnyye Porshni
 Kel'nya
 Kelesy
 Keleytsy
@@ -4676,7 +4671,7 @@ Khakhovshchina
 Khal'ch
 Khal'ki
 Khalaleyevka
-Khalamyer"ye
+Khalamyer”ye
 Khaletskovshchyzna
 Khalimonovo
 Khalipy
@@ -4778,15 +4773,15 @@ Khmel'niki
 Khmel'nitsa
 Khmel'noye
 Khmeleva
-Khmelevka
-Khmelevshchina
-Khmelevskiye
 Khmeli
 Khmelinets
 Khmelino
 Khmelishche
 Khmelisko
 Khmelyany
+Khmelëvka
+Khmelëvshchina
+Khmelëvskiye
 Khmyal'nik
 Khmylki
 Khobnaye
@@ -4844,10 +4839,10 @@ Kholstovo
 Kholyanino
 Khomenki
 Khomentsy
-Khomichevo
 Khomichi
 Khomichitsy
 Khomichki
+Khomichëvo
 Khomiki
 Khominichi
 Khominka
@@ -4865,20 +4860,19 @@ Khonevichi
 Khonovo
 Khonyaki
 Khorastava
-Khorevshchina
 Khorobrovichi
 Khorobrovo
 Khorokovo
 Khoromitskiye
 Khoronevo
-Khoroshaya Yel'
+Khoroshaya Yël'
 Khoroshcha
 Khoroshevichi
-Khoroshevka
-Khoroshevo
 Khorosheye
 Khoroshki
 Khoroshovka
+Khoroshëvka
+Khoroshëvo
 Khorositsa
 Khorsk
 Khortovo
@@ -4888,6 +4882,7 @@ Khoruzhevo
 Khoruzhevtsy
 Khoruzhi
 Khoryakovo
+Khorëvshchina
 Khot'ki
 Khot'kovo
 Khot'kuny
@@ -4952,8 +4947,8 @@ Khromyye
 Khrost
 Khruli
 Khrushchenovichi
-Khrushchevka
-Khrustelevo
+Khrushchëvka
+Khrustelëvo
 Khrustovo
 Khudawtsy
 Khudlin
@@ -5030,7 +5025,6 @@ Kimeyka
 Kimiya
 Kinovka
 Kipyacha
-Kir"yanawtsy
 Kirava
 Kiraw
 Kirawsk
@@ -5047,17 +5041,18 @@ Kirova
 Kirovka
 Kirovo
 Kirovskiy
-Kirpichevshchina
 Kirpichnyy Zavod
+Kirpichëvshchina
 Kirshi
 Kirzheno
+Kir”yanawtsy
 Kisarevshchina Pervaya
 Kisel'ki
 Kisele
-Kiselevka
 Kiselevka Vtoraya
-Kiselevo
 Kiseli
+Kiselëvka
+Kiselëvo
 Kishchyna Slabada
 Kishchytsy
 Kishi
@@ -5075,8 +5070,8 @@ Kivachyna
 Kivantsy
 Kivatichi
 Kiyakovo
-Kiyevets
 Kiyevichi
+Kiyëvets
 Kizhby
 Kizilovo
 Kladi
@@ -5091,14 +5086,12 @@ Klei
 Klemenspol'ye
 Klementynovo
 Klemyatino
-Klen
 Klenki
 Klennik-Niz
 Klennoye
 Klenok
 Klenovichi
 Klenovitsa
-Klenovka
 Klentaki
 Klepachi
 Klepchany
@@ -5106,11 +5099,11 @@ Klepchanyy Most
 Klepitsy
 Kleptsy
 Klerimonty
-Kleshchevka
 Kleshchi
 Kleshchino
-Kleshevo
+Kleshchëvka
 Kleshnyaki
+Kleshëvo
 Klesino
 Kletcheno
 Kletishche
@@ -5126,8 +5119,7 @@ Klevtsy
 Klevzy
 Kleyka
 Klibovshchina
-Klicau
-Klichevskiy Poselok
+Klichevskiy Posëlok
 Klidenyaty
 Klim
 Klimantsy
@@ -5162,6 +5154,7 @@ Klishevo
 Klishi
 Klishino
 Klivy
+Kličaŭ
 Klochki
 Klochkovo
 Klomino
@@ -5190,8 +5183,8 @@ Klyetsk
 Klyeyniki
 Klyni
 Klyony
-Klypenka
 Klypovshchina
+Klypënka
 Klyshki
 Klyuch
 Klyuchatki
@@ -5208,6 +5201,8 @@ Klyushevo
 Klyushkovo
 Klyushnikovo
 Klyushovo
+Klën
+Klënovka
 Kmitsyanka
 Knistushki
 Knotovshchina
@@ -5318,7 +5313,7 @@ Kolonitsy
 Koloniya
 Koloniya Ostromechevo
 Koloniya Plyanta
-Koloniya Uzhmeny
+Koloniya Uzhmëny
 Kolonsk
 Kolontai
 Kolos
@@ -5450,8 +5445,8 @@ Konyushevshchina
 Konyushovshchina
 Konyutichi
 Kopacheli
-Kopachevka
 Kopachi
+Kopachëvka
 Kopan'
 Kopani
 Kopaniki
@@ -5466,8 +5461,6 @@ Kopol'
 Kopovishche
 Kopteli
 Koptevichi
-Koptevo
-Koptevshchina
 Koptey
 Kopti
 Koptsevichi
@@ -5476,6 +5469,8 @@ Koptsy
 Koptsyewka
 Koptyuga
 Koptyush
+Koptëvo
+Koptëvshchina
 Kopylovka
 Kopylovshchina
 Kopylszczyzna
@@ -5486,7 +5481,7 @@ Korabli
 Korablishche
 Koran'
 Korannaya
-Korbachevka
+Korbachëvka
 Korbanovo
 Korbovskoye
 Korch
@@ -5494,8 +5489,8 @@ Korchemka
 Korchev
 Korchevakha
 Korchevatka
-Korchevshchina
 Korchiki
+Korchëvshchina
 Kordon
 Kordy
 Kordziki
@@ -5503,14 +5498,14 @@ Korekovtsy
 Korendy
 Korenets
 Korenevichi
-Korenevka
-Korenevo
 Korenevshchina
 Koreni
 Korenikhi
 Koreniki
 Korenishetsy
 Korenyaty
+Korenëvka
+Korenëvo
 Korevichi
 Korgovdy
 Korgovo
@@ -5544,12 +5539,7 @@ Korobovshchina
 Koroby
 Koroby Pervyye
 Korochin
-Korolev Stan
-Korolev-Ostrov
 Korolevichi
-Korolevka
-Korolevo
-Korolevshchina
 Korolevskaya Sloboda Pervaya
 Korolevskaya Sloboda Vtoraya
 Korolevskiye
@@ -5559,6 +5549,11 @@ Korolina
 Korolino
 Korolinovo
 Korolishchevichi
+Korolëv Stan
+Korolëv-Ostrov
+Korolëvka
+Korolëvo
+Korolëvshchina
 Koromka
 Koronevskiye
 Korost'
@@ -5605,10 +5600,10 @@ Kosabuki
 Kosachevka
 Kosachi
 Kosakovka
-Kosarevo
 Kosarevshchina
 Kosari
 Kosarichi
+Kosarëvo
 Kosava
 Kosel'
 Kosel'skiy Prudok
@@ -5618,11 +5613,11 @@ Kosh'
 Koshcheniki
 Koshchevo
 Koshchichi
-Koshelev
-Koshelevka
-Koshelevo
 Koshelevskiy
 Kosheli
+Koshelëv
+Koshelëvka
+Koshelëvo
 Koshevichi
 Koshevoye
 Koshilovo
@@ -5683,13 +5678,11 @@ Kotashi
 Kotava
 Kotchino
 Kotel'niki
-Kotel'nja-Bojarskaja
 Kotel'no
 Kotel'nya-Boyarskaya
-Kotelevo
 Koteli
 Kotelinchitsa
-Kotelki
+Kotelëvo
 Kotevshchina
 Kotlovitsa
 Kotlovo
@@ -5704,24 +5697,25 @@ Kotsny
 Koty
 Kotyagi
 Kotyly
+Kotëlki
 Koupry
 Kovaka
 Koval'ki
 Koval'tsy
 Kovalenki
-Kovalev
-Kovalev Rog
 Kovalevichi
-Kovalevka
-Kovalevka Pervaya
 Kovalevka Vtoraya
-Kovalevo
 Kovalevshchina
-Kovalevtsy
 Kovali
 Kovalichi
 Kovaliki
 Kovalishki
+Kovalëv
+Kovalëv Rog
+Kovalëvka
+Kovalëvka Pervaya
+Kovalëvo
+Kovalëvtsy
 Kovantsy
 Kovarika
 Kovchiki
@@ -5739,7 +5733,7 @@ Kovrizheno
 Kovrizhki
 Kovrovaya
 Kovshary
-Kovshelevo
+Kovshelëvo
 Kovshenki
 Kovshevichi
 Kovshi
@@ -5808,13 +5802,13 @@ Kozly
 Kozlyakevichi
 Kozlyany
 Kozodoy
-Kozorezy
+Kozorëzy
 Kozovka
 Kozubets
 Kozulishki
 Kozyarniki
 Kozyenki
-Kozyrevo
+Kozyrëvo
 Kozyukovo
 Krachkovo
 Kraglevichi
@@ -5890,7 +5884,7 @@ Krasnogorsk
 Krasnoleski
 Krasnoluchka
 Krasnomoskovskiy
-Krasnoozerskaya
+Krasnoozërskaya
 Krasnopol'tsy
 Krasnopol'ye
 Krasnoruch'ye
@@ -5903,20 +5897,20 @@ Krasnovol'ye
 Krasnovtsy
 Krasnoyarsk
 Krasnoye
-Krasnoye Berezino
+Krasnoye Berëzino
 Krasnoye Ozero
 Krasnoye Pole
 Krasnoye Selishche
 Krasnoye Selo
 Krasnoye Vtoroye
 Krasnoye Znamya
-Krasnozem'ye
+Krasnozëm'ye
 Krasny Aktsyabr
 Krasny Dar
 Krasnyane
 Krasnyany
 Krasnyy
-Krasnyy Ales
+Krasnyy Alës
 Krasnyy Bereg
 Krasnyy Berezhok
 Krasnyy Bogatyr'
@@ -5938,11 +5932,11 @@ Krasnyy Mayak
 Krasnyy Most
 Krasnyy Ogorod
 Krasnyy Oktyabr'
-Krasnyy Orel
+Krasnyy Orël
 Krasnyy Osovets
 Krasnyy Pakhar'
 Krasnyy Partizan
-Krasnyy Poselok
+Krasnyy Posëlok
 Krasnyy Put'
 Krasnyy Ruchey
 Krasnyy Sad
@@ -6005,7 +5999,6 @@ Kreva
 Krevniki
 Krevnya
 Kreyvantsy
-Krichev Vtoroy
 Krichevatka
 Krichevets
 Krichevo
@@ -6014,6 +6007,7 @@ Krichin
 Krichino
 Krichki
 Krichniki
+Krichëv Vtoroy
 Krikaly
 Krikuny
 Krilovichi
@@ -6058,7 +6052,7 @@ Krivopol'ye
 Krivorotovo
 Krivosel'tsy
 Krivoseli
-Krivoselki
+Krivosëlki
 Krivovshchina
 Krivoy Most
 Krivoye
@@ -6280,7 +6274,7 @@ Kul'bachino
 Kul'baki
 Kul'ki
 Kul'kishki
-Kul'nevo
+Kul'nëvo
 Kul'shichi
 Kul'shino
 Kul'tura
@@ -6321,7 +6315,6 @@ Kunashi
 Kunava
 Kundry
 Kunei
-Kunevichi
 Kunichno
 Kunikhi
 Kunishche
@@ -6333,6 +6326,7 @@ Kuntsawshchyna
 Kuntsevichi
 Kuntsevshchina
 Kuntsy
+Kunëvichi
 Kupa
 Kupal'ye
 Kupaly
@@ -6389,7 +6383,7 @@ Kurkovo
 Kurkovshchina
 Kurkuli
 Kurlyandiki
-Kurmalevka
+Kurmalëvka
 Kurmanava
 Kurnevichi
 Kurniki
@@ -6471,8 +6465,8 @@ Kuz'mishki
 Kuz'my
 Kuzemshchina
 Kuzevichi
-Kuzevskiy Poselok Pervyy
-Kuzevskiy Poselok Vtoroy
+Kuzevskiy Posëlok Pervyy
+Kuzevskiy Posëlok Vtoroy
 Kuzhelichin
 Kuzhi
 Kuzhinets
@@ -6497,6 +6491,7 @@ Kvyatkovtsy
 Kyakshty
 Kyapsni
 Kyemyelishki
+Kël'
 L'nozavod
 L'vovshchina
 L'vowka
@@ -6622,11 +6617,11 @@ Latygovka
 Latygovo
 Latyholichy
 Latyshchina
-Latyshevo
 Latyshi
 Latyshki
 Latyshonki
 Latyshovo
+Latyshëvo
 Lautki
 Lavki
 Lavlya
@@ -6640,7 +6635,7 @@ Lavrinovka
 Lavrovskiy
 Lavruki
 Lavry
-Lavryshevo
+Lavryshëvo
 Lavskiy Brod
 Lavskiye
 Lavstyki
@@ -6730,7 +6725,6 @@ Leoshki
 Lepesy Malyye
 Lepeyki
 Leplyane
-Lepovshchina
 Lesan'
 Leshanka
 Leshcha
@@ -6826,9 +6820,9 @@ Lidimo
 Lidino
 Lidyany
 Liebiedzieva
-Likhachevo
-Likhachevshchina
 Likhachi
+Likhachëvo
+Likhachëvshchina
 Likhinichi
 Likhosel'tsy
 Likhoshino
@@ -6868,8 +6862,8 @@ Lipni
 Lipnik
 Lipniki
 Lipnishki
-Lipniski
 Lipnitsa
+Lipniški
 Lipno
 Lipnyaki
 Lipov
@@ -6904,11 +6898,11 @@ Lisoviichi
 Lisovka
 Lisovshchina
 Lisovskiye
-Listenka
 Listopadovichi
 Listopady
 Listvin
 Listyanki
+Listënka
 Lisuny
 Lisyatichi
 Litarovshchina
@@ -6938,14 +6932,14 @@ Liv'ye
 Livanovo
 Lizheyki
 Lobachevka
-Lobachevo
 Lobachi
 Lobachikha
-Lobanevka
+Lobachëvo
 Lobani
 Lobanovshchin
 Lobanovshchina
 Lobany
+Lobanëvka
 Lobatka
 Lobcha
 Lobeyki
@@ -7113,7 +7107,6 @@ Lugovtsy
 Lugovyye
 Luhavaya Slabada
 Luhi
-Luk"yanavichy
 Luk'yanov
 Luk'yanovka
 Luk'yanovo
@@ -7140,6 +7133,7 @@ Lukoye
 Lukshany
 Lukshi
 Lukty
+Luk”yanavichy
 Lumna
 Lunacharsk
 Lunacharskaye
@@ -7389,6 +7383,7 @@ Lyutsina
 Lyutyy Bor
 Lyutyye
 Lyzhichi
+Lëpovshchina
 Machalishcha
 Machask
 Machinovshchina
@@ -7469,7 +7464,7 @@ Mal'nya
 Mal'tsy
 Mal'zhonkovo
 Maladusha
-Maladziecna
+Maladziečna
 Malakhovichi
 Malakhovtsy
 Malaki
@@ -7501,7 +7496,7 @@ Malaya Kaplitsa
 Malaya Kavalewshchyna
 Malaya Kawpyenitsa
 Malaya Kolonaya
-Malaya Korolevka
+Malaya Korolëvka
 Malaya Krapivnya
 Malaya Krushinovka
 Malaya Lapenitsa
@@ -7526,7 +7521,7 @@ Malaya Perespa
 Malaya Plotnitsa
 Malaya Pokaz'
 Malaya Pushcha
-Malaya RAyevka
+Malaya RAyëvka
 Malaya Rahoznitsa
 Malaya Rakovitsa
 Malaya Ryminka
@@ -7583,11 +7578,11 @@ Maloye Barovo
 Maloye Belyakovo
 Maloye Bushkovo
 Maloye Bykovo
-Maloye Chernoye
+Maloye Chërnoye
 Maloye Demidkovo
 Maloye Gal'tsevo
-Maloye Ginevo
-Maloye Goloshevo
+Maloye Ginëvo
+Maloye Goloshëvo
 Maloye Gorodno
 Maloye Kapyrino
 Maloye Kasho
@@ -7676,7 +7671,7 @@ Malyya Azyorki
 Malyya Hal'yni
 Malyya Haradzyatsichy
 Malyya Lazitsy
-Malyya Lettsy
+Malyya Lëttsy
 Malyya Nyamki
 Malyya Nyastanavichy
 Malyya Plyeyki
@@ -7689,7 +7684,7 @@ Malyye Amkhinichi
 Malyye Bakshty
 Malyye Barsuchiny
 Malyye Belevichi
-Malyye Berezovtsy
+Malyye Berëzovtsy
 Malyye Besyady
 Malyye Bobrovniki
 Malyye Borki
@@ -7746,11 +7741,11 @@ Malyye Novosyady
 Malyye Orly
 Malyye Osetki
 Malyye Ovchinenki
-Malyye Ozeranki
+Malyye Ozëranki
 Malyye Prussy
 Malyye Pugachi
 Malyye Purnevichi
-Malyye Pushchevyye
+Malyye Pushchëvyye
 Malyye Pyshnogory
 Malyye Rachuny
 Malyye Rogi
@@ -7776,7 +7771,7 @@ Malyye Ukropovichi
 Malyye Ul'yanovichi
 Malyye Vikorovichi
 Malyye Vodovichi
-Malyye Vorob'yevichi
+Malyye Vorob'yëvichi
 Malyye Voyshnarishki
 Malyye Yakentany
 Malyye Yakovchitsy
@@ -7821,8 +7816,7 @@ Mantuny
 Mantyuty
 Manulki
 Manyuki
-Maparevka
-Mar"ina
+Maparëvka
 Mar''ina Horka
 Mar'ina Buda
 Mar'ino
@@ -7849,7 +7843,7 @@ Maripol'
 Mariton
 Markava
 Markavichy
-Markhachevshchina
+Markhachëvshchina
 Markhlevsk
 Markinyata
 Markishi
@@ -7896,6 +7890,7 @@ Marusen'ka
 Marusino
 Marvchanka
 Marysevo
+Mar”ina
 Mas'kovtsy
 Masal'shchina
 Masalyany
@@ -7923,12 +7918,12 @@ Maskalyanyaty
 Maskovtsy
 Maslaki
 Masleniki
-Maslenka
 Maslikovtsy
 Maslino
 Maslitsy
 Maslovichi
 Maslovshchina
+Maslënka
 Masnitskoye
 Masnoye
 Massory
@@ -7952,7 +7947,7 @@ Mateyevshchina
 Mateyevtsy
 Mateyki
 Mateykovo
-Matiyevo
+Matiyëvo
 Matoshka
 Matrunki
 Mats'kawtsy
@@ -7962,7 +7957,7 @@ Matselyany
 Matsevichi
 Matsevo
 Matseyevichi
-Matsilevshchina
+Matsilëvshchina
 Matsiyevichy
 Matskany
 Matskeli
@@ -7977,9 +7972,9 @@ Matsyeshytsy
 Matsyeyevichy
 Matsyeykawshchyna
 Matsyulyany
-Matulevo
-Matushevo
+Matulëvo
 Matushi
+Matushëvo
 Matusovka
 Matusovo
 Matvyan'tse
@@ -8005,7 +8000,6 @@ Maydan
 Maydan-Kamenitsa
 Mayerishki
 Mayerovshchina
-Mayevka
 Mayshchina
 Mayshuli
 Maysk
@@ -8017,6 +8011,7 @@ Mayskoye
 Maysyeyewka
 Maysyutino
 Mayzorovo
+Mayëvka
 Mazalava
 Mazanovo
 Mazeki
@@ -8028,10 +8023,10 @@ Mazhuli
 Mazhuyki
 Mazichi
 Mazki
-Maznevo
-Mazulevo
-Mazulevshchina
+Maznëvo
 Mazulino
+Mazulëvo
+Mazulëvshchina
 Mazurina
 Mazurino
 Mazurka
@@ -8096,7 +8091,6 @@ Meleshkovichi
 Melesnitsa
 Melevichi
 Melevshchina
-Melevtsy
 Melikhovo
 Melitonovo
 Melkovichi
@@ -8104,6 +8098,7 @@ Melovka
 Melovtsy
 Melyakhovichi
 Melyuzino
+Melëvtsy
 Men'ki
 Mendrikovshchina
 Menevezh
@@ -8120,7 +8115,6 @@ Mernitsa
 Merugi
 Merzlyaki
 Merzlyakovo
-Mesenkovshchina
 Meshchentsy
 Meshetniki
 Meshichi
@@ -8132,8 +8126,8 @@ Meshtuny
 Mestechko
 Mestino
 Mesyatichi
+Mesënkovshchina
 Metlichino
-Metly
 Metyavichi
 Meyluny
 Meyry
@@ -8184,13 +8178,6 @@ Mikashevichy
 Mikhal'ki
 Mikhal'tsy
 Mikhalev
-Mikhalevka
-Mikhalevo
-Mikhalevo Pervoye
-Mikhalevo Tret'ye
-Mikhalevo Vtoroye
-Mikhalevshchina
-Mikhalevtsy
 Mikhali
 Mikhalin
 Mikhalin Novy
@@ -8209,6 +8196,13 @@ Mikhalovo
 Mikhalpol'ye
 Mikhalyova
 Mikhalyowka
+Mikhalëvka
+Mikhalëvo
+Mikhalëvo Pervoye
+Mikhalëvo Tret'ye
+Mikhalëvo Vtoroye
+Mikhalëvshchina
+Mikhalëvtsy
 Mikhanovichi
 Mikhasevka
 Mikhaylov
@@ -8390,21 +8384,21 @@ Mizgiri
 Mizherychy
 Mizhevichi
 Mizhevichy
-Mizhevo
 Mizhiderevo
 Mizhilishche
 Mizhlyessye
 Mizhrech'ye
+Mizhëvo
 Mizulichi
 Mkhereno Pervoye
 Mkhereno Vtoroye
 Mlechki
-Mlekhovo
 Mlyn
 Mlynarovo
 Mlynka
 Mlynok
 Mlyny
+Mlëkhovo
 Mnikhi
 Mnogoversh
 Mnyukhi
@@ -8417,9 +8411,9 @@ Moczula
 Mogil'na
 Mogil'nitsy
 Mogil'no
-Mogilevka
 Mogilitsa
 Mogilyany
+Mogilëvka
 Moguchiy
 Mogylovtse
 Moiseyenki
@@ -8464,12 +8458,12 @@ Molochki
 Molodaya
 Molodel'chitsy
 Molodeyevo
-Molodezh'
-Molodezhki
-Molodezhnaya
 Molodi
-Molodnevo
+Molodnëvo
 Molodovo
+Molodëzh'
+Molodëzhki
+Molodëzhnaya
 Molonka-Kozlovskaya
 Molostovka
 Molot
@@ -8531,8 +8525,8 @@ Moseyki Vtoroye
 Moshchalino
 Moshchanitsa
 Moshchenka
-Moshchenovo
-Moshchenoye
+Moshchënovo
+Moshchënoye
 Moshevichi
 Moshevo
 Moshevoye
@@ -8548,12 +8542,12 @@ Moshny
 Moshok
 Mosin
 Moskal'ki
-Moskalenki
-Moskalevka
-Moskalevtsy
 Moskali
 Moskalishki
 Moskalyuki
+Moskalënki
+Moskalëvka
+Moskalëvtsy
 Moski
 Moskovshchina
 Moskovskaya Gora
@@ -8594,14 +8588,14 @@ Motovilo
 Motsyevichy
 Motuzhi
 Motyga
-Motylevka
 Motylyanka
+Motylëvka
 Moysichi
 Mozhany
 Mozheyevka
 Mozheyki
 Mozheykovshchina
-Mozhulevo
+Mozhulëvo
 Mozolevshchina
 Mozoli
 Mray
@@ -8630,9 +8624,9 @@ Muragi
 Muragovo
 Murashchino
 Murashki
-Murav'evka
 Murav'i
-Murav'yevka
+Murav'yëvka
+Murav'ëvka
 Murava
 Muravana
 Muravana-Ashmyanka
@@ -8708,7 +8702,7 @@ Mykshitsy
 Myl'nishche
 Myl'nisk
 Mylenki
-Mylevo
+Mylëvo
 Myory
 Myshanka
 Myshcheno
@@ -8727,6 +8721,7 @@ Myslotino
 Myslov Rog
 Myslovo
 Myto
+Mëtly
 Naberezhnaya
 Naberezhnyy
 Nabushevo
@@ -8738,8 +8733,8 @@ Nadeya
 Nadeykovichi
 Nadezhda
 Nadezhdino
-Nadneman
-Nadozer'ye
+Nadnëman
+Nadozër'ye
 Nadvin
 Nadzyozhyna
 Nagavki
@@ -8870,10 +8865,10 @@ Nekholsty
 Neklyudovo
 Nekrashevichi
 Nekrashevka
-Nekrashevo
 Nekrashi
 Nekrashuntsy
 Nekrashuny
+Nekrashëvo
 Nekrasov
 Nekrasovo
 Nekrytoye Selo
@@ -8961,8 +8956,6 @@ Nikitki
 Nikodimovo
 Nikol'sk
 Nikol'skoye
-Nikolaevka-2
-Nikolaevka-3
 Nikolayevichi
 Nikolayevka
 Nikolayevka Tret'ya
@@ -9045,7 +9038,7 @@ Novapalyeski
 Novashino
 Novaya
 Novaya Aleshkovka
-Novaya Aleshnya
+Novaya Alëshnya
 Novaya Bel'
 Novaya Belitsa
 Novaya Belorus'
@@ -9057,7 +9050,7 @@ Novaya Boyarshchina Vtoraya
 Novaya Buda
 Novaya Budovka
 Novaya Bukhalovka
-Novaya Chernevka
+Novaya Chernëvka
 Novaya Derevnya
 Novaya Dobosna
 Novaya Dubovaya
@@ -9120,10 +9113,10 @@ Novaya Tukhinya
 Novaya Utekha
 Novaya Uza
 Novaya Vergan'
-Novaya Veska
 Novaya Vileyka
 Novaya Vodva
 Novaya Vyoska
+Novaya Vëska
 Novaya Yablonka
 Novaya Yatskovshchina
 Novaya Yel'kovshchina
@@ -9200,22 +9193,22 @@ Novosady
 Novosel'tsy
 Novosel'ye
 Novoseleniye
-Novoselka
-Novoselki
-Novoselki Vtoryye
-Novoselki-Kemeshevskiye
-Novoselovo
-Novosely
 Novoshino
 Novosyady
 Novosyady Pervyye
 Novosyulki
+Novosëlka
+Novosëlki
+Novosëlki Vtoryye
+Novosëlki-Kemeshevskiye
+Novosëlovo
+Novosëly
 Novovasil'yevsk
 Novovinogradov
 Novovol'berovochi
 Novoye
 Novoye Barsuchino
-Novoye Chernevo
+Novoye Chernëvo
 Novoye Gorodishche
 Novoye Grudinovo
 Novoye Khorobrovo
@@ -9239,10 +9232,10 @@ Novoye Zabolot'ye
 Novoye Zaborov'ye
 Novoye Zalitvin'ye
 Novoye Zalyad'ye
-Novoye Zaozer'ye
+Novoye Zaozër'ye
 Novoye Zaymishche
-Novoye Zhit'e
-Novoye Zhit'ye
+Novoye Zhit'yë
+Novoye Zhit'ë
 Novoye-Gudovo
 Novoyegorovka
 Novoyel'nya
@@ -9286,8 +9279,8 @@ Novyy Most
 Novyy Ostrov
 Novyy Pakhar'
 Novyy Perevoz
-Novyy Poselok
-Novyy Poselok Pervyy
+Novyy Posëlok
+Novyy Posëlok Pervyy
 Novyy Pribuzh
 Novyy Put'
 Novyy Rabak
@@ -9353,7 +9346,7 @@ Novyye Lyadtsy
 Novyye Lyady
 Novyye Malynichi
 Novyye Naborki
-Novyye Novoselki
+Novyye Novosëlki
 Novyye Ogarevichi
 Novyye Ovchinenki
 Novyye Pechki
@@ -9421,7 +9414,6 @@ Obchak
 Obcheye
 Obech
 Obel'kovichi
-Obez
 Obidemlya
 Obidino
 Obmanichi
@@ -9444,6 +9436,7 @@ Obryn'
 Obukhovichi
 Obukhovo
 Obukhovshchina
+Obëz
 Ochki
 Odla
 Odnopol'
@@ -9475,17 +9468,16 @@ Okolitsa-Baranovichi
 Okolovo
 Okono
 Okra
-Oktjabr'skij
 Oktyabr
 Oktyabr'
 Oktyabr'sk
 Oktyabr'skaya
 Oktyabr'skiy
 Oktyabrino
-Okunevka
-Okunevo
 Okuni
 Okuninovo
+Okunëvka
+Okunëvo
 Okushki
 Ol'gerdovo
 Ol'ginyany
@@ -9512,16 +9504,15 @@ Ol'shanka
 Ol'shanka Malaya
 Ol'shany
 Ol'shchina
-Ol'shevo
 Ol'shevtsy
 Ol'shimovo
 Ol'shnevo
 Ol'shov Pervyy
 Ol'shov Vtoroy
+Ol'shëvo
 Ol'zhevo
 Olekhnovichi
 Olekhovshchina
-Olekshitsa
 Olekshitsy
 Olen'
 Olenets
@@ -9532,7 +9523,6 @@ Olenpinovo
 Olesevichi
 Oleshevichi
 Oleshishki
-Oleshki
 Oleshkovichi
 Oleshkovichi Vtoryye
 Oleshkovtsy
@@ -9551,6 +9541,8 @@ Olizarovshchina
 Olsiewicze
 Oltush
 Olyany
+Olëkshitsa
+Olëshki
 Omel'no
 Omelenets
 Omelenskaya Sloboda
@@ -9586,7 +9578,6 @@ Orekhovno
 Orekhovo
 Orekhovskaya
 Orekhovskiy
-Orel
 Orepichi
 Oreshanka
 Oreshenki
@@ -9599,7 +9590,6 @@ Orkovichi
 Orle
 Orlensk
 Orlenyata
-Orlevo
 Orleya
 Orli
 Orlino
@@ -9613,18 +9603,20 @@ Orly
 Orlya
 Orlyanka
 Orlyany
+Orlëvo
 Orsha
 Orshani
 Orsheli
 Orsichi
 Ortsy
 Oryzhnya
+Orël
 Os'niki
 Os'ye
 Osanovo
 Osecheno
 Oseka
-Oseredok
+Oserëdok
 Osetishche
 Osetki
 Osetnitsa
@@ -9783,30 +9775,21 @@ Ozarovichi
 Ozdamicze
 Ozdobichi
 Ozemlya
-Ozer'ye
 Ozerany
-Ozerava
 Ozeravtsy
 Ozerets
 Ozeretskaya
 Ozerichino
 Ozerishche
-Ozerisko
 Ozerki
-Ozernaya
-Ozerniki
 Ozernitsa
-Ozernoye
-Ozernyy
 Ozero-Poyma
 Ozerodishche
 Ozerodoviche
 Ozerody
 Ozerok
 Ozerovka
-Ozerskoye
 Ozertsy
-Ozery
 Ozginovichi
 Ozhartsy
 Ozhelishki
@@ -9814,6 +9797,15 @@ Ozhiki
 Ozhogovshchino
 Ozhuny
 Ozloml'
+Ozër'ye
+Ozërava
+Ozërisko
+Ozërnaya
+Ozërniki
+Ozërnoye
+Ozërnyy
+Ozërskoye
+Ozëry
 P'yan'kovo
 P'yanyy Les
 Pabochiy
@@ -9821,7 +9813,6 @@ Pachapy
 Pachayevichy
 Pachkovshchina
 Pachobuty
-Pad"yel'tsy
 Padalitsa
 Padar
 Padarosk
@@ -9851,6 +9842,7 @@ Padvoryshki
 Padvorytsa
 Padyr'
 Padyshche
+Pad”yel'tsy
 Paharel'tsy
 Paharelaye
 Paharelka
@@ -9960,17 +9952,17 @@ Papyalyova
 Papyernya
 Paradni
 Paradzina
-Paraf"yanava
 Parafyanuv
+Paraf”yanava
 Parakhonsk
-Parasel'ki
 Paraski
+Parasël'ki
 Pare
 Parechcha
 Parfenkovo
-Parfenovka
-Parfenovtsy
 Parfyonavichy
+Parfënovka
+Parfënovtsy
 Parikhi
 Paris
 Parkhimawtsy
@@ -9980,9 +9972,9 @@ Parkhimovshchina
 Parkhovo
 Parkhuty
 Parkovaya
-Parnevka
 Parnevo
 Parnya
+Parnëvka
 Parshchevshchina
 Parshyna
 Partizanka
@@ -10028,7 +10020,7 @@ Pasutichi
 Pasyeka
 Pasyelichy
 Pasynki
-Pasyrevo
+Pasyrëvo
 Patapawka
 Pateyenki
 Patoka
@@ -10080,8 +10072,6 @@ Pazderki
 Pchel'nik
 Pchel'nya
 Pchelinsk
-Pechenka
-Pechenki
 Pechevka
 Pechevshchina
 Pechishche
@@ -10090,6 +10080,8 @@ Pechkovka
 Pechnoye
 Pechory
 Pechurany
+Pechënka
+Pechënki
 Pekari
 Pekhterevo
 Pekhuri
@@ -10314,8 +10306,8 @@ Petyulevtsy
 Petyuny
 Pevedomshchina
 Pevtse
-Pichevka
 Pichuki
+Pichëvka
 Pigasovo
 Pigasy
 Pihanovichy
@@ -10366,11 +10358,11 @@ Pirtani
 Pirutino
 Pisarevichi
 Pisarevka
-Pisarevka Glukhskaya
 Pisarevo
 Pisarevshchina
 Pisarshchina
 Pisaruki
+Pisarëvka Glukhskaya
 Pishchakino
 Pishchalava
 Pishchalevka
@@ -10424,7 +10416,6 @@ Pleshkuny
 Plesovichi
 Plesovichskaya Slobodka
 Plessy
-Plesy
 Pletivishche
 Pletki
 Pletyashi
@@ -10474,10 +10465,11 @@ Plyushchevo
 Plyuskalovtsy
 Plyusna
 Plyusy
+Plësy
 Pnevichi
-Pnevo
 Pnevshchina
 Pnivoda
+Pnëvo
 Pobalava
 Pobeda
 Pobedinshchina
@@ -10495,29 +10487,17 @@ Poboli
 Pobrez'ye
 Pochalovo
 Pochapovo
-Pochebuty
 Pochepok
 Pochki
 Pochta
 Pochta-Abab'ye
 Pochtovaya Glinka
 Pochuyki
-Pod"bel'ye
-Pod"yablon'ka
-Pod"yamenets
-Pod"yasen'
-Pod"yasenka
-Pod"yatly
-Pod"yavorka
-Pod"yazovle
-Pod"yel'niki
-Pod"yel'tsy
-Pod"yeletskiy
+Pochëbuty
 Pod'yasenka
 Pod'yazno
 Podaki
 Podalets
-Podbel'skie Ogorodniki
 Podbel'tsy
 Podbel'ye
 Podbela
@@ -10526,8 +10506,8 @@ Podber'ye
 Podberez'ye
 Podberezh'ye
 Podberezina
-Podberezy
 Podbershty
+Podberëzy
 Podblotse
 Podbobra
 Podbogoniki
@@ -10606,7 +10586,7 @@ Podles'ye
 Podles'ye-Kamenetskoye
 Podles'ye-Radvanichskoye
 Podlese
-Podleshchenka
+Podleshchënka
 Podleski
 Podlesnaya
 Podlesnyy
@@ -10647,10 +10627,10 @@ Podosovo
 Podosovtsy
 Podovzh
 Podozbin
-Podozer'ye
-Podozerki
-Podozernoye
-Podozertsy
+Podozër'ye
+Podozërki
+Podozërnoye
+Podozërtsy
 Podprud'ye
 Podrabinki
 Podralovka
@@ -10666,14 +10646,14 @@ Podruksha
 Podsad'ye
 Podsadskiye
 Podsady
-Podsely
-Podsemenovka
+Podsemënovka
 Podsobnoye
 Podsosenka
 Podsosnoye
 Podsoson'ye
 Podstarevo
 Podstruzh'ye
+Podsëly
 Podtekhanichi
 Podtitovka
 Podtserkovshchina
@@ -10701,6 +10681,17 @@ Podzamsha
 Podzelen'
 Podzemen'ye
 Podzheleznitsa
+Pod”bel'ye
+Pod”yablon'ka
+Pod”yamenets
+Pod”yasen'
+Pod”yasenka
+Pod”yatly
+Pod”yavorka
+Pod”yazovle
+Pod”yel'niki
+Pod”yel'tsy
+Pod”yeletskiy
 Pogiri
 Pogirshchino
 Pogodino
@@ -10728,8 +10719,8 @@ Pogranich'ye
 Pogranichnik
 Pogranichnoye
 Pogranichnyy
-Pogrebenka
 Pogrebishche
+Pogrebënka
 Pogubyatichi
 Pogulyanka
 Pogulyayka
@@ -10759,7 +10750,6 @@ Polelyum
 Polenichitsy
 Poleniki
 Polenka
-Polenovka
 Polenovo
 Polepenskiy
 Poles'ye
@@ -10816,7 +10806,7 @@ Poluch'ye
 Poludovshchina
 Poludy
 Polui
-Poluozer'ye
+Poluozër'ye
 Poluyanki
 Poluyanovo
 Poluyanovtsy
@@ -10839,6 +10829,7 @@ Polykovichi
 Polykovichi-2
 Polykovskiye Khutora
 Polymya
+Polënovka
 Pomed'
 Pomelkovo
 Pomorshchina
@@ -10864,11 +10855,10 @@ Poparnoye
 Popekhinka
 Popel'niki
 Popelevichi
-Popelevo
 Popelishche
 Popely
 Popelygi
-Poperezh'ye
+Popelëvo
 Popishki
 Popki
 Popkov Lug
@@ -10884,6 +10874,7 @@ Popovichi
 Popovka
 Popovshchina
 Popovtsy
+Popërezh'ye
 Poradovshchina
 Poradun'
 Porakiti
@@ -10916,80 +10907,7 @@ Poruchniki
 Posada
 Posadets
 Poselishche
-Poselki Birchanskiye
 Poselok
-Poselok Al'ba
-Poselok Bluzha
-Poselok Bogushovka
-Poselok Brili
-Poselok Budino
-Poselok Chernichnyy
-Poselok Dashkovka
-Poselok Derevtsy
-Poselok Dovbarovo
-Poselok Druzhba
-Poselok Dubravy
-Poselok Glinitskiy
-Poselok Goloshevskiy
-Poselok Gorochichskiy
-Poselok Gorodishche
-Poselok Gulevichi
-Poselok Imeni Kalinina
-Poselok Imeni Lenina
-Poselok Imeni Vorovskogo
-Poselok Internatsional'nyy
-Poselok Ivashkovichi
-Poselok Kamenka
-Poselok Klochki
-Poselok Kolyadichi
-Poselok Krival'
-Poselok L'nozavod
-Poselok Lapichi
-Poselok Lenina
-Poselok Luchitsy
-Poselok Lugovoy
-Poselok Lyady
-Poselok Mezhi
-Poselok Mirnyy
-Poselok Nomer Chetyre
-Poselok Nomer Desyat'
-Poselok Nomer Devyat'
-Poselok Nomer Dva
-Poselok Nomer Odinnadtsat'
-Poselok Nomer Vosem'
-Poselok Novokolosovo
-Poselok Osovo
-Poselok Ozerech'ye
-Poselok Pervomayskiy
-Poselok Pozhen'ki
-Poselok Pribuzh'ye Staroye
-Poselok Priozerskiy
-Poselok Progress
-Poselok Ptitsefabrika
-Poselok Radeyevo
-Poselok Raz"yezd Nomer Trinadtsatyy
-Poselok Rossokhi
-Poselok Selets
-Poselok Sharnevo
-Poselok Shestovichskiy
-Poselok Shkolnyy
-Poselok Slavinsk
-Poselok Sokol
-Poselok Tishovka
-Poselok Torfozavoda
-Poselok Turskovoy
-Poselok Uborok
-Poselok Vereytsy
-Poselok Vishnevka
-Poselok Voskhod
-Poselok Yakimovka
-Poselok Yakovlevichi
-Poselok Yanovichi
-Poselok Yasen'
-Poselok Yashchitskiy
-Poselok Yazby
-Poselok Yubileynyy
-Poselok Zyabrovka
 Posenichi
 Poskanitsa
 Posopovo
@@ -11003,6 +10921,79 @@ Postorona
 Postrash
 Postrezhtse
 Posud'yevo
+Posëlki Birchanskiye
+Posëlok Al'ba
+Posëlok Bluzha
+Posëlok Bogushovka
+Posëlok Brili
+Posëlok Budino
+Posëlok Chernichnyy
+Posëlok Dashkovka
+Posëlok Derevtsy
+Posëlok Dovbarovo
+Posëlok Druzhba
+Posëlok Dubravy
+Posëlok Glinitskiy
+Posëlok Goloshëvskiy
+Posëlok Gorochichskiy
+Posëlok Gorodishche
+Posëlok Gulevichi
+Posëlok Imeni Kalinina
+Posëlok Imeni Lenina
+Posëlok Imeni Vorovskogo
+Posëlok Internatsional'nyy
+Posëlok Ivashkovichi
+Posëlok Kamenka
+Posëlok Klochki
+Posëlok Kolyadichi
+Posëlok Krival'
+Posëlok L'nozavod
+Posëlok Lapichi
+Posëlok Lenina
+Posëlok Luchitsy
+Posëlok Lugovoy
+Posëlok Lyady
+Posëlok Mezhi
+Posëlok Mirnyy
+Posëlok Nomer Chetyre
+Posëlok Nomer Desyat'
+Posëlok Nomer Devyat'
+Posëlok Nomer Dva
+Posëlok Nomer Odinnadtsat'
+Posëlok Nomer Vosem'
+Posëlok Novokolosovo
+Posëlok Osovo
+Posëlok Ozerech'ye
+Posëlok Pervomayskiy
+Posëlok Pozhen'ki
+Posëlok Pribuzh'ye Staroye
+Posëlok Priozërskiy
+Posëlok Progress
+Posëlok Ptitsefabrika
+Posëlok Radeyevo
+Posëlok Raz”yezd Nomer Trinadtsatyy
+Posëlok Rossokhi
+Posëlok Selets
+Posëlok Sharnëvo
+Posëlok Shestovichskiy
+Posëlok Shkolnyy
+Posëlok Slavinsk
+Posëlok Sokol
+Posëlok Tishovka
+Posëlok Torfozavoda
+Posëlok Turskovoy
+Posëlok Uborok
+Posëlok Vereytsy
+Posëlok Vishnëvka
+Posëlok Voskhod
+Posëlok Yakimovka
+Posëlok Yakovlevichi
+Posëlok Yanovichi
+Posëlok Yasen'
+Posëlok Yashchitskiy
+Posëlok Yazby
+Posëlok Yubileynyy
+Posëlok Zyabrovka
 Potapovichi
 Potapovo
 Potashenki
@@ -11013,7 +11004,7 @@ Potelyuntsy
 Poteryayevka
 Potevichi
 Poti
-Potichevo
+Potichëvo
 Potino
 Potok
 Potoka
@@ -11131,18 +11122,16 @@ Primen'
 Primor'ye
 Prinemanskaya
 Printa
-Priozernaya
-Priozernyy
+Priozërnaya
+Priozërnyy
 Pripechino
 Pripernoye
 Prirech'ye
 Prisady
-Priselki
 Prisenshchina
 Prismaki
 Prisna-1
 Prisno Vtoroye
-Prisno-2
 Pristan'
 Pristoi
 Pristoron'
@@ -11152,6 +11141,7 @@ Pristupichi
 Pristupovshchina
 Prisushino
 Prisynok
+Prisëlki
 Priterpa
 Prityka
 Prival'ni
@@ -11188,7 +11178,7 @@ Promysly
 Pron'ki
 Pronchaki
 Pronskoye
-Prontsevka
+Prontsëvka
 Prorovino
 Proshchitsy
 Proshkava
@@ -11271,7 +11261,7 @@ Ptitskiye
 Ptsich
 Ptsichanskaya
 Ptushichi
-Puchavicy
+Puchavičy
 Puchiny
 Puchkinishki
 Pudakov
@@ -11372,9 +11362,9 @@ Puzovichi
 Puzovo
 Puzunovo
 Puzynovtsy
-Puzyrevo
 Puzyri
 Puzyry
+Puzyrëvo
 Pyachary
 Pyachkovichi
 Pyadan'
@@ -11457,7 +11447,7 @@ Rabki
 Rabkor
 Rabkovichi
 Rabochiy
-Rabochiy Poselok
+Rabochiy Posëlok
 Rabovichi
 Rabtsy
 Rabun'
@@ -11474,14 +11464,14 @@ Rachki
 Rachkovichi
 Rachkovo
 Rachkyany
-Rachnevo Pervoye
+Rachnëvo Pervoye
 Rachuny
 Raczniowo Drugie
 Rad'ki
 Rad'kov
 Radamlya
-Radaskovicy
 Radastava
+Radaškovičy
 Radchenki
 Radchytsk
 Radetsk
@@ -11499,7 +11489,6 @@ Radkovshchina
 Radniki
 Radogoshcha
 Radohoszcz
-Radost'
 Radovnya
 Raduchi
 Raduga
@@ -11651,8 +11640,6 @@ Ravenstvo
 Rawkutycze
 Rawnapollye
 Ray
-Rayek
-Rayevka
 Rayevshchina
 Rayevskiye
 Raykovo
@@ -11661,6 +11648,8 @@ Raysk
 Raysta
 Raytsa
 Raytsy
+Rayëk
+Rayëvka
 Razanalinovo
 Razderka
 Razdol'naya
@@ -11685,7 +11674,6 @@ Rechki
 Rechki Pervyye
 Rechki Vtoryye
 Rechytsa
-Recki
 Red'ka
 Red'ki
 Redisheno
@@ -11725,11 +11713,11 @@ Repolovo
 Repovichi
 Repukhovo
 Repyakhi
-Reshetki
-Reshetki Pervyye
-Reshetnevka
 Reshetniki
+Reshetnëvka
 Reshitel'nyy
+Reshëtki
+Reshëtki Pervyye
 Retemlya
 Reuch'ye
 Reut
@@ -11747,6 +11735,7 @@ Rezantsy
 Rezany
 Rezki
 Rezkiy
+Rečki
 Ridomlya
 Riduplya
 Rigali
@@ -11761,7 +11750,7 @@ Rimteli
 Rimuni
 Rimuti
 Rin'ya
-Rindziunai
+Rindžiūnai
 Risevichi
 Riski
 Riskov
@@ -11786,8 +11775,8 @@ Rodzevichi
 Rodzevshchyzna
 Rog
 Rogach
-Rogachevshchina
 Rogachi
+Rogachëvshchina
 Rogalevshchina
 Rogali
 Roganichi
@@ -11930,13 +11919,13 @@ Rubezhi
 Rubezhnitsa
 Rubilki
 Rubleniki
-Rublevo
-Rublevsk
+Rublëvo
+Rublëvsk
 Rubryn'
 Rubyazhevichy
 Rubyel'
 Rubyezh
-Ruch'e
+Ruch'ë
 Ruchay
 Ruchayowka
 Ruchevyye
@@ -12080,7 +12069,7 @@ Ryabtsy
 Ryabyy Slup
 Ryamshino
 Ryasno
-Ryasno, Rjasno, Rasna
+Ryasno, Рясно, Расна
 Rybachki
 Rybaki
 Rybakovshchina
@@ -12149,7 +12138,6 @@ Sachivki
 Sachkovichi
 Sachywki
 Sachywlyany
-Sack
 Sadki
 Sadkovshchina
 Sadok
@@ -12236,7 +12224,6 @@ Sapronovo
 Saprynavichy
 Saputevichi
 Sapyezhinka
-Sar"ya
 Sarachy
 Saranchany
 Sarapony
@@ -12248,6 +12235,7 @@ Sarochyna
 Saroseki
 Sarvasy
 Sarviry
+Sar”ya
 Sas'kawka
 Sasanishki
 Sashytsa
@@ -12364,30 +12352,28 @@ Semencha Pervaya
 Semencha Vtoraya
 Semenchiki
 Semenchitsy
-Semenilovo
 Semenki
-Semenkovichi
-Semenovichi
-Semenovka
-Semenovka Pervaya
-Semenovka Vtoraya
-Semenovo
-Semenovshchina
-Semenovskiy
-Semenovtsy
 Sementsovo
 Semeonuvka
 Semerniki
 Semeyki
 Semikhovichi
 Semikovka
-Semino
-Semki
 Semkov
 Semkovo
 Semonovshchina
 Semuradtsy
 Semyagi
+Semënilovo
+Semënkovichi
+Semënovichi
+Semënovka
+Semënovka Pervaya
+Semënovka Vtoraya
+Semënovo
+Semënovshchina
+Semënovskiy
+Semënovtsy
 Sen'kov
 Sen'kovichi
 Sen'kovo
@@ -12442,8 +12428,8 @@ Servach'
 Servech
 Seryye
 Serzhany
-Sestrentsy
 Sestronki
+Sestrëntsy
 Setcha
 Setevino
 Setishche
@@ -12591,14 +12577,11 @@ Shchedrovshchina
 Shchegliki
 Shcheglitsa
 Shcheglovka
-Shcheki
-Shchekotovo
 Shchekotovshchina
 Shchekotsk
 Shchelbovo
 Shchelkovshchina
 Shchelkuny
-Shcheloki
 Shchenets
 Shchenovo
 Shchepany
@@ -12613,7 +12596,6 @@ Shcherbovka
 Shcherbovo
 Shcherby
 Shchetinka
-Shchetniki
 Shchezher' Pervyy
 Shchezher' Vtoroy
 Shchibrin
@@ -12636,6 +12618,10 @@ Shchuchyn
 Shchuki
 Shchurok
 Shchytkavichy
+Shchëki
+Shchëkotovo
+Shchëloki
+Shchëtniki
 Shebrin
 Shed'ki
 Shedi
@@ -12645,10 +12631,8 @@ Shelegi
 Shelekhovo
 Shelepki
 Shelesty
-Shelevshchina
 Shelkovichi
 Shelkovin'ye
-Shelkovo
 Shelkovshchina
 Shelodonovka
 Shelokhanovka
@@ -12658,17 +12642,18 @@ Shelukhi
 Shelukhovka
 Sheluti
 Shelyagi
+Shelëvshchina
 Shembelevtsy
 Shemberevo
 Shemeli
-Shemetovka
 Shemetovo
 Shemetovshchina
 Shemyaki
+Shemëtovka
 Shendyaly
 Shenevtsy
-Shepelevka
-Shepelevo
+Shepelëvka
+Shepelëvo
 Sheperevo
 Shepetovo
 Sheptuny
@@ -12764,7 +12749,7 @@ Shitiki
 Shitkovka
 Shiya
 Shiyalovka
-Shkalevka
+Shkalëvka
 Shkava
 Shkavilovka
 Shkeli
@@ -12889,6 +12874,7 @@ Shyrki
 Shyrokaye
 Shyshchytsy
 Shytsi
+Shëlkovo
 Sibyaki
 Sidaravichy
 Sidarawka
@@ -13085,7 +13071,7 @@ Skrundi
 Skryabenki
 Skryazhino
 Skrybawtsy
-Skrydlevo
+Skrydlëvo
 Skryhalaw
 Skryl'
 Skryl'-Sloboda
@@ -13147,7 +13133,6 @@ Slaykovshchina
 Slenzaki
 Sleptsy
 Slesari
-Slezki
 Slidchany
 Slidtsy
 Slinki
@@ -13190,17 +13175,18 @@ Sluzhki
 Slyadnevichi Pervyye
 Slyadnevichi Vtoryye
 Slyedzyuki
+Slëzki
 Smaglov
 Smagorin
 Smal'ki
 Smalenka
-Smaliavicy
+Smaliavičy
 Smalichy
 Smalitsa
 Smalowka
 Smalyanaya Pyech
 Smalyany
-Smarhon
+Smarhoń
 Smedino
 Smedyna
 Smelyy
@@ -13209,7 +13195,7 @@ Smetanichi
 Smetanka
 Smil'gini
 Smil'ginis
-Smilavicy
+Smilavičy
 Smilgi
 Smirnov
 Smogilovka
@@ -13284,8 +13270,8 @@ Soboli
 Sobolki
 Sobolyany
 Sochenyaty
-Sochnevo
 Sochni
+Sochnëvo
 Sofiyevka
 Sofiyevo
 Sofiysk
@@ -13331,14 +13317,14 @@ Solonik
 Solonoye
 Solonskaya Korma
 Solopyatishki
-Solov'evka
 Solov'i
 Solov'ikha
 Solov'inaya
 Solov'ye
-Solov'yev
-Solov'yevka
-Solov'yevo
+Solov'yëv
+Solov'yëvka
+Solov'yëvo
+Solov'ëvka
 Solovey
 Soltanishki
 Soltanovka
@@ -13429,7 +13415,7 @@ Sporava
 Sporkovshchizna
 Spornoye
 Sporuny
-Sprimachev
+Sprimachëv
 Sprindy
 Sprugi
 Spyaglitsa
@@ -13475,9 +13461,7 @@ Stan'kovichi
 Stanchaki
 Stanchiki
 Stanchinenty
-Stancija Njasjata
 Stanelevichi
-Stanevo
 Stanislav
 Stanislavova
 Stanislavovo
@@ -13500,6 +13484,7 @@ Stany
 Stanyevichy
 Stanyuki
 Stanyushki
+Stanëvo
 Star'
 Starabarysaw
 Staradubavaya
@@ -13508,7 +13493,7 @@ Starasyellye
 Staravolya
 Staraya
 Staraya Aleshkovka
-Staraya Aleshnya
+Staraya Alëshnya
 Staraya Belitsa
 Staraya Boyarshchina
 Staraya Buda
@@ -13590,7 +13575,6 @@ Starodubovo
 Starodubtsy
 Starodvorishche
 Starodvortsy
-Staroe Pashkovo
 Starogantsevichskaya Sloboda
 Starokozhevka
 Starokrasnoye
@@ -13603,7 +13587,7 @@ Staroselje
 Starosely
 Starosiele
 Starovshchina
-Staroye Chernevo
+Staroye Chernëvo
 Staroye Gorodishche
 Staroye Grudinovo
 Staroye Khorobrovo
@@ -13749,7 +13733,6 @@ Stefanopol'
 Stefanova
 Stefanovo
 Stefanpol'ye
-Stekhovo
 Stenevichi
 Stenka
 Step'
@@ -13772,7 +13755,6 @@ Stetski
 Stetskovshchina
 Stezherenskiy
 Stezhernoye
-Stezhka
 Stigane
 Stilguny
 Stipiny
@@ -13897,12 +13879,8 @@ Stsenka
 Stsepenevo
 Stsyapanki
 Stsyudzyanyets
-Studenaya Guta
 Studenets
 Studenitsa
-Studenka
-Studenka Pervaya
-Studenki
 Studerovshchina
 Studyanka
 Studzenki
@@ -13910,7 +13888,11 @@ Studzieniec
 Studzyanka
 Studzyenki
 Studzyonka
-Stukachevka
+Studënaya Guta
+Studënka
+Studënka Pervaya
+Studënki
+Stukachëvka
 Stukaly
 Stukanki
 Stukany
@@ -13934,6 +13916,8 @@ Stymoni
 Styriki
 Stytychava
 Styudenets
+Stëkhovo
+Stëzhka
 Subaty
 Subbotovo
 Subboty
@@ -13959,7 +13943,7 @@ Suhaki
 Suhvazdy
 Sukach
 Sukachi
-Sukhachevo
+Sukhachëvo
 Sukharevichi-Bol'shiye
 Sukharevichi-Malyye
 Sukhari
@@ -14091,7 +14075,7 @@ Svetlyy Put'
 Svetoch
 Svetochevka
 Svetogorovo
-Svetozer'ye
+Svetozër'ye
 Svidera
 Svidershchina
 Svidichi
@@ -14104,9 +14088,9 @@ Svilko Vtoroye
 Svilo Pervoye
 Svilo Vtoroye
 Svily
-Svinevo
 Svinitsa
 Svinka
+Svinëvo
 Svir
 Svirani
 Svirany
@@ -14127,9 +14111,9 @@ Svirshchane
 Svirshchizna
 Sviryaki
 Svirydavichy
-Svishchevo
 Svishchi
 Svishchova
+Svishchëvo
 Svislach
 Svistelki
 Svistkovshchina
@@ -14156,7 +14140,7 @@ Svyatilovets
 Svyatitsa
 Svyatopolka
 Svyatoye
-Svyatozer'ye
+Svyatozër'ye
 Svyatsilavichy
 Svyatsitsa
 Svyatsk-Gurny
@@ -14190,16 +14174,16 @@ Syarhyeyevichy
 Syawki
 Sych
 Sychevichi
-Sychevka
-Sychevka Nisimkovichskaya
-Sychevka Rudnitskaya
-Sychevo
 Sychi
 Sychiki
 Sychin
 Sychkava
 Sychman
 Sychyki
+Sychëvka
+Sychëvka Nisimkovichskaya
+Sychëvka Rudnitskaya
+Sychëvo
 Syedcha
 Syedzyanyevichy
 Syelishcha
@@ -14241,6 +14225,8 @@ Szemetowszczyzna
 Sznitki
 Szulniki
 Szumieliszki Wielkie
+Sëmino
+Sëmki
 Tabachniki
 Tabol'skaya Budka
 Tabola
@@ -14255,7 +14241,7 @@ Tadulichi
 Tadulina
 Tadulino
 Takaryshki
-Taklevka
+Taklëvka
 Takovishche
 Takovshchina
 Tal'
@@ -14331,13 +14317,12 @@ Techki
 Tekalovshchina
 Tekhanichi
 Teklepole
-Teklevka
 Teklinov
+Teklëvka
 Tel'kovshchina
 Tel'man
 Tel'muki
 Tel'my Pyershyya
-Tel'my Vtorye
 Telekhi
 Telenteyevo
 Telepni
@@ -14356,14 +14341,11 @@ Telyatniki
 Telyatnikova
 Telyuki
 Temnoles'ye
-Temnyy Osov
-Temnyye
 Tenyugi
 Teolin
 Tepenets
 Teplen'koye
 Teplivody
-Teploye
 Teplukhi
 Teplyuki
 Teraspol'
@@ -14411,14 +14393,13 @@ Tesnovka
 Tesnovo
 Tesnovoye
 Tesny
-Tesovo
 Tesovskiye Khutora
 Tessa
 Tesy
 Tetcha
 Teterevnik
-Teterki
 Teteyki
+Tetërki
 Tewli
 Teyki
 Teykovichi
@@ -14474,9 +14455,9 @@ Tividovka
 Tivitskoye
 Tivnovichi
 Tizhishki
-Tkachevo
 Tkachi
 Tkachy
+Tkachëvo
 Tobolki
 Tochilishche
 Tochishche
@@ -14484,17 +14465,17 @@ Tofeli
 Tokarevshchina
 Tokari
 Tokarnya
-Tokorevo
+Tokorëvo
 Tolkachevichi Vtoryye
-Tolkachevo Pervoye
-Tolkachevo Vtoroye
-Tolkachevshchina
 Tolkachi
 Tolkachovshchyzna
+Tolkachëvo Pervoye
+Tolkachëvo Vtoroye
+Tolkachëvshchina
 Tolkany
 Tolkovo
 Tolkuny
-Tolmachevo
+Tolmachëvo
 Tolochin
 Tolochki
 Tolochkov
@@ -14523,7 +14504,7 @@ Tonovo
 Tonyezh
 Topkoye
 Topol'
-Topolevo
+Topolëvo
 Toporino
 Toporishche
 Toporki
@@ -14577,7 +14558,6 @@ Traychany
 Traygi
 Trebukhi
 Trebushki
-Trekhgrannyy Dub
 Tremlya
 Trepalovo
 Treski
@@ -14632,11 +14612,11 @@ Troyanovka
 Troyanovo
 Troyany
 Troytsa
-Trubenok
 Trubichino
 Trubil'nya
 Trubilino
 Trubyatino
+Trubënok
 Trud
 Trudnovo
 Trudovaya
@@ -14658,6 +14638,7 @@ Trusok
 Trusovichi
 Trygubtsy
 Trylyesina
+Trëkhgrannyy Dub
 Tsagel'noye
 Tsagel'nya
 Tsahyel'nya
@@ -14763,12 +14744,12 @@ Tukhinka
 Tul'govichi
 Tulanka
 Tulava
-Tulenka
 Tulichava
 Tulovo
 Tulovshchina
 Tulyatichi
 Tulyatin
+Tulënka
 Tumanovka
 Tumanovka Pervaya
 Tumarin
@@ -14790,8 +14771,6 @@ Tupichino
 Tupichino Pervoye
 Tupichino Vtoroye
 Tupiki
-Tur"ya
-Tur"ye
 Tur'ya
 Tur'yakovo
 Tur'yevo
@@ -14809,7 +14788,7 @@ Turgen'yevka
 Turinets
 Turino
 Turishchevichi
-Turishchevo
+Turishchëvo
 Turitsa
 Turkavshchina
 Turki
@@ -14836,6 +14815,8 @@ Tury
 Turyn
 Turzhets Pervyy
 Turzhets Vtoroy
+Tur”ya
+Tur”ye
 Tushemlya
 Tushevaya
 Tushevichi
@@ -14846,7 +14827,7 @@ Tuzhevlyany
 Tvarichevka
 Tver'yantsy
 Tverdovka
-Tverdovo
+Tvërdovo
 Tyabuty
 Tyaby
 Tyaloshi
@@ -14874,6 +14855,10 @@ Tyul'ki
 Tyul'pin
 Tyupishki
 Tyurli-Sakovskiye
+Tëmnyy Osov
+Tëmnyye
+Tëploye
+Tësovo
 Ubel'
 Ubertsy
 Ubibachki
@@ -14885,7 +14870,7 @@ Uborok
 Ubortskaya Rudnya
 Uboyno
 Ubranoye
-Udalevka
+Udalëvka
 Udarnaya
 Udarnik
 Udarnyy
@@ -15007,9 +14992,9 @@ Usterkhi
 Ustimle
 Ustinovichi
 Ustinovka
-Ustizer'ye
 Ustizerki
 Ustizh
+Ustizër'ye
 Ustran'
 Ustrin'-Borki
 Ustron'
@@ -15111,7 +15096,7 @@ Valovshchina
 Valozhyn
 Valozhynki
 Valyanchitsy
-Valyar"yany
+Valyar”yany
 Valyevachy
 Valyeykavichy
 Valyntsy
@@ -15171,9 +15156,6 @@ Vasil'kovo
 Vasil'pol'ye
 Vasil'yevka
 Vasilevichi
-Vasilevka
-Vasilevka Vtoraya
-Vasilevo
 Vasilevshchina
 Vasilevskiye
 Vasilinki
@@ -15181,6 +15163,9 @@ Vasiliny Pervyye
 Vasilishki
 Vasilyevichi
 Vasilyevichy
+Vasilëvka
+Vasilëvka Vtoraya
+Vasilëvo
 Vasnevo
 Vassaraby
 Vasyavichy
@@ -15328,7 +15313,6 @@ Verdashishki
 Verdomichi
 Verdy
 Verebevichi
-Verebki
 Verechegoshch
 Veredovo
 Veremeikha
@@ -15354,7 +15338,7 @@ Verkeyevshchina
 Verkhi
 Verkhles
 Verkhles'ye
-Verkhlevka
+Verkhlëvka
 Verkhnaya Svisloch'
 Verkhneye
 Verkhneye Aleksandrovo
@@ -15366,7 +15350,7 @@ Verkhniye Morozy
 Verkhniye Pogorany
 Verkhnyaya Kryvina
 Verkhnyaya Lida
-Verkhnyaya Vaverka
+Verkhnyaya Vavërka
 Verkhochen'ye
 Verkhov'ye
 Verkhovaya
@@ -15379,8 +15363,8 @@ Verkhust'ye
 Verki
 Verkovshchina
 Vernyy
-Verob'yevka
-Verob'yevo
+Verob'yëvka
+Verob'yëvo
 Verozhbity
 Versanka
 Vershok
@@ -15389,18 +15373,9 @@ Vertelishki
 Vertimy
 Vertinskiye
 Verusino
-Veselaya
-Veselaya Dubrava
+Verëbki
 Veselaya Zarya
-Veselki
-Veselovka
-Veselovo
-Veseloye
 Veselukha
-Veselyy
-Veselyy Kurgan
-Veselyy Pakhar'
-Veselyy Ugol
 Vesennyaya
 Veshevka
 Veshki
@@ -15412,9 +15387,18 @@ Vesnina
 Vesnino
 Vesnitsk
 Vesnitskiye
-Vesnovo
 Vesnyanka
 Vesolukha
+Vesëlaya
+Vesëlaya Dubrava
+Vesëlki
+Vesëlovka
+Vesëlovo
+Vesëloye
+Vesëlyy
+Vesëlyy Kurgan
+Vesëlyy Pakhar'
+Vesëlyy Ugol
 Vetakhmo
 Vetche
 Vetel'skaya
@@ -15517,10 +15501,7 @@ Vishenskiy
 Vishevka
 Vishevo
 Vishkovichi
-Vishnevaya
 Vishnevets
-Vishnevichi
-Vishnevka
 Vishnevo
 Vishnevtsy
 Vishni
@@ -15533,6 +15514,9 @@ Vishnyewka
 Vishnyovo
 Vishnyowka
 Vishnyuvka
+Vishnëvaya
+Vishnëvichi
+Vishnëvka
 Vishow
 Vishtoki
 Viskovshchina
@@ -15583,7 +15567,7 @@ Vol'berovichi
 Vol'cha Gora
 Vol'diki
 Vol'ka
-Vol'ka-Kazennaya
+Vol'ka-Kazënnaya
 Vol'kovshchina
 Vol'na
 Vol'nitsa
@@ -15682,10 +15666,10 @@ Vornawka
 Vornishki
 Vornovka
 Vorob'i
-Vorob'yevichi
-Vorob'yevo
 Vorob'yevo Nikol'sk
-Vorob'yevshchina
+Vorob'yëvichi
+Vorob'yëvo
+Vorob'yëvshchina
 Vorobeyki
 Vorod'kov Pervyy
 Vorod'kov Tretiy
@@ -15803,11 +15787,11 @@ Voznovshchina
 Vozovniki
 Vozrozhdeniye
 Vozyera
-Vrublevshchina
+Vrublëvshchina
 Vselyub
 Vsenezh'ye
 Vskhody
-Vtoraya Duzhevshchina
+Vtoraya Duzhëvshchina
 Vtoraya Pyatiletka
 Vtoraya Slobodka
 Vud'ka
@@ -15826,7 +15810,7 @@ Vustsye
 Vuts'
 Vuyvichi
 Vyacha
-Vyaderevo
+Vyaderëvo
 Vyado
 Vyale
 Vyalets
@@ -15892,7 +15876,7 @@ Vyalikiya Stralki
 Vyalikiya Stsyapanishki
 Vyalikiya Syalyutsichy
 Vyalikiya Vikaravichy
-Vyalikiya Vyerab"yevichy
+Vyalikiya Vyerab”yevichy
 Vyalikiya Yakawchytsy
 Vyalikiya Yodkavichy
 Vyalikiya Zhukhavichy
@@ -16048,6 +16032,7 @@ Vyzhlovichi
 Vyzorok
 Vyzvolen'ye
 Vzmost'ye
+Vësnovo
 Werebie
 Wielka Myssa
 Wielkie Bykoro
@@ -16345,7 +16330,6 @@ Yelazhichi
 Yelenets
 Yelenin Log
 Yelenka
-Yelenovka
 Yelenovo
 Yelenshchina
 Yeleshovka
@@ -16354,7 +16338,6 @@ Yelinskiy Bor
 Yelishevo
 Yelizarovichi
 Yelizavetino
-Yelki
 Yelovaya Gryada
 Yeloved
 Yelovets
@@ -16363,6 +16346,7 @@ Yelovka
 Yelovyy Grud
 Yeltsovka
 Yeluga
+Yelënovka
 Yemel'yanava
 Yemel'yaniki
 Yemel'yanov Most
@@ -16378,9 +16362,7 @@ Yeremeichi
 Yeremeyevichi
 Yeremeyevshchina
 Yeremiche
-Yeremino
 Yeremkovichi
-Yeremovka
 Yerkhi
 Yermaki
 Yermakovka
@@ -16395,11 +16377,13 @@ Yerokhi
 Yerokhovo
 Yeronenki
 Yeropol'ye
-Yeroshevka
 Yeroshovka
+Yeroshëvka
 Yershi
 Yerygino
 Yerzhishki
+Yerëmino
+Yerëmovka
 Yes'kova
 Yes'kovichi
 Yes'kovka
@@ -16428,7 +16412,6 @@ Yeynarovichi
 Yezapov
 Yezershchina
 Yezhawtsy
-Yezhiki
 Yezuvka
 Yezva
 Yezyaryshcha
@@ -16523,8 +16506,10 @@ Yuzikha
 Yuzofin
 Yuzufova
 Yuzulina
+Yëlki
+Yëzhiki
 Zaastravyechcha
-Zaazyer"ye
+Zaazyer”ye
 Zaazyor'ye
 Zaazyornaya
 Zabab'ye
@@ -16555,8 +16540,8 @@ Zaberez'ye
 Zaberezenets
 Zaberezhnitsa
 Zaberezino
-Zaberezovka
 Zabereztsy
+Zaberëzovka
 Zabichany
 Zabin'ye
 Zabiyaka
@@ -16576,7 +16561,6 @@ Zabolotnoye
 Zabolotnya
 Zabolots'
 Zabolotskoye
-Zabor"ye
 Zabor'ye
 Zaborniki
 Zabornyye Gumna
@@ -16589,6 +16573,7 @@ Zabortse
 Zabortsy
 Zabory
 Zaborze
+Zabor”ye
 Zaboyen'ye
 Zaboyen'ye Pervoye
 Zaboyen'ye Vtoroye
@@ -16875,7 +16860,6 @@ Zan'ki
 Zan'kovshchina
 Zanalyuchik
 Zanarach
-Zanemanets
 Zanemansk
 Zanetech'ye
 Zanevedomka
@@ -16891,16 +16875,17 @@ Zanovinskoye
 Zanoviny
 Zantsavichi
 Zanyuny
+Zanëmanets
 Zaobol'
 Zaol'sha
 Zaol'sha Pervaya
 Zaose
 Zaost'ye
 Zaostrov'ye
-Zaozer'ye
-Zaozernaya
 Zaozershchina
 Zaozertsy
+Zaozër'ye
+Zaozërnaya
 Zapadnyy
 Zapasen'ye
 Zapasishki
@@ -17005,14 +16990,14 @@ Zashchirino
 Zashchita
 Zashibin
 Zashlyash'ye
-Zashyr"ye
+Zashyr”ye
 Zasigovo
 Zasimy
 Zasinniki
 Zasintsy
 Zasitnitsa
 Zaskarki
-Zaskavicy
+Zaskavičy
 Zaskor'ye
 Zaslavki
 Zaslawye
@@ -17039,23 +17024,23 @@ Zastave
 Zasteb'ye
 Zastenki
 Zastennyy
-Zastenok
 Zastenok Dubrovo
 Zastenok-Bel'skiye
 Zastenok-Dubrova
 Zastenok-Rechnyye
-Zastenok-Skriplevo
+Zastenok-Skriplëvo
 Zastenok-Usterkhi
 Zastodol'ye
 Zastruzhe
 Zastsyenki
+Zastënok
 Zasullye
 Zasvir'
 Zasvyatitsa
 Zasvyatoye
 Zasyetstsye
 Zatemen'
-Zateterka
+Zatetërka
 Zatish'ye
 Zatitova Sloboda
 Zatoch'ye
@@ -17155,7 +17140,6 @@ Zaytseva Sloboda
 Zaytsevo
 Zaytsy
 Zazavodka
-Zazer'ye
 Zazeritsa
 Zazerka
 Zazezhe
@@ -17165,6 +17149,7 @@ Zazuber'ye
 Zazybenki
 Zazyby Pervyye
 Zazyby Vtoryye
+Zazër'ye
 Zbarovichi
 Zbarow
 Zbirogi
@@ -17187,43 +17172,43 @@ Zel'va
 Zel'vyanka
 Zel'zin
 Zelen'
-Zelen'kovo
-Zelenaya
-Zelenaya Dolina
 Zelenaya Dubrava
-Zelenaya Dubrova
-Zelenaya Gorka
-Zelenaya Khvoya
-Zelenaya Roshcha
-Zelenaya Run'
-Zelenaya Sloboda
 Zelenets
 Zelenitsa
-Zelenka
-Zelenki
 Zelenkovichi
 Zelenkovshchina
-Zelenochi
 Zelenovka
 Zeleny Dub
 Zeleny Prudok
-Zelenyy Bor
 Zelenyy Dub
-Zelenyy Gay
-Zelenyy Gorodok
-Zelenyy Klin
-Zelenyy Kryazh
-Zelenyy Kurgan
-Zelenyy Log
-Zelenyy Lug
-Zelenyy Luzhok
-Zelenyy Mokh
-Zelenyy Ostrov
 Zelenyy Sad
-Zelenyye Budy
-Zelenyye Luki
 Zelesyany
 Zelzyany
+Zelën'kovo
+Zelënaya
+Zelënaya Dolina
+Zelënaya Dubrova
+Zelënaya Gorka
+Zelënaya Khvoya
+Zelënaya Roshcha
+Zelënaya Run'
+Zelënaya Sloboda
+Zelënka
+Zelënki
+Zelënochi
+Zelënyy Bor
+Zelënyy Gay
+Zelënyy Gorodok
+Zelënyy Klin
+Zelënyy Kryazh
+Zelënyy Kurgan
+Zelënyy Log
+Zelënyy Lug
+Zelënyy Luzhok
+Zelënyy Mokh
+Zelënyy Ostrov
+Zelënyye Budy
+Zelënyye Luki
 Zemkovichi
 Zemkovo
 Zemledeliye
@@ -17290,7 +17275,7 @@ Zharkovshchina
 Zharna
 Zharnasyeki
 Zharneli
-Zharnevka
+Zharnëvka
 Zharskiye
 Zhartsy
 Zhary
@@ -17321,18 +17306,15 @@ Zheleznitsa
 Zheleznyaki
 Zhelezovshchina
 Zheligovo
-Zheltki
 Zheltovshchina
-Zheltyy Brod
 Zhelud'ye
-Zheludovo
 Zhelvinets
 Zhelyadzh
 Zhelyai
 Zhelyubchiki
 Zhemoydyaki
 Zhemoytuki
-Zheraspery
+Zheraspëry
 Zherdyanskiy
 Zherdz'
 Zherebtsy
@@ -17342,7 +17324,6 @@ Zherino
 Zherlaki
 Zhernelishki
 Zhernosekovo
-Zhernovka
 Zherstvyanka
 Zhestinoye
 Zhestyanka
@@ -17447,9 +17428,9 @@ Zhuravichy
 Zhuravinka
 Zhuravka
 Zhuravkovichi
-Zhuravlevka
-Zhuravlevo
 Zhuravli
+Zhuravlëvka
+Zhuravlëvo
 Zhuravnevo
 Zhuravno
 Zhuravok
@@ -17464,7 +17445,7 @@ Zhurovets Pervyy
 Zhurovets Vtoroy
 Zhurovka
 Zhurovy
-Zhurzhevo
+Zhurzhëvo
 Zhusiny
 Zhutino
 Zhuzhel'
@@ -17482,6 +17463,10 @@ Zhylin Brod
 Zhyrmuny
 Zhytkavichy
 Zhytnavichy
+Zhëltki
+Zhëltyy Brod
+Zhëludovo
+Zhërnovka
 Zimcha
 Zimirka
 Zimnik
@@ -17493,15 +17478,15 @@ Zimniy
 Zimodry
 Zimovaya Buda
 Zinevichi
-Zinevtsy
 Zinovichi
 Zinyaki
+Zinëvtsy
 Ziolovo
 Zles'ye
 Zlobawshchyna
 Zlomnoye
 Zloto
-Zmeyevka
+Zmeyëvka
 Zmitraki
 Zmitry
 Zmyayowtsy
@@ -17568,9 +17553,8 @@ Zui
 Zui Pervyye
 Zui Vtoryye
 Zulese
-Zuprany
 Zuy
-Zuyevka
+Zuyëvka
 Zval'nya
 Zvanoye
 Zvanyets
@@ -17615,3 +17599,19 @@ Zyli
 Zyminovtsy
 Zyuki
 Zyuzino
+Červień
+Šack
+Župrany
+Большие Мотыкалы
+Котельня-Боярская
+Николаевка-2
+Николаевка-3
+Октябрьский
+Подбельские Огородники
+Присно-2
+Радость
+Станция Нясята
+Старое Пашково
+Тельмы Вторые
+Франополь
+Черёмушки

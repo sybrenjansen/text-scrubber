@@ -1,64 +1,242 @@
-'Abu Dulu`
+'Abalānj
+'Abata
+'Abbās
+'Abbās 'Abd Allāh
+'Abbāsīyah
+'Abbūdah
+'Abd Aj Jalīl
+'Abd Al 'Azīz
+'Abd Al Faḑīl
+'Abd Al Khallāq
+'Abd Al Majid
+'Abd Al Malik
+'Abd Allāh
+'Abd Allāh 'Alī
+'Abd Allāh Bashīr
+'Abd Allāh Kaḩlī
+'Abd Allāh Nā'imah
+'Abd Ar Raḩmān
+'Abd ad Dā'im
+'Abd ad Dāyīm
+'Abd aj Jabbar
+'Abd al Banāt
+'Abd al Bāqi
+'Abd al Fāḑil
+'Abd al Ghaffār
+'Abd al Ghani
+'Abd al Karīm
+'Abd al Khayr
+'Abd al Mājid
+'Abd al Ḩāfiz̧
+'Abd an Nūr
+'Abd ar Rasūl
+'Abd ar Razzāq
+'Abd ar Raḩmān
+'Abd ar Raḩmān Subei
+'Abd ar Rāziq
+'Abd aş Şādiq
+'Abd el Farrag
+'Abd el Qadir
+'Abdūn
+'Abka East
+'Abka West
+'Abrī West
+'Abu 'Ambaj
+'Abu 'Ambaj Alkawāhla
 'Abu Namil
 'Abu Qamza
-'Abu `Ambaj
-'Abu `Ambaj Alkawahla
-'Abu al Lawlis
-'Abuna
-'Afanuri
+'Abu al Lawlīs
+'Abu Ḑulū'
+'Abīdīya
+'Abūna
+'Adal
+'Adar
+'Adar al Gufr
+'Adila
+'Adlān Godat
+'Afanūri
 'Afrush Tobak
+'Agab
 'Agal
-'Al 'Imtidad 'al 'Ahamda
-'Al 'Imtidad 'al Musa`dab
-'Ali Wad Mosa
+'Aj Jān
+'Ajab Allāh
+'Ajbān
+'Ajoba
+'Ajājah
+'Akod
+'Akāshah
+'Al 'Imtidād 'al 'Aḩāmda
+'Al 'Imtidād 'al Musā'dāb
+'Alam al Huda
+'Alamāra 'Abd ar Raḩīm
+'Ali Wad Mōsa
+'Ali Ḩiyya
+'Alālī
+'Alī
+'Amabah
 'Amar Gedid
-'Ar Rashid
+'Amar Jadīd
+'Amara East
+'Amara West
+'Amrīyah
+'Amāra Jaylāni
+'Amārah
+'Amārat 'Alī
+'Amārat 'Īsa
+'Amārat Abū Sinn
+'Amārat Sābūnī
+'Amārat al Khalīfah
+'Amārat an Nefeidiya
+'Amūd
+'Anqash
+'Aqab el Laban
+'Aqīq Kabīr
+'Aqūlah
+'Ar Rashīd
+'Arab Ḩājj
+'Aradeba
+'Aradeib
 'Aradeiba
+'Aradeiba Anjah
+'Aradāya
+'Arakīyīn
+'Arbaji
+'Arsh al Yoi
+'Arādīb
+'Arīd
+'Arīs
 'As Ubri
+'Asalah
 'Asuda
+'Asīr
+'Asūla
+'Ati
+'Atra
+'Attab East
+'Attab West
+'Awadat
+'Awaḑ Al 'Alim
+'Awaḑ Allāh
+'Awaḑīyah
 'Awget el Kheima
 'Awget el Muhhar
 'Awget el Rugeiligaya
 'Awget el'Gallaba
-'Awlad Shan
-'Awlad Sileman
-'Awlad `Isa ad Dallas
-'Awlad as Sa`id
-'Ibayyid Farraqat
-'Ibayyid Mahadi
-'Ibod
+'Awlād 'Īsa ad Dallās
+'Awlād Shan
+'Awlād Silemān
+'Awlād as Sa'īd
+'Awrah
+'Awāma
+'Ayn al Luwayqah
+'Aysh Barrah
+'Azāzah
+'Azīza
+'Aşīdah
+'Aţmūr
+'Aţshānah
+'Aḩmad
+'Eilai
+'En Aj Jamal
+'Ibayyiḑ Farraqat
+'Ibayyiḑ Mahadi
+'Ibek
+'Ibōd
+'Id Aghabāsh
+'Id Aj Jim
+'Id Al Ḩaj
+'Id Ash Shekh 'Ali
+'Id Um 'Ush
+'Id al Burām
+'Id at Timed
+'Idd Al Hijelja
+'Idd al 'Ūd
+'Idd al Ghanam
+'Idd al Guddeim
+'Idd al Khāla
+'Idd an Nabaq
+'Idd ed Dam
+'Idd el Halluf
+'Idd el Khirwi'
+'Idd es Semi
+'Ideda
 'Idin
+'Ifena
 'Ihemir
-Ab 'On
+'Iref Ad Dīk
+'Irek
+'Ireqāt
+'Isa Ḩasan
+'Iwewa
+'Iweḑa
+'Iyāl Amīn
+'Iyāl Bakhīt
+'Iyāl Basharo
+'Iyāl an Nājī
+'Iyāl an Nīl
+'Iyāl ash Shayn
+'Oda
+'Ojli
+'Radeba
+'Ubayd
+'Ubeidullah
+'Udayd
+'Udayrah
+'Ufaynah
+'Ujayjah
+'Ujaymī
+'Umar
+'Umarāb
+'Unaynah
+'Uqadāb
+'Uqūd as Sayyālah
+'Uraq al Karallāb
+'Uraq al Qala'ab
+'Urayqah
+'Urundi
+'Usaylī
+'Usbān
+'Ushara
+'Usharah
+'Uthmān 'Alī
+'Uthmān Faraḩ
+'Utqi aj Jabbārīn
+'Uwaynah
+'Uţaysh
+'Uţayshah
+'Ābidīn
+'Īd al Weka
+'Īdān
+'Īsá Ḩamadayn
+Ab 'Adāra
+Ab 'Ajāj
+Ab 'Uruf
+Ab 'Ōn
 Ab Ajaj
-Ab Bara
+Ab Bāra
 Ab Darish
 Ab Deinar
-Ab Disebi`
+Ab Disebi'
 Ab Gir
-Ab Hajar
-Ab Jarad
-Ab Ji`erin
+Ab Jarād
+Ab Ji'erin
 Ab Jireqimma
-Ab Laduma
+Ab Lādūma
 Ab Namel
-Ab Nayit
-Ab Nura
+Ab Nūra
 Ab Qarqur
-Ab Qawi Janub
+Ab Qawi Janūb
 Ab Qawy
-Ab Qawy al Marakib
+Ab Qawy al Marakīb
 Ab Qumri
-Ab Radom
-Ab Ramad
+Ab Ramād
+Ab Raḑom
 Ab Shambala
-Ab Surra
-Ab Suwar
-Ab Zur
-Ab `Adara
-Ab `Ajaj
-Ab `Uruf
-Ab`iref
+Ab Suwār
+Ab Zūr
+Ab Şurra
+Ab Ḩajar
+Ab'iref
 Aba Diqin
 Abag
 Abaka
@@ -68,14 +246,13 @@ Abatta
 Abauadala
 Abbakar
 Abbogol
-Abd as Salam
+Abd as Salām
 Abdia
 Abeikli
 Abeiya
 Abekr
 Abela
 Abguana
-Abi Karu
 Abota
 Aboti
 Abqar
@@ -83,102 +260,53 @@ Abrabi
 Abraq
 Abri
 Abu 'Ali
+Abu 'Arāyish
+Abu 'Awwa
+Abu 'Awwa al Qal'a
+Abu 'Aḑḑā
+Abu 'Ilela
+Abu 'Iref
+Abu 'Ush
+Abu 'Uḑām
 Abu Ammar
 Abu Andud
 Abu Ashab
-Abu Babun
-Abu Baras
-Abu Dabarah
-Abu Dangal
-Abu Daql
-Abu Darisah
 Abu Dawaya
-Abu Dawm
-Abu Dawmah
-Abu Dazzah
 Abu Deiyuta
 Abu Delelq
-Abu Dellum al A`ma
-Abu Dik
 Abu Diqin
-Abu Dis
-Abu Dulayq
-Abu Durays
-Abu Fatimah
 Abu Fatwa
-Abu Fawaghi
-Abu Funduq
-Abu Furu`
+Abu Furū'
 Abu Gabaya
-Abu Gamal
-Abu Gelba
-Abu Ghanim
-Abu Gheid
-Abu Ghunaywah
-Abu Gi`eirin
-Abu Gir
-Abu Giri
-Abu Gogi
+Abu Ghanīm
 Abu Gudul
 Abu Guja
 Abu Gurr
-Abu Hadid as Subhani
 Abu Hagar
-Abu Hajar
-Abu Halaqim
 Abu Halima
-Abu Hamad
-Abu Hamara
-Abu Hamirah
-Abu Hamra
-Abu Hamra Al Fadniyya
-Abu Hamra al Qoz
-Abu Hamra'
-Abu Har
-Abu Haraz
-Abu Haraz Gharb
-Abu Hashim
-Abu Hawwa
-Abu Hayama
-Abu Hibera
+Abu Hayāma
 Abu Hindi
-Abu Hirab
-Abu Horira
-Abu Hujar
-Abu Humayrah
 Abu Jabirah
 Abu Jalfa
-Abu Jallabiyah
-Abu Jayli
 Abu Jibba
 Abu Jibeha
-Abu Jidada
+Abu Jidāda
 Abu Jires
-Abu Jumayy
-Abu Juweli
-Abu Kabisa
+Abu Juwēlī
 Abu Karinka
 Abu Karish
 Abu Kebeida & El Kheiran
-Abu Kershola
-Abu Khadija
 Abu Khadimallata
-Abu Khamsin
+Abu Khadīja
 Abu Khanjar
 Abu Khoreis
 Abu Khsos
-Abu Khudeira
-Abu Kilab
+Abu Kilāb
 Abu Kortod
-Abu Ku`
-Abu Kuk
-Abu Kulaywat
-Abu Kutni
-Abu Lamis
+Abu Kūk
 Abu Leileiya
-Abu Liwayta
+Abu Liwayţa
 Abu Luk
-Abu Mareiqa al Haggar
 Abu Maryam
 Abu Matariq
 Abu Maugud
@@ -186,210 +314,254 @@ Abu Midya
 Abu Mina
 Abu Mirekha
 Abu Naeima
-Abu Ni`ama
+Abu Ni'āma
 Abu Niwer
 Abu Nuwara
 Abu Nuweira
-Abu Nyanya
-Abu Odham
-Abu Qa`b
-Abu Qandul
 Abu Qash
-Abu Qawi
-Abu Qudaf
-Abu Qulayhah
-Abu Qulut
 Abu Qumi
-Abu Qurayn
 Abu Qurein
 Abu Qurun
-Abu Qussah
-Abu Qussi
-Abu Qutah
-Abu Rabha
-Abu Rahmah
-Abu Rakhia
-Abu Ramad
-Abu Rameinak
-Abu Rawagh
-Abu Raydah
+Abu Ramād
+Abu Rawāgh
 Abu Riyala
-Abu Ruf
 Abu Rukba
-Abu Rukhayy
-Abu Rumaylah
 Abu Rumeil
-Abu Ruqaybah
 Abu Rus
 Abu Ruweshid
-Abu Sa`d
-Abu Sa`id
-Abu Sabib
 Abu Saffar
 Abu Salalah
 Abu Sari
-Abu Se`id
 Abu Seba
-Abu Shajar
-Abu Sham
-Abu Shama
-Abu Shamah
-Abu Shanab
-Abu Shandi
-Abu Shari`ah
-Abu Shatat
-Abu Shattah
-Abu Shawag
-Abu Shawk
 Abu Shibeka
 Abu Shineb
-Abu Shotal
+Abu Shotāl
 Abu Shugeira
-Abu Shuk
-Abu Shunaynah
-Abu Shutayr
-Abu Sifefa
-Abu Sikkin
+Abu Shāma
 Abu Sineqda
-Abu Sinun
-Abu Sufyan
-Abu Sunaytat
-Abu Suneina
 Abu Suq
 Abu Suqra
 Abu Surug
 Abu Sury
-Abu Suwayliq
-Abu Tabanu
-Abu Tagara
-Abu Talih
-Abu Tawala
-Abu Tileh
+Abu Sūwayliq
 Abu Tin
-Abu Tiqa
-Abu Tunaytin
-Abu Turay`ah
-Abu Umm Bashir
+Abu Tīqa
 Abu Umm Gagga
 Abu Witid
-Abu Zabad
-Abu Zaghuli
-Abu Zarad
-Abu Zarawi
-Abu Zayd
-Abu Zullayq
-Abu `Adda
-Abu `Agala
-Abu `Agub
-Abu `Ajurah
-Abu `Aqla
-Abu `Arayish
-Abu `Awja'
-Abu `Awwa
-Abu `Awwa al Qal`a
-Abu `Awwa'
-Abu `Ilela
-Abu `Iref
-Abu `Ud
-Abu `Udam
-Abu `Urf
-Abu `Uruq
-Abu `Urwah
-Abu `Usfur
-Abu `Ush
-Abu `Ushar
-Abu al Fahl
-Abu al Hasan
+Abu Zaghūli
 Abu el Khil
+Abu Ţaliḩ
+Abu Ţileḩ
+Abu Ḩamara
+Abu Ḩamra Al Fādniyya
+Abu Ḩamra al Qoz
+Abu Ḩaraz Gharb
+Abu Ḩawwa
+Abu Ḩujār
 Abugga
 Abun Gawia
 Abungoro
 Abus
 Abuser
-Abyad
-Abyadani
+Abyaḑ
+Abyaḑāni
 Abyei
+Abī Karu
+Abū 'Agala
+Abū 'Agub
+Abū 'Ajūrah
+Abū 'Aqla
+Abū 'Awjā'
+Abū 'Awwā'
+Abū 'Urf
+Abū 'Urwah
+Abū 'Urūq
+Abū 'Ushar
+Abū 'Uşfūr
+Abū 'Ūd
+Abū Baraş
+Abū Bābūn
+Abū Dangal
+Abū Daql
+Abū Darīsah
+Abū Dawm
+Abū Dawmah
+Abū Dazzah
+Abū Dellum al A'má
+Abū Dulayq
+Abū Durays
+Abū Dīk
+Abū Dīs
+Abū Fawaghi
+Abū Funduq
+Abū Fāţimah
+Abū Gamal
+Abū Gelba
+Abū Gheid
+Abū Ghunaywah
+Abū Gi'eirin
+Abū Gir
+Abū Giri
+Abū Gogi
+Abū Har
+Abū Hashim
+Abū Horira
+Abū Jallābīyah
+Abū Jaylī
+Abū Jumayy
+Abū Kabisa
+Abū Kershola
+Abū Khamsīn
+Abū Khudeira
+Abū Kulaywāt
+Abū Kutni
+Abū Kū'
+Abū Lamis
+Abū Mareiqa al Haggar
+Abū Nyanya
+Abū Odham
+Abū Qa'b
+Abū Qandūl
+Abū Qawī
+Abū Qudāf
+Abū Qulayḩah
+Abū Qulūt
+Abū Qurayn
+Abū Qussī
+Abū Quşşah
+Abū Qūţah
+Abū Rabha
+Abū Rakhia
+Abū Rameinak
+Abū Raydah
+Abū Raḩmah
+Abū Ruf
+Abū Rukhayy
+Abū Rumaylah
+Abū Ruqaybah
+Abū Sa'd
+Abū Sa'īd
+Abū Sabīb
+Abū Se'id
+Abū Shajar
+Abū Shanab
+Abū Shandī
+Abū Sharī'ah
+Abū Shatat
+Abū Shawag
+Abū Shawk
+Abū Shaţţah
+Abū Shunaynah
+Abū Shuţayr
+Abū Shām
+Abū Shāmah
+Abū Shūk
+Abū Sifēfa
+Abū Sikkīn
+Abū Sinun
+Abū Sufyān
+Abū Sunayţāt
+Abū Suneina
+Abū Tabanu
+Abū Tagara
+Abū Tawala
+Abū Turay'ah
+Abū Umm Bashīr
+Abū Zabad
+Abū Zarad
+Abū Zarawi
+Abū Zayd
+Abū Zullayq
+Abū al Faḩl
+Abū al Ḩasan
+Abū Ţunayţin
+Abū Ḑabārah
+Abū Ḩadīd as Subhani
+Abū Ḩajar
+Abū Ḩalāqīm
+Abū Ḩamad
+Abū Ḩamra
+Abū Ḩamrā'
+Abū Ḩamīrah
+Abū Ḩarāz
+Abū Ḩibera
+Abū Ḩirāb
+Abū Ḩumayrah
 Ad Daba
-Ad Dabadib
 Ad Dabba
 Ad Dabbah
-Ad Dabburah
+Ad Dabbūrah
 Ad Dabkar
 Ad Dabkir
-Ad Dadori
+Ad Dabādib
 Ad Dahhab
 Ad Dai
-Ad Dakhla
 Ad Dakka
-Ad Dali
 Ad Dam
 Ad Damra
 Ad Dandour
 Ad Danget
 Ad Danqu
-Ad Daqqaqah
+Ad Daqqāqah
 Ad Darabi
-Ad Daradir
-Ad Darawab
-Ad Daw
-Ad Dawhah
+Ad Darādir
 Ad Dawmah
 Ad Dawwab
-Ad Daya
+Ad Dawḩah
 Ad Daym
-Ad Dayra
 Ad Debeilu
 Ad Delatia
 Ad Dem
 Ad Dereis
 Ad Dibab
 Ad Dibeba
-Ad Dibeba `Abd Allah
+Ad Dibeba 'Abd Allah
 Ad Dibeba al Hiwe
 Ad Dibeda
-Ad Dibkaraya
+Ad Dibkarāya
 Ad Difena
 Ad Dighena
-Ad Diher
-Ad Diheshat
-Ad Dilebat
+Ad Dilebāt
 Ad Dindar
-Ad Dineqila
-Ad Diqayyab
+Ad Diqayyāb
 Ad Direra
-Ad Diresa
-Ad Diresab
-Ad Diresat
-Ad Disa
+Ad Diresāt
 Ad Diseis
-Ad Dishenat
-Ad Doha Fallata
-Ad Doha Qimaz
+Ad Dishenāt
+Ad Diḩeshāt
 Ad Doma
 Ad Douiem
+Ad Doḩa Fallāta
+Ad Doḩa Qimaz
 Ad Drout
 Ad Dubasi
 Ad Dubaybah
-Ad Dubaybat
+Ad Dubaybāt
 Ad Dubaykir
 Ad Dulayb
 Ad Dulaybah
 Ad Duqja
 Ad Duql
-Ad Dushaynab
+Ad Dushaynāb
 Ad Duwaym
 Ad Duwaymah
-Ad Duwenib
+Ad Duwenīb
+Ad Dādōri
+Ad Dākhla
+Ad Dāli
+Ad Dāya
+Ad Dāyra
+Ad Dīsa
+Ad Ḑarawāb
 Ad-Damazin
 Adaluta
-Adam Bawsh
 Adama Umm Qurein
 Adara
 Adarama
 Adariam
 Adassi
 Addabba
-Addibebat
+Addibēbāt
 Adi
 Adigi
 Adira
@@ -421,58 +593,47 @@ Agra
 Aguma
 Agumei
 Agurra
-Ahmad Abu Jayrah
-Ahmad Badw
-Ahmad Jabr
-Ahmad Wad al Wahidu
-Ahmad `Abd Allahi
-Ahmad al Faki Muhammad
-Ahmad al Mustafa
-Ahmad ash Shayn
-Ahmar
-Ahmar Muqi
-Ahmar `En
+Ahmar 'En
 Aiet
 Ailliet
+Aj 'Jimayyil
 Aj Gireif
 Aj Ja'far
-Aj Ja`fariyya
-Aj Jab Barin
+Aj Ja'fariyya
+Aj Jab Bārin
 Aj Jabal al 'Ahmar
 Aj Jabalen
 Aj Jabaliyya
-Aj Jabrab
-Aj Jada`
-Aj Jadida
-Aj Jafra Abu Hula
-Aj Jafra al Fuwarin
-Aj Jafra al Husunnat
+Aj Jabrāb
+Aj Jada'
+Aj Jadīda
+Aj Jafra Abu Hūla
+Aj Jafra al Fuwārīn
+Aj Jafra al Ḩusunnāt
 Aj Jaghoghab
-Aj Jak
-Aj Jalad
 Aj Jalaleib
-Aj Jallaba
-Aj Jamalon
-Aj Jammam
-Aj Jammu`iyya
-Aj Jamrab
-Aj Jamusiyya
+Aj Jallāba
+Aj Jalād
+Aj Jamalōn
+Aj Jammu'iyya
+Aj Jammām
 Aj Jarif
-Aj Jenqawi
-Aj Ji`eba
-Aj Jibelat
-Aj Jide`at
-Aj Jikhesat
+Aj Jenqāwi
+Aj Ji'eba
+Aj Jibelāt
+Aj Jide'at
+Aj Jikheşāt
 Aj Jimeliyya
 Aj Jined
-Aj Jined Al Bayyara
+Aj Jined Al Bayyāra
 Aj Jiroif Sharg
-Aj Joqan
-Aj Juzuli
-Aj `Jimayyil
-Ajba
+Aj Joqān
+Aj Juzūli
+Aj Jāk
+Aj Jāmrāb
+Aj Jāmūsiyya
 Ajjallaba
-Ajjihera
+Ajjiḩera
 Ajuwok
 Akafi
 Akara
@@ -480,323 +641,363 @@ Akheirleina
 Akhoshali
 Akilili
 Akkad
-Al 'Andaraba
-Al 'Andaraba al Hassaniyya
+Al 'Abbāsiyya
+Al 'Abbāsīyah
+Al 'Abdunnāb
+Al 'Abdīyah
+Al 'Abūdāb
+Al 'Afaşa
+Al 'Affaḍ
+Al 'Aifēn
+Al 'Akara
+Al 'Alaga
+Al 'Alaqa
+Al 'Alaqah
+Al 'Amara
+Al 'Amara Abyad
+Al 'Amarad
+Al 'Amāra 'Ali
+Al 'Amāra 'Ali 'Abdallah
+Al 'Amāra 'Awaḑ al Karīm
+Al 'Amāra Karamalla
+Al 'Amāra Kāsīr
+Al 'Amāra Wad Yūsif
+Al 'Amāra ad Dabāsin
+Al 'Amāra al Ḩāj
+Al 'Amāra Ţaha
+Al 'Amārah
+Al 'Amārīn
+Al 'Anḑarāba
+Al 'Anḑarāba al Ḩassāniyya
 Al 'Aradeiba
+Al 'Aradeiba Jazīrah
+Al 'Arakiyyīn
+Al 'Arashkol
+Al 'Arid
+Al 'Arqān
+Al 'Arshah
+Al 'Arā'ish
+Al 'Arīs
+Al 'Asha
+Al 'Atasha
+Al 'Atshān
+Al 'Atāmna
+Al 'Awadi
+Al 'Awayda
+Al 'Awayda 'Iweḑa
+Al 'Awayda 'Izezat
+Al 'Awāmra
+Al 'Awāţfa
+Al 'Ayn
+Al 'Ayyāţa
+Al 'Az Āza
+Al 'Azaza
+Al 'Azzāzi
+Al 'Azāza Al Ḩamra
+Al 'Azāzah
+Al 'Azāzāb
+Al 'Azāzāb an Nīl
+Al 'Aţash
+Al 'Aţrūn
+Al 'Aţāyā
+Al 'Ekūra
+Al 'Elafon
+Al 'Ibed Musa Wad Ḩāj
+Al 'Iddah
 Al 'Ided
+Al 'Ileqa
+Al 'Ileqa al 'Aṣalāb
+Al 'Imeriyya
+Al 'Iqeda
+Al 'Iqela
+Al 'Irebab
+Al 'Irefiyya
+Al 'Iselat
+Al 'Isher
+Al 'Iwesiyya
+Al 'Izeba
 Al 'Oda
-Al Abyad
+Al 'Omarab
+Al 'Ubayd
+Al 'Udayd
+Al 'Udaydāt
+Al 'Ufaynah
+Al 'Uk
+Al 'Ulayqah
+Al 'Umdah
+Al 'Uqda
+Al 'Uqdah
+Al 'Urayqāt
+Al 'Uryān
+Al 'Ushara
+Al 'Usharah
+Al 'Uwaysāb Ibrāhīm
+Al 'Uḑayyāt
+Al 'lleqa
+Al 'Ālim
+Al 'Āqir
+Al 'Ūd
+Al Abyaḑ
 Al Afna
 Al Agharr
-Al Ahamidah
-Al Ahmar
 Al Ait
-Al Akhdar
+Al Akhḑar
 Al Alyab
-Al Amin
-Al Arak
+Al Amīn
 Al Arki
+Al Arāk
 Al Awa
 Al Azhari
+Al Aḩmar
+Al Aḩāmidah
 Al Badri Dar Salim
-Al Bah
-Al Bakri
+Al Bakrī
 Al Ban Gaded
-Al Ban Jadid
 Al Banbonab
 Al Baniyya
-Al Banunab
+Al Banūnāb
 Al Baqer
 Al Baqer al Qidami
 Al Baqer al Wrrani
 Al Bar
-Al Baranku
-Al Baraqna
-Al Bardab
+Al Barankū
+Al Bardāb
 Al Barkali
-Al Barsa'
 Al Barta
+Al Barāqna
+Al Barşā'
 Al Basa
 Al Basabir
-Al Basatna
-Al Bashir 'Isma`il
-Al Bashir Ibrahim
-Al Bashiri
-Al Batahin
-Al Bayda'
-Al Bayyaha
+Al Bashīr 'Ismā'il
+Al Bashīr Ibrāhīm
+Al Bashīrī
+Al Basātna
+Al Bayyāḩa
+Al Bayḑā'
+Al Baţāḩīn
 Al Beniya
 Al Bi'r
 Al Bideriyya
-Al Billiyab
+Al Billiyāb
 Al Birekab
 Al Biri
 Al Birkah
-Al Biselab
 Al Bitera
 Al Biwenis
-Al Budayriyah
-Al Buhayr
+Al Bişelāb
+Al Budayrīyah
 Al Bukhas
 Al Buqayr
 Al Buram
-Al Buwaydah
-Al Buweda
+Al Buwayḑah
+Al Buweḑā
+Al Buḩayr
 Al Byeara
+Al Bān Jadīd
+Al Bāḩ
 Al Cardud
 Al Eiwad
 Al Elain
 Al Eseilat
-Al Fadila
-Al Fadliyyin
-Al Fadwa
 Al Faei
 Al Fahada
-Al Faiza
 Al Fak
-Al Faki Hamid
-Al Faki Hammad
-Al Faki `Abd al Mawla
-Al Faki al Khatim
-Al Faki al Mansur
+Al Faki 'Abd al Mawla
+Al Faki Hammād
+Al Faki al Manşūr
+Al Faki Ḩāmid
+Al Fakī al Khātim
 Al Fanadik
 Al Fangalu
 Al Fao
 Al Faqar
-Al Faqqusah
-Al Farajab
-Al Farraw
-Al Fashashawyah
-Al Fashir
-Al Faw
-Al Fawa Al `Ireqat
-Al Fawara
-Al Fawwara
-Al Fayd
-Al Fayj Hamadna Allah
+Al Faqqūşah
+Al Farajāb
+Al Farrāw
+Al Fashāshawyah
+Al Fawwāra
+Al Fawāra
+Al Fayj Ḩamadnā Allāh
+Al Fayḑ
 Al Fazaru
 Al Fazra
+Al Faḑliyyin
+Al Faḑwa
+Al Faḑīla
 Al Ferejab Rajab
-Al Fidel
 Al Fiqeda
-Al Fire`
+Al Fire'
 Al Firejab Al Bilela
 Al Firejab Al Khawalda
-Al Fituh
+Al Fitūḩ
+Al Fiḑel
 Al Fodab
 Al Fonj
-Al Fula
-Al Fulah
 Al Fungus
-Al Fuqara'
-Al Furay`
-Al Furay`ah
+Al Fuqarā'
+Al Furay'
+Al Furay'ah
+Al Fāiza
+Al Fāshir
+Al Fāw
+Al Fāwa Al 'Ireqāt
+Al Fūla
+Al Fūlah
 Al Gagad
 Al Galgala
 Al Gana
 Al Ganaet
-Al Ganaya
+Al Ganāyā
 Al Gara
-Al Garawid
 Al Gardoud
 Al Gardud
+Al Garāwid
 Al Gebir
 Al Geda
 Al Geddara
 Al Gedul
-Al Ghaba
-Al Ghabah
 Al Ghabsha
-Al Ghabsha Badin
-Al Ghabshan
-Al Ghannama
+Al Ghabsha Badīn
+Al Ghabshān
 Al Ghannomab
+Al Ghannāma
 Al Gharaq
 Al Ghassiba
-Al Ghawi Al `Aris
-Al Ghaya
-Al Ghazala
-Al Ghilah
-Al Ghinemat
-Al Ghubayshab
+Al Ghazāla
+Al Ghinemāt
+Al Ghubayshāb
 Al Ghurayb
 Al Ghuraybah
 Al Ghurayd
-Al Ghuwaytab
-Al Ghuwetab
+Al Ghuwaytāb
+Al Ghuwetāb
+Al Ghāba
+Al Ghābah
+Al Ghāwi Al 'Aris
+Al Ghāya
+Al Ghīlah
 Al Gilei Awlad Nafi
 Al Gilein
 Al Giref Gharb
-Al Giteb
+Al Giţēb
 Al Gowez
 Al Gulishan
-Al Gurra`a `Abd al Ghani
+Al Gurra'a 'Abd al Ghanī
 Al Guruna
 Al Gyuddul
-Al Habbaniyya
-Al Habil
+Al Habbāniyya
+Al Habīl
 Al Hadabah
 Al Hadra
-Al Hafayir
-Al Hafayir Hamad
-Al Hafira
-Al Hafira Shariq
-Al Hafirah
+Al Hafīra Shariq
 Al Hagagia
 Al Hageina
 Al Hageina as Suq
-Al Hajab
-Al Hajajab
-Al Hajalij
-Al Hajar
 Al Hajarraj
-Al Hajer
 Al Hajiz
-Al Hajj
-Al Hajj Rabih
 Al Hakamab West
-Al Halawa
-Al Halawab
-Al Halawiyyin
-Al Halimab
 Al Hamaj
 Al Hamari
-Al Hamdab
-Al Hamdunab
+Al Hamdūnāb
 Al Hamerib
-Al Hammadab
-Al Hammadiyah
-Al Hamra Al Qoz
-Al Hamra'
-Al Hamrat
 Al Haraniyya
-Al Haraz
-Al Harraniyya
-Al Hasabaya
 Al Hasaheisa
-Al Hasan `Abd al Qadir
 Al Hasanab
-Al Hasha'im
-Al Hashab
-Al Hashaba
-Al Hasoya
+Al Hashāb
 Al Hassaniya
-Al Hattab
-Al Hawamda Al Hireziyya
-Al Hawatah
 Al Haybah
 Al Hebeika
 Al Hejeir
 Al Heleiba
 Al Hibeka
-Al Hidayyib
 Al Hideba
 Al Hijelij
-Al Hijelija
-Al Hijerat
-Al Hijlija
-Al Hilaliyya
-Al Hilela
-Al Hillah
-Al Himedaniyya
-Al Hireziyya
-Al Hireziyya Abu Al Qasim
-Al Hisen
-Al Hisenab
-Al Hisheshab
-Al Hiwewa
+Al Hijelīja
+Al Hijlīja
+Al Hilāliyya
+Al Hirēziyya Abu Al Qāsim
 Al Ho
 Al Hoi
-Al Hosh
 Al Huda
-Al Hudayb
-Al Hudayd
 Al Hulaylah
-Al Humara Al Hawsa
-Al Humr
-Al Humur Jubara
-Al Hununab
-Al Huqnah
-Al Husayn
+Al Hunūnāb
+Al Huḑayb
 Al Ibnoia
-Al Imam
 Al Imtidad Jaqawa
 Al Imtidad Tama
+Al Imām
 Al Jabalon
 Al Jaded Khalet
-Al Jamamiyah
-Al Jaza'ir
-Al Jazirah
+Al Jamāmīyah
+Al Jazā'ir
+Al Jazīrah
 Al Jimeliyya
 Al Jimera
-Al Jubaylat
-Al Jubayliyah
+Al Jubaylāt
+Al Jubaylīyah
 Al Jubayn
 Al Jufayrah
 Al Jummayzah
 Al Junaynah
-Al Jundi
+Al Jundī
 Al Jurayf
 Al Juzayrah
-Al Kababish
 Al Kabur
-Al Kadu
+Al Kabābīsh
+Al Kadū
 Al Kalagi
 Al Kalakla
 Al Kamlin
-Al Kanisah
+Al Kanīsah
 Al Karabah
-Al Karanik
 Al Karnak
-Al Kashamir
+Al Karānik
+Al Kashāmir
 Al Katib
 Al Kawa
-Al Kawahla
+Al Kawāhla
 Al Kaylah
 Al Khandaq
 Al Khanfariyya
-Al Kharaba Balla
-Al Kharaba Qarrash
 Al Khartah
+Al Kharāba Balla
+Al Kharāba Qarrāsh
 Al Khatmiyya Gharb
 Al Khawr
 Al Khayra
-Al Khazzan
+Al Khazzān
 Al Kherat
-Al Khidera
 Al Khirerisha
-Al Khirwi `Aj Jadida
-Al Khirwi `Al Qadima
+Al Khirwi 'Aj Jadida
+Al Khirwi 'Al Qadima
 Al Khishem
-Al Khulab
+Al Khiḑera
 Al Khulaywah
-Al Khuwetab
+Al Khuwetāb
+Al Khūlāb
 Al Kiber
-Al Kibeshab
+Al Kibeshāb
 Al Kidewa
 Al Kijera
 Al Kimer
-Al Kimer Fazari
-Al Kimer Ja`aliyym
-Al Kir
+Al Kimer Fazāri
+Al Kimer Ja'aliyym
 Al Kireba
 Al Kireda
 Al Kireida
-Al Kiremit al `Arakiyyin
-Al Kiremtat
-Al Kireteib
+Al Kiremit al 'Arakiyyīn
+Al Kiremtāt
+Al Kireteīb
 Al Kiter
 Al Kiter Balla
-Al Kiter Mubarak
-Al Kiter al `Awamra
-Al Kiter as Salhab
-Al Kiwek
+Al Kiter Mubārak
+Al Kiter al 'Awāmra
+Al Kiter aṣ Ṣālḩāb
+Al Kiwēk
 Al Kodab
 Al Koin
 Al Kont
 Al Koro
-Al Ku
-Al Ku`
 Al Kuduk
 Al Kufta
 Al Kujra
@@ -804,113 +1005,113 @@ Al Kumun
 Al Kumur
 Al Kumur Balla
 Al Kunayzah
-Al Kunuz
-Al Kur
-Al Kura`
+Al Kunūz
 Al Kuraynik
 Al Kurnuk
-Al Kurnuk Muhammad `Isa
+Al Kurnuk Muḩammad 'Īsá
 Al Kurrah
 Al Kurtale
 Al Kurumusia
+Al Kurā'
 Al Kutayr
-Al La`ota
-Al La`uta
+Al Kīr
+Al Kū
+Al Kū'
+Al Kūr
+Al La'ota
+Al La'ūta
 Al Lagowa
 Al Lahamba aj Jam Onab
-Al Lahamda
 Al Lakandi
 Al Lamab
-Al Layyuna
-Al Libayyid
+Al Layyūna
+Al Laḩāmda
+Al Libayyiḑ
 Al Lid
 Al Lighera
-Al Limema
 Al Liwebda
 Al Lubeik
 Al Lukh Kha
 Al Luweisah
-Al Madina
-Al Madina `Arab
-Al Madina aj Jami`iyya
-Al Mafazah
-Al Mafri
+Al Līmema
+Al Madina aj Jāmi'iyya
+Al Madīna
+Al Madīna 'Arab
+Al Mafrī
+Al Mafāzah
 Al Mahadia
 Al Mahalabi
 Al Mahas Kutranj
 Al Mahas Tayba
-Al Mahi
-Al Majabi
-Al Majanin
-Al Majmu`a
-Al Mak Ilyas
-Al Mak Muhammad
-Al Makhada
-Al Makhalif
+Al Majmū'a
+Al Majābi
+Al Majānīn
+Al Mak Ilyās
+Al Mak Muḩammad
+Al Makhāda
+Al Makhālīf
 Al Malamm
-Al Malih
-Al Malihah
-Al Mamsukah
-Al Manaqil
+Al Malīḩ
+Al Mamsūkah
 Al Manara
-Al Manarah
-Al Manasir
-Al Manasirah
-Al Mandakab
+Al Mandakāb
 Al Manofali
 Al Manshaqa
 Al Manshiya
-Al Mansura
-Al Mansurab
-Al Mantiqa
+Al Mansūra
 Al Manwra
+Al Manāqil
+Al Manārah
+Al Manāşirah
+Al Manāşīr
+Al Manşūrāb
+Al Manţiqa
 Al Maqarba
-Al Maqarin
 Al Maqarr
+Al Maqārin
 Al Marwa
-Al Marwahah
-Al Masa`id
+Al Marwaḩah
 Al Masallamiyya
-Al Masara`a
+Al Masara'a
 Al Mased
 Al Mashaba
-Al Maslaha
+Al Masā'īd
 Al Matabir
-Al Matar
 Al Matawrad
 Al Matnah
 Al Mawata
-Al May`a
-Al Mazmum
-Al Mazrub
-Al Me`eliq
+Al May'a
+Al Mazmūm
+Al Mazrūb
+Al Maşlaḩa
+Al Maţār
+Al Me'eliq
 Al Meja
 Al Mes
 Al Messin
-Al Mi'ejna 'Ali Khojali
-Al Mi'ejna Ali Khojali
-Al Mi`ejina Ali Mustafa
+Al Mi'ejina Ali Muşţafa
+Al Mi'ejna 'Ali Khōjali
+Al Mi'ejna Ali Khōjali
 Al Miallug
-Al Miheriba
 Al Mijegha
 Al Mijgha
 Al Mijlad
-Al Mikhekhit
+Al Mikhekhīt
 Al Mikherif
-Al Mikheta
-Al Mileh
-Al Milh
-Al Minedrib
+Al Mikheţa
+Al Mileḩ
+Al Milḩ
+Al Minedrīb
 Al Miqenis
-Al Mirebi`a
+Al Mirebī'a
 Al Mirekh
 Al Mirewa
-Al Mitemra
-Al Moreb
+Al Miţemra
+Al Miḩerība
 Al Moreb North
 Al Moreb West
 Al Msodiya
-Al Mu`ayliq
+Al Mu'ayliq
 Al Mudah
 Al Muheina
 Al Mukefi
@@ -919,193 +1120,151 @@ Al Muraykhah
 Al Muraykib
 Al Murra
 Al Murrah
-Al Musallamiyah
+Al Musallamīyah
 Al Musein
-Al Muwelih
+Al Muweliḩ
+Al Māhī
+Al Māliḩah
+Al Mōrēb
 Al Oddaiya
-Al Qa`ah
 Al Qabr
-Al Qadad
 Al Qadarif
-Al Qafalat
-Al Qal`a
-Al Qal`ah
-Al Qala`a Jamal ad Din
+Al Qadād
+Al Qafalāt
+Al Qal'a
+Al Qal'ah
+Al Qala'a Jamāl ad Dīn
 Al Qalabis
-Al Qall`a Ash Shekh Awad Assid
-Al Qana`a
-Al Qanabil
-Al Qarabin
-Al Qarajab
-Al Qardod
+Al Qall'a Ash Shekh Awaḑ Assīd
+Al Qanā'a
+Al Qanābīl
+Al Qarajāb
 Al Qardood
 Al Qardoud
-Al Qardud
-Al Qarrasa al Gharbiyya
-Al Qarrasa ash Sharqiyya
+Al Qardōd
+Al Qardūd
+Al Qarrāsa al Gharbiyya
+Al Qarrāsa ash Sharqiyya
+Al Qarābīn
 Al Qawa
 Al Qawl
 Al Qawz
 Al Qeqam
-Al Qidedim
-Al Qidedima ad Danaqla
-Al Qidedima as Suq
 Al Qidresh
 Al Qifel
 Al Qifela
 Al Qile
-Al Qile`
-Al Qile`a
-Al Qilliz
+Al Qile'
+Al Qile'a
+Al Qillīz
 Al Qirawa
-Al Qireqrib
-Al Qitena
-Al Qitena 'Arashkol
+Al Qireqrīb
 Al Qiwez
-Al Qiwez Abu al Hasan
+Al Qiwez Abu al Ḩasan
+Al Qiţena
+Al Qiţena 'Arashkōl
+Al Qiḑeḑīm
+Al Qiḑeḑīma ad Danāqla
+Al Qiḑeḑīma as Suq
 Al Qlabat al Hassanab
 Al Qowez
-Al Qoz
-Al Qoz Haj Yusif
+Al Qoz Ḩaj Yusif
 Al Qubbah
 Al Qudayr
-Al Qulay`ah
-Al Qulayd Bahri
-Al Qulayd Qibli
-Al Qulitiyya
+Al Qulay'ah
+Al Qulayd Baḩrī
+Al Qulayd Qiblī
+Al Quliţiyya
 Al Qumriyya
-Al Qura
-Al Quradat
 Al Qurayr
 Al Quresh
-Al Qusayyirah
-Al Quwaysi
+Al Qurá
+Al Qurādāt
+Al Quwaysī
 Al Quwayz
-Al Quwayzat
-Al Quwez
-Al Quwezat
+Al Quwayzāt
+Al Quwezāt
 Al Quwwir
+Al Quwēz
+Al Quşayyirah
+Al Qā'ah
+Al Qōz
 Al Roseires
 Al Rumailah
-Al Taif
 Al Tamaniyet
 Al Tawalab
-Al Tuwylab
-Al Udayyah
-Al Udayyat
 Al Ughaylif
-Al Uhaymirat
 Al Urus
-Al Usayfir
-Al Ushara
 Al Uzayriq
-Al Wadi
-Al Wadi Aj Jadid
-Al Waha
+Al Uşayfir
+Al Uḑayyah
+Al Uḑayyāt
+Al Uḩaymirāt
 Al Wala
 Al Wali
-Al Wali al Hajar
-Al Warrad
+Al Wali al Ḩajar
 Al Warral
-Al Warraq
-Al Watawit
-Al Wusa`
-Al Zariba
-Al `Abbasiyah
-Al `Abbasiyya
-Al `Abdiyah
-Al `Abdunnab
-Al `Abudab
-Al `Afasa
-Al `Affad
-Al `Aifen
-Al `Akara
-Al `Alaga
-Al `Alaqa
-Al `Alaqah
-Al `Alim
-Al `Amara
-Al `Amara Abyad
-Al `Amara Karamalla
-Al `Amara Kasir
-Al `Amara Taha
-Al `Amara Wad Yusif
-Al `Amara `Ali
-Al `Amara `Ali `Abdallah
-Al `Amara `Awad al Karim
-Al `Amara ad Dabasin
-Al `Amara al Haj
-Al `Amarad
-Al `Amarah
-Al `Amarin
-Al `Aqir
-Al `Ara'ish
-Al `Aradeiba Jazirah
-Al `Arakiyyin
-Al `Arashkol
-Al `Arid
-Al `Aris
-Al `Arqan
-Al `Arshah
-Al `Asha
-Al `Atamna
-Al `Atash
-Al `Atasha
-Al `Ataya
-Al `Atrun
-Al `Atshan
-Al `Awadi
-Al `Awamra
-Al `Awatfa
-Al `Awayda
-Al `Awayda `Iweda
-Al `Awayda `Izezat
-Al `Ayn
-Al `Ayyata
-Al `Az Aza
-Al `Azaza
-Al `Azaza Al Hamra
-Al `Azazab
-Al `Azazab an Nil
-Al `Azazah
-Al `Azzazi
-Al `Ekura
-Al `Elafon
-Al `Ibed Musa Wad Haj
-Al `Iddah
-Al `Ided
-Al `Ileqa
-Al `Ileqa al `Asalab
-Al `Imeriyya
-Al `Iqeda
-Al `Iqela
-Al `Irebab
-Al `Irefiyya
-Al `Iselat
-Al `Isher
-Al `Iwesiyya
-Al `Izeba
-Al `Omarab
-Al `Ubayd
-Al `Ud
-Al `Udayd
-Al `Udaydat
-Al `Udayyat
-Al `Ufaynah
-Al `Uk
-Al `Ulayqah
-Al `Umdah
-Al `Uqda
-Al `Uqdah
-Al `Urayqat
-Al `Uryan
-Al `Ushara
-Al `Usharah
-Al `Uwaysab Ibrahim
-Al `lleqa
-Al`al Aqaya
-Al`ireki
-Ala`awaj
+Al Warrād
+Al Warrāq
+Al Waţāwīţ
+Al Wusā'
+Al Wādi Aj Jadīd
+Al Wādī
+Al Wāḩa
+Al Zarība
+Al Ţuwylāb
+Al Ūshara
+Al Ḩafāyir
+Al Ḩafāyir Ḩamad
+Al Ḩafīra
+Al Ḩafīrah
+Al Ḩajar
+Al Ḩajer
+Al Ḩajāb
+Al Ḩajājāb
+Al Ḩajālīj
+Al Ḩalawiyyīn
+Al Ḩalawāb
+Al Ḩalāwa
+Al Ḩalīmāb
+Al Ḩamdāb
+Al Ḩammādāb
+Al Ḩammādīyah
+Al Ḩamra Al Qoz
+Al Ḩamrā'
+Al Ḩamrāt
+Al Ḩarrāniyya
+Al Ḩarāz
+Al Ḩasan 'Abd al Qādir
+Al Ḩashā'im
+Al Ḩashāba
+Al Ḩawāmda Al Ḩirēziyya
+Al Ḩawātah
+Al Ḩaşoya
+Al Ḩaţţāb
+Al Ḩaṣabāya
+Al Ḩidayyib
+Al Ḩijerāt
+Al Ḩilela
+Al Ḩillah
+Al Ḩimedaniyya
+Al Ḩireziyya
+Al Ḩisen
+Al Ḩisenab
+Al Ḩisheshab
+Al Ḩiwewa
+Al Ḩosh
+Al Ḩudayd
+Al Ḩumara Al Ḩawsa
+Al Ḩumr
+Al Ḩumur Jubara
+Al Ḩuqnah
+Al Ḩusayn
+Al Ḩājj
+Al Ḩājj Rābiḩ
+Al'al Aqāya
+Al'ireki
+Ala'awaj
 Alaga
 Alandu
 Albelawi al Kubra
@@ -1113,14 +1272,14 @@ Alfire
 Alghulfan
 Aliab East
 Aliba Taringa
-Alka `Aka
+Alka 'Aka
 Alkurgul
-All Qall`a Ash Shekh Awad Assid
-Alla Karim
-Alla `Awaj
-Alla `Uta
-Alla`ota
-Alla`uta
+All Qall'a Ash Shekh Awaḑ Assīd
+Alla 'Awaj
+Alla 'Ūta
+Alla Karīm
+Alla'ota
+Alla'uta
 Allamaraga
 Alleira
 Alleira Allaro
@@ -1128,12 +1287,11 @@ Alleira Elmuna
 Alleira Kuta
 Alleira Lauti
 Allobar
-Alma`azza
-Almasuban
+Alma'azza
+Almaşuban
 Alona
 Alti
 Amaki Sara
-Aman Alla
 Amar Djedid
 Amar Gedid
 Amaretta
@@ -1141,7 +1299,7 @@ Amasa
 Ambabi
 Ambara
 Ambikol West
-Ambikul
+Ambikūl
 Ambireika
 Amentego
 Amergu
@@ -1152,48 +1310,49 @@ Amora
 Amtashah
 Amugu
 Amurdello
-An Dassena
-An Na`im
-An Nabalat
+Amān Alla
+An Dassēna
+An Na'īm
+An Nabalāt
 An Nadyana
 An Nafab
 An Nagada
 An Nair
 An Naiya
-An Naji
-An Nala
-An Naqqal
+An Naqqāl
 An Nasr
-An Nasrab
-An Nayra
 An Nazir
-An Ni`ma
+An Naşrāb
+An Ni'ma
 An Nifediyya
-An Nil
-An Nila
-An Nilab
 An Niliyya
 An Nimer
-An Niqe`ab
+An Niqe'āb
 An Niqer
-An Nisf
-An Nitera
+An Niterā
 An Niwela
 An Nizayha
-An Norab
-An Nuhud
+An Nişf
+An Norāb
+An Nuhūd
 An Numayr
-An Nuqay`ah
+An Nuqay'ah
 An Nuqta
-An Nur
-An Nur Musa
 An Nuzul
+An Nājī
+An Nāla
+An Nāyra
+An Nīl
+An Nīla
+An Nīlab
+An Nūr
+An Nūr Mūsá
 Anabir
 Andaboka
-Andara
 Andeiri
 Andona
 Andur
+Andārā
 Angash
 Angerri
 Anguri
@@ -1206,54 +1365,54 @@ Anuba
 Aqadi
 Aqif Ragil
 Aqitay
-Aqra`
+Aqra'
 Ar Kaweit Salawa
 Ar Kawit
-Ar Rabi`
+Ar Rabī'
 Ar Raddah
-Ar Radi
-Ar Radis
-Ar Radma
+Ar Radīs
 Ar Raffa
 Ar Ragal
-Ar Raghla Hammad
+Ar Raghla Ḩammad
 Ar Rahad
-Ar Rahad aj Jammal
-Ar Rahalab
-Ar Rahamab
-Ar Rahmaniyah
+Ar Rahad aj Jammāl
+Ar Rahalāb
 Ar Rakha
 Ar Ramla
 Ar Raraba
-Ar Rashidi
-Ar Rawashidah
-Ar Rawda
+Ar Rashīdi
 Ar Rawjal
-Ar Rayhana Itnen
-Ar Rayhana Wahid
-Ar Rihedat
+Ar Rawāshidah
+Ar Rawḑa
+Ar Rayḩana Itnen
+Ar Rayḩana Waḩid
+Ar Raḑma
+Ar Raḩamāb
+Ar Raḩmānīyah
+Ar Rihedāt
 Ar Riheiwa
 Ar Rijela
-Ar Rijela As Suq
-Ar Rijela Kabbashi
+Ar Rijela As Sūq
+Ar Rijela Kabbāshi
 Ar Rimela
-Ar Rimetab
+Ar Rimetāb
 Ar Rimta
 Ar Riqeba
 Ar Riqeba Sharq
 Ar Rissai
-Ar Riyad
-Ar Ru'us
-Ar Ru`at
-Ar Rubshan
-Ar Ruf
-Ar Rufa`iyyin
+Ar Riyād
+Ar Ru'āt
+Ar Ru'ūs
+Ar Rubshān
+Ar Rufa'iyyīn
 Ar Ruhayd
 Ar Rukab
-Ar Rukeb
 Ar Rumaylah
 Ar Ruseris
 Ar Rwyanh
+Ar Rāḑi
+Ar Rūf
+Ar Rūkeb
 Arabnarti
 Aradeba
 Aradebay
@@ -1266,8 +1425,8 @@ Aramabah
 Aramba
 Aramta
 Arara
-Arba`a Wa`ishrin al Qurashi
-Arba`ata `Ashar Al Marqaba
+Arba'a Wa'ishrin al Qurashi
+Arba'ata 'Ashar Al Marqaba
 Arbodi
 Ard Ash Shef
 Ardeiba
@@ -1283,237 +1442,197 @@ Arid
 Ariel
 Arijo
 Arit
-Arkawit
+Arkawīt
 Arkez
 Armankul
 Aroma
 Aroua
-Arqud Fayiq
+Arqud Fāyiq
 Arriqeba
-Arruqab
+Arruqāb
 Artala
 Artali
 Artimeili
 Artoli
 Arugo
 Arwala
-As Sa`ada
-As Sa`adab
-As Sa`ata
-As Sabunabi
+As Sa'ada
+As Sa'adab
+As Sa'ata
 As Saddah
-As Safa
-As Safiyah
-As Sahabaya
 As Sahal
 As Salama
 As Salamat
-As Salim
-As Samhat
-As Samra'
+As Salīm
+As Samrā'
+As Samḩāt
 As Sanafa
-As Sani
 As Saniyya
-As Saqr
-As Sarahinah
-As Sarha
-As Sarhaya
-As Sarofab
-As Sarraf
-As Sarrarah
-As Sawajir
-As Sayyal
-As Sayyal Ad Dakhakhin
-As Sayyal Fatir
-As Sayyala
+As Sarāḩinah
+As Sarōfāb
+As Sarḩa
+As Sarḩāya
+As Sawajīr
+As Sayyal Faţir
+As Sayyāl
+As Sayyāl Ad Dakhakhin
+As Sayyāla
 As Senaga
 As Senuda
 As Sereha
-As Siberab
-As Siddiq
+As Siberāb
 As Sidera
 As Sidera Ash Sharqiya
 As Sidera al Ghrbiya
-As Sidrat
+As Sidrāt
 As Siemer
-As Siferaya
 As Sihai
 As Silek
-As Sinet
-As Sinet Ash Shiqelab
-As Sinetab
-As Sinetaya
-As Sinnab
-As Siqay`a
-As Siqerab
+As Sineţ
+As Sineţāya
+As Sinnāb
+As Siqerāb
 As Siqeta
-As Siraj
-As Sirajiyya
 As Siref
 As Sirefa
-As Sireha
-As Sirehat
 As Sirew
-As Sirur
+As Sireḩa
+As Sireḩāt
+As Sirāj
+As Sirājiyya
+As Sirūr
 As Siteb
 As Siwelik
 As Soriba
-As Sqeta
-As Su`ayf
-As Su`ayfah
-As Subabi
-As Subagh
-As Sufayyah
+As Sqeţa
+As Su'ayf
+As Su'ayfah
 As Sufr
-As Suki
 As Sulayk
 As Sulemi
-As Sultan
+As Sulţān
 As Sumayn
 As Sura
-As Suwar
 As Suweigat
+As Suwār
+As Sānī
+As Sūkī
 Asangdali
 Ash Lawiyya
-Ash Sha`lab
-Ash Shahatub
+Ash Sha'lab
 Ash Shajara
-Ash Shal Shala al Madrasa
-Ash Shal Shala al Qubba
-Ash Shallal
+Ash Shal Shāla al Madrasa
+Ash Shal Shāla al Qubba
+Ash Shallāl
 Ash Shana
-Ash Shanabla
+Ash Shanābla
 Ash Shaq
 Ash Shaqq
 Ash Sharafa
-Ash Sharafa Al Bahar
-Ash Sharafa Al Foq
+Ash Sharafa Al Baḩar
+Ash Sharafa Al Fōq
 Ash Sharef Mukhtar
-Ash Sharifiyya
-Ash Sharit
 Ash Sharmah
-Ash Shatawi
-Ash Shawa
-Ash Shawafa
+Ash Sharīfiyya
+Ash Sharīţ
 Ash Shawaia
 Ash Shawal
-Ash Shawrab
-Ash Shawwaf
-Ash Shawwafa
-Ash Shawwafa al Lahamda
-Ash Shaykh Hajju
-Ash Shaykh Talhah
+Ash Shawrāb
+Ash Shawwāf
+Ash Shawwāfa al Laḩamda
+Ash Shawāfa
 Ash Shaykh al Hasin
+Ash Shaykh Ţalḩah
+Ash Shaykh Ḩājjū
 Ash Shayqab
 Ash Shayqiyya
-Ash Sheikh al Imam
+Ash Shaḩaţūb
+Ash Sheikh al Imām
 Ash Shekab
 Ash Shekh
-Ash Shekh Al Basir
-Ash Shekh Al Mahi
-Ash Shekh Hisen
-Ash Shekh Musa
-Ash Shekh as Sidiq
+Ash Shekh Al Başīr
+Ash Shekh Al Māhi
+Ash Shekh Mūsa
+Ash Shekh Ḩisen
 Ash Shewen
 Ash Sheyaliya
 Ash Shigil
 Ash Shigri
-Ash Shihet
-Ash Shikeniba
+Ash Shikenība
 Ash Shiker
-Ash Shikera Al Hilewab
-Ash Shilekh al Mustafa
+Ash Shikera Al Ḩilewab
+Ash Shilekh al Muşţafa
 Ash Shilekha
 Ash Shiqeyyab
 Ash Shiqlah
 Ash Shirek
-Ash Shiteb
 Ash Shiyab
+Ash Shiţeb
+Ash Shiḩeţ
 Ash Shoona
 Ash Shubrab
-Ash Shuhaytah
-Ash Shukri al `Aqaliyyin
+Ash Shukri al 'Aqaliyyin
 Ash Shukriyya
-Ash Shur
 Ash Shurayk
 Ash Shurrak
-Ash Shush
 Ash Shuwayb
+Ash Shuḩayţah
+Ash Shātāwi
+Ash Shāwa
+Ash Shāwwāfa
+Ash Shēkh as Sidīq
+Ash Shūr
+Ash Shūsh
 Ashabalu
 Ashkeit
 Ashkeit S.
-Ashraf
+Ashrāf
 Ashshekh at Tijani
 Ashshiqla
-Ashshiteta
+Ashshiţeţa
 Ashshuweliyya
 Ashshuwerif
 Asilantir
 Asma
 Assaraf Al Lakhadar
-Assufi
+Assūfi
 Asuburi
 At Tab
-At Tabah
 At Tabaldiyya
-At Tahamid
-At Tahra
 At Takala
-At Takala Awlad Ahmad
-At Takala Haj Qurashi
-At Takala Hamad
-At Takala Jubara
+At Takala Awlād Aḩmad
+At Takala Jubāra
+At Takala Ḩamad
+At Takala Ḩāj Qurashi
 At Talab
-At Talbab
-At Talha
 At Taqalab
-At Tarajma
-At Tarfayah
-At Tarya
+At Tarājma
 At Tawa
-At Tawfiqiyya
-At Tawil
+At Tawfīqiyya
 At Tawm
-At Tawm Halal
-At Tayif
+At Tawm Ḩalāl
 At Tays
-At Tayyarah
-At Tayyib Ahmad
+At Taḩāmīd
 At Tekeina
 At Thawra
-At Ti`emab
 At Tibna
-At Tibun
+At Tibūn
 At Tikena
-At Tileh
-At Tileh az Ziber
-At Tileha
 At Tileih
-At Tilesh al Qiresh
-At Tilesh al `Asha
 At Timet
-At Tin
-At Tiqe
-At Tirenqi`
 At Tirera
-At Tiwelih
 At Toman
-At Tomat
+At Tomāt
 At Tonsa
 At Tuhma
 At Tukul
-At Tulayb
-At Tulayh
-At Tumat
-At Tumat Wad az Zin
-At Tumsah
-At Tunduba
-At Tur`ah
-At Turfa
-At Turush
-At Tuwayr
-At Tuwayshah
+At Tumsāh
+At Tumāt
+At Tumāt Wad az Zin
+At Tur'ah
 At Tuweifra
+At Tīn
+At Ţunduba
 Atbara
 Ateina
 Ath Thawra
@@ -1522,7 +1641,7 @@ Ath Thumayd
 Atmur
 Atongour
 Attib
-Attomat
+Attōmāt
 Atur
 Audi
 Auro
@@ -1530,63 +1649,114 @@ Awaiat
 Awaida
 Awaj Addareb
 Awita
-Awlad Ghanam
-Awlad Immam
-Awlad Mahmud
-Awlad Qaru
-Awlad Raqaba
-Awlad Sileman
-Awlad Yasin
-Awlad Yosif
 Awlad al Bushra
-Awlad al Hamdi
 Awlaq esh Shekh Babikir
+Awlād Ghanam
+Awlād Immām
+Awlād Maḩmūd
+Awlād Qāru
+Awlād Raqaba
+Awlād Silemān
+Awlād Yāsīn
+Awlād Yōsif
+Awlād al Ḩamdi
 Ayad
 Ayak Umm Rukuba
 Aylei
 Ayyal ed Daash
 Az Raq
 Az Zamalyab
-Az Zananda Fadl as Sid
+Az Zananda Faḑl as Sīd
 Az Zananda Jubara
 Az Zanqour
 Az Zawarat
-Az Zawya
-Az Zayyadiyah
-Az Zedab
-Az Zi`ef
-Az Zi`ef Sibeq
-Az Zi`ef al 'Ahamda
-Az Zi`efiyya
-Az Ziberat
-Az Zihur
-Az Zumah
+Az Zayyādīyah
+Az Zedāb
+Az Zi'ef
+Az Zi'ef Sibeq
+Az Zi'ef al 'Ahāmda
+Az Zi'efiyya
+Az Ziberāt
+Az Zihūr
 Az Zumul
-Az Zunqaha
-Az Zurayqa'
+Az Zunqāḩa
+Az Zurayqā'
 Az Zuwayrah
-Azhaf
+Az Zāwya
+Az Zūmah
 Azraq
 Azwa
-Azzitet Assaghira
-Ba Bikr Hamzah
-Ba`ashim
-Ba`shum
+Az̧z̧iteţ Aşşaghīra
+Azḩaf
+Aş Şafa
+Aş Şaqr
+Aş Şarraf
+Aş Şarrārah
+Aş Şiddīq
+Aş Şiferaya
+Aş Şinet Ash Shiqelab
+Aş Şiqay'a
+Aş Şubābī
+Aş Şubāgh
+Aş Şufayyah
+Aş Şābūnābi
+Aş Şāfiyah
+Aţ Ţahra
+Aţ Ţalḩa
+Aţ Ţarfāyah
+Aţ Ţawīl
+Aţ Ţayif
+Aţ Ţayyib Aḩmad
+Aţ Ţayyārah
+Aţ Ţi'emāb
+Aţ Ţilesh al 'Asha
+Aţ Ţilesh al Qiresh
+Aţ Ţileḩ
+Aţ Ţileḩ az Ziber
+Aţ Ţileḩa
+Aţ Ţiqe
+Aţ Ţirenqī'
+Aţ Ţiweliḩ
+Aţ Ţulayb
+Aţ Ţulayḩ
+Aţ Ţurfa
+Aţ Ţurush
+Aţ Ţuwayr
+Aţ Ţuwayshah
+Aţ Ţābah
+Aţ Ţālbāb
+Aţ Ţārya
+Aḑ Ḑaw
+Aḑ Ḑiher
+Aḑ Ḑineqīla
+Aḑ Ḑiresa
+Aḑ Ḑiresāb
+Aḩmad 'Abd Allāhī
+Aḩmad Abū Jayrah
+Aḩmad Badw
+Aḩmad Jabr
+Aḩmad Wad al Wāḩidū
+Aḩmad al Fakī Muḩammad
+Aḩmad al Muşţafa
+Aḩmad ash Shayn
+Aḩmar
+Aḩmar Mūqi
+Aṣ Ṣahabāya
+Aṣ Ṣineţāb
+Ba'shūm
+Ba'āshīm
 Baa
 Baabai
 Baba
 Babanousa
-Babanusa
-Babanusah
+Babanūsah
 Babarros
 Babel
 Baberi
-Babikir
-Babikri
 Babinga
 Babunus
 Badawi
-Baddal
+Baddāl
 Badi
 Badiab
 Bados
@@ -1601,31 +1771,28 @@ Baggarda
 Baghabur
 Bagirma
 Bagras
-Baha' ad Din
-Bahr Al 'Ilom
-Bahr Umm Surein
+Bahā' ad Din
 Bain Gedid
 Baitamaru
 Bajuggi
 Bakabul
-Bakhit
-Bakht ar Ruda
+Bakht ar Ruḑā
+Bakhīt
 Bakkah
 Bakra
-Bal`ar
+Bal'ar
 Balanj
 Baldanga
 Balla
 Balla Furash
 Ballah
 Ballala
-Ballali
+Ballāli
 Balmut
 Balos
 Balula
-Balulah
-Baluma
-Ban
+Balūlah
+Balūma
 Ban Jadid
 Bana
 Banagelada
@@ -1636,29 +1803,26 @@ Bandadito
 Bandarbi
 Bandighew
 Banganarti
-Bani Muhammad
-Baniyyat ash Shekh Musa Aba Qussa
+Baniyyat ash Shekh Mūsa Aba Quşşa
 Bannaqa
 Banzaqa
-Baqadi
-Baqari
+Banī Muḩammad
 Baqbaqah
-Baqbaqi
-Baqetu
-Baqis
+Baqbaqī
 Baqiya
+Baqādī
+Baqāri
+Baqīs
 Bara
-Barah
 Barak ath Thawr
 Barakah
 Barakat
-Barakin
-Barakiyah
+Barakīyah
 Barankawa
 Baraya
 Barazna
-Barbari
-Barbit
+Barbarī
+Barbīţ
 Bardani
 Bardei
 Barfa
@@ -1672,43 +1836,40 @@ Baro
 Barodi
 Barqa
 Barqu
-Barqu ar Rammash
+Barqū ar Rammāsh
 Barra
 Barsa
-Barsi
-Barsi al Fadl
-Barud
 Barum Barum
+Barākīn
+Barşī
+Barşī al Faḑl
 Basabir
-Basha
-Basham
-Bashamah
 Bashaqra Gharb
 Bashaqra Sharq
-Bashayir Izeriq
-Bashayir Suleman
-Bashir
-Bashir Maqbul
-Bashkar
+Bashām
+Bashāmah
+Bashāyir Izeriq
+Bashāyir Sulemān
+Bashīr
+Bashīr Maqbūl
 Basi
-Basis
 Baslan
 Basunda
 Bata
-Batran
-Baw
+Batrān
 Bawadala
-Bayda
-Bayda'
 Baylah
-Bayt Haraz
-Bayt al Marfa`in
+Bayt al Marfa'in
+Bayt Ḩarāz
 Bayud
-Bayyarat al Marwa
-Bayyudah
+Bayyārat al Marwa
+Bayyūḑah
+Bayḑā
+Bayḑā'
+Baḩr Al 'Ilōm
+Baḩr Umm Surein
 Bear El Shakh
-Bebnis
-Beda
+Bebnīs
 Beida
 Beidugga
 Beiga
@@ -1727,7 +1888,7 @@ Berber
 Berdei
 Bergeig
 Bergi
-Beriab al Hujayr
+Beriab al Ḩujayr
 Beringal
 Beringil
 Berkala
@@ -1738,18 +1899,19 @@ Berta
 Betbetti
 Betro
 Beyot Mustafa Abd al Gadir
+Beḑa
 Bi'r Shalatayn
-Bi'r Sindi
-Bi'r al Hasa
+Bi'r Sindī
+Bi'r al Ḩaşá
 Biberto
 Bic
 Bigga
 Biheil
-Bijawi
+Bijāwi
 Bikori
-Bilalah
-Billa`o
+Billa'o
 Billiyya
+Bilālah
 Bimarrah
 Bimbi
 Bint Ghabat
@@ -1760,30 +1922,27 @@ Bint el Kelb
 Bir Abu Saleh
 Bir Daqiq
 Bir Gedid
-Bir Madani
-Bir el `As
+Bir el 'As
 Birak
 Bireigo
 Bireikat Babullah
 Birerab
 Birganga
 Birgid
-Biri
 Birish Malyan
 Birkah
 Birkat Jarrah
-Birkat Khadra'
+Birkat Khaḑrā'
 Birkat Saira
-Birkat Tayr
+Birkat Ţayr
 Birkatulli
 Birkiyya
 Birsa
 Birtu
 Bisgweti
-Bishan
 Bishandi
 Block 47
-Bobnis
+Bobnīs
 Bobuk
 Bodurnungorei
 Bombori
@@ -1791,27 +1950,23 @@ Bordein
 Borida
 Botai
 Boteh
-Bu`bel
+Bu'bel
 Bubi
 Budaynah
 Buddu
 Bugr
 Bugra
 Bugus
-Buhayr
-Buju
 Bulbul
 Buldanga
 Buldidini
 Bulgar
 Bulgumeil
 Bullinarti
-Buly
 Bumbil
 Bumbodi
-Buna
 Bundas
-Bunduq as Sa`d
+Bunduq as Sa'd
 Bungati
 Bungbung
 Buniyu
@@ -1823,10 +1978,10 @@ Burangana
 Buraykah
 Burayr
 Buraysh
-Burbur
+Burbūr
 Burei
 Buretta
-Burghul
+Burghūl
 Buronga
 Burri Al Drayssah
 Burri Al Lamab
@@ -1839,18 +1994,37 @@ Burush
 Burusini
 Busatab
 Bushara Abukr
-Bushariyya
-Busi
+Bushāriyya
 But
 Buta
 Butaba
-Butah
-Buten
 Butri
 Butry
-Buwaydah
-Buwayhah
-Buzi
+Buwayḑah
+Buwayḩah
+Buţen
+Buḩayr
+Bā Bikr Ḩamzah
+Bābanūsa
+Bābikir
+Bābikri
+Bān
+Bāqetu
+Bārah
+Bārūd
+Bāshkār
+Bāshā
+Bāw
+Bāşīş
+Bīr Madani
+Bīri
+Bīshān
+Būjū
+Būly
+Būna
+Būsi
+Būtah
+Būzi
 Carthago
 Chado
 Chagat
@@ -1867,53 +2041,47 @@ Chourak
 Chref
 Conry
 D'lbis
-Da'ud
 Daballa
 Dabanga
-Dabat Al Qara`
+Dabat Al Qara'
 Dabbaghat
 Dabbah
-Dabbat Al 'Ajoz
-Dabbat An Nayra
+Dabbat 'Ubayd
+Dabbat Al 'Ajōz
+Dabbat An Nāyra
 Dabbat Majaq
-Dabbat `Ubayd
 Dabbat al Bukhas
-Dabbat al Fukh Khar
-Dabbat at Tar
+Dabbat al Fukh Khār
+Dabbat at Tār
 Dabdob
 Dabinga
 Dabra
-Dabre
 Dadei
 Dadi
-Dafa` Allah
-Daffaq
-Dafuri
+Dafa' Allah
+Daffāq
 Dagalos
 Dagarti
 Dagash
-Daghfali
+Daghfalī
 Daghur
 Dagma
 Dago
-Dahalob
-Dahar Jihena
 Dahasira
 Dakadim
 Dakkar
 Dalawat
-Dalawat Al Qoz
-Daldaku
+Dalawat Al Qōz
+Daldakū
 Daldi
-Daldimaya
+Daldimāya
 Daleba
 Daleiba
 Dali
-Daliyah
 Dallami
 Dallas
 Dalqa
-Dalqu
+Dalqū
 Dam Gamad
 Damaguto
 Damargi
@@ -1926,8 +2094,7 @@ Dameiso
 Dami
 Damir Shekh Basher
 Damira at Tom
-Damukiyah
-Danaqilah
+Damūkīyah
 Danga
 Dangai
 Dangeil
@@ -1935,40 +2102,20 @@ Dango
 Dangolobei
 Dankoj
 Dankud
-Dankuj ash Shluk
+Dankūj ash Shluk
+Danāqilah
 Daqdaq
-Daqqaq
-Dar Aqil
-Dar As Salam
-Dar Bashir
-Dar Bayda'
+Daqqāq
 Dar Chemola
-Dar Gaboja
-Dar Hammad
-Dar Jum`ah
-Dar Kadreis
 Dar Mali
-Dar Muqam
-Dar Musa
-Dar Nayil
-Dar Shawish
-Dar Wad Rawaj
-Dar Zubi
-Dar `Abd al Ghani
-Dar `Agabna
-Dar `Aqil
-Dar aj Jam
-Dar al Bakhitah
-Dar al Mazid
-Dar al `Awada
+Dar Muqām
+Dar Nāyīl
+Dar Wad Rawāj
+Dar al Māzīd
 Dar as Salam
 Dar as Salam Algharbiyya
 Dar as Salam ash Sharqiyya
-Dar as Surur
-Dara
-Dara`ab
 Daraba
-Darafisah
 Dardaqa
 Dardiq
 Dardog
@@ -1977,19 +2124,21 @@ Dari Kakay
 Darlo
 Darmali
 Darsa
+Darā'āb
+Darāfisah
 Dauro
 Dawab
 Dawmah
-Dawmayah
+Dawmāyah
 Dawrah
-Dawwa
 Daym Bakr
 Daym Qarad
-Daym Takarin
-Daym al Khalifah
+Daym Takārin
+Daym al Khalīfah
 Dayrah
-Dayyanah
+Dayyānah
 Dazingor
+Daḩalob
 Debeira
 Deberto
 Debtod
@@ -2004,7 +2153,7 @@ Degheim Fargi
 Deheir
 Deim
 Deim Karari
-Deim esh Shab`anab
+Deim esh Shab'anab
 Deimbo
 Deira
 Deirirro
@@ -2018,14 +2167,12 @@ Deringil
 Derjeil
 Dermar
 Deroti
-Derudeb
 Deywa
 Dhahabah
-Dibagha
 Dibbub
 Dibekir
 Dibs
-Didan `Abbas
+Dibāgha
 Didim
 Didima
 Difa
@@ -2034,12 +2181,11 @@ Digiru
 Dign'o
 Digri
 Digu
-Dilay
 Dilco
 Dilling
 Dilu
+Dilāy
 Dimasoya
-Din
 Dinder
 Dinga
 Dingajuri
@@ -2049,12 +2195,9 @@ Direita
 Diri
 Dirrah
 Dirrar
-Dirwish
-Dis
-Disah
+Dirwīsh
 Disang
 Dito
-Diwewa
 Diyeir
 Doba
 Dodo
@@ -2068,7 +2211,7 @@ Dolum
 Dom Basin
 Domi
 Dongola
-Dontay
+Dontāy
 Doteit
 Dubarid
 Dubasiyin
@@ -2105,17 +2248,17 @@ Dumbaro
 Dumbusa
 Dumei
 Dumta
-Dumur al `Umda Kuku
+Dumur al 'Umda Kuku
 Dunayqilah
 Dungo
-Dungunab
+Dungunāb
 Dunkis
 Dunkuj
-Dunqulah al Qadimah
+Dunqulah al Qadīmah
 Dunya
 Duqol
 Duraysah
-Durayshab
+Durayshāb
 Durbwara
 Durdir
 Durgala
@@ -2125,18 +2268,45 @@ Durinhur
 Durmei
 Duro
 Duroti
-Durraba
 Durri
+Durrāba
 Dursa
 Durti
 Durundur
 Dus
-Duwabin
 Duwaynah
 Duwayr
 Duweishat East
 Duweishat West
 Dwo
+Dā'ūd
+Dābrē
+Dāfūri
+Dāliyah
+Dār 'Abd al Ghanī
+Dār 'Agabna
+Dār 'Aqīl
+Dār As Salām
+Dār Bashīr
+Dār Bayḑā'
+Dār Gaboja
+Dār Jum'ah
+Dār Kadreis
+Dār Mūsá
+Dār Shāwīsh
+Dār Zubi
+Dār aj Jam
+Dār al 'Awada
+Dār al Bakhītah
+Dār as Surūr
+Dār Āqil
+Dār Ḩammād
+Dārā
+Dērudēb
+Dīdān 'Abbās
+Dīn
+Dīs
+Dīsah
 Ebbei
 Ed Damer
 Ed Danaqla
@@ -2168,8 +2338,16 @@ Eish Bara
 Eishbarra
 Ej Jayli
 Ej Jikeka
+El 'Abdotab
 El 'Adara
-El A`lyab
+El 'Amaren
+El 'Aqedab
+El 'Azozab
+El 'Egula
+El 'Iwedab
+El 'Kad
+El 'Urdi
+El A'lyab
 El Aburu
 El Ahmar
 El Angeilo
@@ -2208,14 +2386,14 @@ El Fil
 El Fireqab
 El Foqara
 El Fula
-El Gaa`fra
+El Gaa'fra
 El Gabarna
 El Gabrab
 El Geneina Fort
 El Geref
 El Ghadoora
 El Gibrab
-El Gimei`abi
+El Gimei'abi
 El Ginefab
 El Giref
 El Gobarab Foq
@@ -2295,7 +2473,7 @@ El Murr
 El Murraya
 El Mutmar
 El Obeid
-El Qal`a
+El Qal'a
 El Qardud
 El Qaryat
 El Qezan
@@ -2318,14 +2496,6 @@ El Wi'er
 El Wuz
 El Yoi
 El Zedab
-El `Abdotab
-El `Amaren
-El `Aqedab
-El `Azozab
-El `Egula
-El `Iwedab
-El `Kad
-El `Urdi
 Elga
 Elqoz
 Emiherif
@@ -2348,7 +2518,7 @@ Erigi
 Ermil Post
 Erruk
 Ertidi
-Es Sa`duna
+Es Sa'duna
 Es Saiyal
 Es Salam
 Es Salama
@@ -2374,44 +2544,41 @@ Et Tikkawin
 Et Tomid
 Et Tukeilat
 Ettleh
-Fa`fa`
+Fa'fa'
 Fabegu
 Fabirso
 Fabundo
 Fadal
-Fadasi Al `Amrab
-Fadasi al Hilemab
 Fadhullah
 Fadl
-Fadl as Sid
-Fadliyah
 Fadlullah Gibril
 Fadniya
 Fado
 Fadwa
+Fadāsi Al 'Amrab
+Fadāsi al Ḩilemab
 Fag al Qash
 Fagagh
 Fagarila
 Faguri
-Fahl
 Faiyu
 Faiyuk
-Fajj al Hallah
-Fakarin
+Fajj al Ḩallah
 Fakheig
-Faki Bashir
-Faki Hashim
-Faki Hud
-Faki Ibrahim
-Faki Jad Allah
-Faki Musa
-Faki Mustafa
-Faki Sadiq
-Faki Uzayriq
-Faki `Abd ar Rahman
-Faki `Ali
-Fakkarin
+Fakkārīn
 Fakrinkotti
+Fakārīn
+Fakī 'Abd ar Raḩmān
+Fakī 'Alī
+Fakī Bashīr
+Fakī Hāshim
+Fakī Hūd
+Fakī Ibrāhīm
+Fakī Jād Allāh
+Fakī Muşţafá
+Fakī Mūsá
+Fakī Uzayriq
+Fakī Şādiq
 Falabut
 Falakta
 Falankei
@@ -2426,19 +2593,18 @@ Fangu
 Fantaga
 Fanyer
 Fanziger
-Faqa
-Faqidi
-Far` al Habil
+Faqīdī
+Far' al Habīl
 Farag
 Faragamindo as Sahal
-Farah
 Farahein
-Faraj Allah
-Faraj Allah Abu Kura`
-Farajab
+Faraj Allāh
+Faraj Allāh Abū Kurā'
+Farajāb
 Faraksika
 Faras East
 Faras West
+Faraḩ
 Farei
 Fareig
 Fareq Essooq
@@ -2446,61 +2612,58 @@ Fareq Wad el Baqarv
 Fareq Wilad Balol
 Fareq el Hawaweit
 Farida
-Farig A`kkor
+Farig A'kkor
 Farig Ahmed Wad Soleiman
 Farig Alyas Wad Hassan
 Farig Haj as Sideig
 Farig Hamad Wad Al Lasad
 Farig Hasab Alla Wad Soleiman
 Farig Ibrahim Al Mustafa
-Farig Muhammad Wad `Ajeib
+Farig Muhammad Wad 'Ajeib
 Farig Mustafa Wad Muhammad
 Farig Sileiman an Nil
-Farig Wlad Al `Oshary
+Farig Wlad Al 'Oshary
 Farig Wlad Ali Wad Salih
-Farig Wlad Daloa`
+Farig Wlad Daloa'
 Farig Wlad Hessein
 Farig Wlad Khalid Wad Ibrahim
-Farig Wlad al lamin Wad al `Ajab
+Farig Wlad al lamin Wad al 'Ajab
 Farig al Ajab Wad Ali
 Farig al Garahab
-Farig as Sora `Awadab
+Farig as Sora 'Awadab
 Fariq
-Fariq al Fadul
-Faris Al Kitab
 Farkat
 Farla
 Faroga
 Farraqat
 Farshah
-Fas al Karanik
-Fash Shar
+Farīq al Fadul
+Fash Shār
 Fashga
 Fashishoya
 Fassa
-Fassay
-Fassaya
+Fassāy
+Fassāya
 Fatah el Bab
 Fatala
 Fatara
-Fatatat
-Fatha Aj Ja`aliyyn
-Fatha Al `Ushshab
 Fatshwa
-Fattis
-Faw
 Fawaida Ghereirat
 Fawar
 Fawat al Lidaya
-Fawayda
+Fawāyda
 Fayah
-Fayd at Tayr
 Fayu
 Fayu al Rawyan
+Fayḑ aţ Ţayr
 Fazarykerkery
 Fazi
-Fazughli
-Fed Annabag
+Faş al Karānik
+Faţāţāt
+Faţţis
+Faḑl as Sīd
+Faḑlīyah
+Faḩl
 Feina
 Fennisa
 Fergi
@@ -2509,13 +2672,13 @@ Ferka East
 Ferka West
 Ferkany
 Fertak
-Fetes
 Fetti Feiti
+Feţes
 Fiabuggu
 Fiaxa
 Fidi
 Figenga
-Fikhekhir
+Fikhekhīr
 Fingyar
 Firo
 Fitnah
@@ -2530,11 +2693,10 @@ Forda
 Forei
 Foro Burunga
 Fufi
-Fugara
+Fugarā
 Fugora
 Fundu
 Funi
-Fuq
 Fura
 Furaboder
 Furayk
@@ -2546,7 +2708,15 @@ Futajiggi
 Fuwaylah
 Fuzzor
 Fyok
-Ga`aliyen
+Fāqa
+Fāris Al Kitāb
+Fātḩa Aj Ja'aliyyn
+Fātḩa Al 'Ushshab
+Fāw
+Fāzūghlī
+Fēd Annabag
+Fūq
+Ga'aliyen
 Gabat Mar
 Gabbad
 Gabera
@@ -2567,7 +2737,7 @@ Gafala
 Gafalu
 Gaghamni
 Gaguma
-Gahwat `Adjib
+Gahwat 'Adjib
 Gaibat
 Gaiya
 Galahib
@@ -2580,7 +2750,7 @@ Gamaniya
 Gambarat
 Gambi
 Gambo
-Gami`Filli
+Gami'Filli
 Gamma
 Ganeima
 Ganetti
@@ -2599,11 +2769,11 @@ Gardud Tabaldi
 Gardud al Bashem
 Gardud el Badry
 Gargarat
-Garora
 Garrafa
 Garsila
 Gartaga
 Garula
+Garōra
 Gasr el Hineka
 Gassana
 Gauga
@@ -2618,8 +2788,8 @@ Gebbid
 Gebeit
 Geddi
 Gedeid
-Gedid el `Atsha
-Gedid el `Awamra
+Gedid el 'Atsha
+Gedid el 'Awamra
 Gedidi
 Gedihat
 Gedil
@@ -2653,16 +2823,16 @@ Gerfu
 Gergeita
 Geri
 Gettin
-Ghabasha
 Ghabina
 Ghabish
-Ghabshan
+Ghabshān
 Ghabt al Andaraba
 Ghabush
+Ghabāsha
 Ghagan
 Ghajariyya
-Ghanama
-Ghannamah
+Ghannāmah
+Ghanāma
 Gharaghe
 Gharama
 Gharaq
@@ -2682,13 +2852,13 @@ Ghirgher
 Ghomera
 Ghosbiya
 Ghubaysh
-Ghubayshab
 Ghubayshah
-Ghubayshat
-Ghunaywab
-Ghuraydiyat
-Ghurayqanah
-Ghurud
+Ghubayshāb
+Ghubayshāt
+Ghunaywāb
+Ghuraydīyāt
+Ghurayqānah
+Ghurūd
 Gibr
 Gibsra
 Gideiri
@@ -2697,7 +2867,7 @@ Gigeil
 Gilas
 Gilat Deun
 Gilingitta
-Gim`a
+Gim'a
 Gimbir
 Ginfili Ngerma
 Ginis East
@@ -2759,10 +2929,10 @@ Gumbil
 Gumdi
 Gummuiya
 Gundo
-Gungo Hasan
+Gungo 'Alī Ya'qūb
 Gungo Karkara
 Gungo Nair
-Gungo `Ali Ya`qub
+Gungo Ḩasan
 Gunji
 Gunshur
 Gur Lambung
@@ -2780,26 +2950,20 @@ Guweighina
 Gwimana
 Habarab
 Habeina
-Habib
-Habib Allah
 Habiko
-Habil
 Habila
-Habilah
 Habilaya
 Habilei
 Habis el Humar
 Hablul
 Habobiyya
-Habobiyya Ash Shami
+Habobiyya Ash Shāmi
 Habos
+Habīl
+Habīlah
 Hadaliya
-Hadalya
-Haddad
 Haddaf
-Hafarah
-Haffir Makki
-Hafir
+Hadālyā
 Hagar Banga
 Hagar Beida
 Hagar Jembuh
@@ -2811,131 +2975,71 @@ Hagaru
 Hagel Murra
 Hagir Debeira
 Hagokat
-Haj Ahmad
-Haj an Nur
-Hajalah
-Hajar
 Hajar Assultan
-Hajar Gwira
-Hajar al Bayda'
 Hajar al Hatab
-Hajar al `Asal
 Hajar ar Rakuba
 Hajar at Ter
-Hajj Ibrahim
-Hajj Muhammad Ibrahim
-Hajj Musa
-Hajj `Abd Allah
-Hajj `Umar
-Hajj as Sid
-Hajj at Tahir
 Hajjak
-Hajjaz
-Hajju Abu Qarn
-Hajju al Uhaymir
-Hajlij
-Hajlijah
-Hakawlab
-Hakkab
+Hakkāb
 Halaqi
 Halasa
-Halfa' Dughaym
 Halgarma
 Hallat al Farajen
 Hallufa
 Halufaya
 Hamad
-Hamad an Nil
 Hamadaniya
-Hamadna Allah
-Hamadtu Allah
-Hamd Allah
-Hamd as Sid
-Hamdab
-Hamdab Abu `Awad Allah
 Hamdan
 Hamednarti
 Hameida
 Hamid Egeil
-Hamid al `Azab
-Hamid as Sufi
 Hamidiya
-Hamir
-Hammad Shuraym ad Dawm
-Hammadab
-Hammadi
 Hammur
 Hammurab
 Hamok
 Hamoriba
 Hamra
-Hamra'
-Hamrat ash Shaykh
-Hamrat ash Shekh as Sufi
 Hamroh
 Hana 'Azraq
-Hana Shitef
 Hanatir
 Hannek
 Hannu ash Shurayk
-Hantoby
 Hantub
-Hara'iz
-Hara'iz an Nefeidiya
+Hanā Shitef
 Haraba
 Haran
 Haraxa
-Harazah
-Harazah Ruqayyiqah
 Harhassa
 Harifeita
 Hariq
 Harrar
-Harun
-Harun Al Bahar
-Harun Muhammad
 Haruna
-Hasab Ad Dayim
-Hasab Allah
-Hasab al Karim
-Hasab ar Rasul
-Hasan Hisen
-Hasan Kegeik
-Hasan al Ghazali
-Hasanab
 Hasaya
-Hashab
 Hashaba
-Hashabah
-Hashabat Muhammad Ahmad
-Hashabat Umm Qawz
 Hashabu
-Hashim
-Hashish
+Hashāb
+Hashābah
+Hashābat Muḩammad Aḩmad
+Hashābat Umm Qawz
+Hashīm
 Hasiheisa
 Haskanit
 Hassa
-Hatras Wad `Araki
-Hatras al Ballal
 Hauli
 Hawa
-Hawa al `Arish
+Hawa al 'Arīsh
 Hawad
 Hawak
 Hawawit East
 Hawawit West
 Haweida
 Hawila
-Hawsh Faraneib
-Hawsh al Juruf
 Hawsh al Khawajah
-Hawtah
 Hawwa
-Hay Abu Nura
 Haya
 Hayafa
-Hayban
-Haye el `Arda el Mineqla
+Haybān
+Haye el 'Arda el Mineqla
 Hazawi
 Hazeil
 Hebila
@@ -2946,31 +3050,36 @@ Heguga
 Heleiba
 Heleyba
 Hemisaeb
-Heraiz al Ja`liyin
+Heraiz al Ja'līyīn
 Herbagat
 Hetani
 Heyinga
 Hibail
+Hibeka 'Akūt
 Hibeka An Naqar
-Hibeka `Akut
-Hidayya
 Higar
 Higeina
-Hijelija
 Hijelja
-Hijlij
-Hilat Hamad
+Hijelīja
+Hijlīj
 Hilat Wad el Hag
 Hilat el Qobba
 Hilat et Tondob
 Hilelat
-Hilewa
 Hilla
+Hillat 'Aaytarbā
+Hillat 'Agig
+Hillat 'Aidib Hasanab
+Hillat 'Amor
+Hillat 'Ared Qoz el Ttalha
+Hillat 'Atra
+Hillat 'Umar
 Hillat Ab Qafala
 Hillat Ab Salih
 Hillat Ab Tafug
 Hillat Abaka
 Hillat Abrag
+Hillat Abu 'Hilef
 Hillat Abu Dara
 Hillat Abu Diqena
 Hillat Abu Habara
@@ -2979,11 +3088,9 @@ Hillat Abu Idres
 Hillat Abu Likelk
 Hillat Abu Senon
 Hillat Abu Ushar
-Hillat Abu `Hilef
 Hillat Adam
-Hillat Addarot
+Hillat Addarōt
 Hillat Aftas
-Hillat Al Faki
 Hillat Al Ginay
 Hillat Al Sifayah
 Hillat Alashraf
@@ -3001,15 +3108,15 @@ Hillat Ash Shekh Sharaf Adden
 Hillat Ash Shidar
 Hillat Ash Shiqelab
 Hillat Ashat
-Hillat Ashshekh Isma`il
+Hillat Ashshekh Isma'il
 Hillat At Fadul
 Hillat Attabaldiyya
-Hillat Attash
 Hillat Attomo
+Hillat Attāsh
 Hillat Awlad Haj Abu Zed
 Hillat Awlad Hamad
-Hillat Awlad Tibeg
-Hillat Baa'lok
+Hillat Awlād Tibēg
+Hillat Baa'lōk
 Hillat Banat
 Hillat Baraka
 Hillat Barakat
@@ -3021,7 +3128,7 @@ Hillat Dar al Asad
 Hillat Darb Alkheil
 Hillat Deim el Qarray
 Hillat Dioer
-Hillat Diqen
+Hillat Diqēn
 Hillat Dirheb al Fogani
 Hillat Dirheb al Kasta
 Hillat Dirheb al Tihtani
@@ -3033,7 +3140,7 @@ Hillat Ed al Sireh
 Hillat Ed an Nekheira
 Hillat El Hasanab
 Hillat El Kirera
-Hillat El`iqeda
+Hillat El'iqeda
 Hillat Ezzoroq
 Hillat Fagusa
 Hillat Garsi
@@ -3043,10 +3150,9 @@ Hillat Haj Ahmed
 Hillat Haj Mohmmed Al Haryan
 Hillat Hattakab
 Hillat Hinesh
-Hillat Idris
 Hillat Jaden
 Hillat Jibel at Tena
-Hillat Juru
+Hillat Jurū
 Hillat Kagareb
 Hillat Kali
 Hillat Kallara
@@ -3066,18 +3172,18 @@ Hillat Masak
 Hillat Midesisa
 Hillat Mihereb
 Hillat Mihram
-Hillat Mitateb al Abar
+Hillat Mitātēb al Ābār
 Hillat Mohammad Sa'di
 Hillat Mona
 Hillat Mosa Fandeb
 Hillat Mostafa
-Hillat Na`em
+Hillat Na'em
 Hillat Noh
 Hillat Nyaghogha
 Hillat Omar
 Hillat Qad el Habob
 Hillat Qadaw
-Hillat Qala`t el Manaser
+Hillat Qala't el Manaser
 Hillat Qammarab
 Hillat Qarash
 Hillat Qasm es Sed
@@ -3088,19 +3194,17 @@ Hillat Qoz el Foqra
 Hillat Qoz el Hag
 Hillat Qoz el Wali
 Hillat Qubat Wad Salman
-Hillat Ra`
+Hillat Ra'
 Hillat Raboub
 Hillat Raboub ad Donky
 Hillat Rattaga
 Hillat Rerah
 Hillat Rimmat Qaid
-Hillat Sa`ada al Aolen
-Hillat Sa`adana
-Hillat Sa`id Kabbus
-Hillat Saburi
-Hillat Salamah Sorobh
+Hillat Sa'ada al Aolen
+Hillat Sa'adana
+Hillat Sa'id Kabbus
+Hillat Salamah Sorōbh
 Hillat Salha
-Hillat Salim
 Hillat Saqryier
 Hillat Sarobat
 Hillat Seedon
@@ -3109,33 +3213,34 @@ Hillat Shayab
 Hillat Shootak
 Hillat Shunku
 Hillat Siro
-Hillat Tabat al `Aqalen
+Hillat Tabat al 'Aqalen
 Hillat Taboora
 Hillat Takalat Wad Mosa
-Hillat Tamantashar Isa al Haq
+Hillat Tamantāshar Īsa al Hāq
 Hillat Tartor
 Hillat Tartor Abdel Salamab
 Hillat Taybat el Khawad
-Hillat Thamaniyah Arab Algamalon
+Hillat Thamānīyah Arab Algamalon
 Hillat Tolag
 Hillat Um Jarki
 Hillat Um Jirki
 Hillat Um Milih
 Hillat Um Qarqur
+Hillat Umm 'Ali
+Hillat Umm 'Owena
 Hillat Umm Diweneb
-Hillat Umm Jim`a
+Hillat Umm Jim'a
 Hillat Umm Makharoqa
 Hillat Umm Marih al Jadeda
 Hillat Umm Mineqla
 Hillat Umm Monqar
 Hillat Umm Owed
 Hillat Umm Owena
-Hillat Umm Shaba`
+Hillat Umm Shaba'
 Hillat Umm Shadieda
 Hillat Umm Sidir Assondonab
-Hillat Umm `Ali
-Hillat Umm `Owena
 Hillat Uzeirqab
+Hillat Wad 'Ibed
 Hillat Wad Abu Reda
 Hillat Wad Arrid Marghani
 Hillat Wad Ased
@@ -3154,29 +3259,21 @@ Hillat Wad Ramli
 Hillat Wad Saqqa
 Hillat Wad Shrusha
 Hillat Wad Yosif
-Hillat Wad `Ibed
 Hillat Wad al Habel
 Hillat Wadi Ab Dabi
 Hillat Wadi el Abed
 Hillat Wadi el Hasar
 Hillat Wadi esh Shekh
-Hillat Ya`qob
+Hillat Ya'qob
 Hillat Yatu
 Hillat Yoya
-Hillat `Aaytarba
-Hillat `Abbas
-Hillat `Agig
-Hillat `Aidib Hasanab
-Hillat `Amor
-Hillat `Ared Qoz el Ttalha
-Hillat `Atra
-Hillat `Umar
-Hillat ab Harira
+Hillat ab Harīra
 Hillat ad Dalo
 Hillat ad Dokhon
 Hillat aj Jamalor
+Hillat al 'Bdnab
 Hillat al Arid
-Hillat al Azazah
+Hillat al Azāzah
 Hillat al Bakrab
 Hillat al Bija
 Hillat al Deqa
@@ -3198,26 +3295,25 @@ Hillat al Hufra
 Hillat al Ilew
 Hillat al Kalakla
 Hillat al Kambo
-Hillat al Kea`an
+Hillat al Kea'an
 Hillat al Kihek
 Hillat al Kiweib
 Hillat al Kobor
-Hillat al La`ota
+Hillat al La'ota
 Hillat al Lamlat
 Hillat al Mahammadiya
 Hillat al Mansorab
 Hillat al Moqdab
 Hillat al Oshara
-Hillat al Qal`a
+Hillat al Qal'a
 Hillat al Qamarab
 Hillat al Qanay
 Hillat al Qiblab
 Hillat al Qoz al Bdnab
 Hillat al Qwez
 Hillat al Rashaydah
-Hillat al Sab`at
+Hillat al Sab'at
 Hillat al Widay
-Hillat al `Bdnab
 Hillat an Nekheira
 Hillat an Nikheila
 Hillat an Norab
@@ -3241,6 +3337,10 @@ Hillat ed Dareisa
 Hillat ed Darqab
 Hillat ed Dom
 Hillat ej Jablab
+Hillat el 'Alyabegbai
+Hillat el 'Aqqada
+Hillat el 'Arabi
+Hillat el 'Ared
 Hillat el Aur Hussin
 Hillat el Bigrawiya
 Hillat el Bir
@@ -3283,15 +3383,11 @@ Hillat el Taragma
 Hillat el Thawra
 Hillat el Timerab
 Hillat el Wadi el Labyad
-Hillat el `Alyabegbai
-Hillat el `Aqqada
-Hillat el `Arabi
-Hillat el `Ared
 Hillat en Naqarab
 Hillat en Nikhela
 Hillat es Sanaher
 Hillat es Simemit
-Hillat es Sol`at
+Hillat es Sol'at
 Hillat esh Shabatab
 Hillat esh Sharbab
 Hillat esh Sheikh
@@ -3302,13 +3398,9 @@ Hillat esh Sheikh al Basher
 Hillat esh Shiwerib
 Hillat et Tiresat
 Hillat ez Zaraqna
+Hillat Ṣabūrī
 Hilmi
-Himedan
-Himera
 Hineiga
-Hiredana
-Hisen
-Hisen Haj Mustafa
 Hizawi
 Hodur
 Hogung
@@ -3318,57 +3410,37 @@ Horog
 Hosh Wad Banaqa
 Hosh ed Dar
 Howanakerak
-Hudayd Wad Shayb
-Hudayd ash Sharifi
 Hudur
-Hufayrah
 Hugeilig
 Hugeir Qassuma
 Hugeir el Kiazi
 Hugier el Farag
-Hujara
-Hujaylij
-Hujayr
-Hujayrat
-Hujjaj
-Hukumah
-Hulaylah
-Humari
-Humaydah
-Humaydan
-Humayr
-Humayr Dirrah
-Humayr Jabir
-Humayr Koko
-Humayr ar Ru'us
-Humayyir
-Humayyir Kurkab
+Hujāra
 Humeida
 Humeir Sibil
 Humeirab
-Hummeda
-Humrah
 Hureiz
-Hurrah
 Huseinarti
-Husenat
+Husenāt
 Husheib
-Huzaymah
+Hārūn
+Hārūn Al Bahar
+Hārūn Muḩammad
 Ibayyid
-Ibrahim Wad `Arabi
-Ibrahim `Abd Allah
-Ibrahim al Futah
+Ibrahīm 'Abd Allah
+Ibrāhīm Wad 'Arabī
+Ibrāhīm al Fūţah
 Id Aj Jim
 Id ad Diwem
 Id en Nakhi
 Idiru
-Idris
-Idris Abu Umm Duluk
 Idris Mustafa
-Ifetis
-Ilabilli
+Idrīs
+Idrīs Abū Umm Duluk
+Ifeţis
+Ilabīlli
 Im Dam
-Imtidad Hay Az Zihur
+Imtidād Hay Az Zihūr
 Inbijek
 Indasseina
 Inderaba
@@ -3376,7 +3448,7 @@ Inderabiro
 Inebis
 Inha
 Injammena
-Injiltarra
+Injiltarrā
 Ir Kwa
 Iretil
 Irgie
@@ -3384,12 +3456,12 @@ Irqud
 Isagha
 Iselat Wad Sarar
 Iskut
-Isma`il
-Isma`tliyya
+Ismā'tliyya
+Ismā'īl
 Istereina
 Ja
-Ja`l
-Ja`liyin
+Ja'l
+Ja'līyīn
 Jabal Awlya
 Jabal Buk
 Jabal Dor
@@ -3399,69 +3471,61 @@ Jabal Mayyah
 Jabal Qurayn
 Jabal Sileia
 Jabal Sudayk
-Jabal ad Dud
-Jabona
+Jabal ad Dūd
 Jabr
-Jabr Allah
-Jabra
+Jabr Allāh
 Jabra Addar
-Jabrin
+Jabrā
+Jabrīn
 Jabun
-Jad Al `En
-Jada
-Jadas Sid
+Jad Al 'En
 Jaded Ath Thwra
-Jadid
-Jadidah
+Jadīd
+Jadīdah
 Jagi
-Jah ar Rasul
-Jahaniyah
+Jahanīyah
 Jaja
-Jajera
 Jakok
-Jalduk
 Jali
-Jallabiyah
+Jallābīyah
 Jalqani
-Jamalab
 Jameina
-Jami`Abu Jurah
 Jamia
-Jammam
+Jammām
 Jamsanga
+Jamālāb
 Jandala
-Janqaro
-Jarmari
+Janqāro
+Jarmāri
 Jatara
 Jawa
-Jawwada
-Jayli
-Jazirat Fatimah
-Jazirat al Fil
+Jawwāda
+Jaylī
+Jazīrat Fāţimah
+Jazīrat al Fīl
 Jebel Moon
 Jefawa
 Jegu
 Jeroko
-Jibal
 Jibeliyya
-Jibril
-Jidad
+Jibrīl
+Jibāl
+Jidād
 Jimiliaa
 Jimmeza
 Jinjir
-Jirabiyah
-Jirban
+Jirbān
 Jirewa
 Jirguserei
-Joghanay
+Jirābīyah
 Joghba
 Jokba
 Joku
 Juba
-Jubart Alla
-Jubaylat
+Jubaylāt
 Jubeil
 Jubeilat
+Jubārt Alla
 Jughna
 Jughub
 Jugna
@@ -3469,72 +3533,74 @@ Juguma
 Julonga
 Juluia
 Jumali
-Jumayliyah
-Jumaymiz
+Jumaylīyah
+Jumaymīz
 Jummayzah
 Junaynah
 Jung
 Junga Jura
-Jurab Yabis
 Jurayf
 Jurf al Malik
-Juri
-Ka`kul
+Jurāb Yābis
+Jābona
+Jāda
+Jādas Sīd
+Jāh ar Rasūl
+Jājera
+Jāldūk
+Jāmi'Abū Jūrah
+Jōghanāy
+Jūri
+Ka'kūl
 Kaag Kulli
 Kaba
 Kababish
 Kabai
-Kabajin
-Kabambura Alif
-Kabambura Ba
+Kabambūra Alif
+Kabambūra Ba
 Kabar
 Kabayla
 Kabbah
 Kabbaro
-Kabbushab
+Kabbūshāb
 Kabga
-Kabir
 Kabira
-Kabkabiyah
+Kabkābīyah
 Kabna
 Kabodi
 Kabok
 Kabongo
-Kabos
 Kabr
 Kabra
 Kabrinarti
-Kabsur
+Kabsūr
 Kabur
-Kabus
-Kabushah
 Kabushiya
+Kabājin
+Kabīr
+Kabūs
+Kabūshah
 Kachama
-Kadaba
 Kadabas
-Kadadah
 Kadakol
 Kadarang
-Kadayis Aj Jamanla
-Kadayis Al Bideriyya
 Kadeita
 Kadmu
 Kadodo
-Kadrabat
 Kadruka
 Kadugli
+Kadāba
+Kadādah
+Kadāyis Aj Jamānla
+Kadāyis Al Bideriyya
 Kafandu
-Kafani
-Kafi
+Kafanī
 Kafran Kaula
 Kagbar
 Kaghiggum
 Kagko
 Kagmar
 Kagnarti
-Kahil
-Kahli Tayyibin
-Kahli Zaydan
 Kaidaba
 Kaidebba
 Kaigu
@@ -3546,7 +3612,6 @@ Kajalangi
 Kajangaski
 Kajilkajili
 Kajra
-Kakamuta
 Kakeri
 Kakum
 Kakur
@@ -3555,7 +3620,6 @@ Kalamboa
 Kalamhasina
 Kalendo
 Kalimbo
-Kalinda
 Kalkadda
 Kalkal
 Kalla Umar
@@ -3565,7 +3629,7 @@ Kalokitting
 Kaloqi
 Kalu
 Kamanzamu
-Kamasher
+Kamashēr
 Kambal
 Kambo Abd al Majid
 Kambo Arrev
@@ -3574,38 +3638,37 @@ Kambo Jibrel
 Kambo ar Rizeqal
 Kambo az Zaghawa
 Kambu
+Kambu 'Abd al Qādir
+Kambu 'Abd aş Şādiq
+Kambu 'Awaḑ
+Kambu 'Ishrūn
 Kambu Abu Diqin
 Kambu Addabba
 Kambu Al Magharba
 Kambu Alyas
-Kambu Arba`tashar
-Kambu Baluma
+Kambu Arba'ţashar
+Kambu Balūma
 Kambu Barqu
-Kambu Barquta
-Kambu Bashkar
-Kambu Birebit
+Kambu Barqūta
+Kambu Birebiţ
+Kambu Bāshkār
 Kambu Fatarita
-Kambu Haj `Ali
 Kambu Hashim
 Kambu Kashkosh
-Kambu Mahammad
-Kambu Malik
-Kambu Mayo
-Kambu Sa`dan
+Kambu Maḩammad
+Kambu Mālik
+Kambu Māyo
+Kambu Sa'dān
 Kambu Talata
-Kambu Thalathah wa Thalathun
-Kambu Thalathun
-Kambu `Abd al Qadir
-Kambu `Abd as Sadiq
-Kambu `Awad
-Kambu `Ishrun
+Kambu Thalāthah wa Thalāthūn
+Kambu Thalāthūn
 Kambu al Rattaga
 Kambu an Nabaq
-Kambu an Nadyana
-Kambu um Talaqo
+Kambu an Nadyāna
+Kambu um Ţalaqo
+Kambu Ḩaj 'Ali
 Kamdilla
 Kamguli
-Kamilab
 Kamiri
 Kamlin Sharq
 Kamlin el Abdullab
@@ -3614,34 +3677,31 @@ Kammil Nomak
 Kamrab
 Kamrogia
 Kamsab
-Kamsor
-Kanabi Kilo Khamsa
+Kamsōr
+Kamīlāb
 Kanafa
 Kanberri
-Kandak Zol Shayyal
+Kandak Zol Shayyāl
 Kandawa
 Kandi
-Kandik
 Kando
 Kangalla
-Kanisah
 Kaniset el Falah
 Kanjeika
 Kankalab
-Kantush
+Kantūsh
 Kanyuro
+Kanābi Kilo Khamsa
+Kanīsah
 Kao
 Kapu-urnur
 Kara
 Kara Bara
-Karadi
-Karadis
 Karakir
 Karakulla
 Karama
 Karan
 Karanka
-Karara
 Karbab
 Karbaka
 Kardilla
@@ -3649,25 +3709,23 @@ Kardos
 Kareima
 Karendiwai
 Karenka
-Karima
-Karjuqul
 Karkab
 Karkaj
 Karkangi
 Karkarava
-Karkaray
-Karkawi
+Karkarāy
 Karkawj
 Karkoj
 Karkulli
 Karkur
+Karkāwi
 Karling
 Karmah an Nuzul
 Karmakol
 Karmal
 Karmal Ballala
-Karmal Jamamla
-Karmuqyya
+Karmal Jamāmla
+Karmūqyya
 Karnab
 Karnak
 Karnekeila
@@ -3675,11 +3733,15 @@ Karonga
 Karpoi
 Karraro
 Karri
-Karsh al Fil
-Kartub
+Karsh al Fīl
+Kartūb
 Karungul
-Karuri
 Karwaja
+Karādi
+Karādīs
+Karāra
+Karīma
+Karūri
 Kas
 Kasa
 Kasambar
@@ -3690,9 +3752,9 @@ Kasita
 Kaskeidi
 Kasoleri
 Kassa Karro
-Kassab
-Kassab ad Dulayb
 Kassala
+Kassāb
+Kassāb ad Dulayb
 Kataltak
 Katfiyya
 Kathidik
@@ -3707,16 +3769,18 @@ Kawainan
 Kawara
 Kawdah
 Kawm
-Kayli
+Kaylī
 Kayrah
-Kayran
+Kayrān
 Kazgeil
-Kebesa
+Kaḑrabāt
+Kaḩil
+Kaḩlī Zaydān
+Kaḩlī Ţayyibīn
 Kebkebei
 Kebro
 Kedari
 Kedilnye
-Kega Timero
 Kegeli
 Keibo
 Keikei
@@ -3743,72 +3807,70 @@ Kerri
 Kewa
 Khabaqah
 Khadiga
-Khadim ar Rasul
 Khagalab
 Khaiyoba
 Khalfa
-Khalid
-Khalifah
-Khalifah Sharif
-Khalil
-Khamis
+Khalīfah
+Khalīfah Sharīf
+Khalīl
 Khamis Armarn
-Khamisah
-Khamsin Ghannomab
+Khamsīn Ghannomab
+Khamīs
+Khamīsah
 Khanag
-Kharif
-Kharrat
+Kharrāţ
 Khartah
 Khartoum
 Khartoum North
 Kharuba
+Kharīf
 Khash Khashaia
-Khashm al Batta
+Khashm al Baţţa
 Khashm al Qirbah
 Khashum
 Khawr Agwal
-Khawr Ahmar
+Khawr Aḩmar
 Khawr Baba
 Khawr Bom
 Khawr Gadein
 Khawr Koshi
 Khawr Teggat
 Khawr adh Dhahab
-Khawr al Fil
+Khawr al Fīl
 Khawr al Gana
-Khawr al Mitraq
-Khawr as Sant
-Khayr Allah Bulayl
-Khayr as Sid
-Khayrat
+Khawr al Miţraq
+Khawr as Sanţ
+Khayr Allāh Bulayl
+Khayr as Sīd
+Khayrāt
 Khazamah
 Kheir Wagih
 Khereiro
 Khiari
-Khidir
-Khidr
 Khilef
 Khimera
 Khiyara
+Khiḑir
+Khiḑr
 Khlewa
 Khogalab
 Khor
-Khor At Talih
+Khor Aţ Ţaliḩ
 Khor Ramona
 Khorubaya
-Khudayra'
 Khudur
 Khulaywah
-Khummi
-Khuwayrat
+Khummī
+Khuwayrāt
 Khuwayy
-KiIu 'Arba`a
+Khuḑayrā'
+Khādim ar Rasūl
+Khālid
 Kibaura
-Kidad Abu Naml
+Kidad Abū Naml
 Kidaml
 Kidda
 Kiddu
-Kidebat
 Kidingil
 Kidingir
 Kigienni
@@ -3819,45 +3881,41 @@ Kileigau
 Kileitita
 Kilinge
 Killung
-Kilu Arba`a
-Kilu Khamsa
-Kilu Sab`a
-Kilu Saba`a
-Kilu Tamanya
-Kilu `Ashara
 Kimang Kergil
 Kimla
 Kimnar
 Kimungaro
-Kinana
-Kinanah
 Kinderma
 Kinduwa
-Kinez Fallata
+Kinez Fallāta
 Kinnya
 Kinor
 Kinyeir
+Kināna
+Kinānah
 Kirakira
 Kiran
 Kirbi
-Kire`at Aj Ja`aliyyin
+Kire'at Aj Ja'aliyyīn
 Kireili
 Kirekirra
 Kiri
 Kirkir
 Kirma
 Kishkish
-Kiter Masa`ad
+Kiter Masa'ad
 Kiter an Nifediyya
 Kitera
-Kiterat
+Kiterāt
 Kitong
 Kitra
 Kitrah
-Kitrah Muhammadiyah
-Kitrat Ad Daqala
-Kitrat Hamdan
-Kitrat Yahya
+Kitrah Muḩammadīyah
+Kitrat Aḑ Ḑaqāla
+Kitrat Yaḩya
+Kitrat Ḩamdān
+KiĪu 'Arba'a
+Kiḑebāt
 Koban and Sorog
 Kobbei
 Kobjar
@@ -3890,7 +3948,6 @@ Kongakonga
 Kongye
 Konjar
 Konoichond
-Koqela
 Korai
 Korare
 Korba
@@ -3922,21 +3979,19 @@ Kosti
 Kosua
 Kosula
 Koulbous
-Kowil an Na`am
+Kowil an Na'ām
 Koya
 Koyos
 Kreyu
-Ku` Namusa
 Kuarday
 Kuartal
 Kubang
 Kubbaka
-Kubbi
 Kubbia
 Kubbir
 Kubbum
+Kubbī
 Kubda
-Kubi
 Kubka
 Kubomesa
 Kubr Dusa
@@ -3950,21 +4005,20 @@ Kudno
 Kudul
 Kudulli
 Kudumi
-Kuhliyat
+Kuhliyāt
 Kuilla
 Kujang
 Kujunung
 Kujur
 Kuk al Ledaya
-Kukah
 Kukay
 Kuku
 Kukumandi
 Kukur
 Kukuru
 Kul
-Kul `Abd al `Al
-Kulaykili
+Kul 'Abd al 'Al
+Kulaykilī
 Kulayl
 Kulb East
 Kuli
@@ -3972,7 +4026,7 @@ Kulkul
 Kulla
 Kulla Kulla
 Kulli
-Kulliyyat az Zira`a
+Kulliyyat az Zirā'a
 Kullu
 Kulme
 Kulmo
@@ -3990,7 +4044,7 @@ Kumor
 Kumudi
 Kumur
 Kumur Hag es Sid
-Kumur aj Ja`aliyyin
+Kumur aj Ja'aliyyīn
 Kumur al Mikherif
 Kunaynah
 Kunga
@@ -4003,17 +4057,16 @@ Kuraydah
 Kuraymah
 Kurbi
 Kurcha
-Kurdufan
+Kurdufān
 Kure
 Kurei
 Kurel Hoseil
 Kurgi
 Kurgo
 Kurgula
-Kuri
 Kurkuru
 Kurmuk
-Kurmuk Zaribah
+Kurmuk Zarībah
 Kurmuta
 Kurngi
 Kurni
@@ -4025,7 +4078,6 @@ Kurro
 Kurru
 Kurrur
 Kursi
-Kurti
 Kurto
 Kurtugula
 Kurula
@@ -4038,29 +4090,48 @@ Kusokuro
 Kussa Karro
 Kussankira
 Kusuru
-Kutayrayah
+Kutayrāyah
 Kutranj
 Kutukunleiri
 Kutum
 Kuturi
-Kuwaymat
+Kuwaymāt
 Kuwayn
 Kuwayrah
 Kwaga
+Kébésa
+Kābōs
+Kāfi
+Kākamūta
+Kālinda
+Kāndik
+Kārjuqul
+Kēgā Timēro
+Kīlu 'Ashara
+Kīlu Arba'a
+Kīlu Khamsa
+Kīlu Sab'a
+Kīlu Saba'a
+Kīlu Tamānya
+Kōqela
+Kū' Nāmusa
+Kūbī
+Kūkah
+Kūrtī
+Kūrī
 La Teguna
-La`ota
-La`ota Ba`udah
+La'ota
+La'ota Ba'ūḑah
 Laagi
 Lababis
 Labado
 Lafofa
-Laju
 Lakia
 Lakluk
 Lambar Rimi
 Langya
-Laqiyat al Arba`in
 Laqur
+Laqīyat al Arba'īn
 Lashaqia
 Lau Lau
 Lauda
@@ -4073,22 +4144,21 @@ Lesun
 Lidqu
 Ligeidiba
 Lil Korat
-Limemat Hamdan
+Limemat Ḩamdān
 Limma
 Limo
 Lingu
 Liria
 Lobbodo
 Loda
-Logori
 Lokola
 Lono
 Louarna
 Lovarna
 Luba
 Lubana
-Lubanah
 Lubayn
+Lubānah
 Ludu
 Ludung
 Lujugo
@@ -4100,34 +4170,36 @@ Lunga
 Luti
 Luwayb
 Luwaybid
-Luyunah
+Luyūnah
+Lājū
+Lōgōrī
 Ma'ad Abular
 Ma'ad Dimsu
-Ma'ad Ras el Marfain
+Ma'ad Ras el Marfaín
 Ma'adat el Eida
-Ma`agalab
-Ma`aliya Dardok
-Ma`qulah
-Ma`rakah
-Ma`surin
-Ma`tuq
+Ma'agalab
+Ma'aliya Dardok
+Ma'qūlah
+Ma'rakah
+Ma'surin
+Ma'tūq
 Maadam
 Maafa
-Mabani Sikak Hadid aj Jazira
 Mabeig
-Mabruka
-Mabruka al Hassaniyya
-Mabsut
+Mabrūka
+Mabrūka al Ḩassāniyya
+Mabsūţ
 Mabuk
 Maburikei
-Madasis
+Mabāni Sikak Ḩadid aj Jazira
 Madbaghat aj Jazira
 Madi
-Madinah
-Madinat As Sufi
-Madinat al Masna'a
+Madinat Aş Şūfī
 Madu
 Madue
+Madāsīs
+Madīnah
+Madīnat al Masna'a
 Magabadi
 Magadib
 Magal
@@ -4143,66 +4215,56 @@ Magrur
 Magun
 Mahafir
 Mahala
-Mahala Ashshekh `Abd Allah
+Mahala Ashshekh 'Abd Allah
 Mahala al Hasanab
-Mahalah
-Mahammad Babli
-Mahammad Zen
 Mahareiba
-Mahareiba Faki `Umar
+Mahareiba Fakī 'Umar
 Mahareiba Shotalab
-Mahas Ruqaybah
-Mahattat Adarot
-Mahattat Derudeb
+Mahattat Adarōt
+Mahattat Dērudēb
 Mahattayat
-Mahbub
-Mahbuba
-Mahbubah
-Mahmud
 Maiabel
 Maielfa
 Mairo
 Maiurno
 Majaj
 Majama Madaris Abd al Ghani
-Majanin
 Majaq
 Majeigha
-Majrur
+Majrūr
+Majānīn
 Makashfi
-Maknun
+Maknūn
 Makraka
-Maktab Al `Amara Kasir
-Maktab Arba`ah wa `Ishrun al Sabat Gharb
+Maktab Al 'Amāra Kāsīr
+Maktab Arba'ah wa 'Ishrūn al Sabat Gharb
 Maktab Taftish
-Maktab al Sab`at
+Maktab al Sab'at
 Maktab as Sidera
 Maku
 Makululu
-Mal`abah
-Malakiyah
+Mal'abah
+Malakīyah
 Malamm
-Malamm al Kar
+Malamm al Kār
 Malek
-Mali
-Malihah
-Malkiyah
+Malkīyah
 Mallaqat
 Mallow
 Malolaha
 Maltut
+Malīḩah
 Mamada
 Mamun
 Mana
 Managir
-Manaqaza
 Manaser
 Manasis
 Manawashe
 Manchelung
 Mandang
 Mandara
-Mandaraba
+Mandarāba
 Mandi
 Mandur
 Mangangani
@@ -4210,75 +4272,70 @@ Manganyo
 Mangara
 Mango
 Mangonyo
-Mansura
 Mansurkotti
+Mansūra
 Manzula
-Manzulah
+Manzūlah
+Manāqaza
 Maqal
 Maqanza
-Maqatiyya
-Maqdur
-Maqtu` Qalbu
+Maqaţiyya
+Maqdūr
+Maqţu' Qalbū
 Marabba
 Marafa
 Maragha
 Maragibir
 Maraiu
 Marakha
-Mararid
 Mararit
 Marawarti
-Marbutah
+Marbūţah
 Margub
 Mari
 Markhah
 Markib
-Markukah
 Markundi
+Markūkah
 Marlenga
 Marmedi
 Marmiton
 Marrabikki
-Marsa Sha`b
+Marsá Sha'b
 Martandawa
 Martei
 Maryam
 Maryod
-Marzuq
-Marzuqah
-Mas`ud
-Masa`ad
-Masajid Wad Hashi
+Marzūq
+Marzūqah
+Marārīd
+Mas'ūd
 Masaleit
 Masamoagha
 Masara
-Masgid Maman
-Masgid Qaryat Maman
+Masgid Māmān
+Masgid Qaryat Māmān
 Mashakeila
 Mashatiri
 Masheifat
-Mashishah
 Mashkor
 Mashra el Kitayyab
-Mashra` Shababit
-Mashturey
+Mashra' Shababit
+Mashīshah
+Mashţūrey
 Masid Emani
-Masid al Faki Hashim
 Masimbo
 Masmagoi
-Masna `Sukkar Aj Jined
-Masna` Nasij Al Hasahisa
 Massa
 Mastegazza
-Matahin Qoz Kabbaru
+Masā'ad
+Masājid Wad Hashi
+Masīd al Faki Hāshim
 Matalabta
-Matamir
 Matammah
-Matar
-Matmar
 Matmar Abu Halema
-Matmar Dahr Juhaynah
 Maturab
+Matāmīr
 Maun
 Maya
 Maya ed Dubeyba
@@ -4286,8 +4343,22 @@ Mayak Adhulik
 Mayass
 Mayda
 Mayyalat
-Mayyas
-Mazlaqan
+Mayyās
+Mazlaqān
+Maşna 'Sukkar Aj Jined
+Maşnā' Nasīj Al Ḩaşaḩīşa
+Maţar
+Maţaḩin Qoz Kabbaru
+Maţmar
+Maţmar Ḑahr Juhaynah
+Maḩammad Bābli
+Maḩammad Zēn
+Maḩas Ruqaybah
+Maḩbūb
+Maḩbūba
+Maḩbūbah
+Maḩmūd
+Maḩālah
 Mealla
 Meallayab
 Megal
@@ -4300,9 +4371,9 @@ Meinarti
 Meiram
 Meirdaila
 Mejar Takku
-Mekah
-Mekaya
-Mekhirif Qoz Al Habil
+Mekaḩ
+Mekhīrif Qoz Al Habīl
+Mekāya
 Melegab
 Meleitada
 Melemm
@@ -4325,15 +4396,15 @@ Mesheitir
 Meshergen
 Meshingir
 Messawi
-Mi'enja Khojali
-Mi`einifa
-Mi`ejna Mustafa
-Mi`wan
+Mi'einifa
+Mi'ejna Muşţafa
+Mi'enja Khōjali
+Mi'wān
 Miberika
 Midaqq
 Mideini
-Midesis
 Midests
+Midesīs
 Midlan
 Migeir
 Mil Kidi
@@ -4344,31 +4415,28 @@ Minamara
 Minbanb
 Mindo
 Mingyeir
-Miqahaya
-Miqeti
+Miqaḩaya
+Miqeţī
 Mirandi
-Miraw
-Miref`ib
-Miref`ina
+Miref'īb
+Miref'īna
 Mireigha
-Miri
-Miri Barra
 Miri Guwa
 Miriud
 Mirkan
-Misher`at
-Misher`at Gharib
-Misheri
+Misher'āt
+Misher'āt Gharib
+Misherī
 Misig
 Misiktab
-Miski
+Miskī
 Mismeis
 Misterei
-Mitateb
 Mitatib
 Miter
 Mitti
-Miwelih
+Mitātēb
+Miweliḩ
 Mobil
 Mogadar
 Mogara
@@ -4385,15 +4453,15 @@ Moro
 Mororo
 Mortesoro
 Moula
-Mu Jamma` al Qura
-Mu`allaqa
+Mu Jamma' al Qura
+Mu'allaqa
 Muaddir
 Mubi
 Muda
 Mudata
 Mudili
 Mudu
-Mufraka
+Mufrāka
 Mugar
 Mugdeit
 Mugguduma
@@ -4401,20 +4469,9 @@ Mughaja
 Mugheisiba
 Mugjar
 Muguf
-Muhajiriyah
-Muhammad Ahmad
-Muhammad Fadl Allah
-Muhammad Isma`il
-Muhammad Qol
-Muhammad Yusuf
-Muhammad `Ali
-Muhammad al Amin
-Muhammad at Turayfi
-Muhammadayn
-Muhammadiyah
 Muhara
-Muhaydat ash Sharif
-Muhaylah
+Muhaydat ash Sharīf
+Muhājirīyah
 Mukaberob
 Mukabrab East
 Mukabrab West
@@ -4427,22 +4484,22 @@ Mulaybidah
 Mulbas
 Mulkajji
 Mulwad
-Mumallah
+Mumallaḩ
 Mumu
 Muna
-Mundarat Ath Thawra
 Mundero
 Mungara
 Muni
-Munir
-Munirah
 Munnaga
-Munqati`ah
+Munqaţi'ah
 Munyiner
-Muqabilah
+Munīr
+Munīrah
+Munḑarat Ath Thawra
 Muqaddimah
-Muqalladat
-Muqatta`
+Muqalladāt
+Muqaţţa'
+Muqābilah
 Mura
 Murayr
 Murdet
@@ -4453,70 +4510,81 @@ Murmus
 Murnei
 Murr
 Murshid East
-Murta
 Murtanga
+Murtā
 Murula
 Murundu
-Mus`ad
-Musa
-Musa Idris
-Musallamiyah
-Musallamiyah Ureibi
-Mushotnat
-Mushrafil
+Mus'ad
+Musallamīyah
+Musallamīyah Ureibi
+Mushoţnāţ
+Mushrāfīl
 Mushu
 Musi
 Musimbala
-Musmar
+Musmār
 Musobikira
-Mustafa
-Mustafa Qurashi
-Mustashfa Abu `Ushar
+Mustashfa Abū 'Ushar
 Musteria
 Mutur
-Muwaylih
-Muya
+Muwayliḩ
 Muzawaq
 Muzdalifa
+Muşţafa Qurashi
+Muşţafá
+Muḩammad 'Alī
+Muḩammad Aḩmad
+Muḩammad Faḑl Allāh
+Muḩammad Ismā'īl
+Muḩammad Qol
+Muḩammad Yūsuf
+Muḩammad al Amīn
+Muḩammad aţ Ţurayfī
+Muḩammadayn
+Muḩammadīyah
+Muḩaylah
 Mwes
 Myar
 Myordol
-Na`am
-Na`im Allah
-Na`ima
+Mālī
+Mīrāw
+Mīrī
+Mīrī Barrā
+Mūsá
+Mūsá Idrīs
+Mūya
+Na'ām
+Na'īm Allah
+Na'īma
 Naam
-Nabalat
-Nabaliyah
+Nabalāt
+Nabalīyah
 Nabaqa
 Nabaqai
-Nabaqaya
-Nabbaqah
+Nabaqāya
+Nabbāqah
 Nadi
-Nadi Tamanya Watamanin
 Nagak
 Nagaro
 Nagazu
 Nagoba
 Nainaya
-Najaru qryt njrw
-Najm ad Din
+Najaru قرية نجرو
+Najm ad Dīn
 Nakhl Mahmud
-Namli
+Namlī
 Naqaza
 Naro
-Nasim al Jannah
-Nasir
 Nasir Extension
 Nasurab
+Nasīm al Jannah
 Naui
 Nauraniya
 Navar Var
 Nawaiat Medani
 Naxila
-Nayfur
-Nayil
-Naziha
 Nazirs Fariq
+Nazīha
 Ndatirni
 Ndimmi
 Ndokoru
@@ -4527,16 +4595,15 @@ New Halfa
 Ngalia
 Ngergibba
 Ngorra Fata
-Ni`am
-Ni`ma Sirkatti
+Ni'ma Sirkatti
+Ni'ām
 Nialota
 Niaro
 Niarshige
-Niblat al Hajjanah
-Nilat Sulayman
+Niblat al Hajjānah
 Nimir
 Nimr
-Nimra `Ashara
+Nimra 'Ashara
 Nitil
 Njachakei
 Njelanga
@@ -4548,15 +4615,9 @@ Nudoqay
 Nukuna
 Numu
 Nuni
-Nuqadiyah
-Nur Aj Jalil
-Nur Wad `Araki
-Nur ad Din
-Nur al Qubbah
-Nurab
-Nurayn
+Nuqadīyah
+Nur Wad 'Araki
 Nurei
-Nuri
 Nurlei
 Nutto
 Nuwwara
@@ -4575,6 +4636,17 @@ Nyimining
 Nyolna
 Nyukr
 Nyukur
+Nādi Tamanya Watamānīn
+Nāyfur
+Nāyil
+Nāşir
+Nīlat Sulaymān
+Nūr Aj Jalīl
+Nūr ad Dīn
+Nūr al Qubbah
+Nūrayn
+Nūrāb
+Nūrī
 Obol
 Oda
 Ogr
@@ -4596,225 +4668,225 @@ Oum Jakhakhin
 Oyo
 Pomfa
 Port Sudan
-Qabaraya
+Qabarāya
 Qabati
 Qabub
-Qad Dum aj Jamal
-Qad Dum aj Jibal
-Qad al Habub
-Qadadim
-Qadd al Habub
-Qaddala
-Qaddura
-Qadim
+Qad Dum aj Jibāl
+Qad Dūm aj Jamal
+Qad al Habūb
+Qadd al Habūb
+Qaddāla
+Qaddūra
 Qados
-Qafa Mahdi
+Qadādīm
+Qadīm
 Qafalah
+Qafā Mahdī
 Qahwa
-Qala` an Nahl
-Qalamayah
+Qala' an Naḩl
+Qalamāyah
 Qaldi
-Qallabat
-Qallaja
 Qallamo
 Qallosit
+Qallābāt
+Qallāja
 Qamar Dauwa
 Qammarab
 Qanatir
 Qanattu
 Qandato
 Qandil
-Qandul
-Qanis Gharb
-Qanis Sharq
+Qandūl
 Qannib
-Qantarat Al Warraq
 Qantura
-Qanufa
-Qara` al Khanjar
-Qarada
-Qaradaya
-Qaranik
+Qanīs Gharb
+Qanīs Sharq
+Qanţarat Al Warrāq
+Qanūfa
+Qara' al Khanjar
+Qaranīk
+Qaraḍa
+Qaraḑaya
 Qardud
-Qardud Al Habub
 Qardud Aris
 Qardud Zahara
-Qardud `Abd as Salam
-Qardud at Tawil
+Qardūd 'Abd as Salām
+Qardūd Al Habūb
+Qardūd aţ Ţāwīl
 Qarfa
 Qariah Sittah Arab
-Qarya Sittah wa `Ishrun
-Qarya Thalathun
-Qaryah Ahada `Ashar
-Qaryah Arba`ah
-Qaryah Arba`ah Arab
-Qaryah Arba`ah wa `Ishrun
-Qaryah Arba`ata `Ashar
+Qarya Sittah wa 'Ishrūn
+Qarya Thalāthūn
+Qaryah 'Asharah
+Qaryah 'Ishrūn
+Qaryah Ahada 'Ashar
+Qaryah Arba'ah
+Qaryah Arba'ah Arab
+Qaryah Arba'ah wa 'Ishrūn
+Qaryah Arba'ata 'Ashar
 Qaryah Asubri
-Qaryah Ithna `Ashar
-Qaryah Ithnan
-Qaryah Ithnan Arab
-Qaryah Ithnan wa `Ishrun
+Qaryah Ithnā 'Ashar
+Qaryah Ithnān
+Qaryah Ithnān Arab
+Qaryah Ithnān wa 'Ishrūn
 Qaryah Khamsah
 Qaryah Khamsah Arab
-Qaryah Khamsah wa `Ishrun
-Qaryah Khamsata `Ashar
-Qaryah Kurak
-Qaryah Sab`ah
-Qaryah Sab`ah Arab
-Qaryah Sab`ah wa `Ishrun
+Qaryah Khamsah wa 'Ishrūn
+Qaryah Khamsata 'Ashar
+Qaryah Kūrak
+Qaryah Sab'ah
+Qaryah Sab'ah Arab
+Qaryah Sab'ah wa 'Ishrūn
 Qaryah Sittah
 Qaryah Sittah Arab
-Qaryah Sittah wa `Ishrun
-Qaryah Sittata `Ashar
-Qaryah Thalathah Arab
-Qaryah Thalathah wa Thalathun
-Qaryah Thalathah wa `Ishrun
-Qaryah Thalathan
-Qaryah Thalathata `Ashar
-Qaryah Thalathun
-Qaryah Thamanivata `Ashar
-Qaryah Thamaniyah
-Qaryah Thamaniyah wa Thamanun
-Qaryah Tis`ah
-Qaryah Tis`ah wa `Ishrun
-Qaryah Tis`ata `Ashar
-Qaryah Wahid
-Qaryah Wahid Arab
-Qaryah Wahid wa Thalathun
-Qaryah Wahid wa `Ishrun
-Qaryah `Asharah
-Qaryah `Ishrun
-Qaryah al Darqawiy
+Qaryah Sittah wa 'Ishrūn
+Qaryah Sittata 'Ashar
+Qaryah Thalāthah Arab
+Qaryah Thalāthah wa 'Ishrūn
+Qaryah Thalāthah wa Thalāthūn
+Qaryah Thalāthan
+Qaryah Thalāthata 'Ashar
+Qaryah Thalāthūn
+Qaryah Thamānīvata 'Ashar
+Qaryah Thamānīyah
+Qaryah Thamānīyah wa Thamānūn
+Qaryah Tis'ah
+Qaryah Tis'ah wa 'Ishrūn
+Qaryah Tis'ata 'Ashar
+Qaryah Wāhid Arab
+Qaryah Wāhid wa 'Ishrūn
+Qaryah Wāḩid
+Qaryah Wāḩid wa Thalāthūn
+Qaryah al Darqāwiy
 Qaryah al Laban
 Qaryah al Qurashi
-Qaryah al Sharafa
+Qaryah al Sharāfā
 Qaryat Abar Tambay
 Qaryat Abu Hasabo
-Qaryat As Sadaqa
+Qaryat Aş Şadāqa
 Qaryat Baghara
-Qaryat Dem Ilyas
+Qaryat Dem Ilyās
 Qaryat Hamad Naalla
 Qaryat Makali
-Qaryat Na`em
-Qaryat Qoz Rajab
-Qaryat Tindilay
-Qaryat Umm Kiwe`a
-Qaryat al Abakin
+Qaryat Na'em
+Qaryat Qōz Rajab
+Qaryat Tindilāy
+Qaryat Umm Kiwe'a
+Qaryat al Abākin
 Qaryat al Khalwat
 Qaryat al Kiremt
-Qaryat al La`ota
+Qaryat al La'ota
 Qaryat al Ledea
-Qaryat al Mazar
+Qaryat al Mazār
 Qaryat al Montazah
 Qaryat al Salamanea Sharq
 Qaryat ash Shetelab
-Qaryat at Tire`a
-Qasab Barqu
-Qasam Allah
-Qashsharat al Madina `Arab
-Qasira
-Qassuma
+Qaryat at Tire'a
+Qasam Allāh
+Qashsharat al Madīna 'Arab
+Qassūma
+Qasīra
 Qawz
 Qawz Baya
 Qawz Baynah
-Qawz Bisharah
+Qawz Bishārah
 Qawz Fagur
-Qawz Fil
+Qawz Fīl
 Qawz Gangar
-Qawz Humayd
-Qawz Mahmud
+Qawz Maḩmūd
 Qawz Nai
 Qawz Nusayr
-Qawz Wad Hamad
+Qawz Wad Ḩamad
 Qawz adh Dhi'b
 Qawz al Kulum
 Qawz al Kursan
 Qawz al Markh
 Qawz ar Rayy
-Qaysan
+Qawz Ḩumayd
+Qaysān
+Qaşab Barqu
 Qerri
-Qidedima al Lahamda
 Qifel
 Qileb Assrriyya
 Qili
-Qindil
-Qinebila
+Qindīl
+Qinebīla
 Qineda
 Qinesiyya
 Qinnab
 Qirbah
-Qireda
 Qiref
 Qireji
 Qirenab
+Qireḑa
 Qirid
 Qisar
-Qisim Wadi Sha`ir
+Qisim Wādī Sha'ir
 Qism Allah
+Qiḑeḑīma al Laḩāmda
 Qoda
 Qora
-Qoz
 Qoz Abu Shanab
-Qoz Ahmad Nur
-Qoz Al Habil
-Qoz Al Habub
-Qoz Al `Ak
-Qoz Allahamar
+Qoz Al 'Ak
+Qoz Al Habīl
+Qoz Al Habūb
+Qoz Allaḩamar
 Qoz Ar Rihed
-Qoz Ash Shikenab
+Qoz Ash Shikenāb
+Qoz Aḩmad Nur
 Qoz Bedin
 Qoz Dabib
 Qoz Gaba
 Qoz Kabbaru
 Qoz Kadruk
 Qoz Khadra
-Qoz Marfa`in
+Qoz Marfa'īn
 Qoz Nafisa
 Qoz Nginnu
-Qoz Qala `Al Bid
-Qoz al Bed
-Qoz al Luban
-Qoz ar Rif
+Qoz Qala 'Al Bīḑ
+Qoz al Beḑ
+Qoz al Lubān
+Qoz ar Rīf
 Qoz el Motraq
-Qoz en Na`am
-Qoz' Abd As Salam
+Qoz en Na'am
 Qresh
 Qubba
 Qubbah
-Qubbat Ash Shekh Taha
-Qubbat Ashshekh Ahmad Wad Al Faki Yousif
-Qubbat Omhay
-Qudaydim
-Qulay`ah
-Qulaydat
+Qubbat Ash Shekh Ţaha
+Qubbat Ashshekh Aḩmad Wad Al Faki Yousif
+Qubbat Ōmhay
+Qudaydīm
+Qulay'ah
+Qulaydāt
 Qulayy
 Quli
-Qulud
+Qulūd
 Qumqum
 Qumur
-Qunburayah
-Quni
-Qur Fok
-Qurad
-Quradah
-Quray`ah
+Qunburāyah
+Quray'ah
 Qurayshah
 Quraywid
-Qurdud
-Qurdud Nyama
-Qurdud al Khaymah
-Qurdud al Luban
-Qurdud al `Arraniyah
-Qurrasah
-Qutayfab
-Qutaynah
+Qurdūd
+Qurdūd Nyama
+Qurdūd al 'Arrānīyah
+Qurdūd al Khaymah
+Qurdūd al Lubān
+Qurrāşah
+Qurād
+Qurādah
 Quwayrin
-Ra'asat at Tahamid
+Quţayfāb
+Quţaynah
+Qōz
+Qōz' Abd As Salām
+Qūni
+Qūr Fok
+Ra'asat at Taḩāmīd
 Rabak
 Rabatet
 Rabda
-Rabjit
+Rabjīt
 Radma
 Radom
 Radona
@@ -4824,55 +4896,53 @@ Raghwa
 Raghwah
 Rahad Ashshekh
 Rahad al Bardi
-Rahad al Ghannayah
+Rahad al Ghannāyah
 Rahad al Marrah
-Rahad at Tabah
-Rahmah
-Rahmaniyah
+Rahad aţ Ţābah
 Rahmanya
 Rahuma
 Raiya
 Rakonga
-Rakubah
-Ramadan
+Rakūbah
 Ramalia
+Ramaḑān
 Raml
-Rammash
+Rammāsh
 Ramu
 Randi
-Ras Alfil
 Ras al Fil
 Ras el Fil
-Rashad
 Rashid
-Rashid at Tayyib
+Rashid aţ Ţayyib
+Rashād
 Rasrasa
-Rasrasah
 Ratabat
-Rawahiyah
-Rayyah
+Rawāḩīyah
+Rayyāḩ
+Raşraşah
+Raḩmah
+Raḩmānīyah
 Reiba
 Remidgai
 Reydug
 Rigebi
-Rihal
 Rihed Khera
-Rijil Zaghawa
+Rijil Zaghāwa
 Rimthah
 Riqqah
 Ritreirit
-Riwina
+Riwīna
 Riyadh
 Rizq Allah
+Riḩāl
 Ro Fata
 Rofa
 Rokab
-Roraw
-Rubaytah
+Rorāw
+Rubayţah
 Rubshan
-Rufa`a
-Rufa`iyyat
-Ruhaymab
+Rufā'a
+Rufā'iyyāt
 Rujaylah
 Rujaymah
 Rukab
@@ -4880,83 +4950,77 @@ Rumalia
 Rumaylah
 Rumaylik
 Rumela
-Rumi Bahri
-Rumi Qibli
 Rumni
 Runga
 Ruqaybah
-Ruru
 Rut Rut
-Ruwabah
 Ruwina
+Ruwābah
+Ruḩaymāb
+Rās Alfīl
+Rūmī Baḩrī
+Rūmī Qiblī
+Rūru
 Sa Nyamu
-Sa`ad Allah
-Sa`ada
-Sa`adabiya
-Sa`at
-Sa`ata
-Sa`dan
-Sa`dinfanti
-Sa`id
-Saad ash Shafi`
-Saba`a
-Sabah al Khayr
-Sabi` Dulayb
-Sabil
+Sa'ad Allah
+Sa'adabiya
+Sa'at
+Sa'ata
+Sa'dinfanti
+Sa'dān
+Sa'āda
+Sa'īd
+Saad ash Shafi'
+Saba'a
+Sabi' Dulayb
 Sabirta
 Sabu
-Sabun
 Sabun Gardia
+Sabīl
 Sadarna
-Sadarna Abu Klua
+Sadarna Abū Klua
 Sadarna en Nubi
-Sadasi
 Sadei
-Sadr al Hisan
+Sadāsi
 Safa
-Safarja
-Safi
 Safira
-Safiya
 Safura
 Sagai
 Sagha
 Sahaba
 Sahabaia
-Sahalat az Zarqa
+Sahalat az Zarqā
 Saheib
 Sahlat al Waykah
 Said Kassir
 Saiyala
 Sakali
-Sakarnaba
+Sakarnāba
 Sakini
 Sakramoj
 Salabra
 Salagi
-Salah ad Din
-Salalah
-Salama
-Salamat
-Salamat al Basha
 Salawa
 Sali
-Salim
-Salima
-Salimat Al `Aqib
 Salinga
 Salinga Abdallah
 Saljam
 Saljam al Kabira
 Sallara
-Salmiyah
-Salum
-Saluqi
+Salmīyah
+Salālah
+Salāma
+Salāmat al Bāshā
+Salāmāt
+Salīm
+Salīma
+Salīmat Al 'Āqib
+Salūm
+Salūqī
 Samandia
 Samareit
 Samasim
 Samat
-Sanadra
 Sanda
 Sandikoro
 Sandingu
@@ -4969,76 +5033,63 @@ Sannad
 Sannum
 Sanq at
 Sanqir
-Sanshundel
-Santat Saqr
-Saq an Na`am
+Sanādra
+Sanţat Şaqr
 Saqadi
 Saqadi Shariq
-Saqiyat al `Abd
 Saqqai
 Sara Nisirma
 Saraf
-Saraf Adday
+Saraf Aḑḑay
 Saraf Burubitto
-Saraf Fallata
+Saraf Fallāta
 Saraf Omra
-Saraf Sa`id
+Saraf Sa'īd
 Sarafaya
-Sarafayah
+Sarafāyah
 Saragia
-Sarah
-Sarahna
-Sarahu
 Sarambanga
-Sarar Baqar
-Sarar Fa'r
-Sarar Khayl
-Sarariyah
 Saras East
 Saras West
-Sarasir
 Sarat
 Saray al Hibeka
-Saraya
-Saraya Tamantashar
-Saraya `Amarat Wad Yusif
-Sarayat Ad Dibeba
-Sarayat Al Kashamir
 Sarayat Ash Shilekha
-Sarayat Kafi
-Sarayat Sha `Addin
-Sarayat `Abd Ar Rahman
-Sarayat an Niwela
-Sarayat at Tileh
+Sarayat aţ Ţileḩ
+Saraḩnā
+Saraḩu
 Sarelli
-Sarhan
 Sari
 Sarra East
 Sarra West
-Sarur al Qoz
+Sarār Baqar
+Sarār Fa'r
+Sarār Khayl
+Sarārīyah
+Sarāyat Ad Dibeba
+Sarāyat Al Kashāmir
+Sarūr al Qoz
+Sarḩān
 Saseib
 Satiya
-Satti
 Sauria
-Sawakin
 Sawala Magella
-Sawani
-Sawba Sharq
-Sawba at Tayyib
-Sawda'
-Sawda' Jadid
-Sawdiri
-Sawlil Al Barta
-Sawlil al Ashraf
+Sawbā Sharq
+Sawbā aţ Ţayyib
+Sawdirī
+Sawdā'
+Sawdā' Jadīd
+Sawlīl Al Barta
+Sawākin
+Sawānī
 Sayal Karem ed Den
-Saysaban
-Sayyah
+Saysabān
 Sayyal Karim ad Din
-Sayyal Siraj
-Sayyal al Faki Sa`d
-Sayyal el `Ababda
-Sayyalah
-Sayyidab
+Sayyal el 'Ababda
+Sayyidāb
+Sayyāl Sirāj
+Sayyāl al Fakī Sa'd
+Sayyālah
+Sayyāḩ
 Sedo
 Segargarri
 Seiger
@@ -5061,111 +5112,100 @@ Serir
 Serreih
 Serrha
 Seru
-Sesaban
 Sese
 Sewa Woga
 Sewera
 Seyeh
-Sha `Addin
-Shab`ana
+Shab'āna
 Shabakati Ireida
-Shabaki
-Shabanah
-Shabariqah
+Shabakī
 Shabasha
-Shabuna Salaha
-Shabuna al Miher
-Shadali
+Shabānah
+Shabāriqah
+Shabūna al Miher
 Shaddah
 Shaeira
-Shafi` `Abd Allah
+Shafi' 'Abd Allāh
 Shafia
 Shafuga
 Shagmal
 Shahadab
 Shahadabya
 Shalasha
-Shalla`uha aj Ja`aliyyin
-Shalla`uha al Khawalda
-Shallakhah
-Shallal
-Shalluf
-Shaluf
-Sham`un
+Shalla'uha aj Ja'aliyyīn
+Shalla'ūhā al Khawālda
+Shallākhah
+Shallāl
+Shallūf
+Sham'ūn
 Shamagatta
-Shamar
-Shamatikwan
 Shambat
 Shambata
-Shambati
 Shambau
-Shamiyyat Khalil
-Shamiyyat `Umar
-Shammam
+Shambātī
+Shammām
+Shamār
+Shamātikwān
 Shandi
-Shanfur
-Shanisha
+Shanfūr
 Shankuk
 Shaqq
+Shaqq 'Abd az 'Azīz
+Shaqq 'Umar
+Shaqq 'Īsá aş Şā'igh
 Shaqq Dhogeri
-Shaqq Hamad
-Shaqq Tayyib
-Shaqq `Abd az `Aziz
-Shaqq `Isa as Sa'igh
-Shaqq `Umar
-Shaqq al Basham
-Shaqq al Burah
+Shaqq al Bashām
+Shaqq al Būrah
 Shaqq al Gawad
-Shaqq al Hujaylij
-Shaqq al Jadid
+Shaqq al Jadīd
 Shaqq al Khadir
 Shaqq al Kitr
+Shaqq al Ḩujaylīj
 Shaqq an Nimr
+Shaqq Ţayyib
+Shaqq Ḩamad
 Shar Rafat
 Shara Shara
-Sharaf Ad Din
-Sharafa ash Shafi`
+Sharaf Ād Dīn
+Sharafa ash Shafī'
 Sharafah
-Sharafat
-Sharafat Najm ad Din
-Sharafat al Khawalda
+Sharafat Najm ad Dīn
+Sharafat al Khawālda
+Sharafāt
 Sharaka
 Sharanqul
-Sharara
 Sharaya
 Sharbawiya
-Sharif
-Sharif Barakat
-Sharif Miskin
-Sharif Ya`qub
-Sharif al Amin
 Sharom
 Sharrafat
 Sharrat
-Sharshar
+Sharshār
+Sharāra
+Sharīf
+Sharīf Barakāt
+Sharīf Miskīn
+Sharīf Ya'qūb
+Sharīf al Amīn
 Shasha
 Shasheina
-Shat
-Shatib
-Shatt
-Shattay
+Shattāy
 Shawa
 Shawa Safaha
 Shawai
-Shawish
-Shawri
-Shaybat
-Shaykh Hamid `Ata' Allah
-Shaykh Idris
-Shaykh Sharif
-Shaykh Tabaldiyah
-Shaykh Talhah
-Shaykh `Abd al Qadir
-Shaykh `Amarah
-Shaykh al Husayn
-Shaykh al Imam
+Shawrī
+Shaybāt
+Shaykh 'Abd al Qādir
+Shaykh 'Amārah
+Shaykh Idrīs
+Shaykh Sharīf
+Shaykh Tabaldīyah
+Shaykh al Imām
+Shaykh al Ḩusayn
 Shaykh at Tawm
-Shayqiyya
+Shaykh Ţalḩah
+Shaykh Ḩāmid 'Aţā' Allāh
+Shaţīb
+Shaţţ
 Shebatot
 Shebet Ardu
 Sheibula
@@ -5173,8 +5213,8 @@ Sheiga
 Sheikh Habibullah
 Sheikh Khamis
 Sheka
-Shekan
-Shekh `Ali
+Shekh 'Ali
+Shekān
 Shellal
 Shemeliab
 Shemkhiya
@@ -5187,8 +5227,6 @@ Shibarni
 Shibek
 Shidyab
 Shigaib
-Shihehit
-Shikar
 Shilleikh
 Shimi
 Shin Tashrab
@@ -5196,38 +5234,49 @@ Shinebo
 Shingil Tobaya
 Shintishrab
 Shiqela
-Shu`ayb
-Shu`aybat
+Shiḩeḩiţ
+Shu'ayb
+Shu'aybāt
 Shubra
 Shudaydah
-Shuhaytah
 Shukkaba
 Shukkaba Hamid
-Shukkaba Taha
+Shukkaba Ţāhā
 Shukri
-Shukriyah
 Shukrullah
-Shuqaya
+Shukrīyah
 Shuqayq
 Shuquq
 Shurab
-Shurayk Murjan
-Shurayk Nur
+Shurayk Murjān
+Shurayk Nūr
 Shurkela
 Shurri
-Shutaybah
 Shuwak
 Shuwayb
 Shuwayy
 Shuyein
+Shuţaybah
+Shuḩayţah
+Shā 'Addin
+Shābūna Salāha
+Shādali
+Shālūf
+Shāmiyyat 'Umar
+Shāmiyyat Khalīl
+Shānīsha
+Shāt
+Shāwīsh
+Shāyqiyya
+Shīkār
+Shūqāya
 Sibdu
-Sibelat
+Sibelāt
 Sibigga
 Sidek
 Sidrah
-Sifer
 Siga
-Sigeir Umm Sa`una
+Sigeir Umm Sa'una
 Sigiba
 Sigiro
 Sikera
@@ -5235,9 +5284,8 @@ Silek
 Silkhalaq
 Silo
 Simama
-Sinada
 Sinayra
-Sinetaya
+Sineţāya
 Singa
 Singeir
 Singeiwa
@@ -5246,14 +5294,14 @@ Sinkat
 Sinnar
 Sinnayn
 Sinsin
-Siraj
-Sirhan
-Sirri
+Sināda
+Sirrī
+Sirāj
+Sirḩān
 Sisi
 Sitteib
-Siwar
-Siwema
-Siyamtit Tisimit
+Siwār
+Siyāmtīt Tisimīt
 Soba
 Soba Gharb
 Sofaha
@@ -5268,102 +5316,93 @@ Soreino
 Sorr
 Sortot
 Su
-Su`ayfah
+Su'ayfah
 Suarda
 Subayq
-Sudayrah al Warraniyah
-Sufayyah
+Sudayrah al Warrānīyah
 Sufel 'Awen
 Suffara ad Dahra
-Sufi
-Sufra `Ali al Imam
-Sufrab
+Sufra 'Alī al Imām
 Sughaiyirun
 Sukabaranga
-Sukayranah
+Sukayrānah
 Suki
-Sulay`ah
+Sulay'ah
 Sulaym
-Sulaymaniyah
-Sulb al Bunayyah
-Sulb al Khawr
-Suleman
+Sulaymānīyah
+Sulemān
 Sullu
 Sulmi
-Sumayh
+Sumayḩ
 Sumazim
-Sunayt
+Sunayţ
 Sundu Ferdi
 Sune
 Suni
-Sunjikay
+Sunjikāy
 Suq Tiya
-Suq aj Jabal
-Suq`at al Jamal
-Suqayr
 Suqut
 Surayf
 Surayfah
-Surayriyah
+Surayrīyah
 Sureif
 Surgi
 Suri
 Suriba
 Surmungu
 Surni
-Surujiyah
-Surur
 Sururab East
-Suwab
+Surūjīyah
+Surūr
 Suwada
 Suwaqnu
-Suwayda'
-Ta`rifa
+Suwaydā'
+Sānshundēl
+Sāq an Na'ām
+Sāqiyat al 'Abd
+Sātti
+Sāwlīl al Ashrāf
+Sēsabān
+Sūq aj Jabal
+Ta'rifa
 Tab Al Diyya
-Tab az Zaraf
+Tab az Zarāf
 Taba
-Tabaldiyah
 Tabaldiyya
+Tabaldīyah
 Tabaqat
-Tabarib
-Tabarik
-Tabat
-Tabat 'Abu ad Dakhira
-Tabat 'Ar Kawit
-Tabat as Sabaha
 Tabbalat
 Tabbi Nyebbei
-Tabdon
+Tabdōn
 Tabi
 Tabofutoa
 Tabsa
 Tabuli
 Tabur
 Tabya
+Tabārīb
+Tabārīk
 Tadagamo
 Tadoro
 Taduka
 Tafantara
-Tafari
-Taftish Abu Juweli
-Taftish An Nadyana
+Taftish 'Abd Ar Raḩman
+Taftish Abu Juwēlī
+Taftish An Nadyāna
 Taftish As Sulemi
-Taftish Dirwish
+Taftish Dirwīsh
 Taftish Shakir
-Taftish Um `Uwed
-Taftish Wad Habboba
-Taftish Wad Sulfab
+Taftish Um 'Uwed
+Taftish Wad Sulfāb
 Taftish Wad al Bur
-Taftish `Abd Ar Rahman
-Taftish al Ra`ttaga
+Taftish Wad Ḩabbōba
+Taftish al Ra'ttaga
+Tafārī
 Tagelbo
 Tagga
-Tagug
-Taha
-Taha Idris
+Tagūg
 Tahamidta
 Tahamyam
-Tahir
 Tai es Sid
 Taila
 Taiyiba
@@ -5371,95 +5410,73 @@ Taiyiba el Huweires
 Tajba
 Tajilbo
 Tajmala
-Takal Bashir
 Takala
 Takala Khamsa
 Takalat Mirghani
-Takkal
-Takkal 'Ajbar
-Takkal Ab Ji`erina
-Takkal Al Lizeriq
-Takkal Berty
-Takkal Bushi
-Takkal Hanadnalla
-Takkal Ma`aqla
-Takkal Sharif
-Takkal Wad `Araq
 Takko
+Takkāl
+Takkāl 'Ajbar
+Takkāl Ab Ji'erīnā
+Takkāl Al Lizeriq
+Takkāl Berty
+Takkāl Būshi
+Takkāl Ma'āqla
+Takkāl Sharif
+Takkāl Wad 'Araq
+Takkāl Ḩanadnalla
 Takoi
-Takruri
-Taksabun
+Takrūrī
+Taksabūn
+Takāl Bashīr
 Talatashar Bijeja
-Talhah Ahmad
-Talhaya
 Tallo
 Talodi
 Talulus
+Talḩāya
 Tamada
 Tamar
 Tamaraila
 Tamaru
-Tambul
-Tamdin
+Tambūl
 Tamia
-Tamlika
+Tamlīka
 Tammari
-Tamray
+Tamrāy
 Tamum
-Tandalti
-Tandar
-Tandub
+Tandaltī
+Tandār
 Tangasi
 Tangasi ar Ru'ays
 Tanghasi
 Tangya
 Tanjikei
 Tannoba
-Tannub
 Tanqaru
-Tanta
 Tanzi
+Tanḑub
 Taqab
 Taqali
-Taqra`
+Taqra'
 Taraba
 Tarabo
-Taradona Muhammad
+Taradona Muḩammad
 Taragaga
 Tarambal
 Tarauni
-Tarawa
-Tarbana
-Tarfaya
 Taringa
 Tarjoak
 Tartar
 Tarwan
-Tase `Abd Assalam
 Taua Duldul
 Taudi
 Tauranga
 Taurei
 Tawarit
-Tawil
 Tawila
-Tawilah
-Tawkar
 Tawm Badr
-Tawm Bisharah
+Tawm Bishārah
 Tawur
-Taya
-Tayba
-Tayba Ash Shekh Al Qurashi
-Tayba Ash Shekh `Abd al Baqi
-Tayba Hasat Allah
-Tayba Kamal Ad Din
-Tayba al Qadlab
-Tayba al Qur`an
-Taybat al Bilelab
-Tayyibah
-Tayyibat Hamad an Nil
-Tayyibat Jabrin
+Taybat al Bilelāb
 Taziriba
 Tebeib Abu Kreiz
 Tebeldina
@@ -5491,53 +5508,47 @@ Tereida
 Terembi
 Terqis
 Tftesh aj Jidad
-Tftesh al Me`eliq
-Tha`alibah
-Thabit
-Thawani
+Tftesh al Me'eliq
+Tha'ālibah
+Thawāni
 Thumayd
-Thurayya
+Thurayyā
+Thābit
 Tibeldhiro
 Tibleeya
 Tieri
 Tigilden
 Tigintarong
 Tigla
-Tijur
-Tileha
+Tijūr
 Tilfit
 Timassi
 Timerein
 Timinar
-Tinah
 Tinari
 Tindil
 Tindimming
 Tini
 Tinniyat
 Tirba
-Tirefiyya
 Tirei
 Tirfid
 Tiringa
 Tiringo
 Tirkeldi
 Tirmul
-Tirsolik
+Tirsōlik
 Tirti
 Tirto
 Tiru
-Tis`a wa Tis`in Ray al Basatna
+Tis'a wa Tis'īn Ray al Basātna
 Tituripi
-Tiwal
-Tmantashar Wad Nayil
-Toba
+Tmanţashar Wad Nāyil
 Tobeing
 Tobreik
 Togari
 Togaza
-Togni
-Tokar
+Tokār
 Tolia
 Tomat
 Tombasi
@@ -5556,7 +5567,6 @@ Toqun
 Tor Labid
 Tora-Tonga
 Torai
-Torbina
 Toro
 Toro Keri
 Tosomi
@@ -5569,25 +5579,22 @@ Toye
 Tozi
 Trinkitat
 Tu
-Tudir
 Tuffalung
-Tufin
 Tugarar
 Tuhama
 Tukayl
-Tukaylat
+Tukaylāt
 Tukswana
 Tukultukul
 Tuldowa
 Tuleih el Gedei
 Tuleihaya
-Tulgreb
+Tulgrēb
 Tuli
 Tullus
 Tulu
 Tululu
 Tum Tum
-Tumat
 Tumbira
 Tumbo
 Tumbruku
@@ -5595,26 +5602,25 @@ Tumbus
 Tumko
 Tumria
 Tumsa
-Tunaydibah
+Tumāt
+Tunayḑibah
 Tundubai
 Tungarsa
 Tungaru
 Tungul
 Tunsa Fahal
 Tur
-Tur`at Daf
-Tur`at Tuwal
-Tur`at as Sulemi
+Tur'at Daf
+Tur'at as Sulemi
+Tur'at Ţuwāl
 Turab Karof
 Turab Mafi
-Turay`at al Masid
-Turdi
+Turay'at al Masīd
+Turdī
 Tureia
 Turgana
 Turgin
 Turgu
-Turis
-Turiyah
 Turju
 Turmana
 Turo
@@ -5623,198 +5629,220 @@ Turri
 Turru
 Turter
 Turunga
-Turuq
-Tuti
-Tuwayr
-Tuzi
 Twaru
+Tābat 'Ar Kāwīt
+Tāmdin
+Tāsē 'Abd Assalām
+Tāya
+Tīnah
+Tōba
+Tōgnī
+Tūdir
+Tūfīn
+Tūris
+Tūtī
+Tūzi
 Ubbe
 Udeid el Bashaqra
 Udu
 Ufud
 Ufud an Niweri
 Ugheibish
-Uhaymir
 Ulang
 Ulu
+Um 'Adāra
 Um 'Ajghem
-Um Ad Day
+Um 'Alaqa
+Um 'Ali
+Um 'Aqrab
+Um 'Aqārib
+Um 'Aţron
+Um 'Aţrūn
+Um 'Iriq
+Um 'Isher
+Um 'Ush Al Faki
+Um 'Ush Ash Shekh
+Um 'Uşfur
+Um 'Uḑām
+Um 'Ūd
+Um 'Ūd Wad Yaḩya
 Um An Nimer
-Um Arda
 Um Arkha
-Um As Wat
-Um Attiyur
-Um Ba`atut
-Um Ba`atut al Gharbiyya
-Um Ba`atut ash Sharqiyya
+Um Arḑa
+Um As Wāţ
+Um Aţţiyur
+Um Aḑ Ḑay
+Um Ba'atut
+Um Ba'atūt al Gharbiyya
+Um Ba'atūt ash Sharqiyya
 Um Badda
-Um Badir
-Um Bajbara
-Um Bambuna
-Um Barid
+Um Bambūna
 Um Basha
-Um Bayud
-Um Bessaw
-Um Bi`ebish
-Um Biru
+Um Bayuḑ
+Um Bessāw
+Um Bi'ebīsh
 Um Biwera
 Um Bol
-Um Bosha 'Abd Al Baqi
-Um Bosha As Siddiq
-Um Busa
-Um Dabakir
+Um Bādir
+Um Bājbāra
+Um Bārid
+Um Bīru
+Um Bōsha 'Abd Al Bāqi
+Um Bōsha Aş Şiddiq
+Um Būşa
+Um Dabākir
 Um Daghina
-Um Dahar
-Um Dakkat ad Dar
-Um Dakkat aj Ja`aliyyin
+Um Dakkat ad Dār
+Um Dakkat aj Ja'aliyyīn
 Um Dal Qam
 Um Dalalik
 Um Daleba
 Um Dam
 Um Daqarsi
 Um Daqnu
-Um Darrab
-Um Dasis
-Um Dawanban
-Um Dawwan Ban
-Um Dibekrat
+Um Dasīs
+Um Dibekrāt
 Um Dighena
 Um Dighenat
 Um Dighina
-Um Diresa
-Um Dites
+Um Ditēs
 Um Diweq
 Um Dom
-Um Durman
-Um Durman Fallata
-Um Duwana
-Um Duwana Allahamda
-Um Duwana Dabab
+Um Durmān
+Um Durmān Fallāta
 Um Duwena
-Um Fas
+Um Duwāna
+Um Duwānā Allaḩāmda
+Um Duwānā Ḑabāb
+Um Faş
 Um Hababa al Barta
-Um Hababa at Ta`aysha
-Um Hajar
-Um Halalif
-Um Hamad
-Um Hamra
-Um Hamrah
-Um Hanabel
-Um Hashima
+Um Hababa at Ta'āysha
+Um Hashīma
 Um Hassan
-Um Hayaya
 Um Hidehid
-Um Hijelija
-Um Hijer
-Um Hijlij
-Um Hijlija
-Um Hirezat
-Um Idenat
-Um Jadad
+Um Hijelīja
+Um Hijlīj
+Um Hijlīja
+Um Iḑenāt
 Um Jadla
-Um Jalala
+Um Jadād
+Um Jalāla
 Um Jar Al Gharbiyya
 Um Jar Ash Shirqiyya
-Um Jazira
+Um Jazīra
 Um Jinqil
-Um Jir
 Um Jires
 Um Jirew
 Um Jub
-Um Julud Barqu
-Um Julud `Arab
+Um Julūd 'Arab
+Um Julūd Barqu
 Um Jumut
-Um Jumut Shekh `Umar
+Um Jumuţ Shekh 'Umar
+Um Jīr
 Um Kadankawa
 Um Kakar
 Um Katti
 Um Kheren
-Um Kiterat
+Um Kiterāt
 Um Kiweka
-Um Korak
-Um Kura`
+Um Kurā'
 Um Kuweka
-Um La`ota
-Um Laham
-Um Maliha
-Um Marda
-Um Marha
-Um Marrahi Dubar
-Um Marrahi Hasan
-Um Marrahi Masa`ad
+Um Kōrāk
+Um La'ota
+Um Laḩam
+Um Maliḩa
+Um Marraḩi Dubār
+Um Marraḩi Hasan
+Um Marraḩi Masā'ad
 Um Marrih
-Um May`a
+Um Marḑa
+Um Marḩa
+Um May'a
 Um Muhanna
-Um Murrat
+Um Murrāt
 Um Najis
-Um Ni`am
-Um Nim
+Um Ni'ām
+Um Nīm
 Um Qad
-Um Qannas
-Um Qara`
+Um Qannās
+Um Qara'
 Um Qellu
-Um Qudur
+Um Qudūr
 Um Qumri
-Um Qurad
-Um Quta
-Um Rawiyya
-Um Rawiyya Zabarnu
+Um Qurād
+Um Qūta
 Um Reka
 Um Ribeq
 Um Rob
-Um Sa`id
-Um Salala
-Um Salim
+Um Rāwiyya
+Um Rāwiyya Zabarnu
+Um Sa'īd
+Um Salāla
+Um Salīm
 Um Sana
-Um Sanqur
-Um Sanqur al Kabira
-Um Sanqur al Lahamda
-Um Sanqur as Saghira
-Um Saq`a
-Um Sayyala
+Um Sayyāla
 Um Sela
-Um Shaba`
+Um Shaba'
 Um Shadar
-Um Shadida
+Um Shadīda
 Um Shambo
 Um Shijerat
-Um Shukkaba
+Um Shukkāba
 Um Shura
 Um Sidera
-Um Sile`a
-Um Sineta
-Um Sunut
-Um Suwar
-Um Takkal
-Um Talata
-Um Talha
-Um Talha aj Jadida
-Um Tarakish
-Um Teran
+Um Sineţa
+Um Sunuţ
+Um Suwār
+Um Takkāl
+Um Talāta
+Um Tarākīsh
+Um Terān
 Um Tikka
-Um Tirebat
+Um Tirebāt
 Um Turba
-Um Wizzin
-Um Za`af
+Um Wizzīn
+Um Za'af
 Um Zikra
-Um Ziyad
-Um `Adara
-Um `Alaqa
-Um `Ali
-Um `Aqarib
-Um `Aqrab
-Um `Atron
-Um `Atrun
-Um `Iriq
-Um `Isher
-Um `Ud
-Um `Ud Wad Yahya
-Um `Udam
-Um `Usfur
-Um `Ush Al Faki
-Um `Ush Ash Shekh
-Um`ud
+Um Ziyād
+Um Şanqūr
+Um Şanqūr al Kabīra
+Um Şanqūr al Laḩāmda
+Um Şanqūr aş Şaghīra
+Um Şaq'a
+Um Ţalḩa
+Um Ţalḩa aj Jadīda
+Um Ḑahar
+Um Ḑarrāb
+Um Ḑawanbān
+Um Ḑawwan Ban
+Um Ḑiresa
+Um Ḩajar
+Um Ḩalālīf
+Um Ḩamad
+Um Ḩamra
+Um Ḩamrah
+Um Ḩanābel
+Um Ḩayāya
+Um Ḩijer
+Um Ḩirezat
+Um Ṣile'a
+Um'ūd
 Umisi
+Umm 'Abd Allāh
+Umm 'Adara
+Umm 'Ajājah
+Umm 'Angareib
+Umm 'Asal
+Umm 'Asalah
+Umm 'Asha
+Umm 'Ishrīn
+Umm 'Iweboat
+Umm 'Usharah
+Umm 'Ushayrah
+Umm 'Ushūsh
+Umm 'Uwayd
+Umm 'Īdān
+Umm 'Īsá
 Umm Aghbash
 Umm Akash
 Umm Andaraba
@@ -5823,21 +5851,21 @@ Umm Aradu
 Umm Arda
 Umm Asaba
 Umm Atam
-Umm Ba`ashim
+Umm Ba'āshīm
 Umm Badda
 Umm Badr
-Umm Baghum
+Umm Baghūm
 Umm Barad
 Umm Bateih
 Umm Bawl
-Umm Bayda'
-Umm Bayniyah
+Umm Baynīyah
+Umm Bayḑā'
 Umm Beilit
 Umm Bel
 Umm Belgi
 Umm Berembeita
-Umm Bigeik `Abd al Qadir
-Umm Bishar
+Umm Bigeik 'Abd al Qādir
+Umm Bishār
 Umm Boim
 Umm Bughaylah
 Umm Bulli
@@ -5848,54 +5876,53 @@ Umm Buraysh
 Umm Burmah
 Umm Buru
 Umm Busa
-Umm Bushah
 Umm Buwayrah
 Umm Buweisa
+Umm Būshah
 Umm Cham Chaka
 Umm Chiachelli
 Umm Dabbah
-Umm Dabbi
-Umm Dabbus
+Umm Dabbī
+Umm Dabbūs
 Umm Dafog
 Umm Dafsi
 Umm Dakli
-Umm Dalil
+Umm Dalīl
 Umm Dam
 Umm Dama
 Umm Damir
 Umm Danga
 Umm Daraba
-Umm Dasis
+Umm Dasīs
 Umm Dawan Ban
 Umm Dawmah
 Umm Daymayn
 Umm Defeis
 Umm Degeilat
-Umm Deheir `Arid
+Umm Deheir 'Arid
 Umm Deibun
 Umm Deisis
 Umm Dereisa
 Umm Derota
 Umm Deseis
-Umm Dhibban
+Umm Dhibbān
 Umm Dibei
 Umm Digulgulaya
-Umm Dil`
 Umm Diti
 Umm Dobia
 Umm Dorota
 Umm Drafy
-Umm Dudah
 Umm Dueima
 Umm Dugulgulai
-Umm Duju
+Umm Dujū
 Umm Dukaykah
 Umm Dukhn
 Umm Dul
-Umm Durman
+Umm Durmān
 Umm Durraba
 Umm Dursoh
 Umm Duwaym
+Umm Dūdah
 Umm Einegba
 Umm Ereida
 Umm Erig
@@ -5920,63 +5947,49 @@ Umm Gerif
 Umm Gernanchok
 Umm Gerwa
 Umm Ghafur
-Umm Ghanim
 Umm Ghubayshah
 Umm Ghubeisha
-Umm Ghutays
+Umm Ghuţays
+Umm Ghānim
 Umm Gidir
 Umm Gub
 Umm Gullah Hajar
 Umm Gurnan Chak
 Umm Gurraba
 Umm Gurru
-Umm Habilah
-Umm Habub
-Umm Haffad
-Umm Hajar
-Umm Hajlij
+Umm Habīlah
+Umm Habūb
 Umm Hangoga
-Umm Hani
-Umm Hanjalah
-Umm Hanzal
-Umm Haraz
-Umm Harazat
-Umm Harr
-Umm Hasan
-Umm Hashab
-Umm Hashabah
-Umm Hashim Bakhit
 Umm Hashima
+Umm Hashāb
+Umm Hashābah
 Umm Hawsh
 Umm Hegliga
 Umm Higeina
-Umm Hijarah
 Umm Himera
 Umm Hiqen
-Umm Hitan
-Umm Hujayrah
-Umm Humayrah
 Umm Huwayd
+Umm Hānī
+Umm Hāshim Bakhīt
 Umm Inderaba
-Umm Jamalah
-Umm Jamina
-Umm Jannah
+Umm Jamālah
+Umm Jamīnā
+Umm Jannāḩ
 Umm Jimera
-Umm Jinah
-Umm Jugba
+Umm Jināḩ
+Umm Jugbā
 Umm Jun
 Umm Jurays
-Umm Ka`ib
+Umm Ka'ib
 Umm Kadais
 Umm Kaddadah
-Umm Kafur
 Umm Kamadu
-Umm Karabiq
+Umm Karābiq
 Umm Keddula
 Umm Kerein
 Umm Khameira
 Umm Khashmayn
-Umm Khayran
+Umm Khayrān
 Umm Khol
 Umm Kitoro
 Umm Kitrah
@@ -5984,27 +5997,28 @@ Umm Korak
 Umm Kowaro
 Umm Kuda
 Umm Kuraydim
-Umm Kurdus
+Umm Kurdūs
 Umm Kutayrah
-Umm La`ota
-Umm Laylayah
+Umm Kāfūr
+Umm La'ota
+Umm Laylāyah
 Umm Lebana
 Umm Leweiwisa
-Umm Luyunah
+Umm Luyūnah
 Umm Maghat
 Umm Marahik
-Umm Mardi
-Umm Matariq
+Umm Marḑī
 Umm Mattola
+Umm Maţāriq
 Umm Mireifina
-Umm Mufra`
+Umm Mufra'
 Umm Muherr
-Umm Mulayhah
+Umm Mulayḩah
 Umm Muraykah
-Umm Mushattir
+Umm Mushaţţir
 Umm Mushtura
-Umm Na`lah
-Umm Nalah
+Umm Na'lah
+Umm Nālah
 Umm Qadd
 Umm Qafalah
 Umm Qanatir
@@ -6012,51 +6026,51 @@ Umm Qantur
 Umm Qantura
 Umm Qaraqer
 Umm Qawzayn
-Umm Quhayfat
 Umm Quittiya
 Umm Qulaymah
 Umm Quneitir
-Umm Quray`ah Shuwayn
-Umm Quraynat
+Umm Quray'ah Shuwayn
+Umm Quraynāt
 Umm Qurein
-Umm Qurun
+Umm Qurūn
 Umm Quwayz
+Umm Quḩayfāt
 Umm Rabah
-Umm Radim
+Umm Radīm
 Umm Raha
-Umm Ramad
+Umm Ramād
 Umm Redami
 Umm Rob
 Umm Rog
 Umm Rub
-Umm Rukubah
+Umm Rukūbah
 Umm Rumaylah
 Umm Ruqaybah
 Umm Ruwaba
-Umm Sa`idah
+Umm Sa'īdah
 Umm Saffaia
-Umm Saga`un
+Umm Saga'un
 Umm Sagaaun
 Umm Sakeikini
 Umm Salman
-Umm Sant
-Umm Santah
+Umm Sanţ
+Umm Sanţah
 Umm Sarba
-Umm Sarir
+Umm Sarīr
 Umm Sawadib
-Umm Sawt
-Umm Sayyal
-Umm Sayyalah
+Umm Sawţ
+Umm Sayyāl
+Umm Sayyālah
 Umm Seilha
 Umm Seirin
 Umm Sekka
 Umm Seraih
 Umm Serdebba
-Umm Sere`ia
+Umm Sere'ia
 Umm Shajarah
-Umm Shalabiyah
-Umm Shalil
+Umm Shalabīyah
 Umm Shalkha
+Umm Shalīl
 Umm Shanaq
 Umm Shanashil
 Umm Shanqah
@@ -6070,62 +6084,61 @@ Umm Sherro
 Umm Shiba
 Umm Shigil
 Umm Shql
-Umm Shuhaytah
 Umm Shujayrah
 Umm Shunayshin
+Umm Shuḩayţah
 Umm Siado
 Umm Sikkina
 Umm Simeicho
-Umm Sinena
-Umm Sirhan
+Umm Sinēnā
+Umm Sirḩān
 Umm Subagha
-Umm Subbah
-Umm Sukaykinat
-Umm Sulay`ah
+Umm Sukaykīnāt
+Umm Sulay'ah
 Umm Sumaymah
 Umm Sumeima
-Umm Sunaybirah
-Umm Sunaytah
+Umm Sunayţah
 Umm Suneina
 Umm Sunta
-Umm Suqah
-Umm Surayhah
 Umm Suriba
+Umm Sūqah
 Umm Takali
 Umm Tambul
 Umm Tamra
-Umm Tarafayah
 Umm Tartara
 Umm Tasha
 Umm Tigeirat
 Umm Tissa
-Umm Tulayh
-Umm Tur`ah
-Umm Tuyur
-Umm Waraqat
+Umm Tur'ah
+Umm Waraqāt
 Umm Zariba
 Umm Zawjah
-Umm Zimam
-Umm `Abd Allah
-Umm `Adara
-Umm `Ajajah
-Umm `Angareib
-Umm `Asal
-Umm `Asalah
-Umm `Asha
-Umm `Idan
-Umm `Isa
-Umm `Ishrin
-Umm `Iweboat
-Umm `Usharah
-Umm `Ushayrah
-Umm `Ushush
-Umm `Uwayd
+Umm Zimām
 Umm en Nar
 Umm esh Sheikh
+Umm Şubbah
+Umm Şunaybīrah
+Umm Şurayḩah
+Umm Ţarafāyah
+Umm Ţulayḩ
+Umm Ţuyūr
+Umm Ḑil'
+Umm Ḩaffād
+Umm Ḩajar
+Umm Ḩajlīj
+Umm Ḩanjalah
+Umm Ḩanz̧al
+Umm Ḩarr
+Umm Ḩarāz
+Umm Ḩarāzāt
+Umm Ḩasan
+Umm Ḩijārah
+Umm Ḩujayrah
+Umm Ḩumayrah
+Umm Ḩīţān
 Ummari
 Ummat Sifi
-Ummat `Arifah
+Ummāt 'Arīfah
 Ungwatiri
 Uraydimah
 Urbi
@@ -6140,306 +6153,299 @@ Usinggirra
 Usli
 Uyer
 Uyur
-Wa`r
-Wa`rat az Zurq
+Uḩaymir
+Wa'r
+Wa'rat az Zurq
+Wad 'Abd Allah
+Wad 'Abdūn
+Wad 'Abid
+Wad 'Agib
+Wad 'Arabi
+Wad 'Arakī
+Wad 'Arud
+Wad 'Ashāna
+Wad 'Awwād
+Wad 'Ays
+Wad 'Ireki
+Wad 'Umar
+Wad 'Āmir
+Wad 'Āyid
+Wad 'Āyis
 Wad Ab Daqar
 Wad Ab Hajab
-Wad Ab Qussa Qirerisa
-Wad Ab Rakuba
+Wad Ab Quşşa Qirerīşa
+Wad Ab Rākūba
 Wad Abakr
-Wad Abu Ghazal
-Wad Abu Halimah
-Wad Abu Nahl
-Wad Abu Qunburah
-Wad Abu Sulayman
-Wad Abu `Ushar
-Wad Ad Daw
-Wad Adam
-Wad Afudi
+Wad Abu 'Ushar
+Wad Abū Ghazāl
+Wad Abū Naḩl
+Wad Abū Qunburah
+Wad Abū Sulaymān
+Wad Abū Ḩalīmah
+Wad Afūdi
 Wad Aj Jok
+Wad Al 'Asha
 Wad Al Asha
-Wad Al Basir
+Wad Al Başīr
 Wad Al Bilebli
-Wad Al Fadil
 Wad Al Fadni
-Wad Al Fas
-Wad Al Hamim
-Wad Al Hisen
+Wad Al Fās
+Wad Al Fāḑil
+Wad Al Hamīm
 Wad Al Kamil
-Wad Al Khidir
-Wad Al Lamin
+Wad Al Khiḑir
+Wad Al Lamīn
 Wad Al Majdi
-Wad Al Qawi
-Wad Al `Asha
+Wad Al Qawī
+Wad Al Ḩisen
 Wad Alamin
-Wad Alfadul
-Wad An Nora
-Wad An Nora Al Qadima
+Wad Alfaḑul
+Wad An Nōra
+Wad An Nōra Al Qadīma
 Wad As Sayyid
 Wad As Sayyid Sharq
-Wad Ash Shafi`i
+Wad Ash Shāfi'i
 Wad Asha
 Wad Ashqar
 Wad Ashshatir
 Wad Azraq
-Wad Ba `Ash Oq
-Wad Bahay
-Wad Bahr
+Wad Aḑ Ḑàw
+Wad Ba 'Ash Oq
+Wad Bahāy
 Wad Bakhet
-Wad Bakhit
+Wad Bakhīt
 Wad Bakr
-Wad Balahah
-Wad Balilah
+Wad Balaḩah
 Wad Balla
 Wad Ballu
+Wad Balīlah
 Wad Bandah
 Wad Baraka
 Wad Barona
-Wad Bashush
-Wad Bilal
+Wad Baḩr
+Wad Bilāl
 Wad Blolh
-Wad Budayri
+Wad Budayrī
 Wad Bur
 Wad Burayqah
 Wad Butru
-Wad Da'ud
-Wad Daf` Allah
+Wad Bāshūsh
+Wad Daf' Allāh
 Wad Dardab
-Wad Dayyif
 Wad Dayyuma
 Wad Debelaba
 Wad Dunabi
+Wad Dā'ūd
 Wad Esheib
-Wad Fadl Allah
 Wad Faraj Allah
+Wad Faḑl Allah
 Wad Ganofa
 Wad Gerf
-Wad Ghaluba
-Wad Ghannum
+Wad Ghalūba
+Wad Ghannūm
 Wad Haja
-Wad Halawi
-Wad Hamad
-Wad Hamadna Allah
-Wad Hamid
 Wad Hassib
 Wad Hassuna
-Wad Hilal
-Wad Himedan
-Wad Hisen
-Wad Husayn
-Wad Jabir
-Wad Jabr Allah
-Wad Jallab
-Wad Jalul
-Wad Jam`an
-Wad Jami`
-Wad Jarras
+Wad Jabr Allāh
+Wad Jallāb
+Wad Jalūl
+Wad Jam'ān
+Wad Jarrās
 Wad Juled
-Wad Jum`ah
+Wad Jum'ah
+Wad Jāmi'
 Wad Kabu
 Wad Kambu
-Wad Kamil
-Wad Karrar
+Wad Karrār
 Wad Keli
 Wad Ketuta
-Wad Khazin
-Wad Kher
+Wad Khazīn
+Wad Khēr
 Wad Kibish
 Wad Kirey
-Wad Kuku
 Wad Kusaybah
 Wad Kutna
-Wad Lazim
+Wad Kāmil
+Wad Kūkū
 Wad Lemeid
-Wad Madina
-Wad Maknun
+Wad Lāzim
+Wad Madīna
+Wad Maknūn
 Wad Malik
 Wad Maqbul
-Wad Marzuq
-Wad Matar
+Wad Marzūq
+Wad Maţar
 Wad Medani
 Wad Mereimi
 Wad Mokhtar
 Wad Muhayrah
-Wad Munqash
+Wad Munqāsh
 Wad Murdi
-Wad Musrah
+Wad Musraḩ
 Wad Muzammil
-Wad Nafi
+Wad Nafī
 Wad Nail
 Wad Nimir
-Wad Nu`man
-Wad Nur ad Dayim
-Wad Nurayn
+Wad Nu'mān
 Wad Nuwur
 Wad Nyala
+Wad Nūr ad Dāyim
+Wad Nūrayn
 Wad Qaranful
-Wad Qasid
-Wad Qasim
-Wad Qinjari
-Wad Qiyama
+Wad Qaşīd
+Wad Qinjāri
+Wad Qiyāma
 Wad Quseim
-Wad Ra`iyya as Suq
-Wad Rabi`a
-Wad Rabih
-Wad Rad Allah
-Wad Rahama
-Wad Rahum
-Wad Rawah
+Wad Qāsim
+Wad Ra'iyya as Sūq
+Wad Rabiḩ
+Wad Rabī'a
+Wad Raḩāma
+Wad Raḩūm
 Wad Rizq
-Wad Rukhays
-Wad Ruwaq
-Wad Sa`ad Allah
-Wad Sa`id
-Wad Sabil
+Wad Rukhayş
+Wad Ruwāq
+Wad Rād Allāh
+Wad Rāwah
+Wad Sa'ad Allah
+Wad Sa'īd
+Wad Sabīl
 Wad Salim
 Wad Sanad
-Wad Sarih
-Wad Sawi
 Wad Shabut
-Wad Shakkak
-Wad Shala`i
-Wad Sham`a
+Wad Shakkāk
+Wad Shala'i
+Wad Sham'a
 Wad Shamman
-Wad Shantur
+Wad Shantūr
 Wad Shawir
-Wad Shiletit
+Wad Shiletīt
 Wad Shinnina
 Wad Shummu
 Wad Sider
 Wad Sileman
 Wad Siqeda
-Wad Siwar
+Wad Siwār
 Wad Soltab
-Wad Sulfab
+Wad Sulfāb
 Wad Surayr
-Wad Tarfa
+Wad Sāriḩ
+Wad Sāwi
 Wad Tauli
-Wad Tawil
 Wad Toto
 Wad Umm Asamm
 Wad Usul
 Wad Wudaydah
-Wad Yusuf
-Wad Zarrug
-Wad Zarruq
+Wad Yūsuf
+Wad Zarrūg
+Wad Zarrūq
 Wad Zumur
-Wad `Abd Allah
-Wad `Abdun
-Wad `Abid
-Wad `Agib
-Wad `Amir
-Wad `Arabi
-Wad `Araki
-Wad `Arud
-Wad `Ashana
-Wad `Awwad
-Wad `Ayid
-Wad `Ayis
-Wad `Ays
-Wad `Ireki
-Wad `Umar
-Wad ab Bamna
+Wad ab Bāmna
 Wad ad Dagal
-Wad ad Daw'
-Wad aj Jalib
 Wad aj Jamal
-Wad aj Jamal al Magharba
+Wad aj Jamāl al Magharba
+Wad aj Jālib
+Wad al 'Abbās
+Wad al 'Ajūz
+Wad al 'Amrābi
+Wad al 'Aţāyā
+Wad al 'Ubayd
 Wad al Ageil
-Wad al Amin
 Wad al Ammas
+Wad al Amīn
 Wad al Bagha
-Wad al Bahija
+Wad al Bahīja
 Wad al Ballah
-Wad al Balulah
-Wad al Basal
+Wad al Balūlah
 Wad al Bayen
+Wad al Başal
 Wad al Bur
 Wad al Burr
-Wad al Faki
-Wad al Haddad
-Wad al Hadiq
-Wad al Haj
+Wad al Fakī
 Wad al Halengi
-Wad al Hilew
-Wad al Hindi
-Wad al Hulaywah
-Wad al Huri
+Wad al Hindī
+Wad al Hāj
 Wad al Kai
-Wad al Kashif
-Wad al Kawahla
+Wad al Kawāhla
 Wad al Kereil
-Wad al Khabir
+Wad al Khabīr
 Wad al Khesheidi
 Wad al Khidir
-Wad al Ku`
-Wad al Labib
-Wad al Ma`ak
-Wad al Mahi
+Wad al Kāshif
+Wad al Kū'
+Wad al Labīb
+Wad al Ma'ak
 Wad al Majzub
 Wad al Mansi
 Wad al Masallami
 Wad al Milesi
-Wad al Mudawwi
 Wad al Muher
-Wad al Murad
-Wad al `Abbas
-Wad al `Ajuz
-Wad al `Amrabi
-Wad al `Ataya
-Wad al `Ubayd
-Wad an Na`im
-Wad an Nasih
+Wad al Murād
+Wad al Muḑawwi
+Wad al Māḩi
+Wad al Ḩaddād
+Wad al Ḩilew
+Wad al Ḩulaywah
+Wad al Ḩādiq
+Wad al Ḩūrī
+Wad an Na'im
 Wad an Naw'
 Wad an Nayyal
-Wad an Nibehi
-Wad an Nijumi
-Wad an Nur
+Wad an Naşiḩ
+Wad an Nibeḩi
+Wad an Nijumī
+Wad an Nūr
 Wad ar Rukayn
-Wad as Sa`id
-Wad as Sarraf
-Wad as Simeh
-Wad as Subahi
+Wad as Sa'id
+Wad as Simeḩ
 Wad ash Shajarah
 Wad ash Shiqil
 Wad at Tays
-Wad at Turabi
-Wad az Zaki
+Wad at Turābī
+Wad az Zāki
+Wad aş Şarrāf
+Wad aḑ Ḑaw'
+Wad aṣ Ṣubāḩī
 Wad el Fadni
 Wad el Habashi
 Wad en Nur
 Wad esh Sheikh
-Wada`ah
+Wad Ādam
+Wad Ţarfa
+Wad Ţawīl
+Wad Ḑayyif
+Wad Ḩalāwi
+Wad Ḩamad
+Wad Ḩamadnā Allāh
+Wad Ḩimedān
+Wad Ḩisen
+Wad Ḩusayn
+Wad Ḩāmid
+Wada'ah
 Wadega
 Wadi Bushara
 Wadi Halfa
 Wadi Khalel
 Wadi Mora
-Wadi Raga
-Wadi Sayyidna
-Wadi Sha`ir
 Wagar
 Waghara
 Wagif
-Wahat Salimah
-Wahat an Nukhaylah
 Wahed
 Wailu
 Waiwai
 Wajage
-Wajwaj
+Wajwāj
 Wakara
 Walad Garbur
 Walad Sabir
 Walad el Balla
 Walla
 Wanna
-Waqif
 Wara
 Waral
 Warenga
-Warri
-Wastani
+Warrī
+Wasţānī
 Wata
 Wawa
 Wawissi
@@ -6450,7 +6456,6 @@ Wd Hajjam
 Weheshat
 Weigo
 Werni
-Widema
 Widn Barid
 Wimalowgila
 Wirim Bau
@@ -6459,256 +6464,249 @@ Wirwer
 Wista Umm Gellakamei
 Wited
 Wiwi
+Wiḑema
 Woddel Gafar
 Wona
 Wonchoi
 Wontwaig
 Wun Biok
 Wustara
-Ya`qub
+Wād Hilāl
+Wād Jābir
+Wādi Sha'īr
+Wādī Raga
+Wādī Sayyidnā
+Wāqif
+Wāḩat Salīmah
+Wāḩat an Nukhaylah
+Ya'qūb
 Yafila
 Yaguru
 Yaradda
-Yarru
-Yasin
 Yoyo
 Yunis
-Yunus
-Yusif
-Yusuf
-Yusuf Ahmad
-Za`afaya
+Yārru
+Yāsīn
+Yūnus
+Yūsif
+Yūsuf
+Yūsuf Aḩmad
+Za'afaya
 Zaghawa
 Zaghawi
 Zaheili
 Zakariyya
 Zakfero
-Zalatah
 Zalatay
+Zalaţah
 Zalingei
-Zallaq
+Zallāq
 Zalqa
 Zan Gamat
 Zankor
-Zannubah
+Zannūbah
 Zanqo
 Zaqalona
-Zaqalona Kanjara
-Zarafah
-Zarafi
-Zarami
-Zarqa' Hadidah
-Zarqa' Jamal ad Din
-Zawiyah
+Zaqalona Kanjāra
+Zarqā' Jamāl ad Dīn
+Zarqā' Ḩadīdah
+Zarāfah
+Zarāfī
+Zarāmi
 Zawni
 Zayd
-Zayd Da`ash
+Zayd Da'ash
 Zaydah
 Zayf
 Zeidab East
 Zeidab North
-Zeidab South
+Zeidāb South
 Zeifat
 Zeleita
 Zeleitaya
 Zenab
-Zindiya
 Zindiyya
 Zireqa
-Zirug
 Zolein
 Zoro
 Zoroq Korbab
 Zubera
 Zughani
-Zulaytah
+Zulayţah
 Zuli
 Zulumingtong
-Zumam
 Zumurka
+Zumām
 Zungah
-Zunqaha
-Zurayqa'
+Zunqaḩa
+Zurayqā'
 Zurga
 Zurq
-Zurzur
-`Abalanj
-`Abata
-`Abbas
-`Abbas `Abd Allah
-`Abbasiyah
-`Abbudah
-`Abd Aj Jalil
-`Abd Al Fadil
-`Abd Al Khallaq
-`Abd Al Majid
-`Abd Al Malik
-`Abd Al `Aziz
-`Abd Allah
-`Abd Allah Bashir
-`Abd Allah Kahli
-`Abd Allah Na'imah
-`Abd Allah `Ali
-`Abd Ar Rahman
-`Abd ad Da'im
-`Abd ad Dayim
-`Abd aj Jabbar
-`Abd al Banat
-`Abd al Baqi
-`Abd al Fadil
-`Abd al Ghaffar
-`Abd al Ghani
-`Abd al Hafiz
-`Abd al Karim
-`Abd al Khayr
-`Abd al Majid
-`Abd an Nur
-`Abd ar Rahman
-`Abd ar Rahman Subei
-`Abd ar Rasul
-`Abd ar Raziq
-`Abd ar Razzaq
-`Abd as Sadiq
-`Abd el Farrag
-`Abd el Qadir
-`Abdun
-`Abidin
-`Abidiya
-`Abka East
-`Abka West
-`Abri West
-`Adal
-`Adar
-`Adar al Gufr
-`Adila
-`Adlan Godat
-`Agab
-`Ahmad
-`Aj Jan
-`Ajab Allah
-`Ajajah
-`Ajban
-`Ajoba
-`Akashah
-`Akod
-`Alali
-`Alam al Huda
-`Alamara `Abd ar Rahim
-`Ali
-`Ali Hiyya
-`Amabah
-`Amar Jadid
-`Amara East
-`Amara Jaylani
-`Amara West
-`Amarah
-`Amarat Abu Sinn
-`Amarat Sabuni
-`Amarat `Ali
-`Amarat `Isa
-`Amarat al Khalifah
-`Amarat an Nefeidiya
-`Amriyah
-`Amud
-`Anqash
-`Aqab el Laban
-`Aqiq Kabir
-`Aqulah
-`Arab Hajj
-`Aradaya
-`Aradeba
-`Aradeib
-`Aradeiba
-`Aradeiba Anjah
-`Aradib
-`Arakiyin
-`Arbaji
-`Arid
-`Aris
-`Arsh al Yoi
-`Asalah
-`Asidah
-`Asir
-`Asula
-`Ati
-`Atmur
-`Atra
-`Atshanah
-`Attab East
-`Attab West
-`Awad Al `Alim
-`Awad Allah
-`Awadat
-`Awadiyah
-`Awama
-`Awrah
-`Ayn al Luwayqah
-`Aysh Barrah
-`Azazah
-`Aziza
-`Eilai
-`En Aj Jamal
-`Ibek
-`Id Aghabash
-`Id Aj Jim
-`Id Al Haj
-`Id Ash Shekh `Ali
-`Id Um `Ush
-`Id al Buram
-`Id al Weka
-`Id at Timed
-`Idan
-`Idd Al Hijelja
-`Idd al Ghanam
-`Idd al Guddeim
-`Idd al Khala
-`Idd al `Ud
-`Idd an Nabaq
-`Idd ed Dam
-`Idd el Halluf
-`Idd el Khirwi`
-`Idd es Semi
-`Ideda
-`Ifena
-`Iref Ad Dik
-`Irek
-`Ireqat
-`Isa Hamadayn
-`Isa Hasan
-`Iweda
-`Iwewa
-`Iyal Amin
-`Iyal Bakhit
-`Iyal Basharo
-`Iyal an Naji
-`Iyal an Nil
-`Iyal ash Shayn
-`Oda
-`Ojli
-`Radeba
-`Ubayd
-`Ubeidullah
-`Udayd
-`Udayrah
-`Ufaynah
-`Ujayjah
-`Ujaymi
-`Umar
-`Umarab
-`Unaynah
-`Uqadab
-`Uqud as Sayyalah
-`Uraq al Karallab
-`Uraq al Qala`ab
-`Urayqah
-`Urundi
-`Usayli
-`Usban
-`Ushara
-`Usharah
-`Utaysh
-`Utayshah
-`Uthman Farah
-`Uthman `Ali
-`Utqi aj Jabbarin
-`Uwaynah
+Zurzūr
+Zāwiyah
+Zīndīya
+Zīrug
+Āb Nāyiţ
+Ādam Bawsh
+Ājba
+Şabāḩ al Khayr
+Şadr al Ḩişān
+Şafiya
+Şafārja
+Şalāḩ ad Dīn
+Şaraya
+Şarayat Kāfi
+Şarāya 'Amārat Wad Yūsif
+Şarāya Tamanţashar
+Şarāyat 'Abd Ar Raḩman
+Şarāyat Shā 'Addin
+Şarāyat an Niwela
+Şarāşīr
+Şifer
+Şufayyah
+Şufrāb
+Şulb al Bunayyah
+Şulb al Khawr
+Şuq'at al Jamal
+Şuqayr
+Şuwab
+Şābūn
+Şāfī
+Şārah
+Şūfī
+Ţalḩah Aḩmad
+Ţannub
+Ţanţa
+Ţarbāna
+Ţarfaya
+Ţarāwa
+Ţawkar
+Ţawīl
+Ţawīlah
+Ţayba
+Ţayba Ash Shekh 'Abd al Bāqi
+Ţayba Ash Shekh Al Qurashi
+Ţayba Kamāl Ad Dīn
+Ţayba al Qadlāb
+Ţayba al Qur'ān
+Ţayba Ḩasat Allah
+Ţayyibah
+Ţayyibat Jabrīn
+Ţayyibat Ḩamad an Nīl
+Ţileḩa
+Ţirefiyya
+Ţiwāl
+Ţuruq
+Ţuwayr
+Ţābat
+Ţābat 'Abu ad Dakhīra
+Ţābat as Şabaḩa
+Ţāhir
+Ţāhā
+Ţāhā Idrīs
+Ţōrbīna
+Ţūrīyah
+ِAl Taif
+Ḑahar Jihena
+Ḑawwa
+Ḑiwewa
+Ḑuwābīn
+Ḩabīb
+Ḩabīb Allāh
+Ḩaddād
+Ḩafarah
+Ḩaffīr Makki
+Ḩafīr
+Ḩaj Aḩmad
+Ḩaj an Nūr
+Ḩajalah
+Ḩajar
+Ḩajar Gwira
+Ḩajar al 'Asal
+Ḩajar al Bayḑā'
+Ḩajjāz
+Ḩajlīj
+Ḩajlījah
+Ḩakawlāb
+Ḩalfā' Dughaym
+Ḩamad an Nīl
+Ḩamadnā Allāh
+Ḩamadtu Allāh
+Ḩamd Allāh
+Ḩamd as Sīd
+Ḩamdāb
+Ḩamdāb Abū 'Awaḑ Allāh
+Ḩammād Shuraym ad Dawm
+Ḩammādāb
+Ḩammādī
+Ḩamrat ash Shaykh
+Ḩamrat ash Shēkh aṣ Ṣūfi
+Ḩamrā'
+Ḩamīr
+Ḩantoby
+Ḩarā'iz
+Ḩarā'iz an Nefeidiya
+Ḩarāzah
+Ḩarāzah Ruqayyiqah
+Ḩasab Ad Dayim
+Ḩasab Allāh
+Ḩasab al Karīm
+Ḩasab ar Rasūl
+Ḩasan Kegeik
+Ḩasan al Ghazālī
+Ḩasan Ḩisen
+Ḩasanāb
+Ḩashish
+Ḩatrās Wad 'Arāki
+Ḩatrās al Ballāl
+Ḩawsh Faraneib
+Ḩawsh al Juruf
+Ḩawţah
+Ḩay Abu Nūra
+Ḩidayya
+Ḩilat Ḩamad
+Ḩilewa
+Ḩillat 'Abbās
+Ḩillat Al Faki
+Ḩillat Idrīs
+Ḩillat Salim
+Ḩimedān
+Ḩimera
+Ḩiredāna
+Ḩisen
+Ḩisen Ḩaj Muşţafa
+Ḩudayd Wad Shayb
+Ḩudayd ash Sharīfī
+Ḩufayrah
+Ḩujaylīj
+Ḩujayr
+Ḩujayrāt
+Ḩujjāj
+Ḩukūmah
+Ḩulaylah
+Ḩumarī
+Ḩumaydah
+Ḩumaydān
+Ḩumayr
+Ḩumayr Dirrah
+Ḩumayr Jābir
+Ḩumayr Koko
+Ḩumayr ar Ru'ūs
+Ḩumayyir
+Ḩumayyir Kurkāb
+Ḩummeda
+Ḩumrah
+Ḩurrah
+Ḩuzaymah
+Ḩājj 'Abd Allāh
+Ḩājj 'Umar
+Ḩājj Ibrāhīm
+Ḩājj Muḩammad Ibrāhīm
+Ḩājj Mūsá
+Ḩājj as Sīd
+Ḩājj aţ Ţāhir
+Ḩājjū Abū Qarn
+Ḩājjū al Uḩaymir
+Ḩāmid al 'Azab
+Ḩāmid aş Şūfī
+Ṣiwema
