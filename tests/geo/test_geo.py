@@ -256,7 +256,7 @@ class NormalizeCityTest(unittest.TestCase):
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, return_scores=False), expected)
-                self.assertEqual(normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected])
+                self.assertEqual(normalize_city(original, return_scores=True), [(city, country, 1.0) for city, country in expected])
 
     def test_multiple_matches(self):
         """
@@ -286,13 +286,13 @@ class NormalizeCityTest(unittest.TestCase):
                     ("San Jose", "United States"),
                 ],
             ),
-        ]  # ('San Jose', 'Argentina'), ('San Jose', 'Philippines'), ('San Jose', 'Spain'),
-        #               ('San Jose', 'United States'), ('San Jose', 'Costa Rica')
+        ]
+        
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
                 self.assertCountEqual(normalize_city(original, return_scores=False), expected)
                 self.assertCountEqual(
-                    normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected]
+                    normalize_city(original, return_scores=True), [(city, country, 1.0) for city, country in expected]
                 )
 
     def test_no_match(self):
@@ -315,7 +315,7 @@ class NormalizeCityTest(unittest.TestCase):
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, return_scores=False), expected)
-                self.assertEqual(normalize_city(original, return_scores=True), [(ci, co, 1.0) for ci, co in expected])
+                self.assertEqual(normalize_city(original, return_scores=True), [(city, country, 1.0) for city, country in expected])
 
     def test_close_match(self):
         """
@@ -334,8 +334,8 @@ class NormalizeCityTest(unittest.TestCase):
                     (city, country) for (city, country, score) in normalize_city(original, return_scores=True)
                 ]
                 self.assertIn(expected_cities, city_country_list)
-                id = city_country_list.index(expected_cities)
-                self.assertAlmostEqual(score_list[id], expected_scores, places=3)
+                cities_id = city_country_list.index(expected_cities)
+                self.assertAlmostEqual(score_list[cities_id], expected_scores, places=3)
 
     def test_not_close_enough_match(self):
         """
