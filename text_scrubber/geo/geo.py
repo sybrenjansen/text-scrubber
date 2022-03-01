@@ -88,14 +88,13 @@ def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple
 
 
 def normalize_city(
-    city: str, return_scores: bool = False, restrict_countries_or_code: Optional[Set] = None
-) -> List[Union[Tuple[List[str], str, float], Tuple[List[str], str]]]:
+    city: str, restrict_countries_or_code: Optional[Set] = None
+) -> List[Tuple[str, str, float]]:
     """
     Cleans up a city by string cleaning and performs some basic city lookups to get the canonical name.
 
     :param restrict_countries_or_code: countries code or their name to restrict search space
     :param city: City name.
-    :param return_scores: Whether to return match scores.
     :return: List of (city, country) candidates in canonical form.
     """
     # Clean city
@@ -131,8 +130,6 @@ def normalize_city(
                 capitalize_country = capitalize_geo_string(country)
                 candidates.append(
                     (capitalize_city, capitalize_country, 1.0)
-                    if return_scores
-                    else (capitalize_city, capitalize_country)
                 )
                 not_found = False
 
@@ -150,14 +147,9 @@ def normalize_city(
                     for best_match in best_matches:
                         candidates.append(
                             (best_match, capitalize_country, score)
-                            if return_scores
-                            else (best_match, capitalize_country)
                         )
 
-    if return_scores:
-        return sorted(candidates, key=lambda x: x[-1], reverse=True)
-    else:
-        return sorted(candidates, reverse=True)
+    return sorted(candidates, key=lambda x: x[-1], reverse=True)
 
 
 # Some common token replacements
