@@ -3,6 +3,7 @@ from collections import defaultdict
 from datetime import datetime
 from tqdm import tqdm
 from typing import List, Tuple, Dict, Optional, Set, Union
+import warnings
 
 from text_scrubber import TextScrubber
 from text_scrubber.io import read_resource_file, read_resource_pickle_file
@@ -102,6 +103,9 @@ def normalize_city(
 
     # restrict the countries search
     add_city_resources(restrict_countries_or_code)
+    if (_CITY_RESOURCES == {}):
+        warnings.warn("No valid country name to search for city!")
+        return []
     restricted_city_resources = {"country_code_to_country":dict(), "cities_per_country_map": dict()}
 
     # uppercase all items to make them case-insensitive
@@ -270,12 +274,13 @@ _STATE_RESOURCES = _get_state_resources()
 
 
 
-def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[str, Dict]:
+def _get_city_resources(restrict_countries_code: Optional[Set] = None, disable_progressbar: bool = True) -> Dict[str, Dict]:
     """
     Reads and parses city resource files.
 
     :param restrict_countries_code: Restrict the search space to this set of countries. If no country code is inserted,
     the function will load all countries.
+    :param disable_progressbar: disable or enable progressbar. Default is no progressbar (True)
     :return: Dictionary containing resources used for city normalization.
     """
     resources = dict()
@@ -293,7 +298,7 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[s
     # Get a map of cleaned city name to (city name, cleaned country). City names are not always unique. Some
     # countries here first have to be normalized
     resources["cities_per_country_map"] = defaultdict(dict)
-    for country_code, country in tqdm(country_code_to_country.items()):
+    for country_code, country in tqdm(country_code_to_country.items(), disable=disable_progressbar):
         cleaned_country = clean_country(country)
         cities = read_resource_file(__file__, f"resources/{country_code}.txt")
         for city in cities:
@@ -332,7 +337,7 @@ def add_city_resources(restrict_countries_or_code: Optional[Set] = None):
                 restrict_countries_or_code.remove(country.upper())
 
         if len(restrict_countries_or_code) != 0:
-            raise ValueError(f"The following strings are not country names or codes\n {restrict_countries_or_code}")
+            warnings.warn(f"The following strings are not country names or codes\n {restrict_countries_or_code}")
 
         # only call _get_city_resources for countries that are not already inside _CITY_RESOURCES
         if _CITY_RESOURCES != {}:
