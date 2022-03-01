@@ -88,11 +88,12 @@ def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple
 
 
 def normalize_city(
-    city: str, return_scores: bool = False
+    city: str, return_scores: bool = False, restrict_countries_or_code: Optional[Set] = None
 ) -> List[Union[Tuple[List[str], str, float], Tuple[List[str], str]]]:
     """
     Cleans up a city by string cleaning and performs some basic city lookups to get the canonical name.
 
+    :param restrict_countries_or_code: countries code or their name to restrict search space
     :param city: City name.
     :param return_scores: Whether to return match scores.
     :return: List of (city, country) candidates in canonical form.
@@ -100,12 +101,29 @@ def normalize_city(
     # Clean city
     cleaned_city = clean_city(city)
 
+    # restrict the countries search
+    add_city_resources(restrict_countries_or_code)
+    restricted_city_resources = {"country_code_to_country":dict(), "cities_per_country_map": dict()}
+
+    # uppercase all items to make them case-insensitive
+    restrict_countries_or_code = {item.lower() for item in restrict_countries_or_code}
+    if restrict_countries_or_code is not None:
+        for code, country in _CITY_RESOURCES["country_code_to_country"].items():
+            if code.lower() in restrict_countries_or_code or country.lower() in restrict_countries_or_code:
+                restricted_city_resources["country_code_to_country"][code] = country
+        for code, country in restricted_city_resources["country_code_to_country"].items():
+            restricted_city_resources["cities_per_country_map"][code.lower()] = \
+            _CITY_RESOURCES["cities_per_country_map"][code.lower()]
+            restricted_city_resources["cities_per_country_map"][country.lower()] = \
+            _CITY_RESOURCES["cities_per_country_map"][country.lower()]
+
+
     # Check if city is part of the known cities list
     candidates = []
     not_found = True
-    for country, cities_in_country in _CITY_RESOURCES["cities_per_country_map"].items():
+    for country, cities_in_country in restricted_city_resources["cities_per_country_map"].items():
         # This condition prevent from searching again in country codes
-        if country.upper() not in list(_CITY_RESOURCES["country_code_to_country"].keys()):
+        if len(country) > 2:
             all_cities = set(cities_in_country.keys())
             if cleaned_city in all_cities:
                 # capitalize the city name
@@ -120,22 +138,26 @@ def normalize_city(
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     if not_found:
-        for country, cities_in_country in _CITY_RESOURCES["cities_per_country_map"].items():
+        for country, cities_in_country in restricted_city_resources["cities_per_country_map"].items():
             # This condition prevent from searching again in country codes
-            if country.upper() not in list(_CITY_RESOURCES["country_code_to_country"].keys()):
+            if len(country) > 2:
                 city_match = find_closest_string(cleaned_city, cities_in_country)
                 if city_match:
                     best_matches, score = city_match
                     # capitalize the city name
                     best_matches = [capitalize_geo_string(best_match) for best_match in best_matches]
                     capitalize_country = capitalize_geo_string(country)
-                    candidates.append(
-                        (best_matches, capitalize_country, score)
-                        if return_scores
-                        else (best_matches, capitalize_country)
-                    )
+                    for best_match in best_matches:
+                        candidates.append(
+                            (best_match, capitalize_country, score)
+                            if return_scores
+                            else (best_match, capitalize_country)
+                        )
 
-    return sorted(candidates)
+    if return_scores:
+        return sorted(candidates, key=lambda x: x[-1], reverse=True)
+    else:
+        return sorted(candidates, reverse=True)
 
 
 # Some common token replacements
@@ -255,34 +277,6 @@ def _get_state_resources() -> Dict[str, Dict]:
 _STATE_RESOURCES = _get_state_resources()
 
 
-# TODO: this is the old version
-# def _get_city_resources() -> Dict[str, Dict]:
-#     """
-#     Reads and parses city resource files.
-#
-#     :return: Dictionary containing resources used for city normalization.
-#     """
-#     resources = dict()
-#
-#     # Get a map of cleaned city name to (capitalized city name, cleaned country). City names are not always unique. Some
-#     # countries here first have to be normalized
-#     resources['city_country_map'] = defaultdict(set)
-#     city_country_file = (line.split(", ") for line in read_resource_file(__file__, 'resources/cities_per_country.txt'))
-#     for canonical_country, city in city_country_file:
-#         cleaned_country = clean_country(canonical_country)
-#         if cleaned_country not in _COUNTRY_RESOURCES['cleaned_to_capitilized']:
-#             cleaned_country = [clean_country(country) for country in normalize_country(canonical_country)]
-#         else:
-#             cleaned_country = [cleaned_country]
-#         for country in cleaned_country:
-#             resources['city_country_map'][clean_city(city)].add((capitalize_geo_string(city), country))
-#
-#     # Generate trigrams for the cleaned states
-#     resources['cleaned_trigrams'] = {cleaned_city: get_trigram_tokens(cleaned_city)
-#                                      for cleaned_city in resources['city_country_map'].keys()}
-#
-#     return resources
-
 
 def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[str, Dict]:
     """
@@ -298,11 +292,6 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[s
     country_code_to_country = read_resource_pickle_file(__file__, "resources/country_code_map.p3")
 
     # filter dictionary of countries
-    if restrict_countries_code is not None and not all(
-        code in country_code_to_country.keys() for code in restrict_countries_code
-    ):
-        raise ValueError("contains some strings which are not country codes (capital letters)")
-
     if restrict_countries_code is not None:
         country_code_to_country = {
             key: value for key, value in country_code_to_country.items() if key in restrict_countries_code
@@ -325,12 +314,51 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None) -> Dict[s
     return resources
 
 
+_CITY_RESOURCES = dict()
+
+def add_city_resources(restrict_countries_or_code: Optional[Set] = None):
+    '''
+
+    :param restrict_countries_or_code: Only load the list of countries or country codes provided
+    :return:
+    '''
+    country_code_to_country = read_resource_pickle_file(__file__, "resources/country_code_map.p3")
+    global _CITY_RESOURCES
+
+    restrict_countries_code = None
+    if restrict_countries_or_code is not None:
+        # uppercase all items to make them case-insensitive
+        restrict_countries_or_code = {item.upper() for item in restrict_countries_or_code}
+        restrict_countries_code = set()
+        for code, country in country_code_to_country.items():
+            if code in restrict_countries_or_code:
+                restrict_countries_code.add(code)
+                restrict_countries_or_code.remove(code)
+
+            if country.upper() in restrict_countries_or_code:
+                restrict_countries_code.add(code)
+                restrict_countries_or_code.remove(country.upper())
+
+        if len(restrict_countries_or_code) != 0:
+            raise ValueError(f"The following strings are not country names or codes\n {restrict_countries_or_code}")
+
+        # only call _get_city_resources for countries that are not already inside _CITY_RESOURCES
+        if _CITY_RESOURCES != {}:
+            restrict_countries_code = [code for code in restrict_countries_code if code not in _CITY_RESOURCES["country_code_to_country"].keys()]
+
+        # If someone called the function on the same countries again it will pass this steps
+        if len(restrict_countries_code) != 0:
+            updates_city_resources = _get_city_resources(restrict_countries_code)
+
+            # update or write the _CITY_RESOURCES
+            if _CITY_RESOURCES != {}:
+                _CITY_RESOURCES["country_code_to_country"].update(updates_city_resources["country_code_to_country"])
+                _CITY_RESOURCES["cities_per_country_map"].update(updates_city_resources["cities_per_country_map"])
+            else:
+                _CITY_RESOURCES = updates_city_resources
+
+    else:
+        _CITY_RESOURCES = _get_city_resources()
+
+
 st = datetime.now()
-_CITY_RESOURCES = _get_city_resources(
-    {"AU", "AT", "FR", "IR", "CA", "US", "GB", "DE", "ZA", "AR", "PH", "ES", "CR", "KR", "CN", "JP", "IT"}
-)
-# TODO:
-#  - Loading the _CITY_RESOURCES['cities_per_country_map'] resource takes too long now (~50 seconds), so it should not
-#    load all the countries when imported, but on-the-fly when needed. We can add an additional function to pre-load
-#    everything, if a user desires (with optional tqdm progress bar)
-print("City resources:", datetime.now() - st)
