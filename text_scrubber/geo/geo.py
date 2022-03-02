@@ -10,12 +10,11 @@ from text_scrubber.io import read_resource_file, read_resource_pickle_file
 from text_scrubber.string_distance import find_closest_string, get_trigram_tokens, pattern_match
 
 
-def normalize_country(country: str, return_scores: bool = False) -> List[Union[Tuple[str, float], Tuple[str]]]:
+def normalize_country(country: str) -> List[Union[Tuple[str, float], Tuple[str]]]:
     """
     Cleans up a country by string cleaning and performs some basic country lookups to get the canonical name.
 
     :param country: Country string to clean.
-    :param return_scores: Whether to return match scores.
     :return: List of country candidates in canonical form. Optionally accompanied with match scores.
     """
     # Clean country
@@ -28,36 +27,35 @@ def normalize_country(country: str, return_scores: bool = False) -> List[Union[T
     # Check if country is part of the known countries list
     if cleaned_country in _COUNTRY_RESOURCES['cleaned_to_capitilized']:
         candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][cleaned_country]
-        return [(candidate, 1.0) if return_scores else candidate]
+        return [(candidate, 1.0)]
 
     # There's a number of known expansions/translations which can be applied. Check if we can find anything with that
     if cleaned_country in _COUNTRY_RESOURCES['replacements']:
         candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][_COUNTRY_RESOURCES['replacements'][cleaned_country]]
-        return [(candidate, 1.0) if return_scores else candidate]
+        return [(candidate, 1.0)]
 
     # Check if the country follows a certain country pattern
     known_country = pattern_match(country, _COUNTRY_RESOURCES['replacement_patterns'])
     if known_country:
         candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][known_country]
-        return [(candidate, 1.0) if return_scores else candidate]
+        return [(candidate, 1.0)]
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['cleaned_trigrams'])
     if country_match:
         best_matches, score = country_match
         candidates = (_COUNTRY_RESOURCES['cleaned_to_capitilized'][country] for country in best_matches)
-        return [(candidate, score) for candidate in candidates] if return_scores else list(candidates)
+        return [(candidate, score) for candidate in candidates]
 
     # No match found
     return []
 
 
-def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple[str, str, float], Tuple[str, str]]]:
+def normalize_state(state: str) -> List[Union[Tuple[str, str, float], Tuple[str, str]]]:
     """
     Cleans up a state by string cleaning and performs some basic state lookups to get the canonical name.
 
     :param state: State name or code.
-    :param return_scores: Whether to return match scores.
     :return: List of (state, country) candidates in canonical form.
     """
     # Clean state
@@ -66,7 +64,7 @@ def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple
     # Check if state is part of the known states list
     if cleaned_state in _STATE_RESOURCES['state_country_map']:
         candidates = _STATE_RESOURCES['state_country_map'][cleaned_state]
-        candidates = [(candidate, 1.0) for candidate in candidates] if return_scores else candidates
+        candidates = [(candidate, 1.0) for candidate in candidates]
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     else:
@@ -75,17 +73,14 @@ def normalize_state(state: str, return_scores: bool = False) -> List[Union[Tuple
             best_matches, score = state_match
             candidates = (candidate for state in best_matches
                           for candidate in _STATE_RESOURCES['state_country_map'][state])
-            candidates = [(candidate, score) for candidate in candidates] if return_scores else list(candidates)
+            candidates = [(candidate, score) for candidate in candidates]
         else:
             # No match found
             candidates = []
 
     # Return canonical form
-    if return_scores:
-        return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country], score)
+    return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country], score)
                       for (state, country), score in candidates)
-    else:
-        return sorted((state, _COUNTRY_RESOURCES['cleaned_to_capitilized'][country]) for state, country in candidates)
 
 
 def normalize_city(

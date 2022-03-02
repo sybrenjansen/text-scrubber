@@ -40,17 +40,16 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original, return_scores=False), expected)
-                self.assertEqual(normalize_country(original, return_scores=True), [(c, 1.0) for c in expected])
+                self.assertEqual(normalize_country(original), [(c, 1.0) for c in expected])
 
     def test_no_match(self):
         """
         If nothing matches it should return an empty list
         """
-        self.assertEqual(normalize_country('*', return_scores=False), [])
-        self.assertEqual(normalize_country('fooBar', return_scores=True), [])
-        self.assertEqual(normalize_country('New South Wales', return_scores=False), [])
-        self.assertEqual(normalize_country('Paris', return_scores=True), [])
+        self.assertEqual(normalize_country('*'), [])
+        self.assertEqual(normalize_country('fooBar'), [])
+        self.assertEqual(normalize_country('New South Wales'), [])
+        self.assertEqual(normalize_country('Paris'), [])
 
     def test_common_country_replacements(self):
         """
@@ -67,8 +66,7 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original, return_scores=False), expected)
-                self.assertEqual(normalize_country(original, return_scores=True), [(c, 1.0) for c in expected])
+                self.assertEqual(normalize_country(original), [(c, 1.0) for c in expected])
 
     def test_close_match(self):
         """
@@ -83,9 +81,8 @@ class NormalizeCountryTest(unittest.TestCase):
         for original, expected_countries, expected_scores in test_countries:
             with self.subTest(original=original, expected_countries=expected_countries,
                               expected_scores=expected_scores):
-                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
                 for (country, score), expected_country, expected_score in zip(
-                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                        normalize_country(original), expected_countries, expected_scores
                 ):
                     self.assertEqual(country, expected_country)
                     self.assertAlmostEqual(score, expected_score, places=3)
@@ -102,8 +99,7 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original in test_countries:
             with self.subTest(original=original):
-                self.assertEqual(normalize_country(original, return_scores=False), [])
-                self.assertEqual(normalize_country(original, return_scores=True), [])
+                self.assertEqual(normalize_country(original), [])
 
     def test_multiple_close_matches(self):
         """
@@ -117,9 +113,8 @@ class NormalizeCountryTest(unittest.TestCase):
         for original, expected_countries, expected_scores in test_countries:
             with self.subTest(original=original, expected_countries=expected_countries,
                               expected_scores=expected_scores):
-                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
                 for (country, score), expected_country, expected_score in zip(
-                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                        normalize_country(original), expected_countries, expected_scores
                 ):
                     self.assertEqual(country, expected_country)
                     self.assertAlmostEqual(score, expected_score, places=3)
@@ -137,9 +132,8 @@ class NormalizeCountryTest(unittest.TestCase):
         for original, expected_countries, expected_scores in test_countries:
             with self.subTest(original=original, expected_countries=expected_countries,
                               expected_scores=expected_scores):
-                self.assertEqual(normalize_country(original, return_scores=False), expected_countries)
                 for (country, score), expected_country, expected_score in zip(
-                        normalize_country(original, return_scores=True), expected_countries, expected_scores
+                        normalize_country(original), expected_countries, expected_scores
                 ):
                     self.assertEqual(country, expected_country)
                     self.assertAlmostEqual(score, expected_score, places=3)
@@ -162,8 +156,7 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected in test_states:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original, return_scores=False), expected)
-                self.assertEqual(normalize_state(original, return_scores=True), [(s, c, 1.0) for s, c in expected])
+                self.assertEqual(normalize_state(original), [(s, c, 1.0) for s, c in expected])
 
     def test_multiple_matches(self):
         """
@@ -176,17 +169,16 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected in test_states:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_state(original, return_scores=False), expected)
-                self.assertEqual(normalize_state(original, return_scores=True), [(s, c, 1.0) for s, c in expected])
+                self.assertEqual(normalize_state(original), [(s, c, 1.0) for s, c in expected])
 
     def test_no_match(self):
         """
         If nothing matches it should return an empty list
         """
-        self.assertEqual(normalize_state('*', return_scores=False), [])
-        self.assertEqual(normalize_state('fooBar', return_scores=True), [])
-        self.assertEqual(normalize_state('Brazil', return_scores=False), [])
-        self.assertEqual(normalize_state('Paris', return_scores=True), [])
+        self.assertEqual(normalize_state('*'), [])
+        self.assertEqual(normalize_state('fooBar'), [])
+        self.assertEqual(normalize_state('Brazil'), [])
+        self.assertEqual(normalize_state('Paris'), [])
 
     def test_close_match(self):
         """
@@ -200,9 +192,8 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected_states, expected_scores in test_states:
             with self.subTest(original=original, expected_states=expected_states, expected_scores=expected_scores):
-                self.assertEqual(normalize_state(original, return_scores=False), expected_states)
                 for (state, country, score), expected_state, expected_score in zip(
-                        normalize_state(original, return_scores=True), expected_states, expected_scores
+                        normalize_state(original), expected_states, expected_scores
                 ):
                     self.assertEqual((state, country), expected_state)
                     self.assertAlmostEqual(score, expected_score, places=3)
@@ -219,8 +210,7 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original in test_states:
             with self.subTest(original=original):
-                self.assertEqual(normalize_state(original, return_scores=False), [])
-                self.assertEqual(normalize_state(original, return_scores=True), [])
+                self.assertEqual(normalize_state(original), [])
 
     def test_multiple_close_matches(self):
         """
@@ -234,9 +224,8 @@ class NormalizeStateTest(unittest.TestCase):
         ]
         for original, expected_states, expected_scores in test_states:
             with self.subTest(original=original, expected_states=expected_states, expected_scores=expected_scores):
-                self.assertEqual(normalize_state(original, return_scores=False), expected_states)
                 for (state, country, score), expected_state, expected_score in zip(
-                        normalize_state(original, return_scores=True), expected_states, expected_scores
+                        normalize_state(original), expected_states, expected_scores
                 ):
                     self.assertEqual((state, country), expected_state)
                     self.assertAlmostEqual(score, expected_score, places=3)
