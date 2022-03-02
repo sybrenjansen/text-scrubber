@@ -7,6 +7,10 @@ Master
   :meth:`text_scrubber.geo.normalize_city` now optionally return the match scores
 - Fixed replacement patterns for normalizing countries
 - Few entries in country mapping updated
+0.2.1
+-----
+*(2022-03-02)*
+- Information about the cities in a country is loaded on the fly.
 
 0.2.0
 -----
