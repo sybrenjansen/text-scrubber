@@ -328,6 +328,19 @@ def add_city_resources(restrict_countries_or_code: Optional[Set] = None):
 
     restrict_countries_code = None
     if restrict_countries_or_code is not None:
+        # normalizing the names before adding their resources
+        temp_set = set()
+        for item in restrict_countries_or_code:
+            if len(item)>2: # make sure it is not a country code
+                normalized_country = normalize_country(item)
+                if len(normalized_country):
+                    temp_set.add(normalized_country[0][0])
+                else:
+                    temp_set.add(item.upper())
+            else:
+                temp_set.add(item.upper())
+        restrict_countries_or_code = temp_set
+
         # uppercase all items to make them case-insensitive
         restrict_countries_or_code = {item.upper() for item in restrict_countries_or_code}
         restrict_countries_code = set()
