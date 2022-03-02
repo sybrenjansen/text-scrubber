@@ -127,10 +127,11 @@ def normalize_city(
     for country, cities_in_country in restricted_city_resources["cities_per_country_map"].items():
         # This condition prevent from searching again in country codes
         if len(country) > 2:
-            all_cities = set(cities_in_country.keys())
-            if cleaned_city in all_cities:
-                # capitalize the city name
-                capitalize_city = capitalize_geo_string(cleaned_city)
+            # all_cities = set(cities_in_country.keys())
+            if cleaned_city in cities_in_country:
+                # return the exact name of the city
+                capitalize_city = cities_in_country[cleaned_city][1]
+                # capitalize the country name
                 capitalize_country = capitalize_geo_string(country)
                 candidates.append(
                     (capitalize_city, capitalize_country, 1.0)
@@ -142,11 +143,17 @@ def normalize_city(
         for country, cities_in_country in restricted_city_resources["cities_per_country_map"].items():
             # This condition prevent from searching again in country codes
             if len(country) > 2:
-                city_match = find_closest_string(cleaned_city, cities_in_country)
+                # provide the input that find_closest_string expect to see
+                city2cityname = dict()
+                city_country = dict()
+                for cityname, city_value in cities_in_country.items():
+                    city2cityname[cityname] = city_value[1]
+                    city_country[cityname] = city_value[0]
+                city_match = find_closest_string(cleaned_city, city_country)
                 if city_match:
                     best_matches, score = city_match
                     # capitalize the city name
-                    best_matches = [capitalize_geo_string(best_match) for best_match in best_matches]
+                    best_matches = [city2cityname[best_match] for best_match in best_matches]
                     capitalize_country = capitalize_geo_string(country)
                     for best_match in best_matches:
                         candidates.append(
@@ -303,7 +310,7 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None, disable_p
         cities = read_resource_file(__file__, f"resources/{country_code}.txt")
         for city in cities:
             cleaned_city = clean_city(city)
-            resources["cities_per_country_map"][cleaned_country][cleaned_city] = get_trigram_tokens(cleaned_city)
+            resources["cities_per_country_map"][cleaned_country][cleaned_city] = [get_trigram_tokens(cleaned_city), city]
 
         # Users can also supply a country code to get the country code :)
         resources["cities_per_country_map"][country_code.lower()] = resources["cities_per_country_map"][cleaned_country]
@@ -315,6 +322,7 @@ _CITY_RESOURCES = dict()
 
 def add_city_resources(restrict_countries_or_code: Optional[Set] = None):
     '''
+    Read and parse city resources for new countries added to restrict_countries_or_code
 
     :param restrict_countries_or_code: Only load the list of countries or country codes provided
     :return:

@@ -250,8 +250,8 @@ class NormalizeCityTest(unittest.TestCase):
         test_cities = [
             ("Booleroo", [("Booleroo", "Australia", 1)]),
             ("Leibnitz", [("Leibnitz", "Austria", 1)]),
-            ("ivry-sur-seine", [("Ivry Sur Seine", "France", 1)]),
-            ("Birjand", [("Birjand", "Iran", 1)]),
+            ("ivry-sur-seine", [("Ivry-sur-Seine", "France", 1)]),
+            ("Birjand", [("Bīrjand", "Iran", 1)]),
         ]
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
@@ -279,10 +279,10 @@ class NormalizeCityTest(unittest.TestCase):
             (
                 "San Jose",
                 [
-                    ("San Jose", "Argentina", 1),
-                    ("San Jose", "Costa Rica", 1),
+                    ("San José", "Argentina", 1),
+                    ("San José", "Costa Rica", 1),
                     ("San Jose", "Philippines", 1),
-                    ("San Jose", "Spain", 1),
+                    ("San José", "Spain", 1),
                     ("San Jose", "United States", 1),
                 ],
             ),
@@ -310,10 +310,10 @@ class NormalizeCityTest(unittest.TestCase):
         Suffixes ' si', ' ri' and ' dong' should be removed before matching
         """
         test_cities = [
-            ("wonju si", [("Wonju", "South Korea", 1)]),
-            ("Bucheon-si", [("Bucheon", "South Korea", 1)]),
+            ("wonju si", [("Wŏnju", "South Korea", 1)]),
+            ("Bucheon-si", [("Bucheon-si", "South Korea", 1)]),
             ("Zhaoqing dong", [("Zhaoqing", "China", 1)]),
-            ("Sillye I Ri", [("Sillye I", "South Korea", 1)]),
+            ("Sillye I Ri", [("Sillye I Ri", "South Korea", 1)]),
         ]
         for original, expected in test_cities:
             country_set = set()
@@ -365,10 +365,10 @@ class NormalizeCityTest(unittest.TestCase):
                     ("Sibol", "Philippines", 0.8),
                     ("Sibul", "Philippines", 0.8),
                     ("Siolo", "Italy", 0.8),
-                    ("Siou", "China", 0.889),
+                    ("Si'ou", "China", 0.889),
                     ("Sioux", "United States", 0.8),
-                    ("Siyoul", "South Korea", 0.909),
-                    ("Soul", "France", 0.889),
+                    ("Siyŏul", "South Korea", 0.909),
+                    ("Le Soul", "France", 0.889),
                     ("Stoul", "United Kingdom", 0.8),
                 ]
             ),
@@ -376,11 +376,11 @@ class NormalizeCityTest(unittest.TestCase):
                 "KIWI",
                 [
                     ("Kaiwei", "China", 0.8),
-                    ("Kii", "United States", 0.857),
+                    ("Ki'i", "United States", 0.857),
                     ("Kiwaki", "Japan", 0.8),
                     ("Koiwai", "Japan", 0.8),
                     ("Kiwit", "Philippines", 0.889),
-                    ("Kwi", "South Korea", 0.857),
+                    ("Kwi-dong", "South Korea", 0.857),
                 ]
             ),
         ]
