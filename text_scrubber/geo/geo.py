@@ -6,7 +6,7 @@ from typing import List, Tuple, Dict, Optional, Set, Union
 import warnings
 
 from text_scrubber import TextScrubber
-from text_scrubber.io import read_resource_file, read_resource_pickle_file
+from text_scrubber.io import read_resource_file, read_resource_json_file
 from text_scrubber.string_distance import find_closest_string, get_trigram_tokens, pattern_match
 
 
@@ -289,7 +289,7 @@ def _get_city_resources(restrict_countries_code: Optional[Set] = None, disable_p
     resources = dict()
 
     # Load map of country codes to countries
-    country_code_to_country = read_resource_pickle_file(__file__, "resources/country_code_map.p3")
+    country_code_to_country = read_resource_json_file(__file__, "resources/country_code_map.json")
 
     # filter dictionary of countries
     if restrict_countries_code is not None:
@@ -323,7 +323,7 @@ def add_city_resources(restrict_countries_or_code: Optional[Set] = None):
     :param restrict_countries_or_code: Only load the list of countries or country codes provided
     :return:
     '''
-    country_code_to_country = read_resource_pickle_file(__file__, "resources/country_code_map.p3")
+    country_code_to_country = read_resource_json_file(__file__, "resources/country_code_map.json")
     global _CITY_RESOURCES
 
     restrict_countries_code = None

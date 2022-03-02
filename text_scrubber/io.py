@@ -1,5 +1,5 @@
 import os
-import pickle
+import json
 from typing import Any, Generator
 
 
@@ -23,15 +23,15 @@ def read_resource_file(package_path: str, resource_name: str, strip: bool = True
         return lines
 
 
-def read_resource_pickle_file(package_path: str, resource_name: str) -> Any:
+def read_resource_json_file(package_path: str, resource_name: str) -> Any:
     """
-    Load a resource file using pickle
+    Load a resource file using json
 
     :param package_path: package path where the resource is located
     :param resource_name: path to the resource, relative from package
-    :return: Contents of the pickled file
+    :return: Contents of the jsoned file
     """
     # Read the document and remove comment lines
     resource_path = os.path.join(os.path.dirname(package_path), resource_name)
-    with open(resource_path, 'rb') as f:
-        return pickle.load(f)
+    with open(resource_path, 'r') as f:
+        return json.load(f)
