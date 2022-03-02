@@ -175,7 +175,8 @@ _GEO_TOKEN_MAP = {'afr': 'african',
                   'republik': 'republic',
                   'sint': 'saint',
                   'st': 'saint',
-                  'ter': 'territory'}
+                  'ter': 'territory',
+                  'territories': 'territory'}
 
 # We define the scrubber once so the regex objects will be compiled only once
 _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
