@@ -98,6 +98,19 @@ def normalize_city(
 
     # restrict the countries search
     add_city_resources(restrict_countries_or_code)
+    # normalize country names
+    temp_city_resources = set()
+    for item in restrict_countries_or_code:
+        if len(item) > 2:  # make sure it is not a country code
+            normalized_country = normalize_country(item)
+            if len(normalized_country):
+                temp_city_resources.add(normalized_country[0][0])
+            else:
+                temp_city_resources.add(item.upper())
+        else:
+            temp_city_resources.add(item.upper())
+    restrict_countries_or_code = temp_city_resources
+
     if (_CITY_RESOURCES == {}):
         warnings.warn("No valid country name to search for city!")
         return []
