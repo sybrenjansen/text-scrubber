@@ -73,7 +73,7 @@ Alattyán
 Albertirsa
 Albertirsai Tanyák
 Alcsimillérlapos
-Alcsútdoboz
+Alcsútdoboz, Altschutt
 Aldebrő
 Alfaritanya
 Alföldszállás
@@ -546,7 +546,7 @@ Balatonendréd
 Balatonendrédi Tanyák
 Balatonfenyves
 Balatonföldvár
-Balatonfüred
+Balatonfüred, Balatonfired
 Balatonfüred-fürdő
 Balatonfőkajár
 Balatonfőkajári Tanyák
@@ -924,7 +924,7 @@ Bezerédypuszta
 Bezi
 Bezsentó
 Beöthytanya
-Biatorbágy
+Biatorbágy, Bia, Torbágy
 Bibic
 Bibictódűlő
 Bicske
@@ -1234,9 +1234,9 @@ Budajenő
 Budakalász
 Budakeszi
 Budakeszierdő
-Budapest
+Budapest, Ofen-Pest, Budimpešta
 Budavölgyi Tanya
-Budaörs
+Budaörs, Jerša
 Budnyapuszta
 Bugac
 Bugacpusztaháza
@@ -1382,7 +1382,7 @@ Bárólak
 Bárómajor
 Bárótagtanya
 Básthytag
-Bátaapáti
+Bátaapáti, Apati
 Bátaszék
 Báthoritanya
 Báthorytanya
@@ -1391,7 +1391,7 @@ Bátmonostor
 Bátonyterenye
 Bátor
 Bátoritanya
-Bátorliget
+Bátorliget, Porháza Tanya
 Bátorszőlő
 Bátortanya
 Bátya
@@ -1420,7 +1420,7 @@ Békástanya
 Békástó
 Békénypuszta
 Békés
-Békéscsaba
+Békéscsaba, Bekeščaba
 Békésierdő
 Békésmajor
 Békésszentandrás
@@ -1455,7 +1455,7 @@ Bódistanya
 Bóditanya
 Bódoghtanya
 Bódvalenke
-Bódvarákó
+Bódvarákó, Rákó
 Bódvaszilas
 Bódytanya
 Bókaháza
@@ -1543,7 +1543,7 @@ Bűkút
 Cakódűlő
 Cakóháza
 Cece
-Cegléd
+Cegléd, Cegled
 Ceglédbercel
 Ceglédi Tanyák
 Ceglédi Úti Tanyák
@@ -2069,7 +2069,7 @@ Császárhegy
 Császárrét
 Császárréti Erdő
 Császártanya
-Császártöltés
+Császártöltés, Tschasartet
 Császártöltési Tanyák
 Csátalja
 Csátoldal
@@ -2226,7 +2226,7 @@ Daránypuszta
 Darázsdópuszta
 Daróczymajor
 Debercsény
-Debrecen
+Debrecen, Debrecin
 Debreceni Monostor
 Debréte
 Decs
@@ -2239,7 +2239,7 @@ Demeház
 Demeter
 Demeterpuszta
 Demetertanya
-Demjén
+Demjén, Deménd
 Demjénpuszta
 Demjéntanya
 Deménytanya
@@ -2258,7 +2258,7 @@ Derzsigát
 Derzstanya
 Derékhegy
 Dessewffytanya
-Deszk
+Deszk, Деска
 Deszki Tanyák
 Deszkáspuszta
 Deszkástanya
@@ -2399,12 +2399,12 @@ Drávacsepely
 Drávafok
 Drávagárdony
 Drávaiványi
-Drávakeresztúr
+Drávakeresztúr, Križevci
 Drávapalkonya
 Drávapiski
 Drávaszabolcs
 Drávaszerdahely
-Drávasztára
+Drávasztára, Starin
 Drávasztárai Tanya
 Drávatamási
 Drégelypalánk
@@ -2421,11 +2421,11 @@ Duka
 Dulovitspuszta
 Dulácskatanya
 Dunaalmás
-Dunabogdány
+Dunabogdány, Bogdan
 Dunadűlői Tanyák
 Dunaegyháza
 Dunaerdei Dűlő
-Dunafalva
+Dunafalva, Donaudorf
 Dunaföldvár
 Dunaharaszti
 Dunaharaszti Rév
@@ -2438,11 +2438,11 @@ Dunapart
 Dunapataj
 Dunaremete
 Dunaszeg
-Dunaszekcső
+Dunaszekcső, Seetschke
 Dunaszentbenedek
 Dunaszentbenedeki Tanyák
 Dunaszentgyörgy
-Dunaszentmiklós
+Dunaszentmiklós, Niklo
 Dunaszentpál
 Dunasziget
 Dunaszél
@@ -2450,12 +2450,12 @@ Dunatetétlen
 Dunavarsány
 Dunavecse
 Dunavecsei Tanya
-Dunaújváros
+Dunaújváros, Dunaujvaroš, Sztálinváros, Duna Pentele
 Dunánál
 Durahalom
 Durgótanya
 Dursttanya
-Dusnok
+Dusnok, Dusšnok
 Dusnokpuszta
 Duzzasztó-telep
 Dzsunyáktanya
@@ -2520,7 +2520,7 @@ Döbrésimalom
 Döbröce
 Döbrögpuszta
 Döbrököz
-Döbrönte
+Döbrönte, Dewrenten
 Döbröntepuszta
 Döbönkúti Dűlő
 Döbörhegy
@@ -2563,7 +2563,7 @@ Edde
 Edelény
 Edve
 Egedidűlő
-Eger
+Eger, Jegra
 Eger-puszta
 Egeralja
 Egeraracsa
@@ -2686,7 +2686,7 @@ Eskerennatanya
 Estemajor
 Eszenyőitanya
 Eszteregnye
-Esztergom
+Esztergom, Estergom
 Esztergályhorváti
 Eszterházypuszta
 Esztertanya
@@ -3222,7 +3222,7 @@ Gyimóti Tanya
 Gyolcs
 Gyomaendrőd
 Gyugy
-Gyula
+Gyula, Đula
 Gyulahalma
 Gyulahegy
 Gyulaháza
@@ -3255,7 +3255,7 @@ Gyöngyfa
 Gyöngytanya
 Gyöngyvirágos
 Gyöngyvirágszőllő
-Gyöngyös
+Gyöngyös, Đenđeš
 Gyöngyösfalu
 Gyöngyöshalász
 Gyöngyöshalászi Tanyák
@@ -3281,7 +3281,7 @@ Gyülevészimajor
 Gyümölcsös
 Gyüre
 Gyüretanya
-Győr
+Győr, Đer
 Győr-Szabadhegy
 Győrasszonyfa
 Győrffytanya
@@ -3345,7 +3345,7 @@ Gór
 Góripaptanya
 Göd
 Gödre
-Gödöllő
+Gödöllő, Gedele
 Gölle
 Göllénfa
 Gömörszőlős
@@ -3476,7 +3476,7 @@ Harmatostanya
 Harraymalom
 Harsány
 Harsányitanya
-Harta
+Harta, Hartau
 Hartsteinmajor
 Hathalmi Szőllők
 Hatház
@@ -3511,10 +3511,10 @@ Hegyesbori Legelő
 Hegyesbükk
 Hegyesd
 Hegyeshalmizugdűlő
-Hegyeshalom
+Hegyeshalom, Straß-Sommerein
 Hegyesitanya
 Hegyfalu
-Hegyháthodász
+Hegyháthodász, Hodis
 Hegyhátmaróc
 Hegyhátszentjakab
 Hegyhátszentmárton
@@ -3543,9 +3543,9 @@ Henese
 Henger-malom
 Hepp-Gináltanya
 Herceghalom
-Hercegkút
+Hercegkút, Trautsondorf
 Hercegmalom
-Hercegszántó
+Hercegszántó, Сантово, Santovo
 Hercegtag
 Hercegtanya
 Hercseghegy
@@ -3581,7 +3581,7 @@ Heszku Ferenc-tanya
 Hetefejércse
 Hetes
 Hetey László-tanya
-Hetvehely
+Hetvehely, Hetfehell
 Hetyefő
 Heves
 Hevesaranyos
@@ -3594,11 +3594,11 @@ Hidasnémeti
 Hidegkút
 Hidegoldal
 Hidegoltványos
-Hidegség
+Hidegség, Vedešin
 Hidegtanya
 Hidegvölgytanya
 Hidvégardó
-Himesháza
+Himesháza, Nimmersch
 Himesházi Puszta
 Himfamajor
 Himföld
@@ -3666,7 +3666,7 @@ Horváthtanya
 Horvátlövő
 Horvátnádalja
 Horváttanya
-Horvátzsidány
+Horvátzsidány, Hrvatski Židan
 Hossznakdűlő
 Hosszúberek
 Hosszúdűlő
@@ -3721,8 +3721,8 @@ Háromsarok
 Háromszög
 Háromágdűlő
 Hársasimalom
-Hárskút
-Hásságy
+Hárskút, Lindenbrunn
+Hásságy, Haschad
 Hásztanya
 Háyföldek
 Hédervár
@@ -3733,7 +3733,7 @@ Héthalom
 Hévíz
 Hévízgyörk
 Hídrét
-Hódmezővásárhely
+Hódmezővásárhely, Hodmezevašarhelj
 Hóduna
 Hódy Gusztáv-tanya
 Hódy Károly-tanya
@@ -3932,7 +3932,7 @@ Jászalsószentgyörgy
 Jászapáti
 Jászberény
 Jászboldogháza
-Jászdózsa
+Jászdózsa, Dósa
 Jászfelsőszentgyörgy
 Jászfényszaru
 Jászivány
@@ -3997,7 +3997,7 @@ Kalapostanya
 Kalaznó
 Kallómalom
 Kallósd
-Kalocsa
+Kalocsa, Kaloča
 Kalyditanya
 Kamaravölgyi Tanyák
 Kamerálistanya
@@ -4028,7 +4028,7 @@ Kapospula
 Kaposszekcső
 Kaposszerdahely
 Kaposszéplak
-Kaposvár
+Kaposvár, Kapošvar
 Kaposújlak
 Kapuvár
 Kapásdűlő
@@ -4100,7 +4100,7 @@ Kecel
 Kecerlyuba
 Kecskehágó-Petőrész
 Kecskekosártanya
-Kecskemét
+Kecskemét, Kečkemet
 Kecskemétitanya
 Kecskeri
 Kecskesziget
@@ -4210,7 +4210,7 @@ Keszeg
 Keszlerszőllő
 Keszlertanya
 Kesznyéten
-Keszthely
+Keszthely, Kesthelj
 Kesztölc
 Keszü
 Keszőhidegkút
@@ -4350,7 +4350,7 @@ Kishódos
 Kisigmánd
 Kisigrice
 Kisizsák
-Kisjakabfalva
+Kisjakabfalva, Jackfall
 Kisjákó
 Kisjárás
 Kiskapi
@@ -4479,7 +4479,7 @@ Kisvejke
 Kisvelence
 Kisvillongó
 Kisvágás
-Kisvárda
+Kisvárda, Kleinwardein
 Kisvártanya
 Kisvásárhely
 Kisvókonya
@@ -4537,7 +4537,7 @@ Komlóska
 Komoró
 Kompolt
 Komádi
-Komárom
+Komárom, Komarom, Comorn, Komorn
 Komáromitanya
 Komárváros
 Konctanya
@@ -4910,9 +4910,9 @@ Kőröshegy
 Kőrösimalom
 Kőrössytanya
 Kőröstetétlen
-Kőszeg
+Kőszeg, Keseg
 Kőszegdoroszló
-Kőszegfalva
+Kőszegfalva, Svábfalu
 Kőszegpaty
 Kőszegszerdahely
 Kőszárhegy
@@ -5125,7 +5125,7 @@ Lórév
 Lószegpuszta
 Lökösi Tanyák
 Lökösihatár
-Lövő
+Lövő, Német-Lövő
 Lövőpetri
 Lúzsok
 Lőcseszőllőtelep
@@ -5216,7 +5216,7 @@ Makád
 Makádi Tanyák
 Makáraljadűlő
 Makártanya
-Makó
+Makó, Mako
 Makói Határdűlő
 Maleckitanya
 Mallerd Fatelep
@@ -5429,7 +5429,7 @@ Mintatelep
 Misefa
 Miske
 Miskehegy
-Miskolc
+Miskolc, Miškolc
 Miskolctapolca
 Miskolczitanya
 Miszla
@@ -5449,7 +5449,7 @@ Mogyoróstag
 Moha
 Mohartelek
 Mohora
-Mohács
+Mohács, Mohač, Mohatsch
 Molaj Telep
 Mollermajor
 Molnaszecsőd
@@ -5477,7 +5477,7 @@ Morvaytanya
 Mosdós
 Mosolygószőllő
 Mosoniúti Tanyák
-Mosonmagyaróvár
+Mosonmagyaróvár, Mošonmađarovar, Wieselburg-Ungarisch Altenburg
 Mosonszentjánosi Tanyák
 Mosonszentmiklós
 Mosonszentmiklósi Tanyák
@@ -5603,7 +5603,7 @@ Mókakert
 Móliczkytanya
 Mónosbél
 Mónosokori Tanya
-Mór
+Mór, Moor
 Mórahalom
 Móricgát
 Mórichida
@@ -5710,7 +5710,7 @@ Nagyiván
 Nagyiváni Tanyák
 Nagyjápláni Major
 Nagykamarás
-Nagykanizsa
+Nagykanizsa, Velika Kanjiža
 Nagykapi
 Nagykapornak
 Nagykarróspuszta
@@ -5888,7 +5888,7 @@ Nemesvita
 Nemesvámos
 Nemesvámosi Tanyák
 Nemti
-Neszmély
+Neszmély, Nessmühl
 Neviczkytanya
 Nick
 Nikla
@@ -5908,7 +5908,7 @@ Nyakastanya
 Nyalka
 Nyavajkatanya
 Nyergesdűlő
-Nyergesújfalu
+Nyergesújfalu, Neudorf
 Nyerjesszőllő
 Nyesthegypuszta
 Nyestidűlő
@@ -5952,7 +5952,7 @@ Nyírbéltek
 Nyírcsaholy
 Nyírcsászári
 Nyírderzs
-Nyíregyháza
+Nyíregyháza, Njiređhaza
 Nyírestag
 Nyírgelse
 Nyírgyulaj
@@ -6038,7 +6038,7 @@ Okány
 Okányi Tanya
 Olajkútidűlő
 Olasz
-Olaszfa
+Olaszfa, kozmafa
 Olaszfalu
 Olaszliszka
 Olaszzug
@@ -6131,7 +6131,7 @@ Pamuk
 Pancadűlő
 Pankasz
 Pankotaitanya
-Pannonhalma
+Pannonhalma, Sankt Martinsberg
 Panyola
 Pap
 Pap Elek-tanya
@@ -6261,7 +6261,7 @@ Pilisszentiván
 Pilisszentkereszt
 Pilisszentlászló
 Pilisszántó
-Pilisvörösvár
+Pilisvörösvár, Werischwar
 Pillertanya
 Pincehely
 Pincelakás
@@ -6419,7 +6419,7 @@ Pámpuktelep
 Pánd
 Pántlikakaszáló
 Pányok
-Pápa
+Pápa, Papa
 Pápadereske
 Pápakovácsi
 Pápasalamon
@@ -6446,7 +6446,7 @@ Pázmándfalu
 Pázmándfalui Tanyák
 Pécel
 Péchytag
-Pécs
+Pécs, Pečuj
 Pécsbagota
 Pécsdevecser
 Pécsely
@@ -6740,7 +6740,7 @@ Sajóvelezd
 Sajóvámos
 Sajóörös
 Salföld
-Salgótarján
+Salgótarján, Šalgotarjan, Schalgau
 Salgótarjáni Szénbányák
 Salipuszta
 Salköveskút
@@ -6797,7 +6797,7 @@ Serestanya
 Sertéstelep
 Serényfalva
 Siegeltanya
-Siklós
+Siklós, Šikloš
 Siklósbodony
 Siklósnagyfalu
 Sikátor
@@ -6820,7 +6820,7 @@ Sisa
 Sitke
 Sivóföld
 Sióagárd
-Siófok
+Siófok, Šiofok
 Siójut
 Siópuszta
 Siórét
@@ -6882,7 +6882,7 @@ Somsaly
 Somssichmajor
 Sonkád
 Soponya
-Sopron
+Sopron, Ödenburg, Šopron
 Sopronhorpács
 Sopronkövesd
 Sopronnémeti
@@ -7054,7 +7054,7 @@ Szedertanya
 Szedres
 Szedres-dűlő
 Szedresi Telep
-Szeged
+Szeged, Segedin
 Szegeditanya
 Szegerdő
 Szegfűdűlő
@@ -7068,7 +7068,7 @@ Szeitztanya
 Szekerestanya
 Szekrenykepuszta
 Szekrényvölgy
-Szekszárd
+Szekszárd, Seksard
 Szeleiúti Tanyák
 Szelescsárda
 Szelestanya
@@ -7103,7 +7103,7 @@ Szentdomonkos
 Szentdénes
 Szente
 Szentegát
-Szentendre
+Szentendre, Sentandreja
 Szentes
 Szentespuszta
 Szentgotthárd
@@ -7200,7 +7200,7 @@ Szigetszentmárton
 Szigetszer
 Szigetszőllőstelep
 Szigettanya
-Szigetvár
+Szigetvár, Siget
 Szigetújfalu
 Szigliget
 Szihalom
@@ -7268,8 +7268,8 @@ Szoboszlaytanya
 Szoboszló
 Szoke-major
 Szokolya
-Szolnok
-Szombathely
+Szolnok, Solnok
+Szombathely, Sombathelj
 Szombatitanya
 Szomjasdűlő
 Szomjúhát
@@ -7361,7 +7361,7 @@ Székelyszabar
 Székelyszőllőtelep
 Székelytanya
 Székelytelep
-Székesfehérvár
+Székesfehérvár, Sekešfehervar
 Székkutas
 Székpart
 Széktói Hegy
@@ -7493,7 +7493,7 @@ Sármező
 Sármánpuszta
 Sárok
 Sárosd
-Sárospatak
+Sárospatak, Patak am Bodrog
 Sárostanya
 Sárpilis
 Sárrétudvari
@@ -7512,7 +7512,7 @@ Sáskás
 Sástelekdűlő
 Sástó-Kőbánya
 Sáta
-Sátoraljaújhely
+Sátoraljaújhely, Neustadt am Zeltberg, Šatoraljaujhelj
 Sátorhely
 Sávoly
 Sávolyi Major
@@ -7627,7 +7627,7 @@ Tass
 Tassonyitanya
 Taszár
 Tata
-Tatabánya
+Tatabánya, Tatabanja
 Tataháza
 Tatárszentgyörgy
 Tehenes
@@ -7955,7 +7955,7 @@ Tömpekert
 Tömörd
 Tömörkény
 Törtel
-Törökbálint
+Törökbálint, Großturwall
 Törökhalompuszta
 Törökhegy
 Törökkoppány
@@ -8069,7 +8069,7 @@ Vasad
 Vasadi Tanyák
 Vasalja
 Vasas
-Vasasszonyfa
+Vasasszonyfa, Asszonyfalva
 Vasastanya
 Vasboldogasszony
 Vasegerszeg
@@ -8085,7 +8085,7 @@ Vaspör
 Vasstanya
 Vassurány
 Vasszentmihály
-Vasszilvágy
+Vasszilvágy, Kétszilvágy
 Vasszécseny
 Vastag
 Vasvár
@@ -8134,7 +8134,7 @@ Verébtanya
 Verőce
 Vesszőstelep
 Veszkény
-Veszprém
+Veszprém, Vesprem, Wesprim
 Veszprémfajsz
 Veszprémgalsa
 Veszprémvarsány
@@ -8230,7 +8230,7 @@ Vonyarcvashegy
 Vonyitapuszta
 Vrányos
 Vukájtótanya
-Vác
+Vác, Vac
 Vácduka
 Vácegres
 Vácharaszt
@@ -8322,7 +8322,7 @@ Vének
 Vép
 Vérdűlő
 Vérmány
-Vértesacsa
+Vértesacsa, Atscha
 Vértesboglár
 Vérteskethely
 Vértesliget
@@ -8406,7 +8406,7 @@ Zalaboldogfa
 Zalabér
 Zalacsány
 Zalacséb
-Zalaegerszeg
+Zalaegerszeg, Zalaegerseg
 Zalaerdőd
 Zalagyömörő
 Zalahaláp
@@ -8512,7 +8512,7 @@ Zsáka
 Zsákos
 Zsámbok
 Zsámbokitanya
-Zsámbék
+Zsámbék, Schambeck
 Zsédeny
 Zsédértanya
 Zsényeitanya
@@ -8633,7 +8633,7 @@ Zöldágtanya
 Égéstanya
 Ékestanya
 Élestanya
-Érd
+Érd, Hamzsabég, Erd
 Éritanya
 Érpatak
 Érréve
@@ -8676,7 +8676,7 @@ Zöldágtanya
 Ószőllő
 Ósára
 Ótelek
-Ózd
+Ózd, Ozd
 Ózdfalu
 Öcs
 Öcsöd
@@ -8765,7 +8765,7 @@ Zöldágtanya
 Újlőrincfalva
 Újmajor
 Újmeszestelepek
-Újpetre
+Újpetre, Ratzpeter
 Újpuszta
 Újrakodó
 Újrónafő

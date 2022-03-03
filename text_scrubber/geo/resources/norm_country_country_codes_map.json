@@ -1,0 +1,664 @@
+{
+    "Afghanistan": [
+        "AF"
+    ],
+    "Albania": [
+        "AL"
+    ],
+    "Algeria": [
+        "DZ"
+    ],
+    "Andorra": [
+        "AD"
+    ],
+    "Angola": [
+        "AO"
+    ],
+    "Antarctica": [
+        "AQ"
+    ],
+    "Antigua and Barbuda": [
+        "AG"
+    ],
+    "Argentina": [
+        "AR"
+    ],
+    "Armenia": [
+        "AM"
+    ],
+    "Australia": [
+        "AU"
+    ],
+    "Austria": [
+        "AT"
+    ],
+    "Azerbaijan": [
+        "AZ"
+    ],
+    "Bahamas": [
+        "BS"
+    ],
+    "Bahrain": [
+        "BH"
+    ],
+    "Bangladesh": [
+        "BD"
+    ],
+    "Barbados": [
+        "BB"
+    ],
+    "Belarus": [
+        "BY"
+    ],
+    "Belgium": [
+        "BE"
+    ],
+    "Belize": [
+        "BZ"
+    ],
+    "Benin": [
+        "BJ"
+    ],
+    "Bhutan": [
+        "BT"
+    ],
+    "Bolivia": [
+        "BO"
+    ],
+    "Bosnia and Herzegovina": [
+        "BA"
+    ],
+    "Botswana": [
+        "BW"
+    ],
+    "Bouvet Island": [
+        "BV"
+    ],
+    "Brazil": [
+        "BR"
+    ],
+    "Brunei": [
+        "BN"
+    ],
+    "Bulgaria": [
+        "BG"
+    ],
+    "Burkina Faso": [
+        "BF"
+    ],
+    "Burundi": [
+        "BI"
+    ],
+    "Cambodia": [
+        "KH"
+    ],
+    "Cameroon": [
+        "CM"
+    ],
+    "Canada": [
+        "CA"
+    ],
+    "Cape Verde": [
+        "CV"
+    ],
+    "Central African Republic": [
+        "CF"
+    ],
+    "Chad": [
+        "TD"
+    ],
+    "Chile": [
+        "CL"
+    ],
+    "China": [
+        "CN",
+        "MO",
+        "TW"
+    ],
+    "Christmas Island": [
+        "CX"
+    ],
+    "Cocos Islands": [
+        "CC"
+    ],
+    "Colombia": [
+        "CO"
+    ],
+    "Comoros": [
+        "KM"
+    ],
+    "Congo": [
+        "CD",
+        "CG"
+    ],
+    "Costa Rica": [
+        "CR"
+    ],
+    "Croatia": [
+        "HR"
+    ],
+    "Cuba": [
+        "CU"
+    ],
+    "Cyprus": [
+        "CY"
+    ],
+    "Czech Republic": [
+        "CZ"
+    ],
+    "Denmark": [
+        "DK",
+        "FO",
+        "GL"
+    ],
+    "Djibouti": [
+        "DJ"
+    ],
+    "Dominica": [
+        "DM"
+    ],
+    "Dominican Republic": [
+        "DO"
+    ],
+    "East Timor": [
+        "TL"
+    ],
+    "Ecuador": [
+        "EC"
+    ],
+    "Egypt": [
+        "EG"
+    ],
+    "El Salvador": [
+        "SV"
+    ],
+    "Equatorial Guinea": [
+        "GQ"
+    ],
+    "Eritrea": [
+        "ER"
+    ],
+    "Estonia": [
+        "EE"
+    ],
+    "Ethiopia": [
+        "ET"
+    ],
+    "Federated States of Micronesia": [
+        "FM"
+    ],
+    "Fiji": [
+        "FJ"
+    ],
+    "Finland": [
+        "AX",
+        "FI"
+    ],
+    "France": [
+        "BL",
+        "FR",
+        "GF",
+        "GP",
+        "MQ",
+        "NC",
+        "PF",
+        "PM",
+        "RE",
+        "TF",
+        "WF",
+        "YT"
+    ],
+    "Gabon": [
+        "GA"
+    ],
+    "Gambia": [
+        "GM"
+    ],
+    "Georgia": [
+        "GE"
+    ],
+    "Germany": [
+        "DE"
+    ],
+    "Ghana": [
+        "GH"
+    ],
+    "Greece": [
+        "GR"
+    ],
+    "Grenada": [
+        "GD"
+    ],
+    "Guatemala": [
+        "GT"
+    ],
+    "Guinea": [
+        "GN"
+    ],
+    "Guinea Bissau": [
+        "GW"
+    ],
+    "Guyana": [
+        "GY"
+    ],
+    "Haiti": [
+        "HT"
+    ],
+    "Heard Island and McDonald Islands": [
+        "HM"
+    ],
+    "Honduras": [
+        "HN"
+    ],
+    "Hong Kong": [
+        "HK"
+    ],
+    "Hungary": [
+        "HU"
+    ],
+    "Iceland": [
+        "IS"
+    ],
+    "India": [
+        "IN"
+    ],
+    "Indonesia": [
+        "ID"
+    ],
+    "Iran": [
+        "IR"
+    ],
+    "Iraq": [
+        "IQ"
+    ],
+    "Ireland": [
+        "IE"
+    ],
+    "Israel": [
+        "IL"
+    ],
+    "Italy": [
+        "IT"
+    ],
+    "Ivory Coast": [
+        "CI"
+    ],
+    "Jamaica": [
+        "JM"
+    ],
+    "Japan": [
+        "JP"
+    ],
+    "Jordan": [
+        "JO"
+    ],
+    "Kazakhstan": [
+        "KZ"
+    ],
+    "Kenya": [
+        "KE"
+    ],
+    "Kiribati": [
+        "KI"
+    ],
+    "Kosovo": [
+        "XK"
+    ],
+    "Kuwait": [
+        "KW"
+    ],
+    "Kyrgyzstan": [
+        "KG"
+    ],
+    "Laos": [
+        "LA"
+    ],
+    "Latvia": [
+        "LV"
+    ],
+    "Lebanon": [
+        "LB"
+    ],
+    "Lesotho": [
+        "LS"
+    ],
+    "Liberia": [
+        "LR"
+    ],
+    "Libya": [
+        "LY"
+    ],
+    "Liechtenstein": [
+        "LI"
+    ],
+    "Lithuania": [
+        "LT"
+    ],
+    "Luxembourg": [
+        "LU"
+    ],
+    "Macedonia": [
+        "MK"
+    ],
+    "Madagascar": [
+        "MG"
+    ],
+    "Malawi": [
+        "MW"
+    ],
+    "Malaysia": [
+        "MY"
+    ],
+    "Maldives": [
+        "MV"
+    ],
+    "Mali": [
+        "ML"
+    ],
+    "Malta": [
+        "MT"
+    ],
+    "Marshall Islands": [
+        "MH"
+    ],
+    "Mauritania": [
+        "MR"
+    ],
+    "Mauritius": [
+        "MU"
+    ],
+    "Mexico": [
+        "MX"
+    ],
+    "Moldova": [
+        "MD"
+    ],
+    "Monaco": [
+        "MC"
+    ],
+    "Mongolia": [
+        "MN"
+    ],
+    "Montenegro": [
+        "ME"
+    ],
+    "Morocco": [
+        "MA"
+    ],
+    "Mozambique": [
+        "MZ"
+    ],
+    "Myanmar": [
+        "MM"
+    ],
+    "Namibia": [
+        "NA"
+    ],
+    "Nauru": [
+        "NR"
+    ],
+    "Nepal": [
+        "NP"
+    ],
+    "Netherlands": [
+        "AW",
+        "BQ",
+        "CW",
+        "MF",
+        "NL",
+        "SX",
+        "AN"
+    ],
+    "New Zealand": [
+        "CK",
+        "NU",
+        "NZ",
+        "TK"
+    ],
+    "Nicaragua": [
+        "NI"
+    ],
+    "Niger": [
+        "NE"
+    ],
+    "Nigeria": [
+        "NG"
+    ],
+    "Norfolk Island": [
+        "NF"
+    ],
+    "North Korea": [
+        "KP"
+    ],
+    "Norway": [
+        "NO",
+        "SJ"
+    ],
+    "Oman": [
+        "OM"
+    ],
+    "Pakistan": [
+        "PK"
+    ],
+    "Palau": [
+        "PW"
+    ],
+    "Palestine": [
+        "PS"
+    ],
+    "Panama": [
+        "PA"
+    ],
+    "Papua New Guinea": [
+        "PG"
+    ],
+    "Paraguay": [
+        "PY"
+    ],
+    "Peru": [
+        "PE"
+    ],
+    "Philippines": [
+        "PH"
+    ],
+    "Pitcairn": [
+        "PN"
+    ],
+    "Poland": [
+        "PL"
+    ],
+    "Portugal": [
+        "PT"
+    ],
+    "Qatar": [
+        "QA"
+    ],
+    "Romania": [
+        "RO"
+    ],
+    "Russia": [
+        "RU"
+    ],
+    "Rwanda": [
+        "RW"
+    ],
+    "Saint Kitts and Nevis": [
+        "KN"
+    ],
+    "Saint Lucia": [
+        "LC"
+    ],
+    "Saint Vincent": [
+        "VC"
+    ],
+    "Samoa": [
+        "WS"
+    ],
+    "San Marino": [
+        "SM"
+    ],
+    "Sao Tome and Principe": [
+        "ST"
+    ],
+    "Saudi Arabia": [
+        "SA"
+    ],
+    "Senegal": [
+        "SN"
+    ],
+    "Serbia": [
+        "RS",
+        "CS"
+    ],
+    "Seychelles": [
+        "SC"
+    ],
+    "Sierra Leone": [
+        "SL"
+    ],
+    "Singapore": [
+        "SG"
+    ],
+    "Slovakia": [
+        "SK"
+    ],
+    "Slovenia": [
+        "SI"
+    ],
+    "Solomon Islands": [
+        "SB"
+    ],
+    "Somalia": [
+        "SO"
+    ],
+    "South Africa": [
+        "ZA"
+    ],
+    "South Korea": [
+        "KR"
+    ],
+    "South Sudan": [
+        "SS"
+    ],
+    "Spain": [
+        "ES"
+    ],
+    "Sri Lanka": [
+        "LK"
+    ],
+    "Sudan": [
+        "SD"
+    ],
+    "Suriname": [
+        "SR"
+    ],
+    "Swaziland": [
+        "SZ"
+    ],
+    "Sweden": [
+        "SE"
+    ],
+    "Switzerland": [
+        "CH"
+    ],
+    "Syria": [
+        "SY"
+    ],
+    "Tajikistan": [
+        "TJ"
+    ],
+    "Tanzania": [
+        "TZ"
+    ],
+    "Thailand": [
+        "TH"
+    ],
+    "Togo": [
+        "TG"
+    ],
+    "Tonga": [
+        "TO"
+    ],
+    "Trinidad and Tobago": [
+        "TT"
+    ],
+    "Tunisia": [
+        "TN"
+    ],
+    "Turkey": [
+        "TR"
+    ],
+    "Turkmenistan": [
+        "TM"
+    ],
+    "Tuvalu": [
+        "TV"
+    ],
+    "Uganda": [
+        "UG"
+    ],
+    "Ukraine": [
+        "UA"
+    ],
+    "United Arab Emirates": [
+        "AE"
+    ],
+    "United Kingdom": [
+        "AI",
+        "BM",
+        "FK",
+        "GB",
+        "GG",
+        "GI",
+        "GS",
+        "IM",
+        "IO",
+        "JE",
+        "KY",
+        "MS",
+        "SH",
+        "TC",
+        "VG"
+    ],
+    "United States": [
+        "AS",
+        "GU",
+        "MP",
+        "PR",
+        "US",
+        "VI"
+    ],
+    "United States Minor Outlying Islands": [
+        "UM"
+    ],
+    "Uruguay": [
+        "UY"
+    ],
+    "Uzbekistan": [
+        "UZ"
+    ],
+    "Vanuatu": [
+        "VU"
+    ],
+    "Vatican City": [
+        "VA"
+    ],
+    "Venezuela": [
+        "VE"
+    ],
+    "Vietnam": [
+        "VN"
+    ],
+    "Western Sahara": [
+        "EH"
+    ],
+    "Yemen": [
+        "YE"
+    ],
+    "Zambia": [
+        "ZM"
+    ],
+    "Zimbabwe": [
+        "ZW"
+    ]
+}

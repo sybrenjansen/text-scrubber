@@ -212,7 +212,7 @@ Almersberg
 Almesberg
 Almhäuser
 Almosen
-Alpbach
+Alpbach, Альпбах
 Alpen
 Alpendorf
 Alpfahrt
@@ -419,7 +419,7 @@ Anras
 Anrath
 Anraun
 Ansfelden
-Antau
+Antau, Ottova
 Antenfeinhöfe
 Antersham
 Antershamerau
@@ -439,7 +439,7 @@ Anzfelden
 Anzing
 Apeding
 Apetig
-Apetlon
+Apetlon, Apátlan
 Apfaltersbach
 Apfelberg
 Apfeldorf
@@ -555,7 +555,7 @@ Attendorfberg
 Attenedt
 Attenreith
 Attersee
-Attnang-Puchheim
+Attnang-Puchheim, Атнанг-Пуххайм
 Atzbach
 Atzeldorf
 Atzelsdorf
@@ -705,7 +705,7 @@ Bachwinkl
 Backenreute
 Bad Aussee
 Bad Bleiberg
-Bad Blumau
+Bad Blumau, Бад-Блумау
 Bad Deutsch-Altenburg
 Bad Dürrnberg
 Bad Eisenkappel
@@ -729,9 +729,9 @@ Bad Pirawarth
 Bad Radkersburg
 Bad Sankt Leonhard im Lavanttal
 Bad Sauerbrunn
-Bad Schallerbach
+Bad Schallerbach, Бад-Шаллербах
 Bad Schönau
-Bad Tatzmannsdorf
+Bad Tatzmannsdorf, Бад-Тацмансдорф
 Bad Traunstein
 Bad Vellach
 Bad Volderwildbad
@@ -1051,7 +1051,7 @@ Braunsdorf
 Braunöd
 Brawinkl
 Brederis
-Bregenz
+Bregenz, Брегенц
 Breiningsdorf
 Breiningsham
 Breit
@@ -1066,7 +1066,7 @@ Breitenbach am Inn
 Breitenbach in der Weststeiermark
 Breitenberg
 Breitenbergham
-Breitenbrunn
+Breitenbrunn, Breitenbrunn am Neusiedler See
 Breitenbuch
 Breiteneich
 Breitenfeld
@@ -1122,7 +1122,7 @@ Bruck
 Bruck am Ostrong
 Bruck am Ziller
 Bruck an der Aschach
-Bruck an der Großglocknerstraße
+Bruck an der Großglocknerstraße, Bruck an der Glocknerstrasse
 Bruck an der Leitha
 Bruck an der Mur
 Bruck bei Tödling
@@ -1397,7 +1397,7 @@ Deutsch Hörschlag
 Deutsch Jahrndorf
 Deutsch Kaltenbrunn
 Deutsch Minihof
-Deutsch Schützen-Eisenberg
+Deutsch Schützen-Eisenberg, Német-Lő, Deutsch Schützen
 Deutsch Tschantschendorf
 Deutsch-Grutschen
 Deutsch-Haslau
@@ -1502,7 +1502,7 @@ Dobeinitz
 Doberhagen
 Dobermannsdorf
 Doberndorf
-Dobersberg
+Dobersberg, Dobersberg a.d. Thaya
 Dobersdorf
 Dobl
 Doblbach
@@ -1795,7 +1795,7 @@ Edelseeberg
 Edelsgraben
 Edelsgrub
 Edelsreith
-Edelstal
+Edelstal, Эдельсталь
 Edelstauden
 Eden
 Edenaichet
@@ -1958,7 +1958,7 @@ Eisdorf
 Eisecking
 Eisenaueralm
 Eisenberg
-Eisenberg an der Pinka
+Eisenberg an der Pinka, Cséke
 Eisenbergeramt
 Eisenbirn
 Eisenerz
@@ -1972,7 +1972,7 @@ Eisenhüttl
 Eisenlehen
 Eisenmühle
 Eisenreichs
-Eisenstadt
+Eisenstadt, Айзенштадт
 Eisenthal
 Eisentratten
 Eisenzicken
@@ -2332,7 +2332,7 @@ Feldbaum
 Feldegg
 Feldham
 Feldkirch
-Feldkirchen an der Donau
+Feldkirchen an der Donau, Feldkirchen a. d. Donau
 Feldkirchen bei Graz
 Feldkirchen bei Mattighofen
 Feldkirchen in Kärnten
@@ -2373,7 +2373,7 @@ Fernreith
 Fernstein
 Ferschnitz
 Festenburg
-Feuchten
+Feuchten, Feichten
 Feuermühl
 Feuersbrunn
 Feuranz
@@ -2494,7 +2494,7 @@ Forchach
 Forchauberg
 Forchaugraben
 Forchtenau
-Forchtenstein
+Forchtenstein, Forchtenau
 Fornach
 Forndorf
 Forst
@@ -2695,7 +2695,7 @@ Furth-Pfaffing
 Furthof
 Furtpoint
 Fusch an der Glocknerstraße
-Fuschl am See
+Fuschl am See, Фушль-ам-Зее
 Fuscht
 Fuß der Leber
 Fußach
@@ -2897,7 +2897,7 @@ Gaugsham
 Gauitsch
 Gauschitzberg
 Gausendorf
-Gaweinstal
+Gaweinstal, Gaunersdorf
 Gebersdorf
 Gebertsham
 Gebharts
@@ -2969,7 +2969,7 @@ Gerlas
 Gerlham
 Gerling
 Gerlitzen
-Gerlos
+Gerlos, Герлос
 Gerlosberg
 Germanns
 Gern
@@ -3448,7 +3448,7 @@ Grossmengersdorf
 Grossmitterberg
 Grossmotten
 Grossmutschen
-Grossmürbisch
+Grossmürbisch, Nagymedves
 Grossnagelberg
 Grossneusiedl
 Grosspertenschlag
@@ -3608,7 +3608,7 @@ Gruschitz
 Gruska
 Grutschen
 Gräbern
-Grän
+Grän, Грен
 Gränzing
 Gröbach
 Gröben
@@ -4016,18 +4016,18 @@ Halbturn
 Halden
 Haldensee
 Hall bei Admont
-Hall in Tirol
+Hall in Tirol, Халль-ин-Тироль
 Halldorf
 Hallegg
 Hallein
 Hallendorf
 Hallenstein
-Haller
+Haller, Haller am Haldensee
 Hallersdorf
 Hallmoos
 Hallschlag
 Hallseiten
-Hallstatt
+Hallstatt, Хальштат
 Halltal
 Hallwang
 Hallweg
@@ -4386,7 +4386,7 @@ Hinteralm
 Hinteranger
 Hinterberg
 Hinterbichl
-Hinterbrühl
+Hinterbrühl, Хинтербрюль
 Hinterbuch
 Hinterbuchholz
 Hinterburg
@@ -5694,7 +5694,7 @@ Kleinhöniggraben
 Kleinkadolz
 Kleinkainach
 Kleinkirchberg
-Kleinkirchheim
+Kleinkirchheim, Бад Клайнкирхгайм
 Kleinklein
 Kleinkrottenbach
 Kleinkrottendorf
@@ -5836,7 +5836,7 @@ Klopein am Klopeiner See
 Kloster
 Klosterberg
 Klostergraben
-Klostermarienberg
+Klostermarienberg, Klastrom
 Klosterneuburg
 Klugurber
 Klöch
@@ -6083,7 +6083,7 @@ Kreith
 Krejanzach
 Krempersbach
 Krems
-Krems an der Donau
+Krems an der Donau, Кремс-на-Дунае
 Kremsbrücke
 Kremschitz
 Kremsdorf
@@ -6508,7 +6508,7 @@ Langenrohr
 Langenschwand
 Langenschönbichl
 Langenstein
-Langental
+Langental, Langató
 Langenwang
 Langenwang Schwöbing
 Langenzersdorf
@@ -6619,7 +6619,7 @@ Lebing
 Lebl-Roith
 Lebmach
 Lebring
-Lech
+Lech, Лех
 Lechaschau
 Lechen
 Lechleiten
@@ -6737,7 +6737,7 @@ Lerchenfeld
 Lerchenreith
 Lerchenrotte
 Lerchfeld
-Lermoos
+Lermoos, Лермос
 Lerschen
 Lerz
 Lesach
@@ -6807,7 +6807,7 @@ Liedtberg
 Liedweg
 Liemberg
 Liembleck
-Lienz
+Lienz, Линц
 Liergl
 Lierzberg
 Liesberg
@@ -6851,7 +6851,7 @@ Lindenlach
 Lindenthal
 Linder
 Lindet
-Lindgraben
+Lindgraben, Sopron-Hársfalva
 Lindgrub
 Lindham
 Lindhof
@@ -6904,7 +6904,7 @@ Lobersberg
 Lobming
 Lobmingberg
 Loch
-Lochau
+Lochau, Lochau am Bodensee
 Lochdobl
 Lochen
 Lochitz
@@ -7212,7 +7212,7 @@ Maria Luggau
 Maria Neustift
 Maria Ponsee
 Maria Rain
-Maria Raisenmarkt
+Maria Raisenmarkt, Raisenmarkt bei Alland
 Maria Roggendorf
 Maria Saal
 Maria Schmolln
@@ -7351,7 +7351,7 @@ Mayr zu Derndorf
 Mayrberg
 Mayrdörfl
 Mayrhof
-Mayrhofen
+Mayrhofen, Zillertal
 Mayrhofer
 Mayrwinkl
 Mechters
@@ -7709,7 +7709,7 @@ Muthmannsdorf
 Mutten
 Muttendorf
 Mutterbergalm
-Mutters
+Mutters, Муттерс
 Muttersberg
 Muttling
 Mutzenfeld
@@ -7885,7 +7885,7 @@ Natternbach
 Natternberg
 Natters
 Natzing
-Nauders
+Nauders, Наудерс
 Navis
 Naßweg
 Neader
@@ -7948,7 +7948,7 @@ Neudling
 Neudorf
 Neudorf an der Mur
 Neudorf bei Ilz
-Neudorf bei Landsee
+Neudorf bei Landsee, Kis-Újfalu
 Neudorf bei Mooskirchen
 Neudorf bei Parndorf
 Neudorf bei Sankt Johann ob Hohenburg
@@ -8064,7 +8064,7 @@ Neustift im Mühlkreis
 Neustift im Stubaital
 Neustiftgraben
 Neusüßenbrunn
-Neutal
+Neutal, Nyujtál
 Neutersdorf
 Neuthaures
 Neutillmitsch
@@ -8718,7 +8718,7 @@ Oberpinswang
 Oberpirkach
 Oberplank
 Oberplöttbach
-Oberpodgoria
+Oberpodgoria, Podgoria
 Oberpramau
 Oberprambach
 Oberpreitenegg
@@ -8860,7 +8860,7 @@ Obertilliach
 Obertraberg
 Obertrattbach
 Obertrattnach
-Obertraun
+Obertraun, Обертраун
 Obertreffing
 Obertresleinsbach
 Obertressen
@@ -9141,7 +9141,7 @@ Parbasdorf
 Pargatstetten
 Parisdorf
 Parkfried
-Parndorf
+Parndorf, Парндорф
 Parschallen
 Parschalling
 Parschlug
@@ -9264,7 +9264,7 @@ Perndorf
 Perneck
 Pernedt
 Pernegg
-Pernegg an der Mur
+Pernegg an der Mur, Pernegg
 Pernersdorf
 Pernerstorf
 Pernerstätt
@@ -9282,7 +9282,7 @@ Perschenegg
 Persching
 Perschling
 Persenbeug
-Pertisau
+Pertisau, Пертизау
 Pertitschach
 Pertlstein
 Pertmannshub
@@ -9364,7 +9364,7 @@ Pfarrhof
 Pfarrhofheuberg
 Pfarrhofsberg
 Pfarrkirchen bei Bad Hall
-Pfarrkirchen im Mühlkreis
+Pfarrkirchen im Mühlkreis, Pfarrkirchen
 Pfarrsdorf
 Pfarrwerfen
 Pfeiferberg
@@ -10071,7 +10071,7 @@ Ramplach
 Rams
 Ramsach
 Ramsau
-Ramsau am Dachstein
+Ramsau am Dachstein, Ramsau
 Ramsau im Zillertal
 Ramsberg
 Ramsebn
@@ -10149,7 +10149,7 @@ Rattenberg
 Rattendorf
 Rattensam
 Rattersberg
-Rattersdorf
+Rattersdorf, Rőt
 Ratting
 Ratzell
 Ratzenbach
@@ -10580,7 +10580,7 @@ Roseldorf
 Rosenau
 Rosenau Dorf
 Rosenau Schloss
-Rosenau am Hengstpass
+Rosenau am Hengstpass, Rosenau am Hengstpaß
 Rosenau am Sonntagberg
 Rosenbach
 Rosenberg
@@ -10607,7 +10607,7 @@ Rossberg
 Rossbruck
 Rossegg
 Rosshütte
-Rossleithen
+Rossleithen, Roßleithen
 Rossschläg
 Rostatt
 Rostock
@@ -10701,11 +10701,11 @@ Ruppgegend
 Ruprechting
 Ruprechtsberg
 Ruprechtshofen
-Russbach
+Russbach, Rußbach
 Russbach am Pass Gschütt
-Russbachsaag
+Russbachsaag, Rußbachsaag
 Russdorf
-Rust
+Rust, Руст
 Rust im Tullnerfeld
 Rustenfeld
 Rutschen
@@ -10872,7 +10872,7 @@ Sankt Egyden
 Sankt Erhard
 Sankt Filippen
 Sankt Florian
-Sankt Florian am Inn
+Sankt Florian am Inn, Санкт-Флориан-ам-Инн
 Sankt Frein
 Sankt Gallen
 Sankt Gallenkirch
@@ -10946,7 +10946,7 @@ Sankt Kathrein
 Sankt Kathrein am Hauenstein
 Sankt Kathrein am Offenegg
 Sankt Kathrein am Offenegg II Viertel
-Sankt Kathrein im Burgenland
+Sankt Kathrein im Burgenland, Szent-Katalin
 Sankt Kind
 Sankt Klementen
 Sankt Kollmann
@@ -10978,7 +10978,7 @@ Sankt Lorenzen ob Murau
 Sankt Luzia
 Sankt Magdalen
 Sankt Magdalena
-Sankt Magdalena am Lemberg
+Sankt Magdalena am Lemberg, Sankt Magdalena
 Sankt Marein
 Sankt Marein bei Graz
 Sankt Marein bei Graz-Umgebung
@@ -11020,9 +11020,9 @@ Sankt Michael
 Sankt Michael am Bruckbach
 Sankt Michael am Zollfeld
 Sankt Michael im Burgenland
-Sankt Michael im Lungau
+Sankt Michael im Lungau, St Michael im Lungau
 Sankt Michael in Obersteiermark
-Sankt Michael ob Bleiburg
+Sankt Michael ob Bleiburg, Sankt Michael, Smihel nad Pliberkom
 Sankt Michael ob der Gurk
 Sankt Niklas an der Drau
 Sankt Nikola
@@ -11063,7 +11063,7 @@ Sankt Peter in der Au Markt
 Sankt Peter ob Judenburg
 Sankt Peter-Freienstein
 Sankt Primus
-Sankt Pölten
+Sankt Pölten, Pölten, Санкт-Пёльтен, St. Pölten
 Sankt Quirin
 Sankt Radegund
 Sankt Radegund bei Graz
@@ -11113,7 +11113,7 @@ Sankt Vinzenz
 Sankt Walburgen
 Sankt Willibald
 Sankt Wolfgang
-Sankt Wolfgang im Salzkammergut
+Sankt Wolfgang im Salzkammergut, Санкт-Вольфганг-им-Зальцкаммергут
 Sappl
 Saps
 Saraberg
@@ -11280,7 +11280,7 @@ Scheiblingstein
 Scheiblwies
 Scheibrand
 Scheideldorf
-Scheifling
+Scheifling, Шайфлинг
 Scheiterboden
 Scheitz
 Schelesnitz
@@ -11680,7 +11680,7 @@ Schönausiedlung
 Schönbach
 Schönberg
 Schönberg an der Lassnitz
-Schönberg im Stubaital
+Schönberg im Stubaital, Шёнберг
 Schönberg-Lachtal
 Schönbergneustift
 Schönbichl
@@ -11758,7 +11758,7 @@ Seeham
 Seekirchen am Wallersee
 Seekopf
 Seel
-Seelach am Klopeinersee
+Seelach am Klopeinersee, Seelach
 Seeleiten
 Seerotte
 Seeschlacht
@@ -11828,7 +11828,7 @@ Sengstatt
 Sennhof
 Senning
 Serai
-Serfaus
+Serfaus, Зерфаус
 Sernau
 Sertschach
 Setzberg
@@ -12086,7 +12086,7 @@ Spörbichl
 Spöttling-Taurer
 Srajach
 Srejach
-St Anton am Arlberg
+St Anton am Arlberg, Saint Anton
 St. Egyden am Steinfeld
 St. Georgen am Längsee
 St. Martin of Tennengebirge
@@ -12468,7 +12468,7 @@ Stripfing
 Stritting
 Stritzing
 Stritzling
-Strobl
+Strobl, Штробль
 Stroham
 Strohdorf
 Stroheim
@@ -12522,7 +12522,7 @@ Stölzles
 Stössing
 Stött
 Stötten
-Stöttera
+Stöttera, Stodra
 Stöttham
 Stübegg
 Stübinggraben
@@ -12571,7 +12571,7 @@ Söchau
 Söcking
 Södingberg
 Sögerberg
-Sölden
+Sölden, Solden
 Sölden an der Straß
 Söll
 Söllheim
@@ -12649,7 +12649,7 @@ Taxach
 Taxachhöfe
 Taxberg
 Taxen
-Taxenbach
+Taxenbach, Таксенбах
 Taxenbacher-Fusch
 Taxham
 Taxlberg
@@ -12709,7 +12709,7 @@ Thalheim
 Thalheim bei Wels
 Thaling
 Thall
-Thallack
+Thallack, Tallak
 Thallacken
 Thallein
 Thallern
@@ -12971,7 +12971,7 @@ Tschirnig
 Tschrestal
 Tschriet
 Tschrietes
-Tschurndorf
+Tschurndorf, Czundra
 Tschwarzen
 Tschöran
 Tuderschitz
@@ -13026,7 +13026,7 @@ Türnau
 Türnberg
 Türnitz
 Türtsch
-Uberackern
+Uberackern, Überacken
 Uberrandberg-Stellberg
 Uderns
 Ufer
@@ -13041,7 +13041,7 @@ Ulmerfeld
 Ulmich
 Ulreichsberg
 Ulrichs
-Ulrichsberg
+Ulrichsberg, Ульрихсберг
 Ulrichsbrunn
 Ulrichschlag
 Ulrichskirchen
@@ -13158,7 +13158,7 @@ Unterdöbernitzen
 Unterdörfl
 Unterdürnbach
 Unterdürrwien
-Untere Drassnitz
+Untere Drassnitz, Unterdraßnitz
 Untere Fellach
 Untere Glan
 Untere Höfen
@@ -13586,7 +13586,7 @@ Unterweidach
 Unterweidlham
 Unterweinberg
 Unterweissbach
-Unterweissenbach
+Unterweissenbach, Unterweißenbach
 Unterweitersdorf
 Unterweitrag
 Unterweizberg
@@ -13704,7 +13704,7 @@ Viellehen
 Vielsassing
 Vielweg
 Viendorf
-Vienna
+Vienna, Відень, Wien
 Vierhöf
 Vierlings
 Viermaiern
@@ -13847,7 +13847,7 @@ Vöcklatal
 Vögelitz
 Vögelsberg
 Vögen
-Völkermarkt
+Völkermarkt, Фёлькермаркт
 Völking
 Völkrahof
 Völlegg
@@ -14243,7 +14243,7 @@ Weißenbach an der Enns
 Weißenbach bei Liezen
 Weißenbauer
 Weißenberg
-Weißenkirchen in der Wachau
+Weißenkirchen in der Wachau, Weißenkirchen i. d. Wachau
 Weißenreute
 Weißer Hof
 Weißes Kreuz
@@ -14289,7 +14289,7 @@ Wenzersdorf
 Weppersdorf
 Werberg
 Werda
-Werfen
+Werfen, Верфен
 Werfenau
 Werfenweng
 Wernberg
@@ -14372,7 +14372,7 @@ Wielings
 Wielitsch
 Wienau
 Wiener Neudorf
-Wiener Neustadt
+Wiener Neustadt, Német-Újhely, Wr. Neustadt, Bécsújváros
 Wiener Vorstadt
 Wienerberg
 Wienerbruck
@@ -14671,7 +14671,7 @@ Wolfstraß
 Wolfurt
 Wolfzagl
 Wolkersdorf
-Wolkersdorf im Weinviertel
+Wolkersdorf im Weinviertel, Wolkersdorf
 Wollbell
 Wollerdorf
 Wollersbach

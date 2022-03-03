@@ -157,7 +157,7 @@ Bankovets
 Bankovtsi
 Bankya
 Banovo
-Bansko
+Bansko, Банско
 Banya
 Banzareto
 Baratsi
@@ -268,7 +268,7 @@ Belopoptsi
 Beloslav
 Belotintsi
 Belovets
-Belovitsa
+Belovitsa, Беловица
 Belovo
 Belozem
 Beltsov
@@ -336,11 +336,11 @@ Blenika
 Bliznak
 Bliznatsi
 Bliznets
-Boazat
+Boazat, Боазъ
 Bobartsi
 Bobevtsi
 Boboratsi
-Boboshevo
+Boboshevo, Бобошево
 Bobov Dol
 Bobovets
 Bochkovtsi
@@ -516,7 +516,7 @@ Brezhnitsite
 Breznik
 Breznishki Izvor
 Breznitsa
-Brezovdol
+Brezovdol, Брезовдол
 Brezovo
 Brod
 Brodilovo
@@ -553,7 +553,7 @@ Bukovlak
 Bukovo
 Bukovtsi
 Bukvar
-Bulair
+Bulair, Byelibe, Belibe, Bjelibe, Byala Reka, Булаир, Бѣла река, Бѣлибе
 Bunovo
 Buntsevo
 Buranovo
@@ -670,7 +670,7 @@ Cherno Pole
 Chernodab
 Chernoglavtsi
 Chernogor
-Chernogorovo
+Chernogorovo, Черногорово
 Chernograd
 Chernokaptsi
 Chernokos
@@ -854,7 +854,7 @@ Devetak
 Devetaki
 Devetatsite
 Devetintsi
-Devin
+Devin, Девин
 Devino
 Devnya
 Deykintsi
@@ -867,7 +867,7 @@ Dimcha
 Dimchevo
 Dimievtsi
 Dimitrievo
-Dimitrovche
+Dimitrovche, Димитровче
 Dimitrovgrad
 Dimitrovtsi
 Dimovo
@@ -905,7 +905,7 @@ Dobri Dyal
 Dobri Laki
 Dobri Voynikovo
 Dobrich
-Dobrin
+Dobrin, Добрин
 Dobrina
 Dobrinishte
 Dobrinovo
@@ -923,7 +923,7 @@ Dobrostan
 Dobrotich
 Dobrotino
 Dobrotitsa
-Dobrovnitsa
+Dobrovnitsa, Добровница
 Dobrovo
 Dobrovolets
 Dobrudzhanka
@@ -965,7 +965,7 @@ Dolna Melna
 Dolna Mezdra
 Dolna Mitropolia
 Dolna Nevlya
-Dolna Oryahovitsa
+Dolna Oryahovitsa, Долна Оряховица
 Dolna Ribnitsa
 Dolna Riksa
 Dolna Sekirna
@@ -1039,7 +1039,7 @@ Domlyan
 Domozettsi
 Donchevo
 Donchovtsi
-Dondukovo
+Dondukovo, Татар махала, Дондуково
 Donino
 Donkino
 Donkovtsi
@@ -1080,7 +1080,7 @@ Dragoman
 Dragomani
 Dragomir
 Dragomirovo
-Dragor
+Dragor, Меликадъново
 Dragostin
 Dragotintsi
 Dragovishtitsa
@@ -1140,7 +1140,7 @@ Dulovo
 Dunavets
 Dunavtsi
 Dunevo
-Duni
+Duni, Дюни
 Dupnitsa
 Durankulak
 Durat Nova Mahla
@@ -1200,7 +1200,7 @@ Ekzarh Yosif
 Ekzarh-Antimovo
 Elena
 Elenino
-Elenite
+Elenite, Елените
 Elenov Dol
 Elenovo
 Elenska
@@ -1327,7 +1327,7 @@ Gega
 Gegovi
 Gela
 Gelchina Mahala
-Gelemenovo
+Gelemenovo, Гелеманово
 Genchovtsi
 General Geshevo
 General Kantardzhievo
@@ -1410,12 +1410,12 @@ Golemi Rat
 Golemi Stanchovtsi
 Golemin
 Golemo Babino
-Golemo Buchino
+Golemo Buchino, Големо Бучино
 Golemo Malovo
 Golemo Peshtene
 Golemo Selo
 Golesh
-Goleshovo
+Goleshovo, Голешово
 Golets
 Golintsi
 Golitsa
@@ -1771,7 +1771,7 @@ Ivanshnitsa
 Ivanski
 Ivantsi
 Ivanyane
-Ivaylo
+Ivaylo, Ивайло
 Ivaylovgrad
 Izbeglii
 Izbul
@@ -1913,7 +1913,7 @@ Karlovsko
 Karlukovo
 Karnalovo
 Karnare
-Karnobat
+Karnobat, Карнобат
 Karnurska Mahala
 Karpachevo
 Karpelevo
@@ -1944,7 +1944,7 @@ Katselovo
 Katunets
 Katunishte
 Katunitsa
-Katuntsi
+Katuntsi, Катунци
 Kavarkulatsite
 Kavarna
 Kavlak
@@ -2371,7 +2371,7 @@ Lebed
 Lebnitsa
 Ledenik
 Lehchevo
-Lehovo
+Lehovo, Лехово
 Lelintsi
 Lenishte
 Lenkovo
@@ -2390,10 +2390,10 @@ Leshten
 Lesicharka
 Lesiche
 Lesicheri
-Lesichovo
+Lesichovo, Лесичово
 Lesidren
 Leska
-Leskovdol
+Leskovdol, Лесковдол
 Leskovets
 Leskovi Kolibi
 Leskovitsa
@@ -2415,7 +2415,7 @@ Lilkovo
 Lilyach
 Lilyache
 Lilyak
-Lilyanovo
+Lilyanovo, Лиляново
 Limets
 Lipen
 Lipets
@@ -2784,7 +2784,7 @@ Momchilgrad
 Momchilovo
 Momchilovtsi
 Momin Sbor
-Momina Klisura
+Momina Klisura, Момина Клисура
 Momina Salza
 Momina Tsarkva
 Momino
@@ -3015,7 +3015,7 @@ Osen
 Osenarite
 Osenets
 Osenovets
-Osenovlag
+Osenovlag, Осеновлаг
 Osenovo
 Osetenovo
 Oshane
@@ -3077,7 +3077,7 @@ Palauzovo
 Palilula
 Palitsi
 Pamidovo
-Pamporovo
+Pamporovo, Пампорово
 Pamukchii
 Pamukliyska Mahala
 Panagyurishte
@@ -3113,7 +3113,7 @@ Parvenets
 Parventsi
 Parvitsa
 Parvomay
-Parvomaytsi
+Parvomaytsi, Първомайци
 Parzhigrah
 Pasarel
 Pashkul
@@ -3217,7 +3217,7 @@ Peyna
 Peyovtsi
 Pichor
 Piperevo
-Piperitsa
+Piperitsa, Пиперица
 Piperkov Chiflik
 Piperkovo
 Piramidata
@@ -3611,7 +3611,7 @@ Ridarska Mahala
 Ridino
 Ridovo
 Rila
-Rilski Manastir
+Rilski Manastir, Manastir Sveti Ivan Rilski
 Riltsi
 Rish
 Risimanovo
@@ -3676,7 +3676,7 @@ Ruptsi
 Rusalina
 Rusalsko
 Rusalya
-Ruse
+Ruse, Rustcuk
 Rusinovtsi
 Ruska Bela
 Ruskovtsi
@@ -3708,7 +3708,7 @@ Salash
 Salasuka
 Salmanovo
 Samodiva
-Samokov
+Samokov, Самоков
 Samokoyska
 Samoranovo
 Samotino
@@ -3718,7 +3718,7 @@ Samuil
 Samuilovo
 San Stefano
 Sanadinovo
-Sandanski
+Sandanski, Сандански
 Sandrovo
 Sapareva Banya
 Sapunare
@@ -3785,7 +3785,7 @@ Senoklas
 Senokos
 Senovo
 Sentse
-Septemvri
+Septemvri, Септември
 Septemvriytsi
 Seslav
 Sestrimo
@@ -3856,7 +3856,7 @@ Shubetsi
 Shuma
 Shumanska
 Shumata
-Shumen
+Shumen, Шумен
 Shumentsi
 Shumnatitsa
 Shushnya
@@ -3918,7 +3918,7 @@ Sladun
 Slakovtsi
 Slamino
 Slana Bara
-Slanchev Bryag
+Slanchev Bryag, Слънчев бряг
 Slanchevo
 Slanchogled
 Slanchovets
@@ -4138,7 +4138,7 @@ Stoykite
 Stoykovo
 Stoynovo
 Stoynovskoto
-Stozha
+Stozha, Стожа
 Stozher
 Stradalovo
 Strahil
@@ -4209,13 +4209,13 @@ Sushevo
 Sushina
 Sushitsa
 Suvorovo
-Sv. Konstantin i Elena
+Sv. Konstantin i Elena, Saints Constantine and Helena
 Svalenik
 Svatbare
 Sveshtari
 Sveta Petka
 Sveti Nikola
-Sveti Vlas
+Sveti Vlas, Saint Vlas
 Svetla
 Svetlen
 Svetlina
@@ -4236,7 +4236,7 @@ Svirets
 Svirkovo
 Svirtsi
 Svirtsite
-Svishtov
+Svishtov, Свищов
 Svoboda
 Svoboden
 Svobodinovo
@@ -4282,7 +4282,7 @@ Tatul
 Tavalichevo
 Taymishte
 Taynik
-Tazha
+Tazha, Тъжа
 Tazhevo
 Teketo
 Telcharka
@@ -4421,7 +4421,7 @@ Tsarev Dol
 Tsareva Livada
 Tsareva Polyana
 Tsarevets
-Tsarevo
+Tsarevo, Царево
 Tsarevtsi
 Tsarichina
 Tsarichino
@@ -4496,14 +4496,14 @@ Uhlovitsa
 Ukari Kyoy
 Umarevtsi
 Urovene
-Uruchovtsi
+Uruchovtsi, Уручевци
 Urulachka Mahala
 Urumtsi
 Urvata
 Ushi
 Ushintsi
 Ushite
-Ushovtsi
+Ushovtsi, Ушевци
 Usoyka
 Ustina
 Ustrem
@@ -4608,7 +4608,7 @@ Velika
 Velikan
 Velikdenche
 Veliki Preslav
-Veliko Tŭrnovo
+Veliko Tŭrnovo, Велико Търново
 Velikovo
 Velikovtsi
 Velingrad
@@ -4643,7 +4643,7 @@ Vetren
 Vetren Dol
 Vetrets
 Vetrino
-Vetrintsi
+Vetrintsi, Ветринци
 Vetrishte
 Vetrovo
 Vetrushka
@@ -4727,7 +4727,7 @@ Volovo
 Voluyak
 Voneshta Voda
 Voykova Laka
-Voynegovtsi
+Voynegovtsi, Войнеговци
 Voynezha
 Voynika
 Voynikovo
@@ -4899,7 +4899,7 @@ Zasele
 Zasmyano
 Zavala
 Zaverdentsi
-Zavet
+Zavet, Завет
 Zavetno
 Zavidovtsi
 Zavoy
@@ -5008,7 +5008,7 @@ Zlatkovtsi
 Zlatna Livada
 Zlatna Niva
 Zlatna Panega
-Zlatni Pyasatsi
+Zlatni Pyasatsi, Златни пясъци
 Zlatograd
 Zlatoklas
 Zlatolist

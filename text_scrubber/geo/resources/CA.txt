@@ -181,7 +181,7 @@ Amherst Head
 Amherst Point
 Amherst Pointe
 Amherst Shore
-Amherstburg
+Amherstburg, Fort Malden, Amhertsburg, Fort Amherstburg
 Amherstview
 Amigari Downs
 Amigo Beach
@@ -745,7 +745,7 @@ Beauly
 Beaumaris
 Beaumonde Heights
 Beaumont
-Beauport
+Beauport, Montmorency
 Beaupré
 Beausejour
 Beauval
@@ -802,7 +802,7 @@ Beechwood Park
 Beechy
 Beersville
 Beeton
-Behchokǫ̀
+Behchokǫ̀, Rae Edzo
 Beinn Bhreagh
 Beiseker
 Bel Air Heights
@@ -2908,7 +2908,7 @@ Delburne
 Delhaven
 Delhi
 Delia
-Deline
+Deline, Délı̨ne
 Delisle
 Delkatla
 Delmer
@@ -3375,7 +3375,7 @@ Earl Grey
 Earle Wharf
 Earlscourt
 Earlstown
-Earlton
+Earlton, Armstrong
 Earltown
 Earnscliffe
 East Advocate
@@ -4240,7 +4240,7 @@ Galts Corner
 Gambo
 Gamebridge Beach
 Gameland
-Gamèti
+Gamèti, Rae Lakes
 Gananoque
 Gander
 Gander Bay North
@@ -4692,7 +4692,7 @@ Great Hill
 Great Village
 Greater Lakeburn
 Greater Napanee
-Greater Sudbury
+Greater Sudbury, Sudbury
 Greece's Point
 Greektown
 Greely
@@ -5048,7 +5048,7 @@ Havilland
 Havre Boucher
 Havre-Aubert
 Havre-Bayfield
-Havre-Saint-Pierre
+Havre-Saint-Pierre, Havre-St-Pierre
 Havre-aux-Maisons
 Hawarden
 Hawk Junction
@@ -5523,7 +5523,7 @@ Ioco
 Iona
 Iona Station
 Ipperwash Beach
-Iqaluit
+Iqaluit, Crystal Two, Frobisher Bay
 Irish Cove
 Irish Lake
 Irish Settlement
@@ -7605,7 +7605,7 @@ Merville
 Mervin
 Mesachie Lake
 Messines
-Metabetchouan-Lac-a-la-Croix
+Metabetchouan-Lac-a-la-Croix, Métabetchouan–Lac-à-la-Croix
 Metagama
 Metcalfe
 Metchosin
@@ -7805,7 +7805,7 @@ Mistassini
 Mistatim
 Mistissini
 Mistusinne
-Mitchell
+Mitchell, Mitchell/Ontario
 Mitchell Heights
 Mitchell Settlement
 Mitchell Square
@@ -7896,14 +7896,14 @@ Montgomery Place
 Monticello
 Montigny
 Montjoie
-Montmagny
+Montmagny, St. Thomas de Montmagny
 Montmartre
 Montpellier
 Montplaisant
 Montreal River
 Montrock
 Montrose
-Montréal
+Montréal, Montreal
 Montréal-Est
 Montréal-Ouest
 Monument Corners
@@ -8934,7 +8934,7 @@ Pass Lake
 Passchendaele
 Passe-Gagnon
 Passekeag
-Passes-Dangereuses
+Passes-Dangereuses, Chute-des-Passes
 Passmore
 Paswegin
 Patelin-Leroux
@@ -9164,7 +9164,7 @@ Pinedale
 Pineglen
 Pineglen Annex
 Pinegrove
-Pinehouse
+Pinehouse, Pinehouse Lake, Snake Lake
 Pinehurst
 Pinehurst Park
 Pineview
@@ -10384,7 +10384,7 @@ Saint-Félix-de-Kingsey
 Saint-Félix-de-Valois
 Saint-Gabriel
 Saint-Gabriel-de-Kent
-Saint-Gabriel-de-Valcartier
+Saint-Gabriel-de-Valcartier, Valcartier
 Saint-Georges
 Saint-Georges-de-Bagot
 Saint-Georges-de-Cacouna
@@ -10482,7 +10482,7 @@ Saint-Mathias-sur-Richelieu
 Saint-Mathieu
 Saint-Mathieu-d'Harricana
 Saint-Mathieu-de-Beloeil
-Saint-Mathieu-de-Rioux
+Saint-Mathieu-de-Rioux, Saint-Mathieu
 Saint-Mathieu-du-Parc
 Saint-Maure
 Saint-Maurice
@@ -10565,7 +10565,7 @@ Saint-Timothée
 Saint-Tite
 Saint-Tite-des-Caps
 Saint-Télesphore
-Saint-Ubalde
+Saint-Ubalde, Saint-Ubald
 Saint-Ulric
 Saint-Urbain
 Saint-Urbain-Premier
@@ -11487,7 +11487,7 @@ St. Jacques-Coomb's Cove
 St. James Town
 St. Jean Baptiste
 St. Joachim
-St. John's
+St. John's, Saint-Jean de Terre-Neuve, Saint-Jean
 St. Johns
 St. Joseph
 St. Joseph Mission
@@ -11706,7 +11706,7 @@ Strongfield
 Strongville
 Stroud
 Stuart Town
-Stuie
+Stuie, Stuix
 Stukely-Sud
 Stump Lake
 Sturdies Bay
@@ -12213,7 +12213,7 @@ Tugaske
 Tugtown
 Tuktoyaktuk
 Tulameen
-Tulita
+Tulita, Fort Norman
 Tullamore
 Tulliby Lake
 Tumbler Ridge
@@ -12275,7 +12275,7 @@ Udney
 Uffington
 Ufford
 Ullswater
-Ulukhaktok
+Ulukhaktok, Holman
 Ulverton
 Umiujaq
 Underhill
@@ -12284,7 +12284,7 @@ Ungers Corner
 Uniacke
 Uniacke Hill
 Union
-Union Bay
+Union Bay, Union Wharf
 Union Centre
 Union Corner
 Union Creek
@@ -12767,7 +12767,7 @@ Warwick
 Warwick Mountain
 Warwick Settlement
 Wasa
-Wasaga Beach
+Wasaga Beach, Wasaga
 Wasagaming
 Waseca
 Washademoak
@@ -13373,4 +13373,4 @@ le Plateau
 Évain
 Île-Aux-Grues
 Île-à-la-Crosse
-Łutselk'e
+Łutselk'e, Snowdrift

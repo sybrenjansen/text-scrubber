@@ -1,11 +1,11 @@
 Abovce
 Abraham
-Abrahamovce
+Abrahamovce, Ábrahámfalva, Abrahamsdorf
 Abramová
 Abranovce
 Adamov
 Adamovce
-Adamovské Kochanovce
+Adamovské Kochanovce, Kochanovce
 Adidovce
 Aggerdő Pusta
 Agov
@@ -60,13 +60,13 @@ Balince
 Baloghpuszta
 Baloň
 Balvany
-Balázstag
+Balázstag, Balázspuszta, Balážov majer
 Baláže
 Banka
 Bankov
 Banky
 Banská Belá
-Banská Bystrica
+Banská Bystrica, Neusohl
 Banská Štiavnica
 Banské
 Banský Studenec
@@ -161,11 +161,11 @@ Biela
 Biela Bukovina
 Biela Voda
 Biele Vody
-Bielovce
+Bielovce, Bél, Ipolybél
 Biely Potok
 Biely Vrch
 Bieščari
-Bijacovce
+Bijacovce, Biazowitz, Betendorf
 Bimbula
 Bindt
 Biskupice
@@ -203,7 +203,7 @@ Bodorová
 Bodovce
 Bodovice
 Bodovka
-Bodružzaľ
+Bodružzaľ, Bodružal
 Bodza
 Bodíky
 Bogliarka
@@ -215,7 +215,7 @@ Boheľov
 Bohunice
 Bohunice nad Váhom
 Bohúňvo
-Bojnice
+Bojnice, Weinitz
 Bojničky
 Bojná
 Bokroš
@@ -237,10 +237,10 @@ Borová Hora
 Borský Mikuláš
 Borský Svätý Jur
 Borský Svätý Peter
-Bory
+Bory, Bori
 Borčany
 Borčice
-Borša
+Borša, Borsi
 Bottovo
 Bočiar
 Boľ
@@ -257,7 +257,7 @@ Brakoň
 Branica
 Branovo
 Branč
-Bratislava
+Bratislava, Pozsony, Pressburg
 Bratislava - Rača
 Bratkovica
 Braväcovo
@@ -283,7 +283,7 @@ Brezolupy
 Brezov
 Brezovec
 Brezovica
-Brezovica nad Torysou
+Brezovica nad Torysou, Berzevice
 Brezovička
 Brezovka
 Brezovo
@@ -422,9 +422,9 @@ Chmiňany
 Chmola
 Chmura
 Chocholná - Velčice
-Chorvatice
-Chorvástky Grob - Čierna Voda
-Chorvátský Grob
+Chorvatice, Horváti
+Chorvástky Grob - Čierna Voda, Feketevízpuszta
+Chorvátský Grob, Horvátgurab
 Chorváty
 Chotín
 Chotča
@@ -455,7 +455,7 @@ Chylovci
 Chynorany
 Chyzerovce
 Chyžnianská Voda
-Chyžné
+Chyžné, Hizsnyóvíz
 Cibajka
 Cieger
 Cigelka
@@ -492,7 +492,7 @@ Dedinka Miškových
 Dedinka pri Dunaji
 Dedinky
 Dekýš
-Demandice
+Demandice, Deménd
 Demecser
 Demjata
 Demänovská Dolina
@@ -503,7 +503,7 @@ Detvianska Huta
 Detvianske Lazy
 Devičany
 Devičie
-Devín
+Devín, Theben
 Devínska Nová Ves
 Deč
 Dešná
@@ -522,7 +522,7 @@ Dlhovský Majer
 Dlhoňa
 Dlhá
 Dlhá Lúka
-Dlhá Ves
+Dlhá Ves, Gömörhosszúszó
 Dlhá nad Oravou
 Dlhá nad Váhom
 Dlhé
@@ -589,7 +589,7 @@ Dolná Štefanovičová
 Dolná Štubňa
 Dolná Ždaňa
 Dolná-Polianka
-Dolné Brhlovce
+Dolné Brhlovce, Tegzesborfő
 Dolné Bzince
 Dolné Chlebany
 Dolné Dačolomské Stodoly
@@ -621,15 +621,15 @@ Dolné Podvažie
 Dolné Príbelce
 Dolné Pršany
 Dolné Rakytovce
-Dolné Rykynčice
+Dolné Rykynčice, Alsórakonca
 Dolné Saliby
-Dolné Semerovce
+Dolné Semerovce, Alsószemeréd, Alsó Szemeréd, Dolnie Semerovce, Dolní Semerovce
 Dolné Srnie
 Dolné Strháre
 Dolné Sľažany
-Dolné Terany
+Dolné Terany, Alsóterény
 Dolné Trhovište
-Dolné Turovce
+Dolné Turovce, Dolní Turovce, Dolnie Turovce
 Dolné Vestenice
 Dolné Voderady
 Dolné Zahorany
@@ -654,7 +654,7 @@ Dolný Kalník
 Dolný Kamenec
 Dolný Keblov
 Dolný Kerestúr
-Dolný Kubín
+Dolný Kubín, Unterkubin
 Dolný Lieskov
 Dolný Lopašov
 Dolný Mackskás
@@ -674,12 +674,12 @@ Dolný Čepen
 Dolný Ďur
 Dolný Štefanov
 Dolný Štál
-Domadice
+Domadice, Dalmad
 Domaniža
 Domanižská Lehota
 Domanovce
 Domaníky
-Domaša
+Domaša, Garamdamásd
 Dominova Kopanica
 Domčikov
 Donovaly
@@ -827,7 +827,7 @@ Geceľ
 Gelnica
 Gelnická Huta
 Gemer
-Gemerská Horka
+Gemerská Horka, Özörény
 Gemerská Panica
 Gemerské Dechťare
 Gemerské Michalovce
@@ -874,12 +874,12 @@ Habovka
 Habura
 Hadašovec
 Hadovce
-Hadušovce
+Hadušovce, Edösfalva
 Hadviga
 Hajašovia
 Hajnalvölgypusta
 Hajná Nová Ves
-Hajnáčka
+Hajnáčka, Ajnácskő
 Hajtovka
 Halabriné
 Halaksínec
@@ -894,7 +894,7 @@ Hanci
 Handersik
 Handlová
 Hanesy
-Hangyás Majer
+Hangyás Majer, Hangyás
 Hanigovce
 Haniska
 Hanka
@@ -958,11 +958,11 @@ Hnilčík
 Hnojné
 Hnúšťa
 Hodejov
-Hodejovec
+Hodejovec, Kerekgede
 Hodkovce
 Hodruša
 Hody
-Hokovce
+Hokovce, Egeg
 Holadeji
 Holcov Majer
 Holiare
@@ -975,10 +975,10 @@ Holčíkovce
 Homok
 Honce
 Hontianska Vrbica
-Hontianske Moravce
+Hontianske Moravce, Hontmarót
 Hontianske Nemce
-Hontianske Tesáre
-Hontianske Trsťany
+Hontianske Tesáre, Hontteszér, Teszér, Hontianske Tesáry
+Hontianske Trsťany, Hontnádas, Nadošany
 Horanské
 Horelica
 Horenice
@@ -1008,14 +1008,14 @@ Horná Tižina
 Horná Trnávka
 Horná Turecká
 Horná Ves
-Horná Zlatná
+Horná Zlatná, Felaranyospuszta
 Horná Čobánka
 Horná Štefanovičová
 Horná Štubňa
 Horná Ždáňa
 Hornáci
 Horné Baby
-Horné Brhlovce
+Horné Brhlovce, Kálnaborfő
 Horné Bzince
 Horné Chlebany
 Horné Držkovce
@@ -1045,16 +1045,16 @@ Horné Plachtince
 Horné Príbelce
 Horné Pršany
 Horné Rakytovce
-Horné Rykynčice
+Horné Rykynčice, Felsőrakonca
 Horné Saliby
-Horné Semerovce
+Horné Semerovce, Felső-Szemeréd, Felsőszemeréd, Horní Semerovce, Hornie Semerovce
 Horné Sl'ažany
 Horné Srnie
 Horné Strháre
 Horné Suroviny
-Horné Terany
+Horné Terany, Horní Terany, Felsőterény, Hornie Terany
 Horné Trhovište
-Horné Turovce
+Horné Turovce, Horní Turovce, Hornie Turovce
 Horné Vestenice
 Horné Zahorany
 Horné Zelenice
@@ -1073,7 +1073,7 @@ Horný Fizík
 Horný Harmanec
 Horný Hričov
 Horný Jalšovík
-Horný Jatov
+Horný Jatov, Felső-Jattó
 Horný Jelenec
 Horný Kalník
 Horný Kamenec
@@ -1125,7 +1125,7 @@ Hrabová Roztoka
 Hrabové
 Hrabovčík
 Hrabskě
-Hrabušice
+Hrabušice, Káposztafalva
 Hrachovište
 Hrachovo
 Hrachový Dvor
@@ -1147,7 +1147,7 @@ Hriadky
 Hričovské Podhradie
 Hriňová
 Hrišovce
-Hrkovce
+Hrkovce, Gyerk
 Hrkáč
 Hrlica
 Hrnčiarovce nad Parnou
@@ -1187,14 +1187,14 @@ Hudcovce
 Hul
 Hulváci
 Hulvínky
-Humenné
+Humenné, Homenau
 Humenský Rokytov
 Huncovce
 Hunisky
 Hunkovce
 Hurbanova Ves
 Hurbanovce
-Hurbanovo
+Hurbanovo, Ógyalla
 Husiná
 Husová
 Husák
@@ -1245,16 +1245,16 @@ Imrichov Kopec
 Imrovka
 Inovce
 Ipeľ
-Ipeľské Predmostie
-Ipeľské Úľany
-Ipeľský Sokolec
+Ipeľské Predmostie, Ipolyhidvég, Hidvég
+Ipeľské Úľany, Ipolyfödémes, Födémes, Fedýmeš
+Ipeľský Sokolec, Ipolyszakállos, Sakáloš
 Istebné
 Istebník
 Istok
 Ivachnová
 Ivanice
 Ivanič
-Ivanka Majer
+Ivanka Majer, Hurkaszárító
 Ivanka pri Dunaji
 Ivanka pri Nitre
 Ivanov
@@ -1313,7 +1313,7 @@ Jarabá
 Jarky
 Jarmán
 Jarok
-Jarovce
+Jarovce, Horvátjárfalu
 Jarovnice
 Jarošov
 Jasenica
@@ -1374,7 +1374,7 @@ Jánosháza
 Jánostelek Majer
 Jánošovce
 Jánošovka
-Jánošíkovo na Ostrove
+Jánošíkovo na Ostrove, Bellepuszta
 Jánošíková
 Jóži
 Kabancová
@@ -1387,7 +1387,7 @@ Kalinka
 Kalinkovo
 Kalinov
 Kalinovo
-Kalinčiakovo
+Kalinčiakovo, Hontvarsány, Varšany
 Kalište
 Kalnište
 Kalná Roztoka
@@ -1456,7 +1456,7 @@ Kevice
 Kečkovce
 Kečovo
 Keť
-Kežmarok
+Kežmarok, Kesmark
 Kežmarské Žľaby
 Kiarov
 Kingyes
@@ -1585,7 +1585,7 @@ Kostolná pri Dunaji
 Kostolné
 Kostolné Kračany
 Kostolné Mitice
-Kostolné Moravce
+Kostolné Moravce, Egyházmarót
 Kostolný Sek
 Kostoľany pod Tribečom
 Kotelnica
@@ -1611,7 +1611,7 @@ Košariská-Priepasné
 Košarovce
 Košeca
 Košecké Rovné
-Košice
+Košice, Kaschau
 Košická Belá
 Košická Nová Ves
 Košické Hámre
@@ -1626,7 +1626,7 @@ Košťany nad Turcom
 Kožany
 Kožuchov
 Kožuchovce
-Krahule
+Krahule, Blaufuß, Blaufuss, Blaufusz
 Krajek
 Krajná Bystrá
 Krajná Pol'ana
@@ -1642,8 +1642,8 @@ Kravany nad Dunajom
 Kračúnovce
 Kraľovany
 Kremeni
-Kremnica
-Kremnické Bane
+Kremnica, Kremnitz
+Kremnické Bane, Johannesberg, Piarg
 Kremnička
 Kremná
 Krendželovka
@@ -1680,7 +1680,7 @@ Kružlovská Huta
 Kružlová
 Kružná
 Král'ová
-Králik
+Králik, Sajókirályi
 Králiky
 Krám
 Krásna
@@ -1718,7 +1718,7 @@ Ku Kyslej
 Kubrica
 Kubrá
 Kubuši
-Kubáňovo
+Kubáňovo, Setich, Szete
 Kucany
 Kuchari
 Kuchyňa
@@ -1731,7 +1731,7 @@ Kunešov
 Kunov
 Kunova Teplica
 Kunovec
-Kuraľany
+Kuraľany, Kural
 Kuricovci
 Kurima
 Kurimany
@@ -1881,7 +1881,7 @@ Liešno
 Liešťany
 Ligásovci
 Likavka
-Likier
+Likier, Likér
 Likierské Vysoké Pece
 Limbach
 Lindava
@@ -1892,7 +1892,7 @@ Lipovce
 Lipovec
 Lipovník
 Lipová
-Lipové
+Lipové, Zsemlékes
 Liptovská Anna
 Liptovská Kokava
 Liptovská Lúžna
@@ -1909,7 +1909,7 @@ Liptovské Kľačany
 Liptovské Matiašovce
 Liptovské Revúce
 Liptovské Sliače
-Liptovský Hrádok
+Liptovský Hrádok, Neuhäusel in der Liptau
 Liptovský Ján
 Liptovský Michal
 Liptovský Mikuláš
@@ -2018,7 +2018,7 @@ Malachov
 Malacky
 Malatiná
 Malcov
-Malinovec
+Malinovec, Hévmagyarád, Maďarovce
 Malinovo
 Malinová
 Malužiná
@@ -2072,7 +2072,7 @@ Malé Kapušany
 Malé Kosihy
 Malé Kozmálovce
 Malé Košecké Podhradie
-Malé Krškany
+Malé Krškany, Kiskereskény
 Malé Kršteňany
 Malé Lednice
 Malé Leváre
@@ -2108,7 +2108,7 @@ Malý Háj
 Malý Jatov
 Malý Kamenec
 Malý Kazimír
-Malý Kiar
+Malý Kiar, Hontkiskér
 Malý Kolačín
 Malý Krtíš
 Malý Kýr
@@ -2140,7 +2140,7 @@ Markovce
 Markovec
 Markuška
 Markušovce
-Martin
+Martin, Turz-St. Martin, Turz-Sankt Martin
 Martinci
 Martinová
 Martinček
@@ -2193,7 +2193,7 @@ Mengusovce
 Merašice
 Meretice
 Merník
-Merovce
+Merovce, Mere
 Mestečko
 Mestisko
 Mesto
@@ -2205,7 +2205,7 @@ Michalie
 Michalková
 Michalok
 Michalov
-Michalovce
+Michalovce, Großmichel
 Michalovo
 Michalová
 Michalský Majer
@@ -2427,7 +2427,7 @@ Nižná Šebastová
 Nižná Šuňava
 Nižné Hágy
 Nižné Ladičkovce
-Nižné Malatíny
+Nižné Malatíny, Malatíny
 Nižné Matiašovce
 Nižné Nemecké
 Nižné Raslavice
@@ -2480,7 +2480,7 @@ Nová Trstená
 Nová Ves
 Nová Ves nad Váhom
 Nová Ves nad Žitavou
-Nová Ves pri Dunaji
+Nová Ves pri Dunaji, Dunaújfalu
 Nová Vieska
 Nová Vieska pri Bodrogu
 Nová ľubovňa
@@ -2508,7 +2508,7 @@ Nádaš
 Nálepkovo
 Námestovo
 Nána
-Nýrovce
+Nýrovce, Nyírágó
 Obeckov
 Obid
 Obišovce
@@ -2560,7 +2560,7 @@ Opiná
 Opoj
 Oponice
 Opátka
-Opátove Moravce
+Opátove Moravce, Apátmarót, Opatové Moravce
 Opátska
 Oravce
 Oravica
@@ -2570,7 +2570,7 @@ Oravská Polhora
 Oravské Hámre
 Oravské Veselé
 Oravský Biely Potok
-Oravský Podzámok
+Oravský Podzámok, Arwaburg
 Ordzoviany
 Orechová
 Orechová Potôň
@@ -2705,7 +2705,7 @@ Petrovenec
 Petrovice
 Petrovo
 Petržalka
-Pezinok
+Pezinok, Bösing, Bazin
 Pečenice
 Pečeňady
 Pečeňany
@@ -2743,15 +2743,15 @@ Plechotice
 Plechotická Samota
 Plevník
 Plevník-Drienové
-Pleš
-Plešivec
+Pleš, Fülekpilis
+Plešivec, Pelsőc
 Plešivá
 Pliešovce
 Pliešovské Lazy
 Ploské
 Ploštín
 Pláne
-Plášťovce
+Plášťovce, Palást
 Pobedim
 Pochabany
 Pod Dielom
@@ -2762,7 +2762,7 @@ Podbiel
 Podbranč
 Podbrezová
 Podholie
-Podhorany
+Podhorany, Mältern, Mälter
 Podhorie
 Podhoroď
 Podhorskovia
@@ -2828,7 +2828,7 @@ Pongrácovce
 Ponická Huta
 Poniky
 Poprad
-Poproč
+Poproč, Mindszent, Jászómindeszent
 Popudiny
 Porečia
 Poriadie
@@ -2848,7 +2848,7 @@ Považská Teplá
 Považské Podhradie
 Považský Chlmec
 Povina
-Povoda
+Povoda, Pódatejed
 Povrazník
 Pozba
 Pozdišovce
@@ -2883,7 +2883,7 @@ Prekážka
 Prelač
 Prenčov
 Preseľany
-Preseľany nad Ipľom
+Preseľany nad Ipľom, Pereszlény, Preseľany
 Prestavlky
 Prečín
 Prešov
@@ -2987,7 +2987,7 @@ Radošina
 Radošovce
 Radvanovce
 Radvaň
-Radvaň nad Dunajom
+Radvaň nad Dunajom, Radvány
 Radzovce
 Radôstka
 Rafjovce
@@ -3003,7 +3003,7 @@ Rakovec
 Rakovec nad Ondavou
 Rakovice
 Rakovnica
-Rakovo
+Rakovo, Nagyrákó
 Raková
 Rakúsy
 Rakša
@@ -3092,7 +3092,7 @@ Rozvadze
 Roškovce
 Roštár
 Rožkovany
-Rožňava
+Rožňava, Rosenau
 Rožňavské Bystré
 Rožňová Neporadza
 Rožňové Mitice
@@ -3132,7 +3132,7 @@ Rusniak
 Rusnáci
 Ružindol
 Ružiná
-Ružomberok
+Ružomberok, Rosenberg
 Ružový Dvor
 Ružín
 Rybany
@@ -3157,11 +3157,11 @@ Salajka
 Salatín
 Salka
 Sampor
-Santovka
+Santovka, Szántó, Santov
 Sarvašovci
 Sasinkovo
 Savčina
-Sazdice
+Sazdice, Százd
 Sačurov
 Schwarzenberg
 Sebechleby
@@ -3195,7 +3195,7 @@ Senohradské Lazy
 Sereď
 Setechov
 Seč
-Sečianky
+Sečianky, Szécsénke, Ipolyszécsényke
 Sečnová
 Sečovce
 Sečovská Polianka
@@ -3247,7 +3247,7 @@ Slanské Nové Mesto
 Slaná Lehota
 Slančík
 Slaská
-Slatina
+Slatina, Szalatnya
 Slatina nad Bebravou
 Slatinka
 Slatinka nad Bebravou
@@ -3386,7 +3386,7 @@ Streda nad Bodrogom
 Stredná Revúca
 Stredné Malatíny
 Stredné Plachtince
-Stredné Turovce
+Stredné Turovce, Strední Turovce, Strednie Turovce
 Stredný And
 Stredný Sliač
 Stredný Čepen
@@ -3433,7 +3433,7 @@ Suchá nad Parnou
 Sucháň
 Suché
 Suché Brezovo
-Sudince
+Sudince, Ösöd
 Sudovský Dvor
 Sukov
 Sulanovci
@@ -3458,7 +3458,7 @@ Svinná
 Svinský Dvor
 Svit
 Svodov
-Svodín
+Svodín, Szőgyén
 Svrbice
 Svrčinovec
 Svätojurský Chlum
@@ -3502,7 +3502,7 @@ Sándorhalma
 Sárkánytó Pusta
 Sárközytanya
 Sása
-Súdovce
+Súdovce, Szúd
 Súlovce
 Sútor
 Súľov-Hradná
@@ -3541,7 +3541,7 @@ Teplička nad Váhom
 Tepličky
 Teplá
 Teplý Vrch
-Terany
+Terany, Terény
 Terchová
 Terebľa
 Teren
@@ -3578,10 +3578,10 @@ Topoľany
 Topoľnica
 Topoľníky
 Topoľovka
-Topoľčany
+Topoľčany, Nagytapolcsány, Topoltschan
 Topoľčianky
 Torkos
-Tornaľa
+Tornaľa, Tornalja
 Torysa
 Torysky
 Tovarnianska Polianka
@@ -3615,7 +3615,7 @@ Trhová Hradská
 Trhyňa
 Tri Duby
 Tri Vody
-Trnava
+Trnava, Tyrnau
 Trnava pri Laborci
 Trnavka
 Trnavy
@@ -3646,11 +3646,11 @@ Tuhrina
 Tuhár
 Tulčík
 Tunežice
-Tupá
+Tupá, Tompa
 Turany
 Turany nad Ondavou
 Turcovce
-Tureň
+Tureň, Torony
 Turie
 Turie Pole
 Turiepolské Lazy
@@ -3752,7 +3752,7 @@ Valentová
 Valkov
 Valkovce
 Valovna
-Valtov Šúr
+Valtov Šúr, Valtasúr
 Valča
 Vaniškovce
 Varadka
@@ -3798,7 +3798,7 @@ Veľká Lehota
 Veľká Lehôtka
 Veľká Lesná
 Veľká Lodina
-Veľká Lomnica
+Veľká Lomnica, Großlomnitz
 Veľká Lúka
 Veľká Lúč
 Veľká Mača
@@ -3837,7 +3837,7 @@ Veľké Kosihy
 Veľké Kostoľany
 Veľké Kozmálovce
 Veľké Košecké Podhradie
-Veľké Krškany
+Veľké Krškany, Krškany, Nagykereskény
 Veľké Kršteňany
 Veľké Leváre
 Veľké Lovce
@@ -3866,9 +3866,9 @@ Veľké Zlievce
 Veľké Záblatie
 Veľké Zálužie
 Veľké Úľany
-Veľké Čaníkovce
+Veľké Čaníkovce, Nagysenkőc, Senkőc
 Veľké Číky
-Veľké Šúrovce
+Veľké Šúrovce, Nagysúr
 Veľký Biel
 Veľký Blh
 Veľký Bysterec
@@ -3884,9 +3884,9 @@ Veľký Horeš
 Veľký Kamenec
 Veľký Kazimír
 Veľký Kolačín
-Veľký Konkoľ
+Veľký Konkoľ, Konkoľ
 Veľký Krtíš
-Veľký Kýr
+Veľký Kýr, Nagy-Kér
 Veľký Lapáš
 Veľký Lipník
 Veľký Lom
@@ -3916,7 +3916,7 @@ Vinica
 Vinice
 Vinička
 Viničky
-Viničné
+Viničné, Švajnsbach
 Vinné
 Vinohrádok
 Vinosady
@@ -3927,7 +3927,7 @@ Vislava
 Visolaje
 Vitanová
 Vitálišovce
-Vištuk
+Vištuk, Vistuk, Kárpáthalas
 Višňov
 Višňové
 Viťazovce
@@ -3944,7 +3944,7 @@ Vlkovce
 Vlková
 Vlky
 Vlkyňa
-Vlčany
+Vlčany, Vágfarkasd, Farkasd
 Vlčkovany
 Vlčkovce
 Vlčkovia
@@ -4010,19 +4010,19 @@ Vysocký Dvor
 Vysoká
 Vysoká nad Kysucou
 Vysoká nad Uhom
-Vysoká pri Morave
+Vysoká pri Morave, Nagymagasfalu, Hochštetno
 Vysoké Tatry
 Vysočany
 Vystrkov
 Vyšehradné
 Vyškovce
-Vyškovce nad Ipľom
+Vyškovce nad Ipľom, Visk, Hontvisk, Ipolyvisk
 Vyšná Bakta
 Vyšná Boca
 Vyšná Hutka
 Vyšná Jablonka
 Vyšná Jedľová
-Vyšná Kaloša
+Vyšná Kaloša, Felsőkálosa
 Vyšná Kamenica
 Vyšná Korňa
 Vyšná Labaja
@@ -4080,8 +4080,8 @@ Vyšný Tvarožec
 Vyšný Zadiel
 Vyšný Čaj
 Vyšný Žipov
-Vágfüzes
-Váhovce
+Vágfüzes, Sziget
+Váhovce, Vága
 Vápeník
 Vécs
 Vék
@@ -4141,9 +4141,9 @@ Zemianske Lieskové
 Zemianske Mitice
 Zemianske Podhradie
 Zemianske Sady
-Zemiansky Kvašov
+Zemiansky Kvašov, Kvassó, Nemeskvassó
 Zemiansky Vrbovok
-Zemné
+Zemné, Szimő
 Zemplín
 Zemplínska Teplica
 Zemplínske Hradište
@@ -4188,8 +4188,8 @@ Zádubnie
 Záhor
 Záhorce
 Záhorie
-Záhorská Bystrica
-Záhorská Ves
+Záhorská Bystrica, Pozsonybeszterce, Beszterce
+Záhorská Ves, Uhorská Ves, Magyarfalu, Magyarfalva
 Záhorčie
 Záhradné
 Záhradníctvo
@@ -4215,7 +4215,7 @@ Závod
 Závodie
 Zázrivá
 Ábelová
-Ágota Majer
+Ágota Majer, Ágota
 Örtény
 Úbrež
 Údol
@@ -4228,7 +4228,7 @@ Zázrivá
 Čab
 Čabalovce
 Čabrad
-Čabradský Vrbovok
+Čabradský Vrbovok, Schloss Csábrág, Werbok
 Čachtice
 Čadca
 Čajakovo
@@ -4244,7 +4244,7 @@ Zázrivá
 Čaltice
 Čambalovci
 Čamovce
-Čankov
+Čankov, Csánk
 Čanádsky Dvor
 Čaradice
 Častkov
@@ -4287,7 +4287,7 @@ Zázrivá
 Červeník
 Červený Dvor
 Červený Hrádok
-Červený Kameň
+Červený Kameň, Bibersburg, Rotenstein
 Červený Kláštor
 Čerín
 Čerťaž
@@ -4371,7 +4371,7 @@ Zázrivá
 Ňagov
 Ňárad
 Šaca
-Šahy
+Šahy, Ipolyság, Ság
 Šajbov
 Šajdíkove Humence
 Šalgovce
@@ -4402,7 +4402,7 @@ Zázrivá
 Šarolta
 Šarovce
 Šatina
-Šaľa
+Šaľa, Sellye
 Šašová
 Šaštín
 Šaštín-Stráže
@@ -4417,7 +4417,7 @@ Zázrivá
 Šimonovce
 Šimova Samota
 Šindliar
-Šintava
+Šintava, Schintau
 Šipkov
 Šipkova
 Širkovce
@@ -4468,14 +4468,14 @@ Zázrivá
 Štítnik
 Štôla
 Štúrovo
-Štúrová
+Štúrová, Margitpuszta
 Šuja
 Šulci
 Šulekovo
 Šumiac
-Šurany
+Šurany, Nagysurány
 Šurianky
-Šurice
+Šurice, Sőreg
 Šutovce
 Šuľ
 Šuľa
@@ -4517,7 +4517,7 @@ Zázrivá
 Ždaňa
 Ždiar
 Ždiarik
-Žehra
+Žehra, Schigra, Zsegra
 Žehňa
 Železná
 Železná Breznica

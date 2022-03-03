@@ -26,7 +26,7 @@
 Aaigem
 Aalbeke
 Aalbroek
-Aalst
+Aalst, Alost
 Aalter
 Aalterbei
 Aalterbrug
@@ -188,9 +188,9 @@ Antheit
 Anthisnes
 Anthée
 Antiémont
-Antoing
+Antoing, Антуан
 Anton
-Antwerpen
+Antwerpen, Antwerp, Антверпен
 Anvaing
 Anway
 Anzegem
@@ -639,7 +639,7 @@ Bellevue
 Bellingen
 Belloi
 Belmont
-Beloeil
+Beloeil, Белёй
 Belsele
 Belselehoek
 Belva
@@ -662,7 +662,7 @@ Berchem
 Berchem-Sainte-Agathe
 Bercheux
 Berenbroek
-Berendrecht
+Berendrecht, Beirendrecht
 Berendries
 Berenheide
 Berentrode
@@ -1187,7 +1187,7 @@ Bracquegnies
 Braffe
 Braibant
 Braidise
-Braine-l'Alleud
+Braine-l'Alleud, Eigenbrakel
 Braine-le-Château
 Braine-le-Comte
 Braives
@@ -1297,7 +1297,7 @@ Brugge
 Bruggeneind
 Bruggenhoek
 Bruggewijk
-Brugse Poort
+Brugse Poort, Brugsepoort
 Brugse Poort-Rooigem
 Brugsken
 Brugstraat
@@ -1322,7 +1322,7 @@ Brunehault
 Brunfaut
 Brussegem
 Brusselbaan
-Brussels
+Brussels, Brussel, Bruxelles
 Brusselse Voorstad
 Brustem
 Bruul
@@ -1376,7 +1376,7 @@ Bulst
 Bultehoek
 Bulteneer
 Bultia
-Bund
+Bund, Bunt
 Bundermolen
 Bunders
 Bunderstraat
@@ -2449,7 +2449,7 @@ Emcômont
 Emelgem
 Emeville
 Emnuez
-Emptinnal
+Emptinnal, Emptinale
 Emptinne
 En Haut
 En Sterre
@@ -2521,7 +2521,7 @@ Esquelmes
 Esquenne
 Esquinterie
 Essen
-Essen-Hoek
+Essen-Hoek, Essenhoek
 Essenbeek
 Essene
 Essene Winkel
@@ -2663,7 +2663,7 @@ Fleurus
 Fleussu
 Flierendries
 Flinchaux
-Flobecq
+Flobecq, Vloesberg
 Flohimont
 Florbecq
 Floreffe
@@ -2872,7 +2872,7 @@ Furnaux
 Futvoie
 Fécher
 Fétinne
-Gaasbeek
+Gaasbeek, Гаасбек
 Gadin
 Gages
 Gaichel
@@ -4955,7 +4955,7 @@ Kozen
 Kraai
 Kraai Venne
 Kraaiberg
-Kraaienberg
+Kraaienberg, Kruisberg
 Kraaienboshof
 Kraaienbroek
 Kraaigem
@@ -5337,7 +5337,7 @@ Laeken
 Laforêt
 Lafru
 Lage Heide
-Lage Kaart
+Lage Kaart, Kaert, Caert, Kaart, Leeghe Caert
 Lage Moere
 Lagen Rielen
 Lagen Rooi
@@ -5941,7 +5941,7 @@ Liedekerke
 Lieferinge
 Liefkenshoek
 Lienne
-Lier
+Lier, Льер
 Lierenhoek
 Lierneux
 Liernu
@@ -6302,7 +6302,7 @@ Marcinelle
 Marcouray
 Marcourt
 Maredret
-Maredsous
+Maredsous, Маредсу
 Marencheneux
 Marengo
 Marenne
@@ -7369,7 +7369,7 @@ Ottergemse Dries
 Ottergemsestraat
 Otterkant
 Ottershoek
-Ottignies
+Ottignies, Оттиньи
 Ottignies-Louvain-la-Neuve
 Ottré
 Oubourcy
@@ -8099,7 +8099,7 @@ Recogne
 Recq
 Redia
 Redingen
-Redu
+Redu, Редю
 Reet
 Regenboog
 Regenwortel
@@ -8961,7 +8961,7 @@ Sint-Maria-Horebeke
 Sint-Maria-Latem
 Sint-Maria-Lierde
 Sint-Maria-Oudenhove
-Sint-Mariaburg
+Sint-Mariaburg, Mariaburg
 Sint-Marten
 Sint-Martens
 Sint-Martens-Bodegem
@@ -8969,9 +8969,9 @@ Sint-Martens-Latem
 Sint-Martens-Leerne
 Sint-Martens-Lennik
 Sint-Martens-Lierde
-Sint-Martens-Voeren
+Sint-Martens-Voeren, Fourons (Fouron-Saint-Martin)
 Sint-Martensberg
-Sint-Michiels
+Sint-Michiels, Saint-Michel-lez-Bruges
 Sint-Niklaas
 Sint-Onolfs-Dijk
 Sint-Paulus
@@ -9176,7 +9176,7 @@ Stabroek
 Staden
 Stadenberg
 Stadenreke
-Stadshoek
+Stadshoek, Stalshoek
 Stadt
 Stakendijk
 Stal
@@ -10398,7 +10398,7 @@ Wellen
 Wellin
 Wellingstraat
 Wemmel
-Wenduine
+Wenduine, Вандюин
 Weppeler
 Werbeek
 Werbomont

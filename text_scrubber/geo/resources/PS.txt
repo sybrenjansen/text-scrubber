@@ -4,7 +4,7 @@
 'Ajjah
 'Ajjūl
 'Akkābah
-'Almon
+'Almon, עלמון
 'Ammūryah
 'Anabtā
 'Anzah
@@ -29,7 +29,7 @@
 'Attīl
 'Awartā
 'Ayn 'Arīk
-'Ayn Qīniyā
+'Ayn Qīniyā, عين قينيا
 'Ayn Shiblī
 'Ayn Sāmyah
 'Ayn Sīnyā
@@ -46,10 +46,10 @@
 'Aţārūt
 'Eli
 'Enav
-'Ez Efrayim
+'Ez Efrayim, עץ אפרים
 'Ibwayn
 'Illār
-'Immanu'el
+'Immanu'el, עמנואל
 'Imwās
 'Innāb al Kabīr
 'Irqān Ţurād
@@ -71,7 +71,7 @@
 'Ūrīf
 Abasan al-Saghira
 Abu Salman
-Abū Dīs
+Abū Dīs, أبو ديس
 Abū Nujaym
 Abū Qashsh
 Abū Shukhaydim
@@ -87,7 +87,7 @@ Ad Duwwārah
 Adam
 Adei Ad
 Adnim
-Adora
+Adora, אדורה
 Adorah
 Ahia
 Al 'Alaqah al Fawqā
@@ -184,12 +184,12 @@ Al-Mughraqa
 Al-Ubeidiya
 Al-Zahra'
 Al-Zaitounah
-Alei Zahav
-Alfe Menashe
+Alei Zahav, עלי זהב
+Alfe Menashe, אלפי מנשה
 Allon
 Allon Shevut
-Almog
-Alon shvut
+Almog, אלמוג
+Alon shvut, אלון שבות
 Amihai
 An Nabī Ilyās
 An Nabī Mūsá
@@ -276,11 +276,11 @@ Banī Zayd
 Banī Zayd ash Shārqīyah
 Bardalah
 Barghashah
-Barqan
+Barqan, ברקן
 Barqan B
 Barţa'ah ash Sharqīyah
-Bat A'in
-Battir
+Bat A'in, בת עין
+Battir, ביתר עילית
 Bayt 'Abd al Qādir
 Bayt 'Amrah
 Bayt 'Anān
@@ -332,19 +332,19 @@ Baytīn
 Baytūnyā
 Bazzāryah
 Beit El
-Beit Sahour
+Beit Sahour, Beit Sahur
 Beit Ta'mir
 Beit ar-Rush al-Fauqa
 Benot Orot Yisra'el
-Beqa'ot
-Berakha
-Bet Arye
-Bet El
+Beqa'ot, בקעות
+Berakha, ברכה
+Bet Arye, בית אריה
+Bet El, בית אל
 Bet El B
 Bet H̱oron
 Bet H̱oron B
 Bet Yattir
-Bethlehem
+Bethlehem, بيت لحم
 Bi'r 'Awnah
 Biddū
 Bidyā
@@ -353,7 +353,7 @@ Bil'īn
 Birqīn
 Biyār al 'Arūs
 Brosh
-Bruchin
+Bruchin, ברוכין
 Brūqīn
 Budrus
 Burayḑi'ah
@@ -407,10 +407,10 @@ Dār Abū Şabḩā
 Dūmā
 Dūrā
 Dūrā al Qar'
-Efrata
+Efrata, אפרת
 Ein Al Saltan
 Elon More
-Elqana
+Elqana, אלקנה
 Elqana D
 Esh kodesh
 Eshkolot
@@ -427,9 +427,9 @@ Fuqayqīs
 Furūsh Bayt Dajan
 Ganei Modi'in
 Gaza
-Geva Binyamin
+Geva Binyamin, גבע בנימין
 Gilgal
-Gittit
+Gittit, גיתית
 Giv'at HaMerkaziz
 Giv'at HaMivtar
 Giv'at Harsina
@@ -445,17 +445,17 @@ Givat harel
 Hadab al-Fawwar
 Hadar Betar
 Har Adar
-Har Gillo
+Har Gillo, הר גילה
 Havot Yair
-Hebron
+Hebron, الخليل
 Hindaza
 Huraybat an Nabī
 Huwara
-H̱aggy
-H̱allamish
+H̱aggy, חגי
+H̱allamish, חלמיש
 H̱amra
 H̱ermesh
-H̱innanit
+H̱innanit, חיננית
 H̱omesh
 H̱oron Gimmel
 Ibzīq
@@ -487,7 +487,7 @@ Jannātah
 Janīn
 Jarbā'
 Jayyūs
-Jericho
+Jericho, أريحا
 Jifnā
 Jiftlik
 Jiljīlīyā
@@ -510,7 +510,7 @@ Kafr Jammāl
 Kafr Lāqif
 Kafr Mālik
 Kafr Ni`mah
-Kafr Qaddūm
+Kafr Qaddūm, אלון מורה
 Kafr Qallīl
 Kafr Qūd
 Kafr Rai
@@ -524,16 +524,16 @@ Kafr Şūr
 Kafā
 Kardalah
 Karmah
-Karme Ẕur
+Karme Ẕur, כרמי צור
 Karmel
-Karney Shomron
+Karney Shomron, קרני שומרון
 Kashdah
-Kefar 'Eẕyon
+Kefar 'Eẕyon, כפר עציון
 Kefar Adummim
 Kefar Na'aran
 Kefar Tappuah
 Keidar South
-Kerem Reim
+Kerem Reim, כרם רעים
 Khalayel Allouz
 Khallat 'Afānah
 Khallat 'Arabī
@@ -655,8 +655,8 @@ Khān al 'Askar
 Khārās
 Kida
 Kifil Ḩāris
-Kokhav Ya'aqov
-Kufayrit
+Kokhav Ya'aqov, כוכב יעקב
+Kufayrit, كفيرت
 Kufr Rai'
 Kurzah
 Kurīsah
@@ -665,17 +665,17 @@ Kūbar
 Kūr
 Kūzībah
 Leshem
-Ma'ale 'Amos
+Ma'ale 'Amos, מעלה עמוס
 Ma'ale Adumim
-Ma'ale Adummim
-Ma'ale Efrayim
+Ma'ale Adummim, מעלה אדומים
+Ma'ale Efrayim, מעלה אפרים
 Ma'ale H̱ever
 Ma'ale Levona
 Ma'ale Mikhmas
 Ma'alot Dafna
 Ma'on
 Ma'īn
-Maale Rehav'am
+Maale Rehav'am, מעלה רחבעם
 Madīnat al 'Awdah
 Magen dan
 Maghāyir al 'Abīd
@@ -692,17 +692,17 @@ Mashra' Abū Gharbah
 Massu'a
 Masḩah
 Matkhan Tappuah
-Mattityahu
+Mattityahu, מתתיהו
 Maythalūn
 Mazor Atiqa
 Maḩaţţat Taḩsīn Manşūr
 Menora
 Metzoke dragot
 Mevo Dotan
-Mevo H̱oron
+Mevo H̱oron, מבוא חורון
 Mevo Shillo
-Mezad
-Mezad B
+Mezad, אספר
+Mezad B, אספר
 Meẖola
 Migdal Oz
 Migdallim
@@ -712,7 +712,7 @@ Mirkah
 Mishor Adummim
 Mislīyah
 Mizpe Rahel
-Miẕpé Shalem
+Miẕpé Shalem, מצפה שלם
 Mādamā
 Na'ale
 Nablus
@@ -726,12 +726,12 @@ Nazlet Isa
 Naḥal Qatif
 Naḩḩālīn
 Naẖal 'Irit
-Naẖal Argaman
+Naẖal Argaman, ארגמן
 Naẖal Elisha'
 Naẖal Geva'ot
 Naẖal H̱emdat
-Naẖal Kalya
-Naẖal Mekhora
+Naẖal Kalya, קליה
+Naẖal Mekhora, מכורה
 Naẖal Negohot
 Naẖal Ro'i
 Naẖal Yaqin
@@ -739,7 +739,7 @@ Naẖali'el
 Naẖl Mivsam
 Netafim
 Netiv HaGedud
-Neve Daniel
+Neve Daniel, נוה דניאל
 Newe Oranim
 Newe Ya'aqov
 Ni'lin
@@ -749,18 +749,18 @@ Niriyya
 Nişf Jubayl
 Nofe Nehemia
 Nofim
-Nokdim
+Nokdim, נוקדים
 Noqedim
 Nīfī Ya'qūb
 Nūbā
 Nūr ash Shams
-Ofra
+Ofra, עפרה
 Oranit
-Otniel
-Pedu'el
+Otniel, עתניאל
+Pedu'el, פדואל
 Pelas
-Pesagot
-Peẕa'el
+Pesagot, פסגות
+Peẕa'el, פצאל
 Pisgat Amir
 Qabalān
 Qabāţīyah
@@ -771,14 +771,14 @@ Qalqas
 Qalqīlyah
 Qanān Jābir
 Qarawat Bani Hassan
-Qarne Shomeron
+Qarne Shomeron, קרני שומרון
 Qaryūt
 Qarāwat Banī Zayd
 Qarāwat Banī Ḩasan
 Qawāwīs
 Qaţanah
-Qedar
-Qedumim
+Qedar, קידר
+Qedumim, קדומים
 Qedumim 'Illit
 Qibyah
 Qilā' Zaytā
@@ -834,17 +834,17 @@ Sa'īr
 Sabasţīyah
 Saffārīn
 Saknat az Zarqā'
-Sal'it
+Sal'it, סלעית
 Salfīt
 Sannīryā
 Sha'are Tiqwa
 Shabtīn
 Shadmot Mehola
-Shaked
+Shaked, שקד
 Shamālīyah al Hawá
 Shaqed
 Sharafāt
-Shave Shomeron
+Shave Shomeron, שבי שומרון
 Shawawrah
 Shaykh Jarrāḩ
 Shilat
@@ -866,7 +866,7 @@ Silat al-Dahr
 Silwād
 Sinjil
 Surdā
-Suseya
+Suseya, סוסיה
 Sālim
 Sīlat al Ḩārithīyah
 Sīlat az̧ Z̧ahr
@@ -876,7 +876,7 @@ Tal Menashe
 Talfīt
 Tall al Khashbah
 Talmon
-Talmon B
+Talmon B, נריה
 Talmon C
 Tannīn
 Tarqūmyā
@@ -908,7 +908,7 @@ Umm ash Shaqḩān
 Umm at Tūt
 Umm Şafā
 Umm Ţūbā
-Vered Yeriho
+Vered Yeriho, ורד יריחו
 Wadi al-Far'a
 Wered Yeriẖo
 Wādī 'Ubayd
@@ -934,13 +934,13 @@ Ya'arit
 Ya'bad
 Yabrūd
 Yafit
-Yaqqir
+Yaqqir, יקיר
 Yatmā
 Yattir
 Yaţţā
 Yeshuv Hadaat
-Yitav
-Yiẕhar
+Yitav, ייטב
+Yiẕhar, יצהר
 Yālū
 Yānūn
 Yāsūf
@@ -953,7 +953,7 @@ Zaytā Jammā'īn
 Zohar
 Zoref B
 Zubūbah
-Zufin
+Zufin, צופים, Zofim
 Zīf
 Z̧ahr al 'Abd
 Z̧ahr al Māliḩ
@@ -967,7 +967,7 @@ al-Kum
 al-Minya
 al-Mudawwar
 al-Shuyukh
-kfar Eldad
+kfar Eldad, כפר אלדד
 Şaffā
 Şarrah
 Şarţah

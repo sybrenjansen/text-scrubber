@@ -5958,8 +5958,8 @@ Cấp Kỹ
 Cấp Rang
 Cấp Tiến
 Cầm Thượng
-Cần Giuộc
-Cần Giờ
+Cần Giuộc, Can Giuoc
+Cần Giờ, Can Gio
 Cần Hạnh
 Cần Hỏi
 Cần Lương
@@ -7444,7 +7444,7 @@ Hanh Lợi
 Hanh Thien
 Hanh Thòn
 Hanh Thông Xã
-Hanoi
+Hanoi, Hà Nội
 Hao Nam
 Hap Cay
 Hat Dich
@@ -7529,7 +7529,7 @@ Hiệu Vũ
 Hmodo
 Hnguom
 Ho Cang
-Ho Chi Minh City
+Ho Chi Minh City, Sài Gòn, Saigon, TPHCM, Thành phố Hồ Chí Minh
 Ho Hai
 Ho Hin Dam
 Ho La Pi
@@ -7705,7 +7705,7 @@ Huyện Bảo Lâm
 Huyện Chiêm Hóa
 Huyện Châu Thành
 Huyện Kiên Hải
-Huyện Lâm Hà
+Huyện Lâm Hà, Lâm Hà
 Huyện Mộc Châu
 Huyện Sốp Cộp
 Huyện Yên Châu
@@ -14740,7 +14740,7 @@ Phan Lìn
 Phan Lý
 Phan Lương
 Phan Noc
-Phan Rang-Tháp Chàm
+Phan Rang-Tháp Chàm, Phan Rang
 Phan Rí Cửa
 Phan Sui Lin
 Phan Thiết
@@ -17380,7 +17380,7 @@ Sôn Dược
 Sông Ba
 Sông Bé
 Sông Cái
-Sông Cầu
+Sông Cầu, Song Cau
 Sông Dinh
 Sông Dông
 Sông Giang
@@ -18626,9 +18626,9 @@ Thôn Phú Xuyên
 Thôn Phú Ân Bắc
 Thôn Phú Đa
 Thôn Phú Đăng
-Thôn Phúc Hưng
-Thôn Phúc Thanh
-Thôn Phúc Tân
+Thôn Phúc Hưng, Thôn 1
+Thôn Phúc Thanh, Thôn 3
+Thôn Phúc Tân, Thôn 4
 Thôn Phương Lang Tây
 Thôn Phương Lang Đông
 Thôn Phương Xuân
@@ -21460,7 +21460,7 @@ Vũ Điện
 Vũng Bầu
 Vũng Dứa
 Vũng Liêm
-Vũng Tàu
+Vũng Tàu, Saint James, Cape Saint James, St. James
 Vưc Trơn
 Vương
 Vườn Bưởi
@@ -23348,7 +23348,7 @@ Yệ Linh
 Zao Po
 Zin Kia
 kon Hono
-thị xã Quảng Trị
+thị xã Quảng Trị, Quảng Trị
 À Pé Ló Tè
 Àn Lữ
 Á Lũ
@@ -24265,7 +24265,7 @@ thị xã Quảng Trị
 Đồng Hồ
 Đồng Hội Hai
 Đồng Hội Một
-Đồng Hới
+Đồng Hới, Dong Hoi
 Đồng Kha
 Đồng Khai
 Đồng Khang

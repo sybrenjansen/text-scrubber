@@ -562,7 +562,7 @@ Ansammi
 Ansan
 Ansan-dong
 Ansan-mal
-Ansan-si
+Ansan-si, 안산시
 Ansanbat
 Ansangeon
 Ansangol
@@ -658,7 +658,7 @@ Anwŏllim
 Anwŏn-gol
 Anyang
 Anyang-dong
-Anyang-si
+Anyang-si, 안양시
 Anyangchil-dong
 Anyangdong
 Anyanggok
@@ -2332,13 +2332,13 @@ Bongbok
 Bongbudong
 Bongchangdong
 Bongcheon
-Bongcheon 2-dong
-Bongcheon 4-dong
-Bongcheon 5-dong
-Bongcheon 8-dong
-Bongcheon 9-dong
-Bongcheon-dong
-Bongcheonbon-dong
+Bongcheon 2-dong, 봉천2동
+Bongcheon 4-dong, 봉천4동
+Bongcheon 5-dong, 봉천5동
+Bongcheon 8-dong, 봉천8동
+Bongcheon 9-dong, 봉천9동
+Bongcheon-dong, 봉천동
+Bongcheonbon-dong, 봉천본동
 Bongchi
 Bongchodong
 Bongchon
@@ -2459,7 +2459,7 @@ Bora
 Borae
 Boraegok
 Boraegol
-Boramae-dong
+Boramae-dong, 보라매동
 Borani
 Borei-ri
 Boreumchi
@@ -2504,7 +2504,7 @@ Buchaedeul
 Buchaegol
 Bucheodaengi
 Bucheomal
-Bucheon-si
+Bucheon-si, 부천시
 Bucheonae
 Bucheoul
 Buchi
@@ -2744,7 +2744,7 @@ Burye
 Buryeonggol
 Buryongdong
 Busa-ri
-Busan
+Busan, 부산광역시
 Busanggol
 Busawolli
 Buseo
@@ -3921,14 +3921,14 @@ Cheongidong
 Cheongja
 Cheongjeon
 Cheongjilli
-Cheongju-si
+Cheongju-si, 청주시
 Cheongjungmal
 Cheongmeori
 Cheongmokdong
 Cheongnam
 Cheongneung
 Cheongnim
-Cheongnim-dong
+Cheongnim-dong, 청림동
 Cheongnyang
 Cheongnyangdong
 Cheongnyangnigol
@@ -3957,7 +3957,7 @@ Cheongseokgung
 Cheongseong
 Cheongso
 Cheongsong
-Cheongsong gun
+Cheongsong gun, 청송
 Cheongsu
 Cheongsudong
 Cheongsugol
@@ -5209,7 +5209,7 @@ Daecheon
 Daecheondong
 Daecheongi
 Daechi
-Daechi-dong
+Daechi-dong, 대치동
 Daechiarenmal
 Daechii-dong
 Daechil
@@ -5285,7 +5285,7 @@ Daegokteo
 Daegol
 Daegongni
 Daegoryeong
-Daegu
+Daegu, 대구광역시
 Daegujeong
 Daegungteo
 Daeguri
@@ -5302,7 +5302,7 @@ Daehadong
 Daehae
 Daehaeng
 Daehak
-Daehak-dong
+Daehak-dong, 대학동
 Daehakdong
 Daehalli
 Daehan
@@ -6367,7 +6367,7 @@ Dongdi
 Dongdong
 Dongdopo
 Dongdoraji
-Dongducheon-si
+Dongducheon-si, 동두천시
 Dongdumal
 Dongdusan
 Donggadong
@@ -7704,7 +7704,7 @@ Gangguteo
 Ganggye
 Ganggyeong
 Ganghoe
-Ganghwa-gun
+Ganghwa-gun, 강화군
 Ganghwadong
 Gangi
 Gangidae
@@ -8375,7 +8375,7 @@ Gilsan
 Gilsangsa
 Giman
 Gimburi
-Gimcheon
+Gimcheon, 김천
 Gimcheondong
 Gimchon
 Gimchon-mal
@@ -8394,7 +8394,7 @@ Gimjikgol
 Gimnamjeong
 Gimnyang
 Gimnyong
-Gimpo-si
+Gimpo-si, 김포시
 Gimsaeng
 Gimsan
 Gimsin
@@ -8897,7 +8897,7 @@ Gowondong
 Goya
 Goyagok
 Goyang
-Goyang-si
+Goyang-si, 고양시
 Goyangdong
 Goyanggol
 Goyanggyo
@@ -9213,7 +9213,7 @@ Gunpo
 Gunpoi-dong
 Gunpoil-dong
 Gunpori
-Gunsan
+Gunsan, Kunsanpo
 Gunseo
 Gunsudong
 Guongjeom
@@ -9252,7 +9252,7 @@ Gureungjae
 Gureungmal
 Gureungmok
 Gureungteo
-Guri-si
+Guri-si, 구리시
 Gurian
 Guridong
 Gurigol
@@ -9690,7 +9690,7 @@ Gyeongchon
 Gyeongdae
 Gyeongdo
 Gyeongdong
-Gyeonggi-do
+Gyeonggi-do, 경기도
 Gyeonggok
 Gyeonggwang
 Gyeonghyang
@@ -9702,7 +9702,7 @@ Gyeongneungi
 Gyeongnim
 Gyeongpo
 Gyeongsan
-Gyeongsan-si
+Gyeongsan-si, 경산시
 Gyeongsang
 Gyeongsangni
 Gyeongsikhyeondong
@@ -10048,7 +10048,7 @@ Haengsal-li
 Haengsan
 Haengsibi
 Haengsori
-Haengun-dong
+Haengun-dong, 행운동
 Haengwŏl-li
 Haenmal
 Haep'yŏng
@@ -10621,9 +10621,9 @@ Hanga-gol
 Hangae
 Hangam
 Hangang
-Hangangno 1-ga
-Hangangno 2-ga
-Hangangno 3-ga
+Hangangno 1-ga, 한강로1가
+Hangangno 2-ga, 한강로2가
+Hangangno 3-ga, 한강로3가
 Hangaraegi
 Hangasim
 Hangatgol
@@ -10867,7 +10867,7 @@ Hapilli
 Hapilsan
 Hapjeokgol
 Hapjeon
-Hapjeong-dong
+Hapjeong-dong, 합정동
 Hapka-dong
 Hapkang-ni
 Hapkong-ni
@@ -11387,7 +11387,7 @@ Hongandong
 Hongbok
 Hongbom-ni
 Hongch'ŏl-li
-Hongch'ŏn
+Hongch'ŏn, 홍천군
 Hongchanggol
 Hongcheon
 Hongcheon-mal
@@ -11596,7 +11596,7 @@ Hwach'ŏn
 Hwach'ŏn-dong
 Hwach'ŏn-ni
 Hwachang
-Hwacheon
+Hwacheon, 화천군
 Hwacheong
 Hwacheonsamgu
 Hwachi-dong
@@ -11922,7 +11922,7 @@ Hwaseok
 Hwaseokdong
 Hwaseondong
 Hwaseong
-Hwaseong-si
+Hwaseong-si, 화성시
 Hwaseonggol
 Hwaseongni
 Hwasil
@@ -12248,7 +12248,7 @@ Ich'oni-dong
 Ich'onil-tong
 Ich'ŏl-li
 Icheon
-Icheon-si
+Icheon-si, 이천시
 Icheondaeri
 Icheongeo-ri
 Ichi
@@ -12507,7 +12507,7 @@ Inbi
 Inbo-ri
 Inbong
 Inbŏl-gol
-Incheon
+Incheon, 인천광역시, Chemulpo
 Inchon
 Inchugol
 Indara
@@ -12532,7 +12532,7 @@ Ingye-dong
 Ingyo
 Ingyodong
 Inhak
-Inheon-dong
+Inheon-dong, 인헌동
 Inheung
 Inheung-ri Igu
 Inheung-ri Ilgu
@@ -13328,7 +13328,7 @@ Jejanggye
 Jejeon
 Jejeong
 Jejimoe
-Jeju City
+Jeju City, 제주시
 Jenae
 Jenam
 Jenzan
@@ -13779,7 +13779,7 @@ Jinaesil
 Jinaeul
 Jinam
 Jinan
-Jinan-gun
+Jinan-gun, 진안군
 Jinbaemi
 Jinbat
 Jinbatdeul
@@ -14131,7 +14131,7 @@ Jotang
 Joumpo-ri
 Joun
 Jowol
-Jowon-dong
+Jowon-dong, 조원동
 Joya
 Joyang
 Joyangchon
@@ -14247,7 +14247,7 @@ Jung-ri
 Jungam
 Jungan
 Jungang
-Jungang-dong
+Jungang-dong, 중앙동
 Jungangdong
 Junganggol
 Jungangni
@@ -15347,7 +15347,7 @@ Kiman-dong
 Kimburak
 Kimch'on
 Kimgaek-tong
-Kimhae
+Kimhae, Gimhae
 Kimjang-gol
 Kimje
 Kimji
@@ -16127,7 +16127,7 @@ Kunsa-ri
 Kunt'ŏ
 Kunul
 Kunut'ŏ
-Kunwi
+Kunwi, 군위
 Kunwisil
 Kunyu
 Kunŏn
@@ -16167,7 +16167,7 @@ Kuron
 Kurul-li
 Kurun
 Kuryang
-Kurye
+Kurye, 구례
 Kurye-dong
 Kurye-gol
 Kurye-mal
@@ -18435,7 +18435,7 @@ Mungneomeo
 Mungnon-gol
 Mungogae
 Mungok
-Mungyeong
+Mungyeong, 문경
 Mungyodong
 Munhae
 Munhak-tong
@@ -18645,7 +18645,7 @@ Myeoncheon
 Myeondaedong
 Myeondap
 Myeondong
-Myeong-dong
+Myeong-dong, 명동
 Myeongam
 Myeongamjeong
 Myeongbakgol
@@ -19286,7 +19286,7 @@ Naksan
 Naksang-ni
 Nakseong
 Nakseong-chodeunghakgyo
-Nakseongdae-dong
+Nakseongdae-dong, 낙성대동
 Nakseonnaedeul
 Naksigol
 Naksu
@@ -19409,7 +19409,7 @@ Namhoe
 Namhoeryong
 Namhyang
 Namhyang-dong
-Namhyeon-dong
+Namhyeon-dong, 남현동
 Namhyeondong
 Namhyŏn-dong
 Nami-ri
@@ -19538,9 +19538,9 @@ Namyang-ch'on
 Namyang-gol
 Namyang-ni
 Namyangchon
-Namyangju
+Namyangju, 남양주시
 Namyangteo
-Namyeong-dong
+Namyeong-dong, 남영동
 Namyŏm
 Namyŏsan
 Namŭl-gol
@@ -19578,7 +19578,7 @@ Nangyuri
 Nanho
 Nanhwa
 Nanhwagyo
-Nanhyang-dong
+Nanhyang-dong, 난향동
 Nanigol
 Nanjangimal
 Nanjeom
@@ -21150,7 +21150,7 @@ Oryonggol
 Oryongi
 Orysil
 Oryu
-Oryu-dong
+Oryu-dong, 오류동
 Oryu-gol
 Oryu-ri
 Oryuch'on
@@ -22178,7 +22178,7 @@ Poch'ŏn
 Pochangdong
 Pocheol
 Pocheon
-Pocheon-si
+Pocheon-si, 포천시
 Pochon
 Podae
 Podang-dong
@@ -22785,7 +22785,7 @@ Pyeongseon
 Pyeongseong
 Pyeongsi
 Pyeongsin
-Pyeongtaek
+Pyeongtaek, Pyeongtaek-si, 평택시
 Pyeongtteum
 Pyeongudong
 Pyeongwido
@@ -25078,7 +25078,7 @@ Sant'ŏ
 Santaek
 Santei
 Santei-ri
-Santyoku
+Santyoku, Samcheok
 Sanu
 Sanuijeol
 Sanul
@@ -25330,7 +25330,7 @@ Sejilmok
 Sejimmae
 Sejin
 Sejipdam
-Sejong
+Sejong, Yeongi
 Sejongno-dong
 Seju-gol
 Sejuk
@@ -25823,7 +25823,7 @@ Seongnaesil
 Seongnajaro-maeul
 Seongnam
 Seongnam-dong
-Seongnam-si
+Seongnam-si, 성남시
 Seongnamgol
 Seongneomeo
 Seongnim
@@ -25844,7 +25844,7 @@ Seongseok
 Seongseokdong
 Seongsin
 Seongsu
-Seongsu-dong
+Seongsu-dong, 성수동
 Seongsudeul
 Seongsudong
 Seongteo
@@ -25934,7 +25934,7 @@ Seori
 Seoridong
 Seorigol
 Seorim
-Seorim-dong
+Seorim-dong, 서림동
 Seorimni
 Seorisil
 Seorumi
@@ -25975,7 +25975,7 @@ Seotbattaengi
 Seotgat
 Seoudong
 Seouidong
-Seoul
+Seoul, 한양, 서울특별시, Hanyang
 Seoulnadeuri
 Seounae
 Seountae
@@ -25983,7 +25983,7 @@ Seowangni
 Seowolli
 Seowolseong
 Seowon
-Seowon-dong
+Seowon-dong, 서원동
 Seowon-mal
 Seowonanmal
 Seowonapdeung
@@ -26157,7 +26157,7 @@ Sigyuldong
 Sigŏ-ri
 Sigŭmuk
 Sihaengi
-Siheung-dong
+Siheung-dong, 시흥동
 Siheunggol
 Siheungi-dong
 Siheungo-dong
@@ -26221,13 +26221,13 @@ Silligok
 Silligol
 Sillije
 Sillim
-Sillim 10-dong
-Sillim 11-dong
-Sillim 12-dong
-Sillim 13-dong
-Sillim 3-dong
-Sillim 6-dong
-Sillim-dong
+Sillim 10-dong, 신림10동
+Sillim 11-dong, 신림11동
+Sillim 12-dong, 신림12동
+Sillim 13-dong, 신림13동
+Sillim 3-dong, 신림3동
+Sillim 6-dong, 신림6동
+Sillim-dong, 신림동
 Sillim-ni
 Sillimbon-dong
 Sillol-li
@@ -26739,7 +26739,7 @@ Sinpyeongchon
 Sinpyeongni
 Sinryong
 Sinsa
-Sinsa-dong
+Sinsa-dong, 신사동
 Sinsa-ri
 Sinsabong
 Sinsadong
@@ -26834,7 +26834,7 @@ Sinwoldong
 Sinwolli
 Sinwolpyeong
 Sinwolsan
-Sinwon-dong
+Sinwon-dong, 신원동
 Sinwondae
 Sinwondong
 Sinwŏl-li
@@ -27102,7 +27102,7 @@ Sogil-li
 Sogo
 Sogok
 Sogol
-Sogong-dong
+Sogong-dong, 소공동
 Sogongnim
 Sogop'o-ri
 Sogot
@@ -27576,7 +27576,7 @@ Songun
 Songundong
 Songwŏl
 Songwŏl-li
-Songwŏl-tong
+Songwŏl-tong, 송월동
 Songwŏn
 Songwŏn-dong
 Songwŏndu
@@ -28360,7 +28360,7 @@ Suwol-li
 Suwoldong
 Suwolha
 Suwolli
-Suwon
+Suwon, 수원시
 Suwondong
 Suwongol
 Suwonteo
@@ -30343,7 +30343,7 @@ Ttuiul
 Ttuiyakgol
 Ttukjeon
 Ttukkyeongsaemgeori
-Ttukseom
+Ttukseom, 뚝섬
 Ttungguji
 Ttungjeom
 Ttungmal
@@ -30822,7 +30822,7 @@ Uijeong
 Uijeongbu i dong
 Uijeongbu il dong
 Uijeongbu sam dong
-Uijeongbu-si
+Uijeongbu-si, 의정부시
 Uimeokdong
 Uimeori
 Uisan
@@ -30900,7 +30900,7 @@ Ullyong-ni
 Ullŭng
 Ulmi
 Ulmol
-Ulsan
+Ulsan, 울산광역시
 Ulseong
 Ulsil
 Ulttui
@@ -31452,7 +31452,7 @@ Wanjang
 Wanjeon
 Wanjeong
 Wanjong
-Wanju
+Wanju, 완주
 Wanjugwan
 Wanp'o-ri
 Wansa
@@ -32854,7 +32854,7 @@ Yanggitteum
 Yanggogae
 Yanggoji
 Yanggok
-Yanggok-ri
+Yanggok-ri, 양곡리
 Yanggol
 Yanggu
 Yanggurye
@@ -32963,7 +32963,7 @@ Yangjittŭm
 Yangjiul
 Yangjiwangbang
 Yangjojangmaeul
-Yangju
+Yangju, 양주
 Yangju-dong
 Yangjulli
 Yangjung-ni
@@ -33267,7 +33267,7 @@ Yeongdangdong
 Yeongdeok
 Yeongdeung
 Yeongdeung-ri
-Yeongdeungpo-dong
+Yeongdeungpo-dong, 영등포동
 Yeongdo
 Yeongdong
 Yeongdonggol
@@ -33450,7 +33450,7 @@ Yeou-gol
 Yeouchi
 Yeougol
 Yeougumeongppuri
-Yeoui-dong
+Yeoui-dong, 여의동
 Yeouichon
 Yeouidong
 Yeouiri

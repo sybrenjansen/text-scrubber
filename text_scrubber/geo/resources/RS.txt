@@ -1,6 +1,6 @@
 Acimija
 Ackovići
-Ada
+Ada, Asszonyfalva
 Adaševci
 Adimovci
 Adorjan
@@ -160,7 +160,7 @@ Banatski Dvor
 Banatski Karlovac
 Banatski Monoštor
 Banatski Sokolac
-Banatsko Aranđelovo
+Banatsko Aranđelovo, Oroszlámos
 Banatsko Karađorđevo
 Banatsko Novo Selo
 Banatsko Veliko Selo
@@ -240,7 +240,7 @@ Bačina
 Bačinac
 Bačinci
 Bačiće
-Bačka Palanka
+Bačka Palanka, Palanka
 Bačka Topola
 Bački Breg
 Bački Brestovac
@@ -249,12 +249,12 @@ Bački Jarak
 Bački Monoštor
 Bački Petrovac
 Bački Sokolac
-Bački Vinogradi
+Bački Vinogradi, Királyhalom
 Bačko Dobro Polje
 Bačko Dušanovo
-Bačko Gradište
+Bačko Gradište, Földvár, Bácsföldvár
 Bačko Novo Selo
-Bačko Petrovo Selo
+Bačko Petrovo Selo, Péterréve
 Bačvište
 Bašaid
 Bašejci
@@ -273,7 +273,7 @@ Begovići
 Beke
 Bekrici
 Bela
-Bela Crkva
+Bela Crkva, Бела-Црква
 Bela Klada
 Bela Palanka
 Bela Reka
@@ -286,7 +286,7 @@ Belasica
 Belbradić
 Bele Vode
 Belegiš
-Belgrade
+Belgrade, Belgrád, Beograd
 Beli Breg
 Beli Gaj
 Beli Kamen
@@ -342,7 +342,7 @@ Besolica
 Bezdan
 Bećirovina
 Bećirovići
-Bečej
+Bečej, Óbecse, Бечей, Becse
 Bečevica
 Bečmen
 Bečvari
@@ -992,7 +992,7 @@ Dokići
 Dokmir
 Dol
 Dolac
-Dolac naselje
+Dolac naselje, Долац насеље
 Dolarci
 Dolarska Mahala
 Dolenja Bistrica
@@ -1199,7 +1199,7 @@ Donji Ljubeš
 Donji Majur
 Donji Malići
 Donji Matejevac
-Donji Milanovac
+Donji Milanovac, Доньи Миловац
 Donji Mišević
 Donji Mrčići
 Donji Mušić
@@ -1600,7 +1600,7 @@ Golo Brdo
 Golobok
 Golovša
 Goločevina
-Golubac
+Golubac, Голубац
 Goluban
 Golubinci
 Golubinje
@@ -2135,7 +2135,7 @@ Jazak
 Jazavnik
 Jazbine
 Jazovnik
-Jazovo
+Jazovo, Hódegyháza
 Jaćovac
 Jaša Tomić
 Jašunja
@@ -2265,7 +2265,7 @@ Kaluđerovići
 Kaluđerovo
 Kaluševici
 Kalčinska Mahala
-Kambelevac
+Kambelevac, Камбелевац
 Kamena Gora
 Kamenar
 Kamenare
@@ -2287,7 +2287,7 @@ Kamičak
 Kandalica
 Kandići
 Kanjevina
-Kanjiža
+Kanjiža, Magyarkanizsa, Канижа, Kanizsa
 Kaona
 Kaonik
 Kapidžija
@@ -2370,7 +2370,7 @@ Kitka
 Kičerci
 Kišinske Trle
 Kladnica
-Kladovo
+Kladovo, Кладово
 Kladuše
 Kladušnica
 Klajić
@@ -2559,7 +2559,7 @@ Kovačići
 Kovačka Mahala
 Kovilj
 Kovilovo
-Kovin
+Kovin, Ковин
 Kovioci
 Kovizla
 Kovucević
@@ -2806,7 +2806,7 @@ Lanići
 Lanište
 Lapotince
 Lapovići
-Lapovo
+Lapovo, Лапово
 Lapčevići
 Lasovo
 Latkovac
@@ -2816,7 +2816,7 @@ Laudanovac
 Lauši
 Lavra
 Laz
-Lazarevac
+Lazarevac, Лазаревац
 Lazarevića Kraj
 Lazarevići
 Lazarevo
@@ -2935,7 +2935,7 @@ Ljeskovac
 Ljevaja
 Lješnica
 Lještanci
-Ljig
+Ljig, Лиг
 Ljiljci
 Ljobojevici
 Ljuba
@@ -3058,8 +3058,8 @@ Mahala
 Mahanjići
 Mailovići
 Majdaci
-Majdan
-Majdanpek
+Majdan, Majdány, Majdán, Magyarmajdán
+Majdanpek, Майданпек
 Majdevo
 Majilovac
 Majkovac
@@ -3219,7 +3219,7 @@ Marjanovići
 Markićevic
 Markov Rid
 Markova Crkva
-Markovac
+Markovac, Марковац
 Markovci
 Markovica
 Markovica Mala
@@ -3484,7 +3484,7 @@ Mokra
 Mokranje
 Mokrin
 Mokrič
-Mol
+Mol, Mohol, Mohorréve
 Mol-Obornjača
 Molin
 Moljkovići
@@ -3647,15 +3647,15 @@ Novaci
 Novakovića Mala
 Novakovići
 Novi Banovci
-Novi Beograd
-Novi Bečej
+Novi Beograd, New Belgrade, Нови Београд
+Novi Bečej, Törökbecse
 Novi Bračin
 Novi Dvor
 Novi Glog
 Novi Itebej
 Novi Karlovci
 Novi Kisač
-Novi Kneževac
+Novi Kneževac, Törökkanizsa
 Novi Kozarci
 Novi Majur
 Novi Milanovac
@@ -3796,7 +3796,7 @@ Osredak
 Ostatija
 Ostatovica
 Ostojića Šor
-Ostojićevo
+Ostojićevo, Tiszaszentmiklós
 Ostojići
 Ostra Glava
 Ostreš
@@ -3810,7 +3810,7 @@ Otroci
 Ovcenica
 Ovsinjinac
 Ovsište
-Ovča
+Ovča, Овча
 Ovčar Banja
 Ovčinjsko Polje
 Ozorci
@@ -3822,7 +3822,7 @@ Oštrelj
 Oštrik
 Ožegovići
 Padalište
-Padej
+Padej, Padé
 Padež
 Padina
 Padinari
@@ -3879,7 +3879,7 @@ Pantića Mala
 Pantići
 Pantićka Mala
 Pantovići
-Pančevo
+Pančevo, Pancsova
 Papiće
 Papići
 Papratište
@@ -3892,7 +3892,7 @@ Parage
 Paralovac
 Paramun
 Paraći
-Paraćin
+Paraćin, Парачин
 Parcane
 Parcani
 Pardik
@@ -3998,7 +3998,7 @@ Petronijevići
 Petropolje
 Petrova Niva
 Petrovac
-Petrovaradin
+Petrovaradin, Петроварадин
 Petrovići
 Petrovičić
 Petruša
@@ -4207,7 +4207,7 @@ Požega
 Požegrmac
 Požeženo
 Požežina
-Prahovo
+Prahovo, Praova
 Pranjani
 Pranjci
 Praskovče
@@ -4356,7 +4356,7 @@ Pšanik
 R. Uglja
 Rabas
 Rabasovici
-Rabe
+Rabe, Rábé
 Rabenovac
 Rabrenovac
 Rabrovac
@@ -4729,7 +4729,7 @@ Rutevac
 Ručetin
 Ruđa
 Rušan Pivnica
-Rušanj
+Rušanj, Рушань
 Ružina Mahala
 Ružići
 Rvati
@@ -4832,7 +4832,7 @@ Senjak
 Senje
 Senjski Rudnik
 Senokos
-Senta
+Senta, Zenta, Szintarév, Сента
 Seoce
 Seone
 Sepci
@@ -4891,7 +4891,7 @@ Sklop
 Skobalj
 Skok
 Skokuće
-Skorenovac
+Skorenovac, Székelykeve
 Skorica
 Skorići
 Skradnik
@@ -4932,7 +4932,7 @@ Slomna Gora
 Sloniči
 Slovac
 Smajlovići
-Smederevo
+Smederevo, Semendria
 Smederevska Palanka
 Smedovac
 Smiljana
@@ -5009,9 +5009,9 @@ Srednji Statovac
 Sredojevići
 Sredor
 Sremska Kamenica
-Sremska Mitrovica
+Sremska Mitrovica, Srem. Mitrovica
 Sremska Rača
-Sremski Karlovci
+Sremski Karlovci, Karloca, Сремски-Карловци
 Sremski Mihaljevci
 Sremče
 Sremčica
@@ -5365,7 +5365,7 @@ Topola
 Topolnica
 Topolovnik
 Toponica
-Torak
+Torak, Begejci
 Torda
 Tornik
 Tornjoš
@@ -5373,7 +5373,7 @@ Torđevo
 Toskići
 Totinci
 Totići
-Totovo Selo
+Totovo Selo, Tóthfalu
 Tovariševo
 Tovarnica
 Točak
@@ -5510,7 +5510,7 @@ Urvič
 Useljine
 Usije
 Utrina
-Utrine
+Utrine, Törökfalu
 Utrobe
 Uvac
 Uvala
@@ -5832,7 +5832,7 @@ Vražogrnac
 Vražogrnci
 Vrba
 Vrban
-Vrbas
+Vrbas, Врбас
 Vrbeta
 Vrbica
 Vrbnica
@@ -5972,7 +5972,7 @@ Zahumsko
 Zajača
 Zajednica
 Zaječak
-Zaječar
+Zaječar, Заечар
 Zaječiće
 Zajkini
 Zaklopača
@@ -6032,7 +6032,7 @@ Zekići
 Zelenik
 Zeleznica
 Zeljići
-Zemun
+Zemun, Semlin
 Zemun Polje
 Zeoke
 Zerađe
@@ -6052,7 +6052,7 @@ Zlatare
 Zlatarevina
 Zlatari
 Zlatarić
-Zlatibor
+Zlatibor, Златибор
 Zlatica
 Zlatićevo
 Zlatići
@@ -6276,7 +6276,7 @@ Zvonce
 Čumići
 Čundrak
 Čungula
-Čurug
+Čurug, Csurog
 Čučale
 Čučuge
 Čučunje

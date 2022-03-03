@@ -553,7 +553,7 @@ Benowo
 Berdechów
 Berdyszcze
 Berehy Dolne
-Berehy Górne
+Berehy Górne, Brzegi Górne
 Berejów
 Beresie Duże
 Beresie Małe
@@ -661,7 +661,7 @@ Biała Podlaska
 Biała Rawska
 Biała Rzeka
 Biała Rządowa
-Biała Róża
+Biała Róża, Róża
 Biała Wielka
 Biała Wieś
 Biała Woda
@@ -711,7 +711,7 @@ Białogard
 Białogarda
 Białogon
 Białogrądy
-Białogóra
+Białogóra, Wittenberg
 Białogórce
 Białogórne
 Białogóry
@@ -799,7 +799,7 @@ Biegane
 Bieganin
 Bieganinek
 Bieganowo
-Bieganów
+Bieganów, Budy Bieganowskie
 Biegodzin
 Biegonity
 Biejkowska Wola
@@ -858,7 +858,7 @@ Bielsk
 Bielsk Podlaski
 Bielskie
 Bielsko
-Bielsko-Biala
+Bielsko-Biala, Бельско-Бяла
 Bielszowice
 Bienduszka
 Bieniasze
@@ -989,7 +989,7 @@ Biodry
 Bircza
 Biskiupice
 Biskupia Wola
-Biskupice
+Biskupice, Giełzew, Giełzów, Giełżów
 Biskupice Dłlużyńskie
 Biskupice Jeziorne
 Biskupice Krzemionka
@@ -1845,7 +1845,7 @@ Brzemiona
 Brzeska Wola
 Brzeski
 Brzeski Kołaki
-Brzesko
+Brzesko, Бжеско
 Brzeszcze
 Brzeszczki Duże
 Brzeszczki Małe
@@ -2129,7 +2129,7 @@ Budy za Lasem
 Budy Łańcuckie
 Budy Łąkawickie
 Budy Żelazne
-Budy-Kałki
+Budy-Kałki, Kałki
 Budy-Strzybowskie
 Budykierz
 Budynia
@@ -2743,7 +2743,7 @@ Chlebczyn
 Chlebice
 Chlebiotki
 Chlebna
-Chlebnia
+Chlebnia, Chlewnia
 Chlebowice
 Chlebowo
 Chlebowo Nowe
@@ -3319,7 +3319,7 @@ Cieplewo
 Cieplice
 Cieplice Dolne
 Cieplice Górne
-Cieplice Śląskie Zdrój
+Cieplice Śląskie Zdrój, Cieplice Śląskie-Zdrój
 Ciepliny
 Ciepła
 Ciepła Chojka
@@ -4051,7 +4051,7 @@ Debe Sady
 Debicze
 Debrznica
 Debrznik
-Debrzno
+Debrzno, Dobrzyno, Дебжно
 Debrzno Wieś
 Debrzyca
 Decie
@@ -4403,7 +4403,7 @@ Drachowo
 Draganie
 Draganowa
 Dragany
-Dragasz
+Dragasz, Dragacz
 Drahle
 Dralin
 Dramin
@@ -4658,7 +4658,7 @@ Duszatyn
 Duszna Górka
 Dusznica
 Duszniki
-Duszniki-Zdrój
+Duszniki-Zdrój, Душники-Здруй
 Duszno
 Dutrów
 Duły
@@ -4869,7 +4869,7 @@ Dzierżaniny
 Dzierżanowo
 Dzierżanów
 Dzierżawy
-Dzierżoniów
+Dzierżoniów, Rychbach
 Dzierżoniów Dolny
 Dzierżysław
 Dzierżysławice
@@ -5263,7 +5263,7 @@ Dźwirzyno
 Edwardów
 Egiertowo
 Ejszeryszki
-Elbląg
+Elbląg, Эльблонг, Elblag
 Elganowo
 Elgiszewo
 Elgnowo
@@ -5672,7 +5672,7 @@ Gałęzinowo
 Gałęzów
 Gaśno
 Gdakowo
-Gdańsk
+Gdańsk, Gdansk
 Gdeszyn
 Gdeszyn-Kolonia
 Gdola
@@ -5699,7 +5699,7 @@ Gidle
 Giebałtówka
 Giebnia
 Giebułtów
-Giebło
+Giebło, Kiebło
 Giecz
 Gieczno
 Gieczynek
@@ -5865,7 +5865,7 @@ Gnieciuki
 Gniejewice
 Gnieroszów
 Gnieszowice
-Gniew
+Gniew, Гнев
 Gniewczyna
 Gniewczyna Tryniecka
 Gniewinko
@@ -5877,7 +5877,7 @@ Gniewkowo
 Gniewków
 Gniewniewice Folwarczne
 Gniewniewice Nowe
-Gniewniewice Stare
+Gniewniewice Stare, Gniewniewice
 Gniewomierz
 Gniewomirowice
 Gniewoszyce
@@ -6222,7 +6222,7 @@ Goławice
 Goławice Drugie
 Goławiec
 Goławin
-Gołańcz
+Gołańcz, Gollancz
 Gołańcz Pomorska
 Gołcza
 Gołdap
@@ -6592,7 +6592,7 @@ Grubno
 Grubsko
 Grucele
 Gruczno
-Grudki
+Grudki, Gródek
 Grudna
 Grudna Dolna
 Grudna Górna
@@ -8069,7 +8069,7 @@ Jasna
 Jasna Góra
 Jasne Pole
 Jasnopole
-Jastarnia
+Jastarnia, Ястарня
 Jastew
 Jastkowice
 Jastków
@@ -9137,7 +9137,7 @@ Kałów
 Kałęczyn
 Kałęczyny
 Kańczuckie
-Kańczuga
+Kańczuga, Каньчуга
 Kańkowo
 Kańkowo Piecki
 Kaźmierowo
@@ -11438,7 +11438,7 @@ Kraśniany
 Kraśnica
 Kraśnica-Kolonia
 Kraśnicza Wola
-Kraśniczyn
+Kraśniczyn, Krosiczyn
 Kraśniczyn Wieś
 Kraśniewo
 Kraśnik
@@ -11961,7 +11961,7 @@ Krężce
 Krężel
 Krężelewice
 Krężna
-Krężnica Jara
+Krężnica Jara, Krężnica Jaroska
 Krężnica Okrągła
 Krężoły
 Ksany
@@ -11976,7 +11976,7 @@ Książ
 Książ Mały
 Książ Mały-Kolonia
 Książ Wielki
-Książ Wielkopolski
+Książ Wielkopolski, Książ
 Książ Śląski
 Książe-Skroniów
 Książenice
@@ -12060,7 +12060,7 @@ Kucębów
 Kudelczyn
 Kudelki
 Kuderowszczyzna
-Kudowa-Zdrój
+Kudowa-Zdrój, Kudowa
 Kudrawka
 Kudrowice
 Kudry
@@ -12275,7 +12275,7 @@ Kuźnia
 Kuźnia Goszczańska
 Kuźnia Raciborska
 Kuźniaki
-Kuźnica
+Kuźnica, Кузница
 Kuźnica Bobrowska
 Kuźnica Błońska
 Kuźnica Błędowska
@@ -12866,7 +12866,7 @@ Lewiczynek
 Lewików
 Lewin
 Lewin Brzeski
-Lewin Kłodzki
+Lewin Kłodzki, Lewin
 Lewina
 Lewinko
 Lewino
@@ -13207,7 +13207,7 @@ Lubanice
 Lubanie
 Lubanowo
 Lubanów
-Lubartów
+Lubartów, Lewartów
 Lubasz
 Lubaszcz
 Lubaszowa
@@ -13306,7 +13306,7 @@ Lublinów
 Lubnia
 Lubnica
 Lubniczka
-Lubniewice
+Lubniewice, Любневице
 Lubnowo
 Lubnowy Małe
 Lubnowy Wielkie
@@ -14182,7 +14182,7 @@ Miastków Kościelny
 Miastków Stary
 Miastkówek
 Miasto Kazimierzowskie
-Miasto Ogród Komorów
+Miasto Ogród Komorów, Komorów
 Miastowice
 Miaty
 Miałkie
@@ -14530,7 +14530,7 @@ Miroszowice
 Miroszów
 Mirosław
 Mirosławice
-Mirosławiec
+Mirosławiec, Fridlanczik
 Mirosławki
 Mirotki
 Mirowice
@@ -14661,7 +14661,7 @@ Miłowody
 Miłość
 Miłuki
 Miłusze
-Mińsk Mazowiecki
+Mińsk Mazowiecki, Ново-Минск
 Mleczewo
 Mleczkowo
 Mleczków
@@ -14675,7 +14675,7 @@ Mlęcin
 Mnich
 Mnichowice
 Mnichowo
-Mnichy
+Mnichy, Mnichi
 Mnichów
 Mniewo
 Mników
@@ -14696,7 +14696,7 @@ Mochnata
 Mochowo
 Mochowo Rumunki
 Mochty
-Mochy
+Mochy, Mocha
 Mociesze
 Moczadła
 Moczalec
@@ -14735,7 +14735,7 @@ Modliszewko
 Modliszewo
 Modliszów
 Modlna
-Modlnica
+Modlnica, Modlnica Wielka
 Modlniczka
 Modlęcin
 Modropole
@@ -15092,7 +15092,7 @@ Murucin
 Murzasichle
 Murzynko
 Murzynno
-Murzynowo
+Murzynowo, Murzinowo
 Murzynowo Kościelne
 Murzynowo Leśne
 Murzynówko
@@ -15147,7 +15147,7 @@ Myszewo
 Myszewo II
 Myszki
 Myszkowice
-Myszkowo
+Myszkowo, Mießkowo
 Myszków
 Myszkówka
 Myszowice
@@ -15280,7 +15280,7 @@ Młodzianów
 Młodziejewice
 Młodziejowice
 Młodziejów
-Młodzieszyn
+Młodzieszyn, Młodzieszyńskie Budy
 Młodzieszynek
 Młodzikowo
 Młodzikówko
@@ -15422,7 +15422,7 @@ Nakonowska Wola
 Nakory
 Nakwasin
 Nakło
-Nakło nad Notecią
+Nakło nad Notecią, Nakle
 Nakły
 Nalepy
 Nalewajków
@@ -15433,7 +15433,7 @@ Namysłaki
 Namysłów
 Namyślin
 Naniec
-Napachanie
+Napachanie, Napachnie
 Napeków
 Napierki
 Napiwoda
@@ -15718,7 +15718,7 @@ Niemiry
 Niemirów
 Niemirówek
 Niemirówek-Kolonia
-Niemodlin
+Niemodlin, Немодлин
 Niemojew
 Niemojewice
 Niemojewice Nowiny
@@ -15750,7 +15750,7 @@ Nieporaz
 Nieporęt
 Niepołomice
 Nieprowice
-Niepruszewo
+Niepruszewo, Nieproßowo
 Nieprześnia
 Nierada
 Nieradowice
@@ -15869,7 +15869,7 @@ Nikodemów
 Niksowizna
 Nikutowo
 Niniew
-Ninino
+Ninino, Minina
 Ninków
 Ninocin
 Nipkowie
@@ -15896,7 +15896,7 @@ Niwki-Tomaszów
 Niwkowo
 Niwna
 Niwnica
-Niwnice
+Niwnice, Bartniki
 Niwnik
 Niwy
 Niziny
@@ -16119,7 +16119,7 @@ Nowe Miasteczko
 Nowe Miasto
 Nowe Miasto Lubawskie
 Nowe Miasto nad Pilicą
-Nowe Miasto nad Wartą
+Nowe Miasto nad Wartą, Nowe Miaßto
 Nowe Mieczysławy
 Nowe Monasterzysko
 Nowe Mosty
@@ -16296,7 +16296,7 @@ Nowy Klińcz
 Nowy Klukom
 Nowy Korczyn
 Nowy Kornin
-Nowy Kozłów Drugi
+Nowy Kozłów Drugi, Tyczynogi
 Nowy Kozłów Pierwszy
 Nowy Kościół
 Nowy Krasny Las
@@ -16318,7 +16318,7 @@ Nowy Olszowiec
 Nowy Otok
 Nowy Pietrzyków
 Nowy Podleś
-Nowy Port
+Nowy Port, Neufahrwasser
 Nowy Pożóg
 Nowy Probark
 Nowy Przykop
@@ -16424,7 +16424,7 @@ Oborzyska Nowe
 Oborzyska Stare
 Obozin
 Obozisko
-Obra
+Obra, Ora
 Obrazów
 Obrażejowice
 Obreczna
@@ -16438,7 +16438,7 @@ Obryta
 Obryte
 Obrytki
 Obrzyce
-Obrzycko
+Obrzycko, Obrzicko
 Obrzynowo
 Obrzębin
 Obrów
@@ -16778,7 +16778,7 @@ Opaka
 Opaka Duża
 Opaka Wielka
 Opalanki
-Opalenica
+Opalenica, Opalnica
 Opalenie
 Opaleniec
 Opaleniska
@@ -16838,13 +16838,13 @@ Orchowiec
 Orchowo
 Orchów
 Orchówko
-Ordzin
+Ordzin, Ordzino
 Orelec
 Orenice Nowe
 Orenice Stare
 Oreżna
 Orkany
-Orkowo
+Orkowo, Borkowo
 Orla
 Orla Góra
 Orle
@@ -16906,7 +16906,7 @@ Orzeżyn
 Orzk
 Orzyc
 Orzyny
-Orzysz
+Orzysz, Ожиш
 Orądki
 Orło
 Orłowice
@@ -16938,7 +16938,7 @@ Osice
 Osiczyna
 Osie
 Osieck
-Osiecko
+Osiecko, Ußcie
 Osiecza
 Osiecza Pierwsza
 Osieczany
@@ -16995,7 +16995,7 @@ Osipy Kolonia
 Osipy Lepartowizna
 Osięciny
 Osińska Buda
-Osjaków
+Osjaków, Oszjaków
 Oski Piec
 Oskowo
 Oslowice
@@ -17014,7 +17014,7 @@ Osola
 Osolin
 Osowa
 Osowa Góra
-Osowa Sień
+Osowa Sień, Oßewa Sein
 Osowa-Podlaski
 Osowce
 Osowia
@@ -17065,7 +17065,7 @@ Ostrowce
 Ostrowe
 Ostrowice
 Ostrowiec
-Ostrowiec Świętokrzyski
+Ostrowiec Świętokrzyski, Ostrowiec Kielecki, Ostrowiec nad Kamienną
 Ostrowieczno
 Ostrowik
 Ostrowin
@@ -17125,7 +17125,7 @@ Ostrów Szlachecki
 Ostrów Tumski
 Ostrów Tumski-Śródka-Zawady-Komandoria
 Ostrów Warcki
-Ostrów Wielkopolski
+Ostrów Wielkopolski, Ostrowo
 Ostrów Świecki
 Ostrów-Osiedle
 Ostrówek
@@ -17204,7 +17204,7 @@ Otwock
 Otwock Mały
 Otwock Wielki
 Otyk
-Otyń
+Otyń, Ochla
 Otłoczyn
 Otłowo
 Otłówko
@@ -17244,7 +17244,7 @@ Ołdaki Magna Brok
 Ołdaki Polonia
 Ołdrzychowice Kłodzkie
 Ołdrzychów
-Ołobok
+Ołobok, Mülbok
 Ołownik
 Ołpiny
 Ołtarze Gołacze
@@ -17277,7 +17277,7 @@ Ożegów
 Ożenna
 Ożga
 Ożumiech
-Pabianice
+Pabianice, Пабьянице
 Pabierowice
 Pacanowice
 Pacanów
@@ -17369,7 +17369,7 @@ Pamry
 Panasowaka
 Pancerzyn
 Panewnik
-Panienka
+Panienka, Panieki
 Paniewek
 Paniewo
 Panieńszyzna
@@ -17778,7 +17778,7 @@ Piekary
 Piekary Michałówka
 Piekary Rudne
 Piekary Stare
-Piekary Śląskie
+Piekary Śląskie, Пекары-Слёнске
 Piekarzew
 Piekielnik
 Piekiełko
@@ -17847,7 +17847,7 @@ Pierściec
 Pierścien
 Piescidła
 Piesienica
-Pieski
+Pieski, Piaßki
 Pieskowa Skała
 Piesna
 Piestrzec
@@ -18113,7 +18113,7 @@ Plemięta
 Pleniewo
 Plenna
 Plesewo
-Pleszew
+Pleszew, Pleßew
 Pleszów
 Pleszówka
 Plewica
@@ -18169,7 +18169,7 @@ Pobiedna
 Pobiednik Wielki
 Pobiedno
 Pobiedr
-Pobiedziska
+Pobiedziska, Powiewißko
 Pobiel
 Pobierowo
 Pobikry
@@ -18637,7 +18637,7 @@ Pomocno
 Pomorowo
 Pomorska Wieś
 Pomorskie
-Pomorsko
+Pomorsko, Pomorcik
 Pomorzany
 Pomorze
 Pomorzowice
@@ -18665,7 +18665,7 @@ Poniaty Wielkie
 Poniatów
 Poniatówka
 Ponice
-Poniec
+Poniec, Punice
 Ponik
 Poniki
 Ponikiew
@@ -18855,7 +18855,7 @@ Potok Mały
 Potok Rządowy
 Potok Senderski
 Potok Wielki
-Potok Złoty
+Potok Złoty, Potok
 Potok-Stany
 Potoka
 Potoki
@@ -18907,7 +18907,7 @@ Poćwiardówka
 Połajewek
 Połajewice
 Połajewko
-Połajewo
+Połajewo, Polaiewo
 Połaniec
 Połapin
 Połazie
@@ -19018,7 +19018,7 @@ Proboszczów
 Probołowice
 Prochenki
 Prochowice
-Prochy
+Prochy, Prochi
 Procisne
 Procyń
 Prokocice
@@ -19195,7 +19195,7 @@ Przemysłów
 Przemyśl
 Przemęczanki
 Przemęczany
-Przemęt
+Przemęt, Przement
 Przenosza
 Przeorsk
 Przepałkowo
@@ -19398,7 +19398,7 @@ Przysleczk
 Przysowy
 Przystajne
 Przystajnia
-Przystajnia-Kolonia
+Przystajnia-Kolonia, Olędry Przystajnia, Kolonia Przystańska
 Przystajń
 Przystanki
 Przystawańce
@@ -19498,7 +19498,7 @@ Prętławki
 Prężyce
 Prężynka
 Psarce
-Psarskie
+Psarskie, Pßarßki
 Psary
 Psary Małe
 Psary Polskie
@@ -19526,7 +19526,7 @@ Psucin
 Psurze
 Pszczeliny
 Pszczelnik
-Pszczew
+Pszczew, Paczew
 Pszczonów
 Pszczonówka
 Pszczołczyn
@@ -19540,7 +19540,7 @@ Ptaki
 Ptakowice
 Ptaszkowa
 Ptaszkowice
-Ptaszkowo
+Ptaszkowo, Ptaßkowo
 Ptaszków
 Pturek
 Ptusza
@@ -19637,7 +19637,7 @@ Pułapina Nowa
 Pułapina Stara
 Pułaskiego
 Puławska Wieś
-Puławy
+Puławy, Ново-Александрия, Новая Александрия, Nowo-Aleksandria
 Pułazie Świerze
 Pułkowice
 Pułtusk
@@ -19645,7 +19645,7 @@ Puńców
 Puńsk
 Pychowice
 Pyczek
-Pyrnik
+Pyrnik, Pirnik
 Pyry Ludwinowo
 Pyrzany
 Pyrzowice
@@ -19659,9 +19659,9 @@ Pyszkowo
 Pyszków
 Pysznica
 Pysznyług
-Pysząca
+Pysząca, Pißaci
 Pytowice
-Pyzdry
+Pyzdry, Pisdri
 Pyzówka
 Pólczno
 Pólko
@@ -19849,7 +19849,7 @@ Rabiany
 Rabinko
 Rabinowo
 Rabinówka
-Rabka-Zdrój
+Rabka-Zdrój, Rabka
 Rablów
 Rabowice
 Rabsztyn
@@ -19944,9 +19944,9 @@ Radlice
 Radliczyce
 Radlikowiec
 Radlin
-Radliniec
+Radliniec, Radlino
 Radlna
-Radnica
+Radnica, Radenic
 Radocha
 Radochów
 Radocyna
@@ -20125,7 +20125,7 @@ Rajsków
 Rajszew
 Rak
 Raki
-Rakoniewice
+Rakoniewice, Rakoniewic
 Rakoniewice Wieś
 Rakoszyce
 Rakoszyn
@@ -20273,7 +20273,7 @@ Redło
 Redłowo
 Regiel
 Regiele
-Regietów
+Regietów, Regetów
 Regimin
 Reginów
 Regny
@@ -20347,7 +20347,7 @@ Retniowiec
 Retowo
 Retowy
 Rewa
-Rewal
+Rewal, Реваль
 Rewica
 Reńska Wieś
 Reńsko
@@ -20551,7 +20551,7 @@ Rossosza
 Rossoszyca
 Rossy
 Rostajne
-Rostarzewo
+Rostarzewo, Roßtarzewo
 Rostki
 Rostki Bajtkowskie
 Rostki Kaptury
@@ -20632,7 +20632,7 @@ Roztoka Wielka
 Roztoki
 Roztoki Górne
 Roztropice
-Roztworowo
+Roztworowo, Roßtwarowo
 Roztylice
 Rozumice
 Rozwady
@@ -20690,7 +20690,7 @@ Ruchaje
 Ruchenka
 Ruchenna
 Ruchna
-Ruchocice
+Ruchocice, Rochociz
 Ruchocin
 Ruchocinek
 Ruciane-Nida
@@ -20760,7 +20760,7 @@ Rudna Wielka
 Rudnia
 Rudnica
 Rudnice Dolna
-Rudnicze
+Rudnicze, Rudnice
 Rudniczek
 Rudniczyn
 Rudniczysko
@@ -20965,7 +20965,7 @@ Rybnik
 Rybniki
 Rybno
 Rybocice
-Rybojady
+Rybojady, Rybojad
 Rybokarty
 Rybotycze
 Rybowka
@@ -21015,7 +21015,7 @@ Rydzewo Pieniążek
 Rydzewo Szlacheckie
 Rydzyn Szlachecki
 Rydzyn Włościańskie
-Rydzyna
+Rydzyna, Ridzin
 Rydzynki
 Rydzyny
 Rydzów
@@ -21132,7 +21132,7 @@ Rzepiennik Biskupi
 Rzepiennik Marciszewski
 Rzepiennik Strzyżewski
 Rzepiennik Suchy
-Rzepin
+Rzepin, Жепин
 Rzepin Drugi
 Rzepin Pierwszy
 Rzepin-Kolonia
@@ -21438,7 +21438,7 @@ Samotnia
 Samotwór
 Samowicze
 Samowo
-Samołęż
+Samołęż, Samolęze
 Sampławo
 Samsieczno
 Samsieczynek
@@ -21471,7 +21471,7 @@ Sanok
 Sanoka
 Santocko
 Santoczno
-Santok
+Santok, Zabtok
 Sapałówka
 Sapiechów
 Sapieżyn
@@ -21670,7 +21670,7 @@ Siedlisko
 Siedliszcze
 Siedliszczki
 Siedliszowice
-Siedlnica
+Siedlnica, Zedlicz
 Siedlów
 Siedlątków
 Siedlęcin
@@ -21745,7 +21745,7 @@ Siemnice
 Siemnocha
 Siemnowo
 Siemonia
-Siemowo
+Siemowo, Ziemnowo
 Siemoń
 Siemszyce
 Siemuszowa
@@ -21924,7 +21924,7 @@ Skadla
 Skajboty
 Skaje
 Skajzgiry
-Skalbmierz
+Skalbmierz, Skalmierz
 Skalica
 Skalice
 Skalimowo
@@ -22197,7 +22197,7 @@ Skwary Dąbrowe
 Skwierawy
 Skwierczyn
 Skwierczyn Lacki
-Skwierzyna
+Skwierzyna, Squirzina
 Skwierzynka
 Skwirtne
 Skwirzowa
@@ -22239,7 +22239,7 @@ Smardzew
 Smardzewice
 Smardzewo
 Smardzko
-Smardzowice
+Smardzowice, Smarzowice
 Smardzów
 Smardów
 Smarglin
@@ -22679,7 +22679,7 @@ Stadła
 Stagniowice
 Stagnity
 Stajeczynki
-Stajkowo
+Stajkowo, Stoikowo
 Stajne
 Stale
 Stalewo
@@ -22909,7 +22909,7 @@ Stare Załucze
 Stare Łysogórki
 Stare Ślepce
 Stare Żukowice
-Stargard
+Stargard, Stargard Szczeciński
 Stargard Gubiński
 Starkowa Huta
 Starkowiec
@@ -22962,7 +22962,7 @@ Stary Bugaj
 Stary Bukowiec
 Stary Chwalim
 Stary Cieszyn
-Stary Dworek
+Stary Dworek, Stary Dwor
 Stary Dwór
 Stary Dzierzgoń
 Stary Dębiec
@@ -23151,7 +23151,7 @@ Stoblów
 Stobna
 Stobnica
 Stobnica Piła
-Stobnicko
+Stobnicko, Stobnica
 Stobno
 Stobno Siódme
 Stobrawa
@@ -23240,7 +23240,7 @@ Stradomno
 Stradunia
 Straduny
 Straduń
-Stradyń
+Stradyń, Stradin
 Stradzew
 Stradzew Górki
 Stradzewo
@@ -23364,7 +23364,7 @@ Strzekęcino
 Strzelce
 Strzelce Dolne
 Strzelce Górne
-Strzelce Krajeńskie
+Strzelce Krajeńskie, Feriedebergk
 Strzelce Kujawskie
 Strzelce Małe
 Strzelce Małe A
@@ -23422,7 +23422,7 @@ Strzyże
 Strzyżew
 Strzyżewice
 Strzyżewko
-Strzyżewo
+Strzyżewo, Strezo
 Strzyżewo Czerniejewskie
 Strzyżewo Kościelne
 Strzyżewo Paczkowe
@@ -23523,7 +23523,7 @@ Stępowizna
 Stępowo
 Stępuchowo
 Stępów
-Stęszew
+Stęszew, Stenßew
 Stęszewice
 Stęszewko
 Stęszyce
@@ -23687,7 +23687,7 @@ Sumiężne
 Sumowo
 Sumówko
 Supienie
-Supraśl
+Supraśl, Супрасль
 Supruny
 Supy
 Suradowo
@@ -23768,9 +23768,9 @@ Swaryczów
 Swaryszewo
 Swaryszów
 Swarzewo
-Swarzynice
+Swarzynice, Schwarmicz
 Swarzów
-Swarzędz
+Swarzędz, Grzymolowo
 Swaty
 Swibinki
 Swibna
@@ -24067,7 +24067,7 @@ Szczygłów
 Szczypiec
 Szczypiorno
 Szczypkowice
-Szczyrk
+Szczyrk, Щирк
 Szczyrzyc
 Szczyt
 Szczytkowice
@@ -24165,7 +24165,7 @@ Szklarki
 Szklarnia
 Szklarnia Stara
 Szklarnia Szymonkowska
-Szklarska Poręba
+Szklarska Poręba, Шклярска-Поремба
 Szklary
 Szklary Dolne
 Szklary Górne
@@ -24181,7 +24181,7 @@ Szkudaj
 Szkwa
 Szkółki
 Szla
-Szlachcin
+Szlachcin, Szlachczino
 Szlachecki Las
 Szlachta
 Szlachtowa
@@ -24194,7 +24194,7 @@ Szlasy Żalne
 Szlatyn
 Szlatyri
 Szlembark
-Szlichtyngowa
+Szlichtyngowa, Szlichtinkowo
 Szlinokiemie
 Szlubów
 Szlędaki
@@ -24222,7 +24222,7 @@ Szostakowo
 Szoszowy
 Szozdy
 Szołajdy
-Szołdry
+Szołdry, Szoldri
 Szołtany
 Szpaki
 Szpakowo
@@ -24296,7 +24296,7 @@ Szumsk
 Szumsko
 Szumów
 Szur
-Szurkowo
+Szurkowo, Sierakowo
 Szurpiły
 Szury
 Szustek
@@ -24400,7 +24400,7 @@ Sączów
 Sądowel
 Sądry
 Sądzia
-Sądów
+Sądów, Sandaw
 Sągnity
 Sąkieły Małe
 Sąpolnica
@@ -24460,7 +24460,7 @@ Sępólno Krajeńskie
 Sępów
 Sętal
 Sętki
-Sęzinko
+Sęzinko, Sendzinki
 Słabkowice
 Słaboludź
 Słabomierz
@@ -24477,7 +24477,7 @@ Słajszewo
 Sława
 Sławacinek
 Sławacinek Nowy
-Sławatycze
+Sławatycze, Славатыче, Словатичи Надбужанские
 Sławczyn
 Sławek
 Sławianowo
@@ -24854,7 +24854,7 @@ Terebnie
 Teremicki
 Terenia
 Terenin
-Teresin
+Teresin, Gmina Teresin
 Teresin-Gaj
 Teresina
 Teresowo
@@ -24986,7 +24986,7 @@ Toruniak
 Toruń
 Torzeniec
 Torzewo
-Torzym
+Torzym, Тожим
 Tosie
 Toszek
 Toszowice
@@ -25103,7 +25103,7 @@ Trzcianne
 Trzcianno
 Trzciano
 Trzciany
-Trzciel
+Trzciel, Trziel
 Trzcielin
 Trzcieliny
 Trzcieniec
@@ -25168,7 +25168,7 @@ Trzebnice
 Trzebnik
 Trzebniów
 Trzebol
-Trzebosz
+Trzebosz, Trzebißewo
 Trzeboszowice
 Trzebowa
 Trzebownisko
@@ -25252,7 +25252,7 @@ Trójca
 Trójczyce
 Trójka
 Trójna
-Trąbczyn
+Trąbczyn, Trambczino
 Trąbczyńska Huta
 Trąbin
 Trąbinek
@@ -25281,7 +25281,7 @@ Tuchom
 Tuchomie
 Tuchomko
 Tuchorka
-Tuchorza
+Tuchorza, Tuchorze
 Tuchorza Nowa
 Tuchowicz
 Tuchów
@@ -25299,12 +25299,12 @@ Tuja
 Tujce
 Tujsk
 Tuklęcz
-Tulce
+Tulce, Tuliec
 Tulewo Górne
 Tulibowo
 Tuligłowy
 Tuliska
-Tuliszków
+Tuliszków, Tulißkowo
 Tuliszów
 Tuliłów
 Tulniki
@@ -25555,7 +25555,7 @@ Tłuchówek
 Tłuczań
 Tłuczewo
 Tłucznice
-Tłukawy
+Tłukawy, Tlukawi
 Tłukienka
 Tłukomy
 Tłumaczów
@@ -25636,7 +25636,7 @@ Ujny
 Ujrzanów
 Ujsoły
 Ujów
-Ujście
+Ujście, Ußcie, Uscz
 Ujście Jezuickie
 Uklejowiec
 Ukruługi
@@ -25853,7 +25853,7 @@ Walentynów
 Walentów
 Walercin
 Walerianowo
-Waleriany
+Waleriany, Budy Waleriany
 Walerianów
 Walerów
 Walewice
@@ -25942,7 +25942,7 @@ Warpalice
 Warpechy Nowe
 Warpechy Stare
 Warpuny
-Warsaw
+Warsaw, Warszawa
 Warszawianka
 Warszawice
 Warszawskie-Pomet-Maltańskie
@@ -26215,7 +26215,7 @@ Wielgoszcz
 Wielgołęka
 Wielgus
 Wielgłowy
-Wielichowo
+Wielichowo, Wielichow
 Wieliczka
 Wieliczki
 Wieliczna
@@ -26512,7 +26512,7 @@ Wilczy Targ
 Wilczyca
 Wilczyce
 Wilczyn
-Wilczyna
+Wilczyna, Wilczino
 Wilczynek
 Wilczyniec
 Wilczyny
@@ -26590,7 +26590,7 @@ Winiary
 Winiec
 Winna
 Winna Chroły
-Winna Góra
+Winna Góra, Wino Gora
 Winna Wypychy
 Winna-Poświętne
 Winnica
@@ -27269,11 +27269,11 @@ Wolny Dwór
 Wolominek
 Wolskie
 Wolsko
-Wolsztyn
+Wolsztyn, Wolßtin
 Wolwark
 Wolwinów
 Wolęcin
-Wonieść
+Wonieść, Woineßc
 Wonna
 Wopity
 Wopy
@@ -27363,7 +27363,7 @@ Wroczewo
 Wroczków
 Wroczyny
 Wroczyńszczyzna
-Wrocław
+Wrocław, Wroclaw
 Wrocław Pracze
 Wrocławki
 Wrogocin
@@ -27445,7 +27445,7 @@ Wręcza
 Wręczyca
 Wręczyca Mała
 Wręczyca Wielka
-Wschowa
+Wschowa, Zchowa
 Wsola
 Wspólna
 Wszachów
@@ -27453,7 +27453,7 @@ Wszebory
 Wszechświęte
 Wszedzien
 Wszeliwy
-Wszemborz
+Wszemborz, Szamborze
 Wszemirów
 Wszerzecz
 Wszewilki
@@ -27706,7 +27706,7 @@ Wyszynki
 Wyszyny
 Wyszyny Kościelne
 Wyszęcice
-Wytomyśl
+Wytomyśl, Lutomißl
 Wytowno
 Wytrzyszczka
 Wytrzyszczki
@@ -27994,7 +27994,7 @@ Wąglin
 Wągrada
 Wągrodno
 Wągrodno Nowe
-Wągrowiec
+Wągrowiec, Wongrowiec
 Wągry
 Wągsty
 Wągłczew
@@ -28007,7 +28007,7 @@ Wąsosz Górny
 Wąsosz Poduchowny
 Wąsosze
 Wąsosze Wielkie
-Wąsowo
+Wąsowo, Wanzowo
 Wąsy
 Wątrobowo
 Wąwał
@@ -28739,7 +28739,7 @@ Załawie
 Załazie
 Załazy
 Załetownia
-Załom
+Załom, Salm
 Załozie
 Załszyn
 Załubice Nowe
@@ -28849,7 +28849,7 @@ Zbójenko
 Zbójna
 Zbójno
 Zbąszynek
-Zbąszyń
+Zbąszyń, Zabaßin
 Zbęchy
 Zbędowice
 Zbęk
@@ -29071,13 +29071,13 @@ Zieluń
 Zieluń-Osada
 Zielątkowo
 Zielęcice
-Zielęcin
+Zielęcin, Zielenczin
 Ziemblice
 Ziemianki
 Ziemiany
 Ziemiary
 Ziemiełowice
-Ziemin
+Ziemin, Zimun
 Ziemięcice
 Ziemięcin
 Ziemlin
@@ -29089,7 +29089,7 @@ Ziemsko
 Zienie
 Zienki
 Ziewanice
-Zimin
+Zimin, Zimino
 Zimme Katy
 Zimna
 Zimna Brzeźnica
@@ -29534,7 +29534,7 @@ sędrowo
 Łaźniki
 Łaźnisk
 Łbiska
-Łeba
+Łeba, Леба, Leba
 Łebcz
 Łebieniec
 Łebień
@@ -29788,7 +29788,7 @@ sędrowo
 Łukowo
 Łukszty
 Łukta
-Łuków
+Łuków, Лукув
 Łukówek
 Łukęcin
 Łumbie
@@ -30103,7 +30103,7 @@ sędrowo
 Śniadówko
 Śniatowa
 Śniatowo
-Śniaty
+Śniaty, Sniat
 Śniatycze
 Śniczany
 Śniechy
@@ -30191,7 +30191,7 @@ sędrowo
 Świeligów
 Świelino
 Świemino
-Świeradów-Zdrój
+Świeradów-Zdrój, Сверадув-Здруй
 Świerchowa
 Świercowskio
 Świercze
@@ -30286,7 +30286,7 @@ sędrowo
 Święcica
 Święcice
 Święcie
-Święciechowa
+Święciechowa, Swięczichowo
 Święcieniec
 Święcienin
 Święciny
@@ -30399,7 +30399,7 @@ sędrowo
 Żarnówka
 Żarowice
 Żarowo
-Żarska
+Żarska, Żarska Wieś
 Żary
 Żarzyn
 Żarów
