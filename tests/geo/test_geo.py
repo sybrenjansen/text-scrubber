@@ -271,8 +271,9 @@ class NormalizeCityTest(unittest.TestCase):
                     ("San José", "Argentina", 1),
                     ("San José", "Costa Rica", 1),
                     ("San Jose", "Philippines", 1),
-                    ("San José", "Spain", 1),
-                    ("San Jose", "United States", 1),
+                    ("Sant Josep de sa Talaia", "Spain", 1),
+                    ("San Jose", "United States", 1), # one in US
+                    ("San Jose", "United States", 1), # one in Porto Rico
                 ],
             ),
         ]
@@ -319,7 +320,7 @@ class NormalizeCityTest(unittest.TestCase):
         test_cities = [
             ("Toranto", [("Toronto", "Canada", 0.857)]),
             ("Napholi", [("Napoli", "Italy", 0.923)]),
-            ("San Deego", [("San Diego", "United States", 0.889)]),
+            ("Dallaas", [("Dallas", "United States", 0.923)]),
         ]
         for original, expected in test_cities:
             country_set = set()
@@ -355,9 +356,11 @@ class NormalizeCityTest(unittest.TestCase):
                     ("Sibul", "Philippines", 0.8),
                     ("Siolo", "Italy", 0.8),
                     ("Si'ou", "China", 0.889),
+                    ('Sioulin', 'China', 0.833),
                     ("Sioux", "United States", 0.8),
                     ("Siyŏul", "South Korea", 0.909),
                     ("Le Soul", "France", 0.889),
+                    ('Soula', 'France', 0.8),
                     ("Stoul", "United Kingdom", 0.8),
                 ]
             ),
@@ -386,6 +389,24 @@ class NormalizeCityTest(unittest.TestCase):
                 city_country_list = [(city, country) for (city, country, _) in out_list]
                 self.assertCountEqual(expected_city_country_list, city_country_list)
                 testing.assert_almost_equal(expected_score_list, score_list, 3)
+
+    def test_cities_with_multiple_names(self):
+        """
+        Searching for a city with multiple valid names should yield the correct name
+        """
+        test_cities = [
+            ("Kiev", [("Kyiv", "Ukraine", 1)]),
+            ("Makkah", [("Mecca", "Saudi Arabia", 1)]),
+            ("Cologne", [("Köln", "Germany", 1)]),
+            ("Gothenburg", [("Göteborg", "Sweden", 1)]),
+        ]
+        for original, expected in test_cities:
+            country_set = set()
+            for _, country, _ in expected:
+                country_set.add(country)
+            with self.subTest(original=original, expected=expected):
+                self.assertEqual(normalize_city(original, country_set),
+                                 [(city, country, score) for city, country, score in expected])
 
 
 class CleanGeoStringTest(unittest.TestCase):
