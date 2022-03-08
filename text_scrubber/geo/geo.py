@@ -138,6 +138,8 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
 
+    # remove duplicates such as San Jose(US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0)
+    candidates = list(set(candidates))
     return sorted(candidates, key=lambda x: x[-1], reverse=True)
 
 

@@ -272,16 +272,13 @@ class NormalizeCityTest(unittest.TestCase):
                     ("San José", "Costa Rica", 1),
                     ("San Jose", "Philippines", 1),
                     ("Sant Josep de sa Talaia", "Spain", 1),
-                    ("San Jose", "United States", 1), # one in US
-                    ("San Jose", "United States", 1), # one in Porto Rico
+                    ("San Jose", "United States", 1),
                 ],
             ),
         ]
         
         for original, expected in test_cities:
-            country_set = set()
-            for _, country, _ in expected:
-                country_set.add(country)
+            country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertCountEqual(
                     normalize_city(original, country_set),
@@ -301,14 +298,10 @@ class NormalizeCityTest(unittest.TestCase):
         """
         test_cities = [
             ("wonju si", [("Wŏnju", "South Korea", 1)]),
-            ("Bucheon-si", [("Bucheon-si", "South Korea", 1)]),
             ("Zhaoqing dong", [("Zhaoqing", "China", 1)]),
-            ("Sillye I Ri", [("Sillye I Ri", "South Korea", 1)]),
         ]
         for original, expected in test_cities:
-            country_set = set()
-            for _, country, _ in expected:
-                country_set.add(country)
+            country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, country_set),
                                  [(city, country, score) for city, country, score in expected])
@@ -323,9 +316,7 @@ class NormalizeCityTest(unittest.TestCase):
             ("Dallaas", [("Dallas", "United States", 0.923)]),
         ]
         for original, expected in test_cities:
-            country_set = set()
-            for _, country, _ in expected:
-                country_set.add(country)
+            country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 [(city, country, score)] = normalize_city(original, country_set)
                 [(expected_city, expected_country, expected_scores)] = expected
@@ -348,7 +339,13 @@ class NormalizeCityTest(unittest.TestCase):
         Close matches to the states map should yield all correct states
         """
         test_cities = [
-            ("Vancoover", [("Vancouver", "Canada", 0.889), ("Vancouver", "United States", 0.889)]),
+            (
+                "Vancoover",
+                [
+                    ("Vancouver", "Canada", 0.889),
+                    ("Vancouver", "United States", 0.889)
+                ]
+            ),
             (
                 "Sioul",
                 [
@@ -377,9 +374,7 @@ class NormalizeCityTest(unittest.TestCase):
             ),
         ]
         for original, expected in test_cities:
-            country_set = set()
-            for _, country, _ in expected:
-                country_set.add(country)
+            country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 out_list = normalize_city(original, country_set)
                 expected_score_list = sorted([score for (_, _, score) in expected], reverse=True)
@@ -401,12 +396,34 @@ class NormalizeCityTest(unittest.TestCase):
             ("Gothenburg", [("Göteborg", "Sweden", 1)]),
         ]
         for original, expected in test_cities:
-            country_set = set()
-            for _, country, _ in expected:
-                country_set.add(country)
+            country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, country_set),
                                  [(city, country, score) for city, country, score in expected])
+
+    def test_cities_with_restrict_country(self):
+        """
+        Searching for a city in one or few specific countries to limit the search space
+        """
+        test_cities = [
+            (["Heidelberg", {"DE"}], [('Heidelberg', 'Germany', 1.0)]),
+            (["Heidelberg", {"DE", "South Africa"}],
+             [('Heidelberg', 'South Africa', 1.0), ('Heidelberg', 'Germany', 1.0)]),
+            (["Heidelberg", {"FR"}], []),
+            (["Toronto", {"United States", "GB"}],
+             [('Toronto', 'United States', 1.0), ('Toronto', 'United Kingdom', 1.0)]),
+        ]
+        for original, expected in test_cities:
+            country_set = original[1]
+            with self.subTest(original=original, expected=expected):
+                out_list = normalize_city(original[0], country_set)
+                expected_score_list = sorted([score for (_, _, score) in expected], reverse=True)
+                expected_city_country_list = [(expected_city, expected_country) for (expected_city, expected_country, _)
+                                              in expected]
+                score_list = [score for (_, _, score) in out_list]
+                city_country_list = [(city, country) for (city, country, _) in out_list]
+                self.assertCountEqual(expected_city_country_list, city_country_list)
+                testing.assert_almost_equal(expected_score_list, score_list, 3)
 
 
 class CleanGeoStringTest(unittest.TestCase):
