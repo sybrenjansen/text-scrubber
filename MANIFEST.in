@@ -1,4 +1,4 @@
 include README.md
-recursive-include text_scrubber *.txt *.p3
+recursive-include text_scrubber *.txt *.p3 *.json
 include requirements.txt
 include MANIFEST.in
