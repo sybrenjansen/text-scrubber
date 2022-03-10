@@ -349,6 +349,9 @@ def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = Fal
             canonical_city_name = city_list[0]
             for city in city_list:
                 cleaned_city = clean_city(city)
+                #sometimes clean_city removes the whole string
+                if not cleaned_city:
+                    cleaned_city = city
                 _CITY_RESOURCES["cities_per_country_code_map"][country_code][cleaned_city] = (
                     get_trigram_tokens(cleaned_city), canonical_city_name
                 )

@@ -31,8 +31,9 @@ def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bo
 
 
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
-                    whitelist_last_resort: Set, match_threshold: float = 0.84, match_treshold_small: float = 0.90,
-                    threshold_small: int = 4, max_tokens_to_consider: int = 4) -> List[Match]:
+                        whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
+                        threshold_small: int = 4, max_tokens_to_consider: int = 4,
+                        restrict_countries: Optional[set] = None) -> List[Match]:
     """
     Extracts countries from a sample.
 
@@ -57,9 +58,9 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
     :param whitelist_last_resort: list of candidates that we can still consider, but only if we can't match any other
         candidate. E.g., this can be uppercase abbreviations of countries ('US', 'DE', 'IN', ...)
     :param match_threshold: threshold for considering a substring a match
-    :param match_treshold_small: threshold for considering a substring a match, applied to smaller normalized countries
+    :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
-        ``match_treshold_small``, otherwise ``match_threshold``
+        ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
     :return: list of possible matches
@@ -80,11 +81,15 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # If we find any matches, we store the one with the highest score and additionally store the start and end
             # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
             # were lost after calling .split())
-            matches_found = normalize_func(combination, return_scores=True)
+            if restrict_countries is not None:
+                matches_found = normalize_func(combination, restrict_countries)
+                matches_found = [(city, score) for (city, _, score) in matches_found]
+            else:
+                matches_found = normalize_func(combination)
             if matches_found:
                 # Threshold
                 normalized_match, score = max(matches_found, key=lambda tup: tup[1])
-                if score < (match_threshold if len(normalized_match) > threshold_small else match_treshold_small):
+                if score < (match_threshold if len(normalized_match) > threshold_small else match_threshold_small):
                     continue
 
                 str_start_idx = token_start_idx[start_idx] + start_idx
@@ -105,7 +110,11 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # If we find any matches, we store the one with the highest score and additionally store the start and end
             # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
             # were lost after calling .split())
-            matches_found = normalize_country(combination, return_scores=True)
+            if restrict_countries is not None:
+                matches_found = normalize_func(combination, restrict_countries)
+                matches_found = [(city, score) for (city, _, score) in matches_found]
+            else:
+                matches_found = normalize_func(combination)
             if matches_found:
                 normalized_match, score = max(matches_found, key=lambda tup: tup[1])
                 str_start_idx = token_start_idx[start_idx] + start_idx
@@ -168,7 +177,7 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
-        ``match_treshold_small``, otherwise ``match_threshold``
+        ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
     :return: list of possible matches
@@ -182,7 +191,7 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
                            match_threshold_small, threshold_small, max_tokens_to_consider)
 
 
-def find_city_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
+def find_city_in_string(sample: str, country_set: Optional[set],match_threshold: float = 0.84, match_threshold_small: float = 0.90,
                         threshold_small: int = 4, max_tokens_to_consider: int = 6) -> List[Match]:
     """
     Extracts cities from a sample text.
@@ -193,7 +202,7 @@ def find_city_in_string(sample: str, match_threshold: float = 0.84, match_thresh
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
-        ``match_treshold_small``, otherwise ``match_threshold``
+        ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
     :return: list of possible matches
@@ -204,7 +213,7 @@ def find_city_in_string(sample: str, match_threshold: float = 0.84, match_thresh
     whitelist_last_resort = set()
 
     return _find_in_string(sample, clean_city, normalize_city, blacklist, whitelist_last_resort, match_threshold,
-                           match_threshold_small, threshold_small, max_tokens_to_consider)
+                           match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
 
 
 def find_state_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
@@ -218,7 +227,7 @@ def find_state_in_string(sample: str, match_threshold: float = 0.84, match_thres
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
-        ``match_treshold_small``, otherwise ``match_threshold``
+        ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
     :return: list of possible matches
