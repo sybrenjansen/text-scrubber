@@ -278,15 +278,20 @@ class TextScrubber:
         """
         return self._add_step(name, lambda t: RE_STRIP_QUOTES.sub('', t), on_tokens)
 
-    def remove_stop_words(self, stop_words: Iterable[str] = None, name: str = 'remove_stop_words') -> 'TextScrubber':
+    def remove_stop_words(self, stop_words: Iterable[str] = None, name: str = 'remove_stop_words',
+                          case_insensitive: bool = False) -> 'TextScrubber':
         """
         Removes stop words. All-caps tokens are considered to be abbreviations and are retained.
 
+        :param case_insensitive: should the stopword removal be case_insensitive or not
         :param stop_words: Iterable of stop words to remove. If not provided it will use a default list of stop words.
         :param name: Name to give to the pipeline step.
         """
         stop_words_set = set(stop_words) if stop_words else STOP_WORDS
-        remove_func = partial(filter, lambda t: t.isupper() or t.lower() not in stop_words_set)
+        if not case_insensitive:
+            remove_func = partial(filter, lambda t: t.isupper() or t.lower() not in stop_words_set)
+        else:
+            remove_func = partial(filter, lambda t: t.isupper() or t not in stop_words_set)
         return self._add_step(name, remove_func, on_tokens=False)
 
     def remove_suffixes(self, suffixes: Set[str], on_tokens: bool = False,

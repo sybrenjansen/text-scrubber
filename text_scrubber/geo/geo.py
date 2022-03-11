@@ -97,6 +97,9 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[
     """
     # Clean city
     cleaned_city = clean_city(city)
+    # if the cleaned_city is empty return an empty list
+    if not cleaned_city:
+        return []
 
     # Add city resources for countries to search in
     add_city_resources(restrict_countries)
@@ -165,16 +168,17 @@ _GEO_TOKEN_MAP = {'afr': 'african',
 
 # We define the scrubber once so the regex objects will be compiled only once
 _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
-                                      .lowercase()
                                       .remove_digits()
                                       .sub(r'-|/|&|,', ' ')
                                       .remove_punctuation()
                                       .remove_suffixes({' si', ' ri', ' dong'})  # Set of formal city suffixes
                                       .tokenize()
+                                      .remove_stop_words({'der', 'do', 'e', 'le', 'im'}, case_insensitive=True)
+                                      .lowercase(on_tokens=True)
                                       .filter_tokens()
                                       .sub_tokens(lambda token: _GEO_TOKEN_MAP.get(token, token))
-                                      .remove_stop_words({'a', 'an', 'and', 'cedex', 'da', 'der', 'di', 'do', 'e',
-                                                          'email', 'im', 'le', 'mail', 'of', 'the'})
+                                      .remove_stop_words({'a', 'an', 'and', 'cedex', 'da', 'di'
+                                                          'email', 'mail', 'of', 'the'})
                                       .join())
 
 
@@ -351,7 +355,7 @@ def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = Fal
                 cleaned_city = clean_city(city)
                 #sometimes clean_city removes the whole string
                 if not cleaned_city:
-                    cleaned_city = city
+                    continue
                 _CITY_RESOURCES["cities_per_country_code_map"][country_code][cleaned_city] = (
                     get_trigram_tokens(cleaned_city), canonical_city_name
                 )
