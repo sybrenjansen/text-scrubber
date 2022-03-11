@@ -173,12 +173,12 @@ _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
                                       .remove_punctuation()
                                       .remove_suffixes({' si', ' ri', ' dong'})  # Set of formal city suffixes
                                       .tokenize()
-                                      .remove_stop_words({'der', 'do', 'e', 'le', 'im'}, case_insensitive=True)
+                                      .remove_stop_words({'der', 'do', 'e', 'le', 'im', 'mail'}, case_sensitive=True)
                                       .lowercase(on_tokens=True)
                                       .filter_tokens()
                                       .sub_tokens(lambda token: _GEO_TOKEN_MAP.get(token, token))
                                       .remove_stop_words({'a', 'an', 'and', 'cedex', 'da', 'di'
-                                                          'email', 'mail', 'of', 'the'})
+                                                          'email', 'of', 'the'})
                                       .join())
 
 
