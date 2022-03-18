@@ -2,20 +2,20 @@ Abitanti
 Adamovo
 Adergas
 Adlešiči
-Adrijanci
-Ajba
+Adrijanci, Andorháza
+Ajba, Aiba
 Ajbelj
-Ajdovščina, Občina Ajdovščina
-Ajševica
+Ajdovščina, Aidussina, Haidenschaft, Hajdenšaft, Občina Ajdovščina
+Ajševica, Arševica
 Ambroz pod Krvavcem
 Ambrus
 Andol
-Andrej nad Zmincem
-Andrejci
+Andrej nad Zmincem, Sveti Andre
+Andrejci, Andorhegy
 Andrejčje
 Andrenci
-Anhovo
-Ankaran, Občina Ankaran
+Anhovo, Ancovo, Anicovo, Salona, Salone d'Isonzo
+Ankaran, Ancarano, Ancorano, Ankarano, Občina Ankaran
 Anovec
 Anže
 Apače, Abstall
@@ -34,9 +34,9 @@ Artiče
 Artiža Vas
 Artmanja Vas
 Arto
-Artviže
+Artviže, Artuise
 Arčelca
-Avber
+Avber, Alber di Sesana
 Avguštine
 Avsa
 Avče
@@ -46,45 +46,45 @@ Babinci
 Babiči
 Babna Brda
 Babna Gora
-Babna Gorica
-Babna Polica
+Babna Gorica, Babina Gorica
+Babna Polica, Babina Polica
 Babna Reka
 Babni Vrt
-Babno Polje
+Babno Polje, Babenfeld, Babino Polje
 Badaliči
 Bahovšče, Bavhušce
 Bajer
 Bajgot
 Bajti, Prapošče
-Bakovci
+Bakovci, Barkóc, Barkócz
 Bakrc
 Balkovci
 Bane
 Banja Loka
-Banjšice
+Banjšice, Banjšica, Banjščice-Sveti-Duha, Santo Spirito della Bainsizza
 Banovci
 Banuta
 Barbana
 Baredi
 Barislovci
 Barizoni
-Barka
+Barka, Barca
 Baske
-Bate
+Bate, Battaglia, Battaglia della Bainsizza
 Batuje
 Bavdek
-Bavšica
-Bač
-Bač pri Materiji
-Bača pri Modreju
-Bača pri Podbrdu
+Bavšica, Bausizza
+Bač, Baccia
+Bač pri Materiji, Baccia
+Bača pri Modreju, Baccia di Modrea, Bača, Bača pri Modreji
+Bača pri Podbrdu, Bača
 Bačne
 Bašelj
 Bedenj
-Begunje na Gorenjskem
-Begunje pri Cerknici
-Beka
-Bela
+Begunje na Gorenjskem, Begunje, Vigaun
+Begunje pri Cerknici, Begunje, Wigaun
+Beka, Beca
+Bela, Bella di Vipacco
 Bela Cerkev
 Bela Peč
 Bela Voda
@@ -98,13 +98,13 @@ Belica
 Belo
 Belovo
 Belski Vrh
-Belsko
-Beltinci, Občina Beltinci
-Belvedur
+Belsko, Oblisca di Postumia
+Beltinci, Belatinc, Belatincz, Občina Beltinci
+Belvedur, Belveder
 Belčji Vrh
 Belšak
 Belšinja Vas
-Benedikt
+Benedikt, Benedicki Vrh, Benedikt v Slovenskih Goricah, Občina Benedikt
 Benete
 Benečija
 Benica
@@ -114,10 +114,10 @@ Berglez
 Berinjak
 Berinjek
 Beričevo
-Berkovci
+Berkovci, Berkeháza, Berkhaus, Berkovci pri Proseljakovcih, Berkovci pri Prosenjakovcih
 Berkovski Prelogi
 Bernhard
-Bertoki
+Bertoki, Bertocchi
 Besnica
 Betanja
 Betonovo
@@ -129,25 +129,25 @@ Bezenškovo Bukovje
 Bezgarji
 Bezgovica
 Bezina
-Beznovci
+Beznovci, Buzahely
 Bezovica
 Bezovje nad Zrečami
 Bezovje pri Šentjurju
 Bezuljak
 Beč
 Bečaje
-Bile
+Bile, Bilje Konjarna
 Biljana
-Bilje
+Bilje, Biglia
 Binkelj
 Birna Vas
 Birčna Vas
 Biserjane
 Bistra
-Bistrica
+Bistrica, Bistrica pri Mokronogu
 Bistrica ob Dravi
-Bistrica ob Sotli
-Bistrica pri Limbušu
+Bistrica ob Sotli, Občina Bistrica ob Sotli, Sveti Peter pod Sveti Gorami, Šent Peter
+Bistrica pri Limbušu, Bistrica pri Limbusa
 Bistrica pri Rušah
 Bistrica pri Tržiču
 Bistričica
@@ -155,7 +155,7 @@ Bitež
 Bitiče
 Bitnja Vas, Bitna Vas
 Bitnje
-Bizeljska Vas
+Bizeljska Vas, Altendorf, Obizeljska Vas
 Bizeljsko
 Bizjaki
 Bizovik
@@ -169,7 +169,7 @@ Blagovica
 Blaguš
 Blanca
 Blanke
-Blate
+Blate, Blata
 Blatna Brezovica
 Blatni Vrh
 Blatnik
@@ -183,10 +183,10 @@ Blažic
 Bled, Občina Bled, Veldes
 Bled-Rečica
 Blejska Dobrava
-Blečji Vrh
+Blečji Vrh, Bleč Vrh
 Blodnik
-Bločice
-Bloška Polica
+Bločice, Obloschiz
+Bloška Polica, Bloschkapoliza, Bloška
 Boben
 Bobovek
 Bobovo pri Ponikvi
@@ -194,7 +194,7 @@ Bobovo pri Šmarju
 Bodešče
 Bodislavci
 Bodkovci
-Bodonci
+Bodonci, Bodóhegy, Tiborfa
 Bodovlje
 Bodrež
 Bodrišna Vas
@@ -203,10 +203,10 @@ Bogenšperk
 Boginja Vas
 Bogneča Vas
 Bogo
-Bogojina
+Bogojina, Bagolina, Bagonya, Bogolina
 Boharina
 Bohinjska Bela
-Bohinjska Bistrica
+Bohinjska Bistrica, Wochein Feistritz
 Bohinjska Češnjica
 Bohova
 Bojanci
@@ -214,54 +214,54 @@ Bojanja Vas
 Bojanji Vrh
 Bojsno
 Bojtina
-Bokrači
-Boldraž
+Bokrači, Bokrács
+Boldraž, Boldrež
 Bolehnečici
 Boletina
 Bolečka Vas
 Boltija
 Bolčina
-Bonini
-Boračeva
+Bonini, Acquaro, Potok-Bonini
+Boračeva, Boračova
 Boreci
-Borejci
-Boreča
+Borejci, Borhida
+Boreča, Borháza
 Boričevo
-Borjana
+Borjana, Boreana
 Borje
 Borje pri Mlinšah
 Borovak pri Podkumu
 Borovak pri Polšniku
 Borovci
 Borovec pri Karlovici
-Borovec pri Kočevski Reki
-Borovnica
-Boršt
+Borovec pri Kočevski Reki, Borovec
+Borovnica, Občina Borovnica
+Boršt, Boste
 Boršt pri Dvoru
 Bosljiva Loka
 Botričnica
-Bovec, Flitsch, Občina Bovec
+Bovec, Flitsch, Občina Bovec, Plezzo
 Bovše
 Bočaji
 Bočkovo
 Bočna
-Bošamarin
+Bošamarin, BoAmarin, DobriA Vas, GradiKa, HajdoE, Nova Tifta, NoIce, PariLje, ProInska Vas, PuTal, PuČa, Srednja Vas pri Enčurju, Stara FuIna, VaE, VipolE, ZaborT, ZamuAni, Zsizsekszer, Alara, IKi, Lebe
 Boštanj
 Boštetje
 Božakovo
 Božič Vrh
 Božje
-Branik
+Branik, Reifenberg, Rifembergo, Rihemberk
 Brankovo
 Branoslavci
 Braslovče, Občina Braslovče
 Bratislavci
 Bratnice
-Bratonci
+Bratonci, Bratanci, Bratoncz, Murabaráti
 Bratonečice
 Bračna Vas
-Brce
-Brda
+Brce, Berze di Torrenova
+Brda, Občina Brda
 Brdar
 Brdarci
 Brdce
@@ -271,7 +271,7 @@ Brdice pri Neblem
 Brdinje
 Brdo
 Brdo pri Lukovici
-Brebovnica
+Brebovnica, Brebrovnica
 Brecljevo
 Breg
 Breg ob Bistrici
@@ -289,25 +289,25 @@ Breg pri Ribnici na Dol.
 Breg pri Sinjem Vrhu
 Breg pri Temenici
 Breg pri Zagradcu
-Bregansko
+Bregansko, Breganci
 Bregansko Selo
 Brege
-Breginj
+Breginj, Bergogna
 Brekovice
 Brengova
 Bresnica
 Brest
-Brestanica
-Bresternica
+Brestanica, Rajhenberg, Rajhenburg, Reichenburg
+Bresternica, Brestrnica
 Brestje
 Brestovec
-Brestovica pri Komnu
-Brestovica pri Povirju
+Brestovica pri Komnu, Brestovica, Brestovizza in Valle, Brestovizza in Valle Inferiore, Dolenja Brestovica
+Brestovica pri Povirju, Brestovica, Brestovizza di Poverio
 Breza
-Breze
+Breze, Breze pri Celje, Sveti Rupert, Šent Ruperti
 Brezen
 Brezina
-Brezje
+Brezje, Brezje na Gorenjskem, Brezje pri Radovljici
 Brezje nad Kamnikom
 Brezje ob Slomu
 Brezje pod Nanosom
@@ -318,7 +318,7 @@ Brezje pri Dobu
 Brezje pri Dovškem
 Brezje pri Grosupljem
 Brezje pri Kumpolju
-Brezje pri Lekmarju
+Brezje pri Lekmarju, Brejze
 Brezje pri Lipoglavu
 Brezje pri Ločah
 Brezje pri Oplotnici
@@ -344,13 +344,13 @@ Brezova
 Brezova Reber
 Brezova Reber Pri Dvoru
 Brezova Reber pri Dvoru
-Brezovci
-Brezovec
+Brezovci, Vasnyíres
+Brezovec, Mali Brezovec, Sveti Trije Kralji, Sveti Trije Kralji v Slovenskih Goricah
 Brezovec - Del
 Brezovec pri Polju
 Brezovec pri Rogatcu
 Brezovi Dol
-Brezovica
+Brezovica, Bresovizza Marenzi, Lendvanyíres, Mala Brezovica, Občina Brezovica, Velika Brezovica
 Brezovica na Bizeljskem
 Brezovica pri Borovnici
 Brezovica pri Dobu
@@ -367,7 +367,7 @@ Brezovica pri Črmošnjicah
 Brezovica v Podbočju
 Brezovk
 Brezovo
-Brezovo Brdo
+Brezovo Brdo, Bresovoberdo
 Brezovska Gora
 Brezula
 Brešar
@@ -376,18 +376,18 @@ Breščaki
 Breščina
 Brežec pri Divači
 Brežec pri Podgorju
-Brežice, Občina Brežice
+Brežice, Občina Brežice, Rann
 Brglez
 Briga
 Brinje
 Brinovščica
-Britof, Freithof
+Britof, Britovo, Freithof
 Brič
 Briše
 Briše pri Polhovem Gradcu
 Brje
-Brje pri Komnu
-Brje pri Koprivi
+Brje pri Komnu, Boriano
+Brje pri Koprivi, Berie
 Brlog, Brlog del
 Brlog 2
 Brnica
@@ -401,22 +401,22 @@ Brstovec
 Brstovnica
 Bruhanja Vas
 Bruna Vas
-Brunk
+Brunk, Brunik
 Brunvirt, Beim Brunnwirt
 Brunška Gora
-Brunšvik
+Brunšvik, Prunšvig
 Brvace
 Brvi
 Bršlenovica
 Bršljin
-Budanje
-Budganja Vas
+Budanje, Budagne
+Budganja Vas, Bugdanja Vas
 Budihni
 Budina
 Budinci, Büdintz
 Budna
 Budna Vas
-Buje
+Buje, Buie del Timavo
 Bukov Vrh
 Bukov Vrh nad Visokim
 Bukova Gora
@@ -424,18 +424,18 @@ Bukovca
 Bukovci
 Bukovec
 Bukovec pri Poljanah
-Bukovica
+Bukovica, Boccavizza, Bukov
 Bukovica pri Litiji
 Bukovica pri Vodicah
-Bukovje
+Bukovje, Bucuie, Bukuje
 Bukovje pri Slivnici
 Bukovje v Babni Gori
-Bukovlje
-Bukovnica
+Bukovlje, Bukovlje pri Stranicah
+Bukovnica, Bakónak
 Bukovo
 Bukovska Vas
 Bukovski Vrh
-Bukovščica
+Bukovščica, Bukovšica
 Bukovžlak
 Bukošek
 Bunčani
@@ -453,13 +453,13 @@ Bušeča Vas
 Bušinec
 Bušinja Vas
 Cajnarje
-Cankova, Občina Cankova
+Cankova, Kaltenbrunn, Občina Cankova, Vashidegkút
 Cegelnica
 Cegelnica Pri Novem mestu
 Ceglo
 Celestrina
 Celine
-Celje, Cilli
+Celje, Ceglie, Cilli, Mestna Občina Celje, Opština Celje, Tsel'e
 Cenkova
 Centa
 Cepki
@@ -467,12 +467,12 @@ Cerej
 Cerina
 Cerkljanska Dobrava
 Cerkljanski Vrh
-Cerklje na Gorenjskem, Municipality of Cerklje na Gorenjskem, Zirklach
-Cerklje ob Krki
-Cerknica, Občina Cerknica
-Cerkno
+Cerklje na Gorenjskem, Cerklje, Municipality of Cerklje na Gorenjskem, Občina Cerklje na Gorenjskem, Zirklach
+Cerklje ob Krki, Cerklje
+Cerknica, Občina Cerknica, Opština Cerknica, Zirknitz
+Cerkno, Circhina, Občina Cerkno
 Cerkovna
-Cerkvenjak
+Cerkvenjak, Kirchberg, Občina Cerkvenjak, Sveti Anton
 Cerkvišče
 Cerov Log
 Cerovec
@@ -484,7 +484,7 @@ Cerovec pri Šmarju
 Cerovica
 Cerovo
 Ceršak
-Cesta
+Cesta, Zesta
 Ceste
 Cetore
 Cezanjevci
@@ -496,34 +496,34 @@ Cikava
 Ciringa
 Cirje
 Cirknica
-Cirkovce
-Cirkulane
+Cirkovce, Cirkovci
+Cirkulane, Občina Cirkulane
 Cirkuše
 Cirkuše v Tuhinju
 Cirnik
 Cmereška Gorca
-Col
+Col, Orešje-Col, Zoll
 Coljava
 Colnarji
-Crngrob
+Crngrob, Crnogrob
 Cuber
 Cundrovec
 Cunkovci
 Curnovec
 Cven
 Cvetkovci
-Cvišlerji
+Cvišlerji, Cvišlarji
 Cvrtež
 Daber
 Dalce
-Daljna Vas
+Daljna Vas, Daljnja Vas, Dalna Vas
 Daljni Vrh
 Dalnje Njive
-Damelj
+Damelj, Damalj
 Dane
-Dane pri Divači
-Dane pri Sežani
-Dankovci
+Dane pri Divači, Danne di Sesana
+Dane pri Sežani, Danna
+Dankovci, Dankovec, Őrfalu
 Davča
 Debeli Rtič
 Debenec
@@ -531,47 +531,47 @@ Debeni
 Debenje
 Debeče
 Debro
-Decno Selo
+Decno Selo, Dečna Sela
 Dedna Gora
 Dedni Dol
 Dedni Vrh
 Dedni Vrh pri Vojniku
 Dednik
 Dednja Vas
-Dekani
+Dekani, Decani, Pasja Vas, Villa Decani
 Dekmanca
 Delač
 Delnice
-Depala Vas
+Depala Vas, Depalja Vas
 Desenci
 Desinec
-Deskle
+Deskle, Descla
 Deskova Vas
 Desnjak
-Destrnik, Municipality of Destrnik, Občina Destrnik
+Destrnik, Desternik, Municipality of Destrnik, Občina Destrnik
 Dečina
 Dečja Vas
 Dečja Vas pri Zagradcu
 Dešen
 Dešeča Vas
-Dežno pri Makolah
-Dežno pri Podlehniku
+Dežno pri Makolah, Dežno
+Dežno pri Podlehniku, Dežno
 Dilce
 Dilici
-Divača
+Divača, Divaccia, Divazza
 Divči
 Dob
-Dob pri Šentvidu
+Dob pri Šentvidu, Veliki
 Dobe
 Dobec
 Dobeno
-Dobenska Mladina
+Dobenska Mladina, Dobenske Mladine
 Dobindol
 Dobja Vas
-Dobje
+Dobje, Občina Dobje
 Dobje pri Lesičnem
 Dobje pri Planini
-Doblar
+Doblar, Doblarji
 Doblatina
 Dobletina
 Dobležiče
@@ -593,34 +593,34 @@ Dobrava pri Stični
 Dobrava pri Škocjanu
 Dobravica
 Dobravica pri Vel. Gabru
-Dobravlje
+Dobravlje, Dobraule
 Dobravšce
 Dobrije
 Dobrina
-Dobrič
+Dobrič, Pod Dobričem
 Dobriška Vas
 Dobrljevo
-Dobrna, Municipality of Dobrna
+Dobrna, Doberna, Dobrno, Municipality of Dobrna, Občina Dobrna
 Dobrnež
-Dobrnič
+Dobrnič, Dobrniče
 Dobro Polje
-Dobropolje
-Dobrova
+Dobropolje, Poglie
+Dobrova, Dobrova pri Ljubljani
 Dobrova pri Dravogradu
 Dobrova pri Prihovi
 Dobrovce
 Dobrovlje
 Dobrovlje pri Mozirju
-Dobrovnik, Občina Dobrovnik
-Dobrovo
+Dobrovnik, Dobronak, Dobrovnik-Dobronak, Dubrovnik, Občina Dobrovnik, Občina Dobrovnik-Dobronak
+Dobrovo, Castel Dobra, Dobrovo v Brdih
 Dobrovščak
 Dobrunje
 Dobruša
 Dobruška Vas
-Dogoše
+Dogoše, Dolgoše
 Dojutrovica
 Doklece
-Dokležovje
+Dokležovje, Deklezsin, Murahely
 Dol
 Dol pod Gojko
 Dol pri Borovnici
@@ -641,25 +641,25 @@ Dole
 Dole pod Sv. Trojico
 Dole pri Krašcah
 Dole pri Litiji
-Dole pri Polici
+Dole pri Polici, Doli
 Dole pri Škofljici
 Dolena
-Dolenci
+Dolenci, Kisdolincz, Kisdolány, Mali Dolenci, Nagydolincz, Nagydolány, Veliki Dolenci, Veliki Dolinci
 Dolenja Brezovica
 Dolenja Dobrava
 Dolenja Lepa Vas
 Dolenja Nemška Vas
 Dolenja Pirošica
 Dolenja Podgora
-Dolenja Ravan
+Dolenja Ravan, Dolenji Ravni
 Dolenja Stara Vas
 Dolenja Straža
-Dolenja Trebuša
-Dolenja Vas
+Dolenja Trebuša, Tribussa Inferiore, Tribussa di Monte Sanvito, Tribuša, Tridussa
+Dolenja Vas, Dolenja, Dolenja Vac, Villabassa
 Dolenja Vas pri Artičah
 Dolenja Vas pri Krškem
 Dolenja Vas pri Mirni Peči
-Dolenja Vas pri Polhovem Gradcu
+Dolenja Vas pri Polhovem Gradcu, Dolenja Vas pri Polh. Gradcu
 Dolenja Vas pri Polici
 Dolenja Vas pri Raki
 Dolenja Vas pri Temenici
@@ -677,7 +677,7 @@ Dolenje Grčevje
 Dolenje Jesenice
 Dolenje Jezero
 Dolenje Kališče
-Dolenje Kamence
+Dolenje Kamence, Dolenje Kamnice
 Dolenje Kamenje
 Dolenje Kamenje pri Dobrniču
 Dolenje Karteljevo
@@ -692,60 +692,60 @@ Dolenje Poljane
 Dolenje Polje
 Dolenje Ponikve
 Dolenje Radulje
-Dolenje Selce
+Dolenje Selce, Dolenja Selca
 Dolenje Skopice
-Dolenje Sušice
+Dolenje Sušice, Dolenja Sušica
 Dolenje Visoko
 Dolenje Vrhpolje
 Dolenje Zabukovje
-Dolenje pri Jelšanah
+Dolenje pri Jelšanah, Dolegne
 Dolenji Boštanj
-Dolenji Globodol
+Dolenji Globodol, Dolenji Globodel
 Dolenji Lazi
 Dolenji Leskovec
 Dolenji Logatec
 Dolenji Maharovec
-Dolenji Novaki
+Dolenji Novaki, Dolje-Novake, Donje Novake
 Dolenji Podboršt
 Dolenji Podboršt pri Treb.
-Dolenji Podšumberk
+Dolenji Podšumberk, Dolenji Šumberk
 Dolenji Potok
 Dolenji Radenci
-Dolenji Suhadol
-Dolenji Suhor pri Vinici
+Dolenji Suhadol, Dolenji Suhodol
+Dolenji Suhor pri Vinici, Dolenji Suhor
 Dolenji Vrh
-Dolenjske Toplice, Municipality of Dolenjske Toplice
+Dolenjske Toplice, Municipality of Dolenjske Toplice, Občina Dolenjske Toplice, Toplice
 Dolenčice
 Dolga Brda
 Dolga Gora
-Dolga Njiva pri Šentlovren.
+Dolga Njiva pri Šentlovren., Dolga Njiva, Dolga Njiva pri Šentlovrencu
 Dolga Poljana
 Dolga Raka
-Dolga Vas
-Dolge Njive
+Dolga Vas, Hosszúfalu, Lendvahosszúfalu
+Dolge Njive, Dolga Njive
 Dolgi Laz
 Dolgi Rt
 Dolgi Vrh
 Dolgo Brdo
 Dolgo Brdo pri Mlinšah
 Dolgovaške Gorice
-Dolina
-Dolina pri Lendavi
+Dolina, Völgyes, Zgorna Dolina
+Dolina pri Lendavi, Völgyifalu
 Dolič
 Dolje
-Dolnja Bistrica
+Dolnja Bistrica, Alsó-Bisztricze, Alsóbeszterce, Alsóbesztercze, Dolenja Bistrica, Donja Bistrica
 Dolnja Bitnja
-Dolnja Briga
-Dolnja Košana
+Dolnja Briga, Dolenja Briga
+Dolnja Košana, Dolenja Košana
 Dolnja Lokvica
 Dolnja Paka
 Dolnja Počehova
 Dolnja Prekopa, Dolenje Prekope
 Dolnja Stara Vas
 Dolnja Težka Voda
-Dolnje Brezovo
+Dolnje Brezovo, Donje Brezovo
 Dolnje Cerovo
-Dolnje Dobravice
+Dolnje Dobravice, Dolenje Dobravica, Dolenje Dobravice
 Dolnje Impolje, Dolenje Impole
 Dolnje Ležeče
 Dolnje Ložine
@@ -753,32 +753,32 @@ Dolnje Mraševo
 Dolnje Orle
 Dolnje Prapreče
 Dolnje Retje
-Dolnje Vreme
+Dolnje Vreme, Auremo di Sotto, Dolenje Vreme
 Dolnji Ajdovec
 Dolnji Kot
 Dolnji Križ
 Dolnji Lakoš
-Dolnji Slaveči
-Dolnji Suhor pri Metliki
+Dolnji Slaveči, Alsócsalogány
+Dolnji Suhor pri Metliki, Dolnji Suhor
 Dolnji Vrh
-Dolnji Zemon
+Dolnji Zemon, Zemon di Sotto
 Dolsko
 Dolšce, Dolšice
 Dolščaki
 Dolž
-Domajinci
-Domanjševci
+Domajinci, Dombalja
+Domanjševci, Domanjšovci, Domanšovci, Domonkosfa
 Dombrava
 Domžale, Občina Domžale
 Donačka Gora
 Donje Kamnice
 Dorfarje
-Dornava, Municipality of Dornava, Občina Dornava
-Dornberk, Dornberg
+Dornava, Dornova, Municipality of Dornava, Občina Dornava
+Dornberk, Dorinbergo, Dornberg, Montespino, Zali Haib
 Dornice
 Doropolje
 Doslovče
-Dovje
+Dovje, Dovie
 Dovško
 Dovže
 Draga
@@ -790,7 +790,7 @@ Dragomelj
 Dragomer
 Dragomilo
 Dragomlja Vas
-Dragonja
+Dragonja, Feran
 Dragonja Vas
 Dragotinci
 Dragovanja Vas
@@ -808,17 +808,17 @@ Dramlje
 Drankovec
 Dravci
 Dravinjski Vrh
-Dravograd, Občina Dravograd
+Dravograd, Občina Dravograd, Opština Dravograd, Spodnji Dravograd, Unter-Drauburg
 Dravski Dvor
 Dravče
-Drašiči
+Drašiči, Draščice
 Drašča Vas
 Draža Vas
 Draženci
 Draževnik
 Dražgoše
 Dražica
-Drbetinci
+Drbetinci, Derbetici, Sveti Andraz
 Dren
 Drenik
 Drenje
@@ -830,9 +830,9 @@ Drensko Rebro
 Drevenik
 Drečji Vrh, Derečji Vrh
 Drešinja Vas
-Drežnica
+Drežnica, Dresenza Picco
 Drežnik
-Drežniške Ravne
+Drežniške Ravne, Drežniške Ravni, Rauna di Dresenza
 Drganja Sela
 Drnovk
 Drnovo
@@ -840,7 +840,7 @@ Drobinsko
 Drobočnik
 Drobtinci
 Drožanje
-Drskovče
+Drskovče, Drescozze
 Drstelja
 Drtija
 Drulovka
@@ -855,38 +855,38 @@ Dule
 Dunaj
 Dupeljne
 Duplica
-Duplje
-Dutovlje
+Duplje, Duple
+Dutovlje, Dotovlje, Duttigliano, Duttogliano, Duttoule
 Dvor
 Dvor pri Polhovem Gradcu
 Dvorce
-Dvori
+Dvori, Duori
 Dvorjane
 Dvorje
 Dvorska Vas
 Erjavec
-Erzelj
+Erzelj, Ersel in Monte
 Fabci
-Famlje
+Famlje, Famie
 Fara
 Farovec
 Fijeroga
-Fikšinci
+Fikšinci, Füchselsdorf, Füxlinc, Füxlinci, Kismáriahavas
 Fili, Fileji
-Filipčje Brdo
-Filovci
+Filipčje Brdo, Filippi
+Filovci, Filóc, Filócz
 Finkovo
-Fjesa
+Fjesa, Fiesa, Fiessa, Fiesso, Fijesa, Fijeso, Fornaci
 Flekušek
 Florjan
-Florjan pri Gornjem Gradu
+Florjan pri Gornjem Gradu, Florijan, Sveti Florijan
 Fobca
-Fojana
-Fokovci
+Fojana, Fleana, Fojona
+Fokovci, Úrdomb
 Forme
 Formin
 Fošt
-Frajhajm
+Frajhajm, Frajham
 Fram
 Frankolovo
 Frankovci
@@ -898,13 +898,13 @@ Fučkovci
 Fužina
 Fužine
 Gaber pri Črmošnjicah
-Gaberje
-Gaberke
+Gaberje, Gabria, Gabrije, Gyertyános, Zalagyertyános
+Gaberke, Gabrke
 Gabernik
 Gabrc
-Gabrce
+Gabrce, Gaberče, Gabria
 Gabrijele
-Gabrje
+Gabrje, Gabri di Tolmino
 Gabrje pod Limbarsko Goro
 Gabrje pod Spilkom
 Gabrje pri Dobovi
@@ -912,15 +912,15 @@ Gabrje pri Ilovi Gori
 Gabrje pri Jančah
 Gabrje pri Soteski
 Gabrje pri Stični
-Gabrk
+Gabrk, Gaberk, Gabrega
 Gabrnik
 Gabrno
 Gabrovec pri Dramljah
 Gabrovec pri Kostrivnici
 Gabrovica
-Gabrovica pri Komnu
-Gabrovica pri Črnem Kalu
-Gabrovka
+Gabrovica pri Komnu, Cabrovizza, Gabrovizza
+Gabrovica pri Črnem Kalu, Gabrovizza d'Istria
+Gabrovka, Sveti Križ, Sveti Križ pri Litiji
 Gabrovka pri Zagradcu
 Gabrovlje
 Gabrovnica
@@ -931,36 +931,36 @@ Gabrska Gora
 Gabrsko
 Gager
 Gaj
-Gaj nad Mariborom
-Gajevci
+Gaj nad Mariborom, Sveti Križ
+Gajevci, Gajovci
 Gajniče
 Gajševci
 Galantiči
 Galetov Grad
 Galicija
 Galušak
-Gančani
+Gančani, Gánicsa, Lendvarózsavölgy
 Gatina
 Gavce
 Gazice
 Gačnik
 Gašparci
 Gašpinovo
-Gažon
-Gederovci
-Genterovci
+Gažon, Gason
+Gederovci, Kőhida
+Genterovci, Göntérháza
 Gerečja Vas
-Gerlinci
+Gerlinci, Görhegy, Jörgelsdorf
 Geršiči
 Ghamus
-Gibina
+Gibina, Murafüred
 Gladloka
 Gladomes
 Glažuta
-Glem
+Glem, Geme
 Glina
 Glinek
-Glinica
+Glinica, Glinice
 Glinje
 Glinsko
 Globel
@@ -985,9 +985,9 @@ Godešič
 Godič
 Godičevo
 Godnje
-Godovič
+Godovič, Godovici, Godovitsch
 Gojače
-Golac
+Golac, Golaz, Golazzo
 Golavabuka
 Golek
 Golek pri Vinici
@@ -1006,12 +1006,12 @@ Golobinjek pri Planini
 Golušnik
 Golčaj
 Golče
-Gomance
+Gomance, Gomanjce
 Gombišče
 Gomila
 Gomila pri Kogu
 Gomilci
-Gomilica
+Gomilica, Gumilicza, Lendvaszentjózsef
 Gomilnica
 Gomilsko
 Gonjače
@@ -1030,9 +1030,9 @@ Gorenja Lepa Vas
 Gorenja Nemška Vas
 Gorenja Pirošica
 Gorenja Podgora
-Gorenja Ravan
+Gorenja Ravan, Gorenji Ravni
 Gorenja Stara Vas
-Gorenja Trebuša
+Gorenja Trebuša, Tribussa, Tribussa Superiore
 Gorenja Vas, Goreinawas
 Gorenja Vas pri Leskovcu
 Gorenja Vas pri Mirni
@@ -1043,18 +1043,18 @@ Gorenja Žaga
 Gorenja Žetina
 Gorenjci pri Adlešičih
 Gorenjcj
-Gorenje
+Gorenje, Goregna di Buciue
 Gorenje Blato
-Gorenje Brdo
+Gorenje Brdo, Gorenja Brdo
 Gorenje Brezovo
 Gorenje Dole
 Gorenje Gradišče
 Gorenje Grčevje
 Gorenje Jelenje
 Gorenje Jesenice
-Gorenje Jezero
+Gorenje Jezero, Gornje Jezero
 Gorenje Kališče
-Gorenje Kamence
+Gorenje Kamence, Gornje Kamnice
 Gorenje Kamenje
 Gorenje Kamenje pri Dobrniču
 Gorenje Karteljevo
@@ -1070,9 +1070,9 @@ Gorenje Podpoljane
 Gorenje Polje
 Gorenje Ponikve
 Gorenje Radulje
-Gorenje Selce
+Gorenje Selce, Gorenja Selca
 Gorenje Skopice
-Gorenje Sušice
+Gorenje Sušice, Gorenja Sušica
 Gorenje Visoko
 Gorenje Vrhpolje
 Gorenje Zabukovje
@@ -1081,14 +1081,14 @@ Gorenje pri Zrečah
 Gorenji Globodol
 Gorenji Lazi
 Gorenji Leskovec
-Gorenji Log
-Gorenji Logatec
+Gorenji Log, Gornji Log
+Gorenji Logatec, Ober-loitsch
 Gorenji Maharovec
 Gorenji Mokronog
 Gorenji Novaki
 Gorenji Podboršt
 Gorenji Podboršt pri V. Loki
-Gorenji Podšumberk
+Gorenji Podšumberk, Gorenji Podžumberk, Gorenji Šumberk
 Gorenji Potok
 Gorenji Radenci
 Gorenji Suhadol
@@ -1096,18 +1096,18 @@ Gorenji Vrh pri Dobrniču
 Gorenji Vrsnik
 Gorenji Čepovan, Gornji Čepovan
 Gorenjski Vrh
-Gorica
+Gorica, Halmosfő
 Gorica pri Dobjem
 Gorica pri Oplotnici
 Gorica pri Raztezu
 Gorica pri Slivnici
 Gorica pri Šmartnem
-Goricica pod Krimom
+Goricica pod Krimom, Goričica pod Krimon
 Goriča Vas
 Goričak
 Goričane
-Goriče
-Goriče pri Famljah
+Goriče, Goricce
+Goriče pri Famljah, Goricce del Timavo
 Goričica
 Goričica pri Ihanu
 Goričica pri Moravčah
@@ -1118,54 +1118,54 @@ Goriška Vas pri Škocjanu
 Goriški Vrh
 Gorišnica
 Gorjane
-Gorjansko
+Gorjansko, Goreansca, Goriano
 Gorje, Municipality of Gorje, Občina Gorje
 Gorjupi, Gorjup
 Gorjuša
 Gorjuše
-Gornja Bistrica
+Gornja Bistrica, Felső-Bisztricze, Felsőbeszterce, Felsőbesztercze, Murabeszterce
 Gornja Bitnja, Gorenje Bitnje
-Gornja Briga
-Gornja Košana
+Gornja Briga, Gorenja Briga
+Gornja Košana, Gorenja Košana
 Gornja Lokvica
 Gornja Paka
 Gornja Prekopa, Gorenje Prekope
-Gornja Radgona
+Gornja Radgona, Občina Gornja Radgona, Opština Gornja Radgona, Radgona
 Gornja Stara Vas
 Gornja Težka Voda
 Gornja Vas
 Gornje Brezovo
 Gornje Cerovo
-Gornje Dobravice
+Gornje Dobravice, Dobravice, Gorenje Dobravice
 Gornje Impolje, Gorenje Impole
 Gornje Krapje
 Gornje Laze
-Gornje Ležeče
+Gornje Ležeče, Gorenje Ležeče
 Gornje Ložine
-Gornje Orle
+Gornje Orle, Gornje Orlje
 Gornje Pijavško
 Gornje Prapreče
 Gornje Ravne
 Gornje Retje
-Gornje Vreme
-Gornji Ajdovec
+Gornje Vreme, Auremo di Sopra, Gorenje Vreme, Vreme
+Gornji Ajdovec, Ajdovec, Haidomitz
 Gornji Dolič
-Gornji Grad, Oberburg in Steiermark
-Gornji Ig
+Gornji Grad, Oberburg in Steiermark, Občina Gornji Grad
+Gornji Ig, Gorenji Ig
 Gornji Ivanjci
 Gornji Ključarovci
 Gornji Kot
 Gornji Križ
-Gornji Lakoš
+Gornji Lakoš, Alsólakos, Alsólendvalakos, Felsőlakos
 Gornji Lenart, Tiergarten, Zverinjak
-Gornji Petrovci
+Gornji Petrovci, Občina Gornji Petrovci, Petrovci, Péterhegy
 Gornji Rogatec
-Gornji Slaveči
-Gornji Suhor pri Metliki
-Gornji Suhor pri Vinici
+Gornji Slaveči, Falud, Gornja Slaveča, Gornji Slaviči
+Gornji Suhor pri Metliki, Gornji Suhor
+Gornji Suhor pri Vinici, Gornji-Suhor
 Gornji Vrh
-Gornji Zemon
-Gornji Črnci
+Gornji Zemon, Zemon di Sopra
+Gornji Črnci, Gornji Čmel, Királyszék
 Goropeke
 Gorska
 Gorski Vrh
@@ -1182,10 +1182,10 @@ Goveji Dol
 Govejk
 Govnjač
 Gozd
-Gozd Martuljek
+Gozd Martuljek, Gozd Martuljak, Gozd-Mrtulek, Mrtulek, Rute
 Gozd-Reka
 Gozdec
-Goče
+Goče, Gozza
 Gočova
 Grabe
 Grabe pri Ljutomeru
@@ -1195,14 +1195,14 @@ Grabonoški Vrh
 Grabrovec
 Grabče
 Grabšinci
-Grad, Municipality of Grad
+Grad, Felsőlendva, Gornja Lendava, Municipality of Grad, Oberlimbach, Oberlimpach, Občina Grad, Vaskopárd
 Gradac, Gradac, Möttling
 Gradec
-Gradenc
+Gradenc, Gradence, Gradenec
 Gradenje
 Gradenšak
 Gradež
-Gradin
+Gradin, Gradigne, Gradina, Grádena
 Gradiček
 Gradišica
 Gradiške Laze
@@ -1210,16 +1210,16 @@ Gradiški Dol
 Gradiško
 Gradišča
 Gradiščak
-Gradišče
+Gradišče, GradiČe, Gradiša, Muravárhely, Várhely
 Gradišče na Kozjaku
-Gradišče nad Prvačino
+Gradišče nad Prvačino, Grandišče
 Gradišče pri Divači
 Gradišče pri Litiji
 Gradišče pri Lukovici
-Gradišče pri Materiji
+Gradišče pri Materiji, Gradischie di Castelnuovo
 Gradišče pri Raki
 Gradišče pri Trebnjem
-Gradišče pri Vipavi
+Gradišče pri Vipavi, Gradischie di Vipacco
 Gradišče pri Vojniku
 Gradišče pri Štjaku
 Gradišče v Tuhinju
@@ -1229,10 +1229,10 @@ Gradnik
 Gradnje, Gradinje
 Gradno
 Grahovo
-Grahovo Brdo
-Grahovo ob Bači
+Grahovo Brdo, Gracovo, Grahoro Brdo
+Grahovo ob Bači, Gracova
 Grahovše
-Grajenščak
+Grajenščak, Grajenšak
 Grajska Vas
 Grant
 Gračič
@@ -1245,14 +1245,14 @@ Grebenje
 Gregovce
 Grenc
 Gresovščak
-Grgar
-Grgarske Ravne
+Grgar, Gargaro, Gegar
+Grgarske Ravne, Raune
 Grgelj
 Griblje
 Grinjan
 Grintavica
 Grintovec
-Grintovec pri Osilnici
+Grintovec pri Osilnici, Glintovec pri Osilnici
 Griva, Grivarji
 Grivac
 Grivče
@@ -1261,20 +1261,20 @@ Grič pri Dobličah
 Grič pri Klevevžu
 Grič pri Trebnjem
 Griček pri Željnah
-Griže
+Griže, Grise
 Grlava
 Grlinci
 Grliče
 Grm
 Grm pri Podzemlju
 Grmada
-Grmovlje
+Grmovlje, Grmolje, Grmulje
 Grobelce
 Grobelno
 Grobišče, Grobše
 Groblje
 Groblje pri Prekopi
-Grosuplje
+Grosuplje, Občina Grosuplje, Opština Grosuplje
 Gruden
 Grudnica
 Gruča
@@ -1294,12 +1294,12 @@ Gumberk
 Gumnišče
 Gunclje
 Gunte
-Guštini
+Guštini, Oštini
 Hajndl
 Hajnsko
 Hajnš
 Hardek
-Harije
+Harije, Carie, Ilarie
 Harje
 Haudi
 Hebat
@@ -1313,25 +1313,25 @@ Hlaponci
 Hlavče Njive
 Hlebce
 Hleviše
-Hlevni Vrh
+Hlevni Vrh, Hlewenwerch
 Hlevnik
 Hmeljčič
 Hobovše pri Stari Oselici
-Hodoš, Hodosch, Občina Hodoš
+Hodoš, Hodosch, Občina Hodoš, Őrihodos
 Hof
 Hohovica
 Hoje
 Hojče
 Hom
 Homec
-Horjul
+Horjul, Občina Horjul
 Hosta
 Hotavlje
-Hotedršica
+Hotedršica, Hotederschitz, Hotederšica, Ravnik pri Hotedršici
 Hotemaže
 Hotemež
 Hotinja Vas
-Hotiza
+Hotiza, Gyertjanoš, Hottiza, Murarév
 Hotična
 Hotovlja
 Hotunje
@@ -1342,32 +1342,32 @@ Hoščina
 Hramše
 Hranjigovci
 Hrast pri Jugorju
-Hrast pri Vinici
+Hrast pri Vinici, Hrast
 Hrastek
-Hrastenice
+Hrastenice, Hrastenica
 Hrastje
 Hrastje ob Bistrici
 Hrastje pri Cerkljah
 Hrastje pri Grosupljem
 Hrastje pri Mirni Peči
 Hrastje-Mota
-Hrastnik, Hrastnigg
+Hrastnik, Hrastnigg, Občina Hrastnik, Opština Hrastnik
 Hrastnik pri Trojanah
 Hrastno
 Hrastov Dol
 Hrastovec
 Hrastovec pod Bočem
 Hrastovica
-Hrastovlje
+Hrastovlje, Cristoglle
 Hrastulje
 Hraše
 Hraše pri Preddvoru
 Hrašenski Vrh
-Hrašče
+Hrašče, Crastie
 Hreljin
 Hrenca
 Hrenova
-Hrenovice
+Hrenovice, Crenovizza, Hrenovilz
 Hrib
 Hrib nad Ribčami
 Hrib pri Cerovcu
@@ -1382,20 +1382,20 @@ Hribarjevo
 Hribi
 Hribljane
 Hrovača
-Hrpelje
+Hrpelje, Erpelle, Herpelje
 Hrustel
 Hrustovo
 Hruševec
 Hruševica
-Hruševje
+Hruševje, Cruscevie
 Hruševka
 Hruševlje
 Hruševo
 Hrušica
 Hruškarje
 Hrušovje
-Hrvatini
-Hrvaški Brod
+Hrvatini, Crevatini, Hrvatin
+Hrvaški Brod, Hrovaški Brod
 Huda Jama
 Huda Polica
 Hudajužna
@@ -1405,7 +1405,7 @@ Hudenje
 Hudi Graben
 Hudi Konec
 Hudi Kot
-Hudi Log
+Hudi Log, Boscomalo
 Hudi Vrh
 Hudo
 Hudo Brezje
@@ -1416,18 +1416,18 @@ Hum pri Ormožu
 Humarji
 Hušica
 Hvaletinci
-Idrija
-Idrija pri Bači
+Idrija, Idria, Občina Idrija, Opština Idrija
+Idrija pri Bači, Idria della Baccia, Idria di Bacia, Idrija ob Bači
 Idrijske Krnice
 Idrijski Log
-Idrsko
+Idrsko, Idresca d'Isonzo
 Idršek
-Ig
+Ig, Ig pri Ljubljana, Ig-Studenec, Iggdorf, Občina Ig, Studenec-Ig
 Iga Vas
 Iglenik
 Iglenik pri Veliki Loki
 Ihan
-Ilirska Bistrica, Občina Ilirska Bistrica
+Ilirska Bistrica, Bisterza, Illyrisch Feistritz, Občina Ilirska Bistrica, Opština Ilirska Bistrica
 Iljaševci
 Ilovca
 Ilovci
@@ -1438,37 +1438,37 @@ Imeno
 Imenska Gorca
 Imovica
 Irje
-Ivanci
+Ivanci, Zalaiváncz, Zalaivánd
 Ivandol, Ivanji Dol
 Ivanje Selo
-Ivanji Grad
+Ivanji Grad, Castelgiovanni
 Ivanjkovci
 Ivanjše, Ivanše
-Ivanjševci
-Ivanjševski Vrh
-Ivanovci
+Ivanjševci, Alsójánosfa, Ivanjšovci, Jánosfa
+Ivanjševski Vrh, Ivanjševci ob Ščavnici
+Ivanovci, Alsószentbenedek, Szentbenedek
 Ivančna Gorica, Občina Ivančna Gorica
 Ivenca
 Izgorje
 Izlake
-Izola, Občina Izola
+Izola, Isola d'Istria, Izola-Isola, Ižla, Občina Izola, Občina Izola-Isola, Opština Izola
 Izvir
 Iška
 Iška Loka
 Iška Vas
-Ižakovci
+Ižakovci, Izsakócz, Murasziget
 Jablan
 Jablana
 Jablance
-Jablanica
+Jablanica, Castel Iblanizza
 Jablaniške Laze
 Jablaniški Potok
 Jablovec
 Jagnjenica
 Jagodje
 Jagodnik
-Jagoče
-Jagršče
+Jagoče, Jagodče
+Jagršče, Jageršče
 Jakičevo
 Jakob pri Šentjurju
 Jakovce
@@ -1477,9 +1477,9 @@ Jakšiči, Jakšič
 Jama
 Jama pri Dvoru
 Jamna
-Jamnica
+Jamnica, Zgornja Jamnica
 Jamnik
-Janeževo Brdo
+Janeževo Brdo, Ianezevo Brdo, San Giovanni Berdo
 Janeži
 Janežovci
 Janežovski Vrh
@@ -1487,7 +1487,7 @@ Janhova
 Jankar
 Jankova
 Jankoviči
-Janče
+Janče, Jančje
 Janški Vrh
 Janškovo Selo
 Janžev Vrh
@@ -1502,10 +1502,10 @@ Jarše
 Jasen
 Jastrebci
 Jastrebnik
-Javnik
+Javnik, Javniče
 Javor
 Javorica
-Javorje
+Javorje, Giavorie
 Javorje pri Blagovici
 Javorje pri Gabrovki
 Javorjev Dol
@@ -1520,7 +1520,7 @@ Jedlovnik
 Jelarji
 Jelce
 Jelen
-Jelendol, Jelenji Dol
+Jelendol, Jelenji Dol, Sveti Katarina
 Jelenik
 Jelenja Vas
 Jelenk
@@ -1533,7 +1533,7 @@ Jelovica
 Jelovice
 Jelovo
 Jelša
-Jelšane
+Jelšane, Elsane
 Jelše
 Jelše pri Otočcu
 Jelševec
@@ -1543,11 +1543,11 @@ Jeperjek
 Jeranovo
 Jereb
 Jereka
-Jereslavec
-Jerinov Grič
+Jereslavec, Jereslavce
+Jerinov Grič, Jermov Grič
 Jerman Vrh
 Jerneja Vas
-Jeronim
+Jeronim, Sveti Jeronim
 Jerovska Vas
 Jeruzalem
 Jerčin
@@ -1555,7 +1555,7 @@ Jeršanovo
 Jeršiče
 Jesen
 Jesenica
-Jesenice, Občina Jesenice
+Jesenice, Assling, Občina Jesenice, Opština Jesenice
 Jesenih
 Jesenjak
 Jesenje
@@ -1563,7 +1563,7 @@ Jesenov Vrt
 Jesenovo
 Jevnica
 Jevšček
-Jezerca
+Jezerca, Geserza
 Jezerce
 Jezerce pri Dobjem
 Jezerce pri Šmartnem
@@ -1579,35 +1579,35 @@ Ježni Vrh
 Jiršovci
 Jordankal
 Jugorje
-Jugorje pri Metliki
+Jugorje pri Metliki, Jugorge
 Junčje
 Jurišna Vas
-Jurišče
+Jurišče, Giursici, Jurešče, Juršiče
 Jurjevica
 Jurjevski Dol
 Jurka Vas
 Jurklošter
 Jurna Vas
 Jurovci
-Jurovski Dol
+Jurovski Dol, Sveti Jurij v Slovenske Gorice
 Juršinci, Občina Juršinci
 Juršče
 Juvanje
 Kadrenci
 Kajžar
-Kal
-Kal nad Kanalom
+Kal, Cal di San Michele
+Kal nad Kanalom, Cal di Canale, Kal Kanalski
 Kal pri Dolah
 Kal pri Krmelju
-Kal-Koritnica
+Kal-Koritnica, Cal di Plezzo
 Kalce
 Kalce-Naklo
 Kale
-Kališe
+Kališe, Kališče
 Kališovec
 Kalobje
 Kalše
-Kambreško
+Kambreško, Cambresco
 Kamenca nad Ložicami
 Kamence, Kamenice
 Kamenica
@@ -1621,24 +1621,24 @@ Kamni Potok
 Kamni Vrh
 Kamni Vrh pri Ambrusu
 Kamnica
-Kamnik
+Kamnik, Občina Kamnik, Opština Kamnik, Stein
 Kamnik pod Krimom
-Kamniška Bistrica
-Kamnje
-Kamno
+Kamniška Bistrica, Bistriški Dom, Dom v Kamniškoj-Bistrici
+Kamnje, Camigna
+Kamno, Camina
 Kamno Brdo
-Kamovci
+Kamovci, Kámaháza
 Kampel
-Kanal
+Kanal, Canale, Canale d'Isonzo
 Kanalski Lom
-Kanalski Vrh
+Kanalski Vrh, Verco di Canale
 Kandrše
 Kaniža
-Kanižarica
+Kanižarica, Kanjizarica
 Kanji Dol
 Kanjuce
-Kančevci
-Kapca
+Kančevci, Benedek, Felsőszentbenedek, Kančovci
+Kapca, Gyertjanoš, Kapcza
 Kapele
 Kapelski Vrh
 Kapla
@@ -1650,19 +1650,19 @@ Karli
 Karlovica
 Karlče, Karlice
 Kasaze
-Kastelec
+Kastelec, Castel
 Katarija
 Kavče
-Kazlje
+Kazlje, Casigliano di Sesana, Kazle
 Kačiče
-Kačiče-Pared
+Kačiče-Pared, Cacitti
 Kačja Draga
 Kačji Dol
 Kačji Potok
 Kebelj
 Kerinov Grm
 Kidričevo
-Kilovče
+Kilovče, Kikovče, Kolovče
 Kisovec
 Kitni Vrh
 Klada
@@ -1676,17 +1676,17 @@ Klance
 Klanec
 Klanec pri Gabrovki
 Klanec pri Komnu
-Klanec pri Kozini
-Klavže
+Klanec pri Kozini, Clanz, San Pietro, San Pietro di Madrasso
+Klavže, Chiusa
 Klemenčevo
-Klenik
+Klenik, Clenico
 Klenovik
 Klenovo
-Kleč
-Kleče pri Dolu
+Kleč, Kleče
+Kleče pri Dolu, Kleče
 Klečet
 Klinja Vas
-Ključarovci pri Ljutomeru
+Ključarovci pri Ljutomeru, Ključarovci
 Ključevica
 Klokočovnik
 Klopce
@@ -1695,34 +1695,34 @@ Knape
 Knej
 Knezdol
 Kneške Ravne
-Kneža
-Knežak
+Kneža, Chiesa
+Knežak, Fontana del Conte, Grafenbrunn
 Knežina
 Knežja Lipa
 Knežja Njiva
 Knežja Vas
-Kobarid, Karfreit, Občina Kobarid
+Kobarid, Caporetto, Karfreit, Občina Kobarid
 Kobdilj
 Kobile
-Kobilje, Občina Brezovica
+Kobilje, Kebele, Kebeleszentmárton, Občina Brezovica, Občina Kobilje
 Kobilščak
-Kobjeglava
-Koblarji, Kovlerji
+Kobjeglava, Còbbia, Glava, Kobja Glava, Kobjo
+Koblarji, Koblerje, Kovlerji
 Koble
 Koblek
-Koboli
+Koboli, Kobali
 Kocjan
 Kodr
-Kodreti
-Kog
+Kodreti, Branica
+Kog, Veliki Kog
 Koglo
 Kojca
-Kojsko
+Kojsko, Santa Croce
 Kokarje
-Kokolajnščak
+Kokolajnščak, Kokolajnšak
 Kokoriči
 Kokošnje
-Kokra
+Kokra, Kanker
 Kokrica, Kokritz
 Kolačno
 Kolenci, Kolenec
@@ -1730,15 +1730,15 @@ Kolenča Vas
 Količevo
 Kolk
 Kolomban
-Kolovec
+Kolovec, Grad Kolovec
 Kolovrat
 Koludrje
 Komanija
 Komarna Vas
 Komarnica
-Komen
-Komenda, Municipality of Komenda
-Komendska Dobrava
+Komen, Comen, Comeno, Občina Komen
+Komenda, Municipality of Komenda, Občina Komenda
+Komendska Dobrava, Komenska Dobrava
 Komolec
 Kompole
 Kompolje
@@ -1748,14 +1748,14 @@ Konec
 Konj
 Konjiška Vas
 Konjski Vrh
-Konjsko
+Konjsko, Konjisko
 Konjšica
 Konuško
 Kopačnica
 Kopela
-Koper, Mestna Občina Koper
+Koper, Capodistria, Grad Kopar, Kopar, Koper-Capodistria, Mestna Občina Koper, Mestna Občina Koper-Capodistria, Opština Koper
 Kopivnik
-Kopriva
+Kopriva, Capriva del Carso, Capriva nel Carso, Copriva
 Koprivna
 Koprivnica
 Koprivnik
@@ -1769,22 +1769,22 @@ Koreno nad Horjulom
 Koretno
 Korita
 Korita na Krasu
-Koritnica
-Koritnice
+Koritnica, Kloritnica
+Koritnice, Coritenza
 Koritno
 Koromači-Boškini
-Korovci
+Korovci, Karlsdorf, Károlyfa
 Koroška Bela, Kärntner Vellach
-Koroška Vas
+Koroška Vas, Korošta Vas
 Koroška Vas na Pohorju
 Koroški Selovec
 Korošče
 Korpe
 Korplje
 Korpule
-Korte
+Korte, Dvori nad Izolo
 Kortine
-Koseze
+Koseze, Cosesse
 Koseč
 Kosi
 Kosmač
@@ -1793,9 +1793,9 @@ Kostanj
 Kostanjek
 Kostanjevec
 Kostanjevica
-Kostanjevica na Krasu, Landstraß
-Kostanjevica na Krki, Landstraß
-Kostel, Municipality of Kostel
+Kostanjevica na Krasu, Castagnevizza, Landstraß
+Kostanjevica na Krki, Kostanjevica ob Krki, Kostanjevjca, Landstraß, Občina Kostanjevica na Krki
+Kostel, Municipality of Kostel, Občina Kostel
 Kostrevnica
 Kostrivnica
 Kot
@@ -1809,25 +1809,25 @@ Kot pri Semiču
 Kot pri Veliki Slevici
 Kotel
 Koti
-Kotlje
+Kotlje, Kotle
 Kotredež
 Kovača Vas
-Kovačevci
+Kovačevci, Kovačovci, Ottóháza, Vaskovácsi, Vend-Kovácsi
 Kovačji Grad
 Kovaški Vrh
 Kovk
 Kovor
 Kovski Vrh
 Kovčice
-Kozana
-Kozarišče
+Kozana, Cosana del Collio, Cosana nel Còllio
+Kozarišče, Kosarse
 Kozarje
 Kozarno
 Kozaršče
-Kozina
-Kozjak pri Ceršaku
-Kozjane
-Kozje, Drachenburg
+Kozina, Cosina d'Istria
+Kozjak pri Ceršaku, Kozjak
+Kozjane, Cosiane
+Kozje, Drachenburg, Občina Kozje
 Kozjek
 Kozji Vrh
 Kozji Vrh nad Dravogradom
@@ -1836,9 +1836,9 @@ Kozmerice
 Kozminci
 Kočarija
 Kočarji
-Koče
+Koče, Cocce
 Kočevje, Gottschee
-Kočevska Reka
+Kočevska Reka, Kořevska Reka
 Kočevske Poljane
 Kočice
 Kočki Vrh
@@ -1852,24 +1852,24 @@ Košiše
 Koške Poljane
 Košnica
 Košnica pri Celju
-Koštabona
+Koštabona, Costabona, Kaštabona
 Koščake
-Kožbana
-Kožljek
+Kožbana, Cosbana nel Collio
+Kožljek, Kožlek, Kožljec
 Kožljevec
 Kožmani
 Kraberk
 Krajc, Krajec
-Krajna
+Krajna, Krajina, Véghely
 Krajna Brda
 Krajna Vas
 Krajno Brdo
 Krajnčica
 Kraljevci
 Kralji
-Kramarovci
+Kramarovci, Határfalva, Kromarovci, Sinnersdorf
 Kramplje
-Kranj
+Kranj, Cragni, Krainburg, Mestna Občina Kranj, Opština Kranj
 Kranjska Gora, Kronau, Občina Kranjska Gora
 Kranjski Dol
 Kranjče
@@ -1883,7 +1883,7 @@ Krašce
 Kraška Vas
 Krašnja
 Krašnji Vrh
-Krašči
+Krašči, Királyfa, Lendvakirályfa
 Kred
 Kregarjevo
 Kregolišče
@@ -1896,7 +1896,7 @@ Kremenik
 Kreplje
 Kresnica
 Kresnice
-Kresniške Poljane
+Kresniške Poljane, Kresničke Poljane
 Kresniški Vrh
 Kristan Vrh
 Krivi Vrh
@@ -1905,15 +1905,15 @@ Krivo Brdo
 Krivoglavice
 Krivčevo
 Kriška Reber
-Kriška Vas
+Kriška Vas, Križka Vas
 Krištanci
 Krištandol
-Križ
+Križ, Croce di Tomadio
 Križan Vrh
 Križate
-Križe
-Križevci
-Križevci pri Ljutomeru
+Križe, Feistritz, Križe na Gor
+Križevci, Križevci v Prekmurju, Križovci, Tótkeresztúr
+Križevci pri Ljutomeru, Kreuzdorf
 Križevec
 Križevska Vas
 Križeča Vas
@@ -1921,28 +1921,28 @@ Križišče
 Križmani
 Križna Gora
 Križni Vrh
-Krka
-Krkavče
+Krka, Krka, Ivančna Gorica
+Krkavče, Carcase, Carcauzze
 Krkovo nad Faro
 Krkovo pri Karlovici
 Krmačina
 Krmelj
-Krn
-Krnci
+Krn, Montenero
+Krnci, Kislak, Lendvakislak
 Krnica
 Krnice
 Krnice pri Novakih
 Krnče
-Krog
-Kromberk
+Krog, Korong
+Kromberk, Komberg, Moncorona
 Kropa
 Krotica
-Krplivnik
+Krplivnik, Kapornak
 Krsinji Vrh
 Krstenica
 Krtina
 Krtince
-Krtinovica
+Krtinovica, Cartinozza
 Krupa
 Kruplivnik
 Krušni Vrh
@@ -1954,61 +1954,61 @@ Krvavčji Vrh
 Krčevina
 Kršič
 Krška Vas
-Krško, Občina Krško
+Krško, Gurkfeld, Krshko, Občina Krško
 Kržeti
 Kržišče
 Kržišče pri Čatežu
-Kubed
+Kubed, Covedo
 Kuhlarji
 Kuk
 Kukava
 Kukenberk
-Kukeč
+Kukeč, Kökényes, Újkökényes
 Kukmaka
 Kukovo, Kuka Vas
 Kuljmanovi
 Kumar
 Kumen
 Kumpolje
-Kungota pri Ptuju, Kungota, Občina Kungota
+Kungota pri Ptuju, Kungota, Občina Kungota, Sveti Kungota
 Kunova
-Kunč
+Kunč, Kunče
 Kunšperk
 Kupetinci
 Kupljenik
 Kupčinji Vrh
-Kupšinci
+Kupšinci, Halmos, Murahalmos
 Kuretno
 Kurja Vas
 Kuršinci
-Kuteževo
+Kuteževo, Cottésevo
 Kutinci
 Kuzarjev Kal
-Kuzma
+Kuzma, Kuzdoblanje, Občina Kuzma
 Kušernik
-Kuštanovci
+Kuštanovci, Gesztenyés, Koštanovci
 Kuščarji
 Kuželič
 Kuželj
 Kuželjevec
 Kvasica
 Labinje
-Labor
+Labor, Laura
 Ladja
 Ladra
-Lahomno
+Lahomno, Lahovno
 Lahomšek
 Lahonci
 Lahov Graben
 Lahovna
 Lahovo
-Lahovče
-Lajše
+Lahovče, Lahoviče
+Lajše, Selške Lajše
 Lancberk
 Lancova Vas
 Lancovo
 Landek
-Landol
+Landol, Landolo
 Laniše
 Lanišče
 Laporje
@@ -2017,12 +2017,12 @@ Lasigovci
 Lastnič
 Lastomerci
 Latkova Vas
-Lavrica
+Lavrica, Laverca
 Lavrovec
 Lavtarice, Na Lavtercah
 Lavtarski Vrh
 Laz
-Lazaret
+Lazaret, Lazzaretto, Lazzaretto-Risano
 Laze
 Laze nad Krko
 Laze pri Borovnici
@@ -2049,8 +2049,8 @@ Laše
 Laška Vas
 Laška Vas pri Štorah
 Laški Rovt
-Laško, Občina Laško, Tüffer
-Lašče
+Laško, Laški Trg, Občina Laško, Tüffer
+Lašče, Lošče
 Ledeča Vas
 Ledina
 Ledine
@@ -2059,38 +2059,38 @@ Ledinica
 Ledinske Krnice
 Ledinsko Razpotje
 Legen
-Lehen na Pohorju
+Lehen na Pohorju, Lehen
 Lekmarje
 Lemberg pri Novi Cerkvi
-Lemberg pri Strmcu
-Lemberg pri Šmarju
-Lemerje
-Lenart pri Gornjem Gradu
-Lenart v Slov. Goricah
-Lendava, Občina Lendava
+Lemberg pri Strmcu, Lemberg, Lemberk
+Lemberg pri Šmarju, Lemberg, Lemberk
+Lemerje, Lehomér, Lőmerje, Nyíreslehomér, Sank Leonhard
+Lenart pri Gornjem Gradu, Lenart, Lenart pri Gorenjem Gradu
+Lenart v Slov. Goricah, Lenart, Lenart v Slovenskih Goricah, Sankt Leonhard, Sveti Lenard, Šent Lenart
+Lendava, Alsólendva, Dolnja Lendava, Donja Lendava, Donja Lendova, Lendava-Lendva, Lendva, Občina Lendava, Občina Lendava-Lendva, Unter-Limbach
 Lendavske Gorice
-Lepa Njiva
-Lepena
+Lepa Njiva, Lepa Nijva
+Lepena, Lepenja
 Lepence
 Lepi Vrh
-Lesce
+Lesce, Lees, Lesc
 Lesično
-Leskova Dolina
+Leskova Dolina, Leskova Dol, Loška Dolina
 Leskovca
 Leskovec
-Leskovec pri Krškem
+Leskovec pri Krškem, Huselbach
 Leskovec v Podborštu
 Leskovica
 Leskovica pri Šmartnem
 Letenice
 Letuš
-Levanjci
+Levanjci, Levajnci, Livajnci
 Levec
 Levič
-Levpa
+Levpa, Pieve di Leupa
 Levstiki
 Lešane
-Leše
+Leše, LeE
 Lešje
 Lešnica
 Lešniški Vrh
@@ -2098,22 +2098,22 @@ Lešnjake
 Leščevje
 Libanja
 Libeliče
-Libeliška Gora
+Libeliška Gora, Libelička Gora
 Libelj
 Liberga
-Libna
+Libna, Libno
 Liboje
-Libušnje
+Libušnje, Libussina
 Lig
 Limbarska Gora
 Limbuš
 Limovce
 Lindek
-Lipa
+Lipa, Kislippa, Lippa
 Lipa pri Frankolovem
 Lipce
 Lipe
-Lipica
+Lipica, Equile Lipizzano, Lippiza
 Lipice
 Lipje
 Liplje
@@ -2121,36 +2121,36 @@ Lipni Dol
 Lipnica
 Lipnik
 Lipoglav
-Lipovci
+Lipovci, Hársliget, Lippahoc, Lippahócz
 Lipovec
 Lipovec pri Kostelu
 Lipovec pri Škofji Vasi
-Lipovšica
+Lipovšica, Lipovščica
 Lipsenj
 Lisca
 Lisec
 Lisjaki
-Litija, Občina Litija
+Litija, Littai, Občina Litija, Opština Litija
 Litmerk
-Livek
-Livold, Lienfeld
+Livek, Luico
+Livold, Lienfeld, Linfeld
 Livške Ravne
 Ljubečna
 Ljubež v Lazih
 Ljubgojna
 Ljubija
-Ljubinj
+Ljubinj, Ljubin, Lubinj, Lubino
 Ljubično
-Ljubljana, Laibach
-Ljubno
+Ljubljana, Laibach, Lubiana, Lubliano
+Ljubno, Občina Ljubno
 Ljubno ob Savinji
 Ljubstava
-Ljutomer, Municipality of Ljutomer, Občina Ljutomer
+Ljutomer, Luttenberg, Municipality of Ljutomer, Občina Ljutomer, Opština Ljutomer
 Lobnica
 Lobček
 Log
 Log nad Škofjo Loko
-Log pod Mangartom
+Log pod Mangartom, Bretto di Sotto
 Log pri Brezovice
 Log pri Brezovici
 Log pri Mlinšah
@@ -2158,17 +2158,17 @@ Log pri Polhovem Gradcu
 Log pri Vrhovem
 Log pri Žužemberku
 Log v Bohinju
-Log Čezsoški
+Log Čezsoški, Loga di Oliresonsi
 Loga
 Logarji
 Logarska Dolina
-Logaršče
-Logatec, Municipality of Logatec, Občina Logatec
-Logje
+Logaršče, Logarse
+Logatec, Longatico, Municipality of Logatec, Občina Logatec, Opština Logatec
+Logje, Longo
 Lohača
 Loje
 Lojen
-Loka
+Loka, Lonche
 Loka pri Dobrni
 Loka pri Framu
 Loka pri Mengšu
@@ -2177,20 +2177,20 @@ Loka pri Žusmu
 Lokanja Vas
 Lokarje
 Lokavci
-Lokavec
+Lokavec, Loavizza, Locavizza, Locavizza di Aidússina, Lokavitz
 Loke
 Loke pri Mozirju
 Loke pri Planini
 Loke pri Zagorju
 Loke v Tuhinju
-Lokev
+Lokev, Corgnale
 Lokovec
 Lokovica
 Lokovina
 Lokrovec
-Lokve
+Lokve, Loqua
 Lokve pri Dobrniču
-Lokvica
+Lokvica, Loquizza Seghetti
 Lom
 Lom nad Volčo
 Lom pod Storzicem
@@ -2199,9 +2199,9 @@ Lome
 Lomno
 Lonići
 Lončarjev Dol
-Lončarovci
-Lopaca
-Lopar
+Lončarovci, Gerőháza, Lončarevci
+Lopaca, Prevorje
+Lopar, Loparo
 Lopata
 Lopatnik
 Loperšice
@@ -2209,37 +2209,37 @@ Lormanje
 Lovišče
 Lovnik
 Lovranovo
-Lovrenc na Dravskem Polju
-Lovrenc na Pohorju
+Lovrenc na Dravskem Polju, Lovrenc
+Lovrenc na Pohorju, Občina Lovrenc na Pohorju, Saint Larenzen
 Lovsko Brdo
-Lozice
-Loče
+Lozice, Losizze
+Loče, Loče pri Poljčanah
 Ločica ob Savinji
-Ločica pri Vranskem
+Ločica pri Vranskem, Ločica
 Ločič
 Ločki Vrh
 Loška Gora
 Loška Gora pri Zrečah
 Loška Vas
-Loški Potok
-Lož
+Loški Potok, Laserbach
+Lož, Laas
 Ložane
-Lože
+Lože, Lose
 Ložec
 Ložina
 Ložnica
 Ložnica pri Žalcu
 Lucija
-Lucova
+Lucova, Lakháza, Lukova
 Ludranski Vrh
 Lukanja
 Lukavci
-Lukačevci
+Lukačevci, Lukačovci, Lukácsfa
 Lukini
 Lukovec, Lukovica
 Lukovek
 Lukovica pri Brezovici
-Lukovica pri Domžalah, Lukovica, Lukowitz, Občina Lukovica
+Lukovica pri Domžalah, Lukomitz, Lukovica, Lukowitz, Občina Lukovica
 Lunovec
 Lupinica
 Lutrje
@@ -2247,14 +2247,14 @@ Lutrško Selo
 Lutverci
 Lučarjev Kal
 Luče, Leutsch
-Lučine
-Lušečka Vas
+Lučine, Lučne
+Lušečka Vas, Luksendorf, Luxend
 Luža
 Lužarji
 Luže
 Madoni
 Magolnik
-Magozd
+Magozd, Magosti
 Mahneti
 Mahniči, Mahniče
 Mahovci
@@ -2265,11 +2265,11 @@ Majolic
 Majski Vrh
 Majšperk, Občina Majšperk
 Makobeti
-Makole
-Makoše
+Makole, Občina Makole
+Makoše, Makoša
 Mala Brda, Malo Brdo
 Mala Breza
-Mala Bukovica
+Mala Bukovica, Bucovizza Piccola
 Mala Cikava
 Mala Dobrava
 Mala Dolina
@@ -2283,12 +2283,12 @@ Mala Lahinja
 Mala Lašna
 Mala Ligojna
 Mala Loka
-Mala Loka pri Višnji Gori
+Mala Loka pri Višnji Gori, Malo Loka
 Mala Mislinja
 Mala Nedelja
 Mala Pirešica
-Mala Polana
-Mala Pristava
+Mala Polana, Kis-Palina
+Mala Pristava, Prestava Piccola
 Mala Račna
 Mala Sela
 Mala Slevica
@@ -2296,7 +2296,7 @@ Mala Stara Vas
 Mala Strmica
 Mala Varnica
 Mala Vas
-Mala Vas pri Grosupljem
+Mala Vas pri Grosupljem, Podtabor pri Grosupljem, Šent Jurij, Šenturje
 Mala Vas pri Ormožu
 Mala Ševnica
 Mala Štanga
@@ -2311,13 +2311,13 @@ Male Kompolje
 Male Lašče
 Male Lese
 Male Lipljene
-Male Loče
+Male Loče, Loccepiccolo
 Male Pece
 Male Poljane
 Male Rebrce
 Male Rodne
 Male Vodenice
-Male Vrhe
+Male Vrhe, Mali Vrhi
 Male Češnjice
 Male Žablje
 Malence
@@ -2350,10 +2350,10 @@ Mali Obrež
 Mali Okič
 Mali Orehek
 Mali Osolnik
-Mali Otok
+Mali Otok, Ottocco-Piccolo
 Mali Podljuben
 Mali Podlog
-Mali Rakitovec
+Mali Rakitovec, Mali Ralatovec
 Mali Rigelj
 Mali Slatnik
 Mali Trn
@@ -2362,13 +2362,13 @@ Mali Vrh
 Mali Vrh pri Prežganju
 Mali Vrh pri Šmarju
 Mali Čentur
-Malija
+Malija, Malio
 Maline
 Maline pri Štrekljevcu
 Malinišče, Malinšek
 Malkovec
 Malna
-Malni
+Malni, Malne, Mulini
 Malnik
 Malo Globoko
 Malo Hudo
@@ -2380,15 +2380,15 @@ Malo Naklo
 Malo Polje
 Malo Tinje
 Malo Trebeljevo
-Malo Ubeljsko
+Malo Ubeljsko, Malo Ubelisko
 Malo Črnelo
 Malovše
 Mamolj
-Manče
-Manžan
+Manče, Manč
+Manžan, Manzano
 Marchici
-Marezige
-Maribor, Marburg an der Drau, Mestna občina Maribor
+Marezige, Maresego
+Maribor, Marburg an der Drau, Mestna občina Maribor, Opština Maribor
 Marija Dobje
 Marija Gradec
 Marija Reka
@@ -2399,40 +2399,40 @@ Marindol
 Marinča Vas
 Marinčev Grič
 Marinčki
-Marjeta na Dravskem Polju
+Marjeta na Dravskem Polju, Marjeta, Sveta Marjeta
 Markečica
 Markiči
-Markišavci
-Markovci
+Markišavci, Markišovci, Márkusháza
+Markovci, Marokrét, Občina Markovci, Sveti Marko
 Markovec
 Markovo
-Markovščina
+Markovščina, Marcossina
 Marno
 Marof
-Marolče
+Marolče, Marolči
 Martinj Vrh
 Martinja Vas
 Martinja Vas pri Mokronogu
 Martinjak
-Martinje
-Martjanci
+Martinje, Magasfok
+Martjanci, Martijanci, Mártonhely
 Maršiči
-Masore
+Masore, Masare, Masora
 Matavun
 Matena
-Matenja Vas
-Materija
-Matjaševci
+Matenja Vas, Mattegna
+Materija, Materia, Matteria
+Matjaševci, Matjašovci, Szentmátyás
 Matke
 Mavrc, Maverc
-Mavrlen
+Mavrlen, Havrlen
 Mavčiče
 Mače
 Mačji Dol
 Mačk, Maček
-Mački
-Mačkovci
-Mačkovec
+Mački, Mačke
+Mačkovci, Mátyásdomb
+Mačkovec, Gornjo Mačkovec
 Mačkovec pod Trško Goro
 Mačkovec pri Dvoru
 Mačkovec pri Suhorju
@@ -2448,7 +2448,7 @@ Medvedce
 Medvedica
 Medvedje Brdo
 Medvedjek
-Medvode
+Medvode, Občina Medvode
 Medvodje
 Meglenik
 Meja
@@ -2458,20 +2458,20 @@ Mekinje nad Stično
 Mekotnjak
 Melanjski Vrh
 Mele
-Melinci
+Melinci, Mellincz, Muramelence
 Melinki
 Meliše
 Meljski Hrib
-Mengeš
+Mengeš, Menguš
 Meniška Vas
-Mereče, Mejrečje
-Merče
+Mereče, Mejrečje, Merecce
+Merče, Merciano, Mrče
 Mestinje
 Metava
-Metlika, Möttling, Občina Metlika
+Metlika, Möttling, Občina Metlika, Opština Metlika
 Metnaj
 Metni Vrh
-Metulje
+Metulje, Metlje
 Mevce
 Mevkuž
 Mezgovci
@@ -2479,7 +2479,7 @@ Mezgovci ob Pesnici
 Mešnjak
 Mežica
 Mežnar
-Migojnice
+Migojnice, Megojnice
 Migolica
 Migolska Gora
 Mihalovci
@@ -2487,34 +2487,34 @@ Mihalovec
 Mihelca
 Mihele
 Mihelja Vas
-Mihovce
+Mihovce, Mihovci
 Mihovci pri Vel. Nedelji
 Mihovec
 Mihovica
 Mihovo
 Miklarji
-Miklavž na Dravskem Polju
-Miklavž pri Ormožu
-Miklavž pri Taboru
+Miklavž na Dravskem Polju, Miklavž, Sveti Miklavž
+Miklavž pri Ormožu, Miklarž, Sveti Miklavž
+Miklavž pri Taboru, Sveti Miklavž
 Mikote
 Milava
 Miliči
 Milje
-Miren
+Miren, Merna
 Mirke
-Mirna
+Mirna, Občina Mirna
 Mirna Peč, Občina Mirna Peč
 Mirna Vas
 Mirtoviči, Mrtovc
-Mislinja
-Mislinjska Dobrava
+Mislinja, Mislinje, Missling, Občina Mislinja, Velika Mislinja
+Mislinjska Dobrava, Mislinjska Dobrova
 Misliče
 Mizni Dol
 Mišače
 Mišji Dol
 Mišček
 Mladje
-Mlajtinci
+Mlajtinci, Kismálnás, Mlajtince, Mlajtinci-Lukačovci, Málnás
 Mlaka
 Mlaka nad Lušo
 Mlaka pri Kočevju
@@ -2542,27 +2542,27 @@ Molak
 Monfredi
 Montinjan
 Morava
-Moravci v Slov. Goricah
-Moravske Toplice, Municipality of Moravske Toplice
+Moravci v Slov. Goricah, Moravci, Moravci v Slovenskih Goricah
+Moravske Toplice, Moravci, Municipality of Moravske Toplice, Občina Moravske Toplice
 Moravče
 Moravče pri Gabrovki
 Moravška Gora
 Morje, Mauerbach
 Morsko
 Most
-Most na Soči
+Most na Soči, Santa Lucia, Santa Lucia d'Isonzo, Santa Lucia di Tolmino, Sveta Lucija
 Moste
 Mostec
 Mostečno
-Mostje
+Mostje, Hidvég, Lendvahidvég
 Mota
-Motnik
-Motovilci
-Motvarjevci
+Motnik, Möttnig
+Motovilci, Mottolyád, Mottyolád
+Motvarjevci, Mitvarjevci, Motvarjavci, Szentlászló, Szécsiszentlászló
 Moverna Vas
-Movraž
+Movraž, Valmorasa, Valmovrasa
 Mozelj
-Mozirje, Občina Mozirje
+Mozirje, Občina Mozirje, Opština Mozirje, Prassberg
 Mozirska Koča
 Močila
 Močile
@@ -2577,7 +2577,7 @@ Mošenik
 Moškanjci
 Moškrin
 Mošnje
-Moščanci
+Moščanci, Musznya
 Možjanca
 Mramorovo pri Lužarjih
 Mramorovo pri Pajkovem
@@ -2593,7 +2593,7 @@ Mrzli Log
 Mrzli Studenec
 Mrzlo Polje
 Mrčna Sela
-Mrše
+Mrše, Merse
 Mršeča Vas
 Muha Vas, Gorenja Turkova Draga, Oberfliegendorf
 Muhabran
@@ -2603,14 +2603,14 @@ Muljava
 Murave
 Muretinci
 Murovci
-Murska Sobota, Mestna občina Murska Sobota, Olsnitz
-Murski Petrovci
+Murska Sobota, Mestna Občina Murska Sobota, Muraszombat, Murska Subota, Oisnitz, Olsnitz, Opština Murska Sobota, Sobota, Szombat
+Murski Petrovci, Murapetróc, Murapetrócz, Petrovci
 Murski Vrh
-Murski Črnci
+Murski Črnci, Muracsermely
 Murščak
-Muta
+Muta, Na Muti, Občina Muta
 Na Krnicah
-Na Logu
+Na Logu, Loog
 Na Lozinah, Lozine
 Na Občinah
 Na Ogalcah
@@ -2623,59 +2623,59 @@ Nadgorica
 Nadgrad
 Nadlesk
 Nadole
-Nadrožica
+Nadrožica, Nacrucizza, Villa Nadrosizza
 Nagrnik
-Naklo, Naklas
+Naklo, Naklas, Občina Naklo
 Nanos
 Narad
 Naraplje
-Naredi
-Narin
-Nasirec
+Naredi, Narede
+Narin, Na-rein, Narini
+Nasirec, Nazire
 Nasova
-Nasovče
+Nasovče, Nasoviči
 Navrški Vrh
-Nazarje, Hodosch
-Neblo
+Nazarje, Hodosch, Občina Nazarje, Őrihodos
+Neblo, Nebola
 Nebova
-Nedelica
-Negastrn
+Nedelica, Zorkóháza
+Negastrn, Negastern
 Negova
 Negovski Vrh
-Nemci
+Nemci, Casali Nenzi
 Nemilje
-Nemčavci
+Nemčavci, Lendvanemesd, Nemesd, Nemčevci
 Nemška Gora
-Nemška Loka, Gorenja Loka
+Nemška Loka, Gorenja Loka, Nemška, Nemška Loko
 Nemška Vas
 Nemška Vas na Blokah
 Nemški Rovt
-Neradnovci
+Neradnovci, Neradovci, Nádorfa
 Nestoplja Vas
 Neverke
 Nevlje
 Nezbiše
 Nimno
 Nizka
-Niževec
+Niževec, Niševec
 Njiverce
 Njivica
 Njivice
-Nomenj
+Nomenj, Nomelj
 Norički Vrh
-Noršinci
+Noršinci, Kismálnás, Málnás, Tölgyes, Újtölgyes
 Noršinci pri Ljutomeru
 Notranje Gorice, Innergoritz
 Nova Cerkev
 Nova Gora
 Nova Gora nad Slov. Bistrico
-Nova Gorica
+Nova Gorica, Mestna Občina Nova Gorica, Opština Nova Gorica
 Nova Lipa
 Nova Oselica
 Nova Sela
-Nova Sušica
-Nova Vas
-Nova Vas nad Dragonjo
+Nova Sušica, Sussizza
+Nova Vas, Novavilla
+Nova Vas nad Dragonjo, Nova Vas nad Dragonje, Villanova
 Nova Vas ob Sotli
 Nova Vas pod Rifnikom
 Nova Vas pri Jelšanah
@@ -2694,12 +2694,12 @@ Novi Grad
 Novi Kot
 Novi Lazi
 Novi Pot
-Novi Svet
+Novi Svet, Dolenji Novi Svet, Mondonovo
 Novi Vrh
 Novinci
 Novo Celje
-Novo Mesto, Rudolfswert, Rudolfswerth
-Novokračine
+Novo Mesto, Nova Mesta, Rudolfswert, Rudolfswerth
+Novokračine, Nova Kračina
 Nozno
 Noše
 Nožed
@@ -2708,23 +2708,23 @@ Nuskova
 Obla Gorica
 Oblaki
 Oblakov Vrh
-Obloke
+Obloke, Oblocca
 Obolno
 Obrat
-Obrež
+Obrež, Obrisch, Obriš
 Obrežje
 Obrežje pri Zidanem Mostu
 Obrh
 Obrh pri Dragatušu
 Obrne
-Obrov
+Obrov, Obrovo, Obrovo Santa Maria
 Obrše
 Občice
-Občine
-Ocinje
-Ocizla
+Občine, Občina
+Ocinje, Gedőudvar, Guitzendorf, Guitzenhof, Guizendorf
+Ocizla, Ocisla
 Odolina
-Odranci, Občina Odranci
+Odranci, Adorjánfalva, Občina Odranci, Odrance
 Odrga
 Ogljenšak
 Ogorevc
@@ -2732,17 +2732,17 @@ Ograda
 Ograja
 Ogulin
 Ohonica
-Ojstri Vrh
+Ojstri Vrh, Ostri Vrh
 Ojstrica
 Ojstriška Vas
 Ojstro
 Okljuka
 Oklukova Gora
 Okonina
-Okoslavci
+Okoslavci, Okoskvici
 Okoška Gora
 Okrog
-Okrog pri Motniku
+Okrog pri Motniku, Okrog pri Motniko
 Okroglica
 Okroglice
 Okroglo
@@ -2756,9 +2756,9 @@ Onek
 Onkraj Meže
 Opale
 Opalkovo
-Opatje Selo
+Opatje Selo, Opacchiasella, Oppacchiasella
 Oplotnica, Občina Oplotnica
-Orehek
+Orehek, Nussdorf, Orecca di Postumia
 Orehek pri Materiji
 Orehova Vas
 Orehovci
@@ -2767,22 +2767,22 @@ Orehovica
 Orehovlje
 Orehovo
 Orehovski Vrh
-Orešje
+Orešje, Oréssia
 Orešje na Bizeljskem
 Orešje nad Sevnico
 Orkljevec
 Orla Vas
 Orlaka
-Orle
+Orle, Orlje
 Orlek
-Ormož
+Ormož, Friedau, Ormob, Ormoš
 Ornuška Vas
 Orova Vas
 Ortnek
 Ortnice
-Osek
+Osek, Ossecca
 Osenca
-Osilnica
+Osilnica, Občina Osilnica, Oslinica
 Oskoršnica
 Oskrt
 Oslica
@@ -2790,7 +2790,7 @@ Oslusevci
 Osojnica
 Osojnik
 Osolnik
-Osp
+Osp, Ospo
 Osredek
 Osredek nad Stično
 Osredek pri Dobrovi
@@ -2805,9 +2805,9 @@ Ostenk
 Ostrog
 Ostrovica
 Ostrožnik
-Ostrožno Brdo
+Ostrožno Brdo, Monforte del Timavo
 Ostrožno pri Ločah
-Ostrožno pri Ponikvi - Del
+Ostrožno pri Ponikvi - Del, Ostrožno, Ostrožno pri Ponikvi
 Otalež
 Otava
 Otavice
@@ -2816,25 +2816,25 @@ Otemna
 Otiški Vrh
 Otok
 Otonica
-Otovci
-Otovec
+Otovci, Ottóháza
+Otovec, Otavec
 Otoče
-Otočec, Wördl
-Otošče
+Otočec, Otoček, Wördl
+Otošče, Vrtovšče
 Ovsiše
-Ozeljan
+Ozeljan, Ossegliano
 Očeslavci
 Ošelj
 Oševek
 Oševljek
 Ošlakarji
 Oštrc, Osterc
-Ožbalt
-Ožbolt nad Zmincem
-Pacinje
+Ožbalt, Ožbald, Sveti Ožbalt, Sveti Ožbolt, Šent Ozbolt
+Ožbolt nad Zmincem, Sveti Ožbolt
+Pacinje, Patzing
 Padeški Vrh
 Padež
-Padna
+Padna, Padena
 Padovo pri Fari, Padova
 Padovo pri Osilnici, Padova
 Paha
@@ -2846,12 +2846,12 @@ Paka pri Velenju
 Pako
 Paljevo
 Paloviče
-Palčje
+Palčje, Palci, Palice
 Pance
 Paneče
 Pangrč Grm
 Pangršica
-Panovci
+Panovci, Úriszék
 Papeži
 Papirnica
 Paradišče
@@ -2860,7 +2860,7 @@ Parecag
 Pared
 Paridol
 Paričjak
-Parje
+Parje, Parie
 Parož
 Paunoviči
 Pavičiči
@@ -2881,38 +2881,38 @@ Pepelno
 Peraji
 Perati
 Peračica
-Perišče
+Perišče, Porišče
 Pernice
 Perniki
 Pernovo
 Perovec
 Perovo
-Pertoča
+Pertoča, Perestó
 Perudina
 Peršeti
-Pesjak
-Pesje
-Peskovci
-Pesnica, Municipality of Pesnica
+Pesjak, Pesnjak
+Pesje, Hundsdorf
+Peskovci, Petőfa, Pečkovci
+Pesnica, Maribor-Pesnica, Municipality of Pesnica, Občina Pesnica, Opština Maribor-Pesnica, Pesnica pri Maribor, Pesnica pri Mariboru, Pössnitz-Hofen
 Pestike
 Petane
-Petanjci
-Petelinje, Peteline
+Petanjci, Széchénykút, Szécsénykút
+Petelinje, Peteline, Petteline
 Petelinjek
 Petelinjek pri Ločah
-Petišovci
+Petišovci, Petesháza, Peteševci
 Petkovec
 Petrina
 Petrinci
-Petrinje
+Petrinje, Petri, Petrigna
 Petrova Vas
 Petrovo Brdo
 Petrovče
 Petrušnja Vas
-Pevno
+Pevno, Peven
 Peč
 Pečan
-Pečarovci
+Pečarovci, Szentsebestyén
 Pečica
 Pečice
 Pečine
@@ -2930,10 +2930,10 @@ Pijava Gorica
 Pijavice
 Pijovci
 Pikovnik
-Pilštanj
-Pince
+Pilštanj, Peilenstein
+Pince, Pincze
 Pince-Marof
-Piran, Občina Piran
+Piran, Grad Piran, Občina Piran, Občina Piran-Pirano, Opština Piran, Piran-Pirano, Pirano
 Piran city
 Pirešica
 Pirmane
@@ -2941,20 +2941,20 @@ Pirče
 Piršenbreg
 Pirševo
 Pisari
-Pivka, Municipality of Pivka, Občina Pivka, Šent Peter
+Pivka, Municipality of Pivka, Občina Pivka, Pietro del Carso, San Peter, San Pietro del Carso, Sveti Peter na Krasu, Šent Peter, Šent Peter na Krasu
 Pivola
 Pičulini, Dolenji Konec
-Pišece
+Pišece, Piscchalz
 Placar
 Placerovci
 Planica
-Planina
+Planina, Dolenje Planina, Planina pri Rakeku
 Planina Javornik
 Planina Jesenje
 Planina Zajamniki
 Planina na Pohorju
 Planina nad Horjulom
-Planina pod Golico
+Planina pod Golico, Planina pod Gorico, Sveti Križ
 Planina pod Sumikom
 Planina pri Cerknem
 Planina pri Raki
@@ -2966,11 +2966,11 @@ Planinski Vrh
 Planjsko
 Plat
 Platinovec
-Plave
-Plavje
+Plave, Plava
+Plavje, Plavia Montedoro
 Plavški Rovt
 Plazovje
-Plač
+Plač, Hovnik
 Plače
 Plemberk
 Ples
@@ -2980,31 +2980,31 @@ Pletovarje
 Plevnik
 Pleše
 Plešivec
-Plešivica
+Plešivica, Plašivica, Pleševica
 Plešivica pri Žalni
 Plešivo
 Plintovec
-Pliskovica
-Plitvica
+Pliskovica, Piliscovizza della Madonna, Pliscovizza, Pliscovizza della Madonna
+Plitvica, Plitvice
 Plitvički Vrh
 Plodršnica
 Plosovo
 Pluska
-Plužna
+Plužna, Plusina di Plezzo, Plužne
 Plužnje, Plužne
 Pobegi
 Pobrež
 Pobrežje
 Pod Otokom
 Pod Skalo
-Podbela
-Podbeže
+Podbela, Podibela
+Podbeže, Pobese
 Podblica
 Podboršt
 Podboršt pri Komendi
 Podboč
-Podbočje
-Podbrdo
+Podbočje, Sveti Križ
+Podbrdo, Piedicolle
 Podbreg
 Podbrezje
 Podbreže
@@ -3013,7 +3013,7 @@ Podbukovje pri Vačah
 Podcerkev
 Poden, Boden
 Podgaj
-Podgora
+Podgora, Pogara
 Podgora pri Dolskem
 Podgora pri Ložu
 Podgora pri Zlatem Polju
@@ -3022,20 +3022,20 @@ Podgorica
 Podgorica pri Pečah
 Podgorica pri Podtaboru
 Podgorica pri Šmarju
-Podgorje
-Podgorje ob Sevnični
+Podgorje, Piedimonte del Taiano, Podgorje pri Slovenj Gradcu
+Podgorje ob Sevnični, Male Podgorje, Podgorje pri Sevnični
 Podgorje pod Čerinom
 Podgorje pri Letušu
 Podgorje pri Pišecah
 Podgozd
 Podgrac
-Podgrad
+Podgrad, Castelnuovo, Castelnuovo d'Istria
 Podgrad na Pohorju
-Podgrad pri Vremah
+Podgrad pri Vremah, Nigrignano
 Podgradje
-Podgraje
+Podgraje, Villa Podigraie
 Podgračeno
-Podgrič
+Podgrič, Pogricci
 Podhojni Hrib
 Podhom
 Podhosta
@@ -3050,22 +3050,22 @@ Podklanec
 Podkogelj
 Podkoren
 Podkočna
-Podkraj
+Podkraj, Piro, Pocrai del Piro, Podicrai, Podicrai del Piro, Podkrai, Pucaie
 Podkraj pri Mežici
 Podkraj pri Velenju
 Podkraj pri Zagorju
-Podkum
+Podkum, Sveti Jurij pod Kumon, Šent Jurij
 Podlaka
 Podlanišče
-Podlehnik
+Podlehnik, Občina Podlehnik, Podhlenik
 Podlesje, Verdreng
 Podlešče
 Podlipa
-Podlipje
+Podlipje, Sveti Primož, Sveti Primož nad Muto
 Podlipoglav
 Podlipovica
 Podlisec
-Podljubelj
+Podljubelj, Saint Anna, Sveta Ana, Sveta Ana pod Ljubeljem
 Podlog
 Podlog pod Bohorjem
 Podlog v Savinjski Dolini
@@ -3085,7 +3085,7 @@ Podolševa
 Podova
 Podpec pod Skalo
 Podpeca
-Podpeč
+Podpeč, Podireč, Popecchio
 Podpeč nad Marofom
 Podpeč ob Dravinji
 Podpeč pri Šentvidu
@@ -3096,12 +3096,12 @@ Podplešivica
 Podporezen
 Podpreska
 Podpulfrca
-Podraga
+Podraga, Podgrada
 Podreber
 Podreča
 Podrečje
 Podroje
-Podsabotin
+Podsabotin, Podsabatin, San Valentino
 Podskrajnik
 Podslivnica
 Podsmreka
@@ -3109,10 +3109,10 @@ Podsmreka pri Velikih Laščah
 Podsmreka pri Višnji Gori
 Podsmrečje
 Podsreda
-Podstene
+Podstene, Podstena
 Podstene pri Kostelu
 Podstenice
-Podstenje
+Podstenje, Postegna
 Podstenjšek
 Podstran
 Podstrm
@@ -3120,10 +3120,10 @@ Podstrmec
 Podstudenec
 Podtabor
 Podturn, Podturen
-Podturn pri Dol. Toplicah
+Podturn pri Dol. Toplicah, Podturen, Podturen pri Dolenjskih Toplicah, Podturn pri Dolenjskih Toplicah
 Podulaka
 Podulce
-Podvelka
+Podvelka, Občina Podvelka
 Podveža
 Podvin
 Podvin pri Polzeli
@@ -3147,15 +3147,15 @@ Pokojišče
 Pokojnica
 Pokoše
 Polajna
-Polana
+Polana, Vaspolony
 Polenci
 Polene
 Polenšak
 Poletiči
-Polhov Gradec
+Polhov Gradec, Billichgratz
 Polhovica
 Polica
-Police
+Police, Polglizze, Poljice
 Polička Vas
 Polički Vrh
 Poljana
@@ -3164,12 +3164,12 @@ Poljane nad Blagovico
 Poljane nad Blagovicom
 Poljane nad Škofjo Loko
 Poljane pri Mirni Peči
-Poljane pri Podgradu
+Poljane pri Podgradu, Pogliane
 Poljane pri Primskovem
 Poljane pri Stični
 Poljane pri Štjaku
 Poljane pri Žužemberku
-Polje
+Polje, Devica Marija V Polju, Ljubljana-Polje
 Polje ob Sotli
 Polje pri Bistrici
 Polje pri Tržišču
@@ -3179,7 +3179,7 @@ Poljubinj
 Poljčane
 Poljče
 Poljšica pri Gorjah
-Poljšica pri Podnartu
+Poljšica pri Podnartu, Poljšica, Poljščica, Poljščica pri Podnartu
 Pologar
 Polom
 Polzela, Občina Polzela
@@ -3190,13 +3190,13 @@ Polšnik
 Polžanska Gorca
 Polžanska Vas
 Polže
-Pomjan
+Pomjan, Paugnano
 Pondor
-Pongrac
+Pongrac, Sveti Pongrac
 Pongrce
 Ponikva
 Ponikva pri Žalcu
-Ponikve
+Ponikve, Paniqua
 Ponikve pri Studencu
 Ponkvica
 Ponova Vas
@@ -3204,17 +3204,17 @@ Ponoviče
 Popetre
 Popovci
 Popovo
-Pordašinci
+Pordašinci, Kisfalu
 Poreber
 Porezen
 Poreče
-Portorož
+Portorož, Portorose
 Posavec
 Postaja
-Postojna, Adelsberg
+Postojna, Adelsberg, Občina Postojna, Opština Postojna, Postumia Grotte, Postumija, Postúmia
 Potarje
 Potiskavec
-Potok
+Potok, Potocco, Potocco del Confine, Potok Volavče, Potok pri Gorenji Straži
 Potok pri Dornberku
 Potok pri Komendi
 Potok pri Muljavi
@@ -3222,17 +3222,17 @@ Potok pri Vačah
 Potok v Črni
 Potoki
 Potov Vrh
-Potoče
+Potoče, Potocce di Villabassa, Potocco, Pototsche
 Potoška Vas
 Potravno
-Povir
+Povir, Poverio
 Povlje
 Povodje
 Površje
 Povčeno
 Povžane
 Pozirno
-Poznanovci
+Poznanovci, Pálhegy
 Poznikovo
 Počakovo
 Poče
@@ -3241,11 +3241,11 @@ Počenik
 Počivala, Počivale
 Poštena Vas
 Požarje
-Požeg
+Požeg, Požega
 Poženik
 Požnica
 Prade
-Pragersko
+Pragersko, Pragerhof
 Prapetno
 Prapetno Brdo
 Prapretno
@@ -3254,11 +3254,11 @@ Prapreče
 Prapreče pri Straži
 Prapreče pri Šentjerneju
 Praprot
-Praprotna Polica
+Praprotna Polica, Praprotna Poljica
 Praprotnica
 Praprotno
 Praprotno Brdo
-Praproče
+Praproče, Prapozze
 Praproče pri Grosupljem
 Praproče pri Temenici
 Praproče v Tuhinju
@@ -3269,13 +3269,13 @@ Prebačevo
 Prebold, Municipality of Prebold, Občina Prebold
 Precetinci
 Preclava
-Predanovci
-Preddvor
+Predanovci, Rónafő
+Preddvor, Höflein, Občina Preddvor, Predvor
 Predel
 Predenca
-Predgrad
-Predgriže
-Predjama, Lueg
+Predgrad, Pregrad
+Predgriže, Pregrise
+Predjama, Lueg, Pređama
 Predloka
 Predmost
 Predole
@@ -3294,17 +3294,17 @@ Preloge
 Preloge pri Konjicah
 Preloge pri Šmarju
 Preloka
-Prelože
+Prelože, Prelose Sant'Egidio
 Prelože pri Lokvi
 Prelska
-Prem
+Prem, Primano
 Premagovce
 Premančan
 Prepolje
 Prepuž
 Prerad
-Preserje
-Preserje pri Komnu
+Preserje, Rihemberk
+Preserje pri Komnu, Preseria, Pressérie
 Preserje pri Lukovici
 Preserje pri Radomljah
 Preserje pri Zlatem Polju
@@ -3314,12 +3314,12 @@ Preska
 Preska nad Kostrevnico
 Preska pri Dobrniču
 Presladol
-Prestranek
+Prestranek, Prestane, Prestrane
 Pretrež
 Pretrž
 Preval
 Prevale
-Prevalje
+Prevalje, Občina Prevalje, Pollain
 Prevalje pod Krimom
 Prevalnik
 Preveg
@@ -3332,7 +3332,7 @@ Prečna
 Preša
 Preški Vrh
 Prešna Loka
-Prešnica
+Prešnica, Bresenza di Taiano, Prešnic
 Preža
 Preženjske Njive
 Prežganje
@@ -3354,8 +3354,8 @@ Prilipe
 Prilozje
 Primostek
 Primož, Sveti Primož
-Primož pri Ljubnem
-Primož pri Šentjurju
+Primož pri Ljubnem, Sveti Primož
+Primož pri Šentjurju, Sveti Primož
 Primoži
 Primskovo
 Primča Vas
@@ -3377,20 +3377,20 @@ Pristavo
 Pristova
 Prnek
 Proseniško
-Prosenjakovci
-Prosečka Vas
+Prosenjakovci, Prosenjakovići, Pártosfalva, Rátkalak
+Prosečka Vas, Kölesvöly, Presečkaves, Prosečka Ves
 Prtovč
 Prušnja Vas, Prušna Vas
-Prvačina
+Prvačina, Prevacina
 Prvenci
-Prvi Javrovec
+Prvi Javrovec, Javrovec
 Prvine
 Pršetinci
-Ptuj, Mestna občina Ptuj, Pettau
+Ptuj, Mestna občina Ptuj, Opština Ptuj, Pettau
 Ptujska Cesta
 Ptujska Gora
 Puc
-Puconci
+Puconci, Battyánd, Občina Puconci, Pusonci
 Pudob
 Pugled
 Pugled pri Karlovici
@@ -3405,33 +3405,33 @@ Pusti Hrib
 Pusti Javor
 Pustike
 Pusto Polje
-Puče
+Puče, Puzzole
 Pušenci
 Pušno
 Puštale
-Puščava
+Puščava, Devica Marija, Devica Marya
 Pušče
-Puževci
-Pšajnovica
-Pšata
+Puževci, Dolnji Puževci, Gornji Puževci, Puzanci, Pužavci, Pužeci, Pužovci, Pálmafa, Sürüház, Sürüháza
+Pšajnovica, Pišajnovica
+Pšata, Pešata
 Pšenična Polica
 Pševo
 Radana Vas
 Radanja Vas
-Radegunda
+Radegunda, Sveta Radegunda
 Radehova
 Radelca
-Radenci, Občina Radenci
+Radenci, Občina Radenci, Radein, Radinci
 Radenski Vrh
 Radeče, Občina Radeče
 Radež
 Radgonica
-Radizel
+Radizel, Radizelj
 Radkovec
-Radlek
-Radlje ob Dravi, Občina Radlje ob Dravi
+Radlek, Radljek
+Radlje ob Dravi, Marenberg, Mariberg, Občina Radlje ob Dravi, Opština Radlje ob Dravi, Radlje
 Radmirje
-Radmožanci
+Radmožanci, Radamos, Radmažanci, Radmižanci
 Radna
 Radna Vas, Radnja Vas
 Radoblje
@@ -3440,31 +3440,31 @@ Radomerje
 Radomerščak
 Radomlje
 Radoslavci
-Radovci
+Radovci, Radófa, Radófalva
 Radovica
 Radoviči
 Radovlja, Radovlje
-Radovljica, Municipality of Radovljica, Občina Radovljica, Radmannsdorf
-Radovna
+Radovljica, Municipality of Radovljica, Občina Radovljica, Opština Radovljica, Radmannsdorf
+Radovna, Spodnja Radovna
 Radoši
 Raduha
 Raduše
 Radvenci
 Rafolče
-Rajec
-Rajhenav
+Rajec, Rajc
+Rajhenav, Rajhenau
 Rajndol
 Rajnkovec
 Rajnovšče
 Rajšele
-Raka
+Raka, Raku
 Rake
-Rakek
+Rakek, Racche
 Rakitna
 Rakitnica
-Rakitnik
-Rakitovec
-Rakičan
+Rakitnik, Rachiteni
+Rakitovec, Acquariva, Acquaviva dei Vena, Rachitovich, Rakitovac
+Rakičan, Battyánfalva, Rakicsán, Rakitsán
 Rakov Škocjan
 Rakova Steza
 Rakovci
@@ -3474,15 +3474,15 @@ Rakovlje
 Rakovnik
 Rakovnik pri Birčni Vasi
 Rakovnik pri Šentrupertu
-Rakulik
+Rakulik, Raccolico
 Ranca
-Rankovci
+Rankovci, Ferenclak, Ferenczfalva
 Ranče
-Rapljevo
+Rapljevo, Veliko Rapljevo
 Raskovec
 Ratanska Vas
-Rateče
-Ratečevo Brdo
+Rateče, Raschach, Ratschach
+Ratečevo Brdo, Ratecevo in Monte
 Ratež
 Ratje
 Ratkovci
@@ -3491,7 +3491,7 @@ Ravenca
 Ravenska Vas
 Ravna
 Ravnace
-Ravne
+Ravne, Gorjne Ravne, Rauna del Castello
 Ravne na Blokah
 Ravne na Koroškem, Gutenstein, Gutenstein in Kärnten, Guštanj
 Ravne nad Šentrupertom
@@ -3504,39 +3504,39 @@ Ravne v Bohinju
 Ravne Žapče
 Ravni
 Ravni Dol
-Ravnica
-Ravnik
+Ravnica, Raunizza
+Ravnik, Raunik
 Ravnje
 Ravno
 Ravno Brdo
 Razazije, Razazija
 Razbor
 Razbor pri Čemšeniku
-Razborca
+Razborca, Razborica
 Razbore - Del
 Razbore-K. O. Ježni Vrh
 Razdelj
-Razdrto
+Razdrto, Prevald, Prevallo
 Razgor
 Razgor pri Žabljeku
 Razgorce
 Razguri
-Razkrižje
+Razkrižje, Ligetfalva, Raskrižje, Ráckanizsa, Ráczkanizsa, Végfalva
 Razori
 Razpotje
 Raztez
 Razvanje
 Rača
-Rače
+Rače, Kranichsfeld, Radisel
 Račeva
 Račica
-Račice
+Račice, Racizze
 Račja Vas
 Račje Selo
 Rački Vrh
 Račni Vrh
 Raša
-Rašica
+Rašica, Rašić, Raščica
 Rdeči Breg
 Rdeči Kal
 Reber
@@ -3545,9 +3545,9 @@ Recenjak
 Rejcov Grič
 Reka
 Remšnik
-Renke
-Renkovci
-Renče
+Renke, Renki
+Renkovci, Lendvaerdő
+Renče, Ranziano
 Rep
 Reparac
 Reparje
@@ -3566,57 +3566,57 @@ Reva
 Rečica
 Rečica ob Paki
 Rečica ob Savinji
-Reštanj, Reichenstein
+Reštanj, Raštanj, Reichenstein
 Ribjek
-Ribnica, Reifnitz
-Ribnica na Pohorju
+Ribnica, Občina Ribnica, Opština Ribnica, Reifnitz, Ribbenizza, Ribenizza, Zgornja Ribnica
+Ribnica na Pohorju, Občina Ribnica na Pohorju
 Ribniško Selo
 Ribno
-Ribče
-Ribčev Laz
+Ribče, Ribiče
+Ribčev Laz, Ribčeva Plan
 Rifengozd
 Rifnik
 Rigelj pri Ortneku
-Rigonce
+Rigonce, Zgornje Rigonce
 Riharjevec
 Rihpovec
 Rihtarovci
 Rijavci
 Rim
 Rimc, Na Rimci
-Rimske Toplice
+Rimske Toplice, Römerbad
 Rinčetova Graba
 Ritiže
 Ritmerk
 Ritomeče
 Ritoznoj
-Rižana
+Rižana, Rižan
 Rjavci
 Rjavica
-Rjavče
+Rjavče, Eriacci
 Rob
 Robanov Kot
 Robe
 Robi
-Robidišče
+Robidišče, Robedischis, Robedisehis
 Robidni Breg
 Robidnica
 Robič
 Robnik
 Rodež
 Rodica
-Rodik
+Rodik, Roditti
 Rodine
 Rodine pri Trebnjem
 Rodmošci
 Rodni Vrh
 Rog
-Rogatec, Rohitsch
-Rogatec nad Želimljami
+Rogatec, Občina Rogatec, Rohitsch
+Rogatec nad Želimljami, Hudi Rogatec
 Rogati Hrib
 Rogačice, Rogačica
-Rogaška Slatina, Občina Rogaška Slatina
-Rogašovci
+Rogaška Slatina, Hohitsch Sauerbrunn, Občina Rogaška Slatina
+Rogašovci, Rogačovci, Rogaševci, Szarvaslak
 Roginska Gorca
 Rogla
 Rogoza
@@ -3624,8 +3624,8 @@ Rogoznica
 Roje
 Roje pri Trebelnem
 Roje pri Čatežu
-Ropoča
-Rosalnice
+Ropoča, Rétállás
+Rosalnice, Rozalnice
 Rotman
 Rova
 Rove
@@ -3638,16 +3638,16 @@ Rovte
 Rovte v Selški Dolini
 Roče
 Ročevnica
-Ročinj
+Ročinj, Ronzina
 Rošnja
 Rošpoh
 Rožanec
 Rožanče
 Rožar
 Roženberk, Rosenberg
-Rožengrunt
-Roženpelj
-Rožice
+Rožengrunt, Rožengrund
+Roženpelj, Rožempelj, Rožemple
+Rožice, Rosizze
 Rožič Vrh
 Rožički Vrh
 Rožično
@@ -3674,20 +3674,20 @@ Runeč
 Runtole
 Rupe
 Ruperče
-Rut
+Rut, Deutschruthd, Nemški Rut, Rute, Rutte, Rutte di Grac, Rutte di Gracova
 Ruta
 Ručetna Vas
 Ručič
-Ruše, Maria Rast, Občina Ruše
+Ruše, Maria Rast, Občina Ruše, Roše
 Ržiše
 Ržišče
-Sabonje
+Sabonje, Sabogna
 Sad
 Sadinja Vas
 Sadinja Vas pri Dvoru
 Sadni Hrib, Gorenji Vecenbah, Oberwetzenbach
 Sajenice
-Sajevce
+Sajevce, Saiecce Castelvecchio
 Sajevec
 Saksid
 Sakušak
@@ -3695,12 +3695,12 @@ Salek
 Salovski Breg
 Samec
 Samotorica
-Sanabor
+Sanabor, Senabor-Val Bella
 Sanjšice
 Sap
 Sapnik
 Sarsko
-Satahovci
+Satahovci, Muraszentes
 Sava
 Savci
 Savica
@@ -3708,26 +3708,26 @@ Savina
 Savinsko
 Savlje
 Savski Vrh
-Sebeborci
+Sebeborci, Szentbibor
 Sebenje
 Sedevčiči
 Sedlarjevo
 Sedlašek
-Sedlo
+Sedlo, Sedula
 Sedovec
 Sedraž
 Segonje
 Segovci
 Sejanci
 Sejenice
-Sekirišče
-Sela
-Sela na Krasu
+Sekirišče, Sekiršče
+Sela, Sela pri Rudniku, Sella
+Sela na Krasu, Sella delle Trincee
 Sela nad Podmelcem
 Sela pri Ajdovcu
 Sela pri Dobovi
 Sela pri Dobu
-Sela pri Dolenjskih Toplicah
+Sela pri Dolenjskih Toplicah, Sela pri Dol. Toplicah
 Sela pri Dragatušu
 Sela pri Hinjah
 Sela pri Jugorju
@@ -3742,11 +3742,11 @@ Sela pri Vrčicah
 Sela pri Zajčjem Vrhu
 Sela pri Zburah
 Sela pri Šentjerneju
-Sela pri Šmarju
+Sela pri Šmarju, Seta
 Sela pri Štravberku
-Sela pri Šumberku
-Selca
-Selce
+Sela pri Šumberku, Sela pri Šumberka
+Selca, Selzach
+Selce, Selze
 Selce nad Blanco
 Selce pri Leskovcu
 Selce pri Moravčah
@@ -3756,9 +3756,9 @@ Sele - Del
 Sele pri Polskavi
 Selišče
 Selišči
-Selnica ob Dravi
+Selnica ob Dravi, Občina Selnica ob Dravi, Selnica
 Selnik
-Selo
+Selo, Nagytótlak, Sella del Bivio, Tótlak
 Selo nad Laškim
 Selo nad Polhovim Gradcem
 Selo pri Bledu
@@ -3779,41 +3779,41 @@ Selska Gora
 Selski Vrh
 Selšek
 Selšček
-Semedela
+Semedela, Semedella
 Semič, Semitsch
 Sempeter
-Senadole
+Senadole, Senodole, Sinadole
 Senadolice
 Senešci
 Senica
-Senik
+Senik, Senico
 Seničica
 Senično
 Seniški Breg
 Senovica
 Senovo
 Senožete
-Senožeti
+Senožeti, Senožet
 Senožečar, Senožetce
-Senožeče
-Sentilj pod Turjakom
+Senožeče, Senosetsch, Senosécchia
+Sentilj pod Turjakom, Šent Ilj
 Senuše
 Senčak
 Senčak pri Juršincih
-Serdica
+Serdica, Hegyszoros, Seregháza
 Serjuče
-Sestrže
+Sestrže, Sestreže
 Setnica
 Setnik
 Sevce
 Sevec
-Sevnica
+Sevnica, Donja Ševnica, Občina Sevnica, Opština Sevnica
 Sevno
 Seč
 Seča
 Sečje Selo
-Sečovlje
-Sežana
+Sečovlje, Sicciole, Sičole
+Sežana, Sesana
 Sidol
 Sidraž
 Silova
@@ -3825,18 +3825,18 @@ Sinovica
 Sirči
 Sitarovci
 Sitež
-Skadanščina
-Skakovci
+Skadanščina, Scandaussina, Skandanščina
+Skakovci, Szécsényfa, Szécsényfalva
 Skaručna
 Skoke
 Skomarje
-Skopo
+Skopo, Scopo, Scoppo
 Skorba
 Skorišnjak
 Skorno
-Skorno pri Šoštanju
+Skorno pri Šoštanju, Sveti Florijan, Sveti Florijan pri Šoštanju, Šent Florijan
 Skrblje
-Skrilje
+Skrilje, Serilla
 Skrovnik
 Sladka Gora
 Slamna Vas
@@ -3844,8 +3844,8 @@ Slamniki
 Slamnjak
 Slance
 Slančji Vrh
-Slap
-Slap ob Idrijci
+Slap, Slappe Zorzi
+Slap ob Idrijci, Slappe d'Idria
 Slape
 Slapnik
 Slaptinci
@@ -3858,8 +3858,8 @@ Slatina v Rožni Dolini
 Slatinski Dol
 Slatna
 Slatnik
-Slavina
-Slavinje
+Slavina, Villa Slavina
+Slavinje, Slavigne
 Slavski Laz
 Slavče
 Slavšina
@@ -3868,28 +3868,28 @@ Slemenšek
 Slepšek
 Slinovce
 Slivice
-Slivje, Slivije
+Slivje, Slivia di Castelnuovo, Slivije
 Slivna
-Slivnica pri Celju
-Slivnica pri Mariboru
+Slivnica pri Celju, Slivnica
+Slivnica pri Mariboru, Slivnica
 Slivniško Pohorje
 Slivno
 Slogonsko
 Sloka Gora
 Slokarji
-Slomi
-Slope
-Slovenj Gradec, Mestna občina Slovenj Gradec
+Slomi, Slom
+Slope, Sloppe
+Slovenj Gradec, Mestna občina Slovenj Gradec, Opština Slovenj Gradec, Slovenji Gradec, Slovenski Gradec, Windischgraz
 Slovenja Vas
-Slovenska Bistrica
+Slovenska Bistrica, Občina Slovenska Bistrica, Opština Slovenska Bistrica, Windisch-Feistritz
 Slovenska Vas
-Slovenske Konjice, Občina Slovenske Konjice
+Slovenske Konjice, Gonobitz, Konjice, Občina Slovenske Konjice, Opština Slovenske Konjice, Slovenska Konjice
 Slovenski Javornik
 Slugovo
 Smast
 Smednik
 Smečice
-Smihel pod Nanosom
+Smihel pod Nanosom, San Michael, San Michele, San Michele di Senosecchia, San Michele di Seros, Sent Mihel
 Smlednik
 Smodiš
 Smokuč
@@ -3902,8 +3902,8 @@ Smolnik
 Smrečje
 Smrečje v Črni
 Smrečno
-Smrje
-Smrjene
+Smrje, Smeria
+Smrjene, Smerjene
 Smuka
 Sneberje
 Snežatno
@@ -3911,16 +3911,16 @@ Snežeče
 Snežnik
 Snovik
 Sobenja Vas
-Sobetinci
+Sobetinci, Sobotinci
 Sobrače
 Socerb
 Socka
 Sodevci
 Sodinci
-Sodišinci
+Sodišinci, Birószék
 Sodji Vrh
 Sodna Vas
-Sodražica
+Sodražica, Soaražica, Soderschitz, Sodražice
 Sojek
 Sokoliči
 Solkan
@@ -3938,23 +3938,23 @@ Sovinek
 Sovinja Peč
 Soviče
 Sovjak
-Sovodenj
+Sovodenj, Sovoden
 Sovra
 Soze
-Soča
-Sočerga
+Soča, Sónzia
+Sočerga, San Quirico
 Spodnja Bačkova
 Spodnja Bela
 Spodnja Besnica
 Spodnja Bilpa, Dolenja Bilpa
-Spodnja Branica
+Spodnja Branica, Branica, Spodna Branica
 Spodnja Brežnica
 Spodnja Dobrava
 Spodnja Draga
 Spodnja Gorica
 Spodnja Hajdina, Hajdina, Občina Hajdina
 Spodnja Hrušica
-Spodnja Idrija
+Spodnja Idrija, Idria di Sotto, Unteridria
 Spodnja Jablanica
 Spodnja Javoršica
 Spodnja Kanomlja
@@ -3966,7 +3966,7 @@ Spodnja Ložnica
 Spodnja Luša
 Spodnja Nova Vas
 Spodnja Orlica
-Spodnja Pohanca
+Spodnja Pohanca, Spodnja Ponanca
 Spodnja Polskava
 Spodnja Pristava
 Spodnja Rečica
@@ -3976,16 +3976,16 @@ Spodnja Selnica
 Spodnja Senarska
 Spodnja Senica
 Spodnja Slivnica
-Spodnja Sorica
+Spodnja Sorica, Sorica, Zraz
 Spodnja Sušica
 Spodnja Sveča
-Spodnja Vižinga
+Spodnja Vižinga, Spodnja, Sveta Vižinga, Unter Feising
 Spodnja Voličina
-Spodnja Zadobrova
+Spodnja Zadobrova, Spodnja Zadobrava
 Spodnja Ščavnica
 Spodnje Bitnje
 Spodnje Blato
-Spodnje Brezovo
+Spodnje Brezovo, Brozovo
 Spodnje Danje
 Spodnje Dobrenje
 Spodnje Dule
@@ -4012,7 +4012,7 @@ Spodnje Loke
 Spodnje Mestinje
 Spodnje Mladetiče, Dolenje Mladatiče
 Spodnje Negonje
-Spodnje Palovče
+Spodnje Palovče, Spodnje Paloviče
 Spodnje Partinje
 Spodnje Pijavško
 Spodnje Pirniče
@@ -4035,14 +4035,14 @@ Spodnje Vodale
 Spodnje Vrtiče
 Spodnje Škofije
 Spodnji Boč
-Spodnji Brnik
+Spodnji Brnik, Brnik, Brniki
 Spodnji Dolič
 Spodnji Duplek
 Spodnji Gabernik
 Spodnji Gasteraj
-Spodnji Hotič
+Spodnji Hotič, Spotnji Hotič
 Spodnji Ivanjci
-Spodnji Jakobski Dol
+Spodnji Jakobski Dol, Sveti Jakob
 Spodnji Jernej
 Spodnji Kamenščak
 Spodnji Kašelj
@@ -4057,22 +4057,22 @@ Spodnji Razbor
 Spodnji Slemen
 Spodnji Stari Grad
 Spodnji Tuštanj
-Spodnji Velovlek
-Spodnji Vrsnik
+Spodnji Velovlek, Spodnji Velovlak
+Spodnji Vrsnik, Donji Vrsnik
 Spodnji Čačič
 Spodnji Žerjavci
-Spuhlja
+Spuhlja, Pichldorf, Spuhlje, Špuhla
 Srakovlje
-Srebotje
+Srebotje, Srobotje
 Srebrnik
 Srebrniče
 Sredgora
-Središče
+Središče, Kisszerdahely, Szerdahely
 Središče ob Dravi
 Sredme
 Srednik
 Srednja Bela
-Srednja Bistrica
+Srednja Bistrica, Középbeszterce, Középbesztercze
 Srednja Dobrava
 Srednja Kanomlja
 Srednja Vas
@@ -4105,7 +4105,7 @@ Srgaši
 Srnjak
 Srobotnik ob Kolpi
 Srobotnik pri Vel. Laščah
-Sromlje
+Sromlje, Sromle
 Srpenica
 Srževica
 Stahovica
@@ -4115,25 +4115,25 @@ Stanetinci
 Stanečka Vas
 Stanežiče
 Staniše
-Stanjevci
-Stankovo
+Stanjevci, Kerkaszabadhegy, Stanjovci, Szabadhegy
+Stankovo, Stankova
 Stanovišče
 Stanovno
 Stanovsko
 Stanošina
 Stara Bučka
-Stara Cerkev
+Stara Cerkev, Stari Cerkev
 Stara Cesta
-Stara Gora
+Stara Gora, Montevecchio
 Stara Gora pri Vel.Gabru
 Stara Gora pri Šentilju
 Stara Lipa
 Stara Loka
-Stara Nova Vas
+Stara Nova Vas, Stara Nova Ves
 Stara Oselica
 Stara Sela
-Stara Sušica
-Stara Vas
+Stara Sušica, Sussizza
+Stara Vas, Sara Vas, Stara di Postumia
 Stara Vas-Bizeljsko
 Stara Vrhnika
 Stare Slemene
@@ -4146,13 +4146,13 @@ Stari Kot
 Stari Log
 Stari Trg
 Stari Trg ob Kolpi
-Stari Trg pri Ložu
+Stari Trg pri Ložu, Altenmarkt
 Starihov Vrh
 Staro Brezje
-Staro Selo
+Staro Selo, Sella di Caporetto
 Starod
-Starošince
-Starše
+Starošince, Starošinci
+Starše, Sankt Johann an Drau-Felde, Sveti Janez na Dravskom Polju, Šent Janž
 Stavešinci
 Stavešinski Vrh
 Stavča Vas
@@ -4164,7 +4164,7 @@ Stenica
 Stepani
 Steske
 Stirpnik
-Stična
+Stična, Sittich
 Stiška Vas
 Stoglej
 Stogovci
@@ -4172,7 +4172,7 @@ Stojanski Vrh
 Stojnci
 Stolnik
 Stolovnik
-Stomaž
+Stomaž, San Tommaso
 Stopce
 Stope
 Stoperce
@@ -4186,10 +4186,10 @@ Strahovlje
 Strajna
 Strana, Stran
 Strane
-Stranice
+Stranice, Stranica
 Stranje
 Stranje pri Dobrniču
-Stranje pri Velikem Gabru
+Stranje pri Velikem Gabru, Breg pri Velikem Gabru
 Stranje pri Škocjanu
 Stranska Vas
 Stranska Vas ob Višnjici
@@ -4197,7 +4197,7 @@ Stranska vas pri Semiču
 Stranske Makole
 Stranski Vrh
 Straška Gorca
-Straža
+Straža, Gorenja Straža, Gornja Straža, Ober-Strascha
 Straža na Gori
 Straža pri Dolu
 Straža pri Krškem
@@ -4206,11 +4206,11 @@ Straža pri Novi Cerkvi
 Straža pri Oplotnici
 Straža pri Raki
 Straže
-Stražgonjca
+Stražgonjca, Stražgonjci, Strgojnce
 Stražica
 Stražišče
 Stražnji Vrh
-Strehovci
+Strehovci, Őrszentvid
 Strejaci
 Strelac
 Strelci
@@ -4218,9 +4218,9 @@ Strensko
 Strezetina
 Strjanci
 Strletje
-Strmca
-Strmec
-Strmec na Predelu
+Strmca, Stermizza Mater Dei
+Strmec, Strmce
+Strmec na Predelu, Bretto di Sopra
 Strmec nad Dobrno
 Strmec pri Destrniku
 Strmec pri Leskovcu
@@ -4232,21 +4232,21 @@ Strmo Rebro, Strma Reber
 Strnišče
 Strojiči, Strojč
 Strojna
-Stročja Vas
+Stročja Vas, Stročja Ves
 Strtenica
 Strtenik
 Strug
 Strukovci
-Strunjan
+Strunjan, Madonna di Strugnano, Strugnano
 Stružnica
 Stržišče
-Studena Gora
+Studena Gora, Studena in Monte
 Studenca
 Studence
-Studenec
+Studenec, Studenza
 Studenec na Blokah
 Studenec pri Krtini
-Studenice
+Studenice, Studenitz
 Studeno
 Studeno na Blokah
 Studenčice
@@ -4262,20 +4262,20 @@ Suho
 Suhodolnik
 Suhor
 Suhor pri Dol. Toplicah
-Suhorje
+Suhorje, Sucoria
 Sukavec
 Suša
-Sušak
+Sušak, Sussa
 Sušica
 Sušje
-Sužid
-Sv. Ana v Slov. Goricah
+Sužid, Susida
+Sv. Ana v Slov. Goricah, Sveta Ana, Sveta Ana v Slovenskih Goricah
 Sv. Andrej
-Sv. Anton
+Sv. Anton, San Antonio di Capodistria, Sant'Antonio, Sveti Anton
 Sv. Anton na Pohorju
 Sv. Barbara
-Sv. Boštjan
-Sv. Danijel
+Sv. Boštjan, Sveti Boštjan
+Sv. Danijel, Sveti Danijel
 Sv. Duh
 Sv. Duh na Ostrem Vrhu
 Sv. Ema
@@ -4283,33 +4283,33 @@ Sv. Florijan
 Sv. Gregor, Sveti Gregor
 Sv. Jernej nad Muto
 Sv. Jurij
-Sv. Lenart
+Sv. Lenart, Lenart nad Lušo
 Sv. Lovrenc
 Sv. Ožbolt
-Sv. Peter
+Sv. Peter, Sent Peter
 Sv. Petra Hrib
 Sv. Primož nad Muto
 Sv. Tomaž
 Sv. Trije Kralji
 Sv. Trije Kralji v Slov. Gor.
 Sv. Trojica
-Sv. Trojica v Slov. Goricah, Sveta Trojica v Slovenskih goricah
+Sv. Trojica v Slov. Goricah, Gradišče v Slovenskih Goricah, Sveta Trojica v Slovenskih Goricah
 Sv. Vid
 Sv. Vrh, Sveti Vrh
 Sveta Ana pri Ložu
 Sveta Barbara
 Sveta Gora
 Sveta Planina
-Sveta Trojica
+Sveta Trojica, Šivče
 Svetelka
 Sveti Andrej
 Sveti Duh, Heiligengeist
 Sveti Florijan nad Škofjo Loko
-Sveti Jakob ob Savi
+Sveti Jakob ob Savi, Sveti Jakob
 Sveti Janez
-Sveti Jernej
-Sveti Jošt nad Kranjem
-Sveti Jurij, Občina Sveti Jurij ob Ščavnici
+Sveti Jernej, Jernej, Jernej pri Ločah
+Sveti Jošt nad Kranjem, Jošt nad Kranjem, Sveti Jošt
+Sveti Jurij, Jurij, Občina Sveti Jurij ob Ščavnici, Sankt-Georgen, Sveti Jurij ob Ščavnici, Vizlendva
 Sveti Lenart
 Sveti Lovrenc, Sankt Lorenzen
 Sveti Lovreno
@@ -4317,9 +4317,9 @@ Sveti Marija-Magdalena
 Sveti Martin
 Sveti Peter
 Sveti Simon
-Sveti Tomaž
+Sveti Tomaž, Sveti Tomaž pri Ormožu, Tomaž, Tomaž pri Ormožu
 Sveti Urban
-Sveti Vid
+Sveti Vid, Svedi Vid nad Cerknico, Šent Vid, Žilce
 Sveti Štefan
 Svetina
 Svetinci
@@ -4327,14 +4327,14 @@ Svetinja
 Svetinje
 Svetli Dol
 Svetli Potok
-Sveto
+Sveto, Sutta
 Svečane
 Svibnik
 Svibno
 Svinjsko
-Svino
+Svino, Villa Svina
 Svržaki
-Tabor
+Tabor, Občina Tabor
 Tacen
 Tajhte
 Talčji Vrh
@@ -4349,9 +4349,9 @@ Tekačevo
 Telče
 Telčice
 Temenica
-Temljine
+Temljine, Temljina
 Temna Luža
-Temnica
+Temnica, Temenizza
 Tenetiše
 Tepanje
 Tepanjski Vrh
@@ -4361,47 +4361,47 @@ Terbegovci
 Tesno
 Testeni
 Tevče
-Tešanovci
+Tešanovci, Mezővár
 Tešova
 Tibolci
-Tihaboj
-Tinjan
+Tihaboj, Tinaboj
+Tinjan, Antignano, Antignano d'Istria, Antinjan
 Tinjska Gora
 Tirna
 Tirosek
 Tisovec
 Tišenpolj
-Tišina
+Tišina, Csendlak
 Tlaka
 Tlake
 Todraž
-Tolmin, Občina Tolmin
-Tolminske Ravne
-Tolminski Lom
+Tolmin, Občina Tolmin, Talmina, Tolmino
+Tolminske Ravne, Raume di Piedimeize, Raune di Piedimelze
+Tolminski Lom, Lom di Tolmimo
 Tolsti Vrh
-Tolsti Vrh pri Mislinji
+Tolsti Vrh pri Mislinji, Tolsti Vrh pri Mislinj
 Tolsti Vrh pri Ravnah na Koroškem
 Tolčane
-Tomaj
+Tomaj, Tomádio
 Tomačevica
 Tomaška Vas
 Tomaž nad Vojnikom
 Tomažini
 Tomažja Vas
-Tominje
+Tominje, Tomigna
 Tomišelj
 Topla
-Topla Reber
+Topla Reber, Dolnja Topla Reber
 Topol
 Topol pri Begunjah
 Topol pri Medvodah
-Topolc
+Topolc, Topolec, Topolza
 Topole
 Topolje
-Topolovci
-Topolovec
+Topolovci, Jegenyés
+Topolovec, Topolovac, Topotovac, Toppolo in Belvedere
 Topolovo
-Topolšica
+Topolšica, Topolschitz, Topolščica
 Topovlje
 Torka
 Torovo
@@ -4419,35 +4419,35 @@ Travnik
 Trbinc
 Trboje
 Trbonje
-Trbovlje, Občina Trbovlje
-Trdkova
+Trbovlje, Občina Trbovlje, Opština Trbovlje
+Trdkova, Magasfok, Trdkovo
 Trdobojci
 Trebanjski Vrh
 Trebelno
 Trebelno pri Palovčah
 Trebenče
-Trebeše
+Trebeše, Trebesse
 Trebež
 Trebija
-Trebižani
+Trebižani, Trevisani
 Trebnja Gorica
-Trebnje, Municipality of Trebnje
+Trebnje, Municipality of Trebnje, Občina Trebnje, Opština Trebnje
 Trebnji Vrh
 Trebča Vas
 Trebče
 Tremerje
 Trenta
 Treven
-Trgovišče
+Trgovišče, Trgovič
 Triban
 Tribej
 Tribuče
-Trimlini
+Trimlini, Hármasmalom, Trije Mlini
 Trlično
 Trnava
 Trniče
 Trnjava
-Trnje
+Trnje, Tergne, Tüskeszer
 Trno
 Trnov Hrib
 Trnovci
@@ -4455,28 +4455,28 @@ Trnovec
 Trnovec pri Dramljah
 Trnovec pri Slovenski Bistrici
 Trnovica
-Trnovlje pri Celju
+Trnovlje pri Celju, Trnovlje
 Trnovlje pri Socki
-Trnovo
-Trnovo ob Soči
-Trnovska Vas, Sankt Wolfgang in Windischbüheln
+Trnovo, Tarnova, Tarnova della Selva, Ternova, Trnovo pri Gorici
+Trnovo ob Soči, Ternova d'Isonzo
+Trnovska Vas, Sankt Wolfgang in Windischbüheln, Trnovska Ves
 Trnovski Vrh
 Trnovče
 Trobelno
 Troblje
 Trobni Dol
-Trojane
+Trojane, Trojana
 Trojno
-Tropovci
+Tropovci, Murafüzes
 Trotkova
 Troščine
-Trpčane
+Trpčane, Terciane
 Trsek
 Trstenik
-Trtnik
-Truške
+Trtnik, Tertenico
+Truške, Truscolo
 Trušnje
-Trzin
+Trzin, Občina Trzin
 Trčkov Grič
 Trčova
 Trševje
@@ -4484,14 +4484,14 @@ Trška Gora
 Trška Gorca
 Trščina
 Tržec
-Tržič
+Tržič, Neumarktl, Tršič
 Tržišče
-Tublje pri Hrpeljah
-Tublje pri Komnu
+Tublje pri Hrpeljah, Tubbiano, Tublje
+Tublje pri Komnu, Tuble di Boriano, Tublje
 Tuji Grm
 Tuljaki
 Tuncovec
-Tunjice
+Tunjice, Tunjica
 Tunjiška Mlaka
 Tupaliče
 Tupelče
@@ -4501,7 +4501,7 @@ Turjak, Auersperg
 Turjanci
 Turjanski Vrh
 Turje
-Turnišče, Turnischa
+Turnišče, Bántornya, Turnischa
 Turno
 Turnše
 Turški Vrh
@@ -4519,11 +4519,11 @@ Unično
 Uniše
 Urh
 Uršic
-Uršlja Gora
-Uršna Sela
-Ustje
+Uršlja Gora, Crška Gora
+Uršna Sela, Vršna Sela
+Ustje, Ustie
 Utik
-Utovlje
+Utovlje, Uttoglie
 Uzmani
 Učak
 Učakovci
@@ -4532,24 +4532,24 @@ V Zideh
 Vadarci
 Vadiče
 Vajgen
-Valburga
+Valburga, Sveta Valpurga
 Valdoltra
 Vale
-Valica
+Valica, Valiza, Valizza
 Valična Vas
 Valterski Vrh
 Vanetina
-Vaneča
+Vaneča, Vaslak
 Vanganel
-Vanča Vas
+Vanča Vas, Ivánfalva, Vanča Ves, Vauča Vas
 Varda
 Vareja
-Vareje
+Vareje, Varea
 Varoš
 Varpolje
 Vas
 Vaseno
-Vatovlje
+Vatovlje, Vattoglie
 Vautošek
 Vavpča Vas pri Dobrniču
 Vavta Vas
@@ -4559,10 +4559,10 @@ Vedrijan
 Veharše
 Vejice
 Velendol
-Velenje, Mestna občina Velenje
+Velenje, Mestna občina Velenje, Opština Titovo Velenje, Opština Velenje, Titovo Velenje, Wöllan
 Velesovo
-Velika Brda
-Velika Bukovica
+Velika Brda, Berdo
+Velika Bukovica, Bucovizza Granda
 Velika Cikava
 Velika Dobrava
 Velika Dolina
@@ -4572,58 +4572,58 @@ Velika Ilova Gora
 Velika Kostrevnica
 Velika Lahinja
 Velika Lašna
-Velika Ligojna
-Velika Loka
-Velika Nedelja
+Velika Ligojna, Ligojna
+Velika Loka, Veliko Loka
+Velika Nedelja, Grossentag, Soseska, Velike Nedelje
 Velika Pirešica
 Velika Planina
-Velika Polana
+Velika Polana, Nagypalina, Občina Velika Polana, Palina
 Velika Preska
-Velika Pristava
+Velika Pristava, Prestava Grande
 Velika Raven
 Velika Račna
 Velika Sela
 Velika Slevica
 Velika Stara Vas
 Velika Strmica
-Velika Varnica
+Velika Varnica, Varnica
 Velika Vas
 Velika Vas pri Krškem
 Velika Ševnica
 Velika Štanga
-Velike Bloke
+Velike Bloke, Bloke, Oblak, Veliko Bloke
 Velike Brusnice
 Velike Dole
 Velike Dole pri Temenici
 Velike Gorelce
 Velike Grahovše
 Velike Kompolje
-Velike Lašče, Großlaschitz
+Velike Lašče, Gross-Laschitz, Großlaschitz
 Velike Lese
 Velike Lipljene
 Velike Loče
 Velike Malence
 Velike Pece
-Velike Poljane
+Velike Poljane, Veliko Poljane
 Velike Rebrce
 Velike Rodne
 Velike Vodenice
-Velike Vrhe
+Velike Vrhe, Veliki Vrhi
 Velike Češnjice
-Velike Žablje
+Velike Žablje, Sable, Veliko
 Veliki Ban
 Veliki Boč
 Veliki Brebrovnik
 Veliki Cerovec
 Veliki Cirnik
-Veliki Dol
-Veliki Gaber
+Veliki Dol, Dol Grande, Vallegrande
+Veliki Gaber, Gaber
 Veliki Hrib
 Veliki Jelnik
 Veliki Kal
-Veliki Kamen
+Veliki Kamen, Grosser Steinbach, Kamen
 Veliki Koren
-Veliki Korinj
+Veliki Korinj, Korinj
 Veliki Lipoglav
 Veliki Lipovec
 Veliki Ločnik
@@ -4632,7 +4632,7 @@ Veliki Obrež
 Veliki Okič
 Veliki Orehek
 Veliki Osolnik
-Veliki Otok
+Veliki Otok, Ottocco
 Veliki Podljuben
 Veliki Podlog
 Veliki Rakitovec
@@ -4643,24 +4643,24 @@ Veliki Videm
 Veliki Vrh
 Veliki Vrh pri Litiji
 Veliki Vrh pri Šmarju
-Veliko Brdo
+Veliko Brdo, Berdo di Elsane
 Veliko Globoko
 Veliko Lipje
 Veliko Mlačevo
 Veliko Mraševo
-Veliko Polje
+Veliko Polje, Poglie
 Veliko Tinje
 Veliko Trebeljevo
-Veliko Ubeljsko
+Veliko Ubeljsko, Oblisca Grande, Veliko
 Veliko Črnelo
 Veliko Širje
 Veličane
-Velka
+Velka, Marija Snežna
 Veniše
 Verače
 Verd, Werd
 Verdun
-Verdun pri Uršnih Selih
+Verdun pri Uršnih Selih, Verdun pri Uršnih Selah
 Verje
 Vernek
 Verpete
@@ -4669,21 +4669,21 @@ Vesca
 Vesela Gora
 Veternik
 Vetrnik
-Vevče
+Vevče, Velče
 Vezovje
-Večeslavci
+Večeslavci, Vasvecsés
 Večje Brdo
 Večkoti
 Vešenik
 Vešter
-Veščica
+Veščica, Veščica pri Murski Soboti
 Vidanovci
-Videm, Videm, Dobrepolje, Widem
+Videm, Občina Videm, Sveti Jurij ob Ščavnici, Videm ob Ščavnici, Videm, Dobrepolje, Widem
 Videm pri Lukovici
 Videm pri Ptuju, Sankt Veit über Pettau, Sveti Vid pri Ptuju, Treun über Pettau
 Videm pri Temenici
 Videž
-Vidonci
+Vidonci, Vidonce, Vidorlak
 Vidovica
 Vidošiči
 Vidrga
@@ -4713,25 +4713,25 @@ Vinski Vrh
 Vinski Vrh pri Šmarju
 Vintarjevec
 Vintarji
-Vipava, Občina Vipava
-Vipavski Križ
+Vipava, Občina Vipava, Vipacco, Vippaco
+Vipavski Križ, Santa Croce di Aidas
 Vir
 Vir pri Nevljah
 Vir pri Stični
 Virlog
 Virmaše
-Virštanj
+Virštanj, Virštajn
 Visejec
 Visoko
 Visoko pri Poljanah
 Visole
 Visoče
 Vitan
-Vitanje
+Vitanje, Občina Vitanje, Weitenstein
 Vitanjsko Skomarje
 Vitna Vas
 Vitomarci
-Vitovlje
+Vitovlje, Vittuglia
 Vizore
 Vićna Vas
 Vič
@@ -4741,16 +4741,16 @@ Viševca
 Viševek
 Višji Dol
 Viški
-Višnja Gora
+Višnja Gora, Weixelburg
 Višnja Vas
-Višnje
-Višnjevik
+Višnje, Visne
+Višnjevik, Visnovicco
 Višnji Grm
 Vižmarje
-Vnajnarje
+Vnajnarje, Vnasjnarje
 Vnanje Gorice
 Vodenovo
-Vodice
+Vodice, Občina Vodice, Woditz, Zodize in Selva di Piro
 Vodice nad Kamnikom
 Vodice pri Gabrovki
 Vodice pri Kalobju
@@ -4764,31 +4764,31 @@ Vodruž
 Voduce
 Vodule
 Voglajna
-Voglarji
-Voglje
+Voglarji, Carbonari
+Voglje, Voalje, Vogliano
 Voglova
 Vogrinki, Vogrinke
 Vogričevci
-Vogrsko
+Vogrsko, Ville Montevecchio, Vogersko
 Vojna Vas
-Vojnik
-Vojsko
-Vojščica
+Vojnik, Občina Vojnik
+Vojsko, Voschia, Woiska
+Vojščica, Voischizza, Voisizza di Comeno, Voissizza
 Voklo
 Volaka
-Volarje
+Volarje, Vollaria
 Volavlje
 Volog
 Vologa
 Volovnik
 Volča
 Volčanski Ruti
-Volče
+Volče, Volce Auremiano, Volzana
 Volčja Draga
-Volčja Jama
+Volčja Jama, Volčje Jame
 Volčje
 Volčje Njive
-Volčji Grad
+Volčji Grad, Castel Voltiano, Volci
 Volčji Potok
 Volčkova Vas
 Vonarje
@@ -4796,13 +4796,13 @@ Vopovlje
 Vosek
 Vovše
 Vošce
-Vrabče
+Vrabče, Monte Urabice, Urabtsche
 Vranja Peč
 Vranje
 Vranji Vrh
 Vranke
 Vranoviči
-Vransko
+Vransko, Franz, Občina Vransko
 Vrasičko
 Vrata
 Vratja Vas
@@ -4818,14 +4818,14 @@ Vrbnje
 Vrbno
 Vrbovce
 Vrbovec
-Vrbovo
-Vremski Britof
+Vrbovo, Verbovo
+Vremski Britof, Cave Auremiane
 Vrenska Gorca
 Vrh
 Vrh Sv. Treh Kraljev
 Vrh nad Krašnjo
 Vrh nad Laškim
-Vrh nad Rovtami
+Vrh nad Rovtami, Sveti Trije Kralji
 Vrh nad Želimljami
 Vrh pri Boštanju
 Vrh pri Dolskem
@@ -4845,15 +4845,15 @@ Vrhe
 Vrhek
 Vrhje
 Vrhloga
-Vrhnika
+Vrhnika, Nauporto, Ober-Laibach, Občina Vrhnika, Opština Vrhnika
 Vrhnika pri Ložu
-Vrhole pri Laporju
-Vrhole pri Slov. Konjicah
+Vrhole pri Laporju, Vrhole
+Vrhole pri Slov. Konjicah, Vrhole, Vrhole pri Slovenskih Konjicah
 Vrhov Dol
 Vrhovci
 Vrhovje
-Vrhovlje
-Vrhovlje pri Kojskem
+Vrhovlje, Vercogliano di Monrupino
+Vrhovlje pri Kojskem, Vercoglie di Quisca, Vergoglie, Vrhovije
 Vrhovlje pri Kožbani
 Vrhovo
 Vrhovo pri Mirni Peči
@@ -4861,45 +4861,45 @@ Vrhovo pri Šentlovrencu
 Vrhovo pri Žužemberku
 Vrhovska Vas
 Vrhpeč
-Vrhpolje
+Vrhpolje, Verpogliano, Verpoglie
 Vrhpolje pri Kamniku
 Vrhpolje pri Moravčah
 Vrhpolje pri Šentvidu
-Vrhtrebnje
+Vrhtrebnje, Vrhtrebno
 Vrhulje
-Vrsno
+Vrsno, Ursina
 Vrt
 Vrtača
 Vrtače
-Vrtojba
+Vrtojba, Vertoiba in Campi Santi
 Vrtojbica, Na Vrtojbici
 Vrtovin
 Vrtovče
-Vrtoče
+Vrtoče, Vertazzi
 Vrzdenec
 Vrčice
 Vršna Vas
 Vršnik
-Vuhred
+Vuhred, Wuchern
 Vukovci
 Vukovje
 Vukovski Dol
 Vukovski Vrh
 Vurberk
 Vurmat
-Vuzenica
+Vuzenica, Občina Vuzenica
 Vuzmetinci
-Vučja Gomila
-Vučja Vas
+Vučja Gomila, Volčja Gomila, Vuča Gomila, Vučegomila, Vučegomilje, Zsidahegy
+Vučja Vas, Vučja Ves
 Za Kalvarijo
 Zabava
-Zabavlje
-Zabiče
+Zabavlje, Zabavia, Zabavje
+Zabiče, Zàbice Castèlvecchio
 Zabork
 Zaboršt pri Dolu
 Zaboršt pri Šentvidu
 Zabovci
-Zabočevo
+Zabočevo, Sabočevo, Sobočevo
 Zabrdje
 Zabrdo
 Zabrekve
@@ -4911,9 +4911,9 @@ Zabukovje
 Zabukovje nad Sevnico
 Zabukovje pri Raki
 Zadel
-Zadlaz-Čadrg
-Zadlaz-Žabče
-Zadlog
+Zadlaz-Čadrg, Ciadra, Čadra
+Zadlaz-Žabče, Rauna di Sabbice, Žabče
+Zadlog, Salloga d'Idria
 Zadniki
 Zadnja Vas
 Zadobje
@@ -4923,7 +4923,7 @@ Zadraga
 Zadrže
 Zadvor
 Zafara
-Zaga
+Zaga, Saga
 Zaga Bog
 Zagaj
 Zagaj pod Bocem
@@ -4932,7 +4932,7 @@ Zagajski Vrh
 Zagoda
 Zagojiči
 Zagomila
-Zagon
+Zagon, Sagona
 Zagora
 Zagorci
 Zagorica
@@ -4942,8 +4942,8 @@ Zagorica pri Dolskem
 Zagorica pri Rovah
 Zagorica pri Velikem Gabru
 Zagorica pri Čatežu
-Zagorje
-Zagorje ob Savi, Občina Zagorje ob Savi
+Zagorje, Sagoria, Sagorje, Sagória San Martino, Zagorje pri Pilštanju
+Zagorje ob Savi, Občina Zagorje ob Savi, Opština Zagorje ob Savi
 Zagozd
 Zagozdac
 Zagrad
@@ -4956,7 +4956,7 @@ Zagrič
 Zahomce
 Zahrib
 Zajelše
-Zajelšje
+Zajelšje, Zaielse
 Zajčje Polje
 Zajčji Vrh
 Zajčji Vrh pri Stopičah
@@ -4970,9 +4970,9 @@ Zakriž
 Zala
 Zales
 Zali Breg
-Zali Log
+Zali Log, Salilog
 Zalisec
-Zalog
+Zalog, Saloga di Postumia
 Zalog pod Sv. Trojico
 Zalog pod Ursulo
 Zalog pri Cerkljah
@@ -5001,18 +5001,18 @@ Zapodje
 Zapodnem
 Zapoge
 Zapotok
-Zapreval
+Zapreval, Za Prevalom
 Zapudje
-Zapuže
+Zapuže, Sapuse
 Zapuže pri Kostelu
 Zapuže pri Ribnici
-Zarečica
-Zarečje
+Zarečica, Sarecizza
+Zarečje, Sarecce
 Zarobom
 Zarog
 Zasadi
 Zasap
-Zasavci
+Zasavci, Zasavec
 Zasip, Asp
 Zastava
 Zastranje
@@ -5023,29 +5023,29 @@ Zavino
 Zavodice
 Zavodnje
 Zavrate
-Zavratec
-Zavrh
-Zavrh nad Dobrno
-Zavrh pod Smarno Goro
-Zavrh pri Borovnici
+Zavratec, Saurazzt
+Zavrh, Zaver, Zavrn
+Zavrh nad Dobrno, Zaver
+Zavrh pod Smarno Goro, Zaver
+Zavrh pri Borovnici, Zaver
 Zavrh pri Galiciji
 Zavrh pri Trojanah
 Zavrh pri Črnivcu
-Zavrhek
-Zavrstnik
+Zavrhek, Zavrhnek
+Zavrstnik, Zavrsnik
 Zavrtače
 Zavrč
 Završe
 Završe pri Dobjem
 Završe pri Grobelnem
 Završje
-Zazid
+Zazid, Sasseto
 Začret
 Zbelovo
 Zbelovska Gora
 Zbigovci
 Zbilje
-Zbure
+Zbure, Zbuke
 Zdenska Vas
 Zdihovo
 Zdole
@@ -5054,7 +5054,7 @@ Zelen Breg
 Zelše
 Zemelj
 Zemono
-Zenkovci
+Zenkovci, Borostyán, Zoltánháza
 Zeče
 Zeče pri Bučah
 Zglavnica
@@ -5074,13 +5074,13 @@ Zgornja Javoršica
 Zgornja Jevnica
 Zgornja Kapla
 Zgornja Kostrivnica
-Zgornja Kungota
+Zgornja Kungota, Ober Sankt Kunigund, Zgornja Spodnja Kungota, Zgornja Sveta Kungota
 Zgornja Lipnica
 Zgornja Ložnica
 Zgornja Luša
 Zgornja Nova Vas
 Zgornja Orlica
-Zgornja Pohanca
+Zgornja Pohanca, Gornja Pohanca
 Zgornja Polskava
 Zgornja Pristava
 Zgornja Radovna
@@ -5090,12 +5090,12 @@ Zgornja Selnica
 Zgornja Senarska
 Zgornja Senica
 Zgornja Slivnica
-Zgornja Sorica
+Zgornja Sorica, Sorica, Zraz
 Zgornja Sveča
 Zgornja Svina
 Zgornja Vižinga
 Zgornja Voličina
-Zgornja Zadobrova
+Zgornja Zadobrova, Zgornja Zadobrava
 Zgornje Bitnje
 Zgornje Danje
 Zgornje Doblježice
@@ -5110,7 +5110,7 @@ Zgornje Gruškovje
 Zgornje Grušovje
 Zgornje Grušovlje
 Zgornje Hlapje
-Zgornje Hoče
+Zgornje Hoče, Hoče
 Zgornje Jablane
 Zgornje Jarše
 Zgornje Jezersko
@@ -5120,10 +5120,10 @@ Zgornje Laze
 Zgornje Loke
 Zgornje Mladetiče, Gorenje Mladatiče
 Zgornje Negonje
-Zgornje Palovče
+Zgornje Palovče, Zgornje Paloviče
 Zgornje Pirniče, Oberpirnitsch
 Zgornje Pobrežje
-Zgornje Poljane
+Zgornje Poljane, Gornje Poljane
 Zgornje Poljčane
 Zgornje Prapreče
 Zgornje Prebukovje
@@ -5138,22 +5138,22 @@ Zgornje Verjane
 Zgornje Vetrno
 Zgornje Vodale, Gorenje Vodale
 Zgornje Vrtiče
-Zgornje Škofije
+Zgornje Škofije, Albaro Vescová, Škofije
 Zgornji Boč
-Zgornji Brnik
+Zgornji Brnik, Zgornji Brnjik
 Zgornji Dražen Vrh
 Zgornji Duplek
 Zgornji Gasteraj
 Zgornji Hotič
 Zgornji Jakobski Dol
 Zgornji Janževski Vrh
-Zgornji Kamenščak
+Zgornji Kamenščak, Gornji Kamenščak
 Zgornji Kašelj
 Zgornji Kocjan
 Zgornji Kozji Vrh
 Zgornji Lehen na Pohorju
-Zgornji Leskovec
-Zgornji Log
+Zgornji Leskovec, Ober Leskovec
+Zgornji Log, Gornji Log
 Zgornji Obrež
 Zgornji Otok
 Zgornji Petelinjek
@@ -5163,13 +5163,13 @@ Zgornji Razbor
 Zgornji Slemen
 Zgornji Tuhinj
 Zgornji Tuštanj
-Zgornji Velovlek
-Zgornji Čačič
+Zgornji Velovlek, Zgornji Velovlak
+Zgornji Čačič, Čačič
 Zgoša
 Zibika
 Zibiška Vas
 Zibovnik
-Zidani Most
+Zidani Most, Steinbrück
 Zilje
 Zimica
 Zlakova
@@ -5178,18 +5178,18 @@ Zlateče
 Zlateče pri Šentjurju
 Zlati Rep
 Zlato Polje
-Zlatoličje
+Zlatoličje, Zatoliče
 Zloganje
 Zlogona Gora
 Zlogona Vas
 Zminec
 Znojile
-Znojile pri Krki
+Znojile pri Krki, Znojila
 Znojile pri Studencu
 Zorenci
 Zreče
-Zrin Lukački
-Zrkovci
+Zrin Lukački, Lukački Zrin, Zrinj
+Zrkovci, Zrkorci
 Zvirče
 Zvodno
 Čabrače
@@ -5204,7 +5204,7 @@ Zvodno
 Čakova
 Čanje
 Čateška Gora
-Čatež
+Čatež, Čatež pri Veliki Loki
 Čatež ob Savi
 Čača Vas
 Čebine
@@ -5216,21 +5216,21 @@ Zvodno
 Čelovnik
 Čemše
 Čemšenik
-Čentiba
+Čentiba, Csente, Csentevölgy
 Čentur
-Čepinci
+Čepinci, Kerkafő, Marokrét, Čopinci
 Čeplez
 Čeplje
 Čepno
-Čepovan
+Čepovan, Chiapovano
 Čepulje
 Čermelice
 Čermožiše
-Černelavci
+Černelavci, Kisszombat
 Četena Ravan
-Četež pri Strugah
+Četež pri Strugah, Čretež
 Četež pri Turjaku
-Čezsoča
+Čezsoča, Oltresonzia
 Češenik
 Češnjevek
 Češnjica
@@ -5241,11 +5241,11 @@ Zvodno
 Češnjice pri Zagradcu
 Češnjice v Tuhinju
 Češča Vas
-Čežarji
-Čiginj
+Čežarji, Cesari
+Čiginj, Sella di Volzana
 Čikavec, Čekavec
-Čikečka Vas
-Čilpah
+Čikečka Vas, Csekefa, Čičečka Ves
+Čilpah, Čilpoh
 Čimerno
 Činžat
 Čipnje
@@ -5254,20 +5254,20 @@ Zvodno
 Čohovo
 Čolnica, Čolenca
 Čolnišče
-Črenšovci
+Črenšovci, Cserencsócz, Cserföld
 Čreta
 Čreta pri Kokarjah
 Čretež pri Krškem
 Čretvež
 Čreškova
-Črešnjevci
+Črešnjevci, Črenjevci, Črešnovci
 Črešnjevec
 Črešnjevec ob Bistrici
 Črešnjevec ob Dravi
 Črešnjevec pri Dragatušu
 Črešnjevec pri Oštrcu
 Črešnjevec pri Semiču
-Črešnjice
+Črešnjice, Čresnica
 Črešnjice nad Pijavškim
 Črešnjice pri Cerkljah
 Črešnova
@@ -5276,28 +5276,28 @@ Zvodno
 Črmošnjice
 Črmošnjice pri Stopičah
 Črna
-Črna Vas
+Črna Vas, Črna Vac
 Črna na Koroškem
 Črna pri Kamniku
 Črnci
 Črnec
-Črnelavci
+Črnelavci, Črneslavci
 Črneča Vas
 Črneče
 Črneška Gora
-Črni Kal
+Črni Kal, San Sergio
 Črni Kras
 Črni Potok
 Črni Potok pri Dragi
 Črni Potok pri Kočevju
 Črni Potok pri Vel. Laščah
-Črni Vrh
+Črni Vrh, Montenero, Montenero d'Idria, Schwarzenberg, Črni vrh nad Idrija
 Črni Vrh v Tuhinju
 Črnivec
-Črniče
+Črniče, Cernizza Goriziana
 Črnolica
-Črnomelj, Občina Črnomelj
-Črnotiče
+Črnomelj, Občina Črnomelj, Tschernembl
+Črnotiče, Črnolice
 Črnova
 Črnuče
 Črče, Čerče
@@ -5309,45 +5309,45 @@ Zvodno
 Čužnja Vas
 Šafarsko
 Šahovec
-Šalamenci
+Šalamenci, Salamon, Šalamonci
 Šalinci
 Šalka Vas
-Šalovci
+Šalovci, Gross-Schaal, Klein-Schaal, Sal, Schabing
 Šardinje
-Šared
+Šared, Serore
 Šavna Peč
-Šebrelje
+Šebrelje, Sebreglie
 Šedem
 Šedina
 Šegova Vas
 Šeki
-Šembije
+Šembije, Sembie, Šembilje
 Šemnik
-Šempas
-Šempeter pri Gorici
+Šempas, Sambasso, Schönpals
+Šempeter pri Gorici, San Pietro, San Pietro di Gorízia, Sent Peter
 Šempeter v Savinj. Dolini
 Šenbric
-Šentanel
-Šentgotard
-Šentilj v Slov. Goricah, Občina Šentilj, Šentilj
+Šentanel, Spodnja Jamnica, Sveti Danijel
+Šentgotard, Manastir Gotard, Sankt Gotthard
+Šentilj v Slov. Goricah, Občina Šentilj, Sveti Ilj, Šentilj
 Šentilj v Slovenskih goricah
 Šentjakob, Sveti Jakob
-Šentjanž
-Šentjanž nad Dravčami
+Šentjanž, Johannisthal, Šent Janez
+Šentjanž nad Dravčami, Šent Janž, Šentjanž nad Dravčani
 Šentjanž nad Štorami
-Šentjanž pri Dravogradu
+Šentjanž pri Dravogradu, Šent Janž
 Šentjernej, Občina Šentjernej, Sankt Bartlmä, Šent Jernej
 Šentjošt
 Šentjošt nad Horjulom
-Šentjungert
-Šentjur, Občina Šentjur, Šentjur pri Celju
+Šentjungert, Sveti Jungert, Šent Jungerta
+Šentjur, Občina Šentjur, Sankt Georgen, Sveti Juraj, Sveti Jurij pri Celju, Šent Jurij, Šentjur pri Celju
 Šentjur na Polju
-Šentjurij na Dolenjskem
+Šentjurij na Dolenjskem, Šentjur na Dolenjskem, Šentjurij, Šenturje
 Šentjurje
 Šentlambert
 Šentlovrenc
 Šentovec
-Šentožbolt
+Šentožbolt, Šent Ožbald, Šentožbalt
 Šentpavel
 Šentpavel na Dolenjskem
 Šentpavel pri Domžalah
@@ -5356,17 +5356,17 @@ Zvodno
 Šenturška Gora
 Šentvid pri Grobelnem
 Šentvid pri Lukovici
-Šentvid pri Planini
-Šentvid pri Stični
-Šentvid pri Zavodnju
-Šentviška Gora
+Šentvid pri Planini, Šentvid
+Šentvid pri Stični, Šentvid
+Šentvid pri Zavodnju, Šent Vid, Šentvid na Slemenu
+Šentviška Gora, Planota
 Šenčur
 Šepulje
 Šerovo
 Šetarova
 Ševlje
 Šešče pri Preboldu
-Šibelji
+Šibelji, Sibelia
 Šibenik
 Šikole
 Šilentabor
@@ -5384,19 +5384,19 @@ Zvodno
 Škedenj
 Škemljevec
 Šklendrovec
-Škocjan
+Škocjan, San Canzian, San Canziano, San Canziano della Grotta, Santa Canziana, Staro Apno, Staro Apno-Škocjan, Škocijan
 Škofce
 Škofi
 Škofija
-Škofja Loka
+Škofja Loka, Bischoflack, Skofia Loka, Skosja Loka
 Škofja Riža
 Škofja Vas, Bischofsdorf
-Škoflje
-Škofljica, Občina Škofljica
+Škoflje, Scoffe
+Škofljica, Občina Škofljica, Škofelca
 Škovec
 Škrabče
 Škrajnek
-Škrbina
+Škrbina, Scherbina
 Škrilj, Dolenje Zdihovo
 Škrjanče
 Škrjanče pri Novem Mestu
@@ -5409,28 +5409,28 @@ Zvodno
 Šmalčja Vas
 Šmarata
 Šmarca
-Šmarje
-Šmarje pri Jelšah
-Šmarje pri Sežani
+Šmarje, Marzi, Monte di Capodistria, Šmarje pri Kopru
+Šmarje pri Jelšah, Shmare, Smarije
+Šmarje pri Sežani, Santa Maria di Sesana
 Šmarje-Sap
 Šmarjeta
-Šmarjeta pri Celju
+Šmarjeta pri Celju, Sankt Margarethen, Sveta Marjeta
 Šmarješke Toplice
 Šmartinske Cirkovce
-Šmartno
-Šmartno na Pohorju
-Šmartno ob Dreti
-Šmartno ob Paki
+Šmartno, San Martino
+Šmartno na Pohorju, Šmartin na Pohorju
+Šmartno ob Dreti, Šmartin ob Dreti
+Šmartno ob Paki, Šmartin ob Paki
 Šmartno ob Savi
-Šmartno pod Šmarno Goro
-Šmartno pri Litiji, Sankt Martin
-Šmartno pri Slovenj Gradcu
-Šmartno v Rožni Dolini
-Šmartno v Tuhinju
+Šmartno pod Šmarno Goro, Šmartin
+Šmartno pri Litiji, Sankt Martin, Šmartin, Šmartno pri Litui
+Šmartno pri Slovenj Gradcu, Šmartin, Šmartno pri Slovenjem Gradcu
+Šmartno v Rožni Dolini, Šmartin v Rožni Dolini
+Šmartno v Tuhinju, Šmartin, Šmartno v Tuhinji
 Šmarčna
 Šmatevž
 Šmaver
-Šmihel, Sankt  Michael
+Šmihel, Sankt  Michael, Sent Mihelj
 Šmihel nad Mozirjem
 Šmihel pri Novem mestu
 Šmihel pri Žužemberku
@@ -5438,7 +5438,7 @@ Zvodno
 Šmiklavž pri Škofji Vasi
 Šober
 Šomat
-Šoštanj
+Šoštanj, Schönstein, Sostanj Mesto
 Špeharji
 Špital
 Špitalič
@@ -5446,31 +5446,31 @@ Zvodno
 Špičnik
 Šprinc
 Šratovci
-Št. Janž pri Radljah
+Št. Janž pri Radljah, Suhi Vrh pri Radljah, Šent Janz
 Št. Jurij
 Štajer
 Štajerska Vas
 Štajngrob
-Štajngrova
-Štalcerji
+Štajngrova, Štajnbrova
+Štalcerji, Štalcarji
 Štangarske Poljane
-Štanjel
+Štanjel, San Daniel, San Daniele del Carso
 Štatenberk, Statenberg
 Štefan pri Trebnjem
 Štefanja Gora
-Štjak
+Štjak, San Giacomo in Colle, Stiak, Štijak
 Štore, Občina Štore
-Štorje
+Štorje, Storie
 Štorovo
 Štravberk
-Štrekljevec
+Štrekljevec, Štrekljevac
 Štrihovec
 Štrit
 Štrukljeva Vas
 Šturmovci
 Šujica
 Šulgi, Šuligoji
-Šulinci
+Šulinci, Sándorvölgy
 Šumnik
 Šutna
 Švinki
@@ -5478,7 +5478,7 @@ Zvodno
 Ščurki
 Ščurkovo
 Žabja Vas
-Žabjek
+Žabjek, Žabjak
 Žabjek v Podbočju
 Žablje
 Žabljek
@@ -5488,13 +5488,13 @@ Zvodno
 Žahenberc
 Žalec, Občina Žalec
 Žalna
-Žaloviče
-Žamenci
+Žaloviče, Žalovče
+Žamenci, Žalmance
 Žažar
 Ždinja Vas
 Žebnik
 Žegar
-Žeje
+Žeje, Zeie
 Žeje pri Komendi
 Žejno
 Želebej
@@ -5507,7 +5507,7 @@ Zvodno
 Željne
 Želodnik
 Želče
-Ženavlje
+Ženavlje, Gyanafa
 Ženik
 Ženje, Žejne
 Žepina
@@ -5521,13 +5521,13 @@ Zvodno
 Žiberci
 Žibrše
 Žice
-Žiganja Vas
+Žiganja Vas, Žganja Vas
 Žigoni
 Žigrski Vrh
 Žihlava
 Žihovo Selo
-Žimarice
-Žiri
+Žimarice, Žigmarice
+Žiri, Sairach
 Žirje
 Žirovnica, Občina Žirovnica
 Žirovski Vrh
@@ -5535,7 +5535,7 @@ Zvodno
 Žirovski Vrh Sv. Urbana
 Žirovše
 Žitence
-Žitkovci
+Žitkovci, Zsitkóc, Zsitkócz
 Žlabor
 Žlan
 Žlebič
@@ -5554,8 +5554,8 @@ Zvodno
 Župečja Vas
 Žurge
 Žurkov Dol
-Žusterna
-Žužemberk, Občina Žužemberk, Seisenberg
+Žusterna, Giusterna, Podmarkovac, Podmarkovec
+Žužemberk, Občina Žužemberk, Seisenberg, Žužemperk
 Žvab
 Žvabovo, Švabovo
 Žvarulje

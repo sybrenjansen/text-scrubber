@@ -351,18 +351,16 @@ class NormalizeCityTest(unittest.TestCase):
                 "Sioul",
                 [
                     ('Siyŏul', 'South Korea', 0.9090909090909091),
+                    ('Soult', 'France', 0.8888888888888888),
                     ("Si'ou", 'China', 0.8888888888888888),
                     ('Sioulin', 'China', 0.8333333333333334),
-                    ('Sibol', 'Philippines', 0.8),
-                    ('Souil', 'France', 0.8),
-                    ('Soult', 'France', 0.8),
-                    ('Sibul', 'Philippines', 0.8),
-                    ('Soual', 'France', 0.8),
-                    ('Stoul', 'United Kingdom', 0.8),
                     ('Soula', 'France', 0.8),
-                    ('Souel', 'France', 0.8),
                     ('Sioux', 'United States', 0.8),
-                    ('Siolo', 'Italy', 0.8)
+                    ('Stoul', 'United Kingdom', 0.8),
+                    ('Sibol', 'Philippines', 0.8),
+                    ('Siolo', 'Italy', 0.8),
+                    ('Ingalls', 'United States', 0.8),
+                    ('Sibul', 'Philippines', 0.8)
                 ]
             ),
             (

@@ -7,20 +7,20 @@ Baziro
 Bigombo
 Bigugo
 Bihemba
-Bihembe
+Bihembe, Binembe
 Biherwa
 Bihogana
 Bikanka
 Bikinga
 Bikobe
-Binyuro
+Binyuro, Binyura
 Birambi
 Birayi
 Bishuri
 Bisoro
 Bitagodoka
 Bitambi
-Bitare
+Bitare, Bugendana
 Bitega
 Bogogwa
 Bonero
@@ -51,7 +51,7 @@ Buhonga
 Buhoro
 Buhororo
 Buhurana
-Bujumbura
+Bujumbura, Usumbura
 Bukanya
 Bukemba
 Bukera
@@ -63,8 +63,8 @@ Bukirasazi
 Bukuba
 Bumba
 Buniha
-Buramata
-Burambi
+Buramata, Bulamata, Bulameta
+Burambi, Buyengero
 Buraniro
 Burara
 Burarana
@@ -75,7 +75,7 @@ Burenza
 Buriba
 Burima
 Buruhukiro
-Bururi
+Bururi, Buriri, Mont Bururi
 Busaka
 Busaro
 Bushirambeho
@@ -110,7 +110,7 @@ Buzigo
 Bwambarangwe
 Bwasare
 Bweru
-Bwiza-Bweranka
+Bwiza-Bweranka, Bweranka, Bwiza
 Caga
 Canika
 Cankuzo
@@ -134,7 +134,7 @@ Cumba
 Cunywe
 Donzi
 Fota
-Gacokwe, Gaookwe
+Gacokwe, Gacekwe, Gaookwe
 Gacu
 Gafuri
 Gahabwa
@@ -152,7 +152,7 @@ Gakara
 Gakaze
 Gakere
 Gakombe
-Gakome
+Gakome, Gakoma
 Gakungu
 Gasaka
 Gasaro
@@ -190,10 +190,10 @@ Gatumba
 Gatunguru
 Gatura
 Gatwe
-Gicumboro
+Gicumboro, Gicumburo
 Gifunzo
 Gihamagara, Ginamagara
-Gihanga
+Gihanga, Kihanga
 Gihango
 Giharo
 Gihero
@@ -212,13 +212,13 @@ Gikurazo
 Gikwiye
 Gipfizi
 Gisagara
-Gisagazuba
+Gisagazuba, Gisangazuba
 Gisanze
 Gisegwa
 Giseke
 Gisenyi
 Gisha
-Gishiha
+Gishiha, Gishita
 Gishikanwa
 Gishingwe
 Gishora
@@ -239,14 +239,14 @@ Gitanga
 Gitangaro
 Gitara
 Gitaramuka
-Gitega
+Gitega, Kitega
 Giteranyi
 Gitibu
 Gitobe
 Gitobwe
-Gitohwe
+Gitohwe, Gitonwe
 Gitondo
-Gitongo
+Gitongo, Kitogo, Kitongo
 Gitsiro
 Gitwa
 Gitwe
@@ -258,8 +258,8 @@ Gwiti
 Ibuga
 Ihangiro
 Ijenda
-Isale
-Itwe
+Isale, Isale-Mugaruro, Isare
+Itwe, Twe
 Jabiro
 Jenda
 Jogo
@@ -270,7 +270,7 @@ Kabande
 Kabanga
 Kabangira
 Kabari
-Kabarore
+Kabarore, Bureau d'arrondissement Kabarore
 Kabasa
 Kabatwa
 Kabayanda
@@ -296,7 +296,7 @@ Kagari
 Kagezi
 Kagina
 Kagogo
-Kagoma
+Kagoma, Bureau d'arrondissement Kagoma
 Kagomogomo
 Kagwema
 Kajabure
@@ -342,16 +342,16 @@ Kavumu
 Kayanza
 Kayero
 Kayogoro
-Kayokwe
+Kayokwe, Kaykowe
 Kayongozi
 Keru
-Kibago
+Kibago, Mont Kibago
 Kibande
 Kibaru
 Kibaya
 Kibezi
-Kibimba
-Kibonangoma
+Kibimba, Kivimba
+Kibonangoma, Kibonangona
 Kibumbu
 Kibungo
 Kibuye
@@ -363,7 +363,7 @@ Kiduguda
 Kigamba
 Kiganda
 Kiganza
-Kigarama
+Kigarama, Bureau d'arrondissement Kigarama
 Kigari
 Kigarika
 Kigende
@@ -396,18 +396,18 @@ Kirare
 Kiravumba
 Kirehe
 Kireka
-Kiremba
+Kiremba, Kilemba
 Kirerama
 Kirimba
 Kirogorya
 Kirugungu
 Kirumura
-Kirundo
+Kirundo, Kirundu
 Kiruri
 Kiryama
 Kisabi
 Kitara
-Kivoga
+Kivoga, Kivega
 Kivumu
 Kivungwe
 Kiyange
@@ -455,7 +455,7 @@ Mariza
 Martyazo
 Maruri
 Masabo
-Masake
+Masake, Mamasake
 Masam
 Masango
 Masha
@@ -490,7 +490,7 @@ Mikuku
 Minago
 Minyare
 Miremra
-Mishiha
+Mishiha, Mishira, Mushiha
 Mishindwe
 Mitaha
 Mitakataka
@@ -514,7 +514,7 @@ Mubone
 Mubuga, Mubuna
 Mudahanga
 Mudahwera
-Mudaraza
+Mudaraza, Mudafraza
 Mudende
 Mudusozi
 Mugabomure
@@ -525,7 +525,7 @@ Mugaruro
 Mugatare
 Mugende
 Mugera
-Mugerema
+Mugerema, Mugerama
 Mugerero
 Mugikuyo
 Mugina
@@ -536,7 +536,7 @@ Mugongo
 Mugongomanga
 Mugumira
 Muguramo
-Muhaganya
+Muhaganya, Kumuhakanya, Kumukakanya, Muhakanga, Muhakanya
 Muhagaze
 Muhago
 Muhama
@@ -577,7 +577,7 @@ Murama
 Muramba
 Murambagize
 Murambi
-Muramvya
+Muramvya, Commune of Muramvya
 Murangara
 Murango
 Murehe
@@ -589,7 +589,7 @@ Murindwe
 Murira
 Muririmbo
 Muririnda
-Murirwe, Muriwe
+Murirwe, Mumirwa, Mumirwe, Muriwe
 Murogwe
 Murore
 Mururinzi
@@ -630,12 +630,12 @@ Muyaga
 Muyange
 Muyange-Gashoho
 Muyebe
-Muyinga
+Muyinga, Muhinga, Mushinga
 Muyogoro
 Muyuga
 Muzenga 2
 Muzinda
-Muzura
+Muzura, Musura
 Mwakiro
 Mwanda
 Mwaro
@@ -643,7 +643,7 @@ Mwayi
 Mwenene
 Mweya
 Mwigamba
-Mwihero
+Mwihero, Mwibero
 Mwitaba
 Mwiyora
 Mwoya
@@ -691,7 +691,7 @@ Nunga
 Nyabibugu
 Nyabibuye
 Nyabigina
-Nyabihanga
+Nyabihanga, Nyamibanga
 Nyabikere
 Nyabiraba
 Nyabisaka
@@ -729,14 +729,14 @@ Nyamihanda
 Nyamirambo
 Nyamisebo
 Nyamiyaga
-Nyamugari
-Nyamuhunba
+Nyamugari, Bureau d'arrondissement Nyamugari
+Nyamuhunba, Nyamuhinba
 Nyamunazi
 Nyamurenge
 Nyamurenza
 Nyamurungu
 Nyamusoma
-Nyamutobo
+Nyamutobo, Nyamutabo
 Nyamuyaga
 Nyanderama
 Nyangati
@@ -781,7 +781,7 @@ Rubanga
 Rubangabanga
 Rubavu
 Rubaya
-Rubimba
+Rubimba, Rubimba II
 Rubirizi, Rubinzi
 Rubuga
 Rubugurizo
@@ -824,7 +824,7 @@ Ruko
 Rukobe
 Rukombe
 Rukoyoyo
-Rukukumbo
+Rukukumbo, Bukukumbo
 Rumanga
 Rumeza
 Rumonge
@@ -870,7 +870,7 @@ Ruyaga
 Ruyenzi
 Ruyigi, Commune de Ruyigi
 Ruyogoro
-Rwamahasa
+Rwamahasa, Rwamabasa
 Rwamiko
 Rwangara
 Rwaniro
@@ -904,7 +904,7 @@ Shombo, Shembo
 Shori
 Showe
 Sinini
-Taba
+Taba, Itaba
 Takwe
 Tangara
 Tara
@@ -915,7 +915,7 @@ Tora
 Twinyambo
 Uwimpfizi
 Vugizo
-Vumbi-Bukuba
+Vumbi-Bukuba, Vumbi
 Vumwe
 Vyanda
 Vyerwa

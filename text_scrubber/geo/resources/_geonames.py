@@ -45,10 +45,12 @@ def process(work_dir: str, filename: str, save_dir: str, manual_alternate_names:
     df_alt['alternate name'] = df_alt['alternate name'].apply(lambda s: s.replace("’", "'").replace("‘", "'"))
 
     # Only retain useful and unique alternative names. Note that only the dominant languages up to English are taken
-    # into account. This is a proxy for determining the domestic languages
+    # into account. This is a proxy for determining the domestic languages. We also take into account the rows without
+    # known language (empty string), as it has proven to be useful
     dominant_languages = [lang for lang, _ in sorted(df_alt.isolanguage.value_counts().items(),
                                                      key=lambda tup: -tup[1]) if len(lang) == 2]
     dominant_languages = dominant_languages[:dominant_languages.index('en') + 1]
+    dominant_languages.append('')
     df_alt = df_alt[df_alt.isolanguage.isin(dominant_languages) & ~(df_alt.isColloquial == "1")]
     df_alt = df_alt.drop_duplicates(['geonameid', 'alternate name'], keep='first')
     df_alt = df_alt.drop(['alternateNameId', 'isolanguage', 'isPreferredName', 'isShortName', 'isColloquial',
