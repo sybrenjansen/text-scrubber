@@ -97,8 +97,7 @@ Aquier
 Aquin, Aken, Commune d'Aquin
 Arboite
 Arcadien
-Arcahaie, Akayè, Arcahaie Arrondissement, Arrondissement dArcahaie, Arrondissement de l'Arcahaie, Lakayè
-Arcahaie, Akayè, Commune de l'Arcahaie, Lakayè
+Arcahaie, Akayè, Arcahaie Arrondissement, Arrondissement d'Arcahaie, Arrondissement de l'Arcahaie, Commune de l'Arcahaie, Lakayè
 Archin
 Areguy
 Arena
@@ -508,7 +507,6 @@ Benest
 Benjamin
 Benoil
 Benoit
-Benoît
 Bento
 Benêche
 Bercera
@@ -658,7 +656,6 @@ Bois Boulalile
 Bois Boulé
 Bois Boutou
 Bois Brulé
-Bois Brûlé
 Bois Cabrit
 Bois Caché
 Bois Capable
@@ -967,7 +964,6 @@ Bouli
 Boulin
 Boulmier
 Bouloune
-Boulé
 Bouquerome
 Bouquet d'Homme
 Bouquette
@@ -1068,7 +1064,6 @@ Brunette
 Brutus
 Brèche
 Bréa
-Bréda
 Bréman
 Brémant
 Brémond
@@ -1113,7 +1108,6 @@ Béra
 Bérard
 Béraud
 Bérault
-Béreau
 Béret
 Bérette
 Béril
@@ -1123,7 +1117,6 @@ Béré
 Bétel
 Béthel
 Béticher
-Bézin
 Bêque
 Ca Auguste
 Ca Baptiste
@@ -1533,7 +1526,6 @@ Carrelone
 Carrier
 Carries
 Carrizal
-Carriès
 Carry
 Carré
 Carème
@@ -1612,9 +1604,7 @@ Cayonne
 Cazal
 Cazeau
 Cazimir
-Caïman
 Caïmita
-Caïmite
 Caïmites
 Caïmittes
 Caïméite
@@ -1799,7 +1789,6 @@ Chéridant
 Chérissable
 Chérubia
 Chérubin
-Chéry
 Chérési
 Chêne
 Cice
@@ -2097,7 +2086,6 @@ Cyrille
 Cème
 Cécilio
 Céde
-Célestin
 Célicou
 Cérécif
 Cérécit
@@ -2369,7 +2357,7 @@ Devant Barse
 Devarenne
 Devesin
 Devezin
-Dezeau
+Dezeau, Déseaux
 Deï
 Diable Aubé
 Diablette
@@ -2742,11 +2730,9 @@ Dya
 Dácceull
 Dène
 Débarasse
-Débarassé
 Débarcadère
 Débas
 Débauche
-Débauché
 Débaye
 Débocher
 Déboire
@@ -2798,7 +2784,6 @@ Démon
 Démotelle
 Dénard
 Dépas, Despas
-Dépé
 Dépôt
 Dérac
 Dérence
@@ -2812,20 +2797,17 @@ Déronville
 Déroulin
 Déréal
 Désarmes
-Désert
 Désile
 Désir
 Désiré
 Désolé
 Désormeaux
 Déssable
-Déssables
 Détour
 Détrit
 Détrouille
 Dévarieux
 Dévot
-Dézeau, Déseaux
 Eau Carrée
 Eau Contrée
 Eau Coupée
@@ -3185,7 +3167,6 @@ Gaillac Penché
 Gaillard
 Gaille
 Gaillefort
-Gaillé
 Gala
 Galata
 Galatas
@@ -3342,7 +3323,6 @@ Godefroy
 Godet
 Godin
 Godrie
-Godé
 Goma
 Goman
 Gombo
@@ -3487,7 +3467,7 @@ Grandon
 Grandou
 Grandécor
 Granger
-Grangwav, Commune de Grand Goâve, Grand Goâve
+Grangwav, Commune de Grand Goâve, Grand-Goâve
 Granmote
 Gras
 Gras del'Eau
@@ -3496,7 +3476,6 @@ Grassette
 Gratiné
 Grave
 Gravelot
-Gravé
 Grenadière
 Grenie
 Grenier
@@ -3908,8 +3887,7 @@ Koa
 Kobé
 Kola
 Kotdefè, Commune de Côtes de Fer
-Koto, Arrondissement des Côteaux, Les Côteaux
-Koto, Commune des Côteaux, Les Côteaux
+Koto, Arrondissement des Côteaux, Commune des Côteaux, Les Côteaux
 L'Abbey
 L'Abbé
 L'Acrobate
@@ -4118,7 +4096,6 @@ La Mercie
 La Monge
 La Mont
 La Montagne
-La Mécette
 La Noire
 La Odissee
 La Pagru
@@ -4224,7 +4201,6 @@ La Visite
 La Vitre
 La Volonté
 La Voute
-La Voûte
 La Voûte Miguette
 La Yaille
 La Yaye
@@ -4495,7 +4471,6 @@ Leman
 Lemoine
 Lemou
 Lenaire
-Lenbe
 Lenbe, Commune du Limbé
 Lerocher
 Leroux
@@ -4693,7 +4668,6 @@ Létance
 Léveillé
 Lévy
 Lévêque
-Léxi
 Léyan
 Ma Toute
 Maberger
@@ -5273,7 +5247,7 @@ Montreuil
 Montrouis
 Montulay
 Montérant
-Montòrganize, Commune de Mont-Organisé, Mont-Organisé
+Montòrganize, Commune de Mont-Organisé, Mont Organisé
 Monvide
 Monvil
 Monville
@@ -5435,7 +5409,6 @@ Mourazin
 Mouri Corps
 Mouscadi
 Moussambe
-Moussambé
 Moussillac
 Mousso
 Moustique
@@ -5474,7 +5447,6 @@ Mélé Filé
 Ménage
 Ménard
 Ménélas
-Mérac
 Mérande
 Mérion
 Méroc
@@ -5984,12 +5956,10 @@ Obéissant
 Octon
 Odelique
 Odige
-Odigé
 Odijé
 Odino
 Ogier, Augier
 Ogé
-Okap, Cap-Haitien, Kap Ayisyen
 Okap, Cap-Haitien, Commune de Cap-Haïtien, Kap Ayisyen
 Olive
 Olivier
@@ -6245,7 +6215,6 @@ Peyrard
 Phare Rouge
 Phaton
 Phaéton
-Phaëton
 Philibert
 Philippeau
 Philippeaux
@@ -6792,7 +6761,6 @@ Riobé
 Riol
 Rioribe
 Risque
-Risqué
 Rivage
 Riville
 Rivière Blanche
@@ -6851,7 +6819,6 @@ Rodaille
 Rode
 Rodeau
 Rodolphe
-Rodé
 Rodéo
 Roger
 Roi
@@ -7527,7 +7494,6 @@ Tranquille
 Tranquitte
 Trasael
 Tremble
-Tremblé
 Treuil
 Triamon
 Trianon
@@ -7563,7 +7529,6 @@ Trou Bassin
 Trou Bois
 Trou Caiman
 Trou Canari
-Trou Caïman
 Trou Chouchou
 Trou Cochon
 Trou Cordon
@@ -7626,7 +7591,6 @@ Tyron
 Tâche
 Ténard
 Térou
-Térry
 Térési
 Têtard
 Tête Canal
@@ -7775,7 +7739,6 @@ Vital
 Viteau
 Vité
 Vivant
-Vièle
 Vlaud
 Vodry
 Vogues
@@ -7841,7 +7804,6 @@ Zumy
 Zèb Guinin
 Zèbre à Flèche
 Zémi
-Zéphir
 Zéphirin
 Zépine
 Zétrois
@@ -7849,7 +7811,6 @@ Zétrois
 Écharlotte
 Édouard
 Élien
-Éloi
 Étable
 Étang
 Étang Dole

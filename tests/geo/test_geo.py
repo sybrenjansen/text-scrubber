@@ -268,15 +268,16 @@ class NormalizeCityTest(unittest.TestCase):
             (
                 "San Jose",
                 [
-                    ("San José", "Argentina", 1),
-                    ("San José", "Costa Rica", 1),
-                    ("San Jose", "Philippines", 1),
-                    ("Sant Josep de sa Talaia", "Spain", 1),
-                    ("San Jose", "United States", 1),
+                    ('San Jose', 'United States', 1.0),
+                    ('San José', 'Spain', 1.0),
+                    ('San Jose Village', 'United States', 1.0),
+                    ('San Jose', 'Philippines', 1.0),
+                    ('San José', 'Argentina', 1.0),
+                    ('San José', 'Costa Rica', 1.0)
                 ],
             ),
         ]
-        
+
         for original, expected in test_cities:
             country_set = {country for _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
@@ -349,16 +350,19 @@ class NormalizeCityTest(unittest.TestCase):
             (
                 "Sioul",
                 [
-                    ("Sibol", "Philippines", 0.8),
-                    ("Sibul", "Philippines", 0.8),
-                    ("Siolo", "Italy", 0.8),
-                    ("Si'ou", "China", 0.889),
-                    ('Sioulin', 'China', 0.833),
-                    ("Sioux", "United States", 0.8),
-                    ("Siyŏul", "South Korea", 0.909),
-                    ("Le Soul", "France", 0.889),
+                    ('Siyŏul', 'South Korea', 0.9090909090909091),
+                    ("Si'ou", 'China', 0.8888888888888888),
+                    ('Sioulin', 'China', 0.8333333333333334),
+                    ('Sibol', 'Philippines', 0.8),
+                    ('Souil', 'France', 0.8),
+                    ('Soult', 'France', 0.8),
+                    ('Sibul', 'Philippines', 0.8),
+                    ('Soual', 'France', 0.8),
+                    ('Stoul', 'United Kingdom', 0.8),
                     ('Soula', 'France', 0.8),
-                    ("Stoul", "United Kingdom", 0.8),
+                    ('Souel', 'France', 0.8),
+                    ('Sioux', 'United States', 0.8),
+                    ('Siolo', 'Italy', 0.8)
                 ]
             ),
             (

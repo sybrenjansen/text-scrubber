@@ -22,7 +22,7 @@ Bastendorf, Baastenduerf
 Bavigne
 Beaufort, Beefort, Befort, Gemeng Beefort
 Bech, Gemeng Bech
-Bech-Kleinmacher, Bech-Maacher
+Bech-Kleinmacher, Bech-Maacher)
 Beckerich, Gemeng Biekerech
 Beggen
 Beidweiler, Beidler
@@ -101,8 +101,7 @@ Château Faubourg
 Cinqfontaines
 Clairefontaine
 Clemency
-Clervaux, Clerf, Cliärref, Gemeng Klierf, Kanton Clerf, Kanton Klierf, Klierf
-Clervaux, Canton de Clervaux, Cliärref, Gemeng Klierf, Kanton Clerf, Kanton Klierf
+Clervaux, Canton de Clervaux, Clerf, Cliärref, Gemeng Klierf, Kanton Clerf, Kanton Klierf, Klierf
 Colbette
 Colpach-Bas, Nidderkolpech, Niedercolpach
 Colpach-Haut, Obercolpach, Uewerkolpech
@@ -119,8 +118,7 @@ Deiffelt, Deewelt
 Dellen
 Derenbach, Déierbech
 Dickweiler
-Diekirch, Dikrech, Kanton Diekirch, Kanton Dikrech
-Diekirch, Dikrech, Dikrich, Gemeinde Diekirch, Stad Dikrech, Stad Dikrich, Ville de Diekirch
+Diekirch, Dikrech, Dikrich, Gemeinde Diekirch, Kanton Diekirch, Kanton Dikrech, Stad Dikrech, Stad Dikrich, Ville de Diekirch
 Differdange, Differdingen, Déifferdang, Gemeinde Differdingen, Gemeng Déifferdang, Gemeng Déifferdeng, Ville de Differdange
 Dillingen, Déiljen
 Dippach, Gemeng Dippech
@@ -151,7 +149,7 @@ Ernster
 Ernzen
 Erpeldange, Ierpeldeng
 Ersange, Ersingen, Ierseng
-Esch-sur-Alzette, Esch-Uelzecht, Esch-an-der-Alzette, Esch-an-der-Alzig
+Esch-sur-Alzette, Esch an der Alzette, Esch-Uelzecht, Esch-an-der-Alzig
 Esch-sur-Sûre, Esch-Sauer, Gemeng Esch-Sauer
 Eschdorf
 Eschette, Éischent
@@ -202,7 +200,6 @@ Grentzingen
 Grevels, Gréiwels
 Grevelscheuer
 Grevenknapp, Gréiweknapp
-Grevenmacher, Gréiwemaacher, Kanton Grevenmacher, Kanton Gréiwemaacher
 Grevenmacher, Canton de Grevenmacher, Gemeinde Grevenmacher, Gréiwemaacher, Kanton Grevenmacher, Kanton Gréiwemaacher, Stad Gréiwemaacher, Ville de Grevenmacher
 Grindhausen
 Grosbous
@@ -340,7 +337,6 @@ Mensdorf, Menster
 Mergenhof
 Merkholz, Mäerkels
 Merl, Märel
-Mersch, Gemeng Miersch, Kanton Mersch, Kanton Miersch, Miersch
 Mersch, Canton de Mersch, Gemeng Miersch, Kanton Mersch, Kanton Miersch, Miersch
 Merscheid, Mëtscheed
 Mertert, Gemeng Mäertert
@@ -429,7 +425,6 @@ Reichlange, Reichlingen, Räichel
 Reimberg, Rëmmereg
 Reisdorf, Gemeng Reisduerf, Reisduerf
 Remerschen
-Remich, Réimech
 Remich, Kanton Remich, Kanton Réimech, Réimech
 Reuland, Reiland
 Reuler, Reiler
@@ -524,7 +519,6 @@ Urspelt, Ischpelt
 Useldange, Gemeng Useldeng, Useldeng, Useldingen
 Vesquenhaff
 Vianden, Kanton Veianen, Kanton Vianden, Veianen
-Vianden, Veianen
 Vichten, Viichten
 Wahl, Wal
 Wahlhausen, Wuelessen
@@ -557,7 +551,6 @@ Weydig
 Wickelscheid
 Wickrange, Wickreng, Wickringen
 Wilmeshof
-Wiltz, Kanton Wiltz, Kanton Wolz, Wolz
 Wiltz, Canton de Wiltz, Commune de Wiltz, Gemeinde Wiltz, Gemeng Wolz, Kanton Wiltz, Kanton Wolz, Ville de Wiltz, Wolz, Wooltz
 Wiltzermühle
 Wilwerdange, Wilwerdang, Wilwerdingen

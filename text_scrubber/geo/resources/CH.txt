@@ -362,7 +362,7 @@ Balm bei Messen
 Balmberg
 Balmenegg
 Balmwies
-Balsthal, Бальсталь, 巴爾斯塔爾
+Balsthal, Balstal, 巴爾斯塔爾
 Baltenswil
 Balterswil, Bichelsee-Balterswil
 Baltschieder, 巴爾奇德爾
@@ -774,7 +774,7 @@ Brot-Plamboz
 Bruch
 Bruciata
 Bruderholz
-Brugg, 布魯格
+Brugg, Брюг, Брюгг, 布呂格
 Bruggen
 Brugglen
 Bruggäcker
@@ -799,7 +799,6 @@ Brändlisboden
 Brè
 Brémudens
 Brölberg
-Brügg, Брюг, Брюгг, 布呂格
 Brüggelbach
 Brügglen, Брюглен, 布呂格倫
 Brüglen
@@ -1002,7 +1001,7 @@ Calonico
 Calpiogna
 Calzo
 Calörtsch
-Cama, Cama GR, 卡馬
+Cama, Cama GR, Кама
 Camana
 Camarè
 Camasciora
@@ -2031,7 +2030,7 @@ Flumserberg Tannenbodenalp
 Flurlingen, 弗盧林根
 Fly
 Fläsch, Флеш, 弗萊施
-Flüelen, Флюелен, Флюйлен
+Flüelen, Флюйлен, Флюэлен
 Flüeli
 Flüelimatte
 Flüh
@@ -2210,7 +2209,6 @@ Genthalhütten
 Genthod, Жанто, 让托
 Gentilino
 Genève, Canton Ginevra, Canton de Genève, Canton of Geneva, Chantun Genevra, Geneva, Genevra, Genf, Ginevra, Kanton Genf, Repubblica e Cantone di Ginevra, Republic and Canton of Geneva, Republica ed Chantun Genevra, Republik und Kanton Genf, République et Canton de Genève, Женева, 日內瓦州
-Genève, Geneva, Genevra, Genf, Ginevra, Женева
 Ger
 Gerbio
 Geren
@@ -2277,7 +2275,6 @@ Giétroz
 Gland, Gland VD, 格朗
 Glaris, Davos Glaris
 Glarisegg
-Glarus, Glarona, Glaruna, 格拉魯斯
 Glarus, Glarona, Glaruna, 格拉魯斯
 Glashütten
 Glaspass
@@ -4411,7 +4408,6 @@ Neubad
 Neubrunn
 Neubrunnen
 Neuchâtel, Canton de Neuchâtel, Canton of Neuchâtel, Cantone Neuchâtel, Cantone di Neuchâtel, Chantun Neuchâtel, Kanton Neuenburg, Neuenburg, Repubblica e Cantone Neuchâtel, Republik und Kanton Neuenburg, République et Canton de Neuchâtel, Невшатель, 納沙泰爾州, 纳沙泰尔
-Neuchâtel, Neuenburg, Невшатель, 纳沙泰尔
 Neudorf
 Neuegg
 Neuendorf, Neuendorf SO, Нойендорф, 諾伊因多夫
@@ -5586,7 +5582,7 @@ Salategnas
 Salavaux
 Salen
 Salenstein, Заленштайн, 薩倫斯泰因
-Sales
+Sales, Саль, 薩勒
 Salez
 Salgesch, Salquenen, 薩爾格施
 Salins
@@ -6128,7 +6124,7 @@ Stegmatt
 Stehrenberg
 Steig
 Stein, Stein AG, Stein AR, Stein SG, Штайн, 斯泰因
-Stein am Rhein, Штайн-Ам-Райн, Штайн-на-Рейне
+Stein am Rhein, Штайн-ам-Райн, Штайн-на-Рейне
 Steinach
 Steinbergen
 Steinbergli
@@ -6252,7 +6248,6 @@ Susten
 Sutz
 Suvretta
 Syens, 西扬
-Sâles, Саль, 薩勒
 Sädel
 Säge
 Säriswil
@@ -6561,10 +6556,9 @@ Unter-Sulzberg
 Unter-Teufen, Teufen ZH
 Unter-Wohlen
 Unteraurüti
-Unterbach
+Unterbach, 下貝赫
 Unterbazenheid
 Unterberg
-Unterbäch, 下貝赫
 Unterbächen
 Unterdettigen
 Unterdorf
@@ -6912,7 +6906,7 @@ Waldenburg, Waldenburg BL, Вальденбург, 瓦尔登堡
 Waldhaus
 Waldheim
 Waldhäusern
-Waldi
+Waldi, Вельди, 韋爾迪
 Waldibrücke
 Waldkirch
 Waldried
@@ -6944,7 +6938,7 @@ Wampflen
 Wangen, Wangen SZ, Wangen b. Dübendorf, Wangen b. Olten
 Wangen an der Aare, Ванген-на-Аре, 阿勒河畔旺根
 Wangenried
-Wangi
+Wangi, Венги, 文吉
 Wangs
 Wanna
 Wanne
@@ -7135,10 +7129,8 @@ Wyssachen, Висахен, 維薩興
 Wyssbach
 Wyssthürli
 Wädenswil, Веденсвиль, 韋登斯維爾
-Wäldi, Вельди, 韋爾迪
 Wändel
 Wändhüslen
-Wängi, Венги, 文吉
 Wölflinswil, Вёльфлинсвиль, 韋夫林斯維爾
 Wöschnau
 Wüeri
@@ -7203,7 +7195,6 @@ Zuckenriet
 Zufikon, Цуфикон, 楚菲孔
 Zuflüe
 Zug, Zoug, Zugo, Цуг, 楚格
-Zug, Zoug, Zugo, Цуг
 Zugerberg
 Zullwil, Цульвиль, 楚爾維爾
 Zumdorf

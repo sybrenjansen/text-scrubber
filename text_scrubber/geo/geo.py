@@ -171,7 +171,7 @@ _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
                                       .remove_digits()
                                       .sub(r'-|/|&|,', ' ')
                                       .remove_punctuation()
-                                      .remove_suffixes({' si', ' ri', ' dong'})  # Set of formal city suffixes
+                                      .remove_suffixes({' si', ' Si', ' ri', ' Ri', ' dong', ' Dong'})  # Set of formal city suffixes
                                       .tokenize()
                                       .remove_stop_words({'der', 'do', 'e', 'le', 'im', 'mail'}, case_sensitive=True)
                                       .lowercase(on_tokens=True)

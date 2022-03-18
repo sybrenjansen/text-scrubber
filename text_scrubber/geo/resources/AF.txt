@@ -22,7 +22,7 @@
 'Abd ur Raḩmān Khān Kalā
 'Abd ur Raḩmān Khēl, Abdurrakhmankheyl'
 'Abd ur Raḩmān Khēl Kārēz, Abdurrakhmankheyl'-Karez
-'Abd ur Raḩmān-e Kargūd, 'Abd ol Raḩman-e Gargūd, 'Abd ol Raḩmān-e Kargūd, عبدالرحمن گرگود
+'Abd ur Raḩmān-e Kargūd, 'Abd ol Raḩmān-e Gargūd, 'Abd ol Raḩmān-e Kargūd, عبدالرحمن گرگود
 'Abd ur Raḩmānzaī, عبد الرحمانزی
 'Abd ur Raḩīm, عبد الرحيم
 'Abd ur Raḩīm Khēl, Abdurrakhimkheyl', عبد الرحيم خيل
@@ -303,7 +303,7 @@
 'Omar Khān Kalā
 'Omar Khān Kêlay, عمر خان كلی, قريۀ عمر خان
 'Omar Khān Lalandar
-'Omar Khēl, Umarkheyl', عمر خيل, عمر خیل
+'Omar Khēl, Умархейль, عمر خيل, عمر خیل
 'Omar Khēl Kêlay, Umarkheyl'kalay, قريۀ عمر خيل
 'Omar Khēlō Kêlay
 'Omar Kêlay, قريۀ عمر
@@ -422,7 +422,7 @@ Achik
 Achishkah
 Achāl
 Achīn, آچين
-Adam Khēl, Adamkheyl', ادم خيل
+Adam Khēl, Adamkheyl', آدم خيل, ادم خيل
 Aday
 Adchat Tantīl
 Adghalah
@@ -450,7 +450,7 @@ Adīnī
 Adīzaī, ادزی
 Adō Khēl, Adokheyl'
 Adōsō
-Adōzaī, ادوزی
+Adōzaī, ادوزای
 Adōzī
 Adōṟ, ادور
 Adūlaī
@@ -498,7 +498,6 @@ Akbar Dīn Kalā
 Akbar Khān Kêlay, اكبر خان كلی
 Akbar Khān Nāwah
 Akbar Khēl, Akbarkheyl', اكبر خيل, اکبر خېل
-Akbār Khēl
 Akhizīān, اخيزيان
 Akhlar, اخلر
 Akhpay
@@ -534,7 +533,7 @@ Akram Khān Kêlay
 Akram Khēl, Akramkheyl', آرام خيل
 Akram Kêlay
 Aktapa
-Akā Khēl, Akakheyl', اكا خيل
+Akā Khēl, Akakheyl', Саки, آكا خيل, اكا خيل
 Akā Khēl Kêlay
 Akān Kêlay, اکان کلی
 Akāzī
@@ -658,7 +657,6 @@ Alêkōzī
 Alêkōzō Gōsh Khānah, گوشخانۀ علئ پائین
 Alājarghah
 Alānī
-Alāshah
 Alāt
 Alīm
 Alīm Gul
@@ -670,7 +668,6 @@ Alō Kêlay, قريۀ الو
 Alōzī
 Alū Khēl, Alukheyl', آلو خيل
 Alū Khēl Suflá
-Alṯarghanah
 Amad Chīnah
 Amag, امگ
 Amanah
@@ -681,11 +678,10 @@ Amarān
 Amaysōzah
 Ambah Darah
 Ambakhsh
-Ambar
+Ambar, دمه امبار
 Ambarkhānah
 Ambarqōl, Ambarkul'
 Ambarān
-Ambār, دمه امبار
 Ambār Mēlah, انبار ميله
 Ambārgay
 Ambārgaī
@@ -706,10 +702,8 @@ Amrōd-e Suflá
 Amrōdah
 Amrōtak
 Amrūt
-Amrūtak
-Amān Khêl, Amankheyl', امان خیل
+Amān Khêl, Amankheyl', Chavul'kheyl', امان خيل, امان خیل, چاول خيل
 Amān Khān
-Amān Khēl, Amankheyl', Chavul'kheyl', امان خيل, چاول خيل
 Amān Kōṯ, امان كوت
 Amān Qōl, Amankul'
 Amānat Bābā
@@ -729,7 +723,7 @@ Amīr Jān Kêlay, قريۀ امير جان
 Amīr Kalā Galow, گلوی قلعهٔ امير
 Amīr Khān
 Amīr Khān Kêlay, قريۀ امير خان
-Amīr Khēl, Amirkheyl', امير خيل, اميرخيل
+Amīr Khēl, Амирхейль, امير خيل, اميرخيل
 Amīr Maḩbatah
 Amīr Muḩammad Khān Kêlay, قریۀ امير محمد خان
 Amōgay
@@ -739,7 +733,7 @@ Anawah-ye Kalān
 Anay
 Anaysh
 Anchagal Khūnē, Angal'khune, انچگل خونی
-Andar
+Andar, اندر
 Andar Kalā, قلعۀ اندر
 Andar Ābī, اندرابی
 Andarlachak Nāw
@@ -753,7 +747,6 @@ Andarābī
 Andarābīsāṯ, اندرابيسات
 Andarī
 Anday
-Andaṟ, اندر
 Andaṟish Bay
 Andaṟuk
 Andkhōy, Andkhvoy, اندخوي
@@ -812,7 +805,7 @@ Anā Kêlay, انا كلی
 Anāgay
 Anār
 Anār Butah
-Anār Bāgh, آنارباغ
+Anār Bāgh, آنارباغ, انار باغ
 Anār Darah, Shaykh Ābād, Анар Дара, انار دره, شیخ آباد
 Anār Jōy
 Anār Khēl, Anarkheyl', انار خيل
@@ -827,8 +820,6 @@ Anāwē, اناوی
 Anī Khān Khēl, Anikhankheyl', انی خان خيل
 Anīfī Kêlay
 Anḏah
-Anḏay
-Anḏaṟ
 Anḏwām
 Apardī
 Aparān
@@ -939,7 +930,6 @@ Arzunch
 Arzunchī
 Arzānān
 Arzīshk
-Arāl
 Arām
 Arām Khēl, Aramkheyl'
 Arāẕī, ارازی
@@ -965,7 +955,7 @@ Ashkāsham
 Ashkū
 Ashlīz
 Ashnafar
-Ashpān
+Ashpān, اشپان
 Ashpī Khwaṟ, شيلۀ اشپی
 Ashraf Khēl, Ashrafkheyl', اشرف خيل
 Ashraf Kêlay
@@ -1004,7 +994,7 @@ Asyah Khēl, Asiakheyl', آسيا خيل
 Asālat, اصالت
 Asōlmah
 Atah Khān Khwājah
-Atak
+Atak, اطك
 Atalay
 Atalān
 Atam Kalā, اتم كلا
@@ -1017,8 +1007,7 @@ Atsakzaī, اچکزی
 Atsakzaī-ye Gharbī, اچيكزئ غربی
 Atsakzaī-ye Sharqī, اچيكزی
 Atsakzō Sōznay, اچجزو سوزنی
-Atsar Khēl, Acharkheyl', اچر خيل
-Atsaṟ Khēl, Anarkheyl', اتسر خيل
+Atsar Khēl, Acharkheyl', Anarkheyl', اتسر خيل, اچر خيل
 Atsikah, اچكه
 Atī Mīr, اتمير
 Atī Saluq, Atī Salaq, اتی سلق
@@ -1156,7 +1145,6 @@ Aḏah, اده
 Aḏawar, Bibishil'gir
 Aḏwāl, Adval', ادوال
 Aḏē Şāḩib, ادی صاحب
-Aḏīzaī
 Aḏō, ادو
 Aḩad, احد
 Aḩmad Bēg, احمد بيگ
@@ -1187,7 +1175,6 @@ Aḩmadī Kêlay, احمدی كلی
 Aṟkh Bilanday, ارخ بلندی
 Aṟkhay, ارخی
 Aṟkhē
-Aṯak, اطك
 Aṯal
 Aṯal Wāl, Atal'val', اتلوال
 Aṯaṯī
@@ -1198,7 +1185,7 @@ Aṯī Khēl
 Aṯō Chīnah
 Aṯōzī
 Ba'ī, بئی
-Babajī
+Babajī, Бабаджи
 Babalī, ببلی
 Babar
 Babar Khwājah
@@ -1231,9 +1218,8 @@ Badrahī
 Badras
 Badray, بدری
 Badrāzār
-Badurzaī, بادرزی
-Badwān
-Badāl
+Badurzaī, بادرزی, بادورزی
+Badwān, بادوان
 Badāl Kārēz, Badal'karez
 Badāṉay Khūnē, بدانی خونی
 Badī, بدی
@@ -1241,7 +1227,7 @@ Badī Khēl, Badikheyl', بدی خيل
 Badīgal, بدگل
 Badīn, بدين
 Badīn Khān, Badīnkhān, Yadyīn Khān, یدین خان
-Badīn Khēl
+Badīn Khēl, Badinkheyl'
 Badō Kêlay
 Bagag-e Bālā
 Bagak
@@ -1307,7 +1293,6 @@ Bahādurgay, بهادرگی
 Bahādurzī
 Bahār, بهار
 Bahār Dūr
-Bahārak, Бахарак, بهارك
 Bahārak, Бахарак, بهارك
 Bahārestān
 Bahārkhān
@@ -1410,7 +1395,6 @@ Balūch Kêlay
 Balūch Shāh Nādir
 Balūchah
 Balūchābād
-Balūchī
 Balūts Kêlay
 Balūtsō Nāw, شيلۀ بلوچ
 Balūzaī
@@ -1478,7 +1462,6 @@ Banguliyah, Бангулиа, بنگليه
 Bangzār, Бенгзар, بنگزار
 Bangêsh
 Bangāw
-Bangēs̲h̲
 Bangēs̲h̲ay
 Bangī, بنگی
 Bangī Bāgh, بنگی باغ
@@ -1591,7 +1574,7 @@ Barah Kalā, قلعهٔ بره
 Barah Khān
 Barah Khān Khēl
 Barah Khānah
-Barah Khēl, Barakheyl'
+Barah Khēl, Barakheyl', Barankheyl', باره خيل
 Barah Kulālah, كلالهٔٔ بالا
 Barah Kushtah
 Barah Kī
@@ -1604,16 +1587,14 @@ Barah Sijinak, بره سجنك
 Barah Wazē, بره وزی
 Barah Ōgaṟay, بره اوگری
 Barak Jāy, Бараджай, برك جای
-Barakat, برکت
+Barakat, بركات
 Barakat Khān Kêlay
 Barakat Kōr
 Barakay
 Barakhānah Kārēz
 Barakhānzaī
-Baraki, Кукади
+Baraki, Кукади, بركی
 Baraki Barak
-Barakāt, بركات
-Barakī, بركی
 Barakī Qūchangatū
 Barambah
 Baramōgh
@@ -1636,7 +1617,7 @@ Bardukān
 Bardīz
 Barfī Khēl, Barfikheyl', برفی خيل
 Barg
-Barg-e Matāl, Bargi-Matal'
+Barg-e Matāl, Bargi Matal
 Bargaī
 Barghanah
 Barghanah Jōy
@@ -1692,11 +1673,10 @@ Barāt Kalāchah, قلعه چهٔ برات
 Barāt Khēl, Baratkheyl'
 Barāt Kārēz Kêlay
 Barātā
-Barātī
 Barātī Chalaghay, Barātī Chalah Ghī, براتی چله غی
 Barāīdārī
 Barī Kōṯ, بری كوت
-Barī Qōl, Barikul', بريقول
+Barī Qōl, Barikul', Barikull', بريقول
 Barīchī
 Barīgak
 Barīkī
@@ -1776,7 +1756,6 @@ Bayrgah
 Bayri, بيری
 Bayrjīnak
 Bayrānah
-Bayrī
 Baysakal
 Baysh Bātur
 Baysh Kapah, Бешкапа, بيش كپه
@@ -1802,7 +1781,7 @@ BazarTangi, WaghJan
 Bazari-Badakhshi, بازارٔ بدخشی
 Bazartū
 Bazgirān
-Bazgīr
+Bazgīr, بازگير
 Bazmah
 Bazāzī
 Baī Mughulī
@@ -1814,7 +1793,6 @@ Baḏuṟ
 Baḏā Khūnah
 Baṟ Aḏīnkhēl, Бар-Адинхейль
 Baṟ Kashmunḏ
-Baṟaki
 Baṟinah
 Baṯah Khēl, Batakheyl', بته خيل
 Baṯan, بتن
@@ -1932,7 +1910,7 @@ Braj
 Braj Kêlay
 Brutīā
 Brutīān
-Brêj Kêlay
+Brêj Kêlay, قريۀ برج
 Brēt Khēl
 Bu'duddīn, بعد الدين
 Budyā Khēl, Bud'yakheyl'
@@ -1952,7 +1930,7 @@ Bughōz Qum, Богозкум, بغوز قوم
 Buhārī Qōl, Бухарикуль
 Bujban
 Bujūk, بجوک
-Bukah, Бока, بكه
+Bukah, Бока, بكه, بوكه
 Bukhchah Jāy
 Bukhchajāy
 Bukhchū, بخچو
@@ -2120,7 +2098,6 @@ Bābā Şadīq, Баба-Садин, بابا صديق
 Bābā Şāḩib
 Bābā Şāḩib Kārēz, كريزٔٔٔ بابا صاحب
 Bābā-Zangī, Бабазанги
-Bābājī, Бабаджи
 Bābākar
 Bābākir Khēl, Babakirkheyl', بابكرخيل
 Bābārangī
@@ -2132,7 +2109,6 @@ Bābōlī
 Bābū
 Bābū Kalā
 Bābū Khêl, Babukheyl', بابو خیل
-Bābū Khēl, Babukheyl', بابو خیل
 Bābū Shaydā, بابو شيده
 Bābūs
 Bābūzaī
@@ -2144,7 +2120,6 @@ Bād Qāq
 Bād Qōl, Badkul'
 Bādagh
 Bādah Mālī, بادامالی
-Bāday
 Bādgah
 Bādghisak
 Bādghīsī
@@ -2160,9 +2135,7 @@ Bādrowak
 Bādur Chaman
 Bādur Chambar
 Bādurkah
-Bādurzaī, بادورزی
 Bādurzār
-Bādwān, بادوان
 Bādz
 Bādām Darah, Бадамдара
 Bādām Darah-ye Kalān
@@ -2177,9 +2150,6 @@ Bādāmak Kêlay
 Bādāmtōy
 Bādāmtū
 Bādār Mūsá Zā'ī
-Bādī
-Bādī Khēl
-Bādīn Khēl, Badinkheyl'
 Bādīn Kêlay
 Bādīnzaī
 Bādū Kêlay
@@ -2269,7 +2239,7 @@ Bāghgêy, باغگی
 Bāghgī, باغگی
 Bāghhā
 Bāghhā Jāh
-Bāghichah, باغيچه
+Bāghichah, Багича, باغيچه, باغچاه
 Bāghil Gat, Bagil'gal'
 Bāghisār
 Bāghiyān, Bag'yan
@@ -2281,20 +2251,16 @@ Bāghā, باغا
 Bāghāriq-e 'Ulyā, باغارقٔ عليا
 Bāghāriq-e Suflá, باغارقٔ سفلى
 Bāghēlah
-Bāghīchah, Багича, باغچاه
 Bāghō Kalā, باغو كلا
 Bāghūchār
 Bāgulzī
 Bāgū, باگو
-Bāhādur Khēl, Bakhadurkheyl', بهادر خيل
 Bāhō Khēl, Babukheyl'
 Bāj Deh, باج ده
 Bājgah
-Bājgāh
 Bājgīnah
 Bājgīr
 Bājowrī
-Bājowṟī
 Bājāwrī
 Bājī Kushtah
 Bāk, باك, باک ولسوالۍ‎
@@ -2311,7 +2277,6 @@ Bākurzī
 Bākī, باكی
 Bākōr Khēl, Bakorkheyl'
 Bākōrzaī
-Bākūrzī
 Bālay
 Bālbālak
 Bāliband
@@ -2319,7 +2284,7 @@ Bālinah Qōl, Balinakul'
 Bālinah Sōkhtah, Балинасохта, بالينه سوخته
 Bālinah-Ghiftū Nay Qal'ah, Балинагифту-Найкала, بالینه غیفتو نی قلعه
 Bālnah Bughzak
-Bālnah Qal'ah, Бальнакала
+Bālnah Qal'ah, Bal'nakala
 Bālnah Tūghay
 Bālnah-Kharbitak
 Bālā, بالا
@@ -2341,7 +2306,6 @@ Bālā Khēl, Balakheyl'
 Bālā Kārēz, بالا كاريز
 Bālā Kōh
 Bālā Mokhow-ye
-Bālā Murghāb
 Bālā Nasar
 Bālā Panayrak
 Bālā Qal'ah
@@ -2361,7 +2325,6 @@ Bālādah
 Bālānah Takhak
 Bālānah-Qirghō'ī, Балана-Киргой
 Bālānow
-Bālāy
 Bālāy Walī, بالای ولی
 Bālāzhaṟah
 Bālāḩişār
@@ -2376,15 +2339,12 @@ Bāmō Khēl, Bamokheyl', بامو خيل
 Bānak
 Bāndah Kachī
 Bāndah-ye Qāẕīā, Bandayi-Kaz'ya, بندۀ قاضی
-Bāndêh
 Bāndêh 'Az̧īm, بانده عظیم
 Bāndūl
 Bānjānī, بانجانی
 Bānzī
 Bānēw
-Bānōzaī
 Bānū Khēl
-Bānḏah, بانده
 Bānḏah Khazānah Dār
 Bānḏah-ye Bēmārān, بندۀ بيماران
 Bānḏuk, باندك
@@ -2402,7 +2362,6 @@ Bār Kanḏay, بار كندی
 Bār Khānah
 Bār-e Zarak
 Bārah Bāt, باربات
-Bārah Khēl, Barakheyl', Barankheyl', بره خيل
 Bārah-ye Junūbī
 Bārah-ye Shamālī
 Bārak, بارك
@@ -2417,9 +2376,8 @@ Bārig Āb
 Bārigzaī
 Bārikak
 Bārikak Ghar
-Bārikzaī, باركزی
+Bārikzaī, باركزائی, باركزی
 Bārikzaī Kêlay
-Bārizār
 Bārjah
 Bārkham
 Bārqūlī
@@ -2441,19 +2399,14 @@ Bārānābād
 Bārī
 Bārī Gāw, Barī Gāv, بری گاو
 Bārī Kalay, باری کلی, قريۀ باری
-Bārī Qōl, Barikull'
-Bārīgah
 Bārīk
 Bārīk Jōy
 Bārīkahhā
-Bārīkak
 Bārīkak-e Paytow Shōr
 Bārīkay
 Bārīkjō
-Bārīkzaī, باركزائی
 Bārīkāw, باريكاب
 Bārīkāw Qal'ah Wālī
-Bārīkī
 Bārīkī 'Ulyā
 Bārīkī Suflá
 Bārō
@@ -2478,7 +2431,6 @@ Bāsōz-e Bālā, Басози-Бала, باسوزٔ بالا
 Bāsūs
 Bātil
 Bātrān
-Bātāsh
 Bātūr
 Bātūr Kalā, قلعۀ باتور
 Bātūṟkhēl, Батурхейль
@@ -2507,16 +2459,13 @@ Bāy Tōb
 Bāy Yāwah
 Bāy Şūfī
 Bāyah
-Bāyan
 Bāyanlū
 Bāydīn Gak
 Bāyik, بايك
-Bāykah
 Bāykhō, بايخو
 Bāylam
 Bāylar
 Bāylōgh
-Bāyram
 Bāyêkza'ī
 Bāyān-e Bālā, بايانٔ بالا
 Bāyān-e Pā'īn, بايانٔ پائين
@@ -2536,7 +2485,6 @@ Bāzgal Nizhā, Bazgil'neza, بازگل نژه
 Bāzgay
 Bāzgul Kalā, Bazgul'kala
 Bāzgul Kêlay
-Bāzgīr, بازگير
 Bāzikāṉī
 Bāzirgūn, بازرگان
 Bāzit Khēl, Bazitkheyl', بازت خيل
@@ -2573,7 +2521,6 @@ Bāṯā, باتا
 Bē Burjak
 Bēbānak
 Bēbānī Kêlay
-Bēdak
 Bēdrah, بيدره
 Bēdād Kêlay, قريۀ بيداد
 Bēdār Kārēz, بيدار كاريز
@@ -2641,7 +2588,6 @@ Bīnī Sang, بينيسنگ, بينی سنگ
 Bīnī Shēr Afghān
 Bīnī Siyāh Sang
 Bīnīsang, بنی سنگ
-Bīrkah
 Bīrkah-ye Kalān
 Bīrīmak
 Bīst Paīkal
@@ -2668,12 +2614,11 @@ Bōgusht
 Bōhaṟah, بوهره
 Bōjī
 Bōkah, Бока, بوكه
-Bōkan
+Bōkan, بوكان
 Bōkatān
 Bōkhān, بوخان
 Bōkhān Khēl, Bokhankheyl'
 Bōkkham, بوك خم
-Bōkān, بوكان
 Bōkō, بوكو
 Bōkō Kêlay
 Bōlah Kowul, Болакавуль, بوله كوول
@@ -2707,7 +2652,7 @@ Bōrkham, بورخم
 Bōrnimī
 Bōrnābād
 Bōrskhānak
-Bōrī
+Bōrī, بوری
 Bōrī Khēl, Borikkheyl', بوری خيل
 Bōrī Kêlay, بوری كلی
 Bōrīā Bāf
@@ -2727,7 +2672,6 @@ Bōz
 Bōzah Kêlay
 Bōḏah, Бода, بوده
 Bōṟ
-Bōṟī, بوری
 Bōṯō
 Bū 'Alī
 Bū'īn, بوئين
@@ -2742,8 +2686,6 @@ Būdarbūn
 Būdigh
 Būdūnah
 Būghund
-Būghundak
-Būkah, بوكه
 Būksah
 Būksarī
 Būkshur, Бокшур, بوکشر
@@ -2788,13 +2730,10 @@ Būrghsān
 Būrghūn
 Būrgūch
 Būrkah, Бурка, بوركه
-Būrmah
 Būrnajōy
 Būrughsān
 Būrzaī
-Būrī
 Būrī Khēl Kêlay, Burikheyl'kalay
-Būrīā Bāf
 Būrīā Bāf-e 'Ulyā, Bur'ya-Bafi-Ulia
 Būrīā Bāf-e Suflá, Bur'ya-Bafi-Sufla
 Būrūghsanak
@@ -2812,7 +2751,6 @@ Būyah
 Būyah-ye Kādānak
 Būyrak
 Būṯay, بوتی
-Bṟêj Kêlay, قريۀ برج
 Chab Now, Чабнау, چبنو
 Chabal
 Chabalak
@@ -2836,9 +2774,8 @@ Chaghray Kêlay, قَریَۀ چَغرَی
 Chaghzār
 Chaghālānō Ghunḏêy, كوهٔ چغالان
 Chaghālī
-Chaghārī, چغاری
 Chaghīān
-Chahak
+Chahak, چاهك
 Chahak-e Suflá
 Chahā, Чаха, چا‌ها
 Chahār Awlīā
@@ -2957,7 +2894,7 @@ Chak Āw
 Chak-e 'Abdul
 Chak-e Wardak, Chaki Wardak
 Chakagak
-Chakah, چکه
+Chakah, Чака, چکه
 Chakah Jōy, جوئ چكه
 Chakah-ye Ghōchān
 Chakahgak
@@ -3010,7 +2947,6 @@ Chalmah Qazāq
 Chalowak
 Chalwarnī, Chal'varni
 Chalāw
-Chalāwak
 Chalōbah
 Chalūbiyak
 Chalūza'ī
@@ -3071,7 +3007,6 @@ Changay
 Changjay
 Changul
 Changāb
-Changāh
 Changān
 Changāzaī, چنگازی
 Changī Kêlay
@@ -3091,7 +3026,7 @@ Chapah Rāh, چپرا, چپهراه
 Chapak
 Chapak Goz̄ār
 Chapak Sarāy
-Chapar Qōl, Chaparkul', چپر قول
+Chapar Qōl, Чапаркуль, چپر قول
 Chapar Sērak
 Chapar Sōkhtah
 Chaparay
@@ -3112,7 +3047,6 @@ Chaqmah Chuqur
 Chaqmaq
 Chaqmaq Shaykh
 Chaqmaqly
-Chaqmāq
 Chaqīshlī, Чакышли, چقيشلی
 Chaqōl, چقول
 Char Rahi Qambar
@@ -3247,7 +3181,7 @@ Chihil Aīwān, Чильайван
 Chihil Burj, Chekhil'burdzh
 Chihil Bāghtūy Pashah'ī
 Chihil Bāghtūy Ūqī
-Chihil Dukhtarān, Chikhil'dukhtaran, Chil'-Dukhteran, Чельдухтаран, Чехильдухтаран, چهل دختران
+Chihil Dukhtarān, Chel'dukhtaran, Chikhil'dukhtaran, Chil'-Dukhteran, Чехильдухтаран, چهل دختران
 Chihil Dūz, Чильдуз
 Chihil Gazī, Chekhel'gazi, Chikhil'gazi, چهل گازی, چهل گضی
 Chihil Ghār, Chikhil'gar
@@ -3311,7 +3245,7 @@ Chinakzaī
 Chinakī Wasaţ, چينكئ وسط
 Chinakī-ye 'Ulyā, چينكئ علیا
 Chinakī-ye Suflá, چينكئ سفلى
-Chinar
+Chinar, قريۀ چنار, چنار
 Chinartu
 Ching-e Iskūr
 Chingay
@@ -3320,7 +3254,6 @@ Chingā
 Chingākh
 Chingī, چنگی
 Chinzaī, چنزئی
-Chinār, قريۀ چنار, چنار
 Chinār Darah
 Chinār Gā'ī, چينار گائی
 Chinār Jōy
@@ -3330,7 +3263,6 @@ Chinārak, چنارك
 Chināray
 Chināraī, چناری
 Chinārgay
-Chinārtū
 Chinārān
 Chinārī, چناری
 Chinō
@@ -3371,7 +3303,6 @@ Chownī Nowbahār
 Chowshah
 Chowṉay
 Chowṉêy, چونه, چونی
-Chowṉī
 Chuchak, چچک
 Chuchman, Чочман
 Chughah-ye 'Ulyā, Чугайи-Улиа
@@ -3450,29 +3381,22 @@ Chāh-e Mūsá Kalīm
 Chāh-e Sangī
 Chāh-e Shōrān
 Chāh-e Āhū
-Chāhak, چاهك
 Chāhātah
 Chāhī, چاهی
 Chāk, چاك
-Chākah, Чака, چاكه
 Chākah-ye Largah, Чакахи-Ларга, چاكۀ لرگه
 Chākar
 Chākar Khēl, چاكر خيل
 Chākarān
-Chākarī
 Chākh Māq
 Chākūl
-Chāl
 Chāl Khēl
 Chāluq
 Chālā Khēl, Chalakheyl'
-Chālāk
-Chāmṟī
 Chānak Khēl, Chanakkheyl'
 Chānay
 Chānāfah
 Chāprākh, چاپراخ
-Chāqmāq
 Chāqōlay, چاقالی
 Chāqū
 Chāqūlak, چقولك
@@ -3517,9 +3441,7 @@ Chīl
 Chīn Afghānī, تشينٔ افغانی
 Chīn Fārsī, تشينٔ فارسی
 Chīn Zaī, چين زائی, چينزی
-Chīnagī
 Chīnah, Чина, چينه, چینه
-Chīnah Kêlay
 Chīnah Zāghā
 Chīnah Āb
 Chīnah-ye Safēd
@@ -3527,14 +3449,11 @@ Chīnahgay
 Chīnahgaī, چنگی
 Chīnd Laghah
 Chīndak
-Chīngay
-Chīnār, چنار
 Chīnē, چينه, چينی
 Chīnē Ghunḏêy, كوهٔ چينی
 Chīnē Kalā, قلعهٔ چشمه, قلعهٔ چينی
 Chīnē Kêlay, قريۀ چشمه
 Chīnīwāl, Chinival'
-Chīnō
 Chīnō Sar, چینو سر
 Chīnōkhō Kêlay, قريۀ چينوخ
 Chīras
@@ -3590,7 +3509,6 @@ Chōṟ, چور
 Chūb Bāsh
 Chūchāh Shaybar
 Chūchān
-Chūghak
 Chūgāzaī
 Chūharah
 Chūhul, Chukhul'
@@ -3635,8 +3553,7 @@ Dabgay
 Dabōzay
 Dadgêy
 Dadā Mubārak
-Daftānī
-Daftāṉī, دفتانی
+Daftānī, دفتانی
 Dagah
 Dagdī
 Dah Burār
@@ -3668,7 +3585,7 @@ Dahan-e Arg
 Dahan-e Bad Āsyāb
 Dahan-e Baldar Ghūtū
 Dahan-e Barqah
-Dahan-e Bayd Qōl, Dakhani-Bedkul'
+Dahan-e Bayd Qōl, Dakhani-Bedkul', دهنه بادگول
 Dahan-e Bughristān
 Dahan-e Burālī
 Dahan-e Buzgirak
@@ -3721,7 +3638,6 @@ Dahan-e Ghujūr
 Dahan-e Ghujūrak
 Dahan-e Ghurghurī
 Dahan-e Ghār
-Dahan-e Ghārak
 Dahan-e Ghīghunak
 Dahan-e Ghōk
 Dahan-e Ghōr Bandak
@@ -3878,7 +3794,7 @@ Dahan-e Sādū
 Dahan-e Sāy
 Dahan-e Sāī
 Dahan-e Sīnak
-Dahan-e Sōkhtah
+Dahan-e Sōkhtah, دهنٔ سوخته
 Dahan-e Sōkhtah Qōl
 Dahan-e Sūrūnah
 Dahan-e Tagāb Shāh
@@ -3920,7 +3836,7 @@ Dahan-e Ţāq Masjid
 Dahan-e Ūrmūn
 Dahan-e Ḩasanak
 Dahan-e Ṯakah Ghāl, Dakhantakagal'
-Dahanah
+Dahanah, دهانه
 Dahanah 'Alī Bēg
 Dahanah Walī Murdah
 Dahanah-ye Darah
@@ -3953,7 +3869,6 @@ Dahān-e Arbayshān
 Dahān-e Arpaqōl
 Dahān-e Astarawā
 Dahān-e Azdeh
-Dahān-e Bayd Qōl, Dakhani-Bedkul', دهنه بادگول
 Dahān-e Baydak
 Dahān-e Baytūr
 Dahān-e Baḩristānī
@@ -3968,7 +3883,6 @@ Dahān-e Bērēmak
 Dahān-e Bībī Darah
 Dahān-e Bīsrak
 Dahān-e Būghah
-Dahān-e Būm
 Dahān-e Chahār Tūt
 Dahān-e Chihil Gazī, Dakhani-Chikhil'gazi
 Dahān-e Darah
@@ -3979,7 +3893,6 @@ Dahān-e Darahgak
 Dahān-e Darahhā
 Dahān-e Dayglīj
 Dahān-e Durum Burjak
-Dahān-e Dēwālak
 Dahān-e Dōshk
 Dahān-e Dōtā'ī
 Dahān-e Dū Āb
@@ -3988,7 +3901,6 @@ Dahān-e Dūzdān
 Dahān-e Espī Darak
 Dahān-e Falayzak
 Dahān-e Garmāb
-Dahān-e Gazak
 Dahān-e Ghalow
 Dahān-e Gharakundah
 Dahān-e Ghargharow, دهنٔ غرغراب
@@ -3996,7 +3908,6 @@ Dahān-e Gharghaītū
 Dahān-e Gharmah
 Dahān-e Ghulghulah
 Dahān-e Ghāl Mullā, Dakhani-Gal'mulla
-Dahān-e Ghār
 Dahān-e Ghāwah
 Dahān-e Gildān
 Dahān-e Gulbīnah, Dakhani-Gul'bina
@@ -4024,7 +3935,6 @@ Dahān-e Khamī
 Dahān-e Khayrayzah
 Dahān-e Khidāj
 Dahān-e Khisrow
-Dahān-e Khushkak
 Dahān-e Khwājah Şafā
 Dahān-e Khāshak
 Dahān-e Khōjū
@@ -4056,7 +3966,6 @@ Dahān-e Now Darah
 Dahān-e Now Galah
 Dahān-e Nowsum
 Dahān-e Nowṯakah
-Dahān-e Nālah
 Dahān-e Nāwêr
 Dahān-e Nāy
 Dahān-e Nēglēj
@@ -4073,7 +3982,6 @@ Dahān-e Qul
 Dahān-e Qumqul
 Dahān-e Quriq Sāy
 Dahān-e Qurqand, Дахани-Курканд, دهنٔ قرقند
-Dahān-e Qōl, Dakhani-Kul'
 Dahān-e Qōl-e Kōchak
 Dahān-e Qōl-e Ramah
 Dahān-e Rabāţak
@@ -4084,11 +3992,9 @@ Dahān-e Rāghmūsht
 Dahān-e Rāqōl, Dakhani-Rakul'
 Dahān-e Rēg-e Now
 Dahān-e Rēgī
-Dahān-e Rōghanī
 Dahān-e Rūmah
 Dahān-e Sabzak
 Dahān-e Sarmah Qul
-Dahān-e Saybak
 Dahān-e Saysalī, Дахани-Сайсали, دهنٔ سيسلی
 Dahān-e Seh Pāyah
 Dahān-e Shahr-e Sōkhtah
@@ -4100,28 +4006,23 @@ Dahān-e Shākhşak
 Dahān-e Shātō, دهن شاتو
 Dahān-e Shātū
 Dahān-e Shēwnow
-Dahān-e Shōr Āb
 Dahān-e Shōr Āb-e Ghaznīchī
 Dahān-e Shōrkak
 Dahān-e Shōrāb, Дахани-Шораб, دهنۀ شوراب
 Dahān-e Shōrāw
 Dahān-e Silī
 Dahān-e Siyāh Darah
-Dahān-e Siyāh Qōl
 Dahān-e Spīn Gāw
 Dahān-e Spīn Āw
 Dahān-e Sulţālī, Dakhani-Sul'tali
 Dahān-e Sumūch
 Dahān-e Surkhak
-Dahān-e Sāy
 Dahān-e Sīnay, Дахани-Синай, دهنٔ سينی
-Dahān-e Sōkhtah, دهنٔ سوخته
 Dahān-e Sūrpān
 Dahān-e Tabarghank, Дахани-Табарганк, دهنٔ تبرغنك
 Dahān-e Tabarghū, Дахани-Табаргу, دهنٔ تبرغو
 Dahān-e Tagak
 Dahān-e Tangī Azow
-Dahān-e Tanōr
 Dahān-e Taratū, دهنٔ ترهتو
 Dahān-e Tarpach
 Dahān-e Tujī
@@ -4138,7 +4039,6 @@ Dahān-e Walīān, Dakhani-Val'yan
 Dahān-e Yakhak
 Dahān-e Yakhan
 Dahān-e Zard Talah
-Dahān-e Zow
 Dahān-e Zānū
 Dahān-e Z̄ōaj
 Dahān-e Āb
@@ -4148,7 +4048,6 @@ Dahān-e Ābay
 Dahān-e Ābrūsī
 Dahān-e Āhan Fōlād
 Dahān-e Āsyāgak
-Dahān-e Āw
 Dahān-e Āw Khōrak
 Dahān-e Āwparān, دهنٔٔ آبپران
 Dahān-e Āwqāsh
@@ -4162,7 +4061,6 @@ Dahān-e Ūshay
 Dahān-e Ḩişār
 Dahān-e Ḩişārak
 Dahān-e Ḩūtō-Burūt
-Dahānah, دهانه
 Dahānah Ghār
 Dahānah-ye Karnaī
 Dahānah-ye Khirsī
@@ -4210,7 +4108,6 @@ Dam-e Durowna'ī
 Dam-e Jangal
 Dam-e Jōy, Дами-Джой, دمٔ جوی
 Damaki
-Damakī
 Damay
 Dambar, دمبر
 Dambūkah
@@ -4220,7 +4117,7 @@ Damgal Khūlah, Damgal'khula, دهانٔ دمگل
 Damray, دمری
 Damābak
 Danal
-Dand
+Dand, دند
 Dandah Panjān
 Dandowkaī, Дандукай, دندوكی
 Dandāb
@@ -4457,10 +4354,10 @@ Darī Dam, دردم
 Darīn, درن, درین
 Darīnah
 Darīw
-Darū
+Darū, دارو
 Darūn Zāw
 Darūnṯah
-Dasht
+Dasht, دښت
 Dasht Gumāb
 Dasht Lajām
 Dasht Qal'ah
@@ -4522,7 +4419,6 @@ Dastah Khēl, Dashtakheyl', دسته خيل
 Dastah-ye Gul, دسته گل
 Dastanay
 Dastasak
-Das̲h̲t, دښت
 Daulatkhan
 Dawlat Khēl, Daulatkheyl', دولت خيل
 Dawālgay, Dival'gay, دوالگی
@@ -4623,7 +4519,7 @@ Deh Tūt
 Deh Tūt Kārēz, ده توت كاريز
 Deh Walīd, دهوليد
 Deh Wardah, Дехварда, قريۀ ورده
-Deh Yak, Dekh'yak, دهيك
+Deh Yak, Dekh”yak, دهيك
 Deh Yak-e Bālā
 Deh Yak-e Pā'īn
 Deh Yak-e Suflá
@@ -4698,7 +4594,7 @@ Deh-e Ghowchī
 Deh-e Ghulām, قريۀ غلام
 Deh-e Ghāzī, دهٔ غازی
 Deh-e Gīm Raykhtah
-Deh-e Hazārah
+Deh-e Hazārah, دهٔ هرزاره
 Deh-e Hindū, دهٔ هندو
 Deh-e Hōratī
 Deh-e Ja'far
@@ -4769,7 +4665,7 @@ Deh-e Nakhak
 Deh-e Naz̧ar, دهٔ نظر
 Deh-e Nihāl, Dekhi-Nikhal'
 Deh-e Nishar, دهٔ نشر
-Deh-e Now, ده نو
+Deh-e Now, دهٔ نو
 Deh-e Nāder
 Deh-e Nūray, دهٔ نوری
 Deh-e Nūrullāh, دهٔ نور الله
@@ -4799,7 +4695,6 @@ Deh-e Ramazī, دهٔ رمزی
 Deh-e Risān
 Deh-e Rōd
 Deh-e Rōshan, Дехи-Рошан, دۀ روشن
-Deh-e Rōs̲h̲ān
 Deh-e Rōt-Muşalī, دهٔ روت مسلی
 Deh-e Sabz-e Khāş, ده سبزٔ خاص
 Deh-e Sabīl
@@ -4853,7 +4748,6 @@ Deh-e Ţālib
 Deh-e Ḩamzah, دهٔ حمزه
 Deh-e Ḩasan, Деххасан, قريۀ حسن
 Deh-e Ḩayāt
-Deh-e Ḩazārah, دهٔ هرزاره
 Deh-e Ḩişārak
 Deh-e Ḩājī, دهٔ حاجی
 Deh-e Ẕīā'uddīn, Dekhi-Z'yauddin
@@ -4897,7 +4791,7 @@ Digaz
 Dihishk
 Dihqān Khānah
 Diktōr
-Diktūr
+Diktūr, ديك تور
 Dil Wākh
 Dilak
 Dilakchī, دلكچی
@@ -4937,7 +4831,6 @@ Dirakhī Kalā
 Dirch
 Dirgah, درگه
 Dirgay
-Dirgāh
 Diringak
 Dirishah
 Dirkay
@@ -4971,7 +4864,7 @@ Doktor Pīr Muḩammad
 Dorostī, درستی
 Dowaṟ, دور
 Dowj
-Dowlanah
+Dowlanah, دولانه
 Dowlashah
 Dowlat
 Dowlat 'Alī
@@ -4998,8 +4891,6 @@ Dowlat-e Kōh, Даулати-Кох
 Dowlatyār, Dawlat Yar
 Dowlatzī
 Dowlatābād, Даулатабад
-Dowlatābād, Даулатабад
-Dowlānah, دولانه
 Dowr Kachārī, دور كچاری
 Dowr-e Rabāţ, Даври-Рабат, دورٔ رباط
 Dowra'īd
@@ -5272,7 +5163,6 @@ Dādō Khēl, Dadokheyl', دادو خيل
 Dādōzay
 Dādōzaī
 Dāg-e Nāşir, Даги-Насир, داگٔ ناصر
-Dāgah
 Dāgh-e Murdah
 Dāghān
 Dāgiān
@@ -5284,15 +5174,13 @@ Dākī
 Dālah
 Dālak
 Dālghah, دالغه
-Dālān
 Dālāntū
 Dālānī, دالانی
 Dālī Chār Bulaq
-Dāman
+Dāman, دامان
 Dāmanah
 Dāmanah-ye Darwāzah
 Dāmurdah
-Dāmān, دامان
 Dāmān Kêlay, قريۀ دامان
 Dāmān-e Khalak
 Dānah
@@ -5315,7 +5203,6 @@ Dārē
 Dārō Khēl, Darokheyl'
 Dārō Khēl 'Alam Khān
 Dārō Khēl Niyāzī
-Dārū, دارو
 Dārū Khān Kêlay
 Dārū Khēl, Darukheyl', دارو خيل
 Dārūzaī
@@ -5399,7 +5286,6 @@ Dēwār-e Yār Khān
 Dēwārah, ديواره
 Dēwārak
 Dēyak
-Dībah
 Dībah-ye Shashpar, Дибайи-Шашпар, ديبای ششپر
 Dībkan
 Dībā Kêlay
@@ -5407,7 +5293,6 @@ Dīdawān
 Dīdawāz
 Dīgal, دگل
 Dījman
-Dīktūr, ديك تور
 Dīn Muḩammad, دین محد
 Dīn Muḩammad Khān Kêlay
 Dīn Muḩammad Khūnah, دین محمد خونی
@@ -5427,7 +5312,6 @@ Dīwlī
 Dīwān
 Dīwānah, Дивана, ديوانه
 Dīwānah Qishlāq
-Dīzak
 Dīzā, دزا
 Dīāṟak
 Dō Burjah, Дубурджа, دو برجه
@@ -5515,7 +5399,6 @@ Dū Ābī Yaftal
 Dū Āw
 Dū Āwī
 Dūbandī, دوبندی
-Dūburjah
 Dūdah
 Dūdgāh
 Dūghay
@@ -5561,7 +5444,6 @@ Dūābī Ghōrband
 Dūāw, دو آب
 Dūāwū
 Dūāzdah Imām
-Dūṟī
 Ebrāhīmwāl
 Esfawr
 Eskinyah, Искинья, اسكنيا
@@ -5586,7 +5468,7 @@ Fakirburdzhi, فقير برجی
 Falakh Madik
 Falayzak
 Famqāsh
-Faqirān
+Faqirān, فقيران
 Faqīr, Факир, فقير
 Faqīr Kalā
 Faqīr Khān Khēl, Fakirkhankheyl', فقير خان خيل
@@ -5597,7 +5479,6 @@ Faqīr Shāh, فقير شاه
 Faqīrak
 Faqīray
 Faqīrābād, فقير آباد
-Faqīrān, فقيران
 Faqīrānō Kalā, قلعهٔ فقيران
 Faqīrānō Kêlay
 Faqīrī Kêlay, فقيری كلی
@@ -5659,12 +5540,10 @@ Fayẕ Muḩammad Kêlay
 Fayẕ Muḩammad Kārēz
 Fayẕ Muḩammad Qal'ah
 Fayẕullāh Khān, فيض الله خان
-Fayẕābād
 Fayẕō Kalā
 Fayẕōjān Kōr
 Faz̧il Muḩammad Kêlay, Fazl'mukhammed-Kalay, قریۀ فضل محمد
 Faīẕak, Файзак
-Faīẕābād
 Faīẕābād
 Faīẕābād-e Bālā
 Faīẕābād-e Pā'īn
@@ -5756,7 +5635,6 @@ Gadaṟ Khēl, Gadarkheyl'
 Gadrah
 Gadā Khēl, Gadakheyl', گدا خيل
 Gadā'ī
-Gadālak
 Gadāy
 Gadāy Darah
 Gadāy Khēl, Gadaykheyl', گدای خيل, گدای خیل
@@ -5870,7 +5748,7 @@ Ganḏabī
 Ganḏay Shaykhān
 Ganḏī Khēl, Gandikheyl', گندی خيل
 Gar Mēlah, گر میله
-Garay
+Garay, گری
 Garay-e Chishtī
 Garayamdād
 Garaybah
@@ -5945,7 +5823,6 @@ Garmak
 Garmak Chashmah
 Garmalī
 Garmsīr, Garmser
-Garmāb
 Garmābah
 Garmābak
 Garmābak-e Junūbī
@@ -5976,7 +5853,7 @@ Gaz-e Kayl
 Gaza'ī Kalān
 Gaza'ī Khōrd
 Gazah
-Gazak, گزك
+Gazak, گزک
 Gazak Kêlay
 Gazar
 Gazistān
@@ -5989,17 +5866,14 @@ Gazī
 Gazīrak
 Gaḏagak
 Gaḏal, گدل
-Gaḏalak
 Gaḏalay
 Gaḏalī
 Gaḏwaṟ Kêlay, قريۀ گدور
 Gaḏwāl, Gadval'
 Gaḏō Chīnah, گدو چينه
 Gaṟahwū
-Gaṟang, گرنگ
+Gaṟang, گړنگ
 Gaṟanḏay Kêlay, قریۀ گرندی
-Gaṟay, گری
-Gaṟmāb
 Gaṟī Kêlay, قريۀ گری
 Gaṯ Kalā, قلعهٔ گت
 Gaṯī Mēnah, مسكنٔ گتی
@@ -6036,7 +5910,6 @@ Ghalāt
 Ghalīl
 Ghalīm Birgiṯ
 Gham Bād
-Gham Bāḏ
 Gham Chīn
 Gham Khwār
 Gham-e Chowdī
@@ -6050,7 +5923,6 @@ Ghanjar
 Ghanī Kalāchah, قلعه چهٔ غنی
 Ghanī Kats, دشتٔ سيلابئ غنی
 Ghanī Khēl, Ganikheyl', غنی خيل
-Ghanḏay, غندی
 Ghar Ghaday
 Ghar Gharah
 Ghar Gharāb
@@ -6060,7 +5932,7 @@ Ghar Sang
 Ghar Sangak
 Ghar Tālah Kêlay
 Gharab Darah
-Gharak
+Gharak, Гарак
 Gharak-e 'Ulyā
 Gharak-e Bālā
 Gharak-e Pā'īn
@@ -6170,7 +6042,7 @@ Ghirjow-e Bālā
 Ghirōzār
 Ghiyās̄ Khēl, G'yashkheyl', غياث خيل
 Ghiyās̄uḏ Dīn Khān
-Ghizgay
+Ghizgay, غزگی
 Ghizêh Band
 Ghizēw
 Ghorband
@@ -6211,7 +6083,7 @@ Ghuchī
 Ghuchīnak, غوچينك
 Ghujurtū
 Ghujōrtū
-Ghujūr
+Ghujūr, Гуджур
 Ghujūrak
 Ghulbah, Gul'ba
 Ghulbah Gaz, Gul'vagaz
@@ -6328,15 +6200,10 @@ Ghār
 Ghār Jawīn
 Ghār Kōh, غاركوه
 Ghār Kōh Bānḏah, دهکٔ غاركوه
-Ghār Sang
-Ghār Sangak
 Ghār Taybah
 Ghār-e Bālā
 Ghār-e Shākī Nōkah, Гари-Шакинола, غارٔ شاكی نوكه
 Ghārah
-Ghārak, Гарак
-Ghārak-e 'Ulyā
-Ghārak-e Suflá
 Ghārbali
 Ghārsang
 Ghārā, Гара
@@ -6359,14 +6226,12 @@ Ghāzībī Khēl, Газибихейль, قاضيبی خيل
 Ghāzīābād
 Ghāzīābād-e Bālā, Газиабад-Бала, قاضيابادٔ بالا
 Ghāzīābād-e Pā'īn, Газиабад-Паин, قاضيابادٔ پائين
-Ghāṟah
 Ghāṟay, غاری
 Ghīkhtū, Гифту
 Ghīlang
 Ghīlang Kêlay
 Ghīwbā, غوبا
 Ghīwīch
-Ghīzgay, غزگی
 Ghōch Zamīn
 Ghōchān-e 'Ulyā
 Ghōchān-e Suflá
@@ -6391,7 +6256,6 @@ Ghōrah Kah
 Ghōrak
 Ghōrang, غرنگ
 Ghōray
-Ghōrband
 Ghōrchī Kêlay
 Ghōrdzam Kêlay, غوردزم كلی
 Ghōrghōrak
@@ -6439,11 +6303,8 @@ Ghūjah, Гуджа
 Ghūjarak
 Ghūjgird
 Ghūjirak
-Ghūjur
 Ghūjān
 Ghūjī
-Ghūjūr, Гуджур
-Ghūjūrak
 Ghūjūrak-e Suflá
 Ghūkakzār
 Ghūl Mēsh, Gul'mesh
@@ -6453,24 +6314,19 @@ Ghūldūrī
 Ghūlishking
 Ghūlmast, Gul'mast
 Ghūlparīdah, Gul'parida
-Ghūmay
 Ghūnān
 Ghūnḏ, غوند
 Ghūnḏ Kêlay
 Ghūnḏah Khēl, Gundakheyl'
-Ghūnḏah Sang
-Ghūnḏē
 Ghūnḏī Kêlay
 Ghūrak
 Ghūrzalān
-Ghūrī
 Ghūrī Sang
 Ghūrūch
 Ghūyihā
 Ghūzbah, غوزبه
 Ghūzik Darah
 Ghūziw
-Ghūzān
 Ghūṯī Chambar, غوټی چمبر
 Gidar Gū
 Gidar Khēl, Gidarkheyl'
@@ -6491,7 +6347,6 @@ Gilkand
 Gim Zard
 Giman
 Gimāk
-Gimān
 Ging
 Ginigar
 Ginākān
@@ -6531,7 +6386,6 @@ Girnay
 Girānī
 Girū, گرو
 Girū Qōl, Girukul'
-Girḏay
 Giskōṉ, گسكون
 Giwī, گوی
 Giyā Khēl, G'yakheyl', قیا خیل
@@ -6589,7 +6443,6 @@ Gudrī
 Gudām
 Gudām Darah-ye Ibrāhīm
 Gudān
-Gudārah
 Gudīān
 Gujur Khēl, Gudzhurkheyl', گجور خیل
 Gul Aḩmad Kōr, Gul'akhmedkor
@@ -6631,7 +6484,6 @@ Gul Naz̧ar Kōṯ, Gul'nazarkot
 Gul Pushtah
 Gul Qishlāq
 Gul Qudūq, Qōl Qudoq, قول قدق
-Gul Qūdūq
 Gul Shāh Kêlay, Gul'shakhkalay, گل شاه كلی
 Gul Tālā, Gul'tala
 Gul Wafā, Gul'vafa
@@ -6688,7 +6540,7 @@ Gulzār
 Gulzār Kêlay
 Gulā
 Gulā Khēl, Gulakheyl'
-Gulāb Khēl, Гулабхейль, گل آب خيل, گلاب خيل
+Gulāb Khēl, Gulabkheyl', گل آب خيل, گلاب خيل
 Gulāb Khūnah, گلاب خونی
 Gulāb Shāh Kêlay
 Gulābād
@@ -6725,8 +6577,6 @@ Gumbatē
 Gumbaz
 Gumbazah
 Gumbazī
-Gumbaz̄
-Gumbaz̄ī
 Gumkōrah
 Gumqōl, Gumkul'
 Gumrā'ī
@@ -6772,7 +6622,7 @@ Gurg 'Alī
 Gurg Kushtah
 Gurg Āb
 Gurg Āb Khōrd
-Gurgak, گرگک
+Gurgak, گرگك
 Gurgurak, گورگرك
 Gurguray
 Gurgān
@@ -6792,14 +6642,12 @@ Gurzan
 Gurzaī
 Gurzowānak
 Gurzād
-Gurzān
 Gurzīwān
 Gurāzān, گورازان
 Gurōn
 Gusaṉay, گسنی
 Gut Mīr Kêlay
 Guzar
-Guz̄ar
 Guz̄ar-e Bālā, Гузари-Бала
 Guz̄ar-e Langar
 Guz̄ar-e Nūrullāh Khān, گذرٔ نور الله خان
@@ -6809,7 +6657,6 @@ Guz̄arah, گذره
 Guz̄arah-ye 'Ulyā
 Guz̄arah-ye Suflá
 Guz̄arak
-Guḏah
 Guḏalay, گدلی
 Guḏalē, گدلی
 Guḏalē Kêlay
@@ -6820,7 +6667,6 @@ Guḏalī Yāray, Гудалиярай, گدلئ ياری
 Guḏul, گدل
 Guḏulāh, Гудула, گدله
 Guḏālī Alamajīd, Гудали-Аламаджид, گدلئ المجيد
-Guḏān
 Guḏānō Kêlay
 Guḏī Khēl
 Guḏōl
@@ -6852,7 +6698,6 @@ Gāgal
 Gāgizaī Kêlay, گاگزی كلی
 Gāgrah
 Gāgrē
-Gājah
 Gājiyān
 Gājōy
 Gāl Qōl
@@ -6864,7 +6709,6 @@ Gārizaī
 Gāryōn
 Gārāj-e Moḩammad Yūsofkhan
 Gārē
-Gārī Kêlay
 Gāsh
 Gāsh Bandī
 Gāshak
@@ -6903,7 +6747,6 @@ Gāz-e 'Ulyā, گازٔ علیا
 Gāz-e Soflá
 Gāz-e Suflá, گازٔ سفلى
 Gāzirgāh
-Gāṟah
 Gāṟyō Kêlay, Gar'yukalay
 Gāṟē Kêlay
 Gāṟī, گاری
@@ -6923,7 +6766,6 @@ Gīlūt, گیلوت
 Gīm Bāgh
 Gīm Sabz
 Gīn Jā'ī, گنجائی
-Gīrbayd
 Gīryū
 Gīrō, گرو, گيرو
 Gīrō Gharbī
@@ -6933,7 +6775,6 @@ Gīrō Qōl, Girukul'
 Gīrō-Qal'ah, Гирукала, گرو قلعه
 Gīrō-ye Jambud
 Gīrō-ye Sar-e Pul
-Gīrū
 Gīrūy Lūmān, Гируилуман, گيروی لومان
 Gīzhakaī
 Gīāwah-ye Pā'īn, Гьявайи-Паин, کیاوهٔ پائين
@@ -6976,8 +6817,7 @@ Gōr Āb
 Gōr-e Naz̧ar
 Gōrak
 Gōramay
-Gōrandah
-Gōranḏah, گورنده
+Gōrandah, گورنده
 Gōrchak, گورچك
 Gōrghalak-e 'Ulyā
 Gōrghalak-e Suflá
@@ -6998,7 +6838,7 @@ Gōsh Kham
 Gōsh Mīr
 Gōsh Mōntī
 Gōsh Takht
-Gōshah, Гоша, گوشه
+Gōshah, Гоша, گوخه, گوشه
 Gōshah Dūr
 Gōshak
 Gōsht Khōr-e Bālā
@@ -7007,7 +6847,6 @@ Gōshtah
 Gōshtal
 Gōsāladānak
 Gōsālah Khūnē, گوساله خانه
-Gōs̲h̲ah, گوخه
 Gōzay
 Gōzuk
 Gōḏal-e Parwīz, گودالٔ پرويز
@@ -7015,10 +6854,8 @@ Gōḏā Khêṟah, گودا خره
 Gōṟayān
 Gōṟum, گورم
 Gōṯkay
-Gūdar
 Gūdigak
 Gūdrān
-Gūdārah
 Gūdū Khēl
 Gūdūl Paytow, Гудульпетау, گدل پیتاو
 Gūgarī
@@ -7027,7 +6864,6 @@ Gūl Kalā, Gul'kala, گول كلا
 Gūl Tapah
 Gūlchah, Gul'cha
 Gūlā'ī
-Gūlī
 Gūmayn
 Gūndālī
 Gūpī-ye Mīr-e Shikār
@@ -7037,7 +6873,6 @@ Gūrbat
 Gūrjaī, گورجی
 Gūrzīd
 Gūzūn
-Gūḏalī
 Gṟêbāwah, گريباوه
 Hadō Kalā
 Haft Gudī
@@ -7060,7 +6895,7 @@ Hamrān
 Hamrānzaī
 Hamrōd
 Hamwār Bānḏah
-Hamzah Khēl, Khamzakheyl', همزه خيل
+Hamzah Khēl, Khamzakheyl', حمزه خيل
 Hamāyūn, Хамаюн
 Hangarā
 Hasht Naghōr
@@ -7074,7 +6909,6 @@ Haybatī
 Hazār Buz, Хазарбуз, هزار بز, هزاربز
 Hazār Bāgh, Хазарбаг, هزار باغ
 Hazār Bānḏah
-Hazār Būz
 Hazār Chashmah
 Hazār Darakht
 Hazār Jōmich, Хазарджомиг
@@ -7253,7 +7087,6 @@ Indzêr Gwāl, Indzhirgval'
 Indzêr Kêlay, انجر كلی
 Indzêr Payalah
 Indzêrak
-Indzêray, انجری
 Indzêrgay, انجرگی
 Indzêrgaī
 Indzêrkaī, انزركی
@@ -7327,7 +7160,6 @@ Iskām Darah, اسكام دره, درۀ اسكام
 Iskān
 Iskār
 Iskēchak
-Iskīchak
 Islim
 Islām, اسلام
 Islām 'Alī
@@ -7344,7 +7176,7 @@ Islām Āq Maīdān
 Islāmābād
 Ismullāh, اسمولاه
 Ismā'īl, اسمعیل
-Ismā'īl Khēl, Ismaal'kheyl', Smel'kheyl', Исмаилхейль, اسماعيل خيل, اسمعیل خيل
+Ismā'īl Khēl, Ismaal'kheyl', Smel'kheyl', Исмаилхейль, اسمعيل خيل, اسمعیل خيل
 Ismā'īl Kêlay
 Ismā'īl Qishlāq
 Ismāy Sanglākh, Исмайсанглах
@@ -7391,7 +7223,6 @@ Istānah
 Istāychah, استايچه
 Iswasabast
 Isārah
-Isārak
 Isī Khēl
 Isīqī-ye Bālā
 Isīqī-ye Pā'īn
@@ -7416,7 +7247,6 @@ Izābād, ازاباد
 Izīb Khēl
 Izīr
 Işhāgzay
-Işār
 Ja'far Bēg I, جعفر بيگ
 Ja'far Bēg II, جعفر بيگ
 Ja'far Bēg III, جعفر بيگ
@@ -7436,7 +7266,6 @@ Jabar, جبر
 Jabay
 Jabhah, جبهه
 Jabêh Kêlay, قريۀ جبه
-Jabār
 Jabār Kalā
 Jabār Khēl, Dzhabbarkheyl', جبار خيل
 Jabār Kêlay, قريۀ جبار
@@ -7499,7 +7328,7 @@ Jalāt Khān Kōr, Mukhammedgul' Dzhalatkhankor
 Jalāt Kêlay, قريۀ جلات
 Jalēzaī, جلیزی
 Jalīl, Dzhalil'
-Jalō Khēl, Dzhalokheyl'
+Jalō Khēl, Dzhalokheyl', جالو خيل
 Jalū
 Jam Khush
 Jam Qal'ah
@@ -7698,7 +7527,6 @@ Jilirān
 Jilow Gīr, Джалавгир, جلوگير
 Jilowgīr, جلوگير
 Jilowgīrak
-Jilowgīṟak
 Jilowrak
 Jilyow
 Jilālābād, Джалалабад
@@ -7777,7 +7605,6 @@ Jowzāghā
 Jowzān-e Junūbī
 Jowzān-e Shamālī
 Jowzār
-Jowzārī
 Jowzī Kalā
 Jowāliq
 Jowārgar
@@ -7831,7 +7658,7 @@ Junūbī Ḏūlah
 Juq Hā
 Jurg
 Jurghaytū
-Jurghātī
+Jurghātī, جورغاتی
 Jurgūn
 Jurm
 Jurmī
@@ -7854,8 +7681,6 @@ Jāk, جاك
 Jāktōr
 Jālah
 Jālah Wānān, جالوانان
-Jālō Khēl, Dzhalokheyl', جالو خيل
-Jālū
 Jām
 Jām Shērī
 Jāmarj-e Bālā
@@ -7904,14 +7729,11 @@ Jānān Kêlay, جانان كلی
 Jānēzī
 Jānī Kalā, جانی كلا
 Jānī Khēl, Dzhanikheyl', جانی خیل
-Jānī Khēl, Dzhanikheyl', جانی خیل
 Jānī Kōṯ, جانی كوت
 Jānōtsaī
 Jānūr, جانور
-Jār
 Jārchiyān, Dzharch'yan
 Jārchī
-Jārf
 Jārtī-ye Gharbī
 Jārtī-ye Sharqī
 Jārullāh, جارالله
@@ -7952,7 +7774,6 @@ Jī-Khushk
 Jī-Taymūr
 Jīdah, Джида, جيده
 Jīdah Būlāq, Джидабулак, جيده بلاغ
-Jīgdah
 Jīgdamī
 Jījah
 Jījanā-ye Bālā
@@ -7961,11 +7782,9 @@ Jījgah
 Jīkhay, جخی
 Jīl Gumshudah, Dzhil'gumshuda
 Jīlan, جيلان
-Jīlān
 Jīm
 Jīm Qal'ah
 Jīndak
-Jīndāk
 Jīngī Khēl, Dzhingikheyl', جینگی خيل
 Jīnū, جنو
 Jīow
@@ -8049,7 +7868,6 @@ Jōyan, جوين
 Jōybār
 Jōynū
 Jōyrān
-Jōyān
 Jōī Bāwarī
 Jōţōr Khūnah, جو تورخانه
 Jū Ţūr Khūnah
@@ -8066,7 +7884,6 @@ Jūnow
 Jūnīā, Dzhun'ya
 Jūnō Ghunḏêy, كوهٔ جونو
 Jūrah
-Jūrghātī, جورغاتی
 Jūshah
 Jūshinak
 Jūṟōbaī, جروبی
@@ -8077,7 +7894,7 @@ Kabarghah Khūnē
 Kabarghū
 Kabarghū-ye Bālā, كبرغوئ بالا
 Kabigak
-Kabul, کابل
+Kabul, كابل
 Kabābīān
 Kabēk
 Kabīrī Kêlay, قريۀ كبيری
@@ -8092,7 +7909,6 @@ Kachaṟah, كچره
 Kachkêy, کچکی
 Kachughū
 Kachā Khēl, Kachakheyl', کچا خیل
-Kachāṟ, كچر
 Kachāṟī
 Kachī
 Kachī Mūsá
@@ -8100,14 +7916,12 @@ Kachōlī
 Kachūr
 Kadah
 Kadahal, Kadakhal'
-Kadalak, كدلك
+Kadalak, كدالك
 Kadam Tāṉah, کدم تانه
-Kaday
+Kaday, كدی
 Kadilah, کدیله
 Kadu
-Kadālak
 Kadī Jān Murād, كدی جان مراد
-Kadū
 Kadū Khēl, Кудахейль, كدو خيل
 Kadū Kêlay
 Kadūl
@@ -8140,7 +7954,7 @@ Kaj Jowz
 Kaj Jōy
 Kaj Kalan
 Kaj Kalā
-Kaj Kōl, Kadzhkul', Каджколь
+Kaj Kōl, Kadzhkol', Kadzhkul'
 Kaj Lōlah
 Kaj Mazār
 Kaj Now
@@ -8215,7 +8029,7 @@ Kala-i-Hazar Kadam
 Kalacha
 Kalafgān
 Kalafzār
-Kalagay
+Kalagay, كلاگی
 Kalagaz
 Kalah Gird
 Kalah Khānah
@@ -8235,7 +8049,7 @@ Kalakān
 Kalarghān
 Kalarī, كلری
 Kalasabir
-Kalatah, كلته
+Kalatah, قلاته, كلته
 Kalatū
 Kalay
 Kalaych
@@ -8244,7 +8058,6 @@ Kalayi-Khan, قلعهٔ خان
 Kalayi-Khokumran
 Kalayi-Khudaidad
 Kalayi-Kuma, قلعهٔ كومه
-Kalaṯah, قلاته
 Kalbāt
 Kalbī
 Kalbī 'Abbās
@@ -8278,7 +8091,6 @@ Kalā Shēr, كلا شير
 Kalā Wālī, Kalaval'
 Kalā'ī Kalah, قلعه, كلا كله
 Kalāchah, قلعه چه
-Kalāgay, كلاگی
 Kalāghak
 Kalāgêy
 Kalājāt, كلاجات
@@ -8304,7 +8116,6 @@ Kalāntar
 Kalāntar Kêlay, قَریَۀ كَلانتَر
 Kalāt
 Kalāt-e Baygum
-Kalātah
 Kalātah-ye Naz̧ar Khān
 Kalātah-ye Ākhūndhā
 Kalātah-ye Ḩājī Rasūl
@@ -8334,7 +8145,7 @@ Kamah La'lpūrah, کمه لعل پوره
 Kamah Têrmay, كمه ترمی
 Kamah Āw Darah
 Kaman-i-Bisht
-Kamangar
+Kamangar, كمانگر
 Kamangarān
 Kamar, كمر
 Kamar Ghāṟah, كمر غاره
@@ -8342,7 +8153,6 @@ Kamar Kalā, قلعهٔ كمر
 Kamar Kay, كمركی
 Kamar Sar, سرٔ كمر
 Kamar Tumbidah
-Kamar Tumbīdah
 Kamar Zard
 Kamar-e Ghiyās̄
 Kamar-e Safēd
@@ -8386,7 +8196,6 @@ Kamān Gar
 Kamān Grān
 Kamānah
 Kamānakaī
-Kamāngar, كمانگر
 Kamī Khēl, Kamikheyl', كمی خيل
 Kamījōy
 Kamīn Kōṯ
@@ -8423,7 +8232,7 @@ Kandāb
 Kandē Kêlay, كندی كلی
 Kandī, كندی
 Kandī Bāgh, كندی باغ
-Kandī Khēl, Kandikheyl', كندی خيل
+Kandī Khēl, Кандихейль, كندی خيل
 Kandīl
 Kandū
 Kandū-ye Bālā
@@ -8460,10 +8269,7 @@ Kanḏow Kōṯ, کندو كوت
 Kanḏwālah
 Kanḏêr, کندیر
 Kanḏêy, كندی
-Kanḏāṟ, كندار
-Kanḏī, كندی
 Kanḏī Bar, Кандибар, كنديبر
-Kanḏī Khēl, Кандихейль, كندی خيل
 Kanḏī Yakah, Кандияка, كندی يكه
 Kanḏōgak
 Kanḏūn
@@ -8528,7 +8334,7 @@ Kargiwak
 Kargā, كرگا
 Kargāh
 Karim Kushtah, Karīm Koshteh, کریم کشته
-Karkanay
+Karkanay, كركنی
 Karkarak, كركرك
 Karkas
 Karkā'īch
@@ -8561,7 +8367,7 @@ Karun, كرون
 Karwaddīn
 Karwandah, كاروانده
 Karwaṟah
-Karwaṟaī, کروړی
+Karwaṟaī, كروری
 Karwaṟē, كروری
 Karwaṟī, كروری
 Karwāsh Khānak
@@ -8618,7 +8424,6 @@ Kashow Bānḏah, کسو بانده
 Kashān
 Kashānī, كشانی
 Kashāṉêy
-Kashāṉī, كشانی
 Kashī, كشی
 Kashū
 Kasim, قاسم
@@ -8648,7 +8453,7 @@ Katah Qinish
 Katah Qishlāq, Катакышлак
 Katah Qāq
 Katah Qūrish, Катакурыш, كته قورش
-Katah Sang, كتسنگ, كتهسنگ
+Katah Sang, كتسنگ, كته سنگ, كتهسنگ
 Katah Tāsh
 Katajīk
 Katak-e Bālā
@@ -8706,7 +8511,6 @@ Kazhah, كژه
 Kazhakī Kêlay
 Kazhkī
 Kaz̲h̲ Darah
-Kaz̲h̲ah, كژه
 Kaz̲h̲akay, کژکی
 Kaz̲h̲akaī, كژكی
 Kaz̲h̲līch
@@ -8715,33 +8519,22 @@ Kaīkāwut
 Kaīā
 Kaīān
 Kaţway
-Kaḏalak, كدلك
 Kaḏalay
-Kaḏay, كدی
 Kaḏāl
-Kaḏālak, كدالك
-Kaḏū
-Kaḏūl
 Kaṟ Mullā, كر ملا
 Kaṟam
 Kaṟamār, كرمار
 Kaṟang Kêlay, كرنگ كلی
-Kaṟkanay, كركنی
 Kaṟājē Khwaṟ, شيلۀ كراجی
 Kaṟājē Nizhūm, كراجی نژوم
 Kaṟūdī
-Kaṯah Darakht
 Kaṯah Kham
-Kaṯah Khēl
 Kaṯah Kōh
 Kaṯah Pāy
-Kaṯah Qal'ah, Катакала, قلعهٔ كته
-Kaṯah Sang, كته سنگ
 Kaṯah Sar
 Kaṯah Sēb
 Kaṯah Tālah
 Kaṯahpūr, کته پور
-Kaṯal
 Kaṯkay
 Kaṯmutīān, Katmut'yan
 Kaṯōk
@@ -8834,7 +8627,6 @@ Kham-e Garmak
 Kham-e Gird
 Kham-e Idrīs, خمٔ ادريس
 Kham-e Jārūfī
-Kham-e Jāṟūfi
 Kham-e Jūnow
 Kham-e Kaj
 Kham-e Kalān
@@ -8888,7 +8680,7 @@ Khamī Deh
 Khamīd Gul
 Khamīn
 Khamō
-Khanabad
+Khanabad, Khan Abad
 Khandah Low
 Khandak Kêlay
 Khandaq, خندق
@@ -8931,7 +8723,7 @@ Khar Tūtak
 Khar Ōlang
 Khar-e Tū, Хари-Ту, خرۀ تو
 Kharach
-Kharah, خره
+Kharah, خاره
 Kharah Sang
 Kharah-ye Ghālbozā
 Kharah-ye Kushkak
@@ -8960,12 +8752,11 @@ Khargōshī
 Kharistan, خرستن
 Kharjal
 Kharjōy
-Kharkanay, خركنی
+Kharkanay, خرکنی
 Kharkash
 Kharkat-e Bālā
 Kharkat-e Pā'īn
 Kharkaī, خرکی
-Kharkaṉay, خرکنی
 Kharkush
 Kharkūnak
 Kharlanday, خرلندی
@@ -8982,7 +8773,7 @@ Kharpajak-e Bālā
 Kharpajak-e Pā'īn
 Kharpakay, خر پكی
 Kharparīdah
-Kharqōl, Kharkul'
+Kharqōl, Харкуль
 Kharsang
 Kharshatal
 Kharsīn
@@ -9005,15 +8796,12 @@ Kharābah-ye Khwājah Murād
 Kharī Lūkasanghā
 Kharōt, Kharowṯ, خروت
 Kharōtān
-Kharōtī
+Kharōtī, خروتی
 Kharōţi Kêlay, قريۀ خروطی
-Kharōṯ, خروت
-Kharōṯī, خروتی
 Kharōṯō Kêlay
 Kharū, خرو
 Kharūf
-Kharūtī
-Kharūṯī, خروتی
+Kharūtī, خروتی
 Khas Deh
 Khas Palah, Хаспала
 Khasapaz, Хасапас, خسپز
@@ -9032,7 +8820,6 @@ Khawāl, Khaval'
 Khawāl-e Islām
 Khawālak
 Khawārak
-Khawāṟak
 Khayfch
 Khayfān
 Khaylān
@@ -9041,14 +8828,13 @@ Khayr Bayd
 Khayr Khwājah
 Khayr Kōṯ, خیر کوټ
 Khayr Muḩammad Kêlay, قريهٔ خير محماد, قريۀ خير محمد
-Khayrabad
+Khayrabad, خيرآباد
 Khayraday
 Khayrbayd
 Khayrkhānah
 Khayrman Sang, خرمن سنگ
 Khayruddīn
 Khayruddīn Kêlay, خير الدين كلی
-Khayrābād, خيرآباد
 Khayrāt Khānah-ye Pā'īn
 Khayrō
 Khayrō Kalay, Хайрукалай
@@ -9073,9 +8859,7 @@ Khaţāyān
 Khaţībābād
 Khaţīf, خطيف
 Khaţīwān, خطيبان
-Khaṟ Bayd
 Khaṟah Tīz̲h̲ah, خره تيگه
-Khaṟgilu
 Khaṟkanī Kêlay, قريۀ خركنی
 Khaṟsmīdu
 Khaṯak, ختك
@@ -9136,7 +8920,6 @@ Khitay
 Khitaī
 Khitgaī, ختگی
 Khitif
-Khitāy
 Khitīān
 Khiwuh
 Khiwāj
@@ -9145,7 +8928,6 @@ Khiyālay, Kh'yalay
 Khiyālgul, Kh'yal'gul', خيالگل
 Khiyālī, Kh'yali
 Khiyānō Kêlay, Kh'yanukalay, خيانو كلی, قريۀ خيان
-Khiţāy
 Khiṟaymān
 Khiẕer Khēl Kêlay
 Khiẕir Khēl, Khizirkheyl'
@@ -9253,7 +9035,7 @@ Khushk Kārēz
 Khushk Kōl, Khushkkol', خشك كول
 Khushk Now
 Khushk Nāw
-Khushk Qōl, Khushkkul', Khushkkull', خشک قول
+Khushk Qōl, Khushkkul', Khushkkull', خشك قول
 Khushk Qōl Kêlay, Khushkul'kalay
 Khushk Āb
 Khushk Ābah
@@ -9561,7 +9343,6 @@ Khādal, خادل
 Khādarah
 Khādil, Khadel'
 Khāfī
-Khāgak
 Khāghōliq
 Khāgilak
 Khāgish
@@ -9636,7 +9417,6 @@ Khāl-e Mīrzān
 Khālah Bazhgan, Халабашкан, خله بژگن
 Khālah Khēl, Khalakheyl'
 Khālah Zār
-Khālak
 Khāldār
 Khāldār Sāy
 Khāldārī Bālā
@@ -9654,7 +9434,6 @@ Khālō
 Khālō Khēl
 Khālō Khēl-e 'Ulyā, Khalokheyl'-Ulia, خالو خيلٔٔ علیا
 Khālō Khēl-e Suflá, خالو خيلٔٔ سفلى
-Khām
 Khāmbā'ī
 Khān
 Khān Amīr Kêlay
@@ -9726,7 +9505,6 @@ Khānizaī
 Khānjū
 Khānumī
 Khānzādahhā
-Khānābād, Khan Abad
 Khānān, خانان
 Khānān Khēl, Khanankheyl', خانان خيل
 Khānānō Kêlay, قريۀ خانان
@@ -9739,27 +9517,22 @@ Khānō Khēl, Khanikheyl', Khanokheyl', خانو خيل
 Khānō Kōr
 Khānōgī Kêlay, خانوگی كلی
 Khār, خار
-Khār Būlāq
 Khār Jōy, خار جوی
 Khār Kunḏak Kêlay, خار خندک كلی
 Khār Pusht
 Khār Zār, خارزار
 Khār-e Zār
-Khārah, خاره
 Khārgā Kêlay
-Khāristān
 Khārnī
 Khārpushtah
 Khārsāl, خارسال
 Khārtūt, خرتوت
 Khārzarī Sangtū
-Khārzār
 Khārzār-e Bālā
 Khārzār-e Pā'īn
 Khārzārī
 Khārā Kōh
 Khārānō Kōṯêy
-Khārū
 Khāsh
 Khāsh Rūd
 Khāshīm
@@ -9767,7 +9540,6 @@ Khāshō Kêlay
 Khāspak
 Khāsābah
 Khāsār
-Khāsāṟ
 Khātam Kalā, قلعۀ خاتم
 Khātā Khēl, خاتا خېل
 Khātūn
@@ -9779,8 +9551,6 @@ Khāwrah Khāwrē, خاوره خاوری, خاک خاور
 Khāwrakaī
 Khāwruk
 Khāwush
-Khāwāl
-Khāwī
 Khāwū
 Khāygīnah Jōy
 Khāyshī, خايشی
@@ -9789,7 +9559,6 @@ Khāş Orozgān
 Khāşadār
 Khāşah Kāmah, خاص كامه
 Khāşah Kār
-Khāşār
 Khāţir
 Khē Asp
 Khēl
@@ -9933,7 +9702,7 @@ Khūwand
 Khūzbagak
 Khṟay
 Kibay, كبی
-Kichak
+Kichak, كيچك
 Kichilay, كچلی
 Kichī
 Kighatū Kêlay
@@ -10128,7 +9897,6 @@ Kudugh
 Kudul, كدل
 Kudūk
 Kudūk Raḩmat
-Kudūl
 Kugil Sāy
 Kuhnadch
 Kuhnah
@@ -10219,7 +9987,6 @@ Kundir-e Pā'īn
 Kundr-i-Kapa
 Kundulī
 Kundur Khēl, Kundurkheyl'
-Kunduz, قندوز, كندز, کندوز
 Kunduz, Kunduz Province, قندوز, كندز, ولایت کندز, کندوز, کندوز ولايت
 Kunduz Tapah, Кундузтапа, قندوز تپه
 Kundêlān, کوندلان
@@ -10228,7 +9995,7 @@ Kundêr Wēsh, کندر ویش
 Kundāgh
 Kundālah, كوندله
 Kundālī, كوندالی
-Kundī
+Kundī, كوندی
 Kundīr Khēl, Kunderkheyl', کندر خيل
 Kundīrah
 Kungurat
@@ -10246,13 +10013,12 @@ Kunḏah, كنده
 Kunḏalām
 Kunḏay, كوندی, کندی
 Kunḏā
-Kunḏī, كوندی
 Kupak
 Kuraghī
 Kurah-ye Bālā
 Kurah-ye Mābayn
 Kurah-ye Pā'īn
-Kuran wa Munjan, 'Alāqehdārī-ye Korān va Monjān, Kiran wa Munjan, Koran va Monjan, علاقه داری کران و منجان
+Kuran wa Munjan, 'Alāqehdārī-ye Korān va Monjān, Kiran wa Munjan, Korān va Monjān, علاقه داری کران و منجان
 Kurank
 Kurchah
 Kurchêy
@@ -10314,13 +10080,11 @@ Kutub Khēl, Kutubkheyl'
 Kuyi-Galya
 Kuḏalī
 Kuḏalī Shaykhay
-Kuḏay
 Kuḏul-e Shādrōz, Кудули-Шадроз, کدلٔ شادروز
 Kuḏulak
 Kuḏêy
 Kuḏālak
 Kuḏī
-Kuḏīgak
 Kuḏōlak
 Kuḏū, كودو
 Kuṟam, كرم
@@ -10354,7 +10118,6 @@ Kābulī Farārī
 Kābulī Hā, كابلها
 Kābulī Qishlāq, Кабуликышлак
 Kābulīān, كابليان
-Kābṟatū, كابرتو
 Kāchah Paṯāl, Kachapatal'
 Kādānak
 Kādānak-e Bālā
@@ -10372,7 +10135,6 @@ Kāgal
 Kāh Kats, كاه كچ
 Kāh Khānah
 Kāhkash, كاهكش
-Kāj
 Kājā
 Kājī Khēl, Kadzhikheyl', كاجی خيل
 Kākal, كاكل
@@ -10382,7 +10144,6 @@ Kākaṟ Khān Kalāchah, كاكرخان كلاچه
 Kākaṟ Khēl
 Kākaṟ Kêlay
 Kākaṟ Mēnah
-Kākaṟān, كاكران
 Kākaṟān Kêlay
 Kākaṟī, كاكری
 Kākaṟō Gōsh Khānah, گوشخانۀ كاكر
@@ -10403,7 +10164,6 @@ Kālgī Darah
 Kālizaī
 Kāltah Kay
 Kālākhān
-Kālār
 Kālī
 Kālīs-e 'Ulyā, كالسٔ علیا
 Kālīs-e Suflá, كالسٔ سفلى
@@ -10424,12 +10184,10 @@ Kāntiwā-ye Suflá
 Kāntiwāy-ye 'Ulyā
 Kānzaī
 Kānāt-e Khalīr, قناتٔ خلير
-Kānḏaṟ, كاندر
 Kār Kāt
 Kār Kōṯ, كار كوت
 Kārak, كارك
 Kārdāw
-Kārgah
 Kārghêh Kārīn
 Kārgêh Zālay
 Kārgān, كارگان
@@ -10533,7 +10291,6 @@ Kārēz-e Kalāntar Lājward, کارېز کلانتر لاجورد
 Kārēz-e Karkōh
 Kārēz-e Karnayl, Karezi-Karnail', كاريزٔ كرنيل
 Kārēz-e Khalifah, كاريزٔ خليفه
-Kārēz-e Khalīfah
 Kārēz-e Khandaq
 Kārēz-e Khanjak
 Kārēz-e Khayrō, كاريزٔ خيرو
@@ -10660,7 +10417,7 @@ Kārēz-e Ḩusaīn, Карези-Хусейн, كاريزٔ حسين
 Kārēz-e Ḩājī
 Kārēz-e Ḩājī Muḩammad-Akram
 Kārēz-e Ḩājī Naz̧ar
-Kārēzak, كاريزك
+Kārēzak, كاريزک
 Kārēzay, كاريزای
 Kārēzaī
 Kārēzdī
@@ -10687,8 +10444,6 @@ Kāshkōṯ, كاش كوت
 Kāsān
 Kāsī
 Kāsīgar
-Kātak-e Bālā
-Kātak-e Pā'īn
 Kātaylām, كاتيلام
 Kāw
 Kāwburdah
@@ -10707,10 +10462,7 @@ Kāz̲h̲ah Kêlay, قريۀ كاژه
 Kāz̲h̲ah Tālah, كاژه تاله
 Kāz̲h̲êh, كارحه
 Kāz̲h̲êh Bilah, کاژه بله
-Kāḏū
 Kāṉōzaī
-Kāṟ
-Kāṟah
 Kāṯah Nāwêr, Катанавур, بركۀ كته
 Kāṯilī, كاتلی
 Kāṯlêy
@@ -10721,7 +10473,6 @@ Kēpat Khān Kêlay, كيپت خان كلی
 Kērālah, كيراله
 Kēshak
 Kīch
-Kīchak, كيچك
 Kīlbastalah, Kil'bastala
 Kīlōkas, كلوكس
 Kīm
@@ -10784,7 +10535,6 @@ Kōh-e Tāwah-ye Sakht
 Kōh-e Şayyād
 Kōhak, کوهک
 Kōhbakī
-Kōhistān, كوهستان
 Kōhistān, كوهستان
 Kōhistānāt
 Kōhistānī
@@ -10909,8 +10659,7 @@ Kōshah, كوشه
 Kōsīn, كوسين
 Kōsīn Khūlah
 Kōsūr
-Kōs̲h̲ah, كوشه
-Kōtah
+Kōtah, كوتاه
 Kōtah-Khwāb
 Kōtah-e Surkhak, Котайи-Сурхак, كوتاهٔ سرخك
 Kōtah-ye Bilbāz, Kotayi-Bil'baz
@@ -10933,15 +10682,12 @@ Kōtalī
 Kōtaray, كوتری
 Kōtarmah
 Kōtawêl, Kotval', کوتوال
-Kōtkaī
 Kōtsakah
 Kōtyā
 Kōtyā Khūlah, Kot'yakhula, دهنٔ كوتيا
 Kōtā
-Kōtāh, كوتاه
 Kōtāh Khurdah
 Kōtāh Khēl, Kotakheyl', Кутахейль, كوته خيل
-Kōtāh-ye Sōkhtah
 Kōtē Khēl, Kotekheyl', کوتی خيل
 Kōtī Surkh
 Kōtī-e Moghul, Kotayi-Mugul', كوتۀ مغل
@@ -10955,7 +10701,6 @@ Kōyān
 Kōḏay, كودی
 Kōḏgay
 Kōḏēlēakah
-Kōḏī
 Kōṉyak, كونيك
 Kōṟangal, Kurangal', كرنگل
 Kōṟay, کوړی
@@ -10966,7 +10711,6 @@ Kōṯ Kêlay
 Kōṯ Āwah
 Kōṯ-e 'Ashō
 Kōṯagī
-Kōṯah
 Kōṯah Jōy, كوتجوی
 Kōṯah-ye 'As̲h̲rō
 Kōṯah-ye Ghulām Rasūl, Kotayi-Gulyamrasul'
@@ -10984,7 +10728,6 @@ Kōṯgay, كوتگی
 Kōṯgaī
 Kōṯizī, كوتيزی
 Kōṯkay, كوتكی
-Kōṯkaī
 Kōṯkē
 Kōṯowāl, Kotaval', کوتوال
 Kōṯwāl, Kotval', کوتوال
@@ -11011,14 +10754,12 @@ Kūghaz
 Kūghī Kêlay
 Kūh-e Dag
 Kūh-e Khoshk
-Kūhnah Qal'ah, قلعهٔ كهنه
 Kūhī, کوهی
 Kūjay
 Kūk Chinār, Кукчинар, كوك چنار
 Kūl, كل
 Kūlah, كوله
 Kūlah Khisht
-Kūlanī
 Kūlbūgūt, كولبوگوت
 Kūlābī
 Kūlān
@@ -11032,8 +10773,6 @@ Kūn-e Gāw
 Kūn-e Paychgāh
 Kūnagh
 Kūnaw-e Sōkhtah, کونو سوخته
-Kūngī
-Kūpak
 Kūr Lamurkān
 Kūr Paytāb
 Kūrag
@@ -11050,10 +10789,8 @@ Kūshah-ye Paytow Qōl
 Kūshah-ye Pā'īn, Кушахи-Пайн, كوشۀ پائين
 Kūshah-ye Āshay
 Kūshast
-Kūshk
 Kūshkah Darah
 Kūshkāmīn
-Kūshlar
 Kūshī Bārīk
 Kūsūk
 Kūt
@@ -11121,8 +10858,6 @@ Kūzah Shêgah
 Kūzah Sijinak, كوزه سجنك
 Kūzah Wazē, كوزی وزی
 Kūzah Ṟay Bānḏah, كوزری بانده
-Kūḏay
-Kūḏī
 Kūḏī Khānah
 Kūṯikār
 Kḩarchān
@@ -11162,9 +10897,8 @@ Laftān, لفتان
 Laghah Wāt
 Laghak
 Laghakī
-Laghar
+Laghar, لاغر, لنگر
 Laghay
-Laghaṟ, لنگر
 Laghaṟah, لغره
 Laghaṟī Ta'mīrān, لغری تعمیران
 Laghmān
@@ -11236,8 +10970,8 @@ Lambē Kalā
 Landah Khēl, Landakheyl'
 Landahhā
 Landan
-Landar
-Landay Kêlay
+Landar, لندر
+Landay Kêlay, قريۀ لندی
 Landī Nāw
 Lang Murdah
 Langak
@@ -11256,11 +10990,8 @@ Langarkhana-Kalan
 Lanjī Khēl, Landzhikheyl', لنجی خيل
 Lanḏah Bōch, لنده بوچ
 Lanḏah Katskêy
-Lanḏah Khēl, Landakheyl'
-Lanḏar, لندر
-Lanḏay, Landī, لند, لنډی, لَندَئی
+Lanḏay, Landī, لند, لندی, لَندَئی
 Lanḏay Gal, Landigal', لندگل
-Lanḏay Kêlay, قريۀ لندی
 Lanḏay Kārēz, كاريزٔ لندی, لندی كاريز, لندی کاریز
 Lanḏay Sar Tangay, لندی سر تنگی
 Lanḏay Shāh, لندی شاه
@@ -11356,12 +11087,11 @@ Laḏūgak
 Laṟam
 Laṟêm Kats, لرم كچ
 Laṯ
-Laṯak
 Laṯêk
 Laṯēk Kêlay
 Lemat, لمت
-Lewan Khel, ليوان خيل
-Lich
+Lewan Khel, Levankheyl', ليوان خيل
+Lich, ليچ
 Liglāmah, Лиглама
 Ligī Khēl, لگی خيل
 Ligūlī Jar Khūnah
@@ -11372,7 +11102,7 @@ Lilaktōr
 Linar
 Lisaw
 Lishtī
-Liwān
+Liwān, لوان, ليوان
 Lizhdī
 Lmar Khēl, L'markheyl'
 Lmar Khēlō Zhawêrah, L'markheylu-Zavara
@@ -11418,7 +11148,7 @@ Lwaṟ Bājah Ghar, L'varbadzhagar
 Lwaṟ Bārīkī
 Lwaṟ Bīālêh, L'varb'yala, بیلهٔ بلند
 Lwaṟ Chaghnay, L'varchagnay
-Lwaṟ Changāzaī, L'varchangazay, لوړ چنگازی
+Lwaṟ Changāzaī, L'varchangazay, لور چنگازی
 Lwaṟ Dehpāl, L'vardekhpal'
 Lwaṟ Garm Āb, L'vargarmab, لور گرماب
 Lwaṟ Giriīān, L'vargir'yan
@@ -11467,8 +11197,6 @@ Lêmgaī, لمگی
 Lês̲h̲ōlō Kêlay
 Lāchapūr, لاچپور
 Lāchī Khēl, Lachikheyl', لاچی خيل
-Lādū
-Lāghar, لاغر
 Lāghar Jōy Kalā, قلعهٔ لاغر جوی
 Lāgharak
 Lāgharī, لاغری
@@ -11483,8 +11211,6 @@ Lājgaṉ, لاجگن
 Lājwar Kêlay
 Lāk Dēwāl, Lakdeval', لک دیوار
 Lākh Darāz
-Lākh Sang
-Lākhak
 Lākhsār
 Lākō Khēl, Lakokheyl', لاكو خيل
 Lākūlay, لاكولی
@@ -11509,7 +11235,6 @@ Lālā Khēl, Lalakheyl', لاله خيل
 Lālā Shahīd Kêlay, قريۀ لالا شهيد
 Lālāzaī
 Lālāṯū
-Lālī
 Lālī Kêlay, قريۀ لالی, لالی کلی
 Lām
 Lāmdōṟā
@@ -11540,7 +11265,6 @@ Lāykhōrak
 Lāyāwah
 Lāḏay
 Lāṟah Mōṟah
-Lāṯ
 Lāṯ Khēl, Latkheyl'
 Lēch
 Lēdur
@@ -11557,13 +11281,10 @@ Lēwanêy
 Lēwanī, ليونی
 Lēwān, ليوان, لیوان
 Lēwān Kalā, قلعهٔ ليوان
-Lēwān Khēl, Levankheyl'
 Lēwāt
 Lēz̲h̲ī Kêlay, لژی كلی
-Līch, ليچ
 Līj
 Līndō Kêlay
-Līwān, لوان, ليوان
 Lōbīah
 Lōdam
 Lōdlām
@@ -11642,7 +11363,6 @@ Lōyah Maṉah
 Lōyah Têrmay, لويه تیرمی
 Lōyah Ḏakah, لویه ډکه
 Lōḏah
-Lōṟah
 Lōṯ Kêlay
 Lōṯah, لوته
 Lōṯah Lām, لته لام
@@ -11655,12 +11375,8 @@ Lūdīnah
 Lūdīān, لوديان
 Lūgh Bigī
 Lūkah, لوكه
-Lūkah Sang
-Lūkah-ye Surkh
 Lūkasang
-Lūkh
 Lūkhah
-Lūkhak
 Lūkhak-e Kalān
 Lūkhak-e Khōrd
 Lūkū, لوكو
@@ -11701,7 +11417,7 @@ Machō Shēlah
 Machōm Kandawah
 Madak
 Madak Khēl, Madakkheyl', مدك خيل
-Madi Khel, مدی خيل
+Madi Khel, Madikheyl', مدی خيل
 Madichūt
 Madikī Kuhnah
 Madr
@@ -11812,7 +11528,7 @@ Malishijā
 Maliwē Kalā, قلعهٔ ملوه
 Maliwē Kêlay, قريۀ ملوه
 Malizaī
-Malizī, مليزی
+Malizī, مليزی, ملیزی
 Malkhān
 Malkhī
 Malkhūz Khwaṟ, Mal'khuzkhvar
@@ -11836,7 +11552,6 @@ Malī Kêlay, قريۀ ملی, ملی کلی
 Malīl
 Malīmah, Малима, ملمه
 Malīwāl, Malival'
-Malīzī, ملیزی
 Malōchān
 Malōkān, مالوكان
 Malōṟah, ملوره
@@ -11844,7 +11559,7 @@ Malū
 Malūk, ملوك
 Malūk Katsay, ملوك كچی
 Malūt Kêlay
-Mamah, ممه
+Mamah, Мама, ممه
 Mamakhtō
 Mamakāw
 Mamalīk
@@ -11881,7 +11596,7 @@ Mandzē, L'mandzhe
 Mandāw
 Mandētah
 Mandōl, Mundol', مندول ولسوالۍ‎
-Mandōzaī
+Mandōzaī, مندوزی
 Mang
 Mang Tapah, Мангтапа
 Mangah
@@ -11903,11 +11618,9 @@ Mangshayr
 Mangtāsh
 Mangul
 Mangwāl, Mangval'
-Mangāl
 Mangān
 Mangārah Tōy
 Mangī Kêlay, قريۀ منگی
-Mangō
 Mangō Khēl, Mangokheyl', منگو خيل
 Mangōlī, منگولی
 Mangōr
@@ -11964,7 +11677,6 @@ Manḏī
 Manḏī Baghalak
 Manḏī Ghulām Shāh
 Manḏīsār, مندی سار
-Manḏōzaī, مندوزی
 Manṯakah
 Manṯī, منتی
 Maorabar
@@ -11979,7 +11691,7 @@ Marah Warah
 Marak
 Marange
 Maranjān
-Marbūlāq
+Marbūlāq, ماربلاق
 March
 Mard Ghā'ib
 Mard Kalā, قلعهٔ مرد
@@ -12032,7 +11744,7 @@ Maryam
 Maryam Gōrah, Mar'yamgora
 Maryam Nānaykzaī, Mar'yam-Nanekzai
 Maryāṉī
-Marzak
+Marzak, مارزك
 Marā Shaykh
 Marāh
 Marānī
@@ -12090,7 +11802,6 @@ Masāw
 Masēzêy Kêlay, قَریَۀ مَسِیْزَی
 Masīn
 Masīzaī
-Masīzī
 Mata
 Matik
 Matrakay
@@ -12123,7 +11834,7 @@ Maytar Gōḏalay
 Mayā Khēl, M'yakheyl', ميا خيل
 Mayū, ميو
 Mazak
-Mazar
+Mazar, مزار
 Mazayk Dasht
 Mazdūr Kalā
 Mazdūrak
@@ -12138,7 +11849,6 @@ Mazrah
 Mazrābād-e Junūbī
 Mazrābād-e Shamālī
 Mazrīn Kats
-Mazār, مزار
 Mazār Bāy Khwājah
 Mazār Khēl, Mazarkheyl', مزار خيل
 Mazār Kêlay, مزار كلی
@@ -12199,7 +11909,6 @@ Maḩmūd-e Yamar-e 'Ulyār
 Maḩmūd-e Yamar-e Suflá
 Maḩmūdābād
 Maḩmūdī
-Maṉah, منه
 Maṉah Kêlay
 Maṉē
 Maṉē Kêlay
@@ -12253,7 +11962,7 @@ Mingajik
 Mingajik-e Farārī
 Mingajik-e Qulighajar
 Mingak
-Minzī
+Minzī, مينزی
 Minārē Mīān, منارهٔ ميان
 Minārē Pāy, Минарепай, منارۀ پای
 Minārē Sar, Минаресар, منارهٔ سر
@@ -12268,19 +11977,19 @@ Miriz
 Mirwais
 Mirza Muhammad Sa'id
 Mirzā 'Az̧īm
-Mirzā Khēl, Mirzakheyl'
-Mirzā'ī
+Mirzā Khēl, Mirzakheyl', ميرزا خيل
+Mirzā'ī, ميرزا
 Mirā Jān Kêlay, ميرا جان كلی
 Mirājān Khēl, Miradzhenkheyl'
-Mirān, مران
-Mirān Khēl
+Mirān, مران, میران
+Mirān Khēl, Mirankheyl', ميران خيل
 Mirō
 Miskarhā
 Misqōlak-e Bālā
 Misqōlak-e Pā'īn
 Mist
 Misīngarō
-Mitah
+Mitah, میته
 Mitar
 Mitrānī
 Miyā Khēl, M'yakheyl', ميا خيل
@@ -12294,7 +12003,7 @@ Miyān Jōy Kêlay
 Miyān Khēl, Mayankheyl', ميان خيل
 Miyān Kêlay, قريۀ ميان, میان کلی
 Miyān Kārēz
-Miyān Qōl, Miankul', Miyankul', ميان قول
+Miyān Qōl, Miankul', Миянкуль, ميان قول
 Miyān Rōdī, Mīānrūdī, میان رودی
 Miyān Shākh
 Miyānah, ميانه
@@ -12367,7 +12076,6 @@ Mughulzaī, Mugul'zay, مغلزای
 Mughulzī Kêlay, Magul'zikalay, قريۀ مغولزای
 Mughulān
 Mughū
-Mughūl
 Muhammad 'Alam Khan
 Muhammad 'Omar
 Muhammad 'Omar Khan
@@ -12376,9 +12084,9 @@ Muhammad Ayub
 Muhammad Hashim
 Muhammad Hosayn
 Muhammad Khan
-Muhammad Khel, محمد خيل
+Muhammad Khel, Mukhammedkheyl', محمد خيل
 Muhammad Sidiq
-Muhammad Ya'qub, محمّد یعقوب
+Muhammad Ya'qub, محد یعقوب, محمّد یعقوب
 Muhammad Zaynal, Moḩammed Zaynal
 Muhmand, محمند
 Muhmandān, Момандан, محمندان
@@ -12474,7 +12182,7 @@ Mullā Khudāy Raḩm Kêlay
 Mullā Khālō Kêlay
 Mullā Khāmō
 Mullā Khān Muḩammad
-Mullā Khēl, Molakheyl', Mulakheyl', Mullakeyl', Муллахейль, ملا خيل
+Mullā Khēl, Molakheyl', Mulakheyl', Mullakeyl', Mullakheyl', ملا خيل
 Mullā Khēl Kêlay
 Mullā Kundil
 Mullā Kōchay, قريۀ ملا كوچی
@@ -12517,7 +12225,6 @@ Mullā Ūzī
 Mullā Ḩaẕrat
 Mullā Ḩusaīn
 Mullā'ī
-Mullāiyān, ملايان
 Mullākaī
 Mullāmar Jōy, ملا مرجوی
 Mullāyam, ملايم
@@ -12547,7 +12254,6 @@ Munjānah
 Munār, مناره
 Munār-e 'Ulyā
 Munār-e Suflá
-Munārah
 Munārī, مناری
 Munī
 Munī Kêlay, قريۀ مونی
@@ -12615,7 +12321,7 @@ Murī Khēl, Murikheyl', موری خيل
 Murīd
 Murōy-e Bālā
 Mush Tōr
-Mushakah
+Mushakah, موشكه
 Mushkin, مشكن
 Mushkānī
 Mushkī
@@ -12703,7 +12409,6 @@ Muḩammad Karīm Kêlay
 Muḩammad Karīm-e Chūrmī
 Muḩammad Khwājah, محمد خواجه
 Muḩammad Khān Kêlay, قريۀ محمد خان
-Muḩammad Khēl, Mukhammedkheyl', محمد خيل
 Muḩammad Khēlō Kêlay, قريۀ محمد خيل
 Muḩammad Kichah
 Muḩammad Kêlay, محمد کلی
@@ -12727,7 +12432,6 @@ Muḩammad Sharīf
 Muḩammad Shāh
 Muḩammad Shāh Bānḏah
 Muḩammad Tāshī
-Muḩammad Ya'qūb, محد یعقوب
 Muḩammad Ya'qūb Kalāchah, قلعه چهٔ محمد يعقوب
 Muḩammad Ya'qūb Khūnah, Mukhammed'yakub-Khuna, محمد یعقوب خانه
 Muḩammad Yār Chambar, Mukhammed”yar-Chambar
@@ -12787,7 +12491,6 @@ Mêrghah, مرغه, میرغه
 Mêrkē Khēl, Merkekheyl', میرکی خیل
 Mêrsinzī
 Mêryānī, مريانی
-Mêryāṉī, مريانی
 Mêrīānay, Mer'yanay
 Mêshwāṉī, مشوانی
 Mêtsiyāngah, Mech'yanga, مچيانگه
@@ -12808,7 +12511,6 @@ Mādil Khēl, Madil'kheyl'
 Mādim Kalā
 Mādkūlam
 Mādī Kats, دشتٔ سيلابئ مادی
-Mādī Khēl, Madikheyl'
 Māgay
 Māgh
 Māh Shams
@@ -12823,8 +12525,7 @@ Māhīgīr, ماهيگير
 Māhīān, Махьян, ماهيان
 Mājamal
 Mākah
-Mākaki
-Mākakī, Karam Shāh, Karamshāh, کرم شاه
+Mākaki, Karam Shāh, Karamshāh, کرم شاه
 Mākwān Kêlay, قریۀ ماکوان
 Mākēl
 Mākōlah
@@ -12841,17 +12542,14 @@ Mālmōnjak
 Mālmōrak
 Mālā Sar
 Mālān
-Mālī Khēl, Malikheyl'
-Mālīzaī
 Māmad Kalā, قلعهٔ مامد
 Māmad Qōlī
 Māmadī
-Māmah, Мама
 Māmakah
 Māmatē
 Māmundā, مامندا
 Māmā Ismā'īl
-Māmā Khēl, Mamakheyl', ماما خيل
+Māmā Khēl, Мамахейль, ماما خيل
 Māmā Kārēz, كاريزٔ ماما
 Māmāgul Khwaṟ, Mamagul'khvar, ماما گل خور
 Māmū Kêlay
@@ -12872,8 +12570,8 @@ Mānjī
 Mānjī Kêlay
 Mānkī
 Mānī Khēl, Manikheyl'
-Mānō
-Mānū
+Mānō, مانو
+Mānū, مانو
 Mānūwāl, Manuval'
 Māpān
 Māqah
@@ -12885,9 +12583,6 @@ Mār Khōr, Мархор
 Mār Kōh
 Mār Qōl, Markul', مار قول
 Mār Qōlak
-Mārah
-Mārbūlāq, ماربلاق
-Mārch
 Mārchō Khūnē
 Mārikī
 Māristān
@@ -12899,7 +12594,6 @@ Mārqul
 Mārsīngay, مارسنگی
 Mārtsā Khūnē
 Mārwā
-Mārzak, مارزك
 Mārzêk
 Mārāb, ماراب
 Mārānō Zowar
@@ -12909,10 +12603,8 @@ Māsamūt
 Māsamūt-e Bālā
 Māsamūt-e Pā'īn
 Māsh
-Māshak
 Māshingzaī, مشنگزی
 Māshāl
-Māshī
 Māshī Khēl, Mashikheyl'
 Māshī Kêlay, قریهٔ ماشی
 Māshīn Kalā
@@ -12931,7 +12623,6 @@ Māyil
 Māyimāsh Kanḏah, خندقٔ مايماش
 Māyling-e Pā'īn
 Māylīng-e Bālā
-Māymay
 Māyān
 Māyōb Kalā, قلعۀ مايوب
 Māzbō
@@ -12942,10 +12633,8 @@ Māz̧ilā Faqīr
 Māṉakêy
 Māṉêy, ماری
 Māṉī Kêlay, قريۀ مانی
-Māṉō, مانو
 Māṉō Khēl, Manokheyl', مانا خيل
 Māṉōgay, مانوگی
-Māṉū, مانو
 Māṉū Kalā, قلعهٔ مانو
 Māṉū Kêlay
 Mēkh Kōrah
@@ -12990,7 +12679,6 @@ Mīngal
 Mīngūwān
 Mīnqōlak
 Mīnzaī
-Mīnzī, مينزی
 Mīnā Khēl
 Mīnā Wad
 Mīnār
@@ -13038,7 +12726,7 @@ Mīr Jōy, Мирджой, مير جوی
 Mīr Khudāy Kêlay
 Mīr Khwājah Khēl, Мирходжахейль, مير خواجه خيل
 Mīr Khwājahhā
-Mīr Khān Khēl, Mirkhankheyl', ميرخان خيل
+Mīr Khān Khēl, Мирханхейль, ميرخان خيل
 Mīr Khānay
 Mīr Khānābād
 Mīr Khānī, ميرخانی
@@ -13110,13 +12798,11 @@ Mīrzā Kamar
 Mīrzā Khān
 Mīrzā Khān Kārēz
 Mīrzā Khānō Kêlay, قريۀ ميرزا خان
-Mīrzā Khēl, Mirzakheyl', ميرزا خيل
 Mīrzā Kêlay
 Mīrzā Muḩammad Esḩāq
 Mīrzā Muḩammad Kalāchah, قلعه چهٔ ميرزا محمد
 Mīrzā Sayyid Muḩammad
 Mīrzā Wulang
-Mīrzā'ī, ميرزا
 Mīrzāgī, ميرزگی
 Mīrzāiyān, مرزايان
 Mīrzāwāl, Mirzaval', ميرزاوال
@@ -13133,19 +12819,15 @@ Mīrābād-e Suflá
 Mīrājān
 Mīrājān Kōṯē
 Mīrālzī
-Mīrān, مران, میران
-Mīrān Khēl, Mirankheyl', ميران خيل
 Mīrān Şāḩib, ميران صاحب
 Mīrānzā'ī
 Mīrāwān
 Mīrāzī Kêlay
-Mīrō
 Mīrō Khēl Kêlay, Mirukheyl'kalay, ميرو خيل كلی
 Mīrō Wāl Mīr Khān, Miroval'mirkhan, مير اوول مير خان
 Mīrōgul Kêlay, Mirogul'kalay, قَریَۀ ميروگُل
 Mīsh Khēl, Mishkheyl'
 Mīshak, Мышак, ميشک
-Mītah, میته
 Mītar Kowṯī, میتر کوټی
 Mīw Khēl, Mivkheyl', مو خیل
 Mīz Ghunḏêy, كوهٔ ميز
@@ -13207,7 +12889,6 @@ Mōmand Kalā
 Mōmanday
 Mōmin Khān Kêlay, قَریَۀ مُومِن خان
 Mōmin Khēl, Mominkheyl', موعمن خيل
-Mōminābād
 Mōmō Khēl
 Mōmōzaī
 Mōnay, مونی
@@ -13223,7 +12904,6 @@ Mōrkī
 Mōrmindah, مورمنده
 Mōryanī, موريانی
 Mōryāṉ
-Mōryāṉī
 Mōrēz Kêlay, قريۀ موريز, موريز كلی
 Mōrī Khēl, Murikheyl'
 Mōrīgak, مورگك
@@ -13249,7 +12929,6 @@ Mūmah
 Mūmam
 Mūmar Khān
 Mūndah Chinār, منده چنار
-Mūndī
 Mūndūl
 Mūnikharū
 Mūnjī
@@ -13258,7 +12937,6 @@ Mūqābād
 Mūr Būlāq, مور بلاغ
 Mūr Shaykh, Муршех, مر شيخ
 Mūrchah Khēl, Murchakheyl', مورچه خيل
-Mūrchal
 Mūrichāq
 Mūrinkī
 Mūrpāy
@@ -13271,7 +12949,6 @@ Mūsh Khānah
 Mūsh Khēl, Mushkhal', موش خيل
 Mūshak, مشك
 Mūshak Kārēz
-Mūshakah, موشكه
 Mūshakaī, موشكی
 Mūshakān, موشكان
 Mūshay
@@ -13295,11 +12972,10 @@ Mūsá Khēl Kêlay, قريۀ موسى خيل
 Mūsá Kêlay, قريۀ مسی, قريۀ موسى, موسى کلی
 Mūsá Kārēz, كاريزٔ موسى
 Mūsá Liq
-Mūsá Qal'ah, Musa Qala, Musa Qaleh
+Mūsá Qal'ah, Musa Qala, Mūsá Qal'eh
 Mūsá Qishlāq, Мусакышлак
 Mūsá Zaī, موسى زائی, موسى زای, موسىزائی, موسىزی
 Mūsázaī
-Mūsā Zaī
 Mūt Khēl, Mutkheyl', موت خيل
 Mūtah
 Mūtah Chīnah, چشمۀ مته
@@ -13361,9 +13037,9 @@ Nakhshī
 Nakhsī Chāh, Нахсичах
 Nakil'
 Nakum Khēl
-Nakām
+Nakām, ناكام
 Nal, Nol'
-Nalah
+Nalah, ناله
 Nalak
 Nalbandān
 Nalbast
@@ -13409,7 +13085,7 @@ Nar Kōh
 Naramtā
 Narang, نرنگ
 Narasp
-Naray
+Naray, نری
 Naray Jabah, جبيهٔٔ تنگ
 Naray Kêlay, نری غر, نری كلی
 Naray Kōṯ
@@ -13446,7 +13122,7 @@ Nasar
 Nashar
 Nashir
 Nashrīn-e Bālā
-Nasir
+Nasir, ناصر
 Nasirbek
 Naskilī
 Naspatān
@@ -13517,7 +13193,7 @@ Nayzār
 Nayzār-e Paytow Qōl
 Nazand, نازاند
 Nazbī
-Naz̄rābād
+Naz̄rābād, نظرآباد
 Naz̄īr Khēl, Nasirkheyl'
 Naz̧ar Bāy
 Naz̧ar Bēg
@@ -13538,7 +13214,6 @@ Naz̧ar Mēnah
 Naz̧ar Wāl, نظر وال
 Naz̧argul Kêlay, Nazarkul'kalay
 Naz̧argāh
-Naz̧rābād, نظرآباد
 Naz̧īm Khēl, Nazimkheyl'
 Naz̧īr Khān Kêlay, نظیر خان كلی
 Naz̧īr Kārēz
@@ -13554,14 +13229,13 @@ Naşrullāh Khēl, Nasrullakheyl'
 Naşrābād
 Naşrī
 Naşīr Bālā
-Naşīr Khēl, Nasirkheyl', نصير خيل
+Naşīr Khēl, Nasirkheyl', ناصر خيل, نصير خيل
 Naşīr Kārēz
 Naşīr Pā'īn
 Naḩrī Kārēz
 Neshar
 Nevay Deh
 Ngāndē, نگاندی
-Ngānḏē, نگاندی
 Ni'amataī, نعمتی
 Ni'mat
 Ni'mat Khēl, Nimatkheyl', نعمت خیل
@@ -13669,10 +13343,9 @@ Now Shēr
 Now Sōkhtah
 Now Tānī
 Now Tūt
-Now Warīd, Науваред, Науварид, نو وارد, نو وريد
+Now Warīd, Науваред, Науварид, نو وارد, نو وريد, نوورید
 Now Warīd Khwājah Rushnāyī, Науварид-Ходжа-Рошнайи, نو وارد خواجه روشنائی
 Now Warīd Maīdān, Науварид-Майдан, نوورید میدان
-Now Wārid, Науварид, نوورید
 Now Wārid Labak, Науварид-Лабак, نو وارد لبک
 Now Wārid Qipchaq
 Now Wārid Shilkhaī, Науварид-Шильхай, نو وارد شلخی
@@ -13813,14 +13486,12 @@ Nêwī Wayrānah
 Nêwī Şafah, Нави-Сафа, ناوی صفا
 Nêwī Ḏagar
 Nā Khēl
-Nā'ib Khēl, Naibkheyl'
+Nā'ib Khēl, Naibkheyl', نايب خيل
 Nā'ibargī
 Nā'ibān
-Nā'īb Khēl, Naibkheyl', نايب خيل
 Nā'īb Rafīq
 Nā'īb Wālêh, نایب وله, نایِب والَه
 Nābarhō, نابرهو
-Nābarhū
 Nād-e 'Alī
 Nāday
 Nādir Khēl, Nadirkheyl'
@@ -13835,22 +13506,18 @@ Nāgwān
 Nāgū
 Nājiyān Kalā, Nadzh'yankala, قلعهٔ ناجيان
 Nājō
-Nājōy
 Nājūhā
-Nāk
 Nākhum Bīrah
 Nākhīl
 Nākhīl Junūbī, Nakhil'-Dzhanubi
 Nākhīl Shamālī
 Nākhūnē
-Nākām, ناكام
 Nākām Kalā
 Nākī Khūnē
 Nākī Nār
 Nākōṟā, ناكورا
 Nākūdak
 Nāl Shērah, Nal'shera
-Nālah, ناله
 Nālah'ī
 Nālah-ye Kalān, Налайи-Калан, نالۀ كلان
 Nālah-ye Khōrd, Налайи-Хурд, نالۀ خرد
@@ -13859,13 +13526,11 @@ Nālān
 Nālāw
 Nālī
 Nālī Kanḏow
-Nālū
 Nāmak
 Nāmardzī, نامرزی
 Nāmdār Kalā, قلعهٔ نامدار
 Nāmdār Mēnah, نامدار مینه
 Nān Bāyī
-Nāngah
 Nāngal, نانگل
 Nāngêh Sar
 Nānkōs, نانكوس
@@ -13878,8 +13543,6 @@ Nār Darah
 Nār-e Kalān, نارٔ كلان
 Nār-e Rowẕah, نارٔ روضه
 Nārak
-Nāray
-Nārghān
 Nārinak Chīnah, چشمهٔ نارينك
 Nārmāsī
 Nārwan
@@ -13896,7 +13559,6 @@ Nāsū
 Nāt Khēl
 Nātsāpah, ناچاپه
 Nātār, ناتار
-Nātāṟ, ناتار
 Nāw
 Nāw Burdah
 Nāw Būlāq
@@ -13996,13 +13658,10 @@ Nāwêr-e Sham
 Nāwêr-e Zardak
 Nāwī
 Nāy Jōy
-Nāy Qōl
 Nāy-e Bālā
 Nāy-e Mullā Gadāy
 Nāy-e Shēr Aḩmad
-Nāyak
 Nāyak Khūlah, نايك خله
-Nāychah
 Nāyiq, Nāyeq, نایق
 Nāyisk, نايسك
 Nāzak
@@ -14012,16 +13671,12 @@ Nāz̧ir Kalā
 Nāz̧irān
 Nāīlāj
 Nāş Furōsh, Насфоруш
-Nāşir, ناصر
 Nāşir Kalā, ناصر كلا
 Nāşir Khān Khēl, Nasirkhankheyl', ناصر خان خيل
 Nāşir Khān Khūnah
-Nāşir Khēl, Nasirkheyl', ناصر خيل
 Nāşir Kêlay
 Nāşirān
 Nāşirī
-Nāṉgah
-Nāṟay, نری
 Nēk Muḩammad Khēl
 Nēk Naz̧ar Kêlay
 Nēkbal, نيكبل
@@ -14033,25 +13688,21 @@ Nēkō Wulah, نيكو وله
 Nīak
 Nīchkah
 Nīkeh
-Nīkêh
 Nīkêh Gānō Kêlay
 Nīkêhzaī, نيكهزی
 Nīl-e 'Ulyā
-Nīlay
 Nīljōy
 Nīlkhān, نيل خان
 Nīlāw
 Nīlī
 Nīm Deh
 Nīm Shēr
-Nīmakay
 Nīmnānay
 Nīmqōlak
 Nīmrōzī, نيمروزی
 Nīnak-e Bālā
 Nīnak-e Pā'īn
 Nīs Kōṯ, نيس كوت
-Nīshār
 Nīstī Kōt, نيستی كوت
 Nīsān, نيسان
 Nīw Māmūr Khēl, N'yumamurkheyl', نیو مامور خیل
@@ -14109,9 +13760,8 @@ Nūrsowlī Jāy, نورسولی جای
 Nūrul Dīn, نور الدين
 Nūrullāh
 Nūrulḩaq Kêlay, Nurul'khakkala
-Nūrza'ī
+Nūrza'ī, نورزی
 Nūrzayō Kārēz, كاريزٔ نورزی
-Nūrzā'ī, نورزی
 Nūrzī
 Nūrā Khān Kêlay, نورا خان كلی
 Nūrābād-e Bālā
@@ -14148,7 +13798,7 @@ Pachīgrām
 Pachīr, پچير
 Pachīr wa Āgām
 Padagī
-Padah
+Padah, پده
 Padah-ye Kaj, پدۀ كج
 Padah-ye Khalīl, Padayi-Khalil', پدۀ خلیل
 Padah-ye Lāgharī
@@ -14230,7 +13880,7 @@ Palōtsaī, پلوچی
 Palūtsī, پلوچی
 Palūtsō Kêlay, قريۀ پلوچو
 Pamnāw
-Pamqāsh, Памкаш
+Pamqāsh, Памкаш, پام قاش
 Panah
 Panang Zyān, Panangz'yan, پننگزيان
 Panangzaī, پننگزی
@@ -14310,7 +13960,6 @@ Parwah'ī
 Parwan
 Parwarah
 Parwarzaī
-Parwaṟzaī
 Parwānah
 Parwānchī, Парванчи
 Parwāndah
@@ -14376,7 +14025,7 @@ Pashimandara
 Pashkī
 Pashmikah
 Pashmī Qal'ah
-Pashtān
+Pashtān, پشدان
 Pashtūn Kōṯ
 Pashān
 Pashāyil
@@ -14408,7 +14057,7 @@ Patahgak
 Patak, پاتك
 Patang Chīnah
 Patank
-Pataṉ
+Pataṉ, پتان
 Patigay
 Patishī
 Patlān, پتلان
@@ -14462,15 +14111,12 @@ Paīwand Kushtah, پيوند كشته
 Paīwand-e Mūsá Khēl, Payvandi-Musakheyl', پيوندٔٔ موسى خيل
 Paţyah Wuṯah, Pat'yavuta, پطيه وته
 Paţyah-e Raḩīm Bēg, Pat'yayi-Rakhimbek, پتيهٔٔ رهيم بيگ
-Paḏah, پده
 Paḏahgak
 Paṉêy, پنی
 Paṉō Kêlay
 Paṟāw
 Paṟāyen
-Paṟō Khēl, Parokheyl'
 Paṯay, پتی
-Paṯān, پتان
 Paṯān Khēl, Patankheyl', پتان خیل
 Paṯān Kêlay, قريۀ پتان
 Paṯō Khēl, Patokheyl'
@@ -14539,7 +14185,6 @@ Piyō
 Pizgarān
 Piţlah
 Piḏah, Пида, پده
-Piṯlah
 Plār Darah
 Podīnatū
 Podīneh
@@ -14569,7 +14214,6 @@ Pul-e Charkhī Kuhnah, پلٔ چرخی
 Pul-e Imām Bukrī, Пули-Имамбукри, پل امام بکری
 Pul-e Khishtī
 Pul-e Khumrī, Пули-Хумри
-Pul-e Khīshtī
 Pul-e Muḩammad-Şalābēg
 Pul-e Padah
 Pul-e Qandahārī
@@ -14638,7 +14282,7 @@ Pusht-e Wāz
 Pusht-e Ālū
 Pusht-e Āsyā
 Pusht-e Ūlar
-Pushtah, Пушта
+Pushtah, Пушта, پشته
 Pushtah-ye Gulī, Пуштайи-Гули
 Pushtah-ye Jōy
 Pushtah-ye Khāristān
@@ -14654,7 +14298,6 @@ Pushtāy
 Pushwarah, پوشواره
 Puskach
 Puskā Khān
-Pus̲h̲tah, پشته
 Pus̲h̲têy
 Put Khēl, Putkheyl'
 Puṯak
@@ -14719,7 +14362,6 @@ Pākilah
 Pākmān
 Pākpūlāgh, پاكپولاغ
 Pākānī
-Pālah
 Pālayj
 Pālayzkār
 Pālbih
@@ -14730,7 +14372,6 @@ Pām
 Pām Khāk, پام خاك
 Pām Ḩusaīnī
 Pāmakhtū
-Pāmqāsh, Памкаш, پام قاش
 Pāmī
 Pānajōy
 Pānich
@@ -14772,7 +14413,6 @@ Pāshangar, پاشنگر
 Pāshar
 Pāshmūl, پشمول
 Pāshnay
-Pāshtān, پشدان
 Pāshāhī Ghunḏêy, كوهٔ پاشاهی
 Pāsinj
 Pāt Khēl, پات خيل
@@ -14807,7 +14447,7 @@ Pāy Kushk, پای كوشك
 Pāy Kêlay, پای كلی
 Pāy Kārēz
 Pāy Kēch
-Pāy Kōtal, Пайкоталь
+Pāy Kōtal, Paykotal'
 Pāy Kōtalak
 Pāy Luch
 Pāy Mashhad, Пайе-Машхад, پای مشهد
@@ -14838,7 +14478,7 @@ Pāy-e Būm
 Pāy-e Ghī
 Pāy-e Jī
 Pāy-e Khūshnow
-Pāy-e Kōtal, Пайи-Коталь, پائ كوتل
+Pāy-e Kōtal, Payi-Kotal', پائ كوتل
 Pāy-e Mazār
 Pāy-e Molūk
 Pāy-e Mulūk
@@ -14890,7 +14530,7 @@ Pāī Sang
 Pāīkajak
 Pāḩişār
 Pāṉ Ghāṟah, پان غاره
-Pāṉ Kêlay, قريۀ پان, پاڼ کلی
+Pāṉ Kêlay, قريۀ پان, پان كلی
 Pāṉ Kēlah-ye Junūbī
 Pāṉ Kēlah-ye Shamālī
 Pāṉ Sar Kêlay, قريۀ سرٔ پان
@@ -14967,7 +14607,6 @@ Pīrzādahhā, پيرزادها
 Pīrā Khēl, Pirakheyl', پيرا خيل
 Pīrā Sabz, Pīr-e Sabz, پیر سبز
 Pīrān Sāmyah
-Pīrānō Kêlay, قريۀ پیران
 Pīrō Kalāchah, قلعه چهٔ پيرو
 Pīrō Khēl, Pirokheyl'
 Pīrō Zay
@@ -15033,7 +14672,6 @@ Pōṯaī Kêlay, پتی كلی
 Pōṯêy
 Pōṯīān
 Pūdīnah
-Pūdīnatū
 Pūlar
 Pūn Shahr
 Pūnbār, پونبار
@@ -15050,11 +14688,10 @@ Pūshtū
 Pūshāl
 Pūstīn
 Pūtêy
-Pūtī
+Pūtī, پوتی
 Pūy
 Pūzah-e Ēshān
 Pūzdār Kêlay
-Pūṯī, پوتی
 Pṟāng
 Pṟāng Chowdah, پرانگ چوده
 Qabaghjay
@@ -15074,7 +14711,6 @@ Qablī
 Qabrghah
 Qaburghah, Кабурга, قبورغه
 Qabzār
-Qabīlah
 Qabūl
 Qachir, Качир
 Qachir Murdah
@@ -15092,7 +14728,7 @@ Qadamay Pitāway Ḏay, قدمی پتاو دی
 Qadamgāh
 Qadil Bāsh, Kadil'bash
 Qadmā
-Qadīr Khēl, Kadirkheyl'
+Qadīr Khēl, Kadirkheyl', Urochishche Kadirkheyl', قادر خيل
 Qadīr Shahīd
 Qaf Qōl, Kafkul'
 Qafak
@@ -15102,7 +14738,6 @@ Qafaslān
 Qafcharak
 Qaflan Darah, Кафландара, قفلن دره
 Qaflatūn
-Qaflān Darah
 Qaflānī
 Qafqōl, Kafkul'
 Qafzār
@@ -15162,7 +14797,6 @@ Qal'ah-ye 'Omar, قلعهٔ عمر, قلغهٔ عمر
 Qal'ah-ye 'Umar
 Qal'ah-ye 'Us̄mān Jān
 Qal'ah-ye 'Us̄mān Khān
-Qal'ah-ye 'Ālam
 Qal'ah-ye 'Āshōr, Калайи-Ашор, قلعهٔ عاشور
 Qal'ah-ye Abdul Karīm
 Qal'ah-ye Abdul Wāhid
@@ -15312,7 +14946,7 @@ Qal'ah-ye Hazār Jirīb
 Qal'ah-ye Hazārah
 Qal'ah-ye Hazārahhā
 Qal'ah-ye Hindū, قلئۀ هندو, قلعهً هندو
-Qal'ah-ye Hājī
+Qal'ah-ye Hājī, Калайи-Хаджи, قلعهٔ حاجی, قلعۀ هاجی
 Qal'ah-ye Hājī Manşūr Khān
 Qal'ah-ye Ibrāhīm Khān
 Qal'ah-ye Ikhtīār, Калаихтиар, قلعهٔ اختيار
@@ -15377,7 +15011,6 @@ Qal'ah-ye Kākō
 Qal'ah-ye Kīch
 Qal'ah-ye Kōh-e Gul Bāgh
 Qal'ah-ye Kūf
-Qal'ah-ye Kūhnah
 Qal'ah-ye Langar
 Qal'ah-ye Lawang
 Qal'ah-ye Lukū
@@ -15484,7 +15117,7 @@ Qal'ah-ye Nishah
 Qal'ah-ye Nishān
 Qal'ah-ye Niyāzī, N'yazi
 Qal'ah-ye No'mān
-Qal'ah-ye Now, Калай-Нау, Калайи-Нау, قلعهً نو
+Qal'ah-ye Now, Калай-Нау, Калайи-Нау, قلعهٔ نو
 Qal'ah-ye Now-e Chihil Tan, Kalanavali-Chikhil'tan
 Qal'ah-ye Now-e Nuh Burjah, قلعهٔ نوی نه برجه
 Qal'ah-ye Now-e Qal'ah-ye Mūsá
@@ -15621,7 +15254,7 @@ Qal'ah-ye Sirak
 Qal'ah-ye Siyāh Sang
 Qal'ah-ye Spī Sang
 Qal'ah-ye Sulaīmān, قلعهٔ سليمان
-Qal'ah-ye Surkh, قلعهٔ سرخ
+Qal'ah-ye Surkh, قلعه سرخ
 Qal'ah-ye Surkh-e Bālā
 Qal'ah-ye Surkh-e Pā'īn
 Qal'ah-ye Surkhak
@@ -15644,7 +15277,7 @@ Qal'ah-ye Tūlak
 Qal'ah-ye Tūrdī
 Qal'ah-ye Tūtak
 Qal'ah-ye Wadūd, قلعهٔ ودود
-Qal'ah-ye Wakīl, Kalavakil', Калайи-Вакиль, قلعهٔ وكيل
+Qal'ah-ye Wakīl, Kalavakil', Kalayi-Vakil', قلعهٔ وكيل
 Qal'ah-ye Walī
 Qal'ah-ye Walī-ye Bālā
 Qal'ah-ye Walī-ye Pā'īn
@@ -15689,7 +15322,6 @@ Qal'ah-ye Āzād
 Qal'ah-ye Şadqadam
 Qal'ah-ye Şadr-e A'z̧am, قلعۀ صدرٔ عظم
 Qal'ah-ye Şadīq
-Qal'ah-ye Şafar
 Qal'ah-ye Şafar Khān
 Qal'ah-ye Şafar Khēl, Kalasafarkheyl', قلعۀ سفر خيل
 Qal'ah-ye Şafākhān
@@ -15699,11 +15331,9 @@ Qal'ah-ye Şaḩrā, قلعه صحرا
 Qal'ah-ye Şaḩrā-ye Mīānah Jōy, قلعه صحرای ميانه جوی
 Qal'ah-ye Şaḩrā-ye Tōtum Darah, قلعه صحرای توتم دره
 Qal'ah-ye Şābir, قلعهٔ سبیر
-Qal'ah-ye Şādiq
-Qal'ah-ye Şāhib Zādah, قلعۀ صاهبزاده
+Qal'ah-ye Şāhib Zādah, قلعهٔ صاحبزاده, قلعۀ صاهبزاده
 Qal'ah-ye Şāliḩ
 Qal'ah-ye Şāḩib
-Qal'ah-ye Şāḩib Zādah, قلعهٔ صاحبزاده
 Qal'ah-ye Şūfī
 Qal'ah-ye Ţālib
 Qal'ah-ye Ţāwūs-e Malang
@@ -15716,7 +15346,6 @@ Qal'ah-ye Ḩasan Khān
 Qal'ah-ye Ḩasan-e Bālā
 Qal'ah-ye Ḩasan-e Pā'īn
 Qal'ah-ye Ḩashmat, قلعۀ حشمت خان
-Qal'ah-ye Ḩazārahhā
 Qal'ah-ye Ḩaīdar
 Qal'ah-ye Ḩaẕrat Şāḩib
 Qal'ah-ye Ḩusaīn, Калайи-Хусейн, قلعۀ حسین
@@ -15724,7 +15353,6 @@ Qal'ah-ye Ḩusaīn Bayg
 Qal'ah-ye Ḩusaīn Gul
 Qal'ah-ye Ḩājat
 Qal'ah-ye Ḩāji Pīrwar
-Qal'ah-ye Ḩājī, Калайи-Хаджи, قلعهٔ حاجی, قلعۀ هاجی
 Qal'ah-ye Ḩājī 'Abd ul Wāhid
 Qal'ah-ye Ḩājī 'Obīdullāh
 Qal'ah-ye Ḩājī 'Omar Khān
@@ -15745,7 +15373,6 @@ Qal'ah-ye Ḩājīhā
 Qal'ah-ye Ḩākimī
 Qal'ahchah, قلاچه, قلعهچه
 Qal'ahchah-ye Ghār
-Qal'ahchāh
 Qal'ahgay, قلاگی
 Qal'ahṯak
 Qal'atah-ye 'Alam Khān, Qal'ah-ye Tah-e 'Alam Khān, قلعه ته علم خان
@@ -15768,7 +15395,7 @@ Qalandarzaī
 Qalandarān
 Qalandarī, Каландари
 Qalatag, کلعتک
-Qalaṯak
+Qalaṯak, قلاتك
 Qalday
 Qalkhī, Кальхи
 Qalmāqī
@@ -15793,10 +15420,8 @@ Qalāt, قلات
 Qalāt-e Arbāb A'z̧am
 Qalāt-e Ghāzī
 Qalāt-e Qāẕī
-Qalātak, قلاتك
 Qalātī, قلاتی
 Qalāy Gal, Kalaygal', قلايگل
-Qalāṯak
 Qalīch 'Alī
 Qalōgh
 Qam-e Falak
@@ -15840,13 +15465,12 @@ Qar'ī
 Qara'ī
 Qarachah
 Qaraghāl, Karagal'
-Qarah
+Qarah, Кара
 Qarah Adīr
 Qarah Aḩmad
 Qarah Bar
 Qarah Bayd
 Qarah Buyin
-Qarah Bāgh, Карабаг, قره باغ
 Qarah Bāgh, Карабаг, قره باغ
 Qarah Bāgh Bāzār
 Qarah Bāgh Kārēz, قره باغ كاريز
@@ -15869,7 +15493,6 @@ Qarah Gāh
 Qarah Jangal, Karadzhangal'
 Qarah Kamar
 Qarah Khawal
-Qarah Khawāl
 Qarah Khowāl
 Qarah Khān
 Qarah Khānī, Карахани
@@ -15881,7 +15504,7 @@ Qarah Mughul
 Qarah Mullā, Карамулла
 Qarah Parchow, Карапарчав, قره پرچاب
 Qarah Qishlāq, Каракышлак
-Qarah Qōl, Karakol', Каракуль, قره قل
+Qarah Qōl, Karakol', Karakul', قره قل
 Qarah Qūzī
 Qarah Shaykhī
 Qarah Tanah
@@ -15926,7 +15549,7 @@ Qarghanī
 Qarghayz-e Bālā, قرغيزٔ بالا
 Qarghayz-e Pā'īn, Каргызи Паин, قرغيزٔ پائين
 Qarghoway
-Qarghān
+Qarghān, قارغان
 Qarghōl
 Qarghōrī
 Qarkh
@@ -16331,7 +15954,7 @@ Qaţār Kalā, قلعهٔ قطار
 Qaţār Khāk
 Qaţārsum
 Qaṟawu
-Qaẕī
+Qaẕī, Кази
 Qghray Qōl
 Qibchāqhā
 Qifak
@@ -16478,13 +16101,12 @@ Qubī Gak
 Quch Nihāl
 Quchanghī
 Quchqār, قوچقار
-Quchī
+Quchī, Куччи, قچی
 Quddūs
 Qudrat Kêlay, قدرت كلی
 Qudughak
 Qudusābād
 Qudūgh-e Islām
-Qudūghak
 Qukhlij
 Qul Malūkh
 Qul Shēlah
@@ -16518,7 +16140,6 @@ Qurbānay
 Qurgh Jōy
 Qurgh-e Qāẕī
 Qurghan, Курган, قرغان, قورغن
-Qurghān
 Qurghān Tapah
 Qurghān-e 'Ulyā
 Qurghān-e Suflá
@@ -16531,7 +16152,6 @@ Qurugh-e 'Abbās Kushtah
 Qurugh-e Sharīf
 Qurugh-e Sulţān
 Qurukh
-Qurūgh
 Qurūq
 Qurūqōl, قروقول
 Qush Parah
@@ -16565,7 +16185,6 @@ Qādir
 Qādir Jān Kêlay
 Qādir Kalā
 Qādir Khān Bānḏah, قادرخان بانده
-Qādir Khēl, Kadirkheyl', Urochishche Kadirkheyl', قادر خيل
 Qādir Khūnē
 Qādir Kêlay
 Qādirābād
@@ -16575,7 +16194,6 @@ Qādī
 Qādīānī
 Qādṟū Kêlay
 Qāfilah Bāshī
-Qāfzār
 Qāghōr
 Qājgharī
 Qāl Mūshak
@@ -16591,9 +16209,7 @@ Qām-e Nūr
 Qāpzār
 Qāqchī Khānah
 Qār-e Dāy
-Qārah, Кара
 Qārchah, قارچه
-Qārghān, قارغان
 Qārī Şāḩib, كرسب
 Qārī Şāḩib Kêlay, قريۀ قاری صاحب
 Qās, Кас
@@ -16642,9 +16258,7 @@ Qāsimābād
 Qāt-e Jangal
 Qāw Ghūzār, Гавгузар, قابغوزار
 Qāz Darah
-Qāzān
 Qāẕiyān, Kadz'yan, Kaz'yan, قاضيان
-Qāẕī, Кази
 Qāẕī Bānḏah, قاضی بانده
 Qāẕī Deh
 Qāẕī Khēl, Kazikheyl', قاضی خيل
@@ -16656,14 +16270,12 @@ Qāẕī Muḩammad Ākhūndzādah
 Qāẕī Qishlāq
 Qāẕīābād-e Bālā, قاضيابادٔ بالا
 Qāẕīān, Kaz'yan, قاضيان
-Qīpchāq
 Qīrghōy, Киргой, قيرغوی
 Qīrmah
 Qīzalah
 Qīāghak
 Qīāmatah
 Qīşārak
-Qōbī
 Qōchangī
 Qōchgī Jōy
 Qōchī, قوچی
@@ -16796,7 +16408,6 @@ Qōl-e Āsyāb
 Qōl-e Ōbêh
 Qōl-e Ḩasan
 Qōl-e Ḩaīdar
-Qōlak
 Qōlang
 Qōlul Bāy, Kulul'bay
 Qōlyakhī-ye Bālā
@@ -16829,7 +16440,6 @@ Qōymast
 Qōzī, Кози
 Qūbī, Куби
 Qūch
-Qūchī, Куччи, قچی
 Qūdūq
 Qūdūq Qishlāq, Кудуккышлак, قدوق قشلاق
 Qūdūq-e Nādir-Khwājah
@@ -16849,7 +16459,6 @@ Qūnāg-e Suflá
 Qūqyah
 Qūqīā, Кукия, قوقيا
 Qūrah
-Qūraīsh Tapah
 Qūrbaqah Khānah
 Qūrchī
 Qūrghānak
@@ -16982,7 +16591,6 @@ Raḩmatullāh Khān Kêlay, قريۀ رحمت الله خان
 Raḩmatullāh Kêlay, قريۀ رحمت الله
 Raḩmatābād
 Raḩmān Kalā
-Raḩmān Khēl, Rakhmankheyl', رحمان خيل
 Raḩmān Kêlay
 Raḩmān Qal'ah, رحمان قلعه
 Raḩmān Tapah, Dastukheyl', دستو خیل
@@ -17077,7 +16685,6 @@ Rāgh Darah
 Rāgh Dasht
 Rāghchīān Darah
 Rāghmusht
-Rāghmūsht
 Rāghurūj
 Rāghêh, راغه
 Rāghêy
@@ -17097,7 +16704,6 @@ Rāh-e Khushk
 Rāh-e Now
 Rāh-e Rāmah
 Rāhgak
-Rāj
 Rājān, راجان
 Rājān Kalā, قلعهٔ راجان
 Rākhān
@@ -17116,7 +16722,6 @@ Rāqōl-e Bālā
 Rāqōl-e Pā'īn
 Rāqōlak
 Rāsh
-Rāshak
 Rāshyū
 Rāst Darah
 Rāst Kamān
@@ -17135,7 +16740,6 @@ Rāzdān-e Suflá
 Rāzgul Kōṯē, Razgul'kote
 Rāzir
 Rāzī
-Rāẕī
 Rēg
 Rēg 'Alāqahdārī, رېگ علاقه داری
 Rēg Jōy
@@ -17145,7 +16749,6 @@ Rēg-e Bāshah
 Rēg-e Rowān
 Rēg-e Āb
 Rēgah
-Rēgak
 Rēgay, ريگی
 Rēgchah
 Rēgnow
@@ -17283,7 +16886,7 @@ Sabōl
 Sachak
 Sadah, سده
 Sadah-ye Shēr 'Alī, سدۀ شيرعلی
-Sadak, سدك
+Sadak, سدك, صادق
 Sadakā, سدکا
 Sadikah
 Sadwad
@@ -17385,7 +16988,7 @@ Sakīnī, سكينی
 Sakō
 Sal
 Sal Kêlay, Sal'kalay
-Salah Khēl, Salakhkheyl', سله خېل
+Salah Khēl, Salakhkheyl', سله خېل, صلاح خيل
 Salbarun
 Saliktū Kêlay
 Salingār
@@ -17410,7 +17013,7 @@ Salām Guḏalē, سلام گدلی
 Salām Jān Kêlay
 Salām Kalāchah, قلعه چهٔ سلام
 Salām Khān Kêlay
-Salām Khēl, Salamkheyl', سلام خيل
+Salām Khēl, Саламхейль, سلام خيل
 Salām Kêlay, سلام کلی, قريۀ سلام
 Salāmak, سلامك
 Salāmat
@@ -17464,7 +17067,6 @@ Samī
 Samō Tālah, شيلۀ خوردٔ سمو
 Samōgaī
 Samūch
-Samūchak
 Samūr, سمور
 Samūsī
 Samṯak
@@ -17485,7 +17087,6 @@ Sang Atesh
 Sang Band
 Sang Bar, سنگ بر
 Sang Bur
-Sang Bār
 Sang Chalāh
 Sang Darah
 Sang Deh, Сангдех, قريۀ سنگ
@@ -17573,11 +17174,10 @@ Sangay
 Sangbur
 Sangburān
 Sangbōrā, سنگ بورا
-Sangbūr
 Sangchil
 Sangchilak
 Sangchāl
-Sanginak
+Sanginak, سنگينك
 Sangiṉah, سنگینه
 Sanglēch
 Sangnigār
@@ -17598,7 +17198,6 @@ Sangēṟay, سنگری
 Sangī, سنگی
 Sangīn, Санджин, سنگين
 Sangīn Khān Kêlay
-Sangīnak, سنگينك
 Sangīnakah, سنگينكه
 Sangīṟah
 Sangō, سنگ
@@ -17898,7 +17497,7 @@ Sar-e Marghī
 Sar-e Masjid
 Sar-e Maynagiqul
 Sar-e Maḩmūd
-Sar-e Miyān Qōl, Sari-Miyankhul'
+Sar-e Miyān Qōl, Сари-Миянхуль
 Sar-e Munḏah
 Sar-e Mānghōz̄
 Sar-e Māqōlak
@@ -17917,8 +17516,7 @@ Sar-e Nāwêr-e Sabz
 Sar-e Oshtur Murdah
 Sar-e Pal, Sarpal'
 Sar-e Pastalak
-Sar-e Pul, Сари-Пуль
-Sar-e Pul, Сари-Пуль
+Sar-e Pul, Sari-Pul'
 Sar-e Pul-e Chāl, Сари-Пули-Чаль, سرٔ پلٔ چال
 Sar-e Pul-e Ghīghunak
 Sar-e Purkah
@@ -17935,8 +17533,7 @@ Sar-e Qul
 Sar-e Qurghān
 Sar-e Qādī
 Sar-e Qāl
-Sar-e Qāḏi
-Sar-e Qōl, Сари-Куль, سرٔ قول
+Sar-e Qōl, Sari-Kul', سرٔ قول
 Sar-e Qōl Panjī, Sari-Kul'pandzhi
 Sar-e Qōmah Ghay
 Sar-e Rabudō
@@ -18186,7 +17783,7 @@ Saydō Khēl, Saidokheyl'
 Saydōr
 Sayfal Kalā, Sayfal'kala, قلعۀ سيفل
 Sayfowār
-Sayfuddīn
+Sayfuddīn, سيف الدين
 Sayfullāh Kêlay
 Sayfō Kêlay, قريۀ سيف
 Saygal, سيگل
@@ -18285,13 +17882,9 @@ Sazlīgal, Sasligal', سزلگل
 Saīfuddīn Khēl, Saifuddinkheyl'
 Saīfō Kêlay
 Saḩūr, سهور
-Saṟ Tāsan
 Saṟah
 Saṟak Kêlay, سرك كلی
 Saṟak Kōṯ
-Saṟay
-Saṟmi
-Saṟāb
 Saṟōbay, سروبی
 Seh A'z̧amī
 Seh Barzah
@@ -18346,7 +17939,7 @@ Shabnam
 Shabqōlak, Shabkul'
 Shabān
 Shabās Kalā, قلعهٔ شهباز
-Shabī Khēl, Shibikheyl'
+Shabī Khēl, Shibikheyl', شابی خيل
 Shabō Khēl, Shabokheyl', شبو خيل
 Shadbarg
 Shadian, شاديان
@@ -18391,7 +17984,7 @@ Shahr-e Khurū
 Shahr-e Kuhnah, Шахри-Кохна, شهرٔ كهنه
 Shahr-e Kuhnah wa Bālā Ḩişār, شهرٔ كهنه و بالا حسار
 Shahr-e Monjān
-Shahr-e Now, شهر نو
+Shahr-e Now, شهرٔ نو
 Shahr-e Pā'īn-e Khowāt
 Shahr-e Qadīm
 Shahr-e Sagān
@@ -18407,7 +18000,7 @@ Shahrzāydah, Шахрзайда, شهرزائيده
 Shahrābād-e 'Ulyā, شهرابادٔ علیا
 Shahrābād-e Suflá, شهرابادٔ سفلى
 Shahrān
-Shahzādah
+Shahzādah, شاهزاده
 Shahzādah Khēl, Shakhzadakheyl', شاهزاده خيل
 Shahāb ud Dīn
 Shahābuddīn, Шахабуддин, شهاب الدين
@@ -18536,7 +18129,7 @@ Shamēzêy
 Shamīrā
 Shamīā, Sham'ya
 Shamōrghak
-Shamōzī, Shamul'zai, شموزی
+Shamōzī, Shamul'zai, شاموزی
 Shamū Khēl
 Shamūn
 Shamūzī, شموزی
@@ -18558,7 +18151,7 @@ Sharah Khān
 Sharak, شرك
 Sharak Khēl, Sharakkheyl', شرك خيل
 Sharamī Kêlay
-Sharan, شرنه ولسوالۍ‎
+Sharan, شرن, شرنه ولسوالۍ‎
 Sharbat Khēl, Sharbatkheyl'
 Sharghash
 Shargī Mul Khēl, Sharki-Mudkheyl'
@@ -18593,7 +18186,7 @@ Sharāb
 Sharābān
 Sharīf
 Sharīf Khān Kêlay, قريۀ شريف خان
-Sharīf Khēl, Шарифхейль, شريف خيل
+Sharīf Khēl, Sharifkheyl', شريف خيل
 Sharīf Kêlay
 Sharīf Zangōrah
 Sharīf Ḩasan Khān
@@ -18704,17 +18297,14 @@ Shaynō Kêlay
 Shaytanah, Шайтана, شيطانه
 Shaywak-e Bālā
 Shaywak-e Pā'īn
-Shayţanah
-Shayţānah
 Shaīţān Qal'ah
 Shaşt-e Zaydābād
 Shaştmūy
-Shaḩristān
 Shaṟūk
 Sheghnān
 Sher
 Sher Muhammad Ghulami
-Sherabad
+Sherabad, شير آباد
 Sheykhjūy
 Shibar, شبر
 Shibarak
@@ -18723,7 +18313,6 @@ Shibinah Panūr
 Shibirg
 Shibirghān, Шеберган
 Shiblān Jēl
-Shibār
 Shibīj
 Shibōkan
 Shidalī Khūnē, شدلی خونی
@@ -18755,30 +18344,30 @@ Shimulzī
 Shimōl, سمول
 Shimū Khēl
 Shimūk Khēl, Shimukkheyl'
-Shinah
+Shinah, Шина, شينه, شینه
 Shinay
 Shing
 Shing Darah
 Shing-e 'Ulyā
 Shing-e Mābayn
 Shing-e Pā'īn
-Shingar, شينگر
+Shingar, شينگار
 Shingirāb
 Shingish, شنگش
 Shinglānah
 Shingān
 Shingārī
 Shingīrgal
-Shinkay
+Shinkay, شينكی
 Shinkay Kōr
-Shinwārī
+Shinwārī, شنواری, شینواری
 Shinwārō Kêlay, قريۀ شنوارو
-Shinyah, Shin'ya
+Shinyah, Shen'ya, Шинья, شينيه
 Shinādān, شنادان
 Shinē Gunbad
 Shinē Rabāţ
 Shinēlī
-Shinīah
+Shinīah, Шинья, شينيه
 Shipōkhtah
 Shipūn
 Shiram
@@ -18827,7 +18416,6 @@ Show Khēl, Shaukheyl', شو خيل
 Showbōn
 Showgirak
 Showgun, Шаугун, شوگون
-Showgīrak
 Showkal, Shaukal', شوكل
 Showkāṉay, شوكانی
 Showkāṉō Kêlay, شوكان
@@ -18874,7 +18462,7 @@ Shurō Khēl, Shurokheyl', شرو خيل
 Shurō'
 Shushk, ششک
 Shutur Murdah
-Shwāk, شواک
+Shwāk, شواك
 Shêbar
 Shêgah
 Shêgay, شگه
@@ -18910,7 +18498,6 @@ Shābāz Khēl, Shabazkheyl', شاباز خيل
 Shābāzī
 Shābētak, شابيتك
 Shābī
-Shābī Khēl, Shibikheyl', شابی خيل
 Shābīl-e Kalān, شابيلٔ كلان
 Shābīl-e Khōrd, شابيلٔ خورد
 Shābīān
@@ -18937,14 +18524,14 @@ Shādī Khān
 Shādī Khān Kalā
 Shādī Khān Kêlay, شادی خان كلی
 Shādī Khān S̲h̲ākh
-Shādī Khēl, Shadikheyl'
+Shādī Khēl, Shadikheyl', شادی خيل
 Shādī Khēlō Kêlay
 Shādī Khūg
 Shādī Kêlay, شادی كلی
 Shādī Murdah
 Shādī Pūch
 Shādīkah
-Shādō
+Shādō, شادو
 Shādū
 Shāfking
 Shāghāsī
@@ -19006,7 +18593,6 @@ Shāh Maṟi
 Shāh Murād Khēl, Shakhmuradkheyl', شاه مراد خيل
 Shāh Muzdī
 Shāh Muḩammad Kêlay
-Shāh Mārī
 Shāh Mīr, شامير
 Shāh Mīr Khēl
 Shāh Mīrak
@@ -19058,8 +18644,6 @@ Shāh-i-Mashhad
 Shāhbal, Shakhbal', شاهبل
 Shāhbayd
 Shāhbirdī
-Shāhbāz, شاهباز
-Shāhbāz Khēl, Shakhbazkheyl', شهباز خيل
 Shāhbāz Kêlay, شاهباز كلی, قريۀ شاهباز
 Shāhgul, Shāh Gol, شاه گل
 Shāhlij
@@ -19067,14 +18651,11 @@ Shāhlizār
 Shāhmadād Khēl, Shakhmadadkheyl', شاهمدد خيل
 Shāhmaṯī
 Shāhnay
-Shāhrak
-Shāhristān
 Shāhrāh, Dāykondī, Shahrestān
 Shāhtūt
 Shāhtūtak, شاتوتك
 Shāhyār Khēl, Shakh'yarkheyl', شاهيار خيل
 Shāhzāda, شاهزاده
-Shāhzādah, شاهزاده
 Shāhzān
 Shāhābād
 Shāhāk
@@ -19087,7 +18668,6 @@ Shāhī Kêlay
 Shāhī Kārēz
 Shāhī Kōṯ
 Shāhī Nishīn, شاهی نشين
-Shāhīn Kêlay
 Shāhō-'Arūs
 Shāil
 Shājak
@@ -19139,7 +18719,6 @@ Shālī Patrah, شلی پتره
 Shālīl
 Shām Qārchī
 Shāmah
-Shāmah Khēl
 Shāmangal
 Shāmardān
 Shāmardān Kêlay
@@ -19160,7 +18739,6 @@ Shāqol Khēl, Shakul'kheyl', شاقو خيل
 Shār
 Shār-e Takhārī
 Shāragah
-Shārak, شارك
 Shārghilay
 Shāristay
 Shārup Kalā, قلعۀ شاروپ
@@ -19181,7 +18759,6 @@ Shātūrī
 Shātūrī Junūbī
 Shātūt, شا توت
 Shāwar
-Shāwat
 Shāwzêh Katsūnah, شاوزه كچونه
 Shāwāl, Shaval'
 Shāwāl Kārēz, Shaval'karez
@@ -19194,9 +18771,7 @@ Shāzamīn
 Shāţir
 Shāţir Naz̧ar
 Shēb Darah
-Shēbar
 Shēbōlān
-Shēgay
 Shēgaṟay
 Shēgētī
 Shēhrān
@@ -19237,7 +18812,7 @@ Shēr Jān Kêlay
 Shēr Jān Ākā
 Shēr Kalā, قلعهٔ شير
 Shēr Khān, شير خان
-Shēr Khān Khēl, Шерханхейль, شير خان خيل, شيرخان خيل
+Shēr Khān Khēl, Sherkhankheyl', شير خان خيل, شيرخان خيل
 Shēr Khān Kêlay
 Shēr Khēl, Sherkheyl', شير خيل
 Shēr Kush
@@ -19286,9 +18861,7 @@ Shērzaī Kêlay
 Shērzād
 Shērzī
 Shērā Talah
-Shērā Tālah
 Shērābat Kalā
-Shērābād, شير آباد
 Shērābād Kārēz, كاريزٔ شير آباد
 Shērābād-e Bālā
 Shērābād-e Pā'īn, شيرابادٔ پائين
@@ -19304,7 +18877,6 @@ Shēwanah Bōkalah
 Shēwān
 Shēyanah, شيينه
 Shī Takh
-Shībar
 Shībinasar
 Shīdahlām
 Shīgaī
@@ -19330,7 +18902,6 @@ Shīn Shōbay, شوبئ سبز
 Shīn Tsāh
 Shīn Tōr
 Shīn Wêrsêk
-Shīnah, Шина, شينه, شینه
 Shīnakā Khēl, Shinakakheyl', شينكا خيل
 Shīnalay, شنلی
 Shīnalis
@@ -19340,14 +18911,10 @@ Shīnaz̧m
 Shīnaṟay
 Shīngah
 Shīngar Ābī, Шингараби, شينگرابی
-Shīngār, شينگار
-Shīnkay, شينكی
 Shīnkay Kêlay, Шинкайкалай
 Shīnkay S̲h̲ār
 Shīnkaī, شنكی, شينكی, شینکی
 Shīnwār, شنوار
-Shīnwārī, شنواری, شینواری
-Shīnyah, Shen'ya, Шинья, شينيه
 Shīnyah Burnah, Shin'yaburna
 Shīnyah Gharbī
 Shīnyah Marghah
@@ -19362,8 +18929,6 @@ Shīnyē Mazār
 Shīnē Masjid
 Shīnī
 Shīnī Masjid
-Shīnīah, Шинья, شينيه
-Shīnīāh, Shin'ya
 Shīnīāh-ye Maqbūl, Shin'yamakbul'
 Shīnḏanḏ
 Shīr Dāgh, شير داغ
@@ -19536,7 +19101,6 @@ Sinjid
 Sinjidak, سنجتك
 Sinjil
 Sinjitak
-Sinjīd
 Sinowr
 Sinyah, Sin'ya
 Sinzalay
@@ -19548,7 +19112,7 @@ Sipāhī Khēl, Sipakhikhel', سپاهی خيل
 Sipāk
 Sipāwas
 Siqān Watah
-Sirak
+Sirak, سيرك
 Sirdāq
 Sirghil, Sirgil'
 Sirighzay
@@ -19573,15 +19137,13 @@ Siyāh Archah, Сиахарча
 Siyāh Baghalak
 Siyāh Bandī, S'yabandi
 Siyāh Bayd
-Siyāh Butah
+Siyāh Butah, Сиахбута
 Siyāh Bēdak
 Siyāh Būm-e Shughlah, Сиахбуми-Шугла, سياه بومٔ شغله
 Siyāh Būmak, Сиахбумак
-Siyāh Būtah, Сиахбута
-Siyāh Būṯah
 Siyāh Chaghar, S'yachagar
 Siyāh Chashmah
-Siyāh Chow, Сиахчау, Сьячау, سياه چوب
+Siyāh Chow, S'yachau, Сиахчау, سياه چوب
 Siyāh Chō
 Siyāh Chōak
 Siyāh Chōb, سياهچوب
@@ -19621,7 +19183,6 @@ Siyāh Khāk
 Siyāh Khāk-e Pā'īn
 Siyāh Khākī
 Siyāh Khār
-Siyāh Khārak
 Siyāh Khārţōghāy
 Siyāh Khīngak
 Siyāh Khōrak
@@ -19741,7 +19302,7 @@ Spayray
 Spidak
 Spidār
 Spighāl, Spigal'
-Spinah Kalā, سپینه كلا
+Spinah Kalā, سپينه كلا, سپینه كلا, قلعهٔ سفيد
 Spindī 'Ulyā, اسپندی
 Spirē Kêlay, قريۀ سپيره
 Spitāgh
@@ -19756,7 +19317,6 @@ Spērah Kōh Bānḏah, سپیرکوه بانده
 Spērkay, سپیرکی
 Spērwān, سپيروان
 Spērêh, سپيره
-Spēṟwān
 Spī Bayd
 Spī Buz
 Spī Būlāq
@@ -19798,7 +19358,6 @@ Spīnah, سپینه
 Spīnah Chīnah
 Spīnah Ghunḏêy
 Spīnah Gāṟah
-Spīnah Kalā, سپينه كلا, سپینه کلا, قلعهٔ سفيد
 Spīnah Khūlah, دهانٔٔ سپينه
 Spīnah Tīz̲h̲ah, تژهٔٔ سفيد
 Spīnah Wālêh
@@ -19822,7 +19381,7 @@ Srah Achah
 Srah Chīnah Kêlay
 Srah Darah, درۀ سرخ
 Srah Dargāh
-Srah Kalā, سره کلا, قلعهٔ سرخ, قلعهٔ سره
+Srah Kalā, سره كلا, قلعهٔ سرخ, قلعهٔ سره
 Srah Kandah, سره كنده
 Srah Katsūnah
 Srah Kaṯ Bāndah, سره كت بانده
@@ -19866,21 +19425,20 @@ Stêrah Maṉah, ستره منه
 Stêrah Mishray
 Stār Kili, قريۀ ستار
 Stāz Khān
-Stēr Kêlay
 Stōgan, ستوگن
 Stōryānaī
 Sudō, سودو
-Sufian, صوفيان
+Sufian, Suf'yan, صوفيان
 Suflá Pūtakay Kêlay, قریۀ پوتاكی سفلى
 Sufrah, سفره
 Sufrak
 Suhēl
 Sujā Aḩmad
-Sujānī, Суджани
+Sujānī, Суджани, سجانی
 Sujānī-ye 'Ulyā, Суджанийи-Улим, سجانئ علیا
 Sulaych
 Sulaīmān
-Sulaīmān Khēl, Slemankheyl', Сулейманхейль, سليمان خيل
+Sulaīmān Khēl, Slemankheyl', Suleymankheyl', سليمان خيل
 Sulaīmān Kêlay, Сулейманкалай
 Sulaīmān Shāh
 Sulaīmān Zā'ī
@@ -19934,7 +19492,6 @@ Sumārah-ye 'Alī Aḩmad
 Sumārah-ye Mullā Ḩusaīn
 Sumī Darah
 Sumīpī
-Sumūchak
 Sumūchān
 Sundar
 Sundray
@@ -20086,7 +19643,7 @@ Sêpīnē Takhtē, سپينی تختی
 Sêrah
 Sêrangōṟ
 Sêray Tangay
-Sêrgal, سيرگل
+Sêrgal, سيرگل, سیرگل
 Sêrkay, سركی
 Sêrkunḏō Bābā, سركندو بابا
 Sêrṉī Khēl, Sernikheyl'
@@ -20130,16 +19687,13 @@ Sāliḩgay Kêlay
 Sālār
 Sālār Kalā, سالار كلا
 Sālār Tapah
-Sālāw
 Sālō Khēl
 Sālō Kêlay, قريۀ سالو
 Sām Tōl, Santol', سنتل
 Sāmidā, سامدال
 Sāmizaī, سمزی
 Sāmuk Kêlay
-Sāmusī
 Sāmān Khēl
-Sāmī
 Sāmīdzay, سامجی
 Sāmū
 Sān-e Sangī
@@ -20156,9 +19710,7 @@ Sārbān Kêlay
 Sāriṯ, سارت
 Sāriṯ Khūlah, دهانٔٔ سارت
 Sārwān, ساروان
-Sārwān Khēl, Sarvankheyl'
 Sārwān Khēl Kêlay, Sarvankhel'-Kalay
-Sārī
 Sāsay
 Sāsik Kōl
 Sātay Kêlay, قریۀ ساتی
@@ -20168,7 +19720,6 @@ Sāw, ساو
 Sāwut Khēl, Savutkheyl', ساوت خيل
 Sāwut Khēl Kêlay, Shavutkheyl'kalay, قريۀ سوت خيل
 Sāwān
-Sāwūt Khēl, Savutkheyl'
 Sāy
 Sāy Kand
 Sāyagaz
@@ -20187,7 +19738,6 @@ Sēlā
 Sēmchēw
 Sērak Rustam
 Sēray
-Sērgal, سیرگل
 Sērē
 Sēwak
 Sēwak-e Dahan Waras
@@ -20223,16 +19773,13 @@ Sīnhā, سنها
 Sīnzaī, سينزی
 Sīnān, سينان
 Sīnē Kêlay
-Sīnī
 Sīqōl, Sikul', سيقول
 Sīr Kay Malang, سرنی ملنگ
 Sīr Qōl
 Sīr Takht
 Sīr-e Qal'ah, قلعۀ سيره
-Sīrak, سيرك
 Sīrqōl
 Sīrwaṯ
-Sīrzār
 Sīstān
 Sīstānay
 Sīz
@@ -20306,22 +19853,17 @@ Sūhay, سوهی
 Sūhaī
 Sūjigak
 Sūjān
-Sūjānī, Суджани, سجانی
 Sūjī
 Sūjī-e Junūbī
 Sūjī-ye Gharbī
 Sūjī-ye Shamālī
 Sūl Bīnak
-Sūlbinak
-Sūmak
 Sūmūch
-Sūmūchak
 Sūn Būlāq
 Sūnah
 Sūnd
 Sūpāj
-Sūr
-Sūr Dāg, داغ سرخ
+Sūr Dāg, داغ سرخ, داگٔ سرخ, سور داگ
 Sūr Dēwāl, Surdeval', سر ديوال
 Sūr Ghbarg, شيلۀ سرخ
 Sūr Ghbargay
@@ -20352,7 +19894,6 @@ Sūr Tapah Kaṟ
 Sūr Wêrsêk
 Sūr Wām
 Sūr Zghamay
-Sūr Ḏāg, داگٔ سرخ, سور داگ
 Sūr-Qal'ah, Суркала
 Sūr-e Kānī, كانئ سرخ
 Sūrah
@@ -20374,14 +19915,12 @@ Sūrkaī Gwāl, Surkaygval'
 Sūrkaī Kārēz
 Sūrkaī Tangay
 Sūrkaī Zhawêrah
-Sūrkhakān
 Sūrkhaṉ, سور خان
 Sūrkānī Kêlay
 Sūrkāṉêy
 Sūrkī, سورکی
 Sūrnay
 Sūrpān
-Sūrpāṉ
 Sūrsurang
 Sūruk
 Sūrwapān Tōy
@@ -20391,7 +19930,6 @@ Sūrān-e 'Ulyā
 Sūrān-e Suflá
 Sūrī Khēl, Sorikheyl', Surikheyl', سوری خيل
 Sūrī Kêlay, سوری كلی
-Sūrīch
 Sūrōgh
 Sūrū
 Sūrūnah
@@ -20402,15 +19940,11 @@ Sūt Kham
 Sūtyānū Khūnah, Sot'yanukhune, سوتیانو خونی
 Sūykah, Суйка, سويكه
 S̄awīt
-S̄aynābād
-S̄owr
-S̄owristān, سورستان
 S̄āljajarī, Shal'dzhadzhari
 S̄ūr Ghūl
 S̲h̲ang, شنگ
 S̲h̲angay, شنگی
 S̲h̲arah Tālah, شرتالا
-S̲h̲aran, شرن
 S̲h̲araway, شروی
 S̲h̲arkanaī, شركنی
 S̲h̲arkay, شركی
@@ -20421,18 +19955,12 @@ S̲h̲karō Khūnē, شكر خونی
 S̲h̲katah Chakāw, چكاؤ پائین
 S̲h̲katah Shiglōn Kêlay, شکتا شگلون كلی
 S̲h̲owō Galay, شوو گلی
-S̲h̲wāk, شواك
 S̲h̲êh Kōṯ, شه كوت
 S̲h̲ādak Kêlay
-S̲h̲ādī Khēl, Shadikheyl', شادی خيل
-S̲h̲ādō, شادو
-S̲h̲ārkay, شركی
 S̲h̲āyistah Kalā, شايسته كلا
 S̲h̲āyêstah Bārē, شایسته باره
 S̲h̲ēwah, شيوه
 S̲h̲ōdiyākī Kêlay, Shod'yakikalay, شودياكی كلی
-S̲h̲ōr Kachah
-S̲h̲ōrāwah
 S̲h̲ūmatsē, شومتسی
 Ta'mīr
 Ta'mīrāt, تعمیرت
@@ -20474,7 +20002,6 @@ Taghman Darah
 Taghā Chūk
 Taghāway
 Taghōstay
-Tagāb
 Tagāb
 Tagāb Balūchī
 Tagāb Barf
@@ -20542,7 +20069,6 @@ Tahānah-ye Naī Bastah
 Tahānah-ye Shinghī
 Tahānah-ye Tapah-ye Kharān
 Tahānah-ye Ţalā'ī
-Tahāṉah
 Tajak
 Tajarmīn
 Tajirg
@@ -20554,8 +20080,8 @@ Takal
 Takalghū, Такальгу, تكلغو
 Takar Kalā
 Takatuzī
-Takatū
-Takaṟaī, تکړی
+Takatū, تكتو
+Takaṟaī, تكری
 Takh Chī, Тахчи, تخچی
 Takh Kirmān
 Takh Kūyak
@@ -20611,7 +20137,6 @@ Takhtō
 Takhtō Kêlay, قريۀ تخت
 Takhtōrmah
 Takhzard
-Takhā'ī
 Takhāb
 Takhābī
 Takhākh
@@ -20686,7 +20211,7 @@ Tanah Khāk
 Tanah Tsāh, تنا چاه
 Tanah-ye Shōr Shōrak, Танашоршорак, تنۀ شور شورک
 Tandah
-Tandān
+Tandān, تندان
 Tandōr
 Tandōrak
 Tang
@@ -20745,7 +20270,6 @@ Tanāchōy
 Tanākhāk, تناخاك
 Tanātsah
 Tanī Bāyzīd
-Tanōr
 Tanōrah
 Tanōrak
 Tanūr
@@ -20794,7 +20318,7 @@ Taraṉ, ترن
 Tarbūz Guz̄ar, Тарбузгузар
 Tarfī Kēl
 Targhay
-Tarinkot, Tareen, Tarīn Kowt, Tirinkot, ترين كوت
+Tarinkot, Tareen, Tarin Kowt, Tirinkot, ترين كوت
 Tarkhah
 Tarkhay Gīnah
 Tarkhuj
@@ -20815,7 +20339,6 @@ Taryah, Tar'ya
 Taryāk, تريك
 Taryān
 Tarā
-Tarāz
 Tarīlay, ترلی
 Tarīm Khān Kōṯ, كريم خان كوت
 Tarīn Kōṯah
@@ -20924,7 +20447,7 @@ Teshkān
 Tibah
 Tibazār
 Tibir
-Tik
+Tik, تيك
 Til-e Dūāb
 Til-e Panjshayr
 Tilak, تيلك
@@ -20940,7 +20463,6 @@ Tilī
 Timur Sarāy
 Timurak
 Timurak Now Warīd
-Timurak Now Wārid
 Timurzī
 Tinag
 Tinah Qarbōghī
@@ -20952,7 +20474,7 @@ Tirdī Kāsah
 Tirgīn, ترگین
 Tirijī
 Tirkha Kili
-Tirnāwah
+Tirnāwah, Тирнава, ترنابه
 Tirwah Gūdalah
 Tirwat
 Tirwukī
@@ -20980,7 +20502,7 @@ Towisk
 Towkhtah, Тихта
 Towkhurdah
 Towlay
-Towlay Qōl, Taulaykul'
+Towlay Qōl, Taulaykhul', Taulaykul'
 Towp
 Towrak
 Towāchīān, Тавачьян
@@ -21139,7 +20661,7 @@ Tābūt
 Tāchah
 Tāchirāy
 Tāftah
-Tāghar
+Tāghar, Тагар, تغر
 Tāghaz
 Tāghir Patah
 Tāghmah
@@ -21172,23 +20694,18 @@ Tājāwū
 Tājēl Darah
 Tājī Kōṯē, تاجی كوتی
 Tājī Qōl, Tadzhikul'
-Tājīkhā
-Tājīkān
 Tājōkō
 Tājūy
 Tāk
 Tākak
 Tākhah, Таха
-Tākhmak, تاخمك
 Tākhum, تاخوم
 Tākhum Jōy
 Tākhōnak
-Tākhūm
 Tākhūnī
 Tāl Guz̄ar, Тальгузар
 Tāl Paych, Tal'pich
 Tāl Qeshlāq, تال قشلاق
-Tālah
 Tālah Deh
 Tālah Qōl, Talakul'
 Tālah Qōlak
@@ -21209,10 +20726,8 @@ Tālō Khēl, Talokheyl'
 Tālūk
 Tāmqōl, Тамкуль, تام قول
 Tāmuchī
-Tāmās
 Tān Kārēz
 Tānayj
-Tāndah
 Tāngō, تنگو
 Tānūrah
 Tāqarchah
@@ -21224,10 +20739,8 @@ Tārah
 Tārbān
 Tārij
 Tārlīk
-Tārān, تاران
 Tārānah Kêlay
 Tārāwū
-Tārāz
 Tārī Kārēz, كاريزٔ تاری
 Tārīkak
 Tārū
@@ -21247,7 +20760,6 @@ Tāt Khēl, Tatkheyl', تات خيل
 Tātah Khēl, Татахейль, تته خيل
 Tātar
 Tātarīn
-Tātār
 Tātār Chal
 Tāw Biryān, Tavbir'yan, تاو بريان
 Tāwah
@@ -21291,9 +20803,7 @@ Tībīnak
 Tībū, تيبو
 Tīgan
 Tīgārūk
-Tīk, تيك
 Tīl
-Tīlak
 Tīlak-e Bālā
 Tīmūr Shah Kalā, تیمور شاه کلا
 Tīng, تنگ
@@ -21308,7 +20818,6 @@ Tīrgarān
 Tīrgaṟī
 Tīrgīrān
 Tīridō
-Tīryak
 Tīt, تيت
 Tīt Kalā
 Tītān
@@ -21398,14 +20907,12 @@ Tōrah Chīnah, توره چينه
 Tōrah Gaī
 Tōrah Ghunḏêy
 Tōrah Ghūnḏah
-Tōrah Gārah
-Tōrah Gāṟah, توره گاره
+Tōrah Gārah, توره گاره
 Tōrah Shpah, توره سپه
 Tōrah Shāh Ghunḏêy
 Tōrah Tīz̲h̲ah, توره تيژه, توره تیژه, تپهٔ تژه
 Tōrah Wray, توره وری
 Tōrah Wrêy
-Tōrah Wṟêy
 Tōray, تری
 Tōrgal, تور گل
 Tōrganī
@@ -21461,7 +20968,6 @@ Tūkī
 Tūlak
 Tūlsurkhak
 Tūlāt
-Tūlī
 Tūlī Mīr 'Alī
 Tūmanay
 Tūniyān
@@ -21527,12 +21033,12 @@ Urdū Bāgh
 Urdū Khāk
 Urdū Khān
 UrgulĪ
-Urgun, Orgun, Urgin, ورګون‎,
+Urgun, Orgun, Urgin, اورگون‎‎
 Urmas
 Urpī
 Urtipah
 Uruktū
-Uruzgān, Orūzgān, Orūzgān Province, اروزگان, د ارزگان ولايت, ولایت اروزگان
+Uruzgān, Oruzgan, Orūzgān Province, اروزگان, د ارزگان ولايت, ولایت اروزگان
 Uruzgānī, Урзгани, اورزگنی
 Urūsak
 Urūsmah
@@ -21723,7 +21229,6 @@ Waṟō Kêlay
 Waṯ-e Jabār Khēl, Vati-Dzhabarkheyl'
 Waṯah, وته
 Waṯah Pūr
-Waṯapūr
 Widīst Sēl
 Wilāyat, Vul'yat, وليت
 Wilāyat Qōl, Vilayatkul'
@@ -21733,7 +21238,7 @@ Wirdahqamal
 Wish Khōrū
 Witsīr
 Witī
-Witī-ye Pā'īn, وتیً پائين
+Witī-ye Pā'īn, وتئ پائين
 Wiwā, ویوا
 Wiyar
 Wiyālêh, وياله
@@ -21910,21 +21415,16 @@ Wāgh, Ваг
 Wāghlū, Ваглу
 Wāghz
 Wāj Kōn
-Wājah
-Wājān
 Wājūd
 Wāk
 Wākhal Sahīd
 Wākhar
 Wākhān
 Wākhī
-Wāl
-Wālay, ولی
 Wālik
 Wālik Darah
 Wālêh Khēl, Valakheyl'
 Wālā Khōr
-Wālī
 Wālī Bāz Kōṯkêy, ولی باز كوتكی
 Wām, Вам
 Wām Ḩasan Khēl, Vamkhasankheyl'
@@ -21952,7 +21452,6 @@ Wātkhīch
 Wāw
 Wāwuch
 Wāwā Khēl, Vavakheyl'
-Wāygal, Vaygal'
 Wāygalak
 Wāyār, Ваяр
 Wāzghar
@@ -22037,7 +21536,7 @@ Yakhlar
 Yakhnī Qōl
 Yakhpaj
 Yakhtōl
-Yakhēl, Yakheyl', يه خيل, یخیل
+Yakhēl, Yakheyl', يخيل, يه خيل, یخیل
 Yakhī
 Yakhī Kêlay, قريۀ يخی
 Yaklang
@@ -22117,7 +21616,6 @@ Yowud
 Yowur
 Yā Asīch
 Yāghī Band, یاقی بند
-Yākhēl, يخيل
 Yāl Kā Shān
 Yālūr
 Yāmchī
@@ -22127,7 +21625,6 @@ Yāmī Khēl, Yamikheyl'
 Yār Bābā
 Yār Bāy
 Yār Muḩammad, یار محد
-Yār Muḩammad Khān
 Yār Muḩammad Khān Kêlay, یارمحمدخان کلی
 Yār Muḩammad Kêlay
 Yār Mīnah
@@ -22223,7 +21720,6 @@ Zamān
 Zamān Khān Kêlay
 Zamān Khēl, زمان خيل
 Zamān Kōr, زمان كور
-Zamānābād
 Zamīn Darāz
 Zamīn Darāz-e Bālā
 Zamīn Kaj
@@ -22258,7 +21754,6 @@ Zangiwak
 Zangzaī, زنگزئی
 Zangābād
 Zangān
-Zangāw
 Zangāwak
 Zangī
 Zangī Bāy
@@ -22286,7 +21781,7 @@ Zar Shākh
 Zar Tālā
 Zar'alay
 Zaradān
-Zarah Kalā, Зара-Кала
+Zarah Kalā, Зара-Кала, زره كلا
 Zarak, زرك
 Zaram Khān Kōṯ
 Zarandray
@@ -22309,7 +21804,6 @@ Zard Qōl, Zardkul'
 Zard Rēgay
 Zard Sang, زرد سنگ
 Zard Talah, Зардтала
-Zard Tālah
 Zard Ālū
 Zardabādām
 Zardak
@@ -22419,7 +21913,6 @@ Zaywalāyat
 Zaī Ghulaq
 Zaṟah Bānḏah, زره بانده
 Zaṟah Gêrdah, زره گرده
-Zaṟah Kalā, زره كلا
 Zaṟah Pāsanay
 Zaṟah Sharan
 Zaṟah Wulêy
@@ -22461,7 +21954,7 @@ Zihid
 Zihrāt
 Zikōzaī
 Zilar Bast
-Zilargak, زلرگك
+Zilargak, زلرگک
 Zilarwast
 Zilirg
 Zilirgak
@@ -22541,7 +22034,6 @@ Zāmah
 Zāmbōlī
 Zāmil Khān Kōṯ, Zamil'khankot
 Zāmē Khūlah
-Zāmūch
 Zāndêh Kêlay, قريۀ زانده
 Zānū
 Zār Deh
@@ -22556,7 +22048,6 @@ Zāwū
 Zāy Şāliḩ
 Zāy Ḩakīmā
 Zāyamān
-Zāymat
 Zāṟah
 Zāṟêh Kalā, Зара-Кала, زاره كلا
 Zāṟêh S̲h̲ār
@@ -22582,7 +22073,6 @@ Zēṟah, زيره
 Zēṟī, زيری
 Zīch
 Zīcharw
-Zīdān
 Zīlīnchah
 Zīn
 Zīn Darah
@@ -22590,10 +22080,8 @@ Zīn Gird
 Zīn Tīz̲h̲ah
 Zīnjārin
 Zīr-e Kōh
-Zīrah
 Zīrak, زيرک
 Zīrak Kārēz
-Zīrakī
 Zīrakī Khwājah
 Zīrakī Moghulhā
 Zīrakī Sākharīā
@@ -22639,7 +22127,6 @@ Zōṟ Sarak Kêlay, قريۀ زور سرك
 Zōṟ Wām
 Zōṟ Ḩukūmatī, زور حكومتی
 Zūbar Darah
-Zūbār
 Zūghūl
 Zūkhān-e Bālā
 Zūkhān-e Pā'īn
@@ -22683,7 +22170,6 @@ Z̧arīf Kêlay
 Z̧ulm Khēl, Зульмхейль, ظلم خيل
 Z̧ulmahābād
 Z̧ulmābād
-Z̧āfar Khēl, ظافر خيل
 Z̧āhir Kalā, قلعۀ ظاهر
 Z̧āhir Khūnē, ظاهر خانه
 Z̧āhir Kêlay
@@ -22773,7 +22259,6 @@ Z̲h̲īmrīānī
 Ābparān-e Pā'īn
 Ābpūdah
 Ābrow
-Ābrowah
 Ābrōshan
 Ābshikan
 Ābshikan-e Bālā
@@ -22789,12 +22274,10 @@ Z̲h̲īmrīānī
 Ābāsh
 Ābē Khēl, Абехейль, آبی خيل
 Ābī Jān, آبی جان
-Āchamazār
 Ādam, آدم
 Ādam Kalā
 Ādam Khān
 Ādam Khān Kêlay
-Ādam Khēl, Adamkheyl', آدم خيل
 Ādam Kudalī
 Ādam Tsēṟêy, آدم چيری
 Ādam Tāsh
@@ -22862,7 +22345,7 @@ Z̲h̲īmrīānī
 Ākhchah, آخچه
 Ākhir-e Jizah
 Ākhund Bābā
-Ākhundzādah Khēl, Akhundzadakheyl', آخوندزاده خيل
+Ākhundzādah Khēl, Akhundvadakheyl', Akhundzadakheyl', Akhunzadakheyl', آخوندزاده خيل, اخوندزاده خيل
 Ākhundān
 Ākhurī
 Ākhūnd Bābā Wênah
@@ -22874,24 +22357,19 @@ Z̲h̲īmrīānī
 Ākhūndzādah, Ахундзада, آخوندزاده, اخوندزاده
 Ākhūndzādah Dzāy
 Ākhūndzādah Kalā
-Ākhūndzādah Khēl, Akhundvadakheyl', Akhundzadakheyl', Akhunzadakheyl', آخوندزاده خيل, اخوندزاده خيل
 Ākhūndzādah Kêlay, قريۀ آخوندزاده, قَریَۀ اَخوُندزادَه
 Ākhūndzādah Kōday, آخوندزاده كدی
 Ākhūndzādah Qōl, Akhundzadkul'
 Ākhūndzādah Shēlah
-Ākhūndzādah Sāḩib Kêlay
-Ākhūndzādah Şaḩib Kêlay, آخوندزاده صاحب كلی
+Ākhūndzādah Sāḩib Kêlay, آخوندزاده صاحب كلی
 Ākhūndzādahgān, Kar'yan-Akhundzadagan, آخوندزادگان
 Ākhūndzādahhā
-Ākhūndān
 Ākhūndī
 Ākā Faqīr Kalā, قلعۀ آقا فقير
-Ākā Khēl, Акахейль, Саки, آكا خيل, اكا خيل
 Ākāzā'ī
 Ākāzō
 Āladōs Khēl, Aladoskheyl', الدوس خيل
 Ālah
-Ālar
 Ālazan
 Ālchīn, آلچين
 Ālinjak
@@ -22899,7 +22377,6 @@ Z̲h̲īmrīānī
 Āltān
 Āltī Bāy
 Āltī Gunbad, Алтыгумбаз
-Āltī Khwājah
 Ālunjī
 Ālōgak
 Ālūchah
@@ -22908,22 +22385,18 @@ Z̲h̲īmrīānī
 Ālūgak
 Āmad Kêlay
 Āmak
-Āmbūlāq
 Āmij
 Āmpqnah
 Āmurtak
 Āmīr Kalā
 Āmōrṯak
 Āmūrn
-Ānār Bāgh, انار باغ
-Āparān
 Āq Būlāq
 Āq Būlāq Qishlāq
 Āq Būrīā
 Āq Chashmah
 Āq Darah
 Āq Gonbaz̄
-Āq Gunbaz
 Āq Jar
 Āq Kamar
 Āq Kupruk
@@ -22967,7 +22440,6 @@ Z̲h̲īmrīānī
 Āshdādah
 Āshizaī
 Āshnām
-Āshpān, اشپان
 Āshrē Kêlay, آشری كلی
 Āshuqah
 Āshāwah
@@ -22982,7 +22454,6 @@ Z̲h̲īmrīānī
 Āsmānī, اسمنی
 Āsmānīān, Асманьян, آسمانيان
 Āsmār, اسمار
-Āstānah
 Āstānah Bābah
 Āstānah Tapah
 Āstāneh
@@ -23014,23 +22485,18 @@ Z̲h̲īmrīānī
 Āsūdah Kêlay, قريۀ آسوده
 Ātah
 Ātah Būlāqī
-Ātam Khēl
 Ātan
 Ātanah, Атана
 Ātêh Khūnē
 Ātêshān
 Āw Bakhsh
 Āw Burdah
-Āw Darah
 Āw Kalān, اوكلان
 Āw Khōrak
 Āw Mā'īn
 Āw-e Aḩmad
-Āwak
-Āwan
 Āwarān
 Āwchak
-Āwdak
 Āwdak-e Khōrd
 Āwdang
 Āwkhing
@@ -23041,7 +22507,6 @@ Z̲h̲īmrīānī
 Āwund, Авунд, آبند
 Āwī
 Āyd Bachah, Айдбача, آيد بچه
-Āygal
 Āyitay, آیتی
 Āykhimchāl
 Āyn Qal'ah
@@ -23072,20 +22537,15 @@ Z̲h̲īmrīānī
 Ērmah-ye Gul Kōh, Эрмайи-Гулькох, ارمه گل كوه
 Ērān, يران
 Ēshānhā
-Īdil
 Īfch
 Ījan
 Īltaz Kārīz
 Īmj
-Īmnī Khēl, Imnikheyl'
 Īnah Qal'ah, Айнакала, آيينه قلعه
-Īngarak
 Īngiyān, Ing'yan, انگيان
 Īnow
 Īr Būlāq
-Īraklī
 Īrd
-Īrgīn
 Īrsū
 Īrāndāz
 Īshak Kītī
@@ -23093,7 +22553,6 @@ Z̲h̲īmrīānī
 Īshkamish
 Īshān Tōp, Ишантоб, ايشان توب
 Īshānān, ايشانان
-Īskah
 Īsārī
 Ītārchī-ye Pā'īn
 Īwdān
@@ -23177,7 +22636,6 @@ Z̲h̲īmrīānī
 Ōzan Chāh
 Ōz̲h̲ay
 Ōz̲h̲ay-e 'Ulyā
-Ōṯapūr
 Şabr-e 'Ulyā, سبرٔ علیا
 Şabr-e Suflá, شبرٔ سفلى
 Şabrābād
@@ -23192,7 +22650,6 @@ Z̲h̲īmrīānī
 Şad Murdagān
 Şad Murdah
 Şad Rabāţ
-Şadak, صادق
 Şadbarg
 Şadlar
 Şadman
@@ -23209,15 +22666,12 @@ Z̲h̲īmrīānī
 Şadīq 'Alī
 Şadīq Kalā, قلعهٔ صديق
 Şadīār
-Şadō Kalā
-Şadōzaī
 Şafar Khān
 Şafar Muḩammad Kêlay
 Şafdar Kêlay, قريۀ صفدر
 Şafā
 Şafā Khēl, Safakheyl'
 Şalawāt
-Şalāḩ Khēl, صلاح خيل
 Şamad Khān Kêlay
 Şamad Khēl, Samadkheyl', صمد خيل
 Şamad Kêlay
@@ -23228,13 +22682,11 @@ Z̲h̲īmrīānī
 Şandūqchah
 Şarf
 Şarfī
-Şayfuddīn, سيف الدين
 Şayyād
 Şayyād-e Allāh Qōl
 Şayyād-e Baraghan
 Şayyād-e Naqī
 Şayyād-e Z̄āl
-Şayād
 Şayād-e Bālā
 Şayād-e Pā'īn
 Şayādān, صيادان
@@ -23244,10 +22696,7 @@ Z̲h̲īmrīānī
 Şidīqah, Сидика, صديقه
 Şifat Khān Kêlay
 Şubḩ Khēl Kêlay
-Şulbinak
-Şum
 Şābir Kalā, صابر كلا
-Şādiq Kalā
 Şādiqān, سادگان
 Şāfī
 Şāfīhā, Сафиха, صافی‌ها
@@ -23301,7 +22750,6 @@ Z̲h̲īmrīānī
 Şūfī Şāḩib Kōhī
 Şūfīhā
 Şūfīā, صوفيان
-Şūfīān, Suf'yan, صوفيان
 Şūp
 Ţabaq Chōy
 Ţabaq Wardār, طبق وردر
@@ -23311,11 +22759,8 @@ Z̲h̲īmrīānī
 Ţalab Jar
 Ţalab Khēl
 Ţalā Khān Kalā
-Ţazrī
 Ţilā Khān Khēl, Tilakhankheyl', طلا خان خيل
-Ţowlay Qōl, Taulaykhul'
 Ţughrāt
-Ţurbat
 Ţā'ib Khēl, Taibkheyl'
 Ţā'ir Kêlay
 Ţāhir Kamar, Тахиркамар
@@ -23326,7 +22771,6 @@ Z̲h̲īmrīānī
 Ţāqchah
 Ţāqchah Darah
 Ţāqchah Khānah
-Ţāqchī
 Ţāqmah
 Ţāwās Khēl, Tavaskheyl'
 Ţāwūs Khēl, Tauskheyl', Tavuskheyl', تاعس خیل, طاووس خيل
@@ -23423,8 +22867,6 @@ Z̲h̲īmrīānī
 Ūz̲h̲dah Ps̲h̲ah, اوژده پشه
 Ūşbargarah, وصبرگره
 Ūḏīl, وديل
-Ḏab, دب
-Ḏab Kêlay, قريۀ دب
 Ḏabar, دبر
 Ḏabarah
 Ḏabarzaī, دبرزی
@@ -23442,31 +22884,23 @@ Z̲h̲īmrīānī
 Ḏam Darah, دريای دم
 Ḏamah, دمه
 Ḏambar Bābā, دمبر بابا
-Ḏandar
+Ḏandar, دندار
 Ḏang Ḏang
 Ḏangak Kārēz
-Ḏangar, دنگر
 Ḏangar Khēl, دنگر خيل
-Ḏanḏ, ډنډ
 Ḏanḏ Şāḩib Zādahgān, دند صاحبزادگان
 Ḏanḏah, دنده
 Ḏanḏak, دندك
 Ḏanḏapān, دنده پان
-Ḏanḏar, دندار
 Ḏanḏay, دندی
 Ḏanḏē
 Ḏanḏūnah, دندونه
 Ḏast-e Rāst, Дашти-Раст, دشتٔ راست
-Ḏaḏay
 Ḏaḏowṟī Kêlay
-Ḏaṟagi
-Ḏaṟkhān
 Ḏigmālī
 Ḏimblūk
-Ḏingak
 Ḏipōlak, دپولک
 Ḏir Malik Kêlay, قريۀ در ملك
-Ḏizak
 Ḏowulah, دوله
 Ḏul, دل
 Ḏungah
@@ -23483,10 +22917,8 @@ Z̲h̲īmrīānī
 Ḏāg-e Ghulām Khān, داگٔ غلام خان
 Ḏāgay, ډاگی
 Ḏāgī Kêlay, داگی کلی
-Ḏāgīān
 Ḏāgō Mēnah, مسكنٔ داگ
 Ḏāgūnah, داگنه
-Ḏārah
 Ḏāwī, داوی
 Ḏāḏah
 Ḏāḏwāl, Dadval', دادوال
@@ -23496,14 +22928,12 @@ Z̲h̲īmrīānī
 Ḏīlah, ډیله
 Ḏīngah
 Ḏōlagay
-Ḏōlagī, دولگی
+Ḏōlagī, ډولگی
 Ḏōlah
-Ḏōpay
 Ḏōray, دوك
 Ḏōḏagaī, دودگی
 Ḏūkah
 Ḏūkīn
-Ḏūrū
 Ḩabash
 Ḩabīb, Хабиб, حبيب
 Ḩabīb Chīnah
@@ -23529,7 +22959,7 @@ Z̲h̲īmrīānī
 Ḩalqah Kōl, Khal'kakol'
 Ḩalqah Yār, Халькаяр
 Ḩalwā Khōr
-Ḩalwā Qōl, Хальвакуль, حلوا قول
+Ḩalwā Qōl, Khal'vakul', حلوا قول
 Ḩalākū
 Ḩalīm Khān
 Ḩalīm Khēl, Khalimkheyl', حليم خيل
@@ -23537,7 +22967,6 @@ Z̲h̲īmrīānī
 Ḩalīm S̲h̲ār, حلم شار
 Ḩamalah, Хамала
 Ḩamzah, حمزه
-Ḩamzah Khēl, Khamzakheyl', حمزه خيل
 Ḩamām
 Ḩamīd Khēl, Khamidkheyl', حميد خيل
 Ḩamīd Kêlay
@@ -23569,7 +22998,7 @@ Z̲h̲īmrīānī
 Ḩasan Khān
 Ḩasan Khān Khēl, Хасанханхейль, حسن خان خيل
 Ḩasan Khān Kêlay
-Ḩasan Khēl, Khasankhel', Хасанхейль, حسن خيل, حسن خېل
+Ḩasan Khēl, Khasankhel', Khasankheyl', حسن خيل, حسن خېل
 Ḩasan Kūlah
 Ḩasan Muḩammad Kêlay, قريۀ حسن محمد
 Ḩasan Qūdūq
@@ -23623,7 +23052,7 @@ Z̲h̲īmrīānī
 Ḩişār Khēlhā, Khisarkheyl'kha, حصارخيل ها
 Ḩişār-e Munārah, حصارٔ مناره
 Ḩişārah Gaṯah, حصارۀ گته
-Ḩişārak, Хисарак, حصارك
+Ḩişārak, Хисарак, هصارک
 Ḩişārak-e Bālā
 Ḩişārak-e Pā'īn
 Ḩişārē Tangī
@@ -23675,7 +23104,7 @@ Z̲h̲īmrīānī
 Ḩusaīn Allāh Dād
 Ḩusaīn Kalā, حسین کلا
 Ḩusaīn Khān Khēl, Khuseynkhankheyl', حسين خان خيل
-Ḩusaīn Khēl, Khuseynkheyl', Хусейнхель, حسين خيل
+Ḩusaīn Khēl, Khuseynkhel', Хусейнхейль, حسين خيل
 Ḩusaīn Kêlay, قريۀ حسين
 Ḩusaīn Kōr
 Ḩusaīndzaī, حسينجی
@@ -23690,7 +23119,7 @@ Z̲h̲īmrīānī
 Ḩāfiz̧ā
 Ḩāfiz̧ān
 Ḩājatgāh
-Ḩāji Khēl, Khadzhikheyl'
+Ḩāji Khēl, Khadzhikheil', Khadzhikheyl', حاجی خيل
 Ḩājinj
 Ḩājjī Bowyen
 Ḩājī
@@ -23761,7 +23190,6 @@ Z̲h̲īmrīānī
 Ḩājī Khān Gul
 Ḩājī Khān Kalā
 Ḩājī Khān Muḩammad
-Ḩājī Khēl, Khadzhikheil', Khadzhikheyl', حاجی خيل
 Ḩājī Khōjō Kêlay, حاجی خوجو كلی
 Ḩājī Kākō Kêlay
 Ḩājī Kōṯ, Хаджикут, هاجی كوت
@@ -23857,7 +23285,6 @@ Z̲h̲īmrīānī
 Ḩājīān, Khadzh'yan, حاجيان
 Ḩājīānō Kêlay, Khadzh'yanukalay, حاجيانو كلی
 Ḩākim Kalā
-Ḩākimābād
 Ḩākinī
 Ḩātam Kêlay
 Ḩīlehābād
@@ -23867,15 +23294,11 @@ Z̲h̲īmrīānī
 Ṟāndah Khēl, Randakheyl'
 Ṟūch
 Ṟūndah, رونده
-Ṯaghar, Тагар, تغر
 Ṯagān
 Ṯakah Ghāl, Takagal'
-Ṯakalghū
-Ṯakaṯū, تكتو
 Ṯambikah, تمبكه
 Ṯanḏay, تندی
 Ṯanḏaī
-Ṯanḏān, تندان
 Ṯanṯīl, تنتيل
 Ṯapōr
 Ṯapōrak
@@ -23887,7 +23310,6 @@ Z̲h̲īmrīānī
 Ṯigalām
 Ṯikar
 Ṯingowar
-Ṯirnāwah, Тирнава, ترنابه
 Ṯisin
 Ṯīk Kalā
 Ṯōlmêshr Kêlay, Tol'mishrkalay, قريۀ تولمیشر

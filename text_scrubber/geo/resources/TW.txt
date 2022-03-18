@@ -539,8 +539,7 @@ Bihu
 Bilai, P'i-lai-she
 Bililiang
 Bilin
-Bilu, P'i-la-lu-she, Pi-lu-ts'un
-Bilü, Pi-lü
+Bilu, P'i-la-lu-she, Pi-lu-ts'un, Pi-lü
 Bilüxi, Pi-lü-hsi
 Bingdianzi
 Binglu
@@ -706,7 +705,7 @@ Caoshanjiao, Ts'ao-shan, Ts'ao-shan-chiao
 Caoshanlukou, Niu-lan-p'ing, Ts'ao-shan-lu-k'ou
 Caoshanting, Ts'ao-shan-ting, 草山頂
 Caoshanzhuang
-Caotan, Ts'ao-T'an
+Caotan, Ts'ao-t'an
 Caotian
 Caotun, Ts'ao-t'un, Ts'ao-t'un-chuang
 Caowazi, Ts'ao-wa-tzu, 草凹仔
@@ -995,7 +994,7 @@ Cihu, Tz'u-hu
 Cihua
 Ciqiaokeng, Sha-ch'üan-k'eng, Sha-kou-k'eng, Tz'u-ch'iao-chieh, Tz'u-ch'iao-k'eng
 Citong, Tz'u-t'ung, Tz'u-t'ung-chuang
-Citongjiao, Chih-t'ung, T'ung-liao, Tz'u-t'ung, Tz'u-tung-chiao
+Citongjiao, Chih-t'ung, T'ung-liao, T'zu-t'ung-chiao, Tz'u-t'ung
 Citongkeng, Tz'u-t'ung-k'eng
 Citongliao, Tz'u-t'ung-liao
 Citongqi, Li-t'ung-ch'i, Tz'u-t'ou-ch'i, Tz'u-t'ung-ch'i
@@ -1325,7 +1324,7 @@ Daping, Nei-p'ing, T'ai-p'ing, Ta-p'ing, Ta-p'ing-lin, Wai-p'ing, Wai-ta-p'ing
 Dapingbu, Ta-p'ing-pu
 Dapingcun
 Dapingdi, Ta-p'ing-ti, 大平地
-Dapingding, P'ing-ting, P'ing-ting-ts'un, San-k'uai-ts'o, T'a-p'ing-ting, T'ieh-kuo-shan, Ta-p'ing
+Dapingding, P'ing-ting, P'ing-ting-ts'un, San-k'uai-ts'o, T'ieh-kuo-shan, Ta-p'ing, Ta-p'ing-ting
 Dapingjiao, Ta-p'ing-chiao
 Dapinglin, Ta-p'ing-lin
 Dapinglong, Ta-p'ing-lung
@@ -1348,7 +1347,7 @@ Daqitou, Ta-ch'i, Ta-ch'i-li, Ta-ch'i-t'ou
 Daqiu, Ta-ch'in-li, Ta-ch'iu, Ta-ch'iu-li, Ta-ch'iu-yüan
 Daqiucun
 Daqiutian, Ta-ch'iu-t'ien
-Daqiuyuan, T'ien-yüan, Ta-ch'iu, Ta-ch'iu-ts'un, Ta-ch'iu-yüan, Ta-la-yüan, Ta-yüan, Ta-yüan-ts'un
+Daqiuyuan, T'ien-yüan, Ta-ch'iu, Ta-ch'iu-ts'un, Ta-ch'iu-yuan, Ta-la-yüan, Ta-yüan, Ta-yüan-ts'un
 Daqiwei, Ta-ch'i-wei
 Daqixia, Lung-tu-ts'un, Ta-ch'i-chiao, Ta-ch'i-hsia
 Daque, Ta-ch'üeh
@@ -1468,7 +1467,7 @@ Dayong, Ta-p'ai-sha, Ta-yung-ts'un
 Dayou, Ta-yu-ts'un
 Dayoukeng, Ta-yu-k'eng
 Dayu, Kuang-fu-ts'un, Mo-kuang-ts'un, Ta-yü, Ta-yü-ts'un
-Dayuan, Fu-yüan, Ta-Yüan
+Dayuan, Fu-yüan, Ta-yüan
 Dayuanshe, Ta-yüan, Ta-yüan-she
 Dayuling, Ho-huan-ya-k'ou, Ta-yü-ling
 Dazhai
@@ -3832,7 +3831,6 @@ Kanzijiao, Ch'ien-tzu-chiao, Fu-chi-ts'un, K'an-tzu-chiao, K'en-tzu-chiao
 Kanzitou, K'an-tzu-t'ou
 Kao-sung
 Kaohsiung, Kaohsiung City, Takao, 高雄, 高雄市
-Kaohsiung, Kaohsiung City, Takao, 高雄, 高雄市
 Kaojian
 Kaoqijiao, K'ao-ch'i-chiao
 Kaoshitan, K'ao-shih, K'ao-shih-t'an, K'ao-shih-ts'un
@@ -4267,7 +4265,7 @@ Liulucuo, Liu-lu-ts'o
 Liumagou
 Liumao'an, Lioumao'an
 Liuqiuzi, Liu-ch'iu, Liu-ch'iu-ts'un, Liu-ch'iu-tzu
-Liuquwo, Liu-ch'ü-wo
+Liuquwo, Liu-ch'u-wo
 Liushekeng, Liu-she-k'eng
 Liushijia
 Liushishi
@@ -4517,7 +4515,7 @@ Lutaoyang, Lu-t'ao-yang
 Lutenghu, Lu-t'eng-hu
 Luweilin
 Luwen
-Luye
+Luye, Lü-yeh
 Luzhongxiang, Ta-ch'e-chuang
 Luzhou
 Luzhu, Chu-hsi-ts'un, Lu-chu-ts'un, Ts'ai-wen
@@ -4539,7 +4537,6 @@ Lüfeng, Lü-feng
 Lümao, Lü-mao
 Lüshui, Lü-shui
 Lüwu, Lü-wu
-Lüye, Lü-yeh
 Ma'an
 Ma'anliao
 Ma'anlun
@@ -5342,7 +5339,7 @@ Pingsheng, P'ing-sheng
 Pingshuita, P'ing-shui-t'a
 Pingtian
 Pingtou, P'ing-t'ou
-Pingtung, P'ing-tung, P'ing-tung-chieh, P'ing-tung-hsien, P'ing-tung-shih, Pingtung City, 屏東市, 屏東縣
+Pingtung, P'ing-tung, P'ing-tung Hsien, P'ing-tung-chieh, P'ing-tung-shih, Pingtung City, 屏東市, 屏東縣
 Pingwei, P'ing-wei
 Pingxi, An-ch'i-liao, An-ch'i-ts'o, An-hsi-ts'o, P'ing-ch'i, P'ing-hsi, P'ing-hsi-chieh, P'ing-hsi-ts'un
 Pingxizi, Ho-p'ing, P'ing-ch'i-tzu, P'ing-hsi-tzu
@@ -5520,7 +5517,7 @@ Qiedongshuxia, Ch'ieh-tung-shu-hsia, 茄苳樹下
 Qiedongwo, Ch'ieh-tung-wo
 Qiedongxia, Ch'ieh-tung-hsia, 茄苳下
 Qiedongzhuang, Ch'ieh-tung-chuang, 茄苳庄
-Qiedongzi, Ch'ieh-tung-tzu, 茄苳仔
+Qiedongzi, Ch'ieh-tung-tzu, 茄苳子
 Qiehu, Ch'ieh-hu, Ch'ieh-tung-hu, 茄湖
 Qienanzhuang, Ch'ieh-nan-chuang, 茄南莊
 Qietou, Ch'ieh-t'ou, 茄投
@@ -5685,7 +5682,7 @@ Quanshuikeng, Ch'üan-shui-k'eng, Ch'üan-shui-k'ung
 Quanshuikong, Ch'üan-shui-k'ung
 Quanshuiwo, Ch'üan-shui-wo
 Quanshuizi, Ch'üan-shui-tzu
-Quanzhoucuo, Ch'uan-chou-ts'o, Ch'üan-chou, Ch'üan-chou-p'o, Ch'üan-chou-wu
+Quanzhoucuo, Ch'üan-chou, Ch'üan-chou-p'o, Ch'üan-chou-ts'o, Ch'üan-chou-wu
 Quanzhouke, Ch'üan-chou-k'o
 Quanzhoukeng, Ch'üan-chou-k'eng
 Quanzhouliao, Ch'üan-chou-liao
@@ -7100,7 +7097,7 @@ Taishan, T'ai-shan
 Taishancun, T'ai-shan, T'ai-shan-ts'un
 Taishang, T'ai-shang
 Taitian, T'ai-t'ien
-Taitung, Pinamu, T'ai-tung, T'ai-tung Shih, T'ai-tung-chen, T'ai-tung-hsien, Taito, 臺東, 臺東縣
+Taitung, Pinamu, T'ai-tung, T'ai-tung Shih, T'ai-tung-chen, T'ai-tung-hsien, Taito, 台東縣, 臺東
 Taituo, T'ai-t'o, 臺拓
 Taiwan Minsucun, T'ai-wan Min-su-ts'un, 臺灣民俗村
 Taiwangou, T'ai-wan-kou, Wan-fen-ts'un, Wan-feng-ts'un
@@ -7304,7 +7301,7 @@ Tiwugang, T'i-wu-kang, 堤烏岡
 Tizidi, T'i-tzu-ti, 堤仔底
 Tizikeng, T'i-tzu-k'eng
 Tong'an
-Tong'ancuo, T'ung-an-ts'o, Tung-ts'o-ts'un
+Tong'ancuo, Tung-ts'o, Tung-ts'o-ts'un
 Tong'anliao, T'ung-an-liao
 Tong'anti, T'ung-an, T'ung-an-t'i, T'ung-an-ts'un
 Tong'anzhai, T'ung-an-chai, T'ung-an-ts'un, Tong'anjhai
@@ -8651,7 +8648,7 @@ Xinchangkeng, Hsin-ch'ang-k'eng, 信長坑
 Xinchaoling, Hsin-ch'ao-ling
 Xincheng, Hsin-ch'eng, Hsin-ch'eng-li
 Xincun, Hsin-ts'un
-Xincuo, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Hsin-ts'un, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
+Xincuo, An-hsin-ts'un, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
 Xincuocun, Hsin-ts'o-ts'un
 Xincuoguan, Hsin-ts'o-kuan
 Xincuoliao, Hsin-ts'o-liao
@@ -8848,7 +8845,7 @@ Xinzi
 Xinzilao
 Xinziliao
 Xiongjiaohu, Ch'iung-chiao-hu, Ts'u-k'eng, 芎蕉湖
-Xiongjiaojiao, Ch'iung-chiao-chiao, Ch'iung-chiao-ts'un, Hsiung-chiao-ts'un, 芎蕉脚
+Xiongjiaojiao, Ch'iung-chiao-chiao, Ch'iung-chiao-ts'un, Hsiung-chiao-ts'un, 芎蕉腳
 Xiongjiaokeng, Ch'iung-chiao-k'eng, Chiao-k'ang, Hsiung-chiao-k'eng, 芎蕉坑
 Xiongjiaolin, 芎蕉林
 Xiongjiaoping, Ch'iung-chiao-p'ing, Hsiung-chiao-p'ing, 芎蕉坪
@@ -9030,7 +9027,7 @@ Yancuo, Yen-ts'o
 Yancuoliao, Yen-ts'o-liao
 Yandi, 雁地
 Yanding
-Yandizi, 鹽地仔
+Yandizi, 鹽地子
 Yandunjiao, Ch'iung-chiao-chiao
 Yangchoucuo, Yang-ch'ou, Yang-ch'ou-ts'o, Yang-ch'ou-ts'un, Yang-t'iao, Yang-t'iao-li
 Yangchoukeng, Yang-ch'ou-k'eng
@@ -9069,7 +9066,7 @@ Yangzilin
 Yanheli
 Yanjiao
 Yanjijie
-Yankeng, Pa-yen-k'eng, Yen-K'eng
+Yankeng, Pa-yen-k'eng, Yen-k'eng
 Yanlao
 Yanliao, Yen-liao-k'eng
 Yanliaokeng, Yen-liao-k'eng

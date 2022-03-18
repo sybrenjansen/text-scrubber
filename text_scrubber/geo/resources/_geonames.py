@@ -32,7 +32,7 @@ def process(work_dir: str, filename: str, save_dir: str, manual_alternate_names:
                'feature code', 'country code', 'cc2', 'admin1 code', 'admin2 code', 'admin3 code', 'admin4 code',
                'population', 'elevation', 'dem', 'timezone', 'modification date']
     df = pd.read_csv(os.path.join(work_dir, filename), sep='\t', header=None, names=columns,
-                     usecols=['geonameid', 'name', 'feature class', 'feature code'], keep_default_na=False)
+                     usecols=['geonameid', 'name', 'asciiname', 'feature class', 'feature code'], keep_default_na=False)
 
     # Load alternative names
     columns_alt = ['alternateNameId', 'geonameid', 'isolanguage', 'alternate name', 'isPreferredName', 'isShortName',
@@ -90,13 +90,14 @@ def process(work_dir: str, filename: str, save_dir: str, manual_alternate_names:
 
     # Groupby name to get rid of duplicates. Now we are left with unique names, but they can have multiple geonameids
     # and alternate names
-    df = df.groupby('name')[['geonameid', 'alternate name']].agg(
-        {'alternate name': lambda x: reduce(set.union, x)}
+    union_func = lambda x: reduce(set.union, x)
+    df = df.groupby('name')[['geonameid', 'asciiname', 'alternate name']].agg(
+        {'alternate name': union_func, 'asciiname': 'first'}
     ).reset_index()
 
     # Match administrative divisions to populated places and add their geoname_ids
     df_adm_div['name_lower'] = df_adm_div.name.str.lower()
-    df_adm_div = df_adm_div.drop(['name', 'geonameid', 'feature class', 'feature code'], axis=1)
+    df_adm_div = df_adm_div.drop(['name', 'asciiname', 'geonameid', 'feature class', 'feature code'], axis=1)
     df_adm_div = df_adm_div.set_index('name_lower')
     df_adm_div.columns = ['alternate name_alt']
     df['name_lower'] = df.name.str.lower()
@@ -105,8 +106,12 @@ def process(work_dir: str, filename: str, save_dir: str, manual_alternate_names:
     if len(df):
         df['alternate name'] = df.apply(lambda row_: row_['alternate name'] | row_['alternate name_alt'], axis=1)
 
+    # Combine names based on equal ascii name
+    df = df.groupby('asciiname')[['name', 'alternate name']].agg({'name': 'first',
+                                                                  'alternate name': union_func}).reset_index()
+
     # Drop columns that are no longer of interest and sort
-    df = df.drop(['name_lower', 'alternate name_alt'], axis=1)
+    df = df.drop(['asciiname'], axis=1)
     df = df.sort_values('name')
 
     # Store name + alternate names. The name and alternative names can have overlap
