@@ -21,6 +21,7 @@
 'Abd aj Jabbar
 'Abd al Banāt
 'Abd al Bāqi
+'Abd al Bāqī
 'Abd al Fāḑil
 'Abd al Ghaffār
 'Abd al Ghani
@@ -69,6 +70,7 @@
 'Al 'Imtidād 'al Musā'dāb
 'Alam al Huda
 'Alamāra 'Abd ar Raḩīm
+'Ali
 'Ali Wad Mōsa
 'Ali Ḩiyya
 'Alālī
@@ -116,6 +118,7 @@
 'Attab West
 'Awadat
 'Awaḑ Al 'Alim
+'Awaḑ Allah
 'Awaḑ Allāh
 'Awaḑīyah
 'Awget el Kheima
@@ -267,6 +270,7 @@ Abu 'Aḑḑā
 Abu 'Ilela
 Abu 'Iref
 Abu 'Ush
+Abu 'Ushar
 Abu 'Uḑām
 Abu Ammar
 Abu Andud
@@ -338,6 +342,7 @@ Abu Shineb
 Abu Shotāl
 Abu Shugeira
 Abu Shāma
+Abu Sifefa
 Abu Sineqda
 Abu Suq
 Abu Suqra
@@ -349,6 +354,7 @@ Abu Tīqa
 Abu Umm Gagga
 Abu Witid
 Abu Zaghūli
+Abu al Ḩasan
 Abu el Khil
 Abu Ţaliḩ
 Abu Ţileḩ
@@ -365,7 +371,7 @@ Abus
 Abuser
 Abyaḑ
 Abyaḑāni
-Abyei
+Abyei, أبيي
 Abī Karu
 Abū 'Agala
 Abū 'Agub
@@ -405,6 +411,7 @@ Abū Giri
 Abū Gogi
 Abū Har
 Abū Hashim
+Abū Hashīm
 Abū Horira
 Abū Jallābīyah
 Abū Jaylī
@@ -427,6 +434,7 @@ Abū Qudāf
 Abū Qulayḩah
 Abū Qulūt
 Abū Qurayn
+Abū Qurūn
 Abū Qussī
 Abū Quşşah
 Abū Qūţah
@@ -523,6 +531,7 @@ Ad Difena
 Ad Dighena
 Ad Dilebāt
 Ad Dindar
+Ad Dineqīla
 Ad Diqayyāb
 Ad Direra
 Ad Diresāt
@@ -530,7 +539,7 @@ Ad Diseis
 Ad Dishenāt
 Ad Diḩeshāt
 Ad Doma
-Ad Douiem
+Ad Douiem, Al Dewaym, Dewaim, Ed Dueim, الدويم (مدينة)
 Ad Doḩa Fallāta
 Ad Doḩa Qimaz
 Ad Drout
@@ -553,7 +562,7 @@ Ad Dāya
 Ad Dāyra
 Ad Dīsa
 Ad Ḑarawāb
-Ad-Damazin
+Ad-Damazin, الدمازين
 Adaluta
 Adama Umm Qurein
 Adara
@@ -656,6 +665,7 @@ Al 'Alaqah
 Al 'Amara
 Al 'Amara Abyad
 Al 'Amarad
+Al 'Amāra
 Al 'Amāra 'Ali
 Al 'Amāra 'Ali 'Abdallah
 Al 'Amāra 'Awaḑ al Karīm
@@ -671,6 +681,7 @@ Al 'Anḑarāba
 Al 'Anḑarāba al Ḩassāniyya
 Al 'Aradeiba
 Al 'Aradeiba Jazīrah
+Al 'Arakiyyin
 Al 'Arakiyyīn
 Al 'Arashkol
 Al 'Arid
@@ -693,12 +704,14 @@ Al 'Ayyāţa
 Al 'Az Āza
 Al 'Azaza
 Al 'Azzāzi
+Al 'Azāza
 Al 'Azāza Al Ḩamra
 Al 'Azāzah
 Al 'Azāzāb
 Al 'Azāzāb an Nīl
 Al 'Aţash
 Al 'Aţrūn
+Al 'Aţshān
 Al 'Aţāyā
 Al 'Ekūra
 Al 'Elafon
@@ -771,6 +784,7 @@ Al Basabir
 Al Bashīr 'Ismā'il
 Al Bashīr Ibrāhīm
 Al Bashīrī
+Al Basābir
 Al Basātna
 Al Bayyāḩa
 Al Bayḑā'
@@ -904,6 +918,7 @@ Al Haraniyya
 Al Hasaheisa
 Al Hasanab
 Al Hashāb
+Al Hashāba
 Al Hassaniya
 Al Haybah
 Al Hebeika
@@ -946,7 +961,7 @@ Al Kabur
 Al Kabābīsh
 Al Kadū
 Al Kalagi
-Al Kalakla
+Al Kalakla, الكلاكلة
 Al Kamlin
 Al Kanīsah
 Al Karabah
@@ -1051,13 +1066,14 @@ Al Mak Muḩammad
 Al Makhāda
 Al Makhālīf
 Al Malamm
+Al Malīḥ
 Al Malīḩ
 Al Mamsūkah
 Al Manara
 Al Mandakāb
 Al Manofali
 Al Manshaqa
-Al Manshiya
+Al Manshiya, المنشية
 Al Mansūra
 Al Manwra
 Al Manāqil
@@ -1128,7 +1144,7 @@ Al Māliḩah
 Al Mōrēb
 Al Oddaiya
 Al Qabr
-Al Qadarif, Gedaref
+Al Qadarif, Gedaref, القضارف
 Al Qadād
 Al Qafalāt
 Al Qal'a
@@ -1168,6 +1184,7 @@ Al Qiḑeḑīma ad Danāqla
 Al Qiḑeḑīma as Suq
 Al Qlabat al Hassanab
 Al Qowez
+Al Qoz
 Al Qoz Ḩaj Yusif
 Al Qubbah
 Al Qudayr
@@ -1188,6 +1205,7 @@ Al Quwwir
 Al Quwēz
 Al Quşayyirah
 Al Qā'ah
+Al Qāl'a
 Al Qōz
 Al Roseires
 Al Rumailah
@@ -1214,6 +1232,8 @@ Al Wāḩa
 Al Zarība
 Al Ţuwylāb
 Al Ūshara
+Al Ḥarāniyya
+Al Ḩafira
 Al Ḩafāyir
 Al Ḩafāyir Ḩamad
 Al Ḩafīra
@@ -1301,6 +1321,7 @@ Ambara
 Ambikol West
 Ambikūl
 Ambireika
+Ambābi
 Amentego
 Amergu
 Amilir
@@ -1491,6 +1512,7 @@ As Silek
 As Sineţ
 As Sineţāya
 As Sinnāb
+As Sinēţ
 As Siqerāb
 As Siqeta
 As Siref
@@ -1539,6 +1561,7 @@ Ash Shawaia
 Ash Shawal
 Ash Shawrāb
 Ash Shawwāf
+Ash Shawwāfa
 Ash Shawwāfa al Laḩamda
 Ash Shawāfa
 Ash Shaykh al Hasin
@@ -1633,7 +1656,7 @@ At Tur'ah
 At Tuweifra
 At Tīn
 At Ţunduba
-Atbara
+Atbara, عطبرة
 Ateina
 Ath Thawra
 Ath Thawra Tutumatta
@@ -1671,6 +1694,7 @@ Az Zananda Jubara
 Az Zanqour
 Az Zawarat
 Az Zayyādīyah
+Az Zedab
 Az Zedāb
 Az Zi'ef
 Az Zi'ef Sibeq
@@ -1696,7 +1720,7 @@ Aş Şiddīq
 Aş Şiferaya
 Aş Şinet Ash Shiqelab
 Aş Şiqay'a
-Aş Şubābī
+Aş Şubābī, الصبابي
 Aş Şubāgh
 Aş Şufayyah
 Aş Şābūnābi
@@ -1709,6 +1733,7 @@ Aţ Ţayif
 Aţ Ţayyib Aḩmad
 Aţ Ţayyārah
 Aţ Ţi'emāb
+Aţ Ţileha
 Aţ Ţilesh al 'Asha
 Aţ Ţilesh al Qiresh
 Aţ Ţileḩ
@@ -1742,6 +1767,7 @@ Aḩmad ash Shayn
 Aḩmar
 Aḩmar Mūqi
 Aṣ Ṣahabāya
+Aṣ Ṣineţaya
 Aṣ Ṣineţāb
 Ba'shūm
 Ba'āshīm
@@ -1751,7 +1777,7 @@ Baba
 Babanousa
 Babanūsah
 Babarros
-Babel
+Babel, Bābil
 Baberi
 Babinga
 Babunus
@@ -1791,6 +1817,7 @@ Ballāli
 Balmut
 Balos
 Balula
+Balūla
 Balūlah
 Balūma
 Ban Jadid
@@ -1817,6 +1844,7 @@ Bara
 Barak ath Thawr
 Barakah
 Barakat
+Barakāt
 Barakīyah
 Barankawa
 Baraya
@@ -1825,6 +1853,7 @@ Barbarī
 Barbīţ
 Bardani
 Bardei
+Bardānī
 Barfa
 Bargnop
 Barid
@@ -1983,15 +2012,16 @@ Burei
 Buretta
 Burghūl
 Buronga
-Burri Al Drayssah
-Burri Al Lamab
-Burri Al Mahas
-Burri Al Shreef
+Burri Al Drayssah, بري الدرايسة
+Burri Al Lamab, بري اللاماب
+Burri Al Mahas, بري المحس
+Burri Al Shreef, بري الشريف
 Burtubil
 Burubaasi
 Burunga
 Burush
 Burusini
+Burām
 Busatab
 Bushara Abukr
 Bushāriyya
@@ -2005,10 +2035,12 @@ Buwayḩah
 Buţen
 Buḩayr
 Bā Bikr Ḩamzah
+Bāba
 Bābanūsa
 Bābikir
 Bābikri
 Bān
+Bānat
 Bāqetu
 Bārah
 Bārūd
@@ -2210,7 +2242,7 @@ Dola
 Dolum
 Dom Basin
 Domi
-Dongola
+Dongola, دنقلا
 Dontāy
 Doteit
 Dubarid
@@ -2298,6 +2330,7 @@ Dār Zubi
 Dār aj Jam
 Dār al 'Awada
 Dār al Bakhītah
+Dār as Salam
 Dār as Surūr
 Dār Āqil
 Dār Ḩammād
@@ -2308,7 +2341,7 @@ Dīn
 Dīs
 Dīsah
 Ebbei
-Ed Damer
+Ed Damer, Al-Damir, الدامر
 Ed Danaqla
 Ed Dayomab
 Ed Debba
@@ -2367,7 +2400,7 @@ El Bauga
 El Bawaled
 El Beiri
 El Bqedab
-El Daein
+El Daein, Ad Du'ayn, Ed Daein, الضعين
 El Defal
 El Fahalab
 El Fahlab
@@ -2376,16 +2409,16 @@ El Faki Hashim
 El Faki el Amin
 El Far
 El Farash
-El Fasher, Al-Fashir
+El Fasher
 El Feid
 El Fereikha & El Haffab
 El Fifi
 El Figelab
 El Fijeja
-El Fil
+El Fil, Al Fīl
 El Fireqab
 El Foqara
-El Fula
+El Fula, الفولة
 El Gaa'fra
 El Gabarna
 El Gabrab
@@ -2472,7 +2505,7 @@ El Muhenna
 El Murr
 El Murraya
 El Mutmar
-El Obeid, Al-Ubayyid
+El Obeid, Al-Ubayyid, الأبي
 El Qal'a
 El Qardud
 El Qaryat
@@ -2584,6 +2617,7 @@ Falakta
 Falankei
 Fallala
 Fallata
+Fallāta
 Famakah
 Famideru
 Fanadudu
@@ -2599,7 +2633,7 @@ Farag
 Faragamindo as Sahal
 Farahein
 Faraj Allāh
-Faraj Allāh Abū Kurā'
+Faraj Allāh Abū Kurā', Faragullah Abu Kura'
 Farajāb
 Faraksika
 Faras East
@@ -2691,7 +2725,7 @@ Fonte Ines
 For
 Forda
 Forei
-Foro Burunga, فورو برنج
+Foro Burunga, فور برنج, فورو برنج
 Fufi
 Fugarā
 Fugora
@@ -2761,13 +2795,13 @@ Garada
 Garadaya
 Gararang
 Garbur Walad
-Garden City
+Garden City, جاردن سيتي, قاردن سيتي
 Gardu Himed
 Gardud Abu Addakir
 Gardud Lammi
 Gardud Tabaldi
 Gardud al Bashem
-Gardud el Badry
+Gardud el Badry, Ţōris
 Gargarat
 Garrafa
 Garsila
@@ -2806,7 +2840,7 @@ Gemai West
 Gemira
 Gemmeiza
 Gendi
-Geneina
+Geneina, El Geneina, الجنينة
 Genneto
 Genrina
 Gerabin Tegali
@@ -2960,6 +2994,7 @@ Habobiyya
 Habobiyya Ash Shāmi
 Habos
 Habīl
+Habīla
 Habīlah
 Hadaliya
 Haddaf
@@ -3018,6 +3053,7 @@ Hasaya
 Hashaba
 Hashabu
 Hashāb
+Hashāba
 Hashābah
 Hashābat Muḩammad Aḩmad
 Hashābat Umm Qawz
@@ -3123,6 +3159,7 @@ Hillat Barakat
 Hillat Baroka
 Hillat Birema
 Hillat Blalh
+Hillat Bānat
 Hillat Dabak
 Hillat Dar al Asad
 Hillat Darb Alkheil
@@ -3434,6 +3471,7 @@ Id Aj Jim
 Id ad Diwem
 Id en Nakhi
 Idiru
+Idris
 Idris Mustafa
 Idrīs
 Idrīs Abū Umm Duluk
@@ -3545,6 +3583,7 @@ Jurāb Yābis
 Jābona
 Jāda
 Jādas Sīd
+Jādīd
 Jāh ar Rasūl
 Jājera
 Jāldūk
@@ -3588,7 +3627,7 @@ Kadeita
 Kadmu
 Kadodo
 Kadruka
-Kadugli, Kaduqli
+Kadugli, Kaduqli, كادقلي
 Kadāba
 Kadādah
 Kadāyis Aj Jamānla
@@ -3626,7 +3665,7 @@ Kalla Umar
 Kallo Ghubsh
 Kalma
 Kalokitting
-Kaloqi
+Kaloqi, Kalogi
 Kalu
 Kamanzamu
 Kamashēr
@@ -3713,6 +3752,7 @@ Karkab
 Karkaj
 Karkangi
 Karkarava
+Karkaray
 Karkarāy
 Karkawj
 Karkoj
@@ -3820,8 +3860,9 @@ Khamīsah
 Khanag
 Kharrāţ
 Khartah
-Khartoum
-Khartoum North
+Khartoum, ااالخرطوم, خرطوم
+Khartoum, Khartoum State, ااالخرطوم, خرطوم, ولاية الخرطوم
+Khartoum North, Bahri, بحري
 Kharuba
 Kharīf
 Khash Khashaia
@@ -3885,6 +3926,7 @@ Kimang Kergil
 Kimla
 Kimnar
 Kimungaro
+Kinana
 Kinderma
 Kinduwa
 Kinez Fallāta
@@ -3975,7 +4017,7 @@ Koryot
 Kosha
 Koshi
 Kosormungia
-Kosti, Kūstī
+Kosti, Kūstī, ربك
 Kosua
 Kosula
 Koulbous
@@ -4105,6 +4147,7 @@ Kāfi
 Kākamūta
 Kālinda
 Kāndik
+Kāra
 Kārjuqul
 Kēgā Timēro
 Kīlu 'Ashara
@@ -4113,7 +4156,9 @@ Kīlu Khamsa
 Kīlu Sab'a
 Kīlu Saba'a
 Kīlu Tamānya
+Kīrān
 Kōqela
+Kōyā
 Kū' Nāmusa
 Kūbī
 Kūkah
@@ -4158,6 +4203,7 @@ Lovarna
 Luba
 Lubana
 Lubayn
+Lubāna
 Lubānah
 Ludu
 Ludung
@@ -4179,7 +4225,7 @@ Ma'ad Ras el Marfaín
 Ma'adat el Eida
 Ma'agalab
 Ma'aliya Dardok
-Ma'qūlah
+Ma'qūlah, Ma'gula
 Ma'rakah
 Ma'surin
 Ma'tūq
@@ -4309,6 +4355,7 @@ Maryod
 Marzūq
 Marzūqah
 Marārīd
+Mas'ud
 Mas'ūd
 Masaleit
 Masamoagha
@@ -4317,7 +4364,7 @@ Masgid Māmān
 Masgid Qaryat Māmān
 Mashakeila
 Mashatiri
-Masheifat
+Masheifat, Um Shi'efāt
 Mashkor
 Mashra el Kitayyab
 Mashra' Shababit
@@ -4332,13 +4379,14 @@ Masā'ad
 Masājid Wad Hashi
 Masīd al Faki Hāshim
 Matalabta
+Matamir
 Matammah
 Matmar Abu Halema
 Maturab
 Matāmīr
 Maun
 Maya
-Maya ed Dubeyba
+Maya ed Dubeyba, May'a ed Dubeiba
 Mayak Adhulik
 Mayass
 Mayda
@@ -4351,6 +4399,7 @@ Maţar
 Maţaḩin Qoz Kabbaru
 Maţmar
 Maţmar Ḑahr Juhaynah
+Maţmār
 Maḩammad Bābli
 Maḩammad Zēn
 Maḩas Ruqaybah
@@ -4515,6 +4564,7 @@ Murtā
 Murula
 Murundu
 Mus'ad
+Musa
 Musallamīyah
 Musallamīyah Ureibi
 Mushoţnāţ
@@ -4575,7 +4625,7 @@ Nakhl Mahmud
 Namlī
 Naqaza
 Naro
-Nasir Extension
+Nasir Extension, امتداد ناصر, ناصر
 Nasurab
 Nasīm al Jannah
 Naui
@@ -4622,7 +4672,7 @@ Nurlei
 Nutto
 Nuwwara
 Nuzayzah
-Nyala
+Nyala, نيالا
 Nyama
 Nyangadulo
 Nyari
@@ -4645,6 +4695,7 @@ Nūr Aj Jalīl
 Nūr ad Dīn
 Nūr al Qubbah
 Nūrayn
+Nūri
 Nūrāb
 Nūrī
 Obol
@@ -4654,20 +4705,21 @@ Old Roseires
 Om
 Oma
 Omar Ennashe
-Omdurman
+Omdurman, أم درمان
 Omuri
 Onsa
 Ora
 Oreil
 Orori
 Orshard
+Orshārd
 Oru
 Oshomatto
 Otrub
 Oum Jakhakhin
 Oyo
 Pomfa
-Port Sudan
+Port Sudan, Būr Sūdān, بور سودان, بورتسودان
 Qabarāya
 Qabati
 Qabub
@@ -4696,6 +4748,7 @@ Qanatir
 Qanattu
 Qandato
 Qandil
+Qandul
 Qandūl
 Qannib
 Qantura
@@ -4707,7 +4760,8 @@ Qara' al Khanjar
 Qaranīk
 Qaraḍa
 Qaraḑaya
-Qardud
+Qaraḑāya
+Qardud, Al Qurdūd
 Qardud Aris
 Qardud Zahara
 Qardūd 'Abd as Salām
@@ -4753,6 +4807,7 @@ Qaryah Thamānīyah wa Thamānūn
 Qaryah Tis'ah
 Qaryah Tis'ah wa 'Ishrūn
 Qaryah Tis'ata 'Ashar
+Qaryah Wāhid
 Qaryah Wāhid Arab
 Qaryah Wāhid wa 'Ishrūn
 Qaryah Wāḩid
@@ -4826,6 +4881,7 @@ Qism Allah
 Qiḑeḑīma al Laḩāmda
 Qoda
 Qora
+Qoz
 Qoz Abu Shanab
 Qoz Al 'Ak
 Qoz Al Habīl
@@ -4883,7 +4939,7 @@ Qōz' Abd As Salām
 Qūni
 Qūr Fok
 Ra'asat at Taḩāmīd
-Rabak
+Rabak, ربك
 Rabatet
 Rabda
 Rabjīt
@@ -4915,6 +4971,7 @@ Ras el Fil
 Rashid
 Rashid aţ Ţayyib
 Rashād
+Rashīd
 Rasrasa
 Ratabat
 Rawāḩīyah
@@ -4932,7 +4989,7 @@ Rimthah
 Riqqah
 Ritreirit
 Riwīna
-Riyadh
+Riyadh, الرياض
 Rizq Allah
 Riḩāl
 Ro Fata
@@ -4956,6 +5013,7 @@ Ruqaybah
 Rut Rut
 Ruwina
 Ruwābah
+Ruwīna
 Ruḩaymāb
 Rās Alfīl
 Rūmī Baḩrī
@@ -4975,6 +5033,7 @@ Saba'a
 Sabi' Dulayb
 Sabirta
 Sabu
+Sabun
 Sabun Gardia
 Sabīl
 Sadarna
@@ -5002,6 +5061,7 @@ Salabra
 Salagi
 Salawa
 Sali
+Salim
 Salinga
 Salinga Abdallah
 Saljam
@@ -5037,6 +5097,7 @@ Sanādra
 Sanţat Şaqr
 Saqadi
 Saqadi Shariq
+Saqadī
 Saqqai
 Sara Nisirma
 Saraf
@@ -5139,7 +5200,7 @@ Shallāl
 Shallūf
 Sham'ūn
 Shamagatta
-Shambat
+Shambat, شمبات
 Shambata
 Shambau
 Shambātī
@@ -5169,6 +5230,7 @@ Shara Shara
 Sharaf Ād Dīn
 Sharafa ash Shafī'
 Sharafah
+Sharafat
 Sharafat Najm ad Dīn
 Sharafat al Khawālda
 Sharafāt
@@ -5218,7 +5280,7 @@ Shekān
 Shellal
 Shemeliab
 Shemkhiya
-Shenanab
+Shenanab, Shinānāb
 Shendi
 Sherab
 Sherati
@@ -5265,6 +5327,7 @@ Shālūf
 Shāmiyyat 'Umar
 Shāmiyyat Khalīl
 Shānīsha
+Shāsha
 Shāt
 Shāwīsh
 Shāyqiyya
@@ -5286,12 +5349,12 @@ Silo
 Simama
 Sinayra
 Sineţāya
-Singa
+Singa, سنجة
 Singeir
 Singeiwa
 Singerab
 Sinkat
-Sinnar, Sennar
+Sinnar, Sannār, Sennar
 Sinnayn
 Sinsin
 Sināda
@@ -5357,6 +5420,7 @@ Surūr
 Suwada
 Suwaqnu
 Suwaydā'
+Sālim
 Sānshundēl
 Sāq an Na'ām
 Sāqiyat al 'Abd
@@ -5371,6 +5435,7 @@ Taba
 Tabaldiyya
 Tabaldīyah
 Tabaqat
+Tabat
 Tabbalat
 Tabbi Nyebbei
 Tabdōn
@@ -5538,7 +5603,7 @@ Tiringo
 Tirkeldi
 Tirmul
 Tirsōlik
-Tirti
+Tirti, ترتي
 Tirto
 Tiru
 Tis'a wa Tis'īn Ray al Basātna
@@ -5576,7 +5641,7 @@ Towar
 Towing
 Toya
 Toye
-Tozi
+Tozi, Tosi
 Trinkitat
 Tu
 Tuffalung
@@ -5679,6 +5744,7 @@ Um Badda
 Um Bambūna
 Um Basha
 Um Bayuḑ
+Um Bayūḑ
 Um Bessāw
 Um Bi'ebīsh
 Um Biwera
@@ -5737,6 +5803,7 @@ Um Jub
 Um Julūd 'Arab
 Um Julūd Barqu
 Um Jumut
+Um Jumut Shekh 'Umar
 Um Jumuţ Shekh 'Umar
 Um Jīr
 Um Kadankawa
@@ -5755,6 +5822,7 @@ Um Marraḩi Dubār
 Um Marraḩi Hasan
 Um Marraḩi Masā'ad
 Um Marrih
+Um Marriḩ
 Um Marḑa
 Um Marḩa
 Um May'a
@@ -5791,6 +5859,7 @@ Um Shukkāba
 Um Shura
 Um Sidera
 Um Sineţa
+Um Sunut
 Um Sunuţ
 Um Suwār
 Um Takkāl
@@ -5960,6 +6029,7 @@ Umm Gurru
 Umm Habīlah
 Umm Habūb
 Umm Hangoga
+Umm Haraz
 Umm Hashima
 Umm Hashāb
 Umm Hashābah
@@ -6275,7 +6345,7 @@ Wad Malik
 Wad Maqbul
 Wad Marzūq
 Wad Maţar
-Wad Medani, ود مدني
+Wad Medani, Wad Madani, ود مدني
 Wad Mereimi
 Wad Mokhtar
 Wad Muhayrah
@@ -6382,13 +6452,16 @@ Wad al Milesi
 Wad al Muher
 Wad al Murād
 Wad al Muḑawwi
+Wad al Māhī
 Wad al Māḩi
 Wad al Ḩaddād
 Wad al Ḩilew
 Wad al Ḩulaywah, ود الحليوة
 Wad al Ḩādiq
+Wad al Ḩāj
 Wad al Ḩūrī
 Wad an Na'im
+Wad an Na'īm
 Wad an Naw'
 Wad an Nayyal
 Wad an Naşiḩ
@@ -6402,7 +6475,9 @@ Wad ash Shajarah
 Wad ash Shiqil
 Wad at Tays
 Wad at Turābī
+Wad az Zakī
 Wad az Zāki
+Wad az Zākī
 Wad aş Şarrāf
 Wad aḑ Ḑaw'
 Wad aṣ Ṣubāḩī
@@ -6417,6 +6492,7 @@ Wad Ḑayyif
 Wad Ḩalāwi
 Wad Ḩamad
 Wad Ḩamadnā Allāh
+Wad Ḩamād
 Wad Ḩimedān
 Wad Ḩisen
 Wad Ḩusayn
@@ -6424,7 +6500,7 @@ Wad Ḩāmid
 Wada'ah
 Wadega
 Wadi Bushara
-Wadi Halfa
+Wadi Halfa, وادي حلفا
 Wadi Khalel
 Wadi Mora
 Wagar
@@ -6445,6 +6521,7 @@ Wara
 Waral
 Warenga
 Warrī
+Wastani
 Wasţānī
 Wata
 Wawa
@@ -6499,7 +6576,7 @@ Zakariyya
 Zakfero
 Zalatay
 Zalaţah
-Zalingei
+Zalingei, Zalinguei, Zalinjay, زالنجي, زالنجي (مدينة)
 Zallāq
 Zalqa
 Zan Gamat
@@ -6539,6 +6616,7 @@ Zumurka
 Zumām
 Zungah
 Zunqaḩa
+Zunqāḩa
 Zurayqā'
 Zurga
 Zurq
@@ -6556,6 +6634,7 @@ Zīrug
 Şalāḩ ad Dīn
 Şaraya
 Şarayat Kāfi
+Şarāya
 Şarāya 'Amārat Wad Yūsif
 Şarāya Tamanţashar
 Şarāyat 'Abd Ar Raḩman
@@ -6574,6 +6653,7 @@ Zīrug
 Şāfī
 Şārah
 Şūfī
+Ţabat
 Ţalḩah Aḩmad
 Ţannub
 Ţanţa
@@ -6596,6 +6676,7 @@ Zīrug
 Ţileḩa
 Ţirefiyya
 Ţiwāl
+Ţoţāḩ
 Ţuruq
 Ţuwayr
 Ţābat
@@ -6606,7 +6687,7 @@ Zīrug
 Ţāhā Idrīs
 Ţōrbīna
 Ţūrīyah
-ِAl Taif
+ِAl Taif, الطائف
 Ḑahar Jihena
 Ḑawwa
 Ḑiwewa
@@ -6629,6 +6710,7 @@ Zīrug
 Ḩajlījah
 Ḩakawlāb
 Ḩalfā' Dughaym
+Ḩamad
 Ḩamad an Nīl
 Ḩamadnā Allāh
 Ḩamadtu Allāh
@@ -6639,6 +6721,7 @@ Zīrug
 Ḩammād Shuraym ad Dawm
 Ḩammādāb
 Ḩammādī
+Ḩamra
 Ḩamrat ash Shaykh
 Ḩamrat ash Shēkh aṣ Ṣūfi
 Ḩamrā'

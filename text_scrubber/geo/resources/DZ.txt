@@ -6,7 +6,7 @@
 'Aïn Arko
 'Aïn Azel
 'Aïn Babouche
-'Aïn Barbâr
+'Aïn Barbâr, عين بربر
 'Aïn Ben Aïed
 'Aïn Ben Beïda
 'Aïn Ben Khelil
@@ -14,7 +14,7 @@
 'Aïn Berda
 'Aïn Beïda
 'Aïn Bou Ziane
-'Aïn Boucif
+'Aïn Boucif, عين بوسيف
 'Aïn Bourdeche
 'Aïn Bouziane
 'Aïn Charchar
@@ -93,7 +93,7 @@
 'Aïn Zada
 'Aïn Zebda
 'Aïn Zerga
-'Aïn Zia
+'Aïn Zia, عين زيا
 'Aïn Zmila
 'Aïn ZoûîT
 'Aïn ed Defla
@@ -180,7 +180,7 @@ Adjaïlia
 Adjeroud
 Admer
 Adouia
-Adrar
+Adrar, Adrar Province, أدرار, ولاية أدرار
 Adrar Farnou
 Afarnou
 Afedj
@@ -206,7 +206,7 @@ Agourbi
 Agoussim
 Agraredj
 Aguedal
-Aguemoun
+Aguemoun, أقمون, أڤمون
 Aguemoun Izem
 Aguemoun Taïda
 Aguemoun-n-Aït Aïssa
@@ -232,16 +232,18 @@ Ain Baadj
 Ain Bouyahia
 Ain Fares
 Ain Ferrah
+Ain Mansour
 Ain Rahma
+Ain Soltane
 Ain Taiba
 Ain el Hadid
 Ait Ali Ouyahia
 Ait Yahia
 Akabiou
-Akabli
+Akabli, أقبلى
 Akaoudj
 Akba Safra
-Akbou
+Akbou, أقبو
 Akbouch
 Akbour
 Akerroui
@@ -254,7 +256,7 @@ Aleb el Brek
 Alexandre Dumas
 Alfaville
 Alger Plage, شاطئ الجزائر
-Algiers, الجزائر
+Algiers, الجزائر, الجزائر (مدينة), الجزائر العاصمة, مدينة الجزائر
 Ali Bou Ameur
 Ali Mendjeli
 Ali Ou Mohammed
@@ -268,7 +270,7 @@ Alma Ou Hammane
 Amadene Foukam
 Amagaz
 Amagroud
-Amalou
+Amalou, أمالو, امحفوظن
 Amamia
 Amamra
 Amarnia
@@ -278,7 +280,7 @@ Ameraoua
 Amerzoug
 Amguid
 Amiche
-Amizour, أميزور
+Amizour, أميزور, كلمار, كولمار, وادي أميزور
 Amkarta
 Amkrouz
 Ammes
@@ -286,7 +288,7 @@ Ammi Moussa
 Ammour Achasta
 Amoucha
 Amoudd
-Amoura, عمورة
+Amoura, دلفوسفيل, عمورة, وادي الشرفاء
 Amoura Centre
 Amsel
 Amsioun
@@ -296,13 +298,13 @@ Amzeourou
 Anceur el Bia
 Andrièche
 Anguellou
-Annaba
+Annaba, عنابا, عنابة, ولاية عنابة
 Annoual
 Annseur el Abiod
 Annza Absa
 Anzeglouf
-Anāy
-Aokas, أوقاس
+Anāy, أناي
+Aokas, أوقاس, رأس أوقاس, وادي المرسى
 Aomar
 Aouadja
 Aouaouda
@@ -314,7 +316,7 @@ Aouicha
 Aouinet el Mora
 Aouinia
 Aoulad Badis
-Aoulef, أولف
+Aoulef, آولف, أولف, أولف العرب
 Aoungal
 Aouraï
 Aourir
@@ -378,7 +380,7 @@ Azayza
 Azazga
 Azaïna
 Azeba
-Azeffoun
+Azeffoun, أزفون
 Azekkour
 Azelouaz
 Azerou
@@ -400,14 +402,14 @@ Azouna
 Azouza
 Azrou
 Azrou Bou Ammar
-Azzaba, عزابة, جماب
+Azzaba, جماب, عزابة
 Aïchouch
 Aïdem
 Aïdriss
 Aïech
 Aïn Achache
 Aïn Allem, عين العلام
-Aïn Arnat
+Aïn Arnat, عين أرنات
 Aïn Benaâmane
 Aïn Bessem, عين بسام
 Aïn Beïda
@@ -417,7 +419,7 @@ Aïn Bouras
 Aïn Bouzid
 Aïn Brahim
 Aïn Chaïba
-Aïn Defla
+Aïn Defla, عين الدفلة, عين الدفلى
 Aïn Defla Seghira
 Aïn Dhab
 Aïn Djasser
@@ -453,7 +455,7 @@ Aïn Tinn
 Aïn Touta
 Aïn Yagout
 Aïn Youcef
-Aïn Zaouïa
+Aïn Zaouïa, عين الزاوية
 Aïn Zeroula
 Aïn ech Cherâya
 Aïn el Beïda
@@ -480,7 +482,7 @@ Aït Ali Abd Allah
 Aït Ali Ou Harzoun
 Aït Ali Ou Mohannd
 Aït Aouana
-Aït Arif, بني عريف
+Aït Arif, آيت عريف, آيث عريف, بني عريف
 Aït Atelli
 Aït Aziz
 Aït Aïcha
@@ -529,7 +531,7 @@ Aït Saïd Ou Zeggane
 Aït Sellam
 Aït Sidi Ahmed Ou Ali
 Aït Slimane
-Aït Smaïl, آيت إسماعيل
+Aït Smaïl, آث سماعيل, آيت إسماعيل, ايت اسماعيل
 Aït Temouchene
 Aït Yahia Youssef
 Aït Yaïch
@@ -569,7 +571,7 @@ Baltache
 Baniane
 Baniou
 Baraki, براقي
-Barbacha, برباشة
+Barbacha, برباشة, سوق الثلاثاء, مرباشة مرباشة
 Barbouche
 Bardi Boudjemaa
 Barekache
@@ -577,7 +579,7 @@ Barhla
 Barika, بريكة
 Barral
 Base Sonarem
-Batna
+Batna, Batna City, باتنة, ولاية باتنة
 Batti
 Bayard
 Bayou
@@ -599,7 +601,7 @@ Bechir
 Bechloul
 Bedrabine
 Behima
-Bejaïa, بجاية
+Bejaïa, Bijāya, بجاية
 Bekaïria
 Bekhata
 Bekkaria
@@ -693,7 +695,7 @@ Beni Abdallah
 Beni Abdi
 Beni Akil
 Beni Amar
-Beni Amrane
+Beni Amrane, بني عمران
 Beni Attah
 Beni Aïssi
 Beni Bahdel
@@ -720,8 +722,8 @@ Beni Hafod
 Beni Hammou
 Beni Hamou
 Beni Haoua, بنى حواء
-Beni Ikhlef
-Beni Isguen, بني يزقن
+Beni Ikhlef, بني يخلف
+Beni Isguen, آت إيزجن, أت يزجن, بني يزجن, بني يزقن, قصر بني يزجن
 Beni Isouid
 Beni Kati
 Beni Khalifa
@@ -733,9 +735,9 @@ Beni Mahmoud
 Beni Maloum
 Beni Matas
 Beni Mdas
-Beni Mehlal, بني مهلال
+Beni Mehlal, آث مهلال, بني مهلال
 Beni Melloul
-Beni Melouk, بني ملوك
+Beni Melouk, آث أملوك, بني ملوك
 Beni Merahba
 Beni Meraz
 Beni Mered
@@ -747,7 +749,7 @@ Beni Ou 'Ammar
 Beni Ouaggag
 Beni Ouendjel
 Beni Ouidene
-Beni Ounif
+Beni Ounif, بني ونيف
 Beni Rached
 Beni Rhanane
 Beni Rhazi
@@ -833,7 +835,7 @@ Bir Ould Khelifa
 Bir Ouled Aïcha
 Bir Rakkâd
 Bir Roubeï
-Bir Safsaf, بئر صفصاف
+Bir Safsaf, بئر صفصاف, بير صفصاف
 Bir Salem
 Bir Sidi el Hadi
 Bir Souid
@@ -843,7 +845,7 @@ Bir Zaâtra
 Bir Zlas
 Bir el Arbi
 Bir el Arche
-Bir el Ater, بئر العاتر
+Bir el Ater, بئر العاتر, بير العاتر
 Bir el Djir
 Bir el Hamia
 Bir el Keraa
@@ -854,7 +856,7 @@ Bir ez Zrof
 Birine
 Birkhadem, بئر خادم
 Birtouta
-Biskra
+Biskra, بسكرة, ولاية بسكرة
 Bissy
 Bit Esselah
 Bit el Kheïr
@@ -869,7 +871,7 @@ Bled el Hamadia
 Bled el Harigua
 Bled el M'hada
 Bled es Sahel
-Blida
+Blida, البليدة
 Blidet Amor
 Blondel
 Bloumet
@@ -884,12 +886,12 @@ Bondjih
 Bordi el Mathen
 Bordiel el Hassane
 Bordj
-Bordj Badji Mokhtar
+Bordj Badji Mokhtar, برج باجي مختار
 Bordj Ben Ali Cherif
 Bordj Ben Embarek
 Bordj Ben Zeggouta
 Bordj Bou Akkaz
-Bordj Bou Arréridj
+Bordj Bou Arréridj, برج بوعريريج
 Bordj Bou Harket
 Bordj Bou Lakkhas Ben Gannah
 Bordj Bou Rerhda
@@ -923,7 +925,7 @@ Bordj du Cheïkh
 Bordj du Keskes
 Bordj du Marabout
 Bordj ech Cheikh ed Daïf
-Bordj el Bahri, برج البحري
+Bordj el Bahri, برج البحري, رأس ماتيفو, كاب ماتيفو, ماتيفو
 Bordj el Caïd
 Bordj el Emir Abdelkader
 Bordj el Hadj el Arbi
@@ -985,7 +987,7 @@ Bou Hadjar
 Bou Hals
 Bou Hamadou
 Bou Hamdoune
-Bou Hamza, بوحمزة
+Bou Hamza, بو حمزة, بوحمزة
 Bou Hanifia el Hamamat
 Bou Haroun
 Bou Hassem
@@ -1031,7 +1033,7 @@ Bou Noua
 Bou Nouala
 Bou Nouara
 Bou Nouh
-Bou Noura, بونورة
+Bou Noura, بنورة, بونورة
 Bou Rallel
 Bou Rdim
 Bou Rebza
@@ -1041,8 +1043,9 @@ Bou Rhaïs
 Bou Roumi
 Bou Sa'ddîya
 Bou Saa
-Bou Saada, بوسعادة
+Bou Saada, بو سعادة, بوسعادة
 Bou Sahel
+Bou Saâda, بو سعادة, بوسعادة
 Bou Sedda
 Bou Selloutene
 Bou Semlel
@@ -1125,6 +1128,7 @@ Bouhniene
 Bouhriz
 Bouibaouene
 Bouinan
+Bouira
 Bouira el Adebad
 Bouisseville
 Boukaat Bachir
@@ -1174,7 +1178,7 @@ Boukaat es Saou
 Boukaat es Sbih
 Boukabene
 Boukadir, بوقادير
-Boukamouza
+Boukamouza, Boukhamouza
 Boukerouas
 Bouketcha
 Boukhalfa
@@ -1191,7 +1195,7 @@ Boumagueur, بومقر
 Boumahra Ahmed
 Boumaza
 Boumazouz
-Boumerdas, الصخرة السوداء, بومرداس
+Boumerdas, أبو مرداس, الصخرة السوداء, بومرداس, مدينة بو مرداس, مدينة بومرداس
 Boumessaoud
 Boumlih
 Bounda Serhira
@@ -1206,7 +1210,7 @@ Bouriache
 Bouridene
 Bourkika
 Bourlier
-Bourouba, أبو روبة
+Bourouba, أبو روبة, بوروبة
 Bourouhou
 Bourzeg
 Bourzizene
@@ -1250,7 +1254,7 @@ Brezina
 Brida
 Brinis Jouahria
 Brinkene
-Béchar
+Béchar, بشار
 Béchar-Djedid
 Bérard
 Cacherou le Haut
@@ -1326,7 +1330,7 @@ Cherarka
 Cheraïa
 Cheraïguia
 Cheraïria
-Cherchell
+Cherchell, شرشال
 Cherea
 Cheria
 Cherifia
@@ -1338,10 +1342,10 @@ Cheurfa
 Cheurfa el Bahloul
 Cheïkh Freha
 Cheïkh Salah
-Chifalo
+Chifalo, خميستي
 Chiffa
 Chir
-Chlef, كستلم تنجيتانم, الشلف, الأصنام, كاستيليوم تانجيتانيوم, أورليانفيل
+Chlef, ash-Shalif, أورليانفيل, الأصنام, الشلف, شلف, كاستيليوم تانجيتانيوم, كستلم تنجيتانم
 Chmaala
 Chnegliah
 Chnounia
@@ -1376,9 +1380,9 @@ Cité el 'Arbi Ben Mhîdi
 Cité el Guercha
 Clos Bakir
 Club des Pins
-Collo
+Collo, القل‎‎
 Commune des Béni Bou Attab
-Constantine
+Constantine, قسنطينة
 Corso Tahtani
 Coulmiers
 Crampel
@@ -1457,7 +1461,7 @@ Dar el Hâdj
 Dar el Ogueb
 Dar el Yafati
 Dar er Razi
-Darguinah, درقينة
+Darguinah, درغينة, درقينة, مركز درقينة
 Daroussa
 Debadib
 Debba
@@ -1492,14 +1496,14 @@ Dehamnia
 Dekara
 Dekkara
 Deli Ibrahim
-Dellys
+Dellys, دلّس
 Dem el Begrat
 Demmed
 Derhachnia
 Dermel
 Dermoun
 Dernam
-Derrag, دراق
+Derrag, دراق, دَرّاڤ, لوتورنو
 Deux Moulins
 Dghabdjia
 Dhahr el Knader
@@ -1524,8 +1528,8 @@ Djahnit
 Djama Salem
 Djama Tamnecht
 Djama-n- Saharidj
-Djamaa
-Djanet
+Djamaa, جامعة
+Djanet, جانت
 Djaousses
 Djaouti
 Djarallah
@@ -1535,7 +1539,7 @@ Djebabra
 Djebahia
 Djebala
 Djebbanet Slib
-Djebel Onk, جبل العنق
+Djebel Onk, جبل العنق, مركز التعدين جبل العنق
 Djebel el Gountas
 Djebla
 Djeblaa
@@ -1545,7 +1549,7 @@ Djedida
 Djehifet
 Djelada
 Djelaïlia
-Djelfa
+Djelfa, الجلفة, ولاية الجلفة
 Djelida
 Djellal
 Djeloul Ben Mohammed
@@ -1773,7 +1777,7 @@ Douar Boukennar
 Douar Boukhendak
 Douar Bounamane
 Douar Bouramane
-Douar Bouriche, دوار بوريش
+Douar Bouriche, بوريش, دوار بوريش
 Douar Boussahoua
 Douar Bousseki
 Douar Boussouka
@@ -2157,6 +2161,7 @@ Douar Molchtari Oussedou
 Douar Mouafak
 Douar Mouafka
 Douar Moualdia
+Douar Moualek
 Douar Mouasfa
 Douar Mouasmia
 Douar Mouaïcia
@@ -2344,7 +2349,7 @@ Douar Ouled Kheïra
 Douar Ouled Kâssem
 Douar Ouled Lahcène
 Douar Ouled Lakhdar
-Douar Ouled Larbi, دوار أولاد العربي
+Douar Ouled Larbi, دوار أولاد العربي, دوار أولاد محمد
 Douar Ouled M'barek
 Douar Ouled M'heni
 Douar Ouled Mahdi
@@ -2459,12 +2464,14 @@ Douar Rouached
 Douar Rouaouna
 Douar Rouaïssia
 Douar Saaidia
+Douar Saaïdia
 Douar Sadaouia Seghaïra
 Douar Sadouna
 Douar Sahar
 Douar Saidia
 Douar Sakhri
 Douar Sar Zaouia
+Douar Saïdia
 Douar Sbabna
 Douar SbaÏssia
 Douar Sbaïhia
@@ -2489,6 +2496,7 @@ Douar Sidi Afif
 Douar Sidi Ahmed
 Douar Sidi Ahmed Beldjouzi
 Douar Sidi Ahmed Ben Ali
+Douar Sidi Aissa
 Douar Sidi Ali
 Douar Sidi Alla
 Douar Sidi Aïssa
@@ -2523,6 +2531,7 @@ Douar Sidi Tahar
 Douar Sidi Yahia
 Douar Sidi el Habib
 Douar Slaetia
+Douar Slatna
 Douar Slemnia
 Douar Slâtna
 Douar Slîmâne
@@ -2674,6 +2683,7 @@ Douar el Aouamria
 Douar el Aouaïcia
 Douar el Aouaïss
 Douar el Aouchria
+Douar el Araissia
 Douar el Araïssia
 Douar el Arbi Aissa
 Douar el Arbia
@@ -2697,6 +2707,7 @@ Douar el Bouaïchia
 Douar el Braguich
 Douar el Braknia
 Douar el Branssia
+Douar el Djaadnia
 Douar el Djadid
 Douar el Djaâdnia
 Douar el Djaïria
@@ -2875,7 +2886,7 @@ DouarHdjaybia
 Douara el Omair
 Douaïmia
 Doucen
-Douera
+Douera, بلدية دويرة
 Doukane
 Dour Ouled Aïssa
 Dra Doum
@@ -2929,7 +2940,7 @@ Ed Raïfia
 Eddis
 Eddrablia
 Eddraâ el Barouak
-Edjeleh
+Edjeleh, عجيلة
 Egreb
 El 'Aïn Toûta
 El A'Nabra
@@ -2973,7 +2984,7 @@ El Amourette
 El Amra
 El Amra Gare
 El Amri
-El Amria, لورمال, العامرية, لورمل
+El Amria, العامرية, لورمل
 El Anasser
 El Ancer
 El Anndek
@@ -2990,6 +3001,7 @@ El Aouedj
 El Aouinat
 El Aouinet
 El Aouisset
+El Aouïsset
 El Araba
 El Arabaa
 El Arabat
@@ -3013,6 +3025,7 @@ El Ateuf
 El Atouta
 El Attaf
 El Attatou
+El Azaizia
 El Azazma
 El Azaïb
 El Azaïzia
@@ -3030,7 +3043,7 @@ El Baouch
 El Barga
 El Barka
 El Barri
-El Bayadh
+El Bayadh, El Bayadh Province, البيض, ولاية البيض
 El Bdarna
 El Behara
 El Bekalech
@@ -3066,6 +3079,7 @@ El Djalala
 El Djamila
 El Djebel
 El Djedid
+El Djenane
 El Djenene
 El Djenâne
 El Djeradir
@@ -3101,7 +3115,8 @@ El Ghomri
 El Ghouata
 El Ghouaya
 El Ghouaïria
-El Golea
+El Golea, المنيعة
+El Goléa
 El Gor
 El Gora
 El Gorain
@@ -3146,7 +3161,7 @@ El Habla
 El Hacaïba
 El Hachem
 El Hachichia
-El Hachimia, الهاشمية
+El Hachimia, الهاشمية, باراك, لا باراك
 El Had
 El Hadabbab
 El Haddada
@@ -3226,10 +3241,10 @@ El Hrâyech
 El Idrissia
 El Kabar
 El Kadjaa
-El Kala
+El Kala, القالة
 El Kalaa
 El Kalla
-El Kantara
+El Kantara, القنطرة
 El Karia
 El Karimia
 El Karma
@@ -3270,6 +3285,7 @@ El Khelaïf
 El Kheloua
 El Khemarmia
 El Khemis
+El Khemîs
 El Khenag
 El Kheneg
 El Kheoual
@@ -3300,7 +3316,7 @@ El Krelafna
 El Krerouz
 El Ksabi
 El Ksar
-El Kseur
+El Kseur, القصر
 El Kseïbat
 El Ksour
 El Ktaf
@@ -3328,13 +3344,13 @@ El Mahera
 El Maja
 El Makbia
 El Mala
-El Malah
+El Malah, المالح, ريو سالادو
 El Mamnia
 El Mamounia
 El Mannsour
 El Mansour
 El Mardja
-El Marsa, المرسى
+El Marsa, المرسى, جان بار
 El Matlag
 El Matmar
 El Matmour
@@ -3349,7 +3365,7 @@ El Medina
 El Medjahdia
 El Medjahdine
 El Medjamdia
-El Meghaïer
+El Meghaïer, El M'Ghair
 El Mehadjer
 El Meharzia
 El Mekhtaria
@@ -3401,16 +3417,16 @@ El Mzaouegh
 El Mzili
 El Mâl'ab
 El Mélah
-El Ogla, العقلة
+El Ogla, العقلة, عقلة قساس
 El Omaria
 El Otsmane
 El Ouadia
 El Ouakda
 El Ouakla
 El Oualdja
-El Ouata
+El Ouata, الواتة
 El Ouchmia
-El Oued
+El Oued, El Oued Province, الواد, اﻟﻮادى, وادي سوف, ولاية الوادي
 El Ouendoura
 El Ouennene
 El Ouibed
@@ -3430,7 +3446,7 @@ El Rhoualem
 El Rouaïghia
 El Sellamet
 El Seridj
-El Tarf
+El Tarf, El Tarf Province, الطارف, ولاية الطارف
 El Touaiene
 El Yachir
 El Yourh
@@ -3445,7 +3461,7 @@ En Nemala
 En Nessirha
 En Nouaoura
 En Nouâdji
-Ennedid
+Ennedid, النديد
 Ennfouss
 Er Rabta
 Er Racha
@@ -3471,6 +3487,7 @@ Erredjem
 Errouabi
 Es Safrâ
 Es Safsaf
+Es Safsâf
 Es Saradj
 Es Sbâbna
 Es Sdadka
@@ -3590,10 +3607,10 @@ Garta
 Gasses
 Gaâdet el Hammam
 Gbar Gâïd
-Gdyel, قديل
+Gdyel, سان كلو, قديل
 Ghabet Aouda
 Gharbou Tchicha
-Ghardaïa
+Ghardaïa, غرداية, ولاية غرداية
 Gharouss
 Ghassoul
 Ghazaouet
@@ -3615,7 +3632,7 @@ Goubia
 Gouiret es Soud
 Goum Berredjouh
 Goum Hadj Moussa
-Gouraya, قوراية
+Gouraya, قوراية, ڨورايا
 Gourbis
 Graba
 Graffi
@@ -3634,7 +3651,7 @@ Guelaa Djedida
 Guelaftia
 Guelfene
 Guellal
-Guelma
+Guelma, قالمة, ڤالمة
 Guelt Bou Zid
 Guelt es Stel
 Gueltat Sidi Saad
@@ -3656,7 +3673,7 @@ Guerdema
 Guerdjoum
 Guerebissa
 Guergoûr
-Guernini, قرنيني
+Guernini, القرنيني, قرنيني
 Guerouma
 Guerrouaou
 Guertoufa
@@ -3664,7 +3681,7 @@ Guerzim
 Guetatech
 Guettar el Aïch
 Guezazna
-Guidjal, قجال
+Guidjal, غويجل, قجال
 Guigueb
 Guilili
 H'miyane
@@ -3708,7 +3725,7 @@ Hamlil
 Hamlili
 Hamma Bouziane
 Hammam
-Hammam Bou Hadjar, حمام أبو حجر
+Hammam Bou Hadjar, حمام بو حجار, حمام بوحجر
 Hammam Boughrara
 Hammam Dalaa
 Hammam Guergour
@@ -3770,11 +3787,11 @@ Hassi Khelifa
 Hassi Maameche
 Hassi Massiline
 Hassi Mefsoûkh
-Hassi Messaoud
+Hassi Messaoud, حاسي مسعود
 Hassi Oudjerna
 Hassi Oulad Hessir
 Hassi Oulad Mehenna
-Hassi R'mel
+Hassi R'mel, حاسي الرمل
 Hassi Redhouane
 Hassi Tahar
 Hassi Zehana
@@ -3847,7 +3864,7 @@ Ichekfiouine
 Icherridene
 Ichoukhene
 Ichtouanene
-Idelès, أدلس
+Idelès, إدلس
 Idirh
 Idjdhikth
 Iferhounene
@@ -3858,7 +3875,7 @@ Ifouzar
 Ifri
 Ighoumrassen
 Ighram
-Igli
+Igli, إقلي
 Igosten
 Igostene
 Igoudjdal
@@ -3883,7 +3900,7 @@ Il Matene
 Ilamane
 Ililane
 Illiltene
-Illizi
+Illizi, Illizi Province, إليزي, ولاية إليزي
 Ima Hlima
 Imadrane
 Imialene
@@ -3892,8 +3909,9 @@ Imouguel
 Imoumnayan
 Imsad
 Imsalitene
-In Guezzam, عين قزام
-In Salah, عين صالح
+In Guezzam, إن قزام, إين قزام, المقاطعة اﻹدارية عين قزام, الولاية المنتدبة عين قزام, بلدية عين قزام, دائرة عين قزام
+In Guezzam, إن قزام, عين قزام
+In Salah, إن صالح, عين صالح
 Inndouz
 Iouanoughen
 Irahalene
@@ -3951,7 +3969,7 @@ Issoummar
 Isten
 Izra
 Jean-Mermoz
-Jijel, Jijelli
+Jijel, Jijelli, جيجل
 Joannonville
 Joimsia
 Joinville
@@ -3964,8 +3982,9 @@ Kadum Debbaz
 Kahamnia
 Kahouet 'Ibich
 Kalaa
-Kali, قالي
+Kali, قالي, كالي
 Kalloul
+Kalâa
 Kanntidja
 Kanouâ
 Kaous
@@ -4029,17 +4048,17 @@ Kharouba
 Kharrouch
 Khechab
 Khedaïdia
-Khelil
+Khelil, خلـيل
 Khelili
 Khellafa
 Khemara
 Khemis
-Khemis Miliana, أفرفيل, خميس مليانة
+Khemis Miliana, أفرفيل, الخميس, الخميس مليانة, خميس مليانة
 Khemis el Khechna
 Khemisti
 Khenag
 Khenannsa
-Khenchela
+Khenchela, خنشلة
 Kheng Zebib
 Kherarba
 Kherba
@@ -4132,7 +4151,7 @@ Labaïs
 Labiod Medjadja
 Lac des Oiseaux, بحيرة الطيور
 Lagagda
-Laghouat
+Laghouat, الأغواط
 Lahdadoua
 Lahguiat
 Lahlef
@@ -4141,7 +4160,7 @@ Lahmissi
 Lahouata
 Lahsaïna
 Lakbar
-Lakhdaria, باليسترو, الأخضرية
+Lakhdaria, الأخضريه, باليسترو
 Lakhouabi
 Lakhsaybia
 Lakradcha1
@@ -4250,7 +4269,7 @@ M'Zita
 M'habil
 M'khakhcha
 M'khaïchia
-M'sila
+M'sila, M'Sila Province, المسيلة, مسيلة, ولاية المسيلة
 M'zaoura
 Maachat
 Maafa
@@ -4269,7 +4288,7 @@ Madjrem Errami
 Magdad
 Maghnia
 Magoura
-Magra
+Magra, برج مقرة, مقرة
 Mahadjouba
 Mahadnia
 Mahagga
@@ -4292,6 +4311,7 @@ Mamoura
 Mandoura
 Mannsoura
 Mansouga Iamarene
+Mansoura
 Mansoura Kbira
 Mansourah
 Mansoûra
@@ -4299,7 +4319,7 @@ Manzekouane
 Maouaklane
 Maouch el Bastana
 Maouiya
-Maoussa, ماوسة
+Maoussa, ماوسا, ماوسة
 Maouya
 Marabcha
 Marabout Aïcha
@@ -4308,8 +4328,8 @@ Mardas
 Marhoum
 Marhouma
 Markounâ
-Marsa Ben Mehidi
-Mascara
+Marsa Ben Mehidi, مرسى بن مهيدي
+Mascara, معسكر‎
 Massiline
 Massine
 Matemore
@@ -4816,7 +4836,7 @@ Mechta Ramdane
 Mechta Reachla
 Mechta Rebaba
 Mechta Redjas
-Mechta Reggada, مشتة الرقادة
+Mechta Reggada, مشتة الرقادة, مشتة الركادة
 Mechta Regraga
 Mechta Reguibet el Bir
 Mechta Remadet el Babouche
@@ -4886,7 +4906,7 @@ Mechta Soltane
 Mechta Sommar
 Mechta Souharia
 Mechta Srepta
-Mechta Statir
+Mechta Statir, مشطة استاتير
 Mechta Tabesbast
 Mechta Tadjine
 Mechta Tadrart
@@ -5300,7 +5320,7 @@ Mellala
 Mellinet
 Melouka
 Melouza
-Menaa
+Menaa, منعة
 Menaceur
 Menahsia
 Menasria
@@ -5327,7 +5347,7 @@ Merrika
 Merrira
 Mers
 Mers el Hadjad
-Mers el Kebir
+Mers el Kebir, بلدية المرسى الكبير
 Mertoûtek, مرتتك
 Merzeglal
 Merzoudj Ben Zouaoui
@@ -5373,7 +5393,7 @@ Mguerba
 Mhatar
 Miaha
 Mih Ouensa
-Mila
+Mila, ميلة
 Miliana, مليانة
 Mimoum
 Minndjou
@@ -5405,7 +5425,7 @@ Morsli
 Morsott
 Mosbah
 Mosbaha
-Mostaganem
+Mostaganem, مستغانم
 Moualdia
 Mouarhou
 Mouazria
@@ -5451,13 +5471,13 @@ Mzid
 Mzita
 Mzouria
 Mzouzia
-Médéa
+Médéa, المدية
 Ménassera
 N'Aït Hamouda
 N'Gaous, نقاوس
 N'Goussa
 N'djayia
-Naama
+Naama, النعامة
 Naciria
 Nadja
 Naguês
@@ -5494,7 +5514,7 @@ Oggaz
 Oglat Oulad Mahboub
 Ohanet
 Om Tefrakh
-Oran
+Oran, Oran Province, ولاية وهران, وهران
 Ouachouache
 Ouada
 Ouadhia
@@ -5509,7 +5529,7 @@ Ouamri
 Ouamria
 Ouarassene
 Ouardia
-Ouargla
+Ouargla, ورقلة
 Ouarizane
 Ouarka
 Ouarourout
@@ -5525,14 +5545,14 @@ Oued Bel Kassem
 Oued Berkeche
 Oued Bou Hadi
 Oued Cheham
-Oued Chorfa, وادي الشرفاء
+Oued Chorfa, قرية السد, واد الشرفاء, وادي الشرفاء
 Oued Deheb
 Oued Djemaa, وادي الجمعة
 Oued Essalem
-Oued Fodda, وادي الفضة
+Oued Fodda, واد الفضة, واد فدة, وادي الفضة, وادي فدة
 Oued Frarah
 Oued Ghir, وادي غير
-Oued Koriche, وادي قريش
+Oued Koriche, بلدية واد قريش, بلدية وادي قريش, واد قريش, وادي قريش
 Oued Ksar
 Oued Ksob
 Oued Lili
@@ -5544,8 +5564,8 @@ Oued Sebt
 Oued Seddeur
 Oued Seguin
 Oued Sidi Slimane
-Oued Sly, وادي سلي
-Oued Smar, وادي السمار
+Oued Sly, مالاكف, واد سلي, وادي سلي
+Oued Smar, الكليتوس, واد السمار, وادي السمار
 Oued Taga
 Oued Taria
 Oued Tlélat
@@ -5557,7 +5577,7 @@ Oued di Djebel
 Oued el Abtal
 Oued el Alennda
 Oued el Alleug
-Oued el Aneb, وادي العنب
+Oued el Aneb, بلدية وادي العنب, وادي العنب
 Oued el Djemaa, وادي الجمعة
 Oued el Kebir
 Oued el Kheïr
@@ -5725,6 +5745,7 @@ Oulad Zerarka
 Oulad Ziane
 Oulad Zidane
 Oulad Ziri
+Oulad el Abbes
 Oulad el Abbès
 Oulad el Adassi
 Oulad el Badji
@@ -5766,6 +5787,7 @@ Ouled Ahmed
 Ouled Ahmed Ben Ali
 Ouled Ahmed Ben Djelloul
 Ouled Aiche, أولاد يعيش
+Ouled Aissa
 Ouled Ali
 Ouled Ali Ben Djilali
 Ouled Alia
@@ -5878,6 +5900,7 @@ Ouled Chaaïb
 Ouled Chabane
 Ouled Chebacheb
 Ouled Chebel
+Ouled Cheikh
 Ouled Chergui
 Ouled Cherifa
 Ouled Cheïkh
@@ -5935,13 +5958,14 @@ Ouled L'Arbi, أولاد العربي
 Ouled Lahcene
 Ouled Lahsene
 Ouled Lakhdar
-Ouled Larbi, أولاد العربي
+Ouled Larbi, أولاد العربي, دوار أولاد العربي
 Ouled Laïd
 Ouled Lehbib
 Ouled M'barek
 Ouled M'rah
 Ouled Ma'zoûz
 Ouled Maagal
+Ouled Maamar, ولاد معمر
 Ouled Madjoub
 Ouled Mahiedine
 Ouled Mannsour
@@ -5997,9 +6021,12 @@ Ouled Sabor
 Ouled Safi
 Ouled Saha
 Ouled Sahari
+Ouled Said
 Ouled Salah
 Ouled Salem
 Ouled Saoula
+Ouled Saâd
+Ouled Saâda
 Ouled Saïd
 Ouled Saïdane
 Ouled Sellem
@@ -6100,7 +6127,7 @@ Oum Ladjoul
 Oum Sahouine
 Oum Teboul
 Oum el 'Alou
-Oum el Bouaghi
+Oum el Bouaghi, Oum el Bouaghi Province, أم البواقي, ولاية أم البواقي
 Oum el Guetouta
 Oum el Habel
 Oum er Rekha
@@ -6129,10 +6156,10 @@ Outiatte Sidi Abida
 Ouzera
 Ouzidane
 Ouzitène
-Oûtoûl, أوتول
+Oûtoûl, أتول, أوتول
 Palm Beach
 Petit Mecheria
-Petit Port
+Petit Port, ميناء بوتي
 Plage Abd el Malek Ramdane
 Plage Moretti
 Plage de Oued el Halloûf
@@ -6158,13 +6185,14 @@ Rahia
 Rahmane
 Rahmenia
 Rahouia
-Rais Hamidou, الرئيس حميدو
+Rais Hamidou, الرئيس حميدو, الرايس حميدو, بلدية الرئيس حميدو, بوانت بسكاد, رايس حميدو, لا بوانت بسكاد
 Ramahma
 Ramdane Djamal
 Ramka
 Rarch
 Rardous
 Raroui
+Ras el Ma
 Rayet
 Rebahia
 Rebaïa
@@ -6175,15 +6203,15 @@ Redjim en Nessara
 Regabbi-n-Aït Hasso
 Regdad
 Reggane, رقان
-Reggane-Plateau
+Reggane-Plateau, تل رقان
 Reghaïa
 Reguedia
-Reguiba
+Reguiba, الرقيبة
 Rehamna
 Rehaïlia
 Rehegragui
 Rekkada
-Relizane
+Relizane, غليزان, ولاية غليزان
 Remada
 Remchi, الرمشي, مونتنياك
 Renndoussa
@@ -6207,7 +6235,7 @@ Rhedir Chaïr
 Rhedir el Kahla
 Rherbali Hadj Abed
 Rhiaf
-Rhnet
+Rhnet, غنات
 Rhoraf
 Rhorfa
 Rhoufi
@@ -6247,7 +6275,7 @@ Râs el Akba
 Râs el Aïoun
 Râs el Fedh
 Râs el Ma
-Râs el Oued, رأس الوادي, توكفيل
+Râs el Oued, توكفيل, رأس الواد, رأس الوادي
 S'hari
 Saala
 Saaïdia
@@ -6273,7 +6301,7 @@ Sainte-Clotilde
 Sainte-Croix de l'Edough
 Sakamody
 Sakaï
-Salah Bey, بسكال, باسكال, صالح باي
+Salah Bey, باسكال, دزيرة, صالح الباي, صالح باي
 Salah Bouchaour
 Salamandre
 Salaouti
@@ -6287,7 +6315,7 @@ Saoula
 Satfoura
 Satour
 Sayada
-Saïda
+Saïda, سعيدة
 Saïrher
 Sbaa
 Sbeïkia
@@ -6303,7 +6331,7 @@ Sedjef et Tine
 Sedjrari
 Sedra Baïa
 Sedrata
-Seggana, سقانة
+Seggana, برج سقانة, سقانة
 Seghouane
 Seguene
 Sehama
@@ -6342,7 +6370,7 @@ Sfissifa
 Sfizef, سفيزف
 Sgagra
 Shanine
-Si Mustapha
+Si Mustapha, سي مصطفى
 Siafa
 Sidi Abbes
 Sidi Abd Allah
@@ -6353,12 +6381,13 @@ Sidi Abdallah
 Sidi Abdelaziz
 Sidi Abdeldjebbar
 Sidi Abdelli
-Sidi Abderrahmane
+Sidi Abderrahmane, سيدي عبد الرحمن
 Sidi Ahmed
 Sidi Ahmed Bel Hassene
 Sidi Ahmed Ben Slimane
 Sidi Ahmed Saïd
 Sidi Akkacha
+Sidi Ali
 Sidi Ali Aïchoun
 Sidi Ali Ben Yahia
 Sidi Ali Ben Youb
@@ -6384,7 +6413,7 @@ Sidi Bahfoul
 Sidi Baizid
 Sidi Bakhti
 Sidi Barkat
-Sidi Bel Abbès
+Sidi Bel Abbès, سيدي بلعباس, ولاية سيدي بلعباس
 Sidi Bel Atar
 Sidi Belarbi
 Sidi Belkassem
@@ -6411,7 +6440,7 @@ Sidi Boû Mediene
 Sidi Brahim
 Sidi Cherki
 Sidi Daho
-Sidi Daoud
+Sidi Daoud, سيدي داود
 Sidi Djella
 Sidi Djelloul
 Sidi Djilali
@@ -6430,6 +6459,7 @@ Sidi Kaddour
 Sidi Kailani
 Sidi Kamber
 Sidi Kebîr
+Sidi Khaled, سيدي خالد
 Sidi Khalifa
 Sidi Khelil
 Sidi Khelouaf
@@ -6467,6 +6497,7 @@ Sidi Mohammed Ben ed Dif
 Sidi Mohammed Bene Zerga
 Sidi Mohammed Moussa
 Sidi Moussa
+Sidi Mérouane
 Sidi Namane
 Sidi Nhar
 Sidi Nour Eddine
@@ -6500,7 +6531,7 @@ Sidi ben Ada
 Sidi ben Othmane
 Sidi bou Medjene
 Sidi ech Chahmi
-Sidi ed Daâ
+Sidi ed Daâ, سيدي الدع
 Sidi el Akrout
 Sidi el Bachir
 Sidi el Hachem
@@ -6520,7 +6551,7 @@ Sirat
 Skarene
 Skekra
 Skhouna
-Skikda, فيليبفيل, سكيكدة
+Skikda, سكيكدة, فيليبفيل, ولاية سعيدة
 Slama
 Slamna
 Slatna
@@ -6551,7 +6582,7 @@ Sougueur
 Souid
 Souidania
 Souissifa
-Souk Ahras
+Souk Ahras, سوق أهراس
 Souk Djamaa
 Souk el Arba
 Souk el Attaf
@@ -6559,7 +6590,7 @@ Souk el Djemâa
 Souk el Had
 Souk el Khemis
 Souk el Tleta
-Souk et Tenine, سوق الاثنين
+Souk et Tenine, سوق الإثنين
 Souk et Tnîne
 Soulaya
 Soulha
@@ -6577,9 +6608,9 @@ Staoueli
 Stidia
 Stile
 Stittene
-Stora
+Stora, ستورا
 Surcouf
-Sétif
+Sétif, سطيف, ولاية سطيف
 Sîouâne
 T'Kout
 T'haridj
@@ -6642,7 +6673,7 @@ Tafrente
 Tafsest
 Taga
 Tagdempt
-Taghit
+Taghit, تاغيث
 Taghlissia
 Taghouzi
 Taghrourt
@@ -6675,7 +6706,7 @@ Tahantas
 Tahar
 Tahar Hadj Ali
 Taharkatine
-Tahart
+Tahart, تاهارت
 Tahdariat
 Tahenntout
 Taher
@@ -6727,7 +6758,7 @@ Talzaza
 Tamadjert
 Tamalous, تمالوس
 Tamamaït
-Tamanrasset
+Tamanrasset, Tamanghasset, تامنغست, تمنراست
 Tamarhoucht
 Tamassit
 Tamazirt
@@ -6790,7 +6821,7 @@ Taranimt
 Tardam
 Tarebent
 Tarfat
-Tarhaouhaout, فور موتيلانسكي, تاغاوهاوت
+Tarhaouhaout, تاغاوهاوت, فور موتيلانسكي
 Tarhelalet
 Tarhit
 Tarhit Bacha
@@ -6807,9 +6838,9 @@ Tarouaïa
 Tarourfet
 Tarzoug
 Tarzout
-Tasfaout, تاصفاوت
+Tasfaout, تاسفاوت
 Taskalla
-Taskriout, تاسقريوت
+Taskriout, تاسقريوت, تاسكريوت
 Taslemt
 Tassaft
 Tassamert
@@ -6821,7 +6852,7 @@ Taya
 Taza
 Tazalemt
 Tazazraït
-Tazbent, تازبنت
+Tazbent, برج تازبنت, تازبنت
 Tazemourt
 Tazerart
 Tazerout
@@ -6831,7 +6862,7 @@ Tazmalt
 Tazougart
 Tazoult
 Tazoult-Lambese
-Tazrouk, تاظروق
+Tazrouk, تازروق, تازروك, تاظروق, تاظروك
 Tazrout
 Tazrouts
 Tazêmmourt
@@ -6892,7 +6923,7 @@ Thigharmine
 Thouabet
 Tiahmaïne
 Tialet
-Tiaret
+Tiaret, تيارت
 Tibane
 Tibecharene
 Tibehirine
@@ -6916,7 +6947,7 @@ Tifera
 Tifezouin
 Tiffelfel
 Tifilkout
-Tifra, تيفرة
+Tifra, تيفرة, ثيفرا
 Tifrest
 Tifrit
 Tifrit-n-Aït Ou Malek
@@ -6931,7 +6962,7 @@ Tigrine
 Tiguedidine
 Tiguemounine
 Tiguenatine
-Tigzirt
+Tigzirt, تيقزيرت
 Tihamamine
 Tihbobine
 Tikesriine
@@ -6949,9 +6980,9 @@ Timarhas
 Timeliline
 Timerdjanine
 Timermassine
-Timgad
+Timgad, تيمقاد
 Timiloust
-Timimoun, تيميمون
+Timimoun, تميمون, تيميمون
 Timizart
 Timleha
 Timmassekh
@@ -6960,7 +6991,7 @@ Timoktene
 Timéïaouîne
 Tin Alkoum
 Tinar
-Tindouf, تندوف
+Tindouf, تندوف, تيندوف
 Tine Tarine
 Tinebdar
 Tinekachine
@@ -6974,7 +7005,7 @@ Tiouidiouine
 Tiouliline
 Tiourinine
 Tiout
-Tipaza
+Tipaza, Tipasa, تيبازة
 Tirasse Sbaâ
 Tirdiouine
 Tirdjine
@@ -6995,9 +7026,9 @@ Tisdeïne
 Tisrar
 Tissemirane
 Tissemoumine
-Tissemsilt, فيالار
+Tissemsilt, تسمسيلت, تيسمسيلت, فيالار
 Tissra Ou Djemal
-Tit, تيط
+Tit, تيت
 Titaf
 Tittaouine ech Cheurfa
 Tittaouine el Akhas
@@ -7023,7 +7054,7 @@ Tizi Ou Ferdinis
 Tizi Ouaklene
 Tizi Ouchir
 Tizi Ourhni
-Tizi Ouzou
+Tizi Ouzou, تيزي وزو
 Tizi Rached
 Tizi Rehal
 Tizi Tifra
@@ -7047,7 +7078,7 @@ Tizrara
 Tkayfia
 Tkisset
 Tlalet
-Tlemcen
+Tlemcen, تلمسان
 Tleta
 Tletat ed Douaïr
 Tletz
@@ -7073,12 +7104,13 @@ Touennsa
 Touffana
 Touffirt
 Tougana
-Touggourt
+Touggourt, تقرت
 Touhame
 Touilat
 Touilila
 Toukki
 Toumella
+Toumiat
 Tourk Houm
 Tourtatsine
 Tourville
@@ -7091,12 +7123,12 @@ Traante
 Tremblia
 Trharhet
 Tribu Guiyaro
-Trifaoui
+Trifaoui, الطريفاوي
 Trouville
 Tsabit
 Tsmana
 Tuilerie
-Tébessa
+Tébessa, تبسة
 Télagh
 Ténès
 Têżeit
@@ -7136,6 +7168,7 @@ Zahrar
 Zakkar
 Zalboun
 Zaouatallaz
+Zaouia
 Zaouia Benameur
 Zaouia Bou Rkache
 Zaouia Hamîda
@@ -7171,13 +7204,13 @@ Zekara
 Zekora
 Zekri
 Zelamta
-Zelfana, زلفانة
+Zelfana, برج زلفانة, زلفانة
 Zemanet Latach
 Zemaïlia
 Zemmoul
 Zemmoura
 Zemmouri
-Zemmouri el Bahri
+Zemmouri el Bahri, زموري
 Zemouchene
 Zemoura
 Zenadra
@@ -7202,7 +7235,7 @@ Zeïri
 Zfizef
 Zgaïr
 Zgoum
-Ziama Mansouria, كوفا, زيامة المنصورية
+Ziama Mansouria, بلدية زيامة منصورية, زيامة, زيامة المنصورية, زيامة منصورية, كوفا, منصورية
 Ziaïnia
 Zighout Youcef
 Zimoula
@@ -7227,5 +7260,5 @@ Zrouka
 Zrîbet Ben Ouaar
 Zrîbet Ka'ba Rhzêl
 Zérizer
-el hed, الحد
+el hed, إلماثن, الحد, تيميزارت إلماثن
 ‛Aïn Fekan

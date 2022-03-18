@@ -4,7 +4,7 @@ Agapy
 Alleaume
 Andrieux
 Anse Bambou
-Anse-Bertrand
+Anse-Bertrand, Анс-Бертран, آنس-برتران, アンス＝ベルトラン
 Arnouville
 Au Val
 Ausset
@@ -12,9 +12,9 @@ Babin
 Bacoul
 Bagatelle
 Baie Mahault
-Baie-Mahault
+Baie-Mahault, Баї-Мао, Бај Мао, باي-ماؤو, خلیج مئو
 Baille-Argent
-Baillif
+Baillif, Баїф, بايف
 Baimbridge
 Balin
 Ballet
@@ -36,7 +36,7 @@ Bas du Fort
 Bas-Vent
 Basile
 Basse Lézarde
-Basse-Terre
+Basse-Terre, Бас-Тер, באס טר, باس-تر, باس-تير, バステール
 Bauvel
 Bauzon
 Bazin
@@ -146,7 +146,7 @@ Botreau
 Boucan Audet
 Boucart
 Bougerel
-Bouillante
+Bouillante, Буянт, بويانت
 Bouillé
 Bouliqui
 Boulogne
@@ -204,8 +204,8 @@ Campry
 Campêche
 Canada
 Cantamerle
-Capesterre-Belle-Eau
-Capesterre-de-Marie-Galante
+Capesterre-Belle-Eau, Капестер-Бел-О, Капестерр-Бель-О, كابستر-بيل-أو
+Capesterre-de-Marie-Galante, Капестерр-де-Марі-Галант, كابستر-دو-ماري-جالانت, カペステール＝ド＝マリー＝ガラント
 Capharnaüm
 Carangaise
 Caraque
@@ -305,7 +305,7 @@ Desbonnes
 Descareaux
 Descostiers
 Descoudes
-Deshaies
+Deshaies, Десе, ديسيه
 Deshauteurs
 Desmarais
 Desplan
@@ -442,7 +442,7 @@ Gorot
 Gossain
 Gouillé
 Goulin
-Gourbeyre
+Gourbeyre, Гурбейр, غوربير
 Goyave
 Goyavier
 Grand Bassin
@@ -462,7 +462,7 @@ Grand'Case
 Grand'Croix
 Grand'Rivière
 Grand-Anse
-Grand-Bourg
+Grand-Bourg, Гран-Бур, גראן-בור, غران-بور, グラン＝ブール
 Grande Anse
 Grande Anse sur Morne
 Grande Case
@@ -563,7 +563,7 @@ La Digue
 La Diotte
 La Douce
 La Déboulée
-La Désirade
+La Désirade, Ла-Дезірад, לה דזיראד, ラ・デジラード
 La Gare Titus
 La Grange
 La Grippière
@@ -619,7 +619,7 @@ Lalung
 Laman
 Lamarre
 Lambert
-Lamentin
+Lamentin, Ламантен, لامنتين
 Lami
 Lamothe
 Lapalin
@@ -636,7 +636,7 @@ Le Boyer
 Le Chalet
 Le Désert
 Le Faubourg
-Le Gosier
+Le Gosier, Ле Гозје, Ле-Гозьє, لو غوسييه, لو گوسیه
 Le Grand Abaque
 Le Gîte
 Le Haut du Morne des Pères
@@ -645,7 +645,7 @@ Le Marigot
 Le Marquis
 Le Maud'Huy
 Le Mouillage
-Le Moule
+Le Moule, Ле-Муль, لو مول
 Le Papillon
 Le Pavillon
 Le Petit Marigot
@@ -658,7 +658,7 @@ Lemercier
 Lemesle
 Leroux
 Les Abricots
-Les Abymes
+Les Abymes, Лез-Абім, לז אבים, لزابيم, لزبیم, レザビーム
 Les Ancenneaux
 Les Basses
 Les Caps
@@ -838,11 +838,11 @@ Petit Moulin
 Petit Parc
 Petit Portland
 Petit Pérou
-Petit-Bourg
-Petit-Canal
+Petit-Bourg, Петі-Бур, Пти Бур, Пти-Бург, بيتي-بور, پوتی بور
+Petit-Canal, Петі-Каналь, بيتي-كانال
 Petite Anse
 Petite Fontaine
-Petites Anses
+Petites Anses, Терр-де-Ба, تير-دو-با
 Petites Mamelles
 Petites-Anses
 Philipsbourg
@@ -865,8 +865,8 @@ Plessis-Nogent
 Pliane
 Pointe d'Or
 Pointe à Raie
-Pointe-Noire
-Pointe-à-Pitre
+Pointe-Noire, Пуент-Нуар, بوانت-نوار
+Pointe-à-Pitre, Поент а Питр, Пуэнт-а-Питр, פואנט-א-פיטר, بوانت-آه-بيتر, ポワンタピートル
 Poirier
 Pombiray
 Pont Canal
@@ -933,9 +933,9 @@ Rézé
 Saint-Alban
 Saint-Bernard
 Saint-Charles
-Saint-Claude
+Saint-Claude, Сен-Клод, سان-كلود
 Saint-Denis
-Saint-François
+Saint-François, Сен-Франсуа, سان-فرانسوا
 Saint-Félix
 Saint-Georges
 Saint-Germain
@@ -945,7 +945,7 @@ Saint-Guillaume
 Saint-Jacques
 Saint-Jean
 Saint-Joseph
-Saint-Louis
+Saint-Louis, Сен-Луї, سان-لوي, サン＝ルイ
 Saint-Marc
 Saint-Michel
 Saint-Nicolas
@@ -958,7 +958,7 @@ Saint-Sauveur
 Saint-Sauveur la Montagne
 Saint-Val
 Saint-Val-Labique
-Sainte-Anne
+Sainte-Anne, Сент Ан, Сент-Анн, سانت-آن, سنتن، گوآدولوپ
 Sainte-Claire
 Sainte-Croix
 Sainte-Geneviève
@@ -967,7 +967,7 @@ Sainte-Marguerite
 Sainte-Marie
 Sainte-Marie des Bois
 Sainte-Marthe
-Sainte-Rose
+Sainte-Rose, Сент Роз, סנט-רוז, سانت-روز
 Sainte-Sophie
 Sainte-Élise
 Salette
@@ -1009,7 +1009,7 @@ Tambour
 Tarare
 Tassy
 Terrasson
-Terre-de-Haut
+Terre-de-Haut, Терр-де-О
 Thibault
 Thomas
 Thomy
@@ -1018,7 +1018,7 @@ Tombeau
 Toto
 Trinité
 Trois Îlets
-Trois-Rivières
+Trois-Rivières, Труа-Ривєр
 Trou Caverne
 Trou aux Chats
 Trou aux Chiens
@@ -1050,8 +1050,8 @@ Vidon
 Vieux Bourg
 Vieux Côte
 Vieux Fort
-Vieux-Fort
-Vieux-Habitants
+Vieux-Fort, Вє-Фор
+Vieux-Habitants, Вєз-Абітан
 Vigo
 Villa Claudinette
 Village

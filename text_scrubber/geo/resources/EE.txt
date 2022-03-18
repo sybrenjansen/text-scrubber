@@ -73,6 +73,7 @@ Aimla
 Aindu
 Ainja
 Aitsra
+Aksi
 Akste
 Ala
 Ala-Hanikase
@@ -83,6 +84,8 @@ Ala-Suhka
 Ala-Tilga
 Ala-Vagula
 Alajõe
+Alaküla
+Alaküla
 Alaküla
 Alakülaääre
 Alakülä
@@ -120,6 +123,9 @@ Alnavere
 Alt-Massu
 Altja
 Altjõe
+Altküla
+Altküla
+Altküla
 Altküla
 Altmäe
 Altnurga
@@ -196,7 +202,7 @@ Aravuste
 Arbavere
 Ardla
 Ardu
-Are
+Are, Are Parish
 Aresi
 Ariste
 Arisvere
@@ -211,6 +217,12 @@ Aruaia
 Aruaru
 Arudevahe
 Arukse
+Aruküla
+Aruküla
+Aruküla
+Aruküla
+Aruküla
+Aruküla
 Aruküla
 Arukülä
 Arula
@@ -266,7 +278,7 @@ Auvere
 Avanduse
 Avasalu
 Avaste
-Avinurme
+Avinurme, Avinurme Parish
 Avispea
 Avispea-Tagaküla
 Bekkeri
@@ -574,7 +586,7 @@ Iidlase
 Iigaste
 Iila
 Iilaste
-Iisaku
+Iisaku, Iisaku Parish
 Ikla
 Ilbaku
 Ilistvere
@@ -583,7 +595,7 @@ Illevere
 Illevere-Tagaküla
 Illi
 Illu
-Illuka
+Illuka, Illuka Parish
 Illurma
 Illuste
 Ilmandu
@@ -599,7 +611,7 @@ Imari
 Imaru
 Imastu
 Imatu
-Imavere
+Imavere, Imavere Parish
 Imste
 Imukvere
 Induniidu
@@ -713,6 +725,9 @@ Järvaku
 Järve
 Järvekuru
 Järveküla
+Järveküla
+Järveküla
+Järveküla
 Järvekülä
 Järvemäe
 Järveotsa
@@ -728,8 +743,11 @@ Jäärumetsa
 Jäätma
 Jõe
 Jõeküla
+Jõeküla
+Jõeküla
+Jõeküla
 Jõelepa
-Jõelähtme
+Jõelähtme, Jõelähtme Parish
 Jõemetsa
 Jõempa
 Jõepera
@@ -773,6 +791,7 @@ Kaansoo
 Kaansoo-Ojaküla
 Kaapre
 Kaapsuu
+Kaara
 Kaaratautsa
 Kaare
 Kaarepere
@@ -845,6 +864,7 @@ Kahru
 Kahrumäe
 Kahrusoo
 Kahtla
+Kahu
 Kahula
 Kahula-Rutiku
 Kahusaadu
@@ -864,6 +884,7 @@ Kaitsemõisa
 Kaitu
 Kaiu
 Kajamaa
+Kaku
 Kakulaane
 Kakumetsa
 Kakumäe
@@ -884,6 +905,7 @@ Kaleste
 Kaleva
 Kalevi
 Kalgi
+Kaliküla
 Kaliküla
 Kalina
 Kalita
@@ -943,6 +965,8 @@ Kannuka
 Kannuküla
 Kannussaarõ
 Kantküla
+Kantküla
+Kantküla
 Kantsi
 Kaomäe
 Kapa
@@ -959,7 +983,7 @@ Karaski
 Karatuma
 Karba
 Kardla
-Kareda
+Kareda, Kareda Parish
 Karepa
 Kargaja
 Kargi
@@ -986,6 +1010,7 @@ Karkuse
 Karla
 Karoli
 Karste
+Karu
 Karuba
 Karuga
 Karula
@@ -1108,7 +1133,7 @@ Kerguta
 Keri
 Kerikutsi
 Kerita
-Kernu
+Kernu, Kernu Parish
 Kersalu
 Kersleti
 Keräandsu
@@ -1118,6 +1143,7 @@ Kesimetsa
 Kesk-Nedsäjä
 Kesk-Pala
 Keskelurajoon
+Keskküla
 Keskküla
 Kesklahe
 Kesklinn
@@ -1214,6 +1240,8 @@ Kirikküla
 Kirikla
 Kiriku
 Kirikuküla
+Kirikuküla
+Kirikuküla
 Kirikumäe
 Kirikumõisa
 Kirikuvalla
@@ -1247,6 +1275,8 @@ Kivi
 Kivi-Vigala
 Kivijärve
 Kivikyula
+Kiviküla
+Kiviküla
 Kiviküla
 Kivikülä
 Kivilaane
@@ -1297,6 +1327,7 @@ Kodru
 Koduküla
 Koela
 Koemetsa
+Koera
 Koeravere
 Koeri
 Koeru
@@ -1326,7 +1357,7 @@ Koiduküla
 Koidula
 Koiduvälja
 Koigera
-Koigi
+Koigi, Koigi Parish
 Koigi-Aru
 Koigu
 Koikküla
@@ -1366,6 +1397,7 @@ Kolgametsa
 Kolgu
 Kolila
 Koljaku
+Koljala
 Kolkja
 Kolli
 Kollino
@@ -1381,6 +1413,7 @@ Koluotsa
 Koluta
 Koluvere
 Kommi
+Komsi
 Komuküla
 Kondi
 Konguta
@@ -1445,6 +1478,7 @@ Kose-Uuemõisa
 Kosenõmme
 Koseveski
 Kosova
+Kossa
 Kosta
 Kostiranna
 Kostivere
@@ -1600,7 +1634,7 @@ Kuuksi
 Kuumi
 Kuundra
 Kuura
-Kuusalu
+Kuusalu, Kuusalu Parish
 Kuuse
 Kuusemäe
 Kuusiku
@@ -1609,6 +1643,7 @@ Kuusnõmme
 Kuustle
 Kuutja
 Kuutsi
+Käbiküla
 Käbiküla
 Käbla
 Käbli
@@ -1629,6 +1664,7 @@ Känkari
 Kännu
 Kännuküla
 Käo
+Käpa
 Kärasi
 Käravete
 Käravete-Aruküla
@@ -1650,7 +1686,7 @@ Kärje
 Kärkna
 Kärkse
 Kärksi
-Kärla
+Kärla, Kärla Parish
 Kärmu
 Kärnamäe
 Kärneri
@@ -1665,6 +1701,7 @@ Käru
 Käsmu
 Käsna
 Käsukonna
+Käva
 Kääbaste
 Käända
 Kääni
@@ -1681,6 +1718,8 @@ Käätso
 Kõdeküla
 Kõdesi
 Kõdu
+Kõduküla
+Kõduküla
 Kõera
 Kõidama
 Kõiguste
@@ -1689,11 +1728,13 @@ Kõinastu
 Kõivsaare
 Kõivu
 Kõivuküla
+Kõksi
 Kõlbi
 Kõldu
 Kõliküla
 Kõljala
 Kõllõstõ
+Kõltsi
 Kõlunõmme
 Kõmmaste
 Kõmmuselja
@@ -1719,6 +1760,9 @@ Kõrgessaare
 Kõrgu
 Kõriska
 Kõrkküla
+Kõrkküla
+Kõrkküla
+Kõrkküla
 Kõrkvere
 Kõrma
 Kõrreküla
@@ -1731,6 +1775,7 @@ Kõruse
 Kõrve
 Kõrve Kaks
 Kõrve Üks
+Kõrveküla
 Kõrveküla
 Kõrvemetsa
 Kõrvenurga
@@ -1800,6 +1845,7 @@ Lae
 Laekannu
 Laekvere
 Laekvere-Aru
+Laeste
 Laeva
 Lagedi
 Lageduse
@@ -1807,6 +1853,8 @@ Lagevainu
 Laguja
 Lahavere
 Lahe
+Laheküla
+Laheküla
 Laheküla
 Lahepera
 Lahetaguse
@@ -1839,9 +1887,11 @@ Lannuste
 Lante
 Lao
 Laoküla
+Laoküla
 Laossaarõ
 Laossina
 Lapetukme
+Lapi
 Larvi
 Lasari
 Lasila
@@ -1984,6 +2034,8 @@ Liivaaugu
 Liivaku
 Liivakupalu
 Liivaküla
+Liivaküla
+Liivaküla
 Liivakünka
 Liivamäe
 Liivi
@@ -2068,6 +2120,7 @@ Loodna
 Loogamäe
 Looküla
 Loona
+Loone
 Loopre
 Loosi
 Loosu
@@ -2143,8 +2196,10 @@ Lõiuse
 Lõiuse Kaks
 Lõmala
 Lõmmelu
+Lõo
 Lõpe
 Lõpemetsa
+Lõpi
 Lõpõperä
 Lõu
 Lõuka
@@ -2202,7 +2257,7 @@ Mahtra
 Mahtra-Saunaküla
 Mahu
 Maidemaa
-Maidla
+Maidla, Maidla Parish
 Maikse
 Maima
 Maimsaare
@@ -2267,7 +2322,7 @@ Mauri
 Meedla
 Meegaste
 Meegomäe
-Meeksi
+Meeksi, Meeksi Parish
 Meeldemäe
 Meeliku
 Meelste
@@ -2291,12 +2346,20 @@ Meremäe
 Meremõisa
 Mereäärse
 Meriküla
+Meriküla
 Merise
 Merja
 Mets-Torila
 Metsakasti
 Metsakivi
 Metsakuru
+Metsaküla
+Metsaküla
+Metsaküla
+Metsaküla
+Metsaküla
+Metsaküla
+Metsaküla
 Metsaküla
 Metsalaane
 Metsalauka
@@ -2318,6 +2381,11 @@ Metsaääre
 Metsiku
 Metskaevu
 Metski
+Metsküla
+Metsküla
+Metsküla
+Metsküla
+Metsküla
 Metsküla
 Metsla
 Metslõugu
@@ -2435,6 +2503,15 @@ Mäe-Vagula
 Mäe-Vivva
 Mäebe
 Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
+Mäeküla
 Mäekülä
 Mäelooga
 Mäeltküla
@@ -2469,7 +2546,7 @@ Mähma
 Mäiste
 Mäkaste
 Mäkipäälne
-Mäksa
+Mäksa, Mäksa Parish
 Mäla
 Mäletjärve
 Mälgi
@@ -2512,6 +2589,12 @@ Mõega
 Mõhküla
 Mõisa
 Mõisaaseme
+Mõisaküla
+Mõisaküla
+Mõisaküla
+Mõisaküla
+Mõisaküla
+Mõisaküla
 Mõisaküla
 Mõisamaa
 Mõisamäe
@@ -2633,7 +2716,7 @@ Ninametsa
 Ninase
 Ninasi
 Nirgu
-Nissi
+Nissi, Nissi Parish
 Nisumäe
 Nitso
 Nogo
@@ -2693,6 +2776,9 @@ Nõmmerga
 Nõmmeri
 Nõmmise
 Nõmmküla
+Nõmmküla
+Nõmmküla
+Nõmmküla
 Nõmpa
 Nõnova
 Nõo
@@ -2738,6 +2824,8 @@ Oisu-Väljaotsa
 Oitme
 Oiu
 Ojaküla
+Ojaküla
+Ojaküla
 Ojamaa
 Ojamäe
 Ojapere
@@ -2746,6 +2834,7 @@ Ojasoo
 Ojaveski
 Ojaäärse
 Oju
+Ole
 Olehkova
 Oleski
 Olga
@@ -2921,10 +3010,12 @@ Paloveere
 Palu
 Palujüri
 Paluküla
+Paluküla
+Paluküla
 Palukülä
 Palumetsa
 Palumäe
-Palupera
+Palupera, Palupera Parish
 Palupere
 Palupõhja
 Palutaja
@@ -2947,6 +3038,7 @@ Parasmaa
 Parasmetsa
 Parasmäe
 Pargitaguse
+Pari
 Pariisi
 Parika
 Parila
@@ -3013,6 +3105,7 @@ Penniküla
 Penu
 Penuja
 Perajärve
+Peraküla
 Peraküla
 Perametsa
 Peratsaare
@@ -3101,6 +3194,7 @@ Pillardi
 Pille
 Pilpa
 Pilpaküla
+Pilpaküla
 Pilpakülä
 Pilu
 Pilustvere
@@ -3128,6 +3222,7 @@ Podmotsa
 Pohla
 Poka
 Poksi
+Polli
 Polovina
 Pombre
 Poole
@@ -3278,6 +3373,7 @@ Pällussaare
 Pältre
 Pändi
 Päraküla
+Päraküla
 Päraldi
 Pärase
 Pärassaare
@@ -3383,12 +3479,13 @@ Raadi
 Raadivere
 Raadna
 Raaduvere
+Raagi
 Raama
 Raamatu
 Raana
 Raani
 Raanitsa
-Raasiku
+Raasiku, Raasiku Parish
 Raasna
 Raassilla
 Raatvere
@@ -3405,7 +3502,7 @@ Rabivere-Krimmi
 Rabivere-Metsaküla
 Rabivere-Suurküla
 Rabivere-Väikeküla
-Rae
+Rae, Rae Parish
 Raeküla
 Raela
 Raespa
@@ -3428,10 +3525,11 @@ Raigaste
 Raigastvere
 Raigla
 Raigu
-Raikküla
+Raikküla, Raikküla Parish
 Raisma
 Raiste
 Raja
+Rajaküla
 Rajaküla
 Rajametsa
 Raka
@@ -3454,6 +3552,11 @@ Randvere-Parila
 Rangu
 Ranna
 Rannajõe
+Rannaküla
+Rannaküla
+Rannaküla
+Rannaküla
+Rannaküla
 Rannaküla
 Rannametsa
 Rannamõisa
@@ -3541,7 +3644,10 @@ Reti
 Retla
 Retsnigu
 Ridaküla
-Ridala
+Ridaküla
+Ridaküla
+Ridaküla
+Ridala, Ridala Parish
 Ridalepa
 Ridase
 Ridasi
@@ -3575,6 +3681,7 @@ Ringuta
 Riste
 Ristemäe
 Risti
+Ristiküla
 Ristiküla
 Ristimetsa
 Ristiotsa
@@ -3628,6 +3735,8 @@ Roosna-Alliku
 Roosta
 Roostoja
 Rootsi
+Rootsiküla
+Rootsiküla
 Rootsiküla
 Rootsisoo
 Rootsivere
@@ -3693,6 +3802,7 @@ Rääptsova
 Rääsa
 Rääski
 Rääsolaane
+Rõhu
 Rõika
 Rõka
 Rõkkalu
@@ -3711,6 +3821,7 @@ Rõuma
 Rõusa
 Rõuste
 Rõõmu
+Rõõsa
 Röa
 Röösa
 Röövli
@@ -3726,11 +3837,13 @@ Saapaküla
 Saara
 Saarde
 Saardu
-Saare
+Saare, Saare Parish
 Saareantsu
 Saarekula
 Saareküla
-Saaremaa
+Saareküla
+Saareküla
+Saaremaa, Saare County
 Saaremetsa
 Saaremõisa
 Saareotsa
@@ -3783,7 +3896,7 @@ Saksaküla
 Saksamaa
 Saksi
 Saksniidü
-Saku
+Saku, Saku Parish
 Sakudi
 Sakurgi
 Sakussaare
@@ -3986,7 +4099,7 @@ Soldati
 Soldina
 Solova
 Sompa
-Sonda
+Sonda, Sonda Parish
 Sonni
 Soo-otsa
 Sooaluse
@@ -4004,6 +4117,7 @@ Sookalduse
 Sookatse
 Sookuninga
 Sookurgu
+Sooküla
 Sooküla
 Soolu
 Soolätte
@@ -4122,6 +4236,8 @@ Suuretüki
 Suurevalja
 Suurevälja
 Suurküla
+Suurküla
+Suurküla
 Suurmetsa
 Suurna
 Suurpalu
@@ -4153,6 +4269,8 @@ Sääritsa
 Sääse
 Sääsekõrva
 Sääsküla
+Sääsküla
+Sääsküla
 Säässaare
 Säästla
 Sõgula
@@ -4161,6 +4279,7 @@ Sõmera
 Sõmerpalu
 Sõmeru
 Sõmeru-Aru
+Sõnni
 Sõra
 Sõrandu
 Sõreste
@@ -4171,6 +4290,7 @@ Sõtke
 Sõõrike
 Sõõrike-Aruküla
 Sõõrike-Suurküla
+Sõõru
 Söderby
 Sööni
 Sülgoja
@@ -4374,12 +4494,13 @@ Tohkri
 Tohku
 Tohkuse
 Tohvri
-Toila
+Toila, Toila Parish
 Tokolopi
 Toku
 Toljase
 Tolkuse
 Tolla
+Tolli
 Tomba
 Tomuski
 Tondi
@@ -4403,9 +4524,10 @@ Toovere
 Topu
 Toravere
 Tordi
-Torgu
-Tori
+Torgu, Torgu Parish
+Tori, Tori Parish
 Torila
+Torma
 Tormi
 Tornimäe
 Toruküla
@@ -4444,7 +4566,7 @@ Tudavere
 Tuderna
 Tudre
 Tudu
-Tudulinna
+Tudulinna, Tudulinna Parish
 Tudusilla
 Tuhakoti
 Tuhala
@@ -4497,7 +4619,7 @@ Tuuru
 Tuuse
 Tähemaa
 Tähkvere
-Tähtvere
+Tähtvere, Tähtvere Parish
 Täkumetsa
 Tällevere
 Tämbälse
@@ -4524,8 +4646,9 @@ Tõitoja
 Tõitse
 Tõivere
 Tõlga
+Tõlla
 Tõlli
-Tõlliste
+Tõlliste, Tõlliste Parish
 Tõlluste
 Tõlvamäe
 Tõmmiku
@@ -4539,6 +4662,7 @@ Tõnumaa
 Tõnussaare
 Tõnuvere
 Tõramaa
+Tõravere
 Tõrdu
 Tõre
 Tõreda
@@ -4628,6 +4752,8 @@ Uneste
 Ungru
 Unguma
 Uniküla
+Uniküla
+Uniküla
 Unimäe
 Unipiha
 Univere
@@ -4696,6 +4822,10 @@ Uusasula
 Uusi
 Uusinitsa
 Uusküla
+Uusküla
+Uusküla
+Uusküla
+Uusküla
 Uusna
 Uusnaru
 Uusvada
@@ -4762,7 +4892,7 @@ Vainupea
 Vainussaare
 Vaisi
 Vaiste
-Vaivara
+Vaivara, Vaivara Parish
 Vaivere
 Vaivina
 Vajangu
@@ -4836,6 +4966,8 @@ Vanaaseme
 Vanakao
 Vanakopli
 Vanakubja
+Vanaküla
+Vanaküla
 Vanaküla
 Vanalinn
 Vanamaa
@@ -5145,6 +5277,9 @@ Välgi-Alajõe
 Välgita
 Välja
 Väljaküla
+Väljaküla
+Väljaküla
+Väljaküla
 Väljamäe
 Väljaotsa
 Väljataguse
@@ -5189,6 +5324,7 @@ Võiduküla
 Võidula
 Võiera
 Võigaste
+Võika
 Võikvere
 Võiküla
 Võipere
@@ -5272,12 +5408,14 @@ aaviku talu
 Õeste
 Õha
 Õhu
+Õisu
 Õlatu
 Õle
 Õlla
 Õngu
 Õnniste
 Õrsava
+Õru
 Õruste
 Õssu
 Õuna
@@ -5307,6 +5445,7 @@ aaviku talu
 Ünnaste
 Üriküla
 Ürjaste
+Üru
 Üsse
 Üüdibe
 Üüvere

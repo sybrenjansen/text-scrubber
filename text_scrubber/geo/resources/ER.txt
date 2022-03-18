@@ -124,7 +124,7 @@ Addi Kuazien
 Addi Lamsay
 Addi Ledzhe
 Addi Mage
-Addi Messahal
+Addi Messahal, Addi-Massakhal'
 Addi Nefas
 Addi Nommik
 Addi Sabeu
@@ -209,7 +209,7 @@ Adi Harre
 Adi Hiabu
 Adi Ionnes
 Adi Itay
-Adi Jimel
+Adi Jimel, Adi Dzhimel'
 Adi Kabba
 Adi Kanta
 Adi Katina
@@ -280,7 +280,7 @@ Afchewa
 Affesi
 Afney
 Aforum
-Afta
+Afta, أفتا
 Afuma
 Ag'yaf
 Agambusa/Tobo
@@ -291,7 +291,7 @@ Agurto
 Agvali
 Aigherre
 Aiti Aber
-Ak'ordat
+Ak'ordat, أغوردات, ኣቁርደት
 Akilo
 Akrur
 Al' Elu
@@ -352,10 +352,10 @@ Ascidira
 Ashira
 Asiti
 Asitti
-Asmara
-Asmat
+Asmara, أسمرة, ኣስመራ
+Asmat, أسماط, منطقة فرعية أسماط
 Assa Ela
-Assab
+Assab, 'Aseb, عصب, ዓስብ
 Assambra
 Assoguaguy
 Asus
@@ -394,7 +394,7 @@ Badeda
 Badme
 Badn
 Badunkul
-Bahliya
+Bahliya, Bel'd
 Baio
 Bakayti
 Bakhar
@@ -411,8 +411,8 @@ Basheri
 Behat
 Bel'ebuy
 Belec
-Belessua
-Beleza, بلزا
+Belessua, Белессова
+Beleza, بلزا, بيليزا
 Bera'esoli
 Berak
 Berakit-Abay
@@ -423,7 +423,7 @@ Betalifuru
 Beza-Slam
 Biaghela
 Bibinna
-Biet Gabriel
+Biet Gabriel, Biel' Gabriel'
 Bilieta
 Bitama
 Biyakundi
@@ -468,7 +468,7 @@ Cudombascia
 Cumbeiba
 Curoh
 D'yurrum Segir
-Da'ero-Kun'at
+Da'ero-Kun'at, داعرو كونعات
 Da'iro P'awlos
 Daadatu
 Daber
@@ -500,7 +500,7 @@ Darotai
 Dasbudī
 Datoi Sima
 Daui Rori
-Dbarwa
+Dbarwa, دباروا
 Deba-Sima
 Debalk'o
 Debba
@@ -512,7 +512,7 @@ Debre Maryam
 Debre-Menkoryos
 Debresīna
 Debri Annenas
-Debri-Slasie
+Debri-Slasie, Adi Tak'ya
 Deca Dascim
 Decorassi
 Deda
@@ -584,7 +584,7 @@ Durna
 Durni
 Dzhinfa
 Dīwalu
-Edd, إد
+Edd, 'Idī, إد, إدي
 Eduk
 El Hufeyra
 Ela Beridi, علابرعد‎‎
@@ -595,7 +595,7 @@ Emba-Derho
 Embatkala
 Embeito
 Embela
-Emberemi
+Emberemi, إمبرمي
 Embeyto
 Emni Tsellim
 Emnī-Tselīm
@@ -688,11 +688,11 @@ Gherghir
 Gherzaliguli
 Ghibdo
 Ghile'e La'elay
-Ghinda'e
+Ghinda'e, Gīnda'
 Ghinzebo
 Ghirghir
 Ghirmayka
-Giamal Biscia
+Giamal Biscia, Dzhamal' Biskiya
 Giangheren
 Giassehe
 Gina Bala
@@ -720,7 +720,7 @@ Gura'e
 Gurgur
 Gurītat
 Gusk
-Gwelej
+Gwelej, ጐሉጅ, ጐሊጅ
 Habela
 Habenat
 Habran K'ak'a
@@ -729,7 +729,7 @@ Hacal Todaro
 Haddohalle
 Hadish
 Hadokko
-Hagaz, حقاز
+Hagaz, حقّاز
 Halay
 Halhal
 Halhale
@@ -757,11 +757,11 @@ Hayli
 Hazega
 Hernet
 Hidele
-Himbirtī
+Himbirtī, حمبرتي
 Himeret
 Himora
 Hinzī
-Hirgīgo
+Hirgīgo, ሕርጊጎ
 Hishkib
 Hit'imlo
 Hit'ublo
@@ -782,7 +782,7 @@ Idabi
 Ieden
 Ielit
 Ighiroli
-Igrī Mekel
+Igrī Mekel, Egri Makal'
 Ila Babu
 Ili
 Illabadan
@@ -822,10 +822,10 @@ Kelmet
 Keman Koba
 Kemechiwa
 Kerda
-Keren, كرن
+Keren, كرن, كَرَن
 Kergera
 Kerkebet Amalayt
-Kerora
+Kerora, غارورا, كارورا
 Kesa-Kalati
 Kesad Adi
 Kesat Rore
@@ -873,7 +873,7 @@ Kufitale
 Kuhli-Zbi
 Kukub
 Kuluku
-Kulul
+Kulul, Колулли
 Kumheyle
 Kushet
 Kutur
@@ -910,7 +910,7 @@ Mahmimet
 Maho
 Mai Aini
 Mai Assa
-Mai Cehu
+Mai Cehu, Keddus Mikael'
 Mai Chele
 Mai Edaga
 Mai Gorzo
@@ -939,7 +939,7 @@ Markosudi
 Marta
 Maryam Medhanit
 Mass Ali
-Massawa
+Massawa, Mits'iwa, Массауа, مصوع, ምጽዋዕ
 Matara
 Matare
 May Afide
@@ -955,10 +955,10 @@ May Mech'ek'at
 May Melegen
 May Osa
 May Taranbelay
-May Āt'al
+May Āt'al, ماء آتعل
 May-Hābar
 May-Mefals
-May-Nefhī
+May-Nefhī, Mai Nefhi, ماي نفحي
 Mayhā
 Mebasīt
 Mebred
@@ -978,16 +978,16 @@ Melebso
 Melīl
 Memla
 Mendad
-Mendefera, مندفرا
+Mendefera, عدي أوغري, مندفرا, منديفيرا
 Mensura
 Menuetet
 Merbaro
 Merhano
 Merkats
 Merra Nahayne
-Mersa Fat'ma, مرسى فاطمة
+Mersa Fat'ma, Marsa Fatima, مارسا فاطما, مرسا فاطمة, مرسى فاطمة
 Mersa Gulbub
-Mersa Tek'lay
+Mersa Tek'lay, Mersa Tehlay
 Mescul
 Mestamer
 Metich
@@ -998,7 +998,7 @@ Mikrem
 Mis Chanu
 Misgwag
 Missione Svedese
-Mocolba
+Mocolba, Мокольба
 Moga Meray
 Mogile
 Mogolo
@@ -1016,7 +1016,7 @@ Muscia
 Mērgēbla
 N'yul'to
 Nacta
-Nak'fa, نقفا
+Nak'fa, النقفة‎, ناغفا, ناكفا, نقفا, نقفة‎, ናቐፋ
 Narcaba
 Nasirakurra
 Nauret
@@ -1028,7 +1028,7 @@ Nuret
 Oasi
 Obellet
 Olef
-Omhājer, أم هاجر
+Omhājer, Umm Hājar, أم هاجر
 Ona
 Ona Foroho
 Ona Gabien
@@ -1088,7 +1088,7 @@ Sebar Guma
 Sebderat
 Sed Daaf
 Segdo
-Segheneytī, سغنيتي
+Segheneytī, سخناتي, سغنيتي
 Selaba She'īb
 Semanit
 Sen'afe
@@ -1102,7 +1102,7 @@ Sezla
 Sh'eb/Mensheb
 Shaffidi
 Shaka
-Shambiko
+Shambiko, شامبيكو
 Shariekhi
 Sharobia
 Shashi
@@ -1150,7 +1150,7 @@ Tate Maule
 Tauda
 Tauro
 Tegheren
-Tera-Emnī
+Tera-Emnī, تيرامني
 Tetafil
 Ticse
 Time'ī
@@ -1218,7 +1218,7 @@ Zaare
 Zaga
 Zagr
 Zahaflam
-Zalambessa
+Zalambessa, زالامبسا
 Zamat
 Zara
 Zariga
@@ -1243,7 +1243,7 @@ Zula, زولا
 Ādebu'ur
 Ādek'e Ginet
 Ādengefom
-Ādilges
+Ādilges, Adi Al'ges
 Ādī Bahro
 Ādī Bilay
 Ādī Fini'i
@@ -1291,11 +1291,11 @@ Zula, زولا
 Ādī Ār'ada
 Ādī-Felesti
 Ādī-Gureto
-Ādī-Ne'amn
-Ādī-Quala, عدي خوالا
-Ādī-Teklezan, عدي تكليزان
-Ādība'ikel
-Ādībara
+Ādī-Ne'amn, عدي نعامن
+Ādī-Quala, عدي خوالا, عدي كوالا
+Ādī-Teklezan, عدي تكليزان, عدي تيكلزان
+Ādība'ikel, Adi Bakel'
+Ādībara, عدي بارو
 Ādīk'e
 Ādīs 'Alem
 Āf May

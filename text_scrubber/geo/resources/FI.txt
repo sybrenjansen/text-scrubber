@@ -10,7 +10,7 @@ Aatola
 Aatsinki
 Aavasaksa
 Abessinia
-Agnisbäck
+Agnisbäck, Gamla Kvarnen
 Ahenpää
 Ahjo
 Ahjärvi
@@ -43,7 +43,7 @@ Ahtiala
 Ahtola
 Ahveninen
 Ahvenisto
-Ahvenkoski
+Ahvenkoski, Abborrfors, Stor Abborfors, Stor Abborforsgård, Suur Ahvenkoski
 Ahvenlahti
 Ahvenlammi
 Ahvenniemi
@@ -51,7 +51,7 @@ Ahvensalmi
 Ahvenselkä
 Ahvenus
 Ahvenvaara
-Ahvio
+Ahvio, Ahvis
 Ahvionniemi
 Ahvionsaari
 Aijala
@@ -74,7 +74,7 @@ Aitoo
 Aitsorkullen
 Aitta
 Aittala
-Aittaluoto
+Aittaluoto, Bodskär
 Aittamaa
 Aittaniemi
 Aittasenloukko
@@ -86,7 +86,7 @@ Aittomäki
 Aittoniemi
 Aittovaara
 Ajostaipale
-Akaa
+Akaa, Ackas
 Akanlahti
 Akkala
 Akkijärvi
@@ -100,20 +100,20 @@ Ala-Kelvä
 Ala-Kieri
 Ala-Kuona
 Ala-Kääntä
-Ala-Malmi
+Ala-Malmi, Nedre-Malm
 Ala-Nampa
 Ala-Nurmo
-Ala-Paakkola
+Ala-Paakkola, Alapaakkola
 Ala-Partala
 Ala-Pihlaja
 Ala-Raumo
 Ala-Siikajärvi
-Ala-Sydänmaa
+Ala-Sydänmaa, Alasydänmaa
 Ala-Särkilahti
 Ala-Tikkurila, Nedre Dickursby
 Ala-Valli
 Ala-Viirre
-Ala-Vojakkala
+Ala-Vojakkala, Alavojakkala
 Ala-Vuotto
 Alahonkajoki
 Alahurttanen
@@ -122,12 +122,12 @@ Alahäärä
 Alainenpää
 Alajoenmylly
 Alajoki
-Alajärvi
+Alajärvi, Alajärven Kaupunki
 Alakeyritty
 Alakirsi
 Alakitka
 Alakuja
-Alakylä
+Alakylä, Nederby, Nedre byn, Ytterby
 Alalehto
 Alalivo
 Alaluosta
@@ -151,17 +151,17 @@ Alastaro
 Alatalo
 Alatornio
 Alavi
-Alavieska
-Alavuokki
-Alavus
+Alavieska, Alavieskan Kunta
+Alavuokki, Ala-Vuokki
+Alavus, Alavo, Alavuden Kaupunki
 Alho
 Alhojoki
 Alhojärvi
 Alholm
-Alholmen
+Alholmen, Alholma, Leppäluoto
 Alhonkulma
 Alhonloukko
-Ali-Vekkoski
+Ali-Vekkoski, Söderveckoski
 Alikylä
 Aliskulma
 Alkkia
@@ -171,7 +171,7 @@ Allinen
 Alliniemi
 Almas
 Alnäset
-Alppikylä
+Alppikylä, Alpbyn
 Alpua
 Alsila, Alsböle
 Alskat
@@ -183,7 +183,7 @@ Alvonkylä
 Amer
 Ampiala
 Ampujala
-Amttoo
+Amttoo, Ämtö
 Anavainen
 Andby
 Andersby
@@ -218,19 +218,19 @@ Antelmaa
 Antikkala
 Antila
 Antinlahti
-Antoora
-Antskog
-Anttila
+Antoora, Antören
+Antskog, Ansku
+Anttila, Andersböle
 Anttipuhto
 Anttisaari
 Anttola
 Anttosenmäki
 Apaja
-Apalahti
+Apalahti, Apalakt
 Apukka
 Apuranta
-Arantila, Arnäsby
-Aravakylä
+Arantila, Arandila, Arnäsby
+Aravakylä, Aravabyn
 Arkkukari
 Armassaari
 Armila
@@ -249,7 +249,7 @@ Arrajärvi
 Arrakoski
 Arrankorpi
 Arstu
-Artjärvi
+Artjärvi, Artsjö
 Artukka
 Arvaja
 Arvassalo
@@ -261,15 +261,15 @@ Asemankylä
 Asemanseutu
 Asentopalo
 Asevelikylä
-Asikkala
+Asikkala, Asikkalan Kunta
 Asila
 Aska
 Askainen
 Askala
 Askankylä
 Askanmäki
-Askisto
-Askola
+Askisto, Askis
+Askola, Askolan Kunta
 Askskär
 Asola
 Aspbäcken
@@ -286,8 +286,8 @@ Attu
 Auho
 Auhonkylä
 Aukeopää
-Aulanko, Karlberg
-Aura
+Aulanko
+Aura, Auran Kunta
 Auranlaakso
 Auras
 Aurekoski
@@ -302,16 +302,16 @@ Autiö
 Autti
 Auttin asutusalue
 Auttoinen
-Auvainen
+Auvainen, Auvais
 Auvaismäki
 Auvi
 Auvila
-Avveel-Matti
-Back, Pakankylä
+Avveel-Matti, Ivalon-Matti
+Back
 Backa
 Backas
 Backby
-Backböle
+Backböle, Pakila
 Backen
 Backoja
 Baggby
@@ -319,6 +319,7 @@ Baggböle
 Bakhag
 Barkamo
 Barösund
+Basaböle
 Bast
 Bastö
 Bemböle
@@ -338,9 +339,9 @@ Bertils
 Bertilsbacken
 Bertlasmossa
 Betlehem
-Biesjohka
+Biesjohka, Piesjoki
 Billböle
-Billnäs
+Billnäs, Pinjainen
 Billskog
 Bisarböle
 Biskopsböle
@@ -354,7 +355,7 @@ Björkbacken
 Björkboda
 Björkdal
 Björkhaga
-Björkholma
+Björkholma, Björkholm
 Björklid
 Björknäs
 Björkö
@@ -362,7 +363,7 @@ Björköby
 Björn
 Björnilä
 Björnvik
-Björnö
+Björnö, Björnö Sund, Karhusalmi
 Blacksnäs
 Bladbacken
 Blekdal
@@ -401,7 +402,7 @@ Bondisbacken
 Bonds
 Bonäs, Majaniemi
 Bonäsören
-Borgby
+Borgby, Linnanpelto
 Borgmästarängen
 Boskas
 Bosund
@@ -418,10 +419,10 @@ Bredhällan
 Bredslätt
 Bredvik
 Bredäng
-Brinkinmäki
+Brinkinmäki, Brinken
 Brissas
 Bro
-Broby
+Broby, Siltakylä
 Broböle
 Brokull
 Brokärr
@@ -441,7 +442,7 @@ Brännars
 Brännbacken
 Bränngårdarna
 Brännlund
-Brännmalmen
+Brännmalmen, Satomäki
 Brännskiftet
 Bullers
 Butsbacken
@@ -451,7 +452,7 @@ Byskatan
 Byträsk
 Byända
 Bäck
-Bäckby
+Bäckby, Pekinkylä
 Bäckisviken
 Bäckliden
 Bäcks
@@ -480,7 +481,7 @@ Dalby
 Dalen
 Daliback
 Dalkarby
-Dalsbruk
+Dalsbruk, Taalintehdas
 Dalsvik
 Danskog
 Danskulla
@@ -500,9 +501,9 @@ Dotterböle
 Dragsfjärd
 Dragsvik
 Draka
-Drombom
-Drägsby
-Ebbo
+Drombom, Rumpila
+Drägsby, Treksilä
+Ebbo, Epoo
 Edesjärvi
 Edsevö
 Edsvik
@@ -512,8 +513,8 @@ Eerikkälä
 Eerikvalla
 Eerola
 Eestinkylä
-Eestinmalmi
-Eestinmäki
+Eestinmalmi, Estmalmen
+Eestinmäki, Estbacka
 Egypti
 Egyptinkorpi
 Ehikki
@@ -523,7 +524,7 @@ Eimisjärvi
 Eiro
 Eiskola
 Eitikansalo
-Ekenäs
+Ekenäs, Tammisaari
 Ekerö
 Eknäs
 Ekola, Eckos
@@ -531,7 +532,7 @@ Ekoluoma
 Ekonen
 Elehvä
 Elijärvenkulma
-Elimäki
+Elimäki, Elimä
 Elkkyinen
 Elkonniemi
 Ellola
@@ -549,7 +550,7 @@ Emo
 Emola
 Emolahti
 Emoniemi
-Empo
+Empo, Ämboda
 Enanniemi
 Enanranta
 Enbacken
@@ -560,11 +561,11 @@ Eno
 Enokunta
 Enolanmäki
 Enonjoenmylly
-Enonkoski
+Enonkoski, Enonkosken Kunta
 Enonkylä
 Enonlahti
 Enonsalo
-Enontekiö
+Enontekiö, Enontekis, Enontekis kommun, Enontekiön kunta
 Ensilä
 Enäjärvi
 Epaala
@@ -592,10 +593,10 @@ Eskelä
 Eskilom
 Eskola
 Eskolanmäki
-Espoo
-Espoon Keskus
-Espoonkartano
-Espoonlahti
+Espoo, Esbo, Esbo Stad, Espoon Kaupunki
+Espoon Keskus, Esbo centrum
+Espoonkartano, Esbogård
+Espoonlahti, Esboviken
 Esse, Ähtävä
 Etelä-Hervanta
 Etelä-Ii
@@ -603,7 +604,7 @@ Etelä-Mahlu
 Etelä-Niskamäki
 Etelä-Petruma
 Etelä-Poitsila, Norsby
-Etelä-Vartsala
+Etelä-Vartsala, Vartsala Söderby
 Etelä-Vuokko
 Etelälahti
 Etelämaa
@@ -611,22 +612,22 @@ Etelänkylä
 Eteläpää
 Etelärinne
 Etola
-Etu-Amerikka
+Etu-Amerikka, Främre Amerika
 Etu-Lammi
 Etu-Martti
 Etukylä
 Eugmo
-Eura
-Eurajoki
+Eura, Euran Kunta
+Eurajoki, Eurajoen Kunta, Euraåminne
 Eurakoski
-Evijärvi
+Evijärvi, Evijärven Kunta
 Evitskog, Hievala
 Eväjärvi
 Fagerkulla
 Fagersta
 Fagervik
 Falisa
-Falkki
+Falkki, Falkberg
 Fall
 Fallbacken
 Fallböle
@@ -634,11 +635,11 @@ Fantsnäs
 Fasarby
 Fastarby
 Fatipori
-Filppula
+Filppula, Filpula
 Filpus
 Finby
 Finholm
-Finnari
+Finnari, Finnarv
 Finnas
 Finnasbacken
 Finnbacka
@@ -649,26 +650,27 @@ Finninkylä
 Finnsbacka
 Finnäs
 Finnö
-Finpyy, Finby
+Finpyy
 Finsjö
-Fiskars
+Fiskars, Fiskari
 Flackåsen
 Fladan
-Fleiviiki
+Fleiviiki, Flevik
 Flossböle
 Flyt
 Forsby
 Forsen
-Forssa
+Forssa, Forsa, Forssan Kaupunki
+Forssa, Forssan seutukunta
 Forsslätt
-Foutila
+Foutila, Fougdila
 Framnäs
 Framstu
 Frankböle
 Fransila
 Fremböle
 Friggesby
-Friisilä
+Friisilä, Frisans
 Friitala, Friby
 Frimans
 Friskala
@@ -684,7 +686,7 @@ Fäboda
 Fältas
 Fågelberget
 Fågelvik
-Fårholmen
+Fårholmen, Lammassaari
 Förby
 Gabels
 Galls
@@ -692,7 +694,7 @@ Galtarby
 Galtback
 Galtby
 Galtby Brygga
-Gamla hamnen
+Gamla hamnen, Vanhasatama
 Gammelbacka
 Gammelby
 Gammelstu
@@ -703,7 +705,7 @@ Genböle
 Gennarby
 Gerby
 Gesterby
-Gillern
+Gillern, Kilteri
 Girsnäs
 Gislom
 Gloskär
@@ -723,15 +725,15 @@ Grevböle
 Gripsböle
 Grisasby
 Grisselören
-Grundbacka
+Grundbacka, Perusmäki
 Grundbacken
 Grundsund
 Grundören
 Gränden
 Grännäs
-Gråböle
+Gråböle, Kraila
 Gröndal
-Grönkulla
+Grönkulla, Viherkumpu
 Grönvik
 Grötas
 Guldsmedis
@@ -765,11 +767,11 @@ Haali
 Haanela
 Haankylä
 Haanpää
-Haapa-Kimola
+Haapa-Kimola, Haapakimola
 Haapa-aho
 Haapainen
 Haapajoenkulma
-Haapajärvi
+Haapajärvi, Aspsjö, Haapajärven Kaupunki
 Haapakoski
 Haapakylä
 Haapala
@@ -781,11 +783,11 @@ Haapaluoma
 Haapamäki
 Haapaniemi
 Haapaoja
-Haapasaari
+Haapasaari, Aspö
 Haapasalmi
 Haapasalo
 Haapavaara
-Haapavesi
+Haapavesi, Haapaveden Kaupunki
 Haapavirta
 Haapiala
 Haapimaa
@@ -806,7 +808,7 @@ Haarankylä
 Haaranmäki
 Haaransilta
 Haarjärvi
-Haarla
+Haarla, Harlax
 Haaro
 Haaroinen
 Haataja
@@ -828,11 +830,11 @@ Haikala
 Haikarila
 Haikka
 Haikkaanlahti
-Haikkoo
+Haikkoo, Haiko
 Haikola
 Haikosaari
 Hailila
-Hailuoto
+Hailuoto, Hailuodon Kunta, Karlö
 Haimari
 Haimila
 Haimoo
@@ -858,14 +860,14 @@ Hakola
 Hakoniemi
 Hakosuo
 Hakovaara
-Haksi, Haxböle
+Haksi, Hax, Haxböle
 Hakula
 Hakuni
-Hakunila
-Hakuninmaa
+Hakunila, Håkansböle
+Hakuninmaa, Håkansåker
 Halikko
 Halila
-Halinen
+Halinen, Hallis
 Halivaara
 Halkia
 Halkivaha
@@ -879,7 +881,7 @@ Hallala
 Hallanperä
 Hallapuro
 Halli
-Hallila
+Hallila, Skomarböle
 Hallilanmäki
 Hallinmäki
 Hallu
@@ -894,20 +896,20 @@ Halolanpää
 Halonen
 Haloniemi
 Halosenranta
-Halslax
+Halslax, Lilhalslax
 Halsniemi, Lillhalslax
 Halso
-Halssi
+Halssi, Halsen
 Halssila
-Halsua
+Halsua, Halsuan Kunta
 Haltia
 Halttula
-Halujärvi
+Halujärvi, Haluträsk
 Haluna
 Halvdels
 Hamaravaara
-Hamari
-Hamina, Fredrikshamn
+Hamari, Hammars
+Hamina, Fredrikshamn, Haminan Kaupunki
 Haminalahti
 Haminankylä, Fredrikshamn
 Hammarsboda
@@ -917,7 +919,7 @@ Hammaslahti
 Hammonperä
 Hamula
 Hanaböle
-Hanasaari
+Hanasaari, Hanaholmen
 Handby
 Hangaskylä
 Hangaslahti
@@ -928,7 +930,7 @@ Hangastenmaa
 Hangelby
 Hangist
 Hangslax
-Hangöby
+Hangöby, Hangonkylä
 Hanhela
 Hanhelanperä
 Hanhijärvi
@@ -946,17 +948,17 @@ Hankaa
 Hankala
 Hankamäki
 Hankapohja
-Hankasalmi
+Hankasalmi, Hankasalmen Kunta
 Hankavaara
 Hankavesi
 Hankkila
 Hankkio
-Hanko
+Hanko, Hangon Kaupunki, Hangö, Hangö Stad
 Hankreeti
 Hankrinmäki
 Hankuri
-Hanni, Handby
-Hanninkylä, Handby
+Hanni
+Hanninkylä
 Hanninmäki
 Hannolanpelto
 Hannonmäki
@@ -971,7 +973,7 @@ Hapbacka
 Hapneholmen
 Hara
 Haraberg
-Haraholma
+Haraholma, Haraholm
 Harakka
 Harakkala
 Harapainen
@@ -984,8 +986,8 @@ Harjakangas
 Harjakoski
 Harjankylä, Harja
 Harjattula
-Harjavalta
-Harju
+Harjavalta, Harjavalda, Harjavallan Kaupunki
+Harju, Ås
 Harjukylä
 Harjula
 Harjumaa
@@ -1012,15 +1014,15 @@ Harri
 Harrström
 Harsböle
 Hartiavaara
-Hartikanmäki
+Hartikanmäki, Hartikkabacken
 Hartikkala
-Hartola, Gustav Adolfs
+Hartola, Gustav Adolfs, Hartolan Kunta
 Hartor
 Hartosenpää
 Hartusvuori
 Haru
 Harvakylä
-Harvala
+Harvala, Långsluk
 Harvanmäki
 Harvaperä
 Harviala
@@ -1029,7 +1031,7 @@ Harvs
 Haso
 Hasselbacken
 Hassila
-Hassis
+Hassis, Hassinen
 Hasu
 Hasula
 Hasunmäki
@@ -1038,7 +1040,7 @@ Hatsola
 Hattelmala
 Hattlandsbacken
 Hattom
-Hattula
+Hattula, Hattulan Kunta
 Hattusaari
 Hattuselkonen
 Hattuvaara
@@ -1052,7 +1054,7 @@ Hauhuu
 Haukharja
 Haukijärvi
 Haukila
-Haukilahti
+Haukilahti, Gäddvik
 Haukilampi
 Haukiluoma
 Haukimäki
@@ -1074,7 +1076,7 @@ Haunia
 Hauninen
 Hauranki
 Hausanniemi
-Hausjärvi
+Hausjärvi, Hausjärven Kunta
 Hauta-aho
 Hautajoki
 Hautajärvi
@@ -1123,16 +1125,16 @@ Heikolankulma
 Heimala
 Heimari
 Heimola
-Heiniemi
+Heiniemi, Hejnäs
 Heinijoki
 Heinijärvi
 Heinikka
 Heinikylä
 Heinioja
 Heinisuo
-Heinlahti
+Heinlahti, Heinlax
 Heinlammi
-Heinola
+Heinola, Heinolan Kaupunki
 Heinolahti
 Heinolanperä
 Heinoniemi
@@ -1149,12 +1151,12 @@ Heinälahti
 Heinälammi
 Heinämaa
 Heinämäki
-Heinänen
+Heinänen, Heinäskylä
 Heinäperä
 Heinäpohja
 Heinäsuo
 Heinävaara
-Heinävesi
+Heinävesi, Heinäveden Kunta
 Heiskala
 Heiskanperä
 Heiskilä
@@ -1178,6 +1180,7 @@ Helppi
 Helsingby
 Helsinginpitäjä
 Helsinki, Helsingfors
+Helsinki, Helsingfors, Helsingin seutukunta
 Hemmi
 Hemmilä
 Hemminki
@@ -1212,8 +1215,8 @@ Hernevaara
 Heroja
 Herrainpäivät
 Herrakunta
-Herrala
-Herralahti
+Herrala, Hertsby
+Herralahti, Herreviken
 Herranen
 Herrbacken
 Herronen
@@ -1281,12 +1284,12 @@ Hiirenniemi
 Hiirijärvi
 Hiirimäki
 Hiiripelto
-Hiirisuo
+Hiirisuo, Mösskärr
 Hiirlä
 Hiisijärvi
 Hiisimäki
 Hiisiö
-Hiiskanpelto
+Hiiskanpelto, Hiiskanmäki
 Hiiskoski
 Hiismäki
 Hiitelä
@@ -1315,19 +1318,19 @@ Himahuuha
 Himalanpohja
 Himalansaari
 Himanka, Himango
-Himankakylä
+Himankakylä, Himangoby
 Himoinen
 Himos
 Himottula
-Hindersby
+Hindersby, Heikinkylä
 Hindsby
-Hinkaböle
+Hinkaböle, Hinkapyöli
 Hinkanmäki
 Hinkkala
 Hinnerjoki
 Hinnuri
 Hinsala
-Hinthaara
+Hinthaara, Hindhår
 Hintsala
 Hinttala
 Hinttinen
@@ -1349,13 +1352,13 @@ Hirvasvaara
 Hirvelä
 Hirvelänkylä
 Hirvenlahti
-Hirvensalmi
+Hirvensalmi, Hirvensalmen Kunta
 Hirviaho
 Hirvihaara
 Hirvijoki
-Hirvijärvi
+Hirvijärvi, Älgträsk
 Hirvikangas
-Hirvikoski
+Hirvikoski, Öster Hirvikoski
 Hirvilahti
 Hirvilä
 Hirvimäki
@@ -1367,7 +1370,7 @@ Hirvivaara
 Hirvlax
 Hirvola
 Hirvolanvaara
-Hitis
+Hitis, Hiittinen
 Hitola
 Hitå
 Hiu
@@ -1394,7 +1397,7 @@ Holkko
 Holkkolanlarva
 Hollanti
 Hollo
-Hollola
+Hollola, Hollolan Kunta
 Holm
 Holma
 Holmanperä
@@ -1416,8 +1419,8 @@ Hongisoja
 Hongisto
 Hongistonmäki
 Hongonkylä
-Honkajoki
-Honkajärvi
+Honkajoki, Honkajoen Kunta
+Honkajärvi, Svansby
 Honkakoski
 Honkakylä
 Honkala
@@ -1464,7 +1467,7 @@ Houhajärvi
 Houkkala
 Housu
 Houtsala
-Houtskär
+Houtskär, Houtskari
 Houttu
 Hovattala
 Hovgård
@@ -1490,7 +1493,7 @@ Huhtaa
 Huhtakylä
 Huhtala
 Huhtamo
-Huhtanen
+Huhtanen, Huuhtasenkylä
 Huhtariihi
 Huhti
 Huhtia
@@ -1509,7 +1512,7 @@ Huipankulma
 Huissi
 Huissinkylä
 Huistinvaara
-Huittinen, Vittis
+Huittinen, Huittisten Kaupunki, Hvittis, Vittis, Vittis Stad
 Huittula
 Hujakkala
 Hujala
@@ -1521,7 +1524,7 @@ Hulkkio
 Hulkkola
 Hulkonmäki
 Hulmi
-Humalakoski
+Humalakoski, Humlefors
 Humaloja
 Humikkala
 Humla
@@ -1531,7 +1534,7 @@ Hummelsund
 Hummovaara
 Humpinmäki
 Humppi
-Humppila
+Humppila, Humppilan Kunta
 Hungerla
 Hunsala
 Huntus
@@ -1568,7 +1571,7 @@ Huso
 Husu
 Husula, Husuböle
 Husunkylä
-Husupyöli
+Husupyöli, Husuböle
 Hutsaari
 Huttrasbacka
 Huttu
@@ -1577,7 +1580,7 @@ Huttula
 Huttusenniemi
 Huuhanaho
 Huuhilo
-Huuhkaala
+Huuhkaala, Huuhkala
 Huuhmarisvaara
 Huuskonvaara
 Huutijärvi
@@ -1595,7 +1598,7 @@ Hylta
 Hynninen
 Hynnänkorpi
 Hyntilä
-Hyppeis
+Hyppeis, Hyppeinen
 Hypönniemi
 Hyrkkylä
 Hyrkkälä
@@ -1606,8 +1609,8 @@ Hyrsinki
 Hyrsylä
 Hyrvälä
 Hyry
-Hyrylä
-Hyrynsalmi
+Hyrylä, Skavaböle
+Hyrynsalmi, Hyrynsalmen Kunta
 Hytti
 Hyttikangas
 Hyttikoski
@@ -1618,7 +1621,7 @@ Hyvelänviiki, Hjulböleviken
 Hyvikkälä
 Hyvilemp
 Hyvinge
-Hyvinkää
+Hyvinkää, Hyvinkään kaupunki
 Hyvinkäänkylä
 Hyvämäki
 Hyväneula
@@ -1663,10 +1666,11 @@ Hälvänmäki
 Häme
 Hämeenkoski
 Hämeenkylä
-Hämeenkyrö
-Hämeenlinna
+Hämeenkyrö, Hämeenkyrön Kunta, Tavastkyrö
+Hämeenlinna, Hämeenlinnan Kaupunki, Tavastehus, Tavastehus Stad
+Hämeenlinna, Hämeenlinnan seutukunta, Tavastehus
 Hämeenniemi
-Hämevaara
+Hämevaara, Tavastberga
 Hämälä
 Hämäläinen
 Hännilä
@@ -1682,8 +1686,8 @@ Härkinvaara
 Härkmeri
 Härkähuuhta
 Härkälä
-Härkämäki
-Härkäpää
+Härkämäki, Oxbacka
+Härkäpää, Härpe
 Härköilä
 Härkölä
 Härkönen
@@ -1691,7 +1695,7 @@ Härkövaara
 Härmi
 Härmä
 Härmälä
-Härmän asemaseutu
+Härmän asemaseutu, Härmä stationsområde
 Härmänkulma
 Härmänmaa
 Härmänmäki
@@ -1707,12 +1711,12 @@ Hätilä
 Häyrynen
 Hääkoski
 Håkansarv
-Hålatallen
+Hålatallen, Kolohonka
 Hållsnäs
 Höböle
 Högback
 Högbacka
-Högbacken
+Högbacken, Korkeamäki
 Höghulten
 Högmo
 Högnäs
@@ -1765,7 +1769,7 @@ Ihattula
 Ihme
 Ihode
 Ihotunlahti
-Ii
+Ii, Iin Kunta, Ijo
 Iikka
 Iiksenvaara
 Iimäki
@@ -1775,17 +1779,17 @@ Iiranta
 Iiroinen
 Iirola
 Iiruu
-Iisalmi
+Iisalmi, Idensalmi, Idensalmi Stad, Iisalmen Kaupunki
 Iisvesi
 Iitin kirkonkylä
 Iitiä
 Iittala
-Iitti
+Iitti, Iitin Kunta, Itis
 Iivananpuro
 Iivantiira
 Iivarinkylä
-Iivisniemi
-Ikaalinen
+Iivisniemi, Ivisnäs
+Ikaalinen, Ikaalisten Kaupunki, Ikalis, Ikalis Stad
 Ikkala
 Ikkeläjärvi
 Ikoinniemi
@@ -1805,8 +1809,8 @@ Illby
 Illevaara
 Illikainen
 Illo
-Illoinen
-Ilmajoki, Ilmola
+Illoinen, Illois
+Ilmajoki, Ilmajoen Kunta
 Ilmajärvi
 Ilmapohja
 Ilmarinen
@@ -1815,21 +1819,22 @@ Ilmoila
 Ilmoissilta
 Ilmola
 Ilmolahti
-Ilola
-Ilomantsi
+Ilola, Gladas
+Ilomantsi, Ilomants, Ilomantsin Kunta
 Ilomäki
 Iloniemi
 Ilosjoki
 Ilottula
 Ilovaara
-Ilpoinen
+Ilpoinen, Ilpois
 Iltasmäki
 Ilttula
 Ilvesjoki
 Ilvesjärvi
 Ilveskorpi
 Imanne
-Imatra
+Imatra, Imatran Kaupunki
+Imatra, Imatran seutukunta
 Imjärvi
 Immanen
 Immersbacka
@@ -1843,16 +1848,16 @@ Impola
 Imponen
 Imppalanmäki
 Ina, Ena
-Inari
-Infjärden
+Inari, Enare, Enare Kommun, Inarin Kunta
+Infjärden, Pukinjärvi
 Ingarskila
 Ingels
 Inginmaa
 Ingvalsby
 Ingvesholmen
-Ingå
+Ingå, Ingå Kommun, Inkoo, Inkoon Kunta
 Inha
-Inikorp
+Inikorp, Innikorpi
 Iniö
 Inkarila
 Inkee
@@ -1863,7 +1868,7 @@ Inkeroinen
 Inkilä
 Inkilänmäki
 Inkiniemi, Iggnes
-Inkoinen
+Inkoinen, Inkois
 Inkula
 Inkurinen
 Innala
@@ -1887,7 +1892,7 @@ Iso Möttölä
 Iso Sattiala
 Iso Syöte
 Iso Tainijoki
-Iso-Evo
+Iso-Evo, Stor Evois
 Iso-Hanni
 Iso-Hiisi
 Iso-Jämsä
@@ -1900,27 +1905,27 @@ Iso-Säkylä
 Iso-Äiniö
 Isoaho
 Isojoenranta, Älvstranden
-Isojoki
+Isojoki, Isojoen Kunta, Storå
 Isojärvi
 Isokallio
 Isokangas
 Isokari
-Isokorpi
+Isokorpi, Storkärr
 Isokumpu
 Isokuusto
 Isokylä
-Isokyrö
+Isokyrö, Isonkyrön Kunta, Storkyro, Storkyro Kommun
 Isokytö
 Isola
 Isoluoma
 Isomäki
 Isoniemi
-Isoniittu
+Isoniittu, Storbrötet
 Isoniitty
 Isonkylänlarva
 Isonmäenloukko
 Isonpalonkulma
-Isopakapyöli
+Isopakapyöli, Storbaggböle
 Isoperä
 Isopuoli
 Isoranta
@@ -1928,30 +1933,30 @@ Isosanta, Storsand
 Isosorvasto
 Isosuontausta
 Isosärkilä
-Ispoinen
+Ispoinen, Ispois
 Issakka
 Istruala
 Istunmäki
 Itkonpelto
 Itä-Aure
-Itä-Hakkila
+Itä-Hakkila, Östra Haxböle
 Itä-Karttula
-Itä-Pasila
+Itä-Pasila, Östra Böle
 Itä-Peränne
 Itä-Siitola
 Itäharju, Österås
 Itäkoski
 Itäkylä
 Itälahti
-Itämelaniemi
+Itämelaniemi, Östmelmo
 Itämeri
 Itäniemi
 Itäperä
 Itäranta
 Itätulli
 Ivalo
-Ivarsbacken
-Jaakkola
+Ivarsbacken, Iivarinmäki
+Jaakkola, Jaakola
 Jaakonvaara
 Jaakoppi
 Jaala
@@ -1960,15 +1965,15 @@ Jaama
 Jaappa
 Jaara
 Jaatila
-Jackarby
+Jackarby, Jakari
 Jahkola
 Jakkila
 Jakkukylä
 Jakkula
-Jakobstad, Pietarsaari
+Jakobstad, Jakobstad Stad, Pietarsaaren Kaupunki, Pietarsaari, Pietasaari, Staden Jakobstad
 Jakokoski
 Jakola
-Jakomäki
+Jakomäki, Jakobacka
 Jaksamo
 Jalasjoki
 Jalasjärvi
@@ -1979,7 +1984,7 @@ Jalkovaara
 Jama
 Jamali
 Jamalinjoki
-Janakkala
+Janakkala, Janakkalan Kunta
 Janka
 Jankkila
 Jarhoinen
@@ -1999,15 +2004,16 @@ Joenkulma
 Joenniemi
 Joenperä
 Joenpolvi
-Joensuu
+Joensuu, Joensuun seutukunta
+Joensuu, Joensuun Kaupunki
 Joentaka
-Johannesdal
+Johannesdal, Taali
 Johannevik
 Johannislund
 Jokeinmaa
 Jokela
 Jokelanperä
-Joki-Kokko
+Joki-Kokko, Jokikokko
 Jokiaho
 Jokihaara
 Jokijalka
@@ -2018,10 +2024,10 @@ Jokilahti
 Jokilampi
 Jokimaa
 Jokimies
-Jokimäki
+Jokimäki, Åbacka
 Jokimökki
-Jokiniemi
-Jokioinen
+Jokiniemi, Ånäs
+Jokioinen, Jockis, Jokioisten Kunta
 Jokiperä
 Jokipii
 Jokiranta
@@ -2042,14 +2048,14 @@ Jomalvik
 Jongunjoki
 Jonku
 Jonsa
-Jonsäng
+Jonsäng, Jussinniitty
 Jordansby
 Jormala
 Jormas
 Jormua
-Joroinen
+Joroinen, Jorois, Joroisten Kunta
 Jorvas
-Jorvi
+Jorvi, Jorv
 Jouhkola
 Jouhtikylä
 Jouhtiskylä
@@ -2060,7 +2066,8 @@ Jousiniemi
 Jousmäki
 Joutensuo
 Joutjärvi
-Joutsa
+Joutsa, Joutsan Kunta
+Joutsa, Joutsan seutukunta
 Joutsen
 Joutsenjoki
 Joutsenlahti
@@ -2072,7 +2079,7 @@ Joutsijärvi
 Joutsjärvi
 Jouttijärvi
 Jovarpet
-Juankoski
+Juankoski, Strömsdal
 Judinsalo
 Juhala
 Juhanala
@@ -2101,7 +2108,7 @@ Junkkari
 Junkkarinkylä
 Junnilanmäki
 Junninmäki
-Junnonoja
+Junnonoja, Junno
 Juntinvaara
 Junttila
 Junttola
@@ -2123,7 +2130,7 @@ Juorkuna
 Juornaankylä
 Juotasniemi
 Juottila
-Jupperi
+Jupperi, Jupper
 Jurkkola
 Jurmo
 Jurmu
@@ -2134,7 +2141,7 @@ Jurvala
 Jurvansalo
 Jussila
 Jutans
-Jutas
+Jutas, Juutas
 Jutbergs
 Juti
 Jutila
@@ -2144,10 +2151,10 @@ Juttua
 Juttuanvaara
 Juttuvaara
 Juujärvi
-Juuka
+Juuka, Juga, Juuan Kunta
 Juuma
 Juupajoen kirkonkylä
-Juupajoki
+Juupajoki, Juupajoen Kunta
 Juupakylä
 Juurikka
 Juurikkala
@@ -2159,10 +2166,10 @@ Juurisalmi
 Juusola
 Juutistenaho
 Juutua
-Juva
+Juva, Jockas, Juvan Kunta
 Juvakkala
 Juvankoski
-Juvanmalmi
+Juvanmalmi, Juvamalmen
 Juvela
 Juvola
 Juvälä
@@ -2184,16 +2191,18 @@ Jyrkäs
 Jyry
 Jyräänkoski
 Jyskä
-Jyväskylä
+Jyväskylä, Jyväskylän Kaupunki
+Jyväskylä, Jyväskylän seutukunta
 Jähdyspohja
 Jäkälävaara
 Jäkärlä
 Jälist
 Jälkölä
-Jämijärvi
+Jämijärvi, Jämijärven Kunta
 Jämikkä
 Jäminkipohja
-Jämsä
+Jämsä, Jämsän Kaupunki
+Jämsä, Jämsän seutukunta
 Jämsänkoski
 Jämsänniemi
 Jänessaari
@@ -2217,16 +2226,16 @@ Järvelä
 Järvenkulma
 Järvenkylä
 Järvenmäki
-Järvenperä
+Järvenperä, Träskända
 Järvenperäkumpu
-Järvenpää
+Järvenpää, Järvenpään Kaupunki, Träskända, Träskända Stad
 Järvensivu
 Järvensuu
 Järventaka
 Järventakusta
 Järventaus
 Järventausta
-Järvi
+Järvi, Yltjärvi
 Järvihaka
 Järvijoki
 Järvikulma
@@ -2252,23 +2261,23 @@ Kaakkurivaara
 Kaamanen
 Kaamanniemi
 Kaamasmukka
-Kaanaa
+Kaanaa, Kanan
 Kaara
 Kaarakkala
 Kaaraslahti
-Kaarenkylä, Karsby
-Kaarenmäki
+Kaarenkylä
+Kaarenmäki, Kårbacka
 Kaarenoja
 Kaares
 Kaaresuvanto
 Kaariainen
 Kaarila
-Kaarina
+Kaarina, Kaarinan Kaupunki, S:t Karins, Sankt Karins Stad
 Kaarinala
 Kaarlejoki
 Kaarlela
 Kaarlenkoski
-Kaarluoto
+Kaarluoto, Karlö
 Kaarnalampi
 Kaarre
 Kaartila
@@ -2279,7 +2288,7 @@ Kaasmarkku, Karlsmark
 Kaastla
 Kaatamo
 Kaava
-Kaavi
+Kaavi, Kaavin Kunta
 Kabböle
 Kackur
 Kackurabacken
@@ -2311,8 +2320,8 @@ Kairala
 Kairila
 Kairiskulma
 Kaisela
-Kaistarniemi
-Kaitaa
+Kaistarniemi, Kaistarudden
+Kaitaa, Kaitans
 Kaitai
 Kaitainen
 Kaitala
@@ -2327,7 +2336,8 @@ Kaivoinen
 Kaivoksela, Gruvsta
 Kaivola
 Kaivujärvi
-Kajaani
+Kajaani, Kajaanin Kaupunki, Kajana
+Kajaani, Kajaanin seutukunta, Kajana
 Kajala
 Kajanki
 Kajantila
@@ -2343,7 +2353,7 @@ Kala
 Kalaholma, Kalaholmen
 Kalaja
 Kalajaismaa
-Kalajoki
+Kalajoki, Kalajoen Kaupunki
 Kalajärvi
 Kalakoski
 Kalaksue
@@ -2353,9 +2363,10 @@ Kalanti
 Kalapudas
 Kalapää
 Kalasar
-Kalastajakylä
+Kalastajakylä, Fiskarbyn
 Kalaton
 Kalavastinki
+Kalax
 Kaldnäs
 Kalela
 Kalettomaa
@@ -2368,11 +2379,11 @@ Kaljula
 Kaljunen
 Kalkeri
 Kalkiainen
-Kalkila
+Kalkila, Kalkkila
 Kalkkimaa
 Kalkkinen, Kalkis
 Kalkkola
-Kalkstrand
+Kalkstrand, Kalkkiranta
 Kalkunmäki
 Kalla
 Kallaanvaara
@@ -2395,7 +2406,7 @@ Kallionkylä
 Kallionpää
 Kalliorinne
 Kalliovaara
-Kallis
+Kallis, Kallinen
 Kallislahti
 Kalljärvi
 Kallkärr
@@ -2404,13 +2415,13 @@ Kallola
 Kallträsk
 Kallunki
 Kallvik
-Kalmari
+Kalmari, Kalmar
 Kalmavirta
 Kalmisto
 Kalmo
 Kalmoniemi
 Kalmovaara
-Kalmusnäs
+Kalmusnäs, Sapalahti
 Kaloinen
 Kalpiala
 Kalsila
@@ -2443,7 +2454,7 @@ Kanervala
 Kanervamäki
 Kangas
 Kangasaho
-Kangasala
+Kangasala, Kangasalan Kunta
 Kangasalan asema
 Kangashäkki
 Kangasjärvi
@@ -2453,14 +2464,14 @@ Kangaslahti
 Kangaslampi
 Kangasluoma
 Kangasmäki
-Kangasniemi
+Kangasniemi, Kangasniemen Kunta
 Kangastalo
 Kangosjärvi
 Kaninkola
 Kankaala
 Kankaankylä
 Kankaanmäki
-Kankaanpää
+Kankaanpää, Kankaanpään Kaupunki
 Kankaanpäänkulma
 Kankaanranta
 Kankaantausta
@@ -2469,17 +2480,17 @@ Kankalo
 Kankare
 Kankari
 Kankaronmäki
-Kankkila
+Kankkila, Kankböle
 Kankku
 Kankkula
 Kannas
-Kannelmäki
+Kannelmäki, Gamlas
 Kannisto
 Kannonhaara
 Kannonjärvi
-Kannonkoski
+Kannonkoski, Kannonkosken Kunta
 Kannonsaha
-Kannus
+Kannus, Kannuksen Kaupunki
 Kannusjärvi
 Kannuskoski
 Kannuskylä
@@ -2510,7 +2521,7 @@ Kapellby
 Kapio
 Kappalemaa
 Kappelinmäki
-Kappelstrand
+Kappelstrand, Kapellstrand, Kappeliranta
 Kapustavuoma
 Karahka
 Karajärvi
@@ -2540,11 +2551,11 @@ Karhunoja
 Karhunpää
 Karhunsalo
 Karhusjärvi
-Karhusuo
+Karhusuo, Björnkärr
 Kari
 Karigasniemi
 Karihaara
-Karijoki
+Karijoki, Bötom, Karijoen Kunta
 Karijärvi
 Karikannas
 Karikko
@@ -2558,7 +2569,7 @@ Karinkorva
 Karinkulma
 Karinkylä
 Karintaka
-Karis
+Karis, Karjaa
 Karisjärvi
 Karisto
 Karisuonkulma
@@ -2573,7 +2584,7 @@ Karjalanharju
 Karjalankoski, Ryssforsen
 Karjalankulma
 Karjalankylä
-Karjalohja
+Karjalohja, Karislojo
 Karjanlahti
 Karjaranta, Fästranden
 Karjasuo
@@ -2586,12 +2597,12 @@ Karkeamaa
 Karkia
 Karkiskylä
 Karkki
-Karkkila
-Karkkimala
+Karkkila, Högfors, Högfors Stad, Karkkilan Kaupunki
+Karkkimala, Karkmo
 Karkku
 Karkkula
 Karkunkylä
-Karlbacken
+Karlbacken, Karlörebacken
 Karlberg
 Karleby
 Karlebykanten
@@ -2613,7 +2624,7 @@ Karsikkovaara
 Karskog
 Karsonkulma
 Karstu
-Karstula
+Karstula, Karstulan Kunta
 Karsturanta
 Kartanonperä
 Kartanonseutu
@@ -2623,7 +2634,7 @@ Karttula
 Karuby
 Karukka
 Karuna
-Karunki
+Karunki, Karungi
 Karvakko
 Karvala
 Karvasalmi
@@ -2631,7 +2642,7 @@ Karvasniemi
 Karvat
 Karvatti
 Karvetti
-Karvia
+Karvia, Karvian Kunta
 Karviainen
 Karvila
 Karvio
@@ -2652,8 +2663,8 @@ Kaskeinkylä
 Kaskela
 Kaskenmäki
 Kaski
-Kaskii
-Kaskinen
+Kaskii, Kaskiinkylä
+Kaskinen, Kaskisten Kaupunki, Kaskö, Kaskö Stad
 Kaskisto
 Kaslot
 Kasnäs
@@ -2680,7 +2691,7 @@ Katavainen
 Katerma
 Katila
 Katinala
-Katinen
+Katinen, Katis
 Katinhäntä
 Katisenlahti
 Katko
@@ -2692,11 +2703,11 @@ Kattilaharju
 Kattilainen
 Kattilajoki
 Kattilakoski
-Kattilalaakso
+Kattilalaakso, Kitteldalen
 Kattilanmäki
 Kattilansilta
 Kattilavaara
-Kauhajoki
+Kauhajoki, Kauhajoen Kaupunki
 Kauhajärv
 Kauhajärvi
 Kauhakorpi
@@ -2704,7 +2715,7 @@ Kauhala
 Kauhaluomankylä
 Kauhaniemi
 Kauhanoja
-Kauhava
+Kauhava, Kauhavan Kaupunki
 Kauhianpää
 Kaukahyry
 Kaukalampi
@@ -2718,7 +2729,7 @@ Kaukka
 Kaukkala
 Kaukkonen
 Kaukkurla
-Kauklahti
+Kauklahti, Köklax
 Kaukola
 Kaukomäki
 Kaukonen
@@ -2731,7 +2742,7 @@ Kaulio
 Kauliranta
 Kaunaa
 Kaunela
-Kauniainen
+Kauniainen, Grankulla
 Kaunisharju
 Kaunismäki
 Kaunisniemi
@@ -2747,7 +2758,7 @@ Kauppila
 Kauppilankylä
 Kauppilanmäki
 Kauppinen
-Kaupunginkallio
+Kaupunginkallio, Stadsberget
 Kaupunginpää
 Kaurajärvi
 Kauriala
@@ -2758,8 +2769,9 @@ Kausalkullen
 Kausela
 Kauskiala
 Kaustajärvi
-Kaustar
-Kaustinen
+Kaustar, Kaustari
+Kaustinen, Kaustby, Kaustisen seutukunta
+Kaustinen, Kaustby, Kaustisen Kunta, Kaustisten Kunta
 Kautiala
 Kautranta
 Kauttu
@@ -2777,10 +2789,10 @@ Keihäskoski
 Keijärvi
 Keikkala
 Keikko
-Keikvesi, Djupsund
+Keikvesi
 Keikyä
-Keilaniemi
-Keimola
+Keilaniemi, Kägeludden
+Keimola, Käinby
 Keinusaari
 Keinälänmäki
 Keisala
@@ -2788,7 +2800,7 @@ Keisanmäki
 Keisarinkoski
 Keistiö
 Keitala
-Keitele
+Keitele, Keiteleen Kunta
 Keitelepohja
 Keitilä
 Keituri
@@ -2813,7 +2825,7 @@ Kellarpelto
 Kellestenaho
 Kello
 Kelloja
-Kellokoski
+Kellokoski, Mariefors
 Kellolahti
 Kellolampi
 Kellomäki
@@ -2835,14 +2847,14 @@ Keltti
 Kelujärvi
 Kelvelä
 Kelvä
-Kemi
+Kemi, Kemin Kaupunki
 Kemie
 Kemihaara
-Kemijärvi
+Kemijärvi, Kemijärven Kaupunki
 Kemilä
 Kemiläinen
-Keminmaa
-Kempele
+Keminmaa, Keminmaan Kunta
+Kempele, Kempeleen Kunta
 Kemppaala
 Kemppaanmäki
 Kemppala
@@ -2854,11 +2866,11 @@ Kenttäkumpu
 Kenttämaa
 Kepola
 Kepsu
-Kerava
+Kerava, Keravan Kaupunki, Kervo, Kervo Stad
 Kerimäki
 Keriniemi
 Kerisalo
-Kerkkoo
+Kerkkoo, Kerko
 Kerkkä
 Kerkola
 Kerkonjoensuu
@@ -2917,12 +2929,13 @@ Kettukylä
 Kettula
 Kettulanmäki
 Kettämö
-Ketunkorpi
+Ketunkorpi, Rävkärr
 Ketunperä
 Ketunpesä
-Ketunpyöli
+Ketunpyöli, Ketunböle
 Keturinkylä
-Keuruu
+Keuruu, Keuru, Keuruun seutukunta
+Keuruu, Keuru, Keuru Stad, Keuruun Kaupunki
 Kevari
 Kevo, Stansholm
 Keyritty
@@ -2948,7 +2961,7 @@ Kietävälä
 Kihilä
 Kihlanki
 Kihniä
-Kihniö
+Kihniö, Kihniön Kunta
 Kiiainen
 Kiies
 Kiiessalo
@@ -2961,7 +2974,7 @@ Kiikeri
 Kiikka
 Kiikkinen
 Kiikku
-Kiikoinen
+Kiikoinen, Kikois
 Kiikonmäki
 Kiilanmäki
 Kiili
@@ -2978,7 +2991,7 @@ Kiistala
 Kiitämajärvi
 Kikkelä
 Kila
-Kilen, Kiili
+Kilen
 Kiljava
 Kiljula
 Kilkinkylä
@@ -3003,7 +3016,7 @@ Kilta
 Kimala
 Kiminginkylä
 Kiminki
-Kimito
+Kimito, Kemiö
 Kimo
 Kimola
 Kimonkylä
@@ -3021,7 +3034,7 @@ Kinnarniemi
 Kinnaslampi
 Kinnasniemi
 Kinni
-Kinnula
+Kinnula, Kinnulan Kunta
 Kinnulanlahti
 Kinola
 Kinula
@@ -3030,10 +3043,10 @@ Kipinä
 Kipinäsuo
 Kippari
 Kipuksenkulma
-Kirakka
+Kirakka, Kirakböle
 Kiri
-Kirilax
-Kirjais
+Kirilax, Kirilahti
+Kirjais, Kirjainen
 Kirjakkala
 Kirjala
 Kirjaskylä
@@ -3042,8 +3055,8 @@ Kirkkokoski
 Kirkkola
 Kirkkomäki
 Kirkkoniemi
-Kirkkonummi
-Kirkniemi
+Kirkkonummi, Kirkkonummen Kunta, Kyrkslätt, Kyrkslätts Kommun
+Kirkniemi, Gerknäs
 Kirkonkylä
 Kirkonlatva
 Kirkonmäki
@@ -3064,39 +3077,39 @@ Kisor
 Kissakoski
 Kissala
 Kistola
-Kitee
+Kitee, Kides, Kiteen Kaupunki
 Kiteenkylä
 Kiteenlahti
 Kitinoja
 Kitka
 Kitriiku
 Kitsi
-Kittilä
+Kittilä, Kittilän Kunta
 Kittilännurkka
 Kittuis
 Kitu
 Kitula
 Kitunen
-Kiukainen
+Kiukainen, Kiukais
 Kiurala
-Kiurujärvi
+Kiurujärvi, Kiuru
 Kiurula
-Kiuruvesi
+Kiuruvesi, Kiuruveden Kaupunki
 Kiusala
 Kivari
 Kiveinen
 Kivelä
-Kivenlahti
+Kivenlahti, Stensvik
 Kiventaus
 Kivenvaara
 Kivesjärvi
 Kiviaho
 Kivialho
 Kiviapaja
-Kivihaka
+Kivihaka, Stenhaga
 Kivihuhta
 Kivijoki
-Kivijärvi
+Kivijärvi, Kivijärven Kunta, Kivjärv
 Kivikangas
 Kivikylä
 Kivilahti
@@ -3108,11 +3121,11 @@ Kivimo
 Kivimäki
 Kivineva
 Kivini, Kivins
-Kiviniemi
+Kiviniemi, Stensnäs
 Kivioja
 Kiviperä
 Kiviranta
-Kiviruukki
+Kiviruukki, Stenbruket
 Kivisaari
 Kivisalmi
 Kivisenoja
@@ -3124,16 +3137,16 @@ Kivitaipale
 Kivitok
 Kivivaara
 Klamila
-Klappedet
+Klappedet, Kolkekannas
 Klapuri
-Klasipruuki
+Klasipruuki, Glasbruket
 Klaukkala, Klövskog
 Klaukkalan Metsäkylä
 Kleemola
 Kleemolanmäki
 Kleidre
 Klemetskog
-Klemetti
+Klemetti, Klemetsby
 Kleven
 Klobben
 Klobbis
@@ -3196,7 +3209,7 @@ Koivistonkylä
 Koivistonluoto
 Koivuaho
 Koivujärvi
-Koivukylä
+Koivukylä, Björkby, Koivu
 Koivula
 Koivulahti
 Koivulehto
@@ -3223,13 +3236,14 @@ Kojonmäki
 Kojonniemi
 Kojonperä
 Kokemäenkartano
-Kokemäki
-Kokinkylä
+Kokemäki, Kokemäen Kaupunki, Kumo, Kumo Stad
+Kokinkylä, Kockby
 Kokinvaara
 Kokka-aho
-Kokkila
+Kokkila, Kockis
 Kokko
-Kokkola
+Kokkola, Gamlakarleby, Kokkolan seutukunta
+Kokkola, Gamlakarleby, Karleby Stad, Kokkolan Kaupunki
 Kokkolankylä
 Kokkoniemi
 Kokkosenkylä
@@ -3247,7 +3261,7 @@ Kolabacka
 Kolabäck
 Kolahdos
 Kolam
-Kolari
+Kolari, Kolarin Kunta
 Kolehmala
 Kolhi
 Kolho
@@ -3255,13 +3269,13 @@ Koli
 Kolikari
 Kolima
 Kolinummi
-Koliseva
+Koliseva, Kolsa
 Kolistimenmäki
 Koljala
 Koljola
 Koljonvirta
 Kolkanlahti
-Kolkki
+Kolkki, Golkas
 Kolkkinen
 Kolkko
 Kolkku
@@ -3278,10 +3292,10 @@ Kolmanåsen
 Kolmikanta
 Kolmiranta
 Kolmisoppi
-Kolmpers
-Kolneback
+Kolmpers, Kolmperä
+Kolneback, Kolinas
 Kolonkulma
-Kolsari
+Kolsari, Kolsarby
 Kolsi
 Kolsila, Rousby
 Kolu
@@ -3306,7 +3320,7 @@ Konginkangas
 Konho
 Konkkerinmäki
 Konnalampi
-Konnevesi
+Konnevesi, Konneveden Kunta
 Konnonperä
 Konnunniemi
 Konnunsuo
@@ -3317,7 +3331,7 @@ Kontiala
 Kontila
 Kontio
 Kontiola
-Kontiolahti
+Kontiolahti, Kontiolahden Kunta, Kontiolax
 Kontiomäki
 Kontioniemi
 Kontioranta
@@ -3371,11 +3385,11 @@ Korkalo
 Korkatti
 Korkea
 Korkeakangas
-Korkeakoski
+Korkeakoski, Högfors, Korkekoski
 Korkeatörmä
 Korkee
 Korkeenkylä
-Korkia-aho
+Korkia-aho, Korkea-aho
 Korkiaaho
 Korkiakangas
 Korkiakari
@@ -3384,10 +3398,10 @@ Korkiasalo
 Korkinmäki
 Korkkanen
 Kormu
-Kornbäck
+Kornbäck, Ohraluoma
 Kornjärv
 Koro
-Koroinen
+Koroinen, Korois
 Koroiskylä
 Korospohja
 Korpbäcken
@@ -3412,21 +3426,21 @@ Korplax
 Korpogård
 Korpoström
 Korppinen
-Korppolaismäki
-Korppoo
+Korppolaismäki, Korpolaisbacken
+Korppoo, Korpo
 Korsbacka
 Korsbäck
-Korsholm
+Korsholm, Korsholms Kommun, Mustasaaren Kunta, Mustasaari
 Korsnainen
 Korsniemi
-Korsnäs
+Korsnäs, Korsnäs Kommun, Korsnäsin Kunta, Ristitaipale
 Korso
 Korsumäki
 Kortejärvi
 Kortela
 Kortemäki
 Korteniemenpää
-Kortesbacken
+Kortesbacken, Kortesmäki
 Kortesjärvi
 Korteskylä
 Kortesluoma
@@ -3458,7 +3472,7 @@ Koskelankulma
 Koskelankylä
 Koskelanloukko
 Koskelanpää
-Koskelo
+Koskelo, Skrakaby
 Koskenjoki
 Koskenkorva
 Koskenkylä
@@ -3475,7 +3489,7 @@ Koskenristi
 Koskentaipale
 Koskenvarsi
 Koski
-Koski Tl
+Koski Tl, Kosken TL Kunta, Kosken Turun ja Porin Lääni Kunta
 Koskiaho
 Koskikylä
 Koskimies
@@ -3484,7 +3498,7 @@ Koskinen
 Koskioinen
 Koskipää
 Koskis
-Kosklahti
+Kosklahti, Kasklax
 Koskue
 Koskunen
 Koskutjärvi
@@ -3507,11 +3521,11 @@ Kotanen
 Kotaniemi
 Kotaperä
 Kotiharju
-Kotikylä
+Kotikylä, Hemböle
 Kotila
 Kotilanmäki
-Kotimäki
-Kotka
+Kotimäki, Hembacken
+Kotka, Kotkan Kaupunki
 Kotkajärvi
 Kotkaniemi
 Kotkanniemi
@@ -3547,13 +3561,14 @@ Koutti
 Kouva
 Kouvala
 Kouvoinen
-Kouvola
+Kouvola, Kouvolan seutukunta
+Kouvola, Kouvolan Kaupunki
 Kovala
 Kovalanmäki
 Kovanen
 Kovasmäki
 Kovelahti
-Koverhaara
+Koverhaara, Koverhar
 Kovero
 Kovik
 Koviken
@@ -3567,7 +3582,7 @@ Kreppelby
 Krillenmäki
 Kringelmalm
 Kristenäs
-Kristinestad
+Kristinestad, Kristiinankaupunki, Kristinestads Stad
 Krogars
 Krogsby
 Krok
@@ -3577,9 +3592,9 @@ Kroksbacken
 Kroksnäs
 Krokängen
 Kronbacken
-Kronoby
+Kronoby, Kruunupyy
 Kronvik
-Krooka
+Krooka, Kråka
 Krouvinummi
 Kruusila
 Kruuvais
@@ -3598,8 +3613,8 @@ Kuhala
 Kuhankoski
 Kuhanniemi
 Kuhmalahti
-Kuhmo
-Kuhmoinen
+Kuhmo, Kuhmon Kaupunki
+Kuhmoinen, Kuhmois, Kuhmoisten Kunta
 Kuhnusta
 Kuikka
 Kuikkavaara
@@ -3607,7 +3622,7 @@ Kuikko
 Kuikkola
 Kuisema
 Kuisma
-Kuitia
+Kuitia, Ovidja
 Kuittila
 Kuittilanvaara
 Kuittua
@@ -3616,7 +3631,7 @@ Kuivainen
 Kuivajärvi
 Kuivakangas
 Kuivala
-Kuivalahti, Kvivlax
+Kuivalahti
 Kuivamäki
 Kuivanen
 Kuivaniemi
@@ -3643,9 +3658,9 @@ Kukko
 Kukkola
 Kukkoniemi
 Kukkovaara
-Kukkula
+Kukkula, Dalhem
 Kukkulanmäki
-Kukkumäki
+Kukkumäki, Kuckubacka
 Kukola
 Kukolainen
 Kukonharja
@@ -3669,7 +3684,7 @@ Kulla
 Kullaa
 Kullanperä
 Kullen
-Kullo
+Kullo, Kulloo
 Kulländan
 Kulma
 Kulmala
@@ -3692,7 +3707,7 @@ Kumila
 Kumina
 Kumio
 Kummala
-Kummelivuori
+Kummelivuori, Kummelberget
 Kummikorpi
 Kummunkylä
 Kumpu
@@ -3702,20 +3717,20 @@ Kumpunen
 Kumpuranta
 Kumpuselkä
 Kumunkylä
-Kuneli
+Kuneli, Gunnelö
 Kungas
-Kungsböle
+Kungsböle, Kuninkaankylä
 Kuni
-Kuninkaala
-Kuninkaanhaka
+Kuninkaala, Fastböle
+Kuninkaanhaka, Kungshagen
 Kuninkaanlähde
-Kuninkaanmäki
+Kuninkaanmäki, Kungsbacka
 Kuninkaanniemi
 Kuninkainen
-Kuninkoja
+Kuninkoja, Kungsbäcken
 Kunnainen
 Kunnari
-Kunnarla
+Kunnarla, Gunnars
 Kunnas
 Kunnasniemi
 Kunttula
@@ -3738,7 +3753,8 @@ Kuomiokoski
 Kuomiolahti
 Kuonomäki
 Kuontivaara
-Kuopio
+Kuopio, Kuopion Kaupunki
+Kuopio, Kuopion seutukunta
 Kuopiola
 Kuoppainkulma
 Kuoppala
@@ -3751,11 +3767,11 @@ Kuoreniemi
 Kuorevaara
 Kuorevesi
 Kuorikoski
-Kuorila
+Kuorila, Skjördböle
 Kuorinka
 Kuorsalo
 Kuorsumaa
-Kuortane
+Kuortane, Kuortaneen Kunta
 Kuortti
 Kuosku
 Kuoskunkorva
@@ -3778,7 +3794,7 @@ Kurenautio
 Kurenlahti
 Kurensuo
 Kurhila
-Kurikka
+Kurikka, Kurikan Kaupunki
 Kurikkala
 Kurimo
 Kurinmäki
@@ -3789,7 +3805,7 @@ Kuritunmäki
 Kurjala
 Kurjalanranta
 Kurjenkylä
-Kurjenmäki
+Kurjenmäki, Tranbacka
 Kurjenniemi
 Kurkas
 Kurkela
@@ -3798,7 +3814,7 @@ Kurkiharju
 Kurkijärvi
 Kurkikangas
 Kurkilahti
-Kurkimäki
+Kurkimäki, Tranbacka
 Kurkis
 Kurola
 Kurolanlahti
@@ -3816,9 +3832,9 @@ Kurunsaari
 Kurvila
 Kurvinen
 Kusni
-Kustaali
+Kustaali, Gussdal
 Kustaanmäki
-Kustavi
+Kustavi, Gustavs, Gustavs Kommun, Kustavin Kunta
 Kutajoki
 Kutala
 Kutema
@@ -3844,14 +3860,14 @@ Kuumu
 Kuumuvaara
 Kuurikka
 Kuurila
-Kuurinniitty
+Kuurinniitty, Kurängen
 Kuurmanpohja
 Kuurnamäki
 Kuurola
 Kuurtola
-Kuusaa
+Kuusaa, Kuusa
 Kuusaanniemi
-Kuusamo
+Kuusamo, Kuusamon Kaupunki
 Kuusamonkylä
 Kuusankoski
 Kuusankylä
@@ -3863,7 +3879,7 @@ Kuusia
 Kuusijoki
 Kuusijärvenperä
 Kuusijärvi
-Kuusikko
+Kuusikko, Sexan
 Kuusikkolaki
 Kuusikoti
 Kuusikunnas
@@ -3872,7 +3888,7 @@ Kuusiniemi
 Kuusioja
 Kuusirati
 Kuusisaari
-Kuusisto
+Kuusisto, Kustö
 Kuusistonmäki
 Kuusivaara
 Kuusjoenperä
@@ -3881,7 +3897,7 @@ Kuusjärvi
 Kuuslahti
 Kuusniemi
 Kuussaarikko
-Kuussilta
+Kuussilta, Sexbro
 Kuustenlatva
 Kuusvaara
 Kuutsalo, Kutsalö
@@ -3895,10 +3911,10 @@ Kvarnby
 Kvarnkil
 Kvarnån
 Kvevlax
-Kvigos
+Kvigos, Kuivasto
 Kvikant
 Kvimo
-Kvisbacka
+Kvisbacka, Kuitinmäki
 Kvivlax
 Kyhkylä
 Kykkölä
@@ -3910,7 +3926,7 @@ Kylmäkoski
 Kylmälahti
 Kylmälä
 Kylmämäki
-Kylmäoja
+Kylmäoja, Kallbäcken
 Kylmäpohja
 Kylmäpuro
 Kyly
@@ -3926,7 +3942,7 @@ Kyläsaari, Inderö
 Kymensalo
 Kymentaka
 Kymi, Kymmene
-Kyminlinna
+Kyminlinna, Kymmeneborg
 Kyminsuu
 Kymintehdas
 Kymälahti
@@ -3936,7 +3952,7 @@ Kynnar
 Kynnäs
 Kynsiniemi
 Kynsiperä
-Kynsivaara
+Kynsivaara, Kynsijärvi
 Kynttiläkylä
 Kyntöjärvi
 Kyntövaara
@@ -3957,7 +3973,7 @@ Kyrönlahti
 Kyröskoski
 Kyröspohja
 Kyttälä
-Kytäjä
+Kytäjä, Näs
 Kytämäki
 Kytö
 Kytöinen
@@ -3967,7 +3983,7 @@ Kytölänloukko
 Kytömaa
 Kytömäki
 Kyyhkylä
-Kyyjärvi
+Kyyjärvi, Kyyjärven Kunta
 Kyyny
 Kyynämäki
 Kyynämöinen
@@ -3985,17 +4001,17 @@ Kähtävä
 Kähäri
 Kähärilä
 Kähölä
-Käkelä
+Käkelä, Göks
 Käkilahti
 Käkölä
 Käldinge
 Käldö
-Kälkala
+Kälkala, Kelkkala
 Källa
 Källarbottnen
 Källmossen
 Källviken
-Kälviä
+Kälviä, Kelviå
 Kälviäinen
 Kälviälä
 Kälä
@@ -4021,12 +4037,12 @@ Kärkinen
 Kärkkinen, Kärkis
 Kärkkäälä
 Kärklax
-Kärkniemi
-Kärkölä
+Kärkniemi, Kärknäs
+Kärkölä, Kärkölän Kunta
 Kärmeskylä
 Kärnä
 Kärnälä
-Kärpe
+Kärpe, Kärppä
 Kärpijoki
 Kärpnäs
 Kärppälä
@@ -4042,7 +4058,7 @@ Kärrmetholmen
 Kärrvik
 Kärrynen
 Kärsämä
-Kärsämäki
+Kärsämäki, Kärsämäen Kunta
 Kärvois, Kervoinen
 Kärväselä
 Kärväsjärvi
@@ -4067,7 +4083,7 @@ Käärmelahti
 Käävänkylä
 Kåddböle
 Kålax
-Kållby
+Kållby, Kolppi
 Kårböle
 Kårkulla
 Kårlax
@@ -4089,13 +4105,13 @@ Köyhäjoki
 Köyhölä
 Köykkölä
 Köykölä
-Köyliö
+Köyliö, Kjulo
 Köylypolvi
 Köyrä
 Köörtilä, Gördböle
 Laaja
-Laajakallio
-Laajalahti
+Laajakallio, Bredberget
+Laajalahti, Bredviken
 Laajanpohja
 Laajaranta
 Laajoki
@@ -4125,13 +4141,13 @@ Laggen
 Laha
 Lahdenkulma
 Lahdenkylä
-Lahdenmaa, Västra ändan
+Lahdenmaa
 Lahdenperä
 Lahdensuu
 Lahdentaus
 Lahdenvainio
 Lahdinko
-Lahela, Finby
+Lahela
 Lahelanrinne
 Lahistenlahko
 Lahnajoki
@@ -4148,12 +4164,13 @@ Lahola
 Laholuoma
 Lahovaara
 Lahtela
-Lahti
+Lahti, Lahden seutukunta, Lahtis
+Lahti, Lahtis
 Lahtolahti
 Laidike
 Laidinmäki
 Laihala
-Laihia, Laihela
+Laihia, Laihela, Laihian Kunta
 Laihoinen
 Laikko
 Laisennurkka
@@ -4164,7 +4181,7 @@ Laitakari
 Laitamo
 Laiterla
 Laitikkala
-Laitila
+Laitila, Laitilan Kaupunki, Letala
 Laitilanloukko
 Laitina
 Laitio
@@ -4184,7 +4201,7 @@ Laksiainen
 Laksonkylä
 Lakören
 Lalli
-Lambertinniitty
+Lambertinniitty, Lambertsängen
 Lammainen, Lammais
 Lammasaho
 Lammasmäki
@@ -4233,7 +4250,7 @@ Lankiperä
 Lankkinen
 Lankojärvi
 Lankoori, Långör
-Lankoski, Långfors
+Lankoski
 Lannevesi
 Lansor
 Lantta
@@ -4246,41 +4263,42 @@ Lapijoki
 Lapila
 Lapinjärvi, Lappträsk
 Lapinkulma
-Lapinkylä
-Lapinlahti
+Lapinkylä, Lappböle
+Lapinlahti, Lapinlahden Kunta, Lapinlax
 Lapinluhta
 Lapinneva
 Lapinniemi
 Lapinsalo
 Lapiolahti
 Lapjärvi
-Lappajärvi
+Lappajärvi, Lappajärven Kunta
 Lappakylä
 Lappala
 Lappalainen
 Lapparla
-Lappeenranta
+Lappeenranta, Lappeenrannan seutukunta, Villmanstrand
+Lappeenranta, Lappeenrannan Kaupunki, Villmanstrand, Villmanstrands Stad
 Lappers
 Lappetelä
 Lappfjärd, Lapväärtti
-Lappfors, Ala-Lappfors
+Lappfors, Ala-Lappfors, Nederlappfors
 Lappi
 Lappijoki
 Lappila
 Lappkullen
-Lappohja
+Lappohja, Lappvik
 Lappom
 Lappsund
 Lappvik gård
-Lapua
+Lapua, Lappo, Lappo Stad, Lapuan Kaupunki
 Larinsaari
 Larkibacken
-Larsmo
+Larsmo, Larsmo Kommun, Luodon Kunta
 Larvakylä
 Larvaloukko
 Larvapää
 Larven
-Lasilaakso
+Lasilaakso, Glasdalen
 Lassfolk
 Lassila
 Lassinkylä
@@ -4289,8 +4307,8 @@ Lastukoski
 Lastulahti
 Lastustenkulma
 Latikkala
-Latokartano
-Latokaski
+Latokartano, Näsegård
+Latokaski, Ladusved
 Latovainio
 Latovesi
 Lattomeri, Lattmark
@@ -4303,7 +4321,7 @@ Latvalampi
 Latvavaara
 Lauhala
 Lauhtu
-Laukaa, Laukas
+Laukaa, Laukaan Kunta, Laukas
 Laukansaari
 Laukansalo
 Laukeela
@@ -4326,7 +4344,7 @@ Laurinmäki
 Lauroinen
 Laurola
 Lauskylä
-Lauste
+Lauste, Laustis
 Laustee
 Lausti
 Lautaporras
@@ -4339,9 +4357,9 @@ Lauttakulma
 Lauttakylä
 Lauttamäki
 Lauttanpää
-Lauttaranta
+Lauttaranta, Färjstranden
 Lauttavaara
-Lauttijärvi
+Lauttijärvi, Långmark
 Lavajärvi
 Lavakorpi
 Lavala
@@ -4352,7 +4370,7 @@ Lavia
 Lavila
 Lavinto
 Laxören
-Leammi
+Leammi, Lemmenjoki
 Leerviki
 Lehdesmäki
 Lehdistö
@@ -4368,7 +4386,7 @@ Lehterkari
 Lehtikangas
 Lehtimäki
 Lehtinen
-Lehtiniemi
+Lehtiniemi, Lövnäs
 Lehtiniittu
 Lehto
 Lehtoi
@@ -4412,7 +4430,7 @@ Lellainen
 Lelu
 Lemetinvaara
 Lemettilä
-Lemi
+Lemi, Klemi, Lemin Kunta
 Leminaho
 Lemlahti, Lemlax
 Lemmakkala
@@ -4433,9 +4451,9 @@ Lempnäs
 Lempoinen
 Lempyy
 Lempää
-Lempäälä, Lembois
-Lemsio
-Lemu
+Lempäälä, Lembois, Lempäälän Kunta
+Lemsio, Lemsjöholm
+Lemu, Lemo
 Lensunkallio
 Lentiira
 Lentola
@@ -4461,7 +4479,7 @@ Lepplax
 Leppäaho
 Leppähammas
 Leppäjärvi
-Leppäkorpi
+Leppäkorpi, Alkärr
 Leppäkoski
 Leppälahti
 Leppälammi
@@ -4474,14 +4492,14 @@ Leppäniemi
 Leppäruhka
 Leppäselkä
 Leppävesi
-Leppävirta
+Leppävirta, Leppävirran Kunta
 Lepsala
 Lepsämä
 Lepäinen
 Lerhagen
 Leskelä
 Lesti
-Lestijärvi
+Lestijärvi, Lestijärven Kunta
 Letku
 Leukus
 Leuna
@@ -4494,7 +4512,7 @@ Levi
 Levo
 Levä
 Leväaapa
-Levälä
+Levälä, Lövas
 Levämäki
 Levänen
 Leväneva
@@ -4507,7 +4525,7 @@ Liedakkala
 Liedenpohja
 Liedonperä
 Liekola
-Lieksa
+Lieksa, Lieksan Kaupunki
 Lielahti
 Lielax
 Lieppa
@@ -4516,7 +4534,7 @@ Liesjärvenkulma
 Liesjärvi
 Lieso
 Lietekylä
-Lieto
+Lieto, Liedon Kunta, Lundo, Lundo Kommun
 Lietsa
 Lietsala
 Lietsonkulma
@@ -4532,8 +4550,8 @@ Lihavanpää
 Lihjamo
 Liianmaa
 Liiansaari
-Liide, Liden
-Liikasenvaara
+Liide
+Liikasenvaara, Liikanen
 Liikastenmäki
 Liikkala
 Liikkalankylä
@@ -4548,7 +4566,7 @@ Liinanki
 Liipantönkkä
 Liiporla
 Liisala
-Liisanlehto
+Liisanlehto, Liselund
 Liistonsaari
 Liitonjoki
 Liitsola
@@ -4558,19 +4576,19 @@ Likosaari
 Liljendal
 Lill Kanskog
 Lilla Furuholmen
-Lillabborrfors
+Lillabborrfors, Lillabborsfors, Vähä-Ahvenkoski
 Lillandet
 Lillby
 Lillhök
 Lillkanskog
-Lillmossen
+Lillmossen, Pikkuneva
 Lillmälö
 Lillsjö
 Lillsundet
 Lilltervo
-Lilltötar
+Lilltötar, Vähä-Teutari
 Limingoja
-Liminka
+Liminka, Limingan Kunta, Limingo
 Linbacken
 Lindal
 Lindberget
@@ -4581,7 +4599,7 @@ Lindö
 Linkola
 Linkulla
 Linna
-Linnainen
+Linnainen, Linnais
 Linnamaa
 Linnamäki
 Linnanen
@@ -4590,7 +4608,7 @@ Linnankylä
 Linnanmäki
 Linnantaus
 Linnava
-Linnavuori
+Linnavuori, Stenberga
 Linnunlahti
 Linnunpää
 Linnusperä
@@ -4605,14 +4623,14 @@ Lintumetsä
 Lintuniemi
 Lintuperä
 Lintusalo
-Lintuvaara
+Lintuvaara, Fågelberga
 Lintuvuori
 Lipasvaara
-Liperi
+Liperi, Libelits, Liperin Kunta
 Liperinsalo
 Lipinlahti
 Lipiälä
-Lippajärvi
+Lippajärvi, Klappträsk
 Lippo
 Lippumäki
 Lisko
@@ -4638,17 +4656,18 @@ Lohilampi
 Lohiniemi
 Lohiniva
 Lohiranta
-Lohja
+Lohja, Lohjan kaupunki, Lohjan maalaiskunta, Lojo, Lojo landskommun, Lojo stad
 Lohjantaipale
 Lohko
-Lohtaja
+Lohtaja, Lochteå
 Lohva
 Loikkala
 Loikomaa
 Loila
 Loilax
 Loima
-Loimaa
+Loimaa, Loimaan seutukunta
+Loimaa, Loimaan Kaupunki, Loyma Stad
 Loimonen
 Loimoo
 Lokalahti
@@ -4659,25 +4678,25 @@ Lom
 Lomakoti
 Lomamäki
 Lomby
-Lommila
-Lompolo
+Lommila, Gloms
+Lompolo, Lompola
 Londböle
 Lonnikko
 Lontila
 Lontta
-Lonttinen
-Loojärvi
+Lonttinen, Lontis
+Loojärvi, Låjärv
 Looperi
 Lopmeri
 Lopotti
-Loppi
+Loppi, Lopen Kunta
 Loskarnäs
 Loso
 Losomäki
 Lossitalo
 Lotlax
 Lotskerinmäki, Slottskär
-Louhela
+Louhela, Birrkärr, Klippsta
 Louhi
 Louhimo
 Louhioja
@@ -4691,18 +4710,18 @@ Loukonkylä
 Loukonlahti
 Loukonvaara
 Loukunvaara
-Loukusa
+Loukusa, Loukuskylä
 Lounaala
 Loutti
 Loutulehto
-Lovisa
-Lovo, Lövö
+Lovisa, Loviisa
+Lovo
 Luhalahti
-Luhanka
+Luhanka, Luhangan Kunta, Luhango
 Luhdantausta
 Luhta
 Luhtaanmaa
-Luhtaanmäki
+Luhtaanmäki, Luhtabacka
 Luhtainperä
 Luhtalankylä
 Luhtanen
@@ -4716,14 +4735,14 @@ Luikonlahti
 Luiro
 Lukana
 Lukkarila
-Lukkarinsanta
+Lukkarinsanta, Klockarsand
 Lukkaroinen
 Lukko
 Lukkoila
 Luksanmäki
 Lumela
 Lumiaho
-Lumijoki
+Lumijoki, Lumijoen Kunta
 Lumikangas
 Lumimetsä
 Lumivaara
@@ -4739,7 +4758,7 @@ Luolaja
 Luolala
 Luolamaa
 Luolavuori
-Luoma
+Luoma, Bobäck
 Luoma-aho
 Luomaankylä
 Luomakulma
@@ -4779,13 +4798,13 @@ Lustilankylä
 Lutta
 Luttula
 Luujoki
-Luukki
+Luukki, Luuk
 Luukkola
 Luukkonen
-Luumäki
+Luumäki, Luumäen Kunta
 Luupujoki
 Luupuvesi
-Luurila
+Luurila, Lurböle
 Luusa
 Luusniemi
 Luusua
@@ -4796,7 +4815,7 @@ Luvia
 Lybäck
 Lyijynen
 Lyly
-Lylyinen
+Lylyinen, Lylyis
 Lylykoski
 Lylykylä
 Lylymäki
@@ -4807,11 +4826,11 @@ Lyttylä, Lyttskär
 Lyyskilä
 Lyytikkälä
 Lyytilänmäki
-Lyökki
+Lyökki, Lökö
 Lyöttilä
 Lähde
 Lähdekylä
-Lähderanta
+Lähderanta, Källstrand
 Läheaho
 Lähemäki
 Lähilampi
@@ -4820,7 +4839,7 @@ Lähteenmäki
 Lähteenoja
 Lähtevä
 Lämmobro
-Lämpinen, Lämmis
+Lämpinen, Lemmusi, Lämmis
 Lämsä
 Lämsänkylä
 Längelmäki
@@ -4828,18 +4847,18 @@ Länkipohja
 Lännenkulma
 Länsi-Aure
 Länsi-Kalmari
-Länsi-Pakila
+Länsi-Pakila, Västra Baggböle
 Länsi-Saamainen
 Länsi-Säviä
 Länsi-Teisko
 Länsi-Vuokko
 Länsikallio
-Länsikylä
-Länsimäki
+Länsikylä, Prepula
+Länsimäki, Västerkulla
 Länsiperä
 Länsipää
 Länsiranta
-Länsisalmi
+Länsisalmi, Västersundom
 Länttä
 Läpikäytävä
 Läpiä
@@ -4904,9 +4923,9 @@ Maanpää
 Maanselkä
 Maantiekylä, Landsvägsbyn
 Maarala
-Maaria
+Maaria, S:t Marie
 Maarianvaara
-Maarinkunnas
+Maarinkunnas, Markulla
 Maasalanmäki
 Maaselkä
 Maaselänlahti
@@ -4952,7 +4971,7 @@ Maksjoki
 Maksla
 Maksniemi
 Malarby
-Malax
+Malax, Maalahden Kunta, Maalahti, Malax Kommun
 Malila
 Malilanniemi
 Maliskylä
@@ -4968,16 +4987,16 @@ Malmbo
 Malmgård
 Malmi
 Malmila
-Malminiitty
+Malminiitty, Malmägen, Malmängen
 Malminkartano
-Malminmäki
+Malminmäki, Malmbacka
 Malmsby
 Mamrelund
 Manamansalo
 Mangård
 Mankala
 Mankila
-Mankki
+Mankki, Mankby
 Manna
 Mannervaara
 Mannila
@@ -5001,9 +5020,9 @@ Mararna
 Marasbacken
 Marby
 Maren
-Marike
+Marike, Marju
 Marinkainen
-Marinkylä, Marby
+Marinkylä
 Marisor
 Marjamäki
 Marjaniemi
@@ -5026,20 +5045,20 @@ Markomby
 Marrasjärvi
 Martikkala
 Martimo
-Martinkylä
-Martinlaakso
+Martinkylä, Mårtensby
+Martinlaakso, Mårtensdal
 Martinmäki
 Martinniemi
 Martinvaara
-Martois
+Martois, Martoinen
 Martonvaara
 Martti
 Marttiini
-Marttila
+Marttila, Marttilan Kunta, S:t Mårtens, T Mårtens
 Marttisenjärvi
-Masala
+Masala, Masaby
 Masia
-Masku
+Masku, Masko, Masku Kommun, Maskun Kunta
 Maskulainen
 Massby
 Massilanmäki
@@ -5047,11 +5066,11 @@ Matalalahti
 Matalamäki
 Matara
 Mataramäki
-Matari
+Matari, Matar
 Matehenperä
 Matikkala
 Matila
-Matildedal
+Matildedal, Mathildedal, Matilda
 Matinlompolo
 Matinmäki
 Matinsaari
@@ -5086,7 +5105,7 @@ Maunulanmäki
 Maunumäki
 Mauriala
 Maurumaa
-Maxmo
+Maxmo, Maksamaa
 Medelby
 Medelbystrand
 Medvast
@@ -5103,23 +5122,23 @@ Mellakoski
 Mellilä
 Mellola
 Meltaus
-Meltoinen
-Meltola
+Meltoinen, Meltois
+Meltola, Mjölbolsta
 Meltosjärvi
 Menikkala
 Menkijärvi
 Menonen
 Mentula
 Merenlahti
-Meri-Pori
-Meri-Rastila
-Merijärvi
-Merikaarto
-Merikarvia, Sastmola
+Meri-Pori, Havs Björneborg
+Meri-Rastila, Havs-Rastböle
+Merijärvi, Merijärven Kunta
+Merikaarto, Merikart
+Merikarvia, Merikarvian Kunta, Sastmola
 Merilä
 Meriläinen
 Merimasku
-Meriniitty
+Meriniitty, Sjöäng
 Meripää
 Merjärv
 Merrasmäki
@@ -5131,7 +5150,7 @@ Meskankulma
 Meskenvaara
 Meskusvaara
 Messgjutan
-Messukylä
+Messukylä, Messuby
 Mestilä
 Metallinkylä, Metallbyn
 Meteli
@@ -5139,7 +5158,7 @@ Metelinmäki
 Metola
 Metso
 Metsoila
-Metsola
+Metsola, Skogsbrinken
 Metsolahti
 Metsä-Kansola
 Metsä-Muuronen
@@ -5148,8 +5167,8 @@ Metsä-Rämä
 Metsäaro
 Metsäkansa
 Metsäkulma
-Metsäkylä
-Metsälehdonkylä
+Metsäkylä, Skogsbyn
+Metsälehdonkylä, Skogslundsby
 Metsälä
 Metsämaa
 Metsämäki
@@ -5169,7 +5188,7 @@ Mettälä
 Mickelsbacka
 Mickelsböle
 Mickelspiltom
-Miehikkälä
+Miehikkälä, Miehikkälän Kunta
 Mieho
 Miehoila
 Miehola
@@ -5198,10 +5217,11 @@ Mietunaho
 Miiainen
 Miiluranta
 Mikitänpää
-Mikkeli
-Mikkelä
+Mikkeli, Mikkelin Kaupunki, S:t Michel, Sankt Michels Stad
+Mikkeli, Mikkelin seutukunta, S:t Michel
+Mikkelä, Mickels
 Mikkilä
-Mikkola
+Mikkola, Degelbäck
 Mikkolanmäki
 Mikkolanniemi
 Mikkolanpelto
@@ -5212,12 +5232,12 @@ Mikontörmä
 Millola
 Minkiö
 Minkkilä
-Mistakankulma
+Mistakankulma, Mittstacka
 Mittigårdarna
 Mjösund
 Mobacken
-Mogenpört
-Moikoinen
+Mogenpört, Mogenpört by, Munapirtin kylä
+Moikoinen, Moikois
 Moilala
 Moilanen
 Moinniemi
@@ -5230,7 +5250,7 @@ Moksi
 Molapne
 Molkojärvi
 Molnby
-Molpe
+Molpe, Moikipää
 Moltsia
 Mommila
 Mommo
@@ -5265,7 +5285,7 @@ Muhakuja
 Muhasaari
 Muhniemi
 Muhola
-Muhos
+Muhos, Muhoksen Kunta
 Muijala
 Muikku
 Muikkula
@@ -5289,13 +5309,13 @@ Mullola
 Mulo
 Multamäki
 Multasniemi
-Multia, Muldia
+Multia, Muldia, Multian Kunta
 Multmäki
 Multo
-Munapirtti, Mogenpört
+Munapirtti, Mogenpörtlandet
 Munittula
 Munkbacka
-Munkby
+Munkby, Munkkala
 Munks
 Munkvik
 Munne
@@ -5305,7 +5325,7 @@ Munsmo
 Muntonkappeli
 Muntti
 Muokonniemi
-Muonio
+Muonio, Muonion Kunta
 Muosalmi
 Muotkajärvi
 Murakka
@@ -5341,7 +5361,7 @@ Mustajoki
 Mustajärvi
 Mustakulkkula
 Mustakulma
-Mustalahti
+Mustalahti, Musslax
 Mustalammi
 Mustalampi
 Mustamaa
@@ -5367,7 +5387,7 @@ Mustlahti
 Mustlax
 Mustola
 Mustolanmäki
-Mutainen
+Mutainen, Muddais
 Mutala
 Mutalahti
 Mutanen
@@ -5383,10 +5403,10 @@ Mutta
 Muukko
 Muurahainen
 Muuraisjärvi
-Muurala
-Muurame
+Muurala, Morby
+Muurame, Muurameen Kunta
 Muuramäki
-Muurasjärvi
+Muurasjärvi, Muurepää
 Muurassuo
 Muuratjärvi
 Muuriinsalo
@@ -5425,17 +5445,17 @@ Myllypohja
 Myllypuro
 Myllyvaara
 Myllyvainio
-Myllärinkylä
+Myllärinkylä, Mjölnarby
 Myllärinmäki
 Mynterlä
-Mynttilä
-Mynämäki
+Mynttilä, Myntböle
+Mynämäki, Mynämäen Kunta
 Myrans
-Myrkky, Mörtmark
-Myrskylä
+Myrkky, Myrkynkyla, Mörtmark
+Myrskylä, Mörskom
 Myrtinoja
 Myttylä
-Myyrmäki
+Myyrmäki, Myrbacka
 Myyrynmäki
 Myyrä
 Myöntäjä
@@ -5479,11 +5499,11 @@ Männäinen
 Mänsas
 Mänstälä
 Mäntlahti, Mäntlax
-Mäntsälä
+Mäntsälä, Mäntsälän Kunta
 Mänttä
 Mänttärinmäki
 Mänty
-Mäntyharju
+Mäntyharju, Mäntyharjun Kunta
 Mäntyjärvi
 Mäntykari
 Mäntykoski
@@ -5514,7 +5534,7 @@ Mäyräkorpi
 Mäyränkorpi
 Mäyränperä
 Mäyrävuori
-Määrlahti
+Määrlahti, Märlax
 Määrvuori
 Määttä
 Määttälä
@@ -5544,26 +5564,26 @@ Möykkykylä
 Möykkymäki
 Naama-aho
 Naamanka
-Naantali
+Naantali, Naantalin Kaupunki, Nådendal, Nådendals Stad
 Naappila
 Naapurinvaara
 Naarajoki
 Naaranlahti
 Naarjoki
 Naarkoski
-Naarslahti
+Naarslahti, Martböle
 Naarva
 Naatala
 Naatula
 Nabba
 Nabben
-Nagu
+Nagu, Nauvo
 Nahkaluoto
 Nahkela, Nackskog
 Naistenmatka
 Nakkerinpohja
 Nakkerpohja
-Nakkila, Nackeby
+Nakkila, Nackeby, Nakkilan Kunta
 Nalkki
 Nalkkila
 Nampa
@@ -5589,13 +5609,13 @@ Navala
 Nederbyn
 Nedergård
 Nederibyn
-Nederkirjala
+Nederkirjala, Ali-Kirjala
 Nederpurmo
-Nedervetil
+Nedervetil, Alaveteli
 Nedsjö
 Nehvonniemi
 Neittamo
-Nellim
+Nellim, Nellimö
 Nenonpelto
 Nenänperä
 Nenäsenvaara
@@ -5621,10 +5641,10 @@ Niemelä
 Niemelänkylä
 Niemelänniemi
 Niemenkulma
-Niemenkylä
+Niemenkylä, Arnäs
 Niemenmaa
 Niemenpappila
-Niemi
+Niemi, Arnäs
 Niemijärvi
 Niemikunta
 Niemikylä
@@ -5636,7 +5656,7 @@ Niemispää
 Niemistö
 Niesi
 Nihattula
-Nihde
+Nihde, Nihtiö
 Nihteinen
 Niilessaari
 Niilola
@@ -5653,7 +5673,7 @@ Niinistö
 Niinivaara
 Niinivedenpää
 Niinivesi
-Niipperi
+Niipperi, Nipert
 Niirala
 Niittuperä
 Niittylahti
@@ -5664,14 +5684,14 @@ Nikaniemi
 Nikara
 Nikinmäki
 Nikinsaari
-Nikkari
+Nikkari, Snickaris
 Nikkarikoski
 Nikkarila
 Nikkaroinen
 Nikkilä
 Nikkola
 Nikso
-Nikubacken
+Nikubacken, Nikunmäki
 Nikuby
 Nikula
 Nikunvaara
@@ -5692,12 +5712,12 @@ Niskapietilä
 Niskasaari
 Niskos
 Nissbacka
-Nissi
+Nissi, Näs
 Nissilä
 Nissilänmäki
 Nissinaho
 Nissinkylä
-Nissinmäki
+Nissinmäki, Nissbacken
 Nisula
 Nisunperä
 Nisus
@@ -5707,7 +5727,7 @@ Niuhala
 Niukkala
 Niuvanmaa
 Niva
-Nivala
+Nivala, Nivalan Kaupunki
 Nivankylä
 Nivanperä
 Nivavaara
@@ -5719,13 +5739,13 @@ Noitala
 Noittaa
 Nojanmaa
 Nojärv
-Nokia
+Nokia, Nokia stad, Nokian Kaupunki
 Nokisenkoski
 Nokka
 Nokkala
 Nolimo
 Noljakka
-Noormarkku
+Noormarkku, Norrmark
 Nopala
 Nopankylä
 Noppo
@@ -5738,13 +5758,13 @@ Norinkylä
 Norola
 Noronen
 Norra Jungsund
-Norra Paipis
+Norra Paipis, Norra Paippis, Pohjois-Paippinen
 Norra Vallgrund
 Norrasback
 Norrback
 Norrbacken
-Norrby
-Norrbyåsen
+Norrby, Vasarankylä
+Norrbyåsen, Norrbynharju
 Norrfjärden
 Norrgrannas
 Norribyn
@@ -5756,21 +5776,21 @@ Norrstu
 Norrsund
 Norrsundvik
 Norrvalla
-Norrveckoski
+Norrveckoski, Yli-Vekkoski
 Norrviken
 Norrvägen
 Norrändan
 Nothamn
 Notkola
 Noukavaara
-Nousiainen
+Nousiainen, Nousiaisten Kunta, Nousis
 Nousiala
 Nousu
 Novikka
 Nuasjärvi
 Nuha
 Nuhjala
-Nuijala
+Nuijala, Klobbskog
 Nuijamaa
 Nukari
 Nukkila
@@ -5782,9 +5802,9 @@ Nummenkylä
 Nummenmäki, Nummisbacken
 Nummenniitty
 Nummenpää
-Nummenranta
+Nummenranta, Nummisstrand
 Nummensyrjä
-Nummi
+Nummi, Nummis
 Nummijärvi
 Nummikoski
 Nummikylä
@@ -5810,7 +5830,7 @@ Nuoritta
 Nuorlahti
 Nuorpiniemi
 Nuorunka
-Nuottaniemi
+Nuottaniemi, Notudden
 Nuottimäki
 Nuottionranta
 Nuottiranta
@@ -5821,24 +5841,24 @@ Nurkkala
 Nurkkila
 Nurmaa
 Nurmela
-Nurmes
+Nurmes, Nurmeksen Kaupunki
 Nurmeslahti
 Nurmesperä
 Nurmi
-Nurmijärvi
+Nurmijärvi, Nurmijärven Kunta
 Nurmo
 Nutikka
 Nutintaka
 Nutturla
 Nuukala
-Nuuksio
-Nuuksionpää
+Nuuksio, Noux
+Nuuksionpää, Nouxändan
 Nuulanen
 Nuupas
 Nuuskala
 Nuuski
 Nuutajärvi
-Nuutila
+Nuutila, Knuutila
 Nuutilanmäki
 Nuuttila
 Nuvvus
@@ -5846,13 +5866,13 @@ Nybacka
 Nybacken
 Nybo
 Nyboda
-Nybro
+Nybro, Uusisilta
 Nyby
 Nybygget
 Nygård
 Nygårdas
 Nygårdsbacken
-Nykarleby
+Nykarleby, Nykarleby Stad, Uudenkaarlepyyn Kaupunki, Uusikaarlepyy
 Nykälä
 Nymansbacken
 Nypläri
@@ -5866,7 +5886,7 @@ Nystu
 Nytkyme
 Nyynäinen
 Nyystölä
-Näkinkylä
+Näkinkylä, Snäck
 Näkkimistö
 Näkkälä
 Näljänkä
@@ -5877,7 +5897,7 @@ Näpinkylä
 Näpänkangas
 Närhilä
 Närkki
-Närpes
+Närpes, Närpiö
 Närsäkkälä
 Närvijoki
 Närvilä
@@ -5905,7 +5925,7 @@ Nåtö
 Nörråkers
 Nötnäsbacken
 Nötö
-Nöykkiö
+Nöykkiö, Nöykis
 Odensö
 Odilampi
 Ohenmäki
@@ -5927,13 +5947,13 @@ Oinasjärvi
 Oinaskylä
 Oinila
 Oinola
-Oitmäki
-Oittaa
+Oitmäki, Oitbacka
+Oittaa, Oitans
 Oitti
 Oittila
 Oivanki
 Oivonoja
-Oivu
+Oivu, Åivo
 Oja-Matti
 Ojainen
 Ojajärvi
@@ -5963,7 +5983,7 @@ Okerla
 Okeroinen
 Okka
 Okkeri
-Oksakoski
+Oksakoski, Okskoski
 Oksalanpää
 Oksanperä
 Oksava
@@ -5985,7 +6005,7 @@ Ollinvaara
 Ollisbacka
 Ollusbacken
 Olländan
-Olympiakylä
+Olympiakylä, Olympiabyn
 Onali
 Onas
 Onkalo
@@ -6009,13 +6029,13 @@ Ontronvaara
 Onttola
 Oopakka
 Ooperi
-Ootoinen
+Ootoinen, Ootosi
 Opas
 Opotti
 Orajärvi
 Orala
 Orava
-Oravais
+Oravais, Oravainen
 Oravais fabrik
 Oravala
 Oravamäki
@@ -6033,8 +6053,8 @@ Oriketo
 Orimattila
 Oriniemi
 Oripohja
-Oripää
-Orismala
+Oripää, Oripään Kunta
+Orismala, Orisberg
 Orisuo
 Oritlampi
 Oriveden asema
@@ -6056,11 +6076,11 @@ Oskola
 Oskolansalo
 Osma
 Osmajärvi
-Osmalahti
+Osmalahti, Osmalax
 Osmanki
 Ostronsaari
 Otalampi
-Otamo
+Otamo, Åkerland
 Otanmäki
 Otava
 Otavalta
@@ -6071,16 +6091,17 @@ Otramäki
 Otravaara
 Otsola
 Ottosback
-Oulainen
+Oulainen, Oulais, Oulais Stad, Oulaisten Kaupunki
 Oulanka
-Oulu
+Oulu, Oulun Kaupunki, Uleåborg, Uleåborgs Stad
+Oulu, Oulun seutukunta, Uleåborg
 Oulujoki
 Oulunsalo, Uleåsalö
 Ounas
 Ounasjoki
 Outakoski
 Outamo
-Outokumpu
+Outokumpu, Outokummun Kauppala, Outokummun Kaupunki
 Ovanmalm
 Oxholmen
 Oxkangar
@@ -6102,7 +6123,7 @@ Paarskylä
 Paasikoski
 Paasila
 Paaslahti
-Paasniemi
+Paasniemi, Paasiniemi
 Paaso
 Paasola
 Paasonniemi
@@ -6122,7 +6143,7 @@ Paavolanmäki
 Paavonkari
 Packais
 Padankoski
-Padasjoki
+Padasjoki, Padasjoen Kunta
 Paddais
 Padustaipale
 Padva
@@ -6144,7 +6165,7 @@ Pahkamäki
 Pahkasalo
 Pahkavaara
 Pahojoki
-Pahtaoja
+Pahtaoja, Palokivalo
 Pahtonen
 Paihola
 Paijala
@@ -6154,10 +6175,10 @@ Paikkari
 Paimala
 Paimela
 Paimen
-Paimio
+Paimio, Paimion Kaupunki, Pemar, Pemar Stad, Pemars Stad
 Painaa
 Paino
-Paippinen
+Paippinen, Paipis
 Paistanoja
 Paistila
 Paistjärvi
@@ -6229,7 +6250,7 @@ Palomaa
 Palomäenloukko
 Palomäki
 Palonen
-Paloniemi
+Paloniemi, Fagernäs
 Palonkylä
 Palonmäki
 Palonurmi
@@ -6245,7 +6266,7 @@ Palsankylä
 Palsina
 Palssari
 Palstakulma
-Paltamo
+Paltamo, Paldamo, Paltamon Kunta
 Paltaniemi
 Paltta
 Palttila
@@ -6281,12 +6302,12 @@ Pappilanvaara
 Pappinen
 Papumäki
 Parattula
-Pargas
+Pargas, Länsi-Turunmaa, Länsi-Turunmaan Kaupunki, Parainen, Paraisten Kaupunki, Pargas stad, Väståbolands Stad
 Parhalahti
-Parikkala
+Parikkala, Parikkalan Kunta
 Parila
 Parissavaara
-Parkano
+Parkano, Parkanon Kaupunki
 Parkas
 Parkinniemi
 Parkkila
@@ -6329,17 +6350,17 @@ Patala
 Patalanmaja
 Patama
 Patana
-Pataris
+Pataris, Patarinloukko
 Patasniemi
 Pato
 Patokoski
-Patola
+Patola, Dammen
 Patolahti
 Patoo
 Patovaara
 Patrikka
 Patsola
-Patterinhaka
+Patterinhaka, Batterihagen
 Pattijoki
 Paukarlahti
 Paukkaja
@@ -6359,7 +6380,7 @@ Paxal
 Pedar
 Pedarsändan
 Pederså
-Pedersöre, Pedersören kunta
+Pedersöre, Pedersöre Kommun, Pedersören kunta
 Pehkolanlahti
 Pehkolanniemi
 Pehkuranta
@@ -6368,7 +6389,7 @@ Pehtsalo
 Pehula
 Peijari
 Peipohja
-Peippu
+Peippu, Peipu
 Peitsari
 Peitso
 Pekanpää
@@ -6382,15 +6403,15 @@ Pelkkala
 Pelkola
 Pelkonen
 Pelkoperä
-Pelkosenniemi
+Pelkosenniemi, Pelkosenniemen Kunta
 Pellas
 Pellasback
 Pellesmäki
 Pellinen
-Pellinki
+Pellinki, Pellinge
 Pellis
 Pellisenranta
-Pello
+Pello, Pellon Kunta
 Pellonkylä
 Pellonpää
 Pellossalo
@@ -6405,7 +6426,7 @@ Peltokangas
 Peltokorpi
 Peltokylä
 Peltola
-Peltolabacken
+Peltolabacken, Peltolanmäki
 Peltolankylä
 Peltoloukko
 Peltomaa
@@ -6419,7 +6440,7 @@ Peltovuoma
 Pelttari
 Penesor
 Pengonpohja
-Peninki
+Peninki, Penninginranta
 Pennala
 Pennasenvaara
 Pensala
@@ -6434,8 +6455,8 @@ Penttilänlahti
 Penttinen
 Peranka
 Perheniemi
-Perho
-Perinki
+Perho, Perhon Kunta
+Perinki, Sperrings
 Perinkää
 Perisgrund
 Perivaara
@@ -6444,19 +6465,19 @@ Perkiömäki
 Perkkiönperä
 Permonen
 Pernaa
-Perniö
+Perniö, Bjärnå
 Pernoo
 Pernu
 Pernula
-Pernå
+Pernå, Pernaja
 Persböle
 Pertar
-Perttaus
-Pertteli
+Perttaus, Perttausjoki
+Pertteli, S:t Bertils
 Perttilänmäki
 Perttinen
 Perttula
-Pertunmaa
+Pertunmaa, Pertunmaan Kunta
 Perukka
 Perus
 Peruspohja
@@ -6464,7 +6485,7 @@ Perä
 Perä-Hyyppä
 Perä-Meltola
 Perä-Musko
-Perä-Posio
+Perä-Posio, Peräposio
 Peräinen
 Peräkangas
 Peräkorpi
@@ -6486,7 +6507,7 @@ Pesiö
 Pesola
 Pesälä
 Pesänsuo
-Petalax
+Petalax, Petolahti
 Petas
 Peteri
 Petes
@@ -6519,7 +6540,7 @@ Petäjäkylä
 Petäjälahti
 Petäjäniemi
 Petäjäskoski
-Petäjävesi
+Petäjävesi, Petäjäveden Kunta
 Petäsmäki
 Petäys
 Petääjärvi
@@ -6533,9 +6554,10 @@ Peurunka
 Piehinki
 Piekkola
 Pieksä
-Pieksämäki
+Pieksämäki, Pieksämäen Kaupunki
+Pieksämäki, Pieksämäen seutukunta
 Pieksänkoski
-Pielavesi
+Pielavesi, Pielaveden Kunta
 Pienaniemi
 Pieni-Liikkala
 Pienikylä
@@ -6560,21 +6582,21 @@ Pihlaja
 Pihlajakoski
 Pihlajalahti
 Pihlajamaa
-Pihlajamäki
+Pihlajamäki, Rönnbacka
 Pihlajaniemi
-Pihlajarinne
+Pihlajarinne, Rönnebacka
 Pihlajasaari
 Pihlajavaara
 Pihlajavesi
-Pihlajisto
+Pihlajisto, Rönninge
 Pihlaus
 Pihlava, Svinhamn
 Pihnari
 Pihtikoski
 Pihtinotko
-Pihtipudas
+Pihtipudas, Pihtiputaan Kunta
 Piikkilä
-Piikkiö
+Piikkiö, Pikis
 Piilijoki
 Piilimäki
 Piilola
@@ -6591,14 +6613,14 @@ Piispa
 Piispajärvi
 Piispala, Biskopsnäs
 Piispalanmäki
-Piispankylä, Biskopsböle
+Piispankylä
 Piispanmäki
 Piispanristi
-Piittisjärvi
-Pikakylä
+Piittisjärvi, Piittisvaara
+Pikakylä, Snabbyn
 Pikisaari, Patis
 Pikka
-Pikkala
+Pikkala, Pickala
 Pikkarainen
 Pikkarala
 Pikkola
@@ -6619,7 +6641,7 @@ Pilkanmaa
 Pilkbacken
 Pilpala
 Piltola
-Pilvijärvi
+Pilvijärvi, Molnträsk
 Pinipaju
 Pinnunmäki
 Pinola
@@ -6639,9 +6661,9 @@ Pirhonen
 Pirilä
 Pirilö
 Pirinranta
-Pirkkala
-Pirkkola
-Pirlax
+Pirkkala, Birkala, Pirkkalan Kunta
+Pirkkola, Britas
+Pirlax, Piirlahti
 Pirttiharju
 Pirttijärvi
 Pirttikangas
@@ -6657,7 +6679,7 @@ Pirttipohja
 Pirttiranta
 Pirttitörmä
 Pirttivaara
-Pisa
+Pisa, Bisa
 Pisankoski
 Piskola
 Pispala
@@ -6687,20 +6709,20 @@ Pjelax
 Pjukala
 Plassi
 Pleikilä, Bleknäs
-Pläkkikaupunki
-Pockar
-Pohja
+Pläkkikaupunki, Bleckstaden
+Pockar, Pukaro
+Pohja, Pojo
 Pohja-Lankila
 Pohjaismäki
-Pohjajoki
+Pohjajoki, Norrland
 Pohjakka
 Pohjakylä
 Pohjala
 Pohjalahti
 Pohjaniitty
 Pohjankylä
-Pohjanpuoli
-Pohjansaha
+Pohjanpuoli, Norra sidan
+Pohjansaha, Norrsågen
 Pohjantähti
 Pohjaslahti
 Pohjasmäenpää
@@ -6708,7 +6730,7 @@ Pohjavaara
 Pohjoinen
 Pohjois-Hervanta
 Pohjois-Ii
-Pohjois-Tapiola
+Pohjois-Tapiola, Norra Hagalund
 Pohjois-Vartsala
 Pohjois-Vuokko
 Pohjoisjärvi
@@ -6748,8 +6770,8 @@ Polusmäki
 Polvela
 Polvenkylä
 Polvi
-Polvijärvi
-Pomarkku
+Polvijärvi, Polvijärven Kunta
+Pomarkku, Pomarkun Kunta, Påmark
 Ponsa
 Ponsimaa
 Pontus
@@ -6757,15 +6779,16 @@ Poola
 Popinniemi
 Porali
 Porasa
-Pori
+Pori, Björneborg, Björneborgs Stad, Porin Kaupunki
+Pori, Björneborg, Porin seutukunta
 Porinmäki
 Porkala
 Porkanranta
 Porkholma
-Porkkala
-Porlammi
+Porkkala, Porkkalanniemi
+Porlammi, Porlom
 Pormestarinluoto, Borgmästarstranden
-Pornainen
+Pornainen, Borgnäs, Pornaisten Kunta
 Poro
 Poro-oja
 Porokylä
@@ -6786,8 +6809,9 @@ Portimo
 Portimojärvi
 Porttila
 Porvola
-Porvoo
-Posio
+Porvoo, Borgå, Borgå Landskommun, Borgå Stad, Porvoon Kaupunki, Porvoon Maalaiskunta
+Porvoo, Borgå, Porvoon seutukunta
+Posio, Posion Kunta
 Poskimäki
 Possola
 Postinmäki
@@ -6803,7 +6827,7 @@ Poussu
 Poutala
 Poutuis
 Preitilä
-Preiviiki, Preiviikki, Bredvik
+Preiviiki, Preiviikki
 Prostvik
 Prunkila
 Prunnila
@@ -6811,7 +6835,7 @@ Prästgården
 Prästgårdsbacken
 Prästkulla
 Pudas
-Pudasjärvi
+Pudasjärvi, Pudasjärven Kaupunki
 Puhakanmylly
 Puhakanmäki
 Puharila
@@ -6821,12 +6845,12 @@ Puhos
 Puhossalo
 Puikkola
 Puistola
-Puistomäki
+Puistomäki, Parkbacken
 Puistonmäki
 Pukala
 Pukara
 Pukkala
-Pukkila
+Pukkila, Buckila, Pukkilan Kunta
 Pukkilanmäki
 Pulakorpi
 Pulju
@@ -6842,12 +6866,12 @@ Pulsa
 Pumpanen
 Pumppuamo
 Pumpula
-Punametsä
+Punametsä, Brunsko, Brunskog
 Punapakka
-Pundars
+Pundars, Puntainen
 Pungböle
 Punkaharju
-Punkalaidun
+Punkalaidun, Punkalaitumen Kunta
 Punkasalmi
 Punkka
 Punnonmäki
@@ -6857,18 +6881,18 @@ Puntari
 Puntarikoski
 Puntarniemi
 Puntti
-Puokio
+Puokio, Puokiovaara
 Puolakka
 Puolakkovaara
-Puolanka
-Puolarmaari
-Puolarmetsä
+Puolanka, Puolangan Kunta, Puolango
+Puolarmaari, Bolomaren
+Puolarmetsä, Bolarskog
 Puolimatka
 Puoliväli
 Puomila
 Puotila
 Puponmäki
-Puralankylä
+Puralankylä, Purala
 Purhala
 Purho
 Purmo
@@ -6910,9 +6934,9 @@ Puujärvi
 Puukari
 Puukkokumpu
 Puukkonen
-Puukoski
+Puukoski, Bofors
 Puuluoto
-Puumala
+Puumala, Puumalan Kunta
 Puuppola
 Puusaari
 Puustila
@@ -6922,11 +6946,11 @@ Puutosmäki
 Puutosniemi
 Puutossalmi
 Pyhtilä
-Pyhtää
+Pyhtää, Pyttis
 Pyhä
 Pyhähuhta
-Pyhäjoki
-Pyhäjärvi
+Pyhäjoki, Pyhäjoen Kunta
+Pyhäjärvi, Pyhäjärven Kaupunki
 Pyhälahti
 Pyhältö
 Pyhäluoto
@@ -6937,8 +6961,8 @@ Pyhäniemi
 Pyhänkoski
 Pyhänsivu
 Pyhäntaka
-Pyhäntä
-Pyhäranta
+Pyhäntä, Pyhännän Kunta
+Pyhäranta, Pyhärannan Kunta
 Pyhäsalmi
 Pyhäselkä
 Pyhävaara
@@ -6985,14 +7009,14 @@ Päijäntee
 Päisterpää
 Päivinen
 Päiviälä
-Päiväkumpu
+Päiväkumpu, Lövkulla
 Päiväkunta
 Päiväniemi
 Päivärinta
 Päivästö
 Päkinmäki
 Päkki
-Pälkäne
+Pälkäne, Pälkäneen Kunta
 Pälli
 Pällikäs
 Pälsi
@@ -7023,7 +7047,7 @@ Pålböle
 Pålsböle
 Påras
 Påskmark, Puskamarkki
-Påvalsby
+Påvalsby, Paavalinkylä
 Pökänperä
 Pökölä
 Pölans
@@ -7057,7 +7081,7 @@ Pörkilä
 Pörnullbacken
 Pörsänmäki
 Pörtbäcken
-Pörtnor, Pörtnora
+Pörtnor, Pirtnuora, Pörtnora
 Pörtom
 Pörölänmäki
 Pötkönen
@@ -7070,10 +7094,11 @@ Pöyliövaara
 Pöylä
 Pöyry
 Pöytiö
-Pöytyä
+Pöytyä, Pöytyän Kunta
 Pöytäalho
 Pöytävaara
-Raahe
+Raahe, Brahestad, Raahen Kaupunki
+Raahe, Brahestad, Raahen seutukunta
 Raajoki
 Raajärvi
 Raala
@@ -7089,7 +7114,7 @@ Raatikainen
 Raatikka
 Raatikkala
 Raatinen
-Raattama, Kyrö
+Raattama
 Raatti
 Rabbas
 Radanmäki
@@ -7116,7 +7141,7 @@ Raikku
 Raikuu
 Raimela
 Rainebäck
-Raisio, Reso
+Raisio, Raision Kaupunki, Reso, Reso Stad
 Raisionmäki
 Raiskio
 Raiskionkulma
@@ -7124,20 +7149,20 @@ Raistakka
 Raitamäki
 Raitoo
 Raivaluoma
-Raivio
+Raivio, Rödjan
 Raja-aho
-Rajakallio
+Rajakallio, Knivsta
 Rajakulma
-Rajakylä
+Rajakylä, Råby
 Rajala
 Rajalahti, Rölax
 Rajamäenkylä
 Rajamäki
 Rajanotko
 Rajapatsas
-Rajasilta
+Rajasilta, Råbro
 Rajasuo
-Rajatorppa
+Rajatorppa, Råtorp
 Rajavaara
 Rajby
 Rakennusniemi
@@ -7159,7 +7184,7 @@ Ranssila
 Ranta
 Ranta-Kaartila
 Ranta-Kosula
-Ranta-Toivala
+Ranta-Toivala, Rantatoivala
 Ranta-Töysä
 Ranta-Vakkinen
 Rantakangas
@@ -7167,20 +7192,20 @@ Rantakulma
 Rantakunta
 Rantakylä
 Rantala
-Rantasalmi
+Rantasalmi, Rantasalmen Kunta
 Rantavoimasvuoman Asutusalue
 Ranto
 Rantonen
 Rantsila
 Ranttila
-Ranua
+Ranua, Ranuan Kunta
 Rapakkojoki
 Rapala
 Rapalahti
 Rapattila
 Rapsula
 Rasala
-Raseborg
+Raseborg, Raasepori
 Rasi
 Rasila
 Rasilampi
@@ -7192,9 +7217,9 @@ Raskala
 Raski
 Rasmus
 Rasmusbacken
-Rastaala
-Rastaspuisto
-Rasti
+Rastaala, Trastmossen
+Rastaspuisto, Trastparken
+Rasti, Rastinniemi
 Rasua
 Rasvaniemi
 Ratasalo
@@ -7225,9 +7250,10 @@ Rauhamäki
 Raukka
 Raukuinen
 Raulio
-Rauma
+Rauma, Rauman Kaupunki, Raumo, Raumo Stad
+Rauma, Rauman seutukunta, Raumo
 Raunistula
-Raunistulanportti
+Raunistulanportti, Raunistula porten
 Rausk
 Raussi
 Raussila
@@ -7237,11 +7263,11 @@ Rautajärvi
 Rautakorpi
 Rautakoski
 Rautalahti
-Rautalampi
+Rautalampi, Rautalammin Kunta
 Rautamäenkylä
 Rautamäki
 Rautaoja
-Rautavaara
+Rautavaara, Rautavaaran Kunta
 Rautela
 Rautiala
 Rautila
@@ -7249,7 +7275,7 @@ Rautio
 Rautionkylä
 Rautionmäki
 Rautioranta
-Rautjärvi
+Rautjärvi, Rautjärven Kunta
 Rautlahti
 Rautoja
 Rauttu
@@ -7279,22 +7305,22 @@ Reinikkala
 Reinilä
 Reininmaa
 Reinkkala
-Reisjärvi
+Reisjärvi, Reisjärven Kunta
 Reisu
-Reitkalli
+Reitkalli, Bredskall
 Reittiö
 Reittola
 Reittula
 Reivilä
 Rejböle
-Rejpelt
+Rejpelt, Rekipelto
 Rekijoki
 Rekikoski
 Rekisuo
 Rekivaara
 Reko
 Rekoinen
-Rekola
+Rekola, Räckhals
 Reku
 Rekuby
 Rekula
@@ -7307,7 +7333,7 @@ Rento
 Rentola
 Renvaktars
 Repakki
-Replot
+Replot, Raippaluoto, Replotö
 Repoharju
 Repola
 Repomäki
@@ -7352,7 +7378,8 @@ Riihiketo, Mellanriorna
 Riihikoski
 Riihilahti
 Riihilä
-Riihimäki
+Riihimäki, Riihimäen Kaupunki
+Riihimäki, Riihimäen seutukunta
 Riihiniemi
 Riihiranta
 Riihivaara
@@ -7361,10 +7388,10 @@ Riiho
 Riikola
 Riikonen
 Riipi
-Riipilä
+Riipilä, Ripuby
 Riipisenvaara
 Riippa
-Riippi
+Riippi, Rip
 Riisikkala
 Riispyy, Risby
 Riistakoski
@@ -7382,8 +7409,8 @@ Rikinoja
 Rikkaranta
 Rikkilä
 Riku
-Rilax
-Rimal
+Rilax, Riilahti
+Rimal, Riimala
 Rimmi
 Rimmilä
 Rimpilä
@@ -7406,8 +7433,8 @@ Rissanen
 Rissasenperä
 Risteys
 Risti
-Ristiina
-Ristijärvi
+Ristiina, Kristina
+Ristijärvi, Ristijärven Kunta
 Ristikallio, Korsberg
 Ristikangas
 Ristikivenmäki
@@ -7446,7 +7473,7 @@ Riuttamäki
 Riuttaskylä
 Riuttonkulma
 Riutula
-Roavesavu
+Roavesavu, Rovisuvanto
 Rohdainen
 Rohijärvi
 Roiha
@@ -7481,7 +7508,7 @@ Ronkeli
 Ronni
 Rontsa
 Ronttivaara
-Roones
+Roones, Rånäs
 Roosinpohja
 Ropa
 Ropakko
@@ -7489,10 +7516,10 @@ Ropankylä
 Ropinsalmi
 Ropomäki
 Rosala
-Rosasholmen
+Rosasholmen, Ruusasholma
 Rosendal
 Rosenlund, Ruusulehto
-Rosklax
+Rosklax, Rosklahti
 Roslax
 Rossi
 Rossvik
@@ -7511,12 +7538,13 @@ Rouravaara
 Routio
 Rovala
 Rovanen
-Rovaniemi
+Rovaniemi, Rovaniemen Kaupunki
+Rovaniemi, Rovaniemen seutukunta
 Rovastinaho
 Rovastinkangas
 Rovevaara
 Rudanmaa
-Rudom
+Rudom, Rutumi
 Rugnola
 Ruha
 Ruhala
@@ -7528,7 +7556,7 @@ Ruikka
 Ruisku
 Ruismäki
 Ruissaari
-Ruissalo
+Ruissalo, Runsala
 Ruka
 Rukajärvi
 Rukkisenperä
@@ -7539,7 +7567,7 @@ Rumar
 Rummakko
 Rummukkala
 Rumo
-Rumpu
+Rumpu, Rumpunen
 Runkaus
 Runko
 Runni
@@ -7553,9 +7581,9 @@ Ruohonpää
 Ruojärvenkulma
 Ruokamo
 Ruoke
-Ruokojärvi
+Ruokojärvi, Ruokorova
 Ruokola
-Ruokolahti
+Ruokolahti, Ruokolahden Kunta, Ruokolax
 Ruokolammi
 Ruokolanvaara
 Ruokomäki
@@ -7575,7 +7603,7 @@ Ruonala
 Ruonanperä
 Ruoni
 Ruoniemi
-Ruonlahti
+Ruonlahti, Ruonlax
 Ruopsa
 Ruorasmäki
 Ruosma
@@ -7591,29 +7619,29 @@ Ruotsila
 Ruotsinkorpi
 Ruotsinkylä
 Ruotsinpuoli
-Ruotsinpyhtää
+Ruotsinpyhtää, Strömfors
 Ruotsula
 Ruottala
 Ruottila
 Ruottisenharju
 Ruotula
-Ruovesi
+Ruovesi, Ruoveden Kunta
 Ruppovaara
 Rusala
 Ruskea-ahde
 Ruskeakoski
 Ruskeala
-Ruskeasanta
+Ruskeasanta, Rödsand
 Ruskela
 Ruskila
-Rusko
+Rusko, Ruskon Kunta
 Ruskulla
 Rusutjärvi
 Rutajärvi
 Rutakko
 Rutalahti
 Rutava
-Ruths, Oravais
+Ruths, Oravaisfabrik, Oravaistentehdas
 Ruto
 Rutola
 Ruuhijärvi
@@ -7640,7 +7668,7 @@ Rux
 Rydinnummi
 Ryhälänmäki
 Ryjäojankulma
-Rymättylä
+Rymättylä, Rimito
 Rynka
 Rynkäinen
 Rytikari
@@ -7659,7 +7687,7 @@ Ryömälä
 Ryönä
 Ryöttö
 Räcknäs
-Räfsby
+Räfsby, Haravankylä
 Rähälä
 Räihä
 Räikkölä
@@ -7680,7 +7708,7 @@ Rätylä
 Räyrinki
 Räyskälä
 Räystö
-Rääkkylä
+Rääkkylä, Bräkylä, Rääkkylän Kunta
 Rääppänä
 Räätäniemi
 Råbacken
@@ -7705,7 +7733,7 @@ Röukas
 Rövarnäs
 Rövik
 Röykkä
-Röylä
+Röylä, Rödskog
 Röyttä
 Röölä
 Saakoski
@@ -7731,7 +7759,7 @@ Saarento
 Saares
 Saaresmäki
 Saari
-Saarijärvi
+Saarijärvi, Saarijärven Kaupunki
 Saarikas
 Saarikoski
 Saarikylät
@@ -7740,7 +7768,7 @@ Saarimäki
 Saarinen
 Saario
 Saarioinen
-Saariselka, Saariselkä
+Saariselka
 Saariskylä
 Saarivaara
 Saaroinen
@@ -7751,7 +7779,7 @@ Sabbels
 Sabelsbacken
 Sadonmaa
 Saha
-Sahakoski
+Sahakoski, Sågfors
 Sahakylä
 Sahalahti
 Sahamäki
@@ -7794,7 +7822,7 @@ Salavainen
 Salittu
 Salkko
 Salkola
-Salla
+Salla, Sallan Kunta
 Sallansuu
 Sallila
 Salliperä
@@ -7807,20 +7835,21 @@ Salmenperä
 Salmenranta
 Salmensuu
 Salmentaka
-Salmi
+Salmi, Salmis
 Salmijärvi
 Salmilampi
 Salmio
 Salmiperä
 Salmittu
-Salo
+Salo, Salon seutukunta
+Salo, Salo Stad, Salon Kaupunki
 Salo-Issakka
 Salo-Miehikkälä
 Salo-Peltola
 Saloinen
 Salokunta
 Salokylä
-Salomaa
+Salomaa, Bockholm, Salosalmi
 Salonkylä
 Salonmäki
 Salonnenä
@@ -7869,9 +7898,9 @@ Sani
 Sankila
 Sankola
 Sannainen
-Sannanranta
+Sannanranta, Sandstrand
 Sannäs
-Santaheini
+Santaheini, Sandhöjden
 Santala
 Santaloukko
 Santamala
@@ -7927,14 +7956,14 @@ Saukonsaari
 Saunajärvi
 Saunakallio
 Saunakylä
-Saunalahti
+Saunalahti, Bastvik
 Saunalehto
 Saunaniemi
 Saunavaara
 Sauruperä
 Sausolannurkka
 Saustila
-Sauvo
+Sauvo, Sagu, Sagu Kommun, Sauvon Kunta
 Savaloja
 Saveenkylä
 Savela
@@ -7957,11 +7986,11 @@ Savinala
 Saviniemi
 Savio
 Saviranta
-Savisalo
+Savisalo, Samsalö
 Saviselkä
 Savisto
 Savisuo
-Savitaipale
+Savitaipale, Savitaipaleen Kunta
 Savo
 Savojärvi
 Savolahti
@@ -7969,17 +7998,19 @@ Savolaisenniemi
 Savolanvaara
 Savonjärvi
 Savonkylä
-Savonlinna
+Savonlinna, Nyslott, Nyslott Stad, Nyslotts Stad, Savonlinnan Kaupunki
+Savonlinna, Nyslott, Savonlinnan seutukunta
 Savonranta
 Savonvirta
-Savukoski
+Savukoski, Savukosken Kunta
 Savukylä
 Saxby
 Seesta
 Seffris
 Seili
 Seilonmäki
-Seinäjoki
+Seinäjoki, Seinäjoen Kaupunki, Östermyra
+Seinäjoki, Seinäjoen seutukunta, Östermyra
 Seipäjärvi
 Seitenoikea
 Seitlax
@@ -8009,16 +8040,16 @@ Sepänjoki
 Sepänkylä
 Sepänmäki
 Seuko
-Seutula
+Seutula, Sjöskog
 Sevals
 Sevar
 Severi
 Sevettijärvi
 Sexnappa
 Sexsjö
-Sibbo
+Sibbo, Sipoo
 Sidbäck
-Sideby
+Sideby, Siipyy
 Siekkilä
 Siekkinen
 Sienimäki
@@ -8026,14 +8057,14 @@ Sieppijärvi
 Sieravaara
 Sierla
 Sietaniemi
-Sievi
+Sievi, Sievin Kunta
 Sievola
 Siffris
 Siggby
-Signäs
-Siikainen, Rörland
+Signäs, Siggnäs
+Siikainen, Rörland, Siikais, Siikais kommun, Siikaisten Kunta
 Siikajoen Kirkonkylä
-Siikajoki
+Siikajoki, Siikajoen Kunta
 Siikakoski
 Siikakämä
 Siikala
@@ -8045,7 +8076,7 @@ Siikasalmi
 Siikasuo
 Siikava
 Siikavaara
-Siilinjärvi
+Siilinjärvi, Siilinjärven Kunta
 Siipo
 Siippoo
 Siira
@@ -8061,7 +8092,7 @@ Sikainmäki
 Sikakylä
 Sikala
 Sikalanmäki
-Sikilä
+Sikilä, Siggböle
 Sikiölä
 Sikkilä
 Sikovaara
@@ -8080,7 +8111,7 @@ Silmutjoki
 Silmälä
 Silo
 Siltala
-Siltamäki
+Siltamäki, Brobacka
 Siltasuo
 Siltavaara
 Silva
@@ -8088,18 +8119,18 @@ Silvola
 Silvu
 Simanala
 Simananniemi
-Simo
+Simo, Simon Kunta
 Simojärvi
 Simola
 Simolanmäki
 Simonby
 Simoniemi
-Simonkallio
+Simonkallio, Simonsberg
 Simonkylä
-Simonlaakso
-Simonmetsä
+Simonlaakso, Simonsdal
+Simonmetsä, Simonsskog
 Simonsbacken
-Simonsbro
+Simonsbro, Simonsilta
 Simoskylä
 Simpala
 Simpele
@@ -8141,7 +8172,7 @@ Sitikkala
 Sitlahti, Sittlax
 Sitolahti
 Sittoniemi
-Siuntio
+Siuntio, Siuntion Kunta, Sjundeå, Sjundeå Kommun
 Siurlahti
 Siuro
 Siurunmaa
@@ -8164,7 +8195,7 @@ Skarpkulla
 Skata
 Skatan
 Skatila
-Skattbacka
+Skattbacka, Veromäki
 Skavarböle
 Skepparnäsback
 Skinnarby
@@ -8181,7 +8212,7 @@ Skogsböle
 Skogssällisändan
 Skoila, Skinnfällskog
 Skott
-Skraatila
+Skraatila, Skräddarböle
 Skrattnäs
 Skravsö
 Skriko
@@ -8191,10 +8222,10 @@ Skräbböle
 Skräddarby
 Skräddarisback
 Skurasbacken
-Skuru
+Skuru, Pohjankuru
 Skurvurback
 Skutnabba
-Skuutviiki
+Skuutviiki, Skutviken
 Skällargård
 Skärmola
 Skåldö
@@ -8214,13 +8245,13 @@ Smeds
 Smedsbacka
 Smedsby
 Smedsede
-Smissbacken
+Smissbacken, Misinmäki, Missinmäki
 Smörvik
 Snappertuna
 Snettans, Nettaa
 Snickarbacken
 Snåre
-Sodankylä
+Sodankylä, Sodankylän Kunta
 Sofieberg
 Soidinkangas
 Soidinmäki
@@ -8228,7 +8259,7 @@ Soidinsuo
 Soikka
 Soikko
 Soila
-Soini
+Soini, Soinin Kunta
 Soiniemi
 Soinila
 Soinilansalmi
@@ -8239,7 +8270,7 @@ Soivio
 Sojonlääni
 Sokkala
 Soklot
-Sokoja
+Sokoja, Såka
 Sokojärvi
 Sokura
 Sola
@@ -8249,13 +8280,13 @@ Solberg
 Soliskylä
 Solkei
 Solttila
-Solv
+Solv, Solf, Sulva
 Solvik
 Solvinsbacken
 Someenjärvi
 Somerharju
 Somerniemi
-Somero
+Somero, Someron Kaupunki
 Somerokoski
 Someronperä
 Somersoja
@@ -8272,7 +8303,7 @@ Sondby
 Sonka
 Sonkaja
 Sonkajanranta
-Sonkajärvi
+Sonkajärvi, Sonkajärven Kunta
 Sonkakoski
 Sonkamuotka
 Sonkari
@@ -8314,19 +8345,19 @@ Soso
 Sossonniemi
 Sotakylä
 Sotavalta
-Sotilaskorpi
+Sotilaskorpi, Soldatskärret
 Sotjala
 Sotkajärvi
-Sotkamo
+Sotkamo, Sotkamon Kunta
 Sotkanniemi
 Sotkasenvaara
 Sotkia
 Sotkulampi
 Sotkuma
-Sotunki
+Sotunki, Sottungsby
 Soukainen
-Soukanniemi
-Soukka
+Soukanniemi, Sökö udd, Sököudd
+Soukka, Sökö
 Soukkajoki
 Soukkio
 Soukko
@@ -8351,7 +8382,7 @@ Stenhamn
 Steninge
 Stenisbacken
 Stennabba
-Stensnäs Krokö
+Stensnäs Krokö, Koukkusaari
 Stenvatten
 Stockfors
 Storbacka
@@ -8365,7 +8396,7 @@ Storkamp
 Storkanskog
 Storkarkmo
 Storkull
-Storliden, Isokorpi
+Storliden
 Stormi
 Stormora
 Stormoss
@@ -8393,13 +8424,13 @@ Strömmings
 Strömsby
 Strömsholm
 Strömsö
-Stubbacka industriområde
+Stubbacka industriområde, Tuupakan teollisuusalue
 Stubbas
 Stubbhagen
 Stubbnäs
 Stubböle
 Stugby
-Stupila, Stubbom, Stubbas
+Stupila, Stubbom
 Stusnäs
 Stuvunäs
 Ståbacka
@@ -8414,9 +8445,9 @@ Suikkila
 Suikkola
 Suininki
 Suininkijärvi
-Suino
+Suino, Svinö
 Suinula
-Suitia
+Suitia, Svidja
 Suitturi
 Sukeva
 Sukkala
@@ -8431,7 +8462,7 @@ Sulento
 Sulja
 Sulkakylä
 Sulkama
-Sulkava
+Sulkava, Sulkavan Kunta
 Sulkavanjärvi
 Sulkola
 Sulonen
@@ -8450,7 +8481,7 @@ Sundsberg
 Sundstens
 Sundö
 Suni
-Sunila
+Sunila, Bärnäs
 Suninhaka
 Suninsalmi
 Sunnanberg
@@ -8470,7 +8501,7 @@ Suoknuuti
 Suokonkylä
 Suokonmäki
 Suokumaa
-Suolaakso
+Suolaakso, Myrdalen
 Suolahti
 Suolijoki
 Suolijärvi
@@ -8480,7 +8511,7 @@ Suomatka
 Suomela
 Suomenkylä
 Suomenniemi
-Suomennittu
+Suomennittu, Finnäng
 Suomenoja
 Suomensuo
 Suomies
@@ -8488,10 +8519,10 @@ Suomijärvi
 Suomula
 Suomusjärvi
 Suomussalmen kirkonkylä
-Suomussalmi
+Suomussalmi, Suomussalmen Kunta
 Suomutunturi
 Suomäki
-Suonenjoki
+Suonenjoki, Suonenjoen Kaupunki
 Suonenvaara
 Suoniala
 Suoniemi
@@ -8564,7 +8595,7 @@ Suurlahti
 Suurniemi
 Suurola
 Suurpää
-Suursuo
+Suursuo, Storkärr
 Suurtuvaara
 Suutala
 Suutari
@@ -8578,7 +8609,7 @@ Suvanto
 Suvantoniemi
 Suvela, Södrik
 Suvikunta
-Suvisaaristo
+Suvisaaristo, Sommaröarna
 Suvisranta
 Svalskulla
 Svartback
@@ -8591,8 +8622,8 @@ Svartnäs
 Svartos vik
 Svartså
 Svartvik
-Svartå
-Svarvar
+Svartå, Mustio
+Svarvar, Svarvarbacken
 Svarvarsbacken
 Svedan
 Svedas
@@ -8604,13 +8635,13 @@ Svenskby
 Sydinrinta
 Sydmo, Södmo
 Sydänkylä
-Sydänmaa
+Sydänmaa, Södmo
 Sydänmaan Lakka
 Sydänperä
 Sykäräinen
 Sylvänä
 Syndalen
-Synderskeri
+Synderskeri, Synderskär
 Synsiö
 Syri
 Syrjäkoski
@@ -8618,14 +8649,14 @@ Syrjälä
 Syrjälänloukko
 Syrjämäki
 Syrjänmäki
-Syrjäntaka
+Syrjäntaka, Syrjäntausta
 Syrjäsaari
 Syrjäsalmi
 Syrjäsenkulma
 Syrjävaara
 Syrriossback
-Sysilax
-Sysmä
+Sysilax, Sysilahti
+Sysmä, Sysmän Kunta
 Sysmäjärvi
 Sytkorpi
 Syttyä
@@ -8655,7 +8686,7 @@ Säimen
 Säkinmäki
 Säkkilänvaara
 Säkkiperä
-Säkylä
+Säkylä, Säkylä Kommun, Säkylän Kunta
 Säkäjärvi
 Säkäniemi
 Sälevä
@@ -8724,7 +8755,7 @@ Södersved
 Söderudden
 Söderändan
 Södra Jungsund
-Södra Paipis
+Södra Paipis, Etelä-Paippinen
 Södra Vallgrund
 Södö
 Söglö
@@ -8761,11 +8792,11 @@ Taipale
 Taipaleenharju
 Taipaleenkulma
 Taipalmaa
-Taipalsaari
-Taivalkoski
+Taipalsaari, Taipalsaaren Kunta
+Taivalkoski, Taivalkosken Kunta
 Taivalmaa
 Taivalmäki
-Taivassalo
+Taivassalo, Taivassalon Kunta, Tövsala
 Taka-Keljo
 Taka-Lammi
 Taka-Nihattula
@@ -8778,7 +8809,7 @@ Takala
 Takalo
 Takamaa
 Takasenpää
-Takkula
+Takkula, Tackskog
 Taklax
 Tala
 Talala
@@ -8787,12 +8818,12 @@ Taljala
 Talkkuna
 Tallaa
 Tallbacka
-Tallmo
+Tallmo, Talma
 Tallouri
 Talluskylä
 Tallusperä
 Talola
-Talonpojan Teijo
+Talonpojan Teijo, Bondtykö
 Talpia
 Talsinmäki
 Talsoila
@@ -8804,7 +8835,7 @@ Talvisilta
 Talvisto
 Talvitie
 Tamare
-Tammela
+Tammela, Tammelan Kunta
 Tammenlahti
 Tammenpää
 Tammi
@@ -8813,12 +8844,13 @@ Tammijärvi
 Tammikoski
 Tammilahti
 Tamminiemi
-Tammio
+Tammio, Stamö
 Tammiranta
 Tammisilta
 Tammisto
 Tammo
-Tampere
+Tampere, Tammerfors, Tammerfors Stad, Tampereen Kaupunki
+Tampere, Tammerfors, Tampereen seutukunta
 Tamppimäki
 Tampsi
 Tanhua
@@ -8829,7 +8861,7 @@ Tanila
 Tankavaara
 Tankolampi
 Tannila
-Tanskarla
+Tanskarla, Danskarby
 Tanskila
 Tanttala
 Tanttila
@@ -8848,15 +8880,15 @@ Tapionkylä
 Tapionniemi
 Tapoila
 Tapojärvi
-Tapola
+Tapola, Stappåker
 Tappo
-Tapulikaupunki
+Tapulikaupunki, Stapelstaden
 Tara
 Tarhapää
 Tarimaa
 Tarinaharju
 Tarkka
-Tarkkinen
+Tarkkinen, Tarkis
 Tarkkola
 Tarmola
 Tarnala
@@ -8879,8 +8911,8 @@ Tast
 Tasto
 Tastula
 Tattara
-Tattarisuo
-Tattaråsen
+Tattarisuo, Tattarmossen
+Tattaråsen, Tattariharju
 Tattula
 Taulakylä
 Taulamaa
@@ -8898,21 +8930,21 @@ Tavela
 Tavilammi
 Tavinsalmi
 Tavola
-Teeriniemi
+Teeriniemi, Orrnäs
 Teeriranta
 Teerivaara
 Teersalo
 Teevahainen
 Tehi
 Tehlo
-Teijo
+Teijo, Tykö
 Teijula
 Teikari
 Teikarla
 Teilimäki
 Teisko
 Teiskola
-Teissala
+Teissala, Teisala
 Teivaa
 Teivaala
 Tekkala
@@ -8942,7 +8974,7 @@ Tepsa
 Terhola
 Terioja
 Terissaari
-Terjärv
+Terjärv, Teerijärvi
 Terriniemi
 Terrisuo
 Terskanperä
@@ -8961,14 +8993,14 @@ Tervasmäki
 Tervatehdas
 Tervavaara
 Tervik
-Tervo
+Tervo, Tervon Kunta
 Tervoja
-Tervola
+Tervola, Tervolan Kunta
 Tervsund
 Terälahti
 Teräsrautela
 Terävälä
-Tesjoki
+Tesjoki, Tessjö
 Tessvärr
 Tetom
 Tetrilä
@@ -8979,7 +9011,7 @@ Teukkula
 Teuro
 Teuroinen
 Teutkoski
-Teuva, Östermark
+Teuva, Teuvan Kunta
 Tevaniemi
 Teväntö
 Thors
@@ -8999,7 +9031,7 @@ Tihusniemi
 Tihvinmäki
 Tiihala
 Tiikkaanmäki
-Tiikkajavaara
+Tiikkajavaara, Tiikkajanvaara
 Tiikkala
 Tiilikkala
 Tiilimäki, Tegelbacken
@@ -9035,14 +9067,14 @@ Tillinmäki
 Tillola
 Tilvisperä
 Timanttimaa
-Timari
+Timari, Timböle
 Timi
 Timmerbacken
 Timola
 Timonen
 Timoniemi
 Timovaara
-Timpersuntti
+Timpersuntti, Timpersunti
 Tinaselkä
 Tinkanen
 Tipas
@@ -9061,18 +9093,18 @@ Tiviänsalo
 Tjuda
 Tjärlax
 Tjäru
-Tjöck
+Tjöck, Tiukka
 Toby
 Todalen
 Toejoki
 Tohkala
 Tohloppi
-Tohmajärvi
+Tohmajärvi, Tohmajärven Kunta
 Tohmo
 Tohni
-Toholampi
+Toholampi, Toholammin Kunta
 Toija
-Toijainen
+Toijainen, Toijais
 Toijakylä
 Toijala
 Toijalan satama
@@ -9085,7 +9117,7 @@ Toimela
 Toisvesi
 Toitturi
 Toivainen
-Toivakka
+Toivakka, Toivakan Kunta
 Toivala
 Toivari
 Toivarila
@@ -9102,7 +9134,7 @@ Tokoinen
 Tokonen
 Tokrajärvi
 Tolja
-Tolkinkylä
+Tolkinkylä, Tolkby
 Tolkkinen, Tolkis
 Tollikko
 Tollionmaa
@@ -9148,7 +9180,7 @@ Torkkila
 Torkkola
 Torlahti, Torlax
 Tormua
-Tornio
+Tornio, Torneå, Torneå Stad, Tornion Kaupunki
 Tornioniemi
 Tornionmäki
 Toroppala
@@ -9156,7 +9188,7 @@ Torpinmäki
 Torppainmäki
 Torppakylä
 Torppala
-Torpparinmäki
+Torpparinmäki, Torparbacken
 Torppi
 Torrback
 Torre
@@ -9233,11 +9265,11 @@ Tuohinnonperä
 Tuohisaari
 Tuohittu
 Tuokkola
-Tuomaala
+Tuomaala, Tomasböle
 Tuomaanvaara
-Tuomala
+Tuomala, Tomasby
 Tuomarainen
-Tuomarila
+Tuomarila, Domsby
 Tuomi
 Tuomikylä
 Tuomioja
@@ -9247,7 +9279,7 @@ Tuomivaara
 Tuomoinen
 Tuopanjoki
 Tuorakka
-Tuorila, Torsby
+Tuorila, Torasbacka, Torsby
 Tuoriniemi
 Tuorsniemi, Torsnäs
 Tuovila
@@ -9267,7 +9299,8 @@ Turkhauta
 Turkia
 Turkkila
 Turkola
-Turku
+Turku, Turun Kaupunki, Åbo, Åbo Stad
+Turku, Turun seutukunta, Åbo
 Turpeenperä
 Turpeinen
 Turpio
@@ -9279,9 +9312,9 @@ Tursunperä
 Turtianniemi
 Turtola
 Turula
-Turun satama, Port of Turku
+Turun satama, Port of Turku, Turku Harbour, Åbo hamn
 Turunen
-Tuskas
+Tuskas, Tuuski
 Tusku
 Tutinpää
 Tutjunniemi
@@ -9302,8 +9335,8 @@ Tuuri
 Tuurinmäki
 Tuusjärvi
 Tuusmäki
-Tuusniemi
-Tuusula
+Tuusniemi, Tuusniemen Kunta
+Tuusula, Tusby, Tusby Kommun, Tuusulan Kunta
 Tuuvala
 Tuvesbacken
 Tuvänget
@@ -9326,11 +9359,11 @@ Tyrisevä
 Tyrjä
 Tyrjänsaari
 Tyrjänsalo
-Tyrninkylä
-Tyrnävä
+Tyrninkylä, Räminki
+Tyrnävä, Tyrnävän Kunta
 Tyrri
 Tyrväntö
-Tyrvää
+Tyrvää, Tyrvis
 Tyrväänkylä
 Tyrämäki
 Tyrävaara
@@ -9406,7 +9439,7 @@ Ullainen
 Ullava
 Ulmala
 Ulvajanniemi
-Ulvila, Ulfsby, Ulvsby
+Ulvila, Ulfsby, Ulvilan Kaupunki, Ulvilan Kunta, Ulvsby, Ulvsby Stad
 Ulvo
 Ummeljoki
 Unaja
@@ -9419,16 +9452,16 @@ Untamala
 Untamonloukko
 Untila
 Uonua
-Uotila
+Uotila, Otby, Uotkulla
 Uotsola
-Upinniemi
+Upinniemi, Obbnäs
 Uppbyn
 Uppibyn
 Urajärvi
 Urhoperä
 Urimolahti
 Urjainen
-Urjala
+Urjala, Urjalan Kunta
 Urjalankylä
 Uro
 Urola
@@ -9439,12 +9472,12 @@ Uski
 Uskila
 Uskoinen
 Usmi
-Utajärvi
-Utbyn
+Utajärvi, Utajärven Kunta
+Utbyn, Ulkokylä
 Utraslahti
 Utrasniemi
 Utrianlahti
-Utsjoki
+Utsjoki, Utsjoen Kunta
 Uttermossa
 Utti, Uttis
 Utula
@@ -9452,11 +9485,11 @@ Utö
 Uuhiniemi
 Uukuniemi
 Uura
-Uurainen
+Uurainen, Urais, Uuraisten Kunta
 Uurna
 Uuro
 Uus-Lavola
-Uusi-Aitaluotto
+Uusi-Aitaluotto, Nya Bodskär
 Uusi-Heimala
 Uusi-Koivisto
 Uusi-Kovero
@@ -9466,10 +9499,10 @@ Uusi-Timperi
 Uusi-Värtsilä
 Uusihovi
 Uusikartano
-Uusikaupunki
+Uusikaupunki, Nystad, Uudenkaupungin Kaupunki
 Uusikylä
 Uusiluoma
-Uusiniitty
+Uusiniitty, Udden
 Uusitalo
 Uusmäki
 Uussaari
@@ -9483,14 +9516,14 @@ Vaajasalmi
 Vaajasalo
 Vaakkola
 Vaaksjärvi
-Vaala
+Vaala, Svalas, Vaalan Kunta
 Vaalajärvi
 Vaalimaa
 Vaaljoki
 Vaaluvirta
 Vaani
 Vaania
-Vaanila
+Vaanila, Västerkulla
 Vaara
 Vaarala
 Vaaralahti
@@ -9499,7 +9532,8 @@ Vaarankylä
 Vaaranniva
 Vaaraslahti
 Vaarinkorpi
-Vaasa, Nikolainkaupunki, Vasa, Nikolaistad, Wasa
+Vaasa, Nikolainkaupunki, Nikolaistad, Vaasan Kaupunki, Vasa, Vasa Stad, Wasa
+Vaasa, Nikolainkaupunki, Nikolaistad, Vaasan seutukunta, Vasa, Wasa
 Vaattojärvi
 Vadanvainio
 Vadbacken
@@ -9514,7 +9548,7 @@ Vahojärvi
 Vahokoski
 Vahonen
 Vahteristo
-Vahtermetsä
+Vahtermetsä, Kelkankylä
 Vahteronmäki
 Vahterpää
 Vahterus
@@ -9547,7 +9581,7 @@ Valjoo
 Valkama
 Valkamanperä
 Valkeajärvi
-Valkeakoski
+Valkeakoski, Valkeakosken Kaupunki
 Valkeala
 Valkealuomi
 Valkeamäki
@@ -9584,7 +9618,7 @@ Valsås
 Valta
 Valtaala
 Valtee
-Valtimo
+Valtimo, Valtimon Kunta
 Valtola
 Valvatti
 Vammala
@@ -9596,13 +9630,13 @@ Vanha-Kaija
 Vanha-Koivisto
 Vanha-Lahti
 Vanhahovi
-Vanhakartano
+Vanhakartano, Gammelgård
 Vanhakoski
-Vanhakylä
+Vanhakylä, Gamla Storå
 Vanhala
 Vanhalanharju
 Vanhalinna
-Vanhamoisio
+Vanhamoisio, Gammelgård
 Vanhamylly
 Vanhamäki
 Vanhatalo
@@ -9611,15 +9645,15 @@ Vanjärvi
 Vannais
 Vannila
 Vanonen
-Vantaa
+Vantaa, Vanda, Vanda Stad, Vantaan Kaupunki
 Vantaankoski
-Vantaanlaakso
-Vantaanpuisto
+Vantaanlaakso, Vandadalen
+Vantaanpuisto, Vandaparken
 Vantas
 Vanttauskoski
-Vanttila
-Vapaala
-Vapaaniemi
+Vanttila, Fantsby
+Vapaala, Friherrs
+Vapaaniemi, Frisudden
 Varajärvi
 Varala
 Varanpää
@@ -9631,12 +9665,13 @@ Varila
 Varis-Lavola
 Varislahti
 Varisniemi
-Varissuo
+Varissuo, Kråkkärret
 Varistaipale
-Varisto
+Varisto, Varistorna
 Varjakka
 Varjoranta
-Varkaus
+Varkaus, Varkauden Kaupunki, Warkaus
+Varkaus, Varkauden seutukunta
 Varlax
 Varmo
 Varpahaiskylä
@@ -9653,7 +9688,7 @@ Varpuvaara
 Varrasperä
 Varrio
 Vartiala
-Vartiovuori
+Vartiovuori, Vårdberget
 Vartius
 Vartsaari
 Vartsala
@@ -9674,7 +9709,7 @@ Vasikka-aho
 Vasikkahaka
 Vasikkavaara
 Vaskijärvi
-Vaskiluoto
+Vaskiluoto, Vasklot
 Vaskimäki
 Vaskio
 Vaskiranta
@@ -9694,7 +9729,7 @@ Vatia
 Vatiala
 Vatisalo
 Vatjusjärvi
-Vatmusa
+Vatmusa, Vattmossen
 Vatsela
 Vatsiainen
 Vattkast
@@ -9716,7 +9751,7 @@ Vehkajoki
 Vehkajärvi
 Vehkakorpi
 Vehkala
-Vehkalahti
+Vehkalahti, Veckelax
 Vehkaoja
 Vehkaranta
 Vehkasaari
@@ -9729,7 +9764,7 @@ Vehkjärvi
 Vehko
 Vehkoja
 Vehkoo
-Vehmaa
+Vehmaa, Vehmaan Kunta, Vemo
 Vehmainen
 Vehmalainen
 Vehmas
@@ -9744,8 +9779,8 @@ Vehuvarpee
 Vehvilä
 Vehviälä
 Veijo
-Veikars
-Veikkola
+Veikars, Veikkaala
+Veikkola, Brödraby
 Veitakkala
 Veitenmäki
 Veitsiluoto
@@ -9754,7 +9789,7 @@ Veittikoski
 Vejans
 Vekka
 Vekkula
-Veklahti
+Veklahti, Vecklax
 Velaatta
 Velkmossen
 Velkua
@@ -9762,7 +9797,7 @@ Velkuankaupunki
 Vellimäki
 Vellipohja
 Vellua
-Veneheitto
+Veneheitto, Venetheitto
 Venejoki
 Venejärvi
 Venekoski
@@ -9771,7 +9806,7 @@ Veneskoski
 Venetmäki
 Venetpalo
 Venetti
-Ventelä
+Ventelä, Vendelä
 Ventjärvi
 Venturi
 Ventälä
@@ -9786,11 +9821,11 @@ Verkaperä
 Verkkoranta, Verkholm
 Verkkosuo
 Verla
-Vermuntila
-Veromiehenkylä
+Vermuntila, Vermundila
+Veromiehenkylä, Skattmansby
 Veromies
 Vertalansalmi
-Veräjämäki
+Veräjämäki, Grindbacka
 Veräjäntausta
 Vesa
 Vesajärvi
@@ -9798,14 +9833,14 @@ Vesakko
 Vesala
 Vesamäki
 Vesanka
-Vesanto
+Vesanto, Vesannon Kunta
 Vesaperä
 Vesijako
 Vesijärvi
 Vesikansa
 Vesikkola
 Vesikoski
-Vesilahti
+Vesilahti, Vesilahden Kunta, Vesilax
 Vesiluoma
 Vesiniemi
 Vesisenaho
@@ -9815,9 +9850,9 @@ Vessarinkulma
 Vestervik
 Vestlax
 Vestola
-Vestra
+Vestra, Västra
 Vesunti
-Veteli
+Veteli, Vetelin Kunta, Vetil
 Vetelä
 Veteläinen
 Vetikko
@@ -9836,7 +9871,7 @@ Vieksi
 Viemerö
 Viensuu
 Vierelä
-Vieremä
+Vieremä, Vieremän Kunta
 Viertola
 Vierumäki
 Viesimo
@@ -9855,7 +9890,7 @@ Viheriälä
 Viherlaakso
 Viherlahti
 Vihijärvi
-Vihiniemi
+Vihiniemi, Vineme
 Vihmalo
 Vihola
 Vihtakangas
@@ -9867,7 +9902,7 @@ Vihtasuo
 Vihtavaara
 Vihtavuori
 Vihteljärvi
-Vihti
+Vihti, Vichtis, Vichtis Kommun, Vihdin Kunta
 Vihtijärvi
 Vihtiälä
 Vihtola
@@ -9879,8 +9914,8 @@ Viiala
 Viiari
 Viijo
 Viikainen
-Viikeri
-Viikinäinen
+Viikeri, Vidkärr
+Viikinäinen, Viknäs
 Viikkala
 Viiksimo
 Viilala
@@ -9891,15 +9926,15 @@ Viinikkala
 Viinimäki
 Viinivaara
 Viippero
-Viirilä
+Viirilä, Virböle
 Viirinkylä
 Viirinlaakso
 Viirre
 Viiru
 Viirumäki
 Viisari
-Viisarinmäki
-Viiskorpi
+Viisarinmäki, Visarens
+Viiskorpi, Viskärr
 Viiskulma
 Viita
 Viita-aho
@@ -9917,7 +9952,7 @@ Viitamäki
 Viitaniemi
 Viitapohja
 Viitaranta
-Viitasaari
+Viitasaari, Viitasaaren Kaupunki
 Viitasperä
 Viitastenkulma
 Viitavaara
@@ -9958,7 +9993,7 @@ Villnäs
 Villuri
 Villähde
 Vilminko
-Vilniemi, Villnäs
+Vilniemi
 Vilobacka
 Vilppula
 Vilu
@@ -9967,7 +10002,7 @@ Vilulahti
 Vilunen
 Vilvainen
 Vimmunkulma
-Vimpeli
+Vimpeli, Vimpelin Kunta, Vindala
 Vinkkilä
 Vinnari
 Vinne
@@ -9980,7 +10015,7 @@ Viranmaa
 Virasoja
 Virenoja
 Virkala
-Virkkala
+Virkkala, Virkby
 Virkkula
 Virkkunen
 Virmaila
@@ -9990,15 +10025,15 @@ Viro
 Virojoki
 Virojärvi
 Virokoski
-Virolahti, Vederlax kyrkby
+Virolahti, Vederlax, Vederlax kyrkby, Virolahden Kirkonkylä, Virolahden Kunta
 Vironmäki
 Virpelä
 Virranniemi
 Virransalmi
-Virrat
+Virrat, Virdois, Virtain Kaupunki
 Virta
 Virtaa
-Virtaala
+Virtaala, Strömsberg
 Virtala
 Virtasalmi
 Virttaa
@@ -10010,7 +10045,7 @@ Visulahti
 Visuri
 Visuvesi
 Vit
-Vitick
+Vitick, Vitikka
 Vitikkala
 Vitsai
 Vitsand
@@ -10038,14 +10073,14 @@ Voivala
 Vojakkala
 Vols
 Voltti, Voltis
-Vorna
+Vorna, Vuorna
 Voutila
 Vreta
 Vuohenmaa
 Vuohijoki
 Vuohijärvi
 Vuohiluoma
-Vuohimäki
+Vuohimäki, Getberg
 Vuohiniemi
 Vuohinki
 Vuohtomäki
@@ -10082,7 +10117,7 @@ Vuori
 Vuorijoki
 Vuorijärvi
 Vuorila
-Vuorilahti
+Vuorilahti, Bergvik
 Vuorimäki
 Vuorinen
 Vuoriniemi
@@ -10090,7 +10125,7 @@ Vuorlahti
 Vuornos
 Vuosanka
 Vuoskoski
-Vuosnainen
+Vuosnainen, Osnäs
 Vuostimo
 Vuotinainen
 Vuotjärvi
@@ -10104,7 +10139,7 @@ Vähikkälä
 Vähimaa
 Vähä Laukkoski, Lilla Lövkoski
 Vähä Raveanmäki
-Vähä-Evo
+Vähä-Evo, Lill Evois
 Vähä-Moisio
 Vähä-Muori
 Vähä-Pento
@@ -10115,16 +10150,16 @@ Vähä-Sorvasto
 Vähä-Säkylä
 Vähä-Uski
 Vähä-Äiniö
-Vähäheikkilä
+Vähäheikkilä, Lill Heikkilä
 Vähähiisi
 Vähäjoki
 Vähäkangas
 Vähäkylä
-Vähäkyrö, Lillkyro
+Vähäkyrö, Lillkyro, Vähäykyrö
 Vähäperä
 Vähärauma, Lillraumo
 Väinänperä
-Väinölä
+Väinölä, Skogsängen
 Väipäre, Vägby
 Väisälä
 Väisälänmäki
@@ -10143,7 +10178,7 @@ Välisalmi
 Välitalo
 Välivaara
 Välkkilä
-Vällskog
+Vällskog, Velskola
 Vältinperä
 Vännilä
 Vänninmäki
@@ -10171,11 +10206,11 @@ Västergård
 Västerhankmo
 Västerillo
 Västerkalax
-Västerkyrkoby
+Västerkyrkoby, Länsikirkonkylä
 Västerkärret
 Västermark
 Västermunkby
-Västerretais
+Västerretais, Retainen
 Västerskog
 Västersolf
 Västersundsby
@@ -10189,7 +10224,7 @@ Västinniemi
 Västra Rösund
 Västra Saverkeit
 Västra ändan
-Väståboland, Pargas
+Väståboland, Länsi-Turunmaa
 Vätti
 Vättilä
 Vättlax
@@ -10218,19 +10253,19 @@ Vårnäs
 Våtskär
 Völimaa
 Vörlö
-Vörå
-Vöyrinkaupunki
+Vörå, Vöyri
+Vöyrinkaupunki, Vöråstan
 Wredeby
 Ybbersnäs
 Yijälä
-Ykspihlaja
+Ykspihlaja, Yxpila
 Ylenmäki
 Ylentola
 Ylhäinen
 Yli Sipola
-Yli-Ii
+Yli-Ii, Överijo
 Yli-Ilvesjoki
-Yli-Kannus
+Yli-Kannus, Ylikannus
 Yli-Kerava
 Yli-Kieri
 Yli-Kiviranta
@@ -10244,7 +10279,7 @@ Yli-Muonio
 Yli-Nampa
 Yli-Näljänkä
 Yli-Raumo
-Yli-Siurua
+Yli-Siurua, Siurua
 Yli-Tannila
 Yli-Tynkä
 Yli-Vojakkala
@@ -10255,7 +10290,7 @@ Ylijoki
 Ylijärvi
 Ylikantola
 Ylike
-Ylikiiminki
+Ylikiiminki, Överkiminge
 Ylikollaja
 Ylikoski
 Ylikylä
@@ -10272,17 +10307,18 @@ Yliranta
 Yliselkä
 Yliskallio
 Yliskulma
-Yliskylä
+Yliskylä, Överby gård
 Ylisotkamo
 Ylistaro
 Ylistaron Jauri
 Ylitalo
-Ylitornio
+Ylitornio, Ylitornion Kunta, Övertorneå
 Yliutos
 Ylivalli
 Ylivesi
 Yliveteli
-Ylivieska
+Ylivieska, Ylivieskan Kaupunki
+Ylivieska, Ylivieskan seutukunta
 Yliviirret
 Ylivuokki
 Ylivuotto
@@ -10293,11 +10329,11 @@ Yltöinen
 Ylä-Järvinen
 Ylä-Jääski
 Ylä-Kintaus
-Ylä-Koli
+Ylä-Koli, Yläkoli
 Ylä-Kolkki
 Ylä-Kuona
 Ylä-Luosta
-Ylä-Malmi
+Ylä-Malmi, Övre Malm
 Ylä-Mikkola
 Ylä-Partala
 Ylä-Penilä
@@ -10317,17 +10353,17 @@ Yläpää
 Yläsiikajärvi
 Ylästö
 Ylöjänpää
-Ylöjärvi
+Ylöjärvi, Ylöjärven Kaupunki
 Ylöjönmäki
 Ylölä
-Ylönkylä, Överby
+Ylönkylä
 Ylöpirtti
 Ylötkylä
 Ylövesi
 Yppäri
 Ypykkä
 Ypykkävaara
-Ypäjä
+Ypäjä, Ypäjän Kunta
 Yrjensbacken
 Yrjänäinen
 Yrjänänloukko
@@ -10351,7 +10387,7 @@ Yövesi
 Zachris
 vesterby
 Äetsä
-Ähtäri
+Ähtäri, Etseri, Ähtärin Kaupunki
 Ähtärinranta
 Äijälä
 Äijänneva
@@ -10382,12 +10418,13 @@ vesterby
 Äyrinmäki
 Äyskoski
 Äystö
-Äänekoski
-Åback
+Äänekoski, Äänekosken Kaupunki
+Äänekoski, Äänekosken seutukunta
+Åback, Peninkylä
 Åbacken
 Åberg
 Åby
-Åby industriområde
+Åby industriområde, Åbyn teollisuusalue
 Åbyggändan
 Ågrenarna
 Åkerbacken
@@ -10403,7 +10440,7 @@ vesterby
 Åselholm
 Åsenby
 Åvensor, Ahvensaari
-Åvist
+Åvist, Jokihauta
 Öja
 Öjby
 Öjna
@@ -10415,7 +10452,7 @@ vesterby
 Önkköri
 Örarna
 Ören
-Örkiängen
+Örkiängen, Örkkiniitty
 Östanberg
 Östanå
 Östensö
@@ -10426,7 +10463,7 @@ vesterby
 Österhankmo
 Österholmen
 Österkalax
-Österkyrkoby
+Österkyrkoby, Länsikirkonkylä
 Östermark
 Österretais
 Östersidan
@@ -10435,16 +10472,16 @@ vesterby
 Östersolf
 Österändan
 Östra Saverkeit
-Östra Sidan
+Östra Sidan, Itäpuoli
 Överbråtö
 Överby
 Överbyn
 Överjeppo
 Övermalax
-Övermark
+Övermark, Ylimarkku
 Överpurmo
 Översundom
 Överölmos
-Övitsby
-Övitsböle
+Övitsby, Yövilä
+Övitsböle, Hyövinkylä
 Övre byn
