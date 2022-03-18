@@ -68,7 +68,7 @@
 'Umayr, 'Umair
 'Umayrīyah, 'Amairiya
 'Uqaylat al Laban, عقيلة اللبن
-'Uqdah, 'Aqda, 'Uqadah
+'Uqdah, 'Uqadah, Aqda
 'Uqlat Ibn Dānī, عقلة ابن داني
 'Uqlat Ibn Kulayb, عقلة ابن كليب
 'Uqlat aş Şuqūr, 'Aqlat aş Şuqūr, 'Uglat aş Şuqūr, 'Uqlat al Quşur, Aqlat al Suqur, عقلة الصُّقور
@@ -185,7 +185,7 @@ Ad Dīrīyah, الدِّيريَّة
 Ad Dūr
 Adh Dhaghārīr, Ad Daghārīr, Daghārīr, Dhagharir, Z̧aghārīr
 Adh Dhanbah, الذنبة
-Adh Dhibiyah, الذيبية, الذيبية في القصيم, الذيبيه القصيم, الذيبيه بالقصيم, ذيبية القصيم, ذيبيه
+Adh Dhibiyah, الذيبية بالقصيم, الذيبية في القصيم, الذيبيه, الذيبيه القصيم, ذيبية القصيم, ذيبيه
 Adh Dhībah
 Afif
 Aftarā
@@ -419,7 +419,7 @@ Al Furūthī, Al Farūthī, الفروثي
 Al Fuwayliq, الفويلق, القويلق
 Al Fuḑūl, Al-Fudhul, El Fadhul, Fadhūl, Fudhūl
 Al Fā'ijah, Al Fayuah, Al Fāyijah
-Al Fāw, Qaryat al Fāw, الفاو, قريه الفاو
+Al Fāw, Qaryat al Fāw, الفاو, قرية الفاو
 Al Fāḑilī, الفاضِلي
 Al Fīj, الفيج
 Al Fīwān
@@ -738,7 +738,7 @@ Al Mubārak, Al Umbārak
 Al Mudarra'ah
 Al Mudarraj
 Al Mudawwarah
-Al Mufriḩāt, Mufarriḩāt, Mufriḩāt, مفرحات
+Al Mufriḩāt, Mufarrihat, Mufriḩāt, مفرحات
 Al Mughabbishīyah, المغبشية
 Al Mugharah
 Al Mughaydir, Al Mugheidir
@@ -1033,7 +1033,7 @@ An Niswān
 An Niz̧īm, النِّظيم
 An Nu'ayrīyah, An Nu'ayrīya, Muḩāfaz̧at an Nu'ayrīyah, Naairiya, Nariya, النعيرية, محافظة النعيرية
 An Nu'mān, Na'aman
-An Nubqīyah, Nabqiya, Nabqīyah, النُّبقيَّة
+An Nubqīyah, An Nabqīyah, Nabqiya, النُّبقيَّة
 An Nufayyid, النُّفيِّد
 An Nughayq, النغيق
 An Nukhayl, النخيل
@@ -1278,7 +1278,7 @@ Az Zughayn, Uzughain, الزُّغَين
 Az Zughbah
 Az Zuhayrīyah, Az Zihayrīyah, الزّهيريَّة
 Az Zulfī, Az Zilfī, Muḩāfaz̧at az Zulfī, Zilfi, الزلفي, الزُّلفِي, محافظة الزلفي
-Az Zumāmīyah, Al Zumamiyah, الزمامية
+Az Zumāmīyah, Al Zūmamiyah, الزمامية
 Az Zurra'
 Az Zuwayb, Az Zurayb, الزريب
 Az Zuwaydīyah, Al Zuwaydiyah, الزويدية
@@ -1617,7 +1617,7 @@ Jawz
 Jawzān
 Jayaniah, Al Mukanbil, Mukambal
 Jazīrah, Jazira
-Jeddah, Djidda, Gedda, Jaddah, Jedda, Jidda, Jiddah, Juddah, جدة
+Jeddah, Djidda, Gedda, Jaddah, Jedda, Jidda, Jiddah, Juddah, جدّة
 Jibila, Jabala
 Jidhdhānah
 Jidānah
@@ -1627,7 +1627,7 @@ Jilhayah
 Jimājim, جماجم
 Jirāb, 'Ain Jarrab, Umm Juraib, Umm Jurayb, جِراب
 Jirūbah
-Jizan, Djayzān, Djāzān, Gazan, Gizán, Jaizan, Jezan, Jāzān, Qīzān, جازان
+Jizan, Djayzān, Djāzān, Gazan, Gizan, Jaizan, Jazan, Jezan, Qīzān, جازان
 Jubbah, Gubba, Jubba, جبة
 Judayrah, Judaira, Judeira
 Jufayfā', جفيفاء
@@ -2238,7 +2238,7 @@ Thuwayr, Thuwair
 Thādij, ثادج
 Thādiq, Muḩāfaz̧at Thādiq, Thādig, Thādik, ثادق, محافظة ثادق
 Thāj, Thadj, Tāj, ثاج
-Tibrāk, طبراك
+Tibrāk, تبراك
 Timrīyah, تمرية
 Tindaḩah, Tindaha
 Tumayr, تمير
@@ -2442,7 +2442,7 @@ smiraa
 Şubḩ, Şobh
 Şufaynah, Sifeina, Sufaina
 Şufayyān, صفيان
-Şulbūkh, As Salbūkh, Salbūkh, صلبوخ
+Şulbūkh, As Salbūkh, Şalbūkh, صلبوخ
 Şum'ah
 Şumaymah, Somaimah, Sumaima
 Şuwayr
@@ -2478,7 +2478,7 @@ smiraa
 Ḑirī
 Ḑubay'ah, ضُبَيعة
 Ḑurm, Dhurm, Dhurum
-Ḑurumā, Adh Dharma, Dhruma, Durma, Muḩāfaz̧at Ḑurumā, ضرما, محافظة ضرما, Ḑarmā
+Ḑurumā, Adh Dharma, Dhruma, Muḩāfaz̧at Ḑurumā, ضرما, محافظة ضرما, Ḑarmā, Ḑurmā
 Ḑīdah, ضيدة
 Ḩabīl, Suk-el-Habil, Suq el Habil, Sūq al Ḩabīl
 Ḩadabah, Hadaba, Hadba
@@ -2515,7 +2515,7 @@ smiraa
 Ḩamḑah, Hamdha, Hamdha Oasis
 Ḩanak
 Ḩanīdh, حنيذ
-Ḩaql, El Haql, Hagl, Hagul, Haikl, Haqal, Muḩāfaz̧at Ḩaql, al Haql, حقل, محافظة حقل, Ḥakl, Ḩegl
+Ḩaql, Al Haql, El Haql, Hagl, Hagul, Haikl, Haqal, Muḩāfaz̧at Ḩaql, حقل, محافظة حقل, Ḥakl, Ḩegl
 Ḩaqqaq
 Ḩaqw, Ḩaqū
 Ḩarajah, Ḩarajā
@@ -2553,7 +2553,7 @@ smiraa
 Ḩumr
 Ḩumrān, Hamran
 Ḩunayz̧il, Hanaidhil, Hunaidhil, حُنَيظِل
-Ḩuraymilā', Al Huraimala, Haraimalah, Haraimlah, Huraimala, Huraymala, Muḩāfaz̧at Ḩuraymilā', حريملا, محافظة حريملاء, Ḩuraymalah, Ḩuraymilah
+Ḩuraymilā', Al Huraimala, Haraimalah, Haraimlah, Huraimala, Huraymala, Muḩāfaz̧at Ḩuraymilā', حريملاء, محافظة حريملاء, Ḩuraymalah, Ḩuraymilah
 Ḩusaynīyah, Husainiya, Husainiyah
 Ḩusnah
 Ḩuwaylān, حُوَيلان

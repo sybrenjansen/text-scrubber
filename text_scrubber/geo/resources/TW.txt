@@ -10,7 +10,7 @@ Afazhuang, A-fa-chuang, A-fo-chuang, Afajhuang
 Ahuawo, A-hua-wo
 Aiding, Ai-ting, Ai-ting-li, I-ting, Yai-ting-li
 Aidingliao, Ai-ting-liao, Yai-ting-liao
-Aiguopu, Ai-ko-p'u, Ai-ko-p'u-she, Ai-ko-p'u-ts'un, Ai-kuo-p'u, Ai-p'u
+Aiguopu, Ai-ko-p'u, Ai-ko-p'u-she, Ai-ko-p'u-ts'un, Ai-kuo-pu, Ai-p'u
 Aijianzi, Ai-chien-tzu, Ai-lang-tzu, Aijianzih
 Aijie, Ai-chieh, Yai-chieh, Yai-chien
 Aikou, Ai-k'o, Ai-k'ou, Yai-k'ou
@@ -479,7 +479,7 @@ Beiye, Pei-yeh, Pei-yeh-ts'un
 Beiying, Pei-ying
 Beiyuan, Hua-k'u, Pei-yüan, Pei-yüan-ts'un
 Beiyuanlikeng, Pei-yüan-li-k'eng, Yüan-k'eng-li
-Beizhen, Beijhen, Hou-chuang, Pei-ch'üan, Pei-chen, Pei-chen-ts'un, Pei-chün
+Beizhen, BeiJhen, Hou-chuang, Pei-ch'üan, Pei-chen, Pei-chen-ts'un, Pei-chün
 Beizhongshan, Beijhongshan, Pei-chung-shan
 Beizhuang, Beijhuang, Pei-chuang, Pei-chuang-ts'un
 Beizhuangzi, Beijhuangzih, Pei-chuang-tzu
@@ -582,7 +582,7 @@ Bogonglong, Po-kung-lung
 Bogonglun, Po-kung-lun
 Bogongxia, Bogongsia, Po-kung-hsia
 Bojiacun, Po-chia, Po-chia-ts'un
-Boluocun, Peng-p'o-ch'üeh, Po-lo-ts'un
+Boluocun, P'o-lo-ts'un, Peng-p'o-ch'üeh
 Boluowen, Boluowun, Po-lo-wen
 Bopozhuang, Bopojhuang, Po-p'o-chuang
 Boyan'an, Po-yen-an
@@ -705,7 +705,7 @@ Caoshanjiao, Ts'ao-shan, Ts'ao-shan-chiao
 Caoshanlukou, Niu-lan-p'ing, Ts'ao-shan-lu-k'ou
 Caoshanting, Ts'ao-shan-ting, 草山頂
 Caoshanzhuang, T'sao-shan-chuang, Ts'ao-shan-she
-Caotan, Ts'ao-t'an, Ts'ao-t'an-pu
+Caotan, Ts'ao-T'an, Ts'ao-t'an-pu
 Caotian, Ts'ao-t'ien
 Caotun, Ts'ao-t'un, Ts'ao-t'un-chuang
 Caowazi, Caowazih, Ts'ao-wa-tzu, 草凹仔
@@ -750,8 +750,8 @@ Chaitudigong, Ch'ai-t'u-ti-kung, Fu-te, Tsao-tzu-liao, 柴土地公
 Chaiwei, Ch'ai-wei
 Chajiao, Ch'a-chiao, Ta-pao
 Chaliao, Ch'a-liao
-Chamoudan, Cha-mou-tan
-Chan-liao, Jhanliao, 棧寮
+Chamoudan, Ch'a-mou-tan
+Chan-liao, Jhanliao, Zhanliao
 Chang'an, Ch'ang-an, Ch'ang-an-li, Ch'ang-an-ts'un, Hsi-kua-liao, Hsia-wei-liao, Hsin-liao, Shih-kua-liao, Ssu-chiao-t'ing, 長安
 Chang-hua, Chang Hwa, Chang-hua Nan-pu, Chang-hua North, Chang-hua Pei-pu, Chang-hua-hsien, Chang-hua-shih, Chang-hua-south, Changhua, Jhanghua, 彰化
 Changbin, Ch'ang-pin, Chia-Cho-Wan, Chia-tsou-wan, Chia-tsou-wan-wei, 長濱
@@ -936,7 +936,7 @@ Choushuigou, Ch'ou-shui-kou, Choushueigou
 Choushuigoutou, Ch'ou-shui-kou-t'ou, Choushueigoutou
 Choutengkeng, Ch'ou-t'eng-k'eng
 Chu-lin, Chu-lin-ts'un, Dajhulin, Ta-chu-lin
-Chuan-ching, Chuan-ching-li, Chuan-tzu-ching, Jhuanjing, 磚井
+Chuan-ching, Chuan-ching-li, Chuan-tzu-ching, Jhuanjing, Zhuanjing
 Chuanbanqiao, Ch'uan-pan-ch'iao, Chuanbanciao
 Chuandihu, Ch'uan-ti-hu
 Chuandiwo, Ch'uan-ti-wo
@@ -994,7 +994,7 @@ Cihu, Cihhu, Tz'u-hu
 Cihua, Tz'u-hua, Tz'u-hua-ts'un
 Ciqiaokeng, Cihciaokeng, Sha-ch'üan-k'eng, Sha-kou-k'eng, Tz'u-ch'iao-chieh, Tz'u-ch'iao-k'eng
 Citong, Cihtong, La-t'ung-chiao, Tz'u-t'ung, Tz'u-t'ung-chiao, Tz'u-t'ung-chuang, Tz'u-t'ung-ts'un
-Citongjiao, Chih-t'ung, Cihtongjiao, Hsin-wei-chuang, La-t'ung-chiao, Shan-chu-men, T'ung-liao, Tz'u-t'ung, Tz'u-t'ung-chiao
+Citongjiao, Chih-t'ung, Cihtongjiao, Hsin-wei-chuang, La-t'ung-chiao, Shan-chu-men, T'ung-liao, Tz'u-t'ung, Tz'u-tung-chiao
 Citongkeng, Cihtongkeng, Tz'u-t'ung-k'eng
 Citongliao, Cihtongliao, Tz'u-t'ung-liao
 Citongqi, Cihtongci, Li-t'ung-ch'i, Tz'u-t'ou-ch'i, Tz'u-t'ung-ch'i
@@ -1089,7 +1089,7 @@ Dacuonei, Ta-ts'o-nei
 Dadaocheng, Ta-ho-ch'eng, Ta-tao-ch'eng
 Dadaogong, Ta-tao-kung
 Dade, Lu-chu-hou, Ta-te, Ta-te-she, Ta-te-ts'un
-Dade'an, Ta-pu-te-an-she, Ta-te-an
+Dade'an, Ta-pu-te-an-she, Ta-te
 Dadexingli, Ta-te-hsing-li
 Dadi, Ta-ti
 Dadiaoliang, Shang-tiao-liang, Ta-tiao-liang, Tiao-liang
@@ -1263,7 +1263,7 @@ Danda, Tan-ta, Tan-ta-she
 Dandongtou, Tan-tung-t'ou
 Danei, Nei-chuang, Ta-Na, Ta-nei
 Danfeng, Danfong, Tan-feng, Tan-feng-li
-Dangbatu, T'ang-pa-tieh, T'ang-pa-tien, Tang-pa-t'u, Tang-pa-tung
+Dangbatu, T'ang-pa-t'u, T'ang-pa-tieh, T'ang-pa-tien, Tang-pa-tung
 Dangdishui, Dangdishuei, T'ang-ti-shui, Tang-t'ieh-shui
 Danhai, Tan-hai
 Daniao, Shih-tzu-shih, Ta-niao
@@ -1492,7 +1492,7 @@ Dazhuhu, Dajhuhu, Ta-chu-hu
 Dazhukeng, Dajhukeng, T'a-chih-k'eng, Ta-chu-k'eng
 Dazhulin, Chu-tzu-lin, Dajhulin, Ta-chu-lin
 Dazhulun, Dajhulun, Ta-chu-lun
-Dazhuwei, Ching-yüan, Dajhuwei, T'an-ta, Ta-chu, Ta-chu-wei, Ta-chu-yüan (1)
+Dazhuwei, Ching-yüan, Dajhuwei, T'an-ta, Ta-chu, Ta-chu-wei, Ta-chu-yüan
 De'anliao, Te-an-liao
 Debaji, Te-pa-chi
 Decheng, Te-ch'eng
@@ -2279,7 +2279,7 @@ Fenshui, Fen-shui, Fenshuei, P'en-shui
 Fenshuihen, Fen-shui-hen, Fenshueihen, 分水峎
 Fenshuilang, Fen-shui-lang, Fenshueilang
 Fenshuiliao, Fen-shui-liao, Fenshueiliao
-Fenshuiling, Fen-shui-ling, Feng-shui-ling, Fenshueiling
+Fenshuiling, Fen-shui Ling, Feng-shui-ling, Fenshueiling
 Fenshuilong, Fen-shui-lung, Fenshueilong
 Fenshuilun, Fen-shui-lun, Fenshueilun, Shu-lang, Shu-lang-liao
 Fentou, Fen-t'ou
@@ -2415,7 +2415,7 @@ Gangzilin, Gangzihlin, Kang-lin, Kang-lin-ts'un, Kang-tzu-lin
 Gangziping, Chiang-tzu-p'ing, Gangzihping, Kang-tzu-p'ing
 Gangziqian, Ch'ien-tzu-chiang, Chiang-chien, Chiang-chien-ts'un, Chiang-tzu-ch'ien, Gangzihcian, Kang-ch'ien, Kang-ch'ien-ts'un, Kang-tzu-ch'ien
 Gangzitou, Chiang-tzu-t'ou, Gangzihtou, Kang-tzu-t'ou
-Gangziwei, Chiang-tzu-wei, Gangzihwei, Hsü-chia-ts'un, Kang-tzu-wei, Kang-wei, Kang-wei-ts'un
+Gangziwei, Chiang-tzu-wei, Gangzihwei, Hsü-chia-ts'un, K'ang-wei, Kang-tzu-wei, Kang-wei-ts'un
 Gangzizui, Gangzihzuei, Kang-tzu-tsui
 Gangzui, Chiang-tsui, Chiang-tsui-li, Chiang-tsui-ts'un, Chiang-tzu-tsui, Gangzuei, Kang-tsui
 Ganjiao, Kan-chiao, Nei-kan-chiao
@@ -2638,7 +2638,7 @@ Guanshan, A-li-kuan, Kuan-shan, Kuan-shan-chen, Li-lung
 Guanshicuo, Guanshihcuo, Kuan-shih-ts'o
 Guanshuiwo, Kuan-shui-wo
 Guanshun, Kuan-shun
-Guantian, Kuan-t'ien, Kuan-t'ien-chuang, Kuan-t'ien-ts'un
+Guantian, Kuan-t'ien-chuang, Kuan-t'ien-ts'un, Kuan-tien
 Guanwu, I-mao-li, Kuan-wu, Mao-i-li, Mao-i-ts'un
 Guanxi, Guansi, Hsien-ts'ai-p'eng, Kuan-hsi, Kuan-hsi-chen, Kuan-hsi-chuang
 Guanyebu, Kuan-ti-pu, Kuan-yeh-pu
@@ -2763,7 +2763,7 @@ Guoshengjing, Kuo-sheng-ching, Kuo-sheng-li
 Guotangding, Kuo-t'ang-ting, Ts'ai-t'ang-ting
 Guotian, Kuo-t'ien, Kuo-t'ien-ts'un
 Guotianzi, Kuo-t'ien-tzu
-Guoxi, Guosi, Kuo-Ch'i, Kuo-ch'i-ts'un, Kuo-hsi, Kuo-hsi-ts'un, Ying-hsiang
+Guoxi, Guosi, Kuo-ch'i, Kuo-ch'i-ts'un, Kuo-hsi, Kuo-hsi-ts'un, Ying-hsiang
 Guoxicheng, Guosicheng, Kuo-ch'i-ch'eng, Kuo-hsi-ch'eng
 Guoxiliao, Chin-shui, Guosiliao, Kuo-hsi-liao
 Guoxing, Guosing, Kuo-hsing
@@ -2932,7 +2932,7 @@ Hengwo, Heng-wo
 Hengxi, Heng-ch'i, Heng-hsi, Hengsi
 Hengxitou, Heng-hsi-t'ou, Hengsitou
 Hengzhen, Heng-ch'ou, Heng-chen, Hengjhen
-Hengzhending, Heng-ch'üan-ting, Heng-chen-t'ou, Heng-chen-ting, Heng-chun-ting, Hengjhending
+Hengzhending, Heng-ch'üan-ting, Heng-chen-t'ou, Heng-chen-ting, Heng-chün-ting, Hengjhending
 Hengzhenzhuang, Heng-ch'üan, Heng-chen-chuang, Heng-chün, Heng-chün-chuang, Hengjhenjhuang, Hung-ch'uan
 Hepai, Ho-p'ai
 Heping, Feng-yüan, Feng-yüan-she, Ho-p'ing, Ho-p'ing-li, Ho-p'ing-ts'un, Ho-p'ing-ts'un-lo, Ho-ts'o, Ho-ts'o-li, Li-t'ou-ts'o, Mai-pa-lai, Mai-pa-mai-she, Nan-shih, Nan-shih-ts'un, Pai-tzu-pai, Pai-tzu-pai-she, Shao-lai, Shao-lai-p'ing, Shih-tzu, Shih-tzu-ts'un, Yen-pien
@@ -3099,7 +3099,7 @@ Houpanshan, Hou-p'an-shan, Hou-p'an-ts'un
 Houpi, Hou-p'i, Hou-p'i-ts'un, Hou-pei-ts'un
 Houpou, Hou-p'ou, Hou-pu
 Houpouzi, Hou-p'ou-tzu, Houpouzih
-Houpoziqiao, Hou-p'o-tzu-ch'iao, Hou-p'u-tzu-chiao, Houpozihciao, 後朴子橋
+Houpoziqiao, Hou-p'o-tzu-chiao, Hou-p'u-tzu-chiao, Houpozihciao, 後朴子橋
 Housha, Hou-sha
 Houshan, Hou-shan
 Houshankeng, Hou-shan-k'ang, Hou-shan-k'eng
@@ -3144,7 +3144,7 @@ Hsien-chi, Hsien-chi-ts'un
 Hsin-hsia-li
 Hsin-shang, Hsin-shang-li
 Hsin-sheng, Hsin-sheng-li
-Hsinchu, Hsin-chu, Hsin-chu-hsien, Hsin-chu-shih, Sinjhu Shih, Sinjhushih, Xinzhu Shi, 新竹市
+Hsinchu, Hsin-chu, Hsin-chu-hsien, Hsin-chu-shih, Sinjhu Shih, Sinjhushih, Xinzhu Shi, Xinzhushi
 Hua-shan-li
 Huacaokeng, Hua-ts'ao-k'eng
 Huacaolin, Hua-ts'ao-lin
@@ -3162,7 +3162,7 @@ Hualien City, Hua Lien Kang, Hua-lien, Hua-lien-chiang, Hua-lien-hsien, Hua-lien
 Hualong, Hua-lung
 Huamei, Hsi-pao, Hsi-pao-ts'un, Hua-mei
 Huangcaogang, Huang-ts'ao-kang
-Huangcuo, Huang-t'so, Huang-wu
+Huangcuo, Huang-ts'o, Huang-wu
 Huangcuoke, Huang-ts'o-k'o
 Huangcuoliao, Huang-ts'o-liao
 Huangcuoxiang, Huang-ts'o-hsing, Huangcuosiang
@@ -3411,7 +3411,7 @@ Jiangxiliao, Chiang-hsi-liao, Jiangsiliao
 Jiangxilin, Chiang-hsi-lin, Chiang-hsi-shan-lin, Jiangsilin
 Jiangyuan, Chiang-yüan
 Jiangzikeng, Chiang-tzu-k'eng, Jiangzihkeng
-Jiangziliao, Ch'iang-tzu-liao, Chang-tzu-liao, Jiangzihliao, Kai-tzu-liao
+Jiangziliao, Chang-tzu-liao, Chiang-tzu-liao, Jiangzihliao, Kai-tzu-liao
 Jianhe, Chien-ho, Chiu-she-ma-kan, Hsin-she-ma-kan, Shang-chien-ho
 Jianhou, Chien-hou
 Jianianbang, Chia-nien-pang
@@ -3535,12 +3535,12 @@ Jingbuliao, Ching-pu, Ching-pu-liao
 Jingbuqi, Ching-pu-ch'i, Jingbuci
 Jingbuzi, Ching-pu-tzu, Jingbuzih
 Jingfancun, Ch'ing-fan-wu, Ching-fan-ts'un
-Jingfeng, A-kou-liao, Ching-feng, Hou-liao, Jingfong
+Jingfeng, A-hou-liao, A-kou-liao, Ching-feng, Jingfong
 Jingguan, Ching-kuan, Ching-kuan-she, T'o-lo-k'u-she, T'o-lu-k'u
 Jingjiao, Ching-Chiao, Ching-chiao-ts'un
 Jingkoucuo, Ching-k'ou-ts'o, Ching-k'ou-ts'un
 Jingliao, Ching-liao, Mo-lin-ts'un
-Jinglun, Ching-lun, Pu-ch'iang-lun
+Jinglun, Ching-lun, Pu-chiang-lun
 Jingmei, Chia-wan, Ching-mei
 Jingmian, Ching-mein, Ching-mien
 Jingmianshanlun, Ching-mien-shan-lun
@@ -3734,7 +3734,7 @@ Jiuxionggen, Chiu-hsiung-ken, Chiu-hsung-ken, Jiousyonggen, 九芎根
 Jiuxionghu, Chiu-ch'iung-hu, Chiu-hsiung, Chiu-hsiung-hu, Jiousyonghu, 九芎湖
 Jiuxiongjiao, Chiu-hsiung-chiao
 Jiuxiongkeng, Chiu-hsiung-k'eng, Jiousyongkeng, 九芎坑
-Jiuxionglin, Chiu-ch'iung-lin, Chiu-hsiung, Chiu-hsiung-lin (2), Chiu-hsiung-lin-chiao, Chiu-hsiung-ts'un, Hsiung-lin-chiao, Jiousyonglin, Ta-lin, Ta-lin-ts'un, Ta-nan-chiu-hsiung-lin, 九芎林
+Jiuxionglin, Chiu-ch'iung-lin, Chiu-hsiung, Chiu-hsiung-lin, Chiu-hsiung-lin-chiao, Chiu-hsiung-ts'un, Hsiung-lin-chiao, Jiousyonglin, Ta-lin, Ta-lin-ts'un, Ta-nan-chiu-hsiung-lin, 九芎林
 Jiuxiongling, Chiu-ch'iung-ling, Chiu-hsiung-ling, Jiousyongling, 九芎嶺
 Jiuxiongping, Chiu-ch'iung-p'ing, Chiu-hsiung-p'ing, Jiousyongping, 九芎坪
 Jiuxizhou, Chiu-ch'i-chou, Chiu-hsi-chou, Jiousijhou
@@ -3830,7 +3830,7 @@ Kanzidingshan, K'an-tzu-ting-shan, Kanzihdingshan
 Kanzijiao, Ch'ien-tzu-chiao, Fu-chi-ts'un, K'an-tzu-chiao, K'en-tzu-chiao, Kanzihjiao, Shao-nien-fu-yü-yu-än
 Kanzitou, K'an-tzu-t'ou, Kanzihtou
 Kao-sung, Kao-sung-ts'un, Tz'u-ts'ung-chiao
-Kaohsiung, Gaosyongshih, Gaoxiong, Gaoxiongshi, Kao-hsiung, Kao-hsiung-shih, Kaohsiung City, Takao, 高雄巿
+Kaohsiung, Gaosyongshih, Gaoxiong, Kao-hsiung, Kao-hsiung-shih, Kaohsiung City, Takao, 高雄巿, 高雄市
 Kaojian, Kao-chien, Kao-chien-ts'un
 Kaoqijiao, K'ao-ch'i-chiao, Kaocijiao
 Kaoshitan, K'ao-shih, K'ao-shih-t'an, K'ao-shih-ts'un, Kaoshihtan
@@ -3846,7 +3846,7 @@ Kecheng, K'o-ch'eng, K'o-ch'eng-li, K'o-jen-ch'eng
 Kecuo, K'o-ts'o
 Kecuokeng, K'o-ts'o-k'eng
 Kedi, K'o-ti
-Keelung, Chi-lung, Chi-lung-shih, Jilong, Jilong Shi, Jilong Shih, Jilongshih, 基隆市
+Keelung, Chi-lung, Chi-lung Shih, Jilong Shi, Jilong Shih, Jilongshi, Jilongshih, 基隆
 Kejian, Ho-k'o-chiang, Ho-k'o-kang, K'o-ch'üeh-kang, K'o-chien, 蚵間
 Kejiazhuang, K'o-chia-chuang, Kejiajhuang
 Kekegang, Ho-k'o-chiang, K'o-ch'üeh-kang, K'o-k'o-kang
@@ -4265,7 +4265,7 @@ Liulucuo, Lioulucuo, Liu-lu-ts'o
 Liumagou, Liu-ma-kou, Lü-ma-chiao
 Liumao'an, Lioumao'an, Liu-mao-an, Liu-mao-an-she, Mao-an
 Liuqiuzi, Liouciouzih, Liu-ch'iu, Liu-ch'iu-ts'un, Liu-ch'iu-tzu
-Liuquwo, Lioucyuwo, Liu-ch'ü-wo
+Liuquwo, Lioucyuwo, Liu-ch'u-wo
 Liushekeng, Lioushekeng, Liu-she-k'eng
 Liushijia, Lioushihjia, Liu-shih-chia
 Liushishi, Lioushihshih, Liu-shih-shih
@@ -4718,7 +4718,7 @@ Meizi, Mei-tzu, Mei-tzu-shu-chiao, Meizih
 Meizicuo, Mei-tzu-ts'o, Mei-tzu-ts'o-ts'un, Meizihcuo
 Meizijiao, Mei-tzu-chiao, Meizihjiao
 Meizikeng, Mei-tzu-k'eng, Meizihkeng
-Meiziliao, Mei-tzu-liao, Meizihliao
+Meiziliao, Mei-tzu-liao (2), Meizihliao
 Meizilin, Mei-tzu-lin, Meizihlin
 Meiziqi, Mei-tzu-ch'i, Mei-tzu-lin, Meizihci
 Meizitao, Mei-tzu-t'ao, Meizihtao
@@ -4749,7 +4749,7 @@ Miaobu, Miao-pu, 苗圃
 Miaofeng, Hsia-pu-wei, Miao-feng, Miao-teng, Miaofong
 Miaohou, Miao-hou
 Miaokou, Miao-k'ou
-Miaoli, Miao-li, Miao-li-chieh, Miao-li-hsien, Miao-li-shih, Miaoli Sian, Miaoli Xian, 苗栗縣
+Miaoli, Miao-li, Miao-li Hsien, Miao-li-chieh, Miao-li-shih, Miaoli Sian, Miaoli Xian, 苗栗縣
 Miaomeicun, Miao-mei, Miao-mei-ts'un
 Miaonan, Miao-nan
 Miaoqian, Miao-ch'ien, Miaocian
@@ -4762,7 +4762,7 @@ Milidu, Mi-li, Mi-li-ts'un, Mi-li-tu
 Milun, Lun-tzu-ting, Mi-lun, Mi-lun-ts'un
 Miluo, Mi-lo
 Mimodeng, Mi-mo-teng
-Mincyuan, Min-ch'üan, Min-ch'üan-ts'un, Na-weng Na-weng, Pu-la-she, San-min, 民權
+Mincyuan, Min-ch'üan, Min-ch'üan-ts'un, Minquan, Na-weng Na-weng, Pu-la-she, San-min
 Mindeqiao, Min-te-ch'iao
 Minduyou, Min-tu-yu, 民都有
 Mingchi, Ch'ih-tuan, Ming-ch'ih, Mingchih
@@ -5273,8 +5273,8 @@ Paoziwei, P'ao-tzu-wei, P'ao-tzu-yüan, Paozihwei
 Paoziyuan, P'ao-tzu-yüan, Paozihyuan
 Pashanuo, P'a-sha-no, 扒沙娜
 Payayashe, P'a-ya-ya, P'a-ya-ya-she
-Pazigang, P'a-tzu-kang, Pazihgang, 扒子岡
-Pei-nan, Pei-nan-ts'un, 卑南
+Pazigang, Pa-tzu-kang, Pazihgang, 扒子岡
+Pei-nan, Beinan, Pei-nan-ts'un
 Pei-t'ou, P'i-t'ou, Pei-t'ou-li
 Peishepo, P'ei-she-p'o
 Pengcailiao, P'eng-lai-liao, P'eng-ts'ai-liao
@@ -5418,7 +5418,7 @@ Pozikou, P'o-tzu-k'ou, Pozihkou, Pu-tzu-k'ou, 朴子口
 Poziliao, P'o-tzu-liao, Pozihliao
 Pozishu, P'o-tzu-shu, P'o-tzu-shu-hsia, Pozihshu, 朴子樹
 Pozitou, Hou-hu, P'o-t'ou, P'o-t'ou-ts'un, P'o-tzu-t'ou, Pozihtou
-Pubian, Bubian, P'u-pien
+Pubian, P'u-pien, 埔邊
 Pubuxia, P'u-pu-hsia, Pubusia
 Pudaizi, P'u-tai-tzu, Pudaizih
 Puhou, Pu-hou
@@ -5506,7 +5506,7 @@ Qieding, Ch'ieh-ting, Cieding
 Qiedingwo, Ch'ieh-ting-wo, Ciedingwo, 茄萣窩
 Qiedong, Ch'ieh-tung, Chia-tung, Ciedong
 Qiedonghu, Ch'ieh-tung, Ch'ieh-tung-hu, Ch'ieh-tung-li, Ciedonghu, Iu-tung-Li, 茄苳湖
-Qiedongjiao, Ch'ieh-tung, Ch'ieh-tung-chiao, Chia-fan-li, Chia-fang, Chia-hsing, Chia-hui, Chia-tung-chiao, Ciedongjiao, 茄冬腳
+Qiedongjiao, Ch'ieh-tung, Ch'ieh-tung-chiao, Chia-fan-li, Chia-fang, Chia-hsing, Chia-hui, Chia-tung-chiao, Ciedongjiao, 茄苳脚
 Qiedongkeng, Ch'ieh-tung-k'eng, Ch'ih-tung-k'eng, Ciedongkeng, 茄苳坑
 Qiedonglang, Ch'ieh-tung-lang, Ciedonglang, 茄冬崀
 Qiedongliao, Ch'ieh-tung-liao, Ciedongliao, 茄苳寮
@@ -5517,7 +5517,7 @@ Qiedongshuxia, Ch'ieh-tung-shu-hsia, Ciedongshusia, 茄苳樹下
 Qiedongwo, Ch'ieh-tung-wo, Chia-tung-wo, Ciedongwo
 Qiedongxia, Ch'ieh-tung-hsia, Ciedongsia, 茄苳下
 Qiedongzhuang, Ch'ieh-tung-chuang, Ciedongjhuang, 茄苳庄
-Qiedongzi, Ch'ieh-tung-tzu, Ciedongzih, 茄苳仔
+Qiedongzi, Ch'ieh-tung-tzu, Ciedongzih, 茄苳子
 Qiehu, Ch'ieh-hu, Ch'ieh-tung-hu, Chia-hu, Chia-hu-li, Ciehu, 茄湖
 Qienanzhuang, Ch'ieh-nan, Ch'ieh-nan-chuang, Ch'ieh-nan-li, Cienanjhuang, 茄南莊
 Qietou, Ch'ieh-t'ou, Cietou, Lung-ching, 茄投
@@ -5960,7 +5960,7 @@ Sanzhang, San-chang, Sanjhang
 Sanzhangli, San-chang-li, Sanjhangli
 Sanzhangpou, Chung-wan-chia, San-chang-p'ou, San-chang-pu, Sanjhangpou, 三張廍
 Sanzhangxun, San-chang, San-chang-hsün, Sanjhangsyun
-Sanzhaozi, San-Chua-Tzŭ, San-chao-tzu
+Sanzhaozi, San-Chua-Tzŭ, San-chao-tzu (1)
 Sanzhaozikeng, San-Chua-Tzŭ-K'eng, San-chao-tzu-k'eng, Sanjhaozihkeng
 Sanzhi, Hsiao-chi-lung, Hsiaokeelung, Pu-t'ou, San-chih, San-chih-hsiang, Sanjhih, Sanzhi District, 三芝區
 Sanzhiliao, San-chih-liao, Sanjhihliao
@@ -6171,7 +6171,7 @@ Shangwaihu, Shang-wai-hu
 Shangwan, Shang-wan
 Shangwatong, Shang-she, Shang-wa-t'ung, 上瓦硐
 Shangwu, Chang-wu-ts'un, Shang-wu, Shang-wu-ts'un
-Shangxiaolibu, Chiao-li-pu, Hsiao-li-pu, Hsing-lung, Hsing-lung-li, Shang-hsiao-li-pu, Shangsiaolibu
+Shangxiaolibu, Chiao-li-pu, Hsiao-li-p'u, Hsing-lung, Hsing-lung-li, Shang-hsiao-li-pu, Shangsiaolibu
 Shangxiexincun, Chuan-tzu-yao, Shang-hsieh-hsin-ts'un
 Shangxin, Shang-hsin, Shangsin, T'u-hsin
 Shangxinfeng, Shang-hsin-feng, Shangsinfong
@@ -7079,7 +7079,7 @@ Tailin, Ma-nei-lin, Ma-t'ai-lin, T'ai-lin, Ta-lin
 Tailuge, T'ai-lu-ko
 Tailukeng, Chung-lu-k'eng, Kua-lu-k'eng, T'ai-lu-k'eng
 Taimali, T'ai-ma, T'ai-ma-li, Ta-ma-li
-Tainan, T'ai-nan, T'ai-nan-shih, Tai Nan Municipality, Tainan City, Tainan Shi, Tainan Shih, Tainanshih, 台南市
+Tainan, T'ai-nan, T'ai-nan Shih, Tai Nan Municipality, Tainan City, Tainan Shi, Tainan Shih, Tainanshih, 臺南市
 Tainxinzi, T'ien-hsin-tzu, Tiansinzih
 Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, Taibei Shi, Taibei Shih, Taipeh, 台北市
 Taiping, Chung-p'ing, Chung-p'ing-ts'un, Niao-jung-t'ou, Pa-t'o-erh, Pei-fen-tzu-liao, T'a-pi-la, T'ai-p'ing, T'ai-p'ing-she, T'ai-p'ing-ts'un, T'ai-pin-ts'un, Ta-p'ing
@@ -7143,7 +7143,7 @@ Tanglang, T'ang-lang
 Tangliao, T'ang-liao
 Tanglishuxia, T'ang-li-shu-hsia, Tanglishusia
 Tangpingzhuang, T'ang-p'ing-chuang, Tangpingjhuang
-Tangpou, T'ang-p'ou, T'ang-pu
+Tangpou, T'ang-p'ou, T'ang-p'u
 Tangqicun, T'ang-ch'i-ts'un
 Tangshanliao, T'ang-shan-liao
 Tangtou, T'ang-t'ou
@@ -7183,7 +7183,7 @@ Taoping, T'ao-p'ing
 Taoshan, Hsüeh-shan-k'eng, Hsüeh-shan-k'eng-she, T'ao-shan, T'ao-shan-ts'un
 Taoshe, T'ao-she
 Taoyanqi, T'ao-yan-ch'i, T'ao-yen-ch'i, T'iao-yen-ch'i, Taoyanci
-Taoyuan, Hsiao-pan-t'ien-liao, Hsin-chu, Hsin-chu-hsien, K'o-la, K'o-la-she, K'o-ni, Pan-t'ien-liao, T'ao-yüan, T'ao-yüan Chen, T'ao-yüan Shih, T'ao-yüan-chieh, T'ao-yüan-hsien, T'ao-yüan-ts'un, Taoyuan District, Taoyuan Shi, Taoyuan Shih, Taoyuan Sian, Taoyuan Xian, Yen-p'ing, 桃園區, 桃園市, 桃園縣
+Taoyuan, Hsiao-pan-t'ien-liao, Hsin-chu, Hsin-chu-hsien, K'o-la, K'o-la-she, K'o-ni, Pan-t'ien-liao, T'ao-yüan, T'ao-yüan Shih, T'ao-yüan-chen, T'ao-yüan-chieh, T'ao-yüan-hsien, T'ao-yüan-ts'un, Taoyuan District, Taoyuan Shi, Taoyuan Shih, Taoyuan Sian, Taoyuan Xian, Yen-p'ing, 桃園區, 桃園市, 桃園縣
 Taoyuan City
 Taozijiao, T'ao-tzu-chiao, Taozihjiao
 Taozikeng, T'ao-tzu-k'eng, Taozihkeng
@@ -7252,8 +7252,8 @@ Tianweicuo, T'ien-wei-ts'o
 Tianweizi, Chu-li, Chu-wei-tzu, T'ien-wei-tzu, Tianweizih
 Tianwozi, T'ien-wo-tzu, Tianwozih
 Tianxiang, T'a-pi-to, T'ien-hsiang, Tiansiang
-Tianxin, Ch'ung-kuei-ch'eng, Feng-kang, T'ien-hsin, T'ien-hsin-li, T'ien-hsin-ts'un, T'ien-hsin-tzu, Tiansin
-Tianxinzi, Hsia-tien-tzu, Hsin-hsin, Shang-t'ien-hsin-tzu, T'ieh-hsin-tzu, T'ien-hsin-li, T'ien-hsin-tzu, T'ien-hsiu-tzu, Tiansinzih
+Tianxin, Ch'ung-kuei-ch'eng, Feng-kang, T'ien-hsin-li, T'ien-hsin-ts'un, T'ien-hsin-tzu, Ti'en-hsin, Tiansin
+Tianxinzi, Hsia-tien-tzu, Hsin-hsin, Shang-t'ien-hsin-tzu, T'ieh-hsin-tzu, T'ien-hsin-li, T'ien-hsin-tzu (4), T'ien-hsiu-tzu, Tiansinzih
 Tianyang, T'ien-yang
 Tianyangcun, T'ien-yang-ts'un, T'ien-yang-tzu, Wai-chuang
 Tianyangzhuang, Kuo-ts'ai-yüan, T'ien-yang-chuang, T'ien-yang-tzu, Tianyangjhuang
@@ -7301,7 +7301,7 @@ Tiwugang, T'i-wu-kang, 堤烏岡
 Tizidi, T'i-tzu-ti, Tizihdi, 堤仔底
 Tizikeng, T'i-tzu-k'eng, Tizihkeng
 Tong'an, T'ung-an, T'ung-an-li, T'ung-an-ts'o
-Tong'ancuo, T'ung-an-li, T'ung-an-ts'o, Tung-ts'o-ts'un
+Tong'ancuo, T'ung-an-li, Tung-ts'o, Tung-ts'o-ts'un
 Tong'anliao, T'ung-an-liao
 Tong'anti, Ching-an, T'ung-an, T'ung-an-t'i, T'ung-an-ts'un
 Tong'anzhai, T'ung-an-chai, T'ung-an-ts'un, Tong'anjhai
@@ -7367,7 +7367,7 @@ Touqiao, T'ou-ch'iao, Touciao
 Touqiyue, T'ou-ch'i-yüeh, Touciyue
 Tourenbu, T'ou-jen-pu
 Toushe, P'ing-pu-yeh-chi, T'ou-she
-Toutingkuei, T'ou-t'ing, T'ou-t'ing-k'uei, T'ou-t'ing-ts'un, Toutingkui
+Toutingkuei, T'ou-t'ing, T'ou-t'ing-k'uei, T'ou-t'ing-ts'un, 頭廷魁
 Touwei, T'ou-wei
 Touwo, T'ou-wo
 Touwu, K'an-t'ou-wu, T'ou-wu, T'ou-wu-ts'un
@@ -8563,7 +8563,7 @@ Xibucuo, Hsi-pu-ts'o, Sibucuo
 Xibuliao, Ch'i-pu-liao, Ch'i-pu-ts'o-liao, Hsi-pu, Hsi-pu-liao, Pei-liao, Sibuliao
 Xibunei, Hsi-pu-nei, Sibunei
 Xibupou, Ch'i-pu-tzu, Chung-ch'i, Chung-ch'i-li, Chung-hsi, Chung-hsi-li, Hsi-pu-p'ou, Hsi-pu-pu, Hsi-pu-tzu, Sibupou, 溪埔廍
-Xibuzi, Ch'i-pu, Hsi-p'u-tzu, Hsi-pu, Sibuzih
+Xibuzi, Ch'i-pu, Hsi-pu, Hsi-pu-tzu, Sibuzih
 Xichang'an, Ch'ang-an, Hsi-ch'ang-an, Sichang'an, 西長岸
 Xicun, Hsi-ts'un, Sicun
 Xicuo, Ch'i-ts'o-ts'un, Hsi-ts'o, Hsi-ts'o-ts'un, Sicuo
@@ -8648,7 +8648,7 @@ Xinchangkeng, Hsin-ch'ang-k'eng, Sinchangkeng, 信長坑
 Xinchaoling, Hsin-ch'ao-ling, Sinchaoling
 Xincheng, Hsin-ch'eng, Hsin-ch'eng-li, Sincheng, Yen-hai
 Xincun, Hsin-ts'un, Sincun
-Xincuo, An-hsin-ts'un, An-shin, Chia-p'ao-lang, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-hu, Hsin-pu-chiang-lun, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Shang-ssu-hu, Ta-ming-li, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
+Xincuo, An-shin, Chia-p'ao-lang, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-hu, Hsin-pu-chiang-lun, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Hsin-ts'un, Shang-ssu-hu, Ta-ming-li, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
 Xincuocun, Hsin-ts'o-ts'un, Sincuocun
 Xincuoguan, Hsin-ts'o-kuan, Sincuoguan
 Xincuoliao, Hsin-ts'o-liao, Sincuoliao
@@ -8845,7 +8845,7 @@ Xinzi, Hsin-pu-tzu, Hsin-tzu, Sinzih
 Xinzilao, Hsin-tzu-han, Hsin-tzu-lao, Sinzihlao
 Xinziliao, Chin-ma-liao, Hsin-tzu-liao, Sinzihliao
 Xiongjiaohu, Ch'iung-chiao-hu, Hsiung-chiao-hu, Syongjiaohu, Ts'u-k'eng, 芎蕉湖
-Xiongjiaojiao, Ch'iung-chiao-chiao, Ch'iung-chiao-ts'un, Hsiung-chiao, Hsiung-chiao-chiao, Hsiung-chiao-ts'un, Syongjiaojiao, 芎蕉腳
+Xiongjiaojiao, Ch'iung-chiao-chiao, Ch'iung-chiao-ts'un, Hsiung-chiao, Hsiung-chiao-chiao, Hsiung-chiao-ts'un, Syongjiaojiao, 芎蕉脚
 Xiongjiaokeng, Ch'iung-chiao-k'eng, Chiao-k'ang, Hsiung-chiao-k'eng, Syongjiaokeng, 芎蕉坑
 Xiongjiaolin, Hsiung-chiao-lin, Syongjiaolin, 芎蕉林
 Xiongjiaoping, Ch'iung-chiao-p'ing, Hsiung-chiao-p'ing, Syongjiaoping, 芎蕉坪
@@ -8856,7 +8856,7 @@ Xiongkong, Hsiung-k'ung, Syongkong
 Xionglin, Ch'iung-lin, Hsiung-lin, Shiung-Lin, Syonglin
 Xionglinzhuang, Ch'iung-lin-chuang, Hsiung-lin-chuang, Syonglinjhuang, 芎林庄
 Xionglun, Hsiung-lun, Syonglun
-Xipan, Ch'i-p'an, Hsi-p'an, Hsi-pan-ts'un, Sipan
+Xipan, Ch'i-pan, Hsi-p'an, Hsi-pan-ts'un, Sipan
 Xipengji, Hsi-p'eng-chi, Sipengji
 Xipianlu, Hsi-p'ien-lu, Hsi-p'ing-lu, Sipianlu
 Xipianshan, Hsi-p'ien-shan
@@ -8912,7 +8912,7 @@ Xiufengping, Hsiu-feng-p'ing, Sioufongping, Ssu-huang-p'ing, Ssu-k'uang-tzu-p'in
 Xiuhu, Hsiu-hu, Shan-chu-hu, Siouhu
 Xiulin, Hsiu-Lin-Ts'un, Hsiu-lin, K'uo-lo-she, P'u-ssu-lin, P'u-ssu-lin-she
 Xiuluan, Hsiu-luan, Hsiu-luan-Ts'un, K'ung-ch'i, K'ung-hsi, K'ung-hsi-she, Shiu-luan, Shui-luan, Siouluan
-Xiushan, Hsiu-Shan, Hsiu-shan-ts'un, Sioushan
+Xiushan, Hsiu-shan, Hsiu-shan-ts'un, Sioushan
 Xiushancun, Hsiu-shan, Hsiu-shan-ts'un
 Xiushui, An-tung-ts'un, Hsiu-shui, Hsiu-shui-li, Hsiu-shui-ts'un, Sioushuei
 Xiushuicuo, Fen-shui-ts'o, Hsiu-shui-ts'o, Hsiu-ts'o-ts'un, Sioushueicuo
@@ -9027,7 +9027,7 @@ Yancuo, Yen-ts'o
 Yancuoliao, Yen-ts'o-liao
 Yandi, Yen-ti, 雁地
 Yanding, Yen-ting
-Yandizi, Yandizih, Yen-ti-tzu, 鹽地仔
+Yandizi, Yandizih, Yen-ti-tzu, 鹽地子
 Yandunjiao, Ch'iung-chiao-chiao, Yen-tun-chiao
 Yangchoucuo, Yang-ch'ou, Yang-ch'ou-ts'o, Yang-ch'ou-ts'un, Yang-t'iao, Yang-t'iao-li
 Yangchoukeng, Yang-ch'ou-k'eng
@@ -9066,7 +9066,7 @@ Yangzilin, She-tzu-lin, Yang-tzu-lin, Yangzihlin
 Yanheli, Yen-ho-li
 Yanjiao, Yen-chiao
 Yanjijie, Yen-chi-chieh
-Yankeng, Pa-yen-k'eng, Yen-k'eng
+Yankeng, Pa-yen-k'eng, Yen-K'eng
 Yanlao, Yen-lao
 Yanliao, Yen-liao, Yen-liao-chiang, Yen-liao-k'eng, Yen-liao-kang
 Yanliaokeng, Yen-liao-k'eng
@@ -9141,7 +9141,7 @@ Yiheli, I-ho-li
 Yijia, Chia-nan, Chia-nan-ts'un, I-chia
 Yijie, I-chieh
 Yikeng, I-k'eng, I-k'eng-k'ou
-Yilan, I-lan, I-lan Hsien, I-lan-shih, Ka-ma-lan, Yi Lan Hsien, Yilan Sian, Yilan Xian, 宜蘭市, 宜蘭縣
+Yilan, I-lan, I-lan-hsien, I-lan-shih, Ka-ma-lan, Yi Lan Hsien, Yilan Sian, Yilan Xian, 宜蘭市, 宜蘭縣
 Yilashe, I-la, I-la-she, I-lai-she
 Yilin, Chia-na-a-hsi-ya, I-lin
 Yimenkeng, I-men-k'eng
@@ -9536,8 +9536,8 @@ Zhenping, Chen-p'ing, Jhenping
 Zhenpingzhuang, Chen-p'ing-chuang, Chen-p'ing-li, Jhenpingjhuang, Kang-tso, Kung-t'so
 Zhenqian, Ch'üan-ch'ien, Chen-ch'ien, Chun-ch'ien, Jhencian, 圳乾
 Zhenshan, Chen-shan, Chen-t'ou-shan-chiao
-Zhentou, Ch'ou-y'ou, Ch'uan-t'ou-ts'un, Ch'üan-t'ou, Chen-t'ou, Chun-t'ou, Chün-t'ou-ts'un, Jhentou, Shui-pan-t'ou
-Zhentoucuo, Ch'ou-ts'o, Ch'üan-t'ou-ts'o, Chen-t'ou-ts'o, Chün-lu-ts'o, Chün-t'ou-ts'o, Jhentoucuo, Yeh-t'so
+Zhentou, Ch'ou-y'ou, Ch'uan-t'ou, Ch'uan-t'ou-ts'un, Chen-t'ou, Chün-t'ou, Chün-t'ou-ts'un, Jhentou, Shui-pan-t'ou
+Zhentoucuo, Ch'ou-ts'o, Ch'üan-t'ou-ts'o, Chen-t'ou-ts'o, Chun-t'ou-ts'o, Chün-lu-ts'o, Jhentoucuo, Yeh-t'so
 Zhentoukeng, Ch'ou-t'ou-k'eng, Ch'üan-t'ou-k'eng, Chen-t'ou, Chen-t'ou-k'eng, Chen-t'ou-wo, Chün-t'ou-k'eng, Jhentoukeng
 Zhentoupai, Chen-t'ou-p'ai, Chün-t'ou-p'ai, Jhentoupai
 Zhentouping, Chen-t'ou-p'ing, Jhentouping
@@ -9558,7 +9558,7 @@ Zhenzi'an, Chen-tzu-an, Chun-tzu-an, Jhenzih'an
 Zhenzimanli, Chen-tzu-man-li
 Zhenzitou, Ch'ou-tzu-t'ou, Ch'üan-tzu-t'ou, Chen-tzu-t'ou, Chün-tzu-t'ou, Jhenzihtou
 Zhenzitoukeng, Ch'üan-tzu-t'ou-k'eng, Chen-tzu-t'ou-k'eng, Chün-t'ou, Chün-tzu-t'ou-k'eng, Jhenzihtoukeng
-Zhepou, Che-p'ou, Che-p'u, Jhepou
+Zhepou, Che-p'ou, Che-pu, Jhepou
 Zhepoukeng, Che-p'ou-k'eng, Jhepoukeng, 蔗廍坑
 Zhewankeng, Che-wan-k'eng, Jhewankeng
 Zhiba, Ch'ih-pao-li, Chih-pa, Chih-pao, Jhihba, Shui-ch'ou-t'ou, Shui-chen-t'ou, Shui-chün-t'ou
@@ -9689,7 +9689,7 @@ Zhongpou, Chung-p'ou, Chung-pu, Jhongpou
 Zhongpouzi, Chung-p'ou-tzu, Chung-p'u-tzu, Jhongpouzih
 Zhongqi, Chung-ch'i, Chung-ch'i-li, Chung-ch'i-ts-un, Jhongci
 Zhongqing, Chung-ch'ing, Jhongcing, Pei-chuang
-Zhongqingque, Chung-ch'ing-hsüeh, Chung-ch'ing-yen, Chung-ch'ing-yü, Chung-ching-chüeh, Jhongcingcyue
+Zhongqingque, Chung-ch'ing-ch'üeh, Chung-ch'ing-hsüeh, Chung-ch'ing-yen, Chung-ch'ing-yü, Jhongcingcyue
 Zhongshan, Chung-shan, Fan-she, Jhongshan, Shan-chiao
 Zhongshanlou, Chung-shan-lou
 Zhongshe, Chung-she, Chung-she-ts'un, Hsi-shih, Jhongshe
@@ -9929,7 +9929,7 @@ Zhuziwokeng, Chu-tzu-wo-k'eng, Jhuzihwokeng
 Zhuzixia, Chu-tzu-hsia, Jhuzihsia
 Zhuziyi, Chu-tzu-i, Jhuzihyi
 Zhuziyuan, Chu-tzu-yüan, Jhuzihyuan, 苧子園
-Zhuziyuankeng, Ch'u-tzu-yüan-k'eng, Jhuzihyuankeng, 苧子園坑
+Zhuziyuankeng, Chu-tzu-yüan-k'eng, Jhuzihyuankeng, 苧子園坑
 Ziguan, Tzu-kuan, Zihguan
 Ziliangmiao, Tzu-liang-miao, Tzu-lung, Tzu-lung-li, Zihliangmiao
 Zilongmiao, Tzu-lung-miao

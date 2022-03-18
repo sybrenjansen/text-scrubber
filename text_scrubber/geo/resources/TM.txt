@@ -5,9 +5,9 @@ Adzhikui, Adzhi-Kuyu
 Agach-Arvat
 Agaltyn
 Agar
-Ahal, Ahal Province, Ahal Welaýaty, Akhalskiy Velayat, Ashgabad Oblasty, Ashgabat Oblasty, Ashkhabad Oblast, Ashkhabadskaya Oblast', Birleshik Pervyy, Birlyashik, Birlyashik Pervyy, Orta-Yaylya, Sovkhoz Kushka
+Ahal, Ahal Province, Ahal welaýaty, Akhalskiy Velayat, Ashgabad Oblasty, Ashgabat Oblasty, Ashkhabad Oblast, Ashkhabadskaya Oblast', Birlyashik, Birlyashik Pervyy, Orta-Yaylya, Sovkhoz Kushka, Бирлешик Первый
 Ajyguýy
-Ajyýap, Admi-Yab, Adzhiyab, Аджыяб
+Ajyýap, Admi-Yab, Adzhiyab, Adzhyyab
 Ak
 Ak-Altyn
 Ak-Bay
@@ -75,7 +75,7 @@ Arabata
 Araki
 Arap
 Arapchuk, Arap-Kala
-Arapgala, Arab-Kala, Arap-Kala, Арабкала
+Arapgala, Arab-Kala, Arabkala, Arap-Kala
 Araplar, Arapkhana
 Archin, Apchin Camp
 Archin'yak, Archin'yan
@@ -88,15 +88,15 @@ Artykhoja, Артыкходжа
 Arychagyl
 Arykagyl
 Arzuv
-Arçabil, Pewrize, Фирюза
-Arçman, Archman
-Ashgabat, Ashgabat Shäheri, Ashkabad, Ashkhabad, Ashqabad, Askabad, Askhabad, Aşgabat Şäheri, Gorod Ashkhabad, Poltoratsk
+Arçabil, Firyuza, Pewrize
+Arçman, Арчман
+Ashgabat, Ashgabat Shäheri, Ashkabad, Ashqabad, Askabad, Askhabad, Aşgabat Şäheri, Gorod Ashkhabad, Poltoratsk, Ашхабад
 Astanababa
 Ata, Kochev'ye Ata
 Ata-Yab
 Atabeg
 Ataguýy
-Atamyrat, Qārki, Zamm, Керки
+Atamyrat, Kerki, Qārki, Zamm
 Atatlyk
 Ataýap
 Aul Geok-Che
@@ -114,11 +114,11 @@ Aýböwür
 Aşgabat, Kichaga, Kichaga Vtoraya, Kichi-Aga Vtoraya, Kichiaga Vtoroy, Kichiga Vtoraya
 Babadaykhan, Baba-Deykhan, Baba-Deykhan Vtoroy, Baba-Deykhan-Pervyy, Babadaykhan Vtoroy
 Babadaýhan, Kirovsk
-Babadurmaz, Baba-Durmaz
+Babadurmaz, Баба-Дурмаз
 Babakhodzha
 Babarap, Babarabkala, Баба-Араб
 Bada
-Bagabat, Kalinikskiy, Kalininskiy
+Bagabat, Kalinikskiy, Калининский
 Bagadzha
 Bagarka
 Bagt
@@ -127,10 +127,10 @@ Baharly, Bakharden, Bäherden
 Bakhardenskiy Kar'yer, Бахарденский Карьер
 Bakhshi, Bakhshi-Mirish
 Bakhshimarish, Bagshimirish, Bakshi-Marish, Chetyrnadtsat' Let Oktyabrya
-Balkanabat, Nebitdag, Neftedag, Небит-Даг
+Balkanabat, Nebit-Dag, Nebitdag, Neftedag
 Balkui
 Balla-Ishem, Bala-Ishem
-Bamy, Bami
+Bamy, Бами
 Bangil'dy
 Banysh
 Baragiz
@@ -235,7 +235,7 @@ Chaynakhash
 Chegez
 Chekich, Chenich, Chenick
 Chekmen
-Chekur-Yurt, Chekun-Yurt, Chukur-Yurt
+Chekur-Yurt, Chekun-Yurt, Чукур-Юрт
 Cheltek
 Chemche, Chechme
 Chenen, Cheken
@@ -269,7 +269,7 @@ Dayakhatyn
 Dayne, Dānīyeh
 Daz
 Daşköpri, Tash-Kiroi, Tashkepri, Tashkepristroy
-Daşoguz, Dashhowuz, Dashkhovuz, Dashoguz, Tashauz
+Daşoguz, Dashhowuz, Dashkhovuz, Tashauz, Дашогуз
 Dekel'-Dash
 Denglikopry
 Derekli
@@ -277,11 +277,11 @@ Dervezekem
 Derweze, Darvaza
 Derýalyk
 Deycha, Derbend-Deycha
-Deşt, Дешт
+Deşt, Desht
 Diňli
 Donguz-Tugay, Dunguz Tugai
 Dostluk, Yuzhnyy
-Dou-Kala, Dëvkala
+Dou-Kala, Дёвкала
 Doulyatabad
 Dovletkhan
 Doyran
@@ -307,7 +307,7 @@ Dzhoyruk, Dzhoyryk
 Dzhuma, Bazar Dzhuma
 Dzhuma-Bazar
 Dzhuppy
-Dzhuvaldy, Развалины Джувазли
+Dzhuvaldy, Razvaliny Dzhuvazli
 Dänajy
 Däneata, Danata
 Dördajy
@@ -325,7 +325,7 @@ Energetik
 Epo
 Erdel'
 Erden
-Esenguly, Aul Gassan-Kuli, Gassan-Kuli, Hasan Quili, Гасан-Кули
+Esenguly, Aul Gassan-Kuli, Gasan-Kuli, Gassan-Kuli, Hasan Quili
 Esenmengli, Isem Menli, Isen-Menli
 Eski
 Eski-Narazym
@@ -344,12 +344,12 @@ Gamyşly
 Gamyşlyja, Gamyshlydzha, Gamyshlyja, Kamyshaldzhar, Kamyshlydzha
 Ganlybaş
 Garaaýman
-Garabogaz, Bek-Dafh, Bekdash, Bik-Dafh, Bik-Dash, Karabogaz
+Garabogaz, Bek-Dafh, Bik-Dafh, Bik-Dash, Karabogaz, Бекдаш
 Garabogazköl, Kara-Bogaz, Kara-Bugas-Gol, Kara-Bugaz, Кара-Богаз-Гол
 Garadegish, Karadegish, Karadetish
 Garadepe
-Garagan, Karagan
-Garagum, Участок Победа
+Garagan, Караган
+Garagum, Uchastok Pobeda
 Garagöl, Karagel, Karakël, Qura Gel
 Garahan, Karakhan
 Garaja
@@ -359,11 +359,11 @@ Garaköl
 Garamyş, Karamysh
 Garamätnyýaz, Karamet-Niyaz
 Garaporsaň, Karaparsan
-Garawul, Каравул
+Garawul, Karavul
 Garawulgala
 Garaçulga
 Garaýylgyn
-Garkel, Kara-Kel'
+Garkel, Кара-Кель
 Garlyk, Karlyuk, Karlyukski
 Garrychyrla, Kara-Chirla, Karrychirla, Kary-Chirla
 Garrygala
@@ -379,7 +379,7 @@ Geok-Tepe Nomer Pervyy, Geok-Tepe-Pervyy
 Geok-Tepe Nomer Tretiy, Geok-Tepe-Tretiy
 Geokcha
 Geokdepe
-Germaw, Germao, Germob, Mikhaylovskiy, Гермаб
+Germaw, Germab, Germao, Germob, Mikhaylovskiy
 Getin
 Gievdzhik
 Gil'-Abad
@@ -397,9 +397,9 @@ Gorýa
 Goturdepe, Kotor Tepp, Kotur-Tepe, Koturdepe
 Gowurdak, Gaurdak, Gaurdakstroy, Gaurdstroi, Gaurdstroy
 Gowşak-Gyzyltakyr, Kaushek-Kyzyltakyr, Koushok-Kyzyl-Takyr
-Gowşut, Kaushut-Bent, Каушут
+Gowşut, Kaushut, Kaushut-Bent
 Gozgan, Kazgankala, Kozgan-Kala
-Goç, Koch, Kodsh, Kodzh, Kodzha, Совхоз Имени Фролова
+Goç, Koch, Kodsh, Kodzh, Kodzha, Sovkhoz Imeni Frolova
 Goýmat
 Goýunly, Kulanly
 Goşaoba, Koshoba, Kumbetli-Koshoba
@@ -433,7 +433,7 @@ Gyurmush-Tepe
 Gyzan
 Gyzyl, Imeni Vos'mogo Marta, Kizil, Kyzyl, Vos'mogo Marta
 Gyzylaý
-Gyzylbaýyr, Sharlauk, Sharlavuk, Sharlawuk, Sharlouk, Shorlouk
+Gyzylbaýyr, Sharlauk, Sharlavuk, Sharlawuk, Shorlouk, Шарлоук
 Gyzylgaya, Kizyl-Kaya
 Gyzyljagala
 Gyzylsakgal, Kyzyl-Sakal
@@ -446,7 +446,7 @@ Gëksay, Kok-Say
 Göbekli
 Göbeklioy
 Gögerendag, Gagrandag
-Gökdepe, Geok-Tepe
+Gökdepe, Геок-Тепе
 Gökdere
 Gökje
 Göýnük
@@ -463,10 +463,10 @@ Hanýap, Khan-Yab, Sovet-Yab, Sovet”yab, Sovet”yap, Sowetyap
 Haryn
 Hasan
 Hasan Kuli
-Hawdan, Gaudan, Goudan, Gowdan
+Hawdan, Goudan, Gowdan, Гаудан
 Hazar
 Haýyar
-Herrikgala, Errik-Kala, Kherrikkala, Yerrikkala, Yerryk-Kata, Эриккала
+Herrikgala, Erikkala, Errik-Kala, Kherrikkala, Yerrikkala, Yerryk-Kata
 Hojagala, Khodzha-Kalay Pervyy, Khoja-Kala
 Hojagürlük, Khadzhykulluk
 Hojak
@@ -498,7 +498,7 @@ Imeni Dzerzhinskogo
 Imeni Engel'sa
 Imeni Gor'kogo
 Imeni Gorel'de, Kochev'yë Uchinchi-Kara-Yab
-Imeni Guvancha-Orazava, Yasman, Ясман-Салык
+Imeni Guvancha-Orazava, Yasman, Yasman-Salyk
 Imeni Il'icha, Kyzak, Kyzan
 Imeni Kaganovicha
 Imeni Kalinina, Aul Kul'dzha, Baba-Deykhan, Baba-Deykhan Pervyy, Babadaykhan Pervyy, Bazar Charshambe, Chakych, Chakyeh, Kalinina, Kochev'ye Baba-Daykhan, Kyzyl, Siyady
@@ -540,7 +540,7 @@ Itbash
 Işan
 Işmaltapan
 Janahyr, Dzhanakhir, Dzhanakhyr, Janakhor
-Jangnga, Джанга
+Jangnga, Dzhanga
 Jashan
 Jebel, Dzhebel
 Jemal
@@ -549,7 +549,7 @@ Jeýhun, Dzheykhun, Farab-Pristan'
 Jumajyk
 Kabasakal
 Kabyl, Kabil'
-Kaka, Kaakcha, Каахка
+Kaka, Kaakcha, Kaakhka
 Kala
 Kalankui, Kalan Kuyu
 Kalyam
@@ -711,7 +711,7 @@ Kommunist, Bekauli-Teki
 Kommunizm, Anansha, Khuzeye-Beden, Umar
 Komsomol, Burkut, Yel-Bars
 Komsomol'sk, Chārjūi, Kaganovichesk, Staryy Chardzhuy
-Kone-Borme, Kone-Berme, Këne-Beurme
+Kone-Borme, Kone-Berme, Кёне-Беурме
 Kopak-Chalak
 Kopetdag
 Koshagyr
@@ -797,13 +797,13 @@ Kükürtli
 Kümeli
 Lambe, Dambe, Lyambe
 Lavak, Pristan' Lavak
-Lebap, Chardzhou Oblast, Chardzhouskaya Oblast', Chärzhew Oblasty, Lebap welaýaty, Lebapskiy Velayat
+Lebap, Chardzhou Oblast, Chardzhouskaya Oblast', Chärzhew Oblasty, Lebap Welaýaty, Lebapskiy Velayat
 Lekker
 Leningrad, Anna-Mamed, Anna-Mamet, Shor-Tepe
 Leprozoriy
 Lesopitomnik
 Leýlimekan
-Madaw, Madau, Madav
+Madaw, Madav, Мадау
 Magaryf, Magarif
 Magtym
 Magtymguly
@@ -824,7 +824,7 @@ Manysh
 Maraniyat
 Markuş
 Martazi
-Mary, Mary Oblast, Mary Oblasty, Mary Province, Mary Welaýaty, Maryiskaya Oblast, Maryyskaya Oblast', Maryyskiy Velayat, Merv, Mervskaya Oblast'
+Mary, Mary Oblast, Mary Oblasty, Mary Province, Mary welaýaty, Maryiskaya Oblast, Maryyskaya Oblast', Maryyskiy Velayat, Merv, Mervskaya Oblast'
 Maslahat
 Maýabatan
 Maňgyşlaly
@@ -832,7 +832,7 @@ Medes
 Megejik, Meagadzhik, Megadzhik, Mesadzhik
 Megin, Mezin-Kala
 Mekan
-Mekhinli, Megeli, Mekhenli
+Mekhinli, Mekhenli, Мегели
 Mekrub
 Melegoç
 Meshkhed
@@ -892,7 +892,7 @@ On-Begi
 Onbirikzhi
 Orazbaba
 Orazkël'
-Orazow Adyndaky, Участок Овадандепе
+Orazow Adyndaky, Uchastok Ovadandepe
 Ordy-Khodzha
 Orfa
 Orunchaga
@@ -924,7 +924,7 @@ Poskrepko
 Posëlok Ashkhabadskoy GRES
 Pravda
 Prokhladnoye, Prokhladny, Prokhladnyy, Прохладное
-Purnuwar, Nyrnuar, Purnuar, Pyrnilar, Pyrnuar
+Purnuwar, Nyrnuar, Pyrnilar, Pyrnuar, Пурнуар
 Put' Leninizma, Put' Lenina
 Rabochiy, Taimys, Taymyz
 Ravnina
@@ -1039,7 +1039,7 @@ Tashlyk, Dashlyk
 Tashrabad, Dashrabat, Tashrabat
 Taumakindzhi, Tau-Makind
 Tazabad, Tazabat, Tezeabad
-Tejen, Tedjen, Tedzhen, Tejend
+Tejen, Tedjen, Tejend, Теджен
 Tekendzhik
 Teki-Moor
 Tektek
@@ -1075,7 +1075,7 @@ Tyl'-Ter
 Tyul'ki
 Tyuyachi
 Täzebirleşik
-Täzedurmus, Sovkhoz Imeni Devyati Ashkhabadskikh Komissarov
+Täzedurmus, Совхоз Имени Девяти Ашхабадских Комиссаров
 Täzegoňrat
 Täzeguýy, Ferma Sovkhoza Chemenibit
 Täzegüýç
@@ -1083,8 +1083,8 @@ Täzeoba
 Täzeýel, Täze Yol
 Täzeýol
 Tölekguýy
-Türkmenabat, Chardzha, Chardzhev, Chardzhou, Chardzhui, Chardzhuy, Charjou, Chärjew, Leninsk-Turkmenski, Leninsk-Turmenski, Nov Chārjui, Novo Chardzhou, Novo-Chardzhuy, Туркменабад
-Türkmenbaşy, Krasnovodsk, Krasnowodsk, Krassnowodsk, Turkmenbashi, Türkmenbaşı, Түркменбашы
+Türkmenabat, Chardzha, Chardzhev, Chardzhou, Chardzhui, Chardzhuy, Charjou, Chärjew, Leninsk-Turkmenski, Leninsk-Turmenski, Nov Chārjui, Novo Chardzhou, Novo-Chardzhuy, Turkmenabad
+Türkmenbaşy, Krasnowodsk, Krassnowodsk, Turkmenbashi, Türkmenbaşı, Красноводск, Түркменбашы
 Tüwer, Taur, Tuar
 Ubetsk
 Uch-Bash, Uch'-Bashi
@@ -1163,24 +1163,24 @@ Yele-Su
 Yesheksiyen, Eshek-Sien
 Ymamnazar, Imamnazar
 Ymarat, Marat
-Yolöten, Iolotan', Yolotan, Ёлoтен, Ёлётен, یوْلؤتن
+Yolöten, Yolotan, Ёлoтен, Ёлётен, Иолотань, یوْلؤتن
 Yslam
 Yulangyz, Sardoba Yulangiz
 Yuldy-Dere
 Yylanly, Il'yaly, Ilyanli, Iyanli
 Yzgant, Izgant
-Yňdyrlan, Индерлен
+Yňdyrlan, Inderlen
 Zakhmet
 Zakhmetkesh
 Zarpchi
-Zaw, Or-Kolashik, Zaulu, Зау
+Zaw, Or-Kolashik, Zau, Zaulu
 Zerdau
 Zergar
 Zergumen
 Zergyar, Zargyar, Zyargyar
 Zyul'fagar
 Ägem
-Änew, Anau, Annau, Enev
+Änew, Anau, Enev, Аннау
 Çagyl
 Çakmak
 Çaloyuk, Chalayuk, Chaloyuk
@@ -1197,20 +1197,20 @@ Zyul'fagar
 Çerkezli, Cherkezli, Cherkezly
 Çetli, Yasy-Depe
 Çowdur
-Çukur, Chukhur-Kala, Chukurkala, Stalina, Чукур
+Çukur, Chukhur-Kala, Chukur, Chukurkala, Stalina
 Çurçury
 Çyrla
 Çörli
 Ödeý
-Öýleguşluk, Ферма Совхоза Каракуль Номер Три
-Öňaldy, Юнъялды
+Öýleguşluk, Ferma Sovkhoza Karakul' Nomer Tri
+Öňaldy, Yun”yaldy
 Üçajy, Uch Aji, Uch Haji, Uch-Adzhi, Uchadzhy, Utsch-Adshi
 Üçkersen
 Ýagtylyk
 Ýangyaryk, Yangi-Aryk
 Ýasga, Yaskha, Yaskhan
 Ýazygşem
-Ýaşlyk, Яшлык
+Ýaşlyk, Yashlyk
 Ýekesöwüs
 Ýelharaz
 Ýeniş, Khauz-Khana-Shor, Sovkhoz Pobeda

@@ -117,7 +117,7 @@ Alma
 Alma Vii, Alma între Vii
 Almaş, Háromalmás
 Almaşu, Almaşul, Varalmás
-Almaşu Mare, Aimaşul Mare, Almaşul Mare
+Almaşu Mare, Aimaşul Mare, Almaşul-Mare
 Almaşu-Sec, Almaşul Sec
 Almaș-Săliște, Almaş-Selişte
 Almașu Mic, Almăşul Mic
@@ -200,7 +200,7 @@ Apoș, Aposdorf, Szászapátfalva
 Aprodu Purice
 Aprozi
 Araci
-Arad, Altarad, Aradinum Vetus, Județul Arad, Micălaca, Mikelaka, Mureşel, Murăşel, Orodinum, Zsigmondháza, Ō-Arad
+Arad, Altarad, Aradinum Vetus, Judeţul Arad, Micălaca, Mikelaka, Mureşel, Murăşel, Orodinum, Zsigmondháza, Ō-Arad
 Arada
 Arama
 Arbore
@@ -438,7 +438,7 @@ Baziaș, Bazjaš, Braziaş
 Bazna
 Bazoș, Bazosch, Bazosh
 Bazoșu Nou, Bazoşul-Nou
-Başcov, Başcou, Bâscovu
+Başcov, Bascovu, Başcou
 Bașeu
 Bașta
 Baștea
@@ -1023,7 +1023,7 @@ Brodina de Jos
 Broscoșești, Broscoşeştii
 Broscăuţi
 Brotuna
-Broşteni, Brosteni din Vale, Broşteni-Vale, Broştenii, Broştenii de Jos, Broştenii-Vale, Broştenii-din Vale, Broşteri
+Broşteni, Brosteni din Vale, Broşteni Vale, Broştenii, Broştenii de Jos, Broştenii-Vale, Broştenii-din Vale, Broşteri
 Broşteni Deal, Brosteni din Deal
 Broştenii Vechi, Brosteni-Vechi
 Broșteanca
@@ -1207,7 +1207,7 @@ Buleta
 Bulgari
 Bulgaru, Bulgarul
 Bulgăreni, Bolgàrfalva
-Bulgăruș, Bogarosch, Bogaroş
+Bulgăruș, Bogarosch, Bogáros
 Bulimanu, Bulimanul
 Bulz
 Bulza
@@ -1367,7 +1367,7 @@ Bârnădel, Bîrnădel
 Bârsa, Bersza, Bursza, Bîrsa
 Bârsana, Bîrsana, Şugag-Bîrsana
 Bârseşti, Bârseştii, Bîrseşti
-Bârseștii de Jos, Bârşeşti-de-Jos, Bîrseştii de Jos
+Bârseștii de Jos, Bârseşti-de-Jos, Bîrseştii de Jos
 Bârseștii de Sus, Bârşeşti-de-Sus, Bîrseştii de Sus
 Bârsoiu, Bîrsoiu, Niţuleşti
 Bârsăneşti, Bîrsăneşti
@@ -1381,7 +1381,7 @@ Bârzan
 Bârzava, Berzava, Berzova, Borzsova, Bâzava, Bîrzava, Marosborsa
 Bârzeiu, Bârzeiu-de-Pădurre, Bârzeiul de Pădurre, Bîrzeiu
 Bârzeiu de Gilort, Bârzeiul de Gilort, Bîrzeiu de Gilort
-Bârzești, Barzafalva, Barzesd, Barzest, Bârzâşti, Bîrzești, Rarzesi, Razest
+Bârzești, Barzafalva, Barzesd, Barzest, Bârzâşti, Bîrzeşti, Rarzesi, Razest
 Bârzila, Bîrzila
 Bârzogani
 Bârzoteni, Bîrzoteni
@@ -2479,7 +2479,7 @@ Cornu Negru
 Cornu de Jos, Connul de Jos, Cornul-de-Jos, Cornurile, Cornurile de Jos, Cornurue-de-Jos
 Cornu de Sus, Cornul de Sus, Cornurile de Sus
 Cornuțel, Cornuţel-Banat Gară
-Cornăţelu, Cornăţelul, Mohorâţi, Mohorîţi
+Cornăţelu, Cornaţelul, Mohorâţi, Mohorîţi
 Cornățel, Cornăţelul
 Coroana, Cadichioi
 Corobeşti
@@ -2588,7 +2588,7 @@ Cotuş, Csejd
 Cotârgaci, Cotîrgaci
 Cotârgaşi, Cotîrgaşi
 Covaci, Kovácsi, Kowatsch, Temeskovácsi
-Covasna, Judeţul Covasna, Kavasma, Kovászna
+Covasna, Județul Covasna, Kavasma, Kovászna
 Covei, Coveiu, Coveiul
 Coverca
 Covrag, Covragu
@@ -3047,7 +3047,7 @@ Cămin
 Cămineasca
 Cămuiești, Cămueşti
 Cămârzani, Cămîrzani
-Cămăraşu, Cămăraşu-Deşert, Cămăraşul
+Cămăraşu, Cămaraşul, Cămăraşu-Deşert
 Cămărzana, Cămîrzana, Cămărăzana, Komorzan
 Căneşti, Pîrlita
 Cănicea, Kaničea
@@ -3247,7 +3247,7 @@ Dejoi, Dejoi-Nisipi, Dejoiul
 Dejuțiu, Dècsfalva
 Delani
 Delea, Vasile Sasu, Zăpodenii Noi
-Deleni, Băligoşi, Cioara, Ciora, Cioroiul, Deleni-patak, Delenii, Delèn, Enigea, Indol, Magyarsáros, Ovreeşti, Ovreiesţi, Tău Boilor, Şaroş
+Deleni, Băligoşi, Cioara, Ciora, Cioroiul, Delen, Deleni-patak, Delenii, Enigea, Indol, Magyarsáros, Ovreeşti, Ovreiesţi, Tău Boilor, Şaroş
 Deleni-Obârşie, Deleni-Obîrşie
 Deleşti
 Delinești
@@ -4669,7 +4669,7 @@ Gârda-Bărbuleşti, Gîrda-Bărbuleşti
 Gârda-Seacă, Gârda Sacă, Gîrda-Seacă
 Gârdani, Gîrdani
 Gârde
-Gârdești, Gîrdești
+Gârdești, Gîrdeşti
 Gârdoaia, Gîrdoaia
 Gârla Anei
 Gârla-Mare, Gîrla Mare
@@ -4922,7 +4922,7 @@ Hotarele
 Hotaru, Hotarul
 Hoteni
 Hotin, Hotinul
-Hotoan, Érhatvan,Ér-hatvan,Hatvan
+Hotoan, ÉrhatvanÉr-hatvanHatvan
 Hotărani, Blahniţa
 Hotărasa
 Hotărel
@@ -5019,7 +5019,7 @@ Hăneşti, Hânescii
 Hănăşeşti, Haniseşci
 Hănțești, Hănţeştii
 Hăpria
-Hărman, Herman, Honigberg, Szászhermány
+Hărman, Herman, Honigberg, Szaszhermany
 Hărmăneasa, Helesteni Hărmăneasa
 Hărmăneștii Noi, Hărmăneşti-Noi, Hărmăneştii-Noui
 Hărmăneștii Vechi, Hărmăneşti-Vechi
@@ -5113,7 +5113,7 @@ Iernut
 Iertof, Jertof
 Ierșnic
 Iesle
-Ieud, Jeud, Jód
+Ieud, Jeud, Jod
 Iezer, Ezer, Ezeru
 Iezerel, Ezerel, Ezerelu
 Iezeru, Beilicu
@@ -5935,7 +5935,7 @@ Meri, Merii-Goala
 Meria
 Merii, Merii-Cojocaru
 Merii Petchii, Merii-Petchi
-Meriş, Merisul, Merişu
+Meriş, Merişu, Merişul
 Merişani, Călugăriţa, Merişanii
 Merişasca, Merişanca
 Merișor, Dosu, Gîlma, Pusztaalmàs
@@ -5970,7 +5970,7 @@ Miclosu, Miclosiu
 Micloşani
 Micloşanii Mari, Miclosanii Mare
 Micloşanii Mici, Miclosann Mici
-Micloșoara, Miklòsvar
+Micloșoara, Miklósvár
 Miclăuşeni
 Miclăuşoaia
 Micoșlaca
@@ -6004,7 +6004,7 @@ Mihai Bravu, Camber, Mihai-Bravul
 Mihai Eminescu, Eminescu, Starojiţa Stavri, Staroşilţa-Stavri
 Mihai Viteazu, Alsószentmihályfalva, Colonişti, Mihai Viteasu, Mihai-Viteazul, Mihaiu Viteazul, Szentmihály
 Mihai Vodă, Mihai-Vodă-Tigania, Ţigănia
-Mihail Kogălniceanu, Baseni, Buzdugani, Caramurat, Cogălniceanu, Ferdinand I, Ferdinandi, Karamurat, Kogalniceanu, Mihail-Cogălniceanu, Mikhail-Kogelnichanu, Rîpi
+Mihail Kogălniceanu, Baseni, Buzdugani, Caramurat, Cogălniceanu, Ferdinand I, Ferdinandi, Karamurat, Kogalniceanu, Mihail Cogălniceanu, Mikhail-Kogelnichanu, Rîpi
 Mihalţ
 Miheleu, Mihălău
 Miheşu de Câmpie, Miheşu de Cîmpie, Miheşul de Câmpie, Mihăşul-de-Câmpie
@@ -6447,7 +6447,7 @@ Măncioiu, Mîncioiu, Măncioiul
 Măndineşti
 Măneasa
 Măneciu-Ungureni, Mineciu, Mîneciu-Ungureni, Măneciu, Măneciul-Ungureni
-Măneuţi, Andrașfalva
+Măneuţi, Andrásfalva
 Măneşti, Măneştii
 Mănicea
 Mănicești, Miniceştii
@@ -7450,7 +7450,7 @@ Pogorăști, Pogoreşti
 Pogăceaua, Pogăceana
 Pogănești, Heidendorf, Paganyesd, Poganesd, Poganyesd, Pogányosd
 Poian, Pojan
-Poiana, Biharmező, Bojana, Cocoşul, Corni-Poiana Răftivanului, Csúcsmező, Căutişeni-Burchi, Căutişeni-Răzeşi, Flămînda, Horoslar, Horoslarul, Lingurari, Moara de Rîturi, Poiana Comarnic, Poiana Iurascu, Poiana Răftivanului, Poiana lui Iuraşcu, Poiana lui Juraşcu, Poianu, Pojana, Polyána, Sohodol Poiana
+Poiana, Biharmező, Bojana, Cocoşul, Corni-Poiana Răftivanului, Csúcsmező, Căutişeni-Burchi, Căutişeni-Răzeşi, Flămînda, Horoslar, Horoslarul, Lingurari, Moara de Rîturi, Poiana Comarnic, Poiana Iurascu, Poiana Răftivanului, Poiana lui Iuraşcu, Poiana lui Juraşcu, Poianu, Pojána, Polyána, Sohodol Poiana
 Poiana Aiudului, Nyírmező
 Poiana Ampoiului
 Poiana Blenchii
@@ -7662,7 +7662,7 @@ Predeal
 Predelut
 Predeşti
 Predeștii Mici, Dia, Diea
-Prejmer, Prázsmár, Tartlau
+Prejmer, Prazsmar, Tartlau
 Prejna
 Prejneni, Prejmeni, Prejnen, Prežnel
 Prejoi, Prejoiu, Prejoiul
@@ -8271,7 +8271,7 @@ Râca Nouă, Rîca Nouă
 Râfov, Râfovul, Rîfov
 Râjleţu-Govora, Bâjleţul-Govora, Râjleţul-Govora, Rîjleţu-Govora
 Râmeţ, Râmeţi, Rîmeţi
-Râmești, Rîmești
+Râmești, Rîmeşti
 Râmniceanca, Rîmniceanca
 Râmnicelu, Obidiţi, Râmnicelul, Rîmnicelu
 Râmniceni, Râmniceni-Brătlanu, Rîmniceni
@@ -8483,9 +8483,9 @@ Satchinez, Knees, Knes, Knéz, Temeskenéz
 Satnoeni
 Satu Barbă, Satubarbă, Satul Barbă
 Satu Lung
-Satu Mare, Grossdorf, Județul Satu Mare, Márèfalva, Nadfal, Nagyfalu, Sacul Mare, Satul Mare, Socoleşti, Szatmár, Szatmár vármegye, Szatmár-Németi, Szatmárnémeti, Sătmar, Temesnagyfalu, comitatus Szathmariensis
-Satu Mic, Dezsőháza, Kisfalud, Satul Mic
-Satu Nou, Analog, Arghirescu, Chiughiu, Chiugi, Căt, Danciu, Filitis, Ghiughi, Grigore Vasiliu, Homoròdujfalù, Ion Arghirescu, Kügyipuszta, Kügypuszta, N.T. Filitis, Neculai T. Filitis, Nătărăi, Odaia Protopopului, Purecei, Puricei, Pârlituri, Pîrlituri, Satu Nou Ostrov, Satul Nou, Satunov, Schiopoaia, Teremeujfalù, Şapte Case
+Satu Mare, Grossdorf, Județul Satu Mare, Márèfalva, Nadfal, Nagyfalu, Sacul Mare, Satul-Mare, Socoleşti, Szatmár, Szatmár vármegye, Szatmár-Németi, Szatmárnémeti, Sătmar, Temesnagyfalu, comitatus Szathmariensis
+Satu Mic, Dezsőháza, Kisfalud, Satul-Mic
+Satu Nou, Analog, Arghirescu, Chiughiu, Chiugi, Căt, Danciu, Filitis, Ghiughi, Grigore Vasiliu, Homoròdujfalù, Ion Arghirescu, Kügyipuszta, Kügypuszta, N.T. Filitis, Neculai T. Filitis, Nătărăi, Odaia Protopopului, Purecei, Puricei, Pârlituri, Pîrlituri, Satu Nou Ostrov, Satul-Nou, Satunov, Schiopoaia, Teremeujfalù, Şapte Case
 Satu Nou de Jos, Satul Nou de Jos
 Satu Nou de Sus, Satul Nou de Sus
 Satu Poieni
@@ -8910,7 +8910,7 @@ Stignița
 Stoboru
 Stoborăști, Stoboreşti, Stobărăşti
 Stodu
-Stoeneşti, Stoeneştii, Stoeresti
+Stoeneşti, Stoenestii, Stoeresti
 Stoenoaia
 Stoiana
 Stoicani
@@ -9738,7 +9738,7 @@ Tânganu, Cernica-Tăngau, Tânganul, Tînganu
 Tânganu Moară, Tânganul-Moara, Tînganu Moară
 Tântava, Tîntava
 Târbeşti, Tîrbeşti
-Târgovişte, Cikóvásárhely, Czikó-Vásárhely, Tirgovics, Tîrgovişte, Vásáros
+Târgovişte, Cikóvásárhely, Czikó-Vásárhely, Tirgovics, Tîrgoviște, Vásáros
 Târgu Bujor
 Târgu Cărbuneşti, Târgul-Cărbuneşti, Tîrgu Cărbuneşti
 Târgu Frumos, Târgul Frumos, Tîrgu Frumos
@@ -9760,7 +9760,7 @@ Târlești, Ţîrleşti
 Târlişua, Tîrlişua
 Târnava, Proştea Mare, Târnavele, Tîrnava
 Târnava de Criş, Tîrnava de Criş
-Târnaviţa, Fazekastarnó, Ternavicza, Tirnovicza, Tîrnoviţa, Tîrnăviţa
+Târnaviţa, Fazekastarnó, Ternavicza, Tirnovicza, Tîrnaviţa, Tîrnoviţa
 Târnicioara, Tîrnicioara
 Târnova, Tîrnova
 Târnoveni, Tîrnoveni
@@ -10164,7 +10164,7 @@ Valea Lupșii
 Valea Maciului
 Valea Mantei
 Valea Marcului
-Valea Mare, Gheboasa, Máriavölgy, Nagyatak, Nagyvölgy, Pogányosvölgy, Rusii, Spira de Sus, Spria de Sus, Tâmpeşti, Tîmpeşti, Valea Mare Nouă, Valea Mare Ruşi, Valea Mare-Negreşti, Valemare, Vallemáre, Zarándpatak
+Valea Mare, Gheboasa, Máriavölgy, Nagyatak, Nagyvölgy, Pogányosvölgy, Rusii, Spira de Sus, Spria de Sus, Tâmpeşti, Tîmpeşti, Valea Mare Nouă, Valea Mare Ruşi, Valea Mare-Negreşti, Valemare, Vallemare, Zarándpatak
 Valea Mare Pravăț, Valea Mare Dîmboviţa
 Valea Mare Veche
 Valea Mare de Codru
@@ -10498,7 +10498,7 @@ Vităneşti, Vităneştii
 Vităneștii de Sub Măgură
 Vizantea Răzășească, Vizantea-Răzeşească, Vizantia-Răzăşeasca
 Vizantea-Mânăstirească, Vizante, Vizantea, Vizantea-Mînăstirească, Vizantia Monastueasc, Vizantia-Mânăstirea
-Vizejdia, Kis-Vizesda, Spicza, Vizešd, Wiseschdia
+Vizejdia, Kis-Vizesda, Spicza, Vizesd, Wiseschdia
 Vizireni
 Viziru, Vizirul
 Vizma
@@ -10901,8 +10901,8 @@ Zăvoaia, Slujitorii-Albeşti
 Zăvoi
 Zăvoieni
 Zăvoiu, Cârpeştii Mici, Cîrpeştii Mici, Zăvoiu Orbului, Zăvoiul, Zăvoiul-Orbului
-sat. Balasan, mun. Băilești, Balasan
-sat. Chiașu, orș. Dăbuleni
+sat. Balasan mun. Băilești, Balasan
+sat. Chiașu orș. Dăbuleni
 sub Balea Lac
 Érsemjén
 În Pădure

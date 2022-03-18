@@ -1007,7 +1007,7 @@ Ajunguloh
 Ajupange
 Ajupute
 Ajuraja Dua, Ajuraja 2
-Ajuraja Satu, Ajuraja 1
+Ajuraja Satu, Ajuraja
 Ajusiponge
 Ak
 Akaaka
@@ -1036,7 +1036,7 @@ Ake Turi, Ake Toeri
 Akebai
 Akedabo
 Akejailolo, Akedjailolo
-Akejojaru, Akedjodjaroe, Akedjodjaru
+Akejojaru, Akedjodjaru, Akédjodjaroe
 Akek
 Akekolano
 Akel
@@ -1408,7 +1408,7 @@ Alue Ie Mameh, Alue Ie Mamet
 Alue Ie Puten
 Alue Igeuh
 Alue Itam Dua, Alueitam II
-Alue Itam Satu, Alueitam
+Alue Itam Satu, Alueitam 1
 Alue Jamak
 Alue Jampa
 Alue Jamuk
@@ -1911,7 +1911,7 @@ Amome
 Amondo
 Amongan
 Amongena Dua, Amongena 2
-Amongena Satu, Amongena
+Amongena Satu, Amongena 1
 Amonggedo
 Amongrogo
 Amononi
@@ -2150,7 +2150,7 @@ Andemawo
 Andepali, Andepah
 Andeposando
 Anderasi
-Andesaria, Raimbawi
+Andesaria Raimbawi
 Andeue
 Andewung
 Andianbaja, Andianbadja
@@ -3024,7 +3024,7 @@ Asramahaji
 Asramapiner
 Asramaya
 Asri
-Asricipageran, Cipageran Dua, Cipageran Satu, Tjipageran 1
+Asricipageran, Cipageran Dua, Cipageran Satu, Tjipageran 2
 Asrikanto
 Asrikoton
 Asrimulyo
@@ -3945,7 +3945,7 @@ Babakanjulang
 Babakanjunti
 Babakankacang
 Babakankadongdong
-Babakankadu, Babakan Kadoe, Babakan Kadoe Satu
+Babakankadu, Babakan Kadoe 3, Babakan Kadoe Satu
 Babakankadukaladi
 Babakankalangsari
 Babakankalapa
@@ -4013,7 +4013,7 @@ Babakankramat
 Babakankubang
 Babakankulon
 Babakankumir
-Babakankupa, Babakan Koepa 2
+Babakankupa, Babakan Koepa
 Babakankurnia
 Babakanlaban
 Babakanlaksana
@@ -6727,7 +6727,7 @@ Bangban
 Bangbangkembar
 Bangbatoh
 Bangbatu
-Bangbayang, Bangbajan, Bangbajang 2, Bangbayang Dua, Bangbayang Satu
+Bangbayang, Bangbajan, Bangbajang, Bangbayang Dua, Bangbayang Satu
 Bangbayang Girang
 Bangbayang Hilir, Bangbajang-hilir
 Bangbayang Kaler
@@ -7923,7 +7923,7 @@ Banjar Yehsumbul
 Banjaragung, Bandjaragoeng, Bandjaragung, Banjaragungilir
 Banjaragungudik
 Banjarampa
-Banjaran, Bandjaran 2, Bandjarsari
+Banjaran, Bandjaran 1, Bandjarsari
 Banjaran Abangan
 Banjaran Dua
 Banjaran Girang
@@ -8034,7 +8034,7 @@ Banjarmulia
 Banjarnahor, Bandjarnahor 2
 Banjarnahor Tiga, Bandjarnahor 3
 Banjarnegara, Bandjarnegal, Bandjarnegara, Bandjoenagara, Bondjonegoro
-Banjarnegeri, Bandjarnĕgri, Bandjarnĕgĕri, Banlarnegeri
+Banjarnegeri, Bandjarnegeri, Bandjarnĕgri, Banlarnegeri
 Banjarnengen
 Banjarpande Selatan
 Banjarpande Utara
@@ -8565,7 +8565,7 @@ Banyutengah
 Banyuterang
 Banyutingal
 Banyutowo
-Banyuurip, Bahjuurip, Bahyuurip, Banjoeoerip, Banjuoerip 1, Banjuurip 3, Banjuurip Dua, Banyuoerip Satu, Banyuurip Tiga
+Banyuurip, Bahjuurip, Bahyuurip, Banjoeoerip, Banjuoerip 1, Banjuurip 2, Banjuurip Dua, Banyuoerip Satu, Banyuurip Tiga
 Banyuurip Barat
 Banyuurip Dua
 Banyuurip Lor, Banjuoerip 2, Banyuoerip Dua
@@ -9097,7 +9097,7 @@ Baruk
 Baruk Barat
 Baruk Utara
 Barukacang
-Barukai, Baroekai, Baroekaj
+Barukai, Baroekai 2, Baroekaj
 Barukai Timur
 Barukalapa
 Barukan, Balukan Dua
@@ -9763,7 +9763,7 @@ Batubutung
 Batubuwuh
 Batucangku
 Batuceneng
-Batuceper, Batoetjeper, Batuceper Dua, Batutjeper 1
+Batuceper, Batoetjeper, Batuceper Dua, Batutjeper 2
 Batuceper Selatan
 Batuceper Timur
 Batuceper Utara
@@ -11351,7 +11351,7 @@ Belilir
 Belilo
 Belimbing, Soewosoewo
 Belimbing Dua, Belingbing 2, Belingbing Dua
-Belimbing Satu, Belingbing
+Belimbing Satu, Belingbing 1
 Belimbing Tiga
 Belimbinganyar
 Belimbingdesa, Blimbing Satu
@@ -11654,7 +11654,7 @@ Bendung, Bendung Dua, Bendungantegal
 Bendung Daya
 Bendung Kokiang
 Bendung Lauk
-Bendungan, Bandoengan, Bendoengan 2, Bendungan Satu, Bendungan Tiga
+Bendungan, Bandoengan, Bendoengan 3, Bendungan Satu, Bendungan Tiga
 Bendungan Dua
 Bendungan Kecil, Bendoengan-ketjil, Bendungan-ketjil
 Bendungan Kidul
@@ -12101,7 +12101,7 @@ Berbuluk Barat
 Berbunut
 Berca
 Bercah
-Bercak, Bercak Dua, Bercak Satu, Bertjak
+Bercak, Bercak Dua, Bercak Satu, Bertjak 2
 Bercak Kidul
 Bercak Lor
 Bercoh
@@ -12576,7 +12576,7 @@ Betuktak, Betoektak
 Betulo
 Betumonga, Batoemonga, Batumonga, Betoemonga
 Betun
-Betung, Betseng, Bĕtoeng
+Betung, Betoeng, Betseng
 Betung Bedarah, Betoengbedarah, Betungbedarah, Butungbedarah
 Betung Dua
 Betung Lama
@@ -13045,7 +13045,7 @@ Binangga Enu
 Binangga Larono
 Binangko
 Binangsri
-Binangun, Binangoen, Birangun
+Binangun, Binangoen 2, Birangun
 Binangun Barat
 Binangun Kidul
 Binangun Kulon, Binanguun Kulon
@@ -14154,7 +14154,7 @@ Blokalmuin
 Blokambon
 Blokang
 Blokang Selatan
-Blokang Utara, Belokang, Belokang Satu
+Blokang Utara, Belokang 1, Belokang Satu
 Blokangmesjid
 Blokangpasar
 Blokangtengah
@@ -14753,7 +14753,7 @@ Bojonagara Satu, Bodjonagara 1
 Bojonegara, Bodjanegara, Bodjonegara
 Bojonegoro, Bodjanegara, Bodjonegora, Bodjonegoro, Bojonegora
 Bojonegoropermai
-Bojong, Bedjong, Bobodjong, Bodjang 2, Bodjong 1, Bodjong Lima, Bodjong Satu, Bodjongdjengkol, Bodjonggebang, Bodjongkawoeng, Bodjongloa, Bodjongrawalele, Boedjoeng, Bojang Dua, Bolang Dua
+Bojong, Bedjong, Bobodjong, Bodjang 2, Bodjong 5, Bodjong Lima, Bodjong Satu, Bodjongdjengkol, Bodjonggebang, Bodjongkawoeng, Bodjongloa, Bodjongrawalele, Boedjoeng, Bojang Dua, Bolang Dua
 Bojong Abuya
 Bojong Barat
 Bojong Dua, Bodjong 2
@@ -14874,7 +14874,7 @@ Bojonggunung
 Bojonghaleuang, Bodjonghaleuang 2, Bojonghaleuang Dua
 Bojonghaleuangpasir, Bodjonghaleuang 1, Bojonghaleuang Satu
 Bojongharendong
-Bojonghaur, Bodjonghaoer, Bodjonghaur 2, Bojonghaur Dua, Bojonghaur Satu
+Bojonghaur, Bodjonghaoer, Bodjonghaur 1, Bojonghaur Dua, Bojonghaur Satu
 Bojonghejo
 Bojongherang, Bodjongherang
 Bojonghonje
@@ -14970,7 +14970,7 @@ Bojonglimus, Bodjonglimoes
 Bojonglimus Girang
 Bojonglimus Lebak
 Bojonglingkung
-Bojongloa, Bodjongloa, Bodjongloe 2, Bodjonglowa, Bojongloa Satu, Bojonglowa, Bojonglu Dua
+Bojongloa, Bodjongloa 2, Bodjongloe 2, Bodjonglowa, Bojongloa Satu, Bojonglowa, Bojonglu Dua
 Bojongloa Dua, Bodjongloa 2
 Bojonglongok
 Bojongloot
@@ -15132,7 +15132,7 @@ Bojongtugu Dua
 Bojongtugu Satu
 Bojongtundun
 Bojongwarna, Bodjongwaru
-Bojongwaru, Bodjonggaru, Bodjongwaroe Dua, Bodjongwaru, Bojonggaru, Bojongwaru Dua, Bojongwaru Tiga
+Bojongwaru, Bodjonggaru, Bodjongwaroe Dua, Bodjongwaru 3, Bojonggaru, Bojongwaru Dua, Bojongwaru Tiga
 Bojongwates, Bodjong
 Bojonsari
 Bojosarae
@@ -15243,7 +15243,7 @@ Bolangbunut, Balongbunut
 Bolangitang, Bolaangitam, Bolaängitang
 Bolangsondol, Bolang Dua
 Bolano Dua, Bolano 2
-Bolano Satu, Bolamo, Bolano 1, Boraa
+Bolano Satu, Bolamo, Bolano, Boraa
 Bolantami
 Bolapadang
 Bolapapu, Bolapaoe, Bolapau
@@ -15621,7 +15621,7 @@ Bongah
 Bongak
 Bongancina Kaja
 Bongangan
-Bonganlongit, Bongan Longit
+Bonganlongit, Bongan-longit
 Bonganti
 Bongas
 Bongas Dua
@@ -16944,7 +16944,7 @@ Buani
 Buantan
 Buao
 Buara
-Buaran, Boearan 1, Boearantjipete, Buarantjipete
+Buaran, Boearan 3, Boearantjipete, Buarantjipete
 Buaran Barat, Buaran Enam
 Buaran Dua
 Buaran Kidul
@@ -17015,7 +17015,7 @@ Bubudan
 Bubuget
 Bubuk
 Bubukasu
-Bubulak, Boeboelak
+Bubulak, Boeboelak 1
 Bubulak Kidul
 Bubulak Kulon
 Bubulak Wetan
@@ -17876,7 +17876,7 @@ Bulubunder
 Buluburaka
 Bulucempa
 Bulucengkeh
-Bulucenrana, Boeloetjenrana, Bulutjenrana
+Bulucenrana, Boeloetjenrana, Bulutjenrana 1
 Bulucepo
 Bulucironge
 Bulucita
@@ -18269,7 +18269,7 @@ Buncing
 Bunciri
 Buncit
 Buncitan, Buntjitan
-Buncu, Boentjoe 3, Buntju
+Buncu, Boentjoe, Buntju
 Bundadap
 Bundah
 Bundan
@@ -18583,7 +18583,7 @@ Bunis Barat
 Bunis Timur
 Bunisakit
 Bunisakti, Boenisakit
-Bunisari, Boenisari 2
+Bunisari, Boenisari
 Buniseah
 Buniseri
 Buniseuri, Beuniseuri, Boeniseuri Satu
@@ -19232,12 +19232,12 @@ Cabalo
 Cabalu
 Caban
 Cabang, Tjabang
-Cabang Dua, Cabangdua 1, Cabangdua Dua, Cabangdua Satu, Tjabangdoea 2, Tjabangdua 2
+Cabang Dua, Cabangdua 1, Cabangdua Dua, Cabangdua Satu, Tjabangdoea 2, Tjabangdua
 Cabang Ekateta
 Cabang Empat
 Cabang Silu
 Cabangbaharu
-Cabangbungin, Cabanbungin Dua, Cabangbungin Satu, Tjabangboengin, Tjabangbungin 1, Tjabangbungin Satu
+Cabangbungin, Cabanbungin Dua, Cabangbungin Satu, Tjabangboengin, Tjabangbungin, Tjabangbungin Satu
 Cabangempat, Cabangampat, Tjabangampat
 Cabanggelam, Tjabanggelam
 Cabanggunung
@@ -19294,7 +19294,7 @@ Cabuk
 Cabukleuleuy
 Cacab
 Cacabala
-Cacaban, Tjatjaban, Tjatjaban Dua
+Cacaban, Tjatjaban 1, Tjatjaban Dua
 Cacaban Barat
 Cacaban Kaler
 Cacaban Kidul
@@ -19595,7 +19595,7 @@ Candawati
 Candean
 Canden, Tjanden
 Canden Gulan
-Candi, Candi Dua, Candi Satu, Candinegoro, Tjandi, Tjandinegoro
+Candi, Candi Dua, Candi Satu, Candinegoro, Tjandi 2, Tjandinegoro
 Candi Duwur
 Candi Enam
 Candi Indah
@@ -19797,7 +19797,7 @@ Cangkrang
 Cangkrangkerep, Tjangkrangkerep
 Cangkreng
 Cangkrep, Tjangkrep
-Cangkring, Cangkring Satu, Cengkringturi, Djedongtjangkring, Jedongcangkring, Tjangkreng, Tjangkring 5, Tjengkringturi
+Cangkring, Cangkring Satu, Cengkringturi, Djedongtjangkring, Jedongcangkring, Tjangkreng, Tjangkring, Tjengkringturi
 Cangkring Barat
 Cangkring Baru
 Cangkring Garon, Garon Dua
@@ -19820,7 +19820,7 @@ Cangkringpos
 Cangkringrejo
 Cangkringrembang, Tjangkringrembang
 Cangkrung
-Cangkuang, Tjangkoeang, Tjangkoewang, Tjangkuang
+Cangkuang, Tjangkoeang, Tjangkoewang, Tjangkuang 1
 Cangkuang Wetan
 Cangkuangmekar, Cangkueng Dua, Tjangkueng 2
 Cangkudu, Tjangkoedoe, Tjangkudu
@@ -19959,7 +19959,7 @@ Caregan
 Careme
 Caren Kidul
 Caren Lor
-Carenang, Tjarenang 3, Tjarenang Dua, Tjarenang Tiga
+Carenang, Tjarenang 2, Tjarenang Dua, Tjarenang Tiga
 Carenang Hilir
 Carenang Kidul
 Carenang Lor
@@ -20120,7 +20120,7 @@ Ceddo
 Ceding Ayu
 Cedok
 Ceeh
-Ceger, Ceger Satu, Tjeger 1, Tjeger Tiga
+Ceger, Ceger Satu, Tjeger, Tjeger Tiga
 Ceger Dua
 Ceger Kidul
 Ceger Kulon
@@ -20425,7 +20425,7 @@ Cengkis
 Cengklik, Cengklik Dua, Tjengklik 2
 Cengklikasari
 Cengklok
-Cengklong, Tjengklong 1
+Cengklong, Tjengklong
 Cengko
 Cengkoe
 Cengkok
@@ -20590,7 +20590,7 @@ Cerkirmanis
 Cerlang
 Cermaian
 Cerman
-Cerme, Cerme Satu, Cherme, Tjerme 1
+Cerme, Cerme Satu, Cherme, Tjerme
 Cerme Kidul
 Cerme Kulon
 Cerme Lor, Tjerme-lor
@@ -20674,7 +20674,7 @@ Ciajag Satu
 Ciajen
 Ciajeung
 Ciakad
-Ciakar, Ciakar Tiga, Ciakur Dua, Tjiakar, Tjiakar Satu
+Ciakar, Ciakar Tiga, Ciakur Dua, Tjiakar 3, Tjiakar Satu
 Ciakar Dua
 Ciakar Girang
 Ciakar Hilir, Tjiakar-hilir
@@ -20761,7 +20761,7 @@ Cianjur Kulon
 Cianjur Satu, Tjiandjur 1
 Cianjur Wetan
 Ciansana
-Cianten, Tjianten 1
+Cianten, Tjianten
 Ciantenherang, Tjianten, Tjiantenherang
 Cianti
 Cianting, Tjianting
@@ -20886,7 +20886,7 @@ Ciawipari Tegal
 Ciawipeundeuy, Tjiawipeundeuj
 Ciawirali, Tjiawitali 1
 Ciawisurat
-Ciawitali, Ciawtali, Tjiawitali 1, Tjiawitali Dua, Tjiawitali Satu
+Ciawitali, Ciawtali, Tjiawitali 3, Tjiawitali Dua, Tjiawitali Satu
 Ciawitali Dua
 Ciawitali Hilir
 Ciawitali Kulon
@@ -20901,7 +20901,7 @@ Ciayun
 Ciayunan, Tjiajunan
 Cibabakan, Tjibabakan 2
 Cibabang
-Cibabat, Cibabat Dua, Cibabat Satu, Tjibabat 2
+Cibabat, Cibabat Dua, Cibabat Satu, Tjibabat 1
 Cibabat-girang, Tjibabat-girang
 Cibabatan, Tjibabakan 1
 Cibabi, Tjibabi
@@ -20913,7 +20913,7 @@ Cibacang Kidul, Tjibatjang
 Cibacang Tengah
 Cibacangcimerang
 Cibadag
-Cibadak, Chibadak, Sibadag, Tjibadag, Tjibadak 3, Tjibadas, Tjibudak
+Cibadak, Chibadak, Sibadag, Tjibadag, Tjibadak 2, Tjibadas, Tjibudak
 Cibadak Dua
 Cibadak Girang
 Cibadak Hilir
@@ -21034,7 +21034,7 @@ Cibangkawang
 Cibangke, Tjibangke
 Cibangkewong
 Cibangkong, Desa Cibangkong, Tjibangkong
-Cibangkonol, Cibangkonol Dua, Tjibangkonol
+Cibangkonol, Cibangkonol Dua, Tjibangkonol 2
 Cibangkur
 Cibangkur Selatan
 Cibangkur Timur
@@ -21328,13 +21328,13 @@ Cibeunyer Tonggoh
 Cibeunying, Cibeuncing, Tjibeunjing, Tjibeunjing Tiga
 Cibeurang, Tjibeurang
 Cibeurekah
-Cibeureum, Cibereum Satu, Cibeureum Empat, Cibeureum Tiga, Tjiberem, Tjibereum, Tjibeureum 3, Tjibeureum Dua, Tjibeureum Satu, Tjibeureumtoea
+Cibeureum, Cibereum Satu, Cibeureum Empat, Cibeureum Tiga, Tjiberem, Tjibereum, Tjibeureum 4, Tjibeureum Dua, Tjibeureum Satu, Tjibeureumtoea
 Cibeureum Babakan
 Cibeureum Bahibo
 Cibeureum Desa
 Cibeureum Dua
 Cibeureum Girang, Tjibeureum
-Cibeureum Hilir, Tjibeureum 2
+Cibeureum Hilir, Tjibeureum
 Cibeureum Inpres
 Cibeureum Jempol
 Cibeureum Kaler
@@ -21410,7 +21410,7 @@ Cibisoro, Tjibisoro
 Cibisoro Kaler
 Cibisoro Kidul
 Cibitu, Tjibitu
-Cibitung, Tjibitoeng 2, Tjibitoeng Satu, Tjibitung 1
+Cibitung, Tjibitoeng 1, Tjibitoeng Satu, Tjibitung 2
 Cibitung Dua
 Cibitung Girang
 Cibitung Hilir
@@ -21444,8 +21444,8 @@ Ciboao Dua, Tjiboao 2
 Cibobok
 Ciboboko
 Cibobos
-Cibodas, Cibadas Satu, Cibodas Tiga, Kibodas, Tjibadas 1, Tjibodas 4, Tjibodas Dua, Tjibodas Satu, Tjibodas Tiga
-Cibodas Dua, Tjibodas 2
+Cibodas, Cibadas Satu, Cibodas Tiga, Kibodas, Tjibadas 1, Tjibodas 1, Tjibodas Dua, Tjibodas Satu, Tjibodas Tiga
+Cibodas Dua, Tjibodas
 Cibodas Empat, Tjibodas 4
 Cibodas Girang
 Cibodas Hilir
@@ -21464,7 +21464,7 @@ Cibodor, Tjibodor
 Ciboeh, Tjiboweh
 Cibogel
 Cibogem
-Cibogo, Cibago Satu, Cibogo Empat, Tibogo 2, Tibogo Dua, Tjibago 1, Tjibago Satu, Tjibogo, Tjibogo Dua, Tjibogo Satu, Tjioogo 1
+Cibogo, Cibago Satu, Cibogo Empat, Tibogo 2, Tibogo Dua, Tjibago 1, Tjibago Satu, Tjibogo 2, Tjibogo Dua, Tjibogo Satu, Tjioogo 1
 Cibogo Barat
 Cibogo Dua, Cibago Dua
 Cibogo Girang
@@ -21524,7 +21524,7 @@ Ciboled
 Ciboleger
 Cibolek Kidul
 Cibolerag, Tjiborerang
-Cibolerang, Ciboreleng Dua, Ciborerang Satu, Tjibolerang, Tjiboreleng 2, Tjiborerang 1
+Cibolerang, Ciboreleng Dua, Ciborerang Satu, Tjibolerang, Tjiboreleng 1, Tjiborerang 1
 Cibolerang Kaler
 Cibolerang Kulon, Cibarerang-hilir, Tjibarerang-hilir
 Cibolerangindah
@@ -21591,7 +21591,7 @@ Cibudung
 Cibuek
 Cibueuk
 Cibugang, Tjiboegang, Tjibugang
-Cibugel, Cibugel Dua, Tjibugel, Tjibugel Dua, Tjibugel Satu
+Cibugel, Cibugel Dua, Tjibugel 1, Tjibugel Dua, Tjibugel Satu
 Cibugel Lama
 Cibugeltugu
 Cibugis, Ciburgis, Tjibugis, Tjiburgis
@@ -21626,7 +21626,7 @@ Cibulik
 Cibulu, Tjiboeloe, Tjiboeloeh
 Cibuluan, Tjiboeloeh
 Cibulubadag
-Cibuluh, Tjibatu, Tjiboeloeh, Tjiboeloeh Dua, Tjiboeloeh Tiga, Tjibuluh
+Cibuluh, Tjibatu, Tjiboeloeh 3, Tjiboeloeh Dua, Tjiboeloeh Tiga, Tjibuluh
 Cibuluh Dua
 Cibuluh Hilir
 Cibuluh Kulon
@@ -21657,7 +21657,7 @@ Cibungbun, Ciboengboen
 Cibunggur, Tjibungur
 Cibungkuh, Tjiboengkoel
 Cibungkul, Tjiboengkoel
-Cibungur, Koeloer, Tjiboengoer, Tjiboengoer Dua, Tjibungur 1, Tjibungur Satu
+Cibungur, Koeloer, Tjiboengoer 1, Tjiboengoer Dua, Tjibungur, Tjibungur Satu
 Cibungur Dua
 Cibungur Empat
 Cibungur Girang
@@ -21682,7 +21682,7 @@ Cibunta
 Cibuntel
 Cibunter, Tjiboenter
 Cibuntiris, Tjiboentiris
-Cibuntu, Nanggeleng Satu, Tjiboentoe 2, Tjiboentoe Satu, Tjiboentoe Tiga, Tjibuntu, Tjibutun
+Cibuntu, Nanggeleng Satu, Tjiboentoe, Tjiboentoe Satu, Tjiboentoe Tiga, Tjibuntu, Tjibutun
 Cibuntu Aliodah
 Cibuntu Bates
 Cibuntu Ciboyong
@@ -21708,13 +21708,13 @@ Ciburahol, Ciburahal, Tjiburahal
 Ciburaholsawah
 Ciburaleng
 Ciburandul
-Ciburang, Tjiboerang, Tjiburang
+Ciburang, Tjiboerang 2, Tjiburang
 Ciburay
 Ciburayut
 Ciburayut Kaler, Tjiburajut
 Ciburayut Kidul
 Ciburia
-Ciburial, Tjiboerial, Tjiburia, Tjiburial, Tjihoerial
+Ciburial, Tjiboerial, Tjiburia, Tjiburial 1, Tjihoerial
 Ciburial Dua
 Ciburial Hilir
 Ciburial Kaler
@@ -21728,7 +21728,7 @@ Ciburuk, Tjiboeroek
 Ciburuluk Girang
 Ciburuluk Hilir
 Ciburulung, Ciburutung, Tjiburutung
-Ciburuy, Tjiboeroej, Tjiboeroej Satu, Tjiburuj 2
+Ciburuy, Tjiboeroej, Tjiboeroej Satu, Tjiburuj
 Ciburuy Dua, Tjibuntu 2
 Ciburuy Girang, Tjiburuj 3
 Ciburuy Hilis
@@ -21753,7 +21753,7 @@ Cicaang
 Cicabah
 Cicabe, Tijtjabe, Tjitjabe
 Cicabe Kulon
-Cicadas, Bihboel Dua, Cijangkoran, Tjidjangkoran, Tjitjadas 1, Tjitjadas Dua, Tjitjadas Satu
+Cicadas, Bihboel Dua, Cijangkoran, Tjidjangkoran, Tjitjadas, Tjitjadas Dua, Tjitjadas Satu
 Cicadas Dua, Tjitjadas 2, Tjitjadas Dua
 Cicadas Girang
 Cicadas Hilir, Tjitjadas-hilir
@@ -21775,7 +21775,7 @@ Cicaheum, Cicaheum Dua, Tjitjaheum 2
 Cicakalmuara
 Cicakar
 Cicakrawang
-Cicalengka, Chichalengka, Cicalengka Dua, Cicalengka Satu, Tjitjalengba, Tjitjalengka
+Cicalengka, Chichalengka, Cicalengka Dua, Cicalengka Satu, Tjitjalengba, Tjitjalengka 2
 Cicalobak, Cilobak, Tjilobak, Tjitjalobak
 Cicalung, Cicaiung, Tjitjaiung
 Cicambay
@@ -21808,7 +21808,7 @@ Cicangor, Tjitjangor
 Cicanir
 Cicanir Lebak
 Cicantayan, Tjitjantajan
-Cicantel, Tjitjantel
+Cicantel, Tjitjantèl
 Cicantigi, Tjitjantigi
 Cicantik
 Cicantu
@@ -21842,7 +21842,7 @@ Cicarulang, Tjitjaroelang
 Cicaruy
 Cicatang
 Cicatang Dua, Tjitjatang 2
-Cicatang Satu, Citjatung, Tjitjatang 1
+Cicatang Satu, Citjatung, Tjitjatang
 Cicatih
 Cicatur, Tjitjatur
 Cicau, Tjitjau
@@ -21910,7 +21910,7 @@ Cicongor Leubak, Cicangorlebak, Tjitjangorlebak
 Cicopong Lebak
 Cicopong Tonggoh
 Cicukal
-Cicukang, Cicujang, Cicukang Tiga, Tjitjoekang, Tjitjukang
+Cicukang, Cicujang, Cicukang Tiga, Tjitjoekang, Tjitjukang 3
 Cicukang Dua
 Cicukang Kidul, Tjitjukang 2
 Cicukang Satu
@@ -21922,14 +21922,14 @@ Cicungging, Tjitjoengging
 Cicungking
 Cicuri
 Cicurug, Tjitjoeroeg, Tjitjoeroeg Dua, Tjitjurug
-Cicurug Dua, Tjitjurug 2
+Cicurug Dua, Tjitjurug
 Cicurug Kulon
 Cicurug Satu
 Cicurug Wetan
 Cicurugsawo
 Cidadali
 Cidadali Lebak
-Cidadap, Cidadap Tiga, Djidadap, Tjidadap 3, Tjidadap Satu, Tjidadup
+Cidadap, Cidadap Tiga, Djidadap, Tjidadap, Tjidadap Satu, Tjidadup
 Cidadap Girang
 Cidadap Hilir, Tjidadap
 Cidadap Pesantren
@@ -22139,7 +22139,7 @@ Cieundeur
 Cieunteung, Tjieunteung
 Cieuraten
 Cieuri
-Cieurih, Tjieurih, Tjieurih Satu
+Cieurih, Tji'eurih, Tjieurih Satu
 Cieurih Dua
 Cieurih Girang
 Cieurih Kaler, Tjieurih-kaler
@@ -22161,7 +22161,7 @@ Cigading, Tjigading
 Cigadingpasar
 Cigado, Tjigado
 Cigadoan, Tjigadowan 1
-Cigadog, Tjigadog
+Cigadog, Tjigadog 3
 Cigadog Hilir, Tjigadog
 Cigadog Kaler
 Cigadog Kidul
@@ -22267,11 +22267,11 @@ Cigaredog
 Cigareng, Tjigareng
 Cigargadung
 Cigaroek
-Cigarogol, Tjigarogol 1, Tjigarogol Dua, Tjigarogol Satu
+Cigarogol, Tjigarogol, Tjigarogol Dua, Tjigarogol Satu
 Cigaron
 Cigaronggong
 Cigarowong
-Cigaru, Tjigaroe 2, Tjigaroe Satu, Tjigaru, Tjigaru Satu
+Cigaru, Tjigaroe 1, Tjigaroe Satu, Tjigaru 1, Tjigaru Satu
 Cigaru Dua
 Cigaru Girang
 Cigaru Hilir
@@ -22422,7 +22422,7 @@ Ciglagah
 Cigoak, Tjigoak
 Cigoang
 Cigobag
-Cigobang, Tjigobang, Tjigobang Dua, Tjigobang Tiga
+Cigobang, Tjigobang 2, Tjigobang Dua, Tjigobang Tiga
 Cigobangwangi
 Cigoce, Tjigotji
 Cigodag
@@ -22593,7 +22593,7 @@ Cihanjawar Tiga
 Cihanjawarbabakan
 Cihanjere
 Cihanjir
-Cihanjuang, Tjihandjoeang, Tjihandjoeng, Tjihandjuang
+Cihanjuang, Tjihandjoeang, Tjihandjoeng, Tjihandjuang 1
 Cihanjuang Dua, Tjihandjuang 2
 Cihanjuang Lebak
 Cihanjuang Satu
@@ -22635,13 +22635,13 @@ Ciharum, Tjiharoem, Tjiharum
 Ciharuman, Tjiharuman
 Ciharunten
 Ciharupat
-Ciharus, Tjiharoes
+Ciharus, Tjiharoes 1
 Cihasem
 Cihaseum, Tjihaseum 2
 Cihaseum Kidul
 Cihateup
 Cihauk
-Cihaur, Sigoeng, Tjihaoer 2, Tjihaur
+Cihaur, Sigoeng, Tjihaoer, Tjihaur
 Cihaur Girang
 Cihaur Hilir
 Cihaur Kidul, Tjihaur
@@ -22684,7 +22684,7 @@ Ciherang Lor Satu
 Ciherang Peuntas
 Ciherang Pondok
 Ciherang Satim, Ciherangsating
-Ciherang Satu, Cherang Satu, Tjiherang, Tjiherang Satu
+Ciherang Satu, Cherang Satu, Tjiherang 1, Tjiherang Satu
 Ciherang Stanplat
 Ciherang Tanjakan
 Ciherang Tengah
@@ -22717,7 +22717,7 @@ Ciheuleutpakuan
 Ciheuras
 Cihiang
 Cihideng
-Cihideung, Cibideung, Cihideongtengah, Tjibideung, Tjihideung
+Cihideung, Cibideung, Cihideongtengah, Tjibideung, Tjihideung 2
 Cihideung Barat, Tjihideung
 Cihideung Dua, Tjihideung, Tjihideung Dua
 Cihideung Girang
@@ -22780,7 +22780,7 @@ Ciinet Dua
 Ciinet Peuntas
 Ciinet Satu
 Ciingga, Tjiingga
-Ciinjuk, Tji'indjoek, Tjiindjuk
+Ciinjuk, Tjiindjoek, Tjiindjuk
 Ciintang
 Ciiraten
 Ciirateun
@@ -22837,7 +22837,7 @@ Cijalur, Cidalur, Tjidalur
 Cijamain, Tjidjamain
 Cijamaka, Djamaka, Jamaka, Tjidjamaka
 Cijamban, Tjidjamban
-Cijambe, Cijembe, Tjidjambe, Tjidjambe Dua, Tjidjambe Satu, Tjidjembe, Tjijambe 3
+Cijambe, Cijembe, Tjidjambe 1, Tjidjambe Dua, Tjidjambe Satu, Tjidjembe, Tjijambe 3
 Cijambe Barat
 Cijambe Dua
 Cijambe Empat
@@ -22954,7 +22954,7 @@ Cijerahpojok
 Cijere
 Cijere Girang
 Cijerokaso, Djerokaso
-Cijeruk, Cijeruk Dua, Cijeruk Satu, Cijeruk Tiga, Tjidjeroek 1, Tjidjeruk 2, Tjijeroek 2
+Cijeruk, Cijeruk Dua, Cijeruk Satu, Cijeruk Tiga, Tjidjeroek, Tjidjeruk 1, Tjijeroek 2
 Cijeruk Atas
 Cijeruk Bawah
 Cijeruk Girang
@@ -23055,10 +23055,10 @@ Cikado, Tjikadoe Satu
 Cikadoka
 Cikadondong, Tjikadongdong
 Cikadondongdesa
-Cikadongdong, Tjikadongdong
+Cikadongdong, Tjikadongdong 2
 Cikadongdong Tengah
 Cikadongdong Tonggoh
-Cikadu, Cikadu Empat, Cikadu Tiga, Cikaulu Satu, Tjidahoe Satu, Tjikadoe 3, Tjikadoe Dua, Tjikadoe Satu, Tjikadoe Tiga, Tjikadu 4, Tjikadu Dua, Tjikadu Tiga, Tjikaulu 1
+Cikadu, Cikadu Empat, Cikadu Tiga, Cikaulu Satu, Tjidahoe Satu, Tjikadoe 2, Tjikadoe Dua, Tjikadoe Satu, Tjikadoe Tiga, Tjikadu, Tjikadu Dua, Tjikadu Tiga, Tjikaulu 1
 Cikadu Dua, Tjikadu 2
 Cikadu Girang
 Cikadu Hilir
@@ -23211,7 +23211,7 @@ Cikancana, Tjikantjana
 Cikancana Girang
 Cikancana Hilir, Tjikantjana
 Cikancas, Tjikantjas
-Cikancra, Tjikantjra
+Cikancra, Tjikantjra 3
 Cikancra Tonggoh
 Cikancra Wetan
 Cikancua
@@ -23337,7 +23337,7 @@ Cikarenceng Landeuh
 Cikarenceng Tonggoh
 Cikarenda
 Cikarentil
-Cikareo, Cikareyo, Tjikarejo, Tjikareo 2, Tjikareo Tiga
+Cikareo, Cikareyo, Tjikarejo, Tjikareo, Tjikareo Tiga
 Cikareo Dua
 Cikareo Satu
 Cikaret, Tjikaret, Tjikaret Tiga
@@ -23436,7 +23436,7 @@ Cikawati Tengah
 Cikaweni
 Cikawini
 Cikawoan
-Cikawung, Tjikaung, Tjikawoeng, Tjikawoeng Dua, Tjikawoeng Satu, Tjitajem
+Cikawung, Tjikaung, Tjikawoeng 2, Tjikawoeng Dua, Tjikawoeng Satu, Tjitajem
 Cikawung Dua
 Cikawung Empat
 Cikawung Ilir
@@ -23493,7 +23493,7 @@ Cikeler
 Cikelet, Tjikelet, Tjikolet
 Cikeletik
 Cikeli, Tjikeli
-Cikelir, Tjikelir
+Cikelir, Tjikelir 1
 Cikelor
 Cikeludan Kulon
 Cikeludan Wetan
@@ -23503,12 +23503,12 @@ Cikembang Dua, Cikembang Empat, Cikembang Tiga, Tjikembang 3
 Cikembang Girang
 Cikembang Hilir
 Cikembang Kidul
-Cikembang Satu, Tjikembang 1
+Cikembang Satu, Tjikembang
 Cikembar, Tjikembar
 Cikembar Hilir
 Cikembulan, Tjikemboelan, Tjikembulan
 Cikempa
-Cikempong, Tjikempong 1
+Cikempong, Tjikempong
 Cikempong Dua, Tjikempong 2, Tjikempong Dua
 Cikempong Empat, Tjikempong 4, Tjikempong Empat
 Cikempong Tiga, Tjikempong 3, Tjikempong Tiga
@@ -23578,7 +23578,7 @@ Ciketing Barat
 Ciketing Sebrang
 Ciketing Selatan
 Ciketing Timur, Ciketing Satu, Tjiketing 1, Tjiketing Satu
-Ciketing-udik, Tjiketing-oedik, Tjiketing-udik
+Ciketing-udik, Tjiketing-oedik 1, Tjiketing-udik 1
 Ciketingasem
 Ciketingjawa
 Ciketingkaum
@@ -23633,7 +23633,7 @@ Cikidang, Tjikidang
 Cikidang Dua, Tjikidang 2
 Cikidang Hilir
 Cikidang Kulon
-Cikidang Satu, Tjikidang 1
+Cikidang Satu, Tjikidang
 Cikidang Wetan
 Cikidung, Tjikidung
 Cikieum
@@ -23868,7 +23868,7 @@ Cikunting
 Cikuntul
 Cikuntul Barat
 Cikuntul Timur
-Cikupa, Cikupa Dua, Cilupa, Cilupa Satu, Tjikoepa 2, Tjikoepa Dua, Tjikoepa Satu, Tjikoepak, Tjikuda, Tjikupa
+Cikupa, Cikupa Dua, Cilupa, Cilupa Satu, Tjikoepa, Tjikoepa Dua, Tjikoepa Satu, Tjikoepak, Tjikuda, Tjikupa
 Cikupa Barat
 Cikupa Landeuh
 Cikupa Lebak
@@ -23935,7 +23935,7 @@ Cilagadar
 Cilagara
 Cilageni, Tjilageni
 Cilagodor, Tjilagodor
-Cilaja, Cilaja Satu, Tjiladja, Tjiladja Satu
+Cilaja, Cilaja Satu, Tjiladja 1, Tjiladja Satu
 Cilaja Hilir, Cilaja Dua, Tjiladja 2, Tjiladja Dua
 Cilaja Pasir, Cilaja Tiga, Tjiladja 3, Tjiladja Tiga
 Cilajim, Tjiladjim
@@ -23950,7 +23950,7 @@ Cilaksana Dua
 Cilaksana Satu
 Cilaku, Tjilakoe
 Cilaku Girang, Tjilakoe, Tjilaku
-Cilaku Hilir, Cilaku Dua, Tjilaku, Tjilaku Dua
+Cilaku Hilir, Cilaku Dua, Tjilaku 2, Tjilaku Dua
 Cilaku Hilirpesantren
 Cilaku Satu, Tjilaku 1, Tjilaku Satu
 Cilakubabakan
@@ -23965,7 +23965,7 @@ Cilalay, Tjilalaj
 Cilalay Dua
 Cilalay Satu
 Cilalay Tiga
-Cilallang, Tjilalang, Tjilelang
+Cilallang, Tjilalang 2, Tjilelang
 Cilalung, Tjilaloeng, Tjilalung
 Cilama, Tjilama
 Cilamajang
@@ -24001,7 +24001,7 @@ Cilampang
 Cilampayan, Tjilampajan
 Cilampe
 Cilampeng
-Cilampeni, Cilampeni Dua, Cilampeni Satu, Cilampeni Tiga, Tjilampeni 3
+Cilampeni, Cilampeni Dua, Cilampeni Satu, Cilampeni Tiga, Tjilampeni 2
 Cilampeong, Tjilampeong
 Cilamping
 Cilampung
@@ -24046,7 +24046,7 @@ Cilangkap Dua, Tjilangkap 2, Tjilangkap Dua
 Cilangkap Kaler, Tjilangkap-kaler
 Cilangkap Kidul, Tjilangkap-hilir
 Cilangkap Lebak
-Cilangkap Satu, Tjilangkap 1, Tjilangkap Satu
+Cilangkap Satu, Tjilangkap 2, Tjilangkap Satu
 Cilangkap Tiga, Tjilangkap 3, Tjilangkap Tiga
 Cilangkaphaji
 Cilangkara
@@ -24118,7 +24118,7 @@ Ciledeg
 Ciledok
 Ciledok Kidul
 Ciledok Lor
-Ciledug, Chiledug, Cileduk-wetan, Tjiledoeg, Tjiledoeg Dua, Tjiledoek, Tjiledoeng, Tjiledug, Tjileduk, Tjileduk-wetan
+Ciledug, Chiledug, Cileduk-wetan, Tjiledoeg, Tjiledoeg Dua, Tjiledoek 3, Tjiledoeng, Tjiledug, Tjileduk, Tjileduk-wetan
 Ciledug Kaler
 Ciledug Kulon
 Ciledug Selatan
@@ -24274,7 +24274,7 @@ Cileuleudan
 Cileuleueur
 Cileuleuj Dua, Tjileuleuj 2
 Cileuleus, Tjileuleus
-Cileuleuy, Cileuleuj Satu, Cileutleuy, Tjileuleuj 2, Tjileutleuj
+Cileuleuy, Cileuleuj Satu, Cileutleuy, Tjileuleuj, Tjileutleuj
 Cileumbu
 Cileumeuh, Tjileumeuh
 Cileunca, Tjileuntja
@@ -24288,7 +24288,7 @@ Cileungsang
 Cileungsar
 Cileungsi, Tjileungsir 1
 Cileungsing, Tjileungsing 2
-Cileungsir, Tjileungsir
+Cileungsir, Tjileungsir 2
 Cileungsir Kulon
 Cileungsir Wetan
 Cileunjang
@@ -24303,7 +24303,7 @@ Cileuti
 Cileutik, Tjileutik
 Cileutuh
 Cileuweng
-Cileuweung, Tjileuweung, Tjileuweung Dua
+Cileuweung, Tjileuweung 2, Tjileuweung Dua
 Cileuweung Dua, Tjileuweung 2
 Cileuweung Empat, Tjileuweung 4
 Cileuweung Satu, Tjileuweung 1
@@ -24340,7 +24340,7 @@ Cilimbangan
 Cilimbung
 Cilimpung
 Cilimui
-Cilimus, Chilemus, Cilimus Dua, Cilimus Satu, Tjilimoes, Tjilimoes Dua, Tjilimoes Satu, Tjilimoes Tiga, Tjilimus
+Cilimus, Chilemus, Cilimus Dua, Cilimus Satu, Tjilimoes, Tjilimoes Dua, Tjilimoes Satu, Tjilimoes Tiga, Tjilimus 1
 Cilimus Hilir
 Cilimus Kulon
 Cilimus Luhur
@@ -24373,7 +24373,7 @@ Ciliwung, Tjiliwoeng
 Ciliwungpanjang
 Cillembu Tonggoh
 Cilo
-Ciloa, Tjiloa 2, Tjiloa Satu, Tjilowa
+Ciloa, Tjiloa, Tjiloa Satu, Tjilowa
 Ciloa Girang, Tjilowa-girang
 Ciloa Hilir, Tjilowa-hilir
 Ciloa Kaler
@@ -24388,7 +24388,7 @@ Cilodan
 Cilodankapuran
 Cilodar, Tjilodar
 Cilodas
-Cilodong, Tjilodong
+Cilodong, Tjilodong 1
 Cilodong Bendungan
 Cilodong Bulak
 Cilodong Dua, Tjilodong 2, Tjilodong Dua
@@ -24496,7 +24496,7 @@ Ciluncat Tengah, Ciluncat Dua, Tjiluntjat 2
 Cilunglum
 Cilungup, Cilungup Dua, Cilungup Satu, Tjiloengoep 1, Tjilungup
 Cilurah
-Cilutung, Tjiloetoeng, Tjilutung
+Cilutung, Tjiloetoeng 1, Tjilutung
 Cilutung Dua
 Cilutung Kaler
 Cilutung Kidul
@@ -24549,7 +24549,7 @@ Cimalati, Tjimalati, Tjimelati
 Cimalatonggoh
 Cimalayu
 Cimalela
-Cimalenjer, Cimalencer Dua, Cimalencer Tiga, Tjimalentjer 2
+Cimalenjer, Cimalencer Dua, Cimalencer Tiga, Tjimalentjer 3
 Cimalid
 Cimalik, Tjimalik
 Cimalina
@@ -24561,7 +24561,7 @@ Cimanah
 Cimanalaksa
 Cimancak
 Cimanceung, Tjimantjing
-Cimandahan, Tjimandahan
+Cimandahan, Tjimandahan 2
 Cimandala, Tjimanala Satu, Tjimandala
 Cimandar, Tjimandar
 Cimande
@@ -24590,7 +24590,7 @@ Cimanggir Udik
 Cimanggis, Tjimanggis
 Cimanggis Dua
 Cimanggis Satu
-Cimanggu, Ketugaang, Tjimanggoe, Tjimanggoe Dua, Tjimanggoe Satu, Tjimanggoe Tiga, Tjimanggu, Tjipamingkis 1
+Cimanggu, Ketugaang, Tjimanggoe, Tjimanggoe Dua, Tjimanggoe Satu, Tjimanggoe Tiga, Tjimanggu 1, Tjipamingkis
 Cimanggu Barat
 Cimanggu Baru, Cimangmaggu Baru
 Cimanggu Dua
@@ -24682,7 +24682,7 @@ Cimarat
 Cimarel
 Cimarelang
 Cimareleng Dua
-Cimareme, Cimareme Dua, Tjimareme 2
+Cimareme, Cimareme Dua, Tjimareme
 Cimareme Hilir
 Cimarena
 Cimareng, Tjimareng
@@ -24810,7 +24810,7 @@ Cimerta Tujuh, Cimerta VII
 Cimertug, Cimeretug, Tjimeretoeg, Tjimeretug
 Cimesah
 Cimesir
-Cimeta, Cimeta Dua, Cimeta Satu, Tjimeta 2
+Cimeta, Cimeta Dua, Cimeta Satu, Tjimeta 1
 Cimetrik
 Cimeubeul
 Cimeudang
@@ -24929,7 +24929,7 @@ Cimuti Kidul
 Cimutilapang
 Cina, Tjina
 Cinaga, Tjinaga
-Cinagara, Cinagra, Tjinagara
+Cinagara, Cinagra, Tjinagara 2
 Cinagara Girang
 Cinagara Hilir, Tjinagara
 Cinagara Tengah
@@ -25000,7 +25000,7 @@ Cinangneng Kaum
 Cinangneng Satu
 Cinangor, Tjnangor
 Cinangreup
-Cinangsi, Tjinangsi 1, Tjinangsi Dua, Tjinangsi Tiga
+Cinangsi, Tjinangsi, Tjinangsi Dua, Tjinangsi Tiga
 Cinangsi Barat, Cinagsi Barat, Tjinangsi
 Cinangsi Dua
 Cinangsi Hilir
@@ -25008,7 +25008,7 @@ Cinangsi Kulon
 Cinangsi Lor
 Cinangsi Satu
 Cinangsi Timur
-Cinangsi Wetan, Cinangsi Tiga, Tjinangsi 3
+Cinangsi Wetan, Cinangsi Tiga, Tjinangsi 2
 Cinangsih
 Cinangsih Satu, Tjinangsi Satu
 Cinangsisateu
@@ -25339,7 +25339,7 @@ Cipadung Barat
 Cipadung Tengah
 Cipadung Timur
 Cipaduni, Tjipadoeni
-Cipaeh, Tjipaeh 1, Tjipaeh Empat, Tjipaeh Lima
+Cipaeh, Tjipaeh 4, Tjipaeh Empat, Tjipaeh Lima
 Cipaeh Kidul
 Cipaeh Tengah, Tjipaeh 3, Tjipaeh Dua, Tjipaeh Tiga
 Cipaehgebang
@@ -25382,7 +25382,7 @@ Cipakenjeng
 Cipakeum, Tjipakem
 Cipakis, Cipakus, Tjipakus
 Cipaksa
-Cipaku, Cipaku-gede, Tjipakoe 1, Tjipakoe Dua, Tjipaku, Tjipaku-gede
+Cipaku, Cipaku-gede, Tjipakoe, Tjipakoe Dua, Tjipaku, Tjipaku-gede
 Cipaku Girang, Tjipakoe-girang
 Cipaku Hilir
 Cipaku Tengah, Cipaku Dua, Tjipaku 2
@@ -25418,7 +25418,7 @@ Cipamengat, Tjipamegat
 Cipameteng
 Cipameungpeuk
 Cipami
-Cipamingkis, Tjipamingkis 2, Tjipamingkis Dua
+Cipamingkis, Tjipamingkis, Tjipamingkis Dua
 Cipamokaan Dua, Tjipamokaan 2
 Cipamokoan, Tjipamokoan 1, Tjipamokolan
 Cipamokolan
@@ -25432,7 +25432,7 @@ Cipanali
 Cipananga, Tjidipanangga
 Cipanangkes
 Cipanaruban
-Cipanas, Cipanas Tiga, Tjipanas 1, Tjipanas Satu
+Cipanas, Cipanas Tiga, Tjipanas, Tjipanas Satu
 Cipanas Dua, Tjipanas 2
 Cipanas Empat, Tjipanas 4
 Cipanas Girang
@@ -25467,7 +25467,7 @@ Cipandanwangi, Tjipandanwangi
 Cipandawa, Tjipandawa
 Cipandeleman
 Cipandur
-Cipanengah, Cipakengar, Tjipanengah 4
+Cipanengah, Cipakengar, Tjipanengah
 Cipanengah Hilir
 Cipanengkas
 Cipaneureusan
@@ -25558,7 +25558,7 @@ Ciparay Kaler
 Ciparay Kidul
 Ciparay Lebak
 Ciparay Satu
-Ciparay Tengah, Tjiparaj
+Ciparay Tengah, Tjiparaj 2
 Ciparaya, Tjikaparaja
 Ciparayan
 Ciparaygede
@@ -25573,7 +25573,7 @@ Ciparengga
 Ciparengpeng
 Cipareuag, Ciparla
 Cipareuay
-Cipari, Tjipari, Tjipari Tiga
+Cipari, Tjipari 3, Tjipari Tiga
 Cipari Dua
 Cipari Girang
 Cipari Hilir, Tjipari-hilir
@@ -25644,7 +25644,7 @@ Cipawitra
 Cipawon
 Cipayanggu Lebak
 Cipayanggu Tonggoh
-Cipayung, Sipajoeng, Tjipajoeng 1, Tjipajung 1
+Cipayung, Sipajoeng, Tjipajoeng, Tjipajung 1
 Cipayung Barat
 Cipayung Dua, Tjipajung 2, Tjipajung Dua
 Cipayung Empat, Tjipajung 4, Tjipajung Empat
@@ -25662,10 +25662,10 @@ Cipcutag
 Cipecang
 Cipecuk
 Cipedak
-Cipedang, Tjipedang 1
+Cipedang, Tjipedang
 Cipedangdasir
-Cipedangjubleg, Tjipedang 3
-Cipedanglasdam, Tjipedang 2
+Cipedangjubleg, Tjipedang
+Cipedanglasdam, Tjipedang
 Cipedangraden
 Cipedangraden Dua
 Cipedangraden Tiga
@@ -25747,13 +25747,13 @@ Cipeuceuk, Tjipeutjeuk
 Cipeucong, Tjipeutjong
 Cipeudeuy
 Cipeueut
-Cipeujeuh, Cipeujeuh Satu, Tjipeudjeuh 3
+Cipeujeuh, Cipeujeuh Satu, Tjipeudjeuh 1
 Cipeujeuh Kaler
 Cipeujeuh Kidul
 Cipeuncang
 Cipeuncit
 Cipeunde, Tjipende
-Cipeundeuy, Cipeundeuy Dua, Cipeundeuy Satu, Tjipendeuj, Tjipeteuj, Tjipeundeuj
+Cipeundeuy, Cipeundeuy Dua, Cipeundeuy Satu, Tjipendeuj, Tjipeteuj, Tjipeundeuj 2
 Cipeundeuy 2, Tjipeudeuj, Tjipeundeuj
 Cipeundeuy Girang, Cipeundeuy Dua, Tjipeundeuj 2
 Cipeundeuy Hilir, Cipeundeuy Tiga, Tjipeundeuj 3
@@ -25779,7 +25779,7 @@ Cipeusar
 Cipeusing, Cipeusing Dua, Tjipesing, Tjipeusing
 Cipeutag
 Cipeutang
-Cipeuteuy, Tjipeuteuj 3, Tjipeuteuj Satu
+Cipeuteuy, Tjipeuteuj 2, Tjipeuteuj Satu
 Cipeuteuy Dua
 Cipeuteuy Empat
 Cipeuteuy Girang
@@ -25790,14 +25790,14 @@ Cipeuteuy Tiga
 Cipeutey, Tjipeuteuj
 Cipeuti, Cipeuri, Tjipeuri, Tjipeuteuj
 Cipeuting
-Cipeutir, Tjipetir
+Cipeutir, Tjipetir 2
 Cipeuyah
 Cipeuyeuh
 Cipeuyeum, Tjipeujeum, Tjipeuyeum
 Cipi
 Cipia
 Cipicang
-Cipicung, Cipicung Tiga, Pitjung, Tjipitjoeng 2, Tjipitjoeng Dua, Tjipitjoeng Satu, Tjipitjung 3, Tjipitjung Tiga
+Cipicung, Cipicung Tiga, Pitjung, Tjipitjoeng, Tjipitjoeng Dua, Tjipitjoeng Satu, Tjipitjung 2, Tjipitjung Tiga
 Cipicung Barat
 Cipicung Dua, Tjipitjung 2
 Cipicung Girang, Tjipitjoeng-girang
@@ -25817,7 +25817,7 @@ Cipigan
 Cipiit, Tjipiit
 Cipinaha, Tjipinaha Satu
 Cipinaha Hilir, Tjipinaha Dua
-Cipinang, Cipinang Dua, Cipinang Satu, Tjipinang 1, Tjipining
+Cipinang, Cipinang Dua, Cipinang Satu, Tjipinang 2, Tjipining
 Cipinang Bawah
 Cipinang Tengah
 Cipinang Timur
@@ -25838,7 +25838,7 @@ Cipinangpait
 Cipinangpulo
 Cipingku, Tjipingkoe
 Cipingpa
-Cipining, Cipining Satu, Tjipining 1, Tjipining Satu
+Cipining, Cipining Satu, Tjipining, Tjipining Satu
 Cipining Dua, Tjipining 2, Tjipining Dua
 Cipining Tiga, Tjipining 3, Tjipining Tiga
 Cipipisan, Tjipipisan
@@ -25930,12 +25930,12 @@ Cipurilit
 Cipuru
 Cipurun
 Cipurungpung
-Cipurut, Tjipeoroet, Tjipoeroet, Tjipurut
+Cipurut, Tjipeoroet, Tjipoeroet 1, Tjipurut
 Cipurwasari
 Cipusar
 Ciputaking
 Ciputaraja
-Ciputat, Ciputa, Tjipoetat, Tjiputat
+Ciputat, Ciputa, Tjipoetat 2, Tjiputat 2
 Ciputat Baru
 Ciputat Dua
 Ciputat Girang
@@ -26025,7 +26025,7 @@ Ciranggan, Tjiranggon
 Cirangganis
 Ciranggem
 Cirangginang
-Ciranggon, Tjiranggon
+Ciranggon, Tjiranggon 1
 Ciranggon Barat
 Ciranggon Timur
 Ciranggonraya
@@ -26092,7 +26092,7 @@ Cirateum Timur
 Cirateun, Tjirateun
 Ciratna
 Ciratun, Tjiirateun
-Cirawa, Tjirawa 2, Tjirawa Tiga
+Cirawa, Tjirawa 1, Tjirawa Tiga
 Cirawa Dua
 Cirawa Girang
 Cirawa Hilir, Tjirawa
@@ -26191,7 +26191,7 @@ Cireundeuy Babakan
 Cireundeuy Panjang
 Cireungas
 Cireunghas, Chireunghas, Tjireungas, Tjireunghas
-Cireungit, Tjireungit 2, Tjireungit Dua, Tjireungit Satu
+Cireungit, Tjireungit 1, Tjireungit Dua, Tjireungit Satu
 Cireunyeuh
 Cireureuy Kulon
 Cireureuy Wetan
@@ -26308,7 +26308,7 @@ Cisaaat
 Cisaar, Tjisaar
 Cisaar Landeuh
 Cisaar Tonggoh
-Cisaat, Tjisaat
+Cisaat, Tjisa'at
 Cisaat Dua
 Cisaat Hilir
 Cisaat Ilir
@@ -26357,7 +26357,7 @@ Cisalada, Tjisalada Dua
 Cisaladah
 Cisalado
 Cisaladu
-Cisalak, Bedengcisalak, Bedengtjisalak, Chisalak, Tjisalak 1
+Cisalak, Bedengcisalak, Bedengtjisalak, Chisalak, Tjisalak 2
 Cisalak Barat
 Cisalak Dua, Tjisalak 2, Tjisalak Dua
 Cisalak Girang
@@ -26400,7 +26400,7 @@ Cisanca Kaler
 Cisanca Kidul
 Cisandaan, Tjisandaan
 Cisandag, Tjisanda
-Cisandawut, Cisandawotu 2, Cisandawut Satu, Tjisandawut 1
+Cisandawut, Cisandawotu 2, Cisandawut Satu, Tjisandawut
 Cisande
 Cisanding
 Cisange
@@ -26588,7 +26588,7 @@ Ciseukeut Timur, Ciseukeut, Tjiseukeut
 Ciseula
 Ciseungit
 Ciseunting
-Ciseupan, Tjiseupan 3
+Ciseupan, Tjiseupan
 Ciseupan Dua
 Ciseupan Girang
 Ciseupan Hilir
@@ -26596,7 +26596,7 @@ Ciseupan Kaler
 Ciseupan Satu
 Ciseupan Tengah
 Ciseureh Hilir
-Ciseureuh, Tjiseureuh 2
+Ciseureuh, Tjiseureuh
 Ciseureuh Girang
 Ciseureuh Hilir
 Ciseureuh Kulon
@@ -26604,7 +26604,7 @@ Ciseureuhdawung
 Ciseureuheun, Ciseureuheum, Tjiseureuheum
 Ciseuseup, Ciseuseup Dua, Tjiseuseup 2
 Ciseuseup Satu, Tjiseuseup 1
-Ciseuseupan, Ciseuseupan Dua, Tjiseuseupan 2
+Ciseuseupan, Ciseuseupan Dua, Tjiseuseupan
 Ciseuti, Tjiseuti
 Ciseuti Girang
 Ciseuti Hilir, Tjisenti-hilir, Tjiseuti
@@ -26638,7 +26638,7 @@ Cisirih Tengah
 Cisirihkebonkalapa
 Cisirna, Tjisero
 Cisirung, Cisirang, Tjisirang, Tjisirung
-Cisitu, Cisitu Tiga, Tjisitoe 3, Tjisitoe Satu, Tjisitu
+Cisitu, Cisitu Tiga, Tjisitoe 2, Tjisitoe Satu, Tjisitu 3
 Cisitu Dua, Tjisitu 2
 Cisitu Gede
 Cisitu Kaler
@@ -26646,7 +26646,7 @@ Cisitu Kidul
 Cisitu Leutik
 Cisitu Satu, Tjisitu 1
 Cisoar, Tjisoar
-Cisodong, Tjisodong 1
+Cisodong, Tjisodong 3
 Cisoga
 Cisogol
 Cisoka, Tjisoka, Tjisoka Satu
@@ -26819,7 +26819,7 @@ Citanjung Wetan
 Citano
 Citanu
 Citapa
-Citapen, Tjitapen 1
+Citapen, Tjitapen
 Citapen Dalam
 Citapen Dua
 Citapen Girang, Tjitapen
@@ -26834,7 +26834,7 @@ Citaraje Satu
 Citaraje Tiga
 Citarate
 Citarate Satu
-Citarik, Tjitarik
+Citarik, Tjitarik 1
 Citarikjatibaru
 Citarikjatireja
 Citarikreja
@@ -26851,7 +26851,7 @@ Citarum
 Citarumpermai
 Citarunggang, Tjitaroenggang
 Citasuk
-Citatah, Citatah-hilir, Pabuwarancitatah, Pabuwarantjitatah, Tjitatah, Tjitatah-hilir
+Citatah, Citatah-hilir, Pabuwarancitatah, Pabuwarantjitatah, Tjitatah 1, Tjitatah-hilir
 Citatah Dalam
 Citatah Dua
 Citatah Kaler
@@ -26862,7 +26862,7 @@ Citawa, Cikawak, Kitawa, Tjikawak, Tjitawa
 Citawamesjid
 Citawi
 Citayam
-Citayam Dua, Djitajam 1, Tjitajam
+Citayam Dua, Djitajam 1, Tjitajam 2
 Citayam Satu, Tjitajam 1, Tjitajam Satu
 Citayam Tiga, Tjitajam 3, Tjitajam Tiga
 Citayampos
@@ -26920,7 +26920,7 @@ Citeras Dua, Tjiteras 2, Tjiteras Dua
 Citeras Satu, Tjiteras 1, Tjiteras Satu
 Citeratayu
 Citerbang
-Citere, Citere Dua, Citere Satu, Citere Tiga, Tjitere 2
+Citere, Citere Dua, Citere Satu, Citere Tiga, Tjitere
 Citere Hilir
 Citerem, Tjiterem
 Citereup
@@ -26933,11 +26933,11 @@ Citeugeul
 Citeula
 Citeulang
 Citeupuseun
-Citeureup, Babakan Teureup, Chiteureup, Citeurep, Sekecawene, Seketjawene, Tjiteurep, Tjiteureup 2, Tjiteureup Satu
+Citeureup, Babakan Teureup, Chiteureup, Citeurep, Sekecawene, Seketjawene, Tjiteurep, Tjiteureup, Tjiteureup Satu
 Citeureup Dua, Tjiteureup 2, Tjiteureup Dua
 Citeureup Kidul
-Citeureup Kulon, Citeureup Empat, Tjiteureup 4
-Citeureup Lor, Chiterap, Tjiteureup 2, Tjiteureup-lor
+Citeureup Kulon, Citeureup Empat, Tjiteureup 2
+Citeureup Lor, Chiterap, Tjiteureup, Tjiteureup-lor
 Citeureup Satu
 Citeureup Tiga, Tjiteureup 3, Tjiteureup Tiga
 Citeurus
@@ -26947,7 +26947,7 @@ Citibo
 Citibul
 Citiga
 Citigeu
-Citiis, Tjitiis, Tjitiis Satu
+Citiis, Tjitiis 2, Tjitiis Satu
 Citiis Dua
 Citiis Satu
 Citikur, Tjitikoer
@@ -27150,7 +27150,7 @@ Ciwarid
 Ciwaringin, Tjiwaringin
 Ciwaringinkaum
 Ciwarok, Tjiwarok
-Ciwaru, Ciwaru Dua, Ciwaru Tiga, Tjiwaroe, Tjiwaru
+Ciwaru, Ciwaru Dua, Ciwaru Tiga, Tjiwaroe, Tjiwaru 3
 Ciwaru Peuntas
 Ciwaru Tengah
 Ciwaru Tonggoh
@@ -27239,7 +27239,7 @@ Clongop
 Clorong
 Clorot
 Clowo
-Clowok, Clowok Dua, Clowok Satu, Tjlowok 1
+Clowok, Clowok Dua, Clowok Satu, Tjlowok 2
 Clumpit
 Clumpring
 Clumprit, Cilumprit, Tjilimprit
@@ -28070,7 +28070,7 @@ Curong Kumbang
 Curu
 Curub
 Curubawang
-Curug, Curug Tiga, Curuk, Curuk Dua, Curuk Satu, Tjoeroeg, Tjoeroek 1, Tjurug 2, Tjuruk
+Curug, Curug Tiga, Curuk, Curuk Dua, Curuk Satu, Tjoeroeg 1, Tjoeroek 1, Tjurug 3, Tjuruk
 Curug 1, Tjurug
 Curug Barat, Curung, Tjurung
 Curug Dua
@@ -29988,7 +29988,7 @@ Demari
 Demasan
 Demba
 Dembe Dua, Dembe 2
-Dembe Satu, Dembe
+Dembe Satu, Dembe 1
 Demblaksari
 Dembo
 Deme
@@ -33731,7 +33731,7 @@ Gairai
 Gairwafu, Gairwafar, Gairwafoe
 Gaitena
 Gajagan
-Gajah, Gadjah 1, Gadjoh, Kuta Gajah, Watugadjah 1, Watugajah Satu
+Gajah, Gadjah, Gadjoh, Kuta Gajah, Watugadjah 1, Watugajah Satu
 Gajah Bala Luit
 Gajah Gunung
 Gajah Lor
@@ -33759,7 +33759,7 @@ Gajahmada
 Gajahman
 Gajahmate
 Gajahmatee
-Gajahmati, Gadjahmati 2
+Gajahmati, Gadjahmati
 Gajahmeuntah, Gadjahmeuentah, Gajahmentah, Gajahmeuentah
 Gajahmungkur
 Gajahnguling
@@ -35006,7 +35006,7 @@ Gebangsiwil
 Gebangtaman
 Gebangtebal
 Gebangtinggi
-Gebangudik, Gĕbang Oedik
+Gebangudik, Gebang-oedik
 Gebangwaru Dua
 Gebangwaru Empat
 Gebangwaru Tiga
@@ -35233,7 +35233,7 @@ Gedugan Barat
 Gedugan Kulon
 Gedugan Timur
 Gedugan Wetan
-Gedung, Gĕdoeng
+Gedung, Gedoeng
 Gedung Agung
 Gedung Biara, Gedongbiara
 Gedung Gajah
@@ -36164,7 +36164,7 @@ Geru
 Geruguh, Gruguh
 Geruh
 Gerukem
-Gerumbul Dua, Gerumbul
+Gerumbul Dua, Gerumbul 2
 Gerumbul Satu, Gerumbul 1
 Gerumbulpring
 Gerumpung
@@ -37004,7 +37004,7 @@ Goji, Godji
 Gojingbosor, Godjingbosor
 Gojo, Goyo
 Gojoyo
-Gokata Dua, Gokata
+Gokata Dua, Gokata 2
 Gokerten
 Goketen
 Goklinggo
@@ -38063,7 +38063,7 @@ Guciputih
 Guda
 Gudagaram
 Gudakoko
-Gudang, Goedang 1, Gudang Satu
+Gudang, Goedang, Gudang Satu
 Gudang Barat
 Gudang Batu
 Gudang Garam
@@ -40024,7 +40024,7 @@ Harumsari
 Harundang
 Haruni
 Haruon
-Harus, Haroes 2
+Harus, Haroes
 Harutupodu
 Haruyan, Haroejan, Harujan
 Hasahatan
@@ -41728,7 +41728,7 @@ Jagatanledoksari
 Jagatapa
 Jagawana
 Jagawana Dua, Djagawana 2
-Jagawana Kaler, Djagawana 1, Jagawana Satu
+Jagawana Kaler, Djagawana, Jagawana Satu
 Jagawana Kidul, Djagawana 3, Jagawana Tiga
 Jagawangsan
 Jagawaras
@@ -42819,7 +42819,7 @@ Jatayu
 Jate Daya
 Jate Laok
 Jateh
-Jaten, Djatan, Djaten 4, Jaten Empat, Jaten Lima, Jaten Satu
+Jaten, Djatan, Djaten 1, Jaten Empat, Jaten Lima, Jaten Satu
 Jaten Cilik
 Jaten Dua, Djaten 2
 Jaten Kidul
@@ -42828,7 +42828,7 @@ Jaten Wetan
 Jatenan
 Jatencilik
 Jater
-Jati, Djati 2, Djati Dua, Jati Lima
+Jati, Djati 4, Djati Dua, Jati Lima
 Jati Barat
 Jati Belarik, Djatibelarik, Jatibelarik
 Jati Dua, Babakan Djati, Djati 2, Djati Dua
@@ -43144,7 +43144,7 @@ Jatisamin
 Jatisandong
 Jatisangar
 Jatisarang
-Jatisari, Djati 2, Djatisari 1, Djatisari Dua, Djatisarirowo, Jatisarirowo
+Jatisari, Djati 2, Djatisari, Djatisari Dua, Djatisarirowo, Jatisarirowo
 Jatisari Dua, Djatisari 2
 Jatisari Lor
 Jatisari Satu
@@ -43262,7 +43262,7 @@ Jawameze
 Jawapau
 Jawar
 Jawaran
-Jawaringan, Djawaringan 1, Djawaringan Dua, Djawaringan Satu
+Jawaringan, Djawaringan 2, Djawaringan Dua, Djawaringan Satu
 Jawaringan Dua
 Jawaringan Satu
 Jawaro
@@ -43557,7 +43557,7 @@ Jelung
 Jelunut, Djelumut
 Jelupang, Djeloepang 1, Djelupang, Djelupang Satu, Jelupang Dua
 Jelutih
-Jelutung, Djeloetoeng, Djelutung
+Jelutung, Djelutung, Djĕloetoeng 2
 Jemah
 Jemah Kulon, Djemah
 Jemah Tengah
@@ -43777,7 +43777,7 @@ Jenggolo Barat
 Jenggolo Timur, Djenggolo
 Jenggolok, Djenggala
 Jenggorap
-Jenggot, Djenggot
+Jenggot, Djenggot 1
 Jenggot Selatan
 Jenggot Tengah
 Jenggot Utara
@@ -43789,7 +43789,7 @@ Jenggrongkrajan, Djenggrong
 Jenggul
 Jengguluk
 Jenggung
-Jengjing, Djeungdjing 1, Djeungdjing Dua, Djeungdjing Satu, Jeungjing Dua, Jeungjing Satu
+Jengjing, Djeungdjing 2, Djeungdjing Dua, Djeungdjing Satu, Jeungjing Dua, Jeungjing Satu
 Jengkal, Cenokal, Tjenokal
 Jengkalan
 Jengkalang
@@ -43807,7 +43807,7 @@ Jengkling
 Jengklok
 Jengkok Dua
 Jengkok Satu
-Jengkol, Djengkol 1, Djengkol Dua, Djengkol Satu, Djengkol Tiga, Jengkol Dua, Jengkol Tiga
+Jengkol, Djengkol 2, Djengkol Dua, Djengkol Satu, Djengkol Tiga, Jengkol Dua, Jengkol Tiga
 Jengkol Kaler, Djengkol 2, Djengkol Dua
 Jengkol Satu, Djengkol 1
 Jengkolan
@@ -44036,7 +44036,7 @@ Jeruktipis, Djeruktipis
 Jerukudel
 Jerukulung
 Jerukuwik
-Jerukwangi, Djerukwangi, Jerukwangi Dua, Jerukwangi Satu
+Jerukwangi, Djerukwangi 1, Jerukwangi Dua, Jerukwangi Satu
 Jerung Dua, Jerung 2
 Jerung Satu, Jerung 1
 Jerungjeru
@@ -44051,7 +44051,7 @@ Jesjurang
 Jeta
 Jetaan
 Jetag
-Jetak, Djetak, Jetak Tiga
+Jetak, Djetak 3, Jetak Tiga
 Jetak Dua
 Jetak Gayam
 Jetak Kalang
@@ -44078,7 +44078,7 @@ Jetek, Djetek
 Jethak
 Jethis
 Jetir
-Jetis, Djelis, Djetis, Djetis Tiga, Jetiis
+Jetis, Djelis, Djetis 3, Djetis Tiga, Jetiis
 Jetis Barat
 Jetis Cilik
 Jetis Kidul
@@ -44466,7 +44466,7 @@ Joharan
 Joharpelita
 Joharpermai
 Johayun
-Joho, Djaha, Djoho 1, Joho Satu
+Joho, Djaha, Djoho, Joho Satu
 Joho Kidul
 Joho Lor
 Joho Wetan
@@ -44483,7 +44483,7 @@ Johunut
 Johunut Kidul
 Joikoi
 Joiranan
-Jojame, Djodjame, Djojame, Joyame
+Jojame, Djodjame, Djojamé, Joyame
 Jojjolo Dua, Jojjolo 2
 Jojjolo Satu, Jojjolo 1
 Jojo
@@ -45051,7 +45051,7 @@ Junge
 Junggan
 Junggangan, Djonggrangan
 Junggea
-Junggo, Djoengga, Djoenggo, Djungga, Djunggo
+Junggo, Djoengga, Djoenggo, Djungga, Djunggo 1
 Junggo Dua, Djunggo 2
 Junggrangan, Djunggrangan
 Junggring
@@ -45273,9 +45273,9 @@ Jurukebon
 Juruksari
 Jurumapin Atas
 Jurumapin Bawah
-Jurumudi, Djoeroemoedi 1, Djurumudi 2, Jurumudi Dua
+Jurumudi, Djoeroemoedi 1, Djurumudi, Jurumudi Dua
 Jurun
-Jurung, Djoeroeng, Djurung
+Jurung, Djoeroeng, Djurung 2
 Jurung Satu, Djurung 1
 Jurungbanjar, Djurungbandjar
 Jurungsari
@@ -45309,7 +45309,7 @@ Juwati
 Juwed
 Juwel
 Juwen
-Juwet, Djuwet 1, Djuwetsembung, Juwet Satu, Juwetsembung
+Juwet, Djuwet, Djuwetsembung, Juwet Satu, Juwetsembung
 Juwet Kidul
 Juwet Lor
 Juwet Selaten
@@ -46287,7 +46287,7 @@ Kaioba, Kaiabe
 Kaioebuin
 Kaioelaen
 Kaipera
-Kaipuri, Raimbawi
+Kaipuri Raimbawi
 Kairagi Dua, Kairagi 2
 Kairagi Satu, Kairagi 1, Kairogi
 Kairagiweru
@@ -48990,7 +48990,7 @@ Kampungarab
 Kampungaren
 Kampungarman
 Kampungasam, Pangkalanasem
-Kampungasem, Kampoengasem 3
+Kampungasem, Kampoengasem 1
 Kampungasem Satu
 Kampungastana
 Kampungbabakan, Djampangbabakan, Jampangbabakan
@@ -49006,7 +49006,7 @@ Kampungbanjar
 Kampungbanten
 Kampungbara
 Kampungbarat
-Kampungbaru, Baroe, Baru Village, Kampoeng-baroe Dua, Kampoeng-baroe Satu, Kampoengbaroe 2, Kampunngbaru, Kumpungbaru
+Kampungbaru, Baroe, Baru Village, Kampoeng-baroe Dua, Kampoeng-baroe Satu, Kampoengbaroe, Kampunngbaru, Kumpungbaru
 Kampungbaru 1, Kampoengbaroe 1
 Kampungbaru Atas
 Kampungbaru Dua
@@ -49091,7 +49091,7 @@ Kampunggondrong, Gondrong, Gonurong
 Kampunggot
 Kampunggrogol
 Kampunggudang
-Kampunggunung, Kampoenggoenoeng 3, Kampunggunung Tiga
+Kampunggunung, Kampoenggoenoeng 2, Kampunggunung Tiga
 Kampunggunung Dua
 Kampunggunungkincir
 Kampunghaji
@@ -49323,7 +49323,7 @@ Kampungturi
 Kampungturingan
 Kampungupas
 Kampungurug
-Kampungutan, Kampoengoetan 2
+Kampungutan, Kampoengoetan 1
 Kampungutan Dua
 Kampungwangun
 Kampungwaru
@@ -49735,7 +49735,7 @@ Kanoman Kidul
 Kanoman Lor
 Kanoman Satu
 Kanona
-Kanonang Dua, Kanonang, Ranowang
+Kanonang Dua, Kanonang 2, Ranowang
 Kanonang Satu, Kanonang 1
 Kanonsan
 Kanopan
@@ -51104,7 +51104,7 @@ Karangreang
 Karangreja, Karangredja 1
 Karangrejan
 Karangrejek
-Karangrejo, Karangredja, Karangredjo, Karangrejo Dua
+Karangrejo, Karangredja, Karangredjo 2, Karangrejo Dua
 Karangrejo Empat Belas
 Karangrejo Hilir
 Karangrejo Hulu
@@ -51737,7 +51737,7 @@ Karyabaru
 Karyabineka
 Karyadharma
 Karyagaluh Dua, Karyagaluh 2
-Karyagaluh Satu, Karyagaluh
+Karyagaluh Satu, Karyagaluh 1
 Karyagumelar
 Karyajadi
 Karyajay
@@ -53232,7 +53232,7 @@ Kebontiwu
 Kebontonggoh
 Kebontotan
 Kebontumpalan
-Kebontunggul, Kebonbunggul 1, Kebonbunggul Dua, Kebonbunggul Satu
+Kebontunggul, Kebonbunggul 2, Kebonbunggul Dua, Kebonbunggul Satu
 Kebonturi
 Kebontutup
 Kebonuluh
@@ -53802,7 +53802,7 @@ Kedungcekong
 Kedungceleng
 Kedungcengkong
 Kedungcentong
-Kedungcinde, Kedungtjinde, Kedungtjinde Dua, Kedungtjinde Satu
+Kedungcinde, Kedungtjinde 2, Kedungtjinde Dua, Kedungtjinde Satu
 Kedungcokol
 Kedungcowek, Kedoengtjowek, Kedungtjowek
 Kedungcurug
@@ -56332,7 +56332,7 @@ Kessipute
 Kestalan
 Kesu
 Kesuben
-Kesugihan, Kasoegihan, Kasugihan, Kesoegian, Kesoegihan
+Kesugihan, Kasoegihan, Kasugihan, Kesoegian, Kĕsoegihan
 Kesugran
 Kesumajati
 Kesuman Dua
@@ -57179,7 +57179,7 @@ Kiriali
 Kirig
 Kirikiri
 Kirimara
-Kirimbri, Raimbawi
+Kirimbri Raimbawi
 Kirinada
 Kiring, Kering
 Kiringan
@@ -58142,7 +58142,7 @@ Koeh
 Koelnoah
 Koelte
 Koeono
-Koeroedge, Raimbawi
+Koeroedge Raimbawi
 Koet
 Koewae
 Kofalagadi, Kafalagadi
@@ -59019,7 +59019,7 @@ Koromalai
 Koromatantu
 Korombuak, Karoemboeak, Koroemboeak, Koromboeak
 Koromong
-Koromoy, Kromoj
+Koromoy, Kromoj 2
 Korompeeli, Koro Mueli
 Koronbobi
 Koroncia
@@ -60124,7 +60124,7 @@ Kregangan
 Kregolan
 Krei
 Krei Baru, Djorang, Nieuw Krai, Nieuw Krei
-Krei Lama, Oud Kerel, Oud Krai, Oud Krei
+Krei Lama, Oud Kerel, Oud Krai, Oud-Krei
 Krejengan, Kredjengan
 Krekah
 Krekel
@@ -60333,7 +60333,7 @@ Kronggen
 Kronggengan
 Kronjen Barat, Krojen Barat
 Kronjen Timur
-Kronjo, Krondjo 1, Krondjo Dua
+Kronjo, Krondjo, Krondjo Dua
 Kronjot
 Krontorejo, Kronto
 Kropak
@@ -60612,7 +60612,7 @@ Kualauneng
 Kualeu
 Kualian
 Kualil
-Kualu Dua, Kualu
+Kualu Dua, Kualu 2
 Kualu Satu, Kualu 1
 Kualuhan
 Kuamang, Koeamang
@@ -62832,7 +62832,7 @@ Laikauwa
 Laikawara
 Laikelong
 Laikeri
-Laikit, Laikit II (Dimembe), Deikit, Laikit 1, Laikit Dimembe, Laikit Matungkas
+Laikit Laikit II (Dimembe), Deikit, Laikit 1, Laikit Dimembe, Laikit Matungkas
 Laikki
 Laikondang
 Laikuta
@@ -63144,7 +63144,7 @@ Lakuuman
 Lakwati
 Lala
 Lalabotan
-Laladon, Laledon
+Laladon, Laledon 3
 Laladon Cilauk
 Laladon Gede
 Laladon Kecil
@@ -63615,7 +63615,7 @@ Lameduri
 Lamegede
 Lamejaya
 Lamelamebungin, Lemeleme
-Lamelaut, Lamelaoet
+Lamelaut, Lamelaoet 1
 Lamelay, Lameloi
 Lamele
 Lamelleperu
@@ -64181,7 +64181,7 @@ Langkapan
 Langkapcaang
 Langkapcaang Hilir
 Langkaphaji
-Langkaplancar, Langaplantjai, Langkaplantjar 2, Langkoplantjar
+Langkaplancar, Langaplantjai, Langkaplantjar, Langkoplantjar
 Langkar
 Langkara
 Langkas
@@ -65370,7 +65370,7 @@ Lebakjampang
 Lebakjati, Lebakdjati
 Lebakjawa
 Lebakjaya, Lebakdjaja, Lebakjaja
-Lebakjero, Lebakdjero 1
+Lebakjero, Lebakdjero
 Lebakjeruk
 Lebakjoho
 Lebakkalapa Tonggoh
@@ -65854,7 +65854,7 @@ Legokngenang
 Legoknginang
 Legoknoong
 Legoknyenag
-Legoknyenang, Legoknjenang
+Legoknyenang, Legoknjenang 2
 Legokombong
 Legokoncom
 Legokondang
@@ -66419,7 +66419,7 @@ Lemburpicung
 Lemburpojok
 Lembursariindah
 Lembursauh
-Lembursawah, Lemboersawah 3
+Lembursawah, Lemboersawah
 Lembursewu
 Lembursingkur
 Lembursitu, Lemboersitoe, Lembuersitoe
@@ -66527,7 +66527,7 @@ Lempungan
 Lempungprapatan
 Lempunyangan
 Lempur Mudik, Lemparmudik, Lempoer-moedik
-Lempur Tengah, Lempartengah, Lempoer Tengah, Lempur
+Lempur Tengah, Lempartengah, Lempoer-tengah, Lempur
 Lempuyang, Lempujang, Lempujangan
 Lempuyangan, Lempujangan
 Lemu, Moeara Lĕmoe
@@ -67736,7 +67736,7 @@ Lhokgajah
 Lhokguci, Lho' Guci, Lhokgutji
 Lhokigeuh, Lho' Igeuh
 Lhokkeutapang
-Lhokkruet, Krut, Lho'kroeët, Lhokkroeët, Lhokruet
+Lhokkruet, Krut, Lho'kroeët, Lho'kruet, Lhokkroeët
 Lhoklambo
 Lhokleumak
 Lhokmeureubok
@@ -68070,7 +68070,7 @@ Limaukunci
 Limaumanis
 Limaumukur
 Limaumungkur Dua, Limaumungkur 2
-Limaumungkur Satu, Limaumungkur 1
+Limaumungkur Satu, Limaumungkur
 Limaupuru
 Limaupurut, Limauburut
 Limauwongtukhul Kuala
@@ -68523,7 +68523,7 @@ Liwung, Lewung
 Liwungpireng
 Liwuto, Liwoeto, Liwoto
 Liwutung Dua
-Liwutung Satu, Liwoetoeng, Liwutung
+Liwutung Satu, Liwoetoeng, Liwutung 1
 Liyamawi
 Liyangan
 Liyatogo
@@ -69767,7 +69767,7 @@ Lubuk Mengkuang, Lubukmengkuang
 Lubuk Mungki
 Lubuk Nangedang, Loeboeknangedang, Lubukmangendap
 Lubuk Napal, Loeboeknapal
-Lubuk Padang Dua, Lubukpadang 2
+Lubuk Padang Dua, Lubukpadang
 Lubuk Padang Satu, Lubukpadang 1
 Lubuk Pakam, Loeboekpakam, Lubukpakam 1
 Lubuk Pakam Pekan
@@ -70344,7 +70344,7 @@ Lumban Sitogu Dua
 Lumban Sitogu Satu
 Lumban Sitogu Tiga
 Lumban Sitohang
-Lumban Sitorus, Lumbansitorus 2, Sitorus 1
+Lumban Sitorus, Lumbansitorus 1, Sitorus 1
 Lumban Soit
 Lumban Soit Dua
 Lumban Sona
@@ -71275,7 +71275,7 @@ Majapasar
 Majapasirkacapi
 Majapurna
 Majasan, Madjasan
-Majasari, Madjasari 2
+Majasari, Madjasari
 Majasem
 Majasem Kidul
 Majasem Lor
@@ -71981,7 +71981,7 @@ Mamungaa Kiki
 Mamunggu
 Mamunu, Manoenoe, Manunu
 Mamur, Mamoen, Mamoer
-Mamuya, Mamoeja 1, Mamuja
+Mamuya, Mamoeja 2, Mamuja
 Man Ara
 Mana
 Manabaya
@@ -71998,7 +71998,7 @@ Manahalik, Nanabalik
 Manahan
 Manak
 Manak Raya
-Manako, Monoko 1, Monoko Dua, Monoko Empat, Monoko Satu, Monoko Tiga
+Manako, Monoko 3, Monoko Dua, Monoko Empat, Monoko Satu, Monoko Tiga
 Manala
 Manalangu
 Manalisse
@@ -72130,10 +72130,10 @@ Mandasip
 Mandatar
 Mandate
 Mandati Dua
-Mandati Satu, Mandati
+Mandati Satu, Mandati 1
 Mandau
 Mandawatu
-Mandaya, Mandaja, Mendaja 1, Mendaja Dua, Mendaja Satu, Mendaja Tiga
+Mandaya, Mandaja, Mendaja 2, Mendaja Dua, Mendaja Satu, Mendaja Tiga
 Mandayana
 Mande
 Mande Dua
@@ -72622,7 +72622,7 @@ Manguneng
 Mangung
 Mangungan
 Mangunharjo, Mangoenhardjo, Mangunhardja, Mangunhardjo, Mangunnardjo, Mangunnarjo
-Mangunjaya, Mangoendjaja, Mangoendjajan, Mangundjaja
+Mangunjaya, Mangoendjaja 1, Mangoendjajan, Mangundjaja 2
 Mangunjaya Dua
 Mangunjayan
 Mangunjiwo
@@ -73267,7 +73267,7 @@ Mareto
 Mareu, Mareue
 Mareweta
 Marga
-Marga, Bali
+Marga Bali
 Margaagung
 Margaasih
 Margabakti
@@ -73394,7 +73394,7 @@ Margosugih
 Margosuko
 Margotomo
 Margototo Dua, Margototo 2
-Margototo Satu, Margototo 1
+Margototo Satu, Margototo
 Margottopong
 Margotuhu Kidul, Matgotuhu Kidul, Mergatoehoe Kidoel, Mergotuhukidul
 Margotuhungrejo
@@ -76424,7 +76424,7 @@ Minola
 Minongo
 Minsi
 Minta
-Mintakasih Lima Puluh, Mintakasih
+Mintakasih Lima Puluh, Mintakasih 50
 Mintaragan
 Mintaunae, Mintaoe Nae
 Minte
@@ -76814,7 +76814,7 @@ Mojasari
 Mojayan
 Mojayanraya
 Mojing
-Mojo, Modjo, Mojo Empat, Mojo Lima, Moto
+Mojo, Modjo 2, Mojo Empat, Mojo Lima, Moto
 Mojo Dua, Modjo 2
 Mojo Kidul
 Mojo Kulon
@@ -77931,7 +77931,7 @@ Muaraair, Moearaäir
 Muaraaman, Moearaaman, Muaraman, Muaroaman
 Muaraancalung, Kelindjau, Moearaäntjaloeng, Muaraantjalung, Muarantjalung, Mura Ahchalung, Mura Antyalung
 Muaraancol, Moeara Antjol, Moearaantjol, Muaraantjol
-Muaraangke, Moeara-angke, Moearaängke
+Muaraangke, Moeara Angke 3, Moearaängke
 Muaraangke Satu
 Muaraanyar
 Muaraapak
@@ -83652,7 +83652,7 @@ Nyamburan, Njamburan 3, Nyamburan Tiga
 Nyamburan Dua, Njamburan 2
 Nyamburan Satu, Njamburan 1
 Nyamen
-Nyamil, Njamil
+Nyamil, Njamil 1
 Nyamok
 Nyampai, Njampaj 2, Nyampay Dua
 Nyampai Dua, Njampai 2
@@ -83803,7 +83803,7 @@ Nyomplong, Njomplong, Njomplong Lima, Nyomolong, Nyomplong Lima
 Nyomplong Girang
 Nyomplong Hilir
 Nyomplong Tengah, Cinyomplong, Tjinjomplong
-Nyompok, Njompok 3, Njompok Dua, Njompok Tiga, Nyompok Dua, Nyompok Tiga
+Nyompok, Njompok 2, Njompok Dua, Njompok Tiga, Nyompok Dua, Nyompok Tiga
 Nyompok Girang, Njompok 1, Njompok Satu, Nyompok Satu
 Nyondol, Njondol
 Nyongat
@@ -84515,7 +84515,7 @@ Ogotenge
 Ogotion, Okotio
 Ogotua
 Ogotumubu, Ogotoemoeboe
-Ogowele Dua, Ogowele
+Ogowele Dua, Ogowele 2
 Ogowele Satu, Ogowele 1
 Ogu
 Oha
@@ -85350,7 +85350,7 @@ Pabrikgubrah
 Pabrikwanti
 Pabrit
 Pabuang
-Pabuaran, Buaranbudug, Damping Dua, Pabaruan, Pabewaran, Paboearan, Paboewaran, Paboewaran Satu, Paboewaran Tiga, Pabuwaran Dua, Pabuwaran Empat, Pabuwaran Enam, Pabuwaran Sebelas, Pabuwaran Tiga, Pabuwaran Tujuh Belas, Pabuwaranpernalo
+Pabuaran, Buaranbudug, Damping Dua, Pabaruan, Pabewaran, Paboearan, Paboewaran 3, Paboewaran Satu, Paboewaran Tiga, Pabuwaran Dua, Pabuwaran Empat, Pabuwaran Enam, Pabuwaran Sebelas, Pabuwaran Tiga, Pabuwaran Tujuh Belas, Pabuwaranpernalo
 Pabuaran Barat
 Pabuaran Dua
 Pabuaran Empat
@@ -85882,7 +85882,7 @@ Padangrambung
 Padangranah
 Padangratu, Padangratoe
 Padangratu Dalam
-Padangraya, Padangrajŏ, Padangrayo, Way Suluh
+Padangraya, Padangrajo, Padangrayo, Way Suluh
 Padangrejo
 Padangrelai
 Padangrendingan
@@ -85993,7 +85993,7 @@ Padasul
 Padatama
 Padatan
 Padate
-Padatimondok, Pedatimondok
+Padatimondok, Pedatimondok 2
 Padatimulya
 Padatkika
 Padattekang
@@ -87825,7 +87825,7 @@ Pamiasih
 Pamicikan
 Pamidangan
 Pamidangan Wetan
-Pamijahan, Pamidjahan
+Pamijahan, Pamidjahan 3
 Pamijahan Landeuh
 Pamijen, Pamidjen
 Pamijen Kidul
@@ -88235,7 +88235,7 @@ Pancur Napitu, Pansoer Na Pitoe, Pantjoer Na Pitoe
 Pancur Onom
 Pancur Telu
 Pancur Tengah
-Pancuran, Pancuran Tiga, Pantjuran
+Pancuran, Pancuran Tiga, Pantjuran 1
 Pancuran Dua, Pantjuran 2
 Pancuran Satu
 Pancurangerobak
@@ -89770,7 +89770,7 @@ Panumbuan
 Panumping
 Panuna
 Panunda
-Panundaan, Panondaän, Tjisaroea, Tjisarua
+Panundaan, Panondaan 1, Tjisaroea, Tjisarua
 Panunggal
 Panunggalan, Panoenggalan, Panoenggalan l
 Panunggalan Kidul
@@ -89864,10 +89864,10 @@ Panyili
 Panyiliban
 Panyinangan, Panjingkiran 1
 Panyindanga, Panjindangan
-Panyindangan, Panjindangan, Panjindangan Dua
+Panyindangan, Panjindangan 1, Panjindangan Dua
 Panyindangan Dua
 Panyindangan Landeuh
-Panyingkiran, Panjingkiran, Panjingkiran Tiga
+Panyingkiran, Panjingkiran 2, Panjingkiran Tiga
 Panyingkiran Dua, Panjingkiran 2
 Panyingkiran Satu
 Panyingkiran-lor, Panjingkiran-lor
@@ -91678,7 +91678,7 @@ Pasijunti
 Pasikan
 Pasikeubeudom
 Pasikuan
-Pasilian Anyar, Pasilian 1
+Pasilian Anyar, Pasilian
 Pasilian Lama, Pasilian 2, Pasilian Dua
 Pasilihan Girang
 Pasilihan Sebrang
@@ -92271,7 +92271,7 @@ Pasirkobul
 Pasirkoer
 Pasirkoet
 Pasirkohkol
-Pasirkoja, Pasirkadja 1, Pasirkaja Dua, Pasirkaja Satu
+Pasirkoja, Pasirkadja 2, Pasirkaja Dua, Pasirkaja Satu
 Pasirkokosan
 Pasirkole
 Pasirkolecer
@@ -92342,7 +92342,7 @@ Pasirlasih
 Pasirlaut
 Pasirlawas
 Pasirlaya, Pasirladja
-Pasirlayung, Pasirlajung 1, Pasirlajung Dua, Pasirlajung Satu, Pasirlandjoeng, Pasirpajoeng
+Pasirlayung, Pasirlajung 2, Pasirlajung Dua, Pasirlajung Satu, Pasirlandjoeng, Pasirpajoeng
 Pasirleah
 Pasirlebak
 Pasirlebu
@@ -92511,7 +92511,7 @@ Pasirpangilingan
 Pasirpanglay, Pasirpanglaj
 Pasirpaniis
 Pasirpanjak, Pasirpandjak
-Pasirpanjang, Desa Kepoeh Tengah, Kepoehtengah, Pasir Pandjang, Pasir Panjung, Pasirpandjang 2, Pasirpandjang Dua, Pasirpanjang Dua, Pasirpanjang Tiga
+Pasirpanjang, Desa Kepoeh Tengah, Kepoehtengah, Pasir Pandjang, Pasir Panjung, Pasirpandjang 3, Pasirpandjang Dua, Pasirpanjang Dua, Pasirpanjang Tiga
 Pasirpanjang Barat
 Pasirpanjang Kulon, Pasirpandjang
 Pasirpanjang Selatan
@@ -92865,7 +92865,7 @@ Patahajang
 Patahan
 Patahpincung, Patahpintjung
 Patahuan
-Patahue, Patahoee, Wakollo Patahoee, Wakolo
+Patahue, Patahoeë, Wakollo Patahoee, Wakolo
 Patahunan, Patahoenan 2, Patahoenan Satu
 Patai
 Pataikokodi
@@ -93741,7 +93741,7 @@ Pebo
 Peboa
 Pebobko
 Pebondo Dua, Pebondo 2
-Pebondo Satu, Pebondo
+Pebondo Satu, Pebondo 1
 Pebotoa
 Pebu
 Pebuahan
@@ -94789,7 +94789,7 @@ Pembasuhan
 Pembe
 Pembelacanan, Pambalacanan, Pembalatjanan
 Pembeliangan, Pemoeliangan
-Pembetokan, Pambetokan 1, Pambetokan Dua, Pambetokan Satu
+Pembetokan, Pambetokan 2, Pambetokan Dua, Pambetokan Satu
 Pembilangan
 Pembon
 Pembongian
@@ -95815,7 +95815,7 @@ Perbawe
 Perbeohan, Parbojohan
 Perbeohanhulu
 Perbesi Dua, Perbesi 2
-Perbesi Satu, Perbesi 1
+Perbesi Satu, Perbesi
 Perbonpermai
 Perbota
 Perboto
@@ -96267,7 +96267,7 @@ Perumahan Perum Otorita Jatiluhur, Perumahan POJ
 Perumahan Perumtel
 Perumahan Perusahaan Listrik Negara, Perumahan PLN
 Perumahan Petir
-Perumahan Polisi Daerah, Perumahan Polda
+Perumahan Polisi Daerah, Perumahan POLDA
 Perumahan Pos & Giro
 Perumahan Puncakburingindah
 Perumahan Rancabali, Rahcabali Dua, Rahtjabali 2
@@ -96764,7 +96764,7 @@ Peudeuyraweuy
 Peudutan
 Peuhangburaq
 Peuhaq
-Peujeuh, Peudjeuh 2, Peudjeuh Dua, Peudjeuh Tiga, Peujeuh Dua, Peujeuh Tiga, Tjipeudjeuh 1
+Peujeuh, Peudjeuh 3, Peudjeuh Dua, Peudjeuh Tiga, Peujeuh Dua, Peujeuh Tiga, Tjipeudjeuh 1
 Peujeuhlebak
 Peukan Bada
 Peukan Cunda
@@ -96965,7 +96965,7 @@ Piji Wetan
 Pijiharjo
 Pijilan
 Pijiman
-Pijinan, Pidjeran 1, Pijeran
+Pijinan, Pidjeran, Pijeran
 Pijiombo
 Pijitan
 Pijitelu
@@ -98135,7 +98135,7 @@ Pojatoi
 Pojenpetean
 Pojoale
 Pojoik
-Pojok, Babakan Podjok, Dukoh Tiga, Podjak 1, Podjok, Podjok Satu, Pojak, Pojak Dua, Pojak Satu
+Pojok, Babakan Podjok, Dukoh Tiga, Podjak 1, Podjok 4, Podjok Satu, Pojak, Pojak Dua, Pojak Satu
 Pojok Dua, Podjok 2
 Pojok Empat, Podjok 4
 Pojok Girang, Podjok 3
@@ -98451,7 +98451,7 @@ Poncogati
 Poncoharjokrajan
 Poncokusuma
 Poncokusumo, Pontjokesoemo, Pontjokoesoemo, Pontjokusumo
-Poncol, Pengarengan-poncol, Pengarengan-pontjol, Pontjol 1, Pontjol Tiga
+Poncol, Pengarengan-poncol, Pengarengan-pontjol, Pontjol 2, Pontjol Tiga
 Poncol Agung
 Poncol Atas
 Poncol Dua, Pontjol 2, Pontjol Dua
@@ -98459,7 +98459,7 @@ Poncol Girang
 Poncol Hilir
 Poncol Kidul
 Poncol Lor, Pontjol
-Poncol Satu, Pontjol 1, Pontjol Satu, Pontjoloetan, Pontjolutan
+Poncol Satu, Pontjol, Pontjol Satu, Pontjoloetan, Pontjolutan
 Poncol Tiga, Poncolutan
 Poncolan
 Poncolbolang
@@ -98967,7 +98967,7 @@ Pondokcaringin
 Pondokcemara
 Pondokcempaka, Pondokcempaca, Pondoktjempaka
 Pondokcereme
-Pondokcina, Pondoktjina 1
+Pondokcina, Pondoktjina
 Pondokcina Empat, Pondoktjina 4, Pondoktjina Empat
 Pondokcina Tiga, Pondoktjina 3, Pondoktjina Tiga
 Pondokcing Dua, Pondoktjina 2, Pondoktjing Dua
@@ -99092,7 +99092,7 @@ Pondokpetir Utara
 Pondokpeucang
 Pondokpinang
 Pondokpring
-Pondokpucung, Pondokpoetjoeng 1, Pondokpucung Dua, Pondokpucung Tiga, Pondokputjung
+Pondokpucung, Pondokpoetjoeng 2, Pondokpucung Dua, Pondokpucung Tiga, Pondokputjung 2
 Pondokpucung Satu, Pondokpoetjoeng 1, Pondokputjung
 Pondokpurnama
 Pondokpurnawira
@@ -100357,7 +100357,7 @@ Pucukmendil
 Pucukmenyo
 Pucukreudeueb, Putjukreudeueb
 Pucuksawit Wetan
-Pucung, Poetjoeng, Pucung Dua, Pucung Tiga, Putjung 2
+Pucung, Poetjoeng, Pucung Dua, Pucung Tiga, Putjung 3
 Pucung Kidul
 Pucung Kulon
 Pucung Kuwuk
@@ -100676,7 +100676,7 @@ Pulau Putus
 Pulau Raja Tua
 Pulau Rakyat Pekan
 Pulau Raman, Pulauraman
-Pulau Rambai Dua, Pulaurambai 2
+Pulau Rambai Dua, Pulaurambai
 Pulau Rambar Satu, Pulaurambar 1
 Pulau Raya, Puloraja
 Pulau Rengas, Poelaurengas, Pulaurengas
@@ -100789,7 +100789,7 @@ Pulawala
 Puldapus
 Puldon Barat
 Puldon Timur
-Pule, Poele 1, Pule Satu
+Pule, Poele, Pule Satu
 Pule Kulon
 Pule Selatan
 Pule Tengah, Pule Dua
@@ -100985,7 +100985,7 @@ Pulokambing Satu, Poelokambing 1, Pulokambing
 Pulokanayakan
 Pulokandang
 Pulokapuk
-Pulokecil, Poelo-ketjil, Pulo-kecil Dua, Pulo-kecil Satu, Pulo-ketjil
+Pulokecil, Poelo-ketjil, Pulo-kecil Dua, Pulo-kecil Satu, Pulo-ketjil 2
 Pulokedep, Poelokedep
 Pulokelapa, Pulokalapa
 Pulokelor
@@ -101238,7 +101238,7 @@ Puncakmanik, Poentjakmanik
 Puncakmanis
 Puncakmanis Kulon
 Puncakmanis Wetan
-Puncakmara, Puncakmara Dua, Puntjakmara 2
+Puncakmara, Puncakmara Dua, Puntjakmara
 Puncakmerdeka
 Puncakmulya
 Puncakpari
@@ -102440,7 +102440,7 @@ Rajakepok
 Rajakinayam, Radjakinajam
 Rajamaligas Satu, Radjamaligas, Rajamaligas 1
 Rajamaligas Tiga, Rajamaligas 3
-Rajamandala, Radjamandala, Radjamandala-wetan 1, Rajamandala-wetan, Rajamandala-wetan Dua
+Rajamandala, Radjamandala, Radjamandala-wetan 2, Rajamandala-wetan, Rajamandala-wetan Dua
 Rajambu, Radjambu
 Rajamulya
 Rajan
@@ -102466,7 +102466,7 @@ Rajawali Timur
 Rajawana
 Rajawawo
 Rajaya
-Rajeg, Radjeg 1
+Rajeg, Radjeg
 Rajeg Kidul
 Rajeg Kulon
 Rajeg Wetan
@@ -102776,7 +102776,7 @@ Rancabakti Dua
 Rancabakti Satu
 Rancabakung, Rantjabakoeng
 Rancabala
-Rancabali, Rancabali Satu, Rantjabah, Rantjabali
+Rancabali, Rancabali Satu, Rantjabah, Rantjabali 1
 Rancabali Kulon
 Rancabali Wetan
 Rancabalipasir
@@ -102805,7 +102805,7 @@ Rancabendeum, Rantjabendem
 Rancabentang, Rancabaeud, Rantjabaeud
 Rancabeong, Rantjabeong
 Rancabeulut
-Rancabeureum, Rantjabeureum
+Rancabeureum, Rantjabeureum 1
 Rancabeureun
 Rancabilu
 Rancabitung
@@ -102842,7 +102842,7 @@ Rancadeleg, Rancadaleg, Rantjadeleg
 Rancadobon
 Rancadoga, Rantjadoga
 Rancaduhang
-Rancadulang, Rancadulang Dua, Rantjadulang 2
+Rancadulang, Rancadulang Dua, Rantjadulang
 Rancadundu
 Rancaeceng, Rantjaetjeng
 Rancaekek, Rancha Ekek, Rantjaekek, Rantjaekik, Rantjaskèk
@@ -102860,7 +102860,7 @@ Rancagarut
 Rancagatel
 Rancagawe Kaler
 Rancagawe Kidul
-Rancagede, Djalupang, Rancagede Tiga, Rantja-gede, Rantjagede 3, Rantjagede Tiga
+Rancagede, Djalupang, Rancagede Tiga, Rantja-gede, Rantjagede, Rantjagede Tiga
 Rancagede Kaler, Rancagede Dua, Rantjagede 2, Rantjagede Dua
 Rancagede Kidul, Rancagede Empat, Rantjagede 4, Rantjagede Empat
 Rancagempol
@@ -102893,7 +102893,7 @@ Rancahkedawung
 Rancahmaneh
 Rancahungur
 Rancaiga, Rantjaiga
-Rancailat, Rantjailat 1
+Rancailat, Rantjailat
 Rancailatpecuk
 Rancailer Dua, Rantjailer 2
 Rancaipik
@@ -103054,7 +103054,7 @@ Rancarengas
 Rancaririp, Rantjaririp
 Rancarongge
 Rancasaar
-Rancasaat, Rancasaat Dua, Rancasaat Satu, Rantjasaat 1, Rantjasaat Dua, Rantjasaat Satu
+Rancasaat, Rancasaat Dua, Rancasaat Satu, Rantjasaat 2, Rantjasaat Dua, Rantjasaat Satu
 Rancasabir, Rantjasabir
 Rancasadang, Rantjasadang
 Rancasagatan, Rantjasagatan
@@ -103978,7 +103978,7 @@ Rawabelut
 Rawabengkek
 Rawabengkel
 Rawabening
-Rawabesar, Rawa-besar 1
+Rawabesar, Rawa-besar 2
 Rawabeunceuh
 Rawabeureum
 Rawabinong, Rawahmong
@@ -104492,7 +104492,7 @@ Rejonitih
 Rejopeni
 Rejopuro
 Rejosalam
-Rejosari, Gedjosari, Radjasari, Redjosari 1, Rejosari Satu, Rejosari Tiga
+Rejosari, Gedjosari, Radjasari, Redjosari 2, Rejosari Satu, Rejosari Tiga
 Rejosari Dua, Redjosari 2
 Rejosari Kidul
 Rejosari Kulon
@@ -104506,7 +104506,7 @@ Rejoso, Redjasa, Redjoso, Redjoso-lor
 Rejoso Lor
 Rejoso Wetan
 Rejososumber
-Rejotangan, Redjatangan, Redjotangan 2
+Rejotangan, Redjatangan, Redjotangan 1
 Rejotani
 Rejowaluyo
 Rejowinangun
@@ -105974,7 +105974,7 @@ Rumyaan, Roemjani, Roemjaän, Rumjani, Rumyani
 Run, Pulau Rhun
 Runa
 Runde
-Rundeng, Roendeng, Roendjeng, Sabuluselam, Sibulus Salam, Subulusalam
+Rundeng, Roendjeng, Roendéng, Sabuluselam, Sibulus Salam, Subulusalam
 Runding, Roending
 Rundun
 Rundungputih
@@ -106133,7 +106133,7 @@ Sabarmenanti
 Sabarta
 Sabasiala
 Sabasitopayan
-Sabatai Baru, Sabatai-baroe
+Sabatai Baru, Sabatai-Baroe
 Sabatai Tua, Sabatai, Sabatai-toea
 Sabatan
 Sabatarutung
@@ -106651,7 +106651,7 @@ Sakudabolah
 Sakuikui
 Sakul
 Sakulati
-Sakulo, Sakoelo 1
+Sakulo, Sakoelo
 Sakung
 Sakur
 Sakura
@@ -107479,7 +107479,7 @@ Sambirata
 Sambirati
 Sambirbendera
 Sambiregog
-Sambirejo, Sambiredja, Sambiredjo, Sambireja, Soemberredja, Soemberredjo, Sumberdjae, Sumberjae, Sumberredjo
+Sambirejo, Sambiredja, Sambiredjo 1, Sambireja, Soemberredja, Soemberredjo, Sumberdjae, Sumberjae, Sumberredjo
 Sambirejo Barat
 Sambirejo Dua
 Sambirejo Kulon
@@ -107816,7 +107816,7 @@ Sampuran Naunong
 Sampuranharimau
 Sampurannauli
 Sampurendeng
-Sampureun, Sempuren 2, Sempuren Dua, Sempuren Satu
+Sampureun, Sempuren 1, Sempuren Dua, Sempuren Satu
 Sampuri
 Sampurna
 Sampurno
@@ -108162,7 +108162,7 @@ Sangkretan
 Sangku, Sangkoe
 Sangkuan
 Sangkuang
-Sangkuangklano, Badjo, Kampoeng Badjo, Sangkoeangklano 2
+Sangkuangklano, Badjo, Kampoeng Badjo, Sangkoeangklano 1
 Sangkub, Sangkoeb, Sangkoep
 Sangkulita
 Sangkulungan
@@ -108277,7 +108277,7 @@ Sanrego
 Sanreko
 Sanrobone, Sanrabone, Sonrobone
 Sansang
-Sansarino Dua, Sansarino 2
+Sansarino Dua, Sansarino
 Sansarino Satu, Sansarino 1
 Santa
 Santaka
@@ -108870,7 +108870,7 @@ Sasak Dua
 Sasak Satu
 Sasakan
 Sasakanyar
-Sasakbakar, Sasakbahar, Sasakbahar Dua, Sasakbahar Satu
+Sasakbakar, Sasakbahar 1, Sasakbahar Dua, Sasakbahar Satu
 Sasakbatu
 Sasakbeusi
 Sasakbomo
@@ -109245,7 +109245,7 @@ Sawetifin, Sawetfin
 Saweue
 Saweuek
 Sawey Dua, Sawey 2
-Sawey Satu, Sawey
+Sawey Satu, Sawey 1
 Sawi
 Sawi Rejo
 Sawia, Sawija
@@ -109863,7 +109863,7 @@ Sei Piring
 Sei Putat
 Sei Putih Barat
 Sei Putih Timur
-Sei Rampah, Soengairampah, Sungairampah
+Sei Rampah, Soengairampah, Sungairampah 2
 Sei Raya
 Sei Rengas Dua, Seirengas 2
 Sei Rengas Satu, Seirengas 1
@@ -111429,7 +111429,7 @@ Sendangpasir
 Sendangputri
 Sendangramut
 Sendangrao
-Sendangrejo, Sendangredjo 1, Sendangrejo Satu
+Sendangrejo, Sendangredjo, Sendangrejo Satu
 Sendangretno
 Sendangsampir
 Sendangsari
@@ -113528,7 +113528,7 @@ Sidomulyu, Sidomuljo
 Sidonalan
 Sidondang
 Sidondo Dua, Sidondo 2
-Sidondo Satu, Siaondo, Sidondo 1, Sidondol
+Sidondo Satu, Siaondo, Sidondo, Sidondol
 Sidonganti
 Sidongdong
 Sidongdong Julu
@@ -113555,7 +113555,7 @@ Sidorame Timur
 Sidorang
 Sidorangu
 Sidorawuh
-Sidorejo, Sidoredjo
+Sidorejo, Sidoredjo 2
 Sidorejo Dua
 Sidorejo Duwur
 Sidorejo Kidul
@@ -114296,7 +114296,7 @@ Silau Tomuan
 Silaubataran Hulu, Silau Hataran Oeloe
 Silaubawang
 Silaubolon
-Silaubosar Dua, Silaubosar
+Silaubosar Dua, Silaubosar 2
 Silaubosar Satu, Silaubosar 1, Silaubosarbagasan
 Silauhariahan
 Silauhataran
@@ -114801,7 +114801,7 @@ Simowau
 Simp-simar Jurunjung
 Simpak
 Simpan Baleg
-Simpang, Simdangpanca, Simipang, Simoang, Simpang Tambue, Simpangampat 1
+Simpang, Simdangpanca, Simipang, Simoang, Simpang Tambue, Simpangampat
 Simpang Abu
 Simpang Abung
 Simpang Aji, Simpanghadji, Simpanghaji
@@ -115024,7 +115024,7 @@ Simpangpeundeuy, Sampangpeundeuj, Sampangpeundeuy
 Simpangpeut, Simpangpeuet
 Simpangranting
 Simpangrawa
-Simpangrejo Dua, Simpangrejo 2
+Simpangrejo Dua, Simpangrejo
 Simpangrejo Satu, Simpangrejo 1
 Simpangrengas
 Simpangsari
@@ -115290,7 +115290,7 @@ Sindanghayu Tiga
 Sindanghegar
 Sindangherang
 Sindangheula
-Sindanghurip, Sindanghoerip 2
+Sindanghurip, Sindanghoerip
 Sindangjati
 Sindangjawa, Sindangdjawa
 Sindangjaya, Sindangdjaja
@@ -115338,7 +115338,7 @@ Sindangnangoh
 Sindangpagar
 Sindangpakuan
 Sindangpala
-Sindangpalay, Sindangpalaj 1, Sindangpalaj Dua
+Sindangpalay, Sindangpalaj 2, Sindangpalaj Dua
 Sindangpalay Dua
 Sindangpalay Satu
 Sindangpanji, Sindangpandji
@@ -116341,7 +116341,7 @@ Sitorang Empat, Sitorang 4
 Sitorang Enam, Sitorang 6
 Sitorang Lima, Sitorang 5
 Sitorang Nabolon
-Sitorang Satu, Sitorang
+Sitorang Satu, Sitorang 1
 Sitorang Tiga, Sitorang 3
 Sitorangjae
 Sitorbis
@@ -116820,7 +116820,7 @@ Sobuk
 Soburan
 Socah, Socha, Sotja, Sotjah
 Socan
-Soce, Soce Dua, Soce Satu, Sotje 2
+Soce, Soce Dua, Soce Satu, Sotje 1
 Socen
 Soco, Sotja
 Soco Dua
@@ -118675,7 +118675,7 @@ Sukan
 Sukana
 Sukanadi
 Sukanagalih
-Sukanagara, Soekanagara, Soekanegara
+Sukanagara, Soekanagara, Soekanĕgara
 Sukanagari
 Sukanalo
 Sukanalu
@@ -118722,7 +118722,7 @@ Sukapuyuh
 Sukaraharja
 Sukarahayu
 Sukarahmat
-Sukaraja, Soekaradja 2, Soekaradja Dua, Sokaradja, Sukaradja, Sukoraja
+Sukaraja, Soekaradja, Soekaradja Dua, Sokaradja, Sukaradja, Sukoraja
 Sukaraja Barat
 Sukaraja Dua
 Sukaraja Girang
@@ -118738,7 +118738,7 @@ Sukarama
 Sukaramai, Karadjoan, Karajoan
 Sukaramai Dua
 Sukaramai Satu
-Sukarame, Soekarame, Soekarame Dua
+Sukarame, Soekarame 1, Soekarame Dua
 Sukarame Dua, Suka Rame 2
 Sukarame Empat, Suka Rame 4
 Sukarame Enam, Suka Rame 6
@@ -119238,7 +119238,7 @@ Sumbawa Besar, Soembawa, Soembawa-besar
 Sumbawana
 Sumbek
 Sumbel
-Sumber, Soember, Soemboer, Sunber
+Sumber, Soember 1, Soemboer, Sunber
 Sumber Agung
 Sumber Agung 2
 Sumber Agung Satu
@@ -119315,7 +119315,7 @@ Sumberati
 Sumberawan
 Sumberaya Barat
 Sumberaya Timur
-Sumberayu, Sumberaju 2, Sumberayu Dua, Sumberayu Satu
+Sumberayu, Sumberaju 1, Sumberayu Dua, Sumberayu Satu
 Sumberayu Kulon
 Sumberayu Tiga, Sumberaju 3
 Sumberayung
@@ -119599,7 +119599,7 @@ Sumbermangkir
 Sumbermangku
 Sumbermanis
 Sumbermanjing Krajan
-Sumbermanjing Kulon, Soembermandjing, Sumbermandjing, Sumbermandjing-kulon
+Sumbermanjing Kulon, Soembermandjing 1, Sumbermandjing, Sumbermandjing-kulon
 Sumbermanjing Wetan, Soembermandjing, Sumbermandjing, Sumbermandjing-wetan
 Sumbermaron
 Sumbermas, Soembermas
@@ -119698,7 +119698,7 @@ Sumberrejogebang
 Sumberremis
 Sumberrezeki
 Sumberringin
-Sumberrojokrajan, Sumberredjo
+Sumberrojokrajan, Sumberredjo 2
 Sumberroto
 Sumberrowo
 Sumbersalak
@@ -119781,8 +119781,8 @@ Sumberurip Kidul
 Sumberurip Lor
 Sumberurip Tengah
 Sumberuripkrajan
-Sumberwader, Soemberwader
-Sumberwadung, Soemberwadoeng 1
+Sumberwader, Soemberwader 1
+Sumberwadung, Soemberwadoeng 2
 Sumberwadung Kidul
 Sumberwadung Lor
 Sumberwaluh, Soemberwaloeh
@@ -120126,7 +120126,7 @@ Sumurugul
 Sumurup
 Sumurwaluh
 Sumurwangi Dua, Sumurwangi 2
-Sumurwangi Satu, Sumurwangi 1
+Sumurwangi Satu, Sumurwangi
 Sumurwangi Tiga, Sumurwangi 3
 Sumurwangilamping
 Sumurwarak
@@ -120471,7 +120471,7 @@ Sungaibalantik, Sungaibarlantik
 Sungaibali, Soengaibali
 Sungaibamban
 Sungaibamban Estate
-Sungaibambu, Soengaibamboe 2, Soengaiboentoe, Sungaibamtu, Sungeibuntu, Sungi Buntu
+Sungaibambu, Soengaibamboe 1, Soengaiboentoe, Sungaibamtu, Sungeibuntu, Sungi Buntu
 Sungaibang
 Sungaibaringin
 Sungaibaru, Soengaibaroe
@@ -121121,7 +121121,7 @@ Sussu
 Susu
 Susu'an
 Susua Dua, Susua 2
-Susua Satu, Susua
+Susua Satu, Susua 1
 Susua Tiga, Susua 3
 Susuejaya
 Susuhan, Soesoekan
@@ -121360,7 +121360,7 @@ Tabatano
 Tabatgadang
 Tabatgulung
 Tabatpanjang
-Tabatpatah Satu, Tabatpatah
+Tabatpatah Satu, Tabatpatah 1
 Tabau
 Tabawolo
 Tabbae
@@ -124526,7 +124526,7 @@ Tanatambula
 Tanatana
 Tanatanang
 Tanatelampe
-Tanatenga Dua, Tanatenga 2
+Tanatenga Dua, Tanatenga
 Tanatenga Satu, Tanatenga 1
 Tanatengae
 Tanatengnga
@@ -124807,8 +124807,8 @@ Tanggluk
 Tanggo
 Tanggo Panjang
 Tanggobos
-Tanggobu Dua, Tanggobu 2
-Tanggobu Satu, Tanggobu 1
+Tanggobu Dua, Tanggobu
+Tanggobu Satu, Tanggobu
 Tanggok Barat
 Tanggok Timur
 Tanggoloe
@@ -125396,7 +125396,7 @@ Tanjungangin
 Tanjungangsa
 Tanjunganom, Tandjungsari
 Tanjunganom Dua
-Tanjunganom Satu, Tandjunganom
+Tanjunganom Satu, Tandjunganom 1
 Tanjunganum
 Tanjunganyar, Desa Tandjoeng Anjar
 Tanjungaro
@@ -126138,7 +126138,7 @@ Tarate
 Taratemekar
 Tarattallu
 Tarattang
-Tarau, Taraoe
+Tarau, Tara'oe
 Taraudu, Taraoedoe
 Taraujung
 Tarauwe
@@ -126380,7 +126380,7 @@ Tassoso
 Tasuka
 Tasutan
 Taswan
-Tataaran Dua, Tataaran 2
+Tataaran Dua, Tataaran
 Tataaran Satu, Tataaran 1
 Tataba
 Tatabau, Tatabaoe
@@ -127185,7 +127185,7 @@ Tegalpanas
 Tegalpanasan
 Tegalpancar
 Tegalpanggung
-Tegalpanjang, Pasirpandjang 1, Pasirpanjang Satu, Tegalpandjang 2, Tegalpandjang Satu
+Tegalpanjang, Pasirpandjang 1, Pasirpanjang Satu, Tegalpandjang, Tegalpandjang Satu
 Tegalpanjang Barat
 Tegalpanjang Dua
 Tegalpanjang Kaler
@@ -127249,7 +127249,7 @@ Tegalrasak
 Tegalrayung
 Tegalreak
 Tegalreja
-Tegalrejo, Dukuh Empat, Tegalredja, Tegalredjo 1, Tegaredja
+Tegalrejo, Dukuh Empat, Tegalredja, Tegalredjo, Tegaredja
 Tegalrejo Barat, Gebug Dua
 Tegalrejo Dua
 Tegalrejo Kidul
@@ -128218,7 +128218,7 @@ Tembulun
 Tembung
 Tembungan
 Tembuni, Timboeni, Timbuni
-Temcerbara, Temeer Barat
+Temcerbara, Temeer-barat
 Teme
 Temeak
 Temedana
@@ -128351,7 +128351,7 @@ Tempur Kidul
 Tempur Kulon
 Tempur Lor
 Tempur Wetan
-Tempuran, Tempoeran 1, Tomguran
+Tempuran, Tempoeran, Tomguran
 Tempuran Dua
 Tempuran Kidul
 Tempuran Kulon
@@ -129041,7 +129041,7 @@ Tespong
 Tessiabeng
 Testega
 Teta Dua
-Teta Satu, Teta
+Teta Satu, Teta 1
 Tetaan
 Tetabui, Tetaboei
 Tetaf
@@ -129482,7 +129482,7 @@ Timbang Deli
 Timbang Dua
 Timbang Hilir
 Timbang Langkat
-Timbang Lawan, Timbanglawang
+Timbang Lawan, Timbanglawang 1
 Timbang Lawan Jahe
 Timbang Lawan Julu
 Timbang Lawan Tengah
@@ -130085,7 +130085,7 @@ Tjengklang Dua, Tjengklang 2
 Tjeram
 Tjiangban, Cinbangbang
 Tjibulan Satu, Tjibulan 1
-Tjikawung, Tjikawoeng 1
+Tjikawung, Tjikawoeng
 Tjikudjang Dua, Tjikudjang 2
 Tjilongok Dua, Tjilongok 2
 Tjimone
@@ -130586,7 +130586,7 @@ Togou, Tanguwango, Togoöe
 Togowatu
 Togu
 Toguh
-Toguis, Togoeis
+Toguis, Togoeis 1
 Toguluk Atas
 Toguluk Baba
 Togung
@@ -131486,7 +131486,7 @@ Totira
 Toto
 Totoad
 Totobo
-Totodoku, Djoöebela, Totodokoe
+Totodoku, Djooebela, Totodokoe
 Totog
 Totogan
 Totoharjo
@@ -131501,7 +131501,7 @@ Totokarto Satu, Totokarto 1
 Totokarto Tiga, Totokarto 3
 Totokaton
 Totokbesar
-Totokrata, Ratah Totok, Ratatotok, Ratatotok Satu, Ratotok
+Totokrata, Ratah Totok, Ratatotok 1, Ratatotok Satu, Ratotok
 Totokulo
 Totol
 Totolan
@@ -131556,7 +131556,7 @@ Towo
 Towoe
 Towowilo
 Towu
-Towua Dua, Towua
+Towua Dua, Towua 2
 Towulu, Tokulu, Towoeloe
 Toya
 Toya Daya
@@ -132269,7 +132269,7 @@ Tugon
 Tugondeng
 Tugono
 Tugrama, Toegrama, Tugarama, Tugrana
-Tugu, Toegoe, Tugu Tujuh
+Tugu, Toegoe 1, Tugu Tujuh
 Tugu A
 Tugu B
 Tugu Bates
@@ -132379,7 +132379,7 @@ Tukakbendu
 Tukang
 Tukangan
 Tukangawitan
-Tukangkajang, Toekangkadjang 1, Tukangkadjang
+Tukangkajang, Toekangkadjang 1, Tukangkadjang 2
 Tukangkayu
 Tukanulan
 Tukapela
@@ -133442,7 +133442,7 @@ Ujoung Kalak, Udjungkala, Ujungkalak
 Ujuboro
 Ujudima
 Ujuna, Oedjoena, Udjuna
-Ujung, Oedjoeng, Udjung
+Ujung, Oedjoeng 1, Udjung
 Ujung Auri
 Ujung Bandak
 Ujung Bandar, Udjungbandar
@@ -135113,7 +135113,7 @@ Ungilala
 Ungkalan
 Ungkalmunding
 Ungkaya Dua, Ungkaya 2
-Ungkaya Satu, Ungkaya 1
+Ungkaya Satu, Ungkaya
 Ungko
 Ungkue
 Ungkut
@@ -135256,7 +135256,7 @@ Uru, Oeroe
 Uruaya
 Urudetung
 Urudoreng
-Urug, Oeroeg 2
+Urug, Oeroeg
 Urug Girang
 Urug Hilir
 Urug Kaler
@@ -135474,7 +135474,7 @@ Uyem Tungel
 Uyemroa
 Uyet-uyet
 Uyuod, Ujuod
-VILLA PERMATA HIJAU, pujotomo,J5/03
+VILLA PERMATA HIJAU, pujotomoJ5/03
 Vachtbivak
 Vada
 Vallambrosa
@@ -135750,7 +135750,7 @@ Waepeca
 Waepeije
 Waepellae
 Waepitak
-Waeplau, Wa Epnaoe, Wa Ĕplaoe, Waeplaoe
+Waeplau, Wa Ĕplaoe, Wa Ĕpnaoe, Waeplaoe
 Waepoang
 Waepute
 Waeputih, Waepoetih, Waipoetih, Wuputih
@@ -136186,7 +136186,7 @@ Waisepang
 Waiseron
 Waisesa
 Waisika
-Waisipang Dua, Waisipang
+Waisipang Dua, Waisipang 2
 Waisipang Satu, Waisipang 1
 Waisoka
 Waisumar
@@ -136472,7 +136472,7 @@ Walu'on
 Walua
 Waluadeg
 Walubanu
-Walubesa, Waloe-Besa
+Walubesa, Waloe' Bĕsa
 Waluh
 Waluhtowo
 Waluhu
@@ -138060,7 +138060,7 @@ Waybayas
 Waybuah, Waiboeah
 Wayditulung
 Wayempelu Ulu
-Wayfaara, Waj Faara, Wajfaara
+Wayfaara, Waj fa'ara, Wajfaara
 Wayfui, Wajfoei, Wajfui
 Waygalih
 Waygay, Waggai, Wajgai, Wajgaj
@@ -139084,7 +139084,7 @@ Woloa
 Woloabi
 Woloae
 Woloaja
-Woloan Dua, Woloan 2, Wotoan
+Woloan Dua, Woloan, Wotoan
 Woloan Satu, Woloan 1
 Woloan Tiga, Woloan 3
 Woloangi
@@ -140081,7 +140081,7 @@ kundur
 rantaukasai
 sukabangun
 tengger bulukerto
-werdhi agung , sanggar tani ( subak ) BDKN 21
+werdhi agung  sanggar tani ( subak ) BDKN 21
 werdhi agung dangin gunung.
 werdhi agung tongos ngalih dag-dag
 werdhi agung tukad tonom.

@@ -41,8 +41,9 @@ def process(work_dir: str, filename: str, save_dir: str, manual_alternate_names:
                          names=columns_alt, keep_default_na=False)
 
     # Change ’ to '
-    df['name'] = df['name'].apply(lambda s: s.replace("’", "'").replace("‘", "'"))
-    df_alt['alternate name'] = df_alt['alternate name'].apply(lambda s: s.replace("’", "'").replace("‘", "'"))
+    df['name'] = df['name'].apply(lambda s: s.replace("’", "'").replace("‘", "'").replace(",", ""))
+    df_alt['alternate name'] = df_alt['alternate name'].apply(lambda s:
+                                                              s.replace("’", "'").replace("‘", "'").replace(",", ""))
 
     # Only retain useful and unique alternative names. Note that only the dominant languages up to English are taken
     # into account. This is a proxy for determining the domestic languages. We also take into account the rows without
