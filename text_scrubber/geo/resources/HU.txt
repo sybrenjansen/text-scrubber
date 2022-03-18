@@ -546,7 +546,7 @@ Balatonendréd
 Balatonendrédi Tanyák
 Balatonfenyves
 Balatonföldvár, Balaton Földvár Fürdőtelep, Балатонфелдвар, 巴拉頓城堡
-Balatonfüred, Балатонфиред, 巴拉頓菲賴德
+Balatonfüred, Balatonfired, 巴拉頓菲賴德
 Balatonfüred-fürdő
 Balatonfőkajár
 Balatonfőkajári Tanyák
@@ -2686,7 +2686,7 @@ Eskerennatanya
 Estemajor
 Eszenyőitanya
 Eszteregnye
-Esztergom, Gran, Ostrigon, Ostrogon, Pilisszentlélek, Естергом, 埃斯泰尔戈姆
+Esztergom, Estergom, Gran, Ostrigon, Ostrogon, Pilisszentlélek, 埃斯泰尔戈姆
 Esztergályhorváti, Esztergály, Nagyhorváti
 Eszterházypuszta
 Esztertanya
@@ -3741,8 +3741,8 @@ Hólyapuszta
 Hövej, Huvlja, 赫韦伊
 Húsfoka
 Hőgyetanya
-Hőgyész, Hedjeß, Hidjes, Hidjess
-Ibafa, Gyůrůfů, Korpád
+Hőgyész, Hedjeß, Hidjes, Hidjeß
+Ibafa, Gyűrűfű, Korpád
 Ibolyamajor
 Iborfia
 Ibrány
@@ -7069,7 +7069,7 @@ Szeitztanya
 Szekerestanya
 Szekrenykepuszta
 Szekrényvölgy
-Szekszárd, Sechsard, Sechshard, Seksard, 塞克薩德
+Szekszárd, Sechsard, Sechshard, Сексард, 塞克薩德
 Szeleiúti Tanyák
 Szelescsárda
 Szelestanya
@@ -7104,7 +7104,7 @@ Szentdomonkos
 Szentdénes, Szentdienes
 Szente
 Szentegát
-Szentendre, Senandrija, Sentandreja, 圣安德烈
+Szentendre, Senandrija, Сентандреја, 圣安德烈
 Szentes
 Szentespuszta
 Szentgotthárd, Farkasfa, Jakabháza, Máriaújfalu, Rábafüzes, Rábakethely, Rábakisfalud, Rábatótfalu, Sankt Gotthard, Talapatka, Zsida
@@ -7628,7 +7628,7 @@ Tass
 Tassonyitanya
 Taszár, Tazar
 Tata, Augustin, Tatatóváros, Totis, Ágostyán, 陶陶
-Tatabánya, Tatabanja, 陶陶巴尼奧
+Tatabánya, Татабања, 陶陶巴尼奧
 Tataháza
 Tatárszentgyörgy
 Tehenes
@@ -8408,7 +8408,7 @@ Zalaboldogfa
 Zalabér
 Zalacsány
 Zalacséb
-Zalaegerszeg, Egersee, Jegersek, Залаегерсег, 佐洛埃格塞格
+Zalaegerszeg, Egersee, Jegersek, Zalaegerseg, 佐洛埃格塞格
 Zalaerdőd
 Zalagyömörő, Zalagyömrő
 Zalahaláp

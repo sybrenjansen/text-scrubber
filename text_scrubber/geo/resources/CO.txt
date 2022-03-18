@@ -743,7 +743,7 @@ Barquereña, Fundo Barquereña
 Barqueña
 Barracón
 Barragán, Puente Barragán
-Barranca, Barranco de Yuca, Berranca, Caserío Barranca, Puerto Barriga
+Barranca, Barranco de Yuca, Berranca, Caserio Barranca, Puerto Barriga
 Barranca Nueva, Corregimiento Barranca Nueva
 Barranca Vieja
 Barranca de Lebrija, Barranca Lebrija
@@ -3009,7 +3009,7 @@ Céspedes, Hacienda Cespedes
 Címarronas
 Cínera, Sinera
 Córcega
-Córdoba, Corregimiento Cordoba, Córdova, Hacienda Córdoba, Municipio de Córdoba, Tetón
+Córdoba, Cordova, Corregimiento Cordoba, Hacienda Córdoba, Municipio de Córdoba, Tetón
 Córdoba Curay, Curay
 Cúcuta, San José de Cùcuta, San José de Guacimal
 Dabaibe
@@ -3136,7 +3136,7 @@ Doyaré Centro
 Doña Ana
 Doña Juana, Corregimiento Doña Juana
 Doña Lucia
-Doña María, Caserío Doña María, Hacienda Doña Maria
+Doña María, Caserío Doña María, Hacienda Doña María
 Doña Villa
 Dublin
 Duda
@@ -4175,7 +4175,7 @@ El Pire, Pire
 El Pirio
 El Pisga
 El Pital
-El Piñón, Pinón
+El Piñón, Piñon
 El Placer
 El Placer de Jagüey, Jagüey, Jagüez, Placer de Jague, Placer de Jagüey
 El Plan, Plan
@@ -4380,7 +4380,7 @@ El Tabiazo
 El Tabladito
 El Tablado
 El Tablazo, Tablaso, Tablazo
-El Tablón, Caserío El Tablón
+El Tablón, Caserío El Tablon
 El Tabor
 El Tachuelo
 El Tagual
@@ -5757,7 +5757,7 @@ Huaina
 Huaittapa
 Huamanga, Sitio Guamanga
 Huamayo, Guamayao
-Huanain, Julain, Julianín, Julián
+Huanain, Julain, Julian, Julianín
 Huananari
 Huapango
 Huaramararen, Huamararen
@@ -6209,7 +6209,7 @@ Juntas de Tamaná
 Juntas de Uramita
 Junticas
 Jununtuy
-Junín, Chipasaque, Hacienda Junin, Municipio de Junín
+Junín, Chipasaque, Hacienda Junín, Municipio de Junín
 Jupa
 Jupal
 Jurado
@@ -9524,7 +9524,7 @@ Monteroy
 Monterredondo
 Monterrey, Hacienda Monterrey
 Monterrubio, Corregimiento Monterubio, Monte Rubio
-Montería, Campamento Monteria, Caserío Monteria, Hacienda Montería, Municipio de Montería, San Jerónimo de Buenavista
+Montería, Campamento Monteria, Caserío Monteria, Hacienda Monteria, Municipio de Montería, San Jerónimo de Buenavista
 Montesanto
 Montesclaros
 Monteverde
@@ -10254,7 +10254,7 @@ Paratebueno, Parate Paratebueno, Partebueno
 Parauaipoa
 Parausain, Parausan
 Paraver, Hacienda Paravera
-Paraíso, Corregimiento Paraiso, Hacienda Paraiso
+Paraíso, Corregimiento Paraiso, Hacienda Paraíso
 Parcelación Incora
 Parcélación El Refugio
 Pardillal
@@ -10288,7 +10288,7 @@ Parúmahu
 Pasa Mona, Pasa Mono
 Pasa Tiempo
 Pasacaballos, Caballos Paga, Corregimiento Pasacaballos, Pasacaballo
-Pasacorriendo, Caserío Pasacorriendo, Pasocorriendo
+Pasacorriendo, Caserio Pasacorriendo, Pasocorriendo
 Pasadena
 Pasca, Municipio de Pasca
 Pascual
@@ -10388,7 +10388,7 @@ Payoa
 Payán, Capital Payán, Magüí, Mangüi
 Paz Viejo
 Paz de Ariporo, Municipio Paz de Ariporo
-Paz de Río, Paz del Rio
+Paz de Río, Paz del Río
 Paáshaca
 Pañacira, Panocira, Pañasira, Peñasira
 Pechelín, Hacienda Pechelín
@@ -10516,7 +10516,7 @@ Peñol Viejo
 Peñola
 Peñolcito
 Peñon Blanco
-Peñoncito, Caserio Penoncito, Peñoncita
+Peñoncito, Caserío Peñoncito, Peñoncita
 Peñones
 Peñones Altos
 Peñón
@@ -12062,7 +12062,7 @@ San Jerónimo, Municipio de San Jerónimo, San Geronimo
 San Joaquin, Caserío San Juaquin, Hacienda San Joaquín, Municipio de San Joaquín, San Juaquin
 San Joaquino
 San Jorge, Hato San Jorge
-San Jose, Caserío San José, Donado, Roberto Payán, San José de Canalete
+San Jose, Caserio San Jose, Donado, Roberto Payán, San José de Canalete
 San Jose de Arevalo
 San Jose de Ariguaní
 San Jose de Guatimbol
@@ -12286,11 +12286,11 @@ Santa Julia
 Santa Leonor
 Santa Leticia, Moscopán
 Santa Librada
-Santa Lucia, Caserio Santa Lucia, Corregimiento Santa Lucia, Santa Lucia Barragan
+Santa Lucia, Caserío Santa Lucia, Corregimiento Santa Lucia, Santa Lucia Barragan
 Santa Luisa
 Santa Maltilde
 Santa Margarita
-Santa Maria, Hacienda Santa Maria, Municipio de Santa María, Santa María La Antigua
+Santa Maria, Hacienda Santa María, Municipio de Santa María, Santa María La Antigua
 Santa Marina
 Santa Marta
 Santa Martha
@@ -12302,7 +12302,7 @@ Santa María de los Ángeles
 Santa Monica, Caserio Santa Monica
 Santa Pablito
 Santa Paula, Caserio Santa Paula
-Santa Rita, Caserio Santa Rita, Hacienda Santa Rita
+Santa Rita, Caserío Santa Rita, Hacienda Santa Rita
 Santa Rita Alta
 Santa Rita Baja
 Santa Rita Rivera

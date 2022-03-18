@@ -11,7 +11,7 @@
 'Ammiqam, Ammikam, עמיקם
 'Amqa, 'Amqah, Amka, עמקה
 'Aqqāda, 'Aqāda, Akkada, עקדה
-'Ar'ara, 'Ar'arah, עַרְעָרָה, عرعرة‎
+'Ar'ara, 'Ar'arah, עַרְעָרָה, ערערה
 'Ar'ara BaNegev, Ar'arat an-Naqab, Aroer, עַרְעָרָה בַּנֶּגֶב, ערערה בנגב, عرعرة‎
 'Ara, 'Arah, ערה
 'Aramsha, Arab al-Aramshe, עַרַבּ אל-עַרָמִשָׁה, ערמשה, عرب العرامشة‎
@@ -28,13 +28,13 @@
 'Ein Māhil, 'Ayn Mahil, 'Ein Māhel, 'En Māhil, עֵין מָהִל, عين ماهل
 'Ein Naqūbā, Ein Naqquba, En Nakuba, עֵין נַקוּבָּא, עין נקובא, عين نقوبا
 'Ein Qunīya, 'Ayn Qunyah, 'Ayn Qunīyah, Ayn Qunya, Aïn Qounîya, עין קניה, عين قنية
-'Ein Rāfa, عين رافا, عين رافة
+'Ein Rāfa, עין ראפה, عين رافا
 'Ein el Asad, 'Ein Asad, Ayn Al-Asad, En el Asad, Khirba 'Ein el Asad, Khirbat 'Ein al Arad, עין אל אסד
 'Ein el Ma'lqā, עין אל מעלקה
 'Ein es Sahlā, עין א סהלה
 'Ein ez Zaytūnā, עין א זיתונה
 'En 'Iron, 'Ein 'Iron, עין עירון
-'En Ayyala, 'Ein Aiyala, 'Ein Ayala, 'Ein Ayalah, Ain Ayala, En Ayala, עֵין אַיָּלָה, עין אילה
+'En Ayyala, 'Ein Aiyala, 'Ein Ayalah, Ain Ayala, Ein Ayala, En Ayala, עֵין אַיָּלָה, עין אילה
 'En Boqeq, En Bokek, EnBokeko, עין בוקק
 'En Dor, 'Ein Dor, עֵין דּוֹר, עין דור
 'En Gedi, Ein Gedi, Engeddi, עין גדי
@@ -47,7 +47,7 @@
 'En HaShelosha, 'Ein Hashelosha, 'Ein Hasheloshah, Neweh Yair, Yair, עין השלשה
 'En HaShofet, 'Ein Hash Shofet, 'Ein Hashofet, עין השופט
 'En Hod, 'Ein Hod, 'Ein Ḥaud, Ain Hod, עין הוד
-'En H̱arod - Meuhad, 'Ein Ḥarod, En H̱arod, Qumiya, עין חרוד - מאוחד
+'En H̱arod - Meuhad, 'Ein Ḥarod, 'En H̱arod, Qumiya, עין חרוד - מאוחד
 'En H̱arod Iẖud, עין חרוד אחוד
 'En H̱aẕeva, 'Ayn Ḩaşab, 'Ein Ḥasb, 'Ein Ḥatseva, En H̱atseva, Hosb, Hosob, Husab, עין חצבה
 'En Karmel, 'Ein Hakarmel, 'Ein Hayam, 'Ein Karmel, עין כרמל
@@ -61,33 +61,33 @@
 'Evron, Ga'aton, עברון
 'Ezuz, עזוז
 'Iddan, עדן
-'Ilūṭ, Ailut, Illūt, עִלּוּט, עלוט, عيلوط‎
+'Ilūṭ, 'Illūt, Ailut, עִלּוּט, עלוט, عيلوط‎
 'Ir Gannim
 'Ir Ovot, עיר אובות
-'Isfiyā, 'Isfiyah, 'Isifyah, Asafiyah, Hoseifa, Hosfeya, Hosfeyah, Huseifa, Husifyah, H̱osefa, H̱usifa, Isfiyeh, Isifiya, Issfiya, Issfiyah, Usifiyeh, Ussefiy, חוסיפה, עספיא, عسف الرياح
+'Isfiyā, 'Isfiyah, 'Isifyah, Asafiyah, Hoseifa, Hosfeya, Hosfeyah, Huseifa, Husifyah, H̱osefa, H̱usifa, Isfiyeh, Isifiya, Issfiya, Issfiyah, Usifiyeh, Ussefiy, חוסיפה, عسف الرياح, عسفيا‎
 'Ofer, 'Ein Ghazāl, Ain Ghazil, עופר, עפר
 'Olesh, Beerothayim Bet, עולש, עלש
 'Omer, Ayaltah, Hevronah, Omar, עומר, עמר
 'Otni'el
 'Oẕem, Otsem, עצם
 'Uza, 'Uzza, עוזה, עזה
-'Uzeir, 'Azir, 'Uzayr, עֻזֵיר, العزير, عزير
+'Uzeir, 'Azir, 'Uzayr, עֻזֵיר, العزير, عزير‎
 'Ézer, עזר
 'Īsawīya
 Abbirim, אבירים
-Abū Ghaush, 'Inab, Abu Ghosh, Abu-Ghawsh, Kuryet el Enab, Qaryat al 'Inab, Qaryat el 'Inab, Qaryet el 'Inab, אבו גוש, אבו ע'וש, أبو غوش, أبوغوش, قرية أبوغوش, قرية العناب
+Abū Ghaush, 'Inab, Abu-Ghawsh, Abū Ghōsh, Kuryet el Enab, Qaryat al 'Inab, Qaryat el 'Inab, Qaryet el 'Inab, אבו גוש, אבו ע'וש, أبو غوش, أبوغوش, قرية أبوغوش, قرية العناب
 Abū Rabī'a, אבו רביעה
 Abū Raqeiq, Abū Rakeik, אבו רקיק
 Abū Shūsha, 'Amelim, Abu-Shushah
 Abū Sinān, Abu Senan, Abu Snan, אַבּוּ סְנָן, אבו סנן, أبو سنان‎
-Acre, 'Akka, 'Akko, Accho, Acri, Akkia, Akre, Ptolemais, Saint Jean d'Acre, עכו, عكا
+Acre, 'Akka, Accho, Acri, Akkia, Akko, Akre, Ptolemais, Saint Jean d'Acre, עכו, عكا
 Adamit, Adamith, Admit, Khirbat Mir'i, אדמית
 Adderet, אדרת
 Addirim, אדירים
 Afeq, Afek, אפק, משמר הים
 Afiqim, Afikim, Kibbutz Afikim, אֲפִיקִים, אפיקים
 Afula, Affula, Afule, Afuli, El 'Affūle, עפולה
-Al Buţayḩah, Al 'Āmirīyah, Al Maḩjar, El Mahjar, Mahjar, Minjār, Minnjar, البطيحة, العامرية, المحجار, منجار
+Al Buţayḩah, Al 'Āmirīyah, Al Maḩjār, El Mahjar, Mahjar, Minjār, Minnjar, البطيحة, العامرية, المحجار, منجار
 Al Fājir, الفاجر
 Al Khushnīyah, Couchenié, El Khushnīye, El Kushniye, Khochniyé, Khushnīyah, الخشنية
 Al Rūm, Ar Rūm, El Rom, אל רום, الروم
@@ -120,7 +120,7 @@ Ashdot Ya'aqov Me'uẖad, Ashdot Ya'aqov Bet, Ashdot Yaakov Meuhad, Ashdoth Ya'a
 Asherat, אשרת
 Ashkelon, Al Majdal, Ashqelon, Ashquelon, El Majdal, El Medjdel, Majdal, Majdal 'Asqalān, Migdal Ascalon, Migdal Ashqelon, Migdal Gad, אשקלון
 Ashmura, Ashmūrah, Dardara
-Atlit, 'Athlīth, Athlit, עתלית
+Atlit, 'Athlīt, 'Athlīth, עתלית
 Avi'el, Allona, Allonah, Alona, Alonah, Irgun Yad Ha-Arba'a Asar, אביאל
 Avi'ezer, אביעזר
 Avigedor, Avigdor, אביגדור, יעל
@@ -204,7 +204,7 @@ Bet HaShitta, Beit HaShita, Beit Hash Shitta, Beit Hashitah, Beit Hashitta, Shat
 Bet Hillel, Beit Hillel, בית הלל
 Bet H̱anan, Beit Ḥanan, בית חנן
 Bet H̱ananya, Beit Hananya, Beit Hananyah, בית חנניה
-Bet H̱ashmonay, Beit Hashmonai, בית חשמונאי
+Bet H̱ashmonay, Beit Hashmonai, בית השמונאי
 Bet H̱ilqiyya, Beit Hilkia, Beit Hilkiya, Beit Hilqiya, Bet H̱ilkiyya, Bet H̱ilqiya, Nahal Sorek 3, Naẖal Soreq C, בית חלקיה
 Bet Leẖem HaGelilit, Beit Lahm, Beit Lehem Haglilit, Beit Leḥem Hagelilit, Beyt-Lehem Haglilit, Irgun Hahoresh, בית לחם הגלילית
 Bet Ma'on, Beit Ma'on
@@ -224,7 +224,7 @@ Bet Shemesh, Beit-Shemesh, Maabarat Hartuv, בית שמש
 Bet Shiqma, Beit Shiqma, Beit Shiqmah, Bet Shikma, Shiqma, בית שקמה
 Bet Yannay, Beit Yanai, Beit Yannai, בית ינאי
 Bet Yehoshua', Beit Yehoshua, בית יהושע
-Bet Yiẕẖaq, Beit Yits-ḥaq, Beit Yitzak, Bet Yitshak, בית יצחק
+Bet Yiẕẖaq, Beit Yits-ḥaq, Beit Yitzak, Bet Yitsẖak, בית יצחק
 Bet Yiẕẖaq Sha'ar H̱éfer, Beit Yitzhak-Sha'ar Hefer, Bet Yitsẖak Sha'ar H̱éfer, Gan Ḥefer, Nira, Nirah, Sha'ar H̱efer, בית יצחק שער חפר
 Bet Yosef, Beit Yosef, בית יוסף
 Bet Zayd, Giv'ot Zaid, Giv'ot Zayd, Giv'ot Zed, Giv'ot Zeid, בית זיד
@@ -232,7 +232,7 @@ Bet Zayit, Beit Zayit, בית זית
 Bet Zera', Beit Zera', Kefar Natan, Kefar Natan Laski, Kefar Nathan, בית זרע
 Bet Ẕevi, Beit-Tsevi, Bet Tsevi, בית צבי
 Beẕet, Al Bassa, Bassa, Bassah, Bassi, Batsah, Betset, El Bassa, בצת
-Bi'na, Al Bi'na, Al-Binah, Bi'ena, Bi'ina, Bi'nah, el-Baneh, בענה
+Bi'na, Al-Binah, Bi'ena, Bi'ina, Bi'nah, al-Bi'na, el-Baneh, בענה
 Binyamina, Binyaminah, Giv'ath Binyāmīn, בנימינה
 Binyamina-Giv'at Ada, בִּנְיָמִינָה-גִּבְעַת עָדָה, בנימינה-גבעת עדה
 Bir Hadaj, ביר הדאג', بئر هداج‎
@@ -268,7 +268,7 @@ Dan, Metsudat Menahem Ussishkin Bet, Tell el Qady, דן
 Dar Hagolan
 Daverat, Davrat, Dovrat, דברת
 Deganim
-Deganya Alef, Deganiya Alef, Deganiyah, Deganya A, Deganyah, Deganyah Alef, Degānīyā, Dganiya, Dganiya Alef, Umm Jumieh, Umm Jūni, דגניה א, דגניה אלף
+Deganya Alef, Deganiya Alef, Deganiyah, Deganyah, Deganyah Alef, Degānyā, Degānīyā, Dganiya, Dganiya Alef, Umm Jumieh, Umm Jūni, דגניה א, דגניה אלף
 Deganya Bet, Deganiya, Deganiya Bet, Deganiyah, Deganya B, Deganyah Bet, דגניה ב, דגניה בית
 Deir el Asad, Dayr Al-'Asad, Deir al-Asad, Deir el Assad, דֵיר אֶל-אַסַד, דיר אל אסד, دير الأسد‎
 Deir Ḥannā, Dayr Hannah, Kefar Yohanah, דֵיר חַנָּא, דיר חנא
@@ -287,7 +287,7 @@ Dāliyat er Rūhā, Daliyat Ar-Ruhah
 Dār 'Īsā Shahāb, Dār 'Īsá Shihāb, דר ע'סא שהב, دار عيسى شهاب
 Ed Dahī, Dahī, דחי
 Ed Dumeidā, Demeide, Dmeida, Dmeide, א דמידה, דמיידה
-Eilat, Elat, Elath, Etzion Geber, Umm Rashrāsh, Umrashash, אילת, آيلة, أم الرشراش, أيلة, المرشرش
+Eilat, Elat, Elath, Etzion Geber, Umm Rashrāsh, Umrashash, آيلة, أم الرشراش, أيلة, إيلات, المرشرش
 Ein Bokek, עין בוקק
 Ein Feshkha, 'Ayn Fashkhah, 'Ein Fashkha
 Ein Sarid, עֵין שָׂרִיד, עין שריד
@@ -296,7 +296,7 @@ Ein Zivan, 'Ayn Zīwān, En Ziwan, עין זיון, عين زيوان
 Ein hud, עין חוד, عين حوض
 El 'Aryān, אל עריאן
 El Baīyāda, Baīyāda, אל בידה, בידה
-El Fureidīs, Al Fureidis, Freidis, Furaydis, Fureidīs, אל פרידיס, פֻרֵידִיס, פארדיס, פורידיס, فريديس‎
+El Fureidīs, Al Fureidis, Freidis, Furaydis, Fureidis, אל פרידיס, פֻרֵידִיס, פארדיס, פורידיס, فريديس‎
 El Ghajar, Al Ghajar, Ghajar, Rhajar, אל ע'גיר, ע'ג'ר, רג'ר, الغجر, غجر‎
 El Huzaiyil, Al Huzail, El Huzeil Encampment, Huzaiyil, Huzei, Khirbet el Huzaiyil
 El Makr, Makar, Maker, Makr, אל מכר
@@ -338,7 +338,7 @@ Even Sappir, Avtah, Even Sapir, Khirbet Luz, Luzim, Qatara, אבן ספיר
 Even Shemu'el, אבן שמואל
 Even Yehuda, Even Yahuda, Even Yehudah, אבן יהודה
 Eyal, Lyal, איל
-Eṭ Ṭaiyiba, At Taiyiba, E-Tayibe, El Taiyiba, Et Taiyibe, Et Tayyibeh, Taibe, Taibeh, Taiyba, Taiyibah, Taiyibi, Taybah, Tayiba, Tayibeh, Tīvā, א טיבה, الطيبة‎, Ṭaiyibe, Ṭayibe
+Eṭ Ṭaiyiba, At Taiyiba, E-Tayibe, El Taiyiba, Et Taiyibe, Et Tayyibeh, Taibe, Taibeh, Taiyba, Taiyibah, Taiyibi, Taybah, Tayiba, Tayibe, Tayibeh, Tīvā, א טיבה, الطيبة‎, Ṭaiyibe
 Eṭ Ṭīra, At Tira, Et Tire, Tirah, Tīra, טירה
 Fassūta, Fassutah, Mafshatah, Mifshata, מפשטה, פַסּוּטָה, פסוטה, فسوطة‎
 Fazāra, Fazārah, פזרה
@@ -412,7 +412,7 @@ Giv'at Koaẖ, גבעת כח
 Giv'at Raẖel
 Giv'at Shappira, Giv'at Shapira, גבעת שפירא
 Giv'at Shemesh, Deir Rafat, Givat Hahamisch, Givat Hahamscha, גבעת שמש
-Giv'at Shmuel, Giv'at Shemu'el, גבעת שמואל, גיבעת שמואל
+Giv'at Shmuel, Giv'at Shemuel, גבעת שמואל, גיבעת שמואל
 Giv'at Ye'arim, Jaba, גִּבְעַת יְעָרִים, גבעת ירעים
 Giv'at Yesha'yahu, Giv'at Yesha'yaha, גבעת ישעיהו
 Giv'at Yo'av, גבעת יואב
@@ -449,7 +449,7 @@ Hashmonaim
 Herzliya, Herseliya, Hertsliyah, Hertsliyya, Hervlia, Hervlia B, Herzlia B, Herzliyah, Herẕliyya, הרצליה, הרצלייה
 Hilla, הילה, הלה, מצפה הילה
 Hod HaKarmel, הוד הכרמל
-Hod HaSharon, Hada Ramatayim, Hadar Ramataim, Hadar Ramatayim, Ramatayim, חוד השרון, هود هشارون
+Hod HaSharon, Hada Ramatayim, Hadar Ramataim, Hadar Ramatayim, Ramatayim, הוד השרון, هود هشارون
 Hodayot, הודיות
 Hodiyya, Hodiya, Hodiyah, הודיה
 Hosha'ya, הושעיה
@@ -466,20 +466,20 @@ H̱amadya, Hamadiyah, חמדיה, Ḥermonim
 H̱amam, Wadi Hamam, حمام‎
 H̱ammat, Himmah, חמת
 H̱anita, Hanitah, Hanūta, חניתה, حنيتا, حَنيتا, Ḥannita
-H̱annaton, Hanaton, חנתון
-H̱anni'el, Hanieyl, חַנִּיאֵל, חניאל, Ḥaniel
+H̱annaton, חַנָּתֹן, חנתון
+H̱anni'el, Haniel, Hanieyl, חַנִּיאֵל, חניאל
 H̱arashim, חרשים
 H̱arish, חָרִישׁ, חריש
 H̱aruẕim, H̱arutsim, חרוצים
 H̱aspin, חספין
-H̱avaẕẕelet HaSharon, Havatselet Hasharon, חבצלת השרון
+H̱avaẕẕelet HaSharon, H̱avatselet HaSharon, חבצלת השרון
 H̱awalid, חולד
 H̱awwat 'Eden, Eden Farm, Havvat Eden, חות עדן
 H̱awwat Maresha
 H̱awwat Shemu'el, Havat-Shemuel, H̱avvat Shemu'el, H̱awwat Semu'el, חות שמואל
 H̱azon, חזון
 H̱aẕav, Masmiya Ḥadasha, Masmiyah Hadashah, Masmiyah Hahadashah, חצב, Ḥatsav
-H̱aẕerim, Hatsofim Gimel, H̱atserim, Qiltah, חצרים
+H̱aẕerim, Hatsofim Gimel, Qiltah, חצרים, Ḥatserim
 H̱aẕeva, Hatzeva, H̱atseva, חצבה
 H̱aẕor Ashdod, Hatzor, H̱atsor Ashdod, חצור אשדוד, Ḥatsor
 H̱aẕor HaGelilit, Hatzor, Hatzor HaGlilit, H̱atsor HaGelilit, H̱aẕor, H̱aẕor HaGlilit, חצור הגלילית
@@ -511,7 +511,7 @@ Intiṣār, Intiẕar, אנתצר
 Iqrit, אקרת
 Jaljūlya, Gilgāl, Jaljulia, Jaljulyah, Jaljūliya, Jaljūlye, Jiljulieh, ג'לג'וליה, גַ׳לְג׳וּלְיָה, גלגל, جلجولية‎
 Jatt, Gat Carmel, Gat Karmel, Jat, Tel Gat, ג'ת, תל גת, جت‎
-Jerusalem, Al Quds, Al-Kuds, Bayt al-Maqdis, Bayt al-Muqaddas, City of David, El Kuds, El Quds esh Sherif, Ir David, Ir Ha-Qdoosha, Ir Ha-Qodesh, Jerusalem District, Jerusalem Region, Kouds, Meẖoz Yerushalayim, Yerushalayim, Yirushalāyim, Zion, al-Balat, al-Quds aš-Šarīf, אֵילִיָּה קַפִּיטוֹלִינָה, הַקֹּדֶשׁ, יְבוּס, יְרוּשָׁלַיִם, יְרוּשָׁלָםִ, יבוס, ירושלים, ירושלם, מוֹרִיָּה, מוריה, מחוז ירושלים, צִיּוֹן, ציון, שָׁלֵם, שלם, أورسالم, أورشليم, أورشليم القدس, أولى القبلتين, أُورشَليم, إيلياء, اريئيل, البلا, القدس الشريف, القُدْس, بيت المقدس, ساليم, صهيون, لقدس, مدينة القدس, مريّا, يبوس
+Jerusalem, Al Quds, Al-Kuds, Bayt al-Maqdis, Bayt al-Muqaddas, City of David, El Kuds, El Quds esh Sherif, Ir David, Ir Ha-Qdoosha, Ir Ha-Qodesh, Jerusalem District, Jerusalem Region, Kouds, Meẖoz Yerushalayim, Yerushalayim, Yirushalāyim, Zion, al-Balat, al-Quds aš-Šarīf, אֵילִיָּה קַפִּיטוֹלִינָה, הַקֹּדֶשׁ, יְבוּס, יְרוּשָׁלַיִם, יְרוּשָׁלַםִ, יבוס, ירושלים, ירושלם, מוֹרִיָּה, מוריה, מחוז ירושלים, צִיּוֹן, ציון, שָׁלֵם, שלם, أورسالم, أورشليم القدس, أولى القبلتين, أُورشَليم, إيلياء, اريئيل, البلا, القدس الشريف, القُدْس, بيت المقدس, ساليم, صهيون, لقدس, مدينة القدس, مريّا, ورشليم, يبوس
 Jisr ez Zarqā, Gesher Zarka, Jisr, Jisr Zarqa, Jisr az-Zarqa, ג'סר א זרקא, גִ'סְּר א-זַּרְקָא, جِسْر الزَّرْقَاء
 Judeida Makr, Al Judeida, Jadeidi-Makr, Judaydah, Judeida, Makr-Jadeidi, ג'דידה מכר, גֻ'דֵידָה-מַכְּר, مكر جديده
 Jurdeiḥ, Jourdeih, Jūrde
@@ -520,7 +520,7 @@ Jūlis, Ğulis, ג'וּלִס, ג'ולס, جولس‎
 Ka'abiyya, Ka'abiyye-Tabbash-Hajajre, כעבייה
 Kaabia - Tabbash - Hajara, כעביה - טבאש - חג'ארה
 Kabri, Al Kabiri, Al Kabri, Cabri, Kabberi, Kabrita, Kabritah, Kābirī, כַּבְּרִי, כברי
-Kadesh Bare'a, Nitsané Sinay, Niẕẕané Sinay, ניצני סיני, קדש ברנע
+Kadesh Bare'a, Nitsané Sinay, Niẕẕane Sinay, ניצני סיני, קדש ברנע
 Kadima, Kadimah, Qadimah
 Kadima Zoran, Kadima-Tzoran, Tzoran-Kadima, קדימה צורן
 Kafr Barā, Kafr Barah, Kefar Bara, כַּפְר בַּרָא, כפר ברא, كفر برا‎
@@ -528,7 +528,7 @@ Kafr Kammā, Kafar Kama, Kafer-Kama, Kafr Kamā, Kafr Qamah, כפר כמא, كف
 Kafr Kannā, Kafr Qanah, כפר כנא, كفر كنا, كفركنا
 Kafr Mandā, Kafar Manda, Kafer-Manda, Kefar Mandi, כפר מנדא
 Kafr Miṣr, Kafr Masr, כפר מצר
-Kafr Qari', Kafr Qara, כַּפְר קַרִע, כפר קרע, كفر قرع
+Kafr Qari', Kafr Qara', כַּפְר קַרִע, כפר קרע, كفر قرع
 Kafr Qāsim, Kafar Kassem, Kafar Qāsem, Kafer-Kassim, Kafr Qassem, Kasim, Kefar Qesem, Kfar Kassem, Kufr Qāsim, Kufur Kassem, כַּפְר קָאסִם, כפר קסם, كفر قاسم‎
 Kafr Sumei', Kafr Sumay'a, Kefar Sima-i, כפר סמיע
 Kallanit, כלנית
@@ -549,13 +549,13 @@ Kawās, كواس
 Kaẖal, כחל
 Kefar 'Azza, Shedemot, Yagev, כפר עזה
 Kefar Aviv, Kefar HaYe'or, Kesaraviv, כפר אביב
-Kefar Aẖim, Kfar Ahim, Qastina Alef, Qastina Bet, כפר אחים, קסטינה א, قسطينة ب, قسطينة‎, كفر آحيم, كفر أحيم
+Kefar Aẖim, Kfar Ahim, Qastina Alef, Qastina Bet, כפר אחים, קסטינה א, قسطينة أ, قسطينة ب, كفر آحيم, كفر أحيم
 Kefar Barukh, כפר ברוך
 Kefar Bialik, Kefar Bialiq, Kefar-Beyaliq, Kuryat Bialik, כפר ביאליק
 Kefar Bilu, Kfar Bilu, כְּפַר בִּילוּ, כפר בילו
 Kefar Bin Nun, כפר בן נון
 Kefar Daniyyel, Daniel, Daniyel, Danyal, Dāniyāl, Kefar Daniel, כפר דניאל
-Kefar Gallim, Kafar Ghalim, Kafār Ġalīm, כפר גלים, كفار جليم, كفار غاليم, كفار چَليم
+Kefar Gallim, Kafar Ghalim, Kafār Ġalīm, כפר גלים, كفار جليم, كفار غليم, كفار چَليم
 Kefar Gid'on, Kefar Gideion, כפר גדעון
 Kefar Glickson, Kefar Glikson, Kefar Gliqson, כפר גליקסון
 Kefar HaH̱oresh, כפר החרש
@@ -610,7 +610,7 @@ Keramim, כרמים
 Kerem Ben Shemen, בן שמן (שיכון), כרם בן שמן
 Kerem Ben Zimra, El Ras el Ahmar, Hahar Haadom, Harosh Ha'adom, Karm Iben Zamra, Ras al Ahmar, Ras el Ahmar, Rosh Haadom, כרם בן זמרה
 Kerem Maharal, Ijzim, Kefar Maharal, כרם מהר''ל, קרם מהר''ל
-Kerem Shalom, כרם שלום, كرم أبو سالم, كيرم شالوم, كيرِم شالوم
+Kerem Shalom, כרם שלום, كرم أبو سالم, كيرم شلوم, كيرِم شلوم
 Kesalon, כסלון
 Ketef Avraham, כתף אברהם
 Ketura, קטורה
@@ -643,7 +643,7 @@ Kokhav Michael Sobell, Kawkabah', Kokhav, Kokhav Michael, Kokhav Mikha'él, Kokh
 Kokhav Ya'ir, Kochav Yair–Tzur Yigal, Kokhav Ya'ir–Tzur Yig'al, כּוֹכַב יָאִיר-צוּר יִגְאָל, כוכב יאיר, כוכב יאיר-צור יגאל
 Korazim, כרזים
 Kuseifa, Kuseife, כְּסֵיפָה, כסיפה, كسيفة‎
-Kābūl, Kavul, כבול, كابول
+Kābūl, Kavul, כאבול, كابول
 Lahav, Tsiklag, להב, Ẕiglag
 Lahavot HaBashan, Lahovot Habashan, Ma'ale Habashan, Ma'aleh Habashan, להבות הבשן
 Lahavot H̱aviva, Lahavot Havivah, Lehavot Haviva, לְהֲבוֹת חֲבִיבָה, להבות חביבה
@@ -692,7 +692,7 @@ Mahane Miriam, מחנה מרים
 Mahane Yafe, מחנה יפה
 Mahane Yocheved, מחנה יוכבד
 Majd el Kurūm, Beit Hakerem, Bet Kerem, Maj'd el Krum, Majd al Kurum, Majd al-Krum, Majd el Kirum, Majdal Krum, בית כרם, מַגְ'ד אל-כֻּרוּם, מג'ד אל כרום, مجد الكروم‎
-Majdal Shams, Majd el Chams, Majdal-esh-Shems, Majdel Chams, מַגְ'דַל שַׁמְס, מג'דל שמס, مجدل الشمس, مجدل شمس.‎
+Majdal Shams, Majd el Chams, Majdal-esh-Shems, Majdel Chams, מַגְ'דַל שַׁמְס, מג'דל שמס, مجدل الشمس, مجدل شمس
 Makhfar Kālīyah, Kallia
 Malkiyya, Malakiyah, Malkiyah, מלכיה
 Manof, מנוף
@@ -718,7 +718,7 @@ Mavqi'im, Barbara, Barbarah, Barbarit, Maveqi'im, מבקיעים
 Mazkeret Batya, 'Eqrōn, Ekron, Mazkeret Batyah, מזכרת בתיה
 Mazor, Mizra Har, מָזוֹר, מזור
 Mazra'at Qafwa, Mazra'at Qafwah, Mazraat Qafoua, מזרעת קפוה, مزرعة قفوة
-Maẕliaẖ, Matsliaḥ, Matzliah, Ramlah Bet, מַצְלִיחַ, מצליח
+Maẕliaẖ, Matsliaẖ, Matzliah, Ramlah Bet, מַצְלִיחַ, מצליח
 Maẕẕuva, Ma'asub, Massouba, Matsova, Matsuva, Matsuvah, Matzuba, Matzuva, מַצּוּבָה, מצובה
 Maẖanayim, Mahnayim, מחנים
 Maẖseya, Dayr Aban Alef, Mahaseyah, Mahseh, Maḥaseya, Maḥse, מחסיה
@@ -728,7 +728,7 @@ Me'ona, מְעוֹנָה, מעונה
 Mefallesim, Mefallsim, Mefalsim, מְפַלְּסִים, מפלסים
 Megadim, Tsefon 'Atlit, מְגָדִים, מגדים
 Megiddo, Megido, מגדו
-Meisir, H̱irbet Mayser, H̱orbat Mesar, H̱orbat Mezer, Khirbat Maysar, Khirbat Meisar, Khirbat Meisir, Khirbat Sheikh Meiser, Khirbet Meisar, Khirbet Meissar, Khirbet ash Sheikh Meisar, Meisar, Meitsar, Shaykh Maysar, חרבת מיסר, מֵיסִר, מיסר
+Meisir, H̱irbet Mayser, H̱orbat Mesar, H̱orbat Mezer, Khirbat Maysar, Khirbat Meisar, Khirbat Meisir, Khirbat Sheikh Meiser, Khirbet Meisar, Khirbet Meissar, Khirbet ash Sheikh Meisar, Meisar, Meitsar, Shaykh Maysar, חרבת מיסר, מֵיסִר, ميسر‎
 Meitar, מֵיתָר, מיתר
 Mele'a, M'lia, מלאה
 Melilot, Sharsheret C, מלילות
@@ -757,7 +757,7 @@ Meẕer, Metser, מצר
 Midrakh 'Oz, 'Ein al Mansi, Ma'abarat Mansi, Ma'beret Mansi, Ma'beret Megiddo, Ma'bereth Mansī, Mansi, מדרך עוז
 Midreshet Ben-Gurion, מדרשת בן גוריון
 Migdal, מִגְדָּל, מגדל
-Migdal Ha'Emeq, Magidal, Migdal Ha'Emek, Migdal Haemeqck, Migdal Hameq, מגדל העמק
+Migdal Ha'Emeq, Magidal, Migdal HaEmek, Migdal Haemeqck, Migdal Hameq, מגדל העמק
 Mikhmannim, מכמנים
 Mikhmoret, מִכְמֹרֶת, מכמורת, מכמרת
 Misgav, Misgav Regional Council, מועצה אזורית משגב, משגב
@@ -782,12 +782,12 @@ Miẕpa, 'Ain Katab, Mispah, Mitspa, Mitspah, מצפה
 Miẕpé Aviv, Mitspé Aviv, Mitzpe Aviv, Miẕpé Avraham Ya'akov Brower, מִצְפֵּה אָבִיב, מצפה אבי''ב, מצפה אברהם יעקב ברור
 Miẕpé Netofa, Mitspé Netofa, Mitzpe Netofa, מִצְפֵּה נְטוֹפָה, מצפה נטופה
 Miẕpé Yeriẖo, Mitzpe Yeriho, Mitzpeh Yericho, מִצְפֵּה יְרִיחוֹ, מצפה יריחו
-Modi'in Makkabbim Re'ut, Gane Modi'in, Makkabbim, Makkabbim Re'ut, Makkabim, Modi'in, Naẖal Modi'im, Ramot Modi'in, Re'ut, מוֹדִיעִין-מַכַּבִּים-רֵעוּת, מודיעין, מודיעין מכבים רעות, מכבים רעות, רעות
+Modi'in Makkabbim Re'ut, Gane Modi'in, Makkabbim, Makkabbim Re'ut, Makkabim, Modiin, Naẖal Modi'im, Ramot Modi'in, Re'ut, מוֹדִיעִין-מַכַּבִּים-רֵעוּת, מודיעין, מודיעין מכבים רעות, מכבים רעות, רעות
 Modiin Ilit
 Moledet, Bene Berit, Benei Berit, Benei Brit, Bney-Brit, מולדת
 Moran, מורן
 Moreshet, מוֹרֶשֶׁת, מורשת
-Moẕa, Lower Motsa, Mosa, Motsa, Motsa Tahtit, Mozah, Moẕa Taẖtit, מוצא
+Moẕa, Lower Motsa, Mosa, Motsa Tahtit, Mozah, Moẕa Taẖtit, Mōtsā, מוצא
 Moẕa 'Illit, Motsa 'Ilit, Motsa Illit, Upper Motsa, מוצא עלית
 Mu'āwīya, Mu'awiyah, Mu'awyah, Mu'āwye, מעויה
 Mul Nevo
@@ -805,10 +805,10 @@ Nahariyya, Nahariya, Nahariyah, נהריה, نهاريا
 Nahliel
 Nataf, נטף
 Natur, נטור
-Nazareth, En Nāsira, Natserat, Natseret, Naẕerat, Naẕẕerat, Nātsrat, נצרת, الناصره, ناصرة, ناصيرات
-Naḥf, Nahaf, Naẖef, נחף
+Nazareth, En Nāsira, Natserat, Natseret, Natsrat, Naẕerat, Naẕẕerat, נצרת, الناصره, ناصرة, ناصيرات
+Naḥf, Nahaf, Nahef, נחף
 Naẕerat 'Illit, Kiryat-Natsrat, Natsrat Ilit, Natzrath Ilith, Nazareth Illit, Nazareth-la-Haute, Nazrath Illit, Naẕerat 'Ilit, Nof HaGalil, Qiryat Naṣrat, Upper Nazareth, נוֹף הַגָּלִיל, נוף הגליל, נצרת עלית, الناصرة العليا, ناصيرات عيليت, نتسرات عيليت, نوف الجليل, نوف هجليل, نوف هغليل, نوف هَچليل
-Naẖal 'Oz, Mull Azza, Naẖala'im A, נח''ל עוז
+Naẖal 'Oz, Mull Azza, Naẖala'im A, נחל עוז
 Naẖal Malkishua', Nahal-Malkichoua
 Naẖal Teqoa', Nahal Tekea, Tekoa, תְּקוֹעַ, תקוע
 Naẖala, Gat B, גת ב, נחלה
@@ -818,13 +818,13 @@ Naẖam, נחם
 Naẖsholim, Nahasholim, נחשולים
 Naẖshon, Nahashon, נחשון
 Naẖshonim, Nahashonim, נחשוהנים
-Ne'ot Golan, נאות-גולן
+Ne'ot Golan, נאות גולן
 Ne'ot HaKikar, נאות הככר
 Ne'ot Mordekhay, Neot Mordekhai, נאות מרדכי
 Ne'urim, Ne'uirim, נעורים
 Negba, Negbah, נֶגְבָּה, נגבה
 Nehora, נְהוֹרָה, נהורה
-Nein, Naim, Nain, Nayn, Neim, ניין, נין, נעים
+Nein, Na'im, Nain, Nayn, Neim, ניין, נין, נעים
 Neriyya, נריה
 Nes 'Ammim, Nes 'Amim, נס עמים
 Nes Harim, Dayr al-Hawah, Deir el Hawa, נֵס הָרִים, נס הרים
@@ -853,7 +853,7 @@ Newé Ur, Hagar'in Habavli, Neve Or, Neweh Or, Neweh Ur, נוה אור
 Newé Yam, Ma'apilim, Ma'pilim, Nevé Yam, Neweh Yam, נוה ים
 Newé Yamin, Nabi Yamin, Nevé Yamin, Neweh Yamin, Yamin, נוה ימין, נווה ימין
 Newé Yaraq, Kefar Yarqanim, Neve Yarak, נְוֵה יָרָק, נוה ירק, נווה ירק
-Newé Zohar, Neveh-Zohar, Nevé Zohar, נוה זהר
+Newé Zohar, Neveh-Zohar, Nevé-Zohar, נוה זהר
 Neẕer Sereni, Beer Shalom, Bir Salam, Bīr Sālim, Netser, Netser Sereni, נצר סרני
 Neẖalim, נחלים
 Neẖusha, נְחוּשָׁה, נחושה
@@ -862,7 +862,7 @@ Nir 'Aqiva, Irgun Daroma, Nir Akiva, S'dot Akiba, Sedot Aqiva, Shoval Mizraẖi 
 Nir 'Eẕyon, Nir 'Etsyon, Nir Etzion, Nir-'Esyon, נִיר עֶצִיוֹן, ניר עציון
 Nir 'Oz, ניר עוז
 Nir Banim, Bene HaMoshavim, בני המושבים, ניר בנים, צור מעון
-Nir Dawid, Nir David, Tel 'Amal, ניר דוד, תל עמל
+Nir Dawid, Nir David, Tel Amal, ניר דוד, תל עמל
 Nir Eliyyahu, Nir Eliyahu, ניר אליהו
 Nir Gallim, Nabi Yunis, Nir Galim, Nir Vegal, Nir Wagal, נִיר גַּלִּים, ניר גלים
 Nir H̱en, Nir 58, Nir Chen, ניר 58, ניר ח”ן
@@ -942,7 +942,7 @@ Qidmat Tsevi, Qidmat Ẕevi, קדמת צבי
 Qidron, Katrah, Kidron, Qatra, Qatrah, Qtara, קִדְרוֹן, קדרון
 Qiryat 'Anavim, Dilb, Kiria, Kiryat Anavim, Qiryath 'Anāvīm, קרית ענבים
 Qiryat 'Eqron, 'Eqron, 'Āqir, Akir, Kefar 'Eqron, Kiryat Ekron, Qiryath Eqron, קִרְיַת עֶקְרוֹן, קרית עקרון
-Qiryat Ata, Kefar 'Atah, Kefar 'Aṭṭa, Kefr Ata, Kiryat Ata, Kufritta, Qiryat Atta, קריית אתא, קרית אתא
+Qiryat Ata, Kefar 'Atah, Kefar 'Aṭṭa, Kefr Ata, Kiryat-Ata, Kufritta, Qiryat Atta, קריית אתא, קרית אתא
 Qiryat Bialik, Kiryat Bialik, Qiryat Bialiq, Qiryat-Beyaliq, קריית ביאליק, קרית ביאליק
 Qiryat HaYovel, Beit Mazmil, Jubilee Town, Kiryat-Hayovel
 Qiryat H̱aroshet, Kiryat H̱aroshet, קרית הרשת
@@ -952,17 +952,17 @@ Qiryat Moẕqin, Kiryat Motzkin, Qiryat Motskin, Qiryat Motsqin, Qiryat Motzkin,
 Qiryat Ono, Kafr `Anah, Kafr `Āna, Kefar Ono, Shekhunat Ono, Shkhunat-Ono
 Qiryat Sara, Kiriyat Sara, קרית שרה
 Qiryat Shemona, Al Khalisa, El Khalisa, Halasa, Halsa, Khalasah, Kiryat Shemoneh, Kiryat Shmona, Qiryat Shemonah, Qiryat Shmona, Shemona Kiryat, קריית שמונה, קרית שמונה
-Qiryat Tiv'on, Kiryat Tiv'on, Tiv'on, Tive'on, קִרְיַת טִבְעוֹן, קרית טבעון
-Qiryat Yam, Kiryat Yam, קריית ים, קרית ימ
-Qiryat Ye'arim, Kefar HaNo'ar Qiryat Ye'arim, Kiryat-Yearim, Qiryat Ye'arim Institute, Qiryat Ye'arim Mosad, Telz-Stone, כפר הנוער קרית יערים, קִרְיַת יְעָרִים, קרית יערים, קרית יערים-מוסד
+Qiryat Tiv'on, Kiryat Tivon, Tiv'on, Tive'on, קִרְיַת טִבְעוֹן, קרית טבעון
+Qiryat Yam, Kiryat Yam, קריית ים, קרית ים
+Qiryat Ye'arim, Kefar HaNo'ar Qiryat Ye'arim, Kiryat Ye'arim, Qiryat Ye'arim Institute, Qiryat Ye'arim Mosad, Telz-Stone, כפר הנוער קרית יערים, קִרְיַת יְעָרִים, קרית יערים, קרית יערים-מוסד
 Qomemiyyut, Qomemiyut, קוממיות
 Qoranit, Koranit, קורנית
 Qunayr, قنير
 Quşbīyah, Al Quşbīyah, Qousbîyé, قصبية
 Ra'anana, Ra'ananah, Ra'ananna, רעננה
-Rahat, רהט
+Rahat, رهط
 Ram On, רָם אוֹן, רם און
-Rama, Ar Rama, Er Rāme, Rami, ar-Rame, רָמָה, רמה, الرامة‎
+Rama, Ar Rama, Er Rāme, Ramah, Rami, ar-Rame, רמה, الرامة‎
 Ramat Dawid, 'Ayanot-Ramat David, Hash Sharon, Hasharon, Hasharon Ramat David, Ramat David, Ramat-David 'Ayanot, Ramat-David-Hasharon, רמת דוד
 Ramat Eliyyahu
 Ramat Gan, Gan, רמת גן, رمات غان
@@ -986,9 +986,9 @@ Ramot Menashe, Ramot Menasheh, רָמוֹת מְנַשֶּׁה, רמות מנש�
 Ramot Naftali, Wingate, Yamin Orde, Yemin Orde, רמות נפתלי
 Ramot Remez, Qiryat Remez, רמות רמז
 Rannen, Ranen, רנן
-Raqqefet, Rakefet, Rakkefet, רקפת
-Ras 'Ali, רס עלי
-Rasm Fātma, Rasm Fāţimah, רסם פטמה
+Raqqefet, Rakkefet, רַקֶּפֶת, רקפת
+Ras 'Ali, رأس علي‎
+Rasm Fātma, Rasm Fāţimah, رسم فاطمة
 Ravid, רביד
 Re'im, Beit Qamah, Beit Re'im, Bet Re'im, Tall Jamah, רעים
 Regavim, Kannir, Qannīr, Rgavim, רגבים
@@ -1006,11 +1006,11 @@ Reẖovot, Khirbet Deirān, Rehovoth, Rhovot, Ruhaybah, רחובות
 Rinnatya, Rantieh, Rantiyah, Rantye, Rantīya, Rinatya, Rinatyah, Rinnatiya, רִנַּתְיָה, רנתיה
 Rishon LeẔiyyon, 'Uyūn Qāra, Ayun Kara, Le Tsīyōn, Richon le Sion, Rishon Le Zion, Rishon LeTsiyyon, Rishon LeZion, Rishon Letsiyon, Rishon Lsiyon, Rishon le Siyon, Rishon le Ziyon, ראשון לציון
 Rishpon, רִשְׁפּוֹן, רשפון
-Riẖaniya, Reiḥanīye, Rihaniyyah, Rihaniyé, רִיחָנִיָּה, الريحانية, ريحانية
+Riẖaniya, Reiḥanīye, Rihaniyyah, Rihaniyé, רִיחָנִיָּה, ריחניה, الريحانية
 Rosh Ha'Ayin, Ras al-'Ayn, Rosh Ha Ayin
 Rosh Pinna, El Jā'ūne, Ja'unah, Jā'ūna, Rosh Pinah, Rosh Pinnah, ראש פינה, ראש פנה
 Rumat Heib, Rumat al-Heib, רומת אל-הייב, רומת היב, رُمة الهـَيـْب‎
-Rummāna, Rimmon, Rumanah, Rummāne, רומאנה, רמון, رمانة
+Rummāna, Rimmon, Rumanah, Rummāne, רומאנה, רמון, רמנה
 Ruẖama, Jammama, Khirbet el Jemmāme, Ruhamah, רחמה
 Rās el 'Ein, רס אל עין
 Sa'ad, סעד
@@ -1018,7 +1018,7 @@ Sa'ar, סער
 Sada
 Safed, Safad, Sfat, Tsefat, צפת, صفد, Ẕefat
 Sakhnīn, Sahrin, Saknīn, Sikhnin, סִכְנִין, סַחְ'נִין, סח'נין, סכנין
-Sallama, סלמה, وادي سلامة
+Sallama, סלמה, وادي سلامه
 Samar, סמר
 Sansana, סנסנה
 Sappir, Merkaz Sappir, ספיר
@@ -1112,7 +1112,7 @@ Shuva, Shuba, Shuvah, שובה
 Sitriyya, Satariyyah, Sitaryah, Sitria, Sitriya, Sitriyah, סִתְרִיָה, סתריה
 Snir, Senir, שניר
 Sufa, סופה, صوفا, صوفي
-Sājūr, סָג'וּר, סג'ור, ساجور
+Sājūr, סָג'וּר, סג'ור, ساجور‎
 Sālim, סלם
 Sūlam, Shunem, סולם, שונם, سولم
 Ta'oz, Bayt Susin, Beit Sūsīn, Ta', תעוז
@@ -1132,7 +1132,7 @@ Tarum, Tsor'ah Bet, תרום
 Te'ashur, Kfar Ro'im, Wadi Shaari C, תאשור
 Tefaẖot, טפחות
 Tel 'Adashim, El Mezra'a, Tall 'Adas, Tell 'Adas, Tēl 'Adās, תֵּל עֲדָשִׁים, תל עדשים
-Tel Aviv, Tel Aviv Yaffo, Tel Aviv-Yafo, Tell Abīb, Tell Afif, תֵּל־אָבִיב–יָפוֹ, תל אביב, תל אביב-יפו, تل أبيب, تل أبيب يافا, تل الربيع
+Tel Aviv, Tel Aviv Yaffo, Tel Aviv Yafo, Tell Abīb, Tell Afif, תֵּל־אָבִיב–יָפוֹ, תל אביב, תל אביב-יפו, تل أبيب, تل أبيب يافا, تل الربيع
 Tel H̱anan, Balad Ash-Shaykh, Balad esh Sheikh, תל חנן
 Tel H̱ay, Talha, Tēl Hai, תל חי
 Tel Mond, תל מונד
@@ -1199,7 +1199,7 @@ Yarẖiv, Irgun Simhah, Irgun Simḥa, Simhah, יַרְחִיב, ירחיב
 Yas'ur, Yis'or, יסעור
 Yashresh, יַשְׁרֵשׁ, ישרש
 Yated, يتد, يتيد
-Yavne'el, Bayt Jinn, Beit Gan, Beith Gan, Bet Gan, Bethgan, Kefar Yamma, Mishmar HaShelosha, Mishmar Hasheloshah, Mishmar Hashloshah, Yabneel, Yabniel, Yamah, Yavniel, בית גן, יבנאל, משמר השלושה
+Yavne'el, Bayt Jinn, Beit Gan, Beith Gan, Bet Gan, Bethgan, Kefar Yamma, Mishmar HaShelosha, Mishmar Hasheloshah, Mishmar Hashloshah, Yabneel, Yabniel, Yamah, Yavni'el, בית גן, יבנאל, משמר השלושה
 Yavné, Kefar Yavne, Kfar Yavne, Kfar Yavneh, New Yavne, יבנה
 Yavor, Damun, יבור
 Yaẕiẕ, Yatsits, יציץ
@@ -1219,7 +1219,7 @@ Yiftaẖ, יפתח
 Yikkon, Yikon, יכון
 Yinnon, Masmieh C., Yinon, יִנּוֹן, ינון, מסמיה ג
 Yir'on, Nir On, Yar Oun, יראון
-Yirkā, Arki, Yarka, Yarkah, יִרְכָּא, ירכא, يركا‎
+Yirkā, Arki, Yarka, Yarkah, יִרְכָּא, ירכא, يركا
 Yish'i, Dayr Aban Bet, ישעי
 Yittar, Naẖal Yittar, Yatir, יתיר, נח”ל יתיר
 Yizre'el, Jezreel, Yezre'el, Yizr'el, Yizra'ēl, Zar'in, Zerin, Zir'īn, יזראעל
@@ -1231,7 +1231,7 @@ Yoshivya, Muharakah Alef, Yoshivyah, יושיביה
 Yotvata, Yot'bathah, יטבתה
 Yuval, Kefar-Yuval, Zuk Fukani, יובל
 Yuvallim, יוּבַלִּים, יובלים
-Yāfā, Kfar Yafia, Yafa an-Naseriyye, Yafa an-Nasirah, Yafi, Yafi'a, يافا, يافة الناصرة‎, يفيع, يفّيَع
+Yāfā, Kfar Yafia, Yafa an-Naseriyye, Yafa an-Nasirah, Yafi, Yafi'a, יפיע, يافا, يافة الناصرة‎, يفّيَع
 Yājur
 Yānūḥ, Yanoah, Yānūẖa, ינוח
 Zalafa, Zalafah, Zalafe, זלפה
@@ -1249,7 +1249,7 @@ Zimrat, זמרת
 Ziqim, זיקים
 Zohar, Tsoẖar, זהר, צוחר
 maale adumim
-maalot Tarshīhā, Me`ona `Ironit, Tarchiha, Tarshihah, Teir Shiha, מַעֲלוֹת-תַּרְשִׁיחָא, מעלות תרשיחא, معلوت ترشيحا
+maalot Tarshīhā, Me`ona `Ironit, Tarchiha, Tarshihah, Teir Shiha, מַעֲלוֹת-תַּרְשִׁיחָא, מעלות תרשיחא, معالوت ترشيحا
 Ḥurfeish, Hourfeich, Hurfaysh, חורפיש, חרפיש
 Ḥuseinīya, חוסיניה, חוסנייה, חסיניה
 Ṣandala, Sanddalah, Tsandalah, סַנְדַלָה, צַנְדַלָה, צנדלה, صندلة‎, Ẕandala
@@ -1272,5 +1272,5 @@ maalot Tarshīhā, Me`ona `Ironit, Tarchiha, Tarshihah, Teir Shiha, מַעֲלו
 Ẕur Moshe, Tsur Moshe, Tsur Mosheh, צור משה
 Ẕur Natan, Tsor Nathan, Tsur Natan, Tzur-Natan, צור נתן
 Ẕur Shalom, Kurdani, Qurdani, צור שלום
-Ẕuri'el, Suhmata, Surieyl, Tsourel, Tsuri'el, צוריאל
+Ẕuri'el, Suhmata, Surieyl, Tsourel, Tsuriel, צוריאל
 Ẕurit, Tsurit, צורית

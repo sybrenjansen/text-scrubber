@@ -247,7 +247,7 @@ Bački Brestovac, Batsch-Brestowatz, Bácsbresztovácz, Silberg, Szilberek, Ulme
 Bački Gračac, Filipova, Filipovo, Filippova, Filipsdorf, Kindlingen, Philipsdorf, Szentfülöp, filipowa
 Bački Jarak, Bácsárokszállás, Járek, Jármos, Schönhausen, Tiszaistvánfalva
 Bački Monoštor, Batsch-Monoschtor, Bodrog-Monostorszeg, Monostorszeg
-Bački Petrovac, Petrovácz, Petrowatz, Petrőc, Petrőcz, Бачки-Петровац, 巴奇基彼得羅瓦茨
+Bački Petrovac, Petrovácz, Petrowatz, Petrőc, Petrőcz, Бачки Петровац, 巴奇基彼得羅瓦茨
 Bački Sokolac
 Bački Vinogradi, Bácsszöllős, Bácsszőlős, Királyhalom
 Bačko Dobro Polje, Bačko Dobro, Kiskér, Klein Ker, Klein-Keer, Kleinwiesen, Pribićevićevo
@@ -286,7 +286,7 @@ Belasica
 Belbradić
 Bele Vode
 Belegiš
-Belgrade, Belgrado, Nándorfehérvár, Singidunum, Белград, Београд
+Belgrade, Belgrado, Belgrád, Nándorfehérvár, Singidunum, Београд
 Beli Breg
 Beli Gaj, Boli Gaj
 Beli Kamen
@@ -1476,7 +1476,7 @@ Gabrika
 Gabriče
 Gabrovac
 Gabrovnica
-Gadžin Han, Гаджин-Хан
+Gadžin Han, Гаджин хан
 Gadžina Mahala, Gacina Mahala
 Gagince
 Gaglovo
@@ -1604,7 +1604,7 @@ Golo Brdo
 Golobok
 Golovša, Goluša
 Goločevina
-Golubac, Galambóc, Голубац, 哥魯拜克
+Golubac, Galambóc, Golubats, 哥魯拜克
 Goluban
 Golubinci, Gollubincze, Golubince
 Golubinje
@@ -2093,7 +2093,7 @@ Janja
 Janjići
 Janjčići
 Jankerovci
-Jankov Most, Jankabrücke, Jankahid
+Jankov Most, Jankabrücke, Jankahíd
 Jankova Klisura
 Jankova Mahala, Jankova Mala
 Jankovci
@@ -2172,7 +2172,7 @@ Jeremići
 Jereska Mala
 Jerinci
 Jerinića Mala
-Jermenovci, Irmenjhaza, Urmenhausen, Ürmenyhaza
+Jermenovci, Irmenjhaza, Urmenhausen, Ürményháza
 Jerotijevići
 Jevac
 Jeverice
@@ -2291,7 +2291,7 @@ Kamičak
 Kandalica
 Kandići
 Kanjevina
-Kanjiža, Alt-Kanischa, Kanizsa, Magyarkanizsa, Pavlovgrad, Stara Kanjiža, Ungarisch-Kanischa, Ungarische Kanischa, Канижа, Кањижа
+Kanjiža, Alt-Kanischa, Kanizsa, Magyarkanizsa, Pavlovgrad, Stara Kanjiža, Ungarisch-Kanischa, Ungarische Kanischa, Кањижа, 卡尼扎
 Kaona
 Kaonik
 Kapidžija
@@ -3659,8 +3659,8 @@ Novi Glog
 Novi Itebej, Alsóittebe, Itebő, Ittebe, Magyar-Ittebe, Magyarittabé, Neu-Itebe, Ungarisch-Ittebe
 Novi Karlovci, Karlovicz, Neu-Karlowitz, Novi Karlovec, Sassa, Újkarlóca
 Novi Kisač
-Novi Kneževac, Josephova, Josephsdorf, Kanisa, Kanizsa, Kis-Kanizsa, Neukanischa, Nova Kanjiža, Rév-Kanizsa, Torontál-Józseffalva, Turska Kanjiža, Törökkanizsa, Нови-Кнежевац, 新克內熱瓦茨
-Novi Kozarci, Hajfeld, Heufeld, Kistószeg, Kozarci, Massdorf, Mastort, Nagytošzeg, Tószeg, Veliki Teseg
+Novi Kneževac, Josephova, Josephsdorf, Kanisa, Kanizsa, Kis-Kanizsa, Neukanischa, Nova Kanjiža, Rév-Kanizsa, Torontál-Józseffalva, Turska Kanjiža, Törökkanizsa, Нови Кнежевац, 新克內熱瓦茨
+Novi Kozarci, Hajfeld, Heufeld, Kistószeg, Kozarci, Massdorf, Mastort, Nagytószeg, Tószeg, Veliki Teseg
 Novi Majur
 Novi Milanovac
 Novi Pazar, Pazari i Ri, Yeni Pazar, 新帕扎爾
@@ -5016,7 +5016,7 @@ Sredor
 Sremska Kamenica, Kamanc, Kamancz, Kamenicz, Kamenitz, Kamonc, Сремска Каменица, 斯雷姆斯卡卡梅尼察
 Sremska Mitrovica, Dimitrofçe, Mitrovic, Mitrovica, Mitrovicz, Mitrovicza, Mitrovitza, Mitrowitz, Sirmion, Sirmium, Srem. Mitrovica, Srijemska Mitrovica, Strema Mitrovica, Syrmisch-Mitrowitz, Szávaszentdemeter, Сирмијум
 Sremska Rača
-Sremski Karlovci, Karloca, Karlovci, Karlovicz, Karloviczi, Karlowice, Karlowitz, Karlócza, Karom, Сремски-Карловци, 斯雷姆斯基卡尔洛夫奇
+Sremski Karlovci, Karlovci, Karlovicz, Karloviczi, Karlowice, Karlowitz, Karlóca, Karlócza, Karom, Сремски-Карловци, 斯雷姆斯基卡尔洛夫奇
 Sremski Mihaljevci, Mihaljevci
 Sremče
 Sremčica
@@ -5096,7 +5096,7 @@ Starci
 Stari Banovci
 Stari Bračin
 Stari Grad, Градска општина Стари град, 舊格拉德
-Stari Lec, Alt-Letz, Barachháza, Baráczháza, Óléc, Ólécz
+Stari Lec, Alt-Letz, Barachháza, Baraczháza, Óléc, Ólécz
 Stari Lipolist
 Stari Potreb
 Stari Slankamen, Acumincum, Alt-Sankamen, Slankamen Stari, Szalánkemén, Zalánkemén, Сланкамен
@@ -5224,7 +5224,7 @@ Surduk, Rittium, Szurdok
 Surdulica, Сурдулица, 蘇爾杜利察
 Surleva Mahala, Surleva Mala
 Surudžici
-Surčin, Surcsin, Szurcsin, Szurcsin városi község, Градска општина Сурчин, Сурчин, 蘇爾欽
+Surčin, Surchin, Surcsin, Szurcsin, Szurcsin városi község, Градска општина Сурчин, 蘇爾欽
 Susek
 Sutjeska, Deutsch-Sartscha, Nova Sarča, Német-Szárcsa, Román-Szárcsa, Sarča, Szarcsia, Szárcsa, Szárcsatelek
 Suva Jaruga
@@ -5639,7 +5639,7 @@ Veliko Bonjince, Bonjince, Veliki Bonjince, Veliko Banjince
 Veliko Borje
 Veliko Crniće, Crniće, Veliko Crnuće
 Veliko Golovode
-Veliko Gradište, Велико Градище, Велико-Градиште, 大格拉迪什泰
+Veliko Gradište, Велико Градиште, Велико Градище, 大格拉迪什泰
 Veliko Krušince, Velike Krušince
 Veliko Krčmare
 Veliko Laole
@@ -5744,7 +5744,7 @@ Vladenac
 Vladimirci, Владимирци
 Vladimirovac, Petersdorf, Petre, Petrovosello, Román-Petre
 Vladičica
-Vladičin Han, Vladicki Han, Vladičin, Владичин хан, 弗拉迪欽漢
+Vladičin Han, Vladicki Han, Vladičin, Владичин Хан, 弗拉迪欽漢
 Vladičina Ornica, Valičina Ornica, Vladičeva Ornica
 Vlahinja, Vlajnja
 Vlahovo
@@ -5864,7 +5864,7 @@ Vrmbaje
 Vrmdža
 Vrndići
 Vrnjača
-Vrnjačka Banja, Врњачка Бања, Върнячка баня, 弗爾尼亞奇卡礦泉鎮
+Vrnjačka Banja, Врнячка-Баня, Врњачка Бања, 弗爾尼亞奇卡礦泉鎮
 Vrnčani
 Vrnčić
 Vrovi

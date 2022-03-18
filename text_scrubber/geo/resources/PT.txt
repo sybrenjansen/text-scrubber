@@ -25,7 +25,7 @@ A dos Francos
 A dos Negros
 A dos Ralhados, A dos Rolhados
 A dos Ruivos
-A-do-Freire
+A-do-Freire, Adofreire
 Abade de Neiva
 Abade de Vermoim
 Abades
@@ -127,7 +127,7 @@ Afife
 Afonsim
 Afonso Vicente
 Afonsos
-Afurada de Baixo, Afurada
+Afurada de Baixo, Afurada, São Pedro da Afurada
 Afurada de Cima
 Agadão
 Agarez
@@ -392,7 +392,7 @@ Alfontes
 Alforgemel, Alfergemil
 Alfornelos
 Alfouvar de Baixo
-Alfouvez
+Alfouvez, Alfouvés
 Alfragide
 Alfrivida
 Alfundão
@@ -1304,7 +1304,7 @@ Belo Romão
 Beloi
 Beltroa
 Belver
-Belém, Belém Tower, Torre de Belem
+Belém, Belém Tower, Torre de Belém
 Bem da Fé
 Bemfeita
 Bemfica, Bemfica do Ribatejo
@@ -2189,7 +2189,7 @@ Carvalha
 Carvalha Furada
 Carvalhais, Carvalhaes
 Carvalhais de Baixo
-Carvalhal
+Carvalhal, Pateta
 Carvalhal Bemfeito
 Carvalhal Cimeiro
 Carvalhal Fundeiro
@@ -2694,7 +2694,7 @@ Catraia do Bugalho
 Catraia dos Poços
 Catraia e Candais
 Catraiadas
-Catribana
+Catribana, Catrivana
 Caturela
 Catém
 Cava
@@ -3438,7 +3438,7 @@ Curros
 Cursães
 Curvaceira
 Curvaceiras Grandes
-Curvaceiras Pequenas
+Curvaceiras Pequenas, Curvaceiras
 Curval
 Curvatos
 Curveira
@@ -4874,7 +4874,7 @@ João Durão
 João Frino
 João Galego do Norte
 João Gomes
-João Lavo
+João Lavo, João Alvo
 João Serra
 João de Gales
 Judearias
@@ -4968,7 +4968,7 @@ Laguinho
 Laje, Lage
 Lajedo, Lagedo
 Lajeosa, Lageosa
-Lajes, Lagens, Lagens do Pico, Lages, Lages-do-Pico, Lajens, Villa das Lagens
+Lajes, Lagens, Lagens do Pico, Lages, Lages-do-Pico, Lajens, Lajes do Pico, Villa das Lagens
 Lajes das Flores, Lagens, Lagens das Flores, Lajens das Flores, Lajes das Flores Municipality
 Lajes de Cima
 Lajido
@@ -5123,11 +5123,11 @@ Linda-a-Velha
 Lindoso
 Linhaceira
 Linharelhos
-Linhares
+Linhares, Linhares da Beira
 Linhares de Cima
 Linhó
 Lisboinha
-Lisbon, Felicitas Julia, Lisbon Municipality, Olisipo
+Lisbon, Felicitas Julia, Lisboa, Lisbon Municipality, Olisipo
 Lisei
 Lisga
 Listoso
@@ -5338,7 +5338,7 @@ Madail
 Madalena, Madalena Municipality, Magdalena
 Madalena do Mar, Magdalena
 Madancos
-Madeira, Autonomous Region of Madeira
+Madeira, Autonomous Region of Madeira, Região Autónoma da Madeira
 Madeiras
 Madeiros
 Madorra
@@ -6831,7 +6831,7 @@ Parambos
 Parameira
 Paramos
 Paranho
-Paranhos, Paranhas
+Paranhos, Paranhas, Paranhos da Beira
 Paranhão
 Paraímo
 Parceiros
@@ -7256,7 +7256,7 @@ Pinhete
 Pinho
 Pinhote
 Pinhovelo
-Pinhão
+Pinhão, Pinhão (Alijó)
 Pinhão Cele
 Pintado
 Pintainhos
@@ -7732,7 +7732,7 @@ Póvoa de Santo António
 Póvoa de São Cosme
 Póvoa de São Domingos
 Póvoa de São Miguel
-Póvoa de Tonda
+Póvoa de Tonda, Póvoa do Rodrigo Alves
 Póvoa de Varzim, Póvoa de Varzim Municipality
 Póvoa do Arcediago
 Póvoa do Bispo
@@ -8297,7 +8297,7 @@ Ribeira de Baixo
 Ribeira de Balocas
 Ribeira de Boas Eiras
 Ribeira de Eiras
-Ribeira de Elos
+Ribeira de Elos, Ribeira d' Elos, Ribeira d'Elos
 Ribeira de Fernando
 Ribeira de Frades
 Ribeira de Fráguas
@@ -8788,10 +8788,10 @@ Santo Isidoro
 Santo Izidoro
 Santo Izidro
 Santo Ovídio, Santo Oviedo
-Santo Tirso, Santo Tirso Municipality
+Santo Tirso, Santo Tirso Municipality, SantoTirso
 Santo Varão
 Santo Xisto
-Santo da Serra
+Santo da Serra, Santo António da Serra
 Santorum
 Santos
 Santos Cosme e Damião
@@ -9056,7 +9056,7 @@ Sertã, Sertã Municipality
 Servo
 Serzedelo, Cerzedelo
 Serzedo
-Sesimbra, Cezimbra, Sesimbra Municipality
+Sesimbra, Cezimbra, Concelho de Sesimbra, Sesimbra Municipality
 Sesmaria
 Sesmaria da Ameira
 Sesmaria dos Pretos
@@ -9740,7 +9740,7 @@ Torre de Cima
 Torre de Coelheiros
 Torre de Dona Chama
 Torre de Moldes
-Torre de Moncorvo, Moncorvo, Torre de Moncorvo Municipality
+Torre de Moncorvo, Moncorvo, Torre de Moncorvo Municipality, Torres de Moncorvo
 Torre de Mosqueira
 Torre de Pinhão
 Torre de Sobral
@@ -10582,7 +10582,7 @@ Vila Franca de Xira, Vila Franca de Xira Municipality
 Vila Franca do Campo, Vila Franca do Campo Municipality, Villa Franca do Campo
 Vila Franca do Deão
 Vila Franca do Rosário
-Vila Fresca
+Vila Fresca, Vila Fresca de Azeitão
 Vila Frescainha, São Martinho Vila Frescainha
 Vila Fria
 Vila Galega
@@ -10616,7 +10616,7 @@ Vila Nova das Patas
 Vila Nova de Anços, Vila Nova d'Anços, Villa Nova d'Anços
 Vila Nova de Babeca
 Vila Nova de Ceira
-Vila Nova de Cerveira, Vila Nova da Cereira, Vila Nova da Cerveira, Vila Nova de Cerveira Municipality
+Vila Nova de Cerveira, Vila Nova da Cereira, Vila Nova de Cerveira Municipality, Vila Nova do Cerveira
 Vila Nova de Famalicão, Vila Nova de Famalicão Municipality, Vila Nova de Tamalicão
 Vila Nova de Foz Côa, Vila Nova de Foz Côa Municipality, Villa Nova de Foscôa
 Vila Nova de Fusos

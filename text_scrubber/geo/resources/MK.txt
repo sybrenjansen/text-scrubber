@@ -119,14 +119,14 @@ Berovo, Opština Berovo, Општина Берово
 Besvica, Бесвица
 Bezovo
 Bešište, Бешиште
-Bibanje, Бибај
+Bibanje, Bibaj
 Bidžovo, Bidževo, Биџово
 Bigor Dolenci, Бигор Доленци
 Biljanovce, Биљановце
 Birino
 Bistrenci, Bistrenica, Бистренци
 Bistrica, Feistritz
-Bitola, Bitol, Bitolj, Bitolya, Monasteron, Monastir, Opština Bitola, Општина Битола
+Bitola, Bitol, Bitolya, Monasteron, Monastir, Opština Bitola, Битољ, Општина Битола
 Bitovo
 Bituše, Bituš, Битуше
 Bivolarci, Биволарци
@@ -522,7 +522,7 @@ Glumovo
 Gluvo
 Gneotino, Gneotin, Gneotina
 Gnileš, Gnilež, Gnjileš, Гнилеш
-Godivje, Godivije, Годивле
+Godivje, Godivije, Godivle
 Golem Gaber
 Golem Papradnik, Golem Papradink, Golem Papranik, Papranik, Veliki-Papranik
 Golem Radobil, Golemi Radobil, Golemi Radobili, Golemi Radobilj, Veliki Radobilj
@@ -623,7 +623,7 @@ Grandževci, Гранџевци
 Gračani, Gračane, Грачани
 Grdovci, Грдовци
 Grebenska Maala
-Grekanje, Grekaj
+Grekanje, Грекај
 Grešnica, Garešnica, Грешница
 Grioska Maala
 Grizilevci, Grizilovci, Гризилевци
@@ -809,7 +809,7 @@ Kolerska Maala
 Kolevska Maala
 Kolešino, Колешино
 Kolibari
-Kolicko, Kolitsko
+Kolicko, Колицко
 Kolipska Maala
 Kolonija, Колонија Идризово
 Koloverska Mahala, Koloverska Maala, Koloversko Maalo, Коловерска Махала
@@ -1008,7 +1008,7 @@ Lubarci, Лубарци
 Lubnica, Лубница
 Lugunci, Lugunce, Лугунци
 Lukarci, Лукарци
-Lukare, Lukar Mahala, Лукар Маало
+Lukare, Lukar Maalo, Lukar Mahala
 Lukovica, Луковица
 Lukovo, Dolno Lukovo, Gorno Lukovo
 Lupšte, Gorno Lupšte, Lupište, Лупште
@@ -1203,7 +1203,7 @@ Novačani, Novičane, Новачани
 Novačka Maala, Новачка Маала
 Novaḱe
 Novo Konjarevo
-Novo Konsko, Gorničet, Горничет, Ново Коњско
+Novo Konsko, Gorničet, Novo Konjsko, Горничет
 Novo Lagovo
 Novo Selani
 Novo Selo, Jenikej, Jeniköj, Opština Novo Selo, Yenikoj, Општина Ново Село
@@ -1258,7 +1258,7 @@ Osoj
 Ostrec, Острец
 Ostrilci, Ostriljci, Острилци
 Oteševo, Отешево
-Otišani, Otišane, Отишани
+Otišani, Otishani, Otišane
 Otištino, Otitino, Otištine, Отиштино
 Otlja, Odë
 Otovica, Otavica, Отовица
@@ -1521,7 +1521,7 @@ Ruljak
 Rupje
 Rusinovo
 Rusjaci, Русјаци
-Ržanovo, Arzhano, Ржаново
+Ržanovo, Arzhano, Rzhanovo
 Saiska Maala
 Salaska Maala, Salaska Mahala
 Samoilovo, Samuilovo
@@ -1566,7 +1566,7 @@ Sirula, Sirulje
 Skačkolinci, Скачколинци
 Skačkovce, Скачковце
 Skender
-Skopje, Shkup, Skopeia, Skopie, Skoplie, Skoplje, Usküb
+Skopje, Shkup, Skopeia, Skopie, Skoplie, Usküb, Скопље
 Skorovo
 Skoruša, Скоруша
 Skočivir, Скочивир
@@ -1682,7 +1682,7 @@ Strmoš, Стрмош
 Strovija, Stroja, Strovja
 Struga, Opština Struga, Ustrugha, Општина Струга
 Strugovo
-Strumica, Opština Strumica, Stromitza, Stromnitsa, Stromnitza, Stroumitsa, Strumitza, Ustrumcha, Општина Струмица, Струмица
+Strumica, Opština Strumica, Stromitza, Stromnitsa, Stromnitza, Stroumitsa, Strumitsa, Strumitza, Ustrumcha, Општина Струмица
 Stublica, Стублица
 Stubljanci, Стубљанци
 Studena Bara
@@ -1811,7 +1811,7 @@ Umska Maala
 Urvič, Урвич
 Usje, Usija, Usije
 Utovo
-Vak'v, Vakuf, Вакав
+Vak'v, Vakav, Vakuf
 Vaksince, Vaksinc, Ваксинце
 Vakuf Maala
 Valandovo, Opština Valandovo, Valandova, Valandovo Municipality, Општина Валандово
@@ -1831,7 +1831,7 @@ Vataša, Ваташа
 Vatlino
 Vašarejca, Вашарејца
 Vejce, Vejice, Вејце
-Velebrdo, Vele Brdo
+Velebrdo, Веле Брдо
 Veles, Köprülü, Opština Veles, Titov Veles, Velessa, Општина Велес
 Veleselo
 Velesta, Velešte, Велешта
@@ -2004,7 +2004,7 @@ Zvezdinska Maala
 Šašavarlija, Šašavarli, Šašavarlije, Шашаварлија
 Šebovska Maala, Шебовска Маала
 Šeleverci, Шелеверци
-Šemševo, Šemšovo, Шемшево, Шемшово
+Šemševo, Shemshevo, Šemšovo, Шемшово
 Šeškovo, Шешково
 Šindarci, Шиндарци
 Šipak Maala, Шипак Маала
@@ -2091,7 +2091,7 @@ Zvezdinska Maala
 Горно Јаболчиште, Gornje Jabolčište, Gorno Jabolciste
 Грушино, Grušince
 Длабочица, Dlabocica, Dolbočica, Dubočica
-Доброшане, Dobrošane
+Доброшане, Dobrosane
 Долно Јаболчиште, Dolno Jabolciste, Donje Jabolčište
 Долно Нерези, Dolni Nerezi, Dolno Nerez, Dolno Nereze
 Дојакова Маала
