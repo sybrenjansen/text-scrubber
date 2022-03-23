@@ -930,7 +930,7 @@ Bålerud
 Bålsrød
 Bånkall
 Bånkallenga
-Bårdset, Baarset, Baarsæt, Borsoet, Borsæt, Bårse, Bårset
+Bårdset, Baarset, Baarsæt, Barset, Borsoet, Borsæt, Bårse
 Bårdsletta
 Bårdsætra
 Bårlog
@@ -982,7 +982,7 @@ Bøss
 Bøstranda
 Bøsætra
 Bøverbru
-Bøverfjorden, Bæverfjord, Böverfjord
+Bøverfjorden, Bæverfjord, Bøverfjord
 Bøverkinnhalsen
 Bøvær, Bøva, Bøvær i Senja
 Bøylefoss
@@ -2256,7 +2256,7 @@ Granvoll
 Granås
 Granåsen, Granaasen
 Granø
-Grasbakken, Rissebavte, Rissebákti
+Grasbakken, Rissebakti, Rissebavte
 Grasdalen
 Grasmo
 Grasmoen
@@ -2624,7 +2624,7 @@ Hammerstad
 Hammervik, Hammervika, Hammerviken
 Hamn, Hamn i Senja
 Hamna, Hamna i Syltefjord, Havna, Syltefjordbotn
-Hamna i Ryggefjord, Hamnen, Havna, Havnen, Hávdna, Ryggefjord
+Hamna i Ryggefjord, Hamnen, Havdna, Havna, Havnen, Ryggefjord
 Hamnbukt, Hamnbugt, Havnbugt, Havnbukt, Hávdna
 Hamneidet, Hamneide
 Hamnes, Hamnesvalen
@@ -3750,13 +3750,13 @@ Kaupanger
 Kaupangholmen
 Kaupangåsen
 Kausland
-Kautokeino, Guovdageaidnu, Guovdageainnu suohkan, Guovdagæidno, Guovdagæino, Kautokeini
+Kautokeino, Guov'dagæi'dno, Guovdageaidnu, Guovdageainnu suohkan, Guovdagæino, Kautokeini
 Kavåsen, Kavaasen, Kavas
 Kaxrud
 Keianes
 Keila
-Keiprød, Kjeipröd
-Keisi, Dáŋagieddi, Kjoes, Kjæs, Kjæs yt, Ytre Kjæs
+Keiprød, Kjeiprød
+Keisi, Daŋagieddi, Kjoes, Kjæs, Kjæs yt, Ytre Kjæs
 Kentán, Kenttan
 Kiberg, Bolšaja Birka, Kiberg Ytre, Store Kiberg, Stuorab Kiberg, Større Kiberg, Ulko Kiiperi, Ytre Kiberg, Ytre Kiiperi
 Kibergin
@@ -4981,7 +4981,7 @@ Marvoll
 Maråk, Maraak, Marok, Merok, Meråk, Mæraak
 Marøy, Maaröy, Maro, Maroen
 Masfjorden, Masfjorden kommune, Masfjordnes
-Masi, Masing, Maze
+Masi, Masing, Máze
 Mastad, Maastad
 Mastebakke
 Masterelv, Sivlejohka
@@ -6269,7 +6269,7 @@ Rossfjordstraumen
 Rossland, Rosland
 Rossnes, Rösnes, Røssnes i Salten
 Rossneset
-Rossvoll, Rösvold, Rösvollnes, Røsvoll
+Rossvoll, Rösvold, Rösvoll, Rösvollnes
 Rostad, Rødstad
 Rostadmoen
 Rosti, Rosta, Rostbru, Rosten
@@ -6472,7 +6472,7 @@ Røykeriet
 Røykje
 Røykjenes
 Røyknes
-Røyne, Røine
+Røyne, Röine
 Røyneberg
 Røynestad
 Røyra, Rör
@@ -7445,7 +7445,7 @@ Steine, Stene
 Steinen
 Steinesjøen
 Steinfjord
-Steinkjer, Steinkjer kommune, Stenkjær
+Steinkjer, Steinkjer kommune, Stenkjaer
 Steinland
 Steinmo
 Steinnes, Steinnesvåg, Stelnnes
@@ -7877,7 +7877,7 @@ Sylte, Sylte i Vanylven
 Sylvarnes
 Synes, Synnes
 Synnevågen, Synnevåg
-Synnøvjorda, Synnövjord
+Synnøvjorda, Synnøvjord
 Synstgardsætra
 Synstlie, Synslie
 Synstnes
@@ -8877,7 +8877,7 @@ Vestnes
 Vestpollen
 Vestra Mosterhamn
 Vestre
-Vestre Askerøy, Askeröen, Askeröy, Vestre Askerø
+Vestre Askerøy, Askeröen, Askerøy, Vestre Askerø
 Vestre Ekeberg
 Vestre Fidja
 Vestre Gausdal, Bödalen
@@ -9554,7 +9554,7 @@ Yxnøy, Yxney
 Øyjorda, Oijord, Öijorden, Öydejorda
 Øyjorden
 Øyjordi
-Øynes, Öines
+Øynes, Oines
 Øyra
 Øyre
 Øyslebø, Öislebö

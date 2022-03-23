@@ -56,8 +56,8 @@ Aberdeen, Aberdeen Ferry Port, Aberdeen Harbour
 Aberdeen Bank
 Aberdeen Bay
 Aberdeen Beach
-Aberdeen City
-Aberdeenshire, Aberdeen County
+Aberdeen City, ABE
+Aberdeenshire, ABD, Aberdeen County
 Aberdour Bay
 Aberdovey Harbour
 Aberdyfi, Aberdovey
@@ -575,13 +575,13 @@ Angerton
 Anglas Bay
 Angle
 Angle Bay
-Anglesey, Angle's Eye, Anglesea, Angleseyshire, Isle of Anglesey
+Anglesey, AGY, Angle's Eye, Anglesea, Angleseyshire, Isle of Anglesey
 Anglezarke
 Anglezarke Reservoir
 Anglia Gas Field, Anglia Field
 Angmering
 Angram Grange
-Angus, Angus County, Forfar, Forfar County, Forfarshire
+Angus, ANS, Angus County, Forfar, Forfar County, Forfarshire
 Angus Oil Field
 Anlaby with Anlaby Common
 Anmer
@@ -603,7 +603,7 @@ Ansty and Staplefield
 Antingham
 Antony
 Antrim Bay
-Antrim Borough, Antrim, Antrim Borough Council
+Antrim Borough, ANT, Antrim, Antrim Borough Council
 Antrim and Newtownabbey
 Antrobus
 Anvil Point
@@ -680,7 +680,7 @@ Ardnish Peninsula, Airdnish, Ardnish
 Ardoch Burn
 Ardpatrick Point
 Ardroy Sand, Ardroy Sands
-Ards District, Ards
+Ards District, ARD, Ards
 Ards and North Down
 Ardsheal Hill
 Ardskenish Point, Ardskinish Point
@@ -695,7 +695,7 @@ Arenig Fawr
 Arganite Bay
 Argoed
 Argyll Oil Field
-Argyll and Bute
+Argyll and Bute, AGB
 Argyllshire, Argyll, Argyll County, County of Argyll
 Arisaig, Arasaig
 Arkendale
@@ -713,7 +713,7 @@ Arlington
 Armadale Bay
 Armadale Burn, Armadale Water, Armandale Water
 Armagh City Banbridge and Craigavon
-Armagh District, Armagh
+Armagh District, ARM, Armagh
 Armitage with Handsacre
 Armthorpe
 Arnamul Stack
@@ -1081,8 +1081,8 @@ Ballyhalbert Bay
 Ballyherly Lough
 Ballyholme Bay
 Ballyhornan Bay
-Ballymena District, Ballymena
-Ballymoney District, Ballymoney
+Ballymena District, BLA, Ballymena
+Ballymoney District, BLY, Ballymoney
 Ballyness Mountain
 Ballyquintin Point
 Balmacaan Forest
@@ -1099,7 +1099,7 @@ Baltonsborough
 Bamburgh
 Bamford
 Bampton
-Banbridge District, Banbridge
+Banbridge District, BNB, Banbridge
 Banbury
 Banbury Reservoir
 Banff Bay
@@ -1158,7 +1158,7 @@ Barkby Thorpe
 Barkham
 Barking
 Barking Point, False Point
-Barking and Dagenham, London Borough of Barking and Dagenham
+Barking and Dagenham, BDG, London Borough of Barking and Dagenham
 Barkley Rocks
 Barkrigg Common
 Barkston
@@ -1198,7 +1198,7 @@ Barnby
 Barnby Dun with Kirk Sandall
 Barnby Moor
 Barnby in the Willows
-Barnet, London Borough of Barnet
+Barnet, BNE, London Borough of Barnet
 Barnetby Le Wold
 Barnham
 Barnham Broom
@@ -1210,7 +1210,7 @@ Barnoldby Le Beck
 Barnoldswick
 Barns Ness
 Barnshean Loch, Barnsbean Loch
-Barnsley
+Barnsley, BNS
 Barnsley Canal
 Barnstaple
 Barnstaple Bay, Bideford Bay
@@ -1306,7 +1306,7 @@ Basta Voe
 Baston
 Bastram Shoal
 Batcombe
-Bath and North East Somerset
+Bath and North East Somerset, BAS
 Bathampton
 Bathealton
 Batheaston
@@ -1503,7 +1503,7 @@ Bedale
 Beddgelert
 Beddingham
 Bedfield
-Bedford
+Bedford, BDF
 Bedford Level
 Bedfordshire, Beds, Ceremonial County Bedfordshire, County of Bedfordshire
 Bedgebury
@@ -1548,7 +1548,7 @@ Beich Burn
 Beighton
 Beinn Achaladair, Ben Achallader
 Beinn Airein
-Beinn Alligin, Bein Alligin, Ben Alligin, Sgùrr Mhòr
+Beinn Alligin, Bein Alligin, Ben Alligin, Sgurr Mhor
 Beinn Aoidhdailean
 Beinn Bhalgairean, Ben Bhalgairean
 Beinn Bharrain, Ben Bharrain
@@ -1880,7 +1880,7 @@ Bewerley
 Bewholme
 Bewick
 Bexhill Reef
-Bexley, London Borough of Bexley
+Bexley, BEX, London Borough of Bexley
 Bexton
 Beyton
 Bibury
@@ -2117,7 +2117,7 @@ Blackadder Water
 Blackaller's Cove
 Blackawton
 Blackbird Leys
-Blackburn with Darwen
+Blackburn with Darwen, BBD
 Blackcraig Hill
 Blackdog Burn
 Blackdog Rock, Black Dog
@@ -2136,7 +2136,7 @@ Blackmore Hook End and Wyatts Green
 Blackness Bay
 Blacknor Point
 Blacko
-Blackpool
+Blackpool, BPL
 Blackrod
 Blackshaw
 Blackshaw Moor
@@ -2155,7 +2155,7 @@ Blackwell in the Peak
 Blackwood
 Bladon
 Blae Rock
-Blaenau Gwent, County Borough of Blaenau Gwent
+Blaenau Gwent, BGW, County Borough of Blaenau Gwent
 Blaenavon
 Blaengwrach
 Blaenhonddan
@@ -2342,24 +2342,24 @@ Borness Bay
 Borough Fen
 Borough Green
 Borough of Ashford
-Borough of Bolton
-Borough of Bury
+Borough of Bolton, BOL
+Borough of Bury, BUR
 Borough of Dartford
 Borough of Gravesham, Gravesham, Gravesham District
-Borough of Halton
+Borough of Halton, HAL
 Borough of Maidstone
-Borough of North Tyneside, North Tyneside, North Tyneside District
+Borough of North Tyneside, NTY, North Tyneside, North Tyneside District
 Borough of Oldham, Oldham
-Borough of Rochdale, Rochdale
-Borough of Stockport, Stockport
+Borough of Rochdale, RCH, Rochdale
+Borough of Stockport, SKP, Stockport
 Borough of Swale
-Borough of Swindon
-Borough of Tameside, Tameside
-Borough of Thurrock, Thurrock
+Borough of Swindon, SWD
+Borough of Tameside, TAM, Tameside
+Borough of Thurrock, THR, Thurrock
 Borough of Tonbridge and Malling
-Borough of Torbay, Torbay
+Borough of Torbay, TOB, Torbay
 Borough of Tunbridge Wells
-Borough of Wigan, Wigan
+Borough of Wigan, WGN, Wigan
 Boroughbridge
 Borrow Beck
 Borrowby
@@ -2413,8 +2413,8 @@ Bound Skerry
 Bourn
 Bourn Brook
 Bourne
-Bournemouth
-Bournemouth Christchurch and Poole Council
+Bournemouth, BMH
+Bournemouth Christchurch and Poole Council, BCP
 Bournemouth Pier
 Bournheath
 Bournmoor
@@ -2482,7 +2482,7 @@ Bracklesham Bay
 Brackley
 Brackmills
 Bracknell
-Bracknell Forest
+Bracknell Forest, BRC
 Bracon Ash
 Bradbourne
 Bradbury and the Isle
@@ -2493,7 +2493,7 @@ Bradfield
 Bradfield Combust with Stanningfield
 Bradfield St. Clare
 Bradfield St. George
-Bradford
+Bradford, BRD
 Bradford Abbas
 Bradford Peverell
 Bradford-on-Avon
@@ -2702,7 +2702,7 @@ Bridgealehouse Burn
 Bridgemarsh Island
 Bridgemere
 Bridgend
-Bridgend county borough, County Borough of Bridgend
+Bridgend county borough, BGE, County Borough of Bridgend
 Bridgerule
 Bridgewater Canal
 Bridgham
@@ -2731,7 +2731,7 @@ Brighstone
 Brightling
 Brightlingsea
 Brighton Station
-Brighton and Hove
+Brighton and Hove, BNH
 Brightwalton
 Brightwell
 Brightwell Baldwin
@@ -2851,7 +2851,7 @@ Bromesberrow
 Bromeswell
 Bromfield
 Bromham
-Bromley, London Borough of Bromley
+Bromley, BRY, London Borough of Bromley
 Bromley Common
 Brompton
 Brompton Ralph
@@ -2982,7 +2982,7 @@ Buckhorn Weston
 Buckhurst Hill
 Buckhurst Park
 Buckingham
-Buckinghamshire, Ceremonial County Buckinghamshire, County of Buckinghamshire
+Buckinghamshire, BKM, Ceremonial County Buckinghamshire, County of Buckinghamshire
 Buckland
 Buckland Brewer
 Buckland Dinham
@@ -3316,7 +3316,7 @@ Caerleon
 Caernarfon, Arfon, Caernarfonshire, Caernarvon, Carnarvon, Carnarvonshire
 Caernarfon Bay, Caernarvon Bay, Carnarvon Bay
 Caerphilly
-Caerphilly County Borough
+Caerphilly County Borough, CAY
 Caersws
 Caerwent
 Caerwys
@@ -3378,7 +3378,7 @@ Caldecotte Lake
 Calder Burn, Calder
 Calder River, Calder
 Calder Water
-Calderdale
+Calderdale, CLD
 Calders Head
 Caldey Island, Caldy Island, Ynys Byr
 Caldey Sound
@@ -3453,7 +3453,7 @@ Cambridge District
 Cambridgeshire, Cambridge, Ceremonial County Cambridgeshire, County of Cambridgeshire
 Cambuscurrie Bay
 Camddwr, River Camddwr
-Camden, London Borough of Camden
+Camden, CMD, London Borough of Camden
 Camel Creek Adventure Park
 Cameley
 Camelford
@@ -3542,7 +3542,7 @@ Carbrooke
 Carburton
 Carcraig, Car Craig
 Carden
-Cardiff, City and County of Cardiff
+Cardiff, CRF, City and County of Cardiff
 Cardiff Arms Park
 Cardiff Bay, Bae Caerdydd
 Cardiff East Moors
@@ -3589,7 +3589,7 @@ Carlton-on-Trent
 Carlyon
 Carmarthen
 Carmarthen Bay, Caermarthen Bay
-Carmarthenshire, Caerfyrddin, County of Carmarthenshire
+Carmarthenshire, CMN, Caerfyrddin, County of Carmarthenshire
 Carmel Head
 Carmel Rocks
 Carmel Water
@@ -3664,7 +3664,7 @@ Carrick Roads
 Carrickaggle
 Carrickamickie Bay
 Carrickarade Island, Carrick-a-raide Island, Carrickarede Island
-Carrickfergus District, Carrickfergus, Comhairle Baile Charraig Fheargais
+Carrickfergus District, CKF, Carrickfergus, Comhairle Baile Charraig Fheargais
 Carrington
 Carrock Fell
 Carron Water
@@ -3738,7 +3738,7 @@ Castlelevington
 Castlemanon Mountain
 Castlemartin
 Castlemorton
-Castlereagh District, Castlereagh
+Castlereagh District, CSR, Castlereagh
 Castles Bay
 Castlesea Bay
 Castlethorpe
@@ -3835,7 +3835,7 @@ Cenarth
 Center Basin (historical)
 Centerparcs
 Central Beach
-Central Bedfordshire
+Central Bedfordshire, CBF
 Central Belt, Lowland Triangle, Scottish Midlands
 Central London
 Central Milton Keynes
@@ -4003,9 +4003,9 @@ Cherwell District
 Cheselbourne
 Chesham
 Chesham Bois
-Cheshire East
+Cheshire East, CHE
 Cheshire Plain
-Cheshire West and Chester, Cheshire
+Cheshire West and Chester, CHW, Cheshire
 Cheshunt Lake
 Chesil Beach, Chesil Bank
 Chesil Cove
@@ -4196,26 +4196,26 @@ Cioch na h-Oighe, Maidens Paps, Paps
 Cirencester
 Cissbury Ring
 Ciste Dhubh, Chest Dhu
-City and Borough of Birmingham, Birmingham
-City and Borough of Leeds
-City and Borough of Salford
-City and Borough of Wakefield, Wakefield
-City and County of Swansea, Swansea
+City and Borough of Birmingham, BIR, Birmingham
+City and Borough of Leeds, LDS
+City and Borough of Salford, SLF
+City and Borough of Wakefield, WKF, Wakefield
+City and County of Swansea, SWA, Swansea
 City and District of St. Albans
-City of Belfast
-City of Bristol, Bristol
+City of Belfast, BFS
+City of Bristol, BST, Bristol
 City of Canterbury
-City of Derry, Derry
-City of Edinburgh, Edinburgh
-City of Kingston upon Hull
-City of Leicester, Leicester
-City of London, The City
-City of Westminster, Westminster
-City of York, York, York City
+City of Derry, DRY, Derry
+City of Edinburgh, EDH, Edinburgh
+City of Kingston upon Hull, KHL
+City of Leicester, LCE, Leicester
+City of London, LND, The City
+City of Westminster, WSM, Westminster
+City of York, YOR, York, York City
 Clach Leathad
 Clachaig Water
 Clachnaben
-Clackmannanshire, Clackmannan, Clackmannan County
+Clackmannanshire, CLK, Clackmannan, Clackmannan County
 Clady Water
 Claerwen Reservoir
 Claggain Bay, Claigeann Bay
@@ -4624,7 +4624,7 @@ Constantine Bay
 Constantine Bay Beach
 Constitution Hill
 Constitutional
-Conwy, Conwy County Borough, County Borough of Conwy
+Conwy, CWY, Conwy County Borough, County Borough of Conwy
 Conwy Bay, Beaumaris Bay, Conway Bay
 Cook's Pond
 Cookbury
@@ -4632,7 +4632,7 @@ Cookham
 Cookhill
 Cookley
 Cooks Cairn
-Cookstown District, Cookstown
+Cookstown District, CKT, Cookstown
 Coole Pilate
 Cooling
 Cooling Marshes
@@ -4696,7 +4696,7 @@ Cornforth
 Cornhill-on-Tweed
 Cornish Loch
 Cornsay
-Cornwall, Ceremonial County Cornwall, County of Cornwall
+Cornwall, CON, Ceremonial County Cornwall, County of Cornwall
 Cornwell
 Cornwood
 Cornworthy
@@ -4754,7 +4754,7 @@ Cotleigh
 Coton
 Coton in the Elms
 Cotswold District
-Cotswold Hills, Cotswolds
+Cotswold Hills, The Cotswolds
 Cottam
 Cottenham
 Cottered
@@ -4780,14 +4780,14 @@ Countisbury
 County Antrim, Antrim, Aontroim, Co. Antrim
 County Armàgh, Ard Mhacha, Armàgh
 County Down, Co. Down, Down
-County Durham
+County Durham, DUR
 County Fermanagh, Fear Manach, Fermanagh
 County Londonderry, County Derry, Derry, Dhoire, Doire
 County Tyrone, Tyrone
 County of Bristol, Ceremonial County Bristol
-County of Ceredigion, Cardiganshire, Ceredigion, County of Cardigan
+County of Ceredigion, CGN, Cardiganshire, Ceredigion, County of Cardigan
 County of Cheshire, Ceremonial County Cheshire, Cheshire, Chester
-County of Flintshire, Flintshire, Flintshire principal area
+County of Flintshire, FLN, Flintshire, Flintshire principal area
 Cour Bay
 Court Wood
 Courteenhall
@@ -4797,7 +4797,7 @@ Covehurst Bay
 Coveney
 Covenham St. Bartholomew
 Covenham St. Mary
-Coventry
+Coventry, COV
 Coventry Canal
 Coverack Cove
 Coverham with Agglethorpe
@@ -4850,7 +4850,7 @@ Craig y Llyn
 Craig yr Wylfa, Borth Point, Craig Yr Wilfa
 Craig-yr-allt gôch Reservoir
 Craigan Roan, Craigen Roan
-Craigavon District, Craigavon
+Craigavon District, CGV, Craigavon
 Craigdarroch Water
 Craigengar
 Craigenroan, Roan Island, Roan Islet
@@ -5069,7 +5069,7 @@ Croxden
 Croxley Green
 Croxton
 Croxton Kerrial
-Croydon, London Borough of Croydon
+Croydon, CRY, London Borough of Croydon
 Cruach Ardrain
 Cruach Lusach
 Cruach an t-Sorchain
@@ -5300,7 +5300,7 @@ Darenth
 Daresbury
 Darlees Rig
 Darley Dale
-Darlington
+Darlington, DAL
 Darlton
 Darn Bay
 Darncombe-cum-Langdale End
@@ -5418,8 +5418,8 @@ Denwick
 Deopham
 Depden
 Deputy Reefs
-Derby
-Derbyshire, Ceremonial County Derbyshire, County of Derbyshire
+Derby, DER
+Derbyshire, Ceremonial County Derbyshire, County of Derbyshire, DBY
 Derbyshire Dales District
 Derclach Loch
 Dereham
@@ -5452,7 +5452,7 @@ Devils Water
 Deviock
 Devizes
 Devoke Water
-Devon, Ceremonial County Devon, County of Devon, Devonshire
+Devon, Ceremonial County Devon, County of Devon, DEV, Devonshire
 Dewlish
 Dewsall
 Dhekelia
@@ -5502,7 +5502,7 @@ Diss
 Disserth and Trecoed
 Distington
 Distinkhorn
-District of Rutland, Rutlandshire
+District of Rutland, RUT, Rutlandshire
 Ditcheat
 Ditchingham
 Ditchling
@@ -5558,7 +5558,7 @@ Don Oil Field
 Donaghadee Sound
 Donalds Hill
 Donan Oil Field
-Doncaster
+Doncaster, DNC
 Donhead St. Andrew
 Donhead St. Mary
 Donibristle Bay
@@ -5584,7 +5584,7 @@ Dornoch Firth
 Dornoch Point
 Dornoch Sands
 Dorrington
-Dorset, Ceremonial County Dorset, County of Dorset, Dorsetshire
+Dorset, Ceremonial County Dorset, County of Dorset, DOR, Dorsetshire
 Dorsington
 Dorstone
 Dorton
@@ -5611,7 +5611,7 @@ Dowlais
 Dowland
 Dowlish Wake
 Down Ampney
-Down District, Down
+Down District, DOW, Down
 Down Hatherley
 Down St. Mary
 Downan Hill, Dunoon Hill
@@ -5715,7 +5715,7 @@ Duddo
 Duddon
 Duddon Bar
 Dudgeon Shoals, Dudgeon Shoal
-Dudley
+Dudley, DUD
 Duffield
 Duffs Loch, Duff Loch
 Dufton
@@ -5736,7 +5736,7 @@ Dulverton
 Dumbarton District
 Dumbarton Rock
 Dumbleton
-Dumfries and Galloway, Dumfries and Galloway Region
+Dumfries and Galloway, DGY, Dumfries and Galloway Region
 Dumfriesshire, Dumfries, Dumfries County
 Dummer
 Dumpton Bay
@@ -5759,7 +5759,7 @@ Duncansby Head, Duncansbay Head
 Dunchideock
 Dunchurch
 Duncton
-Dundee City
+Dundee City, DND
 Dundee Harbour
 Dundonnell River, Dundonnell, Strathbeg River
 Dundraw
@@ -5770,7 +5770,7 @@ Dundry
 Duneaton Water
 Dunford
 Dungamen Bay
-Dungannon District, Dungannon, Dungannon and South Tyrone Borough Council
+Dungannon District, DGN, Dungannon, Dungannon and South Tyrone Borough Council
 Dungeness
 Dungeness National Nature Reserve
 Dunham Massey
@@ -5869,7 +5869,7 @@ Dùnan Mòr
 Eagle Mountain
 Eagle and Swinethorpe
 Eakring
-Ealing
+Ealing, EAL
 Earadale Point
 Earby
 Eardington
@@ -5910,7 +5910,7 @@ East Allington
 East Anglia
 East Anstey
 East Ayre
-East Ayrshire
+East Ayrshire, EAY
 East Ayton
 East Bank
 East Barkwith
@@ -5954,7 +5954,7 @@ East Dorset District
 East Down
 East Drayton
 East Dudgeon Shoals
-East Dunbartonshire
+East Dunbartonshire, EDU
 East End
 East Farleigh
 East Farndon
@@ -6004,7 +6004,7 @@ East Loch Roag
 East Loch Tarbert
 East Lomond, East Lomond Hill
 East London
-East Lothian, Haddington, Haddingtonshire
+East Lothian, ELN, Haddington, Haddingtonshire
 East Lulworth
 East Maiden
 East Malling and Larkfield
@@ -6028,8 +6028,8 @@ East Preston
 East Putford
 East Quantoxhead
 East Ravendale
-East Renfrewshire
-East Riding of Yorkshire, Ceremonial County East Riding of Yorkshire, District of East Riding of Yorkshire, East Riding, East Yorkshire
+East Renfrewshire, ERW
+East Riding of Yorkshire, Ceremonial County East Riding of Yorkshire, District of East Riding of Yorkshire, ERY, East Riding, East Yorkshire
 East Road
 East Rounton
 East Rudham
@@ -6045,7 +6045,7 @@ East Stockwith
 East Stoke
 East Stour
 East Suffolk
-East Sussex, Ceremonial County East Sussex, County of East Sussex
+East Sussex, Ceremonial County East Sussex, County of East Sussex, ESX
 East Sutor
 East Sutton
 East Swale
@@ -6249,7 +6249,7 @@ Eilean Mhuire
 Eilean Molach
 Eilean Mullagrach, Mullagrach Island
 Eilean Musdile
-Eilean Mòr, Eilean Mòre, Eileanmor, Mor Island, More Island
+Eilean Mòr, Eilean More, Eileanmor, Mor Island, More Island
 Eilean Mòr a' Bhaigh, Eilean More, Eilean More a Bhaigh
 Eilean Odhar, Eilean Odhor
 Eilean Olmsa, Eilean Olmos, Eilean Oloms
@@ -6260,7 +6260,7 @@ Eilean Ruairidh Mòr, Rory Island
 Eilean Rudh' a' Choin
 Eilean Ràrsaidh, Raasay
 Eilean Shona, Shona
-Eilean Siar, Western Isles, Western Isles Islands Area
+Eilean Siar, ELS, Western Isles, Western Isles Islands Area
 Eilean Sùbhainn, Eilean Suabhainn, Eilean Suthainn, Suinn Island
 Eilean Tigh
 Eilean Trodday, Trodday
@@ -6384,7 +6384,7 @@ Enborne
 Enderby
 Endon and Stanley
 Endrick Water
-Enfield, London Borough of Enfield
+Enfield, ENF, London Borough of Enfield
 Enford
 Engine Drain
 England, Anglia
@@ -6449,7 +6449,7 @@ Esmond Gas Field
 Essendine
 Essendon
 Essenside Loch
-Essex, Ceremonial County Essex, County of Essex
+Essex, Ceremonial County Essex, County of Essex, ESS
 Essington
 Esthwaite Water
 Eston Nab
@@ -6556,7 +6556,7 @@ Fala Knowe
 Faldingworth
 Falfield
 Falkenham
-Falkirk
+Falkirk, FAL
 Fall Bay
 Fall of Glomach, Falls of Glomach
 Fall of Warness
@@ -6694,7 +6694,7 @@ Fenwick
 Feoch Burn
 Feochan Mhòr, River Nell
 Feock
-Fermanagh District, Fermanagh
+Fermanagh District, FER, Fermanagh
 Fermanagh and Omagh
 Ferndale
 Ferndown
@@ -6724,7 +6724,7 @@ Fidra
 Fidra Gap (historical)
 Fidra Roads
 Field Dalling
-Fife, Fife Region
+Fife, FIF, Fife Region
 Fife Ness
 Fifehead Magdalen
 Fifehead Neville
@@ -7235,7 +7235,7 @@ Gateforth
 Gateholm Island
 Gateley
 Gatenby
-Gateshead, Gateshead District, Metropolitan Borough of Gateshead
+Gateshead, GAT, Gateshead District, Metropolitan Borough of Gateshead
 Gaulby
 Gaut Skerries
 Gautby
@@ -7380,7 +7380,7 @@ Glasbury
 Glascarnoch River, Glascarnoch
 Glascwm
 Glasgow, King George V Dock
-Glasgow City
+Glasgow City, GLG
 Glasha Burn
 Glaslyn
 Glass Islands
@@ -7637,7 +7637,7 @@ Glossa tou Shyllou
 Gloucester District
 Gloucester Park
 Gloucester and Sharpness Canal, Gloucester and Berkeley Canal, Gloucester and Sharpness Ship Canal
-Gloucestershire, Ceremonial County Gloucestershire, County of Gloucestershire, Gloucester
+Gloucestershire, Ceremonial County Gloucestershire, County of Gloucestershire, GLS, Gloucester
 Gloup Holm
 Gloup Ness
 Gloup Voe
@@ -8054,7 +8054,7 @@ Greens Norton
 Greenstead Green and Halstead Rural
 Greenstone Point
 Greensward
-Greenwich, London Borough of Greenwich
+Greenwich, GRE, London Borough of Greenwich
 Greenwich Park
 Greete
 Greetham
@@ -8224,7 +8224,7 @@ Gwinear-Gwithian
 Gwineas, Gwinges
 Gwyddelwern
 Gwydyr Forest
-Gwynedd, Caernarfonshire and Merionethshire, Ceremonial County Gwynedd
+Gwynedd, Caernarfonshire and Merionethshire, Ceremonial County Gwynedd, GWN
 Gylly Beach
 HMNB Portsmouth, Her Majesty's Naval Base Portsmouth
 Ha Wick
@@ -8246,7 +8246,7 @@ Hackleton
 Hackley Bay
 Hackley Head, Forvie Ness
 Hackness
-Hackney, London Borough of Hackney
+Hackney, HCK, London Borough of Hackney
 Hacks Ness
 Hacksness, Haco's Ness
 Hackthorn
@@ -8353,7 +8353,7 @@ Hamerton and Steeple Gidding
 Hamfallow
 Hamford Water, Hamford
 Hamla Voe
-Hammersmith and Fulham, Fulham, London Borough of Hammersmith and Fulham
+Hammersmith and Fulham, Fulham, HMF, London Borough of Hammersmith and Fulham
 Hammerwich
 Hammond Knoll
 Hammonds Wood
@@ -8440,7 +8440,7 @@ Harewood
 Harford
 Hargham Parish
 Hargrave
-Haringey, London Borough of Haringey
+Haringey, HRY, London Borough of Haringey
 Harkstead
 Harlaston
 Harlaw
@@ -8484,7 +8484,7 @@ Harrison Stickle
 Harrison's Bay
 Harrogate District
 Harrold
-Harrow, London Borough of Harrow
+Harrow, HRW, London Borough of Harrow
 Harrows Law
 Harston
 Hart
@@ -8509,7 +8509,7 @@ Hartland
 Hartland Abbey Swannery (disused), Hartland Swannery
 Hartland Point
 Hartlebury
-Hartlepool
+Hartlepool, HPL
 Hartlepool Bay
 Hartlepool Ground
 Hartley
@@ -8596,7 +8596,7 @@ Havercroft with Cold Hiendley
 Haverfordwest
 Haverhill
 Haverigg Point
-Havering, London Borough of Havering
+Havering, HAV, London Borough of Havering
 Haveringland
 Haversham-cum-Little Linford
 Haverthwaite
@@ -8837,7 +8837,7 @@ Hepworth
 Herbrandston
 Hereford
 Hereford and Worcester
-Herefordshire, Ceremonial County Herefordshire, County of Herefordshire
+Herefordshire, Ceremonial County Herefordshire, County of Herefordshire, HEF
 Heriot Water
 Herma Ness
 Hermetray, Harmetray
@@ -8854,7 +8854,7 @@ Herstmonceux
 Herston Head
 Hertford
 Hertford Heath
-Hertfordshire, Ceremonial County Hertfordshire, County of Hertfordshire, Herts
+Hertfordshire, Ceremonial County Hertfordshire, County of Hertfordshire, HRT, Herts
 Hertingfordbury
 Hertsmere District
 Herwit
@@ -8965,7 +8965,7 @@ Higher Ledge
 Higher Sharpnose Point
 Highfield
 Highfield Park
-Highland, Highland Region, Highlands
+Highland, HLD, Highland Region, Highlands
 Highland Britain
 Highlander Oil Field
 Highlandman, Highland Rock
@@ -9013,7 +9013,7 @@ Hillend Reservoir
 Hillesden
 Hillesley and Tresham
 Hillhampton
-Hillingdon, London Borough of Hillingdon
+Hillingdon, HIL, London Borough of Hillingdon
 Hillington
 Hills of Cromdale
 Hillside Park
@@ -9368,7 +9368,7 @@ Hound
 Hound Hillock
 Hound Tor
 Hounds
-Hounslow, London Borough of Hounslow
+Hounslow, HNS, London Borough of Hounslow
 Housa Voe
 Housa Wick
 Housay Island
@@ -9671,7 +9671,7 @@ Insh Island, Insh, Sheep Isle
 Inskip-with-Sowerby
 Instow
 Inver Bay
-Inverclyde
+Inverclyde, IVC
 Invergeldie Burn
 Invergowrie Bay, Invergowrie
 Inverianvie River, Inverianvie, Inveriavanie River
@@ -9756,7 +9756,7 @@ Isle of Sheppey, Isle of Sheppy, Sheppey
 Isle of Stenness
 Isle of Thanet
 Isle of West Burrafirth, West Burrafirth Island
-Isle of Wight, Ceremonial County Isle of Wight, County of Isle of Wight, Wight
+Isle of Wight, Ceremonial County Isle of Wight, County of Isle of Wight, IOW, Wight
 Isle of Wight Pond
 Isleham
 Isles of Scilly, Scilly Islands, Scilly Isles, Sillies
@@ -9924,7 +9924,7 @@ Kensington Meadows
 Kensington Palace Green
 Kenswick
 Kensworth
-Kent, Ceremonial County Kent, County of Kent
+Kent, Ceremonial County Kent, County of Kent, KEN
 Kent Estuary
 Kentchurch
 Kentford
@@ -10253,7 +10253,7 @@ Kirkhouse Point
 Kirkibost Island, Kirkibost
 Kirkland
 Kirkland Hill
-Kirklees
+Kirklees, KIR
 Kirklevington
 Kirklington
 Kirklington-cum-Upsland
@@ -10335,7 +10335,7 @@ Knowe Crags
 Knowe of Gue
 Knowle Hill
 Knowle St. Giles
-Knowsley, Metropolitan Borough of Knowsley
+Knowsley, KWL, Metropolitan Borough of Knowsley
 Knowstone
 Knutsford
 Knási
@@ -10428,7 +10428,7 @@ Lamba Island, Lamba
 Lamba Ness
 Lambden Burn
 Lamberhurst
-Lambeth, London Borough of Lambeth
+Lambeth, LBH, London Borough of Lambeth
 Lambhoga Head
 Lambley
 Lambourn
@@ -10452,7 +10452,7 @@ Lamplugh
 Lamport
 Lamyat
 Lanarkshire, Lanark, Lanark County
-Lancashire, Ceremonial County Lancashire, County of Lancashire
+Lancashire, Ceremonial County Lancashire, County of Lancashire, LAN, lancs
 Lancaster
 Lancaster Canal
 Lancaster Sands
@@ -10562,7 +10562,7 @@ Largybeg Point, Lergybeg Point
 Larick Scalp
 Larig Hill
 Larkton
-Larne District, Larne
+Larne District, LRN, Larne
 Larne Harbour
 Larne Lough
 Larne Port, Larne Ferry Port
@@ -10684,7 +10684,7 @@ Legoland Windsor, Legoland
 Legsby
 Leicester Forest East
 Leicester Forest West
-Leicestershire, Ceremonial County Leicestershire, County of Leicestershire, Leicester
+Leicestershire, Ceremonial County Leicestershire, County of Leicestershire, LEC, Leicester
 Leigh
 Leigh Branch, Leigh and Wigan Canal
 Leigh-on-Mendip
@@ -10783,7 +10783,7 @@ Lillings Ambo
 Lillingstone Dayrell with Luffield Abbey
 Lillingstone Lovell
 Lillington
-Limavady District, Limavady
+Limavady District, LMV, Limavady
 Limebrook
 Limekiln Rock
 Limeslade Bay
@@ -10801,7 +10801,7 @@ Linch
 Linchmere
 Lincoln District
 Lincolns Inn Fields
-Lincolnshire, Ceremonial County Lincolnshire, County of Lincolnshire, Lincs
+Lincolnshire, Ceremonial County Lincolnshire, County of Lincolnshire, LIN, Lincs
 Lindal and Marton
 Lindfield
 Lindfield Rural
@@ -10853,7 +10853,7 @@ Lions Haunch
 Lions Head, Lion Head
 Lippa Rocks
 Lisborgs Revile
-Lisburn District, Lisburn
+Lisburn District, LSB, Lisburn
 Lisburn and Castlereagh
 Liskeard
 Lismore Island, Lismore
@@ -11066,7 +11066,7 @@ Littleton and Harestock
 Littleworth
 Litton
 Litton Cheney
-Liverpool
+Liverpool, LIV
 Liverpool Bay
 Liverpool Port, Liverpool Ferry Port, Pier Head Ferry Terminal
 Livesey
@@ -12304,7 +12304,7 @@ Lussa River, Lussa Water
 Lustleigh
 Luston
 Luther Water
-Luton
+Luton, LUT
 Lutterworth
 Lutton
 Luttons
@@ -12418,7 +12418,7 @@ Maescar
 Maesteg
 Maesycwmmer
 Magdalen Laver
-Magherafelt District, Magherafelt
+Magherafelt District, MFT, Magherafelt
 Maghull
 Magilligan Point, Macgilligan Point
 Magna Park
@@ -12489,7 +12489,7 @@ Manafon
 Manaton
 Manby
 Mancetter
-Manchester
+Manchester, MAN
 Manchester Apollo
 Manchester Ship Canal
 Mandally Wood
@@ -12761,7 +12761,7 @@ Medmenham
 Medstead
 Medusa Channel
 Medusa Rock
-Medway
+Medway, MDW
 Medway Channel
 Medwin Water
 Meenard Mountain
@@ -12857,16 +12857,16 @@ Mersham
 Merthen Point
 Merthyr Cynog
 Merthyr Mawr
-Merthyr Tydfil County Borough, Merthyr Tydfil
+Merthyr Tydfil County Borough, MTY, Merthyr Tydfil
 Merthyr Vale
-Merton, London Borough of Merton
+Merton, London Borough of Merton, MRT
 Meshaw
 Messing-cum-Inworth
 Messingham
 Metfield
 Metheringham
 Methwold
-Metropolitan Borough of Wirral
+Metropolitan Borough of Wirral, WRL
 Mettingham
 Mevagissey, Lannvorek
 Mevagissey Bay
@@ -12920,7 +12920,7 @@ Middle Voder
 Middle Yeo
 Middlebie Burn
 Middleham
-Middlesbrough
+Middlesbrough, MDB
 Middlesex
 Middleton
 Middleton Cheney
@@ -12946,7 +12946,7 @@ Midland Isle, Middleholm
 Midland Ness
 Midlands, Central Plain
 Midlock Water, Midlock Burn
-Midlothian, Edinburgh, Edinburghshire, Mid Lothian, Midlothian County
+Midlothian, Edinburgh, Edinburghshire, MLN, Mid Lothian, Midlothian County
 Midsound Baas
 Midville
 Migneint
@@ -13007,7 +13007,7 @@ Milton Burn
 Milton Clevedon
 Milton Damerel
 Milton Ernest
-Milton Keynes
+Milton Keynes, MIK
 Milton Lilbourne
 Milton Loch
 Milton Malsor
@@ -13119,7 +13119,7 @@ Monkton
 Monkton Combe
 Monkton Farleigh
 Monlough
-Monmouthshire, County of Monmouthshire, Monmouthshire principal area
+Monmouthshire, County of Monmouthshire, MON, Monmouthshire principal area
 Monovolikos
 Monreith Bay, Monrieth Bay
 Montacute
@@ -13154,7 +13154,7 @@ Moorlinch
 Moors River
 Mopul Head
 Morar Bay
-Moray, Moray District, Morayshire
+Moray, MRY, Moray District, Morayshire
 Moray Firth
 Moray Firth Ground
 Morborne
@@ -13255,7 +13255,7 @@ Mouth of the Thames
 Mouthmill Beach
 Mowsley
 Moy Burn
-Moyle District, Moyle
+Moyle District, MYL, Moyle
 Moyola River, Moyola
 Mu Ness
 Much Birch
@@ -13450,7 +13450,7 @@ Neap of Norby
 Neap of Skea
 Neasham
 Neath
-Neath Port Talbot, County Borough of Neath Port Talbot
+Neath Port Talbot, County Borough of Neath Port Talbot, NTL
 Neatishead
 Neaty Burn
 Neave Island, Coomb Island
@@ -13615,7 +13615,7 @@ Newcastle Emlyn
 Newcastle Higher
 Newcastle Port, Newcastle Ferry Port
 Newcastle on Clun
-Newcastle upon Tyne
+Newcastle upon Tyne, NET
 Newcastle-under-Lyme District
 Newchurch
 Newchurch and Merthyr
@@ -13629,7 +13629,7 @@ Newfoundland Point
 Newfoundout
 Newhall
 Newhall Burn
-Newham, London Borough of Newham
+Newham, London Borough of Newham, NWM
 Newham Bog National Nature Reserve
 Newham Burn
 Newhaven
@@ -13644,7 +13644,7 @@ Newlaw Hill
 Newman
 Newmarket
 Newnham
-Newport, City of Newport, County Borough of Newport
+Newport, City of Newport, County Borough of Newport, NWP
 Newport Bay
 Newport Pagnell
 Newquay
@@ -13652,7 +13652,7 @@ Newquay Harbour
 Newry Canal
 Newry Mourne and Down
 Newry River, Newry, River Clanrye
-Newry and Mourne District, Newry and Mourne
+Newry and Mourne District, NYM, Newry and Mourne
 Newsham
 Newsham Tarn
 Newsham with Breckenbrough
@@ -13702,7 +13702,7 @@ Newtown
 Newtown Creek
 Newtown Linford
 Newtown and Llanllwchaiarn
-Newtownabbey District, Newtownabbey
+Newtownabbey District, NTA, Newtownabbey
 Newtrain Bay
 Neyland
 Nicholforest
@@ -13742,7 +13742,7 @@ Norbury and Roston
 Nordelph
 Nore Hill
 Nore Sand, Nore Sands, The Great Nore, The Nore
-Norfolk, Ceremonial County Norfolk, County of Norfolk
+Norfolk, Ceremonial County Norfolk, County of Norfolk, NFK
 Norham
 Norley
 Norman Rock
@@ -13758,7 +13758,7 @@ Normanton on Trent
 Normanton on the Wolds
 Nornour
 North Aston
-North Ayrshire
+North Ayrshire, NAY
 North Baddesley
 North Barrow
 North Basin
@@ -13799,13 +13799,13 @@ North Deighton
 North Devon District
 North Dog
 North Dorset District
-North Down District, North Down
+North Down District, NDN, North Down
 North Downs
 North Duffield
 North East
 North East Bank
 North East Derbyshire
-North East Lincolnshire
+North East Lincolnshire, NEL
 North East Rocks
 North Edinburgh Channel, Duke of Edinburgh Channel
 North Elmham
@@ -13844,11 +13844,11 @@ North Killingholme
 North Kilvington
 North Kilworth
 North Kyme
-North Lanarkshire
+North Lanarkshire, NLK
 North Lee, North Ben Lee
 North Leigh
 North Leverton with Habblesthorpe
-North Lincolnshire
+North Lincolnshire, NLN
 North Lock, Lock B
 North Lodge
 North London
@@ -13904,7 +13904,7 @@ North Shoals
 North Skerry
 North Smithic
 North Somercotes
-North Somerset
+North Somerset, NSM
 North Sound
 North Spit
 North Stack
@@ -13941,13 +13941,13 @@ North Wootton
 North Wraxall
 North York Moors
 North York Moors National Park
-North Yorkshire, Ceremonial County North Yorkshire, County of North Yorkshire
+North Yorkshire, Ceremonial County North Yorkshire, County of North Yorkshire, NYK
 North and Middle Littleton
 North and South Anston
 Northallerton
 Northam
 Northampton
-Northamptonshire, Ceremonial County Northamptonshire, County of Northamptonshire, Northants
+Northamptonshire, Ceremonial County Northamptonshire, County of Northamptonshire, NTH, Northants
 Northaw and Cuffley
 Northborough
 Northbourne
@@ -13971,7 +13971,7 @@ Northop
 Northop Hall
 Northorpe
 Northrepps
-Northumberland, Ceremonial County Northumberland, County of Northumberland
+Northumberland, Ceremonial County Northumberland, County of Northumberland, NBL
 Northumberland National Park
 Northumbria
 Northway
@@ -14007,8 +14007,8 @@ Noseley
 Noss Head
 Noss Sound
 Notgrove
-Nottingham
-Nottinghamshire, Ceremonial County Nottinghamshire, County of Nottinghamshire, Notts
+Nottingham, NGM
+Nottinghamshire, Ceremonial County Nottinghamshire, County of Nottinghamshire, NTT, Notts
 Notton
 Noup Head
 Nowton
@@ -14176,7 +14176,7 @@ Olna Firth
 Olney
 Olveston
 Olympic Park, Queen Elizabeth Olympic Park London
-Omagh District, Omagh
+Omagh District, OMH, Omagh
 Ombersley
 Ompton
 One Gun Point
@@ -14208,7 +14208,7 @@ Orford
 Orford Ness, Orfordness
 Orgreave
 Orka Voe
-Orkney Islands, Orkney, Orkney Islands Area, Orkneys
+Orkney Islands, ORK, Orkney, Orkney Islands Area, Orkneys
 Orlestone
 Orleton
 Orlingbury
@@ -14383,7 +14383,7 @@ Oxenton
 Oxford Canal
 Oxford District, Oxford
 Oxford Island
-Oxfordshire, Ceremonial County Oxfordshire, County of Oxfordshire, Oxon
+Oxfordshire, Ceremonial County Oxfordshire, County of Oxfordshire, OXF, Oxon
 Oxhill
 Oxna Island, Oxna
 Oxnam Water
@@ -14572,7 +14572,7 @@ Pembroke
 Pembroke Dock
 Pembroke Port, Pembroke Ferry Port
 Pembroke Reach
-Pembrokeshire, Benfro, County of Pembroke, County of Pembrokeshire
+Pembrokeshire, Benfro, County of Pembroke, County of Pembrokeshire, PEM
 Pembrokeshire Coast National Park
 Pembury
 Pen Benar, Aber Soch Point
@@ -14715,7 +14715,7 @@ Perranzabuloe
 Perry
 Pershore
 Pertenhall
-Perth and Kinross
+Perth and Kinross, PKN
 Perthshire, Perth, Perth County
 Perthumie Bay
 Perton
@@ -14724,7 +14724,7 @@ Peter Black Sand
 Peter Skerry
 Peter Tavy
 Peter's Bay
-Peterborough
+Peterborough, PTE
 Peterchurch
 Peterhead Bay
 Peterhouse Technology Park
@@ -14856,7 +14856,7 @@ Plumley
 Plumpton
 Plumstead
 Plumtree
-Plymouth
+Plymouth, PLY
 Plymouth Port, Plymouth Ferry Port
 Plymouth Sound
 Plymtree
@@ -14967,7 +14967,7 @@ Pontypridd
 Pool
 Pool Bay
 Pool of Cletts
-Poole
+Poole, POL
 Poole Bay
 Poole Harbour
 Poole Head
@@ -15084,7 +15084,7 @@ Portrush Harbour
 Ports Down
 Portsea Island
 Portskewett
-Portsmouth
+Portsmouth, POR
 Portsmouth Harbour
 Portsmouth International Port, Landport, Portsmouth Continental Ferry Port, Portsmouth Port
 Portstewart Bay
@@ -15419,7 +15419,7 @@ Raynham
 Rea Wick
 Reach
 Read
-Reading
+Reading, RDG
 Reagh Island
 Rearsby
 Reay Burn
@@ -15446,10 +15446,10 @@ Red Screes
 Red Wharf Bay
 Redbourn
 Redbourne
-Redbridge, London Borough of Redbridge
+Redbridge, London Borough of Redbridge, RDB
 Redcar Beach
 Redcar Rocks
-Redcar and Cleveland
+Redcar and Cleveland, RCC
 Redcliff
 Redcliff Bay
 Redcliff Point
@@ -15495,7 +15495,7 @@ Rempstone
 Rendcomb
 Rendham
 Rendlesham
-Renfrewshire, Renfrew, Renfrew County
+Renfrewshire, RFW, Renfrew, Renfrew County
 Renhold
 Renish Point, Ru Renish
 Rennington
@@ -15529,7 +15529,7 @@ Rhiwbina
 Rhobell Fawr
 Rhodesia
 Rhodeswood Reservoir
-Rhondda Cynon Taf, County Borough of Rhondda Cynon Taf
+Rhondda Cynon Taf, County Borough of Rhondda Cynon Taf, RCT
 Rhondda River, Rhondda
 Rhondda Valley
 Rhoose
@@ -15568,7 +15568,7 @@ Richard's Castle (Shropshire)
 Richards Castle (Hereford)
 Richmond
 Richmond Park
-Richmond upon Thames, London Borough of Richmond upon Thames
+Richmond upon Thames, London Borough of Richmond upon Thames, RIC
 Richmondshire District
 Rickets Head
 Rickett Point
@@ -16264,7 +16264,7 @@ Rother District
 Rotherfield
 Rotherfield Greys
 Rotherfield Peppard
-Rotherham
+Rotherham, ROT
 Rothersthorpe
 Rotherwick
 Rothesay Bay
@@ -16321,11 +16321,11 @@ Roxholm
 Roxton
 Roxwell
 Roy's Bay
-Royal Borough of Windsor and Maidenhead, Windsor and Maidenhead
+Royal Borough of Windsor and Maidenhead, WNM, Windsor and Maidenhead
 Royal Botanic Garden Edinburgh
 Royal Forest
-Royal Kensington and Chelsea, Kensington and Chelsea, Royal London Borough of Kensington and Chelsea
-Royal Kingston upon Thames, Kingston upon Thames, Royal London Borough of Kingston upon Thames
+Royal Kensington and Chelsea, KEC, Kensington and Chelsea, Royal London Borough of Kensington and Chelsea
+Royal Kingston upon Thames, KTT, Kingston upon Thames, Royal London Borough of Kingston upon Thames
 Royal Leamington Spa
 Royal Military Canal
 Royal Sovereign Shoals
@@ -16690,7 +16690,7 @@ Sandside Bay
 Sandside Burn
 Sandside Head
 Sandsound Voe
-Sandwell
+Sandwell, SAW
 Sandwich
 Sandwich Bay
 Sandwood Bay
@@ -16823,7 +16823,7 @@ Scotsmans Sled
 Scotstown Head
 Scott Oil Field
 Scotter
-Scottish Highlands, Highlands, Highlands of Scotland
+Scottish Highlands, Highlands of Scotland, The Highlands
 Scotton
 Scottow
 Scoulton
@@ -16906,7 +16906,7 @@ Sedlescombe
 Seend
 Seer Green
 Seething
-Sefton, Metropolitan Borough of Sefton
+Sefton, Metropolitan Borough of Sefton, SFT
 Sefton Park
 Seighford
 Seil
@@ -17131,7 +17131,7 @@ Sheerness Channel
 Sheerness Harbour
 Sheerness Middle Sand
 Sheet's Heath
-Sheffield
+Sheffield, SHF
 Sheffield Canal, Sheffield and South Yorkshire Navigation
 Sheffield Park
 Shefford
@@ -17194,7 +17194,7 @@ Shernborne
 Sherrington
 Sherston
 Sherwood Forest
-Shetland Islands, Shetland, Shetland Islands Area, Shetland Isles, Shetlands, Zetland
+Shetland Islands, Shetland, Shetland Islands Area, Shetland Isles, Shetlands, ZET, Zetland
 Shevington
 Sheviock
 Shian Bay, Sian Bay
@@ -17291,7 +17291,7 @@ Shrewsbury
 Shrewton
 Shrivenham
 Shropham
-Shropshire, Ceremonial County Shropshire, County of Shropshire, Salop
+Shropshire, Ceremonial County Shropshire, County of Shropshire, SHR, Salop
 Shropshire Union Canal, Ellesmere Canal
 Shrub Wood
 Shudy Camps
@@ -17363,7 +17363,7 @@ Sinderby
 Singleton
 Sinna Skerry
 Sinnington
-Sir Powys, County of Powys
+Sir Powys, County of Powys, POW
 Sirhowy River, Sirhowy
 Sisland
 Siston
@@ -17501,7 +17501,7 @@ Slochd Maol Doiridh, Slochd Mhaol Doraidh
 Sloley
 Slouchnamorroch Bay
 Slouchnawen Bay
-Slough, Borough of Slough
+Slough, Borough of Slough, SLG
 Slough Trading Estate
 Slough-na-more
 Slyne-with-Hest
@@ -17576,7 +17576,7 @@ Soldian Rock
 Sole Burn
 Sole Pit Gas Field, Sole Pit Field
 Solent Bank (historical)
-Solihull
+Solihull, SOL
 Sollers Hope
 Solport
 Solva
@@ -17590,7 +17590,7 @@ Somerford Booths
 Somerford Keynes
 Somerleyton Ashby and Herringfleet
 Somersal Herbert
-Somerset, Ceremonial County Somerset, County of Somerset, Somersetshire
+Somerset, Ceremonial County Somerset, County of Somerset, SOM, Somersetshire
 Somersham
 Somerton
 Sompting
@@ -17652,7 +17652,7 @@ Sourton
 Souter Head
 Souter Point, Cope Carr Point
 South Acre
-South Ayrshire
+South Ayrshire, SAY
 South Bank
 South Barrow
 South Basin
@@ -17699,7 +17699,7 @@ South Foreland
 South Forty Foot Drain, Black Sluice, Black Sluice Drainage and Navigation
 South Gavel
 South Glamorgan, Ceremonial County South Glamorgan
-South Gloucestershire
+South Gloucestershire, SGC
 South Ham
 South Hams District
 South Hanningfield
@@ -17730,7 +17730,7 @@ South Kirkby and Moorthorpe
 South Kyme
 South Ladie Bank
 South Lakeland District
-South Lanarkshire
+South Lanarkshire, SLK
 South Lee, Bein Lee
 South Leigh
 South Leverton
@@ -17791,7 +17791,7 @@ South Sunk Sand
 South Sutor, The Southern Sutor
 South Tawton
 South Thoresby
-South Tyneside
+South Tyneside, STY
 South Ugie Water
 South Uist
 South Voe
@@ -17819,14 +17819,14 @@ South Wraxall
 South Yorkshire, Ceremonial County South Yorkshire
 South-West Spit
 Southam
-Southampton
+Southampton, STH
 Southampton Port, Southampton Cruise Port, Southampton Ferry Port
 Southampton Water
 Southborough
 Southbourne
 Southbrooks Sewer
 Southease
-Southend-on-Sea
+Southend-on-Sea, SOS
 Southern, South Coast, South Coast of England, Southern England, The South, The South of England, UK South Coast
 Southern Uplands, Southern Scottish Uplands
 Southerness Point
@@ -17845,7 +17845,7 @@ Southsea
 Southsea Port, Southsea Ferry Port, Southsea Hover Port
 Southstoke
 Southward Well Point
-Southwark, London Borough of Southwark
+Southwark, London Borough of Southwark, SWK
 Southwater
 Southwell
 Southwick
@@ -18035,7 +18035,7 @@ St. Harmon
 St. Helen Without
 St. Helen's
 St. Helen's Pool
-St. Helens
+St. Helens, SHN
 St. Hilary
 St. Ippolyts
 St. Ishmael
@@ -18138,7 +18138,7 @@ Staffa Oil Field
 Staffin Bay
 Staffin Island, Staffin, Stenchol
 Stafford District
-Staffordshire, Ceremonial County Staffordshire, County of Staffordshire, Stafford
+Staffordshire, Ceremonial County Staffordshire, County of Staffordshire, STS, Stafford, Staffs
 Staffordshire Moorlands
 Staffordshire and Worcestershire Canal, Stafford and Worcester Canal, Staffordshire and Worcester Canal
 Stagsden
@@ -18325,7 +18325,7 @@ Stilton
 Stinchcombe
 Stinsford
 Stirchley and Brookside
-Stirling, County of Stirling, Stirling County, Stirlingshire
+Stirling, County of Stirling, STG, Stirling County, Stirlingshire
 Stirton with Thorlby
 Stisted
 Stithians
@@ -18369,7 +18369,7 @@ Stocksbridge
 Stockton
 Stockton Heath
 Stockton on Teme
-Stockton-on-Tees
+Stockton-on-Tees, STT
 Stockton-on-the-Forest
 Stockwood
 Stody
@@ -18416,7 +18416,7 @@ Stoke Wake
 Stoke Woods
 Stoke upon Tern
 Stoke-by-Nayland
-Stoke-on-Trent
+Stoke-on-Trent, STE
 Stokeclimsland
 Stokeham
 Stokeinteignhead
@@ -18498,7 +18498,7 @@ Stowmarket
 Stowting
 Stowupland
 Strabane Canal
-Strabane District, Straban, Strabane
+Strabane District, STB, Straban, Strabane
 Stracam River, Stracam, Stracum River
 Stradbroke
 Stradishall
@@ -18665,7 +18665,7 @@ Sudbury Park
 Sudeley
 Suffield
 Suffield-cum-Everley
-Suffolk, Ceremonial County Suffolk, County of Suffolk
+Suffolk, Ceremonial County Suffolk, County of Suffolk, SFK
 Suffolk Coastal District
 Sugar Brook
 Sugar Loaf
@@ -18692,7 +18692,7 @@ Summerhouse
 Summerhouse Bay
 Sunbury
 Sunbury Court
-Sunderland
+Sunderland, SND
 Sunderland Harbour
 Sundon
 Sundon Hills Country Park
@@ -18709,7 +18709,7 @@ Surfleet
 Surhoose Taing, Shorehouse Taing
 Surlingham
 Surlingham Broad
-Surrey, Ceremonial County Surrey, County of Surrey
+Surrey, Ceremonial County Surrey, County of Surrey, SRY
 Surrey Heath
 Sussex
 Sustead
@@ -18718,7 +18718,7 @@ Suther Ness
 Sutherlandshire, Sutherland, Sutherland County
 Suthra Voe
 Sutterton
-Sutton, London Borough of Sutton
+Sutton, London Borough of Sutton, STN
 Sutton Bassett
 Sutton Benger
 Sutton Bonington
@@ -19004,7 +19004,7 @@ Teignbridge District
 Teigngrace
 Teignmouth
 Teistie Taing
-Telford and Wrekin
+Telford and Wrekin, TFW
 Tellisford
 Telscombe
 Temple Bruer with Temple High Grange
@@ -19255,7 +19255,7 @@ The Saddle
 The Saxhams
 The Scalp
 The Scares
-The Scottish Borders, Borders, Borders Region
+The Scottish Borders, Borders, Borders Region, SCB
 The Serpentine
 The Shambles
 The Sheafing Rock
@@ -19650,7 +19650,7 @@ Tor Ness, Torsen Ness
 Torduff Hill
 Torduff Point, Tordoff Point
 Torduff Reservoir
-Torfaen County Borough, Torfaen
+Torfaen County Borough, TOF, Torfaen
 Torksey
 Tormade Point
 Tormarton
@@ -19692,7 +19692,7 @@ Towan Head
 Toward Point
 Towcester
 Towednack
-Tower Hamlets, London Borough of Tower Hamlets
+Tower Hamlets, London Borough of Tower Hamlets, TWH
 Tower Hill
 Towersey
 Town
@@ -19707,7 +19707,7 @@ Traeth Bach
 Traeth Lligwy
 Traeth Penllech
 Trafalgar Dock (historical)
-Trafford
+Trafford, TRF
 Traigh Bail Aonghais Bay, Traigh Bhail Anoais Bay, Traigh Bhailanoasis Bay
 Traigh Luskentyre, Traigh Losgainntir
 Traligill Burn
@@ -19978,7 +19978,7 @@ Underskiddaw
 Ungam
 Ungla Skerry
 Union Canal
-United Kingdom of Great Britain and Northern Ireland, U.K., United Kingdom
+United Kingdom of Great Britain and Northern Ireland, UK, United Kingdom
 Unst, Unst Island
 Unstone
 Unthank Burn
@@ -20079,7 +20079,7 @@ Vale of Conway, Conway Valley
 Vale of Edale
 Vale of Eden, Eden Lowland, Eden Vale, Eden Valley
 Vale of Evesham
-Vale of Glamorgan
+Vale of Glamorgan, VGL
 Vale of Pewsey
 Vale of White Horse, White Horse Vale
 Vale of White Horse District
@@ -20229,14 +20229,14 @@ Walpole Bay
 Walpole Cross Keys
 Walpole Highway
 Walpole Rocks
-Walsall
+Walsall, WLL
 Walsham-le-Willows
 Walsingham
 Walsoken
 Walterstone
 Waltham
 Waltham Abbey
-Waltham Forest, London Borough of Waltham Forest
+Waltham Forest, London Borough of Waltham Forest, WFT
 Waltham St. Lawrence
 Waltham on the Wolds and Thorpe Arnold
 Walthamstow Marshes
@@ -20251,7 +20251,7 @@ Wambrook
 Wamphray Water
 Wanborough
 Wandel Burn
-Wandsworth, London Borough of Wandsworth
+Wandsworth, London Borough of Wandsworth, WND
 Wandsworth Common
 Wandsworth Park
 Wangford
@@ -20324,7 +20324,7 @@ Warningcamp
 Warren Bay
 Warren Cove
 Warren Point
-Warrington
+Warrington, WRT
 Warsill
 Warslow and Elkstones
 Warsop
@@ -20335,7 +20335,7 @@ Wartling
 Warton
 Warwick
 Warwick District
-Warwickshire, Ceremonial County Warwickshire, County of Warwickshire
+Warwickshire, Ceremonial County Warwickshire, County of Warwickshire, WAR
 Wasdale
 Washer's Wood
 Washfield
@@ -20571,7 +20571,7 @@ West Bay
 West Beckham
 West Bedlington
 West Bergholt
-West Berkshire
+West Berkshire, WBK
 West Bletchley
 West Bow
 West Bradford
@@ -20601,7 +20601,7 @@ West Dipton Burn, Dipton Burn
 West Dorset District
 West Down
 West Drayton
-West Dunbartonshire
+West Dunbartonshire, WDU
 West Dureberg
 West End
 West Entrance
@@ -20653,7 +20653,7 @@ West Loch Roag
 West Loch Tarbert
 West Lomond, West Lomond Hill
 West London
-West Lothian, Linlithgow, Linlithgowshire, West Lothian County
+West Lothian, Linlithgow, Linlithgowshire, WLN, West Lothian County
 West Lulworth
 West Maiden
 West Malling
@@ -20701,7 +20701,7 @@ West Stour
 West Stow
 West Stow Country Park
 West Suffolk
-West Sussex, Ceremonial County West Sussex, County of West Sussex
+West Sussex, Ceremonial County West Sussex, County of West Sussex, WSX
 West Swale
 West Swin, Mouse
 West Tanfield
@@ -21135,7 +21135,7 @@ Wilsford cum Lake
 Wilshamstead
 Wilstrop
 Wilton
-Wiltshire, Ceremonial County Wiltshire, County of Wiltshire, Wilts
+Wiltshire, Ceremonial County Wiltshire, County of Wiltshire, WIL, Wilts
 Wimbish
 Wimbleball Lake
 Wimbledon Common
@@ -21302,7 +21302,7 @@ Woburn Safari Park
 Woburn Sands
 Wokefield
 Woking District
-Wokingham
+Wokingham, WOK
 Wokingham Without
 Wold Newton
 Woldingham
@@ -21315,7 +21315,7 @@ Wolfscastle, Wolf's Castle
 Wollaston
 Wolsingham
 Wolston
-Wolverhampton
+Wolverhampton, WLV
 Wolverley and Cookley
 Wolverton
 Wolverton and Greenleys
@@ -21419,7 +21419,7 @@ Wootton Wawen
 Worbarrow Bay, Warbarrow Bay
 Worcester District
 Worcester and Birmingham Canal
-Worcestershire, Ceremonial County Worcestershire, County of Worcestershire, Worcester, Worcs
+Worcestershire, Ceremonial County Worcestershire, County of Worcestershire, WOR, Worcester, Worcs
 Worcestershire Beacon
 Wordwell
 Worfield
@@ -21484,7 +21484,7 @@ Wrest Park
 Wrestlingworth and Cockayne Hatley
 Wretham
 Wretton
-Wrexham, County Borough of Wrexham, Wrexham County Borough, Wrexham Maelor
+Wrexham, County Borough of Wrexham, WRX, Wrexham County Borough, Wrexham Maelor
 Wrightington
 Wringcliff Bay
 Wrington

@@ -747,7 +747,7 @@
 'Aïn ech Chehem
 'Aïn ech Chemara
 'Aïn ech Cherguia
-'Aïn ech Cheïkh, Ain ech Cheikr, Aïn Cheik
+'Aïn ech Cheïkh, Aïn Cheik, Aïn ech Cheïkr
 'Aïn ech Chouf
 'Aïn ed Deba, Aïn ed Daba
 'Aïn ed Debdaba
@@ -3673,7 +3673,7 @@ Bahar Atinka, Bahr Atinka
 Bahar Mtat el Ayad, Bahar Mta el Haïad, Bahar Mtat el Haïad
 Bahar Oulad Afi, Bahar Ouled Afi, Bahi Oued Afi
 Bahar el Hammar, Bahar-el-Hamar
-Bahar en Nsa, Anse des Jeunes, Baie des Jeunes Filles, Baie des Jeunes Fillies, Baie en Nsa, Barh Ensa, En-Nessa
+Bahar en Nsa, Anse des Jeunes, Baie En Nsa, Baie des Jeunes Filles, Baie des Jeunes Fillies, Barh Ensa, En-Nessa
 Bahirat Aïssa
 Bahiret Sbikha, Bahiret Sbikra
 Bahiret Tlidjen, Behiret Telidjene
@@ -5639,7 +5639,7 @@ Boutlea
 Boutlilis
 Bouzanaza
 Bouzedjar Port
-Bouïra Province, البويرة, بلدية البويرة, بويرة, ولايه البويره
+Bouïra Province, البويرة, بلدية البويرة, بويرة, ولاية البويرة
 Boû Glez
 Boû Lîf, Bou Liff
 Boû Zaki
@@ -8769,7 +8769,7 @@ Commune de Souarakh
 Commune de Sougueur
 Commune de Souk Ahras
 Commune de Souk Naamane
-Commune de Souk et Tenine, Souk El Tenine, بلدية سوق الاثنين, سوق الاثنين
+Commune de Souk et Tenine, Souk El Tenine, بلدية سوق الاثنين, سوق الإثنين
 Commune de Souma
 Commune de Sour el Ghozlane
 Commune de Staoueli
@@ -8788,7 +8788,7 @@ Commune de Takhemaret, Takhmaret
 Commune de Tala Hamza
 Commune de Tala Ifacene
 Commune de Tamalous
-Commune de Tamanrasset, Commune de Tamanghasset, بلدية تامنغاست, بلدية تمنراست, تامنراست, تمنغاست
+Commune de Tamanrasset, Commune de Tamanghasset, بلدية تمنراست, بلدية تمنغاست, تامنراست, تامنغاست
 Commune de Tamlouka
 Commune de Tamzoura
 Commune de Taougrite
@@ -9611,7 +9611,7 @@ Daïra d''Aïn Sefra, Annexe d'Aïn-Sefra
 Daïra d''Aïn el Kebira, Arrondissement de Kerrata, Kherrata, خراطة, دائرة خراطة, دائرة عين الكبيرة, عين الكبيرة
 Daïra d'Adrar, Arrondissement d'Adrar
 Daïra d'Aflou, Arrondissement d'Aflou
-Daïra d'Akbou, Arrondissement d'Akbou, آقبو, اقبو, دائرة أقبو
+Daïra d'Akbou, Arrondissement d'Akbou, آقبو, أقبو, دائرة أقبو
 Daïra d'Alger-Sahel, Alger-Sahal, Arrondissement d'Alger
 Daïra d'Annaba, Arrondissement de Bône
 Daïra d'Arris, Arrondissement d'Arris
@@ -16930,7 +16930,7 @@ Garet el Bâba
 Garet el Djeder
 Garet el Djediâne
 Garet el Djeleb
-Garet el Djenoun, Mount Djenoun, أودان, قارة الجنون
+Garet el Djenoun, Mount Djenoun, أودن, قارة الجنون
 Garet el Djir, Garet el Jir
 Garet el Djofra
 Garet el Djoub
@@ -23132,7 +23132,7 @@ M'Zila
 M'Zimer
 M'kam er Roumi, Mekam er Roumi
 M'samech
-M'sila, M'Sila Province, Wilaya de M'sila, المسيلة, مسيلة, ولاية المسيلة
+M'sila, M'Sila Province, Wilaya de M'Sila, المسيلة, مسيلة, ولاية المسيلة
 Ma el Hamra, Djebel Ma el Hameur
 Ma'der Arib
 Ma'der Djokhane, Dayet Djokrane
@@ -23346,7 +23346,7 @@ Matmoura Hadj Djelloul
 Matmoura el Hassi
 Matougas
 Matérérey
-Mauretania, Mauretania (Roman province), موريطانيا, موريطنية
+Mauretania, Mauretania (Roman province), موريتانيا, موريطنية
 Mauretania Caesariensis, Mauretania Caesariensis (Roman province), موريطانيا القيصرية
 Mauretania Sitifensis, موريطانيا السطيفية
 Mazraet Barhîles
@@ -25179,7 +25179,7 @@ Oued Bou Dekkane
 Oued Bou Diss
 Oued Bou Djedaria
 Oued Bou Djema
-Oued Bou Djemaa, Oued Budjema, وادي أبو جمعة, وادي بوجمعة
+Oued Bou Djemaa, Oued Budjema, وادي بو جمعة, وادي بوجمعة
 Oued Bou Djenane
 Oued Bou Djenaïh
 Oued Bou Djerana
@@ -25326,7 +25326,7 @@ Oued Bou Mrheïrfa, Oued Bou Mgheirfa
 Oued Bou Nafaa
 Oued Bou Naim, Oued Bou Naïma
 Oued Bou Nammoûr
-Oued Bou Namoussa, Oued Namoussa, Wad Bu Namussa, Wad Mafrag, وادي بو ناموسة, وادي بوناموسة
+Oued Bou Namoussa, Oued Namoussa, Wad Bu Namussa, Wad Mafrag, وادي أبو ناموسة, وادي بوناموسة
 Oued Bou Ohouaya
 Oued Bou R'fiou
 Oued Bou Ralia
@@ -25603,7 +25603,7 @@ Oued Chebil
 Oued Chebket el Hamra
 Oued Chebouti
 Oued Cheddou
-Oued Cheffia, وادي الشافية
+Oued Cheffia, وادي الشفية
 Oued Chegga
 Oued Chegga el Beïda, Oued Chegg el Beïda
 Oued Cheggat
@@ -27457,7 +27457,7 @@ Oued Ouled Sioud
 Oued Ouled er Raï
 Oued Ouled es Seghir
 Oued Oulmène, Oued Oulmen
-Oued Oultem, وادي أولتام
+Oued Oultem, وادي ولتام
 Oued Oum Achra
 Oued Oum Aïcha
 Oued Oum Bouraï
@@ -27507,7 +27507,7 @@ Oued Oursadakisse
 Oued Oursedjenette
 Oued Oussif
 Oued Outar
-Oued Outoul, Irhzer oan Outoul, وادي أتول, وادي أوتول
+Oued Outoul, Irhzer oan Outoul, وادي أطول, وادي أوتول
 Oued Ouzalale
 Oued Ouzdaf, Oued Ouxdaf
 Oued Ouzera
@@ -31077,7 +31077,7 @@ Redjem Thedama
 Redjem Touam
 Redjem ech Chih
 Redjem ed Debdeb
-Redjem el 'Ogâb, Redjem el Ogla, رجم العقاب, رجم العقلة
+Redjem el 'Ogâb, Redjem el Ogla, رجم العقب, رجم العقلة
 Redjem el Abiod
 Redjem el Agab
 Redjem el Ahmar
@@ -32822,7 +32822,7 @@ Tecellit ta-n-Souleye
 Tedemit
 Tedesi
 Tedjerine, Oued Teguerine
-Tedjert, Tagert, Teg'ert, Teggert, Téguert
+Tedjert, Tagert, Tegert, Teggert, Téguert
 Tedjet
 Tedjlouine
 Tedjouldjoult
@@ -33769,7 +33769,7 @@ Tissidelt
 Tissilene
 Tissouagh
 Tit, تيت
-Tit-Fine, تيط فين
+Tit-Fine, تيت فين
 Tit-n-Afara, تيط ان أفارا
 Tit-n-Ahir, تيت ان أهير
 Tit-n-Oudad, تيت ان أوضاض
@@ -33992,7 +33992,7 @@ Wadi Mina, La Mina Rivière, Mina Rivière, Oued Mina, واد مينا, وادي
 Wadi Tit, Oued Tit, وادي تيت
 Wilaya d' Alger, Alger, Algiers, Algiers Province, Département d'Alger, Wilāyat al-Jazā'ir, Wilāyat al-Ǧazāʾir, الجزائر, الجزائر العاصمة, ولاية الجزائر
 Wilaya de Aïn Defla, Aïn Defla Province, عين الدفلة, عين الدفلى, ولاية عين الدفلى
-Wilaya de Aïn Temouchent, Aïn Temouchent, Aïn Témouchent Province, عين تموشنت, عين تيموشنت, ولاية عين تموشنت
+Wilaya de Aïn Temouchent, Aïn Témouchent, Aïn Témouchent Province, عين تموشنت, عين تيموشنت, ولاية عين تموشنت
 Wilaya de Batna, Batna, Batna Province, Departement de Batna, Département de Aurès, Wilaga de l'Aures, باتنة, ولاية باتنة
 Wilaya de Bejaïa, Bejaia, Béjaia Province, Wilāyat Bijāya, Wilāyat Biǧāya, بجاية, ولاية بجاية
 Wilaya de Biskra, Biskra, Biskra Province, بسكرة, ولاية بسكرة
@@ -34000,11 +34000,11 @@ Wilaya de Blida, Blida, Blida Province, البليدة, ولاية البليد�
 Wilaya de Bordj Bou Arréridj, Bordj Bou Arréridj, Bordj Bou Arréridj Province, برج بوعريرج, برج بوعريريج, ولاية برج بوعريريج
 Wilaya de Bouira, Bouira, البويرة, ولاية البويرة
 Wilaya de Boumerdes, Boumerdes, Boumerdes Province, بومرداس, ولاية بومرداس
-Wilaya de Béchar, Bechar, Béchar Province, بشار, ولاية بشار
+Wilaya de Béchar, Béchar, Béchar Province, بشار, ولاية بشار
 Wilaya de Chlef, Chlef, Chlef Province, Département d'El Asnam, Département d'Orléansville, Département du Chélif, Wilaya d'El Asnam, الشلف, ولاية الشلف
 Wilaya de Constantine, Constantine, Constantine Province, Département de Constantine, قسنطينة, ولاية قسنطينة
 Wilaya de Djelfa, Djelfa, Djelfa Province, الجلفة, ولاية الجلفة
-Wilaya de Ghardaïa, Ghardaia Province, Ghardaïa, غرداية, ولاية غرداية
+Wilaya de Ghardaïa, Ghardaia, Ghardaia Province, غرداية, ولاية غرداية
 Wilaya de Guelma, Guelma, Guelma Province, قالمة, ولاية قالمة, ڤالمة
 Wilaya de Jijel, Jijel, Jijel Province, جيجل, ولاية جيجل
 Wilaya de Khenchela, Khenchela, Khenchela Province, خنشلة, ولاية خنشلة
@@ -34027,7 +34027,7 @@ Wilaya de Tipaza, Tipaza, Tipaza Province, تيبازة, ولاية تيبازة
 Wilaya de Tissemsilt, Tissemsilt, Tissemsilt Province, تسمسيلت, تيسمسيلت, ولاية تسمسيلت, ولاية تيسمسيلت
 Wilaya de Tizi Ouzou, Département de Grande Kabylie, Départment de Tizi Ouzou, Tizi Ouzou, Tizi Ouzou Province, Wilāyat Tīzī Wuzū, تيزي وزو, ولاية تيزي وزو
 Wilaya de Tlemcen, Département de Tlemcen, Tlemcen, Tlemcen Province, تلمسان, ولاية تلمسان
-Wilaya de Tébessa, Tebessa, Tébessa Province, تبسة, ولاية تبسة
+Wilaya de Tébessa, Tébessa, Tébessa Province, تبسة, ولاية تبسة
 Wilaya de tiaret kabas, Département de Tiaret, Tiaret, Tiaret Province, Wilaya de Tiaret, تيارت, ولاية تيارت
 Wilaya des Oasis, Département des Oasis
 Wādī 'Ayn Zār, وادي عين زار

@@ -1568,7 +1568,7 @@ Calfreisen
 Calmut
 Calpiogna
 Calvaresc Bocchetta de
-Cama, Cama GR, Кама
+Cama, Cama GR, 卡馬
 Camaner Grat
 Cambrena Forcula dal
 Camino
@@ -1598,10 +1598,10 @@ Canariscetto Bassa di
 Canobbio
 Cansgéi Bocchetta di
 Canton Bocchetta da
-Canton de Berne, Bern, Berna, Berne, Canton Berna, Canton of Bern, Chantun Berna, Kanton Bern
-Canton de Fribourg, Canton Friburgo, Canton of Fribourg, Chantun Friburg, Freiburg, Friburg, Friburgo, Kanton Freiburg, Staat Freiburg, État de Fribourg
-Canton de Vaud, Canton Vaud, Chantun Vad, Kanton Waadt, Vad, Vaud, Waadt, Waadtland
-Canton du Valais, Canton Valais, Canton Vallese, Chantun Vallais, Kanton Wallis, Valais, Vallais, Vallese, Wallis
+Canton de Berne, BE, Bern, Berna, Berne, Canton Berna, Canton of Bern, Chantun Berna, Kanton Bern
+Canton de Fribourg, Canton Friburgo, Canton of Fribourg, Chantun Friburg, Etat de Fribourg, FR, Freiburg, Friburg, Friburgo, Kanton Freiburg, Staat Freiburg
+Canton de Vaud, Canton Vaud, Chantun Vad, Kanton Waadt, VD, Vad, Vaud, Waadt, Waadtland
+Canton du Valais, Canton Valais, Canton Vallese, Chantun Vallais, Kanton Wallis, VS, Valais, Vallais, Vallese, Wallis
 Cantonill
 Cantun Passo dal
 Cantun de l'Ungheres
@@ -3174,7 +3174,7 @@ Ducan Pitschen, Chlein Ducan
 Ducanfurgga, Ducan Fuorcla digl
 Ducangletscher
 Due Laghi Passo dei
-Dufourspitze, Pointe Dufour, Punta Dufour, Пик Дюфур
+Dufourspitze, Pointe Dufour, Punta Dufour, пик Дюфур
 Duggingen
 Duillier
 Dulliken
@@ -4381,7 +4381,7 @@ Geneva, Genf
 Genolier
 Gentalwasser, Gental, Genthalwasser
 Genthod, Жанто, 让托
-Genève, Canton Ginevra, Canton de Genève, Canton of Geneva, Chantun Genevra, Genevra, Genf, Ginevra, Kanton Genf, Repubblica e Cantone di Ginevra, Republic and Canton of Geneva, Republica ed Chantun Genevra, Republik und Kanton Genf, République et Canton de Genève, Женева, 日內瓦州
+Genève, Canton Ginevra, Canton de Genève, Canton of Geneva, Chantun Genevra, GE, Genevra, Genf, Ginevra, Kanton Genf, Repubblica e Cantone di Ginevra, Republic and Canton of Geneva, Republica ed Chantun Genevra, Republik und Kanton Genf, République et Canton de Genève, Женева, 日內瓦州
 Genève Plage
 Gerengletscher
 Gerenhorn
@@ -5281,7 +5281,7 @@ Gustispitz
 Gutentalegg
 Gutseite
 Guttannen, 古坦嫩
-Guttet-Feschel
+Guttet-Feschel, Guttet
 Gutzgletscher
 Gwandweiher
 Gwasmet
@@ -6336,7 +6336,7 @@ Junggletscher
 Jungpass
 Jungtaljoch
 Jupperhorn
-Jura, Canton Giura, Canton du Jura, Canton of Jura, Chantun Giura, Giura, Kanton Jura, Repubblica e Canton Giura, Republic and Canton of the Jura, Republica ed Chantun Giura, Republik und Kanton Jura, République et Canton du Jura, Юра, 汝拉州
+Jura, Canton Giura, Canton du Jura, Canton of Jura, Chantun Giura, Giura, JU, Kanton Jura, Repubblica e Canton Giura, Republic and Canton of the Jura, Republica ed Chantun Giura, Republik und Kanton Jura, République et Canton du Jura, Юра, 汝拉州
 Jura Bernois, Bernese Jura
 Jura bernois, Arrondissement administratif Jura bernois, Berner Jura, Bernese Jura
 Jura-Nord vaudois District, District du Jura-Nord vaudois, Jura-Nord Vaudois
@@ -6378,24 +6378,24 @@ Kandergrund
 Kandersteg
 Kandertal, Kanderthal
 Kanonensattel
-Kanton Aargau, Aargau, Argovia, Argovie, Canton Argovia, Canton d'Argovie, Canton of Aargau, Chantun Argovia, Аргау, кантон Аргау
-Kanton Appenzell Ausserrhoden, Appenzell Ausser-Rhoden, Appenzell Ausserrhoden, Appenzell Dadora, Appenzell Outer Rhodes, Appenzell Rhodes-Extérieures, Appenzello Esterno, Ausser Rhoden, Canton Appenzello Esterno, Canton d'Appenzell Rhoden-Extérieur, Canton d'Appenzell Rhodes-Extérieures, Canton of Appenzell Ausserrhoden, Chantun Appenzell Dadora
-Kanton Appenzell Innerrhoden, Appenzell Dadens, Appenzell Inner-Rhoden, Appenzell Innerrhoden, Appenzell Rhodes-Intérieures, Appenzello Interno, Canton Appenzello Interno, Canton d'Appenzell Rhoden-Intérieur, Canton d'Appenzell Rhodes-Intérieures, Chantun Appenzell Dadens, Eidgenössischer Stand Appenzell Innerrhoden, Inner Rhoden, Intérieur
-Kanton Basel-Landschaft, Basel-Land, Basel-Landschaft, Baselland, Basilea Campagna, Basilea-Champagna, Basle-Country, Bâle Campagne, Canton Basilea Campagna, Canton de Bâle-Campagne, Chantun Basilea-Champagna, Kanton Basel-Land, Kanton Baselland
-Kanton Basel-Stadt, Basel-City, Baselstadt, Basilea Città, Basilea-Citad, Basle-Town, Basle-Ville, Bâle-Ville, Canton Basilea Città, Canton de Bâle-Ville, Canton of Basel-City, Canton of Basel-Stadt, Canton of Basle-Ville, Chantun Basilea-Citad
-Kanton Glarus, Canton Glarona, Canton de Glaris, Canton of Glarus, Chantun Glaruna, Glaris, Glarona, Glaruna
-Kanton Graubünden, Canton Grisons, Canton des Grisons, Cantone dei Grigioni, Chantun Grischun, Graubünden, Grigioni, Grischun, Grisons
-Kanton Luzern, Canton Lucerna, Canton de Lucerne, Canton of Lucerne, Chantun Lucerna, Lucerna, Lucerne
-Kanton Nidwalden, Canton Nidvaldo, Canton de Nidwald, Canton of Nidwalden, Cantone di Nidwaldo, Chantun Sutsilvania, Kanton Unterwalden Nidwalden, Nidvaldo, Nidwald, Nidwaldo, Sutsilvania, Unterwalden nid dem Wald
-Kanton Obwalden, Canton Obvaldo, Canton d'Obwald, Canton of Obwalden, Chantun Sursilvania, Kanton Unterwalden Obwalden, Obvaldo, Obwald, Sursilvania, Unterwalden ob dem Wald
-Kanton Schaffhausen, Canton Sciaffusa, Canton de Schaffhouse, Canton of Schaffhausen, Chantun Schaffusa, Schaffhouse, Schaffusa, Sciaffusa
-Kanton Schwyz, Canton Svitto, Canton de Schwytz, Canton de Schwyz, Canton of Schwyz, Chantun Sviz, Schwytz, Svitto, Sviz
-Kanton Solothurn, Canton Soletta, Canton de Soleure, Canton of Solothurn, Chantun Soloturn, Soletta, Soleure, Soloturn
-Kanton St. Gallen, Canton San Gallo, Canton de Saint-Gall, Canton of St. Gallen, Cantone di San Gallo, Chantun Son Gagl, Saint-Gall, San Gallo, Sankt Gallen, Son Gagl
-Kanton Thurgau, Canton Turgovia, Canton de Thurgovie, Chantun Turgovia, Thurgau, Thurgovia, Thurgovie, Turgovia
-Kanton Uri, Canton Uri, Canton d'Uri, Chantun Uri
-Kanton Zug, Canton Zugo, Canton de Zoug, Canton of Zug, Chantun Zug, Zoug, Zugo
-Kanton Zürich, Canton Zurigo, Canton de Zurich, Canton of Zurich, Chantun Turitg, Region Zürich, Turitg, Zurigo
+Kanton Aargau, AG, Argovia, Argovie, Canton Argovia, Canton d'Argovie, Canton of Aargau, Chantun Argovia, Ааргау, Аргау, кантон Аргау
+Kanton Appenzell Ausserrhoden, AR, Appenzell Ausser-Rhoden, Appenzell Ausserrhoden, Appenzell Dadora, Appenzell Outer Rhodes, Appenzell Rhodes-Extérieures, Appenzello Esterno, Ausser Rhoden, Canton Appenzello Esterno, Canton d'Appenzell Rhoden-Extérieur, Canton d'Appenzell Rhodes-Extérieures, Canton of Appenzell Ausserrhoden, Chantun Appenzell Dadora
+Kanton Appenzell Innerrhoden, AI, Appenzell Dadens, Appenzell Inner-Rhoden, Appenzell Innerrhoden, Appenzell Rhodes-Intérieures, Appenzello Interno, Canton Appenzello Interno, Canton d'Appenzell Rhoden-Intérieur, Canton d'Appenzell Rhodes-Intérieures, Chantun Appenzell Dadens, Eidgenössischer Stand Appenzell Innerrhoden, Inner Rhoden, Intérieur
+Kanton Basel-Landschaft, BL, Basel-Land, Basel-Landschaft, Baselland, Basilea Campagna, Basilea-Champagna, Basle-Country, Bâle Campagne, Canton Basilea Campagna, Canton de Bâle-Campagne, Chantun Basilea-Champagna, Kanton Basel-Land, Kanton Baselland
+Kanton Basel-Stadt, BS, Basel-City, Baselstadt, Basilea Città, Basilea-Citad, Basle-Town, Basle-Ville, Bâle-Ville, Canton Basilea Città, Canton de Bâle-Ville, Canton of Basel-City, Canton of Basel-Stadt, Canton of Basle-Ville, Chantun Basilea-Citad
+Kanton Glarus, Canton Glarona, Canton de Glaris, Canton of Glarus, Chantun Glaruna, GL, Glaris, Glarona, Glaruna
+Kanton Graubünden, Canton Grisons, Canton des Grisons, Cantone dei Grigioni, Chantun Grischun, GR, Graubünden, Grigioni, Grischun, Grisons
+Kanton Luzern, Canton Lucerna, Canton de Lucerne, Canton of Lucerne, Chantun Lucerna, LU, Lucerna, Lucerne
+Kanton Nidwalden, Canton Nidvaldo, Canton de Nidwald, Canton of Nidwalden, Cantone di Nidwaldo, Chantun Sutsilvania, Kanton Unterwalden Nidwalden, NW, Nidvaldo, Nidwald, Nidwaldo, Sutsilvania, Unterwalden nid dem Wald
+Kanton Obwalden, Canton Obvaldo, Canton d'Obwald, Canton of Obwalden, Chantun Sursilvania, Kanton Unterwalden Obwalden, OW, Obvaldo, Obwald, Sursilvania, Unterwalden ob dem Wald
+Kanton Schaffhausen, Canton Sciaffusa, Canton de Schaffhouse, Canton of Schaffhausen, Chantun Schaffusa, SH, Schaffhouse, Schaffusa, Sciaffusa
+Kanton Schwyz, Canton Svitto, Canton de Schwytz, Canton de Schwyz, Canton of Schwyz, Chantun Sviz, SZ, Schwytz, Svitto, Sviz
+Kanton Solothurn, Canton Soletta, Canton de Soleure, Canton of Solothurn, Chantun Soloturn, SO, Soletta, Soleure, Soloturn
+Kanton St. Gallen, Canton San Gallo, Canton de Saint-Gall, Canton of St. Gallen, Cantone di San Gallo, Chantun Son Gagl, SG, San Gallo, Sankt Gallen, Son Gagl, St. Gall
+Kanton Thurgau, Canton Turgovia, Canton de Thurgovie, Chantun Turgovia, TG, Thurgau, Thurgovia, Thurgovie, Turgovia
+Kanton Uri, Canton d'Uri, Canton of Uri, Chantun Uri, UR
+Kanton Zug, Canton Zugo, Canton de Zoug, Canton of Zug, Chantun Zug, ZG, Zoug, Zugo
+Kanton Zürich, Canton Zurigo, Canton de Zurich, Canton of Zurich, Chantun Turitg, Region Zürich, Turitg, ZH, Zurigo
 Kanzelköpfe
 Kanziljoch
 Kanzilti
@@ -6775,7 +6775,7 @@ Lac de Montsalvens
 Lac de Morgins
 Lac de Moron
 Lac de Nervaux
-Lac de Neuchâtel, Lago di Neuchâtel, Lake of Neuchâtel, Neuenburg, Neuenburger See, Neuenburgersee
+Lac de Neuchâtel, Lago di Neuchâtel, Lake Neuchâtel, Neuenburg, Neuenburger See, Neuenburgersee
 Lac de Recon
 Lac de Salanfe
 Lac de Sauvabelin, Lake of Sauvabelin
@@ -7084,7 +7084,7 @@ Lajet da Lischana
 Lajets
 Lajoux (JU)
 Lake Davos, Davosersee
-Lake Geneva, Genfer See, Genfersee, Lac Léman, Lago di Ginevra, Lake Leman, Lemano, le Léman, Женевское озеро, 日內瓦湖
+Lake Geneva, Genfer See, Genfersee, Lago di Ginevra, Lake Leman, Lemano, lac Léman, le Léman, Женевское озеро, 日內瓦湖
 Lake Lucerne, Lac d'Uri, Lac des Quatre Cantons, Lago dei Cantoni, Lago dei Quattro Cantoni, Lake of the Four Forest Cantons, Lucerne, Vierwaldstätter See, Vierwaldstättersee, 琉森湖
 Lake Wohlen, Stausee Wohlen, Wohlensee
 Lalden
@@ -8823,7 +8823,7 @@ Nesslenstock
 Nestgletscher
 Nesthorn
 Netzrichtiegg
-Neuchâtel, Canton Neuchâtel, Canton de Neuchâtel, Cantone Neuchâtel, Cantone di Neuchâtel, Chantun Neuchâtel, Kanton Neuenburg, Neuenburg, Repubblica e Cantone Neuchâtel, Republik und Kanton Neuenburg, République et Canton de Neuchâtel, Нёвшатель, 納沙泰爾州
+Neuchâtel, Canton Neuchâtel, Canton de Neuchâtel, Cantone Neuchâtel, Cantone di Neuchâtel, Chantun Neuchâtel, Kanton Neuenburg, NE, Neuenburg, Repubblica e Cantone Neuchâtel, Republik und Kanton Neuenburg, République et Canton de Neuchâtel, Невшатель, 納沙泰爾州
 Neuchâtel District, District de Neuchâtel
 Neudorf
 Neuenalpspitz
@@ -13155,7 +13155,7 @@ Tiarms Pass
 Tiaun
 Tiaungrat
 Tibistock
-Ticino, Canton Ticino, Canton du Tessin, Cantone Ticino, Chantun Tessin, Kanton Tessin, Repubblica e Canton Ticino, Repubblica e Cantone Ticino, Republica ed Chantun Tessin, Republik und Kanton Tessin, République et Canton du Tessin, Tessin, Тичино, 提契諾州
+Ticino, Canton Ticino, Canton du Tessin, Cantone Ticino, Chantun Tessin, Kanton Tessin, Repubblica e Canton Ticino, Repubblica e Cantone Ticino, Republica ed Chantun Tessin, Republik und Kanton Tessin, République et Canton du Tessin, TI, Tessin, Тичино, 提契諾州
 Tiefencastel
 Tiefengletscher
 Tiefenstock
@@ -14225,7 +14225,7 @@ Wandfluehorn
 Wandfluejoch
 Wandfluelücke
 Wandflueseeli
-Wandfluhhorn, Pizzo Biela
+Wandfluhhorn, Pizzo Bìela
 Wandflüeli
 Wangegg
 Wangen (SZ)
@@ -14604,7 +14604,7 @@ Wäspen
 Wätterhoren
 Wätterlatte
 Wölflinswil
-Wörznerhorn, Guschner-Gir
+Wörznerhorn, Guschner Gir
 Wünnewil-Flamatt
 Würenlingen
 Würenlos
@@ -14741,7 +14741,7 @@ Zürcher Oberland
 Zürcher Unterland
 Zürich
 Zürichberg
-Zürichsee, Lac de Zurich, Lago di Zurigo, Lai da Turitg, Lake Zurich, Züricher See, Цюрих көлі, Цюрихское озеро, 苏黎世湖
+Zürichsee, Lac de Zurich, Lago di Zurigo, Lai da Turitg, Lake of Zurich, Züricher See, Цюрих көлі, Цюрихское озеро, 苏黎世湖
 Züsenegghubel
 téléski Nods
 téléski Pré d'Orvin

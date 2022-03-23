@@ -362,7 +362,7 @@ Balm bei Messen, Balm b. Messen
 Balmberg
 Balmenegg
 Balmwies
-Balsthal, Balstal, 巴爾斯塔爾
+Balsthal, Бальсталь, 巴爾斯塔爾
 Baltenswil
 Balterswil, Bichelsee-Balterswil
 Baltschieder, 巴爾奇德爾
@@ -1001,7 +1001,7 @@ Calonico
 Calpiogna
 Calzo
 Calörtsch
-Cama, Cama GR, Кама
+Cama, Cama GR, 卡馬
 Camana
 Camarè
 Camasciora
@@ -1018,7 +1018,7 @@ Campello
 Camperio
 Campestro
 Campetto
-Campfer, Champfer, St. Moritz-Champfer
+Campfer, Champfèr, St. Moritz-Champfer
 Campiscioni
 Campliun
 Campo, Campo (Vallemaggia), Campo Valmaggia, 坎波
@@ -1484,7 +1484,7 @@ Cuccarello
 Cudrefin, 居德勒凡
 Cugnasco
 Cugy, Cugy FR, Cugy VD, 居日, 屈吉
-Cully, Cully VD, 居利
+Cully, Cully (VD), 居利
 Cumbel, Cumbels
 Cunter, Кунтер, 昆特爾
 Cuquerens
@@ -1646,7 +1646,7 @@ Duvin, Duin, 杜溫
 Dächebüel
 Dägerlen
 Dändlikon
-Däniken, Деникен
+Däniken, 德尼肯
 Dänikon
 Därligen, Дерлиген, 德利根
 Därstetten, Дерштеттен, 德斯泰滕
@@ -1808,7 +1808,7 @@ Epagny
 Epalinges, 埃帕兰日
 Epautheyres
 Epauvillers
-Ependes, Ependes FR, Ependes VD, 埃庞德
+Ependes, Ependes FR, Ependes VD, 埃龐德
 Epesses
 Epiquerez
 Eppenberg
@@ -2208,7 +2208,7 @@ Genolier, 热诺利耶
 Genthalhütten, Gentalhütten, Genthalalp
 Genthod, Жанто, 让托
 Gentilino
-Genève, Canton Ginevra, Canton de Genève, Canton of Geneva, Chantun Genevra, Geneva, Genevra, Genf, Ginevra, Kanton Genf, Repubblica e Cantone di Ginevra, Republic and Canton of Geneva, Republica ed Chantun Genevra, Republik und Kanton Genf, République et Canton de Genève, Женева, 日內瓦州
+Genève, Canton Ginevra, Canton de Genève, Canton of Geneva, Chantun Genevra, GE, Geneva, Genevra, Genf, Ginevra, Kanton Genf, Repubblica e Cantone di Ginevra, Republic and Canton of Geneva, Republica ed Chantun Genevra, Republik und Kanton Genf, République et Canton de Genève, Женева, 日內瓦州
 Ger
 Gerbio
 Geren, Goren, Görenmühle
@@ -4284,7 +4284,7 @@ Mur (Vully), Mur (Vully) VD
 Muralto, 穆拉爾托
 Muraz (Sierre)
 Murg
-Murgenthal, Murgental
+Murgenthal, Мургенталь
 Muri, Muri AG, Muri b. Bern, Muri bei Bern, 穆里
 Muriaux, 穆里奧
 Muricce
@@ -4292,7 +4292,7 @@ Murio
 Muriscio
 Murist, 穆里斯
 Murschetg
-Murten/Morat, Morat, Morato, Murten, 穆爾滕
+Murten/Morat, Morat, Morato, Муртен, 穆爾滕
 Murzelen
 Musersbergli
 Mutrux
@@ -4308,7 +4308,7 @@ Mägenwil, Мегенвиль, 梅根維爾
 Männedorf, Меннедорф, 門內多夫
 Männetsriet
 Männlichen
-Märstetten-Dorf, Marestetin, Marstettin, Märstetten
+Märstetten-Dorf, CH MAR, Marestetin, Marstettin, Märstetten
 Märwil
 Mäschenboden
 Mätteli
@@ -4407,7 +4407,7 @@ Neu-Rheinau
 Neubad
 Neubrunn
 Neubrunnen
-Neuchâtel, Canton Neuchâtel, Canton de Neuchâtel, Cantone Neuchâtel, Cantone di Neuchâtel, Chantun Neuchâtel, Kanton Neuenburg, Neuenburg, Repubblica e Cantone Neuchâtel, Republik und Kanton Neuenburg, République et Canton de Neuchâtel, Нёвшатель, 納沙泰爾州, 纳沙泰尔
+Neuchâtel, Canton Neuchâtel, Canton de Neuchâtel, Cantone Neuchâtel, Cantone di Neuchâtel, Chantun Neuchâtel, Kanton Neuenburg, NE, Neuenburg, Repubblica e Cantone Neuchâtel, Republik und Kanton Neuenburg, République et Canton de Neuchâtel, Невшатель, 納沙泰爾州, 纳沙泰尔
 Neudorf
 Neuegg
 Neuendorf, Neuendorf SO, Нойендорф, 諾伊因多夫
@@ -5146,7 +5146,7 @@ Rans
 Ranscea
 Ranzo
 Raperswilen, Раперсвилен, 拉珀斯維倫
-Rapperswil, Rapperswil BE, Rapperswil SG, Рапперсвиль, 拉珀斯维尔
+Rapperswil, Rapperswil BE, Rapperswil SG, Рапперсвиль, 拉珀斯維爾
 Raron, Rarogne, 拉龙
 Rasa
 Ratzenberg
@@ -5394,7 +5394,7 @@ Rothenburg, Rothenburg LU, Ротенбург, 羅滕堡
 Rothenburg Station
 Rothenfluh, Ротенфлу, 羅蒂弗盧
 Rothenhausen
-Rothenthurm, Rothenthurm SZ, Ротентурм
+Rothenthurm, Rotenturm, Rothenthurm SZ
 Rothrist, Rothrist-Dorf, Ротрист, 羅特里斯特
 Rothwald
 Roticcio, Rotticcio
@@ -5550,7 +5550,7 @@ Saignelégier, 賽尼厄萊吉耶
 Saillon, 薩永
 Saint Denis
 Saint Saphorin, St-Saphorin (Lavaux)
-Saint-Aubin, St-Aubin FR, 聖奧班
+Saint-Aubin, Saint-Aubin FR, 聖奧班
 Saint-Aubin-Sauges, 聖歐班索熱
 Saint-Blaise, Saint-Blaise NE, 聖布萊斯
 Saint-Brais, 聖布賴
@@ -5569,7 +5569,7 @@ Saint-Maurice, Saint-Maurice VS, 聖莫里斯
 Saint-Pierre-de-Clages
 Saint-Prex, 圣普雷
 Saint-Romain, St-Romain (Ayent)
-Saint-Sulpice, Saint-Sulpice NE, Saint-Sulpice VD
+Saint-Sulpice, Saint-Sulpice NE, St-Sulpice VD
 Saint-Triphon
 Saint-Ursanne
 Sainte-Croix, Sainte-Croix VD, 圣科瓦
@@ -6124,7 +6124,7 @@ Stegmatt
 Stehrenberg
 Steig
 Stein, Stein AG, Stein AR, Stein SG, Штайн, 斯泰因
-Stein am Rhein, Штайн-Ам-Райн, Штайн-на-Рейне
+Stein am Rhein, Штайн-ам-Райн, Штайн-на-Рейне
 Steinach
 Steinbergen
 Steinbergli
@@ -6444,7 +6444,7 @@ Tur
 Tur dell'Alpe
 Turahus, Beim Thurm
 Turbach
-Turbenthal, Турбенталь, 圖本塔爾
+Turbenthal, Turbental, 圖本塔爾
 Turgi, 圖爾吉
 Turin (Salins)
 Turtig

@@ -32,7 +32,7 @@ Aceno
 Achado
 Acopiara
 Acorizal
-Acre, Estado do Acre, Territorio do Acre, Território Federal do Acre
+Acre, AC, Estado do Acre, Territorio do Acre, Território Federal do Acre
 Acrelândia
 Acreúna
 Acude Agua Boa
@@ -93,7 +93,7 @@ Alagamar
 Alagoa
 Alagoa Grande
 Alagoa Nova
-Alagoas, Estado de Alagoas
+Alagoas, AL, Estado de Alagoas
 Alagoinha
 Alagoinha do Piauí
 Alagoinhas
@@ -257,7 +257,7 @@ Além Paraíba
 Amajari
 Amambai
 Amaporã
-Amapá, Estado do Amapá
+Amapá, AP, Estado do Amapá
 Amapá do Maranhão
 Amaraji
 Amaral Ferrador
@@ -269,7 +269,7 @@ Amargosa
 Amaturá
 Amazon Basin, Amazonia, Bacia Amazônica, Bacia do Amazonas, Hoya Amazonica
 Amazon River, Amazone River, Orellana, Rio Solimões, Río Amazonas, Río Marañón, Río el Amazonas, Salimoes River, Solimoens, Solimões River
-Amazonas, Estado do Amazonas
+Amazonas, AM, Estado do Amazonas
 Amazônia Legal, BLA, Brazil's Legal Amazon
 Ambrósio
 Ambrósios
@@ -1626,7 +1626,7 @@ Bady Bassitt
 Baependi
 Bagre
 Bagé
-Bahia, Estado da Bahia, Estado de Bahia
+Bahia, BA, Estado da Bahia, Estado de Bahia
 Bahía de Castelhanos, Bahia Do Sombrio, Bahia do Sombria
 Baia da Figueira, Baía do Figueiro
 Baia de São Vicente
@@ -2376,7 +2376,7 @@ Belmiro Braga
 Belmont
 Belmonte
 Belo Campo
-Belo Horizonte, Belo Hte
+Belo Horizonte, BH, Belo Hte
 Belo Jardim
 Belo Monte
 Belo Oriente
@@ -3184,7 +3184,7 @@ Cachoeira Montanha
 Cachoeira Monte Cristo, Cachoeira Monte Christo
 Cachoeira Morena
 Cachoeira Mortandade, Cachoeira Moriandade
-Cachoeira Mourouniourincin, Oulabaleia Itou
+Cachoeira Mourouniourincin, Oulabaleïa Itou
 Cachoeira Mucambinho
 Cachoeira Mucura
 Cachoeira Mucura Aruaí
@@ -4536,7 +4536,7 @@ Caçu
 Caçula
 Caém
 Caí de Baixo
-Ceará, Estado do Ceará
+Ceará, CE, Estado do Ceará
 Ceará-Mirim
 Ceboleiro
 Cedral
@@ -9201,7 +9201,7 @@ Espinhaço
 Espinheiro
 Espinilho State Park
 Espinosa
-Espirito Santo, Estado de Espírito Santo
+Espirito Santo, ES, Estado de Espírito Santo
 Esplanada
 Espraiado
 Espumoso
@@ -9410,7 +9410,7 @@ Fazendinha
 Fazendão
 Fazzagonel, Fazenda Zagonel
 Fechado
-Federal District, Distrito Federal de Brasília, Futuro Distrito Federal, Municipio Federal, Novo Distrito Federal
+Federal District, DF, Distrito Federal de Brasília, Futuro Distrito Federal, Municipio Federal, Novo Distrito Federal
 Federative Republic of Brazil, Brasil, Brasilien, Brasíle, Brazil, Brésil, Estados Unidos do Brasil, Estados Unidos do Brazil, República Federativa do Brasil, República dos Estados Unidos do Brasil, United States of Brazil
 Feijao
 Feijó
@@ -9803,7 +9803,7 @@ Goiatins
 Goiatuba
 Goioerê
 Goioxim
-Goiás, Goiaz
+Goiás, GO, Goiaz
 Goiânia
 Gombê
 Gomes
@@ -13018,7 +13018,7 @@ Ilha Uruá
 Ilha Valaca
 Ilha Valente
 Ilha Vidraça
-Ilha Vieira, Ilha Grande do Vieira
+Ilha Vieira, Ilha do Grande Vieira
 Ilha Vila Nova
 Ilha Vinte e Quatro de Maio
 Ilha Viraponga
@@ -13184,7 +13184,7 @@ Ilha da Tapera
 Ilha da Tartaruguinha
 Ilha da Terra Alta
 Ilha da Torotama
-Ilha da Trindade, Ilha da Trinidade, Trinidad
+Ilha da Trindade, Ilha Trinidade, Trinidad
 Ilha da Velha
 Ilha da Venda
 Ilha da Vicência
@@ -13266,7 +13266,7 @@ Ilha de Cametá
 Ilha de Cananéia, Ilha de Cananéa
 Ilha de Coco
 Ilha de Colares, Ilha Collares
-Ilha de Coral, Ilha Coral
+Ilha de Coral, Ilha do Coral
 Ilha de Curari
 Ilha de Curuça
 Ilha de Fernando de Noronha, Fernand do Norhona, Fernando Noronha, Ilha Fernando de Noronha
@@ -13287,7 +13287,7 @@ Ilha de João da Cunha, Ilha de Porto Belo
 Ilha de Mandigituba, Ilha de Montegituba, Mondijituba Island
 Ilha de Mangaí
 Ilha de Manguinho
-Ilha de Maracá, Ilha Marica, Ilha do Maracá
+Ilha de Maracá, Ilha Maricá, Ilha do Maracá
 Ilha de Marajó, Ilha Joanes, Ilha Joannes
 Ilha de Nazaré
 Ilha de Palhêta
@@ -13857,7 +13857,7 @@ Ilhas Araçari, Aracaru Island, Ilhas Araçary
 Ilhas Boa Vista
 Ilhas Calama
 Ilhas Caldeirão
-Ilhas Corais, Cural Islands, Ilha Coral, Ilha dos Currais, Ilhas Curraes, Ilhas Currais
+Ilhas Corais, Cural Islands, Ilha do Coral, Ilha dos Currais, Ilhas Curraes, Ilhas Currais
 Ilhas Diá, Ilhas Oiá
 Ilhas Dois Irmãos, The Twins
 Ilhas Duas Irmãs
@@ -16761,7 +16761,7 @@ Marajó
 Maranduva
 Maranguape
 Maranhao River
-Maranhão, Estado do Maranhão, Maranham
+Maranhão, Estado do Maranhão, MA, Maranham
 Maranhãozinho
 Marapanim
 Marapoama
@@ -16893,8 +16893,8 @@ Mato Dentro
 Mato Escuro
 Mato Grande
 Mato Grande Biological Reserve
-Mato Grosso, Estado de Mato Grosso
-Mato Grosso do Sul, Estado de Mato Grosso do Sul
+Mato Grosso, Estado de Mato Grosso, MT
+Mato Grosso do Sul, Estado de Mato Grosso do Sul, MS
 Mato Leitão
 Mato Limpo
 Mato Preto
@@ -16988,7 +16988,7 @@ Mina Du Veloso
 Mina Velha
 Minador
 Minador do Negrão
-Minas Gerais, Estado de Minas Gerais, Minas, Minas Geraes
+Minas Gerais, Estado de Minas Gerais, MG, Minas, Minas Geraes
 Minas Novas
 Minas do Leão
 Minaçu
@@ -18639,7 +18639,7 @@ Paraisópolis
 Parambu
 Paramirim
 Paramoti
-Parana, Estado do Paraná
+Parana, Estado do Paraná, PR
 Parana River
 Parana Sapucaia
 Paranacity
@@ -18857,7 +18857,7 @@ Paraty
 Parauapebas
 Parazinho
 Paraí
-Paraíba, Estado da Paraíba, Parahiba do Norte, Parahyba, Parahyba do Norte
+Paraíba, Estado da Paraíba, PB, Parahiba do Norte, Parahyba, Parahyba do Norte
 Paraíba do Sul
 Paraíso
 Paraíso Perdido
@@ -19013,7 +19013,7 @@ Parque do Natal
 Parque do Trovador
 Parque dos Manguezais
 Parque dos Poderes
-Pará, Estado do Pará
+Pará, Estado do Pará, PA
 Pará de Minas
 Paso Los Moirones
 Paso Real
@@ -19361,7 +19361,7 @@ Penaforte
 Penalva
 Pendências
 Penedo
-Penedos de São Pedro e São Paulo, Penedo de São Pedro, Peñedo de São Pedro e São Paulo, Rochedas São Paulo, Rochedos São Paulo, Rochedos São Pedro e São Paulo, Saint Paul, Saint Paul's Rocks, Saint Peter and Paul Rocks, Saint Peter and Saint Paul Rocks, St. Paul Rocks
+Penedos de São Pedro e São Paulo, Penedo de São Pedro, Peñedo de São Pedro e São Paulo, Rochedas São Paulo, Rochedos São Paulo, Rochedos São Pedro e São Paulo, Saint Paul, Saint Paul Rocks, Saint Paul's Rocks, Saint Peter and Saint Paul Rocks, St. Peter and Paul Rocks
 Penha
 Pentecoste
 Penudas
@@ -19385,7 +19385,7 @@ Peri Mirim
 Periquito
 Peritiba
 Peritoró
-Pernambuco, Estado de Pernambuco
+Pernambuco, Estado de Pernambuco, PE
 Pernambuco Roads (historical)
 Perobal
 Perobas
@@ -19411,7 +19411,7 @@ Piancó
 Piatã
 Piau
 Piau reservoir
-Piauí, Estado do Piauí, Piauhy
+Piauí, Estado do Piauí, PI, Piauhy
 Piava
 Piaçabuçu
 Picada
@@ -21749,7 +21749,7 @@ Riacho João Alves
 Riacho João Lopes
 Riacho João Vieira
 Riacho Jubaia
-Riacho Juca, Jucá River, Rio Jucá
+Riacho Juca, Jucá River, Rio do Jucá
 Riacho Jucás
 Riacho Jucé
 Riacho Junquinho
@@ -23526,7 +23526,7 @@ Ribeirão Jabuti
 Ribeirão Jacadigo, Córrego Uacadija
 Ribeirão Jacaré, Jacarezinho River, Jacaré River
 Ribeirão Jacinto
-Ribeirão Jacobina, Rio Jacobina
+Ribeirão Jacobina, Rio da Jacobina
 Ribeirão Jacu
 Ribeirão Jacuba
 Ribeirão Jacucaca
@@ -25120,7 +25120,7 @@ Rio Araru
 Rio Arataú, Rio Aratahú
 Rio Araticu, Araticu River
 Rio Aratu, Aratu River
-Rio Arauá, Arauã River, Riacho Arauá
+Rio Arauá, Arauá River, Riacho Arauá
 Rio Araué
 Rio Araçaúba, Rio Aracatuba
 Rio Araçuai, Araçuaí River, Rio Arassuahy, Rio Arassuaí
@@ -25617,7 +25617,7 @@ Rio Carocango
 Rio Caronas
 Rio Carpina
 Rio Carrança
-Rio Carrapato, Ribeirão do Carrapato
+Rio Carrapato, Ribeirão Carrapato
 Rio Carretão
 Rio Carretãozinho
 Rio Carsona
@@ -26093,9 +26093,9 @@ Rio Grande, Canal do Rio Grande
 Rio Grande Valentim, Igarapé de Valentim
 Rio Grande da Serra
 Rio Grande de Jaconé
-Rio Grande do Norte, Estado do Rio Grande do Norte
+Rio Grande do Norte, Estado do Rio Grande do Norte, RN
 Rio Grande do Piauí
-Rio Grande do Sul, Estado do Rio Grande do Sul
+Rio Grande do Sul, Estado do Rio Grande do Sul, RS
 Rio Gratau
 Rio Gravataí, Gravataí River, Rio Gravatahy
 Rio Gravatá, Gravatá River
@@ -26148,7 +26148,7 @@ Rio Guaribas, Riacho Guaribas
 Rio Guaribe, Guariba River
 Rio Guarijuba, Guarijuba River
 Rio Guarita, Guarita River
-Rio Guaritire, Guaritire River, Rio Guaritiné, Rio Guaritiri, Rio Piolho
+Rio Guaritire, Guaritire River, Rio Guaritiné, Rio Guaritiri, Rio do Piolho
 Rio Guará, Guará River
 Rio Guavinipã, Rio Guavinipan
 Rio Guaxindiba
@@ -26896,7 +26896,7 @@ Rio Mulata
 Rio Mulato
 Rio Mulungu
 Rio Mumbaba, Mumbaba River
-Rio Mundaú, Mundaú River, Rio Mundahu, Rio Mundaú Mirim
+Rio Mundaú, Mundaú River, Rio Mundahú, Rio Mundaú Mirim
 Rio Mundel
 Rio Munim, Munim River, Rio Monim, Rio Monin
 Rio Mupi
@@ -27135,7 +27135,7 @@ Rio Pau Alto, Pau Alto River
 Rio Pau Atravessado, Pau Atravessado River
 Rio Pau Deitado
 Rio Pau Oco
-Rio Pau Seco, Ribeirão Pau Séco
+Rio Pau Seco, Ribeirão Pau Seco
 Rio Pau-d'arco, Ribeirão do Pau d'Arco
 Rio Pauapixuna
 Rio Pauini, Pauini River, Rio Pauhiny, Rio Pavini
@@ -27249,7 +27249,7 @@ Rio Piorini, Paraná Piurini, Piorini River, Rio Priorini
 Rio Pipi
 Rio Pipiripau, Pipiripau River, Rio Piriripau
 Rio Piqui, Pequií, Rio Pequi, Rio Piquií
-Rio Piquiri, Piquirí River, Rio Peguirí, Rio Pequeri, Rio Pequir, Rio Pequiry, Rio Pequirysinho, Rio Pequirí, Rio Piquiry
+Rio Piquiri, Piquiri River, Rio Peguirí, Rio Pequeri, Rio Pequir, Rio Pequiry, Rio Pequirysinho, Rio Pequirí, Rio Piquiry
 Rio Pirabas
 Rio Pirabeiraba, Pirabeiraba River, Rio Pirabeira
 Rio Pirabibu
@@ -27666,7 +27666,7 @@ Rio Sucuriú, Sucuriú River
 Rio Sucuru, Sucuru River
 Rio Sucuruju
 Rio Suiazinho
-Rio Suiá-Miçu, Rio Suaia Missu, Rio Suiazão, Rio Suiá-Missu, Rio Sujá Micu, Rio Suya-missú, Suia-Miçu River
+Rio Suiá-Miçu, Rio Suaia Missu, Rio Suiazão, Rio Suiá-Missu, Rio Suja Miçu, Rio Suya-missú, Suia-Miçu River
 Rio Sujo
 Rio Sumaúma Grande, Rio Samaúma Grande, Rio Sumaúma
 Rio Sumidor
@@ -27916,7 +27916,7 @@ Rio Tucumã, Paraná Tucumã
 Rio Tucunapi, Rio Tacunapi, Tacunapi River
 Rio Tucunduva
 Rio Tucunzal
-Rio Tucuruí, Rio Tiricuri, Rio Tucuriu, Rio Tucuruhi, Rio Tucuruhy, Tucurui River
+Rio Tucuruí, Rio Tiricuri, Rio Tucuriú, Rio Tucuruhi, Rio Tucuruhy, Tucurui River
 Rio Tueré, Tueré River
 Rio Tujuri, Arroio Tujui, Arroio Tujurí, Ribeirão Tuaurí
 Rio Tumiã, Tumiã River
@@ -28298,7 +28298,7 @@ Rio de Breves, De Breves River
 Rio de Contas, De Contas River, Jussiape River, Rio das Contas
 Rio de Dentro
 Rio de Icatu
-Rio de Janeiro, Estado do Rio de Janeiro
+Rio de Janeiro, Estado do Rio de Janeiro, RJ
 Rio de Janeiro Harbour
 Rio de Juruti, Juriti River, Rio de Juriti
 Rio de Lavras
@@ -28697,9 +28697,9 @@ Rondolândia
 Rondon
 Rondon do Pará
 Rondonópolis
-Rondônia, Estado de Rondônia, Estado do Rondônia, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé
+Rondônia, Estado de Rondônia, Estado do Rondônia, RO, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé
 Roque Gonzales
-Roraima, Estado de Roraima, Estado do Roraima, Território do Rio Branco
+Roraima, Estado de Roraima, Estado do Roraima, RR, Território do Rio Branco
 Rorainópolis
 Rosana
 Rosarinho
@@ -28985,7 +28985,7 @@ Santa Bárbara do Sul
 Santa Bárbara do Tugúrio
 Santa Bárbara dos Machados
 Santa Carmem
-Santa Catarina, Estado de Santa Catarina, Santa Catharina
+Santa Catarina, Estado de Santa Catarina, SC, Santa Catharina
 Santa Cecília
 Santa Cecília do Pavão
 Santa Cecília do Sul
@@ -29980,7 +29980,7 @@ Serra da Juerana
 Serra da Jurema
 Serra da Jurubeba
 Serra da Juréia
-Serra da Juçara, Serra da Jussara
+Serra da Juçara, Serra Jussara
 Serra da Lagartixa
 Serra da Lagoa
 Serra da Lagoa Bonita
@@ -30756,7 +30756,7 @@ Serra do Gaviao
 Serra do Gentil
 Serra do Gentio, Serra do Gentlo
 Serra do Gigante
-Serra do Gil, Serra Itaberaba, Serra do Itabera
+Serra do Gil, Serra do Itabera, Serra do Itaberaba
 Serra do Gomes
 Serra do Gonçalo
 Serra do Gorutuba
@@ -31955,7 +31955,7 @@ São Modesto
 São Mulungu
 São Nicolau
 São Patrício
-São Paulo, Estado de São Paulo, San Paulo
+São Paulo, Estado de São Paulo, SP, San Paulo
 São Paulo das Missões
 São Paulo de Olivença
 São Paulo do Potengi
@@ -32259,7 +32259,7 @@ Tiros
 Tiúba
 Toari
 Tobias Barreto
-Tocantins, Estado de Tocantins
+Tocantins, Estado de Tocantins, TO
 Tocantins River
 Tocantinópolis
 Tocantínia

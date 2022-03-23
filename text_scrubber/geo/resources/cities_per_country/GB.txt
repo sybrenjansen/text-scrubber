@@ -619,7 +619,7 @@ Ardvorlich
 Ardwell
 Arford
 Argos Hill
-Argyll and Bute
+Argyll and Bute, AGB
 Arhmore Lewis
 Arinagour
 Arisaig
@@ -1249,7 +1249,7 @@ Barnby Moor
 Barnby in the Willows
 Barnes
 Barnes Street
-Barnet, Barneto, Chipping Barnet, High Barnet, La Barnette, London Borough of Barnet
+Barnet, BNE, Barneto, Chipping Barnet, High Barnet, La Barnette, London Borough of Barnet
 Barnetby le Wold, Barnetby
 Barney
 Barnham
@@ -1259,7 +1259,7 @@ Barnoldby le Beck
 Barnoldswick
 Barns Green
 Barnsbury
-Barnsley
+Barnsley, BNS
 Barnsole
 Barnstaple
 Barnston
@@ -1461,7 +1461,7 @@ Beddau
 Beddgelert
 Beddingham
 Bedfield
-Bedford
+Bedford, BDF
 Bedgebury Cross
 Bedham
 Bedingfield, Beddingfield
@@ -1907,7 +1907,7 @@ Blackness
 Blacknest
 Blacknoll
 Blacko
-Blackpool
+Blackpool, BPL
 Blackridge
 Blackrock
 Blackrod
@@ -2206,7 +2206,7 @@ Boundstone
 Bourn
 Bourne
 Bourne End
-Bournemouth
+Bournemouth, BMH
 Bournheath
 Bournmoor
 Bournville
@@ -2298,7 +2298,7 @@ Bradenham
 Bradfield
 Bradfield Heath
 Bradfield St George
-Bradford, Bradford on Tone
+Bradford, BRD, Bradford on Tone
 Bradford Abbas
 Bradford Leigh
 Bradford Peverell
@@ -2650,7 +2650,7 @@ Brome Street
 Bromeswell
 Bromfield
 Bromham
-Bromley, London Borough of Bromley
+Bromley, BRY, London Borough of Bromley
 Bromley Cross
 Bromley Green
 Bromlow
@@ -3300,7 +3300,7 @@ Carden
 Cardenden
 Cardeston
 Cardhu
-Cardiff, City and County of Cardiff
+Cardiff, CRF, City and County of Cardiff
 Cardigan
 Cardington
 Cardinham, Cardingham
@@ -3746,7 +3746,7 @@ Chertsey
 Cheselbourne
 Chesham
 Chesham Bois
-Cheshire West and Chester, Cheshire
+Cheshire West and Chester, CHW, Cheshire
 Cheshunt
 Chesil, Chesilton, Chiswell
 Cheslyn Hay
@@ -3885,7 +3885,7 @@ Christmas Common
 Christon
 Christon Bank
 Christow
-Christs Hospital
+Christs Hospital, CHH
 Chryston
 Chudleigh
 Chudleigh Knighton
@@ -3944,8 +3944,8 @@ Cilycwm
 Cinderford
 Cippenham
 Cirencester, Cicester
-City of London, The City
-City of Westminster, Westminster
+City of London, LND, The City
+City of Westminster, WSM, Westminster
 Clabby
 Clabhach
 Clachaig
@@ -4389,7 +4389,7 @@ Constable Burton
 Constantine, Constatine
 Constantine Bay
 Contin
-Conwy, Aberconway, Conway, Conwy County Borough, County Borough of Conwy
+Conwy, Aberconway, CWY, Conway, Conwy County Borough, County Borough of Conwy
 Conyer
 Conyer's Green
 Cookbury
@@ -4569,7 +4569,7 @@ Coven Heath
 Coveney
 Covenham
 Covenham St Bartholomew
-Coventry
+Coventry, COV
 Coverack
 Coverham
 Covington
@@ -4920,7 +4920,7 @@ Croxton
 Croxton Kerrial, Croxton Keyrial
 Croy
 Croyde
-Croydon, Croydon Grants, London Borough of Croydon
+Croydon, CRY, Croydon Grants, London Borough of Croydon
 Cruckton
 Cruden Bay
 Crudgington, Crudington
@@ -5159,7 +5159,7 @@ Darley Bridge
 Darley Dale
 Darley Green
 Darlingscott
-Darlington
+Darlington, DAL
 Darlton
 Darnick
 Darowen
@@ -5264,7 +5264,7 @@ Deopham Green
 Depden
 Deppers Bridge
 Deptford
-Derby
+Derby, DER
 Deri
 Derraid
 Derril
@@ -5409,7 +5409,7 @@ Donaghadee
 Donaghcloney
 Donaghey
 Donaghmore
-Doncaster
+Doncaster, DNC
 Donhead St Andrew, Donhead
 Donhead St Mary
 Donibristle
@@ -5595,7 +5595,7 @@ Duddington
 Duddleswell
 Duddo
 Duddon, Duddon Furnace
-Dudley
+Dudley, DUD
 Dudley Hill
 Duffield
 Duffryn
@@ -5771,7 +5771,7 @@ Eaglesfield, Eglwys
 Eaglesham
 Eakring
 Ealand
-Ealing, London Borough of Ealing
+Ealing, EAL, London Borough of Ealing
 Ealing Broadway
 Eamont Bridge
 Earby
@@ -6461,7 +6461,7 @@ Fala Dam
 Faldingworth
 Falfield
 Falkenham
-Falkirk
+Falkirk, FAL
 Falkland
 Fallin
 Fallings Park
@@ -7171,7 +7171,7 @@ Gatehouse of Fleet, Gatehouse
 Gateley
 Gatenby
 Gatesgill
-Gateshead, Gateshead District, Gateshead-on-Tyne, Metropolitan Borough of Gateshead
+Gateshead, GAT, Gateshead District, Gateshead-on-Tyne, Metropolitan Borough of Gateshead
 Gateside
 Gatley
 Gatton
@@ -7943,7 +7943,7 @@ Gwaenysgor
 Gwalchmai
 Gwaun-Cae-Gurwen
 Gwaynynog, Gwaenynog
-Gwbert, Gwbert-on-the-Sea
+Gwbert, Gwbert-on-Sea
 Gweek
 Gwehelog Common
 Gwenddwr
@@ -7975,7 +7975,7 @@ Hackington
 Hackleton
 Hackman's Gate
 Hackness
-Hackney, London Borough of Hackney
+Hackney, HCK, London Borough of Hackney
 Hackthorn
 Hackthorpe
 Haconby
@@ -8238,7 +8238,7 @@ Harrogate
 Harrogate Hill
 Harrold
 Harrop Fold
-Harrow, London Borough of Harrow
+Harrow, HRW, London Borough of Harrow
 Harrow Green
 Harrow Weald, Harrow Wealt
 Harrow on the Hill
@@ -8258,7 +8258,7 @@ Harthill
 Hartington
 Hartland
 Hartlebury
-Hartlepool
+Hartlepool, HPL
 Hartley
 Hartley Row
 Hartley Wintney
@@ -8730,7 +8730,7 @@ Higher Wincham
 Higher heath
 Highfield
 Highgate
-Highland, Highland Region, Highlands
+Highland, HLD, Highland Region, Highlands
 Highlane
 Highleigh
 Highley
@@ -8774,7 +8774,7 @@ Hillfarrance
 Hillfields
 Hillfoot, Hillfoots
 Hillhead
-Hillingdon, London Borough of Hillingdon
+Hillingdon, HIL, London Borough of Hillingdon
 Hillington
 Hills End
 Hillsborough
@@ -9103,7 +9103,7 @@ Hound
 Hound Green
 Houndscroft
 Houndwood
-Hounslow, London Borough of Hounslow
+Hounslow, HNS, London Borough of Hounslow
 Housetter
 Houston
 Houton
@@ -10208,7 +10208,7 @@ Knowle
 Knowle Green
 Knowlegate
 Knowlton
-Knowsley, Metropolitan Borough of Knowsley
+Knowsley, KWL, Metropolitan Borough of Knowsley
 Knowstone
 Knox
 Knucklas
@@ -10914,7 +10914,7 @@ Littlewick Green
 Littleworth
 Litton
 Litton Cheney
-Liverpool
+Liverpool, LIV
 Liversedge
 Liverton
 Liverton Mines
@@ -11681,7 +11681,7 @@ Lustleigh
 Luston
 Luthermuir
 Luthrie
-Luton
+Luton, LUT
 Lutterworth
 Lutton
 Luxborough
@@ -11843,7 +11843,7 @@ Manafon
 Manaton
 Manby
 Mancetter
-Manchester
+Manchester, MAN
 Mancot Royal
 Manea
 Manesty
@@ -12200,7 +12200,7 @@ Merthyr Mawr
 Merthyr Tewdrig
 Merthyr Tydfil, Mertyr Tydfil
 Merthyr Vale
-Merton, London Borough of Merton
+Merton, London Borough of Merton, MRT
 Merton Park
 Meshaw
 Messing
@@ -12267,7 +12267,7 @@ Middlecliffe
 Middleham
 Middlehill
 Middleport
-Middlesbrough, Middlebrough, Middlesborough
+Middlesbrough, MDB, Middlebrough, Middlesborough
 Middlesmoor
 Middlestown
 Middleton
@@ -12378,7 +12378,7 @@ Milton Damerel
 Milton Ernest
 Milton Green
 Milton Hill
-Milton Keynes
+Milton Keynes, MIK, MK
 Milton Keynes Village
 Milton Lilbourne
 Milton Malsor
@@ -13006,7 +13006,7 @@ Newbyth
 Newcastle
 Newcastle Emlyn, Castell Newydd Emlyn
 Newcastle under Lyme
-Newcastle upon Tyne, Newcastle-on-Tyne
+Newcastle upon Tyne, NET, Newcastle-on-Tyne
 Newcastleton, Copshaw Holm
 Newchapel
 Newchurch
@@ -13020,7 +13020,7 @@ Newfield
 Newgale
 Newgate Street
 Newhall
-Newham, London Borough of Newham
+Newham, London Borough of Newham, NWM
 Newham Hall
 Newhaven
 Newhills
@@ -13044,7 +13044,7 @@ Newmillerdam
 Newmills
 Newmilns
 Newnham, Newnham on Severn
-Newport, City of Newport, County Borough of Newport
+Newport, City of Newport, County Borough of Newport, NWP
 Newport Pagnell
 Newport Trench
 Newport-on-Tay
@@ -13236,7 +13236,7 @@ North Killingholme, Killingholme
 North Kilvington
 North Kilworth, Kilworth
 North Kyme
-North Lanarkshire
+North Lanarkshire, NLK
 North Leigh
 North Leverton
 North Littleton
@@ -13293,7 +13293,7 @@ North Witham
 North Woolwich
 North Wootton
 North Wraxall
-North Yorkshire, County of North Yorkshire, North Yorks
+North Yorkshire, County of North Yorkshire, NYK, North Yorks
 Northacre
 Northall
 Northallerton
@@ -13361,7 +13361,7 @@ Nosterfield
 Notgrove
 Nottage
 Notting Hill Gate
-Nottingham, Nottigham
+Nottingham, NGM, Nottigham
 Notton
 Nounsley
 Noutard's Green
@@ -14073,7 +14073,7 @@ Pershore
 Pertenhall
 Perth
 Perthy
-Peterborough
+Peterborough, PTE
 Peterchurch
 Peterculter
 Peterhead
@@ -14250,7 +14250,7 @@ Plungar
 Pluscarden
 Plush
 Plwmp
-Plymouth
+Plymouth, PLY
 Plympton, Plympton Maurice, Plympton Saint Mary, Plympton Saint Maurice, Plymton
 Plympton Erle, Plympton Earle, Plympton Maurice, Plympton Saint Maurice, Plymton Earle
 Plymstock
@@ -14356,7 +14356,7 @@ Pool, Pool-in-Wharfedale
 Pool Bank
 Pool Quay
 Pool of Muckhart
-Poole
+Poole, POL
 Poole Keynes
 Poolewe
 Pooley Bridge
@@ -14457,7 +14457,7 @@ Portskerra, Portskerry
 Portskewett, Portskewet
 Portslade
 Portslade-by-Sea
-Portsmouth
+Portsmouth, POR
 Portsoy
 Portstewart
 Portswood
@@ -14817,7 +14817,7 @@ Raymond's Hill
 Rayne
 Reach
 Read
-Reading
+Reading, RDG
 Ready Token
 Rearquhar
 Rearsby
@@ -14835,7 +14835,7 @@ Red Wharf Bay
 Redberth
 Redbourn
 Redbourne
-Redbridge, London Borough of Redbridge
+Redbridge, London Borough of Redbridge, RDB
 Redbrook
 Redburn
 Redcar
@@ -15190,7 +15190,7 @@ Rotherby
 Rotherfield
 Rotherfield Greys
 Rotherfield Peppard
-Rotherham, Rotherdam
+Rotherham, ROT, Rotherdam
 Rothersthorpe
 Rotherwick
 Rothes
@@ -15397,7 +15397,7 @@ Saint Clears, Sanclêr
 Saint Cleer
 Saint Clement
 Saint Clether
-Saint Columb Major, St. Columb
+Saint Columb Major, St Columb
 Saint Columb Minor
 Saint Combs, Coombs
 Saint Cross
@@ -15576,7 +15576,7 @@ Sandsend
 Sandside
 Sandtoft
 Sandway
-Sandwell
+Sandwell, SAW
 Sandwich
 Sandwick, Sanndabhaig
 Sandwith
@@ -15785,7 +15785,7 @@ Seend
 Seend Cleeve
 Seer Green
 Seething
-Sefton, Metropolitan Borough of Sefton
+Sefton, Metropolitan Borough of Sefton, SFT
 Segensworth
 Seghill
 Seifton
@@ -15909,7 +15909,7 @@ Sheerness
 Sheerwater
 Sheet
 Sheet's Heath
-Sheffield
+Sheffield, SHF
 Shefford
 Shefford Woodlands
 Sheigra
@@ -16266,7 +16266,7 @@ Slitting Mill
 Slockavullin
 Sloley
 Sloothby
-Slough, Borough of Slough
+Slough, Borough of Slough, SLG
 Slyne
 Smailholm
 Small Dole
@@ -16325,7 +16325,7 @@ Soberton
 Soham
 Soldridge
 Sole Street
-Solihull
+Solihull, SOL
 Sollas
 Sollom
 Solomon Tump
@@ -16428,7 +16428,7 @@ South Kilvington
 South Kilworth
 South Kirkby
 South Kyme
-South Lanarkshire
+South Lanarkshire, SLK
 South Lancing
 South Leigh
 South Leverton
@@ -16489,7 +16489,7 @@ South Zeal
 South-end
 Southall
 Southam
-Southampton
+Southampton, STH
 Southborough
 Southbourne, Southbourne on Sea
 Southburgh
@@ -16498,7 +16498,7 @@ Southchurch Village
 Southdean
 Southease
 Southend
-Southend-on-Sea
+Southend-on-Sea, SOS
 Southerndown
 Southerness
 Southery
@@ -16641,7 +16641,7 @@ St. Buryan
 St. Day
 St. Dogmaels, Saint Dogmells, Saint Dogmels
 St. Georges
-St. Helens
+St. Helens, SHN
 St. Helens Ryde
 St. John's
 St. Michael Penkivel
@@ -16861,7 +16861,7 @@ Stilton
 Stinchcombe
 Stinsford
 Stiperstones
-Stirling, County of Stirling, Stirling County, Stirlingshire
+Stirling, County of Stirling, STG, Stirling County, Stirlingshire
 Stirling Village
 Stisted
 Stithians
@@ -16898,7 +16898,7 @@ Stockton Brook
 Stockton Heath
 Stockton on Teme
 Stockton on the Forest
-Stockton-on-Tees
+Stockton-on-Tees, STT
 Stodmarsh
 Stoer
 Stoford
@@ -16946,7 +16946,7 @@ Stoke by Clare
 Stoke d'Abernon
 Stoke upon Tern
 Stoke-by-Nayland
-Stoke-on-Trent, Stoke-upon-Trent
+Stoke-on-Trent, STE, Stoke-upon-Trent
 Stoke-sub-Hamdon
 Stokeham
 Stokeinteignhead
@@ -17180,7 +17180,7 @@ Summit
 Sunadale
 Sunbury Common, Upper Sunbury
 Sunbury-on-Thames, Sunbury
-Sunderland
+Sunderland, SND
 Sunderland Bridge
 Sundon Park
 Sundridge
@@ -17202,7 +17202,7 @@ Sutcombe
 Suton Street
 Sutterton
 Sutterton Dowdyke
-Sutton, Great Sutton, London Borough of Sutton
+Sutton, Great Sutton, London Borough of Sutton, STN
 Sutton Bassett
 Sutton Benger
 Sutton Bingham
@@ -18035,7 +18035,7 @@ Towan Cross
 Toward
 Towcester
 Towednack
-Tower Hamlets, London Borough of Tower Hamlets
+Tower Hamlets, London Borough of Tower Hamlets, TWH
 Tower Hill
 Tower Wood
 Tower of London
@@ -18696,7 +18696,7 @@ Walpole Highway
 Walpole Marsh
 Walpole Saint Andrew
 Walpole Saint Peter
-Walsall, Wallsall
+Walsall, WLL, Wallsall
 Walsall Wood
 Walsden
 Walsgrave on Sowe, Walsgrave
@@ -18730,7 +18730,7 @@ Walworth
 Walwyn's Castle
 Wambrook
 Wanborough
-Wandsworth, London Borough of Wandsworth
+Wandsworth, London Borough of Wandsworth, WND
 Wangford
 Wanlip
 Wanlockhead
@@ -18797,7 +18797,7 @@ Warren Row
 Warren Street
 Warrenby
 Warrenpoint
-Warrington
+Warrington, WRT
 Warsash
 Warslow
 Warsop
@@ -19738,7 +19738,7 @@ Wixoe
 Woburn
 Woburn Sands
 Woking
-Wokingham
+Wokingham, WOK
 Wold Newton
 Woldingham
 Wolf's Castle
@@ -19753,7 +19753,7 @@ Wollerton
 Wolsingham
 Wolstanton
 Wolston
-Wolverhampton
+Wolverhampton, WLV
 Wolverley
 Wolverton
 Wolvesnewton
@@ -19977,7 +19977,7 @@ Wressell
 Wressle
 Wrestlingworth
 Wretton
-Wrexham, County Borough of Wrexham, Wrexham County Borough, Wrexham Maelor
+Wrexham, County Borough of Wrexham, WRX, Wrexham County Borough, Wrexham Maelor
 Wrightington Bar
 Wrinehill
 Wrington

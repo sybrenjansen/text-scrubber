@@ -107,7 +107,7 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None) -> L
 
     # Remove duplicates
     candidates = list(set(candidates))
-    return sorted(candidates, key=lambda x: x[-1], reverse=True)
+    return sorted(candidates, key=lambda x: (-x[2], x[0], x[1]))
 
 
 def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[Tuple[str, str, float]]:
@@ -163,9 +163,9 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
 
-    # remove duplicates such as San Jose(US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0)
+    # Remove duplicates such as San Jose(US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0)
     candidates = list(set(candidates))
-    return sorted(candidates, key=lambda x: x[-1], reverse=True)
+    return sorted(candidates, key=lambda x: (-x[2], x[0], x[1]))
 
 
 # Some common token replacements

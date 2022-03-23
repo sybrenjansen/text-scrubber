@@ -1475,7 +1475,7 @@ Burg
 Burgau, 布尔高
 Burgauberg-Neudauberg
 Burgberg
-Burgenland, 布尔根兰州
+Burgenland, Bgld, 布尔根兰州
 Burger Bach
 Burgerfeld
 Burgertal
@@ -1816,7 +1816,7 @@ Donnerkogel
 Donnersbach
 Donnersbachwald
 Donnerschlag
-Donnerskirchen, Fertőfehéregyháza, Доннерскірхен, 多内尔斯基兴
+Donnerskirchen, Fertőfehéregyháza, Доннерскирхен, 多内尔斯基兴
 Donnerstein
 Donnerswand
 Doren
@@ -1870,7 +1870,7 @@ Drau
 Drauchen Bach
 Draugstein
 Drautal
-Drava River, Drau Fluss, Drave, Dráva
+Drava River, Drau Fluss, Drava, Drave
 Draxlerkogel, Draxler Kogel
 Draßburg
 Draßmarkt
@@ -1944,7 +1944,7 @@ Döbring
 Döllach im Mölltal, Döllach, Döllach-Sagritz, Sagritz
 Döllachbach
 Döllingkogel
-Dölsach, Дёльзах, 德尔萨赫
+Dölsach, Дельзах, 德尔萨赫
 Dörfelstein
 Dörflabach
 Dörfler Höhe
@@ -2839,7 +2839,7 @@ Fraueneggwald
 Frauenhaupt
 Frauenholz
 Frauenkar
-Frauenkirchen, Boldogasszony, Фрауэнкирхен, 弗劳恩基兴
+Frauenkirchen, Boldogasszony, Фрауенкірхен, 弗劳恩基兴
 Frauenkogel
 Frauenkopf
 Frauenlacke, Frauen Lacke, Frauenlacken
@@ -3677,7 +3677,7 @@ Gmoosbach
 Gmoose
 Gmunden
 Gmundnerberg
-Gmünd, Гмюнд, 格明德
+Gmünd, Ґмюнд, 格明德
 Gmünd in Kärnten
 Gmünder Stadtwald
 Gnadendorf
@@ -4098,7 +4098,7 @@ Grosser Traunstein
 Grosser Vernagtferner, Vernagt Ferner
 Grosser Wildkamm, Wildkamm
 Grosser Woisgenkopf, Grosser Woiskenkopf
-Grosser Zellerhut, Hinter Zellerhut, Zellerhüt
+Grosser Zellerhut, Hinter Zellerhut, Zellerhut
 Grosses Arltal, Grosses Arl Thal
 Grosses Hundshorn
 Grosses Höllental
@@ -4685,7 +4685,7 @@ Güntle
 Güntlespitze
 Güotle
 Gürtlerspitz
-Güssing, Németújvár, Гюссінг, 居兴
+Güssing, Németújvár, Гюссинг, 居兴
 Gütenbach
 Gütenbachtor
 Güttenbach
@@ -7168,7 +7168,7 @@ Kirschenbach
 Kirschenholz
 Kittenbach
 Kittenberg
-Kittsee, Köpcsény, Киттзе, 基策
+Kittsee, Köpcsény, Кіттзе, 基策
 Kitzberg
 Kitzbühel
 Kitzbüheler Alpen, Kitzbühel Alps, Kitzbühler Alpen
@@ -7935,7 +7935,7 @@ Krotten-Spitze
 Krottenbach
 Krottendorf
 Krottendorf-Gaisfeld
-Krottenkopf, Gr. Krottenkopf, Grosskrottenkopf, Großer Krottenkopf
+Krottenkopf, Gr. Krottenkopf, Grosser Krottenkopf, Grosskrottenkopf
 Krottenspitzen
 Kruckenbrettl
 Kruckenspitze, Kruckenspitz
@@ -11438,7 +11438,7 @@ Rabnitzbach
 Rabnitzberg
 Rachau
 Racherin
-Radelj, Radel, Radel Pass, Radlpass
+Radelj, Radel, Radel Pass, Radlpaß
 Radenthein
 Radersdorfbach
 Radfeld
@@ -11772,7 +11772,7 @@ Rennsteineben
 Rennweg am Katschberg
 Rennwiesen
 Renzelscharte
-Republic of Austria, Austria, Ausztria, Republik Österreich, Österreich, Австрия, 奥地利
+Republic of Austria, Austria, Ausztria, Republik Österreich, Österreich, Австрія, 奥地利
 Reschenhorn
 Reschenkogel
 Rescheskogel
@@ -12257,7 +12257,7 @@ Rußbach am Paß Gschütt
 Rußbachfeld
 Rußgraben
 Rädeln
-Rätikon, Rhaetikon, Rhätikon Mountains, Ретікон, 雷蒂孔山
+Rätikon, Rhaetikon, Rhätikon Mountains, Ретикон, 雷蒂孔山
 Röbispitzen
 Röcker
 Röhrenbach, Винкль, Рёренбах, 勒伦巴赫
@@ -12479,7 +12479,7 @@ Sankt Ilgen
 Sankt Ilgner Tal, Ilgner Tal
 Sankt Jakob im Rosental, Sankt Jakob
 Sankt Jakob im Walde
-Sankt Jakob in Defereggen, Sankt Jakob, St. Jakob im Defereggental, Санкт-Якоб-ин-Деферегген, 德弗雷根谷地圣雅各布
+Sankt Jakob in Defereggen, Sankt Jakob, St. Jakob im Defereggental, Санкт-Якоб-ін-Деферегген, 德弗雷根谷地圣雅各布
 Sankt Johann am Tauern
 Sankt Johann am Walde
 Sankt Johann am Wimberg, Санкт-Йохан-на-Вимберге, 温贝格山麓圣约翰
@@ -12847,7 +12847,7 @@ Schauflerteich
 Schaunberg Grundalm
 Schefberg
 Scheffau am Tennengebirge
-Scheffau am Wilden Kaiser, Шеффау-ам-Вільден-Кайзер, 凯撒山麓舍福
+Scheffau am Wilden Kaiser, Шеффау-ам-Вильден-Кайзер, 凯撒山麓舍福
 Scheffauer
 Scheibbs
 Scheibe
@@ -13059,7 +13059,7 @@ Schliererspitze
 Schlierewand, Schlirewand
 Schling
 Schlins
-Schlitters, Шліттерс, 施利特尔斯
+Schlitters, Шлиттерс, 施利特尔斯
 Schlittkufengraben
 Schlitzenalm
 Schlossberg
@@ -13867,7 +13867,7 @@ Silvretta Alps, Silvretta, Silvrettagruppe
 Silvretta Gruppe, Silvretta
 Silvretta Stausee
 Silvrettahorn, Silvretta Hütte
-Silz, Зільц, 锡尔茨
+Silz, Зильц, 锡尔茨
 Simandlalm
 Simmel
 Simmering
@@ -15803,7 +15803,7 @@ Villgrater Berge
 Villgrater Törl
 Villgraterjoch
 Villmannsdorfer Bach
-Vils, Фильс, 菲尔斯
+Vils, Фільс, 菲尔斯
 Vilsalpsee
 Vilser Berg
 Vilser Jöchl
@@ -15985,7 +15985,7 @@ Vöcklamarkt
 Vögerlalm
 Völkermarkt
 Völkermarkter Stausee
-Völs, Фельс, 弗尔斯
+Völs, Фёльс, 弗尔斯
 Vösendorf
 Vösendorfer Graben
 Vöttlalm
@@ -16649,7 +16649,7 @@ Wildschönauer Ache
 Wildsee
 Wildseeloder
 Wildsender, Wilde Sender, Wilde Sender Spitze
-Wildspitze, Wild Spitz, Вільдшпітце
+Wildspitze, Wild Spitz, Вильдшпитце
 Wildtorkopf, Schloßkopf, Wildthor-Kogel, Wildtor-Kogel
 Wildwiesen
 Wilfersdorf

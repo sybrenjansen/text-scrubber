@@ -3,7 +3,7 @@
 'Arab Ibn 'Ubayd
 'Arab al 'Abīd, 'Arab el Abīd
 'Arab al Jahālīn, Arab el Iahalin, Arab el Jahālīn
-'Arab al Ka'ābinah, 'Arab el Ka'ābina
+'Arab al Ka'ābinah, 'Arab el Kaābina
 'Arab al Qilā'ī
 'Arab al Ḩutaymāt, 'Arab al Hataymāt, 'Arab el Hateimāt
 'Arab ar Rashā'idah, 'Arab ar Rashayida, 'Araber Rashāyiḍa
@@ -128,7 +128,7 @@
 'Ayn Umm 'Umayr, 'Ain Um 'Umeir
 'Ayn Umm Ibrīq, 'Ain Um 'Ibrīq, 'Ayn Umm 'Ibrīyah
 'Ayn Umm Qaţqūţ, 'Ain Um Qaṭqut
-'Ayn Umm Sulaymān, 'Ain Um Suleiman
+'Ayn Umm Sulaymān, 'Ain Um Suleimān
 'Ayn Umm Zaytūnah, 'Ain Um Zeitūna
 'Ayn Umm Zīq, 'Ain Um Ziq
 'Ayn Umm ad Daraj, 'Ain Um ed Daraj, 'Ain ed Daraj
@@ -278,7 +278,7 @@
 'Ayn al Ḩarāmīyah, 'Ain el Ḥarāmiya
 'Ayn al Ḩasakah, 'Ain Haska, 'Ain Ḥasaka
 'Ayn al Ḩawīyah, 'Ain el Hawiya
-'Ayn al Ḩawḑ, 'Ain el Ḥauḍ
+'Ayn al Ḩawḑ, 'Ain el Ḥaud
 'Ayn al Ḩayyah, 'Ain el Ḥaiya
 'Ayn al Ḩaşá, 'Ain el Ḥiṣa
 'Ayn al Ḩubaylah, 'Ain Ḥubeila
@@ -321,7 +321,7 @@
 'Ayn ash Shūnah, 'Ain esh Shūna
 'Ayn at Taḩtā
 'Ayn at Turābah, 'Ein at Turaba
-'Ayn at Tīnah, 'Ain eṭ Ṭīna
+'Ayn at Tīnah, 'Ain et Tina
 'Ayn az Za'nūnah, 'Ain Za'nūnī, 'Ain ez Za'nūna
 'Ayn az Zabbūd
 'Ayn az Zama'ah, 'Ain ez Zam'ah
@@ -665,7 +665,7 @@ Bi'r al Qaws, Bīr el Qaus
 Bi'r al Qilā'
 Bi'r al Qindīl, Bīr el Qandil, Bīr el Qundeil
 Bi'r al Qiţ'ah, Bīr el Qata'a, Bīr el Qaṭ'a
-Bi'r al Qiţţ, Bīr el Qaṭṭ
+Bi'r al Qiţţ, Bīr el Qatt
 Bi'r al Qiţţah, Bīr Qutta, Bīr el Qutla
 Bi'r al Quşayyir, Bir Qusaiyir, Bīr Quseiyir
 Bi'r al Wa'rah, Bīr el Wa'ra, Bīr el Wa'rat
@@ -936,7 +936,7 @@ Maţ'am wa Muntazah al Istirāḩah, Al Istiraha Park and Restaurant, مطعم �
 Maţ'am wa Muntazah al Khāzmī, Al Khazmi Park and Restaurant, مطعم ومنتزه الخازمي
 Minţār al Qubbah, Munţar al Qubbah, Munṭār el Qubba
 Mount Scopus
-Mount Zion, An Nabī Dāwūd, An Nasbī Dāwūd, Har Ẕiyyon, Jabal Şahyūn, Mount Moriya, Sion, Zion
+Mount Zion, An Nasbī Dāwūd, Har Ẕiyyon, Jabal Şahyūn, Mount Moriya, Nabi Dāwūd, Sion, Zion
 Mount of Olives, Jabal az Zaytūn, Mount Olivet, Olivet, הר הזיתים, جبل الزيتون
 Mukhras Dallāl, Muraysh Dalāl, Mureish Dalāl
 Muntazah Baladīyat Rām Allah, Municipal Park, منتزه بلدية رام الله
@@ -965,7 +965,7 @@ Naẖal Silqa, נחל סלקה
 Naẖal Tayyaẖ, נחל טיח
 North Gaza, محافظة شمال غزة
 Nuqb al Mīdān, Naqb al Mīdān, Naqb el Mīdān
-Palestine, Palestinian Territory, Palestinian Territory (the Occupied), the Occupied Palestinian Territory, פלסטין
+Palestine, Palestinian Territory, Palestinian Territory Occupied, the Occupied Palestinian Territory, פלסטין
 Qalqilya, Qalqilyah, קלקיליה, قلقيلية
 Qanāt Faşā'il, Qanāt Faṣāyil
 Qanāt Fur'ūn, Qanāt Far'ūn
@@ -1433,7 +1433,7 @@ Wādī Sittī Maryam, Valley of Kedron, Valley of Kidron, Wadi Jahannam, Wadi Si
 Wādī Suhayl, Wādī Suheil
 Wādī Sulaymān, Wādī Suleimān
 Wādī Sumūm, Wādī Sammūn, Wādī Samūn
-Wādī Sunaysil, Wadi Suneisil, Wādī Suneisila
+Wādī Sunaysil, Wādī Suneisil, Wādī Suneisila
 Wādī Sādat al Hirmil, Wādī 'Ushsh el Ghurābd, Wādī Sādat el Hirmil, Wādī Sādat el Hurmil
 Wādī Sāmiyah, Samnīya, Wādi Sāmye, Wādī Samnīyah, Wādī Sādmiya
 Wādī Sūsiyah, Wādī Susiyā, Wādī Sūsya
@@ -1443,7 +1443,7 @@ Wādī Umm Buţmah, Wadi Umm Butma, Wādī Um Buṭma
 Wādī Umm Darrāj, Wādī Um Darrāj
 Wādī Umm Dayrabah, Wadi Umm Deiraba, Wādī Um Dureiba, Wādī Umm Duraybah
 Wādī Umm Jurfān, Wādī Um Jurfān
-Wādī Umm Kharrūbah, Wadi Umm Kharrūba, Wadi Umm el Kharrūba, Wādī Um Kharrūba, Wādī Umm al Kharrūbah
+Wādī Umm Kharrūbah, Wadi Umm el Kharrūba, Wādī Um Kharrūba, Wādī Umm Kharrūba, Wādī Umm al Kharrūbah
 Wādī Umm Mahwá, Wādī Um Mihwa, Wādī Umm Mihwah, Wādī Umm el Hawa
 Wādī Umm Qal'ah, Wādī Um Qal'a
 Wādī Umm Qaşşah, Wādī Um Qaṣṣa, Wādī Umm Qaşṣa
@@ -1860,7 +1860,7 @@ Wādī Ḩarsīs
 Wādī Ḩasāsah, Wādī Ḥaṣāṣa
 Wādī Ḩujr, Wādī Ḩuir
 Wādī Ḩulwah, Wādī Ḥilwa
-Wādī Ḩusayn, Wādī Ḥusein
+Wādī Ḩusayn, Wādī Husein
 Wādī Ḩāmid, Wādī Ḥāmed
 Zawr al Jā'ūnī
 Zaytūn al Karm

@@ -25,7 +25,7 @@ Altan-Ovoo, Urdtamir
 Altanbulag, Altan Bulak, Alton Brok, Altyn-Bulak, Bayan Hayrhan Suma, Bayan Khairkhan, Bayan Khairkhan Sume, Bayan hayrhan sumu, Bayan khayran somon, Bayan-Khayrkhan, Bayanhayrhan, Ch'ia-k'o-t'u, Kiachta, Kyakhta, Mai-mai-ch'eng, Maymachen, Maymaychen, Алтанбулаг Сум
 Altanteel, Altan Teeli Somon, Altan Teeli Suma, Altan Teeli Sumu, Altan Teli Sume, Altan teeli, Altan-Tel, Altan-Teli, Arutan teri, Dzereg
 Altatayn Dugang, Altatuin dugang
-Altay, Altai, Altay Sum, Bayan Uula, Bayan-Ula, Bayan-Ula somon, Bayan-Ula sumu, Bayantes
+Altay, Altai, Bayan Uula, Bayan-Ula, Bayan-Ula somon, Bayan-Ula sumu, Bayantes, Алтай Сум
 Altraga, Bayandzürh, Bayandzürkh
 Amagalangiin Jisa Hiid, Amogolangyin chzhisa khid, Amogolangöin chzhisa khid, Amogolangöyn chzhisa khid
 Amagalanta Hiid, Amogalantu-Khid, Amogolangtu Khiit
@@ -42,7 +42,7 @@ Ara Teeliin Dugang
 Ara Unarshi Dugang, Ara Ünürchi Dugan, Ara-Unurshi-dugang
 Araiin Hüryee, Arain Khure
 Araliin Dugang, Aralyin dugang, Aralyyn dugang
-Argalant, Аргалант Сум
+Argalant, Argalant Sum
 Argalinta Suma, Argalintu, Argalintu Somon, Argalintu sumu
 Argalintayn Örtöö, Argalintiin Urto, Argalintiin yurt
 Argatay, Bain-Dzhargalanta-somon, Bain-Dzhirgalang-sumu, Bain-chzhargalanta Somon, Bayan Jirgalanta Suma, Bayan-jirugaran, Bayanjargalan, Bayn Jargalanta Somon
@@ -103,10 +103,10 @@ Baruun Iret Hiid, Barun iret khid
 Baruun Süme, Barun Sume
 Baruun Tsorgo, Barun tsorga, Barun-Norga
 Baruun-Hüree
-Baruun-Urt, Baruun Urta, Burunurt, Dzhapkhalanta-sharga, Dzhibkhalantu-Sharga, Jibhalanta Sharga Suma, Jibholantu Sharga sumu, Jibhulantu sharga, Sharga Sume, Баруун-Урт Сум
+Baruun-Urt, Baruun Urta, Baruun-Urt Sum, Burunurt, Dzhapkhalanta-sharga, Dzhibkhalantu-Sharga, Jibhalanta Sharga Suma, Jibholantu Sharga sumu, Jibhulantu sharga, Sharga Sume
 Baruunharaa, Bayan Goliin Oros, Bayan golyin oros, Bayan golyyn oros, Haraagiin Den, Stanok Kharagyyn-Dyan
 Baruunsuu, Tsetsen Sume, Tsetsey, Tsetsey sumu, Tsogt-Tsetsey, Tsogto Tsetsey Suma, Tsogttsetsiy, Tsogttsetsiï, Tsogtu Tsetsey Somon, Tsogtu Tsetsi, Tsogtu-Tsetsey
-Baruunturuun, Baruunturuun District, Baruunturuun Sum, Turin Golin Sume, Turun, Turun somon, Turun-Gol, Turun-Gol-Somon, Türüün Suma, Türüün gol, Türüün gol sumu
+Baruunturuun, Baruunturuun District, Turin Golin Sume, Turun, Turun somon, Turun-Gol, Turun-Gol-Somon, Türüün Suma, Türüün gol, Türüün gol sumu, Баруунтуруун сум
 Bat-Öldziyt, Dzaamar
 Bata Öldzeyte Hural, Bata Öldzeyte, Batu Ul'tszeytu, Batu ul'tszeytu-khural
 Bataiin Hiid, Bataiin Hiyd, Batuin Khid
@@ -117,7 +117,7 @@ Bayan, Baan Khuduk, Bayan Hudag, Bayan Somon, Bayan Ula Somon, Bayan Uula Suma, 
 Bayan Baraatayn Hiid, Bayan Baratuin Khid, Bayan baratuyn khid
 Bayan Belhi, Bain Belk, Bain Belki, Bayan Belki, Urto Bain-Bel'ki
 Bayan Bulag, Bayan Bulak, Gori-Bayan Bulag
-Bayan Bulagiin Hural, Bayan Bulagyyn Khural, Bayan Bulagöin Khural, Bayan bulagyin khural, Bayan bulagöyn Khural
+Bayan Bulagiin Hural, Bayan Bulagoin Khural, Bayan bulagyin khural, Bayan bulagyyn khural, Bayan bulagöyn Khural
 Bayan Bulagiin Suurin, Bayan Bulagöyn Surin, Bayan bulagyin surin-khid, Bayan-Bulag-Hural, Bayan-bulagyyn-surin
 Bayan Buuraliin Hüryee, Bayan Burahik Khure, Bayan Buraliik Khure, Bayan Buraliin Huryce, Bayan buraliin khure
 Bayan Delgerüülegchi Süme, Bain Delgerulegchi Sume
@@ -128,7 +128,7 @@ Bayan Dzürhe, Bain-tsurkhe, Bain-tszurkhe
 Bayan Dzürihe Suma, Bayan Tszurikhe Somon, Bayan dzurihe, Bayan dzurikhe sumu, Bayan-Dzurkhe
 Bayan Gol, Bayan Gol Camp, Stanok Bayan Gol
 Bayan Goliin Den, Stanok Bayan-Golyyn-Dyan
-Bayan Goliin Dugang, Bayan Goliyn-Dugan, Bayan golyyn dugang, Kumirnya Pandlin, Pandlin, Pandlin Shrine
+Bayan Goliin Dugang, Bayan Goliyn-Dugan, Bayan-golyyn dugang, Kumirnya Pandlin, Pandlin, Pandlin Shrine
 Bayan Hayrhan, Bain khayerkhen
 Bayan Hiid, Bain Khid, Boin-Khid
 Bayan Hoboriin Horshoo, Bainkobïru, Bayan Khoburin yurt, Bayan khoburin khorsho
@@ -161,7 +161,7 @@ Bayanbulag, Bayan Bulag Suma, Bayan Bulak, Bayan Bulak Somon, Bayan bulag sumu, 
 Bayanbürd
 Bayandelger, Bain-delger Somon, Bayan Delger Suma, Bayan Delger Sume, Bayan del'ger sumu, Bayan-Del'ger Somon, Bayandelger Sum, Bayanderigeri
 Bayangol, Bain-gol, Bayan Gol Suma, Bayan gol sumu, Bayan-gol somon, Bayangol Sume, Hara, Khara, Pa-yen-kuo-lo
-Bayanhongor, Dzaluuchuud, Youth City, Баянхонгор
+Bayanhongor, Bayankhongor, Dzaluuchuud, Youth City
 Bayanhoshuu, Bayanhushuu, Mingat Suma, Myangad
 Bayansayr, Baatsagaan, Tsagaan Gol Suma, Tsagan Gol, Tsagan gol Somon
 Bayant-Uhaa
@@ -225,7 +225,7 @@ Buduni, Budun, Büdüün, Pristan' Budun
 Buga, Dorvoljin
 Bugaiin Lama, Bugayinlama, Bugayn-lama
 Bugant, Yöröö Khoroo, Yörööhoroo
-Bugat, Bugata, Bugata Suma, Bugutu, Bugutu Somon, Bugutu Sumu, Hirgis, Hirgis Suma, Hirgis sumu, Hyargas, Khirgis, Khirgis somon, Khyargas, Kirgis Sume, Бугат Сум
+Bugat, Bugat Sum, Bugata, Bugata Suma, Bugutu, Bugutu Somon, Bugutu Sumu, Hirgis, Hirgis Suma, Hirgis sumu, Hyargas, Khirgis, Khirgis somon, Khyargas, Kirgis Sume
 Buha Dolon, Buhatoron, Bukha Dolon, Bukha dalon
 Buhaiin Dugang, Bukhain dugang, Bukhin Dugun
 Buhaiin Hüryee, Buhaiin-Hüree, Bukhain Khure
@@ -282,7 +282,7 @@ Büheley, Bukhuley
 Büheleyn Oros, Buhuleyn Oros, Bukhuleyn Oros
 Bülenii Hüryee, Buleni Khure
 Büreen-Nuur
-Büren, Büran, Бүрэн Сум
+Büren, Büran, Büren Sum
 Bürenhaan, Buren-khan, Burin khan Sume, Burin khan somon, Burin-khan, Bürenkhaan, Bürin Haan Suma, Bürin han, Bürin han sumu
 Bürenhayrhan, Buergenkhe, Bulagan, Bulagan Gol Suma, Bulagan Somon, Bulagan gol sumu, Bulagan-gol, Bulgan-Gol, Pu-erh-ken, T'u-ku-te-su-mu, Torgut Somon, Torgutin Khure
 Bürentogtok
@@ -293,7 +293,7 @@ Büridenii Dugang, Buriduni dugang
 Büridenii Hiid, Buriduin khid, Buriduyn Khid
 Büseiin Shüteen, Busyin-Shutun, Busyyn shutun, Busöyn Shutun
 Büüteriin Hural, Buterin Khural
-Chandmanĭ, Altanshiree, Chandmani District, Chandmanĭ Sum, Chindamani Ul'dzeytu sumu, Chindamani Öldzeyte Suma, Chindamani Öldzeytu, Chindimani ultszeitu somon, Yaruu, Чандмань, Чандмань Сум
+Chandmanĭ, Altanshiree, Chandman', Chandmani District, Chandmanĭ Sum, Chindamani Ul'dzeytu sumu, Chindamani Öldzeyte Suma, Chindamani Öldzeytu, Chindimani ultszeitu somon, Yaruu, Чандмань Сум
 Chihertey
 Chindamani Suma, Chandamani Somon, Chindamani, Chindamani somon, Chindamani sumu
 Chingeltei
@@ -304,7 +304,7 @@ Choylingiin Hiid, Choylingin Khid
 Choyr, Chior, Choiren, Choirin, Choyrin, Choïr, Sumbur, Sumbur Somon, Sumbur Sume, Sumbur sumu, Sümber Suma, Tuerin
 Choyren
 Choyroiin Jisa Hiid, Choiri-sume, Choyroiin-Jisa-Hiyd, Choyryin-chzhisa-khid, Choyryyn chzhisa khid, Choyröin chzhisa khid, Choyröyn chzhisa khid, Kumirnya Choyri-Sume
-Chuluut, Чулуут Сум
+Chuluut, Chuluut Sum
 Chuluuta, Chulutu, Chuluutu
 Chzhirgalantu-Sagsay-Somon, Jargalantsagsay
 Daaga Yarimpil Hiid, Daaga Yarimiil Hiid, Daaga Yarimpil Hiyd, Daga Yarimiil Khid, Daga Yarimpil Khid
@@ -346,8 +346,8 @@ Darhanhaan, Darkhankhaan
 Darhantayn Hüryee, Darhantayn Hüree, Darkhantuin khure
 Dari-Ekh
 Daritayn Dugang, Daritayn-Dugan, Darituin dugang
-Darvi, Darbi, Darbi Somon, Darbi Suma, Darbi Sume, Darbi sumu, Daribi Somon, Dariv, Darvi Sum, Darwi, Derubi
-Dashbalbar, Dashi Balbar Suma, Dashi Balbariin Somon, Dashi Balbaron Somon, Dashi balbar sumu, Dashi-Balbaryn-Somon, Dashibalbar, Дашбалбар Сум
+Darvi, Darbi, Darbi Somon, Darbi Suma, Darbi Sume, Darbi sumu, Daribi Somon, Dariv, Darwi, Derubi, Дарви Сум
+Dashbalbar, Dashbalbar Sum, Dashi Balbar Suma, Dashi Balbariin Somon, Dashi Balbaron Somon, Dashi balbar sumu, Dashi-Balbaryn-Somon, Dashibalbar
 Dashi Choyling Hüryee, Dashi Choylin Hüryee, Dashichoyling Khure
 Dashi Choynbil Hiid, Dashi choynbil khid, Dashi-Choynbil-Hiyd
 Dashi Dorjiin Datsang, Dashidorchzhiin Datsan
@@ -369,7 +369,7 @@ Delger Tsogtoyn Dugantayn Hiid, Delger Tsogtuin Dugantuin Khid, Delger tsogtuyn 
 Delger Öldzeyteyn Jisa, Delger Ultszeytuin chzhisa
 Delgereh, Delgereh Sum, Delgerekh, Delgerekh District, Дэлгэрэх Сум
 Delgerehe Hiid, Delgerehe-Hiyd, Delgerekhu Khid
-Delgerhaan, Delgerhaan Sum, Delgerkhaan, Shaamar, Shamar, Shamor, Дэлгэрхаан Сум
+Delgerhaan, Delgerhaan Sum, Shaamar, Shamar, Shamor, Дэлгэрхаан, Дэлгэрхаан Сум
 Delgerhet, Del'ger-khete, Delger Hete Suma, Delger Hiid, Delger Hiid Suma, Delger hete, Delger hete sumu, Delger-khid Somon, Delgerkhet
 Delgermörön, Hureemaral, Khüreemaral
 Demchig Hiid, Demchig khid, Demchig-Hiyd
@@ -411,7 +411,7 @@ Dund-Urt, Bayan Tsogtu, Bayan Tsogtu Somon, Bayan tsogtu sumu, Bayan-tsokuto
 Dund-Us
 Dundbürd, Bata Chorboin Khid, Bata Chorböyn Khid, Bata Norboiin Hiid, Bata Norboyn Khid, Batnorov, Batnorow, Batu Norb'oin hürie, Batu Norboin Khure, Batu-Norboiin hürie, Batu-Norboyn-Khure, Batu-norubo
 Duraliin Hiid, Duraliin-Hiyd, Duralyin Khid, Duralyyn khid, Duralöin Khid
-Duut, Дуут Сум
+Duut, Duut Sum
 Duutayn Hüryee, Dutu Khure, Dutuiin hürie, Dutuin Khure, Duutuin hürie
 Dzaanhoshuu, Dzaanhushuu, Ihe Tamir, Ihtamir, Ikh-Tamire, Ikhe Tamir Sume, Ikhe Tamiriin somon, Ikhe-Tamir, Ikhtamir, Yekhe Tamir, Yihe Tamiriin Suma
 Dzabilgaiin Hiid, Tsabilgöyn Khural, Tszabilgyin khid, Tszabilgyyn khural, Tszabilgyyn-khid, Tszabilgöin Khid
@@ -513,7 +513,7 @@ Gal Badaraha Suma, Gal Badaraha, Gal badarahu, Galbadarhu sumu, Galbadarkhu, Gal
 Galdatay Dugang
 Galgatay, Golsotay, Golsotoy
 Galtatay Hiid, Galtatai-khid, Galtatay khid
-Galuut, Galutyin Somon, Galutyn, Galutyn-somon, Galutyyn Somon, Galuut Sum, Galuutayn, Galuutayn Suma
+Galuut, Galutyin Somon, Galutyn, Galutyn-somon, Galutyyn Somon, Galuutayn, Galuutayn Suma, Галуут Сум
 Galuutayn Bayshing, Galutuin Bayshing, Galutuyn Bayshing
 Gandan Hüryee, Gandan, Gandan-khure, Gandang Hürie, Kure Gandan
 Gandzagatayn Hüryee, Gandzagatyn khure, Gandzagatön khure, Gantszagatiin khural
@@ -627,7 +627,7 @@ Havtsal
 Hayaa, Khaya
 Hayaagiin Bayshing, Khayagiin Bayshing, Khoyagiin bashing
 Haylaasatayn Süme, Haylaasatayn, Horosutu-sume, Khaylastyn sume, Khaylastyyn Sume, Khaylastöyn Sume, Kumirnya Khalostu-sume
-Haylaastay, Sakhe Bataar, Sukhe Batur, Sukhe-Bator, Sükhbaatar, Хайлаастай
+Haylaastay, Sakhe Bataar, Sukhe Batur, Sukhe-Bator, Сүхбаатар, Хайлаастай
 Haylanta Hiid, Khaylantu Khid
 Haylasangiin Hural, Khaylasangin Khural
 Hayrhan, Hayirhan, Hayrhan Sum, Khayrkhan, Хангай, Хангай Сум
@@ -659,10 +659,10 @@ Holtosoto Nugaiin Hiid, Kholtostunugyyn khid, Khultusnu-dugun
 Hondor Suma, Hondor, Khondar, Khondar Somon
 Hongiin Hüryee, Khongiin Khure
 Hongo, Chonga, Huan-ka, Khong, Khonga
-Hongor, Del'gerehu, Del'gir Somon, Delger, Delger Somon, Delger Suma, Delger-khid somon, Delgerehe Suma, Delgerehü sumu, Delgerekh, Delgerekhu Sume, Hongor Sum, Hongor sumu, Hongoru, Khongor, Khongor Somon, Mandal-Somon, Хонгор Сум
+Hongor, Del'gerehu, Del'gir Somon, Delger, Delger Somon, Delger Suma, Delger-khid somon, Delgerehe Suma, Delgerehü sumu, Delgerekh, Delgerekhu Sume, Hongor Sum, Hongor sumu, Hongoru, Khongor Somon, Mandal-Somon, Хонгор, Хонгор Сум
 Hongor Hiid, Khongor Khid
 Hongor Oboo Suma, Hongor oboo, Hongor oboo sumu, Khongor Obo, Khongor Obo Somon
-Hongor Suma, Hongor Sumu, Hongoru, Khongor, Khongor Sume, Khongor-Somon
+Hongor Suma, Hongor Sumu, Hongoru, Khongor, Khongor Somon, Khongor Sume
 Hongor Uula Suma, Hongor uula, Hongor uula sumu, Khongor Ula, Khongor Ula Somon
 Hongoriin Hoyolin Hural, Khongolin Khoyalin Khural, Khongorin-Khoyalin-Khural, Khongoryyn Khoyalin Khural, Khongoröyn Khoyalin Khural
 Hongoriin Hüryee, Khongoriin Khure
@@ -678,7 +678,7 @@ Horin Jisa, Khorin chzhisa
 Horiult, Bogd, Bogda Uula, Bogda ula somon, Bogda ula sumu, Bogdo Ula Sume, Bogdo Uula Suma, Bogdo-Ula, Bogudo-kara
 Hoshuu Süme, Khoshu Sume
 Hotogtoy Hüryee, Khotogtyy Khure, Khotogtöy Khure
-Hotont, Hotantu sumu, Hotont Sum, Hotonto, Hotonto Suma, Hotontu, Khotontu Somon, Хотонт, Хотонт Сум
+Hotont, Hotantu sumu, Hotont Sum, Hotonto, Hotonto Suma, Hotontu, Khotont, Khotontu Somon, Хотонт Сум
 Hotontoyn Hüryee, Khotontuin Khure, Khotontuyn Khure
 Hototoyn Örtöö, Khototyyn Urto, Khototöyn Urto, Khototöyn Yurt
 Hovd, Bogd, Hobdo, Hobdo Aymag, Hobdo Suma, Hobdo sumu, Hobdosskiy Aymag, Hovd Aymag, Hovd Province, Hovd Sum, Khobdo, Khobdo Aimak, Khobdo somon, Khordo Somon, Khowd, Kobdo, Kobdoskiy Aymak, Kobudo Bu, Ховд Аймаг, Ховд Сум
@@ -754,7 +754,7 @@ Hüytenii Jisa, Khuiteni Chzhisa
 Ibeeteyn Hüryee, Ibeteyn khure
 Ibing Bayshing, Ibing
 Ibitseg, Ibichiku, Ibitsag, Ibitsik, Ibitsikh, Ibitsyk, Ibitsïku, Ibitzyk
-Ider, Galt, Идэр Сум
+Ider, Galt, Ider Sum
 Ideriin Suma, Ider somon, Ideriin sumu
 Idermeg, Idermeg Somon, Idermeg Suma, Idermeg Sumu
 Idermegiin Hiid, Idermegyyn Khid, Idermegöyn Khid
@@ -800,7 +800,7 @@ Khujirt, Haluun Usanii, Haluun Usanii Suma, Hujirtay, Khalun Usuni Somon, Khudzh
 Khurkhurogiin Khure, Hurharagiin Hüryee, Hörhröö, Khörkhröö
 Lamaiin Bayshing, Lamayi Bayshing, Lamayn Bayshin, Lamayn-bayshing
 Lamaiin Gegeenii Hüryee, Kurya-Laman-gegen, Lama'iin gegen'i hiid, Lamaiin Gegeenii Hiid, Lamain Gegen Khit, Lamain gegeni Khid, Lamain gegeni hiid, Lamain gegeni hurie, Laman-Gegen, Lamyn-Gegeni-Khid
-Lamaiin Hiid, Khatyk-Laman Khit, Khatök-laman Khit, Lamaiin-Hiyd, Lamain Khid, Lamain Khit, Lamain hiid, Lamayn-khid, Lamyin Khid, Lamyn-Khid, Lamyyn Khid, Lamöyn khid, Ramïn-hito
+Lamaiin Hiid, Khatyk-Laman Khit, Khatök-laman Khit, Lamaiin-Hiyd, Lamain Khid, Lamain Khit, Lamain hiid, Lamayn-khid, Lamyin-Khid, Lamyn khid, Lamyyn Khid, Lamöyn Khid, Ramïn-hito
 Lamaiin Hural, Lamain khural, Lamayn Khural
 Lamaiin Hüryee, Lamaiin Khuree, Lamaiin hürie, Lamaiin-Hüree, Lamain Hüryee, Lamain Khure, Lamain Khurie, Lamain hürie, Lamain kure, Lamayn khure, Lamyn-Khure, Rama-fure, Rama-hito, Ramain-fure, Ronin Hur
 Lamaiin Jisa, Lamon-jasa, Lamyn chzhisa, Lamyn-Dzhasa, Lamöyn Chzhisa
@@ -809,7 +809,7 @@ Lamhay Terigüünii Dugang, Lamkhay teriguni dugang
 Lunii Bayshing, Luniy Bayshin
 Luujin Hüryee, Luchzhen, Luchzhen Monastery, Luchzhen-Khure
 Luusiin Hural, Lasain Khural, Lisain-Khural, Lu-ssu, Lusain Khural, Luusiyn-Hural
-Lün, Lung, Lung Somon, Lung Ula, Lyun somon, Lyung Somon, Lün Sum, Lün Suma, Lüng Suma, Lüng sumu, Rungein-buran, Sujji
+Lün, Lung, Lung Somon, Lung Ula, Lyun somon, Lyung Somon, Lün Suma, Lüng Suma, Lüng sumu, Rungein-buran, Sujji, Лүн Сум
 Lüngiin Hiid, Lungyin khid, Lungyyn Khid, Lungöyn Khid
 Maanĭt, Bayan Somon, Bayan Uula Suma, Bayan ula sumu, Bayan uula, Bayan-Ula, Borchunsuma, Hishig-Öndör, Khishig-Öndör, Manita
 Mahagalayn Dugang, Makhagalain dugang
@@ -853,7 +853,7 @@ Mursan Hural, Marsun khural, Mursun Khural
 Mönhbulag, Dzüïl
 Mönhöliin Bayshing, Menkheliin bayshin
 Mönhön Subarga
-Mörön, Mu-lin, Mu-lin-fu-lieh, Muren, Muren somon, Muren-sumu, Murenfure, Muringoru, Muron, Muron Somon, Murun-kuren, Mörön Sumu, Mörön'i hürie, Mörönii Hüryee, Mörönii khüree, Mörönu hurie
+Mörön, Mu-lin, Mu-lin-fu-lieh, Muren, Muren Sumu, Muren somon, Murenfure, Muringoru, Muron, Muron Somon, Murun-kuren, Mörön Sumu, Mörön'i hürie, Mörönii Hüryee, Mörönii khüree, Mörönu hurie
 Mörön Suma, Muren Somon
 Mösöteyn Süme, Musutuin-sume, Musutū, Mösötu
 Mürengiin Hüryee, Murengiin Khure
@@ -865,10 +865,10 @@ Namiriin Hüryee, Namiran Hüree, Namiriin hürie, Namiriin khure
 Namnang
 Namnang Suma, Namang, Namnan Suma, Namnang somon, Namnang sumu
 Narabanchinii Hüryee, Kurya Narvanchi-Gygena, Na-erh-wan-ch'ih Miao, Na-erh-wan-ch'ih-ko-kai-na, Narobanchin'i hürie, Narobanchini-Khure, Narubancheni Khure, Narubanchin Khure, Narubanchini Khure, Narubanchini hurie, Naruunchigïgen
-Naran, Na-lan, Nalin, Naran Somon, Naran Suma, Naran Sume, Naran Sumu, Urto Naran, Наран сум
+Naran, Na-lan, Nalin, Naran Suma, Naran Sume, Naran Sumu, Naran somon, Urto Naran, Наран сум
 Naran Bulag Horshoo, Naran Bulak Khorsho, Naryn bulak khorsho
 Naran Hiid, Naran khid, Naron Khid, Naryn-khid
-Naranbulag, Bayan Dun Suma, Bayan Düng Suma, Bayan düng sumu, Bayan-Dung-Somon, Bayan-düng, Bayandun, Наранбулаг Сум
+Naranbulag, Bayan Dun Suma, Bayan Düng Suma, Bayan düng sumu, Bayan-Dung-Somon, Bayan-düng, Bayandun, Naranbulag Sum
 Narangiin Dugang, Naringiin dugang
 Narasatayn Oros, Narasatiin Oros, Narasutain-Oros, Narasutayn oros, Narasutuyn Oros
 Nardn
@@ -928,8 +928,8 @@ Onon, Binder, Bindiryaa, Bindiryaa Suma, Bindur somon, Bindur'ya sumu, Bindurya,
 Ordogoiin Dugang, Ordogoin dugang
 Orgil, Ihe jirgalantu sumu, Ikhe Djirgalantu Sume, Ikhe Jirgalantu, Ikhe chzhirgalatu somon, Ikhe-chzhirgalantu somon, Yihe Jirgalanta Suma
 Orhirogiin Dugang, Orhirogin-Dugan, Orhiroogiin Dugan, Orkhirogin dugang
-Orhon, Harosha, Орхон, Орхон Сум
-Orhontuul, Dedu orhon sumu, Dedu-Orkhon-Sumu, Deede Orhon Suma, Deedu orhon, Orhon Tuula Suma, Orkhon-Tola, Orkhontola Somon, Orkhontuul, Орхонтуул Сум
+Orhon, Harosha, Orkhon, Орхон Сум
+Orhontuul, Dedu orhon sumu, Dedu-Orkhon-Sumu, Deede Orhon Suma, Deedu orhon, Orhon Tuula Suma, Orkhon-Tola, Orkhontola Somon, Орхонтуул, Орхонтуул Сум
 Orkhon
 Otochin Dugang, Otochin-Dugan
 Ovoot, Dariganga Suma, Dariganga somon, Dariganga sumu, Daringanga, Darĭganga, Owoot, Shine Dariganga, Shine Dariganga Suma, Shine Dariganta Somon, Shine-dariganga Somon
@@ -962,12 +962,12 @@ Sayr Usa, Sai-erh-wu-su, Sair Ussu, Sair Usu, Sairu usu, Sairuso, Sayr-usu, Tala
 Sayriin Hashaatayn Süme, Sairim Gashato, Sayriin Hashaatayn Dugan, Sayriin hashiatuin dugang, Sayrim-Khashato-Sumu, Sayrin Khoshyatu sume, Soyrin-khashate Khid
 Seer
 Seeriin Hiid, Seeriin-Hiyd, Serin Khid
-Selenge, Ih-Uul, Ihe uula sumu, Ikhe Ula Sume, Ikhe-Ula, Ikhe-ula Somon, Yihe Uula Suma, Сэлэнгэ Сум
+Selenge, Ih-Uul, Ihe uula sumu, Ikhe Ula Sume, Ikhe-Ula, Ikhe-ula Somon, Selenge Sum, Yihe Uula Suma
 Selenge Suma, Selenge Somon, Selenge Sumu
 Selenger
 Semchin Dugang, Semchin-Dugan
 Senj
-Sergelen, Sergelen Sum, Tebshin-Shire Somon, Tubshin-Shire, Tübshin Shiree Suma, Tübshin shiree, Tübshin shiree sumu, Tüvshinshiree, Tüwshinshiree
+Sergelen, Tebshin-Shire Somon, Tubshin-Shire, Tübshin Shiree Suma, Tübshin shiree, Tübshin shiree sumu, Tüvshinshiree, Tüwshinshiree, Сэргэлэн Сум
 Serüünii Dugang, Seruny-dugang, Serunyy-dugang
 Setsengiin Dugang, Setsengin dugang
 Shabarta, Shabartu
@@ -1032,7 +1032,7 @@ Suran Bulagiin Hural, Surung Bulagoin Khural, Surung bulagyin khural, Surung-Bul
 Suugaant, Gurban Saikhan, Gurban Sayhan, Gurban Sayhan Suma, Gurban Saykhan Somon, Gurban sayhan sumu, Gurban-Saykhan, Gurvan-Saykhan, Gurvansayhan, Gurwansaïkhan, Suugant
 Suurin Hural, Surin Khural
 Sört, Hangal, Hangal Suma, Hangal sumu, Khangal, Khangal Somon
-Sühbaatar, Sukhe Batur, Sukhe-Bator, Sühbaatar Sum, Sühe Baatar, Sühe Batar, Sükhbaatar, Сүхбаатар Сум
+Sühbaatar, Sukhe Batur, Sukhe-Bator, Sühbaatar Sum, Sühe Baatar, Sühe Batar, Сүхбаатар, Сүхбаатар Сум
 Sümber
 Sümber Horshoo, Sumbur Khorsho
 Sümeiin Hiid, Sumein khid, Sumeyn Khid
@@ -1084,7 +1084,7 @@ Tengelig Hiid, Tengelig Khid, Tengelig-Hiyd
 Teregen Bayan Süme, Terigun Bain Sume, Terigun Bayan Süme
 Terete
 Tergetiin Bayshing, Tergetiin bashing
-Teshig, Teshig Suma, Teshig Sume, Teshig somon, Teshig sumu, Тэшиг Сум
+Teshig, Teshig Sum, Teshig Suma, Teshig Sume, Teshig somon, Teshig sumu
 Togootoyn Dugang, Togoliyn-Dugan, Togotuin dugang
 Togootoyn Shüteen, Togotyyn shutun, Togotöyn Shutun
 Togos Bülteyn Hüryee, Togos-Buyantayn Hüree, Tugus bulitiin khure
@@ -1094,7 +1094,7 @@ Toliin Dzoo Hiid, Tolyyn tszo khid, Tolöyn Tszo Khid
 Tologoyt
 Tooromt, Tes, Tesin Suma
 Torhurah
-Tosontsengel, Shumultain khure, Shumultuin Khure, Shumultuyn-khure, Shumuultayn Hüryee, Shumuultiin Khüree, Shumuultuiin hüriye, Shumuultuïn hüriye, Toson Tsengel Suma, Toson tsengel sumu, Tosontsengel Sum, Tosyn tsengel somon
+Tosontsengel, Shumultain khure, Shumultuin Khure, Shumultuyn-khure, Shumuultayn Hüryee, Shumuultiin Khüree, Shumuultuiin hüriye, Shumuultuïn hüriye, Toson Tsengel Suma, Toson tsengel sumu, Tosyn tsengel somon, Тосонцэнгэл Сум
 Tost
 Toyrim, Kumirnya Toyrym, T'ao-li-mu, Toirim, Urto Kuré Toirim, Urto Toirym
 Tsabchiriin Hiid, Ch'a-p'u-ch'ih-erh, Tsabchiriin-Hiyd, Tsabchiryyn khid, Tsabchiröyn khid, Tsapchir, Tsapuchiru
@@ -1102,7 +1102,7 @@ Tsabchiriin Hural, Tsabchir'in hural, Tsabchirin-Khural, Tsabchiryyn khural, Tsa
 Tsagaan Bulagiin Dugang, Ch'a-kan-pu-lun, Tsagaan Bulag, Tsagan bulungin dugang, Tsagan-Buluk
 Tsagaan Bulagiin Hural, Tsagan Bulagoyn Khural, Tsagan bulagyyn khural
 Tsagaan Burgaasa Örtöö, Tsagan Burgasu urto
-Tsagaan Burgaasanii Hüryee, Ch'a-kan-pu-erh-ha-su, Kuren' Tsagan-Burgas, Tsagaan Burgaasa, Tsagaan burgasui'n hürie, Tsagaan burgasun'i hürie, Tsagan Burgas, Tsagan Burgasuni, Tsagan-Burgasu Khure, Tsagan-burgasuni Khure, Tsagan-burugasu
+Tsagaan Burgaasanii Hüryee, Ch'a-kan-pu-erh-ha-su, Kuren' Tsagan-Burgas, Tsagaan Burgaasa, Tsagaan burgasui'n hürie, Tsagaan burgasun'i hürie, Tsagan Burgas, Tsagan Burgasuni, Tsagan Burgasuni Khure, Tsagan-Burgasu Khure, Tsagan-burugasu
 Tsagaan Burgaasatayn Dugang, Tsagan-Burgasutuin dugang
 Tsagaan Chuluutayn Hiid, Tsagan Chulutyyn khid, Tsagan Chulutöyn Khid, Tsagan-Tsulutu-Khid, Tsagan-chulutyin Khid
 Tsagaan Deresenii Hural, Tsagan derisuni khural
@@ -1132,17 +1132,17 @@ Tsagaan-Olom, Tayshir, Taïshir, Tsagan Olom, Tsagan olon
 Tsagaan-Ovoo, Loosa sumu, Los, Lus, Lus Somon, Luus, Luusa, Luusa Suma, Nariin Teeli Suma, Narin Teli Sume, Narin del' Somon, Narin teeli, Narin-Teeli-Somon, Narin-Teli, Nariyntee, Nariynteel, Nariïnteel, Tsagaan Oboonii, Tsagaan Oboonii Suma, Tsagaan oboo, Tsagaan oboo sumu, Tsagan Oboni Somon, Tsagan-Oboni-Sumu
 Tsagaan-Owoo, Höövör
 Tsagaan-Uul, Tsagaan-Uul District
-Tsagaanchuluut, Tsagaanchuluut Sum
+Tsagaanchuluut, Цагаанчулуут Сум
 Tsagaanders, Bain Tumen, Bayantümen
 Tsagaandörvölj, Ayrag
 Tsagaangol
 Tsagaanhayrhan, Möndööhöö, Tsagaanhairhan District, Tsagaanhayrhan Sum, Tsagaankhaïrkhan, Цагаанхайрхан, Цагаанхайрхан Сум
-Tsagaannuur, Dood-Nuur, Ihe tushig tsagaan nuur, Ihe tushig tsagaan nūr sumu, Ikhe-Tushig-Tsagan-Nur, Tsagaan Nuuriin Suma, Tsagan Nuryn Somon, Tsagan-Nur, Tsagan-nurin-somon, Tsagan-nuryyn somon, Yihe Tüshig Tsagaan Nuur Suma, Цагааннуур Сум
+Tsagaannuur, Dood-Nuur, Ihe tushig tsagaan nuur, Ihe tushig tsagaan nūr sumu, Ikhe-Tushig-Tsagan-Nur, Tsagaan Nuuriin Suma, Tsagaannuur Sum, Tsagan Nuryn Somon, Tsagan-nur, Tsagan-nurin-somon, Tsagan-nuryyn somon, Yihe Tüshig Tsagaan Nuur Suma
 Tsagaantüngi, Altantsögts
 Tsagarim Bayshing, Tsagarim Bayshin
 Tsagun Muhur
 Tsahildagiin Örtöö, Tsakhildagiin urto
-Tsahir, Tsahir Sum, Tsahir Suma, Tsahir sumu, Tsakhir, Tsakhir Sume, Tsakhir somon, Цахир Сум
+Tsahir, Tsahir Sum, Tsahir Suma, Tsahir sumu, Tsakhir Sume, Tsakhir somon, Цахир, Цахир Сум
 Tsahir Jisa Hiid, Kumirnya Tsakurten-sume, Tsahir'iin Süme, Tsahir-Jisa-Hiyd, Tsakhir chzhisa khid, Tsekherin-Sume
 Tsahiriin Jisa, Kumirnya Tsakurten-Chzhatsa, Tsahiriin Jisa Hiid, Tsakhiryyn chzhisa, Tsakhiröin Chzhisa, Tsakhiröyn chzhisa, Tsakurten-Djatsa
 Tsalgar, Malchin, Malchin Suma, Malchin Sume, Malchin somon, Malchin sumu
@@ -1155,16 +1155,16 @@ Tsasaiin Dugang, Tsasuin dugang, Tsosoiin Dugan, Tsosuin dugang
 Tsasaiin Horshoo, Tsosoiin Horshoo, Tsosuin Khorsho
 Tsatsaiin Hural, Tsatsain Khural, Tsetsein Khural
 Tsavdan
-Tseel, Tseel Suma, Tseel' Somon, Tseel' sumu, Tsel, Tsel Sume, Цээл Сум
+Tseel, Tseel Sum, Tseel Suma, Tseel' Somon, Tseel' sumu, Tsel, Tsel Sume
 Tsegeenii Hüryee, Tsegeenii-Hüree, Tseguni Khure
 Tsengel, Toson Tsengel Suma, Toson tsengel sumu, Toson-tsengel somon, Цэнгэл Сум
 Tsengel Hayrhan Suma, Tsengel hayrhan, Tsengel hayrhan sumu, Tsengel'-Khayrkhan, Tsengel'-Khayrkhan-Somon, Tsengel'-khairkhan somon
 Tsengelegiin Dugang, Tsengelegyyn dugang
-Tsenher, Munhe-hairuhan, Munkhe-Khayrkhan-Sumu, Munkhu Khayrkhan Somon, Munkhu-khayrkhan, Mönhhayrhan, Mönhö Hayrhan Suma, Mönhö hayrhan, Mönhö hayrhan sumu, Mönkhkhaïrkhan, Mönkö Khairkhan Sume, Tsastu Ula Somon, Tsenher Sum, Tsenher Suma, Tsenher sumu, Tsenkher District, Tsenkher Somon, Tsenkher Sume, Цэнхэр, Цэнхэр Сум
+Tsenher, Munhe-hairuhan, Munkhe-Khayrkhan-Sumu, Munkhu Khayrkhan Somon, Munkhu-khayrkhan, Mönhhayrhan, Mönhö Hayrhan Suma, Mönhö hayrhan, Mönhö hayrhan sumu, Mönkhkhaïrkhan, Mönkö Khairkhan Sume, Tsastu Ula Somon, Tsenher Sum, Tsenher Suma, Tsenher sumu, Tsenkher, Tsenkher District, Tsenkher Somon, Tsenkher Sume, Цэнхэр Сум
 Tseregiin Dugang, Tserengiyn-Dugan, Tserigyin dugang
 Tsetsegnuur, Tsetseg, Tsetseg Nuur, Tsetseg Somon, Tsetseg Suma, Tsetseg nuur sumu, Tsetseg-Nur
 Tsetserengiin Dugang, Chitserengiin dugang, Tsitserengiin dugang
-Tsetserleg, Cecerleg, Tsetserlig, Tsetserlig-khoto, Tsetserlik, Tsetserurigu, Öndör Hangay Suma, Öndörhangay, Öndörkhangaï, Цэцэрлэг Сум, Цэцэрлэг хот
+Tsetserleg, Cecerleg, Tsetserlig, Tsetserlig-khoto, Tsetserlik, Tsetserurigu, Öndör Hangay Suma, Öndörhangay, Öndörkhangaï, Цэцэрлэг сум, Цэцэрлэг хот
 Tsetserligiin Bayshing, Tsetserligin Bayshing
 Tsetserligiin Örtöö, Tsetserligin urto
 Tsogt-Öndör
@@ -1230,7 +1230,7 @@ Ulaan Tolgoy
 Ulaan Tologoy Hural, Ulan tologoy Khural
 Ulaan Tologoyn Jisa, Ulan tologoyn chzhisa
 Ulaan-Ereg, Bain-munku Somon, Bayan Munkhu, Bayan Munku Somon, Bayan Mönhö, Bayan mönhö sumu, Bayanmönh, Bayanmönkh, Bayn Munkhu Somon
-Ulaan-Uul, Barun Ul'dzeytu Sumu, Barun Ultszeytu Somon, Baruun Öldzeyte, Baruun Öldzeyte Suma, Erdene, Erdeni Somon, Erdeni Suma, Erdeni Sume, Erdeni sumu, Oldzeytu, Ulaan Uula, Ulaan-Uul Sum, Öldziït
+Ulaan-Uul, Barun Ul'dzeytu Sumu, Barun Ultszeytu Somon, Baruun Öldzeyte, Baruun Öldzeyte Suma, Erdene, Erdeni Somon, Erdeni Suma, Erdeni Sume, Erdeni sumu, Oldzeytu, Ulaan Uula, Öldziït, Улаан-Уул Сум
 Ulaan-am
 Ulaanbaishint
 Ulaandel
@@ -1242,7 +1242,7 @@ Ulaanshiveet
 Ulaantolgoy, Möst
 Ulagchin, Ulaagchin
 Ulaha, Ulakha
-Ulan Bator, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Ourga, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator Hoto, Ulan-Bator Khoto, Uranbatoru, Urga, Uruga, Örgöö, Улаанбаатар
+Ulan Bator, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Ourga, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator Hoto, Ulan-Bator Khoto, Uranbatoru, Urga, Uruga, Örgöö
 Ulan-Tsereg
 Uldz, Norbolin, Norovlin, Norowlin, Norvulin
 Ulhanii Mayhan
@@ -1268,7 +1268,7 @@ Uujim, Sagsay, Sagsaï
 Uula Hiid, Ula khid, Uula-Hiyd
 Uula Hural, Ula Khural, Ula-Khora, Uli khural
 Uulaiin Dugang, Ulain dugang
-Uulbayan, Uulbayan District, Уулбаян Сум
+Uulbayan, Uulbayan District, Uulbayan Sum
 Uurtsag Hural, Ortsog Khural
 Uylga, Uilaga, Uilga
 Uylgaiin Dugang, Uilgain dugang, Uilgan dugang, Uilgiin Dugan, Ulygaiin-Dugan

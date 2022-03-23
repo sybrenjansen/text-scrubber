@@ -13,7 +13,7 @@
 import argparse
 import os
 import unicodedata
-from functools import reduce
+from functools import partial, reduce
 from typing import Callable, Dict, List, Tuple
 
 import pandas as pd
@@ -21,18 +21,27 @@ from tqdm.auto import tqdm
 
 from text_scrubber.geo import clean_city, clean_region
 
+try:
+    from mpire import WorkerPool
+    MPIRE_AVAILABLE = True
+except ImportError:
+    WorkerPool = None
+    MPIRE_AVAILABLE = False
 
-def process_country(work_dir: str, filename: str, save_dir_cities: str, save_dir_regions: str,
-                    manual_alternate_names: Dict[str, List[str]]) -> None:
+
+def process_country(filename: str, work_dir: str, save_dir_cities: str, save_dir_regions: str,
+                    manual_alternate_names: Dict[str, Dict[str, List[str]]]) -> None:
     """
     Processes a single country file and stores the results to file, one for cities, one for regions.
 
-    :param work_dir: Working directory
     :param filename: Filename
+    :param work_dir: Working directory
     :param save_dir_cities: Save directory for cities
     :param save_dir_regions: Save directory for regions
-    :param manual_alternate_names: List of manually added alternate names
+    :param manual_alternate_names: {country code: {city: list of manually added alternate names}}
     """
+    manual_alternate_names = manual_alternate_names.get(filename[:2], {})
+
     columns = ['geonameid', 'name', 'asciiname', 'alternatenames', 'latitude', 'longitude', 'feature class',
                'feature code', 'country code', 'cc2', 'admin1 code', 'admin2 code', 'admin3 code', 'admin4 code',
                'population', 'elevation', 'dem', 'timezone', 'modification date']
@@ -63,6 +72,7 @@ def process_country(work_dir: str, filename: str, save_dir_cities: str, save_dir
     df_regions = remove_duplicates(df_regions)
 
     # Save to file
+    manual_alternate_names = manual_alternate_names.get(filename[:2], {})
     save_file(df_cities, save_dir_cities, filename, manual_alternate_names, clean_city)
     save_file(df_regions, save_dir_regions, filename, manual_alternate_names, clean_region)
 
@@ -121,7 +131,7 @@ def add_alternate_names(work_dir: str, df_cities: pd.DataFrame, df_regions: pd.D
     dominant_languages = set(dominant_languages[:dominant_languages.index('en') + 1])
     if len(dominant_languages) == 1:
         dominant_languages.add(filename[:2].lower())
-    dominant_languages.add('')
+    dominant_languages.update({'', 'abbr'})
     df_alt = df_alt[df_alt.isolanguage.isin(dominant_languages) & ~(df_alt.isColloquial == "1")]
     df_alt = df_alt.drop_duplicates(['geonameid', 'alternate name'], keep='first')
     df_alt = df_alt.drop(['alternateNameId', 'isolanguage', 'isPreferredName', 'isShortName', 'isColloquial',
@@ -195,7 +205,7 @@ def save_file(df: pd.DataFrame, save_dir: str, filename: str, manual_alternate_n
     :param df: DataFrame to save
     :param save_dir: Save directory
     :param filename: Filename
-    :param manual_alternate_names: List of manually added alternate names
+    :param manual_alternate_names: {city: list of manually added alternate names}
     :param clean_func: Clean function to use
     """
     # Store name + alternate names. The name and alternative names can have overlap, which we filter here
@@ -248,9 +258,14 @@ def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None
     manual_alternate_names = {'JP': {'Gifu-shi': ['Gifu']}}
 
     # Process files
-    for filename in tqdm(filenames):
-        process_country(geonames_dir, filename, save_dir_cities, save_dir_regions,
-                        manual_alternate_names.get(filename[:2], {}))
+    process_country_func = partial(process_country, work_dir=geonames_dir, save_dir_cities=save_dir_cities,
+                                   save_dir_regions=save_dir_regions, manual_alternate_names=manual_alternate_names)
+    if MPIRE_AVAILABLE:
+        with WorkerPool() as pool:
+            pool.map_unordered(process_country_func, filenames, progress_bar=True)
+    else:
+        for filename in tqdm(filenames):
+            process_country_func(filename)
 
 
 if __name__ == '__main__':

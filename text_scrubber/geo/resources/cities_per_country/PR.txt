@@ -1,13 +1,13 @@
 Aceitunas
 Aceitunas Comunidad
 Acevedo
-Adjuntas, Adjuntas Pueblo, La Ciudad del Gigante Dormido, La Suiza de Puerto Rico, Las Adjuntas
+Adjuntas, ADJ, Adjuntas Pueblo, La Ciudad del Gigante Dormido, La Suiza de Puerto Rico, Las Adjuntas
 Aguacate
-Aguada
+Aguada, AGD
 Aguada Zona Urbana
-Aguadilla, Guadilla, Guadiya, La Villa de Ojo de Agua, La Villa del Ojo de Agua
+Aguadilla, AGL, Guadilla, Guadiya, La Villa de Ojo de Agua, La Villa del Ojo de Agua
 Aguadilla Zona Urbana
-Aguas Buenas, La Ciudad de las Aguas Claras
+Aguas Buenas, ABU, La Ciudad de las Aguas Claras
 Aguas Buenas Zona Urbana
 Aguas Claras, Parcelas Aguas Claras
 Aguas Claras Comunidad
@@ -15,7 +15,7 @@ Aguas Saladas Blancas
 Aguilita
 Aguilita Comunidad
 Aguirre
-Aibonito, Jatibonicu, La Ciudad de las Flores, La Suiza de Puerto Rico
+Aibonito, AIB, Jatibonicu, La Ciudad de las Flores, La Suiza de Puerto Rico
 Aibonito Zona Urbana
 Alamar
 Alatos de Fuente
@@ -73,12 +73,12 @@ April Garden
 Aquilino
 Arboteda, Arbolada
 Archilla Cabrena
-Arecibo, Arecivo, Arezibo, Ariezibo, Arrec2 bo, El Arecibo, La Ribera del A recibo, La Villa del Capitan Correa
+Arecibo, ARE, Arecivo, Arezibo, Ariezibo, Arrec2 bo, El Arecibo, La Ribera del A recibo, La Villa del Capitan Correa
 Arecibo Zona Urbana
 Arenal
 Arenales, Calero
 Arenas
-Arroyo
+Arroyo, ARR
 Arroyo Zona Urbana
 Arturo Lluberas
 Arús
@@ -86,7 +86,7 @@ Asomante
 Atenas
 Atlantic View
 Avila
-Añasco, Donde los dioses Mueren
+Añasco, ANA, Donde los dioses Mueren
 Añasco Zona Urbana
 Bahia
 Bahia Guayanilla 2
@@ -106,12 +106,12 @@ Barahona
 Barahona Comunidad
 Baralt
 Barcelona
-Barceloneta, Barrgeloneta, La Ciudad de las Pinas
+Barceloneta, BCL, Barrgeloneta, La Ciudad de las Pinas
 Barceloneta Zona Urbana
 Barinas
 Barranca
 Barrancas
-Barranquitas
+Barranquitas, BQT
 Barranquitas Zona Urbana
 Barriada Aguilar
 Barriada Buenos Aires
@@ -1814,7 +1814,7 @@ San Joaquin
 San Jose, Guanajibo
 San Jose II
 San José Comunidad
-San Juan, Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico
+San Juan, Caparra, Ciudad de Puerto Rico, Portorico, Prico, Puerto Rico, SJU, Saint Iuan, Saint John de Porto Rico, Sainte Jean de Porto-rico, San Ian de Porto Rico, San Ioanni, San Jean de Portorico, San Juan Batista de Puerto Rico, San Juan Bautistade de Puerto Rico, The City of Saint John, Ville de Porto-Rico, Ville de Sainte Jean de Porto Rico
 San Juan Bautista
 San Juan Chateau
 San Juan Gardens

@@ -6095,7 +6095,7 @@ Jerimbun
 Jerlun
 John Rock, John Reef
 Johnstone Bluff
-Johor, Johore, State of Johor, State of Johore
+Johor, JHR, Johore, State of Johor, State of Johore
 Johor Tropical Product, Johor State Economic Development Corporation, PKENJ
 Jongok Dangar Besar
 Jubakar Forest Reserve
@@ -6745,12 +6745,12 @@ Kebakat
 Kebulu Protected Forest
 Kebun Cina
 Kechau Malay Reservation
-Kedah, State of Kedah
+Kedah, KDH, State of Kedah
 Kedawang
 Kedet
 Kelambu Lang
 Kelanang Malay Reservation
-Kelantan, State of Kelantan
+Kelantan, KTN, State of Kelantan
 Kelapa
 Kelatan
 Kelau Forest Reserve
@@ -7816,7 +7816,7 @@ Kuala Lui
 Kuala Luit
 Kuala Lukut Besar
 Kuala Lukut Kechil
-Kuala Lumpur, Daerah Kuala Lumpur, Federal Territory, Federal Territory of Kuala Lumpur, Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur
+Kuala Lumpur, Daerah Kuala Lumpur, Federal Territory, Federal Territory of Kuala Lumpur, KUL, Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur
 Kuala Lumpur Bird Park
 Kuala Lundu
 Kuala Lutong
@@ -8016,7 +8016,7 @@ Labis Forest Reserve Extension
 Laboh Tenggara
 Labohan Bilek Besar
 Labok
-Labuan, Federal Territory of Labuan
+Labuan, Federal Territory of Labuan, LBN
 Labuan Sama
 Labuk and Sugut
 Ladang Baharu
@@ -8856,7 +8856,7 @@ Medan Galian Minyak South Furious, South Furious Oil Field
 Medan Portugis
 Mekarah, Bukit Mekarah, Three Peaked Hill
 Melabing Forest Reserve
-Melaka, Settlement of Malacca, State of Malacca, State of Melaka
+Melaka, MLK, Settlement of Malacca, State of Malacca, State of Melaka
 Melaka Tengah
 Melana Protected Forest
 Melanking
@@ -9140,7 +9140,7 @@ Nares Bank
 Natuong
 Nawai Rapids
 Negeri Roadstone
-Negeri Sembilan, State of Negri Sembilan
+Negeri Sembilan, NSN, State of Negri Sembilan
 Nenek Si-Mukut
 New Banggi Peak, Banguey Peak, Peak Banggi
 New Dampier
@@ -9416,7 +9416,7 @@ Padang Umbut
 Padi Telok, Pudi Telok
 Pagadan
 Pagalayan Canal
-Pahang, State of Pahang
+Pahang, PHG, State of Pahang
 Pahu
 Paitan Forest Reserve
 Paka
@@ -11178,7 +11178,7 @@ Peninsular Malaysia, Malaysia Barat, Semenanjung Malaysia, Tanah Melayu, West Ma
 Penjom Malay Reservation
 Pensiangan
 Peragesuan
-Perak, State of Perak
+Perak, PRK, State of Perak
 Perak Hilir Daerah, Lower Perak District
 Perak Island
 Perak Tengah
@@ -11188,7 +11188,7 @@ Pergunongan Apo Duat
 Perhentian Petai
 Perindustrian Bukit Rambai
 Peringat
-Perlis, State of Perlis
+Perlis, PLS, State of Perlis
 Permatang Badak
 Permatang Bahrim
 Permatang Bangkong
@@ -12015,7 +12015,7 @@ Pulau Peta
 Pulau Petang
 Pulau Pikul, Pulau Pikol
 Pulau Pin Pin
-Pulau Pinang, Penang, Penang Island, Prince of Wales Island, Pulau Penang, Pulo Peenang
+Pulau Pinang, PNG, Penang, Penang Island, Prince of Wales Island, Pulau Penang, Pulo Peenang
 Pulau Pinggan
 Pulau Pintu Gedong Forest Reserve
 Pulau Pintu Gedung, Pinto Gedong, Point o' Gedong, Pulau Pintu Gedong
@@ -12364,7 +12364,7 @@ Pusat Percubaan Padi
 Pusat Pertanian Sungai Sudah
 Pusat Ternak Rusa dan Kijang
 Putatan
-Putrajaya, Wilayah Persekutuan Putrajaya
+Putrajaya, PJY, Wilayah Persekutuan Putrajaya
 Putrajaya Wetlands
 Putri Narrows
 Pyramid Shoal
@@ -12817,7 +12817,7 @@ Rumput Sungai
 Rungkup Selatan Parit
 Rungus
 S.P. Tengah
-Sabah, British North Borneo, North Borneo, North Borneo Chartered Company, Sabah Negeri
+Sabah, British North Borneo, North Borneo, North Borneo Chartered Company, SBH, Sabah Negeri
 Sabak Bernam
 Sabang
 Sabu Forest Reserve
@@ -12854,7 +12854,7 @@ Sangga Kechil Island Forest Reserve
 Saniatan Ulu
 Sarangtiong
 Saratok, Kalaka
-Sarawak, Sarawak Negeri, Serawak
+Sarawak, SRW, Sarawak Negeri, Serawak
 Sarawak Mangrove Forest Reserve
 Saribas Forest Reserve
 Sarikei
@@ -12914,7 +12914,7 @@ Selangau
 Selangau Protected Forest
 Selangit Rapids
 Selangkor
-Selangor, Selangor Darul Ehsan, State of Selangor
+Selangor, SGR, Selangor Darul Ehsan, State of Selangor
 Selat Bagan Nyior
 Selat Banggi Barat, Banggi West Channel, Banguey West Channel
 Selat Banggi Selatan, Banggi South Channel, Banggi South Straits, Banguey Channel, Banguey South Channel, South Banguey Channel
@@ -23370,7 +23370,7 @@ Sungai Pelagat
 Sungai Pelagong, Sungai Plagong
 Sungai Pelagor, Sungai Plagor
 Sungai Pelagus
-Sungai Pelai, Sungai Pla'i, Sungai Pla-i, Sungai Plaie
+Sungai Pelai, Sungai Pla-i, Sungai Plai, Sungai Plaie
 Sungai Pelai Besar, Sungai Pla-i Besar
 Sungai Pelai Kechil, Sungai Plai Kechil
 Sungai Pelaik, Sungai Plaik
@@ -31584,7 +31584,7 @@ Tenumandug
 Terap
 Teras
 Terbak, Perbak
-Terengganu, State of Terengganu, Trengganu
+Terengganu, State of Terengganu, TRG, Trengganu
 Terengun Forest Reserve, Trengun Forest Reserve
 Teriang Forest Reserve Extension, Triang Forest Reserve Extension
 Teriso Protected Forest, Triso Protected Forest

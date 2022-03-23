@@ -729,7 +729,7 @@ Cachoeira Tambaqui, Cachuela Tambaqui, Cachuela del Tambaqui
 Cachoeira das Araras, Cachuela Ararás, Cachuela Figueura, Cachuela Tamanduce
 Cachoeira das Bananeiras, Cachoeira Bananeira, Cachuela Bananeira, Cachuela Bananeiras, Cachuela das Papagaios
 Cachoeira das Sete Ilhas, Cachoeira das 7 Ilhas
-Cachoeira de Madeira, Cachoeira Madeira, Cachuela Madeira, Cachuela Madera
+Cachoeira de Madeira, Cachoeira da Madeira, Cachuela Madeira, Cachuela Madera
 Cachoeira dos Periquitos, Cachoeira Periquitos, Cachuela Periquita, Cachuela Periquitos
 Cachu Loma
 Cachu Pampa
@@ -3629,7 +3629,7 @@ Chankha Pampa
 Chankhani
 Chanquitas
 Chapacalli Pampa
-Chapare, Aranibar, Provincia Chaparé
+Chapare, Aranibar, Provincia Chapare
 Chapi Chapi Pampa
 Chapicar Pampa
 Chapin Pampa
@@ -5177,7 +5177,7 @@ Laguna Laramcota
 Laguna Laramkkota
 Laguna Larga
 Laguna Las Abejas
-Laguna Las Abras, Laguna de Las Abras
+Laguna Las Abras, Laguna de las Abras
 Laguna Las Grebas
 Laguna Las Medinas
 Laguna Las Patos
@@ -5938,7 +5938,7 @@ Nevado Hailliguaya, Nevado Halliguaya
 Nevado Hichucota
 Nevado Huaillara, Huaillara
 Nevado Huanacuni
-Nevado Huayna Potosí, Cerro Huyña Potosí, Cerro de Huaina Potosí, Huaina, Huayna Potosi, Wayna Potosí
+Nevado Huayna Potosí, Cerro Huyña Potosí, Cerro de Huaina Potosí, Huaina, Huayna Potosí, Wayna Potosí
 Nevado Illampu, Illampa, Illampu, Nevado de Illampu, Nevado de Sorata, Nevado del Illampu
 Nevado Illimani, Nevada del Illimani, Nevado de Illimani
 Nevado Isquillani
@@ -6367,7 +6367,7 @@ Playo Poopo
 Playon
 Plaza E. Avaroa
 Plaza Simon Bolivar
-Plurinational State of Bolivia, Bolivia, Bolivia Plurinational State Of, Estado Plurinacional de Bolivia, Republic of Bolivia, República de Bolivia
+Plurinational State of Bolivia, Bolivia, Bolivia (Plurinational State of), Estado Plurinacional de Bolivia, Republic of Bolivia, República de Bolivia
 Pobrecancha
 Pocitos, Quebrada Pocitos, Quebrada de Pocitos
 Pocoata Municipality
@@ -6441,8 +6441,8 @@ Presto
 Providencia
 Provincia Abaroa, Abaroa, Abaros, Eduardo Abaroa Province, Provincia Avaroa
 Provincia Abel Iturralde, Abel Iturralde, Iturralde, Provincia Iturralde
-Provincia Abuná, Abuna
-Provincia Andrés Ibáñez, Andrés Ibañez
+Provincia Abuná, Abuná
+Provincia Andrés Ibáñez, Andrés Ibáñez
 Provincia Antonio Quijarro, Antonio Quijarro, Provincia Quijarro, Quijarro
 Provincia Arani, Arani
 Provincia Arce, Aniceto Arce, Arce
@@ -6484,7 +6484,7 @@ Provincia Loayza, Loaiza, Loayza
 Provincia Los Andes, Andes, Los Andes
 Provincia Luis Calvo, Luis Caivo, Luis Calvo
 Provincia Madre de Dios, Madre de Dios
-Provincia Mamoré, Mamoré
+Provincia Mamoré, Mamore
 Provincia Manco Kapac, Copa Cabana, Manco Kapac
 Provincia Manuel María Caballero, Caballero, Manuel María Caballero
 Provincia Manuripi, Manuripi, Provincia Manuripe
@@ -6494,18 +6494,18 @@ Provincia Modesto Omiste, Modesto Omiste, Omiste
 Provincia Moxos, Mojos, Moxos
 Provincia Murillo, Murillo
 Provincia Muñecas, Muñecas
-Provincia Méndez, Méndez
+Provincia Méndez, Mendéz
 Provincia Nicolás Suárez, Nicolás Suárez, Provincia Tahuamanu, Tahuamanu
 Provincia Nor Chichas, Nor Chicas, Nor Chichas, Nor Chinchas
 Provincia Nor Cinti, Cinti, Nor Cinti, Provincia Cinti
 Provincia Nor Lípez, Nor Lípez, Provincia Villa Martín
 Provincia Nor Yungas, Nor Yungas, Nord Yungas
 Provincia O'Connor, Burnet O'Connor, O'Connor
-Provincia Obispo Santistevan, Obispo Santiestevan, Obispo Santistevan, Obispo Santistéban, Provincia Obispo Santiesteban, Provincia Obispo Santisteban, Provincia Santiesteban, Santisteban
+Provincia Obispo Santistevan, Obispo Santiestevan, Obispo Santisteban, Obispo Santistevan, Provincia Obispo Santiesteban, Provincia Obispo Santisteban, Provincia Santiesteban, Santisteban
 Provincia Omasuyos, Omasuyos
 Provincia Oropeza, Oropeza, Provincia Samuel Oropeza, Samuel Oropeza
 Provincia Pacajes, Pacajes
-Provincia Pantaleón Dalence, Dalence, Pantaleon Dalence, Provincia Dalence
+Provincia Pantaleón Dalence, Dalence, Pantaleón Dalence, Provincia Dalence
 Provincia Poopó
 Provincia Punata, Coronel Gualberto Villarroel
 Provincia Quillacollo
@@ -6525,7 +6525,7 @@ Provincia Warnes, Ignacio Warnes, Provincia Ignacio Warnes
 Provincia Yacuma, Yacuma
 Provincia Yamparáez
 Provincia Zudáñez, Jaime Zudáñez, Provincia Jaime Zudáñez
-Provincia Ángel Sandoval, Angel Sandoval, Delegacion Del Oriente, Provincia Sandoval
+Provincia Ángel Sandoval, Delegacion Del Oriente, Provincia Sandoval, Ángel Sandoval
 Provincia Ñuflo de Chávez, Ñuflo de Chávez
 Psui Chanca Loma
 Puca Canto Pampa
@@ -9510,7 +9510,7 @@ Río Toco Tocal
 Río Tocoli
 Río Toconi
 Río Toctora
-Río Todos Santos, Rio Todes Santos, Rio de Todos Santos, Río Todo Santos
+Río Todos Santos, Rio Todes Santos, Rio de Todos Santos, Río Todo santos
 Río Tojlia Jahuira
 Río Tojohuara
 Río Tokerepi
@@ -9891,7 +9891,7 @@ Saraya Pampa
 Sarmuta
 Sartenejal
 Satatchal
-Saucarí, Provincia Saucari
+Saucarí, Provincia Saucarí
 Saucepampa
 Saucini
 Sautu
@@ -10251,7 +10251,7 @@ Tolon Pampa
 Toma Toma Pampa
 Tomave Municipality
 Tomina
-Tomás Barrón, Barron, Provincia Tomás Barron
+Tomás Barrón, Barron, Provincia Tomás Barrón
 Topo Kunka
 Topuri
 Torabe Pampas

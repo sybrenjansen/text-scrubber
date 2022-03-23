@@ -10,7 +10,7 @@
 'Abd Al Khallāq
 'Abd Al Majid
 'Abd Al Malik
-'Abd Allāh, Abdoullah, Abdullah
+'Abd Allāh, 'Abdullah, Abdoullah
 'Abd Allāh 'Alī, 'Abdullah 'Ali
 'Abd Allāh Bashīr, 'Abdullah Beshir, Abdalakh Beshir
 'Abd Allāh Kaḩlī, 'Abdullah Kahl
@@ -117,7 +117,7 @@
 'Awadat
 'Awaḑ Al 'Alim
 'Awaḑ Allah, 'Awadullah
-'Awaḑīyah, 'Awadiya
+'Awaḑīyah, Awadiya
 'Awget el Kheima
 'Awget el Muhhar
 'Awget el Rugeiligaya
@@ -130,7 +130,7 @@
 'Awāma
 'Ayn al Luwayqah, 'Ein el Luweiqa, Ain el Luweiqa, An Al Luweqa, Ein el Lueiqa
 'Aysh Barrah, 'Aish Barra
-'Azāzah, 'Azaza
+'Azāzah, Azaza
 'Azīza
 'Aşīdah, 'Asida
 'Aţmūr
@@ -288,7 +288,7 @@ Abu Halima, Abū Ḩalīmah
 Abu Hayāma
 Abu Hindi
 Abu Jabirah, Abu Gabra, Abū Jabrah, Abū Jabrā
-Abu Jalfa, Ab Jalfa, Abu Galfa, Abu Jalfah
+Abu Jalfa, Ab Jalfa, Abu Galfa, Abū Jalfah
 Abu Jibba
 Abu Jibeha, Abu Gibeyah, Abu Gubeiha, Abu-Gebeiha, Abū Jubayhah
 Abu Jidāda
@@ -1174,7 +1174,7 @@ Al Qoz
 Al Qoz Ḩaj Yusif
 Al Qubbah, El Qubba
 Al Qudayr, El Qudeir
-Al Qulay'ah, El Qulei'a
+Al Qulay'ah, El Quleia
 Al Qulayd Baḩrī, Al Qolid Bahri, El Goled Bahri, El Guleid Bahri, Goled Bahri
 Al Qulayd Qiblī, El Guleid Qibli, Goled Gibli
 Al Quliţiyya
@@ -2472,7 +2472,7 @@ El Muhenna
 El Murr
 El Murraya, Al Murrāyah
 El Mutmar, Mutmir
-El Obeid, 'Ubêd, Al Obayyid, Al-'Obêd, Al-Ubayyid, El Ubeiyad, الأبي
+El Obeid, 'Ubêd, Al Obayyid, Al Ubayyiḑ, Al-'Obêd, El Ubeiyad, الأبي
 El Qal'a
 El Qardud, Al Qurdūd
 El Qaryat
@@ -3588,7 +3588,7 @@ Kadeita, Kadeta
 Kadmu
 Kadodo
 Kadruka
-Kadugli, Kaduqli, كادقلى
+Kadugli, Kāduqlī, كادقلى
 Kadāba
 Kadādah, Kadada
 Kadāyis Aj Jamānla
@@ -3752,7 +3752,7 @@ Kasita
 Kaskeidi
 Kasoleri
 Kassa Karro
-Kassala, Cassala, Kasala, كسلا
+Kassala, Cassala, Kasala, كسل
 Kassāb
 Kassāb ad Dulayb, Kassab ed Dolcib, Kassab ed Doleib
 Kataltak
@@ -3820,7 +3820,7 @@ Khamīsah, Khamisa
 Khanag, Khana, Khannag
 Kharrāţ
 Khartah, Kharta, Kheir Wagid, Umm Gameina
-Khartoum, Al Kharţoum, Al Kharţūm, Al Khurţūm, Cartum, Khartoum Province, Khartoum State, Khartoun, Mudīrīyat Khurţūm, Mudīrīyat al Kharţūm, Wilāyat al Kharţoum, Wilāyat al Kharţūm, الخرطوم, خرطوم, ولاية الخرطوم
+Khartoum, Al Kharţoum, Al Kharţūm, Al Khurţūm, Cartum, Khartoum Province, Khartoum State, Khartoun, Mudīrīyat Khurţūm, Mudīrīyat al Kharţūm, Wilāyat al Kharţoum, Wilāyat al Kharţūm, ااالخرطوم, خرطوم, ولاية الخرطوم
 Khartoum North, Bahri, Khartoum Bahri, بحري
 Kharuba
 Kharīf, Kherif
@@ -5292,7 +5292,7 @@ Singeir
 Singeiwa
 Singerab, As Sanqarab Al Gharb
 Sinkat
-Sinnar, Sannār, Sennaar, Sennar
+Sinnar, Sannār, Sennaar, Sennār
 Sinnayn, Sinnein
 Sinsin
 Sināda
@@ -5832,14 +5832,14 @@ Um'ūd
 Umisi
 Umm 'Abd Allāh, Umm 'Abdullah
 Umm 'Adara
-Umm 'Ajājah, Umm 'Agaga
+Umm 'Ajājah, Umm Agaga
 Umm 'Angareib
 Umm 'Asal
 Umm 'Asalah, Umm 'Asala
 Umm 'Asha
 Umm 'Ishrīn, Umm Irshrein
 Umm 'Iweboat
-Umm 'Usharah, Umm 'Ushara
+Umm 'Usharah, Umm Ushara
 Umm 'Ushayrah, Umm 'Usheira, Umm 'Ushira
 Umm 'Ushūsh, 'Ushush
 Umm 'Uwayd, Umm 'Uweid
@@ -6347,7 +6347,7 @@ Wad ad Dagal, Wad ed Dagal
 Wad aj Jamal
 Wad aj Jamāl al Magharba
 Wad aj Jālib, Wad el Galib
-Wad al 'Abbās, Wad Abhas, Wad el 'Abbās
+Wad al 'Abbās, Wad Abhas, Wad el 'Abbas
 Wad al 'Ajūz
 Wad al 'Amrābi, Wad al 'Umarābī, Wad el 'Umarabi
 Wad al 'Aţāyā
@@ -6501,7 +6501,7 @@ Zakariyya
 Zakfero
 Zalatay, Zalataya, Zalaţāyah
 Zalaţah, Zalata
-Zalingei, Zalinguei, Zalinjay, Zalinje, Zalinji, زالنجي, زالنجي (مدينة)
+Zalingei, Zalinguei, Zalinjay, Zalinje, Zālinjī, زالنجي, زالنجي (مدينة)
 Zallāq
 Zalqa
 Zan Gamat

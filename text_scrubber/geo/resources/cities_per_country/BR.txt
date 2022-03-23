@@ -62,7 +62,7 @@ Aciline
 Acimã
 Acopiara, Affonso Penna, Afonso-Pena
 Acorizal
-Acre, Estado do Acre, Territorio do Acre, Território Federal do Acre
+Acre, AC, Estado do Acre, Territorio do Acre, Território Federal do Acre
 Acrelândia
 Acreúna
 Acu da Torre
@@ -172,7 +172,7 @@ Alagoa
 Alagoa Grande
 Alagoa Nova, Larangeiras
 Alagoado
-Alagoas, Estado de Alagoas
+Alagoas, AL, Estado de Alagoas
 Alagoinha, Campo de Sementes, Tauatuba
 Alagoinha do Piauí
 Alagoinhas
@@ -203,7 +203,7 @@ Alcântara
 Alcântaras
 Alcídio, Fazenda Alcídio
 Aldeamento
-Aldeia, Fazenda Aldeia
+Aldeia, Fazenda da Aldeia
 Aldeia Amanajás Tauaí, Aldeia Amanajaz Tauaí, Aldeia Amanajaz Taudí
 Aldeia Bacaeri
 Aldeia Bacaja
@@ -298,7 +298,7 @@ Algodão de Jandaíra
 Algoinhas
 Alhandra
 Alho
-Alianca, Alança, Alliança
+Alianca, Alança, Allianca
 Aliança Velha
 Aliança do Tocantins
 Aliatar
@@ -473,7 +473,7 @@ Amanaju
 Amaná
 Amapari
 Amaporã
-Amapá, Estado do Amapá, Veiga Cabral
+Amapá, AP, Estado do Amapá, Veiga Cabral
 Amapá do Maranhão
 Amaraji, Amaragi, Amaragy
 Amaraji d'Água, Amaragi d'Água
@@ -494,7 +494,7 @@ Amaro Ribeiro
 Amaro Tempo
 Amarracão
 Amaturá, Amataurá, Maturá
-Amazonas, Estado do Amazonas
+Amazonas, AM, Estado do Amazonas
 Amazônia
 Ambição
 Ambrósio, Ambrãsio
@@ -960,7 +960,7 @@ Arneiroz
 Arnoni
 Aroaba
 Aroazes
-Aroeira, Arueira, Porto Aroeira
+Aroeira, Arueira, Porto da Aroeira
 Aroeira (1)
 Aroeira (2)
 Aroeira Grande
@@ -2217,7 +2217,7 @@ Belmonte, Belomonte
 Belo Banho
 Belo Campo, Campos Bellos
 Belo Cruzeiro
-Belo Horizonte, B.H., Bello Horizonte, Belo Hte, Bhte, Boliche Sêco, Bolicho Seco, Cidade de Minas
+Belo Horizonte, BH, Bello Horizonte, Belo Hte, Bhte, Boliche Sêco, Bolicho Seco, Cidade de Minas
 Belo Hurizonte
 Belo Jardim, Bello Jardim
 Belo Monte, Bela Monte, Bella Monte, Bello Monte
@@ -2787,7 +2787,7 @@ Brejo dos Santos
 Brejolândia
 Brejos das Freiras
 Brejos dos Pachecos
-Brejão, Brejão de Santa Cruz, Fazenda do Brejão
+Brejão, Brejão de Santa Cruz, Fazenda Brejao
 Brejão das Grotas
 Brejões
 Brenha
@@ -3280,7 +3280,7 @@ Caldas Brandão
 Caldas Novas
 Caldazinha
 Caldeiraõ da Cruz
-Caldeirão, Caldeirã, Calderão, Colonia Campo Esperimenta
+Caldeirão, Caldeira, Calderão, Colonia Campo Esperimenta
 Caldeirão (1)
 Caldeirão (2)
 Caldeirão (3)
@@ -3935,7 +3935,7 @@ Caratinga
 Caratuva
 Carauari, Carauary, Caravari, Xibauá
 Caravelas, Caravellas
-Carazinho, Carasinho
+Carazinho, Caràsinho
 Caraã
 Caração de Maria
 Caraí, Carahy
@@ -4038,7 +4038,7 @@ Carneiro dos Medeiro
 Carneiros
 Carniça
 Caro Custou
-Caroalina, Carualina
+Caroalina, Caruálina
 Caroará
 Carobas
 Carobinha
@@ -4290,7 +4290,7 @@ Caém, Cahem, Cahen
 Caí, Foz do Cahy
 Caída d'Água
 Caípe, Coipé
-Ceara, Estado do Ceará
+Ceara, CE, Estado do Ceará
 Ceará Mirim
 Cebolão
 Ceci
@@ -4302,7 +4302,7 @@ Cedro (2)
 Cedro (3)
 Cedro Alto
 Cedro Grande
-Cedro Médio, Rio Cedro Médio
+Cedro Médio, Rio do Cedro Médio
 Cedro de Cima
 Cedro de São João, Darcilena
 Cedro do Abaeté
@@ -5195,7 +5195,7 @@ Craíbas
 Craúna
 Creca
 Crescêncio
-Criciúma, Creciúna, Cresciúma
+Criciúma, Creciúna, Cresciuma
 Criminoso
 Criméia, Criméa, Griméia
 Crioli
@@ -6009,7 +6009,7 @@ Espinho, Várzea do Espinho
 Espinhos
 Espinilho
 Espinosa
-Espirito Santo, Esperito Santo, Estado de Espírito Santo
+Espirito Santo, ES, Esperito Santo, Estado de Espírito Santo
 Espirito Santo (3)
 Esplanada
 Espraiado
@@ -7448,7 +7448,7 @@ Gois
 Goitacaz
 Goitacazes, Goitacases
 Goitizeiro
-Goiás, Goaiz, Goiaz, Goyaz
+Goiás, GO, Goaiz, Goiaz, Goyaz
 Goiânia, Goyania
 Golfo
 Golfos
@@ -7790,7 +7790,7 @@ Hosana
 Hugo Napoleão
 Huitanaã, Hyutanahã
 Hulha Negra, Rio Negra, Uiúna
-Humaitá, Humayta, Umaiba, Umaita
+Humaitá, Humaytá, Umaiba, Umaita
 Humberto
 Humberto Monte
 Humberto de Campos, Miritiba, Miritiba de São José de Piriá
@@ -8606,7 +8606,7 @@ Janguetá
 Janiópolis
 Januária
 Januário
-Januário Cicco, Boa-Saúde, Januário Cico
+Januário Cicco, Boa Saúde, Januário Cico
 Japaratinga
 Japaratuba
 Japaraíba, Povoado de São Simão
@@ -8822,7 +8822,7 @@ Jiquiàzinho
 Jiquiá do Cabutã, Jequiá do Cabuta
 Jiquiá do Fogo
 Jiquiá do Sul, Jiquiá do Sal
-Jirau, Girau, Girão
+Jirau, Giráu, Girão
 Jirau de Capim
 Jitaúna
 Jitirana
@@ -9033,7 +9033,7 @@ João Fabrício
 João Fagundes
 João Felipe, João Filipe
 João Fereira
-João Ferreira, Maloca do João Ferreira, Tohêroa
+João Ferreira, Maloca João Ferreira, Tohêroa
 João Francisco
 João França
 João Gama, João Grama
@@ -9686,7 +9686,7 @@ Lembranca
 Leme
 Leme do Prado, Lemos do Prado
 Lemos
-Lençóis, Lenções, Uzina
+Lençóis, Lençóes, Uzina
 Lençóis Paulista, Lençoes, Ubirama
 Leoberto Leal
 Leocádia
@@ -9934,7 +9934,7 @@ Macapá
 Macaranduba
 Macarani
 Macatuba, Bocayuva
-Macau, Macáo
+Macau, Macao
 Macauari, Macauary, Macavari, Macuari
 Macaubal, Macahubas
 Macauzinho
@@ -10328,7 +10328,7 @@ Marajá do Sena
 Marambaia
 Maranduba
 Maranguape
-Maranhão, Estado do Maranhão, Maranham
+Maranhão, Estado do Maranhão, MA, Maranham
 Maranhãozinho
 Marapanim
 Marape, São Felippe
@@ -10597,7 +10597,7 @@ Mato Dentro
 Mato Feio
 Mato Francês
 Mato Grande
-Mato Grosso, Estado de Mato Grosso, Matto Grosso
+Mato Grosso, Estado de Mato Grosso, MT, Matto Grosso
 Mato Leitão
 Mato Novo
 Mato Preto
@@ -10771,7 +10771,7 @@ Minador de Cima
 Minador do Negrão, Minador do Negro
 Minadouro
 Minas
-Minas Gerais, Estado de Minas Gerais, Minas, Minas Geraes
+Minas Gerais, Estado de Minas Gerais, MG, Minas, Minas Geraes
 Minas Novas
 Minas do Camaqua
 Minas do Leão
@@ -10802,7 +10802,7 @@ Miracatu
 Miracema
 Miracema do Tocantins, Cherente, Miracema do Norte, Sussupara, Xerente
 Mirador
-Miradouro, Santa Rita da Gloria
+Miradouro, Santa Rita do Glória
 Miragem
 Miraguaia
 Miraguaí
@@ -11260,7 +11260,7 @@ Mãe Maria
 Mãe d'Água
 Mãe de Deus
 Mãe do Rio
-Mãe dos Homens, Nossa Senhora Mãe dos Homens do Turvo
+Mãe dos Homens, Nossa Senhora do Mãe dos Homens do Turvo
 Mão Beijada
 Mão Direita
 Méier
@@ -12023,7 +12023,7 @@ Paramano, Paramana, Paromano, Poramana
 Parambu, São Pedro da Cachoeirinha
 Paramirim
 Paramoti
-Parana, Estado do Paraná
+Parana, Estado do Paraná, PR
 Paranacity
 Paranaguaçu, Marco Zero
 Paranaguá
@@ -12062,7 +12062,7 @@ Parauapebas
 Parauará
 Parazinho, Parasinho
 Paraí, Pirat
-Paraíba, Estado da Paraíba, Parahiba do Norte, Parahyba, Parahyba do Norte, Praíba
+Paraíba, Estado da Paraíba, PB, Parahiba do Norte, Parahyba, Parahyba do Norte, Praíba
 Paraíba do Sul, Parahyba do Sul
 Paraíso da Fonseca
 Paraíso da Serra
@@ -12125,7 +12125,7 @@ Parrapato
 Parteiro
 Partidário
 Parujé, Perujé
-Pará, Estado do Pará
+Pará, Estado do Pará, PA
 Pará de Minas
 Paríaso
 Pascoal, Paschoal, Sitio do Paschoal
@@ -12603,7 +12603,7 @@ Perises, Perizes
 Perises de Baixo, Perdizes de Baixo, Perizes de Baixo
 Peritiba
 Peritoró, Piritoró
-Pernambuco, Estado de Pernambuco, Vila de Pernambuco
+Pernambuco, Estado de Pernambuco, PE, Vila de Pernambuco
 Pernambuquinho
 Peroba
 Perobal
@@ -12652,7 +12652,7 @@ Piató
 Piau
 Piaui de Dentro
 Piaus
-Piauí, Estado do Piauí, Piauhy
+Piauí, Estado do Piauí, PI, Piauhy
 Piavoré, Piarore
 Piaçaba
 Piaçabuçu, Piassabussu
@@ -13706,7 +13706,7 @@ Pôrto Primavera
 Pôrto Primeiro de Fevereiro, Pôrto 1 de Fevereiro, Pôrto 1 de Fevreiro
 Pôrto Quebra-Canoas, Porto Teixeira
 Pôrto Quebracho, Pôrto Quebrado
-Pôrto Quinze de Agôsto, Porto Quinze, Pôrto 15 de Agosto
+Pôrto Quinze de Agôsto, Porto Quinze, Pôrto 15 de Agôsto
 Pôrto Quinze de Novembro, Pôrto 15 Novembro, Pôrto 15 de Novembre
 Pôrto Quiqui, Pôrto Kiki
 Pôrto Ribeiro
@@ -13768,7 +13768,7 @@ Pôrto das Pedras
 Pôrto das Pombas
 Pôrto das Éguas
 Pôrto de Cariacica
-Pôrto de Fora, Porto da Fóra
+Pôrto de Fora, Porto do Fora
 Pôrto de Manga
 Pôrto de Santana
 Pôrto de Sauípe, Pôrto Sauípe
@@ -14556,7 +14556,7 @@ Rio das Trainhas
 Rio das Vacas, Rancho das Vacas
 Rio de Areia
 Rio de Contas, Minas Do Rio De Contas
-Rio de Janeiro, Estado do Rio de Janeiro, São Sebastião do Rio de Janeiro
+Rio de Janeiro, Estado do Rio de Janeiro, RJ, São Sebastião do Rio de Janeiro
 Rio de Julio
 Rio do Alho
 Rio do Amaro
@@ -14677,7 +14677,7 @@ Rondominas
 Rondon
 Rondon do Pará
 Rondonópolis, Rodonópolis
-Rondônia, Estado de Rondônia, Estado do Rondônia, Presidente Afonso Pena, Presidente Penna, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé, Vila Rondônia
+Rondônia, Estado de Rondônia, Estado do Rondônia, Presidente Afonso Pena, Presidente Penna, RO, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé, Vila Rondônia
 Ronã
 Roque
 Roque Gonzales, Roque Gonzalez
@@ -14914,7 +14914,7 @@ Salsas
 Salseira, Salceiro
 Salseiro
 Saltinho
-Salto, Fazenda do Salto, Salto do Itú
+Salto, Fazenda Salto, Salto do Itú
 Salto Alegre
 Salto Alto
 Salto Dollman
@@ -15010,7 +15010,7 @@ Santa Bárbara do Sul, Amamberá, Blau Nunes
 Santa Bárbara do Tugúrio
 Santa Carlota
 Santa Carmem
-Santa Catarina, Estado de Santa Catarina, Santa Catharina
+Santa Catarina, Estado de Santa Catarina, SC, Santa Catharina
 Santa Cecilia
 Santa Cecília do Pavão
 Santa Clara, Pedro Américo
@@ -15383,7 +15383,7 @@ Sao José do Timozinho
 Sao Leopoldo
 Sao Louis
 Sao Miguel, Jerônimo Belmonte, São Miguel de Paxituba, São Miguel de Practuba, São Miguel de Pracutuba, São Miguel de Pratuba
-Sao Paulo, Estado de São Paulo, San Paulo, São Paulo capital
+Sao Paulo, Estado de São Paulo, SP, San Paulo, São Paulo capital
 Sao Pedro, Bebedouro de São Pedro, Bebedouuro de São Pedro, Cajutino, Calutino, San Miguel, São Pedro de Viseu
 Sao Valentin
 Sao Vicente, Luisa, Tapera do Vicente
@@ -16210,7 +16210,7 @@ São Bernado
 São Bernardino
 São Bernardo, São Bernardo do Parnahyba
 São Bernardo de Cima
-São Bernardo do Campo, SBCampo
+São Bernardo do Campo, SBC, SBCampo
 São Beuto
 São Boaventura
 São Bonifácio
@@ -16445,7 +16445,7 @@ São José do Vale do Rio Preto
 São José do Xingu
 São José dos Ausentes
 São José dos Basílios
-São José dos Campos, SJ Campos, SJC, SJCampos, Vale Paraiba
+São José dos Campos, SJ Campos, SJC, SJCampos, Vale do Paraíba
 São José dos Canos
 São José dos Cocais
 São José dos Cordeiros, Aredecô
@@ -24252,7 +24252,7 @@ Toca Vaca
 Tocaia, Tocaya
 Tocana
 Tocanguira
-Tocantins, Estado de Tocantins
+Tocantins, Estado de Tocantins, TO
 Tocantins Novo, Tocantins Novos
 Tocantinópolis, Boa Vista Do Tocantins
 Tocantínia, Ipiabanha, Tocantinea
@@ -25320,7 +25320,7 @@ Viúva Halsback, Viúva Holshak
 Viúva Mamédio
 Vola Armação
 Volta
-Volta Grande, Retiro da Volta Grande
+Volta Grande, Retiro Volta Grande
 Volta Mofina
 Volta Redonda, V Redonda
 Volta da Serra

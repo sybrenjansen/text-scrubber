@@ -66,7 +66,7 @@
 'Ein el Warda, עין אל-ורדה, عين وردة
 'Ein el Ḥarīqa, עין אל חריקה
 'Ein el Ḥavarth, 'Ayn al Ḩawārib, 'En el Ḥawarth, עין אל-חורת, عين الحوارب
-'Ein el Ḥufeira, 'Ain el Hufeira, 'Ayn al Ḩafīrī, 'Ayn al Ḩufayrah, עין אל חפירה, عين الحفيرة
+'Ein el Ḥufeira, 'Ain el Ḥufeira, 'Ayn al Ḩafīrī, 'Ayn al Ḩufayrah, עין אל חפירה, عين الحفيرة
 'Ein en Naḥla, עין א נחלה
 'Ein en Naṭuf, עין א נטוף
 'Ein en Nugheimīa, עין א נג'ימיה
@@ -214,7 +214,7 @@
 'En Eshqaf, En Eshkaf, עין אשקף
 'En Eshtori, עין אשתורי
 'En Etan, 'Ein al Manshiyya, עין איתן, עין אל מנשיה
-'En Ga'ton, 'En Eshẖar, 'En Tina, 'Enot Ga'ton, Aïn et Tiné, Ga'aton, עין געתון, עינות געתון
+'En Ga'ton, 'En Eshẖar, 'En Tina, Aïn et Tiné, Enot Ga'ton, Ga'aton, עין געתון, עינות געתון
 'En Gafra, עין גפרה
 'En Gal'ed, עין גלעד
 'En Gamal, עין גמל
@@ -225,7 +225,7 @@
 'En Gazit, 'Ein el Husn, עין גזית
 'En Gaẖam, עין גחם
 'En Gaẖar, עין גחר
-'En Ge Oni, 'En Ge'oni, עין גיא אוני
+'En Ge Oni, En Ge'oni, עין גיא אוני
 'En Gedi, 'Ain Jidi, Ain Jidy, Djidi, Engeddi, Engedi, עין גדי
 'En Geled, 'Ein Jaladāt, עין גלד
 'En Gevul, עין גבול
@@ -289,7 +289,7 @@
 'En H̱uga, עין חוגה
 'En H̱uppanit, עין חפנית
 'En H̱ur, עין חור
-'En H̱usifa, En H̱osefa, עין חוסיפה
+'En H̱usifa, 'En H̱osefa, עין חוסיפה
 'En H̱utra, עין חטרה
 'En Ilan, עין אילן
 'En Ivẕam, עין אבצם
@@ -314,7 +314,7 @@
 'En Lappidot, עין לפידות
 'En Lavan, עין לבן
 'En Levi'a, עין לביאה
-'En Limon, 'En Limor, עין לימון, עין לימור
+'En Limon, En Limor, עין לימון, עין לימור
 'En Livluv, 'Ein el 'Arīs, עין אל עריס, עין לבלוב
 'En Livnim, עין לבנים
 'En Ma'arif, עין מעריף
@@ -514,7 +514,7 @@
 'En Teẖavit, עין טחבית
 'En Tir'an, עין תרען
 'En Tiv'on, עין טבעון
-'En Tiyyun, En Tayyun, עין טיון
+'En Tiyyun, 'En Tayyun, עין טיון
 'En Tofaẖ, עין טופח
 'En Tomer, עין תמר
 'En Tovim, עין טובים
@@ -735,7 +735,7 @@ Arāḑī al Ḩajaf, أراضي الحجف
 Arāḑī al Ḩusaynīyah, أراضي الحسينية
 Arāḑī an Naḩlah, أراضي النحلة
 Arāḑī as Sanābir, أراضي السنابر
-Arāḑī ash Shi'āf, أراضي الشعاف
+Arāḑī ash Shi'āf, اراضي الشعاف
 Arāḑī Ţarīq al Juwayzah, أراضي طريق الجويزة
 Arḍ el 'Arab, Ard el Aarab
 Arḑ Abū Ḩişān, أرض أبو حصان
@@ -1413,7 +1413,7 @@ Gé Haẕav, Gé Hatsav, גיא חצב
 Gé H̱emar, גיא חמר
 Gé Shunit, גיא שונית
 Gé Zoẖalim, גיא זוחלים
-Ha'Arava, 'Arabah, Araba, Arabah Valley, Wadi 'Araba, Wadi el Arab, Wady el Araba, Wādi el 'Araba, Wādī 'Arabah, Wādī al 'Arabah, هعرفا, هَعَرڤا, وادي العرب, وادي العربة, وادي عربة
+Ha'Arava, 'Arabah, Araba, Arabah Valley, Wadi 'Araba, Wadi el Arab, Wady el Araba, Wādi el 'Araba, Wādī 'Arabah, Wādī al 'Arabah, هاعارفا, هَعَرڤا, وادي العرب, وادي العربة, وادي عربة
 Ha'Emeq HaNe'elam, העמק הנעלם
 HaGilboa', Gilboa Regional Council
 HaH̱of Ha'Ironi, החוף העירוני
@@ -1488,10 +1488,10 @@ Har Baharan, הר בהרן
 Har Bar Yoẖay, הר בר יוחאי
 Har Barir, הר בריר
 Har Barqan, הר ברקן
-Har Barūn, Tall Bur'ūm, Tall al Burm, Tell Baraoum, הר בראון, تل البرم, تل برعم
+Har Barūn, Tall Bur'um, Tall al Burm, Tell Baraoum, הר בראון, تل البرم, تل برعم
 Har Basemat, Har Bosmat, Jebel Umm Buṭṭuma, הר בשמת
 Har Batur, הר בתור
-Har Belet, Al Balata, Al Balāţah, البلاطة
+Har Belet, Al Balāţah, Al-Balāṭa, البلاطة
 Har Ben Nesher, הר בן נשר
 Har Ben Ya'ir, Jebel el Qitā'a, הר בן יאיר
 Har Ben Zimra, הר בן זמרה
@@ -1581,7 +1581,7 @@ Har H̱aspas, הר חספס
 Har H̱avaqquq, Har H̱avakkuk, הר חבקוק
 Har H̱azaq, Tall Ḩuzayqah, הר חזק, تل حزيقة
 Har H̱azon, Har Ḥazzur, Jebel Hazzur, הר חזון
-Har H̱aẕera, Har H̱atsera, Jebel el Hadhīra, הר חצרה
+Har H̱aẕera, Har Ḥatsera, Jebel el Hadhīra, הר חצרה
 Har H̱emar, הר חמר
 Har H̱emet, Jebel Hamthīya, הר חמת
 Har H̱en
@@ -1589,7 +1589,7 @@ Har H̱eret, הר חרת
 Har H̱ermonit, Hermonit, Tall ash Shaykhah, Tell ech Cheïkha, Tell esh Sheïkha, הר חרמונית, تل الشيخة
 Har H̱esed, הר חסד
 Har H̱eter, הר חתר
-Har H̱eẕron, Har H̱etsron, Rujm el Baqara, הר חצרון
+Har H̱eẕron, Har Ḥetsron, Rujm el Baqara, הר חצרון
 Har H̱illazon, הר חלזון
 Har H̱iram, Jabal Hiram, הר חירם
 Har H̱iran, הר חירן
@@ -1631,7 +1631,7 @@ Har Magur, הר מגור
 Har Makhbir, Jebel el Mukābarāt, הר מכביר
 Har Malkishua', Malkishua', הר מלכישע
 Har Malkiyya, הר מלכיה
-Har Manor, Tall al Manārah, Tall al-Manāra, הר מנור, تل المنارة
+Har Manor, Tall al Manara, Tall al Manārah, הר מנור, تل المنارة
 Har Marpeq, Har Marpek, הר מרפק
 Har Marzeva, הר מרזבה
 Har Massa, הר משא
@@ -1691,7 +1691,7 @@ Har Pu'a, הר פועה
 Har Qaddarim, Har Kaddarim, הר קדרים
 Har Qadim, Har Kadim, הר קדים
 Har Qal'an, Har Kal'an, הר קלען
-Har Qanna'im, Hakanaim, Har Haganaim, Har Haqanaim, Har Haqannaim, Har Kanna'im, Har Qannu'im, Jebel el 'Areima, חר קנאים
+Har Qanna'im, Hakanaim, Har Haganaim, Har Haqanaim, Har Haqannaim, Har Kanna'im, Har Qannu'im, Jebel el 'Areima, הר קנאים
 Har Qasqassim, Har Kaskassim, הר קשקשים
 Har Qatum, Har Katum, הר קטום
 Har Qemer, Har Kemer, הר קמר
@@ -1819,7 +1819,7 @@ Har Ẕammeret, Har Tsammeret, הר צמרת
 Har Ẕaror, Har Tsaror, הר צרור
 Har Ẕavoa', Har Hatsavoa', Har Tsavoa, Rujm ed Dab'a, הר צבוע
 Har Ẕayyad, Har Hatsaiyad, Har Hatsayad, Har Tsayyad, Rujm el Qannāsiya, הר ציד
-Har Ẕe'elim, Har Tseelim, Rujm Kharazmīya, הר צאלים
+Har Ẕe'elim, Har Tse'elim, Rujm Kharazmīya, הר צאלים
 Har Ẕefaẖot, Har Tsefaẖot, הר צפחות
 Har Ẕefira, Har Tsefira, הר צפירה
 Har Ẕefiyya, Har Tsefiyya, הר ציפיה
@@ -1839,7 +1839,7 @@ Haré 'Anim, הרי ענימ
 Haré 'Ira, הרי עירא
 Haré Dimona, הרי דימונה
 Haré Ef'e, הרי אפעה
-Haré Gilboa', Har HaGilboa, Harei Hagilboa, Jebel Faqqu'a, Mountains of Gilboa', הרי גלבע
+Haré Gilboa', Har HaGilboa, Harei Hagilboa, Jebel Faqqua, Mountains of Gilboa', הרי גלבע
 Haré Govay, Har Govai, Umm Jarād, הרי גובי
 Haré H̱akhlil, הרי חכליל
 Haré H̱atira, Jebel Ḥathīra, הרי חתירה
@@ -2101,7 +2101,7 @@ Ma'alé Elot, מעלה אלות
 Ma'alé Enmar, Ma'bar Enmar, Naqb Abū Inmār, מעלה אנמר
 Ma'alé Gedud, Ma'bar Hagedud, Naqb Khamīs, מעלה גדוד
 Ma'alé Gishron, מעלה גשרון
-Ma'alé Ha'Aẕma'ut, Ma'alé Ha'Atsma'ut, מעלה העצמאות
+Ma'alé Ha'Aẕma'ut, Ma'ale Ha'atsmaut, מעלה העצמאות
 Ma'alé HaMeshar, מעלה המישר
 Ma'alé HaNaẖash HaẔame, Ma'alé HaNaẖash HaTsame, מעלה הנחש הצמא
 Ma'alé H̱emar, מעלה חמר
@@ -2145,8 +2145,8 @@ Makhāḑat Turaykhim, Makhādat Tureikhim, مخاضة تريخم
 Makhāḑat Umm aş Şīşān, مخاضة ام الصيصان
 Makhāḑat Zawr Kan'ān, Makhadat Zor Kan'an, مخاضة زور كنعان
 Makhāḑat Zawr al Maţāmīr, Makhadat Zor al Matamir, مخاضة زور المطامير
-Makhāḑat al Qaţaf, Ma'avar Qataf, Makhaḍat el Qaṭaf, מח'דת א קטף, מעבר קטף, مخاضة الفطف
-Makhāḑat ash Shaykh Qāsim, Ma'avar Or, Makhaḍat Sheikh Qasim, מח'דת שיח קסם, מעבר אור, مخاضة الشيخ قاسم
+Makhāḑat al Qaţaf, Ma'avar Qataf, Makhāḍat el Qaṭaf, מח'דת א קטף, מעבר קטף, مخاضة الفطف
+Makhāḑat ash Shaykh Qāsim, Ma'avar Or, Makhadat Sheikh Qasim, מח'דת שיח קסם, מעבר אור, مخاضة الشيخ قاسم
 Makhāḑat aş Şaghīr, مخاضة الصغير
 Manqa' az Zayyāt, منقع الزيات
 Manzil Khamīs, منزل خميس
@@ -2244,7 +2244,7 @@ Miẕpé Resh Laqish, Mitspé Resh Lakish, מצפה ריש לקיש
 Miẕpé Sayyarim, Mitspé Sayyarim, מצפה סירים
 Miẕpé Zohar, Khashm al-Bāb, Khashm el Bāb, Mitspé Ze'ira, Mitspé Zohar, מצפה זהר, خشم الباب, Ḫašm al-Bāb
 Mount Carmel, Carmelus, Elijah's Mount, Har Hakarmel, Har Karmel, Jebel Kurmul, Jebel Mār Elyās, Jebel el Karmel, Karmēlos, הר כרמל, כרמל, جبل الكرمل
-Mount Hermon, Har H̱ermon, Haramoun, Hermon, Jabal al Thalj, Jabal ash Shaykh, Jebel Cheïkh, Jebel ech Cheïkh, Jebel esh Sheikh, Jebel eth Thelj, Mount Herman, הר חרמון, جبل الشيخ, حرمون, Ḩarmūn
+Mount Hermon, Har H̱ermon, Haramoun, Hermon, Jabal al Thalj, Jabal ash Shaykh, Jebel Cheïkh, Jebel ech Cheïkh, Jebel esh Sheikh, Jebel eth Thelj, Mount Herman, הר חרמון, جبل الشيخ, هرمون, Ḩarmūn
 Mount Tabor, Har Taver, Har Tavor, Har Tāḇôr, Jebel et Tūr, הר תבור
 Mount Zion, Har Tsiyyon, Jabal Sahyoun, جبل صهيون
 Mughayr Wāsiţ, مغير واسط
@@ -2552,7 +2552,7 @@ Naẖal H̱aẕaẕim, Abū Iḥṣaiyāt, Naẖal H̱atsatsim, Naẖal H̱aẕ�
 Naẖal H̱aẕera, Naẖal H̱atsera, נחל חצרה, Ḥatsera
 Naẖal H̱aẕerim, Abu Isder, Naẖal H̱atserim, Raqiq, נחל חצרים
 Naẖal H̱aẕeva, Iqṭifī, Naẖal H̱atseva, נחל חצבה, Ḥatseva
-Naẖal H̱aẕor, Naẖal H̱atsor, Ouadi ech Chababik, Shababik, Waqqas, נחל חצור
+Naẖal H̱aẕor, Naẖal Hatsor, Ouadi ech Chababik, Shababik, Waqqas, נחל חצור
 Naẖal H̱emar, Wādī al Muḩawwaţ, נחל חמר
 Naẖal H̱emda, Abū Hamdā, נחל חמדה
 Naẖal H̱ermon, Banias River, Banvasi, Banyas, Nahr Banias, Nahr Bāniyās, Nahr el Bānyāsī, נחל חרמון, نهر بانياس
@@ -2747,7 +2747,7 @@ Naẖal Peraẕim, Naẖal Peratsim, Peratsim, נחל פרצים
 Naẖal Peres, Farsh, Paros, נחל פרס
 Naẖal Peẖami, Faḥḥām, Hapehami, נחל פחמי
 Naẖal Peẖar, Fukhkhārī, נחל פחר
-Naẖal Poleg, Falik, Nahr al-Fāliq, Nahr el Fāliq, Poleg Stream, נחל פולג, ناحر بوليغ, نهر الفالق, نهر بوليج, نهر بوليچ, وادي فوليج
+Naẖal Poleg, Falik, Nahr al-Fāliq, Nahr el Fāliq, Poleg Stream, נחל פולג, نهر الفالق, نهر بوليج, نهر بوليغ, نهر بوليچ, وادي فوليج
 Naẖal Poriyya, נחל פוריה
 Naẖal Pukh, נחל פוך
 Naẖal Qadim, Naẖal Kadim, נחל קדים
@@ -2913,7 +2913,7 @@ Naẖal Sira, Inteishī, נחל סירה
 Naẖal Sirpad, נחל סרפד, Ḥarayiq
 Naẖal So'a, נחל סועה
 Naẖal Sod, נחל סוד
-Naẖal Soreq, Nahal Shorek, Nahal Shōrēq, Nahr Rubin, Naẖal Sorék, Sorek, Soreq, Wady Surar, Wādi es Sarār, נחל שורק, نهر روبين, وادي الصرار, وادي روبين, وادي سوريك, وادي شوريك
+Naẖal Soreq, Nahal Shorek, Nahal Shōrēq, Nahal Sorek, Nahr Rubin, Sorek, Soreq, Wady Surar, Wādi es Sarār, נחל שורק, نهر روبين, وادي الصرار, وادي روبين, وادي سوريك, وادي شوريك
 Naẖal Sovekh, Shovekh, Umm Isbīkhā, נחל סבך
 Naẖal Susi, נחל סוסי
 Naẖal Ta'nakh, נחל תענך
@@ -3208,7 +3208,7 @@ Sde Paqqu'a, Eth Theiqa, Sede Paqqu'a, Sede Paqu'a
 Sde Ẕin
 Sea of Galilee, Bahr Tabariyeh, Bahr Tubaria, Bahr Tubariya, Buḩayrat Ţabarīyā, Lac de Gennésareth, Lac de Tibériade, Lake Tiberias, Lake of Gennesaret, Sea of Tiberias, Sea of kinnereth, Yam Kinneret, ים כנרת, بحيرة طبريا
 Sedom, Rabat Ashlag Dromit, Sdom, Sodom, סדום
-Sela' Andromeda, Andromeda's Rock, סלע אנדרומדה
+Sela' Andromeda, Andromedas Rock, סלע אנדרומדה
 Sha'anan, שאנן
 Sha'ar HaGay, Bab al Wad, Bab el-Oued, Bāb al-Wādī, Bāb el Wād, Gate of the Valley, Sha'a Hagai, Sha'ar Hagai, Sha'ar Haggai, בב אל וד, שער הגיא, باب الواد, باب الوادي, شاعر هجاي
 Sha'ar Ramon, שער רמון
@@ -3229,7 +3229,7 @@ Sheluẖat Karkom, Khashm el 'Ideid, Sheluhat Geshur, שלוחת כרכם
 Sheluẖat Mishlatim, שלוחת משלטים
 Sheluẖat Moẖila, שלוחת מוחילה
 Sheluẖat Naqqar, Sheluẖat Nakkar, שלוחת נקר
-Sheluẖat Noẕa, Sheluhat Notsa, שלוחת נוצה
+Sheluẖat Noẕa, Sheluẖat Notsa, שלוחת נוצה
 Sheluẖat Qadesh Barnea', Sheluẖat Kadesh Barnea, שלוחת קדש ברנע
 Sheluẖat Qeren, Kash, Khashm el Mamdūd, Khashm el Memdud, Sheluẖat Keren, שלוחת קרן
 Sheluẖat Qovi, Sheluẖat Kovi, שלוחת קובי
@@ -3265,9 +3265,9 @@ Shmurat 'Ashosh, 'Ashosh Reserve, Shemurat 'Ashosh, שמורת עשוש
 Shmurat 'Atlit, Shemurat 'Atlit, שמורת עתלית
 Shmurat 'Ein Jinda, Shemurat 'Ein Jinda, שמורת עין ג'ינדה
 Shmurat 'En Afeq, Bizzat Afeq Reserve, Shemurat 'En Afeq, Shemurat Bizzat Afeq, שמורת בצת אפק, שמורת עין אפק
-Shmurat 'En Awwazim, Shemurat 'En Awwazim, שמורת עין אוזים
+Shmurat 'En Awwazim, Shemurat En Awwazim, שמורת עין אוזים
 Shmurat 'En Bedolaẖ, Shemurat 'En Bedolaẖ, שמורת עין בדולח
-Shmurat 'En Ela, Shemurat 'En Ela, שמורת עין אלה
+Shmurat 'En Ela, Shemurat En Ela, שמורת עין אלה
 Shmurat 'En Gedi, 'En Gedi Reserve, Shemurat 'En Gedi, שמורת עין גדי
 Shmurat 'En Gonen Wadi H̱amdi, Shemurat 'En Gonen, Shemurat 'En Gonen Wadi H̱amdi, שמורת עין גונן, שמורת עין גונן ואדי חמדי
 Shmurat 'En Malqoaẖ, 'En Malqoaẖ Reserve, Shemurat 'En Malqoaẖ, שמורת עין מלקוח
@@ -3719,7 +3719,7 @@ Telem 'Eshet, תלם עשת
 Telem Ẕenifim, חלם צניפים
 Telem Ẕiẖor, תלם ציחור
 Tell Abu Hawam
-Tell Maghārat Ghazza, Tel Ma'erat Ezza, תל מע'רת ע'זה, תל מעירת עיזה
+Tell Maghārat Ghazza, Tel Ma'erat 'Ezza, תל מע'רת ע'זה, תל מעירת עיזה
 Tell el 'Arāis, Tall el Aarais
 Thamīlet 'Eteq, Thamīlet Etek, ת'מילת עתק
 The Independence Park, Gan Ha'Atsma'ut, Gan Ha'Aẕma'ut, גן העצמאות
@@ -3779,7 +3779,7 @@ Wādī Tal'at 'Uyūn, Ouâdi Telaat Aayoûn
 Wādī Umm Ratām, ודי אם רתם
 Wādī Umm Zaḩlīq, Ouâdi Oumm Zehleg, Ouâdi Oumm Zehleq, Wādī Umm Zaḩlaq, وادي أم زحليق
 Wādī Umm al 'Amad, Wādī Um el 'Amad
-Wādī Umm al 'Udays, 'Adashim, Naẖal Adasha, Umm el 'Udeis, Wadi Umm al 'Udeis, נחל עדשה
+Wādī Umm al 'Udays, 'Adashim, Naẖal 'Adasha, Umm el 'Udeis, Wadi Umm al 'Udeis, נחל עדשה
 Wādī Ya'fūrī, Odi Yaafoûri, Ouâdi Yaafoûri, وادي يعفوري
 Wādī Zaymar, Naẖal Shekhem, Zeimar, נחל שכם
 Wādī ad Dabbūs, وادي الدبوس
@@ -3946,7 +3946,7 @@ Z̧uhayrat al Ḩumayrah, ظهيرة الحميرة
 Ḩulaywah, حليوة
 Ṭūr en Nimr, טור א-נמר
 Ẕinnim, El Kheya, Hatsinim, Hatsinnim, Tsinnim, צנים
-Ẕomeẖa, Tsomeha, Tsomeiha, Tzomeha, צומחה
+Ẕomeẖa, Tsomeiha, Tsomeẖa, Tzomeha, צומחה
 Ẕuq Livnit, Tsuk Livnit, צוק לבנית
 Ẕuq Tamrur, Tsuk Tamrur, צוק תמרור
 Ẕuqi 'Avrona, Tsuki Avrona, צוקי עברונה

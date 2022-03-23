@@ -43,7 +43,7 @@ Aghbai Qarabodom, Pereval Karabadam
 Aghbai Qolo'khon, Pereval Koloikhon, Pereval Kolvakhon
 Aghbai Rabut
 Aghbai Rarz
-Aghbai Rosht-Chirkŭtal, Aghabai Rosht-Jirkŭtal, Pereval Rosht-Zhirkutal, Ағбаи Ришт Чиркӯтал, Ағбаи Рошт-Ҷиркӯтал, Рошт-Ҷиркӯтал
+Aghbai Rosht-Chirkŭtal, Aghabai Rosht-Jirkŭtal, Pereval Rosht-Zhirkutal, Rosht-Jirkŭtal, Ағбаи Ришт Чиркӯтал, Ағбаи Рошт-Ҷиркӯтал
 Aghbai Sarimerghali, Pereval Sarymergali
 Aghbai Shahriston, Pereval Shakhristan, Schachristan Pass
 Aghbai Shitkharv
@@ -77,7 +77,7 @@ Alichur
 Alichuri Janubi, Alichuri Janubiy, Alichurskiy Khrebet, Bol'shoy Pamir, Great Pamir, Khrebet Yuzhno-Alichurskiy
 Alichurskaya Dolina
 Altykul', Alty-Kol
-Amaqsoy, Amakhsoy, Amaksoy
+Amaqsoy, Amaksoy, Амахсой
 Anderavdzh
 Angar, Angor
 Aqchaku Tog'
@@ -116,7 +116,7 @@ Bakmaltepa Tog'i
 Balandkiik
 Balgin, Balgyn
 Balyandkiik, Bilyand-kiik
-Barchuvdara, Badzhu-Dara, Badzhuv, Bajuvdara
+Barchuvdara, Badzhu-Dara, Badzhuv, Баҷувдара
 Bardara
 Bartang
 Baygashka
@@ -389,7 +389,7 @@ Guzdur
 Guzraut
 Gŭshkhun, Pereval Gushkhon
 Hazorchashma
-Hazrati Shoh, Khrebet Khazratishokh, Khrebet Khazretishi, Khrebet Khozretishi, Қаторкӯҳи Ҳазрати Шоҳ, Ҳаэрати Шоҳ
+Hazrati Shoh, Khrebet Khazratishokh, Khrebet Khazretishi, Khrebet Khozretishi, Qatorkŭhi Hazrati Shoh, Ҳаэрати Шоҳ
 Hisor Tizmasi, Gissar Mountains, Gissarskiy Khrebet, Khrebet Gissarski, Qatorkŭhi Hisor
 Ichagly
 Ilyak, Jiyak
@@ -402,10 +402,10 @@ Ishkashimskiy Rayon
 Iskandardaryo, Iskanderdar'ya, Искандардарё
 Iskodar, Iskadar
 Ispan
-Istaravshan District, Hoҳияи Ӯротеппа, Istaravshan, Nohiyai Ŭroteppa, Ŭroteppa
+Istaravshan District, Hoҳияи Ӯротеппа, Istaravshan, Nohiyai Ŭroteppa, Ӯротеппа
 Istik
 Janubiy Isfara Kanali
-Jirgatol, Jirgatol District, Ноҳияи Ҷирғатол, Ҷирғатол
+Jirgatol, Jirgatol District, Nohiyai Jirghatol, Ҷирғатол
 Jizevdara
 Jorf, Dzhorf
 Jugcha Kanali
@@ -710,44 +710,44 @@ Nichke-Dzhilga
 Nimos, Nemats
 Nispar
 Nohiyai Abdurahmoni Jomí, Abdurahmoni Jomí, Dzhami District, Hoҳияи Абдураҳмони Ҷомӣ, Jomi District
-Nohiyai Asht, Asht, Hoҳияи Ашт
-Nohiyai Ayni, Aini District, Ayni, Ayni District, Hoҳияи Айни
-Nohiyai Baljuvon, Baljuvon, Baljuvon District, Hoҳияи Балҷувон
+Nohiyai Asht, Hoҳияи Ашт, Ашт
+Nohiyai Ayni, Aini District, Ayni District, Hoҳияи Айни, Айни
+Nohiyai Baljuvon, Baljuvon District, Hoҳияи Балҷувон, Балҷувон
 Nohiyai Bobojon Ghafurov, Bobojon Ghafurov, Ghafurov District, Hoҳияи Бобоҷон ғафуроь, Nohiya-i Ghafurov, Бобоҷон ғафуроь, Ноҳияи Ғафуров
-Nohiyai Danghara, Danghara District, Данғара
+Nohiyai Danghara, Danghara, Danghara District
 Nohiyai Darvoz, Darvoz District
 Nohiyai Farkhor, Farkhor, Farkhor District
-Nohiyai Firdavsí, Фирдавсӣ
+Nohiyai Firdavsí, Firdavsí
 Nohiyai Ghonchí, Ganchi District, Ghonchi District, Ghonchí, Hoҳияи Ғончи
-Nohiyai Hamadoní, Hamadoni District, Hamadoní, Moskovskiy District
+Nohiyai Hamadoní, Hamadoni District, Moskovskiy District, Ҳамадонӣ
 Nohiyai Hisor, Hоҳияи Ҳисор, Ҳисор
 Nohiyai Isfara, Hoҳияи Исфара, Isfara District, Исфара
-Nohiyai Ishqoshim, Ishkoshim District, Ишқошим
-Nohiyai Ismoili Somoní, Исмоили Сомонӣ
+Nohiyai Ishqoshim, Ishkoshim District, Ishqoshim
+Nohiyai Ismoili Somoní, Ismoili Somoní
 Nohiyai Jabbor Rasulov, Hoҳияи Ҷаббор Расупоь, Jabbor Rasulov, Jabbor Rasulov District, Ҷаббор Расупоь
 Nohiyai Jilikŭl, Jilikul District, Jilikŭl
 Nohiyai Khovaling, Khovaling, Khovaling District
-Nohiyai Khuroson, Ghozimalik District, Khuroson, Khuroson District
-Nohiyai Kofarnihon, Hоҳияи Кофарниҳон, Kofarnihon, Vakhdat
+Nohiyai Khuroson, Ghozimalik District, Khuroson District, Хуросон
+Nohiyai Kofarnihon, Hоҳияи Кофарниҳон, Kofarnihon, Вахдат
 Nohiyai Kolkhozobod, Kolkhozobod, Rumi District
-Nohiyai Konibodom, Hoҳияи Кoнибодом, Konibodom District, Кoнибодом
-Nohiyai Kushoniyon, Bokhtar, Bokhtar District, Kushoniyon, Кӯшониён, Ноҳияи Бохтар, ноҳияи Кӯшониён
-Nohiyai Kŭlob, Kulob District, Kŭlob
-Nohiyai Mastchoh, Hoҳияи мастчоҳ, Mastchoh district, мастчоҳ
+Nohiyai Konibodom, Hoҳияи Кoнибодом, Konibodom, Konibodom District
+Nohiyai Kushoniyon, Bokhtar District, Kushoniyon, Бохтар, Кӯшониён, Ноҳияи Бохтар, ноҳияи Кӯшониён
+Nohiyai Kŭlob, Kulob District, Кӯлоб
+Nohiyai Mastchoh, Hoҳияи мастчоҳ, Mastchoh, Mastchoh district
 Nohiyai Murghob, Murghob District, Nohiya-i Murghob
 Nohiyai Mŭ'minobod, Muminobod District, Mŭ'minobod
-Nohiyai Nosiri Khusrav, Beshkent District, Nosiri Khusrav, Nosiri Khusrav District
-Nohiyai Nurobod, Hоҳияи Нуробод, Nurobod
+Nohiyai Nosiri Khusrav, Beshkent District, Nosiri Khusrav District, Носири Хусрав
+Nohiyai Nurobod, Hоҳияи Нуробод, Нуробод
 Nohiyai Panj, Panj, Panj District
-Nohiyai Panjakent, Hoҳияи Панҷакент, Panjakent, Panjakent District
+Nohiyai Panjakent, Hoҳияи Панҷакент, Panjakent District, Панҷакент
 Nohiyai Qubodiyon, Qabodiyon District, Qubodiyon, Ноҳияи Қабодиён, Ноҳияи Қубодиён, Қубодиён
 Nohiyai Rasht, Рашт
-Nohiyai Rūdakí, Hоҳияи Рӯдакӣ, Рӯдакӣ
+Nohiyai Rūdakí, Hоҳияи Рӯдакӣ, Rūdakí
 Nohiyai Rŭshon, Rushon District, Рӯшон
 Nohiyai Sarband, Sarband District, Сарбанд
-Nohiyai Shahrinav, Hоҳияи Шаҳринав, Шаҳринав
+Nohiyai Shahrinav, Hоҳияи Шаҳринав, Shahrinav
 Nohiyai Shahritus, Shahrtuz District, Ноҳияи Шаҳртуз, Шаҳритус
-Nohiyai Shohmansur, Shoh Mansur, Shohmansur, Ноҳияи Роҳи Оҳан, Ноҳияи Шоҳ Мансур
+Nohiyai Shohmansur, Nohiyai Rohi Ohan, Nohiyai Shoh Mansur, Shoh Mansur, Shohmansur
 Nohiyai Shughnon, Shughnon, Shughnon District
 Nohiyai Sino, Sino
 Nohiyai Spitamen, Hoҳияи Спитамен, Spitamen, Spitamen District
@@ -758,7 +758,7 @@ Nohiyai Tursinzada, Hоҳияи Турсунзода, Tursinzada, Турсунз
 Nohiyai Vakhsh
 Nohiyai Vanj, Vanj District
 Nohiyai Varzob
-Nohiyai Vose', Vose', Vose' District
+Nohiyai Vose', Vose' District, Восеъ
 Nohiyai Yovon, Yovon, Yovon District, Ёвон, Ноҳияи Ёвон
 Nohiyai Zafarobod, Hoҳияи Зaфapoбoд, Zafarobod, Zafarobod District, Zafarobodskiy Rayon, Зaфapoбoд
 Norak, Norak District, Nurek, Ноҳияи Норак
@@ -1090,7 +1090,7 @@ Qullai Arnavad, Pik Arnavad
 Qullai Balandkiik, Pik Bilyand-Kiik
 Qullai Beleuli, Pik Beleuli
 Qullai Gach, Pik Muzkol'skiy, Pik Severnyy Muz-Kol
-Qullai Hazrati Shoh, Gora Khazratishokh, Gora Khazretishi, Gora Khozratishokh, Qullai Khozratishokh, Қуллаи Ҳаэратишоҳ
+Qullai Hazrati Shoh, Gora Khazratishokh, Gora Khazretishi, Gora Khozratishokh, Қуллаи Хозратишох, Қуллаи Ҳаэратишоҳ
 Qullai Mayakovskiy, Pik Mayakovskogo
 Qullai Mazori Khojai Turkak, Gora Mazorikhodzhanturkak
 Qullai Ofitseroni Sobetí, Pik Sovetskikh Ofitserov
@@ -1111,7 +1111,7 @@ Rakzoy, Ракзоу
 Ram
 Rangkŭl, Ozero Rangkul', Rang Köl
 Rarz
-Ravmeddara, Raumit-Dara, Ravmaddara
+Ravmeddara, Raumit-Dara, Равмаддара
 Rejigh, Redzhig
 Republic of Tajikistan, Jumhurii Tojikiston, Tadjikistan, Tadzhik Soviet Socialist Republic, Tadzhikskaya Sovetskaya Sotsialisticheskaya Respublika, Tajik Soviet Socialist Republic, Tajikistan, Tojikiston
 Rivakkŭl, Ozero Rivan-Kul'
@@ -1325,7 +1325,7 @@ Vauzid
 Verkhniy Dushanbinskiy Kanal
 Veshab
 Viloyati Khatlon, Хатлон
-Viloyati Sughd, Leninabad Oblast, Leninabadskaya Oblast', Leninobod, Sughd, Viloyati Leninobod, Согдийская область
+Viloyati Sughd, Leninabad Oblast, Leninabadskaya Oblast', Leninobod, Viloyati Leninobod, Согдийская область, Суғд
 Vishkent, Vishken
 Vodii Mastchoh, Matchinskaya Dolina
 Vodokhranilishche Mogilka

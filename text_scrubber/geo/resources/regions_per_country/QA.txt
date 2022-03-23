@@ -31,7 +31,7 @@
 'Ayn Muḩammad - Umm Samīrah, عين محمد - أم سميرة
 'Ayn Muḩammad - Umm al Judayrāt, عين محمد - أم الجديرات
 'Ayn Rabī'ah, عين ربيعة
-'Ayn Rāshid, Qulām, عين راشد, كَلَم
+'Ayn Rāshid, Kalam, Qulām, عين راشد
 'Ayn Salmān, عين سلمان
 'Ayn Sinān, Ain Sanān, Ain Sinan, عين سنان
 'Ayn Umm Kharīf, Ain Umm Khanif, Ain Umm Kharif, عَيْن أُمّ خَرِيف
@@ -70,7 +70,7 @@
 'Uqlat al Manāşīr, عقلة المناصير
 'Uqlat ar Rimth, عقلة الرمث
 'Uraydah, عريدة
-'Uwaynat 'Āmir, Ain Amr, روضة عوينة عامر, عَيْن عَمْر, عُوَيْنَة عَامِر
+'Uwaynat 'Āmir, 'Ayn 'Amr, Ain Amr, روضة عوينة عامر, عُوَيْنَة عَامِر
 'Uwaynat Abū 'Īsá, عوينة أبو عيسى
 'Uwaynat Bin Ḩusayn, 'Awainat Bin-Hasain, 'Uwaynat Ibn Ḩusayn, Uwainat Ibn Husain, عُوَيْنَة بِن حُسَيْن
 'Uwaynat Bū Ḩusayn, عوينة بو حسين
@@ -169,7 +169,7 @@ Abā aş Şulaylāt, أبا الصليلات
 Abā aş Şūf, أبا الصوف
 Abā aḑ Ḑaw', أبا الضؤ
 Abū 'Akrash al Qumayrīyah, أبو عكرش القميرية
-Abū 'Anz, ابو عنز
+Abū 'Anz, أبو عنز
 Abū 'Arqah, أبو عرقة
 Abū 'Arīn, أبو عرين
 Abū 'Awdayn, أبو عودين
@@ -185,7 +185,7 @@ Abū 'Uwaynah, أبو عوينة
 Abū 'Uḑaybah, أبو عضيبة
 Abū 'Āliyah, أبو عالية
 Abū Bunaybirah, أبو بنيبرة
-Abū Buraykah, أم القهاب, ابو بريكة
+Abū Buraykah, أبو بريكة, أم القهاب
 Abū Buraykah al Janūbī, أبو بريكة الجنوبي
 Abū Buraykah ash Shamālī, أبو بريكة الشمالي
 Abū Dirwāzah, أبو دروازة
@@ -328,7 +328,7 @@ Al 'Akrash, العكرش
 Al 'Akrash an Nafāfīs, العكرش النفافيس
 Al 'Aljān, العلجان
 Al 'Amārah, العمارة
-Al 'Araş, 'Araş, 'Arus, العرص
+Al 'Araş, 'Arus, العرص, عَرَص
 Al 'Asharā, العشرا
 Al 'Atrashī, العترشي
 Al 'Ayn al Ḩulwah, العين الحلوة
@@ -359,7 +359,7 @@ Al Abharīyah, الأبهرية
 Al Afjah, اَلأَفْجَة
 Al Aswāq, الأسواق
 Al Athārīyah, Latariyah, اَلأَثَارِيَّة
-Al Aşba'ah, Asba'ah, Asba'ah Bis, الأصبعة
+Al Aşba'ah, Asba'ah Bis, أَسْبَأَة, الأصبعة
 Al Bambarah, Al Bambara, اَلْبَمْبَرَة
 Al Baqarah, البقرة
 Al Barthah, البرثة
@@ -656,7 +656,7 @@ Ar Ruwayḑ ash Sharqī, الرويض الشرقي
 Ar Ruwayḑah, الرويضة
 Ar Ruwayḑāt, الرويضات
 Ar Ruwayḑāt adh Dhakhīrah, الرويضات الذخيرة
-Ar Ruḩayyah, Rīyah, الرحية
+Ar Ruḩayyah, الرحية, رِيَّة
 Ar Rāshī, Al Rashi, Raki, اَلرَّاشِي
 Ar Rāḩah, الراحة
 As Sa'd, السعد
@@ -826,7 +826,7 @@ Bi'r al Ḩimārah, بئر الحمارة
 Bi'r al Ḩuşayn, Bir Hussain, بِئْر الحُصَيْن
 Bi'r as Suwayḩilīyah al Gharbīyah, بئر السويحلية الغربية
 Bilād Ibrāhīm, Balad Ibrahim, Ibrāhīm, بِلاَد إِبْرَاهِيم
-Bin Ghārah, Abungharah, Abū Bin Ghārah, بن غارة
+Bin Ghārah, Abū Bin Ghārah, أَبُنْغَرَة, بن غارة
 Bin Ghārat 'Arş, بن غارة عرص
 Birak al 'Azzūz, برك العزوز
 Birak as Sūdān, برك السودان
@@ -915,7 +915,7 @@ Ghubayy aḑ Ḑaw' al Qiblī, غبي الضؤ القبلي
 Ghubayy aḑ Ḑaw' ash Sharqī, غبي الضؤ الشرقي
 Ghuwayr aḑ Ḑabbān, غوير الضبان
 Ghāf Makīn, غاف مَكِين, غَاف مَكِين
-Ghāf Ummahāt 'Anz, Ghaf umhat Anz, غَاف أُمَّهَات عَنْز
+Ghāf Ummahāt 'Anz, Ghaf Umahat Anz, Ghaf umhat Anz
 Ghāf Ḩajar al 'Urayq, غاف حجر العريق
 Ghāfat al Buşayyir, Ghāfat al Buşayr, غافة البصير
 Ghāfat ar Rukayy, غافة الركي
@@ -1236,7 +1236,7 @@ Kharījat al Masḩabīyah, خريجة المسحبية
 Khashm an Nakhsh, Khashm an Nukhsh, Khashm en Nakhsa, خشم النخش, خَشْم اَلنَّخْش
 Khasārah, خسارة
 Khawr Shaqīq, خَوْر شَقِيق
-Khawr al 'Udayd, Khawr al 'Uwayd, Khawr al Wuţayd, Khor al 'Udeid, Khor al Odaid, Khor al Odeid, Khor al Ubeid, Khor al Wutaid, Khor al-'Udaid, خَوْر اَلْعُدَيْد
+Khawr al 'Udayd, Khawr al 'Uwayd, Khawr al Wuţayd, Khor al 'Udaid, Khor al Odaid, Khor al Odeid, Khor al Ubeid, Khor al Wutaid, Khor al- 'Udeid, خَوْر اَلْعُدَيْد
 Khaznat Umm az Zabad, خزنة أم الزبد
 Khujayj Munīrah, خجيج منيرة
 Khujayj Quraymishān, خجيج قريمشان
@@ -1591,9 +1591,9 @@ Ra's 'Ushayriq, Ra's 'Ushayrij, Ras 'Ashairiq, Ras Ashairik, Ras Ushairij, رأ�
 Ra's 'Uwaynat 'Alī, Ra's 'Uwaynat ash Shuyūkh, Ra's 'Uwaynāt, Ras Awainat Ali, Ras Uwainat Ali, رَأْس عُوَيْنَة عَلِي
 Ra's 'Uşayrīf, رأس عصيريف
 Ra's Abrūq, Ra's Burūk, Ra's al Burūq, Ras Abaruk, Ras Aburūk, رأس أبروق, رأس بروك, رَأْس أَبْرُوق
-Ra's Abū 'Abbūd, Ras Abu 'Aboud, Ras Abu Abboud, Ras Abu Abūd, Ras Bu Abút, رَأْس أَبُو عَبُّود
+Ra's Abū 'Abbūd, Ras Abu 'Aboud, Ras Abu Abboud, Ras Abu Abūd, Ras Bu Abut, رَأْس أَبُو عَبُّود
 Ra's Abū Falītah, رأس أبو فليتة
-Ra's Abū Mashūţ, Fasht Abū al Mushūt, Ra's Abū al Mashūţ, Ra's Abū al Mushūţ, Ra's Abū al Mūshaţ, Ras Abu al Mishūt, Ras Abul Mushut, Ras Bu Mushut, Rās Abul Mashūt, رَأْس أَبُو مَشُوط
+Ra's Abū Mashūţ, Fasht Abū al Mushūt, Ra's Abū al Mashūt, Ra's Abū al Mushūţ, Ra's Abū al Mūshaţ, Ras Abu al Mishūt, Ras Abul Mushut, Ras Bu Mushut, Rās Abul Mashūt, رَأْس أَبُو مَشُوط
 Ra's Abū Qarn, Ra's Yamāz, رأس أبو قرن
 Ra's Abū aţ Ţa'ām, Abu Ta'am, Rās Abut Ta'ām, رَأْس أَبُو اَلطَّعَام
 Ra's Barqat al Jarājīr, رأس برقة الجراجير
@@ -1619,7 +1619,7 @@ Ra's Umm Ḩīsh, Ras Imhish, رَأْس أُمّ حِيش
 Ra's Wādī Umm adh Dhiyāb ash Sharqī, رأس وادي أم الذياب الشرقي
 Ra's Yūsufīyah, رَأْس يُوسُفِيَّة
 Ra's Zikrīt, رأس زكريت
-Ra's al 'Allāq, Fasht Shuwaimsah, Fasht-al-'Arq, Ra's al 'Ilāq, Ra's al 'Irq, Ra's al Allāk, Ra's al Balaḩ, Ra's al Ilag, Ra's al Ilāj, Ras al 'Arq, Ras al Alaj, Ras al Ark, رأس العلاق, رَأْس اَلْعَلاَّك
+Ra's al 'Allāq, Fasht Shuwaimsah, Fasht-al-'Arq, Ra's al 'Allāk, Ra's al 'Ilāq, Ra's al 'Irq, Ra's al Balaḩ, Ra's al Ilag, Ra's al Ilāj, Ras al 'Arq, Ras al Alaj, Ras al Ark, رأس العلاق, رَأْس اَلأَلاَّك
 Ra's al Farkīyah, رأس الفركية, رَأْس اَلْفَرْكِيَّة
 Ra's al Ghārīyah, رَأْس الغَارِيَّة
 Ra's al Ghārīyah ash Sharqī, رأس الغارية الشرقي
@@ -2033,7 +2033,7 @@ Umm al 'Alīmāt, أم العليمات
 Umm al 'Amad, أم العمد
 Umm al 'Aqārib, أم العقارب
 Umm al 'Aţf, أم العطف
-Umm al 'Iz̧ām, Umm al 'Az̧ām, Umm al Adham, Umm al Adhem, أم العظام, أُمّ اَلأَذَم, أُمّ اَلْعِظَام
+Umm al 'Iz̧ām, Umm al 'Az̧ām, Umm al Adham, Umm al Adhem, أُمّ اَلأَذَم, أُمّ اَلْعِظَام, ام العظام
 Umm al 'Ushūsh, أم العشوش
 Umm al Birak, أم البرك
 Umm al Birak 'Arş, أم البرك عرص
@@ -2139,7 +2139,7 @@ Umm Şalāl al Qiblīyah, أم صلال القبلية
 Umm Şalāl al Wusţá, أم صلال الوسطى
 Umm Şalāl ash Shamālīyah, أم صلال الشمالية
 Umm Ţuwayrah, أم طويرة
-Umm Ţāqah, Umm Taga, Umm Ţāgah, أم طاقة, أُمّ طَاقَة
+Umm Ţāqah, Umm Taga, Umm Tagah, أم طاقة, أُمّ طَاقَة
 Umm Ḑab'ah, أم ضبعة
 Umm Ḩarmalah, أم حرملة
 Umm Ḩawţah, أُمّ حَوْطَة

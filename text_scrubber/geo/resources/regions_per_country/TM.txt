@@ -1,7 +1,7 @@
 Adzhidere
 Adzhigir
-Agar Depe, Bugor Agar
-Ahal, Ahal Province, Ahal welaýaty, Akhalskiy Velayat, Ashgabad Oblasty, Ashgabat Oblasty, Ashkhabad Oblast, Ashkhabadskaya Oblast'
+Agar Depe, Бугор Агар
+Ahal, Ahal Province, Ahal welaýaty, Ashgabad Oblasty, Ashgabat Oblasty, Ashkhabad Oblast, Ashkhabadskaya Oblast', Ахалский велаят
 Ajidere
 Ajyyap Aryk, Aryk Adzhiyab
 Ak-Tyube
@@ -89,7 +89,7 @@ Balka Bazarnaya
 Balka Ivanovskaya
 Balka Krutaya
 Balka Storozhevaya
-Balkan, Balkan Province, Balkan Welaýaty, Balkanskaya Oblast', Balkanskiy Velayat, Krasnovodsk Oblast, Krasnovodskaya Oblast', Krasnowodsk Oblasty
+Balkan, Balkan Province, Balkan welaýaty, Balkanskaya Oblast', Balkanskiy Velayat, Krasnovodsk Oblast, Krasnovodskaya Oblast', Krasnowodsk Oblasty
 Bam
 Bami
 Banka Chelekenskaya, Cheleken
@@ -111,7 +111,7 @@ Beshkaknymshor, Besh-Kokynym Shor
 Beum-Bash Ozero
 Beurkui, Beur-Kuyu
 Beurme
-Beňňiwan Dag, Bugor Benguvan, Gora Benduvan, Gora Benguvan
+Beňňiwan Dag, Gora Benduvan, Gora Benguvan, Бугор Бенгуван
 Birinji Tejen Suw Howdany, PervoyeTedzhenskoye Vodokhranilishche, Tedzhenskoye Vodokhranilishche
 Bolshaya Akhsinskaya Shchel'
 Brod )) (( Tomak
@@ -455,7 +455,7 @@ Düzguýy Guýy, Kolodets Duz-Kuyu, Kolodets Duzkuyi
 Eddy-Gel'
 Egri
 Erik, Kolodets Erek
-Esenguly Reydy, Гасан-Кулийский Рейд
+Esenguly Reydy, Gasan-Kuliyskiy Reyd
 Etrek Suw Howdany
 Farabskiy Rayon
 Fistashkovyy Khrebet
@@ -539,7 +539,7 @@ Gora Donguzsyrt
 Gora Doyran
 Gora Dozornaya
 Gora Dugoba
-Gora Dukhcha-Kaya, Gora Dykhchaaya
+Gora Dukhcha-Kaya, Гора Дыхчаая
 Gora Duzen-Kry
 Gora Duzlakdepe
 Gora Dyngelyan
@@ -810,8 +810,8 @@ Gël'cheshme
 Gökleňguýy Şorluk, Garaşor, Solonchak Goklenkui, Solonchak Goklenkum, Solonchak Gëklenkui, Solonchak Kara-Shor
 Haf Dag, Gora Hafidag, Гора Хафидаг
 Hanhowuz Reservoir
-Hasardag, Gora Khasardag, Gora Khassar-Dag, Gora Khossar-Dag
-Hawdan Gechelgesi, Гауданский Проход
+Hasardag, Gora Khassar-Dag, Gora Khossar-Dag, Гора Хасардаг
+Hawdan Gechelgesi, Gaudanskiy Prokhod
 Hawdan Gechidi, Pereval Gaudan
 Igirdzhi
 Ikinji Tejen Suw Howdany, Vtoroye Tedzhenskoye Vodokhranilishche
@@ -1616,7 +1616,7 @@ Kolodets Khodzha-Kashmir
 Kolodets Khodzha-Kel'dy
 Kolodets Khodzha-Kuduk
 Kolodets Khodzha-Kuli
-Kolodets Khodzha-Kuyu, Kolodets Khodzha-Kui
+Kolodets Khodzha-Kuyu, Kolodets Khodzha-kui
 Kolodets Khodzha-Nazar
 Kolodets Khodzha-Shay, Kolodets Khodzhi-chay
 Kolodets Khodzha-Shir-Baba
@@ -2456,11 +2456,11 @@ Kyariz Geami Vtoroy, Kyariz Geami 2
 Kyrksekiz, Kolodets Kryk-Sigyz, Kyrk-Segiz
 Kyuyuk Vysoty
 Köpetdag Döwlet Goraghanasynýň, Mane-Çäçe Çäkli Goraghanasy
-Köpetdag Gorughanasy, Köpetdag Döwlet Gorughanasy, Копетдагский Заповедник
+Köpetdag Gorughanasy, Kopetdagskiy Zapovednik, Köpetdag Döwlet Gorughanasy
 Köpetdag Suw Howdany, Kopetdagskoye Vodokhranilishche, Копетдагское Водохранилище
 Kūh-e Khvājeh Gerefteh, کوه خواجه گرفته
 Layarkhdag. Khrebet, Хребет Лайархдаг
-Lebap, Chardzhou Oblast, Chardzhouskaya Oblast', Chärzhew Oblasty, Lebap Welaýaty, Лебапский велаят
+Lebap, Chardzhou Oblast, Chardzhouskaya Oblast', Chärzhew Oblasty, Lebap Welaýaty, Lebapskiy Velayat
 Leninskiy Rayon
 Loshchina Agashlinskaya Shchel'
 Loshchina Koshardynsay
@@ -2472,7 +2472,7 @@ Loshchina Yalgalyshor
 Madaw Suw Howdany
 Malaya Arna
 Mamay
-Mary, Mary Oblast, Mary Oblasty, Mary Province, Mary Welaýaty, Maryiskaya Oblast, Maryyskaya Oblast', Maryyskiy Velayat, Mervskaya Oblast'
+Mary, Mary Oblast, Mary Oblasty, Mary Province, Mary welaýaty, Maryiskaya Oblast, Maryyskaya Oblast', Mervskaya Oblast', Марыйский велаят
 Maryyskiy Rayon
 Massa Quduq
 Mayachnal Gora
@@ -2511,7 +2511,7 @@ Mys Tarta
 Mys Tyshke-Sergis, Cape Tishke Sergis, Mys Tyshke-Sergiz
 Mys Ufra, Mys Dashotakh
 Mys Yarly
-Māmmetköl Suw Howdany, Ozero Mamedkul', Водохранилище Маметкель
+Māmmetköl Suw Howdany, Ozero Mamedkul', Vodokhranilishche Mametkel'
 Nizhne-Gindukushskoye Vodokhranilishche
 Obzornyy Khrebet
 Ogurja Ada, Ogurchinski Island, Ogurjaly, Ostrov Aydak, Ostrov Gurchin, Ostrov Gurchinski, Ostrov Ogurchinskiy, Ostrov Ogurdzhaly
@@ -2559,7 +2559,7 @@ Ovrag Kevoar
 Ovrag Khendyvar
 Ovrag Kizyl Dzhar
 Ovrag Kizyl-Dere
-Ovrag Kuruchay, Shchel' Komendantskaya
+Ovrag Kuruchay, Щель Комендантская
 Ovrag Kyrshak
 Ovrag Kyzylak”on, Ovrag Kizyl-Ak'on
 Ovrag Kyzylburun, Ovrag Kizyl-Burun
@@ -2614,7 +2614,7 @@ Ozero Yazygishem-Shor
 Ozëra Sarykamysh, Ozera Sarykamyshskoye, Ozero Sarykamysh, Ozero Sarykamyshskoye, Sarygamyş Köli, Sarykamyshskoye Ozero, Saryqamysh Köli, Сарыкамышское Озеро
 Pereval Agashly Vostochnyye
 Pereval Agashly Zapadnyye
-Pereval Ala-Kurt-Gyadyk, Перевал Алакуртгядик
+Pereval Ala-Kurt-Gyadyk, Pereval Alakurtgyadik
 Pereval Aladag
 Pereval Alam
 Pereval Arvaz
@@ -3034,7 +3034,7 @@ Ufrinskiy Kanal
 Uluverin-Kak
 Uly Balkan Gershi, Balkhan Mountains, Gory Bol'shoy Balkhan, Greater Balkhan Range, Khrebet Bol'shiye Balkhany, Khrebet Bol'shoy Balakhan, Khrebet Bol'shoy Balkhan
 Ulydepe Dag, Gora Ulydepe
-Ulyoran Depe, Бугор Улыоран
+Ulyoran Depe, Bugor Ulyoran
 Urochishche 7 Kilometr, Urochishche Sed'moy Kilometr
 Urochishche Aginish
 Urochishche Akchaarkach
@@ -3454,7 +3454,7 @@ Vpadina Akchakaya
 Vpadina Akchanaya
 Vpadina Akdzhakaya
 Xolama Buloq
-Yagankazah Guýy, Колодец Яганказах
+Yagankazah Guýy, Kolodets Yagankazakh
 Yama Khasan-Chulak
 Yama Kur-Cheshme
 Yancheshme Rodnik
@@ -3477,6 +3477,6 @@ Zyul'fagarskiy Khrebet
 kolodets Berdy-Imchik
 ozero Yaskha, Lake Yaskhan
 Çemenebit Çäkli Goraghanasy
-Ýalawaç Dag, Gora Yalovach
+Ýalawaç Dag, Гора Яловач
 Ýekealyç Gägik, Pereval Yekki-Alych
 Şorköl

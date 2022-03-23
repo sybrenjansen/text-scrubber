@@ -222,7 +222,7 @@ Aganhel Nal
 Agar Gād
 Agar Ka Rin
 Agar Kol
-Agar Malwa
+Agar Malwa, AGM
 Agar Reserved Forest
 Agar River, Agar
 Agara Kere
@@ -326,7 +326,7 @@ Ahiri Zamīndāri
 Ahiyāpur
 Ahlādpur
 Ahmad Ali Jungle
-Ahmadnagar, Ahmadnagar District, Ahmed Nagar, Ahmednagar
+Ahmadnagar, AHN, Ahmadnagar District, Ahmed Nagar, Ahmednagar
 Ahmadnagar Nawāda
 Ahmadpur
 Ahmadpur Bela
@@ -335,7 +335,7 @@ Ahmadpur Drain
 Ahmadpur Gathina Drain
 Ahmadpur Ghāt
 Ahmadpur Tank
-Ahmadābād, Ahmadābād District, Ahmedabad
+Ahmadābād, AHM, Ahmadābād District, Ahmedabad
 Ahmadābād Minor
 Ahmal Minor
 Ahna Tāl
@@ -448,7 +448,7 @@ Aiyavaiyanār River, Aiyavaiyanār
 Aiyyambare Motte
 Aiyāra Distributary
 Aiyūr Reserved Forest
-Aizawl, Aijal District, Aizawl District
+Aizawl, AIZ, Aijal District, Aizawl district
 Ajabpur Singāoli
 Ajai Nadi
 Ajaigarh Protected Forest
@@ -472,7 +472,7 @@ Ajhwa Distributary
 Aji Guddai
 Aji River, Aji
 Ajimāli Dongar
-Ajitgarh, Ajitgarh District, Mohali, Mohali District, S.A.S Nagar, SAS Nagar district, Sahibzada Ajit Singh Nagar, Sahibzada Ajit Singh Nagar District
+Ajitgarh, Ajitgarh District, Mohali, Mohali District, S.A.S Nagar, SAS Nagar district, SSR, Sahibzada Ajit Singh Nagar, Sahibzada Ajit Singh Nagar District
 Ajjampatti Reserved Forest
 Ajjamūru Channel
 Ajje Gudde
@@ -480,7 +480,7 @@ Ajji Gudda
 Ajji Male
 Ajjibiddakadi
 Ajjituruvu Gudde
-Ajmer, Ajmer district
+Ajmer, AJM, Ajmer district
 Ajmer Palla
 Ajmer Walla
 Ajmerp
@@ -588,7 +588,7 @@ Aklera Protected Forest
 Aklia Minor
 Akoda Reserved Forest
 Akodha Distributary
-Akola, Akola District
+Akola, AKO, Akola district
 Akolahi
 Akolha
 Akolhi
@@ -649,7 +649,7 @@ Alanpur Reserved Forest
 Alantalai Shoals, Alendal Shoals
 Alapal Yeri
 Alapativāri Cheruvu
-Alappuzha, Alleppey District
+Alappuzha, ALZ, Alleppey District
 Alasagram Cheruvu
 Alathara State Forest
 Alathur Reserve
@@ -696,8 +696,8 @@ Alipatan Pass
 Alipur
 Alipur Minor
 Alipur Sharki
-Alipurduar
-Alirajpur
+Alipurduar, APD
+Alirajpur, ALI
 Aliwāl Distributary
 Aliya Dhora
 Aliya Jhoro
@@ -714,7 +714,7 @@ Alkha Dhār
 Alkāra Minor
 Alla Gutta
 Allachan Kere
-Allahābād, Allahābād District, Prayagraj, Prayagraj district
+Allahābād, ALB, Allahābād District, Prayagraj, Prayagraj district
 Allahābād Branch
 Allahābād Distributary
 Allala Vanka
@@ -749,7 +749,7 @@ Almada Halla
 Almaracheda
 Almas Reserved Forest
 Almi State Forest
-Almora, Almora district
+Almora, ALM, Almora District
 Almāspur
 Alna ki Dhār
 Alnia
@@ -782,7 +782,7 @@ Aluwāla Forest
 Alvar Malai
 Alve Todu
 Alwamau
-Alwar, Alwar District
+Alwar, ALW, Alwar District
 Alwar Reserved Forest
 Alwān Kud
 Alwāng Khad
@@ -805,7 +805,7 @@ Alī Cheruvu
 Alī Vāgu
 Alībāg Creek
 Alībāg Outer Reef
-Alīgarh, Alīgarh District
+Alīgarh, ALG, Alīgarh District
 Alīgarh Drain
 Alīghondi Nāla
 Alīnagar
@@ -902,7 +902,7 @@ Ambavaram Reserved Forest
 Ambawāli ka Khāla
 Ambazora Reserved Forest
 Ambe Nadi
-Ambedkar Nagar
+Ambedkar Nagar, AMN
 Ambejharī Spring
 Ambekhāri
 Ambela Reserved Forest
@@ -957,7 +957,7 @@ Ambājogāi
 Ambājogāi Reserved Forest
 Ambāk Nadi
 Ambākhari Nadi
-Ambāla, Ambāla District
+Ambāla, AMB, Ambāla District
 Ambālata Nadi
 Ambāli Kere
 Ambāmadāpur Drain
@@ -993,7 +993,7 @@ Amer Reserve
 Amera Reserve
 Amerapāt
 Ameri Nadi
-Amethi
+Amethi, AME
 Amewāghar Nāla
 Ameyi Hole
 Amgadi Rao
@@ -1108,7 +1108,7 @@ Amrauniya Protected Forest
 Amravati Division
 Amravaticuttack
 Amreha Minor
-Amreli, Amreli district
+Amreli, ARL, Amreli district
 Amremau Tāl
 Amri Ghāt
 Amri Gād
@@ -1117,7 +1117,7 @@ Amri Thāch
 Amrit Dhora
 Amriti Nadi
 Amritpur Minor
-Amritsar, Amritsar District
+Amritsar, AMT, Amritsar District
 Amritsar Distributary
 Amritsar Escape
 Amror Reserved Forest
@@ -1234,7 +1234,7 @@ Ananta Sāgar
 Anantagiri Forest
 Anantagiri Gutta
 Anantagiri Reserved Forest
-Anantapur, Anantapur District, Ananthapur
+Anantapur, ANT, Anantapur District, Ananthapur
 Anantapur Gudda
 Anantapur Parbat
 Anantapur State Forest
@@ -1244,7 +1244,7 @@ Anantha Kanama
 Ananthalai Malai, Anandala Malai
 Ananti Gudde
 Anantmau Cut
-Anantnāg, Ananthnag, Kashmīr South
+Anantnāg, ATG, Ananthnag, Kashmīr South
 Anantprth Branch
 Anantpur
 Anantāram Reserved Forest
@@ -1400,7 +1400,7 @@ Angrala Sāhr Forest
 Angrer Nadi
 Angrākhār Nāla
 Angrāla Tuksan Forest
-Angul District, Angul, Anugul
+Angul District, ANU, Angul, Anugul
 Angul Kere
 Angur Katwa
 Angyār Nāla
@@ -1437,7 +1437,7 @@ Anjansingi Protected Forest
 Anjanwa Nadi
 Anjanāpura Reservoir
 Anjarkandi Puzha
-Anjaw
+Anjaw, ANJ
 Anjedbera Protected Forest
 Anji Protected Forest
 Anjidiv Island, Angediva, Angediva Island, Anjadeep, Anjadip Island, Anjadīp, Ilha de Angediva
@@ -1520,7 +1520,7 @@ Anuma Nadi
 Anumula Konda
 Anumutu Dompa
 Anumūla Banda
-Anuppur
+Anuppur, ANP
 Anuve Halla
 Anwal Khera Minor
 Anwala Māli
@@ -1719,7 +1719,7 @@ Arisina Kallu
 Arivi Malai
 Ariya Gaundan Nād
 Ariyagoshti Channel
-Ariyalur
+Ariyalur, ARI
 Ariyalūr Reserved Forest
 Ariyatla Male
 Ariyānkuppam River, Ariyānkuppam
@@ -1846,7 +1846,7 @@ Arvaki Forest Reserve
 Arval Dongri
 Arvalli
 Arvapalli Gutta
-Arwal
+Arwal, ARW
 Arwāra Minor
 Arwāri Tāl
 Aryalwāla Dhora
@@ -1920,7 +1920,7 @@ Ashidar Bāl
 Ashni River, Ashni, Assan, Assan River
 Ashnīji Forest
 Ashoka Park
-Ashoknagar, Ashok Nagar
+Ashoknagar, ANR, Ashok Nagar
 Ashokpur
 Ashraf Jot
 Ashrafnagar Grant
@@ -1968,7 +1968,7 @@ Asrudiya
 Asrāhi Minor
 Asrāwal Nadi
 Asrāwal Nāla
-Assam, Asom, State of Assam
+Assam, AS, Asom, State of Assam
 Assam Hills, Assam Mountains, Assam Range
 Assam Valley
 Assilahala Johra
@@ -2178,12 +2178,12 @@ Aura Nadi
 Aurad Taluk
 Aurahi
 Aurai
-Auraiya
+Auraiya, ARY
 Auraiya Tāl
 Aurandh Tāl
 Auranga Reserved Forest
-Auranga River, Auranga
-Aurangabad, Aurangabad district, Aurangabad(BH)
+Auranga River, Aurangā
+Aurangabad, AGB, Aurangabad district, Aurangabad(BH)
 Aurangabad division
 Aurangzebpur Sembal
 Aurangā Nadī, Orangā Nadī
@@ -2454,7 +2454,7 @@ Bader Nadi
 Badesra Minor
 Badevara Konda
 Badeālāwāli
-Badgam, Budgam
+Badgam, BDG, Budgam
 Badgenha Nāla
 Badgohna Minor
 Badgāon Drain
@@ -2559,7 +2559,7 @@ Bagaiya Nadi
 Bagaiya Tāl
 Bagal Dongar
 Bagal Jhor
-Bagalkot
+Bagalkot, BAG
 Bagalkot Taluk
 Bagalvadibetta
 Baganbayi Gudde
@@ -2597,7 +2597,7 @@ Bagen Distributary
 Bagepalli Taluk, Bagepalli
 Bageri Betta
 Bagesari Minor
-Bageshwar
+Bageshwar, BGS
 Bagetu State Forest
 Bageār Khad
 Bagga
@@ -2676,7 +2676,7 @@ Baghnāri Nāla
 Baghol Minor
 Baghora Reserved Forest
 Baghora Tāl
-Baghpat, Bagpat
+Baghpat, BGP, Bagpat
 Baghra Jot
 Baghra Minor
 Baghraulia
@@ -2863,7 +2863,7 @@ Bahota Branch Drain
 Bahota Distributary
 Bahpal Minor
 Bahra Kāchh
-Bahraich, Bahraich district
+Bahraich, BHR, Bahraich District
 Bahrak Jhīl
 Bahram Chak Forest
 Bahram Tālāv
@@ -3213,7 +3213,7 @@ Bakreru
 Bakru Balla
 Bakrāi Nāla
 Bakrāmundi Dongar
-Baksa
+Baksa, BAK
 Baksa Nadi
 Baksahwa Nadi
 Baksai
@@ -3393,7 +3393,7 @@ Ballabgarh Distributary
 Ballabgarh Drain
 Ballagere Betta
 Ballala Gutta
-Ballari, Bellary, Bellary (India : District)
+Ballari, BLL, Bellary, Bellary (India : District)
 Ballari Nadi
 Ballaseth da Nar
 Ballayan Distributary
@@ -3405,7 +3405,7 @@ Balli Bhāta Forest
 Balli Bīl
 Balli Konda
 Balli Vāgu
-Ballia
+Ballia, BAL
 Ballimanē Forest Reserve
 Ballinara
 Ballipidiki Dongar
@@ -3422,8 +3422,8 @@ Ballār
 Ballāri Halla
 Balnidādar
 Balnād Hole
-Balod
-Baloda Bazar
+Balod, BLD
+Baloda Bazar, BLB
 Baloda Branch
 Baloh Forest
 Baloh Jhil
@@ -3439,7 +3439,7 @@ Balota Forest
 Balpa Reserve
 Balpa Reserved Forest
 Balrai Escape
-Balrampur
+Balrampur, BLM, BRP
 Balrha Tāl
 Balri Malai
 Balrl Nāla
@@ -3491,7 +3491,7 @@ Balān Nadi, Balan River
 Balāna Johra
 Balāndi Nadi
 Balāne Johra
-Balāngīr, Bolāngir
+Balāngīr, BLN, Bolāngir
 Balāpur Semra Protected Forest
 Balār
 Balārpur Minor
@@ -3799,7 +3799,7 @@ Bandidāspur
 Bandigere Canal
 Bandili Konda
 Bandini Parbat
-Bandipore, Bandipora
+Bandipore, BDP, Bandipora
 Bandipur & Nagarahole Game Parks
 Bandipur & Nagarhole Game Parks
 Bandipura Forest
@@ -3874,8 +3874,8 @@ Bangalachoti
 Bangalgar Gād
 Bangalore (North)
 Bangalore (South)
-Bangalore Rural, Bengaluru, Bengaluru Rural
-Bangalore Urban, Bangalore, Bengaluru Urban
+Bangalore Rural, BRR, Bengaluru, Bengaluru Rural
+Bangalore Urban, BUR, Bangalore, Bengaluru Urban
 Bangalore(East)
 Bangamāl
 Bangan Nadi
@@ -4018,7 +4018,7 @@ Banjārī Tāl
 Bank Canal
 Bank Nadi
 Bank Tila
-Banka
+Banka, BNK
 Banka Bodu
 Banka Minor
 Banka Sar
@@ -4169,7 +4169,7 @@ Banār ki Būinda
 Banāri
 Banāri Pahāri
 Banārsi Gād
-Banās Kāntha, Banaskantha
+Banās Kāntha, BKT, Banaskantha
 Banās Nadi, Banās
 Banās River, Banass River, Banās
 Banāsi Reserved Forest
@@ -4248,7 +4248,7 @@ Baradhār
 Baragai Nadi
 Baraganakombai Betta
 Baragaon, Ichādāg Pahār, Old Barāgai
-Baragarh
+Baragarh, BRG
 Baraghāt Nadi
 Baraghāti Pass
 Baragihalli State Forest
@@ -4295,7 +4295,7 @@ Baral Minor
 Baram Sāgar
 Barampur Minor
 Barampura Minor
-Baran
+Baran, BRN
 Baran Forest
 Baran Nadi
 Baranai Nāla
@@ -4393,7 +4393,7 @@ Bardari Reserved Forest
 Bardarya
 Bardauli
 Bardauli Minor
-Barddhamān, Bardhaman, Burdewan, Burdwān, Burdwān District, Purba Bardhaman
+Barddhamān, BRD, Bardhaman, Burdewan, Burdwān, Burdwān District, Purba Bardhaman
 Bardha Nāla
 Bardha Protected Forest
 Bardha Reserved Forest
@@ -4431,7 +4431,7 @@ Barehni Tāl
 Barehta Reserved Forest
 Barehār Nadi
 Barehār Nāla
-Bareilly, Bareilly District
+Bareilly, BRL, Bareilly District
 Bareilly Distributary
 Bareiya Nāla
 Bareji Pump Canal
@@ -4702,7 +4702,7 @@ Barna Tāl
 Barna Tīkar
 Barnahwa Ghāt
 Barnakonda Reserved Forest
-Barnala
+Barnala, BNL
 Barnar Nadi
 Barnas Wāh
 Barnawā Nadi
@@ -4763,7 +4763,7 @@ Barote-di-Nāl
 Baroti Forest
 Barotru Talāb
 Barpati Tālāb
-Barpeta
+Barpeta, BAR
 Barphing Got
 Barpu Nāla
 Barpurgia Parbat
@@ -4852,7 +4852,7 @@ Barwal
 Barwal Tāl
 Barwalli Minor
 Barwan Distributary
-Barwani
+Barwani, BRW
 Barwaniā
 Barwar Reservoir
 Barwen East Protected Forest
@@ -5122,11 +5122,11 @@ Bassein Oilfield Development Area
 Bassi Reserved Forest
 Bast Nadi
 Basta Minor
-Bastar
+Bastar, BAS
 Bastara Reserved Forest
 Bastaura
 Bastgawān Minor
-Basti, Basti district
+Basti, BST, Basti District
 Basti Betta
 Basti Gudde
 Bastihalli
@@ -5209,7 +5209,7 @@ Bathaniya
 Batheli-ki-Nāli
 Batheri Khad
 Batheri State Forest
-Bathinda, Bhatinda
+Bathinda, BTH, Bhatinda
 Bathing Ghāt
 Bathled Nadi
 Bathmāna Protected Forest
@@ -5297,7 +5297,7 @@ Batāoli Minor
 Batār Reserved Forest
 Batās Kunwar Ghāt
 Batāyanu Johri
-Baudh, Bauda District, Boudh, Boudh District
+Baudh, BDH, Bauda District, Boudh, Boudh District
 Baudhra
 Baudi Soru
 Baug Forest
@@ -5453,7 +5453,7 @@ Begowās Sar
 Begun Nadi
 Begur Reserve
 Begur State Forest
-Begusarāi
+Begusarāi, BSR
 Begār Halla
 Begūn
 Begūr Kere
@@ -5573,7 +5573,7 @@ Belgali Gudda
 Belgaon Minor
 Belgaon Protected Forest
 Belgarha Minor
-Belgaum, Belgaum District
+Belgaum, BLG, Belgaum district
 Belghuri Nadi
 Belguri Nāla
 Belgāri Nāla
@@ -5692,8 +5692,8 @@ Belūr Reserved Forest
 Bemai Tāl
 Bemanarpaguta
 Bemballur
-Bemetara
-Bemla, Bembla River, Bemla Nadī, Bemla River
+Bemetara, BEM
+Bemla, Bembla River, Bemla Nadi, Bemla River
 Bemmatti Hole
 Ben Distributary
 Bena Dongar
@@ -5913,7 +5913,7 @@ Betwa Canal, Kuthauna Branch, Kuthaund Branch
 Betwa Reserved Forest
 Betwa River, Betwa
 Betābar Minor
-Betūl, Betūl District
+Betūl, BTL, Betūl District
 Betūl River
 Bevakalu State Forest
 Bevanhatti Doddi
@@ -5988,7 +5988,7 @@ Bhadra Right Bank Canal
 Bhadra River
 Bhadradevudu Konda
 Bhadradri Kothagudem
-Bhadrak
+Bhadrak, BDK
 Bhadrampalle Reserved Forest
 Bhadraul Ghāt
 Bhadrauti Nadi
@@ -6432,7 +6432,7 @@ Bharanga Nadi
 Bharanikāvu
 Bharantahia Nadi
 Bharat Kund
-Bharatpur
+Bharatpur, BTR
 Bharatpur City Flood Control Drain
 Bharatpur Distributary
 Bharatpur Feeder
@@ -6550,7 +6550,7 @@ Bharāru Nadi
 Bharāru State Forest
 Bharāti Gād
 Bharāwal Minor
-Bharūch, Bharūch District, Broach, Broach and Pānch Mahāls, Broach and Pānch Mahāls District
+Bharūch, BRC, Bharūch District, Broach, Broach and Pānch Mahāls, Broach and Pānch Mahāls District
 Bharūha Tāl
 Bhasaila Jhīl
 Bhasauli Cut
@@ -6804,7 +6804,7 @@ Bhilai Reserve
 Bhilang Pass
 Bhilangnā River, Bheling River, Bhilangnā, Bhillangana
 Bhilioria Tank
-Bhilwāra, Bhilavara, Bhīlwāra District
+Bhilwāra, BHL, Bhilavara, Bhīlwāra District
 Bhilāriya Minor
 Bhilāwā
 Bhima
@@ -6836,7 +6836,7 @@ Bhimshi Gād
 Bhimāna
 Bhimāna Johra
 Bhinauna Tāl
-Bhind, Bhind District
+Bhind, BHN, Bhind District
 Bhind Main Canal, Bhind Canal
 Bhindar Distributary
 Bhindla ka Khāla
@@ -6896,7 +6896,7 @@ Bhiura Tāl
 Bhiusun Hill
 Bhivasan Nadi
 Bhivkund Reserved Forest
-Bhiwani
+Bhiwani, BHW
 Bhiwsen Reserved Forest
 Bhiwān Minor
 Bhiwāni Distributary
@@ -6943,7 +6943,7 @@ Bhojdīn Restricted Forest
 Bhojipura Distributary
 Bhojkund Reserved Forest
 Bhojori
-Bhojpur
+Bhojpur, BJP
 Bhojpur Branch Cut
 Bhojpur Distributary
 Bhojpur Protected Forest
@@ -7011,7 +7011,7 @@ Bhopauli Pump Canal Feeder
 Bhopra Nāla
 Bhopsābori Talāv
 Bhopur
-Bhopāl, Bhopal District
+Bhopāl, BHP, Bhopal District
 Bhopāli Minor
 Bhopālpatnam Zamīndāri
 Bhopālsinghwāli Talāi
@@ -7240,7 +7240,7 @@ Bhādūkotā Reserved Forest
 Bhāg Sar
 Bhāga River, Bhāga
 Bhāgal Nadi
-Bhāgalpur, Bhāgaipur, Bhāgalpur District
+Bhāgalpur, BGO, Bhāgaipur, Bhāgalpur District
 Bhāgar Jalkar
 Bhāgar Nadi
 Bhāgdi Nāla
@@ -7416,7 +7416,7 @@ Bhātāsori Minor
 Bhātūwāla Rao
 Bhāupura Drain
 Bhāva Fadrudīn Dongar
-Bhāvnagar, Bhaunagar
+Bhāvnagar, BHV, Bhaunagar
 Bhāwaria Tāl
 Bhāwarkhol
 Bhāwarpāt
@@ -7617,7 +7617,7 @@ Bichpuria Ghāt
 Bichrā Nadī
 Bichāla Canal
 Bichūa
-Bid, Beed, Beed District, Bidh, Bīr, Bīr District
+Bid, BEE, Beed, Beed District, Bidh, Bīr, Bīr District
 Bid Anjangaon
 Bid Nīljhodi
 Bid Sukli Reserved Forest
@@ -7707,7 +7707,7 @@ Bijaisalhai Nadi
 Bijakhandi Dhār
 Bijali Pokhar
 Bijana Nāla
-Bijapur, Bijapur(CGH), Bijapur(KAR), Bijāpur District, Birjapur
+Bijapur, BIJ, Bijapur(CGH), Bijapur(KAR), Bijāpur District, Birjapur, VJP
 Bijasan Distributary
 Bijauli
 Bijauli Chak
@@ -7747,7 +7747,7 @@ Bijna Jāgīr
 Bijna Nadi
 Bijna Reserved Forest
 Bijni Gād
-Bijnor, Bijnor District
+Bijnor, BJN, Bijnor district
 Bijopura Minor
 Bijora Minor
 Bijora Nāla
@@ -7922,7 +7922,7 @@ Bilāri Nāla
 Bilās Nadi
 Bilās Talāi
 Bilāso Protected Forest
-Bilāspur, Bilaspur(CGH), Bilāspur District
+Bilāspur, BLP, BLS, Bilaspur(CGH), Bilāspur District
 Bilāspur Drain
 Bilāspur Minor
 Bilāuti̇̄ Nadi̇̄
@@ -8148,7 +8148,7 @@ Bishanpura
 Bishli Got
 Bishnamai Minor
 Bishnu Nāla
-Bishnupur
+Bishnupur, BSH
 Bishnāh Minor
 Bishnāpur Drain
 Bishnāthganj Distributary
@@ -8476,7 +8476,7 @@ Bokai Tank
 Bokar Meta
 Bokardoh Nadi
 Bokarha Nāla
-Bokaro, Bokaro district
+Bokaro, BKR, Bokaro district
 Bokholi Bāndh
 Bokhrata Nadi
 Bokhrā Pahār
@@ -8585,7 +8585,7 @@ Bondāda Drain
 Bonga
 Bonga Buru
 Bonga Revu
-Bongaigaon
+Bongaigaon, BNG
 Bongaramma Bodu
 Bongri Nadi
 Bongāburu
@@ -8910,7 +8910,7 @@ Budangi
 Budapahār
 Budaphād Block
 Budatedu Cheruvu
-Budaun, Budaun district
+Budaun, BDN, Budaun district
 Budawan Forest
 Buddajarla Banda
 Buddanna Bhāvi
@@ -9072,7 +9072,7 @@ Bulanda, Maniwāla
 Bulandkai Nār
 Bulandpur
 Bulandpur Drain
-Bulandshahr, Bulandshahr district
+Bulandshahr, BLR, Bulandshahr District
 Bulandshahr Distributary
 Bulandshahr Drain
 Bulat Nadi
@@ -9180,7 +9180,7 @@ Burha Talao
 Burhalde Reserved Forest
 Burhan Nadi
 Burhan Tāl
-Burhanpur
+Burhanpur, BRH
 Burhanpur Minor
 Burharaja Reserved Forest
 Burhbarāwan
@@ -9320,7 +9320,7 @@ Butāna Distributary
 Butīndalau
 Buvangala Halla
 Buxa Tiger Reserve
-Buxar
+Buxar, BUX
 Buxar Battle - Field
 Buxar Canal
 Buzurgwār
@@ -9630,7 +9630,7 @@ Bāle Buru
 Bālekant Gudda
 Bālela Tank
 Bālepaduga Halla
-Bāleshwar, Balasore, Balasore District, Baleswar
+Bāleshwar, BLW, Balasore, Balasore District, Baleswar
 Bāleswar Huli
 Bāleta Reserved Forest
 Bālganga Nāla
@@ -9688,7 +9688,7 @@ Bālābhāta Sot
 Bālāchaur Protected Forest
 Bālāchaur Reserved Forest
 Bālādhorhā Nadī
-Bālāghāt, Bālāghāt District
+Bālāghāt, BGT, Bālāghāt District
 Bālāghāt Range
 Bālāji Ka Nāla
 Bālākot Protected Forest
@@ -9777,7 +9777,7 @@ Bānba Nadi
 Bānbi Chingi
 Bānd Buru
 Bānd Chamār
-Bānda, Bānda District
+Bānda, BAN, Bānda District
 Bānda Branch
 Bānda Nadi
 Bānda Purwa Minor
@@ -9817,7 +9817,7 @@ Bāngaduni River, Bāngaduni
 Bāngai Protected Forest
 Bāngaliya Nāla
 Bānganga Nāla
-Bānganga River, Bāngangā
+Bānganga River, Bānganga
 Bāngango Nadi
 Bāngar Minor
 Bāngi Ār
@@ -9857,7 +9857,7 @@ Bānkumundi
 Bānkumundi State Forest
 Bānkur Nadi
 Bānkur Nāla
-Bānkurā, Bānkura District
+Bānkurā, BNR, Bānkura District
 Bānkātawā Reserved Forest
 Bānmauli Drain
 Bānoni Reserved Forest
@@ -9902,7 +9902,7 @@ Bānswāli Khol
 Bānswāli Khāla
 Bānswāli Rao
 Bānswāli Reserved Forest
-Bānswāra, Banswara District
+Bānswāra, BNS, Banswara District
 Bānswāri Nāla
 Bānswāri Protected Forest
 Bānsāhera Protected Forest
@@ -9946,7 +9946,7 @@ Bār Number Two Reserved Forest
 Bār Protected Forest
 Bār Sot
 Bāra
-Bāra Banki, Barabanki, Bare Banki, Bāra Banki District
+Bāra Banki, BRB, Barabanki, Bare Banki, Bāra Banki District
 Bāra Banki Branch
 Bāra Dari Minor
 Bāra Dīh
@@ -9961,7 +9961,7 @@ Bārahbīs
 Bārakhilla
 Bāramgarh
 Bāramūl
-Bāramūla, Baramulla, Bāramūla District, Kashmīr North
+Bāramūla, BRM, Baramulla, Bāramūla District, Kashmīr North
 Bāran Bat Forest
 Bārandā
 Bārang Protected Forest
@@ -10014,7 +10014,7 @@ Bārkhya
 Bārki Dongri
 Bārkuthuli Nadi
 Bārli Talāi
-Bārmer, Bārmer District
+Bārmer, BMR, Bārmer District
 Bāro Nāla
 Bārobānk State Forest
 Bārod Sub Branch
@@ -10169,7 +10169,7 @@ Bībīpur Reserved Forest
 Bībīwāla Block
 Bīchhi Protected Forest
 Bīchhī Pahār
-Bīdar, Bīdar District
+Bīdar, BDR, Bīdar District
 Bīdhu Johra
 Bīdhālna Block
 Bīdlu Konda
@@ -10201,7 +10201,7 @@ Bījāpuri Reserve
 Bīkaner Canal, Gang Canal, Gang Canal Main Line
 Bīkar Ki Naria
 Bīkar Pump Canal
-Bīkāner, Bīkāner District, Bīkānera
+Bīkāner, BIK, Bīkāner District, Bīkānera
 Bīkāner Lūnkaransar Lift Canal, Indira Gāndhi Nahar
 Bīla Left Main Canal
 Bīla Nadi, Bila River
@@ -10274,7 +10274,7 @@ Bīranīlu
 Bīrbal Protected Forest
 Bīrbhaddar Reserved Forest
 Bīrbhaula Tāl
-Bīrbhūm, Bīrbhūm District
+Bīrbhūm, BIR, Bīrbhūm District
 Bīrbānu Johri
 Bīrgarh
 Bīrgarh Protected Forest
@@ -10339,7 +10339,7 @@ Būdūr Reserved Forest
 Būdūti Bodu
 Būglandar Nār
 Būmka Nāla
-Būndi, Bundi District
+Būndi, BND, Bundi District
 Būndi Hills
 Būndu
 Būndē Forest
@@ -10439,7 +10439,7 @@ Cauvery River North Branch, Cauvery
 Cauvery River South Branch, Cauvery
 Cavi Ār
 Central Bāri Doāb Canal
-Central Delhi, Central
+Central Delhi, CNT, Central
 Central State Forest
 Central cafeteria Mahindra Satyam
 Cha
@@ -10850,7 +10850,7 @@ Chamarsil Nadi
 Chamarwa Nāla
 Chamarwa Tāl
 Chamarwāh Reserved Forest
-Chamba
+Chamba, CHM
 Chamba Buhdan Forest
 Chamba Lāhul
 Chambai River, Chambai
@@ -10891,7 +10891,7 @@ Chamlātar Khad
 Chammangandi Nadi
 Chamnai Nadi
 Chamni Protected Forest
-Chamoli, Chamoli district
+Chamoli, CHL, Chamoli district
 Champa Gād
 Champa Jharia, Champajharia Nadi
 Champa Minor
@@ -10899,8 +10899,8 @@ Champa Pahār
 Champatpur
 Champatpur Chakla
 Champatpur Distributary
-Champawat
-Champhai, Champhai district
+Champawat, CHP
+Champhai, CPH, Champhai district
 Champi Konda
 Champigūr Nadi
 Champila Protected Forest
@@ -10918,7 +10918,7 @@ Chamraha Blias
 Chamraha Nadi
 Chamrahan Tāl
 Chamraiya Tāl
-Chamrajnagar, Chamarajanagar
+Chamrajnagar, CHJ, Chamarajanagar
 Chamrajnagar Taluk, Chamarajanagara
 Chamrauhan Siarāpar Jangal
 Chamraura Nadi
@@ -10994,7 +10994,7 @@ Chandal Tāl
 Chandamāma Kuppa
 Chandan Nadi
 Chandan Park
-Chandan River, Chāndan
+Chandan River, Chandan
 Chandan Sar
 Chandana Pārai
 Chandanbāgh
@@ -11018,7 +11018,7 @@ Chandau Pahār
 Chandauka Tāl
 Chandauli
 Chandauli Canal
-Chandauli District
+Chandauli District, CHN
 Chandauli Ghāt
 Chandaura Minor
 Chandaura Tāl
@@ -11055,7 +11055,7 @@ Chandi Tāl
 Chandia Buru
 Chandia Pahār
 Chandia Tāl
-Chandigarh
+Chandigarh, CHD
 Chandigām Bāl
 Chandikana Betta
 Chandikādevi Tāl
@@ -11128,7 +11128,7 @@ Chandramati Odai
 Chandrapalli Reserved Forest
 Chandraprabha Nadi, Chandraprabha
 Chandraprabha Reservoir
-Chandrapur, Chānda District
+Chandrapur, CPR, Chānda District
 Chandrapur North Reserved Forest
 Chandrapur Protected Forest
 Chandrapur South Reserved Forest
@@ -11201,7 +11201,7 @@ Changabang
 Changardtt
 Changeri Minor
 Changhria
-Changlang
+Changlang, CHG
 Changlung Barma La
 Changlung La
 Changthang Wildlife Sanctuary
@@ -11417,7 +11417,7 @@ Chatni Nāla
 Chatoath
 Chatori Nadi
 Chatori Pass
-Chatra
+Chatra, CHT
 Chatra Nāla
 Chatra Pachchhimwāri
 Chatra Tāl
@@ -11772,7 +11772,7 @@ Chenkri Sari
 Chenmatti Chāl
 Chenna Halla
 Chenna Nadi
-Chennai, Chennai District
+Chennai, CHE, Chennai District
 Chennai Port
 Chennappareddi Kunta
 Chennarāyani Konda
@@ -12003,7 +12003,7 @@ Chhatarbānda
 Chhatardhāri Jungle
 Chhatargarh Reserved Forest
 Chhatargul Forest
-Chhatarpur
+Chhatarpur, CRP
 Chhatarpur Protected Forest
 Chhatarpāl Gād
 Chhatarsāl Protected Forest
@@ -12096,7 +12096,7 @@ Chhindijhura Nāla
 Chhindpānī Dongar
 Chhindrāwār Dongar
 Chhindwāha Reserved Forest
-Chhindwāra
+Chhindwāra, CDW
 Chhindī Pathār
 Chhindībirhi Reserved Forest
 Chhinga Nāla
@@ -12198,7 +12198,7 @@ Chhota Ratta Nadi
 Chhota Sāi Sot
 Chhota Tāl
 Chhota Udepur
-Chhotaudepur
+Chhotaudepur, CUP
 Chhotbari Tāl
 Chhote Kelo River, Chhote Kelo
 Chhoti Chitaia Tāl
@@ -12400,7 +12400,7 @@ Chikka Modūru
 Chikka Nellya
 Chikka Sodlur
 Chikka Tore
-Chikkaballapur, Chikballapur, Chikballapura district, Chikkaballapura district
+Chikkaballapur, CHB, Chikballapur, Chikballapura district, Chikkaballapura district
 Chikkaballikodi Halla
 Chikkabbur
 Chikkaboli Oddu
@@ -12427,7 +12427,7 @@ Chikli Vāgu
 Chiklām Balla
 Chiklīkhāi
 Chikma Dongar
-Chikmagalur, Chickmagalur, Chickmaglur, Chikkamagaluru, Kadur
+Chikmagalur, CKM, Chickmagalur, Chickmaglur, Chikkamagaluru, Kadur
 Chikmagalur Taluk, Chikkamagaluru
 Chikmangudde State Forest
 Chikna Nāla
@@ -12802,7 +12802,7 @@ Chiraiya Pahār
 Chirak Block
 Chirakkuzhi Tōdu
 Chiram Kunnu
-Chirang
+Chirang, CRG
 Chirao Sub Minor
 Chirar Protected Forest
 Chirariya Khoh
@@ -12915,9 +12915,9 @@ Chitoli Reserved Forest
 Chitora Tāl
 Chitra Minor
 Chitra Nadi
-Chitradurga, Chitaldroog District, Chitaldrug, Chitradurga district
+Chitradurga, CTR, Chitaldroog District, Chitaldrug, Chitradurga district
 Chitrahān
-Chitrakoot
+Chitrakoot, CHK
 Chitrakoot District
 Chitrakot
 Chitrangi Protected Forest
@@ -12942,7 +12942,7 @@ Chittapāri Reserved Forest
 Chittar River
 Chittaria Sela
 Chittaur Tāl
-Chittaurgarh, Chitor, Chitorgarh, Chittorgarh
+Chittaurgarh, CGH, Chitor, Chitorgarh, Chittorgarh
 Chitteri Extension Reserved Forest
 Chitteri Hills
 Chitteri Reserved Forest
@@ -12951,7 +12951,7 @@ Chitti Vāgu
 Chittipāra Mudi
 Chittivelu Kuppa
 Chittiāl Reserved Forest
-Chittoor, Chitoor, Chittoor District
+Chittoor, CHI, Chitoor, Chittoor District
 Chittoor Reserved Forest
 Chittoor River
 Chittra Kunnu
@@ -13309,7 +13309,7 @@ Chupkiti Branch
 Chura Dhand
 Chura La, Ch'u-la Shan-k'ou, Ghora La Pass, Gora, Gora La
 Chura State Forest
-Churachandpur
+Churachandpur, CHC
 Churadei
 Churail Drain
 Churchuri Got
@@ -13730,7 +13730,7 @@ Chūrmani
 Chūrtha
 Chūrtha Dhār
 Chūrtha Protected Forest
-Chūru
+Chūru, CHR
 Chūrāman Patti
 Chūrāna Tāl
 Chūslewar Minor
@@ -13751,7 +13751,7 @@ Cocanāda Bay, Backwater, Coringa, Kākināda Bay
 Cochin River, The Gut
 Coco Channel
 Cocoanut Island
-Coimbatore, Coimbatore District
+Coimbatore, CMT, Coimbatore District
 Coimbatore Reserved Forest Bolampatti Block
 Coimbatore Reserved Forest Gopanāri Block
 Coimbatore Reserved Forest Kempamdalayam Tekkampatti and Kandiyūr Block
@@ -13806,8 +13806,8 @@ Cromāliān Island, Kānkrāmāri Char
 Cross Island, Chinal Tekdi
 Cross Island Reef
 Cubbon Park
-Cuddalore
-Cuddapah, Cuddapah District, Kadapa District, Y.S.R., YSR Kadapa District
+Cuddalore, CDL
+Cuddapah, CUD, Cuddapah District, Kadapa district, Y.S.R., YSR Kadapa District
 Cuksi Udar
 Culābgarh Nadi
 Cumbum Reserved Forest
@@ -13823,9 +13823,9 @@ Curzon Valley Number Two Reserved Forest
 Cut Darar
 Cuthbert Bay
 Cutlachimal
-Cuttack, Cuttack District
+Cuttack, CTT, Cuttack District
 Cybermedia Software
-Cāchār, Cachar District
+Cāchār, CCH, Cachar District
 Cālicut
 Cān Nadi
 Cōnsar Baij Nadi
@@ -13936,10 +13936,10 @@ Dadiā Minor
 Dadka Gāra
 Dadogi Protected Forest
 Dadoniā Nadi
-Dadra & Nagar Haveli
+Dadra & Nagar Haveli, DNH
 Dadra Kāsht Mathiāni
 Dadra Rāmpur Reserved Forest
-Dadra and Nagar Haveli and Daman and Diu
+Dadra and Nagar Haveli and Daman and Diu, DNHDD
 Dadraul Minor
 Dadri Container Terminal
 Dadri Got
@@ -13981,7 +13981,7 @@ Dagāsia Nadi
 Dagūbar Dongar
 Dah Jhīl
 Dah Puraina
-Daha, Dāha Nadī, Sandi Nadi
+Daha, Dāha Nadī, Sandi Nadī
 Daha Khāl
 Daha Tāl
 Dahab Johra
@@ -14075,10 +14075,10 @@ Dakora Minor
 Dakra Nadi
 Dakre-dā Nāl
 Dakron State Forest
-Dakshin Bastar Dantewada, Dantewada
-Dakshin Dinajpur, Dakshin Dinajpur district, Dinajpur Dakshin
+Dakshin Bastar Dantewada, DNT, Dantewada
+Dakshin Dinajpur, DPD, Dakshin Dinajpur district, Dinajpur Dakshin
 Dakshina Canal
-Dakshina Kannada, Daks hin Kananda, Dakshin Kannad, Dakshin Kannanda, South Kanara, South Kanara District
+Dakshina Kannada, DKD, Daks hin Kananda, Dakshin Kannad, Dakshin Kannanda, South Kanara, South Kanara District
 Dakāha Tāl
 Dakāi Nadi
 Dakāri Nāla
@@ -14167,7 +14167,7 @@ Damala Gutta
 Damalcheri
 Damalcheruvu Reserved Forest
 Damamu Konda
-Daman District, Daman, Damão
+Daman District, DMN, Daman, Damão
 Daman Gangā, Daman Gunga River, Damán River, Rio Damanganga, Rio Damon Gagá
 Daman Tāl
 Damar Dongri
@@ -14217,7 +14217,7 @@ Damodar Dīhra
 Damodar Pahār
 Damodarpatti
 Damodarpur
-Damoh
+Damoh, DMH
 Damoh Reserved Forest
 Damora Pahār
 Dampāya Reserved Forest
@@ -14432,7 +14432,7 @@ Darbe
 Darberāpahār
 Darbhagūdem Reserved Forest
 Darbhakarra Vāgu
-Darbhanga, Darbhanga District
+Darbhanga, DBG, Darbhanga District
 Darbharevu River, Darbharevu
 Darbhāla Nadi
 Darbāl Gād
@@ -14485,7 +14485,7 @@ Dariāpur Flat
 Dariāpur Minor
 Dariūnch Nadi
 Darjegāng Nāla
-Darjiling, Darjeeling, Darjeeling District
+Darjiling, DRJ, Darjeeling, Darjeeling District
 Darkapa Dongar
 Darkoti
 Darkoti Khad
@@ -14515,7 +14515,7 @@ Darotha Protected Forest
 Daroti Simāna
 Darpīpur
 Darra
-Darrang, Darrang district
+Darrang, DRR, Darrang district
 Darreta Nāla
 Darrānwāla Reserved Forest
 Darsan Sāgar
@@ -14688,7 +14688,7 @@ Daurīdol Nāla
 Dausa
 Dausīha
 Dauwādol Protected Forest
-Davanagere, Davangere
+Davanagere, DAV, Davangere
 Davari Balla
 Dawai Dhār
 Dawai Nadi
@@ -14716,7 +14716,7 @@ Dayāno Johra
 Dazipfu
 Dbrat Pass, Sitegai Pass
 Deb River, Deb
-Debagarh
+Debagarh, DGR
 Deban Dhār
 Debar Nadi
 Debbara Konda
@@ -14795,7 +14795,7 @@ Dehra La
 Dehra Nadi
 Dehra State Forest
 Dehrabhuj Nāla
-Dehradun
+Dehradun, DHR
 Dehri
 Dehri Protected Forest
 Dehri Reserved Forest
@@ -14914,7 +14914,7 @@ Deogaon
 Deogaon Minor
 Deogaon Reserve
 Deogaon Reserved Forest
-Deogarh, Deoghar
+Deogarh, DGH, Deoghar
 Deogarh Nadi
 Deogarh Pahār
 Deogarh Reserved Forest
@@ -14993,7 +14993,7 @@ Deori South Protected Forest
 Deori Thatl
 Deori Tāl
 Deori Zamīndāri
-Deoria
+Deoria, DER
 Deoria Tāl
 Deorādeo Pahār
 Deorāhat Ghāt
@@ -15297,7 +15297,7 @@ Dewarah Mahazi Kāshidat
 Dewarda Tāl
 Dewari Dhār
 Dewarpur
-Dewas, Dewas district, Dewās (India : District)
+Dewas, DWS, Dewas district, Dewās (India : District)
 Dewnār Nāla
 Dewājhari Reserve
 Dewāli Gād
@@ -15386,7 +15386,7 @@ Dhakwāra Minor
 Dhakāwāla Dhora
 Dhakīār
 Dhala Jān
-Dhalai
+Dhalai, DHL
 Dhalair
 Dhalaitwa Pahār
 Dhalarta Protected Forest
@@ -15448,7 +15448,7 @@ Dhamot Nāla
 Dhampar Got
 Dhamra Port
 Dhamrai Drain
-Dhamtari
+Dhamtari, DMT
 Dhamtān Major Distributary
 Dhamwādhūnga Protected Forest
 Dhamākāpur
@@ -15696,7 +15696,7 @@ Dharmadam Kadavu, Dharmadam
 Dharmaduār Parbat
 Dharmalingam Malai
 Dharmapatam Island
-Dharmapuri
+Dharmapuri, DRM
 Dharmapuri Reserved Forest
 Dharmastala Mundāje Reserved Forest
 Dharmasāgaram Cheruvu
@@ -15742,7 +15742,7 @@ Dharui Reserved Forest
 Dharuni Got
 Dharunipar
 Dharwa
-Dharwad, Dharwad district, Dhārwār District, Dhāwād
+Dharwad, DRW, Dharwad district, Dhārwār District, Dhāwād
 Dharwot Nadi
 Dharwādgād Protected Forest
 Dharwāns Tāl
@@ -15797,7 +15797,7 @@ Dhauli Rao
 Dhauliganga River, Dhauli River, Dhauliganga, Dhouli, Dārmaganga, Dārmaganga River
 Dhaulkān State Forest
 Dhaulna Rao
-Dhaulpur, Dholpur
+Dhaulpur, DLP, Dholpur
 Dhaulāna Drain
 Dhaulāpāni Nadi
 Dhaulī Dādar
@@ -15827,7 +15827,7 @@ Dhausia Dongar
 Dhautā Pāt
 Dhavai Reserved Forest
 Dhaval Peth
-Dhawa, Dhawa Nadī
+Dhawa, Dhawa Nadi
 Dhawagiri Nāla
 Dhawaia Nadi
 Dhawaiya
@@ -15855,7 +15855,7 @@ Dhela Sot
 Dhelahra
 Dhelanghuda Nāla
 Dhelon Barāhan Restricted Forest
-Dhemaji
+Dhemaji, DHM
 Dhempa Nadi
 Dhempali Parbat
 Dhemra Nadi
@@ -15870,7 +15870,7 @@ Dhenki Jhor
 Dhenki Nadi
 Dhenkiam Pahār
 Dhenkima State Forest
-Dhenkānāl, Dhenkānāl District
+Dhenkānāl, DHK, Dhenkānāl District
 Dhenoti Reserved Forest
 Dheonda
 Dheosāri Ghāt
@@ -16114,7 +16114,7 @@ Dhubdhubi Odha, Dhubdhubi Nadi
 Dhubela Tāl
 Dhubghāt Nāla
 Dhubia Tāl
-Dhubri, Dhuburi
+Dhubri, DHB, Dhuburi
 Dhubu Galahr State Forest
 Dhubulipathār
 Dhuda Nadi, Dhuda
@@ -16124,7 +16124,7 @@ Dhudring
 Dhugīāmura Nadi
 Dhuia Tāl
 Dhul
-Dhule, Dhule district, Dhūlia, West Khāndesh District
+Dhule, DHU, Dhule district, Dhūlia, West Khāndesh District
 Dhule Protected Forest
 Dhulgawān
 Dhulghāt Reserved Forest
@@ -16286,7 +16286,7 @@ Dhāna Distributary
 Dhāna Escape
 Dhāna Konda
 Dhāna Teja Minor
-Dhānbād, Dhānbād (India : District)
+Dhānbād, DHN, Dhānbād (India : District)
 Dhānd And Saloh State Forests
 Dhānd Kharak
 Dhāndhi Nadi
@@ -16327,7 +16327,7 @@ Dhānā Gād
 Dhānāpur Distributary
 Dhānāpuri Reserved Forest
 Dhāpar Reserved Forest
-Dhār, Mount Dhār
+Dhār, DHA, Mount Dhār
 Dhār Bandli
 Dhār Bhamolag Forest
 Dhār Bālakrupi Protected Forest
@@ -16472,9 +16472,9 @@ Dibrigad Protected Forest
 Dibriya Tālāb
 Dibru Got
 Dibru River, Dibru
-Dibrugarh, Dibrugarh District
+Dibrugarh, DBR, Dibrugarh district
 Dibāng River, Dibāng, Sikāng
-Dibāng Valley
+Dibāng Valley, DBN
 Dibār Mundia
 Dich Nai
 Dichur Nār
@@ -16559,9 +16559,9 @@ Dilār Minor
 Dilāri Protected Forest
 Dilāri Reserved Forest
 Dilāwarpur
-Dima Hasao District, Dima Hasao, North Cāchār Hills
+Dima Hasao District, DHO, Dima Hasao, North Cāchār Hills
 Dimanjan Dogri
-Dimapur
+Dimapur, DMP
 Dimbā
 Dimior La, Domior La
 Dimiri Parbat
@@ -16579,8 +16579,8 @@ Dinda Matkam Buru
 Dindadong Hill
 Dindi River, Dandi River, Dindi
 Dindi Vāgu
-Dindigul
-Dindori
+Dindigul, DIN
+Dindori, DND
 Dindwa Dongar
 Dindākuār
 Dindāla Reserved Forest
@@ -16794,7 +16794,7 @@ Dod Sanne Kere
 Dod-Araligere Kere
 Dod-Ballāpur
 Dod-Vallabi Kere
-Doda
+Doda, DOD
 Doda Betta, Dodabetta Peak, Doddabetta
 Doda Distributary
 Doda Dwāre Protected Forest
@@ -16922,7 +16922,7 @@ Dogri
 Dogum Dongri
 Dogān Nāla
 Doha Minor
-Dohad, Dahod, Dahod district
+Dohad, DHD, Dahod, Dahod district
 Dohanda Nadi
 Dohania Reserve
 Dohar Tāl
@@ -17621,7 +17621,7 @@ Dumha Pahār
 Dumhūni Forest
 Dumi State Forest
 Dumitalli Parbat
-Dumka
+Dumka, DMK
 Dumkatārī Pahār
 Dumkot
 Dumkudi Forest
@@ -17693,7 +17693,7 @@ Dungagarh State Forest
 Dungalpahār
 Dungariya Protected Forest
 Dungariā Reserved Forest
-Dungarpur
+Dungarpur, DNG
 Dungarpāni Nadi
 Dungi Cho
 Dungi Got
@@ -17754,7 +17754,7 @@ Durenda Protected Forest
 Durendagāl Nālā
 Durendagāl Pahār
 Durerj Nāla
-Durg, Drug District, Durg district
+Durg, DRG, Drug District, Durg district
 Durg Main Canal
 Durg Reserved Forest
 Durg Talāv
@@ -18343,17 +18343,17 @@ East Bay
 East Bheron Reserved Forest
 East Cape
 East Channel Swatch
-East Delhi, East, Trans Yamuna
-East District, East Sikkim, East Sikkim district
-East Godāvari, Godavari District, Godāvari
+East Delhi, EST, East, Trans Yamuna
+East District, EDT, East Sikkim, East Sikkim district
+East Godāvari, EGI, Godavari District, Godāvari
 East Gondvākdi Reserved Forest
-East Gāro Hills, East Garo Hills District
+East Gāro Hills, EGH, East Garo Hills District
 East Hill
 East Island
-East Jaintia Hills
+East Jaintia Hills, EJH
 East Juān Drain
-East Kameng
-East Khāsi Hills, East Khasi Hills District
+East Kameng, EKG
+East Khāsi Hills, EKH, East Khasi Hills District
 East Kālībhīt Reserved Forest
 East Kūno Reserved Forest
 East Ladpura Minor
@@ -18363,7 +18363,7 @@ East Melghāt
 East Māndwā Reserved Forest
 East Padri Reserved Forest
 East Point
-East Siang
+East Siang, ESG
 East Yamuna Reserved Forest
 Eastern Agar
 Eastern Bank
@@ -18675,9 +18675,9 @@ Ermukham
 Ermāmidi Kālva
 Ernallāmuslodu
 Ernapalaver Todu
-Ernākulam, Ernakulam (India : District)
+Ernākulam, ERN, Ernakulam (India : District)
 Ernākulam Channel
-Erode
+Erode, ERO
 Erolepade Motte
 Erozep
 Erpalli Mudi
@@ -18742,7 +18742,7 @@ Erāmala
 Erīmulli Vāgu
 Esāi River, Esāi
 Eta Kadavu
-Etah, Etah District
+Etah, ETA, Etah district
 Etah Minor
 Etalapoda Bodu
 Etbārpur Drain
@@ -18770,7 +18770,7 @@ Ettunerala Betta
 Ettupuram Gutta
 Ettuva Malai
 Ettāla Murippu
-Etāwah, Etāwah District
+Etāwah, ETW, Etāwah District
 Etāwah Branch, Upper Ganga Canal
 Etāwah Distributary
 Etāwah Protected Forest
@@ -18792,7 +18792,7 @@ Faitut ka Dhora
 Faiz Chak
 Faizpur Kampu
 Faizuddinpur Urf Baluābojh
-Faizābād, Fyzābād, Fyzābād District
+Faizābād, FZB, Fyzābād, Fyzābād District
 Fakharpur Barewa Minor
 Fakhrāpur
 Fakirāna
@@ -18814,9 +18814,9 @@ Farah Distributary
 Farai Nadi
 Faram Tongī
 Fardari Gūl
-Faridabad District, Faridabad
+Faridabad District, FRB, Faridabad
 Faridanpur
-Faridkot, Fridkot
+Faridkot, FRD, Fridkot
 Faridkot Distributary
 Faridpur
 Faridānagar Feeder
@@ -18826,7 +18826,7 @@ Farmān Khad
 Farmāna Minor
 Farnah Nala, Tarnāh Nadī
 Farrukhābad Protected Forest
-Farrukhābād, Farrukhābād District, Ferrukhabad
+Farrukhābād, FKB, Farrukhābād District, Ferrukhabad
 Farrukhābād Branch
 Farshi Nadi
 Farth Got
@@ -18848,15 +18848,15 @@ Fateh Sagar Lake
 Fateh Sāgar
 Fateh Wāh, Fatehwāh Branch
 Fateh ka Kas
-Fatehabad District, Fatehabad
+Fatehabad District, FTB, Fatehabad
 Fatehganj
 Fatehganj Distributary
 Fatehgarh Distributary
 Fatehgarh Escape
 Fatehgarh Minor
-Fatehgarh Sahib
+Fatehgarh Sahib, FTG
 Fatehgarhi Cut
-Fatehpur, Fatehpur District
+Fatehpur, FTP, Fatehpur District
 Fatehpur Block
 Fatehpur Branch
 Fatehpur Chandan
@@ -18881,7 +18881,7 @@ Fazalpur
 Fazalpur Bhoya
 Fazalpur Distributary
 Fazalpur Khandu
-Fazilka
+Fazilka, FAZ
 Fernhill Shola
 Ferozban Forest
 Fidāwāh Branch
@@ -18892,8 +18892,8 @@ Fifty Three Right Distributary
 Fifty Two Right Distributary
 Fingeshwar Zamīndāri
 Firospur Nāla
-Firozabad
-Firozpur, District Ferozepur, Ferozepore, Ferozepore District, Ferozepur, Ferozepur District, Firozepur, Firozpur district, Fērūzpur
+Firozabad, FIR
+Firozpur, District Ferozepur, FRZ, Ferozepore, Ferozepore District, Ferozepur, Ferozepur District, Firozepur, Firozpur district, Fērūzpur
 Firozpur Bagad
 Firozpur Distributary
 Firozpur Gadaulī
@@ -18984,7 +18984,7 @@ Gada Pahār
 Gada Tīrtha
 Gadad Nadi
 Gadadgad Nadi
-Gadag
+Gadag, GDG
 Gadagad Metta
 Gadageri Bodu
 Gadahi Gadaha Pahār
@@ -19012,7 +19012,7 @@ Gadavo Johra
 Gadbak Tāl
 Gadbori Distributary
 Gadbāru Nāla, Lakheri Nāla
-Gadchiroli
+Gadchiroli, GDC
 Gadda Konda
 Gaddal Tippa
 Gaddala Gutta
@@ -19255,7 +19255,7 @@ Gajadipur
 Gajai Tāl
 Gajal Gudde
 Gajanda Nadi
-Gajapati
+Gajapati, GJP
 Gajapati Rāo Estate
 Gajaur State Forest
 Gajaura Tāl
@@ -19472,7 +19472,7 @@ Gandaur Nadi
 Gandavu Karadu
 Gandelwapāni Nadi
 Gandera Nadi
-Ganderbal
+Ganderbal, GDR
 Gandeswāri Pahār
 Gandeswāri Reserved Forest, Kesgāria Reserved Forest
 Gandewar Cut, Gandawar Cut
@@ -19683,7 +19683,7 @@ Gangāji Nāla
 Gangākasa Nāla
 Gangālamma Konda
 Gangāna Johra, Gāgāna Johra
-Gangānagar
+Gangānagar, GNG
 Gangāniya Johra
 Gangāoli Cut
 Gangāoli Minor
@@ -19736,7 +19736,7 @@ Ganjhra Nala
 Ganji ka Khad
 Ganjuguda Soru
 Ganjāl Nadi, Ganjāl River
-Ganjām, Ganjām District
+Ganjām, GNJ, Ganjām District
 Ganjār Nadi
 Ganjās Nāla
 Ganjāyi Konda
@@ -19960,9 +19960,9 @@ Garhshank
 Garhsān Minor
 Garhsāni Minor
 Garhthatar
-Garhwa
+Garhwa, GRH
 Garhwa Mahal
-Garhwāl, Garhwāl District, Pauri Garhwal
+Garhwāl, Garhwāl District, PGR, Pauri Garhwal
 Garhākota Reserved Forest
 Garhāni Subdistributary
 Garhī Dādar
@@ -19982,7 +19982,7 @@ Garijma Dhār
 Garikallu Betta
 Garirālachelopadiya
 Gariwa Nadi
-Gariyaband
+Gariyaband, GRY
 Gariyāra Nadi
 Gariākhamān Jhor
 Gariāri Tāl
@@ -20227,7 +20227,7 @@ Gaurī Pahār
 Gaurīpur
 Gaushāl
 Gaushāla Johra
-Gautam Buddha Nagar
+Gautam Buddha Nagar, GBN
 Gautam Budh Nagar
 Gautami Godāvari River, Gautami Godāvari
 Gautiya Dhora
@@ -20250,7 +20250,7 @@ Gawār Meta
 Gawāsen Reserved Forest
 Gawāsri Tibba
 Gawīlgarh Hills
-Gaya, Gaya District
+Gaya, GAY, Gaya District
 Gaya Gadhera
 Gayi Malai
 Gayālchatuā Parbat
@@ -20488,7 +20488,7 @@ Ghatkopar Hill
 Ghatli Jākhoda Protected Forest
 Ghatoi Nadi
 Ghatoli Gād
-Ghatprabha River, Gat Prabha River, Ghatparba river, Ghatprabha
+Ghatprabha River, Gat Prabha River, Ghatparba river, Ghātprabha
 Ghatrai Gutta
 Ghatru Protected Forest
 Ghatta State Forest
@@ -20888,8 +20888,8 @@ Ghātīgaon Reserved Forest
 Ghāvdev Pahār
 Ghāzi Nār
 Ghāzikot Distributary
-Ghāziābād
-Ghāzīpur
+Ghāziābād, GZB
+Ghāzīpur, GZP
 Ghāzīpur Distributary
 Ghāzīpur Minor
 Ghēr Nār
@@ -21070,7 +21070,7 @@ Girār East Reserved Forest
 Girār Pahār
 Girār West Reserved Forest
 Girāwāla Dhora
-Girīdīh, Giridh
+Girīdīh, GIR, Giridh
 Girījwāla
 Girūwān Nāla
 Gish Nadī
@@ -21103,7 +21103,7 @@ Glādni Rakh
 Gnewag Protected Forest
 Go Gād
 Go'liholē
-Goa, Cólonia Goa, Distrito de Goa, Goa District, State of Goa, Union Territory of Goa, Union Territory of Goa Damān and Diu
+Goa, Cólonia Goa, Distrito de Goa, GA, Goa District, State of Goa, Union Territory of Goa, Union Territory of Goa Damān and Diu
 Goar Pahār
 Goara Nadi
 Goariwāla
@@ -21167,7 +21167,7 @@ Godamāha Nadi
 Godanj Nār
 Godavari Point
 Godd Ār
-Godda
+Godda, GDD
 Goddeti Konda
 Goddu Vanka
 Goddu Ār
@@ -21236,7 +21236,7 @@ Gogo
 Gogor Nadi
 Gogra Ghāt
 Gogra Nadi
-Gogra River, Gagra, Ghagra, Ghargharā, Ghāghara River, Ghāghra, Girwa, Gogrā, Gorga, Karnali, Kauriala, Kauriālā River
+Gogra River, Gagra, Ghagra, Ghargharā, Ghāghara River, Ghāghra, Girwa, Gogra, Gorga, Karnali, Kauriala, Kauriālā River
 Gogre Nāla
 Gogri Gād
 Gogrī Nadi
@@ -21363,7 +21363,7 @@ Gola River, Gola
 Gola Sot
 Golagad Nāla
 Golagadi Nāla
-Golaghat
+Golaghat, GLG
 Golagād Nadi
 Golai Nāla
 Golan Protected Forest
@@ -21441,7 +21441,7 @@ Gomarguta HS
 Gomat Drain
 Gomat Nadī
 Gomathi Nadi
-Gomati
+Gomati, GOM
 Gomati Nadi
 Gomati River, Goomti, Gumti River
 Gomni Nadi
@@ -21467,7 +21467,7 @@ Gond Dongri
 Gond Mohāri Reserved Forest
 Gond River, Gond
 Gond Tāl
-Gonda, Gonda district
+Gonda, GND, Gondā District
 Gonda Chamrahta
 Gonda Drain
 Gonda Ghār
@@ -21500,7 +21500,7 @@ Gondia Nadi
 Gondia Tāl
 Gondibasavanahalli
 Gondimalla
-Gondiya, Gondia
+Gondiya, GON, Gondia
 Gondla Rakh
 Gondlā Nadi
 Gondni Nadi
@@ -21582,7 +21582,7 @@ Gopāla
 Gopāla Bhāvi
 Gopāla Minor
 Gopāla Tippa
-Gopālganj
+Gopālganj, GPG
 Gopālgarh Minor
 Gopālkot Ki Dhār
 Gopālmīdi
@@ -21628,7 +21628,7 @@ Goraia Reserved Forest
 Goraiyā Pahār
 Gorakh Nadi
 Gorakhnāth, Gopakhnath
-Gorakhpur, Gorakhpur District, Goruckpur
+Gorakhpur, GKP, Gorakhpur District, Goruckpur
 Gorakhpur Distributary
 Gorakhpur Dādar
 Gorakhpur Minor
@@ -21872,7 +21872,7 @@ Goāchipi Huli, Goāchipi Pahār
 Goāl Dhanaila Jhīl
 Goāldei, Goaldes
 Goālnāni Bil
-Goālpāra, Goālpāra District
+Goālpāra, GLP, Goālpāra District
 Goālta Forest
 Goān
 Goān Protected Forest
@@ -22114,7 +22114,7 @@ Gularput Drain
 Gularwāla
 Gularwāla Reserved Forest
 Gulauli Reserved Forest
-Gulbarga, Gulbarga District, Kalaburagi
+Gulbarga, Gulbarga District, KLB, Kalaburagi
 Gulchuwa Nāla
 Gulela Dhār
 Gulenda Reserved Forest
@@ -22200,7 +22200,7 @@ Gumgaon Reserved Forest
 Gumia Tāl
 Gumin
 Gumkha Nāla
-Gumla
+Gumla, GML
 Gumma Dongri
 Gumma Estate Forest
 Gumma Kolli
@@ -22254,7 +22254,7 @@ Gumāra Reserved Forest
 Gumīnsara Nāla
 Gun Carriage Basin (historical)
 Gun Hill
-Guna, Goona
+Guna, GUN, Goona
 Guna Protected Forest
 Gunaber Parē Reserved Forest
 Gunahi Tāl
@@ -22422,7 +22422,7 @@ Gunthapoti Kālava
 Gunti Madugu
 Guntikona Vanka
 Guntipāt Pahār
-Guntūr, Guntūr District
+Guntūr, GNT, Guntūr District
 Gunupūdi Drain
 Gunwara River, Gunwara
 Gunwatia
@@ -22474,7 +22474,7 @@ Gurchi Gulriha
 Gurchoi Nadi
 Gurda Nadi
 Gurda Nāla
-Gurdaspur, District Gurdaspur, Guardāspur District, Gurdaspur district
+Gurdaspur, District Gurdaspur, GRD, Guardāspur District, Gurdaspur district
 Gurdeh Protected Forest
 Gurdera Nadi
 Gurdha Nadi
@@ -22498,7 +22498,7 @@ Gurera ka Pahār
 Gurerā Pahār
 Gurerā Reserved Forest
 Gurgand Nār
-Gurgaon, Gurgaon district, Gurugram
+Gurgaon, GRG, Gurgaon District, Gurugram
 Gurgaon Canal
 Gurgaon Minor
 Gurgaon Water Supply Channel
@@ -22679,7 +22679,7 @@ Guzar Ki Thari State Forest
 Guzi Nadi
 Guāsuba River, Guāsuba
 Guīla State Forest
-Gwalior, Gird, Gird Gwalior, Gird Gwalior District, Gwalior (India : District)
+Gwalior, GWL, Gird, Gird Gwalior, Gird Gwalior District, Gwalior (India : District)
 Gwalnidyo Johri
 Gwatkin Reserved Forest
 Gwāl Got
@@ -22829,7 +22829,7 @@ Gāndhi Sāgar
 Gāndhiya Kado Tāpu, Gandhia
 Gāndhra Drain
 Gāndhāri Reserved Forest
-Gāndhīnagar, Gandhi Nagar, Ghandhinagar, Gāndhīnagar District
+Gāndhīnagar, GNR, Gandhi Nagar, Ghandhinagar, Gāndhīnagar District
 Gāndighosara Pahār
 Gāndighosra
 Gānduni Nadi
@@ -23094,7 +23094,7 @@ Haidalpur Protected Forest
 Haidarnagar Distributary
 Haidimohan Nadi
 Haidukhera
-Hailakandi
+Hailakandi, HLK
 Hailera State Forest
 Hailiwar Nadi
 Haindun Nadi
@@ -23145,7 +23145,7 @@ Haldgadi Rao
 Haldi Dongar
 Haldi Nadi
 Haldi Nāla
-Haldi River, Haldi, Haldia River, Huldia River, Pasparer, Paspaver, Paspaver River
+Haldi River, Haldia River, Haldī, Huldia River, Pasparer, Paspaver, Paspaver River
 Haldia, Haldia Port
 Haldia Channel
 Haldia Dock
@@ -23226,7 +23226,7 @@ Hamar Gali
 Hamaria Nāla
 Hamboting La
 Hameshāpur
-Hamirpur, Hamīrpur District
+Hamirpur, HMP, HRP, Hamīrpur District
 Hamirpur Minor
 Hamiyala Mutlu
 Hammanthu Bhāvi
@@ -23327,7 +23327,7 @@ Hanthi Nar, Hantu Naushahra
 Hantimunti Betta
 Hanuman Gutta
 Hanuman Nadi
-Hanumangarh
+Hanumangarh, HGH
 Hanumant Minor
 Hanumantapura Canal
 Hanumantaputteri Reserved Forest
@@ -23360,7 +23360,7 @@ Hapanadka Holē
 Hapat Nār
 Hapatnār Forest
 Hapra Dongri
-Hapur
+Hapur, HAP
 Har Näg
 Har Nār
 Har Sāgar
@@ -23429,7 +23429,7 @@ Harchandpur Minor
 Harchi Don
 Hard Galu State Forest
 Hard Nadi
-Harda
+Harda, HDA
 Harda Nadi
 Hardahi̇̄ Kholā
 Hardasi Khera
@@ -23450,7 +23450,7 @@ Hardi̇̄ Nadi̇̄
 Hardo Khari Nadi
 Hardo Patti
 Hardohra Nāla
-Hardoi, Hardoi District
+Hardoi, HAR, Hardoi District
 Hardoi Branch
 Hardoi Drain Cut, Hardoi Drain
 Hardoi Escape
@@ -23523,7 +23523,7 @@ Harichanchal Kālava
 Haridra Nadi, Suiekere Halla
 Haridrāvati River, Haridrāvati
 Haridrāvati State Forest
-Haridwar, Hardwar
+Haridwar, HRD, Hardwar
 Harigipattiya Dongar
 Harigōthan
 Harihar Jhor
@@ -23716,7 +23716,7 @@ Hasnāpur Minor
 Hasopur
 Haspūru
 Hasrājo
-Hassan, Hassan District
+Hassan, HAS, Hassan District
 Hassan Taluk
 Hastam Minor
 Hasti
@@ -23790,7 +23790,7 @@ Hathnāpur Protected Forest
 Hathnāwar
 Hathnītor Pahār
 Hatho Minor
-Hathras, Hathras district, Mahamaya Nagar, Mahamaya Nagar district
+Hathras, HTR, Hathras district, Mahamaya Nagar, Mahamaya Nagar district
 Hathīn Dhār
 Hathīn Tibba
 Hathīya Sot
@@ -23849,7 +23849,7 @@ Havarekallu Holē
 Havelisar Forest
 Havelock Island
 Havelī
-Haveri
+Haveri, HAV
 Havina Betta
 Havya Nāla
 Hawthorn
@@ -23867,7 +23867,7 @@ Hazāra Bhar
 Hazāri Dādar
 Hazāria Pahār
 Hazāridādar
-Hazārībāg, Hazāribāgh, Hazāribāgh District
+Hazārībāg, HZR, Hazaribagh, Hazāribāgh District
 Hcl Technologies
 Hearn Wāh
 Heb Halla
@@ -24053,7 +24053,7 @@ Hingmandal
 Hingna Nadi
 Hingni Minor Number One
 Hingni Minor Number Two
-Hingoli, Hingoli district
+Hingoli, HIN, Hingoli District
 Hingori Nāla
 Hingota Minor
 Hingotar Minor
@@ -24119,7 +24119,7 @@ Hirnoti Minor
 Hironda Minor
 Hirozpur Drain
 Hirri Protected Forest
-Hirri River, Hirrī
+Hirri River, Hirri
 Hirridih Reserved Forest
 Hiru Mandal
 Hiru Nadi
@@ -24140,7 +24140,7 @@ Hissāsugandh
 Hisāmpur Drain
 Hisāmuddinpur
 Hisāoda Minor
-Hisār, Hissar, Hissār District
+Hisār, HSR, Hissar, Hissār District
 Hisār Distributary
 Hisār Gad
 Hisāra Drain
@@ -24295,9 +24295,9 @@ Hosapatna
 Hosapura
 Hosati Kunja
 Hosdurga Taluk, Hosadurga, Hosdurga
-Hoshangābād, Hoshangābād District
+Hoshangābād, HSH, Hoshangābād District
 Hoshangābād Distributary
-Hoshiarpur, Hoshiarpur District
+Hoshiarpur, HSP, Hoshiarpur District
 Hoshri Dhār
 Hoskote
 Hoskote Hole
@@ -24342,7 +24342,7 @@ Huduā
 Hudādu Protected Forest
 Hugadi
 Hugi Gudda
-Hugli, Hooghly, Hooghly District
+Hugli, HOO, Hooghly, Hooghly District
 Hukali Gudda
 Hukeri Taluk, Hukeri, Hukkeri
 Hukua Minor
@@ -24468,7 +24468,7 @@ Hutār Pahār
 Huzūr
 Hydel Canal
 Hydel Tank
-Hyderābād, Hyderabad District
+Hyderābād, HYD, Hyderabad District
 Hyderābād West
 Häiswär Nadi
 Hër Pass
@@ -24568,7 +24568,7 @@ Hānsu Jot
 Hānthi Forest
 Hānz Khod
 Hānz River, Hānz
-Hāora, Howrah, Howrah District
+Hāora, HWR, Howrah, Howrah District
 Hāpal Nadi
 Hāpan Nadi
 Hāpat Khāl Nadi, Hāpatkhāi, Hāpatkhāi Nadī
@@ -24766,7 +24766,7 @@ Idrispur Distributary
 Idugongāddai
 Iduhatti Reserve
 Idukallu Reserved Forest
-Idukki, Idikki District, Idukki district
+Idukki, IDK, Idikki District, Idukki district
 Idukki Reservoir
 Idumbar Malai
 Idupulapāya Extension Reserved Forest
@@ -24809,7 +24809,7 @@ Ilabās Reserved Forest
 Ilachi Wāh
 Ilaiyamuttūr Reserved Forest
 Ilambarakottumala State Forest
-Ilaqa Nala Salam Abad Forest, Ilaqa Nāla Salāmābād Forest
+Ilaqa Nala Salam Abad Forest, Ilāqa Nāla Salāmābād Forest
 Ilaqa Uri Haidarabad Forest, Ilaqa Ūri Haidarābād
 Ilatore Kere
 Ilattūr Kulam
@@ -24863,8 +24863,8 @@ Imlīpura Protected Forest
 Imlīpāni Nāla
 Impagat
 Imperial Bacteriological Labratory's Forest
-Imphal East
-Imphal West
+Imphal East, IME
+Imphal West, IMW
 Imphāl Turel, Imphāl
 Imria Ghāt
 Imrit Katharwa
@@ -24912,7 +24912,7 @@ Indo-Gangetic Plain, Indus and Ganges Lowland, North India Plains, Northern Plai
 Indok Protected Forest
 Indokala Johra
 Indora Reserved Forest
-Indore, Indore district
+Indore, IND, Indore District
 Indore State
 Indori Nāla
 Indpur Protected Forest
@@ -25223,7 +25223,7 @@ Jaba Nadi
 Jabal Gali
 Jabal State Forest
 Jabalbāzpur Ghāti
-Jabalpur, Jabalpur district, Jubbulpore District
+Jabalpur, JBL, Jabalpur district, Jubbulpore District
 Jaban
 Jabar Raula
 Jabba Gali
@@ -25312,7 +25312,7 @@ Jagatpur Minor
 Jagatpura
 Jagatpura Distributary
 Jagatpura Reserved Forest
-Jagatsinghpur, Jagatsinghapur
+Jagatsinghpur, JGT, Jagatsinghapur
 Jagaura Drain
 Jagbandhu Ghāti
 Jagdahawān Distributary
@@ -25424,7 +25424,7 @@ Jaintīpur
 Jaināl Bagar
 Jaināl Gād
 Jaiori Nadi
-Jaipur, Jaipur District, Jeipur
+Jaipur, JPR, Jaipur District, Jeipur
 Jaipur Protected Forest
 Jaipur State Forest
 Jair Nāla
@@ -25432,7 +25432,7 @@ Jairāmi Tāl
 Jairāmpur
 Jairāmpur Ghāt
 Jairāmpāh
-Jaisalmer, Jaisalmer District
+Jaisalmer, JSL, Jaisalmer District
 Jaisamand Lake
 Jaisari Distributary
 Jaisawān Drain
@@ -25474,7 +25474,7 @@ Jaji Gadda
 Jajia Ichha Ser Sf No 2, Jhājia Ichhāser Protected Forest
 Jajjar State Forest
 Jajot Reserved Forest
-Jajpur, Jajapur
+Jajpur, JJP, Jajapur
 Jajraul
 Jajāralli State Forest
 Jakanhalli Halla
@@ -25531,7 +25531,7 @@ Jaladurgam Reserved Forest and Extensions
 Jalalabad Branch
 Jalalamadugu
 Jalamau Jhīl
-Jalandhar, Jalandhar District
+Jalandhar, JLN, Jalandhar District
 Jalandhar Reserved Forest
 Jalangi River, Jalangi
 Jalaput Reservoir
@@ -25545,7 +25545,7 @@ Jaldāg
 Jaledar Pahār
 Jalehri Got
 Jaleswar Bīl, Jaleswar
-Jalgaon, East Khāndesh District, Khandesh East District
+Jalgaon, East Khāndesh District, JLG, Khandesh East District
 Jalha Nadi
 Jali Dhār
 Jaliādhar Pahār
@@ -25572,20 +25572,20 @@ Jallāvāgu Reserved Forest
 Jalmā Nadi
 Jalmūse Reserved Forest
 Jalmūse ka Khāla
-Jalna, Jalna district
+Jalna, JAL, Jalna District
 Jaloda Distributary
 Jaloda Minor
 Jaloda Minor Number One
 Jaloda Minor Number Two
 Jaloia Tank
 Jalola
-Jalore, Jhalore, Jālor
+Jalore, JLR, Jhalore, Jālor
 Jalori Galu, Jalori Pass
 Jalori Gate Circle
 Jaloti Gadhera
 Jalpa Nadi
 Jalpendra Vāgu
-Jalpāiguri, Jalpaiguri District
+Jalpāiguri, JLP, Jalpaiguri District
 Jalpāna Johra
 Jalshong Forest
 Jalso Distributary
@@ -25659,7 +25659,7 @@ Jamarāja Konda
 Jamawār Nadi
 Jambai Buru
 Jamballi State Forest
-Jambar Kas, Jambhir Kas
+Jambar Kas, Jambhīr Kas
 Jambaraddi
 Jambeli Dongri
 Jambhlya Nadi
@@ -25722,7 +25722,7 @@ Jammala Eru
 Jamman Nāl Protected Forest
 Jammanhalli Halla
 Jammar Tank
-Jammu, Jammu District
+Jammu, JMU, Jammu District
 Jammu Dhora
 Jammu Forest
 Jammu Got
@@ -25787,7 +25787,7 @@ Jamsot Nāla
 Jamsār Got
 Jamtai Nadi
 Jamtalia State Forest
-Jamtara
+Jamtara, JMT
 Jamthara Gād
 Jamthār Reserved Forest
 Jamti Nadi
@@ -25968,7 +25968,7 @@ Jania Nadi
 Janinkal Betta
 Janjala Kas, Janjala di Kasi
 Janjar
-Janjgir-Champa
+Janjgir-Champa, JCH
 Janjgīr
 Janjhāvati River, Janjhāvati
 Janjohi Protected Forest
@@ -26123,7 +26123,7 @@ Jasaur
 Jasaīpur Minor
 Jasein Tāl
 Jashornasa Protected Forest
-Jashpur
+Jashpur, JSH
 Jasiān Dhār
 Jasmaur Rao
 Jasmeda Minor
@@ -26237,7 +26237,7 @@ Jaunghāt Pahār
 Jaungi Dhār
 Jauni Reserved Forest
 Jaunla Rao
-Jaunpur, Jaunpur district
+Jaunpur, JNP, Jaunpur district
 Jaunpur Distributary
 Jaunra Minor
 Jaunri Minor
@@ -26299,7 +26299,7 @@ Jedala Sari
 Jeddukal Gudde
 Jedla Hole
 Jegri Island
-Jehanabad
+Jehanabad, JHB
 Jehra Nāla
 Jejam Nadi
 Jejar Protected Forest
@@ -26394,7 +26394,7 @@ Jhaira
 Jhajha Kherun Protected Forest
 Jhajhrīwa Pahār
 Jhajhwa Hill
-Jhajjar
+Jhajjar, JHJ
 Jhajjar Distributary
 Jhajjar Nāla
 Jhajjar Subbranch
@@ -26529,7 +26529,7 @@ Jharni Gali, Jārni Gali
 Jharnā
 Jharnāpāni Nadi
 Jharpa Nāla
-Jharsuguda District, Jharsuguda
+Jharsuguda District, JHR, Jharsuguda
 Jharun Forest
 Jharwania Nāla
 Jharwāna Johri
@@ -26667,7 +26667,7 @@ Jhunga Devi Protected Forest
 Jhungi Khad
 Jhuninuna Nadi
 Jhunjhunia Nāla
-Jhunjhunūn, Jhujhunu, Jhunjhunu
+Jhunjhunūn, JHN, Jhujhunu, Jhūnjhunu
 Jhunkar
 Jhunki Nadi
 Jhunki Nāla
@@ -26692,7 +26692,7 @@ Jhābar Jhīl
 Jhābar Tāl
 Jhābriya Reserved Forest
 Jhābrāwāla Sot
-Jhābua
+Jhābua, JHA
 Jhābwa Reserved Forest
 Jhāda Patti
 Jhāda Reserved Forest
@@ -26714,7 +26714,7 @@ Jhālra Minor
 Jhālri Reserved Forest
 Jhāltu Protected Forest
 Jhālāmān Pahār
-Jhālāwār
+Jhālāwār, JHL
 Jhāma Khoh
 Jhāmjhum Nāla
 Jhānda Bodu
@@ -26737,7 +26737,7 @@ Jhānpi Chhaparwāh Reserve
 Jhānpī Pahār
 Jhāns Johra
 Jhānsal Distributary
-Jhānsi, Jhānsi District
+Jhānsi, JHS, Jhānsi District
 Jhānsi Escape
 Jhānsāwāli Johri
 Jhānuādi Pahār
@@ -26911,7 +26911,7 @@ Joda, Jodda
 Jodha Ka Dhora
 Jodha Nāla
 Jodhansingh Tāl
-Jodhpur
+Jodhpur, JDH
 Jodhpur Distributary
 Jodhpur Drain
 Jodhāji ka Dāng
@@ -27104,7 +27104,7 @@ Joramu Nadi, Sagdia Nadi
 Joran Johra
 Joran Vāgu
 Joratoria
-Jorhat, Jorhat district, Jorhāt (India : District)
+Jorhat, JRH, Jorhat district, Jorhāt (India : District)
 Jori Got
 Jori Nadi
 Jori Nāla
@@ -27310,7 +27310,7 @@ Jwāri Nadi
 Jwārjīwāla Dhora
 Jyog Protected Forest
 Jyoti Kona
-Jyotiba Phule Nagar, Amroha, Amroha district
+Jyotiba Phule Nagar, AMR, Amroha, Amroha district
 Jyār Protected Forest
 Jyāwara Protected Forest
 Jābal Protected Forest
@@ -27389,7 +27389,7 @@ Jāla Reserved Forest
 Jālaban Protected Forest
 Jālar Konda
 Jālarevulu
-Jālaun, Jālaun District
+Jālaun, JLU, Jālaun District
 Jālaun Distributary
 Jālchula Dhora
 Jāleru Vāgu
@@ -27457,7 +27457,7 @@ Jāmkhadi Nadi
 Jāmkhodra Nadi
 Jāmkhora Nadi
 Jāmla
-Jāmnagar, Jāmnagar (India : District)
+Jāmnagar, JMN, Jāmnagar (India : District)
 Jāmner Nadi, Jāmner
 Jāmni Khera Minor
 Jāmni Reserved Forest
@@ -27584,7 +27584,7 @@ Jīdipeta Zamīndāri Forest
 Jīlugumilli Reserved Forest
 Jīna
 Jīnatongu Gutta
-Jīnd
+Jīnd, JND
 Jīnd Distributary Number Eight
 Jīnd Distributary Number Five
 Jīnd Distributary Number Four
@@ -27622,7 +27622,7 @@ Jūnesa Escape
 Jūni Khad
 Jūni Reserved Forest
 Jūnā Mandlā Reserved Forest
-Jūnāgadh, Jūnāgadh District
+Jūnāgadh, JNG, Jūnāgadh District
 Jūnāpāni Reserved Forest
 Jūnāpāni ki Toriya
 Jūra Nāla
@@ -27645,7 +27645,7 @@ Kabbinale Hole
 Kabbinale State Forest
 Kabbāl Durga, Kabbāldurga
 Kabdapattia
-Kabeerdham, Kabirdham, Kabirdham district
+Kabeerdham, KDM, Kabirdham, Kabirdham district
 Kabicchamal
 Kabini River
 Kabisa
@@ -28016,7 +28016,7 @@ Kaimokhar Minor
 Kaimottepare
 Kaimri Minor
 Kaimua Nadi
-Kaimur District, Kaimur (Bhabua)
+Kaimur District, KMR, Kaimur (Bhabua)
 Kaimur East Protected Forest
 Kaimur Hills, Kaimur Range
 Kaimur Reserved Forest
@@ -28085,7 +28085,7 @@ Kaitha Nāla
 Kaitha Reserved Forest
 Kaitha Tāl
 Kaithahar Khurd
-Kaithal
+Kaithal, KTL
 Kaithal Drain
 Kaithal Minor
 Kaithal Subminor
@@ -28643,7 +28643,7 @@ Kalwāri Nāla
 Kalya Māli
 Kalyandrug North Reserved Forest
 Kalyandrug South Reserved Forest
-Kalyani Nadi, Kalyan, Kalyān Nadi, Kalyāni
+Kalyani Nadi, Kalyan, Kalyan Nadī, Kalyāni
 Kalyān Ghāti
 Kalyān Johra
 Kalyān Kere
@@ -28844,7 +28844,7 @@ Kamro River, Kamro
 Kamru
 Kamru Nāg Dhār
 Kamru Nāg Nāl
-Kamrup Metropolitan, Kamrup Metro
+Kamrup Metropolitan, KMT, Kamrup Metro
 Kamrōt
 Kamrōt Forest
 Kamrūnāg Protected Forest
@@ -28980,7 +28980,7 @@ Kanchara Hole
 Kancharālla Metta
 Kanchausi Drain
 Kanchbal Nadi
-Kancheepuram, Kanchi, Kanchipuram
+Kancheepuram, KCP, Kanchi, Kanchipuram
 Kanchenugunta
 Kanchh
 Kanchi Konda
@@ -29032,7 +29032,7 @@ Kandel Reserved Forest
 Kandela Khad
 Kandeni Parbat
 Kandenmarai, Kandenmaral
-Kandhamal
+Kandhamal, KNM
 Kandharpur
 Kandharāpur
 Kandhesi Distributary
@@ -29322,7 +29322,7 @@ Kannappādi Vannādu Reserved Forest
 Kannappādu Kona
 Kannapur Protected Forest
 Kannar Gutta
-Kannauj
+Kannauj, KNJ
 Kannavam
 Kannegiri State Forest
 Kannela Cheruvu
@@ -29344,10 +29344,10 @@ Kannimār Pottai
 Kannimārkuzhi Todu
 Kanniramukku River
 Kannisholai
-Kanniyakumari, Kanyakumari
+Kanniyakumari, KNY, Kanyakumari
 Kannod Reserved Forest
 Kannukutti Malai
-Kannur, Cannanore, Cannanore District, Kannur District
+Kannur, Cannanore, Cannanore District, KNU, Kannur District
 Kannör Nadi
 Kannāpur Reserved Forest
 Kannāram Reserved Forest
@@ -29372,7 +29372,7 @@ Kanoti Reserved Forest
 Kanpara Ujari
 Kanpata Nāla
 Kanpulisi Zamīndāri Forest
-Kanpur Dehat, Kanpur Dehat district
+Kanpur Dehat, KPD, Kanpur Dehat district
 Kanpura
 Kanpura Reserved Forest
 Kanraria Nadi
@@ -29561,7 +29561,7 @@ Kapu Konda
 Kapur Nāla
 Kapuri Nadi
 Kapurpatti
-Kapurthala, Kapurthala district, Kapūrthala (India : District)
+Kapurthala, KPR, Kapurthala district, Kapūrthala (India : District)
 Kapāla Madugu
 Kapāla Soru
 Kapālganga Nadi
@@ -29635,7 +29635,7 @@ Karail Canal
 Karail Chatu Singh
 Karaila Drain Cut
 Karaili Nadi
-Karaipottanār River, Karaipottānār
+Karaipottanār River, Karaipottanār
 Karaira ki Tori
 Karaiya
 Karaiya Nāla
@@ -29744,7 +29744,7 @@ Karath Distributary
 Karauda Drain
 Karauhān Nāla
 Karauhān Reserved Forest
-Karauli
+Karauli, KAR
 Karaunbia Nāla
 Karaunda Minor
 Karaunda Reserved Forest
@@ -29845,7 +29845,7 @@ Kargali Halla
 Kargara Nadi
 Kargawān Minor
 Karghar Distributary
-Kargil
+Kargil, KRG
 Kargilo Khann
 Kargong Pass
 Karha Jhīl
@@ -29895,7 +29895,7 @@ Karim Puzha
 Karimala Gopura
 Karimalai
 Karimbakolli
-Karimganj, Karimganj district
+Karimganj, KGJ, Karimganj district
 Karimpuzha
 Karimullihalla
 Karimuru Hani
@@ -30030,7 +30030,7 @@ Karni Dhora
 Karnigadde Forest Reserve
 Karno Dhora
 Karnā Na
-Karnāl, Karnāl District
+Karnāl, KRL, Karnāl District
 Karnāl Drain
 Karnāl Minor
 Karnāla, Funnel Hill, Funnel Peak, Kurnali
@@ -30169,7 +30169,7 @@ Karuppankādutittu Reserved Forest
 Karuppimadattu Ār
 Karuppu Guddai
 Karuppūr Reddiyapatti Hill Reserved Forest
-Karur
+Karur, KRR
 Karutha Malai
 Karuthamalai Reserved Forest
 Karuthu Tiba
@@ -30238,7 +30238,7 @@ Karīl Minor
 Karīla Pahār
 Karīla Tāl
 Karīm Bakhsh Gūl
-Karīmnagar, Karim Nagar, Karīmngar District
+Karīmnagar, KRM, Karim Nagar, Karīmngar District
 Karīmpur Khālsa
 Karīmpur Reserved Forest
 Karīālgi State Forest
@@ -30285,7 +30285,7 @@ Kaseruva Tāl
 Kaserwa Minor
 Kaserwa Protected Forest
 Kaserwa Sot
-Kasganj, Kanshiram Nagar, Kasganj district
+Kasganj, KAS, Kanshiram Nagar, Kasganj district
 Kashaini Reserved Forest
 Kashar Tāl
 Kashikodla Gudda
@@ -30484,7 +30484,7 @@ Kathra Nadi
 Kathrowari Bhit
 Kathtar
 Kathu Vallimuni Reef
-Kathua, Kathua District
+Kathua, KTH, Kathua District
 Kathulsyun
 Kathulsyun Gād
 Kathwa Tāl
@@ -30510,7 +30510,7 @@ Katia Nadi
 Katia Tāl
 Katiakot Dongar
 Katibhata State Forest
-Katihar
+Katihar, KTR
 Katihār Nadi
 Katikalayādu Cheruvu
 Katikodi Gunta
@@ -30548,7 +30548,7 @@ Katnakhurd Nadi
 Katnavādi Kere
 Katnehia Nadi
 Katnehla Nadī, Katnehia, Katnehla
-Katni
+Katni, KTN
 Katni Nadi, Katni River
 Katni Nāla
 Katnālu Protected Forest
@@ -30751,7 +30751,7 @@ Kaurālbiding
 Kaurāli Minor
 Kaurārā Distributary
 Kausanichula Dhār
-Kaushambi District, Kaushambi
+Kaushambi District, KSB, Kaushambi
 Kausilya Sāgar
 Kausthal
 Kausāni Reserved Forest
@@ -30976,12 +30976,12 @@ Kenda Zamīndāri
 Kendaijor Nadi
 Kendatti Betta
 Kendinne State Forest
-Kendrapara
+Kendrapara, KND
 Kendrāpāra Canal
 Kendrī Gād
 Kendua Nadi
 Kendua Protected Forest Number Forty-eight
-Kendujhar, Keonjhar, Keonjhargarh
+Kendujhar, KNH, Keonjhar, Keonjhargarh
 Kendā Pahār
 Kendī Pahār
 Kenemakki Gudda
@@ -31242,7 +31242,7 @@ Khadwāli
 Khadāni Nadi
 Khadīha Nadi
 Khadīr Island
-Khagaria
+Khagaria, KGR
 Khagasghāti Nadi
 Khagin Gutta
 Khagna Khad
@@ -31501,7 +31501,7 @@ Khamka Nadi
 Khamkhera Reserved Forest
 Khamlekh Garhi
 Khamleki Khad
-Khammam, Khammam district, Khammamamet
+Khammam, KMM, Khammam district, Khammamamet
 Khammampalli State Forest
 Khammukhār Nadi
 Khamorī Dādar
@@ -31570,7 +31570,7 @@ Khandrā Ghāti
 Khandrāli Protected Forest
 Khandsibānji
 Khandta Reserved Forest
-Khandwa district, East Nimār, Khandwa, Nimār District
+Khandwa district, ENR, East Nimar, Khandwa, Nimār District
 Khandwal Dongar
 Khandwā Mitmau
 Khandwāla
@@ -31738,7 +31738,7 @@ Kharganiā Tāl
 Khargar Nāla
 Khargasīpur
 Khargoli Minor
-Khargone, Khargone (West Nimar), Khargone district, West Nimar, West Nimar district
+Khargone, KHA, Khargone (West Nimar), Khargone district, West Nimar, West Nimar district
 Khargudi Vāgu
 Kharguji Pahār
 Khargāpur Protected Forest
@@ -31958,7 +31958,7 @@ Khaī Khera
 Khaīla Pahār
 Khaīlti Khad
 Khe Gād
-Kheda, Kaira District, Kheda district
+Kheda, KHE, Kaira District, Kheda district
 Khedam Dhār
 Khedūn Paddar
 Khei Dhār
@@ -32027,7 +32027,7 @@ Kherda Protected Forest
 Khere-da-Tālāb
 Khergarh Protected Forest
 Kherhat Minor
-Kheri, Kherī District
+Kheri, KHR, Kherī District
 Kheri Bhar
 Kheri Branch
 Kheri Canal
@@ -32301,7 +32301,7 @@ Khora Nāla
 Khoradain Pahār
 Khorangi Protected Forest
 Khorba Nadi
-Khordha, Khorda
+Khordha, KHD, Khorda
 Khore-ka-Got
 Khorera Protected Forest
 Khorgaon Reserved Forest
@@ -32415,7 +32415,7 @@ Khuniyār ka Nāla
 Khunkti Gali
 Khunta Minor
 Khunta Ām
-Khunti
+Khunti, KNT
 Khunti Nadi
 Khunti Sot
 Khuntiag
@@ -32917,7 +32917,7 @@ Kinkor
 Kinkrāri Nadi
 Kinkwāla Tibba
 Kinnakalabanda Vanka
-Kinnaur, Kinnaur district
+Kinnaur, KIN, Kinnaur district
 Kinvati Tāl
 Kinwan
 Kinwat Nāla
@@ -32935,7 +32935,7 @@ Kināri Gāh
 Kinārsāni River, Kinnarasāni, Kinārsāni
 Kiogād Pass
 Kiongal ki Khad
-Kiphire
+Kiphire, KIP
 Kira Halla
 Kira Konda
 Kirah Tāl
@@ -33033,7 +33033,7 @@ Kishan Talāb
 Kishan Tank
 Kishanganga
 Kishanganga River
-Kishanganj
+Kishanganj, KSG
 Kishanganj Distributary
 Kishanganj Minor
 Kishangarh
@@ -33065,7 +33065,7 @@ Kishori Tāl
 Kishoriya Nāla
 Kishorpur Minor
 Kishting Thāch
-Kishtwar
+Kishtwar, KHT
 Kishuni Nadi
 Kishunpur
 Kishunpurā
@@ -33162,7 +33162,7 @@ Kobnalaya Betta
 Kobodu
 Kobri
 Kobur Halla
-Koch Bihār, Cooch Behār, Coochbehar
+Koch Bihār, CBH, Cooch Behār, Coochbehar
 Kocha Buru
 Kocha Nadi
 Kochan Kānal
@@ -33193,7 +33193,7 @@ Kodachādri, Kadachadri
 Kodagan Channel
 Kodaganūr Kere
 Kodagaralli
-Kodagu, Coorg, Mercāra
+Kodagu, Coorg, KDG, Mercāra
 Kodagu Srirangapatna
 Kodagāra Gudde
 Kodahi
@@ -33222,7 +33222,7 @@ Kodangikkuttu Reserved Forest
 Kodanli Kal
 Kodapamund Reserved Forest
 Kodapura
-Kodarma, Koderma
+Kodarma, KDR, Koderma
 Kodarma Reserved Forest
 Kodarmā Protected Forest
 Kodase Hole
@@ -33382,7 +33382,7 @@ Kohund Buru
 Kohādol Nadi
 Kohālāh Reserved Forest
 Kohāni Nāla
-Kohīma
+Kohīma, KHM
 Kohīra High Level Left Canal
 Kohīra Nadi
 Kohīra Nāla
@@ -33458,7 +33458,7 @@ Kokma Nāla
 Kokonda Reserved Forest
 Kokra Pahār
 Kokrai Nadi
-Kokrajhar
+Kokrajhar, KKR
 Kokri Minor
 Kokri Nadi
 Kokri Reserved Forest
@@ -33510,7 +33510,7 @@ Kolanka Zamīndāri
 Kolantha
 Kolapathu Kolam
 Kolappan Guddai
-Kolar, Kolar district
+Kolar, KLR, Kolār District
 Kolar Bidhānwāla Reserved Forest
 Kolar Huli
 Kolar Nadi, Kolār River
@@ -33518,7 +33518,7 @@ Kolar Taluk
 Kolaria
 Kolaribetta
 Kolasala Gudde
-Kolasib district, Kolasib
+Kolasib district, KLS, Kolasib
 Kolasur Hurkī
 Kolat-kuno
 Kolattapatti
@@ -33538,7 +33538,7 @@ Kole Gudda
 Kolekana Kolli
 Koleta Dūngar Protected Forest
 Kolhai Dūn State Forest
-Kolhapur
+Kolhapur, KLP
 Kolhaya Nadi
 Kolhi
 Kolhia Minor
@@ -33586,7 +33586,7 @@ Koliyālam Reserved Forest
 Koliān na Ban Forest, Koliānina Ban Forest
 Koliāri Mohmella Reserved Forest
 Kolkare Todu
-Kolkata
+Kolkata, KLK
 Koll Gād
 Kolla Gudda
 Kolla Kere
@@ -33595,7 +33595,7 @@ Kolladinne Reserved Forest
 Kollagattūr Eri
 Kollaimalai
 Kollakarai Ār
-Kollam
+Kollam, KLM
 Kollam Vāgu
 Kollamogaru
 Kollamunda Tōdu
@@ -33760,7 +33760,7 @@ Konda Seka
 Konda Siripi
 Konda Vāgu
 Kondachamila Parbat
-Kondagaon
+Kondagaon, KON
 Kondagāripalli Kunta
 Kondaibāri Pass
 Kondajammu Zamīndāri Forest
@@ -33924,7 +33924,7 @@ Koppa Murippu
 Koppa Īr Gutta
 Koppadka Hole
 Koppakere Halla
-Koppal
+Koppal, KPL
 Koppal Taluk
 Koppalakonda Reserved Forest
 Kopparakaymaduvu Halla
@@ -33990,7 +33990,7 @@ Koranjiparai
 Korapatnar
 Korappalanattam
 Korappuzha, Korappula River, Korapula River
-Koraput, Koraput District
+Koraput, KRP, Koraput District
 Korapāni Nadi
 Korapāni Pahār
 Korata Reserved Forest
@@ -34002,7 +34002,7 @@ Korattipārai Todu
 Koravanguli Ār
 Koraya Protected Forest
 Korayya Ghāt
-Korba
+Korba, KRB
 Korbā Zamīndāri
 Korda Nadi
 Korda Nala
@@ -34419,7 +34419,7 @@ Kottarālla Mera
 Kottatalai Mēdu
 Kottateravu
 Kottavthil
-Kottayam
+Kottayam, KTM
 Kottayat Male
 Kottayil
 Kotte Gudda
@@ -34530,7 +34530,7 @@ Koyākhai River, Koyākhai
 Kozhi Thottam Kāyal
 Kozhikkod Malai
 Kozhikkottu Kāyal
-Kozhikode
+Kozhikode, KOZ
 Kozhimudi
 Kozhimukku
 Kozhipāra Malai
@@ -34560,7 +34560,7 @@ Kripāl Tāl
 Kris Nār
 Krishan Nāg
 Krishn Jhil
-Krishna, Kisina, Kistna, Kistna District
+Krishna, KRS, Kisina, Kistna, Kistna District
 Krishna Kund
 Krishna Nāla
 Krishna Park
@@ -34568,7 +34568,7 @@ Krishna Reserved Forest
 Krishna Sāgar
 Krishna Sāgaram
 Krishnachakra Protected Forest
-Krishnagiri
+Krishnagiri, KHN
 Krishnai River, Krishnai
 Krishnamrāju Channel
 Krishnaoti Nadi
@@ -34924,7 +34924,7 @@ Kuldipa
 Kuledh Nadi
 Kuledu Kunja
 Kuleri Minor
-Kulgam
+Kulgam, KLG
 Kulgam State Forest
 Kulgara Nāla
 Kulgo Nadi
@@ -34999,7 +34999,7 @@ Kulthu
 Kultru Chho Nadi
 Kultāna Chhudāni Bupania Drain, K C B Drain, Kultāna Chhudāni Drain
 Kultāna Subminor
-Kulu, Kullu
+Kulu, KUL, Kullu
 Kuluhānd Forest
 Kuluhānd Nadi
 Kulumal Karadu
@@ -35506,7 +35506,7 @@ Kupti Nadi
 Kupti Reserved Forest
 Kupuvāmadi Reserved Forest
 Kupuā
-Kupwara
+Kupwara, KPW
 Kupāmma Dongar
 Kur Nadi
 Kura Distributary
@@ -35622,7 +35622,7 @@ Kurmūr Tekri
 Kurna Gali
 Kurnagere State Forest
 Kurnia
-Kurnool, Kurnool district
+Kurnool, KUR, Kurnool District
 Kurnool Cuddapah Canal
 Kurnool-Cuddapah Canal
 Kurnād Nadi
@@ -35684,7 +35684,7 @@ Kurudikād Malai
 Kurudu Protected Forest
 Kuruki Dhār
 Kurukka Malai
-Kurukshetra
+Kurukshetra, KRK
 Kurum Garā
 Kurumba Gaundan Nād
 Kurumbalkotai
@@ -35701,7 +35701,7 @@ Kurumāli Puzha
 Kurumānpuzha
 Kurumāttūr
 Kurunda Malai
-Kurung Kumey
+Kurung Kumey, KKY
 Kurung Left Bank Canal
 Kurung Left Bank Canal Son Distributary
 Kurung Right Bank Canal
@@ -35793,7 +35793,7 @@ Kusham Sāgar
 Kushamahwa Nār
 Kushhāi Pahār
 Kushi Gutta
-Kushinagar, Kushi Nagar, Kushinagar District
+Kushinagar, KSN, Kushi Nagar, Kushinagar District
 Kushiya Khāla
 Kushiyāra Reserved Forest
 Kushmahra Nāla
@@ -35901,7 +35901,7 @@ Kutauli Malli
 Kutauli Talli
 Kutaura Distributary
 Kutbānpur
-Kutch, Kachchh
+Kutch, KCH, Kachchh
 Kutchula Bodu
 Kutdar Reserve
 Kutela Got
@@ -36310,7 +36310,7 @@ Kāli Nāli
 Kāli Parbat
 Kāli Rao
 Kāli Rau
-Kāli River, Chaukā River, Kali Ganga, Krishna Gandaki, Mahā Kāli, Sarayū, Sharda River, Sārda River
+Kāli River, Chauka River, Kali Ganga, Krishna Gandaki, Mahā Kāli, Sarayū, Sharda River, Sārda River
 Kāli Sappar Nadi
 Kāli Shākri
 Kāli Sindh River, Chhoti Kāli Sindh, Kali Sind River, Kali Sinoh River, Kāli Sindh
@@ -36395,7 +36395,7 @@ Kālāga Reserved Forest
 Kālāgarh ki Dhār
 Kālāghāgal Gād
 Kālāghāt Nadi
-Kālāhandi
+Kālāhandi, KLH
 Kālājhār Parbat
 Kālākhet Protected Forest
 Kālākhora Reserved Forest
@@ -36468,7 +36468,7 @@ Kāmp Jhīl
 Kāmravaddu Vāgu
 Kāmrāng Reserved Forest
 Kāmrās Metta
-Kāmrūp, Kampur District, Ramrup
+Kāmrūp, KMP, Kampur District, Ramrup
 Kāmsandra State Forest
 Kāmtara Nadi
 Kāmtha Reserved Forest
@@ -36557,7 +36557,7 @@ Kāngiruppu Reserved Forest
 Kāngli Nadi
 Kāngni State Forest
 Kāngnām
-Kāngra, Kāngra District
+Kāngra, KNG, Kāngra District
 Kāngral Nadi
 Kāngrang
 Kāngri
@@ -36612,7 +36612,7 @@ Kānnirangād
 Kānnāl Halla
 Kānodwāla Rann
 Kānpohra Reserved Forest
-Kānpur, Cawnpore District, Cawnpōre, Kanpur Nagar, Kānpur District
+Kānpur, Cawnpore District, Cawnpōre, KPN, Kanpur Nagar, Kānpur District
 Kānpur Branch, Cawnpore Branch
 Kānpur Cut
 Kānpur Protected Forest
@@ -36700,7 +36700,7 @@ Kārab Minor
 Kāradka Reserved Forest
 Kārai Reserved Forest
 Kārai Ār
-Kāraikāl, Karaikal District, Karaikkal, Kārikāl
+Kāraikāl, KKL, Karaikal District, Karaikkal, Kārikāl
 Kāraiyan Betta
 Kārakali Vāgu
 Kārakundru Ār
@@ -36715,7 +36715,7 @@ Kārapāra River, Kārapāra
 Kāras Cut
 Kāraudh Minor
 Kāravallikkombai Reserved Forest
-Kārbi Ānglong, Korbi Anglong
+Kārbi Ānglong, KAG, Korbi Anglong
 Kārbār Ghāti
 Kārdi Forest
 Kāre Kallu
@@ -36800,7 +36800,7 @@ Kāsai River, Kāsa, Kāsai
 Kāsan Soru
 Kāsar Talāo
 Kāsaragod
-Kāsaragod District, Kasargod
+Kāsaragod District, KSR, Kasargod
 Kāsaragod Hole
 Kāsarkhed Protected Forest
 Kāsarni Nadi
@@ -37324,8 +37324,8 @@ Lakheri Nadi
 Lakhewāli Minor
 Lakhi Tibba
 Lakhia Nāla
-Lakhimpur, Lakhimpur district, Lakimpur District
-Lakhisarai
+Lakhimpur, LKP, Lakhimpur district, Lakimpur District
+Lakhisarai, LSR
 Lakhiwāla Dhora
 Lakhiya Nāla
 Lakhma
@@ -37385,7 +37385,7 @@ Laknavaram River, Laknavaram
 Lakni Lāni
 Laknāvaram Cheruvu
 Lakrākucha Gāra
-Lakshadweep, Aminidivi Islands, Laccadive, Laccadive Islands, Lakshadweep District, Minicoy
+Lakshadweep, Aminidivi Islands, LKS, Laccadive, Laccadive Islands, Lakshadweep District, Minicoy
 Lakshmakka Bhāvi
 Lakshmana Theertha, Lakshmanathirtha
 Lakshmanatirtha
@@ -37438,7 +37438,7 @@ Lali Gutta
 Lalita Kund
 Lalita Rao
 Lalitadri Park
-Lalitpur
+Lalitpur, LLP
 Lalitpur Main Canal
 Laliāna Minor
 Lalkawā Nāla
@@ -37691,7 +37691,7 @@ Lasāchheka Nadi
 Lat Nadi
 Latchamma Bhāvi
 Late Buru
-Latehar
+Latehar, LTH
 Latgarh Nāla
 Latheya Nāla
 Lathi Tāl
@@ -37710,7 +37710,7 @@ Latri
 Latri Nadi
 Latuechoozor Falls
 Latui Reserved Forest
-Latur, Latur District
+Latur, LTR, Latur District
 Latāpāni Buru
 Latār
 Latār Pahār
@@ -37745,7 +37745,7 @@ Lauwa Nadi
 Lava Gudde
 Lavki Nadi
 Lawan Branch
-Lawngtlai
+Lawngtlai, LWN
 Lawodugur Nadi
 Lawsons Bay, Laivsons Bay
 Lawā Nadī, Luā, Luā River
@@ -37802,7 +37802,7 @@ Left Salāwa Distributary
 Left Shādipui Distributary
 Left Upper Khajuri Canal
 Leguna Gād
-Leh, Ladākh District, Leh Ladakh, Leh(Ladakh)
+Leh, LLD, Ladākh District, Leh Ladakh, Leh(Ladakh)
 Leh District
 Lehangra Nāla
 Lehar Protected Forest
@@ -38069,7 +38069,7 @@ Lohara Pump Canal
 Lohara Reserved Forest
 Loharaiya Tāl
 Loharchha Reserved Forest
-Lohardaga
+Lohardaga, LHR
 Lohardaga Pahār
 Lohardaga Protected Forest
 Lohargarhā
@@ -38091,7 +38091,7 @@ Lohgarh Reserved Forest
 Lohgarh West Protected Forest
 Lohgarh ki Khol
 Lohia Nadi
-Lohit District, Lohit, Lohit Frontier Division
+Lohit District, LHT, Lohit, Lohit Frontier Division
 Lohit River, Ch'a-yü Ho, La-pi-te Ho, Lohit, Lu-hei-t'e Ho, Luhit, Luhit River, Mu Ho, Mu-ch'ü, Po-ts'ang-pu Chiang, Tsa-yü Ho, Zayü Qu
 Lohiya Nadi
 Lohiā Nāla
@@ -38225,10 +38225,10 @@ Londonpur Grant
 Lonel Got
 Long Island
 Longa Nāla
-Longding
+Longding, LDG
 Longepāt
 Longled Got
-Longleng
+Longleng, LLG
 Longwood Reserve
 Lonhāra Canal
 Lonhāra Minor
@@ -38298,7 +38298,7 @@ Lovedale Reserved Forest
 Low Level Channel
 Lower Chudiāla Distributary
 Lower Churiāla Distributary
-Lower Dibang Valley
+Lower Dibang Valley, LDV
 Lower Dābka Protected Forest
 Lower Ganga Canal
 Lower Ganges Canal Farrukhābād Branch
@@ -38308,7 +38308,7 @@ Lower Kotā Canal
 Lower Long Sand
 Lower Palni Shola Reserved Forest
 Lower Siang, Lower Siang district
-Lower Subansiri
+Lower Subansiri, LSI
 Lower Tain State Forest
 Lowis Inlet, Lewis Inlet
 Lowāna Nala
@@ -38323,12 +38323,12 @@ Luain Nāla
 Luathaha
 Lubha Pahār
 Lucknow Branch
-Lucknow District, Lucknow
+Lucknow District, LCK, Lucknow
 Ludakwas Nār
 Ludaraka
 Ludarwas
 Ludhaura Minor
-Ludhiana, Ludhiana District
+Ludhiana, LDH, Ludhiana district
 Ludhiāi Minor
 Ludhiāna Reserved Forest
 Ludhiāni Minor
@@ -38396,7 +38396,7 @@ Luned Khad
 Lunga Nadi
 Lunga State Forest
 Lungchi Nadi
-Lunglei, Lunglei district
+Lunglei, LNG, Lunglei district
 Lungnak La
 Lungni
 Lungpon Ching, Lung Ching
@@ -38475,7 +38475,7 @@ Lāhnga State Forest
 Lāhroi Minor
 Lāhul, Lahaul
 Lāhul Valley, Lahoul Valley
-Lāhul and Spiti, Lahaul and Spiti District, Lahoul and Spiti, Lahul and Piti, Spiti and Lahoul
+Lāhul and Spiti, LAS, Lahaul and Spiti District, Lahoul and Spiti, Lahul and Piti, Spiti and Lahoul
 Lāi Tāl
 Lāidhāng
 Lāikāburu
@@ -38878,7 +38878,7 @@ Madhavkampa Lake
 Madhavmantri Canal
 Madheghāt Distributary
 Madhei
-Madhepura
+Madhepura, MDP
 Madhera Nāla
 Madhgawān
 Madhmaheswar Dhār
@@ -38890,7 +38890,7 @@ Madhopur Nadi
 Madhpur Protected Forest
 Madhpurī Reserved Forest
 Madhuban Dāndi
-Madhubani
+Madhubani, MDB
 Madhugiri Taluk, Madhugiri
 Madhukarwa Pahār
 Madhupur Distributary
@@ -38898,7 +38898,7 @@ Madhupur Minor
 Madhura Malai
 Madhura Nadī, Madhura
 Madhwa Tāl
-Madhya Pradesh, State of Madhya Pradesh
+Madhya Pradesh, MP, State of Madhya Pradesh
 Madhāni ko Nezo
 Madhāp Dongri
 Madhīr Minor
@@ -38953,7 +38953,7 @@ Madu Khad
 Madu Ūttu
 Maduleru River, Maduleru
 Madupu Konda
-Madurai, Madura, Madurai District, Mathurai
+Madurai, MDR, Madura, Madurai District, Mathurai
 Maduravēli
 Madurna Protected Forest
 Madurā Kulam
@@ -39080,12 +39080,12 @@ Mahanjur Parbat
 Mahanāgani
 Mahar Khad
 Maharajdurga Betta
-Maharajganj, Mahrajganj
+Maharajganj, MRG, Mahrajganj
 Maharajganj Grant
 Maharashtra
 Maharpāli Reserved Forest
 Maharwa
-Mahasamund
+Mahasamund, MHS
 Mahasoba Odha
 Mahatittu Todu
 Mahauli Ghāt
@@ -39093,7 +39093,7 @@ Mahbili Got
 Mahbu Gutta
 Mahbūb Sāgar
 Mahbūb Sāgar Canal
-Mahbūbnagar, Mahabub Nagar, Mahabubnagar, Mahboobnagar, Mahbūbnagar District
+Mahbūbnagar, MAH, Mahabub Nagar, Mahabubnagar, Mahboobnagar, Mahbūbnagar District
 Mahbūbābād Reserved Forest
 Mahda Nadi
 Mahdaiya
@@ -39103,7 +39103,7 @@ Mahdewa Minor
 Mahdewa Protected Forest
 Mahdāich Channel
 Mahdūd Kalān
-Mahe, Mayyazhi
+Mahe, MHE, Mayyazhi
 Mahe Deo Kud
 Mahe River
 Mahed Nadi
@@ -39113,7 +39113,7 @@ Mahendra Giri, Mahendra Giri Range
 Mahendra Protected Forest
 Mahendra Reserved Forest
 Mahendra Sāgar
-Mahendragarh, Mahendergarh, Mahendragarth, Mohindargarh, Mohindergarh
+Mahendragarh, MGH, Mahendergarh, Mahendragarth, Mohindargarh, Mohindergarh
 Mahendragiri, Mahendra hill, Mahendra mountain
 Mahendragiri State Forest
 Mahendratanaya River, Mahendratanaya
@@ -39132,7 +39132,7 @@ Maheshwari Nadi
 Mahespur
 Maheswa Bāndh
 Maheswa Supply Cut
-Mahesāna, Mehsana, Mehsāna District
+Mahesāna, MHN, Mehsana, Mehsāna District
 Mahetwa Nadi
 Mahewa Distributary
 Mahewa Minor
@@ -39148,7 +39148,7 @@ Mahilwār Gali
 Mahimandalam Reserved Forest
 Mahimānpur
 Mahira Tāl
-Mahisagar
+Mahisagar, MSG
 Mahishamma Gutta
 Mahisāni Island
 Mahisāsuni Parbat
@@ -39177,7 +39177,7 @@ Mahnaiya Tāl
 Mahngurwāli Khad
 Maho Distributary
 Maho Escape
-Mahoba
+Mahoba, MHB
 Mahoba Dongar
 Mahoba Reserved Forest
 Mahobkanth Minor
@@ -39324,7 +39324,7 @@ Mahālam Wāh
 Mahālgaog Talāv
 Mahāmāli Dongar
 Mahān Nadi
-Mahān River, Māhān
+Mahān River, Mahān
 Mahāna Nadi
 Mahānadi Delta
 Mahānadi Main Canal
@@ -39468,7 +39468,7 @@ Maini Nadī, Maini, Maini River
 Mainol Gād
 Mainpur
 Mainpur Minor
-Mainpuri, Mainpuri District
+Mainpuri, MPR, Mainpuri district
 Mainpuri Minor
 Mainpāt
 Mainsirpur
@@ -39711,7 +39711,7 @@ Malani Nadi
 Malanu Jot
 Malanī Sot
 Malappattam
-Malappuram
+Malappuram, MLP
 Malar Nadi
 Malargām Nār
 Malasela Bhāvi
@@ -39808,7 +39808,7 @@ Malka Cheruvu
 Malka Johr
 Malka Nadi
 Malka Purwa Minor
-Malkangiri
+Malkangiri, MLK
 Malken Nadi
 Malkera
 Malkhed Protected Forest
@@ -40004,7 +40004,7 @@ Mamdot Distributary
 Mameri Nadi
 Mamhar Tāl
 Mamilia Gundam
-Mamit, Mamit district, Mammit
+Mamit, MMT, Mamit district, Mammit
 Mammaiah Vāgu
 Mammar Behi Dhār
 Mammī Forest
@@ -40146,7 +40146,7 @@ Mandhār Falls
 Mandhār Got
 Mandhār State Forest
 Mandhī Pātan Reserved Forest
-Mandi
+Mandi, MND
 Mandi Dhār
 Mandi Dhār State Forest
 Mandi Distributary
@@ -40161,7 +40161,7 @@ Mandimārka
 Mandiyāli Johra
 Mandiāpura
 Mandkana
-Mandla, Mandla District
+Mandla, MDL, Mandla district
 Mandla Nadi
 Mandla Reserved Forest
 Mandlakūtti Todu
@@ -40184,7 +40184,7 @@ Mandrāla Got
 Mandrāo Protected Forest
 Mandrūn
 Mandrūn Got
-Mandsaur, Mandasor, Mandasor District, Mandsaur district
+Mandsaur, MAN, Mandasor, Mandasor District, Mandsaur district
 Mandua Rel Nadi
 Mandum Khāla
 Manduria Pahār
@@ -40194,7 +40194,7 @@ Mandwa
 Mandwan
 Mandwā Pahār
 Mandwānagar
-Mandya
+Mandya, MDY
 Mandya Taluk
 Mandādi One Reserved Forest
 Mandādi Two Reserved Forest
@@ -40215,7 +40215,7 @@ Mandū Gāla
 Manehra Minor
 Manehri
 Manehār Khera Chaukoni
-Maner, Māner River
+Maner, Maner River
 Maner Distributary
 Manertha Protected Forest
 Maneshwar Reserved Forest
@@ -40384,7 +40384,7 @@ Manimeswaram Canal
 Manimuttār
 Manimuttār River
 Manipa Revu
-Manipur, State of Manipur
+Manipur, MN, State of Manipur
 Manipura
 Manirang Pass, Manirang
 Manirām Johri
@@ -40561,7 +40561,7 @@ Manpuria Jānki Pershād
 Manpāga Metta
 Manru Nadi
 Manrāli Sot
-Mansa, Mansa District
+Mansa, MNS, Mansa District
 Mansa Pahār
 Mansa Rauli
 Mansa State Forest
@@ -41146,7 +41146,7 @@ Mathpahāri
 Mathra Minor
 Mathra Reserved Forest
 Mathri Nadi
-Mathura, Mathura District, Muttra, Muttra District
+Mathura, MTH, Mathura District, Muttra, Muttra District
 Mathura Bil
 Mathura Distributary, Left Branch, Right Branch
 Mathura Escape
@@ -41197,7 +41197,7 @@ Matnāli Reserved Forest
 Maton Hill
 Matora Pahār
 Matora Reserved Forest
-Matoria Nāla, Matoria Nadī
+Matoria Nāla, Matoria Nadi
 Matot
 Matotukuttu Falls
 Matrech State Forest
@@ -41348,7 +41348,7 @@ Maypole Thodu
 Mayurmārā Kholā
 Mayār River, Mayār
 Mayūranadī, Mayūranadī River
-Mayūrbhanj
+Mayūrbhanj, MYR
 Mazhuvannur State Forest Number Fifteen
 Mazhuvannūr State Forest Number Fourteen
 Mazhuvannūr State Forest Number Thirteen
@@ -41373,7 +41373,7 @@ Meda Creek
 Meda Gedda
 Meda Nadi
 Medagāran
-Medak
+Medak, MDK
 Medakuru State Forest
 Medalada Betta
 Medar Nadi
@@ -41399,7 +41399,7 @@ Medra Drain
 Meduāpār
 Medāra Metta
 Medūr Pahār
-Meerut, Meerut District
+Meerut, MRT, Meerut District
 Meerut Distributary
 Meerut Drain
 Meerut Minor
@@ -41419,7 +41419,7 @@ Meghpāl Reserved Forest
 Meghuri Pahār
 Meghwā Pahār
 Meghākheri Drain
-Meghālaya, State of Meghālaya
+Meghālaya, ML, State of Meghālaya
 Meghālaya Plateau
 Meghāna Johra, Megāna Johra
 Meghāni Johri
@@ -41637,7 +41637,7 @@ Mevla Talāo
 Mevli Distributary
 Mewapur
 Mewar Merwāra
-Mewat, Nuh
+Mewat, MWT, Nuh
 Mewla Protected Forest
 Mewār
 Mewār - Merwāra
@@ -41814,7 +41814,7 @@ Mirwān Rar
 Mirya Bay
 Miryālgūda Cheruvu
 Mirziāna Branch
-Mirzāpur
+Mirzāpur, MZP
 Mirzāpur Bahiyāra
 Mirzāpur Distributary
 Mirzāpur Drainage Cut
@@ -41889,7 +41889,7 @@ Miyār Nadi
 Miyār Reserved Forest
 Mizen Sand
 Mizo Hills, Lushai Hills
-Mizoram, Lushai Hills District, Mizo, Mizo District, Mizo Hills District, State of Mizoram, Union Territory of Mizoram
+Mizoram, Lushai Hills District, MZ, Mizo, Mizo District, Mizo Hills District, State of Mizoram, Union Territory of Mizoram
 Miādarsāl
 Miāna Johra
 Miāngpura
@@ -41942,7 +41942,7 @@ Modwāwāla Dhora
 Modya Tibba
 Modākhera Minor
 Modīwāla Rao
-Moga, District Moga, Moga district
+Moga, District Moga, MOG, Moga district
 Moga Khurd Odha
 Mogadde Halla
 Mogadingi Drain
@@ -42121,7 +42121,7 @@ Mokla
 Mokla Reserve
 Moklingia Nadi
 Moklāna Johra
-Mokokchūng
+Mokokchūng, MKK
 Mokri Minor Irrigation Canal
 Mokāmo Pāhār
 Mokāna Johra
@@ -42252,7 +42252,7 @@ Morel Bāndh West Canal
 Morel Reservoir
 Morel River, Morel
 Morela Choti
-Morena, Tonwarghar
+Morena, MRN, Tonwarghar
 Morena Branch Canal
 Morganga Dhār
 Morgaon Hudki
@@ -42271,7 +42271,7 @@ Mori Parasi
 Mori Vāgu
 Moria
 Moria Pathār
-Morigaon, Marigaon
+Morigaon, MGN, Marigaon
 Moriya Distributary
 Moriya Pahār
 Moriā Dūngar
@@ -42312,7 +42312,7 @@ Moruvāncha Vāgu
 Morwa Johra
 Morwa Nadi
 Morwe Nadi
-Morādābād, Morādābād District
+Morādābād, MRB, Morādābād District
 Morādābād Distributary
 Morāi Protected Forest
 Morān Sāgar
@@ -42705,7 +42705,7 @@ Mukteshwar Nadi
 Mukteswaram Reserved Forest
 Mukti, Mukti River
 Mukti Reservoir
-Muktsar, Sri Muktsar Sahib
+Muktsar, SMT, Sri Muktsar Sahib
 Muktsar Branch
 Muktāno Johra
 Mukund River, Mukund
@@ -42794,8 +42794,8 @@ Mulugula Konda
 Mulā River, Mulā, Mutha Mula
 Mulāsan Devi
 Mulāttupāra Todu
-Mumbai
-Mumbai Suburban, Mumbai City District
+Mumbai, MMB
+Mumbai Suburban, MMS, Mumbai City District
 Mumbai Suburban District
 Mummāsar Kund
 Mumrezpur
@@ -42935,10 +42935,10 @@ Mungari Gudde
 Mungarkala
 Mungashpur Drain
 Mungeiharī Nāla
-Mungeli
+Mungeli, MUN
 Mungeli Distributary
 Mungena Minor
-Munger, Monghyr, Monghyr District
+Munger, MNG, Monghyr, Monghyr District
 Mungilipattu Reserved Forest
 Mungli Reserved Forest
 Mungottu Kāyal
@@ -43119,7 +43119,7 @@ Murphorwa Tāl
 Murrai Nadi
 Murray Point
 Murrum Nāla
-Murshidabad, Murshidabad district
+Murshidabad, MRS, Murshidabad district
 Mursān Distributary
 Murtal Gedda
 Murtazāpur
@@ -43310,8 +43310,8 @@ Mutīna Hills
 Muvala Motte
 Muyyam
 Muyāgarh Dongar
-Muzaffarnagar, Muzaffarnagar district
-Muzaffarpur, Muzaffarpur District
+Muzaffarnagar, MZN, Muzaffarnagar district
+Muzaffarpur, MUZ, Muzaffarpur district
 Muzaffarpur Kanwār Reserved Forest
 Muzaffarpur Minor
 Muzakkīpur Cut
@@ -43323,7 +43323,7 @@ Mwal ki Bhauti
 Mylāram Cheruvu
 Myohar Minor
 Mysem Gutta
-Mysore, Mysore District
+Mysore, MYS, Mysore District
 Mysura Kammadhanam Reserved Forest
 Mysuru
 Mytadi
@@ -43526,7 +43526,7 @@ Mālan River, Mālan
 Mālavāni Cheruvu Vanka
 Mālawan Nār
 Mālawāli Khad
-Māldah, Mālda, Mālda District
+Māldah, MLD, Mālda, Mālda District
 Māle Konda
 Māle Kunta
 Māleda
@@ -44167,7 +44167,7 @@ Na ki Nariya
 Na-yü Shan-k'ou, Nayu Pass, Nayü La
 Naba Pīr Pass
 Nabanwāla
-Nabarangpur, Nabarangapur, Nabarangapur District, Nabarangpur District, Nawarangpur District
+Nabarangpur, NBR, Nabarangapur, Nabarangapur District, Nabarangpur District, Nawarangpur District
 Nabkhal
 Nabo Chawālsar Restricted Forest
 Nabo Parātha Protected Forest
@@ -44204,7 +44204,7 @@ Nadgahna Minor
 Nadghanibetta
 Nadhadwa Nadi
 Nadhelao Tank
-Nadi Dai, Dai Nadī, Dain Nadi, Dain River
+Nadi Dai, Dai Nadī, Dain Nadī, Dain River
 Nadi Gad
 Nadi Konda
 Nadi State Forest
@@ -44279,8 +44279,8 @@ Nagamangala Taluk, Nagamangala
 Nagan Nadi
 Naganwāhi Nāla
 Naganūr Malai
-Nagaon, Nagaon District
-Nagapattinam
+Nagaon, NGN, Nagaon district
+Nagapattinam, NPM
 Nagar
 Nagar Banda
 Nagar Gudda
@@ -44386,7 +44386,7 @@ Nagmarg Nār
 Nago Dhār
 Nagoe-di-Khad
 Nagoke Distributary
-Nagpur Division
+Nagpur Division, NGP
 Nagpāni Reservoir
 Nagra Jhor
 Nagra Jhīl
@@ -44498,7 +44498,7 @@ Naini Dānda
 Naini Lake
 Naini Nadi
 Naini State Forest
-Naini Tāl, Naini Tāl District, Nainital
+Naini Tāl, NNT, Naini Tāl District, Nainital
 Naini Tāl Reserved Forest
 Nainiān
 Nainkhori
@@ -44629,7 +44629,7 @@ Nalaketivāni Kunta
 Nalanpura Minor
 Nalapongā State Forest
 Nalaut Protected Forest
-Nalbari
+Nalbari, NLB
 Naldgānī Nār
 Naldānga Bīl
 Naleli State Forest
@@ -44642,7 +44642,7 @@ Nalgan Pass, Nalgan
 Nalgan Thāch
 Nalgangā River, Nalgangā
 Nalghāti Pahār
-Nalgonda, Nalgonda District
+Nalgonda, NLG, Nalgonda District
 Nalhar Protected Forest
 Nalhera Bakāl
 Nalhera Distributary
@@ -44652,7 +44652,7 @@ Nali Branch
 Nali Creek
 Nalia Khad
 Nalia Reserved Forest
-Nalikanta, Neelakant, Neelkanth, Nilakantha, Nilkanta, Nilkanth, Nilkantha
+Nalikanta, Neelakant, Neelkanth, Nilakantha, Nilkanth, Nilkantha, Nīlkanta
 Nalikapātara
 Nalkai Mottai
 Nalkeri
@@ -44741,7 +44741,7 @@ Nalāwan Protected Forest
 Nama Gunda
 Namadya Bodu
 Namaini Drain
-Namakkal, District of Namakkal, Namakkal district
+Namakkal, District of Namakkal, NMK, Namakkal district
 Nambal Hokar Sar
 Nambal-i-Nārakur
 Nambal-i-Shālabug
@@ -44827,7 +44827,7 @@ Nandapahād Reserved Forest
 Nandapar Reserved Forest
 Nandawāla Minor
 Nandbir Reserved Forest
-Nanded, Nanded District
+Nanded, NAN, Nanded district
 Nandgaon Distributary
 Nandgaon Minor
 Nandgarh
@@ -44888,7 +44888,7 @@ Nandsāgar Tāl
 Nandu
 Nandu Todu
 Nandugira Pahār
-Nandurbar
+Nandurbar, NNR
 Nandwa Tāl
 Nandwān Tāl
 Nandyāl Extention One Reserved Forest
@@ -45032,7 +45032,7 @@ Naraura Ghāt
 Naraura Minor
 Narava Gedda
 Narawal Nār
-Narayanpur
+Narayanpur, NRY
 Naraī Nadi
 Narba Nadi
 Narbada Nadi
@@ -45133,7 +45133,7 @@ Narkādu
 Narla Gutta
 Narla Nāl
 Narlganeri Todu
-Narmada, Narbada Bank, Narbadā River, Nerbudda
+Narmada, NRM, Narbada Bank, Narbadā River, Nerbudda
 Narmi Dhār
 Narmā Nadī
 Narnāla Reserved Forest
@@ -45165,7 +45165,7 @@ Narsar Forest
 Narsarha Nāla
 Narsawāli Khad
 Narsen Cut
-Narsimhapur, Narsinhapur
+Narsimhapur, NRS, Narsinhapur
 Narsimlu Vāgu
 Narsimlāpet Konda
 Narsimparvata
@@ -45249,7 +45249,7 @@ Nashaghar and Baishipalli State Forest
 Nashang Gād
 Nashera Nāl
 Nashik
-Nashik Division
+Nashik Division, NSH
 Nasi Sāgar
 Nasirpur
 Nasratpur
@@ -45285,7 +45285,7 @@ Nathīkhera Reserved Forest
 Nathūāpur Minor
 Nati Khad
 National Capital Region, NCR
-National Capital Territory of Delhi, Delhi, Dilli, National Capital Territory, State of Delhi, Union Territory of Delhi
+National Capital Territory of Delhi, DL, Delhi, Dilli, NCT, National Capital Territory, State of Delhi, Union Territory of Delhi
 Natlara Guddai
 Natoda Jhīl
 Natohi Minor
@@ -45302,7 +45302,7 @@ Nattu Shola Reserved Forest
 Nattulakodu Drain
 Natty Ville Grant
 Nattāmūr Reserved Forest
-Nattār River, Nāttār
+Nattār River, Nattār
 Natu La, Na-tu Shan-k'ou, Nathu La, Natu
 Natwa Tāl
 Natwāri Link Drain
@@ -45410,7 +45410,7 @@ Navay Oddu
 Navcar ICD Umbergaon
 Navil Kallu
 Navli Sada
-Navsari
+Navsari, NVS
 Navul Veshi
 Navva Drain
 Navy Bay
@@ -45487,7 +45487,7 @@ Naya Tāl
 Naya Tāra
 Naya Walla
 Nayagaon Branch
-Nayagarh District
+Nayagarh District, NYG
 Nayagodo Nadi
 Nayapalli Mudi
 Nayappākkam Reserved Forest
@@ -45537,7 +45537,7 @@ Nedunkurukku
 Neduvila
 Neduvilāsa Hill
 Neelee Todu
-Neemuch
+Neemuch, NMC
 Negapatam Shoal
 Negaria Nāla
 Negdalu
@@ -45600,7 +45600,7 @@ Nellimalai Reserved Forest
 Nellimara River, Nellimara
 Nellipatla Reserved Forest
 Nelliūttu Odai
-Nellore, Nellore district, Spsr Nellore, Sri Potti Sri Ramulu Nellore district
+Nellore, NEL, Nellore district, Spsr Nellore, Sri Potti Sri Ramulu Nellore district
 Nellore Reserved Forest
 Nelluma Gudda
 Nellya Hudikeri
@@ -45729,7 +45729,7 @@ Nevata Talāv
 New Amarambalam Reserve
 New Bhāwi Canal
 New Cut Canal, New Canal
-New Delhi
+New Delhi, NDL
 New Dhodāl Branch
 New Enamadurru Drain
 New Ghāt
@@ -45800,7 +45800,7 @@ Nichrauli Reserved Forest
 Nichua Khas
 Nichua Khurd
 Nichīnai
-Nicobar, Nicobars
+Nicobar, NIC, Nicobars
 Nicobar Islands, Micobar Islands, Nakkavār, Nicobars
 Nidaula Nāla
 Nidbe Kunne
@@ -45904,7 +45904,7 @@ Nilavagilu Betta
 Nildhār State Forest
 Nilgiri Eastern Slopes Reserve
 Nilgiri Peak
-Nilgiris, Nilgiris District, Nīlgiri
+Nilgiris, NIL, Nilgiris District, Nīlgiri
 Nilgāgar Nār
 Nilhoa Branch Cut
 Nilhāl
@@ -46097,7 +46097,7 @@ Niyal Metta
 Niyan Dongar
 Niyorār Nāla
 Niyār Dīh Pump Canal
-Nizamabad, Nizamabad District
+Nizamabad, NIZ, Nizamabad District
 Nizampatam Reserved Forest
 Nizām Sāgar
 Nizāmpatam Bay
@@ -46188,8 +46188,8 @@ Nor Nāla
 Nora Nāl
 Nora Reserved Forest
 Nora Tāpu, Noru
-North  & Middle Andaman
-North 24 Parganas, North Twenty Four Parganas
+North  & Middle Andaman, NMA
+North 24 Parganas, North Twenty Four Parganas, S24
 North Agni Reserved Forest
 North Andaman, North Andaman Island
 North Bank Canal
@@ -46200,17 +46200,17 @@ North Button Island, North Button islet
 North Bānki Canal
 North Bāwanthari Reserved Forest
 North Cinque Island
-North Delhi, North
+North Delhi, NRD, North
 North Denwa Reserved Forest
 North Dhone Reserved Forest
-North District, North Sikkim, North Sikkim district, Northern
-North East Delhi, North East
+North District, NDT, North Sikkim, North Sikkim district, Northern
+North East Delhi, NED, North East
 North Embankment
 North Gadgadia Protected Forest
-North Garo Hills
+North Garo Hills, NGH
 North Ghaggar Canal, Ghaggar River, Ghagghar River
 North Ghāzīpur Drain
-North Goa
+North Goa, NGO
 North Island
 North Islet
 North Julera Minor
@@ -46230,8 +46230,8 @@ North Rājaund Branch
 North Sentinel Island, North Sentinel, Pa-Tang
 North Slope Block
 North Sāgar Sand
-North Tripura
-North West Delhi, North West
+North Tripura, NTR
+North West Delhi, NWD, North West
 North West Point
 North West Slope Block
 Northern Block State Forest
@@ -46255,7 +46255,7 @@ Noya
 Noyil River, Noyil
 Nuakheta Reserved Forest
 Nuaon
-Nuapada
+Nuapada, NPD
 Nubra
 Nubra River
 Nuchakki Betta
@@ -46446,7 +46446,7 @@ Nāgasamudram South Reserved Forest
 Nāgasānpalli Reserved Forest
 Nāgathorava Kālava
 Nāgau Distributary
-Nāgaur, Nagore
+Nāgaur, NGR, Nagore
 Nāgavara Kere
 Nāgbal
 Nāgban Chera Bālu Protected Forest
@@ -46539,7 +46539,7 @@ Nāgārjun State Forest
 Nāgārjuna Sāgar
 Nāgārjunasagar Left Bank Canal, Lāl Bahādur Canal
 Nāgārjunasāgar Right Bank Canal, Jawāhar Canal
-Nāgāvali River, Langulya, Lānguli, Lāngulinī, Lānguliyā, Lāngulya River, Nāgāvali
+Nāgāvali River, Lānguli, Lāngulinī, Lānguliyā, Lāngulya, Lāngulya River, Nāgāvali
 Nāgāvathi River, Nāgāvathi
 Nāgīmūndo Nadi
 Nāgīnpathar
@@ -46599,7 +46599,7 @@ Nālabaun Reserved Forest
 Nālad Khad
 Nālag ki Dhār
 Nālai Durupur
-Nālanda
+Nālanda, NLD
 Nāldera State Forest
 Nālgadi Got
 Nāli Forest
@@ -47255,7 +47255,7 @@ Osald Oddu
 Osam Hill, Osam
 Osatti Reserved Forest
 Oshipālem Reserved Forest
-Osmanabad, Osmanabad District
+Osmanabad, OSM, Osmanabad District
 Osmān Sāgar
 Osāli Nadi
 Osāsi Tank
@@ -47308,7 +47308,7 @@ Pa Nār
 Pa-chi-la-t'i Ho, Bhagiathi, Bhāgīrathi
 Pabaia Reserved Forest
 Pabana Drain
-Pabar River, Pabbar, Pābar
+Pabar River, Pabar, Pabbar
 Pabat
 Pabbīpur Minor
 Pabewari Creek
@@ -47716,7 +47716,7 @@ Pakridīh
 Pakrihwa
 Pakui Nadi
 Pakukorai Reserved Forest
-Pakur
+Pakur, PKR
 Pakwā Nadī
 Pakwādhorā Nadi
 Pakāura Tāl
@@ -47740,7 +47740,7 @@ Palakal Malai
 Palakala Konda
 Palakazhipuzha
 Palakh Nadi
-Palakkad district, Palakkad
+Palakkad district, PLK, Palakkad
 Palakkambu Malai
 Palakmati Nadi
 Palam Malal
@@ -47778,10 +47778,10 @@ Paleni Dhār Protected Forest
 Palera Hār Protected Forest
 Palera Reserved Forest
 Paleri
-Paleru River, Pāleru
+Paleru River, Paleru
 Paleta Rauli
 Palgeri Khad
-Palghar
+Palghar, PLG
 Palhalli Hole
 Palhan Nāla
 Palher
@@ -47817,7 +47817,7 @@ Pallatadka Hole
 Palle Bhāvi
 Palleru Banda
 Palleru Reservoir, Palleru Lake
-Palleru River, Palleru
+Palleru River, Pālleru
 Palli Konda
 Palli Metta
 Palli Pokhri
@@ -47881,7 +47881,7 @@ Palumallappana Betta
 Palur Mala
 Palur Vāgu
 Palwa Reserve
-Palwal
+Palwal, PWL
 Palwal Distributary
 Palwal Drain
 Palwāha Nadi
@@ -47891,7 +47891,7 @@ Palāh Protected Forest
 Palāiwali Khad
 Palālī Pahār
 Palāmauā
-Palāmu, Palāmau, Palāmau District
+Palāmu, PLM, Palāmau, Palāmau District
 Palān Got
 Palān Johra
 Palāna Johra
@@ -48010,7 +48010,7 @@ Panchet Hill Reservoir
 Panchgaon Reserved Forest
 Panchhi Reserved Forest
 Panchholāgandi Gutta
-Panchkula, Panchkula District
+Panchkula, PNK, Panchkula District
 Panchlāi Johri, Panchlāl Johri
 Panchmarhi
 Panchmukhi
@@ -48198,7 +48198,7 @@ Panihāri Reserved Forest
 Panihārīghāt Nadi
 Panior Nadī, Panir River
 Panipari Tank
-Panipat
+Panipat, PNP
 Panipat Main Drain
 Panipīri
 Paniyan Tōdu
@@ -48262,7 +48262,7 @@ Panjīla
 Panka Dhār
 Pankhāshari Reserved Forest
 Panki Dongri
-Panna
+Panna, PNN
 Panna Hills, Panna Range
 Pannakkādu Ūttu
 Pannamalai Reserved Forest
@@ -48358,12 +48358,12 @@ Papra Reserved Forest
 Papras Nadi
 Paprud Nadi
 Paprāsereng Nadi
-Papum Pare
+Papum Pare, PPM
 Papāthi Malai
 Par Got
 Par Khoh
 Par Nāl
-Par River, Parnadi River, Pār
+Par River, Par, Parnadi River
 Para Protected Forest
 Para Reserved Forest
 Paracheri Malai
@@ -48475,7 +48475,7 @@ Parbatpur
 Parbatpur Minor
 Parbatwa Pahār
 Parbatāna Bet
-Parbhani, Parbhani District
+Parbhani, PBN, Parbhani District
 Parbhūwāla Minor
 Parcha Kunta
 Parchamadugu Nadi
@@ -48741,12 +48741,12 @@ Pasarla Banda
 Pasarnī Reserved Forest
 Pasaunda Minor
 Paschim Bardhaman
-Paschim Medinipur, Medinipur West, West Midnapore, West Midnapore district
+Paschim Medinipur, MPW, Medinipur West, West Midnapore, West Midnapore district
 Paschima Vāhini River, Paschima Vāhini
 Pasgari Gadhera
 Pashan State Forest
-Pashchim Champāran, Champarān West, West Champaran
-Pashchim Singhbhūm, Pashchimi Singhbhum, West Singhbhum, West Singhbhum district
+Pashchim Champāran, Champarān West, PSC, West Champaran
+Pashchim Singhbhūm, Pashchimi Singhbhum, WSM, West Singhbhum, West Singhbhum district
 Pashchimi Nayār River, Pashchimi Nayār, Western Nayār River
 Pashkūm
 Pashnār Forest
@@ -48862,7 +48862,7 @@ Patha Branch
 Patha Ghāt
 Patha Pachaura Minor
 Patha Pahār
-Pathankot, Pathankot District
+Pathankot, PTK, Pathankot District
 Pathanmura
 Pathar
 Pathar Dewa Tāl
@@ -48952,7 +48952,7 @@ Pathārta Konda
 Pati Konda
 Patia Dhār
 Patia Tāl
-Patiala, District Patiala, Patiala District
+Patiala, District Patiala, PTL, Patiala district
 Patibania Island
 Patigam Nadi
 Patihar Nadi
@@ -48989,7 +48989,7 @@ Patliwālidabri Pass
 Patluri
 Patlākhera Minor
 Patlār Gād
-Patna, Basāi Pahār, Patna district
+Patna, Basāi Pahār, PTN, Patna District
 Patna Canal, Son East Canal
 Patna City
 Patna Drain
@@ -49045,7 +49045,7 @@ Pattainkunnu
 Pattakatti Malai
 Pattamancham Parvatam
 Pattanahitlu Halla
-Pattanamtitta, Pathanamthitta
+Pattanamtitta, PTT, Pathanamthitta
 Pattanur
 Pattaraikadu Reserved Forest
 Pattarhalli State Forest
@@ -49477,7 +49477,7 @@ Perali Drain
 Peralya Kunta
 Peram Puzha, Peram River
 Peramapāra
-Perambalur
+Perambalur, PRM
 Perambatte Hole
 Peran Nadi
 Perandal Karadu
@@ -49494,7 +49494,7 @@ Perayya Kunta
 Peraūtla Vāgu
 Perchando Pahār
 Peremul Par, Perumalpār, Perumulappara
-Peren
+Peren, PER
 Peri Eri
 Peri Got
 Peri Ār
@@ -49775,7 +49775,7 @@ Phaudīpur
 Phedu Lāni
 Pheduṅthām
 Phehri Nāla
-Phek, Pheka
+Phek, PHK, Pheka
 Phen River, Phen
 Pher-ka-Nāla
 Pheru Tāl
@@ -50328,7 +50328,7 @@ Pithipur
 Pithiri Tippa
 Pithli Reserved Forest
 Pithori Nāla
-Pithorāgarh
+Pithorāgarh, PTH
 Pithupura Minor
 Pithāpuram Zamīndāri
 Pitichandi Gudde
@@ -50573,7 +50573,7 @@ Porangali
 Porangwāni Kālwa
 Porasakkurichchi Reserved Forest
 Porathalai
-Porbandar
+Porbandar, PRB
 Pordi Dongar
 Porhi Buru
 Porida Jhole
@@ -50722,7 +50722,7 @@ Pradhānpāt Falls
 Pradhānpāt State Forest
 Prahlādpur Minor
 Prahlādpura Reserved Forest
-Prakasam, Prakasam district
+Prakasam, PRA, Prakasam district
 Prang Nadi
 Prangmandu
 Prangām
@@ -50732,7 +50732,7 @@ Pranhita River, Pranhita
 Praron Adwār
 Praswār Nāg
 Pratap Nagar
-Pratapgarh, Partabgarh, Partabgarh District, Partāpgarh
+Pratapgarh, PPG, PRG, Partabgarh, Partabgarh District, Partāpgarh
 Pratappur Protected Forest
 Pratāp Chak
 Pratāpgarh Branch
@@ -50909,10 +50909,10 @@ Pudippale Gudda
 Pudoauka Dhora
 Pudu Chira
 Pudu Yeri
-Puducherry, Pondicherry, Pondichéry
+Puducherry, PON, Pondicherry, Pondichéry
 Puduhatti Reserve
 Pudukkarai
-Pudukkottai
+Pudukkottai, PDK
 Pudukkulamkombai Ār
 Pudumalai Mottai
 Pudunattam Ar
@@ -51074,7 +51074,7 @@ Pulusuchinna Gunta
 Pulusugunta Bhāvi
 Pulusumāmidi Reserved Forest
 Pulusumāmilla
-Pulwama
+Pulwama, PLW
 Pulwāli Hīl
 Pulāmbādi Reserved Forest
 Pulāne Johra
@@ -51097,7 +51097,7 @@ Punan Reserved Forest
 Punand River, Punand
 Punari
 Punavāsal Channel
-Punch, Poonch
+Punch, PNC, Poonch
 Punchai Gudde
 Punchakkolli
 Punchi
@@ -51113,7 +51113,7 @@ Pundrīkul Dongar
 Pundāhri Nadi
 Pundāsāburu
 Pune District, Poona District, Pune
-Pune Division, Pune
+Pune Division, PUN, Pune
 Pung Wāsta
 Pungali Todu
 Pungam Pallam
@@ -51245,8 +51245,8 @@ Puravadaiyanār River, Puravadaiyanār
 Puravarg Protected Forest
 Purayan Kunnu
 Puraīn Jhīl
-Purba Medinipur, East Midnapore, Medinipur East
-Purba Singhbhum, East Singhbhum, East Singhbhum district, East Singhbum, Purbi Singhbhum
+Purba Medinipur, East Midnapore, MPE, Medinipur East
+Purba Singhbhum, ESM, East Singhbhum, East Singhbhum district, East Singhbum, Purbi Singhbhum
 Purbani Protected Forest
 Purbi Tāl
 Purdigedda
@@ -51276,12 +51276,12 @@ Purmandal
 Purmel Gudde
 Purna Distributary
 Purna Parbat
-Purna River, Nosari Khari, Pūrna
+Purna River, Nosari Khari, Purna
 Purnai
 Purnakot Reserved Forest
 Purnapāni Nāla
 Purnea
-Purnia, Purnea District
+Purnia, PRN, Purnea District
 Purnia Tāl
 Purnihwa Tāl
 Purniān Tāl
@@ -51297,7 +51297,7 @@ Pursangiri
 Purtāla Tāl
 Purubāli
 Purugurāda Konda
-Puruliya, Purūlia
+Puruliya, PRL, Purulia
 Purumba Parbat
 Purunāpāni Jhor
 Purunāpāni Nadi
@@ -51585,7 +51585,7 @@ Pālghāt Gap
 Pālgondi Reserved Forest
 Pālhanpur
 Pālhūwās Minor
-Pāli
+Pāli, PAL
 Pāli Konda
 Pāli Minor
 Pāli Nāla
@@ -51697,7 +51697,7 @@ Pānakambās
 Pānapuzha
 Pānawārā Gali
 Pānbera Protected Forest
-Pānch Mahāls, Broach and Pānch Mahāls, Broach and Pānch Mahāls District, Panchmahal
+Pānch Mahāls, Broach and Pānch Mahāls, Broach and Pānch Mahāls District, PMS, Panchmahal
 Pānch Pandol
 Pāncha
 Pānchar
@@ -52061,7 +52061,7 @@ Pīlia Talāv
 Pīlla Khal
 Pīlya Khāl
 Pīlākhār Nadī, Pīlakhar
-Pīlībhīt, Pilibhit District
+Pīlībhīt, PLB, Pilibhit District
 Pīlīkarār Reserved Forest
 Pīlīmadauri Distributary
 Pīmparkhed Talāv
@@ -52231,7 +52231,7 @@ Pūran Tāl
 Pūranpur
 Pūranpur Distributary
 Pūranwāla Dhora
-Pūrba Champāran, Champaran East, East Champaran, Purbi Champaran
+Pūrba Champāran, Champaran East, East Champaran, PRC, Purbi Champaran
 Pūri Jhor
 Pūrnīhāi Tāl
 Pūrthala
@@ -52400,7 +52400,7 @@ Raibāri Bhar
 Raich
 Raichetty Reserved Forest
 Raichor Reserved Forest
-Raichur, Raichūr District
+Raichur, RCH, Raichūr District
 Raichur Taluk
 Raida Buru
 Raidak Nadi
@@ -52413,7 +52413,7 @@ Raidihā Nadi
 Raie-ka-Tālāb
 Raigad District
 Raigar Gutta
-Raigarh, Raigad, Raigarh district
+Raigarh, RGD, RGR, Raigad, Raigarh district
 Raigarh East Reserved Forest
 Raigarh Plateau
 Raigarh West Reserved Forest
@@ -52442,7 +52442,7 @@ Rainthakhera
 Rainār Forest
 Raipal Jhor
 Raipati Ganga
-Raipur, Raipur district
+Raipur, RPR, Raipur district
 Raipur Lūni River, Raipur Lūni
 Raipur Reserved Forest
 Raipur Reservoir
@@ -52451,7 +52451,7 @@ Raipura
 Raipura Minor
 Raipura Protected Forest
 Raisa Nadi
-Raisen
+Raisen, RSN
 Raisen Reserved Forest
 Raisilli Estate Forest
 Raisim Minor
@@ -52507,7 +52507,7 @@ Rajpura
 Rajpura Distributary
 Rajpura Drain
 Rajpura Minor
-Rajsamand, Rajasmand District
+Rajsamand, RJS, Rajasmand District
 Raju Got
 Rajui Tāl
 Rajula Banda
@@ -52618,7 +52618,7 @@ Ramaipur
 Ramallūr Tōdū
 Ramalpur Minor
 Ramana Pahār
-Ramanagara, Ramanagar
+Ramanagara, RAM, Ramanagar
 Ramanagaram Taluk, Ramanagaram
 Ramanahalli State Forest
 Ramandāg Reserved Forest
@@ -52627,7 +52627,7 @@ Ramanāthpura Canal
 Ramareddi State Forest
 Ramauli Branch Distributary
 Ramaīpatti Minor
-Ramban
+Ramban, RMB
 Rambelabād
 Rambha Distributary
 Rambha Drain
@@ -52647,7 +52647,7 @@ Rameot Got
 Rameshwar Kund
 Ramgadhā
 Ramganga River
-Ramgarh
+Ramgarh, RMG
 Ramgarha Pahār
 Ramileru Vāgu
 Ramjhala Pahār
@@ -52668,7 +52668,7 @@ Ramole Tāl
 Ramora Reserved Forest
 Rampa Gutta
 Ramperu River, Ramperu
-Rampur
+Rampur, RMP
 Rampur Gainda Reserved Forest
 Rampur Ghāt
 Rampur Minor
@@ -52731,7 +52731,7 @@ Rangantittu Bird Sanctuary
 Ranganāyaka Tippa
 Rangappan Kallu
 Rangappanūr Reserved Forest
-Rangareddi, K.V.Rangareddy, Ranga Reddy, Rangareddy
+Rangareddi, K.V.Rangareddy, RNG, Ranga Reddy, Rangareddy
 Rangasamibetta
 Rangasamudra
 Rangasamudram Cheruvu
@@ -53030,10 +53030,10 @@ Ratiya Nadi
 Ratiān-ni-Bās Kasi
 Ratl Tāl
 Ratla Gād
-Ratlām
+Ratlām, RTL
 Ratmoli Reserved Forest
 Ratnagarpur
-Ratnagiri, Ratnagiri District
+Ratnagiri, RTN, Ratnagiri district
 Ratnagiri Reserved Forest
 Ratnapah Khad
 Ratni Tāl
@@ -53145,7 +53145,7 @@ Rawāsan Nadi
 Raya, Rājgiri Pahār
 Raya Minor
 Rayadrug Reserved Forest
-Rayagada
+Rayagada, RYG
 Rayalaguda
 Rayathmala Hole
 Raybag Taluk, Raibagh, Raybag
@@ -53164,7 +53164,7 @@ Raīlakhani Nadi
 Raīmala Minor
 Re-Barf
 Reachuri Thāch
-Reasi
+Reasi, REA
 Reba Nadi, Kekai Nadi
 Rebna State Forest
 Rechni State Forest
@@ -53340,12 +53340,12 @@ Revello Channel
 Revna Minor
 Revti
 Revāda Metta
-Rewa
+Rewa, REW
 Rewa Distributary
 Rewa Nadi, Rawa Nadī
 Rewag Protected Forest
 Rewai
-Rewari District
+Rewari District, RWR
 Rewe Minor
 Rewra
 Rewāi Nadi
@@ -53365,7 +53365,7 @@ Rhodāveli Protected Forest
 Rhuk Bank, Rogno Bhato, Rook Bank
 Rhānp
 Rhēni Forest
-Ri-Bhoi, Rh-Bhoi District, RiBhoi
+Ri-Bhoi, RGH, Rh-Bhoi District, RiBhoi
 Riali Ban
 Ribba Protected Forest
 Ribdi Nadi
@@ -53622,12 +53622,12 @@ Rohru Protected Forest
 Rohrūnd
 Rohta Drain
 Rohta Minor
-Rohtak, Rohtak District
+Rohtak, RHT, Rohtak District
 Rohtak Distributary
 Rohtang La, Rohtang Jot, Rohtang Pass
 Rohti Drain
 Rohti Major Distributary
-Rohtās
+Rohtās, RTS
 Rohua
 Rohua Nadi
 Rohā Nāla
@@ -53763,7 +53763,7 @@ Rudraguppe Hole
 Rudrakota Reserved Forest
 Rudramma Cheruvu
 Rudramma Gutta
-Rudraprayag, Rudra Prayag
+Rudraprayag, RPY, Rudra Prayag
 Rudrasāgar Tāl
 Rudri Hiunwala Number Eight SP
 Rudri Hiunwala Number Five Sp
@@ -53845,7 +53845,7 @@ Rupin Gād
 Rupin Pass
 Rupinijolla Parbat
 Rupinikota
-Rupnagar, Rupnagar District
+Rupnagar, RPN, Rupnagar District
 Rupnagar Minor
 Rupned Khad
 Ruppini Zamīndāri Forest
@@ -53911,7 +53911,7 @@ Rādi Halla
 Rādikhal
 Rādāniyo Dhora
 Rādāpuram Reserved Forest
-Rāe Bareli, Raebareli, Raebareli district, Rāe Bareli District
+Rāe Bareli, RBL, Raebareli, Raebareli district, Rāe Bareli District
 Rāel Tāl
 Rāepur Minor
 Rāewāri Minor
@@ -53984,7 +53984,7 @@ Rāj Gutta
 Rāj Gutta State Forest
 Rāj Konda
 Rāj Nadi
-Rāj Nāndgaon, Rajnandgaon
+Rāj Nāndgaon, RJN, Rajnandgaon
 Rāj Samand
 Rāja Chak
 Rāja Channel
@@ -54016,7 +54016,7 @@ Rājarhalli Kere
 Rājarwāra Reserved Forest
 Rājaund Main Branch
 Rājaura Khurd Minor
-Rājauri, Rajouri, Rajouri District
+Rājauri, RJR, Rajouri, Rajouri District
 Rājavommangi Reserved Forest
 Rājavāykkāl Pallam
 Rājba Kol
@@ -54031,7 +54031,7 @@ Rājdho Nala
 Rājdon
 Rājdāi Nār
 Rājendra Rakh Reserved Forest
-Rājgarh
+Rājgarh, RJG
 Rājgarh Bahamau Drain
 Rājgarh Branch
 Rājgarh Dhār
@@ -54055,7 +54055,7 @@ Rāji Protected Forest
 Rājistoria
 Rājkain
 Rājkonda Reserved Forest
-Rājkot
+Rājkot, RJK
 Rājkot Dhār
 Rājkūra Distributary
 Rājla Gutta
@@ -54235,7 +54235,7 @@ Rāmanna Kunta
 Rāmannapeta
 Rāmantali
 Rāmanturuttu, Candle Island, Ramanthuruthi
-Rāmanāthapuram, Rāmnād
+Rāmanāthapuram, RMN, Rāmnād
 Rāmanāyakan Cheruvu
 Rāmanāyakkan Kulam
 Rāmappa Cheruvu, Rāmappa Lake
@@ -54462,7 +54462,7 @@ Rāna ka Tibba
 Rāna ki Dhār
 Rānbe Nadi
 Rānbori Reserved Forest
-Rānchī, Rānchī District
+Rānchī, RNC, Rānchī District
 Rānchī Lake
 Rāndhiyāwāla
 Rānewāli Distributary
@@ -54804,7 +54804,7 @@ Sabargam
 Sabargam Block
 Sabari Malai, Sabarimala, Sabarimalai
 Sabarimala Todu
-Sabarkantha
+Sabarkantha, SKA
 Sabdalpur
 Sabdalpur Bārīwāla
 Sabdalpur Minor
@@ -54926,7 +54926,7 @@ Sahansra Rao
 Saharan
 Sahari Forest
 Saharpur Reserved Forest
-Saharsa
+Saharsa, SHS
 Sahasgara
 Sahasgāra Tāl
 Sahaspur Ghāt
@@ -54948,7 +54948,7 @@ Sahewa Nāla
 Sahgaon Minor
 Sahheti Tāl
 Sahib Tekri
-Sahibganj, Sahebganj
+Sahibganj, SGJ, Sahebganj
 Sahibgota Pahār
 Sahibihana Parbat
 Sahijana
@@ -54982,7 +54982,7 @@ Sahāo Minor
 Sahār Distributary
 Sahār Minor
 Sahāra Minor
-Sahāranpur, Sahāranpur District
+Sahāranpur, SHR, Sahāranpur District
 Sahāsna Reserved Forest
 Sahāwa Scheme Distributary
 Sahāyal Drain
@@ -55246,7 +55246,7 @@ Salegutu Nadi
 Saleha Nadi
 Saleha Protected Forest
 Salehpur Branch, Bhakra Canal
-Salem, Salem district
+Salem, SLM, Salem district
 Salemadā Pahār
 Salempur, Shītalpur
 Salempur Begam Jamohra
@@ -55365,16 +55365,16 @@ Samarkia Reserved Forest
 Samarra Protected Forest
 Samarsinga Nadi
 Samarsingha Nadi
-Samastīpur
+Samastīpur, SMS
 Samat
 Samat Pass
 Samaura Drain
 Samaura Jhīl
-Samba
+Samba, SAM
 Sambaikombai Halla
 Sambal State Forest
 Sambalhera Minor
-Sambalpur, Sambalpur District
+Sambalpur, SMB, Sambalpur District
 Sambalpur Reserved Forest
 Sambalpuri Pahār
 Sambar Nadi
@@ -55382,7 +55382,7 @@ Sambarbindhā Nadi
 Sambare Halla
 Sambari Konda
 Sambhaji Udyan
-Sambhal
+Sambhal, SBL
 Sambhalka Reserved Forest
 Sambhuni Parvatam
 Sambhālka Drain
@@ -55616,7 +55616,7 @@ Sangiot Got
 Sangkul Nāla
 Sanglad
 Sanglampokshid
-Sangli, Satara District, Satara South, South Sātāra
+Sangli, SNG, Satara District, Satara South, South Sātāra
 Sanglor Dhār
 Sanglān ka Tibba
 Sangoti Forest
@@ -55629,7 +55629,7 @@ Sangrnō Pristhmulō Forest
 Sangroi Khad
 Sangrol Thāch
 Sangroli Protected Forest
-Sangrur, Sangrur District
+Sangrur, SNR, Sangrur District
 Sangrām Tāl
 Sangrāmpur Kanakpur
 Sangrāmāl-Bātimura Reserved Forest
@@ -55741,8 +55741,8 @@ Sansari Nadi, Sinsā Nadi
 Sansua Reserved Forest
 Sansāl Khad
 Sansār Dīh
-Sant Kabir Nagar, Sant Kabeer Nagar, Sant Kabir Nagar district
-Sant Ravi Das Nagar, Bhadohi, Bhadohi district, Sant Ravidas Nagar (Bhadohi)
+Sant Kabir Nagar, SKN, Sant Kabeer Nagar, Sant Kabir Nagar district
+Sant Ravi Das Nagar, Bhadohi, Bhadohi district, SRD, Sant Ravidas Nagar (Bhadohi)
 Santa Metta
 Santa Tāl
 Santabaila Konda
@@ -55883,7 +55883,7 @@ Sarai ka Mar Hill
 Saraidamak Burharāja Reserved Forest
 Saraidih and Gogdā Protected Forest
 Saraijor Gāra
-Saraikela, Saraikela Kharsawan, Seraikela-kharsawan, Seraikella
+Saraikela, SKH, Saraikela Kharsawan, Seraikela-kharsawan, Seraikella
 Saraila Chitrakoni Minor
 Saraiya
 Saraiya Badurah
@@ -55896,7 +55896,7 @@ Saral Mazra
 Saralbhānga River, Saralbanga River, Saralbhānga
 Saramjāra Pahār
 Saramunda
-Saran, Sáran District
+Saran, SAR, Sáran District
 Saran Got
 Saran Khad
 Sarana Distributary
@@ -56307,11 +56307,11 @@ Sat Rar
 Sat Sar
 Satamunda Pahār
 Satanga River, Satanga
-Satani Nar, Sateni Nar
+Satani Nar, Sateni Nār
 Satania Protected Forest
 Satanwāra Reserved Forest
 Satapūr
-Satara Division
+Satara Division, SAT
 Satara Reef
 Satarari
 Sataravādi Konda
@@ -56389,7 +56389,7 @@ Satli Reserved Forest
 Satliā Chaur
 Satluj River, Satluj
 Satmariya
-Satna
+Satna, STN
 Satna River
 Satnadiā Nadi
 Satnagari Ghāt
@@ -56534,7 +56534,7 @@ Sawanpathar
 Sawanpāni Forest
 Sawāhra Tāl
 Sawāi Drain
-Sawāi Mādhopur
+Sawāi Mādhopur, SMP
 Sawāi Mādhopur Reserved Forest
 Sawāisinghwāla Dhora
 Sawāl Buru
@@ -56595,7 +56595,7 @@ Sehgāon, Pachhamgāon, Purabgāon
 Sehgāon Khānpur
 Sehl State Forest
 Sehmara Nāla
-Sehore
+Sehore, SEH
 Sehra
 Sehra Drain
 Sehra Forest
@@ -56742,7 +56742,7 @@ Sen ki Dhār
 Sena Forest
 Sena River, Sena
 Senagara Nadi
-Senapati
+Senapati, SNT
 Senchal Jhora
 Senchal Reserved Forest
 Senda Parbat
@@ -56811,13 +56811,13 @@ Seonrhi Reserved Forest
 Seonthi
 Seonāth River, Seonāth
 Seonāthpur
-Seonī
+Seonī, SEO
 Seonī Sāgar
 Seori Branch
 Seorāi Minor
 Seoti Nadi
 Seoudiāri Sot
-Sepahijala
+Sepahijala, SEP
 Sepau Branch
 Seppār
 Sepu Pass
@@ -56835,7 +56835,7 @@ Serahi Nadi
 Serahwa
 Serainji Nāla
 Serangiyanmudi Mettu
-Serchhip, Serchhip district
+Serchhip, SER, Serchhip district
 Seredi Khad
 Sergadāl Nāl
 Serha Tāl
@@ -56951,10 +56951,10 @@ Shahapur
 Shahbāz
 Shahbāzpur Minor
 Shahdara
-Shahdol, Sahdol
+Shahdol, SHD, Sahdol
 Shahdrug
 Shahgawān Nagaria
-Shahid Bhagat Singh Nagar, District Shahid Bhagat Singh Nagar, Nawanshahr, Nawanshahr District, Nawasahr, Shahid Bhagat Singh Nagar District
+Shahid Bhagat Singh Nagar, District Shahid Bhagat Singh Nagar, NWN, Nawanshahr, Nawanshahr District, Nawasahr, Shahid Bhagat Singh Nagar District
 Shahkāli Khad
 Shahmīrpet
 Shahr Wāh
@@ -57023,7 +57023,7 @@ Shambucāvi Malai
 Shamgol Guddai
 Shamir Minor
 Shamla Nadi
-Shamli
+Shamli, SML
 Shamri Nāla
 Shamrock Reserved Forest
 Shamru Nadi
@@ -57144,7 +57144,7 @@ Shegli Nāl
 Shegrah
 Sheikh Sahāwa Jhīl
 Sheikhainiān Tāl
-Sheikhpura
+Sheikhpura, SHK
 Sheikhpuri Drain
 Sheikhsāhib Dargāh
 Sheikhāpur Tāl
@@ -57182,14 +57182,14 @@ Sheo ka Tibba
 Sheo ki Dhār
 Sheobāra ka Khāla
 Sheodin Tāl
-Sheohar
+Sheohar, SHH
 Sheoja Jhīl
 Sheolāna Minor
 Sheonagri
 Sheonagri Nāla
 Sheonia Tank
 Sheonāthpur Reserved Forest
-Sheopur
+Sheopur, SHP
 Sheopura Reserved Forest
 Sheopuri, Shonpuri
 Sheora Minor
@@ -57330,12 +57330,12 @@ Shilāwāla Johra
 Shilībāgi Protected Forest
 Shimalī
 Shimdang Pass, Ssu-t'an, Stang, Ximudang Shankou
-Shimla, Shimla district, Simla, Simla District
+Shimla, SHM, Shimla district, Simla, Simla District
 Shimla Bahādur
 Shimla Dhār
 Shimli Gād
 Shimlia Reserved Forest
-Shimoga, Shimoga District, Shivamogga
+Shimoga, SVM, Shimoga District, Shivamogga
 Shimoliya Rao
 Shimpān
 Shimsha Falls, Shimshapura
@@ -57434,7 +57434,7 @@ Shivpur
 Shivpur Distributary
 Shivpur Minor
 Shivpurwa
-Shivpurī, Narwar District
+Shivpurī, Narwar District, SVP
 Shivra Protected Forest
 Shivrājpur Minor
 Shivrāni Bhar
@@ -57479,7 +57479,7 @@ Shortt Island (historical), Shortt Island, Shortt's Island
 Shorun Nadi
 Shrawan Talāo
 Shrawan Tāl
-Shrawasti, Shravasti
+Shrawasti, SHV, Shravasti
 Shri Bhrigukshetra
 Shri Pahār
 Shrijot Nāla
@@ -57514,7 +57514,7 @@ Shundi Nadi
 Shung Dhār
 Shunlar Nadi
 Shunūkham Thāch
-Shupiyan, Shopian, Shopian Hil
+Shupiyan, SPN, Shopian, Shopian Hil
 Shupur Jungle
 Shura Got
 Shura Ka Got
@@ -57574,7 +57574,7 @@ Shāhi Tibba
 Shāhidnagar Kalan
 Shāhjahanpur Branch
 Shāhjahanpur Rao
-Shāhjahānpur, Shāhjahānpur District
+Shāhjahānpur, SJN, Shāhjahānpur District
 Shāhjahānpur Escape
 Shāhjahānpur Minor
 Shāhjahānpur Reserved Forest
@@ -57608,7 +57608,7 @@ Shāhābād Reserved Forest
 Shāhānur Nadi
 Shāhāpur Minor
 Shāhī Ror
-Shājāpur, Shājāpur District
+Shājāpur, SJR, Shājāpur District
 Shāk
 Shāka Dhār
 Shākh Nirjan
@@ -57725,7 +57725,7 @@ Siaria Nadi
 Sibbu Chak Minor, Shibbu Chak Minor
 Sibigadde Halla
 Siblān Distributary
-Sibsāgar, Sibsāgar District, Sivasagar
+Sibsāgar, SVS, Sibsāgar District, Sivasagar
 Sibyāla Reserved Forest And Extension
 Sibār Nadi
 Sichālipallam
@@ -57766,7 +57766,7 @@ Siddhala Dari
 Siddhamāth
 Siddhan
 Siddhapura
-Siddharthnagar, Siddharth Nagar, Siddharth Nagar district, Siddharthnagar district
+Siddharthnagar, SDN, Siddharth Nagar, Siddharth Nagar district, Siddharthnagar district
 Siddhavattam
 Siddheshwar
 Siddheshwar Reserved Forest
@@ -57809,7 +57809,7 @@ Sidhbāba ka Gula
 Sidheswaraswāmi Konda
 Sidhgadhni Sot
 Sidhgarhi Minor
-Sidhi
+Sidhi, SDH
 Sidhi Falls
 Sidhi Reserved Forest
 Sidhkholia Nadi
@@ -57931,7 +57931,7 @@ Sikhājolla Dongar
 Sikhāna Johra
 Sikiya Nāla
 Sikkal Gutta
-Sikkim, Che-meng-hsiung, Demjong, Dremojong, Kingdom of Sikkim, Sikhim, State of Sikkim
+Sikkim, Che-meng-hsiung, Demjong, Dremojong, Kingdom of Sikkim, SK, Sikhim, State of Sikkim
 Sikkumānu River, Sikkumānu
 Siknara Tāl
 Sikni Dongar
@@ -58016,7 +58016,7 @@ Silgaon
 Silgati Nadi
 Silguru Tibba
 Silgād Reserved Forest
-Silgī River, Silgi, Silgi Nadī
+Silgī River, Silgi Nadī, Silgī
 Silhat
 Silhnu State Forest
 Silhor Nadi
@@ -58102,7 +58102,7 @@ Simblj
 Simbāl Nār
 Simbōl Forest
 Simchari Minor
-Simdega
+Simdega, SMG
 Simgaon Reserved Forest
 Simhalilā Dā̃ḍā
 Simi Nadī
@@ -58178,7 +58178,7 @@ Sindhnia Minor
 Sindhnia Subminor
 Sindhnur Taluk, Sindhanur, Sindhnur
 Sindhnūr Nadi
-Sindhudurg, Sindhudurg District
+Sindhudurg, SIN, Sindhudurg district
 Sindhwāri Nadi
 Sindhūwāli Sot
 Sindi Nadi
@@ -58325,7 +58325,7 @@ Singpura Minor
 Singpōr Nār
 Singra State Forest
 Singrau ka Khāla
-Singrauli
+Singrauli, SGL
 Singrauli Reserved Forest
 Singri Nadi
 Singrusi Nadi
@@ -58395,7 +58395,7 @@ Sipia Tāl
 Sipna Barra
 Sipnā Nadi
 Sippi Got
-Sipra River, Kshipra, Shipra River, Siprā
+Sipra River, Kshipra, Shipra River, Sipra
 Siprah Gād
 Sipu Nadī
 Sipāh
@@ -58471,10 +58471,10 @@ Sirko Dongar
 Sirkonda, Sirikonda
 Sirkondal Madago
 Sirkāmāna Buru
-Sirmaur, Sirmoor, Sirmūr
+Sirmaur, SRM, Sirmoor, Sirmūr
 Sirmaur Minor
 Sirmaura
-Sirohi
+Sirohi, SRH
 Siroka Nadi
 Siroli Dongar
 Siroli Estate Forest
@@ -58488,7 +58488,7 @@ Sirpur Reserved Forest
 Sirpur Vāgu
 Sirputi Dharan
 Sirpālpur Minor
-Sirsa, Sirasā
+Sirsa, SRS, Sirasā
 Sirsa Branch, Bhākra Canal, Sirsa Distributary
 Sirsa Drain
 Sirsa Kheri Minor
@@ -58651,7 +58651,7 @@ Siureni̇̄ Kholā
 Siurī
 Siva Durgam
 Siva Konda
-Sivaganga, Sivagangai
+Sivaganga, SGG, Sivagangai
 Sivagiri Malai, Sheva Giri, Shevagiri Peak
 Sivagiri Zamīndāri Forest
 Sivaladappana Betta
@@ -58684,7 +58684,7 @@ Siwāijpur Distributary
 Siwāl Drain
 Siwālik Range, Churia Ghāti, Churia Range, Dundwa Range, Mainak Parvat, Siwalik, Siwalik System, Siwaliks, Siwālik Ranges, Siwāllk Range, Ssu-wa-li-k'o Shan
 Siwālik Reserved Forest
-Siwān, Siwan District
+Siwān, SWN, Siwan District
 Siwān Hurki
 Siwāna Minor
 Siwāni Dhār
@@ -58870,8 +58870,8 @@ Sol Nār
 Sol Parbat
 Sola Singhi
 Solaimātti Reserved Forest
-Solan
-Solapur, Sholapur, Sholāpur District, Solapur district
+Solan, SLN
+Solapur, SOL, Sholapur, Sholāpur District, Solapur district
 Solapuram Ār
 Solavaram Reserved Forest
 Solbo Nadi
@@ -58996,7 +58996,7 @@ Sonbarsa Nadi
 Sonbarsa Reserved Forest
 Sonbarsa Tāl
 Sonbarsā Pahār
-Sonbhadra
+Sonbhadra, SBD
 Sonbhadra Nadi
 Sond
 Sond Distributary
@@ -59046,7 +59046,7 @@ Sonhār Minor
 Sonhāra Nāla
 Soni Nadi
 Soni Tank
-Sonitpur
+Sonitpur, SON
 Soniya Panār
 Sonkachār Nadi
 Sonkaro Tāl
@@ -59110,7 +59110,7 @@ Sonāron ki Johri
 Sonāsi Minor
 Sonāwāni Reserved Forest
 Sonī
-Sonīpat, Sonepat
+Sonīpat, SNP, Sonepat
 Sonīpat Distributary
 Sonūn Nāg Khad
 Soona Metta
@@ -59196,8 +59196,8 @@ Sotā Pahār
 Sound Island
 Souta Cheruvu
 Souta Vāgu
-South 24 Parganas, Dakshin 24 Parganas, South 24 Paraganas, South Twenty Four Parganas
-South Andaman, South Andaman Island, South Andamans
+South 24 Parganas, 24 PGS(S), Dakshin 24 Parganas, South 24 Paraganas, South Twenty Four Parganas
+South Andaman, SAS, South Andaman Island, South Andamans
 South Bangaram Cay
 South Bank
 South Bank Canal
@@ -59211,16 +59211,16 @@ South Bāwanthari Reserved Forest
 South Champājharan State Forest
 South Cinque Island, Gaota Koi
 South Coral Reef
-South Delhi, South
+South Delhi, SDL, South
 South Denwa Reserved Forest
 South Dhone Reserved Forest
-South District, South Sikkim, South Sikkim district, Southern
+South District, SDT, South Sikkim, South Sikkim district, Southern
 South East
 South Embankment
 South Gadgadia Protected Forest
-South Garo Hills
+South Garo Hills, SGH
 South Ghāzīpur Drain
-South Goa
+South Goa, SGO
 South Island
 South Julera Minor
 South Kheri Protected Forest
@@ -59240,10 +59240,10 @@ South Salmara Mancachar
 South Sentinel Island
 South Sāgar Sand
 South Terong Group
-South Tripura
-South West Delhi, South West
-South West Garo Hills
-South West Khasi Hills
+South Tripura, STR
+South West Delhi, SWD, South West
+South West Garo Hills, SWG
+South West Khasi Hills, SWK
 Southern Ghaggar Canal
 Southern Lighter Channel
 Southern Pinākini River, Southern Pinākini
@@ -59287,9 +59287,9 @@ Srīchelma Reserved Forest, Srīchelma State Forest
 Srīguda Zamīndāri Forest
 Srīharikota Island, Sriharikota
 Srīkolanu Reserved Forest
-Srīkākulam, Chicacole district, Srikakulam district
+Srīkākulam, Chicacole district, SRK, Srikakulam district
 Srīmant Gudda
-Srīnagar, Srīnagar District
+Srīnagar, SRN, Srīnagar District
 Srīnagar Reserved Forest
 Srīnivāsa Park
 Srīnivāspur
@@ -59306,25 +59306,25 @@ Srīvilliputtūr Reserved Forest
 Srōkandapuram River, Srōkandapuram
 Stanley Reservoir
 Startsapuk Tso
-State of Andhra Pradesh, Andhra Pradesh
-State of Arunāchal Pradesh, Arunāchal Pradesh, Nefa, North East Frontier Agency, North-East Frontier Tract
-State of Bihar
-State of Chhattīsgarh, Chhattīsgarh
-State of Gujarāt, Gujrat, Guyarat
-State of Haryāna, Hariana, Haryāna
-State of Himāchal Pradesh, Himāchal Pradesh
-State of Jammu and Kashmīr, Jammu and Kashmir, Kashmir
-State of Jhārkhand, Jhārkhand
-State of Karnataka, State of Mysore
-State of Kerala, Keralam
-State of Mahārāshtra
-State of Nāgāland, Naga Tuensang Area, Nāga Hills-Tuensang Area, Nāgāland
-State of Odisha, Odisha, Orissa, State of Orissa
-State of Punjab, Punjabi Suba
-State of Rājasthān, Rājasthān
-State of Tamil Nādu, Madras, State of Madras, Tamil Nadu, Tamilagam, Tamiland, Tamilnad, Tamishagam, Tamizgham, Thamizhagam
-State of Telangāna, Andhra, Telangana, Telengana, Telingana
-State of Uttarākhand, State of Uttaranchal, Uttarakhanda, Uttaranchal, Uttarākhand
+State of Andhra Pradesh, AP, Andhra Pradesh
+State of Arunāchal Pradesh, AR, Arunāchal Pradesh, Nefa, North East Frontier Agency, North-East Frontier Tract
+State of Bihar, BR
+State of Chhattīsgarh, CT, Chhattīsgarh
+State of Gujarāt, GJ, Gujrat, Guyarat
+State of Haryāna, HR, Hariana, Haryana
+State of Himāchal Pradesh, HP, Himachal Pradesh
+State of Jammu and Kashmīr, J&K, JK, Jammu and Kashmir, Kashmir
+State of Jhārkhand, JH, Jharkhand
+State of Karnataka, KA, State of Mysore
+State of Kerala, KL, Keralam
+State of Mahārāshtra, MH
+State of Nāgāland, NL, Naga Tuensang Area, Nāga Hills-Tuensang Area, Nāgāland
+State of Odisha, OR, Odisha, Orissa, State of Orissa
+State of Punjab, PB, Punjabi Suba
+State of Rājasthān, RJ, Rajasthan
+State of Tamil Nādu, Madras, State of Madras, TN, Tamil Nadu, Tamilagam, Tamiland, Tamilnad, Tamishagam, Tamizgham, Thamizhagam
+State of Telangāna, Andhra, TG, Telangāna, Telengana, Telingana
+State of Uttarākhand, State of Uttaranchal, UT, Uttarakhanda, Uttaranchal, Uttarākhand
 Stewart Island, Stewart
 Stewart Sound
 Stewartganj Creek
@@ -59348,7 +59348,7 @@ Subamadi Dongar
 Subantha Minor
 Subarnagiri
 Subarnagiri State Forest
-Subarnapur, Sonapur District, Sonepur, Sonepur District
+Subarnapur, SNE, Sonapur District, Sonepur, Sonepur District
 Subarnarekha River, Subernarekha, Suvarnarekhā in Midnapore
 Subauli Distributary
 Subbarāya Malai
@@ -59494,7 +59494,7 @@ Sukan Pass
 Sukar Khāl
 Sukar Nadi
 Sukar Nala
-Sukar River, Súkar
+Sukar River, Sukar
 Sukardi Reserved Forest
 Sukarmal
 Sukarwāh Nāla
@@ -59612,7 +59612,7 @@ Sukli Nadi
 Sukli Pahār
 Sukli̇̄ Kholā
 Suklūoh
-Sukma
+Sukma, SKM
 Sukma Dukma Reservoir
 Sukma Zamīndāri
 Suknai Nadi
@@ -59706,7 +59706,7 @@ Sultāna Nadi
 Sultāngarh
 Sultāni
 Sultānpathri Forest
-Sultānpur, Sultānpur District
+Sultānpur, SLP, Sultānpur District
 Sultānpur Dabās Reserved Forest
 Sultānpur Drain
 Sultānpur Ghaus Minor
@@ -59809,7 +59809,7 @@ Sundara Malai
 Sundarban
 Sundarban State Forest
 Sundaresarapuram Reserved Forest
-Sundargarh, Bonai District, Sundergarh
+Sundargarh, Bonai District, SDG, Sundergarh
 Sundari Malai
 Sundari Nadi
 Sundari Pahār
@@ -59967,7 +59967,7 @@ Supalāpuram, Subrahmanyapuram
 Supama Reserved Forest
 Suparāti Konda
 Supat Jharia
-Supaul
+Supaul, SPL
 Supiyār Nāla
 Supkon Dongar
 Supkona Distributary, Tandula Canal Supkona Distributary
@@ -60003,7 +60003,7 @@ Suraini Tāl
 Surajga
 Surajkunda Nadi
 Surajmān Tāl
-Surajpur
+Surajpur, SRJ
 Sural Advi Reserved Forest
 Surambu Nadi
 Suramkani Bodu
@@ -60031,12 +60031,12 @@ Surehti Minor
 Surela Minor
 Surela Tāl
 Sureman Chak
-Surendranagar, Surendra Nagar
+Surendranagar, SUR, Surendra Nagar
 Surera Distributary
 Sureswari Jhor
 Sureti Minor
 Surgiguda Zamīndāri Forest
-Surguja, Surguja district, Surquja
+Surguja, SRG, Surguja district, Surquja
 Surha Nadi
 Surha Pump Canal
 Surhalu, Surhalu Forest
@@ -60300,7 +60300,7 @@ Sāewan Forest
 Sāfi
 Sāfuwāla Minor
 Sāg Dongri
-Sāgar, Saugor
+Sāgar, SGR, Saugor
 Sāgar Flat
 Sāgar Got
 Sāgar Island, Gangasagar Island, Saugor Island
@@ -60805,7 +60805,7 @@ Sīgād Nadi, Si Gād
 Sīh Kath Got
 Sīh Nāl
 Sīh Nāl Protected Forest
-Sīkar
+Sīkar, SKR
 Sīkharam Konda
 Sīkri Patti Bāndh
 Sīkupalle Reserved Forest
@@ -60890,11 +60890,11 @@ Sītābāi Dongri
 Sītādohar Tāl
 Sītāgondi Reserved Forest
 Sītākund Tank
-Sītāmarhi, Sītāmarhi District
+Sītāmarhi, STM, Sītāmarhi District
 Sītānadī River, Barkur, Silandi River, Sīta, Sītānadī
 Sītānahāni Spring
 Sītāngana Cheruvu
-Sītāpur, Sītāpur District
+Sītāpur, STP, Sītāpur District
 Sītāpur Branch
 Sītāpur Drain
 Sītāpur Reserved Forest
@@ -60993,7 +60993,7 @@ Sūrajpura Reserved Forest
 Sūranna Gutta
 Sūrantattikādu
 Sūrantāl
-Sūrat, Surat District
+Sūrat, SRT, Surat District
 Sūrgara Nāla
 Sūri Minor
 Sūri Pahār
@@ -61271,7 +61271,7 @@ Tamburan Gudda
 Tambāttimalai
 Tambūra Nāla, Tamburā, Tamburā Nadī
 Tamdang Vāgu
-Tamenglong
+Tamenglong, TMN
 Tamer Nadi
 Tamerametaka Bhāvi, Thambera Bhāvi
 Tamidepindi Vāgu
@@ -61428,7 +61428,7 @@ Taparyān Harāran Reserved Forest
 Tapasani Kunta
 Tapasela Bodu
 Tapasikonda Reserved Forest
-Tapi, Taptee, Tāpti River
+Tapi, TAP, Taptee, Tāpti River
 Tapiāl Gutta
 Tapka Nadi
 Tapkan Protected Forest
@@ -61523,7 +61523,7 @@ Tarmahoni Ghāt
 Tarmata Branch
 Tarmugli Island
 Tarmā Pahār
-Tarn Taran, Tarn Taran District
+Tarn Taran, TAR, Tarn Taran District
 Tarn Tāran Distributary
 Tarnah Nala
 Tarne Got
@@ -61639,9 +61639,9 @@ Tawa Left Bank Canal
 Tawa Nadi
 Tawa Protected Forest
 Tawa Reservoir
-Tawa River, Tawa
+Tawa River, Tawā
 Tawakkalpur
-Tawang
+Tawang, TWN
 Tawarjo
 Tawi
 Tawi River
@@ -61670,7 +61670,7 @@ Tehra Nadi
 Tehra Nāla
 Tehra Sot
 Tehri Minor
-Tehri-Garhwāl
+Tehri-Garhwāl, TGR
 Tehrka Reserved Forest
 Tejalhera Drain
 Tejgarhkhurd Protected Forest
@@ -62065,7 +62065,7 @@ Thandoli Reserved Forest
 Thandrapādu Vāgu
 Thandā
 Thandīberi
-Thane, Thane District, Thāna
+Thane, THN, Thane District, Thāna
 Thaneer Malai
 Thanegaon
 Thaner Minor
@@ -62077,7 +62077,7 @@ Thangamuthu Kulam
 Thangana Reserved Forest, Thangana Protected Forest
 Thangjing Hill, Thangjing
 Thanival Kuppe
-Thanjavur, Tanjore District
+Thanjavur, TJV, Tanjore District
 Thannāchdhār
 Thano Got
 Thanoh Reserved Forest
@@ -62161,7 +62161,7 @@ Thayala Kuppa
 Thayanamūdimalai
 Thazhattu
 The Clear Displays Pvt.Ltd
-The Dāngs, Dang
+The Dāngs, DAN, Dang
 The Forest
 The Golden Rock, Kācha Ponnu Mala
 The Knuckles
@@ -62196,7 +62196,7 @@ Thenga Pahār
 Thengna Nadi
 Thengra Reserved Forest
 Thengupati Chal
-Theni
+Theni, THE
 Thenti Shil Reserved Forest
 Theorāhī Nadi
 Theppakuchi Reserved Forest
@@ -62253,9 +62253,9 @@ Thirumala Gunta
 Thirumēni Chal
 Thirunagar Park  Hockey Ground
 Thiruvallom
-Thiruvallur, Tiruvallur
-Thiruvananthapuram, Trivandrum
-Thiruvarur, Tiruvarur
+Thiruvallur, TRV, Tiruvallur
+Thiruvananthapuram, TRV, TVM, TVP, Trivandrum
+Thiruvarur, TVV, Tiruvarur
 Thiruvillamala
 Thirāj Minor
 Thirāna Minor
@@ -62294,7 +62294,7 @@ Thongwā Nadi
 Thonikuzhi Kunnu
 Thonipadigajam Mudi
 Thonti Got
-Thoothukkudi, Thoothukudi, Tuticorin, Tuticorin District
+Thoothukkudi, TUT, Thoothukudi, Tuticorin, Tuticorin District
 Thor Khad
 Thor Nāla
 Thora Nadi
@@ -62317,7 +62317,7 @@ Thotiala
 Thotlu Halla
 Thotta Parbat
 Thotti Ār
-Thoubal
+Thoubal, THB
 Thoubāl Turel
 Thova Kunta
 Thrai Khun
@@ -62330,7 +62330,7 @@ Three Left/Ten Left Distributary
 Three Right Distributary
 Three Right Minor, Two Left/Three Right Minor
 Three RightMinor
-Thrissur District, Thrissur
+Thrissur District, TSR, Thrissur
 Thua
 Thua Reserved Forest
 Thualthu Tlāng
@@ -62775,7 +62775,7 @@ Tinrāya Vāgu
 Tinsia Forest
 Tinsmāl
 Tinsra Nadi
-Tinsukia
+Tinsukia, TIN
 Tinsājhār Pahār
 Tipapāni Falls
 Tipar Chalyāla Protected Forest
@@ -62861,7 +62861,7 @@ Tiru Mudi
 Tiru Nadi
 Tiru River, Tiru
 Tiruchendūr, Tiruchendūr Point
-Tiruchirappalli, Tiruchchirāppalli, Tiruchirāppali, Trichinopoly, Trichinopoly District
+Tiruchirappalli, TRC, Tiruchchirāppalli, Tiruchirāppali, Trichinopoly, Trichinopoly District
 Tiruganimaduvu
 Tirugudumākuia Kuppa
 Tirugukal Mottal
@@ -62892,18 +62892,18 @@ Tirumānilaiyūr Canal
 Tirunelli
 Tirunelli Holē
 Tirunelli Reserve
-Tirunelveli Kattabo, Tirunelveli
+Tirunelveli Kattabo, TRN, Tirunelveli
 Tirung Khad
 Tirunnavāya
 Tirupati Gudda
 Tirupattur district, Tirupattur
 Tiruppattūr Malai
-Tiruppur
+Tiruppur, TRR
 Tirutteri Reserved Forest
 Tiruvambhāgam State Forest
 Tiruvangad
 Tiruvangūr
-Tiruvannamalai
+Tiruvannamalai, TVN
 Tiruvannā Malai
 Tiruvarangulam State Forest
 Tiruvattūr
@@ -62916,7 +62916,7 @@ Tirwā Nadi
 Tirāhi
 Tirāmal Drain
 Tirāni Vāgu
-Tirāp, Tirap Frontier Division, Tirap Frontier Tract
+Tirāp, TRP, Tirap Frontier Division, Tirap Frontier Tract
 Tirāp River
 Tirāwari Branch
 Tirūr River, Tirūr
@@ -63112,7 +63112,7 @@ Tonhi Nadi
 Tonhi Nāla
 Toni Dongar
 Tonichoi
-Tonk
+Tonk, TNK
 Tonkla
 Tonkāwāla Tibba
 Tonnādu Malai
@@ -63268,7 +63268,7 @@ Triparappu Malai
 Tripita, Tirchana Nadi
 Tripita Nadi
 Triprangod
-Tripura, State of Tripura
+Tripura, State of Tripura, TR
 Tripura Hills
 Trishan Nadi
 Trishulā Nadi̇̄
@@ -63300,7 +63300,7 @@ Trāmkhan Nadi
 Trāmkāzan
 Trāmkāzan Nār
 Trāmsar Pass
-Trāsh Forest, Trāh Forest
+Trāsh Forest, Trah Forest
 Trēgrai Forest
 Trōthil Forest
 Tsaindgām Bāl
@@ -63380,7 +63380,7 @@ Tudilkupli Dongar
 Tudiyāri Nadi
 Tudor Shola Reserved Forest
 Tudumala Kunta
-Tuensang District, Tuensang
+Tuensang District, TNS, Tuensang
 Tufānganj
 Tuggali Reserved Forest
 Tughlaqpur Minor
@@ -63483,7 +63483,7 @@ Tumerigonda Nāla
 Tumgaon Reserved Forest
 Tumgarh Nadi
 Tumka Pahār
-Tumkur, Tumkur District
+Tumkur, TMK, Tumkur District
 Tumlābung Reserved Forest
 Tumlūr Reserved Forest
 Tumma Cheruvu
@@ -64046,7 +64046,7 @@ Tīgalero River, Tīgalero
 Tīgaleru River, Tīgaleru
 Tīgalūtla Konda
 Tīgāram Gutta
-Tīkamgarh
+Tīkamgarh, TKM
 Tīkamgarh Distributary
 Tīki Dihara
 Tīklī
@@ -64162,14 +64162,14 @@ Udaila Chak
 Udailāl Pur Canal
 Udainagar Reserved Forest
 Udaipiri Pahār
-Udaipur, Udaipur District
+Udaipur, UDP, Udaipur District
 Udaipur Minor
 Udaipura Protected Forest
 Udaipura Reserved Forest
 Udaisamudram Cheruvu
 Udaiyārpālaiyam Zamīndāri Forest
 Udak Nadi
-Udalguri
+Udalguri, UDA
 Udalkam Gārā
 Udamala Banda
 Udanti Nadi
@@ -64206,8 +64206,8 @@ Udeypur Minor
 Udgawān Protected Forest
 Udgīr
 Udham
-Udham Singh Nagar, Udam Singh Nagar, Udham Singh Nagar district
-Udhampur, Udhampur district
+Udham Singh Nagar, USN, Udam Singh Nagar, Udham Singh Nagar district
+Udhampur, UDM, Udhampur District
 Udhannāpur Drain
 Udhar
 Udhināna
@@ -64246,7 +64246,7 @@ Udumbupara
 Udumbuthadipāra
 Udumbuthadivail
 Udumu Konda
-Udupi
+Udupi, UDU
 Udupi Taluk
 Udutorai Halla
 Udwalia
@@ -64285,7 +64285,7 @@ Ujhera Minor
 Ujhāni Jangal
 Ujidelu Gudde
 Ujiār Ghāt
-Ujjain, Ujjain District
+Ujjain, UJJ, Ujjain district
 Ujjal ki Nadi
 Ujra Male
 Ujrai Drain
@@ -64306,7 +64306,7 @@ Ukhallekh Reserved Forest
 Ukhar Meta
 Ukhli Got
 Ukhma Nāla, Ukme Nadī
-Ukhrul, Ukhrul District
+Ukhrul, UKH, Ukhrul District
 Ukhwa Nāla
 Ukkadgaon
 Ukkar Gudde
@@ -64400,7 +64400,7 @@ Umargarh Reserved Forest
 Umarha Minor
 Umarhar Tāl
 Umaria
-Umaria District
+Umaria District, UMA
 Umaria Reserve
 Umaria Reserved Forest
 Umaria Tank
@@ -64502,7 +64502,7 @@ Umāsi La, Bardur La, Umasi Pass
 Un-Wāri
 Una
 Unaka Todu
-Unakoti
+Unakoti, UNK
 Unalkha Reserved Forest
 Unanda River, Unanda
 Unandhan Gali
@@ -64539,12 +64539,12 @@ Ungāi Forest
 Unhāljhara Spring
 Uni Protected Forest
 Unimund Reserved Forest
-Union Territory of Andaman and Nicobar Islands, Andaman and Nicobar, Andaman and Nicobar Islands
-Union Territory of Chandigarh
-Union Territory of Damān and Diu, Damān and Diu, Union Territory of Goa Damān and Diu
-Union Territory of Dādra and Nagar Haveli, Dadra and Nagar Aveli, Dadra and Nagar Havili, Dadra og Nagar Haveli, Nagar Haveli
-Union Territory of Lakshadweep, Laccadives, Minicoy and Amīndīvi Islands Union Territory of Laccadive
-Union Territory of Puducherry, Pondicherry, Union Territory of Pondicherry
+Union Territory of Andaman and Nicobar Islands, AN, Andaman and Nicobar, Andaman and Nicobar Islands
+Union Territory of Chandigarh, CH
+Union Territory of Damān and Diu, DD, Damān and Diu, Union Territory of Goa Damān and Diu
+Union Territory of Dādra and Nagar Haveli, DN, Dadra and Nagar Aveli, Dadra and Nagar Havili, Dadra og Nagar Haveli, Nagar Haveli
+Union Territory of Lakshadweep, LD, Laccadives, Minicoy and Amīndīvi Islands Union Territory of Laccadive
+Union Territory of Puducherry, PY, Pondicherry, Union Territory of Pondicherry
 Unjiganahalli
 Unkal Gudda
 Unna Nāla
@@ -64552,7 +64552,7 @@ Unnamalaiyūr
 Unnikulam
 Unnipattimalai Reserved Forest
 Unnu Nadi
-Unnāo, Unao, Unao District
+Unnāo, UNO, Unao, Unao District
 Unsir Pahār
 Untimāmīdi Urri
 Untwāla
@@ -64610,8 +64610,8 @@ Upper Long Sand
 Upper Palni Shola Reserved Forest
 Upper Parīchhatgarh Distributary
 Upper Sangār State Forest
-Upper Siang
-Upper Subansiri
+Upper Siang, USG
+Upper Subansiri, USI
 Upper Tain State Forest
 Uppina Gudde
 Uppodai River, Uppodai
@@ -64852,15 +64852,15 @@ Uttamwāla Barāban Reserved Forest
 Uttang Dongri
 Uttapalli Betta
 Uttar Bahni Khad
-Uttar Bastar Kanker, Kanker, North Bastar Kanker
-Uttar Dinajpur, Dinajpur Uttar, North Dinajpur, Uttar Dinajpur district
-Uttar Kannada, Kanara North District, North Kanara, Uttar Kannad, Uttara Kannada
+Uttar Bastar Kanker, KNK, Kanker, North Bastar Kanker
+Uttar Dinajpur, DPU, Dinajpur Uttar, North Dinajpur, Uttar Dinajpur district
+Uttar Kannada, Kanara North District, North Kanara, UKD, Uttar Kannad, Uttara Kannada
 Uttar Machhipura, Uttarmachhīpura
-Uttar Pradesh, Northern Province, State of Uttar Pradesh, United Provinces
+Uttar Pradesh, Northern Province, State of Uttar Pradesh, UP, United Provinces
 Uttar Sāl
 Uttara Canal
 Uttaramerūr Tank
-Uttarkāshi, Uttar Kashi
+Uttarkāshi, UKS, Uttar Kashi
 Uttarākāvari Ār
 Utter Gutta
 Utti Bodu
@@ -64928,7 +64928,7 @@ Vadlavanchela Vāgu
 Vadlavāri Gunta
 Vadmajār
 Vadnera Nadi
-Vadodara, Vadodara District
+Vadodara, VDR, Vadodara District
 Vadse Gutta
 Vadu Metta
 Vadvatta Cheruvu
@@ -64956,7 +64956,7 @@ Vairal Gudde
 Vairavan Ār
 Vairichettipālaiyam Reserved Forest
 Vaisali Nadi
-Vaishāli
+Vaishāli, VSH
 Vaitarna
 Vaitarna River, Vaiturni River, Waitarna River
 Vaiya Nāla
@@ -65042,7 +65042,7 @@ Vallūru Pallam
 Valnur Tyagttūr
 Valsali Nadi, Besli Nadi, Besuli River, Vaisali, Vaisali River, Valsali
 Valsebetta State Forest
-Valsād, Bulsar District, Walsād
+Valsād, Bulsar District, VLS, Walsād
 Valukkuppārai Pallam
 Valuku Mattai
 Valuvassēri Reserve
@@ -65253,7 +65253,7 @@ Veega Land
 Veeranam Lake
 Veeyūr
 Veganthebettu Reserved Forest
-Vegavati River, Vegavati
+Vegavati River, Vegāvati
 Vegu Rāyi
 Veh Nār
 Veha Gul
@@ -65339,7 +65339,7 @@ Vellikonda
 Vellingirimukku
 Velliyampālaiyam
 Velliār
-Vellore, Vellore district
+Vellore, VEL, Vellore district
 Vellutla Reserved Forest
 Vellāla Mudi
 Vellālakundam Reserved Forest
@@ -65491,7 +65491,7 @@ Victoria Tank
 Vidarbha Nadi
 Vidavalūru Reserved Forest
 Vidhāna Johra
-Vidisha
+Vidisha, VID
 Vidogni Johra
 Vidrupa Nadi
 Vihara Protected Forest
@@ -65518,7 +65518,7 @@ Vilakku Pārai
 Villakottaimalai
 Villiappalli
 Villikardu Reserved Forest
-Villupuram, Viluppuram
+Villupuram, VIL, Viluppuram
 Vilu Dongri
 Vilāngudi Reserved Forest
 Vilānkombai
@@ -65556,7 +65556,7 @@ Virja Nadī Canal
 Virla Cheruvu
 Virnāryen
 Virsi Tukum Minor
-Virudhunagar
+Virudhunagar, VIR
 Virula Gandi
 Virupakshipura
 Virupakshipuram Pallam
@@ -65569,13 +65569,13 @@ Vishansar
 Vishnora Protected Forest
 Vishnu Gād
 Vishrāmganj Protected Forest
-Vishākhapatnam, Fisākāpatnam, Visakha district, Visakhapatanam, Visakhapatnam, Vizag district, Vizagapatam, Vizagapatam District
+Vishākhapatnam, Fisākāpatnam, VSK, Visakha district, Visakhapatanam, Visakhapatnam, Vizag district, Vizagapatam, Vizagapatam District
 Visā Konda
 Vithai Rakhūmāl Hill
 Vithāla Tālāb
 Vittal Hole
 Vizagapatanam, Vizagapatanam Port
-Vizianagaram District, Viziagram, Vizianagaram
+Vizianagaram District, VNG, Viziagram, Vizianagaram
 Vizianagaram Zamīndāri
 Voda Kunnu
 Vodama Ēri
@@ -65708,7 +65708,7 @@ Vārikāpudi Konda
 Vārikāpudi Vāgu
 Vārna River, Vārna, Warnā
 Vāroi Hill
-Vārānasi, Vārānasi District
+Vārānasi, VRN, Vārānasi District
 Vārār
 Vāshishti River, Vāshishti, Washishti River
 Vāsna
@@ -65857,14 +65857,14 @@ Wanyikhōr Forest
 Wapshare Peak
 War Dhār
 Warad Zamīndāri
-Warangal, Warangal District, Warangal Rural
+Warangal, WAR, Warangal District, Warangal Rural
 Warangal Urban
 Warasi River, Warasi
 Warbreccan Reserve
 Warda Reserved Forest, Wardha Reserved Forest
 Wardala Tank
 Wardar Nāla
-Wardha, Varadā, Wardha district, Wardhā River
+Wardha, Varadā, WRD, Wardha River, Wardha district
 Wardha Nadi
 Wardha Nāla
 Wargaon Reserved Forest
@@ -65887,7 +65887,7 @@ Warār Nadi
 Warīj Kol
 Wasan Forest
 Wasan Nadi
-Washim
+Washim, WSH
 Waskār
 Wasīr Dhār
 Wat Bāl
@@ -65906,7 +65906,7 @@ Watshan Nār
 Watsēr Nadi
 Watwagan
 Wauti Gadhera
-Wayanad, Wayanad district
+Wayanad, WAY, Wayanad district
 Wazir Dera
 Wazīrabād State Forest
 Wazīri-di-nāri
@@ -65930,23 +65930,23 @@ West Allahābād Branch
 West Banethi Reserved Forest
 West Bank Canal
 West Bay
-West Bengal, Bangla, State of West Bengal, West Benegal
+West Bengal, Bangla, State of West Bengal, WB, West Benegal
 West Bheron Reserved Forest
 West Coast Canal
 West Coral Bank
 West Debguru Reserved Forest
-West Delhi, West
-West District, West Sikkim
-West Garo Hills, West Garo Hills District
-West Godāvari, Paschima Godavari Jilla, West Godāvari District
+West Delhi, WSD, West
+West District, WDT, West Sikkim
+West Garo Hills, WGH, West Garo Hills District
+West Godāvari, Paschima Godavari Jilla, WGI, West Godāvari District
 West Gonvākdi Reserved Forest
 West Hill, Conollys Hill
 West Island
-West Jaintia Hills, Jowai
+West Jaintia Hills, Jowai, WJH
 West Juān Drain
-West Kameng
+West Kameng, WKG
 West Karbi Anglong
-West Khasi Hills, West Khasi Hills District
+West Khasi Hills, WKA, West Khasi Hills District
 West Kūno Reserved Forest
 West Ladpura Minor
 West Lehra Reserved Forest
@@ -65955,8 +65955,8 @@ West Melghāt
 West Māndwā Reserved Forest
 West Rapti River
 West Sarāi Cut
-West Siang
-West Tripura
+West Siang, WSG
+West Tripura, WTR
 West Yamuna Reserved Forest
 Western Branch, Ohan Canal
 Western Channel
@@ -65990,7 +65990,7 @@ Wodlarāsi Bodu
 Wogabal
 Wogam Gad
 Wogilin Gali
-Wokha
+Wokha, WKH
 Wokhal Nadi, Wokhal
 Wokhalbal Nār
 Wokhalbāl
@@ -66134,7 +66134,7 @@ Yadamale Gudda
 Yadandi State Forest
 Yaddayya Mora
 Yadduladi Mora
-Yadgir
+Yadgir, YDG
 Yadgir Taluk
 Yadukona Konda
 Yadunde
@@ -66171,8 +66171,8 @@ Yamuna, Giri, Jumna River
 Yamuna Colony
 Yamuna Project Canal
 Yamuna River
-Yamunanagar, Yamuna Nagar
-Yanam, Yanaon
+Yamunanagar, YMN, Yamuna Nagar
+Yanam, YAN, Yanaon
 Yanchapalli State Forest
 Yang Sang Chu, Nyglong
 Yang-chi Shan-k'ou, Yangi Dawān, Yangi Pass, Yangi-davan
@@ -66196,7 +66196,7 @@ Yasaman Thippai
 Yashoda Kund
 Yasāda Estate Forest
 Yattin Hole
-Yavatmal, Yavatmal District
+Yavatmal, YVT, Yavatmal district
 Yearadka Todu
 Yeb Halla
 Yebbaji Cheruvu
@@ -66537,8 +66537,8 @@ Zugāt Forest
 Zumulnār State Forest
 Zun Nār
 Zungki River, Zungki
-Zunheboto, Zonheboto, Zunhebotto
-Zuvāri River, Juāri, Rachol, Rio Zuari, Suari River, Zuāri River
+Zunheboto, ZNH, Zonheboto, Zunhebotto
+Zuvāri River, Juāri, Rachol, Rio Zuari, Suari River, Zuari River
 Zābtewāla Minor
 Zābtānagar Minor
 Zāgal
@@ -66578,7 +66578,7 @@ ravi River
 Ādauli Madia Protected Forest
 Ādhi Betta
 Ādhī Tīlwā
-Ādilābād, Adilabad District
+Ādilābād, ADI, Adilabad District
 Ādilābād Marauri
 Ādireddi Gunta
 Ādola Nadi
@@ -66600,7 +66600,7 @@ ravi River
 Āgejhar
 Āgha Wāh
 Āghpat
-Āgra, Agra District
+Āgra, AGR, Agra District
 Āgra Cant Railway Gul
 Āgra Distributary
 Āgri Reserved Forest
@@ -66649,7 +66649,7 @@ ravi River
 Āldāra State Forest
 Ālegaon Protected Forest
 Ālejharī Minor
-Āler River, Āler, Āleru River
+Āler River, Aler, Āleru River
 Āler Vāgu
 Āletti
 Āletti East Reserved Forest
@@ -66972,7 +66972,7 @@ ravi River
 Āyiravalli Malai
 Āyiravalli State Forest
 Āyūr River, Āyūr
-Āzamgarh, Azamgarh District
+Āzamgarh, AZM, Azamgarh District
 Āzamgarh Distributary
 Āzamnagar Drain
 Āzampur Than Singh

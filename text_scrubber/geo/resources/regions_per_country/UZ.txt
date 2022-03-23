@@ -392,7 +392,7 @@ Eskiyer Suv Ombori
 Farg'ona Shahri, Farghona Shahri, Gorod Fergana
 Farg'ona Tumani, Farghona Rayon, Farghona Tumani, Ferganskiy Rayon
 Fayzulla-Khodzhayevskiy Rayon
-Fergana Region, Farg ona, Farg'ona, Farg'ona Viloyati, Farghona Oblasti, Farghona Wiloyati, Fergana, Fergana Oblast, Ferganskaya Oblast'
+Fergana Region, Farg ona, Farg'ona, Farg'ona viloyati, Farghona Oblasti, Farghona Wiloyati, Fergana, Fergana Oblast, Ferganskaya Oblast'
 Forish Tumani, Farishskiy Rayon, Forish Rayoni
 Frunzenskiy Rayon, Frunze Rayoni
 Furqat Tumani, Furkatskiy Rayon
@@ -677,7 +677,7 @@ Kara-Su, Guzardar'ya
 Kara-Unkyur, Karaungur, Karaunkur
 Karabau, Karabau-Say
 Karagunan
-Karakalpakstan, Kara-Kalpak ASSR, Kara-Kalpakskaya ASSR, Karakalpakiya, Karakalpakskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Karakalpakski, Qoraqalpog iston, Qoraqalpog'iston Respublikasi, Qoraqalpoghiston ASSR, Qoraqalpoghiston Respublikasi, Qoraqalpogʻiston, Respublika Karakalpakstan
+Karakalpakstan, Kara-Kalpak ASSR, Kara-Kalpakskaya ASSR, Karakalpakiya, Karakalpakskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Karakalpakski, Qoraqalpog iston, Qoraqalpog'iston, Qoraqalpog'iston Respublikasi, Qoraqalpoghiston ASSR, Qoraqalpoghiston Respublikasi, Respublika Karakalpakstan
 Karakiyasay
 Karama, Kolodets Karamak
 Karasu
@@ -1889,7 +1889,7 @@ Qolgansir Ko'l, Ozero Kalgansyr
 Qoplontog' Tog'i
 Qoqpatos Tog'lari, Gora Kok-Patas
 Qora-Soy
-Qoraadir Tog'lari, Gory Karaadyr, Qoraadir Tog'i
+Qoraadir Tog'lari, Qoraadir Tog'i, Горы Караадыр
 Qorabo'g'ot Suv Ombori, Kak Kara-Bogut
 Qorabog' Suv Ombori
 Qorabovur Qirlari, Qarabaūyr Zhaly, Qorabowur Kirlari, Uval Karabaur
@@ -1987,7 +1987,7 @@ Ravot, Ravat
 Ravshan Ko'l
 Rayimbobo Qudug'i
 Rayquduq Quduq
-Republic of Uzbekistan, O'zbekiston Respublikasi, Oʻzbekiston, Uzbek Soviet Socialist Republic, Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika, Ŭzbekiston Respublikasi
+Republic of Uzbekistan, O'zbekiston, O'zbekiston Respublikasi, Uzbek Soviet Socialist Republic, Uzbekskaya Sovetskaya Sotsialisticheskaya Respublika, Ŭzbekiston Respublikasi
 Ribatskiy Zaliv Ko'l
 Rishtan, Rishtan Shahri
 Rishton Shahri, Gorod Rishtan
@@ -2031,7 +2031,7 @@ Saksovulnaya Dacha Urochisha
 Salor, Aryk Salar
 Samanlyk-Kak
 Samanqoq Qudug'i, Dozhdevaya Yama Saman-Kak, Kak Saman, Ssaman-Kak Regengrube
-Samarqand Region, Samarkand Oblast, Samarkandskaya Oblast', Samarqand, Samarqand Viloyati, Samarqand Wiloyati
+Samarqand Region, Samarkand Oblast, Samarkandskaya Oblast', Samarqand, Samarqand Wiloyati, Samarqand viloyati
 Samarqand Shahri, Gorod Samarkand
 Samarqand Tumani, Samarkandskiy Rayon, Samarqand Rayon
 Samatqoq Qudug'i
@@ -2186,8 +2186,8 @@ Sumbulaksay
 Supali Artezian Quduq
 Surkhan Mountain Forest Reserve
 Surxi Quduq
-Surxondaryo, Surkhan-Dar'ya, Surkhon, Surkhondaryo, Сурхандарья
-Surxondaryo Region, Sukhan-Darya Oblast, Surkhandar'inskaya Oblast', Surkhondaryo Oblasti, Surkhondaryo Wiloyati, Surxondaryo Viloyati
+Surxondaryo, Surkhan-Dar'ya, Surkhandar'ya, Surkhon, Surkhondaryo
+Surxondaryo Region, Sukhan-Darya Oblast, Surkhandar'inskaya Oblast', Surkhondaryo Oblasti, Surkhondaryo Wiloyati, Surxondaryo viloyati
 Suyuqsuv
 Suzak, Suzak-Aul
 Suzma Qudug'i
@@ -2308,7 +2308,7 @@ Tuzelboy Quduq
 Tuzelboy Tog'
 Tuzkon Ko'li, Ozero Tuzkan, Ozero Tuzkane
 Tuzkuy Tog'i, Gora Tuznuy
-Tuzlakko'l Ko'l, Озеро Тузлаккуль
+Tuzlakko'l Ko'l, Ozero Tuzlakkul'
 Tyuben'-Kuduk
 Tŭraqŭrghon Tumani, Turakurganskiy Rayon
 Tŭytepa Shahri, Gorod Toytepa

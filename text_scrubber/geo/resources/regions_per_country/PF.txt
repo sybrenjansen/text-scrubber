@@ -90,7 +90,7 @@ Atoll Hereheretue, Bligh, Hereheretoue, Hereheretu, Hereheretua, Hereheretue, He
 Atoll Hikueru, Hikouerou, Hikuero, Melville, Melville Island, San Juan, Te Kārena, Tiveru, Tuscan
 Atoll Manuae, Atoll Scilly, Fenua Ura, Henua Ura, Manuae, Scilly Island, Ura
 Atoll Manuhangi, Cumberland, Cumberland Island, Manuhangi
-Atoll Maria, Hull Islands, Ile Maria, Iles Maria, Maria, Maria Island, Moerenhout, Moerenhout Island, Sands Island, Wright Lagoon
+Atoll Maria, Hull Islands, Ile Maria, Iles Maria, Maria, Maria Islands, Moerenhout, Moerenhout Island, Sands Island, Wright Lagoon
 Atoll Marokau, Manaka, Marokau, Marokau Island, Marukau
 Atoll Marutea, Furneaux, Furneaux Island, Hood, Lord Hood Island, Maratea, Marotea, Maroutea, Marutea, North Marutea, South Marutea, South Marutea Island
 Atoll Maturei-Vavao, Estancélin, Matarewawao, Matourei-Vaveo, Maturei Vavao, Maturei-Vavao Island, Maturéi-Yavao, Melbourne Island
@@ -100,7 +100,7 @@ Atoll Nengo-Nengo, Atoll Nengonengo, Negonego, Nengo-Nengo, Nengonengo, Prince W
 Atoll Nihiru, Nigeri, Nigiru, Niheri, Nihiru, Nihiru Island
 Atoll Paraoa, Gloucester, Gloucester Island, Hariri, Paraoa, Paraoa Island, Paroa, Piraoa
 Atoll Pinaki, Nganati, Pinaki, Pinaki Island, Whitsunday, Whitsunday Island
-Atoll Pukapuka, Dog Island, Henuake, Honden, Honden Eiland, Mahina Te, Puaga, Puka Puka, Puka-puka Island
+Atoll Pukapuka, Dog Island, Henuake, Honden, Honden Eiland, Mahina Te, Puaga, Puka-Puka, Puka-puka Island
 Atoll Pukarua, Apucarua, Atoll Pukaruha, Pouka-Rouha, Puka-Ruka, Pukarua, Pukarua Atoll, Pukaruha Atoll, Serle, Serle Island
 Atoll Ravahere, Dawahaidi, Dawhaida, Ravahere, Ravahéré Island
 Atoll Reao, Clermont Tonnerre, Clermont de Tonnere Island, Minerava, Natupe
@@ -108,7 +108,7 @@ Atoll Reitoru, Bird, Bird Island, Heueru, Hikuera, Reitoru
 Atoll Taenga, Holt, Holt Island, Jermolow, Taenga, Yermaloff, Yermólov
 Atoll Takume, Takoume, Takume, Takurea, Volkonskiy, Volkónski, Wolkonsky, Wolkonsky Island
 Atoll Tauere, Resolution, Resolution Island, Saint Simeon Island, Saint Simon Island, San Simón, Tauere, Taueree, Taueri
-Atoll Tehuata, Atoll Tehuaka, Good Hope, Good Hope Island, Rekareka, Tehuata
+Atoll Tehuata, Atoll Tehuaka, Good Hope, Good Hope Islands, Rekareka, Tehuata
 Atoll Tematagi, Atoll Tematangi, Bligh Island, Bligh Lagoon, Blighs Island, Lagoon Island, Tematagi, Tematangi, Tematangi Island
 Atoll Tenararo, Bedford Island, Tenararo, Tenararo Island
 Atoll Tenaruga, Melbourne Island, Minto Island, Tenaruga, Tenarunga, Tenarunga Island
@@ -518,7 +518,7 @@ Fataiti, Fatati, Fatati River
 Fatavete
 Fatonu
 Fatu Hiva, Fatou-Hiva, Fatu Iva, Ile Fatou-Hiva, Ile Fatu-Hiva, Ile Madeleine, Madalena, Magdalena Island, Santa Magdalena
-Fatu Huku, Fatou-houkou, Fatu Hutu, Feto Hougo, Fetu-huku, Fetugu Island, Hood Island, Hoods Island, Ile Fatu Huku
+Fatu Huku, Fatou-houkou, Fatu Hutu, Feto Hougo, Fetu-huku, Fetugu Island, Hood Island, Hood's Island, Ile Fatu Huku
 Fatu-Hiva
 Fatutau
 Faurahi, Potiai River, Rivière Faurahi
@@ -2291,7 +2291,7 @@ Raivavae
 Raivavae Island, High Island, Raevavae, Raizavae, Ravaivai, Rawaiwai, Santa Rosa, Vavitao, Vavitoo, Vavitu, Vivitau, Wawitao, Île Raevavae, Île Raïvavae, Île Vavitou, Île Vavitu
 Rakerake
 Rangiroa, Atoll Rangiroa, Deans Island, Goede Verwachting, Nairsa, Rahiroa, Rahiroa Island, Rairoa, Rangiroa Atoll, Vliegen
-Rapa, Ile Rapa Iti, Oparo, Oparu, Rapa Island, Rapa Ita, Île Rapa
+Rapa, Ile Rapa, Ile Rapa Iti, Oparo, Oparu, Rapa Island, Rapa Ita
 Rapa Iti, Île Rapa Iti, Îlot Rapa Iti
 Raparapa
 Rapeka
@@ -2727,7 +2727,7 @@ Tataa
 Tatakoto
 Tatakoto Atoll, Atoll Tatakoto, Clerke Island, Egmont, Narcisse, Narcissus, Narcissus Island, Tatakotoroa
 Tatapiri, Tetapiri
-Tataramoa, Tatara Moa
+Tataramoa, Tatara-moa
 Tatarui
 Tatauroa
 Tatetate

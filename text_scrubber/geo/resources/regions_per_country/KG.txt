@@ -21,7 +21,7 @@ Agachagol
 Agachart
 Agatan
 Aghbai Donaaghba, Перевал Донаагба
-Aghbai Kirk-Buloq, Pereval Kirk-Bulak, Pereval Yangi-Saban, Pereval Yangisabak, Pereval Yangisabakh, Перевал Кырк-Булак
+Aghbai Kirk-Buloq, Pereval Kirk-Bulak, Pereval Kyrk-Bulak, Pereval Yangi-Saban, Pereval Yangisabak, Pereval Yangisabakh
 Aghbai Naumin, Перевал Наумина
 Ak Sai Waterfall
 Ak-Art
@@ -250,7 +250,7 @@ At-Bashi, Ат-Башынский, Ат-Башынский район
 At-Bashinskiy Rayon
 At-Bashy, At-Bash
 At-Bashy Reservoir
-At-Bashy-Too, At-Bashy Range, Khrebet At-Bash, Khrebet At-Bashy, Khrebet Atbashi
+At-Bashy-Too, At-Bashy Range, Khrebet At-Bash, Khrebet At-Bashy, Хребет Атбаши
 Atamkulu, Atym-Kul', Atym-Kuy
 Atash-Chap-Kan
 Atay
@@ -310,7 +310,7 @@ Bashy
 Bashy-Dzhal, Basy-Dzhil
 Basy-Tamchi
 Batkaksu
-Batken, Batken Oblasty, Batken Oblusu, Batkenskaya Oblast'
+Batken, Batken Oblasty, Batken Oblusu, Баткенская Область
 Batkenskiy Rayon, Batken Rayon, Баткенский
 Bay-Kongur-Say, Boy-Qong'ur-Soy
 Baybala
@@ -475,7 +475,7 @@ Charyya
 Chashma, Chachme
 Chat
 Chatka Mountains, Chat Kalski Mountains, Chatkal Range, Chatkal Ridge, Chotqol Tizmasi, Khrebet Atkalski, Чаткальский Хребет
-Chatkal, Chotqol, Чаткальский, Чаткальский Район
+Chatkal, Chatkal'skiy Rayon, Chotqol, Чаткальский
 Chatrak
 Chatyr-Köl State Zoological Reserve
 Chauvai Sai, Chauvay, Chovvoy-Soy, Чауваи Сай
@@ -625,7 +625,7 @@ Chunkur
 Chunkur-Burundu, Чукур-Бурунду
 Chunkursu
 Churchasay
-Chuyskaya Oblast', Chüy Oblasty, Чүй, Чүй Облусу
+Chuyskaya Oblast', Chüy Oblasty, Chüy Oblusu, Чүй
 Chuyskiy Rayon, Chüy, Чуйский
 Chychkan State Zoological Reserve
 Chyyyrchyk Pass, Pereval Chigirchik, Pereval Chiyirchik, Pereval Chyyyrchyk
@@ -805,7 +805,7 @@ Ekinchital
 Ekurgen
 Emegek
 Emel'
-Engilchek, Inöl'chek, Иныльчек
+Engilchek, Inyl'chek, Inöl'chek
 Erkech, Irgesh
 Eshek-Ol'dyu, Ishak-O'ldi
 Eshigart
@@ -1272,7 +1272,7 @@ Gora Zeiy
 Gora Zer-Deke
 Gora Zhanbulak
 Gornyy Istochnik Dzhyluu-Suu
-Gorod Bishkek, Bishkek Shaary, Frunze, Gorod Frunze, Бишкек
+Gorod Bishkek, Bishkek, Bishkek Shaary, Gorod Frunze, Фрунзе
 Gory Achyk-Tash
 Gory Adyrtor
 Gory Ak-Tash, Oq Tosh Tog'i, Oq-Tosh Tog'lari
@@ -1516,7 +1516,7 @@ Imet, Ruchey Imet
 Imurdu
 Imurduchoku
 Intor, In-Tyur
-Inylchek Glacier, Glacier Yuzhniy Inölchek, Lednik Engil'chek, Lednik Inyl'chek, Lednik Severnyy Engil'chek, Lednik Yuzhnyy Engil'chek, Lednik Yuzhnyy Inyl'chek, Ледник Северный Иныльчек, Северный Иныльчек
+Inylchek Glacier, Glacier Yuzhniy Inölchek, Lednik Engil'chek, Lednik Inyl'chek, Lednik Severnyy Engil'chek, Lednik Severnyy Inyl'chek, Lednik Yuzhnyy Engil'chek, Lednik Yuzhnyy Inyl'chek, Северный Иныльчек
 Iralgi
 Irdyk
 Iri-Say
@@ -1548,12 +1548,12 @@ Iyri-Taldybulak
 Izyunbash
 Jaiyl, Жайылский
 Jalal-Abad oblast, Jalal-Abad, Jalal-Abad Oblasty, Jalal-Abad Oblusu, Джалал-Абадская Область, Жалал-Абад, Жалал-Абад Облусу
-Jaman-Too, Gory Dzhaman-Too, Jamantau Mountains, Горы Джамантау
+Jaman-Too, Gory Dzhaman-Too, Gory Dzhamantau, Jamantau Mountains
 Jangy Kanaly, Kanal Dzhangi
 Jangy-Jer Range
 Jardy-Kayyngdy State Zoological Reserve
 Jeti-Oguz District, Jety-Ögüz, Жети-Огузский
-Jetim-Bel Range, Хребет Джетим-Бель
+Jetim-Bel Range, Khrebet Dzhetim-Bel'
 Jiptyk Pass, Jiptök Pass, Pereval Dzhiptyk
 Joon-Aryk, Dzhoon-Aryk, Dzhuanaryk, Dzhuvan, Dzhuvanaryk
 Jumgal, Жумгальский, Жумгальский район
@@ -1668,7 +1668,7 @@ Kara-Shaldyr
 Kara-Shoro National Park
 Kara-Su
 Kara-Suskiy Raion
-Kara-Suu, Kara-Suu Lake, Ozero Kara-Suu, Кара-Сууский, Кара-Сууский район
+Kara-Suu, Kara-Suu Lake, Кара-Сууский, Кара-Сууский район, Озеро Кара-Суу
 Kara-Suu Vostochnyy
 Kara-Takta
 Kara-Taryk
@@ -2095,7 +2095,7 @@ Korok-Kel'
 Korum-Tër
 Korumdu
 Korumdu-Chukur, Kurumdy-Dzhukur
-Korumduk, Курумдук
+Korumduk, Kurumduk
 Korumdusu
 Korumdy, Gorumdy
 Korumdysay
@@ -2208,12 +2208,12 @@ Kyl'densu
 Kyl'dzhabashi
 Kyldoo, Kyl-Dau
 Kyndy
-Kyok-Sariq, Koksarek, Këksarek
+Kyok-Sariq, Koksarek, Кёксарек
 Kypchak
 Kyrchikbulak
 Kyrchinduu-Too
 Kyrchyndy-Suu, Kyrchindy-Su
-Kyrgyz Republic, Kirghiz Soviet Socialist Republic, Kirgiz Soviet Socialist Republic, Kirgizskaya Respublika, Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika, Kyrgyz Respublikasy, Kyrgyzstan Respublikasy, Qirgʻiziston, Republic of Kyrgyzstan, Кыргызская Республика, Кыргызской Республики, Кыргызстан
+Kyrgyz Republic, Kirghiz Soviet Socialist Republic, Kirgiz Soviet Socialist Republic, Kirgizskaya Respublika, Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika, Kyrgyz Respublikasy, Kyrgyzskaya Respublika, Kyrgyzstan, Kyrgyzstan Respublikasy, Qirgʻiziston, Republic of Kyrgyzstan, Кыргызской Республики
 Kyrgyz-Ata, Kirgizata
 Kyrk-Bulak
 Kyrk-Kechyuu
@@ -2285,9 +2285,9 @@ Kël'tor, Kul'-Tyur
 Kël'ukëk
 Këlyure-Tash
 Künbel Asūy
-Küngey-Alataū Zhotasy, Khrebet Kungey Alatau, Khrebet Kyungey Alatau, Khrebet Kyungëy-Ala-Too, Kungej-Ala Tau, Kungey Ala-Tau Range, Kunghei, Künggöy Ala-Too, Küngöy Ala-Too
+Küngey-Alataū Zhotasy, Khrebet Kungey Alatau, Khrebet Kyungey Ala-Too, Khrebet Kyungëy-Alatau, Kungej-Ala Tau, Kungey Ala-Tau Range, Kunghei, Künggöy Ala-Too, Küngöy Ala-Too
 Kürp-Say Reservoir
-Kŭhi Piryakht, Gora Pir'yakh, Кӯҳи Пирях
+Kŭhi Piryakht, Гора Пирьях, Кӯҳи Пирях
 Lay-Su
 Lay-Suu
 Layli-Mazar
@@ -2442,7 +2442,7 @@ Mys Sukhoy Khrebet, Sukhay Khrebet, Sukhoy Khrebet
 Myudyuryum, Mudurum, Mudyuryum, Reka Ak-Say, Reka Myuduryum
 Naryn, Narin, Narön, Norin
 Naryn District, Нарынский, Нарынский район
-Naryn oblast, Naryn Oblasty, Нарын Облусу, Нарынская Область
+Naryn oblast, Naryn Oblasty, Narynskaya Oblast', Нарын Облусу
 Narynskaya Dolina, Naryn Valley
 Nayman-Shivali
 Nayza-Say
@@ -3269,7 +3269,7 @@ Pereval Shivali, Shivali Dovon
 Pereval Shor-Bel'
 Pereval Shordebel'
 Pereval Sokur-Bel', Sokur-Bel Dovon
-Pereval Soroka Let Leninskogo Kommunisticheckogo Soyuza Molodëzhi Kirgizii, Перевал Сорокa Лет Ленинскoгo Коммунистическoгo Союзa Молодёжи Киргизии
+Pereval Soroka Let Leninskogo Kommunisticheckogo Soyuza Molodëzhi Kirgizii, Перевал Сорока Лет Ленинского Коммунистического Союза Молодёжи Киргизии
 Pereval Sugat
 Pereval Sukhuluk, Pereval Sukuluk
 Pereval Sulukurtka
@@ -3437,9 +3437,9 @@ Pik Tekelik
 Pik Tsentral'nogo Doma Krasnoy Armii
 Pik Tsyurupy
 Pik Zapadnyy Alamedin
-Piramida Peak, Пик Пирамидальный
+Piramida Peak, Pik Piramidal'nyy
 Pista-Mazar
-Podisho-Ota, Padysha-Ata
+Podisho-Ota, Падыша-Ата
 Podvodyashchiy Kanal
 Postun-Bulak
 Pskemskiy Khrebet, Khrebet Pskemski
@@ -3449,7 +3449,7 @@ Qastek Zhotasy, Kastekskiy Khrebet
 Qizilsu, Kizyl-Su, Kizöl-su, Kzyl-Su
 Qora Chatir Tog'lari
 Qora-Soy Dovon, Перевал Кара-Сай
-Qoradaryo, Kara-Daryya, Karadar'ya
+Qoradaryo, Kara-Daryya, Карадарья
 Qutyrghy Asūy, Pereval Kudarga, Pereval Kuturga
 Qyrghyz Zhotasy
 Ravat-Say, Ravot-Soy
@@ -3604,10 +3604,10 @@ Sandyk-Kel'-Say
 Sandyktynsuy
 Sardala
 Sardyk-Say
-Sargardeng Tizmasi, Хребет Саргардёнг
+Sargardeng Tizmasi, Khrebet Sargardëng
 Sargou, Sargau, Saryqaū
 Sarijon Tizmasi
-Sariqamish Dovon, Перевал Сары-Камыш
+Sariqamish Dovon, Pereval Sary-Kamysh
 Sarkat
 Sart-Ashuu
 Sart-Ol'dyu
@@ -3647,7 +3647,7 @@ Sasyk-Suu
 Sasykbashat
 Sasykbulak
 Satytor
-Sauksay, Sauksoy
+Sauksay, Сауксой
 Sauktur
 Savala
 Savoyardy, Савоярдын
@@ -3791,7 +3791,7 @@ Sëgët-Say, Syogyot-Soy
 Tabylgylty, Табылгыты
 Taka
 Takyrtor
-Talas, Talas Oblasty, Talas Oblusu, Talasskaya Oblast'
+Talas, Talas Oblasty, Talas Oblusu, Таласская Область
 Talas Kanaly, Bol'shoy Talasskiy Kanal
 Talasskiy Rayon, Таласский
 Taldy
@@ -3889,7 +3889,7 @@ Tesyk
 Tetyrsaz
 Tetyrsu, Тктырсу
 Tez
-Tien Shan, T'ien-Shan Range, T'ien-shan Shan-mo, Thian Schan, Thian Shan, Tian Shan, Tian-Shan Range, Tien Mountains, Tien Range, Tien Shan Mountains, Тянь-Шань
+Tien Shan, T'ien-Shan Range, T'ien-shan Shan-mo, Thian Schan, Thian Shan, Tian Shan, Tian-Shan Range, Tien Mountains, Tien Range, Tien Shan Mountains, Tyan' Shan'
 Tik-Dzhar
 Tikenektisay, Tekentekty
 Til'be
@@ -4337,7 +4337,7 @@ Yeshki-Su
 Yntyldy-Say
 Yrgayty
 Ysyk-Ata, Issyk-Atinskiy Rayon, Issykata, Ysyk-Atinskiy Rayon, Ысык-Атинский
-Ysyk-Köl, Issyk Kul, Lake Issyk, Lake Issök-Kul', Иссык-Кульский, Иссык-Кульский Район, Озеро Иссык-Куль
+Ysyk-Köl, Issyk Kul, Issyk-Kul'skiy Rayon, Lake Issyk, Lake Issök-Kul', Ozero Issyk-Kul', Иссык-Кульский
 Yugenbas
 Yugenbis-Ichkesu
 Yulmama, Улмама

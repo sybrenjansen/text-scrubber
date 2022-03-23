@@ -2549,7 +2549,7 @@ Ceel Balaar
 Ceel Baqal, El Bagal
 Ceel Bardaale, El'-Baradale
 Ceel Barde, Degmada Ceel-Barde, El Barde District
-Ceel Baxay, Ceel Bahai, El Bahai, El Bàhi, El'-Bakhay
+Ceel Baxay, Ceel Bahai, El Bahai, El Bahi, El'-Bakhay
 Ceel Baxday
 Ceel Bilcille
 Ceel Biyo Neef, El Bio Nef
@@ -2559,7 +2559,7 @@ Ceel Buur
 Ceel Buure
 Ceel Caanood, El Ano
 Ceel Cabdi
-Ceel Cad, El' Ad
+Ceel Cad, El Ad
 Ceel Cadaad
 Ceel Cadde
 Ceel Caddow
@@ -5228,24 +5228,24 @@ Gobley, Goblai, Gobleh, Guble, Gubleh, Gubli
 Gobo, Goboh
 Gobo Gobo
 Gobodiir, Gabadir, Gobodir
-Gobolka Awdal, Awadal Region, Awdal
-Gobolka Bakool, Bakol, Bakool Region, Province of Bakol
-Gobolka Banaadir, Banaadir, Banadir Region, Benaadir, Benadir Region, Gobolka Xamar, Mogadiscio, Mogadishu
-Gobolka Bari, Bari, Bari Region, Majeerteen, Majerteinia, Migiurtinia, Mijertinia, Mijjertenia
-Gobolka Bay, Bay, Bay Region, Jubada Sarree, Province of Bay, Upper Juba
-Gobolka Galguduud, Galgadud Region, Galguduud, Province of Galgaduud
-Gobolka Gedo, Gedo Region, Province of Gedo, Upper Juba
-Gobolka Hiiraan, Hiiran, Hiiran Region, Hiran, Province of Hiran, Uebi Scebeli
-Gobolka Jubbada Dhexe, Central Juba, Jubbada Dhexe, Jubbada Dhexe Region, Middle Juba, Middle Jubba, Upper Juba Region
-Gobolka Jubbada Hoose, Commissariat du Bas-Giuba, Jubada Hoose, Jubbada Hoose, Jubbada Hoose Region, Lower Giuba, Lower Juba, Lower Jubba
-Gobolka Mudug, Commissariat du Modugh, Commissariat du Mudugh, Modugh, Mudug Region, Mudugh, Province of Mudug
-Gobolka Nugaal, Nogal, Nugaal Region, Nuugaal, Province of Nugaal
-Gobolka Sanaag, Province of Sanaag, Sanaag Region, Sinad, Snaq
-Gobolka Shabeellaha Dhexe, Central Shabele, Middle Scebeli, Middle Shabeelle, Middle Shabele, Middle Shabelli, Middle Shebelli, Province of Central Shabelle, Shabeele Dhexe Region, Shabeellaha Dhexe, Shabeelle Dhexaad, Upper Shabelle
-Gobolka Shabeellaha Hoose, Lower Scebeli, Lower Shabeelle, Lower Shebele, Province of Lower Shabelle, Shabeele Hoose Region, Shabeellaha Hoose, Shabeelle Hoose
-Gobolka Sool, Sool Region
-Gobolka Togdheer, Dohdayr, North-East, Togdheer Region, Tug Der, Tugdayr
-Gobolka Woqooyi Galbeed, Hargeisa, Maroodi Jeex, North-West, North-Western Region, Waqooye, Waqooyi Galbeed Region, West Galbeed, Woqooyi Galbeed
+Gobolka Awdal, AD, Awadal Region, Awdal
+Gobolka Bakool, BK, Bakol, Bakool Region, Province of Bakol
+Gobolka Banaadir, BN, Banaadir, Banadir Region, Benaadir, Benadir Region, Gobolka Xamar, Mogadiscio, Mogadishu
+Gobolka Bari, BR, Bari, Bari Region, Majeerteen, Majerteinia, Migiurtinia, Mijertinia, Mijjertenia
+Gobolka Bay, BY, Bay, Bay Region, Jubada Sarree, Province of Bay, Upper Juba
+Gobolka Galguduud, GG, Galgadud Region, Galguduud, Province of Galgaduud
+Gobolka Gedo, GD, Gedo Region, Province of Gedo, Upper Juba
+Gobolka Hiiraan, HR, Hiiran, Hiiran Region, Hiran, Province of Hiran, Uebi Scebeli
+Gobolka Jubbada Dhexe, Central Juba, JD, Jubbada Dhexe, Jubbada Dhexe Region, Middle Juba, Middle Jubba, Upper Juba Region
+Gobolka Jubbada Hoose, Commissariat du Bas-Giuba, JH, Jubada Hoose, Jubbada Hoose, Jubbada Hoose Region, Lower Giuba, Lower Juba, Lower Jubba
+Gobolka Mudug, Commissariat du Modugh, Commissariat du Mudugh, MD, Modugh, Mudug Region, Mudugh, Province of Mudug
+Gobolka Nugaal, NG, Nogal, Nugaal Region, Nuugaal, Province of Nugaal
+Gobolka Sanaag, Province of Sanaag, SG, Sanaag Region, Sinad, Snaq
+Gobolka Shabeellaha Dhexe, Central Shabele, Middle Scebeli, Middle Shabeelle, Middle Shabele, Middle Shabelli, Middle Shebelli, Province of Central Shabelle, SD, Shabeele Dhexe Region, Shabeellaha Dhexe, Shabeelle Dhexaad, Upper Shabelle
+Gobolka Shabeellaha Hoose, Lower Scebeli, Lower Shabeelle, Lower Shebele, Province of Lower Shabelle, SH, Shabeele Hoose Region, Shabeellaha Hoose, Shabeelle Hoose
+Gobolka Sool, SL, Sool Region
+Gobolka Togdheer, Dohdayr, North-East, TG, Togdheer Region, Tug Der, Tugdayr
+Gobolka Woqooyi Galbeed, Hargeisa, Maroodi Jeex, North-West, North-Western Region, WG, Waqooye, Waqooyi Galbeed Region, West Galbeed, Woqooyi Galbeed
 Gobriix
 Gobrow, Uadi Gobrou
 Gobshoh, El Gopscio
@@ -5259,7 +5259,7 @@ God Abaar
 God Adde
 God Alangarar
 God Caanood Yar, God Caanood Yarra
-God Cad, God Ad, Uadi Cala Bacbah
+God Cad, God-Ad, Uadi Cala Bacbah
 God Colow, Godalò
 God Dalola
 God Dhurwa
@@ -7659,7 +7659,7 @@ Makuubuna
 Mal'ka Rie
 Malaale, Malaala, Punta Malale
 Malaasle, Malasle
-Malable, El Maan, Matable
+Malable, El Ma'an, Matable
 Malabley
 Malas
 Malawad
@@ -8181,7 +8181,7 @@ Noolaye, El Nole
 Nooleeyayaal, Noleyyayal
 Nooleeye
 Noy
-Nugaal, Nogal, Nugal
+Nugaal, Nogal, Nugāl
 Nugaal Gaban
 Nugaal Gibin, Nogal Gaban
 Nugaal Kasoobba
@@ -10060,7 +10060,7 @@ Uubaley
 Uubataale
 Uunsiile
 Uunso, Unsou
-Uur Caleed, Ur Aled, Ur Alhet
+Uur Caleed, Ur Alhet, Ūr 'alēd
 Uur Dhaada
 Uur Karkaar, Ur Carcar, Ūr Karkār
 Uureeye

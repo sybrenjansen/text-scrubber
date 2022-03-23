@@ -3050,7 +3050,7 @@ Buen Retiro
 Buena Huañuna
 Buena Ventura, Buenas Aventuras
 Buena Vista
-Buenos Aires
+Buenos Aires, BA
 Buta Mallín
 Caballito
 Cabeceras del Cañadón Grande
@@ -3106,7 +3106,7 @@ Cabo Sur, Cabo Sud
 Cabo Tres Puntas, Cape Three Points, Cape Tres Puntas
 Cabo Viamonte
 Cabo Vigía
-Cabo Vírgenes, Cabo Vírjenes, Cabo de las Virgenes, Cape Virgin, Cape Virgins, Cape Vírgenes
+Cabo Vírgenes, Cabo Vírjenes, Cabo de las Virgenes, Cape Virgin, Cape Vírgenes, Cape of Virgins
 Cabo Webster, Punta Schomberg, Punta Schonberg
 Cabo de Matas, Punta de Matas
 Cabo del Medio
@@ -3446,8 +3446,8 @@ Casas Viejas
 Casitas Viejas
 Castellanos
 Castilla
-Catamarca Province, Catamarca, Provincia de Catamarca
-Cataratas del Iguazú, Cataratas de Iguazú, Iguassú Falls, Iguazu Falls, Iguaçu Falls, Salto Santa Maria, Saltos de Santa Maria
+Catamarca Province, CT, Catamarca, Provincia de Catamarca
+Cataratas del Iguazú, Cataratas de Iguazú, Iguassú Falls, Iguazú Falls, Iguaçu Falls, Salto Santa Maria, Saltos de Santa Maria
 Catinzaco Viejo
 Catorce Quebrachos
 Cauce Seco Río Muerto
@@ -4262,7 +4262,7 @@ Cerro Bayo de la Batra
 Cerro Bayo de la Esperanza, Cerro de la Baya
 Cerro Bayo del Cobre
 Cerro Bañado
-Cerro Bañados, Cerro Los Bañados, Cerro de los Bañados
+Cerro Bañados, Cerro de los Bañados, Cerro los Bañados
 Cerro Beatones
 Cerro Belgrano
 Cerro Bella Vista
@@ -4564,7 +4564,7 @@ Cerro Cochiquito
 Cerro Cochuchal, Cerro El Cochuchal
 Cerro Cochucho
 Cerro Cocodrilo
-Cerro Codihue, Cerro Chonoquin
+Cerro Codihue, Cerro Choñoquín
 Cerro Codorniz
 Cerro Coffin
 Cerro Cofradilla
@@ -6703,7 +6703,7 @@ Chacarita
 Chaco Ancho
 Chaco Austral
 Chaco Central, Central Chaco
-Chaco Province, Chaco, Gobernación del Chaco, Presidente Perón, Provincia de Chaco, Provincia del Chaco, Territorio Nacional del Chaco, Territorio del Chaco
+Chaco Province, CC, Chaco, Gobernación del Chaco, Presidente Perón, Provincia de Chaco, Provincia del Chaco, Territorio Nacional del Chaco, Territorio del Chaco
 Chacras de Ross
 Chalahuén
 Chanarito
@@ -6759,13 +6759,13 @@ Chorrillo de la Rosada
 Chorrillo de los Frailes
 Chorrillo del Cisne
 Chospán
-Chubut Province, Chubut, Gobernación del Chubut, Provincia de Chubut, Provincia del Chubut, Territorio Nacional del Chubut, Territorio del Chubut
+Chubut Province, CH, Chubut, Gobernación del Chubut, Provincia de Chubut, Provincia del Chubut, Territorio Nacional del Chubut, Territorio del Chubut
 Chupilta
 Churcal
 Churquioj
 Cien Lagunas
 Cinco Cerros
-Ciudad Autónoma de Buenos Aires, Autonomous City of Buenos Aires, Buenos Aires C.F., Buenos Aires F.D., Capital Federal, Ciudad de Buenos Aires, Federal District
+Ciudad Autónoma de Buenos Aires, Autonomous City of Buenos Aires, Buenos Aires C.F., Buenos Aires F.D., CABA, CF, Capital Federal, Ciudad de Buenos Aires, Federal District
 Ciénaga
 Ciénaga Acazoque, Cienaga Acarzoque
 Ciénaga Chapar
@@ -7519,7 +7519,7 @@ Corral del Bajo
 Corralito
 Corrida de Cori
 Corrida del Pajonal
-Corrientes Province, Corrientes, Provincia de Corrientes
+Corrientes Province, CR, Corrientes, Provincia de Corrientes
 Cortadera
 Cortaderas
 Corte Careaga
@@ -7655,7 +7655,7 @@ Curi-Cantado
 Currumil
 Cástor
 Cóndores
-Córdoba Province, Córdoba, Provincia de Córdoba
+Córdoba Province, CD, Córdoba, Provincia de Córdoba
 Darsena A, Dock 1
 Darsena B
 Darsena C
@@ -8275,7 +8275,7 @@ Ensenada de Ferrer
 Ensenada de Medina
 Ensenada de la Colonia
 Entre Ríos
-Entre Ríos Province, Provincia de Entre Ríos
+Entre Ríos Province, ER, Provincia de Entre Ríos
 Escarpes
 Escorial
 Escorial de Chenqueniyeu
@@ -8516,7 +8516,7 @@ Fondeadero Pueyrredón, Pueyrredon Anchorage
 Fondeadero San Martín
 Fondeadero San Román, Fondeadero Roman, Puerto San Román
 Fondeadero Sarmiento
-Formosa Province, Formosa, Gobernación de Formosa, Provincia de Formosa, Territorio Nacional de Formosa, Territorio de Formosa
+Formosa Province, FO, Formosa, Gobernación de Formosa, Provincia de Formosa, Territorio Nacional de Formosa, Territorio de Formosa
 Fortaleza
 Fortuna
 Fortín Arenales
@@ -8564,7 +8564,7 @@ Gran Rosario, Greater Rosario
 Gran Salitral
 Gran Salto de Macona, Gran Salto de Moconá, Salto Grande de Mocona, Salto Grande do Uruguay, Saltos de Yucamã, Saltos del Mocona
 Graneros
-Greater Buenos Aires, Gran Buenos Aires
+Greater Buenos Aires, GBA, Gran Buenos Aires
 Green Pond
 Gregoria Matoras
 Grupo de la Isla Grande
@@ -9164,7 +9164,7 @@ Jarillito
 Jatán
 Juan Bautista Alberdi
 Juan Martín de Pueyrredón
-Jujuy Province, Jujuy, Provincia de Jujuy
+Jujuy Province, JY, Jujuy, Provincia de Jujuy
 Jume Isla
 Jumealito
 Jumi Pozo
@@ -9389,7 +9389,7 @@ La Palmera
 La Palmita
 La Paloma
 La Pampa
-La Pampa Province, Eva Perón, Gobernación de la Pampa, Provincia de La Pampa
+La Pampa Province, Eva Perón, Gobernación de la Pampa, LP, Provincia de La Pampa
 La Parva
 La Paulina
 La Paz
@@ -9423,7 +9423,7 @@ La Renovación
 La Reserva
 La Revancha
 La Rinconada
-La Rioja Province, La Rioja, Provincia de La Rioja
+La Rioja Province, LR, La Rioja, Provincia de La Rioja
 La Rosa
 La Rosario
 La Rosilla
@@ -11475,7 +11475,7 @@ Media Luna
 Melanie
 Melero
 Melico
-Mendoza Province, Mendoza, Provincia de Mendoza
+Mendoza Province, MZ, Mendoza, Provincia de Mendoza
 Menuco de las Cabezas de Vaca
 Merced La Pampa
 Merced Milagro
@@ -11556,7 +11556,7 @@ Mina de Sal
 Miramar
 Miriñay Río, Miriñay River
 Mishi
-Misiones Province, Misiones, Provincia de Misiones
+Misiones Province, MN, Misiones, Provincia de Misiones
 Mistol Dulce
 Mistol Sesteona
 Mochino
@@ -11889,7 +11889,7 @@ Naranjito
 Naranjo
 Navicha
 Negro Pozo
-Neuquén Province, Gobernación del Neuquén, Neuquen, Provincia de Neuquén, Provincia del Neuquén, Territorio Nacional del Neuquén
+Neuquén Province, Gobernación del Neuquén, NQ, Neuquén, Provincia de Neuquén, Provincia del Neuquén, Territorio Nacional del Neuquén
 Nevado El Muerto, Cerro El Muerto, El Muerto
 Nevado Quela
 Nevado Tres Cruces, Cerro 3 Cruces, Nevados de Tres Cruces
@@ -12013,7 +12013,7 @@ Pampa Negra
 Pampa Nogueira
 Pampa Ojo de Agua
 Pampa Pedernal
-Pampa Pelada, Pampa de los Boers
+Pampa Pelada, Pampa de Los Boers
 Pampa Piedra Pómez
 Pampa Porteña
 Pampa Redonda
@@ -12735,7 +12735,7 @@ Paso de la Costa
 Paso de la Cruz
 Paso de la Federación
 Paso de la Felicidad
-Paso de la Flecha, Paso de los Helados
+Paso de la Flecha, Paso de Los Helados
 Paso de la Fortuna
 Paso de la Gloria
 Paso de la Guasquita
@@ -14251,7 +14251,7 @@ Rio Grande, Grande River, Río Chico Grande, Río Grande de Jujuy, Río Guasamay
 Rio Gualeguy
 Rio Hondo
 Rio Hondo Reservoir, Embalse Rio Hondo
-Rio Parana, Parana River
+Rio Parana, Paraná River
 Rio Peperi Guaçu, Peperi Guaçu River, Peperí Guassú, Pepiri-Guazu River, Rio Pepery Guassú, Rio Pepiri Guaçú, Rio Pepiry-Guassú, Rio Pipiry Guassu, Rio Pipri-Guazu, Río Pepiry Guazú, Río Pepirí Guazú
 Rio Santo Antônio, San Antonio Guazú, San Antonio River
 Risco Alto
@@ -14284,7 +14284,7 @@ Rocas Córdova
 Rocas Dos Hermanas
 Rocas Gutiérrez
 Rocas Niño, Roca Niño
-Rocas Nueve de Julio, Rocas 10 de Julio
+Rocas Nueve de Julio, Rocas 9 de Julio
 Rocas Olivieri
 Rocas San Pascual
 Rocas Sorrel, Roca Sorrel
@@ -14722,7 +14722,7 @@ Río Navarro
 Río Nazareno
 Río Negrito
 Río Negro, Negro River
-Río Negro Province, Gobernación del Río Negro, Provincia de Río Negro, Territorio Nacional del Río Negro, Territorio de Río Negro
+Río Negro Province, Gobernación del Río Negro, Provincia de Río Negro, RN, Territorio Nacional del Río Negro, Territorio de Río Negro
 Río Neuquén, Neuquén River
 Río Nevado
 Río Nieves
@@ -15148,7 +15148,7 @@ Río de la Quebrada del Chorro
 Río de la Reconquista, Reconquista River, Río Reconquista
 Río de la Sal
 Río de la Suela
-Río de la Tambería, Río de la Troya
+Río de la Tambería, Río de La Troya
 Río de la Ternera Muerta
 Río de la Toma
 Río de la Torre
@@ -15293,7 +15293,7 @@ Salar de Tolar Chico
 Salar de la Laguna
 Salar de la Mina, Salina de La Mina
 Salar del Hombre Muerto, Salar del Ratones, Salina Hombre Muerto
-Sali, Salí River
+Sali, Sali River
 Salina Aurora
 Salina Chica, El Chancho, Laguna La Chancha, Salina Chico, Salitral del Chancha
 Salina Colorada Grande, Laguna Colorada Grande
@@ -15368,7 +15368,7 @@ Salitral de la Perra
 Salitral de la Vidriera, Salitral de Carnica, Salitral de Garnica
 Salitral del Barrancoso
 Salta
-Salta Province, Provincia de Salta
+Salta Province, Provincia de Salta, SA
 Salto Alto
 Salto Caniguá, Salto Reunión, Salto Unión, Salto de Caingua
 Salto Cuatro Hermanas
@@ -15418,12 +15418,12 @@ San José
 San José (Entre Ríos)
 San José de Flores
 San Juan
-San Juan Province, Provincia de San Juan
+San Juan Province, Provincia de San Juan, SJ
 San Julián
 San Lorencito
 San Lorenzo
 San Luis
-San Luis Province, Provincia de San Luis
+San Luis Province, Provincia de San Luis, SL
 San Luis Traslado
 San Manuel
 San Martín
@@ -15453,11 +15453,11 @@ Santa Catalina
 Santa Clara
 Santa Colonia
 Santa Cruz
-Santa Cruz Province, Gobernación de Santa Cruz, Provincia de Santa Cruz, Territorio Nacional de Santa Cruz
+Santa Cruz Province, Gobernación de Santa Cruz, Provincia de Santa Cruz, SC, Territorio Nacional de Santa Cruz
 Santa Elena
 Santa Fe
 Santa Fe Harbour
-Santa Fe Province, Provincia de Santa Fe
+Santa Fe Province, Provincia de Santa Fe, SF
 Santa Inés
 Santa Irene
 Santa Isabel
@@ -15470,7 +15470,7 @@ Santa Rosa
 Santa Teresa
 Santa Ángela
 Santa Úrsula
-Santiago del Estero Province, Provincia de Santiago del Estero, Santiago del Estero
+Santiago del Estero Province, Provincia de Santiago del Estero, SE, Santiago del Estero
 Santo Domingo
 Sarmiento
 Sarmiento Park, Parque Sarmiento
@@ -15912,7 +15912,7 @@ Termas de La Paz
 Terrenos del Fuerte
 Teuquito, Panteones
 Tiburón
-Tierra del Fuego Province, Gobernación de la Tierra del Fuego, Provincia de Tierra del Fuego Antártida e Islas del Atlántico Sur, Territorio Nacional de la Tierra del Fuego, Territorio de Tierra del Fuego, Tierra del Fuego
+Tierra del Fuego Province, Gobernación de la Tierra del Fuego, Provincia de Tierra del Fuego Antártida e Islas del Atlántico Sur, TF, Territorio Nacional de la Tierra del Fuego, Territorio de Tierra del Fuego, Tierra del Fuego
 Tigre
 Tigre Muerto
 Tilita
@@ -15970,7 +15970,7 @@ Trozo Pozo
 Tránsito Cué
 Tuca Palta
 Tucumancito
-Tucumán Province, Provincia de Tucumán, Tucumán
+Tucumán Province, Provincia de Tucumán, TM, Tucumán
 Tulun
 Tulun-Tulun
 Tunales

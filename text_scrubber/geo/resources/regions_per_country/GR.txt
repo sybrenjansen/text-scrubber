@@ -27,7 +27,7 @@ Adéres, Adhéres
 Adéres Óros, Adhéres Óros
 Aegean Islands, Aigaioi Nesoi, Aigaíoi Nísoi, Aiyaioi Nisoi, Nisiá Aigaíou, Nísi Aiyaíou, Nísoi Aigaíou, Nísoi Aiyaíou, Nēsoi Aigaiou, Νησιά Αιγαίου
 Aegean Sea, Aigaíon Pélagos, Aiyaíon Pélagos, Ege Denizi, Mare Egeo, Mer Égée, Ägäisches Meer, Αιγαίο Πέλαγος
-Aegina, Aegina Island, Aígina, Egina, Engia, Nísos Aígina, Nísos Aíyina, Νησί Αίγινα
+Aegina, Aegina Island, Egina, Engia, Nísos Aígina, Nísos Aíyina, Αίγινα, Νησί Αίγινα
 Aegina Port, Aegina Ferry Port, Aegina Harbour
 Aetofoliá, Aerofoliá, Aetafoliá
 Aetorráchi, Aëtorrákhi
@@ -51,7 +51,7 @@ Aféndis, Aféndi, Effendi
 Aféndis Khristós
 Agaloudhes bay
 Agathonisi Port, Agathonisi Ferry Port, Agathonisi Harbour
-Agathonísi, Eşekadası, Gaidaro, Gaidaro Island, Gaydaro Adası, Gaïdhouronisi, Gáidharos, Hyetussa, Ietoússa, Nisída Agathonísion, Nisídha Agathonísion, Nisís Angathonísi, Yetoúsa, Yetoússa, Αγαθονήσιον
+Agathonísi, Agathonísion, Eşekadası, Gaidaro, Gaidaro Island, Gaydaro Adası, Gaïdhouronisi, Gáidharos, Hyetussa, Ietoússa, Nisída Agathonísion, Nisídha Agathonísion, Nisís Angathonísi, Yetoúsa, Yetoússa
 Agathopes Beach
 Ageladítsa, Liópesi, Malioliópa
 Ageladórrachi, Angeladhórrakhi, Ayeladhórrakki
@@ -190,7 +190,7 @@ Akrogiali beach
 Akrorákhi, Akrorrákhi
 Akrotiráki, Cape Kontro, Ákra Khondrós
 Akrotíri, Cape Acrotirio, Cape Akroteri, Cape Akrotiri, Cape Akrotirion, Cape Tomari, Capo Acrotiri, Kávos Karamboyiá, Ákra Akrotírion, Ákra Delakouvía, Ákra Karamboyiá, Ákra Karavoúyia, Ákra Takmáki, Ákra Tomári, Ákra Tsakmáki
-Akráthion, Akráthi, Mikri Akradia, Νησίδα Ακράθι
+Akráthion, Mikri Akradia, Ακράθι, Νησίδα Ακράθι
 Akáki
 Alafókastro, Dhelfovoúni, Pórtes
 Alaryinó Potamós, Alarying Potámi, Alaryinó Potámi
@@ -219,7 +219,7 @@ Alogomandra
 Alogomándra Kalogírou, Alogomándra Kaloyírou, Αλογομάνδρα Καλογήρου
 Alogomándra Tyrovolá, Alogomándra Tirovolá
 Alogomántra
-Alogonísi, Alago Island, Alogo Island, Alogonísio, Alogonísion, Nisída Álogo, Nisís Alogonísi, Nisís Álogo
+Alogonísi, Alago Island, Alogo Island, Alogonísio, Nisída Álogo, Nisís Alogonísi, Nisís Álogo, Αλογονήσιον
 Alogómandres, Alogomándhres
 Alogópetra
 Alogóskala
@@ -239,7 +239,7 @@ Alí Babás, Alí Babá, Alí Bambás
 Alónia
 Amadhes Beach
 Amadorós, Amadherós
-Amaní Óros, Αμανή
+Amaní Óros, Amaní
 Ambelákia
 Ambelórrema, Ambelóremma
 Ambélia Réma
@@ -284,7 +284,7 @@ Anemodetis
 Anemologás
 Anemómyloi
 Anemórrema, Bárba Réma, Pistiríka Réma
-Anevatá, Anevató
+Anevatá, Ανεβατό
 Anevritoúres, Ανευριτούρες
 Angathiás Réma
 Angathiés
@@ -312,13 +312,13 @@ Anílios Réma
 Anói
 Apiganiá
 Apighanos
-Apokentroméni Dioíkisi Aigaíou, Aigaío, Αποκεντρωμένη Διοίκηση Αιγαίου
+Apokentroméni Dioíkisi Aigaíou, Αιγαίο, Αποκεντρωμένη Διοίκηση Αιγαίου
 Apokentroméni Dioíkisi Attikís, Attikí
-Apokentroméni Dioíkisi Ipeírou - Dytikís Makedonías, Ήπειρος - Δυτική Μακεδονία, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας
-Apokentroméni Dioíkisi Krítis, Kríti
-Apokentroméni Dioíkisi Makedonías - Thrákis, Makedonía - Thráki
+Apokentroméni Dioíkisi Ipeírou - Dytikís Makedonías, Ípeiros - Dytikí Makedonía, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας
+Apokentroméni Dioíkisi Krítis, Κρήτη
+Apokentroméni Dioíkisi Makedonías - Thrákis, Μακεδονία - Θράκη
 Apokentroméni Dioíkisi Peloponnísou - Dytikís Elládas - Ioníou, Peloponnísos - Dytikí Elláda - Ionía Nísia, Αποκεντρωμένη Διοίκηση Πελοποννήσου - Δυτικής Ελλάδας - Ιονίου
-Apokentroméni Dioíkisi Thessalías - Stereás Elládas, Thessalía - Stereá Elláda
+Apokentroméni Dioíkisi Thessalías - Stereás Elládas, Θεσσαλία - Στερεά Ελλάδα
 Apokoftó
 Apokóronas, Apokóronas Peninsula
 Apopigádi, Apopigádhi
@@ -332,13 +332,13 @@ Apothíkes
 Apoxiraméni Límni Agoulinítsas, Agouunítsa Límni, Limnothálassa Agoulinítsa, Límni Agoulinítsa, Límni Agoulinítsas, Límni Agoulinítsis, Roufiá, Αποξηραμένη Λίμνη Αγουλινίτσας
 Apoxirantheísa Límni Amatóvou, Amatóvon, Apoxiranthísa Límni Amatóvou, Límni Amatóvou, Αποξηρανθείσα λίμνη Αματόβου
 Apoxirantheísa Límni Giannitsón, Apoxiranthísa Límni Yiannitsón, Límni Yiannitsá, Límni Yiannitsón
-Apoxirantheísa Límni Kopaḯda, Apoxirantheísa Límni Kopaḯs, Apoxiranthísa Límni Kopaḯs, Kifisis, Kifissís, Lake Copaïs, Lake Kopaḯs, Límni Kopaḯ, Topolia
+Apoxirantheísa Límni Kopaḯda, Apoxiranthísa Límni Kopaḯs, Kifisis, Kifissís, Lake Copaïs, Lake Kopaḯs, Límni Kopaḯ, Topolia, Αποξηρανθείσα Λίμνη Κωπαΐς
 Apoxirantheísa Límni Mavrí, Límni Mavrí
 Apoxirantheísa Límni Xyniás, Apoxiranthísa Límni Xiniádhos, Daüklí, Límni Xiniás, Nezerós, Xynias Lake
 Apoxiranthísa Límni Akhinoú, Límni Akhinoú, Límni Akhinós, Takhino Geul
 Apsánisso
 Apáno Nisiá, Apanonisiya, Vrachonisída Epáno
-Arachnaío Óros, Arachnaío, Arachnaíon Óros, Arakhnaíon Óros
+Arachnaío Óros, Arachnaío, Arakhnaíon Óros, Αραχναίον Όρος
 Araión, Rándos
 Aravíkia
 Archontóniso, Nisis Arkhondonisi, Vrachonisída Archontóniso
@@ -486,7 +486,7 @@ BAITANI PERIVOLI
 Bagiáltzas Réma, Bayiáltzas Réma, Virísta
 Baia dei Turchi
 Baia delle Foche
-Baia di Emporio, Baia di Emborio, Nemborio Bay, Ormískos Emborió, Ορμίσκος Εμπορειό
+Baia di Emporio, Baia di Emborio, Nemborio Bay, Ormískos Emborió, Ormískos Emporeió
 Baia di Lingo
 Baia di Poti
 Baia di San Andrea, Ormískos Agíou Andréa
@@ -565,7 +565,7 @@ Bogdáni, Bogdhánis, Μπογδάνι
 Bogázi Réma
 Bompiás, Bobiás Vounoú, Bombiás, Μπομπιάς
 Borina Point, Bouríni, Ákra Vorinó
-Borléro, Borleroú, Bourleroú, Γαλατά, Μπορλέρο
+Borléro, Borleroú, Bourleroú, Galatá, Μπορλέρο
 Botsára
 Boualí, Réma tou Bourlí, Μπουαλή
 Bouboulínas Réma, Bouboulína Potamós, Boumboulína Potamós, Vouvoulína
@@ -628,7 +628,7 @@ Cape Drakona
 Cape Ekato Kephales
 Cape Emeliano
 Cape Faraklo
-Cape Girapetra, Ákra Yirápetra, Άκρα Ιεράπετρα
+Cape Girapetra, Ákra Ierápetra, Ákra Yirápetra
 Cape Gutheru, Akra Goúdhouras, Goudhéra, Ákra Erithraion, Ákra Goúdhoura, Ákra Goúdhouro, Ákra Goúdoura, Άκρα Γούδουρα
 Cape Kalloni
 Cape Kaloyero, Ákra Kalóyeros
@@ -647,7 +647,7 @@ Cape Pounta
 Cape Purnea
 Cape Roga, Ákra Róga
 Cape Salmone, Cape Pláka
-Cape Sitia, Akra Sitías, Cape Vamvakiá, Άκρα Βαμβακιά
+Cape Sitia, Akra Sitías, Cape Vamvakiá, Ákra Vamvakiá
 Cape Spathi, Sídheros
 Cape Thani, Ákra Thaní
 Cape Trachvlì
@@ -659,7 +659,7 @@ Capo Alloro, Ákra Álouro, Ákra Ázouro
 Capo Cuzzuva
 Capo Sant' Irene
 Carmania Shoal
-Carpatho Rock, Vrákhoi Karpáthou, Ífalos Kárpatho, Ífalos Kárpathos, Ύφαλος Κάρπαθος
+Carpatho Rock, Vrákhoi Karpáthou, Ífalos Kárpatho, Ífalos Kárpathos, Ýfalos Kárpathos
 Caruba Bay, Karoúmbes Bay, Órmos Karoúmbes, Órmos Karoúmpes, Όρμος Καρούμπες
 Cazzuni Mount
 Central Greece, Κεντρική Ελλάδα, Στερεά Ελλάδα
@@ -671,14 +671,14 @@ Chalasméno, Khalasméno
 Chalavrás
 Chalavé, Khalasé
 Chalikiás Réma
-Chalikádha, Chalikada
+Chalikádha, Χαλικάδα
 Chalikópetra
 Chalió, Choreftís, Khorevtís, Χορευτής
 Chalki Port, Chalki Ferry Port, Chalki Harbour
 Chalkomatoús, Χαλκοματούς
 Chalkoú, Khalkoú, Χαλκού
 Chalántra Réma, Khalándhra, Khalándra Potamós
-Chalára, Halara, Khalára, Kosíni
+Chalára, Halara, Khalára, Κοσίνι
 Chalári
 Chalásmata Réma
 Chalépa
@@ -688,7 +688,7 @@ Chania, Χανίων
 Chania Port, Chania Ferry Port, Chania Harbour
 Chanioti Beach
 Channel Rocks
-Channel of Kerkyra, Canale di Corfú, Corfu Channel, Corfu Straits, Kanal von Korfu, Kerkiraikí Thálassa, Kerkyraikí Thálassa, Strait of Corfu, Στενό Κερκύρας
+Channel of Kerkyra, Canale di Corfú, Corfu Channel, Corfu Straits, Kanal von Korfu, Kerkiraikí Thálassa, Kerkyraikí Thálassa, Stenó Kerkýras, Strait of Corfu
 Charamí
 Charchomatá Réma
 Charkias
@@ -712,14 +712,14 @@ Chaús Réma, Remma Chaúsh, Tsaoús Réma, Tsaoús Rémma, Tsaoúsi Réma, Tsau
 Chaḯ Tourlé, Chai Toúrla
 Cheimadió, Khimadhió, Vígla Khimadhió
 Chelidovoúni, Khelidhovoúni, Χελιδοβούνι
-Chelidóna, Khelidhón, Χελιδών
+Chelidóna, Chelidón, Khelidhón
 Chelmós, Arania Gebg, Aroánia Óri, Khelmo, Khelmós
 Chelóna, Alínda, Alíndha, Alínta, Gorafaki
 Chera Capo
 Chernáki Réma, Chernák Cháï, Tsernáki Réma
 Chernésnovo Réma, Tsernésovo Réma
 Chersonisos, Χερσονήσου
-Chersonísi, Khersonísion, Mikró Nísi, Nisís Xeró, Nísos Kheronísi, Nísos Xeronisi, Χερσονήσιον
+Chersonísi, Chersonísion, Khersonísion, Mikró Nísi, Nisís Xeró, Nísos Kheronísi, Nísos Xeronisi
 Chersónisos Akrotíri, Akrotiíri Peninsula, Khersónisos Akrotirion, Khersónisos Akrotíri, Kiamon, Kyamon Promontory
 Chersónisos Dióni, Khersónisos Dhióni
 Chersónisos Gramvoúsas, Khersónisos Gramvoúsa, Χερσόνησος Γραμβούσας
@@ -762,7 +762,7 @@ Cholórrema, Kholórema, Kholórrema
 Chondrinianó Farángi, Khondrinó Farángi, Χονδρινιανό Φαράγγι
 Chondrí Ráchi, Khondrí Rákhi
 Chondró Vounó, Lofískos Chondró Vounó, Χονδρό Βουνό
-Chondrókavos, Khondrókavos, Kávos Khondhrós, Kávos Khoúdras, Ákra Tsákonas
+Chondrókavos, Khondrókavos, Kávos Khondhrós, Kávos Khoúdras, Άκρα Τσάκωνας
 Chondrós, Khondrós
 Chondrós Kávos, Cape Khondrós, Khondro Kavo, Khondrón, Khondrós Kávos, Ákra Khondhrón
 Chontrá, Cape Khondrá tís Váris, Khondrí Kefalí, Xodra Head, Ákra Khondrá tis Váris
@@ -784,7 +784,7 @@ Chounovína, Khounovína, Χουνοβίνα
 Choúni Réma, Kharádhra Khoúni, Χούνη Ρέμα
 Choúsakas, Khoúsakas, Khávsakas, Χούσακας
 Choúsoula, Χούσουλα
-Christiani Island, Nisis Hristiani, Nisís Christianí, Νησίδα Χριστιανή, Χριστιανή
+Christiani Island, Nisis Hristiani, Nisída Christianí, Nisís Christianí, Χριστιανή
 Christoú Réma, Χριστού Ρέμα
 Christóforos, Khristóforos
 Christós
@@ -810,7 +810,7 @@ Chúka Tekhóvou, Tsoúka Tekhóvou
 Cone Hill
 Coombs Cove
 Cooper Point
-Corfu, Corcyra, Korfoi, Kérkira, Kérkyra, Nísos Kérkira, Scheria, Νήσος Κέρκυρα, Νησί Κέρκυρα
+Corfu, Corcyra, Korfoi, Kérkira, Kérkyra, Nisí Kérkyra, Nísos Kérkira, Scheria, Νήσος Κέρκυρα
 Corfu Port, Corfu Ferry Port, Corfu Harbour
 Corinth Canal, Dhiórix Korínthou, Dióryga Korínthou, Dióryx Korínthou, Korinthos Canal, Διώρυγα Κορίνθου, Διώρυγα της Κορίνθου, Διώρυξ Κορίνθου
 Corinth Canal East Entrance
@@ -820,13 +820,13 @@ Cratere Alessandro, Kratíras Aléxandros
 Cratere Stefano, Kratíras Stéfanos
 Crawford Cove
 Creta et Cyrenae, Creta and Cyrenae (Roman province)
-Crete, Candia, Creta, Kirid, Krete, Kríti, Nísos Kríti
+Crete, Candia, Creta, Kirid, Krete, Nísos Kríti, Κρήτη
 Crveni Steni
 Cuce, Cucs, Tsoútsa
 Cutsumbora, Koutsoumbas, Koutsoumbóra, Koutsoumpóra, Vrakhos Koutsoumbora, Ífalos Koutsoumbás, Ýfalos Koutsoumpás, İfalos Kutsumbora
 Cycladen
-Cyclades, Kikládes, Kikládes Nisiá, Kikládes Nísoi, Kikládhes Nísoi, Kykládes, Nísoi Kykládon, Νήσοι Κυκλάδες, Νησιά Κυκλάδες
-Cythera, Cerigo, Cythera Island, Kittern Island, Kythera, Kíthira, Nisos Kythira, Nísos Kíthira, Tsirígo, Νησι Κυθηρα
+Cyclades, Kikládes, Kikládes Nisiá, Kikládes Nísoi, Kikládhes Nísoi, Κυκλάδες, Νήσοι Κυκλάδες, Νήσοι Κυκλάδων, Νησιά Κυκλάδες
+Cythera, Cerigo, Cythera Island, Kittern Island, Kythera, Kíthira, Nisí Kýthira, Nísos Kíthira, Nísos Kýthira, Tsirígo
 Dafnokorfí, Dhafnokorfés
 Dafnopótamos, Dhafnopótamos, Dhasnopotamos
 Dafnónas Potamós, Potamos Dhafinon, Potamós Dhafnón, Réma Dhafnón, Xiriás
@@ -863,7 +863,7 @@ Despóti Vrýsi
 Dexá, Ex Aito Bay, Órmos Dhexiá
 Dhafnórrema
 Dhamaki
-Dhaskalia Island, Dhaskaliá Islet, Nisída Daskaleiá, Nisís Dhaskalía, Vrachonisís Daskaleiá
+Dhaskalia Island, Dhaskaliá Islet, Nisís Dhaskalía, Vrachonisís Daskaleiá, Νησίδα Δασκαλειά
 Dheleníki Réma
 Dhelvetzelí
 Dhervénios Réma, Dervénikos, Dhervénios Potamós
@@ -881,7 +881,7 @@ Dhiávasis Kalapóti, Dhiávasis Kalapotíou
 Dhiávasis Pisodheríou, Διάβαση Βίγλας-Πισοδερίου
 Dhrenítseto, Dhrenítseton, Drenítseto
 Dhrepáni
-Dhrístella, Dhrístela, Dhrístellon, Dristella, Triskéla
+Dhrístella, Dhrístela, Dhrístellon, Triskéla, Δρίστελλα
 Dhélfi
 Dhíavlos Oreón, Orei Strait, Oreo Channel, Δίαυλος Ωρεών
 Dhíkti Óri, Dhiktaía Óri, Lasithi Mountains, Lasithiótika Óri, Lasithíou
@@ -998,7 +998,7 @@ Dimos Glyfada, Γλυφάδας
 Dimos Gortyna, Gortyna, Γόρτυνας
 Dimos Gortynia, Gortynia, Γορτυνίας
 Dimos Grevena, Grevena, Γρεβενών
-Dimos Hydra, Dimos Ydras, Ύδρα
+Dimos Hydra, Ύδρα, Δήμος Ύδρας
 Dimos Iasmos, Iasmos, Ιάσμου
 Dimos Ierapetra, Ιεράπετρα, Ιεράπετρας
 Dimos Igoumenitsa, Igoumenitsa, Ηγουμενίτσας
@@ -1036,7 +1036,7 @@ Dimos Kifisia, Kifisia, Κηφισιάς
 Dimos Kileler, Κιλελέρ
 Dimos Kilkis, Κιλκίς
 Dimos Kimolos, Kimolos, Κιμώλου
-Dimos Kissamos, Kissamos, Κισσάμου
+Dimos Kissamos, Κίσσαμος, Κισσάμου
 Dimos Komotini, Komotini, Κομοτηνής
 Dimos Konitsa, Konitsa, Κόνιτσας
 Dimos Kordelio-Evosmos, Kordelio-Evosmos, Κορδελιού - Ευόσμου
@@ -1072,13 +1072,13 @@ Dimos Megalopoli, Megalopoli, Μεγαλόπολης
 Dimos Meganisi, Meganisi, Μεγανησίου
 Dimos Megara, Megara, Μεγαρέων
 Dimos Messene, Messene, Μεσσήνης
-Dimos Metamorfosi, Μεταμορφώσεως, Μεταμόρφωση
+Dimos Metamorfosi, Metamorfosi, Μεταμορφώσεως
 Dimos Metsovo, Metsovo, Μετσόβου
 Dimos Milos, Μήλου
 Dimos Minoa Pediada, Minoa Pediada, Μινώα Πεδιάδας
 Dimos Missolonghi, Missolonghi, Ιεράς Πόλης Μεσολογγίου
 Dimos Molos-Agios Konstantinos, Molos-Agios Konstantinos, Μώλου - Αγ. Κωνσταντίνου
-Dimos Monemvasia, Μονεμβασίας
+Dimos Monemvasia, Μονεμβασιάς
 Dimos Moschato-Tavros, Moschato-Tavros, Μοσχάτου - Ταύρου
 Dimos Mouzaki, Μουζακίου
 Dimos Myki, Myki, Μύκης
@@ -1119,7 +1119,7 @@ Dimos Pangaio, Pangaio, Παγγαίου
 Dimos Papagou-Cholargos, Papagou-Cholargos, Παπάγου - Χολαργού
 Dimos Paranesti, Paranesti, Παρανεστίου
 Dimos Parga, Parga, Πάργας
-Dimos Paros, Paros, Πάρου
+Dimos Paros, Πάρος, Πάρου
 Dimos Patmos, Patmos, Πάτμου
 Dimos Patras, Patras, Πατρέων
 Dimos Pavlos Melas, Pavlos Melas, Παύλου Μελά
@@ -1147,10 +1147,10 @@ Dimos Rafina-Pikermi, Rafina-Pikermi, Ραφήνας - Πικερμίου
 Dimos Rethymno, Rethymno, Ρεθύμνης
 Dimos Rhodes, Ρόδου
 Dimos Rigas Feraios, Rigas Feraios, Ρήγα Φερραίου
-Dimos Salaminas, Salaminas, Salamis
-Dimos Samos, Σάμος, Σάμου
+Dimos Salaminas, Salamis, Σαλαμίνας
+Dimos Samos, Samos, Σάμου
 Dimos Samothrace, Σαμοθράκης
-Dimos Santorini, Santorini, Θήρα, Θήρας
+Dimos Santorini, Santorini, Thira, Θήρας
 Dimos Saronikos, Saronikos, Σαρωνικού
 Dimos Serifos, Serifos, Σερίφου
 Dimos Serres, Serres, Σερρών
@@ -1176,7 +1176,7 @@ Dimos Spata-Artemida, Spata-Artemida, Σπάτων - Αρτέμιδος
 Dimos Spetses, Spetses, Σπετσών
 Dimos Stylida, Stylida, Στυλίδας
 Dimos Symi, Symi, Σύμης
-Dimos Syros-Ermoupoli, Syros-Ermoupoli, Σύρος, Σύρου - Ερμούπολης
+Dimos Syros-Ermoupoli, Syros, Syros-Ermoupoli, Σύρου - Ερμούπολης
 Dimos Tanagra, Tanagra, Τανάγρας
 Dimos Tempi, Tempi, Τεμπών
 Dimos Thebes, Thebes, Θηβαίων
@@ -1185,7 +1185,7 @@ Dimos Thermi, Θέρμης
 Dimos Thermo, Thermo, Θέρμου
 Dimos Thessaloniki, Thessaloniki, Θεσσαλονίκης
 Dimos Tilos, Tilos, Τήλου
-Dimos Tinos, Tinos, Τήνου
+Dimos Tinos, Τήνος, Τήνου
 Dimos Topeiros, Topeiros, Τοπείρου
 Dimos Trifylia, Trifylia, Τριφυλίας
 Dimos Trikala, Τρικκαίων
@@ -1213,7 +1213,7 @@ Dimos Zagori, Δήμος Ζαγορίου, Ζαγορίου, Ζαγόρι
 Dimos Zakynthos, Ζακύνθου
 Dimos Ziros, Ziros, Ζηρού
 Dimos Zitsa, Zitsa, Ζίτσας
-Dimos Zografos, Ζωγράφος, Ζωγράφου
+Dimos Zografos, Zografos, Ζωγράφου
 Dimoúli, Dhimoúli, Δημούλη
 Dionisi, Nisís Dhanistis, Nisís Dhía, Thio-Nisi Islet, Thionísi, Νησίδα Δίας
 Dionisiou Beach
@@ -1274,7 +1274,7 @@ Dubaltí Réma, Doubaltí Réma
 Dudica, Doúditsa, Doúnditsa
 Durham Cove
 Dyo Gialoí
-Dyó Vouná, Dhío Vouná, Δύο Βουνά
+Dyó Vouná, Dhío Vouná, Δυό Βουνά
 Dábara Réma, Dábari Remma, Dámbari Réma
 Dáfna, Dháfna
 Dáfni, Dhafni
@@ -1313,7 +1313,7 @@ Díavlos Trikeríou, Dhíavlos Tríkeri, Dhíavlos Tríkeríou, Dhíavlos Tríkk
 Díavlos Tínou-Ándrou, Steno Pass, Stenó Ándrou-Tínou, Δίαυλος Τήνου-Άνδρου, Στενό Άνδρου-Τήνου
 Díavlos Voúxas, Stenón Voúxas, Stenón Voúxas-Gramvoúsas, Δίαυλος Βούξας
 Díchovas Réma, Dhíkhovas Réma
-Dídymo Óros, Dhídhimon Óros, Didyma, Όρος Δίδυμο, Δίδυμον Όρος
+Dídymo Óros, Dhídhimon Óros, Didyma, Dídymon Óros, Óros Dídymo
 Díkaios Óros, Díkaios, Mount Dicheo, Mount Dikeon, Óros Dhikios, Óros Dhíkaios
 Dískou Koryfí, Dhískou Korifí, Δίσκου Κορυφή
 Dópra Réma, Dóbra, Dópra Potamós
@@ -1367,7 +1367,7 @@ Eparchía Amaríou
 Eparchía Apokorónou
 Eparchía Arnaías
 Eparchía Attikís
-Eparchía Chalkidikís, Chalkidikí
+Eparchía Chalkidikís, Χαλκιδική
 Eparchía Chalkídos, Eparchía Chalkídas
 Eparchía Chíou
 Eparchía Didymoteíchou
@@ -1400,7 +1400,7 @@ Eparchía Kainourgíou, Eparchía Kainouríou, Kainourgíou, Kainouríou
 Eparchía Kalampákas, Eparkhía Kalambákas
 Eparchía Kalamón
 Eparchía Kalavrýton
-Eparchía Kardítsas, Επαρχία Καρδίτσης, Καρδίτσα
+Eparchía Kardítsas, Eparchía Kardítsis, Kardítsa
 Eparchía Karystías
 Eparchía Kastorías
 Eparchía Kerkýras
@@ -1510,7 +1510,7 @@ Erýmanthos, Erymanthus, Erímanthos Óros, Olonós
 Erýmanthos Potamós, Erymanthos River, Erímanthos Potamós
 Escombe Point
 Eskejé Réma, Esketzé Réma, Eskije
-Esoterikós Liménas, Alón, Esoterikós Limín, Kofós, Limín Alón, Λιμένας Αλών
+Esoterikós Liménas, Alón, Esoterikós Limín, Kofós, Liménas Alón, Limín Alón
 Estavroménos
 Ethnikós Drymós Párnithas
 Ethnikós Kípos, National Garden, Royal Garden, Βασιλικός Κήπος
@@ -1547,7 +1547,7 @@ Faradonísia, Faradhonísia, Isolotti Farado, Pharios, Pharios Islands, Psaradho
 Fardhiés Korifés
 Fardý Pigádi
 Fardý Spithári, Fardhí Spithári, Koúri
-Farmakonísi, Farmaco, Farmako Adası, Farmakonísion, Farmakoúsa, Nisída Farmakonísion, Nisídha Farmakonísion, Pharmako
+Farmakonísi, Farmaco, Farmako Adası, Farmakoúsa, Nisída Farmakonísion, Nisídha Farmakonísion, Pharmako, Φαρμακονήσιον
 Farmakovoúni, Φαρμακοβούνι
 Farmakás
 Farmákelos
@@ -1619,7 +1619,7 @@ Fonískos, Fanískos
 Football Pitch
 Foradómandra, Kefála Khondhroú, Kefála Khóndrou
 Forkero bay
-Forkeró, Órmos Forkeró, Órmos Fourkeró
+Forkeró, Órmos Fourkeró, Όρμος Φορκερό
 Forti
 Fortétza, Fortétsa
 Foukália, Φουκάλια
@@ -1667,7 +1667,7 @@ Ftéris Réma, Potamós Ftéris, Potámi Ftéri
 Ftýsmata
 Fuller Cove
 Fundiják Réma, Founditzák Réma
-Fyllíïo Óros, Dhogatzí, Dogají, Doganjís, Fillíon Óros, Fillíïon Óros, Fyllíïon Óros
+Fyllíïo Óros, Dhogatzí, Dogají, Doganjís, Fillíon Óros, Fillíïon Óros, Φυλλήϊον Όρος
 Fyripláka, Firiplaka
 Fytórion
 Fáliron
@@ -1729,7 +1729,7 @@ Geropótamos, Geropotamos River, Ilektras Potamós, Mitropolipotamo
 Geroskínos, Yeroskínos, Yéros Skínos
 Gerovoúni, Yerovoúni, Γεροβούνι
 Gerá
-Geráneia Óri, Makrí Pláyi, Yeránia Óri, Γεράνεια
+Geráneia Óri, Geráneia, Makrí Pláyi, Yeránia Óri
 Geráni
 Geróvrachos, Yeróvrakhos
 Ghalatou
@@ -1831,12 +1831,12 @@ Gráva Angouráki, Γράβα Αγγουράκι
 Grídia
 Gríva
 Gulf of Argolís, Αργολικός Κόλπος
-Gulf of Corinth, Corinthiacus Sinus, Gulf of Lepanto, Κορινθιακός Κόλπος
+Gulf of Corinth, Corinthiacus Sinus, Gulf of Lepanto, Korinthiakós Kólpos
 Gulf of Enez, Ainou Körfezi, Enez Körfezi, Gulf of Enos, Kólpos Aínou
 Gulf of Kastellorizon, Gulf of Kastelorizo, Kastellorízou Körfezi, Kolpos Kastellorízou, Órmos Kastellorízon, Órmos tou Kastellorízou
 Gulf of Laconia, Gulf of Kolokythia, Gulf of Lakonikos, Laconian Gulf, Lakonikos Kolpos
-Gulf of Messinia, Gulf of Kalamata, Gulf of Messíni, Kalamai, Messiniakós Kólpos, Κόλπος Καλαμών
-Gulf of Patras, Gulf of Pátrai, Kalidhonios, Kólpos Pátron, Patraïkós Kólpos
+Gulf of Messinia, Gulf of Kalamata, Gulf of Messíni, Kalamai, Kólpos Kalamón, Μεσσηνιακός Κόλπος
+Gulf of Patras, Gulf of Pátrai, Kalidhonios, Kólpos Pátron, Πατραϊκός Κόλπος
 Gurgorani Point
 Gusátsia Réma, Gousátsia Potamós, Gusachia Rémma, Piousátsia Réma
 Gyaliá
@@ -1858,15 +1858,15 @@ Gýftissa, Yíftissa
 Gýra Réma, Kakó Lagkádi, Kakó Langádhi, Yíra Réma
 Halepa
 Harbour Nauplie
-Hellenic Republic, Ellinikí Dhimokratía, Ellinikí Dimokratía, Elláda, Ellás, Grece, Grecia, Greece, Griechenland, Hellas, Kingdom of Hella, Vasilion tis Ellados
+Hellenic Republic, Ellinikí Dhimokratía, Grece, Grecia, Greece, Griechenland, Hellas, Kingdom of Hella, Vasilion tis Ellados, Ελλάδα, Ελλάς, Ελληνική Δημοκρατία
 Heraklion Municipality, Heraklion, Δήμος Ηρακλείου, Ηράκλειο
 Heraklion Port, Heraklion Ferry Port, Heraklion Harbour
 Heraklion Regional Unit, Heraclion, Heraklion, Irákleion, Iráklion, Nomós Iraklíou, Ηράκλειο, Περιφερειακή Ενότητα Ηρακλείου
 Hippocrène
 Hovolio
-Hydra, Hydra Island, Hydrea, Nísos Ídhra, Ýdra, Νήσος Ύδρα, Νησί Υδρα
+Hydra, Hydra Island, Hydrea, Nisí Ýdra, Nísos Ídhra, Nísos Ýdra, Ύδρα
 Icarian Sea
-Ichaloús, Punta Icalos, Trakhia Point, Ákra Íkalos, Άκρα Τραχειά, Ιχαλούς
+Ichaloús, Punta Icalos, Trakhia Point, Ákra Tracheiá, Ákra Íkalos, Ιχαλούς
 Ichthiotrofeíon Ágrilos, Ichthiotrofeíon Ágrylos, Ikhthiotrofíon Ágrilos
 Ichthyotrofeío Chelodívaro, Ikhthiotrofíon Khelodhívaro, Ιχθυοτροφείον Χελοδίβαρον
 Ichthyotrofeío Gourounopoúles, Ichthyotrofeíon Gourounopoúles, Ikhthiotrofíon Gourounopoúles, Ιχθυοτροφείο Γουρουνοπούλες, Ιχθυοτροφείον Γουρουνοπούλες
@@ -1875,7 +1875,7 @@ Ichthyotrofeío Koumpournoú, Ikhthiotrofío Koumbournoú
 Ichthyotrofeío Mávro Neró, Ikhthiotrofío Mávro Neró
 Ichthyotrofeío Prokopanístou, Ichthyotrofeíon Prokopanístou, Ikhthiotrofíon Prokopanístou, Ιχθυοτροφείο Προκοπανίστου, Ιχθυοτροφείον Προκοπανίστου
 Ichthyotrofeío Prókopos, Ichthyotrofeíon Prókopos, Ikhthiotrofíon Prókopos
-Ichthyotrofeío Pórto, Ichthyotrofeíon Pórto, Ikhthiotrofíon Pórto
+Ichthyotrofeío Pórto, Ikhthiotrofíon Pórto, Ιχθυοτροφείον Πόρτο
 Ichthyotrofeío Roúgas, Ichthyotrofeíon Roúgas, Ikhthiotrofíon Roúgas, Ιχθυοτροφείο Ρούγας, Ιχθυοτροφείον Ρούγας
 Ichthyotrofeío Tholís, Ichthyotrofeíon Tholís, Ikhthiotrofía Tholís
 Ichthyotrofeío Vásovas, Vásonas Ikhthiotrofío
@@ -1900,8 +1900,8 @@ Isole di Gabbiani, Glaronísia, Gloronisia, Isolotti dei Gabbiani, Vrachonisíde
 Isolotti di Gurna, Vrachonisídes Goúrna
 Isthmus of Corinth, Isthmós Korínthou, Isthomís Korínthou, Ισθμός Κορίνθου, Ισθμός της Κορίνθου
 Isómata
-Ithaca, Ithaca Island, Ithake, Nísos Itháki, Ιθάκη, Νησί Ιθάκη
-Ithómi Óros, Ιθώμη
+Ithaca, Ithaca Island, Ithake, Itháki, Nisí Itháki, Nísos Itháki
+Ithómi Óros, Ithómi
 Itoli Potamós, Ítali Potamós
 Iónia Nisiá, Ionia Islands, Iónii Nísi, Iónioi Nísoi
 Jaka
@@ -1995,7 +1995,7 @@ Kalosiórou, Agkáli Glyfó, Καλοσιώρου
 Kalovoúni, Máli Líse, Καλοβούνι
 Kalovótsi Vrýsi
 Kaloyeraki Point
-Kaloyeri Reefs, Kaloyéroi Reefs, Ífaloi Kaloyéroi, Ύφαλοι Καλογέροι
+Kaloyeri Reefs, Kaloyéroi Reefs, Ífaloi Kaloyéroi, Ýfaloi Kalogéroi
 Kaloyeri Shoal
 Kaloyerés
 Kaloyerítsa
@@ -2005,12 +2005,12 @@ Kalpakiótikos Potamós, Kalpakiótiko Potamós
 Kalpakóvrachos, Kalpakóvrakhos
 Kalpáki
 Kaltsonísi, Chalkonísi, Kalkionísi, Kaltsonísion, Nisída Kaltsonísion, Nisís Kaltsonísi, Vrachonisída Kaltsonísi, Vrachonisís Kaltsonísi
-Kalymnos Island, Calimno, Calino, Calymna, Calymnos, Kalimno Island, Kalydin, Kálymnos, Nísos Kalýmnos, Nísos Kálimnos, Νησί Κάλυμνος
+Kalymnos Island, Calimno, Calino, Calymna, Calymnos, Kalimno Island, Kalydin, Kálymnos, Nisí Kálymnos, Nísos Kalýmnos, Nísos Kálimnos
 Kalymnos Port, Kalymnos Ferry Port, Kalymnos Harbour
 Kalyváta
 Kalámi
 Kaláthi Réma
-Kaláthio, Kaláthion Óros, Óros Kaláthi
+Kaláthio, Óros Kaláthi, Καλάθιον Όρος
 Kalé Lófos
 Kalé Sirtí
 Kaléntzis Potamós, Kalandzís, Kalénjis Potamós
@@ -2044,7 +2044,7 @@ Kaminádha
 Kamináki
 Kamnaḯtiko Réma, Kamnaḯtikos Potamós
 Kampana
-Kampiá, Kambiá
+Kampiá, Kambia
 Kamplafka
 Kamplás, Kablas
 Kampánes
@@ -2241,8 +2241,8 @@ Kedrokefála, Kerdhokefála
 Kedrolívano
 Kedrórema
 Kefali
-Kefallonia Regional Unit, Cephalonia, Kefallonia, Κεφαλληνία, Κεφαλονιά, Περιφερειακή Ενότητα Κεφαλληνίας
-Kefalonia Island, Cefalonia, Cephallenia, Cephalonia, Cephalonia Island, Kefallinía, Kefalonia, Kephallēnia, Nisí Kefallinía, Nísos Kefallinía
+Kefallonia Regional Unit, Cephalonia, Kefallinía, Kefallonia, Κεφαλονιά, Περιφερειακή Ενότητα Κεφαλληνίας
+Kefalonia Island, Cefalonia, Cephallenia, Cephalonia, Cephalonia Island, Kefallinía, Kefalonia, Kephallēnia, Nísos Kefallinía, Νησί Κεφαλληνία
 Kefalonia Port, Kefalonia Ferry Port, Kefalonia Harbour
 Kefalos
 Kefalovoúni, Κεφαλοβούνι
@@ -2270,16 +2270,16 @@ Keramídas Réma, Keramídha Réma
 Kerasiá
 Kerasiótiko Réma, Kerasiótikos
 Kerato
-Keraton Bay, Kerato Bay, Keratokámbou Bay, Órmos Keratókambos, Órmos Kérato, Όρμος Κερατόκαμπος
+Keraton Bay, Kerato Bay, Keratokámbou Bay, Órmos Keratókambos, Órmos Keratókampos, Órmos Kérato
 Keravnokorfí
 Kerdhákia
 Kerdýlia Óri, Kerdhílion Óros, Kerdhíllion Óros
-Kereamathi Islets, Kiriamádhi Islets, Nisídhes Kiriamádhi, Vrachonisídes Kyriamádi, Vráchoi Kyriamádi, Βράχος Κυριαμάδι, Νησίδα Κυριαμάδι
+Kereamathi Islets, Kiriamádhi Islets, Nisída Kyriamádi, Nisídhes Kiriamádhi, Vrachonisídes Kyriamádi, Vráchoi Kyriamádi, Βράχος Κυριαμάδι
 Keri
-Kerkyra Road, Angirovólio Kerkýras, Angirovólion Kerkíras, Corfu Road, Kerkira Road, Αγκυροβόλιο Κερκύρας, Αγκυροβόλιον Κερκύρας
+Kerkyra Road, Agkyrovólion Kerkýras, Angirovólio Kerkýras, Angirovólion Kerkíras, Corfu Road, Kerkira Road, Αγκυροβόλιο Κερκύρας
 Kerynítis Potamós, Kerinítis Potamós, Kerinítis Réma, Keronítis Potamós
 Kerásovou Réma, Kerásovon Réma
-Khalkidhikí, Chalcideke, Chalcidice, Chalcidike, Chalkidike, Chalkidikí, Halkidikí, Khalkidiki, Khalkidikē, Χερσόνησος Χαλκιδικής
+Khalkidhikí, Chalcideke, Chalcidice, Chalcidike, Chalkidike, Halkidikí, Khalkidiki, Khalkidikē, Χαλκιδική, Χερσόνησος Χαλκιδικής
 Khalkidhikón Pélagos
 Khalíkia
 Khaméni
@@ -2322,7 +2322,7 @@ Kipiádi
 Kirimianoú
 Kiréas Potamós, Kirévs Potamós
 Kissamos Port, Kissamos Ferry Port, Kissamos Harbour
-Kissós Óros, Khortiátis, Kissos, Kortach, Mount Chortiatis, Χορτιάτης
+Kissós Óros, Khortiátis, Kissós, Kortach, Mount Chortiatis, Χορτιάτης
 Kithairónas, Kithairón Óros
 Kitrinonéri Réma
 Kitsonásou, Katsinádi, Katsinási, Katsináthi
@@ -2477,7 +2477,7 @@ Koríakos, Malezánia, Vouná Kirás
 Koríta
 Koróna
 Korýllas, Goríllas, Koríllas
-Kos, Eparchía Ko, Περιφερειακή Ενότητα Κω
+Kos, Eparchía Ko, Perifereiakí Enótita Ko
 Kos Channel, Coo Strait, Dhíavlos tís Kó, Istanköy Kanali, Stenón Ko, Stenón Kós, Ístanköy Bogazi
 Kos Port, Kos Ferry Port, Kos Harbour
 Koskaráka Réma, Rémma Koskóraka
@@ -2537,7 +2537,7 @@ Kounoupadhes
 Kounoupítsa, Κουνουπίτσα
 Kourkoulí, Κουρκουλή
 Kourkoutás, Κουρκουτάς
-Kourkoúla, Kourkoúla Lekánia, Lekánia, Rákhi Kouroúni, Κουρκούλα
+Kourkoúla, Kourkoúla Lekánia, Lekánia, Rákhi Kouroúni, Κούρκουλα
 Kourmoútsi, Kormoútsi, Κουρμούτσι
 Kournonísi
 Kournoúto, Κουρνούτο
@@ -2554,7 +2554,7 @@ Kourtalokharákia
 Kouríla
 Kousantasi Kioferzi, Golf von Kuşada, Gulf of Kuşadasi, Gulf of Scalanuova, Gulf of Skala Nuova, Kolpos Efesou, Kuşada Korfezi, Kólpos tís Skalanóvas, Κουσαντασι Κιοφερζι
 Kousloú Réma, Kozlú Deré
-Kousínia, Κασίνια, Κουσίνια
+Kousínia, Kasínia, Κουσίνια
 Koutaládes, Κουταλάδες
 Koutifarína Réma, Κουτιφαρίνα Ρέμα
 Koutoulés
@@ -2667,7 +2667,7 @@ Krýfti Réma
 Krýo Réma, Krío Réma
 Kseropotamos
 Ktenia Rocks, Khténia Rocks, Vrákhoi Khténia, Vrákhoi Kténia, Vrákhoi Petrinoí
-Kteniás Óros, Kteniás
+Kteniás Óros, Κτενιάς
 Ktiponísion, Gaidaro, Nisís Grammoúsa, Nísos Gáïdharos, Κτυπονήσι
 Ktypás, Ktipás Óros, Messápion Óros
 Kuchopata, Ífalos Koukhópata
@@ -2678,7 +2678,7 @@ Kurú Cháï, Kouroú Tsáï, Kouroú Tsáï Réma, Skorpios Lakkos
 Kurú Potamós, Kompsatos Potamós, Kompsatos River, Kourou Potámi, Kouroú Potamós, Κομψτοç
 Kurú Réma, Kouroú Réma
 Kutsimi Rock
-Kyliáris Potamós, Koiliáris, Koiliáris Potamós, Potamós Kiliáris
+Kyliáris Potamós, Koiliáris, Potamós Kiliáris, Κοιλιάρης Ποταμός
 Kyllini Port, Kyllini Ferry Port, Kyllini Harbour
 Kyllínis, Limín Killínis
 Kymási Réma, Kimási Réma, Strongilós Lákkos
@@ -2700,7 +2700,7 @@ Kálamos
 Kálamos Réma
 Kálavros Óros
 Kálmi
-Kálo Óros, Kalón Óros
+Kálo Óros, Κάλον Όρος
 Kálos Potamós
 Kálpa
 Kámpa, Kámba
@@ -2738,7 +2738,7 @@ Káto Koúnos, Κάτω Κούνος
 Káto Kámpos
 Káto Kávos
 Káto Meriá
-Káto Nisí, Katonísi, Katu-Nisi, Nisída Katonísi, Nisídha Katonísi, Nisís Katonísion
+Káto Nisí, Katonisi, Katu-Nisi, Nisída Katonísi, Nisídha Katonísi, Nisís Katonísion
 Káto Píliza
 Káto Ráchi, Káto Rákhi
 Káto Stenó Réma
@@ -2850,7 +2850,7 @@ Kólpos Kissámou, Kisamo, Kólpos Kisámou, Mirtilos, Κόλπος Κισσάμ
 Kólpos Laganá, Órmos Laganá
 Kólpos Marathokámpou, Gulf of Marathókambos, Gulf of Maratrokampo, Kólpos Marathokámbou, Kólpos Marathókambos, Maratrokampo Bay, Órmos Marathokámbou, Κόλπος Μαραθοκάμπου
 Kólpos Megáron, Gulf of Mégara, Megara Bay, Megara Gulf, Megáron Kólpos, Órmos Mégaras, Órmos Mégaron
-Kólpos Mesará, Kólpos Mesarás, Messarás Órmos, Órmos Mesará, Órmos Mesarás, Órmos Messará
+Kólpos Mesará, Kólpos Mesarás, Messarás Órmos, Órmos Mesarás, Órmos Messará, Όρμος Μεσαρά
 Kólpos Monemvasías, Kólpos Epidhávrou Limirás, Kólpos Epidávrou Limirás, Κόλπος Επιδαύρου Λιμηράς
 Kólpos Mólou, Gulf of Molo, Kólpos Aetoú, Kólpos Mólos, Molos Gulf, Κόλπος Αετού, Κόλπος Μώλου
 Kólpos Mýrtou, Gulf of Myrto, Kólpos Mírtos, Kólpos Mírtou, Kólpos Mýrtos, Myrto Bay, Myrtos Gulf, Κόλπος Μύρτου
@@ -2858,7 +2858,7 @@ Kólpos Orfanoú, Gulf of Orfani, Gulf of Rendina, Gulf of Strimón, Gulf of Str
 Kólpos Petalión, Petália
 Kólpos Pourniás, Purnea Bay, Purnia Bay, Órmos Pourniás, Κόλπος Πουρνιάς
 Kólpos Thessaloníkis, Kólpos Thessaloníki, Saloníki Bay
-Kólpos Toloú, Kólposis Tolós, Órmos Toló, Κόλπος Τολού
+Kólpos Toloú, Kólposis Tolós, Όρμος Τολό, Κόλπος Τολού
 Kólpos Trikeríou, Limáni Trikeríou, Limín Tríkkeri, Trikiri Harbor, Órmos Ayía Kiriakí, Órmos Tríkeri, Κόλπος Τρικερίου
 Kólpos Vólou, Órmos Vólou, Κόλπος Βόλου
 Kólpos Ýdras, Gulf of Ídhra, Hydra Bay, Kólpos Ídhras, Órmos Ídhra, Órmos Ídhras
@@ -2910,7 +2910,7 @@ Lagovoúni, Λαγοβούνι
 Lagoú Avthiá, Lagoú Afthiá
 Lagórema, Longorema, Longórrema
 Lake Chimaditida
-Lake Doiran, Doiran Lake, Doiranes, Dojran, Dojran Lake, Dojransko Ezero, Dojransko Jezero, Lake Dojransko, Lake Doïráni, Limnē Doēranēs, Límni Dhoïránis, Límni Doviros, Límni Doïránis, Límni Prasiás, Prasia Lake, Λίμνη Δοϊράνη
+Lake Doiran, Doiran Lake, Doiranes, Dojran, Dojran Lake, Dojransko Ezero, Dojransko Jezero, Lake Dojransko, Lake Doïráni, Limnē Doēranēs, Límni Dhoïránis, Límni Doviros, Límni Doïráni, Límni Doïránis, Límni Prasiás, Prasia Lake
 Lake Kifisida
 Lake Ladon, Ladon Reservoir
 Lake Vegoritida, Lake Ostrovo
@@ -2951,7 +2951,7 @@ Leftó
 Leftó Gyalós
 Leipsó Réma
 Leloúli, Λελούλη
-Lemnos, Dipolis, Ilmeli, Lemnos Island, Stalimene, Stalimeni, Νήσος Λήμνος, Νησί Λήμνος
+Lemnos, Dipolis, Ilmeli, Lemnos Island, Nisí Límnos, Stalimene, Stalimeni, Νήσος Λήμνος
 Lempítsi
 Lepianítis Réma, Lepianítis
 Lepró
@@ -3036,7 +3036,7 @@ Limáni Kalamátas, Kalamáta, Liménas Kalamátas, Limín Kalamátas
 Limáni Kardámaina, Limenískos Kardámaina
 Limáni Karlóvasi, Karlovassi Harbor, Liménas Karlóvasi, Limín Karlovasíou, Limín Karlóvasi, Λιμήν Καρλοβάσου
 Limáni Karýstou, Limín Karístou, Λιμάνι Καρύστου
-Limáni Kerkýras, Limín Kerkýras, Technitoí Liménes Kerkýras, Λιμένας Κερκύρας
+Limáni Kerkýras, Liménas Kerkýras, Limín Kerkýras, Technitoí Liménes Kerkýras
 Limáni Ko, Liménas Ko, Limín Ko
 Limáni Koufoú, Koufó bay, Limín Koufoú, Limín Koufó, Port Kupho, Λιμάνι Κουφού
 Limáni Lavríou, Ergasteria Bay, Lavrion Bay, Liménas Lavríou, Limín Lavríou, Port Lávrion, Órmos Lávriou, Λιμάνι Λαυρίου, Λιμένας Λαυρίου
@@ -3049,15 +3049,15 @@ Limáni Ntápias
 Limáni Oinoussón, Liménas Oinoussón, Λιμάνι Οινουσσών, Λιμένας Οινουσσών
 Limáni Palaiás Epidávrou, Epidavro Port, Liménas Palaiás Epidávrou, Limín Palaiás Epidhávrou, Límin Epidhávrou, Palaiá Epídhavros, Órmos Epídhavros, Órmos Palaiá Epídhavros, Λιμάνι Παλαιάς Επιδαύρου, Λιμένας Παλαιάς Επιδαύρου
 Limáni Panórmou, Limín Panórmou, Pánormos Bay, Όρμος Πανόρμου, Λιμάνι Πανόρμου
-Limáni Peiraiá, Liménas Peiraiós, Peiraiás, Piraeus Harbour, Port of Piraeus, Λιμήν Πειραιώς
-Limáni Petalá, Liménas Petalá, Limín Petalá, Limín Petalás, Port Petalas
+Limáni Peiraiá, Piraeus Harbour, Port of Piraeus, Λιμένας Πειραιώς, Λιμήν Πειραιώς, Πειραιάς
+Limáni Petalá, Limín Petalá, Limín Petalás, Port Petalas, Λιμένας Πεταλά
 Limáni Plomaríou, Liménas Plomaríou, Liménas Potamós, Limín Plomaríou, Λιμάνι Πλωμαρίου, Λιμένας Πλωμαρίου
-Limáni Psarón, Choralolimani, Khoralimáni, Liménas Psarón, Limín Psará, Limín Psarón
+Limáni Psarón, Choralolimani, Khoralimáni, Limín Psará, Limín Psarón, Λιμένας Ψαρών
 Limáni Pythagoreíou, Liménas Pythagoreíou, Λιμάνι Πυθαγορείου
 Limáni Páloi, Limenískos Pálon, Limenískos Skála
 Limáni Pógonos, Órmos Pógonos, Λιμήν Πώγωνος
 Limáni Pórou, Limín Pórou, Poros Harbour, Λιμάνι Πόρου, Λιμήν Πόρου
-Limáni Rafínas, Liménas Rafínas, Órmos Rafínas
+Limáni Rafínas, Όρμος Ραφήνας, Λιμένας Ραφήνας
 Limáni Rethýmnou, Kolpos Réthimnon, Kólpos Rethímnou, Rhíthymno Bay, Réthimnon Bay, Órmos Rethímnou, Λιμάνι Ρεθύμνου
 Limáni Ródou, Liménas Ródou, Rhodes Harbour, Λιμάνι Ρόδου
 Limáni Skála, Limín Skála, Port Scala, Port Skala, Skala Harbour
@@ -3069,7 +3069,7 @@ Limáni Vathý, Itháki, Limín Vathí, Port Vathi, Vathí Harbour
 Limáni Vólou, Liménas Vólou, Limín Vólou, Port of Volo, Vólos Harbour, Λιμάνι Βόλου
 Limáni Zakýnthou, Limín Zakínthou, Zante Harbour, Λιμάνι Ζακύνθου
 Limáni Ágios Panteleímon, Limín Ayíou Pandeleḯmonos, Limín Áyios Pandeleḯmon
-Limáni Ýdras, Limín Ídhras, Λιμένας Ύδρας
+Limáni Ýdras, Liménas Ýdras, Limín Ídhras
 Liménas Alexandroupóleos, Limín Alexandroupóleos
 Liménas Chalkídos, Limín Chalkídos
 Liménas Chaníon, Khaniá Harbour, Limín Chaníon, Limín Khaníon
@@ -3088,15 +3088,15 @@ Liménas Thásou, Λιμένας θάσου
 Limín Amfipóleos, Limenískos Tsáyezi, Tsáyezi Bay
 Limín Avláki
 Limín Avlémonos, Ormos Avlémon
-Limín Ayíou Stefánou, Saint Stephanos Harbour, Órmos Ayíou Stefánou, Órmos Áyios Stéfanos, Όρμος Άγιος Στέφανος
+Limín Ayíou Stefánou, St. Stephanos Harbour, Órmos Ayíou Stefánou, Órmos Ágios Stéfanos, Órmos Áyios Stéfanos
 Limín Eretrías, Néa Psará, Port Eretria
 Limín Ermiónis
 Limín Gramvoúsis
 Limín Gáïos, Gáïou, Limáni Paxón, Limín Paxón
-Limín Kanári, Limin Kea, Limín Zéas, Zea, Zea Harbour, Λιμένας Ζέας, Πασαλιμάνι
+Limín Kanári, Limin Kea, Limín Zéas, Pasalimani, Zea, Zea Harbour, Λιμένας Ζέας
 Limín Káyio, Όρμος Πόρτο Κάγιο, Λιμήν Βράχας
 Limín Loutrou
-Limín Mounikhías, Mounikhia Harbour, Μικρολίμανο, Τουρκολίμανο
+Limín Mounikhías, Mikrolimano, Mounikhia Harbour, Τουρκολίμανο
 Limín Pteleoú
 Limín Souníou, Λιμήν Σουνίου
 Limín Soúdhas, Limín Soúdha
@@ -3195,7 +3195,7 @@ Lykostérnia, Likostroniá
 Lykouriá, Likouriá, Likouryiá, Λυκουριά
 Lykovoúni, Likovoúni, Λυκοβούνι
 Lykoúri, Likouri, Λυκούρι
-Lykódimo Óros, Likódhimon Óros, Lykodimo, Lykódimon Óros, Mathia Óros, Óros Likódhimos
+Lykódimo Óros, Likódhimon Óros, Lykodimo, Mathia Óros, Óros Likódhimos, Λυκόδημον Όρος
 Lykókastro, Likókastro
 Lykórrema, Likórrema
 Ládhon Potamós
@@ -3216,7 +3216,7 @@ Lámari
 Lámia
 Lámpeia Óros, Lámbia Óros, Óros Lámbeta
 Lámpi, Lámbi
-Lámprou, Lambraíika, Lambreïka, Lampraíika, Λάμπρου
+Lámprou, Lambraíika, Lambreïka, Λάμπρου, Λαμπραίικα
 Lánari, Lágari
 Lárisos Potamós, Lariós Potamós
 Lási Réma
@@ -3224,7 +3224,7 @@ Láspi
 Láthra, Látra, Óros Látra
 Lázos, Petrádhia
 Léptokarya Réma, Léptokaria Réma
-Léros Island, Lero, Lero Island, Léros
+Léros Island, Lero, Lero Island, Λέρος
 Lésnitsa Réma, Arsoitsa
 Límnes
 Límni
@@ -3253,7 +3253,7 @@ Límni Lysimacheía, Iria Limni, Lake Lysimachia, Límni Angelokástrou, Límni 
 Límni Láfra
 Límni Lántzas
 Límni Mavroúda, Límni Mavrovoúni, Límni Mavróvou, Λίμνη Μαυρούδα
-Límni Mitrikoú, Lake Mitrikou, Límni Anakíou, Límni Anákia, Λίμνη Ισμαρίδα, Λίμνη Μητρικού
+Límni Mitrikoú, Lake Mitrikou, Límni Anakíou, Límni Anákia, Límni Ismarída, Λίμνη Μητρικού
 Límni Moústou, Límni Moustós, Λίμνη Μουστός, Λίμνη Μούστου
 Límni Nevrópolis, Λίμνη Νευρόπολης, Νευρόπολη
 Límni Ozerós, Galítsa, Lake Ozeros
@@ -3263,12 +3263,12 @@ Límni Paralímni, Lacus Paralimnus, Lake Ougria, Lake Paralimni, Limne Paralimn
 Límni Petrón, Lake Petron, Límni Pétersko
 Límni Podovínissa, Límni Podhothínissa
 Límni Prontáni, Límni Prondáni
-Límni Pórto Lágos, Lágo, Límni Daliáni, Λίμνη Νταλιάνι
+Límni Pórto Lágos, Lágo, Límni Daliáni, Límni Ntaliáni
 Límni Sachtoúri, Límni Metokhion, Límni Metokhíou, Límni Sakhtoúri, Λίμνη Σαχτούρι
 Límni Saltíni, Sálton Poúnda
 Límni Stimfalía, Lake Stymphalia, Límni Stimfalías, Límni Zaraká, Λίμνη Στυμφαλία, Στυμφαλία
-Límni Thermisías, Limnothálassa Thermisías, Λίμνη Θερμησία
-Límni Trichonída, Lake Trichonida, Límni Agriníou, Límni Trichonís, Límni Trikhonís, Límni Trikhónias, Límni Vrakhóri
+Límni Thermisías, Limnothálassa Thermisías, Límni Thermisía
+Límni Trichonída, Lake Trichonida, Límni Agriníou, Límni Trikhonís, Límni Trikhónias, Límni Vrakhóri, Λίμνη Τριχωνίς
 Límni Táka, Límni Tákka
 Límni Vegorítida, Arnissis, Kelli, Límni Vegorrítis, Límni Vegorítis, Límni Óstrovon, Ostróvou
 Límni Vistonída, Boru Lake, Bouroú, Buru Geul, Lake Vistonida, Límni Burú, Λίμνη Βιστονίς
@@ -3300,7 +3300,7 @@ Lýkaina, Verróri
 Lýkaio, Likásou, Líkaion Óros, Λύκαιον Όρος
 Lýkoi
 Lýkou Lákka, Λύκου Λάκκα
-Lýrkeio Óros, Lírkion Óros, Lýrkeion Óros, Λύρκειο
+Lýrkeio Óros, Lírkion Óros, Lýrkeio, Λύρκειον Όρος
 M.Gjoncit
 Macedonia, Macedonia (Roman province)
 Madari, Madharí, Madhéri
@@ -3325,7 +3325,7 @@ Makriá Ráchi
 Makriás Réma, Makriá Rémma
 Makriópounda Kamboúri
 Makrokhoríou Réma
-Makronísi, Island Macra, Isola Lunga, Konello, Koúneli, Loúnga, Lunga, Lunga Adası, Macronisi, Makri Adası, Makri Island, Makronisi Adası, Makró Island, Mákro, Nísos Dhíporto, Nísos Kríspi, Nísos Makri, Nísos Makronísion, Nísos Makrónisos, Plátanos Rock, Vrachonisída Makronísi, Vrachonisída Makrónisos, Vrakhonisís Makrónisos, Vrákhos Armenópetra, Vrákhos Plátanos, İsolunga Adası
+Makronísi, Island Macra, Isola Lunga, Konello, Koúneli, Loúnga, Lunga, Lunga Adası, Macronisi, Makri Adası, Makri Island, Makronisi Adası, Makró, Makró Island, Nísos Dhíporto, Nísos Kríspi, Nísos Makri, Nísos Makronísion, Nísos Makrónisos, Plátanos Rock, Vrachonisída Makronísi, Vrachonisída Makrónisos, Vrakhonisís Makrónisos, Vrákhos Armenópetra, Vrákhos Plátanos, İsolunga Adası
 Makronísion, Nisís Makronísi
 Makrychoríou Élos, Élos Makrikhoríou
 Makrylákkoma, Makrilákkoma
@@ -3351,7 +3351,7 @@ Malagári
 Malandhris
 Malathoúna, Μαλαθούνα
 Malavázo, Malavázos
-Malea Bay, Gulf of Mállia, Kólpos Malión, Kólpos Mallión
+Malea Bay, Gulf of Mállia, Kólpos Mallión, Κόλπος Μαλίων
 Maleváleza
 Malevós, Malerós, Málevon
 Mali Krš, Мали Крш
@@ -3444,7 +3444,7 @@ Mega Pighadhi
 Megali Ammos
 Megalo Biokasto, Μεγάλο Βιόκαστρο
 Megalo Livadi, Μεγάλο Λιάδι
-Megalonísi, Megálo, Nisióti, Nisos Megalonisi, Nisída Megalonísi, Nisís Megalonísion, Nisís Sígri, Nísos Sígri, Sigri Island, Sígkri, Sígri, Síngri, Vrachonisída Megalonísa, Μεγαλονήσιον
+Megalonísi, Megalonísion, Megálo, Nisióti, Nisos Megalonisi, Nisída Megalonísi, Nisís Megalonísion, Nisís Sígri, Nísos Sígri, Sigri Island, Sígkri, Sígri, Síngri, Vrachonisída Megalonísa
 Megalovoúna, Megavoúnion, Μεγαλοβούνα
 Megalovoúni, Malí Bénderi, Máli Mandéri, Méga Vounó, Μεγαλοβούνι
 Megalónisos Petalión, Megalo, Megalonísos, Megalónnisos, Nisís Petalia, Nísos Megálo Petalí
@@ -3483,7 +3483,7 @@ Megálo Prosílio
 Megálo Réma, Bouyioúk Réma, Buyuk Choi, Buyúk Cháï, Kojá Cháï, Skasmádha, Skasmída Réma, Skasmídha Réma
 Megálo Stefáni
 Megálo Vardári, Megálo Vardhári, Palaiá Koíti Axioú Potamós
-Megálo Vounó, Μεγάλο Βουνό
+Megálo Vounó, Μεγάλο Βούνο
 Megálo Élos
 Megálos Kózakas, Kozikas
 Megálos Mourtiás, Μεγάλος Μουρτιάς
@@ -3583,7 +3583,7 @@ Mikrós Kózakas, Mikrós Kózikas
 Mikrós Mourtiás, Μικρός Μουρτιάς
 Mikrós Petrítis
 Mikróvouno, Mikró Vouní, Μικρόβουνο
-Miliá, Nerólytos
+Miliá, Νερόλυτος
 Miliés
 Millar Point
 Milos Island, Melos, Milo, Nísos Mílos, Zefyria
@@ -3634,7 +3634,7 @@ Monte Vigla
 Monte del Fico
 Monágri
 Monólithos
-Monópetron, Monopetro
+Monópetron, Μονόπετρο
 Mornos
 Moríki, Óros Moríki, Óros Mouríki
 Moschopótamos, Moskhopótamos Réma
@@ -3665,7 +3665,7 @@ Mouspína
 Mousélas Potamós, Moursélas Potamós, Mourséllas, Mousélas Réma, Μουσέλας Ποταμός
 Moutsoúna
 Moutzoúri, Moundzoúri, Μουτζούρι
-Mouzakiá, Μουζακιά
+Mouzakiá, Μουζάκια
 Mouzáki, Μουζάκι
 Moúgies, Moúyia, Moúyies
 Moúka
@@ -3681,7 +3681,7 @@ Mycenean dam of Tiryns
 Mygdaliá, Migdhaliá
 Mygdonia Thessaloniki
 Mykoni Channel
-Mykonos, Mykoni, Nísos Míkonos, Nísos Mýkonos, Νησί Μύκονος
+Mykonos, Mykoni, Nisí Mýkonos, Nísos Míkonos, Nísos Mýkonos
 Mykonos Port, Mykonos Ferry Port, Mykonos Harbour
 Mylopotamos Beach
 Mylovoúni, Milovoúni, Μυλοβούνι
@@ -3807,7 +3807,7 @@ Nerótopos, Aravissos, Obár Potamós, Obár Réma, Ompár Réma, Ómbar Potamó
 Neróvoulo, Νερόβουλο
 Nezerós Potamós, Mezerós Potamós
 Nida Plateau
-Nikolo Island, Agios Antonio, Nikolo Nisi, Nisís Ayíou Andoníou, Vrachonisída Nikolós, Áyios Andónios, Áyios Nikólaos Island, Βραχονησίς Νικολός, Νικολονήσι
+Nikolo Island, Agios Antonio, Nikolo Nisi, Nisís Ayíou Andoníou, Vrachonisída Nikolós, Vrachonisís Nikolós, Áyios Andónios, Áyios Nikólaos Island, Νικολονήσι
 Nikolo Patches
 Nikázi
 Nikóla Kávos
@@ -3818,179 +3818,179 @@ Nisida Stiliaria
 Nisis Agios Christoforou
 Nisis Agrielaya, Agrielaia, Kilise Adası, Vrachonisída Agrieliá
 Nisis Mirmingya, Merminga Rock, Vráchoi Myrmígkia, Vrákhoi Mirmíngia
-Nisiá Chálavra, Isolotti Calavropa, Kalávrai, Kalávropa, Khalavra Isles, Nisides Kalavra, Nisídhes Kalavropa, Nisídhes Khálavra, Nísoi Chálavra, Nísoi Kalavrópa, Vrachonisídes Chálavra
+Nisiá Chálavra, Isolotti Calavropa, Kalávrai, Kalávropa, Khalavra Isles, Nisides Kalavra, Nisídhes Kalavropa, Nisídhes Khálavra, Nísoi Kalavrópa, Vrachonisídes Chálavra, Νήσοι Χάλαβρα
 Nisiá Echinádes, Ekhinádhes Islands, Ekhinádhes Nísoi, Nisídes Echinádes, Ouniádai, Νήσοι Εχινάδες
 Nisiá Foúrnoi, Furni Islands, Korassiae, Korseai, Korseoí, Nisos Furni, Nisídes Foúrnoi, Nisídhes Foúrnoi, Nísoi Foúrnoi, Phurni, Νήσοι Φούρνοι, Νησιά Φούρνοι
-Nisiá Kalapódia, Isolotti Calapodi, Kalapodi Adası, Kalapodi Island, Kalapódhi, Nisis Kalapodi, Nisídhes Kalapódhia, Nísoi Kalapódia, Vrachonisídes Kalapódia
-Nisiá Manóli, Isole di Manoli, Isolotti di Manoli, Nisídhes Manóli, Nísoi Manóli, Vrachonisídes Manóli
+Nisiá Kalapódia, Isolotti Calapodi, Kalapodi Adası, Kalapodi Island, Kalapódhi, Nisis Kalapodi, Nisídhes Kalapódhia, Vrachonisídes Kalapódia, Νήσοι Καλαπόδια
+Nisiá Manóli, Isole di Manoli, Isolotti di Manoli, Nisídhes Manóli, Vrachonisídes Manóli, Νήσοι Μανώλη
 Nisiá Moúrtos, Nísoi Sívota, Nísoi Sývota, Νησιά Μούρτος
 Nisiá Mávria, Mauro, Mavronísia, Mávria, Mávro, Nisídes Moúros, Nisídhes Mávra, Nísoi Mávria, Vrachonisídes Mávra, Νήσοι Μαύρια, Νησιά Μαύρια
-Nisiá Módia, Nisídes Módia, Nísoi Módhia, Nísoi Módia
+Nisiá Módia, Nisídes Módia, Nísoi Módhia, Νήσοι Μόδια
 Nisiá Oinoúsai, Nísoi Oinoúsai, Νήσοι Οινούσαι, Νησιά Οινούσαι
-Nisiá Othonoí, Dhiapóndioi Nísoi, Νήσοι Οθωνοί
-Nisiá Petalioí, Patália, Petali Islands, Petalia, Νήσοι Πεταλιοί
+Nisiá Othonoí, Dhiapóndioi Nísoi, Nísoi Othonoí
+Nisiá Petalioí, Nísoi Petalioí, Patália, Petali Islands, Petalia
 Nisiá Verdoúgia, Berdugi Islands, Nisídhes Verdhoúyi, Nísoi Verdoúgia, Νήσοι Βερδούγια, Νησιά Βερδούγια
 Nisiá Vóreia Áspra, Vória Aspronísia, Vória Áspra, Νήσοι Βόρεια Άσπρα
 Nisopoúla, Vrachonisídes Nisópoula, Νησόπουλα
 Nisyros Port, Nisyros Ferry Port, Nisyros Harbour
 Nisáki
 Nisákia
-Nisí Agkístri, Agistri, Agkístri, Anghisti, Angistri, Nísos Agkístri, Nísos Agkístrion, Nísos Angístri, Nísos Angístrion
+Nisí Agkístri, Agistri, Anghisti, Angistri, Nísos Agkístri, Nísos Angístri, Nísos Angístrion, Αγκίστρι, Νήσος Αγκίστριον
 Nisí Alónnisos, Alón, Chelidrómi, Halonnesos, Iliadhromia, Iliodhrómia, Kheliodromia, Khiliodhrómia, Khiliodhrómion, Liadhrómia, Liadrómia, Nisís Khelidhrómi, Nísos Alónnisos
-Nisí Amorgós, Yperia, Αμοργός, Νήσος Αμοργός
-Nisí Antikýthira, Anti Kithera Island, Antikythera, Cerigotto, Nísos Andikíthira, Αντικύθηρα, Νήσος Αντικύθηρα
-Nisí Antíparos, Antíparos, Nísos Andíparos, Nísos Antíparos, Oliaros
+Nisí Amorgós, Amorgós, Yperia, Νήσος Αμοργός
+Nisí Antikýthira, Anti Kithera Island, Antikythera, Cerigotto, Nísos Andikíthira, Nísos Antikýthira, Αντικύθηρα
+Nisí Antíparos, Antíparos, Nísos Andíparos, Oliaros, Νήσος Αντίπαρος
 Nisí Antípaxoi, Andipaxos, Antipaxo, Antipaxos, Nisís Andípaxoi, Nisís Antípaxoi, Nísos Antípaxos, Própaxos, Νήσος Αντίπαξοι
-Nisí Antípsara, Anti Psara, Nisis Antipsara, Nisís Andípsara, Nísos Andípsara, Νήσος Αντίψαρα
-Nisí Anáfi, Anaphe, Anaphi Island, Memvliaros, Nísos Anáfi, Ανάφη
-Nisí Astypálaia, Astipalaia, Astropalia, Astypalaea, Astypálaia, Nísos Astipálaia, Νήσος Αστυπάλαια
+Nisí Antípsara, Anti Psara, Nisis Antipsara, Nisís Andípsara, Nísos Andípsara, Nísos Antípsara
+Nisí Anáfi, Anaphi Island, Anáphē, Memvliaros, Nísos Anáfi, Ἀνάφη
+Nisí Astypálaia, Astipalaia, Astropalia, Astypalaea, Astypalaia, Nísos Astipálaia, Νήσος Αστυπάλαια
 Nisí Chrysí, Gaidaro Nisi, Gaidaronisi, Gaïdhouronísi, Gaïdhouronísion, Gaïdhoúri, Kaldheronísi, Nisís Khrisí, Nísos Chrysí, Γαϊδουρονήσι, Νησίδα Χρυσή, Χρυσή
-Nisí Chálki, Calchi, Carchi, Chálki, Halki, Kalki, Karchi, Khalkia, Nísos Chálki, Nísos Khálki, Χάλκεια
-Nisí Chíos, Chío, Khíos, Nisos Hios, Nísos Khíos, Pityousa, Sakís Adasi, Sakız Adası, Scio, Xíos, Νήσος Χίος
-Nisí Dokós, Dokós, Nísos Dhokós, Nísos Dokós
+Nisí Chálki, Calchi, Carchi, Chálkeia, Chálki, Halki, Kalki, Karchi, Khalkia, Nísos Khálki, Νήσος Χάλκη
+Nisí Chíos, Chío, Khíos, Nisos Hios, Nísos Chíos, Nísos Khíos, Pityousa, Sakís Adasi, Sakız Adası, Scio, Xíos
+Nisí Dokós, Nísos Dhokós, Δοκός, Νήσος Δοκός
 Nisí Donoúsa, Denoúsa, Denusa, Nisos Denusa, Nísos Dhenoúsa, Nísos Donoúsa, Νήσος Δονούσα, Νησί Δονούσα
-Nisí Día, Nisía Día, Nisís Dhía, Nisís Día, Nísos Dhía, Standia Island, Standía, Νήσος Δία
-Nisí Dílos, Delos, Dílos, Mikrá Dhílos, Nisís Dhílos, Nísos Dílos, Μικρά Δήλος, Νησίς Δήλος
-Nisí Elafónisos, Cervi, Elaphonisi, Elaphonisos, Onóu Gnáthos, Élafos, Ελαφόνησος, Νησίς Ελαφόνησος
+Nisí Día, Nisía Día, Nisís Dhía, Nisís Día, Nísos Dhía, Nísos Día, Standia Island, Standía
+Nisí Dílos, Delos, Mikrá Dhílos, Nisís Dhílos, Δήλος, Μικρά Δήλος, Νήσος Δήλος, Νησίς Δήλος
+Nisí Elafónisos, Cervi, Elafónisos, Elaphonisi, Elaphonisos, Nisís Elafónisos, Onóu Gnáthos, Élafos
 Nisí Ereikoússa, Erikusi, Merléra, Nisída Ereikoússa, Nisís Ereikoússa, Nisís Erikoúsa, Nisís Erikoússa, Nísos Ereikoússa, Nísos Erikoúsa, Nísos Erikoússa, Nísos Errikoúsa, Ερείκουσσα, Νησί Ερεικούσσα
-Nisí Folégandros, Folegandros, Nísos Folégandhros, Nísos Folégandros, Polykandro, Políkandro, Políkandros
+Nisí Folégandros, Folégandros, Nísos Folégandhros, Nísos Folégandros, Polykandro, Políkandro, Políkandros
 Nisí Foúrnoi, Furni Adası, Furni Island, Nisos Furni, Nisída Foúrnoi, Nisídha Foúrnoi, Nisís Foúrnoi, Nísos Foúrnoi, Νήσος Φούρνοι, Νησί Φούρνοι
 Nisí Gávdos, Gavdos, Klavdhos, Nísos Gávdhos, Nísos Gávdos, Γαύδος, Νήσος Γάυδος, Νησί Γάυδος
-Nisí Gýaros, Gýaros, Jura, Nísos Yioúra, Nísos Yíaros, Νήσος Γύαρος
+Nisí Gýaros, Gýaros, Jura, Nísos Gýaros, Nísos Yioúra, Nísos Yíaros
 Nisí Ikaría, Icaria, Kariot, Makris, Nicaria, Nikarya Adası, Nikaría, Nisos İkarya, Nísos Ikaría, İkarya Adası
-Nisí Irákleia, Heraklia, Irákleia, Keraklia Island, Nísos Iráklia, Νήσος Ηράκλεια
-Nisí Kesiriá, Dhiapóri Island, Diapori Island, Diáporoi, Kisiria Adası, Kisíra, Nisís Dhiáporoi, Nísos Kesiriá, Vrachonisída Diapóri
-Nisí Kos, Coo, Cos, Istan-Keui, Kos Island, Stanchio, Νήσος Κως
-Nisí Kyrá Panagiá, Kirá Panayiá, Kyra Panagia, Nísos Pélagos, Pelagonísi, Pelagonísion, Νήσος Κυρά Παναγιά
+Nisí Irákleia, Heraklia, Irákleia, Keraklia Island, Nísos Irákleia, Nísos Iráklia
+Nisí Kesiriá, Dhiapóri Island, Diapori Island, Diáporoi, Kisiria Adası, Kisíra, Nisís Dhiáporoi, Vrachonisída Diapóri, Νήσος Κεσιριά
+Nisí Kos, Coo, Cos, Istan-Keui, Kos Island, Nísos Kos, Stanchio
+Nisí Kyrá Panagiá, Kirá Panayiá, Kyra Panagia, Nísos Kyrá Panagiá, Nísos Pélagos, Pelagonísi, Pelagonísion
 Nisí Kálamos, Kalimo, Nísos Karnos, Nísos Kálamos
-Nisí Kárpathos, Carpathos, Carpathus, Karpathos, Nísos Kárpathos, Scarpanto
-Nisí Kéa, Ceos, Kéos, Nísos Kéa, Tziá, Zea, Κέα
-Nisí Kímolos, Argentiera, Echinousa, Kimolo, Κίμωλος, Νήσος Κίμωλος
-Nisí Kýthnos, Cythnos, Cythnus, Kythnos, Nísos Kíthnos, Thermia Island, Thermiá, Νήσος Κύθνος
-Nisí Leipsoí, Leipsoí, Leipsó, Lipsi, Lipsó, Lisso, Lisso Adası, Nisos Lipso, Nisída Leipsoí, Nisís Lipsoí, Nisís Lipsós, Νήσος Λειψοί
-Nisí Makrónisos, Eléni, Nísos Elénis, Nísos Makrónisos
+Nisí Kárpathos, Carpathos, Carpathus, Karpathos, Scarpanto, Νήσος Κάρπαθος
+Nisí Kéa, Ceos, Kea, Kéos, Zea, Νήσος Κέα, Τζιά
+Nisí Kímolos, Argentiera, Echinousa, Kimolo, Nísos Kímolos, Κίμωλος
+Nisí Kýthnos, Cythnos, Cythnus, Nísos Kíthnos, Nísos Kýthnos, Thermia Island, Thermiá, Κύθνος
+Nisí Leipsoí, Leipsoí, Leipsó, Lipsi, Lipsó, Lisso, Lisso Adası, Nisos Lipso, Nisída Leipsoí, Nisís Lipsoí, Nisís Lipsós, Nísos Leipsoí
+Nisí Makrónisos, Eléni, Nísos Elénis, Νήσος Μακρόνησος
 Nisí Mathráki, Maltháki, Mathráki, Nisís Mathráki, Nisís Mathrákion, Nísos Mathráki, Nísos Mathrákion, Samothráki
-Nisí Megísti, Castellórizo, Cisthene, Kastelorrizon, Megiste, Megísti, Meis Adası, Meyis Adasi, Nísos Kastellórizon, Nísos Meyísti, Καστελλόριζο, Καστελλόριζον, Νήσος Μεγίστη
-Nisí Náxos, Dia, Naxia, Naxos, Nisos Naksos, Nísos Náxos, Νάξου
+Nisí Megísti, Castellórizo, Cisthene, Kastellórizo, Kastelorrizon, Megiste, Megísti, Meis Adası, Meyis Adasi, Nísos Kastellórizon, Nísos Megísti, Nísos Meyísti, Καστελλόριζον
+Nisí Náxos, Dia, Naxia, Nisos Naksos, Nísos Náxos, Νάξος, Νάξου
 Nisí Nísyros, Nisero, Niseros, Nisiros, Nísiro, Nísos Nísiros, Nísos Nísyros, Nísyros
 Nisí Oinoússes, Agnoúsa, Agnoúses, Agnusi, Agnussi, Egnoúses, Inoussai Island, Koyun Adaları, Koyun Adası, Nisoi Inousa, Nisos Oinousa, Nisís Agnoúsa, Nisís Oinoúsa, Nísoi Oinoúsai, Nísoi Oinoússes, Nísos Oinoússa, Nísos Oinoússai, Oinoúsai, Oinoúsai Islands, Νήσος Οινούσσαι, Νησί Οινούσσες
-Nisí Othonoí, Fano, Fano Island, Fanós, Nisís Othonoí, Othonus, Νήσος Οθωνοί
-Nisí Peristéra, Evónimos, Nisís Peristéra, Xeró, Áspro, Νήσος Περιστέρα
-Nisí Polýaigos, Nísos Políaigos, Nísos Polýaigos, Nísos Pólinos, Polino, Pólivos, Πολύαιγος
+Nisí Othonoí, Fano, Fano Island, Fanós, Nisís Othonoí, Nísos Othonoí, Othonus
+Nisí Peristéra, Evónimos, Nisís Peristéra, Nísos Peristéra, Xeró, Áspro
+Nisí Polýaigos, Nísos Políaigos, Nísos Pólinos, Polino, Polýaigos, Pólivos, Νήσος Πολύαιγος
 Nisí Portochelíou, Nisí Portokhelíou, Νησί Πορτοχελίου
 Nisí Psará, Ipasara, Nísos Palaia Psara, Psyrin, Νήσος Ψαρά
-Nisí Psérimos, Cappari, Kappari, Keçi Ada, Nisos Beserimos, Nisís Kápari, Nisís Psérimos, Peserimo, Pserimos Island, Νήσος Ψέριμος
-Nisí Páros, Minoa, Minoïs, Paros, Paros Island
-Nisí Pátmos, Nísos Pátmos, Patino, Patmo, Patmos, Patmos Island
+Nisí Psérimos, Cappari, Kappari, Keçi Ada, Nisos Beserimos, Nisís Kápari, Nisís Psérimos, Nísos Psérimos, Peserimo, Pserimos Island
+Nisí Páros, Minoa, Minoïs, Paros Island, Πάρος
+Nisí Pátmos, Patino, Patmo, Patmos Island, Νήσος Πάτμος, Πάτμος
 Nisí Ríneia, Dhílos, Megáli, Megáli Dhílos, Nísos Rinía, Nísos Ríneia, Rhenea
-Nisí Salamína, Nísos Salamís, Salamis Island, Νήσος Σαλαμίνα, Σαλαμίνα
+Nisí Salamína, Nísos Salamína, Nísos Salamís, Salamis Island, Salamína
 Nisí Schoinoússa, Echinosa Island, Echinoúsa, Ekhinoúsa, Ekhoinoúsa, Nisis Şinussa, Nísos Schoinoúsa, Nísos Schoinoússa, Nísos Skhinoúsa, Nísos Skhoinoúsa, Schinousa Island, Schinoussa, Skinusa, Νήσος Σχοινούσσα, Νησί Σχοινούσσα, Σχοινούσσα
-Nisí Sfaktiría, Nísos Sfaktiría, Sphaghia Island, Sphagia, Sphakteria
-Nisí Skópelos, Nísos Skópelos, Skópalos
-Nisí Skýros, Nísos Skíros, Skíros, Νήσος Σκύρος, Σκύρος
+Nisí Sfaktiría, Sphaghia Island, Sphagia, Sphakteria, Νήσος Σφακτηρία
+Nisí Skópelos, Skópalos, Νήσος Σκόπελος
+Nisí Skýros, Nísos Skíros, Skyros, Skíros, Νήσος Σκύρος
 Nisí Soúda, Lazaretta, Levkaí, Nisís Soúdha, Soúdha Island, Suda, Suda Islet, Νησί Σούδα, Σούδα
-Nisí Spétses, Nísos Spétsai, Pitioussa, Spepsas, Spepzas, Spétses, Νήσος Σπέτσες
-Nisí Sámos, Anthemousa, Nísos Sámos, Samos Island, Susam-Adasi, Susum Ada, Sámos Adası, Σάμος, Σάμος - Ικαρία
+Nisí Spétses, Nísos Spétses, Pitioussa, Spepsas, Spepzas, Spétses, Νήσος Σπέτσαι
+Nisí Sámos, Anthemousa, Samos Island, Susam-Adasi, Susum Ada, Sámos Adası, Νήσος Σάμος, Σάμος, Σάμος - Ικαρία
 Nisí Sérifos, Serifos, Serphos Island, Sériphos, Νήσος Σέριφος
-Nisí Sífnos, Meropi, Siphano Island, Siphanto, Síphnos, Νήσος Σίφνος, Σίφνος
-Nisí Síkinos, Oinói, Sikino, Síkinos, Νήσος Σίκινος
-Nisí Sými, Aigli, Isola di Simi, Metapontís, Nísos Sími, Nísos Sými, Sumbeki, Sumbeki Ada, Symé, Sömbeki, Sömbeki Adası, Sými
-Nisí Sýros, Nísos Síros, Syra, Síra, Síros, Νήσος Σύρος, Σύρος
-Nisí Thýmaina, Dimina Adası, Fimena Adası, Fýmaina, Nisis Fimena, Nisís Femina, Nisís Fímaina, Nísos Thímaina, Nísos Thýmaina, Thémina, Θύμαινα
-Nisí Tílos, Episkopí, Piscopi Island, Piskopi, Telos, Tilo, Νήσος Τίλος, Τήλος
-Nisí Tínos, Ofiousa, Tínos, Tēnos, Νήσος Τήνος
+Nisí Sífnos, Meropi, Nísos Sífnos, Sifnos, Siphano Island, Siphanto, Síphnos
+Nisí Síkinos, Nísos Síkinos, Oinói, Sikino, Síkinos
+Nisí Sými, Aigli, Isola di Simi, Nísos Sími, Nísos Sými, Sumbeki, Sumbeki Ada, Symé, Sömbeki, Sömbeki Adası, Sými, Μεταποντίς
+Nisí Sýros, Nísos Síros, Nísos Sýros, Syra, Syros, Síra, Síros
+Nisí Thýmaina, Dimina Adası, Fimena Adası, Fýmaina, Nisis Fimena, Nisís Femina, Nisís Fímaina, Nísos Thímaina, Thémina, Θύμαινα, Νήσος Θύμαινα
+Nisí Tílos, Episkopí, Nísos Tílos, Piscopi Island, Piskopi, Telos, Tilo, Tílos
+Nisí Tínos, Ofiousa, Tēnos, Νήσος Τήνος, Τήνος
 Nisí Ágios Efstrátios, Agios Eustratios, Agiostrati, Agiostrátis, Aistrati, Aistrátis, Alonnisos, Bozbaba, Evstratios, Hagios Strati, Halonesos, Nísos Ágios Efstrátios, Nísos Áyios Evstrátios, Strati, Ágios Efstrátios, Άγιος Ευστράτιος, Νήσος Άγιος Ευστράτιος, Νησί Άγιος Ευστράτιος
 Nisí Ágios Minás, Agios Minas Island, Ayaminas Adası, Minas, Nisís Áyios Minás, Vrachonisída Ágios Minás, Άγιος Μηνάς, Νήσος Άγιος Μηνάς
-Nisí Ándros, Nísos Ándros, Ándros
+Nisí Ándros, Nísos Ándros, Άνδρος
 Nisí Íos, Foiniki, Nio, Niós, Nísos Íos, Ίος
 Nisída, Nisídha, Nisís Toúrlos, Nísos Nisís, Νησίς Νησίδα
 Nisída Aféntis Christós, Afendis Christos, Αφέντης Χριστός
 Nisída Afóti, Νησίς Αφώτη
-Nisída Agkynára, Nisís Agkynára, Nisís Anginára, Αγκινάρα
+Nisída Agkynára, Nisís Anginára, Αγκινάρα, Νησίς Αγκυνάρα
 Nisída Agreloúsa, Agrelloúsa, Grillussa, Grilussa Adası, Grilussa Island, Nisis Grilusa, Nisís Agreloúsa, Nisís Grilloúsa, Nísos Grilousa, Vrachonisída Grilloúsa, Vrachonisída Grylloúsa, Vrachonisída Márathos, Νησίδα Αγρελούσα, Νησίς Αγρελούσα
 Nisída Agriómandra, Agriomandra Island, Vrachonisída Agriómandra, Vrachonisís Agriómandra, Αγριόμαντρα
 Nisída Agrílou, Nisís Agrílos, Nisís Agrílou, Vrachonisída Agrilós, Vrachonisís Agrilós, Vrakhonisís Agriliós, Νησίδα Αγρίλου, Νησίς Αγρίλου
 Nisída Agía Kalí, Agía Kalí, Ayía Kalí, Nisís Agía Kalí, Saint Kali Island
 Nisída Agía Kyriakí, Agia Kyriake, Agio Kyriaki Island, Agía Kiriakí, Isola Santa Domenica, Isola di Saint Domenica, Isolotto Santa Domenica, Nisídes Agía Kyriakí, Nisídhes Ayía Kiriakí, Nisís Agía Kyriakí, Nisís Ayía Kiriakí, Vrachonisída Agía Kyriakí, Áyios Dhomenikos, Νησίδα Αγία Κυρακή, Νησίς Αγία Κυρακή
 Nisída Agía Marína, Isolotto di Santa Marina, Vrachonisída Agía Marína, Νησίς Αγία Μαρίνα
-Nisída Agía Paraskeví, Nisída Prasíni, Nisís Agía Paraskeví, Nisís Prasíni, Νησίδα Αγία Παρασκευή, Νησίς Αγία Παρασκευή, Πρασίνη
+Nisída Agía Paraskeví, Nisída Prasíni, Nisís Agía Paraskeví, Nisís Prasíni, Prasíni, Νησίδα Αγία Παρασκευή, Νησίς Αγία Παρασκευή
 Nisída Agía Thékla, Agía Thékla, Isolotto Santa Tecla, Santatekla Adası, Vrachonisída Panagiá, Νησίς Αγία Θέκλα
 Nisída Agíou Dimitríou, Nisís Agíou Dimitríou, Nisís Ayíou Dhimitríou, Nisís Áyios Dhimítrios, Νησίδα Αγίου Δημητρίου, Νησίς Αγίου Δημητρίου
 Nisída Agíou Georgíou, Nisis Ayios Yeorgios, Nisís Agíou Georgíou, Saint George, Νησίδα Αγίου Γεωργίου, Νησίς Αγίου Γεωργίου
 Nisída Agíou Nikoláou, Nisís Agíou Nikoláou
 Nisída Alatás, Alatas Island, Galátia, Νησίς Αλατάς
-Nisída Alimiá, Alimia Adası, Alimni Island, Alimnia, Isola Alinnia, Limniona, Nisís Alimniá, Αλιμιά, Νησίς Αλιμιά
+Nisída Alimiá, Alimia Adası, Alimni Island, Alimnia, Isola Alinnia, Limniona, Nisís Alimiá, Nisís Alimniá, Αλιμιά
 Nisída Aléxandros, Alexandro, Nísos Aléxandros, Platonisi, Νησίς Αλέξανδρος
 Nisída Ammoulianí, Amoliani, Moulára, Muliani, Nisís Amolianí, Nisís Amoulianí, Nísos Ammoulianí, Αμμουλιανή, Νησίδα Αμμουλιανή
 Nisída Ammoúdi, Amoi, Isola Ammui, Nisís Ammoúdhi, Nisís Ammoúdi, Nisís Amoni, Vrachonisída Ammoúdi, Νησίδα Αμμούδι, Νησίς Αμμούδι
 Nisída Anavátis, Nisís Anavátis
-Nisída Antidragonéra, Nisís Andidhragonéra, Nisís Mikrá Dhragonára, Nisís Mikró, Νησίς Αντιδραγονέρα
+Nisída Antidragonéra, Nisís Andidhragonéra, Nisís Antidragonéra, Nisís Mikrá Dhragonára, Nisís Mikró
 Nisída Antíkeri, Andíkeros, Antíkaros, Nisída Antíkeros, Nisís Antíkeri, Nisís Antíkeros, Nísos Andíkaros, Áno Antíkeri
-Nisída Antímilos, Antimilo, Antímilos, Erimómilos, Nisís Antímilos, Nísos Andímilos
+Nisída Antímilos, Antimilo, Antímilos, Nisís Antímilos, Nísos Andímilos, Ερημόμηλος
 Nisída Antítilos, Anti Tilo Island, Askino nisi, Island Antitilo, Nisís Andítilos, Nisís Antítilos, Vrachonisída Antítilos
 Nisída Apokoftós, Νησίς Αποκοφτός
 Nisída Apsifiá, Nisís Apsifiá
-Nisída Apása, Apáso, Nisís Ambáso, Nisís Apása, Άπασα
-Nisída Apóllon, Apóllon, Pondikonísi, Pondikóniso, Vrakhonisís Pondikónisos, Vráchos Pontikóniso, Νησίς Απόλλων
+Nisída Apása, Apáso, Nisís Ambáso, Άπασα, Νησίς Απάσα
+Nisída Apóllon, Apóllon, Nisís Apóllon, Pondikonísi, Pondikóniso, Vrakhonisís Pondikónisos, Vráchos Pontikóniso
 Nisída Apóllonos, Nisís Apóllonos, Palátia
 Nisída Archángelos, Arcangelo, Arkhangelo, Arkhangelos Island, Isola di Arcangelo, Nisis Arkangelos, Nisís Archángelos, Nisís Arkhángelos, Νησίδα Αρχάγγελος, Νησίς Αρχάγγελος
 Nisída Archí, Arkhi Island, Nisís Archí, Nisís Arkhí
-Nisída Arkoí, Akpith, Archi, Arki, Arki Adası, Nisídha Arkoí, Nisís Árki, Nísos Arkoí, Νησίς Αρκοί
+Nisída Arkoí, Akpith, Archi, Arki, Arki Adası, Nisídha Arkoí, Nisís Arkoí, Nisís Árki, Nísos Arkoí
 Nisída Arkoúdi, Arkudi Island, Nisída Arkoúdion, Nisís Arkoúdhion, Nisís Arkoúdion, Nísos Arkoúdhi, Vrachonisís Arkoúdi, Νησίδα Αρκούδι
 Nisída Armathiá, Nísos Armathiá, Αρμάθια, Νησίς Αρμαθιά
 Nisída Arníssis, Nisís Arníssis, Nisís Ostróvou
 Nisída Arsída, Arsida Island, Elaioúsa, Eleusa, Nisís Arsída, Nisís Arsídha
 Nisída Arvanítis, Nisís Arvanítis
 Nisída Aréfousa, Arefusa Adası, Arefusa Isolotto, Nisís Aréfousa, Vrachonisída Aréfousa, Νησίδα Αρέφουσα, Νησίς Αρέφουσα
-Nisída Askánia, Askania Island, Askánia, Nisís Askánia, Vrachonisída Askánia, Βραχονησίς Ασκάνια
+Nisída Askánia, Askania Island, Nisís Askánia, Vrachonisída Askánia, Vrachonisís Askánia, Ασκάνια
 Nisída Askós, Νησίς Ασκός
 Nisída Aspropníchti, Nisís Aspropníchti, Nísos Aspropníchti, Vráchos Aspropníchti
 Nisída Asterís, Astéria, Deskalio Island, Dhaskalió Islet, Nisís Dhaskalión
-Nisída Atalánti, Atalanta, Atalante, Nisís Atalánti, Αταλάντη
-Nisída Atsítsa, Atsítsa, Nisís Afsítsa, Nisís Atsitsis, Vrakhonisídha Atsítsa, Νησίς Ατσίτσα
-Nisída Avgó, Avgonísi, Khítra, Nisides Avgonisi, Nisís Avgó, Nisís Avgón, Nísos Avgo, Ovo, Strongilí, Vrachonisída Avgonísi, Vrachonisís Avgó, Zigó, Αυγονήσι, Βραχονησίς Αυγό, Νησίδα Αυγό, Νησίς Αυγό
+Nisída Atalánti, Atalanta, Atalante, Αταλάντη, Νησίς Αταλάντη
+Nisída Atsítsa, Atsítsa, Nisís Afsítsa, Nisís Atsitsis, Nisís Atsítsa, Vrakhonisídha Atsítsa
+Nisída Avgó, Avgonísi, Khítra, Nisides Avgonisi, Nisís Avgó, Nisís Avgón, Nísos Avgó, Ovo, Strongilí, Vrachonisída Avgonísi, Vrachonisís Avgó, Zigó, Αυγονήσι, Βραχονησίς Αυγό, Νησίδα Αυγό, Νησίς Αυγό
 Nisída Aváptistos, Avatisto Adası, Isolotto Avatisto, Vrachonisída Aváptisto, Νησίς Αβάπτιστος
 Nisída Avólada, Avoladhonísi, Avolathonísi, Nisís Avólada, Nisís Avóladho, Nisís Avólathon, Vrachonisída Avolathonísi
 Nisída Barmpaliás, Nisis Barbalias, Nisídha Barmbaliás, Nisís Barmpaliás, Νησίδα Μπαρμπαλιάς, Νησίς Μπαρμπαλιάς
 Nisída Boufálou, Nisís Boufálou, Nisís Portoboúfalo, Nisís Portomboufalou, Νησίδα Μπουφάλου, Νησίς Μπουφάλου
-Nisída Boúrmpoulo, Bromboli, Nisís Boúrboulo, Nisís Boúrmpoulo, Nisís Petrokáravo, Nísos Broúboulo, Νησίδα Μπούρμπουλο, Νησίς Μπούρμπουλο
+Nisída Boúrmpoulo, Bromboli, Nisís Boúrboulo, Nisís Boúrmpoulo, Nísos Broúboulo, Νησίδα Μπούρμπουλο, Νησίς Μπούρμπουλο, Νησίς Πετροκάραβο
 Nisída Boúrtzi, Nisís Boúrtzi, Nisís Boúrtzion, Vrakhonisís Boúrtzi, Νησίδα Μπούρτζι, Νησίς Μπούρτζι, Νησίς Μπούρτζιον
 Nisída Bísti, Nisís Bísti, Νησίδα Μπίστη, Νησίς Μπίστη
-Nisída Chalkiás, Vrachonisída Chalkiás, Νησίς Χαλκιάς
-Nisída Chamilí, Chamilí, Kýmo, Nisída Koúmeli, Nisís Kimó, Nisís Koúmeli, Nisís Koúmito, Νησίς Κούμελι
+Nisída Chalkiás, Nisís Chalkiás, Vrachonisída Chalkiás
+Nisída Chamilí, Chamilí, Nisída Koúmeli, Nisís Kimó, Nisís Koúmeli, Nisís Koúmito, Κύμω, Νησίς Κούμελι
 Nisída Chamiló, Apáso
 Nisída Chiliomódi, Chiliomódi, Isolotto Cigliomodi, Khelia Island, Nisis Helya, Nisís Khélia, Nísos Khiliomódhi, Sigliomodi Adası, Vrachonisída Chélia, Νησίς Χιλιομόδι
-Nisída Chinítsa, Alioussa, Chenesar Island, Nisís Khinítsa, Νησίς Χηνίτσα
+Nisída Chinítsa, Alioussa, Chenesar Island, Nisís Chinítsa, Nisís Khinítsa
 Nisída Chondrí, Kondro Nisi, Nisída Chondró, Nisís Chondrí, Skrófa
 Nisída Chondrópoulo, Nisís Chondrópoulo, Vrachonisída Chondrópoulo, Νησίδα Χονδρόπουλο, Νησίς Χονδρόπουλο
-Nisída Chondrós, Isolotto Condro, Kondros, Nisís Khondrós, Vrachonisís Chondrós, Νησίς Χονδρός
-Nisída Chtapódia, Khtapodhiá, Nisis Htapodia, Nisís Chtapódia, Nisís Ktapodia, Stapodhiá, Stapodia, Stapodia Island, Stapódhio, Stapódio, Vrachonisída Chtapódia, Vrachonisís Chtapodiá, Vrakhonisís Khtapodhiá, Κταπόδια
-Nisída Chteniés, Kténia, Nisís Chteniés, Nisís Khteniés, Nisís Kteniés, Octonya-nisi, Vrahos Kteniya, Vrákhos Oktoniá, Βραχονησίς Χτενιές
-Nisída Chína, Khina Rocks, Vrahoi Kina, Βράχοι Χήνα, Νησίς Χήνα
+Nisída Chondrós, Isolotto Condro, Kondros, Nisís Khondrós, Βραχονησίς Χονδρός, Νησίς Χονδρός
+Nisída Chtapódia, Khtapodhiá, Ktapodia, Nisis Htapodia, Nisís Ktapodia, Stapodhiá, Stapodia, Stapodia Island, Stapódhio, Stapódio, Vrachonisída Chtapódia, Vrachonisís Chtapodiá, Vrakhonisís Khtapodhiá, Νησίς Χταπόδια
+Nisída Chteniés, Kténia, Nisís Chteniés, Nisís Khteniés, Nisís Kteniés, Octonya-nisi, Vrachonisís Chteniés, Vrahos Kteniya, Vrákhos Oktoniá
+Nisída Chína, Khina Rocks, Nisís Chína, Vrahoi Kina, Vráchoi Chína
 Nisída Dasiá, Désa Islet, Nisís Dasiá, Nisís Desa, Nisís Dhasiá, Nisís Dhása, Nisís Dása, Ntésa, Vrachonisída Dasiá
 Nisída Daskaleió, Daskalio, Nisís Daskaleió, Vrakhonisís Dhaskaliá, Βραχονησίς Δασκαλειό
 Nisída Daskalió, Dhaskaliá, Dhaskalió Island, Nisís Daskalió, Nisís Dhaskaliós, Skaliá, Vrachonisída Daskaleió, Vrachonisída Skándia, Vrachonisís Skándia, Vrakhonisídha Dhaskalió
-Nisída Despotikó, Despotiki, Despotiko Island, Nisís Despotikón, Nisís Dhespotikó, Prepesinthos, Νησίς Δεσποτικό
-Nisída Diakoftó, Diakoftonísi, Nisís Diakoftó
+Nisída Despotikó, Despotiki, Despotiko Island, Nisís Despotikó, Nisís Dhespotikó, Prepesinthos, Νησίς Δεσποτικόν
+Nisída Diakoftó, Diakoftonísi, Νησίς Διακοφτό
 Nisída Diakóftis, Nisís Diakoptis, Vrachonisída Diakóftis, Νησίς Διακόφτης
 Nisída Diapóri, Dhiaspóri Island, Nisís Diapóri, Nísos Diapóri, Vrachonisída Diapóri
-Nisída Diapória, Dhiaporia, Nísos Diapória, Vrachonisída Diapória, Vrachonisís Diapória, Νησίς Διαπόρια
-Nisída Didými, Gaidaro Island, Nisís Dhidhími, Nísos Gaïdhouronísi, Nísos Gaïdhourónison, Νησίς Διδύμη
-Nisída Dipló, Diplo Island, Káto Fýra, Nisís Dhipló, Nisís Dhiplón, Nisís Dipló
-Nisída Disákia, Nisís Dhisákia, Nisís Disákia, Nísos Disákia, Βραχονησίς Δισάκι
+Nisída Diapória, Dhiaporia, Nisís Diapória, Nísos Diapória, Vrachonisída Diapória, Vrachonisís Diapória
+Nisída Didými, Gaidaro Island, Nisís Dhidhími, Nisís Didými, Nísos Gaïdhouronísi, Nísos Gaïdhourónison
+Nisída Dipló, Diplo Island, Nisís Dhipló, Nisís Dhiplón, Κάτω Φύρα, Νησίς Διπλό
+Nisída Disákia, Nisís Dhisákia, Nísos Disákia, Βραχονησίς Δισάκι, Νησίς Δισάκια
 Nisída Diáplo, Diaplo, Nisís Dhiáplo, Nisís Dhiáplon, Nisís Diáplo, Nísos Dhiaplo, Nísos Dhiápolo, Vrachonisída Diáplo, Vrachonisís Diáplo
 Nisída Diásporos, Dimitri Island, Nisís Dhiáporos, Vourvouroú
 Nisída Doroúsa, Nisís Dhoroúsa, Nisís Doroúsa, Thorussa, Thorussa Island, Νησίδα Δορούσα, Νησίς Δορούσα
-Nisída Dragonáda, Dhragonára, Dragonara Island, Dragonera, Dragonára, Nisís Dhragonádha, Nisís Dragonára, Nísos Dhragonára, Νησίδα Δραγονάρα
+Nisída Dragonáda, Dhragonára, Dragonara Island, Dragonera, Dragonára, Nisída Dragonára, Nisís Dhragonádha, Nisís Dragonára, Nísos Dhragonára
 Nisída Dragonéra, Nisís Dhragonári, Nisís Dhragonéra, Nisís Dragonéra
 Nisída Drakonéra, Nisís Dhrakonéra, Nísos Dhragonéra, Νησίς Δρακονέρα
 Nisída Drápi, Nisís Dhrápion, Nisís Drápion, Nísos Dhrápi, Vrachonisís Drápi
-Nisída Dríma, Dryma, Káto Antíkeri, Nisís Dhríma, Νησίς Δρίμα
-Nisída Dýsvato, Dysvaton Island, Nisí Dhísvaton, Nísos Dhísvaton, Vrachonisís Dýsvato, Δύσβατο, Νησίς Δύσβατον
-Nisída Elafónisos, Elaphonisi, Élafos, Ελαφονήσι, Ελαφόνησος, Λαφονήσι, Νησίδα Ελαφονήσι
+Nisída Dríma, Dryma, Káto Antíkeri, Nisís Dhríma, Nisís Dríma
+Nisída Dýsvato, Dysvaton Island, Nisí Dhísvaton, Nisís Dýsvaton, Nísos Dhísvaton, Βραχονησίς Δύσβατο, Δύσβατο
+Nisída Elafónisos, Elafonisi, Elafónisos, Elaphonisi, Élafos, Λαφονήσι, Νησίδα Ελαφονήσι
 Nisída Eleoúsa, Lagoúsai, Lagóza, Nisís Eleoúsa, Nisís Lagoúsa, Nisís Lagónisos, Νησίδα Ελεούσα, Νησίς Ελεούσα, Νησίς Λαγούσα
 Nisída Eláfi, Elafónisi, Elapha, Nisís Elafónisos, Nisís Eláfi
-Nisída Elása, Elasa Island, Elsa Island, Nisis Elesa, Élassa, Νησίς Ελάσα
+Nisída Elása, Elasa Island, Elsa Island, Nisis Elesa, Nisís Elása, Élassa
 Nisída Escháti, Escháti, Nisis Eshati, Nisís Escháti, Nisís Eskháti, Vrachonisída Escháti, Βραχονησίς Εσχάτη
 Nisída Esókastro, Isola di Socastro, Nisís Esókastron, Nisís Sókastro, Vrachonisída Sókastro
 Nisída Fagkroú, Nisís Fagkroú, Nisís Pelérissa, Pelérissa, Νησίδα Φαγκρού, Νησίς Φαγκρού
@@ -4000,11 +4000,11 @@ Nisída Fidoúsa, Fidhoúsa, Fidoúsa, Nisís Fidoúsa, Nisís Ofidhoúsa, Ofidu
 Nisída Filítsi, Filízi, Nisída Filízi, Nisís Filítsi, Nisís Filízi, Phillenghi Island
 Nisída Flevopoúla, Nisís Flevopoúla, Νησίδα Φλεβοπούλα, Νησίς Φλεβοπούλα
 Nisída Fléves, Phaura, Phleva Island, Νησίς Φλέβες
-Nisída Foniás, Fonias Island, Nisís Foniás, Phonias Island
+Nisída Foniás, Fonias Island, Phonias Island, Νησίς Φονιάς
 Nisída Fotiá, Nisís Fotiá, Vrachonisís Fotiá
-Nisída Frágkos, Frangonisi, Franko Adası, Isolotto Franco, Nisís Frágkos, Nisís Frángo, Nísos Frángos, Phrango islet, Vrachonisída Frágko, Vrakhonisídha Frángo, Vrakhonisís Fránko
+Nisída Frágkos, Frangonisi, Franko Adası, Isolotto Franco, Nisís Frángo, Nísos Frángos, Phrango islet, Vrachonisída Frágko, Vrakhonisídha Frángo, Vrakhonisís Fránko, Νησίς Φράγκος
 Nisída Ftenó, Nisís Ftenó, Vrachonisída Ftenó
-Nisída Fílippos, Nisís Fílippos
+Nisída Fílippos, Νησίς Φίλιππος
 Nisída Galiátsos, Galiki Islet, Galiátsos, Vrachonisída Galiátsos, Vrachonisís Galiátsos, Νησίς Γαλιάτσος
 Nisída Garmpiás, Barbia, Garbia Islet, Garmbiá, Garmpiá, Kalloni Island, Nisis Garbia, Nisída Kalloní, Nisís Garmpiás, Nisís Kalloní, Vrachonisída Kalloní
 Nisída Gavdopoúla, Nisís Gavdhopoúla, Nisís Gavdopoúla, Γαυδοπούλα, Νησίδα Γαυδοπούλα, Νησίς Γαυδοπούλα
@@ -4018,7 +4018,7 @@ Nisída Gkamíla, Nisís Gamíla, Νησίς Γκαμήλα
 Nisída Gkrávaris, Cravaris Island, Nisís Grávaris, Νησίς Γκράβαρης
 Nisída Gkértis, Ghertis, Gértis Rock, Nisís Gkértis, Nisís Gértis, Nísos Gkértis, Vrachonisída Gkértis, Vrahos Gertis, Vrákhos Gértis
 Nisída Glaronísi, Gláro Island, Νησίς Γλαρονήσι
-Nisída Glarómpi, Glaraboda Island, Glaropódha, Glarovída, Nisída Glarópounta, Nisís Glaraboda, Nisís Glarovídha, Nisís Glarovódha, Nisís Glarómpi, Nisís Glarópounda
+Nisída Glarómpi, Glaraboda Island, Glaropódha, Glarovída, Nisída Glarópounta, Nisís Glaraboda, Nisís Glarovídha, Nisís Glarovódha, Nisís Glarópounda, Νησίς Γλαρόμπι
 Nisída Gláros, Klaro Island, Νησίς Γλάρος
 Nisída Gouroúni, Gouroúni, Nisís Gouroúni, Nisís Mikró Mourteméno, Vrachonisída Mikró Mourteméno, Vrachonisís Mikró Mourteméno, Νησίδα Γουρούνι, Νησίς Γουρούνι
 Nisída Gouroúnia, Nisís Gouroúnia, Νησίδα Γουρούνια, Νησίς Γουρούνια
@@ -4029,28 +4029,28 @@ Nisída Grompoloúra, Grombolóura Island, Nisís Gromboloúra, Nisís Grompolo�
 Nisída Gyalí, Iali, Isoladi Jalli, Istros, Nisís Gialí, Nisís Gyalí, Nisís Yialí, Yiali
 Nisída Gáïdaros, Gadaro, Gaïdhourokhálaro, Gaḯdharos Islet, Νησίς Γάϊδαρος
 Nisída Kalióra, Νησίς Καλιόρα
-Nisída Kalés, Nisís Kalés
-Nisída Kalógeros, Nisís Kalógeros, Nisís Kalóyeroi, Nisís Kalóyeros
+Nisída Kalés, Νησίς Καλές
+Nisída Kalógeros, Nisís Kalóyeroi, Nisís Kalóyeros, Νησίς Καλόγερος
 Nisída Kalógiros, Nisís Kalógiros, Nisís Kalóyeros, Nisís Kalóyiros, Nísos Kalóyeros
 Nisída Kalólimnos, Calolimno, Gaithuro Nisi, Isola di Calolino, Kalolimno, Kalolimnos Island, Kalólimnos, Νησίς Καλόλιμνος
-Nisída Kalóvolos, Island Calonolo, Isolotto Calavolo, Kalavolo, Kalovolo Adası, Nisis Kalovolo, Nisís Kalóvolon, Nisís Kalóvoulo, Vrachonisída Kalóvoulo, Νησίς Καλόβολος
+Nisída Kalóvolos, Island Calonolo, Isolotto Calavolo, Kalavolo, Kalovolo Adası, Nisis Kalovolo, Nisís Kalóvolon, Nisís Kalóvolos, Nisís Kalóvoulo, Vrachonisída Kalóvoulo
 Nisída Kamákia, Nisís Kamakia, Nisís Kaïmákia
-Nisída Kamíni, Nisís Kamíni, Vrachonisís Kamíni
+Nisída Kamíni, Vrachonisís Kamíni, Νησίς Καμίνι
 Nisída Kandelioússa, Fáros, Isola di Candeliusa, Kandeliusa, Kandilusa, Kordiloúsa, Nisís Kandelioússa, Nisís Kandhelioúsa, Nisís Kandhiloúsa, Nísos Pandeleoúsa, Panteleoúsa, Vrachonisída Kandelioússa, Vrachonisída Kandiloúsa, Vrachonisís Kandelioússa, Νησίδα Κανδελιούσσα, Νησίς Κανδελιούσσα
-Nisída Kanákia, Kanakia Island, Nisís Kanáki, Νησίδες Κανάκια, Νησίς Κανάκια
+Nisída Kanákia, Kanakia Island, Nisídes Kanákia, Nisís Kanáki, Nisís Kanákia
 Nisída Kapéllo, Nisís Kapéllon
 Nisída Kardiótissa, Kardiotissa, Nisís Kardhiótissa, Νησίς Καρδιώτισσα
 Nisída Karkalás, Nisís Karkalás, Thános, Vrachonisída Karkalás
-Nisída Kartéli, Νησίς Καρτέλι
-Nisída Karávi, Nisída Krávi, Nisís Graviá, Nisís Karávi, Nisís Kraviá, Nisís Krávi
-Nisída Karávolas, Isola Caravola, Karavolos, Nisís Karávolas, Βραχονησίς Καράβολας
-Nisída Karófyllas, Carophilo Nisi, Isola Coscino, Nisís Karófyllas, Nisís Kóskino, Nisís Kóskinon, Vrachonisída Karyófyllo
+Nisída Kartéli, Nisís Kartéli
+Nisída Karávi, Nisída Krávi, Nisís Graviá, Nisís Kraviá, Nisís Krávi, Νησίς Καράβι
+Nisída Karávolas, Isola Caravola, Karavolos, Nisís Karávolas, Vrachonisís Karávolas
+Nisída Karófyllas, Carophilo Nisi, Isola Coscino, Nisís Kóskino, Nisís Kóskinon, Vrachonisída Karyófyllo, Νησίς Καρόφυλλας
 Nisída Kastrí, Isola San Nicola, Isolotto Paleo Castro, Nisís Kastrí, Nisís Palaiókastro, Nisís Palaiókastron, Nísos Kastrí, Paleo Kastro Island, Vrachonisída Palaiókastro, Vrachonisída Palaiókastros
 Nisída Kastós, Kastus, Nisís Kastós, Nísos Kastós
 Nisída Kasélla, Nisís Kasela, Nisís Kasélla
 Nisída Kasídis, Nisís Kasídhi, Nisís Kasídhis, Nisís Kasídis, Vrákhos Kasídha, Βράχος Κασίδης
 Nisída Katevatí
-Nisída Katsagréli, Isola Cazzagrelli, Isolotto Catergari, Katagréli, Katergari, Katergari Islet, Nisís Katergáris, Nísos Katsagrélli, Vrachonisída Katergáris, Νησίς Κατσαγρέλι
+Nisída Katsagréli, Isola Cazzagrelli, Isolotto Catergari, Katagréli, Katergari, Katergari Islet, Nisís Katergáris, Nisís Katsagréli, Nísos Katsagrélli, Vrachonisída Katergáris
 Nisída Katsagáni, Claro Island, Kazzagani Adası, Nisís Gláros, Nisís Katsagáni, Vrachonisída Gláros
 Nisída Katsouliá, Nisís Katsouliá, Νησίδα Κατσουλία, Νησίς Κατσουλία
 Nisída Katsíka, Goat Island, Island Avgó, Isolotto Goa, Nisís Katsikoúla, Nisís Katsíka, Vrachonisída Katsíka
@@ -4061,16 +4061,16 @@ Nisída Kefalí, Nisís Kefalí
 Nisída Kivotós, Nisís Kivotós
 Nisída Kleísova, Nisís Klísova, Νησίς Κλείσοβα
 Nisída Koimitíri, Nisída Tsimintíri, Nisís Tsimindíri, Nisís Tsimindírion, Nisís Tsimintíri, Νησίς Κοιμητήρι
-Nisída Kolofónas, Nisís Kolofónas, Vrachonisís Kolofónas
+Nisída Kolofónas, Βραχονησίς Κολοφώνας, Νησίς Κολοφώνας
 Nisída Kolofónos, Isola Colofono, Kholophonos, Nisís Kolofónas, Nisís Kolofónos, Vrachonisída Kolofónas
-Nisída Kolokythás, Eloúnda, Kolokithiá Island, Nisída Kolokydiá, Nisída Kolokythiá, Nisís Kolokithiá, Nisís Kolokythiá, Κολοκύθας
+Nisída Kolokythás, Eloúnda, Kolokithiá Island, Nisída Kolokydiá, Nisída Kolokythiá, Nisís Kolokithiá, Κολοκύθας, Νησίς Κολοκυθιά
 Nisída Kolokýthi, Nisís Kolokíthi, Nisís Kolokýthi
 Nisída Komméno, Nisís Komméno, Nisís Koméno, Stiphti
-Nisída Kopriá, Kopria Island, Kopriá, Nisís Kopriá, Nisís Kopriés, Nisís Prasoúra, Prasura, Vrachonisída Kopriá, Vrachonisís Kopriá
-Nisída Kordeliáris, Nisís Kordeliáris, Nisís Kordheliáris
-Nisída Korniachtí, Korniachtí, Vrachonisída Mónos, Νησίς Κορνιαχτή
-Nisída Koronída, Kiládia Island, Nisís Koiládhi, Nisís Koiládia, Nisís Koronís
-Nisída Kotsíles, Kotsuli Island, Nisís Kalogriá, Vrakhonisídha Kalógria, Νησίς Κοτσίλες
+Nisída Kopriá, Kopria Island, Kopriá, Nisís Kopriés, Nisís Prasoúra, Prasura, Vrachonisída Kopriá, Vrachonisís Kopriá, Νησίς Κοπριά
+Nisída Kordeliáris, Nisís Kordheliáris, Νησίς Κορδελιάρης
+Nisída Korniachtí, Korniachtí, Nisís Korniachtí, Vrachonisída Mónos
+Nisída Koronída, Kiládia Island, Nisís Koiládhi, Nisís Koronís, Νησίς Κοιλάδια
+Nisída Kotsíles, Kotsuli Island, Nisís Kalogriá, Nisís Kotsíles, Vrakhonisídha Kalógria
 Nisída Koukounítsa, Nisís Koukounítsa, Νησίδα Κουκουνίτσα, Νησίς Κουκουνίτσα
 Nisída Kouloundrós, Isolotto Culundro, Nisís Kouloundrós, Vrachonisída Koulountrós, Vrachonisís Koulountrós, Βραχονησίς Κουλουντρός, Νησίδα Κουλουνδρός, Νησίς Κουλουνδρός
 Nisída Kouloúri, Kuluri Island, Nisís Kouloúri, Vrakhonisídha Koúlouri, Νησίδα Κουλούρη, Νησίς Κουλούρη
@@ -4079,97 +4079,97 @@ Nisída Kounoúpi, Nisís Kounoúpi, Νησίδα Κουνούπι, Νησίς �
 Nisída Kounéli, Konigli Adası, Kounelonísi, Kunelli, Nisis Kuneli, Nisís Kounéli, Vrachonisída Kounéli, Νησίδα Κουνέλι, Νησίς Κουνέλι
 Nisída Koutsomýtis, Island Cussomiti, Kutzomiti, Nisís Koutsomítis, Nisís Koutsomýtis, Nísos Koutsomíti, Vrachonisída Koutsomýtis, Νησίδα Κουτσομύτης, Νησίς Κουτσομύτης
 Nisída Kouvéli, Kouveli Island, Nisís Kouvélion, Νησίδα Κουβέλι, Νησίς Κουβέλιον
-Nisída Koíli, Khilí, Kili Island, Megáli Nísos, Νησίς Κοίλη
+Nisída Koíli, Khilí, Kili Island, Megáli Nísos, Nisís Koíli
 Nisída Koínyra, Kynira Island, Nisís Koínira, Nisís Kínira, Κοίνυρα
 Nisída Koúnoupas, Koúnoupas, Nisís Koúnoupas, Nísos Koúnoupas, Vrachonisída Agía Dýnamis, Vrakhonisídha Ayía Dhínamis, Νησίδα Κούνουπας, Νησίς Κούνουπας
-Nisída Kranái, Νησίς Κρανάη
-Nisída Krevvatió, Vrachonisída Eriníes, Vrachonisída Krevvatió, Κρεβατιό, Νησίς Κρεββατιό
+Nisída Kranái, Nisís Kranái
+Nisída Krevvatió, Nisís Krevvatió, Vrachonisída Eriníes, Vrachonisída Krevvatió, Κρεβατιό
 Nisída Kreváti, Vrachonisís Kreváti, Νησίς Κρεβάτι
-Nisída Kritikó, Nisís Kritikó, Vráchos Kritikó
-Nisída Kydonás, Kidonia Island, Nisis Kidonya, Nisos Kidonial, Nisís Kidhoniai, Nisís Kidhónia, Nisís Kydonás, Vrachonisída Kydonás
-Nisída Kyrá, Kvra, Nisís Kirá, Pitionisos, Νησίς Κυρά
-Nisída Kálavros, Isola di Calavro, Nisís Kálavro, Nisís Kálavros, Vrachonisída Kalavrós
+Nisída Kritikó, Vráchos Kritikó, Νησίς Κρητικό
+Nisída Kydonás, Kidonia Island, Nisis Kidonya, Nisos Kidonial, Nisís Kidhoniai, Nisís Kidhónia, Vrachonisída Kydonás, Νησίς Κυδονάς
+Nisída Kyrá, Kvra, Nisís Kirá, Nisís Kyrá, Pitionisos
+Nisída Kálavros, Isola di Calavro, Nisís Kálavro, Vrachonisída Kalavrós, Νησίς Κάλαβρος
 Nisída Kápari, Nisís Káppari, Νησίς Κάπαρι
-Nisída Káppari, Isolotto dei Capperi, Kapperi Adası, Nisís Káppari, Vrachonisída Káppari
+Nisída Káppari, Isolotto dei Capperi, Kapperi Adası, Vrachonisída Káppari, Νησίς Κάππαρη
 Nisída Káravos, Νησίς Κάραβος
 Nisída Kárga, Nisís Kárga, Nisís Kárga Dási, Κάργα
 Nisída Kátergo, Βράχος Κάτεργο
-Nisída Kátergon, Kátergo, Nísos Kátergon, Νησίς Κάτεργον
+Nisída Kátergon, Kátergo, Nisís Kátergon, Nísos Kátergon
 Nisída Káto Koufonísi, Kato Kufonision, Káto Koufó, Nisís Káto Koufonísion, Nisís Káto Koufónisos, Nísos Káto Koufonísion, Κάτω Κουφονήσι, Νησίδα Κάτω Κουφονήσι, Νησίς Κάτω Κουφονήσιον
 Nisída Káto Palioúrí, Nisís Káto Palioúrí
 Nisída Káto Prasoúda, Nisís Káto Prasoúda, Vrachonisís Káto Prasoúda, Βραχονησίς Κάτω Πρασούδα, Νησίδα Κάτω Πρασούδα, Νησίς Κάτω Πρασούδα
-Nisída Káto Rematiáris, Ekáti, Nisída Megálos Rematiáris, Nisís Megálos Rematiáris, Νησίς Κάτω Ρεματιάρης
+Nisída Káto Rematiáris, Ekáti, Nisída Megálos Rematiáris, Nisís Káto Rematiáris, Nisís Megálos Rematiáris
 Nisída Kávouras, Kabura Island, Nisís Kavoúra, Nisís Kávouras, Επάνω Φύρα, Νησίδα Κάβουρας, Νησίς Κάβουρας
 Nisída Kéfalos, Kephalos, Kephalos Island, Νησίς Κέφαλος
 Nisída Kélyfos, Kelpho Island, Kelphos, Nisís Kélfos, Nisís Kélifos
-Nisída Kéros, Kereía, Kería, Nisís Káros, Nísos Kéros, Νησίς Κέρος
-Nisída Kímina, Kimina Islet, Kímina, Nisís Kímina, Vrachonisída Kímina, Βραχονησίς Κίμινα
+Nisída Kéros, Kereia, Keria, Nisís Káros, Nísos Kéros, Νησίς Κέρος
+Nisída Kímina, Kimina Islet, Kímina, Vrachonisída Kímina, Vrachonisís Kímina, Νησίς Κίμινα
 Nisída Kínaros, Νησίς Κίναρος
-Nisída Kómma, Nisís Kómma
+Nisída Kómma, Νησίς Κόμμα
 Nisída Kónida, Kunithia, Mókhlos Island, Nisída Kouníthia, Nisís Konídha, Nisís Kouníthia, Nisís Kónida, Nísos Kouníthia, Νησίς Κουνίθια
-Nisída Kórakas, Koraka, Vrachonisída Kórakas, Νησίς Κόρακας
+Nisída Kórakas, Koraka, Nisís Kórakas, Vrachonisída Kórakas
 Nisída Kýthros, Kithro Island, Nisís Kíthros, Nisís Kítro, Nisís Kýthros, Nísos Kóthros, Vrachonisída Kýthros, Vrachonisís Kýthros
-Nisída Lagouvárdos, Nisís Lagouvárdos, Nisís Poréti, Poréti, Vrákhos Poréti, Βράχος Πορέτι, Νησίδα Λαγουβάρδος, Νησίς Λαγουβάρδος
-Nisída Lagóna, Nisís Latóna, Vráchos Litó, Νησίς Λαγόνα
-Nisída Lamprinós, Lambrino Island, Nisída Lampriní, Nisís Lambrinós, Νησίς Λαμπρινός
+Nisída Lagouvárdos, Nisís Lagouvárdos, Nisís Poréti, Poréti, Vráchos Poréti, Vrákhos Poréti, Νησίδα Λαγουβάρδος, Νησίς Λαγουβάρδος
+Nisída Lagóna, Nisís Latóna, Βράχος Λητώ, Νησίς Λαγόνα
+Nisída Lamprinós, Lambrino Island, Nisída Lampriní, Nisís Lambrinós, Nisís Lamprinós
 Nisída Lazaros, Λάζαρος
 Nisída Lazaréta, Nisís Lazaréta, Nisís Lazarétto, Nísos Lazaréto
-Nisída Lazarétta, Lazaretto, Νησίς Λαζαρέττα
+Nisída Lazarétta, Lazaretto, Nisís Lazarétta
 Nisída Lechoúsa, Lechoúsa, Likourína, Likórema, Lykourína, Nisída Lykórema, Nisís Lechoúsa, Nisís Lekhoúsa, Nísos Likórrema, Νησίδα Λεχούσα, Νησίς Λεχούσα
 Nisída Ledoú, Klidhoú, Lethu, Nisís Ledhoú, Nisís Ledoú, Νησίδα Λεδού, Νησίς Λεδού
-Nisída Levítha, Isola di Lévita, Levitha Island, Nisís Levítha, Nisís Lévinthos
+Nisída Levítha, Isola di Lévita, Levitha Island, Nisís Lévinthos, Νησίς Λεβίθα
 Nisída Lignó, Glino Nisi, Glinonísi, Glinó, Glynonisi, Isola Snella, Nisís Lignó, Nísos Lignó, Vrachonisída Lignó, Γλυνό, Νησίδα Γλυνό
-Nisída Lithári, Nisís Lithári, Vrakhoi Gláros
+Nisída Lithári, Vrakhoi Gláros, Νησίς Λιθάρι
 Nisída Louloúdi, Nisís Leloúdha, Nisís Louloudhi, Nisís Louloúdhion, Nisís Louloúdion, Νησίδα Λουλούδι, Νησίς Λουλούδιον
-Nisída Láros, Gláros, Island Laro, Láros Island, Nisís Glarós, Vrachonisída Láros, Νησίς Λάρος
+Nisída Láros, Gláros, Island Laro, Láros Island, Nisís Glarós, Nisís Láros, Vrachonisída Láros
 Nisída Léon, Nisída Kounelión, Νησίδα Κουνελιών
-Nisída Lériko, Isolotto Lerica, Isolotto dei Gabbiani, Nisís Lériko, Nisís Velóna, Velona Island, Vrachonisída Velóna
-Nisída Léros, Nisís Léros
-Nisída Lígkio, Vrachonisída Lígkia, Vrakhonisídha Língia, Νησίς Λίγκιο
+Nisída Lériko, Isolotto Lerica, Isolotto dei Gabbiani, Nisís Velóna, Velona Island, Vrachonisída Velóna, Νησίς Λέρικο
+Nisída Léros, Νησίς Λέρος
+Nisída Lígkio, Nisís Lígkio, Vrachonisída Lígkia, Vrakhonisídha Língia
 Nisída Líra, Island Lira, Islet Lera, Isolotto Lira, Lira Adası, Nisís Líra, Vrachonisída Líra
-Nisída Lýtra, Isola Litra, Nisís Lítra, Nisís Lýtra, Vrachonisída Lýtra, Λίτρα
+Nisída Lýtra, Isola Litra, Nisís Lítra, Vrachonisída Lýtra, Λίτρα, Νησίς Λύτρα
 Nisída Magrinés, Magrinés, Nisís Óro, Páno Nisáki
-Nisída Makronísi, Makronisi Adası, Nisís Makronísi, Vrachonisída Makronísi
+Nisída Makronísi, Makronisi Adası, Vrachonisída Makronísi, Νησίς Μακρονήσι
 Nisída Makropoúla, Kounéli Island, Nisís Kounelion, Nisís Kounéli, Nisís Makropoúla, Νησίδα Μακροπούλα, Νησίς Μακροπούλα
 Nisída Makroulí, Makrolo, Makroulá, Makrouló Islet, Nisís Makrouló, Nisís Makroulón, Νησίδα Μακρουλή, Νησίς Μακρουλό
-Nisída Makrá, Nisís Makrá
-Nisída Makrý, Island Macri, Nisís Makrí, Vrachonisís Makrý, Νησίς Μακρύ
-Nisída Makrý Kátergo, Nisís Makrý Kátergo, Nisís Pelayía, Πελαγία
+Nisída Makrá, Νησίς Μακρά
+Nisída Makrý, Island Macri, Nisís Makrí, Nisís Makrý, Vrachonisís Makrý
+Nisída Makrý Kátergo, Nisís Makrý Kátergo, Nisís Pelayía, Pelagía
 Nisída Manolás, Manola, Νησίς Μανωλάς
 Nisída Mantó, Nisídha Mandó
-Nisída Manólis, Manolonesi, Manólis, Nisís Malononísion, Nisís Manolás, Nisís Manólis, Μανωλονήσι
-Nisída Margaríti, Marghariti, Nisis Margariti, Nísos Margaríti
-Nisída Marmarás, Isolotto Marmara, Marmara Island, Βραχονησίς Μαρμαράς, Νησίς Μαρμαράς
-Nisída Marágkos, Mirango Island, Nisís Marágkos, Nisís Marángos
-Nisída Mastrogiórgi, Ayíou Yeoryíou, Nisís Mastroyióryi, Vrachonisída Mastrogiórgi, Vrachonisída Mastrogiórgis, Vrakhonisídha Mastroyióryi, Νησίς Μαστρογιώργη
+Nisída Manólis, Manolonesi, Manolonísi, Manólis, Nisís Malononísion, Nisís Manolás, Nisís Manólis
+Nisída Margaríti, Marghariti, Nísos Margaríti, Νησίς Μαργαρίτη
+Nisída Marmarás, Isolotto Marmara, Marmara Island, Vrachonisís Marmarás, Νησίς Μαρμαράς
+Nisída Marágkos, Mirango Island, Nisís Marángos, Νησίς Μαράγκος
+Nisída Mastrogiórgi, Ayíou Yeoryíou, Nisís Mastrogiórgi, Nisís Mastroyióryi, Vrachonisída Mastrogiórgi, Vrachonisída Mastrogiórgis, Vrakhonisídha Mastroyióryi
 Nisída Megali Plaka, Μεγάλη Πλάκα
 Nisída Meganísi, Meganísi, Meganísi Nísos, Nisís Meganision, Nisís Tathos, Tilevoḯs, Táfos
 Nisída Megáli Dragonéra, Nisís Megáli Dhragonéra, Nisís Megáli Dragonéra, Nisís Megálo Dhragonára, Nisís Megálo Dhragonári
-Nisída Megálo, Megalo Island, Νησίς Μεγάλο
+Nisída Megálo, Megalo Island, Nisís Megálo
 Nisída Megálo Adelfoí, Nisída Adélfi, Nisís Adhélfion, Nisís Megálo Adelfoí, Nisís Méga Adhélfi
 Nisída Megálo Bourmpoúli, Nisís Megálo Bourboúli, Nisís Megálo Bourmpoúli, Νησίδα Μεγάλο Μπουρμπούλι, Νησίς Μεγάλο Μπουρμπούλι
 Nisída Megálo Kounéli, Nisís Kounéli, Nisís Megálo Kounéli, Νησίδα Μεγάλο Κουνέλι, Νησίς Μεγάλο Κουνέλι
-Nisída Megálo Sofráno, Isola Zafrana, Megalo Sophrano, Megálo, Nisís Megálo Sofráno, Sophrano Island
-Nisída Megálos Adelfós, Pánthir, Vrachonisída Megálos Adelfós, Νησίς Μεγάλος Αδελφός
-Nisída Megálos Anthropofágos, Anidros Adası, Anthropofás, Anthró, Megaloantropoias Adası, Nisís Megálos Anthropofágos, Vrachonisída Megálos Anthropofágos
-Nisída Megálos Avélas, Vrachonisída Megálos Avélos, Vrachonisís Megálos Avélos, Νησίς Μεγάλος Αβέλας
+Nisída Megálo Sofráno, Isola Zafrana, Megalo Sophrano, Megálo, Sophrano Island, Νησίς Μεγάλο Σοφράνο
+Nisída Megálos Adelfós, Nisís Megálos Adelfós, Pánthir, Vrachonisída Megálos Adelfós
+Nisída Megálos Anthropofágos, Anidros Adası, Anthropofás, Anthró, Megaloantropoias Adası, Vrachonisída Megálos Anthropofágos, Νησίς Μεγάλος Ανθρωποφάγος
+Nisída Megálos Avélas, Nisís Megálos Avélas, Vrachonisída Megálos Avélos, Vrachonisís Megálos Avélos
 Nisída Mersínia, Mersinia Island
 Nisída Merópi, Nisís Dhimitraíon, Nisís Merópi
 Nisída Metaxotó, Metaxoto Island, Nisís Metaxotó
 Nisída Metópi, Nisís Metópi
-Nisída Mikró, Nisís Mikró, Nisís Mikrón
-Nisída Mikró Adelfoí, Adelfópoulo, Adelphi Palo, Adelphi Pulo, Nisís Adhelfopoulo, Nisís Adhelfópoulon, Nisís Adhélfi, Vrachonisída Adelfópoulo, Νησίς Μικρό Αδελφοί
+Nisída Mikró, Nisís Mikrón, Νησίς Μικρό
+Nisída Mikró Adelfoí, Adelfópoulo, Adelphi Palo, Adelphi Pulo, Nisís Adhelfopoulo, Nisís Adhelfópoulon, Nisís Adhélfi, Nisís Mikró Adelfoí, Vrachonisída Adelfópoulo
 Nisída Mikró Bourmpoúli, Nisís Mikró Bourboúli, Nisís Mikró Bourmpoúli, Νησίδα Μικρό Μπουρμπούλι, Νησίς Μικρό Μπουρμπούλι
 Nisída Mikró Kounéli, Nisís Mikró Kounéli, Νησίδα Μικρό Κουνέλι, Νησίς Μικρό Κουνέλι
 Nisída Mikró Sofráno, Isola Macri, Makri Sophrano, Makris, Makrá, Nisís Mikró Sofráno, Vrachonisída Mikró Sofráno
-Nisída Mikrós Adelfós, Aréthousa, Vrachonisída Mikrós Adelfós, Νησίς Μικρός Αδελφός
+Nisída Mikrós Adelfós, Aréthousa, Nisís Mikrós Adelfós, Vrachonisída Mikrós Adelfós
 Nisída Mikrós Anthropofágos, Anthropofás, Kidros Adası, Kédro, Mikroantropoias Adası, Nisís Mikrós Anthropofágos, Vrachonisída Mikró Anthropofágos
 Nisída Mikrós Avélas, Vrachonisída Mikrós Avélos, Vrachonisís Mikrós Avélos, Νησίς Μικρός Αβέλας
 Nisída Mikrós Géranos, Nisís Mikrós Yéranos
 Nisída Molyeménos, Moliménos Islet, Nisís Moleménos, Nisís Moliméno, Nisís Molyeménos, Vrakhonisís Moliméni
-Nisída Moládi, Nisís Moláthi, Vrachonisís Moládi, Νησίς Μολάδι
-Nisída Molócha, Nisís Molókha, Νησίς Μολόχα
-Nisída Monastíri, Nisiotissa, Panayítsa Nisiótissa, Νησίς Μοναστήρι
+Nisída Moládi, Nisís Moládi, Nisís Moláthi, Βραχονησίς Μολάδι
+Nisída Molócha, Nisís Molócha, Nisís Molókha
+Nisída Monastíri, Nisiotissa, Nisís Monastíri, Panayítsa Nisiótissa
 Nisída Mongonísi, Mongonísion, Nisída Mongonísion, Nisís Mongonísi, Νησίδα Μογγονήσι
 Nisída Moní, Vrachonisída Moní, Μονή
 Nisída Monópetra, Vrachonisída Monópetra, Vrachonisída Vourvoúlaka, Vrachonisída Vourólakos, Vrahos Monopetra, Vrakhonisídha Monópetra, Vurulako, Νησίς Μονόπετρα
@@ -4180,104 +4180,104 @@ Nisída Mármara, Nisís Mármara, Nisís Mármaro, Vráchos Mármara
 Nisída Mármaros
 Nisída Mávri Plakoúda, Nisís Mávri Plakoúda, Vrachonisída Mávri Plakoúda, Νησίδα Μαύρη Πλακούδα, Νησίς Μαύρη Πλακούδα
 Nisída Mávro Poḯni, Mavro Poini, Mavro Poinis, Mavro Points, Mavropini, Nisís Mávro Poḯni, Vrachonisída Mávro Poḯni, Νησίδα Μαύρο Ποΐνι, Νησίς Μαύρο Ποΐνι
-Nisída Mérmigkas, Merminga Rock, Mérmingas Rock, Nisís Mírmingas, Vráchos Mérmigkas, Vrákhos Mérmingas, Vrákhos Mírminkas, Νησίς Μέρμηγκας
-Nisída Mésa Diavátis, Diavati, Nisís Mésa Dhiavátes, Nisís Mésa Dhiavátis, Vrachonisída Mésa Diavátis, Vrakhonisídha Mésa Dhiavátis, Νησίς Μέσα Διαβάτης
-Nisída Mésa Pódia, Nisís Vório Pódhi, Nisís Vórios Podhi, North Podia Rocks, Sofráno Pódhi, Vrakhonisídha Vório Pódhi, Νησίς Μέσα Πόδια
-Nisída Módi, Nisídes Módi, Nisís Modhi, Nisís Módhion, Nisís Módion, Nisís Stamodhion, Nisís Stamothá, Nisís Stamódhi, Stamothi Island, Νησίς Μόδι
-Nisída Nekrothíki, Isolotto Nicrotikes, Nekrotikes, Nikrothikes, Nisís Nekrothíkes, Nisís Nekrothíki, Vrachonisída Nekrothíkes
+Nisída Mérmigkas, Merminga Rock, Mérmingas Rock, Nisís Mérmigkas, Nisís Mírmingas, Vráchos Mérmigkas, Vrákhos Mérmingas, Vrákhos Mírminkas
+Nisída Mésa Diavátis, Diavati, Nisís Mésa Dhiavátes, Nisís Mésa Dhiavátis, Nisís Mésa Diavátis, Vrachonisída Mésa Diavátis, Vrakhonisídha Mésa Dhiavátis
+Nisída Mésa Pódia, Nisís Mésa Pódia, Nisís Vório Pódhi, Nisís Vórios Podhi, North Podia Rocks, Sofráno Pódhi, Vrakhonisídha Vório Pódhi
+Nisída Módi, Nisídes Módi, Nisís Módhi, Nisís Módhion, Nisís Módion, Nisís Stamodhion, Nisís Stamothá, Nisís Stamódhi, Stamothi Island, Νησίς Μόδι
+Nisída Nekrothíki, Isolotto Nicrotikes, Nekrotikes, Nikrothikes, Nisís Nekrothíkes, Vrachonisída Nekrothíkes, Νησίς Νεκροθήκη
 Nisída Neráïdes, Neraïdhes, Νησίς Νεράϊδες
 Nisída Nikouriá, Nikaria, Nisís Nikouriá, Νησίδα Νικουριά, Νησίς Νικουριά
 Nisída Nipoúri, Nepari Island, Nisís Nipoúri, Vrachonisís Nipoúri, Βραχονησίς Νιπούρι, Νησίδα Νιπούρι, Νησίς Νιπούρι
 Nisída Nisopoúla, Nisís Nisopoúla, Νησίδα Νησοπούλα, Νησίς Νησοπούλα
 Nisída Náta, Lanádho, Lanádo, Nisís Lánadhon, Nisís Náta, Vrakhonisí Lanáta, Vrákhos Lanáta
-Nisída Néa Kamméni, Nea Kameni Island, Neo Kaimeni, Nisída Néa Kaméni, Nisís Néa Kaiméni, Nisís Néa Kaméni, Nísos Néa Kaïméni, Νησίς Νέα Καμμένη
+Nisída Néa Kamméni, Nea Kameni Island, Neo Kaimeni, Nisída Néa Kaméni, Nísos Néa Kaïméni, Νησίς Νέα Καημένη, Νησίς Νέα Καμένη, Νησίς Νέα Καμμένη
 Nisída Néra, Nera Island, Nisís Néra
 Nisída Nímos, Aemos, Isola di Nimo, Nisída Némos, Νησίς Νίμος
 Nisída Ofidoúsa, Isola di Ofidusa, Nisís Ofidhoúsa, Nisís Ofidoúsa, Ophidusa, Opidusa, Vrachonisída Ofidoúsa, Vrachonisída Ofidoússa, Νησίδα Οφιδούσα, Νησίς Οφιδούσα
 Nisída Oikonómou, Kukulo Island, Nisís Oikonómou, Νησίδα Οικονόμου, Νησίς Οικονόμου
-Nisída Oxeiá, Isolotto Ossia, Nisís Oxeiá, Nisís Oxía, Oxa, Oxia Island, Βραχονησίς Οξειά
-Nisída Pacheiá, Iraklia, Isola di Pasciá, Nisis Pakya, Nisís Anafopoúla, Nisís Anafópoulo, Nisís Pakhiá, Pachiá, Pakia Island, Rachia, Rakhía, Raklua, Vrachonisída Pacheiá, Vrachonisída Passás, Νησίς Παχειά
+Nisída Oxeiá, Isolotto Ossia, Nisís Oxeiá, Nisís Oxía, Oxa, Oxia Island, Vrachonisís Oxeiá
+Nisída Pacheiá, Iraklia, Isola di Pasciá, Nisis Pakya, Nisís Anafopoúla, Nisís Anafópoulo, Nisís Pacheiá, Nisís Pakhiá, Pachiá, Pakia Island, Rachia, Rakhía, Raklua, Vrachonisída Pacheiá, Vrachonisída Passás
 Nisída Palaiá Kamméni, Nisída Palaiá Kaméni, Nisís Palaiá Kamméni, Nísos Palaiá Kaïméni, Palaeo Kaimeni, Palea Kameni Island, Palia Kameni, Palia Kaïmíni, Νησίς Παλαιά Καμένη
-Nisída Palaiá Soúda, Manati Island, Nisis Pal Soudlha, Nisída Palaiósouda, Nisís Palaiá Soúdha, Nisís Palaiósoudha, Paleo Suda, Μαράθι, Νησίδα Παλαιά Σούδα, Νησίδα Παλαιόσουδα, Παλαιόσουδα
-Nisída Palaió Tríkeri, Nisos Palaia Trikkeri, Nisídha Palaió Trikéri, Nisís Palaió Tríkeri, Nisís Palió Tríkeri, Nísos Palaiá Tríkkera, Paleo Trikiri, Νησίς Παλαιόν Τρίκεριον
-Nisída Palamída, Nisís Palamída, Nisís Palamídha, Βράχος Παλαμηδάς
-Nisída Panagiá, Astrís, Fenózi, Mantóna, Nisídha Panayiá, Nisís Mandónna, Nisís Panayía, Nísos Madóna, Panagia Island, Νησίς Παναγία
-Nisída Panagítsa, Nisís Panayítsa, Νησίς Παναγίτσα
+Nisída Palaiá Soúda, Manati Island, Maráthi, Nisis Pal Soudlha, Nisída Palaiósouda, Nisís Palaiá Soúdha, Nisís Palaiósoudha, Paleo Suda, Νησίδα Παλαιά Σούδα, Νησίδα Παλαιόσουδα, Παλαιόσουδα
+Nisída Palaió Tríkeri, Nisos Palaia Trikkeri, Nisídha Palaió Trikéri, Nisís Palaió Tríkeri, Nisís Palaión Tríkerion, Nisís Palió Tríkeri, Nísos Palaiá Tríkkera, Paleo Trikiri
+Nisída Palamída, Nisís Palamídha, Vráchos Palamidás, Νησίς Παλαμίδα
+Nisída Panagiá, Astrís, Fenózi, Mantóna, Nisis Panayia, Nisídha Panayiá, Nisís Mandónna, Nísos Madóna, Panagia Island, Νησίς Παναγία
+Nisída Panagítsa, Nisís Panagítsa, Nisís Panayítsa
 Nisída Pantieronísi, Nisís Pándros, Nísos Pándhros, Panderos, Pandieronísi, Pandros Island, Pantieronísi, Pándieros, Pándros, Παντερονήσι
 Nisída Papadóplaka, Νησίς Παπαδόπλακα, Παπαδόπλακα
 Nisída Pappoús, Nisís Pappoús, Papu, Νησίδα Παππούς, Νησίς Παππούς
-Nisída Paraskopós, Vráchos Próskopos, Νησίς Παρασκοπός
+Nisída Paraskopós, Nisís Paraskopós, Vráchos Próskopos
 Nisída Pasás, Nisis Pasha, Nisídha Pasás, Pasas Island, Phasa Island
 Nisída Patróklou, Gaidaro Island, Gatroklou Kharax, Gaïdhouronísi, Gaïdhouronísion, Gaïdhouróniso, Gáïdharos, Nisís Gaïdouróniso, Nisís Patróklou, Patroclos, Pátroklos, Νησίδα Πατρόκλου, Νησίς Γαϊδουρόνησο, Νησίς Πατρόκλου
-Nisída Patéla, Islet Patella, Isolotto Patella, Nisís Patellidhes, Nisís Patéla, Nisís Patélla, Patélla, Vrachonisída Patelída
-Nisída Paximáda, Nisís Paximáda, Paximadi, Praximada Rock, Tetrápoli, Vrahos Pakimada, Vráchos Paximáda, Vráchos Prasimáda, Vráchos Tetrápolis
+Nisída Patéla, Islet Patella, Isolotto Patella, Nisís Patellidhes, Nisís Patélla, Patélla, Vrachonisída Patelída, Νησίς Πατέλα
+Nisída Paximáda, Paximadi, Praximada Rock, Tetrápoli, Vrahos Pakimada, Vráchos Paximáda, Vráchos Prasimáda, Vráchos Tetrápolis, Νησίς Παξιμάδα
 Nisída Paximádi, Brachonisís Paximádi, Nisís Paximádhion, Nisís Paximádi, Nísos Paximádhi, Paxamadi Island, Paximadi, Paximádhi Islet, Βραχονησίς Παξιμάδι
 Nisída Pelagoúsa, Nisís Pelagoúsa, Vrachonisída Pelagoúsa, Νησίδα Πελαγούσα, Νησίς Πελαγούσα
 Nisída Perapigádi, Nisís Liyiá, Nisís Perapigádhi
 Nisída Pergoúsa, Isola di Perigusa, Nisis Pegusa, Nisís Pergoúsa, Nísos Rigoúsa, Pirgoúsa, Rigoúsa, Vrachonisída Pergoúsa, Νησίδα Περγούσα, Νησίς Περγούσα
 Nisída Peristéri, Nisís Peristéri, Peristéri Island
 Nisída Petaloú, Nisís Petaloú, Nísos Petalós, Petallis Island, Νησίδα Πεταλού
-Nisída Petalás, Nisís Petalá, Petala, Νησίς Πεταλάς
-Nisída Petalída, Nisís Petalídha, Petalídha Island, Vrachonisís Petalída, Νησίς Πεταλίδα, Πεταλίδα
+Nisída Petalás, Nisís Petalá, Nisís Petalás, Petala
+Nisída Petalída, Nisís Petalída, Nisís Petalídha, Petalídha Island, Vrachonisís Petalída, Πεταλίδα
 Nisída Petalídi, Nisís Petalídha, Nisís Petalídhi, Nisís Petalídi, Nisís Pépa, Pepanísi, Petaleitha, Petalídha, Vrachonisída Petalídi, Vrachonisída Pépa, Vrachonisís Petalídi, Vrachonisís Pépa, Vrákhos Pépa
 Nisída Petoúsi, Nisís Petoúsa, Nisís Petoúsi, Nisís Yetoúsa, Petusi Island, Νησίδα Πετούσι, Νησίς Πετούσι
-Nisída Petrokáravo, Nisís Petrokáravo, Petra Karavo, Petro Karavi, Petro Kargo, Petrokáravo, Vrachonisís Petrokáravo
+Nisída Petrokáravo, Petra Karavo, Petro Karavi, Petro Kargo, Petrokáravo, Vrachonisís Petrokáravo, Νησίς Πετροκάραβο
 Nisída Petrothálassas, Nísos Thalassópetra, Νησίς Πετροθάλασσας
-Nisída Petási, Nisís Petássi, Νησίς Πετάσι
+Nisída Petási, Nisís Petási, Νησίς Πετάσσι
 Nisída Piganoúsa, Island Pega, Nisis Piganusa, Nisís Piganoús Peganoúsi, Nisís Piganoúsa, Pega, Peganoúsa, Peganusa, Vrachonisída Piganoússa, Vrachonisída Pégka, Vrachonisída Pénga, Νησίδα Πηγανούσα, Νησίς Πηγανούσα
 Nisída Piláfi, Isolotto Pilavi, Nisís Piláfi, Pilavi Adası, Piláfi, Scoglio Pilavi, Vrachonisída Agíou Foká, Vrachonisída Piláfi
 Nisída Pipéri, Nísos Pipéri, Nísos Pipérion, Ávatos, Νησίς Πιπέρι
-Nisída Piáto, Isola Piatta, Piatta Adası, Vrachonisída Piáto, Νησίς Πιάτο
+Nisída Piáto, Isola Piatta, Nisís Piáto, Piatta Adası, Vrachonisída Piáto
 Nisída Plakoulíthra, Naftílos, Nisís Plakoulíthra, Vrákhos Navtílos, Ναυτίλος, Νησίδα Πλακουλήθρα, Νησίς Πλακουλήθρα
-Nisída Plakí, Plakí, Vrachonisída Plakí, Vrachonisís Plakí, Νησίς Πλακί
-Nisída Plakída, Isolotto Placida, Nisís Plakiá, Nisís Plakída, Nisís Plakídha, Vrachonisída Plakída
+Nisída Plakí, Nisís Plakí, Plakí, Vrachonisída Plakí, Vrachonisís Plakí
+Nisída Plakída, Isolotto Placida, Nisís Plakiá, Nisís Plakídha, Vrachonisída Plakída, Νησίς Πλακίδα
 Nisída Planítis, Nisís Planoudhi, Planitis Island, Planoúdi, Planoúthi, Planumi, Νησίς Πλανήτης, Πλανούδι
-Nisída Plateiá, Nisídha Platí, Nisís Plateiá, Nisís Platourádha, Nisís Platí, Nísos Piatia, Plateiá, Plati Island, Platiá Islet, Platouráda, Vrachonisís Astéri, Vrachonisís Plateiá, Vráchos Nisáki, Πλατουράδα
-Nisída Platý, Mikró, Nekró, Nisís Platí, Plati Island, Νησίς Πλατύ
+Nisída Plateiá, Nisídha Platí, Nisís Platourádha, Nisís Platí, Nísos Piatia, Plateiá, Plati Island, Platiá Islet, Platouráda, Vráchos Nisáki, Βραχονησίς Αστέρι, Βραχονησίς Πλατειά, Νησίς Πλατεία, Πλατουράδα
+Nisída Platý, Mikró, Nekró, Nisís Platí, Nisís Platý, Plati Island
 Nisída Plevró, Nisís Plevró, Plaronísi, Plero, Plevró islet, Νησίδα Πλευρό, Νησίς Πλευρό
-Nisída Pláka, Plaka Adası, Plati Adası, Vrachonisída Platý, Νησίς Πλάκα
-Nisída Pláti, Isolotto Plati, Nísos Pláty, Plati Island, Plati Islet, Vrachonisída Pláti, Βραχονησίς Πλάτη, Νησίς Πλάτη
+Nisída Pláka, Nisís Pláka, Plaka Adası, Plati Adası, Vrachonisída Platý
+Nisída Pláti, Isolotto Plati, Nísos Pláty, Plati Island, Plati Islet, Vrachonisída Pláti, Vrachonisís Pláti, Νησίς Πλάτη
 Nisída Polýrrichos, Nisís Polírikhos, Nisís Polýrrichos, Palir
-Nisída Pontikonísi, Artemisía, Muli, Nisídha Pondikonísion, Nisís Pondikonísion, Nisís Pondikónisos, Nisís Pontikonísi, Nisís Pontikonísion, Pondikonísi, Pondikonísion, Pondikó, Pondikóniso, Pondikós, Pontiko Island, Πεταλίδα
+Nisída Pontikonísi, Artemisía, Muli, Nisídha Pondikonísion, Nisís Pondikonísion, Nisís Pondikónisos, Pondikonísi, Pondikonísion, Pondikó, Pondikóniso, Pondikós, Pontiko Island, Νησίς Ποντικονήσι, Νησίς Ποντικονήσιον, Πεταλίδα
 Nisída Pontikoúsa, Isola di Ponticusa, Nisís Pondikoúsa, Nisís Pontikoúsa, Pontikutha Islet, Tópi, Vrachonisída Pontikoússa, Νησίδα Ποντικούσα, Νησίς Ποντικούσα
 Nisída Pontikáki, Nisís Pondikáki, Pondikáki Island, Ποντικάκι
 Nisída Pontikós, Nisís Pondikónison, Nisís Pondikós, Nisís Pontikós, Nísos Pondikonísi, Pondiko Island, Ποντικός
-Nisída Porióni, Nisís Porio, Vrachonisída Koutsoumpoú, Νησίς Ποριόνη
+Nisída Porióni, Nisís Porio, Nisís Porióni, Vrachonisída Koutsoumpoú
 Nisída Porí, Nisís Porí
 Nisída Pothitó, Pothitó, Βράχος Ποθητό, Νησίς Ποθητό
 Nisída Prasológos, Erimo Nisi, Lismoni Islet, Nisís Prasológos, Vrachonisída Erimonísi, Vrachonisída Lismoní, Vrachonisída Prasológos, Vrachonisída Prassológos, Vrahonisis Prasologos, Vrakhonisídha Prassológos
-Nisída Prasonísi, Nisís Poríon, Pori Rock, Práso Island, Vrachonisís Porí, Νησίς Πρασονήσι
+Nisída Prasonísi, Nisís Poríon, Pori Rock, Práso Island, Βραχονησίς Πορί, Νησίς Πρασονήσι
 Nisída Prasoúda, Kaló Nisáki, Nisís Prasoúda, Nisís Prasoúdha, Nísos Prasoúdhi, Prasoúdha islet, Prasoúdhi, Prassuda, Prassudo Island, Prasuda, Scoglio Prassuda, Vrachonisída Prassoúda, Νησίδα Πρασούδα, Νησίς Πρασούδα
 Nisída Prasoúdi, Nisís Prasoúdhi, Nisís Prasoúdi, Prasoúdhi Island, Νησίδα Πρασούδι, Νησίς Πρασούδι
 Nisída Prováti, Nisís Provatónnison, Nísos Prováti, Provati Island
 Nisída Práso, Nisís Prassoú, Nisís Prásso, Parausa, Praso Islets, Prassonísia, Prásso, Vrachonisídes Prasonísia, Vráchos Práso, Νησίς Πράσο
 Nisída Préza, Nisís Préza, Vrachonisída Préza, Vrachonisís Préza
-Nisída Próti, Nisís Próti, Prodano, Proti Island
-Nisída Psathonísi, Muia, Míya, Nisís Míga, Nisís Psathonísi, Psatho Island, Psathouropoúla, Vrachonisída Psathonísi, Vrachonisís Psathonísi
+Nisída Próti, Prodano, Proti Island, Νησίς Πρώτη
+Nisída Psathonísi, Muia, Míya, Nisís Míga, Psatho Island, Psathouropoúla, Vrachonisída Psathonísi, Vrachonisís Psathonísi, Νησίς Ψαθονήσι
 Nisída Psathoúra, Nisís Psathoúra, Psathura Island, Théousa, Νησίδα Ψαθούρα, Νησίς Ψαθούρα
-Nisída Psathí, Nisís Psathioní, Νησίς Ψαθίον
-Nisída Pseíra, Móchlos, Nisís Pseíra, Psyra
+Nisída Psathí, Nisís Psathioní, Nisís Psathíon
+Nisída Pseíra, Móchlos, Psyra, Νησίς Ψείρα
 Nisída Psomí, Ekmek Adası, Nisís Psomí, Psomi, Strongylo, Vrachonisída Psomí
-Nisída Psoradiá, Domuz Adası, Nisis Pisoradia, Psoradhia, Psoradia, Vrachonisída Psoradiá, Νησίς Ψωραδιά
+Nisída Psoradiá, Domuz Adası, Nisis Pisoradia, Nisís Psoradiá, Psoradhia, Psoradia, Vrachonisída Psoradiá
 Nisída Psyttáleia, Leipsokoutála, Lipsokoutála, Nisís Psittália, Nisís Psyttáleia, Psyttaleia Island
 Nisída Psýllos, Vrachonisís Psýllos
 Nisída Pythoú, Nisís Mikrá, Nisís Pithoú, Nisís Pythoú, Nisís Píra, Pithu Island, Vrakhonisídha Pithoú, Νησίδα Πυθού, Νησίς Πυθού
-Nisída Páchi, Nisís Pákhi, Νησίς Πάχη
+Nisída Páchi, Nisís Páchi, Nisís Pákhi
 Nisída Pámfilon, Nisis Pamfilyon, Nisis Pamtilon, Nisís Pámfillon, Vrachonisída Pámfyllon, Vrakhonisídha Pámfillon, Νησίς Πάμφιλον
 Nisída Páno Prasoúda, Nisís Páno Prasoúda, Vrachonisís Áno Prasoúda, Βραχονησίς Άνω Πρασούδα, Νησίδα Πάνω Πρασούδα, Νησίς Πάνω Πρασούδα
 Nisída Pètras, Petras Island
 Nisída Péra, Νησίς Πέρα
 Nisída Pétalo, Nisís Pétalo, Petalís, Petalós, Stíli Petalo
 Nisída Pístros, Nisís Pistrós, Pistro Island
-Nisída Pítta, Gárgari, Island Pitta, Nisís Pítta, Pita, Vrachonisída Pítta, Vrakhonisís Pétta
+Nisída Pítta, Gárgari, Island Pitta, Pita, Vrachonisída Pítta, Vrakhonisís Pétta, Νησίς Πίττα
 Nisída Pýrgon, Square Rock, Vault Island, Vrahos Ayiyos Vasilies, Vráchos Ágios Vasíleios
 Nisída Ro, Island Giorgio, Kara Ada, Rho, Saint George, Saint Georgio Island, San Goirgia, Νησίς Ρω
 Nisída Romví, Nisís Romví, Nisís Tolón, Nísos Tolós, Tolon Island, Νησίς Τολό
-Nisída Répi, Nisís Répion, Nísos Répi
-Nisída Ríneia, Nisís Eriniá, Nisís Ríneia, Vrakhonisídha Eriniá
+Nisída Répi, Nísos Répi, Νησίς Ρέπιον
+Nisída Ríneia, Nisís Eriniá, Vrakhonisídha Eriniá, Νησίς Ρήνεια
 Nisída Safonídi, Island Saffo, Nisís Safonídhi, Nisís Safonídi, Nísos Safonídi, Saphonidi Island, Sáfo, Vrachonisída Safonídi, Zarafonídhi
 Nisída Samiopoúla, Nisís Samiopoúla, Nisís Samiópoulo, Nísos Samiopoúla, Samo Pulo Island, Samópoulo, Siamopoúla, Siamópoulo, Νησίδα Σαμιοπούλα, Νησίς Σαμιοπούλα
-Nisída Sapiéntza, Νησίς Σαπιέντζα
+Nisída Sapiéntza, Nisís Sapiéntza
 Nisída Sarakinó, Nisís Sarakinonísi, Nisís Sarakiná, Nísos Sarakinó Piáto, Sarakinonísi, Sarakinó, Νησίς Σαρακηνό
 Nisída Sariá, Nisis Sariya, Nisís Sáros, Sária Island, Sávos, Νησίς Σαριά
 Nisída Saráki, Isolotto Saraceno, Nisís Sarakianos, Vrachonisída Saráki, Νησίς Σαράκι
@@ -4286,67 +4286,67 @@ Nisída Savoúra, Nisís Savoúra, Vrachonisída Savoúra, Νησίδα Σαβο
 Nisída Schoinías, Nisís Schoinías, Nisís Skhoinías
 Nisída Schíza, Cabrera, Nisída Skhíza, Nisís Skhíza, Skitza, Νησίς Σχίζα
 Nisída Serfopoúla, Nisís Serfopoúla, Nísos Serifoúla, Serifópoulo, Serifópoulon, Seriphopulo, Νησίδα Σερφοπούλα, Νησίς Σερφοπούλα
-Nisída Sesklí, Nisís Sesklí, Nisís Sesklío, Nisís Sesklíon, Sescli, Seskli Island
+Nisída Sesklí, Nisís Sesklío, Nisís Sesklíon, Sescli, Seskli Island, Νησίς Σεσκλί
 Nisída Sfondýli, Nisís Sfondíli, Nisís Sfondýli
 Nisída Sfíka, Nisís Sfínga, Sphika, Νησίς Σφήκα
-Nisída Sfýrna, Nisís Sfírna, Scoglio Sfira, Sphyrna, Βραχονησίς Σφύρνα, Νησίς Σφύρνα
+Nisída Sfýrna, Nisís Sfírna, Scoglio Sfira, Sphyrna, Vrachonisís Sfýrna, Νησίς Σφύρνα
 Nisída Siderítis, Kaséno, Nisís Seryítsi, Serytsi Island, Siderites Island, Siderítes, Sidheritis Island, Sidherítis, Sidirites, Vrachonisída Sergítsi, Vrakhonisís Sidherítes, Νησίς Σιδερίτης
-Nisída Skantíli, Nisís Skandíli, Nisís Skandílion, Nísos Skandílion, Νησίς Σκαντίλι
+Nisída Skantíli, Nisís Skandíli, Nisís Skandílion, Nisís Skantíli, Nísos Skandílion
 Nisída Skorpiós, Nisís Skorpiós, Skorpionísi, Skropio Island, Σκορπιός
 Nisída Skorpídi, Nisís Skorpídhion, Nísos Skorpídhi
 Nisída Skrofopoúla, Nisís Skrofopoúla, Νησίδα Σκροφοπούλα, Νησίς Σκροφοπούλα
 Nisída Skrófa, Νησίς Σκρόφα
-Nisída Skyllí, Nisís Skillí, Nisís Skilí, Nisís Skyllí, Nísos Skilí
+Nisída Skyllí, Nisís Skillí, Nisís Skilí, Nísos Skilí, Νησίς Σκυλλί
 Nisída Skyropoúla, Nisídha Skiropoúla, Nisís Skiropoúla, Nisís Skyropoúla, Skyropulo, Skyropulon Island, Νησίδα Σκυροπούλα, Νησίς Σκυροπούλα
 Nisída Skántzoura, Nisís Skántzoura, Nísos Skándzoura, Skantzura, Νησίδα Σκάντζουρα, Νησίς Σκάντζουρα
-Nisída Skógio, Kuchula, Nisís Skógio, Skógio, Vrachonisída Skókia, Vrakhonisídha Skókia
+Nisída Skógio, Kuchula, Skógio, Vrachonisída Skókia, Vrakhonisídha Skókia, Νησίς Σκόγιο
 Nisída Skýlla, Nisís Skílla, Nisís Skýlla
-Nisída Sochás, Nisís Sochás, Vrachonisída Sochás
+Nisída Sochás, Vrachonisída Sochás, Νησίς Σοχάς
 Nisída Sofía, Isle of Gaia, Sophia Island, Νησίς Σοφία, Σοφιά
-Nisída Sorós, Νησίς Σωρός
+Nisída Sorós, Nisís Sorós
 Nisída Soupiá, Nisís Sipía, Nisís Soupiá, Nísos Soupiá, Νησίδα Σουπιά, Νησίς Σουπιά
 Nisída Spanopoúla, Nisís Spanopoúla, Nisís Spanó, Spano Island, Spanopoúla, Νησίδα Σπανοπούλα, Νησίς Σπανοπούλα
 Nisída Spathí, Nisís Spathí
 Nisída Spetsopoúla, Nisís Spetsopoúla, Spetsai Pulo, Spezziapulo, Νησίδα Σπετσοπούλα, Νησίς Σπετσοπούλα, Σπετσοπούλα
 Nisída Spárti, Nisís Spárti, Sparti Island
-Nisída Stachtorógi, Nisís Stachtorrói, Nisís Stachtorógi, Nisís Stakhteró, Nisís Stakhtorrói, Nisís Stakhtorróyi, Nisís Stakhtoróyi, Staktoroyá
+Nisída Stachtorógi, Nisís Stakhteró, Nisís Stakhtorrói, Nisís Stakhtorróyi, Nisís Stakhtoróyi, Staktoroyá, Νησίς Σταχτορρόη, Νησίς Σταχτορόγη
 Nisída Stamfáni, Nisís Stamfáni, Stamfáni, Stamphani
 Nisída Stavronísi, Nisís Stavronísi, Nisís Stavrós, Nísos Stavrónison, Stavro Island, Stavrónisos, Νησίδα Σταυρονήσι, Νησίς Σταυρονήσι, Νησίς Σταυρός
 Nisída Stavrí, Isolotto Stavri, Nisís Stavrí, Stavri Adası, Vrachonisída Stavrí, Νησίδα Σταυρί, Νησίς Σταυρί
 Nisída Stavrós, Nisís Stavrós, Stavro, Vrákhos Stavrós, Νησίδα Σταυρός, Νησίς Σταυρός
-Nisída Stefanía, Isolotto Stefania, Nisís Stefanya, Nisís Stefanía, Vrachonisída Stefanía
+Nisída Stefanía, Isolotto Stefania, Nisís Stefanya, Vrachonisída Stefanía, Νησίς Στεφανία
 Nisída Strongylí, Hypsili, Hypsili Island, Ipsili, Island Strongili, Island Strongyli, Isola Strongilli, Isola Strongilo, Isolotto Strongili, Nisís Strongiló, Nisís Strongilón, Nisís Strongylí, Nisís Strongyló, Nísos Strongillí, Nísos Strongiló, Stronghyli, Strongilo-nisi, Strongiló, Strongolio Island, Strongylo, Vrachonisída Strongylí, Vrachonisída Ypsilí, Vrachonisís Strongylí, Vrachonisís Strongyló, Vrahos Strangilo, Ypsili, Çam Adasi, Βραχονησίς Στρογγυλή, Βραχονησίς Στρογγυλό, Νησίδα Στρογγυλή, Νησίδα Στρογγυλό, Νησίς Στρογγυλή, Νησίς Στρογγυλό, Στρογγυλή, Στρογγυλή Μεγίστης
-Nisída Strongyló, Nisís Strongilo, Nisís Strongilón, Nisís Strongylón, Nisís Strongýlo, Nísos Strongili, Nísos Strongiló, Strongilo, Strongilo Adası, Strongiló Islet, Strongylo, Strongylo Island, Strongyto, Vrachonisís Strongyló, Βραχονησίς Στρογγυλό, Νησίδα Στρογγύλο, Νησίς Στρογγυλόν, Νησίς Στρογγύλο
+Nisída Strongyló, Nisís Strongilo, Nisís Strongilón, Nisís Strongyló, Nisís Strongylón, Nísos Strongili, Nísos Strongiló, Strongilo, Strongilo Adası, Strongiló Islet, Strongylo, Strongylo Island, Strongyto, Vrachonisís Strongyló, Βραχονησίς Στρογγυλό, Νησίδα Στρογγυλό, Νησίς Στρογγυλόν, Νησίς Στρογγύλο
 Nisída Stróvili, Nisis Strovilo, Nísos Strofíli, Vrachonisída Stróvilo, Νησίς Στρόβιλι
 Nisída Stýra, Nisís Stíra, Nisís Stýra, Stoúra, Stura
 Nisída Sáliagkos, Mesakó Nisáki, Nisída Sálagko, Nisís Sálagko, Sálango, Νησίς Σάλιαγκος
-Nisída Sáranta, Nisís Komma, Nisís Saránda, Nisís Sáranta
+Nisída Sáranta, Nisís Komma, Nisís Saránda, Νησίς Σάραντα
 Nisída Sélli, Vráchos Sélli, Νησίς Σέλλι
 Nisída Sésoula, Nisís Sésoula, Sesola Rock, Sésoula Rock, Vráchos Sésoula, Νησίδα Σέσουλα
 Nisída Sídero, Nisís Sídhero, Sidero Island, Strongylo, Strongyló Nisí, Vráchos Síderos, Στρογγύλο
 Nisída Sýla, Nisís Sýla, Vrachonisída Síal
-Nisída Sýrna, Nisís Sirna, Nisís Sirína, Nisís Sýrna, Nísos Sirnai, Nísos Sýrna, Seirína, Sirina, Syrina, Áyios Ioánnis
+Nisída Sýrna, Nisís Sirna, Nisís Sirína, Nísos Sirnai, Nísos Sýrna, Seirína, Sirina, Syrina, Áyios Ioánnis, Νησίς Σύρνα
 Nisída Sývota, Moúrtos, Moúrtzo, Nisís Moúrtos, Nisís Moúrtzo, Nisís Mávro Óros, Nisís Sývota, Nísos Mávron Óros, Nísos Sívota, Sivota Island, Sívoto, Σύβοτα
 Nisída Tampoúrlo, Nisís Tamboúrlo, Nisís Tamboúrlon, Nisís Tampoúrlon, Nisís Trákhilos, Νησίδα Ταμπούρλο, Νησίς Ταμπούρλον
 Nisída Thasopoúla, Nisís Thasopoúla, Thaso Pulo, Thasopulo, Νησίδα Θασοπούλα
 Nisída Theodoropoúla, Νησίδα Θεοδωροπούλα
-Nisída Theodóras, Nisís Theodhóras, Nisís Theodóras
+Nisída Theodóras, Nisís Theodhóras, Νησίς Θεοδώρας
 Nisída Thiliá, Nisís Thiliá
 Nisída Thirasía, Nisís Thirasía, Νήσος Θηρασία
 Nisída Tholí, Nisís Éxo Loúros, Νησίς Θολή
 Nisída Thymaináki, Diminaki Adası, Feminaki Adası, Vrachonisída Thymaináki, Νησίς Θυμαινάκι
-Nisída Tigáni, Nisís Tigáni, Tigani Island, Tigána, Vrachonisída Tigáni, Vrachonisís Tigáni
+Nisída Tigáni, Tigani Island, Tigána, Vrachonisída Tigáni, Vrachonisís Tigáni, Νησίς Τηγάνι
 Nisída Toúrna, Nisída Toúrlos, Nisís Toúrlos, Nisís Toúrna, Toúrna, Νησίδα Τούρνα, Νησίς Τούρνα
-Nisída Trachíli, Nisís Trakhíli, Νησίς Τραχήλι
-Nisída Tragonísi, Dhragónisos, Dhrágon, Dragonísi, Nisís Tragonísi, Nísos Dhragonísi
+Nisída Trachíli, Nisís Trachíli, Nisís Trakhíli
+Nisída Tragonísi, Dhragónisos, Dhrágon, Dragonísi, Nísos Dhragonísi, Νησίς Τραγονήσι
 Nisída Tragoúsa, Island Tragusa, Nisís Tragoúsa, Vrachonisís Tragoúsa, Βραχονησίς Τραγούσα, Νησίδα Τραγούσα, Νησίς Τραγούσα
-Nisída Tragónera, Dragonera, Nisis Trogonera, Vrachonisída Tragónera, Νησίς Τραγόνερα
+Nisída Tragónera, Dragonera, Nisis Trogonera, Nisís Tragónera, Vrachonisída Tragónera
 Nisída Troúmpeto, Isolotto Trombetta, Nisís Troúmpeto, Trambeto, Trampeto Island, Troumbéta, Vrachonisída Troúmpetto, Vrachonisís Troúmpetto, Vrakhonisís Troúmbetto, Βραχονησίς Τρούμπεττο, Νησίδα Τρούμπετο, Νησίς Τρούμπετο
 Nisída Trypití, Isolotto Tripiti, Nisís Tripití, Nisís Trypití, Tripiti Island
-Nisída Tráchilos, Nisís Trákhilos, Trachilo, Νησίς Τράχηλος, Τράχηλος
+Nisída Tráchilos, Nisís Tráchilos, Nisís Trákhilos, Trachilo, Τράχηλος
 Nisída Tráfos, Nisís Tráfo, Nisís Tráfos, Trafonísi, Trapho
-Nisída Tríkeri, Nisída Tríkkeri, Nisís Tríkkeri, Νησίς Τρίκερι
-Nisída Trímesa, Νησίς Τρίμεσα
+Nisída Tríkeri, Nisída Tríkkeri, Νησίς Τρίκερι, Νησίς Τρίκκερι
+Nisída Trímesa, Nisís Trímesa
 Nisída Tsaroúchi, Nisís Tsaroúchi, Nisís Tsaroúkhi, Nísos Tsaroúkki, Tsaruchi Island, Νησίδα Τσαρούχι, Νησίς Τσαρούχι
 Nisída Tsougkriá, Nisís Tsougkriá, Nisís Tsoungriá, Nisís Tzoungriáki, Nisís Zogriá, Pacheiá, Pakhía, Zogriaki Island, Zogriá, Νησίδα Τσουγκριά, Νησίς Τσουγκριά
 Nisída Tsoukalás, Nisis Çukalas, Nisís Tsoukalás, Νησίδα Τσουκαλάς, Νησίς Τσουκαλάς
@@ -4361,68 +4361,68 @@ Nisída Valentí
 Nisída Valáxa, Nisídha Valáxa, Nisís Valáxa, Valaksa, Valaxa Island
 Nisída Vardiánoi, Litoa, Nisís Vardhiánoi, Vardiani Island
 Nisída Varvaroúsa, Barbarusa, Bartaroúsa, Nisís Varvaroúsa, Νησίδα Βαρβαρούσα, Νησίς Βαρβαρούσα
-Nisída Vasilikí, Nisís Vasilikí, Vrachonisída Vasilikí
+Nisída Vasilikí, Vrachonisída Vasilikí, Νησίς Βασιλική
 Nisída Vasilikó, Nisís Vasilikón
-Nisída Vasiládi, Nisís Vasiládhi, Nisís Vasiládhion, Νησίς Βασιλάδιον
+Nisída Vasiládi, Nisís Vasiládhi, Nisís Vasiládhion, Nisís Vasiládion
 Nisída Vathí, Nisís Vathí, Nisís Váthis
 Nisída Velopoúla, Belo Pulo, Belopulo, Belópoulo, Kaimeni, Nisís Parapóla, Nisís Velopoúla, Nísos Parapóla, Parapóla, Velopoúla, Βελοπούλα, Νησίδα Βελοπούλα, Νησίδα Παραπόλα, Νησίς Βελοπούλα
-Nisída Venétiko, Nisís Venétiko, Thiganoúsa, Venetico, Venetiko Island, Vrachonisída Venétiko, Vrachonisís Venétiko
-Nisída Visthára, Nisís Vouznára, Νησίς Βισθάρα
+Nisída Venétiko, Thiganoúsa, Venetico, Venetiko Island, Vrachonisída Venétiko, Vrachonisís Venétiko, Νησίς Βενέτικο
+Nisída Visthára, Nisís Visthára, Nisís Vouznára
 Nisída Viókastro, Nisída Ovriókastro, Nisís Ovriókastro, Nisís Viókastro, Nísos Tourkonísia, Turko Island
-Nisída Vlychós, Nisís Vlíkhos, Vlíkos, Vrachonisís Vlychós, Νησίς Βλυχός
+Nisída Vlychós, Nisís Vlychós, Nisís Vlíkhos, Vlíkos, Vrachonisís Vlychós
 Nisída Voliós, Νησίς Βολιός
 Nisída Vourgári, Nisís Vougari, Nisís Vourgári, Vourgári, Vrachonisída Bourgári, Vrachonisís Vourgari, Vurgari, Νησίδα Βουργάρι, Νησίς Βουργάρι
-Nisída Voúvalos, Nisís Vathílonga, Nisís Vouvála, Nisís Voúvalos, Vathýlogka, Vouvalos Island, Νησίδα Βούβαλος, Νησίς Βούβαλος
-Nisída Vraóna, Nisís Vraóna
-Nisída Vriókastri, Nisís Vriokastráki, Nisís Vriókastri
+Nisída Voúvalos, Nisís Vathílonga, Nisís Vouvála, Nisís Voúvalos, Vouvalos Island, Βαθύλογκα, Νησίδα Βούβαλος, Νησίς Βούβαλος
+Nisída Vraóna, Νησίς Βραώνα
+Nisída Vriókastri, Nisís Vriokastráki, Νησίς Βριόκαστρι
 Nisída Vróma, Νησίς Βρόμα
-Nisída Vrómonas, Nisís Prómonas, Nisís Vrómonas, Nísos Vromonnisós, Nísos Vromóna, Prómonas, Vrachonisís Vrómonas, Vromona Island, Vrómonas
-Nisída Vági, Vráchos Vái, Νησίς Βάγι
-Nisída Vátos, Nisídha Vátos, Νησίς Βάτος
-Nisída Véntza, Nisís Véndza, Nisís Véntza, Nísos Véntza, Véntza
-Nisída Vído, Nisís Vídho, Nisís Vídhon, Nisís Vído, Nísos Vídho, Nísos Vídhos, Ptikhía, Ptychía, Vido Island
+Nisída Vrómonas, Nisís Prómonas, Nísos Vromonnisós, Nísos Vromóna, Prómonas, Vrachonisís Vrómonas, Vromona Island, Vrómonas, Νησίς Βρόμωνας
+Nisída Vági, Nisís Vági, Vráchos Vái
+Nisída Vátos, Nisídha Vátos, Nisís Vátos
+Nisída Véntza, Nisís Véndza, Nísos Véntza, Βέντζα, Νησίς Βέντζα
+Nisída Vído, Nisís Vídho, Nisís Vídhon, Nisís Vído, Nísos Vídho, Nísos Vídhos, Ptikhía, Vido Island, Πτυχία
 Nisída Vóïdi, Nisís Vóïdhi, Trénda-Nóve, Trénta-Nóve
-Nisída Xolítharo, Nisís Exolítharo, Nísos Mármaron, Vrakhonisís Mármaro, Vrákhos Marmára, Vrákhos Éxo Lithári, Éxo Lithári, Βράχος Μάρμαρο
+Nisída Xolítharo, Nisís Exolítharo, Nísos Mármaron, Vrakhonisís Mármaro, Vráchos Mármaro, Vrákhos Marmára, Vrákhos Éxo Lithári, Éxo Lithári
 Nisída Xéra
 Nisída Xéra Agíou Miná, Nisís Xéra Agíou Miná, Vráchos Xéra tou Agíou Miná, Νησίδα Ξέρα Αγίου Μηνά, Νησίς Ξέρα Αγίου Μηνά
-Nisída Xýlo, Skilo Rock, Vráchoi Skýlos, Vráchoi Xýlos, Νησίς Ξύλο
+Nisída Xýlo, Nisís Xýlo, Skilo Rock, Vráchoi Skýlos, Vráchoi Xýlos
 Nisída Ypsilí, Efíra, Hypsili, Nisís Ipsilí, Νησίς Υψηλή
-Nisída Zoodóchos Pigí, Nisís Zoödhókhos Piyí, Nísos Panayía, Νησίς Ζωοδόχος Πηγή
+Nisída Zoodóchos Pigí, Nisís Zoodóchos Pigí, Nisís Zoödhókhos Piyí, Nísos Panayía
 Nisída Zouráfa, Ladhóxera, Ladóxera, Nisis Zurafa, Nisís Zouráfa, Vrachonisída Zouráfa, Zarafra, Zarasra, Zurafa Rocks, Νησίδα Ζουράφα
 Nisída Ágioi Pántes, Nisís Áyioi Pándes, Pyrra, Pyrrha, Νησίς Άγιοι Πάντες
 Nisída Ágios Achílleios, Nisís Áyios Akhíllios
 Nisída Ágios Andréas, Andhréas, Andrea, Andréas, Islet Andrea, Nisís Louvardhári, Nísos Ayíos Andhréas, Scoglio Andrea, Vrachonisída Ágios Andréas, Vrachonisís Ágios Andréas, Vrahos Ayiyos Andreas, Νησίς Άγιος Ανδρέας
 Nisída Ágios Antónios, Ayios Antonios Island, Isola di San Antonio, Isolotto San Antonio, Nisís Ayjos Andónios, Nisís Áyios Andónios, Scoglio Sant' Antonio, Vrachonisída Ágios Antónios, Vrachonisís Ágios Antónios, Áyios Andónios, Νησίς Άγιος Αντώνιος
-Nisída Ágios Artémios, Saint Artemios Island, Áyios Artémios, Νησίς Άγιος Αρτέμιος
-Nisída Ágios Athanásios, Stafídha, Áyios Athanásios, Νησίς Άγιος Αθανάσιος
+Nisída Ágios Artémios, St. Artemios Island, Áyios Artémios, Νησίς Άγιος Αρτέμιος
+Nisída Ágios Athanásios, Nisís Ágios Athanásios, Stafídha, Áyios Athanásios
 Nisída Ágios Dimítrios, Nisís Ágios Dimítrios, Nisís Áyios Dhimítrios
 Nisída Ágios Fokás, Nisís Ayía Foká, Nisís Ágios Fokás, Nisís Áyios Fokás
-Nisída Ágios Geórgios, Georgio, Georgio Adası, Isolotto San Giorgio, Nisís Ayíou Yeoryíou, Nisís Ágios Geórgios, Nísos Ayíou Yeoryíou, Nísos Áyios Yeoryio, Palaiá Salamís, Saint Georgio, St. George's Island, Vrachonisís Ágios Geórgios
+Nisída Ágios Geórgios, Georgio, Georgio Adası, Isolotto San Giorgio, Nisís Ayíou Yeoryíou, Nisís Ágios Geórgios, Nísos Ayíou Yeoryíou, Nísos Áyios Yeoryio, Palaiá Salamís, Saint George's Island, Saint Georgio, Vrachonisís Ágios Geórgios
 Nisída Ágios Geórgios Pétras, Nisis Petra, Nisída Pétra, Petras Islet, Νησίς Άγιος Γεώργιος Πέτρας
-Nisída Ágios Ioánnis, Nisís Ioánnis, Nísos Ioannis, Nísos Áyios Yiánnis, Vrachonisís Ágios Ioánnis, Νησίς Άγιος Ιωάννης
+Nisída Ágios Ioánnis, Nisís Ioánnis, Nisís Ágios Ioánnis, Nísos Ioannis, Nísos Áyios Yiánnis, Vrachonisís Ágios Ioánnis
 Nisída Ágios Isídoros, Nisis Ayiyos İsidoros, Sidero Island
 Nisída Ágios Konstantínos, Vrachonisída Ágios Konstantínos, Áyios Konstandínos, Νησίς Άγιος Κωνσταντίνος
 Nisída Ágios Louká, Nisís Ágios Louká, Nisítou Ayíou Louká, Áyios Loukás, Νησίδα Άγιος Λουκά, Νησίς Άγιος Λουκά
-Nisída Ágios Nikólaos, Ayanikolas Adası, Nisídha Áyios Nikólaos, Nisís Ayíou Nikoláou, Nísos Áyios Nikólaos, Saint Nikolo, Saint Nikolo Island, San Nikolo, San Nikolo Island, Skinári, Vrachonisís Ágios Nikólaos
+Nisída Ágios Nikólaos, Ayanikolas Adası, Nisídha Áyios Nikólaos, Nisís Ayíou Nikoláou, Nísos Áyios Nikólaos, Saint Nikolo, Saint Nikolo Island, San Nikolo, San Nikolo Island, Skinári, Βραχονησίς Άγιος Νικόλαος
 Nisída Ágios Panteleímonas, Aghios Panteleimon, Nisis Mandraki, Nisída Mandráki, Nisída Panteleímona, Nisída Panteleímonos, Nisís Ágios Panteleímon
-Nisída Ágios Pétros, Nisís Pétros, Nísos Pétros, Petronísi, Βραχονησίς Πετρονήσι, Νησίς Άγιος Πέτρος
+Nisída Ágios Pétros, Nisís Pétros, Nisís Ágios Pétros, Nísos Pétros, Petronísi, Βραχονησίς Πετρονήσι
 Nisída Ágios Stéfanos, Aghios Stefanos, Kaloú Liméni, Nisos Ayios Stefanos, Nisís Ágios Stéfanos, Vrachonisída Ágios Stéfanos
 Nisída Ágios Sóstis, Ammódis Nisís Ágios Sóstis, Nisís Ágios Sóstis, Nisís Áyios Sóstis
-Nisída Ágios Theódoros, Island Saint Teodoro, Nisís Áyios Theódhoros, Βραχονησίς Άγιοι Θεόδωροι, Νησίς Άγιος Θεόδωρος
-Nisída Ágios Thomás, Nisís Ágios Thomás, Nisís Áyios Thomás
+Nisída Ágios Theódoros, Island Saint Teodoro, Nisís Ágios Theódoros, Nisís Áyios Theódhoros, Vrachonisís Ágioi Theódoroi
+Nisída Ágios Thomás, Nisís Áyios Thomás, Νησίς Άγιος Θωμάς
 Nisída Ágios Vasíleios, Ayiyos Vasilyos, Nisis Aya Vasilios, Nisos Ayiou Vasiliou, Nisís Áyios Vasílios, Prophylaki Island, Vrachonisída Profylakí, Vrakhonisídha Profilakí, Νησίς Άγιος Βασίλειος
 Nisída Ágria Gramvoúsa, Agria Grabusa, Nisís Ágria Gramvoúsa, Nísos Ágria Gramboúsa, Ágria Graboúsa, Ágria Gramvoúsa, Άγρια Γραμβούσα, Νησίδα Άγρια Γραμβούσα, Νησίς Άγρια Γραμβούσα, Παλαιά Γραμβούσα
-Nisída Ámpelos, Nisís Ambelonísi, Nisís Ovelós, Nisís Ámbelos, Ámbelos Island, Νησίς Άμπελος
+Nisída Ámpelos, Nisís Ambelonísi, Nisís Ovelós, Nisís Ámbelos, Nisís Ámpelos, Ámbelos Island
 Nisída Áno Rematiáris, Nisída Mikrós Rematiáris, Nisís Mikrós Rematiáris, Νησίς Άνω Ρεματιάρης
-Nisída Ánydros, Amorgopoúla, Amorgopula, Anedro, Anedro Island, Anhydron, Anidra Adası, Isolotto Anidro, Nisis Anidro, Nisís Ánidhron, Nisís Ánidhros, Nisís Ánydros, Vrachonisída Ánydro, Ánidhros
-Nisída Árkos, Arkakion Island, Arkiáki, Nisída Árko, Nisís Arkáki, Nisís Árgos, Árko, Νησίς Άρκος
+Nisída Ánydros, Amorgopoúla, Amorgopula, Anedro, Anedro Island, Anhydron, Anidra Adası, Isolotto Anidro, Nisis Anidhros, Nisis Anidro, Nisís Ánidhron, Nisís Ánydros, Vrachonisída Ánydro, Ánidhros
+Nisída Árkos, Arkakion Island, Arkiáki, Nisída Árko, Nisís Arkáki, Nisís Árgos, Nisís Árkos, Árko
 Nisída Árpina, Nisída Árpyia, Nisís Árpyia, Árpyia
-Nisída Ártemis, Nisís Ártemis
+Nisída Ártemis, Νησίς Άρτεμις
 Nisída Áspri Plakoúda, Nisís Áspri Plakoúda, Vráchos Áspri Plakoúda, Νησίδα Άσπρη Πλακούδα, Νησίς Άσπρη Πλακούδα
 Nisída Áspro, Aspro Island, Nisís Asprónisos, Nisís Áspro
 Nisída Átokos, Atoko Island, Nisís Átokos
 Nisída Éxo Diavátis, Exo Diavati, Nisís Exo Dhiavati, Nisís Exo Dhiavátes, Nisís Éxo Dhiavátis, Nisís Éxo Diavátis, Vrakhonisídha Éxo Dhiavátis
-Nisída Éxo Podiés, Nisís Nótio Pódhi, Nisís Nótios Podhi, South Podia Rocks, Stavendo Pódhi, Νησίς Έξω Ποδιές
+Nisída Éxo Podiés, Nisís Nótio Pódhi, Nisís Nótios Podhi, Nisís Éxo Podiés, South Podia Rocks, Stavendo Pódhi
 Nisídes Adelfoí, Adelphae Islands, Adhelfaís, Agios Ioannis Islets, Nisídhes Adhelfaí, Nisídhes Adhelfoi, Nisídhes Adhélfia, Sirina Islets, Vrachonisídes Adélfia
 Nisídes Adélfia, Adhélfia Rocks, Nisídhes Adhélfia, Vrákhoi Adhélfia
 Nisídes Amarántes, Amaridi Rocks, Nisídhes Amarádhes, Vráchoi Amarídes, Vrákhos Amarídhes
@@ -4433,7 +4433,7 @@ Nisídes Diavátes, Isolotti Diavate, Nisídhes Dhiavátes, Thevates Islets, Vra
 Nisídes Dragonéres, Dhrakonérai, Nisídhes Dhragonéres, Vrakhonisídhes Dhragonéras
 Nisídes Drénia, Nísoi Dhrénia
 Nisídes Dýo Adélfia, Nisídhes Dhío Adhélfia, Vrákhoi Dhío Adhelfoí
-Nisídes Falarídes, Falarídha, Nisídai Falarídai, Nísoi Falarídhai
+Nisídes Falarídes, Falarídha, Nísoi Falarídhai, Νησίδαι Φαλαρίδαι
 Nisídes Fária, Vráchoi Fária
 Nisídes Fókies, Fokionísia, Fokonísia, Isole Fochionisia, Isole delle Foche, Isole di Foce, Nisídhes Fokionísia, Nísoi Fókai, Phokeo Nisia, Vrachonisídes Fókies
 Nisídes Fónisses, Vrachonisída Fónisses
@@ -4455,7 +4455,7 @@ Nisídes Moúles, Nisís Moro Moúles, Vrákhos Moró, Νησίδες Μούλε
 Nisídes Mákares, Makari Islands, Makarioe, Makariá, Makáriai, Nisídhes Mákares
 Nisídes Pantieronísia, Pandieronísia, Pantieronísia
 Nisídes Paximádia, Litoai Nísoi, Nisídhes Paximádhia, Paximadia
-Nisídes Peristéria, Nisídhes Peristéria, Βραχονησίδες Περιστέρια
+Nisídes Peristéria, Nisídhes Peristéria, Vrachonisídes Peristéria
 Nisídes Pogoniá, Nisiopoula, Nisídhes Nisópoula, Nisídhes Pogoniá, Poghonia Islets
 Nisídes Poriá, Nisídhes Poriá, Xéres Nísoi
 Nisídes Skláves, Isole Schiave, Scogli Schiave, Skiávi, Sklavaki Isles, Sklavákia, Vráchoi Sklavákia
@@ -4467,7 +4467,7 @@ Nisídes Zervoú, Vrachonisídes Zervoú, Vrakhonisídhes Zervoú, Νησίδε�
 Nisídes Ágios Spyrídon, Nisídes Agíou Spyrídonos, Nisídhes Ayíou Spirídhonos, Nisídhes Spiridhonísi, Spiridioni Rocks, Áyios Spirídhon
 Nisídes Ímia, Ikızce, Kardak Adaları, Nisídhes Ímia, Nísoi Limnia, Vráchoi Ímia, Vrákhoi Ímia, Ίμια, Λίμνια
 Nisídha Aryirónisos, Aryirónisi, Aryirónisos, Nísos Aryirónison, Αργυρόνησο, Αργυρόνησος
-Nisídhes Akrádhies, Akrathi Islands, Nisídhes Akrádhia, Ακραδιές
+Nisídhes Akrádhies, Akradies, Akrathi Islands, Nisídhes Akrádhia
 Nisídhes Kaséles, Nisídhes Kasséles, Κασσέλες, κασέλες
 Nisídhes Stravá
 Nisís Akió, Plataroúdha, Platourádha, Vrakhonisís Petrokáravo
@@ -4532,14 +4532,14 @@ Nisís Áyios Andréas, Saint Andreas Island
 Nisís Áyios Evstáthios, Nísos Piryi, Pyrgui, Saint Evstathios Island, Άγιος Ευστάθιος, Νήσος Άγιος Ευστάθιος
 Nisís Áyios Ioánnis, Ayios Ioánnis Island, Dhrímna
 Nisís Áyios Nikólaos, Vrakhonisís Ayíou Nikoláou
-Nisís Áyios Yeóryios, Hagios Georgios, Nisís Sán Jórji, Nisís Ágios Geórgios, Nísos Ágios Geórgios, Saint Georgios Island, St. Georgio I, Velina, Vélvina, Áyios Yeóryios Belvína
+Nisís Áyios Yeóryios, Hagios Georgios, Nisís Sán Jórji, Nisís Ágios Geórgios, Nísos Ágios Geórgios, Saint Georgio I, Saint Georgios Island, Velina, Vélvina, Áyios Yeóryios Belvína
 Nizok Vrv
 Niárchou Ráchi, Nikárkhou Rákhi, Niárkhou Rákhi, Νιάρχου Ράχη
 Nomarchía Anatolikís Attikís
 Nomarchía Athínas, Nomarchía Athinón, Αθήνα
 Nomós Achaḯas, Akhaḯa, Nomós Akhaḯas
-Nomós Aitolías kai Akarnanías, Aetolia and Acarnania, Aitoloakarnanía, Aitolía kai Akarnanía, Akarnanía and Aitolía, Nomós Aitoloakarnanias
-Nomós Argolídos, Argolís, Nomós Argolídhas, Nomós Argolídhos, Αργολίδα, Νομός Αργολίδας
+Nomós Aitolías kai Akarnanías, Aetolia and Acarnania, Aitoloakarnanía, Aitolía kai Akarnanía, Akarnanía and Aitolía, Νομός Αιτωλοακαρνανίας
+Nomós Argolídos, Argolís, Nomós Argolídas, Nomós Argolídhas, Nomós Argolídhos, Αργολίδα
 Nomós Arkadías, Arcadia, Arkadhía, Arkadía, Nomós Arkadhías
 Nomós Attikís, Attikí
 Nomós Chalkidikís, Chalcidice, Chalkidiki, Halkidikí, Nomós Khalkidhikís
@@ -4547,41 +4547,41 @@ Nomós Chaniás, Chaníon, Khaniá, Nomós Khaníon, Νομός Χανίων
 Nomós Drámas, Nomós Dhrámas, Δράμα
 Nomós Evrytanías, Eurytania, Evritanía, Evrytanía, Nomós Evritanías, Ευρυτανία, Νομός Ευρυτανίας
 Nomós Evvoías, Évvia, Évvoia, Εύβοια, Νομός Εύβοιας
-Nomós Florínis, Florina, Nomós Flórinas
+Nomós Florínis, Flórina, Nomós Flórinas
 Nomós Fokídos, Fokídos, Fokís, Nomós Fokídhas, Nomós Fokídhos, Phocis, Νομός Φωκίδας, Φωκίδα
 Nomós Fthiótidos, Nomós Fthiótidhas, Nomós Fthiótidhos, Phthiotis, Νομός Φθιώτιδας, Φθία, Φθιώτιδα, Φθιώτις
 Nomós Grevenón, Grevena
-Nomós Ileías, Elis Prefecture, Ilia Prefecture, Ilía, Nomós Ilías, Ηλεία
-Nomós Imathías, Imathía
-Nomós Ioannínon, Ioannina, Jannina, Janyina, Joannina, Yanina, Yannina
-Nomós Kardhítsas, Kardhítsa, Kardítsa, Nomós Kardhítsis, Νομός Καρδίτσας, Νομός Καρδίτσης
-Nomós Kastoriás, Kastoria
+Nomós Ileías, Elis Prefecture, Ilia, Ilia Prefecture, Nomós Ilías, Ηλεία
+Nomós Imathías, Imathia
+Nomós Ioannínon, Jannina, Janyina, Joannina, Yanina, Yannina, Ιωάννινα
+Nomós Kardhítsas, Kardhítsa, Kardítsa, Nomós Kardhítsis, Nomós Kardítsas, Νομός Καρδίτσης
+Nomós Kastoriás, Kastoriá
 Nomós Kaválas, Cavalla, Kavala, Kaválla
 Nomós Kerkýras, Korfu, Kérkira, Kérkyra, Nomós Kerkíras
-Nomós Kilkís, Κιλκίς
-Nomós Korinthías, Corinthia, Κορινθία
-Nomós Kozánis, Kozáni
-Nomós Kykládon, Kikládhes, Nomós Kikládhon, Κυκλάδες
+Nomós Kilkís, Kilkís
+Nomós Korinthías, Corinthia, Korinthía
+Nomós Kozánis, Kozani
+Nomós Kykládon, Kikládhes, Kykládes, Nomós Kikládhon
 Nomós Lakonías, La Conia, Laconia, Lakonía, Tsakonia, Zsakonia
-Nomós Larísis, Larissa, Lárisa, Nomós Lárisas
-Nomós Lasithíou, Lassithion, Lasíthi, Νομός Λασιθίου
-Nomós Magnisías, Magnesia, Μαγνησία
+Nomós Larísis, Larissa, Λάρισα, Νομός Λάρισας
+Nomós Lasithíou, Lassithion, Λασίθι, Νομός Λασιθίου
+Nomós Magnisías, Magnesia, Magnisía
 Nomós Messinías, Messenia, Messinía
 Nomós Pierías
 Nomós Piraiós, Piraiévs
-Nomós Prevézis, Prenza, Préveza, Νομός Πρέβεζας
+Nomós Prevézis, Nomós Prévezas, Prenza, Πρέβεζα
 Nomós Péllis, Nomós Péllas, Pella
-Nomós Rethýmnis, Nomós Rethímnis, Nomós Rethímnou, Nomós Rethýmnou, Rethymni, Rethímni, Rethýmnis, Ρέθυμνο
+Nomós Rethýmnis, Nomós Rethímnis, Nomós Rethímnou, Nomós Rethýmnou, Rethymni, Rethymno, Rethímni, Rethýmnis
 Nomós Rodópis, Nomós Rodhópis, Rhodope, Rodhópi, Rodópi
 Nomós Serrón, Sérrai, Sérres
-Nomós Sámou, Samos Prefecture, Sámos, Νομός Σάμου
-Nomós Thesprotías, Nomó Thesprotías, Thespratia, Thesprosia, Θεσπρωτία
+Nomós Sámou, Samos, Samos Prefecture, Νομός Σάμου
+Nomós Thesprotías, Nomó Thesprotías, Thespratia, Thesprosia, Thesprotia
 Nomós Thessaloníkis, Salonica, Salonika, Thessaloniki
-Nomós Voiotías, Viotía, Βοιωτία
+Nomós Voiotías, Viotía, Voiotía
 Nomós Xánthis
 Nomós Zakýnthou, Nomós Zakínthou, Zante, Zákinthos, Νομός Ζακύνθου
 Nomós Ártas, Árta
-Nomós Évrou, Hevros, Έβρος, Νομός Έβρου
+Nomós Évrou, Evros, Hevros, Νομός Έβρου
 North Aegean, Βόρειο Αιγαίο
 Northern Sporades, Northern Sporádhes, Nísoi Voríai Sporádhes, Nísoi Vóries Sporádhes, Nísoi Vórioi Sporádhes, Sporades, Voriai Sporades
 Ntammouchari Beach
@@ -4614,9 +4614,9 @@ Nísoi Laoúses, Eleoúsa, Eleúsa, Lagosa, Lagoúsai, Nisídes Lagoúses, Nisí
 Nísoi Likhádhes, Likhadhonísia, Likhádhes Islands, Lithádhes
 Nísoi Oinoússai, Agnoúses, Agnusi, Egnoúses, Koyun Adaları, Nisoi Inousa, Nísoi Oinoúsai, Nísoi Oinoússes, Oinoúsai Islands
 Nísoi Tselevínia, Kelevini Islands, Nisídes Tselevínia
-Nísos Lésvos, Lesbos Island, Metelino, Midilli, Midillü, Midullu, Mitilíni, Mitylene Island, Mytilene, Mytilíni, Λέσβος
+Nísos Lésvos, Lesbos Island, Lésvos, Metelino, Midilli, Midillü, Midullu, Mitilíni, Mitylene Island, Mytilene, Mytilíni
 Nísos Póros, Kalavría
-Níssos, Islet Nisso, Βραχονησίς Νησάκι
+Níssos, Islet Nisso, Vrachonisís Nisáki
 Níva
 Nótia Áspra, Isolotti Collura, Nisídhes Koloúra, Nótioi Asprónisoi, South Aspra Isles
 Nótio Limáni Mytilínis, Liménas Mytilínis, Mytileni Harbour, Nótios Liménas Mytilínis
@@ -4624,7 +4624,7 @@ Nótio Stenó Kerkýras, Canale Sud, Díavlos Lefkímmis, Notion Stenon, Nótion
 Nótios Evvoikós Kólpos, Egripos Channel, Gulf of Évvoia, Stenon Evripou, Νότιος Ευβοικός Κόλπος
 Nótios Liménas Chalkídas, Nótios Limín, Nótios Limín Chalkídas, Nótios Limín Khalkídhas
 Nýfios
-Ochi, Hagios Ilias, Ocha, Ókhi, Ókhi Óros, Όχη Όρος
+Ochi, Hagios Ilias, Ocha, Óchi Óros, Ókhi, Ókhi Óros
 Ochyró, Kriezótis
 Ochyró Spílio
 Ochyrón, Roupáki Óros, Skáleva
@@ -4632,7 +4632,7 @@ Oinoús Potamós, Kelefína, Oenus River
 Oinoús Réma, Arakhovítiko Réma, Gorylios Potamós, Goryílos Potamós, Góryilos Réma, Οινούς Ρέμα
 Oinóis Réma, Oinóïs Potamós
 Olympus National Park
-Olígyrtos Óros, Olígyrtos, Olíyirtos Óros
+Olígyrtos Óros, Olíyirtos Óros, Ολίγυρτος
 Olúk Réma, Olouk
 Omanité
 Ompóri, Bóris, Ombóri
@@ -4791,7 +4791,7 @@ Pano Vala
 Panormitis Port, Panormitis Ferry Port, Panormitis Harbour
 Panoúsa, Πανούσα
 Pantelehmonas Beach
-Pantokrátor, Korifí Pandokrátor, Pandokrátor, Κορυφί Παντοκράτωρ
+Pantokrátor, Korifí Pandokrátor, Koryfí Pantokrátor, Pandokrátor
 Pantónis
 Paní
 Papa Nero Beach
@@ -4865,7 +4865,7 @@ Patéras Óros, Patera, Patéras
 Pavlogiánni, Pavloyiánni, Παυλογιάννη
 Paxi Port, Ionian Islands Ferry Port, Ionian Islands Harbour
 Paximáda, Paximádha, Paximádhi
-Paxós, Nisí Paxoí, Nísos Paxoí, Paxi, Paxo
+Paxós, Nisí Paxoí, Paxi, Paxo, Νήσος Παξοί
 Paxý Vounó, Grósso, Παχύ Βουνό
 Pazóta
 Pedhiás Drámas, Drama
@@ -4891,13 +4891,13 @@ Peleníkos, Peléniko
 Pelenítsa, Belenítsa
 Pelinaío, Πεληναίον Όρος
 Pelineo
-Peloponnese, Island of Pelops, Morea, Peloponnesos, Peloponnesus, Peloponése, Πελοπόννησος
+Peloponnese, Island of Pelops, Morea, Peloponnesos, Peloponnesus, Peloponése, Pelopónnisos
 Peléka Potamós, Levkós Potamós, Pélekas Potamós
 Penfold Cove
 Pentanísia, Pendanísia, Pendi Nisia Shoal, Vrachonisídes Pentanísia, Vrachonisídes Pentánisos, Vrakhonisídhes Pondanísia
 Pentélis Réma
 Perama Bay
-Perati Island, Nisída Peratí, Nisís Peratí, Vrachonisís Perati
+Perati Island, Nisída Peratí, Nisís Peratí, Βραχονησίς Περατη
 Peratí
 Perdhíki Réma
 Perdikári Réma
@@ -4909,7 +4909,7 @@ Pergandí, Pergantí
 Perifereiakí Enótita Anatolikís Attikís, Anatolikís Attikís
 Perifereiakí Enótita Dytikoú Toméa Athinón, Dytikoú Toméa Athinón, Δυτικού Τομέα Αθηνών, Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών
 Perifereiakí Enótita Dytikís Attikís, Dytikís Attikís
-Perifereiakí Enótita Kalýmnou, Eparchía Kalýmnou, Kálymnos, Περιφερειακή Ενότητα Καλύμνου
+Perifereiakí Enótita Kalýmnou, Eparchía Kalýmnou, Κάλυμνος, Περιφερειακή Ενότητα Καλύμνου
 Perifereiakí Enótita Karpáthou, Eparchía Karpáthou, Κάρπαθος, Περιφερειακή Ενότητα Καρπάθου
 Perifereiakí Enótita Kentrikoú Toméa Athinón, Kentrikoú Toméa Athinón, Κεντρικού Τομέα Αθηνών, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών
 Perifereiakí Enótita Kéas - Kýthnou, Eparchía Kéas, Kéas - Kýthnou, Κέας - Κύθνου, Περιφερειακή Ενότητα Κέας - Κύθνου
@@ -4919,11 +4919,11 @@ Perifereiakí Enótita Notíou Toméa Athinón, Notíou Toméa Athinón, Νοτ�
 Perifereiakí Enótita Náxou, Eparchía Náxou, Νάξος, Περιφερειακή Ενότητα Νάξου
 Perifereiakí Enótita Níson
 Perifereiakí Enótita Peiraiós, Peiraiós
-Perifereiakí Enótita Párou, Eparchía Párou, Πάρος, Περιφερειακή Ενότητα Πάρου
+Perifereiakí Enótita Párou, Eparchía Párou, Páros, Περιφερειακή Ενότητα Πάρου
 Perifereiakí Enótita Ródou, Eparchía Ródou, Περιφερειακή Ενότητα Ρόδου, Ρόδος
 Perifereiakí Enótita Sýrou, Eparchía Sýrou, Sýrou, Περιφερειακή Ενότητα Σύρου, Σύρου
-Perifereiakí Enótita Thíras, Θήρα
-Perifereiakí Enótita Tínou, Tínos, Περιφερειακή Ενότητα Τήνου
+Perifereiakí Enótita Thíras, Thíra
+Perifereiakí Enótita Tínou, Περιφερειακή Ενότητα Τήνου, Τήνος
 Perifereiakí Enótita Voreíou Toméa Athinón, Voreíou Toméa Athinón, Βορείου Τομέα Αθηνών, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών
 Perifereiakí Enótita Ándrou, Eparchía Ándrou, Άνδρος, Περιφερειακή Ενότητα Άνδρου
 Periféreia Protévousis, Greater Athens, Periféreia Protévousas
@@ -5039,7 +5039,7 @@ Platamonas Beach
 Plataneró
 Platanianí
 Plataniás
-Plataniás Potamós, Kerítis Potamós, Plataniás Sopotós
+Plataniás Potamós, Plataniás Sopotós, Κερίτης Ποταμός
 Plataniás Réma
 Platanopótamos, Platanopótamo
 Platanés Réma, SFakoríako
@@ -5071,7 +5071,7 @@ Plaz Pezoúlas, Pezoula Beach, Πλαζ Πεζούλας
 Plaz Votsalákia, Votsalakia Beach, Βοτσαλάκια
 Plaïtianá, Platianá, Πλαϊθιανά
 Plimmýri
-Pliroména, Artzan, Límni Arján, Límni Artzán, Λίμνη Αρζάν, Λίμνη Αρζάνη, Λίμνη Βαφειοχωρίου
+Pliroména, Artzan, Límni Arján, Λίμνη Αρζάν, Λίμνη Αρζάνη, Λίμνη Αρτζάν, Λίμνη Βαφειοχωρίου
 Plomári
 Plákas Réma, Plakos
 Plákes
@@ -5105,11 +5105,11 @@ Poros Port, Poros Ferry Port, Poros Harbour
 Porsíras Réma, Ayíos Dhimitríos Rémma
 Port Agrilithi
 Port Gomenizza, Limáni Igoumenítsas, Liménas Igoumenítsas, Liménas Igoumenítsis, Limín Igoumenítsis, Λιμάνι Ηγουμενίτσας, Λιμένας Ηγουμενίτσας
-Port Ieraka, Limín Iérakos, Pórto Yérakas, Órmos Iérakos, Órmos Yérakas
-Port Kereamathi, Kiriamádhi Bay, Órmos Kiriamádhi, Órmos Kyriamádi
-Port Lindos, Limín Lindhou, Ormískos Líndhos, Ορμίσκος Λίνδος
+Port Ieraka, Limín Iérakos, Pórto Yérakas, Órmos Yérakas, Όρμος Ιέρακος
+Port Kereamathi, Kiriamádhi Bay, Órmos Kiriamádhi, Όρμος Κυριαμάδι
+Port Lindos, Limín Lindhou, Ormískos Líndhos, Ormískos Líndos
 Port Mandraki, Tershaneh
-Port Merika, Mérikha Bay, Órmos Mérikha, Órmos Mérikhas, Όρμος Μέριχας
+Port Merika, Mérikha Bay, Órmos Mérichas, Órmos Mérikha, Órmos Mérikhas
 Port Pagania, Limín Paganiás, Paganiá Harbour, Órmos Paganiás, Λιμάνι Παγανιάς
 Port Panormos
 Port Pogon
@@ -5163,7 +5163,7 @@ Priólithos, Panayía
 Prión, Makoná Rākhi, Makriá Lákka, Makriá Rákhi
 Prióni
 Prliḱ
-Profitis Ilias, Demáti, Dhemáti, Hagia Ilias, Hagios Elias, Hagios Ilias, Kalós, Kratír, Kálamos Ái Liás, Lá Kou, Monte Miasto, Mount Profítis Ilías, Pagoniá, Platanimos, Profítis Ilías Gélpesi, Taxiárkhis, Trépia, Áyios Ilías, Óros Maínalon, Óros Profítis Ilías, Óros Áyios Ilías, Προϕήτης Ηλίας
+Profitis Ilias, Ayios Ilías, Demáti, Dhemáti, Hagia Ilias, Hagios Elias, Hagios Ilías, Kalós, Kratír, Kálamos Ái Liás, Lá Kou, Monte Miasto, Mount Profítis Ilías, Pagoniá, Platanimos, Profítis Ilías Gélpesi, Taxiárkhis, Trépia, Óros Maínalon, Óros Profítis Ilías, Óros Áyios Ilías, Προϕήτης Ηλίας
 Profítis Ilías Oxiás
 Profítis Ilías Trypitís, Profítis Ilías Tripitís
 Proliménas, Leontos Harbour, León Limín, Liména Léontos, Limín Léondos, Proliména, Prolimín, Prolimón, Λιμένας Λέοντος
@@ -5198,11 +5198,11 @@ Psathófyllo, Kóchlakas, Psathofilo, Órmos Tsiropiniá
 Pseftopotamós
 Psifiá
 Psiloritis Natural Park
-Psilorráchi, Psilórrakhi
+Psilorráchi, Psilorrákhi
 Psilovoúni, Máli Fíkhti, Ψηλοβούνι
 Psilá Kotróni
 Psiláfi
-Psilés Koryfés, Psilaí Korifaí, Psilaí Koryfaí, Psilí Korifí
+Psilés Koryfés, Psilaí Korifaí, Psilí Korifí, Ψηλαί Κορυφαί
 Psilí Koryfí, Psilí Korifí, Psiló Stoumári, Psiló Tsimári, Psiló Tsoumári
 Psilí Panagiá, Psilí Panayiá
 Psilí Ráchi, Fterotó, Paliosikiá, Psilí Rákhi, Psilí Rákhis
@@ -5248,7 +5248,7 @@ Pyxariás, Pixariá
 Pákhnes
 Páklara
 Pámisos Potamós, Blioúris, Pamisos  River, Pamisus
-Páneion Óros, Keratovoúni, Pánion Óros, Κερατοβούνι, Πάνειον
+Páneion Óros, Keratovoúni, Páneion, Pánion Óros, Κερατοβούνι
 Páos Potamós, Páos Xeró
 Párnis Óros, Ozea, Parnes
 Párnonas Óros, Párnon Óros, Párnonas
@@ -5259,7 +5259,7 @@ Pátermos Réma, Pádermos, Pátermos Potamós
 Pátoma
 Pávlos
 Pávlou Réma, Παύλου Ρέμα
-Páïko Óros, Payak Planina, Póglet, Πάϊκον Όρος
+Páïko Óros, Payak Planina, Páïkon Óros, Póglet
 Pénte Vrýses
 Péra Dimoúri, Πέρα Διμούρη
 Péra Lakkós, Lakkovoúni, Lakovoúni
@@ -5320,7 +5320,7 @@ Reveníkos Réma
 Revmatonísi, Boudariá, Budaria Islet, Nisída Remmatonísi, Nisís Remmatonísi, Remmatonísi, Ρευματονήσι
 Rezénikos
 Rhamnonte
-Rhodes, Nisí Ródos, Nísos Ródhos, Ródhos, Ródos, Νίσος Ρόδος
+Rhodes, Nísos Ródhos, Ródhos, Νίσος Ρόδος, Νησί Ρόδος, Ρόδος
 Rhodes Channel, Stenó Ródou, Stenón Ródou, Στενό Ρόδου, Στενόν Ρόδου
 Rhodes Ferry Port, Rhodes Harbour
 Rhodope Mountains, Despoto Dagh, Dospad Dagh, Orosirá Rodhópis, Rhodope Gebirge, Rhodopen, Rodhópi Mountains, Rodhópi Óri, Rodope Oros, Rodopi
@@ -5457,7 +5457,7 @@ Samar
 Samaríta
 Samos Port, Samos Ferry Port, Samos Harbour
 Samos Strait, Dhíavlos tís Sámou, Díavlos Sámou, Mykális, Samos Boghaz, Samos Channel, Sisam Boğazı, Stená Sámou, Stenó Sámou, Stenón Sámou, Strait of Samos
-Samothrace, Nisos Samotraki, Nísos Samothráki, Samothrace Island, Samothracia, Samothrákē, Semendrek, Νησί Σαμοθράκι, Σαμοθράκη
+Samothrace, Nisos Samotraki, Nísos Samothráki, Samothrace Island, Samothracia, Samothráki, Samothrákē, Semendrek, Νησί Σαμοθράκι
 Samári
 Samítos
 Sandorini Point
@@ -5465,7 +5465,7 @@ Sandy Cove
 Sangiás Óros, Sangiás, Σαγγιάς, Σαγγιάς Όρος
 Sant Rock
 Santoméri, Sandaméri, Sandoméri, Skóllis Óri, Sárllis Óros, Óros Skóllis
-Santorini Island, Kallísti, Nísos Santoríni, Nísos Thíra, Phira, Sandoríni, Santorin, Santorini, Thēra, Θήρα, Νησί Θήρα, Νησί Σαντορίνη
+Santorini Island, Kallísti, Nisí Thíra, Nísos Santoríni, Nísos Thíra, Phira, Sandoríni, Santorin, Santorini, Thíra, Thēra, Νησί Σαντορίνη
 Santorini Port, Santorini Ferry Port, Santorini Harbour
 Santova beach
 Sanídha
@@ -5474,7 +5474,7 @@ Sapounórrema
 Saraceniko Point
 Sarakiniótikos Potamós, Sarakinitotikos Potamós
 Sarakinoú, Σαρακινού
-Sarakinópetra, Vrachonisída Sarakinópetra
+Sarakinópetra, Βραχονησίδα Σαρακηνόπετρα
 Sarakíniko, Sarakiniko Bay, Όρμος Σαρακήνικου
 Sarandapótamos
 Sarandar
@@ -5490,7 +5490,7 @@ Saronic Gulf, Gulf of Aegina, Gulf of Athens, Saronikos Gulf, Σαρονικός
 Saïtanioú Réma, Σαϊτανιού Ρέμα
 Schinonísi, Platilo, Skhinonisi, Skinonísi, Skíno
 Schinoussa Port, Schinoussa Ferry Port, Schinoussa Harbour
-Schistonísi, Nisís Skhistó, Skhistonísion, Skhistó Island, Skisto Island, Νησίς Σχιστό
+Schistonísi, Nisís Schistó, Nisís Skhistó, Skhistonísion, Skhistó Island, Skisto Island
 Scholí
 Schoínos
 Secca Chelia, Khelia Rock, Ífalos Khélia
@@ -5547,7 +5547,7 @@ Simádi, Korifí Lemoní Rákhi, Óros Simadhi
 Simíniko
 Simódi, Simódhi
 Simókrino
-Siniátsiko, Siniátsikon, Áskion Óros, Όρος Άσκιο
+Siniátsiko, Siniátsikon, Áskion Óros, Óros Áskio
 Sinánion
 Sioútsa Réma
 Sipotó Réma
@@ -5572,7 +5572,7 @@ Skasméni Pétra
 Skepastó
 Skhíza
 Skiadovoúni, Σκιαδοβούνι
-Skiathos Island, Nísos Skíathos, Σκίαθος
+Skiathos Island, Nísos Skíathos, Skiathos
 Skiathos Port, Skiathos Ferry Port, Skiathos Harbour
 Skinavrés
 Skinonda Point
@@ -5680,7 +5680,7 @@ Soúkous, Σούκους
 Soúrla
 Soúsi Réma, Σούσι Ρέμα
 Spakotos
-Spalathronísi, Nisí Salaftó, Salakhtonísi, Salaphto Nisi, Salaphtonisi Islet, Vrakhonisís Salaftonísi, Vrakhonisís Spalathronísi, Βραχονησίς Σπαλαθρονήσι
+Spalathronísi, Nisí Salaftó, Salakhtonísi, Salaphto Nisi, Salaphtonisi Islet, Vrachonisís Spalathronísi, Vrakhonisís Salaftonísi, Vrakhonisís Spalathronísi
 Spalathronísia, Nisídhes Spalathronísia, Nísoi Spalathronísia, Spalathro Islands
 Spaládia
 Spanovoúni, Σπανοβούνι
@@ -5701,7 +5701,7 @@ Spiliarídia
 Spiliára Réma
 Spinalonga Island, Nisída Kalydón, Nisída Spinalógka, Nisída Spinalónga, Nisís Kalidhón, Nisís Kalydón, Nísos Spinalónga, Καλυδών
 Spitakioú Korifí
-Spitfire Rock, Vrákhoi Spitfair, Vrákhoi Spitfáïar, Ýfalos Spitfáïr
+Spitfire Rock, Vrákhoi Spitfair, Vrákhoi Spitfáïar, Ύφαλος Σπιτφάϊρ
 Sporaden
 Spártina
 Spílaion
@@ -5759,25 +5759,25 @@ Stenó Kimólou-Sífnou, Dhiékplous Kimólou, Stenón Kimólou-Sífnou
 Stenó Kythíron, Cerigo Channel, Dhiékplous Kithíron, Diékplous Kythíron, Kithera Channel, Kíthirai Strait, Stenón Kythíron
 Stenó Kásou, Dhíavlos Kásou, Káso Strait, Kásos Strait, Stenón Kásou, Στενό Κάσου, Στενόν Κάσου
 Stenó Meganisíou, Meganisi Channel, Meganísi Strait, Stenón Meganisíou, Στενό Μεγανησίου
-Stenó Methánon, Στενόν Μεθάνων
-Stenó Methónis, Methoni Dhiavlos, Stenón Methónis
-Stenó Metópis, Dhíavlos Metópis, Metopi Channel, Metópis Porthmós, Stenón Metópis
+Stenó Methánon, Stenón Methánon
+Stenó Methónis, Methoni Dhiavlos, Στενόν Μεθώνης
+Stenó Metópis, Dhíavlos Metópis, Metopi Channel, Metópis Porthmós, Στενόν Μετώπης
 Stenó Monís, Porthmós Monís, Stenón Monís
 Stenó Mármara, Mármara Dhíavlos
 Stenó Náfstathmou, Stenón Náfstathmou, Stenón Návstathmou, Στενό Ναύσταθμου, Στενόν Ναύσταθμου
-Stenó Paxón, Dhiékplous Paxón, Στενόν Παξών
-Stenó Petási, Petási Strait, Stenón Petási, Στενό Πετάσσι
+Stenó Paxón, Dhiékplous Paxón, Stenón Paxón
+Stenó Petási, Petási Strait, Στενό Πετάσσι, Στενόν Πετάσι
 Stenó Piáto
 Stenó Polyaígou-Folegándrou, Stenón Folegándrou-Poliaígou, Stenón Poliaígou-Folegándrou
 Stenó Prevézis, Preveza Strait, Στενόν Πρεβέζης
-Stenó Prótis, Proti Channel, Stenón Próti, Στενόν Πρώτης
+Stenó Prótis, Proti Channel, Stenón Próti, Stenón Prótis
 Stenó Pórou, Stenón Pórou, Στενό Πόρου, Στενόν Πόρου
 Stenó Ríou - Antirríou, Ríon, Stenón Ríou Kai Andirríou, Στενό Ρίου - Αντιρρίου
 Stenó Sarakinó, Sténon Sarakinonísi
-Stenó Spetsón, Dhiávlos Spetson, Spetsai Strait, Stenón Spetsón
+Stenó Spetsón, Dhiávlos Spetson, Spetsai Strait, Στενόν Σπετσών
 Stenó Sífnou, Dhiékplous Sífnou, Diékplous Sífnou, Porthmós Sífnou, Stenón Sífnou, Sífnos Strait, Διέκπλους Σίφνου, Πορθμός Σίφνου, Στενό Σίφνου, Στενόν Σίφνου
 Stenó Toloú, Stenón Toloú, Στενό Τολού, Στενόν Τολού
-Stenó Vathý, Porthmós Vathéos, Stenón Vathí, Vathi Channel, Vathí Strait, Στενόν Βαθύ
+Stenó Vathý, Porthmós Vathéos, Stenón Vathí, Stenón Vathý, Vathi Channel, Vathí Strait
 Stenó Xeró, Stenón Xeró
 Stenó Zakýnthou, Dhíavlos Zakínthou, Díavlos Zakýnthou, Porthmos Zakinthou, Porthmos Zakynthou, Stenón Zakýnthou, Strait of Zákinthos, Στενό Ζακύνθου
 Stenó Zemenoú, Stenopós Zemenoús, Stenón Zemenoú, Στενό Ζεμενού, Στενόν Ζεμενού
@@ -5826,7 +5826,7 @@ Stáfylos
 Stála, Píkiza
 Stámpa, Stámba
 Stára Réma, Staro, Stára Réka
-Stáïko, Στάϊκον
+Stáïko, Staïkón
 Sténa Sarantapórou, Sténa Sarandapórou, Στένα Σαρανταπόρου
 Sténakas Réma
 Sténon tis Dhiávas
@@ -5835,7 +5835,7 @@ Stíthos Ýdra, Hydra Bank
 Stómio, Στόμιον
 Su Réma, Soú Réma, Su Deré
 Sudsuro Bay, Tsoútsouros Bay, Órmos Tsoútsouros, Όρμος Τσούτσουρος
-Sudsuro Cape, Cape Tsoútsouros, Ákra Tsoútsouros, Άκρα Κέρκελλος
+Sudsuro Cape, Cape Tsoútsouros, Ákra Kérkellos, Ákra Tsoútsouros
 Sulají Deré, Soulatzí Deré, Sulachí Deré
 Svourikhti
 Svárna Réma
@@ -5857,7 +5857,7 @@ Sára, Dhelokórmo
 Sáres
 Sárgou Kefála, Σάργου Κεφάλα
 Sélemnos Réma, Khímarros Kastrítsa, Selemnos River
-Séles, Σέλλες
+Séles, Sélles
 Sélino
 Sélla, Séla
 Séllia
@@ -5883,7 +5883,7 @@ Tasoú Réma, Réma Tás
 Taviri Bay
 Tavronítis Potamós, Ταυπωνίτης Ποταμός
 Tavrópos Potamós, Megdovas, Mégdhova Potamós, Mégdhovas Potamós, Tavropos, Ταυρώπος Ποταμός
-Taÿ́getos Óros, Pentedaktylon, Taygetus, Taÿ́getos, Taḯyetos Óros
+Taÿ́getos Óros, Pentedaktylon, Taygetus, Taḯyetos Óros, Ταΰγετος
 Technití Koíti Megálou Rématos
 Technití Límni Aóou, Τεχνητή Λίμνη Αώου
 Technití Límni Bramianón, Τεχνητή Λίμνη Μπραμιανών
@@ -5906,7 +5906,7 @@ Tenayí Filíppon
 Teriáchi, Goúves, Teriákhi
 Terokoryfí, Máli Siélki, Siélki
 Tersane, Tersanás
-Tetrázi, Tetrázion Óros
+Tetrázi, Τετράζιον Όρος
 Thanási Réma
 Thasos, Thassos, Θάσου
 Thassos Island, Nísos Thásos, Thaso Island, Νησί Θάσος
@@ -5918,7 +5918,7 @@ Therisianó Farángi, Θερισιανό Φαράγγι
 Thermaïkós Kólpos, Gulf of Salonica, Gulf of Salonika, Gulf of Saloníki, Gulf of Thermaikos, Gulf of Thessalonike, Gulf of Thérmai, Thermaic Gulf, Thermaicus Sinus, Therme Bay, Θεμαϊκός Κόλπος
 Thermes Kallithea
 Therminisia
-Thermopylae, Thermopílai, Thermopýlai, Θερμοπύλες
+Thermopylae, Thermopílai, Θερμοπύλαι, Θερμοπύλες
 Thermí, Thermi Island, Vrachonisída Kydónia, Vrachonisída Thermí, Vrahonisis Termis, Vrakhonisídha Thermí
 Thesprotiká Óri
 Thessaloniki Port, Thessaloniki Ferry Port, Thessaloniki Harbour
@@ -5998,7 +5998,7 @@ Trachilo Point
 Trachíli, Trakhíli
 Trachóni
 Trachónia
-Trachý Óros, Trachý, Trakhí Óros
+Trachý Óros, Trakhí Óros, Τραχύ
 Traganós Réma, Gagarách, Gangaráts Réma, Gkagkaráts, Rkangaráts Réma
 Trago Reef, Scogli dei Granchi
 Tragonísi, Isola del Caprone, Isolotto del Caprone, Kaprone Adası, Nísos Tragonísi, Trago Island, Tragunisi Adası, Traonísi, Trágos, Vrachonisída Trágos, Βραχονησίς Τραγονήσι
@@ -6065,7 +6065,7 @@ Trýpia Spiliá
 Trýpio, Trépio
 Tsagkári, Tsangári
 Tsagkári Ráchi
-Tsakalonísi, Nisís Tsakalonísi, Τσακαλονήσιον
+Tsakalonísi, Nisís Tsakalonísi, Tsakalonísion
 Tsakaláki
 Tsakalórrema
 Tsakáli
@@ -6090,7 +6090,7 @@ Tsigkrádo, Τσιγγράδο
 Tsikalariá Réma
 Tsikalarió, Tsikalaryió
 Tsikanórrema, Tsikanoremma, Tsinganórema, Tsinganórrema
-Tsikniás Óros, Skionia, Τσικνιάς
+Tsikniás Óros, Skionia, Tsikniás
 Tsikoudiá, Tsikoudhia, Τσικουδιά
 Tsikoudiás, Τσικουδιάς
 Tsilívdikas, Tsilívdhikas
@@ -6173,7 +6173,7 @@ Vamianés Chalépes
 Vamvakiés
 Vapsoríou Réma
 Varadhás Réma
-Vardar River, Aksios, Axios, Axius, Axiós Potamós, Lumi i Vardarit, Varda, Vardar, Vardáris
+Vardar River, Aksios, Axios, Axius, Lumi i Vardarit, Varda, Vardar, Vardáris, Αξιός Ποταμός
 Vardoúsia, Vardhoúsia Óri, Vardusia, Βαρδούσια
 Vari beach
 Varikó, Katára, Sklíva
@@ -6202,7 +6202,7 @@ Vathyrýako Réma
 Vathí
 Vathírema, Vathirémma, Vathírremma
 Vathírrema
-Vathý, Όρμος Βαθέος
+Vathý, Órmos Vathéos
 Vathý Chantáki, Vathí Khandáki
 Vathý Lagkáda, Vathi Lagadhi
 Vathý Lakkáki, Vathí Lakkáki, Vathí Lakáki
@@ -6279,7 +6279,7 @@ Voltári Réma
 Volári
 Volópetres
 Volči Jami
-Voras, Καιμάκ-τσαλάν
+Voras, Kaimak-tsalan
 Vordosíti, Vordhosíti
 Voreinó, Vorinó
 Voreía Píndos, Voría Píndhos
@@ -6344,14 +6344,14 @@ Vrachonisída Chaviarópetra, Vrachonisída Khaviarópetra
 Vrachonisída Diakoptó, Dhiakoftó, Diakoftó, Nisos Diakopori, Nisída Diákopo, Nisís Dhiákopo, Nisís Dhiákopon, Nisís Dhiákoto, Vrachonisís Diakoptó
 Vrachonisída Drógkos
 Vrachonisída Détis, Vrachonisís Détis
-Vrachonisída Exonísi, Vrachonisís Exonísi
+Vrachonisída Exonísi, Βραχονησίς Εξωνήσι
 Vrachonisída Fermekoula, Formicula Island, Nisís Formíkoula, Vrachonisís Formíkoula
 Vrachonisída Fliní, Vrachonisís Fliní
 Vrachonisída Foráda, Foradha, Vrahos Porada, Vráchos Foráda
 Vrachonisída Ftená, Nisídha Ftená
 Vrachonisída Gialiskári, Vrakhonisídha Yialiskári
 Vrachonisída Glastrí, Vrahos Gastri, Vráchos Glastrí
-Vrachonisída Griá, Gria-nisi, Nisís Griá, Βραχονησίς Γριά
+Vrachonisída Griá, Gria-nisi, Nisís Griá, Vrachonisís Griá
 Vrachonisída Kalamítsa, Nisís Kalamítsa
 Vrachonisída Kampána, Vrakhonisídha Kambána
 Vrachonisída Kastrí, Kastra Island, Nisís Kastrí
@@ -6360,7 +6360,7 @@ Vrachonisída Kofinás
 Vrachonisída Kolyvíri, Kolyvrí, Nisís Kolivrí, Nisís Kolivíri, Nisís Kolivírion, Vrakhonisís Kolivíri, Vráchos Kolyvíri, Βραχονησίς Κολυβίρι
 Vrachonisída Kolýmpia, Kolibia, Vrachonisída Makrilópetra, Vrachonisís Kolýmpia, Vrahos Makrilopetra, Vrakhonisídha Kolímbia
 Vrachonisída Kténi
-Vrachonisída Kátergo, Vrachonisída Erimítis, Vrachonisís Kátergo, Vrakhonisís Erimítis
+Vrachonisída Kátergo, Vrachonisída Erimítis, Vrakhonisís Erimítis, Βραχονησίς Κάτεργο
 Vrachonisída Kókkinos Toúrlos, Kókkinos Toúrlos, Vrachonisís Kókkinos Toúrlos
 Vrachonisída Kómpi, Kombi Island, Koumbí, Nisís Kómbi
 Vrachonisída Loúmpinas, Loúmbinas, Loúmbinos, Vrachonisís Loúmpinas, Vrakhonisís Loúmbina
@@ -6387,7 +6387,7 @@ Vrachonisída Peristeraí, Kaparéli, Nisís Peristeraí, Nisís Tiniózo, Níso
 Vrachonisída Petalída, Vrachonisís Petalída
 Vrachonisída Petrokáravo, Vrachonisís Petrokáravo
 Vrachonisída Petráni
-Vrachonisída Plateiá, Nisís Plateiá, Vrachonisís Plateiá
+Vrachonisída Plateiá, Nisís Plateiá, Βραχονησίς Πλατειά
 Vrachonisída Ploutó
 Vrachonisída Pláka
 Vrachonisída Pothitáki, Vráchos Pothitáki, Βραχονησίς Ποθητάκι
@@ -6454,7 +6454,7 @@ Vromosykiá, Vromosikiá
 Vromovrysaíika Vouná, Vouná Vromovriséïka, Vromovrisaíika Vouná, Βρομοβρυσαίικα Βουνά
 Vroulidhia
 Vroulokefála
-Vroumpiás, Βρουμπιάς, Πέτσοφας
+Vroumpiás, Pétsofas, Βρουμπιάς
 Vroúntovas, Vourdhouvás, Βρούντοβας
 Vrulidhi Bay
 Vrulidhi Point
@@ -6556,7 +6556,7 @@ Vráchos Xéra Plakáki
 Vráchos Álki
 Vráchos Élli
 Vrákhoi Kalíka
-Vrákhoi Kalóyeroi, Kaloieri Rocks, Kouniatsí, Nisídhes Kounídhion, Γλαρονήσια
+Vrákhoi Kalóyeroi, Glaronisia, Kaloieri Rocks, Kouniatsí, Nisídhes Kounídhion
 Vrákhos Karávi, Karavi Island, Nisís Karavi, Nisís Karavopetra, Nísos Kararópetra
 Vráxhos Kasídis, Βράχος Κασίδης
 Vrékastro
@@ -6582,9 +6582,9 @@ Várdhia
 Várdhina
 Várdia
 Várdia Psilís Korfís
-Várdies, Vardhiés
+Várdies, Várdhies
 Várka, Ammoúdhia
-Váyia, Βάγια
+Váyia, Vagia
 Váïza
 Vélas Potamós
 Véniza
@@ -6606,7 +6606,7 @@ Vólaka
 Vólia
 Vóntos, Vónda, Vóndas
 Vóras Óros, Nidzhe, Nidže, Nidže Planina
-Vóreies Echinádes, Dhragonéra, Dragonera Islands, Nisídes Vóreioi Echinádes, Vóriai Ekhinádhes, Βόρειαι Εχινάδες
+Vóreies Echinádes, Dhragonéra, Dragonera Islands, Nisídes Vóreioi Echinádes, Vóreiai Echinádes, Vóriai Ekhinádhes
 Vóreio Limáni Mytilínis, Liménas Mytilínis, Vóreios Liménas Mytilínis
 Vóreio Stenó Kérkyras, Canal Nord di Corfú, Canale Nord, Nord Kanal, North Channel, North Corfu Channel, North Strait of Kerkyras, Stenon Kerkiras, Vórion Stenon Kerkiras, Vórion Stenón Kerkýras
 Vóreios Evvoïkós Kólpos, Atalante Channel, Evvoïkos Kolpos, Gulf of Évvoia, Stenón Evrípou, Vórios Evvoïkós Kólpos, Βόρειος Ευβοϊκός Κόλπος
@@ -6639,7 +6639,7 @@ Xeriás Réma, Callas, Charadros, Kallos, Kálas Potamós, Kálas Réma, Kállas
 Xerolakkómata
 Xerolángado, Xerolángadho, Xirolángadho, Ξερολάγγαδο
 Xerolímni
-Xeronísi, Ξερονήσιον
+Xeronísi, Xeronísion
 Xeropótamo
 Xeropótamos, Sakhiá, Sokhiá Réma
 Xeroskafi
@@ -6686,7 +6686,7 @@ Xómpourgo, Ξώμπουργο
 Xýlo
 Yagedól Réma, Yingendól Réma
 Yam Hill
-Yanisades Islands, Dhionisiádhes Nísoi, Dhionisádhes, Dionysiádes, Nisídes Dionysádes, Nisídes Gianysádes, Nísoi Yianisádhes
+Yanisades Islands, Dhionisiádhes Nísoi, Dhionisádhes, Dionysiádes, Nisídes Gianysádes, Nísoi Yianisádhes, Νησίδες Διονυσάδες
 Yanni Bay
 Yanúslu Réma, Yanúslu Potamós, Yianoúslou Réma
 Yavúr Réma
@@ -6706,16 +6706,16 @@ Yidhóvousi, Yidhóurisi
 Yiftopótamos
 Yioúktas, Juktas, Yuktas
 Yiótsa Réma, Yiótsa Potamós
-Ymittós Óros, Hymettos, Hymettu, Hymettus, Imittós Óros, Ymittós, Όρος Υμηττός
+Ymittós Óros, Hymettos, Hymettu, Hymettus, Imittós Óros, Όρος Υμηττός, Υμηττός
 Ypsimóntas, Ipsimóndas
-Ypsário, Ipsario, Ipsárion, Ypsárion
+Ypsário, Ipsario, Ipsárion, Υψάριον
 Yrroc Hill
 Yrtakína, Irtakína
 Yázo Réma, Yiázo Réma
 Zacharítsa, Zakharítsa
 Zagarás, Dhiakópi, Simaía
 Zagorítikos Potamós
-Zakynthos, Nisí Zákynthos, Nísos Zákinthos, Nísos Zákynthos, Zacynthos, Zacynthus, Zakínthou, Zante, Zante Island, Zanthe, Zákinthos
+Zakynthos, Nísos Zákinthos, Nísos Zákynthos, Zacynthos, Zacynthus, Zakinthos, Zakínthou, Zante, Zante Island, Zanthe, Νησί Ζάκυνθος
 Zampatórrema, Zambatórrema, Zambotórema, Zampatórema
 Zanga Beach
 Zante Port, Zante Ferry Port, Zante Harbour
@@ -6734,7 +6734,7 @@ Zestó
 Zigós
 Ziliána Potamós, Sis, Ziliána Réma
 Ziní, Óros Zíni
-Ziorti Bay, Órmos Vraónas
+Ziorti Bay, Όρμος Βραώνας
 Zipári Réma
 Zodeméni
 Zonós Réma
@@ -6751,7 +6751,7 @@ Záïtsa Límni
 Zémpi, Sémbi, Zémbi, Zémoi
 Zérvas Réma, Zérvas Potamós
 Zéstani
-Zíria, Killíni Óros, Kyllene, Kyllíni Óros, Zíria Oros
+Zíria, Killíni Óros, Kyllene, Zíria Oros, Κυλλήνη Όρος
 Zízali
 porto vromi
 schinias
@@ -6817,7 +6817,7 @@ schinias
 Ákra Agías Efthymías, Ayía Evthimía, Cape Stavros, Ákra Ayías Evthimías, Ákra Áyios Evthimías, Άκρα Αγίας Ευθυμίας, Σταυρός
 Ákra Agías Marínas, Cape Agia Marina, Cape Áyia Marína, Ákra Ayía Marína, Ákra Ayía Marínas, Ákra Ayías Marínas
 Ákra Agías Pelagías, Cape Ayía Pelayía, Cape Pelagia, Ákra Ayía Pelayía
-Ákra Agíou Antoníou, Cape Andonis, Ákra Andónis, Ákra Ayíou Andoníou, Ákra Ayíou Antoníou, Άκρα Αγίου Αντωνίου, Άκρα Αντώνης
+Ákra Agíou Antoníou, Cape Andonis, Ákra Andónis, Ákra Antónis, Ákra Ayíou Andoníou, Ákra Ayíou Antoníou, Άκρα Αγίου Αντωνίου
 Ákra Agíou Dimitríou, Ákra Ayios Dhimítrios, Ákra Ayíou Dhimitríou, Άκρα Αγίου Δημητρίου
 Ákra Agíou Georgíou, Cape Saint Georgios, Cape Áyios Yeóryios, Saint Giorgio Point, Saint Giorgios Point, Ákra Ayíou Yeoryíou, Ákron Áyios Giórgios, Άκρα Αγίου Γεωργίου
 Ákra Agíou Ioánnou, Ákra Ayíou Ioánnou, Άκρα Αγίου Ιωάννου
@@ -6880,7 +6880,7 @@ schinias
 Ákra Armenópetra
 Ákra Armirópetra
 Ákra Artemídi, Cape Artemisía, Ákra Artemídhi
-Ákra Artemísio, Άκρα Αρτεμίσιον
+Ákra Artemísio, Ákra Artemísion
 Ákra Arvaníkos
 Ákra Arápis, Akra Platí, Arapi Point, Cape Arápis, Cape Plati, Cape Platy, Komós, Neráki, Point Arabi, Sponge Cape, Ákra Arápi, Άκρα Αραάπης
 Ákra Arílla, Afchénas, Aríllas, Cape Arilla, Mourgí, Moúryi
@@ -6986,9 +6986,9 @@ schinias
 Ákra Feidiós, Cape Manganári, Cape Pirgári, Pyrgari Kavos, Ákra Pirgári
 Ákra Filadelfiá, Cape Filadhelfia, Filadélfeia, Ákra Avlaís
 Ákra Filágra, Cape Philagra, Zilágra
-Ákra Filónikos, Punta Filonico, Ákra Filónika
+Ákra Filónikos, Punta Filonico, Άκρα Φιλόνικα
 Ákra Fiskárdo, Ákra Fiskárdho, Ákra Fiskárdhon
-Ákra Flómos, Akra Flomí, Cape Flomí, Cape Phlomi, Kavo Flomi, Άκρα Φλωμές
+Ákra Flómos, Akra Flomí, Cape Flomí, Cape Phlomi, Kavo Flomi, Ákra Flomés
 Ákra Fokianoú, Cape Tourkovíglia, Ákra Tourkovíglia, Ákra Tourkóvigla, Άκρα Φωκιανού
 Ákra Fokía, Cape Fokótripes, Point Phokia, Vlykhadion Point, Ákra Fokótripes, Ákra Vlakhídha, Ákra Vlikhádhi
 Ákra Fountána, Ákra Pezoúlia, Άκρα Φουντάνα
@@ -7005,7 +7005,7 @@ schinias
 Ákra Fássa, Cape Fássa, Cape Phassa, Cape Phasso, Phassa Head
 Ákra Féros, Cape Féros, Phero Point, Ákra Fyrá, Ákra Férros
 Ákra Fílippos, Cape Fílippos, Cape Hagios Philippos, Cape Phillippo, Khersónisos, Philippo, Ákra Fílippa
-Ákra Gadára, Cape Vintséntsos, Vincenzo, Vitzéntzos, Ákra Vintséntsos, Ákra Vintséntzos, Ákra Vitzéntzos, Ákra Vitzétzos
+Ákra Gadára, Cape Vintséntsos, Vincenzo, Ákra Vintséntsos, Ákra Vintséntzos, Ákra Vitzéntzos, Ákra Vitzétzos, Βιτζέντζος
 Ákra Gardíki, Ákra Gardhíki
 Ákra Garás, Cape Gará, Garas Point, Ákra Gará
 Ákra Gatítsa
@@ -7015,7 +7015,7 @@ schinias
 Ákra Genoúpa, Cape Diavolo, Cape Yenupa, Ákra Yenoúpa, Άκρα Γενούπα
 Ákra Gerakiá, Cape Monasteri, Ákra Monastíri
 Ákra Geranós, Cape Yeranos, Ákra Yermanós
-Ákra Germáta, Cape Vigli, Iemarta, Ákra Víglas, Άκρα Βιγλί
+Ákra Germáta, Cape Vigli, Iemarta, Ákra Viglí, Ákra Víglas
 Ákra Gerogómpos, Cape Gheroghambo, Cape Yerogómbos, Ákra Yerogómbos
 Ákra Geronikála, Kedras Point, Ákra Kedhrás, Ákra Kéndras
 Ákra Gerontí, Geronti Point, Yéron, Ákra Yerondí
@@ -7036,7 +7036,7 @@ schinias
 Ákra Gouroúni, Guruni Head, Ákra Youroúni, Άκρα Γουρούνι
 Ákra Goúnari, Άκρα Γούναρη
 Ákra Goúrnes, Άκρα Γούρνες
-Ákra Gramméno, Cape Trakhíli, Cape Trákhilas, Ákra Trakhíli, Ákra Tráchalo
+Ákra Gramméno, Cape Trakhíli, Cape Trákhilas, Ákra Trakhíli, Άκρα Τράχαλο
 Ákra Graías
 Ákra Gregáli
 Ákra Griá, Cape Gerias, Cape Griá
@@ -7091,7 +7091,7 @@ schinias
 Ákra Kampí, Cape Kambi, Ákra Kambí
 Ákra Kamára
 Ákra Kamáres, Kávos Vrélou, Point Myrsinia, Ákra Petrás, Άκρα Μπούρμπουλο
-Ákra Kamári, Cape Kamári, Kamari Point
+Ákra Kamári, Cape Kamari, Kamari Point
 Ákra Kaméni Spiliá
 Ákra Kamíli, Cape Kamíli
 Ákra Kanapítsa, Cape Kanapítsa, Kavo Kanapitza
@@ -7289,12 +7289,12 @@ schinias
 Ákra Lithári, Cape Lithari, Lithari Point
 Ákra Livadhiés, Akra Leivadia, Cape Livadhiés, Livadia Point
 Ákra Liváda, Cape Livadi, Cape Livádha, Livadi Point
-Ákra Livádia, Ákra Livádhia, Άκρα Λειβάδια
+Ákra Livádia, Ákra Leivádia, Ákra Livádhia
 Ákra Liákas, Cape Liakas, Cape Liáka, Ákra Liáka
 Ákra Loúka, Cape Papás, Kavos-to Papa, Loukás, Ákra Louká Papá, Άκρα Λούκα
 Ákra Loúros, Agíou Nikoláou, Luro Point, Punta delle Forbici, Άκρα Λούρος
 Ákra Loútsa, Άκρα Λούτσα
-Ákra Lygariás, Άκρα Τυρός
+Ákra Lygariás, Ákra Tyrós
 Ákra Lyriótiko, Ákra Kakavláki, Ákra Liriótiko
 Ákra Lytra, Cape Letras, Cape Lytra
 Ákra Lákka
@@ -7306,7 +7306,7 @@ schinias
 Ákra Léntos
 Ákra Lígki, Legi Point, Punta Lichi, Ákra Likí
 Ákra Líndos, Cape Lardos, Cape Lindos, Ákra Líndhos
-Ákra Líthino, Cape Litino, Cape Littinos, Lítinos, Ákra Anemómilos, Ákra Lissin, Ákra Líthinon, Ákra Líthinos, Άκρα Λίτινος
+Ákra Líthino, Cape Litino, Cape Littinos, Lítinos, Ákra Anemómilos, Ákra Lissin, Ákra Líthinon, Ákra Líthinos, Ákra Lítinos
 Ákra Lýchna, Cape Líkna, Líkhnoi, Talikna Point, Ákra Líkhna, Ákra Líkna, Ákra Talíkna, Ákra Vígla
 Ákra Lými, Cape Lyme, Ákra Lími
 Ákra Machaíra, Báfla, Ákra Barmpaliás, Ákra Makhaíra
@@ -7321,7 +7321,7 @@ schinias
 Ákra Makryópounta, Ekklino Point, Ákra Makriópounda, Άκρα Μακρυόπουντα
 Ákra Malathriá, Cape Malathria, Ákra Malagriá
 Ákra Malissa, Malissa Point
-Ákra Maléas, Akrotérion Maléa, Akrotírion Maléas, Cape Malea, Cape Malia, Cape Áyios Ángelos, Kávo Maliás, Maléa Ákra, Ακρωτήριο Μαλέας, Καβομαλιάς
+Ákra Maléas, Akrotérion Maléa, Akrotírion Maléas, Cape Malea, Cape Malia, Cape Áyios Ángelos, Maléa Ákra, Ακρωτήριο Μαλέας, Κάβο Μαλιάς, Καβομαλιάς
 Ákra Mandá Avlókhi
 Ákra Mandíli, Cape Mandelo, Cape Mandhíli, Cape Mandili, Kavomandélo, Ákra Mandhíli
 Ákra Maniáti
@@ -7350,14 +7350,14 @@ schinias
 Ákra Megálo Émvolo, Akra Megalo Karaburnu, Cape Kara, Cape Megálo Karaburnú, Megálo Karabournoú, Megálo Karampournoú, Méga Karaburnú, Mégas Émvolos, Ákra Megálo Karambournóu, Ákra Megálo Kará-Bornú, Ákra Megálo Émvolon, Ákron Megalo Karaburnu, Émvolon, Μεγάλο Καραμπουρνού
 Ákra Megálos Nífti, Niphtis Promontory, Ákra Megálos Níftis
 Ákra Melagkávi, Agriliós, Cape Melangávi, Ákra Iraíon, Ákra Melangávi
-Ákra Melaniós, Cape Melanios, Cape Saint Nikolo, Kávos Melaniós, Ákra Kávo-Melaniós
+Ákra Melaniós, Cape Melanios, Cape Saint Nikolo, Ákra Kávo-Melaniós, Κάβος Μελανιός
 Ákra Melingáni
 Ákra Meroúthi, Άκρα Μερούθι
 Ákra Mersínia
 Ákra Metaxotó
 Ákra Metochíou
 Ákra Metzíki
-Ákra Metóchi, Ákra Metókhi, Ákra Metókhion, Άκρα Μετόχιον
+Ákra Metóchi, Ákra Metóchion, Ákra Metókhi, Ákra Metókhion
 Ákra Mikró Seïtáni
 Ákra Mikró Émvolo, Akrotirion Mikro Karaburnu, Cape Mikró Karaburnú, Mavrótopos, Mikra Point, Mikron Karaburnú, Mikró Karabournoú, Mikró Karampournoú, Mirkós Émvolos, Ákra Mikró Karaburnú, Ákra Mikrón Karambournóu, Ákra Mikrón Karampournóu, Ákra Mikrón Émvolon, Ákra Mikrós Émvalos, Μικρό Καραμπουρνού
 Ákra Mirtávi, Cape Mirtávi, Myrtavi Point
@@ -7393,7 +7393,7 @@ schinias
 Ákra Másticho, Cape Mastiho, Cape Mastiko, Cape Másticho, Cape Mástikho, Cape Phano, Phanae Promontory, Ákra Mástikho
 Ákra Mátala, Cape Matála, Cape Theodia
 Ákra Mávri Pétra, Άκρα Μαύρη Πέτρα
-Ákra Mávro Mourí, Ákra Mavromoúris, Άκρα Μαυρομούρης, Άκρα Μαύρο Μουρί
+Ákra Mávro Mourí, Ákra Mavromoúris, Άκρα Μαυρομούρης, Άκρα Μαύρο Μούρι
 Ákra Mávro Vounó, Cape Mavro Vouno, Άκρα Μαύρο Βουνό
 Ákra Mávros, Cape Mauro, Cape Mavro, Cape Mavros, Gamato Point, Kámato, Yemáton, Ákra Mávros Vrákhos, Άκρα Μαύρος, Μαύρος
 Ákra Mávros Kávos, Άκρα Μαύρος Κάβος
@@ -7437,7 +7437,7 @@ schinias
 Ákra Orfós, Cape Orfo
 Ákra Oropós, Cape Oropós, Ákra Vathiá Nerá
 Ákra Orthólithos
-Ákra Ourá, Cape Ourá, Ora, Άκρα Ουρά
+Ákra Ourá, Cape Oura, Ora, Άκρα Ουρά
 Ákra Ovorós, Cape Ovoroú, Novara Point, Novára, Ákra Novárra, Ákra Ovoroú
 Ákra Oxeiá, Cape Oxia, Ákra Oxiá
 Ákra Oúpos, Άκρα Ούπος
@@ -7453,10 +7453,10 @@ schinias
 Ákra Palaión Avarínon, Korifasion Akron
 Ákra Palaiópyrgos
 Ákra Paliofánaro, Aspro Point, Cape Áspro
-Ákra Palioúri, Cape Ballouri, Cape Kaloviros, Cape Kanastraíon, Cape Kanastri, Cape Palliuri, Kalóyiros, Palioúri, Ákra Kanastraíon, Ákra Kánestron, Ákra Palioúrion, Άκρα Παλιούρι, Άκρα Παλιούριον, Καλογριά
+Ákra Palioúri, Cape Ballouri, Cape Kaloviros, Cape Kanastraíon, Cape Kanastri, Cape Palliuri, Kalogriá, Kalóyiros, Palioúri, Ákra Kanastraíon, Ákra Kánestron, Ákra Palioúrion, Άκρα Παλιούρι, Άκρα Παλιούριον
 Ákra Paliópyrgos, Ákra Palaiópirgos, Ákra Paliópirgos
 Ákra Palmateró
-Ákra Panagiá, Cape Panagia, Cape Panayía, Ákra Grótto, Ákra Panayiá, Ákra Pátima
+Ákra Panagiá, Cape Panagia, Cape Panayiá, Ákra Grótto, Ákra Panayía, Ákra Pátima
 Ákra Panagiás, Cape Apela, Punta Apella, Ákra Apélla, Ákra Panagítsa, Ákra Panayía, Ákra Panayías
 Ákra Pantónis, Cape Pantonis, Κάβος Παντώνης
 Ákra Papadhiá, Akra Paradhia, Cape Papadhiá, Cape Papavea
@@ -7468,7 +7468,7 @@ schinias
 Ákra Paximádhi, Akra Paximádhion, Ákra Paximádha
 Ákra Pelegrí, Mávri Ákri, Próti
 Ákra Pelekoúda, Akrotiri Pelekouda, Ακρωτήρι Πελεκούδα, Πελεκούδα
-Ákra Penínta, Ákra Penínda, Ákra Penínta Vráchia
+Ákra Penínta, Ákra Penínda, Άκρα Πενήντα Βράχηα
 Ákra Peratí, Peirati Point
 Ákra Perifánou, Άκρα Περηφάνου
 Ákra Peristéri
@@ -7549,7 +7549,7 @@ schinias
 Ákra Pírgos
 Ákra Pónta
 Ákra Pýrgos, Cape Pyrgo, Cape Pyrgos, Cape Pírgos
-Ákra Rematikó, Cape Rematico, Kephala, Piskopi Head, Piskopi Point, Ákra Episkopí, Ákra Rematikós, Επισκοπή
+Ákra Rematikó, Cape Rematico, Episkopí, Kephala, Piskopi Head, Piskopi Point, Ákra Episkopí, Ákra Rematikós
 Ákra Rigás, Cape Rigas, Cape Rika, Rikha Point
 Ákra Rodhará, Cape Rodhará
 Ákra Romanós
@@ -7557,11 +7557,11 @@ schinias
 Ákra Roúi, Cape Roúi, Cape Rui, Άκρα Ρούη
 Ákra Roússa, Ákra Roúsa, Άκρα Ρούσσα
 Ákra Roúthiano, Capo Pelli, Ákra Pellí, Ákra Roúthano, Άκρα Ρούθιανο
-Ákra Río, Άκρα Ρίον
+Ákra Río, Ákra Ríon
 Ákra Rítsos, Cape Rítsos
-Ákra Ríva, Aghia Irini, Agía Eiríni, Cape Riva, Ákra Ayía Iríni, Ákra Ayías Irínis
+Ákra Ríva, Aghia Irini, Cape Riva, Ákra Ayía Iríni, Ákra Ayías Irínis, Αγία Ειρήνη
 Ákra Róda, Rhoda Point, Ákra Ródha
-Ákra Rómma, Roma Point, Ákra Rámma, Ákra Róma, Ρώμα
+Ákra Rómma, Roma Point, Ákra Rámma, Άκρα Ρώμα, Ρώμα
 Ákra Rózos, Ákra Likórema, Ákra Likórrema, Ákra Likórrevma
 Ákra Sagráda, Sangrada Point, Ákra Sagrádha
 Ákra Sakkí, Akrotirion Grusa, Kroúza, Ákra Groúza, Κρούζα
@@ -7574,7 +7574,7 @@ schinias
 Ákra Samóli, Cape Samóli, Samoli Point
 Ákra Saní, Cape Sani, Ákra Sán
 Ákra Sarakináto, Akra Sarakíni, Cape Prónos, Cape Sarakinato, Prónou, Sarakinico, Ákra Prónos, Ákra Sarakínika
-Ákra Sarakíniko, Cape Sarakeniko, Cape Sarakiniko, Ákra Sarakínikon
+Ákra Sarakíniko, Cape Sarakeniko, Cape Sarakiniko, Άκρα Σαρακήνικον
 Ákra Sardélla, Cape Zarzala, Ákra Sardhélla
 Ákra Sargáni, Sargani Point
 Ákra Saránta, Ákra Kakóskala
@@ -7602,7 +7602,7 @@ schinias
 Ákra Skínos, Cape Skíno, Skino Point, Ákra Skhoínos, Ákra Skíno, Ákra Vardhióla
 Ákra Skínou Plevrá, Άκρα Σκίνου Πλευρά
 Ákra Skýlla, Cape Skylla, Cape Skílla, Skíla, Ákra Kokála, Ákra Skílla
-Ákra Skýllaio, Akra Skílaion, Akrotírion Skýllaion, Cape Skili, Cape Skyli, Ákra Skíllaion, Ákra Skýllaion
+Ákra Skýllaio, Akra Skílaion, Akrotírion Skýllaion, Cape Skili, Cape Skyli, Ákra Skíllaion, Άκρα Σκύλλαιον
 Ákra Smyrniós, Ákra Smirniós
 Ákra Sofía
 Ákra Sorgiás, Ákra Oryiás
@@ -7621,10 +7621,10 @@ schinias
 Ákra Speirí, Cape Spiri, Ákra Spirí
 Ákra Spiliároi, Makriá Khálki
 Ákra Spilás, Cape Spilas, Ακρωτήρι Σπιλάς, Κάβος Τράχηλα, Κάβος Τραχήλου, Σπηλιάς, Σπιλάς
-Ákra Spátha, Akrotírion Spátha, Cape Spada, Kávos Spáthas, Ákra Spánda, Άκρα Σπάντα
+Ákra Spátha, Akrotírion Spátha, Cape Spada, Kávos Spáthas, Ákra Spánda, Ákra Spánta
 Ákra Stamoléka, Akra Stavouléka, Stavuleka Point
 Ákra Stavrí, Cape Stavro, Άκρα Σταυρί
-Ákra Stavrós, Cape Stavro, Cape Stavros, Ákra Koftó, Άκρα Σταυρός
+Ákra Stavrós, Cape Stavro, Cape Stavrós, Ákra Koftó, Άκρα Σταυρός
 Ákra Stení Poúnta, Punta Avlagi, Punta Avlaki, Άκρα Στενή Πούντα
 Ákra Stenó, Cape Stenó, Dhísvaton, Steno Point
 Ákra Steíri
@@ -7646,18 +7646,18 @@ schinias
 Ákra Sélina, Akra Sélinos, Cape Sélinos, Ákra Sélino
 Ákra Sépia, Cape Sepias, Ákra Sipiá, Ákra Sipiás
 Ákra Sésklo, Cape Seskoulo, Cape Sésklo, Ákra Séskoulo, Ákra Séskoulos
-Ákra Síderos, Akra Sídheron, Akroterion Samonion, Cape Sidero, Cape Sideron, Cape Sidhero, Iraíon, Ákra Sidheros, Ákra Sídhero, Áyios Isídhoros
+Ákra Síderos, Akra Sídheron, Akroterion Samonion, Cape Sidero, Cape Sideron, Cape Sidhero, Iraíon, Ákra Sidhero, Ákra Sidheros, Áyios Isídhoros
 Ákra Tampourás, Erimítis, Ákra Erimítis, Άκρα Ταμπουράς
 Ákra Tamélos, Amílios, Cape Tamelos
 Ákra Taméra, Cape Tamera
 Ákra Tarsanás, Tershana Point, Ákra Poíses, Ákra Píses
 Ákra Tavérna, Cape Malagári, Malagari Point, Ákra Malagári
 Ákra Taxiárchis, Akra Falakron, Angelókastro, Cape Palacrum, Falakrón, Phalakron, Stalíki, Ákra Angelókastron
-Ákra Taínaron, Akra Trainaron, Cape Matapan, Matapan, Matapás, Taenarium Promontorium, Taenarum, Ακρωτήριο Ταίναρο, Ακρωτήριον Ταίναρον, Κάβο Ματαπάς
-Ákra Theiáki, Dhiakófti, Thiákion Point, Ákra Thiákion, Άκρα Θειάκιον
+Ákra Taínaron, Akra Trainaron, Cape Matapan, Kávo Matapás, Matapan, Matapás, Taenarium Promontorium, Taenarum, Ακρωτήριο Ταίναρο, Ακρωτήριον Ταίναρον
+Ákra Theiáki, Dhiakófti, Thiákion Point, Ákra Theiákion, Ákra Thiákion
 Ákra Themistokléous, Krákari, Άκρα Θεμιστοκλέους
 Ákra Theológos
-Ákra Thermísi, Cape Thermisi, Thermioí, Thermísi, Άκρα Θερμήσιον
+Ákra Thermísi, Cape Thermisi, Thermioí, Thermísi, Ákra Thermísion
 Ákra Theófilos
 Ákra Thiséos
 Ákra Thiáfi, Theaphi Point, Άκρα Θειάφι, Θειάφι
@@ -7675,7 +7675,7 @@ schinias
 Ákra Toíchos, Ákra Toíkhos
 Ákra Toúrkos, Άκρα Τούρκος
 Ákra Toúrla, Cape Tuzla, Tuzla Point, Ákra Toúzla, Ákra Túzla, Άκρα Τούρλα
-Ákra Toúrlos, Cape Tourlos, Cape Turlo, Άκρα Τούρλος
+Ákra Toúrlos, Cape Toúrlos, Cape Turlo, Άκρα Τούρλος
 Ákra Trachíli, Cape Muti, Cape Trakhyli, Cape Trakhíli, Trakhila Point, Ákra Kastélla, Ákra Míti, Ákra Trakhíli
 Ákra Tragopídima, Punta Traopidima, Vrontos Point, Ákra Tragopídhima
 Ákra Trakhílas, Cape Trakhela, Cape Trákhilas, Ákra Kávos, Ákra Trakhíla
@@ -7695,7 +7695,7 @@ schinias
 Ákra Trékala, Cape Trikála, Cape Trékala
 Ákra Tríkeri, Cape Trikeri, Ákra Trakhíli
 Ákra Tríkkeri, Cape Trikeri
-Ákra Trímeso, Cape Strimessos, Cape Trimeson, Cape Trimesson, Petrítis, Strimesós, Ákra Trímeson
+Ákra Trímeso, Cape Strimessos, Cape Trimeson, Cape Trimesson, Petrítis, Strimesós, Άκρα Τρίμεσον
 Ákra Trínisa
 Ákra Trípori, Tripití Point
 Ákra Trópaia
@@ -7725,7 +7725,7 @@ schinias
 Ákra Varéla
 Ákra Vasilikó
 Ákra Vasilikós, Cape Vasilikós, Kosóron Cape, Vasiliko Point, Ákra Vaslikós
-Ákra Vasilínas, Ákra Vasilína
+Ákra Vasilínas, Άκρα Βασιλίνα
 Ákra Vathí, Akra Spourtea, Cape Vathi, Ákra Skourtéa
 Ákra Vathý, Cape Vathi, Kávos Vathioú, Kávos Vathí, Makrá Rákhi, Vathy Point
 Ákra Vathý Avláki, Άκρα Βαθύ Αυλάκι
@@ -7735,9 +7735,9 @@ schinias
 Ákra Velóni, Cape Velóna, Velona Point, Ákra Velóna
 Ákra Venétiko, Cape Venetico, Ákra Venétikon
 Ákra Ververónta, Ákra Ververoúda, Ákra Ververónda, Ákra Veveréntza, Άκρα Βερβερούδα
-Ákra Viglostási, Cape Viglostási, Cape Vilostasi, Vigklastasi, Vilostaston, Ákra Velostásion, Ákra Viglostásion, Ákra Vilostási, Ákra Vinglostási
+Ákra Viglostási, Cape Viglostási, Cape Vilostasi, Vigklastasi, Vilostaston, Ákra Velostásion, Ákra Vilostási, Ákra Vinglostási, Άκρα Βιγλοστάσιον
 Ákra Vitsiliá, Cape Elia, Ákra Ilías
-Ákra Viókastro, Ákra Ovraiókastron, Ákra Viókastron
+Ákra Viókastro, Ákra Ovraiókastron, Άκρα Βιόκαστρον
 Ákra Vliótis, Cape Vliótis, Violí, Ákra Vlióti
 Ákra Vodína
 Ákra Voreinó, Borino Point, Vorino Poúnda, Ákra Vorinó
@@ -7801,10 +7801,10 @@ schinias
 Ákra Ágios Ilías, Cape Elias, Ákra Áyios Ilías
 Ákra Ágios Ioánnis, Aforisménos Kávos, Akra Aforesménos, Cape Hagios Joannis, Cape Ioannis, Cape Saint John, Cape Zuana, Cape Ágios Ioánnis, Cape Áyios Ioánnis, Spinalonga, Trívlaka, Tsouána, Ákra Ayíou Ioánnou, Ákra Tzouánna, Ákra Zefirion, Ákra Zouánna, Áyios Ioánnis, Áï Yiánnis, Αφωρεσμένος Κάβος
 Ákra Ágios Isídoros, Aghois Isidhoros
-Ákra Ágios Kosmás, Koliás Ákra, Ákra Ayíou Kosmá, Ákra Áyios Kosmás
+Ákra Ágios Kosmás, Ákra Ayíou Kosmá, Ákra Áyios Kosmás, Κολιάς Άκρα
 Ákra Ágios Minás
 Ákra Ágios Nikíta, Ákra Ágios Nikítas, Ákra Áyios Nikíta, Ákra Áyios Nikítas
-Ákra Ágios Nikólaos, Agíou Nikoláou, Andemaki Point, Antemáki, Antimácheia, Gourniátis, Ákra Andimákhi, Ákra Chelóna, Ákra Khelóna, Ákra Ágios Nichólaos
+Ákra Ágios Nikólaos, Agíou Nikoláou, Andemaki Point, Antemáki, Antimácheia, Gourniátis, Ákra Andimákhi, Ákra Chelóna, Ákra Khelóna, Άκρα Άγιος Νιχόλαος
 Ákra Ágios Págkalos, Cape Pángalos, Ákra Pángalos
 Ákra Ágios Pávlos
 Ákra Ágios Stefánou, Άκρα Άγιος Στεφάνου, Άκρα Ζέφυρος
@@ -7824,7 +7824,7 @@ schinias
 Ákra Áspra Khómata
 Ákra Áspri Poúnta, Áspri Poúnda, Άκρα Άσπρη Πούντα
 Ákra Áspro, Cape Áspros, Steli, Ákra Stíli
-Ákra Áspro Mourí, Cape Martello, Cape Martélos, Άκρα Άσπρο Μουρί, Άκρα Μαρτέλος
+Ákra Áspro Mourí, Cape Martello, Cape Martélos, Ákra Martélos, Άκρα Άσπρο Μουρί
 Ákra Ásprokavos, Cape Aspró, Cape Yuktash, Ákra Yioúktasi, Ákra Yúktashi
 Ákra Áspron, Cape Áspro
 Ákra Áspros Kávos
@@ -7910,7 +7910,7 @@ schinias
 Ólympos, Mount Olympos, Olympus, Skórdhi, Ólimbos, Óros Ólimbos
 Ólympos Óros, Ólimbos Evvoías, Ólimbos Óros
 Óneia, Pendeskoúfa, Ónia Óri
-Ónychas Óros, Rodhopoú, Títiron, Títiros, Ónikhas Óros, Ónychas, Óros Títiron
+Ónychas Óros, Rodhopoú, Títiron, Títiros, Ónikhas Óros, Óros Títiron, Όνυχας
 Óri Filiatón, Óros Filiatón
 Óri Kouréndon
 Óri Kyparissías, Óri Kiparissías
@@ -7926,7 +7926,7 @@ schinias
 Órlovo
 Órmos, Órmos Oúpi
 Órmos Achinoú, Ekhinos Bay, Órmos Akhinoú, Órmos Ekhinoú, Όρμος Αχινού
-Órmos Achladítsas, Órmos Dárndiza, Órmos Dártiza, Órmos Dártouzas, Όρμος Ντάρτιζα
+Órmos Achladítsas, Órmos Dárndiza, Órmos Dártiza, Órmos Dártouzas, Órmos Ntártiza
 Órmos Achyrónas
 Órmos Achái
 Órmos Acháta, Órmos Akháta
@@ -7948,13 +7948,13 @@ schinias
 Órmos Agías Effimías, Ayía Evfimía, Pilaros Cove, Saint Euphemia, Órmos Ayía Evfimías, Órmos Pílaros, Όρμος Αγίας Ευφημίας
 Órmos Agías Eirínis, Agia Irene Bay, Angáli Ayía Iríni, Baia San Irene, Limín Aneríni, Órmos Ayías Irínis
 Órmos Agías Kyriakís, Kólpos Ayías Kiriakís, Órmos Ayía Kiriakí
-Órmos Agías Marínas, Agia Marina Bay, Ayía Marína Bay, Saint Marina Bay, Trikolimniónas, Órmos Ayía Marína, Órmos Ayías Marínas, Όρμος Αγία Μαρίνα
+Órmos Agías Marínas, Agia Marina Bay, Ayía Marína Bay, St. Marina Bay, Trikolimniónas, Órmos Agía Marína, Órmos Ayía Marína, Órmos Ayías Marínas
 Órmos Agías Theodótis, Ayía Theodhóti, Órmos Theodhótis
 Órmos Agías Triádos, Akhládha, Ormos Ayia Triadha, Órmos Ayías Triádhos
 Órmos Agías Ánnas, Procopi Bay, Santa Anna Bay, Áyios Prokópios bay, Órmos Ayía Ánna, Órmos Ayías Ánnas, Órmos Prokópi, Órmos Prokópis, Órmos Áyios Prokópis
 Órmos Agíon Apostólon, Apostolos Bay, Áyioi Apóstoloi Roadstead, Órmos Ayíon Apostólon, Órmos Áyioi Apóstoloi
 Órmos Agíou Aimilianoú, Moroni Bay, Órmos Ayióu Aimihanoú, Órmos Ayíou Aimilianoú, Órmos Maróni, Όρμος Αγίου Αιμιλιανού
-Órmos Agíou Andréou, Saint Andrea Bay, Órmos Ayíou Andréa, Όρμος Αγίου Ανδρέου
+Órmos Agíou Andréou, St. Andrea Bay, Órmos Ayíou Andréa, Όρμος Αγίου Ανδρέου
 Órmos Agíou Antoníou, Plagio Bay, Órmos Plágio, Όρμος Αγίου Αντωνίου
 Órmos Agíou Dimitríou, Limín Ayíou Dhimitríou, Port Dimitri, Órmos Ayíou Dhimitríou, Όρμος Αγίου Δημητρίου
 Órmos Agíou Filíppou, Órmos Vrísais, Όρμος Αγίου Φιλίππου
@@ -7965,7 +7965,7 @@ schinias
 Órmos Agíou Konstantínou, Saint Konstantinos Bay, Vorlovoú, Áyios Konstandínos Bay, Órmos Ayíou Konstandínou, Όρμος Αγίου Κωνσταντίνου
 Órmos Agíou Kírykos, Όρμος Αγίου Κήρυκος
 Órmos Agíou Márkou, Órmos Ayíou Márkou, Όρμος Αγίου Μάρκου
-Órmos Agíou Nikoláou, Arazo Road, Frangolímano, Kólpos Ayíou Nikoláou, Ormos Áyios Nikólaos, Port Saint Nikolaos, Saint Nikolo Bay, Áragma Bay, Áyios Nikólaos Bay, Órmos Áragma, Órmos Áraxo, Όρμος Αγίου Νικολάου
+Órmos Agíou Nikoláou, Arazo Road, Frangolímano, Kólpos Ayíou Nikoláou, Ormos Áyios Nikólaos, Port Saint Nikolaos, Saint Nikolo Bay, Áragma Bay, Áyios Nikólaos Bay, Órmos Áragma, Órmos Áraxo, Όρμος Άγιου Νικολάου
 Órmos Agíou Pávlou, Ormos Ayios Pavlos, Áyios Pávlos bay, Órmos Ayíou Pávlou, Όρμος Αγίου Παύλου
 Órmos Agíou Pétrou, Kirá Panayiá Bay, Áyios Pétros, Órmos Ayíou Pétrou, Órmos Kirá Panayiá, Όρμος Αγίου Πέτρου
 Órmos Agíou Romanoú, Όρμος Αγίου Ρωμανού
@@ -8086,7 +8086,7 @@ schinias
 Órmos Falírou, Faliron Bay, Phaleron Bay, Phaliron Bay, Όρμος Φαλήρου
 Órmos Fanokopeioú, Órmos Fanokopioú, Όρμος Φανοκοπειού
 Órmos Fanári, Goúrla, Port Phanari, Órmos Spalntzas, Órmos Splantza
-Órmos Fanón, Fana bay, Fanaí, Ormískos Káto Fanás, Órmos Káto Faná
+Órmos Fanón, Fana bay, Fanaí, Ormískos Káto Fanás, Όρμος Κάτω Φανά
 Órmos Felotís
 Órmos Filágra, Órmos Filágras
 Órmos Firón, Fira Bay, Όρμος Θήρας
@@ -8113,7 +8113,7 @@ schinias
 Órmos Galípas
 Órmos Gardikíou, Gardikios Bay, Órmos Gardhikíou, Όρμος Γαρδικίου
 Órmos Gaïdourómantra, Órmos Gaïdhourómandra, Όρμος Γαϊδουρόμαντρα
-Órmos Gennadíou, Yanathi Bay, Yannathi Bay, Órmos Giannáthi, Órmos Yiannádhi, Όρμος Γενναδίου
+Órmos Gennadíou, Yanathi Bay, Yannathi Bay, Órmos Yiannádhi, Όρμος Γενναδίου, Όρμος Γιαννάθη
 Órmos Gerolimiónas, Órmos Yerolimiónas
 Órmos Gerolimniónas, Órmos Yerolimniónas
 Órmos Geroliménos, Órmos Yeroliménos, Órmos Yialí, Γυαλί
@@ -8160,8 +8160,8 @@ schinias
 Órmos Kalotýri, Kaloterion Bay, Órmos Kalotíri
 Órmos Kaloí Limniónes, Fair Heavens, Kalo Limniones, Kaloí Liménes, Kaloí-Limniónes Bay
 Órmos Kalydónos, Órmos Kalidhónos, Órmos Krioneriou
-Órmos Kalythión, Kalitheas Bay, Órmos Kallithéas
-Órmos Kalyvón, Kalívia Bay, Órmos Kalívia, Órmos Kalívia Vámou, Órmos Kalývia
+Órmos Kalythión, Kalitheas Bay, Όρμος Καλλιθέας
+Órmos Kalyvón, Kalívia Bay, Órmos Kalívia, Órmos Kalívia Vámou, Όρμος Καλύβια
 Órmos Kalá Nerá, Kalónero Bay
 Órmos Kaló Ampéli, Órmos Ambéli, Órmos Vayiá
 Órmos Kalógeros, Kaloyéron
@@ -8176,7 +8176,7 @@ schinias
 Órmos Kanála, Órmos Flamboúri
 Órmos Kapsalíou, Órmos Kapsáli, Όρμος Καψαλίου
 Órmos Karalís
-Órmos Karathónas, Karathona Bay, Ormískos Karathónas, Órmos Karathóna
+Órmos Karathónas, Karathona Bay, Órmos Karathóna, Ορμίσκος Καραθώνας
 Órmos Karavostási, Karavostási Bay, Limín Karavostási
 Órmos Karavotsákisma
 Órmos Karavés, Karaves Bay
@@ -8204,13 +8204,13 @@ schinias
 Órmos Khersónisos, Khersonisos Bay, Limáni Khersonísou, Limín Khersonísou, Ormos Khersonisou
 Órmos Khálaron
 Órmos Kioníon, Stauro Bay, Stavrós Bay, Órmos Stavroú, Όρμος Σταυρού, Όρμος Σταυρός
-Órmos Kiourkáti, Όρμος Κιουρκάτι, Ορμίσκος Κιρκάτη
+Órmos Kiourkáti, Ormískos Kirkáti, Όρμος Κιουρκάτι
 Órmos Kitrión, Órmos Kitriés
 Órmos Kitropláka
 Órmos Kióni
 Órmos Klíma, Myrtzínia
 Órmos Ko
-Órmos Koiládos, Port Kiladia, Órmos Koiládhi, Órmos Koiládhia, Órmos Koiládhos, Órmos Koiládia, Órmos Kranidhíou
+Órmos Koiládos, Port Kiladia, Órmos Koiládhi, Órmos Koiládhia, Órmos Koiládhos, Órmos Kranidhíou, Όρμος Κοιλάδια
 Órmos Kokkaliás
 Órmos Kokkári
 Órmos Kolokythiás, Kolokithia Bay, Limín Kolokithiás, Port Kolokithia, Port Kolokythia, Órmos Kolokithiá, Órmos Kolokithiás
@@ -8228,7 +8228,7 @@ schinias
 Órmos Koutoukáras, Όρμος Κουτουκάρας
 Órmos Kouvérta, Kuverta, Port Kuverta, Όρμος Κουβέρτα
 Órmos Kouzounoú, Όρμος Κουζουνού
-Órmos Kouáta, Skínto, Órmos Goúni, Órmos Skindo, Όρμος Κουάτα, Ορμίσκος Σκίντος
+Órmos Kouáta, Ormískos Skíntos, Órmos Goúni, Órmos Skindo, Όρμος Κουάτα, Σκίντο
 Órmos Koúmaros, Órmos Kómaros, Όρμος Κούμαρος
 Órmos Koúramos, Órmos Chalkiás, Órmos Khalkiás, Órmos Khilkiás, Órmos Kilkias
 Órmos Koútoulou, Όρμος Κούτουλου
@@ -8258,7 +8258,7 @@ schinias
 Órmos Kólimbos
 Órmos Kópori
 Órmos Kórfos, Baia Rossa, Ormískos Kórfos, Órmos Rósso
-Órmos Kórfou, Korfos Bay, Korphi, Órmos Korfoí, Órmos Korés, Όρμος Κόρφου
+Órmos Kórfou, Korfos Bay, Korphi, Órmos Korfoí, Όρμος Κορές, Όρμος Κόρφου
 Órmos Kýmis, Gulf of Kími, Kumi Bay, Órmos Kímis
 Órmos Lafonisóporo
 Órmos Lagkádas, Órmos Lankádhas
@@ -8413,7 +8413,7 @@ schinias
 Órmos Noúsa, Όρμος Νούσα
 Órmos Nátis, Baia Nati, Órmos Náti
 Órmos Néas Artákis, Vatónda, Vatóndas
-Órmos Néas Epidávrou, Néa Epídhavros Bay, Piadha Bay, Piáda, Órmos Néas Epidhávrou, Órmos Piádha, Όρμος Νέας Επιδαύρου
+Órmos Néas Epidávrou, Néa Epídhavros Bay, Piadha Bay, Órmos Néas Epidhávrou, Órmos Piádha, Όρμος Νέας Επιδαύρου, Πιάδα
 Órmos Némi
 Órmos Néos Limín, Néos Limín
 Órmos Nísiza
@@ -8453,15 +8453,15 @@ schinias
 Órmos Pasás
 Órmos Patitíri, Órmos Patitiríou, Όρμος Πατητηρίου
 Órmos Patnióti
-Órmos Pedíou, Baia di Pedi, Kólpos Pédhi, Pethi Harbour, Órmos Paidhí, Όρμος Πέδι, Όρμος Πεδίου
+Órmos Pedíou, Baia di Pedi, Kólpos Pédhi, Pethi Harbour, Órmos Paidhí, Órmos Pédi, Όρμος Πεδίου
 Órmos Peléki, Pelaki Anchorage, Peléki Anchorage, Port Pelaki, Órmos Peláki
 Órmos Perigiáli, Órmos Sfageíon
 Órmos Peristéri
-Órmos Peráni, Órmos Péranos, Όρμος Πέρανης
+Órmos Peráni, Órmos Péranis, Órmos Péranos
 Órmos Períssas, Perisa Bay
 Órmos Petalidíou, Petalidi Bay, Petalídhi Bay, Órmos Petalidhíou, Órmos Petalídhi, Órmos Petalídi, Όρμος Πεταλιδίου
 Órmos Petrión, Port Petries, Áyioi Apóstoloi, Órmos Ayión Apostólon, Órmos Petriés
-Órmos Phorón, Forón Harbour, Limín Fóron, Limín Phorón, Port Foron, Port Phoron, Όρμος Σφαγείων, Όρμος Φωρών, Σφαγείων, Φωρών
+Órmos Phorón, Forón Harbour, Limín Fóron, Limín Phorón, Port Foron, Port Phoron, Sfageíon, Όρμος Σφαγείων, Όρμος Φωρών, Φωρών
 Órmos Pigádia, Baia di Vronti, Pegadi Bay, Pegádia Bay, Pigadia Bay, Órmos Pigadhión, Órmos Pigádhia
 Órmos Pilíou, Órmos Píli, Όρμος Πηλίου
 Órmos Plastirá
@@ -8526,7 +8526,7 @@ schinias
 Órmos Sagiádas, Saiada Bay, Sayiádha Bay, Órmos Sayiádhas
 Órmos Salamiás
 Órmos Salamínas, Koluri Bay, Salamis Bay, Salamís, Órmos Koúlouris, Órmos Salamínos
-Órmos Salantioú, Ormískos Karterós, Órmos Karteró, Órmos Salandioú, Όρμος Σαλαντιού
+Órmos Salantioú, Órmos Karteró, Órmos Salandioú, Όρμος Σαλαντιού, Ορμίσκος Καρτερός
 Órmos Salaóras, Salaora Bay, Órmos Salaóra, Órmos Salaóros
 Órmos Salágona, Ormískos Salágonas, Salaghona bay
 Órmos Sarakíniko
@@ -8627,9 +8627,9 @@ schinias
 Órmos Tserkéza
 Órmos Tsipídho, Órmos Tsimbídho
 Órmos Tsónia, Kólpos Tsónia
-Órmos Tyroú, Órmos Tiroú, Órmos Tirós, Órmos Tyrós, Όρμος Τυρού
+Órmos Tyroú, Órmos Tiroú, Órmos Tirós, Όρμος Τυρού, Όρμος Τυρός
 Órmos Tzórti, Όρμος Τζωρτζη
-Órmos Téntas, Ténda Bay, Órmos Ténda, Όρμος Τέντα
+Órmos Téntas, Ténda Bay, Órmos Ténda, Órmos Ténta
 Órmos Tértsa
 Órmos Vagioniás, Barpariá, Órmos Barmbariá, Órmos Barmpariá, Órmos Vagoniás, Órmos Vayionías, Όρμος Μπαρμπαριά
 Órmos Vagiá, Vaghia Bay, Vaia Bay, Órmos Vayiá
@@ -8638,7 +8638,7 @@ schinias
 Órmos Variarniá, Limín Prinalí, Ormískos Voreiarniá
 Órmos Vasilikoú, Vasilikó Bay, Órmos Vasilikó, Όρμος Βασιλικού
 Órmos Vasiliká, Ormos Vasilikó
-Órmos Vasilikís, Kólpos Vasilikí, Vasilico Bay, Vasilikí Bay
+Órmos Vasilikís, Kólpos Vasilikí, Vasilico Bay, Vasiliki Bay
 Órmos Vasilikón, Órmos Vasilikó
 Órmos Vathikoílou, Kólpos Vathikélou
 Órmos Vathí, Limín Vathí, Porto di Vati, Ryna
@@ -8655,7 +8655,7 @@ schinias
 Órmos Viátika, Órmos Voiátika
 Órmos Vlachiás, Órmos Vlakhiá
 Órmos Vlychá, Órmos Vlikhá
-Órmos Vlychádas, Vlichadha bay, Órmos Vlycháda
+Órmos Vlychádas, Vlichadha bay, Όρμος Βλυχάδα
 Órmos Vlychádia, Ormískos Vlychádia, Órmos Vlikhádhia
 Órmos Vlychó, Port Vliko, Vlikhó bay, Vliko Bay, Órmos Vlikhó
 Órmos Vokariá
@@ -8678,7 +8678,7 @@ schinias
 Órmos Vromopígado, Ormískos Vromopoúsi, Órmos Vromopoúsi, Ορμίσκος Βρωμοπούσι
 Órmos Vrouliás, Kólpos Vourliá, Vourliás Bay, Órmos Vrouleá, Όρμος Βρουλεά, Όρμος Βρουλιάς
 Órmos Vroulídion, Agkáli Vourlídia, Vroulidhia bay, Όρμος Βρουλίδιων
-Órmos Vráskou, Όρμος Βράσκου, Όρμος Τηγάνια
+Órmos Vráskou, Órmos Tigánia, Όρμος Βράσκου
 Órmos Vála, Ormískos Glifádha, Ormískos Váles
 Órmos Váltos
 Órmos Váltou, Όρμος Βάλτου
@@ -8743,17 +8743,17 @@ schinias
 Óros Pílion, Pelion
 Óros Sagiádhas
 Óros Smólikas, Σμόλικας
-Óros Sýmvolo, Símvolon Óros, Óros Sínvolon, Óros Sýmvolon
+Óros Sýmvolo, Símvolon Óros, Óros Sínvolon, Όρος Σύμβολον
 Óros Thryptís, Thriftí Óros, Óros Thriptís
 Óros Tómaros, Olytsika, Olítsika, Olítsikas, Olýtsikas, Tómaros
 Óros Týmfi, Gamíla, Gkamíla, Týmfi, Óros Tímfi
 Óros Virsínis
-Óros Vrachiónas, Varkhionas, Vrachiónes, Vrakhiónas Óros, Βραχιώνας
+Óros Vrachiónas, Varkhionas, Vrachiónas, Vrachiónes, Vrakhiónas Óros
 Óros Vérno, Vérnon Óros
-Óros Ágkistro, Tsingélion Óros, Tsíngéli, Ángistron Óros, Óros Ágkistron
+Óros Ágkistro, Tsingélion Óros, Tsíngéli, Ángistron Óros, Όρος Άγκιστρον
 Óros Ídi, De Gros, Ida, Psiloriti, Psiloritis Mountain Chain, Ídhi Óros, Ίδη
 Óros Ísmaros
-Óros Órno, Όρος Όρνον
+Óros Órno, Óros Ornón
 Órova Réma
 Ósovo Réma
 Óssoyio, Óssoyo

@@ -7,7 +7,7 @@ Abrahami
 Ach'ajur, Աչաջուր
 Ach'ak'ar
 Ach'ik
-Achajur, Achadzhur, Achasu, Աչաջուր
+Achajur, Achasu, Ачаджур, Աչաջուր
 Achanan, Halaj, KhaladZh, Khalaj
 Acharkut, Աճարկուտ
 Achkhlu
@@ -35,7 +35,7 @@ Aghavnavank', Salakh
 Aghavnots'
 Aghavnut, Աղավնուտ
 Aghberak
-Aghberk', Agbulag, Agbulalakh, Агбулах
+Aghberk', Agbulag, Agbulakh, Agbulalakh
 Aghbraver
 Aghbrik
 Aghchots' Khach'
@@ -44,7 +44,7 @@ Aghdzvan
 Aghdzvani K'ar
 Aghelich
 Aghi Lich
-Aghin, Агин
+Aghin, Agin
 Aghitu, Aghudi, Agudi, Աղիտու
 Aghjots'
 Aghnjadzor, Aghkend, Agndzhadzor
@@ -101,7 +101,7 @@ Alvar, Duzkend
 Amaghu, Amagu, Ամաղու
 Amarran
 Amarrots'
-Amasia, Amasiya, Gukasyan
+Amasia, Gukasyan, Амасия
 Amayi
 Amayisar
 Ambrots'i Gyugh, Ամբրոցի գյուղ
@@ -169,7 +169,7 @@ Aragatsavan, Alages, Alagyoz, Alagëz
 Aragatsi
 Aragatsotn, Aragatzotn, Koytu, Koytul, Razvaliny Aragatsotn
 Aragili
-Aragyugh, Karadzhoran, Арагюх, Արագյուղ
+Aragyugh, Aragyukh, Karadzhoran, Արագյուղ
 Arak's, Nerkin Karkhun, Nizhniy Karkhun
 Arak'savan
 Arakelots, Առաքելոց
@@ -340,7 +340,7 @@ Aygavan, Reganlu
 Aygedzor, Kulali, Magandzh, Magandzhug, Maghanjugh, Mugandzhug, Mughanjugh, Pushi, Pushkag
 Aygegortsakan Tntesut'yun, Այգեգործական Տնտեսություն
 Aygehat, Aygeat, Danushavan
-Aygehovit, Aygeovit, Onut, Uzuntala
+Aygehovit, Onut, Uzuntala, Айгеовит
 Aygehovti
 Aygek
 Aygepani Bats'at
@@ -351,7 +351,7 @@ Aygestan, Ayaslu
 Aygevan
 Aygevet
 Aygezard, Anastasavan, Dargalu
-Aygut, Gëlkend, Այգուտ
+Aygut, Гелкенд, Այգուտ
 Aylots'
 Ayna
 Aynt'ap
@@ -406,7 +406,7 @@ Bardzradir
 Bardzragah
 Bardzrashen, Baburli, Bartsrashen
 Bardzrategh
-Bardzravan, Bartsravan, Yeritsatumb
+Bardzravan, Yeritsatumb, Барцраван
 Bardzraver
 Bardzruni, Bartsruni, Sultanbek, Բարձրունի
 Barekamavan, Dostlu, Kurumsulu
@@ -485,7 +485,7 @@ Buzhakani, Բուժականի
 Byurakan, Biurakan, Bjurakan, Burakan, Բյուրական
 Byurakn, Բյուրակն
 Byuravan, Bambakavan, Verin Kuylasar, Verkhniy Kuylasar, Բյուրավան
-Byureghavan, Byuregavan, Բյուրեղավան
+Byureghavan, Бюрегаван, Բյուրեղավան
 Ch'akhch'akh
 Ch'amankut, Չամանկուտ
 Ch'anakhch'i
@@ -569,7 +569,7 @@ Dashalty
 Dashkerpi
 Dashnoa
 Dasht
-Dashtadem, Illmazlu, Ilmazlu, Nerkin Talin, Nizhniy Talin
+Dashtadem, Illmazlu, Nerkin Talin, Nizhniy Talin, Илмазлу
 Dashtak
 Dashtak'ar, Dashlu
 Dashtavan
@@ -613,11 +613,11 @@ Dovegh, Balakend, Dovekh, Duvakh
 Dovoni Makaghots'
 Dprabak, Chaykend
 Dprevank'
-Drakhtik, Тохлуджа
+Drakhtik, Tokhludzha
 Drndatap'
 Drunk', Դրունք
 Drunk'atap', Դրունքատափ
-Dsegh, Дсех
+Dsegh, Dsekh
 Dvalner
 Dvin, Dvin Armyanskiy, Nerkin Dvin, Nizhniy Dvin
 Dvoragyukh, Дзорагюх
@@ -627,13 +627,13 @@ Dzhani
 Dzhdem
 Dzhiviskli
 Dzhokhadzor
-Dzit'hank'ov, Bazirkhana, Dzitankov, Dzitkhankov
+Dzit'hank'ov, Bazirkhana, Dzitkhankov, Дзитанков
 Dzknakerp
 Dzknorsneri
 Dzmerrots'
 Dzoraghbyur, Dzhorakhpyur, Dzoraghp'yur, Dzorakhpyur, Tedshirabad, Tedzhirabad, Tedzhrabak, Дзорахбюр, Ձորաղբյուր
 Dzoraglukh, Gyulablu, Ձորագլուխ
-Dzoragyugh, Darakend, Dzhoragyukh, Nerkin Pirtikan, Nizhniy Pirtikan, Vali Agalu, Дзорагет, Дзорагюх, Ձորագյուղ
+Dzoragyugh, Darakend, Dzhoragyukh, Dzoragyukh, Nerkin Pirtikan, Nizhniy Pirtikan, Vali Agalu, Дзорагет, Ձորագյուղ
 Dzorak
 Dzorakap, Bogazkyasan
 Dzoramut, Evlu, Molla Eylublu, Molla Eyublu, Ձորամուտ
@@ -668,7 +668,7 @@ Gandzakar, Agdan, Verin-Agdan, Verkhniy Agdan
 Gandzavank'
 Garedzor
 Garenots'
-Gargar, Armyanskiy Gerger, Dyarrgyarr, Gargarr, Garrgarr, Gerger Russkiy, Gergeri
+Gargar, Armyanskiy Gerger, Dyarrgyarr, Garrgarr, Gerger Russkiy, Gergeri, Գարգառ
 Garov
 Garrnahovit, Adyaman, Garnovit
 Garrnarrich, Garnarich, Khozikend, Кузикенд
@@ -678,7 +678,7 @@ Garrni, Bash Gyarni, Garni
 Garrniki Hanats
 Garunk, Գարունք
 Gaspari
-Gavar, Gavarr, Kyavar, Nor-Bajaset, Novo Bayazet
+Gavar, Kyavar, Nor-Bajaset, Novo Bayazet, Գավառ
 Gavarri Hovtun, Գավառի հովտուն
 Gavarrni
 Gay
@@ -695,15 +695,15 @@ Geghak'ar, Subatan
 Geghakert, Gekhakert, Samagar, Samaghar, Самахар
 Geghakhorrik
 Geghamabak, Kayabash, Quşabulaq
-Geghamasar, Gukarrich, Şişqaya, Шишкая
+Geghamasar, Gukarrich, Shishkaya, Şişqaya
 Geghamavan, Gegamavan, Shagriz
 Geghani
 Geghanist, Gekhadir, Getapnia, Golgat, Gëygmbet, Геханист
-Geghard, Artiz, Gekhard
+Geghard, Artiz, Гехард
 Geghark'unik', Bashkend, Gekharkuni, Gekharkunik, Գեղարքունիք
 Gegharot, Gekharot, Keshishkend
 Geghasar, Tapan, Tapanli
-Geghashen, Chatkran, Razdan, Гехашен
+Geghashen, Chatkran, Gekhashen, Razdan
 Geghatap'
 Geghatari Gomer, Geghat'arri Gomer
 Geghategh
@@ -742,12 +742,12 @@ Ghap'loyents'
 Gharaghaya, Karakaya
 Gharibjanyan, Aleksandrovka, Garibdzhanyan, Gharibjanian, Karibdzhanyan
 Ghazakhagomer
-Ghazanch'i, Kaikuli-Kazanchi, Казанчи
+Ghazanch'i, Kaikuli-Kazanchi, Kazanchi
 Ghazaravan, Nazrvan, Nazyrvan, Nezrvan
 Ghazari
 Ghazari Dzor
 Ghazaryan
-Ghukasavan, Gukasavan, Kalara, Ղուկասավան
+Ghukasavan, Kalara, Гукасаван, Ղուկասավան
 Ghulijani, Ղուլիջանի
 Ghursali, Kursali, Ղուրսալի
 Ghzroyi P'arakhner
@@ -831,12 +831,12 @@ Gyullibulagh, Гюллибулаг
 Gyumri, Alek'pol, Alek'sandrapol, Alek'sandrobol, Aleksandropol', Alexandropol', Gimri, Gumri, Gumry, Kumayri, Kyumayri, Kyumri, Kümri, Leninakan, Գյումրի
 Gyumru Zinanshan, Գյումրու զինանշան
 Gzraver
-Haghartsin, Dzharkhech, Dzharkhedzh, Haghardzin, Kuybishev, Куйбышев
+Haghartsin, Dzharkhech, Dzharkhedzh, Haghardzin, Kuybishev, Kuybyshev
 Haghpat, Akhpat, Hakhpat
 Haght'anak, Akhtanak, Chorort Gyukh
 Hagvi, Agvi
 Hakhs
-Hako, Hakko, Акко
+Hako, Akko, Hakko
 Hakobi
 Hakobyan T.
 Halavar, Galavar, Алавар
@@ -863,8 +863,8 @@ Haskategh
 Hatis, Atis, K'yank'yan
 Hatkashen
 Hats'agon
-Hats'ashen, Ацашен
-Hats'avan, Atsavan, Avdalar
+Hats'ashen, Atsashen
+Hats'avan, Avdalar, Ацаван
 Hats'ik, Atsik, Imeni Voroshilova, Topar, Toparli
 Hats'ikavan
 Hats'iki
@@ -880,7 +880,7 @@ Haykasar, Aykasar, Saribash
 Haykashen, Aykashen
 Haykashen Kat'oghikosaran
 Haykatap'
-Haykavan, Aykavan, Badzhogli, Tapadibi
+Haykavan, Badzhogli, Tapadibi, Айкаван
 Hayrapeti
 Hayravank, Айриван, Այրավանք
 Hayrenyats', Ayrenyats, Songyur, Songyurlu
@@ -902,7 +902,7 @@ Hin Bnakateghi
 Hin Dambaran
 Hin Geghabak
 Hin Gomer
-Hin Gyugh, Հին գյուղ
+Hin Gyugh, Հին Գյուղ
 Hin Gyughategh, Հին գյուղատեղ
 Hin Gyughateghi, Հին գյուղատեղի
 Hin Hovtunk', Հին Հովտունք
@@ -1000,14 +1000,14 @@ Jajurravan, Ջաջուռավան
 Jali K'it'
 Jaljani K'ar
 Jamshlu, Dzhamushlu, Malyye Dzhamushli, Ջամշլու
-Janfida, Dzhanfida
+Janfida, Джанфида
 Janibeki
 Janoyents' Surb, Ջանոյենց Սուրբ
 Jararat, Jarat
 Javakhk'i
 Jermanis, Dzhirmanis, Razvaliny Kelanlu, Zhirmanis
 Jermatun, Ջերմատուն
-Jermuk, Dzhermuk, Ջերմուկ
+Jermuk, Джермук, Ջերմուկ
 Jeyran Avetaran
 Jghal Avetaran
 Jghrner
@@ -1017,7 +1017,7 @@ Jil, Dzhil
 Jiliza, Dzhiliza
 Jottoyi
 Jraber, Dzhraber, Nikolayevka
-Jradzor, Chalab, Dzhalab, Dzhradzor
+Jradzor, Chalab, Dzhalab, Джрадзор
 Jradzori
 Jraghatsi Dzor
 Jrahovit, Dzhabachalu, Dzhraovit, Джаровит
@@ -1141,7 +1141,7 @@ Kanakerr-Zeytun
 Kanch'
 Kaniashir, Sangyar
 Kankrrut, Կանկռուտ
-Kapan, Ghapan, Kafan, Kafin, Madan, Qafan, Zangezur
+Kapan, Ghap'an, Kafan, Kafin, Madan, Qafan, Zangezur
 Kapanak
 Kaps
 Kaptatap'
@@ -1211,7 +1211,7 @@ Karvansara
 Kasakh, Chamrlu, Chamyrlu
 Kashvetegh
 Kat'an
-Kat'naghbyur, Agadzor, Katnagbyur, Katnaghpyur, Katnakhpyur, Koturbulag, Megriban, Կաթնաղբյուր
+Kat'naghbyur, Agadzor, Katnagbyur, Katnaghpyur, Koturbulag, Megriban, Катнахпюр, Կաթնաղբյուր
 Kat'najur, Karal, Katnadzhur, Կաթնաջուր
 Kat'narrat, Byl Mazra, Kantarat, Katnarat, Loriyskiy Sovkhoz, Lorplemsovkhoz, Mazra, P'ilmazra, P'ukhrut Mazra, Pirmazra, Pylmazra
 Katar
@@ -1233,9 +1233,9 @@ Kerukard, Կերուկարդ
 Ketevan
 Kghzyak
 Khach'
-Khach' Surb, Խաչ Սուրբ.
+Khach' Surb, Խաչ Սուրբ
 Khach'aghbyur, Chakhrlu, Chakhyrlu, Khachagbyur, Sovetakert, Խաչաղբյուր
-Khach'ardzan, Polad, Polad Ayrum
+Khach'ardzan, Polad Ayrum, Полад
 Khach'atakht
 Khach'ategh
 Khach'atryan A.
@@ -1340,7 +1340,7 @@ Koch'
 Kochghut, Կոճղուտ
 Kochki
 Koghan
-Koghb, Kochb, Kokhb
+Koghb, Kochb, Кохб
 Koghbavan
 Koghes, Karmir Agek, Koges, Kogos
 Kond
@@ -1443,7 +1443,7 @@ Lermontovo, Lermontov, Voskresenovka
 Lerrnadzor, Kyurdikend, Lernadzor
 Lerrnagog
 Lerrnagorts
-Lerrnagyugh, Chorlit, Chorlu, Lernantsk, Լեռնագյուղ
+Lerrnagyugh, Chorlit, Chorlu, Лернанцк, Լեռնագյուղ
 Lerrnahovit
 Lerrnakert, Kyasikbash, Lernakert, Shirvan, Shirvandzhug
 Lerrnakerti
@@ -1454,7 +1454,7 @@ Lerrnants'k'i Averakner
 Lerrnapar, Lernapar, Pamb Armyanskiy
 Lerrnapat, Gadzhikara, Lernapat, Makarashen
 Lerrnarot, Lerkarot, Lernarot, Magda
-Lerrnavan, Kachagan, Lernavan
+Lerrnavan, Kachagan, Лернаван
 Lerrnhovit, Karakilisa, Lernhovit, Lernovit
 Lerrnut, Arikhvali, Lernut, Լեռնուտ
 Levon
@@ -1477,14 +1477,14 @@ Lorut, Լորուտ
 Ltsen, Lizhin, Lizin, Ltse
 Lukashin, Imeni Mikoyana
 Lusadzor, Karanlukhdara, Khavaradzor, Լուսաձոր
-Lusaghbyur, Agbulag, Agbulakh, Svan, Svanverdi, Лусахпюр, Լուսաղբյուր
+Lusaghbyur, Agbulag, Agbulakh, Lusakhpyur, Svan, Svanverdi, Լուսաղբյուր
 Lusagyugh, Karanlug, Lusagekh, Lusagyukh, Nerk'in Turkmenlu, Լուսագյուղ
 Lusahovit, Lusaovit, Tsrrvis, Tsrviz, Լուսահովիտ
 Lusakert, Arpavar, Talib, Talibogly, Լուսակերտ
 Lusakn, Լուսակն
 Lusakunk', Լուսակունք
 Lusakunq
-Lusarrat, Shikhlar, Shkhlar, Лусарат, Լուսառատ
+Lusarrat, Lusarat, Shikhlar, Shkhlar, Լուսառատ
 Lusashogh, Lusashokh, Լուսաշող
 Luys Khach', Լույս Խաչ
 Lvis
@@ -1519,7 +1519,7 @@ Maralik, Molla Gëkcha
 Marez
 Marg
 Margadzor
-Margahovit, Bozigekh, Gamzachemanskaya, Gamzachiman, Hamgach'iman, Маргаовит
+Margahovit, Bozigekh, Gamzachemanskaya, Gamzachiman, Hamgach'iman, Margaovit
 Margahovti
 Margar Sarkavag
 Margara, Markara
@@ -1550,7 +1550,7 @@ Maturr, Մատուռ
 Maturrakhach', Մատուռախաչ
 Maturri, Մատուռի
 Matyants'
-Mayakovski, Mayakovskiy, Shaab
+Mayakovski, Shaab, Маяковский
 Mayisyan, Imeni Beriya, Imeni Zhdanova, Maisian, Maisyan, Ortakilisa
 Mayr Astvatsatsin
 Mayr Tachar Ejmiatsin
@@ -1562,7 +1562,7 @@ Meghenav
 Meghradzor, Megradzor, Taycharukh
 Meghrak'ar
 Meghrashat, Kara-Mamed, Megrashat
-Meghrashen, Kazanchi, Меграшен
+Meghrashen, Kazanchi, Megrashen
 Meghri, Megry, Mergi, Mogri, Мегри
 Meghvahovit, Kara Isa, Karaisa
 Meghvanots'
@@ -1634,7 +1634,7 @@ Mokhrablur, Մոխրաբլուր
 Mokhraghbyur, Մոխրաղբյուր
 Mokhrot
 Mosei Surb, Մոսեի Սուրբ
-Mosesgegh, Мосесгех
+Mosesgegh, Mosesgekh
 Moshaghbyur, Մոշաղբյուր
 Moshut, Մոշուտ
 Moskovyan
@@ -1748,7 +1748,7 @@ Nor Art'ik
 Nor Artagers
 Nor Artamet, Nor Artanet
 Nor Aznaberd, Gulistan, Gyulist, Gyulistan, Itkran, Verin Aznaberd
-Nor Geghi, Bazmavan, Chatkran, Нор Гехи
+Nor Geghi, Bazmavan, Chatkran, Nor Gekhi
 Nor Gyugh, Nor Gyukh, Tazagyukh, Նոր Գյուղ
 Nor Gyughateghi, Նոր գյուղատեղի
 Nor Hachn, Nor Achin, Nor Hachyn, Норачин
@@ -1778,7 +1778,7 @@ Norapat
 Norashen, Bogdanovka, Efendi, Sachlu, Verin Kurdkend
 Norashenik
 Noratun, Նորատուն
-Noratus, Норадуз, Նորատուս
+Noratus, Noraduz, Նորատուս
 Noratusi, Նորատուսի
 Noravan
 Norshen, Kharkov, Yenikëy
@@ -1790,7 +1790,7 @@ Nrrnadzor
 Nshan Surb, Նշան Սուրբ.
 Nshavan
 Nshkhark', Yanygh, Yanykh, Yanykhskiy Sovkhoz, Yanıx
-Nubarasheni, Nuparashen, Sovetashen, Нубарашен, Նուբարաշենի
+Nubarasheni, Nubarashen, Nuparashen, Sovetashen, Նուբարաշենի
 Nurrnus, Nurnus
 Nyuvadi, Nyuvedi
 Nzhdeh, Pusak, Soflu, Sotlu
@@ -1804,7 +1804,7 @@ Oghji, Oghch'oghli, Okhchogli
 Ogholor
 Oghormak
 Oghyan
-Ohanavan, Oganavan
+Ohanavan, Оганаван
 Ohani
 Okhtar
 Oloran
@@ -1932,7 +1932,7 @@ Portni
 Privolnoye
 Prroshyan, Proshian, Proshyan
 Ptghavan, Pkhtavan
-Ptghni, Ptgni, Ptykhni, Птхни
+Ptghni, Ptgni, Ptkhni, Ptykhni
 Ptghunk', Ptkhunk, Պտղունք
 Pushkino, Gerger Russkiy, Պուշկինո
 Qızılcıq   az Azerbaijan, Ghzljugh, Ghzyljugh, Ishkanasar, Kizildzhug, Kizildzhuk, Kyzyldzhug, Kyzyldzhuk
@@ -1951,7 +1951,7 @@ Saba Surb, Սաբա Սուրբ.
 Sabunchi
 Sadunts
 Safarents' Gomeri
-Saghmosavan, Сагмосаван
+Saghmosavan, Sagmosavan
 Saghrak
 Sagraberd
 Sagrashen 1-in
@@ -1968,7 +1968,7 @@ Salvard, Alilu
 Samsoni
 Samut, Սամուտ
 Samveli
-Sanahin, Sanain, Սանահինի
+Sanahin, Sanahini, Sanain
 Sandu K'arer, Սանդու քարեր
 SandzateGh
 Sanjer, Sandzharavaz
@@ -1980,7 +1980,7 @@ Sarakap, Bozdogan
 Saralandzh, Gadzhi Bagr, Gadzhibagir
 Saralanj, Bashgyukh, Gey Yekhush, Tulnabi
 Saralanji
-Saramej, Chotur, Сарамеч
+Saramej, Chotur, Saramech
 Saranar
 Saranist
 Sarapat, Samrly, Samurli
@@ -2023,7 +2023,7 @@ Saylkotruk, Սայլկոտրուկ
 Sektar
 Selav Ajakoghmyan
 Selimi
-Semyonovka, Семеновка
+Semyonovka, Semënovka
 Serkevil
 Serkeviladzor
 Serkevili Kaler
@@ -2066,7 +2066,7 @@ Shamakhi
 Shamam
 Shamb
 Shamiram, Shamiran
-Shamlugh, Shamlug, Շամլուղ
+Shamlugh, Шамлуг, Շամլուղ
 Shamsuz
 Shamut, Շամուտ
 Sharrl Aznavuri, Շառլ Ազնավուրի
@@ -2075,7 +2075,7 @@ Shatakh
 Shatin, Gasankend, Hasankand, Hesan Kand, Shatik
 Shatjrek, Koshabulag, Koshabulakh
 Shatrvanayin
-Shatvan, Agalu, Guseyn Kuli, Qayabaşı, Нариманлу
+Shatvan, Agalu, Guseyn Kuli, Narimanlu, Qayabaşı
 Shaumyana
 Shavarshavan
 Shavnidzor
@@ -2105,7 +2105,7 @@ Shikalich
 Shikaver
 Shiknots'i Gomer
 Shinategh
-Shinuhayr, Shinuair, Шинуайр, Շինուհայր
+Shinuhayr, Shinuair, Shinuayr, Շինուհայր
 Shiraghali Gomer
 Shirak, Konakhkran, Kunakhkran
 Shirakamut, Nalband, Շիրակամուտ
@@ -2352,7 +2352,7 @@ Ts'oghashat
 Ts'orenategh
 Ts'uraberd, Ցուրաբերդ
 Tsaghkaber, Avdibek, Tsakhkaber, Tzaghkaber
-Tsaghkadzor, Darachichag, Цахкадзор
+Tsaghkadzor, Darachichag, Tsakhkadzor
 Tsaghkaghbyur, Ծաղկաղբյուր
 Tsaghkahovit, Gadzhi-Khalil, Tzaghkahovit, Цахкаовит
 Tsaghkalanj, Agdzhakala, Tsakhkaladzh
@@ -2374,7 +2374,7 @@ Tsakkar
 Tsamakaberd
 Tsana
 Tsanr Vran
-Tsapatagh, Kizilkend, Kzylk'end
+Tsapatagh, Kzylk'end, Кизилкенд
 Tsar, Kabakhlu
 Tsarrvan
 Tsat'er
@@ -2398,7 +2398,7 @@ Tsmak
 Tsmakut, Ծմակուտ
 Tsop
 Tsorak
-Tsovagyugh, Chabukhly, Chibukhly, Chubukhly, Chubuli, Chubuliki, Tzovagyugh, Цовагюх, Ծովագյուղ
+Tsovagyugh, Chabukhly, Chibukhly, Chubukhly, Chubuli, Chubuliki, Tsovagyukh, Tzovagyugh, Ծովագյուղ
 Tsovak, Nerkin Zagalu, Nizhniy Zagalu
 Tsovasar, T'azagyugh, Tazagyukh
 Tsovazard, Gadzhi Mukhan, Mukhan
@@ -2426,7 +2426,7 @@ Urasar, Pokrovka, Куйбышев, Ուրասար
 Urmia, ՈՒրմիա
 Urrek, ՈՒռեկ
 Urrusi Gomer, Ուռուսի գոմեր
-Urrut, Urut, Ուռուտ
+Urrut, Урут, Ուռուտ
 Urts'adzor, Ուրցաձոր
 Urts'alanj, Ուրցալանջ
 Ururnots', ՈՒրուրնոց
@@ -2444,15 +2444,15 @@ Vaghatur, Вагатур, Վաղատուր
 Vaghaver
 Vahagnadzor
 Vahagni, Shagali, Vaagni
-Vahan, Ordzhonikidze
+Vahan, Орджоникидзе
 Vahanavank'i
 Vahe
 Vahramaberd, Nerkin Kanlidzha, Vagramaberd
 Vahramaberdi
 Vahramagyugh, Bayrans-Ali, Razvaliny Bayramali, Վահրամագյուղ
 Vahravar, Vagravar
-Vanadzor, Gharak'ilisa, Karakhs, Karakilis, Karaklis, Kirovakan, Kirowakan, Korovakan, Mets Karakilisa
-Vanand, Ghurdghulagh, Kurdkulag, Курдкулах, Ղուրդղուլաղ
+Vanadzor, Gharak'ilisa, Karakhs, Karakilis, Karaklis, Kirowakan, Korovakan, Mets Karakilisa, Кировакан
+Vanand, Ghurdghulagh, Kurdkulag, Kurdkulakh, Ղուրդղուլաղ
 Vanashen, Taitan, Taytan
 Vanatur, Վանատուր
 Vanek', Gharatgha, K'arat'agh, Karatag, Karatga
@@ -2536,7 +2536,7 @@ Verin Srhak
 Verin Tirashen
 Verin Ulnots', Վերին ՈՒլնոց
 Verin Vach'agan, Verkhniy Vachagan
-Verin Vardanidzor, Razvaliny Verkhniy Vartanadzor, Verkhniy Vardanadzor
+Verin Vardanidzor, Razvaliny Verkhniy Vartanadzor, Верхний Варданадзор
 Verin Vasakashen
 Verin Zeyva, Malaya Zeyva
 Verin-Kilisa
@@ -2553,7 +2553,7 @@ Vladents' Surb, Վլադենց Սուրբ
 Vloyi
 VoGhji, Okhchi, Vokhchi
 Voch'et'i, Adzhatin, Ajatin, Hajat'in, Ոչեթի
-Voghjaberd, Oghjaberd, Vokhchaberd
+Voghjaberd, Vokhchaberd, Ողջաբերդ
 Vorotan, Tatevges, Urut, Որոտան
 Vorsadzor, Որսաձոր
 Voskehask, Molla Musa, Musakan, Воскеаск
@@ -2585,7 +2585,7 @@ Yeghegnadzor, Keshishkend, Keshishkent, Mikoyan, Yeghegik, Yekhegnadzor, Ехе�
 Yeghegnavan, Shidlu, Ехегнаван, Եղեգնավան
 Yeghegni, Եղեգնի
 Yeghegnut, Badal, Kamyshkut, Molla Badal, Yegegnut, Yekhegnut, Yekheknut, Ехегнут, Ехекнут, Եղեգնուտ
-Yeghipatrush, Mrravyan, Tamdzhirlu, Мравян, Եղիպատրուշ
+Yeghipatrush, Mravyan, Mrravyan, Tamdzhirlu, Եղիպատրուշ
 Yeghnaghbyur, Եղնաղբյուր
 Yeghnajur, Ch'invinli, Chivinli, Eghnajur, Եղնաջուր
 Yeghnakhaghats', Եղնախաղաց
@@ -2598,7 +2598,7 @@ Yeghvard, Jegward, Yegvard, Yegvart, Yevgard, Егвард, Եղվարդ
 Yegori Surb, Եգորի Սուրբ
 Yekeghets'i, Եկեղեցի
 Yelits', Ելից
-Yelp'in, Ելփին
+Yelp'in, Elpin
 Yemazlu, Yemazli
 Yengidzha
 Yenok'atun, Ենոքատուն
@@ -2606,7 +2606,7 @@ Yenok'avan, Krdevan, Ենոքավան
 Yenok'i Surb, Ենոքի Սուրբ
 Yerakar, Yerrak'ar, Եռաքար
 Yerakh, Երախ
-Yeranos, Еранос
+Yeranos, Երանոս
 Yeraskh, Yeraskhavan, Երասխ
 Yeraskhahun, Kuru-Araz, Yeraskhaun, Երասխահուն
 Yerazgavors, Երազգավորս
@@ -2617,13 +2617,13 @@ Yeremi Surb, Երեմի Սուրբ
 Yeremis, Aramis, Irimis, Yeremes, Երեմիս
 Yereruyk', Երերույք
 Yerets'kin, Երեցկին
-Yerevan, Ayrivan, Ereun, Erewan, Erivan, Gorod Yerevan, Iravan, K'aghak' Yerevan, Revan, Yervandavan, Երեվան, Քաղաք Երէվան
+Yerevan, Ayrivan, Ereun, Erevan, Erewan, Erivan, Gorod Yerevan, Iravan, K'aghak' Yerevan, Revan, Yervandavan, Քաղաք Երէվան
 Yerevani, Երևանի
 Yeritasardakan, Երիտասարդական
 Yerits'asar, Երիցասար
 Yerits'at'up'k', Երիցաթուփք
 Yerits'atap', Երիցատափ
-Yerizak, Erizak, Ibish
+Yerizak, Ibish, Երիզակ
 Yerizkots'k', Երիզկոցք
 Yerkan, Երկան
 Yerkar Matner, Երկար մատներ
@@ -2659,7 +2659,7 @@ Zak'ari
 Zang
 Zangak
 Zangakatun, Nizhniye Chanakhchi, Sovetashen, Զանգակատուն
-Zarinja, Zarindzha, Zarndzha
+Zarinja, Zarindzha, Зарнджа
 Zarishat, Ghonjali, Kondzhali
 Zarmoyi
 Zarr, Зар

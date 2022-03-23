@@ -89,7 +89,7 @@
 'Erg Nbeyt el Ali, Erg Abid el Ali
 'Erg Nfakh, Erg N'far'h
 'Erg Nfayet
-'Erg Oghalla el Kbîr, 'Erg Oghala, 'Erg Orhalla Srhîr, 'Erg Orhalla el Kbîr, Erg Orella, Erg Orralla, Erg Rhala Srier, Erg-Ogalla-El'-Kbir, Oghalla el Kbîr, Oralla Erg, Orhalla el Kbîr
+'Erg Oghalla el Kbîr, 'Erg Ogalla-el'-Kbir, 'Erg Oghala, 'Erg Orhalla Srhîr, 'Erg Orhalla el Kbîr, Erg Orella, Erg Orralla, Erg Rhala Srier, Oghalla el Kbîr, Oralla Erg, Orhalla el Kbîr
 'Erg Oghalla es Sghîr, 'Erg Ogalla-es-Sguir, 'Erg Oghala-es-Sguir, 'Erg Orhalla es Srhîr, Erg-Ogalla-es-Sgir
 'Erg Oumm el A'sel
 'Erg Oumm el Ksi, Erg Moulksine
@@ -323,7 +323,7 @@ Adrar I-n-Ourfane, Adrar In Orfan, Adrar In Ourfan, Adrar in Orfane
 Adrar I-n-Sebbouk
 Adrar I-n-Zouleh, Adrar In Zouleh, Adrar in Zoulehe, Adrar-in-Zula
 Adrar Ibilalene
-Adrar Ichoualen, Achoualen Adrar, Adrar Achoualène, Adrar Ichouâlene, Adrar-Ichvalen
+Adrar Ichoualen, Achoualen Adrar, Adrar Achoualène, Adrar Ichoualene, Adrar-Ichvalen
 Adrar Ifourekkan, Adrar Ifourekan, Adrar Ifourekkâne, Adrar-Ifurekkan
 Adrar Ighezzaf, Adrar Ereuzaffane, Adrar Irhezzaf, Adrar-Igezzaf, Mont Irezaf
 Adrar Ileaten, Adrar Hehaten, Adrar Ileatene, Adrar-Imaten
@@ -900,7 +900,7 @@ Azanagar
 Azanko, Mont Asanko, Mont Assanko, Tables et Pitons Asanko
 Azaouagh
 Azaoueyouey
-Azaouâd, Azawad, Azawadi, أزاواد
+Azaouâd, Azawadi, Azawād, أزواد‎
 Azaralha
 Azawa
 Azawak, Axaouak, Azaouak, Azaouarh, Oued Azaouak, Vallée de l'Azaouak, Vallée de l'Azawak, Vallée de l'Azeouak
@@ -1355,7 +1355,7 @@ Cercle de San, San
 Cercle de Tessalit, Tesaliti
 Cercle de Yanfolila, Yanfolila, Yanfolila Cercle
 Cercle de Yorosso, Yorosso, Yɔrɔso
-Cercle de Yélimané, Yelimane, Yelimani, Yélimané Cercle
+Cercle de Yélimané, Yelimani, Yélimané, Yélimané Cercle
 Chabbi, Shabbi
 Chabougane, Mont Chabougan, Mont Chabougane
 Chadio, Shadio
@@ -1583,7 +1583,7 @@ Didia
 Didouguéma
 Didyéri
 Didé Koulouba
-Diema Cercle, Diema, Jɛma
+Diema Cercle, Diema, Jema
 Dienko
 Diganibougou
 Digar-Guindé
@@ -2799,7 +2799,7 @@ I-n-Ahalem
 I-n-Ahel, In Ahel
 I-n-Ahougha, In Ahourha
 I-n-Ahèz, In Ahèz
-I-n-Ais, Anou In Ais, In-Ais
+I-n-Ais, Anou in Ais, In Aïs
 I-n-Ajim, In Ajim
 I-n-Ajjer, In Ajjer
 I-n-Akalafa, In Akalafa
@@ -2943,7 +2943,7 @@ I-n-Darane, In Daran
 I-n-Daroua, In Daraouane
 I-n-Denar, In Denar
 I-n-Deni, In Daïni
-I-n-Dersane, In Dersan, Oued Indersan
+I-n-Dersane, In-Dersan, Oued Indersan
 I-n-Deursan, In Deursan
 I-n-Deyli, In Deyli
 I-n-Diaman, In Diaman
@@ -2982,7 +2982,7 @@ I-n-Eddou, Mont I-n- Eddou
 I-n-Edek, In Edeq'
 I-n-Edes
 I-n-Edièd, In Edièd
-I-n-Edjéhin, I-n-Édjéhine, In Edjéhin
+I-n-Edjéhin, I-n-Édjéhine, In Édjéhin
 I-n-Edok, Oued I-n-Edok
 I-n-Edèg
 I-n-Edèm
@@ -3465,7 +3465,7 @@ I-n-Zérouta, In Zérouta
 I-n-achola
 I-n-baniararnèn, In baniararnèn
 I-n-e Debnâne, In Dabnane, Ine Debnâne
-I-n-Âbâlene, Abalen, In Abalèn
+I-n-Âbâlene, Abalen, In Abalen
 I-n-Ârabene, In-Araben
 I-n-Ébram, In Ébram
 I-n-Éjarou, In Éjarou
@@ -5822,7 +5822,7 @@ Taoualat
 Taouarachit, Pitons de Tourachid, Taouarachid
 Taouarouart
 Taouchafet
-Taoudénit Region, Taoudenni, Taoudéni, Taoudénit, Tawudeni, تاودني, تَوْدِنّي, منطقة تودني, ߕߊߎߘߋߣߌ ߘߌߣߋߖߊ
+Taoudénit Region, Taoudenni, Taoudéni, Taoudénit, Taudeni Dineja, Tawudeni, تودني, تَوْدِنّي, منطقة تودني
 Taouiouelt
 Taoulilèt
 Taoulloust, Tabullous, Taoullous, Taullust

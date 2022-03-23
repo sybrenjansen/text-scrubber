@@ -4,10 +4,10 @@ Adzharsko
 Adzhilar Mahala, Adzhilar Makhle, Аджилар Махала
 Agatovo, Agatowo
 Aglen, Öglen, Ŭglen, Ъглен, Юглен
-Aheloy, Chemose, Chimos, Chimovo, Razvalina Chimcho, Razvalina Chimus, Tschimowo, Ахелой
+Aheloy, Akheloy, Chemose, Chimos, Chimovo, Razvalina Chimcho, Razvalina Chimus, Tschimowo
 Ahmatovo, Achmatowo, Ахматово
-Ahryansko, Achrjansko, Akhryan Eredzhek, Ахрянско
-Ahtopol, Achtepol, Achtopol, Agathopolis, Ahtapolu, Akhtebol, Ахтопол
+Ahryansko, Achrjansko, Akhryan Eredzhek, Akhryansko
+Ahtopol, Achtepol, Achtopol, Agathopolis, Ahtapolu, Akhtebol, Akhtopol
 Akandzhievo, Akandshiewo, Akandzhiovo
 Akatsievo, Rajanowzi
 Aksakovo, Adzhemler, Adžemler, Aksakov, Aksakovo Municipality, Aksakowo, Община Аксаково
@@ -22,7 +22,7 @@ Aleksandar Stamboliyski, Aleksandŭr Stamboliyski, Александър Стам
 Aleksandria, Aleksandrija, Alexandria, Александрия
 Aleksandrovo, Alcksandrovo, Aleksandrowo, Alexandrovo, Alexandrowo, Alexsandrovo, Alezantrovo, Arnautkiöj, Cherkez K'oy, Eni K'oy, Kara Khasan, Kara-Kaya, Khasanoglu, Knjas-Aleksandrowo, Knyaz Aleksandrovo, Kurudzhievo, Kurudzhievo Yunuz Beyuk, Mitkhad Pashako'y, Mitkhadŭpasha, Okchilar, Okchular, Razvalina Karakaya
 Alfatar, General Lazarovo, General Lazarow
-Aligovska Mahala, Aligovska Makhala, Aligovski, Aligowska, Pŭgovska, Алиговска
+Aligovska Mahala, Aligovska, Aligovski, Aligowska, Pŭgovska, Алиговска Махала
 Alino
 Altimir, Altemir, Altimirtsi
 Altsek, Alcek, Kesedgic, Kesedzhik
@@ -33,7 +33,7 @@ Angelov, Angelovo
 Angelov Dol
 Angelovi Kolibi
 Angelovtsi
-Antimovo, Antimova, Antimowo, Shef, Šef, Златен рог
+Antimovo, Antimova, Antimowo, Shef, Zlaten Rog, Šef
 Anton, Lezhene, Lăshene, Lŭdzhene, Lŭzhene
 Antonovo, Poljana, Poljane, Polyane, Yayla-K'oy, Yaylakioi
 Aplatsi, Aplatsŭ
@@ -56,7 +56,7 @@ Asenovets, Asenovec, Assenowez, Asyenovets, Avliene, Avlieni, Hasancea, Khasanch
 Asenovgrad, Assenovgrad, Assenovgrade, Assenowgrad, Stanimaka
 Asenovo, Asjeniovo, Asseniewo, Asseniowo, Kaleshlyar, Kilichlar, Kŭlŭchlari, Upchelii
 Asenovtsi, Osma Kalugerovo, Osma Kalugerowo
-Asparuhovo, Asparuchowo, Asparukhovo, Balabanlŭk, Cheige, Chenge, Kŭrki Zhaba, Ortak'oy, Tschenge, Yanăk-Balabanlii, Yanŭk Balabanlii, Čenge
+Asparuhovo, Asparuchowo, Balabanlŭk, Cheige, Chenge, Kŭrki Zhaba, Ortak'oy, Tschenge, Yanăk-Balabanlii, Yanŭk Balabanlii, Čenge, Аспарухово
 Atolovo, Angliysko Selo, Atolowo
 Austa
 Avramovo, Awramowo, Ibrakhimler
@@ -103,11 +103,11 @@ Bahretsi, Бахреци
 Bakalite, Bakŭlŭr
 Bakaltsi
 Bakova Mogila, Bakowa-Mogila
-Bakyovo, Bakiowo, Бакьово
+Bakyovo, Bak'ovo, Bakiowo
 Balabanchevo, Balabantschewo, Balabash
 Balabanovo, Balabanla, Balabanlŭ, Balabanowo
 Balabanska, Kolibi Balabenskiya
-Balabanska Mahala, Balabanska Makhala
+Balabanska Mahala, Балабанска Махала
 Balabansko
 Balabantsi
 Balaleya, Balaleja
@@ -119,7 +119,7 @@ Baldevo, Baldewo, Baldovo
 Baley, Balej
 Balgaranovo, Bălgaranowo, Bŭlgaranovo, Kademlar, Kademler, Българаново
 Balgarchevo, Bălgartschewo, Bŭlgarchevo, Kŭrdzhevo, Българчево
-Balgarene, Belgarene, Blgarene, Blgareni, Bălgareni, Bŭlgarene, Bŭlgareni, Tyurkmen Makhle
+Balgarene, Belgarene, Blgareni, Bălgareni, Bŭlgarene, Bŭlgareni, Tyurkmen Makhle, Българене
 Balgarevo, Bugarevo, Bŭlgarevo, Ghiaur Suiuciuc, Gyaursuyutchyuk, Gyavur Suyutchuk, Българево
 Balgari, Bclgari, Belgari, Bŭlgari, Kolibi Bolgarina, Urgari, Vulgari, Vurgari, Българи
 Balgarin, Belgarin, Blgarin, Bŭlgarin, Syulemenchevo
@@ -127,7 +127,7 @@ Balgarka, Brachma, Brâcima, Brâcima-Noua, Brătschma, Brătschma-Enikioi, Brŭ
 Balgarovo, Blgarovo, Bolgarovo, Bălgarowo, Bŭlgarovo, Urum Eni Kioi, Urum Jeni Köi, Urum Jenikiöj, Urum-Eni-K'oy, Urum-Eni-Kjoj, Urum-Eni-Kyoy, Urum-Enikioy, Urum-Jenikeui
 Balgarska Polyana, Bălgarska Poljana, Bŭlgarska Polyana, Kaur Alan, Kavur Alan, Българска поляна
 Balgarski Izvor, Bălgarski Iswor, Bŭlgarski Izvor, Turski-Izvor, Български извор
-Balgarsko Slivovo, Bălgarsko Sliwowo, Bŭlgarsko Slivovo, Българско сливово
+Balgarsko Slivovo, Bălgarsko Sliwowo, Bŭlgarsko Slivovo, Българско Сливово
 Balik, Sara Nebi, Sarnebi
 Balinovtsi
 Balintsi
@@ -140,12 +140,12 @@ Balsha, Balscha
 Balutsi, Baluzi, Bolutsŭ, Балъци
 Balvan, Balwan
 Balvantsite, Balvantsi, Balwanzite
-Balyova Mahala, Bal'ova Makhala, Balevo Makhala
-Balyovtsi, Bal'ovtsi
+Balyova Mahala, Balevo Makhala, Бальова махала
+Balyovtsi, Бальовци
 Balyuvitsa, Bal'ovitsa, Baljuwiza
 Banari, Banarite
 Banchovtsi
-Bandachka Mahala, Bandachka Makhala
+Bandachka Mahala, Бандачка Махала
 Banevo, Banja, Lidža Kioi, Lidža-Kjoj, Lidžakiöj, Ludža Göl, Lădzha-K'oy, Lădzha-Kyoy, Lŭdzha-K'oy, Lŭdzhakioy
 Bangeytsi, Bangeici
 Banichan, Banitschan
@@ -165,7 +165,7 @@ Barbash
 Barchevo, Bărtschewo, Bŭrchevo, Murtaza, Бърчево
 Bardarevo, Bŭrdarevo, Бърдарево
 Bardarite, Bordari, Bŭrdarite, Бърдарите
-Bardarski Geran, Bŭrdardski Geran, Bŭrdarski Geran, Бърдарски геран
+Bardarski Geran, Bŭrdardski Geran, Bŭrdarski Geran, Бърдарски Геран
 Bardeni, Berdentŭ, Bŭrdeni, Bŭrdenite, Бърдени
 Bardo, Berdo, Bŭrdo, Makhala Bŭrdo, Бърдо
 Bardovka, Burdovka, Bărdowka, Bŭrdokva, Kalŭch Sherman, Kŭlŭch Sherman, Бърдоква
@@ -194,8 +194,8 @@ Batishnitsa, Batischniza, Batishnitsi, Batišnica, Batyshnitsa
 Batkovtsi
 Batoshevo, Batochévo, Batoschowo, Batoshovo, Batoševo, Batošovo
 Batovo, Batowo, Ceatalar, Ceatalor, Chatalar, Chatallar, Tschatallar
-Batsova Mahala, Batsova Makhla, Bazowa Machala, Бацова махала
-Batulia, Batulija, Батулия
+Batsova Mahala, Batsova Makhala, Batsova Makhla, Bazowa Machala
+Batulia, Batulija, Batuliya
 Batultsi, Batulzi
 Baurene, Gaurene
 Bayachevo, Bajatschewo, Bayachkioy, Boyandzhikioy, Байчево
@@ -208,7 +208,7 @@ Bayraktartsi
 Bazan, Băsăn, Bŭzin, Bŭzŭn, Бъзън
 Bazdrika, Mahala Krivolyak, Makhala Krivolyak, Makhala Krivolyakŭ, Криволяк
 Bazhdari, Bodzharŭ
-Bazovets, Bizovets, Buzovets, Băsowez, Бъзовец
+Bazovets, Bizovets, Băsowez, Bŭzovets, Бъзовец
 Bazovitsa, Bosowiza, Bozovitsa, Bŭzovitsa, Бъзовица
 Bdintsi, Bdinzi, G'okche-D'olyuk, Geukče-Djulluk, Giokche-Dillyuk, Giokče Dioliuk, Gëkchi Dellyuk, Gökče-Djulluk, K'okche-D'olyuk
 Bebrovo, Bebrowo
@@ -234,7 +234,7 @@ Belega
 Belene, Beleke, Bjelene, Byelene
 Belentsi, Belenci, Belenzi, Bielenci, Byelentsi, Byelentsŭ, Béléntzi
 Belev Dol, Belev Dov, Belew Dol
-Belevehchevo, Belewechtschewo, Белевехчево
+Belevehchevo, Belevekhchevo, Belewechtschewo
 Belevren, Belewren
 Belgun, Duranlar
 Beli Breg
@@ -359,7 +359,7 @@ Bogdanovo, Alagyun-Bŭlgarsko, Bogdan Makhle, Bogdanowo, Boqdanovo, Bŭlgarsko A
 Bogdanovtsi, Bogdanowzi
 Bogdansko, Syulyumenchovtsi
 Bogdantsi, Abdul, Abdulkioi, Bogdanzi, Usŭndshe Orman, Uzimge-Orman, Uzundzhe Orman
-Bogoina, Богойна
+Bogoina, Bogoyna
 Bogolin
 Bogomil, Teke
 Bogomilovo, Bogomilowo, Teke
@@ -370,7 +370,7 @@ Bogorovo, Arpach, Bogorowo, Gramoste
 Bogoslov, Bogoslow
 Bogutevo, Bogutewo
 Bogyovtsi, Bogiowzi, Богьовци
-Bohot, Bochot, Bogot, Бохот
+Bohot, Bochot, Bogot, Bokhot
 Bohova, Bokhoza, Бохова
 Boil, Emirler
 Bokilovtsi, Bokilowzi
@@ -406,7 +406,7 @@ Borovets, Borovetz, Borowez
 Borovichene, Borawitscheni
 Borovina, Borowina, Chamladzha
 Borovitsa, Borovica, Borowiza, Chamdere
-Borovo, Borowo, Cham Chiflik, Chiradzhii, Gorna Manastiritsa, Gorna-Manastiriza, Gorna-Monastir, Gorni-Manastirica, Tscham Tschiflik
+Borovo, Borowo, Cham Chiflik, Gorna Manastiritsa, Gorna-Manastiriza, Gorna-Monastir, Gorni-Manastirica, Tscham Tschiflik, Чираджии
 Borovsko, Borowsko, Cham Dere Karamanlar
 Borovtsi, Borowzi
 Borskoto, Borsku
@@ -482,7 +482,7 @@ Branishte, Branište, Curugiachioi, Kurudzha K'oy, Бранище
 Branitsa, Naboskno, Nabozhno, Salikhler
 Brankovtsi, Brankovtsŭ, Brankowzi, Brenkovci, Brŭnkovtsi, Брънковци
 Brashlen, Brăschlen, Brŭshlen, Brŭshlyan, Бръшлен
-Brashlyan, Breshlyan, Brislen, Brshlyan, Brăschljan, Brŭshlen, Brŭshlyan, Saramshik, Sarmashik, Sarmašik
+Brashlyan, Breshlyan, Brislen, Brăschljan, Brŭshlen, Brŭshlyan, Saramshik, Sarmashik, Sarmašik, Бръшлян
 Brashlyanitsa, Brăschljaniza, Bršlanica, Brŭljanica, Brŭshlyanitsa, Brŭshlyantsi, Бръшляница
 Brashten, Brăschljan, Brŭshen, Brŭshlyan, Brŭshten, Бръщен
 Bratan, Sŭr Alan, Sŭrt Alan
@@ -539,7 +539,7 @@ Buchukovtsi, Buchukovtsŭ, Butschukowzi
 Budiltsi, Budilzi
 Budishka Mahala, Budishka Makhala
 Budzhov Dol, Budshow-Dol
-Buhovo, Buchowo, Bukhovo
+Buhovo, Buchowo, Бухово
 Buhovtsi, Boullar, Buchowzi, Buhlar, Buhovica, Bukhlar, Bukhovitsa, Буховци
 Buk, Almalŭ Dere
 Bukak, Khadzhakioy, Khadzhi K'oy
@@ -558,7 +558,7 @@ Bunovo, Bunowo
 Buntsevo
 Buranovo, Buranowo
 Burevo, Burovo
-Burgas, Burgaska Oblast, Burgaski Okrŭg, Burgaz, Burghaz, Област Бугас, Област Бургас
+Burgas, Burgaska Oblast, Burgaski Okrŭg, Burgaz, Burghaz, Oblast Burgas, Област Бугас
 Burya, Malhečevo, Malkochevo, Malkotschewo, Malkočevo
 Busintsi, Bussinzi
 Busmantsi, Bussmanzi
@@ -572,16 +572,16 @@ Buzovgrad, Armaganovo, Busowgrad, Бъзовград
 Buzyakovtsi
 Byaga, Bega, Bjega, Byega
 Byal Bryag, Ak Yar, Akjar, Akŭr, Belbreg, Byel-Bryeg
-Byal Izvor, Ak Bunar, Bel Iswor, Bel Izvor, Byel-Izvor
+Byal Izvor, Ak Bunar, Bel Izvor, Bel-Iswor, Byel-Izvor
 Byal Kladenets, Ak Bunar, Bel Kladenez, Byel-Kladenets
 Byala, Ak Dere, Biela, Bjala, Bjela, Bjula, Byela
 Byala Cherkva, Bela Cherkva, Bela Tscherkwa, Bela-Čerkova, Bjela-Cerkva, Bjela-Čerkova, Byala Cherkova, Byela Cherkva, Byela-Cherkova, Béla-Tchekva, Běla Čerkva, Gorni Turcheta
 Byala Palanka, Bela-Cheshliya, Bela-Palanka, Bjala palanka, Byala Cheshlii, Byela-Cheshliy, Byela-Palanka
 Byala Polyana, Akcha Alan, Bela Polyana, Bela-Poljana, Byela-Polyana
-Byala Reka, Ak Dere, Bela-Reka, Biala Reka, Bjala-Reka, Byala Ryaka, Byela Ryeka, Byela-Ayeka, Chitak, Stara Bela Reka, Stara Byala Reka, Stara Byela Ryeka
+Byala Reka, Ak Dere, Bela-Reka, Biala Reka, Bjala-Reka, Byala Ryaka, Byela-Ayeka, Byela-Ryeka, Chitak, Stara Bela Reka, Stara Byala Reka, Stara Byela Ryeka
 Byala Slatina, Bela Slatina, Biela Slatina, Bjela Slatina, Byela-Slatina
 Byala Voda, Belawoda, Byelavoda
-Byalgradets, Bel-Gradez, Byal Gradets, Dolno Akchasar
+Byalgradets, Bel-Gradez, Dolno Akchasar, Бял градец
 Byalka, Belka, Dutludzha
 Byalkovo, Koliba Tsaykyuvtsi, Kolibi Byalkovo, Tsaykyuvtsi
 Byalkovtsi, Byalkovska Makhala
@@ -601,7 +601,7 @@ Chapaevo, Kral-Bunar, Tsapalevo, Tsarski Izvor, Zarski-Iswor
 Charda, Sorudzhiliy, Surudzhalii, Tscharda, Чарга
 Chargan, Charagan, Chergan, Tschargan
 Charkovo
-Chaush Mahala, Chaush Makhala
+Chaush Mahala, Чауш махала
 Chavdar, Chavdar Makhle, Chavdaritsa, Kolanlare, Kolanlari, Radoslavo, Radoslavovo, Radoslawowo, Tschawdariza
 Chavdartsi, Cherehev Dyal, Chereshev Dyal, Chereshov Dyal, Chershov Dyal, Lzhene, Lăshene, Lŭzhene, Makhala Chavdartsi, Makhala Chereshovdel, Tschereschow Del
 Chavei, Chaveite, Cheveetŭ, Tscheweoti
@@ -647,7 +647,7 @@ Cherkovo, Duvalare, Duvalari, Tscherkowo
 Cherna, Chorna, Enidzhe, Enigea, Karalar, Tscherna, Čevna
 Cherna Gora, Kara Orman, Tscherna-Gora
 Cherna Mesta
-Cherna Mogila, Kara Tepe, Tscherna-Mogila
+Cherna Mogila, Kara Tepe, Tscherna Mogila
 Cherna Niva, Kara Tŭrla, Tscherna Niwa
 Cherna Skala, Kara Kaya, Tscherna-Skala
 Cherna Voda, Gyundyuzleri
@@ -660,7 +660,7 @@ Cherni Dyal, Charnŭ Dyal, Negolŭuvtsŭ
 Cherni Osŭm, Kolibeto, Kolibi Cherni Osem, Kolibi Tscherni Ossăm, Kolibito, Черни Осъм
 Cherni Rid, Kara Tepe, Tscherni-Rid
 Cherni Vit, Kolibi Chernŭy Vid, Tscherni Wit, Černi-Vit
-Cherni Vrah, Cherni Vrŭkh, Cherni Vŭrkh, Kara Bunar, Kara Burun, Kara-Tepe, Tscherni-Wrăch, Černi Vrh, Černi Vrŭch, Черни връх
+Cherni Vrah, Cherni Vrŭkh, Cherni Vŭrkh, Kara Bunar, Kara Burun, Kara-Tepe, Tscherni-Wrăch, Černi Vrh, Černi Vrŭch, черни връх
 Cherniche, Makhala Tschernitsche
 Chernichevo, Dudene, Dudeni, Dudli, Dutlu, Tschernitschewo, Černičevo
 Chernichino, Chair, Tschernitschino
@@ -685,7 +685,7 @@ Chernovrah, Chernovrŭkh, Popovtsŭ, Popowzi, Черновръх
 Chernozem, Araplii, Arapliy, Chernozemen, Kara Toprak, Tschernosem, Tschernosemen
 Chernozemtsi
 Chernushka
-Chernyovo, Karalar, Tscherniowo, Черньово
+Chernyovo, Chern'ovo, Karalar, Tscherniowo
 Chernyovtsi, Kara Musalar, Tschernjowzi, Черньовци
 Cherven, Chŭrven, Tscherwen, Tserven, Tsŭrven
 Cherven Breg, Cherven-Bryeg, Cherveni Breg, Cherveni Bryag, Cherveni Bryeg, Tcherven Breg, Tscherweni Breg, Červen Breg, Červen-Brjeg, Červeni Brěg
@@ -702,7 +702,7 @@ Cheshma, Cheshme Makhle, Tscheschma
 Cheshme Mahala, Cheshme Makhle, Sŭb, Zab, Zŭb, Зъб, Чешме Махала
 Chestimensko, Soudjak, Soudshak, Soudzhak, Sougiac
 Chestovo
-Chetakovi Kolibi, Chitakovi Kolibi
+Chetakovi Kolibi, Читакови колиби
 Chetirtsi, Tschetirzi
 Chetroka, Tschetrowa
 Chibaovtsi, Tschibaowzi
@@ -760,14 +760,14 @@ Dabene, Dŭbene, Dŭbeni, Salŭkioy, Дъбене
 Dabnik, Dŭbnik, Osman K'oy, Osmankioy, Дъбник
 Dabnitsa, Debnitsa, Dăbniza, Dŭbnitsa, Дъбница
 Dabova, Dŭbova, Imren K'oy, Uruchevtsi, Urutschowska-Machala, Дъбова
-Dabova Mahala, Dabowa Machala, Dŭbova Makhala, Дъбова Махала
+Dabova Mahala, Dabowa Machala, Dŭbova Makhala, Дъбова махала
 Dabovan, Cercelani, Charchalan, Dăbowan, Dŭbovan, Дъбован
 Dabovets, Dăbowez, Dŭbovets, Khamzach, Дъбовец
 Dabovi, Dŭbovi, Kolibi Dobŭevŭ, Дъбови
 Dabovik, Charmanlăk, Dŭbovik, Haramalăc, Kharmanlŭk, Дъбовик
 Dabovitsa, Dŭbovitsa, Schechowo, Shekhovo, Дъбовица
 Dabovo, Dăbovv, Dăbowo, Dŭbovo, Labovo, Meshelii, Yaykanlii, Ykanlii, Дъбово
-Dabrava, Dobrava, Dăbrawa, Dŭbrava, Gorni Bivol, Gorni-Biwol, Mese-Mahle, Meshe Makhle, Дъбрава
+Dabrava, Dabrawa, Dobrava, Dŭbrava, Gorni Bivol, Gorni-Biwol, Mese-Mahle, Meshe Makhle, Дъбрава
 Dabravata, Dăbrawata, Dŭbravata, Дъбравата
 Dabravino, Chala Makhle, Chalkh-Makhle, Chalŭmakhle, Dăbrawino, Dŭbravino, Дъбравино, Дъбровино
 Dabravite, Dŭbravite, Kolibi Dubrava, Дъбравите
@@ -776,16 +776,16 @@ Dabravka, Dubrava, Dăbrawka, Dŭbravka, Дъбравка
 Daevtsi, Daevtsŭ
 Dagonovo, Dagondva-Makhala, Dagonova Makhala, Dagonowa-Machala
 Dahovo, Dŭkhovo, Дъхово
-Dalbok Dol, Delbok-Dol, Dlbok Dol, Dŭlbok Dol
-Dalbok Izvor, Delbok-Izvor, Dlbok-Izvor, Dălbok-Iswor, Dŭlbok Izvor, Koz Bunar
-Dalboki, Delboki, Dlboki, Dolboka, Dŭlboki
+Dalbok Dol, Delbok-Dol, Dŭlbok Dol, Дълбок дол
+Dalbok Izvor, Delbok-Izvor, Dălbok-Iswor, Dŭlbok Izvor, Koz Bunar, Дълбок извор
+Dalboki, Delboki, Dolboka, Dŭlboki, Дълбоки
 Dalga Livada, Dkga-Liva, Dŭlga Livada, Дълга ливада
 Dalga Luka, Dŭlga Luka, Дълга Лука, Дълга лъка
 Dalgach, Dalgatsch, Dilgach, Dŭlgach, Дългач
 Dalgata Mahala, Dŭlgata Makhala, Дългата махала
-Dalgi Del, Dŭlga Dol, Dŭlgi Del, Dŭlgi Dyal, Dŭlgi-Dyel, Дълги дел
+Dalgi Del, Dŭlga Dol, Dŭlgi Del, Dŭlgi Dyal, Dŭlgi-Dyel, Дълги Дел
 Dalgi Pripek, Dŭlgi Pripek, Uzun Gyuney, Uzungyune, Дълги припек
-Dalgo Pole, Dŭlgo Pole, Uzun Karovo, Uzun Kŭrovo, дълго поле
+Dalgo Pole, Dŭlgo Pole, Uzun Karovo, Uzun Kŭrovo, Дълго поле
 Dalgodeltsi, Dălgodelzi, Dŭlgodeltsi, Dŭlgodyeltsi, Дългоделци
 Dalgopol, Delgopol, Dŭlgopol, Дългопол
 Dalovi
@@ -804,7 +804,7 @@ Daskalovo, Daskalowo, Dazkalovo, Molla Musalar
 Daskari, Dŭskari, Дъскари
 Daskarite, Daskarŭ, Dŭskarite, Дъскарите
 Daskot, Deskot, Dŭskot, Дъскот
-Daskotna, Diskotija, Diskotja, Diskotna, Dskotna, Dŭskotna, Ischodna, Iskhodna
+Daskotna, Diskotija, Diskotja, Diskotna, Dŭskotna, Ischodna, Iskhodna, Дъскотна
 Datin
 Daveri
 Davidkovo, Davitkovo, Davudevo, Davudovo, Dawidkowo
@@ -932,7 +932,7 @@ Docha
 Doganovo, Doganowo
 Dokatichevo, Dokatitschowo
 Doktor Yosifovo, Doktor Iosifovo, Vlkova-Slatina, Vukovo Slatino, Vălkova-Slatina, Vŭlkova-Slatina, Wălkowa Slatina
-Dokyovtsi, Dok'ovtsi, Dokiowzi
+Dokyovtsi, Dokiowzi, Докьовци
 Dolare
 Dolen, Doljan, Dolyan
 Dolen Enevets, Dolni Enevets, Dolni Enovets, Dolni Evenets
@@ -1019,7 +1019,7 @@ Dolno Osenovo, Dolno Ossenowo, Osenowo, Osyenovo
 Dolno Ozirovo, Dolno Osirowo, Dolno-Orizovo
 Dolno Panicherevo, Chanakchii, Dolni Paničerevo, Dolno Chanakchiy, Dolno Panitscherewo, Dolno-Pancharevo, Dolno-Panicharevo
 Dolno Pole, Nebi K'oy, Novo Sel, Nowo Selo
-Dolno Prahovo, Toz-Ezir, Долно Прахово
+Dolno Prahovo, Dolno Prakhovo, Toz-Ezir
 Dolno Ryahovo, Dolino Ryakovo, Dolno Oryekhovo, Rachun Orechowo, Rahova de Jos, Rakhun Oryekhovo, Rjachowo, Ryakhovo, Долно Ряхово
 Dolno Sadievo, Dolno Sădiewo, Dolno Sŭdievo, Yuzhno Sŭdievo, Долно Съдиево
 Dolno Sahrane, Dolno Sachrane, Dolno Sakhrane, Sakhrane
@@ -1126,7 +1126,7 @@ Druzhevo, Dupin Vrŭkh, Dupni Vrŭkh, Dupni-Verk, Dupni-Wrăch
 Dryanat, Dryanŭt, Дрянът
 Dryanka, Drenka
 Dryankovets, Drenkovets, Drenkowez, Dryenkovets, Kŭzŭldzhik
-Dryanov Dolska Mahala, Дрянов долска махала
+Dryanov Dolska Mahala, Дрянов Долска Махала
 Dryanova Glava, Drenowa Glawa, Dryarova Glava, Syulyumezler
 Dryanovets, Drenowec, Drenowez, Drianovec, Drienovec, Drjanovec, Drjenovec, Dryenovets, Drěnovec, Redshebkioi, Redzheb K'oy, Regep-Cuius
 Dryanovo, Drenova, Drenowo, Drjanovo, Drjenovo, Dryanova, Dryenovo, Kazŭldzhiklii
@@ -1134,7 +1134,7 @@ Dryanska
 Duganitsa
 Duganovo, Duganowo
 Duhlevtsi, Dolevtsŭ, Dukhlevtsi
-Duhovets, Duchowez, Dukhovets, Nasubchilar, Nasŭfchilar
+Duhovets, Duchowez, Nasubchilar, Nasŭfchilar, Духовец
 Dukovtsi, Dukovtsŭ, Дъковци
 Dulovo, Acadanlar, Accadânlar, Ak-Kadŭnlar, Akkadanlar, Dulowo, Inatra-Mahle
 Dunavets, Spanchova, Spantschow
@@ -1171,7 +1171,7 @@ Dyulgertsi
 Dyulino, Aivadzhik, Aivadžik, Djulina
 Dyulya, Ayvadzhik Dere, Derekioy, Djulja
 Dzhamuzovtsi
-Dzhangalovska Mahala, Dzhangalovska Makhala
+Dzhangalovska Mahala, Джангаловска Махала
 Dzhanka, Dere K'oy, Dshanka
 Dzhebel, Djebel, Shekh-Dzhumaya, Sheykh-Dzhumaya
 Dzhelepsko, Dshelepsko, Dzhelepler
@@ -1196,8 +1196,8 @@ Efrem, Urum K'oi, Urum K'oy, Yefrem
 Efreytor Bakalovo, Baraclar, Baraklar
 Egalnitsa, Egălniza, Egŭlnitsa, Егълница
 Egrek, Egerek
-Ekzarh Yosif, Ekzarkh Iosif, Ekzarkh Yosif, Exarch Jossif, Kara Kodzhalii, Karakodzhali, Ехзарх Йосиф
-Ekzarh-Antimovo, Achlare, Achlari, Ačlare, Ačlari, Ačlart, Ekzarch Antimovo, Exarch-Antimowo, Екзарх-Антимово
+Ekzarh Yosif, Ekzarkh Iosif, Exarch Jossif, Kara Kodzhalii, Karakodzhali, Екзарх Йосиф, Ехзарх Йосиф
+Ekzarh-Antimovo, Achlare, Achlari, Ačlare, Ačlari, Ačlart, Ekzarch Antimovo, Ekzarkh-Antimovo, Exarch-Antimowo
 Elena, Dzhefarche, Jelena, Yelena
 Elenino, Kara Gitlii, Kara Gitliy
 Elenite
@@ -1226,7 +1226,7 @@ Enina, Jenina, Yenina
 Enitsa, Enica, Eniza
 Enyovche, En'ovche, Enyuvche
 Erden
-Eremia, Eremija, Eremiya
+Eremia, Eremija, Еремия
 Erevish, Erewisch, Ravaish, Revish
 Erovete, Erowote, Khorozlu
 Erul
@@ -1242,7 +1242,7 @@ Ezerets, Ezerec, Satlamus, Satălmâş, Satŭlmŭsh, Sătlămăşi, Sătălmăsc
 Ezero, Krumowo, Yurlemish
 Ezerovo, Dipsis Gel', Dipsiz-G'ol, Eserow, Eserowo, Ezeorvo, Mal Aladen, Mal-Aladăn, Malki Aladŭn, Malŭk Aladŭn, Yezerovo
 Fabrika, Promishleno Selo Fabrika
-Fakia, Fakija, Fakiya, Omur Fakili, Umur Fakih
+Fakia, Fakija, Omur Fakili, Umur Fakih, Факия
 Farevtsi, Ferivtsŭ, Fŭrevtsi, Фъревци
 Fargovo, Fărgowo, Fŭrgovo, Фъргово
 Fargovtsi, Fŭrgovtsi, Фърговци
@@ -1299,7 +1299,7 @@ Ganev Dol, Ganew-Dol
 Ganev Khan
 Gara Bov
 Gara Elin Pelin
-Gara Hitrino, Bahnhof Chitrino, Gara Khitino, Gara Sheytandzhik, Gara Šeitandžik, Gara Šejtandžik, Karola, Sejtandzik, Shaytandzhik, Stantsiya Sheytandzhik, Šeitandžik, Šeitantžik, Гара Хитрино
+Gara Hitrino, Bahnhof Chitrino, Gara Khitino, Gara Khitrino, Gara Sheytandzhik, Gara Šeitandžik, Gara Šejtandžik, Karola, Sejtandzik, Shaytandzhik, Stantsiya Sheytandzhik, Šeitandžik, Šeitantžik
 Garbelanska Mahala, Gŭrbelanska Makhala, Гарбеланска Махала
 Garbino, Gŭrbino, Гърбино
 Garbishte, Gărbischte, Gŭrbishte, Sŭrt K'oy, Гърбище
@@ -1326,7 +1326,7 @@ Gaytantsi, Gajtanzi
 Gega
 Gegovi
 Gela
-Gelchina Mahala, Gelchina, Gelchina Makhala, Gheltchina Mahala
+Gelchina Mahala, Gelchina, Gheltchina Mahala, Гелчина Махала
 Gelemenovo, Gelemenowo, Golyemenovo, Гелеманово
 Genchovtsi, Genchevtsi, Genchevtsŭ, Gentschowzi, Peshterite
 General Geshevo, G'oldzhik, General Geschewo
@@ -1335,7 +1335,7 @@ General Kiselovo, Emir K'oy, General Kisselowo
 General Kolevo, Ceair, Ceair Arman, Chairkharman, General Kolev
 General Marinovo, General Marinowo, Musumane
 General Prapordzhesku
-General Todorov, Pripechene, Pripetschene
+General Todorov, Pripetschene, Припечене
 General Toshevo, Casim, General Toševo, Ion Gheorghe Duca, Kasamkioi, Kassălkioi, Kasŭm, Kasŭmk'oy, Malovets, Mamucichioi, Momuch-K'oy, Mumdshikioi
 General-Fichevo, General Fitschewo, Nebi Pasha
 General-Inzovo, Ak Bounar, Ak-bunar, General Insow, General Inzor, General Inzov, Indzhevo, Inzovo, Yusek Bunar
@@ -1371,7 +1371,7 @@ Glavinitsa, Asfatchioi, Astvatchioi, Asvatchioi, Asvatk'oy, Bashi-Kărovo, Bashi
 Gledachevo, Gledachovo, Gledatschowo, Kuifalchevo, Kurfalchevo
 Gledatsi, Gledatsite
 Gledka
-Gledzhova Mahala, Gledzhova, Gledzhova Makhala
+Gledzhova Mahala, Gledzhova, Гледжова махала
 Gligan
 Glodzhevo, Glodshowo, Glodzhovo, Glodževo, Glodžovo, Glozhdovo, Gloždovo, Tloždovo
 Gloginka, Kazannar, Kizillar, Kŭzŭllar
@@ -1381,7 +1381,7 @@ Glogovitsa, Glogowiza
 Glogovo
 Glozhene, Glojéne, Gloshene, Glozhane, Gložane, Gložen, Gložene
 Glufishevo, Glufitschewo, Глуфичево
-Gluhar, Gluchar, Glukhar, Sarlar
+Gluhar, Gluchar, Sarlar, Глухар
 Glumche, Akhmachevo, Glumtsche
 Glumovo, Glumowa, Soluklar
 Glushka
@@ -1392,7 +1392,7 @@ Gnyazdovo, Gnesdowo, Yuvalar
 Godech, Glotnitsa, Godetch, Godetsch, Godeč, Molak, Negolova, Stoykina, Trap, Yovkina
 Godeshevo, Godeschewo, Godeshovo
 Godlevo, Godlewo
-Godomanska Mahala, Godomanska Makhala
+Godomanska Mahala, Годоманска Махала
 Gogovtsi
 Gola Mogila, Gola Mogita
 Golak, Cholak, Čolak
@@ -1410,7 +1410,7 @@ Golemi Rat, Golemerad, Golemi Rŭt, Големи рът
 Golemi Stanchovtsi, Stanchevtsŭ Bolŭsh
 Golemin
 Golemo Babino
-Golemo Buchino, Golemo-Butschino, Golyemo Buchiio, Голямо Бучино
+Golemo Buchino, Golemo-Butschino, Golyamo Buchino, Golyemo Buchiio
 Golemo Malovo, Golyamo Malovo, Golyemo-Malovo
 Golemo Peshtene, Golemo Peschtene, Goljemo Peštene, Golyamo Peshtene, Golyemo Peshteke, Golyemo-Peshtene, Golémo-Pechténé, Големо пещене
 Golemo Selo, Golyamo Selo, Golyemo-Selo
@@ -1451,7 +1451,7 @@ Golyamo Sokolovo, Golemo Sokalowo, Kodzha Dugan, Kodzha Dyugan, Korudzhiduvan, �
 Golyamo Tsarkvishte, Golemo Zărkwischte, Golyamo Tsurkovishte, Golyamo Tsŭrkvishte, Golyemo Tsŭrkvishte, Tekeler Sagŭr, Голямо Църквище
 Golyamo Vranovo, Büj-Vranovo, Golemo Wranowo, Goliamo Vranovo, Golyemo-Vranovo, Golyemo-Vrenovo
 Golyanovtsi, Goljanowzi
-Golyovitsa, Гольовица
+Golyovitsa, Gol'ovitsa
 Gomotartsi, Evdokiya, Ewdokija, Gomotar, Gomotarci
 Goran, Dolno Pavlikene, Dolno Pawlikene, Pavlikene Polno
 Goranovtsi, Goranovts, Goranowzi, Guranovtsŭ
@@ -1459,7 +1459,7 @@ Goranska Padina
 Gorchevo, Gortschewo
 Goreme
 Goren Chiflik, Gorni Chiflik, Gorni Tschiflik, Gorni Čiflik, Gorni-Chnflik
-Goren Edil, Ediloglar, Едил
+Goren Edil, Edil, Ediloglar
 Goren Enevets, Gorni Enevets, Gorni Enovets
 Goren Varli Dol, Goren Vŭrli Dol, Горен Върли Дол
 Gorichane, Jalăutsch-Orman, Padurene, Pădureni, Yazla Yuch Orman
@@ -1478,7 +1478,7 @@ Gorna Grashtitsa, Gorna Graschtiza, Горна Гращица
 Gorna Hadzhiyska, Gorna-Chadshinska, Khadzhi Makhle, Горна Хаджийска
 Gorna Hubavka, Горна Хубавка
 Gorna Kabda, Gorna Yukarki
-Gorna Karadatsi Mahala, Gorna Karadatsi Makhala, Горна Карадаци
+Gorna Karadatsi Mahala, Горна Карадаци, Горна Карадаци Махала
 Gorna Kovachitsa, Kowatschiza
 Gorna Koznitsa, Gorna Kosniza, Gorna-Koznica
 Gorna Kremena
@@ -1491,7 +1491,7 @@ Gorna Malina
 Gorna Melna, Gorna Melnya
 Gorna Mezdra
 Gorna Mitropolia, Gorna Metropolja, Gorna Mitropolija, Gorna Mitropoliya, Mitropoliya Gorna Netropol'
-Gorna Oryahovitsa, Gorna Orehovica, Gorna Orehovitsa, Gorna Orekhovitsa, Gorna Oriahovica, Gorna Orjechovica, Gorna Oréhovitza, Gorna-Orechowiza, Gorna-Oryekhovitsa, Gorno Oryakhovitsa, Горна Оряховица
+Gorna Oryahovitsa, Gorna Orehovica, Gorna Orehovitsa, Gorna Orekhovitsa, Gorna Oriahovica, Gorna Orjechovica, Gorna Oryakhovitsa, Gorna Oréhovitza, Gorna-Orechowiza, Gorna-Oryekhovitsa, Gorno Oryakhovitsa
 Gorna Ribnitsa, Gorna Ribnica, Gorna Ribniza
 Gorna Rositsa, Dereli, Derelii, Gorna Rossiza, Gornya-Rositsa
 Gorna Sekirna, Gorna Syekirna, S'kirna Gorna, Syekirna Gorna, Горна Секира
@@ -1542,7 +1542,7 @@ Gorno Ozirovo, Gorno Osirowo, Gorno-Orizovo
 Gorno Pavlikene, Golyemi Pavlikeni, Gorno Palikene, Gorno Pavlikane, Gorno Pavlikjane, Gorno Pawlikene, Gorno-Pavlikeni, Gorno-Pavlikiane, Kirechli Pavlikene
 Gorno Peshtene, Gorno Peschtene, горно Пещене
 Gorno Pole, Tursko Ovadzhik, Tursko Pole
-Gorno Prahovo, Gorno Prachowo, Toz Balya, Горно Прахово
+Gorno Prahovo, Gorno Prachowo, Gorno Prakhovo, Toz Balya
 Gorno Sakhrane, Gorno Sachrane
 Gorno Selo, Nowo Selo
 Gorno Shivachevo, Gorno Borisovo, Gorno Borissowo, Kelleri
@@ -1579,7 +1579,7 @@ Gorsko Slivovo, Daa Slivovo, Gorsko-Sliwowo
 Gortalovo, Gortatowo, Karaguy
 Gorun, Gorunj, Sara Meshe, Sarimese, Unirea, Unirya
 Gorunaka, Gurunaka
-Gorunyovo, Goruniovo, Gurun'ovo, Горуньово
+Gorunyovo, Gorun'ovo, Goruniovo, Gurun'ovo
 Goryani, Enicheri, Incherŭ
 Gospodinovo, Chelebi K'oy, Chelebi-Kioi, Chelebikioy, Chădăr Tschelebi, Denis-K'oy, Deniskioi, Deniz K'oy, Denizkioy, Gospodinowo, Khŭdur-Chelebi, Koshuta, Nadăr Celebi
 Gospodintsi, Gospodinzi, Tsiropol
@@ -1639,7 +1639,7 @@ Grivyak, Griwjak, Kara Akmedler
 Grohotno, Grachotna, Grakhotna, Grokhotno
 Gromshin, Gromschin
 Grozden, Grosden, Sandzhiklare, Sandzhiklari
-Grozdyovo, Gozd'ovo, K'opryu-K'oy, Keprakiöj, Kiopriu Kioi, Kjoprju Kjoj, Kyupri-Kioi, Kyupryu-K'oy, Kyupryu-Kyoy, Rakovec, Rakovets, Rakowez, Гроздьово
+Grozdyovo, Gozd'ovo, Grozd'ovo, K'opryu-K'oy, Keprakiöj, Kiopriu Kioi, Kjoprju Kjoj, Kyupri-Kioi, Kyupryu-K'oy, Kyupryu-Kyoy, Rakovec, Rakovets, Rakowez
 Grozdyovtsi, Гроздьовци
 Grozyov Dol, Grozd'ov Dol, Грозьов дол
 Gruevo, Gruewo, Khayranlar
@@ -1663,40 +1663,40 @@ Gutzal
 Gyola, G'ola, Iola
 Gyovren, Gjowren, Гьоврен
 Gyueshevo, Gjueševo, Gjüševo, Gü Schewo, Гюшево
-Gyulyovtsa, Giuliowza, Gyul'ovitsa, Gyuleler, Gyulyuvitsa, Gyulyuvtsa, K'oller, Kazalŭk, Kazanlŭ, Kedeler, Keleler, Kŭzŭllŭk, Papiza, Rapitsa, Гюльовца
+Gyulyovtsa, Giuliowza, Gyul'ovitsa, Gyul'ovtsa, Gyuleler, Gyulyuvitsa, Gyulyuvtsa, K'oller, Kazalŭk, Kazanlŭ, Kedeler, Keleler, Kŭzŭllŭk, Papiza, Rapitsa
 Gyurgich, Gjuigitsch
 Gŭlŭbovo, Duvadzhizliy, Galöb, Gelub, Gilib, Gălăb, Gŭlăb, Gŭlŭb, Kum Duvandzhii, Гълъбово
 Hadzhi Dimitar, Chadshi Bairam, Hadži-Dimitrej, Hagi Dumitru, Khadzhi Bayram, Khadzhi Dimitŭr, Хаджи Димитър
-Hadzhidimitrovo, Chadshi Dimitrowo, Enimakhle, Khadzhidimitrovo, Nova Makhala, Sarajar, Sareyar, Sari Jar, Sari-Yar, Sară-Yar, Sekerechevo
+Hadzhidimitrovo, Chadshi-Dimitrowo, Enimakhle, Nova Makhala, Sarajar, Sareyar, Sari Jar, Sari-Yar, Sară-Yar, Sekerechevo, Хаджидимитрово
 Hadzhidimovo, Dolna-Singartiya, Dolno-Singartiya, Obshtina Hadzhidimovo, Obshtina Khadzhidimovo, Shostowo, Zhostovo, Община Хаджидимово, Хаджидимово
-Hadzhievo, Adzhievo, Chadshiewo, Hadžievo, Khadzheivo, Khadzhievo
+Hadzhievo, Adzhievo, Chadshiewo, Hadžievo, Khadzheivo, Хаджиево
 Hadzhievtsi, Chadshiewzi, Khadzhi Oglular, Khadzhievtsi
-Hadzhiite, Chadshiite, Hadžilare, Khadzhiite, Khadzhiitye, Khadzhilare, Khadzhilari, Khadzhiyte, Khadzite
-Hadzhiyska Mahala, Khadzhiyska Makhala
-Hadzhiyski Dol, Хаджийски Дол
-Hadzhiysko, Khadzhiysko
+Hadzhiite, Chadshiite, Hadžilare, Khadzhiitye, Khadzhilare, Khadzhilari, Khadzhiyte, Khadzite, Хаджиите
+Hadzhiyska Mahala, Хаджийска Махала
+Hadzhiyski Dol, Khadzhiyski Dol
+Hadzhiysko, Хаджийско
 Halovski Kolibi, Khalovski Kolibi, Khalowski Kolibi
-Halvadzhiysko, Chalwadshiisko, Khalvadzhilari, Khalvadzhilarŭ, Khalvadzhiysko
-Hambar, Chambar, Khambar Dere, Хамбар
-Hambardzhiiska Mahala, Khambardzhiiska Mahala, Khambardzhiska Mahala, Хамбарджийска махала
-Han Krum, Car Krum, Chatali, Khan Krum, Tsar Krum, Zar Krum
+Halvadzhiysko, Chalwadshiisko, Khalvadzhilari, Khalvadzhilarŭ, Халваджийско
+Hambar, Chambar, Khambar, Khambar Dere
+Hambardzhiiska Mahala, Khambardzhiiska Mahala, Khambardzhiska Mahala, Хамбарджийска Махала
+Han Krum, Car Krum, Chatali, Tsar Krum, Zar Krum, Хан Крум
 Hanevtsi, Chanewzi, Khanevtsŭ, Khŭnevtsi, Хъневци
 Hanovete, Хановете
-Hanovo, Chanowo, Karga K'oy, Khanevo, Khanovo
-Haracherite, Харачерите
+Hanovo, Chanowo, Karga K'oy, Khanevo, Ханово
+Haracherite, Kharacherite
 Harlets, Chărlez, Horlec, Khărlets, Khŭrlets, Riles, Хърлец
-Harmanli, Charmanlii, Harmanlii, Harmanly, Harmanlü, Hermanli, Kharmanlii, Kharmanliy, Харманли
+Harmanli, Charmanlii, Harmanlii, Harmanly, Harmanlü, Hermanli, Kharmanli, Kharmanlii, Kharmanliy
 Harsovo, Chărsowo, Chărssowo, Chŭrsovo, Gersovo, Gyursuyu, Hersovo, Hrsobo, Hrsovo, Hŭrsovo, Khrsovo, Khŭrsova, Khŭrsovo, Kărsovo
 Hartitsa, Khŭrtitsa, Хартица
 Harvalovtsi, Khvarvalovtsi, Харваловци
-Haskovo, Chaskovo, Chaskowo, Chasköi, Haskiöj, Hasköy, Khaskovo, Khaskovska Oblast, Khaskovski Okrŭg, Oblast Haskovo, Oblast Khaskovo
+Haskovo, Chaskovo, Chaskowo, Chasköi, Haskiöj, Hasköy, Khaskovska Oblast, Khaskovski Okrŭg, Oblast Haskovo, Област Хасково, Хасково
 Hasovitsa, Chassowiza, Хасовица
 Haydarovi Kolibi, Khaydarovi Kolibi
 Haydushka Mahala, Khaydushka Makhala
-Hayredin, Chairedin, Eredin, Hajredin, Khairedin, Khayredin
+Hayredin, Chairedin, Eredin, Hajredin, Khairedin, Хайредин
 Herakovo, Cherakowo, Хераково
-Hirevo, Chirewo, Khirevo, Khirva
-Hisar, Chissar, Khisar
+Hirevo, Chirewo, Khirva, Хирево
+Hisar, Chissar, Хисар
 Hisarya, Banja, Chissar, Hisar Kjuselere, Hissar, Husar, Khisar, Khisar-Kyuselere, Khisar-Momina Banya, Khiskeseleri, Momina-Banja, Momina-banya, Хисаря
 Hitovo, Chair Makhle, Hitowo, Хитово
 Hlevene, Chlewene, Khlevene
@@ -1705,25 +1705,25 @@ Hodzhalar, Khodzhalar
 Hodzhovtsi, Chodshowski, Khodzha K'oy, Khodzhovtsi
 Hotantsa, Chotanza, Khotanets, Otantsi, Хотанца
 Hotnitsa, Chotniza, Khotnitsa
-Hotovo, Chotowo, Хотово
+Hotovo, Chotowo, Khotovo
 Hrabarsko, Chrabărsko, Khrabŭrsko, Храбърско
 Hrabrets, Храбрец
 Hrabrino, Sotir, Stintul Spas, Sveti Spas, Sweti Spas, Храбрино
-Hrabrovo, Chabrowo, Chamsalar, Chrabrowo, Fete K'oy, Feti-K'oy, Hamzalar, Khamzalar, Khrabarovo, Храброво
+Hrabrovo, Chabrowo, Chamsalar, Chrabrowo, Fete K'oy, Feti-K'oy, Hamzalar, Khamzalar, Khrabarovo, Khrabrovo
 Hrasna, Chrasna, Khrasna
 Hrastovo, Chrastowo, Khrastovo, Kyuldzhiler
 Hrishteni, Chrischeni, Khrishteni, Хрищени
-Hristiyanovo, Christijanowo, Khristiyanovo, Misilimi, Misilimito
-Hristo-Danovo, Christo Danowo, Tekija, Tekiya, Христо-Даново
+Hristiyanovo, Christijanowo, Misilimi, Misilimito, Християново
+Hristo-Danovo, Christo Danowo, Khristo-Danovo, Tekija, Tekiya
 Hristovtsi, Christowzi, Khristovtsŭ, Христовци
-Hromitsa, Khromitsa
+Hromitsa, Хромица
 Hubavelka, Khubavelka
-Hubavene, Chubawene, Huiovene, Khubavene, Khuyovene
-Huhla, Chuchla, Хухла
+Hubavene, Chubawene, Huiovene, Khuyovene, Хубавене
+Huhla, Chuchla, Khukhla
 Huma, Chuma, Kanali, Kŭnalii, Хума
 Humino, Хумино
 Hvarchil, Fŭrchil, Khvŭrchil, Хвърчил
-Hvostyane, Chwostjane, Fustanya, Хвостяне
+Hvostyane, Chwostjane, Fustanya, Khvostyane
 Hvoyna, Chvoina, Chvojna, Chwojna, Khvoyna
 Ichera, Ichira, Itschera, Ičera, Ječira
 Idilevo, Idilewo
@@ -1757,7 +1757,7 @@ Iskrets, Iskrec, Iskretz, Isskrez
 Iskril, Khadzhi Makhle, Khadzhiysko, Искри
 Iskritsa, Kolchular, Kolchulare, Strashari, Strazhari
 Isperih, Isperich, Kemallar, Kemanlar, Исперих
-Isperihovo, Adŭnkioy, Aidinevo, Ajdinovo, Aydinevo, Aydinovo, Isperichowo, Isperikhovo
+Isperihovo, Adŭnkioy, Aidinevo, Ajdinovo, Aydinevo, Aydinovo, Isperichowo, Исперихово
 Ivan Dimov, Ivan Dŭmov
 Ivan Shishmanovo, Eni Balabanlar, Iwan Schischmanowo
 Ivan-Vazovo, Iwan Wasowo, Khimitlie, Khimitlii, Иван_Вазово
@@ -1787,9 +1787,9 @@ Izvorsko, Dernent, Dervent, Isworsko
 Kabile, Iswor, Tavshan-Tepe
 Kabiyuk
 Kableshkovo, Dautli, Dautlii, Dautliy, Dautly, Davutli, Kableschkowo, Kableskovo, Pasha Balŭ, Shabanlar
-Kachova Mahala, Качова махала
+Kachova Mahala, Kachova Makhala
 Kachulka, Katschulka, Kurandzhilar
-Kachulska Mahala, Kachulska Makhala
+Kachulska Mahala, Качулска Махала
 Kachultsi
 Kadanka, Kadŭnka, Khasan K'oy, Кадънка
 Kadievo, Kadiewo
@@ -1862,7 +1862,7 @@ Kanits, Funden, Kaniz, Кантис
 Kantari, Kantarŭ
 Kanyak, Kanjak, Kara K'oy Ibikler
 Kaolinovo, Beyuk Bakchilar, Boshidar, Bozhidar, Shumnu-Bokhchalar, Shumnu-Bokhchilar
-Kapak Mahala, Kapak Makhala
+Kapak Mahala, Капак Махала
 Kapatovo, Kanatovo, Kapatowo
 Kapetantsi
 Kapinets, Kadŭr K'oy, Kapinez, Khidirkioy, Kŭpinets, Къпинец
@@ -1987,7 +1987,7 @@ Kiselichevo, Gorna Kisselitschowo, Gorna-Kiselichovo
 Kiselitsa, Kisseliza
 Kiselkovtsi
 Kisiytsite, Kiseitsŭ
-Kisyovtsi, Kis'ovtsi, Kisevtsŭ
+Kisyovtsi, Kisevtsŭ, Кисьовци
 Kitanchevo, Kadir, Kadirkiöj, Kadŭr, Kitantschewo, Kitenčevo, Kădăr, Kŭdŭr, Kŭdŭrkioy
 Kitanovtsi
 Kiten, Avordovisa, Bordovasca, Chiflik Urdoviza, Kiten Lozenets, Mukhalii, Ourdovisa, Uerdiso, Urdoviza
@@ -2018,7 +2018,7 @@ Kmetcheta, Kmetchetata
 Kmetovtsi, Kmetowzi, Metkovtsŭ
 Knezha, Kneja, Knesha, Kneža, Knizha, Knježa, Knyazha
 Knizhovnik, Idebik, Knishownik, Knzhovnik
-Knyazheva Mahala, Islyam Makhala, Knjashewa Machala, Княжева махала
+Knyazheva Mahala, Islyam Makhala, Knjashewa Machala, Knyazheva Makhala
 Knyazhevo, Bali Efendi, Kneažjavo, Kniajévo, Knjashewo, Knjaževo, Sahli, Shakhlii, Shakhliy
 Knyazhevsko, Pishmana, Razkayane, Razkayani, Tsaritsa Ioanna, Zariza Joanna
 Kobarelov Chiflik
@@ -2044,7 +2044,7 @@ Kokortsi, Kokorzi, Колорци
 Kokoshane, Kŭzlap, Колошане
 Kolari, Arabadzhi, Arabadzhii, Makhala Arabadzhi, Makhala Kolari
 Kolarovo, Arabadzhievo, Arabadzhilar, Arabagilar, Arbadzhievo, Kolarevo, Kolarewo, Kolarowo, Kolarsko Selo
-Kolarska Mahala, Коларска Махала
+Kolarska Mahala, Kolarska Makhala
 Kolartsi, Arabadzhi, Arabadzhii, Arabagi, Arabugi, Kolaroi
 Kolena
 Kolets, Kazŭklii, Kolez
@@ -2084,7 +2084,7 @@ Konstantinovo, Dere K'oy, Derekioy, Konstantinowo, Malko Yurendzhik, Novoseltsi
 Konush, Konusch, Konuš, Tamar-K'oy-Olu-Dere, Tatar K'oy Olu Dere
 Konyartsi, Atlarche, Atlartsi, Konjarzi
 Konyavo, Kon'avo, Kon'ovo, Koniawo, Konjavo, Konjevo, Konjovo, Konvovo
-Konyovitsa, Katsite, Kolibi Konevets, Kon'ovitsa, Konjovica
+Konyovitsa, Katsite, Kolibi Konevets, Konjovica, Коньовица
 Konyovo, Atlooglu, Atloolu, Kon'ovo, Koniovo, Koniowo
 Kopadan, Kapadan, Kopadan Dere
 Kopanitsa, Kopaniza
@@ -2156,7 +2156,7 @@ Kotenovtsi, Kotenovci, Kotenovtsŭ, Kotenowzi
 Kotlari, Kazandzhilar
 Kotlentsi, Bucureni, Choschkadem, Khosh Kadem, Kotlenci
 Kotovtsi
-Kotseva Mahala, Kotseva Makhala, Костева махала
+Kotseva Mahala, Костева махала, Коцева Махала
 Kotutsi, Kututsi, Kututsŭ
 Kovach, Kowatsch, Naldyuken
 Kovachevets, Kovachovets, Kovatchévèts, Kovatchévètz, Kovačica, Kovačovec, Kowatschowez
@@ -2180,7 +2180,7 @@ Kozarsko, Kosarsko
 Kozhari, Koshari
 Kozhintsi, Koshinzi
 Kozhlyuvtsi
-Kozhuhartsi, Koshucharzi, Kozhukhartsi, Kyurlyu Makhle
+Kozhuhartsi, Koshucharzi, Kyurlyu Makhle, Кожухарци
 Kozi Rog, Kosi Rog, Koziy Rog
 Kozichino, Erkech, Erkeč, Kositschino
 Kozin Dol, Kechi Dere, Kosin-Dol
@@ -2195,7 +2195,7 @@ Koznitsa, Kara-Mandzha, Karamandzhi, Kosniza
 Kozya Reka, Kosja-Reka, Koz Dere, Козята река
 Kozyak, Checiler-Mahle, Kechiler Makhle, Kozak
 Krachimir, Krachemir
-Kraeva Bachia, Kraeva Bachiya, Kraewa-Batschija
+Kraeva Bachia, Kraewa-Batschija, Краева бачия
 Kraevo, Kraewo
 Kragulevo, Kraguevo, Sahangi, Shakhi Dzhii
 Kraishte, Enidzhe Khaydar, Enigea Heidar, Enigea-Haidar, Kraisnte, Krayshte, Kreište, Краище
@@ -2222,7 +2222,7 @@ Krasnoseltsi, Kaleydzhiler, Kilidzhiler, Krasno-Selo, Krasnosselzi
 Krasnovo, Krashovo, Krassnowo, Krastovo
 Krastatitsa, Krŭstatitsa, Кръстатица
 Krastava, Krŭstava, Кръстава
-Krastava Mahala, Крастава Махала
+Krastava Mahala, Krastava Makhala
 Krastec, Krastetz, Krestets, Krăstez, Krŭstets, Кръстец
 Krastenyatsite, Krŭstenyatsite, Кръстеняците
 Krastevich, Gorno Osmanovo, Krăstiowitsch, Krŭstevich, Krŭsťovich, Кръстевич
@@ -2305,7 +2305,7 @@ Kuklen, Koklen
 Kuklya, Kuklevtsŭ
 Kukorevo, Koukourevo, Kukorewo
 Kukovtsi
-Kukurahtsevo, Kukurakhtsevo, Kukurakhtsovo, Kukuraszewo, Кукурахчето
+Kukurahtsevo, Kukurakhtsovo, Kukuraszewo, Кукурахцево, Кукурахчето
 Kukuryak, Erekli, Kukurjan
 Kukuvitsa, Kukovitsa, Kukuwiza
 Kula, Adlijo, Adlye, Koula
@@ -2335,7 +2335,7 @@ Kutsovo, Kuzowo, Topalar, Кустово
 Kutugertsi, Kutugeron, Kutugerzi
 Kuzyovo, Кузово
 Kyochevtsi, K'ochevtsi
-Kyolmen, G'ol'menkioy, Gyulemen, K'olemen, K'olmen, Kiolemen
+Kyolmen, G'ol'menkioy, Gyulemen, K'olemen, Kiolemen, Кьолмен
 Kyoseva, Machla Kioseva, Makhala K'oseva, Кьосева
 Kyosevo, K'oseler, K'osevo, Kjossewo
 Kyosevtsi, K'ose K'oy, Keseleler, Kjosevtsi, Kjossewzi, Kyusekioy
@@ -2355,7 +2355,7 @@ Laki, Lŭki, Лъки
 Lale, Kara K'oy
 Lalkovo, Laikovo, Lalkowo, Malŭk-Dervent
 Lamava, Lŭmava, Лъмава
-Lambuh, Ламбух
+Lambuh, Lambukh
 Laskar
 Laskarevo, Dolni Orman, Laskarewo
 Latinka, Tyurk Yurpek
@@ -2370,8 +2370,8 @@ Lazhnitsa, Lăshniza, Lŭzhnitsa, Лъжница
 Lebed, G'oldzhuk
 Lebnitsa, Lebniza
 Ledenik
-Lehchevo, Lechtschewo, Lechčevo, Lehčeva, Lehčevo, Lekchevo, Лехчево
-Lehovo, Lechowo, Lyakhovo, Лехово
+Lehchevo, Lechtschewo, Lechčevo, Lehčeva, Lehčevo, Lekchevo, Lekhchevo
+Lehovo, Lechowo, Lekhovo, Lyakhovo
 Lelintsi, Lelinzi
 Lenishte, Alfatlar, Ленище
 Lenkovo, Koiriva, Kopriva, Kopriwa, Senkovo
@@ -2425,7 +2425,7 @@ Lipnitsa, Lipnica, Lipniza
 Lisets, Lisen, Makhala Lisets
 Lishantsi
 Lisi Vrah, Lisi Vrŭkh, Lissi Wrech, Sakal Tepe, Sakar Tepe, Лиси Връх
-Lisia, Lidžene, Lisiya, Lissija
+Lisia, Lidžene, Lissija, Лисия
 Lisicharka
 Lisitsite, Lissizite, Tilkiler
 Lisovo, Kodzha Apli, Lissowo
@@ -2447,7 +2447,7 @@ Lopushna, Lopuschna, Lopušna
 Lopushnya, Lopuschnja
 Lopyan, Lopen, Lopian, Lopjan, Lupjuni
 Lovchantsi, Carasular, Kara Sular, Lowcanici
-Lovech, Lovcha, Loveshka Oblast, Loveshki Okrŭg, Lovetch, Loveč, Lovča, Lowetsch, Област Ловеч
+Lovech, Lovcha, Loveshka Oblast, Loveshki Okrŭg, Lovetch, Loveč, Lovča, Lowetsch, Oblast Lovech
 Lovets, Avdalar, Avdzhi Duvandzhii, Avdzhi Duvandzhiy, Evdokiya, Ewdokia, Khasankioŭ, Khasanovo, Lowetsch, Lowez
 Lovnidol, Lomni-Dol, Lovindal, Lowni Dol
 Lovtsi, Lowzlte, Rakhmanska
@@ -2465,7 +2465,7 @@ Lozitsa, Eni Makhle, Losiza, Lozica, Lozitza, Razvalini Enimakhle
 Loznitsa, Deli Yusuf Kuyusu, Deli-Jüssufkujüssu, Deliyusufkoyusu, Kobadin, Kobadŭn, Losniza, Loznica, Pădureni
 Lozno, Losno
 Ludogortsi, Durach, Duran, Duratsch, Durač
-Lukarska Mahala, Лукарска Махала
+Lukarska Mahala, Lukarska Makhala
 Lukovit, Gorni Lukovit, Loukovit, Lukowit
 Lukovo, Lukowo
 Lulichka, Kadŭ K'oy, Lulitschka
@@ -2473,14 +2473,14 @@ Luybovka
 Lyahovo, Evecler, Evlekler, Ewlekler, Lehowo, Lekhovo, Ljachowo, Lyakhovo, Lyekkovo, Lŭkhovo, Yasŭdzha
 Lyalintsi, Ljalinzi
 Lyaskovets, Leskovètz, Leskowez, Ljaskovec, Ljeskovec, Lyaskovetz, Lyeskovets, Lěskovec, Pŭndŭdzhik
-Lyaskovo, Abtarazak, Aptarazak, Fândacli, Fŭndaklii, Leskowo, Lyeskovo, Pandakliy, Pŭndadzhik, Лесково
+Lyaskovo, Abtarazak, Aptarazak, Fândacli, Fŭndaklii, Leskovo, Leskowo, Lyeskovo, Pandakliy, Pŭndadzhik
 Lyatno, Letno, Yazla
 Lyava Reka, Lewa Reka, Lyeva Ryeka
 Lyubcha, Ljubtscha
 Lyuben, Caravelichioi, Kara Mustafalar, Kara Mustafalare, Kara Veli K'oy, Liuben, Ljuben
 Lyuben Karavelovo, Ljuben Karawelow, Lyuben Karavelov, Saraghiol, Sară-G'ol, Sară-Giol
 Lyubenets, Gyuneliy, Ljubenez, Staro Gyunelii
-Lyubenova Mahala, Gyuneli Makhle, Liovbénova Mahala, Ljubenova-Mahala, Ljubenowa Machala, Lyubenova Makhla, Lyubenovo Makhala, Lyubenovo-Mahala, Любенова Махала
+Lyubenova Mahala, Gyuneli Makhle, Liovbénova Mahala, Ljubenova-Mahala, Ljubenowa Machala, Lyubenova Makhala, Lyubenova Makhla, Lyubenovo Makhala, Lyubenovo-Mahala
 Lyubenovo, Dzhada G'ol, Gyunelii, Ljubenowo, Mărschowiza, Mŭrshovitsa, Nova-Makhla, Nowa Machla
 Lyubentsi, Ram K'oy
 Lyubichevo, Ashiklar, Ljubitschewo
@@ -2521,15 +2521,15 @@ Maglishta, Ardashli, Mŭglishta, Мъглища
 Maglizh, Magliš, Magliž, Meglish, Meglizh, Mglij, Moglič, Mögliš, Măglish, Mŭglish, Mŭglizh, Mŭgliž, Мъглиж
 Mahala Belantsi, Makhala Belantsi, Мхала Беланци
 Mahala Kardzha, Makhala Kŭrdzha, Махала Кърджа
-Mahala Nadezhden, Makhala Nadezhden
+Mahala Nadezhden, Махала Надежден
 Mahala Polomska, Makhala Polomska
 Mahala Polyana, Makhala Polyana
 Mahala Spasova, Makhala Spasova, Мхала Спасова
 Mahala Tsarkvichka, Makhala Tsŭrkvichka, Махала Църквичка, Църквичка
 Mahala Vachokorska, Makhala Vachokorska, Вачокорска
-Mahalata, Machalata, Makhalata
-Mahalnitsi, Makhalnitsa, Makhalnitsi
-Mahmutitsa, Machmutiza, Махмутица
+Mahalata, Machalata, Махалата
+Mahalnitsi, Makhalnitsa, Махалници
+Mahmutitsa, Machmutiza, Makhmutitsa
 Mahmutovtsi, Махмутовци
 Mak, Mŭk Mŭl
 Makak, Makaklar, Makaklari
@@ -2561,8 +2561,8 @@ Malini, Shawdere, Zhavdere, Zhivoderite, Zhivoderitye
 Malinkovtsi
 Malinovo, Kolibi Mal'novo, Ostrec, Ostretz, Ostrez
 Malinovska
-Malinovska Mahala, Малиновска Махала
-Malishevska Mahala, Малишевска Махала
+Malinovska Mahala, Malinovska Makhala
+Malishevska Mahala, Malishevska Makhala
 Malka Arda, Kyuchuk Arda, Kyuchyuk Arda
 Malka Cherkovna, Chekrikcheler, Chikrŭkchilari, Malka Tscherkowna
 Malka Polyana, Kyuchuk Alan, Kyuchuk-Ali, Malka Polyanka, Malka-Poljanka
@@ -2587,7 +2587,7 @@ Malko Krushevo, Akhatlar Segair, Malko Kruschewo
 Malko Popovo, Khodzha K'oy, Malko-Popowo
 Malko Selo, Kyuchyukler
 Malko Sharkovo, Malak Bojalik, Malco Šarkovo, Malek Voden, Malko Scharkowo, Malăk Bokalük, Malăk-Boyalăk, Malŭk-Boyalŭk, Sarkovo
-Malko Tarnovo, Malko Tarnowo, Malko Tŭrnovo, Malko-Tirnovo, Malko-Trnovo, Malko-Tărnov, Malkotirnova, Tirnovo
+Malko Tarnovo, Malko Tarnowo, Malko Tŭrnovo, Malko-Tirnovo, Malko-Tărnov, Malkotirnova, Tirnovo, Малко Търново
 Malko Tranovo, Chanlii, Chanliy, Malko Trănowo, Malko Trŭnovo, Malko Turnovo, Малко Тръново
 Malko Tsarkvishte, Malko Tsŭrkvishte, Malko-Zărkwischte, Tekeler Dzhami, Малко Църквище
 Malko Vranovo, Malko Wranowo, Мало Враново
@@ -2633,7 +2633,7 @@ Marino
 Marino Pole, Marinopol, Menteshelie, Minteshliy, Mintishlii, Muno Pole
 Marinovtsi, Mari Ovtsŭ, Marinosko, Marinowzi
 Maritsa, Makhala, Mariza
-Mariyanovska Mahala, Mariyanovska Makhala
+Mariyanovska Mahala, Марияновска Махала
 Markovo, Markovcha, Markovec, Markovča, Markovče, Markowo, Markowtscha, Sakarlii, Sakarliy
 Markovo Ravnishte, Markowo-Rawnischte, Марково Равнище
 Marten, Marlen, Martin
@@ -2660,7 +2660,7 @@ Mazarachevo, Masaratschewo
 Mazhentsi, Măshenzi, Mŭzhentsi, Shainler, Мъженци
 Maznevtsi
 Meche Korito, Mechekoritski, Metscho-Korito
-Meche Uho, Ay Kulak, Meche Ukho, Metsche Ucho
+Meche Uho, Ay Kulak, Metsche Ucho, Мече Ухо
 Mechka, Metschka
 Mechkarevo, Mecharevo, Mechkarovo, Metschkarewo, Michkarevo
 Mechkovitsa, Mechkovtsŭ, Metschkowzi
@@ -2680,13 +2680,13 @@ Medovina, Baldzhi Omur, Boldzhi Omur, Medowina
 Medovnitsa, Medovnica, Medowniza, Metovnica
 Medovo, Baldzhi K'oy, Baldzhilare, Bolgarski Bŭldzhilare, Medowo, Razvalini Balchikioy
 Medven, Medwen, Papaskioy
-Mehandzhiyska, Механджийска
+Mehandzhiyska, Mekhandzhiyska
 Mehurka, Мехурка
 Melnik
 Melnitsa, Dermen-Dere, Melniza
 Melyane, Meljane
 Mendovo, Mendowo
-Menenkyovo, Menenkewo, Menenkiovo, Menenkëvo, Мененково
+Menenkyovo, Menenkewo, Menenkiovo, Menenkëvo, Мененкьово
 Mengishevo, K'opek K'oy, K'opekkioy, Mengischewo
 Merdanya, Merdanja
 Merdzhenik
@@ -2699,7 +2699,7 @@ Mesta
 Metlichina, Ali Pasha, General Panayotovo, General-Panomotowo, Khambarlŭk, Metlitschina
 Metlichka, Metlitschka, Mukhare Moglar
 Metodievo, Chaushkioy, Chaushovo, Chiopeler, Chiostecceler, K'ostekchiler, Kyupeler, Megodiewo, Metodiewo, Orlowo, Verizhari
-Metohia, Metochija, Metohiya, Metokhiya
+Metohia, Metochija, Metohiya, Метохия
 Mezarluk Dere, Мазарлък дере
 Mezdra, Mesdra, Mezhdra, Mizara
 Mezdreya, Mesdreja
@@ -2710,16 +2710,16 @@ Mezhdeni, Medzheni, Meshdeni
 Michkovtsi, Michkovtsŭ, Mitschkowzi, Мишковци
 Mihalich, Makhalŭch, Michalitsch, Mikhalich
 Mihalkovo, Michalkovo, Michalkowo, Mihalhovo, Mikhalkovo
-Mihaltsi, Michalci, Michalzi, Mihalci, Mihalsti, Mikhaltsi
+Mihaltsi, Michalci, Michalzi, Mihalci, Mihalsti, Михалци
 Mihaylovo, Bosilegrad, Bossilegrad, Dimitrovo, Dolna Gnoenitza, Dolna Gnoynitsa, Dolna-Gnoiniza, Dolna-Gnojnica, G'ok Pala, Gyukhpala, Michailowo, Mihailovo, Mihajlovo, Mikhailovo, Михайлово
-Mihaylovtsi, Mikhailovtsi, Mikhaylovtsi
+Mihaylovtsi, Mikhailovtsi, Михайловци
 Mihiltsi, Michilzi, Mikhil'tsŭ, Mikhiltsi, Михилист
-Mihnevo, Michnewo, Mikhnovo, Михнево
+Mihnevo, Michnewo, Mikhnevo, Mikhnovo
 Mihotvsi, Mikhovtsi, Miovtsŭ
 Mikre
 Miladinovo, Dedeler, Miladinowo
 Miladinovtsi, Denicler, Diynekler, Dzhevezli Kalfa, Dzhevizli Kalfa, Dzhevizli-Kalfa-Kioi, Kalfa K'oy, Kalfakioy, Miladinovci, Miladinowzi
-Miladinska Mahala, Miladinska Makhala
+Miladinska Mahala, Миладинска Махала
 Milanovo, Belibei, Ossikowo, Veli Bey, Vladimirtsi, Wladimirzi
 Milchina Laka, Milchina Lŭka, Miltschina-Lăka, Милчина Лъка
 Mile
@@ -2754,7 +2754,7 @@ Mitrovtsi, Mitrovtsŭ, Mitrowzi
 Miykovtsi, Miikovtsi, Miikowzi, Mikovtsŭ
 Mizhevtsi
 Mizhovtsi
-Mizia, Bukiowzi, Bukyuvtsy, Miziya
+Mizia, Bukiowzi, Bukyuvtsy, Мизия
 Mlada Gvardia, Beili, Beyli, Beylii, Knjasewo, Knyazevo, Malada Gvardiya, Mlada Gvardiya
 Mladen, Bukudrovo, Bukurovo, Bukurowo
 Mladentsi
@@ -2777,7 +2777,7 @@ Mogilitsa, Mogiliza, Toz-Burun
 Mogilovo, Konopchii, Konupchiy, Mogilowo
 Mogilyane, Mogiljane, Yurtchular
 Mokren, Avramov, Kepekli, Mokreni, Mokrum
-Mokresh, Duschilniza, Dushilnitsa, Karamikhtsa, Markish, Mokresch, Mokreš, Mokriš
+Mokresh, Duschilniza, Karamikhtsa, Markish, Mokresch, Mokreš, Mokriš, Душилница
 Mokrisani
 Mokrishte, Mokrischte, Yamurchovo, Мокрище
 Momchilgrad, Mastanli, Mastanlü, Momchigrad, Momichilovgrad, Momtchilgrad, Momtchilgrade, Momtschilgrad, Momčilgrad, Măstanlă, Mŭstanli
@@ -2786,7 +2786,7 @@ Momchilovtsi, Dere-Kjoj, Gorno-Dere-K'oy, Momtschilowzi
 Momin Sbor, Kestambol
 Momina Klisura, Kus Derbent, Momina Klissura
 Momina Salza, Kus K'oy, Momina Sŭlza, Sulzitsa, Момина Сълза
-Momina Tsarkva, Kază-Klise, Kŭza Klise, Momina Tsŭrkva, Momina-Zărkwa, Желязково, Момина Църква
+Momina Tsarkva, Kază-Klise, Kŭza Klise, Momina Tsŭrkva, Momina-Tsrkva, Momina-Zărkwa, Zhelyazkovo
 Momino, Kazana Teke, Kiz-Ana-Teke, Kŭz Makhle
 Momino Selo, Murtatlii, Murtatliy
 Mominsko, Kasŭmovo, Mominsko Selo
@@ -2807,7 +2807,7 @@ Most, K'opryuli, K'opurlii, Kyupryuli, Kyupryulyu
 Mostich, Alusiyan, Alussijan, Makhmudkioy
 Mostovo, Er Kyupryu, Er-Kjuprija, Er-Kyupriya, Mostowo
 Mrachenik, Mratschenik
-Mrahori, Mrakhorite, Мрахори
+Mrahori, Mrakhori, Mrakhorite
 Mraketintsi, Makhala Mraketnitsi, Mrak'otinska
 Mramor, Eni K'oy, Nowo Selo, Марамор
 Mramoren, Мараморен
@@ -2912,14 +2912,14 @@ Novakovtsi, Novakovtsŭ, Nowakowzi
 Novata Mahala, Novata, Новата Махала
 Novgrad, Novi Grad, Nowgrad
 Novi Chiflik, Nowi Tschiflik
-Novi Han, Jeni-Han, Novichan, Nowi-Chan, Нови Хан
+Novi Han, Jeni-Han, Novi Khan, Novichan, Nowi-Chan
 Novi Iskar, Novi Iskŭr, Нови Искър
-Novi Pazar, Eni Bazar, Eni Pazar, Jenibazar, Novi-Paza, Nowi-Pasar
+Novi Pazar, Eni Bazar, Eni Pazar, Jenibazar, Novi-Paza, Nowi Pasar
 Novo Bardo, Bŭrdo, Novo Bŭrdo, Ново Бърдо
 Novo Botevo, Boteni, Malko Bot'ovo, Novo Bot'ovo, Nowo-Botiowo
 Novo Delchevo, Deltschewo, Gara Delchevo
 Novo Gradishte, Korudzha-Eren, Korudža Eren, Krurdere, Kurudere, Ravish, Tsarevo Gradishte, Zarewo-Gradischte, Ново Градище
-Novo Hodzhovo, Novo Khodzhovo, Nowo-Chodshowo, Oresnik
+Novo Hodzhovo, Nowo-Chodshowo, Oresnik, Ново Ходжово
 Novo Konomladi, Nowo Konomladi
 Novo Leski, Leski
 Novo Oryahovo, Dervish Ivan, Eni Dervish Yuvan, Novo Oryekhovo, Nowo Orechowo, Ново Оряхово
@@ -2960,9 +2960,9 @@ Ognyanovo, Fotovishche, Fotovishta, Fotovišta, Gyuredzhiya, Mariza, Nadeide, Na
 Ogoya, Ogoja
 Ogradna, Ogradno
 Ograzhden, Chassarlăk, Hasarlak, Hasarlâc, Khasŭrlŭk, Ogražden
-Ohlyuvets, Ochljuwez, Syule K'oy, Охлювец
-Ohoden, Ochoden, Оходен
-Ohrid, Ochrid, Охрид
+Ohlyuvets, Ochljuwez, Okhlyuvets, Syule K'oy
+Ohoden, Ochoden, Okhoden
+Ohrid, Ochrid, Okhrid
 Okoliite, Okulitsŭ
 Okop, Indzhek Sarlin, Indzheksarliy
 Okorsh, Musular, Okorš
@@ -2978,9 +2978,9 @@ Opanets, Opancha, Opanec, Opanez, Opantez, Opantscha, Oponets
 Opitsvet, Opitsvyet, Opizwet
 Opletnya, Opletnja
 Orach, Albalar, Albalari, Oratsch
-Oreh, Orekh
+Oreh, Орех
 Orehovitsa, Orechowiza, Orehovica, Orekhovitsa, Orjahovica, Orjechovica, Oryakhovitsa, Oryekhovitsa, Oréhovitza
-Orehovo, Orechowo, Oryakhovo, Oryekhovo, Орехово
+Orehovo, Orechowo, Orekhovo, Oryakhovo, Oryekhovo
 Orel
 Oresh, Oresch, Oreš, Oreše, Orješ, Oryesh
 Oresha
@@ -3007,7 +3007,7 @@ Orlyak, Feldmarschall Mackensen, Makenzen, Trubchular, Trupcilar
 Orlyane
 Orsoya, Orson
 Ortsevo, Orzewo Machala
-Oryahovets, Kozludzha, Orechowez, Оряховец
+Oryahovets, Kozludzha, Orechowez, Oryakhovets
 Oryahovitsa, Orechowiza, Orehovitza, Orekhovitsa, Oriahovica, Orjachovica, Oryekhovitsa, Uraevitsa, Оряховица
 Oryahovo, Orechovo, Orechowo, Orejekhovo, Orekhovo, Orjahovo, Orjechovo, Orjekhovo, Oryekhovo, Rachowo, Rahova, Ruhovo, Saranlii, Оряхово
 Oselna, Kolibi Oselcha, Osselna
@@ -3015,7 +3015,7 @@ Osen, Casimlar, Cazimlar, Duvandzhii, Duvandzhil, Kasimlar, Kasŭmlar, Ossen
 Osenarite, Usunari
 Osenets, Hyusenche, Khyusekcha, Khyusenche, Osenec, Ossenez, Ossénetz, Osyenets
 Osenovets, Ashikovo, Ašikovo, Ossenowez
-Osenovlag, Osenovlak, Osinovlak, Ossenowlak, Osyenovlak
+Osenovlag, Osinovlak, Ossenowlak, Osyenovlak, Осеновлак
 Osenovo, Dish-Budak, Diz-Budak, Diš Budak, Osenevo, Ossenowo
 Osetenovo, Doymushlari, Ossetenowo
 Oshane, Oschane
@@ -3052,7 +3052,7 @@ Ovchevo, Ispalar, Owtschewo
 Ovchi Kladenets, Koyun Bunar, Owtschi Kladenez
 Ovchitsa
 Oven, Caracoci, Kara Koch, Karacoci, Karakatsch, Ovech, Oveč
-Ovnarska Mahala, Ovnarska Makhala, Ovnartsi
+Ovnarska Mahala, Овнарска Махала, Овнарци
 Ovoshtartsi, Chomatsite, Овощарци
 Ovoshtna, Chokmishleri, Овощтна
 Ovoshtnik, Emishleri, Esekli, Esekpi, Owoschtnik, Овощник
@@ -3080,12 +3080,12 @@ Pamidovo, Shakhlare, Tsarsko, Zarsko
 Pamporovo
 Pamukchii, Pamukchi, Pamukchin, Pamukchiya, Pamuktschii, Pamukči
 Pamukliyska Mahala, Pamukliyska Makhala
-Panagyurishte, Otalkiöj, Panaghiourichté, Panaghurichte, Panagiuriste, Panagjurischte, Panagjurište, Panagjurišče, Панагюрище
+Panagyurishte, Otalkiöj, Panaghiourichté, Panaghurichte, Panagiuriste, Panagjurischte, Panagjurište, Panagjurišče, Panagyurishche
 Panaretovtsi, Karsŭnlii, Kersŭnliy, Panaretovo, Panaretowzi
 Panayot-Hitovo, Iliyaz Karalar, Kosirgalar, Panaiot-Chitowo, Panayot-Khitovo, Панйот-Хитово
 Panayot-Volovo, Kada, Volov, Wolow
 Pancharevo, Pantscharewo
-Panchevo, Kara Kyutyuk, Pynchevo, Păntschewo, Pŭnchevo, Пънчево
+Panchevo, Kara Kyutyuk, Pantschewo, Pynchevo, Pŭnchevo, Пънчево
 Pandurtsi
 Panicharevo, Panitscharewo
 Panicheri, Panichere, Panitschere
@@ -3127,13 +3127,13 @@ Pastren, Aladzhalii, Aladzhaliy, Pŭstren, Пъстрен
 Pastrogor, Ala Daglii, Aladaa, Aladag, Pestrogor, Pŭstrogor, Пъстрогор
 Pastrook, Alag'ozler, Pastrok, Pŭstrook, Пъстрок, Пъстроок
 Pastrovo, Alagyun, Pestrovo, Păstrowo, Pŭstrovo, Пъстрово
-Pastuh, Pastuch, Пастух
+Pastuh, Pastuch, Pastukh
 Patalenitsa, Patalenica, Patalenitza, Pataleniza, Patelenica, Patelenitsa
 Patitsa, G'ok Viran, Patiza
 Patnikovo, Kiralar, Patnikowo, Pŭtnikovo, Пътниково
 Patresh, Patresch
 Patreshko, Patreschko, Патршко
-Patriarh-Evtimovo, Patriarch-Ewtimiewo, Patriarkh Eftimovo, Patriarkh Evtimievo, Patriarkh Evtimiy, Pranga, Патриарх-Евтимово
+Patriarh-Evtimovo, Patriarch-Ewtimiewo, Patriarkh Eftimovo, Patriarkh Evtimievo, Patriarkh Evtimiy, Patriarkh-Evtimovo, Pranga
 Paun
 Paunovo, Kutrachzi, Kutrakhtsi, Kutratsi
 Pavel, Pawel
@@ -3162,25 +3162,25 @@ Pechenitsa, Osman Makhle, Osmankioy, Petscheniza
 Pechinska, Petschinska
 Peevo
 Peevsko, Boyadzhilar, Peewsko
-Pehlivanovi Kolibi, Pekhlivanovi Kolibi
+Pehlivanovi Kolibi, Пехливанови Колиби
 Pehlivantsi, Pekhlivantsi
 Pelatikovo, Pelatikowo
 Pelin, Kara Beyli
 Pelishat, Pelischat
 Penkovtsi, Gyaur Dere Khodzha, Penkovtsŭ, Penkowzi
 Penkyovtsi, Penkiowzi
-Penyovo, K'oeler, K'oseler, K'oseoglar, Omer Ollar, Penowo, Пеньово
+Penyovo, K'oeler, K'oseler, K'oseoglar, Omer Ollar, Pen'ovo, Penowo
 Pepelina
 Pepelishte, Kyuldzhilar, Pepelischte, Пепелище
 Perdova Mahala, Perdova, Perdova Makhala
 Perilovets, Perilowez
-Pernik, Dimitrovo, Dimitrovski Okrŭg, Oblast Pernik, Pernishki Okrŭg
+Pernik, Dimitrovo, Dimitrovski Okrŭg, Pernishki Okrŭg, Област Перник
 Perperek, Ashiklar, Ashlar, Perpelek, Yashlar
 Perunika, Demir K'oy
-Perushtitsa, Perishchitsa, Peruschtiza, Peruštica, Перущица
+Perushtitsa, Perishchitsa, Peruschtiza, Perushchitsa, Peruštica
 Pesha Laka, Pesha Lŭka, Пеша Лъка
 Peshakovo, Guzeliya, Peschakowo
-Peshtera, Momarsko, Pechtera, Peschtera, Peshchera, Peštera, Peščera
+Peshtera, Momarsko, Pechtera, Peschtera, Peštera, Peščera, Пещера
 Peshterna, Peschterna, Пещерна
 Peshterska Mahala, Peshterska Makhala, Пещерска Махала
 Peshtersko, K'opeklii, Kepekliy, Peschtersko, Пещерско
@@ -3252,7 +3252,7 @@ Planinovo, Krumowo
 Planintsi, Osmanliytsi, Planinzi, Uzuni, Uzunŭ
 Plastina, Mutaflar, Plŭstina, Плъщина
 Platnarka
-Plazishte, Kayrak Seydeli, Kayraka, Kolibi Kayrak, Plazhite, Plăsischte, Plŭzishte, Плажище, Плъжище
+Plazishte, Kayrak Seydeli, Kayraka, Kolibi Kayrak, Plasischte, Plazhite, Plŭzishte, Плажище, Плъжище
 Plenimir, Plenimiv, Salaman, Salman
 Pleshintsi, Kel Oglar, Pleschinzi
 Pleshivets, Plaschiwe, Plashivets
@@ -3264,7 +3264,7 @@ Plodovitovo, Plodowitowo, Syulmeshlii, Syulmeshliy
 Ploska Mogila, Chitalii, Chitalliy, Polska Mogila
 Ploski
 Plovdina
-Plovdiv, Eumolpias, Filiba, Filipopol, Filippopol, Flavia, Julia, Philippopel, Philippopoli, Philippopolis, Pinople, Plodin, Ploudin, Plovdin, Plovdivska Oblast, Plovdivski Okrŭg, Poulpoudeva, Sinople, Trimontium, Ulpia, Vinipoppolis, Област Пловдив, Пловдивски окръг
+Plovdiv, Eumolpias, Filiba, Filipopol, Filippopol, Flavia, Julia, Oblast Plovdiv, Philippopel, Philippopoli, Philippopolis, Pinople, Plodin, Ploudin, Plovdin, Plovdivski Okrŭg, Poulpoudeva, Sinople, Trimontium, Ulpia, Vinipoppolis, Пловдивска област, Пловдивски окръг
 Plovdivtsi, Biyuk Dere, Plowdiwzi
 Plovka, Plowka, Tyurk Geve
 Plyangovtsi
@@ -3365,8 +3365,8 @@ Povien, Mandŭr Ach, Powien
 Pozharevo, Bolgar Kosuy, Bolgarski Kosuy, Bŭlgarski Kosuy, General Draganov, General Draganovo, Posharewo
 Pozhernik, Pozhernek
 Pozlata
-Prahalite, Pralati, Pralatŭ, Прахалите
-Prahavitsa, Прахавица
+Prahalite, Prakhalite, Pralati, Pralatŭ
+Prahavitsa, Prakhavitsa
 Prahovo, Prakhovo
 Prauzhda, Praushda
 Pravda, Dogrular, Prawda, Tsiganovo, Ziganowo
@@ -3424,8 +3424,8 @@ Profesor Zlatarski, Asa-Mahle, Kŭzŭldzhiklii
 Progled
 Progres
 Prohlada, Chiyrekchii, Cirecci, Desislava, Desislawa, Prokhlada, Tschirektschi
-Prohod, Dervent Dere, Kŭm Dervent Dere, Prochod, Prokhod
-Prohorovo, Kara Kyurt, Prochorowo, Прохорово
+Prohod, Dervent Dere, Kŭm Dervent Dere, Prochod, Проход
+Prohorovo, Kara Kyurt, Prochorowo, Prokhorovo
 Prolaz, Dervemkiöj, Dervent, Prolas
 Prolaznitsa, Prolasniza
 Prolesha, Prolescha
@@ -3437,14 +3437,14 @@ Prosena, Prossena
 Prosenik, Burundzhik, Burundzhuk, Burundžuk, Prossenik
 Prostorno
 Protopopintsi, Protopopinzi
-Provadia, Pravodi, Provadidija, Provadija, Prowadija, Провадия
+Provadia, Pravodi, Provadidija, Provadija, Provadiya, Prowadija
 Pryaporets, Baraklari, Baraklarit, Bayraktar Makhle, Preporez
 Pshenichevo, Golyamo Duvandzhii, Golyem Duvandzhiy, Ssokolowo
 Ptichar, Akhatla, Pticha, Ptitschar
 Ptichari, Kukhchelari, Kuvchu Osman, Ptitschari
 Ptichevo, Kushlu K'oy, Kushlukioy, Ptitschewo
 Pudria, Pudrija, Пудрия
-Puhiche, Pukhiche
+Puhiche, Пухиче
 Pushevo, Puschewo
 Pyasachevo, Kum K'oy, Kumkioy, Pesechevo, Pessătschewo, Pesŭchevo, Pyasŭchevo, Pyesŭchevo, Пясъчник
 Pŭrsha, Pelŭsha, Părscha, Пърша
@@ -3461,7 +3461,7 @@ Radanovo, Radonowo
 Radetski, Blagodetelno, Radezki
 Radevitsa
 Radevo, Chiftlik, Kapitan Radev, Kochak, Ovnets, Ownez, Radewo
-Radevska Mahala, Радевска махала
+Radevska Mahala, Радевска Махала
 Radevtsi
 Radibosh, Radibosch
 Radievo, Kyustyu K'oy, Kyustyukioy, Radiewo
@@ -3520,7 +3520,7 @@ Rashkovo, Raschkowo, Raškovo
 Rashovite
 Rashovitsa, Raschowiza
 Rasnik
-Rasovo, Pasovo, Răssowo, Rŭsovo, Ръсово
+Rasovo, Pasovo, Rassowo, Rŭsovo, Ръсово
 Rastnik, Tomashlar, Ращник
 Rat, Rŭt, Sŭrt K'oy, Рът
 Ratlina, Rŭtlina, Sagŭrdzhik, Suredzhikkioy, Sŭgardenik, Рътлина
@@ -3589,7 +3589,7 @@ Reka
 Rekarska Mahala, Rekarska Makhala
 Rekata
 Rekichka, Kovchas, Kovchaz, Kowtschas, Pekichka
-Relyovo, Rel'ovo, Reliowo
+Relyovo, Reliowo, Рельово
 Replyana, Repljana
 Reselets, Reselec, Resselez, Roselets
 Resen, Réssén
@@ -3607,7 +3607,7 @@ Ribnik
 Ribnitsa, Balŭk Dere, Ribniza
 Ribnovo, Ribnowo
 Ridare Mahala, Ридаре, Ридаре Махала
-Ridarska Mahala, Ридарска махала
+Ridarska Mahala, Ридарска Махала
 Ridino, Yar Dere
 Ridovo, Ridowo, Yamach K'oy
 Rila, Rila Selo, Riloselo
@@ -3616,7 +3616,7 @@ Riltsi, Khasarlŭk
 Rish, Chala Kavak, Chalŭkavak, Risch, Rizh, Riš
 Risimanovo, Rissimanowo
 Ritya, Rŭtya
-Rizovska Mahala, Rizovska Makhala
+Rizovska Mahala, Ризовска Махала
 Robovo, Kul K'oy, Robowo
 Rodina, Tanturi
 Rodopi
@@ -3631,7 +3631,7 @@ Rogozen, Rogosèn
 Rogozina, Chassărkujüssu, Khasŭr Kuyusu, Rogojina
 Rogozinovo, Khasŭrlii, Rogosinowo
 Rogulyat, Rugulete
-Rohleva, Rokhlevi, Рохлева
+Rohleva, Rokhleva, Rokhlevi
 Rolevtsi
 Roman
 Ropolska
@@ -3676,7 +3676,7 @@ Ruptsi, Rubzi, Rupzi
 Rusalina, Khodzhalar, Russalina
 Rusalsko, Duralar, Otashlă, Otašlö, Rusaloko, Russalsko
 Rusalya, Golyamo Yalare, Golyemo Yalare, Russalja
-Ruse, Roussé, Roustchouk, Ruschuk, Ruschuq, Rusciuk, Rusclink, Rushchuk, Rushtuk, Russe, Rustcuk, Rustschuk, Ruščuk, Saray-Makhle
+Ruse, Rousse, Roustchouk, Ruschuk, Ruschuq, Rusciuk, Rusclink, Rushchuk, Rushtuk, Russe, Rustcuk, Rustschuk, Ruščuk, Saray-Makhle
 Rusinovtsi, Rusenovtsi, Rusenovtsŭ, Russenowzi
 Ruska Bela, Bela Ruska, Byala Ruska, Byela-Ruska, Ruska Byala
 Ruskovtsi, Ruskovtsŭ
@@ -3687,8 +3687,8 @@ Ruychovtsi, Ruychevtsŭ
 Ruyno, Câzâlburum, Kazŭl Burun, Rujno
 Ruzhintsi, Beloptichene, Rujintsi, Rushinzi, Ruzhentsi, Ružinci
 Ruzhitsa, G'oller, Giuller, Gjulerkiöj, Gjuller, Gyuller, Kapakla Eni K'oy, Kapaklya Eni K'oy, Kapaklŭ Eni-K'oy, Rushiza
-Ryahovo, Oreachova, Orjechovo, Rahovo, Rakhova, Rechowo, Rehovo, Rekhovo, Rjahovo, Rjehovo, Ryakhovo, Ryekhovo, Rěchevo
-Ryahovtsite, Rechowzite, Rehovcite, Rekhovtsite, Ryakhovtsite, Ryekhovtsitye
+Ryahovo, Oreachova, Orjechovo, Rahovo, Rakhova, Rechowo, Rehovo, Rekhovo, Rjahovo, Rjehovo, Ryekhovo, Rěchevo, Ряхово
+Ryahovtsite, Rechowzite, Rehovcite, Rekhovtsite, Ryekhovtsitye, Ряховците
 Sabkovtsi, Sŭbkovtsi, Събковци
 Sabotino
 Sabotkovtsi, Subotkovtsŭ, Săbotkowzi, Sŭbotkovtsi, Съботковци
@@ -3718,7 +3718,7 @@ Samuil, Ashiklar
 Samuilovo, Alekseevo, Aleksievo, Aleksovo, Dimidovo, Samuilowo, Samujlowo, Sara Makhmud, Sara Smail, Saramamut, Saru-Smail, Satulovo, Tursunli, Tursunlii, Tursunliy
 San Stefano, Ismail Faku, Ismayl-Fak, Smel'fak
 Sanadinovo, Nowosselo, Osam, Osŭm, Senadinovo, Senadinowo
-Sandanski, Sveti Vrach, Sveti Vrač, Svéti-Vratch, Sweti Wratsch, Xanne Sandanski, Yane Sandanski
+Sandanski, Sveti Vrač, Svéti-Vratch, Sweti Wratsch, Xanne Sandanski, Yane Sandanski, Свети Врач
 Sandrovo, Sandrowo
 Sapareva Banya, Gorna Banja, Gorna-Bania
 Sapunare, Sabundzhilar, Сапунарите
@@ -3727,7 +3727,7 @@ Sarafovo, Antim I, Paparos, Papure, Sarefovo
 Saransko, Saranlii
 Sarantsi, Saranci, Sarantzi, Saranzi, Tashkesen
 Saraya, Kodzha K'oy, Saraja
-Sarayanska Mahala, Sarayanska Makhala
+Sarayanska Mahala, Сараянска Махала
 Sari Mahala, Sŭri Makhala, Съри Махала
 Sarkovo Mahala, Sarkovo Makhala, Саркова Махала
 Sarnegor, Karadzha At, Karadzha Okhad, Sŭrnegor, Сърнегор
@@ -3736,13 +3736,13 @@ Sarnets, Carageat, Karadscha-Ochat, Karadzha At, Srnec, Sŭrnets, Сърнец
 Sarnevets, Karadzhovren, Sernov, Srnevec, Sărnewez, Sŭrnevets, Сърневец
 Sarnevo, Kara Bunar, Karadzhalii, Karadzhaliy, Karadzhilare, Sernevo, Srnevo, Ssarnewo, Syrnevo, Sărnewo, Sŭrnevo
 Sarnino, Garzmaret, Karadshalar, Karadzhalar, Sernino, Sornino, Sŭrnino, Сърнино
-Sarnitsa, S'rnitsa, Sarnŭch, Shabanli, Sărniza, Sŭrnitsa
+Sarnitsa, Sarniza, Sarnŭch, Shabanli, Sŭrnitsa, Сърница
 Sarpovo, Saneci, Sjunetsch, Srnowo, Syunech, Sŭrpovo, Сърпово
 Sartsevo, Sărdzewo, Sŭrdtsevo, Sŭrtsevo, Yurekleri, Сърцето
 Sashevo, Odaite, Odaitye, Odolar, Pepko-Karavelovo, Petko Karavelovo
 Satovcha, Satovdža, Satovča, Satowtscha
 Sava, Savva, Sawwa
-Savevska Mahala, Savevska Makhala
+Savevska Mahala, Савевска Махала
 Savin, Dzhaferovo, Dzheferovo, Sawin
 Savino, Gyubel Kurfalii, Sawino
 Sazhdenik, Sashdenik
@@ -3768,12 +3768,12 @@ Selinska Reka
 Selishte, Selischte, Selishte Makhala, Selište, Селище
 Selishten Dol, Selischten Dol, Selishen Dol, Selishten Bol, Селищен Дол
 Selishteto, Селището
-Selo, Mahala Selo, Makhala Selo
+Selo, Mahala Selo, махала Село
 Selska Polyana, K'oy Alan, Selska Poljana
 Seltse, Caracaschioi, Kara Yash K'oy, Kara-Jasch-Kioj, Makhala Seltse, Malcoci, Malkotsch, Sel'tsŭ, Selce, Selze, Welkowo
 Seltsi, Akhaliy, Selzi, Yakhalii
 Selyanin
-Selyanka, Селянк
+Selyanka, Selyank
 Semchinovo, Semtschinowo
 Semerdzhievo, Samardzhievo, Semerdshiewo
 Semerdzhiite
@@ -3816,7 +3816,7 @@ Sheynovo, Scheinowo, Seinovo, Sheinovo
 Shiliveri, Shiliviŭrŭ
 Shilkovtsi, Schilkowzi, Shilkovtsŭ
 Shipchenite, Shibchenŭ
-Shipikova Mahala, Shipikovska, Shipikovska Makhala, Шипикова Махала, Шипкова Махала
+Shipikova Mahala, Shipikova Makhala, Shipikovska, Shipikovska Makhala, Шипкова Махала
 Shipka, Schipka, Šipka
 Shipkovitsa, Schipkowiz
 Shipkovo, Gorno Shipkovo
@@ -3828,7 +3828,7 @@ Shirilova Mahala, Mahala Selishte, Makhala Selishte, Селище, Ширило�
 Shirinata, Dolna Sushitsa, Gorna Susica
 Shiroka Laka, Schiroka Lăka, Shiroka-Leka, Široka Lika, Široka Lăka, Широка Лъка
 Shiroka Polyana, Alan Makhle, Schiroka Poljana
-Shiroki Del Mahala, Широки Дел Махала, Широки дел
+Shiroki Del Mahala, Shiroki Del Makhala, Широки дел
 Shiroki Dol, Schiroki Dol
 Shiroko Pole, Schiroko Pole, Syurmenler
 Shirokovo, Schirokowo
@@ -3860,7 +3860,7 @@ Shumen, Choumèn, Kolarovgrad, Schumen, Shumla, Šumen, Šumla
 Shumentsi, Daidir, Daidâr, Daydŭr
 Shumnatitsa, Fandŭdzhik, Fŭndadzhik, Fŭndŭdzhik, Schumnatiza
 Shushnya
-Shushurin Dol Mahala, Свърчурин дол, Шушурин Дол Махала
+Shushurin Dol Mahala, Shushurin Dol Makhala, Свърчурин дол
 Sigmen, Kad'ikioy, Kašla Kioi
 Silen, Kovat K'oy
 Silistra, Dristra
@@ -4012,7 +4012,7 @@ Sovata
 Sovolyano, Sabolino, Savoljano, Sovoljano, Sowoljano, Соволяново
 Soyka, Yumerovi
 Sozopol, Apollonia, Sizebolu, Sizopol, Sosopol, Sozopolis
-Spahievo, Siypilii, Spachiewo, Спахиево
+Spahievo, Siypilii, Spachiewo, Spakhievo
 Spanchevo
 Spanchevtsi, Spantschewzi
 Spantsite, Spantsŭtŭ, Spanzăti
@@ -4117,12 +4117,12 @@ Stoevo, Durat Eni Makhla, Stoewo
 Stoevtsi, Soevtsŭ, Stoevtsŭ, Stoewzi
 Stoil Voyvoda, Endzhe K'oy, Endzhekioy, Stoil Woiwoda, Stoil-Voivoda, Stojil Vojvoda
 Stoilkovtsi
-Stoilova Mahala, Stoilova Makhala
+Stoilova Mahala, Стоилова Махала
 Stoilovo, Stoilowo, Stoylovo
 Stoilovska Mahala, Стоиловска Махала
 Stoimertsi, Стоймерци
 Stokite, Stoki, Stokito, Stokitye
-Stolat, Gradnishki Kolibi, Stolt, Stolŭt
+Stolat, Gradnishki Kolibi, Stolŭt, Столът
 Stoletovo, Kara Sarlii, Karasŭrlie, Shermet, Shirmet, Stoletowo
 Stolnik, Orta Makhle
 Stomanetsite, Stamunets, Stomanezite
@@ -4141,10 +4141,10 @@ Stoynovskoto
 Stozha, Stosha
 Stozher, Baladsha, Baladzha, Balagea, Ballŭdzha, Stbšer
 Stradalovo, Stradalowo
-Strahil, Korkut, Strachil, Страхил
+Strahil, Korkut, Strachil, Strakhil
 Strahil Voyvoda, Makhmatcha, Strachil-Wojwoda, Страхил Войвода
 Strahilitsa, Demirdzhi, Strachiliza, Strakhilitsa
-Strahilova, Страхилова
+Strahilova, Strakhilova
 Strahilovo, Hibili, Hibilii, Khibili, Khibilii, Strachilowo, Страхилово
 Straldzha, Straldsha, Straldža
 Stramtsi, Stramtsŭ, Strŭmtsi, Стръмци
@@ -4191,13 +4191,13 @@ Suchka, Съчка
 Suevtsi, Suevtsŭ
 Sugarevo, Sugarewo
 Suha Reka, Kuru Dere, Sucha-Reka, Sukha Reka, Sukha-Ryeka, Sukhariŭka
-Suhache, Suchatsche, Sukhache, Sukhatche
+Suhache, Suchatsche, Sukhatche, Сухаче
 Suhindol, Souhyndol, Suchindol, Sukhindol
 Suhino, Suchino, Urlar, Сухино
 Suhodol, Emir K'oy, Emirchioi, Emirkioi, Kuru Dere, Suchodol, Суходол
-Suholoevtsi, Сухолоевци
+Suholoevtsi, Sukholoevtsi
 Suhovo, Suchowo, Sukhovo, Susus Burun
-Suhozem, Kuru Khimitlii, Kuru Khimitliy, Suchosem, Сухозем
+Suhozem, Kuru Khimitlii, Kuru Khimitliy, Suchosem, Sukhozem
 Sukali
 Sulitsa, Songulare, Songurlare, Ssuliza, Sulica, Sulishki Bani, Sungurlari
 Sultani, Sultanki
@@ -4215,7 +4215,7 @@ Svatbare, Dyuyundzhiler, Свадбаре
 Sveshtari, Mumdzhilar, Mumdzhular, Svešari, Svyeshtare, Svyeshtari, Sweschtari, Свещари
 Sveta Petka, Kolibi Sveta Petka, Petko
 Sveti Nikola, Nanevo, Surtiu-Kjoj, Surtuchioi, Surtyukioy, Suruchioi, Syurtyu K'oy
-Sveti Vlas, Manastŭrkioy, Monastŭrkioy, Saint Vlas, Sweti Wlas, Влас
+Sveti Vlas, Manastŭrkioy, Monastŭrkioy, St. Vlas, Sweti Wlas, Влас
 Svetla
 Svetlen, Ajazlar, Ayazlar, Aïazlar, Kabiller, Svyetlen, Swetlen
 Svetlina, Aydŭnlar, Bei Mahle, Bej Mahale, Bey-Makhle, Gospodarevo, Gospodarewo, Razvalini Edenlare, Shevkulare, Shifkulari, Svyetlina, Swetlina
@@ -4255,7 +4255,7 @@ Tamarino, Tyurkmeni
 Tanka Bara, Tŭnka Bara, Тънка Бара
 Tanki Rat, Tankirat, Tŭnki Rŭt, Тънки Рът
 Tankoto, Kayryakŭt, Tŭnkoto, Тънкото
-Tankovo, Indzhe K'oy, Indzhe-K'oi, Indzhe-Kioi, Indzhekioy, Tankowo, Tŭnkovo, Тънково
+Tankovo, Indzhe K'oy, Indzhe-K'oi, Indzhe-Kioi, Indzhekioy, Tănkowo, Tŭnkovo, Тънково
 Tapchileshtovo, Bazirgyan K'oy, Bazirgyankioy, Tăptschileschtowo, Tŭpchileshtovo, Тъпчилещово
 Taran, Tirin, Tŭrŭn, Търън
 Targovishte, Eski Djoumaïa, Eski Dschumaja, Eski Dzhumaya, Eski Dzumaya, Eski Džuma, Eski Džumaja, Trgovishte, Trgovište, Tărgowischte, Tŭrgovishte, Tŭrgovište, Търговище
@@ -4263,8 +4263,8 @@ Targoviste
 Tarhovo, Duandzhi, Dukhandzhii, Terkhovo, Tărchowo, Tŭrkhovo, Търхово
 Tarkan, Kofaldcialar, Kufalchalar
 Tarkasheni, Terkashenŭ, Tărkasche, Tŭrkasheni, Търхашени
-Tarnak, Ternak, Trnak, Tŭrnak
-Tarnava, Trnava, Turnova, Tărnawa, Tŭrnava
+Tarnak, Ternak, Tŭrnak, Търнак
+Tarnava, Turnova, Tărnawa, Tŭrnava, Търнава
 Tarnene, Tŭrnene, Търнене
 Tarnicheni, Ternicheni, Ternitscheni, Tŭrnichene, Tŭrnicheni, Търничени
 Tarnoslivka, Meklezeler, Tyurk Eredzhek, Tŭrnoslivka, Търносливка
@@ -4272,7 +4272,7 @@ Tarnovlag, Tarnovlak, Tărnowlak, Tŭrnovlag, Tŭrnovlak, Търновлаг, Т
 Tarnovtsa, Tărnowza, Tŭrnavtsa, Tŭrnovtsa, Търновца
 Tarnovtsi, Kangŭlar, Sarighiol, Sarăgiol, Sarŭ G'ol, Tŭrnovtsi, Търновци
 Tarnyane, Tărnjane, Tŭrnyane, Търняне
-Tarnyarska Mahala, Tarniarska Mahala, Turnyarska Mahala, Turnyarska Makhala, Търнярска Махала
+Tarnyarska Mahala, Tarniarska Mahala, Turnyarska Mahala, Турнярска махала, Търнярска Махала
 Tarsino, Tŭrsino, Търсино
 Tasevtsi
 Tatarevo, Tatar K'oy Lŭdzha, Tatarewo
@@ -4305,8 +4305,8 @@ Teteven, Tetevene, Tetewene
 Tetovo, Tetevo, Tetewo
 Tevnidolska Mahala, Tevnidolska Makhala
 Ticha, Chitak, Chitaki, Tiche, Titscha
-Tihomirovo, Tichomirowo, Tikhomirovo, Yapcha
-Tihovets, Menet K'oy, Menetkioy, Тиховец
+Tihomirovo, Tichomirowo, Yapcha, Тихомирово
+Tihovets, Menet K'oy, Menetkioy, Tikhovets
 Tikale, Tikali
 Tikvesh
 Timarevo, Kayadzhik Timar, Timarovo, Timarowo
@@ -4335,7 +4335,7 @@ Tonsko Dabe
 Topchii, Topchikioi, Toptschii, Topči
 Topchiysko, Topchu Magale, Topchu Mahala, Topchu Makhle, Topchu-Makhala, Toptschiisko
 Topilishta, Топлища
-Toplitsa Mahala, Топлица Махала
+Toplitsa Mahala, Toplitsa Makhala
 Topola, Suiciucul Turcesc, Suiuciucul-Turesc, Tatar Sujutschuk, Tatar Suyutchuk, Turk Suyutchuk, Turski Suyutchuk
 Topolchane, Kavaklŭ Byuk, Kavlaklii, Kavlakliy, Topoltschane
 Topoli, Indzhe K'oy, Topolite
@@ -4362,7 +4362,7 @@ Trakata
 Trakia, Trakija, Usun Khasan, Uzun Khasan, Тракия
 Trakiets, Elekhcha, Tirakiets, Tirakiez
 Trakiytsi, Leskowo
-Trambashievi Kolibi, Trumbashiev Kolibi, Trŭmbashievi Kolibi, Тръмбашиеви колиби
+Trambashievi Kolibi, Trumbashiev Kolibi, Trŭmbashievi Kolibi, Тръмбашиеви Колиби
 Tran, Gradska Obshtina Trŭn, Obshtina Tran, Obshtina Trŭn, Tren, Trin, Trn, Trŭn, Община Трън
 Tranak, Tekenlik, Tikenlik, Trŭnak, трънак
 Tranarka, Trŭnarka, Трънарка
@@ -4409,8 +4409,8 @@ Tsakonitsa, Zakoniza
 Tsalapitsa, Calapica, Tsalalitsa, Tsalanitsa, Zalapiza
 Tsani-Ginchevo, Kyuchuk Akhmed, Kyuchuk Akhmet, Zani Gintschewo
 Tsaparevo, Zaparewo
-Tsar Asen, Cav Asenowo, Karaplie, Karaplii, Khalvadzhi Endzhe K'oy, Khalvadzhi-Enidzhe, Tar Asen, Tsar Asenovo, Zar-Assen
-Tsar Kaloyan, Car Kalojan, Eni K'oy, Enikioy, Khlebarovo, Torlak, Torlaki, Tsar Kaloyanovo, Turlak, Tzar Kaloyan, Zar-Kalojan, Цар Калочн
+Tsar Asen, Cav Asenowo, Karaplie, Karaplii, Khalvadzhi Endzhe K'oy, Khalvadzhi-Enidzhe, Tar Asen, Tsar Asenovo, Zar Assen
+Tsar Kaloyan, Car Kalojan, Eni K'oy, Enikioy, Khlebarovo, Torlak, Torlaki, Tsar Kaloyanovo, Turlak, Tzar Kaloyan, Zar Kalojan, Цар Калочн
 Tsar Petrovo, Dolen Turchin, Golyam Turchin, Turchin, Zar Petrowo
 Tsar Samuil, Kjutjuklii, Kyutyukli, Kyutyuklii, Zar Samuil, Цар Смуил
 Tsar Shishmanovo, Gorni Turchin, Malŭk Turchin, Zar Schichmanowo
@@ -4444,7 +4444,7 @@ Tseperanite, Dolni Tsŭperanŭ, Цепенарите
 Tseretelevo, Dumalie, Dumanli, Dumanlie, Dumanlii, Dumanlü, Tseretelovo, Tsertelovo, Zeretelewo
 Tseretsel, Zerezel
 Tserkovski, Biokiordira, Byukyurdzhalii, Byukyurdzheliy, Gara Tserkovski, Neitschowo, Neychevo, Neychovo, Tsanko Tserkovski, Virovo
-Tserova Koria, Cerova Korija, Tserova Koriya, Tserova Kuriya, Tserovo-Koriya, Tsyerova-Koriya, Zerowa-Kurija
+Tserova Koria, Cerova Korija, Tserova Koriya, Tserovo-Koriya, Tsyerova-Koriya, Zerowa-Kurija, Церова Курия
 Tserovets, Tsyerovets, Zerowez
 Tserovishte, Sarsanli, Sarsŭplii, Zerowischte, Церовище
 Tserovitsa, Zerowiza
@@ -4471,7 +4471,7 @@ Tulovo, Toulovo, Tulowo, Tuluts
 Tumbalovo, Tumbolovo, Tumbolowo
 Tumbevtsi
 Tupartsi
-Turia, Turija, Turiya
+Turia, Turija, Турия
 Turkincha, Turkintscha
 Turokovtsi, Turjakowzi, Turyakovtsi
 Turyan, Turjan
@@ -4487,23 +4487,23 @@ Tyutyunche, Arslan Khodzha, Tjutjuntsche
 Uchilishtna, Училищна
 Uchipole
 Uchuruma
-Ugarchin, Ugarčin, Ugirkin, Ugrchin, Ugrčin, Ugürčin, Ugărtschin, Ugŭrchin
+Ugarchin, Ugarčin, Ugirkin, Ugrčin, Ugürčin, Ugărtschin, Ugŭrchin, Угърчин
 Ugledno, Kadarspakioi, Kadŭ Spakhlar, Kadŭr Spakh
 Uglyartsi, Ugljakji
 Ugorelets, Ogoryel'tsŭ
 Ugoryalkovtsi
-Uhlovitsa, Uchlowiza, Ухловица
+Uhlovitsa, Uchlowiza, Ukhlovitsa
 Ukari Kyoy, Укари Кьой
 Umarevtsi, Umarewzi
 Urovene, Urowene
-Uruchovtsi, Uruchevtsi, Urutschowzi
+Uruchovtsi, Urutschowzi, Уручевци
 Urulachka Mahala, Urulachka Makhala
 Urumtsi
 Urvata, Urvat
 Ushi, Uschi
 Ushintsi, Kaba Kulak, Uschinzi
 Ushite
-Ushovtsi, Ушевци
+Ushovtsi, Ushevtsi
 Usoyka, Gŭoklemez, Ussoika
 Ustina
 Ustrem, Oustrem, Vakuf, Vakăv, Vakŭv
@@ -4557,7 +4557,7 @@ Varbitsa, Filevo, Filovo, Kayalii, Kayaliy, Verbica, Verbitsa, Virbica, Vlashits
 Varbnitsa, Vrŭbnitsa, Vŭrbnitsa, Wărbniza, Върбница
 Varbovchets, Vŭrbovchets, Vŭrnovchets, Wărbowtschez, Върбовчец
 Varbovka, Verbovka, Vrbovka, Vŭrbovka, Wărbowka
-Varbovo, Sorgunlii, Vŭrbovo, Wărbowo, Върбово
+Varbovo, Sorgunlii, Vŭrbovo, Warbowo, Върбово
 Varbyane, Syuyutlyu, Vŭrbyane, Wărbjane, Върбяне
 Vardim, Vardin, Wardim
 Vardun, Vardum, Verdum, Vŭrdun, Wardun, Вардън
@@ -4572,7 +4572,7 @@ Varlishte, Kara Yukush, Vŭrlishte, Върлище
 Varna, Odessos, Odessus, Okrŭg Stalin, Stalin, Stalinski Okrŭg, Varnenska Oblast, Varnenski Okrŭg, Warna, Област Варна
 Varnentsi, Denisler, Denizler
 Varnik, Kirechlik, Warnik
-Varoshka Mahala, Varoshka Makhala
+Varoshka Mahala, Варошка Махала
 Varovnik, Ala Gen, Alagyun-Tursko, Bogdanzi, Tursko Alagyun
 Varshets, Varshetz, Vershets, Vrešec, Vrshets, Vršec, Vuršec, Vŭrshets, Wărschez
 Varshilo, Charman, Harman, K'yu Kharman, Kharman, Kur Kherman, Kŭr Kharman, Vyrshilo, Vŭrshilo, Вършило
@@ -4593,7 +4593,7 @@ Vedrare, Kufalare, Wedrare
 Vedrina, Cadievo, Ferdinandovo, Ferdinandowo
 Vedrovo, Enimakhle, Kazalăk-Eni-Makhale, Kazalŭk, Kazalŭk Eni Makhle, Saitschari
 Vehtino, Eskiler, Wechtino, Вехтино
-Vehtovo, Eski K'oy, Vekhto, Wechto, Вехтово
+Vehtovo, Eski K'oy, Vekhto, Vekhtovo, Wechto
 Vekilski, Pechelii, Pečeli, Wekilski
 Velchevo, Debnevski Kolibi, Fida Bey, Mariino, Mariyno, Weltschewo
 Velchovtsi, Vel'chevtsŭ, Velchevtsi
@@ -4615,10 +4615,10 @@ Velingrad
 Velino, Doktor Stambolsk, Doktor Stambolski, Imrihor, Imrikhod, Imrikhor, Mirahur
 Velinovo, Belinovo, Mislovckitsa, Mislovshtitsa, Misskowschtiza
 Velislav, Feklach, Feklatsch, Vekil'agach
-Velkova Mahala, Velkova Makhala
+Velkova Mahala, Велкова махала
 Velkovo, Tsareto
 Velkovtsi, Velkyuvtsi, Vilkovtsŭ, Welkowzi, Wălkowzi
-Velyovo, Koruvelikioy, Kuru Veli K'oy, Weliowo, Вельово
+Velyovo, Koruvelikioy, Kuru Veli K'oy, Vel'ovo, Weliowo
 Velyushtets, Weljuschez, Велющец
 Velyuvtsi
 Venchan, Vyenchan, Wentschan
@@ -4635,7 +4635,7 @@ Veselie, Sari Musa, Sară-Musa, Veselija, Veseliya, Veseliye, Wesselije
 Veselina, Karag'oz, Makhala Ravna, Makhala Veselina, Wesselina
 Veselinovo, Azal K'oy, Azapkioy, Bairam-Dere, Bayram Dere, Bayryam-Dere, Beselinovo, Bigramdere, Vaselinovo, Veselihevo, Veselinevo, Vesselinovo, Wesselinowo
 Veselintsi
-Veshova Mahala, Вечова махала, Вешова Махала
+Veshova Mahala, Veshova Makhala, Вечова махала
 Veshtitsa, Weschtiza, Вещица
 Veslets, Farfalar, Weslez
 Vetovo, Vetova, Vjetevo, Vyetovo, Wetowo
@@ -4660,7 +4660,7 @@ Vidrare, Widrare
 Vidritsa, Widriza
 Vievo, Karshila, Karshilŭ, Vnevo, Wiewo
 Vihren, Leski, Вихрен
-Vihrushka, Vikhrushka
+Vihrushka, Вихрушка
 Vilare
 Vinarovo, Chunguruz, Kurt Bunar, Tschungurus, Winarowo
 Vinarsko, Buyuklii, Buyukliy, Winarsko
@@ -4700,8 +4700,8 @@ Vladislav, Wladislaw, Yurukleri
 Vladislavtsi, Wladislawzi
 Vlado Trichkov
 Vlahi, Wlachi, Влахи
-Vlahovo, Wlachowa-Machala, Влахово
-Vlahovtsi, Vlakhovtsi
+Vlahovo, Vlakhovo, Wlachowa-Machala
+Vlahovtsi, Влаховци
 Vlasatili
 Vlasatitsa, Wlassatiza
 Vlaychovtsi, Vlaychovtsŭ, Wlaitschowzi
@@ -4777,7 +4777,7 @@ Vukovo, Wukowo, Вълково
 Yabalcheni, Almalŭk, Jabăltscheni, Yabŭlcheni, Ябълчени
 Yabalchevo, Alma-Dere, Jabăltschewo, Yabŭlchevo, Ябълчево
 Yabalkovets, Elmalŭ Kebir, Yabŭlkovets, Ябълковец
-Yabalkovo, Almalii, Alnali, Iabalkovo, Jabalkowo, Jablkovo, Javulkovo, Yabelkovo, Yablkovo, Yabŭlkovo, Yasilikova Istasyon
+Yabalkovo, Almalii, Alnali, Iabalkovo, Jabalkowo, Jablkovo, Javulkovo, Yabelkovo, Yabŭlkovo, Yasilikova Istasyon, Ябълково
 Yabalkovtsi, Svinarite, Yabŭlkovtsi, Ябълковци
 Yablanitsa, Iablanica, Jablanica, Jablaniza, Jablenica, Jablonica, Yablenitsa
 Yablanovo, Alvanlar, Jablanowo
@@ -4785,7 +4785,7 @@ Yagnevo, Chussular, Kŭzalar
 Yagnilo, Elekioy, Jagnilo, Yayla
 Yagoda, Chanakchii, Gorni-Panicharevo, Gorno Chanakchiy, Gorno Panicherevo, Gorno Panicherovo, Gorno Panitscherowo
 Yagodina, Balaban, Jagodina
-Yagodnichka Mahala, Yagodnichka Makhala, Ягодинска махала
+Yagodnichka Mahala, Ягодинска махала, Ягодничка Махала
 Yagodovo, Bogoridovo, Jantschew Tshiflik, Katunski-Konare, Katunsko Konare, Yagodinovo, Yanchev Chiflik
 Yahinovo, Jachinowo, Yakhinovo, Якиново
 Yaka Badzha Kyoy, Яка-Баджа-Кьой
@@ -4809,7 +4809,7 @@ Yankovo, Jankovo, Jankowo
 Yankovtsi, Jankowzi, Yankovtsŭ
 Yanovo, Janowo
 Yantra, Adamovo, Adŭmovo, Ferdinandovo, Ferdinandowo, Jantra, Murgazli, Murgazlii
-Yanyovets, Janjowez, Яньовец
+Yanyovets, Janjowez, Яновец
 Yardzhilovtsi, Jardshilowzi, Yarzhilovtsi
 Yarebichna, Jarebitschna, Malka Franga
 Yarebichno, Cheli K'oy, Chelikioy, Jarebitschna
@@ -4866,7 +4866,7 @@ Yuper, Iuper, Juper, Yuner
 Yurukovi Kolibi
 Yurukovo, Jurukowa-Makhala
 Yurutsite
-Zabardo, Chukur-K'oy, Sabărdo, Zabŭrdo, Забърдо
+Zabardo, Chukur-K'oy, Sabărdo, Zabrdo, Zabŭrdo
 Zabel, Sabol, Zabyel
 Zabernovo, Sabernowo, Zaberno
 Zadruga, Kishlakioy, Kŭshla K'oy, Sadruga
@@ -4878,7 +4878,7 @@ Zagoriche, Choban Nasuf, Sagoritshe, Zagoricho
 Zagorski, Kŭrdzhalar, Sagorski
 Zagorsko, Sagorsko, Sulumlu
 Zagortsi, Cocargea, Harman Kiri, Kir Harman, Kokardzha, Saban Kiri, Sagorzi, Shaban-Kŭră, Torlak Makhle, Zagorci, Zagorets, Zagortsy
-Zagrazhden, Dolasdir, Dolashtŭr, Kurna Mogila, Magura, Mŭgura, Sagrashden
+Zagrazhden, Dolasdir, Dolashtŭr, Kurna Mogila, Măgura, Mŭgura, Sagrashden
 Zahari Stoyanovo, Brazda, Dzhaferfaka, Geferfaki, Захари Стояново
 Zahari-Stoyanovo, Omur Bey, Sachari-Stojanowo, Zakhari-Stoyanovo
 Zaimchevo, Ichme, Ichmey Ziamet, Ichmey-Ziyamet, Saimtschewo
@@ -4923,7 +4923,7 @@ Zeleno Darvo, Seleno Drewo, Zeleno Drevo, Zeleno Dŭrvo, Зелено Дърво
 Zemen, Bjelovo, Byelovo, Semen
 Zementsi, Erdshi Zemenci, Erdzhii, Ergi
 Zemlen, Semlen, Toprak Khisar
-Zetyovo, Enishte, Inishte, Madzharlar, Setiowo, Zet'ovo, Zetaovo, Zetievo, Zetjovo
+Zetyovo, Enishte, Inishte, Madzharlar, Setiowo, Zetaovo, Zetievo, Zetjovo, Зетьово
 Zeyka
 Zgalevo, Sgaliowez, Zagalyuvits, Zgal'ovets
 Zgorigrad, Sgori-Grad
@@ -5034,7 +5034,7 @@ Zoychene, Soitschene, Зоичене
 Zvanarka, Swănarka, Yunuz, Zvŭarka, Zvŭnarka, Звънарка
 Zvanche, Imamlar, Zvŭnche, Звънче
 Zvanets, Chanlar, Swănez, Zvŭnets, Звънец
-Zvanichevo, Cangurli, Changarlii, Changarliy, Changŭrlii, Swănitschewo, Zvnichevo, Zvŭnichevo, Čangorlie
+Zvanichevo, Cangurli, Changarlii, Changarliy, Changŭrlii, Swănitschewo, Zvŭnichevo, Čangorlie, Звъничево
 Zvanika, Akhmatlar, Zvŭnika, Звъника
 Zvegor, K'oseler, Keseler, Swegor
 Zvenimir, Avdular, Avdullar, Zvenimn, Zwenimir
