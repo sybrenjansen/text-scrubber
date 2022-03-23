@@ -4,7 +4,7 @@ from typing import Callable, List, Optional, Set, Tuple
 import numpy as np
 
 from text_scrubber.geo.geo import (clean_city, clean_country, clean_state,
-                                   normalize_city, normalize_country, normalize_state)
+                                   normalize_city, normalize_country, normalize_state, _CITY_RESOURCES)
 
 # Tuple containing start and end idx
 Range = Tuple[int, int]
@@ -98,7 +98,8 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
                                      normalized=normalized_match, score=score))
 
     # Do the above again, but now without blacklist and only one token
-    if not matches:
+    # the second condition is for speeding up. Since if the blacklist is empty, it doesn't make sense to check the rest
+    if not matches and bool(len(blacklist)):
         n_tokens = 1
         for start_idx in range(0, len(tokens) + 1 - n_tokens):
             combination = ' '.join(tokens[start_idx:start_idx + n_tokens]).rstrip(' .,-()')
@@ -184,8 +185,9 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no countries could
     # be found. In that case we do allow to find those strings, if they're uppercase.
-    blacklist = {'at', 'de', 'in', 'u'}
-    whitelist_last_resort = {'AT', 'DE', 'IN'}
+    code_lower = {cl.lower() for cl in _CITY_RESOURCES['all_country_codes']}
+    blacklist = {'at', 'de', 'in', 'u'}.union(_CITY_RESOURCES['all_country_codes']).union(code_lower)
+    whitelist_last_resort = {'AT', 'DE', 'IN'}.union(_CITY_RESOURCES['all_country_codes']).union(code_lower)
 
     return _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort, match_threshold,
                            match_threshold_small, threshold_small, max_tokens_to_consider)
