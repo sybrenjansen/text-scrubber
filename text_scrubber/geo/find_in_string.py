@@ -3,8 +3,8 @@ from typing import Callable, List, Optional, Set, Tuple
 
 import numpy as np
 
-from text_scrubber.geo.geo import (clean_city, clean_country, clean_state,
-                                   normalize_city, normalize_country, normalize_state)
+from text_scrubber.geo.geo import (clean_city, clean_country, clean_region,
+                                   normalize_city, normalize_country, normalize_region)
 
 # Tuple containing start and end idx
 Range = Tuple[int, int]
@@ -31,9 +31,9 @@ def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bo
 
 
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
-                        whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                        threshold_small: int = 4, max_tokens_to_consider: int = 4,
-                        restrict_countries: Optional[set] = None) -> List[Match]:
+                    whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
+                    threshold_small: int = 4, max_tokens_to_consider: int = 4,
+                    restrict_countries: Optional[set] = None) -> List[Match]:
     """
     Extracts countries from a sample.
 
@@ -191,14 +191,16 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
                            match_threshold_small, threshold_small, max_tokens_to_consider)
 
 
-def find_city_in_string(sample: str, country_set: Optional[set],match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                        threshold_small: int = 4, max_tokens_to_consider: int = 6) -> List[Match]:
+def find_city_in_string(sample: str, country_set: Optional[set], match_threshold: float = 0.84,
+                        match_threshold_small: float = 0.90, threshold_small: int = 4,
+                        max_tokens_to_consider: int = 6) -> List[Match]:
     """
     Extracts cities from a sample text.
 
     Thresholds were derived empirically based on one of our usecases. Change them when needed.
 
     :param sample: text sample
+    :param country_set: TODO
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
@@ -216,10 +218,10 @@ def find_city_in_string(sample: str, country_set: Optional[set],match_threshold:
                            match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
 
 
-def find_state_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                         threshold_small: int = 4, max_tokens_to_consider: int = 6) -> List[Match]:
+def find_region_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
+                          threshold_small: int = 4, max_tokens_to_consider: int = 6) -> List[Match]:
     """
-    Extracts states from a sample text.
+    Extracts regions from a sample text.
 
     Thresholds were derived empirically based on one of our usecases. Change them when needed.
 
@@ -232,10 +234,10 @@ def find_state_in_string(sample: str, match_threshold: float = 0.84, match_thres
         countries
     :return: list of possible matches
     """
-    # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no states could be
+    # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no regions could be
     # found. In that case we do allow to find those strings.
     blacklist = set()
     whitelist_last_resort = set()
 
-    return _find_in_string(sample, clean_state, normalize_state, blacklist, whitelist_last_resort, match_threshold,
+    return _find_in_string(sample, clean_region, normalize_region, blacklist, whitelist_last_resort, match_threshold,
                            match_threshold_small, threshold_small, max_tokens_to_consider)
