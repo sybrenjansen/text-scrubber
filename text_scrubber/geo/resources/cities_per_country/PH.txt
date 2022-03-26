@@ -552,7 +552,6 @@ Alang Alang
 Alang-Alang
 Alang-dang
 Alangalang
-Alangan
 Alangasil, Alangasel
 Alanggilan
 Alangigan
@@ -588,6 +587,7 @@ Alayan
 Alayao
 Alayo
 Alayonan, Alayunan
+Alañgan
 Alba
 Albalate
 Albian
@@ -664,8 +664,8 @@ Aliliw
 Alim
 Alima
 Alimanao
-Alimango
 Alimawan
+Alimañgo
 Alimit
 Alimoan, Aliman
 Alimodian
@@ -1187,7 +1187,6 @@ Anneng
 Anninipan, Aninipan
 Ano
 Anoatusia
-Anog
 Anogal
 Anolid
 Anoling
@@ -1624,7 +1623,6 @@ Ayud
 Ayudante
 Ayugan, Ayogan
 Ayung
-Ayungon, Ayugon
 Ayuquitan, Amblan, Amlan
 Ayuquitan Viejo
 Ayusan Dos, Ayusan II
@@ -1633,12 +1631,14 @@ Ayusan Sur
 Ayusan Uno
 Ayutay
 Ayuyan
+Ayuñgon, Ayugon
 Azagra, Azarga
 Azarcon
 Azpitia, Azpetia
 Azucena
 Azupre
 Añato
+Añog
 B. Pulido
 B. Tirona
 BMA Balagtas
@@ -1844,8 +1844,8 @@ Badiagan
 Badian
 Badiang, Bagianga, Baguianga
 Badiang daco
-Badiangan, Badiaugan
 Badiangon
+Badiañgan, Badiaugan
 Badibadi
 Badigan
 Bading
@@ -2149,10 +2149,10 @@ Baje
 Baje San Julian
 Baje San Nicolas
 Bajit
-Bajo
 Bajucan
 Bajungpandan
 Bajuyan, Bahuyan, Bajoian, Bajojan
+Bajó
 Baka
 Bakag
 Bakal Dos
@@ -2501,7 +2501,6 @@ Baling Cupang
 Balingaeng
 Balingaoan, Bolingaoan
 Balingasad
-Balingasag
 Balingasao
 Balingasay
 Balingayen
@@ -2562,6 +2561,7 @@ Baliwan, Calimawayog
 Baliwanan, Baliuanan
 Baliwang
 Baliwasan
+Baliñgasag
 Balla
 Ballabag
 Ballacayu, Ballacayo
@@ -2723,11 +2723,9 @@ Banaba Cerca, Banaba Sur, South Banaba
 Banaba Lejos, Banaba Norte, North Banaba
 Banabahin Ilaya
 Banaban
-Banacao
 Banacboc
 Banacon
 Banadang
-Banadero
 Banag
 Banaga
 Banago
@@ -2824,14 +2822,12 @@ Banet
 Bang Kilay, Bangkalsay, Bangkĕllay, Bankilay
 Bang-aladan
 Bang-hao
-Banga
 Banga Dos
 Banga Luis
 Banga Primero, Banga Uno
 Banga-an
 Bangaan, Bagaan
 Bangabanga
-Bangac
 Bangad
 Bangag
 Bangahan
@@ -2902,7 +2898,6 @@ Bangngang
 Bango
 Bangoal
 Bangoc
-Bangon, Bagnon
 Bangon de Cacorotan
 Bangona
 Bangonan, Babagonon
@@ -2988,7 +2983,6 @@ Banobog
 Banocagon
 Banocal
 Banocboc
-Banog
 Banog Norte, Banag Norte
 Banog Sur
 Banogbanog
@@ -3411,7 +3405,6 @@ Batang First, Batang 1st, Batang-macuyad, Batong Macuyat
 Batang Labang
 Batang Second, Batang 2nd, Batang-macaba, Batong Macaba
 Batang-baglas
-Batangan
 Batangas, Batangas City
 Batangas II
 Batangcaoa, Batancaoa
@@ -3432,6 +3425,7 @@ Batasan Matanda
 Batasan-B
 Batasang
 Batayan
+Batañgan
 Batbat
 Batbatan, Bathatan
 Batbato
@@ -3678,9 +3672,15 @@ Bayuyuñgan, Bayuyuñgar
 Bayyating
 Bazal
 Bazar
+Bañacao
+Bañadero
 Bañaran
+Bañga
+Bañgac
 Bañgilo
+Bañgon, Bagnon
 Baño
+Bañog
 Bebe Anac
 Bebe Matua
 Bebeladan, Bebeledan, Bebeledon
@@ -4512,7 +4512,6 @@ Bone South, Bone
 Bonfal, Bonfal Proper
 Bong, Utbong
 Bong-aw
-Bonga
 Bonga Bonga
 Bonga Mayor
 Bonga Menor, Bunga Menor
@@ -4636,10 +4635,10 @@ Borong
 Borongan
 Borongborogñan
 Borongo
-Borongon, Borangon
 Borono
 Boroon, Buru-un
 Boroy
+Boroñgon, Borangon
 Boruya
 Bosawan
 Bosdak
@@ -4697,6 +4696,7 @@ Boyong
 Boyongan
 Boyoyo
 Boyungan
+Boñga
 Boñgalon
 Boñgol San Miguel
 Bral, Bral Sinipak
@@ -4930,7 +4930,6 @@ Bugnag
 Bugnan
 Bugnay
 Bugno
-Bugo
 Bugongon
 Bugot
 Bugsayon, Bugsayan
@@ -4956,9 +4955,9 @@ Buguion
 Buguis
 Buguitis
 Bugumburan
+Bugó
 Buhagnanapan
 Buhang
-Buhangin, Buhanguin
 Buhangin Mahaba
 Buhanginan
 Buhanging-Mahaba
@@ -4971,6 +4970,7 @@ Buhay
 Buhay Na Sapa
 Buhay Na Tubig
 Buhaybuhay
+Buhañgin, Buhanguin
 Buhesapa
 Buhi
 Buhian
@@ -5145,10 +5145,10 @@ Buluan, Inged a Buluan, Ingud nu Buluan
 Buluang
 Buluang Consolacion
 Buluanga
-Buluangan
 Buluangan First, Buluangan One, Buluangan Primero, Bulungan I
 Buluangan Second, Buluangan Segundo, Buluangan Two, Buluangun II
 Buluarte
+Buluañgan
 Bulud
 Buludan, Bolodan
 Bulukaon
@@ -5196,12 +5196,11 @@ Buneg
 Bunelon
 Bunes
 Bung-ao
-Bunga
 Bunga-Bunga
 Bunga-Ilaya
 Bunga-Mar
 Bungabon, Bungabun
-Bungabungan, Bogabungan, Bugabuñgan
+Bungabuñgan, Bogabungan, Bugabuñgan
 Bungad, Bughad, Bugnad
 Bungah
 Bungahan
@@ -5463,6 +5462,7 @@ Buyun
 Buyya
 Buyyo
 Buñao
+Buñga
 Buñgalog
 Ca-anajawan
 Caabanayacao
@@ -5508,12 +5508,12 @@ Cabacnitan
 Cabacnotanan
 Cabacongan
 Cabacongon
-Cabacungan, Cabucoan
+Cabacuñgan, Cabucoan
 Cabad
 Cabadbaran
 Cabadian
-Cabadiangan, Cabatyanan, Cabidiangan, Kabadyangan
 Cabadiangan Hacienda
+Cabadiañgan, Cabatyanan, Cabidiangan, Kabadyangan
 Cabadog
 Cabadogan
 Cabadsan, Kabadsan
@@ -5871,8 +5871,6 @@ Cabulusan
 Cabunacan, Tabunacan
 Cabundoc
 Cabung-cabung
-Cabunga
-Cabunga-an
 Cabungaan
 Cabungahan, Cabimgahan, Gabungahan
 Cabungalan
@@ -5905,6 +5903,8 @@ Cabuyen, Cabuyeo
 Cabuyew
 Cabuyo
 Cabuyon
+Cabuñga
+Cabuñga-an
 Cacabaon Creek
 Cacabugaoan, Cacabogaoan
 Cacadangan
@@ -6327,7 +6327,6 @@ Calampuan
 Calamundingan
 Calan
 Calanaga
-Calanan, Addang
 Calanasan
 Calanca
 Calancaan
@@ -6338,7 +6337,6 @@ Calancuasan Sur
 Calandagan
 Calang
 Calanga
-Calangag
 Calangahan, Calangajan
 Calangain
 Calangay
@@ -6443,6 +6441,8 @@ Calayucay
 Calayugan
 Calayugan Norte
 Calayugan Sur
+Calañan, Addang
+Calañgag
 Calbani
 Calbaryo
 Calbasag, Kalvasag
@@ -6528,7 +6528,6 @@ Calindogon
 Caling
 Calinga-an
 Calingatan, Kalingatan
-Calingatngan
 Calingayan
 Calingcaguing, Calincaguing
 Calingcuan
@@ -6569,6 +6568,7 @@ Caliwaing
 Caliwaquiro
 Calizo
 Calizon, Calison
+Caliñgatñgan
 Callagan
 Callaguip, Callagulp
 Callan
@@ -7324,7 +7324,6 @@ Caniguing
 Canihug
 Canilayan, Kansilayan
 Canili
-Caningag
 Caningay
 Caninguan
 Caniogan, Caniogan Dacquel, Caniugan, Canogan Daquel, Kaniugan
@@ -7345,6 +7344,7 @@ Canitud
 Canitum, Cantium
 Caniwaan
 Caniwan
+Caniñgag
 Canjalon
 Canjaoas
 Canjulao, Kanhulao
@@ -8027,8 +8027,8 @@ Caspot
 Cassanayan, Casanayan
 Cassap
 Cassap Fuera
-Castano
 Castañas
+Castaño
 Castaños
 Castellano
 Castilla
@@ -8287,13 +8287,13 @@ Cayamcam, Gayamcan
 Cayan
 Cayancan, Cayangcanan
 Cayang
-Cayanga
 Cayangag
 Cayangian
 Cayanguan, Cayangwan
 Cayapa
 Cayasan
 Cayawan
+Cayañga
 Caybago, Cayabgo
 Caybangat
 Caybunga
@@ -9028,7 +9028,7 @@ Dagumbaan
 Dagundalahon
 Dagup, Dagap
 Dagupan, Dagupan City
-Dagurungan, Daguruñgan Subpañgan
+Daguruñgan, Daguruñgan Subpañgan
 Dahagan
 Dahat
 Dahay
@@ -10119,9 +10119,9 @@ Dulag
 Dulagñan, Dolagnan
 Dulahug
 Dulanga
-Dulangan, Dulangun
 Dulao
 Dulapuan
+Dulañgan, Dulangun
 Dulcat
 Duldul, Dolool
 Duldulao
@@ -10405,11 +10405,11 @@ Escurdido
 Esepcion
 Esmerada
 Esmeralda
-Espana, Espiña
 Esparagosa
 Esparagoza
 Esparar
 Espasto, Espaeto
+España, Espiña
 Esperanza, Esperanzo
 Esperanza East, Esperanza Este
 Esperanza Ibaba
@@ -10601,11 +10601,11 @@ Gadgaran
 Gadgaron
 Gadon
 Gadong
-Gadongan
+Gadoñgan
 Gadu
 Gadugan
 Gadung
-Gadungan, Cadungan, Gadungon
+Gaduñgan, Cadungan, Gadungon
 Gaed, Gaid
 Gaftug
 Gagaban
@@ -10870,9 +10870,9 @@ Giagsam
 Giawang, Guio-ang
 Gibabaogan
 Gibalon
-Gibanga
 Gibarogwan
 Gibato
+Gibañga
 Gibgos, Hibgos
 Gibioc
 Gibolo, Jibolo
@@ -11466,7 +11466,7 @@ Habana
 Habang-Sapa
 Habay
 Habian
-Habingan
+Habiñgan
 Hablang
 Habuaya
 Habuhab
@@ -11575,12 +11575,12 @@ Hacienda Eulalia
 Hacienda Eva
 Hacienda Ezperanza
 Hacienda Faraon
-Hacienda Fe
 Hacienda Felicidad
 Hacienda Fermina
 Hacienda Ferrer Hermanos
 Hacienda Filomena
 Hacienda Florencia
+Hacienda Fé
 Hacienda Gatuslao
 Hacienda Gregoria
 Hacienda Gudigudi
@@ -12519,7 +12519,6 @@ Ingag
 Ingalagala
 Ingan
 Ingas
-Ingay
 Ingeron
 Inghoy
 Ingin
@@ -12691,6 +12690,7 @@ Iyam
 Iyasagan
 Iyasan
 Izumbo
+Iñgay
 J. Lumbreras
 Jabian
 Jabong
@@ -12786,7 +12786,7 @@ Javier
 Jawa
 Jawili
 Jaybanga, Haybanga, Hebango
-Jayubo, Jayobo
+Jayubó, Jayobo
 Jayugan
 Jazimines, Jasminez
 Jazmines
@@ -13057,9 +13057,9 @@ Kahuy Sina'
 Kaidiocan
 Kaimba
 Kain
-Kaingin
 Kaipitan
 Kaislay
+Kaiñgin
 Kajatian
 Kaka
 Kakal
@@ -13109,7 +13109,6 @@ Kalanawe Uno
 Kalandagan
 Kalandangan
 Kalang
-Kalanganan
 Kalangawan
 Kalangay
 Kalangkang
@@ -13142,6 +13141,7 @@ Kalayaan Ville
 Kalayakan
 Kalayong
 Kalayongan
+Kalañganan
 Kalbay
 Kalbugan, Kalbungan
 Kaledian, Camba
@@ -13579,7 +13579,7 @@ Katubuan
 Katubuh
 Katudan
 Katuli
-Katungal
+Katuñgal
 Kauian
 Kauit, Cawit Norte
 Kauit Kauit, Kawit Kawit
@@ -14104,7 +14104,6 @@ Labagan
 Labahan
 Labak
 Labang
-Labangal, Labangl
 Labangan, Benwa Labangan, Municipality of Labangan
 Labangbay-bay
 Labangon
@@ -14120,6 +14119,7 @@ Labayat
 Labayo
 Labayow
 Labayug
+Labañgal, Labangl
 Labben
 Labbi Camp
 Labbo
@@ -14518,10 +14518,10 @@ Langay Langay
 Langayan
 Langayen
 Langbaban
-Langca, Nangca
 Langcan, Lancan
 Langcangan
 Langcuas
+Langcá, Nangca
 Langden
 Langeblangeban
 Langgal
@@ -14562,7 +14562,6 @@ Langsi
 Langtad, Angtad
 Langto, Lagtoh
 Languan
-Langub, Langud
 Languio
 Langus
 Languyan, Municipality of Languyan
@@ -14854,6 +14853,7 @@ Lazi
 Lazo
 Lañgaban
 Lañguanan
+Lañgub, Langud
 Lebak
 Lebe
 Lebeng
@@ -15201,7 +15201,7 @@ Lindang, Lindong
 Lindero, Linolero
 Lindogon, Lindugon
 Lindon
-Lindungan, Linaungan
+Linduñgan, Linaungan
 Linedan
 Linek
 Ling
@@ -15486,7 +15486,6 @@ Longbao, Langbao
 Longbiahay
 Longmot
 Longon
-Longos, Longas, Loñgus
 Longsoddaan, Longsoda-an
 Longsub
 Lono
@@ -15575,6 +15574,7 @@ Loyong Catongan, Luyong Catungan
 Loyonsawang
 Loyow
 Loyowaig
+Loñgos, Longas, Loñgus
 Lu-ag
 Lu-ay
 Lu-ayan, Yuayan
@@ -15915,7 +15915,7 @@ Lutongan
 Lutot
 Luttuad
 Lutuban, Siit
-Lutungan
+Lutuñgan
 Luuk, Camp Andres, Municipality of Luuk, Tongkil, Tungkil
 Luuk Bunta, Look Buntal
 Luuk Datan, Lokdata, Lokdatan, Manuk Mangaw
@@ -16496,7 +16496,7 @@ Magdagasang
 Magdagohong
 Magdagumgung
 Magdaguup, Magdago-oc
-Magdalena
+Magdaleña
 Magdalo, Magdolo, Magolato
 Magdalu
 Magdauat
@@ -17936,7 +17936,7 @@ Mantuyong
 Mantuyop
 Manuali
 Manuan
-Manuangan, Manauañgan
+Manuañgan, Manauañgan
 Manubo Clearings
 Manubul, Manubal
 Manuca, Manunca
@@ -19154,10 +19154,10 @@ Monserat, Manserat
 Monserrat
 Montabiong
 Montalban
-Montana, Ik-ik
 Montaneza, Mantayosa
 Montay
 Montay-Montay, Monto-Monto
+Montaña, Ik-ik
 Monte
 Monte Alegre
 Monte Carmelo
@@ -19839,7 +19839,6 @@ Nandiquet
 Nandong
 Naneng, Nancng
 Nanerman
-Nanga
 Nangaan
 Nangabaywanan
 Nangalao
@@ -19852,8 +19851,6 @@ Nangbulan, Nangabulan
 Nangca Ibaba
 Nangcamotian
 Nangco
-Nangi
-Nangka, Nangca, Nanka
 Nangka-I
 Nangkaan, Nangcaon
 Nangonogan
@@ -20079,6 +20076,9 @@ Naysoyok
 Nazareno
 Nazaret
 Nazareth
+Nañga
+Nañgi
+Nañgka, Nangca, Nanka
 Nebuya
 Negative
 Negative Barrio
@@ -20150,7 +20150,6 @@ New Washington, New Washington Town, Port Washington
 New Zaniga
 Newagac
 Ngabangab
-Ngalan, Nalan
 Ngan
 Ngarag
 Ngaran
@@ -20401,7 +20400,7 @@ Odicon
 Odiong
 Odiong Norte
 Odiong Sur
-Odiongan
+Odioñgan
 Odlot
 Odlumon
 Odoc
@@ -20595,8 +20594,8 @@ Osio
 Oslao
 Oslob
 Osman, Usman
-Osmena, Osemena, Osmenia
 Osmena Sr., Osmena Senior
+Osmeña, Osemena, Osmenia
 Osmeña Student
 Oso
 Osokan
@@ -20635,7 +20634,7 @@ Oyango
 Oyanoyan
 Oyao
 Oyong
-Oyungan, Uyungan
+Oyuñgan, Uyungan
 Ozamiz City, Lungsod ng Ozamis, Misamis, Osamis, Ozamis, Ozamis City, Ozamiz
 Oñgos
 P. Granados
@@ -20749,7 +20748,6 @@ Paet, Paet Monuc
 Paete
 Pag-Asa
 Pag-asa
-Paga
 Pagadian, Pagadian City
 Pagaga
 Pagaguasan
@@ -20768,7 +20766,7 @@ Pagalida
 Pagaliman
 Pagalongan, Pagatongan, Pangalungan, Payalongan
 Pagalton
-Pagalungan, Balumis, Balumis Pagalungan, Pagaluan, Pagatungan, Pikit Pagalungan
+Pagaluñgan, Balumis, Balumis Pagalungan, Pagaluan, Pagatungan, Pikit Pagalungan
 Pagamikan
 Paganao
 Pagangan
@@ -20857,7 +20855,6 @@ Pagsanahan Sur
 Pagsang-an
 Pagsanga-an
 Pagsangaan
-Pagsangahan, Pasangahan
 Pagsangan
 Pagsanghan
 Pagsanhan
@@ -20865,6 +20862,7 @@ Pagsanjan, Paxenheim
 Pagsannag
 Pagsawitan
 Pagsayan
+Pagsañgahan, Pasangahan
 Pagsiban
 Pagsilaan
 Pagsolhogon, Pagsulhogon
@@ -20887,6 +20885,7 @@ Pagulingin
 Paguraper
 Pagus
 Pagutungan
+Pagá
 Pahagan
 Pahahpatan
 Pahal
@@ -21477,7 +21476,6 @@ Pangdang
 Pangdanon
 Pangdap
 Pangdel
-Pange, Pangue, Pongi
 Panggol
 Panghagban
 Panghayaan Ibaan, Panghayaan, Panhayaan
@@ -21485,7 +21483,6 @@ Panghayaan Taysan, Panghayaan, Panhayaan
 Panghinan
 Panghulo, Pangbula, Pangjolo, Panjolo
 Panghurian
-Pangi
 Pangian
 Pangihawan, Panghiawan
 Pangil, Panjil
@@ -21557,7 +21554,6 @@ Panilao
 Paniman
 Panimogsalan
 Paninaan
-Paningayan
 Paningtao
 Paninirongan, Paninirugnam
 Paninnan
@@ -21577,6 +21573,7 @@ Panitan, Paniban
 Panite
 Panitian
 Panitikan, Pangtikan
+Paniñgayan
 Panko
 Pankol
 Panlaan
@@ -21819,7 +21816,7 @@ Parongobong
 Paropanoon
 Parparia
 Parparoroc
-Parsolingan
+Parsoliñgan
 Parte de Banilad
 Particion
 Partida
@@ -22114,6 +22111,8 @@ Paz, Daan Paz, Paz Hacienda, Pazo
 Pazongon
 Pañgangcalan
 Pañgaoan
+Pañge, Pangue, Pongi
+Pañgi
 Pañgobilian
 Pañgucon
 Pe Pe Lonoc
@@ -22163,7 +22162,7 @@ Pensimbogan
 Peny-bawan
 Pepelitan
 Pepita
-Pequeno
+Pequeño
 Pequit, Contolon, Piquit
 Per Mon
 Pereg
@@ -22691,11 +22690,11 @@ Polanco, Municipality of Polanco
 Polang
 Polangahan
 Polangbulo, Polang Bato
-Polangi
 Polangui
 Polao
 Polarican, Palarican, Pularaguin, Pulariquen
 Polañge
+Polañgi
 Poliagan, Poloyagan
 Polihan, Bolihan
 Polilio
@@ -22963,7 +22962,6 @@ Pulang Lupa
 Pulangbato
 Pulangdaga
 Pulangduta
-Pulangi
 Pulanglupa, Pulanlupa, Putanlupa
 Pulangtubig
 Pulangyuta
@@ -22971,6 +22969,7 @@ Pulantuna, Pelantuna, Polantona, Polantuna
 Pulanyuta
 Pulao
 Pulay
+Pulañgi
 Pulgason
 Puliang
 Pulig
@@ -23374,7 +23373,6 @@ Rang-ayan
 Rangaban
 Rangas
 Rangay
-Rangayan
 Ranget
 Raniag, Villa Raniag
 Ranom Iloco
@@ -23401,6 +23399,7 @@ Rawes
 Rawis
 Ray Pascual
 Raya
+Rañgayan
 Real, Keal, Puerto Real
 Real de Cacarong
 Rebe
@@ -23574,13 +23573,13 @@ Sabang Caua
 Sabang Indan
 Sabang Kilbay, Quilbait
 Sabang Vito
-Sabangan, Sabahganr
 Sabangan Buaya
 Sabangan Pao
 Sabangan Pingan
 Sabanilla
 Sabatan, Sebatan, Selatan
 Sabaton, Sibato, Sibaton
+Sabañgan, Sabahganr
 Sabañgan Bato
 Sabdngan
 Sabean
@@ -23631,7 +23630,7 @@ Sada-an
 Sadaan
 Sadagan
 Sadanga
-Sadangan, Sadungan
+Sadañgan, Sadungan
 Sadol
 Sadong
 Sadsadan
@@ -23849,7 +23848,6 @@ Salle
 Salmag
 Salmeron
 Salnec
-Salngan
 Salocot
 Salog
 Salog-Grande
@@ -23890,6 +23888,7 @@ Salvacion II
 Salvador, Municipality of Salvador
 Salvador Benedicto, Don Salvador Benedicto
 Salvador Segundo
+Salñgan
 Sam-ang
 Sama, Sana
 Samac
@@ -24045,7 +24044,7 @@ San Emilio
 San Emmanuel
 San Enrique, Enrique
 San Esteban
-San Eugenio
+San Eugeñio
 San Eulalio
 San Eustacio
 San Fabian, Baley na San Fabian
@@ -24106,7 +24105,6 @@ San Joaquin
 San Joquin Norte
 San Joquin Sur
 San Jorge
-San Jose, Barangay Oco, Cabanlag, Carangran, Gusu, Macaagnay, Mangarin, Pandurucan, San Jos, San Jose City, San Jose Gusu, San Jose de Buenavista
 San Jose Apunan
 San Jose Este
 San Jose Gumi, Gumi
@@ -24137,6 +24135,7 @@ San Josef Norte
 San Josef Sur
 San Josep, Santo Josep
 San Joseph
+San José, Barangay Oco, Cabanlag, Carangran, Gusu, Macaagnay, Mangarin, Pandurucan, San Jos, San Jose City, San Jose Gusu, San Jose de Buenavista
 San Juan, Grande San Juan, San Juan Arroyao, San Juan City, San Juan Grande, San Tuan
 San Juan Bag-o
 San Juan Bautista
@@ -24461,7 +24460,7 @@ Santa Mesa Heights
 Santa Milagrosa
 Santa Misericordia
 Santa Monica, Santa Monica Tacforsan
-Santa Nino
+Santa Niño
 Santa Paz
 Santa Paz Norte
 Santa Peregrina
@@ -24540,7 +24539,7 @@ Santo Domingo Sur
 Santo Himaya
 Santo Mansibango
 Santo Mingo
-Santo Nino, Faire, Fraire, Prado Aruba, San Niña, Santa NiOo, Santo NiOo, Santo Niñao, Santo Niño Primero, Santo Niñto
+Santo Niño, Faire, Fraire, Prado Aruba, San Niña, Santa NiOo, Santo NiOo, Santo Niñao, Santo Niño Primero, Santo Niñto
 Santo Niño Hacienda
 Santo Niño Ibaba
 Santo Niño Ilaya, Santo Niñe Ilaya
@@ -24943,10 +24942,10 @@ Sigaboy, Govenor Generoso, Governor Generoso, Jigabay, Segaboy
 Sigad
 Sigamut
 Sigangan
-Sigangao
 Sigaras
 Sigay
 Sigayan
+Sigañgao
 Sigcay
 Siggud, Siggug
 Sigil, Seguil
@@ -24986,7 +24985,6 @@ Silanbun
 Silancot
 Silang
 Silanga
-Silangan
 Silangan Bucal
 Silangan Kabubuhayan, Cabubuhayan
 Silangan Katigan
@@ -25004,6 +25002,7 @@ Silauan Norte
 Silauan Sur
 Silawan
 Silay, Silay City
+Silañgan
 Silañgan Talaoñgan
 Silañgang Isabang, Silañsang Isabang
 Silbung
@@ -25162,8 +25161,8 @@ Sinato-an
 Sinauilan, Sinavilan
 Sinauran
 Sinawilan
-Sinawingan
 Sinawit
+Sinawiñgan
 Sinayao
 Sinayawan
 Sinaypanan
@@ -25486,7 +25485,7 @@ Soyug
 Soyung, Soyon, Suyong
 Sta Catalina
 Sta Cruz
-Sto Nino
+Sto Niño
 Sto Rosario
 Sua
 Suaco
@@ -26463,7 +26462,6 @@ Tamanaw
 Tamaneg
 Tamang, Temang, Tong Teman
 Tamangan
-Tamangi
 Tamao
 Tamaraan, Togosilay
 Tamarindo
@@ -26472,6 +26470,7 @@ Tamauan
 Tamayo
 Tamayoc, Tamayec
 Tamayong, Tomayong
+Tamañgi
 Tamba King
 Tambac, Tamboc, Tombac
 Tambacaan
@@ -26508,7 +26507,7 @@ Tamboan
 Tambobo
 Tamboboan
 Tambobong, Tambubong
-Tambognon, Tambugnon
+Tambogñon, Tambugnon
 Tambojangin
 Tambol
 Tamboleg, Tamboley
@@ -26730,10 +26729,8 @@ Tangluba
 Tangnan
 Tangnanan, Tanganan, Tanguanan
 Tangoayan, Tangoan
-Tangob, Tanob
 Tangohay
 Tangon
-Tangos
 Tangosong
 Tangtag
 Tanguay
@@ -27015,6 +27012,8 @@ Tayuman, Central Tayuman
 Tayuman Ibaba
 Taywanak Ilaya, Taywanak
 Tañgo
+Tañgob, Tanob
+Tañgos
 Tañong
 Teachers Village
 Teb-bo
@@ -28493,13 +28492,13 @@ Vidiao
 Viejo, Biejo
 Viejo Daan Banua
 Viena
-Viga
 Viga Kapinyahan
 Vigan, Ciudad Fernandina
 Vigia, Vigir
 Vigo
 Vigo Cantidang, Vigo Kantidang, Vigo-Central
 Vigviga
+Vigá
 Vila
 Vilabila
 Vilanvilan, Bilangbilang
@@ -28894,4 +28893,5 @@ Zulueta
 Zulueta District
 Zumarraga
 Zumigue
+Ñgalan, Nalan
 Ñgibab

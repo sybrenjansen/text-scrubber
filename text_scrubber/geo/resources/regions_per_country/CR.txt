@@ -1843,7 +1843,7 @@ Loma Chancha
 Loma Chirca
 Loma Chumico
 Loma Conejo
-Loma Copalchi, Lomas de Copalchí
+Loma Copalchí, Lomas de Copalchí
 Loma Corral
 Loma Corralillo
 Loma Cortés
@@ -2724,9 +2724,9 @@ Quebrada Buenos Aires
 Quebrada Bulliciosa
 Quebrada Bureal
 Quebrada Bureo
-Quebrada Burio
 Quebrada Burro
 Quebrada Burrogres
+Quebrada Burío
 Quebrada Burío Blanco
 Quebrada Bus
 Quebrada Bárbara
@@ -3212,7 +3212,6 @@ Quebrada Java
 Quebrada Jazminal
 Quebrada Jeva
 Quebrada Jicarito
-Quebrada Jicaro
 Quebrada Jilguero
 Quebrada Jiménez
 Quebrada Jobo
@@ -3228,6 +3227,7 @@ Quebrada Juncal
 Quebrada Junta
 Quebrada Juntas
 Quebrada Justo
+Quebrada Jícaro
 Quebrada Kilómetro 100
 Quebrada Kilómetro Diecinueve
 Quebrada Kilómetro Veinte
@@ -3789,10 +3789,10 @@ Quebrada San Gerardo
 Quebrada San Jacobo
 Quebrada San Jerónimo
 Quebrada San Joaquín
-Quebrada San Juan
 Quebrada San Juan Uno
 Quebrada San Juan de León
 Quebrada San Julián
+Quebrada San Juán
 Quebrada San Lorenzo
 Quebrada San Lucas
 Quebrada San Marcos
@@ -4060,16 +4060,10 @@ Rincón de Florida
 Rincón de La Leona
 Rincón de Sabanilla
 Rincón de la Vieja National Park
-Rio Blanco, Río Burtolo
 Rio Celeste
 Rio El Molino
 Rio Grande de Teraba
-Rio Guacimal, Guacimal River, Guasimal River
 Rio Hondo
-Rio Pacuare, Pacuare River, Rio Vacuare
-Rio Salto, Río El Salto, Salto River
-Rio Sarapiqui, Rio Serapequi, Rio Sorapiqui, Rio Surapiqui, Río Sanapiquí, Río Suropiqui
-Rio Sucio
 Rita
 Rivas
 Roca Bajo Negro
@@ -4155,6 +4149,7 @@ Río Bijagualito
 Río Birrís
 Río Biscoyol
 Río Bitey
+Río Blanco, Río Burtolo
 Río Blanquillo
 Río Bochinche
 Río Bodi
@@ -4385,6 +4380,7 @@ Río Guabas, Cuavo River, Rio Guabos
 Río Guabito
 Río Guacalito
 Río Guachipelín
+Río Guacimal, Guacimal River, Guasimal River
 Río Guararí
 Río Guarial
 Río Guatuso
@@ -4472,7 +4468,7 @@ Río Llorona
 Río Lobo
 Río Lodo Podrido
 Río Lores
-Río Los Ahogados, Río Ahogados, Río de los Ahogados
+Río Los Ahogados, Río Ahogados, Río de Los Ahogados
 Río Lovatripas
 Río Luri
 Río Machete
@@ -4543,6 +4539,7 @@ Río Ostional
 Río Pacacua, Río Pacaca
 Río Pacayas, Río Pacayas Gordas
 Río Pacuar
+Río Pacuare, Pacuare River, Rio Vacuare
 Río Paires
 Río Palmita
 Río Palmital
@@ -4598,7 +4595,6 @@ Río Platanillal
 Río Platanillo
 Río Plomo
 Río Po
-Río Poas
 Río Pocares, Río Pocores
 Río Pochote
 Río Pocitos, Río de los Pocitos
@@ -4613,6 +4609,7 @@ Río Potrero Grande, Quebrada Potrero Grande
 Río Poza Salada
 Río Pozas
 Río Pozo Azul
+Río Poás
 Río Prendas
 Río Pueblo Viejo
 Río Pulga, Quebrada Pulga
@@ -4653,6 +4650,7 @@ Río Sabogalito
 Río Sahíno
 Río Salina, Río Laquitero, Río Largatero, Río Salinas
 Río Salitral
+Río Salto, Río El Salto, Salto River
 Río Samen
 Río San Andrés
 Río San Antonio
@@ -4689,6 +4687,7 @@ Río Santa Rita
 Río Santa Rosa
 Río Santiago
 Río Sapoá, Sapoá River
+Río Sarapiquí, Rio Serapequi, Rio Sorapiqui, Rio Surapiqui, Río Sanapiquí, Río Suropiqui
 Río Sarchí
 Río Sardinal
 Río Savegre, Savagre River
@@ -4710,8 +4709,9 @@ Río Soncoyo
 Río Sontoli, Río Santolí, Río Sortoi
 Río Sonzapote, Río Soncapate
 Río Suarico
+Río Sucio
 Río Sucut
-Río Suerte, Caño de la Suerte, Río La Suerte, Suerte River
+Río Suerte, Caño de La Suerte, Río La Suerte, Suerte River
 Río Suro
 Río Surtubal, Río Surtuba
 Río Surubres
@@ -5092,8 +5092,8 @@ Sitio Papaturrada
 Sitio Papaturro
 Sitio Papayo
 Sitio Papelito
-Sitio Para
 Sitio Paraíso
+Sitio Pará
 Sitio Paso Lajas
 Sitio Pasquiel
 Sitio Pata de Mula
@@ -5224,7 +5224,7 @@ Tuis
 Tures
 Turrialba, Cantón de Turrialba
 Turrialba Volcano National Park, Parque Nacional Volcán Terrialba
-Turrubares, Cantón Décimosexto Turrubares, Cantón Turrubares, Cantón XVI Turrubares, Cantón de Turrubares
+Turrubares, Cantón 160 Turrubares, Cantón Décimosexto Turrubares, Cantón XVI Turrubares, Cantón de Turrubares
 Turrúcares
 Tárcoles
 Ulloa

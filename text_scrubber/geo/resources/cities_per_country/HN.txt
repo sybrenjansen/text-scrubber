@@ -13,7 +13,7 @@ Achotal
 Aciguaque
 Adurasta, Andurasta, Ocote Adurasta
 Agalteca, Ingenio Agalteca
-Agua Agria
+Agua Agría
 Agua Amarilla
 Agua Azul, Agua Azul Sierra
 Agua Azul Rancho, Granja
@@ -124,7 +124,7 @@ Apantes
 Aparcos, Apareos
 Apasapo
 Apasupo, Apazapo, Apazupo
-Apatana
+Apataná
 Apatoro
 Apausupo
 Apazala
@@ -349,9 +349,9 @@ Cabildo
 Cabo Gracias a Dios, Nuevo Cabo de Gracias a Dios
 Cabo de Hornos, Danto Cabo Hornos
 Cabo de Machete, Caba de Machete, Cabo Machete, Cabo de Machepe
-Cacagua
 Cacagual, Cacahual
 Cacaguapa
+Cacaguá
 Cacahuatal, Cacaguatal
 Cacahuillo
 Cacala
@@ -430,9 +430,7 @@ Campo Suttón
 Campo Uno
 Campuca, Camalote de Campuca
 Campín
-Canales
 Canan
-Canas
 Canaán
 Canchias, Canchía
 Cancolo
@@ -543,8 +541,10 @@ Cañada Grande, Cañadas de Sosa
 Cañada de Limón, Cañada del Limón
 Cañada del Toro
 Cañagrales
+Cañales
 Cañales del Chorro, Canales del Charro
 Cañalitos
+Cañas
 Cañas Bravas, Cañas Brabas
 Cañaveral, Cañaverales, Cañobaral
 Cañitas
@@ -622,7 +622,7 @@ Cerro de La Andrea, Cerro La Andrea
 Cerro de La Cruz
 Cerro de Minas
 Cerro de Ojuera
-Cerro de Pena
+Cerro de Peña
 Cerro de Piedra, Cerco Piedra
 Cerro de la Pita, Cerro La Pita
 Cerro del Alto, Cerro de Lo Alto
@@ -766,7 +766,7 @@ Cocobila, Cocoquila, Cocouila, Cocovila
 Coconut Garden, Cocoanut Garden
 Cocotingni, Cocotigne
 Codiqua
-Cofradia, Cofradilla, Lofradia
+Cofradía, Cofradilla, Lofradia
 Cohoon Ridge, Cahon Ridge, Cahoon Ridge, Cohonerich
 Cojuanque
 Cojuntara, Juntantara
@@ -818,7 +818,7 @@ Comalí
 Comapara, Camapara
 Comayagua, Municipio de Comayagua
 Comayagüela
-Combali
+Combalí
 Comelias
 Comunidad
 Conacaste
@@ -893,7 +893,7 @@ Corte Culebra
 Cortés, Cortez
 Cosigüina
 Cosmalí
-Cotala, Catala
+Cotalá, Catala
 Cotón
 Coxen Hole, Coxin Hole, Roatan Town
 Coyocutena
@@ -1174,7 +1174,6 @@ El Camaronero, Camaronero
 El Camarón
 El Campanario
 El Campanero
-El Canal, Cañal
 El Canaveral
 El Cantil, Cantil
 El Canto
@@ -1205,13 +1204,14 @@ El Carrizalón
 El Carrizo, Carrizo
 El Cascajal
 El Casco
-El Castano, Castaño
+El Castaño, Castaño
 El Castillo, Castillo
 El Caudate, Caudale
 El Caulote, La Caulota
 El Cayo
 El Cayo Campo, Cayo Campo
 El Cayo Sierra
+El Cañal, Canal
 El Cañamito
 El Cañón
 El Cebollal
@@ -1229,12 +1229,12 @@ El Cerro Grande
 El Cerro Jilote, Cerro Jilote, Cerro Jiote
 El Cerrón
 El Cerrón de Gila, Cerron de Gila
-El Chaguiton
 El Chagüital, Chaguital
 El Chagüite
 El Chagüite Grande
 El Chagüite Oriente, Chagüite Oriente, El Chaqüite de Oriente
 El Chagüite Sur, Chagüite Sur, El Cagüite Sur, El Chaguites
+El Chagüitón
 El Chamuscado, Chamuscado
 El Chancoyote, Chancoafote, Chancoyote
 El Chaparral, El Chapanal
@@ -1432,7 +1432,6 @@ El Guabal
 El Guacaral, Guacaral
 El Guachipilín
 El Guacimal
-El Guacimo, Güicama
 El Guaco, El Guaeo
 El Guailo, El Guaile
 El Guajiniquil
@@ -1445,8 +1444,8 @@ El Guano
 El Guante, Guante
 El Guantillo, Guantillo
 El Guanábano, Guanabanos
-El Guapinol
 El Guapinolar, Guapinolar
+El Guapinól
 El Guarapito, Guarapito
 El Guarumal, Guarumal
 El Guarumo, Guarumo
@@ -1461,6 +1460,7 @@ El Guineal, Guineal
 El Guisayote
 El Gurrional, El Guarimal
 El Gusano
+El Guácimo, Güicama
 El Güegüecho, Güeguecho
 El Güiral, Guiral
 El Güiso
@@ -1503,11 +1503,10 @@ El Jaranjito
 El Jardín
 El Jarral, El Farral, El Tarral
 El Jarro
-El Jazmin
+El Jazmín
 El Jicaral
 El Jicarillo
-El Jicarito
-El Jicaro, Jicaro Grande, Viejo El Jícaro
+El Jicaríto
 El Jicarón
 El Jiote
 El Jiñocuago
@@ -1525,6 +1524,7 @@ El Junquillo, El Junquío, Junquillos
 El Junto
 El Jutal
 El Jute, Jute
+El Jícaro, Jicaro Grande, Viejo El Jícaro
 El Jícaro Grande
 El Ladino, Ladino
 El Ladrillo
@@ -1643,12 +1643,12 @@ El Negrito, Negrito
 El Nichito
 El Nichón
 El Nisperal
-El Nispero, Municipio de El Níspero, Nispero
 El Nolasco
 El Noque
 El Norte
 El Novillo
 El Nuevo Porvenir
+El Níspero, Municipio de El Níspero, Nispero
 El Obelisco
 El Obraje, Los Obrajes
 El Obrajito, Obrajito, Obrajitos
@@ -1675,9 +1675,9 @@ El Olingo
 El Olivar
 El Olvido, Olvido
 El Onofre
-El Oregano, Oregano
 El Oro, Oro
 El Oropel
+El Orégano, Oregano
 El Otro Lado del Río, El Otro Lado
 El Oval, Obal
 El Pacayal
@@ -1729,7 +1729,6 @@ El Peligro
 El Pelillal
 El Peloncito de Ologosi, El Peloncito
 El Pelón, El Pelón de Jagua, Pelón
-El Penasco, Peñasco
 El Penco
 El Perico
 El Pericón, Pericón
@@ -1738,6 +1737,7 @@ El Pescadero, Pescadero, Pescadero San Marcos
 El Pescado
 El Petacón
 El Petén, Petén
+El Peñasco, Peñasco
 El Peñón, Peñón
 El Peñón de Las Animas
 El Picacho, Picacho
@@ -1749,7 +1749,6 @@ El Pillado
 El Pilón
 El Pinabetal, Pimbetal
 El Pinabete, Pinabe Te
-El Pinal, El Pinar, Pinal
 El Pinalito, Pinalito
 El Pino, Pino
 El Pipero, El Piparo
@@ -1757,6 +1756,7 @@ El Pital
 El Pitillo
 El Pito
 El Pizotero, El Pisotero, Pizotero
+El Piñal, El Pinar, Pinal
 El Plan, Plan
 El Plan Grande
 El Plan de Yaunara, Yaunera
@@ -1868,10 +1868,10 @@ El Robledal, Robledalosa
 El Roblito, Roblito
 El Roblón
 El Rode, Rodeo
-El Rodeito, El Rodellito
 El Rodeo, Caserio El Rodeo, Rodeo, Rodeo La Pacaya
 El Rodeo Grande
 El Rodeo de Quelacasque, El Rodeo Quelacásque, Quelacasque, Quelascasque
+El Rodeíto, El Rodellito
 El Ronrón
 El Rosario, El Rosario Campo, Municipio de El Rosario, Nuevo Rosario, Opoteca, Rosario
 El Rusio
@@ -2265,7 +2265,6 @@ Guazore
 Gueripe
 Guillén
 Guinopito
-Guipo
 Guisilca, Wisilca
 Guistaco
 Guitarrillas
@@ -2277,6 +2276,7 @@ Güiligüiste, Güiligüisque, Huitihuiste
 Güilupe
 Güinope, Municipio de Güinope
 Güinto
+Güipo
 Güirasna, Guarasma, Güirasma
 Güiscoyol, El Güiscoyol
 Güiscoyoles, Huiscoyoles
@@ -2348,7 +2348,7 @@ Hacienda La Paz
 Hacienda La Purísima
 Hacienda La Rubénia
 Hacienda La Trinidad
-Hacienda Las Anonas
+Hacienda Las Anónas
 Hacienda Las Delicias
 Hacienda Las Palomitas
 Hacienda Las Playas
@@ -2722,7 +2722,6 @@ La Ceibita
 La Cenizosa
 La Centella
 La Ceñida
-La Chacara, Chacara, La Cacara, La Chacora, La Charca
 La Chachagua
 La Chachona
 La Champa
@@ -2735,6 +2734,7 @@ La Chilca, Chilca
 La Chimilca, Chimilca, La Shimilca
 La Choluteca, Choluteca
 La Chorrera
+La Chácara, Chacara, La Cacara, La Chacora, La Charca
 La Cidra
 La Cieneguita
 La Cigüeña
@@ -2780,11 +2780,11 @@ La Cumbre de Palmichal, Cumbre del Palmichal
 La Cumbre de San Juan, Cumbre de San Juan
 La Cumbre de la Quesera, La Cumbre de la Quezera
 La Cumulina
-La Cuna
 La Cureña
 La Curva
 La Cutilca
 La Cutú, El Cutú
+La Cuña
 La Dalia
 La Damiána
 La Danta
@@ -3244,7 +3244,7 @@ Las Curareñas
 Las Cureñas
 Las Cúmas
 Las Dantas
-Las Delicias, Deliceas, Las Deliceas, Las Delicias del Jute
+Las Delícias, Deliceas, Las Deliceas, Las Delicias del Jute
 Las Dificultades, Dificultades
 Las Escobas, Escobas
 Las Estancias
@@ -3298,8 +3298,8 @@ Las Majadas
 Las Mangas, Mangas
 Las Manos
 Las Manzanas
-Las Mariitas
 Las Marimbas
+Las Mariítas
 Las Marías
 Las Mataras, Mataras
 Las Medias
@@ -3527,7 +3527,7 @@ Lonal, Lonar
 Lorencillo
 Lorencito
 Los Acaguales
-Los Achiotes, Achotes, Los Achates, Los Achotes
+Los Achíotes, Achotes, Los Achates, Los Achotes
 Los Adobes
 Los Aguacates
 Los Aguilera
@@ -3634,10 +3634,10 @@ Los Gramales, Gramales, Los Granales
 Los Granadillos
 Los Guamiles
 Los Guardados
-Los Guasimos
 Los Guatales
 Los Guindos
-Los Guineos, Guineos
+Los Guinéos, Guineos
+Los Guásimos
 Los Güiscanales
 Los Hatillos, El Hatillos
 Los Hatos
@@ -3685,7 +3685,7 @@ Los Liros
 Los Llanitos, Los Lanitos
 Los Llanitos Verdes, Llantos Verdes
 Los Llanos
-Los Llanos de Mandasta
+Los Llanos de Mandastá
 Los Loros
 Los Luises
 Los López
@@ -3893,7 +3893,7 @@ Manazapa, Manozapa
 Mancanto
 Manchaguala, Machaguala
 Manchones, Manchón
-Mandasta
+Mandastá
 Mandinga
 Maneadero, Maniadero
 Manga Seca
@@ -4301,7 +4301,6 @@ Palenque
 Paletal
 Paletales
 Paleto
-Palin, Palu
 Palkaka, Balcaca, Palcaca
 Palma Real
 Palmar
@@ -4336,6 +4335,7 @@ Palos Blancos, Palos Bloncos
 Palos Grandes
 Palos Ralos
 Palos de Agua Abajo, Palos de Agua
+Palín, Palu
 Panasacaray
 Panasacarán
 Panila, Panilla
@@ -4458,7 +4458,7 @@ Piedra del Tigre, La Piedra del Tigre
 Piedras
 Piedras Amarillas, Piedras Amarilas
 Piedras Anchas
-Piedras Azules
+Piedras Azúles
 Piedras Blancas, Piedra Blancas
 Piedras Bonitas, Pidras Bonitas
 Piedras Coloradas
@@ -4811,7 +4811,7 @@ Quimistán, Municipio de Quimistán, Ouimistan
 Quinguete
 Quinito
 Quintanilla
-Quioco, Colira, Quico
+Quiocó, Colira, Quico
 Quiquisque Abajo
 Quiquiste
 Quiragüira
@@ -4874,7 +4874,6 @@ Rincón de la Tuna
 Rincón del Buey
 Rincón del Ocote
 Ringa
-Rio Arriba, Rio Arriba de Santiago
 Risisapa
 Roatán
 Robinson
@@ -4901,6 +4900,7 @@ Rusquín
 Rápalo
 Río Abajo, Abajo
 Río Amarillo
+Río Arriba, Rio Arriba de Santiago
 Río Azul
 Río Bermejo
 Río Bijao, Bijao, Río Vijao
@@ -4936,7 +4936,6 @@ Sabacuante
 Sabana Abajo
 Sabana Afuera
 Sabana Grande
-Sabana Larga, Savana Larga
 Sabana Perdida, Sabona Perdida
 Sabana Redonda
 Sabana Verde
@@ -5055,7 +5054,7 @@ San Isidro Canguacota, Canguacota, Changuacota
 San Isidro El Belloto, Belloto, El Belloto, San José El Belloto
 San Isidro del Mal Paso
 San Jacinto
-San Jerónimo, Jerónimo, Municipio de San Jerónimo, San Geronimo, San Jerónimo el Espino
+San Jerónimo, Jeronimo, Municipio de San Jerónimo, San Geronimo, San Jerónimo el Espino
 San Jerónimo de Vado Ancho, San Jeronimo Vado Ancho
 San Jerónimo de las Palmas
 San Jerónimo del Pinal, Pinal, San Jerónimo Pinal
@@ -5175,7 +5174,7 @@ San Raimundo, San Raymundo
 San Ramón
 San Ramón Abajo
 San Ramón Arriba
-San Roman
+San Román
 San Roque
 San Santo
 San Sebastián, Municipio de San Sebastián, Sebastián
@@ -5215,7 +5214,7 @@ Santa Inés
 Santa Irene
 Santa Isabel, Santa Izabel
 Santa Juana
-Santa Lucia, Chapulín, El Chapulín, Los Estanquillos, Municipio de Santa Lucía, Santa Lucía Guachipilín
+Santa Lucía, Chapulín, El Chapulín, Los Estanquillos, Municipio de Santa Lucía, Santa Lucía Guachipilín
 Santa Marta
 Santa Marta Campo
 Santa Martha
@@ -5327,12 +5326,12 @@ Sompopo
 Son
 Sonaguera
 Sonaras
-Soni, Zonid
 Sonid
 Sonoma
 Sonora
 Sonzapote, Zonsapote, Zonzapote
 Sonámbula
+Soní, Zonid
 Soplamocos
 Soringo, Sorringo
 Soroguara
@@ -5386,6 +5385,7 @@ Suyatillo
 Suzco
 Suí, Zui
 Swabila
+Sábana Larga, Savana Larga
 Tabacunta
 Tabla Grande
 Tablazón, La Tablazón
@@ -5675,7 +5675,7 @@ Usan
 Usibila
 Usuyca
 Uswala
-Utila, Municipio de Utila
+Utilá, Municipio de Utila
 Utla-Almuk, Utlla Almuck
 Uvillas
 Uyuca, Uyaca
@@ -5793,7 +5793,7 @@ Yarales
 Yaralica
 Yarauca
 Yargual
-Yarguera
+Yargüera
 Yarope, Tarope
 Yaruca, Yarruca
 Yaruchel

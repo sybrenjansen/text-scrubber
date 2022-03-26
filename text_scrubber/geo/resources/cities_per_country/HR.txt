@@ -65,7 +65,6 @@ Auguštanovac
 Ašikovci, Ašikovac
 Babajići
 Babani
-Babici, Donji Babići
 Babin Dub Pločanski, Babin Dub
 Babin Kraj
 Babina
@@ -76,6 +75,7 @@ Babinac Ivanski, Babinec Ivanski
 Babindub
 Babino Polje, Babina Polje, Babino, Pian di Babino
 Babića Most
+Babići, Donji Babići
 Babjak
 Babotok
 Babulj
@@ -199,12 +199,10 @@ Basare
 Basarića Draga, Basarić Draga
 Basarići, Basarić
 Basina
-Basići, Bassi
 Bast
 Basta
 Bastajski Brđani
 Bastaško Selo
-Baste
 Batajne
 Batakovina
 Batalaža
@@ -249,8 +247,10 @@ Bašelovići
 Bašini
 Bašić
 Bašić Poljana
+Bašići, Bassi
 Baška, Baška Primorje, Baškanova, Bescanuova
 Baška Voda, Bestonio
+Bašte
 Beare
 Bebići
 Bebrina
@@ -622,7 +622,6 @@ Brestovac Daruvarski, Bresztovacz, Daruvarski Brestovac
 Brestovec
 Brevozo Polje
 Breza
-Brezani
 Breze
 Brezik
 Brezik Našički
@@ -651,6 +650,7 @@ Breštanovci, Breštanovci Pustara
 Brešće
 Brežak
 Brežane Lekeničke, Brežane, Brežani Lekenički, Lekenički Brežani
+Brežani
 Brgud
 Brgudac, Bergodaz, Bergozza, Bergozzo
 Brgujac
@@ -850,7 +850,6 @@ Carevići
 Carića Brdo
 Carski Breg
 Cavtat, Ragusa Vecchia
-Celine
 Cenkovec
 Cepeliš
 Cepidlak
@@ -935,7 +934,6 @@ Crni Padež
 Crni Potok Brodski
 Crni Zaton, Crni Zatonj
 Crnibek
-Crnica, Carnizza, Cernizza
 Crnjak
 Crnjatkuša
 Crnjegovina
@@ -951,7 +949,6 @@ Cukovi
 Cukrići, Cukriái
 Cukušići
 Culari
-Culavi
 Cupar
 Curlinova Ograda
 Cvetičko Selo
@@ -979,7 +976,7 @@ Dadići
 Dajaci
 Dajla, Daila, Dajle, Dalja, Porto di Daila
 Dakovići
-Dalj, Dalja, Dallia, Dállya, Dálya, Teutoburgium
+Dalj, Dalja, Dallia, Dalya, Dállya, Teutoburgium
 Dane, Danne di Raspo
 Danguba
 Dangube
@@ -1049,7 +1046,6 @@ Diminići, Diminic, San Lorenzo, San Lorenzo d'Albona, Villa Diminici
 Din
 Dinjevac
 Dinjiška, Diniška, Dinjička
-Dipalo
 Dipici
 Divići
 Divjake
@@ -1364,13 +1360,13 @@ Dopsin
 Dopuđe
 Dornji Kremen
 Dorontići
-Doseni
 Dozetova Draga
 Došani
 Došen-Dabar
 Došen-Duliba
 Došen-Plana
 Došen-Ruja
+Došeni
 Draga
 Draga Bašćanska, Baška Draga, Baščanska Draga, Bescavalle, Draga Baška, Draga Boščanska
 Draga Požeška, Požeška Draga
@@ -1498,7 +1494,6 @@ Dubrovacko Primorje
 Dubrovnik, Dubrovačka Republika, Ragusa, Republic of Ragusa
 Dubrovčan
 Dubrovčani, Dubravčani
-Dudići
 Dudunići
 Duga Gora
 Duga Luka (Prtlog)
@@ -1523,7 +1518,6 @@ Dujmići
 Dujmišići
 Dujmovići
 Dukati
-Dukići
 Duliba
 Dulibe
 Dumanac
@@ -1542,7 +1536,6 @@ Dupori
 Duralovići
 Duračići
 Duretina
-Durići
 Durovići
 Dusikrav
 Duvnjačke Čubrice
@@ -2550,7 +2543,7 @@ Jovanovac
 Jovanović Draga
 Jovanovići
 Jovančevići
-Jovici
+Jovići
 Jovići Mučki
 Jošane
 Jošavica
@@ -2852,7 +2845,6 @@ Kmezina Poljana
 Knez
 Knez Gorica
 Kneza
-Knezević
 Knezovec
 Knezovići
 Knezovljani
@@ -2860,6 +2852,7 @@ Knežci, Knešci
 Kneževac
 Kneževi Vinogradi
 Kneževic-Kosa
+Knežević
 Kneževića Varoš
 Kneževići
 Kneževo, Državni Dobro Belje, Foherczeglak, Kneževi
@@ -3017,7 +3010,6 @@ Kostelj
 Kostelčevo Selo
 Kostići
 Kostrena, Costrena Santa Lucia, Kostrena Sveta Barbara, Kostrena Sveta Lucija, Santa Lucia Kostrena
-Kostrići
 Kostrčani, Kostrčane
 Kostur
 Kotarci
@@ -3064,6 +3056,7 @@ Koška, Koszka
 Košljun
 Košnica
 Koštice
+Koštrići
 Košute
 Koščice
 Kožino, Kožin
@@ -3474,7 +3467,6 @@ Lisac, Iscra
 Lisina
 Lisičine
 Lisičići, Lisičić
-Liska
 Liski
 Liskovac
 Liskovača
@@ -3501,6 +3493,7 @@ Ličko Novo Selo
 Ličko Petrovo Selo, Petrovo Selo, Petrovoselo-licko
 Lišane Ostrovičke, Ostrovičke-Lišane
 Lišane Tinjske, Lišane
+Liška
 Lišnjak
 Lišnjići
 Ližnjan, Lisignano, Lisignano di Pola
@@ -3644,10 +3637,10 @@ Lusare
 Lutovije
 Luč
 Lučelnica
-Lučica
 Lučice
 Lučinci
 Lučić
+Lučića
 Lučka
 Lučko
 Lušetići
@@ -3932,7 +3925,7 @@ Martinec
 Martinić
 Martinišće
 Martinovci
-Martinovici
+Martinovići
 Martinska Ves
 Martinski, Sveti Martino
 Martinuševec
@@ -4087,8 +4080,8 @@ Milankovići
 Milanovac
 Milanovići, Milanović
 Milardovići
-Milasi
 Milaševci, Milaševac
+Milaši
 Miletići
 Milevci
 Milhovilovići
@@ -4135,8 +4128,8 @@ Mimice
 Miodraž
 Mioći
 Miočevići
-Miočic, Miočića
 Miočinovići
+Miočić, Miočića
 Miranje
 Mirca
 Mirce
@@ -4151,7 +4144,6 @@ Mirlović-Polje
 Mirnovec
 Mirt
 Misić
-Miskovići
 Misletići, Masletići
 Mislina
 Mitlo
@@ -4165,6 +4157,7 @@ Mišetino Selo
 Mišinci
 Mišinka
 Mišići
+Miškovići
 Miškulin
 Miškulini
 Mišljenovac
@@ -4203,7 +4196,7 @@ Molve
 Molvice
 Momići
 Momjan, Momiano, Mumjan
-Momčilovici
+Momčilovići
 Montižana
 Montrin
 Moravče
@@ -4224,7 +4217,6 @@ Mošćenica, Mošenica
 Mošćenice, Moschenice, Moschiena
 Mošćenička Draga, Draga Santa Marina, Draga Val Santamarina, Val Santamarina
 Možđenec, Moždjenec
-Mracaj
 Mraclin
 Mrakovo
 Mratovo
@@ -4232,6 +4224,7 @@ Mravince
 Mravinjac
 Mravinjci
 Mravnica
+Mračaj
 Mračaj Krstinjski
 Mračin
 Mrdalj
@@ -4352,7 +4345,7 @@ Nečaj
 Nečujam
 Nežice
 Nijemci, Deutschdorf, Nemci, Nempti, Németi
-Nikolici
+Nikolići
 Nikšić
 Nikšića Most
 Nikšići
@@ -4979,11 +4972,11 @@ Podglavica
 Podgora
 Podgora Turkovska, Turkoska Podgora, Turkovska Podgora
 Podgorač, Podgorács, Pogorács
-Podgorci, Podqorci
 Podgorje
 Podgorje Bračevačko
 Podgorje Jamničko, Jamničko Podorje
 Podgorje Požeško
+Podgorći, Podqorci
 Podgrab
 Podgrade
 Podgradina
@@ -5312,7 +5305,7 @@ Prozurska Luka
 Prožura
 Prpići, Prpić
 Prugovac
-Prusci
+Prušci
 Prvan Selo, Prvanci
 Prvić Luka
 Prvić Šepurine, Šepurine
@@ -5617,8 +5610,8 @@ Roknići
 Rokovci
 Romci
 Romići
-Roncevići
 Ronići
+Rončevići
 Ropa
 Rosandić
 Rosandići
@@ -5742,7 +5735,6 @@ Sarapi
 Sarapovo Selo
 Sarači
 Sarejevo
-Sarići
 Sarvaš, Hirschfeld, Sarvash, Sarwasch, Szarvas
 Sasi
 Sasovac
@@ -5823,7 +5815,6 @@ Severin
 Severin na Kupi
 Sevet
 Sevid
-Sibenik, Sebenico
 Sibinj
 Sibinj Krmpotski, Sibinj Krivoputski
 Sibić
@@ -5838,7 +5829,6 @@ Silaš
 Silba, Selve
 Silić
 Silješci
-Simunići
 Simurina
 Sinac, Donji Sinac
 Sinj, Signo
@@ -5864,7 +5854,6 @@ Skabrnja
 Skadar
 Skakavac
 Skako
-Skarići
 Skenderi
 Skenderovci
 Skendri
@@ -5874,7 +5863,6 @@ Skiljić
 Skitača
 Skladište Gavrilović
 Sklizavac
-Skorići
 Skorpovac
 Skorupov Dolac
 Skozanje
@@ -5885,7 +5873,6 @@ Skradsko Selo
 Skrbčići, Scherbe
 Skrivena Luka
 Skukani
-Skunca
 Skundrići
 Skurići
 Sladići
@@ -6002,11 +5989,9 @@ Sopaljska
 Sopje, Sorje, Szopje
 Sopnica
 Sopnica Sesvetska
-Sopot
 Sopčić-vrh
 Sorgo
 Soric
-Sorići
 Sotin, Cornacum, Sotting, Szata, Szotin
 Sovari
 Sovilji
@@ -6018,7 +6003,6 @@ Sočanica
 Soče
 Soši
 Sošice, Sošica
-Sošići, Sossich, Sošić
 Soške
 Spanovići
 Sparagovići, Sparagović
@@ -6290,8 +6274,6 @@ Suzići
 Sućuraj
 Sučevići
 Sučići
-Suša
-Sušanj, Cesarički Sušanj, Sušanj Cesarički
 Sušci
 Sušica
 Sušik
@@ -7040,8 +7022,8 @@ Vranja, Aurania, Vragna, Vranje
 Vranjak
 Vranje Pavlović
 Vranje Selo
-Vranjesi
 Vranjevo
+Vranješi
 Vranjic, Selo Vranjic, Vranjica
 Vrankovići
 Vranojelje, Vranojevje
@@ -7230,7 +7212,6 @@ Zabarje
 Zablatje
 Zablatje Posavsko
 Zablaće
-Zabljak
 Zabok
 Zaboric
 Zabrde
@@ -7422,15 +7403,18 @@ Zvonik
 Ðeletovci, Djeletovci
 Ðereci
 Ðevrske, Djeverske, Ðevrska
+Ðipalo
 Ðogići
 Ðolonga
 Ðomine
 Ðonta Doli, Djonta Doli, Djunta Doli, Ðunta -Doli
 Ðorđev Dvor
 Ðugumi
+Ðukići
 Ðulovac, Djulaves, Miokovićevo, Ðulavec, Ðulaves
 Ðurašinovići
 Ðurinovec
+Ðurići
 Ðuričić, Ðurišić
 Ðurjani, Ðurani
 Ðurmanec, Gjurmanec
@@ -7438,8 +7422,9 @@ Zvonik
 Ðurđekovec, Djurdjekovec, Gjurgjekovec, Ðurđukovec
 Ðurđenovac
 Ðurđevo Polje
-Ðurđic, Djurdjic
+Ðurđić, Djurdjic
 Ðuzeli
+Ðuđići
 Ćalete
 Ćavri
 Ćelije
@@ -7503,6 +7488,7 @@ Zvonik
 Čelari
 Čelikovići
 Čelina
+Čeline
 Čelinjača
 Čelj
 Čelopeci
@@ -7565,6 +7551,7 @@ Zvonik
 Črečan
 Črnec Biškupečki, Biškupečki Črnec, Crnec
 Črnec Rugvički, Rugvički Črnec, Črnec, Črnec Rugovički
+Črnica, Carnizza, Cernizza
 Črnja Luka
 Črnkovci
 Črnkovec
@@ -7580,12 +7567,13 @@ Zvonik
 Čujići
 Čuke
 Čukovec
+Čulavi
 Čulina
 Čulinec
 Čulići
 Čulišić
 Čunski, Chiusi
-Čupici
+Čupići
 Čurković
 Čurlini
 Čurlovac
@@ -7623,6 +7611,7 @@ Zvonik
 Šarić
 Šarić Brdo
 Šarića Struga
+Šarići
 Šaričevi, Smrdelovci
 Šartovac
 Šatara
@@ -7654,6 +7643,7 @@ Zvonik
 Ševrlje
 Šeša
 Šibare
+Šibenik, Sebenico
 Šibice
 Šibokovac
 Šibovac
@@ -7679,6 +7669,7 @@ Zvonik
 Šimljanik
 Šimraki
 Šimuni
+Šimunići
 Šine
 Šipak, Sivak
 Šipanska Luka, Luca, Šipanjska Luka
@@ -7706,6 +7697,7 @@ Zvonik
 Škarbići
 Škarda
 Škarićevo
+Škarići
 Škatari, Scattari, Scatteri
 Škipine, Tatalovići
 Škivića Dolac
@@ -7714,6 +7706,7 @@ Zvonik
 Škopljak, Scopliacco
 Škorak
 Škore
+Škorići
 Škrabo
 Škrabutnik Na Brdu
 Škrabutnik Potok, Škrabutnik
@@ -7725,6 +7718,7 @@ Zvonik
 Škropeti, Skrobetići
 Škulja
 Škuljari, Scuiari
+Škunca
 Škvadra
 Škvaranska, Squaransca
 Šljivari
@@ -7739,6 +7733,9 @@ Zvonik
 Šolta
 Šolto
 Šonjići
+Šopot
+Šorići
+Šošići, Sossich, Sošić
 Špadići
 Španat
 Španjuša
@@ -7798,6 +7795,8 @@ Zvonik
 Šuputi
 Šute
 Šućuri
+Šuša
+Šušanj, Cesarički Sušanj, Sušanj Cesarički
 Šuški
 Šušnjare
 Šušnjari, Šušnjavi
@@ -7813,6 +7812,7 @@ Zvonik
 Šćitarjevo, Andautonia
 Šćulci
 Žabica
+Žabljak
 Žabnik
 Žabnjak
 Žabnjača, Žabljača, Žabljače

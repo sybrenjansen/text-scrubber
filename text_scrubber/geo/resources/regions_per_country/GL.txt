@@ -137,7 +137,7 @@ Alanngoq, Alángoq
 Alanngorleq, Alángordleq
 Alanngorlia, Alangordlia
 Alanngorliup Sermia, Alangordlek, Alángordliup Sermia
-Alanngorsuaq, Alangorsuak, Alángorssuaq
+Alanngorsuaq, Alangorssuaq, Alangorsuak
 Alanngorsuaq Fjord, Coppermine Bay, Kangerdlua
 Alanngorsup Nunaa, Alangorsuak, Alángorssuaq, Alángorssûp, Alángorsuaq, Gorsuak
 Alanngorsuup Qaqqaa, Alangorsuak
@@ -199,7 +199,6 @@ Ameralla, Ameragdia Fjord, Ameragdla
 Amerloq, Amerdlok, Amerdloq
 Ametystskrænten
 Amitsivartiva
-Amitsoq, Amitsok, The Long
 Amitsorssûp Qulâ
 Amitsorssûp Suvdlua
 Amitsorsuaq, Amitsorssuaq
@@ -226,6 +225,7 @@ Amundsen Land, Amundsens Land
 Amáussuaq
 Amârtajârfik
 Amârtoq, Tíkuarseritsoq
+Amîtsoq, Amitsok, The Long
 Ana
 Anaat, Ânât
 Ananit
@@ -283,9 +283,9 @@ Annikitsup Kangerlua, Nanusek Fjord, Nanûseq Fjord, Öyfjord
 Annikitsup Nuua
 Anordliuitsoq
 Anoritooq, Kunarmiut
-Anoritoq, Anoritôk
 Anorituup Kangerlua, Anoretok, Anoretok Fjord, Anoritûp Kangerdlua, Kangikitsuak
 Anorituup Qeqertaa, Anoritûp Qeqertâ
+Anoritôq, Anoritôk
 Anorliuitsup Imaa, Anordliuitsup Imâ
 Ansbjerg, Ansbjærg
 Antarctic Bugt
@@ -363,7 +363,7 @@ Arpertilo, Arpertileq, West Fjord
 Arqitsoq, Akitok
 Arqâjaq
 Arsuk Fjord, Ivigtut
-Arsuup Uummannaa, Arsuk Umának, Arsuk Uummannak, Arsuk Uummannnaq, Umanak, Ûmánaq
+Arsuup Uummannaa, Arsuk Umanak, Arsuk Uummannak, Arsuk Uummannnaq, Umanak, Ûmánaq
 Arsuutaa, Arsuk Island
 Arthur Dal
 Arundel Lake
@@ -1482,7 +1482,7 @@ Igtorqortôrmît Ilivnerat, Itivdleq
 Igutsaat Fjord, Igutsait Fjord, Igutsat Fjord
 Igutsaat Øer, Igutsait Øer
 Igutsartôq
-Igánaq, Dalrymple Rock
+Igánâq, Dalrymple Rock
 Ikaasammiit, Ikâsangmît, Âmaqalit
 Ikamiut
 Ikamiut Kangerdluarssuaq, Kangerdluarssuk Fjord
@@ -1619,7 +1619,7 @@ Imikajik
 Imilik
 Immikkeertaajivit, Ausivit, Ingmikârtajivit
 Immikkeerteq, Imikertop, Ingmikêrtoq
-Immikkeertikajik, Ingmíkêrtakajik, Ingmíkêrtikajik
+Immikkeertikajik, Ingmikêrtikajik, Ingmíkêrtakajik
 Immikkoortukajik, Ingmikortukajik, Takisok, Takissok
 Inalugartût Iluat
 Inalugssuaq, Ialugssuaq, Inalugssuak
@@ -1695,7 +1695,7 @@ Inussulik, Inugsulik
 Inussulik Bugt, Inugsugdlip Imâ, Inugsulik Bugt
 Inussulissuaq, Inugsuligssuaq
 Inussuttalik, Inigsugtalik, Inugsugtalik
-Inussuttuut, Camilla, Inugsugtok, Inugsugtut Island, Inugsugtût
+Inussuttuut, Camilla, Inugsugtok, Inugsugtut, Inugsugtut Island
 Inâluartût
 Inínguit, Ininguit Bay
 Inûvik
@@ -1763,7 +1763,6 @@ Isussik, Isigssak, Isigssaq, Isuvssik
 Isvand
 Isvolden
 Isúngartussoq
-Isúngua, Sunqua
 Iterdlagssuaq
 Iterdlagssûp Qíngua, Sun Bræ, Sun Gletscher
 Iterdlaup Qâva
@@ -1981,7 +1980,7 @@ Kanajormiut, Kanajormiut Öer
 Kanajormiut Ikerasaat, Kanajormiut Ikerasât, Semersok Kangerdluak, Sermersok Kangerdluak
 Kangaamiut, Kanamiut Ö, Kangâmiut
 Kangaamiut Kangerluarsuat, Atuariaq Kangerdluarssuat, Kangerdluarssuk, Kangâmiut Kangerdluarssuat
-Kangaarsuk, Kangarsuk, Kangersuk, Kangârssuk
+Kangaarsuk, Kangarssuk, Kangarsuk, Kangersuk
 Kangaarsuup Nunaa, Kangârssûp Nunâ
 Kangaarsuup Qaqqaa, Kangârssûp Qáqâ
 Kangaarsuup Tasersua, Kangârssûp Taserssua, Taserssuak, Tasersuak
@@ -2518,7 +2517,6 @@ Killeq, Kitdleq
 Killersuaq, Kitdlerssuaq
 Killussaatsut Kuuat, Kigdlugssaitsut Kûat
 Kin of Sal, Umanak
-Kinalik
 Kinaussap Tasia
 Kindtænderne
 Kingigtorssuaq, Hjortetakken, Kingigtorssuak, Kingigtorsuak, The Antler
@@ -2685,7 +2683,7 @@ Kuunnaat, Kungnait, Kungnat
 Kuup Akua, Kûp Akua
 Kuupeeqarfik, Kûpêqarfik
 Kuussarneq, Kûgsarneq
-Kuussuaq, Kugssuak, Kúgssuaq, Kúngssuaq, Kûgassuaq, Kûgrsuaq, Red Rapids
+Kuussuaq, Kugssuak, Kugssuaq, Kúngssuaq, Kûgassuaq, Kûgrsuaq, Red Rapids
 Kuutseq, Kûtseq
 Kuutseq Fjord, Kutseq Fjord
 Kuutsiaq, Kûtsiaq
@@ -2717,6 +2715,7 @@ Kíngatsiaq, Kingatsiak
 Kínguvfik
 Kípârarigsukavsak
 Kînaussaq, Kinaussak
+Kînâlik
 Kôqutsup Ivnâ
 Kølen
 Kúngut
@@ -3270,7 +3269,6 @@ Niaqornakassak
 Niaqornakavsak
 Niaqornakavsak Ilordleq
 Niaqornakavsaq
-Niaqornanguaq
 Niaqornannguaq
 Niaqornap Imaa
 Niaqornap Nunaa, Kekertak, Niaqornap Nunâ
@@ -3281,6 +3279,7 @@ Niaqornarssuaq, Niagornarssuaq, Niakornarssuak
 Niaqornarssuit
 Niaqornarsuaq, Niakornarsuak, Niaqornarsuk, Niaqornassuaq, Niaqornârssuk
 Niaqornatsiaq, Niaqornaitiaq
+Niaqornánguaq
 Niaqornârulik
 Niaqornâta Qulâ, Niaqornâta Kulâ
 Niaqorssuaq
@@ -3395,7 +3394,6 @@ Nuerssorfiarqap Avangnâtungâ
 Nuffiumaneq, Nugfiumaneq
 Nugapinguak Dal
 Nuggarigssorssuaq
-Nugssuaq
 Nugâtsiaup Nunâ
 Nuk
 Nukagpiarssuaq
@@ -3450,7 +3448,7 @@ Nuua
 Nuuata Kangilia, Nûata Kangilia
 Nuugaalik
 Nuugaarsuit, Nûgârssuit
-Nuugaarsuk, Artillery Point, Nûgârssuk
+Nuugaarsuk, Artillery Point, Nugârssuk
 Nuugaarsunnguaq
 Nuugaatsiaap Tunua, Nûgâtsiaup Tunua
 Nuugaatsiakajik, Nûgâtsiakajik
@@ -3482,7 +3480,7 @@ Nuussuatsiaq, Nûgssuatsiaq
 Nuussuup Nuua, Nugssup Nûa, Nugsuak
 Nuussuup Qaarsua, Nûgssûp Qârssua
 Nuussuup Qaava, Nûgssûp Qâva
-Nuussuup Qulaa, Nûgssûp Qûla, Sarfartok
+Nuussuup Qulaa, Nûgssûp Qulâ, Sarfartok
 Nuussuutaa, Nûgssûtâ
 Nuuttooq, Nûgtôq
 Nuánialâq
@@ -3527,6 +3525,7 @@ Núngarússuit
 Nûata Kujalia
 Nûerut
 Nûgssua
+Nûgssuaq
 Nûgâlik, Døddemandspynten, Dødemandspynten, Naulik, Nualik
 Nûgârssik
 Nûgârssúnguaq
@@ -3567,7 +3566,7 @@ Oqaatsut, Oqaitsut
 Oqaatsut Nuuat, Oqaitsut Nûat
 Oqaitsortalik, Oqaitsortolik
 Oqaitsua
-Oqaitsunguit
+Oqaitsúnguit
 Oqaq
 Oqqorliit
 Oquuttat, Okutat
@@ -3613,7 +3612,7 @@ Paakitsup Ilorlia, Illordlek, Pâkitsup Ilordlia
 Paakitsup Nunaa, Pâkitsup Nuna
 Paamiut Kommuniat, Frederikshaab Distrikt, Frederikshåb, Frederikshåb District, Paamiut, Pâmiut
 Paannaat, Panat, Pângnât
-Paarliit, Pardleet, Pârdlît, Pârdtlit
+Paarliit, Pardleet, Pârdlit, Pârdtlit
 Paarnaqqortuut, Paonarqortût
 Paarnaqussuit Qaavat, Paornaqussuit Qâvat
 Paarnat
@@ -3929,7 +3928,6 @@ Qammik, Oámik, Qámik
 Qammiup Affarlikassaa, Qámip Agfardlikavsâ
 Qammiup Kangilequtikassaa, Qámip Kangilequtikavsa
 Qamusivik
-Qaneq, Gaffelø, Kanek, Kanekø
 Qanertartarpik
 Qangatajâp Karra
 Qangátap Kûa
@@ -3953,9 +3951,9 @@ Qaqortup Qaqqaa, Qaqortoq, Qaqortup Qáqâ
 Qaqqaa
 Qaqqaliaq, Qáqaliaq
 Qaqqaq Putulik, Qáqaq Putulik
-Qaqqarsuaq, Kakarssuak, Kakarsuak, Kakersuak, Kingorsuak, Qaqarssung, Qáqârssuaq
+Qaqqarsuaq, Kakarssuak, Kakarsuak, Kakersuak, Kingorsuak, Qaqarssuaq, Qaqarssung
 Qaqqarsuatsiaq, Qáqarssuatsiaq
-Qaqqatsiaq, Kakatorsuak, Kakatsiak, Kakortorssuak, Qaqatorssuaq, Qáqatsiaq
+Qaqqatsiaq, Kakatorsuak, Kakatsiak, Kakortorssuak, Qaqatorssuaq, Qaqatsiaq
 Qaqugdluit
 Qaqujaarsuaq, Qaqujârssuaq, Smithson Mountains
 Qaqulluit
@@ -3994,10 +3992,10 @@ Qasigiarmiut
 Qasigiarssuit
 Qasigisat
 Qasigisat Kangera, Qasigissat Kangera
-Qasigissat, Afirm, Kasigisat, Kasigisut, Orsúluviak, Qasigtssat
 Qasigissat Kingittuat, Qasigíssat Kingigtuat
 Qasigissat Kuussuat, Qasigíssat Kûgssuat
-Qasinngortooq, Kasingortok, Qasíngortôq
+Qasigíssat, Afirm, Kasigisat, Kasigisut, Orsúluviak, Qasigtssat
+Qasinngortooq, Kasingortok, Qasingortoq
 Qasinngortuup Immikkoortukajaa, Nagtoralik, Qasingortuq Ingmikórtukajá, Qasingortûp Ingmíkôrtukajâ
 Qasinngortuup Kangertiva, Qasingortûp Kangerdlua, Qasíngortûp Kangertiva
 Qassersuaq, Kagsersuak, Kagsserssuak, Qagsserssuaq, Qagssersuaq
@@ -4032,7 +4030,6 @@ Qeqertakavsait
 Qeqertakavsak, Kekertakasak
 Qeqertalik, Kekertalik
 Qeqertalâp Tasia
-Qeqertanguaq
 Qeqertangussákuluk
 Qeqertannguaq
 Qeqertannguit, Qeqertánguit
@@ -4052,7 +4049,7 @@ Qeqertarsuaq Avalleq, Qeqertarssuaq Avatdleq
 Qeqertarsuaq Kommune, Godhavn, Godhavn District, Qeqertarssûp, Qeqertarsuup
 Qeqertarsuasik, Qeqertarssuasik
 Qeqertarsuatsiaq, Qeqertarssuatsiaq
-Qeqertarsuit, Ederfugle Øer, Eider Duck Islands, Eider Duck Øer, Kekertarssuit, Kekertarsuit, Ketartik, Manson Øer, Qeqertârssuit, Qeqertûrssuit
+Qeqertarsuit, Ederfugle Øer, Eider Duck Islands, Eider Duck Øer, Kekertarssuit, Kekertarsuit, Ketartik, Manson Øer, Qeqertarssuit, Qeqertûrssuit
 Qeqertarsuup Kuussua, Qeqertârssup Kûgssua
 Qeqertarsuup Qaqqaa, Qeqertârssûp Qáqâ
 Qeqertarsuup Sermia, Qeqertarssûp Sermia
@@ -4066,6 +4063,7 @@ Qeqertatsiaq
 Qeqertaussap Iterdlâ
 Qeqertaussap Kujalê
 Qeqertaussarssuaq
+Qeqertánguaq
 Qeqertángue
 Qeqertârssugdlup Nunâ
 Qeqertârssugssuaq
@@ -4115,7 +4113,6 @@ Qingaarsuup Nunaa, Qingârssûp Nunâ
 Qingaasarsuaq, Qingaussarssuaq
 Qingaatsiaq, Kangatsiaq, Qingâtsiaq
 Qingalik
-Qingaq, Kingak
 Qingartaq
 Qingartarssuaq
 Qingartaulakajik
@@ -4129,6 +4126,7 @@ Qingaussaq
 Qingmerssuit
 Qingmit
 Qingmiuneqarfik, Qingmiunerqarfik
+Qingâq, Kingak
 Qingârssuaq
 Qingârssuk
 Qingârssûp Qâva
@@ -4261,6 +4259,7 @@ Qâgigsoq
 Qâgssuk
 Qâgtorfît
 Qâjugfik
+Qâneq, Gaffelø, Kanek, Kanekø
 Qârajugtoq, Arsalik
 Qârajugtuaraq
 Qârneq
@@ -4447,16 +4446,16 @@ Røskva Gletscher
 S. Thomsen Pynt, S. Thomsens Pynt
 Saajat
 Saarlia, Sârdlia
-Saarloq, Sagdloq, Sardlog, Sardlok, Sârdlat, Sârdloq
+Saarloq, Sagdloq, Sardlog, Sardlok, Sardloq, Sârdlat
 Saarlup Tasersua, Sârdlup Taserssua
-Saattoq, Saitok, Satut, Sâtoq, Sãtok, Søndre Saitok
+Saattoq, Saitok, Satok, Satoq, Satut, Søndre Saitok
 Saattoqqissut, Sãtorqigsut
 Saattuaqqat, Sãtuarqat
 Saattuarsuit
 Saattui, Sãtue
 Saattunnguit, Sâtunguit
 Saattunnguit Kangilliit, Sâtúnguit
-Saattut, Satok, Sâtoq, Sãtut
+Saattut, Satok, Sâtoq, Sâtut
 Sabine Ø, Sabine Island
 Sabine Øer, Sätut
 Saddelbjerg, Saddelbjærg, Sadelbjerg
@@ -4524,7 +4523,7 @@ Sangujãnguit
 Sankt George Fjord, Saint George Fjord
 Sankt Vitus
 Sannerut
-Sanningasoq, Sáningassoq
+Sanningasoq, Saningassoq
 Sanningasorsuaq, Sáningassorssuaq
 Sapulik
 Saputit, Saputi
@@ -4550,7 +4549,7 @@ Sarfaq Pynt
 Sarfardlisivik
 Sarfarssuaq, Sarfartôq
 Sarfarssup Nûa
-Sarfartooq, Sarfartôq, Sarfertok River, Sarfortok River
+Sarfartooq, Sarfartoq, Sarfertok River, Sarfortok River
 Sarfartuup Nunaa, Sarfartûp Nunâ
 Sarfat
 Sarfat Âriât
@@ -4705,7 +4704,6 @@ Simiugaq
 Simiutai
 Simiutaluk
 Simiutannguit, Simiutat, Simiutánguit
-Simiutaq, Cruncher Island, Davis Island, Simiutag, Simiutak, Simiutak island, Simiutalc, Siniutak
 Simiutarssuaq, Simiutarsuak
 Simiuttat, Simiutat Öer, Simiútat
 Simiutánguaq
@@ -5060,6 +5058,7 @@ Sælen
 Sælsø, Sael Lake, Seal Lake, Soelsöen, Sælsöen
 Sælsø Gletscher
 Sêrsínínguaq
+Símiutaq, Cruncher Island, Davis Island, Simiutag, Simiutak, Simiutak island, Simiutalc, Siniutak
 Síneriaq, Sinariek
 Sôlo Sund, Solos Sound
 Sø Dalen
@@ -5103,7 +5102,7 @@ Sûnêrâjiva
 T. Pedersen Land, Th Pedersen Land
 Taartoq, Tartoq
 Taateraakasik, Taateraatkasik, Taterakasit, Tateratkasik, Tâterâkajik, Tâterâkasik
-Taateraat, Mount Atter, Tâterât, Tâterât Tunuat
+Taateraat, Mount Atter, Taterat, Tâterât Tunuat
 Taateraat Kangerlua, Tâterât Kangerdluat
 Taateraat Nuuat, Tâterât Nûat
 Taateraat Qaqqaat, Tâterat Qáqât
@@ -5338,7 +5337,7 @@ Tugtuligssûp Tugtoqarfia
 Tugtulîgssûp
 Tuilissuaq, Tuniligsiak, Tuviligssuaq
 Tukingaleq, Jaern Island, Jernø, Jærnø
-Tukingasoq, Hovedet Ö, Tukingasok, Tukingássoq
+Tukingasoq, Hovedet Ö, Tukingasok, Tukingassoq
 Tukiserdlugtoq
 Tullerunnat, Tugdlerûnat
 Tulortût
@@ -5608,7 +5607,7 @@ Uummannap Sullua, Umanak Channel, Ûmánap Suvdlua
 Uummannap Tasiilaa, Ûmánap Tasîlâ
 Uummannap Timaa, Ûmánap Timâ
 Uummannap Tunoqquttariaa, Ûmánap Tunorqútariâ
-Uummannaq, Dundas Fjeld, Mount Dundas, Sugar Loaf, Thule Fjeld, Torstein Islænder, Torstein Islænderø, Umanak Area, Umanak Island, Umanaq, Ûmának
+Uummannaq, Dundas Fjeld, Mount Dundas, Sugar Loaf, Thule Fjeld, Torstein Islænder, Torstein Islænderø, Umanak, Umanak Area, Umanak Island, Umanaq
 Uummannaq Fjord, Umanak Fjord, Umanaks Fjord
 Uummannaq Kommune, Umanak Distrikt, Uummannaq District
 Uummannarsuaq, Ûmánarssuaq
@@ -5804,6 +5803,7 @@ Zoologdalen
 Ímajuitsoq Kangigdleq
 Ímajuitsoq Kitdleq
 Íngiup Nûa
+Ísúngua, Sunqua
 Île-de-France, Isle de France, Qeqertaq Prins Henrik
 Îles Françaises, Îles Francaise
 Îsissortoq

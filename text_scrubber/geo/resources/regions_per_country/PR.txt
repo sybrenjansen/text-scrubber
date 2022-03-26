@@ -100,7 +100,6 @@ Añasco, ANA, Donde los dioses Mueren
 Añasco Abajo Barrio
 Añasco Arriba Barrio
 Añasco Barrio-Pueblo
-Bahia de Guanica, Guanica Bay
 Bahia de Ponce, Ponce Harbor
 Bahomamey Barrio
 Bahía Algodones, Algodones Bay, Bahia de Algodones
@@ -132,6 +131,7 @@ Bahía de Almodóvar, Caldera Basin, The Basin
 Bahía de Añasco
 Bahía de Boquerón, Boqueron Bay
 Bahía de Fajardo
+Bahía de Guánica, Guanica Bay
 Bahía de Jauca
 Bahía de Jobos
 Bahía de Majagua, Bahia Demajagua, Bahia Majagua, Majagua Bay
@@ -406,7 +406,7 @@ Catarata Coca, Cascada La Coca, La Coca Falls
 Catarata de la Mina, La Mina Falls
 Cataño Barrio
 Cataño Barrio-Pueblo
-Cataño Municipio, CAT, Cataño
+Cataño Municipio, CAT, Catano
 Catedral Subbarrio
 Cayaguas Barrio
 Cayey Barrio-Pueblo
@@ -464,7 +464,7 @@ Cayo Verde
 Cayo Viejo
 Cayo Vieques
 Cayo Yerba
-Cayo de Luis Peña, Luispeña, Luispeña Cay, Southwest Cay
+Cayo de Luis Peña, Luispena Cay, Luispeña, Southwest Cay
 Cayo de Tierra, Cayo de Afuera
 Cayo del Agua, Cayo Agua
 Cayos Cabezazos
@@ -1031,7 +1031,7 @@ Gurabo Municipio, GUR, Gurabo
 Guzmán Abajo Barrio
 Guzmán Arriba Barrio
 Guánica Barrio-Pueblo
-Guánica Municipio, GNC, Guánica
+Guánica Municipio, GNC, Guanica
 Guásimas Barrio
 Hatillo Barrio
 Hatillo Barrio-Pueblo
@@ -1128,7 +1128,7 @@ Isla de Mona e Islote Monito Barrio
 Isla de Ramos, Cayo Ramos, Ramos Cay
 Isla de Ratones, Ratones Island
 Isla de las Palomas
-Isla del Frio, Cayo Frio, Cayos Fríos, Frio Islands, Isla del Erio
+Isla del Frio, Cayo Frio, Cayos Frios, Frio Islands, Isla del Erio
 Isleta Marina, Cayo Obispo, Cayo Zancudo, Isla Marina, Ysla del Obispo, Zancudo Cay
 Isleta de San Juan
 Isletas de Garzas, Garzas Islets, Grazas Isletas
@@ -1162,7 +1162,7 @@ Juan González Barrio
 Juan Martín Barrio
 Juan Sánchez Barrio
 Juana Díaz Barrio-Pueblo
-Juana Díaz Municipio, JUA, Juana Díaz
+Juana Díaz Municipio, JUA, Juana Diaz
 Juncal Barrio
 Juncos Barrio-Pueblo
 Jácana Barrio
@@ -1293,7 +1293,7 @@ Las Lavanderas, Lavandera Rocks
 Las Lavanderas del Este, East Lavandera Rock
 Las Lavanderas del Oeste, Roca Lavandera del Oeste, West Lavandera Rock
 Las Marías Barrio-Pueblo
-Las Marías Municipio, LMA, Las Marías
+Las Marías Municipio, LMA, Las Marias
 Las Marías Subbarrio
 Las Mesas
 Las Monjas Subbarrio
@@ -1340,7 +1340,7 @@ Los Pozos Beach
 Los Sumideros
 Los Tres Picachos, Three Peaks
 Loíza Barrio-Pueblo
-Loíza Municipio, LOI, Loíza
+Loíza Municipio, LOI, Loiza
 Loíza Subbarrio
 Luis A Ferre Science Park, Luis A Ferre Parque de la Ciencias, Parque de la Ciencias Luis A Ferre
 Luis Pena Beach
@@ -1374,7 +1374,7 @@ Mameyes Arriba Barrio
 Mameyes I Barrio
 Mameyes II Barrio
 Manatí Barrio-Pueblo
-Manatí Municipio, MAN, Manatí
+Manatí Municipio, MAN, Manati
 Manchas Banks, Manchas Bank
 Manchas Chicas, Machos Chicos, Manchos Chicos
 Manchas Exteriores, Manchas Exteriors, Outer Machos, Outer Mancha Reef, Outer Manchos
@@ -1419,7 +1419,7 @@ Mayaguez Mall
 Mayaguez Zoo, Parque Zoologico, Zoorico Park
 Mayagüez Arriba Barrio
 Mayagüez Barrio-Pueblo
-Mayagüez Municipio, MAY, Mayagüez
+Mayagüez Municipio, MAY, Mayaguez
 Mayagüez PR Metro Area, Mayagüez PR
 Media Luna Barrio
 Medianía Alta Barrio
@@ -1596,7 +1596,7 @@ Parque Marcelino Blondet
 Parque Maros A Massini
 Parque Montaner
 Parque Muñoz Rivera, Munoz Rivera Park
-Parque Nacional Isla de Cabras, Área Recreativa El Cañuelo
+Parque Nacional Isla de Cabras, Area Recreativa El Canuelo
 Parque Paraiso
 Parque Pedro M Caratini
 Parque Pedro Millan Clara
@@ -1674,7 +1674,7 @@ Peñon de San Jorge
 Peñon de los Soldados
 Peñones de Melones
 Peñuelas Barrio-Pueblo
-Peñuelas Municipio, PEN, Peñuelas
+Peñuelas Municipio, PEN, Penuelas
 Pica Barrio
 Picacho de la Tea
 Pico Atalaya
@@ -2234,7 +2234,6 @@ Quebrada Indalecia
 Quebrada Infierno
 Quebrada Infierno Barrio
 Quebrada Irizarry
-Quebrada Jacana
 Quebrada Jacinta
 Quebrada Jaguas
 Quebrada Jagüeyes
@@ -2248,6 +2247,7 @@ Quebrada Juan
 Quebrada Juan Diego
 Quebrada Juan González
 Quebrada Justo
+Quebrada Jácana
 Quebrada Júa
 Quebrada La Balza
 Quebrada La Caraima
@@ -2382,7 +2382,7 @@ Quebrada Pasto Viejo
 Quebrada Pastrana
 Quebrada Patos
 Quebrada Peces
-Quebrada Pedro Avila
+Quebrada Pedro Ávila
 Quebrada Pepe Lugo
 Quebrada Pepinera
 Quebrada Perchas
@@ -2546,7 +2546,6 @@ Rincón Barrio-Pueblo
 Rincón Grande
 Rincón Municipio, RIN, Rincon
 Rio
-Rio Canas
 Rio Canas (cruzando la calle Villa)
 Rio Frío
 Rio Pastillo (cruzando J. del Caribe 3ra Seccion)
@@ -2615,6 +2614,7 @@ Río Cayures
 Río Caín
 Río Cañaboncito
 Río Cañabón
+Río Cañas
 Río Cañas Abajo Barrio
 Río Cañas Arriba Barrio
 Río Cañas Barrio
@@ -2821,7 +2821,7 @@ San Felipe Subbarrio
 San Francisco Plaza, La Baradilla
 San Francisco Subbarrio
 San Germán Barrio-Pueblo
-San Germán Municipio, SGE, San Germán
+San Germán Municipio, SGE, San German
 San Germán PR Metro Area, San Germán PR
 San Ildefonso Barrio
 San Isidro Barrio
@@ -2909,7 +2909,7 @@ Tlerra a Medio
 Toa Alta Barrio-Pueblo
 Toa Alta Municipio, TAL, Toa Alta
 Toa Baja Barrio-Pueblo
-Toa Baja Municipio, La Ciudad Bajo Aguas, Municipio de Toa Baja, TBA, Toa-Baja
+Toa Baja Municipio, La Ciudad Bajo Aguas, Municipio de Toa Baja, TBA, Toa Baja
 Tomás de Castro Barrio
 Toro Negro Barrio
 Torre Barrio
@@ -2957,7 +2957,7 @@ Vegas Barrio
 Veguitas Barrio
 Venezuela Subbarrio
 Victoria Barrio
-Vieques Island, A-Oraua, Ay-Ay, Beique, Beiques, Bieke, Borequen, Boriquem, Crab Island, Island of Vieques, Isle Bieque, La Isla Nene, Las Islas Inutiles, Santa Ursula, The Sugar Island, Vieque, Vieques, Viequez Island
+Vieques Island, A-Oraua, Ay-Ay, Beique, Beiques, Bieke, Borequen, Boriquem, Crab Island, Isla Vieques, Isle Bieque, La Isla Nene, Las Islas Inutiles, Santa Ursula, The Sugar Island, Vieque, Vieques, Viequez Island
 Vieques Municipality, VIE, Vieques
 Vieques National Wildlife Refuge
 Vigía Subbarrio

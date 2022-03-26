@@ -122,7 +122,7 @@ Berovo, Opština Berovo, Општина Берово
 Besvica, Бесвица
 Bezovo
 Bešište, Бешиште
-Bibanje, Бибај
+Bibanje, Bibaj
 Bidžovo, Bidževo, Биџово
 Bigor Dolenci, Бигор Доленци
 Biljanovce, Биљановце
@@ -194,7 +194,7 @@ Breznica, Borovska Breznica, Bresnica, Brezica, Брезница
 Brezno
 Brezovec, Брезовец
 Brezovo
-Breštani, Брештани
+Breštani, Breshtani
 Brežani, Brešani, Брежани
 Brnarci, Brnjarce, Brnjarci, Брњарци
 Brnik
@@ -599,7 +599,7 @@ Gorno Jabolchishte, Gornje Jabolčište, Gorno Jabolciste
 Gorno Jelovce, Gorno Jelovci, Горно Јеловце
 Gorno Karaslari
 Gorno Količani, Gornje Količane, Gorno Količane, Горно Количани
-Gorno Konjare, Gorno Kojnare, Gorno Kojnari, Gureler, Jokari, Горно Коњари
+Gorno Konjare, Gorno Kojnare, Gorno Kojnari, Gorno Konjari, Gureler, Jokari
 Gorno Kosovrasti, Kosovrashti i Sipërme
 Gorno Krušje, Gornja Krušija, Gornje Krušje, Горно Крушје
 Gorno Lakočerej, Gorno Lakočerje, Gorno-Lakočeri, Горно Лакочереј
@@ -676,7 +676,7 @@ Hudaverlija, Худаверлија
 Idrizovo
 Ignjatovska Maala
 Ilijaševci, Илијашевци
-Ilinden, Ilinden Municipality, Opština Ilinden, Белимбегово, Општина Илинден
+Ilinden, Belimbegovo, Ilinden Municipality, Opština Ilinden, Општина Илинден
 Ilino
 Iliovska Maala
 Ilovica, Иловица
@@ -836,9 +836,9 @@ Kolerska Maala
 Kolevska Maala
 Kolešino, Колешино
 Kolibari
-Kolicko, Колицко
+Kolicko, Kolitsko
 Kolipska Maala
-Kolonija, Колонија Идризово
+Kolonija, Kolonija Idrizovo
 Koloverska Mahala, Koloverska Maala, Koloversko Maalo, Коловерска Махала
 Kolčaci, Колчаци
 Kondovo
@@ -906,7 +906,7 @@ Krivi Vrt
 Krivogashtani, Krivogastani, Krivogaštane
 Krivolak
 Krivoramska Maala
-Krkla, Кркља
+Krkla, Krklja
 Krklino, Krklinovo
 Krlevska Maala
 Krmalnik
@@ -920,10 +920,10 @@ Krsto
 Krstoar, Hristifor, Krstaor, Krstioar, Krstor
 Krstovska Maala
 Krupište, Крупиште
-Krusevo, Krušovo, Крушево
 Kruša, Круша
 Krušeani, Kruševljane, Крушеани
 Kruševica, Krušeica, Krušejca, Крушевица
+Kruševo, Krušovo, Крушево
 Krušica, Крушица
 Krušje, Круша, Крушје
 Kruška, Крушка
@@ -987,7 +987,6 @@ Lepanovci, Лепановци
 Lepopelci, Lepepelc, Lepepelci, Лепопелци
 Lepoviḱ Maala, Lepović Maala
 Lera
-Leski, Leška, Лешки
 Leskoec, Leskovec, Лескоец
 Leskovica, Лесковица
 Leskovo
@@ -999,6 +998,7 @@ Leva Reka
 Levkovci, Левковци
 Lezovo
 Lešani, Lešane, Лешани
+Leški, Leska, Лешки
 Lešnica, Лешница
 Lešok, Lešak, Лешок
 Lingorovci, Лингоровци
@@ -1211,7 +1211,7 @@ Negrevo
 Nemanjica, Nemanci, Nemanici, Nemanjici, Nemanjinci, Немањица
 Neokazi
 Neprošteno, Andrejevo, Непроштено
-Nerašte, Нераште
+Nerašte, Nerashte
 Nerezi
 Nevenska Maala
 Nezhilovo, Nezilovo
@@ -1222,7 +1222,7 @@ Nikodin, Nikodim
 Nikolajci, Nilolajci, Николајци
 Nikolenci, Николенци
 Nikolinci, Николинци
-Nikoliḱ, Nikolići, Nikolič
+Nikoliḱ, Nikolić, Nikolići
 Nikolovci, Николовце
 Nikolovska Maala
 Nikoman
@@ -1579,10 +1579,10 @@ Ruljak
 Rupje
 Rusinovo
 Rusjaci, Русјаци
-Ržanovo, Arzhano, Ржаново
+Ržanovo, Arzhano, Rzhanovo
 Saiska Maala
 Salaska Maala, Salaska Mahala
-Samoilovo, Самуилово
+Samoilovo, Samuilovo
 Samokov, Samakov
 Sapatoec, Сапатоец
 Sarafatska Maala
@@ -1745,7 +1745,7 @@ Strmoš, Стрмош
 Strovija, Stroja, Strovja
 Struga, Opština Struga, Ustrugha, Општина Струга
 Strugovo
-Strumica, Opština Strumica, Stromitza, Stromnitsa, Stromnitza, Stroumitsa, Strumitza, Ustrumcha, Општина Струмица, Струмица
+Strumica, Opština Strumica, Stromitza, Stromnitsa, Stromnitza, Stroumitsa, Strumitsa, Strumitza, Ustrumcha, Општина Струмица
 Stublica, Стублица
 Stubljanci, Стубљанци
 Studena Bara
@@ -1899,7 +1899,7 @@ Vataša, Ваташа
 Vatlino
 Vašarejca, Вашарејца
 Vejce, Vejice, Вејце
-Velebrdo, Веле Брдо
+Velebrdo, Vele Brdo
 Veles, Köprülü, Opština Veles, Titov Veles, Velessa, Општина Велес
 Veleselo
 Velesta, Velešte, Велешта
@@ -2074,7 +2074,7 @@ Zvezdinska Maala
 Šašavarlija, Šašavarli, Šašavarlije, Шашаварлија
 Šebovska Maala, Шебовска Маала
 Šeleverci, Шелеверци
-Šemševo, Šemšovo, Шемшево, Шемшово
+Šemševo, Shemshevo, Šemšovo, Шемшово
 Šeškovo, Шешково
 Šindarci, Шиндарци
 Šipak Maala, Шипак Маала

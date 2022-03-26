@@ -3429,7 +3429,7 @@ Cam Beck
 Cam Chriochan
 Cam Loch
 Camalaig Bay
-Camas Ban
+Camas Bàn
 Camas Chil Mhalieu, Camas Cilmalieu, Kilmalieu Bay
 Camas Chrònaig, Cronaig Bay
 Camas Croise, Loch Camus Cross, Loch Camuscroise
@@ -3599,7 +3599,6 @@ Carn Aosda
 Carn Base
 Carn Brea
 Carn Brea (Monument)
-Carn Dearg
 Carn Ealasaid, Càrm Ealasaid
 Carn Ghluasaid
 Carn Guthensbrâs, Guethensbras Point
@@ -4754,7 +4753,7 @@ Cotleigh
 Coton
 Coton in the Elms
 Cotswold District
-Cotswold Hills, The Cotswolds
+Cotswold Hills, Cotswolds
 Cottam
 Cottenham
 Cottered
@@ -5227,6 +5226,7 @@ Càrn Bhren
 Càrn Breac
 Càrn Bàn
 Càrn Bàn Mòr
+Càrn Dearg
 Càrn Eige, Cairn Eige
 Càrn Eàs, Cairn Eas
 Càrn Glas-choire, Carn Glas
@@ -6276,7 +6276,7 @@ Eilean nan Coinein
 Eilean nan Each
 Eilean nan Gabhar
 Eilean nan Gobhar
-Eilean nan Ron, Eilean-nan-Roan, Roan Island, Seal Island
+Eilean nan Ròn, Eilean-nan-Roan, Roan Island, Seal Island
 Eisteddfa Gurig, Steddfa-gurig
 Elan Valley
 Elberry Cove
@@ -8215,7 +8215,6 @@ Gwendraeth Fawr
 Gwendraeth Fâch
 Gwennap
 Gwennap Head
-Gwent, Ceremonial County Gwent
 Gwernaffield
 Gwernyfed
 Gwernymynydd
@@ -11432,8 +11431,8 @@ Loch Ceann Traigh
 Loch Chon
 Loch Ciaran
 Loch Claidh, Loch Clay
-Loch Clair
 Loch Cluanie, Cluanie
+Loch Clàir
 Loch Coire
 Loch Coire Làir
 Loch Coire an Lochain
@@ -11875,7 +11874,7 @@ Loch an Daimh, Loch na Daimh
 Loch an Dithreibh, Loch an Deerie
 Loch an Duin, Loch na Duin
 Loch an Eilein
-Loch an Eoin
+Loch an Eòin
 Loch an Lagain, Laggan
 Loch an Laoigh
 Loch an Leathaid Bhuain, Loch Ledvuan
@@ -13119,6 +13118,7 @@ Monkton
 Monkton Combe
 Monkton Farleigh
 Monlough
+Monmouth, Ceremonial County Gwent, Gwent
 Monmouthshire, County of Monmouthshire, MON, Monmouthshire principal area
 Monovolikos
 Monreith Bay, Monrieth Bay
@@ -13741,7 +13741,7 @@ Norbury
 Norbury and Roston
 Nordelph
 Nore Hill
-Nore Sand, Nore Sands, The Great Nore, The Nore
+Nore Sand, Great Nore, Nore, Nore Sands
 Norfolk, Ceremonial County Norfolk, County of Norfolk, NFK
 Norham
 Norley
@@ -14982,7 +14982,7 @@ Porlock Bay
 Port Arnol, Port Arnoil
 Port Aslaig
 Port Ballintrae
-Port Ban, Port Bhan
+Port Bàn, Port Bhan
 Port Castle Bay
 Port Crannaich, Port Cranaigh
 Port Donain, Port Donna
@@ -15931,7 +15931,7 @@ River Menalhyl
 River Meoble, Meoble
 River Meon, Meon
 River Mersey, Mersey
-River Mint, The Mint
+River Mint, Mint
 River Misbourne
 River Moidart
 River Mole, Mole
@@ -16384,9 +16384,9 @@ Rudh' Ard Na Bà
 Rudh' a Bhuachaille
 Rudh' a' Choin
 Rudh' a' Phuill Bhig, Rudh a Phuill Beg
-Rudha Ban
 Rudha Bhilidh, Bhilidh, Ru Bheille
 Rudha Bocaig
+Rudha Bàn
 Rudha Chàrnain, Ru Carnan
 Rudha Cluer, Ru Cluer
 Rudha Cuil-cheanna, Culchenna Point
@@ -16823,7 +16823,7 @@ Scotsmans Sled
 Scotstown Head
 Scott Oil Field
 Scotter
-Scottish Highlands, Highlands of Scotland, The Highlands
+Scottish Highlands, Highlands, Highlands of Scotland
 Scotton
 Scottow
 Scoulton
@@ -17005,7 +17005,6 @@ Sgurr Choinnich Mor
 Sgurr Fhuar-thuill, Sgurr Fuar-thuill
 Sgurr Fhuaran, Scour Ouran
 Sgurr Fiona
-Sgurr Mor
 Sgurr a' Bhealaich Dheirg
 Sgurr a' Ghreadaidh, Sgurr a' Ghreadhaidh
 Sgurr an Doire Leathain
@@ -17021,7 +17020,6 @@ Sgurr na Mòraich
 Sgurr nan Caorach
 Sgurr nan Coireachean
 Sgurr nan Eag
-Sgurr nan Gillean, Scuir nan Gillean
 Sgurr nan Gobhar
 Sgurr nan Saighead
 Sgurr nan Spainteach
@@ -17035,6 +17033,7 @@ Sgùrr Dhomhnuill, Sgor Dhomhail
 Sgùrr Dubh Mor
 Sgùrr Eilde Mòr
 Sgùrr MhicChoinnich, Sgurr Mhic Choinnich
+Sgùrr Mòr
 Sgùrr Thuilm
 Sgùrr a' Chaorachain, Sgur Chaoruinn
 Sgùrr a' Choire Ghlais, Sgurr Choire Chlais
@@ -17053,6 +17052,7 @@ Sgùrr nan Clach Geala
 Sgùrr nan Coireachan, Coirechan
 Sgùrr nan Conbhairean, Sgur nan Conbhairean
 Sgùrr nan Each
+Sgùrr nan Gillean, Scuir nan Gillean
 Shabbington
 Shackerstone
 Shackleford
@@ -19978,7 +19978,7 @@ Underskiddaw
 Ungam
 Ungla Skerry
 Union Canal
-United Kingdom of Great Britain and Northern Ireland, UK, United Kingdom
+United Kingdom of Great Britain and Northern Ireland, U.K., United Kingdom
 Unst, Unst Island
 Unstone
 Unthank Burn

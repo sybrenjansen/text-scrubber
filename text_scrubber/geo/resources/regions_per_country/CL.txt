@@ -148,7 +148,7 @@ Aguada El Cura
 Aguada El Estanque, Aguada del Estanque
 Aguada El Milagro
 Aguada El Molle, Aguada Agua de Samit
-Aguada El Peñon
+Aguada El Peñón
 Aguada El Quemado
 Aguada El Romerito
 Aguada El Romero
@@ -458,7 +458,7 @@ Alejo
 Alerce Andino National Park
 Algarrobito
 Algarrobo
-Alhue
+Alhué
 Alico
 Allen Point
 Allipen
@@ -682,7 +682,6 @@ Apiñilco
 Ara Poto
 Arauco
 Arboleda Grande
-Archipielago Wellington
 Archipiélago Campana
 Archipiélago Guayaneco, Islas Guayaneco
 Archipiélago Juan Fernández, Islas Juan Fernández, Islas de Juan Fernández, Juan Fernandez Islands
@@ -693,6 +692,7 @@ Archipiélago North
 Archipiélago Reina Adelaida
 Archipiélago Santa Inés
 Archipiélago Señoret
+Archipiélago Wellington
 Archipiélago de Chiloé
 Archipiélago de Hanover
 Archipiélago de los Chonos, Archipiélago de Guaitecas
@@ -845,20 +845,17 @@ Avanzada Caman
 Ayavire
 Añilco
 Baguales
-Bahia Agua Fresca, Bahía Agua Buena i Dulce, Bahía Freshwater, Bahía de Agua Dulce, Baie Duclos, Caleta Agua Fresca
 Bahia Asashuaia
 Bahia De Valdivia
 Bahia De Valparaiso
-Bahia Harris
 Bahia Herradura Guayacan
-Bahia Quintero, Ventanas
-Bahia San Vicente
 Bahia de Pisagua, Pisagua Bay
 Bahía Abrigada
 Bahía Acosta
 Bahía Adelaida
 Bahía Adriana, Puerto Adriana
 Bahía Adventure, Bahía Aventura
+Bahía Agua Fresca, Bahía Agua Buena i Dulce, Bahía Freshwater, Bahía de Agua Dulce, Baie Duclos, Caleta Agua Fresca
 Bahía Ainsworth
 Bahía Albatros, Bahía Albatross, Fiordo Albatros, Seno Albatross
 Bahía Albuquerque, Bahía Arbuquerque
@@ -1039,6 +1036,7 @@ Bahía Halt
 Bahía Hamper, Caleta Hamper
 Bahía Hannant
 Bahía Harriet
+Bahía Harris
 Bahía Hartwell
 Bahía Hately
 Bahía Havergal
@@ -1193,6 +1191,7 @@ Bahía Quellón
 Bahía Queta, Bahía Keta
 Bahía Queule
 Bahía Quillaipe
+Bahía Quintero, Ventanas
 Bahía Rafagales
 Bahía Ralún
 Bahía Rebolledo
@@ -1220,6 +1219,7 @@ Bahía San Pedro, San Pedro Bay
 Bahía San Quintín
 Bahía San Rafael
 Bahía San Ramón
+Bahía San Vicente
 Bahía Sandy
 Bahía Santiago
 Bahía Sarco
@@ -1818,7 +1818,7 @@ Cabo San Antonio
 Cabo San Isidro, Cabo de la Caña
 Cabo San Mateo, Cape San Mateo
 Cabo San Román
-Cabo San Simón, St. Simon Head
+Cabo San Simón, Saint Simon Head
 Cabo San Vicente
 Cabo Sandwich
 Cabo Santa Lucía
@@ -3298,7 +3298,7 @@ Cerro Angostura, Cerro de la Angostura
 Cerro Anillos
 Cerro Antivillaco
 Cerro Antuco
-Cerro Anzuelo, Cerro del Anzuelo
+Cerro Anzuelo, Cerro Del Anzuelo
 Cerro Apacheta
 Cerro Apacheta Choquelimpie
 Cerro Aparejo
@@ -3328,7 +3328,6 @@ Cerro Arqueado de Barrera
 Cerro Arqueros
 Cerro Arrayán
 Cerro Artillero
-Cerro Aspero
 Cerro Asta
 Cerro Astagani
 Cerro Astillas
@@ -3606,12 +3605,12 @@ Cerro Carncross
 Cerro Carnero
 Cerro Carolina
 Cerro Carpa
-Cerro Carran, Carrán-Los Venados, Cerro Chiran, Cerro Riñanahue
 Cerro Carrasco, Monte Carrasco
 Cerro Carretón
 Cerro Carrizal
 Cerro Carrizalillo, Cerro El Carrizalillo
 Cerro Carrizo
+Cerro Carrán, Carrán-Los Venados, Cerro Chiran, Cerro Riñanahue
 Cerro Cartagena
 Cerro Carén
 Cerro Casa de Lata
@@ -3654,7 +3653,7 @@ Cerro Cayulafquén, Cerro Cavulafquén, Cerro Cuyulafquén
 Cerro Cayumanque
 Cerro Caña Brava
 Cerro Cañal
-Cerro Cañeten
+Cerro Cañetén
 Cerro Cañicu
 Cerro Cebollar
 Cerro Cebollar Viejo
@@ -3751,7 +3750,6 @@ Cerro Chehuequito
 Cerro Chela
 Cerro Chenchén
 Cerro Chepe
-Cerro Chepica
 Cerro Chequén
 Cerro Cheñe
 Cerro Chiarsaya, Cerro Charsaya
@@ -3822,10 +3820,10 @@ Cerro Churque
 Cerro Chuschampis
 Cerro Chuschul
 Cerro Chusquina
+Cerro Chépica
 Cerro Cicuinasa
 Cerro Cicuta
 Cerro Cielo
-Cerro Cienaga Redonda, Cerro Cienega Redonda
 Cerro Cifuentes
 Cerro Cifuncho, Cerros de Cifuncho
 Cerro Cimarrona
@@ -3837,6 +3835,7 @@ Cerro Cipullo
 Cerro Circular
 Cerro Ciruelo
 Cerro Ciénaga, Cerro Ciénago
+Cerro Ciénaga Redonda, Cerro Cienega Redonda
 Cerro Ciénagos Altos
 Cerro Clavel, Cerro Clave
 Cerro Clements
@@ -3897,7 +3896,6 @@ Cerro Concaven
 Cerro Concha
 Cerro Conchalí
 Cerro Conchi
-Cerro Condores
 Cerro Condoriri
 Cerro Condorito
 Cerro Cone
@@ -4010,8 +4008,8 @@ Cerro Cuptana, Monte Cuptana, Monte Nevado
 Cerro Curagua
 Cerro Curaguara
 Cerro Curamahue
-Cerro Curamahuida
-Cerro Curamavida, Cerro de Curamáhuida, Cerro de Curimavida
+Cerro Curamáhuida
+Cerro Curamávida, Cerro de Curamáhuida, Cerro de Curimavida
 Cerro Curaña
 Cerro Curcuncho
 Cerro Curillinque, Cerro Curillingua, Cerro Curillingue
@@ -4036,6 +4034,7 @@ Cerro Cáñamo
 Cerro César
 Cerro Cólico
 Cerro Cóndor
+Cerro Cóndores
 Cerro Cónico
 Cerro Córdova, Cerro Cordoba, Cerro Jarpa
 Cerro Dalla Vedova, Monte Dalla Vedova
@@ -4059,7 +4058,6 @@ Cerro Desnudo
 Cerro Diablo
 Cerro Diamante
 Cerro Diana
-Cerro Diaz
 Cerro Diego
 Cerro Diente
 Cerro Dirección, Direction Hill
@@ -4101,6 +4099,7 @@ Cerro Dulcinea
 Cerro Duplijsa
 Cerro Durazno
 Cerro Durán
+Cerro Díaz
 Cerro Echaurren
 Cerro Echegoyen
 Cerro El Abanico
@@ -4180,7 +4179,7 @@ Cerro El Escorial
 Cerro El Estribo
 Cerro El Fin
 Cerro El Ford
-Cerro El Fraile, Cerro El Fraille, Cerro de los Frailes, Nevado El Fraile
+Cerro El Fraile, Cerro El Fraille, Cerro de Los Frailes, Nevado El Fraile
 Cerro El Gallinero
 Cerro El Gallito
 Cerro El Gallo
@@ -4801,7 +4800,7 @@ Cerro La Niebla
 Cerro La Noria, La Noria
 Cerro La Nuez
 Cerro La Obra
-Cerro La Ola, Cerro de la Ola
+Cerro La Ola, Cerro de La Ola
 Cerro La Olla
 Cerro La Ollita
 Cerro La Overa
@@ -4908,7 +4907,6 @@ Cerro Larraín, Cerro Doctor Larraín
 Cerro Las Algarrobillas
 Cerro Las Almendras
 Cerro Las Amarillas
-Cerro Las Animas
 Cerro Las Arvejas
 Cerro Las Bandurias
 Cerro Las Bandurrias
@@ -5009,6 +5007,7 @@ Cerro Las Vizcachitas
 Cerro Las Yeguas
 Cerro Las Yeguas Heladas
 Cerro Las Águilas
+Cerro Las Ánimas
 Cerro Las Áuilas
 Cerro Latarana, Cerro de Lataraña, Cerro de Lateraña
 Cerro Latarani
@@ -5066,7 +5065,7 @@ Cerro Livilcar
 Cerro Lizana
 Cerro Liñeco
 Cerro Llacudo
-Cerro Llahuin
+Cerro Llahuín
 Cerro Llailane
 Cerro Llaillay, Cerros de Llay Llay
 Cerro Llaipén
@@ -5458,7 +5457,6 @@ Cerro Moncol
 Cerro Mondaquita
 Cerro Mongoles
 Cerro Monjas
-Cerro Mono
 Cerro Monos
 Cerro Monroy
 Cerro Montanito
@@ -5496,6 +5494,7 @@ Cerro Mostaza, Cerro Mostasa
 Cerro Mostazal
 Cerro Motrulo, Cerro Los Motrulos, Cerro Los Mutrulos
 Cerro Mozambique
+Cerro Moño
 Cerro Mulas
 Cerro Mulas Muertas, Cerro Mulas Muetas
 Cerro Mulato
@@ -5515,7 +5514,6 @@ Cerro Naguayán
 Cerro Naguel
 Cerro Nahuelbuta, Cerro Nahuelbut
 Cerro Naicura
-Cerro Name
 Cerro Nancaballo
 Cerro Nancagua
 Cerro Nancahue
@@ -5602,8 +5600,8 @@ Cerro Otaviata
 Cerro Otten
 Cerro Overo
 Cerro Oyarbide, Cerro Oyarvide, Monte Oyarvide
-Cerro Pabellon
 Cerro Pabellones
+Cerro Pabellón
 Cerro Pabellón de Pica
 Cerro Pabellón del Inca
 Cerro Pacheco
@@ -5869,7 +5867,7 @@ Cerro Piedras Redondas
 Cerro Piedras de Afilar
 Cerro Piedrudo de Las Diucas
 Cerro Piguchen
-Cerro Pihuchen
+Cerro Pihuchén
 Cerro Pila
 Cerro Pilar
 Cerro Pilares
@@ -6268,9 +6266,9 @@ Cerro San David
 Cerro San Diego
 Cerro San Esteban
 Cerro San Fabián
-Cerro San Felix
 Cerro San Francisco
 Cerro San Francisquito
+Cerro San Félix
 Cerro San Gabriel
 Cerro San Gregorio
 Cerro San Guillermo
@@ -6412,7 +6410,7 @@ Cerro Talquén
 Cerro Taltape
 Cerro Tamango
 Cerro Tamanguito
-Cerro Tamberia
+Cerro Tambería
 Cerro Tambillo Alto
 Cerro Tambillos
 Cerro Tambor, Cerro Tambar
@@ -6513,7 +6511,7 @@ Cerro Torquemada
 Cerro Torre Viejo
 Cerro Torrecilla
 Cerro Torrecillas
-Cerro Torrejon
+Cerro Torrejón
 Cerro Torrentorine
 Cerro Torretorreni
 Cerro Tortuga
@@ -6542,7 +6540,7 @@ Cerro Traslaviña
 Cerro Travesía
 Cerro Treguamahuida
 Cerro Tren Tren
-Cerro Trentren
+Cerro Trentrén
 Cerro Tres Astas
 Cerro Tres Cercas
 Cerro Tres Cerros
@@ -6970,6 +6968,8 @@ Cerro Álvarez
 Cerro Ángulo
 Cerro Ánimas
 Cerro Árbol Seco
+Cerro Áspero
+Cerro Ñame
 Cerro Ñanco
 Cerro Ñaqui
 Cerro Ñico
@@ -7230,7 +7230,6 @@ Chañaral
 Chañarcito, Ex-Estación Chañarcito
 Chelche
 Chelchel
-Chepica
 Cherquen
 Chiarcollo, Charcollo
 Chica
@@ -7241,7 +7240,7 @@ Chilean Antarctic Territory
 Chilean Sea
 Chilicauquén Alto
 Chilicauquén Bajo
-Chillan
+Chillán
 Chillán Viejo
 Chiloe Extreme Tour Operator
 Chimbarongo
@@ -7297,6 +7296,7 @@ Chunjullo Guaico
 Chupalla
 Chupiquiña
 Churchicha
+Chépica
 Ciclón
 Cienega Grande
 Cienega Redonda
@@ -8795,7 +8795,6 @@ Estero Conca
 Estero Concagua
 Estero Concavén, Estero de Concaven
 Estero Conchali
-Estero Cono, Estero Mulul, Fiordo Cono
 Estero Conquehue
 Estero Copahue
 Estero Copihue
@@ -8818,6 +8817,7 @@ Estero Cotgrave, Estuario Colgrave, Estuario Cotgrave, Fiordo Cotgrave, Seno Cot
 Estero Cotrauco, Estero Guanaco, Estero Guanco, Riachuelo Guauco
 Estero Coyanco, Estero de Coyanco, Quebrada Coyanco
 Estero Coñico
+Estero Coño, Estero Mulul, Fiordo Cono
 Estero Crosbie, Fiordo Crosbie, Fiordo Grosbie
 Estero Cuarto
 Estero Cucao, Estero Coral
@@ -9215,7 +9215,7 @@ Estero La Boquilla
 Estero La Cadena, Esteno de La Cadena, Estero Cadena, Estero Cadenas, La Cadena River
 Estero La Calchona
 Estero La Campana
-Estero La Candelaria, Arroyo de La Candelaria, Estero de la Candelaria
+Estero La Candelaria, Arroyo de La Candelaria, Estero de La Candelaria
 Estero La Canela
 Estero La Capilla
 Estero La Cascada
@@ -9368,7 +9368,7 @@ Estero Lehueluan, Estero Lahuelan
 Estero Leonera
 Estero Leuque
 Estero Licancheo
-Estero Licauquen, Licauquén River, Río Licauquen
+Estero Licauquén, Licauquén River, Río Licauquen
 Estero Licura
 Estero Lilcopulli, Río Lilcopulli
 Estero Lilipulli
@@ -9852,7 +9852,7 @@ Estero Piedras
 Estero Piedras Altas
 Estero Piedras Rojas
 Estero Piedras de Amolar
-Estero Piguchen
+Estero Piguchén
 Estero Pihun
 Estero Pike
 Estero Pilauco
@@ -10008,7 +10008,7 @@ Estero Quillayes
 Estero Quillaylemu
 Estero Quilleco
 Estero Quillehua
-Estero Quillen
+Estero Quillén
 Estero Quillín
 Estero Quillón
 Estero Quilmo
@@ -11234,7 +11234,6 @@ Isla Denaro
 Isla Desierta
 Isla Desolación, Desolacion del Sur, Desolation
 Isla Diana
-Isla Diaz, Isla Miguel Díaz
 Isla Diego, Isla Barrow
 Isla Diego Portales
 Isla Diego de Almagro, Cambridge Island, Isla Cambridge, Isla Diego Almagro
@@ -11263,6 +11262,7 @@ Isla Dumont D'Urville, Isla Dumont d'Urbille
 Isla Duncan, Roca Duncan
 Isla Duperre
 Isla Duque de York, Duke of York Island
+Isla Díaz, Isla Miguel Díaz
 Isla Ech, Rocas Ech
 Isla Eclipse
 Isla Edelmira, Islote Edelmira
@@ -11414,7 +11414,7 @@ Isla Guilleifa, Isla Llilleifen, Isla Llilleipen, Isla Llillipén
 Isla Guillermo, Península Guillermo
 Isla Guitarra
 Isla Gusanillo
-Isla Gutierrez, Islita Gutiérrez, Islote Gutiérrez
+Isla Gutiérrez, Islita Gutiérrez, Islote Gutiérrez
 Isla Guzmán
 Isla Guía
 Isla Gálvez
@@ -11615,7 +11615,7 @@ Isla Little Wellington, Little Washington Island, Pequeña Wellington
 Isla Lizard, Lizard Island
 Isla Lizzie
 Isla Llahuapi
-Isla Llahuen, Llahuenhuapi
+Isla Llahuén, Llahuenhuapi
 Isla Llancahue
 Isla Llanchid
 Isla Llanos, Isla Llano
@@ -11641,7 +11641,7 @@ Isla Los Lobos
 Isla Lotten
 Isla Louasen, Isla Louisen
 Isla Lucas
-Isla Luchin
+Isla Luchín
 Isla Luco
 Isla Lucía, Isla Luois
 Isla Luff
@@ -11718,8 +11718,8 @@ Isla Meninea, Isla Menineo
 Isla Mensajero
 Isla Mentirosa
 Isla Mercedes
-Isla Merino
 Isla Merino Jarpa
+Isla Meriño
 Isla Mesing
 Isla Meta
 Isla Metalqui, Islote Metalqui
@@ -12154,11 +12154,10 @@ Isla Ugalde, Islote Ugalde
 Isla Undurraga
 Isla Unica
 Isla Urrutia
-Isla Ursula
 Isla Useful
 Isla Vaccaro
-Isla Valdes
 Isla Valdivia
+Isla Valdés
 Isla Valenzuela
 Isla Vallack
 Isla Valverde
@@ -12266,6 +12265,7 @@ Isla del Vigía
 Isla Ángel
 Isla Ávalos, Isla Abalos
 Isla Ñancul
+Isla Úrsula
 Islas Abelino
 Islas Adelaida, Grupo Adelaida
 Islas Afortunadas
@@ -12380,7 +12380,6 @@ Islas Oelckers, Islotes Oelckers
 Islas Ortiz, Grupo Ortiz
 Islas Otter
 Islas Owen, Islas Owens
-Islas Pajaros
 Islas Pasaje, Grupo del Pasaje
 Islas Peligroso, Grupo Manzano, Grupo Peligroso
 Islas Petley, Islotes Petley
@@ -12390,6 +12389,7 @@ Islas Pimentel
 Islas Pleyades
 Islas Porfirio
 Islas Puyó
+Islas Pájaros
 Islas Queitao, Islotes Queitao
 Islas Rameses
 Islas Redbill
@@ -12605,7 +12605,7 @@ Islote Juanango, Islote Juanaga, Islote Juanungo
 Islote Julia
 Islote Julio
 Islote Jumbo
-Islote Kao Kao, Aguja, Islote Motu-Kao-Kao, Islote Mutu-Rau-Kau, Motu-Kao Kao, Mutu Kau Kau
+Islote Kao Kao, Aguja, Islote Motu-Kao-Kao, Islote Mutu-Rau-Kau, Motu Kao Kao, Mutu Kau Kau
 Islote Kau, Motu Kau
 Islote Kaviti, Motu Kaviti
 Islote Knight, Islote Kinght
@@ -12671,7 +12671,7 @@ Islote Nihuel, Isla Calto, Isla Nihuel, Isla Nituel, Islote Nihue
 Islote Niño
 Islote Norte
 Islote Notable
-Islote Nui, Flat Rocks, Islote Motu-Nui, Islote Mutu-Nui, Motu-Nui
+Islote Nui, Flat Rocks, Islote Motu-Nui, Islote Mutu-Nui, Motu Nui
 Islote O Pope, Motu O Pope
 Islote O'Higgins, Islote El Solitario
 Islote Obaid
@@ -14653,7 +14653,6 @@ Loromal
 Loros
 Los Abrojos
 Los Acerillos Grandes
-Los Alamos
 Los Alerces
 Los Altillos
 Los Altos
@@ -14661,7 +14660,6 @@ Los Amarillos
 Los Amigos
 Los Anchos
 Los Andes
-Los Angeles
 Los Apestados
 Los Arenales
 Los Arquitos
@@ -14825,6 +14823,8 @@ Los Tábanos
 Los Ulmos
 Los Valles
 Los Vilos
+Los Álamos
+Los Ángeles
 Los Ñadis
 Los Ñiñiles
 Losar Jama
@@ -16004,7 +16004,7 @@ Pampa los Changos
 Pampalluta
 Pampitas
 Pamputa
-Pan de Azucar
+Pan de Azúcar
 Pan de Azúcar National Park
 Pangal
 Pangalillo
@@ -16286,7 +16286,7 @@ Paso de Leña Malal, Portezuelo Leña Malal
 Paso de Los Carrizos
 Paso de Los Coipos
 Paso de Mahuida
-Paso de Mariposas, Paso de Maripo, Paso las Mariposas
+Paso de Mariposas, Paso Las Mariposas, Paso de Maripo
 Paso de Mondaca, Mondaquita, Paso Mondaca, Paso de Mondaquita
 Paso de Nieves Negras, Paso de las Nieves Negras
 Paso de Oro
@@ -16321,7 +16321,7 @@ Paso de las Ojotas
 Paso de las Tres Quebradas, Paso Illapel
 Paso de las Vacas
 Paso de las Yaretas, Paso de Las Llaretas
-Paso de los Azules, Paso los Azules
+Paso de los Azules, Paso Los Azules
 Paso de los Bañitos, Paso Los Bañitos
 Paso de los Helados, Burros, Helados, Paso Burras, Paso de los Burros
 Paso de los Teatinos
@@ -16380,7 +16380,6 @@ Pena del Conde
 Pencahue
 Penco
 Peninsula Colilquihue
-Peninsula Swett
 Península Adriana
 Península Aida
 Península Anemona
@@ -16474,6 +16473,7 @@ Península Singular
 Península Sisquelán
 Península Skyring
 Península Staines
+Península Swett
 Península Tamar
 Península Thornton
 Península Tongoy, Tongoi Peninsula
@@ -17199,7 +17199,7 @@ Provincia del Tamarugal
 Puapua
 Pucalán
 Puchaurán
-Puchuncavi
+Puchuncaví
 Puclaro Dam
 Pucon
 Pudahuel
@@ -17462,11 +17462,11 @@ Puerto Ramón
 Puerto Refugio
 Puerto Rhone
 Puerto Riquelme
-Puerto Robalo
 Puerto Román
 Puerto Rosario
 Puerto Rosita
 Puerto Río Frío
+Puerto Róbalo
 Puerto Saavedra
 Puerto Saco
 Puerto San Antonio
@@ -17602,7 +17602,6 @@ Punta Amasón, Punta Amazon
 Punta Americana
 Punta Amolanos, Punta Amolanas
 Punta Ampa
-Punta Ana
 Punta Anay, Punta Anai
 Punta Anchor
 Punta Anclote
@@ -17613,7 +17612,6 @@ Punta Andrés, Punta San Andrés
 Punta Anegada, Punta Antofagasta
 Punta Anegadiza
 Punta Angamos, Angamos Point
-Punta Angela
 Punta Angosta
 Punta Angostura
 Punta Anita
@@ -17662,6 +17660,7 @@ Punta Averall
 Punta Ayacucho
 Punta Ayao
 Punta Azul
+Punta Aña
 Punta Añihué
 Punta Baal
 Punta Bacalao
@@ -17695,7 +17694,7 @@ Punta Barro
 Punta Barruel
 Punta Barría
 Punta Bartlet, Punta Bartlett
-Punta Bastias
+Punta Bastías
 Punta Batey
 Punta Batro
 Punta Baxa
@@ -18214,7 +18213,7 @@ Punta Frente
 Punta Fresia
 Punta Frez
 Punta Fritis
-Punta Fronton
+Punta Frontón
 Punta Froward
 Punta Frutillar, Punta Fruitillar
 Punta Fría
@@ -18237,7 +18236,6 @@ Punta Gallegos
 Punta Gallese, Punta Callese
 Punta Gallo
 Punta Galpón
-Punta Galvez
 Punta Ganado, Punta Gilbert
 Punta Ganso
 Punta Gaona
@@ -18313,7 +18311,8 @@ Punta Guillermos
 Punta Gun
 Punta Gusano
 Punta Gustavo
-Punta Gutierrez
+Punta Gutiérrez
+Punta Gálvez
 Punta Gárate
 Punta Haase
 Punta Hall
@@ -18588,7 +18587,7 @@ Punta Llico
 Punta Lo Ruiz
 Punta Loba, Punta Lobo
 Punta Lobera
-Punta Loberia, Punta Conchas
+Punta Lobería, Punta Conchas
 Punta Lobos, Punta Lobo
 Punta Locobe, Punta Lacobe
 Punta Locos, Punta Locoa
@@ -18672,7 +18671,6 @@ Punta Martín
 Punta Martínez
 Punta Mary, Punta Marie
 Punta María, Punta Marie
-Punta Mas
 Punta Mascarello
 Punta Matao
 Punta Matilde
@@ -18767,6 +18765,7 @@ Punta Mutrico
 Punta Mutrihue
 Punta Muñoz
 Punta Muñulmo
+Punta Más
 Punta Más al Sur, Point Mas al Sur, Punta Masal Sur
 Punta Méndez, Mendy Point
 Punta Nal
@@ -19171,7 +19170,7 @@ Punta San Felipe
 Punta San Francisco
 Punta San Gallan
 Punta San Isidro
-Punta San Jerónimo, Punta Jerónimo, St. Jerome Point
+Punta San Jerónimo, Punta Jerónimo, Saint Jerome Point
 Punta San Jorge
 Punta San Juan
 Punta San Marcos
@@ -19534,6 +19533,7 @@ Punta los Pozos
 Punta Águila
 Punta Álvarez
 Punta Álvaro
+Punta Ángela
 Punta Ángeles, Punta Angelas, Punta Los Anjeles
 Punta Ángulo
 Punta Ánimas, Punta Las Ánimas
@@ -19607,7 +19607,7 @@ Puntilla del Viento
 Punto Lirquén
 Punto Pesquero de Talcahuano
 Punto San Vicente
-Puqueldon
+Puqueldón
 Puquio de los Guatacondos, Púquio de los Huatacondos
 Puquios
 Puren
@@ -19808,7 +19808,6 @@ Quebrada Capote
 Quebrada Caracarani, Quebrada Caracharani, Río Caracarani
 Quebrada Carachas
 Quebrada Caracoles
-Quebrada Carcamo
 Quebrada Carcanal
 Quebrada Carditas
 Quebrada Cardones
@@ -20023,6 +20022,7 @@ Quebrada Cunjase
 Quebrada Cuno
 Quebrada Cuta
 Quebrada Cutijmalla, Quebrada de Cutijmalla, Quebrada de Cutimaya
+Quebrada Cárcamo
 Quebrada Dadín
 Quebrada Del Chacay
 Quebrada Del Gigante
@@ -20040,7 +20040,6 @@ Quebrada El Abra
 Quebrada El Agua
 Quebrada El Aguilucho
 Quebrada El Ajial, Quebrada Ajial
-Quebrada El Alamo
 Quebrada El Alazán
 Quebrada El Almendro
 Quebrada El Arenal
@@ -20181,6 +20180,7 @@ Quebrada El Yuyo
 Quebrada El Zarzo
 Quebrada El Zorro
 Quebrada El Águila
+Quebrada El Álamo
 Quebrada El Áspera
 Quebrada Eljine
 Quebrada Elqui, Elqui River
@@ -20215,7 +20215,7 @@ Quebrada Galaz
 Quebrada Galena
 Quebrada Galerilla
 Quebrada Gallardo
-Quebrada Gallinazos, Quebrada Chacalluta, Quebrada Concordia, Quebrada La Concordia, Quebrada de Concordia, Quebrada de Gallinazos, Quebrada de la Concordia
+Quebrada Gallinazos, Quebrada Chacalluta, Quebrada Concordia, Quebrada La Concordia, Quebrada de Concordia, Quebrada de Gallinazos, Quebrada de La Concordia
 Quebrada Gallo
 Quebrada Garrapatani
 Quebrada Garín
@@ -20656,7 +20656,7 @@ Quebrada Maimaja
 Quebrada Maitencillo
 Quebrada Maitenes
 Quebrada Maitén
-Quebrada Majadita, Quebrada Dichosa, Quebrada de la Majadita
+Quebrada Majadita, Quebrada Dichosa, Quebrada de La Majadita
 Quebrada Mal Paso
 Quebrada Mal Potrerillo
 Quebrada Mala
@@ -20748,7 +20748,7 @@ Quebrada Ojos del Salado
 Quebrada Olivillos
 Quebrada Opachi, Quebrada Opache
 Quebrada Orcotunco
-Quebrada Ordoñez
+Quebrada Ordóñez
 Quebrada Orégano
 Quebrada Ossandón
 Quebrada Ovejería
@@ -20968,7 +20968,7 @@ Quebrada Salva
 Quebrada Salvaje
 Quebrada Samata
 Quebrada Samo Alto
-Quebrada San Agustin
+Quebrada San Agustín
 Quebrada San Andrés
 Quebrada San Antonio
 Quebrada San Carlos
@@ -21722,10 +21722,10 @@ Quebrada del Oreganito
 Quebrada del Pabellón
 Quebrada del Pangal
 Quebrada del Pangue
-Quebrada del Panul
 Quebrada del Parral
 Quebrada del Parrón
 Quebrada del Pastor
+Quebrada del Pañul
 Quebrada del Pedernal
 Quebrada del Pedregoso
 Quebrada del Peine
@@ -21935,7 +21935,7 @@ Región de los Lagos, Décima Región, Los Lagos Region, X Región
 Región de los Ríos, Los Ríos, Los Ríos Region, XIV Región, XIV Región de Los Ríos
 Región de Ñuble, Ñuble, Ñuble Region
 Región del Biobío, Biobío, Octava Región, Región del Bío-Bío, VIII Región
-Región del Libertador General Bernardo O'Higgins, Libertador General Bernardo OʼHiggins, O'Higgins, O'Higgins Region, Sexta Región, VI Región
+Región del Libertador General Bernardo O'Higgins, Libertador General Bernardo O'Higgins, O'Higgins, O'Higgins Region, Sexta Región, VI Región
 Región del Maule, Maule Region, Septima Región, VII Región, VII Región del Maule
 Remeco
 Remolino
@@ -22042,49 +22042,28 @@ Rincón del Sauce
 Rincón la Javiera
 Rincón las Rosetas
 Rincón los Burriquitos
-Rio Azul
-Rio Blanco, Blanco, Estero Leiva, Río Tocurpuri
 Rio Bongo
-Rio Bueno, Bueno River
-Rio Cajòn Blanco
 Rio Cajòn Bravo
 Rio Cau Cau
 Rio Chacabuco, Chacabuco River
-Rio Claro, Claro River, Rio Olaro, Río Derecho
-Rio Condor
 Rio Cruces (Santuario), Cruces River
 Rio Cuarto
 Rio Desplayado
-Rio Diablo
 Rio Dinamarca
 Rio El Bayo
 Rio El Malito
 Rio El Toqui
 Rio Hurtado, Hurtado River
-Rio Ibañez
 Rio La Gloria
-Rio Melimoyu
 Rio Mosco
-Rio Negro, Río Negro Hueco, Río Pulpito
-Rio Palena
-Rio Pangal, Pangal River
-Rio Pescado, Río Pezcado
 Rio Pingo, Pingo River
 Rio Pollux
-Rio Quetro
-Rio Risopatrón
-Rio Simpson, Aisen sur, Simpson River
 Rio Simpson conf .du Río Mañihuales
-Rio Sin Nombre
-Rio Turbio, Turbio River
 Rio Uquika
 Rio Uspallante
-Rio Valdivia, Valdivia River
 Rio Valle Grande
-Rio Verde
 Rio Zancudo
 Rio arredondo
-Rio del Toro, Del Toro River
 Risco La Cebolla
 Risco Lawrence
 Risco Rojo
@@ -22433,7 +22412,7 @@ Río Aguas Calientes
 Río Aguas Malas
 Río Ahinco
 Río Aillín
-Río Aisen, Río Aysen
+Río Aisén, Río Aysen
 Río Ajatama
 Río Alborrada, Estero Alborrada
 Río Alcaldeo, Alcadeo, Riachuelo Ancalevo, Rio Alcaldes
@@ -22479,6 +22458,7 @@ Río Ayacara
 Río Ayentema
 Río Azopardo, Azopardo River, Río Leopardo
 Río Azufre
+Río Azul
 Río Azulado
 Río Añihué
 Río Año Nuevo
@@ -22506,6 +22486,7 @@ Río Bergues
 Río Bernardina
 Río Betbeder
 Río Biobío
+Río Blanco, Blanco, Estero Leiva, Río Tocurpuri
 Río Blanco Arenal
 Río Blanco Las Cascadas
 Río Blanquillo, Arroyo Blanquillo
@@ -22524,6 +22505,7 @@ Río Briceño
 Río Brown
 Río Buchupureo, Estero Buchupureo
 Río Budi
+Río Bueno, Bueno River
 Río Bueno Medio
 Río Buill, Rio Huell
 Río Bulelco
@@ -22543,6 +22525,7 @@ Río Cadiquén
 Río Cahuinalhue, Río Calminahua, Río Calminahue
 Río Caihuico
 Río Cajonmó
+Río Cajón Blanco
 Río Cajón Grande
 Río Calabocillo
 Río Calabozo
@@ -22681,6 +22664,7 @@ Río Circo
 Río Cisne
 Río Cisnes, Cisnes River, Río Gualaihue
 Río Clarillo, Estero El Clarillo
+Río Claro, Claro River, Rio Olaro, Río Derecho
 Río Claro Solar
 Río Claro de Cauquenes
 Río Claudio Vicuña
@@ -22771,6 +22755,7 @@ Río Cuyuldeo
 Río Cuñicura
 Río Cárcamo
 Río César, Cesar River
+Río Cóndor
 Río Damas, Damas River, De Las Damas River, Estero Pichi Damas, Río Las Damas
 Río Dañicalqui
 Río Delmedio
@@ -22781,6 +22766,7 @@ Río Desagüe
 Río Descabezado
 Río Desplayes Sur, Río Desplayer, Río Desplayes
 Río Diablito, Río El Diablito
+Río Diablo
 Río Dientes
 Río Diguillín, Diguillín River, Duqueco River
 Río Dillo
@@ -22912,6 +22898,7 @@ Río Huira
 Río Huirinlil, Rí Huirinlil, Río Huirintil
 Río Huiscapi, Río Huiscape
 Río Huiña
+Río Ibáñez
 Río Iculpe
 Río Ignao, Río Igoao
 Río Illapel, Illapel River
@@ -23116,13 +23103,14 @@ Río Mayamo
 Río Mayer, Mayer River
 Río Mayul
 Río Mazazo, Río Mazaso
-Río Mañiguales, Mañiguales River, Mañihuales River, Río Mañihuales, Río Mañiuales
+Río Mañíguales, Mañiguales River, Mañihuales River, Rió Mañihuales, Río Mañiuales
 Río Mañío, Río Mañiu
 Río Mc Klelland, Río MacClelland, Río MacKlelland
 Río Mechai, Río Mechay
 Río Medina
 Río Melado, Melado River
 Río Melilebú
+Río Melimoyu
 Río Melimoyu Sur, Río Marchant
 Río Melipué
 Río Menor
@@ -23168,6 +23156,7 @@ Río Natri
 Río Natri Pangal
 Río Navarro
 Río Nef, Nef River, Río Neff
+Río Negro, Río Negro Hueco, Río Pulpito
 Río Neptune
 Río Nevado
 Río Nevados
@@ -23194,7 +23183,6 @@ Río Ollero, Río Corhuio
 Río Olmopulli
 Río Oroco
 Río Ortega
-Río Oscar
 Río Oscuro, Río Oscuro del Salto
 Río Ostiones
 Río Otué, Estero Otué, Río Tué
@@ -23211,6 +23199,7 @@ Río Pailcoaillo
 Río Paillacahue
 Río Paine, Paine River
 Río Pajaritos, Río Pajarito
+Río Palena
 Río Palguín
 Río Palihue
 Río Paloma, Río de la Paloma
@@ -23223,6 +23212,7 @@ Río Pama, Pama River
 Río Pancho Campos
 Río Panco
 Río Pancunto, Estero Pancunto, Río Pacunto, Río Pacunto Pedregoso
+Río Pangal, Pangal River
 Río Pangue
 Río Pangui
 Río Panqueco
@@ -23254,6 +23244,7 @@ Río Perquenco, Estero Perquenco
 Río Perquilauquén, Perquilauquén River
 Río Perquin
 Río Pescadero, Estero Pescadero, Estero Pescadores
+Río Pescado, Río Pezcado
 Río Pescadores
 Río Petorca, Petorca River, Rio Pelorca
 Río Petraco
@@ -23372,6 +23363,7 @@ Río Quenuir
 Río Quepe, Quepe River
 Río Quepuca, Río Quipuca
 Río Quetraleufú
+Río Quetro
 Río Quetru
 Río Quetén
 Río Queuco, Queuco River, Río Quenco
@@ -23410,13 +23402,12 @@ Río Quiñenahuín
 Río Radal
 Río Radimadi
 Río Raguintulelfu
-Río Rahue, Rahue River
+Río Rahué, Rahue River
 Río Ralco
 Río Ralitrán, Estero Bolitrán, Estero Palitran, Estero Ralitrán
 Río Ramadas
 Río Ramadillas
 Río Ranas
-Río Ranquil, Ranquil River
 Río Ranquintuleufu
 Río Rapel, Rapel River
 Río Raquelita
@@ -23452,6 +23443,7 @@ Río Reñihue, Reñihué River
 Río Riecillos, Estero de Los Riecillos
 Río Riesco
 Río Rilpe
+Río Risopatrón
 Río Rivas
 Río Riveros
 Río Riñinahue
@@ -23470,12 +23462,13 @@ Río Rucausey
 Río Rucue, Rucue River
 Río Rupumeica, Río Rupameica
 Río Rusphen, Río Ausphen
+Río Ránquil, Ranquil River
 Río Sagllúe, Estero Llagllúe, Estero Sagllúe
 Río Salado
 Río Salitre
 Río Salto
 Río Saltón
-Río San Andres
+Río San Andrés
 Río San Antonio
 Río San Bernabé
 Río San Carlos
@@ -23512,6 +23505,8 @@ Río Serrano, Serrano River
 Río Side
 Río Silamapu
 Río Silberia
+Río Simpson, Aisen sur, Simpson River
+Río Sin Nombre
 Río Sitani
 Río Sobrante
 Río Sofía
@@ -23611,6 +23606,7 @@ Río Tucapel, Tucapel River
 Río Tuetué
 Río Tulahuencito
 Río Tulán
+Río Turbio, Turbio River
 Río Turbio Chico
 Río Turbio Grande
 Río Tutuvén, Tutuvén River
@@ -23619,6 +23615,7 @@ Río Ulepe
 Río Universo
 Río Vaca
 Río Vacas Heladas, Vacas Heladas River
+Río Valdivia, Valdivia River
 Río Valenzuela
 Río Vaquería
 Río Vargas
@@ -23626,6 +23623,7 @@ Río Vega Ancha
 Río Venado
 Río Ventisquero
 Río Ventisqueros
+Río Verde
 Río Vergara, Vergara River
 Río Videau
 Río Viejo
@@ -23747,6 +23745,7 @@ Río del Rey
 Río del Rosal
 Río del Salto
 Río del Sobrante
+Río del Toro, Del Toro River
 Río del Toro Muerto
 Río del Torrente
 Río del Totoral
@@ -23767,6 +23766,7 @@ Río Ñireguao, Río Nirehuau, Río Ñirihuao, Ñirevao
 Río Ñirementún
 Río Ñirreco
 Río Ñuble, Ñuble River
+Río Óscar
 Ríos Pocas Pilchas
 Saavedra
 Sagrada Familia
@@ -23884,7 +23884,7 @@ San Pedro de Alcántara
 San Pedro de Atacama
 San Quentin Sound
 San Rafael
-San Ramon
+San Ramón
 San Roberto
 San Rosendo
 San Sebastián
@@ -24195,7 +24195,6 @@ Sierra Amarga
 Sierra Amarilla
 Sierra Angostura, Serranía de Angostura
 Sierra Aragoneses
-Sierra Aspera
 Sierra Atacama
 Sierra Atutema
 Sierra Azufre
@@ -24437,6 +24436,7 @@ Sierra del Relincho
 Sierra del Tigre, Sierra El Tigre
 Sierra del Toro
 Sierra del Viento
+Sierra Áspera
 Sierra Ávila, Sierra de Ávila
 Sierras de San Lorenzo
 Sierras del Chivato Nuevo, Sierra del Chivato Nuevo
@@ -24572,7 +24572,7 @@ Torres del Paine
 Tortel
 Totorales
 Totorita
-Traiguen
+Traiguén
 Trama de Salar
 Tramalhue
 Trancas

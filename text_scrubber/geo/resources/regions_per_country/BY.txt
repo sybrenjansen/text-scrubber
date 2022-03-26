@@ -6,7 +6,7 @@ Adamenka
 Adrow, Adrov, Odrov, Адроў
 Ahinski Kanal, Kanal Ogin'skego, Kanal Oginskiego, Kanal Oginskiy, Ogin'ski Kanal, Oginskiy Kanal, Oginskogo Kanal, Oginsky Canal, Агінскі Канал
 Aktitsa
-Aktsyabrski Rayon, Akciabrski District, Aktsyabr, Акцябрскі раён, Октябрьский район
+Aktsyabrski Rayon, Akciabrski District, Aktsyabr, Oktyabr'skiy Rayon, Акцябрскі раён
 Al'shchanka, Ol'shchanka, Альшанка
 Ala, Ola
 Antopol'
@@ -35,12 +35,12 @@ Azhinavitski Syel'savyet, Ozginovichskiy Sel'sovet, Азгінавіцкі Се�
 Babenka
 Babka
 Babochki, Babachka
-Babruyski Rayon, Babruysk District, Babruysk Raion, Bobruyskiy Rayon, Бабруйск, Бабруйскі раён, Бобруйск
+Babruyski Rayon, Babruysk, Babruysk District, Babruysk Raion, Bobruyskiy Rayon, Бабруйскі раён, Бобруйск
 Bakhmotka
 Balachanka, Bolochanka
 Balbata, Nizelė, Nizianka
 Balvanka
-Balyeshynka, Балешинка, Балешынка
+Balyeshynka, Baleshinka, Балешынка
 Baranovichskiy Rayon, Baranavichy, Baranavitski Rayon, Novomyshskiy Rayon, Баранавіцкі Раён
 Baranovka
 Bartashunka
@@ -88,7 +88,7 @@ Biologicheskiy Zakaznik Luninskiy
 Biologicheskiy Zakaznik Mikhaylinsko-Berëzovskiy
 Biologicheskiy Zakaznik Ruzhanskaya Pushcha
 Biologicheskiy Zakaznik Zvanets
-Birvyeta, Berveta, Bervyte, Birvita, Birvėta, Reka Birvinta
+Birvyeta, Berveta, Bervyte, Birveta, Birvita, Reka Birvinta
 Bloshnaya
 Bludynya
 Bobr
@@ -172,14 +172,14 @@ Boyarka
 Boyna
 Boynaya, Reka Buyna
 Bozyri
-Brahinski Rayon, Brahin, Brahin District, Брагинский район, Брагінскі Раён
+Brahinski Rayon, Braginskiy Rayon, Brahin, Brahin District, Брагінскі Раён
 Brahynka, Baraginka, Braginka, Brahinka
 Braslavskiy Rybkhoz, Браславсий Рыбхоз
 Braslawskaya Hrada, Braslavskaya Gryada
-Braslawski Rayon, Braslaw, Braslaw District, Braslaw Raion, Браславский район, Браслаўскі Раён
+Braslawski Rayon, Braslavskiy Rayon, Braslaw, Braslaw District, Braslaw Raion, Браслаўскі Раён
 Bražylė
-Brest Oblast, Brest, Byeras'tseyskaya Voblasts', Брестская Область, Брэсцкая Вобласць
-Brestski Rayon, Brest, Brest District, Byeras'tsyeyski Rayon, Брестский район, Брэсцкі Раён
+Brest Oblast, Brest, Brestskaya Oblast', Brestskaya Voblasts', Byeras'tseyskaya Voblasts'
+Brestski Rayon, Brest, Brest District, Brestskiy Rayon, Byeras'tsyeyski Rayon, Брэсцкі Раён
 Bretyanka, Bratsyanka
 Brodnya
 Brol'nikskiy Sel'sovet, Brol'nitski Syel'savyet, Брольніцкі Сельсавет
@@ -212,12 +212,12 @@ Byarvyenka, Bervenka, Бярвенка
 Bychanka
 Byelaya Natapa, Belaya Natopa, Белая Натапа
 Byeloruskaya Hrada, Belorusskaya Gryada
-Byerastavitski Rayon, Byerastavitsa, Byerastavitsa District, Krynkovskiy Rayon, Бераставіцкі Раён, Берестовицкий район
-Byeshankovitski Rayon, Beshankovichy, Beshankovichy District, Бешанковіцкі Раён, Бешенковичский район
-Bykhawski Rayon, Bychaw Raion, Bykhaw, Bykhaw District, Быхаўскі Раён, Быховский район
+Byerastavitski Rayon, Berestovitskiy Rayon, Byerastavitsa, Byerastavitsa District, Krynkovskiy Rayon, Бераставіцкі Раён
+Byeshankovitski Rayon, Beshankovichy, Beshankovichy District, Beshenkovichskiy Rayon, Бешанковіцкі Раён
+Bykhawski Rayon, Bychaw Raion, Bykhaw, Bykhaw District, Bykhovskiy Rayon, Быхаўскі Раён
 Bykovka
 Bystraya
-Chacherski Rayon, Chachersk, Čačersk, Čačersk District, Чачэрскі Раён, Чечерский район
+Chacherski Rayon, Chachersk, Checherskiy Rayon, Čačersk, Čačersk District, Чачэрскі Раён
 Chachora, Chochora
 Chapa
 Chapun'ka
@@ -235,7 +235,6 @@ Cherebomirka
 Cheremkha
 Cherlënka
 Chernavka
-Chernaya
 Chernets
 Chernevskiy Zakaznik-Klyukvennik
 Cherneyka
@@ -253,7 +252,7 @@ Chertsyen', Cherten', Чэрцень
 Chervenka
 Chervinka
 Chervyen'ski Rayon, Chervenskiy Rayon, Chervyen, Chervyen District, Chervyen Raion, Чэрвеньскі Раён
-Cherykawski Rayon, Cherykaw, Cherykaw District, Cherykaw Raion, Чериковский район, Чэрыкаўскі Раён
+Cherykawski Rayon, Cherikovskiy Rayon, Cherykaw, Cherykaw District, Cherykaw Raion, Чэрыкаўскі Раён
 Chikalovichskiy Kanal, Kanal Chikalovichskiy
 China-Belarus Industrial Park
 Chirka
@@ -266,6 +265,7 @@ Chudinka
 Chyhirynskaye Vadaskhovishcha, Chigirinskoye Vodokhranilishche, Чыгірынскае Вадасховішча
 Chyhunachny Rayon, Чыгуначны Раён
 Chystsyanka, Chistyanka
+Chërnaya
 Chërnaya Gan'cha, Charna Khanga, Czarna Hańcza, Reka Charna-Khanga, Чорная Ганча
 Chërnaya Zavonya, Reka Charna Zavonya
 Dabrasyelyetski Syel'savyet, Дабраселецкі Сельсавет
@@ -313,7 +313,7 @@ Dobrylovka
 Dobrynskiy Kanal
 Dobrytsa
 Dokhnarka
-Dokshytski Rayon, Dokshytsy, Dokshytsy Raion, Докшицкий район, Докшыцкі Раён
+Dokshytski Rayon, Dokshitskiy Rayon, Dokshytsy, Dokshytsy Raion, Докшыцкі Раён
 Dolgaya
 Dolgiy Kanal, Kanal Dolgiy
 Dolina
@@ -356,7 +356,7 @@ Dyatlovka, Dzyatlawka, Дзятлаўка
 Dymarka
 Dyyevka, Дыевка
 Dzisna, Disna, Drisna, Dysna, Дзісна Dzisna
-Dzitva, Dzitwa, Дитва
+Dzitva, Ditva, Dzitwa
 Dzvinosa, Dvinosa, Dvinosi
 Dzyarazhanka, Derazhenka
 Dzyarzhynski Rayon, Dzerzhinskiy Rayon, Dzyarzhynsk, Dzyarzhynsk District, Dzyarzhynsk Raion
@@ -369,7 +369,7 @@ Falevichskiy Kanal, Kanal Falevichskiy
 Fedoska
 Ferbina
 Filipovka
-Frunzyenski Rayon, Фрунзенский район, Фрунзенскі раён
+Frunzyenski Rayon, Frunzenskiy Rayon, Фрунзенскі раён
 Galyadza
 Ganutka
 Garuzhanka
@@ -396,7 +396,7 @@ Godeya
 Golbeyka, Golbeitsa
 Golchitsy
 Goldovlyanka
-Golovchitskiy Kanal, Канал Головчицкий
+Golovchitskiy Kanal, Kanal Golovchitskiy
 Goluba
 Golubaya Krinitsa
 Golubina
@@ -470,8 +470,8 @@ Grebenka
 Greblya
 Grivchik
 Grodnenskaya Pushcha, Pushcha Grodzen'ska
-Grodnenskiy Rayon, Hrodna, Hrodzyenski Rayon, Гродзенскі раён
-Grodno Oblast, Grodnenskaya, Grodno, Grodnyenskaya Oblast, Hrodzyenskaya Voblasts', Гродзенская Вобласць, Гродненская Область
+Grodnenskiy Rayon, Hrodna, Hrodzyenski Rayon, Гродзенскі Раён
+Grodno Oblast, Grodnenskaya, Grodnenskaya Oblast', Grodno, Grodnyenskaya Oblast, Hrodzyenskaya Voblasts', Гродзенская Вобласць
 Gromot', Gromat'
 Grubchanskiy Kanal, Kanal Grubchanskiy
 Gryaziva
@@ -491,12 +491,12 @@ Hantsavitski Rayon, Gantsevichskiy Rayon, Hantsavichy, Hantsavichy District, Г�
 Hara Zamkavaya, Gora Zamkova, Gora Zamkovaya, Гара Замкавая
 Haradotski Rayon, Gorodokskiy Rayon, Haradok, Haradok District, Haradok Raion, Гарадоцкі Раён, Городецкий район
 Hats', Gat', Гаць
-Hawya, Gauja, Gav'ya, Gaviya, Giawa, Гаўя
-Hayna, Gaina, Khoyna, Гайна
+Hawya, Gauja, Gauya, Gav'ya, Gaviya, Giawa
+Hayna, Gaina, Gayna, Khoyna
 Hluski Rayon, Glusskiy Rayon, Hlusk, Hlusk District, Hlusk Raion, Глускі раён
-Hlybotski Rayon, Hlybokaye, Hlybokaye District, Глубокский район, Глыбоцкі Раён
-Homyel' Voblasc', Homieĺskaja voblasć, Homyelskaya Voblasts, Гомельская Вобласць, Гомельская Область
-Homyel'ski Rayon, Gomel District, Гомельский район, Гомельскі Раён
+Hlybotski Rayon, Glubokskiy Rayon, Hlybokaye, Hlybokaye District, Глыбоцкі Раён
+Homyel' Voblasc', Gomelskaya Oblast, Homieĺskaja voblasć, Homyelskaya Voblasts, Гомельская Вобласць
+Homyel'ski Rayon, Gomel District, Gomel'skiy Rayon, Гомельскі Раён
 Horad Asipovichy, Gorod Osipovichi, Горад Асіповічы, Осиповичи
 Horad Baranavichy, Gorod Baranovichi, Барановичи, Горад Баранавічы
 Horad Brest, Gorod Brest, Брест, Горад Брэст
@@ -505,11 +505,11 @@ Horad Dzyarzhynsk, Gorod Dzerzhinsk, Дзержинск, Дзяржынск
 Horad Homyel', Gomel', Gorod Gomel', Homyel', Горад Гомель
 Horad Hrodna, Gorod Grodno, Grodno District, Гродна, Гродно
 Horad Kalinkavichy, Gorod Kalinkovichi, Калинковичи, Калінкавічы
-Horad Lida, Gorod Lida, Ліда
+Horad Lida, Gorod Lida, Лида
 Horad Lyepyel', Gorod Lepel', Лепель
 Horad Maladzyechna, Gorod Molodechno, Горад Маладзечна, Молодечно
 Horad Mazyr, Gorod Mozyr', Мазыр, Мозырь
-Horad Minsk, Gorod Minsk, Gorod-Geroy Minsk, Minsk City, Горад Мінск, Мінск
+Horad Minsk, Gorod Minsk, Gorod-Geroy Minsk, Minsk City, Горад Мінск, Минск
 Horad Navahrudak, Gorod Novogrudok, Навагрудак, Новогрудок
 Horad Navapolatsk, Gorod Novopolotsk, Наваполацк, Новополоцк
 Horad Polatsk, Gorod Polotsk, Полацк, Полоцк
@@ -524,8 +524,8 @@ Horad Vilyeyka, Gorod Vileyka, Горад Вілейка
 Horad Vitsyebsk, Gorod Vitebsk, Vitebsk, Vitsyebsk, Віцебск, Горад Віцебск
 Horad Zaslawye, Gorod Zaslavl', Заславье, Заслаўе
 Horad Zhlobin, Gorod Zhlobin, Жлобин
-Horatski Rayon, Horki, Горацкі Раён, Горецкий район
-Hreza, Грэза
+Horatski Rayon, Goretskiy Rayon, Horki, Горацкі Раён
+Hreza, Greza
 Hrywda, Grivda, Gryvda, Reka Grydva, Грыўда
 Hurba, Gurba
 Igorka, Igara
@@ -533,7 +533,7 @@ Iliya
 Indurka
 Iordynka
 Ipa, Ippa
-Iputs', Illut', Ипуть
+Iputs', Illut', Iput'
 Irvenitsa
 Irzhëvka
 Ishchelnyanka
@@ -545,9 +545,9 @@ Istyanka
 Ivanawski Rayon, Ivanava, Ivanava District, Ivanovskiy Rayon, Іванаўскі Раён
 Ivanovka
 Ivata
-Ivatsevitski Rayon, Ivatsevichy, Ivatsevichy District, Kossovskiy Rayon, Івацэвіцкі Раён, Ивацевичский район
+Ivatsevitski Rayon, Ivatsevichskiy Rayon, Ivatsevichy, Ivatsevichy District, Kossovskiy Rayon, Івацэвіцкі Раён
 Ivenka
-Ivezyanka, Iвязянка
+Ivezyanka, Ivyazyanka
 Ivol'ka
 Iwyewski Rayon, Iv'yevskiy Rayon, Iwye, Iwye District, Іўеўскі Раён
 Izabelino
@@ -614,7 +614,7 @@ Kanal Rossoshskaya
 Kanal Rudmyanskiy
 Kanal Sarachinskiy
 Kanal Serguchskiy, Serguchskiy Kanal
-Kanal Shubina, Kanal Shubino-Nëmanskiy, Шубино-Нёманский Канал
+Kanal Shubina, Kanal Shubino-Nëmanskiy, Shubino-Nëmanskiy Kanal
 Kanal Sin'ka
 Kanal Sinegovskiy
 Kanal Sobel'skiy, Kanal Sobel'ski
@@ -637,7 +637,7 @@ Kanal Vodotov
 Kanal Volkovnya
 Kanal Vos'moy
 Kanal Vtoroy Nezhikhovskiy
-Kanal Vyets, Канал Вец
+Kanal Vyets, Kanal Vets
 Kanal Vyshen'ski
 Kanal Zavishchanskiy
 Kanal Zhidovka
@@ -695,17 +695,17 @@ Kanava Zokletskaya, Kanal Zakhlëtskaya, Kanava Zakletskaya
 Kapustnik
 Kapyl'ski Rayon, Kapyl, Kapyl District, Kapyl Raion, Kopyl'skiy Rayon, Копыльскі раён
 Karalewski Kanal, Korolevskiy Kanal, Каралеўскі Канал
-Karelitski Rayon, Karelichy, Karelichy District, Valevkovskiy Rayon, Карэліцкі раён, Кореличский район
+Karelitski Rayon, Karelichy, Karelichy District, Korelichskiy Rayon, Valevkovskiy Rayon, Карэліцкі раён
 Karmyanski Rayon, Karma, Karma District, Karmianski Rajоn, Kormyanskiy Rayon, Кармянскі раён
 Karolinskiy Sel'sovet, Karalinski Syel'savyet, Каралінскі Сельсавет
 Kasalyanka, Koselyanka, Kosolyanka
 Kasinka
 Kasplya
 Kastrychnitski Rayon, Oktyabr'skiy Rayon, Кагановичский район, Кагановіцкі раён, Кастрычніцкі Раён
-Kastsyukovitski Rayon, Kastsyukovichy, Kastsyukovichy District, Kastsyukovichy Raion, Касцюковіцкі Раён, Костюковичский район
+Kastsyukovitski Rayon, Kastsyukovichy, Kastsyukovichy District, Kastsyukovichy Raion, Kostyukovichskiy Rayon, Касцюковіцкі Раён
 Katra, Kotra, Kotra River
 Katyn'
-Kawpita, Каўпіта, Колпита
+Kawpita, Kolpita, Каўпіта
 Kaykovskiy Biologicheskiy Zakaznik
 Kazatski Kanal, Kanal Kazatskiy, Kazatskiy Kanal
 Kel'miya
@@ -724,11 +724,11 @@ Khomutovka
 Khonka
 Khorobrovka
 Khoroput', Khoraputs'
-Khoruzhëvka, Хоружевко
+Khoruzhëvka, Khoruzhevko
 Khotinka
 Khotishche
 Khotova
-Khotsimski Rayon, Khotsimsk, Khotsimsk District, Khotsimsk Raion, Хотимский район, Хоцімскі раён
+Khotsimski Rayon, Khotimskiy Rayon, Khotsimsk, Khotsimsk District, Khotsimsk Raion, Хоцімскі раён
 Khoynitski Rayon, Khoiniki District, Khoyniki, Khoynikskiy Rayon, Хойницкий район, Хойніцкі раён
 Khrapovlyanka
 Khrapun'
@@ -739,8 +739,8 @@ Khvoroshchanskiy Kanal
 Khvoroshchanskoye Torfopredpriyatiye, Хворощанское Торфопредприятие
 Khvoyniki
 Kipyatka
-Kirawsk, Кировск, Кіраўск
-Kirawski Rayon, Kirawsk District, Kirawsk Raion, Кировский район, Кіраўскі Раён
+Kirawsk, Kirovsk, Кіраўск
+Kirawski Rayon, Kirawsk District, Kirawsk Raion, Kirovskiy Rayon, Кіраўскі Раён
 Klevel'
 Klichawski Rayon, Klichaw, Klichaw District, Klichaw Raion, Klichevskiy Rayon, Клічаўскі Раён
 Klimavitski Rayon, Klimavichy, Klimavichy District, Klimavichy Raion, Klimovichskiy Rayon, Клімавіцкі Раён
@@ -749,10 +749,10 @@ Klishchëvka
 Klyapinka
 Klyava, Kleva
 Klyavitsa, Klevitsa
-Klyetski Rayon, Kletsk, Kletsk District, Kletsk Raion, Клецкий район, Клецкі Раён
+Klyetski Rayon, Kletsk, Kletsk District, Kletsk Raion, Kletskiy Rayon, Клецкі Раён
 Klënovka
 Kobelyakskiye Porogi
-Kobrynski Rayon, Kobryn, Kobryn District, Кобринский район, Кобрынскі Раён
+Kobrynski Rayon, Kobrinskiy Rayon, Kobryn, Kobryn District, Кобрынскі Раён
 Kolobushki
 Kolodervi
 Kolodets Perekop, Perekop
@@ -775,7 +775,7 @@ Korlyacha
 Korneyevka, Корнеевка
 Korostinka
 Korynka
-Koryteyka, Корытенка
+Koryteyka, Korytenka
 Korytinskiy Kanal, Kanal Korytyn'ski, Kanal Korytynskiy
 Koshanka
 Koshelevskiy Sel'sovet, Kashalyewski Syel'savyet, Кашалеўскі Сельсавет
@@ -790,7 +790,7 @@ Kozlyanka
 Krapivenka
 Krapivinka
 Krapivnya
-Krasnapol'ski Rayon, Krasnapolle, Krasnapolle Raion, Краснапольскі Раён, Краснопольский район
+Krasnapol'ski Rayon, Krasnapolle, Krasnapolle Raion, Krasnopol'skiy Rayon, Краснапольскі Раён
 Krasnaslabodskaye Vadaskhovishcha, Krasnoslobodskoye Vodokhranilishche, Краснаслабодскае Вадасховішча
 Krasnaya
 Krasnoslobodskiy Rayon, Chyrvonaslabodski Rayon
@@ -803,7 +803,7 @@ Krivulya
 Kromanka
 Kruglik
 Krugloye, Круглое
-Kruhlyanski Rayon, Kruglyansky Raion, Kruhlaye, Kruhlaye District, Kruhlaye Raion, Kryhlyanski Rayon, Круглянский район, Круглянскі Раён
+Kruhlyanski Rayon, Kruglyanskiy Rayon, Kruglyansky Raion, Kruhlaye, Kruhlaye District, Kruhlaye Raion, Kryhlyanski Rayon, Круглянскі Раён
 Krupets
 Krupka
 Krupnya
@@ -904,10 +904,10 @@ Logozinka
 Lokhnitsa, Lokhnytsya
 Lokhozva
 Loknitsa
-Loknyeya, Локнея
+Loknyeya, Lokneya
 Lonnitsa
 Lonva, Zonva
-Lopushanka, Лапушанка
+Lopushanka, Lapushanka
 Losha
 Loshitsa, Lozhitsa River
 Losintsy
@@ -927,15 +927,15 @@ Luninyetski Rayon, Luninets, Luninets District, Luninetskiy Rayon, Луніне�
 Luzhasnyanka, Luzhesnyanka, Luzhesyanka
 Lyabyodka, Lebëdka, Лябёдка
 Lyadeshnya
-Lyadinka, Лядзiнка
-Lyakhavitski Rayon, Lyakhavichy, Lyakhavichy District, Ляхавіцкі Раён, Ляховичский район
+Lyadinka, Lyadzinka
+Lyakhavitski Rayon, Lyakhavichy, Lyakhavichy District, Lyakhovichskiy Rayon, Ляхавіцкі Раён
 Lyakhovicheskiy Kanal
 Lyakhovka
 Lyalyushki
 Lyasnaya, Lesnaya, Leśna, Liesna, Lyesna
-Lyebyada, Лебеда, Лебяда
+Lyebyada, Lebeda, Лебяда
 Lyel'chytski Rayon, Lel'chitskiy Rayon, Lel'chykaga Rayon, Lyelchytsy, Lyelchytsy District, Лельчанскі раён, Лельченский район
-Lyeninski Rayon, Ленінскі раён
+Lyeninski Rayon, Ленінскі Раён
 Lyepyel'ski Rayon, Lepel'skiy Rayon, Lepiel, Lepiel Raion, Lepiel_District, Лепельскі Раён
 Lyeshcha, Leshcha, Leshchi
 Lyevaya Lyasnaya, Lesnaya Levaya, Levaya Lesna, Levaya Lesnaya, Reka Les'na Leva, Левая Лясная
@@ -943,7 +943,7 @@ Lyguma
 Lyntupka
 Lyoznyenski Rayon, Liozna, Liozna District, Liozna Raion, Lioznenskiy Rayon, Lyëznyenski Rayon, Лёзненскі Раён
 Lyubanskaye Vadaskhovishcha, Lyubanskoye Vodokhranilishche, Любанскае Вадасховішча
-Lyubanski Rayon, Lyuban, Lyuban District, Lyuban Raion, Любанский район, Любанскі раён
+Lyubanski Rayon, Lyuban, Lyuban District, Lyuban Raion, Lyubanskiy Rayon, Любанскі раён
 Lyubicha
 Lyubitsa
 Lyubkin'ya
@@ -975,7 +975,7 @@ Martynovka, Martynawka, Мартынаўка
 Marycha, Fluss Marycha, Mara, Marikha, Marikà, Marycha River, Marykha, Reka Marykha
 Maska
 Maskowski Rayon, Маскоўскі раён
-Mastowski Rayon, Masty District, Мастоўскі раён, Мостовский район
+Mastowski Rayon, Masty District, Mostovskiy Rayon, Мастоўскі раён
 Mastva, Mostva, Reka Mostava
 Matsitsa
 Matsovka
@@ -996,7 +996,7 @@ Mezhëva
 Milovka
 Minsk Oblast, Minsk, Minsk Region, Minskaya Oblast', Minskaya Voblasts'
 Minskaye Wzvyshsha, Minskaya Vozvyshennost'
-Minski Rayon, Minsk, Minsk Raion, Минский район, Мінскі Раён
+Minski Rayon, Minsk, Minsk Raion, Minskiy Rayon, Мінскі Раён
 Miranka
 Mirav'yevka, Миравьевка
 Mironovka
@@ -1004,7 +1004,7 @@ Mizhigryadka
 Mlinovka, Mlinawka, Млiнаўка
 Mlynka
 Mnyuta
-Mogilyov Oblast, Mahilyowskaya Voblasts', Mogilev, Mogilev Region, Mogilëv Oblast, Магілёўская Вобласць, Могилевская область
+Mogilyov Oblast, Mahilyowskaya Voblasts', Mogilev, Mogilev Region, Mogilëv Oblast, Mogilëvskaya Oblast', Магілёўская Вобласць
 Mokrovskiy Kanal
 Mokryanka
 Molchad', Mowchadz', Mołczadź, Reka Molchadz', Моўчадзь
@@ -1038,9 +1038,9 @@ Mutnyanka
 Mutvitsa
 Muzhanka
 Muzhichok
-Myadzyel'ski Rayon, Myadzyel, Myadzyel Raion, Мядельский район, Мядзельскі Раён
+Myadzyel'ski Rayon, Myadel'skiy Rayon, Myadzyel, Myadzyel Raion, Мядзельскі Раён
 Myadzyelka, Myadelka, Reka Myadzelka, Мядзелка
-Myorski Rayon, Miyorski Rayon, Myory, Myory District, Myory Raion, Миорский район, Мёрскі Раён
+Myorski Rayon, Miorskiy Rayon, Miyorski Rayon, Myory, Myory District, Myory Raion, Мёрскі Раён
 Mysh'
 Myshanka, Mushanka, Myszanka
 Mytva
@@ -1088,7 +1088,7 @@ Neveritsa
 Nevezha
 Nevorozhka
 Nezharovka
-Nezhatka, Няжатка
+Nezhatka, Nyazhatka
 Nezhlevka
 Nishcha, Nischa
 Nizhnyaya Viseyka
@@ -1108,16 +1108,16 @@ Novoyel'nyanskiy Sel'sovet, Navayel'nyanski Syel'savyet, Наваельнянс�
 Nočia
 Nyasvizhski Rayon, Nesvizhskiy Rayon, Nyasvizh, Нясвіжскі Раён
 Nyasyeta, Neseta, Нясета
-Nyatsyosha, Нетёша, Няцёша
-Nyavisha, Nyevisha, Невиша
-Nyenach, Kanava Nenach', Ненач
+Nyatsyosha, Netësha, Няцёша
+Nyavisha, Nevisha, Nyevisha
+Nyenach, Kanava Nenach', Nenach'
 Nyeshcharda, Neshcherda, Нешчарда
-Nyomanka, Nimanka, Нёманка
+Nyomanka, Nimanka, Nëmanka
 Nyomanyets, Nemanets
 Nyowda, Nevda, Нёўда
 Obal', Obol'
 Obedovka
-Obrovskiy Kanal, Канал Обровский
+Obrovskiy Kanal, Kanal Obrovskiy
 Odla
 Ognesh
 Okhonovka
@@ -1129,7 +1129,7 @@ Ol'khovka
 Ol'nitsa
 Ol'sa
 Ol'shanka
-Ol'shina, Вольшына
+Ol'shina, Vol'shyna
 Ol'shovka, Al'shovka, Al'showka
 Olekhovka
 Oles'ka
@@ -1260,12 +1260,12 @@ Ozero Chernetskoye, Озеро Чернецкое
 Ozero Chernitsa
 Ozero Chernotskoye, Озеро Черноцкое
 Ozero Chernyasto
-Ozero Chertovo, Ozero Chizhovka
 Ozero Chertovskiy Omut
 Ozero Chetvërt'
 Ozero Chisti
 Ozero Chistik
 Ozero Chërnoye, Возера Чорнае, Озеро Чёрное
+Ozero Chërtovo, Ozero Chizhovka
 Ozero Chërty
 Ozero Dauble
 Ozero Dednoye, Озеро Дедное
@@ -1809,15 +1809,15 @@ Ozeryanka, Azyaranka
 Ozëra Omshera
 Ozëra Pokamerskiye, Озёра Покамерские
 Ozërnyy Kanal, Kanal Ozërnyy
-Pachapawski Syel'savyet, Пачапаўскі Сельсавет, Почаповский Сельсовет
+Pachapawski Syel'savyet, Pochapovskiy Sel'sovet, Пачапаўскі Сельсавет
 Padeyka
 Pagaujenų Miškas
 Pal'minka
 Palovitsa
 Palyeskaya Nizina, Poles'ye, Polesia, Polesie, Polis'ka Nyzovyna, Puszcza Różańska, Rokitno Sümpfe
 Palyeski Radyyatsyyna-Ekalahichny Zapavyednik, Polesskiy Radiatsionno-Ekologicheskiy Zapovednik, Палескі Радыяцыйна-Экалагічны Запаведнік
-Partyzanski Rayon, Партизанский район, Партызанскі раён
-Pastawski Rayon, Pastavy, Pastavy District, Pastavy Raion, Пастаўскі раён, Поставский район
+Partyzanski Rayon, Partizanskiy Rayon, Партызанскі раён
+Pastawski Rayon, Pastavy, Pastavy District, Pastavy Raion, Postavskiy Rayon, Пастаўскі раён
 Patseya, Potseya
 Patyl'ty
 Pavlovskiy Sel'sovet, Pawlawski Syel'savyet, Паўлаўскі Сельсавет
@@ -1871,12 +1871,12 @@ Pod”yavorka, Pad”yavarka
 Pogonyanskiy Kanal, Kanal Pogonyanskiy
 Pogorel'skiy Kanal
 Pokats', Pokot'
-Polatski Rayon, Polatsk Raion, Polotsk, Полацкі Раён, Полоцкий район
+Polatski Rayon, Polatsk Raion, Polotsk, Polotskiy Rayon, Полацкі Раён
 Polichna, Policzna
 Polna
 Polonka, Palonka
 Polonkovskiy Sel'sovet, Palonkawski Syel'savyet, Палонкаўскі Сельсавет
-Polota, Palota, Палата
+Polota, Palata, Palota
 Polotskaya Nizina
 Polovets
 Polovitsa
@@ -1886,7 +1886,7 @@ Poluostrov Lisinyanskiy
 Poluty
 Pomarayka
 Ponarka
-Ponikva, Панiква
+Ponikva, Panikva
 Ponya
 Poperechnaya
 Poroka
@@ -1941,13 +1941,13 @@ Purvėnų Tvenkinys
 Putisko
 Pyadon'
 Pyatrovitskaye Vadaskhovishcha, Petrovichskoye Vodokhranilishche, Пятровіцкае Вадасховішча
-Pyershamayski Rayon, Первомайский район, Першамайскі раён
+Pyershamayski Rayon, Pervomayskiy Rayon, Першамайскі раён
 Pyesachanka, Pesochanka, Pesochenka, Песачанка
-Pyetrykawski Rayon, Petrykauskaga Rayon, Pietrykaw, Pietrykaŭ Rajon, Pietrykaŭski Rajon, Петриковский район, Петрыкаўскі раён
+Pyetrykawski Rayon, Petrikovskiy Rayon, Petrykauskaga Rayon, Pietrykaw, Pietrykaŭ Rajon, Pietrykaŭski Rajon, Петрыкаўскі раён
 Pyranka
 Rachny Port Babruysk, Rechnoy Port Bobruysk
 Rachny Port Homyel', Homyel', Гомель, Рачны Порт Гомель
-Rachny Port Mikashevichy, Rechnoy Port Mikashevichi, Мікашэвічы
+Rachny Port Mikashevichy, Mikashevichy, Rechnoy Port Mikashevichi
 Rachny Port Pinsk, Pinsk, Rechnoy Port Pinsk
 Radinskiy Kanal, Kanal Radinskiy
 Radostovskiy Biologicheskiy Zakaznik
@@ -1969,10 +1969,10 @@ Rditsa, Roitsa
 Rechishche
 Rechitsa
 Rechka
-Rechytski Rayon, Rechytsa, Rečyca District, Rečyca Raion, Rečycki Raion, Речицкий район, Рэчыцкі Раён
+Rechytski Rayon, Rechitskiy Rayon, Rechytsa, Rečyca District, Rečyca Raion, Rečycki Raion, Рэчыцкі Раён
 Rekotun
 Rekta
-Republic of Belarus, Belarus', Belorussia, Belorusskaya Sovetskaya Sotsialisticheskaya Respublika, Byelarus', Byelaruskaya Savyetskaya Satsyyalistychnaya Respublika, Byelorussian Soviet Socialist Republic, Republic of Byelarus, Respublika Belarus', Respublika Byelarus', White Russian Soviet Socialist Republic, Белоруссия
+Republic of Belarus, Belarus, Belorussia, Belorusskaya Sovetskaya Sotsialisticheskaya Respublika, Byelarus', Byelaruskaya Savyetskaya Satsyyalistychnaya Respublika, Byelorussian Soviet Socialist Republic, Republic of Byelarus, Respublika Belarus', Respublika Byelarus', White Russian Soviet Socialist Republic, Белоруссия
 Retimlya
 Reutok
 Revza
@@ -1981,8 +1981,8 @@ Rogozhinka
 Rogozhitsa
 Roista
 Romanovshchina
-Rosica, Росіца
-Ross', Рось
+Rosica, Rositsa
+Ross', Ros'
 Rossomakha
 Rova
 Rozhava
@@ -2017,7 +2017,7 @@ Rybnoye Khozyaystvo Byten', Рыбное Хозяйство Бытень
 Rycha
 Ryshta
 Ryta
-Ryzhova, Рыжово
+Ryzhova, Ryzhovo
 Rzhacha
 Rzhavka
 Rzhawka, Ржаўка
@@ -2028,11 +2028,11 @@ Salihorskaye Vadaskhovishcha, Soligorskoye Vodokhranilishche, Салігорск
 Salihorski Rayon, Salihorsk, Salihorsk Raion, Soligorskiy Rayon, Салігорскі раён
 Samarovka, Samarawka, Самараўка
 Samotech'
-Sarjanka, Saranka, Sarija, Sarja, Сар'янка
+Sarjanka, Saranka, Sarija, Sarja, Sar”yanka
 Sarmatia
 Sasva
 Savka
-Savyetski Rayon, Voroshilovskiy Rayon, Варашылаўскі раён, Савецкі Раён, Советский район
+Savyetski Rayon, Sovetskiy Rayon, Voroshilovskiy Rayon, Варашылаўскі раён, Савецкі Раён
 Sazhilka
 Scviha, Сцвіга
 Selyanka
@@ -2049,7 +2049,7 @@ Servach, Servech, Serwecz
 Servayka
 Shabrinskiy Biologicheskiy Zakaznik
 Shal'cha, Sol'cha, Sol'chyay, Solcza, Šalčia
-Sharkawshchynski Rayon, Sharkawshchyna, Sharkaŭshchyna, Sharkaŭshchyna Raion, Sharkowshchynski Rayon, Шаркаўшчынскі Раён, Шарковщинский район
+Sharkawshchynski Rayon, Sharkawshchyna, Sharkaŭshchyna, Sharkaŭshchyna Raion, Sharkovshchinskiy Rayon, Sharkowshchynski Rayon, Шаркаўшчынскі Раён
 Shats', Shat'
 Shchapka
 Shchara, Shara, Szczara
@@ -2076,7 +2076,7 @@ Shlyamitsa
 Shopsk
 Shosha, Shosho
 Shukhrovskaya
-Shumilinski Rayon, Shumilina, Shumilina District, Shumilina Raion, Sirotinskiy Rayon, Шумилинский район, Шумілінскі Раён
+Shumilinski Rayon, Shumilina, Shumilina District, Shumilina Raion, Shumilinskiy Rayon, Sirotinskiy Rayon, Шумілінскі Раён
 Shura
 Shuritsa, Reka Shurytsa
 Shusherovka
@@ -2107,7 +2107,7 @@ Skupa
 Slavechna, Slobechna, Slovechna
 Slavkovichskiy Kanal, Kanal Slavkovichskiy, Kanal Slavkovichsko-Yaminskiy
 Slavkovichsko-Yaminskiy Kanal, Kanal Slavkovichsko-Yaminskiy
-Slawharadski Rayon, Propoyskiy Rayon, Slawharad, Slawharad Raion, Славгородский район, Слаўгарадскі Раён
+Slawharadski Rayon, Propoyskiy Rayon, Slavgorodskiy Rayon, Slawharad, Slawharad Raion, Слаўгарадскі Раён
 Slepitsa
 Slepyanskaya Vodnaya Sistema, Slepnya
 Slizhanka
@@ -2117,9 +2117,9 @@ Slonimskiy Rayon, Slonim, Slonim District, Slonimski Rayon, Слонімскі �
 Sloust
 Sluch, Slucz
 Sluch' Mil'cha
-Slutski Rayon, Slutsk, Slutsk Raion, Слуцкий район, Слуцкі раён
-Smalyavitski Rayon, Smalyavichy, Smalyavichy District, Smalyavichy Raion, Смалявіцккі Раён, Смолевичский район
-Smarhonski Rayon, Smarhon, Smarhon' District, Смаргонскі Раён, Сморгонский район
+Slutski Rayon, Slutsk, Slutsk Raion, Slutskiy Rayon, Слуцкі раён
+Smalyavitski Rayon, Smalyavichy, Smalyavichy District, Smalyavichy Raion, Smolevichskiy Rayon, Смалявіцккі Раён
+Smarhonski Rayon, Smarhon, Smarhon' District, Smorgonskiy Rayon, Смаргонскі Раён
 Smerdeya
 Smolovitskiy Kanal, Kanal Smolovitskiy
 Smolyanka
@@ -2214,12 +2214,12 @@ Svyaditsa
 Svyantsitsa, Sventsitsa
 Svyantsyanskiya Hrady, Sventsyanskiye Gryady, Švenčionių Aukštuma
 Svyatitsa
-Svyetlahorski Rayon, Parichskiy Rayon, Svietlahorsk, Svietlahorsk Rajon, Svietlahorski Rajon, Светлагорскі раён, Светлогорский район
+Svyetlahorski Rayon, Parichskiy Rayon, Svetlogorskiy Rayon, Svietlahorsk, Svietlahorsk Rajon, Svietlahorski Rajon, Светлагорскі раён
 Svyla, Reka Svilka, Swiłka
 Syanna
-Syechna, Сечна
+Syechna, Sechna
 Syennyenski Rayon, Sennenskiy Rayon, Syanno, Сенненскі Раён, Сеннецкий район
-Syerhuch, Сергуч
+Syerhuch, Serguch
 Synkovichskiy Sel'sovet, Synkavitski Syel'savyet, Сынкавіцкі Сельсавет
 Syrets
 Tal'ka, Tol'ka
@@ -2236,7 +2236,7 @@ Timnitsa
 Tishovka
 Tochenka
 Tochnitsa
-Tomashovka, Томашёвка
+Tomashovka, Tomashëvka
 Tonkaya Luchka
 Tonva
 Torfopredpriyatiye Kobrinskoye, Торфопредприятие Кобринское
@@ -2275,7 +2275,7 @@ Tureya
 Turovka
 Turovlyanka
 Tushchanka
-Ubort', Убарць
+Ubort', Ubarts'
 Uchastok Yaskiy
 Udranka, Udra
 Ukhlyasts', Ukhlyast'
@@ -2335,9 +2335,9 @@ Urochishche Berdovshchina
 Urochishche Berdyatskoye, Урочище Бердяцкое
 Urochishche Berezina, Urochyshcha Byerazina, Urochyshcha Byerazino, Урочышча Беразіна, Урочышча Беразіно
 Urochishche Berezinka
-Urochishche Bereznik
 Urochishche Bervitsy
 Urochishche Berëzki
+Urochishche Berëznik
 Urochishche Berëzovka
 Urochishche Berëzovoye, Урочище Березовое
 Urochishche Berëzovyy Gay
@@ -2368,7 +2368,7 @@ Urochishche Borisovshchina
 Urochishche Borki
 Urochishche Borki Ostashinskiye, Урочище Борки Осташинские
 Urochishche Borok
-Urochishche Borovaya Dacha, Урочышча Баравая Дача
+Urochishche Borovaya Dacha, Urochyshcha Baravaya Dacha
 Urochishche Borovka
 Urochishche Borshchevniki
 Urochishche Borshchevo, Urochyshcha Barshchova
@@ -2376,7 +2376,7 @@ Urochishche Borshchëvka
 Urochishche Boyarskiy Les
 Urochishche Brod
 Urochishche Brod Zhëltyy
-Urochishche Brodno, Урочышча Бродна
+Urochishche Brodno, Urochyshcha Brodna
 Urochishche Brodskiy Mokh
 Urochishche Brody
 Urochishche Bronskoye, Urochyshcha Bronskaye, Урочище Бронское, Урочышча Бронскае
@@ -2646,13 +2646,13 @@ Urochishche Komarovo
 Urochishche Konets
 Urochishche Konobai
 Urochishche Konopel'ki
-Urochishche Konstantinovo, Урочышча Канстанцінава
+Urochishche Konstantinovo, Urochyshcha Kanstantsinava
 Urochishche Konyukhovo Pole
 Urochishche Konyushki
 Urochishche Kopeyevshchina, Урочище Копеевщина
 Urochishche Kopishche
 Urochishche Koralevo
-Urochishche Korchi, Урочышча Карчы
+Urochishche Korchi, Urochyshcha Karchy
 Urochishche Korytino
 Urochishche Koshary
 Urochishche Kosovskiye, Урочище Косовские
@@ -2682,7 +2682,7 @@ Urochishche Krechina
 Urochishche Krenitsy
 Urochishche Krevina
 Urochishche Krinitsa
-Urochishche Krivaya, Урочышча Крывая
+Urochishche Krivaya, Urochyshcha Kryvaya
 Urochishche Krivoselishche
 Urochishche Krivoye, Урочище Кривое
 Urochishche Krivulya
@@ -2699,7 +2699,7 @@ Urochishche Kruglyy
 Urochishche Kruglyy Borok
 Urochishche Krupeli
 Urochishche Krupinskiye Delyanki, Урочище Крупинские Делянки
-Urochishche Krupovo, Урочышча Крупава
+Urochishche Krupovo, Urochyshcha Krupava
 Urochishche Krushniki
 Urochishche Krutoy Ruchey
 Urochishche Krutyashchiy Les
@@ -2712,7 +2712,7 @@ Urochishche Kukhnishche
 Urochishche Kukol'skiy Gay
 Urochishche Kul'
 Urochishche Kuleshi
-Urochishche Kulik, Урочышча Кулік
+Urochishche Kulik, Urochyshcha Kulik
 Urochishche Kulikushki
 Urochishche Kunayad'
 Urochishche Kupino, Urochyshcha Kupino
@@ -2724,7 +2724,7 @@ Urochishche Kustovka
 Urochishche Kutsevo
 Urochishche Kuty
 Urochishche Kuzhel'
-Urochishche Kvachuki, Урочышча Квачукі
+Urochishche Kvachuki, Urochyshcha Kvachuki
 Urochishche Labuni
 Urochishche Lanka
 Urochishche Lapetskiye Gory, Урочище Лапецкие Горы
@@ -2750,7 +2750,7 @@ Urochishche Leshchanskiy Borok
 Urochishche Leshchanskiy Grud
 Urochishche Leshchikov Pen'
 Urochishche Leshchikova Gora
-Urochishche Leski, Урочышча Ляскі
+Urochishche Leski, Urochyshcha Lyaski
 Urochishche Lesnichestvo Glushnëvo
 Urochishche Lesnoy, Lesnoy
 Urochishche Lesskaya Pech'
@@ -2812,7 +2812,7 @@ Urochishche Maloye Rozdymle, Урочище Малое Роздымле
 Urochishche Malyye Leski, Урочище Малые Лески
 Urochishche Man'kov
 Urochishche Margi, Urochyshcha Marhi, Урочышча Маргі
-Urochishche Mariampol', Урочышча Марыампаль
+Urochishche Mariampol', Urochyshcha Maryampal'
 Urochishche Markovtsy
 Urochishche Marmulevskoye, Урочище Мармулевское
 Urochishche Martynovtsy
@@ -2834,9 +2834,9 @@ Urochishche Milevshchina
 Urochishche Mityuki
 Urochishche Mlynishche
 Urochishche Moguly
-Urochishche Mokh, Урочышча Мох
+Urochishche Mokh, Urochyshcha Mokh
 Urochishche Mokhovaya
-Urochishche Mokhovik, Урочышча Махавік
+Urochishche Mokhovik, Urochyshcha Makhavik
 Urochishche Mokhovoye, Урочище Моховое
 Urochishche Mokrets
 Urochishche Mokritsy
@@ -2873,16 +2873,16 @@ Urochishche Novaya Zhizn'
 Urochishche Noviki Kuntorovskiye, Урочище Новики Кунторовские
 Urochishche Novina, Urochyshcha Navina
 Urochishche Noviny
-Urochishche Novishche, Новище
+Urochishche Novishche, Novishche
 Urochishche Novosady
 Urochishche Novyy
 Urochishche Novyy Gay
 Urochishche Novyy Mir, Novy Mir, Novyy Mir
-Urochishche Novyy Vysotsk, Урочышча Новы Высацк
+Urochishche Novyy Vysotsk, Urochyshcha Novy Vysatsk
 Urochishche Obnogi
 Urochishche Oborki
 Urochishche Obsokh
-Urochishche Odrinishche, Урочышча Адрынішча
+Urochishche Odrinishche, Urochyshcha Adrynishcha
 Urochishche Ogoniny
 Urochishche Okhodnik
 Urochishche Okhonovskiy Les
@@ -3010,7 +3010,7 @@ Urochishche Polyanka, Urochyshcha Palyanka
 Urochishche Polyany
 Urochishche Polyudovo
 Urochishche Polyukhi
-Urochishche Polëtok, Урочище Полёмок
+Urochishche Polëtok, Урочище Полемок
 Urochishche Popelevo
 Urochishche Popelishki
 Urochishche Poperechnoye, Урочище Поперечное
@@ -3142,8 +3142,8 @@ Urochishche Shkury
 Urochishche Shlyubel'
 Urochishche Shmaty
 Urochishche Shnipovo
-Urochishche Shnury, Урочышча Шнуры
-Urochishche Shpil', Урочышча Шпіль
+Urochishche Shnury, Urochyshcha Shnury
+Urochishche Shpil', Urochyshcha Shpil'
 Urochishche Shukovka
 Urochishche Shulyaki
 Urochishche Sidorovo
@@ -3186,7 +3186,7 @@ Urochishche Stavinskiye Bolota, Урочище Ставинские Болота
 Urochishche Stavishchevo, Urochyshcha Stavishchava
 Urochishche Stavy
 Urochishche Storozhanka
-Urochishche Strakhotin, Урочышча Страхоцін
+Urochishche Strakhotin, Urochyshcha Strakhotsin
 Urochishche Strazhnikovo
 Urochishche Strelitsa
 Urochishche Stremova Sheya
@@ -3198,7 +3198,7 @@ Urochishche Stysha
 Urochishche Suchki
 Urochishche Sukhaya Galya
 Urochishche Svakha
-Urochishche Svidovo, Урочышча Свідава
+Urochishche Svidovo, Urochyshcha Svidava
 Urochishche Svityaz'
 Urochishche Svyatoye Boloto, Урочище Святое Болото
 Urochishche Tabor
@@ -3301,7 +3301,7 @@ Urochishche Volostovshchina
 Urochishche Voloye, Урочище Волое
 Urochishche Vomshar
 Urochishche Vorkevichi
-Urochishche Vorochkovo, Урочышча Варачкова
+Urochishche Vorochkovo, Urochyshcha Varachkova
 Urochishche Voronichskiy Ostrov
 Urochishche Voronichskoye Boloto, Урочище Вороничское Болото
 Urochishche Voroniy Bor
@@ -3366,7 +3366,7 @@ Urochishche Zagoroda
 Urochishche Zagrodi
 Urochishche Zakanal'ye, Урочище Заканалье
 Urochishche Zakorev, Zakrev
-Urochishche Zakrovshchina, Zakrewshchyna, Закревщина, Закрэўшчына
+Urochishche Zakrovshchina, Zakrevshchina, Zakrewshchyna, Закрэўшчына
 Urochishche Zaksenzhevo
 Urochishche Zalaza
 Urochishche Zalazevka
@@ -3420,11 +3420,11 @@ Urochishche Zubovskiy Gay, Уроичще Зубовский Гай
 Urochisnche Borshchevets
 Urochyshcha Byely Hay, Urochishche Belyy Gay, Урочышча Белы Гай
 Urochyshcha Haradskaya Dacha, Urochishche Gorodskaya Dacha, Урочышча Гарадская Дача
-Urochyshcha Katowshchyna, Урочище Котовщина, Урочышча Катоўшчына
+Urochyshcha Katowshchyna, Urochishche Kotovshchina, Урочышча Катоўшчына
 Urochyshcha Klin
 Urochyshcha Padbalotstsye, Урочище Подболотье, Урочышча Падбалоцце
 Urochyshcha Paddubyennye, Urochishche Podduben'ye, Урочище Поддубенье, Урочышча Паддубенне
-Urochyshcha Postnikava, Постниково, Урочище Постниково
+Urochyshcha Postnikava, Postnikovo, Urochishche Postnikovo
 Urochyshcha Pyetrasyelishcha, Urochishche Petroselishche, Урочышча Петраселішча
 Urochyshcha Ruchai, Urochishche Ruch'i
 Urochyshcha Rudnya
@@ -3466,7 +3466,7 @@ Vadaskhovishcha Hez·hal'skaye, Вадасховішча Гезгальскае
 Vadaskhovishcha Laktyshy, Vodokhranilishche Loktyshi
 Vadaskhovishcha Navayel'nyanskaye, Vodokhranilishche Novoyel'nyanskoye, Вадасховішча Наваельнянскае, Водохранилище Новоельнянское
 Vadaskhovishcha Pahost, Ozero Pogost, Ozero Pogostskoye, Vodokhranilishche Pogost, Вадасховішча Пагост
-Vadaskhovishcha Syalyets, Vodokhranilishche Selets, Вадасховішча Сялец
+Vadaskhovishcha Syalyets, Vadaskhovishcha Syalets, Vodokhranilishche Selets
 Vadaskhovishcha Vyacha, Vodokhranilishche Vyacha
 Vadaskhovishcha Vyeluta, Vodokhranilishche Veluta, Вадасховішча Велута
 Val'sha, Ol'sha
@@ -3475,7 +3475,7 @@ Valevskiy Sel'sovet, Valyewski Syel'savyet, Валеўскі Сельсавет
 Valovka, Валоўка
 Valowka, Валоўка
 Valozhynka, Volozhinka
-Valozhynski Rayon, Valozhyn, Valozhyn District, Valozhyn Raion, Валожынскі Раён, Воложинский район
+Valozhynski Rayon, Valozhyn, Valozhyn District, Valozhyn Raion, Volozhinskiy Rayon, Валожынскі Раён
 Vampershchina
 Vas'kovskoye Vodokhranilishche, Васьковское Водохранилище
 Vasilevichskiy Rayon, Vasilyevitski Rayon
@@ -3501,7 +3501,7 @@ Veprinka, Vyeprynka, Вепрынка
 Verbovka
 Verenka
 Veresozhka
-Veret'ya, Река Верецья
+Veret'ya, Reka Verets'ya
 Vereteyka
 Verkhniye Pogorany, Верхние Погораны
 Verža
@@ -3516,16 +3516,16 @@ Vil'ye
 Vileyka
 Viliya
 Vilyeyskaye Vadaskhovishcha, Vileyskoye Vodokhranilishche, Вілейскае Вадасховішча
-Vilyeyski Rayon, Vileyka Raion, https://en.wikipedia.org/wiki/Vileyka_District, Вилейский район, Вілейскі Раён
+Vilyeyski Rayon, Vileyka Raion, Vileyskiy Rayon, https://en.wikipedia.org/wiki/Vileyka_District, Вілейскі Раён
 Vir'
 Visha
 Vishnya
 Visla
 Vislitsa
-Vitebsk Oblast, Vitebsk, Vitebsk Region, Vitsyebskaya Voblasts', Витебская Область, Віцебская Вобласць
+Vitebsk Oblast, Vitebsk, Vitebsk Region, Vitebskaya Oblast', Vitsyebskaya Voblasts', Віцебская Вобласць
 Vits', Vit'
 Vits'ba, Vit'ba
-Vitsyebskaye Wzvyshsha, Витебская Возвышенность
+Vitsyebskaye Wzvyshsha, Vitebskaya Vozvyshennost'
 Vitsyebski Rayon, Vitebsk, Vitebsk District, Vitebskiy Rayon, Віцебскі Раён
 Vlyushka
 Vod'ga
@@ -3557,7 +3557,7 @@ Volozhinskiy Kanal, Kanal Volozhinskiy
 Volpyanka, Vawpyanka, Volnyanka, Volpyana, Ваўпянка
 Volta
 Volynka
-Voranawski Rayon, Voranava, Voranava District, Воранаўскі раён, Вороновский район
+Voranawski Rayon, Voranava, Voranava District, Voronovskiy Rayon, Воранаўскі раён
 Vorle
 Vorlya
 Voronka
@@ -3600,7 +3600,7 @@ Vozyera Hustaty, Ozero Gustata, Ozero Gustaty, Возера Густаты
 Vozyera Kasho, Ozero Kosho, Возера Кашо
 Vozyera Kryvoye, Возера Крывое
 Vozyera Losvida, Ozero Losvida, Ozero Losvido, Возера Лосвіда
-Vozyera Luka, Возера Лука, Озеро Лука
+Vozyera Luka, Ozero Luka, Возера Лука
 Vozyera Lukawskaye, Ozero Lukovske, Ozero Lukovskoye, Возера Лукаўскае
 Vozyera Lukomskoye, Lake Lukomiskoye, Lukoml'skoye Ozero, Ozero Lukomskoye, Возера Лукомское
 Vozyera Lyepyel'skaye, Ozero Lepel'skoye, Возера Лепельскае
@@ -3634,7 +3634,7 @@ Vozyera Syanno, Ozero Senno, Возера Сянно
 Vozyera Syasita, Ozero Sesito, Возера Сясіта
 Vozyera Tsyosta, Ozero Tiosto, Возера Цёста
 Vozyera Uklya, Ozero Ukla, Ozero Uklya, Возера Укля
-Vozyera Ust, Возера Уст, Озеро Уст
+Vozyera Ust, Ozero Ust, Возера Уст
 Vozyera Usvyechcha, Ozero Usvech'ye, Возера Усвечча, Озеро Усвечье
 Vozyera Usvyeya, Ozero Usveya, Возера Усвея
 Vozyera Val'kowskaye, Ozero Val'kovskoye, Возера Валькоўскае, Озеро Вальковское
@@ -3690,7 +3690,7 @@ Yarshevka, Reka Yarshuvka
 Yasel'dovskiy Kanal, Kanal Yasel'dovskiy
 Yasenovitsa
 Yasyel'da, Jasiołda, Yasel'da
-Yasyenyets, Ясенец
+Yasyenyets, Yasenets
 Yatel'
 Yatranka
 Yaznach
@@ -3736,20 +3736,20 @@ Zarudecha
 Zashcheslenskiy
 Zaslawskaye Vadaskhovishcha, Vodokhranilishche Gonoles, Zaslavl'skoye Vodokhranilishche, Zaslavskoye Vodokhranilishche, Заслаўскае Вадасховішча
 Zavodnaya
-Zavodski Rayon, Stalinskiy Rayon, Заводской район, Заводскі раён, Сталінскі раён
+Zavodski Rayon, Stalinskiy Rayon, Zavodskoy Rayon, Заводскі раён, Сталінскі раён
 Zazharskiy Kanal, Kanal Zazharskiy
 Zazër'ye, Зазёрье
 Zborkhov
 Zekha
 Zel'venskiy Rayon, Zel'va, Zel'va District, Zel'vyenski Rayon, Зэльвенскі Раён
 Zel'venskiy Sel'sovet, Zel'vyenski Syel'savyet, Зэльвенскі Сельсавет
-Zel'vyanka, Zelvianka, Zelwianka, Зальвянка
+Zel'vyanka, Zal'vyanka, Zelvianka, Zelwianka
 Zel'vyenskaye Vadaskhovishcha, Zel'venskoye Vodokhranilishche, Зельвенское Водохранилище, Зэльвенскае Вадасховішча
 Zelenukha
 Zemchatka
 Zenyanishka
 Zernya
-Zhabinkawski Rayon, Zhabinka, Zhabinka District, Жабинковский район, Жабінкаўскі Раён
+Zhabinkawski Rayon, Zhabinka, Zhabinka District, Zhabinkovskiy Rayon, Жабінкаўскі Раён
 Zhadun'ka
 Zhalon', Mukhoyedovskiy Kanal, Zhelon'
 Zhaterevka
@@ -3770,7 +3770,7 @@ Zhirovichskiy Sel'sovet, Zhyrovitski Syel'savyet, Жыровіцкі Сельс�
 Zhitinka
 Zhitkovichskiy Biologicheskiy Zakaznik
 Zhivorëzka
-Zhlobinski Rayon, Zhlobin, Žlobin District, Žlobin Raion, Žlobinski Raion, Жлобинский район, Жлобінскі раён
+Zhlobinski Rayon, Zhlobin, Zhlobinskiy Rayon, Žlobin District, Žlobin Raion, Žlobinski Raion, Жлобінскі раён
 Zhmurnyanskiy Kanal, Kanal Zhmurnyanskiy
 Zhornovka
 Zhortayka
@@ -3778,8 +3778,8 @@ Zhuchok
 Zhuzhma
 Zhyhulyan, Zhegulyanka, Zhegulyanskiy Kanal, Жыгулян
 Zhyrowski Kanal, Zhirovskiy Kanal, Zhyrivs'kyy Kanal, Жыроўскі Канал
-Zhytkavitski Rayon, Zhytkavichy, Zhytkavshkaga Rayon, Žytkavicki Rajon, Žytkavičy Rajon, Житковичский район, Жыткавіцкі раён
-Zhyzhma, Żyżma, Žižma, Жижма
+Zhytkavitski Rayon, Zhitkovichskiy Rayon, Zhytkavichy, Zhytkavshkaga Rayon, Žytkavicki Rajon, Žytkavičy Rajon, Жыткавіцкі раён
+Zhyzhma, Zhizhma, Żyżma, Žižma
 Zlotezhechka
 Zmeyka, Dzveya
 Zozul'ka, Zozil'ka

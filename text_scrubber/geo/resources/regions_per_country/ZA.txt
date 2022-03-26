@@ -25,8 +25,6 @@ Aardvark
 Aarfontein
 Aarkop
 Aasbank
-Aasvoelkop, Drie Koppen
-Aasvoelkrans, Gymanshoekkop, Gysmanshoek Kop
 Aasvoelspruit
 Aasvogel Kop
 Aasvogel Laagte
@@ -40,6 +38,8 @@ Aasvoëlberg, Aasvoeisberg, Aasvoge Berg, Aasvogel Berg
 Aasvoëlberge
 Aasvoëlhoek
 Aasvoëlkloof
+Aasvoëlkop, Drie Koppen
+Aasvoëlkrans, Gymanshoekkop, Gysmanshoek Kop
 Aasvoëlkrans se Loop
 Aasvoëlkrans-Dagbreek
 Aasvoëlneus
@@ -5818,7 +5818,6 @@ Hoekfontein
 Hoekklip
 Hoekkloof
 Hoeko se Kloof
-Hoekop
 Hoekplaaskop
 Hoekrivier
 Hoeksberg
@@ -6040,6 +6039,7 @@ Hoëbank
 Hoëberg, Dassiesberg, Hoog Berg, Hoogeberg
 Hoëduin
 Hoëfontein se Koppe
+Hoëkop
 Hoëkraal
 Hoëkraalrivier
 Hoëkrans
@@ -6456,7 +6456,6 @@ Jochimsrivier
 Jocks Point
 Joe Gqabi District Municipality, Ukhahlamba District Municipality
 Joe Morolong
-Joelshoek
 Joggemspruit, Joachim, Joachimspruit
 Johanna
 Johanneskloof
@@ -6541,6 +6540,7 @@ Joubertsvleispruit, Joubertsuleispruit
 Joweni
 Jozikhulu
 Jozini
+Joëlshoek
 Juanasberg, Johanberg
 Jubilee
 Jubilee Buttress
@@ -8485,7 +8485,7 @@ Kranswerf
 Krantzhoek
 Krantzkloof Natuire Reserve
 Krapgate
-Krapohleiland, Krapohl Islands
+Krapohleiland, Krapohl Island
 Kreefbaai, Kreeft Bay, Wadrifmond Kreefbaai
 Kreeftebaai, Kreefte Bay
 Kremetartkop
@@ -9219,7 +9219,7 @@ KwaZangwa
 KwaZibungele
 KwaZita, Wasita Hill
 KwaZulu Hot Springs
-KwaZulu-Natal, Natal, Province of KwaZulu/Natal, Province of Natal
+KwaZulu-Natal, Natal, Province of KwaZulu-Natal, Province of Natal
 KwaZulu-Natal Midlands, Midlands KwaZulu-Natal, Natal Midlands
 KwaZululiyaduma
 KwaZundi
@@ -10250,7 +10250,7 @@ Mac Mac Forest Reserve, Mac Mac
 Mac-Mac Falls
 Mac-Mac Kop
 Mac-Mac Pools
-Mac-Mac River, Mac Mac Loop, Mac-Mac
+Mac-Mac River, Mac Mac, Mac Mac Loop
 Macabazini
 Macabini
 Macabuzela
@@ -14193,7 +14193,7 @@ North Paw, North Lions Paw
 North Peak, Diamond Shape
 North Point
 North Sand Bluff
-North West, Province of North-West
+North West, Province of North West
 Northern Cape, Province of Northern Cape
 Northern Karroo, High Veld, High Veldt, North Karroo, Northern Karoo, Upper Karroo
 Northern Suburbs, Cape Town Northern Suburbs
@@ -15347,7 +15347,7 @@ Perde Plaat
 Perde-eiland, Paarden Island
 Perdebak
 Perdebank
-Perdeberg, Mollers Pile, Paarde-berg, Paarden Berg, Perdeberg II, Perdeberg Noord
+Perdeberg, Mollers Pile, Paarde Berg, Paarden Berg, Perdeberg II, Perdeberg Noord
 Perdeberg Suid
 Perdebergrivier, Paardeberg River
 Perdebontrivier
@@ -16022,7 +16022,7 @@ Qudeni Forest
 Qudeni Range
 Queen Victoria Peak
 Queen's Hill
-Queen's River, Queens
+Queen's River, Queen's
 Queens Beach
 Queens Park
 Queensberry Bay, Queensberry
@@ -16455,7 +16455,7 @@ Rock Island
 Rock Rabbit Ridge
 Rock Thompson
 Rockclyffe-on-Sea, Rock Cliff
-Rockeries Pass, Cathedral Pass, The Rockeries
+Rockeries Pass, Cathedral Pass, Rockeries
 Rockfield
 Rockhopper Bay
 Rocklands Bay
@@ -20690,7 +20690,6 @@ Viswaterrivier, Visch Water, Visch Water River
 Vivi
 Vivian Kop
 Viviers Pan, Vercees Pan, Viviers
-Vlaebakenskop
 Vlaeberg, Vlag Berg
 Vlaefontein se Rivier
 Vlaekop
@@ -20722,6 +20721,7 @@ Vlakvarkpan
 Vlakveld se Bult
 Vlameiland
 Vlatjiesgoedval se Kloof
+Vlaëbakenskop
 Vleesbaai, Flesh Bay, Fleshbaai
 Vleespunt, Flesh Point, Fleshpunt
 Vlei se Bank
@@ -20935,7 +20935,7 @@ Vyekop
 Vyekraalrivier
 Vyemond se Berg
 Vyfspruit
-Vyfsusters, The Five Sisters, Vijf Zusters
+Vyfsusters, Five Sisters, Vijf Zusters
 Vyftienmyl se Berge
 Vygebooms Kraal
 Vyldevallei

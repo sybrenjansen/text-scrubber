@@ -328,7 +328,7 @@ Al 'Akrash, العكرش
 Al 'Akrash an Nafāfīs, العكرش النفافيس
 Al 'Aljān, العلجان
 Al 'Amārah, العمارة
-Al 'Araş, 'Arus, العرص, عَرَص
+Al 'Araş, 'Araş, 'Arus, العرص
 Al 'Asharā, العشرا
 Al 'Atrashī, العترشي
 Al 'Ayn al Ḩulwah, العين الحلوة
@@ -359,7 +359,7 @@ Al Abharīyah, الأبهرية
 Al Afjah, اَلأَفْجَة
 Al Aswāq, الأسواق
 Al Athārīyah, Latariyah, اَلأَثَارِيَّة
-Al Aşba'ah, Asba'ah Bis, أَسْبَأَة, الأصبعة
+Al Aşba'ah, Asba'ah, Asba'ah Bis, الأصبعة
 Al Bambarah, Al Bambara, اَلْبَمْبَرَة
 Al Baqarah, البقرة
 Al Barthah, البرثة
@@ -472,7 +472,7 @@ Al Khurayb, Al Kharaib, Al Kharâ'rb, Kharaib, اَلْخُرَيْب
 Al Khurayj, اَلْخُرَيْج
 Al Khurayjah, الخريجة
 Al Khurayqāt, الخريقات
-Al Khurays, Al Akhrass, Al Kharaiz, Al Khuraiz, Kharais, Lakhrass, Lakhress, الخريص, اَلأَخْرَسّ, اَلْخُرَيْس
+Al Khurayş, Al Akhrass, Al Kharaiz, Al Khuraiz, Kharais, Lakhrass, Lakhress, الخريص, اَلأَخْرَسّ, اَلْخُرَيْس
 Al Khurayţīyāt, Al Kharaitiat, Al Kharaityât, Al Kharīţīyāt, Al Khuraitiyat, Al Kuraitiyat, Kharitiyat, Kharityat, الخريطيات, اَلْخرِيطِيَّات, اَلْخُرَيْطِيَّات
 Al Khurayţīyāt Umm Qabrayn, الخريطيات أم قبرين
 Al Khurayţīyāt al Gharbīyah, الخريطيات الغربية, خريطيات الغربية
@@ -590,8 +590,8 @@ Al Waḩlah al Khurāyij, الوحلة الخرايج
 Al Wu'ayb, الوعيب
 Al Wu'ayb al Gharbī, الوعيب الغربي
 Al Wujaybah, الوجيبة
-Al Wusayl, Al Usail, Al Wasait, Al Wusail, Jabal Lūsail, Lusail, Usail, الوصيل, اَلْوُسَيْل
 Al Wusayl al Gharbīyah, الوسبل الغربية
+Al Wuşayl, Al Usail, Al Wasait, Al Wusail, Jabal Lūsail, Lusail, Usail, الوصيل, اَلْوُسَيْل
 Al Wuḑayḩīyah, Al Wudhaihivah, Al Wudhaihiyah, Al Wuḑaiḩiya, Al Wuḑaynīyah, الوضيحية, الوُضَيْحِيَّة
 Al Yaghbī, Al Jaghbī, Al Jughbī, Jaghbi, Joghbi, Jughbi, Yughbī, اليغبي, يُغْبِي
 Al Ḩabīyah, الحبية, اَلْهَبِيَّة
@@ -656,7 +656,7 @@ Ar Ruwayḑ ash Sharqī, الرويض الشرقي
 Ar Ruwayḑah, الرويضة
 Ar Ruwayḑāt, الرويضات
 Ar Ruwayḑāt adh Dhakhīrah, الرويضات الذخيرة
-Ar Ruḩayyah, الرحية, رِيَّة
+Ar Ruḩayyah, Rīyah, الرحية
 Ar Rāshī, Al Rashi, Raki, اَلرَّاشِي
 Ar Rāḩah, الراحة
 As Sa'd, السعد
@@ -826,7 +826,7 @@ Bi'r al Ḩimārah, بئر الحمارة
 Bi'r al Ḩuşayn, Bir Hussain, بِئْر الحُصَيْن
 Bi'r as Suwayḩilīyah al Gharbīyah, بئر السويحلية الغربية
 Bilād Ibrāhīm, Balad Ibrahim, Ibrāhīm, بِلاَد إِبْرَاهِيم
-Bin Ghārah, Abū Bin Ghārah, أَبُنْغَرَة, بن غارة
+Bin Ghārah, Abungharah, Abū Bin Ghārah, بن غارة
 Bin Ghārat 'Arş, بن غارة عرص
 Birak al 'Azzūz, برك العزوز
 Birak as Sūdān, برك السودان
@@ -905,7 +905,7 @@ Furūsh al Khaznah, فروش الخزنة
 Furūsh an Nafāfīs ash Shamālīyah, فروش النفافيس الشمالية
 Furūsh as Sīq ash Shamālīyah, فروش السيق الشمالية
 Furūsh aş Şakhbarīyah, فروش الصخبرية
-Fuḩayḩīl, Fahal, Faḩaḩīl, فحيحيل, فُحَيْحِيل
+Fuḩayḩīl, Fahahil, Fahal, فحيحيل, فُحَيْحِيل
 Gharrah, غرة, غَرَّة
 Ghaynat Fuwayriţ, غينة فويرط
 Ghaynat al Khurayş, غينة الخريص
@@ -1132,9 +1132,9 @@ Jarī as Sāmir, جري السامر
 Jarī ash Shā'ir, جري الشاعر
 Jarī az Zar', جري الزرع
 Jarī az Zarārī', جري الزراريع
-Jarī az Z̧aby, جري الظبي
-Jarī az Z̧aby ash Shamālī, جري الظبي الشمالي
+Jarī az̧ Z̧aby, جري الظبي
 Jarī az̧ Z̧aby al Janūbī, جري الظبي الجنوبي
+Jarī az̧ Z̧aby ash Shamālī, جري الظبي الشمالي
 Jarī aş Şaḩn, جري الصحن
 Jarī aş Şaḩrā, جري الصحرا
 Jarī aţ Ţayyārah, جري الطيارة
@@ -1158,7 +1158,7 @@ Jaww Barqat ath Thalāth, جو برقة الثلاث
 Jaww Bashīr, جو بشير
 Jaww Da'sah, Ad Da'sah, الدَّعْسَة, جو دعسة
 Jaww Fuḩayḩīl, جو فحيحيل
-Jaww Kulayb, جو كليب, جَوّ كُلَيْب, چَلِب, چَلِبْأْبِس
+Jaww Kulayb, Chalib, Chalib'bis, جو كليب, جَوّ كُلَيْب
 Jaww Mahlaţ, Mahlaţ, جو مهلط, مهلط
 Jaww Maḩsanah, جو محسنة
 Jaww Surayyi', Jau Sarai, Jaub Serai, Jawb Serai, Jaww as Surayyi', جو سريع, جَوّ اَلسُّرَيِّع
@@ -1212,7 +1212,7 @@ Judaydat Murawwib, جديدة مروب
 Jufrat Mā' al Kharā'ij, جفرة ماء الخرائج
 Julay'āt 'Alī Bin Sa'īd, جليعات علي بن سعيد
 Julayb Bū Qaşţ, جليب بو قصط
-Julayḩah, Jalaha, Jaleha, Jalhah, Jalḩīyah, جليحة, جَلَهَة
+Julayḩah, Jalaha, Jalahah, Jaleha, Jalhah, Jalḩīyah, جليحة
 Juzur ad Dawākhil, جُزُر اَلدَّوَاخِل
 Kab' Abā al Farankaḩ, كبع أبا الفرنكح
 Kab' al Markh, كبع المرخ
@@ -1236,7 +1236,7 @@ Kharījat al Masḩabīyah, خريجة المسحبية
 Khashm an Nakhsh, Khashm an Nukhsh, Khashm en Nakhsa, خشم النخش, خَشْم اَلنَّخْش
 Khasārah, خسارة
 Khawr Shaqīq, خَوْر شَقِيق
-Khawr al 'Udayd, Khawr al 'Uwayd, Khawr al Wuţayd, Khor al 'Udaid, Khor al Odaid, Khor al Odeid, Khor al Ubeid, Khor al Wutaid, Khor al- 'Udeid, خَوْر اَلْعُدَيْد
+Khawr al 'Udayd, Khawr al 'Uwayd, Khawr al Wuţayd, Khor al 'Udaid, Khor al 'Udeid, Khor al Odaid, Khor al Odeid, Khor al Ubeid, Khor al Wutaid, خَوْر اَلْعُدَيْد
 Khaznat Umm az Zabad, خزنة أم الزبد
 Khujayj Munīrah, خجيج منيرة
 Khujayj Quraymishān, خجيج قريمشان
@@ -1250,7 +1250,7 @@ Khāşūmah, خاصومة
 Lahd Dharb ash Sharqīyah, لهد ذرب الشرقية
 Lahd Umm al Quhāb ash Sharqī, لهد أم القهاب الشرقي
 Lahd al Buḩūth ash Sharqī, لهد البحوث الشرقي
-Lakhkh, لخ, لَچ
+Lakhkh, Lach, لخ
 Laqţah, Laqaţah, Laqta
 Lawţīyāt, لوطيات
 Lishā, لشا
@@ -1927,7 +1927,6 @@ Thanīyat al Yaḩshah, Thanīyat al Jaḩshah, ثنية الجحشة, ثنية 
 Thumayd, ثميد
 Thumayd ad Dayhab, Thumaid al Daiha, Thumaid al Daihah, Tuman al Daihah, ثُمَيْد اَلدَّيْهَب
 Thumayd adh Dhā'ib, ثميد الذائب
-Ti's ad Darb, Ta'as al Darb, تِعْس اَلدَّرْب, طعس الدرب
 Tinbak, تنبك
 Tinbak al Gharbīyah, تنبك الغربية
 Tinbak ash Sharqīyah al Qadīmah, تنبك الشرقية القديمة
@@ -2033,7 +2032,7 @@ Umm al 'Alīmāt, أم العليمات
 Umm al 'Amad, أم العمد
 Umm al 'Aqārib, أم العقارب
 Umm al 'Aţf, أم العطف
-Umm al 'Iz̧ām, Umm al 'Az̧ām, Umm al Adham, Umm al Adhem, أُمّ اَلأَذَم, أُمّ اَلْعِظَام, ام العظام
+Umm al 'Iz̧ām, Umm al 'Az̧ām, Umm al Adham, Umm al Adhem, أم العظام, أُمّ اَلأَذَم, أُمّ اَلْعِظَام
 Umm al 'Ushūsh, أم العشوش
 Umm al Birak, أم البرك
 Umm al Birak 'Arş, أم البرك عرص
@@ -2430,7 +2429,7 @@ Wādī al Haram, وادي الهرم
 Wādī al Hashshā, وادي الهشا
 Wādī al Hashīmīyah, وادي الهشيمية
 Wādī al Hawlah, وادي الهولة
-Wādī al Ikhwān, وادي الاخوان
+Wādī al Ikhwān, وادي الأخوان
 Wādī al Jabr, وادي الجبر
 Wādī al Jaltah, وادي الجلتة
 Wādī al Jalāt, وادي الجلات
@@ -2599,6 +2598,7 @@ Z̧unayţ, ظنيط
 Ţi's Nāşif
 Ţi's Umm Jarrah al Janūbīyah, طعس أم جرة الجنوبية
 Ţi's Umm Jarrah ash Shamālīyah, Ta'as Umm Jarrah, Umm al Jarrah, Ţu'ūs Umm Jarrah, طعس أم جرة الشمالية, طُعُوس أُمّ جَرَّة
+Ţi's ad Darb, Ta'as al Darb, تِعْس اَلدَّرْب, طعس الدرب
 Ţi's al Kir'ānah, Ta'as Karanah, Ţi's Kar'ānah, Ţi's Kir'ānah, طعس الكرعانة, طعس كرعانة, طِعْس اَلْكِرْعَانَة
 Ţiwār al Kharrārah, طوار الخرارة, طِوَار اَلْخَرَّارَة
 Ţiwār al Kharrārah ash Shamālī, طوار الخرارة الشمالي

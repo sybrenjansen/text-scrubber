@@ -15,7 +15,6 @@ Arroyo Abam
 Arroyo Abame
 Arroyo Abang
 Arroyo Abanga
-Arroyo Abe
 Arroyo Abeda
 Arroyo Abele
 Arroyo Abello
@@ -30,6 +29,7 @@ Arroyo Abos
 Arroyo Aboso
 Arroyo Abudyam
 Arroyo Abumembeme
+Arroyo Abé
 Arroyo Acale
 Arroyo Achinidyang
 Arroyo Aco
@@ -52,26 +52,26 @@ Arroyo Adyingom
 Arroyo Adyo
 Arroyo Adyugu
 Arroyo Afac
-Arroyo Afan
 Arroyo Afere
 Arroyo Afifia
-Arroyo Afo
 Arroyo Afumangan
 Arroyo Afumo
+Arroyo Afán
+Arroyo Afó
 Arroyo Aguadadabo
 Arroyo Aguobonguin
 Arroyo Ajasjabal, Ajasiabal
 Arroyo Akehkaha
 Arroyo Alen
-Arroyo Alo
 Arroyo Alomo
 Arroyo Alu
+Arroyo Aló
 Arroyo Amini
 Arroyo Amyam
 Arroyo Andene
-Arroyo Ando
 Arroyo Andung
 Arroyo Andungo
+Arroyo Andó
 Arroyo Anga
 Arroyo Angumá
 Arroyo Ansem
@@ -129,10 +129,10 @@ Arroyo Becueñ
 Arroyo Bekere
 Arroyo Bekire
 Arroyo Bembie
-Arroyo Bemva
 Arroyo Bemvang
 Arroyo Bemvogo
 Arroyo Bemvong
+Arroyo Bemvá
 Arroyo Bene
 Arroyo Bengong
 Arroyo Bengui
@@ -175,7 +175,6 @@ Arroyo Bimvile
 Arroyo Bimvile Pequeño
 Arroyo Bina
 Arroyo Bingocomo
-Arroyo Bingoma
 Arroyo Binguala
 Arroyo Bingui
 Arroyo Binguma
@@ -213,6 +212,7 @@ Arroyo Brubia
 Arroyo Bualan
 Arroyo Buile
 Arroyo Bur
+Arroyo Bíngoma
 Arroyo Caiñ
 Arroyo Cam
 Arroyo Chaman
@@ -627,7 +627,7 @@ Arroyo Nselec
 Arroyo Nselegue
 Arroyo Nseneg
 Arroyo Nserga
-Arroyo Nsie
+Arroyo Nsié
 Arroyo Nso
 Arroyo Nsoacale
 Arroyo Nsoaebara
@@ -757,7 +757,7 @@ Bahía de Bata, Baie de Bata
 Bahía de Luba, Bahía de San Carlos, Baie de San Carlos, George Bay, San Carlos Bay
 Bahía de Nervión, Goderich Bay, Nervion Bay
 Bahía de Riaba, Bahía de la Concepción, Baie de la Conception, Melville Bay
-Bahía de Santa Isabel, Port Clarence, St. Isabel Bay
+Bahía de Santa Isabel, Port Clarence, Saint Isabel Bay
 Bahía de Venus, Cockburn Cove, Ensenada de Venus, Venus Bay
 Banco Dwarf, Dwarf Shoal
 Banco Lauria
@@ -1000,7 +1000,7 @@ Punta Corona, Punta Meduma
 Punta Cristina, Adelaide Point, Cristiana Point, Cristina Point
 Punta Cuche, Cabo Kuchi, Punta Cuchi, Punta Kutia
 Punta Culábana
-Punta Dabe, Punta Esteves, Punta Noroeste, Punta Norte Oeste, Punta d'Ave
+Punta Dabe, Punta Dave, Punta Esteves, Punta Noroeste, Punta Norte Oeste
 Punta Dalea
 Punta Dolores, Pointe Dolorès
 Punta Dyiscoj, Punta Jiscoy
@@ -1055,7 +1055,7 @@ Punta Palanja
 Punta Pamitubasu
 Punta Pegom
 Punta Penvadu, Punta Alvaro, Punta Alvarp, Punta Manamayu
-Punta Sagres, Cape Badgley, Punta Padgley, Punta Sangre, Punta da Sagre
+Punta Sagres, Cape Badgley, Punta Padgley, Punta Sagre, Punta Sangre
 Punta Salvador, Pointe del Salvador
 Punta Sambobo
 Punta Sandegadu
@@ -1180,7 +1180,7 @@ Río Biyele
 Río Boara
 Río Bobende
 Río Bobiale
-Río Bobo, Rio Boba
+Río Bobó, Rio Boba
 Río Boco
 Río Bocoboco
 Río Boculu
@@ -1270,8 +1270,8 @@ Río Ebuchu, Río Dipuchú, Río Epuchú
 Río Eburi
 Río Ebá
 Río Ecang
-Río Echue
 Río Echundye
+Río Echué
 Río Ecuc
 Río Ecuco, Río Cugu, Río Ecucu, Río Ekuko, Río Ekuku
 Río Edda
@@ -1471,7 +1471,7 @@ Río Muloobo
 Río Muni, Continental, Continental Guinea, Distrito Continental, Province of Rio Muni, Provincia de Río Muni
 Río Musola
 Río Mveleadyiva
-Río Mven
+Río Mveñ
 Río Mvoa
 Río Mvobo
 Río Mvoglo
@@ -1487,7 +1487,7 @@ Río Ncoesi
 Río Ncomo
 Río Ncoro
 Río Ncumalen
-Río Ndaa
+Río Ndaá
 Río Ndemele
 Río Ndote, Río Dote, Río Endote
 Río Ndua

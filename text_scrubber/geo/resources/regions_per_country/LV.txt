@@ -88,7 +88,6 @@ Arkamaņi
 Arona
 Aronas pagasts
 Artura island, Artūr
-Arupīte, Ārupe
 Arves ezers
 Arālīte, Orāleite
 Asares pagasts
@@ -426,11 +425,11 @@ Elejas pagasts
 Elkuzeme, Myza Elkuzeme
 Elkšņu pagasts
 Embūtes pagasts
-Engure
 Engures Ezers, Anger Lake, Engure Lake, Engure Ozero, Engures-See, Ozero Engures Ezers
 Engures Novads
 Engures Upe
 Engures pagasts
+Engūre
 Ezere, Ezerupe
 Ezeres pagasts
 Ezernieku pagasts
@@ -534,8 +533,8 @@ Ilzas Ezers, Garaņimovas-Ilzas ezers
 Ilzenes pagasts
 Ilzes Ezers, Ozero Ilze
 Ilzeskalna pagasts
-Ilzins, Iizine, Juisenu Exers
 Ilziķezers, Ilziķis, Ilziķu Ezers
+Ilziņš, Iizine, Juisenu Exers
 Ilzu Ezers
 Ilūkste
 Ilūkstes Novads
@@ -947,7 +946,6 @@ Limbaži
 Limbažu Lielezers, Lielezers, Ozero Liyel-Ezers, Ozero Liyelezer
 Limbažu novads, Limbazhskiy Rayon, Limbažu Rajons
 Limbažu pagasts
-Linezers, Ozero Lin, Ozero Lini
 Lipenecas Ezers
 Lipsa
 Lisa
@@ -1020,6 +1018,7 @@ Līvbērzes pagasts
 Līvāni
 Līvānu Novads, Leivuona nūvods
 Līčupe, Ličupīte
+Līņezers, Ozero Lin, Ozero Lini
 Lūkumītis
 Lūrmaņi, Luurmani
 Lūznavas pagasts
@@ -1199,7 +1198,7 @@ Naukšēnu pagasts
 Nautrēnu pagasts
 Nedzis, Ozero Nedzis, Saves Ezers
 Neicgaļa Mežs, Nīcgales Mežs
-Nereta, Narača, Nareta, Neretiņa, Neretynya, Neretėlė, Reka Neret
+Nereta, Narača, Nareta, Neretina, Neretynya, Neretėlė, Reka Neret
 Neretas Novads
 Neretas pagasts
 Nesaules Ezers
@@ -1598,7 +1597,6 @@ Saune
 Sausnējas pagasts
 Sausupe
 Sausā Daugava
-Savīte, Sava, Săviška, Uģērnīca
 Seces pagasts
 Seda
 Sedas Tīrelis
@@ -1734,7 +1732,7 @@ Strenču Mežs, Strenči Mežs
 Strenču Novads
 Stropu Ezers, Lielais Stropu ezers, Ozero Strop, Ozero Stropu Ezers
 Stružānu pagasts
-Strīkupe, Vaidava
+Strīķupe, Vaidava
 Strūžānu Pūrs, Taunaga-Strūžānu Purvs
 Stuļva Pors, Stulvju Purvs
 Stāmerienas Ezers, Stāmeres Ezers
@@ -1776,7 +1774,6 @@ Svātiunes Ezers, Svētunes Ezers
 Svātovas Ezers, Svātavas Ezers
 Svēpaine, Svepayne, Svēpane
 Svētaine, Svetayne
-Svēte, Svehte
 Svētes Ezers, Ozero Svetes, Svētezers
 Svētes pagasts
 Svētupe, Sverupe
@@ -1786,6 +1783,7 @@ Sārnates Purvs
 Sārumezers, Ozero Sarum-Ezers, Ozero Saruma, Sāruma Ezers
 Sāti, Saty
 Sāvienas Ezers
+Sāvīte, Sava, Săviška, Uģērnīca
 Sējas Novads, Sēja
 Sējas novads
 Sēlpils pagasts
@@ -1975,7 +1973,6 @@ Veseta, Vesela
 Vestienas pagasts
 Veģu Dīķi
 Veģupīte, Veģe
-Veždūka, Reka Varzhupe, Reka Vezhduka, Varžupe, Vēzupe
 Vidaga
 Vidrižu Gārša, Vidriži Mežs
 Vidrižu pagasts
@@ -2023,7 +2020,7 @@ Vircavas pagasts
 Virešu pagasts
 Virga
 Virgas pagasts
-Virgulitsa, Virguļica
+Virgulitsa, Virgulica
 Virica
 Virvuļs
 Virāne, Virānīte
@@ -2076,6 +2073,7 @@ Vērsis
 Vērēmu pagasts
 Vērģupe
 Vēršupīte, Vershupite, Ķemerupe
+Vēždūka, Reka Varzhupe, Reka Vezhduka, Varžupe, Vēzupe
 Vīkslas Ezers, Ozero Viksle
 Vīksnas pagasts
 Vīpes pagasts
@@ -2165,6 +2163,7 @@ Zīvartiņš
 Āraišu ezers
 Ārdavas ezers
 Ārlavas pagasts
+Ārupīte, Ārupe
 Āsteres Ezers, Ozero Astere
 Āzišķu Ezers
 Āģēre, Adģere
@@ -2243,8 +2242,9 @@ Zīvartiņš
 Šlokenbekas Dzirnavu Ezers
 Šnitkas Pūrs, Lagazu-Snitku Purvs
 Šusta Ezers
-Šuņezers, Šuņa ezers, Šuņas ezers, Šuņazars, Šūņu ezers
+Šuņezers, Sūnu ezers, Šuņa ezers, Šuņas ezers, Šuņazars
 Šventoji, Schwenta, Shventa, Sventa, Sventāja, Šventoji River
+Švėtė, Svehte
 Šēderes pagasts
 Šēfera birzs
 Šēnheidas Ezers

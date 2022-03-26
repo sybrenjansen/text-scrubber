@@ -140,7 +140,6 @@ Babotina
 Babovica Polje
 Bacalica
 Bacanica
-Backa Reka
 Badanj, Baden
 Badanjska Glavica
 Badine, Badnjine
@@ -306,6 +305,7 @@ Bačija
 Bačije
 Bačište
 Bačka, Bachka, Baska, Batchka, Batschka, Bács, Bácska
+Bačka Reka
 Bačkala
 Bačkalo
 Bašta
@@ -448,7 +448,6 @@ Bečmenski Ključ
 Bešinac
 Bežanijska Kosa
 Bežanovac
-Bic
 Bigalj
 Bigar
 Bigar Reka
@@ -501,6 +500,7 @@ Bitva
 Bitvino Polje
 Bivoli Kamen
 Bivoljača
+Bić
 Bićin Potok
 Bićinica, Čoše
 Bič Planina
@@ -702,9 +702,9 @@ Bran Kovica
 Branevac
 Branevina
 Braneško Polje
-Branicevo, Branicevo District, Braničevski Okrug
-Branici
 Branik
+Branići
+Braničevo, Branicevo District, Braničevski Okrug
 Branište
 Branjevina
 Branka
@@ -717,7 +717,7 @@ Branojevac, Brajevac
 Branova Glava
 Brasni
 Bratanov Del
-Bratesina
+Bratešina
 Bratin Dol
 Bratićevac
 Bratkova Strana
@@ -781,7 +781,7 @@ Brezik
 Brezine, Brezina
 Brezje
 Brezna
-Breznicka Reka
+Breznička Reka
 Brezov Dol
 Brezov Grad
 Brezov Laz
@@ -848,7 +848,7 @@ Budljevo
 Budoljin
 Budovar
 Budovija
-Budzaci, Buđaci
+Budžaci, Buđaci
 Budžak
 Bugarinsko Plandište
 Bugarska Voda
@@ -884,9 +884,9 @@ Bukovi
 Bukovi Potok
 Bukovic
 Bukovica
-Bukovicka Reka
 Bukovik
 Bukovička Planina
+Bukovička Reka
 Bukovički Ključ
 Bukovičko Brdo
 Bukovičko Polje
@@ -964,7 +964,6 @@ Buđevica
 Bušat
 Bušata
 Bušnička Reka
-Cakovac
 Carev Kladenac
 Careva Glava
 Careva Glavica
@@ -980,14 +979,12 @@ Carski Drum
 Cavlovovac
 Cađavac
 Celac
-Celavi Breg
 Celenac
 Celeruša, Bara Celeruša
 Celevac
 Celija
 Celijska Reka
 Celine
-Cemernik, Veliki Čemernik
 Cenini Šanci
 Central Banat, Central Banat District, Srednjebanatski Okrug
 Central Serbia, Serbia Proper, Централна Србија, Центральная Сербия
@@ -1016,11 +1013,11 @@ Cerova Poljana
 Cerova Reka
 Cerova kosa
 Cerovac
-Cerovacki Potok
 Cerovačka Brdo
 Cerovačka Glava
 Cerovačka Kosa
 Cerovačka Vetrenja, Čerovaoka Vetrenja
+Cerovački Potok
 Cerovački Zapis
 Cerove Grede
 Cerovi
@@ -1030,7 +1027,6 @@ Cerovo
 Cerovo Brdo
 Cerovo Polje
 Ceruva Jaruga
-Cestak
 Cetortine
 Ciganica
 Ciganija
@@ -1054,7 +1050,6 @@ Cigansko Polje
 Ciglana
 Ciglane
 Cijepci
-Ciker
 Cikotski Gradac
 Cikulj
 Cimin Kosak
@@ -1064,7 +1059,6 @@ Cipra
 Cirkovo Brdo
 Cirkovska Kosa
 Cišta Bara
-Cot
 Cototin Grob
 Covečji Potok
 Crcaljuša
@@ -1133,7 +1127,7 @@ Crnokalački Potok
 Crnokosa
 Crnoluška Reka, Ratajski Dol
 Crnook
-Crnovrska Reka
+Crnovrška Reka
 Crnovrški Potok
 Crnsko Brdo
 Crnušinski Potok, Crnusinac
@@ -1167,7 +1161,6 @@ Cudino Ždrelo
 Cugulj, Cigulj
 Cuka Krusi
 Cukajka
-Cukar
 Cukin Grob
 Cukulin
 Culište, Ćulišta
@@ -1196,7 +1189,6 @@ Dajša
 Dal
 Daljski Rit
 Dalu Balej
-Dalu Mare
 Dalu mare
 Damjanica
 Damjanovac
@@ -1297,7 +1289,6 @@ Detelin
 Deteline
 Detelinske Bašte
 Detelište
-Detinja, Djetinja
 Devesel
 Devet Dubova
 Devica
@@ -1544,7 +1535,6 @@ Duboki Do
 Duboki Dol
 Duboki Hajdučki Potok
 Duboki Kanal
-Duboki Potok, Brkin Potok, Duboki
 Duboki Priliv
 Duboko
 Dubova Česma
@@ -1616,7 +1606,6 @@ Dugovi
 Dukat, Duka, Dukat Planina
 Dukatska Čuka
 Dukinovac, Dukenovac
-Dula
 Dulenska Reka, Dulenka
 Dulensko Jezero
 Dulovište
@@ -1686,7 +1675,7 @@ Eminov Potok
 Endek
 Erakovača Bara
 Erino Brdo
-Erma, Јерма
+Erma, Jerma
 Erska Brdo
 Erske Strane
 Erski Potok
@@ -1848,7 +1837,6 @@ Glogovica
 Glogovik
 Glogovina
 Glonina
-Glozje
 Gloška Planina
 Gloška Reka
 Gložana
@@ -1856,6 +1844,7 @@ Gložanica
 Gložanska Reka
 Gloždak
 Gložder
+Gložje
 Gložđa
 Gložđe
 Gluhare
@@ -2326,7 +2315,6 @@ Gvozdina Voda
 Hadžijin Grob
 Hagel
 Hajdaromerovo Polje
-Hajducki Izvor
 Hajducko osoje
 Hajduča Poljana
 Hajdučica
@@ -2337,6 +2325,7 @@ Hajdučka Padina
 Hajdučka Voda
 Hajdučki Bor
 Hajdučki Bunar
+Hajdučki Izvor
 Hajdučki Kamen, Ajdučki Kamen
 Hajdučki Kladenac
 Hajdučki Potok
@@ -2531,7 +2520,7 @@ Jarmenovac
 Jarmovac
 Jarnin
 Jarnovci
-Jaros
+Jaroš
 Jaroši
 Jaruga
 Jaruge
@@ -2573,7 +2562,7 @@ Jasika
 Jasikar
 Jasikljivica
 Jasikov Trup
-Jasikovac
+Jasikovać
 Jasikovce
 Jasikovo Polje
 Jasičje
@@ -2947,7 +2936,6 @@ Kasapnica
 Kasapova Čuka
 Kasapovac
 Kasapsko Brdo
-Kaskalo
 Kasmada
 Katalin Breg
 Katanovac
@@ -2984,6 +2972,7 @@ Kašanj
 Kašica
 Kašice
 Kaškal
+Kaškalo
 Kcilatovac
 Keca
 Kedina Voda
@@ -3355,7 +3344,6 @@ Kozarska Reka
 Kozarski Potok
 Kozatski Potok
 Kozi Grb
-Kozica
 Kozile
 Kozja Bara
 Kozja Grbina
@@ -3414,6 +3402,7 @@ Košući Vrh
 Kožalj
 Kožder, Kožude, Kožuder
 Koželj
+Kožica
 Kožuarska Glama
 Kradnji Rt
 Kragujevac
@@ -3645,7 +3634,6 @@ Krštenski Potok
 Kržava
 Kubršnica
 Kuciert
-Kucište
 Kuda
 Kudelja
 Kudoš
@@ -3709,7 +3697,7 @@ Kulmea Šerban, Kulmea Alu Šcerban
 Kulmeal
 Kulučara
 Kumanička Klisura, Kumaniča Klisura
-Kumica, Koumitza, Кумица
+Kumica, Koumitza, Kumitsa
 Kumin Potok
 Kumodraško Polje
 Kumovac
@@ -3776,6 +3764,7 @@ Kućerine
 Kućine
 Kućičte
 Kućišta
+Kućište
 Kučajske Planine, Kučaj
 Kučevina
 Kučkina Čuka
@@ -3841,12 +3830,12 @@ Lazinje
 Lazino Brdo
 Lazića Kosa
 Lazića Krš
-Lazovi
 Lazovica Brdo
 Lazovića Klik
 Lazovo Brdo
 Lačevina
 Lađa
+Lažovi
 Lecka
 Ledenica
 Ledenice
@@ -3868,7 +3857,7 @@ Lepa Gora
 Lepa Ravan
 Lepaštica Reka
 Lepena
-Lepenica
+Lepenića
 Lepo Brdo
 Lepopatski Rid
 Lepušnika, Lepušnica
@@ -3886,7 +3875,6 @@ Leskovi Vis
 Leskovik
 Leskovrk
 Leskovska Reka
-Lesnica
 Lesnička Reka
 Lesnička Čuka
 Lesovski Rt
@@ -3914,6 +3902,7 @@ Lečovo
 Lešanski Del
 Leševska Reka
 Lešje
+Lešnica
 Leštak
 Leštava
 Lešter
@@ -3972,9 +3961,9 @@ Lipski Potok
 Lis
 Lisa
 Lisa Stena
-Lisac
 Lisac Brdo
 Lisanska
+Lisač
 Lisačka
 Lisica, Lisicë
 Lisiji Vrh
@@ -4050,8 +4039,8 @@ Ljudi
 Ljudska Reka, Doićki Potok, Ljutska, Lumi i Ludska
 Ljugit Mal
 Ljukten
-Ljuljaska
 Ljuljaš
+Ljuljaška
 Ljuljuška
 Ljupkova Kosa
 Ljupča
@@ -4072,7 +4061,7 @@ Loboda
 LoboderskaReka
 Lofka
 Logor
-Logoriste
+Logorište
 Lojza
 Lojze
 Lojzičko Polje
@@ -4108,7 +4097,6 @@ Loz
 Lozanska Reka, Vošačka Reka
 Lozica
 Lozina Poljana
-Loznac
 Loznačka Reka
 Loznoš
 Lozov Grob
@@ -4117,11 +4105,11 @@ Lozovik
 Ločevac
 Ložac
 Ložanjak
+Ložnac
 Lubenac
 Lubnička Reka
 Lubnički Vis
 Lubnički Vrh
-Lucka Reka
 Lud Laz
 Ludak
 Ludi Vir
@@ -4161,6 +4149,7 @@ Lutvina Česma
 Lučički Vrh
 Lučičko brdo
 Lučka
+Lučka Reka
 Lučko Brdo
 Lužnica
 Lužničko Polje
@@ -4168,7 +4157,6 @@ Macanin Grob
 Macanska Reka
 Macin Kamen
 Macina Obložina
-Mackovac
 Macovica
 Madani
 Madarski Potok
@@ -4541,6 +4529,7 @@ Mačkalovica
 Mačkov Kamen
 Mačkov Prud
 Mačkova Stena
+Mačkovac
 Mačkovačko Brdo
 Mačkovica
 Mačornica
@@ -5004,7 +4993,7 @@ Njive Preko Kanala
 Njiverice
 Njivetine
 Njivčići
-North Banat, North Banat District, Севернобанатски округ
+North Banat, North Banat District, Severnobanatski Okrug
 North Bačka, North Bačka District, Severnobački Okrug
 North Kosovo, Ibarski Kolašin, Észak-Koszovó, Северно Косово, Северное Косово, 北科索沃
 Norčanska Reka
@@ -5367,7 +5356,7 @@ Orlovsko Gnezdo, Otlovsko Grezdo
 Orlujak
 Orlušići
 Ornica
-Ornice
+Orniče
 Ornlce
 Orolija
 Orov Potok
@@ -5411,12 +5400,9 @@ Osredska Reka
 Ostjenci
 Ostjevac
 Ostojića Kosa
-Ostra Glavica, Eštra Glava
 Ostrelje
 Ostreš
 Ostrešnica
-Ostri Vrh
-Ostrica
 Ostricovica
 Ostrilo
 Ostrić
@@ -5462,13 +5448,16 @@ Ošljak
 Ošljanska Reka
 Ošljanski Potok
 Oštra Glava
+Oštra Glavica, Eštra Glava
 Oštra Kosa, Oštra Kamen
 Oštra Stena
 Oštra Čuka
 Oštrc
 Oštrelj
 Oštri Rid
+Oštri Vrh
 Oštri Čukar
+Oštrica
 Oštrik
 Oštrikovača
 Oštrikovica
@@ -5530,8 +5519,8 @@ Panjozl
 Panovača
 Pantića Vis
 Pančevo-grad, Opština Pančevo, Opština Pančevo-grad
-Pančicev Vrh, Maja e Argjendë, Milanov Vrh
 Pančina
+Pančićev Vrh, Maja e Argjendë, Milanov Vrh
 Papad
 Papaunko Deo
 Pape, Pepe, Pope
@@ -5607,7 +5596,6 @@ Pašnjaci
 Pašnjak
 Pažar
 Pažarska Brdo
-Pecine
 Pecka
 Peckovo Brdo
 Pedeška Reka
@@ -5696,6 +5684,7 @@ Pećani Rt
 Pećansko Brdo
 Pećin Bunar
 Pećina
+Pećine
 Pećinski Potok
 Pečano Bilo
 Pečavnica
@@ -5750,8 +5739,8 @@ Pjevin Grob
 Pjevčak
 Placevi
 Plana
-Plandiste
 Plandiški Potok
+Plandište
 Planica
 Planina
 Planina Kravari
@@ -5776,10 +5765,10 @@ Plavničište
 Plazović, Kidoš
 Plačkovac
 Plašivac
-Plece
 Plejnica
 Plevnište
 Plevnjište
+Pleće
 Pleći Potok
 Pleča
 Pleš
@@ -6069,7 +6058,7 @@ Prlina
 Prlitski Potok
 Prljak
 Prljanca
-Prljusa
+Prljuša
 Prlo
 Prlovi
 Prlovo
@@ -6401,7 +6390,7 @@ Ravnica
 Ravnice
 Ravnina
 Ravnine
-Ravniste
+Ravnište
 Ravnjak
 Ravno
 Ravno Brdo
@@ -6681,7 +6670,7 @@ Ružića Brdo
 Ružića Do
 Rzav
 Rzinjska Reka
-Râu Caraş, Caraș, Karaş, Karaš River, Rîu Caraş
+Râu Caraş, Caraş, Karaş, Karaš River, Rîu Caraş
 Ržanovo Brdo
 Ržanska Reka, Dragovištica
 Ržište
@@ -6717,7 +6706,6 @@ Samovilac
 Samoviljsko Kolo
 Samurovica Brešće
 Sana Kosa
-Sanac, Kadina Glavica
 Sandin Dol
 Sanduk
 Sandučka Kosa
@@ -6814,7 +6802,7 @@ Seoske Livade
 Seoski Del
 Seoski Potok
 Sepačka Kosa
-Serbia, Serbie, Serbien, Serbistan, Servia, Srbiya, Szerbia, Сербия, Србија, 塞尔维亚
+Serbia, Serbie, Serbien, Serbistan, Servia, Srbija, Srbiya, Szerbia, Сербия, 塞尔维亚
 Seroviči
 Servijanci
 Sesalska Reka
@@ -6826,7 +6814,6 @@ Seča
 Seča Reka
 Sečar
 Shashka
-Siba, Sokolovački Kamen
 Sibinjsko Polje
 Sibinov Grob
 Sibnica
@@ -6840,9 +6827,7 @@ Sikiljevac
 Sikira
 Sikolića
 Sikolska Reka
-Siljak
 Siljatinac
-Siljegarnik
 Simeonov Kladenac
 Simin Branik
 Simin Potok
@@ -7006,7 +6991,6 @@ Solotuška Reka
 Solovina
 Somnik
 Sopoljka
-Sopot, Tromeđa, Šapot
 Sopotnica
 Sorina Padina
 Sorići
@@ -7378,7 +7362,6 @@ Sumice
 Suna Polje, Suna Feld
 Supiški Vir
 Suplja Stena
-Supljaja
 Surdulska Reka
 Surdup
 Surdup Potok
@@ -7395,13 +7378,13 @@ Suva Padina
 Suva Planina
 Suva Reka
 Suva Česma
-Suvacki Potok
 Suvaja
 Suvaja Reka
 Suvaje
 Suvara
 Suvarje
 Suvača
+Suvački Potok
 Suve Livade
 Suvi Bor
 Suvi Do
@@ -7510,7 +7493,7 @@ Telešica
 Teljigar
 Temije
 Temn
-Temnic
+Temnić
 Temska, Temštica
 Tentarska Reka
 Tepe
@@ -7648,7 +7631,7 @@ Točilova Glava
 Točkova Bara
 Točkovo br.
 Točurnica
-Tošica Brdo
+Tošića Brdo
 Tošovac
 Trabežina
 Trainska Bara
@@ -7935,7 +7918,7 @@ Valuga
 Valuge
 Vandež
 Vao
-Vaoc
+Vaoč
 Vaočki Potok
 Vapa, Vapë
 Varadin
@@ -8192,9 +8175,9 @@ Veliko Imelato
 Veliko Kale
 Veliko Klupe
 Veliko Kopovo
-Veliko Kucište, Velliko Kucište
 Veliko Kurilo
 Veliko Kuvalovo
+Veliko Kućište, Velliko Kucište
 Veliko Okno
 Veliko Paklo
 Veliko Polje
@@ -8324,8 +8307,6 @@ Visoki Trap
 Visoki Vrh
 Visoki Čukar
 Visoko Bilo
-Visoko Brdo
-Visovi
 Visočica
 Visočka Čava
 Visočko Brdo
@@ -8361,6 +8342,8 @@ Višnik
 Višnjak
 Višnjičko Brdo, Brestići
 Višnjičko Polje
+Višoko Brdo
+Višovi
 Vjenčansko Prisoje
 Vkrot Ina
 Vkutina
@@ -8407,7 +8390,6 @@ Vodenička Reka
 Vodenično Brdo
 Vodenjak
 Vodica
-Vodice
 Vodički Kamen
 Vodički Potok
 Vodičko Brdo
@@ -8446,6 +8428,7 @@ Voćinska Bara
 Voćnjaci
 Vočanjak
 Vočes Bara
+Vođice
 Vracar
 Vragočanska Reka
 Vrah Koradzhanski Grobishta, Kalođinska Grobišta, Koladjanski Grobista, Koladžanski Grobišta, Vrŭkh Koradzhanski-Grobishta, Връх Кораджански Гробища
@@ -8550,8 +8533,8 @@ Vrpska Glava
 Vrsački Breg
 Vrtača
 Vrtače
-Vrtec
 Vrtena Buka
+Vrteč
 Vrteška
 Vrtište
 Vrtlozi
@@ -8576,7 +8559,6 @@ Vršićki Kik
 Vrška
 Vršna Lazina
 Vršnik
-Vucja Glava
 Vujanića Polje
 Vujaški Potok
 Vujin Del
@@ -8620,6 +8602,7 @@ Vučetino Brdo
 Vuči
 Vučica
 Vučina Vrtača
+Vučja Glava
 Vučja Gora
 Vučja Rupa
 Vučja Čuka
@@ -8856,7 +8839,6 @@ Zubetinačka Reka, Zubetinska Reka
 Zubrov Del
 Zubrova
 Zubrovo
-Zupa
 Zurković-Međa
 Zutar
 Zučka Kapija
@@ -8878,6 +8860,7 @@ kitinski Rid
 Ðakov Kamen
 Ðakova Strana
 Ðakovački Potok
+Ðalu Mare
 Ðanin Rid
 Ðavo
 Ðavolačka Strana
@@ -8896,6 +8879,7 @@ kitinski Rid
 Ðerenče
 Ðerica Brdo
 Ðerđelin
+Ðetinja, Djetinja
 Ðevojačko Brdo
 Ðilin Rt
 Ðinovića Kosa
@@ -8912,10 +8896,12 @@ kitinski Rid
 Ðopica
 Ðorin Potok
 Ðorđev Vrh
+Ðuboki Potok, Brkin Potok, Duboki
 Ðukin Do
 Ðukića Brdo
 Ðukića Vis
 Ðukošin Kanal, Džukošin Kanal
+Ðula
 Ðula Lokva
 Ðula-Deligrad
 Ðula-Straža
@@ -8939,13 +8925,14 @@ kitinski Rid
 Ðurđevac
 Ðurđevica
 Ðurđevo Brdo
-Ćafa e Tupit, Ćafa e Trupit
+Ćafa e Tupit, Ćafa Trupit
 Ćardak
 Ćatin Čajr
 Ćatići Vis
 Ćava, Gromov Biljeg, Zelenika
 Ćavik
 Ćelava Stena
+Ćelavi Breg
 Ćelavica
 Ćelebinac
 Ćelije
@@ -8969,6 +8956,7 @@ kitinski Rid
 Ćubića Brdo, Malića Brdo
 Ćufuk
 Ćukalački Potok
+Ćukar
 Ćukovac
 Ćukovački Breg
 Ćulinska Reka
@@ -8998,6 +8986,7 @@ kitinski Rid
 Čakić
 Čaklja
 Čakljanac
+Čakovac
 Čaldovina
 Čalija
 Čalma
@@ -9037,6 +9026,7 @@ kitinski Rid
 Čelinjak
 Čemerišta
 Čemernica
+Čemernik, Veliki Čemernik
 Čemerno, Čemerna Planina
 Čenej
 Čepac
@@ -9062,6 +9052,7 @@ kitinski Rid
 Česmeni Potok
 Česmice
 Česta
+Čestak
 Čestarsko Potok
 Česte
 Često
@@ -9091,6 +9082,7 @@ kitinski Rid
 Čigrine
 Čik, Csik, Csík-ér
 Čikaš
+Čiker
 Čikovac
 Čiprovska Planina
 Čista
@@ -9133,6 +9125,7 @@ kitinski Rid
 Čolovića Stijene
 Čorlas
 Čosovića Brdo
+Čot
 Čovečija Glava
 Čovka
 Črkba
@@ -9197,6 +9190,7 @@ kitinski Rid
 Šalitrana Polja
 Šalovac
 Šaludovačko Polje, Šoludovačko Polje
+Šanac, Kadina Glavica
 Šanci
 Šančevi
 Šančina
@@ -9262,11 +9256,13 @@ kitinski Rid
 Ševrljike
 Šečerovac
 Šib
+Šiba, Sokolovački Kamen
 Šibničko Lice
 Šibovac-Šibut, Šibovac
 Šibut
 Šidina
 Šidine
+Šiljak
 Šiljasti Brest
 Šiljata Stena
 Šiljata Čuka
@@ -9274,6 +9270,7 @@ kitinski Rid
 Šiljato Drvo
 Šiljača
 Šiljegarište
+Šiljegarnik
 Šilježe Brdo
 Šiljigarište
 Šiljin Potok
@@ -9337,6 +9334,7 @@ kitinski Rid
 Šomina Humka, Šamina Humka
 Šomrda
 Šopka
+Šopot, Tromeđa, Šapot
 Šopski Potok
 Šopsko Lojze
 Šopur
@@ -9389,6 +9387,7 @@ kitinski Rid
 Šuplja Lipa
 Šuplja Padina
 Šuplja Stijena
+Šupljaja
 Šupljak
 Šuplji Kamen
 Šupljica
@@ -9487,6 +9486,7 @@ kitinski Rid
 Žujinski Put
 Žukovačka Reka, Žukovska Reka
 Žuljevac
+Župa
 Župambara
 Županja
 Županjac

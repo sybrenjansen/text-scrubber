@@ -201,7 +201,7 @@ Becső, Becső-tó
 Bedeg-völgy
 Begécsi-víztároló, Begécsi-halastavak, Begécsi-tározó
 Bekecs-patak
-Bekes County, Békés, Békés Vármegye, Békés megye
+Bekes County, Békés, Békés Megye, Békés Vármegye
 Beleznaitanya, Beleznaytanya
 Belfőcsatorna, Belfői Csatorna
 Belső-Somogy
@@ -594,7 +594,7 @@ Cinegés-hegy
 Ciprus
 Codoló
 Concó, Concó-patak
-Crasna, Canalul Crasnei, Crasna River, Kraszna  River, Красна, 克拉斯納河
+Crasna, Canalul Crasnei, Crasna River, Krasna, Kraszna  River, 克拉斯納河
 Crişu Mic, Kis-Körös, Kis-Körös-csatorna, Kis-Körös-főcsatorna
 Csaba-domb, Csabai Hegy
 Csaba-szék
@@ -1465,7 +1465,7 @@ Hajagosd, Hajagosd-puszta
 Hajagospuszta
 Hajda, Hajdatanya
 Hajdinahegy
-Hajdú-Bihar, Bihar, Hajdu-biharska županija, Hajdú-Bihar County, Hajdú-Bihar megye, Komitat Hajdú-Bihar, Хајду-Бихар, 豪伊杜-比豪爾州
+Hajdú-Bihar, Bihar, Hajdu-Bihar County, Hajdu-biharska županija, Hajdú-Bihar megye, Komitat Hajdú-Bihar, Хајду-Бихар, 豪伊杜-比豪爾州
 Hajdú-hegy
 Hajdú-völgy, Hajduvölgyi Tanyák
 Hajdúböszörményi Járás
@@ -1613,7 +1613,7 @@ Herpenyő
 Hetei-tag, Héteytag
 Hetey-tag, Heteytanya
 Hetényi-rész
-Hetés, Kerka-vidék, Nyugat-Zalai-dombság, Nyugatzalai-Dombság
+Hetés, Kerka-Vidék, Nyugat-Zalai-dombság, Nyugatzalai-Dombság
 Heves megye, Heves, Heves County
 Hevesi Járás
 Hidas-bérc
@@ -1658,7 +1658,7 @@ Homoki Domb
 Homoki Hegy
 Homoki Malom
 Homor-szög
-Homorod, Homoródpuszta, Keleti-csatorna, Keleti-övcsatorna
+Homoród, Homoródpuszta, Keleti-csatorna, Keleti-övcsatorna
 Homorú-tető
 Honvéd-halom
 Hoportyó, Hoportyok, Hoportyok Hegy, Hoportyó-hegy, Koportyok, Koportyók-hegy
@@ -1717,7 +1717,7 @@ Hottó
 Hotyka-patak, Houjka-patak
 Hugahegy
 Hugyó-hegy
-Hungary, A Magyar Köztársaság, Hongrie, Magyar Népköztársaság, Magyarország, Maďarsko, Mađarska, Republic of Hungary, Ungaria, Ungarn, Ungheria, Wegry, Мађарска, 匈牙利
+Hungary, A Magyar Köztársaság, A Magyar Népköztársaság, Hongrie, Madjarska, Magyarország, Maďarsko, Mađarska, Republic of Hungary, Ungaria, Ungarn, Ungheria, Wegry, 匈牙利
 Hurkás-Hegyes-dűlő
 Huszár-hegy
 Huszászi-patak
@@ -1900,13 +1900,13 @@ Kalocsai-Sárköz
 Kalocsaidűlő
 Kamon-kő
 Kamrási-domb, Kamarási Halom
-Kanacs
 Kanalas-hegy
 Kancsér
 Kandikó, Kandikó Hegy
 Kanizsa
 Kantaköz, Kanta Köze
 Kanyór-tag
+Kanács
 Kaparás-zug
 Kapaszkodó
 Kapitány-dűlő
@@ -2016,10 +2016,8 @@ Kerek Hegy
 Kerek Tövisek, Kerek Tövisk
 Kerek-domb
 Kerek-erdő, Kerekerdőtanya
-Kerek-hegy
 Kerek-rét, Kerekrét-puszta
 Kerek-szik-tó
-Kerek-tó
 Kerekaljapuszta, Kerekalja
 Kereked
 Kerektó Hegy
@@ -2035,6 +2033,8 @@ Kerka, Nagy-Kerka
 Kersek-tető
 Kertafalu-víz
 Kertalja
+Kerék-hegy
+Kerék-tó
 Kerékkötő, Kerékkötőtanya
 Kerékkötő-hegy
 Kerítés
@@ -2413,7 +2413,7 @@ Káva-hegy
 Kék Hegy
 Kék-hegy
 Kék-kúti-völgy
-Kékes, Kékes-tető, Кекеш
+Kékes, Kékes tető, Кекеш
 Kémlőd, Kémlődpuszta
 Kéménd
 Kémének-bérc
@@ -2575,7 +2575,6 @@ Lanka Tető
 Lapincs, Lafnitz, Lapin-csatorna, Lapincs-patak
 Lapishegy
 Lapocka
-Lapos, Laposdůlő
 Lapos-dűlő, Dűlőlapos
 Lapos-halom
 Lapos-mező
@@ -2675,6 +2674,7 @@ Lánka-patak, Kurcori-folyás, Leányka-ér
 Láp-oldal
 Lápai Hegy
 Lápi Csatorna, Lápi-főcsatorna
+Lápos, Laposdůlő
 Lászlóháza
 Lászlómajor
 Lászlótanya
@@ -2791,7 +2791,6 @@ Marosica-dűlő
 Martinca
 Marton, Márton-halom
 Marton-földek, Marton-major
-Marton-hegy
 Martonpuszta
 Martonvásári Járás
 Marász-halom
@@ -2955,6 +2954,7 @@ Márkus Szekrénye
 Márkus-hegy
 Márokipuszta, Márokpuszta
 Mártatanya
+Márton-hegy
 Márvány-völgy
 Máróci Patak
 Más-Ságod
@@ -3872,8 +3872,8 @@ Somló, Somló-hegy
 Somogy megye, Somogy, Somogy County
 Somogyi-dombság, Somogyi-dombvidék
 Somos, Somostanya
-Somos Hegy
 Somos-hegy
+Somós Hegy
 Soproni Járás
 Soproni-medence
 Sormás
@@ -4513,7 +4513,6 @@ Tullusi-dűlő, Tullus
 Tungli-malom, Tunglimajor
 Tunyog-hegy, Tunyok-hegy
 Turgony
-Tuskós, Tuskóspuszta
 Tutucska-dűlő, Tutucskapuszta
 Tuzsa
 Tyukodi-vájás, Tyukodi Csatorna
@@ -4620,6 +4619,7 @@ Tükör-tó
 Tündér-tó
 Tüskevár
 Tüskés-dűlő
+Tüskös, Tuskóspuszta
 Tőkéspuszta
 Tűzköves-halom
 Tűzkő-hegy

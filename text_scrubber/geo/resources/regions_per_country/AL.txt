@@ -165,7 +165,7 @@ Bashkia e Vorës, Komuna Vorë, Qyteti i Vorës, Vorë
 Bashkia e Çorovodës, Bashkia Çorovodë, Qyteti i Çorovodës, Çorovodë
 Begaj
 Belaj, Mali Belaj
-Belega, Qafa e Lipovicës
+Belega, Qafa Lipovicës
 Beli
 Belica, Belica Planina, Mali i Belicës, Белица
 Beličko Brdo, Беличко Брдо
@@ -184,7 +184,7 @@ Bjeshka e Junikut
 Bjeshka e Metohisë
 Bjeshkët e Oroshit
 Bjeshkët e Përbicës
-Bjeshkët e Tërbunit dhe Kushnenit, Bieshka Terbunit, Bieshkë e Terlunit, Bjeshk' e Tërbunit, Bjeshka e Tërbunit, Bjeshkët e Tërbunit
+Bjeshkët e Tërbunit dhe Kushnenit, Bieshka Terbunit, Bieshkë e Terlunit, Bjeshk' e Tërbunit, Bjeshka Tërbunit, Bjeshkët e Tërbunit
 Blinisht
 Blloku i Madh
 Boazi
@@ -725,7 +725,7 @@ Gryka e Shkallës
 Gryka e Shkumbinit, Gryk' e Shkumbinit, Gryka e Lumit Shkumbini
 Gryka e Sinastrugës
 Gryka e Vilunit, Gryk' e Lundrěs, Gryk' e Lunërs, Gryka e Lunërs
-Gryka e Vjeter, Gryk' e Vjetër, Gryka e Lumit Vietër, Gryka e Lumit të Vjetër, Gryka i Vjetër
+Gryka e Vjetër, Gryk' e Vjetër, Gryka e Lumit Vietër, Gryka e Lumit të Vjetër, Gryka i Vjetër
 Gryka e Vjosës, Derdhja e Vjosës, Gryka e Vjosë
 Gryka e Xhehenemit
 Gryka e Xhelezit
@@ -749,7 +749,7 @@ Guri i Pishkashit, Gur i Pishkashit
 Guri i Regjanit, Gur i Regjanit
 Guri i Sukullit, Gur i Suklit, Gur i Sukullit
 Guri i Topit, Gur i Topit, Guri Tap
-Guri i Ujit, Gur' i Ujit
+Guri i Ujit, Gur i Ujit
 Guri i Urtunit
 Guri i Zi, Gur i Zi, Gurizi
 Guri me Gjurmë
@@ -1313,7 +1313,7 @@ Komuna e Velçanit, Komuna Velçan, Velçan
 Komuna e Vergojës, Komuna Vergo, Vergo
 Komuna e Vig-Mnelës, Komuna Mnelo-Vig, Mnele-Vig, Vig-Mnel, Vig-Mnell, Vig-Mnelë
 Komuna e Vithkuqit, Komuna Vithkuq, Vithkuq
-Komuna e Voskopojës, Komuna Voskopojë, Voskopojë
+Komuna e Voskopojës, Komuna Voskopojë, Voskopoje
 Komuna e Vranishtit, Horë-Vranisht, Komuna Horë Vranisht, Vranisht
 Komuna e Vëndreshës, Komuna Vëndreshë, Vëndreshë
 Komuna e Xhafzotajt, Komuna Xhafzotaj, Xhafzotaj
@@ -1479,7 +1479,7 @@ Liqeni i Fierzës, Ligeni i Fierzës, Vrbničko Jezero
 Liqeni i Gjëmise, Gjemys Lagoon, Gjol i Gjëmis, Këneta e Gjemysit, Liqeni Ghemis, Đoli Đemis
 Liqeni i Hotit
 Liqeni i Kallëngës
-Liqeni i Karavastasë, Karavasta Lagoon, Kavarsta, Kavarsta Lake, Kneta Kravasta, Kneta e Karavastes, Kneta e Karvastas, Kneta e Kravastaar, Kneta e Kravastasë, Kneta e Kravastës, Knetë e Karavastas, Kravastasee, Kravastasë, Krvasta, Kënet'e Karavastas, Këneta Kravastas, Laguna e Karavastasë, Lake Karavasta, Liceni Cravasta, Ligeni Kravasta, Limnē Karavasta, Liqen i Kravastas
+Liqeni i Karavastasë, Karavasta Lagoon, Kavarsta, Kavarsta Lake, Keneta e Kravastas, Kneta Kravasta, Kneta e Karavastes, Kneta e Karvastas, Kneta e Kravastaar, Kneta e Kravastasë, Kneta e Kravastës, Knetë e Karavastas, Kravastasee, Kravastasë, Krvasta, Kënet'e Karavastas, Laguna e Karavastasë, Lake Karavasta, Liceni Cravasta, Ligeni Kravasta, Limnē Karavasta, Liqen i Kravastas
 Liqeni i Karnicës, Karrnica
 Liqeni i Komanit
 Liqeni i Koçesit
@@ -1793,7 +1793,7 @@ Maja e Gobellit, Goúbel, Goúmbel, Gúbel, Maj' e Gobellit
 Maja e Gojrës
 Maja e Golishit, Golishi, Maj' e Galisit, Maj' e Golishit, Mali Golishit, Mali i Golishit
 Maja e Gollobicës, Гулабица
-Maja e Gradishtës, Maj' e Gradishtës, Градиште
+Maja e Gradishtës, Gradishtë, Maj' e Gradishtës
 Maja e Gramit
 Maja e Grebenit, Greben, Maj' e Grebenit, Mali Grebenit
 Maja e Gretës, Maj' e Grefës, Maj' e Greshës, Maja e Grefës
@@ -1831,14 +1831,14 @@ Maja e Jezercës, Jezerce, Jezerea e Pupunkës, Maja Jezercë, Maja e Ieserce, M
 Maja e Kafrit
 Maja e Kakisë, Kakinja, Kakinjë, Kakî, Maja e Kakinjës, Maja e Kakis, Majet e Šals, Mal i Shalës
 Maja e Kal Gjergjit
-Maja e Kalaja e Skënderbeut
+Maja e Kalaja e Skëndërbeut
 Maja e Kalasë
 Maja e Kalasës, Shkrep i Gurit, Shkrepi i Gurit
-Maja e Kalazanit, Maj' e Kalazarit, Maja e Kalazarit, Maja e Kaljazarit
+Maja e Kalazanit, Maj' e Kalazarit, Maja Kaljazarit, Maja e Kalazarit
 Maja e Kalibit
 Maja e Kallmishtës
 Maja e Kallogjerit, Mal i Kallogjerit, Mali i Kallogjerit, Калугер
-Maja e Kalurit, Kaluer, Maj' e Kalorit, Maja e Kalorit
+Maja e Kalurit, Kaluer, Maj' e Kalorit, Maja Kalorit
 Maja e Kaminijë, Kamina, Kaminu, Kaminuë, Kamminua, Mali i Kaminijës
 Maja e Kanqit
 Maja e Kaprollit, Maj' e Kaprollit, Maj' e Kaprollës, Maja e Kaprollës
@@ -1963,7 +1963,6 @@ Maja e Mathit
 Maja e Mazharit, Maj' e Mazharit, Mali i Mazharit
 Maja e Mbrezhanit, Bregianit, Brezhan, Maja e Brezhanit, Mbrezhdan
 Maja e Mecekut të Shëngjergjit, Meceku i Shëngjedgjit
-Maja e Megullës, Maj' e Mogullës, Maj' e Mëgulle, Maj'a e Mgullë, Maja Mguls, Maja e Mogullë, Maja e Mogullës, Mengullë, Mgullë, Mogullë
 Maja e Mellanit, Maj' e Mellanit, Maja Mellani
 Maja e Mesimerit, Maj' e Mesimerit, Maja e Messimerit
 Maja e Metohis, Maja Metohisë, Mal Metohis, Mal Metohisë, Mal i Metohijës, Mali i Metohijës, Metohija e Sirme
@@ -1983,6 +1982,7 @@ Maja e Mullës, Maj' e Mullës
 Maja e Munellës, Maj' e Munellës, Mal Munellë, Mali Munellës
 Maja e Murgës
 Maja e Muçalit, Mal i Muçal, Mali i Muçalit, Muçal
+Maja e Mëgullës, Maj' e Mogullës, Maj' e Mëgulle, Maj'a e Mgullë, Maja Mguls, Maja e Mogullë, Maja e Mogullës, Mengullë, Mgullë, Mogullë
 Maja e Mëllezës, Maja Mlleze, Maja e Mllezez, Mlezë
 Maja e Mëndresë
 Maja e Mënglës
@@ -2055,7 +2055,7 @@ Maja e Rakshanit
 Maja e Ram Arućit
 Maja e Ramiës, Mal Ramiës, Rami, Ramia, Ramis
 Maja e Rasës
-Maja e Rensit, Maj' e Rencit, Maja e Rencit
+Maja e Rensit, Maj' e Rencit, Maja Rencit
 Maja e Rexhepit, Maja e Reschepit, Rexhep
 Maja e Reçit, Mal i Reçit
 Maja e Rojës, Laki Rozec, Rojë, Suk' e Rojës, Suka Rujt, Suka e Rojës
@@ -2107,7 +2107,7 @@ Maja e Shpatës
 Maja e Shpjetrit, Maj' e Shpjetrit
 Maja e Shtashit
 Maja e Shtociçës, Mali Shtoçiçës
-Maja e Shtogut, Maj' e Shtogut, Maja e Stogut, Shtogu, Shtok
+Maja e Shtogut, Maj' e Shtogut, Maja Stogut, Shtogu, Shtok
 Maja e Shtrazës
 Maja e Shtyllës
 Maja e Shulicës
@@ -2121,9 +2121,9 @@ Maja e Shën Mërtirit, Maj' e Shën Mërtirit
 Maja e Shëngjergjit
 Maja e Sinan Dukës, Maj' e Sinan Dukes, Mali Sinan-Dukës
 Maja e Skajës, Mal' e Skajës, Skaje, Skanje
-Maja e Skurës, Maj' e Skurrës, Maja e Skurrës
+Maja e Skurës, Maj' e Skurrës, Maja Skurrës
 Maja e Skënderbeut, Maj' e Skanderbeut, Maj' e Skenderbeut
-Maja e Sllazhnicës, Glazhnicë, Maj' e Glazhnicës, Maja e Glazhnicës, Maja e Gllazhnicës, Mali Gllazhnicës
+Maja e Sllazhnicës, Glazhnicë, Maj' e Glazhnicës, Maja Glazhnicës, Maja e Gllazhnicës, Mali Gllazhnicës
 Maja e Smokthinës, Bliec, Maj' e Smokthinës, Maja Bljiec, Majë Bliec
 Maja e Smurthit
 Maja e Sokolit, Maj' e Sokolit, Soko
@@ -2197,9 +2197,9 @@ Maja e Zabelit, Maj' e Zabelit, Mali Zabelit, Zabel
 Maja e Zagonit, Maj' e Zagonit, Mali Zagonit
 Maja e Zbuçit, Kodër e Zmogit
 Maja e Zefjas, Maja e Zefjanës, Mali Zefnjans
-Maja e Zeze, Kodra e Zezë, Maja e Zez, Maja e Zezës, Suk' e Zeze
 Maja e Zezi
 Maja e Zezit, Maja e Zez
+Maja e Zezë, Kodra e Zezë, Maja e Zez, Maja e Zezës, Suk' e Zeze
 Maja e Zgarit
 Maja e Zgurit
 Maja e Zithit, Mal Tljës, Mal i Iltës, Mal i Tltes, Mali i Sumlit, Sumlit
@@ -2281,13 +2281,13 @@ Mal Qerkasë
 Mal Ravena, Mali i Ravenës
 Mal Rungajë, Mali Rrungais, Mali i Rungajës, Rrungajë, Rungaja
 Mal Saraqin, Maja Mëllezë, Mali i Saraqinit, Mlezë, Saragin, Sarahin, Sarakinoros, Saraqin
-Mal Shendelli, Shëndeli, Shëndëlli
 Mal Shirokë, Mal i Jaranishtit, Mal i Jaronishtës, Mal i Joranishtit, Mali i Jaravishit, Mali i Jaronishtit
 Mal Shkujkë, Mali i Shkujkës, Shkuckë, Shujk, Skujke
 Mal Shnyem
 Mal Shpirag, Maja e Shpiragrit, Mal i Shpiragrit, Mali i Shpiragut, Shipraka, Shpiragu
 Mal Shtrezë, Bështriq, Kodra Pahtrez, Mali Shtrez, Mali i Shtreza
 Mal Shullari
+Mal Shëndëlli, Shëndeli, Shëndëlli
 Mal Shëndëllisë
 Mal Skafed, Mali i Skafedise, Scafedoc, Skafedoq
 Mal Skraparti
@@ -2532,7 +2532,7 @@ Mali i Ciorës, Maja e Ciorrës, Qorrë
 Mali i Cukalit, Cukali, Mal Cukal, Mal'e Cukalit
 Mali i Cukaravës, Aranj, Mal i Cukaravës, Çuk e Aranjit
 Mali i Dajtit, Dajti, Mal Dajt, Mal i Dajtit, Mali Daitit
-Mali i Dejës, Dejë Mountain, Mal Dejë, Mal i Dejës, Деја
+Mali i Dejës, Deja, Dejë Mountain, Mal Dejë, Mal i Dejës
 Mali i Dervenit, Kulmi i Dervenit
 Mali i Dhëmblanit, Dhëmblan
 Mali i Dragotit
@@ -2604,7 +2604,7 @@ Mali i Miçanit, Mal Miçan, Mal i Miçanit, Mali Micianit
 Mali i Mnerit, Kodra e Durcit, Kodër e Durcit, Mal i Mnerit, Mal i Mënerit
 Mali i Mollës, Mal i Mollës
 Mali i Mrexhës
-Mali i Munellës, Mal Munellë, Mal Munellës, Mnella, Munella, Munellë, Мунела
+Mali i Munellës, Mal Munellë, Mal Munellës, Mnella, Munela, Munella, Munellë
 Mali i Muzhenckës, Mal i Muzhenckës, Mali Mugjenska, Muzhenckë
 Mali i Muzinës, Mal Murzine, Mal Murzines, Mal Prosil, Mal i Murzinës, Mal i Muzinës, Mali Murxhinjes, Murzina, Muzina, Prosilio
 Mali i Nikollaqit, Mal Nicolachi, Nikollaq
@@ -2661,7 +2661,7 @@ Mali i Tërpanit, Mali Perpanit
 Mali i Tërvolit, Mal i Tërvolit, Tervoli
 Mali i Varrit, Mali Vrriut
 Mali i Veliki, Mal Velik, Mal i Veliki
-Mali i Velivarit, Ilnecë, Maja e Velivarit, Mali Velivar, Веливар
+Mali i Velivarit, Ilnecë, Maja e Velivarit, Mali Velivar, Velivar
 Mali i Velmishtit, Mal i Velmishtit
 Mali i Vilës, Mal' i Vilës
 Mali i Zejmenit, Mal i Zejmenit, Mali Zejmanit, Mali i Zojmenit
@@ -2703,7 +2703,7 @@ Markaj, Markai
 Marmodhë, Maja e Malit Ibarl, Marmodhe Maja
 Marocës Maja e, Maj' e Maroc, Maj' e Marocës
 Martanesh, Martaneshi
-María, Maj' e Vashës, Maja e Vashës, Mal Vachés
+María, Maj' e Vashës, Maja e Vashës, Mal Vachès
 Mashan
 Mashkullor, Mashkullori, Moshkullor
 Mashkullorë
@@ -3174,7 +3174,7 @@ Përroi i Dobkut, Përroi Dobkut
 Përroi i Dobrushës, Dobrushë, Përroj i Dobrushas
 Përroi i Dorzit, Dorezë, Prroj i Dorzin, Përroi i Dorëzit
 Përroi i Draçovës
-Përroi i Dunavecit, Dunavec, Lumi i Dunavecit, Prroj Dunavec, Дунавец
+Përroi i Dunavecit, Dunavec, Dunavets, Lumi i Dunavecit, Prroj Dunavec
 Përroi i Dushajt, Dushaj
 Përroi i Dusharit, Dushar, Prroj i Dusharit, Prron i Dusharit
 Përroi i Dushit, Prron' i Du Shit
@@ -3422,7 +3422,7 @@ Përrua Koritave
 Përrua Kripur
 Përrua Kukaj
 Përrua Kulupe
-Përrua Lajthise
+Përrua Lajthisë
 Përrua Langave
 Përrua Lipirase
 Përrua Lirizë
@@ -3593,7 +3593,7 @@ Qafa e Hebës
 Qafa e Helmit
 Qafa e Herushës
 Qafa e Himës
-Qafa e Hoçishtit, Hoçishta, Qaf' e Hoçishtës, Qaf' e e Hoçishtit
+Qafa e Hoçishtit, Hoçishta, Qaf' e Hoçishtit, Qaf' e Hoçishtës
 Qafa e Kashit, Qaf' e Karshit, Qaf' e Kashit
 Qafa e Kazerit
 Qafa e Kaçinës, Ćafa e Kaljit
@@ -3602,7 +3602,7 @@ Qafa e Kishës, Qaf' e Giofit ke Kisha, Qaf' e Gjofit ke Kisha, Qafa e Gjofit ke
 Qafa e Kiçokut, Chiaf e Chiciccut, Chiaf e Chicjocut, Passo di Kyçok, Qaf' e Kiçokut, Qaf' e Kyçok
 Qafa e Kolçit
 Qafa e Komit, Qaf' e Komit
-Qafa e Korabit, Golema Korabska Vrata, Korabit Qaf' e, Korabska Grata, Korabska Vrata, Korabskaya Vrata, Porta e Korabit, Qaf' e Korabit, Qafa e Rosnikut, Velika Korabska Vrata, Висока Корабска Врата, Мала Корабска Врата
+Qafa e Korabit, Golema Korabska Vrata, Korabit Qaf' e, Korabska Grata, Korabska Vrata, Korabskaya Vrata, Mala Korabska Vrata, Porta e Korabit, Qaf' e Korabit, Qafa e Rosnikut, Velika Korabska Vrata, Visoka Korabska Vrata
 Qafa e Kories, Qaf' e Kores
 Qafa e Korçës-Miçanit, Chiaf e Micianit, Qaf e Miçanit, Qaf' e Korçës-Miçanit, Qafa e Korçës
 Qafa e Koshuticës, Pločice
@@ -3762,7 +3762,7 @@ Qafzez
 Qafë Durajt
 Qafë Koritave
 Qafë Kurbalisë
-Qafë Lopeve
+Qafë Lopëve
 Qafë Qelë
 Qafë Ribanj
 Qafë Thellë
@@ -3793,7 +3793,7 @@ Razdolli
 Rehovë
 Rejë e Velës, Prroj Rrezës Velës, Reja, Rrejë e Veljës, Rëz e Velës
 Rekal, Rekali
-Republic of Albania, Albania, Albanie, Albanien, Albaniya, Alvania, Arnautluk, People's Socialist Republic of Albania, Peoples Republic of Albania, Republika Popullore Socialiste e Shqipërisë, Republika Popullore e Shqipërisë, Republika e Shqipërisë, Sheypeni, Shkipeni, Shqipenia, Shqipni, Shqipnia, Shqipnija, Shqipnië, Shqipri, Shqipria, Shqiprija, Shqipëri, Shqipëria, Shqypni, Shqypëni, Албанија
+Republic of Albania, Albania, Albanie, Albanien, Albanija, Albaniya, Alvania, Arnautluk, People's Socialist Republic of Albania, Peoples Republic of Albania, Republika Popullore Socialiste e Shqipërisë, Republika Popullore e Shqipërisë, Republika e Shqipërisë, Sheypeni, Shkipeni, Shqipenia, Shqipni, Shqipnia, Shqipnija, Shqipnië, Shqipri, Shqipria, Shqiprija, Shqipëri, Shqipëria, Shqypni, Shqypëni
 Rezaervuari i Ersekes
 Rezeruari i Ripsit
 Rezervuar i Murizit
@@ -3825,7 +3825,7 @@ Rrethi i Hasit, Has, Rrethi Has
 Rrethi i Kasollës, Refi i Kesols, Rreth i Kesollës, Rrethi i Kesollës
 Rrethi i Kavajës, Kavajë, Rrethi Kavajë
 Rrethi i Kolonjës, Erseka, Ersekë, Kolonja, Kolonje Rreth, Kolonjë District, Rrethi i Ersekës
-Rrethi i Korçës, Korce Rreth, Korça, Korçë, Rrethi Korçë, Горица, Корча
+Rrethi i Korçës, Korce, Korce Rreth, Korça, Rrethi Korçë, Горица, Корча
 Rrethi i Krujës, Kruja, Kruje Rreth, Krujë, Krujë District
 Rrethi i Kukësit, Kukes Rreth, Kukës, Kukës District, Kukësi, Rrethi Kukës
 Rrethi i Kurbinit, Laç, Rrethi i Laçit
@@ -3853,7 +3853,7 @@ Rrotlla, Rrotllë
 Rrugë e Ashpër
 Rruk i Nikajt, Rruku i Mihajt, Rruku i Nikajt, Ruku i Nikajit
 Rrustemaj, Koçan, Koçonaj
-Rrëza e Kanalit, Acrocerauni, Acroceraunia, Acroceraunian Mountains, Acroceraunii, Akrokeraunia, Keravnia, Prëza e Kanalit, Rese Canalit Mountains, Rethe Canalit, Reze Kanalit, Rza e Kanaljit, Rëza e Kanalit
+Rrëza e Kanalit, Acrocerauni, Acroceraunia, Acroceraunian Mountains, Acroceraunii, Akrokeraunia, Keravnia, Prëza e Kanalit, Rese Canalit Mountains, Rethe Canalit, Reze Kanalit, Rza e Kanaljit, Rëza Kanalit
 Rrëza e Kuqe
 Rrëza e Shnikut
 Rrëzome, Rrëzoma
@@ -4006,7 +4006,7 @@ Suka, Maja e Gurit të Mlluqit
 Suka e Arsit, Suk' e Arezit, Suk' e Arrësit, Suka e Arsti, Sukë e Arsit
 Suka e Balicit, Sukë e Balicit
 Suka e Bungajës, Maj' e Mertensit, Maja e Meriensit, Maja e Mertensit, Maja e Mertenst, Suk' e Bungajës, Suka e Bungae
-Suka e Sumës, Maj' e Shoksomës, Suk' e Sumës
+Suka e Sumës, Maj' e Shoksomës, Suk Sumës
 Suka e Vifit, Sukë e Vifit
 Suka e Zezë
 Sulove, Sulova
@@ -4087,7 +4087,6 @@ Vasi, Akra Vasi, Kep i Vasit, Punta Vasi, Rt Vasi, Spitze Vasi, Vasi Point, Vass
 Vath, Vathi
 Vau i Dvumës
 Veleshnjë
-Verri
 Vertóp, Maja e Vërtopit
 Veternik, Maja e Veternikut, Veternit
 Vicaronivi, Vizaronivje, Vizaroníon, Vizaronívie
@@ -4106,7 +4105,7 @@ Vlahënës Lumi i, Ljumi i Vlanis, Lum i Vlahnës, Lum i Vlahëns, Lum i Vlahën
 Vllahat
 Vlores, Scalo di Valona, Skala Avlonos, Skel, Skele, Skele e Vlonës, Skele e Vlorës, Skelja e Vlorës, Valona, Vlore Ferry Port, Vlore Harbour
 Vlushë, Mali Velusces, Mali i Vlushes
-Vokopole, Mal Vocopolit, Vokopol, Vokopola, Vokopola Lofos
+Vokopolë, Mal Vocopolit, Vokopol, Vokopola, Vokopola Lofos
 Vorri i mirë (Tyrbja e Shkelzenit)
 Vrap
 Vrbnička Reka, Врбничка Река
@@ -4116,10 +4115,11 @@ Vrmoški, Kull'e Mbretit, Kulla e Mbretit, Vrnoški
 Vroasteria, Vratséria, Слива
 Vurg, Vurgu
 Vučji Potok, Përroi Vuçinit, Përroi i Vučit
+Vërri
 Vërzhezhë
 Vërçë, Vërça
 Xánthos Potamós, Lum Pavllos, Lumi Pavllës, Lumi i Pavllës, Paula, Pavla, Pavli, Pavlla, Pavllo, Pavllë River, Pavlë, Potamós Pávla, Xanthos Përroj, Xándhos Potamós
-Zadrimë, Fusha e Tejdrinit, Zadrim, Задрима
+Zadrimë, Fusha e Tejdrinit, Zadrim, Zadrima
 Zagori, Zagoria
 Zajs
 Zakres, Guri lë Zëse, Malji i Gurdezes
@@ -4173,10 +4173,10 @@ Zvarisht
 Çuka Partizan, Çuka Partizane, Çuka Partizani
 Çuka e Faqekuqit, Faqjakuqe, Mal Faqiakuqit, Malet e Faqekuqit, Mali i Faqekuqit
 Çuka e Frengut, Frengu
-Çuka e Madhe, Çuke e Madhe
+Çuka e Madhe, Çuk'e Madhe
 Íshulli i Tetranisit, Ishuj të Tetranisit, Ishujt e Ksamilit, Isole Tetranisi, Nísoi Tetranisi, Tetranisi, Tetranisi Islands, Íshulli Tetranisit
 Óros Nemértska, Aeropos, Mal Nëmerçkë, Mali i Nemërçkës, Nemérska, Nemërçka, Nimercca, Nëmerçkë, Pelagos
-Ćafa Vorihans, Qafa e Varri i Hanës
+Ćafa Vorihans, Qafa Varri i Hanës
 Ćafa Vranica, Qafa Vranicës
 Ćafa e Gurs
 Čuknitapan, Чукнитапан

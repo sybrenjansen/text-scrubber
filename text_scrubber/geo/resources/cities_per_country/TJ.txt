@@ -74,7 +74,7 @@ Andreyev
 Andzhin
 Angurli
 Anjikron, Andzhirkon, Anjirkhon, Апҷикрон
-Anjirak, Andzhirak, Анҷuрак
+Anjirak, Andzhirak, Anjurak
 Anjirobi Bolo, Andzhirobi-Bolo, Anzhirou-Bolo
 Anjír, Andzhir
 Annakul-Rovat, Annakul-Ravat
@@ -117,7 +117,7 @@ Avzali
 Avzikent, Navbahor
 Ay-Botkan
 Ayloqi Qaroart, Karaart
-Ayni, Aini, Ayny, Varziminor, Varzominor, Zakhmatabad
+Ayní, Aini, Ayny, Varziminor, Varzominor, Zakhmatabad
 Ayní-Khojayní, Ayni-Khodzhaayni
 Ayvaj, Aiwanj, Ayvach, Ayvadzh, Ауваҷ
 Azikeng
@@ -133,7 +133,7 @@ Bagush
 Bahorí, Sovkhoz Beshkent-2
 Bakaul
 Bakhor
-Bakhrushon, Barushan, Барӯшон
+Bakhrushon, Barushan, Barŭshon
 Bakht
 Bakoron
 Balagdash
@@ -264,7 +264,6 @@ Buragen, Buragan, Byuragan, Вураген
 Bure-Tishik
 Burka
 Burma
-Buston, Bustan, Chkalovsk, Yantak, Чкалов
 Butson
 Buved, Porshnev
 Buydoqobod, Buitakabad, Buntakobod
@@ -274,6 +273,7 @@ Buzbeli
 Buzbit
 Buzuk
 Byrdangal, Burdongal, Бурдангал
+Bŭston, Bustan, Chkalov, Chkalovsk, Yantak
 Bŭstonqal'a, Bustonkala
 Bŭzakhona, Buzakhana
 Bŭzinova
@@ -375,8 +375,8 @@ Chuqurak, Chekurak
 Chuqurlitagoy, Chuqurlito'g'ay
 Churk-Kishlak, Chur-Kishlak
 Chursoni Bolo
-Chuyanchi, Chuyanchy
 Chuzii-Bolo, Chuzy
+Chŭyanchí, Chuyanchy
 Dadozí, Darozi
 Dagana
 Dahana, Daane, Dagana-Chinar, Dakhana
@@ -401,7 +401,7 @@ Darai Imom, Dagiston, Darayimom
 Darai Khayron
 Daraikalot, Daraikolot, Daran-Kolot, Дараикадот
 Daraikhavash
-Daraiob, Дараи Об
+Daraiob, Darai Ob
 Daraishoyon, Daraishoyoni, Daraishoyëni, Дараишоён
 Daray-Chokor
 Darband, Komsomolbad, Pombachi, Даранд
@@ -475,7 +475,7 @@ Devdor, Divdar-Bole, Divdor-Bolo, Dovdorbolo
 Devona
 Devona-Khoja, Divana-Khodzha
 Devsiar
-Deydzhi, Razvaliny Deydzhi, Хароба Дейҷи
+Deydzhi, Kharoba Deyji, Razvaliny Deydzhi
 Deyli, Dilya
 Dich
 Didengi-Poyën, Dekhi-Poyen, Didegi-Poen, Didegi-Poyen
@@ -554,7 +554,6 @@ Dŭstí, Druzhba, Dŭsty, Pyandzh
 Echki, Ichka
 Eged, Yoged, Yëged
 Ems, Emts, Imts, Yemts
-Engels
 Etimchuki
 Ezgand, Yezgan, Yezgand
 Fakhrobod, Fakhrabad
@@ -709,7 +708,7 @@ Hojabogh, Khodzhabog, Khojabog
 Hoshadí, Khoshadi, Khoshady
 Hosilot
 Hulbabuloq
-Hulbuk, Imeni Vose, Kal Khaz, Kolkhozabad, Paytok, Восеъ
+Hulbuk, Imeni Vose, Kal Khaz, Kolkhozabad, Paytok, Vose'
 Hur, Khur
 Husanobod, Khusanabad
 Hushyor, Ҳушёр
@@ -974,7 +973,7 @@ Khonanokh, Khonako
 Khonatarosh
 Khonobod, Khonabad, Xonobod
 Khordarai
-Khorugh, Хорог
+Khorugh, Khorog
 Khosh-Ob
 Khoshdara, Khashdara
 Khoshol', Khoshehol'
@@ -986,17 +985,17 @@ Khudgifi
 Khudzhay-Nakhsheron, Khudzhay-Narsheron
 Khuf, Derde
 Khujaloní
-Khujand, Hodjent, Khodyent, Khodzhent, Khojend, Kojend, Leninobod, Ursaten, Xoʻjand, Худжанд, Хужант, Хӯҷвнд
+Khujand, Hodjent, Khodyent, Khodzhent, Khojend, Khudzhand, Kojend, Leninobod, Ursaten, Xoʻjand, Хужант, Хӯҷвнд
 Khulozy, Khulozi
 Khumdon, Chumdon
 Khumorigung
 Khuraz
 Khurk
 Khurmi
-Khuseynshug, Khusenshug, Ҳусейншайх
+Khuseynshug, Huseynshaykh, Khusenshug
 Khushikat, Khishkat
 Khushon
-Khushtoirijar, Khushtair-Mukhlan, Khushtair-Mukhlon, Khushtoirimukhlan, Khushtoirimukhlon, Kosh-Tair, Хоҷа Тоҳир
+Khushtoirijar, Khoja Tohir, Khushtair-Mukhlan, Khushtair-Mukhlon, Khushtoirimukhlan, Khushtoirimukhlon, Kosh-Tair
 Khuvan
 Khuyum
 Khuzya
@@ -1034,7 +1033,7 @@ Komsomolobod, Kushteppa
 Komsomolsk, Комосомолск
 Konchy, Konchi
 Kondara
-Konibodom, Канибадам
+Konibodom, Kanibadam
 Konsoy, Kaindisoy, Kansai, Kansay, Svints
 Korgaron, Kargaron
 Kosabuloq, Kasa-Bulak, Kasa-Bulan, Kassa-Bulak, Kosabulok
@@ -1097,7 +1096,6 @@ Kurpay
 Kuruk
 Kurzhumtosh
 Kus-Abad
-Kushkak
 Kushkutan
 Kushqurgon, Kosh-Kurgan, Kuchkurgon
 Kuyikushkiya, Koshkiya, Kushkiya
@@ -1122,6 +1120,7 @@ Kŭprukboshí, Ko'prikboshi, Kuprukbashi
 Kŭprŭkboshy
 Kŭrbonkŭsa, Kurban-Kusa, Qurbonko'sa
 Kŭrjalol, Kurdzhalol
+Kŭshkak
 Kŭybishev, Tugalan, Кӯӣбишев
 Kŭymot
 Kŭynatemez, Kuyu-Temez, Kuyutemiz, Kŭitemez, Tuyu-Temez
@@ -1154,7 +1153,7 @@ Leningrad
 Leninskiy Rayon, Stalinabadskiy Rayon
 Leninyuli, Lenin”yël
 Leprozoriy
-Levakant, Kalininabad, Сарбанд
+Levakant, Kalininabad, Sarband
 Lijak, Lidzhak
 Lodzhirk
 Login, Lyagin
@@ -1235,7 +1234,7 @@ Midenved, Medynved
 Mikoyan
 Mil'ou, Kharoba Mulev, Razvaliny Mulyev
 Min'-Tut
-Minatuk, Razvaliny Minatuk, Хароба Менатоғ
+Minatuk, Kharoba Menatogh, Razvaliny Minatuk
 Minbulak, Myn-Bulak
 Mindona, Mindaka
 Ming-Botman
@@ -1259,7 +1258,7 @@ Moinkadzh-Poyën, Mounkach Bolo, Muykach-Bolo
 Moinkaj, Moinkadzh
 Moloshady
 Molotovabad
-Momandiyon, Momandiyen, Момандиён
+Momandiyon, Momandien, Momandiyen
 Momirak, Mumirak
 Monming-Abad
 Morj, Mardzh, Mordzh
@@ -1282,7 +1281,7 @@ Mullomir, Mullamir
 Mullosulton, Mullasultan, Mullo-Sultani
 Mun
 Murattepa, Murateppa
-Murghob, Margab, Murgab, Murghāb, Murghābi, Pamīrski Post, Post Pamirskiy, Pāmir Post
+Murghob, Margab, Murgab, Murghab, Murghābi, Pamīrski Post, Post Pamirskiy, Pāmir Post
 Murgudga, Murdgodga, Murgudgo
 Murshikor
 Murutak
@@ -1309,7 +1308,7 @@ Naryn, Noryn
 Nasrud
 Nasrut
 Nau
-Nauchun, Razvaliny Novachen, Хароба Навачин
+Nauchun, Kharoba Navachin, Razvaliny Novachen
 Naugandy
 Navabad
 Navbod, Naubad
@@ -1441,7 +1440,7 @@ Palos, Palas
 Pam-Dara
 Pani
 Panj, Baumanabad, Kirovabad, Kirowabad, Pyandzh, Sarai, Sarai-Kamar, Saray Komar, Saray-Kamar
-Panjakent, Panjkent, Pendshikent, Pendzhakent, Penjikent, Пенджикент
+Panjakent, Panjkent, Pendshikent, Pendzhakent, Pendzhikent, Penjikent
 Panjhok, Pandzhkho, Pyandzh-Khok
 Panji Bolo, Verkhniy Pyandzh, Vos'moy Posëlok
 Panji Poyon, Kizyl-Kala, Nizhni Pyandzh, Nizhniy Pandzh, Nizhniy Pyandza, Nizhniy Pyandzh, Nizhny Panj, Qizil Qala, Панҷи Поён
@@ -1489,7 +1488,7 @@ Pichandor, Pchandar, Pichandar
 Pichef
 Pil'doni-Poyën, Pil'doni-Miyëna
 Pingon, Pingan
-Pinyon, Pin'yën, Pinion, Piniyen, Pivion, Пинён
+Pinyon, Pin'yën, Pinion, Piniyen, Pinën, Pivion
 Pioner
 Pionerobod, Pionerabad
 Pionersk
@@ -1549,7 +1548,7 @@ Qal'ai Kohna, Samgar
 Qal'ai Mirzoboy, Kal'ai Mirzoboy, Kalai-Mirzabay, Kalinabad, Kalininabad
 Qal'ai Nav, Kalainav, Kalaynav
 Qal'aishody, Kalaishodi
-Qalaikhumb, Kala Khumb, Kala-I-Khamb, Kalai Khumb, Kalaikhum, Qala-i-Khum, Қалаихум
+Qalaikhumb, Kala Khumb, Kala-I-Khamb, Kalai Khumb, Kalaikhum, Qala-i-Khum, Qalaikhum
 Qalam
 Qamishaglí, Kamyshogly, Qamishogly
 Qamishqŭrgon, Kamyshkurgan, Kamyshkurgon, Qamishqo'rg'on
@@ -1679,7 +1678,7 @@ Rosrovut, Navraut, Rasraut
 Rovadin, Ravadik, Rovadik
 Rovand
 Rubot, Rabat, Rubat
-Ruddevlokh, Devlekh, Rid-Devlekh, Девлох, Риддевлох
+Ruddevlokh, Devlekh, Devlokh, Rid-Devlekh, Риддевлох
 Rufigar
 Rugund, Urgunt, Рогунд
 Rukhch, Kara-Kurgan
@@ -1697,7 +1696,7 @@ Sabakh, Sabak
 Sabzikharv
 Sabzikor
 Sadbaregokh
-Sadbargo, Садбарҳо
+Sadbargo, Sadbarho
 Sadvadg, Sadvad, Sadyvar, Sedvad
 Safarmat
 Safeddaro, Safeddara
@@ -1754,7 +1753,7 @@ Saripul', Sary-Pul'
 Saritag, Saritog', Sarytag
 Sarivaroz, Sari-Varos
 Sariyozi Bolo, Сариёзи Боло
-Sarkokul, Sarigor, Sarigŭr, Sarqokŭl, Sary-Gar, Sarygor, Sarykokul'
+Sarkokŭl, Sarigor, Sarigŭr, Sarqokŭl, Sary-Gar, Sarygor, Sarykokul'
 Sarkor
 Sarmantay
 Saroy
@@ -1786,8 +1785,8 @@ Savsipushdasht
 Savurgon
 Sayat
 Saydon
-Sayod, Sayyëd, Сайёд
-Sayyod, Сайёд
+Sayod, Sayed, Sayyëd
+Sayyod, Sayed
 Sebak
 Sebandi, Se-Seban, Sebandy
 Sebdara-Rubandi
@@ -1802,7 +1801,7 @@ Seroba
 Seshambe, Seshanbe
 Seydzh, Sedzh, Seidzh, Seij
 Shaambari
-Shaftobuloq, Shaftolubog, Шафтобулоғ
+Shaftobuloq, Shaftobulogh, Shaftolubog
 Shaghmon, Shagmon
 Shaghmoni Poyon, Shagmon-Poyon, Shagmon-Poën, Шағмони Поён
 Shaghoni Bolo, Shagan-Bolo, Shagon-Bolo
@@ -1876,7 +1875,7 @@ Shivansay
 Shivar
 Sho'rtang
 Shobika, Shabuka
-Shodaki Bolo, Shadak, Shodak, Шод
+Shodaki Bolo, Shadak, Shod, Shodak
 Shodmoní, Shady-Muna, Shady-Muni
 Shoh, Shakh, Shokh
 Shohbur, Akarbulok
@@ -1892,7 +1891,7 @@ Shorazm
 Shoshbuvad, Shash-Buat, Shashevat, Shos-Bulat, Shoshbulat
 Shouli
 Shpilion
-Shughnon, Verkhniy Khorog, Тихоро
+Shughnon, Tikhoro, Verkhniy Khorog
 Shughnov, Shugnou
 Shugnan
 Shujand, Shudzhand
@@ -1902,7 +1901,6 @@ Shululu, Shilyulyu-Poyën-Bolë
 Shulum, Shulyum
 Shur-Kishlak
 Shur-Ob
-Shurcha
 Shuribolo
 Shurkhok, Sho'rxok, Shurkhak
 Shurkŭl
@@ -1912,6 +1910,7 @@ Shurobi-Iskandar
 Shurobiagon
 Shuryonbosh, Shur'yënbosh, Shurian-Bash, Shuriyanbosh, Surian-Bash
 Shuvjev, Shudzhiv
+Shŭrcha
 Shŭri Poyon, Shuri-Poyën
 Shŭro
 Shŭrob, Schurab, Shurab
@@ -2066,7 +2065,7 @@ Tojikqishloq, Tadzhikishlak, Tojikishlok
 Tokmak
 Toktamush, Takhtamysh, Tokhtamish, Tokhtamysh, Tokhtamysh-Bek, Tokhtamösh-bek, Toktomush
 Toktomushbek
-Tomchi, Tamchy
+Tomchí, Tamchy
 Torbuloq, Torbulok
 Torsher, Torshir
 Toshat
@@ -2107,9 +2106,9 @@ Turghuling, Turgoling
 Turk-Kishlak
 Turkmenabad
 Turkmeni, Turkmenskiy, Turkmeny
-Turkoni, Razvaliny Turkoni, Хароба Туркони
+Turkoni, Kharoba Turkoni, Razvaliny Turkoni
 Turmysh
-Tursunzoda, Турсунзаде
+Tursunzoda, Tursunzade
 Turturabot
 Tusen, Tosion, Tusion, Tusiyan
 Tushqovul, Roziën
@@ -2144,7 +2143,7 @@ Uchbuloq, Uchbulok
 Uchkul', Ushkol
 Uchkun
 Uchkŭl
-Uchqul, Uchkol
+Uchqŭl, Uchkol
 Udarnik
 Udim
 Udob
@@ -2188,7 +2187,7 @@ Uzbay, Uabay, Uzboy, Uzvay
 Uzun, Uzin
 Vagashton, Vagshiton, Wagshiton
 Vagel', Vaglel'
-Vahdat, Kofarnikhon, Ordhonikidzeabad, Ordzhonikidzeabad, Orjonikidzeabad, Orjonikidzeobod, Yangi-Bazar, Вахдат, Кофарнихона
+Vahdat, Kofarnikhon, Ordhonikidzeabad, Ordzhonikidzeabad, Orjonikidzeabad, Orjonikidzeobod, Vakhdat, Yangi-Bazar, Кофарнихона
 Vakhan
 Vakhsh, Vakhshskiy, Vakhshstroi, Vakhshstroy
 Valdirgon
@@ -2276,7 +2275,7 @@ Yangiqurulish
 Yangiqŭrghon, Yangikurgan, Yangiqŭrgon
 Yangiturmush, Imeni Frunze
 Yangiyor, Yangier, Yangiyer
-Yangiyul
+Yangiyŭl
 Yantagly
 Yapshorv, Yavshor
 Yar-Mazar, Yarmazor
@@ -2291,11 +2290,11 @@ Yeabzak
 Yertula
 Yol, Iol, Yël, Ёл
 Yorí, Iori, Iory, Nory, Yory, Yëri, Ёрӣ
-Yovon, Yabon, Yavan, Yovan, Ёвон
+Yovon, Evon, Yabon, Yavan, Yovan
 Yuben'
 Yukary-Khodzha
 Yukht-Dakht
-Yulduz, Lomanov, Yulduz Vtoroy, Юлдузи
+Yulduz, Lomanov, Yulduz Vtoroy, Yulduzi
 Yulduzkak
 Yunachi, Madaniat
 Yunuskhodzha, Yunusy-Khodzha
@@ -2337,7 +2336,7 @@ Zhelisoy
 Zhovid, Dzhauvid, Dzhivid, Dzhouvid, Dzhovud
 Zhudzhum
 Ziddí
-Zigar, Zichar, Zygar, Зугар, Эигар
+Zigar, Zichar, Zugar, Zygar, Эигар
 Zimchurud
 Zimput, Zimtut
 Zimudg, Эимудг
@@ -2363,6 +2362,7 @@ Zyurunly
 Ėligovora, Il'govar
 Ėlok, Eloki, Ilyaki
 Ėlovar
+Ėngels
 Ėsanboy, Isambay, Isan-Bai, Isan-Bay
 Ėshma Pervaya, Ishma Pervaya
 Ėsiz, Isiz, Isiz-Poyën

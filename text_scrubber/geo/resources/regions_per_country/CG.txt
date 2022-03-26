@@ -254,7 +254,6 @@ Bemvoula, Aonvoulé, Bemvouta, Bemwula, Bonvoulé
 Bende-Bende
 Benga
 Bengi
-Bengo
 Bentsé Baséké
 Benza
 Benzo
@@ -311,8 +310,8 @@ Bintsanba, Binntsamba
 Binzou
 Bioko
 Biongo
-Bipeté
 Bipési
+Bipété
 Bisida
 Bisisi
 Bisiési
@@ -540,6 +539,7 @@ Brazzaville
 Bwakényi, Bouakegni
 Bwengala
 Bèmbou
+Bèngo
 Bèssouassa
 Bébé
 Bégué, Beké
@@ -1121,7 +1121,7 @@ Issako
 Issangni
 Issegué
 Issessembou
-Issessengue
+Issessengué
 Ississi
 Issondo
 Issossi
@@ -1188,7 +1188,6 @@ Kelle
 Kelou
 Kendala
 Kengé
-Kenié
 Keriké
 Kia
 Kiaba
@@ -1408,7 +1407,7 @@ Kouyou, Couillou, Lebaï Ngouko
 Kouzabi
 Kouélé-Kouélé
 Kouéré
-Koye
+Koyé
 Kyala
 Kyalou
 Kyaméba
@@ -1420,6 +1419,7 @@ Kékoulou
 Kélikéli
 Kélèkélé
 Kélélé
+Kénié
 Kété Mouali, Ketté Mwali
 Kô
 Labassa
@@ -1510,10 +1510,8 @@ Ledjimi
 Lefembé
 Lefoumou
 Lejoua
-Lekana
 Lekola
 Lekouka
-Lekouni
 Leloungou
 Lembiri
 Lembé I
@@ -1534,7 +1532,6 @@ Lepouri
 Lergouoi
 Lesoumi, Lessoumi
 Lessanga
-Lessi, Lési
 Lessongo
 Lessou, Lesou
 Letsetlabé
@@ -1573,7 +1570,7 @@ Limbé
 Limini
 Linga
 Linzolo
-Liouemé
+Liouémé
 Lipindji
 Lipoussa
 Liranga
@@ -1711,7 +1708,6 @@ Loudzamou
 Loudzou
 Louema
 Louenga, Loenga
-Louessé, Loussé, Nyanga-Louessé
 Louessé-Niari, Bouenza-Louessé
 Louetsi
 Loufa
@@ -1798,7 +1794,6 @@ Louniouka, Lounioka
 Lounou
 Lounoua
 Lounouyou
-Louo, Leuio
 Louobi
 Louoko
 Louolo
@@ -1838,6 +1833,8 @@ Louwi
 Louyéri
 Louzouri, Loudzouli
 Loué
+Louéssé, Loussé, Nyanga-Louessé
+Louô, Leuio
 Lovénza
 Loya, Louya
 Loyo, Loye
@@ -1881,11 +1878,11 @@ Légila
 Léhoulou, Leloulou
 Léka, Léca
 Lékama
+Lékana
 Lékang
 Lékaré
 Lékasa
 Lékaé
-Léke
 Léki
 Lékila, Lekiila
 Lékima
@@ -1902,8 +1899,10 @@ Lékouiti
 Lékoula
 Lékoulou
 Lékoumou, Bouenza-Louessé, Département de la Lékoumou, Lekouma, Lékoumou Department, Région de la Lékoumou
+Lékouni
 Lékouéké
 Lékwélé
+Léké
 Lékéla, Lékala
 Lékéni
 Lékénié, Lékégny
@@ -1924,6 +1923,7 @@ Léoué
 Lépembé
 Léré
 Léso
+Léssi, Lési
 Léssio, Lésio
 Léssoua
 Léssébé
@@ -2267,7 +2267,6 @@ Mbari
 Mbay
 Mbaya, Baye, M'Baye, Mbaje
 Mbaï, Baïl, Baïli
-Mbelo
 Mberegue
 Mbi
 Mbiangala
@@ -2310,6 +2309,7 @@ Mboué
 Mbouélélé
 Mbouéssa, Mbouesa
 Mboyi
+Mbélo
 Mbélé
 Mbéléssé, M'Bé, Mbélésé
 Mbémbé
@@ -2742,7 +2742,7 @@ Moungoua Ngouéle
 Moungoundou-Nord
 Moungoundou-Sud
 Mounié
-Mounkala
+Mounkála
 Mounonji
 Mounoua Djéné
 Mounoua Mpanton
@@ -2920,8 +2920,8 @@ Ndéka
 Ndéko
 Ngaankoé
 Ngabamé
-Ngabe
 Ngabili
+Ngabé
 Ngadjou
 Ngadoumba
 Ngadsié Imé
@@ -3180,7 +3180,7 @@ Obéli
 Obénoué
 Obénéyoulou
 Odiba
-Odieka
+Odiéka
 Odjia
 Odjoro
 Odjoua
@@ -3501,8 +3501,8 @@ Savane Liboussou, Savane Libousou
 Savane Mapali, Péré Tinguélemba
 Savane Moloungou
 Sbélé
-Sembe, Ssembe
 Sembo
+Sembé, Ssembe
 Senda
 Sengo
 Seuil d'Eboicogne

@@ -1170,7 +1170,6 @@ El Aduar
 El Ajial
 El Ala, Bajo El Ala
 El Alambrado
-El Alamo
 El Alfalfal, Alfalfal, El Alfaltal
 El Algarrobal
 El Algarrobo
@@ -1461,6 +1460,7 @@ El Yunque
 El Zapal
 El Zapallo
 El Águila
+El Álamo
 Elicura
 Elizalde
 Empedrado
@@ -1596,7 +1596,7 @@ Guanta, Guanto, Huanta
 Guantija
 Guape
 Guapi
-Guaquen, Huaquén
+Guaquén, Huaquén
 Guarasiña, Guaraciña, Huaraciña, Huarasiña
 Guardia Vieja, Guadia Vieja
 Guarilihue, Huarilihue, Hurilihue
@@ -2277,9 +2277,9 @@ Limache
 Limache Viejo
 Limacsiña, Limaxiña
 Limahue
-Limahuida
 Limani
 Limarí
+Limáhuida
 Linanpalca
 Linao
 Linares
@@ -2432,7 +2432,6 @@ Los Altillos
 Los Altunes
 Los Amarillos
 Los Andes, Andes, Ciudad Los Andes
-Los Angeles, Angeles, Ciudad de Los Anjeles, Los Anjeles
 Los Aromos
 Los Arrayanes
 Los Avellanos
@@ -2597,6 +2596,7 @@ Los Yecos
 Los Yuyos
 Los Zapallos
 Los Álamos
+Los Ángeles, Angeles, Ciudad de Los Anjeles, Los Anjeles
 Los Ñadis, Ñadis
 Lota
 Lota Alto, Lota Alta
@@ -2880,7 +2880,6 @@ Nilahue Cornejo
 Niltre
 Ninhue
 Niquela
-Niquén, Niguén
 Nirivilo
 Niucho
 Niágara
@@ -3325,8 +3324,8 @@ Puaún
 Pucahuín
 Pucalán, Casas de Pucalan
 Pucapucone
-Pucara, Pucapa
 Pucarani
+Pucará, Pucapa
 Pucatrihue
 Pucatue
 Puchabran
@@ -3582,7 +3581,7 @@ Quelihue
 Quella
 Quellón, Puerto Quellón
 Quellón Viejo
-Quelmen
+Quelmén
 Quelén
 Quelón
 Quemchi
@@ -3718,7 +3717,6 @@ Ranchos de Don Goyo, Don Goyo
 Ranco
 Rancura
 Ranqui
-Ranquil
 Ranquil Bajo
 Ranquilco, Panquilco
 Ranquililahue
@@ -4039,6 +4037,7 @@ Rungue, El Rungue
 Rupameica
 Rupanco, Callejón Rupango
 Ránguil
+Ránquil
 Rápido Bórquez
 Río Aquellas
 Río Blanco
@@ -4232,11 +4231,11 @@ Santa Emilia
 Santa Ernestina
 Santa Ester
 Santa Eugenia
-Santa Fe
 Santa Filomena
 Santa Flora
 Santa Florencia
 Santa Fresia
+Santa Fé
 Santa Gemita
 Santa Georgina
 Santa Gertrudis
@@ -4253,7 +4252,7 @@ Santa Julia
 Santa Laura
 Santa Lidia, El Saltillo
 Santa Loreto
-Santa Lucia
+Santa Lucía
 Santa Luisa
 Santa Luz
 Santa Magda
@@ -4552,7 +4551,7 @@ Trintre
 Triquilemu
 Trogualemo
 Troltrolhue
-Tromen
+Tromén
 Tropezón
 Tropén
 Trovolhue
@@ -4771,4 +4770,5 @@ Zúñiga
 Ñilque
 Ñinquihue, Ninquilhue
 Ñipas
+Ñiquén, Niguén
 Ñirehuao

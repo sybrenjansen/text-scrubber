@@ -121,7 +121,7 @@ Asūne, Osiuns
 Atari, Atary, Attari, Attari Pusmuižas Centrs, Attaru Pusmuiža Centrs, Polumyza Attari
 Atašiene, Atashene, Atashiene, Atašiene Muižas Centrs, Atašienes Pusmuižas Centrs, Myza Atashene
 Atgoniški, Adganiški, Adgoniški, Malyye Adganishki
-Atpūta, Šļapatas
+Atpūta, Slapatas
 Atspuka
 Atvari
 Auce, Autse, Autz
@@ -174,14 +174,13 @@ Baldones
 Baldūne, Dumbrauka, Dumbrovka
 Balgale
 Balgalvji, Balgaln, Balgaļi, Baltgalvji, Bolgalvi
-Baliņi
 Balkas, Mārtinkalns
 Baloži, Balozhi
 Baltais Dukstigals, Balta Dukstigala, Baltais Dukstgals, Dukstigala Pusmuiža, Dukstigale
 Baltaiskrogs, Baltayskrogs, Zaņa
 Baltači
 Baltezers
-Baltica, Gribulishkas, Gribulishki, Gribuļiški
+Baltica, Gribulishkas, Gribulishki, Gribuliški
 Baltinava, Baltinova
 Baltini
 Baltmuiža, Baltimuiža, Boltmuiža, Indrāne
@@ -193,7 +192,6 @@ Barauka, Borovka, Vilkmugura
 Bardžūni, Bardzhuni, Bardžoni
 Barkava, Borchovas Pusmuiža
 Barkāni
-Basi, Ausekli, Base, Birzhi, Myza Birzhi
 Batari, Batsari
 Batarāgi
 Bauri
@@ -203,6 +201,7 @@ Bazūnes
 Baļinova, Balinava
 Baļtina
 Baļucki
+Baši, Ausekli, Base, Birzhi, Myza Birzhi
 Bašķi
 Bebe, Myza Vetsbebe, Vecbebe, Vecbebes Muiža
 Bebrene, Bebrenes Muiža, Myza Bevern
@@ -323,12 +322,12 @@ Brieksīne, Breksina, Brēkšiena
 Brieževa, Briezhava, Briežava, Briyezhava
 Brieži, Brezhi, Briyezhi, Brīži, Zvaygznites
 Briežuciems
-Bringi, Bringas
 Brisla
 Brizgi
 Brizule, Brizule Muižas Centrs, Brizules Muiža, Myza Brizules
 Briģene, Brigas Muiža
 Briģi
+Briņģi, Bringas
 Brišķi, Briškas
 Brocēni, Brocēnu Muiža, Brotseny, Myza Brotseny
 Brodaiža, Bradaizh, Brodaiži
@@ -343,13 +342,13 @@ Brunavišķi
 Brunči, Brunchi
 Brusova
 Brutuļi, Brutulis, Tekstil Brutuļi, Tekstil' Brutulys
-Bruzilas
 Bruņi
 Brušvīti, Brushvits, Brusvīši, Brušvituciems
 Brēķi
 Brīdaga
 Brūklāji, Bruklain
 Brūveri, Briuveri, Bruveru-sala
+Brūzilas
 Budberga, Budbeģe, Paņemūne
 Budenbroka
 Budiški, Budzishki, Budzishti, Butiški, Butsishki
@@ -370,7 +369,7 @@ Bumbišķi, Bumbiškas
 Bunduli
 Bungas
 Bunka, Bunke
-Buntiki
+Buntiķi
 Bunčeva, Boncheva
 Burga
 Burtnieki, Burtniyeki
@@ -386,6 +385,7 @@ Buži
 Bätciems
 Bāci
 Bākarova, Bahareva
+Bāliņi
 Bānūži, Bānužu Muiža, Myza Banuzhi
 Bārbaļi, Barbuļi-Tropi, Borbaļi
 Bārbele, Barbeles Mācītāja Muiža, Mazbārbele, Pastva Barbeles, Pastva Barbern
@@ -439,7 +439,7 @@ Cempmuiža, Cempji Muižas Centrs, Cepmuiža, Myaz Tsempmuyzha
 Cenkoņi, Cenkones, Tsenkoni
 Centramuiža
 Cenu, Cena, Cenas, Cenaskrogs, Tsena, Tsenas
-Cepliši, Cepleiši
+Ceplīši, Cepleiši
 Cepurnieki
 Cepļi
 Ceraukste, Ceraukate, Myza Tseraukste, Tseraukste
@@ -519,8 +519,8 @@ Deičmaņi
 Dejas, Dejus
 Deksne
 Dekteri
-Dekšni
 Dekšāres
+Dekšņi
 Demene, Demenes Muiža, Myza Demenes, Myza Demmen
 Demerova
 Denelišķi
@@ -613,9 +613,9 @@ Dzelzava, Dzelzavas Muiža, Myza Dzelzava
 Dzelzupe
 Dzelzāmurs, Bekukrogs, Burtniyeki
 Dzelži
-Dzeni, Deņi
 Dzerkaļi, Dziekaļi, Dzirkaļi
 Dzeņagols
+Dzeņi, Deņi
 Dzeņumuiža, Dzenyumuizha
 Dziervīne, Dzērvēni
 Dziesnieki, Dziyesniyeki
@@ -686,10 +686,10 @@ Ezergailīši, Azara Gaileiši
 Ezeri
 Ezeriņi, Ernestine, Ernestines, Ezerēni, Pečurku Pusmuiža
 Ezerkauķi
-Ezermuiža, Ezermuyzha
 Ezernieki, Bukmuiža, Bukmuyzha, Ezerniyeki
 Ezersala, Ezermala, Lucmuiža
 Ezēni
+Ežermuiža, Ezermuyzha
 Fabriciuss
 Fabriki, Yaun-Fabrika
 Falcgrāve, Falcgrāves Muiža, Gludas Muiža
@@ -799,7 +799,7 @@ Grišina
 Griškāni, Greiškāni
 Grobiņa, Gerobin, Grobin, Grobinya
 Gropiņi
-Grotuži, Grotūza Pusmuiža, Grotūzis, Grotūžu Muiža, Myza Grotuzhi, Velki Pagasta Valde
+Grotūži, Grotūza Pusmuiža, Grotūzis, Grotūžu Muiža, Myza Grotuzhi, Velki Pagasta Valde
 Groverišķi
 Grozas
 Grošļi
@@ -839,7 +839,6 @@ Gārsene, Myza Garsen
 Gārzde, Gardzemuyzha, Garzde Muizas Centrs, Gārzdesmuiža, Myza Garzdesmuyzha
 Gāršmuiža, Garšas
 Gātciems, Gattsiems, Gātciem, Gātsciems
-Gērķēni, Kosa, Kosas Muiža
 Gļinaruča, Gņilojručeja
 Gūteņi, Gutiņi
 Gūģeri
@@ -874,8 +873,8 @@ Imšas, Imša
 Inciems, Intsiyems
 Indra
 Indrica, Mazindrica, Polumyza Mazindritsa
-Indrikeni, Stiriņi
 Indriķi
+Indriķēni, Stiriņi
 Indrāni, Idrāni, Indrany
 Indāni
 Ineši
@@ -1076,7 +1075,7 @@ Kalngale, Kalngala, Kalngalaciems, Kalngalastsiyems, Kalngalciems
 Kalni
 Kalniena, Kalnena
 Kalnieši, Kazukrogs, Zemgaļi
-Kalniški
+Kalnišķi
 Kalnmuiža, Kalna Muižas Centrs, Myza Kalnamuisha
 Kalnsētas, Kalnseta
 Kalnvirsa
@@ -1141,7 +1140,6 @@ Kaģeni, Kagģeni
 Kaģumciems
 Kaķenieki, Gaujas
 Kaķāši
-Kaķīši, Katishi, Myza Katishi
 Kaļandri
 Kaļvi, Kalvji, Timenova
 Kaļķi, Kal'kniski, Kal'timuyzha, Kaļķu Ciems, Kaļķumuiža
@@ -1163,8 +1161,8 @@ Klavnieķi
 Kleberkalns, Kuprīši, Polāni
 Kleivas, Kleyvas
 Kleivēni
-Klekeri, Kleteri, Lubaņeca
 Klementinova
+Kleķeri, Kleteri, Lubaņeca
 Klieņi, Kleini, Kleinukrogs, Kliyeni
 Klimēni, Kaueni
 Klintaine, Plavinu, Plavinyu, Tirumbaltgalv'i, Tīrumbaltgalvji
@@ -1260,7 +1258,7 @@ Kreiči
 Krekeliški, Krekelishki, Zaķusalas
 Krepliņi, Kreplinkroags, Kreplinkrogs
 Kriepaste, Mazdupļe
-Krievbūdas, Bētciems, Bēti
+Krievbūdas, Beti, Bētciems
 Krievciems, Gercāni, Čunči
 Krievgaļi, Krievgale
 Krievi, Krevu-Balborzhi, Krievu Balbirži
@@ -1274,7 +1272,6 @@ Kristiņkas, Kristini, Kristinki
 Krivanda, Krivandi, Krivandy
 Krivoseļci, Krivaseļci, Krivosel'tsy, Saulieši
 Krivošejeva, Krivašejeva, Krivosheyeva, Krivošejevo
-Krivāni, Krievāni, Krivany
 Krišjāņi, Krish'yany, Krišjānu Pusmuiža, Krišāni, Polumyza Krisani
 Kriškināni, Kriškanāni
 Kriškāni, Ancīši
@@ -1285,7 +1282,6 @@ Krote, Klote, Krotes
 Kroņauce, Auces Muiža, Kron'autse, Myza Autse, Ķirpēni
 Kroņmuiža, Kron'muyzha, Kronīši
 Kroņrenda, Kroņ Renda Muižas Centrs, Myza Renda, Rendsmuiža, Rugāļi
-Kruki
 Krumini
 Krumāni, Krumany
 Krupi
@@ -1298,11 +1294,13 @@ Krusāta, Krusātdroga, Krusāte, Krusāti
 Kruti, Kruty, Kruty Pervyye
 Krutova, Krūtava
 Kručkas, Kruchkas, Kručki, Mazkručkas
+Kruķi
 Krāslava, Dynasaiforgarðr, Kraaslava, Kreslavka, Kreslawka
 Krāņi
 Krīvi
 Krīvmaizes
 Krīvu Čakši
+Krīvāni, Krievāni, Krivany
 Krīči, Krichi, Veckrīši
 Krūsāri
 Krūte
@@ -1341,7 +1339,7 @@ Kuzņecova, Kuzņecava
 Kuģi
 Kuļķi, Kuiķi, Kul'ti
 Kušaiņi, Skribaiši
-Kušneri, Kushneri
+Kušņeri, Kushneri
 Kākciems, Krantsiyems, Laukrungi
 Kākuči
 Kālviņi, Kaļvīne
@@ -1355,6 +1353,7 @@ Kārzdaba, Kārsdaba, Kārzdabas, Kārzdabas Muiža, Myza Karzdaba
 Kārķi, Jaunkārķi, Jaunkārķu Muiža, Myza Yaunkarti
 Kārļi, Karlimuyzha, Kārļu Muiža
 Kāķišķe, Kat'isht'ye
+Kāķīši, Katishi, Myza Katishi
 Kīļi, Keiļi
 Kļasica
 Kļavusala, Klyavusala, Kļavusalas
@@ -1379,11 +1378,10 @@ Laidi, Laide, Laydy, Myza Laydi
 Laidze, Laydze
 Laidzesciems, Laidzes, Laidžuciems, Laydtsestsiyems, Laydzestsiems, Laydzestsiyem
 Laigalava, Laigolova
-Laizani, Laizany
+Laizāni, Laizany
 Lakauski, Lakauska, Lakauskija, Lakovskoye
 Lakstene, Myza Lakstene
 Lakši
-Lamaņi, Aizupes Lamaņi, Leimane
 Lambārte, Myza Lambarte, Puksi
 Lamiņi, Myza Lamini
 Lamsteri
@@ -1461,9 +1459,8 @@ Letes
 Letki, Letkas
 Leveste, Levestes Pusmuiža, Polumyza Leveste
 Levizeri
-Leški, Leshti
 Leščinski
-Lidumnieki
+Lešķi, Leshti
 Liedulieši, Liedulielis, Liedulietis, Lyedulyetis
 Lieladži, Adži, Lonast-Adzhi, Lonast-Adži
 Lielaisciems, Lieltsiems, Melnikaln
@@ -1507,7 +1504,7 @@ Lielā Pikova, Bol'shoye Nikovo, Lielpikava, Liyel' Pikova, Pikava
 Lielā Puderova
 Lielā Zeļčova, Lielzelčeva
 Lielā Žogotova, Lielāžogotova, Lielžogotovo, Liyel Zhogotova, Zogotova
-Lielās Kļockas, Klecki, Kletski, Kļocki
+Lielās Kļockas, Klecki, Kletski, Kločki
 Liepa, Liepas Muiža, Myza Liyepa
 Liepare
 Liepari, Lipori
@@ -1546,7 +1543,6 @@ Livzinīki, Luzinieki, Luziniyeki
 Lizdiki
 Lizdēni, Lizdēnu Muiža
 Lizums, Lizims, Lizum, Lizuma Muiža, Myza Lyzums
-Liči, Lichi, Lieleiči
 Lobeskrogs, Korchma Lobe
 Loborži, Labvārži
 Lobērģi, Beverina, Loberģis, Lobēr, Lobērģu, Lobērģu Muiža, Myza Lobergi
@@ -1604,6 +1600,7 @@ Lībe
 Lībieši, Libiyeshi
 Līcīši
 Līdere, Lidēres Muiža, Myza Lyderis
+Līdumnieki
 Līgatne, Ligat, Patmale
 Līgciems, Lidtsiems, Ligasciems, Līgvagari
 Līgo
@@ -1619,6 +1616,7 @@ Līvi
 Līvāni, Livany
 Līzesmuiža, Līzes
 Līzespasts
+Līči, Lichi, Lieleiči
 Lūza
 Lūznava
 Lūžņas, Luzen, Luzhna, Luzhnya, Lūžnja, Lūžņa, Lūžņu
@@ -1972,7 +1970,6 @@ Otrie Bluzmi, Bluzmi, Blūzny, Blūzņi
 Otrie Mežvidi, Mezhvidy Vtoryye, Mežavidu Muiža, Mežvidi II, Polumyza Mezhvidi
 Otrie Peski, Myza Poyekesy, Peski
 Ovīši, Ovishi
-Ozinīki
 Ozolaine, Ozolayne
 Ozoli, Ozoli Muižas Centrs, Ozolmuyzha, Ozoly, Vercozoli
 Ozoliņi
@@ -1989,6 +1986,7 @@ Oši
 Ošleja, Osheleya, Ošelejas Muiža
 Ošupe
 Ošāni
+Ožinīki
 Pabaži, Pabazhi
 Packules Ciems, Packule, Packules, Patskule
 Padole
@@ -1999,7 +1997,7 @@ Padvareci
 Paideri
 Paipu Ciems, Paipas, Paipe, Paipes, Paypas
 Paiķēni
-Pakuli, Mazpakuli, Pakulas, Paukļi
+Pakuļi, Mazpakuli, Pakulas, Paukļi
 Palaipe, Palaipi
 Palsas, Polsas
 Palsmane, Myza Palsmane, Palsmanis
@@ -2213,7 +2211,7 @@ Pāvilosta, Paulshafen, Porvilostu, Ākagals
 Pēpeni
 Pērbone
 Pērkone, Myza Perkone, Pērkone Muižas Centrs, Pērkones Muiža
-Pērkoni
+Pērkoņi
 Pērlis, Perlys, Pērles
 Pērnciems, Perntsiyem
 Pēteri, Merini, Petermuyzha, Tauriņi
@@ -2385,8 +2383,8 @@ Ruduli
 Ruduļciems
 Ruduški
 Rudziniški, Rudinishki, Rudnišku Pusmuiža
-Rudziši
 Rudzāti, Rudeti, Rudzyaty, Rudzēti
+Rudzīši
 Rudāni, Rudany
 Rugāji, Rugai, Rugayi, Rugāju
 Ruikas, Plaukti
@@ -2546,9 +2544,8 @@ Skandīne, Skandina, Skanģina
 Skangaļi, Skangalu Muiža
 Skanuļi, Vecskanuļi
 Skaņkalne
-Skede, Myza Shtede, Shkede, Sht'ede, Šķede Muižas Centrs, Šķēdes
 Skobuļnīki
-Skradeli, Skradaļi, Skryadili
+Skradeļi, Skradaļi, Skryadili
 Skramāni
 Skredeļi
 Skreijas, Skrejas
@@ -2671,7 +2668,6 @@ Steķintava, Steķinava
 Stiene, Myza Stiyeke, Stene, Stienes Muiža, Stiyene
 Stiernīki, Stierķi
 Stikli, Anakhitte, Annahitte, Jaunannahite, Stikla Fabrika Annahitte
-Stikāni, Stykany
 Stimbināja
 Stirnas, Stirnas Muiža, Styrnas
 Stirniene, Myza Stirniyene, Stirniyene, Stirnjaņu Pusmuiža
@@ -2709,7 +2705,7 @@ Strēli
 Strēlnieki
 Strēlnieks, Strel'niyeks
 Stuborova, Stuberova
-Stukmani, Stukmanu Muiža, Stukmeni
+Stukmaņi, Stukmanu Muiža, Stukmeni
 Stupiņi, Stopēni, Stūpeņi
 Sturišķi
 Stutka, Stutkas, Stutki
@@ -2748,10 +2744,10 @@ Svarinci, Svarintsy, Svariņi
 Svenči, Svenchi
 Svetlica, Svetļici
 Svikļi
-Svilpova, Svilpava
 Svitene, Lielsvitane, Lielsvitene, Lielsvitenes Muiža
 Sviļi
 Sviļova, Svileva
+Sviļpova, Svil'pava
 Svoki, Svaki
 Svātova
 Svātūne, Svataune, Svatone, Svātiune
@@ -2779,9 +2775,9 @@ Sēļi, Myza Seli, Sēļu Muiža
 Sīklesciems, Sikle, Sīkles
 Sīkrags, Sikrag, Sikragutsiyems, Sīkraga, Sīkraguciems
 Sīkuļi, Sikulys, Sīkulis
-Sīlukalns
 Sīpele, Sīpeles Muiža
 Sīļi
+Sīļukalns
 Sļadzeva, Žiževa
 Sūbri
 Sūde, Sude Muižas Centrs
@@ -2999,7 +2995,6 @@ Vareiki
 Varieba, Var'yeba, Variebas Muiža
 Varieši, Variešas
 Variņi
-Varkava, Polumyza Varkava, Varkava I, Varkavas Pusmuiža
 Varkaļi, Damb'i, Varkalkroags
 Varnaviči, Myza Vargunchi, Myza Varnavichi, Varnavichi, Varnoviči
 Vartulova, Vertolovo, Vertulova, Vārtulava
@@ -3146,7 +3141,6 @@ Viskāļi, Viksala Muiža Centrs, Viskale
 Vistusala
 Vite, Myza Vite
 Viteikas, Viteykas
-Vitiņi, Vitinskiy, Vitnu, Vityni, Vitynyu, Vītiņu Pusmuiža, Vītņi
 Vitkuški, Vitkušku Muiža
 Vitrupe
 Vizla, Myza Vizla, Vizlas Muiža
@@ -3156,8 +3150,8 @@ Viļāni, Veleny, Vilany, Viljani, Vilyane, Vilyani, Vilyany, Vilēni, Weleny
 Viļķene, Myza Vilteny, Viļķenu Muiža
 Viņķi
 Viši
-Viškeri, Vishkeri, Vyshkary
 Viškuļi, Vieškalsti, Vishkuli, Vyshkuli
+Višķeri, Vishkeri, Vyshkary
 Višķi, Vishki, Vishti
 Višļi
 Vjarumi, Veromi, Verumi, Vjarami, Vjarimi, Vjaromi, Vyarimi
@@ -3181,6 +3175,7 @@ Vādzere, Silavkas, Vādzeres, Vādzeres Ciems
 Vākšēni
 Vāle
 Vāne, Myza Vanes, Vānes Muiža
+Vārkava, Polumyza Varkava, Varkava I, Varkavas Pusmuiža
 Vārme, Myza Varma
 Vārnava, Varenorokas, Vārenbraca Muižas Centrs, Vārenbrokas Muiža
 Vārpa, Sarkankrogs
@@ -3210,6 +3205,7 @@ Vīksna, Kubulišķi, Kubulyshki, Viksnumezh, Vikstumezhs, Vikstumežs
 Vīkšņi
 Vīlande
 Vīpe
+Vītiņi, Vitinskiy, Vitnu, Vityni, Vitynyu, Vītiņu Pusmuiža, Vītņi
 Vītoli, Lulaici, Lulaytsy, Lūraici
 Vītoliņi
 Vīķi, Myza Viti, Vīķu Muiža, Vīķu Muižas Centrs
@@ -3377,6 +3373,7 @@ Zūras, Myza Zuras
 Ģipka, Dipka
 Ģipteri, Dipteri
 Ģērķāni
+Ģērķēni, Kosa, Kosas Muiža
 Īgums
 Īle, Iles, Iles Muiža
 Īlenāni, Ilipani
@@ -3431,6 +3428,7 @@ Zūras, Myza Zuras
 Ķīši, Kishi
 Ķūķi
 Ļadi
+Ļamāni, Aizupes Lamaņi, Leimane
 Ļaudona, Laudone, Lijograde, Liyograde, Lyaudona, Lyyegrade
 Ļistaki
 Ļitovskije, Litovski
@@ -3465,13 +3463,13 @@ Zūras, Myza Zuras
 Škirpāni, Skirpan
 Škrjabi, Škrebi
 Šmati
-Šnitniki, Novinje
 Šodi
 Šovītes, Shovites
 Špaki, Šaki
 Špieļi, Špēļi
 Špoģi, Shpogi
 Špuni
+Štikāni, Stykany
 Šudārgi, Timbras
 Šulehi, Šuļohi
 Šusti
@@ -3487,11 +3485,13 @@ Zūras, Myza Zuras
 Šķilbani, Myza Shtilbany, Shkilbeni, Šķilbēni
 Šķipi
 Šķirstiņi
+Šķēde, Myza Shtede, Shkede, Sht'ede, Šķede Muižas Centrs, Šķēdes
 Šķēles
 Šķīsterciems, Priyedniyeki
 Šļakoti, Šlakoli
 Šļaukas
 Šļukums
+Šņitņiki, Novinje
 Šņores, Myza Snore, Pušpūri, Šnoresmuiža, Šņore
 Ūda
 Ūdrande

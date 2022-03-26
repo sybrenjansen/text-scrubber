@@ -269,7 +269,7 @@ Dông Saman
 Dông Sangsongmuang
 Dông Sip
 Dông Sithouan
-Dông Son, Dông Sone
+Dông Son, Dong Sone
 Dông Taimi
 Dông Thamphalan
 Dông Thang
@@ -389,7 +389,6 @@ Houay Bok-Noy
 Houay Bokay
 Houay Bokhè, Houei Bo Khê
 Houay Bon, Houay Bone, Houei Bone
-Houay Bong, Huai Bong
 Houay Bong-Tai
 Houay Bongnai
 Houay Bonna
@@ -409,6 +408,7 @@ Houay Bouy
 Houay Buk
 Houay Bè
 Houay Bôk
+Houay Bông, Huai Bong
 Houay Bông-Gnai
 Houay Bông-Noy
 Houay Bông-Nua
@@ -478,10 +478,8 @@ Houay Chiouklout
 Houay Chip, Houay Chin
 Houay Chipon, Houay Chipan, Houay Chippan, Toum Chepal
 Houay Chiôt
-Houay Cho
 Houay Choay
 Houay Chok
-Houay Chon
 Houay Choua
 Houay Chouan
 Houay Chouan Noy, Nam Chouan Noy, Nam Chua
@@ -497,7 +495,9 @@ Houay Chèng
 Houay Chélamong
 Houay Chém
 Houay Chét
+Houay Chô
 Houay Chôm
+Houay Chôn
 Houay Chông
 Houay Chôt, Houay Chât
 Houay Da, Houei La
@@ -523,8 +523,6 @@ Houay Dapu
 Houay Dat
 Houay Daxe
 Houay Dayik
-Houay Den, Houei Den
-Houay Deng, Houei Dèng
 Houay Deu
 Houay Deuy, Houay Doeui
 Houay Dia
@@ -543,7 +541,6 @@ Houay Doching, Do Ching
 Houay Dokmat
 Houay Dokpho
 Houay Dom
-Houay Don, Houei Done
 Houay Dongxan
 Houay Donxang
 Houay Dou, Houei Tau
@@ -561,10 +558,13 @@ Houay Dung
 Houay Duo
 Houay Dèdè
 Houay Dèk
+Houay Dèn, Houei Den
 Houay Dèndin
+Houay Dèng, Houei Dèng
 Houay Dèng-Noy
 Houay Dènmuang, Houei Dên Muong
 Houay Dôk
+Houay Dôn, Houei Done
 Houay Dông
 Houay Dôngkampha
 Houay Dôngkasèn, Houei Dong Sa Kene
@@ -574,7 +574,6 @@ Houay Dôpalay
 Houay E
 Houay Eaytèk
 Houay Emun
-Houay En, Houay Ene, Houei Hene
 Houay Et
 Houay Ethiam, Houay Echiam
 Houay Euna
@@ -646,7 +645,6 @@ Houay Hatbay
 Houay Hatiang, Houay Haliang, Houei Ha Thieng
 Houay Hatiang-Loum, Houei Hen Chi Lum
 Houay Hatxun, Houei Hat Sune
-Houay He, Dèng, Houei Hia
 Houay Heup
 Houay Hi
 Houay Hia, Houay Niai
@@ -668,8 +666,8 @@ Houay Hinkhao
 Houay Hinkhon
 Houay Hinkhoua
 Houay Hinkhôk
-Houay Hinkong, Houei Hine Kong
 Houay Hinkoum
+Houay Hinkông, Houei Hine Kong
 Houay Hinlahè
 Houay Hinlai
 Houay Hinlap, Houei Hine Lap
@@ -695,16 +693,13 @@ Houay Hinxo
 Houay Hinyong
 Houay Hip
 Houay Hlang
-Houay Ho
 Houay Hoa
 Houay Hoan, Houay Haon, Houei Haou
 Houay Hoang
 Houay Hoay
-Houay Hok, Houay Hoc, Houei Ho, Houei Hoc, Houei Hoe
 Houay Hokat
 Houay Hom
 Houay Hon
-Houay Hong, Houei Houong
 Houay Honghin
 Houay Hongkaut
 Houay Hongkoung, Houei Hong Kong
@@ -741,12 +736,16 @@ Houay Hung, Houei Hua
 Houay Hunnôk
 Houay Hup
 Houay Hut
+Houay Hè, Dèng, Houei Hia
 Houay Hèn
 Houay Hèng
 Houay Hènheum
 Houay Hèo
 Houay Hèt, Houei Het, Nam Het
+Houay Hô
+Houay Hôk, Houay Hoc, Houei Ho, Houei Hoc, Houei Hoe
 Houay Hôlali, Houay Hôlai
+Houay Hông, Houei Houong
 Houay Hônglai
 Houay Hôngya
 Houay Hôp
@@ -913,7 +912,6 @@ Houay Kay
 Houay Kayak
 Houay Kayong
 Houay Kayén, Houei Ka Yen Dsira
-Houay Keng, Houay Ken
 Houay Keng Jao
 Houay Kenia
 Houay Keosoi
@@ -1027,22 +1025,17 @@ Houay Khithout
 Houay Khitôm, Houei Si Tun
 Houay Khlao
 Houay Khlong
-Houay Kho
 Houay Khoang
 Houay Khoangtôngkho, Khoangtôngkho
 Houay Khoay, Houay Khouy, Houei Kouhi
 Houay Khoay-Xôn, Houei Khao Sou
 Houay Khognong
 Houay Khognoung
-Houay Khok, Huai Khok
 Houay Khokan
 Houay Kholiang
-Houay Khom
-Houay Khon, Houay Khone, Houay Namkhôn, Houei Nam Khom
 Houay Khon Khot
 Houay Khon-Gnai, Houei Kok
 Houay Khon-Gnang
-Houay Khong
 Houay Khonkhai, Hong Khone Khay
 Houay Khonkhèn, Houei Khan Ken, Houei Khon Ken
 Houay Khonkèn, Houei Kôn Kênh
@@ -1075,6 +1068,11 @@ Houay Khèngkhou, Houei Khang Kha
 Houay Khèohak
 Houay Khèt
 Houay Khém-Noy, Houay Kem Noy, Houei Khiem Noi
+Houay Khóm
+Houay Khô
+Houay Khôk, Huai Khok
+Houay Khôn, Houay Khone, Houay Namkhôn, Houei Nam Khom
+Houay Không
 Houay Không-Khoua
 Houay Không-Xay
 Houay Khônkouan
@@ -1108,11 +1106,8 @@ Houay Klouan
 Houay Klôchông
 Houay Kmi, Nam Kmi
 Houay Kno
-Houay Ko, Tom Co
 Houay Koang
-Houay Koba, Houei Robas
 Houay Koi
-Houay Kok, Houei Khol, Houei Koc, Tom Koc
 Houay Kokat, Houay Ko Kah
 Houay Kokkang
 Houay Kokmông
@@ -1127,7 +1122,6 @@ Houay Kongmakdua, Houei Keng, Houei Keng Mak Heuat
 Houay Kongthao
 Houay Konli
 Houay Kosoung
-Houay Kot, Houay Koh
 Houay Kot-Gnai
 Houay Kota, Tom Ko Ta
 Houay Kou, Huai Kou
@@ -1182,6 +1176,7 @@ Houay Kun
 Houay Kuttako
 Houay Kè
 Houay Kèkion
+Houay Kèng, Houay Ken
 Houay Kènghoua
 Houay Kèngkeo
 Houay Kènglou
@@ -1198,8 +1193,11 @@ Houay Kéngkô
 Houay Kéo-Noi, Houei Keio Noi
 Houay Kétxa
 Houay Kétxan
+Houay Kô, Tom Co
+Houay Kôba, Houei Robas
 Houay Kôbouoy, Houay Co Bouei
 Houay Kôhô
+Houay Kôk, Houei Khol, Houei Koc, Tom Koc
 Houay Kôkbôk
 Houay Kôkdèng
 Houay Kôket
@@ -1217,6 +1215,7 @@ Houay Kônngao, Houei Kouan Ngao, Houei Kouane Ngao
 Houay Kôntha
 Houay Kôp
 Houay Kôpani, Tom Kapang
+Houay Kôt, Houay Koh
 Houay Kôti, Houei Kou
 Houay Kôtkao, Houei Kot Kaa
 Houay La
@@ -1315,7 +1314,6 @@ Houay Lay
 Houay Layi
 Houay Laè
 Houay Leak
-Houay Leng, Hong Lèng, Houei Lenh, Houei Lèng
 Houay Leng-Noy
 Houay Lenlaliang
 Houay Lenthom
@@ -1352,16 +1350,12 @@ Houay Liou
 Houay Lisangyo
 Houay Lit
 Houay Lixoun
-Houay Lo, Houei Io
 Houay Lo-In
-Houay Lok, Houei Lóc
 Houay Lokan
 Houay Lokouén, Houei Lo Konen
 Houay Lolkhoay-Gnai
-Houay Lom
 Houay Lon, Houei Lun
 Houay Lonaho, Lo Na Hô
-Houay Long
 Houay Long Khouang
 Houay Long-O
 Houay Longkong
@@ -1407,6 +1401,7 @@ Houay Lè
 Houay Lèk
 Houay Lèm
 Houay Lèn
+Houay Lèng, Hong Lèng, Houei Lenh, Houei Lèng
 Houay Lèngtuang
 Houay Lèni
 Houay Lédan
@@ -1415,12 +1410,16 @@ Houay Lékfai, Houei Lek Fay
 Houay Lékô
 Houay Léng-Gnai
 Houay Léngiang, Houay Légiang, Houay Reguiang, Houei Requiant
+Houay Lóm
+Houay Lô, Houei Io
 Houay Lô-Noy
 Houay Lôhiou, Houay Lô Hiu
 Houay Lôho
 Houay Lôi
+Houay Lôk, Houei Lóc
 Houay Lôkpo, Houei Nang Co
 Houay Lômsak
+Houay Lông
 Houay Lông-Gnai
 Houay Lôngkang, Houay Lõng Kang
 Houay Lôngkhai
@@ -1510,26 +1509,20 @@ Houay Mavang
 Houay Maxong, Hong Ma, Nam Hong Ma
 Houay May
 Houay Maè
-Houay Me
 Houay Meloukniai
-Houay Men, Honei Mene, Houay Mêne
-Houay Meng, Houay Maing, Houei Menh
-Houay Meo
 Houay Meu
 Houay Meung
 Houay Meuy, Houay Meug, Houei Moeï
 Houay Mi
 Houay Mia
-Houay Miang
 Houay Mik
 Houay Mikouanching, Mi Kouan Ching
 Houay Min
-Houay Mo
+Houay Miàng
 Houay Mok
 Houay Mokouhô, Mo Kou Hô
 Houay Mokson, Houay Mac Son
 Houay Mon
-Houay Mong
 Houay Monin, Houei Monine
 Houay Monong, Houay Monang
 Houay Motaothou
@@ -1559,8 +1552,12 @@ Houay Mun
 Houay Mup
 Houay Mèlouk
 Houay Mèmang
+Houay Mèn, Honei Mene, Houay Mêne
+Houay Mèng, Houay Maing, Houei Menh
+Houay Mèo
 Houay Mèsang
 Houay Mèt
+Houay Mé
 Houay Mé Luk
 Houay Méhou
 Houay Méiloung
@@ -1569,9 +1566,11 @@ Houay Mék
 Houay Méli, Houay Méri, Houei Mery, Houei Mexy
 Houay Méosouho, Meo Sou Ho
 Houay Métpon, Huai Met Pone
+Houay Mô
 Houay Môhoum
 Houay Môklék
 Houay Môkplai, Houay Môkprai
+Houay Mông
 Houay Mông-Gnai
 Houay Mông-Noy, Houay Mong Gnui
 Houay Mēdou
@@ -1756,8 +1755,6 @@ Houay Nieuang
 Houay No
 Houay No Len
 Houay Noi
-Houay Nok, Huai Nok
-Houay Nom
 Houay Non
 Houay Nong, Houei Non
 Houay Nong Lek Fai
@@ -1772,10 +1769,10 @@ Houay Nongdeun
 Houay Nonghai
 Houay Nonghinmak
 Houay Nonghouay, Houay Nong Huôi
-Houay Nongke
 Houay Nongkha, Houei Nong Ka
 Houay Nongkham, Houei Nong Kam
 Houay Nongkhoun
+Houay Nongké
 Houay Nonglao
 Houay Nongleung
 Houay Nonglèn
@@ -1800,7 +1797,6 @@ Houay Nongthapkhoay
 Houay Nongva
 Houay Nongxay
 Houay Nonsoumsiaho, Mon Soum Sia Ho, Non Soum Sia Ho
-Houay Not, Houei Noi
 Houay Noua
 Houay Nouan
 Houay Nouang
@@ -1811,6 +1807,7 @@ Houay Noy, Nam Noi
 Houay Nuam
 Houay Nuhô, Na Nu Ho, Nam Nu Hô
 Houay Nèng
+Houay Nôk, Huai Nok
 Houay Nôkkhian, Hong Nôkkhian
 Houay Nôkkôk
 Houay Nôkpao
@@ -1818,13 +1815,12 @@ Houay Nôkpit
 Houay Nôkso, Houay Noc So, Huòi Noc So
 Houay Nôktha
 Houay Nôlangkon
-Houay O
+Houay Nôm
+Houay Nôt, Houei Noi
 Houay Ohoy
 Houay Okhou
 Houay Omvông, Huai Omvông
-Houay On
 Houay Ong
-Houay Ot
 Houay Ou, Houei Hou
 Houay Ouang
 Houay Ouk, Houei Duk
@@ -1915,7 +1911,7 @@ Houay Papoung
 Houay Pasa
 Houay Pasang
 Houay Pason
-Houay Pasong
+Houay Pasông
 Houay Pat, Huoi Pal
 Houay Patai
 Houay Patat
@@ -1941,8 +1937,6 @@ Houay Payong
 Houay Payxan, Houei Tham Than
 Houay Paét, Houay Pa Eh
 Houay Pekia
-Houay Pen, Hong Pèn, Hong Pène
-Houay Pet
 Houay Peun
 Houay Peup
 Houay Peuôk, Houay Peuoc, Houay Peuoe
@@ -1994,9 +1988,9 @@ Houay Phanviang
 Houay Phao
 Houay Phaoèng
 Houay Phaoén
-Houay Phapheng, Houei Papheng
 Houay Phaphin
-Houay Phapho
+Houay Phaphéng, Houei Papheng
+Houay Phaphô
 Houay Phapét, Houei Pha Put, Nam Pho Pel
 Houay Phasang
 Houay Phasip
@@ -2012,7 +2006,6 @@ Houay Phatèk, Houei Pha Te
 Houay Phatèk-Noy
 Houay Phaxay
 Houay Phay
-Houay Pheng
 Houay Pheung, Houei Peune
 Houay Phi, Houay Pni
 Houay Phia
@@ -2035,11 +2028,9 @@ Houay Phin
 Houay Phiphouan, Houei Phi Phom
 Houay Phiphut, Houei Phi Phui
 Houay Phisoum, Houay Phisoun, Houei Pisoule
-Houay Pho
 Houay Phok
 Houay Phokuan
 Houay Pholam
-Houay Phong, Houei Phong, Houei Phôn, Houei Pong
 Houay Phophan
 Houay Phothitphô
 Houay Photochin
@@ -2081,12 +2072,15 @@ Houay Phuan, Houay Phuon
 Houay Phung
 Houay Phè
 Houay Phèk, Houei Prek
+Houay Phèng
 Houay Phèt, Houei Phit
+Houay Phô
 Houay Phôkham, Nam Pho Kham
 Houay Phômdôk, Houei Fomdoc
 Houay Phômmabout
 Houay Phômô
 Houay Phôn
+Houay Phông, Houei Phong, Houei Phôn, Houei Pong
 Houay Pian, Houay Phièn, Houei Pien
 Houay Piat
 Houay Pik, Houay Piek
@@ -2109,17 +2103,15 @@ Houay Pleu
 Houay Pleuya
 Houay Plik
 Houay Plin
-Houay Plong, Houay Prông, Tom Pron, Tom Prong
 Houay Plotoching, Pro To Ching
 Houay Ploua
 Houay Plouan
 Houay Ploun
 Houay Ploy
 Houay Plôn
-Houay Po, Houei Nam Po
+Houay Plông, Houay Prông, Tom Pron, Tom Prong
 Houay Poanglangsa
 Houay Podong
-Houay Pok
 Houay Pokahô, Po Ka Hô
 Houay Poki
 Houay Pokiho
@@ -2129,7 +2121,6 @@ Houay Pomom
 Houay Pomon, Houay Pamone
 Houay Pomou
 Houay Pon
-Houay Pong, Hong Pông
 Houay Ponghak, Tôm Pong Har
 Houay Pongkhem
 Houay Pongkhèn, Hong Phuc Kom, Hong Pongkhèn
@@ -2137,7 +2128,6 @@ Houay Ponoy, Houei Non
 Houay Pont
 Houay Pontouak, Huei Pantour
 Houay Pophan
-Houay Pot
 Houay Potpao
 Houay Pou-Gnai, Houei Pou
 Houay Pou-Noy
@@ -2169,16 +2159,22 @@ Houay Pun
 Houay Put, Nam Put
 Houay Putélét
 Houay Pèk
+Houay Pèn, Hong Pèn, Hong Pène
+Houay Pèt
 Houay Pètsi, Houei Pessi
 Houay Pé, Houay Peh
 Houay Péng
 Houay Pétan
 Houay Póngsôk
+Houay Pô, Houei Nam Po
 Houay Pô-Gnai
+Houay Pôk
+Houay Pông, Hong Pông
 Houay Pông-Noy
 Houay Pôngdéng, Houei Rong Deng
 Houay Pôngling
 Houay Pôngpôy, Houei Phong Phoi
+Houay Pôt
 Houay Pôtoung
 Houay Réla, Toum Rela
 Houay Sa
@@ -2228,12 +2224,12 @@ Houay Sali, Houei Saly
 Houay Salia, Houei Srea
 Houay Salong
 Houay Salongkhiang
-Houay Salot, Houei Sa Lod, Huai Sa Lot, Tam S'Loi
 Houay Salouang
 Houay Saloung
 Houay Salung
 Houay Salèn, Houei Saléne
 Houay Salèng
+Houay Salôt, Houei Sa Lod, Huai Sa Lot, Tam S'Loi
 Houay Sam
 Houay Sam Liou, Houay Sam Lieu, Houei Sum Lieu
 Houay Samai
@@ -2328,7 +2324,6 @@ Houay Saymaknam
 Houay Sayna, Houei Sai Na
 Houay Saynaton
 Houay Sayphay, Houay Sophay, Houei Xay Fay
-Houay Sen, Houay Seinn, Houei Selan, Houei Selon, Houei Séne
 Houay Sen Sai
 Houay Senhin
 Houay Seun
@@ -2370,7 +2365,6 @@ Houay Siou
 Houay Sipakma
 Houay Sisiat, Houei Si Siet
 Houay Sit, Houay Sri, Tom Srie
-Houay So, Houei Xo
 Houay So-Ay
 Houay Soho
 Houay Soho-Noy
@@ -2379,17 +2373,14 @@ Houay Soi
 Houay Sokbô
 Houay Sokthang
 Houay Soktian, Houay Sok Tieng
-Houay Somhông
 Houay Sompay
 Houay Son
 Houay Sonchiang
 Houay Song, Houay Soug
 Houay Songhong
-Houay Songkhon, Houei Song Khône
 Houay Songkhèn, Houei Song Kene
 Houay Songsing
 Houay Soséo
-Houay Sot
 Houay Sot-Noy
 Houay Souak
 Houay Souam
@@ -2409,13 +2400,13 @@ Houay Soung, Hong Soung, Houei Soueg
 Houay Soup
 Houay Sout
 Houay Souy, Houei Soui, Houei Sui
-Houay Soy, Houei Soi
 Houay Sua
 Houay Suang
 Houay Sè, Houei Xê
 Houay Sè-Gnai
 Houay Sè-Noy
 Houay Sèdon, Houay Sé Done
+Houay Sèn, Houay Seinn, Houei Selan, Houei Selon, Houei Séne
 Houay Sènboun, Houay Sé Boun
 Houay Sènchan, Houei Thien Chane
 Houay Sèng
@@ -2429,13 +2420,18 @@ Houay Sénhô, Sen Hô
 Houay Sénphéng
 Houay Séotianho, Seo Tien Ho
 Houay Sét
+Houay Sô, Houei Xo
 Houay Sôk
 Houay Sôk-Gnai
 Houay Sôm
 Houay Sôm Lom
 Houay Sômgnou
+Houay Sômhông
 Houay Sômpoy, Nam Sompoy
+Houay Sôngkhôn, Houei Song Khône
 Houay Sôpphan
+Houay Sôt
+Houay Sôy, Houei Soi
 Houay Ta
 Houay Taang
 Houay Taban
@@ -2489,7 +2485,6 @@ Houay Talim
 Houay Taling
 Houay Talo
 Houay Taloi
-Houay Talong
 Houay Talou
 Houay Talouang
 Houay Talouay, Houei Taloi
@@ -2501,6 +2496,7 @@ Houay Talè
 Houay Talèo, Houay Talév
 Houay Talék
 Houay Talôn
+Houay Talông
 Houay Tam
 Houay Tama
 Houay Tamai
@@ -2520,17 +2516,16 @@ Houay Tamoun-Tôk, Houay Tamoun-Thtv.-Tôk
 Houay Tamout
 Houay Tamoy, Houei Tamoi
 Houay Tamphut
-Houay Tampong
 Houay Tampouang
 Houay Tamprôk
 Houay Tampèn
+Houay Tampông
 Houay Tamô, Huoi Ta Ma
 Houay Tan, Houay Tane
 Houay Tanakhon, Houei Tana Khone
 Houay Tang, Tom Tang
 Houay Tang-An
 Houay Tang-On
-Houay Tangan
 Houay Tanghak, Tôm Tang Har
 Houay Tangheun, Houay Tang Heurr, Houei Tang Heur, Houei Tong Heurr
 Houay Tangin
@@ -2538,6 +2533,7 @@ Houay Tangko
 Houay Tangom
 Houay Tangvay, Houei Tang Vai
 Houay Tangyèn
+Houay Tangàn
 Houay Tanhon
 Houay Tanilé
 Houay Tankouachin
@@ -2571,13 +2567,13 @@ Houay Taphou, Ta Phu
 Houay Taphông, Houei Ta Poum
 Houay Taping
 Houay Tapling, Houay T. Pling, Houay Tapring
-Houay Tapong
 Houay Tapoua
 Houay Tapoun
 Houay Tapoung
 Houay Tapout
 Houay Tapôlô
 Houay Tapôn, Tom To Poon
+Houay Tapông
 Houay Tarphô
 Houay Tasalang
 Houay Tasang
@@ -2606,7 +2602,6 @@ Houay Tayung, Houei Téyung
 Houay Taèk
 Houay Taén
 Houay Taôy
-Houay Te
 Houay Telun
 Houay Teu
 Houay Teui
@@ -2664,9 +2659,6 @@ Houay Thinghao
 Houay Thithi
 Houay Thièn
 Houay Thok
-Houay Thom, Houei Tom
-Houay Thon, Hong Thône, Houay Thone, Houei Me Pone, Houei Thone
-Houay Thong, Houei Xa Kong
 Houay Thongkhoun
 Houay Thonglouang
 Houay Thongsim
@@ -2690,6 +2682,9 @@ Houay Thèn
 Houay Thép
 Houay Thô
 Houay Thô-Nay
+Houay Thôm, Houei Tom
+Houay Thôn, Hong Thône, Houay Thone, Houei Me Pone, Houei Thone
+Houay Thông, Houei Xa Kong
 Houay Thônghi
 Houay Thôngiaviang
 Houay Thôngkhoay, Houei Thông Khuay
@@ -2719,7 +2714,7 @@ Houay Tinhè
 Houay Tinnian
 Houay Tinphalén
 Houay Tinthouang
-Houay Tintok, Huai Tintok
+Houay Tintôk, Huai Tintok
 Houay Tinxang
 Houay Tio
 Houay Tiou
@@ -2738,10 +2733,7 @@ Houay Tlèng
 Houay Tohichin
 Houay Toi
 Houay Tokok
-Houay Tomo, Houei Toma, Huai To Mo
 Houay Tompông
-Houay Ton, Houei Thone, Houei Tone
-Houay Tong, Houei Thang
 Houay Tongchiha, Houei Tong Thing
 Houay Tongching
 Houay Tongkham
@@ -2782,6 +2774,7 @@ Houay Tuamup
 Houay Tuan, Houay Tuon
 Houay Tuang
 Houay Tung
+Houay Tè
 Houay Tèk
 Houay Tèn
 Houay Tèng
@@ -2799,7 +2792,10 @@ Houay Tôkpa
 Houay Tôlô
 Houay Tômdèng
 Houay Tômpi
+Houay Tômô, Houei Toma, Huai To Mo
+Houay Tôn, Houei Thone, Houei Tone
 Houay Tôndèng
+Houay Tông, Houei Thang
 Houay Tônpheung
 Houay Tônxa
 Houay Tôt
@@ -2838,13 +2834,13 @@ Houay Vi
 Houay Vian, Au Rovieng Thom, Houei Viene, Âu Vine, Ô Roviéna Thom, Ô Vine
 Houay Viang
 Houay Ving
-Houay Vong, Huôi Vong
 Houay Vopgtang
 Houay Vung
 Houay Vèk
 Houay Vèn
 Houay Vèng
 Houay Vèt
+Houay Vông, Huôi Vong
 Houay Xa, Houei Sou
 Houay Xa-Noi
 Houay Xaha, Houay Xahô, Houei Ho
@@ -2889,7 +2885,6 @@ Houay Xaykhou
 Houay Xaymoun, Houei Samoun, Houei Say Moune
 Houay Xaytouang
 Houay Xayxôt
-Houay Xeng, Hong Xèng, Houei Seng, Houei Seun, Houei Xé
 Houay Xeuli
 Houay Xeuy
 Houay Xi
@@ -2918,10 +2913,7 @@ Houay Xilo, Houay Xila
 Houay Xing, Houei Sine
 Houay Xioumé
 Houay Xoay, Houei Soay
-Houay Xok
 Houay Xon, Houei Soné, Kouesson
-Houay Xong
-Houay Xot, Houei Soc, Houei Sot, Houei Xos
 Houay Xot-Gnai, Houei Sot
 Houay Xot-Noy, Houei Sot
 Houay Xou
@@ -2941,10 +2933,10 @@ Houay Xuhun
 Houay Xè, Houei Che
 Houay Xè-Gnai
 Houay Xèhoy
-Houay Xèno, Houei Seno
+Houay Xèng, Hong Xèng, Houei Seng, Houei Seun, Houei Xé
 Houay Xé Moun, Houay Sê Moun
 Houay Xébay, Houei Se Bai
-Houay Xébo, Houei Sébô, Toum Seba
+Houay Xébô, Houei Sébô, Toum Seba
 Houay Xédôn, Houei Sedove, Houei Sédone
 Houay Xéhat, Sé Hat
 Houay Xékang, Houei Tche Quan
@@ -2958,6 +2950,7 @@ Houay Xénai, Houay Sé Vai, Houay Xévai, Houei Si Vai, Houei Sé Vay
 Houay Xénon
 Houay Xénouan, Toum Se Moane
 Houay Xénoun
+Houay Xénô, Houei Seno
 Houay Xéphao
 Houay Xépong, Se Pong
 Houay Xépouan, Houei Sepouan
@@ -2967,6 +2960,9 @@ Houay Xéthouk, Houei Sethoue
 Houay Xévan, Houay Xéyan, Houei Savane, Houei Sevan, Houei Sevane
 Houay Xévang
 Houay Xôbi
+Houay Xôk
+Houay Xông
+Houay Xôt, Houei Soc, Houei Sot, Houei Xos
 Houay Ya
 Houay Yaka-Ouchin
 Houay Yali
@@ -2984,17 +2980,21 @@ Houay Yiak, Houei Yrr
 Houay Yin-Noy
 Houay Yok
 Houay Yon
-Houay Yong, Houei Yang
 Houay Yoy
 Houay Yén
+Houay Yông, Houei Yang
+Houay Èn, Houay Ene, Houei Hene
+Houay Ô
 Houay Ôbalumchaléa
 Houay Ôchèam, Or Cheam, Âu Chèam, Ô Chéam
 Houay Ôk
 Houay Ôk-Gna
 Houay Ôkhadèm
 Houay Ôlôvinathom
+Houay Ôn
 Houay Ônai
 Houay Ônat
+Houay Ôt
 Houeilé
 Huai Cham Nak, ห้วยจำหนัก
 Hôngluay
@@ -3102,7 +3102,7 @@ Kèng Hatkha
 Kèng Hatxôk, Kèng Hat Sok
 Kèng Hinchiao
 Kèng Hitt
-Kèng Hom
+Kèng Hôm
 Kèng Kaba
 Kèng Kai
 Kèng Kalè, Kèng Karè
@@ -3115,10 +3115,10 @@ Kèng Khan-Gnèng
 Kèng Khang
 Kèng Kho
 Kèng Kholé
-Kèng Khon
 Kèng Khonthay
 Kèng Khou, Keng Ku
 Kèng Khoulkhao
+Kèng Khôn
 Kèng Kilén
 Kèng Kinuk
 Kèng Kok
@@ -3477,15 +3477,15 @@ Nam Dam
 Nam Damon
 Nam Dang
 Nam Day
-Nam Deng, Nam De
 Nam Di
 Nam Dik, Nam Dic
 Nam Doktong
-Nam Dong
 Nam Douan, Nam Duan
 Nam Dua, Nam Ca
 Nam Dugnè
+Nam Dèng, Nam De
 Nam Dôn
+Nam Dông
 Nam Emun, Dac E Meule, Dak E Meule, Dakemeule, Nam Emeun
 Nam Et-Phou Louey
 Nam Eu
@@ -3542,7 +3542,6 @@ Nam Hinluag
 Nam Ho
 Nam Hoang-Noy
 Nam Hoi
-Nam Hom
 Nam Hongtha
 Nam Hou
 Nam Houa
@@ -3577,6 +3576,7 @@ Nam Hèng
 Nam Hèo
 Nam Hénahô, He Na Hô
 Nam Hôk, Nam Hoc
+Nam Hôm
 Nam Hôn
 Nam Hông
 Nam Ihou
@@ -3612,7 +3612,6 @@ Nam Katnang, Houei Tang
 Nam Katup
 Nam Kavét, Dak Kouet
 Nam Kay, Nam Khène
-Nam Ken, Nam Kene, Nam Khene
 Nam Kengmông
 Nam Keung, Nam Kueung
 Nam Kha
@@ -3634,9 +3633,7 @@ Nam Khiao, Nam Khieu
 Nam Khiliouan
 Nam Khing
 Nam Khip
-Nam Kho, Nam Khau
 Nam Khom
-Nam Khon, Nam Cône, Nam Khône
 Nam Khon Khène
 Nam Khong
 Nam Khosang
@@ -3648,6 +3645,8 @@ Nam Khèn
 Nam Khém
 Nam Khéng
 Nam Khéo
+Nam Khô, Nam Khau
+Nam Khôn, Nam Cône, Nam Khone
 Nam Khôp
 Nam Ki, Nam Ky
 Nam Kiang
@@ -3674,16 +3673,17 @@ Nam Koui, Nam Coui
 Nam Koui-Noi
 Nam Koula
 Nam Kout
-Nam Koy, Nam Koi
 Nam Kua
 Nam Kuang
 Nam Kuat
 Nam Kum, Nam Khum, Nam Kun
 Nam Kè, Nam Qué
 Nam Kèm
+Nam Kèn, Nam Kene, Nam Khene
 Nam Kèng
 Nam Kéning
 Nam Kông, Houei Nam Kong, Nam Krong
+Nam Kôy, Nam Koi
 Nam La
 Nam La-Gnai
 Nam Laka
@@ -3715,7 +3715,6 @@ Nam Linsoung
 Nam Liou
 Nam Loa, Nam Lod
 Nam Loi
-Nam Long, Nah Long
 Nam Losahô, Lo Sa Hô
 Nam Lothèkho, Lothèkho
 Nam Lou
@@ -3736,6 +3735,7 @@ Nam Lém
 Nam Lô
 Nam Lôn, Nam Lône
 Nam Lônaha, Lô Na Ha
+Nam Lông, Nah Long
 Nam Lônêho, Lô Nê Hô
 Nam Ma, Ma River, Song Cai, Song Lach Chao, Song Ma Giang, Sông Bông, Sông Mã
 Nam Madao, Nam Malao
@@ -3759,10 +3759,8 @@ Nam Mi
 Nam Mian
 Nam Miang, Nam Mieng
 Nam Ming
-Nam Mo, Houay Na Mo
 Nam Mok
 Nam Molo
-Nam Mon, Nam Mone
 Nam Mong
 Nam Mongkanghô, Mang Kang Ho, Mong Kang Hô, Nang Kang Hô
 Nam Mou
@@ -3780,7 +3778,9 @@ Nam Mèng
 Nam Mèng-Gnai, Houei Menh Nhay
 Nam Mèng-Noy, Houei Menh Moi
 Nam Mèt
+Nam Mô, Houay Na Mo
 Nam Môm
+Nam Môn, Nam Mone
 Nam Nachionghô, Na Chieng Hô
 Nam Nahuho, Na Nu Ho
 Nam Nakang
@@ -3825,16 +3825,16 @@ Nam Nip
 Nam Non
 Nam None
 Nam Nong, Nam Hung
-Nam Not
 Nam Nou
 Nam Noua, Nam Neua, Nam Nua, Ngoua
 Nam Nouan, Nam Kouane, Nam Nouane
 Nam Nousènchianghô, Nou Sen Ching Hô
-Nam Noy, Nam Noï
+Nam Noy, Nam Noi
 Nam Nu
 Nam Nèn, Nam Nenn
 Nam Nèn-Noy
 Nam Nôkkôk
+Nam Nôt
 Nam O
 Nam Okhou
 Nam On, Nam One, Nam Onn
@@ -3875,7 +3875,7 @@ Nam Peun, Nam Peum
 Nam Pha
 Nam Pha-Oun
 Nam Phabat, Nam Phra Bath
-Nam Phadeng
+Nam Phadèng
 Nam Phagnong
 Nam Phai
 Nam Phak, Nam Back, Nam Pack, Nam Pak
@@ -3898,9 +3898,7 @@ Nam Pheu
 Nam Pheung
 Nam Phiang, Nam Phieng
 Nam Phit
-Nam Pho
 Nam Phon, Nam Phuon
-Nam Phong
 Nam Phot
 Nam Phouam
 Nam Phouan, Nam Phuon, Nam Ponane, Nam Pouan, Nam Pouane
@@ -3916,7 +3914,9 @@ Nam Phè
 Nam Phèn
 Nam Phèo, Nam Peo
 Nam Phèt
+Nam Phô
 Nam Phôk-Han
+Nam Phông
 Nam Pi
 Nam Pi-Noy
 Nam Pian, Houei Pien, Nam Pien
@@ -3937,9 +3937,7 @@ Nam Poeung
 Nam Pok, Nam Poc
 Nam Pom
 Nam Pon, Nam Phone, Nam Pone
-Nam Pong
 Nam Pongkang
-Nam Pot
 Nam Pou
 Nam Pou-Noi
 Nam Pouang, Nam Pouong, Nam Pouono
@@ -3965,6 +3963,8 @@ Nam Pèk
 Nam Pèn
 Nam Pèng
 Nam Pét
+Nam Póng
+Nam Pôt
 Nam Rong
 Nam Sa, Nam Sa Jai, Nam Sah
 Nam Sa-Noy, Nam Sa Noi
@@ -3997,7 +3997,6 @@ Nam Sap
 Nam Sapèn
 Nam Sat, Houay Sah
 Nam Say, Nam Sai
-Nam Se
 Nam Seuit
 Nam Siam, Nam Siem
 Nam Sianghô, Na Tsing Hô
@@ -4028,24 +4027,25 @@ Nam Soung
 Nam Sounlon
 Nam Sout
 Nam Souy
-Nam Soy, Nam Sot, Nam Soï
 Nam Soyut, Houay So Yut
 Nam Sun
 Nam Sun-Noy, Nam Sun Noi
 Nam Sung
+Nam Sè
 Nam Sèn
 Nam Sèt
 Nam Séng
+Nam Sôy, Nam Soi, Nam Sot
 Nam Ta
 Nam Tabèng, Dak Tabèng
 Nam Tai, Nam Tay
 Nam Tak, Nam Tack
 Nam Talan
 Nam Talao
-Nam Tale
 Nam Talian
 Nam Talong
 Nam Taluang, Nam Ta Luona, Nam Ta Luong, Nam Tha Lang
+Nam Talè
 Nam Talôn
 Nam Tam
 Nam Tan
@@ -4053,7 +4053,6 @@ Nam Tang
 Nam Tangao
 Nam Tangô
 Nam Tavang, Dak Tavang, Tavang
-Nam Ten, Nam Ter
 Nam Teu
 Nam Teuhôt
 Nam Tha, Tha River
@@ -4076,7 +4075,6 @@ Nam Thing
 Nam Thip
 Nam Thoay, Nam Thouei, Nam Touei
 Nam Thok
-Nam Thon, Nam Nham, Nam Thoe
 Nam Thong
 Nam Thouang, Houay Tuong
 Nam Thoum
@@ -4088,6 +4086,7 @@ Nam Thèng
 Nam Théléng
 Nam Thôm-Gnai, Nam Thom Nho
 Nam Thôm-Noy
+Nam Thôn, Nam Nham, Nam Thoe
 Nam Ti
 Nam Tia Luong
 Nam Tian, Nam Tien, Namtain
@@ -4101,7 +4100,6 @@ Nam Tohô, To Hô
 Nam Toin
 Nam Tolonghô, To Long Hô
 Nam Tom
-Nam Tong, Tong Hô
 Nam Tonghouy, Nam Tong Houi
 Nam Topouang
 Nam Touam, Nam Touom
@@ -4111,6 +4109,7 @@ Nam Toun, Nam Toune
 Nam Toutlè, Nam Touille, Nam Vane
 Nam Triang, Nam Trian
 Nam Tuk
+Nam Tèn, Nam Ter
 Nam Tèng
 Nam Tèp
 Nam Tèt
@@ -4122,23 +4121,24 @@ Nam Tôktat Sômphamit, Chutes Somphamit, Falls of Somphant, Sômphamit
 Nam Tôktat Tatpouy
 Nam Tôktat Tatsét
 Nam Tôn
+Nam Tông, Tong Hô
 Nam Um
 Nam Va
 Nam Van
 Nam Vang
 Nam Vangpét
-Nam Veng
 Nam Vi
 Nam Viang
 Nam Vin, Ong Vinh
 Nam Vit
-Nam Vong
 Nam Voun, Houei Nam Choum, Houei Nam Choun
 Nam Vun, Nam Veun
 Nam Vè
 Nam Vèn, Nam Vene
 Nam Vèt, Nam Vète, Or Vet
+Nam Véng
 Nam Vô
+Nam Vông
 Nam Xa
 Nam Xa-Noi
 Nam Xa-Noy
@@ -4160,10 +4160,7 @@ Nam Xiangliap
 Nam Xianglông, Houei Xieng Long, Nam Xieng Long, Xieng Long
 Nam Xiangsét, Houay Xiangsét, Houei Xieng Set
 Nam Xing
-Nam Xo
 Nam Xok-Louang
-Nam Xong, Nam Song River
-Nam Xot, Nam Sot, Nam Xok
 Nam Xouang, Nam Suâng, Nam Xuong
 Nam Xuang, Nam Suong, Xam Xuang
 Nam Xèng
@@ -4171,6 +4168,9 @@ Nam Xé, Houay Namxé, Houei Nam Sé
 Nam Xé-Noy, Sé Naï, Sé Noy, Sé Noï
 Nam Xélin, Nam Tché Line
 Nam Xéngi
+Nam Xô
+Nam Xông, Nam Song River
+Nam Xôt, Nam Sot, Nam Xok
 Nam Y
 Nam Yang, Nam Giang
 Nam Yao
@@ -4236,10 +4236,10 @@ Nong Hi-Gnai
 Nong Hin
 Nong Hip
 Nong Hom
-Nong Hong
 Nong Hou
 Nong Houakhoua
 Nong Hoy, Nong Hoi
+Nong Hông
 Nong Iôy
 Nong Kadaoneung
 Nong Kainoy
@@ -4254,9 +4254,7 @@ Nong Khagnoung
 Nong Kham
 Nong Khamthao
 Nong Khanhin
-Nong Khe
 Nong Khikabu
-Nong Khon
 Nong Khong
 Nong Khong-Nua
 Nong Khong-Tai
@@ -4267,10 +4265,12 @@ Nong Khounchan
 Nong Khouthè
 Nong Khoy
 Nong Khuang
+Nong Khè
 Nong Khèn
 Nong Khèsamsip
 Nong Khém
 Nong Khôk
+Nong Khôn
 Nong Kin
 Nong Kok
 Nong Kokma
@@ -4294,12 +4294,12 @@ Nong Lamvay
 Nong Lamôk
 Nong Lan
 Nong Lat
-Nong Len
-Nong Lom
 Nong Louang
+Nong Lèn
 Nong Lèng
 Nong Lékfai
 Nong Lô
+Nong Lôm
 Nong Mai
 Nong Makchap
 Nong Maknao
@@ -4370,7 +4370,7 @@ Nong Saming
 Nong Samkha
 Nong Sang
 Nong Sang-Tai
-Nong Sano
+Nong Sanô
 Nong Sathévada
 Nong Seung
 Nong Sihoun-Gnun
@@ -4410,8 +4410,8 @@ Nong Vaa-Noy
 Nong Van
 Nong Vangthao
 Nong Vay
-Nong Veng
 Nong Viangkham
+Nong Vèng
 Nong Xadou
 Nong Xay
 Nong Xoun
@@ -4453,7 +4453,6 @@ Pha Dèng
 Pha Dèttong
 Pha Dôk
 Pha Dông, Pha Done, Pha Dôn
-Pha En
 Pha Faimai, Pha Phai Mai
 Pha Gnang
 Pha Gni
@@ -4468,7 +4467,6 @@ Pha Hao
 Pha Hatchan
 Pha Hip
 Pha Hoi
-Pha Hom
 Pha Honat
 Pha Hongchik
 Pha Hou
@@ -4481,6 +4479,7 @@ Pha Hoy
 Pha Hua, Pha Heua
 Pha Héhé
 Pha Hôk
+Pha Hôm
 Pha Hông
 Pha Ka
 Pha Kabôk
@@ -4523,7 +4522,6 @@ Pha Koanglan, Pha Kouanlan
 Pha Koi
 Pha Kok
 Pha Kongkhao
-Pha Kongkoy, Pha Kong Koay, Pha Kong Koi, Pha Kongkov
 Pha Kouanchan, Pha Cuon Chan
 Pha Kouang
 Pha Kouangkalao, Pha Kouankalao
@@ -4548,6 +4546,7 @@ Pha Kéng-Nai
 Pha Kôkdou, Pha Kok Duo
 Pha Kôknam
 Pha Kôngkèo
+Pha Kôngkôy, Pha Kong Koay, Pha Kong Koi, Pha Kongkov
 Pha Kônkô
 Pha Labèt
 Pha Labô
@@ -4725,6 +4724,7 @@ Pha Xigna
 Pha Xuang
 Pha Yat
 Pha Yèng
+Pha Èn
 Pha Ông-Nang
 Phak Hinpèn
 Phak Kèolanga
@@ -4849,7 +4849,6 @@ Phou Chomgnôk-Noy
 Phou Chomhang
 Phou Chomhat, Phou Tiom Houat
 Phou Chomho
-Phou Chomhouat, Phou Chom Huôt, Phu Chom Huat, Pu Chom Huot
 Phou Chomhè
 Phou Chomkha, Phou Tiom Kha
 Phou Chomkho
@@ -4862,7 +4861,6 @@ Phou Chomthét, Phou Tiom Phet
 Phou Chomtiang, Phou Chom Tien
 Phou Chomvan
 Phou Chomvoy, Phu Chom Voi
-Phou Chong
 Phou Chong Vong
 Phou Chonghouaylo
 Phou Chouan, Pha Chouan, Pha Louan
@@ -4879,9 +4877,11 @@ Phou Chéng
 Phou Chénhao
 Phou Chéokaosan
 Phou Chôk-Hao
-Phou Chôk-Lon, Phou Tiok Lon
+Phou Chôk-Lôn, Phou Tiok Lon
 Phou Chôkakhia, Chô Ca Khia
 Phou Chôknaklék
+Phou Chômhouat, Phou Chom Huôt, Phu Chom Huat, Pu Chom Huot
+Phou Chông
 Phou Chông-Ang
 Phou Cuniousan
 Phou Dalai
@@ -4899,8 +4899,6 @@ Phou Dao, Phu Dao
 Phou Daochèng
 Phou Dapho
 Phou Den Dinh
-Phou Dendin, Phou Den Dine, Pou Den Dinh (1)
-Phou Deng
 Phou Det
 Phou Din, Phou Dine, Phou Dinh
 Phou Dinchi
@@ -4916,7 +4914,6 @@ Phou Dom
 Phou Don-Nua, Phou Done Neua
 Phou Don-Tai, Phou Done Tay
 Phou Don-Tai-Noy
-Phou Dong
 Phou Donkoy
 Phou Donpalông
 Phou Dou, Phu Du, ภูดู่
@@ -4925,9 +4922,12 @@ Phou Douk, Phou Douc
 Phou Doydét, Doi Det, Doy Det
 Phou Duncaten, Phou Dancaten, Phou Dang Ka Ten, Phou Dankaten
 Phou Dènban
+Phou Dèndin, Phou Den Dine, Pou Den Dinh (1)
+Phou Dèng
 Phou Dènmuang, Bhū Dēn Moeāng, Phanom Daeng Muang, Phou Dene Muong, Phu Daeng Muang, Pou Den Muong
 Phou Déhan, Phou Dhane
 Phou Dôn, Phou Done
+Phou Dông
 Phou Dông-Ngon
 Phou Dônghin, Phou Dong Hine
 Phou Dôngkulèng
@@ -5040,9 +5040,7 @@ Phou Hit
 Phou Ho
 Phou Hoay, Phou Houay
 Phou Hoi
-Phou Hok, Phou Hôc
 Phou Holampat, Phu Ho, Phu Hò Lam Pát
-Phou Hom, Phou Hiom
 Phou Homèo
 Phou Honamma, Phu Hò Nằm Ma
 Phou Hong Leu, Phou Hongleu
@@ -5052,7 +5050,6 @@ Phou Hongthou, Phou Hong-Ou
 Phou Hongtoupo, Hong Tou Po
 Phou Honkai, Phou Ong Kai
 Phou Honon
-Phou Hot
 Phou Hothé
 Phou Hotôchaotaxan, Hotôchaotaxan
 Phou Hou, Phou Hoa
@@ -5144,9 +5141,9 @@ Phou Houayphon
 Phou Houayping
 Phou Houaypipeu
 Phou Houaypo
-Phou Houaypong
 Phou Houaypèk
 Phou Houaypé, Khong Houay Peh
+Phou Houaypông
 Phou Houaysoup
 Phou Houaytaboun
 Phou Houaytamlung, Phou Houei Tam Lune, Phu Houaytamlung
@@ -5180,10 +5177,13 @@ Phou Hèp
 Phou Hèt
 Phou Hètian
 Phou Hóuaytosat
+Phou Hôk, Phou Hôc
+Phou Hôm, Phou Hiom
 Phou Hômchong, Phou Hom Tian
 Phou Hôn
 Phou Hông
 Phou Hônu
+Phou Hôt
 Phou Igaon, Phou Y Nhom, Phou Y Nhon
 Phou Ikut
 Phou Imoun
@@ -5354,7 +5354,6 @@ Phou Khiou
 Phou Khisout
 Phou Khithao
 Phou Khlo
-Phou Kho, Phou Cô, Pou Khô
 Phou Khoak, Pha Khoak, Pha Khuoc
 Phou Khoang
 Phou Khok
@@ -5365,7 +5364,6 @@ Phou Kholing
 Phou Khom
 Phou Khomeu
 Phou Khomiang, Khoé Miong
-Phou Khong
 Phou Khongchiam, Khong Tiem
 Phou Khonghouayto, Khong Houay To
 Phou Khongtôk
@@ -5395,7 +5393,9 @@ Phou Khè
 Phou Khèngdèt, Phou Keng Det
 Phou Khém
 Phou Khéonin, Phou Khêonine
+Phou Khô, Phou Cô, Pou Khô
 Phou Khôkgnam, Phou Kok Gnam
+Phou Không
 Phou Khônôtia
 Phou Kiak, Phou Tiak, Phou Tiek
 Phou Kiam, Phou Kiem
@@ -5426,7 +5426,6 @@ Phou Koloman
 Phou Kolouang
 Phou Koléngoy
 Phou Kon
-Phou Kong, Môk Kong
 Phou Kong Nang, Kong Nang
 Phou Kongbôt
 Phou Kongkay
@@ -5508,8 +5507,9 @@ Phou Kôklang, Co Klang, Phou Kôkrang
 Phou Kôktom, Phou Coc Tom, Phow Coc Tam
 Phou Kôkông, Phou Co Con
 Phou Kôm, Phou Kaum
+Phou Kông, Môk Kong
 Phou Kông-Noy
-Phou Kônglôngkhô, Kông Long Khô
+Phou Kônglôngkhô, Kong Long Kho
 Phou Kôngtay, Co Contrai
 Phou Kônhouat, Phou Con Houat
 Phou Kôtalang
@@ -5590,7 +5590,6 @@ Phou Liou
 Phou Lit
 Phou Litia, Phou Litio
 Phou Liètik, Ko Riè Tic
-Phou Lo, Khong Lo, Phou Rô
 Phou Loa
 Phou Loi
 Phou Lokha
@@ -5601,9 +5600,6 @@ Phou Lolut
 Phou Lomhao, Lom Hao
 Phou Lomkhao
 Phou Lommèo
-Phou Lon, Phou Lône, Phu Lane
-Phou Lon-Noy
-Phou Long
 Phou Long-Nua
 Phou Long-O
 Phou Longho
@@ -5664,13 +5660,17 @@ Phou Lélat, Môk Lélat
 Phou Lénlé
 Phou Lénnik
 Phou Lóngtheu
+Phou Lô, Khong Lo, Phou Rô
 Phou Lôba, Phou Robas, Phou Rôba
 Phou Lôkvan, Phou Lôvkan
 Phou Lôlai, Phou Hou Lolay
 Phou Lôm, Phu Lome
 Phou Lôman, Phou Roman
+Phou Lôn, Phou Lone, Phu Lane
+Phou Lôn-Noy
 Phou Lôn-Nua
 Phou Lôn-Tai, Phou Lone
+Phou Lông
 Phou Lôngka, Phou Dông Ka
 Phou Lônglat
 Phou Lôngxang, Ma Lao Sen
@@ -5707,10 +5707,10 @@ Phou Maktè, Phou Ma Te
 Phou Makémuangching, Ma Ke Moung Ching, Ma Ke Muong Ching
 Phou Mali, Phou Meh, Phou Meli
 Phou Malo
-Phou Malong, Pou Along Lao
 Phou Malou
 Phou Malouay
 Phou Malountonpao, Ma Lou Ton Pao
+Phou Malông, Pou Along Lao
 Phou Mamai, Phu Ma Mai
 Phou Mamuangsoung, Ma Muang Soung
 Phou Mangok, Phou Mak Ngok
@@ -5753,7 +5753,6 @@ Phou Moktalout
 Phou Moktangom
 Phou Moktiantalay, Phou Mok Tièn Tlay
 Phou Mokyan
-Phou Mon, Phou Man
 Phou Mong
 Phou Mong Muong
 Phou Monghong, Phu Mong Hong
@@ -5767,7 +5766,6 @@ Phou Mouaksamo
 Phou Mouangching, Mouang Ching
 Phou Moun
 Phou Mousoukoliangsou
-Phou Moy, Phou Moi
 Phou Mu
 Phou Muang, Phou Mouang
 Phou Muang-Ngat, Phou Moung Ngat, Phou Muong Ngat
@@ -5806,7 +5804,9 @@ Phou Môkpèt
 Phou Môksouk
 Phou Môktiak
 Phou Môktlèng, Phou Mok Tieng
+Phou Môn, Phou Man
 Phou Môn-Noy
+Phou Môy, Phou Moi
 Phou Na
 Phou Na-Tai, Phou Nateu
 Phou Na-U
@@ -5879,9 +5879,9 @@ Phou Nampi, Phou Nam Phi
 Phou Nampik, Phu Nam Pit
 Phou Nampin
 Phou Nampo
-Phou Nampong
 Phou Nampoun, Phou Noum Poun
 Phou Nampé
+Phou Nampông
 Phou Namrigam
 Phou Namsai, Phou Nam Say
 Phou Namsang
@@ -6023,9 +6023,9 @@ Phou Pakan
 Phou Pakang
 Phou Pakeun
 Phou Pakhai, Phou Pa Khoi
-Phou Pakhom
 Phou Pakhoun, Phou Pa Khum, Phou Pa Khun
 Phou Pakhè
+Phou Pakhôm
 Phou Paking
 Phou Pakkeu
 Phou Pakkhôm
@@ -6078,7 +6078,6 @@ Phou Patong
 Phou Patsung, Phou Pawt Sung
 Phou Pavay
 Phou Payapolo, Pa Ya Polo
-Phou Peng
 Phou Pengdeng
 Phou Petoua
 Phou Peumung, Peumung
@@ -6087,8 +6086,8 @@ Phou Pha, Môc Pha, Phou Phao
 Phou Pha En
 Phou Pha Louong
 Phou Pha-Noy, Phou Pha Noi
-Phou Pha-O
 Phou Pha-lang
+Phou Pha-Ô
 Phou Phaang
 Phou Phabak, Phou Pha Bac
 Phou Phaban, Phou Pha Banh
@@ -6257,8 +6256,6 @@ Phou Phiang, Phou Phian
 Phou Philao
 Phou Phin
 Phou Phinang
-Phou Pho, Phu Dong Pho
-Phou Phon, Phou Phone
 Phou Phouang
 Phou Phoung
 Phou Phung
@@ -6269,6 +6266,8 @@ Phou Phèn-Noy
 Phou Phèng
 Phou Phèphao
 Phou Phé
+Phou Phô, Phu Dong Pho
+Phou Phôn, Phou Phone
 Phou Phôn-Gnai
 Phou Phôn-Noy, Phou Phonh
 Phou Phông
@@ -6294,7 +6293,6 @@ Phou Pong, Phu Pong
 Phou Pongkham
 Phou Pongthou
 Phou Posi-Tai, Pa Si Ta, Po Si Tai
-Phou Pot
 Phou Potoka, Po To Ka
 Phou Pouak
 Phou Pouangbông
@@ -6316,6 +6314,7 @@ Phou Pècheuk, Ko Pecheur
 Phou Pèk
 Phou Pèomangông
 Phou Pèpian
+Phou Péng
 Phou Péngklang
 Phou Pénglak
 Phou Péngmun
@@ -6324,6 +6323,7 @@ Phou Péning-Tai, Phou Péning
 Phou Pét
 Phou Pétka
 Phou Pôngdèng
+Phou Pôt
 Phou Pôtthai
 Phou Sa
 Phou Sa Mang
@@ -6446,7 +6446,6 @@ Phou Sivoupoliangchin, Si Vou Po Liang Chin
 Phou Sling
 Phou Soaydao, Khao Mieng, Phou Soai Dap, Phu Khao Mieng, Phu Soai Dao, ภูสอยดาว
 Phou Sokôminkhang, So Ko Minh Khang
-Phou Som, Nhét Som
 Phou Som Poi, Phnom Som Poi, Phu Som Poi
 Phou Son, Phou Sone
 Phou Song
@@ -6454,7 +6453,6 @@ Phou Songgno, Pou Song Nho
 Phou Songhong
 Phou Songkèo
 Phou Songsiang
-Phou Sot
 Phou Sote
 Phou Souang
 Phou Souangman
@@ -6490,8 +6488,10 @@ Phou Sélépolo, Sélé Polo
 Phou Séngdao, Khong Seng Dao
 Phou Sét, Phou Xet
 Phou Sô
+Phou Sôm, Nhét Som
 Phou Sôngtông
 Phou Sôplouak, Phou Soup Luoc, Phou Soup Luok
+Phou Sôt
 Phou Ta, Ko Ta
 Phou Tabeuy
 Phou Tabiat
@@ -6681,7 +6681,6 @@ Phou Tokachong, To Ka Chong
 Phou Tokiaopolo, To Kio Polo
 Phou Tolon, Phou Tolone
 Phou Tomséo, Khong Tom Séa, Khong Tom Séo
-Phou Ton, Phou Tone, Ta Ton, Ta Tone
 Phou Tongching
 Phou Tonggna
 Phou Tonglôm
@@ -6709,11 +6708,12 @@ Phou Téntong
 Phou Tôm
 Phou Tômkai, Phou Toum Kai
 Phou Tômèn
+Phou Tôn, Phou Tone, Ta Ton, Ta Tone
 Phou Tôn-Tai
 Phou Tông
-Phou Tôngchongchai, Tông Chông Chai
 Phou Tôngchongsan, Tông Chong San
 Phou Tôngchôn
+Phou Tôngchôngchai, Tông Chông Chai
 Phou Tôngsan-Nua, Phou Tôngsan
 Phou Tôngsan-Tai
 Phou Tônpheung, Phu Tong Peun
@@ -6734,7 +6734,6 @@ Phou Vap, Phou Yap
 Phou Vat
 Phou Vay
 Phou Vaysôm-Gnai, Wai Som Yai
-Phou Vet
 Phou Veung
 Phou Veuntong, Phou Veune Tong, Veune Tong
 Phou Viang, Phu Vieng
@@ -6749,6 +6748,7 @@ Phou Vouk, Phou Vouc
 Phou Vout, Phou Vuot
 Phou Vunvanko, Lun Van Ko
 Phou Vè, Phou Ve Sa
+Phou Vèt
 Phou Vông
 Phou Vôt, Chomlèng, Môk Vôt
 Phou Xai, Phou Xay
@@ -6780,9 +6780,7 @@ Phou Xi, Pou Xi
 Phou Xi-Oua, Phou Sioi
 Phou Xiangkhông
 Phou Xiangphét
-Phou Xo, Phu So
 Phou Xon, Phou Xonne
-Phou Xong, Phou Cong, Phu Xong
 Phou Xong-Nang
 Phou Xonghinkong, Phu Xonghinkong
 Phou Xouang, Phou Xuong
@@ -6797,6 +6795,8 @@ Phou Xékong, Phou Sé Kong
 Phou Xélava, Phu Sé Rawa
 Phou Xétamoup
 Phou Xéxông
+Phou Xô, Phu So
+Phou Xông, Phou Cong, Phu Xong
 Phou Yahoyèn, Phou Ya Ho Yèn, Phu Ya Ho Yan
 Phou Yakdaiphom, Phou Yak Deï Pom
 Phou Yakou, Ya Kou
@@ -6824,7 +6824,7 @@ Phou Ônghôn
 Phouhin Namno
 Phounin Namno
 Phoupha Tamchét
-Phouphiang Bolaven, Boloven Plateau, Bolovens Plateau, Phouphieng Bolovens, Plateau de Bolavén, Plateau des Bolovans, Plateau des Bolovens
+Phouphiang Bolavén, Boloven Plateau, Bolovens Plateau, Phouphieng Bolovens, Plateau de Bolavén, Plateau des Bolovans, Plateau des Bolovens
 Phu Atouat, Phu Atoua, Phu Atwat, Pou Atouat
 Phu Banthat, ภูบรรทัด
 Phu Kho Si, Phou Khôsi, ภูโคสี

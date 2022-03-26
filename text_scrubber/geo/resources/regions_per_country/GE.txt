@@ -2,7 +2,7 @@ Aapsta, Apsta, Apsti, Baklanovka
 Abanais-Tskali
 Abanoskhevi, Bokoris Khevi, Reka Bokoris-khevi
 Abasha, Abashis Raioni, Abashskiy Rayon
-Abkhazia, Abasia, Abkhasia, Abkhazian A.S.S.R., Abkhaziya, Abkhazskaya ASSR, Abkhazskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Ap'khazet'is Avtonomiuri Respublika, Apkhazetis ASSR, Apkhazetis Avtonomiuri Sabchota Sotsialisturi Respublika, აფხაზეთი
+Abkhazia, Abasia, Abkhasia, Abkhazian A.S.S.R., Abkhaziya, Abkhazskaya ASSR, Abkhazskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Ap'khazet'i, Ap'khazet'is Avtonomiuri Respublika, Apkhazetis ASSR, Apkhazetis Avtonomiuri Sabchota Sotsialisturi Respublika
 Achara, Adjar, Adzhar, Adzharia, Adzharistan, Adzhariya
 Acharistsqali, Acharis-Tskali, Achis-Tskali, Adjaris-Tskhali, Adsharis Zkali, Adzharis-Tskhali, Adzharistskali, Atcharistskali, Bzang
 Achk'va, Ach'qva
@@ -11,7 +11,7 @@ Achmarda Ughelt'ekhili
 Achovchari Ughelt'ekhili, Pereval Achavchar, Pereval Achovchar, უღელტეხილი აჩოვჩარი
 Adange
 Adezi, Adedi
-Adigeni Municipality, Adigeni, Adigenis Raioni, Adigenskiy Rayon, ადიგენის მუნიციპალიტეტი
+Adigeni Municipality, Adigeni, Adigenis Munitsip'alit'et'i, Adigenis Raioni, Adigenskiy Rayon
 Adishch'ala
 Adzlagara
 Adzula
@@ -32,15 +32,15 @@ Aguribza
 Agvakhvarakvara
 Ajameti Managed Reserve, აჯამეთის აღკვეთილი
 Ajametis Nakrdzali, Adzhametskiy Zapovednik, Imeretskiy Tsalkoti
-Ajaria, Acharis ASSR, Acharis Avtonomiuri Sabchot'a Sots'ialisturi Respublika, Acharis avtonomia, Adzharskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Автономная Республика Аджария, Аджария, აჭარის ავტონომიური რესპუბლიკა
+Ajaria, Acharis A.S.S.R., Acharis Avtonomiuri Respublika, Acharis Avtonomiuri Sabchot'a Sots'ialisturi Respublika, Acharis avtonomia, Adzharskaya Avtonomnaya Sovetskaya Sotsialisticheskaya Respublika, Автономная Республика Аджария, Аджария
 Ak'udrokha
 Akariya
 Akavreta
 Akhadi
 Akhalgori
 Akhalgoris Munitsip'alit'et'i, Akhalgori Municipality, Akhalgoris Raioni, Leningor district, Leningorskiy Rayon
-Akhalkalakis Munitsip'alit'et'i, Akhalkalakskiy Rayon, Akhalkʼalakʼis Raioni
-Akhaltsikhis Munitsip'alit'et'i, Akhaltsikhskiy Rayon, Akhaltsʼikhis Raioni
+Akhalkalakis Munitsip'alit'et'i, Akhalkalakis Raioni, Akhalkalakskiy Rayon
+Akhaltsikhis Munitsip'alit'et'i, Akhalts'ikhis Raioni, Akhaltsikhskiy Rayon
 Akharuta
 Akhatnis-Khevi
 Akhayeti
@@ -110,7 +110,7 @@ Avdzhikvara
 Avichikva, Abiehikva
 Babaneuris Nakrdzali, Babaneurskiy Zapovednik
 Baghdati
-Baghdatis Munitsip'alit'et'i, Bagdadskiy Rayon, Baghdati Municipality, Baghdatʼis Raioni, Mayakovskiy Rayon
+Baghdatis Munitsip'alit'et'i, Bagdadskiy Rayon, Baghdat'is Raioni, Baghdati Municipality, Mayakovskiy Rayon
 Bai-Khevi
 Baisubani, Baysubani, Kaisubnis-Khevi
 Bakhvi
@@ -129,8 +129,8 @@ Bartskhana
 Bash
 Bashishkvara
 Bashkatsara
-Bat'umis Konts'khi, Mys Batumiyskiy, Mys Burun-Tabiya, Мыс Батумский
-Bat'umis Qure, Anakria Point, Batum Bay, Batumi Bay, Batumiyskaya Bukhta, Батумская Бухта
+Bat'umis Konts'khi, Mys Batumiyskiy, Mys Batumskiy, Mys Burun-Tabiya
+Bat'umis Qure, Anakria Point, Batum Bay, Batumi Bay, Batumiyskaya Bukhta, Batumskaya Bukhta
 Bator Silsiləsi
 Batsara
 Batsaras  Nature Reserve, Batsara Reserve, Batsaris Nakrdzali, Zapovednik Batsara, Zapovednik Batsarskiy, ბაწარას სახელმწიფო ნაკრძალი
@@ -139,11 +139,11 @@ Batumi
 Batumi Botanical garden
 Batumiyskiy Reyd, Bat'umis Raidi, Batum Roads, Batumi Road
 Bauli, Baul
-Baviu, Бавю
+Baviu, Bavyu
 Baydara, Baydarka
 Baydarskoye Ushchel'ye
 Bear-Cross Pass, Pereval Datvis-Dzhvarisgele, Ugheltekhili Dat'visjvari, დათვის ჯვარი გადასასვლელი
-Belaia, Белая
+Belaia, Belaya
 Belyy Okhurey
 Berkhevi
 Bersheula
@@ -151,7 +151,7 @@ Bershueti
 Berzugabi, Berzugab
 Besh
 Beshennaya Balka
-Beshta, Святая
+Beshta, Svyataya
 Besleta, Beslëtka, Reka Beselia
 Besleti
 Bezonists'q'ali, Bezonis-Tskali
@@ -197,8 +197,8 @@ Bugdasheni, Bugdashen
 Bukhta Gudautskaya, Gudautskaya Bukhta, Gudauty Bay
 Bukis-Gele
 Bulanchi
-Buleva, Скурджа
-Bulony, Карач
+Buleva, Skurdzha
+Bulony, Karach
 Burmell
 Burneula
 Bursa
@@ -214,7 +214,7 @@ Bzipi, Bsyb, Buyt, Bzib, Bzuib, Bzyb'
 Bzubzu
 Bzyb Mountain Range, Bsyb Gebirge, Bzip'is K'edi, Bzipskiy Khrebet, Bzybskiy Khrebet, Khrebet Bzyb
 Böyük Udabno Dağı
-Caucasus Mountains, Bol'shoy Kavkaz, Böyük Qafqaz, Caucasus, Great Caucasus, Greater Caucasus, Кавказ, კავკასია, კავკასიონი
+Caucasus Mountains, Bol'shoy Kavkaz, Böyük Qafqaz, Caucasus, Great Caucasus, Greater Caucasus, Kavkasioni, Кавказ, კავკასია
 Ch'ak'vis K'edi, Khrebet Chakvinskiy
 Ch'anists'q'ali, Chanis-Tskali
 Ch'arnali
@@ -280,13 +280,13 @@ Chkheri, Chkhere
 Chkhina
 Chkhorokiya
 Chkhoroktsu, Reka Chkhorotsku
-Chkhorots'q'us Munitsip'alit'et'i, Chkhorotskuskiy Rayon, Chʼkhorotsqus Raioni, Tchkhorotsku Raioni
+Chkhorots'q'us Munitsip'alit'et'i, Ch'khorotsqus Raioni, Chkhorotskuskiy Rayon, Tchkhorotsku Raioni
 Chkhorotsku
 Chkhorotsqu
 Chkhortoli
 Chkhoushi, Chkhoyshi, Chkoushi
 Chkhuneti
-Chokhat'auris Munitsip'alit'et'i, Chokhataurskiy Rayon, Chʼokhatauris Raioni
+Chokhat'auris Munitsip'alit'et'i, Ch'okhatauris Raioni, Chokhataurskiy Rayon
 Chokhatauri, Chokhatauris Raioni, Tchokhatauri, Tchokhataurskiy Rayon
 Chokhiskhevi
 Choloki, Cholok, Cholokh
@@ -354,7 +354,7 @@ Dukniskhevi
 Dumala
 Duruji, Durudzhi, Reka Durudzha
 Dusheti
-Dushetis Munitsip'alit'et'i, Dusheti Municipality, Dushetskiy Rayon, Dushetʼis Raioni
+Dushetis Munitsip'alit'et'i, Dushet'is Raioni, Dusheti Municipality, Dushetskiy Rayon
 Dushetis-Khevi
 Dzagva
 Dzama
@@ -410,7 +410,7 @@ Gagripsh, Gagrypsh
 Gagris Kedi, Gagrii Kette, Gagrinskiy Khrebet, Gagrinskiye Gory, Gagrskiy Khrebet, Gagry Mountains
 Gagry Gap, Ushchel'ye Gagrinskoye
 Gali District, Gal'skiy Rayon, Galis Raioni
-Gali Reservoir, Eris-Tskal'skoye Vodokhranilishche, Gal'skoye Vodokhranilishche, Galis Tsqalsats'avi, ერისწყლის წყალსაცავი
+Gali Reservoir, Eris-Tskal'skoye Vodokhranilishche, Erists'q'lis Ts'q'alsatsavi, Gal'skoye Vodokhranilishche, Galis Tsqalsats'avi
 Galicha
 Galis-Ikaro
 Gardabani, ყარაია
@@ -425,7 +425,7 @@ Gedzhir
 Gega
 Geghamayri
 Gele-Tskali
-Georgia, Georgian Soviet Socialist Republic, Gruzia, Gruzinskaya Sovetskaya Sotsialisticheskaya Respublika, Gürcistan, Republic of Georgia, Sak'art'velos Respublika, Sakartvelo, Vrastan, Грузия
+Georgia, Georgian Soviet Socialist Republic, Gruzia, Gruzinskaya Sovetskaya Sotsialisticheskaya Respublika, Gruziya, Gürcistan, Republic of Georgia, Sak'art'velos Respublika, Sakartvelo, Vrastan
 Gergeti Glacier, Lednik Ortsveri
 Germukhis K'edi
 Ghalidzga, Galidsga, Galidzga, Reka Galizga
@@ -534,7 +534,7 @@ Gora Chaikhi-Severnaya, Gora Chaukhi-Severnaya
 Gora Chanchakhi, Gora Chanchakh
 Gora Chandzhakhkort
 Gora Chaparukhi
-Gora Charasaldys-Tavi, მთა ჩირასალდის თავი
+Gora Charasaldys-Tavi, Mta Chirasaldis Tavi
 Gora Chaukhi
 Gora Chaukhi-Vostochnaya
 Gora Chel'tis-Satavistsveri
@@ -570,7 +570,7 @@ Gora Diditepa
 Gora Diklosmta, Diklos Mountains, Diklosmt'a, Dlalos-Alta, Gora Dikslomta, Gora Dinlos-Mta
 Gora Doli-Gubis-Tavi
 Gora Dolosha
-Gora Dombay-Ul'gen, Dambar-Uljan Berg, Gora Dombay-Yel'gen, მთა დომბაი ულგენი
+Gora Dombay-Ul'gen, Dambar-Uljan Berg, Gora Dombay-Yel'gen, Mt'a Dombai Ulgeni
 Gora Dombistsveri
 Gora Dou
 Gora Dzedo
@@ -582,7 +582,7 @@ Gora Dzhiat
 Gora Dzhikhandzhuri
 Gora Dzhirkhva
 Gora Dzhmali
-Gora Dzhuguturlyuchat, მთა ჯუგუტურლუჩათი
+Gora Dzhuguturlyuchat, Mt'a Juguturluch'at'i
 Gora Dzidoku
 Gora Dzirisi
 Gora Eisir-Khu
@@ -592,7 +592,7 @@ Gora Elias-Nishi
 Gora Eliozova
 Gora Eliya
 Gora Eltses
-Gora Encho, Lai Pass, მთა ენჩო
+Gora Encho, Lai Pass, Mta Encho
 Gora Ermani
 Gora Ertsoz, Гора Эрцог
 Gora Eshmagura, Gora Yeshmagura
@@ -681,7 +681,7 @@ Gora Khirakhu
 Gora Khita
 Gora Khmeli-Tapa
 Gora Khochaldag, Kochalo, Kotshalo, Mta Khochaldaghi, ქოჩალო მთა
-Gora Khodzhikish, Гора Хиджикиш
+Gora Khodzhikish, Gora Khidzhikish
 Gora Khorodzhostavi
 Gora Khoroshis-Tavi
 Gora Khotevis-Mta
@@ -847,7 +847,7 @@ Gora Povorotnaya
 Gora Prtskha
 Gora Pshegishkhva
 Gora Psykva
-Gora Psysh, მთა პსიში
+Gora Psysh, Mta P'sishi
 Gora Ptich'ya
 Gora Ptysh, Gora Malyy Pik Ine
 Gora Purt-Kalo
@@ -896,14 +896,14 @@ Gora Satandzhio
 Gora Satibe
 Gora Satovle
 Gora Satskenelo
-Gora Saukhokh, მთა საუხოხი
+Gora Saukhokh, Mta Saukhokhi
 Gora Saurme
 Gora Shakriani
 Gora Shan, Mt'a Shani
 Gora Sharitau
 Gora Sharkhokh
 Gora Shashuri, Gora Sasuye
-Gora Shaudidi, Гора Шоудыд
+Gora Shaudidi, Gora Shoudyd
 Gora Shaviklde, Gora Shavi, Mt'a Shaviklde
 Gora Shavimta, Shavi Mt'a
 Gora Sheindis-Kele, Gora Sheindis-Keli
@@ -926,7 +926,7 @@ Gora Siveraut
 Gora Skal'naya
 Gora Skhamoana
 Gora Skurda
-Gora Sofrudzhu, Gora Sofridzhu, მთა სოფრუჯუ
+Gora Sofrudzhu, Gora Sofridzhu, Mta Sopruju
 Gora Sokhs, Gora Sokho
 Gora Soldatskaya
 Gora Soncho
@@ -1058,7 +1058,7 @@ Gumat'is Tsqalsats'avi
 Gumiripsha, Gumirifsha
 Gumist'is Nakrdzali, Gumistinskiy Zapovednik
 Gupta
-Guria, Гурия, გურიის მხარე
+Guria, Guriya, გურიის მხარე
 Gurinka
 Guris-Tskali
 Gurjaani, Gurdzaani, Gurdzhaani
@@ -1107,7 +1107,7 @@ Jvris Tsqalsats'avi
 Jvris Ugheltekhili
 K'ach'k'ach'is Ts'q'ali
 K'akhis T'ba, Ozero Kakhisi-Tba
-K'alak'i Chiat'ura, Chiatura, Chiatura Municipality
+K'alak'i Chiat'ura, Chiat'ura, Chiatura Municipality
 K'alak'i T'bilisi, Gorod Tbilisi, T'bilisi
 K'alak'i Tqibuli, Tkibuli, Tqibuli
 K'aliamoni
@@ -1149,7 +1149,7 @@ Kalasanidon
 Kalaskuris
 Kalininskiy Rayon
 Kaloskhorkhi
-Kalyamona, კალიამონა
+Kalyamona, K'aliamona
 Kanal Akhali-Arkhi
 Kanal Basharkhi
 Kanal Khevi
@@ -1200,7 +1200,7 @@ Khaldech'ala
 Khanchkel
 Khanistskali
 Khaopse, Khashupsa, Khoshupse
-Kharagaulis Raioni, Kharagaul'skiy Rayon, ХАРАГАУЛИ
+Kharagaulis Raioni, Kharagaul'skiy Rayon, Kharagauli
 Kharakis Tskali
 Kharelis K'edi, Kharul'skiy Khrebet
 Khari
@@ -1229,7 +1229,7 @@ Khevsuretiya
 Khidetura
 Khilkvara
 Khimsa
-Khimsa Ughelt'ekhili, Крестовый, Перевал Химса
+Khimsa Ughelt'ekhili, Krestovyy, Pereval Khimsa
 Khinat-Khevi
 Khipsta, Belaya, Beloratsikskoye, Belorazikskoy, Byelaya, Khifsta
 Khishobona
@@ -1386,7 +1386,7 @@ Kildani Gora
 Kinikhori
 Kinkisha
 Kintia
-Kintrishi Reserve, Kintrishskiy Zapovednik, კინტრიშის ნაკრძალი
+Kintrishi Reserve, Kintrishis Nakrdzali, Kintrishskiy Zapovednik
 Kirbalula
 Kiri
 Kirovskiy Rayon
@@ -1490,7 +1490,7 @@ Lebarde
 Lebeuris Mt'a, Gora Sirkh-Labirt, Gora Syrkh-Leberta
 Lech'khumis K'edi, Lechkhumskiy Khrebet, Letschumskij Gebirge
 Lechkhumi, Lechkhum
-Lednik Chalaat, მყინვარი ჭალაათი
+Lednik Chalaat, Mq'invari Ch'alaati
 Lednik Devdarakskiy, Devdorak Glacier, Dyevdorák Glacier, Lednik Devdorakskiy, Mq'invari Devdorak'i
 Lednik Khasankoy-Syuryulgen, Lednik Khasankhoy-Syurul'gen
 Lednik Kichkinekolbashi
@@ -1505,7 +1505,7 @@ Lednik Sofrudzhu Yuzhnyy
 Lednik Tanyshkhan, Lednik Talychkhin
 Lednik Tsanner
 Lednik Tviber, Lednik Tviberi
-Lednik Ëzen'gi, Lednik Ozenogi, Lednik Yuzen'gi, Ледник Озеньги
+Lednik Ëzen'gi, Lednik Ozen'gi, Lednik Ozenogi, Lednik Yuzen'gi
 Ledniki Kibishi, Lednik Kibish
 Lekhidari
 Lekhura, Rekhula
@@ -1619,7 +1619,7 @@ Morilok'i
 Morvili Range, მორვილის ქედი
 Moshevani
 Mosinula
-Mount Donguzorun, Гора Донгузорун-Чегет-Карабаши, მთა დონღუზორუნი
+Mount Donguzorun, Mta Donghuzoruni, Гора Донгузорун-Чегет-Карабаши
 Mount Dzhangitau, Dzhanga Tau, Mount Dzhanga, Mta Janghitau, Гора Джангитау
 Mount Orbodzali, Gora Orbodzala
 Mount Tebulosmta, Tebulosmt'a, Гора Тебулосмта
@@ -1767,7 +1767,7 @@ Mt'a Didi Abuli, Gora Bol'shiye Abuli, Gora Bol'shoy Abul, Gora Didi-Abuli, Gros
 Mt'a Didi Andarazani, Gora Bol'shiye Andarazani
 Mt'a Didi Borbalo, Gora Barbalo, Gora Bol'shoye Barbalo, Gora Bol'shoye Borbalo, Gora Borbalo
 Mt'a Emlik'li, Gora Yemlikli, Jemmikli Berg
-Mt'a Ertsakho, Gora Ertsog, Mt'a Ertsakhvi, Гора Эрцахо
+Mt'a Ertsakho, Gora Ertsakho, Gora Ertsog, Mt'a Ertsakhvi
 Mt'a Gadrek'ili, Gora Chkhvindigulya, Gora Gadirakili, მთა გადირაკილი
 Mt'a Galavduri, Gora Galavdur, Gora Gelavdur
 Mt'a Gareja, Gora Garedzha
@@ -1857,8 +1857,8 @@ Mta Chaama, Gora Chaama
 Mta Chakvistavi, Ch'ak'vismt'a, Gora Chakvis, Gora Chakvistavi, Tschakwis-Mta Berg
 Mta Chanchakhi, Tschantschachi Berg
 Mta Chast'au, Gora Tsastou
-Mta Chedimi, Tschedym Berg, Гора Чедым
-Mta Chibiskha, Гора Чибисха
+Mta Chedimi, Gora Chedym, Tschedym Berg
+Mta Chibiskha, Gora Chibiskha
 Mta Chibjagra, Gora Chibzhagra
 Mta Chip'shira, Gora Chipishra, Gora Chipshira
 Mta Chubedishi
@@ -1886,8 +1886,8 @@ Mta Gistola, Гора Гистола
 Mta Gorisseri
 Mta Gormaghali
 Mta Gulk'una, მთა გელკუნა
-Mta Gumirip'sha, Гора Гумирипша
-Mta Gumishkha, Gora Gumishka, Gumischcha Berg, Гора Гумишха
+Mta Gumirip'sha, Gora Gumiripsha
+Mta Gumishkha, Gora Gumishka, Gora Gumishkha, Gumischcha Berg
 Mta Gvalaia, Gora Gualyaya, Gora Gvalyaya
 Mta Intsk'ari
 Mta Jvari, მთა ჯვარა
@@ -1904,9 +1904,9 @@ Mta K'ok'otse
 Mta K'orkhu, Gora Korkhu
 Mta K'oslast'avi
 Mta K'virani, Gora Kviran
-Mta Khak'a, Гора Хака
+Mta Khak'a, Gora Khaka
 Mta Khalkhama
-Mta Khimsa, Гора Химса
+Mta Khimsa, Gora Khimsa
 Mta Khino, China Berg, Gora Khino, Gora Khinoy
 Mta Khipsta, Gora Khipsta
 Mta Khitsma, Gora Khitsma, Mountain Khitsma
@@ -1931,7 +1931,7 @@ Mta Mtirala, Gora Tirala, Mt'a Ts'iskara
 Mta Mtsire Shkhap'achi, Gora Malaya Skhapach, Gora Malyy Sh'khapach, Gora Malyy Skhapach
 Mta Muchera
 Mta Mukhelta
-Mta Mukhursha, Гора Мухурша
+Mta Mukhursha, Gora Mukhursha
 Mta Murashk'ani, Gora Muratkana
 Mta Murk'nevi, Gora Murkiyevi, Gora Murknevi
 Mta Mushulda
@@ -1970,9 +1970,9 @@ Mta Shavnabada, Gora Shavnabad, მთა შავნაბად
 Mta Shishvelimta, Gora Shishvelimta
 Mta Shk'vit'tselani, Gora Shivittselani
 Mta Shkhap'izga, Gora Shkhapazga, Gora Shkhapidzga, Gora Shkhapizga, Mt'a Shkhap'idzga, Schchopidsga Berg
-Mta Shkhelda, Gora Shkhel'dy, Гора Шхельда
+Mta Shkhelda, Gora Shkhel'da, Gora Shkhel'dy
 Mta Shuagora
-Mta Sviataia, Гора Святая
+Mta Sviataia, Gora Svyataya
 Mta T'abak'ela
 Mta T'bis Seri
 Mta T'et'enari, Gora Tetenar, Gora Tetnari
@@ -2010,7 +2010,7 @@ Mtsaga
 Mtsari-Tskali
 Mtskheta
 Mtskheta-Mtianeti, მცხეთა-მთიანეთის მხარე
-Mtskhetis Munitsip'alit'et'i, Mtskhetskiy Rayon, Mtsʼkhetʼis Raioni
+Mtskhetis Munitsip'alit'et'i, Mts'khet'is Raioni, Mtskhetskiy Rayon
 Mtsra
 Mubra
 Mujukhis Mt'a, Gora Mudzhukhi, Gora Mundzhukhe
@@ -2033,7 +2033,7 @@ Mys Kodori
 Mys Psyrtskhva
 Mys Tamysh, Mys Tamush
 Mys Tolstyy, Abikhu Point, Tolstoi Point, Tolsty Point
-Mys Tsikhisdziri, Chikhidzyr, Tsikhidziri Point, Tsikhinzir point, Zelyony Mys, მწვანე კონცხი
+Mys Tsikhisdziri, Chikhidzyr, Mtsvane Kontskhi, Tsikhidziri Point, Tsikhinzir point, Zelyony Mys
 Myussera, Myussery, Myussyra, Myusyra
 Mzimna
 Nadarbazevis Tba, Ozero Nadarbazevi
@@ -2142,7 +2142,7 @@ Ozero Dzhikurebskoye
 Ozero Dzhugi
 Ozero Dzykhva
 Ozero Egaristba
-Ozero Gorapi, ტბა გუარაპი
+Ozero Gorapi, T'ba Guarap'i
 Ozero Imnati, Ozero Imnata
 Ozero Inkit
 Ozero Kachal-Tba
@@ -2180,7 +2180,7 @@ Ozero Tsodvianitba
 Ozero Uzun-Gel
 Ozero Verukhlis-Tba
 Ozero Zelënoye
-Ozurget'is Raioni, Makharadzevskiy Rayon, Ozurgeti Rayon, Ozurgetskiy Rayon, ОЗУРГЕТИ
+Ozurget'is Raioni, Makharadzevskiy Rayon, Ozurgeti, Ozurgeti Rayon, Ozurgetskiy Rayon
 P'aravani, Achalkalaki-Tschai, Akhalkalak-Chay, Akhalkalaki, Akhalkalaki-Chay, Akhalkalokinay, Taparavan-Chay, Taparavani
 P'at'ara Chkhoushi, Malyye Chkhoushi
 P'atsa, Pkhatsa
@@ -2244,7 +2244,7 @@ Pereval Khelerdi
 Pereval Khida
 Pereval Khimrik
 Pereval Kitlod
-Pereval Klukhorskiy, Kluchorskij Pass, Klukhorskaya Tropa, Pereval Klukhor, კლუხორის უღელტეხილი
+Pereval Klukhorskiy, K'lukhoris Ughelt'ekhili, Kluchorskij Pass, Klukhorskaya Tropa, Pereval Klukhor
 Pereval Kodorskiy, K'adoris Ugheltekhili, Kodow Pass, Pereval Kadorskiy
 Pereval Kody-Sakoravisgele
 Pereval Kolotonisgele
@@ -2263,11 +2263,11 @@ Pereval Mangavtsek, Pereval Manga-Avtsakh
 Pereval Marukhskiy, Marukhi Ugheltekhili
 Pereval Memul
 Pereval Mestia
-Pereval Mskhal-Gori, Перевал Мохол-Гори
+Pereval Mskhal-Gori, Pereval Mokhol-Gori
 Pereval Nakerali, Pereval Makeral'skiy, Pereval Nakeral'skiy
-Pereval Nakhar, ნახარი უღელტეხილი
+Pereval Nakhar, Nakhari Ughelt'ekhili
 Pereval Nakle-Khol, Pereval Nakancho
-Pereval Naur, ნაური უღელტეხილი
+Pereval Naur, Nauri Ughelt'ekhili
 Pereval Odzha-Suki
 Pereval Oritskali
 Pereval Psyrs
@@ -2467,7 +2467,7 @@ Sheusuri
 Shida K'art'lis Vake, Kartalinskaya Ravnina, Vnutrennekartliyskaya Ravnina
 Shida Kartli, შიდა ქართლის მხარე
 Shikhra Valley, შიხრა ხეობა
-Shirakis Vake, Schiraker Steppe, Shiraki Steppe, Step' Shiraki, Ширакская Степь
+Shirakis Vake, Schiraker Steppe, Shiraki Steppe, Shirakskaya Step', Step' Shiraki
 Shiri-Khevi
 Shirimiskhevi
 Shiroruri, Шлирорури
@@ -2540,7 +2540,7 @@ Stori
 Stori Valley
 Suatisidon
 Sukhaya
-Sukhumi District, Sokhumis Munitsip'alit'et'i, Sokhumis Raioni, Sukhumi, Сухумский район
+Sukhumi District, Sokhumis Munitsip'alit'et'i, Sokhumis Raioni, Sukhumi, Sukhumskiy Rayon
 Sukhumka
 Sukhumski Point, Mys Krasnyy Mayak, Mys Sukhum, Mys Sukhumiyskiy, Mys Sukhumskiy, Sokhumi Cape, Sokhumis Konts'khi, Sukhumi Point
 Suksu Point, Konts'khi Souk'su, Mys Bomborskiy, Mys Souk-Su
@@ -2581,13 +2581,13 @@ Tanies Tba, Ozero Taniestba
 Tarchia
 Tashli K'ishla, Taschlja-Kischlya, Tashle-Kechlya
 Tav-Gele
-Tba Amtqeli, Ozero Amtkeli, Ozero Amtkiali, Ozero Azanskoye, Озеро Амткел
+Tba Amtqeli, Ozero Amtkel, Ozero Amtkeli, Ozero Amtkiali, Ozero Azanskoye
 Tba Bazalet'i, Ozero Bazaleti, Ozero Bazaletskoye
 Tba Ertso, Ozero Ertso
 Tba Japana, Dzhapana Lake, Japana Lake, Ozero Dzhapani
 Tba Kumisi, Kumissi See, Ozero Kumisi
-Tba Mada, Madarapa See, Madatapa Lake, Ozero Madatapa, Ozero Madatapinskoye, ტბა მადათაფა
-Tba Paliastomi, Liman Paloostrom, Ozero Paleostom, Ozero Paleostomi, Ozero Paliastomi, Ozero Paliostomi, Paliostomi Lake, პალიასტომის ტბა
+Tba Mada, Madarapa See, Madatapa Lake, Ozero Madatapa, Ozero Madatapinskoye, T'ba Madatapa
+Tba Paliastomi, Liman Paloostrom, Ozero Paleostom, Ozero Paleostomi, Ozero Paliastomi, Ozero Paliostomi, P'aliast'omis T'ba, Paliostomi Lake
 Tba Saghamo, Ozero Sagamo, Ozero Tuman-Gël', Saghamo Lake
 Tba-Tsveri
 Tbat'anis K'edi, Tbatanskiy Khrebet
@@ -2605,7 +2605,7 @@ Tetnuldi Ski Resort
 Tetra-Khevi
 Tetri Tsqaro
 Tetrikhevi
-Tetrits'q'alos Munitsip'alit'et'i, Tetritskaroyskiy Rayon, Tetritsqaro Municipality, Tʼetʼritsqaros Raioni
+Tetrits'q'alos Munitsip'alit'et'i, T'et'ritsqaros Raioni, Tetritskaroyskiy Rayon, Tetritsqaro Municipality
 Tetyashera
 Tezami
 Tianetis Munitsip'alit'et'i, T'ianet'is Raioni, Tianeti, Tianetskiy Rayon
@@ -2640,7 +2640,7 @@ Ts'ivi
 Ts'khratsqaro Pass, Pereval Tskhara-Tskaro, Pereval Tskhratskaro, Schara-Karo Pass, Ts'khratsqaros Ugheltekhili, Tskhrats'q'aro Ughelt'ekhili
 Tsablarastsqali, Tsablaros-Tskali
 Tsageri
-Tsageris Munitsip'alit'et'i, Tsageri Municipality, Tsagerskiy Rayon, Tsʼageris Raioni
+Tsageris Munitsip'alit'et'i, Ts'ageris Raioni, Tsageri Municipality, Tsagerskiy Rayon
 Tsagistou
 Tsak-Gali
 Tsakura
@@ -3149,7 +3149,7 @@ Zekari Pass, Pereval Zekari, Sekarskij Pass, Zekaris Ugheltekhili
 Zemo Magistraluri Arkhi, Kanal Verkhne-Samgorskiy, Samgorskiy Kanal, Verkhne-Samgorskiy Kanal, Verkhniy Magistral'nyy Kanal
 Zemo-Kharulistskali
 Zeskho
-Zest'aponis Munitsip'alit'et'i, Zestafoni Municipality, Zestafonskiy Rayon, Zestapʼonis Raioni
+Zest'aponis Munitsip'alit'et'i, Zestafoni Municipality, Zestafonskiy Rayon, Zestap'onis Raioni
 Zhankhindzhi
 Zhati, Letnik Zhati, Zhaty
 Zhatis Mta
@@ -3159,7 +3159,7 @@ Zima
 Znaurskiy Rayon
 Zop Khituri
 Zorgat
-Zugdidis Munitsip'alit'et'i, K'alak'i Zugdidi, Zugdidi, Zugdidskiy Rayon, Zygdidi, ზუგდიდის რაიონი
+Zugdidis Munitsip'alit'et'i, K'alak'i Zugdidi, Zugdidi, Zugdidis Raioni, Zugdidskiy Rayon, Zygdidi
 Zvaria-Mta
 Çatma Ayrığı
-Çoruh Nehri, Chorokh, Chorukh, Reka Çoruh, Tchorokhi, Tschoroch, Çorokh, Çoruh, ჭოროხი
+Çoruh Nehri, Ch'orokhi, Chorokh, Chorukh, Reka Çoruh, Tchorokhi, Tschoroch, Çorokh, Çoruh

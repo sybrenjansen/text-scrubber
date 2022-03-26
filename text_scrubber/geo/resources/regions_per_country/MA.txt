@@ -142,7 +142,6 @@
 'Ayn Barou
 'Ayn Barrahou
 'Ayn Bayda
-'Ayn Beida
 'Ayn Bel Gorchi
 'Ayn Bel Madani
 'Ayn Ben Ayyad
@@ -152,6 +151,7 @@
 'Ayn Ber Allou
 'Ayn Berd
 'Ayn Bernous
+'Ayn Beïda
 'Ayn Bine Karrou
 'Ayn Bine La'youn
 'Ayn Bir Ya'qoub
@@ -697,7 +697,6 @@ Aarchane
 Aari Ahioud
 Aari Imaoun
 Aari Imarhdir, Aari Imarhdu
-Aarich
 Aarouat Tachemjat
 Aaroun Oufaunas
 Aarour Ameqrane
@@ -3141,7 +3140,6 @@ Ain Abarnati
 Ain Abaïnou
 Ain Abbaq
 Ain Abbie
-Ain Abbou, Aïn Abhou
 Ain Abd el Guiche
 Ain Abdech
 Ain Abdelghali
@@ -3203,7 +3201,6 @@ Ain Ahoud
 Ain Ahraouta
 Ain Ahrik
 Ain Ahrit
-Ain Aicha, Ain Aicha (CR), Ain Aicha (Commune Rurale), اوطا بوعبان
 Ain Aidoua
 Ain Aidraia
 Ain Ainezemer
@@ -3258,7 +3255,6 @@ Ain Amajrar
 Ain Amalou
 Ain Amama
 Ain Amane Sayrrine
-Ain Amar
 Ain Amar Soud
 Ain Amaragh
 Ain Amarouch
@@ -3303,8 +3299,6 @@ Ain Arbea
 Ain Archir
 Ain Areb
 Ain Arhanndo
-Ain Arhbal
-Ain Arhbel
 Ain Arheddoue
 Ain Arhram
 Ain Arhtgbbou
@@ -3412,7 +3406,6 @@ Ain Begra
 Ain Behchaue
 Ain Behraut
 Ain Bei Buleyid
-Ain Beida, Ain Beida (CR), Ain Beida (Commune Rurale), Aïn Bédéa, بني عروس
 Ain Bel Arbi
 Ain Bel Haddar
 Ain Bel Hadraoui
@@ -3423,7 +3416,6 @@ Ain Bellamene
 Ain Bellarej
 Ain Belqlah
 Ain Ben Addou
-Ain Ben Aissa
 Ain Ben Alaadene
 Ain Ben Ald
 Ain Ben Ali
@@ -3431,6 +3423,7 @@ Ain Ben Allalat
 Ain Ben Assala
 Ain Ben Attoul
 Ain Ben Ayach
+Ain Ben Aïssa
 Ain Ben Chahed
 Ain Ben Charqi
 Ain Ben Daoud
@@ -3497,7 +3490,6 @@ Ain Bir Lahmar
 Ain Bir el Fid
 Ain Bita
 Ain Biyyad
-Ain Blal, Ain Blal (CR), Ain Blal (Commune Rurale), زاوية سيدي بنحمدون
 Ain Bled Allal
 Ain Blouli
 Ain Bni Abdellah
@@ -3659,7 +3651,6 @@ Ain Boulaajoul
 Ain Bouljaouni, Ain Bouljaoui
 Ain Bouloula
 Ain Bouqrich
-Ain Bourbah
 Ain Bourkha
 Ain Bourouad
 Ain Bourout
@@ -3721,7 +3712,6 @@ Ain Chaylane
 Ain Chben
 Ain Chdadna
 Ain Cheggag, Ain Cheggag (CR), Ain Cheggag (Commune Rurale), غفساي (البلدية)
-Ain Cheikh
 Ain Chejra
 Ain Chekhiya
 Ain Cheouat
@@ -3740,7 +3730,6 @@ Ain Chibrik
 Ain Chichaoua
 Ain Chikechma
 Ain Chit
-Ain Chkef, Ain Chkef (CR), Ain Chkef (Commune Rurale), Aïn Chhief, Aïn-Chkeff, سيدي داود
 Ain Chkour
 Ain Chnouene
 Ain Chold Kenna
@@ -3774,7 +3763,6 @@ Ain Daaydia
 Ain Daaydiaa
 Ain Dahane
 Ain Dahhane
-Ain Daidia, Aïn Daïdïu
 Ain Daila
 Ain Dakhla
 Ain Dakine
@@ -3840,7 +3828,6 @@ Ain Dhia
 Ain Dhiba
 Ain Dial Khaba
 Ain Diasri
-Ain Dib
 Ain Dieb
 Ain Diem
 Ain Digsodet
@@ -3935,7 +3922,7 @@ Ain El Bahya
 Ain El Bamwich
 Ain El Bayda
 Ain El Bedda
-Ain El Beida
+Ain El Beïda
 Ain El Boula
 Ain El Brida
 Ain El Cadi
@@ -4168,7 +4155,6 @@ Ain Guerramane
 Ain Guetare, Aïn el Guetara
 Ain Guetta
 Ain Habtiya
-Ain Hachlaf
 Ain Had Sidi Almi
 Ain Hadd
 Ain Hadda Ommar
@@ -4190,22 +4176,18 @@ Ain Hakkous
 Ain Halhoul
 Ain Hallal
 Ain Hallou
-Ain Hallouf
 Ain Hallout
 Ain Hamaa
 Ain Hamal
 Ain Hamemcha
 Ain Hamjya
-Ain Hamma, Aïn Hamme
 Ain Hammad
 Ain Hammara
-Ain Hammou
 Ain Hammou Ou Mimoune
 Ain Hammou Sghir
 Ain Hammoud
 Ain Hammoud Saïd
 Ain Hamnroum
-Ain Hamra
 Ain Hamriya
 Ain Hamza
 Ain Hannach
@@ -4219,7 +4201,6 @@ Ain Harous
 Ain Harra
 Ain Harrach
 Ain Harreck
-Ain Harrouda, Ain Harrouda (Commune Urbaine), Ain Harrouda (MU), مركز المكانسة
 Ain Hassar
 Ain Hassouane
 Ain Hassoune
@@ -4309,8 +4290,6 @@ Ain Jbel
 Ain Jbihia
 Ain Jdad
 Ain Jdane
-Ain Jdid
-Ain Jdida
 Ain Jebbouja
 Ain Jebeur
 Ain Jebkya
@@ -4375,7 +4354,6 @@ Ain Kassem
 Ain Kaurri
 Ain Kberous
 Ain Kbir
-Ain Kbira, Aïn Koura
 Ain Kchekchiine
 Ain Kebir
 Ain Kebira
@@ -4389,7 +4367,6 @@ Ain Kerbache, Aïn Kerbach, Aïn Kuerbach, Aïn Kuerbaen
 Ain Keret Roumanat
 Ain Kerker
 Ain Kerkra
-Ain Kerma
 Ain Khachha
 Ain Khaddour
 Ain Khadil
@@ -4596,7 +4573,6 @@ Ain Lebrouziyine
 Ain Lebsibissa
 Ain Lebta
 Ain Ledchar
-Ain Legdah, Ain Legdah (CR), Ain Legdah (Commune Rurale), رأس الواد
 Ain Legdima
 Ain Leghanyer
 Ain Leghda
@@ -4624,7 +4600,6 @@ Ain Lehtah
 Ain Lehtem
 Ain Leinkirlia
 Ain Lejraa
-Ain Lekbira
 Ain Lekbouinza
 Ain Lekchita, Abida
 Ain Lekehila
@@ -4666,7 +4641,6 @@ Ain Leqsab, Bir el Ksob
 Ain Lerhdir
 Ain Lerroude
 Ain Leskas
-Ain Leuh, Ain Leuh (CR), Ain Leuh (Commune Rurale), Oued Aïn Leuh, مركز قاسيطة
 Ain Lfadil
 Ain Lfallous
 Ain Lfarrouj
@@ -4805,7 +4779,6 @@ Ain Ma Banaim
 Ain Ma Lhoumar
 Ain Maadant
 Ain Maana Harina
-Ain Maarouf
 Ain Maatalla, Aïn Maatla
 Ain Maatouf, Ain Maatouf (CR), Ain Maatouf (Commune Rurale), سيدي امحمد بن لحسن
 Ain Maaza
@@ -4890,7 +4863,6 @@ Ain Meiafaja, Aïn el Mejam, Aïn el Mejdam
 Ain Mekessim
 Ain Meklaa
 Ain Melha
-Ain Mellah
 Ain Mellas
 Ain Men Chou
 Ain Menkoucha
@@ -4964,7 +4936,6 @@ Ain Moumkhal
 Ain Moumna
 Ain Moura
 Ain Moured
-Ain Moussa
 Ain Moussa Ben Allal
 Ain Moussa Malek
 Ain Mouzemmour
@@ -5149,7 +5120,6 @@ Ain Saddine
 Ain Sadiad Efrogba
 Ain Saf Agherbi
 Ain Saffoud
-Ain Safsaf, Aïn Sefsafa
 Ain Safsafa
 Ain Sagriouine
 Ain Saha
@@ -5220,12 +5190,10 @@ Ain Serir
 Ain Sersan, Aïn Serria, Aïn Sersa, Aïn Serssa
 Ain Sersar
 Ain Seyd
-Ain Sfa, Ain Sfa (CR), Ain Sfa (Commune Rurale), Aïn es Sfa, سيدي لحسن
 Ain Sfar
 Ain Sfariela
 Ain Sfarjla
 Ain Sfeifla
-Ain Sferjla
 Ain Sfia
 Ain Sghira
 Ain Shaba
@@ -5297,7 +5265,6 @@ Ain Skhanna
 Ain Skhaouna
 Ain Skhira
 Ain Skhiret, Aïn Skreïrat
-Ain Skhouna, Aïn Shrioun, Aïn Skrouna
 Ain Skhounat
 Ain Skhoune, Aïn es Skhoun
 Ain Skoune
@@ -5308,7 +5275,6 @@ Ain Slimane
 Ain Smar
 Ain Smara
 Ain Smen
-Ain Smene
 Ain Smenr
 Ain Smia
 Ain Smid Lma
@@ -5350,7 +5316,6 @@ Ain Tabat
 Ain Tabazat
 Ain Tabet
 Ain Tabirout
-Ain Tabouda
 Ain Tabouene
 Ain Tach
 Ain Tachdirt
@@ -5367,7 +5332,6 @@ Ain Tafergalt
 Ain Tafgam
 Ain Tafoudit
 Ain Tafoughalt
-Ain Tafraout, Aïn Tafraoust
 Ain Tafrennt
 Ain Tafza Dimeouar
 Ain Tagadirt
@@ -5425,7 +5389,6 @@ Ain Taltafraout
 Ain Tamarouft
 Ain Tamarrachit
 Ain Tamchachate
-Ain Tamda
 Ain Tamda Ouzrou
 Ain Tamechchicht
 Ain Tamedit
@@ -5439,7 +5402,6 @@ Ain Tamuhan
 Ain Tanbalat
 Ain Tanda
 Ain Tanizabet
-Ain Tanout, Aïn Tanoute
 Ain Tanout Bni Chiyeb
 Ain Tanzoullat
 Ain Taomert
@@ -5516,12 +5478,10 @@ Ain Tifernine
 Ain Tiffert
 Ain Tiffidour
 Ain Tifirassine
-Ain Tifrit
 Ain Tiggoura
 Ain Tighboula
 Ain Tighbouta
 Ain Tighribine
-Ain Tijane
 Ain Tijjiouine
 Ain Tijjit
 Ain Tikhsosset
@@ -5534,7 +5494,6 @@ Ain Timmayyeat
 Ain Timotriaie
 Ain Timzeggout
 Ain Timzought
-Ain Tine
 Ain Tinfarit
 Ain Tinkhalina
 Ain Tinzert
@@ -5558,7 +5517,6 @@ Ain Tizi Ziyane
 Ain Tiziouint
 Ain Tlaya
 Ain Tlazza
-Ain Tleta
 Ain Tlit
 Ain Tmeyouch
 Ain Tolba
@@ -5607,7 +5565,6 @@ Ain Yrunes
 Ain Zaaa
 Ain Zachrib
 Ain Zagla
-Ain Zahra
 Ain Zair
 Ain Zalaga
 Ain Zanategh
@@ -5625,7 +5582,6 @@ Ain Zbadi
 Ain Zbirat
 Ain Zebal, Aïn Zabel
 Ain Zebbouja
-Ain Zebda
 Ain Zebrounda
 Ain Zebu
 Ain Zebzar
@@ -5637,7 +5593,6 @@ Ain Zenata
 Ain Zennaya
 Ain Zentla
 Ain Zerf
-Ain Zerga
 Ain Zerkat
 Ain Zerrar
 Ain Zgarda
@@ -5691,7 +5646,6 @@ Ain ech Chettah
 Ain ed Debdou
 Ain ed Dekkara
 Ain ed Dfla
-Ain ed Dib, Aïn ed Diba
 Ain ed Doumïa
 Ain ed Droua
 Ain el Aabib
@@ -5703,20 +5657,13 @@ Ain el Baroud
 Ain el Berch
 Ain el Berd
 Ain el Beriet
-Ain el Beïda
-Ain el Bouirat
 Ain el Brini
 Ain el Guerroui
 Ain el Guettara
 Ain el Guettarid
-Ain el Haj, Aïn el Hadj
-Ain el Hajar, Aïn el Hadjar
 Ain el Hajbat
-Ain el Hajer
 Ain el Hallilara
-Ain el Hamar, Aïn el Hamir
 Ain el Hamira, Aïn el Hamza
-Ain el Hammam
 Ain el Hamra
 Ain el Hanech
 Ain el Haouita
@@ -5733,7 +5680,6 @@ Ain el Kelaa
 Ain el Kelba
 Ain el Kerami
 Ain el Keria
-Ain el Kerma
 Ain el Kermet
 Ain el Khadem
 Ain el Khemis
@@ -5822,48 +5768,32 @@ Airchane
 Aire de Pique-nique
 Aissaouat
 Aissi
-Ait 'Aïcha
 Ait Aadel, Ait Aadel (CR), Ait Aadel (Commune Rurale), ابادو
 Ait Abbas, Ait Abbas (CR), Ait Abbas (Commune Rurale), لمعاشات
-Ait Abbou, Ait Abou
-Ait Abdallah, Ait Abdallah (CR), Ait Abdallah (Commune Rurale), ادار
 Ait Abdellah
 Ait Abdennour
 Ait Aboes
 Ait Addraa, Ahl Draa
 Ait Affi
-Ait Ahmed
 Ait Ahsen
 Ait Aissa Ou Ali
 Ait Aissa Ou Mellouk
-Ait Aissi
 Ait Aissi Ihahane, Ait Aissi Ihahane (CR), Ait Aissi Ihahane (Commune Rurale), اكرض
 Ait Akka Ou Mansour
-Ait Akki
 Ait Ala
-Ait Ali
-Ait Ali Ou Lahsene, Aït Ali Ou Lachene, Aït Ali Ou Lahcen, Aït Ali Ou Lahsen, Aït Ali Ou Lhacen
-Ait Ali Ou Youssef
 Ait Alla, Douar Aït Ala
-Ait Amer, Aït Aameur, Aït Ameur
 Ait Amir Lghaba
 Ait Amira, Ait Amira (CR), Ait Amira (Commune Rurale), سيدي وساي
 Ait Amira Lghaba
 Ait Amira R E G
-Ait Ammar, Ait Ammar (CR), Ait Ammar (Commune Rurale), جرادة (البلدية)
-Ait Arfa
-Ait Atmane, Ait Athmane, Aït Athman, Aït Atman
-Ait Ayach, Ait Ayach (CR), Ait Ayach (Commune Rurale), Ait Ayache, أكوديم
 Ait Ayyach
 Ait Azizel
 Ait Ba Azzi
 Ait Baamrane
 Ait Baboud, Aït Babout
-Ait Baha, Ait Baha (Commune Urbaine), Ait Baha (MU)
 Ait Baht Ou Mlal
 Ait Bakhechoune Jbel
 Ait Barra
-Ait Bazza, Ait Bazza (CR), Ait Bazza (Commune Rurale), زينات
 Ait Bel Attar
 Ait Bel Kacem, Dar Belkassem
 Ait Bel Lahsen
@@ -5876,29 +5806,23 @@ Ait Ben Bouazza
 Ait Ben Yacoub, Ait Ben Yacoub (CR), Ait Ben Yacoub (Commune Rurale), الدخيسة
 Ait Ben Yazgha
 Ait Bezguimmi
-Ait Blal, Ait Blal (CR), Ait Blal (Commune Rurale), تبانت
 Ait Bou Alla
 Ait Bou Amrane
-Ait Bou Bidmane
 Ait Bou El Kacem
 Ait Bou Guimal
 Ait Bou Hammed, Aït Bou Ahmed
 Ait Bou Haqqi
 Ait Bou Meksa
-Ait Bou Oulli, Ait Bou Oulli (CR), Ait Bou Oulli (Commune Rurale), أيت عباس
 Ait Bou Qassou, Aït Bou Ksour
 Ait Boubidmane, Ait Boubidmane (CR), Ait Boubidmane (Commune Rurale), موحى أوحمو الزياني
 Ait Boudaoud, Ait Boudaoud (CR), Ait Boudaoud (Commune Rurale), افرا
 Ait Boufoulen, Ait Boufoulen (CR), Ait Boufoulen (Commune Rurale), اداي
-Ait Bouhou
 Ait Boukko
 Ait Bourzouine, Ait Bourzouine (CR), Ait Bourzouine (Commune Rurale), لقصير
 Ait Boutayeb
 Ait Bouyahya  El Haj, Ait Bouyahya  El Haj (CR), Ait Bouyahya  El Haj (Commune Rurale), المنزه
 Ait Brayim
 Ait Cheou
-Ait Chitachene, Aït Chitachèn
-Ait Daoud, Ait Daoud (Commune Urbaine), Ait Daoud (MU), Jebel Aït Daoud, تمليلت
 Ait Daoud Ou Moussa
 Ait Driss Ou El Hachmi
 Ait Echeikh Lefraych
@@ -5910,20 +5834,16 @@ Ait El Khiyyat
 Ait El Khoms
 Ait El Mamoune El Qaran
 Ait El Mane, Ait El Mane (CR), Ait El Mane (Commune Rurale), مركز الجبهة
-Ait Erkha, Ait Erkha (CR), Ait Erkha (Commune Rurale), تيوغزة
 Ait Esselib
 Ait Ezzayyat
 Ait Fares
 Ait Faska, Ait Faska (CR), Ait Faska (Commune Rurale), أيت عادل
 Ait Flalad
 Ait Ghrab
-Ait Haddou, Aït Addou
 Ait Haddou Ou Said
 Ait Haddou Youssef, Ait Haddou Youssef (CR), Ait Haddou Youssef (Commune Rurale), عين تزيتونت
 Ait Hadi, Ait Hadi (CR), Ait Hadi (Commune Rurale), اهديل
 Ait Halili
-Ait Halli
-Ait Hammou, Ait Hammou (CR), Ait Hammou (Commune Rurale), زمران الشرقية
 Ait Hammou Addi
 Ait Hammou Amar
 Ait Hammou Daoud, Aït Hammou Ou Daoud
@@ -5938,26 +5858,20 @@ Ait Himer
 Ait Hkim
 Ait Hkim Ait Yzid, Ait Hkim Ait Yzid (CR), Ait Hkim Ait Yzid (Commune Rurale), مولاي بوسلهام
 Ait Hlili
-Ait Hmidane
 Ait Hsaine
-Ait Hsine
 Ait Hsine Ichou
 Ait Iaaza, Ait Iaaza (Commune Urbaine), Ait Iaaza (MU), سيدي بو السحاب
 Ait Iaazza
-Ait Ichou, Ait Ichou (CR), Ait Ichou (Commune Rurale), جمعة مول البلاد
-Ait Idir
 Ait Iffous
 Ait Igas, Ait Igas (CR), Ait Igas (Commune Rurale), احمر  لكلالشة
 Ait Ikhlef
 Ait Ikhler
 Ait Ikkem
-Ait Ikkou, Ait Ikkou (CR), Ait Ikkou (Commune Rurale), الغوالم
 Ait Ilougane
 Ait Imeloul, Aït Imellol
 Ait Imour, Ait Imour (CR), Ait Imour (Commune Rurale), اكفاي
 Ait Ishaq, Ait Ishaq (CR), Ait Ishaq (Commune Rurale), مريرت (البلدية)
 Ait Issafen, Ait Issafen (CR), Ait Issafen (Commune Rurale), تافراوت (البلدية)
-Ait Izdeg, Ait Izdeg (CR), Ait Izdeg (Commune Rurale), أيت عياش
 Ait Jbel Eddoum
 Ait Joujguel
 Ait Kamra, Ait Kamra (CR), Ait Kamra (Commune Rurale), أيت قمرة
@@ -5966,7 +5880,6 @@ Ait Khattab
 Ait Khlifa
 Ait Krat
 Ait Laaroussi
-Ait Lahsen, Aït Lahcen, Aït Lahcene
 Ait Lahsen Ichou
 Ait Lahsen ou Alla
 Ait Louatmoune, Ait Iouatmoune
@@ -5977,34 +5890,26 @@ Ait Mait, Ait Mait (CR), Ait Mait (Commune Rurale), عين الزهرة
 Ait Majden, Ait Majden (CR), Ait Majden (Commune Rurale), تسقي
 Ait Majourt
 Ait Makhchoune Louta
-Ait Makhlouf, Ait Makhlouf (CR), Ait Makhlouf (Commune Rurale), أيت ايكاس
-Ait Malek, Ait Malek (CR), Ait Malek (Commune Rurale), تسلطانت
 Ait Malla
-Ait Mansour
 Ait Mazigh, Ait Mazigh (CR), Ait Mazigh (Commune Rurale), افورار
-Ait Melloul, Ait Melloul (Commune Urbaine), Ait Melloul (MU), تقي
 Ait Mhamed Moussa
 Ait Mhamed Ou Youssef
 Ait Mhand
 Ait Migguirt
 Ait Migirt, Irhil n' Aït Miguirt
-Ait Milk, Ait Milk (CR), Ait Milk (Commune Rurale), تزي نتكوشت
 Ait Mimoune, Ait Mimoune (CR), Ait Mimoune (Commune Rurale), أيت  ئيكو
 Ait Mimoune Ou Moussa
 Ait Mohamed
 Ait Moka
 Ait Mourghi
-Ait Moussa, Ait Mohand ou Moussa
 Ait Moussa Ou Addi
 Ait Moussa Ou Rahou
-Ait Mzal, Ait Mzal (CR), Ait Mzal (Commune Rurale), بيوكرة (البلدية)
 Ait Naamane, Ait Naamane (CR), Ait Naamane (Commune Rurale), Bled el Hadd, El Add, أيت بورزوين
 Ait Nacer
 Ait Nador
 Ait Omar
 Ait Ou Mlik, Ait Bou Malk, Aït Bou Mlak
 Ait Ou Mnasef
-Ait Ou Mribet, Ait Ou Mridet, Ida Ou Mribet
 Ait Ou Youfene
 Ait Ouaarda, Ait Ouaarda (CR), Ait Ouaarda (Commune Rurale), أيت مزيغ
 Ait Ouabelli, Ait Ouabelli (CR), Ait Ouabelli (Commune Rurale), طاطا (البلدية)
@@ -6013,9 +5918,7 @@ Ait Ouadrim, Ait Ouadrim (CR), Ait Ouadrim (Commune Rurale), أيت مزال
 Ait Ouafqa, Ait Ouafqa (CR), Ait Ouafqa (Commune Rurale), أفلا  اغير
 Ait Ouahmane, Aït ou Ahmane, Dar Cheikh Bouirgane, Dar Cheïkh Bouiargane
 Ait Oualil
-Ait Ouallal, Ait Ouallal (CR), Ait Ouallal (Commune Rurale), أيت بوداود, عين عرمة
 Ait Ouaouzguite
-Ait Ouassif, Ait Ouassif (CR), Ait Ouassif (Commune Rurale), تيدلي
 Ait Ouchchen
 Ait Oued Fal
 Ait Ouglou
@@ -6028,17 +5931,12 @@ Ait Oumdis, Ait Oumdis (CR), Ait Oumdis (Commune Rurale), أيت بلال
 Ait Oumidis
 Ait Oummad
 Ait Ouqabli, Ait Ouqabli (CR), Ait Ouqabli (Commune Rurale), أيت واوردا
-Ait Ouribel, Ait Ouribel (CR), Ait Ouribel (Commune Rurale), بوقشمير
 Ait Ourir, Ait Ourir (Commune Urbaine), Ait Ourir (MU), ثوالت
-Ait Oussoul, Ait Oussoui
-Ait Qassou
 Ait Rahhou
-Ait Rbaa, Ait Rba, Ait Robo, Aït Roboa
 Ait Saadelli, Ait Saadelli (CR), Ait Saadelli (Commune Rurale), أيت اسحاق
 Ait Saghrochen
 Ait Saghrouchen, Ait Saghrouchen (CR), Ait Saghrouchen (Commune Rurale), Aït Serhouchèn, Aït Serhrouchene de Harira, فيفي
 Ait Saghrouchen Imouzzer, Ait Serhouchen D'Imouzzer, Ait Serhouchene D'Immouzer, Ait Serhrouchen D'Imouzzer, Aït Serhrouchene d'Immouzer
-Ait Said, Ait Hamid ou Said, Ait Said (CR), Ait Said (Commune Rurale), Aït Ahmed Ou Saïd, تمنار (البلدية)
 Ait Said Ou Balahcen
 Ait Said Ou Hammou
 Ait Sayyad
@@ -6052,7 +5950,6 @@ Ait Siberne, Ait Siberne (CR), Ait Siberne (Commune Rurale), حودران
 Ait Sidi Daoud, Ait Sidi Daoud (CR), Ait Sidi Daoud (Commune Rurale), أيت فاسكا
 Ait Sidi Lahsen, Aït Sidi Lahsene
 Ait Sidi Mhand Ou Aissa
-Ait Slimane
 Ait Soummer
 Ait Taa
 Ait Taguella, Ait Taguella (CR), Ait Taguella (Commune Rurale), زاوية احنصال
@@ -6063,16 +5960,10 @@ Ait Taleb Aqqa
 Ait Tamlil, Ait Tamlil (CR), Ait Tamlil (Commune Rurale), أيت أو مديس
 Ait Taznacht
 Ait Telti, Aït Tleti
-Ait Tidili
 Ait Timelli
 Ait Yaazem, Ait Yaazem (CR), Ait Yaazem (Commune Rurale), الحمام
-Ait Yadine, Ait Yadine (CR), Ait Yadine (Commune Rurale), Yadinne, المعازيز
-Ait Yahya, Ait Yahya (CR), Ait Yahya (Commune Rurale), Aït Yahia, سيدي علي
 Ait Yahya Ou Youssef
 Ait Youl, Ait Youl (CR), Ait Youl (Commune Rurale), أيت سدرات الجبل السفلى
-Ait Youssef, Ait Yous
-Ait Youssef Ou Ali, Ait Youssef Ou Ali (CR), Ait Youssef Ou Ali (Commune Rurale), Ait Yusef U Ali, أيت يوسف وعلي
-Ait Youssi
 Ait Youssi Amekla, Aït Youssi D'Amekla, Aït Youssi de l'Amekla
 Ait Yzid
 Ait Zaikoum
@@ -6080,7 +5971,6 @@ Ait Zaltene
 Ait Zbayer
 Ait Zelten
 Ait Zeltene, Aït Zeltane
-Ait Zineb, Ait Zineb (CR), Ait Zineb (Commune Rurale), تازناخت (البلدية)
 Aittamlal, Aït Melal, Aït el Tamlel
 Aiyoune Lebouayad
 Aj Jlila
@@ -7728,7 +7618,6 @@ Aouid el Ma
 Aouidat Lhallouf
 Aouikat
 Aouimrat
-Aouina
 Aouina Ikhf Ouakhf, Ikhfouarf
 Aouinat
 Aouinat Adjaj
@@ -7925,6 +7814,7 @@ Aouzizane, Auseïsen
 Aouzou
 Aouzou-n-ouizalgane
 Aouzzai
+Aouïna
 Aouïnet Legsab, Aouinet el Ksob
 Aoyint Bankis
 Aqabba
@@ -11422,7 +11312,7 @@ Azoughar
 Azouguigh N'Labouar
 Azouguigh- N- Oughbar
 Azouguih N-Iferghs
-Azouguirh, Azougigh, Azougirh, Azouguir, Jebel Azouguir
+Azouguîrh, Azougigh, Azougirh, Azouguir, Jebel Azouguir
 Azouguîrh n'Tassârgoût
 Azougza
 Azoui Aissa
@@ -11602,6 +11492,7 @@ Aâmira, Amira
 Aârai
 Aâri Khoula
 Aâri n'Kach
+Aârich
 Aârkab
 Aârour Mou Kzar
 Aç Çafçaf, Ksar
@@ -11619,6 +11510,7 @@ Aïfer
 Aïn Abahine
 Aïn Abariaz
 Aïn Abbara
+Aïn Abbou, Aïn Abhou
 Aïn Abboul
 Aïn Abd el Aala
 Aïn Abdouz
@@ -11641,6 +11533,7 @@ Aïn Alemdi
 Aïn Ali Zireg, Aouinet Ali ez Zireg
 Aïn Alilifa
 Aïn Allal
+Aïn Amar
 Aïn Amelal, Aïn Ammelal
 Aïn Amellal
 Aïn Anouznaï
@@ -11648,12 +11541,15 @@ Aïn Aouant
 Aïn Aoullout, Aïn Aoulloute
 Aïn Arasse
 Aïn Areg
+Aïn Arhbal
+Aïn Arhbel
 Aïn Arhgig
 Aïn Arhlal, Aïn Aghlal
 Aïn Arrach
 Aïn Arrou
 Aïn Assemt
 Aïn Azreg
+Aïn Aïcha, Ain Aicha (CR), Ain Aicha (Commune Rurale), اوطا بوعبان
 Aïn Aït Aïssa
 Aïn Aït Bou Ziane
 Aïn Aït Saïd
@@ -11672,6 +11568,8 @@ Aïn Ben Lgrad, Bel Grad, Belgrade
 Aïn Ben Siouene
 Aïn Beni Ouriach
 Aïn Berki
+Aïn Beïda, Ain Beida (CR), Ain Beida (Commune Rurale), Aïn Bédéa, بني عروس
+Aïn Blal, Ain Blal (CR), Ain Blal (Commune Rurale), زاوية سيدي بنحمدون
 Aïn Bokra
 Aïn Bou Arfa
 Aïn Bou Barra
@@ -11706,6 +11604,7 @@ Aïn Boubaker
 Aïn Bougaïs
 Aïn Bouiret
 Aïn Bouiret el Kassem, Aïn Bouïrat Belkacem
+Aïn Bourbah
 Aïn Bourhamt
 Aïn Bourhanine
 Aïn Bouzekor
@@ -11714,12 +11613,15 @@ Aïn Chahda
 Aïn Charnik
 Aïn Chaïr
 Aïn Chech, Aïn Chench, Aïn Cheuch
+Aïn Cheikh
 Aïn Chellala, Chellala
 Aïn Chereb Ou Hereb, Aïn Chereb Ou Hareb
 Aïn Chergvi
 Aïn Chibani
+Aïn Chkef, Ain Chkef (CR), Ain Chkef (Commune Rurale), Aïn Chhief, Aïn-Chkeff, سيدي داود
 Aïn Chreb Ou Hreb
 Aïn Chrob Ou Herob
+Aïn Daïdia, Aïn Daïdïu
 Aïn Dchira
 Aïn Dehaguena
 Aïn Dehel
@@ -11727,6 +11629,7 @@ Aïn Delet Taourarht, Aïn Delet Taouragh, Aïn Delet Taourarh
 Aïn Delouine
 Aïn Derraze
 Aïn Dfilet
+Aïn Dib
 Aïn Diba
 Aïn Dob
 Aïn Dofeïla
@@ -11763,13 +11666,19 @@ Aïn Guetita, Aïn Guettia
 Aïn Guettara
 Aïn Guira
 Aïn Habbet
+Aïn Hachlaf
 Aïn Hajel, Aïn Hadjel
+Aïn Hallouf
+Aïn Hamma, Aïn Hamme
 Aïn Hammam
 Aïn Hammane
+Aïn Hammou
 Aïn Hamou
 Aïn Hamouch
 Aïn Hamouidiat
+Aïn Hamra
 Aïn Haroun
+Aïn Harrouda, Ain Harrouda (Commune Urbaine), Ain Harrouda (MU), مركز المكانسة
 Aïn Hassassa
 Aïn Hattiba
 Aïn Hechchald
@@ -11790,6 +11699,8 @@ Aïn Isker, Hassi Isker
 Aïn Issifit
 Aïn Izra
 Aïn Jaffer
+Aïn Jdid
+Aïn Jdida
 Aïn Jebala
 Aïn Jenane Ben Et-Taleb
 Aïn Jiouia
@@ -11799,7 +11710,9 @@ Aïn Jribia, Aïn Jirbia, Aïn Jribîh
 Aïn Karouba
 Aïn Kayoula, Aïn Karoula
 Aïn Kbar
+Aïn Kbira, Aïn Koura
 Aïn Keraïne
+Aïn Kerma
 Aïn Khoura
 Aïn Kikeb
 Aïn Kleb
@@ -11812,7 +11725,10 @@ Aïn Laaji
 Aïn Lafraoua
 Aïn Lamraïra
 Aïn Lebzek, Aïn Lebzeq
+Aïn Legdah, Ain Legdah (CR), Ain Legdah (Commune Rurale), رأس الواد
+Aïn Lekbira
 Aïn Lengeras, Aïn Lengera
+Aïn Leuh, Ain Leuh (CR), Ain Leuh (Commune Rurale), Oued Aïn Leuh, مركز قاسيطة
 Aïn Liraa
 Aïn Loksilat, Aïn Loksilate
 Aïn Loum, Aïne Loume
@@ -11821,6 +11737,7 @@ Aïn Majit
 Aïn Mazouza
 Aïn Melias, Aïn Millias
 Aïn Melka
+Aïn Mellah
 Aïn Mellal
 Aïn Mellali, Aïn Melali
 Aïn Mellouk
@@ -11846,6 +11763,8 @@ Aïn Moullouless
 Aïn Mouloudane
 Aïn Mouna
 Aïn Mournouj
+Aïn Moussa
+Aïn Mâarouf
 Aïn Nasnissa
 Aïn Norengas
 Aïn Nouba
@@ -11884,6 +11803,7 @@ Aïn Regrega
 Aïn Reguiouine
 Aïn Rhouzlane, Aïn Rhouzelane
 Aïn Rja
+Aïn Safsaf, Aïn Sefsafa
 Aïn Salrhoua, Aïn Salghoua
 Aïn Saïerni
 Aïn Seba
@@ -11900,6 +11820,8 @@ Aïn Serjlat, Aïne Serdjlat
 Aïn Serrag
 Aïn Settella
 Aïn Seïmane
+Aïn Sfa, Ain Sfa (CR), Ain Sfa (Commune Rurale), Aïn es Sfa, سيدي لحسن
+Aïn Sferjla
 Aïn Sfisfane
 Aïn Sibara
 Aïn Sidi Aouidet
@@ -11913,19 +11835,23 @@ Aïn Sidi Jebbar
 Aïn Sidi Kassem
 Aïn Sidi Messaoud
 Aïn Sidi Smaïl
+Aïn Skhouna, Aïn Shrioun, Aïn Skrouna
 Aïn Skmet
 Aïn Skoun, Aïn Skhoun
 Aïn Slougui, Aïn Sloagui
 Aïn Smala
+Aïn Smene
 Aïn Souira
 Aïn Srahna
 Aïn Tabahinout
 Aïn Tabalaït
 Aïn Tabarh
+Aïn Tabouda
 Aïn Taboulrhirt
 Aïn Tabout, Aïn Tagout
 Aïn Tafehna
 Aïn Taferdoul
+Aïn Tafraout, Aïn Tafraoust
 Aïn Tafrent
 Aïn Tafsest
 Aïn Takabrot, Aïn Takabrat
@@ -11944,6 +11870,7 @@ Aïn Talrhoulat
 Aïn Tamaliout
 Aïn Tamaloukt
 Aïn Tamarsit
+Aïn Tamda
 Aïn Tamelalt
 Aïn Tamendert
 Aïn Tamjest
@@ -11951,6 +11878,7 @@ Aïn Tamkelst
 Aïn Tamousift
 Aïn Tamza
 Aïn Tanezzara, Aïn Tanzara
+Aïn Tanout, Aïn Tanoute
 Aïn Taomar
 Aïn Taoula
 Aïn Taouzert
@@ -11965,8 +11893,10 @@ Aïn Teboudar, 'Ayn Tbouda, Aïn Tebouda
 Aïn Tendrara
 Aïn Termiline
 Aïn Tifourna
+Aïn Tifrit
 Aïn Tifroune
 Aïn Tigrout
+Aïn Tijane
 Aïn Tikoutamine
 Aïn Timguelaouene, Aïn Timguelaouèn
 Aïn Timkiliouine, Aïn Timsilouine
@@ -11974,6 +11904,7 @@ Aïn Timmirih
 Aïn Timoula
 Aïn Timoulilt
 Aïn Timsourda, Aïn Timesourda
+Aïn Tine
 Aïn Tiredouine
 Aïn Tirhmen Iazene
 Aïn Tiririt
@@ -11988,6 +11919,7 @@ Aïn Tizgui
 Aïn Tizi Taïda
 Aïn Tjerrouine
 Aïn Tlatanskirine
+Aïn Tleta
 Aïn Toufnit
 Aïn Toufrit
 Aïn Tounine
@@ -11996,10 +11928,13 @@ Aïn Tournil
 Aïn Tranimt
 Aïn Yala
 Aïn Yazi
+Aïn Zahra
 Aïn Zararia
 Aïn Zebbouj
+Aïn Zebda
 Aïn Zefana
 Aïn Zelfane
+Aïn Zerga
 Aïn Zerhana, Aïn Jrana
 Aïn Zerroug
 Aïn Zgar
@@ -12016,6 +11951,7 @@ Aïn ech Chikh Mohand
 Aïn ech Chouk
 Aïn ed Debabej, Aïn Debabedj, Aïn Debabej
 Aïn ed Defla
+Aïn ed Dib, Aïn ed Diba
 Aïn ed Dik, Aïn ed Dick
 Aïn ed Dis, Aouinet ed Diss
 Aïn ed Dissa
@@ -12031,7 +11967,9 @@ Aïn el Bab Azougarh, Aïn Bou Zouguha
 Aïn el Baraka
 Aïn el Baïda
 Aïn el Betma
+Aïn el Beïda
 Aïn el Botti, Aïn el Bouti
+Aïn el Bouirat
 Aïn el Bouiret
 Aïn el Bridila, Aïn Bridilla
 Aïn el Chera
@@ -12041,7 +11979,12 @@ Aïn el Gueddid, Aïn el Guedaïd, Aïn el Kora
 Aïn el Guelta
 Aïn el Guern, Aïn el Guerne
 Aïn el Guesser
+Aïn el Haj, Aïn el Hadj
+Aïn el Hajar, Aïn el Hadjar
+Aïn el Hajer
 Aïn el Hallouf, Aïn el Ballouf
+Aïn el Hamar, Aïn el Hamir
+Aïn el Hammam
 Aïn el Haouamed, Ain el Hauamed, Aïn Heouamed
 Aïn el Haouara
 Aïn el Hebara, Aïn er Rhebar
@@ -12052,6 +11995,7 @@ Aïn el Itima
 Aïn el Kahla
 Aïn el Karia
 Aïn el Kedid, Aïn el Guedid
+Aïn el Kerma
 Aïn el Kernib
 Aïn el Kettara
 Aïn el Khadri
@@ -12125,10 +12069,13 @@ Aït 'Allah
 Aït 'Amar
 Aït 'Amar Ou 'Ichou
 Aït 'Aziz
+Aït 'Aïcha
 Aït 'Issa Ou Qassou
 Aït 'Otmane
 Aït Aamoun
 Aït Abbes
+Aït Abbou, Ait Abou
+Aït Abdallah, Ait Abdallah (CR), Ait Abdallah (Commune Rurale), ادار
 Aït Abdallah Ou Brahim, Ait Aabdel-La U Brahim, Ait Abdal Lah U Brahim
 Aït Abdellouli, Ait Abd Louli
 Aït Abdelouarit, Aït Abdelouarite
@@ -12139,6 +12086,7 @@ Aït Abid
 Aït Ach-chra
 Aït Affa
 Aït Affrane
+Aït Ahmed
 Aït Ahmed Ou Ali
 Aït Ahmed Ou Aïssa
 Aït Ahmed Ou Slimane
@@ -12148,38 +12096,47 @@ Aït Ahmed ou Raho
 Aït Ahmidane
 Aït Aka
 Aït Akhbar, Arhbar
+Aït Akki
 Aït Al 'Asri
 Aït Al Arbi
 Aït Al Mouloudi
 Aït Al Qallali
+Aït Ali
 Aït Ali Lekbelt
 Aït Ali Ou Ahmed
 Aït Ali Ou Brahim
+Aït Ali Ou Lahsene, Aït Ali Ou Lachene, Aït Ali Ou Lahcen, Aït Ali Ou Lahsen, Aït Ali Ou Lhacen
 Aït Ali Ou Rhanem
 Aït Ali Ou Saïd
+Aït Ali Ou Youssef
 Aït Allah
 Aït Allal Ou Bitit, Ait Ou Allal, Aït Ouallal de Bittit
 Aït Alouane
 Aït Amar
 Aït Amar Ou 'Ali
 Aït Amar Ou Haddou
+Aït Amer, Aït Aameur, Aït Ameur
 Aït Amer Ou Hammi, Aït Ameur, Aït Ameur Ou Hammi
+Aït Ammar, Ait Ammar (CR), Ait Ammar (Commune Rurale), جرادة (البلدية)
 Aït Ammou ou Aïssa
 Aït Amou 'Ali, Aït Hammou Ali
 Aït Amtazouine
 Aït Anini
 Aït Anzel
 Aït Anzig, Ait Anezig
+Aït Arfa
 Aït Arfa dela Moulouya
 Aït Aros
 Aït Asmaïl
 Aït Assen
 Aït Assou
+Aït Atmane, Ait Athmane, Aït Athman, Aït Atman
 Aït Atta
 Aït Atta du Rteb
 Aït Atta du Sahara
 Aït Atta n'Oumalou
 Aït Attab
+Aït Ayach, Ait Ayach (CR), Ait Ayach (Commune Rurale), Ait Ayache, أكوديم
 Aït Azgrouz, Aït Ouzegrouz
 Aït Azilal, Aït Ouzilal
 Aït Aziz, Aït Azziz
@@ -12188,11 +12145,14 @@ Aït Azzouz Ou Ali
 Aït Aïssa
 Aït Aïssa Ben Haddou
 Aït Aïssa Ou Brahim
+Aït Aïssi
 Aït Ba Moussa, Ba Moussa
 Aït Ba Ya'qoub
 Aït Baam
+Aït Baha, Ait Baha (Commune Urbaine), Ait Baha (MU)
 Aït Bahsou
 Aït Bayoud
+Aït Bazza, Ait Bazza (CR), Ait Bazza (Commune Rurale), زينات
 Aït Bel 'Arbi
 Aït Bel Hassane, Aït Bel Hasane
 Aït Bel Lahsene, Ait Bel Lahcene, Ait Belahcen, Ait-Belahsen, Aït Bel Hassen
@@ -12219,9 +12179,11 @@ Aït Ben Said
 Aït Ben Yakoub
 Aït Bihi
 Aït Bkhayr, Ait Bkhar, Aït Bkhaïr
+Aït Blal, Ait Blal (CR), Ait Blal (Commune Rurale), تبانت
 Aït Boho
 Aït Bou Arbi
 Aït Bou Beker, Ait Bubequer
+Aït Bou Bidmane
 Aït Bou Chrif
 Aït Bou Guemane, Ait Bougmane, Aït Bougueman
 Aït Bou Guemmez, Ait Bougmez
@@ -12245,6 +12207,7 @@ Aït Bou Mzil, Ait Bou Mziz
 Aït Bou Mzourh, Ait Bou Mezzourh
 Aït Bou Nouh, Ait-Bou-Nour
 Aït Bou Nsor
+Aït Bou Oulli, Ait Bou Oulli (CR), Ait Bou Oulli (Commune Rurale), أيت عباس
 Aït Bou Rzig
 Aït Bou Ya'qoub
 Aït Bou Yacine, Aït Bou Yassine
@@ -12259,6 +12222,7 @@ Aït Boubker
 Aït Bouchou
 Aït Boufoulene
 Aït Bougrine
+Aït Bouhou
 Aït Boukhris
 Aït Boulmane
 Aït Boumazzough
@@ -12278,8 +12242,10 @@ Aït Cha'ib
 Aït Chao, Aït Chaho
 Aït Chaouch
 Aït Chaïd, Ait Xaid
+Aït Chitachene, Aït Chitachèn
 Aït Chrad Irhsane
 Aït Dahmane, Oulad Dahmane
+Aït Daoud, Ait Daoud (Commune Urbaine), Ait Daoud (MU), Jebel Aït Daoud, تمليلت
 Aït Daoud Ou Ali
 Aït Daoudoi Moussa
 Aït Daouet, Ait Dauetz, Aït Daouetz
@@ -12293,6 +12259,7 @@ Aït El Rherad
 Aït Ennous
 Aït Ennouss
 Aït Erfallene, Aït Erfallèn
+Aït Erkha, Ait Erkha (CR), Ait Erkha (Commune Rurale), تيوغزة
 Aït Fedouli
 Aït Fenzer
 Aït Fers
@@ -12306,6 +12273,7 @@ Aït Gheddou, Aït Rheddou
 Aït Guejel
 Aït Habibi, Aït Hbibi
 Aït Haddidou
+Aït Haddou, Aït Addou
 Aït Haddou 'Ali
 Aït Haddou Ben Lahsene
 Aït Haddou Brahim
@@ -12315,11 +12283,13 @@ Aït Haddou Said
 Aït Haddou Yadine
 Aït Hadious, Ait Haddious
 Aït Hakim
+Aït Halli
 Aït Hamed
 Aït Hamed Ou Saïd
 Aït Hami
 Aït Hamid
 Aït Hammi, Aït Athmane, Aït Seri
+Aït Hammou, Ait Hammou (CR), Ait Hammou (Commune Rurale), زمران الشرقية
 Aït Hammou Ben Lahsene, Ait Hammou Bir Lahsen
 Aït Hammou Ou Aïssa, Aït Ammou Aïssa, Aït Hammou Aïssa, Aït-Hamou-Aïssa
 Aït Hammou Ou Idir
@@ -12338,15 +12308,19 @@ Aït Hemmane
 Aït Henini
 Aït Herbil
 Aït Hkiym
+Aït Hmidane
 Aït Hmidat
 Aït Hmmi
 Aït Hommane
 Aït Hosseïn
 Aït Houdi
+Aït Hsine
 Aït Ichi, Aït Ichchi
 Aït Ichi Abbi
+Aït Ichou, Ait Ichou (CR), Ait Ichou (Commune Rurale), جمعة مول البلاد
 Aït Ichou Ou 'Ali
 Aït Idikel, Aït Idikl
+Aït Idir
 Aït Idir al Oudinat
 Aït Igguès, Ait Iggas, Ait-Iggass, Aït Igges
 Aït Igharrabine
@@ -12355,6 +12329,7 @@ Aït Iguern
 Aït Ihamed
 Aït Ihand, Aït Ihannd
 Aït Ikhelf, Ait Ijel, Ait Ijelf
+Aït Ikkou, Ait Ikkou (CR), Ait Ikkou (Commune Rurale), الغوالم
 Aït Ilemguert, Aït Ilemguerte
 Aït Illoul
 Aït Imguer
@@ -12371,6 +12346,7 @@ Aït Issa
 Aït Issa Ou Qassou
 Aït Issehak, Aït Isehak
 Aït Izdag, Ifer n'Aït Isdeg
+Aït Izdeg, Ait Izdeg (CR), Ait Izdeg (Commune Rurale), أيت عياش
 Aït Izdeg du Haut Guir, Ait Izdeg du Guir
 Aït Izdeg du Haut Ziz
 Aït Izgar
@@ -12394,6 +12370,7 @@ Aït Khezama, Aït Khzama
 Aït Khouya, Ait Khouia
 Aït Kodni
 Aït Laarif
+Aït Lahsen, Aït Lahcen, Aït Lahcene
 Aït Lahsen Ou Saïd
 Aït Lahsene, Ait Lahssene, Ait Lhassene, Aït Lahassene, Aït Lahcen, Aït Lhasene, Lhassene
 Aït Lahsene Ou Saïd
@@ -12409,10 +12386,13 @@ Aït M- Bark
 Aït Ma'amar
 Aït Machchane
 Aït Makhchoun
+Aït Makhlouf, Ait Makhlouf (CR), Ait Makhlouf (Commune Rurale), أيت ايكاس
+Aït Malek, Ait Malek (CR), Ait Malek (Commune Rurale), تسلطانت
 Aït Mallahi
 Aït Mamme
 Aït Manhal
 Aït Mannsour
+Aït Mansour
 Aït Mançour
 Aït Marek
 Aït Marhlif, Ait Marhlie
@@ -12425,6 +12405,7 @@ Aït Megzar
 Aït Mekkor
 Aït Mellal
 Aït Mellouk
+Aït Melloul, Ait Melloul (Commune Urbaine), Ait Melloul (MU), تقي
 Aït Merhouel, Ait Merouol
 Aït Merhzoug
 Aït Merzoug
@@ -12438,6 +12419,7 @@ Aït Mhammad, Aflar Mohammed n'Aït Kadder, Aït Kaddour
 Aït Mhand Ou Lahsene, Aït Mahammed Ou Lahsen, Aït Mhand Ou Lahsen
 Aït Mhand Ou Moussa, Ait Mohannd ou Moussa, Aït Mohand Ou Moussa
 Aït Mia Ou Nouss
+Aït Milk, Ait Milk (CR), Ait Milk (Commune Rurale), تزي نتكوشت
 Aït Millane
 Aït Mimoun
 Aït Mohammad, Aït M'hammed, Aït Mehammed
@@ -12449,6 +12431,7 @@ Aït Morrhad, Ait Moghad, Ait Morhad
 Aït Morrhi, Aït Morghi
 Aït Mou Mou, Mou Mou
 Aït Mouli
+Aït Moussa, Ait Mohand ou Moussa
 Aït Moussa Ou 'Amar
 Aït Moussa Ou Ali
 Aït Moussa Ou Boukko
@@ -12463,6 +12446,7 @@ Aït Moussi
 Aït Moussou ould Thami
 Aït Msana
 Aït Msount
+Aït Mzal, Ait Mzal (CR), Ait Mzal (Commune Rurale), بيوكرة (البلدية)
 Aït Nammast
 Aït Nihaït
 Aït Nikt
@@ -12477,6 +12461,7 @@ Aït Ou Azzouz
 Aït Ou Bellal
 Aït Ou Bial
 Aït Ou Hamdane
+Aït Ou Mribet, Ait Ou Mridet, Ida Ou Mribet
 Aït Ou Nebgui
 Aït Ou Oufene, Ait Ouuouffene
 Aït Ouadouz
@@ -12490,6 +12475,7 @@ Aït Ouakka
 Aït Oualebdi
 Aït Oualiad, Ait Waliad
 Aït Oualirhane
+Aït Ouallal, Ait Ouallal (CR), Ait Ouallal (Commune Rurale), أيت بوداود, عين عرمة
 Aït Ouamelouk
 Aït Ouamoumene, Ouamoumene
 Aït Ouanekida, Ait Ouakhida
@@ -12500,6 +12486,7 @@ Aït Ouaouzguit
 Aït Ouarg
 Aït Ouarherda, Ait Ouarhorda
 Aït Ouarhzene, Aït Ouarhzen
+Aït Ouassif, Ait Ouassif (CR), Ait Ouassif (Commune Rurale), تيدلي
 Aït Ouassou
 Aït Ouazzoun, Ait Ouazzoune, El Ouazzoun, Ouazzou
 Aït Oucharraj
@@ -12529,16 +12516,20 @@ Aït Ounir, Ait Ounia
 Aït Ourhane
 Aït Ourhaïn, Aït Ourhaïne
 Aït Ourhelt, Aït Ourhelet
+Aït Ouribel, Ait Ouribel (CR), Ait Ouribel (Commune Rurale), بوقشمير
 Aït Ourrhene
 Aït Ousekkad
 Aït Oussa, Aït Usa
+Aït Oussoul, Ait Oussoui
 Aït Outferkal
 Aït Ouzarhar
 Aït Ouzour
+Aït Qassou
 Aït Qassou al Hamma
 Aït Qessou
 Aït Raho
 Aït Rahou
+Aït Rbaa, Ait Rba, Ait Robo, Aït Roboa
 Aït Sa'id
 Aït Saad
 Aït Sadelli
@@ -12546,6 +12537,7 @@ Aït Salah
 Aït Sarhane
 Aït Sassi
 Aït Sassoun
+Aït Saïd, Ait Hamid ou Said, Ait Said (CR), Ait Said (Commune Rurale), Aït Ahmed Ou Saïd, تمنار (البلدية)
 Aït Saïd Ou Ali
 Aït Saïd Ou Haddou
 Aït Saïd Ou Lahsene, Aït Saïd Ou Lahsen
@@ -12573,6 +12565,7 @@ Aït Sidi Larbi
 Aït Sidi Lghazi
 Aït Sidi Soumayh
 Aït Slilo, Aït Slillo
+Aït Slimane
 Aït Sma'il
 Aït Smah
 Aït Smaïl
@@ -12606,6 +12599,7 @@ Aït Telouet, Ahl Telouet
 Aït Telt
 Aït Temama
 Aït Teseft
+Aït Tidili
 Aït Tidli
 Aït Tifnout
 Aït Tikirt
@@ -12633,10 +12627,12 @@ Aït Wedjas, Aït Ouajes
 Aït Widir
 Aït Ya'qoub
 Aït Yacoub Ou Aïssa
+Aït Yadine, Ait Yadine (CR), Ait Yadine (Commune Rurale), Yadinne, المعازيز
 Aït Yafelmane
 Aït Yahia Khalifa, Aït Yahya Ou Kallfa
 Aït Yahia Ou Rhanem
 Aït Yahia Ou-'Issa
+Aït Yahya, Ait Yahya (CR), Ait Yahya (Commune Rurale), Aït Yahia, سيدي علي
 Aït Yahya Ou Ali
 Aït Yahya du Kerdous, Ait Yahya N-Kerdouss
 Aït Yahya ou Rhalem
@@ -12651,6 +12647,9 @@ Aït Yazim Deux
 Aït Yazza
 Aït Youb, Ait Iub
 Aït Youb de Tamghilt, Aït Youb de Tamrhilt
+Aït Youssef, Ait Yous
+Aït Youssef Ou Ali, Ait Youssef Ou Ali (CR), Ait Youssef Ou Ali (Commune Rurale), Ait Yusef U Ali, أيت يوسف وعلي
+Aït Youssi
 Aït Youssi d'Enjil
 Aït Youssi du Guigou
 Aït Zarhar, Ait-Zarhrar
@@ -12658,6 +12657,7 @@ Aït Zarho, Ait Zahro
 Aït Zekri
 Aït Ziad
 Aït Zid
+Aït Zineb, Ait Zineb (CR), Ait Zineb (Commune Rurale), تازناخت (البلدية)
 Aït Zitchouene
 Aït Zouguha
 Aït al 'Arbi
@@ -12908,7 +12908,7 @@ Bab Lakraker
 Bab Lamqatla
 Bab Lamrissa, Bab Lamrissa (AR), Bab Lamrissa (Arrondissement), يعقوب المنصور (المقاطعة)
 Bab Laqlal
-Bab Larba, Bab el Arba
+Bab Larbâ, Bab el Arba
 Bab Lassouar, Bab el Souar
 Bab Lbaba
 Bab Lbayda
@@ -13210,7 +13210,6 @@ Baie d'Al Hoceïma, Bahía de Alhucemas, Baie d'Alhucemas
 Baie de Fédala
 Baie de Tafelney, Tefelneh Bay
 Baie de Tétouan, Tetuan Bay
-Baijat
 Bajtit
 Bakhejjou
 Bakhzazine
@@ -13357,6 +13356,7 @@ Baziz
 Bazlamit, Baz Lamit
 Bazza
 Baïed
+Baïjat
 Baïlet
 Bdaou
 Bechchinat
@@ -14085,7 +14085,6 @@ Bir Bauamize
 Bir Bauch
 Bir Bechaad
 Bir Behouil
-Bir Beida
 Bir Bekhouch
 Bir Bel 'Abdi
 Bir Bel 'Awam
@@ -14165,6 +14164,7 @@ Bir Bettane
 Bir Beuharaïs
 Bir Beyyad
 Bir Bezez
+Bir Beïda
 Bir Beïdou
 Bir Bfafi
 Bir Biyyad
@@ -14304,7 +14304,6 @@ Bir Brayk
 Bir Briss
 Bir Byar El Camra, Biar el Gamra
 Bir Bêal
-Bir Calah Ben Jilali
 Bir Calah Bou 'Azza
 Bir Caïd Hammou
 Bir Ch'iba
@@ -14334,7 +14333,6 @@ Bir Chebanat
 Bir Chefa
 Bir Cheheboun
 Bir Chehes
-Bir Cheikh
 Bir Cheikh Abbas
 Bir Cheikh Brahim
 Bir Cheikh El Dahmane
@@ -14347,6 +14345,7 @@ Bir Cherij
 Bir Cherkaour, Bir Cherkana, Bir Cherkaoua
 Bir Cherql
 Bir Cherraqui
+Bir Cheïkh
 Bir Chfahla
 Bir Chiham
 Bir Chikadal
@@ -14434,7 +14433,6 @@ Bir El Adoul
 Bir El Ahamiani
 Bir El Ahmar
 Bir El Aidha
-Bir El Aissaoui
 Bir El Akiri
 Bir El Alami
 Bir El Ali
@@ -14455,6 +14453,7 @@ Bir El Atchane
 Bir El Atef
 Bir El Ayachi
 Bir El Ayad
+Bir El Aïssaoui
 Bir El Bachir Ben Brik
 Bir El Bayne
 Bir El Begar
@@ -14466,10 +14465,10 @@ Bir El Bousra
 Bir El Brheïlat, Bir el Berhilat
 Bir El Brij
 Bir El Cadi
-Bir El Caid
 Bir El Caid Abdesalam
 Bir El Caid Abdessalam
 Bir El Cald
+Bir El Caïd
 Bir El Caïd El Meghari
 Bir El Djenan, Bir el Jenane
 Bir El Faqir Bou Jeman
@@ -15897,6 +15896,7 @@ Bir et Tolba
 Bir et Touil
 Bir Çalah Ben Fedhali
 Bir Çalah Ben Harar
+Bir Çalah Ben Jilali
 Bir Çalah Ben L'arbi
 Bir Çalah Ben Mohamed
 Bir Çaymek
@@ -16784,13 +16784,13 @@ Bled El Boukharya
 Bled El Boulis
 Bled El Boussouniya
 Bled El Cadi
-Bled El Caid
 Bled El Caid Ben Nacer
 Bled El Caid Bouazza
 Bled El Caid Haddou
 Bled El Caid Hajji
 Bled El Caid Mhammed
 Bled El Caid Tebbae
+Bled El Caïd
 Bled El Caïd Jilali
 Bled El Erniba
 Bled El Fayda
@@ -17771,8 +17771,8 @@ Bled Oulad Brahim
 Bled Oulad Brik
 Bled Oulad Chaouia
 Bled Oulad Chatouane
-Bled Oulad Cheikh
 Bled Oulad Cheikh El Haj
+Bled Oulad Cheïkh
 Bled Oulad Chibane Mohamed
 Bled Oulad Dahane
 Bled Oulad Darqaoui
@@ -17927,7 +17927,6 @@ Bled Sagya
 Bled Sahel
 Bled Sahene, Bled Sahane
 Bled Sahmoud
-Bled Said
 Bled Sakniya
 Bled Saleh Zine
 Bled Salem
@@ -17940,6 +17939,7 @@ Bled Sarit
 Bled Sasouira
 Bled Sassi
 Bled Sayeh
+Bled Saïd
 Bled Saïdem
 Bled Sbabha
 Bled Sbania
@@ -17986,9 +17986,9 @@ Bled Sidi Achour
 Bled Sidi Ahmed
 Bled Sidi Ahmed Erregragui
 Bled Sidi Ahmed Laarayech
-Bled Sidi Aissa
 Bled Sidi Ali
 Bled Sidi Ayyad
+Bled Sidi Aïssa
 Bled Sidi Barka Hameri
 Bled Sidi Bel Harech
 Bled Sidi Ben Daoud
@@ -19610,7 +19610,7 @@ Bou Taga
 Bou Taggount
 Bou Taghbakout
 Bou Taghlaline
-Bou Taghsaine
+Bou Taghsaïne
 Bou Tagmart
 Bou Tagoulet
 Bou Tagount
@@ -20153,7 +20153,7 @@ Boujana
 Boujarmou
 Boujartil
 Boujber
-Boujdour, Boujdour (Commune Urbaine), Boujdour (MU), Province de Boujdour, إقليم بوجدور, امليلي, بلدية بوجدور, بوجدور
+Boujdour, Boujdour (Commune Urbaine), Boujdour (MU), Province de Boujdour, إقليم بوجدور, إمليلي, بلدية بوجدور, بوجدور
 Boujella
 Boujemaa, Ben Djema, Ben Jema
 Boujher
@@ -20193,7 +20193,7 @@ Boukida
 Bouklab
 Bouklabat
 Bouknadel, Bouknadel (AC), Bouknadel (Agglomeration Communale), مركز بودربالة
-Boukraa, Boukraa (CR), Boukraa (Commune Rurale), أبوكراع, بو كراع, طرفاية (البلدية)
+Boukraa, Boukraa (CR), Boukraa (Commune Rurale), أبو كراع, أبوكراع, طرفاية (البلدية)
 Boukrae
 Boukricha
 Bouksis
@@ -20214,7 +20214,6 @@ Boulamghayar
 Boulamhaddart
 Boulanouar, Bu Areim
 Boulanouare, Boulanouare (CR), Boulanouare (Commune Rurale), بئر مزوي
-Boulaouane, Boulaouane (CR), Boulaouane (Commune Rurale), Glib Bou Ilaouane, تامدة
 Boulaqmih
 Boulaqnadir
 Boulaqroune
@@ -20612,6 +20611,7 @@ Boydighane
 Boû Oudâdn
 Boû Slîf
 Boû Tilaïnîne
+Boûlaouâne, Boulaouane (CR), Boulaouane (Commune Rurale), Glib Bou Ilaouane, تامدة
 Braber, Beraber
 Brachaoua
 Brachoua, Brachoua (CR), Brachoua (Commune Rurale), خميس سيدي يحيى
@@ -20728,7 +20728,6 @@ Caf Lhaj Chin
 Caid Lakda
 Caid Lamdal
 Caid Rassou
-Cakhra Lhamra, Sokhrat el Hamra
 Calhine
 Canal Bouarg
 Canal De Rocade Zazaba
@@ -21449,7 +21448,6 @@ Cercle d'Ain Orma, Dā'irat 'Ayn 'Urmah, دائرة عين عرمة, عين عر
 Cercle d'Ain Taoujdate, Dā'irat 'Ayn Tāwujţāt, دائرة عين تاوجطات, عين تاوجطات
 Cercle d'Ait Baha, Dā'irat Ayt Bāhā, أيت باها, دائرة أيت باها
 Cercle d'Ait Melloul, Dā'irat Ayt Mallūl, أيت ملول, دائرة أيت ملول
-Cercle d'Ait Ourir, Ait Urir, Dā'irat Ayt Ūrīr, أيت أورير, دائرة أيت أورير
 Cercle d'Akka, Dā'irat Aqqā, أقا, دائرة أقا
 Cercle d'Aklim, Dā'irat Aklīm, أكليم, دائرة أكليم
 Cercle d'Aknoul, Dā'irat Aknūl, أكنول, دائرة أكنول
@@ -21470,6 +21468,7 @@ Cercle d'Azemmour, Dā'irat Azammūr, أزمور, دائرة أزمور
 Cercle d'Azilal, Dā'irat Azīlāl, أزيلال, دائرة أزيلال
 Cercle d'Azrou, Dā'irat Azrū, أزرو, دائرة أزرو
 Cercle d'Aït Daoud, Dā'irat Āyit Dāwūd, آيت داوود, دائرة آيت داوود
+Cercle d'Aït Ourir, Ait Urir, Dā'irat Ayt Ūrīr, أيت أورير, دائرة أيت أورير
 Cercle d'El Aioun, Dā'irat al 'Uyūn, العيون, دائرة العيون
 Cercle d'El Borouj, Dā'irat al Burūj, البروج, دائرة البروج
 Cercle d'El Gantour, Dā'irat al Kantūr, الكنتور, دائرة الكنتور
@@ -21549,7 +21548,7 @@ Cercle de Fès-Banlieue
 Cercle de Gharb-Bni Malek, Dā'irat Gharb Banī Mālik, Gharb-Bni Malek, دائرة غرب بني مالك, غرب بني مالك
 Cercle de Goulimine
 Cercle de Goulmima, Dā'irat Kulmīmah, Dāʾirat Kulmīma, دائرة كلميمة, كلميمة
-Cercle de Guelaia, Dā'irat Qal'īyah, Guelaia, دائرة قلعية, قلعية
+Cercle de Guelaïa, Dā'irat Qal'īyah, Guelaia, دائرة قلعية, قلعية
 Cercle de Guelmim, Dā'irat Kilmīm, دائرة كلميم, كلميم
 Cercle de Gzoula, Dā'irat Kuzūlah, دائرة كزولة, كزولة
 Cercle de Jebala, Dā'irat Jabālah, Jebala, جبالة, دائرة جبالة
@@ -24942,7 +24941,6 @@ Dahsse Bouhout
 Dai Zem
 Daiaat Lgoujguel
 Daidaat
-Daiet El Mekemmel
 Daiet el Khouch
 Dakhla, Dakhla (Commune Urbaine), Dakhla (MU), بئر كندوز
 Dakhla-Oued Ed-Dahab, Oued Ed-Dahab-Lagouira
@@ -26093,6 +26091,7 @@ Daïet El Kelb
 Daïet El Kerfa
 Daïet El Krart
 Daïet El Krouche
+Daïet El Mekemmel
 Daïet Er Rmel
 Daïet Hajaj
 Daïet Jouaoula
@@ -28398,7 +28397,6 @@ Dra' al Mariouh
 Dra' al Mouirat
 Dra'-n-Ourik
 Dra'-n-Ouzeddiou
-Draa, Dra, Ed Dra
 Draa Abbou
 Draa Aguedal
 Draa Akhabbaz
@@ -29480,6 +29478,7 @@ Drougat
 Droui Lqiyyad
 Drrayed
 Drtaat Ezzaouia
+Drâa, Dra, Ed Dra
 Drâa Ben Jebbour, Drâa Ben Jabeur
 Drâa Bou Mkhareg, Draa Bou Mkharrek
 Drâa Bouchta, El Bachta
@@ -29882,7 +29881,6 @@ El Agba
 El Ahrich
 El Ahrouch
 El Ahroucha
-El Ain
 El Ain Cha Khia
 El Ain Yizane
 El Aiouej
@@ -29916,11 +29914,11 @@ El Aouniya, El Aounia
 El Aouta
 El Aouïna
 El Aouïnet Sidi el Ayachi
-El Araar
 El Arab
 El Aradet
 El Aragueb
 El Araoui
+El Araâr
 El Araïda
 El Arba
 El Arch
@@ -29954,6 +29952,7 @@ El Azizat
 El Azzouziyat
 El Aïada
 El Aïdane
+El Aïn
 El Baair
 El Baaja
 El Bab
@@ -29990,11 +29989,11 @@ El Bouba
 El Bouerda
 El Bouir
 El Bouir es Sifer
-El Bouirat
 El Bouiret
 El Bour
 El Bourat
 El Bourene
+El Bouïrat
 El Brhal
 El Brhil
 El Brija
@@ -30104,7 +30103,7 @@ El Guelib
 El Guennar, El Guemar
 El Guens
 El Guessaa
-El Guessia, Dechra el Gsia
+El Guessïa, Dechra el Gsia
 El Guich, Guich-Centre, Tribus Guich
 El Gurira
 El Gâda Betha Ouzougouaj
@@ -30217,9 +30216,9 @@ El Kachla
 El Kaf
 El Kafaa
 El Kaht Sidi Atzmane
-El Kalaa, Aïn Kalaa
 El Kalad
 El Kalan
+El Kalaâ, Aïn Kalaa
 El Kalloufa
 El Kandira El Hamra
 El Karaâne, Santa Crux de Mar Pequena
@@ -30238,11 +30237,11 @@ El Kbour
 El Kebda, Koudiet el Kebada
 El Kef
 El Kef El Ahmar
-El Kela
 El Kelaa
 El Kelaa Des Sraghna, El Kelaa Des Sraghna (Commune Urbaine), El Kelaa Des Sraghna (MU), ابن جرير (البلدية)
 El Kelaat
 El Keliaa
+El Kelâ
 El Kemir, Jebel Kemir
 El Kentra el Haouas
 El Kerch
@@ -30288,7 +30287,7 @@ El Kissaria
 El Kissarit
 El Kmine
 El Koholia, El Kohol
-El Kolea
+El Koléa
 El Kouaia Lahmira
 El Koucha
 El Koudia
@@ -30342,7 +30341,6 @@ El Louza
 El Ma Jdid
 El Ma Lahlou
 El Ma el Bared
-El Maadene
 El Maader
 El Maarif
 El Maatch
@@ -30377,6 +30375,7 @@ El Mars
 El Massiya
 El Mat ben El Kebir
 El Mattene
+El Maâdene
 El Maâjiba
 El Maâleb
 El Maârad, Al Ma'rad
@@ -31674,7 +31673,7 @@ Feddane Tayeb
 Feddane Tgurguiya
 Feddane Thami
 Feddane Touama
-Feddane Touil
+Feddane Tôuil
 Feddane Yabou
 Feddane Yahya
 Feddane Zbib
@@ -32077,7 +32076,6 @@ Ga'det Sahb Lihoudi
 Ga'det Sahbir Hamdoun
 Gaabat Moulanghour
 Gaaboub Slougui
-Gaada
 Gaada Jenabia
 Gaada Oulad Azzouz
 Gaada el Gâaboub
@@ -32143,7 +32141,6 @@ Gaaydat Habbab
 Gada Dehira
 Gada Dial Afra
 Gada Ghayna, Gada Rhina
-Gada el Hamra
 Gada el Karabila
 Gada el Leham
 Gadat Bou Irhardaïene
@@ -32200,7 +32197,7 @@ Galb Labyad
 Galb Labyed
 Galb Lahmer, Guelb el Ahmar
 Galb Lahwiri
-Galb Lazib, Guelb el Azib, La'zib
+Galb Lazib, Guelb el 'Azîb, La'zib
 Galb Lazrag, Guelb el Azreg
 Galb Mimoun, Guelb Mimoun
 Galb Mohamed ou S'id, Guelb Mohammed Ou Saïd
@@ -32365,6 +32362,7 @@ Gayyoun, Gaïoun
 Gaz Ltama
 Gazboura, El Biar
 Gaâ el Mezouerd
+Gaâda
 Gaât Foum Yeraïfia, Tirifis
 Gaât el Mhaïrsia, Gaoute Lemhaïrsia
 Gaïdet Hal
@@ -33232,6 +33230,7 @@ Gzirq
 Gzoula, Cudia Guezula, Hafa Guezou, Hafa Guezoula
 Gâabarh
 Gâda Sour
+Gâda el Hamra
 Gâlb es Soûk
 Gâret Lemjeïbir
 Géant Aswaq Assalam
@@ -35396,9 +35395,9 @@ Ida Ou Bouzia
 Ida Ou Bouziya
 Ida Ou Drif
 Ida Ou Finis, Ida Ou Finis Tiout, Ida Oufiniss
-Ida Ou Gailal, Ida Ou Gailal (CR), Ida Ou Gailal (Commune Rurale), الفيض
 Ida Ou Garane
 Ida Ou Garrane
+Ida Ou Gaïlal, Ida Ou Gailal (CR), Ida Ou Gailal (Commune Rurale), الفيض
 Ida Ou Gdel
 Ida Ou Gougmar, Ida Ou Gougmar (CR), Ida Ou Gougmar (Commune Rurale), اربعاء أيت أحمد
 Ida Ou Goummad
@@ -36485,7 +36484,7 @@ Ighzer Oukhenzir
 Ighzer Oulmou
 Ighzer Oum Ichnad
 Ighzer Oumalah
-Ighzer Oumassine, Irhzer Oumassîne
+Ighzer Oumassîne, Irhzer Oumassîne
 Ighzer Oumathould
 Ighzer Oumattine
 Ighzer Oumedyaz
@@ -37372,7 +37371,7 @@ Imlalene, Imelalene, Imellalèn
 Imlas
 Imlil, Imlil (CR), Imlil (Commune Rurale), انزو
 Imlil Sfir
-Imlili, Imlili (CR), Imlili (Commune Rurale), امليلي, بلدية إمليلي, مركز أولوز
+Imlili, Imlili (CR), Imlili (Commune Rurale), إمليلي, بلدية إمليلي, مركز أولوز
 Imliylne
 Imlougguiy
 Imlwane
@@ -39062,8 +39061,8 @@ Jbel Bou Ajjiouene, Bou Ajioum
 Jbel Bou Akikene
 Jbel Bou Ali, Jebel Bou Adli
 Jbel Bou Amer, Jbel Bou Amar
-Jbel Bou Araar, El Karouba, El Krarouba, Jebel Bou Araar
 Jbel Bou Arab, Djebel Bou Arrab, Jebel Bou Arab
+Jbel Bou Arâar, El Karouba, El Krarouba, Jebel Bou Araar
 Jbel Bou Auarzaz
 Jbel Bou Azzer
 Jbel Bou Berraq
@@ -42025,7 +42024,7 @@ Jebel Khiyat
 Jebel Khmes, El Jbel Lakraa, Jebel Lechchab, Yebel Lachheb
 Jebel Khoumassi
 Jebel Kirdidane
-Jebel Kissane, Djebel Kisane, Kissane Jbel, Mount Kissane
+Jebel Kissâne, Djebel Kisane, Kissane Jbel, Mount Kissane
 Jebel Kitna Ali Mejjouch
 Jebel Kouaïs
 Jebel Kouiene, Djebel Kouiyne, Jebel Kouine, Kouine
@@ -47606,7 +47605,7 @@ Koudyet El Attar
 Koudyet El Ayachi
 Koudyet El Bachir
 Koudyet El Baroud
-Koudyet El Beida
+Koudyet El Beïda
 Koudyet El Bir
 Koudyet El Bouïdi
 Koudyet El Bser
@@ -48882,10 +48881,10 @@ Koudyet el Adiret
 Koudyet el Arach
 Koudyet el Araïk, Koudiet el Araïk
 Koudyet el Arneb, Koudiet el Arneb
-Koudyet el Beida
 Koudyet el Beira
 Koudyet el Bellarei
 Koudyet el Berrya
+Koudyet el Beïda
 Koudyet el Bradat
 Koudyet el Grerna
 Koudyet el Halfa
@@ -49061,7 +49060,6 @@ La'yayssa
 La'youn
 La'zib Lwa'ar
 Laaarayef
-Laababsa
 Laabada
 Laabada Sidi Yaagoub
 Laabadla
@@ -49984,6 +49982,7 @@ Layayda, Layayda (AR), Layayda (Arrondissement), حصين (المقاطعة)
 Laydat Laayat
 Layelmam
 Lazet
+Laâbabsa
 Laâchar
 Laâssaïba
 Laâtari
@@ -54142,7 +54141,6 @@ Nagga, Nagga (CR), Nagga (Commune Rurale), لعمامرة
 Naguer Lahmar
 Nah Lhallouf
 Naima, Naima (Commune Urbaine), Naima (MU), العاطف
-Nairat, En Naiate, En Naïret, Nairate
 Nairat Oulad Slimane
 Najda
 Nakhia
@@ -54167,6 +54165,7 @@ Nauider
 Nayt Hssayne. 'Ayn
 Naâasa
 Naïmat, Naïmate
+Naïrat, En Naiate, En Naïret, Nairate
 Nbak
 Nbayeg
 Nbayet
@@ -54504,7 +54503,7 @@ Ouartilou
 Ouartou Abdoul
 Ouartou Massaoud
 Ouartou n-Jdid
-Ouarzazate, Iqlīm Wazārzāt, Ouarzazate (Commune Urbaine), Ouarzazate (MU), Ouarzazate Province, Province de Ouarzazate, Provincia de Uarzazat, إقليم ورززات, قلعة مكونة (البلدية)
+Ouarzazate, Iqlīm Wazārzāt, Ouarzazate (Commune Urbaine), Ouarzazate (MU), Ouarzazate Province, Province de Ouarzazate, Provincia de Uarzazat, إقليم ورزازات, قلعة مكونة (البلدية)
 Ouarzaïne
 Ouasba
 Ouasekam. Ardar, Adrar Ouasekam, Ouaskal
@@ -54558,7 +54557,7 @@ Oudey Balla'bane, Seheb el Bor
 Oudey Mahjouba, Ouday Mahjouba
 Oudeï Khreïbichat
 Oudeï Majouba
-Oudeï Zazaa, Oued Zaza
+Oudeï Zâzâa, Oued Zaza
 Oudeïat Erbebiene, Udeiat Erbeibein, Udeiat Erbeiebien
 Oudeïat Lekhnem, Udeiat Legnem
 Oudeïat Soukane
@@ -54874,7 +54873,7 @@ Oued Amde
 Oued Amdoucha
 Oued Ameddahe
 Oued Amegguil
-Oued Amekrane, Ighzer Amrekane, Rio Kebir, Río Amcctan, Río Amekran, Uad Amekran
+Oued Amekrâne, Ighzer Amrekane, Rio Kebir, Río Amcctan, Río Amekran, Uad Amekran
 Oued Amellah
 Oued Amentag
 Oued Amer
@@ -55651,7 +55650,6 @@ Oued Bouhrira
 Oued Bouhya, Oued Bouhia, Rio Buiahia, Río Buhia
 Oued Bouich
 Oued Bouichfil
-Oued Bouida
 Oued Bouider
 Oued Bouihayene
 Oued Bouijra
@@ -55726,6 +55724,7 @@ Oued Bouznina
 Oued Bouzraïr
 Oued Bouzzayeq
 Oued Bouâzil
+Oued Bouïda
 Oued Brahim
 Oued Brarha
 Oued Brart, Oued Taxemah
@@ -55845,9 +55844,9 @@ Oued Chouir
 Oued Chouiref
 Oued Chouiret, Chaabat Chouiret
 Oued Chqiq, Oued Sikkouk
-Oued Chraa
 Oued Chraga
 Oued Chrayaa
+Oued Chraâ
 Oued Chrebou Ou Sanned
 Oued Chrechira
 Oued Chri'a
@@ -57072,7 +57071,7 @@ Oued Lbatnia
 Oued Lbegri
 Oued Lbekkaya
 Oued Lbel
-Oued Lbene, Lebano, Oued Lebene, Wādī al-Laban, وادي اللبن
+Oued Lbene, Lebano, Oued Lebene, Wadi al-Laban, وادي اللبن
 Oued Lberja
 Oued Lberraka
 Oued Lberriyat
@@ -57570,9 +57569,9 @@ Oued Melalah, Malaleh River, Oued Deffel, Oued el Melaleh, Rio Malaleh, Río el 
 Oued Meleh Atris
 Oued Melha, Arroyo Mellah, Rio Melhaen, Uad Malha
 Oued Mellaga
-Oued Mellah, Oued Meltah, Ouedal Mellah, Río Mel-lah
 Oued Mellaha
 Oued Melloulou
+Oued Melláh, Oued Meltah, Ouedal Mellah, Río Mel-lah
 Oued Meloul
 Oued Melouïa
 Oued Melwiya
@@ -57601,7 +57600,7 @@ Oued Mesker
 Oued Meski
 Oued Mesred, Oued Mesret
 Oued Messaoud
-Oued Messaouda
+Oued Messâouda
 Oued Mestasa, Río Mestasa
 Oued Mestigmer, Mestigmeur
 Oued Metlili, Oued Metlilili
@@ -58209,7 +58208,6 @@ Oued Sidi Ahmed
 Oued Sidi Ahmed Ben Azzouz
 Oued Sidi Ahmed Dhia
 Oued Sidi Ahmed El Haj
-Oued Sidi Aissa
 Oued Sidi Ali
 Oued Sidi Ali Bou Taleb
 Oued Sidi Ali Oulad
@@ -58223,6 +58221,7 @@ Oued Sidi Amer
 Oued Sidi Assila
 Oued Sidi Auer Boualam
 Oued Sidi Azzouz, Oued Jorf el Ahmar
+Oued Sidi Aïssa
 Oued Sidi Baldoui
 Oued Sidi Battach
 Oued Sidi Bayhria
@@ -58315,10 +58314,10 @@ Oued Sidi Rahat
 Oued Sidi Raho, Oued Sidi Raba
 Oued Sidi Rbia
 Oued Sidi Saad
-Oued Sidi Said
 Oued Sidi Salah, Irhzer Sidi Salâh, Río Sidi Salah
 Oued Sidi Saleh
 Oued Sidi Salem
+Oued Sidi Saïd
 Oued Sidi Sbaa
 Oued Sidi Smahi
 Oued Sidi Taibi
@@ -58385,8 +58384,8 @@ Oued Souaout
 Oued Souarg
 Oued Souaïssel, Oued Souaisset, Uad Suaisel
 Oued Soudane
-Oued Soueir
 Oued Soueyer
+Oued Soueïr
 Oued Souf Kser, Oued Souf el Kser
 Oued Souiah, Oued Souiha
 Oued Souif
@@ -58941,8 +58940,8 @@ Oued Zameribe
 Oued Zamrene, Oued Zemrane
 Oued Zamrine
 Oued Zaoua
-Oued Zaouia, Oued Zawya
 Oued Zaouya
+Oued Zaouïa, Oued Zawya
 Oued Zaq Ettayer
 Oued Zara Lmaleh
 Oued Zarhi
@@ -59232,7 +59231,7 @@ Oued el Khchiba
 Oued el Khechbi, Jachbi Um Agbara
 Oued el Khenndeh
 Oued el Kherichfa
-Oued el Kheroua, Oued Kerrous, Oued Kherouâ, Oued ef Kraroua, Oued el Kerroua, Oued el Kerrouu
+Oued el Kherouâ, Oued Kerrous, Oued Kherouâ, Oued ef Kraroua, Oued el Kerroua, Oued el Kerrouu
 Oued el Khettela
 Oued el Kihel
 Oued el Kissaria
@@ -59330,7 +59329,7 @@ Oued et Telarh, Oued Telarh, Oued at Telagh
 Oued et Tleta, Oued el Tleta, Uad el Teluta
 Oued et Touars
 Oued et Trifat
-Oued ez Zaouia
+Oued ez Zaouïa
 Oued ez Zehar, Río Sabar, Uad Sahar, Wadi Ouader, Wadi Sahar, Wadi Uguer, Wadi Zaher
 Oued ez Zitoun, Oued ez Zitoune, Oued és Zitoun
 Oued ez Zouizel, Wad Zwizel
@@ -59488,7 +59487,6 @@ Oulad Ahmed
 Oulad Ahmed Ben 'Abdallah
 Oulad Ahmed Ben Abdallah, Oulad Ahmed Babdallah
 Oulad Aichi
-Oulad Aissa, Oulad Aissa (CR), Oulad Aissa (Commune Rurale), Ouled Aïssa Ali, ئيكودار منابهة, كنفودة, مولاي عبد الله
 Oulad Al Bacha
 Oulad Al Bachir
 Oulad Al Bahi
@@ -59541,6 +59539,7 @@ Oulad Ayyad, Oulad Ayyad (CR), Oulad Ayyad (Commune Rurale), راس القصر
 Oulad Aziz
 Oulad Azzouz, Oulad Azzouz (CR), Oulad Azzouz (Commune Rurale), أولاد عبدون
 Oulad Aïcha, Ulad Aixa
+Oulad Aïssa, Oulad Aissa (CR), Oulad Aissa (Commune Rurale), Ouled Aïssa Ali, ئيكودار منابهة, كنفودة, مولاي عبد الله
 Oulad Ba Al Fatmi
 Oulad Bahr Kebar
 Oulad Bahri
@@ -59920,7 +59919,6 @@ Oulad Rzeg
 Oulad Sa'd, Oulad Saâd
 Oulad Saada
 Oulad Sahel
-Oulad Said, Oulad Said (CR), Oulad Said (Commune Rurale), Oulad Saïd el Hanoussia, Ouled Saïd el Haroussia, Ulad-Said, أولاد عفيف
 Oulad Said L Oued, Oulad Said L Oued (CR), Oulad Said L Oued (Commune Rurale), أولاد يوسف
 Oulad Salah, Oulad Salah (CR), Oulad Salah (Commune Rurale), دار بوعزة
 Oulad Salah Chaoui
@@ -59929,6 +59927,7 @@ Oulad Salem
 Oulad Salmane, Oulad Salmane (CR), Oulad Salmane (Commune Rurale), نكا
 Oulad Sassi
 Oulad Sayssa
+Oulad Saïd, Oulad Said (CR), Oulad Said (Commune Rurale), Oulad Saïd el Hanoussia, Ouled Saïd el Haroussia, Ulad-Said, أولاد عفيف
 Oulad Saïd Hamadi
 Oulad Saïd Ikhlef
 Oulad Sbaita, Oulad Sbaita (CR), Oulad Sbaita (Commune Rurale), الوليدية
@@ -60004,7 +60003,7 @@ Oulad Yahya, Oulad Yaha, Oulad Yaya, Ouled Yahia
 Oulad Yahya Louta, Oulad Yahya Louta (CR), Oulad Yahya Louta (Commune Rurale), للا ميمونة
 Oulad Yaich, Oulad Yaich (CR), Oulad Yaich (Commune Rurale), أولاد امبارك
 Oulad Yakhlef
-Oulad Yakoub, Oulad Yacoub, Oulad-Yâgoub
+Oulad Yakoub, Oulad Yacoub, Oulad Yagoub
 Oulad Yala, Oulad Diala
 Oulad Yassine
 Oulad Yaïch el Oued
@@ -61002,7 +61001,7 @@ Ras Lasfar, Koudia Moulay Rahhal, Ras el Asfer
 Ras Lbagra
 Ras Lberouag
 Ras Lborj
-Ras Leaqayli, Cabo Acaili, Cap Akaïli, Ras Aakaïli, Ras Akaidi
+Ras Leaqayli, Cabo Acaili, Cap Akaïli, Ras Aakaili, Ras Akaidi
 Ras Lebghal
 Ras Lebtem
 Ras Leghnem
@@ -62075,7 +62074,6 @@ Sahtryine, Sahtriene, Sahtryine (CR), Sahtryine (Commune Rurale), أولاد ع�
 Sahwet Rmel
 Saida
 Saidate, Saidate (CR), Saidate (Commune Rurale), اولاد مومنة
-Saidia, Saidia (Commune Urbaine), Saidia (MU), بركان (البلدية)
 Saiss, Saiss (AR), Saiss (Arrondissement), عين بوعلي
 Saka, Saka (CR), Saka (Commune Rurale), صاكة
 Sakbrat Echelh
@@ -62314,6 +62312,7 @@ Sayloula, Sailoula
 Sayyad Amar
 Saïbeth
 Saïd ou Lahsene
+Saïdia, Saidia (Commune Urbaine), Saidia (MU), بركان (البلدية)
 Saïo
 Sb'Dhayrar
 Sba Gab
@@ -62557,7 +62556,6 @@ Seguia Souiguia
 Seguia Tafellagt
 Seguia Tafoukt
 Seguia Tagafayt
-Seguia Takhiart
 Seguia Talouggart
 Seguia Tamatoust
 Seguia Tamelalt
@@ -63926,6 +63924,7 @@ Séguia Dlaouïa
 Séguia Gafaï Fkarine
 Séguia Laamouchia
 Séguia Taglaout
+Séguia Takhiart
 T'-Abdal'alit
 T-Abou Sa'id
 Ta Boujainet
@@ -63963,12 +63962,10 @@ Taaouat
 Taaouine
 Taaouine Bougazzam
 Taaouine Izloufa
-Taaraart
 Taarat Moughmir
 Taarbat
 Taarboucht
 Taaricht
-Taarit
 Taarit ou Gdal
 Taarouat Antmast
 Taarouret -n-Tamzida
@@ -64912,7 +64909,6 @@ Taht Essayyel
 Tahta
 Tahzam
 Taicha
-Taifa, Taifa (CR), Taifa (Commune Rurale), امسيلة
 Tainaste, Tainaste (CR), Tainaste (Commune Rurale), طايفة
 Tainit n'Daraza
 Tajallet
@@ -65164,7 +65160,6 @@ Tala'lmat
 Tala'lout
 Tala-n-Tanmagalt
 Tala-n-Tihourdine
-Talaa
 Talaa Bel Guera, Talâa Begra
 Talaa Bou Gtira
 Talaa El Meddah
@@ -65628,7 +65623,7 @@ Talat Tagragra
 Talat Tahaffarat
 Talat Talwayat
 Talat Tamaddangant
-Talat Tamallahat, Talat Tamellaht, تلات تملحت
+Talat Tamallahat, Talat Tamellaht, تالات تملحت
 Talat Tameqrant
 Talat Tamesna
 Talat Tamherrert
@@ -66119,6 +66114,7 @@ Talzouggaght, Talzougouart
 Talàt-n-Ouchaou
 Talâ Chouiret
 Talâ Sidi Salah
+Talâa
 Talâa Azziza
 Talâa Ben Abida
 Talâa Ben Messaoud
@@ -67010,7 +67006,7 @@ Taqqat -n- Takarrat
 Taqqat Idoughaz
 Taqqat Lalla Hachchouma
 Taqqat N Iloughmane
-Taqqat N-Icamdal
+Taqqat N-Içamdal
 Taqqat Toungalt
 Taqqat-n-Atfalwine
 Taqqat-n-Idourahas, Takkat n'Idourehas
@@ -67145,7 +67141,6 @@ Tarhbalt, Taghbalt
 Tarhebbart
 Tarheliast, Tarhallest
 Tarherout, Tarherou
-Tarhia, Hassi Taria, Oued Aït Yacoub
 Tarhia Melloul, Taghia Melloul, Tarhia n'el Gantra
 Tarhia du Drâa, Tarhia du Dra
 Tarhia n'Imerhri
@@ -67155,6 +67150,7 @@ Tarhit N' Sedda
 Tarhit N'aymat
 Tarhit Ougueillid
 Tarhit Tidouirine
+Tarhiâ, Hassi Taria, Oued Aït Yacoub
 Tarhlemt
 Tarhmarit
 Tarhnerht
@@ -67867,12 +67863,15 @@ Tazzalout
 Tazzarine
 Tazzit
 Tazzitount
+Taâraârt
+Taârit
 Taçawt
 Taçdaçt
 Taçdert
 Taçka
 Taïda
 Taïda n'Tselit, Jebel Taïda n' Tslit
+Taïfa, Taifa (CR), Taifa (Commune Rurale), امسيلة
 Taïlilout, Aïn Tililout
 Taïssaouit
 Taït
@@ -69200,7 +69199,6 @@ Tirekt
 Tirekt Melloulen
 Tiremmachine
 Tireqae
-Tires
 Tires Belqacem
 Tiressa
 Tiresset
@@ -69278,6 +69276,7 @@ Tirt -n- 'Abbou
 Tirtch
 Tirza
 Tirzouadou
+Tirès
 Tis Grad
 Tis Mamatine
 Tisant Oudadane
@@ -70846,7 +70845,7 @@ Tiziddou
 Tizidit
 Tizigobite
 Tiziguitine
-Tizigzaouine
+Tizigzâouîne
 Tizin Hsain Ou Abdi
 Tizin Mouchenkour
 Tizin-Tzogaret
@@ -71403,7 +71402,7 @@ Ténièt Ali Brahim
 Uad Aguechgal
 Uad Anatam
 Uad Argana
-Uad Atui, Khat Ataoui, Khatt Atouï, Krat-Atoui, Krate Atoui, Oued Atoui, Uad Zevan
+Uad Atui, Khat Ataoui, Khatt Atoui, Krat-Atoui, Krate Atoui, Oued Atoui, Uad Zevan
 Uad Auualin
 Uad Ben Tili, Oued Aïn ben Tili, Oued Ben Tili, Ued Ain Ben Tili
 Uad Briri
@@ -72566,7 +72565,6 @@ Zabbouk
 Zablato
 Zaboul
 Zabzba
-Zaer, Zaraa
 Zaer Kmala
 Zaetra
 Zag, Zag (Commune Urbaine), Zag (MU), أسا (البلدية)
@@ -72673,6 +72671,7 @@ Zaykour
 Zayroune Bou Amer
 Zaytoune Onsar Lekehal
 Zaâma
+Zaër, Zaraa
 Zaïane, Zaian
 Zaïane Oum el Kebour
 Zaïd
@@ -72750,8 +72749,8 @@ Zhana
 Zhanene
 Zhir Essbae
 Zhizmat
-Ziaida, Ziaiada, Ziaida (CR), Ziaida (Commune Rurale), سيدي علال التازي
 Ziata
+Ziaïda, Ziaiada, Ziaida (CR), Ziaida (Commune Rurale), سيدي علال التازي
 Zidaniya
 Zihi
 Zima
@@ -72899,6 +72898,7 @@ lac Akka Moussa
 Àkhard N Irab'a
 Âkhda Chat
 Çabbab. 'Ayn
+Çakhra Lhamra, Sokhrat el Hamra
 Çakhra Menissah
 Çakhra Touila, Sokhra Touila
 Çbi' Mohamed Wigen

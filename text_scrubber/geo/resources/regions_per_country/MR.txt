@@ -205,7 +205,7 @@
 'Ayoûn el Khechba
 'Ayoûn el Kohl, 'Ayoûn el Kohol, Aioun Koheul, Aïoun el Kohol
 'Ayoûn el Kos
-'Ayoûn el Megfa, Gleïtât el Megfa
+'Ayoûn el Megfa, Gleitat-El Megfa
 'Ayoûn en Na'âj
 'Ayoûn es Sarrag
 'Ayoûn et Tâleb Khayyâr, 'Ayoûn Taleb Kheyar, Aïoun Taleb Kheya, Aïoun Taleb Raya, Aïoun Taleb Reyar
@@ -254,7 +254,7 @@
 'Aïn edh Dhânoûnîyât
 'Aïn el 'Agda
 'Aïn el 'Ogda
-'Aïn el Ba'îr, Aïn el Beïr, Gueltet Aïn el Bêïr
+'Aïn el Ba'îr, Ain el Beir, Gueltet Aïn el Bêïr
 'Aïn el Baraka, Aïn el Barké
 'Aïn el Beda, El Beïda, El Béda
 'Aïn el Berbara, 'Aïn el Berbera, Aïoun Berbara, Aïoun Berbéré
@@ -351,9 +351,9 @@
 'Elb Zmouni
 'Elb ech Chaoufa, Elb Choufa, Elb Shoufa
 'Elb el 'Ayoûn
-'Elb el Ahmar, Lathab Ahmar
 'Elb el Areïz, Elb el Hareiz
 'Elb el Azreg
+'Elb el Aḥmar, Lathab Ahmar
 'Elb el Baoul, 'Elb el-Bel, Elb el Ibel
 'Elb el Bil, 'Elb el Ibel
 'Elb el Boûl
@@ -365,7 +365,6 @@
 'Elb el Fîrâne, Aleb el Viran
 'Elb el Guerdâne, 'Elb Gouerida, Elb Gwerida
 'Elb el Hammâmi
-'Elb el Harach, Arach
 'Elb el Hrîthé
 'Elb el Khaïl, Elb Rahïl, Elb el Raïl
 'Elb el Khnez, 'Elb Jekhnez
@@ -377,6 +376,7 @@
 'Elb el Mlehas et Tlâmîdh
 'Elb el Mouch
 'Elb el Mrebiya
+'Elb el Ḥarach, Arach
 'Elb en Nfâkh
 'Elb en Nouar, Elb en Nwar
 'Elb en Nouçç
@@ -483,7 +483,7 @@ Adrar Toussasset, Adrar Toussaset
 Adrerir
 Adreïssiya
 Adâfer el Abiod, Adafer, Adafer L'Abiod
-Adâfer el Akhdar, Adafer Lakhdar
+Adâfer el Akhḍar, Adafer Lakhdar
 Adâr Mellîl
 Aeguiet el Rhadim
 Afdeïdir
@@ -527,9 +527,9 @@ Aghaoudît, Hassi Arhaoudit, Hassi Arhawdit
 Aghaouj
 Aghaoujeft, Arhaoujeft
 Aghaourat Ghayya
-Aghaourat Njeïma, Arhouret Njeïma, Ariert el Nejimet
 Aghaourat Term, Arhaourat
 Aghaouraṭ, Arhaourat, Arhawrat
+Aghaouraṭ Njeïma, Arhouret Njeïma, Ariert el Nejimet
 Aghassal, A'sel
 Aghazent
 Aghchoûrguît, Akhchaourguil
@@ -563,7 +563,7 @@ Aghnaoudert es Sâhli
 Aghneïzîr, Arhnezir
 Aghora
 Aghouafil, Aghouavil
-Aghoueyyit, Aroueyit, Aroueyite, Arouyit, Hasi Agoiyit
+Aghoueyyît, Aroueyit, Aroueyite, Arouyit, Hasi Agoiyit
 Aghoueïfîl, 'Aggui, Agi, Agui
 Aghoueïnît, Presqu'île d'Arrouinit
 Aghouînît
@@ -582,14 +582,14 @@ Agleïmim, Glaïmin, Gleïmin, Gleïmine
 Aglâlîb
 Aglîl
 Agmar
-Agmeïminât, Agmemimat, Agmeminat, Agmeymînât, Ammemeïnat
 Agmeïmîne
+Agmeïmînât, Agmemimat, Agmeminat, Agmeyminat, Ammemeïnat
 Agmimi
 Agmory Sid Ahmed Ouisfat, Agmory Sid Ahmed Ouissfat
 Agmâmîne, Agmamin
 Agneïtîr, Agueneïtir
 Agneïtîrât
-Agnâna
+Agnânâ
 Agoth, Agot
 Agoualilet
 Agoualîl, Ziret Aguelal Sali, Zîret Aguelâl Saheli
@@ -732,7 +732,7 @@ Akouejat
 Akoueïjât el Ḥemâr
 Akoueïjât eṭ Ṭalah
 Akratîl, Akeratil, El Agratil
-Akreraï
+Akrerâï
 Akreïdîl
 Akrîch Boû Zrîbé
 Al Alangol
@@ -762,7 +762,6 @@ Amarâgh el Mabha, Amarârh el Mabha
 Amarârh
 Amarârh Taguilalet
 Amarârh el Beggâria, Amararh El Beggariat
-Amatil
 Amazmaz
 Amaṭlîch, Erg Amatlich
 Ambâi, Ambaye
@@ -809,8 +808,9 @@ Amseili
 Amsâ'id
 Amsâga el Beïḍa
 Amsâga el Kahla, Amsaga
-Amzeili, Amseilli
+Amzeïli, Amseilli
 Amzingui
+Amâṭil
 Amêchtîl
 Anagguîm
 Anagoum
@@ -921,7 +921,7 @@ Arârech
 Arégué, Arégé
 Aréo
 Aska Njeïl
-Assaba, Al 'Aşşābah, Assaba Region, III, La'şābah, Région d'El 'Açâba, Région de l'Assaba, Troisième Région, Wilaya de l'Assaba, Wilāyat La'şābah, Wilāyat al 'Aşşābah, العصابة, ولاية لعصابة
+Assaba, Al 'Aşşābah, Assaba Region, III, La'şābah, Région d'El 'Açâba, Région de l'Assaba, Troisième Région, Wilaya de l'Assaba, Wilāyat La'şābah, Wilāyat al 'Aşşābah, العصابة, ولاية العصابة
 Assabet el Mecdahla, 'Assâbet el Meddahia, 'Açâbet el Meddâḥiya, Assabet el Meddahla
 Assif Msérif
 Atar, Atar Department
@@ -1020,9 +1020,9 @@ Bakh
 Balal
 Bambeïra
 Bambéret
-Bameïré
 Bamouré
 Bamouéré
+Baméïré
 Banahama
 Banc Ahmed, Banc Ahmet
 Banc Central
@@ -1093,7 +1093,7 @@ Baṭḥet Zouérat, Bathet Zouîrât, Bathet Zwirat, Bathète Zouérate
 Baṭḥet ej Jerjîr, Bathet el Jerjir, Bathète el Jerjir
 Baṭḥet el Lebene, Bathet el Leben, Oued Bathet el Lebene, Oued Bathète el Lebene
 Baṭḥet el Ḥemma
-Baṭḥet et Talḥâya
+Baṭḥet eṭ Ṭalḥâya
 Bed Dab'a, Bed' Deba
 Beddeïzoûg, Baddeïzzou
 Bedheré
@@ -1172,7 +1172,6 @@ Bir Boû 'Agba
 Bir Boû Khbeïra, Bir Bou Rbera
 Bir Chib
 Bir Hameïdena
-Bir Igueni, Bir Iguen
 Bir Lefjah, Bir Lefiah, Bir Lefyad
 Bir Lemjed
 Bir Lemouissat, Bir Lemouissate, Bir el Mheissat
@@ -1208,6 +1207,7 @@ Bir en Nar
 Bir en Nas
 Bir et Talhâya, Bouir Talhâya
 Bir eç Çakké, Bir Sakek
+Bir Îgueni, Bir Iguen
 Bir Ṭâleb, Bir Thaleb
 Blaouakh
 Bleghchech, Blegcherch
@@ -1231,11 +1231,9 @@ Bou Adrina
 Bou Amoueïra
 Bou Ar, Boû Arrh
 Bou Chamâḍa
-Bou Derga, Bou Darga, Budarga, Galb Bou Darga, Gelb Bou Derga, Guelb Boû Derga
 Bou Grie
 Bou Guerba
 Bou Habeira, Oued Bou Nabeïra, Oued Boû Habeïra
-Bou Lanouar, Bulanue Grava, Pozo Bu Lanuar
 Bou Naz
 Bou Nbeïbirha
 Bou Nkann, Boû Nkane
@@ -1270,7 +1268,7 @@ Bouir Lemzâzga, Lemzazga
 Bouir Mîrem, Bouir Merem
 Bouir Oulad Aïssa, Boueroulad Issa, Bouir Oulad Eïssa, Bouïr Ould Aïssa
 Bouir Titârekt
-Bouir Tores, Boueret Teris, Boueïr et Teris
+Bouir Torés, Boueret Teris, Boueïr et Teris
 Bouir Tâyâret
 Bouir ed Deïri
 Bouir el Greïré
@@ -1317,8 +1315,9 @@ Boû Bleï'îne, Boblehim, Boblehin, Boubleïn, Boubleïne
 Boû Dboûba, Badbouba, Boû Dhoûba
 Boû Demrha, Bou Dembra
 Boû Dereg
+Boû Derga, Bou Darga, Budarga, Galb Bou Darga, Gelb Bou Derga, Guelb Boû Derga
 Boû Deïra
-Boû Dhib, Bou Dzib, Boû Dîb
+Boû Dhîb, Bou Dzib, Boû Dîb
 Boû Djebeïbâya, Boû el Beïbaï
 Boû Draïgué, Bou Dkheina
 Boû El Mohor, Bou el Mahor, Bu Lemhauer
@@ -1334,7 +1333,6 @@ Boû Gouâchîch, Bou Gouéchich, Boû Gwâchîch
 Boû Gueṭra, Bou Guettera, Bougatara, Boû Guettâra
 Boû Gâdoûm
 Boû Habcha, Boû Amcha
-Boû Hajra, Bou Hajera
 Boû Hleïb
 Boû Hofra, Bou Euffra, Boû Effra
 Boû Hôd, Boû Hawd, Boû Hoûd
@@ -1345,6 +1343,7 @@ Boû Khzâma, Bou Rhzama, Bu Jesama, Mou Khzama
 Boû Kouril
 Boû Koutchi
 Boû Koûti
+Boû Lanouâr, Bulanue Grava, Pozo Bu Lanuar
 Boû Ma'îza, Bou Maize, Boû Ma'iz
 Boû Maissé
 Boû Maya, Bir Maya
@@ -1385,7 +1384,7 @@ Boû Timbiçkît, Boû Timbiskit
 Boû Tleïhîya, Bou Téléhia
 Boû Tlêhîya, Bou Tleïhaya, Boutelahia
 Boû Toueïbé, Bou Touib, Boû Touibé
-Boû Toueïdima
+Boû Toueïdîma
 Boû Toueïriga, Bou Toueriga, Toueïriga
 Boû Toumbaya
 Boû Toumbouskit
@@ -1408,10 +1407,11 @@ Boû el Rhorbâne
 Boû Çbeïtîyé
 Boû Çfayyé, Boû Sfaye
 Boû Ḍerbâne, Boû Zerbane
+Boû Ḥajra, Bou Hajera
 Boû Ṭalḥa, Bu Talha
 Boû Ṭreïfîya, Boû Treïfiat
 Boū Fakroūn, Bou Fakroum
-Brakna, Al Barāknah, Brakna Region, Cinquième Région, Librāknah, Région du Brakna, V, Wilaya du Brakna, Wilāyat Librāknah, Wilāyat al Barāknah, البراكنة, ولاية لبراكنة
+Brakna, Al Barāknah, Brakna Region, Cinquième Région, Librāknah, Région du Brakna, V, Wilaya du Brakna, Wilāyat Librāknah, Wilāyat al Barāknah, البراكنة, ولاية البراكنة
 Brey Kili, Brèye Kili
 Breïzé
 Brouda
@@ -1472,7 +1472,6 @@ Cap el Sass
 Cenguetra
 Ceratât, Seretat
 Chahlât, Chehalat Oumm Zem Zem
-Chami
 Charania, Charanya, Ech Cha'rânîya
 Charit
 Charmech
@@ -1482,7 +1481,7 @@ Chebka, Chepka
 Chebouik
 Ched Ḥallâl, Chedd Allal, Dune de Chedd Allal, Elb Chedalla, Piton de Chedallah
 Chedded
-Chegg Edbagane, Chegg Edbagan, Chieg Edbagane
+Chegg Edbagâne, Chegg Edbagan, Chieg Edbagane
 Chegg Ould el Mourâd, Chegg Ould Mohad
 Chegg el Bagra, Chegg el Begar, Chieg el Begar
 Chegg el Ghaïl
@@ -1564,6 +1563,7 @@ Choûm
 Chreïrîk, Cheirik, Chreirich, Chrerick
 Chrîfîya
 Châm
+Châmi
 Châou
 Châr
 Châtou el Kbîr, Chatou, Chatou el Kebir, Chátu
@@ -1587,10 +1587,10 @@ Dakhla Diouk
 Dakhlat el Atohama
 Dakhlet Agâdîr
 Dakhlet Atkoûr, Dakhlet Melsem, Darhlet Atcour, Dâkhlet Melzem
-Dakhlet Bou Safia, Bou Seïf
 Dakhlet Boû 'Ayâch
 Dakhlet Boû Deïja, Deïjé
 Dakhlet Boû Rethma
+Dakhlet Boû Safia, Bou Seïf
 Dakhlet Dfoy, Dakhlet Dfoï
 Dakhlet Djoûk
 Dakhlet Habaya
@@ -1607,7 +1607,7 @@ Dakhlet Messiel Tikifach, Dakhlet Messyel Tikifach
 Dakhlet Mezab, Dakhlet Merzab
 Dakhlet Mint Lebchir
 Dakhlet Mreïmida, Dakhlat Mreïmida
-Dakhlet Nouadhibou, Be du Lévrier, Cercle de la Baie du Lévrier, Dakhlet Nouadhibou Region, Dākhlat Anuwādhībū, Dākhlat Nuwādhībū, Huitième Région, Nouadibou Region, Number 8, Région de Dakhlet Nouadhibou, VIII, Wilaya de Dakhlet Nouadhibou, Wilāyat Dākhlat Anuwādhībū, Wilāyat Dākhlat Nuwādhībū, داخلة نواذيبو, داخلت نواذيبو, ولاية داخلت انواذيبو
+Dakhlet Nouâdhibou, Be du Lévrier, Cercle de la Baie du Lévrier, Dakhlet Nouadhibou Region, Dākhlat Anuwādhībū, Dākhlat Nuwādhībū, Huitième Région, Nouadibou Region, Number 8, Région de Dakhlet Nouadhibou, VIII, Wilaya de Dakhlet Nouadhibou, Wilāyat Dākhlat Anuwādhībū, Wilāyat Dākhlat Nuwādhībū, داخلة انواذيبو, داخلت انواذيبو, ولاية داخلت انواذيبو
 Dakhlet Sbat
 Dakhlet Sbot
 Dakhlet Sder
@@ -1754,7 +1754,6 @@ Dmoûch, Doumouch, Plateau de Doumoush
 Dmoûch el Guebli, Dmouch Gebli, Dmouch Guebli
 Dmoûch et Telli, Dmouch Telli
 Dofia
-Donga
 Dopi
 Douerat Oulad Daoud
 Doueïouîra
@@ -1777,10 +1776,10 @@ Dreïbinât
 Dreïssât Koumba
 Dria Herrane
 Dria Moulaye
-Dris el Akhdar, Dris el Adrar, Dris el Akdar, Driss el Ahmadar, Driss el Ardar, Driss el Khal
 Drougal
 Drâ' Malichigdane
 Drîs el Abiad, Dris el Abiod, Driss el Abiod
+Drîs el Akhdar, Dris el Adrar, Dris el Akdar, Driss el Ahmadar, Driss el Ardar, Driss el Khal
 Dune de Zeïla
 Dunes d' el Khneïg, Dunes de l'Reneig
 Dunes d'Alafia
@@ -1802,7 +1801,6 @@ Dâya Souid, Daya Soued
 Dâya Touila
 Dâya el Fatha
 Dâya el Haïdésse
-Dâya el Khadra, Daya el Khara
 Dâyet Aguentoûr
 Dâyet Ahel Meïra
 Dâyet Allah
@@ -1823,6 +1821,7 @@ Dèkni
 Définé Mare, Définé
 Dégo
 Dérétioubbal, Dératioupal
+Dônga
 E-n-Deïbîssa, Ideïbissat
 E-n-Dghâmcha, N'daghomcha, Ndaghamcha, Ndrhamcha
 E-n-Doumri, Ndoumi, Ndoumri
@@ -1838,7 +1837,6 @@ E-n-Ouadégui
 E-n-Ouakâne
 E-n-Oueïzene
 E-n-Taoubît
-E-n-Tatrat, Ntatrat
 E-n-Taïcheṭ, N-Teïchat
 E-n-Terekt
 E-n-Terguent
@@ -1851,6 +1849,7 @@ E-n-Toûrfîne el Khaḍra
 E-n-Toûtfine, Ntoutfine
 E-n-Tâjât
 E-n-Tâorta, N-Taorta
+E-n-Tâtrât, Ntatrat
 E-n-Tîchilît, E-n-Tchilit, En Tichlili, In Tchilit, Inchilit
 E-n-Tôtfene, N'Toffen, Ntoffene
 E-n-ouakâne, Noukhan, Noukhane
@@ -1911,7 +1910,7 @@ El 'Amchânîyât, El Amchaniat
 El 'Ameïrîyé, Amerié-Nord, Amerié-Sud, Ameryé-Nord, Ameryé-Sud
 El 'Aoueîna, El 'Aouîna
 El 'Aoueïnât, Aouïnet, El Awaïnatt
-El 'Aouj, Guelb el Aouij, Guelb el Aouj, Guelb el Ayouj, Guelb el Aïouj
+El 'Aouj, Guelb el 'Ayouj, Guelb el Aouij, Guelb el Aouj, Guelb el Aïouj
 El 'Aoujé, El Haouyé, Guelb el Ayouj
 El 'Aouèj, El Aâouej
 El 'Aouîjé, Aouijé, El Awijé
@@ -1923,7 +1922,7 @@ El 'Arîḍa
 El 'Arāl, El 'Arâf
 El 'Atach
 El 'Ateg
-El 'Atgâne, Atgan, El Atgán
+El 'Atgâne, Atgan, El Atgan
 El 'Ayoûn, El Aïoun
 El 'Azeïlât, El Azeliat, El Azelilat, El Azelyât
 El 'Açâba, Asaba, Chaine de l'Assaba, Massif de l'Assaba
@@ -1964,7 +1963,7 @@ El Beriya, El Béria
 El Berié, El Berié Awinet
 El Beyed
 El Beyedh
-El Beyyed
+El Beyyeḍ
 El Beïjoûj
 El Bhar
 El Bher, El Beherr
@@ -2035,22 +2034,22 @@ El Ghoueïrga, Ntichane el Khouerga, Ntichane el Rhouerga
 El Ghâba, El Rhâba
 El Ghâm
 El Ghâïra, 'Aïn Rhaïrene
-El Glat, El Glatt
-El Gleib
+El Gleïb
 El Gleïtât, Legleitat, Legleïlat
 El Gleïtât el 'Ajoûl, Legleïtat Layoul
 El Gleïtât el Bîd, Legleïtat el Abid, Legleïtat el Bird
 El Gleïtât el Khader, Legleïtat el Kader
 El Glâb
+El Glât, El Glatt
 El Gnâter
 El Goss
 El Gouer
 El Goueïssi, El Gouessi
-El Gouirât, Le Gouirat
 El Gourârîya
 El Gouttâï
 El Gouéa, El Goueïa, El Gueïa
 El Gouîra, El Gouîré, El Gwîré
+El Gouîrât, Le Gouirat
 El Grar
 El Graïzima
 El Greïfat
@@ -2085,7 +2084,6 @@ El Harch
 El Hareïchât, Areichat, El Areïchat
 El Hareïssat
 El Hareïza
-El Harra, Oued Harer
 El Hassene el Mourcha, Lhassen el Mourge, Lhassen el Mourje, Lhassene el Mourjé
 El Haçeïra, Hacéra, Hasseïra, Plateau de l'Haceïra
 El Haïner
@@ -2107,9 +2105,9 @@ El Khadra
 El Khamsânîya, Ramsania
 El Khannoûfa, El Rhanoufa, Khanoufa, Rhanoufa
 El Khat, El Rhat, Krat, Rhat
-El Khatt, Depression of Ghat, Dépression du Rhat, Krat
 El Khaïma
 El Khaïza
+El Khaṭṭ, Depression of Ghat, Dépression du Rhat, Krat
 El Khbey, El Khbeï
 El Khcheb
 El Khcheïm
@@ -2149,7 +2147,7 @@ El Kreb
 El Kreïbât, El Kreybât, Le Kreïbat
 El Kreïdat
 El Kseïb
-El Ktatîne, Likatine, Liktatin, Liktatine
+El Ktatïné, Likatine, Liktatin, Liktatine
 El Ktetara
 El Laouhiyât, Laouiyat, Lawiyat
 El Lbeïba, El Baïba
@@ -2158,12 +2156,11 @@ El M'aïrçât
 El Mabrouk Sidi el Hadj
 El Mabroûk, Mebrouk
 El Maharad
-El Maharrât, El Maharat
 El Mahbes
 El Mahesser
 El Mahrad, Mahrad, Marhad
+El Mahârrât, El Maharat
 El Malha
-El Mamoun
 El Maouj
 El Mar'a
 El Marfeg
@@ -2211,8 +2208,8 @@ El Metreyoûgha, Mtréoua, Métréoukha
 El Metreïouagh
 El Metreïougha
 El Meïlene, El Meilen
-El Mghader, El Emkrader, El Merhader, El Mrhâder, Lemknader
 El Mgheïmimât
+El Mghâder, El Emkrader, El Merhader, El Mrhader, Lemknader
 El Mghâra, Lemhara
 El Mhamar
 El Mhaoudât
@@ -2237,7 +2234,7 @@ El Mokhanza
 El Moloussi
 El Moloûçi
 El Motleh
-El Moueïlah, El Maïlah, El Moïlha
+El Moueïlaḩ, El Maïlah, El Moïlha
 El Moueïlha, El Boué Malé, El Mweilah
 El Mouftah
 El Mouher
@@ -2250,7 +2247,7 @@ El Mount
 El Mouyassar
 El Mouzemzem, El Mou Zam Zam, Mou Zam Zam
 El Mouîbgh, El Moubirh
-El Mouîlah, El Moïla, Haci el Moïla
+El Mouîlaḥ, El Moila, Haci el Moïla
 El Mouîlha
 El Mouîlha Ben Rhird, El Mouïlah Ben Rhir
 El Moyassar
@@ -2270,18 +2267,18 @@ El Mséa, Lemséa
 El Msîlé, El Msil Et Tayaret, Korakoro, Msile
 El Mthanāt, Lemtahnat
 El Mzeïhoud
-El Mzeïrif, Lemzerif, Lemzeriff
+El Mzeïrîf, Lemzerif, Lemzeriff
 El Mzérif, M'Zerif
+El Mâmoûn
 El Mâra
 El Mâtebou
 El Mçaïddi
-El Mçeïguilé, El Mseïguîlé, Le-Mçeygîlé, Lemsagle, Lemsaguile, Msahighigullié, Msahiguilié
+El Mçeïguîlé, El Mseïguîlé, Le-Mçeygîlé, Lemsagle, Lemsaguile, Msahighigullié, Msahiguilié
 El Mḥaijât
 El Mḥâguene, El Mhagen, Lemhagen, Lemhaguen, Lemhaguenn
 El Ouadhdhâne
 El Ouarouâriya, El Ouaouaria
 El Ouarâchiyé, El Ouarachi, El Warachi
-El Oudeï
 El Ouergui, El Ourgui
 El Oueïdat Barka
 El Ouissat, El Ouessat, El Ouissa, El Quesat
@@ -2290,7 +2287,8 @@ El Oustanié
 El Outed, El Outeïd
 El Outid, Loutid, Loutit, Loutout
 El Ouâs'a, El Wasa, Lwasar
-El Ouâsta, El Aouasta, El Ouaasta
+El Ouâsṭa, El Aouasta, El Ouaasta
+El Oûdeï
 El Oûsseïkhiyé
 El Rheouya, Khlouia
 El Toûmiyât, Tomiat, Toumiat
@@ -2300,6 +2298,7 @@ El Âteg
 El Ḥaddâda, El Heddada
 El Ḥafeïrât
 El Ḥajra, El Hadjer
+El Ḥarra, Oued Harer
 El Ḥmârât
 ElGassah
 ElGhouiba, ElRhouiba
@@ -2439,7 +2438,6 @@ Faramzaye
 Farkâka
 Fartoutat
 Farâoua, Faroua
-Farès
 Façk, Fask, Galb Fasc
 Feneïj, Félej
 Ferd el Beïda
@@ -2458,7 +2456,7 @@ Flîj Assabaï
 Flîj Te-n-Yoghtât
 Flîj Âtîlet Oumm Jna, Flij Atilet Oumejna
 Flîj Çbat, Flij Sbott, Flîj Sbot
-Fodéré, Hâsî el Békay
+Fodéré, Hâsî El Békay
 Fog
 Foila
 Foilé
@@ -2498,7 +2496,7 @@ Fouguès, Fouges
 Foujj er Rïh
 Foullândi, Guelb Foulandi
 Foum Agmomâj, Agmomaj
-Foum Ajar, Foum Hajar
+Foum Ajâr, Foum Hajar
 Foum Arârech, Passe d'Ararech
 Foum Batiel, Foum Bathil, Foum Bathyl, Passe de Batchyl, Passe de Batchyt, Passe de Bathyl
 Foum Chouer, Foum Chor
@@ -2539,6 +2537,7 @@ Freīoua et Tellîya, Ferawate Telli, Ferewat Tellia, Frêoua Telliya
 Froka
 Frâ' Teïdoûma
 Frékiké
+Fârès
 Fété, Féteh
 Fîlât
 Fôghât, Forhat
@@ -2637,7 +2636,6 @@ Gjeïmilât
 Glat Aderg
 Glat Ould el Mahdi
 Glat Oumm el Habel, Glat Oum l'Habel, Oum el Habel
-Glat el Bil, 'Oglat el Bil, Bir Adila, Glat El Bill, Glat el Bel, Oglat el Bid
 Glaïbat
 Gleib Galennda, Gleïb Galenda
 Gleib Habeb
@@ -2647,7 +2645,6 @@ Gleib Lébe, Gleïb Lébéne
 Gleib Nesra
 Gleib Ould Ness
 Gleib Sédra
-Gleib el Azreg, Gleïb Lazrab, Gleïb el Arzag, Gleïbât el Azrag, Guelb Azreg
 Gleibat Aït Kerim, El Kerim
 Gleibat Mayateg
 Gleïb Aghoueyyît, Gleib Agoiyit, Guelb Aroueyit, Guelb Aroueyite
@@ -2690,6 +2687,7 @@ Gleïb el Ahmar, Gleïbât el Ahmar
 Gleïb el Akhdar, Guelb el Akhar
 Gleïb el Askâf, Galb Ascaf, Guelb el Askâf
 Gleïb el Azrag, Gleïb el Azrak
+Gleïb el Azreg, Gleïb Lazrab, Gleïb el Arzag, Gleïbât el Azrag, Guelb Azreg
 Gleïb el Foûlé
 Gleïb el Ghabra
 Gleïb el Ghzâl
@@ -2767,6 +2765,7 @@ Gloûb el Hadej, Laraguib
 Gloûbet Ouled Bella, Bellé
 Glât Tarharchit, Glat Tarharchite, Tararchit, Tararchite Guelta
 Glât el 'Azeb, Glatt Elazab
+Glât el Bil, 'Oglat el Bil, Bir Adila, Glat El Bill, Glat el Bel, Oglat el Bid
 Glât el Hamariat, Almaria, El Almaria, Glat el Hamarïate
 Glèib el Achach
 Gléib el Manglé
@@ -2783,7 +2782,6 @@ Gota
 Goubenouamer, Goubenwameur
 Goubia
 Gouel Sedou Tabar
-Gouerat
 Gouerïchem
 Goueïba el Beïda, Goueb el Beida, Goueïd el Beïda
 Goueïba el Khadra, Goueid el Khattra, Goueïd el Khadra
@@ -2799,6 +2797,7 @@ Gour Atilé
 Gouraye
 Gourfafié
 Gouriam
+Gouèrât
 Gouére
 Gouîrât Iguerj el Kheḍer
 Goûchna, Gouchara
@@ -3076,8 +3075,8 @@ Guelb el Mouchché
 Guelb el Mouta'eïrm, Mouteharme
 Guelb el Mrâbet
 Guelb el Msâdïr, Guelb Lemsadir, Guelb Lemsaïdir
-Guelb el Ḥadej, Galb el Adej, Galb el Adeje, Gart Lehdech, Gelb el Hdei
-Guelb el Ḥalfa, Bel-le El Alfa, El Alfa, El Halfa
+Guelb el Ḥalfa, Bel - le El 'Alfa, El Alfa, El Halfa
+Guelb el Ḥaḍej, Galb el Adej, Galb el Adeje, Gart Lehdech, Gelb el Hdei
 Guelb el Ḥâlma, Gelb el Halima, Guelb el Halima
 Guelb en Na'ja
 Guelb en Na'âj, Guelb Naail
@@ -3124,12 +3123,10 @@ Gueltet eḍ Dal, Harjet Dal
 Guembet Nouaoudâr, Nwaoudar
 Guemgoum
 Guemgoun
-Guendel
-Guendour, Gindour, Guindour
+Guendoûr, Gindour, Guindour
 Guenenoua, Gleïb Guenenoua
 Gueradi, 'Oglât el Guéradi, Oglat el Géradi
 Guerdâna, Gerdan, Guerdâne
-Guerou, Guerrou
 Guerra
 Guerté Léama
 Guerzimât Nouaghjeddel
@@ -3159,11 +3156,13 @@ Guinar
 Guindouz
 Guiouo, Guiwo
 Guirine Ngâ, Guirinnga
-Guèt Akoum, Gèt Akoum
-Guèt el Kof, Gèt El Kof
+Guèt Akoum, Get Akoum
+Guèt el Kof, Get el Kof
 Guèyloubé, Guèyeloubé
 Guédyèl Vani, Gédyèl Vâni
+Guéndél
 Guénétir
+Guérou, Guerrou
 Guîlemsi, Guilimsi
 Guîlé, Guillé
 Gâ'at Aguemmoûn, Agemmoun, أقمون, قاعة أقمون
@@ -3218,7 +3217,7 @@ Hajar Dokhene
 Hajra Zaghnia, Hajra Zarhnia
 Hajra el Beïda
 Hammad
-Hammeïdoua, Aaglet Hemeidúa, El Meidoua, Hameïdoua, Hamédoua
+Hammeïdoua, Aaglet Hemeidúa, El Meidoua, Hamedoua, Hameïdoua
 Hammâmi
 Hamza
 Hamâda-Blanche
@@ -3268,7 +3267,6 @@ Hasseï el Hamam
 Hasseï el Harth, Hasseï el Hat
 Hasseï el Hejjé
 Hasseï el Joual
-Hasseï el Mokhtâr
 Hasseï el Mâne
 Hasseï el Ouatta
 Hasseï el Rhnem
@@ -3333,7 +3331,6 @@ Hassi Thiba, Hassi Diba, Hassi Thib
 Hassi Tichenat
 Hassi Tifouggag
 Hassi Toueyl, Hassi Toueïl
-Hassi Touil, Et Touil, Et Twil
 Hassi Wel Bey, Hassi Ouel Beï
 Hassi Zouania
 Hassi el 'Aoueïja, El Aouidja, L'Aouidja
@@ -3504,14 +3501,14 @@ Iferdâne Bir ej Jaouâd
 Iferjâne, Iforjane
 Ifernâna Ṭouîla
 Ifezouane, M'Fezaouine, Oued Ifezouane
-Ifizouitene, Ifozouhiten, Ifozzouiten
+Ifizouîtene, Ifozouhiten, Ifozzouiten
 Ifounkârene, Ifounkaren, Ifunkarina, Infunkarine
 Igafane, Igofane
 Igasran
 Ighlouhene, Ighlouhen
 Ignine
 Iguefâne, Igafan
-Iguerjane, Guerjan, Guerjane, Igerjan
+Iguerjâne, Guerjan, Guerjane, Igerjan
 Iguerm
 Iguetti, Oued Iguetti
 Iguilit
@@ -3532,7 +3529,6 @@ Ikoubahane, Ikoubâhan
 Ikoûjlane
 Imandâtene
 Imaoulej, Imoulikane
-Imarchene, Imarchen, Imarchenn
 Imarken, Imarkene
 Imballa
 Imbich
@@ -3543,16 +3539,16 @@ Imedel el Akhdar, Amedel el Akhdar, Amoud L'Akal, Emdel L'Akhal, Emdel l'Arhdar
 Imekri, Mekreri
 Imengliz, Imingliz, Iminglize
 Imert
-Imezgane
+Imezgâne
 Imkebdene, Emquebden, Gara Inkebden, Imkebden, Inkebdene
 Imkhaouassene, Imkhawaseun
 Imoudelâne
 Imoudrane
 Imougâyene
-Imourene, Imouren
 Imourj
+Imourène, Imouren
 Inchebech
-Inchiri, Douzième Région, Inchiri Region, Inshīrī, Région de l'Inchiri, Wilaya de l'Inchiri, Wilāyat Īnshīrī, XII, إنشيري, إينشيري, ولاية إنشيري, ولاية إينشيري
+Inchiri, Douzième Région, Inchiri Region, Inshīrī, Région de l'Inchiri, Wilaya de l'Inchiri, Wilāyat Inshīrī, XII, إنشيري, إينشيري, ولاية إنشيري, ولاية إينشيري
 Inemmoûdene, Inomouden, Inomoudene, Inoummouden, Inoumoden, Inummuden
 Inghimza
 Inhéli
@@ -3567,7 +3563,6 @@ Irad
 Irarchène, Irachen, Irarchen, Irarcher
 Iraïf
 Irenchat
-Iriji, Ericht
 Iriji 'Abdâoua
 Iriji Niaoui
 Irijrij
@@ -3582,6 +3577,7 @@ Irmech el Abioḍ
 Irmech el Akhdar
 Irmechât
 Irîgui, Irrigui
+Irîji, Ericht
 Irîji 'Aoueïnet Kel Embâl, Irîji 'Aoueïnet Kellembar
 Irîji Bambeïra
 Irîji Berouâgh
@@ -3767,7 +3763,6 @@ Khatt el Khleïjat
 Khatt el Khleïjâne, Khatt Lakhlijan, Khatt el Khlijâne
 Khatt en Negued
 Khatt et Tert
-Khatt et Toueirja, Khat Inchiri Saheli, Khat Therthiate, Khatt et Tertiat, Khatt eth Therthiat
 Khatt eth Therthîyât
 Khayar
 Khaïkham
@@ -3779,6 +3774,7 @@ Khaṭṭ Tijerât
 Khaṭṭ ej Jerk, Kattri Jerki
 Khaṭṭ el 'Ogol, Khatt des 'Ogol, Khatt des Ogols
 Khaṭṭ el Ghnem, Khatt el Rhenem, Rhat el Rhenem
+Khaṭṭ et Toueïrja, Khat Inchiri Saheli, Khat Therthiate, Khatt et Tertiat, Khatt eth Therthiat
 Khchaïm Eïrouâr
 Khchoûmet et Mahârrât, El Mahara, El Maharra, Mahara
 Khechem el Bahoua, Rachem Baoua, Rachem Bawa
@@ -3824,8 +3820,8 @@ Khneg el Touil
 Khneg et Tagharchît, Khneg Tarharchit, Khneg Tarharchite, Khneg Torharchit
 Khneg Ḍbâ', Garet el Khneg Sbâa, Gâret Khneg Sba', Khneg Sba', Khneg Sbâa
 Khneîg Ahel Chabboûti
-Khneïfissa
-Khneïfissat, Jeneifisa, Khnefissat, Kneïfissa, Krneïfissa
+Khneïfissâ
+Khneïfissât, Jeneifisa, Khnefissat, Kneïfissa, Krneïfissa
 Khneïg Imeḍḍaṭ, Immedat
 Khneïg Noghmach
 Khneïg Tabellit
@@ -3837,11 +3833,11 @@ Khouda
 Khouergué, Rouergué, Rouezgué, Rwergé
 Khoueïmet Djoueïngui, Khoueïmé
 Khreïzet Goûnguél, El Khreisa, El Khreïssa
-Khtaït el Ghnem, Artet el Rhenem, Khaff el Ghnem
 Khtelt Eïzene
 Khteït
 Khteït Zraf, Rhteït Zraf
 Khérénéla
+Khṭaiṭ el Ghnem, Artet el Rhenem, Khaff el Ghnem
 Khṭaït el Guerdâne
 Kibiddi, Kibidi
 Kider, Kidder
@@ -3888,12 +3884,12 @@ Kreïkret Ghabrât
 Kreïmi
 Kreïmi er Ragg
 Kreïssel el Arbi, Kreïssel Arbi
-Kreïsselat
+Kreïsselât
 Kriâhagadjat
 Krâ Bou Trefia
 Krâ Mint Fdérik
 Krâ Tijtâyat
-Krâ Titarek
+Krâ Tītarék
 Krâ' Alak
 Krâ' Atîl
 Krâ' Bent er Rzagha
@@ -3983,7 +3979,7 @@ Lefreïdi
 Legara
 Legbeia
 Legbeya, Legleïa
-Legdam
+Legdâm
 Leglag
 Legrenatt
 Legsé, Lexé
@@ -4030,7 +4026,6 @@ Letfatar, Letfotar
 Letgana
 Lezgaḥ, Lezga
 Libate
-Libé, Lehé, Liber
 Ligdam
 Ligât, Ligats
 Ligât Mare
@@ -4065,6 +4060,7 @@ Léhélim
 Léourine
 Lézaïla, Lezaliat
 Léïchetayé
+Lîbé, Lehé, Liber
 M'Bagne
 M'Bout
 M'Brakriate, Mbrakhiat
@@ -4074,7 +4070,7 @@ M'hadress, Mhadres
 M-Blèl
 M-Séré
 Ma'cheïch, Mâ Cheich
-Ma'ta Moûlana, Maata Moulana
+Ma'ta Moûlâna, Maata Moulana
 Mabrek
 Mabro
 Mabrouka
@@ -4120,7 +4116,7 @@ Mamouré Mare
 Maméré Mare, Maméré
 Manâté
 Maouf, Mof, معيوف
-Maqteïr
+Maqṭeïr
 Maraguem
 Marais de Toumbos, Lac Toumboa
 Mare Loligouiosi
@@ -4144,7 +4140,7 @@ Masa Fwètyé, Massa Fouètyé
 Massif de Mbalou, Mont Mgallou
 Massif de Sakha
 Massif de Sbaya, Massif de Sbaïa
-Matmata
+Matmâta
 Matouwélé, Matououélé
 Mawelma, Maouelma
 Mayateg, Maiateg
@@ -4162,7 +4158,7 @@ Mbardé
 Mbatar
 Mbed
 Mbegt Rama
-Mberag, Nborog
+Mberâg, Nborog
 Mbeïdeï'a
 Mbeïdi Ahel Amar Tâleb, Lembeïdir el Amar Taleb
 Mbeïdî'et Boû Nâga
@@ -4290,9 +4286,9 @@ Mjeibîr, Dakhlet Mjebir
 Mjeïḥîda, Meyeihida, Mjéhida
 Mjihil, Mtihil
 Mjébir, Mijeber
-Mkhaizîne, Mkhayziné
 Mkhaïzene, Mrayzin, Mraïzim, Mraïzin, Mraïzine
 Mkhaïzinat
+Mkhaïziné, Mkhayziné
 Mkheiriba, Khériba, Mkhériba
 Mkheizîne
 Mkheïzya, Mkheïzia
@@ -4385,7 +4381,7 @@ Moïli, Moeïli, Oued Moéli
 Mrambé
 Mraïb Sett
 Mraïfig, Mrayfeg
-Mraïhim
+Mraïhîm
 Mraïsset
 Mrezirhat
 Mreïchba
@@ -4456,7 +4452,6 @@ Nbez
 Nbeïka
 Nbeïket Bahhâdi, Nbeïket Bahadi, Nbeïket Boaïdé
 Nbeïket Bekkâr, Nebket Bakar
-Nbeïket Dlîm, Nbkeïket Dlîm
 Nbeïket Ikîka
 Nbeïket Jouâdé, Mbeïket Joadi, Nbeiket Joadé, Nbeyket Jwâdi, Nbeïket Jouâdi
 Nbeïket Naz
@@ -4469,6 +4464,7 @@ Nbeïket el Ahouâch, Nbeïket el Ouâhch
 Nbeïket el Barké
 Nbeïket el Habech, Nbeïkât Lehbech
 Nbeïket en Nouçç, Nbeïk Naïz
+Nbeïket Ḍlîm, Nbkeïket Dlîm
 Nbeïkât Diâb, Nbeïkat Dziab
 Nbeïkât Ijoumer, Nbeikat Ijouma, Nbeiket Ljoumer
 Nbeïkât Ould el Fâtmi, Nbeykât Ould el Fatmi
@@ -4493,7 +4489,7 @@ Nderbéguéhé
 Nderbéguéhé Mbeïda
 Ndermoûz el Abiad
 Ndermoûz el Akhdar, Ndramiz el Khader
-Ndernayé, Derenajé
+Ndernâyé, Derenajé
 Ndersa
 Ndeïguenni
 Ndeïrichâne, Ndéricham
@@ -4553,7 +4549,6 @@ Niemelane, Nelimane
 Niemilane
 Nieze, Niez
 Niguédim
-Nijerâne, Niéjirane
 Niomouli
 Niordé
 Niourzig
@@ -4584,10 +4579,9 @@ Nouadibou, E-n-Ouadibou
 Nouagheïrît
 Nouagrot
 Nouaguilmich
-Nouakchott Nord, Anuwākshūţ ash Shamālīyah, Nouakchott, Nuwākshūţ ash Shamālīyah, Wilaya de Nouakchott, Wilaya de Nouakchott Nord, Wilāyat Anuwākshūţ ash Shamālīyah, نواكشوط الشمالية, ولاية انواكشوط الشمالية
-Nouakchott Ouest, Anuwākshūţ al Gharbīyah, Nouakchott, Nuwākshūţ, Nuwākshūţ al Gharbīyah, Wilaya de Nouakchott, Wilaya de Nouakchott Ouest, Wilāyat Anuwākshūţ al Gharbīyah, نواكشوط الغربية, ولاية انواكشوط الغربية, ولاية نواكشوط
+Nouakchott Nord, Anuwākshūţ ash Shamālīyah, Nouakchott, Nuwākshūţ ash Shamālīyah, Wilaya de Nouakchott, Wilaya de Nouakchott Nord, Wilāyat Anuwākshūţ ash Shamālīyah, انواكشوط الشمالية, ولاية انواكشوط الشمالية
+Nouakchott Ouest, Anuwākshūţ al Gharbīyah, Nouakchott, Nuwākshūţ, Nuwākshūţ al Gharbīyah, Wilaya de Nouakchott, Wilaya de Nouakchott Ouest, Wilāyat Anuwākshūţ al Gharbīyah, انواكشوط الغربية, ولاية انواكشوط, ولاية انواكشوط الغربية
 Nouakchott Sud, Anuwākshūţ al Janūbīyah, Nouakchott, Nuwākshūţ al Janūbīyah, Wilaya de Nouakchott, Wilaya de Nouakchott Sud, Wilāyat Anuwākshūţ al Janūbīyah, انواكشوط الجنوبية, ولاية انواكشوط الجنوبية
-Nouakil
 Noual, Bou Nwara, Nwal
 Nouallig
 Noualélâne
@@ -4609,10 +4603,11 @@ Nouâckoût, Nouasko, Nwasko
 Nouâgoûr, Nouaggour
 Nouâjilâl
 Nouâkech
+Nouâkil
 Nouâmleïn, Nouamelin, Nouameline
 Nouâr
 Nouâssâr, Nouasser
-Nouâtil
+Nouâtîl
 Noûdâch, Noudache
 Nrhaïl
 Nsafenni, Safenaï
@@ -4637,6 +4632,7 @@ Ntâkât, N'Takot, Taka
 Nwiychérat, Nouiychérat, Ouisserat
 Néga, Mare de Néga
 Néhame, Na'âm
+Nîjerâne, Niéjirane
 Obech
 Odé
 Ogla el Fras el Rjem
@@ -4652,7 +4648,7 @@ Oglât Boït, Boït
 Ogueilet en Nmâdi, Aguelt Nemadi
 Oua Oua, Oua oua de Béziab, Wa Wa
 Oua Oua Cghîr, Oua Oua Srhîr
-Ouad Naga, Wādī an-Nāqa, واد الناقة, وادي الناقة
+Ouad Naga, Wadi an-Nāqa, واد الناقة, وادي الناقة
 Ouadane
 Ouadou, Wadou
 Ouakré, Oukré
@@ -4672,7 +4668,6 @@ Ouazèné
 Ouaïe Sakkoum
 Ouaïra
 Ouber Aïdiat
-Oudeiat Bou Zian, Oûdeyyât Boû Ziane
 Oudeiat El Kiam, Oûdeyyât el Khiam
 Oudeiat Jédiane, Oudeiate Jidian, Oudian Tijidian, Oûdiâne Tijidiane
 Oudeiat Zeraib, Oûdeyyât Zeraïb
@@ -4680,6 +4675,7 @@ Oudene el Fras, Oudhen Lefrass
 Oudeï Hadeï
 Oudeï Nouçç, Oudeï Nous, Oûdeï Nouss
 Oudeïat, Oûdeyyât
+Oudeïat Bou Zian, Oûdeyyât Boû Ziane
 Oudian Karroul, Oûdiâne Karroul
 Oued 'Aggui
 Oued 'Aoueïnât el Rouassi, Wed Aweinat el Rwasi
@@ -4823,7 +4819,7 @@ Oued Hasseï Sidi Ahmed, Oued Hasseï Sidi
 Oued Haïra, Harr Marigot, Marigot de Harre
 Oued Houmassine, Oued Houmassin
 Oued I-n-Tilimît
-Oued Ifenouane, Oued Ifènouar
+Oued Ifenouane, Oued Ifenouar
 Oued Igafane
 Oued Igerjaten
 Oued Iguerjâne
@@ -4953,7 +4949,6 @@ Oued Tembâra
 Oued Tenafodh
 Oued Tenakia
 Oued Tenebroûret, Oued Nlalfa, Oued Tenbrourt, Oued Tenebrourete, Oued Tenebrourette, Oued Tenetrourt, Tenebrouret, Tennebrourt, Uad Tenebrut
-Oued Tengharâda
 Oued Teniamoun, Oued Tenianoum
 Oued Tenouafri, Oued Tinouafri
 Oued Tenouamend
@@ -4994,6 +4989,7 @@ Oued Tâskâst, Taskas, Tayart Taskass, Teskesset, Vallée du Taskass
 Oued Tâyert el Melh, Oued el Tayert el Meleh
 Oued Tégueddé
 Oued Téktaka
+Oued Téngharâda
 Oued Téri, Oued Tary, Oued Téry
 Oued Téssekré
 Oued Tîbounkrîne
@@ -5013,7 +5009,7 @@ Oued el 'Abïd
 Oued el 'Adam, Oued Ladham
 Oued el 'Aoueïja
 Oued el 'Aïn eç Çefra
-Oued el Abiod
+Oued el Abioḍ
 Oued el Ajram
 Oued el Akḥal, Oued el Akehal
 Oued el Arârmè
@@ -5057,7 +5053,7 @@ Oued el Mefga
 Oued el Melga, Oued el Mega, Oued el Melka
 Oued el Melgué
 Oued el Mentaf'a, El Mentfa
-Oued el Merre
+Oued el Merré
 Oued el Metghaïmbra
 Oued el Mghâder, El Mrhader, Oued el Mrhâder
 Oued el Mghâs
@@ -5076,9 +5072,9 @@ Oued en Na'âm
 Oued en Neïjert
 Oued en Nkheïlé, Oued Nkheïlé
 Oued es Sbâiya, Oued Sbaya, Oued Sbaïa, Oued Sebaïa
-Oued et Taouâz
 Oued et Touil
 Oued et Tâjâle
+Oued eṭ Ṭaouâz
 Oued eṭ Ṭenzzent
 Oued Çangarâfa, Oued Sangarafa
 Ouenetel
@@ -5117,8 +5113,8 @@ Oumm Agoueït
 Oumm Ahmar, Oum Ahmar
 Oumm Aouarouâr, Oum Aourouaré, Oumm Aourouar, Oumm Aourwar
 Oumm Aouarouâré, Oumm Aourouâré, Oumm Awrwâré
-Oumm Arouaguene, Oum Arouaguen, Oum Rouagui, Oumm Arwagen, Um Arraguem, Zleat Oumm Arwagen, Zléat Oumm Arouaguene
 Oumm Arouessine, Oum Arouessine
+Oumm Arouâguene, Oum Arouaguen, Oum Rouagui, Oumm Arwagen, Um Arraguem, Zleat Oumm Arwagen, Zléat Oumm Arouaguene
 Oumm Arâguene
 Oumm Azarâne
 Oumm Aïché Hélou, Oum Aoïch Élou, Oum Aïché Hélou, Oumm Aoïch Elou
@@ -5151,7 +5147,6 @@ Oumm Sdeïré, Moustéré
 Oumm Seboû'a, Oumm Sebwa
 Oumm Talha, Oum Talha
 Oumm Tikâtene
-Oumm Tioûr, Oumat Tiour, Oummat Tyour, Oummât Tiour
 Oumm Toueïguedât
 Oumm Touyour, Oumm et Touyour, Oummou Touyour
 Oumm Znâd
@@ -5181,12 +5176,13 @@ Oumm en Nour
 Oumm et Toûnsi, Moutoûnsi
 Oumm ez Znîne, Mouzeni, Oumm Ez Znin
 Oumm Ḍroûs
+Oumm Ṭioûr, Oumat Tiour, Oummat Tyour, Oummât Tiour
 Oumm-Gueït'a Atguig
 Oumma Edmagh, Moudmach, Noudmach
-Oummat Chegag, Ammat Chegag, Oumat Chagag, Oummat Chagag
 Oummat Tikatene, Oummat Tikaten
 Oummat Tmâmîch, Oumat Temamish
 Oummât Abo, Matabo
+Oummât Chegâg, Ammat Chegag, Oumat Chagag, Oummat Chagag
 Oummât Rgueïbât, Mate Regueïbat, Ommat Rgeibat
 Oummât el 'Akrîch, Motlah Karich
 Oummât el 'Akârech
@@ -5352,7 +5348,7 @@ Raïchott
 Rbeïb
 Rebg el Habcha
 Red Tacharit, Red Techaril
-Reddam, Hassi Reddane, Redam, Redane, Reddan
+Reddâm, Hassi Reddane, Redam, Redane, Reddan
 Remiaï
 Rerdemani
 Rgaa
@@ -5539,7 +5535,7 @@ Selk Eïdem
 Sellenbou, Sellembou
 Selouâr
 Selrazéné
-Semsiyyat
+Semsiyyât
 Senboûrou
 Senn
 Senna, Sennat, Tâmoûrt Sennat
@@ -5579,8 +5575,8 @@ Sorta
 Souaïd
 Souessia
 Soueïdîyât
-Soueïguiya, Es Soueïguiyya, Es Sweigiya, Souaïgouia, Soueguia, Soueïguia, Souiguiya, Séguia
 Soueïguiyât es Sbâ'iya
+Soueïguîya, Es Soueïguiyya, Es Sweigiya, Souaïgouia, Soueguia, Soueïguia, Souiguiya, Séguia
 Soueïhat, Sweihat
 Soueïl Delil
 Souhanhe, Djiba
@@ -5793,7 +5789,6 @@ Tarsa
 Tartaft
 Tartaïgué
 Tartéga
-Tatilt
 Tatrarit
 Tayaret Herrour, Taïeurt-d'-Herrour
 Tayaret Idaou Ali, Tayert Ida o Ali, Taïeurt des Ida ou Ali, Tiaret Ida O Ali, Tâyert Idaou 'Ali
@@ -5811,7 +5806,6 @@ Tazazmout es Serhir, Tarzazmout el Srir, Tazazmout es Srhîr, Tazazmout éç Çg
 Tazekra, Touézékrat
 Tazent Canyon
 Tazâdit, Passe de Tazadit, Passe de Tazadite, Puits de Tazadite
-Taçârât, Tasarat, Tasserat, Tâssarât, Vallée de Tasarat
 Taïeurt Blanche, Tâyert-Blanche
 Taïeurt el Beïda, Tâyert el Beïda
 Taïeurt el Chîaf
@@ -5831,9 +5825,9 @@ Te-n-Ouaka Diaré, Ten Ouaka Diar, Tin Ouckadjera, Tin Ouokadjara
 Te-n-Ouâdour
 Te-n-Ouâmdîj
 Te-n-Tamdej
-Te-n-Tarazzi
 Te-n-Yaḥammou
 Te-n-Zâk, Timzak, Tinemyal
+Te-n-Ṭarazzi
 Tebraghghît
 Techigga el Khadra, Tichigga el Khadera, Téchiga el Rhadra
 Tedatene, Tedaten, Todar, Todare
@@ -6049,7 +6043,6 @@ Tiniyyâs
 Tiniârg, Ten Yarg, Ti-n-Yarg, Tin Larg
 Tiniéré, Tigniré
 Tinkara
-Tintane, Tinntane, Tintan, Tintara
 Tintegdedh, Tintegdhedh
 Tintekrat el Khadra, Tinntekhète el Akrdar, Tintikrat el Khadera
 Tintwadan, Tentouadan, Tentuadán, Ti-n-Touadane, Tin Taoudane, Tin Touadan
@@ -6107,8 +6100,6 @@ Torha Aguenatil
 Tou Kindji
 Tou-m-Barâra, Toum Barhara
 Tou-n-Gorka, Tin Guerka
-Touajil
-Touama
 Touarachit
 Toubâddi
 Touchatene, Touchaten
@@ -6140,7 +6131,6 @@ Toueïgueret
 Toueïjigja
 Toueïjigjit, Toueijikjit
 Toueïjîlât Boû Guerba
-Toueïla, Toueilat
 Toueïliḍât, Touilirat, Twilirat
 Toueïmirât Ghaïn, Toueïmirât Rhaïn, Touîmîrât, Twimirat
 Toueïmîret Ould Ahmed Han
@@ -6175,7 +6165,6 @@ Touirist
 Touisserdemt, Touissirdemt, Touissirdemtte
 Touiyene, Touïyn
 Touizikt
-Toujounine, Toujounin
 Touldé Bâdi
 Touloûlaï, Touloula
 Toumbezekri
@@ -6193,13 +6182,15 @@ Tourarine
 Tourassin
 Tourassine
 Tourbaïga
-Tourine, Tourin
 Tourouchîne, Tourouchin, Touzouchin
 Touroudîne, Jouroundi, Touroudi, Touroudin
 Tourougueïlîne
 Touroumbani
 Touréla
+Tourîne, Tourin
+Touâjil
 Touâjîl Lherité, Twajil Lherité
+Touâma
 Touâma ez Zeghlâne
 Touéminté Kouri, Touéminié Kouri
 Touéyéa
@@ -6237,6 +6228,7 @@ Toûdouchine el Kbîr
 Toûdouchine eç Çghîr
 Toûfeṭ
 Toûgh, Tourh
+Toûjounîne, Toujounin
 Toûjounîne el Kbîr
 Toûjounîne eç Çghîr
 Toûmiyât, Toumiat
@@ -6280,7 +6272,7 @@ Trîg Seïouéddé, Passe de Séoudet
 Trîg Tleïhé
 Trîg Touéïdïma, Passe de Touédima
 Trîg Trigueïn
-Trîg ec Cafra, Safra, Trîg Safra
+Trîg ec Çafra, Safra, Trîg Safra
 Trîg ech Chekâoui, Passe de Chékaoui
 Trîg el 'Ajeïjîlé, Trig Ajeyjilé, Trîg Ajeïjilé
 Trîg el Behgué, Trig el Bégé
@@ -6346,7 +6338,7 @@ Tâmkarkart, Tankarkar
 Tâmourt Bégou
 Tâmoûrt Abba, Tâmoûrt Abda
 Tâmoûrt Aghouâouît, Tamourt Arahouil, Tâmoûrt Araouil
-Tâmoûrt Akradid
+Tâmoûrt Akrâdîd
 Tâmoûrt Ayyer, Tamourt Hejer, Tâmoûrt Eyer
 Tâmoûrt Bagzaza
 Tâmoûrt Batâha, Tâmoûrt Betaha
@@ -6459,6 +6451,7 @@ Târgué, Targa
 Târouel
 Târoûs
 Tâtrârt
+Tâtîlt
 Tâyert, Taïeurt
 Tâyert Chaotique
 Tâyert Tikhniouene, Tayart Tikhniouer, Tayart Tiknihouen
@@ -6489,10 +6482,11 @@ Tâyâret el Mounja
 Tâyâret el Mounjâ', Tâyâret el Menja
 Tâyâret el Msîlé
 Tâyâret el Ouâs'a, Tayaret Louassar, Tayaret el Wasa
-Tâyâret en Noudrîya, Tâyâret Noudria
+Tâyâret en Noûdrîya, Tâyâret Noudria
 Tâyâret et Toûrsine, Tayert Tirsiwène, Tâyert Tirsiouène
 Tâyâret Çdar
 Tâziâzet, Tasiast, Tassiast
+Tâçârât, Tasarat, Tassarat, Tasserat, Vallée de Tasarat
 Tâḥmâmet el Beïda, Tahmamete el Beïda
 Tâḥmâmet el Khaḍra, Tahmamet El Jadra, Tahmamet el Khadera, Tahmamet el Kradra, Tahmamete el Khadra
 Tédorisrak
@@ -6614,7 +6608,7 @@ Zemlet Fâr
 Zemlet Mayateg
 Zemlet Ould Amar
 Zemlet Ould Dekhan, Zemlet Ould Deïkhane
-Zemlet Toffal, Zimle Toffei, Zimle Toffel
+Zemlet Toffâl, Zimle Toffei, Zimle Toffel
 Zemlet et Tamât, Samlat Tamat, Zemlet Tamat, Zemlet el Tamatt
 Zemmour Blanc
 Zemoulia
@@ -6768,8 +6762,10 @@ ljichâne
 Île de l'Ardent, Île d'Argent
 Île de l'Étoile
 Île des Pélicans
+Îmârchene, Imarchen, Imarchenn
 Îtgaffoûch
 Îtlîlîouene
+Ţoueïla, Toueilat
 Ḍahr Néma
 Ḍahr Tîchît, Dhar Tichitt
 Ḍal'et Chbâr, Chbar, Chibar
@@ -6789,6 +6785,7 @@ ljichâne
 Ḍouâyet el Bgar
 Ḍouâyât Belgherbâne
 Ḍâya ed Dakhna
+Ḍâya el Khaḍra, Daya el Khara
 Ḍâyet Benjreïrmâne
 Ḍâyet Iguerj
 Ḍâyet Kenkou
@@ -6842,6 +6839,7 @@ ljichâne
 Ḥasseï el Gourdâne, Hasseï Gourdane
 Ḥasseï el Guendres
 Ḥasseï el Megṭa'
+Ḥasseï el Mokhtâr
 Ḥasseï el Ḥassene
 Ḥasseï er Rafgué
 Ḥasseï er Roûth
@@ -6902,6 +6900,7 @@ ljichâne
 Ḥofret el Foûlé, Hofrât el Foulé
 Ḥoueïssï edh Dhiâb, Hassi Tiab, Hassi ed Diab
 Ḥâjeb Ti-n-Kerkâz
+Ḥâssi Ṭouîl, Et Touil, Et Twil
 Ḩāssi Fouïni
 Ṭalhâyet Manâna
 Ṭalḥâyet Jneyyene, Talhâyet Jneyem
@@ -6915,6 +6914,7 @@ ljichâne
 Ṭarḥet Âouarach
 Ṭaïza
 Ṭeïntesṭ
+Ṭinṭâne, Tinntane, Tintan, Tintara
 Ṭoueïref Sra, Tarf Srey, Tarf Sreï
 Ṭoûbat Oul Moïssé
 Ṭreïfîyât, Traifia, Treifiat, Treyfia

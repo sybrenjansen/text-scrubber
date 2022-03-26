@@ -51,13 +51,13 @@ Akana II
 Akao
 Akara
 Akaya
-Akielé
+Akiélé
 Akombo
 Akomou
 Akongo
 Akou
 Akoua
-Akoualebango
+Akoualébango
 Akounda
 Akouo
 Akousika, Akoussika
@@ -296,7 +296,6 @@ Bayombé
 Bazam
 Beingé
 Bela, Béla-Bongo
-Bellevue
 Belo
 Bemba
 Bemba-Loisa
@@ -305,11 +304,9 @@ Bembo Mboté, Dembo Boto
 Bembé
 Bempo, Beémpo
 Bendza
-Bene
 Bengéko
 Benséké
 Benza
-Bessié, Baisiet, Baissiet
 Bia
 Biabiel
 Biala
@@ -647,6 +644,7 @@ Brazzaville, Maya-Maya, N'Tamo
 Bvi, Bvie
 Bwali
 Bwanlanga, Boilanga, Boulanga
+Bèllevue
 Bènzé, Mbenzé
 Béaba
 Béabéa
@@ -660,8 +658,10 @@ Béllélo, Béloulo
 Bélé
 Béna I
 Béna II
+Béné
 Bérandjokou, Bérandjoko, Lipeité
 Bésio, Esio
+Béssié, Baisiet, Baissiet
 Bétou
 Bétou d'Issassa, Issassa, Mbetou-Issassa
 Bétoukoumba, Betou d'Ikoumba, Bétikoumba, Ikoumba, Mbetou-d'Ikoumba
@@ -706,7 +706,7 @@ Didsandou
 Dienga
 Difounda
 Dighondzy, Dighandzy
-Dihetso, Dietcho
+Dihétso, Dietcho
 Diki
 Dikokélé
 Dikota
@@ -1030,7 +1030,6 @@ Etiouk-Mindele
 Etiélé
 Etiéné, Etiéme
 Etogo Tsami
-Etoka
 Etolo
 Etono
 Etonton, Ebonton
@@ -1468,23 +1467,20 @@ Katy-Katy, Kati-Kati
 Kay
 Kay Doumanga, Kayes Doumanga
 Kay Mboukou
-Kaye, N'Kaye
 Kaye-Bonda
 Kaye-Mbakou, Kai Bakou, Kaye-Bakou, Kayes-Bakou
 Kayes, Jacob, Kaï
 Kayes-Boungou, Kaye-Boungou, Kaïboungou
 Kayi
+Kayé, N'Kaye
 Kebouli
-Kebouya
-Kelembélé, Kilembélé, Koléde
 Kellé, Kelli
-Kelé
 Kempaka
 Kendi
 Kendouo
-Kenge
 Kengué
 Kengwani, Kengouani, Kingouoni
+Kengé
 Kengélé
 Kentsélé, Kenstséle
 Kenvouani, Kenvani
@@ -1597,7 +1593,6 @@ Kimbanzé
 Kimbaoka
 Kimbaoka II
 Kimbasssi, Kimbesi
-Kimbedi
 Kimbembé
 Kimbenza
 Kimbenza-Mouniére
@@ -1622,6 +1617,7 @@ Kimboungou II
 Kimbouni, Kimbounou
 Kimbousi
 Kimbouta
+Kimbédi
 Kimbélé
 Kimbélé I
 Kimbélé II
@@ -1722,8 +1718,8 @@ Kingouala-Mboungou
 Kingouala-Nsouadi
 Kingouansine
 Kingoué
-Kingoye
 Kingoye-Loukala
+Kingoyé
 Kinguimbi, Kingimbi II
 Kingué
 Kinguélé
@@ -1942,7 +1938,6 @@ Kouboua
 Kouboulankoutou
 Koudou
 Koudoulou
-Kouedika, Kouédiké
 Koufoli
 Koufoua Moukoulou
 Koui
@@ -2005,6 +2000,7 @@ Kouyi
 Kouyou
 Kouyou-Gandza
 Koué
+Kouédika, Kouédiké
 Kouélé
 Koyo
 Kéba
@@ -2012,8 +2008,11 @@ Kébala
 Kébana
 Kébara
 Kébili
+Kébouya
 Kékoumou
 Kékélé
+Kélèmbélé, Kilembélé, Koléde
+Kélé
 Kélékélé
 Kéléma, Keléman
 Kélémié, Kelliémé
@@ -2037,15 +2036,11 @@ Lari
 Layiki
 Le Férik
 Le Temps Passé
-Lebango, Lebanga
 Lebango II
 Lebangui
-Lebili
 Lebolo
 Lecouna
-Lefourou, Mpira
 Leka
-Lekana, Lecania, Lekania
 Lekondji
 Lekwon
 Lemba
@@ -2053,9 +2048,7 @@ Lembo
 Lemboumbou
 Lembé
 Lemvouri
-Lengo
 Lengoué
-Lengui-Lengui, Lengue-lengué
 Lenzi
 Les Bandas
 Lesanga
@@ -2080,7 +2073,7 @@ Likaya
 Likendzé, Lékendzié
 Liko
 Likombo
-Likome
+Likomé
 Likouakoua, Likwakwa
 Likouala, Département de la Likouala, Likouala Department, Région de la Likouala, Sangha-Likouala
 Likouka
@@ -2226,18 +2219,24 @@ Louéssi, Louesi
 Loyakou
 Loyo
 Loyotcho
+Lèngo
 Lèngui, Lingué
+Lèngui-Lèngui, Lengue-lengué
 Lébala
+Lébango, Lebanga
 Lébani Lenkala, Lenkala
 Lébanyi, Lébagni
 Lébaye, Lébay
 Lébayi, Le Baye
 Lébiga
+Lébili
 Lébomo
 Lébou
 Léfini
 Léfounou, Léfoumou
+Léfourou, Mpira
 Léfoutou
+Lékana, Lecania, Lekania
 Lékangi
 Lékati I, Lékati
 Lékati II
@@ -2321,7 +2320,7 @@ Magila
 Magne Scirina, Magne
 Magneli-Dimba, Magnéli
 Magobé, Nagobé
-Mah, Mâa
+Mah, Maa
 Mahantsa
 Mahitoutou, Mahitou
 Mahoukou
@@ -2393,7 +2392,6 @@ Malemba, Girard
 Malembé
 Malembé I, Mallenibé
 Malembé II
-Malengo
 Malengé, Malengué, Malenngué
 Mali
 Malibéla
@@ -2401,7 +2399,7 @@ Malima
 Malimba
 Malimbo
 Malié, Mina
-Mallembe
+Mallembé
 Malolo
 Malolo-Sinistre
 Malolo-Village
@@ -2412,6 +2410,7 @@ Maloukou-Bambou
 Maloukou-Tréchot
 Maloulou
 Malouna
+Malèngo
 Malébé
 Maléké
 Maléla Bombé
@@ -2570,7 +2569,6 @@ Matalila
 Matandala, Matandala II, Matandala IV
 Matangi, Matangui
 Matchi-Koyé
-Mateba
 Matemba
 Matembo
 Matembo I
@@ -2590,12 +2588,13 @@ Matoumbou
 Matouridi
 Matoutou
 Matsanga
-Matsende, Mantsende
+Matsendé, Mantsende
 Matsiéné
 Maty-Centre
 Matzili
 Matzouélé
 Matèntsama
+Matéba
 Matéla
 Matélé I, Materé, Matélé
 Mavambou
@@ -2668,7 +2667,7 @@ Mbantsé, Bantsé, Bentzé
 Mbanza, Edibabandza, Edibabanza
 Mbanza Baka, Banza Baka
 Mbanza Bangou
-Mbanza Bembé, Banza Bembé
+Mbanza Bèmbé, Banza Bembé
 Mbanza Galangala, Banzagalangala
 Mbanza Gounga
 Mbanza Guéri, Banzageri, Banzagueri
@@ -2689,9 +2688,7 @@ Mbanzangéri X
 Mbaya
 Mbazok, Badzok
 Mbaéso
-Mbe
 Mbelo
-Mbemba
 Mbemba Ndouala
 Mbembé
 Mbengo
@@ -2765,9 +2762,11 @@ Mbouéya
 Mboya
 Mbèndza
 Mbèndé, Bendé
+Mbé
 Mbébagandou
 Mbéha
 Mbého
+Mbémba
 Mbéna
 Mbésso Ouambi, Mbessa-na-Obambi
 Mbésso-Ouambi
@@ -3435,7 +3434,6 @@ Ngayi
 Ngbaka
 Ngbala, Fort Soufflay, N'Goïla, Soufflay
 Ngbondo, Boundo
-Ngelé, Goelé
 Ngengé
 Ngiabombé, Guiabombo
 Ngila
@@ -3509,6 +3507,7 @@ Nguio, Guio
 Nguiri, Ngiri
 Nguélé, Villages Nghélé
 Ngéké
+Ngélé, Goelé
 Ngélé Okasa
 Niaba, Miaba
 Niague, Niagai
@@ -3678,12 +3677,9 @@ Obana, Goban
 Obanda, Ohbanda
 Obanga
 Obaséné
-Obemba, Obimba
 Obeme
 Obenza, Obindza
 Obessi, Obési
-Obey
-Obeya
 Obia
 Obilaboma
 Obilanboma, Olilamboma I
@@ -3703,11 +3699,14 @@ Obouala
 Oboumba
 Oboumi, Obomi
 Obouya
+Obèmba, Obimba
 Obéa
 Obéké, Okéke
 Obélingo, Obelango
 Obélé
 Obéré
+Obéy
+Obéya
 Obéye
 Ochendé
 Odia
@@ -3747,7 +3746,6 @@ Okari
 Okasa
 Okassa
 Okaye, Okaï
-Okele
 Okia
 Okiala
 Okila, Okiba
@@ -3790,6 +3788,7 @@ Okoyo
 Okwanpi, Okouampi
 Okéka, Okéla
 Okélataka, Okalataka
+Okélé
 Olana
 Olembé
 Oli
@@ -3819,7 +3818,7 @@ Olémé, Ollemé
 Ombala
 Ombima, Ombina
 Ombo
-Omboye, Omboyi
+Omboyé, Omboyi
 Ombébo
 Ombéké
 Ombélé
@@ -3895,7 +3894,7 @@ Ontogo
 Ontolo
 Ontourou, Otourou
 Ontsay, Ontsiaye
-Onzéle, Ondzeli
+Onzélé, Ondzeli
 Ooua
 Oouando
 Opa
@@ -3949,7 +3948,7 @@ Otogo Ollibi
 Otouéné
 Otsalaka
 Otsato
-Otsende
+Otsendé
 Otsiendé
 Otsindé
 Otsini
@@ -3994,8 +3993,7 @@ Oyabi-Boula, Eba-aja
 Oyali
 Oyana, Oyama
 Oyananga, Ouannaga
-Oyeba
-Oyendze, Ovendzé, Oyènzé I
+Oyendzé, Ovendzé, Oyènzé I
 Oyima
 Oyo
 Oyombo
@@ -4008,6 +4006,7 @@ Oyoué II
 Oyèmbé
 Oyènzé II
 Oyé, Campement Inyé
+Oyéba
 Ozala, Dzala, Odzala
 Padi
 Paka
@@ -4047,9 +4046,7 @@ Passimoni
 Passitolo, Pasitolo
 Pati
 Patra
-Pemo
 Pengi, Mpengui
-Peola
 Petit Bois
 Petit Dandi
 Petit Kimoele
@@ -4106,6 +4103,8 @@ Pouéré
 Pouéré-Essengué
 Ptso
 Pènda
+Pémo
+Péola
 Pésamoto
 Ranzi
 Reneville
@@ -4138,7 +4137,6 @@ Sango
 Sango Bayoua, Songo-Bayouha
 Sansfil
 Sanza
-Sembé, Ssembe
 Sengolo
 Sexcello
 Sexo, Sexse, Sexso
@@ -4196,6 +4194,7 @@ Sèngo
 Sédèk
 Séka, Seca
 Séléké
+Sémbé, Ssembe
 Sémo
 Séré
 Séssé, Sésé
@@ -4275,8 +4274,7 @@ Tchono
 Tchouanké, Otchouanké
 Tchérré, Chéré, Tchéré
 Tebele
-Tembe
-Tembele
+Tembé
 Tendou Bengo, Tandou-Bengo
 Tension
 Tenta
@@ -4375,6 +4373,7 @@ Tsétséké
 Tzambisisi
 Tzodzo
 Télémono
+Témbélé
 Uoussoundzi, Doussoundzi
 Vaga
 Vaka
@@ -4441,7 +4440,6 @@ Yananga
 Yanba
 Yandza
 Yandzila
-Yanebout, Yangboue
 Yanga
 Yanga Dzala
 Yangala
@@ -4449,6 +4447,7 @@ Yango
 Yangui, Yangi
 Yanika, Yaniko
 Yanou
+Yanébout, Yangboue
 Yaya, Yaya Gare
 Yelma
 Yembélangoy
@@ -4533,3 +4532,4 @@ Zouno Péna
 Zouoba, Dzouba
 Zégabou, Zegabout
 lengé
+Étoka

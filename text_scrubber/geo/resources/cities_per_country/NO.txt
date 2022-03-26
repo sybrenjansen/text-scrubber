@@ -49,10 +49,8 @@ Almus
 Almås, Almaas
 Almåsen
 Alna
-Alset, Aalset
 Alsgard, Alsgaarden
 Alsos
-Alstad, Aalstad
 Alstahaug
 Alsvik, Alsvik i Ryfylke, Alsvika
 Alsvåg, Alsvaag
@@ -72,7 +70,6 @@ Amdal
 Amla
 Ammerud
 Amundrød
-Andalen, Aandalen
 Andebu
 Andenes
 Andersby, Anderaby
@@ -117,17 +114,12 @@ Arnadal
 Arnafjord, Arnefjord
 Arnatveit
 Arneberg
-Arnes, Aarnes, Årnes i Telemark
 Arnevik, Arneviken
 Arnøyhamn
-Arset, Aarset, Årset i Veøy
-Arstad, Aarstad
-Arstein, Aarstein
 Arveset
 Asak
 Asdal
 Asdøl
-Asheim, Aasheim
 Ask, Ask i Nordhordaland
 Askedalen
 Askeland
@@ -148,10 +140,7 @@ Askvoll
 Askvåg, Askevag
 Askøy
 Aslaksdal
-Asland, Aasland
 Aslandgrendi
-Asmundvåg, Asmundvaag, Osmundevåg, Osmundvaag
-Asnes, Aasnes, Aasnæs
 Aspa
 Aspaker
 Aspdalen
@@ -228,7 +217,6 @@ Austrått, Austraat, Austråt, Östraat, Østråt
 Austvatn
 Austvoll
 Auten
-Avedal
 Aven
 Avki, Haukøya
 Avløysa, Aflöisen, Aflöjsen, Avløisa, Avløs
@@ -479,10 +467,8 @@ Bjertnes
 Bjerve
 Bjoa
 Bjoneroa, Bjone
-Bjordal
 Bjorli
 Bjorvatn
-Bjorvik
 Bjorøyna
 Bjotveit
 Bjunes
@@ -496,6 +482,7 @@ Bjønnes
 Bjønnesbakken
 Bjønnesskogen
 Bjønnkuvvollan
+Bjørdal
 Bjøre
 Bjørga
 Bjørgan
@@ -554,6 +541,7 @@ Bjørnøy
 Bjørnøya
 Bjørsviki
 Bjørtuftgrende
+Bjørvik
 Bjørvika
 Bjørøyhamn, Bjorøyhavn
 Blaker
@@ -623,17 +611,14 @@ Bondhus
 Bondibråten
 Bondjord
 Bondøy
-Bones
 Bonna
 Bonå, Bonnaa, Bonnasjoen, Bonåsjøen
-Bordal
 Bordvik
 Bore
 Borgan, Borgann, Borgund i Namdalen
 Borge
 Borgegrendi
 Borgejordet
-Borgen
 Borgfjord
 Borggrend
 Borgheim
@@ -654,7 +639,6 @@ Bossbøen, Bosbøen
 Bossekop, Bosekop
 Bosskleiv
 Bossvika, Bossvik
-Bostad
 Bostrak, Busterak
 Bota
 Botn, Grunnfjordbotn, Veidmannsbotn
@@ -676,7 +660,6 @@ Brandvik
 Brandvoll, Brandvold
 Brandvålen
 Braskereidfoss
-Brastein, Braastein
 Bratland
 Brattabø
 Brattbakken, Bratbakken
@@ -830,10 +813,11 @@ Brynhildsvollen, Brynildsvollen, Brynilsvold
 Brynseng
 Brådland
 Bråstad
-Bråtan, Braaten
+Bråstein, Braastein
 Bråte, Braate
 Bråten, Braaten
 Bråtveit, Braathveit
+Bråtån, Braaten
 Brødbøl
 Brøderud
 Brøgrenda
@@ -961,9 +945,12 @@ Bølingshamn, Bölingen, Bølinghavn
 Bølum
 Bømlo, Søra Bømlo
 Bøndalen, Bösdalen
+Bønes
 Bønnstu, Bonstuen
 Bønsnes
+Børdal
 Børelva, Börelv, Börelven
+Børgen
 Børilden
 Børkjenes
 Børligardan
@@ -979,10 +966,11 @@ Børtnes
 Børve
 Børvenes
 Bøss
+Bøstad
 Bøstranda
 Bøsætra
 Bøverbru
-Bøverfjorden, Bæverfjord, Bøverfjord
+Bøverfjorden, Bæverfjord, Böverfjord
 Bøverkinnhalsen
 Bøvær, Bøva, Bøvær i Senja
 Bøylefoss
@@ -999,7 +987,6 @@ Dal
 Dala
 Dalabygda
 Dalabygdi
-Dalan
 Dalane
 Dalbotnet, Dalbotnan
 Dalby
@@ -1088,7 +1075,6 @@ Dorvonjárga
 Dorvær
 Dotset
 Dovland
-Dovre
 Dovreskogen
 Drag, Drag i Tysfjord
 Drage
@@ -1165,6 +1151,7 @@ Dystland
 Dyva, Dyboad, Dybuad, Dybvad, Östre Dyva
 Dyvastrø
 Dåfjorden, Dåfjord, Dåfjordbotn
+Dålån
 Dånabu
 Dårøy, Daarö, Dåri
 Dåsnes
@@ -1188,6 +1175,7 @@ Døsvika, Døsvik
 Døvik, Döviki
 Døvika
 Døvlehamna
+Døvre
 Ebbesvik
 Ebru
 Edland, Edlandsgrend, Etland
@@ -1631,7 +1619,7 @@ Fjelle
 Fjellestad, Fjellesund
 Fjellet
 Fjellfoten
-Fjellgardan
+Fjellgårdan
 Fjellhamar
 Fjellhaug, Fjeldhaug
 Fjellheim
@@ -1781,16 +1769,13 @@ Fonn
 Fonnebust
 For
 Forberg
-Fore
 Forebygdi
 Forfjord, Forrfjord
 Forfot
 Forhaugan, Forrhaugan
-Forland
 Formo
 Formofoss
 Fornes, Forrnes
-Forneset, Forseng, Forsenget
 Forra, Fora, Foren
 Forsand
 Forset, Fosset
@@ -1881,7 +1866,6 @@ Frisvoll
 Fritsø
 Frivik
 Frogner
-Froland
 Frolands verk
 From
 Frosta
@@ -1892,6 +1876,7 @@ Frydenberg
 Fryjordet
 Frysjøberget
 Frøhol
+Frøland
 Frølandgrenna
 Frøn
 Frønningan, Frönningen, Ytre Frønningan, Ytre Frønningen
@@ -1967,8 +1952,11 @@ Færøysund, Færøysundet
 Følling, Føling
 Førde, Fords
 Førdesfjorden, Førre
+Føre
 Føresvik
+Førland
 Førle
+Førneset, Forseng, Forsenget
 Førri, Føri
 Gaasøien, Gåsøya
 Gahppanluokta, Kikvika
@@ -2553,7 +2541,6 @@ Hagalia
 Hagalykkja
 Hagaløkka
 Hagamyra
-Hagan, Haga bru
 Haganes
 Hagastua
 Hage
@@ -2567,7 +2554,6 @@ Hagfors
 Hagland, Hageland
 Hagvågen, Hagevaag, Haggvåg
 Hakadal, Hakedal, Hakedalen
-Hakavik, Haakavik, Hakamken, Håkavika
 Hakkloa
 Hakkstabben, Hakstabben, Leaibeluokta
 Hakokoski, Skogfoss, Skogvokterboli
@@ -2577,7 +2563,6 @@ Haldorstuen
 Haljem, Halgjem, Halhjem
 Hall, Hald
 Hallan
-Halland, Haaland
 Hallandsgrende, Hallandsgrendi
 Hallarøy, Halleröen, Halteröen
 Halldalstølen, Halldalen
@@ -2676,7 +2661,6 @@ Harkestad
 Harkmark
 Harpefoss
 Harran
-Harstad, Haarstad, Hárštá
 Harstveit
 Harøysundet
 Hasle
@@ -2774,7 +2758,6 @@ Haveland
 Haver
 Haversand
 Havgløtt
-Havik, Haavik
 Havikbotn
 Havnarås, Havnaraas
 Havnevik
@@ -3069,7 +3052,6 @@ Hokkåsen, Haakaasen
 Hoksengmoan
 Hokstad
 Hol
-Hola
 Holand, Holandsfjord, Holandsfjorden, Holandsklubben
 Holandsjøen
 Holandsvika, Holandsvik
@@ -3077,11 +3059,9 @@ Holberg
 Holdbø
 Holdhus
 Holdsætran, Holdenseter, Holdensæter
-Hole, Høle i Høgsfjord
 Holeberg
 Holehaugen
 Holem
-Holen, Holen Borgsund, Holen Borgund, Holenatle
 Holet
 Holevik
 Holganjárga
@@ -3128,7 +3108,6 @@ Holstad
 Holstadsætra
 Holstangen
 Holstein
-Holsætra, Holsæter
 Holt
 Holta
 Holtan
@@ -3166,7 +3145,6 @@ Homstad, Håmstad
 Hongsand
 Hongset
 Honningsvåg, Honnesváhki, Hönningsvaag, Sondre Honningsvaag, Söndre Honningsvåg
-Honstad
 Hop, Indre Hop
 Hopaenget
 Hope
@@ -3295,7 +3273,6 @@ Husvær, Husvaerö
 Husøy, Husøysund
 Husøya
 Husøytoppen
-Hval, Hvaal
 Hvalen
 Hvalstad
 Hvam
@@ -3309,6 +3286,7 @@ Hvilebrekka
 Hvitstein
 Hvitsten, Hvitsen
 Hvittingfoss, Vittingfos, Vittingfoss
+Hvål, Hvaal
 Hvålakalven
 Hygga
 Hyggen
@@ -3331,8 +3309,10 @@ Håar
 Håbbesland
 Håeim, Haaeim
 Håfoss
+Hågån, Haga bru
 Håheim, Haaheim
 Håkaringen, Haakaringen
+Håkavik, Haakavik, Hakamken, Håkavika
 Håkavikberget
 Håkonhals
 Håkånes, Haakaanes
@@ -3340,6 +3320,7 @@ Håkøy
 Håkøybotn, Haaköybotn, Håköybom
 Håland, Haaland
 Hålandsosen
+Hålland, Haaland
 Hålop, Haalop
 Hålsund, Haalsund
 Håpoldo, Håpåldo
@@ -3347,6 +3328,7 @@ Håra, Horre
 Hårberg, Haarberg
 Hårikstad
 Hårkollen
+Hårstad, Haarstad, Hárštá
 Hårsåker, Haarsaaker
 Hårtveit, Haartveit
 Hårvika, Haarvik, Horvik, Hårvik
@@ -3357,6 +3339,7 @@ Håtveitgrendi
 Håtvet, Haatvet
 Håvaldsrød
 Håverjorda, Haaverjorda
+Håvik, Haavik
 Håvika, Haakvik, Haavik
 Håvoll, Haavold
 Håvågen
@@ -3384,14 +3367,19 @@ Høgtopp
 Høgvaldstad, Hogvalstad
 Høibo
 Høiset
+Høla
+Høle, Høle i Høgsfjord
+Hølen, Holen Borgsund, Holen Borgund, Holenatle
 Hølera
 Hølervassætri
 Høljerast
 Høllen, Høllen i Søgne
 Høllesli
+Hølsætra, Holsæter
 Hønefoss
 Hønnebø
 Hønseby
+Hønstad
 Hønsø
 Hørtdalen
 Hørte
@@ -3590,7 +3578,6 @@ Jevnaker
 Jomfrubråten
 Jomfruland
 Jonagård
-Jondal
 Jondalen hyttegrend
 Jonjok, Jonnejohka
 Jonsbråtan
@@ -3633,6 +3620,7 @@ Jødestøl
 Jøkelfjordeidet
 Jølle
 Jømna
+Jøndal
 Jønland
 Jønndalen
 Jønne
@@ -3727,10 +3715,7 @@ Karpbukt, Karpbugten, Siideluovta
 Karstad
 Kartan
 Karterud
-Kartveit
-Karvik, Kaarvik
 Karvåg
-Kasa, Kaasa
 Kasfjord
 Kasin
 Kasperboden
@@ -3755,7 +3740,7 @@ Kavåsen, Kavaasen, Kavas
 Kaxrud
 Keianes
 Keila
-Keiprød, Kjeiprød
+Keiprød, Kjeipröd
 Keisi, Daŋagieddi, Kjoes, Kjæs, Kjæs yt, Ytre Kjæs
 Kentán, Kenttan
 Kiberg, Bolšaja Birka, Kiberg Ytre, Store Kiberg, Stuorab Kiberg, Større Kiberg, Ulko Kiiperi, Ytre Kiberg, Ytre Kiiperi
@@ -4118,7 +4103,6 @@ Krabbesti
 Krageboen
 Kragerø
 Krakken
-Kraknes
 Kraksletta
 Krampenes
 Kramvik
@@ -4181,6 +4165,7 @@ Kråkfjorden, Kraakfjord, Kråkfjord
 Kråkfoss, Kraakfoss
 Kråkhamar
 Kråkhella, Kråkhellesund
+Kråknes
 Kråkrø, Kråkrøhamn
 Kråkstad, Kraakstad
 Kråkås, Krokaas, Krokås
@@ -4352,9 +4337,12 @@ Kårbø
 Kårhamn, Kaarhavn
 Kåristad
 Kårstø, Kaarstö
+Kårtveit
 Kårvatn, Kaarvatn
+Kårvik, Kaarvik
 Kårvikhamn, Kaarvikhamn
 Kårviknes, Kaarviknes
+Kåsa, Kaasa
 Kåsen
 Kåsmoen
 Kåvan
@@ -4395,7 +4383,7 @@ Landal
 Lande
 Landegrenda
 Landingsvorr
-Landro
+Landrø
 Landsem
 Landsrød
 Landsverk, Landsværk
@@ -4722,7 +4710,6 @@ Litveit, Lindthveit
 Liverud
 Livoll
 Ljabru
-Ljones
 Ljosdal, Gjosdal
 Ljoshaugen, Ljoshaug, Lyshaugen
 Ljosheim
@@ -4731,6 +4718,7 @@ Ljosnes
 Ljotegard
 Ljøkel, Mel
 Ljøner
+Ljønes
 Ljøsne, Ljøsno
 Ljøsterød
 Ljøvik
@@ -4747,7 +4735,6 @@ Lognevatn
 Loholt
 Lokkøy, Lokköen
 Lokøy
-Loland
 Lom, Lom kommune
 Lomen, Lome
 Lommedalen
@@ -4765,7 +4752,6 @@ Longva
 Lonin, Lonan
 Lonkan
 Lonkuselv
-Lono, Ljone
 Lonåsen, Lonaasmo, Lonåsmo
 Loppa, Loppen
 Lorthola
@@ -4778,7 +4764,6 @@ Losnelia
 Losstad
 Losvika
 Lote
-Lovik, Lauvik, Loviko, Lövvik
 Lovisenlund
 Luggens
 Lukashaugen
@@ -4898,10 +4883,12 @@ Løklia, Lökli
 Løksebotn
 Løksfjord
 Løkås
+Løland
 Løn
 Løning, Bømmelhamn, Lønning
 Lønlifallet, Lönlifaldet
 Lønneglovene
+Løno, Ljone
 Lønset
 Lørenfallet, Løren
 Lørte
@@ -4918,6 +4905,7 @@ Løvdal
 Løve Mellom
 Løve Øvre
 Løveid
+Løvik, Lauvik, Loviko, Lövvik
 Løvikneset, Löviknæs
 Løvjomås
 Løvlia
@@ -4979,10 +4967,8 @@ Marstein, Marsten
 Marvik
 Marvoll
 Maråk, Maraak, Marok, Merok, Meråk, Mæraak
-Marøy, Maaröy, Maro, Maroen
 Masfjorden, Masfjorden kommune, Masfjordnes
-Masi, Masing, Máze
-Mastad, Maastad
+Masi, Masing, Maze
 Mastebakke
 Masterelv, Sivlejohka
 Mathisodden
@@ -5185,7 +5171,6 @@ Morellåsen
 Moreppen
 Morfjorden, Morfjord, Morrfjord
 Morgedal
-Mork, Mork i Romerike
 Morkagardan
 Morkastrand, Morkestrand
 Morki
@@ -5216,7 +5201,6 @@ Mostugrenda
 Mosvald
 Mosvik
 Mosvoll
-Movik
 Movika
 Mule
 Mulstranda, Mulstrand
@@ -5300,8 +5284,10 @@ Måremgrende
 Måren
 Mårnes, Maarnes
 Mårsund, Maarsund
+Mårøy, Maaröy, Maro, Maroen
 Mårøyfjord
 Måsske, Indre Musken, Moski Sis, Musken
+Måstad, Maastad
 Måsvær, Maasvær
 Måsætra
 Måsøy, Maasöy, Maasöy Herred, Måsø
@@ -5338,6 +5324,7 @@ Møm
 Møn
 Mønnerød
 Møri, Mörre
+Mørk, Mork i Romerike
 Mørkasselodden
 Mørkedal
 Mørkeset
@@ -5348,6 +5335,7 @@ Mørsry
 Mørstad
 Mørsvik, Mörrsvik, Mørsvikbotn
 Møst
+Møvik
 Møyebakken
 Møylandsletta
 Møystad, Möistad, Möjstad
@@ -5660,10 +5648,10 @@ Nydal
 Nydalen
 Nyelva, Nyelven, Oddajokka
 Nyen
-Nygard, Nygaard
 Nygardene
 Nygrenda
 Nygruva
+Nygård, Nygaard
 Nyhamar
 Nyhavn, Nihamman, Nyhamn, Nyhavatn
 Nyheim
@@ -5750,7 +5738,6 @@ Oksdøl
 Okseryggen
 Oksevik, Oksvik
 Oksfjordhamn
-Oksnes
 Okstind
 Okstveit
 Oksvoll, Oksvolden
@@ -5829,7 +5816,6 @@ Oppåpta
 Opsal
 Optedal
 Or
-Ore
 Orebakken
 Oreberg
 Orerønningsholmen
@@ -5844,15 +5830,12 @@ Ormhaugen
 Ormheim, Ormeim, Ormem
 Ormsætra
 Ormtjørnsætra
-Ornes
 Orra
 Orradalen
 Orre
 Orrestad, Aarestad
-Orstad
 Orta
 Ortnevik, Ortnevikane
-Orvik
 Orvika
 Orvikåsen
 Os, Os i Hedmark, Os i Østerdalen
@@ -5963,12 +5946,10 @@ Pålrønningen
 Pålsjorda
 Påskeberget
 Pølen
-Ra, Raa
 Rabban
 Rabben
 Rabbkjølen, Rabbkjølgrenda
 Rabbåsen
-Raen, Raaen
 Rafjord
 Rafoss
 Rafsbotn
@@ -5982,7 +5963,6 @@ Rakkestad, Rakkestad kommune
 Rakkevik
 Raknes
 Rakstang
-Rakvåg, Rakvaag, Ytre Raak
 Ramberg
 Rambergåsen
 Rambjør
@@ -6193,13 +6173,11 @@ Rivarbukt, River, Riverbugt, Riverbukt, Riverbukta, Vuojatluokta
 Rjoo
 Rjukan
 Rjånes, Bjånes, Riaanaes, Rjaanes
-Roa
 Roald
 Roaldkvam
 Roan, Roan kommune
 Roasurápma
 Roavvegieddi
-Roberg
 Robergrønningen
 Robergåsen
 Robøle
@@ -6235,7 +6213,6 @@ Rolvsøy
 Rom
 Romarheim
 Romedal
-Rommen
 Rommetveit
 Romnes
 Romset
@@ -6250,7 +6227,6 @@ Rones
 Rong
 Rongevær, Rognevær
 Ronsås
-Ronvik, Rønnvik
 Ropelv
 Roppestad
 Roresand
@@ -6267,15 +6243,11 @@ Rossevatn
 Rossfjord, Rogsfjord
 Rossfjordstraumen
 Rossland, Rosland
-Rossnes, Rösnes, Røssnes i Salten
 Rossneset
-Rossvoll, Rösvold, Rösvoll, Rösvollnes
-Rostad, Rødstad
 Rostadmoen
 Rosti, Rosta, Rostbru, Rosten
 Rostveit
 Rostøy, Rostog, Rostoysund
-Rosvik, Rosviken
 Rotberget, Raatikkala
 Rotengen, Rotenga
 Rotneberget
@@ -6375,24 +6347,29 @@ Ráidenjárga
 Ráluokta, Rørvika
 Rámavuolli
 Rávdojohknjárga, Rávdojohnjárga
+Rå, Raa
 Råbogen
 Rådal
 Rådeskogen
 Råel
 Råelåsen
+Råen, Raaen
 Råggeluokta, Roggeluokta, Rågeluft
 Rågrendi, Raagrend, Rågrend
 Råholt
 Råk, Indre Raak, Raak
 Råke
 Råket, Raaket
+Råkvåg, Rakvaag, Ytre Raak
 Råna, Raana
 Rånes, Raanes
 Rånåsfoss, Raanaasfoss
 Råsjøen, Raasjöen
 Råstad, Raastad
 Råstadøvre
+Røa
 Røamyr
+Røberg
 Rød
 Rødberg
 Rødberget, Rauberget, Raudberget, Röberget
@@ -6424,6 +6401,7 @@ Røldal
 Rølles
 Røllång, Röllaang
 Rølsås, Rösaas
+Rømmen
 Rømoen
 Rømskog
 Røn
@@ -6437,6 +6415,7 @@ Rønningen
 Rønningsgrenda
 Rønnåbakken, Rönaabak, Rønåbakk
 Rønset
+Rønvik, Rønnvik
 Røra
 Rørdal
 Røre
@@ -6451,13 +6430,17 @@ Røsegg, Roseg
 Røseplassen, Røsebygda
 Røsfjæra, Rysfjæren, Ryssfjöra
 Røssholmen
+Røssnes, Rösnes, Røssnes i Salten
 Røssneshamn, Röysnes, Røsnes, Røsneshamn, Røysneshamn
 Røssnesvågen, Rösnesvaagen, Röstnesvaag, Røsnesvåg
 Røsstad
+Røssvoll, Rösvold, Rösvoll, Rösvollnes
 Røsså, Rösaaen, Rössaaen, Røssåga
 Røst, Røst kommune
+Røstad, Rødstad
 Røstby
 Røstvangen
+Røsvik, Rosviken
 Røtinga, Rötingi, Røtingen
 Røtterudmoen
 Røv, Rövsklen
@@ -6490,7 +6473,6 @@ Røyskår
 Røysland neire
 Røytvoll, Röitvold
 Saddiidvuobmi, Sandemarka, Sáttiidvuopmi
-Saeter, Nordre Sæter
 Saga
 Sagatun
 Sagbakken
@@ -6824,7 +6806,6 @@ Skagestad
 Skagnes
 Skakkebakken
 Skakto
-Skaland
 Skalle, Skalde
 Skallestad
 Skallevoll
@@ -6833,7 +6814,6 @@ Skamdal, Skandal
 Skammestein
 Skanshagen
 Skantebygda, Skantebygden
-Skara, Skaaraa
 Skaraberget
 Skaralia
 Skarberget, Skarberg, Skardberget yt, Skerberget
@@ -6847,7 +6827,6 @@ Skardsvåg, Skardsvaag, Skardsvang, Skarsvaag
 Skare
 Skarestad
 Skarestrand
-Skaret
 Skari
 Skarnes, Skarnes Stasjonsby
 Skarpeid
@@ -7107,6 +7086,7 @@ Skytterhågen
 Skáidi
 Skåbu, Skaabu, Skålbu
 Skåkåsen
+Skåland
 Skålbrekka, Skaalbrekken
 Skålbunes, Skaalbunes
 Skålbø, Skaalbö, Skovlabø
@@ -7123,10 +7103,12 @@ Skånøya
 Skår
 Skårdalen
 Skårer, Skaarer
+Skåret
 Skårvangen
 Skårvangssætrin
 Skårvik, Skaarvik, Skorvik
 Skårvågen, Skaarvaagen, Skårvåg, Skårvågen i Vesteralen
+Skårå, Skaaraa
 Skåtanlia
 Skåtøy, Skaatö
 Skåum
@@ -7340,7 +7322,6 @@ Songe
 Songnes
 Songstad, Sognstad
 Songvik, Songvig
-Sordal
 Sorgenfri
 Sorknes
 Sorknesfeltet
@@ -7521,7 +7502,6 @@ Stohponášši
 Stokka
 Stokkan
 Stokkastranda
-Stokke
 Stokkebekken
 Stokkelandsmonen
 Stokken
@@ -7549,7 +7529,6 @@ Storbergvika
 Storbråten, Storbraaten
 Storbugten
 Storbukt, Storbukta
-Stordal
 Stordalen
 Stordalstrand
 Store Alteren
@@ -7627,7 +7606,6 @@ Storvågan, Storvaagan
 Storå, Storaa, Stuorrovvi
 Storås, Storaas
 Strand, Strand i Namdalen, Strand kommune
-Stranda, Flerengstranda, Florengstranden, Strandaa
 Strandaholmen
 Strandalykkja
 Strandebarm
@@ -7640,6 +7618,7 @@ Strandrud
 Strandsætra
 Strandval
 Strandvik
+Strandå, Flerengstranda, Florengstranden, Strandaa
 Straum, Straum i Hitra, Ström
 Strauman
 Straumbotn, Strömbotn
@@ -7710,6 +7689,7 @@ Stålvikbotn, Staalvikbotn
 Stårheim, Staarhejm
 Stø
 Støa, Stöen
+Støkke
 Stølan
 Støland
 Stølbygda
@@ -7719,6 +7699,7 @@ Stølgardan
 Stølo
 Stølsgrenda
 Stølsvika, Stolsvik, Stølsvigen, Stølsviken
+Størdal
 Størdalsbugen, Stördalsören
 Støren
 Størjen
@@ -7877,7 +7858,7 @@ Sylte, Sylte i Vanylven
 Sylvarnes
 Synes, Synnes
 Synnevågen, Synnevåg
-Synnøvjorda, Synnøvjord
+Synnøvjorda, Synnövjord
 Synstgardsætra
 Synstlie, Synslie
 Synstnes
@@ -7900,7 +7881,7 @@ Såmmårvål
 Såsegg, Saaseg
 Såstad, Saastad
 Såttåhaugen
-Sæbo, Sæbövagen
+Sæbø, Sæbövagen
 Sæbøvik
 Sæla
 Sælen
@@ -7909,6 +7890,7 @@ Særendsgrend
 Sæsol
 Sæstad
 Sætenes
+Sæter, Nordre Sæter
 Sæterbygdi
 Sætermo, Setermo
 Sætersaga, Sætersagen
@@ -7992,6 +7974,7 @@ Sørby
 Sørby Østre
 Sørbyøya
 Sørbø, Sørbøvåg
+Sørdal
 Søre Brekkom
 Søre Stronde
 Søre Trollhovd
@@ -8213,7 +8196,6 @@ Todalsøra
 Tofsrud
 Toft
 Tofta
-Tofte, Toffte, Tofte i Hurum
 Tofteland lier
 Toften
 Toftenes
@@ -8252,7 +8234,6 @@ Torgauten, Strömtangen
 Torgernes
 Torget
 Torjul, Torgjul
-Tornes, Thornæs, Tornes i Romsdal
 Torp
 Torpegrenda
 Torrud
@@ -8474,6 +8455,7 @@ Tårnvika, Taarnvik, Tårnvik
 Tårstad, Taarstad, Tarnstad
 Tælavåg, Tellevågen
 Tøa
+Tøfte, Toffte, Tofte i Hurum
 Tømmerdal
 Tømmerdalen
 Tømmereik
@@ -8493,6 +8475,7 @@ Tørhogg, Törhaug, Tørrhogg
 Tørklephagen
 Tørkopp, Torkop
 Tørnebysætra
+Tørnes, Thornæs, Tornes i Romsdal
 Tørrem
 Tørring
 Tørråsen
@@ -8648,7 +8631,6 @@ Valdskrå
 Valebjørg, Valebjör
 Valebygda
 Valebø
-Valen, Vaten
 Valestrandfossen, Valestrandsfossen
 Valevatn
 Valevåg
@@ -8867,8 +8849,8 @@ Vestersjø
 Vestertana, Ađga, Deanodat, Gárgogecce
 Vestfossen
 Vestgard, Vestgaard
-Vestgarden
 Vestgrenda
+Vestgården
 Vestli
 Vestlykkja
 Vestmarka
@@ -8877,7 +8859,7 @@ Vestnes
 Vestpollen
 Vestra Mosterhamn
 Vestre
-Vestre Askerøy, Askeröen, Askerøy, Vestre Askerø
+Vestre Askerøy, Askeröen, Askeröy, Vestre Askerø
 Vestre Ekeberg
 Vestre Fidja
 Vestre Gausdal, Bödalen
@@ -9104,6 +9086,7 @@ Vålaugmoen, Vaalaugmoen
 Våle
 Vålebru, Vaalebru
 Våleheddet
+Vålen, Vaten
 Våler, Vaaler, Vålbyen, Våler i Solør
 Vålåsjø, Vaalaasjö
 Vårdal, Vaardal
@@ -9272,6 +9255,8 @@ Yxnøy, Yxney
 Ålfoten, Aalfoten, Alloten
 Ålgård, Aalgaard
 Ålmo, Aalmo
+Ålset, Aalset
+Ålstad, Aalstad
 Ålsætra
 Åmelfot, Aamelfot, Omeifot
 Åmland, Aamland
@@ -9284,6 +9269,7 @@ Yxnøy, Yxney
 Åmsosen, Aamsosen, Åmosen
 Åna-Sira, Aana-Sira
 Åndal, Aandal
+Åndalen, Aandalen
 Åndalsnes, Anbalsnes
 Åndervåg, Aandervaag
 Åneby, Aaneby
@@ -9317,12 +9303,16 @@ Yxnøy, Yxney
 Årland, Aarland
 Årlia
 Årlifoss, Aarlifoss
+Årnes, Aarnes, Årnes i Telemark
 Årnessetra
 Åros, Aaros
 Årsand
 Årsandøy, Aarsand
 Årsby, Aarsby
+Årset, Aarset, Årset i Veøy
 Årsland, Aarsland
+Årstad, Aarstad
+Årstein, Aarstein
 Årstøl
 Årvik, Aarevik, Aarvik, Aarviksand, Årviksand, Årviksanden
 Årvåg, Aarvaag, Årråg
@@ -9353,19 +9343,23 @@ Yxnøy, Yxney
 Åsenhus
 Åserum, Aaserum
 Åset, Aaset
-Åsgard, Aasgaard
 Åsgardan, Aasgardann, Åsgardane
 Åsgrend
+Åsgård, Aasgaard
 Åsgården
 Åsgårdstrand, Aasgaardstrand
 Åshaug, Aashaug
+Åsheim, Aasheim
 Åsjorda, Aasjorden
 Åskal, Oskál
+Åsland, Aasland
 Åslandsgrend, Aaslandsgrend
 Åslia
 Åsly
 Åsmul
 Åsmulen
+Åsmundvåg, Asmundvaag, Osmundevåg, Osmundvaag
+Åsnes, Aasnes, Aasnæs
 Åssiden Terrasse
 Åsskard, Aasgaard, Åasskard, Åskard
 Åssum
@@ -9375,6 +9369,7 @@ Yxnøy, Yxney
 Åsvik, Aasvik
 Åsødegårdene
 Åtangen, Aatangen, Atange
+Åvedal
 Åvesland, Aavesland
 Æli
 Æliløkken, Eliløkken
@@ -9398,6 +9393,7 @@ Yxnøy, Yxney
 Øksfjord, Akšuvuodna, Ákšovuotna
 Øksfjordbotn
 Øksne
+Øksnes
 Øksneshamn
 Økstra
 Ølbør
@@ -9415,21 +9411,25 @@ Yxnøy, Yxney
 Øraunestad, Öraune, Øranestad
 Ørbekk, Örbæk
 Ørbogen, Örbog
+Øre
 Ørebakke
 Ørekvam
 Øresvika, Øresvik
 Ørje
 Ørmen
+Ørnes
 Ørnesmoen, Örrnes, Øyrnes
 Ørnvik, Ørnvika
 Ørpen
 Ørsjødalen, Örsiden, Ørsidalen, Ørsjødal
 Ørsnes
 Ørsta
+Ørstad
 Ørstavik
 Ørstveit
 Ørsvåg, Örsvaag
 Ørvella
+Ørvik
 Østabø
 Østberg
 Østborg, Austborg
@@ -9472,8 +9472,8 @@ Yxnøy, Yxney
 Øverby
 Øverbygda
 Øvereng
-Øvergard, Övergaard
 Øvergrende
+Øvergård, Övergaard
 Øverland
 Øverleitet
 Øverli
@@ -9532,7 +9532,6 @@ Yxnøy, Yxney
 Øvstabøstølen
 Øvstebø
 Øy
-Øya, Öen, Öien
 Øyan, Öian
 Øyangen
 Øyarhamn
@@ -9543,7 +9542,7 @@ Yxnøy, Yxney
 Øyer (Hafjell)
 Øyeren, Öieren
 Øyfjord
-Øygard, Ødegård
+Øygard, Ödegard
 Øygarden, Ödegaard, Ødegård
 Øygardene
 Øygardsgrendi, Øygardsgrend
@@ -9564,6 +9563,7 @@ Yxnøy, Yxney
 Øysætra
 Øyum
 Øyuvstad, Öyulfstad
+Øyå, Öen, Öien
 Činavuohppi, Trollholmsund
 Čoallejárnjárga
 Čohkkugieddi

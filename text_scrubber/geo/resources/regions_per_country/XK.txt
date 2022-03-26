@@ -432,7 +432,7 @@ Dubovë, Dubovi
 Dubočak
 Dubočak Potok
 Dubrava
-Dubrave
+Dubravë
 Dudesh, Dudeš, Žig Afizov
 Dugacko Bilo
 Duganjivski Ašt
@@ -520,7 +520,7 @@ Garski Rid
 Garvan
 Gatnjanska Reka
 Gatšica
-Gazivodsko Jezero, Gazivoda Jezero, Gazivoda Lake, Gazivode Lake, Liqeni i Gazivodës, Језеро Газиводе
+Gazivodsko Jezero, Gazivoda Jezero, Gazivoda Lake, Gazivode Lake, Jezero Gazivode, Liqeni i Gazivodës
 Gaščen
 Gemitaš
 Gini Voda
@@ -674,7 +674,7 @@ Grope
 Grotinë
 Grulicë, Grulica
 Grčki Dupki
-Gubavac, Gubavac Čuka
+Gubavać, Gubavac Čuka
 Gubetinska Njiva
 Gudič
 Gumništanska Reka, Lumi Gumnishtanska
@@ -1032,9 +1032,9 @@ Kodra e Ljutinis, Kodraljutinis
 Kodra e Llaushës, Lauško Brdo
 Kodra e Logjes, Lovska Brdo
 Kodra e Lutës
-Kodra e Made
 Kodra e Madhe
 Kodra e Male
+Kodra e Mađe
 Kodra e Mbretit, Ovčarsko Brdo
 Kodra e Mesme
 Kodra e Milaimit
@@ -1070,7 +1070,7 @@ Kodra e Vorreve
 Kodra e Voćes
 Kodra e Vrimave
 Kodra e Zeks
-Kodra e Zeze
+Kodra e Zezë
 Kodra e Zhveshur
 Kodra e Zveshur
 Kodra e Çerkezit
@@ -1114,7 +1114,7 @@ Komuna e Istogut, Istog, Istogut, Komuna e Burimit
 Komuna e Junikut, Junik, Opština Junik, Општина Јуник
 Komuna e Kaçanikut, Kaçanik
 Komuna e Klines, Klinë, Opština Klina, Општина Клина
-Komuna e Kllokotit, Kllokot, Opština Klokot, Клокот, Општина Клокот
+Komuna e Kllokotit, Kllokot, Klokot, Opština Klokot, Општина Клокот
 Komuna e Leposaviqit, Leposaviq
 Komuna e Malisheves, Komuna e Malasit, Malishevë, Malishevës
 Komuna e Mamushës, Mamushë, Mamuša, Opština Mamuša, Мамуша, Општина Мамуша
@@ -1123,9 +1123,9 @@ Komuna e Obiliqit, Kastriot
 Komuna e Parteshit, Opština Parteš, Partesh, Parteš, Општина Партеш
 Komuna e Pejës, Pejë
 Komuna e Prishtinës, Prishtinë
-Komuna e Ranillugut, Opština Ranilug, Ranillug, Општина Ранилуг, Ранилуг
+Komuna e Ranillugut, Opština Ranilug, Ranillug, Ranilug, Општина Ранилуг
 Komuna e Shtimes, Shtime
-Komuna e Skenderajt, Komuna e Skenderaj, Skënderaj, Sërbicës
+Komuna e Skenderajt, Komuna e Skenderaj, Skenderaj, Sërbicës
 Komuna e Thërandës, Suharekë, Suharekës
 Komuna e Vitisë, Viti, Vitina
 Komuna e Zubin Potokut, Zubin Potok
@@ -1158,7 +1158,7 @@ Kosovac
 Kosovica, Padinski Potok
 Kosoviḱ, Kosović
 Kosovo
-Kosovo Polje, Amselfeld, Fusha e Kosovës, Fushë Kosovë, Komuna e Fushë-Kosovës, Kossovo, Opština Kosovo Polje, Општина Косово Поље
+Kosovo Polje, Amselfeld, Fusha e Kosovës, Fushë Kosovë, Komuna e Fushë Kosovës, Kossovo, Opština Kosovo Polje, Општина Косово Поље
 Kostadinički Rid
 Kostadinski Potok
 Kostino Brdo
@@ -1393,7 +1393,6 @@ Lisičji Kamen
 Lisičji Potok
 Listran
 Litkovac
-Livade
 Livadhet  Agjovica
 Livadhet Kelimark
 Livadhet e Baballoqit
@@ -1409,6 +1408,7 @@ Livadhë
 Livadica, Ливадица
 Livadice
 Livadički Breg
+Livađe
 Livočka Reka
 Ličovište
 Lištar
@@ -1820,7 +1820,7 @@ Onarnik
 Opolje, Opojë, Opolja
 Opolje Opština
 Opteruški Potok
-Opština Zvečan, Komuna e Zveçanit, Zvečan, Звечан, Општина Звечан
+Opština Zvečan, Komuna e Zveçanit, Zveçan, Звечан, Општина Звечан
 Opština Štrpce, Komuna e Shterrpcit, Komuna e Shtërpcës, Shtërpcë, Štrpce, Štrpci, Општина Штрпце, Штрпце
 Orahovac, Komuna e Rahovecit, Opština Orahovac, Rahovec, Општина Ораховац, Ораховац
 Oraš
@@ -1838,10 +1838,10 @@ Orlovac
 Orlovo Brdo
 Ormanovo
 Ornica
-Ornice
+Ornicë
 Oshtrë, Oshtra
 Osojački Potok
-Osoje, Osoja
+Osojë, Osoja
 Oster Kamen
 Ostrič
 Ostrovička Reka
@@ -1920,7 +1920,7 @@ Picelj
 Piktoša
 Piljevac
 Pinoglava, Roga Mol
-Piribeg, Пири Брег
+Piribeg, Piri Breg
 Pisha, Piša
 Pishina
 Piskavica
@@ -2026,7 +2026,7 @@ Priqin Breg
 Prisol
 Pristina District, Pristina, Pristina Districte, Prištinski okrug, Rajoni i Prishtinës, Приштински округ
 Prizren, Komuna e Prizrenit, Opština Prizren, Општина Призрен
-Prizren District, Rajoni i Prizrenit, Призренски округ
+Prizren District, Prizrenski okrug, Rajoni i Prizrenit
 Prizrenska Bistrica
 Prizrensko Polje
 Prištevka
@@ -2255,7 +2255,7 @@ Rrezjë, Rrezja
 Rtina
 Rudin
 Rudina
-Rudine
+Rudinë
 Rudnički Potok
 Rudoka, Babašnica, Rudoka Planina
 Rugova, Rugovë
@@ -2367,7 +2367,7 @@ Slanište
 Slapska Reka
 Slovinjska Čuka
 Slubička Reka
-Slupe, Slupa
+Slupë, Slupa
 Smirska Reka
 Smirski Vrh
 Smonica

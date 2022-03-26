@@ -42,7 +42,7 @@ Amonicë, Amonica, Amonizza
 Andon Poçi, Andon-Poç
 Andres
 Anola, Anolë
-Aprip, Aprip-Guri, Apripa, Apripa e Gurrit, Apripa e Parava, Apripa-Gurit, Apripë, Apripë e Gurit, Aprripe, Gurit
+Aprip, Aprip-Guri, Apripa, Apripa e Gurrit, Apripa e Parava, Apripa e-Gurit, Apripë, Apripë e Gurit, Aprripe, Gurit
 Apripa e Keke, Apripa e Keqe, Apripë e Keqe
 Apsallë, Apsalla, Apsas
 Ara të Lumit
@@ -64,7 +64,7 @@ Armen, Armeni
 Arras, Arrasi, Арас
 Arrë-Mollë, Aranëmol e Lur, Arrenmollë e Lurës, Arrmalla, Arrmallë, Arrë-Mallë, Arrënmolla, Arë Molla, Arë-Mallë, Avrenmolla
 Arrën, Arn, Arni, Arrn, Arrni, Arrëni
-Arrëz, Arcë, Arda, Arrza, Arrëza, Arrëzi, Arrëzë, Ars, Arsi, Arëz, Arëza, Arëzë, Kad pashanj, Kadipashaj, Kadipashan, Арза
+Arrëz, Arcë, Arda, Areza, Arrza, Arrëza, Arrëzi, Arrëzë, Ars, Arsi, Arza, Arëz, Arëzë, Kad pashanj, Kadipashaj, Kadipashan
 Arrëza e Madhe, Areza, Arrëz e Madhe, Arrëza, Arrëzë, Arrëzë e Madhe, Arza Disopra, Arzë e Sipërme
 Arrëza e Vogël, Arrëz e Vogël, Arrëzë e Vogël, Arza di Sotto, Arza e Poshtëme, Arza e Poshtër, Arzë e Poshtër
 Arshi-Lëngo
@@ -95,7 +95,7 @@ Bago, Bagoi, Bagoja, Bagojë, Bagos, Bagosi, Bagosina, Bagosinë
 Bahutë, Bahutaj
 Bahçallëk, Bahçalleku, Bačalek
 Bajkaj, Bajkaji, Platanidhë
-Bajram Curri, Bajram, Bajram Curr, Kolgecai, Kolgecaj, Байрам-Цурри, Бајрам Цури
+Bajram Curri, Bajram, Bajram Curr, Bayram Tsurri, Kolgecai, Kolgecaj, Бајрам Цури
 Bajramaj, Colaj, Mal' i Kolajt, Mali i Kolaj
 Bajzë, Bajeza, Bajza
 Bakall
@@ -183,7 +183,7 @@ Belinë, Bardhushe, Belin, Belina
 Belishovë, Belishova, Belisova, Belišov, Belushi
 Bellovë, Bellova, Belova, Bllova, Blova
 Belorta, Belortaja, Belortë, Bilurta
-Belsh, Belshi, Belëshi, Belëshit, Белеш
+Belsh, Belshi, Belësh, Belëshi, Belëshit
 Belsh-Qendra, Belësh-Qendra
 Beltojë, Beltoja
 Beluç, Beljuši, Beluci, Belushi
@@ -378,7 +378,7 @@ Burimas, Burimasi, Burimi, Golloberda, Gollobërdha, Gollobërdë, Goloberda, Go
 Burizanë, Borizan, Borizanaj, Borizanë, Burine, Burines, Burizana, Burizanaj, Burizanej, Burizaneja
 Buronjë, Buronja, Mavropul, Mavropull, Mavropulli, Mavropulo, Mavropulon
 Burranj, Burani, Buranj, Buranji, Buranjë, Burraj, Burranji, Burrenji
-Burrel, Burela, Bureli, Burelë, Burrelë, Бурел, Буррели
+Burrel, Burela, Bureli, Burelë, Burreli, Burrelë, Бурел
 Bush, Bushi
 Bushat, Buschatti, Busciala, Busciati, Bushati, Bušati, Njësia administrative Bushat
 Bushkash, Beshkashi, Bishkashi, Bushkashi, Pshkashi
@@ -397,7 +397,7 @@ Buzuq, Bozuchi, Buzuqi
 Buzë e Ujit, Bujzaujt, Bujzauyt, Buz-Uji, Buza e Ujit, Buzë-Uj, Buzë-Uji
 Buzëliqen, Buzliqen, Buzliqeni, Buzëliqeni, Zagradec, Zagradeci, Заградец
 Buzëmadhe, Busamadhija, Buzmadhi, Buzmadhja, Buzmadhjë, Buzëmadhi
-Buçimas, Buçimasi, Starova, Старово
+Buçimas, Buçimasi, Starova, Starovo
 Bylysh, Bylyshi
 Bytyç, Bitiči
 Bzhet-Makaj
@@ -424,11 +424,9 @@ Cacollare
 Cahan, Cahani, Sahan, Çabani
 Cakarac
 Cakran, Cakrani, Cakrrani, Zakran
-Calaj
 Cam, Qam, Qami, Çame, Çami
 Canaj
 Cangonj, Cangojë, Cangoni, Cangonji, Tsangon, Tzangon, Çangoj, Загон
-Celaj
 Cencë
 Cenë
 Cerava, Cerav, Çëravë, Çërrava, Çërravë, Черава
@@ -441,7 +439,6 @@ Cerkovinë, Cerkanina, Cerkevina, Cerkovin, Cerkovina, Cerkovë, Zercovina
 Cerova e Malit
 Cerovë, Cerova, Sciarova
 Cfir, Cfiri, Cfirë, Sfira, Zfiri
-Cikallesh, Çikalleshi
 Cingar, Cingari
 Cingari i Sipërm
 Cinlit
@@ -457,10 +454,9 @@ Curraj i Epërm, Curaj i Epër, Curaj i-epermë, Curraj Epër, Curraj i Epër
 Currilat
 Cyle, Sfilë
 Cërnalevë, Cernalev, Cernaleva, Cërnavela, Çernoleva
-Cërrik, Cërriku, Valasi, Церик, Церрик
+Cërrik, Cerriku, Valasi, Церик, Церрик
 Cërrila e Re
-Cërrilë, Bardanj, Bardhanj, Cerila, Cerilë, Cerrila, Mushanj
-Cërujë, Ceraja, Cerunjë, Cruja, Currunja, Cërnje, Cërruja, Cërrujë, Cërrunja, Cëruja, Cërunja
+Cërujë, Ceraja, Ceruja, Cerunjë, Cruja, Currunja, Cërnje, Cërruja, Cërrujë, Cërrunja, Cërunja
 Dacaj
 Dais-Barbas, Daias, Daias-Barbas, Daias-Barbasi, Daijas-Barbas, Daijas-Barbasi
 Dajlani
@@ -475,7 +471,7 @@ Damjanec, Damjaneci, Domjanec
 Damës, Damasi, Dams, Damsi, Damzi, Damësi
 Danaj
 Danushi, Porgan
-Dardhas, Beragozhd, Beragozhdi, Beragozhdë, Bragozhati, Bragozhdë, Dardhasi, Берагожда
+Dardhas, Beragozhd, Beragozhdi, Beragozhdë, Bragozhati, Bragozhdë, Bëragozhda, Dardhasi
 Dardhë, Darda, Dardha, Darza, Darze, Dhardha
 Darragjat, Daragjat, Daragjati, Darragjati, Deridat
 Dars, Daresi, Darsi
@@ -518,7 +514,7 @@ Dhrovian, Dhrovjan, Dhrovjani
 Dhuvjan, Dhunjani, Dhuvjani, Zovian, Zuvjan, Zuvljani
 Dhëmblan, Dhëmblani, Zemblan
 Dhërmi, Dherna, Dhrimazes, Dhërm, Dhërmiu, Drimades, Irmi, Дерми
-Diellas, Djellas, Djellasi, Sciulin, Shulini, Shullini, Suli, Sulin, Шулин
+Diellas, Djellas, Djellasi, Sciulin, Shulin, Shulini, Shullini, Suli, Sulin
 Dipjakë, Dipjaka, Dypjak, Dypjaku, Dyqaka, Dyqakë
 Dishaj, Hysen Dishaj
 Dishat, Dishati
@@ -528,7 +524,7 @@ Dobranj, Dobran, Dobrani, Dobranji, Dovranji
 Dobraç, Dobraçi
 Dobrenj, Dobregne, Dobrej, Dobreni, Dobrenja, Dobrenji, Dobrenjë, Mirakës
 Dobresh, Dobreshi, Dobrreshi, Dobëresh, Mirash
-Dobrunë, Dobrunna, Добруна
+Dobrunë, Dobruna, Dobrunna
 Dobrushë, Dobrusha, Doprusha
 Dobër, Dobra, Dobre
 Dobërçan, Dibërçani, Dobrëçani, Dobërçani
@@ -538,7 +534,7 @@ Dohoshisht, Dohashishta, Dohashishtë, Dohoshishti, Dëhoshishtë, Душишт�
 Dojan, Dojane, Dojani
 Dokaj
 Dokollarre
-Dolan, Shqiponja, Долани
+Dolan, Dolani, Shqiponja
 Dolanak, Dolanaku
 Dolanec, Dolaneci
 Dollan
@@ -553,7 +549,7 @@ Domën, Damn, Domanai, Domeni, Domni
 Donofrosë, Donofrosa, Dranofrosa, Dronofos, Dronofosi, Dronofros, Dronofrosë
 Dopaj, Dopej
 Dorakaj
-Dorëz, Dorezë, Dorsi, Dorz, Dorza, Dorzë, Dorës, Dorësi, Dorëzi, Dosesi, Дореза
+Dorëz, Dorezi, Dorezë, Dorsi, Dorz, Dorza, Dorzë, Dorës, Dorësi, Dorëza, Dosesi
 Doshnicë, Deshnica, Deshnicë, Desnizza, Doshnica, Дошница
 Dost, Dosti
 Dotaj, Dotal
@@ -567,7 +563,7 @@ Dragot-Fermë, Dragot-Ferma
 Dragot-Sulovë, Dragot-Sulova, Dragoti i Sulovës, Drangonasi
 Dragovoi
 Dragoç, Dragoçi
-Dragua-Bulqizë, Dragu, Dragua-Bulqiza, Drague, Drague-Bulqiza, Drague-Bulqizë, Драгун
+Dragua-Bulqizë, Dragu, Dragua-Bulqiza, Drague, Drague-Bulqiza, Drague-Bulqizë, Dragun
 Dragushë, Dragush, Dragusha
 Draj-Reç, Draj-Reçi, Draja, Drajë
 Dramosh, Dramash, Dramoshi, Dramush, Dramusha
@@ -892,7 +888,7 @@ Goskova e Poshtme, Goskova Poshtë, Goskova e Poshtëme, Goskovë e Poshtme, Gos
 Goskova e Sipërme, Ano Goskova, Goskova Sipër, Goskovë e Lartë, Goskovë e Sipër, Goskovë e Sipërme
 Gostenckë, Gostanzca, Gostencka, Gostenska, Gostinckë
 Gostil, Gjostili, Gjostilj, Gostila, Gostili, Gostilë, Ðostilji
-Gostimë, Gostim-Mal, Gostim-Mali, Gostimë-Mal, Vizë, Vjza, Гостима
+Gostimë, Gostim-Mal, Gostim-Mali, Gostima, Gostimë-Mal, Vizë, Vjza
 Gostivisht, Gostiuishtë, Gostivishta, Gostivishti, Gostivishtit, Gostivishtë, Gostović
 Gostnisht, Goshisht, Goshtisht, Gosnisht, Gosnishti, Gosnishtë, Gostinisht, Gostivishti, Goznisht, Goznishta
 Gostromickë, Gostomicka, Gostomickë, Gostromicka
@@ -915,7 +911,7 @@ Gradishtë, Gradisht, Gradishta, Gradishti, Gradiza, Gradišta
 Gradiskije, Gradiskie
 Grakan, Grekan-Sulovë, Grekani, Grekani-Sulovë
 Gralishtë
-Gramsh, Gjamsh, Gramish, Gramish'i Lushnjes, Gramschi, Gramsci, Gramsh i Lushnjes, Грамши
+Gramsh, Gjamsh, Gramish, Gramish'i Lushnjes, Gramschi, Gramsci, Gramsh i Lushnjes, Gramshi
 Gramsh-Fshat, Gramshi
 Gramëz, Gramza, Gramëza
 Gran, Grani
@@ -931,7 +927,7 @@ Gremshlinj, Gremshllinj
 Grepckë, Graliskë, Grepcka, Grepckë-Dorezi, Grepckë-Dorëz, Grepcë-Dorëzi, Grepsa, Krepskë
 Grepësi
 Greshicë, Greshica, Grešic
-Greshnjë, Oreshnjë, Орешња
+Greshnjë, Oreshnja, Oreshnjë
 Grevë, Grerë, Greva
 Gri, Gria, Grij, Grija, Grië
 Gribë, Griba
@@ -1001,7 +997,7 @@ Gërmenj i Madh, Germaj-Çek, Germaj-Çoku, Germanj-Çeka, Grmenjçok, Gërmaj-�
 Gërmenji i Vogël, Cerma-gërmojë, Germaj Pasha, Germanj-Pasha, Germenji i Sipërm, Gërmaj i Vogël, Gërmej i Vogël, Gërmeni Pasha, Gërmenj i Vogël
 Gërnac, Garnac, Garnaci, Germec, Gernaci
 Gërnec, Dirnec, Grenec, Grenez, Grnec, Gërneci
-Gështenjas, Gështenjasi, Zervaskë, Зерваска
+Gështenjas, Gështenjasi, Zervaska, Zervaskë
 Gështenjë, Gështej, Gështeja, Gësteje, Gëstenja, Gëstenjë, Këhtêja, Këhtêjë, Костења
 Gëziq, Goziqi, Gziq, Gziqi, Gzyç, Gëziqi
 Habilaj, Habilej, Habiljej, Habllaj
@@ -1046,7 +1042,7 @@ Hazizollë, Gropa e Bardhë
 Hebë, Heba, Hebja, Hebje, Hepë
 Hekal, Hecali, Hehali, Hekali, Hekalj
 Helmas, Elmasi, Heljmas, Helmasi, Helmësi
-Helmës, Helmis, Helmësi
+Helmës, Helmesi, Helmis
 Helmës-Staraveckë, Helmës-Staravecka, Staravechka, Staravecka, Staraveckë, Staravez, Stavecka
 Helshan, Helhan, Helshani, Helshar
 Hemenraj, Ermeneraje, Hemenraje, Remendraj
@@ -1098,7 +1094,7 @@ Idrizaj
 Ikinas, Priftasi, Qinami
 Ilias, Iliasi, Iljas, Iljias
 Iliras, Ilirasi
-Iljarë, Furkë, Iliar, Iliar Munushtir, Iliar Munushtiri, Iliari, Iljar, Iljar Munushtiri, Iljari, Iljarë-Munushtir, Illjar, Ilyara, Manushtir, Monoshtiri, Munishtiri, Munushtiri
+Iljarë, Furkë, Iliar, Iliar Munushtir, Iliar Munushtiri, Iliari, Iljar, Iljar Munushtiri, Iljari, Iljarë Munushtir, Illjar, Ilyara, Manushtir, Monoshtiri, Munishtiri, Munushtiri
 Ilnicë, Ilnecë, Ilnica, Ilnojca, Llneca
 Imsht, Imsht-Sheqi, Imshta-Sheqi, Imshti, Imshtë-Sheq, Sheqit
 Imshtë, Imshta, Imšt
@@ -1176,7 +1172,7 @@ Kalis, Kalisi, Kallashi, Kallës, Калиш
 Kalivare, Kalivar, Kalivaren, Kalivari
 Kalivaç, Calivaci, Kalivaki, Kalivaçi, Kaljivaci, Каливач
 Kalive Gjoka
-Kallamas, Bezmisht, Bezmishti, Bezmište, Beznishta, Bezunishta, Kallamasi, Tuminec, Безмиште, Туминец
+Kallamas, Bezmisht, Bezmishti, Bezmishtë, Bezmište, Beznishta, Bezunishta, Kallamasi, Tuminec, Туминец
 Kallarat, Kalarat, Kaljarat, Kallarati
 Kalldrun, Kaldrun, Kaldruni, Kalldruni
 Kallm Maliqaj, Calmi, Kallm, Kallmi, Kallmi i Maliq, Kalm, Kalmi
@@ -1204,7 +1200,7 @@ Kamiçan, Kamivani, Kamiçani, Komicani
 Kamnik, Kamniku, Kannik
 Kamunah, Kamunaha, Kamunahu, Kamunak, Kamunaku
 Kamçisht, Kamshishti, Kamçishta, Kamçishti, Kamçista, Kamëçishti
-Kamëz, Camza, Kambëza, Kamzë, Камза
+Kamëz, Camza, Kambëza, Kamza, Kamzë
 Kanajak, Kanajaki
 Kanaparaj, Kanaparej, Konaparej
 Kandër, Kanderi, Kandri, Kodrë
@@ -1237,7 +1233,7 @@ Karkanjoz, Carcagnos, Karkanjos, Karkanjosi, Karkanjozi
 Karkavec, Karkaveci
 Karlmeraj
 Karma e Hotit
-Karmë, Karma, Karma Epër, Karma e Epërme, Karme' e Epër, Karmë e Epërme
+Karmë, Karma, Karma Epër, Karma Epërme, Karme' e Epër, Karmë e Epërme
 Karpen, Carpeni, Karpan, Karpeni, Karpi, Karpun Rystanja, Ristone Karpun
 Karreç, Kareci, Karreci, Koreč, Korrasi, Korreç, Korreçi
 Karroq, Karoli, Karoq, Karoqi, Karroqi, Karroqë
@@ -1269,7 +1265,7 @@ Katundi i Vjetër, Katund i Vjetër
 Katundi i Vogël, Katund i Vogël, Obok, Обоки
 Katundishtë, Katundisht, Katundishta, Kodzanishti
 Katërlis, Katërlisi
-Kavajë, Cavaia, Cavaja, Kavaj, Kavaïa, Кавайе, Кавая, Каваја
+Kavajë, Cavaia, Cavaja, Kavaj, Kavaja, Kavaïa, Кавайе, Кавая
 Kavaklli, Kavakli, Kavakliu, Kavakllia, Kavakllija, Kavallija
 Kavaçovë
 Kazaz
@@ -1303,7 +1299,6 @@ Klos, Calos, Dullinjasi, Kljos, Klosi, Klosë, Këlos, Këlosi
 Klos-Katund, Klosi
 Knetë, Kneta, Këneta
 Koblarë, Coblara, Koblara
-Kocaj, Bulqiza, Bulqizë Koçaj, Kocani, Kosej, Koçaj-Bulqiza, Koçaj-Bulqizë, Koçaj-Tavaren, Koçaj-Tavareni, Koçan
 Kocit
 Kocul, Cozuli, Kocilji, Koculi
 Kodhel, Kodheli, Korel
@@ -1374,8 +1369,8 @@ Korovesh, Koroveshi
 Korrë, Kora, Korra, Korë
 Korthpulë, Curdpula, Korfpul, Korthpula, Kërpudha, Kërthpula, Kërthpulë
 Korçeraj
-Korçë, Corcë, Coritsa, Coritza, Coriza, Corizza, Corriza, Ghiortsa Corcia, Goritsa, Korche, Korica, Koritsa, Koritza, Korrça, Korrçë, Korytsa, Korça, Körice, Корча
-Kosharisht, Kasharishta, Kosharishti, Kosharist, Kosharista, Koshorisht, Koshorishti, Košarist, Кошариште
+Korçë, Corcë, Coritsa, Coritza, Coriza, Corizza, Corriza, Ghiortsa Corcia, Goritsa, Korcha, Korche, Korica, Koritsa, Koritza, Korrça, Korrçë, Korytsa, Korça, Körice
+Kosharisht, Kasharishta, Kosharishti, Kosharishtë, Kosharist, Kosharista, Koshorisht, Koshorishti, Košarist
 Koshnicë, Koshnica, Кошница
 Koshovicë, Kochovitsa, Kokovic, Kokovica, Kokovio, Koshovica, Kushovica
 Koshtan, Kashtani, Koshtani, Kostani
@@ -1386,7 +1381,7 @@ Kosova e Vogël, Kosov e Vogel, Kosova Mikra, Kosova i Vogël, Kosovë e Vogël
 Kosovec, Kosoveci, Косовец
 Kosovë, Kosov e Male, Kosova, Kosova Megali, Kosova e Madhe, Kosova i Madhë, Kosovë e Madhe, Kosovë-Gostinishti, Kosovë-Gostnisht, Kosovë-Gostnishti
 Kostar, Costari, Kostari, Kosturi
-Kostenjë, Costegna, Kosteja, Kostenia, Костења
+Kostenjë, Costegna, Kosteja, Kostenia, Kostenja
 Kostreni i Vogël, Kostren i Vogël
 Kostriçani, Kostriçan, Костричани
 Kostur, Kosturi
@@ -1407,6 +1402,7 @@ Kozarë, Kozara, Kozarja
 Kozel, Kocel, Kozeli
 Kozhnje, Kosnie, Kozhe, Kozhnja
 Koç-Sheshaj, Seše, Sheshanji
+Koçaj, Bulqiza, Bulqizë Koçaj, Kocani, Kosej, Koçaj-Bulqiza, Koçaj-Bulqizë, Koçaj-Tavaren, Koçaj-Tavareni, Koçan
 Krahës, Krahës Numër Një, Krahësi, Krahësi Numër Një
 Krahësi i Sipërm, Krahës Numër Dy, Krahës i Sipërm, Krahësi Numër Dy
 Kraj-Reç, Kraj i Reçit, Kraj-Reçi, Kreja
@@ -1417,7 +1413,7 @@ Kraksniq, Kraksniqi
 Krane, Crané, Karane, Karanea, Kranea, Kraneja, Kranejë, Kranja
 Krapës, Kraps, Krapsi, Krapësi
 Krasniq, Krasniqi
-Krastë, Cras, Kras, Krasi, Краста
+Krastë, Cras, Kras, Krasi, Krasta
 Krej-Lurë, Krej e Lurës, Krej-Lura, Krejë, Krejë e Lurës, Krêja
 Krekëz, Krekza, Krekëzë, Kresëza, Krëkëza
 Kremenar, Cremenare, Kremanari, Kremenara, Kremenari
@@ -1442,7 +1438,7 @@ Krrabë, Kraba e Vogël, Krraba, Krraba Vogel, Krrabe e Vog, Kërraba, Kërrabë
 Krrabë e Vogël, Kërrabë e Vogël
 Krroq
 Krua i Madh, Kru i Madhë
-Krujë, Akçehisar, Croia, Cruja, Krna, Kroja, Kroya, Kroïa, Krueja, Kruja, Круе
+Krujë, Akçehisar, Croia, Cruja, Krna, Kroja, Kroya, Kroïa, Krue, Krueja, Kruja
 Krumë, Kruma
 Krushovë, Krushova, Krushovc, Kurshova, Kurshovë, Крушово
 Krutja e Poshtme, Kruati i Poshtëm, Kruatje e Poshtme, Kruatje e Poshtëme, Krutja e Poshtëme, Krutje e Poshtme, Krutje e Postëme, Post Kruati
@@ -1612,12 +1608,12 @@ Lekër, Lekëri
 Leljet
 Leminot, Leminoti
 Lemnushë, Lemnush, Lemnusha
-Lenaj, Lenajt, Лена
+Lenaj, Lena, Lenajt
 Lenckë, Lencka
 Lengë, Lenga
 Lenias, Leniasi, Lenie, Schinapremtja, Scinapremte, Shenaprende, Shinapremta, Shinapremte, Shinepremtja, Shënapremte, Shënapremtja, Shënepremtja, Shënpremtja
 Leniq, Leniqi, Lenish
-Lenë, Лена
+Lenë, Lena
 Lepenicë, Lebenica, Lepenica, Lepenitsa, Ljepenica
 Lerë
 Leshaj
@@ -1642,11 +1638,11 @@ Leusë, Eleusa, Leusa, Lousë, Lusja
 Levan, Levan Plak, Levan Tepelenit, Levan-Samaraj, Levan-Samari, Levani, Levani Plakut, Levani Samar, Levani Samarit, Levani Samarës, Levani i Madh, Levani-Plak
 Levanaj, Levane, Ljevanaj
 Lezhan, Leshan, Leshani, Leshni, Lezhani, Liesgne, Lješni
-Lezhë, Alessio, Lesh, Leshe, Leshi, Lezh, Lezhe Rreth, Lisi, Lješ, Lyesh, Rrethi i Lezhës, Лежа, Леска
+Lezhë, Alessio, Lesh, Leshe, Leshi, Lezh, Lezha, Lezhe Rreth, Lisi, Lješ, Lyesh, Rrethi i Lezhës, Леска
 Lezollar, Lezollari
 Libofshë, Libofsha, Libovfš, Libovshë, Resh Libovtsa, Tregishte, Либовша
 Libohovë, Libhova, Libohov, Libohova, Libohova Qendër, Libohovo, Libokhovon, Либохова, Либохово
-Libonik, Liboniku, Либовник
+Libonik, Liboniku, Libovnik
 Librazhd, Labrazhd, Libohov, Libohovo, Libokhovon, Librash, Librazhdi, Librazhet, Libraždi, Либрадж
 Librazhd-Katund, Librazhd-Katundi, Librazhdi Katund
 Librazhd-Qendër, Hala, Librazhd Qëndre
@@ -1711,7 +1707,7 @@ Lojme, Ljojm, Lojma, Lojmëja
 Lolaj, Lalaj, Lolaj Aruçaj
 Lopan, Lapan, Lapanj, Lapanji, Lopanji
 Lopç, Lobç, Lopçi
-Losnik, Kula Loznikut, Losniku, Лозник
+Losnik, Kula Loznikut, Losniku, Loznik
 Lotaj
 Lotonjaj
 Lozhan, Lozhani
@@ -1725,7 +1721,7 @@ Luarë, Luari
 Luath
 Lubalesh, Libolesh, Lubaleshi, Lubelesh, Lubeleshi, Lublesha, Lubolesh, Pjeloreja, Љуболези, Љуболеш
 Lubinjë, Lubin, Lubinja, Murriza
-Lubonjë, Libonia, Ljubnj, Lubonja, Lubënja, Lubënjë
+Lubonjë, Libonia, Ljubnj, Lubenja, Lubonja, Lubënjë
 Ludricë, Ludrica, Lundri, Lundria
 Luf, Lufi
 Luftinja e Sipërme, Luftinja Numër Një, Luftinjë Numer Një, Luftinjë e Sipërme
@@ -1738,7 +1734,7 @@ Luk i Zi
 Lukaj
 Lukan, Lukani, Lukanj
 Lukaxhi, Lugaxhi, Lugaxhiu, Lugazhik, Lukaxhiu
-Lukovë, Lucova, Lukova, Луково
+Lukovë, Lucova, Lukova, Lukovo
 Lulëzim, Lulëzimi
 Lum
 Lumaj, Pulaha
@@ -1803,7 +1799,7 @@ Malaj, Malay-Dils, Mallaj
 Malaj i Epërm
 Malas, Bubsi i Dytë, Bubës i Dytë, Bubësi II, Bubësi i Dytë, Malasi
 Malas-Bregas, Mala Bregu, Malas Brek, Malas-Breg, Malas-Bregu
-Malas-Gropë, Malas Dajas, Malas Raya, Malas-Gropa, Malasgrop
+Malas-Gropë, Malas Dajas, Malas Gropa, Malas Raya, Malasgrop
 Malasejë, Malasej, Malaseja, Malaseji, Malaseni, Malasenj, Malusej
 Malavec, Malaveci
 Malecaj
@@ -2004,7 +2000,7 @@ Mokset, Mokseti
 Molisht, Molishti
 Moll' e Shoshit, Molat
 Mollagjesh, Molla Gjecit, Mollagjeshi
-Mollaj, Dooran, Dvoran, Molai, Molanj, Moljanj, Tepexhik, Дворани
+Mollaj, Dooran, Dvoran, Dvorani, Molai, Molanj, Moljanj, Tepexhik
 Mollas, Maulas, Moliasi, Mollasi, Motas, Молас
 Mollë
 Mollëkuqe, Moll-Kuqja, Mollakuqe, Mollkuqe, Mollë Kuoe, Mollëkuqja
@@ -2068,7 +2064,7 @@ Myselim, Kullaj Muselim, Kullaj Muselimi, Muselim, Myselimi
 Myç, Mici, Muc-Manze, Muçi, Myqi, Myçi
 Myç-Has, Muçhasi, Myc-Hasi
 Mzillë
-Mëgullë, Megule, Mengullë, Mgulla, Mgullë, Mgulë, Mëgulla, Mëngulla
+Mëgullë, Megule, Megulla, Mengullë, Mgulla, Mgullë, Mgulë, Mëngulla
 Mëhallëzë, Mëhallëza
 Mëhole, Muhole
 Mëkat i Ri, Mekat' i IItë, Mekat-i coban, Mekat-Çobani, Mekati, Mëkat-Çoban, Mëkati i II-të, Mëkati i ri
@@ -2154,7 +2150,7 @@ Nokovë, Nakovë, Nocova, Nokova
 Nomë
 Norgut, Notguti
 Novaj, Novaji, Novani, Novanj
-Novoselë, Navosela, Navoselë, Nevosej, Novasej, Novasela, Novesaj, Novesej, Novosej, Novoseja, Novosel, Novosela, Novoselj, Novosella, Novoselle, Novozel, Piskal-Novoselë, Ново Село
+Novoselë, Navosela, Navosele, Nevosej, Novasej, Novasela, Novesaj, Novesej, Novo Selo, Novosej, Novoseja, Novosel, Novosela, Novoselj, Novosella, Novoselle, Novozel, Piskal-Novoselë
 Novë, Mova, Nova
 Nuraj
 Nënmavriq, Nanmavrići, Nenmavrigi, Nënmavriqi
@@ -2267,7 +2263,7 @@ Pepaj, Pepë
 Pepel, Pepeli
 Pepellash, Pepelas, Pepelashi, Pepellashi, Pepellesh
 Pepsumaj
-Peqin, Pecin, Pekini, Pekinj, Peqini, Peqinj, Пекин
+Peqin, Pecin, Pekin, Pekini, Pekinj, Peqini, Peqinj
 Peqinaj, Pecino, Pecinë, Peqinai, Peqini, Picin, Picinë
 Peraj
 Perat, Perati
@@ -2340,7 +2336,7 @@ Planetë, Planet
 Plangaricë, Piangarica, Planganizë, Plangarica, Plangasi, Plyangaritsa
 Plani i Bardhë, Plan i Bardhë, Pllan i Bardhe, Pllani i Bardhe
 Plashniku-Dy, Plashnik, Plashnik i Vogël, Plashniku i Vogël, Plashniku-2
-Plashniku-Një, Plashnik, Plashnik i Madh, Plashnika, Plashniku i Madh, Plashniku i Math, Plashniku-1
+Plashniku-Një, Plashnik, Plashnik i Madh, Plashnika, Plashniku, Plashniku i Madh, Plashniku i Math
 Plasë, Plasa, Plasë e Poshtëme
 Plemerë, Pelmreja, Plemera, Plemeri, Plemr, Plemreja, Plemrë
 Plepa
@@ -2384,10 +2380,10 @@ Pollozhan, Polozhani
 Poloskë, Poleska, Polosca, Poloska
 Ponçarë, Pontcarë, Ponçara, Ponçari
 Popinarë, Popiavra, Popiavrë, Popinar, Popinara, Popinari, Popinat, Popinavra, Popinavë, Popmavra
-Popovinë, Poponijë, Poponivi, Поповина
+Popovinë, Poponijë, Poponivi, Popovina
 Poravë, Porav, Porava, Poravi, Porovi
 Poro, Poro e Vlonës, Poroja
-Porodinë, Породина
+Porodinë, Porodina
 Poroçan, Poroçani
 Porrepth
 Portat
@@ -2413,9 +2409,9 @@ Prekal, Prekali
 Prell, Prelli
 Premal
 Prencaj
-Prenisht, Prenishti, Prenishtë, Pronishti, Преништа
+Prenisht, Prenishta, Prenishti, Prenishtë, Pronishti
 Presekë, Preseka
-Pretushë, Pertushë, Pretushi, Претуша
+Pretushë, Pertushë, Pretusha, Pretushi
 Prevall, Pervali, Pervalla, Prevalli, Përvall, Përvalli, Përvallë
 Preven
 Prezë, Preza
@@ -2444,7 +2440,7 @@ Prush, Mëhalla e Epërme, Prusha, Prushi
 Psar, Psari
 Psari i Zi, Psar i Zi, Psarezi, Psari
 Pukë, Puca, Puka, Puka Katund
-Pulahë, Pulaha, Pulaha Numër Dy, Pulahë Numër Dy, Pulata, Pulatë, Puleha, Полата
+Pulahë, Pulaha, Pulaha Numër Dy, Pulahë Numër 2 (Dy), Pulata, Pulatë, Puleha, Полата
 Pulaj
 Punëmirë, Punmira, Punmire, Punëmir, Punëmira
 Pusi i Thatë, Pus i Thati, Pus i Thatë, Pusi Thate, Pusithat
@@ -2453,9 +2449,9 @@ Pëllumbar, Palumbar, Pellumbat, Pllumbari, Pullumbari, Pëllumbari
 Pëllumbas, Pllumbas, Pllumbasi, Plumas, Plumasi, Pullumbas, Pullumbasi, Pëllumbasi, Semuranji, Semurraj, Simuren, Smuranji, Sëmuraj, Sëmurani, Sëmuranj
 Përbreg, Bregu Bardhë, Pobreg, Pobregu, Podbreg, Përbregu
 Përcall, Përxalli
-Përcëllesh, Perkhodesh, Perolleshi, Përclleshi, Përcëlleshi
+Përcëllesh, Percelleshi, Perkhodesh, Perolleshi, Përclleshi
 Përlati i Epërm, Perlat Epër, Perlat i Epërm
-Përmet, Premeti, Premetē, Përmeti, Премет
+Përmet, Permeti, Premeti, Premetē, Prëmet
 Përparim, Perparimi
 Përparimaj, Virlan, Vërlan, Vërlen, Vërlëni, Врлани
 Përpunje, Parpun'ë, Parpunjë, Perpûj, Përpuja, Përpujë, Përpunë
@@ -2523,7 +2519,7 @@ Radesh, Padeshi, Radisc, Radisci, Radëshi
 Radhesh, Radheshi, Rodhesh, Rradhesh, Rradheshi
 Radhimë, Radhima, Radima, Ralima, Rradhima, Rradhimë
 Radimisht, Radimishta, Radimishti, Radimishtë, Radomisht
-Radomirë, Radomira, Радомир
+Radomirë, Radomir, Radomira
 Radostimë, Radostima
 Radostinë, Radostima, Radostin, Radostin-Fasko, Radostina, Radostina Turk Fas, Radostina e Fas, Radostina-Fasko, Radostina-Ferka, Radostinë-Fasko
 Radovesh, Radoveshi, Ranga, Радоешта
@@ -2549,9 +2545,9 @@ Rapshë, Rapsh, Rapsha, Rapša, Rrapsh, Rrapësha
 Rasboks, Ndërxhina, Ndërxhinaj, Nërxhinaj, Ðinaj
 Rasfik, Prasfik, Rasfiku, Rrasfik, Rrasfiku
 Rashnapojë, Rashnopoja, Rrashnapojë, Rrazhnapajë, Rrazhnapojë, Роснополе
-Rashtan, Balkući, Matollarë, Rashtanj, Rrashtan, Rrashtani, Раштани
+Rashtan, Balkući, Matollarë, Rashtani, Rashtanj, Rrashtan, Rrashtani
 Ratkë, Ratcaj, Ratkaj
-Ravonik, Ravoniku, Раваник
+Ravonik, Ravanik, Ravoniku
 Razëm
 Rehovë, Rahova, Rakova, Rehova, Rehova-Biscucit, Rehovica, Rehovicë, Rrehova, Рехово
 Rekal, Rekali
@@ -2637,7 +2633,7 @@ Rrikaj, Rikaj
 Rrilë, Rila, Rrila
 Rripë, Ripë, Rripa, Rrypa, Rrypë, Rrypë Qendër
 Rrogam, Ragam, Valbana, Valbona
-Rrogozhinë, Rogozhinë, Rogozina, Rogožin, Rrogozhina, Rrogozësa, Rrogzhine, Рогожина
+Rrogozhinë, Rogozhina, Rogozhinë, Rogozina, Rogožin, Rrogozhina, Rrogozësa, Rrogzhine
 Rromanat, Gurkuqi, Rahmanti, Romanat, Romanati, Romanotok, Rrumanati, Rumanat, Rumanatej
 Rromas, Romas, Romasi, Rromasi
 Rrotull, Rotulla
@@ -2646,7 +2642,7 @@ Rrupaj, Rrupan, Rrupani, Rupaj, Rupan
 Rruplaj
 Rrushkull, Rrashkulli, Rrushkulli, Rrushulli, Rushculi, Rushkull, Rushkulli, Ruškul
 Rrërës, Dreres, Rersi, Rerëzi, Rrërësi, Rërës, Rërësi, Rërëz
-Rrëshen, Rrshen, Rrsheni, Rrësheni, Rshen, Rsheni, Rëshëni, Решен
+Rrëshen, Rresheni, Rrshen, Rrsheni, Rshen, Rsheni, Rëshen, Rëshëni
 Rrëza e Kanalit
 Rrëza e Malit
 Rubik, Rrubig, Rrubigu, Rrumbiku, Rubig, Rubiku
@@ -2875,7 +2871,7 @@ Shumeplaku
 Shupenzë, Sciupentse, Shtupenza, Shtëpenz, Shupenz, Shupenza, Shëpenzë, Шупенци
 Shushejt
 Shushica e Vogël, Kadiasi, Shush e Kacani, Shushicë e Kadiut, Shushicë e Vogël
-Shushicë, Scuscitsa, Shushica
+Shushicë)), Scuscitsa, Shushica
 Shytaj
 Shëlli, Scili, Shillijë, Shlli, Shllin, Shlliu, Shëlliu
 Shëllinzë, Shillinzë, Shlinza, Shllinza, Shllinzë, Shëllinza, Šlinz
@@ -2886,17 +2882,17 @@ Shën Ded Gjoni
 Shën Lli
 Shënavlash, Shinavlashi, Shinevlashi, Shën Vlashi, Shënavlashi, Shënevlashi, Shënvllash
 Shëndre, Ajios Andreas, Andrea, Shen Ndreu, Shën Ndre, Shëndreu, Shënëndreca
-Shëneprëmte, Scheneprempte, Shenepremtja, Shinepremtja, Shtepremte, Shënapremte, Shënaprëmtja, Sinteprente, Šnepremte
+Shëneprëmte, Scheneprempte, Shenepremtja, Shinepremtja, Shtepremte, Shënapremte, Shënapremtja, Sinteprente, Šnepremte
 Shëngjergj, Shen Gjiergi, Shengjergi, Shengjini, Shingjergj, Shingjergji, Shëngiergij, Shëngjergji, Singjerć, Šenđerđ
 Shëngjin, Saint Giovanni di Medua, San Giovanni di Medua, San Njin, Scinghonas, Sh'njini, Shen Ghen, Shen Gjini, Shingjin, Shingjini, Shëngjini, Sveti Jovan Medovski, Šen Ðovani di Medua, Свети Јован, Шенгин
 Shëngjini i Madh, Shengini, Shingjini, Shingjini i Math, Shëngjin i Madh, Shëngjin i Math, Shëngjini, Shëngjini i Math
 Shëngjini i Vogël, Shengjini, Shingjini i Vogël, Shën Gjin i Keq, Shëngjin i Vogël
 Shëngjun, Shergjum, Shergjumj
-Shënkoll, Shcola, Shen Kolli, Shenkolla, Shinkoll, Shinkolla, Shinkolli, Shinkollë, Shënkoll-Demirxhias, Shënkoll-Parret, Shënkolli, Shënkolli-Demirxhiasi, Shënkollë, Snkoli, Šenkol
+Shënkoll, Shcola, Shen Kolli, Shenkolla, Shenkolli, Shinkoll, Shinkolla, Shinkolli, Shinkollë, Shënkoll-Demirxhias, Shënkoll-Parret, Shënkolli-Demirxhiasi, Shënkollë, Snkoli, Šenkol
 Shënkollas, Shenkollasi, Shikollasi, Shinkollasi, Šenkolas
 Shënlleshën, Shelesh, Shenlleshem, Shënllesh, Shënlleshi
 Shënmitër, Shemitri, Shemërë, Shenmiteri, Shëmitra, Shëmitër
-Shënmëri, Shemeria, Shemrija, Shemyi, Shemëri, Shenmric, Shmria, Shumri, Shumria, Shumërija, Shëmria, Shëmrja, Shënmëria, Šen Mri
+Shënmëri, Shemeria, Shemria, Shemrija, Shemyi, Shemëri, Shenmric, Shmria, Shumri, Shumria, Shumërija, Shëmrja, Shënmëria, Šen Mri
 Shënvasi, Përparimi, San Basilio, Shen Vasili, Shenvasij, Shenvasija, Shën Vasi, Shën-Vaseli, Shën-Vasil, Shëndeli, Shënvasijë, Свети Васил
 Shërminë, Shermina, Shermini, Shurmi, Shëmini, Shërmi, Shërmin
 Siman, Simani
@@ -2926,7 +2922,7 @@ Skorovot, Scorova, Skorovoti
 Skrep
 Skrevan, Skrevani
 Skrofotinë, Scrofotina, Shkrofotinë, Skrofetina, Skrofotin, Skrofotina
-Skroskë, Skroshka, Štresa, Скроска
+Skroskë, Skroshka, Skroska, Štresa
 Skuraj, Scuraj, Scuraji, Skurajvit, Skurraj
 Skutërrë, Sketerri, Skutera, Skuterra, Skëteri, Skëterr, Skëterrë
 Skënderaj
@@ -2999,13 +2995,13 @@ Stojka
 Storë, Stora
 Strafickë, Straficka, Straficë, Strafiska
 Stranik, Straniku, Sćipoja
-Stravaj, Lira, Stovanit, Stravaje, Stravaji, Stravan, Strevan, Стравани
+Stravaj, Lira, Stovanit, Stravaje, Stravaji, Stravan, Stravani, Strevan
 Stredok
 Strelcë, Gorosel, Strelca, Стрелица
 Strenec, Stermec, Stermeci, Stermez, Sternez, Streneci, Strenesi, Stërnec, Stërneci
 Strikçan, Strighician, Strikcani, Tatuši, Стригичани
 Stropan, Stropani
-Stropckë, Stropcka, Stropeku, Stropkë, Stropoke, Стропека, Стропица
+Stropckë, Stropcka, Stropeka, Stropeku, Stropkë, Stropoke, Стропица
 Stror, Stror-Kumri, Strori
 Strorë, Istrorë, Strora
 Strum, Strubi, Strumi, Strumë, Çiflik-Struma
@@ -3130,7 +3126,7 @@ Tremisht, Tremishta, Tremishti
 Tremul, Trembull, Tremoli, Tremuli, Tremull, Tremulli
 Tren, Treni, Трн
 Trenë, Trena
-Trepsenisht, Terpsinisht, Trepanishti, Trepsanishte, Trepsanishti, Trepsenishti, Трепсеништа
+Trepsenisht, Terpsinisht, Trepanishti, Trepsanishte, Trepsanishti, Trepsenishta, Trepsenishti
 Trepçë, Trepshkë, Trepça
 Tresh, Treshi, Troshani
 Treskë, Manëz, Manëza, Treska
@@ -3259,10 +3255,10 @@ Velipojë, Velipoja, Velipolja, Велиполе
 Veliqot, Valiqeti, Veliqoti
 Velishtë, Velisht, Velishti
 Veliternë, Veliterna, Veliterni, Велитрна
-Velmisht, Fatmiri, Velmish, Velmishi, Velmishti, Велмиште
+Velmisht, Fatmiri, Velmish, Velmishi, Velmishti, Velmishtë
 Velçan, Velcan Mokra, Velcan Mokrra, Velçan Gora, Velçan i Gorës, Velçan i Mokrrës, Velçan i Mokrës, Velçan-Gorë, Velçani, Velçani i Gorës, Velçani i Mokrës, Мокренско Велчани
 Velçë, Velça, Volçë
-Velë-Vend, Vela, Vela e Vendit, Velja, Veljë, Veljës, Velsi, Velë, Velë e Vendit, Velë-Vendi
+Velë-Vend, Vela, Vela Vendit, Velja, Veljë, Veljës, Velsi, Velë, Velë e Vendit, Velë-Vendi
 Vendresha e Madhe, Vendreshë e Madhe, Vëndresha, Vëndreshë
 Vendresha e Vogël, Vëndreshë e Vogël
 Vendreshë e Malit, Vendresha e Malit
@@ -3271,7 +3267,6 @@ Verbas, Verbasi
 Vergo, Vergoja, Vergojë
 Vermosh, Vermoshi, Vermoshë, Vermoša
 Vernicë, Vbrnicë, Vërenicë, Vërnica, Врбница
-Verri, Verer, Veri, Veri Prevall, Veri Prevalli, Veri Slatina, Veri Sllatinja, Veri-Sllatina, Verija, Verri Slatinë, Verrija, Verrj, Vorri, Vri, Vrija, Vrrië, Vërria, Vërrin, Vërrini, Vërriu
 Veseshtë, Veseshta, Vesseste, Viseshtë, Vërseshta
 Vesqi, Veshkeqë, Veski, Veskiq, Veskqi, Veskqija, Veskëq, Vesqia, Vesqija, Veškeč, Viskiqi
 Veterrik, Vertenik, Veterik, Veteriku, Veterriku
@@ -3319,7 +3314,7 @@ Vllahat, Vllahati
 Vllahinë, Vllahina
 Vllaho-Psillotarë, Psilloterë, Psilotera, Psiloterë, Vllaho-Psillotera, Vllaho-Psilloterë, Vllahopsina
 Vllahogoranxi, Vlaho Goranxhi, Vllaho Goranci, Vllaho Goranxhi, Vllaho Goranxia, Vllaho-Goranxija, Vraho-Goranxija
-Vlorë, Au'lon, Avlon, Avlona, Avlonya, Vallona, Vljora, Vlona, Vlonë, Vlora, Валона, Влёра
+Vlorë, Au'lon, Avlon, Avlona, Avlonya, Vallona, Valona, Vljora, Vlona, Vlonë, Vlora, Влёра
 Vlosh, Vlijoshi, Vljoš, Vloshi, Вилош
 Vloçisht, Vloçishta, Vloçishti, Vloçishtë
 Vlushë, Veluscia, Velushe, Vlusha, Vëlusha
@@ -3340,10 +3335,10 @@ Voskopojë, Moscopole, Moskhopolis, Moskopole, Voskopoi, Voskopoj, Voskopoja
 Voz, Vosë, Vozi, Vozë
 Vozjan, Vozian, Voziani
 Vrana
-Vranisht, Vraneshte, Vranishte, Vranishti, Враништа
+Vranisht, Vraneshte, Vranishta, Vranishte, Vranishti
 Vrap, Crap, Vrapi
 Vrekaj
-Vrenjt, Iviragne, Vranita, Vranitë, Vranjit, Vranjt, Vranjta, Vranjti, Vrenjti, Врање
+Vrenjt, Iviragne, Vranita, Vranitë, Vranjit, Vranjt, Vranjta, Vranjti, Vranjë, Vrenjti
 Vresht, Vreshta
 Vreshtas, Vershtas, Vreshtan, Vreshtani, Vreshtasi, Vreshtaz, Vreshtazi, Vrestus, Врешта
 Vrinas, Vrinasi
@@ -3367,8 +3362,9 @@ Vurgjith
 Vurgu i Ri, Blerimasi, Chenurio, Kenurio, Qeburjo, Qenuraj, Qenuri, Qenurio, Qenurja, Qenurjo, Qenurjë, Qinurja, Quenurjo, Vurg i Ri
 Vuç-Kurtaj, Vuqë, Vuç, Vuçë, Vuča
 Vërdovë, Verdova, Vërtovë, Вртово
-Vërmik, Vermic, Vermie, Verniku, Vërmiku
+Vërmik, Vermic, Vermie, Vermiku, Verniku
 Vërnik, Verniku, Врбник
+Vërri, Verer, Veri, Veri Prevall, Veri Prevalli, Veri Slatina, Veri Sllatinja, Veri-Sllatina, Verija, Verri Slatinë, Verria, Verrija, Verrj, Vorri, Vri, Vrija, Vrrië, Vërrin, Vërrini, Vërriu
 Vërtop, Vertopi, Вртоп
 Vërvë, Vei, Verna, Verva, Ververa, Vërnë
 Vërzhezaj
@@ -3509,9 +3505,10 @@ Zues, Zuesi
 Zvarisht, Zavarishte, Zbarisht, Zvarishta, Zvarishti, Zvarishtë
 Zvemec, Svernec, Svernetsi, Svernez, Zvereneci, Zvernece, Zverneci, Zvërnec, Звернец
 Zvezdë, Svezda, Zvezda, Zvezhda, Ѕвезда
-Zvirinë, Svirinë, Zvirina, Свирна
+Zvirinë, Svirinë, Svirna, Zvirina
 Zëmblak, Zembak, Zemlak, Zëmblaku
 Zëmçë, Somse, Somçë, Zemça, Земче
+Çalaj
 Çalamanaj
 Çanakaj, Džanakaj, Xhanakaj, Çanaskaj
 Çarshovë, Çarshova, Çarçova, Çarçovë
@@ -3524,8 +3521,9 @@ Zëmçë, Somse, Somçë, Zemça, Земче
 Çaushi, Pupzaj, Çauš
 Çekin, Çekina, Çekini
 Çekrez
-Çekrezë, Çekreza
+Çekrezë, Cekreza
 Çela
+Çelaj
 Çelhakaj, Celhagaj, Čeljhagaj
 Çeligrad, Çeligradi
 Çeliku, Çelik
@@ -3546,7 +3544,7 @@ Zëmçë, Somse, Somçë, Zemça, Земче
 Çericë, Bazar i Tomorricës, Gërica, Qerricë, Zriz, Çerica, Çërricë
 Çerkez-Morinë, Cerkese, Maurë, Mori, Morina, Morinë, Mureni, Çerkez-Morina, Çerkeza, Çerkezmorina, Çerkezë
 Çerma e Sipërme, Cerma, Cerma-Bicak, Cerma-Biçakaj, Cerma-biciacaj, Çermë e Sipërme, Çermë-Bicakaj
-Çermë Shkumbin, Cerma-Pashaj, Cerma-e Pashajit, Cerma-pruscaj, Çerm' e Pashajt, Çerma, Çerma e Poshtme, Çerma e Vogël, Çerma e poshtëme, Çermë, Çermë e Poshtëme, Çermë-Pasha
+Çermë Shkumbin, Cerma, Cerma-Pashaj, Cerma-e Pashajit, Cerma-pruscaj, Çerm' e Pashajt, Çerma e Poshtme, Çerma e Vogël, Çerma e poshtëme, Çermë, Çermë e Poshtëme, Çermë-Pasha
 Çermë e Vogël
 Çermë-Proshkë, Cerma, Cerma-Proshkë, Cerma-prusaj, Çerma Broshkaj, Çerma e mesme, Çerma-Proskë, Çermë Proshk, Çermë-Proskaj, Çermë-Prosku
 Çernenë, Cerenen, Çankë, Çermena, Çernen, Çernena, Černeni
@@ -3563,6 +3561,7 @@ Zëmçë, Somse, Somçë, Zemça, Земче
 Çidhnë, Cidhnaeposhi, Qidhna e Poshtme, Qidhnë e Poshtme, Qillna e Poshtëme, Çidhna, Çidhna e Poshtëme, Çidhnë e Poshtëme, Çidhën
 Çiflig, Fattoria, Orman Çiflig, Orman Çiflik, Orman Çifliku, Çifligu, Çiflik Pashje, Çiflik Tusha, Çiflik-Poshnja, Çiflik-Poshnje, Çifliku, Çifliq, Çifliqi, Çifliqu
 Çiflik, Çfliku, Çifliku
+Çikallesh, Çikalleshi
 Çinaj
 Çinar, Cimar, Cimarë, Rrap, Çinari, Çinori
 Çipan, Çepani, Çipani
@@ -3585,3 +3584,4 @@ Zëmçë, Somse, Somçë, Zemça, Земче
 Çukë, Ciuca, Ciuci, Çuka
 Çunaj, Llanaj
 Çërragë, Cerage, Shiraga, Çeraga, Çirraga, Çërraga, Čaragaj
+Çërrilë, Bardanj, Bardhanj, Cerila, Cerilë, Cerrila, Mushanj

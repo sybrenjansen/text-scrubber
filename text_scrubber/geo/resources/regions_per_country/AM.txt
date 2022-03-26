@@ -47,7 +47,7 @@ Ach'ik
 Ach'k'ahan
 Ach'k'ak'ar
 Ach'k'amtuk, Աչքամտուկ
-Ach'k'asar Lerrnagagat', Aghch'ala Lerrnagagat', Akch'ala Lerrnagagat', Gora Akchala, Gora Legli, Legli Lerrnagagat', Leyli Lerrnagagat', Mta Ak'chara, Աչքասար
+Ach'k'asar Lerrnagagat', Ach'k'asar, Aghch'ala Lerrnagagat', Akch'ala Lerrnagagat', Gora Akchala, Gora Legli, Legli Lerrnagagat', Leyli Lerrnagagat', Mta Ak'chara
 Ach'k'i P'os
 Achanan, Ejanan, Hachanan, Halaj, KhaladZh, KhaladZhchay, Khalaj, Nerk'in Norajenik, Okhtariget, Xäläc
 Achanani
@@ -1028,7 +1028,7 @@ Arkhanchay
 Arkondi Taratsk'
 Armaghan
 Armaviri
-Armaviri Marz, Armavir Province, Армавирская область, Արմավիր
+Armaviri Marz, Armavir, Armavir Province, Армавирская область
 Armaviri Sar
 Armaviri Shrjan, Oktemberyanskiy Rayon
 Armenaki
@@ -2073,7 +2073,7 @@ Berder
 Berdi
 Berdi Dar
 Berdi Dasht
-Berdi Glukh, Բերդի գլուխ
+Berdi Glukh, Բերդի Գլուխ
 Berdi Hogher
 Berdi K'ar
 Berdi Koghi
@@ -2178,7 +2178,7 @@ Blri
 Blri Etev
 Blri Etevi
 Blri Gagat'
-Blri Glukh, Բլրի գլուխ
+Blri Glukh, Բլրի Գլուխ
 Blri Tak
 Blri Yetev
 Blt'ani Hogher
@@ -2933,7 +2933,7 @@ Daredar
 Darer
 Dari
 Dari Glkhner
-Dari Glukh, Դարի գլուխ
+Dari Glukh, Դարի Գլուխ
 Dari Lanj
 Dari Surb, Դարի Սուրբ
 Dari Tak
@@ -3621,7 +3621,7 @@ Gaspari Art
 Gaspari Aygi
 Gaspari Ayginer
 Gats'oyi
-Gavar, Գավառ
+Gavar, Gavarr
 Gavarra Amarrots'
 Gavarraget, Gavaraget, Kyavar-Chay
 Gavarrategh
@@ -3734,7 +3734,7 @@ Geghanush, Գեղանուշ
 Geghark'unik', Bashkendidzhur, Gekharkunidzhur, Gekharkunik, Գեղարքունիք
 Geghark'unik' Arrajin, Gekharkunikskoye Vodokhranilishche, Գեղարքունիք առաջին
 Geghark'unik' Erkrord, Գեղարքունիք երկրորդ
-Geghark'unik'i Marz, Gegharkunik Province, Гегаркуникская область, Гехаркуникская область, Գեղարքունիք, Գեղարքունիքի մարզ
+Geghark'unik'i Marz, Gegharkunik Province, Гегаркуникская область, Гехаркуникская область, Գեղարքունիք, Գեղարքունիքի Մարզ
 Geghark'unyants' Lerrnashght'a
 Geghark'unyats', Գեղարքունյաց
 Geghark'unyats' Shght'a, Գեղարքունյաց Շղթա
@@ -4490,7 +4490,7 @@ HEK-i Lich
 Habei Arter
 Habei Marg
 Habet'i Aygeteghi
-Habet'i Hogher, Աբիթի Հողեր
+Habet'i Hogher, Abit'i Hogher
 Habigek'
 Haboyi
 Habu, Հաբու
@@ -5238,7 +5238,7 @@ Hrandasar
 Hranti
 Hranti Ktor
 Hraparak
-Hrazdan, Hrazdan River, Sango, Zanga, Раздан, Հրազդան գետ
+Hrazdan, Hrazdan River, Razdan, Sango, Zanga, Հրազդան գետ
 Hrazdani Aj Ap'i Hogher
 Hrazdani Dzakh Ap'i Hogher
 Hrazdani Hogher
@@ -6466,7 +6466,7 @@ Karleni Lchi
 Karmenlanj
 Karmir
 Karmir Aghbyur, Կարմիր աղբյուր
-Karmir Aghbyuri, Կարմիր աղբյուրի
+Karmir Aghbyuri, Կարմիր Աղբյուրի
 Karmir Andzav
 Karmir Arev
 Karmir Art
@@ -6843,7 +6843,7 @@ Khach'i K'amak, Խաչի Ֆամակ
 Khach'i K'ar
 Khach'i K'ari Art
 Khach'i Khut', Խաչի Խութ
-Khach'i Khut'i, Խաչի խութի
+Khach'i Khut'i, Խաչի Խութի
 Khach'i Koghk'
 Khach'i Margagetin
 Khach'i Mot
@@ -7616,7 +7616,7 @@ Kotak
 Kotakner
 Kotar
 Kotayk'i Jrants'k', Kotaykskiy Kanal
-Kotayk'i Marz, Kotayk Province, Котайкская область, Կոտայք
+Kotayk'i Marz, Kotayk, Kotayk Province, Котайкская область
 Kotayk'i Shrjan, Abovyanskiy Rayon, Kotaykskiy Rayon, Kotayskiy Rayon
 Kotaykskoye Plato
 Kotei
@@ -8134,7 +8134,7 @@ Lornots'
 Lorrets'u Tap', Լոռեցու տափ
 Lorri, Loorrch'ay, Loriget
 Lorru Jrants'k', Loriyskiy Kanal
-Lorru Marz, Lori, Lori Province, Лорийская область, Լոռու մարզ
+Lorru Marz, Lori, Lori Province, Лорийская область, Լոռու Մարզ
 Lorrusar, Լոռուսար
 Lorrut, Լոռուտ
 Lorrva
@@ -8670,7 +8670,7 @@ Meghrik
 Meghrisar
 Meghrots'
 Meghru Mak'saket, Մեղրու մաքսակետ
-Meghru Shrjan, Мегринский Район
+Meghru Shrjan, Megrinskiy Rayon
 Meghrut, Մեղրուտ
 Meghuneri P'os, Մեղուների փոս
 Meghvadasht
@@ -9242,7 +9242,7 @@ Mount Karazhayr, Gora Karakaya, K'arazhayrr Lerr
 Mount Koshakar, Gora Koshakar, Koshak'ar Lerr
 Mount Metchetyu, Gora Mechetly, Gora Mechettyu, Gora Mechetyu, Mech'et'yu Lerr
 Mount Murghuz, Gora Murguz, Gora Murkhuz, Murghuz Lerr
-Mount Tezhler, Gora Tezh-Akhmed, Gora Tezh-Akhmet, Gora Tezhler, T'ezh Ahmed Lerrnagagat', T'ezhsar, Tesh Achmed Berg, Թեժլեռ
+Mount Tezhler, Gora Tezh-Akhmed, Gora Tezh-Akhmet, Gora Tezhler, T'ezh Ahmed Lerrnagagat', T'ezhlerr, T'ezhsar, Tesh Achmed Berg
 Movrovi
 Movsesants'
 Movsesi
@@ -12350,7 +12350,7 @@ Speghanadzor
 Speghani
 Spitak, Gora Spitak, Spitachka
 Spitak Aghbyur, Սպիտակ աղբյուր
-Spitak Aghbyuri, Սպիտակ աղբյուրի
+Spitak Aghbyuri, Սպիտակ Աղբյուրի
 Spitak Art
 Spitak Blri
 Spitak Champ'i
@@ -12579,7 +12579,7 @@ Syrretsi
 Syun, Սյուն
 Syunalanj, Սյունալանջ
 Syunasar, Սյունասար
-Syunik'i Marz, Syunik Province, Syunikʼ, Сюникская область, Սյունիք, Սյունիքի մարզ
+Syunik'i Marz, Syunik, Syunik Province, Сюникская область, Սյունիք, Սյունիքի Մարզ
 Syunov K'arap', Սյունով քարափ
 Sznu Tsarri Tak, Սզնու ծառի տակ
 Sznudzor, Սզնուձոր
@@ -13822,7 +13822,7 @@ Udumyanneri Hogher, ՈՒդումյանների հողեր
 Ugheart, Ուղեարտ
 Ugheblur, ՈՒղեբլուր
 Ughedzor, ՈՒղեձոր
-Ughehand, Ուղեհանդ
+Ughehand, ՈՒղեհանդ
 Ughekal, ՈՒղեկալ
 Ughekali Dimats'i Hogh, ՈՒղեկալի դիմացի հող
 Ughekali Etevi Hogh, ՈՒղեկալի ետևի հող
@@ -13841,8 +13841,8 @@ Ughi, ՈՒղի
 Ughtadzor, ՈՒղտաձոր
 Ughtadzori, Ուղտաձորի
 Ughtaghbyur, Ուղտաղբյուր
-Ughtahand, Ուղտահանդ
-Ughtak'ar, Ուղտաքար
+Ughtahand, ՈՒղտահանդ
+Ughtak'ar, ՈՒղտաքար
 Ughtakhut', Ուղտախութ
 Ughtalanj, ՈՒղտալանջ
 Ughtalich, ՈՒղտալիճ
@@ -13853,7 +13853,7 @@ Ughtarot, ՈՒղտարոտ
 Ughtasar, ՈՒղտասար
 Ughtat'agh, ՈՒղտաթաղ
 Ughtatap', Ուղտատափ
-Ughtategh, Ուղտատեղ
+Ughtategh, ՈՒղտատեղ
 Ughtavan, Ուղտավան
 Ughtaviz, Ուղտավիզ
 Ughtavzi, Ուղտավզի
@@ -14238,7 +14238,7 @@ Vatoyi Blur, Վատոյի բլուր
 Vayeluch', Վայելուչ
 Vayk'i
 Vayk'i Shrjan, Azizbekor, Azizbekovskiy Rayon, Vayk
-Vayots' Dzor, Vayots Dzor Province, Вайоцдзорская область, Վայոց Ձորի մարզ
+Vayots' Dzor, Vayots Dzor Province, Vayots' Dzori Marz, Вайоцдзорская область
 Vayots'sar
 Vayotssar
 Vayri Ts'oren
@@ -14612,7 +14612,7 @@ Yeliglukh, Ելիգլուխ
 Yelija, Ելիջա
 Yelitak, Ելիտակ
 Yelk', Ելք
-Yelp'in, El'pin-chay, Ելփին
+Yelp'in, El'pin-chay, Elp'in
 Yelp'ini, Ելփինի
 Yeltun, Ելտուն
 Yelu Glkhiveri Arter, Ելու գլխիվերի արտեր
@@ -14697,7 +14697,7 @@ Yeritasardut'yan, Երիտասարդության
 Yerits', Երից
 Yerits' Bir, Երից բիր
 Yerits'adzor, Երիցաձոր
-Yerits'aghbyur, Երիցաղբյուր, Քահանայի
+Yerits'aghbyur, K'ahanayi, Երիցաղբյուր
 Yerits'aghbyuri, Երիցաղբյուրի
 Yerits'agub, Երիցագուբ
 Yerits'ahand, Երիցահանդ

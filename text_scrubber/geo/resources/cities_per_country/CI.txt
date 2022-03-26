@@ -728,7 +728,7 @@ Ania-Assikasso, Agni Assikasso, Agnia Assikasso
 Aniaka
 Anialesso
 Aniaman
-Aniassué, Agniassué, Aniasué
+Aniassué, Agniassue, Aniasue
 Anibossué
 Anikro
 Anin
@@ -871,9 +871,7 @@ Assaoua
 Assaoufoué
 Assareobou
 Assarékro
-Asse
 Assekankro
-Assekro, Asékro
 Assemba Nayé
 Assembo
 Assemkoué, Assemboué, Assomvoué, Assumve
@@ -941,12 +939,14 @@ Assuéti
 Assuétifi
 Assuétya
 Assèka
+Assé
 Assé Blédoukro, Assé-Blé-Ndoukro
 Assé Diaoukro
 Assé Kouassikro, Kouassimikro
 Assé Ngatakro, Assé Nbatakro
 Assé-Assasso
 Assébroko, Assébrakro, Assébrokro
+Assékro, Asékro
 Asséké
 Assémanou, Assémaouno
 Asséngoukor, Asséngou-Kan
@@ -1151,7 +1151,6 @@ Bahé Séban
 Bahé-Blaon
 Baibli
 Baimi, Bahirmi
-Bairo
 Baka Apata
 Bakadou I
 Bakadou II
@@ -1286,7 +1285,7 @@ Banouoye
 Bantifla
 Bantéadepleu
 Bantégouen, Bantegouin
-Banyeleu, Bainyèdè
+Banyeleu, Bainyede
 Banyouapleu
 Banzandepleu, Banpleu
 Banzi
@@ -1383,11 +1382,12 @@ Bazalilié
 Bazi
 Bazia
 Baziafla
-Bazra, Bazéra, Zazéra
+Bazra, Bazera, Zazéra
 Bazré, Bazai
 Bazérououa, Baxeouroua, Bazéouroua, Kribeyo-Bazérououa
 Bazérébouo
 Baéguhé, Béhégué
+Baïro
 Beainkoua
 Beche Akichi
 Bechie
@@ -1419,7 +1419,6 @@ Benie Kouassi
 Benkro
 Benvé
 Benzra, Binzra
-Bepleu, Bepleu I
 Bera
 Bernoikro
 Bero Atté
@@ -2139,6 +2138,7 @@ Béoumasso
 Béoumi, Beumi
 Béoué, Béoué zagna, Béové, Zibiao
 Bépkanvogo, Bépkanwogo
+Bépleu, Bepleu I
 Bérakona
 Béri
 Bériaboukro
@@ -2226,9 +2226,9 @@ Dabéko
 Dabéli
 Dadamiékro
 Dadiassé, Dadiassi
-Dadie
 Dadio
 Dadièkro
+Dadié
 Dadié Kouassikro
 Dadiédou
 Dadiéinoufla, Diadéinoufla
@@ -2375,7 +2375,6 @@ Degbésséré
 Degbézéré
 Deita
 Delkoussou
-Demba
 Dempleu, Youdepleu
 Demèzo
 Denan
@@ -2812,7 +2811,6 @@ Doudoni-Gué
 Doudou
 Doudoukou, Doudourou
 Doudoukro
-Doueleu
 Douelli
 Doufla
 Dougako
@@ -2863,6 +2861,7 @@ Douédi Guézon
 Douédy
 Douégboué
 Douéibli
+Douéleu
 Douélé, Gouellé
 Douétomba
 Doyagouen
@@ -2950,6 +2949,7 @@ Dyéndana, Diénana
 Dyénéné
 Dyéou
 Dèdou Kouadjo
+Dèmba
 Déaa Kouakoakro
 Déagbalopleu, Deagbaloupleu
 Déahouépleu
@@ -3015,7 +3015,7 @@ Easou Kouakou
 Ebiba
 Ebikokorékrou
 Ebikro-Ndakro, Ebikro, Ebikrou
-Ebilassokro, Ebilassékrou, Ebillasokro
+Ebilassokro, Ebilassekrou, Ebillasokro
 Ebimlossou
 Ebimpe, Etimpé
 Ebini-Koidiokro
@@ -3659,7 +3659,7 @@ Gondia
 Gondodougou
 Gonfla
 Gongopou
-Gongouiné I, Gangouin, Gangouiné, Gongouin, Gongouiné, Gongwinne, Gongwiné
+Gongouiné I, Gangouin, Gangouine, Gongouin, Gongouine, Gongwine, Gongwinne
 Gongouiné II
 Gongoyo
 Gonoula, Dieoulizra Gonhoula
@@ -3871,7 +3871,6 @@ Guessihio, Guessiho, Guéséyo
 Gueukpopleu
 Gueupleu
 Gueutiagbeupleu
-Gueya, Arrobo-Guégué, Geya, Orobo-Guégué
 Guguha, Gougouya
 Guguhé
 Guguibou, Godibouo
@@ -3965,6 +3964,7 @@ Guétouo
 Guétta
 Guétuzon I
 Guétuzon II
+Guéya, Arrobo-Guégué, Geya, Orobo-Guégué
 Guéyo, Guelhio, Guéhio, Guéoyo, Guéyo I
 Guéyo II
 Guéyo III
@@ -4721,7 +4721,7 @@ Kokouna
 Kokounkaha
 Kokourékro
 Kokpa
-Kokwo, Kwokwo, Kékoua
+Kokwo, Kekoua, Kwokwo
 Kolennso
 Koli Yapo
 Kolia
@@ -4815,7 +4815,6 @@ Kondoukro
 Kondrokro, Kondokro
 Kondé Yaokro, Kouondéyaoukro
 Kondéhinou
-Kone
 Kong
 Kongaso, Kongasso
 Kongatouo
@@ -4881,6 +4880,7 @@ Konzadougou
 Konzaï
 Konzié
 Konzo
+Koné
 Konédia
 Konédougou
 Konéfla, Konoufla, Konufla, Konéfra, Kouénoufra
@@ -5085,7 +5085,6 @@ Kouakoussekro, Kouakou Sékro
 Kouakoutankrou
 Kouakro, Kaoukro, Krouakro
 Kouaman Nganfla
-Kouame
 Kouame Bossou
 Kouame Kouadio
 Kouamena-Boko
@@ -5100,6 +5099,7 @@ Kouaminakro
 Kouamodougou
 Kouamouadibikro
 Kouamponé, Tédiandougou
+Kouamé
 Kouamé Aié
 Kouamé Assekro
 Kouamé Koffi
@@ -6137,7 +6137,6 @@ Memni, M'emm
 Mendéké, Mandéké, Mendéko
 Mengouen
 Menin Aisé
-Menou
 Mesoukro
 Messampleu, Mesampleu
 Messoukro
@@ -6335,6 +6334,7 @@ Mémanou
 Ména
 Ménankro, Mnakro
 Méne Maho
+Ménou
 Méné Tchoui
 Ménédou Dagodio
 Ménédou-Tabré
@@ -6674,7 +6674,6 @@ Nguessan kiékro, Nguessankiékro
 Nguessan-Brindoukrou
 Nguessankankro
 Nguessankoa, Nguessankoua
-Nguessankro, Guessankro, Guessankrou, Ngéssankro
 Nguesso
 Nguessou
 Nguinou
@@ -6684,6 +6683,7 @@ Nguiémé
 Ngué Daka
 Nguérénou
 Nguéssambakro
+Nguéssankro, Guessankro, Guessankrou, Ngéssankro
 Ngé Un
 Nia, Nya
 Niaba
@@ -7364,7 +7364,6 @@ Pelouo, Pleuvo
 Pen, Pin
 Pendadou
 Pengakro
-Pepleu II
 Pesinkaha, Pensikaha
 Pessondougou
 Pesérékola
@@ -7549,6 +7548,7 @@ Pényakaha
 Pénétori
 Péou
 Pépleu, Pepleu I
+Pépleu II
 Pépleul
 Pérou, Piddy
 Péré
@@ -7766,14 +7766,12 @@ Sayébo, Saebo
 Sayéta
 Saédi, Saidi
 Saïoua, Saouia, Seïéoua
-Seba
 Seba Seba
 Sebia Yao, Daokro
 Sebli
 Segboron
 Sehibli, Saihibli
 Seileu
-Seipleu
 Sekré
 Semba Kasse
 Sengoso
@@ -7918,9 +7916,9 @@ Sobolo, Sebolo, Sibolo
 Sobopié
 Sobédoufla, Sébédoufla, Sédéboufla
 Socoradjan, Sokouradjan
-Sodepalm
 Sodepalm Anguededou
 Sodéfor
+Sodépalm
 Sofaica
 Sofana
 Sofibouafla
@@ -8132,6 +8130,7 @@ Sèkou Koalbali
 Sèlé
 Séa Yambogo
 Séambli
+Séba
 Sébapleu
 Sébazon
 Sébouafla
@@ -8153,11 +8152,11 @@ Ségbéré
 Ségouavogo
 Ségoudaradra
 Ségouen
-Séguebé
 Séguikro
 Séguié
 Séguiéhoa, Séguiéoa
 Ségué
+Séguébé
 Séguéla
 Séguéla-Koffikro
 Séguélon, Ségélo-Koura
@@ -8171,6 +8170,7 @@ Séhébé
 Séhémé
 Séibli
 Séila, Séifla
+Séipleu
 Séitifla, Sétifla
 Séizaibli
 Séizra
@@ -8461,7 +8461,6 @@ Tidianékouro
 Tidienhoulé
 Tiebondougou
 Tiefinzo
-Tiemoko
 Tiemokoro
 Tien Oula I
 Tienbéléblakro
@@ -8581,11 +8580,12 @@ Tiéla
 Tiéliga, Diérisso
 Tiéma, Tieman, Tiéna, Tyéma, Tyéman, Tyémo
 Tiémaso
-Tiéme, Thiamé, Tiémié, Tyémé
 Tiémodiampleu
+Tiémoko
 Tiémoko Kone
 Tiémoukro
 Tiémpa
+Tiémé, Thiamé, Tiémié, Tyémé
 Tiémélé Andokro
 Tiémélékro
 Tiéménin, Tiémini
@@ -8779,7 +8779,7 @@ Trakro
 Tranou
 Transua
 Traonfla, Trahonfla
-Traore
+Traoré
 Treichville
 Trenlé
 Trikata
@@ -8816,8 +8816,8 @@ Tyakwénékaha, Tiagouanakaha
 Tyana
 Tyapleu, Tyopleu
 Tyasanakaha, Tiassanakaha
-Tyasedougou, Tiassédougou
 Tyaso
+Tyasédougou, Tiassedougou
 Tyawé, Tiaoué
 Tyengakaha, Tiengakaha
 Tyengala, Tiengala
@@ -8835,7 +8835,6 @@ Tyonlé, Tiolé, Tionlé, Touclé
 Tyonrikaha, Tionrikaha
 Tyoulékankaha
 Tyovolavogo, Tiovolavogo
-Tyènekaha, Tiénékaha
 Tyènfou
 Tyébakaha, Tiébakaha
 Tyébaso, Tiébasso
@@ -8869,6 +8868,7 @@ Tyénifé
 Tyénigoué, Tiéningoué
 Tyéningbé, Tiéningoué
 Tyénisédougou
+Tyénékaha, Tiénékaha
 Tyéoulédougou
 Tyésan
 Tyéso, Tieio
@@ -9025,7 +9025,7 @@ Wolovogo
 Wombolo, Oumbolo, Womolo
 Womon, Ouansomou, Ouomou, Ouonou
 Wonahakaha
-Wongé, Ouengoué, Ouongué, Wongue
+Wongé, Ouengoué, Ouongue, Wongue
 Wontonon
 Wora, Ouora
 Worofla, Ouorofia, Ouorofla, Ouorofoula, Ourenfla, Ouroufla
@@ -9232,7 +9232,6 @@ Yavo Ovi
 Yazermi, Yasermi
 Yaégo
 Yeboué-Ndolikro II
-Yebouékro
 Yedou Teo
 Yedé Abo
 Yedé Kelékré
@@ -9295,6 +9294,7 @@ Yoya
 Yrozon, Irouzon I
 Yuala
 Yèbi
+Yèbouékro
 Yéalé
 Yébikoua
 Yébouakro, Yabouakrou
@@ -9429,7 +9429,6 @@ Zaïpobli
 Zegban, Zegbé
 Zegbao, Zegoa, Zégoao
 Zeguetiela, Dzeguetiéla, Dzeguéliéla, Dzégityéla
-Zengouanou, Assafou-Zengoua
 Zesso
 Zetodigba
 Ziakoumia
@@ -9596,6 +9595,7 @@ Zéléayo, Zéléahio, Zéréayo
 Zélésso, Zélisso
 Zémongokaha
 Zéménéfla, Zéménafla
+Zéngouanou, Assafou-Zengoua
 Zénékaha, Ziénékaha
 Zéo
 Zéouanou

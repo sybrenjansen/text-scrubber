@@ -161,7 +161,6 @@ Badam
 Badar, Baddar
 Badar Diaye
 Badar Ndaye
-Badem, Baddéme, Badèm Ouolof, Badène
 Badi, Bady
 Badiana, Badiama
 Badiandian
@@ -198,6 +197,7 @@ Badouga
 Badoumba Diaé
 Badoumba Kéréouane
 Badoumba Mamadou
+Badèm, Baddème, Badèm Ouolof, Badène
 Bae, Bayé
 Bafabantan
 Bafara Diala
@@ -352,7 +352,6 @@ Bandjikaki
 Bandoukounda Baldé
 Bandoulou
 Bandémba, Bandanba
-Bane
 Banfara, Banfara I
 Banfara Démandaou
 Banfara II
@@ -403,6 +402,7 @@ Bantantinnting, Bantantinting
 Bantanto
 Bantata
 Bantigniel
+Bané
 Banéba
 Baodé
 Baou
@@ -443,10 +443,10 @@ Baridiane, Baridian
 Barindondol
 Barkatou
 Barkayel, Barkaye
-Barkedji
 Barkevy
 Barkiel
 Barkjéwèl, Barkivi, Barkéwè
+Barkèdji
 Barkédji Mboul
 Barmétial, Barmatial
 Barokounda
@@ -763,7 +763,6 @@ Boulandor, Balandor
 Boulayot, Boulayotte
 Boulbi, Boulby
 Bouldiabé
-Boulel, Boubel, Bouléle, Céanes Bouléle
 Boulel Babori, Poulel Babori
 Bouli
 Bouli Birane
@@ -790,6 +789,7 @@ Boulou Sambou
 Boulouaye
 Bouloukounda, Bouloucounda
 Boulèye Dia
+Boulél, Boubel, Bouléle, Céanes Bouléle
 Bouma, Bouna
 Boumane
 Boumbali
@@ -1027,7 +1027,6 @@ Dalar, Dalakh
 Dalifor
 Dalifort
 Daloto, Dalato, Dalloto
-Dam
 Dam Dabaye
 Dam Diop
 Dam Touré
@@ -1168,7 +1167,7 @@ Darou-Salam
 Darsalam, Darsalem
 Darsalam Mama Touré
 Darsilam
-Darsilame
+Darsilamé
 Darègne
 Daré Diagal
 Daré Sermaké
@@ -1508,7 +1507,6 @@ Dibito
 Didioré
 Didé, Diédé
 Diedéli
-Dielinkine
 Dielmo, Dielmon
 Diemballa
 Diembo
@@ -1529,7 +1527,7 @@ Dieyène, Ndiayène Sirakhe
 Difourou
 Digane
 Digne
-Diguel, Ndiguel
+Diguel, N'Diguel
 Diguimar
 Diguine
 Diguèt, Diguète
@@ -1731,12 +1729,13 @@ Diéba
 Diébel Loro
 Diédègne, Diedegn
 Diégoun, Diagouine, Diagoun, Diagoune, Diégoune
-Diégue, Dianga
+Diégué, Dianga
 Diéla, Diella
 Diélani, Dicilané, Dissilané
 Diéleuk Peul
 Diéleuk Wolof, Ndiélék, Nguiélée
 Diéling, Dieline
+Diélinkine
 Diélé, Djélé
 Diélékénoum, Dilékénoum
 Diémi
@@ -1751,7 +1750,6 @@ Diéri Kao
 Diéré
 Djambou
 Djendji
-Djené
 Djibabouya, Djibabir, Djibadir
 Djibakounda
 Djibakéné
@@ -1824,6 +1822,7 @@ Djoumbel
 Djowel Ouorgo, Dioval Ouorgo, Diovol Ouorgo
 Djringoumane, Djiringoumane
 Djégou, Diégou
+Djéné
 Dobour, Dobou
 Dodel
 Dodji
@@ -1914,6 +1913,7 @@ Doyonbot
 Dramé Dimbou
 Dramé Matar
 Duambouti
+Dâm
 Dèbolaté
 Dèk Lès, Deck Laissé
 Dèk Rèye, Dègue Reye, Ndègue Reye, Ndégué-Diey
@@ -2033,7 +2033,6 @@ Farao
 Farar, Farrar
 Farato
 Farikounda, Faricounda
-Fas, Fas Kane
 Fas Boye, Fas Boué
 Fas Diayène
 Fas Dièye
@@ -2115,6 +2114,7 @@ Foutayel
 Foutouka
 Franding, Frandi
 Fufo
+Fâs, Fas Kane
 Félane
 Félou
 Férala
@@ -2296,7 +2296,7 @@ Gaye, Goui Gaye, Ngahaye, Ngahayes
 Gaye Bodé
 Gaye Paradji
 Gaye Tiali
-Gayene
+Gayène
 Gazel
 Gaé
 Gaégui
@@ -2521,7 +2521,6 @@ Guenntiéli
 Guennté Boye
 Guenté Tiélènka
 Gueoul Saloum
-Guer, N'Gueur
 Guerki, Garki
 Guerlé Ouolof
 Guesdiam, Guisdiame
@@ -2587,6 +2586,7 @@ Guènguè
 Guèntou
 Guènté Paté
 Guènté Vélingara, Guènté Vélinngara
+Guèr, N'Gueur
 Guèt Ardo
 Guète
 Guèto
@@ -2721,11 +2721,11 @@ Kadialin
 Kadiamari
 Kadiar, Kayerre
 Kadiar Peul, Kadiar Peulh, Kadlar Peul
-Kadiel, Kayel
 Kadiel Séoudou
 Kadiolo, Kadialouk
 Kadioré
 Kadié-Toukil-Baoudi
+Kadiél, Kayel
 Kadiéné
 Kadjinol, Cajinolle, Kajinole, Kajinolle
 Kadré Pavi
@@ -2969,8 +2969,8 @@ Katonfara, Takonfara, Tankonfara
 Katoté, Kototé
 Katoudié
 Katounor
-Kavel, Kavel Sinntiane, Kavel Sinthian, Kavel Sintiân
 Kavil
+Kavél, Kavel Sinntiane, Kavel Sinthian, Kavel Sintiân
 Kavél Kangal, Kavel Rangal
 Kawal, Kaoual
 Kawané
@@ -3156,7 +3156,6 @@ Keur Demba Sène
 Keur Demba Tintin
 Keur Demmba, Keur Demba Sab
 Keur Deuri
-Keur Diabel
 Keur Diaka
 Keur Dialo Sène
 Keur Diam
@@ -3176,6 +3175,7 @@ Keur Dimbou
 Keur Dinguérè, Keur Denguène
 Keur Diogou
 Keur Dip, Keur Dib
+Keur Diâbél
 Keur Diégane
 Keur Djibi, Ker Dibi
 Keur Djibrine Diop
@@ -3298,8 +3298,8 @@ Keur Mali Makham
 Keur Malik Diao
 Keur Malik Faye
 Keur Malindiaye
-Keur Malo, Keur Meulo
 Keur Malé
+Keur Malô, Keur Meulo
 Keur Mam Awa
 Keur Mama Lamine
 Keur Mamadou Diamatou
@@ -3997,13 +3997,13 @@ Kékokoto
 Kékréti
 Kél
 Kél Gueye
-Kélel
 Kélel Diop
 Kélimane
 Kélimbou
 Kélin Boulidiaro, Kélin Bonlidiaro
 Kéllol, Kelloul
 Kélléré, Kélléri
+Kélèl
 Kélèl Peul
 Kélékounda, Kélécounda
 Kéléma Kiri
@@ -4026,7 +4026,7 @@ Kéri, Kéry
 Kéri Ibromane, Keur Ibra Mane
 Kéri Ndiobène
 Kéroual
-Kérouane, Kéréouane
+Kérouané, Kéréouane
 Kéré Daga Ndiaye
 Kérékounda
 Kérévandialo
@@ -4232,7 +4232,6 @@ Lour Harao
 Lour Ouolof
 Lour-Escale, Lour
 Lourous, Lougous
-Loyène, Lohiène
 Loyène Bar
 Loyène Niérou, Loyéne Yérou
 Lyndiane
@@ -4273,6 +4272,7 @@ Léwa Diawandélé
 Léwé Damga
 Léwé Nguenar
 Léyène
+Lôyène, Lohiène
 Ma Samba
 Mabo
 Madayana, Madéana
@@ -4386,7 +4386,6 @@ Makoumba Souna
 Mal, Mall, Malle
 Mala Diop
 Malandiankounda
-Malem
 Malem Ba
 Malem Hodar
 Mali Keur Koumba, Mali
@@ -4399,6 +4398,7 @@ Malikounda Ngogom, Malikounda Ngocob
 Malikounda Sas, Malikounda Sass
 Malinda
 Malka
+Malèm
 Malèm Niani, Malème Nyani, Maléme-Niani
 Malème
 Malème Hodar
@@ -4577,7 +4577,7 @@ Mbamane
 Mbambara
 Mbanane
 Mbanar
-Mbande, Banda
+Mbandé, Banda
 Mbane
 Mbane Eléana
 Mbaniou
@@ -4601,7 +4601,7 @@ Mbassis
 Mbatar, Mbatar Irè
 Mbatias Dièye, Bathias, Bathias Dièye
 Mbaubène
-Mbaw, Grand Mbao, M'bao
+Mbaw, Grand Mbao, M'Baô
 Mbaw Gou Ndaw, Little M'Baô, Petit Mbao
 Mbawane, Mabaouane, Mbaouane
 Mbayar, Bayar
@@ -4618,7 +4618,6 @@ Mbaye Mbaye Tout
 Mbaye Minké, Baye Menké
 Mbaye Njinakh, N'Baye
 Mbaye Séo
-Mbayene, Mbavene Thiasde, Mbayen, Mbayène-Thiasdé, Mbaïène, N'Bayene Tiasdé, N'Bayène
 Mbayène 1
 Mbayène Ndakhar
 Mbayène Ndjoudam, Mbayène Ndjoudame
@@ -4635,9 +4634,7 @@ Mbelbouk, Belbouk, M'Bolbouck, Mbolbouk
 Mbelk
 Mbelkmor
 Mbenguène, Ben Guen
-Mber, N'Bir Gadda
 Mbetit Gouye, Mbetite
-Mbetèt, N'Bétète Kaou
 Mbeuksine, Mbessine
 Mbeuleukhé, Mbeulakhé, Mbeulaké, Mbeulekhé
 Mbeut, Mbeut Ndanguène, Mbeute, Mbout
@@ -4699,17 +4696,17 @@ Mboukoutour
 Mboul, Mboul Sérère, Nboul
 Mboul Larhar, Larhar
 Mboula
-Mboulem, Mboulème
 Mboulkane, M'Bolkam
 Mboulouk, M'Boulouch
 Mbouloum Séno
+Mboulèm, Mboulème
 Mboulé, N'Boul
 Mboume Niel
 Mboundou Mbaba, Boudou Mbaba
 Mboune, Mboung
 Mbounka Bambara
 Mboup, Mboute
-Mbour, Département de Mbour, Mbur
+Mbour, Département de M'bour, Mbur
 Mbouro
 Mbouromassi
 Mbouror
@@ -4729,11 +4726,13 @@ Mbram
 Mbrama Rat, Brâma
 Mbrar
 Mbress
+Mbâyène, Mbavene Thiasde, Mbayen, Mbayène-Thiasdé, Mbaïène, N'Bayene Tiasdé, N'Bayène
 Mbèlongout
 Mbèlègne Kodiolè
 Mbèndi, Mbenndi
 Mbène
 Mbèp
+Mbèr, N'Bir Gadda
 Mbèss
 Mbèye, Gouye Guéwel, Mbaï
 Mbédape
@@ -4755,6 +4754,7 @@ Mbémène
 Mbénguène Diavar, Mbéguène
 Mbéraye, Beraye, N'Beraye
 Mbétchi
+Mbétét, N'Bétète Kaou
 Mbéwane, Béouane, Mbéouane
 Mbéyène, Mbayen, Mbeyén
 Mbéyélogne, Mbèyélone
@@ -4985,13 +4985,13 @@ Natol
 Navarène
 Navel, Navelle
 Naydé
-Naye, Nayes
 Naye Boyal
 Naye Guédi
 Nayobé, Naïobé
 Nayon Diam Poulo
 Nayon Keur Kadi
 Nayon Madou
+Nayé, Nayes
 Naéré
 Naïdé
 Naïdé Boussa
@@ -5023,7 +5023,6 @@ Ndam Lo
 Ndam Matakh, N'Dam Motar Nar
 Ndam Ndam, Ndam Dam
 Ndama
-Ndame
 Ndamio
 Ndamlo
 Ndandantou, N'Dandet
@@ -5048,7 +5047,7 @@ Ndat Diokoul, N'Dioguel
 Ndatou
 Ndavéne, Ndaouène
 Ndawas Diagne, Ndavass
-Ndayane, Ndéyane
+Ndayané, Ndéyane
 Ndellé Boye
 Ndemgom
 Nder, Der
@@ -5101,10 +5100,10 @@ Ndiakhaté
 Ndiakhaté Sar
 Ndiakhaye, Ndiraye
 Ndiakher, Diarher
-Ndiakheté
 Ndiakhip I
 Ndiakhip II
 Ndiakhoumbo, N'Dia Koumpa, Ndiakhoumbo Yérou
+Ndiakhétè
 Ndiakir, Ndiaker
 Ndiakone
 Ndialak, Dialak
@@ -5132,8 +5131,7 @@ Ndianaour, Dia Kaou
 Ndianbour
 Ndianda, Dianda
 Ndiandane
-Ndiande, Dianda
-Ndiane
+Ndiandé, Dianda
 Ndiane Ndiaye
 Ndiane Sabo
 Ndiang, Dieng
@@ -5145,6 +5143,7 @@ Ndianiène Babori
 Ndiankot
 Ndianké, Dianka
 Ndianrhène
+Ndiané
 Ndiao
 Ndiao Bambali
 Ndiao Boudi
@@ -5313,7 +5312,7 @@ Ndiourki
 Ndiouss Dièye
 Ndioyène
 Ndioïli, N'Dioli
-Ndirene
+Ndirène
 Nditakh, Ndetach, Nditach, Nditarh
 Nditi
 Ndiyène
@@ -5407,6 +5406,7 @@ Ndoïtsé
 Ndramé
 Ndramé Escale, Dramé
 Ndurki, Ndw-ki
+Ndâme
 Ndèftili
 Ndèk, N'Deck
 Ndèm, N'Dème
@@ -5422,7 +5422,7 @@ Ndénak
 Ndéndoury, Dendori, Dendory, Ndiendouri, Ndindori
 Ndéng
 Ndénglé
-Nelbi, Nelby, Nelbé
+Nelbi, Nelby, Nelbè
 Nerane
 Nesséona
 Neteboulou, Néttéboulou
@@ -5707,7 +5707,6 @@ Niayène
 Niaéré
 Nibane
 Nibré Ba
-Niedine
 Nieng
 Niet
 Nimzat, Nimsate
@@ -5741,6 +5740,7 @@ Niounhani, Niounghani
 Nissi
 Nièm, Seignethiou-Niéme
 Nièr Ouolof
+Niédiné
 Niédébel
 Niéméniké, Niéménéki
 Niéniéné
@@ -5901,8 +5901,8 @@ Ouro Madiou
 Ouro Mamadou
 Ouro Mamadou Dinba
 Ouro Mamoud
-Ouro Molo, Ouro Mollo
 Ouro Médoul
+Ouro Môlo, Ouro Mollo
 Ouro Sidi
 Ouro Sily, Ouro Silli
 Ouro Singa, Ouro Sinnga
@@ -6063,7 +6063,6 @@ Petion
 Petit Balandine
 Petit Koulaye
 Petpal
-Petègne
 Petél
 Peuldognon
 Peunène
@@ -6143,6 +6142,7 @@ Pélél Kindéssa
 Pénédji
 Pétiadji
 Pétogne
+Pétègne
 Pétègne Kahone
 Pété
 Pété Nianguène
@@ -6250,7 +6250,7 @@ Saint-Louis, Ndar, River Region, Région de Saint-Louis, Région du Fleuve, Rég
 Sak, Sakh
 Sakagne
 Sakal, Nguick-Sakal, Sacal
-Sakale, Siarhalla
+Sakalé, Siarhalla
 Sakao
 Sakar
 Sakhodofi
@@ -6774,9 +6774,7 @@ Saré Sara
 Saré Sara Niama
 Saré Saradou
 Saré Saédou
-Saré Sekou
 Saré Sembel
-Saré Seni
 Saré Seïdi Sal
 Saré Sidi
 Saré Sikouna
@@ -6790,6 +6788,8 @@ Saré Souban
 Saré Souka
 Saré Souna
 Saré Sounkarou
+Saré Sékou
+Saré Séni
 Saré Séni Dialo
 Saré Séri
 Saré Také
@@ -6864,7 +6864,6 @@ Serigne Abo
 Serigne Aogamou
 Serpoli
 Sessoum
-Sessène
 Seun Sérèr, Serère Sène, Seun Sérère, Séne Sérère
 Seun Wolof, Sen, Seun Ouolof, Sène Ouolof, Séne Wolof
 Seydou Dia
@@ -6931,11 +6930,9 @@ Sindialong
 Sindian, Sinndian
 Sindina, Sinndina
 Sindou
-Sine
 Sine Altéré
 Sine Bilali
 Sine Gueye, Siné Diaye
-Sine Kane
 Sine Lèye Kane, Sine Leykane
 Sine Makoumba
 Sine Moktar
@@ -7152,6 +7149,8 @@ Sintiân Yéro, Sinntian Yéro, Sinthian Yéro
 Sintié Alenndao
 Sintié Belbouk
 Sintye Roudji
+Siné
+Siné Kane
 Siné Mbarik, Sini Baré
 Sioual
 Siouel
@@ -7367,6 +7366,7 @@ Sérifkounda
 Sérit, Sérif
 Sérouka, Cérouka, Sérouga
 Séré
+Séssène
 Sévane, Séyane
 Sône
 Taba
@@ -7547,7 +7547,7 @@ Teud Biti, Teudde Bitty
 Teudeu Biti
 Teugue Ndioguy, Tegu
 Teumb, Teumbou
-Teumbe
+Teumbé
 Teungué, Tengaé
 Teuptal
 Teural
@@ -7587,7 +7587,6 @@ Tiala
 Tialaga
 Tialane
 Tialbol
-Tiale
 Tialel
 Tialgou, Dalou
 Tialgouf
@@ -7597,6 +7596,7 @@ Tiallé
 Tialog Niane, Thialaga
 Tialèm
 Tialène, Taléna
+Tialé
 Tiam
 Tiamane
 Tiambak
@@ -7641,21 +7641,21 @@ Tiara Dimba Bie
 Tiaramalél, Tiarmalel, Trarmalel
 Tiarao Keur Madialé, Keur Tiarao-madialé, Tiarho
 Tiarap, Tiarape
-Tiare, Tiaret
 Tiargni
 Tiarhar, Thiathio
 Tiari Mbaye, Tiéri
 Tiarigne
 Tiarkhandam
 Tiaroye Guèdj, Thiaroye-sur-Mer, Tiaroye, Tiaroye-Mer, Tiaroye-sur-Mer
-Tiarène, Diaren, Diaréne
 Tiarène Alassane
 Tiarène Babou
 Tiarène Guissa, Guissa Sadio
 Tiarène Matar Pané
 Tiarène Sar
+Tiaré, Tiaret
 Tiaré Diomoye
 Tiaré Djilassèm
+Tiaréné, Diaren, Diaréne
 Tiaski
 Tiaski Ndialal
 Tiat Ngol, Tiatgol
@@ -7689,7 +7689,6 @@ Tienng, Tiengue
 Tienngoul, Tiènegou
 Tiennpol, Ten Peuhl
 Tienti, Tienté
-Tiep, Thièpe
 Tierno Siré
 Tieudèm, Thieudème
 Tieurigne, Tiérigne
@@ -7707,7 +7706,6 @@ Til Siéno
 Tila, Thyla
 Tilane
 Tilaye
-Tilel, Tidèle
 Tili Daga
 Tiliandé
 Tilla, Thilla
@@ -7720,6 +7718,7 @@ Tilmaka
 Tilmarha
 Tilmessane
 Tilogne Tokossel, Tilagne Tokossel
+Tilèl, Tidèle
 Tilène
 Tilé Boulou, Killa Boule
 Tilé Oundé
@@ -7805,11 +7804,12 @@ Tivaré, Tiavaré
 Tivel Bessel
 Tiviann Koulandiala
 Tièl, Thiel, Thiel-Sibé
-Tièlé, Thiélè N'diagne, Tiéllé
+Tièlé, Thiélè N'diagne, Tiellé
 Tièmène
 Tiène Tilène, Tieno Tillène
 Tiènekoli Diagne
 Tiènekoli Diop, Thinkouli
+Tièp, Thièpe
 Tièss
 Tièye
 Tiébo
@@ -8064,7 +8064,6 @@ Vèndou Koumba Khar, Vèndou Koumba Har
 Vèndou Makam, Oueydou-Makam, Vendou Maka, Venndou Makam, Wendou Maka
 Vèndou Mbam, Vèndou Bam
 Vèndou Mourtéki, Vèndou Moutchétéki
-Vèndou Namari
 Vèndou Pala
 Vèndou Séana
 Vèndou Séno, Vèndou Sénou, Wendou Seno
@@ -8085,6 +8084,7 @@ Vélinngara
 Vélor
 Vélor Sérère
 Véndou Dioyi
+Véndou Namâri
 Vénouané, Vénouamé
 Wak-Ngouna, Ouack Oungouna, Ouak Ngouna, Quack Oumgouna, Wack Ngouna
 Wakhal, Ouakal, Warhal
@@ -8128,8 +8128,8 @@ Yak Sao
 Yal
 Yamal
 Yamana
-Yamane, Yamane Sogg, Yamane Sogue
 Yamane Sek, Gaman Sek
+Yamané, Yamane Sogg, Yamane Sogue
 Yamatoyène
 Yamoussa
 Yang Yang

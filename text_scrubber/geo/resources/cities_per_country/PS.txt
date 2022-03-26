@@ -280,7 +280,7 @@ Barqan, Barkan, Broqeen, בַּרְקָן, ברקן
 Barqan B
 Barţa'ah ash Sharqīyah, Khirbat Barţa'ah, Khirbat Barṭa'a, برطعة الشرقية
 Bat A'in, Bat Ayin, Naẖal Ẕor'ef, Zoref, בַּת עַיִן, בת עין
-Battir, Beitar Illit, Betar, Betar Illit, ביתר עילית, بتير
+Battīr, Beitar Illit, Betar, Betar Illit, ביתר עילית, بتير
 Bayt 'Abd al Qādir, Beit 'Abd el Qādir, Beit 'Abdul Qadir
 Bayt 'Amrah, Khirbat Bayt 'Amrah, Khirbat Bayt Imrān, Khirbat Beit 'Amra, Khirbat Beit 'Imra, بيت عمرة
 Bayt 'Anān, Bayt 'Inān, Beit I'nān, بيت عنان
@@ -301,7 +301,7 @@ Bayt Iksā, Beit Iksa, Beit Ixxa, بيت إكسا
 Bayt Imrīn, Bayt Umrīn, Beit Umrīn, بيت إمرين
 Bayt Jālā, Beit Jālā, بيت جالا
 Bayt Kāḩil, Beit Kāḥil, بيت كاحل
-Bayt Liqyā, Beit Liqyā, Biet Liqia, Likia, بيت لقيا
+Bayt Liqyā, Beit Liqya, Biet Liqia, Likia, بيت لقيا
 Bayt Lāhyā, Bayt Lāhiya, Bayt Lāhiyah, Beit Lahia, Beit Lahya, Beit Lāhiya, بيت لاهيا
 Bayt Līd, Beit Leed, Beit Līd, بيت ليد
 Bayt Maqdum, Khirbat Bayt Maqdūm, Khirbat Beit Maqdum, بيت مقدوم
@@ -350,7 +350,6 @@ Biddū, Beddo, Bidu, بدو
 Bidyā, Bedia, Biddiyā, Biddyā, Bidia, Bidieh, Bidiye, Biryah, بديا
 Biet Anan, Bayt 'I'nan, Beit 'Anan
 Bil'īn, بلعين
-Bir Nabala, بير نبالا
 Birqīn, Burqīn, برقين
 Biyār al 'Arūs, Khirbat Raq'a, Khirbat Raq'ah, Khirbat Ruq'ah, بيار العروس
 Brosh, ברוש
@@ -364,6 +363,7 @@ Bāb as Sāhirah, باب الساهرة
 Bāqah ash Sharqīyah, Baqa ash Sharqiya, Bāqa esh Sharqiya, Bāqat ash Sharqīyah, باقة الشرقية
 Bāqat al Ḩaţab, Baka, Bāqa, Bāqah, باقة الحطب
 Bīr Musallam, بير مسلم
+Bīr Nabālā, بير نبالا
 Bīr Zayt, Az Zayt, Bi'r az Zayt, Bir Ziet, Birzeit, Bīr Zeit, بير زيت
 Bīr al Bāshā, بير الباشا
 Bīrīn, بيرين
@@ -459,7 +459,7 @@ H̱innanit, Hinanit, חִנָּנִית, חיננית
 H̱omesh
 H̱oron Gimmel
 Ibzīq, Khirbat Ibziq, إبزيق
-Idhna, Idnah, Idnā, إذنا
+Idhnā, Idnah, Idnā, إذنا
 Ijnisinyā, إجنسنيا
 Iktābah, Iktaba, إكتابة
 Ilar, Ellar
@@ -475,7 +475,7 @@ Itamar, איתמר
 Izmut, Azmout
 Jaba', Al Jaba', Geva', Jeba, جبع
 Jabal al Mukabbir, جبل المكبر
-Jabālyā, Jabalia, Jabāliyā, جباليا
+Jabālyā, Jabalia, Jabaliya, جباليا
 Jafā an Nūn, جفا النون
 Jalamat as Siyār, Jalamāt eṣ Ṣiyar
 Jalbūn, Djelbon, Gilbo'a, جلبون
@@ -550,8 +550,8 @@ Khallat an Nu'mān, خلة النعمان
 Khallat Şāliḩ, خلة صالح
 Khallat Ḩamad, خلة حمد
 Khallat Ḩamāmah, خلة حمامة
-Kharbatha Bani Harith, Kharbatha Bani Hareth, Kharbatā, Khirbatā, خربثا بني حارث
 Kharbatha al-Misbah
+Kharbathā Banī Ḩārith, Kharbatha Bani Hareth, Kharbatā, Khirbatā, خربثا بني حارث
 Kharbathā al Mişbāḩ, Khirbat al Mişbāḩ, Khirbat el Miṣbāḥ, خربثا المصباح
 Kharā'ib Umm al Laḩm, Khirbat Baţin Abū Liḩyah, Khirbat Bātin Abn Lihya, Khirbat Bātin Abū Liḥya, خرائب أم اللحم
 Khashm ad Daraj, Al Hadhdhālīn, الهذالين, خشم الدرج
@@ -654,7 +654,7 @@ Khān Yūnis, Hanūt Yōnā, Khan Younes, Khan Yumus, Khān Yūnus, Yunas, Yunus
 Khān al 'Askar, Khān el 'Askar
 Khārās, خاراس
 Kida, קידה
-Kifil Ḩāris, Kafr Ḩaris, Kefel Hares, Kiel Ḥārith, Kifl Hareth, Kifl Ḩārith, كفل حارس
+Kifil Ḩāris, Kafr Ḩaris, Kefel Hares, Kiel Ḥārith, Kifl Hareth, Kifl Harith, كفل حارس
 Kokhav Ya'aqov, Kokhav Ya'akov, כּוֹכַב יַעֲקֹב, כוכב יעקב
 Kufayrit, Kufayrāt, Kufeirit, Kufeirāt, كفيرت
 Kufr Rai', Kufer-Rai
@@ -777,7 +777,7 @@ Qarāwat Banī Zayd, Qarawat Bani Zeid, Quarāwat Banī Zeid, قراوة بني 
 Qarāwat Banī Ḩasan, قراوة بني حسان
 Qawāwīs, Khirbat al Kuwayyis, Khirbat al Kuweiyis, Khirbat el Kuwaiyis, قواويس
 Qaţanah, Katanneh, Qatana, Qatanna, Qatanne, Qaţannah, قطنه
-Qedar, קֵדָר, קידר
+Qedar, Kedar, קידר
 Qedumim, Kdumim, Kedumim, קדומים
 Qedumim 'Illit, Qedumim Zefon
 Qibyah, Kibbia, Qibye, Qibyā, قبيه

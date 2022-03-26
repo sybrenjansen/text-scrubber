@@ -577,10 +577,10 @@
 'Aïn Slouguia
 'Aïn Smaharouch
 'Aïn Smar
-'Aïn Smara
 'Aïn Smir
 'Aïn Smoïma
 'Aïn Smoûma, Aïne Semouma, Aïne Seymouma
+'Aïn Smâra
 'Aïn Sokhna, 'Aïn Soklna
 'Aïn Soltane
 'Aïn Souar
@@ -747,7 +747,7 @@
 'Aïn ech Chehem
 'Aïn ech Chemara
 'Aïn ech Cherguia
-'Aïn ech Cheïkh, Aïn Cheik, Aïn ech Cheïkr
+'Aïn ech Cheïkh, Ain ech Cheikr, Aïn Cheik
 'Aïn ech Chouf
 'Aïn ed Deba, Aïn ed Daba
 'Aïn ed Debdaba
@@ -1171,7 +1171,7 @@ Adrar Ihettane
 Adrar Ikohahoene
 Adrar Ikouhaouene, Adrar-Ikukhaven
 Adrar Ikozeraren
-Adrar Ilassene, Djebel Ilassen
+Adrar Ilassène, Djebel Ilassen
 Adrar Imehellatene, أدرار إيمهلاتن, إيمهلاتن
 Adrar Imezzouren, Adrar-Imezzuren
 Adrar Imodat
@@ -1509,8 +1509,6 @@ Ain Bousbinat
 Ain Feresse
 Ain Ghorab
 Ain Kalaa
-Ain Mansour, Aïn Biko
-Ain Nessissa, Aïn en Nesissa
 Ain Radja, 'Aïn Raadjou
 Ain Rouafaa
 Ain Smir
@@ -1520,13 +1518,10 @@ Ain Taiba
 Ain Temeksa
 Ain Tilghounine
 Ain Tounousnelte, Aïn Toursrhet
-Ain el Beida
 Ain el Berda
 Ain el Gossiaa
-Ain el Hallouf
 Ain el M'Kam
 Ain el Menassir
-Ain el Morra
 Ajdir
 Ajdir Chergui
 Ajdir Rharbi
@@ -2373,7 +2368,7 @@ Aïn Dar Elouati
 Aïn Dar Ezzemam
 Aïn Dar el Ghaba
 Aïn Dar el Maraima
-Aïn Dardar
+Aïn Dardâr
 Aïn Dardâra
 Aïn Deba
 Aïn Debb
@@ -2651,6 +2646,7 @@ Aïn Malha
 Aïn Malkessab
 Aïn Mallah, 'Aïn Mellal
 Aïn Mannkouch
+Aïn Mansour, Aïn Biko
 Aïn Maougef el Kheil
 Aïn Markaz
 Aïn Markounda
@@ -2737,6 +2733,7 @@ Aïn Nechmaya
 Aïn Necissa
 Aïn Nefeka
 Aïn Nehala
+Aïn Nessissa, Aïn en Nesissa
 Aïn Nezaouet
 Aïn Niati
 Aïn Noufel
@@ -2815,7 +2812,7 @@ Aïn Sahraouia
 Aïn Said el Djedri, Aïn Faïd el Djedri
 Aïn Saïd
 Aïn Saïd Ben Ali
-Aïn Sbaa
+Aïn Sbaâ
 Aïn Sbir
 Aïn Sbouda
 Aïn Seba
@@ -2858,8 +2855,8 @@ Aïn Sidi Mohammed
 Aïn Sidi Moussa
 Aïn Sidi Muhamed
 Aïn Sidi Renem
-Aïn Sidi Said
 Aïn Sidi Salah
+Aïn Sidi Saïd
 Aïn Sidi Slimane
 Aïn Sidi Yaanes
 Aïn Sidi Yahia
@@ -3060,7 +3057,7 @@ Aïn ed Dalia
 Aïn ed Daïdia
 Aïn ed Deb
 Aïn ed Deba
-Aïn ed Defla
+Aïn ed Deflā
 Aïn ed Dehane
 Aïn ed Dekkârat
 Aïn ed Dhan
@@ -3115,7 +3112,6 @@ Aïn el Baticha
 Aïn el Baïdha
 Aïn el Begrate
 Aïn el Behim
-Aïn el Beidha, Aïn Krerba
 Aïn el Beilek
 Aïn el Bekaya
 Aïn el Bekouch
@@ -3126,6 +3122,8 @@ Aïn el Berdil
 Aïn el Bessol
 Aïn el Bey
 Aïn el Beïd
+Aïn el Beïda
+Aïn el Beïdha, Aïn Krerba
 Aïn el Bhara
 Aïn el Bi'r
 Aïn el Bidr
@@ -3213,11 +3211,12 @@ Aïn el Hadjel
 Aïn el Hadna
 Aïn el Halfaoui
 Aïn el Halilifa
+Aïn el Hallouf
 Aïn el Hamam
 Aïn el Hamara
 Aïn el Hamimime
 Aïn el Hamma
-Aïn el Hammam
+Aïn el Hammâm
 Aïn el Hamra, Aïn el Amra
 Aïn el Hanech
 Aïn el Hara
@@ -3320,6 +3319,7 @@ Aïn el Miret
 Aïn el Mizab
 Aïn el Mkarif
 Aïn el Mkhref
+Aïn el Morra
 Aïn el Mâ
 Aïn el Nebia
 Aïn el Ogab, 'Aïn el Agab
@@ -4580,7 +4580,7 @@ Bled Bou Aricha
 Bled Bou Aïcha
 Bled Bou Bahar
 Bled Bou Bahloul
-Bled Bou Chentouf, بلاد بو شنتوف, بلاد بوشنتوف
+Bled Bou Chentouf, بلاد أبو شنتوف, بلاد بوشنتوف
 Bled Bou Chouch
 Bled Bou Dale
 Bled Bou Debarh
@@ -6413,9 +6413,9 @@ Chabet Bou Rhnem
 Chabet Bou Rkra
 Chabet Bou Rzêm
 Chabet Bou Saad
-Chabet Bou Said
 Chabet Bou Salah
 Chabet Bou Salem
+Chabet Bou Saïd
 Chabet Bou Sekkine
 Chabet Bou Taroua
 Chabet Bou Teamat
@@ -7009,7 +7009,6 @@ Chabet Ramous
 Chabet Raouraoua
 Chabet Ras el Ain, Chaba Ras el Aïr
 Chabet Ras el Ma
-Chabet Ras el Oued
 Chabet Rasfa
 Chabet Rassoul
 Chabet Rayen
@@ -7028,12 +7027,12 @@ Chabet Rouaraoua
 Chabet Rouariou
 Chabet Rouaïssia
 Chabet Rouga
+Chabet Râs el Oued
 Chabet S'baihia
 Chabet S'oudi
-Chabet Saada
 Chabet Saadoun
 Chabet Sabeg
-Chabet Safsaf
+Chabet Safsâf
 Chabet Sahari
 Chabet Sala
 Chabet Samar Boudjnah
@@ -7122,6 +7121,7 @@ Chabet Souk Hale
 Chabet Souk el Attaf
 Chabet Souâr
 Chabet Syakane
+Chabet Sâada
 Chabet T'Mar
 Chabet Taardel
 Chabet Tabbal
@@ -7388,13 +7388,13 @@ Chabet el Biadh
 Chabet el Biar
 Chabet el Biod
 Chabet el Bita, Chabet el Bitar
-Chabet el Biya
 Chabet el Bogueur
 Chabet el Botma
 Chabet el Bouazza
 Chabet el Boura
 Chabet el Bouxerfa
 Chabet el Bya, Chabet el Lebba
+Chabet el Bîya
 Chabet el Cadi
 Chabet el Dahma
 Chabet el Djadj
@@ -7567,7 +7567,7 @@ Chabet el Kharoua
 Chabet el Kharoub
 Chabet el Kharouba, Chaba Kadous
 Chabet el Kharroub
-Chabet el Kharrouba
+Chabet el Kharroûba
 Chabet el Khenak
 Chabet el Khenouti
 Chabet el Khenza
@@ -7676,12 +7676,12 @@ Chabet el Nedali
 Chabet el Ogla, شعبة العقلة
 Chabet el Onsor
 Chabet el Ouaar
-Chabet el Ouaara
 Chabet el Ouahas
 Chabet el Ouahri
 Chabet el Ouara
 Chabet el Ouared
 Chabet el Ouarik
+Chabet el Ouaâra
 Chabet el Ouine
 Chabet el Ouker Sehir
 Chabet el Oukri
@@ -7756,7 +7756,7 @@ Chabet ez Zouatir
 Chabet ez Zoubia
 Chabet ez Zraout
 Chabir
-Chabounia
+Chabounïa
 Chaf el Gtaf
 Chafer el Oued
 Chafet
@@ -8769,7 +8769,7 @@ Commune de Souarakh
 Commune de Sougueur
 Commune de Souk Ahras
 Commune de Souk Naamane
-Commune de Souk et Tenine, Souk El Tenine, بلدية سوق الاثنين, سوق الإثنين
+Commune de Souk et Tenine, Souk El Tenine, بلدية سوق الإثنين, سوق الإثنين
 Commune de Souma
 Commune de Sour el Ghozlane
 Commune de Staoueli
@@ -8788,7 +8788,7 @@ Commune de Takhemaret, Takhmaret
 Commune de Tala Hamza
 Commune de Tala Ifacene
 Commune de Tamalous
-Commune de Tamanrasset, Commune de Tamanghasset, بلدية تمنراست, بلدية تمنغاست, تامنراست, تامنغاست
+Commune de Tamanrasset, Commune de Tamanghasset, بلدية تامنراست, بلدية تامنغاست, تامنراست, تامنغاست
 Commune de Tamlouka
 Commune de Tamzoura
 Commune de Taougrite
@@ -9483,7 +9483,6 @@ Daïet el Kraker
 Daïet el Ksouria
 Daïet el Lebene, Daïet el Leben
 Daïet el Louha
-Daïet el Ma
 Daïet el Ma el Foukania, Dayet el Ma
 Daïet el Ma et Tahtania
 Daïet el Maadna
@@ -9531,6 +9530,7 @@ Daïet el Morra
 Daïet el Mouassa
 Daïet el Mouidjnat
 Daïet el Mraneb
+Daïet el Mâ
 Daïet el Ouassa
 Daïet el Oubira
 Daïet el Ouhrar
@@ -10147,7 +10147,7 @@ Djebel Belkacem, Djebel Sidi Bou Kassem
 Djebel Belkassem
 Djebel Belklif, Djebel Belkfif
 Djebel Bellemou
-Djebel Bellout, Djebel Balloût, Jebel Ballut
+Djebel Belloût, Djebel Balloût, Jebel Ballut
 Djebel Beloua
 Djebel Belrala, Djebel Berrhâlâ
 Djebel Belrhit
@@ -10276,7 +10276,7 @@ Djebel Bou Anoual
 Djebel Bou Araâra
 Djebel Bou Arb
 Djebel Bou Ari
-Djebel Bou Arif
+Djebel Bou Arîf
 Djebel Bou Asloudja, Djebel Bou Aslouge
 Djebel Bou Assas
 Djebel Bou Assera
@@ -10324,7 +10324,7 @@ Djebel Bou Gueri
 Djebel Bou Guetaïa
 Djebel Bou Habbel, Djebel Bou Habel
 Djebel Bou Halloûf, Djebel Bou Khallouf, Djebel Bou Krallouf
-Djebel Bou Hamza, جبل بو حمزة, جبل بوحمزة
+Djebel Bou Hamza, جبل أبو حمزة, جبل بوحمزة
 Djebel Bou Haram, Djebel Oum Haram
 Djebel Bou Hayad
 Djebel Bou Hedefene
@@ -10394,7 +10394,6 @@ Djebel Bou Ouchene
 Djebel Bou Radi
 Djebel Bou Rahmouna
 Djebel Bou Rdim
-Djebel Bou Redim
 Djebel Bou Remli
 Djebel Bou Rhara
 Djebel Bou Rharda
@@ -10426,7 +10425,6 @@ Djebel Bou Thghatin
 Djebel Bou Tizerha, Djebel Boû Tizra
 Djebel Bou Tlarmine, Djebel Bou Tlaamine
 Djebel Bou Tokhma
-Djebel Bou Touil
 Djebel Bou Yaalou, Koudiat Bou Yalou
 Djebel Bou Yaggour
 Djebel Bou Yala
@@ -10446,7 +10444,6 @@ Djebel Bouafroune
 Djebel Bouaguada
 Djebel Boualem, Djebel Boualeni
 Djebel Boualihoum
-Djebel Bouarous, Bou-Arou, Boukarouk, Djebel Bou Arous
 Djebel Bouasla
 Djebel Bouchkeoua
 Djebel Bouchlaam
@@ -10525,14 +10522,17 @@ Djebel Bouziane
 Djebel Bouziza
 Djebel Bouzourlech
 Djebel Bouâallag, Djebel Bou Allag
+Djebel Bouârous, Bou-Arou, Boukarouk, Djebel Bou Arous
 Djebel Bouâta
 Djebel Boû Aïchem
 Djebel Boû Hanech
 Djebel Boû Keltoum, Bou Keltoun, Bu Keltun, Koudiat Bou Keltoum, Sommet Bou Keltoum
 Djebel Boû Lemrhâref
 Djebel Boû Rdjiyâ, Djebel Bourdjia
+Djebel Boû Redîm
 Djebel Boû Sbîh
 Djebel Boû Sella
+Djebel Boû Touil
 Djebel Boûdjabar, Bou Djabeur
 Djebel Bram
 Djebel Brame
@@ -11549,9 +11549,9 @@ Djebel Mesla
 Djebel Mesloûla
 Djebel Mesrane
 Djebel Mesrour
-Djebel Messaad
 Djebel Messaoud, Neza Messaoud
 Djebel Messaouda
+Djebel Messaàd
 Djebel Messaïga
 Djebel Messebis
 Djebel Messegma
@@ -11654,8 +11654,8 @@ Djebel Mrid
 Djebel Mrires
 Djebel Msalla
 Djebel Msaïdine
-Djebel Msid, Djebel M'Cid
 Djebel Msid Aïcha, Djebel Mcid Aïcha, Djebel Meid Aïcha, Moid Aicha
+Djebel Msîd, Djebel M'Cid
 Djebel Msîouene, Djebel Messiouene
 Djebel Murdjadjo, Djebel Murdjardjo, Djebel Murjojo
 Djebel Mzara
@@ -11817,7 +11817,7 @@ Djebel R'Kine, Djebel er Roukine
 Djebel Rabah
 Djebel Rachah
 Djebel Radama
-Djebel Ragouba, Djebel Ragoub
+Djebel Ragoûba, Djebel Ragoub
 Djebel Rahama
 Djebel Rahima
 Djebel Rakna
@@ -11922,7 +11922,6 @@ Djebel Sahridj Beladda, Djebel Saharidj Ben Lebda
 Djebel Sakfal, Djebel Sekfet
 Djebel Sakha, Djebel Sakra
 Djebel Saksak
-Djebel Salah
 Djebel Sameur
 Djebel Sandel, Djebel Sanndel
 Djebel Sannto
@@ -12134,6 +12133,7 @@ Djebel Sridja
 Djebel Srim
 Djebel Stah Damous, Djebel Stah Damouss
 Djebel Staïha
+Djebel Sâlah
 Djebel T'Mexi
 Djebel T'nadhourat
 Djebel Ta Fertas, Djebel Ta Fortas, Djebel Tafortass
@@ -12287,7 +12287,7 @@ Djebel Tayagrine
 Djebel Tayeb, Djebel et Taïeb
 Djebel Tazaanount, Djebel Tazanount, Taznount, Taznunt
 Djebel Tazamt, Djebel Tazzomt, Djebel Tazzoumt
-Djebel Tazarine
+Djebel Tazarîne
 Djebel Tazbent, Djebel Tazbennt, جبل تازبنت
 Djebel Tazdout
 Djebel Tazedtcha
@@ -12750,12 +12750,12 @@ Djebel el Forn
 Djebel el Fouara
 Djebel el Fras
 Djebel el Fîd, Djebel el Feid
-Djebel el Gaada
 Djebel el Gada
 Djebel el Galaa
 Djebel el Galaa Kebira
 Djebel el Ganntra
 Djebel el Garsa
+Djebel el Gaâda
 Djebel el Gaïd
 Djebel el Ghaba
 Djebel el Ghanoul
@@ -12816,7 +12816,7 @@ Djebel el Hafaïr el Guitoun, Jebel el Hafaïr el Guitoun
 Djebel el Hag Hag
 Djebel el Halfa
 Djebel el Halhal
-Djebel el Hallouf
+Djebel el Halloûf
 Djebel el Hamar
 Djebel el Hamimat Guerra
 Djebel el Hamira
@@ -12873,7 +12873,6 @@ Djebel el Keskasse
 Djebel el Keskes
 Djebel el Ketaf
 Djebel el Khabara
-Djebel el Khaloua
 Djebel el Khannga, Djebel el Khanga, Djebel el Kranga
 Djebel el Kharroub
 Djebel el Khart
@@ -12884,6 +12883,7 @@ Djebel el Khemis
 Djebel el Khengue
 Djebel el Kherba
 Djebel el Khouma
+Djebel el Khâloua
 Djebel el Kifane
 Djebel el Kihal
 Djebel el Klaïlia
@@ -12921,7 +12921,6 @@ Djebel el Mafla, Djebel Nâfla
 Djebel el Mahloudj
 Djebel el Mahreg
 Djebel el Mahrouga
-Djebel el Maida
 Djebel el Malah
 Djebel el Mallia, Djebel el Malia
 Djebel el Manndra, Djebel el Mandra, Djebel el Mardra
@@ -12932,6 +12931,7 @@ Djebel el Massouda
 Djebel el Matlag, Djebel el Matlek
 Djebel el Matmore
 Djebel el Mazouch
+Djebel el Maïda
 Djebel el Maïder
 Djebel el Mdarradj
 Djebel el Mebres, Djebel Bradia
@@ -13318,7 +13318,7 @@ Douar Ataïtia
 Douar Azziz
 Douar Aïn Khiar
 Douar Aïn Soltane
-Douar Aïn et Tabia
+Douar Aïn et Tâbia
 Douar Bakhadd, Douar Baccada
 Douar Bel Hadj
 Douar Belkhairia
@@ -14105,7 +14105,6 @@ Eder Orhane
 Edh Dhaia
 Edh Dhelaa el Hamra
 Edh Dhraa
-Edikel, Oued Idekel
 Edjdiarchaou
 Edje-n-Efer
 Edjef
@@ -14120,7 +14119,6 @@ Edjif Mellene, Oued Idjef Melene
 Edjérir-en-Hemma, Edjerer-n-Hamma, Oued Eg'erir-n- Hamma
 Edough, Edourh, Edugh
 Edyour
-Eferi
 Eferi-n-Ahebeh
 Eg'eleh, Adrar Eg Eleh, Kramfoussa, Kramfoussa Eg'eleh
 Egatalis, Kef
@@ -14228,7 +14226,6 @@ El Arekim
 El Arf
 El Argoub
 El Ariar
-El Arich, Erg el Ariche
 El Arich Zine
 El Arich et Tahtania
 El Aricha
@@ -14244,6 +14241,7 @@ El Arithat
 El Arouda
 El Aroug
 El Aroui
+El Arîch, Erg el Ariche
 El Asfer
 El Assa
 El Assaba
@@ -14293,7 +14291,6 @@ El Bayadh, Arrondissement d'El Bayadh, El Bayadh Province, Wilaya d'El Bayadh, �
 El Bayadha
 El Baïad
 El Baïdha
-El Baïer
 El Baïgla
 El Baïter
 El Baïza
@@ -14370,6 +14367,7 @@ El Breïdja Medya, El Breija Medya
 El Breïer
 El Bricha
 El Bridat
+El Bâïer
 El Chayef
 El Choucha el Beïda
 El Djafriat
@@ -14446,7 +14444,6 @@ El Fritis, El Fritiss
 El Froud
 El Gaa
 El Gaa Taatzebar, El Goa Taatzebar
-El Gaada
 El Gaada el Hamra
 El Gaada el Kahla
 El Gaada ez Zerga
@@ -14541,8 +14538,8 @@ El Guerbous
 El Guern
 El Guernidj, El Guernich
 El Guernini, القرنيني
-El Guessaa
 El Guessaha
+El Guessaâ
 El Gueta
 El Guetaf
 El Guetatia
@@ -14552,6 +14549,7 @@ El Guettar
 El Guettat, El Guétatt
 El Guettob el Hamara
 El Gueïbbedj
+El Gâada
 El H'Rahar
 El H'mamia
 El Hab Ben Ali
@@ -14933,11 +14931,11 @@ El Meksem
 El Meksem Mta el Hadeba
 El Mektela
 El Mektla
-El Melaab
 El Melab
 El Melabed
 El Melaga, Djebel el Mlaga
 El Melah
+El Melaâb
 El Melha
 El Melhab
 El Melk
@@ -16082,7 +16080,6 @@ Foret de Zelamta
 Foret de l'Oued Chaïba, Chaïba
 Foret des Righas
 Foret du Sahel
-Foret el Assa
 Foret el Marbouk
 Forthassa Cherguia
 Forêt Affaïne
@@ -16251,8 +16248,8 @@ Forêt de l'Oued Fodda, غابة وادي الفضة
 Forêt de l'Oued Massine
 Forêt de l'Oued Okhriss, Forêt de l'Oued Okris
 Forêt de l'Oued Rhâlem, Forêt de l'Oued Ranem
-Forêt de l'Oued Soudane, Forêt de l'Oued Soudan
 Forêt de l'Oued Souffay
+Forêt de l'Oued Soûdâne, Forêt de l'Oued Soudan
 Forêt de la Macta
 Forêt de la Mahouna
 Forêt des Arres
@@ -16298,6 +16295,7 @@ Forêt du Mezbel
 Forêt du Rezgoun
 Forêt du Tamgout
 Forêt du Zaccar
+Forêt el Assa
 Forêt es Safsaf
 Fossé du Pharaon
 Fouar
@@ -16930,7 +16928,7 @@ Garet el Bâba
 Garet el Djeder
 Garet el Djediâne
 Garet el Djeleb
-Garet el Djenoun, Mount Djenoun, أودن, قارة الجنون
+Garet el Djenoun, Mount Djenoun, أودان, قارة الجنون
 Garet el Djir, Garet el Jir
 Garet el Djofra
 Garet el Djoub
@@ -19350,8 +19348,8 @@ Hassi es Srhir, Hassi es Serhir
 Hassi et Tebib
 Hassi et Touhami
 Hassi et Touil
-Hassi et Touila, Et Touila
 Hassi et Toumi
+Hassi et Touîla, Et Touila
 Hassi et Trifaïa
 Hassi ez Zebirat
 Hassi ez Zerga
@@ -19635,7 +19633,7 @@ Ich Rahmoun
 Idaghene
 Idahidane
 Idane
-Ideles, ادلس
+Ideles, أدلس
 Iderral
 Idhamous
 Idher Yassine
@@ -19646,7 +19644,7 @@ Idjenoudjane
 Idjloudjal, Oued Iguelougal
 Idjîfene Ouetnîne
 Idoudess
-Idoukal, Oued Idoukal
+Idoûkâl, Oued Idoukal
 Idâghene Itedjarnine, Itedjarnine, Oued Itedjarnine
 Ienzouen
 Ietti, Yetti, Yitti
@@ -20417,7 +20415,6 @@ Kef Ourrou
 Kef Pebiga
 Kef R'Djal Ras
 Kef Rafsa el Hamra
-Kef Rakhma, Kef Rakrma
 Kef Ramta
 Kef Randek, Kef Ranndek
 Kef Ras el Mecheri
@@ -20489,7 +20486,6 @@ Kef Snouber
 Kef Sosia
 Kef Souka
 Kef Soumar
-Kef Sridja, Kef Seridja
 Kef Sétif
 Kef Tabarannde
 Kef Tacherchourt
@@ -20611,7 +20607,6 @@ Kef el Argoub
 Kef el Arich
 Kef el Arriguib
 Kef el Asfar
-Kef el Asfer, Kef Lasfer Rocher, Kef el Assfer, Kef el Aster, Rocher Kef el Asfer
 Kef el Assa
 Kef el Assel
 Kef el Assila
@@ -20667,7 +20662,7 @@ Kef el Guefsa
 Kef el Guelaa
 Kef el Guelta
 Kef el Guemb
-Kef el Guenaine
+Kef el Guenaïne
 Kef el Guenina
 Kef el Guennat
 Kef el Guerra
@@ -20684,7 +20679,6 @@ Kef el Hamam
 Kef el Hamama
 Kef el Hamar
 Kef el Hamira
-Kef el Hammam, Djebel Kourima
 Kef el Hammar, Kef el Hamara
 Kef el Haou
 Kef el Harch
@@ -20784,7 +20778,6 @@ Kef er Rebia
 Kef er Reguiba, Kef er Reguiga
 Kef er Rekab
 Kef er Rekham
-Kef er Rekhma, Kef er Rekrma
 Kef er Rekma
 Kef er Remoûl, Kef er Rermoul
 Kef er Riba
@@ -21470,9 +21463,9 @@ Koudia Tirrhane
 Koudia Tkabaout
 Koudia Tmer
 Koudia Tobet Bel Kassem
-Koudia Touila
 Koudia Toumbaït
 Koudia Tounes
+Koudia Touîla
 Koudia Tricourbas, Koudiat Trikourbas
 Koudia Zadra
 Koudia Zana
@@ -21843,7 +21836,6 @@ Koudiat Taferchat
 Koudiat Tafersiouant, Koudia Taferstouannt
 Koudiat Tafkert
 Koudiat Tafres
-Koudiat Taicha
 Koudiat Takitount
 Koudiat Talet Ben Slimane
 Koudiat Tamarziou
@@ -21855,6 +21847,7 @@ Koudiat Taouze
 Koudiat Tarbibt
 Koudiat Tartaba
 Koudiat Tatrennt
+Koudiat Taïcha
 Koudiat Tella
 Koudiat Tellout Ennsour
 Koudiat Temmedda
@@ -22697,9 +22690,9 @@ Koudiet el Djaabette, Koudiat ed Djabet
 Koudiet el Djamaa et Touil
 Koudiet el Djedîda, Djebel Agna, Koudia Badis
 Koudiet el Djemmaâ
-Koudiet el Djir, Koudiat el Djar, Koudiat el Djiar
 Koudiet el Djira
 Koudiet el Djouala
+Koudiet el Djîr, Koudiat el Djar, Koudiat el Djiar
 Koudiet el Faham
 Koudiet el Fedj
 Koudiet el Fella
@@ -22811,7 +22804,7 @@ Koudiet el Rhoraf
 Koudiet el Toualat
 Koudiet el Yemk
 Koudiet en Naama
-Koudiet en Nador
+Koudiet en Nadôr
 Koudiet en Naga, Koudiat en Nagua
 Koudiet en Naïma
 Koudiet en Nesnissa
@@ -22957,18 +22950,22 @@ Kêf Mta' Berouâg
 Kêf Mâssîda, Djebel Massida
 Kêf Na'oûra, Kêf el Na'oura
 Kêf Nsoûr, Kef el Mannsour
+Kêf Rakhma, Kef Rakrma
 Kêf Sa'ed, Koudia Ragouba
 Kêf Seb'a Mzâyer, Kef Seba Mzaer
 Kêf Sekhra
 Kêf Sekhrâoui
 Kêf Sidi Ali el 'Ariane, Kef el Khiane, Kef el Kriane
+Kêf Sridja, Kef Seridja
 Kêf ech Cheraga
 Kêf el 'Aïacha
 Kêf el 'Oûrsa, Djebel Bou Hafessa
 Kêf el Abied
+Kêf el Asfer, Kef Lasfer Rocher, Kef el Assfer, Kef el Aster, Rocher Kef el Asfer
 Kêf el Assoued, Kef Assoud, Kef el Assoud
 Kêf el Boûm, Kef el Boub
 Kêf el Guel'a, Djebel Kouïder
+Kêf el Hammâm, Djebel Kourima
 Kêf el Handîya
 Kêf el Hmar
 Kêf el Koudeya, Kef Oukdeyab, Kef Oukdeyah, Kef Segleb
@@ -22977,6 +22974,7 @@ Kêf el Ouahch, Mhaïdba
 Kêf el' Assa
 Kêf en Noûmri, Koudia Renadji
 Kêf er Randâya, Kef el Ouach
+Kêf er Rekhma, Kef er Rekrma
 Kêf er Rend, Kef Arand
 Kêf er Râdjel, Kef Radjela
 Kêf es Stâh, Kef es Settah
@@ -23058,7 +23056,7 @@ Lari el Kalaa, Djebel el Kala, Kalaa
 Lari el Khannous
 Lari et Tenine
 Lari ou Keddouh
-Lasbaa
+Lasbaâ
 Laâbabda
 Laâraïfia
 Le Chapeau de Gendarme
@@ -23248,7 +23246,7 @@ Mahasseur el Arneb
 Mahasseur el Mehl
 Mahasseur el Morra
 Mahbes Bou Aouach
-Mahdjoub, El Mahjoub, Mahjoub, Malidjoub, Malijoub
+Mahdjoûb, El Mahjoub, Mahjoub, Malidjoub, Malijoub
 Mahdraga
 Mahfour ech Cherguia
 Mahfour ed Dahrania
@@ -23903,7 +23901,6 @@ Mouila
 Mouilah
 Moul Aziz
 Moul ed Demamène, Djebel Moul Demamene
-Moul el Koudia
 Moul el Laham
 Moul el Ouasta
 Moulbegrat
@@ -23931,6 +23928,7 @@ Moussa Boukha
 Moussakh Bel Ali
 Moutteïez
 Mouydir
+Moûl el Koudia
 Mra el Ardjem
 Mraguid
 Mrah Rhilene
@@ -25095,8 +25093,8 @@ Oued Berrout, Oued Berroutt
 Oued Berzgal, Oued Brisgane
 Oued Besbassa
 Oued Besbassi
-Oued Besbes
 Oued Besbessa
+Oued Besbès
 Oued Bessal
 Oued Bessam
 Oued Bessibis
@@ -25146,7 +25144,6 @@ Oued Bou Alfrane
 Oued Bou Ali
 Oued Bou Allala
 Oued Bou Allouch
-Oued Bou Amar, Oued Bou Ahmar
 Oued Bou Amer
 Oued Bou Arbi
 Oued Bou Arjam, Bou-Ajjam, Oued Bou Adjam, Oued Bou Ajam, Oued Bou Ardjam
@@ -25179,7 +25176,7 @@ Oued Bou Dekkane
 Oued Bou Diss
 Oued Bou Djedaria
 Oued Bou Djema
-Oued Bou Djemaa, Oued Budjema, وادي بو جمعة, وادي بوجمعة
+Oued Bou Djemaa, Oued Budjema, وادي أبو جمعة, وادي بوجمعة
 Oued Bou Djenane
 Oued Bou Djenaïh
 Oued Bou Djerana
@@ -25324,9 +25321,9 @@ Oued Bou Mouna
 Oued Bou Mrah
 Oued Bou Mrheïrfa, Oued Bou Mgheirfa
 Oued Bou Nafaa
-Oued Bou Naim, Oued Bou Naïma
 Oued Bou Nammoûr
 Oued Bou Namoussa, Oued Namoussa, Wad Bu Namussa, Wad Mafrag, وادي أبو ناموسة, وادي بوناموسة
+Oued Bou Naïm, Oued Bou Naïma
 Oued Bou Ohouaya
 Oued Bou R'fiou
 Oued Bou Ralia
@@ -25405,7 +25402,6 @@ Oued Bou el Hajar, Oued Haddaratz, Oued el Haddarât
 Oued Bou el Haouich, Oued Bou Laouaïcha
 Oued Bou el Hassene, Oued Bou el Hasse
 Oued Bou el Heraf
-Oued Bou el Kroûd
 Oued Bou en Nebat
 Oued Bou er Rega
 Oued Bou ez Zitouna
@@ -25488,7 +25484,7 @@ Oued Boulif
 Oued Boulila, Oued Guellouz
 Oued Boulmaïa
 Oued Boulâadal, Oued Bou Laadal
-Oued Boumerdas, Oued Bou Merclass, Oued Bou Merdes, وادي بو مرداس, وادي بومرداس
+Oued Boumerdas, Oued Bou Merclass, Oued Bou Merdes, وادي أبو مرداس, وادي بومرداس
 Oued Boumerdjel
 Oued Boumessaoud
 Oued Boumiya
@@ -25537,6 +25533,7 @@ Oued Bouzerdab
 Oued Bouziabel
 Oued Bouzid
 Oued Bouzina
+Oued Boû Amar, Oued Bou Ahmar
 Oued Boû Caïd
 Oued Boû Chafîr
 Oued Boû Hennâg, Oued Bou Ennag
@@ -25550,6 +25547,7 @@ Oued Boû Zardjoûne
 Oued Boû ed Dardâr
 Oued Boû el Kardoûs
 Oued Boû el Kherâchet
+Oued Boû el Kroûd
 Oued Boû el Ktem, Oued Bou Lektem
 Oued Boûelbbêne
 Oued Boûrrhîda
@@ -25603,7 +25601,7 @@ Oued Chebil
 Oued Chebket el Hamra
 Oued Chebouti
 Oued Cheddou
-Oued Cheffia, وادي الشفية
+Oued Cheffia, وادي الشافية
 Oued Chegga
 Oued Chegga el Beïda, Oued Chegg el Beïda
 Oued Cheggat
@@ -25672,7 +25670,7 @@ Oued Dahnoun el Mahroug
 Oued Dakhla
 Oued Dalia
 Oued Damerane
-Oued Damous, Wad Damus
+Oued Damoûs, Wad Damus
 Oued Damrane
 Oued Danoun
 Oued Daouadri
@@ -25808,7 +25806,7 @@ Oued Djellib
 Oued Djellida
 Oued Djelloul
 Oued Djelouata
-Oued Djemaa, Commune d'Oued el Djemaa, Oued Djema, Oued Djemma, Oued Djemmaa, بلدية وادي الجمعة, وادي الجمعة
+Oued Djemaâ, Commune d'Oued el Djemaa, Oued Djema, Oued Djemma, Oued Djemmaa, بلدية وادي الجمعة, وادي الجمعة
 Oued Djemba
 Oued Djembia, Oued Jembia
 Oued Djemel
@@ -26000,7 +25998,6 @@ Oued Fassik
 Oued Fassik ech Chib
 Oued Fates
 Oued Fathma
-Oued Fatma
 Oued Faïd Ahmed
 Oued Faïd D'Bad
 Oued Faïd Dja
@@ -26093,6 +26090,7 @@ Oued Froûr
 Oued Frârcho, Oued Frarah
 Oued Ftaïssa
 Oued Ftoua
+Oued Fâtma
 Oued Fêssa
 Oued G'ni
 Oued G'riba
@@ -26205,8 +26203,8 @@ Oued Guerbous Bou Adria
 Oued Guerboussa
 Oued Guerg
 Oued Guergoub el Melah
-Oued Guergour, Oued Kerkour
 Oued Guergoure
+Oued Guergoûr, Oued Kerkour
 Oued Guerguize, Oued Gherrize, Oued Rherrize
 Oued Gueriene, Oued Guerienne
 Oued Guermedda
@@ -26229,7 +26227,7 @@ Oued Guezich
 Oued Gueïs, Oued Gueiss
 Oued Guigueb
 Oued Guir
-Oued Guis, Oued Derdara
+Oued Guîs, Oued Derdara
 Oued H'dadda
 Oued H'ri
 Oued Habadra
@@ -26391,7 +26389,7 @@ Oued Idakkane
 Oued Idarene es Saouni
 Oued Idekane
 Oued Ideldel
-Oued Ideles, وادي ادلس
+Oued Ideles, وادي أدلس
 Oued Ideljene
 Oued Idelsan-n-Adjer
 Oued Idelsan-n-Eheren
@@ -27054,7 +27052,6 @@ Oued Mekta Krechba
 Oued Mektaa, Oued Mokrat el Arzeug, Oued Moktad el Laireg, Oued Moktat el Arzeug, Oued Moktatt
 Oued Mekter
 Oued Melaga
-Oued Melah
 Oued Melah es Stile
 Oued Melakou
 Oued Melaïb
@@ -27106,7 +27103,7 @@ Oued Merheïmine, Oued Megheirmime
 Oued Merhoul
 Oued Meri
 Oued Meridja
-Oued Merires
+Oued Merirès
 Oued Meritim
 Oued Merizui
 Oued Merkala
@@ -27124,7 +27121,7 @@ Oued Mertouma
 Oued Mertoutek, مرتتك, وادي مرتتك
 Oued Merzaouia
 Oued Merzita
-Oued Merzoug
+Oued Merzoûg
 Oued Mesakhskha
 Oued Mesdour
 Oued Meskiana
@@ -27230,7 +27227,6 @@ Oued Mouguer, Oued Mouger, Oued Moujer
 Oued Mouhsene, Oued Mahsene, Oued Mahssen
 Oued Moui el Lebene
 Oued Mouih Sifer
-Oued Mouilah
 Oued Mouileha
 Oued Mouilesse
 Oued Mouilha
@@ -27255,6 +27251,7 @@ Oued Moussas
 Oued Moussine
 Oued Mouzaïa
 Oued Mouzzene, Oued Tissaf
+Oued Moûilah
 Oued Mrah el Bel, Oued Merah el Bel
 Oued Mraïd
 Oued Mrhaouel
@@ -27298,6 +27295,7 @@ Oued Mzizar
 Oued Mzizou
 Oued Mzâdj Sedra
 Oued Mzêz el Hemâr
+Oued Mélah
 Oued Mîraba
 Oued N'Gham
 Oued N'haouet
@@ -27457,7 +27455,7 @@ Oued Ouled Sioud
 Oued Ouled er Raï
 Oued Ouled es Seghir
 Oued Oulmène, Oued Oulmen
-Oued Oultem, وادي ولتام
+Oued Oultem, وادي أولتام
 Oued Oum Achra
 Oued Oum Aïcha
 Oued Oum Bouraï
@@ -27507,7 +27505,7 @@ Oued Oursadakisse
 Oued Oursedjenette
 Oued Oussif
 Oued Outar
-Oued Outoul, Irhzer oan Outoul, وادي أطول, وادي أوتول
+Oued Outoul, Irhzer oan Outoul, وادي أتول, وادي أوتول
 Oued Ouzalale
 Oued Ouzdaf, Oued Ouxdaf
 Oued Ouzera
@@ -27587,9 +27585,9 @@ Oued Rezzaz, Oued er Razzaz
 Oued Rguib
 Oued Rha
 Oued Rhabet Beïa
-Oued Rhalem, Oued Ranem
 Oued Rhalidjiouene
 Oued Rhalindjame
+Oued Rhalêm, Oued Ranem
 Oued Rhanem
 Oued Rhaoua
 Oued Rhar Tine, Oued Rar et Tine
@@ -27669,7 +27667,6 @@ Oued Râs ed Deba
 Oued Râs el Medjbet, Oued Ras el Medjbed
 Oued Râs el Ouidane
 Oued Râs el Ouâldja
-Oued Saad
 Oued Saad Ben Mahiris
 Oued Saada
 Oued Saadana
@@ -27687,7 +27684,7 @@ Oued Safgat
 Oued Safi
 Oued Safia
 Oued Safil
-Oued Safsaf
+Oued Safsâf
 Oued Saghouane, Oued Sarhouine
 Oued Saguiet er Roum
 Oued Sahab en Nsi
@@ -27719,6 +27716,7 @@ Oued Saridj, Oued es Saridj
 Oued Sarno
 Oued Sasnou
 Oued Sassel, وادي ساسل
+Oued Saâd
 Oued Saïd
 Oued Saïd Ben Khalifa
 Oued Saïda
@@ -28096,7 +28094,6 @@ Oued Taharakit
 Oued Taharala
 Oued Taharkoust
 Oued Taharra
-Oued Tahart
 Oued Tahbennt
 Oued Tahmamet
 Oued Tahor Tihouit
@@ -28641,7 +28638,6 @@ Oued Touggourt
 Oued Touglatine
 Oued Touibia
 Oued Touiel, Oued Touif
-Oued Touil, Oued Querk, Wadi Twil
 Oued Touila
 Oued Touilila
 Oued Touirsat
@@ -28661,6 +28657,7 @@ Oued Tourndo, Wādī Tūrundū, وادي تورندو
 Oued Tousdaï
 Oued Tousmouline, Oued Tismouline
 Oued Toutous
+Oued Toûîl, Oued Querk, Wadi Twil
 Oued Trad
 Oued Tramdja
 Oued Tramja
@@ -28680,6 +28677,7 @@ Oued Tsmaïd
 Oued Tubet
 Oued Tuliay
 Oued Tzemed
+Oued Tâhârt
 Oued Tâmendjar, Oued Tamenndjar
 Oued Tébessa, Oued Chabro, Oued el Chabro
 Oued Téghbourene
@@ -28704,7 +28702,6 @@ Oued Youssef
 Oued Z'Kouki
 Oued Zaakane, Oued Ladjassa
 Oued Zadamane
-Oued Zadra
 Oued Zafrane
 Oued Zafrania
 Oued Zahara
@@ -28847,6 +28844,7 @@ Oued Zreg
 Oued Zriba
 Oued Zribet el Kheïl
 Oued Zriga
+Oued Zâdra
 Oued a-n-Emerherou
 Oued ben Daoudeur
 Oued ben el Hassene
@@ -28962,8 +28960,8 @@ Oued el Adjla
 Oued el Adjoul
 Oued el Adjrem
 Oued el Adrek
-Oued el Afia
 Oued el Afin
+Oued el Afîa
 Oued el Agaue, Oued el Arss
 Oued el Agchioua
 Oued el Aggoun
@@ -29091,8 +29089,8 @@ Oued el Baïr
 Oued el Bedareg
 Oued el Begar
 Oued el Begrat, Oued Begrats, Oued Bel Reghats, Oued Bil Braguetz, Oued el Begrats
-Oued el Behair
 Oued el Behar
+Oued el Behaïr
 Oued el Bekkouch
 Oued el Bel
 Oued el Bel Aksa
@@ -29115,7 +29113,7 @@ Oued el Berreg
 Oued el Besbas, Oued Besbess, Oued el Besbass
 Oued el Besbassa
 Oued el Besbassi
-Oued el Besbes, Oued es Sebbah
+Oued el Besbês, Oued es Sebbah
 Oued el Bessal
 Oued el Betaa
 Oued el Beteïma
@@ -29167,8 +29165,8 @@ Oued el Djefna
 Oued el Djefra, Oued Jefra
 Oued el Djelid
 Oued el Djema
-Oued el Djemaa, وادي الجمعة
 Oued el Djemel
+Oued el Djemâa, وادي الجمعة
 Oued el Djenane
 Oued el Djeraf
 Oued el Djerdjir
@@ -29283,7 +29281,7 @@ Oued el Guemout
 Oued el Guenta
 Oued el Guerba
 Oued el Guerfi
-Oued el Guergour, Oued Gueurgour
+Oued el Guergoûr, Oued Gueurgour
 Oued el Gueria, Oued Guerrïa
 Oued el Guernine
 Oued el Guerrah
@@ -29334,8 +29332,8 @@ Oued el Halalif
 Oued el Halfat
 Oued el Halib
 Oued el Halig
-Oued el Hallouf
 Oued el Halloufa, Oued Bou Hallouf, Oued Bou Halloufa
+Oued el Halloûf
 Oued el Ham, Oued Leham Sur Chellal, Oued el Laham, Oued el Leham, Oued el Lehman
 Oued el Hama
 Oued el Hamadi
@@ -29439,7 +29437,7 @@ Oued el Houbani
 Oued el Houidja, Oued el Houidga
 Oued el Hourf
 Oued el Houssine
-Oued el Hout
+Oued el Hoût
 Oued el Ibda
 Oued el Ibel
 Oued el Imam
@@ -29473,12 +29471,11 @@ Oued el Kbîr
 Oued el Kebch, Oued el Kebche, Oued el Kebiche
 Oued el Kebeur
 Oued el Kebich
-Oued el Kebir, Wad el Kébir, Wadi el Kebir
 Oued el Kebir Mouzoudi
 Oued el Kebli
 Oued el Kebour
+Oued el Kebîr, Wad el Kébir, Wadi el Kebir
 Oued el Kedar
-Oued el Kef
 Oued el Kef el Ahmar, Kâf el Ahmâr
 Oued el Kef el Guidoum, Oued el Guidoum
 Oued el Kehal
@@ -29586,6 +29583,7 @@ Oued el Ksob
 Oued el Kter
 Oued el Ktimaïa
 Oued el Ktâmi, Oued Ketami
+Oued el Kêf
 Oued el Kîkab
 Oued el Kîtoun
 Oued el Layedné
@@ -29599,8 +29597,8 @@ Oued el Lellalah
 Oued el Lessane el Rharbi
 Oued el Louha
 Oued el Loumi
-Oued el Louz
 Oued el Louza
+Oued el Loûz
 Oued el Ma
 Oued el Ma Ahmar
 Oued el Ma Labiadh
@@ -29629,7 +29627,6 @@ Oued el Makhzene
 Oued el Mal
 Oued el Mala
 Oued el Malaah
-Oued el Malah, Oued Mallah, Rio Salado
 Oued el Malch
 Oued el Maleh, Oued el Messila
 Oued el Malha, Oued Faress Adjel, Oued Hamoura
@@ -29798,6 +29795,7 @@ Oued el Mselsel
 Oued el Mseïed, Oued Messeyed
 Oued el Mtallas, Oued Mtalis
 Oued el Myet
+Oued el Mâlah, Oued Mallah, Rio Salado
 Oued el Nakârîa
 Oued el Nhratite
 Oued el Noukra
@@ -29991,7 +29989,7 @@ Oued es Saffâh
 Oued es Safi
 Oued es Safia
 Oued es Safil
-Oued es Safsaf, Oued Bou Khannam, Wādī aş Şafşāf
+Oued es Safsâf, Oued Bou Khannam, Wādī aş Şafşāf
 Oued es Saftar
 Oued es Sagui
 Oued es Saha
@@ -30115,7 +30113,6 @@ Oued ez Zergoum
 Oued ez Zerâmna, Oued ez Zrêmna
 Oued ez Zgag
 Oued ez Zhairia
-Oued ez Zitoun
 Oued ez Zitouna
 Oued ez Zmila
 Oued ez Zmour
@@ -30126,6 +30123,7 @@ Oued ez Zoûbîa
 Oued ez Zraïb
 Oued ez Zriba
 Oued ez Zrigat
+Oued ez Zîtoûn
 Oued i-n-Aberdane
 Oued i-n-Adaoui
 Oued i-n-Ahaguieh
@@ -30533,7 +30531,7 @@ Ouled Bou Saïd
 Ouled Bouali
 Ouled Bouriah
 Ouled Chafaâ, Oulad Chaffa
-Ouled Cheikh
+Ouled Cheïkh
 Ouled Djellal, أولاد جلال
 Ouled Djerir
 Ouled Hafida
@@ -30825,7 +30823,7 @@ Puits Sidi Nadour
 Puits de Touirsat
 Puits des Méharistes
 Puits du Bataillon d'Afrique
-Puits du Genie
+Puits du Génie
 Qarn 'Ā'ishah
 R'Mel Ben Attar
 R'mel Becheridi
@@ -30995,13 +30993,10 @@ Ras el Hdjas
 Ras el Kadra
 Ras el Karne di Aouana, Ras el Karne, Râs el Kern
 Ras el Kbiba, Ras el Kebir, Ras el Kriba
-Ras el Kef
 Ras el Kmakem, Pointe Damous, Ras el Kmaken, Raz el Kmakem, Râs el Kmakam
-Ras el Koudia
 Ras el Krenaïk
 Ras el Ksar
 Ras el M'Hala, Ras el Malah
-Ras el Ma
 Ras el Mahrouga
 Ras el Makasba
 Ras el Mhalouet
@@ -31077,7 +31072,7 @@ Redjem Thedama
 Redjem Touam
 Redjem ech Chih
 Redjem ed Debdeb
-Redjem el 'Ogâb, Redjem el Ogla, رجم العقب, رجم العقلة
+Redjem el 'Ogâb, Redjem el Ogla, رجم العقاب, رجم العقلة
 Redjem el Abiod
 Redjem el Agab
 Redjem el Ahmar
@@ -31756,16 +31751,19 @@ Râs el Hît
 Râs el Kal'â, Cap el Kalaa, El Kalaa Cap, Ras Bibi
 Râs el Kartil, Rass Kartine
 Râs el Kebch
+Râs el Kef
 Râs el Kelaïa
 Râs el Kerma
 Râs el Kerouch
 Râs el Kharza
+Râs el Koudia
 Râs el Kouireg
 Râs el Kraa
 Râs el Kzizia
 Râs el Kôr
 Râs el Laham
 Râs el Louz
+Râs el Ma
 Râs el Mabdoû'a, Râs el Mebdoua
 Râs el Madred
 Râs el Mahdi
@@ -31816,7 +31814,7 @@ Région de Constantine
 Réservoir de la Macta, Ancien Réservoir de la Macta
 Saad Allah
 Sabkhat 'Ayn Zār, سبخة عين زار
-Sabkhat aţ Tābīyah
+Sabkhat aţ Ţābīyah
 Sadareg
 Sadjrarra
 Safa el Bagra
@@ -31973,8 +31971,8 @@ Seba el Hadid, Sebal el Hadid
 Seba el Mokha
 Sebaa Rous, Seba Rous
 Sebaa el Baroud
-Sebaia
 Sebakh
+Sebaïa
 Sebaïet
 Sebaïne
 Sebbab el Gheïth
@@ -32587,7 +32585,6 @@ Tahoyeurt
 Tahtania
 Tahâssa, Oued Tahessa
 Tahélek
-Taicha
 Taiecha
 Tajetteret, Oued Tadjetaret, Oued Tadjettaret, Oued Tedjeteret, Tadjetaret
 Takakouch-n-Chara
@@ -32822,7 +32819,6 @@ Tecellit ta-n-Souleye
 Tedemit
 Tedesi
 Tedjerine, Oued Teguerine
-Tedjert, Tagert, Tegert, Teggert, Téguert
 Tedjet
 Tedjlouine
 Tedjouldjoult
@@ -33144,7 +33140,6 @@ Teniet es Sfa, Col de Sfa
 Teniet es Sfaïa, Teniet es Sfeïa
 Teniet es Sgouag
 Teniet et Tag
-Teniet et Tine, Teniet et Tinn
 Teniet et Tiour
 Teniet et Trad
 Teniet et Turk
@@ -33158,6 +33153,7 @@ Teniet ez Zitoun
 Tennouma Kebira, Tennouma Kbira
 Tenîet Na'âma
 Tenîet el Adjoul
+Tenîet et Tîne, Teniet et Tinn
 Teouicha
 Terarart
 Terba
@@ -33463,7 +33459,7 @@ Ti-n-Touloulout
 Ti-n-Tounatine
 Ti-n-Tourdi
 Ti-n-Târabîne
-Ti-n-Zaouatene, Tin Zaouaten, Tinzawaten
+Ti-n-Zaouâtene, Tin Zaouaten, Tinzawaten
 Ti-n-Zarzarine
 Ti-n-Zebane el Kahla
 Ti-n-Zekiou
@@ -33752,7 +33748,7 @@ Tisenaouine
 Tiski
 Tisnar
 Tisnaïet el Khahna
-Tissalatine, Tessalâtîne, Tissalatin
+Tissalâtîne, Tessalâtîne, Tissalatin
 Tissalâtîne Serouasser, Tessali ti-n-Serouasser, Tessalitine Serouasser
 Tissammer, Tisammer
 Tissarine
@@ -33760,7 +33756,7 @@ Tissefssef, Dayet Tissefsef
 Tisseghtâssîne, Tisserhtassine, Tissertassine
 Tisseghîrîne, Oued Tin Seririn, Oued ti-n-Seririne, Ti-n-seririne
 Tisselleghmâtîne, Sellermatine
-Tisselliline, Gara Tesseliline
+Tissellîlîne, Gara Tesseliline
 Tisseloullematine
 Tissennaouîne, Oued Tessenaouine
 Tisseras
@@ -33957,6 +33953,7 @@ Tsighaout
 Tzouret
 Tâdeïnet
 Tâhârt, Irhzer-n-Tahart, Tahart Adrar
+Tâicha
 Târ Fehal
 Tâyert el Djerâf
 Téghahart, Tighejert
@@ -33971,6 +33968,7 @@ Tétaouilt Ta-n-Bobo
 Tézabit
 Téḍalik
 Têdebirt
+Têdjert, Tagert, Teg'ert, Teggert, Téguert
 Têdjrîne
 Têdré, Oued Tidri
 Têhé-n-Aggourhat, Tehi-n-Aggourhate
@@ -33992,15 +33990,15 @@ Wadi Mina, La Mina Rivière, Mina Rivière, Oued Mina, واد مينا, وادي
 Wadi Tit, Oued Tit, وادي تيت
 Wilaya d' Alger, Alger, Algiers, Algiers Province, Département d'Alger, Wilāyat al-Jazā'ir, Wilāyat al-Ǧazāʾir, الجزائر, الجزائر العاصمة, ولاية الجزائر
 Wilaya de Aïn Defla, Aïn Defla Province, عين الدفلة, عين الدفلى, ولاية عين الدفلى
-Wilaya de Aïn Temouchent, Aïn Témouchent, Aïn Témouchent Province, عين تموشنت, عين تيموشنت, ولاية عين تموشنت
+Wilaya de Aïn Temouchent, Ain Temouchent, Aïn Témouchent Province, عين تموشنت, عين تيموشنت, ولاية عين تموشنت
 Wilaya de Batna, Batna, Batna Province, Departement de Batna, Département de Aurès, Wilaga de l'Aures, باتنة, ولاية باتنة
 Wilaya de Bejaïa, Bejaia, Béjaia Province, Wilāyat Bijāya, Wilāyat Biǧāya, بجاية, ولاية بجاية
 Wilaya de Biskra, Biskra, Biskra Province, بسكرة, ولاية بسكرة
 Wilaya de Blida, Blida, Blida Province, البليدة, ولاية البليدة
-Wilaya de Bordj Bou Arréridj, Bordj Bou Arréridj, Bordj Bou Arréridj Province, برج بوعريرج, برج بوعريريج, ولاية برج بوعريريج
+Wilaya de Bordj Bou Arréridj, Bordj Bou Arreridj, Bordj Bou Arréridj Province, برج بوعريرج, برج بوعريريج, ولاية برج بوعريريج
 Wilaya de Bouira, Bouira, البويرة, ولاية البويرة
 Wilaya de Boumerdes, Boumerdes, Boumerdes Province, بومرداس, ولاية بومرداس
-Wilaya de Béchar, Béchar, Béchar Province, بشار, ولاية بشار
+Wilaya de Béchar, Bechar, Béchar Province, بشار, ولاية بشار
 Wilaya de Chlef, Chlef, Chlef Province, Département d'El Asnam, Département d'Orléansville, Département du Chélif, Wilaya d'El Asnam, الشلف, ولاية الشلف
 Wilaya de Constantine, Constantine, Constantine Province, Département de Constantine, قسنطينة, ولاية قسنطينة
 Wilaya de Djelfa, Djelfa, Djelfa Province, الجلفة, ولاية الجلفة
@@ -34020,14 +34018,14 @@ Wilaya de Saïda, Départment de Saïda, Saida, Saida Province, سعيدة, ول
 Wilaya de Sidi Bel Abbès, Sidi Bel Abbes, Sidi Bel Abbès Province, سيدي بلعباس, ولاية سيدي بلعباس
 Wilaya de Skikda, Skikda, Skikda Province, Sukaikida, Sukaykida, Wilayat Sukaikida, Wilayat Sukaykida, سكيكدة, ولاية سكيكدة
 Wilaya de Souk Ahras, Souk Ahras, Souk Ahras Province, سوق أهراس, ولاية سوق أهراس
-Wilaya de Sétif, Département de Sétif, Sétif, Sétif Province, سطيف, ولاية سطيف
+Wilaya de Sétif, Département de Sétif, Setif, Sétif Province, سطيف, ولاية سطيف
 Wilaya de Tamanrasset, Tamanghasset, Tamanrasset, Tamanrasset Province, Wilaya de Tamanghasset, تامنغست, تمنراست, ولاية تمنراست
 Wilaya de Tindouf, Tindouf, Tindouf Province, تندوف, تيندوف, ولاية تندوف, ولاية تيندوف
 Wilaya de Tipaza, Tipaza, Tipaza Province, تيبازة, ولاية تيبازة
 Wilaya de Tissemsilt, Tissemsilt, Tissemsilt Province, تسمسيلت, تيسمسيلت, ولاية تسمسيلت, ولاية تيسمسيلت
 Wilaya de Tizi Ouzou, Département de Grande Kabylie, Départment de Tizi Ouzou, Tizi Ouzou, Tizi Ouzou Province, Wilāyat Tīzī Wuzū, تيزي وزو, ولاية تيزي وزو
 Wilaya de Tlemcen, Département de Tlemcen, Tlemcen, Tlemcen Province, تلمسان, ولاية تلمسان
-Wilaya de Tébessa, Tébessa, Tébessa Province, تبسة, ولاية تبسة
+Wilaya de Tébessa, Tebessa, Tébessa Province, تبسة, ولاية تبسة
 Wilaya de tiaret kabas, Département de Tiaret, Tiaret, Tiaret Province, Wilaya de Tiaret, تيارت, ولاية تيارت
 Wilaya des Oasis, Département des Oasis
 Wādī 'Ayn Zār, وادي عين زار
@@ -34275,8 +34273,10 @@ stade &lt;&lt;sekiou baghdadi&gt;&gt;
 Écueil du Phoque
 Écueil du Sphinx
 Écueils de Sidi Khaled, Roches Sidi Khaled, Roches Sidi Kraled
+Édikel, Oued Idekel
 Édjidj, Oued Edjidj
 Éfené, Oued Efeni
+Éferi
 Éferi-n-Tandjet
 Éferi-n-Tehareghet
 Éfeï Mazerta

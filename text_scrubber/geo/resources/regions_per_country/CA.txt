@@ -2119,7 +2119,6 @@ Andismith Creek
 Andleys Cove
 Andleys Pond
 Andre Creek
-Andre Lake
 Andre Pond
 Andrea Creek
 Andreasen Head
@@ -2161,6 +2160,7 @@ Andros Lake
 Androsace Lake
 Andrus Lake
 André
+André Lake
 Andy Bailey Lake
 Andy Bailey Park
 Andy Cahoose Meadow Indian Reserve 16, Réserve indienne Andy Cahoose Meadow 16
@@ -3440,7 +3440,6 @@ Arenburg Island
 Arenburgs Meadows
 Arenburgs Meadows Brook
 Arete Island
-Arete Mountain
 Arete Peak
 Arethusa Creek
 Arethusa Lake
@@ -3820,6 +3819,7 @@ Arviviniq Bay
 Arvoknar Channel
 Aryhart Lake
 Arèsville
+Arête Mountain
 Asahal Creek
 Asahal Lake
 Asahal Lake Indian Reserve 2, Réserve indienne Asahal Lake 2
@@ -7956,7 +7956,6 @@ Barras Creek
 Barras Lake
 Barraute
 Barre Creek
-Barre Lake
 Barre Natashquan
 Barre au Chat
 Barre au Saumon
@@ -8126,6 +8125,7 @@ Barrys River
 Barrys Run
 Barrys Stillwater
 Barrys Stillwaters
+Barré Lake
 Bars Lake
 Barsby Lake
 Barse Lake
@@ -9691,12 +9691,8 @@ Belabourer Island
 Belair Lake
 Belaire Lake
 Beland Lake
-Belanger
 Belanger Creek
-Belanger Island
-Belanger Lake
 Belanger Lakes
-Belanger Point
 Belanger Rapids
 Belbeck
 Belbins Mill Pond
@@ -9979,7 +9975,6 @@ Beluga Mountain
 Beluga Point
 Beluga Reef
 Belvans Cove
-Belvedere
 Belvedere Glacier
 Belvedere Peak
 Belvedere Ridge
@@ -9987,6 +9982,7 @@ Belvidere Lake
 Belvidere Stream
 Belvies Waters
 Belvèze
+Belvédère
 Belvédère Albert-Gascon
 Belvédère Champlain
 Belvédère Debartzch
@@ -10510,7 +10506,6 @@ Bertrand Point
 Bertrand River
 Bertrum Bay
 Bertschi Creek
-Berube Lake
 Berube Lake Game Preserve
 Berven Lake
 Bervie
@@ -15604,7 +15599,6 @@ Breau Marsh
 Breaults Lake
 Brebber Island
 Breben Lake
-Brebeuf
 Brebeuf Creek
 Brebeuf Lake
 Breccia Creek
@@ -16610,13 +16604,9 @@ Bruin Creek
 Bruin Lake
 Bruins Pass
 Brule Bank
-Brule Creek
-Brule Harbour
 Brule Harbour Head
-Brule Lake
-Brule Point
 Brule Street Park
-Brulé Hill
+Brulé Harbour
 Brumal Lake
 Brume Point
 Brumwell Lake
@@ -16755,14 +16745,19 @@ Bryson Creek
 Bryson Drain
 Bryson Lake
 Brysons Bay
+Brébeuf
 Brébeuf Island
 Brécourt
 Bréhaut
 Brézel
 Brûlé
 Brûlé Bay
+Brûlé Creek
+Brûlé Hill
 Brûlé Island
+Brûlé Lake
 Brûlé Narrows
+Brûlé Point
 Buade
 Bubar Creek
 Bubble Lake
@@ -16971,7 +16966,7 @@ Buff Island
 Buff Lake
 Buffalo Bay
 Buffalo Bird Hill
-Buffalo Coulee
+Buffalo Coulée
 Buffalo Creek
 Buffalo Drain
 Buffalo Head Hills
@@ -18160,12 +18155,17 @@ Bégin
 Bélair
 Bélair Provincial Forest
 Béland
+Bélanger
 Bélanger Bay
+Bélanger Island
+Bélanger Lake
+Bélanger Point
 Bélanger River
 Béliveau
 Bénard
 Béranger
 Béraud
+Bérubé Lake
 Béthanie
 Béthel
 C. Beaulien Drain
@@ -19711,7 +19711,7 @@ Cape Broyle Harbour
 Cape Broyle Head
 Cape Broyle River
 Cape Bruin
-Cape Brule
+Cape Brulé
 Cape Buchan
 Cape Bullen
 Cape Burgoyne
@@ -20277,7 +20277,7 @@ Cape Spencer
 Cape Split
 Cape Spry
 Cape St. Andrew
-Cape St. Anthony, St. Anthony's Point
+Cape St. Anthony, Saint Anthony's Point
 Cape St. Catherine
 Cape St. Charles
 Cape St. David
@@ -20933,7 +20933,6 @@ Carrier Creek
 Carrier Lake
 Carrier Lake Indian Reserve 15, Réserve indienne Carrier Lake 15
 Carrier Point
-Carriere Lake
 Carriere Point
 Carrigan Brook
 Carrigan Creek
@@ -20948,6 +20947,7 @@ Carrington Lake
 Carrington Reef
 Carrière Bay
 Carrière Island
+Carrière Lake
 Carrol Cove
 Carrol Creek
 Carrol Hill
@@ -21700,7 +21700,6 @@ Cecil Nelson Lake
 Cecil Patterson Creek
 Cecil Point
 Cecil Smith Lake
-Cecile
 Cecile Lake
 Cecile Pond
 Cecilia Creek
@@ -23020,7 +23019,7 @@ Chetang Ridge
 Chetarpe Indian Reserve 17, Réserve indienne Chetarpe 17
 Cheticanchec Island
 Chettleburgh Creek
-Chettleburgh Peak
+Chettleburgh Peak, Hastings Lake
 Chettleburgh Point
 Chetwood Lake
 Chetwynd
@@ -24763,7 +24762,6 @@ Clemenceau Glacier
 Clemenceau Icefield
 Clemens
 Clemens Creek
-Clement
 Clement Cove
 Clement Creek
 Clement Hill
@@ -25099,6 +25097,7 @@ Clydesdale Lake
 Clydeside Creek
 Clythe Creek
 Clytie Bay
+Clément
 Clérac
 Cléricy
 Clérin
@@ -27314,7 +27313,6 @@ Corbetts Cove
 Corbetts Hill
 Corbier Cove
 Corbier Lake
-Corbiere
 Corbiere Lake
 Corbin
 Corbin Barasway
@@ -27330,6 +27328,7 @@ Corbin Island
 Corbin Pass
 Corbin Peak
 Corbins Cove
+Corbière
 Corbman Bay
 Corbman Point
 Corbold Creek
@@ -27659,7 +27658,6 @@ Costley Stillwaters
 Cosy Cove
 Cosy Lake
 Cote 64
-Cote Lake
 Cote No. 271
 Coteau Akinnamiittut
 Coteau Aqiggituuq
@@ -27773,7 +27771,6 @@ Cottrells Cove
 Cotwood
 Coté Bay
 Coté Creek
-Coté Island
 Coubeaux Lake
 Coubran Lake
 Coubrough Lake
@@ -28174,14 +28171,13 @@ Cours d'eau Beaupré-Carrière
 Cours d'eau Beauregard
 Cours d'eau Beauregard-Pelletier
 Cours d'eau Beauvais
-Cours d'eau Belisle
 Cours d'eau Bellavance
 Cours d'eau Bellemare
 Cours d'eau Bellerive
 Cours d'eau Belley
 Cours d'eau Belzil
 Cours d'eau Benjamin
-Cours d'eau Benoit
+Cours d'eau Benoît
 Cours d'eau Benoît-Vallée
 Cours d'eau Bergeron
 Cours d'eau Bernard
@@ -28274,6 +28270,7 @@ Cours d'eau Béland
 Cours d'eau Béland-Descoteaux
 Cours d'eau Bélanger
 Cours d'eau Bélec
+Cours d'eau Bélisle
 Cours d'eau Bérubé
 Cours d'eau Cadieux-Ekemberg
 Cours d'eau Cadorette
@@ -28401,7 +28398,6 @@ Cours d'eau Deblois
 Cours d'eau Debouche-Ricard
 Cours d'eau Delage
 Cours d'eau Delfi
-Cours d'eau Delisle
 Cours d'eau Delisle-Thibault
 Cours d'eau Demers
 Cours d'eau Desautels
@@ -28470,6 +28466,7 @@ Cours d'eau Durocher
 Cours d'eau Dusseault
 Cours d'eau Duval-Panneton
 Cours d'eau Débordeur
+Cours d'eau Délisle
 Cours d'eau Déry-Machildon
 Cours d'eau East Settlement
 Cours d'eau Edgard-Bouchard
@@ -28759,7 +28756,6 @@ Cours d'eau Leslie
 Cours d'eau Lessard
 Cours d'eau Letendre
 Cours d'eau Levasseur
-Cours d'eau Levesque
 Cours d'eau Licence
 Cours d'eau Liguori
 Cours d'eau Limoges
@@ -28797,6 +28793,7 @@ Cours d'eau Lépine
 Cours d'eau Létourneau
 Cours d'eau Létourneau-Beaudoin
 Cours d'eau Léveillé
+Cours d'eau Lévesque
 Cours d'eau Macameau
 Cours d'eau Machildon
 Cours d'eau Maclure
@@ -28924,8 +28921,8 @@ Cours d'eau Petitclerc
 Cours d'eau Philippe
 Cours d'eau Philippe-Guévin
 Cours d'eau Picard
-Cours d'eau Piche
 Cours d'eau Picher
+Cours d'eau Piché
 Cours d'eau Pierre-Éthier
 Cours d'eau Pilon
 Cours d'eau Pilon-Vinet
@@ -29669,8 +29666,8 @@ Cram Creek
 Cram Lake
 Cramadog Creek
 Cramadog Lake
-Cramahe
 Cramahe Hill
+Cramahé
 Cramer Hill
 Cramer Island
 Cramer Lake
@@ -31311,6 +31308,7 @@ Czar
 Czejkowsky Marsh
 Czornyj Lake
 Czwaluk Lake
+Cécile
 Céloron
 Céry
 Côte Akimmialuk
@@ -31363,6 +31361,8 @@ Côtes Bélanger
 Côtes de l'Égypte
 Côtes à Perreault
 Côté
+Côté Island
+Côté Lake
 D Lake
 D'Abbadie Creek
 D'Aeth Point
@@ -33256,7 +33256,6 @@ DesBarres Cove
 DesRosiers
 Desan Lakes
 Desandrouins
-Desaulniers
 Desautels
 Desayeux Lake
 Desbarats Inlet
@@ -36284,7 +36283,6 @@ Dubas Creek
 Dubawnt Lake
 Dubawnt River
 Dubbelewe Lake
-Dube Lake
 Dubeau Bay
 Dubeau Island
 Duberger
@@ -36310,6 +36308,7 @@ Dubs Drain
 Dubuc Electoral District, Circonscription électorale de Dubuc
 Dubuisson
 Dubé Creek
+Dubé Lake
 Duc Island
 Ducell Lake
 Ducette Creek
@@ -37433,6 +37432,7 @@ Dépôt-des-Loutres
 Dépôt-du-Lac-Chibougamau
 Dépôt-du-Lac-Devenyns
 Dépôt-Échouani
+Désaulniers
 Désert-Brûlé
 Désert-à-Clément
 Désiré Mountain
@@ -40526,7 +40526,6 @@ Evans Rapids
 Evans Strait
 Evanston
 Evansville
-Evanturel
 Eve Cone
 Eve Creek
 Eve Lake
@@ -41576,7 +41575,6 @@ Fence Pond
 Fence Pond Brook
 Fenchman Cove
 Fencys Cove
-Fenelon
 Fenelon Falls
 Fenelon River
 Fenelons Pond
@@ -44486,9 +44484,7 @@ Frazier Lake
 Freak Island
 Freakly Point
 Freberg Islet
-Frechette
 Frechette Creek
-Frechette Island
 Frechette Lake
 Frecheville
 Fred Brown Island
@@ -44997,6 +44993,8 @@ Frypan Pass
 Frypan Peak
 Frys Point
 Frys Pond
+Fréchette
+Fréchette Island
 Fréchette Point
 Frémont
 Fréville
@@ -45146,6 +45144,7 @@ Fysh Creek
 Fysh Rapids
 Fyson Lake
 Fyten Reservoir
+Fénelon
 G Lake
 G. C. Froese Wildlife Refuge
 G. J. Froese Wildlife Refuge
@@ -45223,7 +45222,6 @@ Gagetown
 Gagetown Creek
 Gagetown Island
 Gagetown Range and Training Area
-Gagne Lake
 Gagney Creek
 Gagnon
 Gagnon Creek
@@ -45231,6 +45229,7 @@ Gagnon Lake
 Gagnon Lakes
 Gagnon's Bay
 Gagné
+Gagné Lake
 Gagon Lake
 Gaherty Island
 Gahn Lake
@@ -48500,7 +48499,6 @@ Grande Digue Shore
 Grande Falaise
 Grande Greve Harbour
 Grande Greve Point
-Grande Ile
 Grande Lake
 Grande Mountain
 Grande Point Settlement
@@ -48531,6 +48529,7 @@ Grande rivière Bostonnais
 Grande rivière Désir
 Grande rivière Swaggin
 Grande rivière de la Baleine
+Grande Île
 Grande île Brûlée
 Grande île Elbow
 Grande île Ivissukainnaq
@@ -52924,7 +52923,6 @@ Heber Meadow Brook
 Heber Meadows
 Heber River
 Hebers Lookout Pond
-Hebert
 Hebert Creek
 Hebert Island
 Hebert Lake
@@ -56266,6 +56264,7 @@ Hyt Lake
 Hythe
 Hyumatko Creek
 Háthayim Marine Park
+Hébert
 Hébertville
 Hébertville-Station
 Hébécourt
@@ -56537,16 +56536,13 @@ Ilclo Indian Reserve 12, Réserve indienne Ilclo 12
 Ildstad Islands
 Ile Bicquette, Bicquette Island
 Ile Chénier
-Ile Desmarais
 Ile Ferré
 Ile Gobin
-Ile Guindon
 Ile Hélène
 Ile Marc
 Ile Parisienne
 Ile Parisienne Conservation Reserve
 Ile Pauline
-Ile Rouge
 Ile Ste-Rosalie
 Ile Vanier
 Ile a la Crosse 192E
@@ -56554,8 +56550,6 @@ Ile au Blé
 Ile aux Canes
 Ile aux Cannes
 Ile aux Coudres, Coudres Island
-Ile aux Moutons
-Ile aux Trembles
 Ile de la Baie des Rochers
 Ile du Bic
 Ile du Chenail
@@ -63885,7 +63879,7 @@ Koosi Creek
 Koosick Bluff
 Kooso Lake
 Kootchie Lake
-Kootenay, The Kootenays
+Kootenay, Kootenays
 Kootenay Bay
 Kootenay Indian Reserve 1, Réserve indienne Kootenay 1
 Kootenay Inlet
@@ -65211,8 +65205,8 @@ La Tête de la Baie
 La Tête du Grand Plaqué
 La Tête-de-l'Île
 La Vache Noire
-La Vallee
 La Vallière
+La Vallée
 La Vallée River
 La Vallée-de-la-Gatineau
 La Vallée-des-Ours
@@ -65466,7 +65460,6 @@ Lac Adanys
 Lac Adar
 Lac Adario
 Lac Addis
-Lac Ade
 Lac Adee
 Lac Adelange
 Lac Adem
@@ -65499,6 +65492,7 @@ Lac Advent
 Lac Adverse
 Lac Adverty
 Lac Adèle
+Lac Adé
 Lac Adélard
 Lac Adélard-Harvey
 Lac Adéline
@@ -65589,9 +65583,9 @@ Lac Aigu
 Lac Aiguebelle
 Lac Aiguesmorte
 Lac Aiguille
-Lac Aile
 Lac Ailleux
 Lac Aillevans
+Lac Ailé
 Lac Aimant
 Lac Aimbault
 Lac Aimé
@@ -66310,13 +66304,13 @@ Lac Aria
 Lac Arial
 Lac Arian
 Lac Ariane
-Lac Arie
 Lac Ariel
 Lac Arimont
 Lac Arion
 Lac Ariot
 Lac Aristote
 Lac Aristée
+Lac Arié
 Lac Arjay
 Lac Arjeau
 Lac Arkley
@@ -66580,7 +66574,6 @@ Lac Atuan Kapatauatntshukua
 Lac Atush
 Lac Atwater
 Lac Aubanel
-Lac Aube
 Lac Aubel
 Lac Aubelle
 Lac Aubergon
@@ -66603,6 +66596,7 @@ Lac Aubry
 Lac Aubuchon
 Lac Aubure
 Lac Auby
+Lac Aubé
 Lac Auchel
 Lac Auchiskwayuch
 Lac Auclair
@@ -66941,7 +66935,6 @@ Lac Baratier
 Lac Barau
 Lac Barbanègre
 Lac Barbara
-Lac Barbe
 Lac Barbeau
 Lac Barbel
 Lac Barbelle
@@ -66954,6 +66947,7 @@ Lac Barbières
 Lac Barbotte
 Lac Barbu
 Lac Barby
+Lac Barbé
 Lac Barc
 Lac Bard
 Lac Bardais
@@ -67021,7 +67015,7 @@ Lac Barta
 Lac Bartel
 Lac Barthe
 Lac Barthou
-Lac Barthélemy
+Lac Barthélémy
 Lac Bartley
 Lac Barton
 Lac Baruel
@@ -67244,13 +67238,11 @@ Lac Bel Air
 Lac Bel Appât
 Lac Belain
 Lac Belanray
-Lac Belec
 Lac Beleney
 Lac Belette
 Lac Belgui
 Lac Belhomme
 Lac Belhumeur
-Lac Belisle
 Lac Bell
 Lac Bella
 Lac Bellabre
@@ -67316,9 +67308,9 @@ Lac Benjamin
 Lac Bennet
 Lac Bennett
 Lac Benny
-Lac Benoit
 Lac Benon
 Lac Benout
+Lac Benoît
 Lac Benque
 Lac Benson
 Lac Bent
@@ -67326,7 +67318,6 @@ Lac Bentham
 Lac Benwah
 Lac Benès
 Lac Ber
-Lac Berard
 Lac Berc
 Lac Berce
 Lac Berceau
@@ -67389,7 +67380,6 @@ Lac Bertain
 Lac Bertaut
 Lac Bertelet
 Lac Bertha
-Lac Berthe
 Lac Berthelette
 Lac Berthelot
 Lac Berthemet
@@ -67397,6 +67387,7 @@ Lac Berthenay
 Lac Berthet
 Lac Berthier
 Lac Berthold
+Lac Berthé
 Lac Bertin
 Lac Bertole
 Lac Bertomiot
@@ -67495,7 +67486,7 @@ Lac Bigones
 Lac Bigorne
 Lac Bigot
 Lac Bigrow
-Lac Bigue
+Lac Bigué
 Lac Bijou
 Lac Bilabié
 Lac Bilbo
@@ -67915,8 +67906,8 @@ Lac Bouat
 Lac Boubert
 Lac Boubou
 Lac Boubée
-Lac Boucane
 Lac Boucaneux
+Lac Boucané
 Lac Boucau
 Lac Boucault
 Lac Bouchain
@@ -68134,7 +68125,6 @@ Lac Brazza
 Lac Bread
 Lac Break
 Lac Break Up
-Lac Breault
 Lac Brebant
 Lac Brebis
 Lac Breccia
@@ -68144,7 +68134,6 @@ Lac Breen
 Lac Bref
 Lac Breloque
 Lac Bren
-Lac Brenard
 Lac Brenat
 Lac Brendan
 Lac Breneuil
@@ -68210,7 +68199,6 @@ Lac Briquet
 Lac Brisay
 Lac Briscan
 Lac Briscot
-Lac Brise
 Lac Brise-Fer
 Lac Brisebois
 Lac Briseval
@@ -68219,6 +68207,7 @@ Lac Brissard
 Lac Brissin
 Lac Brisson
 Lac Bristol
+Lac Brisé
 Lac Britannique
 Lac Britt
 Lac Britte
@@ -68285,7 +68274,6 @@ Lac Bruges
 Lac Brugier
 Lac Brugnon
 Lac Bruin
-Lac Brulé
 Lac Brumare
 Lac Brumath
 Lac Brumeux
@@ -68315,6 +68303,7 @@ Lac Bryso
 Lac Bryson
 Lac Bré
 Lac Bréard
+Lac Bréault
 Lac Brébeuf
 Lac Bréboeuf
 Lac Brécey
@@ -68324,6 +68313,7 @@ Lac Bréhan
 Lac Bréhard
 Lac Bréhat
 Lac Bréhaut
+Lac Brénard
 Lac Brésolles
 Lac Brévon
 Lac Brézel
@@ -68332,6 +68322,7 @@ Lac Brûlant
 Lac Brûlart
 Lac Brûle-Neige
 Lac Brûlot
+Lac Brûlé
 Lac Brûlé Nord
 Lac Brûlé de la Charrue
 Lac Buade
@@ -68499,7 +68490,9 @@ Lac Béjart
 Lac Bélair
 Lac Béland
 Lac Bélanger
+Lac Bélec
 Lac Bélinda
+Lac Bélisle
 Lac Béliveau
 Lac Bélon
 Lac Béluga
@@ -68511,6 +68504,7 @@ Lac Bény
 Lac Béon
 Lac Béost
 Lac Béram
+Lac Bérard
 Lac Béret
 Lac Bériaux
 Lac Béru
@@ -68563,12 +68557,12 @@ Lac Cacatois
 Lac Cacatoès
 Lac Cachalot
 Lac Cachan
-Lac Cache
 Lac Cachege
 Lac Cachet
 Lac Cachisca
 Lac Cachou
 Lac Cachow
+Lac Caché
 Lac Caché Nord
 Lac Caché Sud
 Lac Cacique
@@ -68622,7 +68616,6 @@ Lac Caillot
 Lac Caillou
 Lac Cailly
 Lac Caillé
-Lac Cain
 Lac Caire
 Lac Cairine
 Lac Cairns
@@ -68673,9 +68666,9 @@ Lac Callaghan
 Lac Callian
 Lac Callier
 Lac Calmar
-Lac Calme
 Lac Calmont
 Lac Calmor
+Lac Calmé
 Lac Caloisson
 Lac Calonne
 Lac Calot
@@ -69134,6 +69127,7 @@ Lac Cazes
 Lac Cazo
 Lac Caïc
 Lac Caïd
+Lac Caïn
 Lac Ceaux
 Lac Cebazan
 Lac Ceci
@@ -69345,9 +69339,9 @@ Lac Charlot
 Lac Charlotte
 Lac Charlton
 Lac Charmant
-Lac Charme
 Lac Charmont
 Lac Charmoy
+Lac Charmé
 Lac Charneu
 Lac Charnisay
 Lac Charnière
@@ -69367,7 +69361,6 @@ Lac Charton
 Lac Chartrand
 Lac Chartré
 Lac Chassaigne
-Lac Chasse
 Lac Chasse-Midi
 Lac Chasseneuil
 Lac Chasserand
@@ -69375,6 +69368,7 @@ Lac Chasseur
 Lac Chassignolle
 Lac Chassin
 Lac Chassis
+Lac Chassé
 Lac Chastelain
 Lac Chastellux
 Lac Chastenay
@@ -69384,7 +69378,6 @@ Lac Chasy
 Lac Chat
 Lac Chatal
 Lac Chatas
-Lac Chatelain
 Lac Chatelraux
 Lac Chatenay
 Lac Chatignon
@@ -69626,6 +69619,7 @@ Lac Châteauguay
 Lac Châteauneuf
 Lac Châteauvert
 Lac Châtel
+Lac Châtelain
 Lac Châtillon
 Lac Chécatica
 Lac Chéchippe
@@ -69641,7 +69635,7 @@ Lac Chômeur
 Lac Ci-Joint
 Lac Ciaunaux
 Lac Cibardin
-Lac Cible
+Lac Ciblé
 Lac Ciboure
 Lac Cibâtikocik
 Lac Cicip
@@ -69675,9 +69669,9 @@ Lac Ciossy
 Lac Ciquart
 Lac Ciral
 Lac Ciran
-Lac Circe
 Lac Circle
 Lac Circulaire
+Lac Circé
 Lac Circée
 Lac Cirier
 Lac Cirillo
@@ -69770,7 +69764,6 @@ Lac Cleft
 Lac Cleghorn
 Lac Clelan
 Lac Clem
-Lac Clement
 Lac Clenchamp
 Lac Clenche
 Lac Clepete
@@ -69826,6 +69819,7 @@ Lac Clémeau
 Lac Clémence
 Lac Clémenceau
 Lac Clémens
+Lac Clément
 Lac Clémenter
 Lac Clémentine
 Lac Clémont
@@ -69950,7 +69944,6 @@ Lac Combaluzier
 Lac Combe
 Lac Combet
 Lac Combourg
-Lac Come
 Lac Comeau
 Lac Comeback
 Lac Comencho
@@ -70148,7 +70141,6 @@ Lac Cotton
 Lac Cotts
 Lac Cotty
 Lac Cotyle
-Lac Coté
 Lac Coubras
 Lac Couch
 Lac Couchedebout
@@ -70157,9 +70149,9 @@ Lac Coucou
 Lac Coucoune
 Lac Coucoushee
 Lac Coucy
-Lac Coude
 Lac Coudon
 Lac Coudret
+Lac Coudé
 Lac Coudée
 Lac Couenne
 Lac Couespel
@@ -70180,11 +70172,11 @@ Lac Coulvain
 Lac Coumyn
 Lac Coupal
 Lac Coupard
-Lac Coupe
 Lac Coupe-Feu
 Lac Coupeaux
 Lac Couperet
 Lac Coupiac
+Lac Coupé
 Lac Courban
 Lac Courbier
 Lac Courbonne
@@ -70415,8 +70407,8 @@ Lac Cuers
 Lac Cuff
 Lac Cugnet
 Lac Cuielles
-Lac Cuillerier
 Lac Cuillère
+Lac Cuillèrier
 Lac Cuis
 Lac Cuissarde
 Lac Cuissardes
@@ -70517,6 +70509,8 @@ Lac Césia
 Lac Cézac
 Lac Cézas
 Lac Cîbîb
+Lac Côme
+Lac Côté
 Lac D
 Lac D'Aillebiche
 Lac D'Ailleboust
@@ -70673,9 +70667,9 @@ Lac Darby
 Lac Darcey
 Lac Darche
 Lac Dardaines
-Lac Darde
 Lac Dardes
 Lac Dardez
+Lac Dardé
 Lac Darey
 Lac Dargentaut
 Lac Dargie
@@ -70865,7 +70859,6 @@ Lac Dejordy
 Lac Deken
 Lac Delaas
 Lac Delafond
-Lac Delage
 Lac Delahaise
 Lac Delahaye
 Lac Delahey
@@ -70892,7 +70885,6 @@ Lac Delicato
 Lac Deligny
 Lac Deline
 Lac Delinel
-Lac Delisle
 Lac Dell
 Lac Dellerm
 Lac Delleur
@@ -70909,6 +70901,7 @@ Lac Delta
 Lac Deltombe
 Lac Delut
 Lac Delvis
+Lac Delâge
 Lac Demain
 Lac Demarest
 Lac Demarque
@@ -70932,7 +70925,6 @@ Lac Denabis
 Lac Denain
 Lac Denault
 Lac Denaut
-Lac Dene
 Lac Denevers
 Lac Denevert
 Lac Denier
@@ -70954,6 +70946,7 @@ Lac Dents de Scie
 Lac Denté
 Lac Denys
 Lac Denyse
+Lac Dené
 Lac Deo
 Lac Departure
 Lac Depiace
@@ -71016,7 +71009,7 @@ Lac Deschesnes
 Lac Descholes
 Lac Deschênes
 Lac Desclaux
-Lac Descoteaux
+Lac Descôteaux
 Lac Desdames
 Lac Desermous
 Lac Desfonds
@@ -71273,7 +71266,6 @@ Lac Dol
 Lac Dolan
 Lac Dolard
 Lac Dolbel
-Lac Dole
 Lac Doleau
 Lac Dolent
 Lac Dolic
@@ -71373,9 +71365,9 @@ Lac Douar
 Lac Douard
 Lac Douay
 Lac Douayren
-Lac Double
 Lac Double Ligne
 Lac Doublet
+Lac Doublé
 Lac Doucet
 Lac Doucinet
 Lac Doudan
@@ -71754,6 +71746,7 @@ Lac Délias
 Lac Délicat
 Lac Délice
 Lac Délima
+Lac Délisle
 Lac Déléage
 Lac Dément
 Lac Démon
@@ -71789,6 +71782,7 @@ Lac Détilly
 Lac Détourné
 Lac Dévié
 Lac Déziel
+Lac Dôle
 Lac E
 Lac Eagle
 Lac Eames
@@ -71822,7 +71816,6 @@ Lac Edme
 Lac Edmond
 Lac Edmonston
 Lac Edna
-Lac Edouard
 Lac Edouin
 Lac Educ
 Lac Edward
@@ -71910,8 +71903,6 @@ Lac Emden
 Lac Emerald
 Lac Emerillon
 Lac Emerson
-Lac Emery
-Lac Emilien
 Lac Emily-Hart
 Lac Emirockoteak
 Lac Emma
@@ -71977,7 +71968,6 @@ Lac Ercé
 Lac Erg
 Lac Ergot
 Lac Erich-Dimroth
-Lac Erik
 Lac Eriko
 Lac Erlon
 Lac Ermanger
@@ -72050,7 +72040,6 @@ Lac Et Vlan!
 Lac Etapp
 Lac Etbos
 Lac Etenescomme
-Lac Ethel
 Lac Ethyl
 Lac Etinam
 Lac Etrun
@@ -72172,7 +72161,6 @@ Lac Famine
 Lac Fan
 Lac Fanal
 Lac Fanay
-Lac Fane
 Lac Fanfan
 Lac Fangé
 Lac Fanlac
@@ -72186,6 +72174,7 @@ Lac Fanton
 Lac Fantôme
 Lac Fanum
 Lac Fany
+Lac Fané
 Lac Fao
 Lac Fappier
 Lac Faquin
@@ -72449,7 +72438,7 @@ Lac Fission
 Lac Fiston
 Lac Fitz
 Lac Fitzback
-Lac Fitzgerald
+Lac Fitzgérald
 Lac Fitzpatrick
 Lac Fixe
 Lac Fixem
@@ -72561,8 +72550,8 @@ Lac Fly
 Lac Flyface
 Lac Flynn
 Lac Flâneur
-Lac Flèche
 Lac Fléchette
+Lac Fléché
 Lac Flée
 Lac Flénu
 Lac Fléole
@@ -72626,10 +72615,10 @@ Lac Forbell
 Lac Forbes
 Lac Forbin
 Lac Forcade
-Lac Force
 Lac Forcet
 Lac Forcier
 Lac Forciolo
+Lac Forcé
 Lac Ford
 Lac Fordet
 Lac Forecast
@@ -72793,7 +72782,6 @@ Lac French
 Lac Frenette
 Lac Frenières
 Lac Frenot
-Lac Frerot
 Lac Fresavy
 Lac Fressel
 Lac Fret
@@ -72857,6 +72845,7 @@ Lac Fréguron
 Lac Fréjean
 Lac Frémin
 Lac Frémont
+Lac Frérot
 Lac Frétillant
 Lac Fréville
 Lac Frölich
@@ -73014,7 +73003,6 @@ Lac Galipault
 Lac Galipeau
 Lac Gallant
 Lac Gallard
-Lac Galle
 Lac Gallet
 Lac Gallia
 Lac Gallichon
@@ -73024,6 +73012,7 @@ Lac Gallium
 Lac Gallo
 Lac Gallot
 Lac Galloway
+Lac Gallé
 Lac Gallérie
 Lac Galmarolle
 Lac Galopen
@@ -73227,7 +73216,6 @@ Lac Genat
 Lac Gendray
 Lac Gendreau
 Lac Gendron
-Lac Gene
 Lac Genest
 Lac Geneteau
 Lac Genetot
@@ -73245,6 +73233,7 @@ Lac Gentil
 Lac Gentray
 Lac Geny
 Lac Genève
+Lac Gené
 Lac Geoff
 Lac Geoffrion
 Lac Geoffroy
@@ -74031,7 +74020,6 @@ Lac Haire
 Lac Hakluyt
 Lac Hal
 Lac Halahan
-Lac Hale
 Lac Halfmoon
 Lac Halfway
 Lac Hall
@@ -74574,6 +74562,7 @@ Lac Hyman
 Lac Hyoux
 Lac Hypocrite
 Lac Hystérique
+Lac Hâlé
 Lac Hère
 Lac Hébert
 Lac Hébécourt
@@ -75423,9 +75412,9 @@ Lac Juville
 Lac Juvinas
 Lac Juxtaglaciaire
 Lac Jéjunum
-Lac Jérome
 Lac Jérémie
 Lac Jérémy
+Lac Jérôme
 Lac Kaachichekamuuskach
 Lac Kaachiimiyuuskamihtanuch
 Lac Kaachinopitchikamach
@@ -75571,7 +75560,6 @@ Lac Kaitikotitiacik
 Lac Kaitupischepeyau
 Lac Kajjuvaluk
 Lac Kajkach
-Lac Kak
 Lac Kaka
 Lac Kakachapipatakanistikw
 Lac Kakachekaput Chistuhwakan
@@ -76370,7 +76358,6 @@ Lac Kessik
 Lac Kessler
 Lac Kester
 Lac Kettle
-Lac Kevin
 Lac Kew
 Lac Key
 Lac Keyser
@@ -76599,6 +76586,7 @@ Lac Kâ Adikamekokâk
 Lac Kâhobâkacik
 Lac Kâhokitabîkisik
 Lac Kâjikapacimonaniwak
+Lac Kâk
 Lac Kâkickiwâk
 Lac Kâkigâkweyak
 Lac Kâkinogâmak
@@ -76610,7 +76598,7 @@ Lac Kâmackawâkâmagak
 Lac Kâmackîgwâgamak
 Lac Kâmagiskinijiwâk
 Lac Kâmakabôsikak
-Lac Kâmakadewagamik
+Lac Kâmakadewâgamik
 Lac Kâmakwadipetc
 Lac Kâmicabîkak
 Lac Kâmickikwagamak
@@ -76641,6 +76629,7 @@ Lac Képi
 Lac Kérialtan
 Lac Kériel
 Lac Késagami
+Lac Kévin
 Lac Kôkomi
 Lac Kôkôc
 Lac L
@@ -76825,18 +76814,17 @@ Lac Labédant
 Lac Lacaille
 Lac Lacalm
 Lac Lacasse
-Lac Lace
 Lac Lacelain
 Lac Lacelle
 Lac Lacetière
 Lac Lacey
-Lac Lachaine
 Lac Lachance
 Lac Lachapelle
 Lac Lachatte
 Lac Lachau
 Lac Lachaume
 Lac Lachaussée
+Lac Lachaîne
 Lac Lache
 Lac Lachipie
 Lac Lachy
@@ -76858,6 +76846,7 @@ Lac Lacres
 Lac Lacroix
 Lac Lacrème
 Lac Lactance
+Lac Lacé
 Lac Lad
 Lac Ladau
 Lac Ladaux
@@ -76993,10 +76982,10 @@ Lac Lamonte
 Lac Lamothe
 Lac Lamoureux
 Lac Lampas
-Lac Lampe
 Lac Lampinet
 Lac Lampron
 Lac Lampyre
+Lac Lampé
 Lac Lamy
 Lac Laméac
 Lac Lamêlée
@@ -77009,7 +76998,7 @@ Lac Lanciault
 Lac Lancier
 Lac Lancognée
 Lac Lancre
-Lac Lanctot
+Lac Lanctôt
 Lac Lancéolé
 Lac Landanet
 Lac Landeau
@@ -77366,7 +77355,6 @@ Lac Le Vilin
 Lac Le Vital
 Lac LeLievre
 Lac LeMoyne
-Lac Lea
 Lac Leach
 Lac Leamy
 Lac Lear
@@ -77506,7 +77494,6 @@ Lac Lentol
 Lac Lenz
 Lac Lenôtre
 Lac Leofred
-Lac Leone
 Lac Lepage
 Lac Lepaige
 Lac Lepallier
@@ -77558,7 +77545,6 @@ Lac Letendre
 Lac Letia
 Lac Letondal
 Lac Letour
-Lac Letourneau
 Lac Letourneux
 Lac Lett
 Lac Letto
@@ -77575,11 +77561,9 @@ Lac Leven
 Lac Leventoux
 Lac Levers
 Lac Levert
-Lac Levesque
 Lac Levier
 Lac Levilliers
 Lac Levin
-Lac Levis
 Lac Levitre
 Lac Levot
 Lac Levé
@@ -77590,7 +77574,6 @@ Lac Lexhy
 Lac Leymarie
 Lac Lez
 Lac Lezai
-Lac Lezard
 Lac Lhande
 Lac Lhomme
 Lac Lia
@@ -77697,9 +77680,9 @@ Lac Liotard
 Lac Liotot
 Lac Liparis
 Lac Lipp
-Lac Lippe
 Lac Lippelo
 Lac Lippens
+Lac Lippé
 Lac Lipsette
 Lac Liquart
 Lac Liqueur
@@ -77970,7 +77953,6 @@ Lac Luc-Sirois
 Lac Luca
 Lac Lucas
 Lac Lucault
-Lac Luce
 Lac Lucerne
 Lac Lucette
 Lac Luchard
@@ -77990,6 +77972,7 @@ Lac Lucratia
 Lac Luculus
 Lac Lucus
 Lac Lucy
+Lac Lucé
 Lac Ludard
 Lac Ludesse
 Lac Ludger
@@ -78019,7 +78002,6 @@ Lac Lunam
 Lac Lunch
 Lac Luncho
 Lac Lundy
-Lac Lune
 Lac Luneau
 Lac Luneaux
 Lac Lunegand
@@ -78027,6 +78009,7 @@ Lac Lunel
 Lac Lunette
 Lac Lunettes
 Lac Lunny
+Lac Luné
 Lac Lunéville
 Lac Lupien
 Lac Lupin
@@ -78081,6 +78064,7 @@ Lac Lyster
 Lac Lytton
 Lac Lège
 Lac Lème
+Lac Léa
 Lac Léandre
 Lac Léaz
 Lac Lécuyer
@@ -78100,6 +78084,7 @@ Lac Léona
 Lac Léonard
 Lac Léonce
 Lac Léoncel
+Lac Léone
 Lac Léonidas
 Lac Léonora
 Lac Léontine
@@ -78116,9 +78101,13 @@ Lac Lériger
 Lac Lérot
 Lac Lésine
 Lac Léthé
+Lac Létourneau
 Lac Léveillé
+Lac Lévesque
+Lac Lévis
 Lac Lévite
 Lac Lévrier
+Lac Lézard
 Lac M
 Lac Ma Mie
 Lac Ma Tante
@@ -78195,7 +78184,6 @@ Lac Maclean
 Lac Macleod
 Lac Macloune
 Lac Macogny
-Lac Macon
 Lac Macoustigane
 Lac Macque
 Lac Macquin
@@ -78784,7 +78772,6 @@ Lac Masnières
 Lac Mason
 Lac Masqué
 Lac Massawippi
-Lac Masse
 Lac Massey
 Lac Massia
 Lac Massiat
@@ -78794,6 +78781,7 @@ Lac Massignon
 Lac Massin
 Lac Masson
 Lac Massue
+Lac Massé
 Lac Mastaba
 Lac Master
 Lac Mastigou
@@ -79062,12 +79050,10 @@ Lac Mekweyauch
 Lac Mekweyauch Katakuch
 Lac Mela
 Lac Melantel
-Lac Melançon
 Lac Melba
 Lac Melbourne
 Lac Melchior
 Lac Melesan
-Lac Melin
 Lac Melincourt
 Lac Meliyan
 Lac Mellequin
@@ -79088,7 +79074,6 @@ Lac Memewin
 Lac Memphrémagog, Lake Memphremagog
 Lac Menahigonse
 Lac Menakan
-Lac Menard
 Lac Menarik
 Lac Menat
 Lac Menaçant
@@ -79158,7 +79143,6 @@ Lac Merède
 Lac Mesahikun
 Lac Mesbottes
 Lac Mesgouez
-Lac Mesière
 Lac Meslay
 Lac Mesnil
 Lac Mesnu
@@ -79853,13 +79837,13 @@ Lac Mouffette
 Lac Moufflet
 Lac Mouflé
 Lac Mouillé
-Lac Moule
 Lac Moulevin
 Lac Mouliers
 Lac Moulin
 Lac Moulinet
 Lac Moulins
 Lac Moulu
+Lac Moulé
 Lac Mounier
 Lac Mountain
 Lac Mountains
@@ -80016,6 +80000,7 @@ Lac Mystère
 Lac Mystérieux
 Lac Mâche
 Lac Mâchoire
+Lac Mâcon
 Lac Mâconnais
 Lac Mâle
 Lac Mânicîc
@@ -80047,10 +80032,12 @@ Lac Mékiskine
 Lac Mélamare
 Lac Mélan
 Lac Mélanie
+Lac Mélançon
 Lac Mélar
 Lac Méli
 Lac Mélie
 Lac Mélilot
+Lac Mélin
 Lac Mélina
 Lac Méliot
 Lac Mélissa
@@ -80063,6 +80050,7 @@ Lac Mémère
 Lac Mémé
 Lac Ména
 Lac Ménade
+Lac Ménard
 Lac Ménarmont
 Lac Ménascouagama
 Lac Ménerval
@@ -80087,6 +80075,7 @@ Lac Méru
 Lac Méry
 Lac Méré
 Lac Mésange
+Lac Mésière
 Lac Mésoglée
 Lac Mésy
 Lac Métabeskéga
@@ -80362,7 +80351,6 @@ Lac Nemenjiche
 Lac Nemio
 Lac Nemiscau
 Lac Nemisitan
-Lac Nemo
 Lac Nenikukupahu
 Lac Nenou
 Lac Nentin
@@ -80775,6 +80763,7 @@ Lac Némalion
 Lac Néman
 Lac Nématodes
 Lac Némiscachingue
+Lac Némo
 Lac Néméens
 Lac Némégousse
 Lac Néodyme
@@ -81234,7 +81223,6 @@ Lac Ouzel
 Lac Ouésianne
 Lac Ovale
 Lac Ovate
-Lac Ove
 Lac Oven
 Lac Ovibon
 Lac Ovibos
@@ -81245,6 +81233,7 @@ Lac Ovila-Fortier
 Lac Ovocyte
 Lac Ovoïde
 Lac Ovule
+Lac Ové
 Lac Owen
 Lac Owl
 Lac Ox
@@ -81297,7 +81286,6 @@ Lac Padre
 Lac Pagachou
 Lac Pagaie
 Lac Pagan
-Lac Page
 Lac Pageau
 Lac Pagel
 Lac Pageot
@@ -81312,6 +81300,7 @@ Lac Paguededog
 Lac Pagure
 Lac Pagànàkomin
 Lac Pagès
+Lac Pagé
 Lac Pagéas
 Lac Pahonnet
 Lac Pahtshukutakueu
@@ -81466,7 +81455,6 @@ Lac Papu
 Lac Papukitin
 Lac Papy
 Lac Paquerette
-Lac Paquet
 Lac Paquette
 Lac Paquin
 Lac Para
@@ -81669,7 +81657,6 @@ Lac Peau de Loup
 Lac Peau de Vache
 Lac Peavy
 Lac Pec
-Lac Pecan
 Lac Pechina
 Lac Peck
 Lac Peckham
@@ -81737,13 +81724,13 @@ Lac Penipatauakat
 Lac Penissant
 Lac Penlan
 Lac Penn
-Lac Penne
 Lac Penneleau
 Lac Pennicle
 Lac Penniseault
 Lac Pennock
 Lac Pennoyer
 Lac Penny
+Lac Penné
 Lac Pennée
 Lac Penol
 Lac Pensive
@@ -81754,7 +81741,6 @@ Lac Penture
 Lac Pep
 Lac Pepabano
 Lac Pepi
-Lac Pepin
 Lac Peppe
 Lac Peppler
 Lac Peray
@@ -81775,8 +81761,8 @@ Lac Peren
 Lac Perineau
 Lac Perkin
 Lac Perkins
-Lac Perle
 Lac Perley
+Lac Perlé
 Lac Perméable
 Lac Pernie
 Lac Pernot
@@ -81888,8 +81874,8 @@ Lac Phyllis
 Lac Phébé
 Lac Pi
 Lac Pi-Wi
-Lac Piace
 Lac Piacouadie
+Lac Piacé
 Lac Piagochioui
 Lac Piana
 Lac Piashti
@@ -82037,10 +82023,10 @@ Lac Pinard
 Lac Pinaud
 Lac Pinawa
 Lac Pinay
-Lac Pince
 Lac Pinceau
 Lac Pincebec
 Lac Pincourt
+Lac Pincé
 Lac Pindanwan
 Lac Pinder
 Lac Pine
@@ -82249,11 +82235,11 @@ Lac Pointeau
 Lac Pointel
 Lac Pointu
 Lac Poinçon
-Lac Poire
 Lac Poirel
 Lac Poiret
 Lac Poirier
 Lac Poiriot
+Lac Poiré
 Lac Pois
 Lac Pois Vert
 Lac Poisat
@@ -82663,10 +82649,12 @@ Lac Pyrrha
 Lac Pys
 Lac Pyschegan
 Lac Pythonga
+Lac Pâquet
 Lac Pâtis
 Lac Péan
 Lac Péas
 Lac Pécain
+Lac Pécan
 Lac Pécaudy
 Lac Péclet
 Lac Pécody
@@ -82694,6 +82682,7 @@ Lac Pénobscot
 Lac Péone
 Lac Pépeshquasati
 Lac Pépieux
+Lac Pépin
 Lac Pépite
 Lac Pépon
 Lac Pépère
@@ -82843,7 +82832,6 @@ Lac Queue de Vison
 Lac Queue-de-Pie
 Lac Queune
 Lac Queusot
-Lac Quevillon
 Lac Queyssel
 Lac Qui-Bouille
 Lac Qui-Dort
@@ -82917,6 +82905,7 @@ Lac Quéran
 Lac Quérenet
 Lac Quérion
 Lac Quésagami
+Lac Quévillon
 Lac Ra-Ma
 Lac Rabady
 Lac Raban
@@ -83177,10 +83166,8 @@ Lac Remick
 Lac Remigeaux
 Lac Remillac
 Lac Remo
-Lac Remus
 Lac Rena
 Lac Renac
-Lac Renald
 Lac Renard
 Lac Renardeau
 Lac Renaud
@@ -83612,7 +83599,7 @@ Lac Rough
 Lac Rougias
 Lac Roui
 Lac Rouillard
-Lac Rouille
+Lac Rouillé
 Lac Roujan
 Lac Roulans
 Lac Rouleau
@@ -83778,7 +83765,9 @@ Lac Rémi
 Lac Rémigny
 Lac Rémillard
 Lac Rémora
+Lac Rémus
 Lac Rémy
+Lac Rénald
 Lac Rérock
 Lac Réséda
 Lac Rétaud
@@ -84006,7 +83995,6 @@ Lac Salampar
 Lac Salat
 Lac Salbert
 Lac Salbris
-Lac Sale
 Lac Salebert
 Lac Salelles
 Lac Salem
@@ -84055,6 +84043,7 @@ Lac Salvia
 Lac Salviac
 Lac Salza
 Lac Salzé
+Lac Salé
 Lac Saléon
 Lac Salò
 Lac Sam
@@ -84218,9 +84207,9 @@ Lac Saubosq
 Lac Saucier
 Lac Saucisse
 Lac Sauer
-Lac Sauge
 Lac Saugon
 Lac Saugues
+Lac Saugé
 Lac Sauliac
 Lac Saulnier
 Lac Sault
@@ -84405,7 +84394,6 @@ Lac Senack
 Lac Senacose
 Lac Senaka
 Lac Senard
-Lac Senat
 Lac Senay
 Lac Seneca
 Lac Senestre
@@ -84445,9 +84433,9 @@ Lac Serpent Vert
 Lac Serpenteau
 Lac Serpentin
 Lac Serpentine
-Lac Serre
 Lac Serre-Joint
 Lac Serrs
+Lac Serré
 Lac Servais
 Lac Serval
 Lac Service
@@ -84457,7 +84445,6 @@ Lac Sesitinikashish
 Lac Seski
 Lac Seskimaka
 Lac Setback
-Lac Seton
 Lac Seu
 Lac Seuet
 Lac Seul
@@ -84830,7 +84817,6 @@ Lac Souillé
 Lac Souki
 Lac Soul
 Lac Souladre
-Lac Soulard
 Lac Soulevent
 Lac Souley
 Lac Soulier
@@ -84860,6 +84846,7 @@ Lac Sovet
 Lac Sowden
 Lac Soya
 Lac Soyer
+Lac Soûlard
 Lac Spaff
 Lac Spafford
 Lac Sparks
@@ -85167,6 +85154,7 @@ Lac Sémélé
 Lac Sénallon
 Lac Sénarmont
 Lac Sénas
+Lac Sénat
 Lac Sénateur
 Lac Sénazard
 Lac Sénevé
@@ -85184,6 +85172,7 @@ Lac Séry
 Lac Séré
 Lac Sésame
 Lac Sétacé
+Lac Séton
 Lac Séverin
 Lac Sévigny
 Lac T
@@ -85201,9 +85190,9 @@ Lac Tabou
 Lac Tabre
 Lac Tabès
 Lac Tac
-Lac Tache
 Lac Tache d'Encre
 Lac Tachy
+Lac Taché
 Lac Taco
 Lac Tadek
 Lac Taden
@@ -85337,12 +85326,11 @@ Lac Tarbell
 Lac Tard
 Lac Tardif
 Lac Tardon
-Lac Tare
 Lac Tareau
 Lac Tarentule
 Lac Taret
-Lac Targe
 Lac Targon
+Lac Targé
 Lac Tarin
 Lac Tarine
 Lac Tarière
@@ -85361,6 +85349,7 @@ Lac Tartara
 Lac Tarte
 Lac Tarvelle
 Lac Tarzan
+Lac Taré
 Lac Taschereau
 Lac Tasialuaruq
 Lac Tasialujjuaq
@@ -85568,9 +85557,9 @@ Lac Tesson
 Lac Tessouat
 Lac Test
 Lac Testard
-Lac Teste
 Lac Teston
 Lac Testu
+Lac Testé
 Lac Tetakutakamas
 Lac Tetti
 Lac Teuaikan
@@ -85792,10 +85781,10 @@ Lac Tiptop
 Lac Tipule
 Lac Tirade
 Lac Tirasse
-Lac Tire
 Lac Tire-Bouchon
 Lac Tiros
 Lac Tirtiluk
+Lac Tiré
 Lac Tish
 Lac Tisime
 Lac Tison
@@ -86622,7 +86611,7 @@ Lac Van Ingen
 Lac Vanadis
 Lac Vanadium
 Lac Vanasse
-Lac Vance
+Lac Vancé
 Lac Vanda
 Lac Vandal
 Lac Vandalle
@@ -86866,10 +86855,10 @@ Lac Victorine
 Lac Vidal
 Lac Vidame
 Lac Vidaut
-Lac Vide
 Lac Videbouteille
 Lac Videlet
 Lac Videt
+Lac Vidé
 Lac Viegas
 Lac Vieillotte
 Lac Vien
@@ -87814,8 +87803,8 @@ Lac aux Cinquante-Six Roches
 Lac aux Clams
 Lac aux Cossins
 Lac aux Couleuvres
-Lac aux Cypres
 Lac aux Cyprins
+Lac aux Cyprès
 Lac aux Cèdres
 Lac aux Daphnies
 Lac aux Deux Branches
@@ -87876,7 +87865,6 @@ Lac aux Loutres
 Lac aux Lézards
 Lac aux Martres
 Lac aux Matteucies
-Lac aux Menés
 Lac aux Merles
 Lac aux Meuniers
 Lac aux Mouches
@@ -87884,6 +87872,7 @@ Lac aux Mouettes
 Lac aux Moules
 Lac aux Moustiques
 Lac aux Méandres
+Lac aux Ménés
 Lac aux Mûres
 Lac aux Nervures
 Lac aux Noisettes
@@ -88051,7 +88040,7 @@ Lac de Chevreuse
 Lac de Coeur
 Lac de Coppell
 Lac de Courval
-Lac de Côte
+Lac de Côté
 Lac de Daissat
 Lac de Daumeray
 Lac de Dejeuner
@@ -88315,7 +88304,6 @@ Lac de l'Aria
 Lac de l'Armoise
 Lac de l'Armée
 Lac de l'Arnaque
-Lac de l'Arome
 Lac de l'Arpenteur
 Lac de l'Arpenteuse
 Lac de l'Arquebuse
@@ -88328,6 +88316,7 @@ Lac de l'Arsenal
 Lac de l'Arsin
 Lac de l'Artichaut
 Lac de l'Arête
+Lac de l'Arôme
 Lac de l'As
 Lac de l'Aspe
 Lac de l'Asperge
@@ -88342,7 +88331,7 @@ Lac de l'Astérisque
 Lac de l'Astéroïde
 Lac de l'Attache
 Lac de l'Attelage
-Lac de l'Attrape
+Lac de l'Attrapé
 Lac de l'Atèle
 Lac de l'Aubade Rouge
 Lac de l'Aube
@@ -89126,7 +89115,6 @@ Lac de la Fabrique
 Lac de la Faiblesse
 Lac de la Faille
 Lac de la Faim
-Lac de la Faine
 Lac de la Falaise
 Lac de la Falaise de Roches
 Lac de la Famille
@@ -89137,6 +89125,7 @@ Lac de la Faune
 Lac de la Fauvette
 Lac de la Faux
 Lac de la Façade
+Lac de la Faîne
 Lac de la Femelle
 Lac de la Femme
 Lac de la Femme de Givre
@@ -90698,7 +90687,6 @@ Lac des Ibérides
 Lac des Ides
 Lac des Ifs
 Lac des Ignoleux
-Lac des Iles
 Lac des Illusions
 Lac des Immortelles
 Lac des Impatientes
@@ -91445,6 +91433,7 @@ Lac des Étangs
 Lac des Étoiles
 Lac des Étoles
 Lac des Étudiants
+Lac des Îles
 Lac des Îles Brûlées
 Lac des Îles Flottantes
 Lac des Îles Jumelles
@@ -92499,8 +92488,8 @@ Lac du Jet
 Lac du Jet de Glace
 Lac du Jeu d'Adresse
 Lac du Jeudi
-Lac du Jeune
 Lac du Jeune Pêcheur
+Lac du Jeûne
 Lac du Jobber
 Lac du Jocana
 Lac du Jonc
@@ -92825,7 +92814,7 @@ Lac du Palmipède
 Lac du Paléa
 Lac du Pamplemousse
 Lac du Pan
-Lac du Panache
+Lac du Panaché
 Lac du Panais
 Lac du Panda
 Lac du Panel
@@ -93938,6 +93927,7 @@ Lac Édith
 Lac Édithe
 Lac Édon
 Lac Édouaire
+Lac Édouard
 Lac Édredon
 Lac Édèse
 Lac Éfendi
@@ -93987,8 +93977,10 @@ Lac Émer
 Lac Émeraude
 Lac Émeric
 Lac Émeril
+Lac Émery
 Lac Émile
 Lac Émilie
+Lac Émilien
 Lac Émincé
 Lac Émir
 Lac Émo
@@ -94045,6 +94037,7 @@ Lac Éric
 Lac Érica
 Lac Ériché
 Lac Érick
+Lac Érik
 Lac Ériver
 Lac Érié
 Lac Éros
@@ -94061,6 +94054,7 @@ Lac Étau
 Lac Étel
 Lac Éternel
 Lac Éternité
+Lac Éthel
 Lac Éthier
 Lac Étienne
 Lac Étienniche
@@ -96754,7 +96748,7 @@ Largepike Lake
 Largs
 Lariat Lake
 Laridae Island
-Lariviere Lake
+Larivière Lake
 Larix Creek
 Larix Lake
 Lark Harbour
@@ -97066,14 +97060,14 @@ Laval
 Laval Lake
 Lavallee Bay
 Lavallee Channel
-Lavallee Creek
 Lavallee Hill
-Lavallee Lake
 Lavalley Bay
 Lavalley Point
 Lavallie Lake
 Lavallée
+Lavallée Creek
 Lavallée Island
+Lavallée Lake
 Lavallée Pass
 Lavaltrie
 Lavaltrie-Station
@@ -98354,7 +98348,6 @@ Lepers Creek
 Lepha Creek
 Lepha Lake
 Lepine Creek
-Lepine Lake
 Lepp Lake
 Leppard Creek
 Lepper Brook
@@ -103849,6 +103842,7 @@ Lève Lake
 Légaré
 Léger Brook
 Légerville
+Lépine Lake
 Léry
 Lévis
 Lévy
@@ -109523,7 +109517,6 @@ Menahook River
 Menako Lakes
 Menanteau Lake
 Menapia
-Menard
 Menard Creek
 Menard Lake
 Menary
@@ -112743,7 +112736,6 @@ Montours Creek
 Montours Lake
 Montpellier
 Montpetit
-Montreal
 Montreal Bay
 Montreal Channel
 Montreal Creek
@@ -112772,6 +112764,7 @@ Montrose Lake
 Montrose No. 315
 Montrose Peak
 Montrose River
+Montréal
 Montréal-Est
 Montréal-Nord
 Montréal-Ouest, Montreal West
@@ -114318,7 +114311,6 @@ Mount Corriveau
 Mount Cory
 Mount Cosgrove
 Mount Costigan
-Mount Cote
 Mount Cotter
 Mount Cotterell
 Mount Coty
@@ -114372,6 +114364,7 @@ Mount Currie Indian Reserve 7, Réserve indienne Mount Currie 7
 Mount Currie Indian Reserve 8, Réserve indienne Mount Currie 8
 Mount Cushing
 Mount Cushman
+Mount Côté
 Mount D'Abbadie
 Mount D'Arcy
 Mount Daer
@@ -117727,6 +117720,7 @@ Méandre Sangummaq
 Méandres Euseyach
 Mégiscane
 Mékinac
+Ménard
 Ménardville
 Mésg{17} T'oh Hill
 Métabetchouan-Lac-à-la-Croix
@@ -128438,7 +128432,6 @@ Peta Mountain
 Petabec Creek
 Petabec Lakes
 Petaigan River
-Petain
 Petallen Lake
 Petauguin Lake
 Petawa Creek
@@ -130246,7 +130239,6 @@ Picea Lake
 Picea River
 Pichanikap
 Piche
-Piche Lake
 Pichette Bay
 Pichette Creek
 Pichette Lake
@@ -130255,6 +130247,7 @@ Pichit Island
 Pichit Peninsula
 Pichogen Lake
 Pichogen River
+Piché Lake
 Piché River
 Pick Eyes
 Pick Eyes Cove
@@ -131764,7 +131757,7 @@ Point Betty
 Point Breme
 Point Breme Cove
 Point Brook
-Point Brule
+Point Brûlé
 Point Busse
 Point Caen
 Point Charles
@@ -132683,7 +132676,7 @@ Pointe Roze
 Pointe Ryan
 Pointe Saali Najummialuup Isutsipaaqutinga
 Pointe Saattutuut
-Pointe Saint Roch, St. Roch Point
+Pointe Saint Roch, Saint Roch Point
 Pointe Saint-Charles
 Pointe Saint-Gilles
 Pointe Saint-Jean
@@ -132908,8 +132901,6 @@ Pointe Winnewash
 Pointe Wiyachimiskow
 Pointe Yelle
 Pointe a Gaz, Point Pique
-Pointe a Michaud
-Pointe a Pierre
 Pointe au Baptême
 Pointe au Baril Channel
 Pointe au Baril Harbour
@@ -133412,6 +133403,7 @@ Pointe à Maurier
 Pointe à Maxime
 Pointe à McCuaig
 Pointe à McLeod
+Pointe à Michaud
 Pointe à Midas
 Pointe à Mimi
 Pointe à Minerve
@@ -133432,6 +133424,7 @@ Pointe à Paul
 Pointe à Penny
 Pointe à Pepper
 Pointe à Perreault
+Pointe à Pierre
 Pointe à Pierre-Francis
 Pointe à Pilon
 Pointe à Portelance
@@ -134096,8 +134089,8 @@ Port Coquitlam
 Port Cove
 Port Darlington
 Port Davidson
-Port Desire
 Port Douglas Channel
+Port Désiré
 Port Edward
 Port Eliza
 Port Elizabeth
@@ -134843,7 +134836,6 @@ Presley Lake
 Prespatou
 Prespatou Creek
 Presqu'ile
-Presqu'ile Bay
 Presqu'ile Cove
 Presqu'ile Islands Wilderness Area
 Presqu'ile Peninsula
@@ -134859,6 +134851,7 @@ Presqu'île Asselin
 Presqu'île Aulassivik
 Presqu'île Ayanitaukach
 Presqu'île Ayikwapit
+Presqu'île Bay
 Presqu'île Billings
 Presqu'île Bélanger
 Presqu'île Caotibi
@@ -135918,6 +135911,7 @@ Péribonka
 Périgord
 Pérodeau
 Pérusse
+Pétain
 Pétain Creek
 Pétain Falls, Petain Creek Falls
 Pétain Glacier
@@ -136233,7 +136227,6 @@ Quay Indian Reserve 4, Réserve indienne Quay 4
 Quaye Lake
 Quays Hay Meadow
 Quckwa Indian Reserve 7, Réserve indienne Quckwa 7
-Quebec, QC, Que.
 Quebec Bay
 Quebec Citadel Peak
 Quebec Creek
@@ -136517,6 +136510,7 @@ Quyta Lake
 Quzel Creek
 Quzel Lake
 Quéant Mountain
+Québec, QC, Que.
 Quévillon
 Qwilqen Glacier
 R.C.A.F. Peak
@@ -138887,9 +138881,7 @@ Rendezvous Point
 Rendu Glacier
 Rene Creek
 Rene Island
-Rene Lake
 Renecker Lake
-Renee Lake
 Renesig Creek
 Renesig Lake
 Renews
@@ -138955,6 +138947,7 @@ Renwick Point
 Renz Lake
 René Brunelle Provincial Park
 René Point
+Renée Lake
 Repent Lake
 Repentigny
 Replica Peak
@@ -139687,8 +139680,6 @@ Riverview Lake
 Rivett Lake
 Riviere Poisson-Bleu
 Riviere Trois Saumons
-Riviere des Lacs
-Riviere du Sud
 Rivière Aanaakisiuqvik
 Rivière Aarsutaup
 Rivière Abercromby
@@ -141600,10 +141591,10 @@ Rivière des Hamel
 Rivière des Huit Chutes
 Rivière des Huit Chutes Est
 Rivière des Hurons
-Rivière des Iles
 Rivière des Indiens
 Rivière des Iroquois
 Rivière des Jardins
+Rivière des Lacs
 Rivière des Lefrançois
 Rivière des Mille Îles
 Rivière des Montagnes Blanches
@@ -141635,6 +141626,7 @@ Rivière des Écossais
 Rivière des Épinettes Noires
 Rivière des Épinettes Rouges
 Rivière des Étangs
+Rivière des Îles
 Rivière des Îles de Mai
 Rivière du Banc de Sable
 Rivière du Barrage
@@ -141735,6 +141727,7 @@ Rivière du Sault aux Cochons
 Rivière du Seigneur-Jolliet
 Rivière du Sept
 Rivière du Sourd
+Rivière du Sud
 Rivière du Sud-Ouest
 Rivière du Tabac
 Rivière du Tracel
@@ -143188,7 +143181,6 @@ Rossburn
 Rosscairn Creek
 Rosscairn Lake
 Rosse Bay
-Rosse Lake
 Rosseau Bay
 Rosseau Creek
 Rosseau Falls
@@ -143221,6 +143213,7 @@ Rossport Point
 Rossvale Lake
 Rossville
 Rosswood Lake
+Rossé Lake
 Rosthern Creek
 Rosthern No. 403
 Rostoul Lake
@@ -143254,8 +143247,6 @@ Rothwell Glacier
 Rothwell Lake
 Rothwell Peak
 Rothwells Island
-Roti Bay
-Roti Point
 Rottacker Creek
 Rottacker Lake
 Rotten Creek
@@ -143970,7 +143961,6 @@ Ruisseau Beaver House
 Ruisseau Beaver Meadow
 Ruisseau Bee
 Ruisseau Beebe
-Ruisseau Belisle
 Ruisseau Belisle-Constantin
 Ruisseau Bell
 Ruisseau Bella
@@ -143996,7 +143986,7 @@ Ruisseau Ben
 Ruisseau Benda
 Ruisseau Benjamin
 Ruisseau Benny
-Ruisseau Benoit
+Ruisseau Benoît
 Ruisseau Benoît-Desrosiers
 Ruisseau Benoît-Girard
 Ruisseau Benoît-Poirier
@@ -144252,6 +144242,7 @@ Ruisseau Béland
 Ruisseau Béland-Picard
 Ruisseau Bélanger
 Ruisseau Bélec
+Ruisseau Bélisle
 Ruisseau Béliveau
 Ruisseau Béliveau-Hébert
 Ruisseau Bérard
@@ -144684,14 +144675,13 @@ Ruisseau Descente Saint-Marcel
 Ruisseau Deschambeault
 Ruisseau Descheneaux
 Ruisseau Deschênes
-Ruisseau Descoteaux
 Ruisseau Descoteaux-Aucoin
+Ruisseau Descôteaux
 Ruisseau Desduit
 Ruisseau Desgranges
 Ruisseau Deshaies
 Ruisseau Deshaies-Cormier
 Ruisseau Desharnais
-Ruisseau Desilets
 Ruisseau Desjardins
 Ruisseau Desjarlais
 Ruisseau Deslandes
@@ -144851,6 +144841,7 @@ Ruisseau Déception
 Ruisseau Déragon
 Ruisseau Déry
 Ruisseau Désilet
+Ruisseau Désilets
 Ruisseau Désormeaux
 Ruisseau Désy-Sylvestre
 Ruisseau Déziel
@@ -146061,7 +146052,6 @@ Ruisseau Levasseur
 Ruisseau Lever
 Ruisseau Levert
 Ruisseau Levert-Cardinal
-Ruisseau Levesque
 Ruisseau Levi
 Ruisseau Limpide
 Ruisseau Lincourt-Laplante
@@ -146153,6 +146143,7 @@ Ruisseau Léran
 Ruisseau Létourneau
 Ruisseau Léveillé
 Ruisseau Léveillé-Joyal
+Ruisseau Lévesque
 Ruisseau M.-Houle
 Ruisseau Maaskitkuu
 Ruisseau MacClean
@@ -146661,7 +146652,7 @@ Ruisseau Pactikwew
 Ruisseau Pagachou
 Ruisseau Pagànàkomin
 Ruisseau Pagé
-Ruisseau Paille
+Ruisseau Paillé
 Ruisseau Pakamisimuwaw Asachuch
 Ruisseau Pakebîhâ
 Ruisseau Pakitawagani
@@ -146734,7 +146725,6 @@ Ruisseau Penipatauakat
 Ruisseau Penniseault
 Ruisseau Penotte
 Ruisseau Pepetukuatatshiskau
-Ruisseau Pepin
 Ruisseau Perdu
 Ruisseau Perkins
 Ruisseau Perrault
@@ -146902,6 +146892,7 @@ Ruisseau Pékasso
 Ruisseau Péladeau
 Ruisseau Pélissier
 Ruisseau Péloquin
+Ruisseau Pépin
 Ruisseau Périer
 Ruisseau Périgny
 Ruisseau Pétrimoulx
@@ -146972,8 +146963,8 @@ Ruisseau René-Boisclair
 Ruisseau René-Coutu
 Ruisseau Resther
 Ruisseau Revelstone
-Ruisseau Rheault
 Ruisseau Rhends
+Ruisseau Rhéault
 Ruisseau Rhéaume
 Ruisseau Richard
 Ruisseau Richard-Angers
@@ -147055,7 +147046,7 @@ Ruisseau Rouge
 Ruisseau Rouge Est
 Ruisseau Rough
 Ruisseau Rouillard
-Ruisseau Rouille
+Ruisseau Rouillé
 Ruisseau Rouleau
 Ruisseau Rousse
 Ruisseau Rousseau
@@ -148681,11 +148672,11 @@ Ruisseau à Jos-Allain
 Ruisseau à Joseph-Paul
 Ruisseau à Julien
 Ruisseau à Knight
-Ruisseau à Levesque
 Ruisseau à Lionel
 Ruisseau à Louis-Amable
 Ruisseau à Louis-Gagnon
 Ruisseau à Ludger-Noël
+Ruisseau à Lévesque
 Ruisseau à Madeleine
 Ruisseau à Marcel
 Ruisseau à Marin
@@ -149115,6 +149106,7 @@ Région de la Capitale nationale
 Rémigny
 Rémillard Lake
 Rémy
+Réné Lake
 Réserve Intowin
 Réserve d'Eastmain
 Réserve de Chisasibi
@@ -149274,7 +149266,9 @@ Réservoir de Caniapiscau
 Réservoir de la Sainte-Marguerite 3
 Réservoir l'Escalier
 Réservoir-Dozois
+Rôti Bay
 Rôti Brook
+Rôti Point
 S Bend
 S Channel
 S Island
@@ -151557,8 +151551,8 @@ Saut du Chien Point
 Sauter Bay
 Sauvageau
 Sauve Creek
-Sauve Lake
 Sauvé
+Sauvé Lake
 Sava Lake
 Savadown Cove
 Savage Bay
@@ -152590,7 +152584,6 @@ Sebaskachu Island
 Sebaskachu River
 Sebastian Creek
 Sebastian Point
-Sebastopol
 Sebastopol Point
 Sebelius Lake
 Sebert Lake
@@ -156646,7 +156639,7 @@ Smith Bog
 Smith Brook
 Smith Cape
 Smith Channel
-Smith Coulee
+Smith Coulée
 Smith Cove
 Smith Creek
 Smith Dam Flowage
@@ -162584,6 +162577,7 @@ Szuszwal Lake
 Szwec Lake
 Sâgik Pawâtik
 Sâkitawâbîkak
+Sébastopol
 Sébille
 Sénécal
 Sénécal Point
@@ -162998,7 +162992,7 @@ Tamihi Creek
 Tammarvi River
 Tamuna River
 Tamworth
-Tan Ch'òh{2}{21}
+Tan Ch'òh{2}{21}, Tan Ch'òhłī
 Tan Creek
 Tan Island
 Tan Lake
@@ -167391,7 +167385,6 @@ Trent--Severn Waterway National Historic Site of Canada
 Trenter Lake
 Trenton Junction
 Trepanege Plateau
-Trepanier Creek
 Trepassey Bay
 Trepassey Harbour
 Treptow Creek
@@ -167874,6 +167867,7 @@ Très-Saint-Rédempteur
 Très-Saint-Sacrement
 Trécesson
 Trépanier
+Trépanier Creek
 Trévet
 Ts'im Anwiihlist
 Ts'im K'ol'hl Da oots'ip
@@ -177536,7 +177530,6 @@ Yen Lake
 Yenadizze Island
 Yenadizze Lake
 Yensischuck Indian Reserve 3, Réserve indienne Yensischuck 3
-Yeo
 Yeo Channel
 Yeo Cove
 Yeo Creek
@@ -177753,6 +177746,7 @@ Yuzkli Lake
 Yvonne Lake
 Yvonne Peak
 Yvonne Pond
+Yéo
 Z Lake
 Zacharias Lake
 Zacharius Bay
@@ -178666,6 +178660,7 @@ van Nostrand Lake
 Étroit de la Pancarte
 Étroit du Français
 Étroit du Lac du Camp à John
+Évanturel
 Ìntl'{30}t Chú
 Île Aanaalasaup
 Île Aapisipawayasich
@@ -179032,6 +179027,7 @@ van Nostrand Lake
 Île Deschênes
 Île Desharnais
 Île Deslauriers
+Île Desmarais
 Île Desnoyers
 Île Desormeaux
 Île Desroches
@@ -179170,6 +179166,7 @@ van Nostrand Lake
 Île Guillemette
 Île Guillemot
 Île Guillet
+Île Guindon
 Île Gull
 Île Gull Cliff
 Île Guy
@@ -179534,9 +179531,9 @@ van Nostrand Lake
 Île Marguerite
 Île Maria
 Île Maricourt
-Île Marie
 Île Marie-Victorin
 Île Marina
+Île Marié
 Île Marronne
 Île Martin
 Île Martine
@@ -179893,6 +179890,7 @@ van Nostrand Lake
 Île Ronde
 Île Rose
 Île Rosier
+Île Rouge
 Île Rouillard
 Île Round
 Île Rousseau
@@ -180268,6 +180266,7 @@ van Nostrand Lake
 Île aux Morts
 Île aux Mouches
 Île aux Mouettes
+Île aux Moutons
 Île aux Noix
 Île aux Noyers
 Île aux Oeufs
@@ -180296,6 +180295,7 @@ van Nostrand Lake
 Île aux Sternes
 Île aux Tourtes
 Île aux Tourtres
+Île aux Trembles
 Île aux Trois Collines
 Île aux Trésors
 Île aux Vaches

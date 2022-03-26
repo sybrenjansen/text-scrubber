@@ -11,7 +11,6 @@ Abasa
 Abassa
 Abazok
 Abdaouda
-Abe, Ebou, Ebu
 Abendabenda
 Abengaga
 Abessé, Abidjé
@@ -19,12 +18,11 @@ Abetta, Péta
 Abi
 Abiambola
 Abimo
-Abiéde, Vège
+Abiédé, Vège
 Abiéré
 Abiété, Otomokok
 Abjété
 Ablébato
-Abo, Riviére Jabiang, Riviére Jebiang
 Abodjengeni
 Abodogé
 Abofiti
@@ -39,13 +37,15 @@ Aboun
 Aboungaraka, Abou Ngaraká
 Abouyi
 Abyéré
+Abé, Ebou, Ebu
 Abélago
 Abéma
 Abéné
 Abési
-Abéte
+Abété
 Abété Béla
 Abéé
+Abô, Riviére Jabiang, Riviére Jebiang
 Achap Bak, Atchap Bak
 Achek
 Achiwongou
@@ -298,7 +298,6 @@ Ayolo
 Ayolébam
 Ayotu
 Aysonou
-Ba
 Baandji
 Baba
 Babala
@@ -352,7 +351,6 @@ Bakassi, Bakasi Creek
 Bakassi Peninsula, Bakasi Peninsula, Bakassi-Halbinsel, Presqu'île Bakasi, Île Bakasi
 Bakassi Point, Bakasi Point, Bakassi-Spitze, Pointe Bakasi
 Bakbongo
-Bake
 Bakebe
 Bakep
 Bako
@@ -374,6 +372,7 @@ Bakungo
 Bakunven
 Bakwa
 Bakwe
+Baké
 Bala
 Baladi
 Balaforo
@@ -520,7 +519,6 @@ Beaila
 Bebimbé
 Bebingna
 Bedan
-Bedobo
 Beer
 Begboli
 Begon, Bagen
@@ -561,7 +559,7 @@ Bemwa
 Bemwou
 Benange
 Benda
-Bendele
+Bendelé
 Bendougoulou
 Bendoungui
 Bengaa
@@ -581,7 +579,6 @@ Bentéré
 Benvoa
 Benzo
 Bepondo
-Beri
 Beringuel
 Berngué
 Beroundou
@@ -896,9 +893,9 @@ Bougogo
 Bougouma, Djeli
 Bouhetset
 Boui
-Bouke
 Boukgouma
 Boukourou
+Bouké
 Boula
 Boulda
 Boulemmé
@@ -962,6 +959,7 @@ Bwenga Crater
 Bwèté
 Byaga
 Byassé
+Bâ
 Bèlel
 Bèma
 Bètkom
@@ -977,6 +975,7 @@ Bédila
 Bédingué
 Bédita
 Bédji
+Bédobo
 Bédoumé
 Bédébo
 Bédéré
@@ -1044,6 +1043,7 @@ Béoudou
 Bépaté
 Béra, Mbénra, Wéra
 Bérem
+Béri
 Bérié
 Béré
 Bésako
@@ -1079,7 +1079,7 @@ Cham
 Chamgam
 Chancha
 Changoum
-Chanke, Tchanké
+Chanké, Tchanké
 Chapchap
 Chappal Waddi, Djabal Ouadé, Tchabal Ouadé
 Chappel Delam, Gassandjel, Hosséré Gassangel
@@ -1307,7 +1307,6 @@ Djengé
 Djenje
 Djenkolo
 Djeomghe
-Djerem, Dyér M Fleuve, Dyérem
 Dji
 Djibine
 Djidiba
@@ -1364,6 +1363,7 @@ Djémadjou
 Djémé, Jomié
 Djéné, Djénné
 Djénémé
+Djérem, Dyér M Fleuve, Dyérem
 Djéremboufou
 Dloro
 Do
@@ -1382,15 +1382,15 @@ Dollé, Doro
 Dombo
 Domboué
 Domgar
-Donga and Mantung Division, Donga-Mantung, Nkambe Division
+Donga and Mantung Division, Donga and Mantung, Nkambe Division
 Dongere
 Dongo
 Dongtiou
 Dongué
 Dongé, Ndonké
 Donko
-Donte
 Donti
+Donté
 Donwala
 Doplaboula
 Dorbi Kourou
@@ -1494,8 +1494,8 @@ Département de la Lékié, Likie
 Département de la Méfou
 Département de la Ménoua
 Département de la Sanaga-Maritime, Sanaga-Maritime
-Département du Diamaré, Diamaré
-Département du Dja-et-Lobo, Dja-et-Lobo
+Département du Diamaré, Diamare
+Département du Dja-et-Lobo, Dja-Et-Lobo
 Département du Haut-Nkam, Haut-Nkam
 Département du Logone-et-Chari, Logone-Et-Chari
 Département du Lom-et-Djérem, Lom-Et-Djerem
@@ -1507,7 +1507,7 @@ Département du Ndé
 Département du Nkam
 Département du Nyong-et-Kéllé, Nyong et Kélé, Nyong-et-Kelle
 Département du Nyong-et-Mfoumou, Nyong-et-Mfoumou
-Département du Nyong-et-Soo, Département du Nyong-et-So, Nyong-et-Soo
+Département du Nyong-et-Soo, Département du Nyong-et-So, Nyong-et-So'o
 Département du Wouri, Wouri
 Déra
 Détalé, Ndetale
@@ -1519,9 +1519,7 @@ East Region, East, East Province, Est, Province de l'Est, Région de l'Est
 Eastern Region
 Ebad
 Ebanda
-Ebang
 Ebaé
-Ebe, Baeng-Mbaï, Baēng, Bingma, Mbej
 Ebeji, Ebeji Ngada, El Béid, Labejed, Lebēit, Lebēt, Lewejil, Ngada, Ngālārem, River Gambaru, River Lubeit
 Ebem
 Ebendé
@@ -1543,6 +1541,7 @@ Eboméné Djok
 Ebonzibi
 Ebotako
 Ebouété
+Ebé, Baeng-Mbaï, Baēng, Bingma, Mbej
 Eddi
 Edidigaéba
 Edili
@@ -1575,7 +1574,6 @@ Ekop
 Ekoudou
 Ekoum
 Ekoumou
-Ekoué
 Ekowondo
 Ektilis
 Ekulé
@@ -1630,9 +1628,9 @@ Esanda, Essanda
 Esanjebo
 Esep
 Esepe
-Esie
 Esingi, Moiziés
 Esiso
+Esié
 Esomombia
 Esongo
 Essabomébim
@@ -1676,8 +1674,8 @@ Eygué
 Eyounou
 Eyu Anyen
 Ezala
-Ezezam
 Ezezana
+Ezézam
 Ezézama
 Fabidou
 Fafal
@@ -1730,7 +1728,7 @@ Fofé
 Fok
 Fokota
 Fokoum
-Fokwe
+Fokwé
 Fol
 Foleshele
 Foleshele Lake, Foleshele Crater
@@ -2749,11 +2747,9 @@ Koga
 Kogo
 Kogozara
 Kohom
-Koi
 Koikgon
 Kok
 Koka
-Koke, Kokeu
 Kokensa
 Kokoki
 Kokol, Bopol
@@ -2761,6 +2757,7 @@ Kokolo, Kogolo
 Kokolonbo
 Kokolé
 Kokzara
+Koké, Kokeu
 Kokéron
 Kol
 Kola
@@ -2872,7 +2869,7 @@ Kougn
 Kouindivou, Kwindivou, Roua Gaouar
 Kouki
 Koukoum
-Koukoune
+Koukouné
 Koukouop
 Koul
 Kouleu
@@ -2925,6 +2922,7 @@ Kouyapé, Kwiapé
 Koué
 Kouédjèl
 Kouéfé
+Koï
 Koïkol
 Kpa
 Kpakoungué
@@ -3038,8 +3036,8 @@ Lake Oku, Mahuès See, Mauwes-See
 Lake Wum
 Lakosi, Lakussi
 Lala, Sale
-Lale
 Lali
+Lalé
 Lam
 Lama
 Lamakata
@@ -3194,10 +3192,10 @@ Lizilo
 Liésé
 Lo
 Loa
-Lobe, Loba
 Lobila, Ebīla
 Lobili
 Lobo
+Lobé, Loba
 Lobéké, Leubeké, Mikili
 Lobéké National Park, Lake Lobake National Park
 Lodingé
@@ -3319,7 +3317,6 @@ Mabam
 Maban
 Mabana
 Mabanga
-Mabe, River Ebe
 Mabem
 Mabenre
 Mabeta Creek, Mabela Creek
@@ -3342,6 +3339,7 @@ Maboun
 Mabounge
 Mabua Bébong
 Mabwabwa
+Mabé, River Ebe
 Mabé Mvé
 Mabéa
 Mabélé
@@ -3408,12 +3406,10 @@ Mahongué
 Mahou, Mafhou
 Mahoul
 Mahé
-Mai
 Maibéra
 Maili
 Main
 Mainké Kouopkane, Mainkekouopkane
-Mak
 Maka, Magué, Magwe
 Makali
 Makam
@@ -3607,10 +3603,10 @@ Manouéra, Manouaéra
 Mansomo
 Mansoumou
 Mansèn
-Manye
 Manyemé
 Manyu, Manyu River
 Manyu Division, Cross River Division, Mamfe Division
+Manyé
 Manébata
 Maoba
 Maormi
@@ -4093,7 +4089,6 @@ Mayo Larbak, Mayo Dangar
 Mayo Larki
 Mayo Laèndé
 Mayo Ldouma
-Mayo Lebri, Lébri
 Mayo Legal
 Mayo Leggal
 Mayo Lelewa
@@ -4122,6 +4117,7 @@ Mayo Loulti
 Mayo Louti, Loué, Léga, Māo Lūë
 Mayo Loué
 Mayo Luga, River Mayo-Luga
+Mayo Lébri, Lébri
 Mayo Lédi
 Mayo Léhou
 Mayo Léo
@@ -4374,7 +4370,7 @@ Mayo Talbeuko
 Mayo Tandjé
 Mayo Tankou
 Mayo Tao
-Mayo Tapare
+Mayo Taparé
 Mayo Taram, Téram
 Mayo Tavoum
 Mayo Tchamaé, Tchamé
@@ -4458,6 +4454,7 @@ Mazem
 Mazonhin
 Mazoé
 Mazélé, Massaoufou
+Maï
 Mba, Wina
 Mba-Njog
 Mbabo
@@ -4497,12 +4494,12 @@ Mbandjani, Bandjane
 Mbang, Djué
 Mbanga
 Mbangadi
-Mbange
 Mbangnama
 Mbango
 Mbangolo
 Mbangom
 Mbangpoint
+Mbangé
 Mbani
 Mbaningouna
 Mbankwa
@@ -4532,18 +4529,16 @@ Mbayit
 Mbaza
 Mbaé
 Mbaïana
-Mbe
 Mbed
 Mbegdé
 Mbei
 Mbel
 Mbeli
 Mbem
-Mbembe, Bembé
 Mbembe Forest Reserve
 Mbembeu
+Mbembé, Bembé
 Mbena
-Mbende
 Mbenfo, Banfou
 Mbeng
 Mbengbé
@@ -4552,7 +4547,6 @@ Mbenké
 Mbere Department, Département de Mbéré
 Mbereke
 Mberisim
-Mberé
 Mbessé
 Mbet
 Mbetnékong, Mbatnekong
@@ -4586,7 +4580,6 @@ Mbikati
 Mbiki, Mayo Mbikim, Mposol
 Mbikoué
 Mbil
-Mbile
 Mbili
 Mbilibangé
 Mbilik
@@ -4594,6 +4587,7 @@ Mbilla
 Mbilmé
 Mbilo
 Mbilueye
+Mbilé
 Mbiléla
 Mbim
 Mbima
@@ -4640,7 +4634,7 @@ Mbolo
 Mbom
 Mboma
 Mbomba
-Mbombe
+Mbombé
 Mbomtien
 Mbomé
 Mboména
@@ -4701,8 +4695,8 @@ Mboutche Njuncho
 Mbouyet
 Mboué
 Mboy
-Mboye
 Mboyo
+Mboyé
 Mbroum
 Mbu, River Mbu
 Mbuley
@@ -4712,6 +4706,7 @@ Mbuwa, River Mbuwa
 Mbyali, Biali
 Mbètkom
 Mbètnégat, Mbatnegat
+Mbé
 Mbéali
 Mbébouri
 Mbédé
@@ -4721,25 +4716,23 @@ Mbéhé
 Mbéji
 Mbékombo
 Mbéké
-Mbéle
+Mbélé
 Mbélépô
 Mbémé
 Mbén Mfou
+Mbéndé
 Mbéniambésa
 Mbépé
 Mbéreng
 Mbéri
+Mbéré
 Mbétantou
 Mbétmaluem
 Mbété
 Mchirgui
-Me, River Mo
 Mebanko
 Mebara
-Mebelé
-Mebem
 Mebenengo
-Mebolo
 Mebonde
 Mebouté
 Mebre
@@ -4763,7 +4756,6 @@ Meka
 Mekeri
 Meko-Meko
 Mekoato
-Mekok
 Mekong
 Mekoo
 Mekop
@@ -4773,15 +4765,14 @@ Mekua
 Mekwil
 Mela
 Melap
-Melen
 Meleng
 Melin
 Mellé
 Melokbé
 Melon
-Melongo
 Meloumba, Melumba
 Meloung
+Melèn
 Membandjéla
 Membeng
 Membi
@@ -4800,7 +4791,6 @@ Memvyan
 Memwa, Memoua
 Memwou
 Memyom
-Menam
 Menchouka
 Mendenguem
 Mendep
@@ -4826,7 +4816,6 @@ Mengalé
 Mengana
 Mengaza
 Mengbélé
-Menge
 Mengemsé
 Mengilé
 Mengo
@@ -4839,8 +4828,9 @@ Mengou, Mangumu
 Mengouma
 Mengoumou
 Mengounou
-Mengue
 Menguem
+Mengué
+Mengé
 Mengémesé
 Mengémé
 Meni
@@ -4882,7 +4872,6 @@ Messongong, Missongon, Mont Messongong
 Messu
 Mességué, Meségé
 Messélbimbe
-Meta
 Metapen
 Metchim
 Metchingou, Matchingo
@@ -4907,11 +4896,9 @@ Mewongé
 Meyama
 Meyang
 Meyedem
-Mezam, Machu
 Mezam Division, Bamenda Division
 Mezamho
 Mezeu
-Mezok
 Mezosou
 Mezoung
 Mfa
@@ -5108,7 +5095,6 @@ Mkpwel
 Mkwerem
 Mlem
 Mlue Tcham, Melio
-Mo
 Mo-Lomo
 Mo-Nlobe
 Moa
@@ -5172,11 +5158,10 @@ Mobaika
 Mobak
 Mobal
 Mobala
-Mobale
+Mobalé
 Mobanbou, Bobambi
 Mobase
 Mobato
-Mobe
 Mobekul
 Mobidi
 Mobiko
@@ -5184,6 +5169,7 @@ Mobipuno
 Mobomo
 Mobume
 Mobwabo
+Mobé
 Mobékwé
 Mochene
 Modang
@@ -5806,24 +5792,29 @@ Myak
 Myin, Mieng
 Myo
 Myrtle Point
+Mâk
 Mânzem
 Mèmbo, Mayo Membo
 Mènjé
+Mé, River Mo
 Mébak
 Mébama
 Mébamo, Dibame, Nebamo
 Mébang
 Mébané
 Mébato
+Mébem
 Mébi
 Mébimégnat
 Mébo
+Mébolo
 Mébombo, Mélombo
 Mébong
 Méboto
 Méboukwé
 Méboundou
 Mébé
+Mébélé
 Méda
 Médib
 Médien
@@ -5866,6 +5857,7 @@ Mékié
 Méko
 Mékoa
 Mékoassi
+Mékok
 Mékoko
 Mékokoul
 Mékoké
@@ -5894,6 +5886,7 @@ Méloma
 Mélondo
 Mélong
 Mélonga
+Mélongo
 Méloré
 Mélou
 Méloua
@@ -5901,6 +5894,7 @@ Méloumvi
 Méloungé
 Mélé
 Mémouou
+Ménam
 Méndin Tsogo
 Ménguiti
 Méniaméson
@@ -5933,6 +5927,7 @@ Mésoumsoro
 Mésé
 Mésésengé
 Mésété
+Méta
 Métabom
 Métangle
 Métho
@@ -5953,12 +5948,15 @@ Mévé
 Méwado
 Méyima
 Méza
+Mézam, Machu
+Mézok
 Mézomo
 Mézong
 Mézono
 Mézoso
 Mézouké
 Méélé
+Mô
 N'Gamé
 Na
 Naagham
@@ -6150,7 +6148,7 @@ Ndogodjong
 Ndogué
 Ndok
 Ndokama
-Ndokesse
+Ndokessé
 Ndokoko
 Ndokésé
 Ndol
@@ -6229,7 +6227,6 @@ Ndékeya
 Ndélé
 Ndéna
 Ndéné, Nden
-Nelbi, Nelbé
 Neng-Neng
 Nere-Bila Falls
 Neshele
@@ -6923,6 +6920,7 @@ Né
 Négheu
 Néghéupan
 Négop Baghang, Négop Ghang
+Nélbi, Nelbé
 Néwa
 Néyang
 Obagon
@@ -7255,7 +7253,6 @@ Pizéré
 Piènki
 Plaine des Mbo
 Plaine des Mbos
-Po
 Poata
 Poblo
 Poc
@@ -7321,6 +7318,7 @@ Pélem
 Pélemté
 Pérengou, Pérénngou
 Pérokota
+Pô
 Quoko
 Rafon
 Ragaba Diamous, Ragada Diamous
@@ -7366,7 +7364,7 @@ River Gamana
 River Imea, Imea
 River Katsina, Katsina, Kumbi
 River Kembe, Kembe, Ndjankati, kentane
-River Kerawa, Keraua, Kéraoua, Kérawa, Kéroua, Modou Koua, Moudoukoua, Mouldougoua, Múdukwa, River Goluwa, Serahadja
+River Kerawa, Keraua, Kerawa, Kéraoua, Kéroua, Modou Koua, Moudoukoua, Mouldougoua, Múdukwa, River Goluwa, Serahadja
 River Mamua, Mamua
 River Manju, Manju
 River Mbonge
@@ -7386,7 +7384,6 @@ River Tantam
 River Tapam, Tapam
 River Wi, Bui, Mbui, Mvi, Mwi, Pi, Wi
 Rle Sana
-Ro
 Roche Plantation
 Rocher Oueukenzou
 Rocher de Gréa
@@ -7450,7 +7447,7 @@ Réserve de Douala-Edéa, Réserve de Faune de Douala-Édéa
 Réserve de Faune de Santchou, Réserve Forestière de Santchou
 Réserve du Faro, Faro Forest and Faunal Reserve, Faro National Park, Parc National du Faro, Réserve de Chasse et Forestiére du Faro
 Rézi
-Sa
+Rô
 Sa'kwop
 Sa'mba
 Saa
@@ -7537,7 +7534,6 @@ Sava
 Sawel
 Saya
 Schiess Island, Schiess-Insel
-Se
 Sea Nten
 Sebore Koi
 Sebore Pa
@@ -7559,7 +7555,7 @@ Serbéouel, Gerbewel, Serbevei, Serbéwel, Sserbéwel
 Serpentine Creek
 Serta
 Seselé
-Sesse, Sess, Yanda
+Sessé, Sess, Yanda
 Seu
 Seucheu
 Seuté
@@ -7604,7 +7600,6 @@ Skao
 Skola
 Small Bake
 Snake Creek
-So, Chouo, Schūó
 So Niogé, So-Niogué
 So Tongo
 Soap
@@ -7666,8 +7661,8 @@ Soulédé
 Souma
 Soumakone
 Soumanie, Bikando
-Soumbe
 Soumbi
+Soumbé
 Soumbélé
 Soumbérango
 Soumedjanga
@@ -7706,6 +7701,8 @@ Suno Fam
 Swane
 Sway
 Swidjoua
+Sâ
+Sé
 Sébe
 Sébel
 Sébeu
@@ -7725,6 +7722,7 @@ Séréré
 Sésign, Sessign
 Sétsé, Sanchie
 Séé
+Sô, Chouo, Schūó
 Taamétap, Tamétap
 Taban
 Tabe
@@ -7895,9 +7893,9 @@ Tokodo
 Tokoé
 Toksi
 Tokéhou
-Tole
 Toli
 Tolo
+Tolé
 Toléré
 Tom Ye
 Tombi
@@ -8087,8 +8085,8 @@ Wanébok
 Wapeo, Hosséré Lapaou, Wapeo Hill
 Wara
 Waralen
-Wase, Ouassin
 Wasene
+Wasé, Ouassin
 Waséna, Wasséna
 Watanda
 Wavam Ouklémé
@@ -8307,6 +8305,7 @@ kani
 kanja
 katengué
 koba
+Ébang
 Ébanga
 Ébango, Ebengé
 Ébangoué
@@ -8324,6 +8323,7 @@ koba
 Ékogeuleu
 Ékombé
 Ékongolo
+Ékoué
 Élalé
 Élian Hé
 Éma

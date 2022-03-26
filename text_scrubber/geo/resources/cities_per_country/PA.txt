@@ -71,7 +71,7 @@ Alcatriz
 Alcazar Dos, Alcazar 2
 Alcazar Uno, Alcazar 1
 Aldea Emberá
-Alfagia, Alfajía
+Alfagía, Alfajía
 Algarrobal
 Algarrobo
 Alica, Alicia
@@ -401,7 +401,7 @@ Angostura
 Angostura de Cochea Arriba, Cochea Arriba, Cochea Arriba Angostura
 Anguatari
 Angulito
-Angulón, Ángulo
+Angulón, Angulo
 Anonal, Aronal
 Anton Valley, El Valle de Anton
 Antonio Bal
@@ -789,7 +789,7 @@ Boca de Canglón
 Boca de Caracol
 Boca de Caña
 Boca de Cañita
-Boca de Chati
+Boca de Chatí
 Boca de Chiatí
 Boca de Chiguirí
 Boca de Chonte
@@ -2228,9 +2228,9 @@ El Brillante
 El Broquel
 El Brujo
 El Bufo
-El Buho, Él Bujo
 El Burral
 El Burro
+El Búho, Él Bujo
 El Cabima
 El Cabimo
 El Cacaito, Cacaito
@@ -2344,7 +2344,7 @@ El Cogollal
 El Cogollo
 El Collao
 El Comanda
-El Comejen, Comején, Los Comejenes
+El Comején, Comején, Los Comejenes
 El Comuncito
 El Común
 El Conejito
@@ -2534,7 +2534,7 @@ El Jagua, El Jagua Número Tres, El Jague
 El Jagüito, Tierras Blancas
 El Jato
 El Jazmincito
-El Jazmín, El Jasmín
+El Jazmín, El Jasmin
 El Jirón, Jirón
 El Jobal
 El Jobita
@@ -2636,7 +2636,6 @@ El Nazareth
 El Negrito
 El Nisperal
 El Noneco
-El Nopo, Ñopo
 El Nuevo Porvenir
 El Níspero
 El Ojal
@@ -2748,8 +2747,8 @@ El Píndaro
 El Quebraón, Quebraón
 El Quemado, Quemado
 El Quinol
-El Quira, Aquira, La Quebrada del Medio
 El Quirrí, El Quirre
+El Quirá, Aquira, La Quebrada del Medio
 El Quiteño, Quinteño, Quiteno
 El Ranchito
 El Rasca
@@ -2887,6 +2886,7 @@ El Zurrón, El Zorrón
 El Zúñiga
 El Águila
 El Árbol
+El Ñopo, Ñopo
 El Ñuco
 El Ñuquito
 Elaina, El Barrero Número Uno
@@ -3146,14 +3146,13 @@ Guabito
 Guabo
 Guabo Abajo, El Guabo Abajo
 Guabo Arriba, El Guabo Arriba
-Guaca
 Guaca Abajo
 Guacamaya, El Guacamayo, Guacamayo
 Guacamaya Rogua Guidete, Cabecera de Quebrada Guacamaya
+Guacá
 Guacá Arriba
 Guadalupe
 Guafe
-Guagara
 Guagaral
 Guagarales
 Gualaca
@@ -3216,6 +3215,7 @@ Gurbe
 Gurunte Número Dos, Gurunte Número 2
 Gurunte Número Uno, Gurunte Número 1
 Guzmán
+Guágara
 Guánico Abajo
 Guásimo
 Gworoni, Guoroni
@@ -3256,7 +3256,6 @@ Herradura de Paraíso
 Hervedor
 Hicaco
 Higo Mocho
-Higueron
 Higueronal
 Higueronal Arriba
 Higueronal Cabecera
@@ -3265,6 +3264,7 @@ Higueroncito
 Higuerones
 Higueronoso, Garinoso
 Higueronoso Arriba
+Higuerón
 Higuito del Llano
 Hijo de Dios Número Dos, Hijo de Dios
 Hinojal
@@ -3356,7 +3356,6 @@ Jacoy
 Jacubé
 Jacumilla, Uracillo Abajo
 Jacú
-Jadeberi
 Jaencito
 Jagua
 Jagüito
@@ -3450,6 +3449,7 @@ Jutica
 Juvari
 Juárez
 Jácuma
+Jädeberi
 Kaeyan Cal, Cajun Cod
 Kamuakiro
 Kankintú, Canquintú, Distrito de Kankintu
@@ -3767,7 +3767,6 @@ La Grifa
 La Guabita
 La Guaca
 La Guadalupe
-La Guagara
 La Guarapa
 La Guayra, Guayra, La Guaira
 La Guinea, Guinea
@@ -3775,6 +3774,7 @@ La Gunza
 La Gurgulla
 La Gusana
 La Guáchara
+La Guágara
 La Hamaca
 La Harda
 La Herrada
@@ -3930,7 +3930,7 @@ La Máquina
 La Nanzosa
 La Negrita
 La Nicora
-La Noneca, Noneca
+La Noñeca, Noneca
 La Nupa
 La Nupita
 La Ocho
@@ -3990,8 +3990,8 @@ La Picadura
 La Piedra
 La Piedra del Mundo
 La Piedrecita
-La Pifa, La Pixvae
 La Pifa Número 2
+La Pifá, La Pixvae
 La Pifá Amarilla
 La Pintada, La Pintaita
 La Pintadita
@@ -4302,8 +4302,8 @@ Las Manuelas
 Las Maravillas
 Las Margaritas, La Margarita
 Las Marianas
-Las Marias, Los Marias
 Las Marias Arriba
+Las Marías, Los Marias
 Las Marías Centro
 Las Marías de San Pedro
 Las Matas
@@ -5581,7 +5581,6 @@ Ojito de Agua
 Ojo de Agua, El Ojo de Agua
 Ojo de Agua de la Loma
 Ojo de Tigre
-Ola
 Olabota, Olobota
 Olaca
 Olari
@@ -5591,6 +5590,7 @@ Olivita
 Olivita Abajo
 Olivita Arriba
 Olla Mesa
+Olá
 Oma
 Opogado, Boca de Pogaro, Río Iguana
 Oquendo
@@ -5868,7 +5868,6 @@ Piloncito
 Pilones
 Pilón
 Pimienta
-Pina
 Pingandincito, Pigandicito Arriba, Pingandicito
 Pinogana
 Pinoguilla
@@ -5893,6 +5892,7 @@ Piura
 Pixvae, Pisbá, Pisbáe
 Pixvae Arriba
 Pixvá, La Pixvá
+Piña
 Piñal
 Piñal Número Uno, Piñal Número 1
 Piñalito
@@ -6679,7 +6679,6 @@ Rincón de Juan Díaz
 Rincón de Las Palmas
 Rincón del Gato
 Rio Alzucar
-Rio Grande, Vaca del Monte
 Risucal
 Rita Cuba
 Ritti
@@ -6765,6 +6764,7 @@ Río Fato
 Río Flores, Río Hacha
 Río Gato
 Río Gira
+Río Grande, Vaca del Monte
 Río Guariviara
 Río Guisado
 Río Guisado Arriba
@@ -6784,8 +6784,8 @@ Río La Mina, Río Las Minas
 Río La Villa
 Río Lagarto
 Río Lorenzo Arriba
-Río Luis
 Río Luisito
+Río Luís
 Río Madre Vieja
 Río Majé
 Río Manga Indio
@@ -7040,13 +7040,13 @@ Santa Clara
 Santa Clarita
 Santa Cruz
 Santa Elena, Las Cabuyas
-Santa Fe
+Santa Fé
 Santa Fé Número Dos, Santa Fé Arriba, Santa Fé Número 2
 Santa Fé Número Uno, Santa Fé Abajo, Santa Fé Número 1
 Santa Isabel
 Santa Librada
 Santa Librada Rural
-Santa Lucia, Bataquilla
+Santa Lucía, Bataquilla
 Santa Marta, Flor de Laguna
 Santa Marta Abajo
 Santa Marta Norte
@@ -7532,7 +7532,7 @@ Villa Nueva
 Villa Rica
 Villa Rosa
 Villa Rosario
-Villa del Carmen
+Villa del Carmén
 Villa del Cortezo
 Villalobos
 Villarreal

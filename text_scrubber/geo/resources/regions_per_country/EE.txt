@@ -57,7 +57,6 @@ Ahekõnnu küla
 Ahelaid, Akkilaid, Ostrov Akhe-Layd
 Ahelo Jõgi, Ahelo
 Aheru Järv, Aheru Lake, Ozero Akheru-Yarv
-Ahijärv, Ozero Akhi-Yarv
 Ahisilla küla
 Ahitsa küla
 Ahitse Järv
@@ -1669,7 +1668,6 @@ Kolgu küla
 Kolila küla
 Kolinamäe, Hatikuogrejärv
 Koljaku küla
-Koljala küla
 Koljunukk, Kolju Neem
 Koljuots, Mindeneem, Mindenem
 Kolkja alevik
@@ -1685,7 +1683,6 @@ Kolu küla
 Kolustre
 Koluta küla
 Koluvere küla
-Komsi küla
 Kongla Oja, Kongla
 Konguta Peakraav, Konguta, Rannu-Konguta Magistraalkraav, Rannu-Konguta Peakraav
 Konguta küla
@@ -1695,7 +1692,6 @@ Konnaküla
 Konnapere küla
 Konnaveski Oja, Lyumandu
 Konnsaare Soo, Koonsaare Soo, Tuurapera Soo
-Konnu, Kõksa soo
 Konsu Järv, Konsa Järv, Konsu, Kontsu Järv, Ozero Kontso, Ozero Kontsu-Yarv
 Konsu Peakraav, Konsu, Konsu Magistraalkraav
 Konsu küla
@@ -2076,12 +2072,15 @@ Kõivuküla
 Kõlbi küla
 Kõldu küla
 Kõliküla
+Kõljala küla
 Kõlleste vald
 Kõlu
 Kõlunõmme küla
 Kõmmaste küla
 Kõmmusselja küla
+Kõmsi küla
 Kõnnaste, Kenast
+Kõnnu, Kõksa soo
 Kõnnu Järved
 Kõnnu Raba, Boloto Tarikynnu-Raba, Taarikõnnu Raba, Taarikõnnu Soo
 Kõnnu küla
@@ -2202,7 +2201,6 @@ Laatre küla
 Laekannu küla
 Laekvere alevik
 Laekvere vald
-Laeste küla
 Laeva Jõgi, Kassinurme Jõgi, Laeva, Laeva River
 Laeva küla
 Laeva vald, Laeva Parish
@@ -2549,7 +2547,6 @@ Lompka küla
 Londi küla
 Loo Jõgi, Loo, San Oja, Santoja
 Loo alevik
-Loo küla
 Loobu Jõgi, Lobu-Yygi, Loobu, Loobu River, Loop, Lop
 Loobu küla
 Loodenina
@@ -2624,6 +2621,7 @@ Länga küla
 Läpi küla
 Läsna Jõgi, Läsna, Läsnajõgi
 Läsna küla
+Läste küla, Laeste küla
 Läti küla
 Lätiniidi küla
 Lätkalu küla
@@ -2650,6 +2648,7 @@ Lõiuse küla
 Lõksi
 Lõmala küla
 Lõo Raba, Boloto Leo-Raba, Leo Raba
+Lõo küla
 Lõpe küla
 Lõpemeri, Zaliv Lypemeri
 Lõpemetsa küla
@@ -3399,7 +3398,6 @@ Oidrema küla
 Oina
 Oina küla
 Oissaare küla
-Oisu alevik
 Oitme küla
 Oiu küla
 Oja
@@ -3413,7 +3411,6 @@ Ojapere küla
 Ojasoo küla
 Ojaäärse küla
 Oju küla
-Ole küla
 Olehkova küla
 Oleski küla
 Olgina alevik
@@ -3464,7 +3461,6 @@ Ortumäe küla
 Oru, Orro
 Oru küla
 Oru linnaosa
-Oru vald, Õru Parish
 Orutaguse küla
 Osmussaar, Odensgol'm, Odensholm, Odenskhol'm, Odinsholm, Osmussar, Ostrov Osmu-Sar, Ostrov Osmus-Sar, Ostrov Osmusaar, Ostrov Osmussaar
 Osmussaare küla / Odensholm
@@ -3880,7 +3876,6 @@ Poka küla
 Poksa küla
 Poksi küla
 Pokuti Oja, Loodna Jõgi, Loodna Oja, Pokuti
-Polli küla
 Polovina küla
 Poole küla
 Poolu
@@ -4066,7 +4061,7 @@ Pärniku
 Pärnjõe küla
 Pärnselja küla
 Pärnu Jõgi, Parnu River, Perna Fluss, Pernau, Pärna Jõgi, Pärnu
-Pärnu Laht, Pernau Bight, Pernauer Bucht, Pyarnu-Lakht, Pärnu Bight
+Pärnu Laht, Parnu Bight, Pernau Bight, Pernauer Bucht, Pyarnu-Lakht
 Pärnu Reid, Pernau Roadstead, Pyarnu Roadstead, Pärnu Roadstead, Reyd Pyarnu
 Pärnu linn, Pērnava
 Pärnu-Jaagupi alev
@@ -4113,6 +4108,7 @@ Põldmaa küla
 Põldsaare, Пельдсаре
 Põlendmaa küla
 Põlgaste küla
+Põlli küla
 Põlliku küla
 Põllküla
 Põllu
@@ -4429,7 +4425,6 @@ Rogenese Oja
 Rogosi-Mikita küla
 Rohe küla
 Rohense küla
-Rohu küla
 Rohuküla
 Rohuneem, Mys Rokhu-Neyem, Mys Rokhuneme, Mys Rokhunime, Rokhonem Point
 Rohuneeme Poolsaar
@@ -4556,6 +4551,7 @@ Rääsa küla
 Rääski küla
 Rääsolaane küla
 Räätsma Järv, Räästma
+Rõhu küla
 Rõka küla
 Rõmeda küla
 Rõngu Jõgi, Miku Jõgi, Rõngu, Rõngu River
@@ -4673,7 +4669,7 @@ Salavere küla
 Salda küla
 Salevere küla
 Salinõmme küla
-Salla Jõgi, Salla, Väikejõgi
+Salla Jõgi, Salla, Vaikejõgi
 Salla küla
 Salme alevik
 Salme vald
@@ -4953,7 +4949,6 @@ Soonurme küla
 Soootsa, Соотсъ
 Soopõhja
 Soorinna küla
-Sooru küla
 Soosaare Soo, Soosaare Raba, Sosare-Raba
 Soosalu küla
 Soosilla küla
@@ -5042,7 +5037,7 @@ Suuriku Pank
 Suurissoo, Boloto Sur-So
 Suurjärv, Kurtna Järv, Kurtna Suurjärv, Ozero Kurtna-Yarv, Ozero Sur-Leide-Yarv, Suur Leidejärv
 Suurküla
-Suurlaht, Mullutu-Suurlaht, Ozero Sur-Lakht, Suur Järv
+Suurlaht, Mullutu Suurlaht, Ozero Sur-Lakht, Suur Järv
 Suurlaid, Ostrov Sur-Layd, Ostrov Suurlayd, Surlaid
 Suurmetsa küla
 Suurna Nina, Mys Takhkunina, Pikk Nina, Tahkunina, Takerort, Takerort Point
@@ -5114,6 +5109,7 @@ Sõtke Jõgi, Reka Sotke-Yygi, Sõtke, Sõtke River
 Sõtke küla
 Sõõrike küla
 Sõõru
+Sõõru küla
 Söderby küla
 Söödi küla
 Süldinä
@@ -5360,9 +5356,7 @@ Tokolopi küla
 Toku, Tohveri
 Toku küla
 Tolkuse Raba, Boloto Tolkuse-Raba, Tolkuse Soo
-Tolla küla
 Tollari Järv
-Tolli küla
 Tolljärv
 Tondisaar
 Tonja küla
@@ -5544,6 +5538,8 @@ Tõivere küla
 Tõldsilla
 Tõlinõmme Järv, Humala Järv, Tylinymme
 Tõlla Oja, Tõlla, Tõlla Jõgi
+Tõlla küla
+Tõlli küla
 Tõlliste küla
 Tõlliste vald, Tõlliste Parish
 Tõlluste küla
@@ -6075,7 +6071,7 @@ Viidu-Mäebe küla
 Viidumäe
 Viidumäe Riiklik Looduskaitseala, Zapovednik Viydumagi, Zapovednik Viydumyae
 Viilupi küla
-Viimsi Poolsaar, Poluostrov Viimsi, Viimsi peninsula
+Viimsi Poolsaar, Poluostrov Viimsi, Viimsi Peninsula
 Viimsi alevik
 Viimsi vald, Viimsi Parish
 Viinakualaanõ, Viinakojalaane
@@ -6201,7 +6197,6 @@ Vodja küla
 Vohilaid, Ostrov Vokhi-Layd, Ostrov Vokhisaar, Voge, Vohi, Vohisaar
 Vohilaiu, Полуостровъ Вохи
 Vohnja küla
-Voika küla
 Voka alevik
 Voka küla
 Voki küla
@@ -6333,6 +6328,7 @@ Võidula küla
 Võiera küla
 Võigaste küla
 Võijärv
+Võika küla
 Võikvere küla
 Võiküla
 Võilaid, Ostrov Voy-Layd, Ostrov Vyylayd, Vyilaid Ostrov, Wailaid, Wõilaid
@@ -6394,6 +6390,7 @@ Zerel Point, Kap-Zerel, Laiatüki Ots, Mys Sval'ferot, Mys Syaere, Mys Syrve, My
 Ädara Jõgi, Tõnsu Jõgi, Ädara
 Ädu küla
 Äherdi küla
+Ähijärv, Ozero Akhi-Yarv
 Ähijärve küla
 Äiamaa küla
 Äigrumäe küla
@@ -6429,13 +6426,16 @@ Zerel Point, Kap-Zerel, Laiatüki Ots, Mys Sval'ferot, Mys Syaere, Mys Syrve, My
 Õha küla
 Õhu küla
 Õisu Järv, Lake Õisu, Ozero Yyzu-Yarv
+Õisu alevik
 Õlatu küla
+Õle küla
 Õlgkaevu, Эльгкава
 Õngu Oja
 Õngu küla
 Õnnõmäe, Õnnemäe
 Õrsava küla
 Õru alevik
+Õru vald, Õru Parish
 Õruste küla
 Õssu küla
 Õuna küla

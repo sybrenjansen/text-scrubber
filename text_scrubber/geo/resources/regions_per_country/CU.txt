@@ -393,7 +393,7 @@ Argos
 Argota
 Argote
 Argudín
-Arguelles
+Argüelles
 Arias
 Ariguanabo
 Arimao, Río Arimao, Río Arinao
@@ -406,7 +406,7 @@ Armas
 Armenteritos
 Armenteros, Armentero
 Armentina
-Armonia
+Armonía
 Arnaldo Guzmán
 Arnao
 Arosena
@@ -828,7 +828,7 @@ Arroyo Jaboncillo
 Arroyo Jacinta
 Arroyo Jacinto
 Arroyo Jaguayón
-Arroyo Jaguey
+Arroyo Jagüey
 Arroyo Jagüeyes
 Arroyo Jaime
 Arroyo Janate
@@ -981,7 +981,7 @@ Arroyo Magones
 Arroyo Maguagua
 Arroyo Maguana, Río Naguarage, Río Naguaraje
 Arroyo Maguara
-Arroyo Magueyal
+Arroyo Magüeyal
 Arroyo Majadero
 Arroyo Majagua
 Arroyo Majayara
@@ -1491,7 +1491,6 @@ Bagáez
 Bagán
 Bagós
 Bahia De Sagua De Tanamo
-Bahia Honda
 Bahuma
 Bahía Arroyo Blanco, Ensenada Arroyo Blanco
 Bahía Barrederas, Bahía Barredera, Ensenada Barrederas
@@ -1507,6 +1506,7 @@ Bahía Dominica, Ensenada Dominica
 Bahía Escobar
 Bahía Guanito
 Bahía Guincho
+Bahía Honda
 Bahía Isabela de Sagua
 Bahía Jaitecito
 Bahía Jururú, Bahía de Jarurú, Bahía de Jururú, Puerto Jururú
@@ -1539,7 +1539,7 @@ Bahía de Bariay, Bahía Bariay, Puerto Bariay
 Bahía de Buena Vista, Bahía Buenavista
 Bahía de Cabañas, Puerto de Cabañas
 Bahía de Caimanera, Ensenada Caimanera
-Bahía de Cajimaya, Bahía Cagimaya, Ensenada Cagimaya
+Bahía de Cajímaya, Bahía Cagimaya, Ensenada Cagimaya
 Bahía de Cananova, Bahía de Cananove, Puerto Cananova
 Bahía de Carahatas
 Bahía de Carbónico
@@ -2899,8 +2899,8 @@ Catey
 Cativar, Catibar, Cativara
 Catunda
 Caujerí del Estado
-Caunaito, Río Caunaíto
 Caunao, Hato Caunao, Río Caunao
+Caunaíto, Río Caunaíto
 Cauquilla
 Caureje, Coreja
 Causilla
@@ -3150,8 +3150,8 @@ Cayo Fortuna
 Cayo Fragata
 Cayo Fragoso, Cayo Fragosa, Cayo Fragroso
 Cayo Fraile, Cayo El Fraile
-Cayo Frances
 Cayo Francesito
+Cayo Francés
 Cayo Frío
 Cayo Fábrica
 Cayo Galindito
@@ -3189,11 +3189,11 @@ Cayo Guayabo, Cayo Guayabos
 Cayo Guayo, Cayo Fifa
 Cayo Guillermito
 Cayo Guillermo
-Cayo Guincho
 Cayo Guinea, o. Ginea
 Cayo Gutierrez
 Cayo Guzmán
 Cayo Guásimas
+Cayo Güincho
 Cayo Hachuela
 Cayo Haití
 Cayo Hambre
@@ -3552,11 +3552,11 @@ Cayo Salinas, Cayo Salina
 Cayo Salinita, Cayo Salinitas
 Cayo San Esteban
 Cayo San Francisco
-Cayo San Juan
 Cayo San Juan de Afuera
+Cayo San Juán
 Cayo San Luis
 Cayo San Vicente
-Cayo Santa Maria, Saint Mary Cay, Saint Mary Key
+Cayo Santa María, Saint Mary Cay, Saint Mary Key
 Cayo Santillana, Cayo Santillán
 Cayo Sardina, Cayo Sardinas, Cayos Sardinas, Sardina Cayos
 Cayo Seboruco
@@ -3642,7 +3642,7 @@ Cayo del Perro
 Cayo del Pino
 Cayo del Rey, Cayo Rey
 Cayo del Rincón de Jicotea
-Cayo del Rosario, Cayo el Rosario
+Cayo del Rosario, Cayo El Rosario
 Cayo del Sur
 Cayo el Sombrero
 Cayo la Guardia
@@ -3774,7 +3774,7 @@ Cayos de Sevillas
 Cayos de la Enfermería
 Cayos de la Herradura
 Cayos de la Leña, Islas de Mangles
-Cayos de la Manteca, Cayo la Manteca, Cayos la Manteca
+Cayos de la Manteca, Cayo La Manteca, Cayos la Manteca
 Cayos de la Manuy, Cayos de la Manui
 Cayos de la Tocinera
 Cayos de la Virazón, Cayos de la Mojabragas
@@ -4088,7 +4088,7 @@ Ciénaga
 Ciénaga Larga de Domínguez, Cienaga Larga
 Ciénaga Manzanares
 Ciénaga Manáguano
-Ciénaga Occidental de Zapata, Gran Cienaga Occidental de Zapata, Gran Ciénaga de Zapata, The Zapata Swamp
+Ciénaga Occidental de Zapata, Gran Cienaga Occidental de Zapata, Gran Cienaga de Zapata, The Zapata Swamp
 Ciénaga Oriental de Zapata
 Ciénaga de Bibanasí, Cienaga del Sibanasi, Ciénaga de Bipanasí, Ciénaga del Bipanasí
 Ciénaga de Birama, Ciénaga de Virama
@@ -5039,7 +5039,6 @@ El Jarico
 El Jatal
 El Jato
 El Jibacoa
-El Jibaro
 El Jiguero, Jiguero, Jiquero
 El Jiquimal
 El Jiquí
@@ -5051,6 +5050,7 @@ El Jorobado, El Jorabado
 El Jovero
 El Jucaral
 El Junco
+El Jíbaro
 El Júcaro, El Juara, El Júcaro de los Laurelos
 El Laberinto
 El Ladrillo
@@ -5072,7 +5072,7 @@ El Llano
 El Lucero
 El Lugareño
 El Macho
-El Macio
+El Macío
 El Maisí, Río El Maisí
 El Maja
 El Majagual
@@ -5279,8 +5279,8 @@ El Rodeo
 El Romerillo
 El Romero
 El Rosario
-El Rubi
 El Rubio
+El Rubí
 El Río
 El Sabanazo, Capestany
 El Sabinal
@@ -5755,7 +5755,7 @@ Ensenada Salto del Jojó
 Ensenada San Agustín
 Ensenada San Felipe
 Ensenada San Francisco
-Ensenada San Juan
+Ensenada San Juán
 Ensenada Santa Isabel
 Ensenada Santa Lucía
 Ensenada Santa María, Caleta Santa María, Ensenada de Santa María, Estero Santa Maria, Santa Maria Cove
@@ -5820,7 +5820,7 @@ Ensenada de Julia
 Ensenada de La Broa, Broa Bay
 Ensenada de La Lisa
 Ensenada de La Luisa
-Ensenada de La Mulata, Bahía La Mulata, Bahía de Mulata, Bahía de la Mulata, Ensenada la Mulata
+Ensenada de La Mulata, Bahía La Mulata, Bahía de Mulata, Bahía de la Mulata, Ensenada La Mulata
 Ensenada de Las Brujas
 Ensenada de Las Coloradas, Ensenada Los Colorados
 Ensenada de Las Salinas
@@ -5835,7 +5835,7 @@ Ensenada de Manaca
 Ensenada de Manacas
 Ensenada de Mancho, Ensenada de Mancha
 Ensenada de Maneadero, Ensenada de Maniadero
-Ensenada de Mangles Altos, Ensenada las Canas
+Ensenada de Mangles Altos, Ensenada Las Cañas
 Ensenada de Marimelena
 Ensenada de Marín
 Ensenada de Matahambre, Ensenada Matahambre
@@ -5904,9 +5904,9 @@ Ensenada de las Cocinas
 Ensenada de las Cuchillas
 Ensenada de las Cuevas, Ensenada de las Cueva
 Ensenada de las Damas
-Ensenada de las Delicias, Ensenada las Delicias
+Ensenada de las Delicias, Ensenada Las Delicias
 Ensenada de las Guásimas
-Ensenada de las Mulas, Ensenada de Turquino, Ensenada de la Mula
+Ensenada de las Mulas, Ensenada de La Mula, Ensenada de Turquino
 Ensenada de las Palmas
 Ensenada de las Puercas
 Ensenada de las Tunas, Ensenada Las Tunas
@@ -6118,7 +6118,7 @@ Estero Mendoza
 Estero Meneses
 Estero Migote
 Estero Mojahuevo
-Estero Molas, Estero los Róbalos
+Estero Molas, Estero Los Róbalos
 Estero Mosquito, Boca del Río Mosquito, Estero Mosquitos
 Estero Muerto
 Estero Naranjo
@@ -6132,7 +6132,7 @@ Estero Palizada
 Estero Palizón, Ensenada Palizón, Estero Palixón, Estero Palizote
 Estero Palma Sola
 Estero Palmarito
-Estero Palmita, Estero las Palmitas
+Estero Palmita, Estero Las Palmitas
 Estero Palmitas
 Estero Pepillo
 Estero Peralta
@@ -6560,7 +6560,7 @@ Gomero, Gomera
 Gonfao
 Gonzalito, Batey Gonzalito
 Gonzalo
-González, Dionisio Gonzalez, Gonzáles, Sucesores de Gonzalez
+González, Dionisio Gonzalez, Gonzales, Sucesores de Gonzalez
 González Negrín
 González del Valle
 Gordillo
@@ -6640,7 +6640,6 @@ Guajaibón, Guaijaibon
 Guajanes
 Guajimero
 Guajiro
-Guama
 Guamabo
 Guamajal
 Guaminao
@@ -6648,6 +6647,7 @@ Guamito
 Guamo Viejo
 Guamutal
 Guamutilla
+Guamá
 Guamácara, Río Guamacaro
 Guanabacoa
 Guanabanito
@@ -6922,8 +6922,8 @@ Ignacio Agramonte
 Ignacio Rodríguez
 Iguanábana
 Iguará
-Imias
 Imposible
+Imías
 Incera
 Inclán
 Indalecio
@@ -6990,8 +6990,8 @@ Jagua de Solares
 Jagual
 Jagual de Gollat
 Jagualito
-Jaguey, Jagueycito
 Jaguey Bonito
+Jagüey, Jagueycito
 Jagüey Blanco
 Jagüey Caro
 Jagüey Macho
@@ -7045,7 +7045,6 @@ Jesús Oliva
 Jewett
 Jibacoa, Arroyo Collantes
 Jibani
-Jibaro, Cayería del Jibaro
 Jicarita
 Jicaya, Arroyo Jicaya, Río Jicaya, Río Jicayo
 Jicotea, Finca Jicotea, Ikotea
@@ -7156,7 +7155,6 @@ Juanita, Santa Juanita
 Juanito
 Jucaral, Colonia Jucaral
 Jucarito, Jacarilo
-Jucaro, Río Júcaro
 Judas, Arroyo Judas
 Jufra
 Juguetillo
@@ -7181,8 +7179,10 @@ Jutal
 Jutía
 Juzgado de Cabagán
 Juzgado de Guaniquical, Juzgado de Guaniguical
+Jíbaro, Cayería del Jibaro
 Jícara Blanca
 Jíquima
+Júcaro, Río Júcaro
 Júcaro Número Uno, Júcaro Número 1
 Júcaro Quemado, Júcaro Ouemado
 Júcaro de Primelles
@@ -7238,7 +7238,7 @@ La Arabia
 La Arboleda
 La Arena
 La Argentina
-La Armonia
+La Armonía
 La Asturiana
 La Asunción, H. La Asunción
 La Ata
@@ -7302,9 +7302,8 @@ La California, Colonia California
 La Calilla
 La Calleja
 La Camagüeyana
-La Campana
 La Campanita
-La Cana
+La Campaña
 La Canaleja
 La Candelaria
 La Candita
@@ -7348,6 +7347,7 @@ La Catalina
 La Catuquita
 La Católica
 La Causa
+La Caña
 La Cañada, Finca La Canada, La Candia, Reserva Natural de La Cañada
 La Cañada del Infierno
 La Cecilia
@@ -7429,7 +7429,7 @@ La Cucaracha
 La Cuchara
 La Cuchilla
 La Cuerda
-La Cueva, Arroyo la Cuaba, Rio Cuaba, Río la Guaba
+La Cueva, Arroyo La Cuaba, Rio Cuaba, Río la Guaba
 La Cueva del Agua
 La Cueva del Indio
 La Cueva del Jagüey, Cueva Jaguey, Cueva de Jagüey, La Cueva de Jaguey
@@ -7979,7 +7979,7 @@ La Rosa
 La Rosa de los Chinos, La Rosa de China
 La Rosa del Capitán
 La Rosalba
-La Rosalia, La Rosalía de Riojar
+La Rosalía, La Rosalía de Riojar
 La Rosaria
 La Rosenda
 La Rosita
@@ -8325,7 +8325,7 @@ Laguna Las Guásimas
 Laguna Las Palomas, Laguna las Palamas
 Laguna Las Paridas
 Laguna Las Picúas
-Laguna Las Piedras, Laguna de las Piedras, Laguna la Pedrera, Laguna la Piedra
+Laguna Las Piedras, Laguna La Piedra, Laguna de las Piedras, Laguna la Pedrera
 Laguna Las Playas
 Laguna Las Traviesas, Laguna Garrafones
 Laguna Lengua de Pájaros
@@ -8371,7 +8371,7 @@ Laguna Palizada
 Laguna Palma Sola
 Laguna Palma de Basilio
 Laguna Palmar
-Laguna Palometa, Laguna La Vieja, Laguna Polometa, Laguna de las Palometas
+Laguna Palometa, Laguna La Vieja, Laguna Polometa, Laguna de Las Palometas
 Laguna Palomilla
 Laguna Pancho Navarro
 Laguna Pasajeros
@@ -8448,7 +8448,7 @@ Laguna de La Punta, Laguna de la Pinta
 Laguna de La Sierra
 Laguna de Lara
 Laguna de Las Loras
-Laguna de Leche, Laguna de la Leche
+Laguna de Leche, Laguna de La Leche
 Laguna de Limones
 Laguna de Mala Habitación
 Laguna de Morejón
@@ -8730,7 +8730,7 @@ Las Margaritas
 Las Marinas
 Las Marquesas
 Las Martinas
-Las Marías, Colonia Las Marias, Colonia Marias, La Marías, Las María, Los Marias
+Las Marías, Colonia Las Marias, Colonia Marias, La Marías, Las Maria, Los Marias
 Las Mercedes, Cos Mercedes, El Comercio, La Mercedes
 Las Mercedes de Caunao
 Las Mercedes de Gálvez
@@ -8749,7 +8749,7 @@ Las Nanas
 Las Navajas
 Las Nieves
 Las Ninfas
-Las Nuevas, Río Los Nuevos, Río las Nuevas, Río los Negros
+Las Nuevas, Río Las Nuevas, Río Los Nuevos, Río los Negros
 Las Nuevas Grandes
 Las Nuevas del Genovés
 Las Obas
@@ -8855,7 +8855,6 @@ Lemes, Lemus
 Lengua de Pájaro
 Lengua de Tierra
 Leocadia, Colonia Leocadia
-Leon, Mas Léon
 Leoncio López
 Leonera, Leomar
 Leonero
@@ -8866,6 +8865,7 @@ Leoran
 Levisa
 Leyva
 Lezana
+León, Mas Léon
 León Crespo
 León Lora
 Liaño
@@ -9075,7 +9075,7 @@ Loma La Degollada
 Loma La Estrella
 Loma La Farola
 Loma La Fuente
-Loma La Gloria, Lomas la Gloria
+Loma La Gloria, Lomas La Gloria
 Loma La Gobernadora
 Loma La Guanábana
 Loma La Guardia
@@ -9299,7 +9299,7 @@ Loma del Cura
 Loma del Curra
 Loma del Fuego
 Loma del Gato
-Loma del Grillo, Loma El Grillo, Loma de el Grillo
+Loma del Grillo, Loma El Grillo, Loma de El Grillo
 Loma del Guamá
 Loma del Heliógrafo
 Loma del Husillo, Loma de Husillo
@@ -9811,18 +9811,17 @@ Maguaraya, Chucho Maguaraya
 Maguaraya Abajo
 Maguayal
 Magueicito
-Maguey, Arroyo Magüey
-Magueyes, Maguelles
 Magura, Maguira
+Magüey, Arroyo Magüey
 Magüeycito
 Magüeycito Arriba
+Magüeyes, Maguelles
 Mahomilla Bay, Bahía de Mahomilla, Mahonilla
 Maibío, Caiá, Maibo, Maybio
 Maipicú
 Maisi
 Maizal de Martín Díez, Maizal
 Maizal de Vila, Maral, Maral de Vila
-Maja, Manglar Majá
 Majagua, Antiguo Ingenio Majagua, Machaca
 Majagual
 Majagualita
@@ -9832,6 +9831,7 @@ Majana, Maraña
 Majayara
 Majibacoa, Najibacoa
 Majimiana
+Majá, Manglar Majá
 Mal Paso
 Mal País
 Mala Fama, Río Mala Fama
@@ -9910,7 +9910,7 @@ Manicaragua
 Maniet, Maniel
 Manigua
 Manila
-Manjuari
+Manjuarí
 Manjuaríes, Sitio Manjuaries
 Mano
 Mano Pilón
@@ -9965,7 +9965,6 @@ Margarito Iglesias Marine Terminal
 Margasales
 Margot
 Margot Tres
-Maria, María Vega
 Mariana
 Marianaje
 Marianita
@@ -10022,6 +10021,7 @@ Martínez
 Maruca
 Maruja
 Maruri
+María, María Vega
 María Antonia
 María Antonieta
 María Arminda
@@ -10067,7 +10067,7 @@ Mata Toros, Arroyo Mata Toro, Arroyo Mata Toros, Arroyo Matamoros, Mata Moros
 Mata de Coco
 Matacaballo, Mata Caballo
 Matadero
-Matagua, Río Mataguá
+Mataguá, Río Mataguá
 Matamano
 Matamoros, Río Matamores, Río Matamoros
 Matanzar
@@ -10594,7 +10594,6 @@ Negrín
 Neimado
 Neira
 Nelson
-Nena
 Nenita
 Neno Jiménez
 Neno Loreso
@@ -10602,6 +10601,7 @@ Nepomuceno Nieves
 Nereida
 Nestor Peraza
 Neuvo Sanabria, Huevo Sanabria
+Neña
 Ni Se Ocupe
 Nicaragua
 Niceto Perez
@@ -11311,23 +11311,21 @@ Pilar
 Pilares
 Pildero, Pilbero
 Pilita
-Pilon
 Piloncito
 Piloto
 Piloto Abajo
 Piloto Arriba
 Piloto del Medio
 Pilotos
+Pilón
 Pimentel
 Pimienta, Pimientan
 Pimienta Arroyito
-Pina
 Pina Sola
 Pinal
 Pinales de Jutinicú, Pinales de Jutinico
 Pinales de Mayarí
 Pinalilla
-Pinalito
 Pinar Alto, Pinal Alto
 Pinar Ciego
 Pinar Llano
@@ -11360,7 +11358,9 @@ Pitajonal
 Pitajones
 Pito Cuatro
 Pizarro
+Piña
 Piñales
+Piñalito
 Piñeiro
 Piñeiro Cafetal, Piñero El Cafetal
 Piñi
@@ -11388,7 +11388,7 @@ Playa Arroyo Bermejo
 Playa Arroyo Berracos
 Playa Bacalao
 Playa Bacuranao
-Playa Baga, Playa Baja
+Playa Bagá, Playa Baja
 Playa Bailén
 Playa Baracoa
 Playa Bariay
@@ -11821,10 +11821,10 @@ Punta Apóstoles
 Punta Arbolitos
 Punta Arena
 Punta Arenal
-Punta Arenas
 Punta Arenillas
+Punta Arenás
 Punta Ariola
-Punta Aristazábal, Punta Aristazabel, Punta Aristizabel, Punta Aristizábal
+Punta Aristazábal, Punta Aristazabel, Punta Aristizabal, Punta Aristizabel
 Punta Arrecife
 Punta Arroyón
 Punta Ataguía
@@ -11887,12 +11887,12 @@ Punta Cabeza del Este
 Punta Cabo
 Punta Cabos
 Punta Cabrera, Punta Cabrara
-Punta Cachon
+Punta Cachón
 Punta Cagabonés
 Punta Caguamas, Punta Caguamus
 Punta Caguanes
-Punta Caiman, Punta Caiman Grande
 Punta Caimanera
+Punta Caimán, Punta Caiman Grande
 Punta Cajón, Punta El Cajón
 Punta Calabazas
 Punta Caldera
@@ -11912,7 +11912,7 @@ Punta Cane
 Punta Caney, Punta El Caney, Punta del Caney
 Punta Caoba
 Punta Caonao, Punta Caunao
-Punta Carabela, Punta Carabela Grande, Punta Caravela, Punta de Carabela Grande, Punta la Carabela Grande
+Punta Carabela, Punta Carabela Grande, Punta Caravela, Punta La Carabela Grande, Punta de Carabela Grande
 Punta Carabela Chica, Punta Caravela Chica, Punta Chica Carabela, Punta La Carabela Chica, Punta de las Carabelas, Punta de las Carabelas Chicas
 Punta Carabinero
 Punta Carabineros
@@ -12142,7 +12142,7 @@ Punta Julia
 Punta Julián
 Punta Junta
 Punta Justicia, Punta Jutici
-Punta Jutia, Punta Manrique
+Punta Jutía, Punta Manrique
 Punta Jutías
 Punta Júcaro
 Punta La Aguada
@@ -12451,7 +12451,7 @@ Punta San Antonio
 Punta San Diego, Punta Río San Diego
 Punta San Francisco, Punta de San Francisco
 Punta San José
-Punta San Juan
+Punta San Juán
 Punta San Luis
 Punta San Marcos
 Punta San Pedro
@@ -12546,7 +12546,7 @@ Punta de Calisí
 Punta de Caribe
 Punta de Cartas
 Punta de Castilla
-Punta de Cayamas, Punta las Cayamas
+Punta de Cayamas, Punta Las Cayamas
 Punta de Cayo Ocampo, Punta Pasa Caballo, Punta Pasacaballos, Punta Paso Caballo
 Punta de Chibolo
 Punta de Chicho
@@ -12817,7 +12817,6 @@ Ramblazón Hortensia
 Ramblazón de Reyes, Ramblazon
 Rame
 Ramelo
-Ramirez, Palmer, Vega de Pestán
 Ramona, Finca Ramona
 Ramonal
 Ramones
@@ -12825,6 +12824,7 @@ Ramonón
 Ramos
 Ramos de San José
 Ramu
+Ramírez, Palmer, Vega de Pestán
 Ramírez Carabali
 Ramón
 Ramón Aguero
@@ -13047,13 +13047,11 @@ Rincón de la Reina
 Rincón de la Yana
 Rincón del Macío
 Rincón del Potrero
-Rio Baracoa
 Rio Jagüey
 Rio del Callejón
 Riobo
 Rioja
 Riojas
-Rios, Pios
 Riquelme
 Risco
 Rita
@@ -13111,7 +13109,7 @@ Rosa María
 Rosal, Colonia Rosal
 Rosalba
 Rosales
-Rosalia
+Rosalía
 Rosalía Soto, Kosalía Soto
 Rosario, Finca Rosario
 Rosarito
@@ -13174,6 +13172,7 @@ Río Baitiquirí
 Río Baja, Rio Bajos, Río del Bajó
 Río Bajo
 Río Banes
+Río Baracoa
 Río Baraguá, Río Barigua
 Río Barbudo, Arroyo Barbudo
 Río Bariay, Bariay, Río Bariai
@@ -13211,7 +13210,7 @@ Río Cabonico, Cabonico
 Río Cacao
 Río Cacoyugüín, Cocayugüin, Río Cacuyaquin
 Río Cacoyuquín
-Río Caimito, Río el Caimito
+Río Caimito, Río El Caimito
 Río Cajobabo, Arroyo El Cupey
 Río Calabazar
 Río Calabazas
@@ -13256,7 +13255,7 @@ Río Cañete
 Río Cañizo, Arryo Canizo, Canixa River
 Río Ceiba, Río Caguasal
 Río Chaparra, Chaparra
-Río Charcazo, Charcazo, Río la Yana
+Río Charcazo, Charcazo, Río La Yana
 Río Charco Hondo
 Río Chico
 Río Chimbi
@@ -13590,7 +13589,7 @@ Río Sequito
 Río Sevilla
 Río Sibama, Río Sibana, Sibama
 Río Sierra Morena, Sierra Morena
-Río Sierra de Casas, Río Las Casas
+Río Sierra de Casas, Rio las Casas
 Río Sigua, Siguas River
 Río Siguanea
 Río Silantros, Río Cilantro, Río Cilantros, Río Silantro, Silantros
@@ -13672,6 +13671,7 @@ Río la Yegua
 Río las Cabreras, Rio Cabreros
 Río los Colorados
 Río los Güiros
+Ríos, Pios
 S. Cisneros
 Sabana, Mercedita Guerra
 Sabana Abajo
@@ -13936,7 +13936,7 @@ San Gabriel
 San Gabriel de Poveda
 San Genaro, Finca San Genaro
 San Gerias
-San German
+San Germán
 San Gervasio
 San Gerónimo
 San Ginés
@@ -14050,10 +14050,10 @@ San Liborio
 San Lino
 San Lorenzo, San Lorenzo de Campo Alegre
 San Lucas
-San Luis
 San Luis de Barrancas, San Luis de Barranca
 San Luis de Caunao
 San Luis de Yucatán, San Lino de Yucatan
+San Luís
 San Lázaro
 San Manuel, Finca San Manuel
 San Manuelito
@@ -14114,8 +14114,8 @@ San Rafael de Potreros, San Rafael del Potrero
 San Rafael de la Gavilana
 San Rafael del Salado
 San Ramiro
-San Ramon
 San Ramos
+San Ramón
 San Ramón de Aguas Claras
 San Ramón de Mucura
 San Ramón de Pimentel, San Ramon de Pomenta
@@ -14205,10 +14205,10 @@ Santa Eufemia
 Santa Eugenia
 Santa Eulalia
 Santa Eulogia
-Santa Fe, Santa Fé de la Ciénaga
 Santa Felicia, Maria Felicia
 Santa Filomena
 Santa Francisca
+Santa Fé, Santa Fé de la Ciénaga
 Santa Gertrudis
 Santa Gertrudis de Arenillas
 Santa Guadalupe
@@ -14272,7 +14272,7 @@ Santa Rosa de Guayacanes
 Santa Rosa de Lima
 Santa Rosa de la Vega
 Santa Rosa y San Francisco
-Santa Rosalia, El Sitio del Guayabal
+Santa Rosalía, El Sitio del Guayabal
 Santa Rosalía de Mal País
 Santa Rufina
 Santa Sabina
@@ -14411,7 +14411,7 @@ Serrano
 Serres
 Serrote, Serrate
 Servando
-Serventia
+Serventía
 Severino
 Sevilla, Hacienda Sevilla
 Sevilla la Vieja
@@ -14632,7 +14632,7 @@ Sobrantes de la Hacienda San Pedro
 Sobrantes de la Victoria
 Sobrebanco de Vázquez Queipo
 Soca
-Socarras
+Socarrás
 Sociedad
 Sociedad del Central Zorrilla
 Socorrido, El Socorrido, Socorrido del Central La Vega

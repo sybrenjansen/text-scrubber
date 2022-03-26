@@ -20,7 +20,7 @@ Aflatun
 Agachagol
 Agachart
 Agatan
-Aghbai Donaaghba, Перевал Донаагба
+Aghbai Donaaghba, Pereval Donaagba
 Aghbai Kirk-Buloq, Pereval Kirk-Bulak, Pereval Kyrk-Bulak, Pereval Yangi-Saban, Pereval Yangisabak, Pereval Yangisabakh
 Aghbai Naumin, Перевал Наумина
 Ak Sai Waterfall
@@ -79,7 +79,7 @@ Akyrta
 Ala Archa Gorge
 Ala-Archa
 Ala-Archinskoye Vodokhranilishche, Ала-Арчинское Водохранилище
-Ala-Bel Pass, Перевал Ала-Бель
+Ala-Bel Pass, Pereval Ala-Bel'
 Ala-Bel'
 Ala-Buka, Ola-Bo'ka, Ola-Bo'qa, Ала-Букинский
 Ala-Bukinskiy Rayon
@@ -250,7 +250,7 @@ At-Bashi, Ат-Башынский, Ат-Башынский район
 At-Bashinskiy Rayon
 At-Bashy, At-Bash
 At-Bashy Reservoir
-At-Bashy-Too, At-Bashy Range, Khrebet At-Bash, Khrebet At-Bashy, Хребет Атбаши
+At-Bashy-Too, At-Bashy Range, Khrebet At-Bash, Khrebet At-Bashy, Khrebet Atbashi
 Atamkulu, Atym-Kul', Atym-Kuy
 Atash-Chap-Kan
 Atay
@@ -310,7 +310,7 @@ Bashy
 Bashy-Dzhal, Basy-Dzhil
 Basy-Tamchi
 Batkaksu
-Batken, Batken Oblasty, Batken Oblusu, Баткенская Область
+Batken, Batken Oblasty, Batken Oblusu, Batkenskaya Oblast'
 Batkenskiy Rayon, Batken Rayon, Баткенский
 Bay-Kongur-Say, Boy-Qong'ur-Soy
 Baybala
@@ -347,7 +347,6 @@ Besh-Tash, Besh-Tosh
 Beshbala
 Beshdzhigach
 Beshik-Dzhok
-Beshkel'
 Beshorol State Reserve, Besh-Aral State Reserve, Beshorol Davlat Qo'riqxonasi
 Beshtash
 Beshterek, Bish-Terek
@@ -436,6 +435,7 @@ Byurlyusu
 Byzautash
 Byztyundyuk
 Bëdzhëy, Bo'jo'y
+Bëshkel'
 Chaar-Tash
 Chaararcha
 Chaartash
@@ -474,7 +474,7 @@ Charungur
 Charyya
 Chashma, Chachme
 Chat
-Chatka Mountains, Chat Kalski Mountains, Chatkal Range, Chatkal Ridge, Chotqol Tizmasi, Khrebet Atkalski, Чаткальский Хребет
+Chatka Mountains, Chat Kalski Mountains, Chatkal Range, Chatkal Ridge, Chatkal'skiy Khrebet, Chotqol Tizmasi, Khrebet Atkalski
 Chatkal, Chatkal'skiy Rayon, Chotqol, Чаткальский
 Chatrak
 Chatyr-Köl State Zoological Reserve
@@ -625,7 +625,7 @@ Chunkur
 Chunkur-Burundu, Чукур-Бурунду
 Chunkursu
 Churchasay
-Chuyskaya Oblast', Chüy Oblasty, Chüy Oblusu, Чүй
+Chuyskaya Oblast', Chüy, Chüy Oblasty, Chüy Oblusu
 Chuyskiy Rayon, Chüy, Чуйский
 Chychkan State Zoological Reserve
 Chyyyrchyk Pass, Pereval Chigirchik, Pereval Chiyirchik, Pereval Chyyyrchyk
@@ -1272,7 +1272,7 @@ Gora Zeiy
 Gora Zer-Deke
 Gora Zhanbulak
 Gornyy Istochnik Dzhyluu-Suu
-Gorod Bishkek, Bishkek, Bishkek Shaary, Gorod Frunze, Фрунзе
+Gorod Bishkek, Bishkek, Bishkek Shaary, Frunze, Gorod Frunze
 Gory Achyk-Tash
 Gory Adyrtor
 Gory Ak-Tash, Oq Tosh Tog'i, Oq-Tosh Tog'lari
@@ -1516,7 +1516,7 @@ Imet, Ruchey Imet
 Imurdu
 Imurduchoku
 Intor, In-Tyur
-Inylchek Glacier, Glacier Yuzhniy Inölchek, Lednik Engil'chek, Lednik Inyl'chek, Lednik Severnyy Engil'chek, Lednik Severnyy Inyl'chek, Lednik Yuzhnyy Engil'chek, Lednik Yuzhnyy Inyl'chek, Северный Иныльчек
+Inylchek Glacier, Glacier Yuzhniy Inölchek, Lednik Engil'chek, Lednik Inyl'chek, Lednik Severnyy Engil'chek, Lednik Severnyy Inyl'chek, Lednik Yuzhnyy Engil'chek, Lednik Yuzhnyy Inyl'chek, Severnyy Inyl'chek
 Iralgi
 Irdyk
 Iri-Say
@@ -1534,7 +1534,7 @@ Ishan-Bulak
 Ishtamberdy, Ishtomberdi
 Ishtamberdy-Say, Ishtomberdi-Soy
 Ispara-Say
-Issyk-Kul Region, Issyk-Kul, Ysyk-Köl Oblasty, Иссык-Кульская Область, Ысык-Көл Облусу
+Issyk-Kul Region, Issyk-Kul, Issyk-Kul'skaya Oblast', Ysyk-Köl Oblasty, Ysyk-Köl Oblusu
 Issyk-Kul'skiy Zapovednik, Ysyk-Köl Reserve
 Istochnik Dzhilusu
 It-Otbos
@@ -1547,7 +1547,7 @@ Iyri-Suu
 Iyri-Taldybulak
 Izyunbash
 Jaiyl, Жайылский
-Jalal-Abad oblast, Jalal-Abad, Jalal-Abad Oblasty, Jalal-Abad Oblusu, Джалал-Абадская Область, Жалал-Абад, Жалал-Абад Облусу
+Jalal-Abad oblast, Dzhalal-Abadskaya Oblast', Jalal-Abad, Jalal-Abad Oblasty, Jalal-Abad Oblusu, Жалал-Абад, Жалал-Абад Облусу
 Jaman-Too, Gory Dzhaman-Too, Gory Dzhamantau, Jamantau Mountains
 Jangy Kanaly, Kanal Dzhangi
 Jangy-Jer Range
@@ -1645,13 +1645,12 @@ Kara-Bulak
 Kara-Buura, Karabura
 Kara-Buurinskiy Rayon, Kirovskiy Rayon, Кара-Бууринский
 Kara-Chat
-Kara-Debe
 Kara-Dzhylga
+Kara-Dëbe
 Kara-Kabak
 Kara-Kasmak
 Kara-Kavak
 Kara-Kazyk
-Kara-Kol, Kara-Kël', Ozero Kara-Kul', Ozero Kara-Kël'
 Kara-Kol-Say
 Kara-Korum
 Kara-Koy, Karagay, Karagoy
@@ -1661,6 +1660,7 @@ Kara-Kulja, Atoinak
 Kara-Kyr, Kara-Gur
 Kara-Kyshtak
 Kara-Kyya
+Kara-Köl, Kara-Kël', Ozero Kara-Kul', Ozero Kara-Kël'
 Kara-Mart
 Kara-Say, Kara-sai
 Kara-Sel'
@@ -1668,7 +1668,7 @@ Kara-Shaldyr
 Kara-Shoro National Park
 Kara-Su
 Kara-Suskiy Raion
-Kara-Suu, Kara-Suu Lake, Кара-Сууский, Кара-Сууский район, Озеро Кара-Суу
+Kara-Suu, Kara-Suu Lake, Ozero Kara-Suu, Кара-Сууский, Кара-Сууский район
 Kara-Suu Vostochnyy
 Kara-Takta
 Kara-Taryk
@@ -1736,7 +1736,7 @@ Karateke
 Karator
 Karatuma
 Karatyube
-Karatëbe
+Karatëbë
 Karaunkur, Qora-Unkyur
 Karaunkut
 Karavshin
@@ -1749,7 +1749,7 @@ Karkidanskoye Vodokhranilishche, Karkidon Suv Ombori, Karkidon Suw Ombori, Karki
 Karmaktyuz
 Karumduk-Kashkasu
 Karykar
-Kasan-Say, Koson-Soy, Кассан-Сай
+Kasan-Say, Kassan-Say, Koson-Soy
 Kashakbulak
 Kashansu
 Kashka-Suu, Kashka-Bek, Kashka-Su, Kashka-Suu Severnyy, Kaska-Su, Qashqa-Suu, Qashqa-Suv
@@ -1793,15 +1793,12 @@ Kechyuu-Suu
 Kedey-Say
 Kegaty
 Kegety, Kegeti, Kegeto
-Kek-Art, Kuchart, Kugart, Kyok-Art
 Kek-Bel'
 Kek-Bulak
 Kek-Irim, Kok-Irim, Këkirim, Këkiyrim
 Kek-Kam
 Kek-Kayky
 Kek-Kiik, Kok-Koak, Kokkiik
-Kek-Suu, Koksu
-Kekdzhar, Kok-Dzhar
 Keklikbulak, Kikelik, Kikilik-Bulak, Kikilyk-Bulak
 Keklikuchar, Kaklik-Uchar-Say, Keklik-Uchar-Say, Yaklikuchar-Say
 Keksu
@@ -1809,9 +1806,7 @@ Keksuyskiy Khrebet
 Kektish
 Kektor
 Kekyrtash
-Kel'
 Kel'-Bash-Say
-Kel'-Say
 Kel'-Tër Vostochnyy
 Kel'ayryk
 Kel'dyuk
@@ -1825,7 +1820,7 @@ Kendzhulga
 Kenesharyk
 Keng-Kol
 Keng-Saz
-Keng-Soz Dovon, Перевал Кенг-Саз
+Keng-Soz Dovon, Pereval Keng-Saz
 Keng-Suu
 Kenkoo
 Kenkël', Kenkol
@@ -2208,7 +2203,7 @@ Kyl'densu
 Kyl'dzhabashi
 Kyldoo, Kyl-Dau
 Kyndy
-Kyok-Sariq, Koksarek, Кёксарек
+Kyok-Sariq, Koksarek, Këksarek
 Kypchak
 Kyrchikbulak
 Kyrchinduu-Too
@@ -2244,7 +2239,7 @@ Kyzyl-Ata-Say, Qizil-Ota Soy
 Kyzyl-Ayryk
 Kyzyl-Dzhar
 Kyzyl-Eshme, Kyzyl-Ishme
-Kyzyl-Kel'
+Kyzyl-Kël'
 Kyzyl-Küngöy Toosu, Khrebet Kyzyl-Kungey-Tau
 Kyzyl-Su
 Kyzyl-Suu
@@ -2266,18 +2261,23 @@ Kyzylturuk
 Kyzyltyub
 Këgendy
 Këk-Ala-Say, Kyok-Ola-Soy
+Këk-Art, Kuchart, Kugart, Kyok-Art
 Këk-Dzhangak, Kok-Dzhangak
 Këk-Say
 Këk-Sayskiy Kanal
+Këk-Suu, Koksu
 Këk-Talaa, Kyok-Talaa
 Këkaygyr, Kok-Aygyr, Kok-Aygör, Кёкайгур
 Këkbulak, Ruchey Këkbulak
 Këkdzhailo, Kok-Dzhaylyaiu, Këkdzhaylyau
+Këkdzhar, Kok-Dzhar
 Këkkyya
 Këksay
 Këkëmeren, Kakomeren, Kokomeren
+Kël'
 Kël'-Bar
 Kël'-Duk
+Kël'-Say
 Kël'-Suu
 Kël'-Tër, Kul'tur
 Kël'me
@@ -2285,9 +2285,9 @@ Kël'tor, Kul'-Tyur
 Kël'ukëk
 Këlyure-Tash
 Künbel Asūy
-Küngey-Alataū Zhotasy, Khrebet Kungey Alatau, Khrebet Kyungey Ala-Too, Khrebet Kyungëy-Alatau, Kungej-Ala Tau, Kungey Ala-Tau Range, Kunghei, Künggöy Ala-Too, Küngöy Ala-Too
+Küngey-Alataū Zhotasy, Khrebet Kungey Alatau, Khrebet Kyungey Ala-Too, Khrebet Kyungey Alatau, Kungej-Ala Tau, Kungey Ala-Tau Range, Kunghei, Künggöy Ala-Too, Küngöy Ala-Too
 Kürp-Say Reservoir
-Kŭhi Piryakht, Гора Пирьях, Кӯҳи Пирях
+Kŭhi Piryakht, Gora Pir'yakh, Кӯҳи Пирях
 Lay-Su
 Lay-Suu
 Layli-Mazar
@@ -2442,7 +2442,7 @@ Mys Sukhoy Khrebet, Sukhay Khrebet, Sukhoy Khrebet
 Myudyuryum, Mudurum, Mudyuryum, Reka Ak-Say, Reka Myuduryum
 Naryn, Narin, Narön, Norin
 Naryn District, Нарынский, Нарынский район
-Naryn oblast, Naryn Oblasty, Narynskaya Oblast', Нарын Облусу
+Naryn oblast, Naryn Oblasty, Naryn Oblusu, Narynskaya Oblast'
 Narynskaya Dolina, Naryn Valley
 Nayman-Shivali
 Nayza-Say
@@ -2512,7 +2512,7 @@ Ortotor
 Oryukty-Say, Kosh-Bulak
 Oryuktyu, Örüktü
 Osh City
-Osh Oblasty, Osh, Ош Облусу, Ошская Область
+Osh Oblasty, Osh, Oshskaya Oblast', Ош Облусу
 Ostrov Kayrak
 Otmëk
 Otmëk Vostochnyy
@@ -2717,7 +2717,7 @@ Pereval Ashusu
 Pereval Ashutor, Ashu-Ter
 Pereval Ashuu
 Pereval Ashuu-Kyungey
-Pereval Ashuu-Ter
+Pereval Ashuu-Tër
 Pereval Askala-Bel'
 Pereval Asutur
 Pereval At-Chabar
@@ -2826,7 +2826,7 @@ Pereval Chalkakbel'
 Pereval Chalkan
 Pereval Chamaldilga
 Pereval Chamyndyk
-Pereval Chan-Uryukty, Перевал Чон-Урюкты
+Pereval Chan-Uryukty, Pereval Chon-Uryukty
 Pereval Chanach
 Pereval Chap-Kandy, Перевал Чал-Канды
 Pereval Chapchyma, Chapchima Dovon, Pereval Chapchama
@@ -3111,8 +3111,8 @@ Pereval Kulunchak, Pereval Kolonchak
 Pereval Kum-Bel', Qum-Bel Dovon
 Pereval Kum-Bel' Pervyy
 Pereval Kum-Shoro
-Pereval Kumbel'
 Pereval Kumbel'ata
+Pereval Kumbël'
 Pereval Kumyush-Bel', Pereval Kumysh-Bel'
 Pereval Kunanashu
 Pereval Kungyr
@@ -3269,7 +3269,7 @@ Pereval Shivali, Shivali Dovon
 Pereval Shor-Bel'
 Pereval Shordebel'
 Pereval Sokur-Bel', Sokur-Bel Dovon
-Pereval Soroka Let Leninskogo Kommunisticheckogo Soyuza Molodëzhi Kirgizii, Перевал Сорока Лет Ленинского Коммунистического Союза Молодёжи Киргизии
+Pereval Soroka Let Leninskogo Kommunisticheckogo Soyuza Molodëzhi Kirgizii, Перевал Сорокa Лет Ленинскoгo Коммунистическoгo Союзa Молодёжи Киргизии
 Pereval Sugat
 Pereval Sukhuluk, Pereval Sukuluk
 Pereval Sulukurtka
@@ -3439,7 +3439,7 @@ Pik Tsyurupy
 Pik Zapadnyy Alamedin
 Piramida Peak, Pik Piramidal'nyy
 Pista-Mazar
-Podisho-Ota, Падыша-Ата
+Podisho-Ota, Padysha-Ata
 Podvodyashchiy Kanal
 Postun-Bulak
 Pskemskiy Khrebet, Khrebet Pskemski
@@ -3448,8 +3448,8 @@ Pychan, Pchan, Pehan
 Qastek Zhotasy, Kastekskiy Khrebet
 Qizilsu, Kizyl-Su, Kizöl-su, Kzyl-Su
 Qora Chatir Tog'lari
-Qora-Soy Dovon, Перевал Кара-Сай
-Qoradaryo, Kara-Daryya, Карадарья
+Qora-Soy Dovon, Pereval Kara-Say
+Qoradaryo, Kara-Daryya, Karadar'ya
 Qutyrghy Asūy, Pereval Kudarga, Pereval Kuturga
 Qyrghyz Zhotasy
 Ravat-Say, Ravot-Soy
@@ -3647,7 +3647,7 @@ Sasyk-Suu
 Sasykbashat
 Sasykbulak
 Satytor
-Sauksay, Сауксой
+Sauksay, Sauksoy
 Sauktur
 Savala
 Savoyardy, Савоярдын
@@ -3657,7 +3657,6 @@ Sayaz-Say
 Saybulak
 Saymaluu-Tash, Say-Mal-Tash
 Saz
-Seget
 Segettyu, Chon-Sugetty, Sogutty, Suguty
 Sek-Archa-Bulak
 Sek-Eshik-Say
@@ -3685,7 +3684,7 @@ Shaydan-Say, Shaydan
 Shchel' Kuvatkyshtau
 Shedvik-Say
 Sheng-li Feng, Hsin-han-t'eng-ko-li Feng, Hsin-t'eng-ko-li Feng, Jengish Chokusu, Peak Pobeda, Pik Pobedy, Victory Peak
-Shet Kayyndysay, Чет-Кайынгды-Сай
+Shet Kayyndysay, Chet-Kayyngdy-Say
 Shibe, Shibbe, Shily
 Shibee
 Shikimbay
@@ -3774,7 +3773,7 @@ Suuk-Dzhaylyau, Kara-Un, Suuk-Dzhayloo
 Suuk-Tër-Say
 Suuktor
 Suusamyr, Ssussamyr, Susamyr, Susamör
-Suusamyr Too, Khrebet Susamyr, Khrebet Susamyrtau, Khrebet Susamyrto, Khrebet Suusamyr, Sosamir Mountains, Susamör Tau Range, Хребет Суусамыр Тоо
+Suusamyr Too, Khrebet Susamyr, Khrebet Susamyrtau, Khrebet Susamyrto, Khrebet Suusamyr, Khrebet Suusamyr Too, Sosamir Mountains, Susamör Tau Range
 Suyek, Суек
 Suyektor, Суектор
 Suzak
@@ -3787,11 +3786,12 @@ Syrybulak
 Syurmë-Tash, Surmetash
 Syuttikuch
 Syuttubulak
+Sëget
 Sëgët-Say, Syogyot-Soy
 Tabylgylty, Табылгыты
 Taka
 Takyrtor
-Talas, Talas Oblasty, Talas Oblusu, Таласская Область
+Talas, Talas Oblasty, Talas Oblusu, Talasskaya Oblast'
 Talas Kanaly, Bol'shoy Talasskiy Kanal
 Talasskiy Rayon, Таласский
 Taldy
@@ -3947,7 +3947,7 @@ Turegel'dynsay
 Tureksu
 Turgain
 Turgenaksu, Turginaksu
-Turkestanskiy Khrebet, Khrebet Turkestanski, Türkstan Range, қаторкӯҳи Туркистон
+Turkestanskiy Khrebet, Khrebet Turkestanski, Qatorkŭhi Turkiston, Türkstan Range
 Turpe-Suu, Turpe-Su
 Turuk, Chal-Kil'dak
 Tushashu
@@ -3973,7 +3973,7 @@ Tuyuk-Say
 Tuyuk-Su
 Tuyuk-Suu
 Tuyuk-Tash
-Tuyuk-Ter
+Tuyuk-Tër
 Tuyukbaky
 Tuyukbogoshty, Tuyukbogoshtu, Туюбогошмы
 Tuyukkhodzhent
@@ -4149,7 +4149,6 @@ Urochishche Kazybek-Tash
 Urochishche Kek-Art
 Urochishche Kekkenkyu
 Urochishche Keklikbulak
-Urochishche Kel'
 Urochishche Kelintash
 Urochishche Khargush
 Urochishche Kichi-Sandyk
@@ -4190,6 +4189,7 @@ Urochishche Këk-Chagyr
 Urochishche Këk-Dzhantak-Say
 Urochishche Këk-Tash, Kyok-Tosh Urochishe
 Urochishche Këkbulak
+Urochishche Kël'
 Urochishche Kël'dambes, Keldambes Urochisha
 Urochishche Kël'deke
 Urochishche Lazvan, Lazvan Urochisha
@@ -4326,7 +4326,7 @@ Yan-Arir, Yan-Atyr
 Yanbulaksu, Янбклаксу
 Yangi-Aryk
 Yangi-Daban
-Yangiobod Ariq, Арык Янгигилян
+Yangiobod Ariq, Aryk Yangigilyan
 Yaryktash
 Yarylma
 Yashil'-Kël'

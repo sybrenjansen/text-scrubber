@@ -42,7 +42,6 @@ Binta Port
 Biombo, Biombo Region
 Bissau Region, Bissau, Bissau Autonomous Region
 Bissora Sector, Bissora
-Boe, Maduna de Boe
 Bolama, Bolama Region, Bolama and Bijagos
 Boual
 Boual Cachachar
@@ -51,6 +50,7 @@ Boual Cancamborom
 Boual Coaronco
 Boual Finjor
 Boual Vendu Bissafinare
+Boé, Maduna de Boe
 Buba
 Bubaque
 Bula
@@ -741,7 +741,6 @@ Rio Cada
 Rio Cadecane
 Rio Cadem
 Rio Cadumpã
-Rio Cael
 Rio Cafataque
 Rio Cafungaque
 Rio Cafungaqui
@@ -783,16 +782,16 @@ Rio Camaque
 Rio Camaquebom
 Rio Camassomba
 Rio Camba
-Rio Cambalã
 Rio Cambamba
 Rio Cambamã, Cambamam
 Rio Cambanfim
 Rio Cambasse
 Rio Cambofula
-Rio Cambula, Rio de Panchor
 Rio Cambulaol
+Rio Cambulã, Rio de Panchor
 Rio Cambumbaquem
 Rio Cambume Canchamane
+Rio Cambálà
 Rio Cambérè
 Rio Cambôdu, Cambudo
 Rio Camechade
@@ -816,7 +815,6 @@ Rio Campexe
 Rio Camporè
 Rio Campossa, Campossa, Rio Colufi
 Rio Campòssabane
-Rio Camudê, Rio Camudje
 Rio Canabem
 Rio Caname
 Rio Canassa
@@ -942,8 +940,8 @@ Rio Chebam, Rio Canenque
 Rio Chebe
 Rio Chernel
 Rio Cherre
-Rio Cheuleol
 Rio Cheulèfárà
+Rio Cheulèol
 Rio Cheuérè
 Rio Chibò
 Rio Chim Chimpá
@@ -1084,7 +1082,9 @@ Rio Cutinha
 Rio Cutusse
 Rio Cuxumpo
 Rio Cuxô
+Rio Càel
 Rio Cáchajà
+Rio Cámudè, Rio Camudje
 Rio Cápada
 Rio Cárimê, Carimo
 Rio Câbar
@@ -1169,12 +1169,11 @@ Rio Fafaje
 Rio Fafanga
 Rio Fagana
 Rio Fajábà
-Rio Fajã
 Rio Falcão, Rio de Encheia
 Rio Fancambera
 Rio Fanda
 Rio Fandauol, Fanda
-Rio Fanhare
+Rio Fanhárè
 Rio Fantabunsum
 Rio Fantasirem
 Rio Fantauol
@@ -1197,6 +1196,7 @@ Rio Fulacolom
 Rio Fulacundèum
 Rio Furobolom
 Rio Furube
+Rio Fájà
 Rio Fáluà
 Rio Gabame
 Rio Gabi
@@ -1264,7 +1264,7 @@ Rio Gãba
 Rio Gêba
 Rio Habi
 Rio Húià
-Rio Iafa
+Rio Iafà
 Rio Iama
 Rio Iambali
 Rio Iancambó
@@ -1355,7 +1355,7 @@ Rio Lama
 Rio Lamel, Rio Farincó
 Rio Lamouol, Rio Lamore
 Rio Lamudaiel
-Rio Lamudeel
+Rio Lamudêel
 Rio Languessapo
 Rio Lanqueri
 Rio Lanquinhé, Languine
@@ -1627,7 +1627,7 @@ Rio Pefiné
 Rio Peixe Areia, Rio Ganrinho
 Rio Penjã
 Rio Pequeno de São Domingos, Rio Pegueno de Sãd Domingos
-Rio Perarona
+Rio Perárona
 Rio Pessalã
 Rio Petum Conde
 Rio Petum Cutamaro
@@ -1680,7 +1680,6 @@ Rio Queiai
 Rio Queneco
 Rio Quenha
 Rio Quentem
-Rio Quenéuol
 Rio Quercabessam
 Rio Queruane, Rio Axe
 Rio Quesija
@@ -1701,6 +1700,7 @@ Rio Quirimane
 Rio Quitanjabô
 Rio Quèbube, Rio Balandugo
 Rio Quèbèjèum
+Rio Quènèuol
 Rio Quérol
 Rio Quêssano
 Rio Quêuol
@@ -1758,7 +1758,6 @@ Rio Sanjuma
 Rio Sansuno
 Rio Sapateiro, Buache
 Rio Sapo
-Rio Saque, Rio Sáqui
 Rio Saramaca
 Rio Sarampinta
 Rio Saréundè
@@ -1818,6 +1817,7 @@ Rio Suri
 Rio Sutumaca
 Rio Sàpundo
 Rio Sáchà
+Rio Sáque, Rio Sáqui
 Rio Sáquirè, Sakiri
 Rio Sãoer
 Rio Sèli, Rio Seli Seli
@@ -1859,7 +1859,7 @@ Rio Tesi
 Rio Tichaque
 Rio Tifemine
 Rio Timango
-Rio Timinco
+Rio Timincò
 Rio Timpa
 Rio Tinquilim, Patasse, Rio de Coache
 Rio Tiqui
@@ -2073,7 +2073,7 @@ Rio de Cancasso
 Rio de Canchema
 Rio de Cancubanhe
 Rio de Canema
-Rio de Canfara
+Rio de Canfarã
 Rio de Canhama
 Rio de Canhanque
 Rio de Canhida
@@ -2384,7 +2384,7 @@ Rio de Umaro Jai
 Rio de Unango
 Rio de Unche
 Rio de Uncómenè
-Rio de Áfia
+Rio de Áfià
 Rio do Reino de Jeta, Cor Ter, Jatt River, Rio Jata
 Rio Ábula
 Rio Álumo

@@ -1130,9 +1130,9 @@ Borova Čuka, Борова Чука
 Borovec, Боровец
 Borovi Dol
 Borovica, Боровица
-Borovik, Borović
 Borovička Češma, Боровичка Чешма
 Borovički Andak, Боровички Андак
+Boroviḱ, Borović
 Borovo
 Borovo Brdo
 Borovska Reka
@@ -1409,7 +1409,7 @@ Bugarija
 Bugarka
 Bugarska Čuka, Бугарска Чука
 Bugarski Grob
-Bugarski Kolibi, Bulgarske Kolibe, Бугарске Колибе
+Bugarski Kolibi, Bugarske Kolibe, Bulgarske Kolibe
 Bugarsko Sečište, Бугарско Сечиште
 Bugdašna Glava, Бугдашна Глава
 Buglevica, Буглевица
@@ -1446,7 +1446,7 @@ Bukovec, Bukovac, Буковец
 Bukovi Steni
 Bukovica, Буковица
 Bukovija
-Bukovik, Buković
+Bukoviḱ, Buković
 Bukovkračka Reka, Буковкрачка Река
 Bukovo
 Bukovo Ramno
@@ -1607,7 +1607,6 @@ Cera, Цера
 Cerak, Церак
 Ceremušana, Церемушана
 Cereševica, Cereševik Reka, Церешевица
-Cerešna, Церешна, Черешна
 Cerikata, Цериката
 Cerin Bor, Церин Бор
 Ceripašina Planina, Pašina Planina, Церипашина Планина
@@ -1677,10 +1676,10 @@ Crkveška Reka, Црквешка Река
 Crkveški Potoci, Црквешки Потоци
 Crkveški Rid, Црквешки Рид
 Crkvica, Црквица
-Crkvice, Црквице, Црквиче
 Crkvine, Црквенец, Црквине
 Crkvinska Korija, Црквинска Корија
 Crkvinska Reka, Црквинска Река
+Crkviče, Црквице, Црквиче
 Crkvička Reka, Црквичка Река
 Crkvički Rid, Црквички Рид
 Crkviški Andak, Црквишки Андак
@@ -1712,7 +1711,6 @@ Crnakot, Црнакот
 Crnata Ploča, Црната Плоча
 Crnata Prs, Црната Прс
 Crnatovo, Црнатово
-Crnec, Црнец, Чрнец
 Crnej Čuka, Црнеј Чука
 Crnelica, Црнелица
 Crnelka, Црнелка
@@ -1827,7 +1825,6 @@ Crvlja Voda, Црвља Вода
 Crvulak, Црвулак
 Crzarev Dol, Црзарев Дол
 Cucevi Kladenci, Цуцеви Кладенци
-Cucka, Цуцка, Чучка
 Cuckata, Цуцката
 Cuckite, Цуцките
 Cucovo, Цуцово
@@ -1835,7 +1832,6 @@ Cucu, Цуцу
 Cucul, Цуцул
 Cucul Kapa, Цуцул Капа
 Cucula, Цуцула
-Cucule, Цуцуле, Чучуле
 Cuculec, Цуцулец
 Cuculeo, Цуцулео
 Cuculest Kamen, Цуцулест Камен
@@ -1976,7 +1972,7 @@ Davčevo Trlo, Давчево Трло
 Daš Kondu, Даш Конду
 Daštica, Dapštica, Даштица
 Daštički Rid, Даштички Рид
-De Čami, Де Ќами, Де Чами
+De Čami, De Ḱami, Де Чами
 Debar, Opština Debar, Општина Дебар
 Debarca, Debarca Municipality, Debrca, Gornja Debrca, Opština Debarca, Дебарца, Дебрца, Општина Дебарца, Општина Дебрца
 Debarski Pat
@@ -2403,7 +2399,7 @@ Dolni Izvor
 Dolni Jabel
 Dolni Kabair
 Dolni Kamen
-Dolni Kolibi, Долне Колибе
+Dolni Kolibi, Dolne Kolibe
 Dolni Kozjak
 Dolni Krajni Nivi
 Dolni Kutli
@@ -2599,7 +2595,7 @@ Drenovi Delci, Дренови Делци
 Drenovica, Дреновица
 Drenoviot Rid
 Drenovka
-Drenovo, Дрењево
+Drenovo, Drenjevo
 Drenovo Dolče, Дреново Долче
 Drenovska Klisura
 Drenovski Preslap, Drenovski Preslop
@@ -2843,7 +2839,7 @@ Dvorničevi Širini, Дворничеви Ширини
 Dzidan Pat
 Dzidano Gumno
 Dzvegor
-Dzverinje, Dzverine, Звериње
+Dzverinje, Dzverine, Zverinje
 Dzvezda, Zvezda
 Dzvezdin Kladenec, Ѕвездин Кладенец
 Dzvezdina Čuka, Ѕвездина Чука
@@ -3245,13 +3241,8 @@ Geleva Češma, Гелева Чешма
 Gelevica, Гелевица
 Gendžov Rid, Генџов Рид
 Genosoj
-Geram
-Geramidnica, Ѓерамидница
-Geran
-Geranite
 Geranka
 Gerem
-Geren, Đeren
 Gereni
 Gereno
 Gerenski Čair, Геренски Чаир
@@ -3309,7 +3300,7 @@ Glava
 Glava Niva
 Glavana
 Glavata, Glavala
-Glavi, Орта Тепе
+Glavi, Orta Tepe
 Glavica, Главица
 Glavinica, Главиница
 Glavino Selo
@@ -3423,7 +3414,7 @@ Golem Kamen, Gulina, Gulina Kamen
 Golem Karadag, Kara Dag
 Golem Kladenec, Голем Кладенец
 Golem Kojarnik
-Golem Korab, Korabi, Maja e Koabit, Mal i Korabit, Mount Korab, Кораб
+Golem Korab, Korab, Korabi, Maja e Koabit, Mal i Korabit, Mount Korab
 Golem Kosmatec, Голем Косматец
 Golem Krpirid
 Golem Kuturov Dol
@@ -3450,7 +3441,7 @@ Golem Vlas
 Golem Vrv
 Golem Čair, Голем Чаир
 Golem Čukar, Голем Чукар
-Golem Žeden, Водени Камен, Голем Жеден
+Golem Žeden, Vodeni Kamen, Голем Жеден
 Golema Brežajnca, Голема Брежајнца
 Golema Crkva, Голема Црква
 Golema Dupka
@@ -3461,7 +3452,7 @@ Golema Gorica, Голема Горица
 Golema Gramada
 Golema Griva
 Golema Javorica, Голема Јаворица
-Golema Kaljaja, Велика Каљаја
+Golema Kaljaja, Velika Kaljaja
 Golema Karpa
 Golema Kitka
 Golema Korija, Velika Korija
@@ -3472,9 +3463,9 @@ Golema Kruša, Голема Круша
 Golema Kula
 Golema Liska
 Golema Livada
-Golema Mega, Golema Megja, Golema Međa
 Golema Megdanica, Голема Мегданица
 Golema Metalica, Голема Металица
+Golema Meǵa, Golema Megja, Golema Međa
 Golema Niva
 Golema Njiva
 Golema Ornica, Голема Орница
@@ -3557,7 +3548,6 @@ Goli Rid
 Goli Ridički, Голи Ридички
 Goli Vrv, Goli Vrh
 Goli Čuki, Голи Чуки
-Golik, Golic, Čupino
 Golina, Vratničko Ezero, Вратничко Езеро
 Golina Dupenska
 Golinata
@@ -3571,6 +3561,7 @@ Goliot Krk
 Goliot Rid
 Goliovo
 Goliš, Голиш
+Goliḱ, Golic, Čupino
 Goljacite, Гољаците
 Goljak
 Goljački Dol, Гољачки Дол
@@ -3717,7 +3708,7 @@ Gorni Lag
 Gorni Lak
 Gorni Listoec, Горни Листоец
 Gorni Livadi
-Gorni Livage, Gorni Livađe, Gorno Livađe
+Gorni Livaǵe, Gorni Livađe, Gorno Livađe
 Gorni Logoi
 Gorni Lopušnik, Gornji Lopušnik, Горни Лопушник
 Gorni Lozja
@@ -3921,10 +3912,10 @@ Gramadnički Potok, Грамаднички Поток
 Gramadski Andak
 Gramadski Potok
 Gramadski Rid
-Gramage
 Gramagite
 Gramatnica, Граматница
 Gramašnica, Грамашница
+Gramaǵe
 Gramoda
 Gramos
 Granica, Граница
@@ -3998,9 +3989,9 @@ Grm
 Grmada
 Grmadi
 Grmadnik
-Grmage
 Grmageto, Grmagjeto
 Grmaite
+Grmaǵe
 Grmešnica, Грмешница
 Grmo
 Grmot
@@ -4158,7 +4149,6 @@ Guri Torec, Гури Торец
 Guri i Ajres
 Guri i Azazit
 Guri i Bajramit
-Guri i Bard, Đuri i Bard
 Guri i Beḱes
 Guri i Brezit
 Guri i Džipit, Гури и Џипит
@@ -4168,7 +4158,6 @@ Guri i Hadžis, Гури и Хаџис
 Guri i Heljmit, Гури и Хељмит
 Guri i Isakut
 Guri i Keḱ, Guri i Keć
-Guri i Mad, Đuri i Mad
 Guri i Nguljt
 Guri i Sinanec, Гури и Синанец
 Guri i Ukut
@@ -4355,7 +4344,7 @@ Ispraven Kamen
 Istevnički Rid, Истевнички Рид
 Isti Kamen
 Istibansko Pole
-Istok, Планина Исток
+Istok, Planina Istok
 Istočka Reka, Источка Река
 Ivan Dol
 Ivan Tor
@@ -4553,7 +4542,7 @@ Jarbaš, Јарбаш
 Jardarski Poroj
 Jardere
 Jareb
-Jarebina, Jerebino, Еребино
+Jarebina, Erebino, Jerebino
 Jarebinec, Јаребинец
 Jarebički Kamen, Јаребички Камен
 Jarebičova Voda, Јаребичова Вода
@@ -4728,7 +4717,7 @@ Juručki Grobišta, Јуручки Гробишта
 Jusedžik, Јусеџик
 Jusek, Juse Kurija
 Jusek Bair
-Jusek Tepe, Јусек Тепеси
+Jusek Tepe, Jusek Tepesi
 Jusova Češma, Јусова Чешма
 Jusuf Korija
 Jusufica, Јусуфица
@@ -4831,7 +4820,7 @@ Kaldrma Dere
 Kaldrmata
 Kaldrmci, Калдрмци
 Kaldrmče, Калдрмче
-Kale, Kale Baničko, Kičevsko Kale, Китино Кале, Кичевско Кале, Лојза
+Kale, Kale Baničko, Kitino Kale, Kičevsko Kale, Lojza, Кичевско Кале
 Kale Beluško, Кале Белушко
 Kale Tepe
 Kaleica, Калеица
@@ -4889,15 +4878,15 @@ Kalova Glava
 Kalta
 Kaluckovo, Калуцково
 Kaluga
-Kaluger, Kaluđer
 Kalugera
-Kalugeri
-Kalugerica, Kaluđerica, Калугерица
 Kalunica, Kulunica, Калуница
 Kalusovec, Калусовец
 Kalutin Dol
+Kaluǵer, Kaluđer
 Kaluǵere
 Kaluǵerec, Калуѓерец
+Kaluǵeri
+Kaluǵerica, Kaluđerica, Калугерица
 Kaluǵerka
 Kaluǵerov Dol, Kaluđerov Dol
 Kaluǵerov Kamen
@@ -5084,10 +5073,10 @@ Karabučak Češma, Карабучак Чешма
 Karadele
 Karadelski Potok
 Karadere
-Karadzica, Karadjitse Planina, Караџица
 Karadža, Караџа
 Karadža Niva, Караџа Нива
 Karadžev Valok, Караџев Валок
+Karadžica, Karadjitse Planina, Караџица
 Karadžin Krst, Караџин Крст
 Karadžina Mlaka, Караџина Млака
 Karadžina Češma, Караџина Чешма
@@ -5106,7 +5095,7 @@ Karakašica, Каракашица
 Karakol
 Karakolnica, Караколница
 Karakur Dere
-Karakus, Каракуш
+Karakuš, Каракуш
 Karakuš Jeri, Каракуш Јери
 Karalazoj
 Karaleoski Livadi
@@ -5342,7 +5331,6 @@ Ker
 Kerališta, Кералишта
 Keramida
 Keramidarnica, Керамидарница
-Keramidnica, Ćeramidnica, Керамидница
 Kerezli
 Kerezlija
 Kerim Čuka, Керим Чука
@@ -5396,9 +5384,7 @@ Kiselica, Киселица
 Kiselička Reka, Киселичка Река
 Kiselički Rid, Киселички Рид
 Kiselski Dol
-Kiska, Кишка
 Kiskana Podviška, Кискана Подвишка
-Kiski
 Kit
 Kita
 Kitanovski Izvor
@@ -5408,7 +5394,6 @@ Kitin Čukar, Китин Чукар
 Kitina Češma, Китина Чешма
 Kitinski Dol
 Kitka
-Kitkata
 Kitke
 Kivčeno Dapče, Кивчено Дапче
 Kičarica, Кичарица
@@ -5423,6 +5408,7 @@ Kiša, Киша
 Kiša e Pr, Киша е Пр
 Kišavska Reka, Кишавска Река
 Kiševica, Кишевица
+Kiška, Кишка
 Kišladere, Кишладере
 Kišnica, Кишница
 Kišter, Киштер
@@ -5561,7 +5547,7 @@ Kodra Rep
 Kodra Stan
 Kodra Stanes
 Kodra Stom
-Kodra Taurli, Таул
+Kodra Taurli, Taul
 Kodra Trla
 Kodra Ušajna, Kodrušajnac, Кодра Ушајна
 Kodra e Bajramit
@@ -6336,7 +6322,6 @@ Kromidarevac, Кромидаревац
 Kroni Koljes
 Krotot
 Krpen Dol
-Krs, Крш
 Krst
 Krst Bair
 Krst Čuka, Крст Чука
@@ -6424,6 +6409,7 @@ Krčeljak, Крчељак
 Krčevina, Крчевина
 Krčik Češma, Крчик Чешма
 Krčmarica, Крчмарица
+Krš, Крш
 Krši Ralo, Крши Рало
 Kršikola, Кршикола
 Kršiser, Кршисер
@@ -6462,7 +6448,6 @@ Kuklea
 Kuklište, Куклиште
 Kukudarka
 Kukudina
-Kukul, Kukolj
 Kukulajca, Кукулајца
 Kukulatka
 Kukulca Srt, Кукулца Срт
@@ -6488,7 +6473,6 @@ Kulakova Livada
 Kulata
 Kulaševa Livada, Кулашева Ливада
 Kulde
-Kule
 Kulev Dol
 Kulev Krst
 Kuli
@@ -6696,7 +6680,7 @@ Lakatska Reka
 Lakavica, Лакавица
 Lakavička Reka, Лакавичка Река
 Lake Ohrid, Lago di Ohrida, Lake Ochrida, Lake Okhrid, Limnē Akhridos, Limnē Akhris, Liqen i Ohrit, Liqen' i Ohris, Liqeni i Ohrit, Lychnidus, Lychnitis, Ohrida, Ohrida-See, Ohridsco-Jezero, Ohridsko Ezero, Ohridsko Jezero, Ohridsko Lake, Okhri Gölü, Yezero Okhridsko, Охридско Езеро, Охридско језеро
-Lake Prespa, Golema Prespa, Lago di Presba, Lago di Prespa, Limni Megale, Limnē Prespa, Liqen i Presbës, Liqen i Prespë, Liqeni i Presbës, Liqeni i Prespes se Madhe, Liqeni i Prespës, Límni Megáli Préspa, Líni Megáli Préspa, Presba Lake, Presba gölü, Presba-See, Prespa e Madhe, Prespansco-Jezero, Prespansko Jezero, Prespansko Lake, Prespansko Yezero, Prespansko Yiezero, Prespasee, Преспанско Езеро
+Lake Prespa, Golema Prespa, Lago di Presba, Lago di Prespa, Limni Megale, Limnē Prespa, Liqen i Presbës, Liqen i Prespë, Liqeni i Presbës, Liqeni i Prespes se Madhe, Liqeni i Prespës, Límni Megáli Préspa, Líni Megáli Préspa, Presba Lake, Presba gölü, Presba-See, Prespa e Madhe, Prespansco-Jezero, Prespansko Ezero, Prespansko Jezero, Prespansko Lake, Prespansko Yezero, Prespansko Yiezero, Prespasee
 Lakevski Dol
 Laki
 Lakite
@@ -6744,7 +6728,6 @@ Lazevi
 Lazi
 Lazi i Zejnelit
 Lazina
-Lazišta, Лажишта, Лазишта
 Lazje
 Lazoj
 Lazoje
@@ -6767,6 +6750,7 @@ Lačnik, Lašnik, Лачник
 Laški Gnoj, Лашки Гној
 Laštovo, Лаштово
 Lažane, Лажане
+Lažišta, Лажишта, Лазишта
 Laḱeva Tumba, Lateva Tumba
 Lebarica, Лебарица
 Lebnik
@@ -6780,7 +6764,6 @@ Legala
 Legovec, Леговец
 Legovo
 Lekar
-Lekište, Леќиште
 Lekojta Voda
 Lekovita Voda
 Lekovo
@@ -6816,7 +6799,6 @@ Leska
 Leskarovski Rid
 Leskata
 Leskavec, Лескавец
-Leski, Лешки
 Leskite
 Leskoec, Лескоец
 Leskoica, Лескоица
@@ -6836,9 +6818,8 @@ Leskovski Breg
 Leskovsko Pole, Leskosko Pole
 Lesnik, Ljesnik
 Lesničeto, Лесничето
-Lesnička Reka, Лесничка Река, Лешничка Река
 Lesničko Pole, Лесничко Поле
-Lesnovski Rid, Лесноски Рид
+Lesnovski Rid, Lesnoski Rid
 Lesoci, Лесоци
 Lesoski Dol
 Lesov Andak
@@ -6865,11 +6846,13 @@ Lečka, Лечка
 Lečka Padina, Лечка Падина
 Lešanska Reka, Лешанска Река
 Leševec, Лешевец
+Leški, Лешки
 Leškova Osoj, Лешкова Осој
 Lešna Preslop, Лешна Преслоп
 Lešni Dol, Лешни Дол
 Lešnica, Лешница
 Lešniče, Лешниче
+Lešnička Reka, Лесничка Река, Лешничка Река
 Lešočka Reka, Лешочка Река
 Leštarnik, Лештарник
 Leštevo, Лештево
@@ -6877,6 +6860,7 @@ Leštevski Dol, Лештевски Дол
 Leštišta, Лештишта
 Leštište, Лештиште
 Leščica, Лешчица
+Leḱište, Лекиште
 Leḱov Kamen, Lećov Kamen
 Ligajca, Лигајца
 Ligat
@@ -6931,8 +6915,8 @@ Lipova Čuka, Липова Чука
 Lipovdolska Reka
 Lipovec, Липовец
 Lipovica, Липовица
-Lipovik, Lipović
 Lipovička Reka, Липовичка Река
+Lipoviḱ, Lipović
 Lipovski Dol
 Lipska Reka
 Lipsko Brdo
@@ -6940,8 +6924,8 @@ Lipuška, Липушка
 Lipčani, Липчани
 Lipčeto, Липчето
 Lira
-Lisac
 Lisaja
+Lisač
 Lisec, Lisca, Лисец
 Lisenj
 Lisečka Reka, Лисечка Река
@@ -6992,15 +6976,15 @@ Livadite
 Livadička Reka, Ливадичка Река
 Livadišta, Ливадишта
 Livadište, Ливадиште
-Livadni Orman, Ливадни Ормани
+Livadni Orman, Livadni Ormani
 Livadski Dol
 Livadski Pat
 Livadski Potoci, Ливадски Потоци
 Livadski Potok
-Livage, Livaze
 Livajca, Ливајца
 Livatka
 Livatkite
+Livaǵe, Livaze
 Ličaj, Личај
 Ličan, Личан
 Ličeva Niva, Личева Нива
@@ -7127,8 +7111,6 @@ Lozensko Brdo
 Lozin Potok
 Lozina
 Lozite
-Lozišta, Ложишта, Лозишта
-Lozište, Ложиште, Лозиште
 Lozja
 Lozjanska Reka
 Lozjarski Rid
@@ -7151,6 +7133,8 @@ Loš Kamen, Лош Камен
 Loša Leska, Лоша Леска
 Lošana, Oljšina, Лошана
 Lošanski Rid, Лошански Рид
+Ložišta, Ложишта, Лозишта
+Ložište, Ложиште, Лозиште
 Luben, Ljuben
 Lubenica, Лубеница
 Lubnica, Лубница
@@ -7230,7 +7214,6 @@ Magarevo
 Magarečka, Магаречка
 Magarečki Dol, Магаречки Дол
 Magareški Dol, Магарешки Дол
-Magarica, Mađarica, Маѓарица
 Magaro
 Magaroska Reka
 Magdina Koliba
@@ -7441,9 +7424,9 @@ Maloto Korito
 Maloviška Reka, Маловишка Река
 Malčev Rid, Малчев Рид
 Mamačov Rid, Мамачов Рид
-Mamin, Mamino Brdo, Момино Брдо
+Mamin, Mamino Brdo, Momino Brdo
 Mamino
-Maminska Reka, Моминска Река
+Maminska Reka, Mominska Reka
 Mamiš Kuzi, Мамиш Кузи
 Mamudica, Мамудица
 Mamudov Čair, Мамудов Чаир
@@ -7601,7 +7584,6 @@ Mas Kodra
 Mas Rogove
 Masakoec, Масакоец
 Masakovica, Масаковица
-Masatlak, Машатлак
 Masguri
 Maska Tundi
 Maskarevec, Маскаревец
@@ -7673,6 +7655,7 @@ Mačnički Dol, Мачнички Дол
 Mačuka, Мачука
 Mačukovo, Мачуково
 Mašarlija, Машарлија
+Mašatlak, Машатлак
 Mašatlok, Машатлок
 Mašatluk, Машатлук
 Maška Petra, Машка Петра
@@ -7681,6 +7664,7 @@ Maškovec, Машковец
 Maštejnca, Маштејнца
 Mažon, Мажон
 Maǵar Livade
+Maǵarica, Mađarica, Магарица
 Maǵilica, Mađilica, Маѓилица
 Maǵoa Livada, Mađoa Livada
 Maǵuteze, Mađuteze
@@ -7688,7 +7672,6 @@ Maḱište, Маќиште
 Mbas Kodre
 Mbi Gur
 Meanica, Меаница
-Meckin Dol, Мечкин Дол
 Meda e Made
 Medak
 Medarica, Медарица
@@ -7786,7 +7769,6 @@ Metovica, Метовица
 Mezalak
 Mezara
 Mezarki Ardi
-Mezarlak, Межарлак
 Mezarlak Dere
 Mezdra
 Mezerlak
@@ -7816,6 +7798,7 @@ Mečkarnik, Мечкарник
 Mečkarov Kamen, Мечкаров Камен
 Mečkarov Rid, Мечкаров Рид
 Mečkarski Rid, Мечкарски Рид
+Mečkin Dol, Мечкин Дол
 Mečkin Izvor, Мечкин Извор
 Mečkin Kamen, Мечкин Камен
 Mečkin Rid, Мечкин Рид
@@ -7841,6 +7824,7 @@ Mešeli Burun, Мешели Бурун
 Mešijani, Мешијани
 Meškojca, Мешкојца
 Mešnik, Мешник
+Mežarlak, Межарлак
 Meždite, Междите
 Meǵa, Međa
 Meǵnik, Međnik
@@ -8016,13 +8000,13 @@ Mladenova Osojnica, Младенова Осојница
 Mladenova Voda
 Mladinski Kanal
 Mlaka
-Mlake
 Mlaki
 Mlakin Kamen
 Mlakot
 Mlati Kučka, Млати Кучка
 Mlačište, Млачиште
 Mlačje, Млачје
+Mlaḱe
 Mlečanska Reka, Млечанска Река
 Mlečka, Млечка
 Mlečki, Млечки
@@ -8533,23 +8517,23 @@ Opština Dojran, Star Dojran, Општина Дојран
 Opština Karpoš, Karposh, Karpoš, Општина Карпош
 Opština Kičevo, Kichevo, Kičevo, Општина Кичево
 Opština Konče, Konche, Konče, Општина Конче
-Opština Kočani, Kočani, Кочани, Општина Кочани
-Opština Krivogaštani, Krivogaštani, Кривогаштани, Општина Кривогаштани
-Opština Kruševo, Kruševo, Крушево, Општина Крушево
+Opština Kočani, Kochani, Kočani, Општина Кочани
+Opština Krivogaštani, Krivogashtani, Krivogaštani, Општина Кривогаштани
+Opština Kruševo, Krushevo, Kruševo, Општина Крушево
 Opština Lipkovo, Lipkovo, Општина Липково
-Opština Mavrovo i Rostuša, Mavrovo and Rostuša, Mavrovo and Rostuša Municipality, Mavrovo i Rostuša, Opština Rostuša, Маврово и Ростуша, Општина Маврово и Ростуша
+Opština Mavrovo i Rostuša, Mavrovo and Rostuša, Mavrovo and Rostuša Municipality, Mavrovo i Rostusha, Mavrovo i Rostuša, Opština Rostuša, Општина Маврово и Ростуша
 Opština Pehčevo, Pehchevo, Pehčevo, Општина Пехчево, Пехчево
-Opština Probištip, Probištip, Општина Пробиштип, Пробиштип
+Opština Probištip, Probishtip, Probištip, Општина Пробиштип
 Opština Radoviš, Radovish, Radoviš, Општина Радовиш
 Opština Rankovce, Rankovce, Општина Ранковце
 Opština Sopište, Општина Сопиште, Сопиште
-Opština Staro Nagoričane, Staro Nagoričane, Општина Старо Нагоричане, Старо Нагоричане
-Opština Studeničani, Studeničani, Општина Студеничани, Студеничани
-Opština Vevčani, Vevčani, Вевчани, Општина Вевчани
+Opština Staro Nagoričane, Staro Nagorichane, Staro Nagoričane, Општина Старо Нагоричане
+Opština Studeničani, Studenichani, Studeničani, Општина Студеничани
+Opština Vevčani, Vevchani, Vevčani, Општина Вевчани
 Opština Vraneštica, Vraneštica, Вранештица, Општина Вранештица
 Opština Vrapčište, Vrapchishte, Vrapčište, Општина Врапчиште
 Opština Čaška, Chashka, Čaška Municipality, Општина Чашка
-Opština Čučer-Sandevo, Čučer-Sandevo, Општина Чучер-Сандево, Чучер-Сандево
+Opština Čučer-Sandevo, Chucher Sandevo, Čučer-Sandevo, Општина Чучер-Сандево
 Opština Štip, Shtip, Štip, Општина Штип
 Opština Želino, Zhelino, Želino, Општина Желино
 Orah, Орах
@@ -8682,8 +8666,8 @@ Ormanoec, Орманоец
 Ormanski Andak
 Ornica, Орница
 Ornicata, Орницата
-Ornice, Орнице, Орниче
 Ornici, Орници
+Orniče, Орнице, Орниче
 Orničeto, Орничето
 Orničev Kamen, Орничев Камен
 Ornički Dol, Орнички Дол
@@ -8754,10 +8738,8 @@ Osovo
 Osredak
 Ostra Strana
 Ostra Tumba
-Ostra Čuka, Остра Чука, Оштра Чука
 Ostra Čukara, Oštra, Остра Чукара
 Ostrata Skrka
-Ostrec, Ostrei, Острец, Оштрец
 Ostrecka Reka, Острецка Река
 Ostreco, Острецо
 Ostrel Mogila
@@ -8773,7 +8755,6 @@ Ostrikite
 Ostrilata
 Ostrilci, Острилци
 Ostrilcine, Острилцине
-Ostrilec, Острилец, Оштрилец
 Ostrilo
 Ostriloto, Ostriota
 Ostrilska Reka
@@ -8816,7 +8797,10 @@ Oča, Kozjak Reservoir, Oča Reka, Оча
 Očipalska Reka, Očipaljska Reka, Очипалска Река
 Ošlak, Ошлак
 Ošli Dol, Ошли Дол
+Oštra Čuka, Остра Чука, Оштра Чука
+Oštrec, Ostrei, Острец, Оштрец
 Oštric, Оштриц
+Oštrilec, Острилец, Оштрилец
 Oǵinica, Оѓиница
 Pabolski Dol
 Padalica, Падалица
@@ -9025,7 +9009,7 @@ Paǵe
 Pecanov Kotar, Пецанов Котар
 Pecov Čukar, Пецов Чукар
 Pecova Češma, Пецова Чешма
-Pecovo Ḱule, Pecovo Čule, Пецово Ќуле
+Pecovo Ḱule, Pecovo Ćule, Пецово Ќуле
 Pecunli Vrv, Пецунли Врв
 Peja Livada
 Pejakovica, Пејаковица
@@ -9114,7 +9098,7 @@ Pervanica, Перваница
 Perči Kulbasi, Перчи Кулбаси
 Perčulica, Перчулица
 Pesak
-Pesaklište, Песаклиште, Прлисат
+Pesaklište, Prlisat, Песаклиште
 Pesičino Brdo, Песичино Брдо
 Pesja Čuka, Песја Чука
 Pesjak
@@ -9397,7 +9381,7 @@ Plošta, Плошта
 Ploštak, Плоштак
 Ploštevec, Плоштевец
 Ploščica, Плошчица
-Plugovi, Плугој
+Plugovi, Plugoj
 Plugovina
 Pluska
 Pluta
@@ -9497,7 +9481,7 @@ Poljakov Rid
 Poljakovo Brdo
 Poljanata
 Poljani
-Poljanica, Пољаница
+Poljanica, Полјаница
 Poljanite
 Poljanska Reka
 Polog, Pollogu, Polog Statistical Region, Полошки регион
@@ -9699,7 +9683,7 @@ Presečki Rid, Пресечки Рид
 Preskakulica, Прескакулица
 Preslap
 Preslapot
-Preslop, Перслоп
+Preslop, Perslop
 Preslopna
 Presn Torba
 Presnički Rid, Преснички Рид
@@ -9790,7 +9774,7 @@ Proi i Brodecit, Прои и Бродецит
 Proi i Bukavenit
 Proi i Dušes s Keče, Прои и Душес с Кече
 Proi i Duškut, Прои и Душкут
-Proi i Fel, Дубока Река
+Proi i Fel, Duboka Reka
 Proi i Gramandes
 Proi i Gurit t Bard
 Proi i Isakut
@@ -10165,13 +10149,13 @@ Ramčeva Tumba, Рамчева Тумба
 Ramčojca, Рамчојца
 Ranavec, Ranvec, Ранавец
 Ranenče, Раненче
-Rangel, Ranđel
 Ranica, Раница
 Rankovec, Ранковец
 Ranopir
 Rančenska Reka, Ранченска Река
 Rančenski Rid, Ранченски Рид
 Rančevica, Ранчевица
+Ranǵel, Ranđel
 Raor
 Raovo
 Rapa Male
@@ -10612,7 +10596,6 @@ Saltanica, Салтаница, Султаница
 Sam Grm
 Sama Buka
 Sama Bukva
-Samaci, Самаци, Шамаци
 Samakovo
 Samanica, Саманица
 Samar
@@ -10764,7 +10747,6 @@ Selsko Gumno
 Selsko Kamenje
 Selsko Rečište, Селско Речиште
 Selsko Trlo
-Semenica, Семеница, Шеменица
 Semenski Grobišta, Семенски Гробишта
 Semer
 Senečka Planina, Сенечка Планина
@@ -10818,7 +10800,6 @@ Simona
 Simonica, Симоница
 Simonova Čuka, Симонова Чука
 Simonska Rupa
-Simova Češma, Симова Чешма, Шимова Чешма
 Simsis
 Sin Grad
 Sina Voda
@@ -10844,7 +10825,6 @@ Sinornica, Синорница
 Sinsko Pole
 Sipačan, Сипачан
 Sipičanska Reka, Сипичанска Река
-Sipje, Шипје
 Sirakojca, Сиракојца
 Siratka
 Sirava, Sirava Reka
@@ -10862,7 +10842,7 @@ Sitna
 Sitnica, Ситница
 Sitojca, Ситојца
 Siva Kobila
-Siva Stena, Сива Страна
+Siva Stena, Siva Strana
 Siva Voda
 Siva Češma, Сива Чешма
 Siva Čuka, Сива Чука
@@ -10928,7 +10908,7 @@ Skoruša, Скоруша
 Skovran
 Skočac, Скочац
 Skočirka, Скочирка
-Skočivirska Klisura, Мариовска Клисура, Скочивирска Клисура
+Skočivirska Klisura, Mariovska Klisura, Скочивирска Клисура
 Skočki Rid, Скочки Рид
 Skočkov Rid, Скочков Рид
 Skrdina
@@ -10938,7 +10918,6 @@ Skrebatska Reka
 Skriena Polena
 Skriena Poljana
 Skrima
-Skrka, Шкрка
 Skrka di Brce, Скрка ди Брце
 Skrka di Palja
 Skrkalec, Скркалец
@@ -11022,11 +11001,11 @@ Slivnička Reka, Сливничка Река
 Slivoviḱ
 Slivče, Сливче
 Sloeštička Reka, Слоештичка Река
-Sloge, Slođe
 Slogoj
 Slogovi
 Slonec, Слонец
 Složnata Osojnica, Сложната Осојница
+Sloǵe, Slođe
 Slp
 Slpska Korija
 Slpski Potok
@@ -11118,7 +11097,6 @@ Smrdlivo Dolče, Смрдливо Долче
 Smrdlivoda
 Smrdljiva Voda
 Smrdulka
-Smreka, Smreća
 Smreke
 Smrekeš, Смрекеш
 Smreki
@@ -11130,7 +11108,7 @@ Smreko Brce, Смреко Брце
 Smrekoec, Смрекоец
 Smrekova Čuka, Смрекова Чука
 Smreče, Смрече
-Smrk, Шмрк
+Smreḱa, Smreća
 Smrkovi
 Smrkovo
 Smrtnica, Смртница
@@ -11658,7 +11636,7 @@ Strmna Osojnica, Стрмна Осојница
 Strmna Voda
 Strmni Garoj
 Strmni Osoj
-Strmnica, Луковски Камен, Стрмница
+Strmnica, Lukovski Kamen, Стрмница
 Strmol, Стрнол
 Strmoštica, Стрмоштица
 Strnana
@@ -11687,8 +11665,6 @@ Strči Kamen, Srtčki Kamen, Сртчки Камен, Стрчи Камен
 Strčin, Стрчин
 Strčka, Стрчка
 Strčkovica, Стрчковица
-Stubel, Штубел
-Stubelo, Штубело
 Studen Izvor
 Studen Kladenec, Студен Кладенец
 Studen Klajnec, Студен Клајнец
@@ -11747,7 +11723,6 @@ Suljov Grob
 Suljčo, Суљчо
 Sulo Trlo
 Sulo Ǵubre, Sulo Đubre
-Suloja, Шулоја
 Sulov Dol
 Sultan Potok
 Sultanica
@@ -12028,7 +12003,7 @@ Tenekedžica, Тенекеџица
 Tenka Brčina, Тенка Брчина
 Tenka Ridina
 Tenki Pat
-Tenki Rid, Тенкио Рид
+Tenki Rid, Tenkio Rid
 Tenkiot Sredok
 Tenko Bilo
 Tepanče, Тепанче
@@ -12140,12 +12115,12 @@ Topla Voda
 Toplec, Топлец
 Topli Dol
 Topli Vir
-Toplik
 Toplička Korija, Топличка Корија
 Toplički Dol, Топлички Дол
 Toplički Rid, Топлички Рид
 Toplišnica, Топлишница
 Toplište, Топлиште
+Topliḱ
 Topol Rid
 Topol Taš, Топол Таш
 Topola
@@ -12262,7 +12237,7 @@ Tri Dabici, Три Дабици
 Tri Dola
 Tri Duba
 Tri Gornici, Три Горници
-Tri Izvori, Три Извора
+Tri Izvori, Tri Izvora
 Tri Jasiki
 Tri Javora
 Tri Kladenca, Три Кладенца
@@ -12291,7 +12266,7 @@ Trizla
 Trički Rid, Трички Рид
 Tričkoski Kolibi, Тричкоски Колиби
 Tričkovec, Тричковец
-Trkajna, Тркања
+Trkajna, Trkanja
 Trkališče, Тркалишче
 Trkaljavište, Тркаљавиште
 Trkanska Reka
@@ -13321,7 +13296,7 @@ Vržin Dol, Вржин Дол
 Vržišta, Вржишта, Лисички Дол
 Vtori Maj
 Vtosina
-Vuevska Karpa, Вујевска Карпа
+Vuevska Karpa, Vujevska Karpa
 Vujlica, Вујлица
 Vujna Strana
 Vujnov Rid
@@ -13432,7 +13407,7 @@ Zapadon, Zapade
 Zapetkojca, Запеткојца
 Zaplat
 Zapolska Reka
-Zapolski Rid, Заполшки Рид
+Zapolški Rid, Заполшки Рид
 Zapolžica, Заполжица
 Zaporska Reka
 Zapotok
@@ -13494,7 +13469,6 @@ Zelenički Rid, Зеленички Рид
 Zelenište, Зелениште
 Zelenka
 Zeleno Brdo
-Zelka, Желка
 Zelkaroec, Zelkarovec, Зелкароец
 Zelkata
 Zelnička Polena, Зелничка Полена
@@ -13690,7 +13664,7 @@ hidrosistem varos prilep
 Čartojca, Чартојца
 Čaršija, Чаршија
 Čatal, Чатал
-Čatal Česma, Чатал Чешма
+Čatal Češma, Чатал Чешма
 Čatalski Potok, Чаталски Поток
 Čatilica, Чатилица
 Čatino, Čatena, Чатино
@@ -13786,12 +13760,13 @@ hidrosistem varos prilep
 Čepur, Чепур
 Čerava, Черава
 Čeren, Черен
-Čerenaeca, Грипа, Черенаеца
+Čerenaeca, Gripa, Черенаеца
 Čerenec, Черенец
 Čereništa, Череништа
 Čerenoec, Череноец
 Čerenski Rid, Черенски Рид
 Čerešite, Черешите
+Čerešna, Церешна, Черешна
 Čergo Niva, Черго Нива
 Čergovi Ramnaci, Чергови Рамнаци
 Čerkeski Nivi, Черкески Ниви
@@ -13911,6 +13886,7 @@ hidrosistem varos prilep
 Čovjana, Човјана
 Čošok, Чошок
 Črnak, Чрнак
+Črnec, Црнец, Чрнец
 Čubrovo, Чуброво
 Čuevec, Чуевец
 Čufus Dere, Чуфус Дере
@@ -14004,6 +13980,7 @@ hidrosistem varos prilep
 Čučinja, Чучиња
 Čučir, Чучир
 Čučje, Чучје
+Čučka, Цуцка, Чучка
 Čučki Ras, Чучки Рас
 Čučuk Deresi, Чучук Дереси
 Čučuk Čava, Чучук Чава
@@ -14011,6 +13988,7 @@ hidrosistem varos prilep
 Čučukov Preslap, Чучуков Преслап
 Čučula Bair, Čučurli Bajir, Чучула Баир
 Čučulanec, Чучуланец
+Čučule, Цуцуле, Чучуле
 Čučurski Rid, Чучурски Рид
 Čuškov Raven, Чушков Равен
 Šabajnca, Шабајнца
@@ -14038,6 +14016,7 @@ hidrosistem varos prilep
 Šalkojca, Шалкојца
 Šalkutni Čairi, Шалкутни Чаири
 Šalḱu, Šalću, Шалќу
+Šamaci, Самаци, Шамаци
 Šamacite, Шамаците
 Šamak, Шамак
 Šamakište, Шамакиште
@@ -14112,6 +14091,7 @@ hidrosistem varos prilep
 Šejtanik, Шејтаник
 Šelavski Rid, Шелавски Рид
 Šeliče, Шеличе
+Šemenica, Семеница, Шеменица
 Šemnica, Шемница
 Šemšovski Rid, Шемшовски Рид
 Šenetski Ogradi, Шенетски Огради
@@ -14156,6 +14136,7 @@ hidrosistem varos prilep
 Šilkov Rid, Шилков Рид
 Šilo Gumno, Шило Гумно
 Šimjakovec, Шимјаковец
+Šimova Češma, Симова Чешма, Шимова Чешма
 Šindarica, Шиндарица
 Šindil Trlo, Шиндил Трло
 Šini Jačmišta, Шини Јачмишта
@@ -14166,6 +14147,7 @@ hidrosistem varos prilep
 Šinova Čuka, Шинова Чука
 Šip, Шип
 Šipacnja, Шипацња
+Šipje, Шипје
 Šipka, Шипка
 Šipkov Rid, Шипков Рид
 Šipkovec, Šipkovac, Шипковец
@@ -14246,11 +14228,13 @@ hidrosistem varos prilep
 Škoze, Шкозе
 Škozini Nivi, Шкозини Ниви
 Škrel, Шкрел
+Škrka, Шкрка
 Šlani Krst, Шлани Крст
 Šlegovo, Шлегово
 Šlegovski Dol, Шлеговски Дол
 Šlevek, Шлевек
 Šljamarce, Шљамарце
+Šmrk, Шмрк
 Šmrkot, Шмркот
 Šmrkov Čukar, Шмрков Чукар
 Šmrkovite, Шмрковите
@@ -14309,7 +14293,9 @@ hidrosistem varos prilep
 Štrni Kamen, Штрни Камен
 Štrunga, Штрунга
 Štrungla, Штрунгла
+Štubel, Штубел
 Štubelj, Штубељ
+Štubelo, Штубело
 Študer, Штудер
 Štuka
 Štuleški Dol, Штулешки Дол
@@ -14333,6 +14319,7 @@ hidrosistem varos prilep
 Šulanski Jasak, Шулански Јасак
 Šulevec, Шулевец
 Šulever, Шулевер
+Šuloja, Шулоја
 Šulon, Шулон
 Šuloni Keč, Шулони Кеч
 Šuloni Mad, Шулони Мад
@@ -14420,6 +14407,7 @@ hidrosistem varos prilep
 Željkarnik, Жељкарник
 Željkin Rid, Жељкин Рид
 Željkovac, Жељковац
+Želka, Желка
 Želkarnik, Желкарник
 Želkini Dupki, Желкини Дупки
 Želkino Prisoe, Желкино Присое
@@ -14506,8 +14494,13 @@ hidrosistem varos prilep
 Ǵeno Brdo
 Ǵenovi Livaǵe, Đenovi Livađe
 Ǵerakarica, Đerakarica, Ѓеракарица
+Ǵeram
+Ǵeramidnica, Ѓерамидница
+Ǵeran
+Ǵeranite
 Ǵeranot
 Ǵereka
+Ǵeren, Đeren
 Ǵerenot
 Ǵergova Niva
 Ǵerkova Niva
@@ -14519,7 +14512,7 @@ hidrosistem varos prilep
 Ǵiksajna, Điksajna
 Ǵino Voda
 Ǵinova Reka
-Ǵinovci, Гиновци
+Ǵinovci, Ѓиновци
 Ǵizoldže, Džizoldže, Đizolđe, Ѓизолџе
 Ǵogo Gumno, Đogo Gumno
 Ǵok Taš, Đok Taš, Ѓок Таш
@@ -14597,7 +14590,7 @@ hidrosistem varos prilep
 Ǵupski Livadi, Đupski Livadi
 Ǵupski Rid, Đupski Rid
 Ǵupskio Dol, Đupskio Dol
-Ǵuptin, Gjuptin, Ðuptin
+Ǵuptin, Duptin, Gjuptin
 Ǵupuk
 Ǵupče, Ѓупче
 Ǵura Paprat, Đura Paprat
@@ -14606,6 +14599,8 @@ hidrosistem varos prilep
 Ǵurev Dol, Đurev Dol
 Ǵurgiev Proletnik, Đurgiev Proletnik
 Ǵuri Kalauzit, Đuri Kalauzit
+Ǵuri i Bard, Đuri i Bard
+Ǵuri i Mad, Đuri i Mad
 Ǵurica, Đurica, Ѓурица
 Ǵurina Čuka, Ѓурина Чука
 Ǵuričina, Đuričina, Ѓуричина
@@ -14681,6 +14676,7 @@ hidrosistem varos prilep
 Ḱemre
 Ḱenkovac, Ќенковац
 Ḱepenovo, Ćepenovo
+Ḱeramidnica, Ćeramidnica, Ќерамидница
 Ḱeramidžen, Ćeramidžen, Ќерамиџен
 Ḱerepo Glaa
 Ḱereḱ, Ćereć
@@ -14699,17 +14695,20 @@ hidrosistem varos prilep
 Ḱirin Kamen, Ćirin Kamen
 Ḱirkova Češma, Ćirkova Češma, Ќиркова Чешма
 Ḱis
+Ḱiski
+Ḱitkata
 Ḱiḱi Kaja, Čiči Kaja
 Ḱor Dol, Ćor Dol
 Ḱorka
 Ḱorov Rid
-Ḱosejol, Ćosejol, Кусијал
+Ḱosejol, Kusijal, Ćosejol
 Ḱoseliski Rid, Kjoseliski Rid
 Ḱosevski Rid, Ćosevski Rid
 Ḱosin Rid, Ćosin Rid
 Ḱosova Čuka, Ćosova Čuka, Ќосова Чука
 Ḱoše, Ćoše, Ќоше
 Ḱošon, Ćošon, Ќошон
+Ḱule
 Ḱuledar
 Ḱuli e Belit, Ćuli e Belit, Ќули и Белит
 Ḱuluto, Čuluto
@@ -14727,3 +14726,4 @@ hidrosistem varos prilep
 Ḱuselija, Kjuselija, Ćuselija
 Ḱusterlak, Ćusterlak
 Ḱuḱi
+Ḱuḱul, Kukolj

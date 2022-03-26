@@ -393,7 +393,6 @@ Bahé
 Baka, Bakay Were
 Baka Ouèrè
 Bakabaka
-Bakabougou
 Bakadadji
 Bakadaga
 Bakadaka
@@ -467,7 +466,6 @@ Balinndala
 Ballé
 Balou
 Balténé
-Balé
 Balé Diassa
 Balé Zénon
 Baléani, Baléyani
@@ -843,11 +841,11 @@ Bayabougou, Bàyabugu, Beyabougou
 Bayala
 Bayan
 Bayasso, Batiokui
-Baye, Baï
 Bayibougou
 Bayidaga
 Bayo
 Bayorobougou
+Bayé, Baï
 Bayéko
 Bayélé
 Bazando, Balazando, Banzano
@@ -1067,7 +1065,6 @@ Bohi
 Bohidinié, Boïdigué
 Boi'no
 Boibougou
-Boila
 Bokari
 Bokarila, Bokéréla, Boukerla
 Boki
@@ -1317,8 +1314,8 @@ Bouli
 Bouli Bani, Boulé Bani, Boulédani
 Bouli Kadiéré
 Boulibafa
-Boulibana
 Boulibanda
+Boulibâna
 Boulidian
 Boulika
 Boulkassoumbougou, Boulkassonmbougou
@@ -1405,7 +1402,6 @@ Bouraïmaka Tiafori, Bouraimaka
 Bourdala, Boudela
 Bourdyadyé
 Bourela
-Bourem, Burem, Burɛmu
 Bourem Inali, Inali
 Boureme-Were
 Bourgou-Siratigui
@@ -1422,6 +1418,7 @@ Bourouma
 Bourouna
 Bourra
 Bourèdandi
+Bourèm, Burem, Burɛmu
 Bourèm Forassi
 Bourèm Guindou
 Bouré
@@ -1471,6 +1468,7 @@ Boéganiola
 Boékoro
 Boékoura
 Boéré
+Boïla
 Brahimabougou
 Brahmabougou
 Brama
@@ -1481,6 +1479,8 @@ Brie
 Bronbila, Brombila
 Brélangui
 Bweyzia
+Bâkabougou
+Bâlé
 Bèdèya
 Bèlèbougou, Belebougou-Bambara, Bélabougou
 Bèlèko, Belléko, Béleélinko
@@ -1903,7 +1903,7 @@ Darakui
 Darakélé
 Daral, Darat
 Daram
-Daramane
+Daramané
 Daramboungala, Darambougoula
 Darani
 Daraolila
@@ -1939,7 +1939,6 @@ Ddabaran
 Debat Jidoutoureu
 Debay Marhad
 Debay Tila
-Debe
 Degnekoro, Dengakoro, Dinguekoro
 Demba Demba
 Demba Diara
@@ -1957,7 +1956,6 @@ Denso, Dinso
 Denzana
 Derbasso, Dalabasso
 Dessogou
-Dessébougou
 Dessére
 Deylouba Débé, Dalouba Débé
 Dia
@@ -2274,8 +2272,6 @@ Didikaré
 Didiéni, Jijɛnin
 Didna
 Didyana, N'Dydiana
-Die
-Dieba, Djeba, Laba, Léba
 Diedabougou, Ndjirabougou
 Diedia
 Diembanouma, Dambaniouma
@@ -2299,7 +2295,6 @@ Diennsagou
 Diensagou
 Dienssin, Diensay
 Dierma
-Diero
 Diesso, Itiankui
 Difia
 Difora
@@ -2360,7 +2355,6 @@ Dimitéro
 Dimmbal, Dimal, Dimbal
 Dimmbanboye, Dimbanboye
 Dimmbélé
-Dina
 Dinadabay, Dinadébé
 Dinakoura
 Dinan Bambara, Dinan Bamana
@@ -2405,6 +2399,7 @@ Dintaka
 Dinto
 Dinyakoro
 Dinyan, Digna
+Dinâ
 Dinémanbougou
 Dio
 Dio-Gare
@@ -2591,6 +2586,7 @@ Ditira, Dittara, Titara
 Diton
 Dité
 Diyabougou
+Diè
 Dièbougou, Djebougou, Jɛ́bùgu
 Diègo, Dieko
 Dièkoungo
@@ -2602,6 +2598,7 @@ Dièndjila, Dyèdyila
 Diènihdiè
 Diènindiè, Djénindié, Guininndié
 Diènsobala, Dyensobala
+Diéba, Djeba, Laba, Léba
 Diébali
 Diéboukara
 Diébé
@@ -2649,6 +2646,7 @@ Diéribana
 Diéribougou
 Diérila
 Diérima
+Diéro
 Diérédiérédala
 Diéssa
 Diéssaba
@@ -3081,9 +3079,9 @@ Doumbi
 Doumbo, Doumbal, Dumbal
 Doumbou
 Doumbougou
-Doumeba
 Doumogou
 Doumoufara
+Douméba
 Doun
 Douna, Dona, Douita, Duna
 Dounali
@@ -3193,7 +3191,6 @@ Dyatara
 Dyawarala
 Dyawékabougou
 Dyen
-Dyero, Dioro
 Dyininguéla, Djiningéla
 Dyiwayé
 Dyo
@@ -3219,6 +3216,7 @@ Dyouna
 Dyoungo
 Dyourdako
 Dyèlwa, Dieloy
+Dyèro, Dioro
 Dyé
 Dyéba
 Dyébougou
@@ -3258,6 +3256,7 @@ Débo Banbara, Débo Bambara
 Débo Massassi
 Débous, Dabousébougou
 Débèlè
+Débé
 Débé Foumba
 Débéla
 Débéna
@@ -3307,6 +3306,7 @@ Dérièn
 Dérou
 Déréfoukouté
 Déréguilé
+Déssébougou
 Détabougou
 Détégoungou
 Dézébéla, Désébéla
@@ -3807,9 +3807,9 @@ Fogoti
 Foinyé, Foïniat, Foïnié
 Foka
 Foko
-Fokolore
 Fokolore I
 Fokolore II
+Fokoloré
 Fokoro
 Folabougou
 Folani, Soloni
@@ -3841,7 +3841,7 @@ Fonkoura Bakou
 Fonkoura Koré, Fonkoura
 Fono
 Fonongoni
-Fonsebougou
+Fonsébougou
 Fontiéribougou
 Fonzo
 Forgo
@@ -4328,7 +4328,6 @@ Goumbo
 Goumbou, Gumbu
 Goumbou Dyoupé
 Goumbé
-Goumel
 Goumira, Gounira
 Goummewal
 Goumni
@@ -4337,6 +4336,7 @@ Goumou-Kanda
 Goumouké
 Goumouni, Goumini
 Goumsagho, Goumsao, Gounsao
+Goumèl
 Goumèykoré
 Gouméné
 Gouméra
@@ -4447,12 +4447,10 @@ Guangolobougou-Were
 Guarana, Garana, Garna, Guerna, N'Garna, Sarana
 Guembé
 Guemoubougou
-Guena
 Gueniébougou
 Guerbétiou
 Guersola
 Guessiné, Guésiné
-Guesséné
 Guesséou
 Guia
 Guiabira
@@ -4537,6 +4535,7 @@ Guémou, Gemou
 Guémou-Kassé
 Guémoukouraba, Guémoui-Kouraba, Guémoukoura
 Guéméné
+Guéna
 Guénakoro, Guénékoro, Génakoro
 Guénando
 Guénandou
@@ -4559,6 +4558,7 @@ Guéréssogou
 Guéssébougou
 Guéssédambougou
 Guéssékole
+Guésséné
 Guéssérébougou
 Guétala, Guettala
 Guétéla
@@ -4607,7 +4607,6 @@ Hato-Were
 Hawa Dembaya, Awa Dɛnbaya
 Haya
 Herba
-Heremakono, Heremakono IV, Heremakono Km50, Tenogo
 Heremakono III
 Heremakono Koura, Heremakono II
 Hermakono
@@ -4628,6 +4627,7 @@ Hâsi el Biar, Hassi el Biar
 Hâsèï, Hasseï
 Hâsî el Barké, Hassi el Barké
 Hèrèmakana
+Hèrèmakono, Heremakono IV, Heremakono Km50, Tenogo
 Hénékui
 Hérébougou
 I-n-Fézaouan, Faisaouane, I-n-Fezaouane
@@ -5263,12 +5263,10 @@ Kegnekele, Kénékélé
 Keikoro, Kekoro
 Kekebougou
 Kekekela, Kekekele, Kèrkéla
-Kekeye
 Kel Haoussa
 Kembele
 Kembellé
 Kembédi
-Kemeni
 Kemitaga
 Kendé, Kenndé
 Kenema
@@ -5276,7 +5274,6 @@ Kenesso, Kenne
 Kenewe
 Kengou, Kangou, Kingou
 Kenie-Marka, Guenyié, Guenyé, Kèniè-Marakala
-Kenioto, Kéniolo
 Kenndié, Kendi, Kendié
 Kenngouara
 Kenngué
@@ -5295,7 +5292,6 @@ Kerkè, Kéressi
 Kerligani
 Kermoye
 Kerou-Peulh
-Kerouane
 Kersana
 Kersani, Karsani
 Kersignané
@@ -5306,7 +5302,6 @@ Kerta
 Kesso
 Kessou-Indyar
 Kessouré
-Kessédougou, Bouazoulo, Kersédougo
 Keyban, Keibane, Keivane, Keïbané Mauré
 Khabou Kaméra
 Khassana
@@ -5515,7 +5510,7 @@ Koflatyè
 Kofolabé
 Kofougan
 Kofoulabè
-Kofoulate
+Kofoulaté
 Kofè
 Koféba, Koté Ba
 Kogo
@@ -5722,7 +5717,6 @@ Komoni
 Komorola
 Komèy Koukou, Komaikoukou, Komékoukou
 Koméoulou
-Kona, Konan, Konna
 Kona-Mali
 Konana, Kounana
 Konani, Koundouam
@@ -5878,6 +5872,7 @@ Konza, Kouenza
 Konzanso
 Konzorolan
 Konzé, Kondjié
+Konâ, Konan, Konna
 Koné
 Konébougou
 Konégué
@@ -6329,8 +6324,8 @@ Koutaka
 Koutiala, Kucala, Kutiala
 Koutiala-Koura
 Koutienso
-Koutienébougou, Kotienebugu, Kotiénébougou
 Koutila
+Koutiénébougou, Kotienebugu, Kotiénébougou
 Koutouboubougou
 Koutoufi
 Koutouko
@@ -6417,6 +6412,7 @@ Kégui
 Kéguébougouda
 Kéka
 Kékouma
+Kékèye
 Kéké
 Kéla, Keela, Kiéla
 Kélendji
@@ -6440,6 +6436,7 @@ Kémasso
 Kémissala
 Kémogola
 Kémé, Kébé
+Kéméni
 Kéméné, Mkemené
 Kéméta
 Kéméténé
@@ -6451,11 +6448,11 @@ Kénia
 Kéniakourouni
 Kéniandikoto, Kéniandikoro
 Kéniandito
-Kéniema
 Kénienndi
 Kénikéna
 Kéninkoun
 Kéninkéla
+Kénioto, Kéniolo
 Kéniou
 Kénioussouté
 Kénié, Kenye, Kénié Kolomba, Kényékouloumba
@@ -6476,6 +6473,7 @@ Kéniékéniéba
 Kéniékéniéko
 Kéniékéniéta
 Kéniélèndo
+Kéniéma
 Kéniémakadji, Kénéma Nadji
 Kéniénéfé
 Kéniéro
@@ -6495,7 +6493,7 @@ Kéola Timbatoussou
 Kér Ajilan
 Kéra
 Kérango
-Kérano, Kɛrɛna
+Kérano, Kéréna
 Kérané
 Kérennkourou
 Kéri
@@ -6504,6 +6502,7 @@ Kérikoumala, Kerekumala
 Kérina
 Kéro
 Kérou-Dogon
+Kérouané
 Kérwané
 Kérébéré, Tirakui
 Kérékoto, Korokoto
@@ -6516,6 +6515,7 @@ Kéréména
 Kéréré
 Kérétogo
 Késsana, Kesséna
+Késsédougou, Bouazoulo, Kersédougo
 Kéti
 Kétiou
 Kétouel
@@ -6744,7 +6744,6 @@ Madiarabougou
 Madiari, Madiani
 Madibaya, Madibahia
 Madibonto
-Madibougou
 Madiga, Madiga Sacko
 Madila
 Madimansa
@@ -6926,7 +6925,6 @@ Manaoulé
 Manboro, Wamana
 Mandala
 Mandaraia
-Mande
 Mandiakui, Mandjakoui, Mandjakui, Mandjakuy, Manjakui, Manzanhui
 Mandiarabougou
 Mandiguibougou
@@ -6935,6 +6933,7 @@ Mandina Ouro
 Mandio
 Mandiébougou
 Mandiéla, Mandyéla
+Mandé
 Mandéla, Mantira
 Manebougou Dankan
 Manfala
@@ -7026,7 +7025,6 @@ Margou, Mangou
 Marialo
 Mariatourou
 Mariboubonzi, Maribougou Bonzi, Maribourou Bonzi
-Maribougou, Mandribougou
 Maribougou-Fottobe
 Maribougou-Tiguira, Moribougou Tiguira
 Maribougoukoro
@@ -7170,8 +7168,8 @@ Mbéké
 Mbéla
 Mbélize
 Mbélémounia
-Mbéresso
 Mbérédyoula, M'Pérédiola, M'pérentiola, Mpéridiola
+Mbérésso
 Mbéréwala, M'Pewala, Mbéréouala
 Mbéso
 Mbétiona I, Mbétiona
@@ -7198,7 +7196,6 @@ Merkoya, Mercoya, Mercoïa
 Merou, Miélou
 Merzamadié
 Messa
-Messé
 Messéna
 Meuleukman
 Miabougou
@@ -7528,7 +7525,9 @@ Mraka
 Mwabougou
 Myaâdi
 Myiala, N'Guila
+Mâdibougou
 Mâmé
+Mâribougou, Mandribougou
 Mèguèlè, Mèguèlèn
 Mèkélé, Meïkélé
 Mèlè Ouèrè, Mɛlɛwɛrɛ
@@ -7536,6 +7535,7 @@ Mèna, Méro, Méréna
 Mèniourou
 Mènkoungo
 Mènèni
+Mèssè
 Mètanbougou, Montobougou
 Mètèmbougou, Mindinbougou, Métébougou
 Mébougou
@@ -7703,7 +7703,6 @@ Nangoudama
 Nanguila, Nangila
 Nanguilabougou, Dengilabougou
 Nani, Nané
-Nania
 Naniasso, Nagnasso, Nianiasso
 Naniassoni, Nagnassoni, Négassoni
 Nanibougou
@@ -7735,6 +7734,7 @@ Nantèla, Nantella, Natella
 Nantéguébougou
 Nanzanadougou, Nansanadougou
 Nanéguébougou
+Nanïa
 Naoua
 Naouléna, Naouélima, Naouélina
 Naouré Balol
@@ -7843,9 +7843,6 @@ Ndéguédo
 Ndénématou
 Ndéresso
 Ndéribougou
-Neguebabougou
-Neguena
-Nema, Oroèléne
 Nema II
 Nema-Badenyakafo
 Nematoulaye
@@ -8370,7 +8367,6 @@ Ntiasso
 Ntibougou
 Ntiendougou
 Ntientiéri, Tiantiéri, Tioutiéri
-Ntiesso
 Ntiga
 Ntioba
 Ntiobougou, N'Tiobougo
@@ -8380,6 +8376,7 @@ Ntiola
 Ntiontibougou
 Ntiorosso
 Ntiouma, Utiouma
+Ntièsso
 Ntiégoli
 Ntiéguéla
 Ntiélé
@@ -8485,6 +8482,7 @@ Nzanakoro, Zanankoro
 Nzanfanso
 Nzirakoro
 Nzérébougou
+Nèguèbabougou
 Nèguèbougou, Nekebougou
 Nèguètabougou
 Nèmèbougou
@@ -8498,9 +8496,10 @@ Négabougou
 Négala
 Négalaba, Négélaba
 Néguébabougou Bossofala, Négébobougou
-Néguéla, Nɛgɛla
+Néguéla, Négéla
 Néguélabougou
 Néguémala
+Néguéna
 Néguépié
 Néguéssébougou, Néguéosébougou
 Néguétabali
@@ -8508,6 +8507,7 @@ Néhou, Néwou
 Néko
 Néko Diou
 Nélou
+Néma, Oroèléne
 Némabougou
 Némendé, Némindé
 Némé
@@ -8691,7 +8691,7 @@ Ouokoni-Foula
 Ouokoro
 Ouolobougouni
 Ouolodièdo, Wolodiédo, Wɔlɔjɛdo
-Ouolodo, Wɔlɔdo
+Ouolodo, Wolodo
 Ouolokoro, Ouolocoro
 Ouolokorodji, Wolokorodji
 Ouolomba, Wolomba
@@ -8974,7 +8974,7 @@ Pétèsso
 Pétérélasso
 Pététiové
 Quartier Mali, Karicemali
-Rangabe
+Rangabé
 Rassogoma
 Rhama
 Rimassa
@@ -8990,7 +8990,6 @@ Roundé-Gourma
 Roundé-Madi
 Rwis el Fil, Rouis el Fîl
 Râs el Mâ, Raz el Ma
-Sa, Sah
 Sa Touskel
 Saaba
 Saakabougou
@@ -9014,7 +9013,7 @@ Sabouala
 Sabougou, Saabougou
 Saboula
 Sabousiri, Saboussiri
-Saboussire, Sabouciré, Sabusire
+Saboussiré, Sabouciré, Sabusire
 Sabousséré
 Sabélédaga
 Sabénébougou
@@ -9196,7 +9195,6 @@ Sambèla, Sampela
 Sambéré
 Samdyara, Samdia, Samdiar, Samsar, Sandiar
 Same Diomboma
-Sami
 Samina, Saomina
 Samoloye
 Samorossoni
@@ -9491,20 +9489,13 @@ Sazarani
 Saétinnti
 Saïma
 Saïmandiéra
-Sebekoro
-Sebeninkoro
 Seghokoto, Serhokoto
 Seghoto, Serhoto
-Seghélo, Sekello, Sérhèlo
 Seguiban
 Seguin, Singué
-Segué, Gégué, Seguetti Ould Kararaila, Seguetti Ould Kararalla, Seygué, Ségé, Sɛgɛn
 Seini
 Seirettbéda
-Sekokoto, Ségokoto
 Selli-Hari
-Sembéré
-Semene
 Senakouni
 Senani
 Sendé
@@ -9514,10 +9505,8 @@ Senndiéval
 Senndégué
 Sennséladjé
 Seno Leki
-Seribougou
 Sermè
 Serné
-Serotandi
 Sessabougou
 Sessiguinyi
 Sessila
@@ -9543,7 +9532,6 @@ Siango
 Sianhala
 Sianhana
 Siani
-Siankoro, Sienkoro
 Siarakoro
 Siba
 Siba Ouro Alifoné
@@ -10340,7 +10328,10 @@ Syèkilikoungo
 Syètou
 Syé
 Syéabougou, Sieabougou, Sikabougou
+Sâ, Sah
+Sâmi
 Sè
+Sèbèkoro
 Sèghou, Sèrhou
 Sègourmé
 Sègueye, Sègeye
@@ -10348,6 +10339,7 @@ Sèguèbaouli
 Sèguèla
 Sèlibabi
 Sèmba, Simba
+Sèmbéré
 Sèmembougou, Sémennbougou, Sémébougou
 Sèniébaoulé
 Sènkoro
@@ -10356,6 +10348,7 @@ Sènsina, Chinchina
 Sèntinè, Sitne
 Sènèbougou
 Sèné
+Sèribougou
 Sèrma
 Sèrouel
 Sèti
@@ -10380,6 +10373,7 @@ Sébéndourou
 Sébénikoro
 Sébénikélé
 Sébéninguélé, Sébéningélé
+Sébéninkoro
 Sébéninnkoto
 Sébénékéli
 Sébéssounkoto
@@ -10404,6 +10398,7 @@ Ségankané
 Ségané
 Séghofata, Sérhofata
 Séghotodji, Sérhotodji
+Séghèlo, Sekello, Serhélo
 Ségnébéné
 Ségo
 Ségobala
@@ -10423,6 +10418,7 @@ Séguessona
 Séguian Tinnti
 Séguibougou, Séguébougou, Ségébougou
 Séguèndara, Léguendara, Séguindara, Ségèndara
+Ségué, Gégué, Seguetti Ould Kararaila, Seguetti Ould Kararalla, Seygué, Ségé, Sɛgɛn
 Ségué Taka
 Ségué-Bougué
 Séguémara
@@ -10437,6 +10433,7 @@ Séko-Ratao
 Sékoba
 Sékodounga
 Sékofata
+Sékokoto, Ségokoto
 Sékolafara
 Sékoro
 Sékorodi
@@ -10459,7 +10456,7 @@ Séliban, Séliba
 Séliféli
 Sélimanbougou
 Sélingué, Lake Sélingué, Selenge
-Sélinnkegni, Sélingui, Sélinkégni
+Sélinnkégni, Sélingui, Sélinkégni
 Sélofara, Célofana, Célofara
 Sélou
 Séloubalé
@@ -10477,6 +10474,7 @@ Sémo
 Sémé
 Séméli
 Sémélé-Tanga
+Séméné
 Séna
 Sénabougou
 Sénesso
@@ -10521,6 +10519,7 @@ Sérmanbougou
 Séro
 Sérora
 Sérossébendi
+Sérotandi
 Sérouala, Sériouala, Séronala, Séroualaba, Sérwala
 Sérouma
 Séré Moussa Ani Samou
@@ -10538,6 +10537,7 @@ Sévéri
 Séwol, Sevel
 Séyina
 Séyé
+Sïankoro, Sienkoro
 Taa
 Taaba
 Tababalié Badiamé, Tabalalié-Badiamé
@@ -10726,7 +10726,6 @@ Tanmbakoura
 Tanné
 Tanoa
 Tanossougou
-Tanouma
 Tansogou
 Tantalabé
 Tantani
@@ -10735,9 +10734,10 @@ Tantouma, Tantoumo
 Tantéléman
 Tanéré
 Tanéréjié
+Tanòuma
 Tao, Taou
 Tao-Tomo
-Taoudenni, Taodéni, Taoudeni, Taudeni, Tawudeni, تودني, تَوْدِنّي
+Taoudenni, Taodéni, Taoudeni, Taudeni, Tawudeni, تاودني, تَوْدِنّي
 Taounougou
 Taoura
 Taourou
@@ -10893,7 +10893,6 @@ Tidiané Tourébougou
 Tidjalalene
 Tidorè
 Tidéré Koli
-Tieba, Tiemba
 Tiebana
 Tiebatari
 Tieblecabougou
@@ -10902,7 +10901,6 @@ Tiedé, Tieidé
 Tiekelenbougou, Tiékélébougou
 Tiekorola, Tiokorola
 Tiekougo-Tomokan
-Tiekourabougou
 Tiekourabougou-Djoura
 Tiekéré
 Tiel-Baro, Tiel Berou, Tiel-Barou
@@ -10922,7 +10920,6 @@ Tiendo, Tiende, Tyendo
 Tiendougou, Thiondoukou, Tiendugu, Tioudougou
 Tiendéguébougou
 Tienguénana
-Tienko
 Tienkoa
 Tienkouo
 Tienlé, Tiéné
@@ -11127,6 +11124,7 @@ Tièbèla
 Tièbélébougou
 Tièdiobougou
 Tièkokabougou
+Tièkourabougou
 Tièkourala, Tchékourala
 Tièkélembougou
 Tièmbourou
@@ -11135,6 +11133,7 @@ Tiènabougou Ouèrè
 Tiènfalon, Tienfallon
 Tiènfo
 Tièniana, Kéniana
+Tiènko
 Tiènkoroba, Tiénikoroba
 Tiènkoulou
 Tiènkoumbo, Tiécoungou, Tiékoungo
@@ -11142,6 +11141,7 @@ Tièrno Ouèrè, Thierno-Were, Tionowéréla, Tiorona Wéré
 Tièssamambougou
 Tié, Pié
 Tié Kouraré
+Tiéba, Tiemba
 Tiébala
 Tiéblébougou, Tiebilendougou
 Tiébougou
@@ -11396,7 +11396,7 @@ Touala, Touara
 Touan
 Touantankabougou, Touandangabougou
 Touatoula, Taoutoula
-Touba, Túba
+Touba, Tuba
 Toubabougou
 Toubadji
 Toubafara
@@ -11435,7 +11435,7 @@ Toukoro, Tukɔrɔ
 Toukoro-Marka
 Toukoroba, Torokoroba
 Toukorokabougou
-Toukoto, Tukɔtɔ
+Toukoto, Tukoto
 Toukou
 Toukourabougou
 Toukourousso
@@ -11572,8 +11572,8 @@ Toutiala
 Toutyèn
 Touzona, Tousona, Tusɔna
 Toya
-Toye, Toui, Toï
 Toylodabay
+Toyé, Toui, Toï
 Toïkana
 Tragomé
 Trantimou, Tarentimou
@@ -11737,7 +11737,6 @@ Tété
 Ubanhiéré
 Vanékui
 Vaou
-Velingara
 Velndou
 Vendé-Bouta
 Venndéguélé
@@ -11748,6 +11747,7 @@ Voudouraré, Oudani, Oudouraré
 Vouosa
 Védié
 Vélakoura, Ouélakoura
+Vélingara
 Vélinngara
 Wa, All, Nioumankui, Oua, Ouan
 Wabi
@@ -11854,7 +11854,6 @@ Welintiguila, Welintiguila N7
 Welintiguila-Bamanan, Ouèlèntiguila, Velentiguila, Walantiguila
 Welintiguila-Bozo
 Wemmbédaga
-Wena, Ouena
 Wena-Were, Wéréna
 Wenabougou
 Wendiana, Wandiana
@@ -11862,7 +11861,6 @@ Wendiana Kanda
 Wendoubougou
 Wenika
 Wenka, Ouinka
-Werekela, Ourogouréli, Werekela N8
 Weuimél, Weymèl
 Wewo, Ouéouo
 Wili Wili
@@ -11873,7 +11871,6 @@ Wini
 Wintéri
 Wiyangana, Ouyangana
 Wiyebangou
-Wo, Ouo
 Wo-Guina
 Wo-Ouro, Ouro-Ouo
 Woafa
@@ -11938,11 +11935,12 @@ Wourou
 Woutoula
 Woyo
 Wèma, Ouïama
+Wèna, Ouena
 Wènina
 Wènè
 Wèsso
 Wédikoro
-Wéla, Ouéla
+Wéla, Ouela
 Wélengara, Ouélingara
 Wélidé
 Wélindiguila, Welentiguila
@@ -11953,9 +11951,11 @@ Wéraka
 Wéré, Ouéré, Véré
 Wéré-Oro
 Wérégara, Wéréguara
+Wérékéla, Ourogouréli, Werekela N8
 Wésséla
 Wésébougou, Ouosséboubou-Bambara, Ouossébougou, Wéssébougou
 Wéta, Ketani, Ouétani, Wetta
+Wô, Ouo
 Ya Sélam, Yassélam
 Yaba
 Yabatalou

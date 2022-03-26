@@ -493,7 +493,6 @@ Cerro Cambalcol
 Cerro Campana
 Cerro Camposanto
 Cerro Cana Itzam
-Cerro Candelaria
 Cerro Canil
 Cerro Cansís
 Cerro Cantél
@@ -509,7 +508,7 @@ Cerro Cauinal
 Cerro Caxlampom
 Cerro Caña Brava
 Cerro Caña Tomasa
-Cerro Cebollin
+Cerro Cebollín
 Cerro Cedral
 Cerro Ceniza
 Cerro Cerco de Piedra
@@ -663,6 +662,7 @@ Cerro Cunistepeque
 Cerro Curub
 Cerro Cutal
 Cerro Cuxbalam
+Cerro Cándelaria
 Cerro Diablo
 Cerro Dolores
 Cerro Don Chano
@@ -733,12 +733,12 @@ Cerro El Guineo
 Cerro El Hato
 Cerro El Incienso
 Cerro El Izote
-Cerro El Jicaro
 Cerro El Jobo
 Cerro El Jocote
 Cerro El Jocotillo
 Cerro El Jutal
 Cerro El Jute, Cerro del Jute
+Cerro El Jícaro
 Cerro El Llano
 Cerro El Lochuyito
 Cerro El Magueyal
@@ -1069,7 +1069,7 @@ Cerro Moreno
 Cerro Morola, Cerro Morova, El Sombrerito
 Cerro Muchulicabaj
 Cerro Mucubaltzib
-Cerro Mumus
+Cerro Mumús
 Cerro Nacahuil
 Cerro Nacoj
 Cerro Najcantzac
@@ -1095,8 +1095,8 @@ Cerro Pabiltzaj
 Cerro Pablo
 Cerro Pacayal
 Cerro Pachalí
-Cerro Pache
 Cerro Pacho
+Cerro Paché
 Cerro Pacoj
 Cerro Pacruz
 Cerro Paculam, Cerro Quiacuetzulub
@@ -1226,8 +1226,8 @@ Cerro San Cristóbal
 Cerro San Gaspar
 Cerro San Gil
 Cerro San Jerónimo
-Cerro San Juan
 Cerro San Juan de Dios
+Cerro San Juán
 Cerro San Luis
 Cerro San Luis El Volcancito
 Cerro San Marcos
@@ -1294,7 +1294,7 @@ Cerro Tecomapa
 Cerro Tecomates
 Cerro Tecpán, Cerro Tecpam
 Cerro Tecún
-Cerro Tecún Umán, Cerro El Baúl
+Cerro Tecún Umán, Cerro El Baul
 Cerro Telecux
 Cerro Tená
 Cerro Teocinte
@@ -1795,7 +1795,7 @@ El Campo
 El Canchén
 El Caoba
 El Caobal
-El Capulin
+El Capulín
 El Caribe
 El Carmen
 El Caulote
@@ -2657,7 +2657,7 @@ Lagunetas Secas
 Lagunetas Sipacate
 Lagunetas de La Danta
 Lagunetas de Tortugas
-Lake Petén Itzá, Lago Peten Iza, Lago Petén Itzá, Lago San Andrés, Lago de Flores, Lago de Petén Ytza, Lago del Petén, Laguna Peten Itza, Laguna de Petén
+Lake Petén Itzá, (Lago Petén Itzá, Lago Peten Iza, Lago San Andrés, Lago de Flores, Lago de Petén Ytza, Lago del Petén, Laguna Peten Itza, Laguna de Petén
 Lancetillo
 Las Amelias
 Las Calderas
@@ -3254,7 +3254,7 @@ Municipio de San Diego
 Municipio de San Felipe
 Municipio de San Francisco
 Municipio de San Francisco El Alto, San Francisco El Alto
-Municipio de San Francisco La Unión, San Francisco la Unión
+Municipio de San Francisco La Unión, San Francisco La Unión
 Municipio de San Francisco Zapotitlán, San Francisco Zapotitlán
 Municipio de San Gabriel
 Municipio de San Gaspar Ixchil, San Gaspar Ixchil
@@ -3306,7 +3306,7 @@ Municipio de San Pedro Ayampuc, San Pedro Ayampuc
 Municipio de San Pedro Carchá, San Pedro Carchá
 Municipio de San Pedro Jocopilas, San Pedro Jocopilas
 Municipio de San Pedro La Laguna, San Pedro La Laguna
-Municipio de San Pedro Necta, San Pedro Nectá
+Municipio de San Pedro Necta, San Pedro Necta
 Municipio de San Pedro Pinula, San Pedro Pinula
 Municipio de San Pedro Sacatepéquez, San Pedro Sacatepéquez
 Municipio de San Rafael La Independencia, San Rafael La Independencia
@@ -3648,7 +3648,7 @@ Patio de Bolas
 Patitzalán
 Patiul
 Patucur, Patucar
-Patzite
+Patzité
 Patzulín
 Patzunoj
 Pechar, Pecbar
@@ -4163,7 +4163,7 @@ Quebrada El Chorrito
 Quebrada El Chorro
 Quebrada El Chorro de La Pita
 Quebrada El Choy
-Quebrada El Chucte
+Quebrada El Chucté
 Quebrada El Chup
 Quebrada El Chupadero
 Quebrada El Cimiento
@@ -4219,7 +4219,7 @@ Quebrada El Guapinol
 Quebrada El Guapote
 Quebrada El Guarumal
 Quebrada El Guayabito
-Quebrada El Guayabo
+Quebrada El Guayábo
 Quebrada El Guineo
 Quebrada El Hato
 Quebrada El Hormiguero
@@ -4325,8 +4325,8 @@ Quebrada El Relleno
 Quebrada El Remolino
 Quebrada El Retiro
 Quebrada El Reventón
-Quebrada El Riito
 Quebrada El Rincón
+Quebrada El Riíto
 Quebrada El Rión
 Quebrada El Roble
 Quebrada El Rodeo
@@ -4970,7 +4970,7 @@ Quebrada Puluc
 Quebrada Pupujix
 Quebrada Quebraditas
 Quebrada Quejá
-Quebrada Quequexque
+Quebrada Quequexqué
 Quebrada Quiacoj
 Quebrada Quiaté
 Quebrada Quiejché
@@ -5439,7 +5439,7 @@ Quebrada del Chile
 Quebrada del Chocoyo
 Quebrada del Chorro
 Quebrada del Chuctal, Quebrada de Timushán
-Quebrada del Chucte
+Quebrada del Chucté
 Quebrada del Ciruelito
 Quebrada del Coche
 Quebrada del Corozo, Quebrada del Coroza
@@ -5833,7 +5833,6 @@ Rio Chinamit
 Rio Chixoy o Negro, Chixoy River, https://en.wikipedia.org/wiki/Chixoy_River
 Rio Dulce National Park
 Rio Montagua Cerro Azul
-Rio Sebol
 Roc Nimá
 Roto Nuevo, El Roto Nuevo
 Roto Viejo Río Salinas
@@ -6372,7 +6371,7 @@ Río El Pajarito
 Río El Palmar
 Río El Paraíso
 Río El Parmedero
-Río El Pañuelo, Río Canté, Rño del Pañuelo
+Río El Pañuelo, Río Cante, Rño del Pañuelo
 Río El Pedregoso, El Pedregoso, Río Pedregoso
 Río El Peraz
 Río El Pericón
@@ -6557,8 +6556,8 @@ Río La Cantadora
 Río La Catarata
 Río La Cañada
 Río La Chorrera
-Río La Cienaga
 Río La Cienaga de Boxoncán
+Río La Ciénaga
 Río La Colonia
 Río La Concepción
 Río La Concha
@@ -6768,8 +6767,8 @@ Río Mayaguá
 Río Mayté
 Río Mayuelas
 Río Mazate
-Río Melendrez, Río Melendrer, Río Melendres
 Río Melina
+Río Meléndrez, Río Melendrer, Río Melendres
 Río Mertón
 Río Mestelá
 Río Mesté
@@ -6828,7 +6827,7 @@ Río Nahuatán, Río Naguatán
 Río Najapá
 Río Nancultac
 Río Naranjito
-Río Naranjo, Naranjo River, Río Tuisá
+Río Naranjo, Naranjo River, Río Tuisa
 Río Navajas, Riachuelo Las Navajas
 Río Nebachal
 Río Negro
@@ -6870,7 +6869,7 @@ Río Ojo de Agua Grande
 Río Ojo de Agua de Hacienda Vieja, Quebrada Ojo de Agua de Hacienda Vieja
 Río Olimpo
 Río Olopa
-Río Omoa
+Río Omoá
 Río Oquebá
 Río Orchoj
 Río Oro Verde
@@ -6967,7 +6966,7 @@ Río Pansigüis
 Río Pantaleón, Pantaleón River, Río Panteleón
 Río Panzós
 Río Panán
-Río Paquisis
+Río Paquisís
 Río Paquix
 Río Paquí
 Río Paraxaj
@@ -7203,7 +7202,7 @@ Río San José Pampacaya
 Río San Juan, Río Juan Vicente, Río Vicente
 Río San Lorenzo
 Río San Lucas
-Río San Luis
+Río San Luís
 Río San Lázaro
 Río San Marcos
 Río San Martín, Riachuelo San Martín
@@ -7214,7 +7213,7 @@ Río San Pedro
 Río San Rafael
 Río San Ramón
 Río San Román, San Román River
-Río San Sebastian
+Río San Sebastián
 Río San Serapio
 Río San Simón
 Río San Vicente
@@ -7248,6 +7247,7 @@ Río Sarstún Creek, Quebrada Creek Sarstún
 Río Sauce, Río del Sauce
 Río Saxoc
 Río Sayté
+Río Sebol
 Río Sebolito
 Río Sechactí
 Río Sechati
@@ -7857,7 +7857,7 @@ Sierra Pampacché, Sierra Panpacché
 Sierra Parraxquim
 Sierra Santa Rita
 Sierra de Chamá, Chama Mountains
-Sierra de Chuacus, Sierra del Chucacus
+Sierra de Chuacús, Sierra del Chucacus
 Sierra de Comitancillo
 Sierra de Las Minas
 Sierra de Mixco
@@ -8151,7 +8151,6 @@ Zanjón El Mosquito
 Zanjón El Murciélago
 Zanjón El Negrillo
 Zanjón El Negro
-Zanjón El Pajaro
 Zanjón El Palmo
 Zanjón El Para
 Zanjón El Peráz, Zanjón Perez
@@ -8159,6 +8158,7 @@ Zanjón El Pijuy
 Zanjón El Platanar, Zanjón Platanar
 Zanjón El Polvorín
 Zanjón El Pulcal
+Zanjón El Pájaro
 Zanjón El Raizal
 Zanjón El Refugio
 Zanjón El Sabilar

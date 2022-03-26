@@ -255,7 +255,7 @@ Baðsheiði, Baðheiði
 Baðstofutjörn
 Baðstofuvatn
 Beigaldagil
-Beila
+Beilá
 Beilárheiði
 Beinadalur
 Beinageitarfjall
@@ -372,7 +372,7 @@ Björninn
 Björnsá
 Black Waterfall
 Blakknes, Blakk, Blakkin, Blaknes
-Blanda
+Blandá
 Blautakvísl
 Blautamýri
 Blautaver
@@ -1178,7 +1178,7 @@ Eyjabrekar, Eyjarbrekar, Eyjarbrekka
 Eyjadalur
 Eyjafell
 Eyjafjall
-Eyjafjallajokull, Evjafjallajökull, Eyjafjalla Glacier, Eyjallajokull
+Eyjafjallajökull, Evjafjallajökull, Eyjafjalla Glacier, Eyjallajokull
 Eyjafjallasandur
 Eyjafjarðardalur
 Eyjafjarðarsveit
@@ -1635,7 +1635,6 @@ Galtardalsá
 Galtardalur
 Galtarsker
 Galtartjörn
-Galtarvatn
 Galtarvíkurhöfði
 Galtará
 Galtarárflói
@@ -1643,6 +1642,7 @@ Galti
 Galtá
 Galtárhnjúkur, Galtárhnúkur
 Galtártungur
+Galtárvatn
 Galþóll
 Gamalhnúkar
 Gamlaeyri, Gainlaeyri
@@ -1783,7 +1783,6 @@ Gilsfjörður, Gils Fiord, Gils Fjörd
 Gilshnúkur, Gilshnjúkur
 Gilsskarð
 Gilsvatn
-Gilsá
 Gilsárdalur
 Gilsármelur
 Gilsártindur
@@ -1932,15 +1931,12 @@ Grettistangi
 Grillir
 Grimshóll
 Grimsstaðamýri
-Grimsvotn
-Grimsá
 Grind
 Grindarskörð
 Grindavíkurbær, Grindavík
 Grindavíkurkaupstaður, Grindavíkurhreppur
 Gripdeild
 Grishóll
-Grjotá
 Grjót
 Grjótagjá
 Grjótagjá cave
@@ -1960,6 +1956,7 @@ Grjótskálarhnúkur, Grjótskálarhnjúkur
 Grjótstapi
 Grjóttunga
 Grjótups
+Grjótá
 Grjótá-ytri
 Grjótárdalur
 Grjótárfjall
@@ -2051,6 +2048,8 @@ Grímsstaðakarl
 Grímsstaðakerling
 Grímsstaðamúli
 Grímstunguheiði
+Grímsvötn
+Grímsá
 Grímusker
 Grímúlfsá
 Grísafell
@@ -2136,6 +2135,7 @@ Gæsatungur
 Gæsavatn
 Gæsavötn
 Gæshólar
+Gílsá
 Gíma
 Gíslahnúkur, Gíslahnjúkur
 Gíslaskarð
@@ -2230,7 +2230,6 @@ Hagárdalur
 Hakafjallstindur
 Hakahlíðarfjöll
 Halla
-Hallardalur
 Hallarvötn
 Hallberutindur
 Hallbjarnarstaðatinður
@@ -2248,6 +2247,7 @@ Hallshólmi
 Hallsteinsdalsvarp
 Hallstunga
 Hallur
+Hallárdalur
 Hamarendar
 Hamarinn
 Hamarsalda
@@ -2475,7 +2475,6 @@ Hestfjöll
 Hestfjörður
 Hestgerðislón
 Hestgerðissker
-Hestháls
 Hestlækjarbunga
 Hestlækur
 Hestskarð
@@ -2486,6 +2485,7 @@ Hestárgil
 Hestás
 Hesþallarvatn
 Hesþaus
+Hesþáls
 Hesþöll
 Heyarvogur
 Heybakkar
@@ -2575,12 +2575,12 @@ Hnausar
 Hnausasef
 Hnausasker
 Hnausheiði
-Hnefill
 Hnefillsdalur
 Hnefilsdalsá
 Hnefla
 Hneflaskarð
 Hneflumóðir
+Hnefíll
 Hnjótafjall
 Hnjötsheiði
 Hnjúkar
@@ -2774,7 +2774,6 @@ Hringsbjarg
 Hringsdalur
 Hringur
 Hringvershvilft, Hringoershirlft
-Hrisey, Hris
 Hrjótarvatn
 Hrobjörg
 Hrollaugseyjar, Hrolllaugseyjar
@@ -2795,7 +2794,6 @@ Hrossagjá
 Hrossakambur
 Hrossamýrar
 Hrossatindar
-Hrossatindur
 Hrossatungur
 Hrosshæð
 Hrunaheiði
@@ -2810,6 +2808,7 @@ Hrífunesheði, Hrísnesheiði
 Hrímalda
 Hrísbrekknafoss
 Hrísdalur
+Hrísey, Hris
 Hríseyjarhreppur
 Hríshóll
 Hrísnes
@@ -2834,6 +2833,7 @@ Hrómundarbót
 Hrómundarey
 Hrómundarskarð
 Hrómundartindur
+Hróssatindur
 Hrútaborg
 Hrútabotnar
 Hrútadalur
@@ -2872,7 +2872,6 @@ Hundsvík
 Hundsá
 Hungurskarð
 Hurðarbök
-Husavik
 Hvalbakur, Hvalbokur, Hvalsbakur
 Hvaldalur
 Hvaleyri, Hvalfjarðareyri
@@ -3316,6 +3315,7 @@ Húsadalstindur
 Húsadalur
 Húsafell
 Húsafellsskógur
+Húsavík
 Húsavíkurbær
 Húsavíkurfjall
 Húsavíkurhöfði
@@ -3565,12 +3565,12 @@ Katanestjörn
 Katastaðafjall
 Katla, Katla volcano
 Katlafjall
-Kattardalur
 Kattarfoss
 Kattarhryggir
 Kattarhryggur
 Kattarpollur
 Kattarrófa
+Kattárdalur
 Kattárvík
 Kaðla
 Keflavík, Keflavík Bay
@@ -3903,7 +3903,6 @@ Koíslárskarð
 Koþraun
 Krafla
 Krakatindur, Krakalindur
-Krakunes
 Kreppa
 Kreppuhraun
 Kreppuhryggur
@@ -3971,6 +3970,7 @@ Krákadalur
 Krákhamarsfjall
 Krákshali
 Krákshraun
+Krákunes
 Krákunesskógur, Krákunesskógr
 Krákur
 Krákuvatn
@@ -4189,7 +4189,6 @@ Lambamannalækur
 Lambamannasandfell
 Lambamúli
 Lambanes
-Lambarhnúkur, Lambárhnjúkur
 Lambaskarð
 Lambasker
 Lambastaðaey
@@ -4226,6 +4225,7 @@ Lambárdalur
 Lambárfell
 Lambárfjall
 Lambárfoss
+Lambárhnúkur, Lambarhnjúkur
 Lambárskálar
 Lambártungur
 Lambárvatn
@@ -4251,7 +4251,6 @@ Landshnúkur, Landshnjúkur
 Landsá
 Landvatn
 Landáll
-Langa, Langa River
 Langa-Rauðka
 Langabót
 Langadalsfjall
@@ -4295,10 +4294,10 @@ Langisjór, Langzsjór
 Langiás
 Langjökull
 Langvíuhraun
+Langá, Langa River
 Langás
 Lará
 Latsfjall
-Latur, Lat
 Laufafell
 Laufahraun
 Laufdalsvatn
@@ -4510,7 +4509,6 @@ Lurká
 Lyklafell
 Lymska
 Lyngdalsheiði
-Lyngey
 Lyngfell
 Lyngnes
 Lyngtó
@@ -4542,6 +4540,7 @@ Látrar
 Látraröst
 Látravatn
 Látravík
+Látur, Lat
 Lækir
 Lækjadalur
 Lækjafjall
@@ -4596,6 +4595,7 @@ Lönguvötn
 Lúdentshæðir
 Lúpárhnúkar, Lúpárhnjúkar
 Lútur
+Lýngey
 Lýsuhyrna
 Lýsuhólslaug
 Lýtingsstaðahreppur
@@ -4742,7 +4742,7 @@ Miðfjarðarsker
 Miðfjarðarvatn
 Miðfjarðará
 Miðfjarðarárdrög
-Miðfjörður, Mið Fiord, Mið Fjörd
+Miðfjörður, Mið Fiord, Mið Fjord
 Miðgötumúli
 Miðheiðarhnjúkur, Miðheiðarhnúkur
 Miðheiðarháls
@@ -5112,10 +5112,10 @@ Nátþagafoss
 Nátþagi
 Náð
 Níkurvatn
-Nípa, Flesjartangi, Nepa Point
 Nípar
 Nípukollur
 Nípustapi
+Nípá, Flesjartangi, Nepa Point
 Nónaxlir
 Nónborg
 Nónbrík
@@ -5210,14 +5210,13 @@ Orravatnsrústir
 Orrustuhóll
 Orustuhóll
 Orustukambur
-Ossker, Svertlingar
 Otrardalsfjall
 Papafell
 Papafjörður, Papa Fiord, Papa Fjord, Papafjördr
 Papagrunn
 Papey, Pap
 Papós
-Paradis
+Paradís
 Partsgil
 Patreksfjarðarflói
 Patreksfjörður, Patreks Fjörd, Patreksfiord, Patrix Fjord
@@ -5740,7 +5739,7 @@ Seysdisfjordur Port, Seysdisfjordur Ferry Port, Seysdisfjordur Harbour
 Seyðisfjarðarflói
 Seyðisfjarðarhreppur
 Seyðisfjarðarkaupstaður
-Seyðisfjörður, Seydis Fjörd, Seydisfjördr, Seyðis Fiord
+Seyðisfjörður, Seydis Fjord, Seydisfjördr, Seyðis Fiord
 Seyðishólar
 Seyðisá
 Seyðisárdrög
@@ -6954,7 +6953,6 @@ Tröllá
 Trönuár
 Trússá
 Tumavík
-Tunga
 Tungnafell
 Tungnafellsjökull, Tungnafell Glacier
 Tungnafjall
@@ -6999,6 +6997,7 @@ Tungutindar
 Tungutjörn
 Tunguvað
 Tunguá
+Tungá
 Tvífjöll
 Tvímenningar
 Tvíngarðavað
@@ -7333,12 +7332,9 @@ Viðfjörður, Vid Fjord, Vidfjördr
 Viðibunga
 Viðidalsdrög
 Viðidalsfjöll
-Viðidalsá, Yididals
-Viðidalur
 Viðilækir
 Viðimúli
 Viðines
-Viðinesá
 Viðirhóll
 Viðivallafjall
 Viðivallaháls
@@ -7397,10 +7393,13 @@ Víðidalshnúkur, Víðidalshnjúkur
 Víðidalshæðir
 Víðidalstunguheiði
 Víðidalsvarp
+Víðidalsá, Yididals
 Víðidalsþverá
+Víðidalur
 Víðiker
 Víðilágaborg
 Víðinesdalur
+Víðinesá
 Víðir
 Víðirhólsfjallgarður
 Víðisvatn
@@ -7560,7 +7559,7 @@ Yztidalur
 Árskógshreppur
 Ártúnshöfði
 Ártúnsá
-Árvík
+Árvík, Ærvík
 Ás
 Ásahreppur
 Ásakvísl
@@ -7670,6 +7669,7 @@ Yztidalur
 Óslandshlíðarfjöll
 Ósnes
 Óspakseyrarhreppur
+Óssker, Svertlingar
 Óstafla
 Ósá
 Ótholi
@@ -7753,7 +7753,7 @@ Yztidalur
 Öxnadalshreppur
 Öxnadalsá
 Öxnadalur
-Öxney, Øxnaey
+Öxney, Öxnaey
 Öxneyjar
 Öxná
 Úlfarsdalssker

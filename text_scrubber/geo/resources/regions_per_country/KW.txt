@@ -32,10 +32,10 @@ Al 'Aqrabīyāt, 'Aqrabi, Agrabiyat, Al 'Aqrabīyah, Al Akrabiya, Al-Akrabiyyat,
 Al 'Arfajīyah, 'Arfajīyah, Al Arfajiya, Arafajiya, العرفجية, اَلْعَرْفَجِيَّة
 Al 'Awjah, اَلْعَوْجَة
 Al 'Awjā', Al Auja, Khawr al 'Awjat, اَلْعَوْجَاء
-Al 'Udaylīyah, 'Adailiyah, Al Eddailiya, Al-Adaliyyah, Aladailiya, Udailiyah, العديلية, اَلْعُضَيْلِيَّة
 Al 'Umarīyah, العمرية
 Al 'Uqaylah, العقيلة
 Al 'Uyūn, العيون
+Al 'Uḑaylīyah, 'Adailiyah, Al Eddailiya, Al-Adaliyyah, Aladailiya, Udailiyah, العديلية, اَلْعُضَيْلِيَّة
 Al 'Āriḑīyah, العارضية
 Al 'Āriḑīyah Takhzīn wa Isti'mālāt al Ḩukūmīyah, العارضية تخزين و استعمالات الحكومية
 Al Abāţiḩ, Al 'Abţah, Al Abata, Al Abatah, Al-Abateh, اَلأَبَاطِح
@@ -116,7 +116,7 @@ Al Ḩafīrah, Al Hafira, اَلْحَفِيرَة
 Al Ḩamār, Al-Hammar, اَلْحَمَار
 Al Ḩanabīyah, Al Hanabiya, Al Ḩannābīyah, Hannabiya, اَلْحَنَبِيَّة
 Al Ḩarīqah, Al Harija, اَلْحَرِيقَة
-Al Ḩimār, Al-Hammar, الحمار
+Al Ḩimār, Al Ḩammār, الحمار
 Al Ḩurayjah, اَلْحُرَيْجَة
 Al Ḩuzaym, Al Hazaim, Al Huzaim, Hazaim, Huzeem, Ḩamḑ al Ḩuzaym, Ḩazim, Ḩuzaym
 Amgharah, أمغرة
@@ -181,7 +181,7 @@ Aş Şadīq, الصديق
 Aş Şafwānīyah, اَلصَّفْوَانِيَّة
 Aş Şafāwīyah, اَلصَّفَاوِيَّة
 Aş Şubayḩīyah, As Subaihīya, Aş Şubayḩah, Sbahiyyah, Subaihiyah, Subaihīya, Subaithiya, Şubayḩīyah, اَلصُّبَيْحِيَّة
-Aş Şulaybikhāt, Sulaibikhat, Şulaybīkhāt, الصليبخات, اَلصُّلَيْبِيخَات
+Aş Şulaybīkhāt, Sulaibikhat, Şulaybīkhāt, الصليبخات, اَلصُّلَيْبِيخَات
 Aş Şulaybīyah, Al Salaibīyak, Al-Sulibiyyah, As Sulaibiya, Sulabiyah, Sulaibiya, Sulaibiyah, الصليبية, اَلصُّلَيْبِيَّة
 Aş Şulaybīyah az Zirā'īyah, الصليبية الزراعية
 Aş Şulaybīyah aş Şinā'īyah Ithnān, الصليبية الصناعية إثنان
@@ -193,7 +193,6 @@ Aţ Ţawīl, Al-Taweel, Tawail, Tawīl, اَلطَّوِيل
 Aţ Ţiyān, Aţ Ţayyān, الطيان, اَلطِّيَان
 Aḑ Ḑajīj, الضجيج
 Aḑ Ḑibā'īyah, Adh Dhaba'iya, Adhba'iyah, Al Adhaba'iyah, Al-Dba'iyyah, Al-Dhubaiyah, اَلضِّبَاعِيَّة
-Bahrat Umm Ghār, بَهْرَة أُمّ غَار
 Bandar ash Shuwaykh, Bandar ash Shuwaik, Bandar ash Shuwaikh, بَنْدَر اَلشُّوَيْخ
 Banāyā 'Urayfijān, Banaya 'Urayfuān, Banaya Araifjan
 Banāyā al Khīrān, Al Banāiya, Banāyah, Banāyā al Khayrān, Banīyat al Khawr, Banīyat-al-Khor, Barāyā al Khīrān, Jabal Banna, Jabal Bannah, بَنَايَا اَلْخِيرَان
@@ -206,6 +205,7 @@ Bayḑat aş Şubayḩīyah, بَيْضَة اَلصُّبَيْحِيَّة
 Baţn ash Shaqq, Baţn ash Shiqq, Wādī Ash Shiqq, بَطْن اَلشَّقّ
 Baḩrat Abū Ḩulayfah, بَحْرَة أَبُو حُلَيْفَة
 Baḩrat Mawshān, Baharat Hoshān, Bahra Mawshān, Bahrat Moshan, بَحْرَة مَوْشَان
+Baḩrat Umm Ghār, بَحْرَة أُمّ غَار
 Baḩrat al 'Awjah, بَحْرَة اَلْعَوْجَة
 Baḩrat al Abraq, بَحْرَة اَلأَبْرَق
 Baḩrat al Finţās, بَحْرَة اَلْفِنْطَاس
@@ -245,14 +245,14 @@ Jalīb ash Shuyūkh, جليب الشيوخ
 Janūb al Wusţá, جنوب الوسطى
 Janūb ash Shu'aybah, جنوب الشعيبة
 Janūb aş Şabāḩīyah, جنوب الصباحية
-Jazīrat 'Awhah, 'Auha Island, 'Awhah, Auhah Island, Jazirat Auħah, Jazīrat Auha, جَزِيرَة عَوْهَة
+Jazīrat 'Awhah, 'Auha Island, 'Awhah, Auhah Island, Jazirat Auhah, Jazīrat Auha, جَزِيرَة عَوْهَة
 Jazīrat Būbiyān, Bubiyan, Bubiyan Island, Jazirat Būbyān, جَزِيرَة بُوبِيَان
-Jazīrat Faylakā, Faijlaka Island, Failaka Island, Failakah Island, Failicha, Faylakah, Fulaykā', Fēlaka , Jazīrat Failaka, Jazīrat Falakā, Jazīrat Faylakah, Jazīrat al-Falakah, Pheleechi, جَزِيرَة فَيْلَكَا
+Jazīrat Faylakā, Faijlaka Island, Failaka Island, Failakah Island, Failicha, Faylakah, Fulaykā', Fēlaka , Jazirat Failaka, Jazīrat Falakā, Jazīrat Faylakah, Jazīrat al-Falakah, Pheleechi, جَزِيرَة فَيْلَكَا
 Jazīrat Kubbar, Ab Kubr Island, Al Kubbar, Al Kuber, Al Kubr, Jazīrat Kubār, Jazīrat al Kubr, Kubbar Island, Kuber, Kubra Island, جَزِيرَة كُبَّر
 Jazīrat Miskān, Jazīrat Mashjan, Machiane, Mashjang, Mashjān Island, Mashyān, Maskan Island, Maskān, Mischan, Miskan Island, Miskān, جَزِيرَة مِسْكَان
 Jazīrat Qurayn, Grain, Graine, Jazirat Kurein, Jazirat Qurain, Jazīrat al Quraiyin, Jazīrat ash Shuwaikh, Jezirat Kurain, Kurein Island, Shuwaikh Island, جَزِيرَة قُرَيْن
 Jazīrat Qārūh, Jazīrat Kārū, Jezirat Karu, Qarawah, Qaruh Island, Qārawh, Qārū, جزيرة قاروه
-Jazīrat Umm al Marādim, Island Umm Al-Maradem, Umm al Maradim, Umm al Maradim Island, جزيرة أم المرادم
+Jazīrat Umm al Marādim, Island Umm Al-Maradem, Umm Al Maradim Island, Umm al Maradim, جزيرة أم المرادم
 Jazīrat Umm an Namal, جزيرة أم النمل
 Jazīrat Umm an Naml, Jazirat Umm an Namil, Jazīrat Umm al-Namil, Jazīrat Umm an Namī, Umm Al-Nemmel, Umm an Namil, Umm an Namil Island, جَزِيرَة أُمّ اَلنَّمْل
 Jazīrat Warbah, جَزِيرَة وَرْبَة
@@ -262,7 +262,7 @@ Judaylīyāt, Al-Jadailiat, Jadailiyat
 Jābir al 'Alī, جابر العلى
 Jāl al Aţrāf, جَال اَلأَطْرَاف
 Jāl al Liyāḩ, Jal al Liya, Jāl-al-Yāh, جَال اَللِّيَاح
-Jāl az Zawr, Jal az Zaur, Jal az Zor, Jāk az Zawr, جاك الزور, جَال اَلزَّوْر
+Jāl az Zawr, Jal Az-Zor, Jal az Zaur, Jāk az Zawr, جاك الزور, جَال اَلزَّوْر
 Karādī, كَرَادِي
 Kasr Mudayrah, Kasr Madayrah, Madaira Reef, Mudayrah
 Kayfān, Kaifan, كيفان
@@ -328,7 +328,7 @@ Khawr al Qad, Khor al Gayed, خَوْر اَلْقَد
 Khawr al Qurayn, خَوْر اَلْقُرَيْن
 Khawr an Nahm, خَوْر اَلنَّهْم
 Khawr as Sūr, خَوْر اَلسُّور
-Khawr aş Şabīyah, Bubian, Bubiyan, Hor es Sabiyeh, Khawr aş Şabīḩīyah, Khawr Şabīyah, Khor Al-Sabiyah, Khor Sabiye, Khor as Sabiya, Khor as Subīya, Khor as̄ S̄ubiyah, Khor-as-Sabīyah, خَوْر اَلصَّبِيَّة
+Khawr aş Şabīyah, Bubian, Bubiyan, Hor es Sabiyeh, Khawr aş Şabīḩīyah, Khawr Şabīyah, Khor AS-S̄ubiyah, Khor Al-Sabiyah, Khor Sabiye, Khor as Sabiya, Khor as Subīya, Khor-as-Sabīyah, خَوْر اَلصَّبِيَّة
 Khawr Ḩawbān, Khor Hauban, Khor Hoban
 Khayţān al Janūbī, خيطان
 Khuwaysāt, Al Khuwaisat, Al Khuwāysat, Al Kuwaisat, Al Quwaysāt, Khwaisat, Khwesat, Umm-al-Khuwaisah
@@ -418,15 +418,15 @@ Qābjī, قَابْجِي
 Ra's 'Ajūzah, Ras Ajousah, Ras Azūzah, Rās 'Ajūza, رَأْس عَجُوزَة
 Ra's 'Ushayrij, Ra's 'Ushayriq, Ra's ad Dawḩah, Ras 'Ashairij, Ras 'Ashairiq, Rās 'Ashairiz
 Ra's Kāz̧imah, Ras Kádhama, Ras al Kādhima, Rās Kādhamah, رَأْس كَاظِمَة
-Ra's al Arḑ, Rā's Al-'Ardh, رأس الارض, رَأْس اَلأَرْض
+Ra's al Arḑ, Ra's Al-'Ardh, رأس الارض, رَأْس اَلأَرْض
 Ra's al Barshah, Ra's al Barshar, Ra's al Barīshah, Ra's al Burshah, Ras Al-Barsha, Ras al Buraisha, Rās-as-Barshah, رأس البريشة, رَأْس اَلْبَرْشَة
 Ra's al Līwān, رَأْس اَللِّيوَان
 Ra's al Manqaf, Al Mangaf, Ra's al Minqāf, Rās al Mangaf, رَأْس اَلْمَنْقَف
 Ra's al Oayd, Rā's Al-Gayed, راس القيد, رَأْس اَلأَُيْد
-Ra's al Qayd, Rā's al Gayed, Rās al Qaid, راس القيد, رَأْس اَلْقَيْد
+Ra's al Qayd, Rā's Al-Gayed, Rās al Qaid, راس القيد, رَأْس اَلْقَيْد
 Ra's al Qiḩḩah, Ra's al-Qiḩah, رَأْس اَلْقِحَّة
 Ra's al Qulay'ah, Al Julay'ah, Jilai'a, Ra's al Jilai'a, Ra's al Qalīyah, Ras Al Jlay'ah, Rās al Qalīya, Rās-al-Qalai'ah, رَأْس اَلْقُلَيْعَة
-Ra's al Yahī, رَأْس اَلْيَحِي
+Ra's al Yaḩī, رَأْس اَلْيَحِي
 Ra's al Ḩimārah, رَأْس اَلْحِمَارَة
 Ra's ar Ruwaysīyah, Ra's ar Ru'aysīyah, Rā's Allugfah, رَأْس اَلرُّوَيْسِيَّة
 Ra's az Zawr, Ras Al-Zour, Ras az Zor, Rās az Zaur, رَأْس اَلزَّوْر

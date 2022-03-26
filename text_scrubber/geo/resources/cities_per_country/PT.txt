@@ -426,8 +426,8 @@ Alheira
 Alheira de Aquém
 Alhos Vedros
 Alhões
-Alijo, Alijó Municipality
 Alijão
+Alijó, Alijó Municipality
 Alimonde
 Aljezur, Aljezur Municipality
 Aljubarrota
@@ -717,7 +717,6 @@ Aranhas de Baixo
 Aranhas de Cima
 Arazede, Araxede
 Araújo
-Arca
 Arcas
 Arcena
 Arco
@@ -732,6 +731,7 @@ Arcozelo, Arcozello, Argaselo
 Arcozelo da Torre
 Arcozelo das Maias
 Arcozelo do Cabo
+Arcã
 Ardegães
 Ardegão
 Ardido
@@ -813,8 +813,8 @@ Arneiro de Sazes
 Arneiro de Tremês
 Arneiro do Pisão
 Arneiro dos Marinheiros
-Arneiros
 Arneiros de Baixo
+Arneirós
 Arnelas
 Arnoia
 Arnosa
@@ -1210,9 +1210,9 @@ Barreiras Novas
 Barreiras Velhas
 Barreiria
 Barreirinhas
-Barreiro, Barreiro Municipality
 Barreiro de Besteiros
 Barreiros
+Barreirô, Barreiro Municipality
 Barrela
 Barrenta
 Barreosa
@@ -1226,7 +1226,6 @@ Barril de Baixo
 Barril de Cima
 Barrinho
 Barrins
-Barro
 Barro Branco
 Barroca
 Barroca Grande
@@ -1248,6 +1247,7 @@ Barroselas
 Barrosinha
 Barroso
 Barroças e Taias
+Barrô
 Barão de São João
 Barão de São Miguel
 Bassar
@@ -1271,7 +1271,6 @@ Beco
 Bedanais
 Beduido
 Beijós
-Beira
 Beira Grande
 Beira Valente
 Beira-Mar
@@ -1281,6 +1280,7 @@ Beiriz
 Beiriz de Baixo
 Beirolas
 Beiroz
+Beirã
 Beirão
 Beiçudo
 Beja, Beja Municipality, Conistorgis
@@ -1530,7 +1530,6 @@ Bouro
 Bousende
 Boussos
 Bouxinhas
-Bouça
 Bouça Cova
 Bouça Soeiro
 Bouça Velha
@@ -1541,6 +1540,7 @@ Bouças
 Bouças Donas
 Bouços
 Bouçoãis
+Bouçã
 Boxinos
 Boza
 Bracial
@@ -1695,7 +1695,6 @@ Cabecinha
 Cabecinhas
 Cabecinho
 Cabecinhos
-Cabeda
 Cabenco
 Cabeça
 Cabeça Alta
@@ -1772,6 +1771,7 @@ Cabriteira
 Cabriz
 Cabroeira do Meio
 Cabrum
+Cabêda
 Cacela
 Cacela Velha
 Cacemes
@@ -1817,7 +1817,6 @@ Cainheiras
 Caio
 Caires
 Cairrão
-Cais
 Cais Novo
 Cais da Urzelina
 Cais do Galego
@@ -2078,7 +2077,6 @@ Cardal Grande
 Cardanha
 Cardeal
 Cardeira
-Cardia
 Cardida
 Cardielos, Cardiellos
 Cardigos
@@ -2759,9 +2757,9 @@ Cela Velha
 Celada
 Celas
 Celavisa
-Celeiros
 Celeiroz
 Celeiró do Monte
+Celeirós
 Celorico da Beira, Celorico, Celorico da Beira Municipality
 Celorico de Basto, Celorico de Basto Municipality
 Cem
@@ -2853,10 +2851,10 @@ Chamoinha
 Chamosinhos
 Chamusca, Chamusca Municipality
 Chan
-Chanca
 Chancelaria
 Chanceleiros
 Chancuda
+Chança
 Chapa
 Chaparral
 Chapeleiro
@@ -3042,7 +3040,7 @@ Cogambreiro
 Cogominho
 Cogula
 Coice de Eira
-Coimbra, Coimbra Municipality
+Coimbrã, Coimbra Municipality
 Coimbrão
 Coimbró
 Coimbrões
@@ -3213,9 +3211,9 @@ Cortiçadas
 Cortiçadas do Lavre
 Cortiçal
 Cortiçal de Baixo
-Cortiço
 Cortiçois
 Cortiços
+Cortiçô
 Cortiçô da Serra
 Coruche, Coruche Municipality
 Corucho
@@ -3264,11 +3262,11 @@ Cotão
 Coucieiro
 Coucinheira
 Coucão
-Coura
 Courel
 Courela
 Courelas
 Courelinhas
+Courã
 Coutada
 Coutada de Barros
 Coutada de Cima
@@ -3453,10 +3451,12 @@ Cuvetas
 Cuvinho
 Cuxerre
 Cárcua
+Cárdia
 Cárquere
 Câmara de Lobos, Câmara de Lobos Municipality
 Câmara do Bispo
 Cães de Baixo
+Cãis
 Cércio
 César
 Córdova
@@ -3974,11 +3974,11 @@ Ferreiras
 Ferreirim
 Ferreirinha
 Ferreirinhos
-Ferreiro
-Ferreiros
 Ferreiros de Avões
 Ferreiros de Baixo
 Ferreiros de Tendais
+Ferreiró
+Ferreirós
 Ferrel, Ferrol
 Ferrenha
 Ferro
@@ -4001,7 +4001,6 @@ Feteiras
 Feteiras de São Pedro
 Feteirinha
 Fetil
-Fiais
 Fiais da Telha
 Fiais do Ervedal
 Fial
@@ -4029,11 +4028,11 @@ Figueiredo de Alva
 Figueiredo de Baixo
 Figueirinha
 Figueirinhas
-Figueiro
 Figueiro da Granja
 Figueiro da Serra
 Figueiros
 Figueirosa
+Figueiró
 Figueiró do Campo
 Figueiró dos Vinhos, Figueiró dos Vinhos Municipality
 Filha Boa
@@ -4053,6 +4052,7 @@ Fitoiro
 Fiães, Santa Maria de Fiães
 Fiães do Rio
 Fiães do Tâmega
+Fiãis
 Flamengos
 Flandes
 Flor da Rosa
@@ -4664,7 +4664,7 @@ Grainho
 Grajal
 Gralhas
 Gralheira
-Gralhos
+Gralhós
 Gramachinha
 Gramas, Grammas
 Gramatinha
@@ -4885,7 +4885,6 @@ Juizo
 Juliãos
 Juncais, Ponte de Junoais
 Juncais de Baixo
-Juncal
 Juncal de Cima
 Junceira
 Junco
@@ -4895,6 +4894,7 @@ Junqueiros
 Junquinho
 Junto
 Junça
+Junçal
 Juremelo
 Juromenha
 Justamonte
@@ -5235,9 +5235,9 @@ Louriceiras de Baixo
 Louriceiras de Cima
 Lourido
 Lourim
-Lourinha, Lourinhã Municipality
 Lourinha de Baixo
 Lourinhal
+Lourinhã, Lourinhã Municipality
 Lourisela
 Lourizela
 Louriçal
@@ -5247,12 +5247,12 @@ Louro
 Lourosa, Louroza
 Lourosa da Trapa
 Lourosa de Matos
-Lousa, Lousã Municipality, Louza
 Lousa Pequena
 Lousada, Lousada Municipality, Louzada
 Lousado
 Lousal
 Lousas
+Lousã, Lousã Municipality, Louza
 Louzadela
 Louzado
 Louzinha
@@ -5310,7 +5310,6 @@ Macedinho
 Macedo de Cavaleiros, Macedo de Cavaleiros Municipality
 Macedo do Mato
 Macedo do Peso
-Maceira
 Maceirinha
 Machada
 Machados, Machado
@@ -5338,9 +5337,9 @@ Madail
 Madalena, Madalena Municipality, Magdalena
 Madalena do Mar, Magdalena
 Madancos
-Madeira, Autonomous Region of Madeira, Região Autónoma da Madeira
 Madeiras
 Madeiros
+Madeirã, Autonomous Region of Madeira, Região Autónoma da Madeira
 Madorra
 Madre de Deus
 Madureirinha
@@ -5359,7 +5358,6 @@ Magros
 Magueija
 Magueijinha
 Magusteiro
-Maia, Maia Municipality, Maya
 Maiorais
 Maiorca
 Maiorga
@@ -5615,12 +5613,14 @@ Maçainhas de Baixo
 Maçal da Ribeira
 Maçal do Chão
 Maçanedo
-Maças
+Maçeira
 Maçoida
 Maçores
 Mação, Mação Municipality
+Maçãs
 Maçãs de Caminho
 Maçãs de Dona Maria
+Maía, Maia Municipality, Maya
 Meadela
 Mealha
 Mealhada, Mealhada Municipality
@@ -5751,7 +5751,7 @@ Milharado
 Milhazes
 Milheiriças
 Milheiro
-Milheiros
+Milheirós
 Milheirós de Poiares
 Milhouro
 Milhundos, San Martino de Milhundas
@@ -6325,13 +6325,13 @@ Mosqueiro
 Mosqueiros
 Mossâmedes
 Mosteirinho
-Mosteiro
 Mosteiro Cimeiro
 Mosteiro Fundeiro
-Mosteiro de Cima
 Mosteiro de Fráguas, Mosteiro de Frágoas
 Mosteiros
 Mosteirão
+Mosteiró
+Mosteiró de Cima
 Mota
 Motes
 Motrinos
@@ -6503,8 +6503,8 @@ Nogueira do Cravo
 Nogueiras
 Nogueiredo
 Nogueirinha
-Nogueiro
 Nogueiros
+Nogueiró
 Noitinhas Novas
 Noninha
 Nora
@@ -6825,7 +6825,6 @@ Paradinha de Besteiros
 Paraduça
 Parafita
 Paraisal
-Paraiso, Paraizo
 Paralheira
 Parambos
 Parameira
@@ -6834,6 +6833,7 @@ Paranho
 Paranhos, Paranhas, Paranhos da Beira
 Paranhão
 Paraímo
+Paraíso, Paraizo
 Parceiros
 Parceiros da Igreja
 Parceiros de São João
@@ -6884,8 +6884,8 @@ Passarias
 Passinhos
 Passinhos de Baixo
 Passinhos de Cima
-Passo
 Passos
+Passô
 Pastaneira
 Pasteleiro
 Pastor
@@ -6912,7 +6912,6 @@ Pavia
 Pavões
 Paz
 Pazide
-Paço
 Paço Vedro de Magalhães
 Paço Velho
 Paço da Quinta
@@ -6931,6 +6930,7 @@ Paços da Serra
 Paços de Brandão
 Paços de Ferreira, Paços de Ferreira Municipality
 Paços de Gaiolo
+Paçô
 Paçô Vieira
 Paçô de Sortes
 Pecene
@@ -6985,7 +6985,6 @@ Pedrinha
 Pedro Miguel
 Pedrogo
 Pedrogueira
-Pedrogão, Pedrogam
 Pedrome
 Pedronhe
 Pedros
@@ -6997,6 +6996,7 @@ Pedrulha
 Pedrulheira
 Pedrulhos
 Pedrário
+Pedrógão, Pedrogam
 Pedrógão Grande, Pedrógão Grande Municipality, Pedrógão-o-Grande
 Pedrógão Pequeno
 Pedrões
@@ -7389,7 +7389,6 @@ Ponto Carro
 Pontão
 Pontével
 Populo
-Porca
 Porcariça
 Porcelhe
 Porches
@@ -7507,6 +7506,7 @@ Portos
 Portugal
 Portunhos
 Portuzelo
+Porçã
 Possacos
 Postimião
 Posto Maior
@@ -7801,7 +7801,6 @@ Quimbres
 Quinchães
 Quinhendros
 Quinhão
-Quinta
 Quinta Branca
 Quinta Curvaceira
 Quinta Do Conde
@@ -7993,7 +7992,6 @@ Quinta dos Vales
 Quinta dos Vigários
 Quintandona
 Quintanilha
-Quintas, Quintans
 Quintas de São Bartolomeu
 Quinteiro
 Quinteiros
@@ -8003,10 +8001,12 @@ Quintela de Lampaças
 Quintiães
 Quintião
 Quintos
+Quintã
 Quintã de Martins Pero
 Quintã do Loureiro
 Quintãis
 Quintão
+Quintãs, Quintans
 Quintãs de Baixo
 Quintãs de Cima
 Quiraz
@@ -8419,7 +8419,6 @@ Rodeio
 Rodeios
 Rodeiro
 Rodrigos
-Rodão
 Rodízio
 Roem
 Roge
@@ -8508,13 +8507,13 @@ Rua do Oliveira
 Rubiãis, Rubiaes
 Ruge Água
 Ruilhe
-Ruivais
 Ruival
 Ruivas
 Ruivelas
 Ruivos
 Ruivoz
 Ruivães
+Ruivãis
 Rumeleira
 Rumorinho
 Runa
@@ -8522,6 +8521,7 @@ Russo
 Ruvina
 Rãs
 Réfega
+Ródão
 Róios
 S. Simão
 Sabacheira
@@ -8980,9 +8980,9 @@ Sepeda
 Sepins
 Sequeade
 Sequeira
-Sequeiro
 Sequeiros
 Sequeiros de Baixo
+Sequeirô
 Serafão
 Seramena
 Seramil
@@ -9088,7 +9088,6 @@ Signo Samo
 Sijãis
 Silgueiros
 Silhães
-Silva
 Silva Escura
 Silvaescura
 Silval
@@ -9114,6 +9113,7 @@ Silveiros
 Silves, Cilpes, Shilb, Silves Municipality
 Silvite
 Silvosa
+Silvã
 Silvã de Cima
 Simantorta
 Simptes de São Pedro
@@ -9776,7 +9776,6 @@ Tortozendo
 Tostão
 Totenique
 Toubres
-Touca
 Toucinhos
 Tougues
 Touguinha
@@ -9798,6 +9797,7 @@ Tourém
 Tourões
 Toutosa
 Touvedo
+Touça
 Tovim
 Tovim do Meio
 Tozeiro
@@ -9827,10 +9827,10 @@ Travancas
 Travancela
 Travancinha
 Travassinho
-Travasso
-Travassos
 Travassos de Cima
+Travassós
 Travassós de Baixo
+Travassô
 Traveira
 Travessa
 Travessa do Ferrobim
@@ -9932,7 +9932,7 @@ Urmar
 Urqueira
 Urra
 Urraca
-Urros
+Urrós
 Urrô
 Ursulinas
 Urzal
@@ -10616,7 +10616,7 @@ Vila Nova das Patas
 Vila Nova de Anços, Vila Nova d'Anços, Villa Nova d'Anços
 Vila Nova de Babeca
 Vila Nova de Ceira
-Vila Nova de Cerveira, Vila Nova da Cereira, Vila Nova de Cerveira Municipality, Vila Nova do Cerveira
+Vila Nova de Cerveira, Vila Nova da Cereira, Vila Nova da Cerveira, Vila Nova de Cerveira Municipality
 Vila Nova de Famalicão, Vila Nova de Famalicão Municipality, Vila Nova de Tamalicão
 Vila Nova de Foz Côa, Vila Nova de Foz Côa Municipality, Villa Nova de Foscôa
 Vila Nova de Fusos
@@ -10799,7 +10799,7 @@ Vinhal
 Vinhas
 Vinhas Novas
 Vinheiros
-Vinho
+Vinhó
 Vinhós
 Vinte Seis
 Violeiro
@@ -10938,13 +10938,13 @@ campo pequeno, Campo Pequeno Lisbon Portugal
 Águas de Moura
 Águas de Peixes
 Águas de Verão, Casal Águas de Verão
-Águeda, Águeda Municipality
+Águeda, Agueda Municipality
 Álamo, Almo
 Álamos Bravos
 Árvore
 Ázere
 Émeres
-Évora, Aebura, Elbora, Erbora, Ébora, Évora Municipality, Évora d'Alcobaça
+Évora, Aebura, Ebora, Elbora, Erbora, Évora Municipality, Évora d'Alcobaça
 Évora Monte
 Ílhavo, Ílhavo Municipality
 Ínsua

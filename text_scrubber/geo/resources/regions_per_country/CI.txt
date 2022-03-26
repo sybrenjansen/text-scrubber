@@ -133,7 +133,7 @@ Agbé
 Ageti
 Agfifidji
 Agniapi
-Agnibesso
+Agnibèsso
 Agnébi, Aebi River, Agnibi River, Rivière Aéby
 Agnéby, Région de l'Agnéby
 Agnéby-Tiassa
@@ -423,7 +423,6 @@ Ayéposso
 Azimé
 Aéna, Aéno
 Aésso
-Ba, Baa
 Baako
 Baba
 Babasso
@@ -606,9 +605,7 @@ Ben
 Bendaguioma
 Bendasso
 Bendi
-Bene
 Bengokro
-Bengoro
 Beni
 Benkono
 Benni
@@ -690,7 +687,6 @@ Blékya, Mont Blékia
 Blémibiékou
 Blénobo
 Bléré
-Bo, Bogona
 Boa, La Boa
 Boadiri
 Boahi
@@ -715,8 +711,8 @@ Bocca-Oufoué
 Bodiabo
 Bodiarani
 Bodibo
-Bodie
 Bodio
+Bodié
 Bodo, Boda
 Bodougou
 Bofalo
@@ -772,7 +768,6 @@ Bokwo
 Bola, Rapide Baalay, Rapides Bola
 Bolambo
 Bolin
-Bolo, Bwiko River, Rivière Bè, Rivière Fresco, Trédji
 Boloba
 Bolobi
 Boloboloba
@@ -976,8 +971,10 @@ Bwébwô, Bwébnô
 Bwéni, Moko
 By, Rapides By
 Byinkalako
+Bâ, Baa
 Bè
 Bèndo, Benda
+Bèngoro
 Bèrènè
 Bèy
 Béa
@@ -1020,6 +1017,7 @@ Bénidyarala
 Bénin
 Bénkoni
 Bénzinou
+Béné
 Béo
 Béou, Békou
 Béoura
@@ -1051,6 +1049,8 @@ Bété
 Béwa, Béhoua
 Bézinékrou
 Bézéko
+Bô, Bogona
+Bôlo, Bwiko River, Rivière Bè, Rivière Fresco, Trédji
 Bônimé
 Cacala
 Can, Con
@@ -1307,7 +1307,6 @@ Djoma
 Djonga Bali
 Djougourou, Djourou Riviére
 Djèmika
-Do
 Doani, Doany
 Dobowa
 Doboéni, Doboehi
@@ -1557,6 +1556,7 @@ Département de Zoukougbeu, Zoukougbeu
 Département de Zuénoula, Zuénoula
 Dérébakourou
 Dézanidoro
+Dô
 Earakoba
 Ebahia
 Ebaka, Baka
@@ -1640,7 +1640,6 @@ Fako
 Fakohgoba
 Fakon
 Fakorodougou
-Fala
 Falaba
 Faladoua
 Falan-Falan
@@ -2004,6 +2003,7 @@ Frako
 Frebo Oka
 Fromager, Région du Fromager
 Fwé
+Fâla
 Fèndigi-Kourou
 Fènkwo
 Fèrèfou
@@ -2027,7 +2027,6 @@ Fétin Souana
 Fété
 Fété Bouaka
 Fôret Classée Cavally
-Ga
 Gabo
 Gaborou
 Gadyélo
@@ -2283,6 +2282,7 @@ Guérézo
 Guéssanmounzou
 Gwala
 Gwéyagouho, Gouéyagouho
+Gâ
 Gé
 Géorèt, Guéoret
 Géra
@@ -2546,11 +2546,9 @@ Klé Loho
 Klénoumbé
 Klô
 Knénin
-Ko, Koh
 Koabolo
 Koani
 Koassué
-Koba
 Kobakoni, Kobadjé
 Kobal
 Kobalakoulou
@@ -2580,7 +2578,6 @@ Kobèkwo
 Kobé
 Kobéko, Kobéka
 Koda
-Kodeni
 Kodia
 Kodialani
 Kodialanou
@@ -2609,6 +2606,7 @@ Kodyarani
 Kodyougou
 Kodyouni
 Kodyourou
+Kodéni
 Kodénigué
 Koffi
 Koffibo
@@ -2871,7 +2869,7 @@ Kouatchi
 Kouaï
 Kouba
 Koubassé
-Koubekyé
+Koubékyé
 Koudièngoni
 Koudouény
 Kouelé
@@ -3079,7 +3077,7 @@ Kéléya, Kéyéla
 Kémaga
 Kémorokourou
 Kémébo
-Kénaléni, Kénalény
+Kénaléni, Kenalény
 Kéniayako
 Kénizara
 Kéouko
@@ -3096,7 +3094,9 @@ Kétébassuo
 Kétégbé
 Kétépélélé
 Kéyikoba
+Kô, Koh
 Kô-Dialé
+Kôba
 Kôfi
 La Dent de Man
 La Goin, La Gouin
@@ -3207,7 +3207,6 @@ Legbédougou
 Lei
 Lekolo
 Lekourounou
-Lemourouko
 Lenguemassa
 Lengémousoko
 Lessé
@@ -3464,6 +3463,7 @@ Lélébiaba, Léléliaba
 Léléko-Faranendya
 Lélémou
 Lémourou
+Lémourouko
 Lémouroukoba
 Lénion
 Léo
@@ -3615,7 +3615,6 @@ Mbanga
 Mbassin
 Mbasso
 Mbat
-Mbe, Bé Rivière
 Mben
 Mbengué
 Mbobosi, Mbobossi
@@ -3625,6 +3624,7 @@ Mborou, Mbourou, Poupo
 Mboti
 Mbryo
 Mbré
+Mbé, Bé Rivière
 Mbéchi
 Mbéchi Apo
 Mbéoua
@@ -3663,7 +3663,6 @@ Miséminko
 Mité
 Mlakayoboué
 Mlon, Mlan
-Mo
 Moaidi
 Moanyanga
 Moassin
@@ -3903,6 +3902,7 @@ Métien
 Métressua
 Météblé
 Mézué
+Mô
 Môou
 N'Zi
 N'gassikasso
@@ -4038,7 +4038,6 @@ Nebe
 Nedyengbala, Nédiengbala
 Negbri
 Negué
-Nehéré
 Neima
 Nemi
 Nengé
@@ -4383,6 +4382,7 @@ Néguéfoua
 Négéboko
 Négékoroko
 Négélakourou
+Néhéré
 Néira
 Néka, Grande Néka
 Nékion
@@ -4911,7 +4911,6 @@ Sawo
 Sazawo
 Saï
 Scio
-Se
 Sedi, Seddy
 Segbono
 Segouaningoué
@@ -4972,7 +4971,6 @@ Sinti
 Sintiba
 Sio, Ssio
 Sionse, Syonsse
-Siopo
 Siouaou
 Siradougou
 Siramala
@@ -5001,12 +4999,12 @@ So
 Soapi
 Sobaga
 Sobala
-Sobe
 Sobié
 Soblébois
 Sobomé
 Sobrengo
 Sobro
+Sobé
 Sodalako
 Sodalakourouba
 Sodyanga, Sodyango
@@ -5052,7 +5050,6 @@ Somo
 Somorofoko
 Somène
 Soméouessé
-Son
 Sonadougou
 Sonan
 Songan
@@ -5278,6 +5275,7 @@ Syinko
 Syon
 Syènko
 Sèwoni
+Sé
 Sébako
 Sébani
 Sébany
@@ -5330,6 +5328,8 @@ Séziéni
 Sézèkourou
 Sézékourouko
 Séé
+Sïopo
+Sôn
 Ta
 Taatioli
 Tabagne, Sous-préfecture de Tabagne
@@ -5447,7 +5447,6 @@ Tenkoni
 Tenkoro-Kourou
 Tennedi
 Tenègba
-Tené
 Teouekélé
 Tessa
 Tessi
@@ -5475,7 +5474,6 @@ Tien
 Tienba, Tiemba, Tyenba
 Tienhara
 Tienjolo
-Tienko, Tyinko
 Tiennyko
 Tientou
 Tiewé
@@ -5513,6 +5511,7 @@ Titaranssué
 Titi
 Titihiti
 Tizyo, Tizio
+Tiènko, Tyinko
 Tiéba
 Tiékban
 Tiéko
@@ -5526,7 +5525,6 @@ Tiétan
 Tiétomo
 Tiéton-Kourou
 Tiétougo, Tyetougo
-To
 Toa
 Toatioli
 Tobo
@@ -5700,6 +5698,7 @@ Téngo
 Téningué
 Ténou
 Tényé
+Téné
 Ténéba
 Ténégéloho, Ténéguéloho
 Ténélogo
@@ -5712,6 +5711,7 @@ Térézé
 Tésékoni
 Tétekpa
 Tété
+Tô
 Uakré
 Uémé
 Vadolinyi
@@ -5956,12 +5956,12 @@ Zoué
 Zozolo
 Zozoro
 Zribobo
-Zuebapli
 Zuenda
 Zuoké
 Zuéba
 Zuébada
 Zuébadan
+Zuébapli
 Zuébouétré
 Zuéfoué
 Zuékokoné

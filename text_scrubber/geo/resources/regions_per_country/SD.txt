@@ -227,7 +227,6 @@ Abu Hariq
 Abu Harot
 Abu Higeleg
 Abu Hoqāra
-Abu Hugar
 Abu Hugeirat, Abū Ḩujayrāt
 Abu Hujar Locality, Abu Houjar, Abu Hujar, Maḩallīyat Abū Ḩujār, أبو حجار, محلية أبو حجار
 Abu Hāymā
@@ -248,7 +247,6 @@ Abu Ras
 Abu Reteiha, Abu Betciha, Abū Betchia
 Abu Rīsh
 Abu Seba
-Abu Shama
 Abu Shanran
 Abu Shatti
 Abu Sher
@@ -256,6 +254,7 @@ Abu Shiggaf
 Abu Shok
 Abu Shosh
 Abu Shuk
+Abu Shāma
 Abu Silem, Abu Salim
 Abu Suneit, Abū Sunayţ
 Abu Tabaqend
@@ -272,7 +271,6 @@ Abu el Ina, Bur El' Ina
 Abu en Nur
 Abughani
 Abun Qawia
-Abyad
 Abyad el Baraka
 Abyad el Managir
 Abyad ez Zabut, Abyaḑ az Zabut
@@ -281,6 +279,7 @@ Abyar Gammam
 Abyar Kalhoteb
 Abyar Oy
 Abyar al Hasanah
+Abyaḑ
 Abyaḑāri
 Abyei
 Abyār Qadamāyēb
@@ -300,6 +299,7 @@ Abū Gushad
 Abū Haraf
 Abū Hashim
 Abū Heimra
+Abū Hugar
 Abū Jarād, Abu Garad
 Abū Jazīrah, Abu Gezira
 Abū Khorit
@@ -1115,7 +1115,6 @@ Bi'r Hamikwab
 Bi'r Haraf
 Bi'r Harbub, Bir Harbob
 Bi'r Hindiet
-Bi'r Is
 Bi'r Jarīd, Bir Girid
 Bi'r Jugub, Bir Guqub
 Bi'r Kajūj, Bir Kagog, Bir Kujoj, Bîr Kagûg
@@ -1234,6 +1233,7 @@ Bi'r as Sayyāḩ, Bir es Saiyah
 Bi'r as Sumayḩāt, Bir es Simeihat, Bireira
 Bi'r at Temira
 Bi'r aţ Ţawīlah, Bir et Tawila
+Bi'r Īs
 Bi'r Ţarfāwī, Bir Terfawi
 Bi'r Ḩasanāwī, Bir Hassanawi
 Bi'r Ḩaţab
@@ -1366,7 +1366,7 @@ Bir Idris
 Bir Igir
 Bir Ilāmēt
 Bir Indiri Kuwan, Endiraikwan
-Bir Intiyay, Intiai
+Bir Intiyāy, Intiai
 Bir Iryamēt
 Bir Jiairin, Gu'eirin
 Bir Kabota
@@ -1425,8 +1425,8 @@ Bir Rabdeit
 Bir Rikkab
 Bir Rōfamt
 Bir Sadonub
-Bir Salala, Bir Sarara, Salala, Salâla Well, Sarara
 Bir Salalat
+Bir Salālā, Bir Sarara, Salala, Salâla Well, Sarara
 Bir Sanaweit Kamoy
 Bir Sanqānay
 Bir Sarar Nawar
@@ -1450,7 +1450,7 @@ Bir Suqeir
 Bir Suqudeb
 Bir Sureif, Bi'r Surayf
 Bir Tadulābyāy
-Bir Tahamyam
+Bir Tahāmyām
 Bir Talaggaw
 Bir Talkub
 Bir Tamhilāy
@@ -3128,7 +3128,6 @@ Hafir Haj Ali
 Hafir Haj Hamid
 Hafir Haj Said
 Hafir Haj as Sideiq
-Hafir Hamad
 Hafir Hasabarrasol
 Hafir Hassan Brkat
 Hafir Hassan Fadullah Ruheima
@@ -3415,7 +3414,6 @@ Hamatait
 Hambali
 Hambuti Hills
 Hambuti Wells
-Hamdab, Hamdab Island
 Hamdan
 Hamdullah, Bir Khamdullakh
 Hamedai, Fula Khameday
@@ -3444,7 +3442,6 @@ Harorayeet, Two Islands, Two Islets
 Harra Wells
 Harriam
 Hasabullah
-Hasanab
 Hasaya, El Hasaia
 Hashab
 Hashaba
@@ -3521,7 +3518,7 @@ I Hubâl
 Ianbill Minor
 Iat Ab Tomab
 Ibam Dilal
-Ibrahimab
+Ibrāhīmāb
 Id Ab Gadad
 Id Abu Sham
 Id Abu Sireih
@@ -3612,7 +3609,7 @@ Inderaba
 Ingahad
 Ingalhi
 Ingessana Hills
-Iqayēb
+Iqāyēb
 Iqēdat Rāshid
 Irashāy
 Irau
@@ -3746,7 +3743,7 @@ Jabal Abu Zoyat
 Jabal Abul
 Jabal Abuldugu
 Jabal Abun, Djebel Aboun
-Jabal Abyad, Jebel Abyad
+Jabal Abyaḑ, Jebel Abyad
 Jabal Abādāb
 Jabal Abū 'Ajāj, Jebel Abu 'Agag
 Jabal Abū 'Arārīb
@@ -3843,8 +3840,6 @@ Jabal Adalbāt
 Jabal Adalibat
 Jabal Adalōtyās
 Jabal Adambasat, Jebel Adambasat
-Jabal Adar
-Jabal Adar Aweb, Jebel Adalaueb, Jebel Adaleueb
 Jabal Adar Ayēt
 Jabal Adar Daw
 Jabal Adar Gwagwa, Gebel Adar Qaqa, Gebel el-Dargaga
@@ -3881,6 +3876,8 @@ Jabal Adura
 Jabal Adwa
 Jabal Adāl Awat
 Jabal Adāl Mōy
+Jabal Adār
+Jabal Adār Awēb, Jebel Adalaueb, Jebel Adaleueb
 Jabal Adār Girmāyit
 Jabal Adār Gogwā
 Jabal Adār Guwāb
@@ -3995,7 +3992,7 @@ Jabal Angussa
 Jabal Anitguwāb
 Jabal Ankideib, Jebel Ankideib
 Jabal Ankirūg, Jabal Ankerut, Jebel Ankerut
-Jabal Ankur, Jebel An Kur, Jebel Ankur
+Jabal Ankūr, Jebel An Kur, Jebel Ankur
 Jabal Ansabāb, Jabal Onsaba, Jebel Onsaba
 Jabal Anweiyib
 Jabal Anātēb
@@ -4018,7 +4015,6 @@ Jabal Arfinur, Arfanur
 Jabal Arga, Djebel Arga
 Jabal Arib Orshab, Jebel Arib
 Jabal Ariei, Djebel Ariei
-Jabal Arit, Jabal Arib, Jebel Arib, Jebel Arit, Jebel Tidolieb
 Jabal Aritia, Jaritia, Jebel Aritia
 Jabal Arkung, Jebel Arkung
 Jabal Arnyeika, Jebel Arnieka, Jebel Arnyeik
@@ -4028,6 +4024,7 @@ Jabal Arto
 Jabal Aru, Djebel Aru
 Jabal Arādēt
 Jabal Arēb
+Jabal Arīt, Jabal Arib, Jebel Arib, Jebel Arit, Jebel Tidolieb
 Jabal Asanga
 Jabal Asaramafalasat, Jebel Asaramaflasat
 Jabal Ash Shekh Ismā'īl Ābu Rāya
@@ -4110,7 +4107,6 @@ Jabal Balongo
 Jabal Balqoqi
 Jabal Balsa'adūn
 Jabal Balu, Balu
-Jabal Balyay
 Jabal Balāsīt
 Jabal Balāwēt
 Jabal Balūlah, Jebel Belula
@@ -4124,7 +4120,6 @@ Jabal Banigau, Jebel Banigau
 Jabal Baniyyat 'Abal
 Jabal Banser
 Jabal Banāy Hamād
-Jabal Banēb
 Jabal Baqqārāt, Jebel Baggarat
 Jabal Baqīs
 Jabal Bara
@@ -4283,11 +4278,13 @@ Jabal Bābāt, Jebel Babat
 Jabal Bādā
 Jabal Bādēntāy
 Jabal Bālyāb
+Jabal Bālyāy
 Jabal Bālyāy Adarōb
 Jabal Bālyāy Ōhadl
 Jabal Bālē
 Jabal Bāmsek
 Jabal Bānē
+Jabal Bānēb
 Jabal Bānī
 Jabal Bārah Sunbul, Jebel Bara Simbil
 Jabal Bātrawēb
@@ -4435,7 +4432,6 @@ Jabal Duraysh, Jebel Dreish
 Jabal Durdēb, Jabal Derudeb
 Jabal Dureisat
 Jabal Durmab
-Jabal Duro
 Jabal Durundur, Jebel Durundur
 Jabal Durus, Jebel Darus
 Jabal Duwaynah, Diweina, Jebel Diweina
@@ -4454,6 +4450,7 @@ Jabal Dīgōt Ambēk
 Jabal Dōrēb
 Jabal Dūd
 Jabal Dūd Lābī
+Jabal Dūrō
 Jabal Eban Darlob
 Jabal Ebwararbāb
 Jabal Ed Daramid
@@ -4527,9 +4524,9 @@ Jabal Far
 Jabal Fara
 Jabal Faras
 Jabal Farei
-Jabal Farid, Djebel Férid
 Jabal Farus, Jebel Farus
 Jabal Faruzzo
+Jabal Farīd, Djebel Férid
 Jabal Farīd Umm Dam
 Jabal Farōrēb
 Jabal Fash Shār
@@ -4815,10 +4812,10 @@ Jabal Hashaba, Jebel Hashaba
 Jabal Hashash, Jebel Hashash
 Jabal Hashasha, Jebel Hashasha, Jebel Hashasma
 Jabal Hashatrbab
-Jabal Hashayeb
 Jabal Hasheim Azraq
 Jabal Hashimātēb
 Jabal Hashāy
+Jabal Hashāyēb
 Jabal Hatagu
 Jabal Hater, Djebel Kater
 Jabal Hatātīt'arī
@@ -4827,8 +4824,8 @@ Jabal Hauriba
 Jabal Hawa Ganayet
 Jabal Hawar Hūr
 Jabal Hawashawi, Jebel Hawashawi
-Jabal Hawat
 Jabal Hawdat
+Jabal Hawāt
 Jabal Hawāy Ribāb, Jabal Hawareib, Jebel Hawareib
 Jabal Haybān, Jebel Heiban
 Jabal Haykul
@@ -4839,7 +4836,7 @@ Jabal Hekwal Libab, Jebel Hekwallibab
 Jabal Hereitu, Jebel Hereitu
 Jabal Heri
 Jabal Herrera
-Jabal Hijer
+Jabal Hijēr
 Jabal Hilali, Jebel Hilali
 Jabal Hilayyil
 Jabal Hineshāt
@@ -4856,7 +4853,6 @@ Jabal Homātēb
 Jabal Hoteima
 Jabal Hoteimayi, Jebel Hotteimayi
 Jabal Howarab
-Jabal Huddat
 Jabal Humārokshānēb
 Jabal Humārēt
 Jabal Humērāt, Jabal Ḩumayrī, Jebel Homeiri
@@ -4880,6 +4876,7 @@ Jabal Hīgāy
 Jabal Hōddāb
 Jabal Hōmādērbā
 Jabal Hū'aritribā
+Jabal Hūddat
 Jabal Hūdāt
 Jabal Iabali
 Jabal Ibn 'Awf, Jebel Ibn Auf
@@ -5024,7 +5021,6 @@ Jabal Karkuti
 Jabal Karoma
 Jabal Karri, Jabal al Gerri, Jebel el Garri
 Jabal Karsityēb, Jebel Karsatit
-Jabal Karyōs
 Jabal Karākwēb
 Jabal Karāmāy
 Jabal Karāybirār
@@ -5159,7 +5155,6 @@ Jabal Kortala
 Jabal Kosmor, Djebel Kosmor
 Jabal Kosso
 Jabal Kowa
-Jabal Koya
 Jabal Krit, Jebel Krit
 Jabal Ku
 Jabal Kubarei, Jebel Kubarei
@@ -5266,12 +5261,14 @@ Jabal Kāldong
 Jabal Kāndik
 Jabal Kār Qinna
 Jabal Kārko
+Jabal Kāryōs
 Jabal Kārūqa
 Jabal Kātā
 Jabal Kēgā Jurū
 Jabal Kīkāyēt
 Jabal Kōdatāt
 Jabal Kōl Ambīg
+Jabal Kōyā
 Jabal Kūrib
 Jabal Kūrī
 Jabal Kūḑi, Jabal Kodi
@@ -5280,10 +5277,10 @@ Jabal La'wāyēb
 Jabal Lababis
 Jabal Labūb Say
 Jabal Lado
-Jabal Lagag
 Jabal Lagag Dābānāy
 Jabal Lagagdabanau
 Jabal Lage
+Jabal Lagāg
 Jabal Lagāgāb
 Jabal Lagāgāt
 Jabal Laizi
@@ -5482,7 +5479,7 @@ Jabal Misi'eu
 Jabal Misilmi, Jebel Misilmi
 Jabal Misyāk, Jabal Miseak, Jebel Miseak
 Jabal Mitadēb
-Jabal Mitateb
+Jabal Mitatēb
 Jabal Mitint al Gawwala, Jebel Mitint el Gawwala, Mitnat el Guwwala
 Jabal Mitti
 Jabal Miyyēb
@@ -5539,7 +5536,7 @@ Jabal Murundu
 Jabal Murwa
 Jabal Musaai
 Jabal Musir
-Jabal Musmar, Jabal Mismār, Jebel Musmar
+Jabal Musmār, Jabal Mismār, Jebel Musmar
 Jabal Mustarih
 Jabal Mustor
 Jabal Musurno
@@ -5572,7 +5569,6 @@ Jabal Nahoganet, Gebel Nahoganet, Jebel Nahdganet
 Jabal Nakar
 Jabal Nakas Alēb
 Jabal Nakādī
-Jabal Nami, Jebel Turra, Mānī Tūrrā
 Jabal Nanjikibidi
 Jabal Nasei, Jebel Nasei
 Jabal Naserri
@@ -5642,9 +5638,10 @@ Jabal Nyerbalda
 Jabal Nyerlei, Djebel Nierlei
 Jabal Nyilba
 Jabal Nyinger
+Jabal Nāmī, Jebel Turra, Mānī Tūrrā
 Jabal Nāşirī, Jebel Naseri
 Jabal Nīlāy Karbayāy
-Jabal Nūri
+Jabal Nūrī
 Jabal O'tkūl Lafaf
 Jabal Oafara, Jebel Oafara
 Jabal Oaikam
@@ -5682,7 +5679,6 @@ Jabal Osmali
 Jabal Otash, Jebel Otash
 Jabal Otiliba
 Jabal Otkol
-Jabal Otkul
 Jabal Oto
 Jabal Otwess
 Jabal Oweihati, Jebel Oweihati
@@ -6075,7 +6071,6 @@ Jabal Takwia
 Jabal Takwāy
 Jabal Takūl Akrāt Ardāb
 Jabal Tal'awēb
-Jabal Tala, Jabal Otalu, Otalu
 Jabal Talagaf Riba
 Jabal Talangūy
 Jabal Talania
@@ -6088,6 +6083,7 @@ Jabal Talnasir
 Jabal Talo
 Jabal Talodi, Jabal Talawdī, Jebel Talodi
 Jabal Taloshi
+Jabal Talā, Jabal Otalu, Otalu
 Jabal Tamalayeb
 Jabal Tamaru, Jebel Tamaru
 Jabal Tamili
@@ -6176,7 +6172,6 @@ Jabal Terza
 Jabal Teshangalilamai
 Jabal Tesserror
 Jabal Teteri
-Jabal Teti
 Jabal Tetita, Jebel Tetita
 Jabal Tha'l, Jebel Taal
 Jabal Thaudet
@@ -6388,6 +6383,7 @@ Jabal Tānya
 Jabal Tāw
 Jabal Tēlīt
 Jabal Tēra
+Jabal Tēti
 Jabal Tījānī, Jebel Tigani
 Jabal Tīla
 Jabal Tīlāyēb
@@ -6496,7 +6492,7 @@ Jabal Umm Dhibbān, Jebel Umm Dubban
 Jabal Umm Doga
 Jabal Umm Dorein
 Jabal Umm Dual
-Jabal Umm Duju
+Jabal Umm Dujū
 Jabal Umm Dukhn, Oum Doukhm
 Jabal Umm Durag
 Jabal Umm Faḩm, Jebel Umm Faḩm
@@ -6743,7 +6739,7 @@ Jabal al Aguk
 Jabal al Akḩal, Jebel el Akhal
 Jabal al Angor al Azraq, Jebel Anqor el Azraq, Jebel el Angor el Azraq
 Jabal al Anjib, 'Anag
-Jabal al Arid, Jebel Arid, Jebel Tukl Arid
+Jabal al Arīd, Jebel Arid, Jebel Tukl Arid
 Jabal al Atil
 Jabal al Aweiba, Jebel el Aweiba
 Jabal al Awliyā', Djebel Auliya, Jebel Auliya
@@ -6776,9 +6772,9 @@ Jabal al Funj, Jebel el Fung
 Jabal al Fuweika, Jebel el Fuweik
 Jabal al Ghabiyya
 Jabal al Ghadauta, Jebel el Ghadauta
-Jabal al Ghar
 Jabal al Ghereit
 Jabal al Ghulfan
+Jabal al Ghār
 Jabal al Gili
 Jabal al Girn, Jebel el Qirn
 Jabal al Gisyu, Jebel el Gisyu
@@ -7022,6 +7018,7 @@ Jabal Ōnāl
 Jabal Ōnūnī
 Jabal Ōrīr
 Jabal Ōshmāg, Oshamakh
+Jabal Ōtkul
 Jabal Ōtōb
 Jabal Ōyaryēb
 Jabal Şafrā'
@@ -7095,7 +7092,7 @@ Jabāl Kēnī Nil
 Jadīd Ra's al Fīl, Gedid Ras el Fil
 Jakdūl, Gakdul Pools
 Jamady
-Jammam, Gammam
+Jammām, Gammam
 Jamīlāb
 Janbī al Aghbash, Gambi el Aghbash, Jebel Gambi
 Janbī al Azraq, Gambi el Azraq
@@ -7721,7 +7718,6 @@ Jibal Dāqināt
 Jibal Ebilar
 Jibal Ghulfan, Ghulfan Djebels, Ghulfan Hills, Gulfan Jebels
 Jibal Hamashyaf
-Jibal Julud, Jabal Qulūd, Jebel Gulud
 Jibal Kadero, Kadero Hills, Kadero Jebels
 Jibal Katla, Katla Hills, Katla Jebels
 Jibal Moro, Moro Hills
@@ -7732,7 +7728,6 @@ Jibal Tidmya
 Jibal Titālbāb
 Jibal Tāsē, Jabal Tāsē
 Jibal Tēmhay
-Jibal Tītāt
 Jibal Wali, Wali Hills, Wali Jebel
 Jibal Yōdbōt
 Jibal aj Jabalen
@@ -7874,7 +7869,6 @@ Jibāl Bahadnā
 Jibāl Bahaoel
 Jibāl Bahatīt
 Jibāl Bakwayet
-Jibāl Bakābnēb
 Jibāl Balāq, Jabal Belag, Jebel Belag
 Jibāl Balū'at
 Jibāl Bam Laytak
@@ -7893,7 +7887,7 @@ Jibāl Batab
 Jibāl Bawātēb, Jebel Bawati
 Jibāl Bikōt
 Jibāl Bilaytēb
-Jibāl Billeb
+Jibāl Billēb
 Jibāl Billēd
 Jibāl Bilwāwnēb
 Jibāl Birdimma, Jabal Beridima, Jebel Beridma
@@ -7904,6 +7898,7 @@ Jibāl Biweiriq, Jabal Buweiriq, Jebel Buweiriq el Azraq
 Jibāl Blānēt
 Jibāl Bulagāy
 Jibāl Bābdāl
+Jibāl Bākābnēb
 Jibāl Bālyāy
 Jibāl Bāshūadllik
 Jibāl Bāwisēy
@@ -7995,20 +7990,20 @@ Jibāl Had'ōb, Jabal Hadob, Jebel Hadob
 Jibāl Hadad Kirar
 Jibāl Hadadrebey
 Jibāl Hadal
-Jibāl Hadal Aweb, Jebel Hadalawer
+Jibāl Hadal Awēb, Jebel Hadalawer
 Jibāl Hadal Awētī, Jabal Hadalaweiti, Jebel Hadalaweiti
 Jibāl Hadal Birrēb
 Jibāl Hadaldaw
 Jibāl Hadaltribā
 Jibāl Hadalīt
 Jibāl Hadarabāb
-Jibāl Hadarbab, Jabal Hadarabab, Jebel Hadarabab, Jebel Hadarbab
 Jibāl Hadariba Dambob
 Jibāl Hadariba Noush
 Jibāl Hadatrbat
 Jibāl Hadayamēt, Hadaiamet Jebel, Jabal Hadaiamet North, Jebel Hadaiamet North
 Jibāl Haddar, Jabal Whadair
 Jibāl Hadādgunūb
+Jibāl Hadārbāb, Jabal Hadarabab, Jebel Hadarabab, Jebel Hadarbab
 Jibāl Hadāt al Sitēb
 Jibāl Hafāfanēb
 Jibāl Hagibikwan
@@ -8032,7 +8027,6 @@ Jibāl Hamasg Awēb
 Jibāl Hamash
 Jibāl Hamash Awēb
 Jibāl Hamashandiyeib
-Jibāl Hamashaweb
 Jibāl Hamashrbab
 Jibāl Hamashribād
 Jibāl Hamashweb
@@ -8041,6 +8035,7 @@ Jibāl Hambūlēb, Jebel Enabatab
 Jibāl Hambūr
 Jibāl Hamra Biyeb
 Jibāl Hamārēt
+Jibāl Hamāshāwēb
 Jibāl Hamātaryēb
 Jibāl Hamāyit
 Jibāl Hamēd Di'atēb
@@ -8116,6 +8111,7 @@ Jibāl Iryāb
 Jibāl Iskīnī
 Jibāl Itētah
 Jibāl Iwēt
+Jibāl Julud, Jabal Qulūd, Jebel Gulud
 Jibāl Jārō
 Jibāl Jīb Betak
 Jibāl Kabandqat
@@ -8142,13 +8138,13 @@ Jibāl Kara Bara
 Jibāl Karafarab
 Jibāl Karam Arīt, Jabal Karam Arit
 Jibāl Karatēb
-Jibāl Karayeb, Karīshim
 Jibāl Karkuwēb
 Jibāl Karmāda
 Jibāl Karyēt
 Jibāl Karā
 Jibāl Karāwēb
 Jibāl Karāyibrār
+Jibāl Karāyēb, Karīshim
 Jibāl Kashabīb, Jabal Kashebib, Jebel Kashebib
 Jibāl Kashyānī, Kashiani
 Jibāl Katar
@@ -8161,12 +8157,12 @@ Jibāl Kiliyēb
 Jibāl Kilnab
 Jibāl Kilyatēb, Jabal Kilaiteit
 Jibāl Kinyāb, Jebel Kenab
-Jibāl Kirba Karay, Jabal Kerberkarai, Jebel Kirba Karai
+Jibāl Kirbā Karāy, Jabal Kerberkarai, Jebel Kirba Karai
 Jibāl Kirdin
 Jibāl Kirāy Birāy, Jabal Keraiberai
 Jibāl Kirēshm
 Jibāl Kobābāy
-Jibāl Kokalay, Jabal Kokolai
+Jibāl Kokalāy, Jabal Kokolai
 Jibāl Kolayateib
 Jibāl Kolkolāyēt
 Jibāl Kontebyay
@@ -8202,7 +8198,7 @@ Jibāl Lagag Aweb
 Jibāl Lagāgāb
 Jibāl Lagīm
 Jibāl Lambāt, Jabal Lambat, Jebel Lambat
-Jibāl Lanqeb
+Jibāl Lanqēb
 Jibāl Laqafat
 Jibāl Laqaqat
 Jibāl Lasēd
@@ -8309,7 +8305,7 @@ Jibāl Qar
 Jibāl Qararāwēt
 Jibāl Qarwa
 Jibāl Qatay
-Jibāl Qinat
+Jibāl Qināt
 Jibāl Qowab
 Jibāl Qubulitēb
 Jibāl Qubāyēb
@@ -8441,11 +8437,8 @@ Jibāl Tiqadam
 Jibāl Tirin Fātā
 Jibāl Tirinā
 Jibāl Tiriqit
-Jibāl Tiwātēt
 Jibāl Tiyamyametni
-Jibāl Tobrār, Jabal Tobrar, Jebel Tobrar, Jibāl Tubrār
 Jibāl Tokarāf, Jabal To-Karaf, Jebel To-Karaf
-Jibāl Tokrār
 Jibāl Toqla
 Jibāl Totil
 Jibāl Tu'ambāy Daw
@@ -8470,10 +8463,14 @@ Jibāl Tushudhīn
 Jibāl Tutalāy
 Jibāl Tuwēsāt, Al Aḩmar, Al Ibrā, Marfāqāy, Toqorā
 Jibāl Tuyeb
+Jibāl Tītāt
+Jibāl Tīwātēt
 Jibāl Tīwī, Jebel Teiwi
+Jibāl Tōbrār, Jabal Tobrar, Jebel Tobrar, Jibāl Tubrār
 Jibāl Tōddat, Jabal Toda
 Jibāl Tōgnī, Jebel Togni
 Jibāl Tōkamūy
+Jibāl Tōkrār
 Jibāl Tōmnī, Jabal Tomni, Jebel Tomni
 Jibāl Tōsi'ētī
 Jibāl Tōsārī
@@ -8844,7 +8841,7 @@ Kasambar
 Kashwi Island
 Kasimbo
 Kasir el Ahmar
-Kassala State, Kasala, Kassalā, Kassla, Wilāyat Kassalā, كسلا, ولاية كسلا
+Kassala State, Kasala, Kassala, Kassla, Wilāyat Kassalā, كسلا, ولاية كسلا
 Katai Sarsat, Katai Gersat
 Katfi Ford
 Katkatkonu
@@ -9091,7 +9088,7 @@ Khawr Shabaluk, Khor Shabaluk
 Khawr Shallalob, Khor Shallalob
 Khawr Sharag, Khor Sharag
 Khawr Sherabob, Khor Sherabob
-Khawr Shin'āb, Khor Shin'āb
+Khawr Shin'āb, Khor Shin'ab
 Khawr Shingil, Khor Shingil
 Khawr Shiyāb, Khor Shiab, Khor Shiyāb, Wadi Shiab
 Khawr Shoshai, Khor Shoshai
@@ -9323,7 +9320,6 @@ Khor Abu Sdear
 Khor Abu Seida, Khawr Abū Seida
 Khor Abu Selim
 Khor Abu Sheita
-Khor Abu Shok
 Khor Abu Shosh, Khawr Abū Shūsh
 Khor Abu Sidir
 Khor Abu Sidr
@@ -9361,6 +9357,7 @@ Khor Abū Māy, Khor Abu Mai
 Khor Abū Niqār
 Khor Abū Salam
 Khor Abū Sha'ar, Khor Abu Shar
+Khor Abū Shōk
 Khor Abū Shūsh
 Khor Abūrēb
 Khor Ad Daror
@@ -9375,8 +9372,7 @@ Khor Adaio, Khor Adaia
 Khor Adaktirib
 Khor Adal Amab
 Khor Adal Amateb
-Khor Adal Aweb
-Khor Adal Haf
+Khor Adal Awēb
 Khor Adal Hat, Khor Adalhat
 Khor Adal Hindiyēb
 Khor Adal Sak'ēb
@@ -9389,7 +9385,6 @@ Khor Adam Hirbay
 Khor Adana
 Khor Adanat
 Khor Adanyāb, Khor Adenaiab
-Khor Adar Ayēt
 Khor Adar Daw, Dirāb
 Khor Adar Hasham
 Khor Adar Quwab
@@ -9398,7 +9393,7 @@ Khor Adaragnā
 Khor Adarat
 Khor Adaraweb
 Khor Adaraweib, Khawr Hadaraweib, Khor Hadaraweib
-Khor Adardeb
+Khor Adardēb
 Khor Adareib
 Khor Adarem
 Khor Adarheb
@@ -9436,7 +9431,6 @@ Khor Adibitri
 Khor Adikwanta
 Khor Adimarir
 Khor Adirfa
-Khor Adit, Khawr Adit
 Khor Aditrī
 Khor Adonaiab
 Khor Adoud
@@ -9449,7 +9443,9 @@ Khor Adura Andurga
 Khor Adwēnā
 Khor Adāl Awattī
 Khor Adāl Dāwatēb
+Khor Adāl Haf
 Khor Adār Awēb, Khawr Adar Aweb
+Khor Adār Ayēt
 Khor Adār Gogwā
 Khor Adār Guwāb
 Khor Adār Habib
@@ -9471,6 +9467,7 @@ Khor Adāwīd
 Khor Adāwīt
 Khor Adāy Miskēk
 Khor Adēt, Khor Tamabar
+Khor Adīt, Khawr Adit
 Khor Adūdāy
 Khor Afadin Kurei
 Khor Afsalas Muhāl
@@ -9480,7 +9477,6 @@ Khor Aglhūgāb
 Khor Aguyēb
 Khor Agwampt, Wādī Agwampt
 Khor Agwayēb
-Khor Agwetit
 Khor Agwieb
 Khor Agwitēb
 Khor Agwātēb
@@ -9489,6 +9485,7 @@ Khor Agwēm
 Khor Agwētāy, Khor Bir Anab
 Khor Agwētēb
 Khor Agwētīrī, Khor Agwitiri
+Khor Agwētīt
 Khor Agāyēb
 Khor Agēb
 Khor Agūrayēb
@@ -9572,7 +9569,6 @@ Khor Amaryāy
 Khor Amarāy
 Khor Amarēb
 Khor Amasā, Khawr Imasa, Khor Amisā
-Khor Amat, Khawr Amāt
 Khor Amay Birod
 Khor Amaymuk
 Khor Ambal Hawāy
@@ -9599,6 +9595,7 @@ Khor Ammanni
 Khor Amtoit
 Khor Amyoy, Amyoi
 Khor Amānēb, Khawr Amānēb, Wâdi Amaneb
+Khor Amāt, Khawr Amāt
 Khor Amāylam
 Khor Amīratyay
 Khor Amūnagiyāy
@@ -9686,23 +9683,23 @@ Khor Ashat, Khawr Ashat
 Khor Ashob
 Khor Ashshag Alafzar
 Khor Asir
-Khor Asot, Khawr Asot
 Khor Asqarā
 Khor Assi'āef
 Khor Asubri
 Khor Asuwīt, Khor Asaf
 Khor Asēr, Khawr 'Asīr
+Khor Asōt, Khawr Asot
 Khor Asōtyawā
 Khor Ataate
 Khor Atadē
 Khor Ataf
-Khor Atalāb
 Khor Atara
 Khor Ataway
 Khor Atkon
 Khor Attabaldiyya
 Khor Attāsh
 Khor Atundarag
+Khor Atālāb
 Khor Atālāt
 Khor Atār Awēb
 Khor Atēb
@@ -9756,7 +9753,6 @@ Khor Baket
 Khor Bakhīt
 Khor Bakor
 Khor Baksha
-Khor Bakwānay
 Khor Bal'ūnāy
 Khor Baladda
 Khor Baladdōk
@@ -9782,7 +9778,7 @@ Khor Ban Jadid al Batha
 Khor Banayēb
 Khor Bandārzīk
 Khor Baqaq Hindiyeib
-Khor Bar'ōt, Khawr Bar'ūt, Khor Barut
+Khor Bar'ōt, Khawr Bar'ūt, Khor Bar'ut
 Khor Baraka
 Khor Baram
 Khor Baram'anūt, Khawr Baram'anūt
@@ -9801,7 +9797,6 @@ Khor Barook
 Khor Barrandūf
 Khor Bartalla
 Khor Bartikwān
-Khor Baryāy, Khawr Bāryāy
 Khor Barāhindēb
 Khor Barām Anū
 Khor Barāsāyēb
@@ -9833,20 +9828,19 @@ Khor Bilitrēb
 Khor Bilkatēb
 Khor Bilkitēb
 Khor Billayb
-Khor Billeb
 Khor Billin Ayeib
+Khor Billēb
 Khor Billī
 Khor Billōshay
 Khor Bilyitēb
 Khor Bilādō'ēt
-Khor Bilāyēt
 Khor Bilēlīg
 Khor Bilīdaw
 Khor Bilīlīg, Khawr Bilīlīg, Wadi Belelik
 Khor Binay
-Khor Binayet
 Khor Binaygō
 Khor Binayit
+Khor Bināyet
 Khor Birgūt
 Khor Birhindayāy
 Khor Birhindieb
@@ -9887,10 +9881,12 @@ Khor Bādamīn, Adadamin
 Khor Bādirim
 Khor Bādā
 Khor Bādīt
+Khor Bākwānay
 Khor Bākwāne
 Khor Bākwānī
 Khor Bālōbab
 Khor Bāriyēb
+Khor Bāryāy, Khawr Bāryāy
 Khor Bārītāy
 Khor Bāshamīt, Khawr Bashamid, Khor Bashamid, Tug Bashamid
 Khor Bāshunda
@@ -9906,6 +9902,7 @@ Khor Bēntiyāy, Khawr Bēntiyāy
 Khor Bēr Amfīt
 Khor Bēḍa
 Khor Bīlāyēb
+Khor Bīlāyēt
 Khor Bīlēt
 Khor Bīrasāy
 Khor Bōkwanī
@@ -9931,7 +9928,6 @@ Khor Dagdag
 Khor Dagent, Khawr Dageint, Khor Dageint
 Khor Dahand, Khawr Dahand
 Khor Dalami
-Khor Dalawēb
 Khor Dalbi
 Khor Dalwēb
 Khor Dalāwtīt, Khor Delotit
@@ -10050,6 +10046,7 @@ Khor Dābāb
 Khor Dāchū
 Khor Dād
 Khor Dādīt, Khor Dodit
+Khor Dālāwēb
 Khor Dān'ayēb
 Khor Dār 'Aqīl
 Khor Dārshaba'
@@ -10078,7 +10075,6 @@ Khor Ebhaya
 Khor Ebshāryah
 Khor Edemhāy
 Khor Egi Ineb
-Khor Egāyēb, Wadi Eigaiet
 Khor Egēla
 Khor Eia
 Khor Eilaikwanti
@@ -10118,7 +10114,7 @@ Khor Fagalkū
 Khor Fahlātēb
 Khor Fakyayet
 Khor Fakārīn
-Khor Faqada, Khawr Faqadā
+Khor Faqadā, Khawr Faqadā
 Khor Faraksalēb, Khor Faraksaleib
 Khor Farasdōk
 Khor Farish
@@ -10142,7 +10138,6 @@ Khor Gabanāyēb
 Khor Gabarweb
 Khor Gabateb, Tara Kabab
 Khor Gabatiau
-Khor Gabatit, Khawr Gabatit, Khor Gabetit
 Khor Gabeideb, Wadi Gabeideb
 Khor Gabetalashraf
 Khor Gabsay
@@ -10154,6 +10149,7 @@ Khor Gabātilū
 Khor Gabātyāy
 Khor Gabātēt
 Khor Gabātīllō
+Khor Gabātīt, Khawr Gabatit, Khor Gabetit
 Khor Gabātīt al Abyad
 Khor Gabātīt al Aswad
 Khor Gabāy
@@ -10194,10 +10190,10 @@ Khor Ganāy Bāg
 Khor Ganāybar
 Khor Garafab, Khawr Garafab
 Khor Garamāy
-Khor Garar
 Khor Gardud
 Khor Garāblūb
 Khor Garābātēb
+Khor Garār
 Khor Garār Agūgēb
 Khor Garār Gōmādribā, Khawr Gumaderiba, Khor Gumaderiba
 Khor Garār Tū'irā
@@ -10283,7 +10279,7 @@ Khor Hadalāb
 Khor Hadamad'amēb
 Khor Hadaqna
 Khor Hadarbab
-Khor Hadarob, Hazaru, Khawr Hadaru, Khor Hadaru
+Khor Hadarōb, Hazaru, Khawr Hadaru, Khor Hadaru
 Khor Hadashindi
 Khor Hadasān
 Khor Hadasānā, Khawr Hadasana
@@ -10324,7 +10320,7 @@ Khor Haiaqat
 Khor Haio
 Khor Hajar Ajjawad
 Khor Hakkēb, Khawr Hakkab, Khor Hakkab
-Khor Hakūray
+Khor Hakūrāy
 Khor Halaga
 Khor Halakwēt
 Khor Halakāyēb, Dirāb
@@ -10354,8 +10350,7 @@ Khor Hamas Setat
 Khor Hamash Awē
 Khor Hamash Bilēb
 Khor Hamashameb, Khawr Hamashemaieb, Khor Hamashemaieb
-Khor Hamashandiyeb
-Khor Hamashdaw
+Khor Hamashandīyēb
 Khor Hamashindiyēt
 Khor Hamashkamūt
 Khor Hamashkōreb
@@ -10368,12 +10363,12 @@ Khor Hamatītī
 Khor Hamawēb
 Khor Hambarukwān
 Khor Hambok
-Khor Hambukēb, Khawr Hambokeb, Khawr Hambūkēb
 Khor Hambōknām
 Khor Hambōkāy
 Khor Hambōkāyēb
 Khor Hambōkēb, Hambokeb, Khawr Hambokaieb, Khor Hambokaieb, Khor Hambokeib
 Khor Hambōlīb
+Khor Hambūkēb, Khawr Hambokeb, Khawr Hambūkēb
 Khor Hambūlēb
 Khor Hambūlīb
 Khor Hambūr
@@ -10399,12 +10394,13 @@ Khor Hamtīb
 Khor Hamyam
 Khor Hamyamēb
 Khor Hamyamōk
-Khor Hamyat, Khawr Hamiyat, Khor Hamiyat
 Khor Hamyit
+Khor Hamyāt, Khawr Hamiyat, Khor Hamiyat
 Khor Hamyāymāt, Khawr Hamyāymāt, Khor Hamyāmāt
 Khor Hamyū, Khor Hamio
 Khor Hamāmāt
 Khor Hamārīb
+Khor Hamāshdaw
 Khor Hamēm
 Khor Hamīda
 Khor Hamīdēt
@@ -10432,11 +10428,9 @@ Khor Haramareib
 Khor Harateb
 Khor Harateib
 Khor Harbanākwān
-Khor Harbōb, Khawr Harbub, Khor Harbub
 Khor Hareig
 Khor Hareigh
 Khor Harguwādēb
-Khor Harib, Hurib
 Khor Haritreib
 Khor Harrābāt, Khawr Harrābāt
 Khor Harunkuk
@@ -10446,6 +10440,7 @@ Khor Harāb Adarōb
 Khor Harāb Hadal
 Khor Harārāb
 Khor Harāt
+Khor Harīb, Hurib
 Khor Hasasim
 Khor Hasbal
 Khor Hasbōb, Khor Hasebu
@@ -10456,14 +10451,14 @@ Khor Hashash
 Khor Hashasht
 Khor Hashashāyēb
 Khor Hashasim
-Khor Hashayeb
 Khor Hashhash
-Khor Hashimateb, Khawr Hashimateb
+Khor Hashimātēb, Khawr Hashimateb
 Khor Hashā'ikwān
 Khor Hashāshīt
 Khor Hashātēb, Khor Hashati
 Khor Hashātēt
 Khor Hashāyit
+Khor Hashāyēb
 Khor Hashēt, Khawr Hashēt, Khawr Tahasheit Tererai, Khor Hasheit, Khor Tahasheit Tererai
 Khor Hashīmāy
 Khor Hasmatītēb
@@ -10485,12 +10480,10 @@ Khor Hayēt, Khor Haieit, Khor Haleit
 Khor Hayō Āyēb
 Khor Hayōy, Khor Haiyu
 Khor Hebikwān, Hebikwan, Khawr Hebikwan
-Khor Hebrōm, Khawr Hebrom
 Khor Helm'ut
 Khor Helukwan
 Khor Hemīt, Khor Hemī
 Khor Heyyabet
-Khor Hibyay, Khawr Hībyāy
 Khor Hidātrī, Khawr Hidātrī
 Khor Hidīt
 Khor Hijēr
@@ -10506,7 +10499,6 @@ Khor Hiqrab
 Khor Hirgan
 Khor Hirānēt
 Khor Hkmaneb
-Khor Hokayeb
 Khor Hokayet
 Khor Homāra', Khor Haderat
 Khor Horbāy
@@ -10534,9 +10526,11 @@ Khor Hākwān
 Khor Hālītīb
 Khor Hāmid Tikir
 Khor Hāmtīt
+Khor Hārbōb, Khawr Harbub, Khor Harbub
 Khor Hāshim, Khawr Hāshim
 Khor Hātōy
 Khor Hāyditīyāy, Khawr Hāyditīyāy
+Khor Hēbrōm, Khawr Hebrom
 Khor Hēbā
 Khor Hēbāy
 Khor Hēlabō
@@ -10544,6 +10538,7 @@ Khor Hērnāb, Khor Hemad
 Khor Hērtāk
 Khor Hēwāyēt
 Khor Hībrōb
+Khor Hībyāy, Khawr Hībyāy
 Khor Hībī, Khawr Mindara, Khor Hebe, Khor Mandara, Khor Mindara
 Khor Hībīt, Khawr Hībīt
 Khor Hīkōntī
@@ -10552,6 +10547,7 @@ Khor Hīmāyēb
 Khor Hō'ār, Khor Oar
 Khor Hōbharrīd, Khawr Hōbharrīd
 Khor Hōghūg
+Khor Hōkāyēb
 Khor Hōkēb
 Khor Hōrd
 Khor Hōrāyēb
@@ -10682,7 +10678,7 @@ Khor Kalūlāyit
 Khor Kalūtāt
 Khor Kam Idatab
 Khor Kamadēb
-Khor Kamaweb, Khawr Kamawēb
+Khor Kamawēb, Khawr Kamawēb
 Khor Kamawēb Tamāyā
 Khor Kamawēt
 Khor Kambarisarōb, Khawr Kubheri Sarob, Khor Kubheri Sarob
@@ -10701,18 +10697,16 @@ Khor Kamoiyet
 Khor Kamolayet
 Khor Kamotīt
 Khor Kamoyeib
-Khor Kamoyēb
 Khor Kamtetba
 Khor Kamubsānhā
 Khor Kamuyēb
-Khor Kamwēb
-Khor Kamyay
 Khor Kamēr'ō
 Khor Kamōrēb, Wādī Kamoreb
 Khor Kamōy
 Khor Kamōy Dangal
 Khor Kamōydaw
 Khor Kamōykwān, Khawr Kamoikwan, Khor Kamoikwan
+Khor Kamōyēb
 Khor Kamūbīt
 Khor Kamūy Dangal, Khor Kamoi Dangul
 Khor Kanes
@@ -10797,7 +10791,7 @@ Khor Kiringkaba
 Khor Kirling
 Khor Kirminiu
 Khor Kirmit
-Khor Kirrab, Khor Kareb
+Khor Kirrāb, Khor Kareb
 Khor Kirrāyit
 Khor Kirtandurga
 Khor Kirū
@@ -10868,15 +10862,17 @@ Khor Kuryēb
 Khor Kutugula
 Khor Kutur
 Khor Kuwaykamy
-Khor Kuwiriyēb, Khawr Kuwiriyēb
 Khor Kuwākway
 Khor Kuwākwil, Khawr Kuwākwil
 Khor Kuwāshabēb
+Khor Kuwīriyēb, Khawr Kuwiriyēb
 Khor Kuwīsh, Khor Kwish
 Khor Kuyēb
 Khor Kwasheit, Khawr Kwasheit
 Khor Kākurayēb
 Khor Kāllar
+Khor Kāmwēb
+Khor Kāmyāy
 Khor Kāmōyit
 Khor Kāndik
 Khor Kāndāw, Khor Kanduwa
@@ -10925,15 +10921,13 @@ Khor Lashōb, Khor Laashob
 Khor Lasēt
 Khor Lasētēb
 Khor Lawat
-Khor Lawatab
+Khor Lawatāb
 Khor Laway Eb
 Khor Lawayeb, Umm Milh
 Khor Lawni
 Khor Lawātēb
 Khor Lawāw
 Khor Lawāyit
-Khor Layamēb, Khor Laiameb
-Khor Layikwān, Khawr Laeikwan, Khor Laeikwan
 Khor Leikwan
 Khor Li'yēb
 Khor Li'ēbkwān
@@ -10959,7 +10953,9 @@ Khor Lāshashū
 Khor Lāsitēb
 Khor Lātyyā
 Khor Lāwayēt
-Khor Līlawēb
+Khor Lāyamēb, Khor Laiameb
+Khor Lāyikwān, Khawr Laeikwan, Khor Laeikwan
+Khor Līlāwēb
 Khor Līnāy
 Khor Lōfū
 Khor Lōlignēt
@@ -10993,8 +10989,8 @@ Khor Mahaddamīb
 Khor Mahahir
 Khor Mahalāb
 Khor Mahalēl, Khawr Mahaleil, Khor Mahaleil
-Khor Mahanet
 Khor Mahanēb
+Khor Mahanēt
 Khor Mahīdribāb
 Khor Majba
 Khor Makadīyā
@@ -11042,7 +11038,7 @@ Khor Mariray
 Khor Maritrēt, Khawr Mareitri, Khor Mareitri
 Khor Marmadēb
 Khor Martnndawi
-Khor Mas'ayeb
+Khor Mas'āyēb
 Khor Masak
 Khor Masawa
 Khor Mashas
@@ -11056,9 +11052,9 @@ Khor Maska
 Khor Massak
 Khor Matabiyya
 Khor Matarib
-Khor Matateb, Khawr Matātēb
 Khor Matiḩ
 Khor Matkarbor
+Khor Matātēb, Khawr Matateb
 Khor Matātīt
 Khor Matīs
 Khor Matūnēb, Khor Hadamabunit
@@ -11130,9 +11126,8 @@ Khor Mistal Hēl
 Khor Misyāk, Khor Miseak
 Khor Misyākū, Khor Miseak
 Khor Misētīt, Khawr Miseitit, Khor Miseitit
-Khor Mitateb, Khor Mitateih
+Khor Mitatēb, Khor Mitateih
 Khor Miweliḩ
-Khor Mog, Khawr Mog
 Khor Molāg, Khor Teiutelri
 Khor Mor
 Khor Mosa
@@ -11168,8 +11163,8 @@ Khor Mīdbal
 Khor Mīgayēt
 Khor Mīk'ēt
 Khor Mīk'īt
-Khor Mīkayeb
 Khor Mīkyāy
+Khor Mīkāyēb
 Khor Mīkēt
 Khor Mīkīt Billēt
 Khor Mīlakt
@@ -11178,6 +11173,7 @@ Khor Mīt, Khor Mai
 Khor Mītmāyēb
 Khor Mītēb
 Khor Mōde
+Khor Mōg, Khawr Mog
 Khor Mōhanet, Khor Mohaneit
 Khor Mōk
 Khor Mōsīt
@@ -11205,8 +11201,8 @@ Khor Nakasēb, Khawr Nakasib, Khor Nakasib
 Khor Nakūy
 Khor Naqad, Khor Nagaad
 Khor Nashāl
-Khor Nassari
 Khor Nassaryai
+Khor Nassārī
 Khor Navar Var
 Khor Nawētīt
 Khor Nayūdā
@@ -11328,7 +11324,6 @@ Khor Quwenay
 Khor Quwāb
 Khor Qāsim
 Khor Qūsāteb
-Khor Rafit
 Khor Ragag'awēb
 Khor Ragagsaga'ēb
 Khor Ragāg Datāw
@@ -11357,6 +11352,7 @@ Khor Romāteb
 Khor Ru'ōy
 Khor Rumayet
 Khor Rābkāmī
+Khor Rāfīt
 Khor Rākbāy
 Khor Rāmawēb
 Khor Rātyay
@@ -11375,16 +11371,15 @@ Khor Sadamīt
 Khor Sadmī, Tōl'ōt
 Khor Safir
 Khor Saggūm
-Khor Sagi Sōtāy, Khor Sagesota
 Khor Sagit
 Khor Sagudēb, Khor Sugudet
+Khor Sagī Sōtāy, Khor Sagesota
 Khor Sagō
 Khor Sagūm
 Khor Sahknim
 Khor Sakera
 Khor Sakhakh
 Khor Salae
-Khor Salala
 Khor Salalab
 Khor Salam
 Khor Salamteb
@@ -11398,6 +11393,7 @@ Khor Salwādēb, Khor Salwadeib
 Khor Salāl Hindiyēb
 Khor Salāl Ōsō
 Khor Salālagwēb
+Khor Salālā
 Khor Salīt
 Khor Salūbillēb
 Khor Salūbyāy
@@ -11414,24 +11410,23 @@ Khor Saql Suti
 Khor Saquti
 Khor Saqōtēb, Khawr Saqōtēb
 Khor Sarabtāwāy
-Khor Sararab
-Khor Sararāt, Khawr Sarārāt
 Khor Sari
-Khor Sarit
 Khor Sarmākmōy
 Khor Sarobaieb
 Khor Sarobat, Khor Serobat
 Khor Sarobayeit
 Khor Sarobkwan
 Khor Sarobyāy
-Khor Sarobāyēb
 Khor Sarobīyya
 Khor Sarolai
 Khor Saryangwī, Khawr Sereyomwe, Khor Sereyomwe
 Khor Saryāy
+Khor Sarārāb
+Khor Sarārāt, Khawr Sarārāt
 Khor Sarōbkān, Khor Sarobikwan
 Khor Sarōbyēb, Khor Serobit
 Khor Sarōbāb
+Khor Sarōbāyēb
 Khor Sarōbāyēt
 Khor Sarūbkwān, Khor Sarob Kwan
 Khor Sarūbāy
@@ -11461,7 +11456,7 @@ Khor Shakarīd
 Khor Shakat
 Khor Shaktī
 Khor Shalal
-Khor Shallala
+Khor Shallāla
 Khor Sham Maḥmūd
 Khor Shamangi
 Khor Shamatkuwan
@@ -11496,7 +11491,7 @@ Khor Shenay
 Khor Shi'it
 Khor Shi'ēgāb
 Khor Shibit
-Khor Shidyab
+Khor Shidyāb
 Khor Shidyēb
 Khor Shidyēt, Khor Shidit Abyad
 Khor Shidyēt al Aswad
@@ -11529,9 +11524,9 @@ Khor Shāman Kashnēb
 Khor Shāmhī
 Khor Shānābukuwa
 Khor Shāqārīt
-Khor Shāshoy
 Khor Shāshāb
 Khor Shāshōtīdēb
+Khor Shāshōy
 Khor Shāshōyēt
 Khor Shāshūtēb, Khawr Shashoteb
 Khor Shātā
@@ -11571,7 +11566,6 @@ Khor Sinqadayet
 Khor Sir el Gamal
 Khor Sitarab, Khawr Sitarab
 Khor Sitayat
-Khor Sitēb, Khor Sieb
 Khor Siyeib
 Khor Siyyīb
 Khor Siyāmtīt
@@ -11597,7 +11591,6 @@ Khor Surbāyēb
 Khor Surt
 Khor Surubābēb
 Khor Surūnkwān
-Khor Susāy
 Khor Suwelgia, Khawr Suwelgia
 Khor Suwelqia
 Khor Suwār
@@ -11605,6 +11598,7 @@ Khor Sādir
 Khor Sāmtīt
 Khor Sānshundēl
 Khor Sāriggawā
+Khor Sārīt
 Khor Sātēm
 Khor Sātīm
 Khor Sēhināy
@@ -11612,11 +11606,13 @@ Khor Sīgī
 Khor Sīkwākēt
 Khor Sīrkūk
 Khor Sītātēb
+Khor Sītēb, Khor Sieb
 Khor Sōkilwōb
 Khor Sōrēt
 Khor Sōtay
 Khor Sōtisagēb
 Khor Sūdaw
+Khor Sūsāy
 Khor Ta'in
 Khor Ta'labyet
 Khor Ta'māy
@@ -11700,9 +11696,9 @@ Khor Tawayāy
 Khor Tawayēb
 Khor Tawidēb, Khawr Tawidēb
 Khor Tawila
-Khor Tawāyet
 Khor Tawāyib
 Khor Tawāykwān, Khawr Towoikwan, Khor Towoikwan
+Khor Tawāyēt
 Khor Tawī Atē
 Khor Tayutēb
 Khor Tayūdaw
@@ -11750,7 +11746,7 @@ Khor Tikl'ōyēb
 Khor Tiklay
 Khor Tiklānī
 Khor Tikrinīt
-Khor Tikriyay, Khawr Tikriyay
+Khor Tikriyāy, Khawr Tikriyay
 Khor Tikrānyāy
 Khor Tikrīt
 Khor Til Amaray
@@ -11765,7 +11761,7 @@ Khor Timitqiwēla
 Khor Timātī, Khor Tamashai
 Khor Tinabrē, Khor Tenabarai
 Khor Tindikat
-Khor Tindilay
+Khor Tindilāy
 Khor Tindilāy Lasūy
 Khor Tindilāy Ta'may, Khawr Tendelai, Khor Delai, Khor Tendelai
 Khor Tindira, Khawr Tendera, Khor Tendera
@@ -11866,7 +11862,7 @@ Khor Tungul, Khor Doleba
 Khor Tunqwāti Sarārā
 Khor Tuqla
 Khor Tuqumadili
-Khor Tuqura
+Khor Tuqurā
 Khor Turgā
 Khor Turkuman
 Khor Turour, Khor Turur
@@ -11931,8 +11927,8 @@ Khor Tūhaf
 Khor Tūhambōg
 Khor Tūharrig
 Khor Tūhōshī
-Khor Tūlanāy
 Khor Tūlik, Khor Tolik
+Khor Tūlānāy
 Khor Tūlāq
 Khor Tūmalyāt
 Khor Tūsir
@@ -11943,7 +11939,6 @@ Khor Tūtālī, Khawr Tutali
 Khor U'uwik
 Khor Ubirī
 Khor Udardēb, Khor Aderdeih
-Khor Udwan, Khor Odman
 Khor Ugdēm
 Khor Ugrinne
 Khor Ugrā
@@ -12311,6 +12306,7 @@ Khor Ēdāyit
 Khor Ēgāgēl
 Khor Ēgāykwān, Khor Egaikwan
 Khor Ēgāylūb
+Khor Ēgāyēb, Wadi Eigaiet
 Khor Ēkam
 Khor Ēkiddā
 Khor Ēkwān, Khawr Eikwan, Khor Eikwan
@@ -12383,6 +12379,7 @@ Khor Ōtyāy
 Khor Ōygūb, Khor Yuqub
 Khor Ōyū, Wadi Oyo
 Khor Ūbī
+Khor Ūdwān, Khor Odman
 Khor Ūdāda
 Khor Ūdūbīyā
 Khor Ūmū
@@ -13006,8 +13003,8 @@ Mureif'ina, Mireif'ina
 Murfelli
 Murgul, Bir Mourga
 Murlagin, Murgalin
-Murrat
 Murreia Umm Dabaka
+Murrāt
 Murshid East
 Murutia
 Mus'ad 'Abd Allāh, Musa'ad 'Abdullah
@@ -13130,15 +13127,14 @@ Nişf al 'Aqabah, Nisf el 'Aqaba
 Njan Akoich
 North Darfur, North Darfur State, Northern Darfur, Northern Darfur State, Shamāl Dārfūr, Shimāl Dārfūr, Sẖimal Darfour, Wilāyat Shamāl Dārfūr, Wilāyat Shimāl Dārfūr, شمال دارفور, ولاية شمال دارفور
 North Jumnah Shoal, North Jumna Shoal
-North Kordofan, North Kordofan State, Northern Kordofan, Northern Kordofan State, Shamāl Kurdufān, Shimāl Kurdufān, Sẖimal Kurdofan, Wilāyat Shamāl Kurdufān, Wilāyat Shimāl Kurdufān, شمال كردفان‎, ولاية شمال كردفان
+North Kordofan, North Kordofan State, Northern Kordofan, Northern Kordofan State, Shamāl Kurdufān, Shimāl Kurdufān, Sẖimal Kurdofan, Wilāyat Shamāl Kurdufān, Wilāyat Shimāl Kurdufān, شمال كردفان, ولاية شمال كردفان
 North Towertit Reef, North Towartit Reef, Towartit Reef, Towertit Reef
-Northern, Al Iqlim ash Shimali, Al Iqlīm ash Shamālī, Al Wilāyah ash Shamālīyah, Al Wilāyah ash Shimālīyah, Ash Shamālīyah, Ash Shimālīyah, Ash Shimālīyya, The Northern State, Wilāyah ash Shimālīyya, الشمالية, الولاية الشمالية
+Northern, Al Iqlim ash Shimali, Al Iqlīm ash Shamālī, Al Wilāyah ash Shamālīyah, Al Wilāyah ash Shimālīyah, Ash Shamālīyah, Ash Shimālīyah, Ash Shimālīyya, Northern State, Wilāyah ash Shimālīyya, الشمالية, الولاية الشمالية
 Nuba
 Nubian Desert, Désert de Nubie
 Nukhaylah, Merga, Mergal, Nukheila
 Numayl, Rahad Nemeil
 Numayr, Numeir
-Nurab, Shayab and Nurab
 Nurayet, Bir Nurayet, Turnorei
 Nuri Island
 Nusb Umm Rimt
@@ -13177,6 +13173,7 @@ Nyubu
 Nyubu al Wa'r, Nyubu el Wa'r
 Nyubu as Sahl, Nyubu es Sahl
 Nūbah
+Nūrāb, Shayab and Nurab
 Obak
 Obeit
 Obkēk
@@ -13605,7 +13602,6 @@ Qara Saba
 Qaradāyah, Qaradai, Qaradaya
 Qaradāyeb
 Qarat er Rwehla
-Qaratit
 Qardud, Kardud
 Qardud Dawana, Kardud Davana
 Qardud Eineinat, Kardud Eyneynot
@@ -13627,6 +13623,7 @@ Qarn et Tor
 Qarna ed Dikheilat
 Qarya Tis'ata 'Ashar, Kamil Nomak, Qarya 19
 Qaryah Ithnān wa Thalāthūn
+Qarātīt
 Qash Dāy
 Qawz Abū Ḑulū'
 Qawz Ashqar, Qoz Ashqar
@@ -13690,7 +13687,6 @@ Qezān Thadāyēt
 Qezān Um Dalqam
 Qezān Um Za'af
 Qezān ad Dasha
-Qezān al Sayālah, Qīzān as Sayālah
 Qezān ar Ridayyis
 Qil'a Ab Fas
 Qil'a al Barqa
@@ -13830,11 +13826,11 @@ Qoz Suleimaniya
 Qoz Sunnār
 Qoz Sūda
 Qoz Tawāyēb
-Qoz Taya
 Qoz Tikarāya
 Qoz Tilowadāb
 Qoz Timblās
 Qoz Tisimi
+Qoz Tāya
 Qoz Um Ballorēb
 Qoz Um Birasyāy
 Qoz Um Hagar
@@ -13939,6 +13935,7 @@ Qēzān Tōmishrāf
 Qēzān al Bullūtēb
 Qēzān al Butur
 Qēzān al Fatih
+Qēzān al Sayālah, Qīzān as Sayālah
 Ra's Abū Dārah, Ras Abu Dara
 Ra's Abū Fāţimah, Ras Abu Fatma, Ras Abu Fātima
 Ra's Farrājīn, Ras Farajin
@@ -14242,10 +14239,10 @@ Sarārāt, Sararat Island
 Sarūbityāy
 Sasa
 Sawana Island
-Sawani, Sawan
 Sawani 'Eilai
 Sawarat
 Sawtayr, Soteir
+Sawānī, Sawan
 Sayayid
 Sayeiya
 Sayero
@@ -14493,7 +14490,7 @@ Sonki West
 Soria, Bir Soria
 Sorombas Island
 Souriba
-South Darfur, Janub Darfour, Janūb Dārfūr, South Darfur State, Southern Darfur, Southern Darfur State, Wilāyat Janūb Dārfūr, جنوب دارفور‎, ولاية جنوب دارفور
+South Darfur, Janub Darfour, Janūb Dārfūr, South Darfur State, Southern Darfur, Southern Darfur State, Wilāyat Janūb Dārfūr, جنوب دارفور, ولاية جنوب دارفور
 South Jumna Shoal
 South Kordofan, Janub Kurdofan, Janūb Kurdufān, South Kordofan State, Southern Kordofan, Southern Kordofan State, Wilāyat Janūb Kurdufān, جنوب كردفان, ولاية جنوب كردفان
 South Point
@@ -15051,9 +15048,9 @@ Umm Marbūţ
 Umm Marikh
 Umm Markha
 Umm Masaren As Saghera
-Umm Masarin
 Umm Mashtura, Umm Mashtūrah
 Umm Mastura
+Umm Maşārīn
 Umm Mereika el Meih
 Umm Mirwá, Umm Merwa
 Umm Mukhayţah, Umm Mukheita
@@ -15344,7 +15341,6 @@ Wadi Ab Salam
 Wadi Ab Sayyal
 Wadi Ab Shallala, Wadi Ab Shllala
 Wadi Ab Sidir
-Wadi Abaraga, Wādi Abu Araga
 Wadi Abd Qesin
 Wadi Abkalo
 Wadi Abkitir, Wādī Abu Kitir, Wādī Abū Kitr
@@ -15357,10 +15353,8 @@ Wadi Abu Dom
 Wadi Abu Emeir
 Wadi Abu Fas
 Wadi Abu Gambit
-Wadi Abu Haraz
 Wadi Abu Harik
 Wadi Abu Hashem, Wādī Kahati
-Wadi Abu Hashim
 Wadi Abu Hawaya
 Wadi Abu Hdeleg
 Wadi Abu Hijele, Wadi Abu Heglig
@@ -15379,7 +15373,6 @@ Wadi Abu Qraqer, Wadi el Qarqur, Wādī al Qurqūr
 Wadi Abu Righewa, Khor Rugheiwa, Wadi Righewa, Wādī Rughaywah
 Wadi Abu Roab
 Wadi Abu Salama
-Wadi Abu Sayyal, Wadi Abu Saiyal
 Wadi Abu Shehehet
 Wadi Abu Sieh
 Wadi Abu Silem, Khor Abu Salim
@@ -15428,7 +15421,6 @@ Wadi Borda
 Wadi Boshara
 Wadi Botrina
 Wadi Buheirat el Kurdi
-Wadi Bulbul, Wadi Bubul
 Wadi Bulgumeil
 Wadi Bungbung
 Wadi Bur
@@ -15444,7 +15436,6 @@ Wadi Dari
 Wadi Daro
 Wadi Daw Bakel
 Wadi Dayob
-Wadi Debarei, Oued Debarei
 Wadi Deim
 Wadi Deira
 Wadi Denebail
@@ -15460,7 +15451,6 @@ Wadi Dirbat
 Wadi Disangai, وادي دسنغأ, ود دسنغأ
 Wadi Diwoi
 Wadi Dodari
-Wadi Dodo, Oued Doudo
 Wadi Doleib
 Wadi Domi
 Wadi Dorei
@@ -15475,10 +15465,8 @@ Wadi Eddaw
 Wadi Edeit
 Wadi Eibkeit
 Wadi Eiqai
-Wadi Eishbarra
 Wadi El Hisher
 Wadi El Khirwi'
-Wadi Elei, Wadi Eley
 Wadi Emberesei
 Wadi Ennatela
 Wadi Enseiwerab
@@ -15518,7 +15506,6 @@ Wadi Ghamoi
 Wadi Gimira, Gumra, Oued Goumera
 Wadi Girgiri
 Wadi Gogini
-Wadi Golol, Oued Golol
 Wadi Guaujul
 Wadi Guba
 Wadi Gurbab, Wadi Gubab, Wādī Jurbāb, Wādī Qurbāb
@@ -15548,7 +15535,6 @@ Wadi Isangyanar
 Wadi Jamonga
 Wadi Jawhar
 Wadi Jugjugi
-Wadi Kaga
 Wadi Kamawēb
 Wadi Kamoyib
 Wadi Karom
@@ -15581,7 +15567,6 @@ Wadi Korradito
 Wadi Korto Kolsi
 Wadi Krokab
 Wadi Kullia
-Wadi Kum
 Wadi Kur, Khawr Kūr
 Wadi Kurig
 Wadi Kurmol
@@ -15598,7 +15583,6 @@ Wadi Ma Touf
 Wadi Ma'aris
 Wadi Magaga
 Wadi Mahamoud
-Wadi Mahaneit
 Wadi Maharag
 Wadi Maitib
 Wadi Makheit
@@ -15619,10 +15603,8 @@ Wadi Miskin
 Wadi Misorina
 Wadi Muqur
 Wadi Murgul
-Wadi Murrat
 Wadi Murtagyello
 Wadi Musmar
-Wadi Musran
 Wadi Mustarih
 Wadi Nafirdēb, Khawr Nafirdeib, Khor Nafirdeib
 Wadi Naseih Gabbar
@@ -15824,7 +15806,6 @@ Wadi ar Rawakeb
 Wadi ar Robod
 Wadi as Samra
 Wadi as Sayal
-Wadi as Sayyal, Wadi es Saiyal
 Wadi as Seih
 Wadi as Seleikha
 Wadi as Sider
@@ -15946,7 +15927,6 @@ Wadi et Tineidib
 Wadi et Tiwayl, Khor et Tuwayil, Wādī at Ţuwayyil
 Wadi ez Zena
 Wadi ez Zeraf, Wādī az Zarāf
-Wadi Āmūr
 Wadi Ēkwān, Ei Kwân, Khawr Sasa, Khor Eîkwan, Khor Sasa, Wadi Ekwâr
 Wadi Ōkō, Kao, Wadi Koa
 Wadī Kakabi
@@ -15966,11 +15946,11 @@ Wasereiha
 Watatai
 Wawa Island
 West Branch
-West Darfur, Gharb Dārfūr, Gẖarb Darfour, West Darfur State, Western Darfur State, Wilāyat Gharb Dārfūr, غرب دارفور‎, ولاية غرب دارفور
+West Darfur, Gharb Dārfūr, Gẖarb Darfour, West Darfur State, Western Darfur State, Wilāyat Gharb Dārfūr, غرب دارفور, ولاية غرب دارفور
 West Kordofan State, Gharb Kurdufān, West Kordofan, Western Kordofan, Western Kordofan State, Wilāyat Gharb Kurdufān, غرب كردفان, ولاية غرب كردفان
 Western Darfūr
 Western Spill Canal
-White Nile, Al Baḩr al Abyaḑ, An Nīl al Abyaḑ, Bahr el Abiad, Bahr el Abyad, El Bahr el Abyad, White Nile State, Wilāyat an Nīl al Abyaḑ, النيل الأبيض, ولاية النيل الابيض
+White Nile, Al Baḩr al Abyaḑ, An Nil al Abyaḍ, Bahr el Abiad, Bahr el Abyad, El Bahr el Abyad, White Nile State, Wilāyat an Nīl al Abyaḑ, النيل الأبيض, ولاية النيل الابيض
 Wibhieeg
 Widay Ab Siraih
 Widay Abu Hirekh
@@ -16054,6 +16034,7 @@ Wādī 'Umar
 Wādī 'Umayrī, Wadi Emeiri
 Wādī Ab Jawālis
 Wādī Ab Talih, Wādī Abū Ţalḩ
+Wādī Abaraga, Wādi Abu Araga
 Wādī Abei
 Wādī Absol
 Wādī Abu Dakeil
@@ -16071,6 +16052,7 @@ Wādī Abū Dawm
 Wādī Abū Dilālah, Wādi Abu Dilala
 Wādī Abū Gambil
 Wādī Abū Gumur
+Wādī Abū Hashim
 Wādī Abū Hat
 Wādī Abū Jarād, Wadi Abu Gerad
 Wādī Abū Jidyān, Wadi Abu Gidian
@@ -16097,6 +16079,7 @@ Wādī Abū Sallām
 Wādī Abū Sana
 Wādī Abū Sanţ, Ouadi Abou Sounout, Wādi Abu Sunt
 Wādī Abū Sarhab
+Wādī Abū Sayyāl, Wadi Abu Saiyal
 Wādī Abū Shētāb
 Wādī Abū Sibā'
 Wādī Abū Sidr
@@ -16112,6 +16095,7 @@ Wādī Abū Ḩadd, Wadi Abu Had
 Wādī Abū Ḩajlīj, Wadi Abu Heglig
 Wādī Abū Ḩalfā'
 Wādī Abū Ḩamrā'
+Wādī Abū Ḩarāz
 Wādī Abū Ḩāmid, Wadi Abu Hamed
 Wādī Abū Ḩūt
 Wādī Afu
@@ -16160,6 +16144,7 @@ Wādī Bokata
 Wādī Bordu
 Wādī Borgu, Oued Bourgou
 Wādī Buei
+Wādī Bulbul, Wadi Bubul
 Wādī Burdu
 Wādī Bure, Oued Bouri
 Wādī Burgan
@@ -16173,6 +16158,7 @@ Wādī Danjura
 Wādī Darrām, Wadi Derram
 Wādī Dartawai
 Wādī Darura
+Wādī Debarei, Oued Debarei
 Wādī Debaweit
 Wādī Defeis
 Wādī Delusidar
@@ -16192,6 +16178,7 @@ Wādī Diri
 Wādī Disgala
 Wādī Disklis
 Wādī Dobi Balat
+Wādī Dodo, Oued Doudo
 Wādī Dor
 Wādī Duggiya
 Wādī Dugzei
@@ -16204,8 +16191,10 @@ Wādī Dushayn, Wadi Doshein, Wadi el Bafalil
 Wādī Eidari
 Wādī Eidukal
 Wādī Eishat
+Wādī Eishbarra
 Wādī Eishimbai
 Wādī Elbo
+Wādī Elei, Wadi Eley
 Wādī Elingerni
 Wādī Ellanut
 Wādī Erjal
@@ -16234,6 +16223,7 @@ Wādī Gir Bakia, Oued Cirbonkai
 Wādī Girgish
 Wādī Gogonei
 Wādī Golo
+Wādī Golol, Oued Golol
 Wādī Gukor
 Wādī Gumbum
 Wādī Guri, Oued Gouei
@@ -16273,6 +16263,7 @@ Wādī Jawādāb, Wadi Gawadab
 Wādī Jeroko
 Wādī Kabbāshī
 Wādī Kafod, Wadi Kobbei
+Wādī Kaga
 Wādī Kaja
 Wādī Kalang Kalang
 Wādī Kalas
@@ -16310,6 +16301,7 @@ Wādī Kororiya
 Wādī Kuberei, Oued Kouberei
 Wādī Kujunung
 Wādī Kulkul, Khor Kulkul, Oued Koulkoul
+Wādī Kum
 Wādī Kunjan, Ouadi Kounojane
 Wādī Kunjuldi
 Wādī Kurru
@@ -16327,6 +16319,7 @@ Wādī Madi
 Wādī Mafas Majaq
 Wādī Mageit
 Wādī Mahaiyar
+Wādī Mahaneit
 Wādī Majdhūb, Wadi Magdub
 Wādī Majrūr, Otchudi, Vadi-Magrur, Wādi Magrur
 Wādī Majārīr, Wadi Mogarir, Wādi Magarir
@@ -16355,8 +16348,10 @@ Wādī Muheit
 Wādī Muhājirīyah, Wadi Muhageriya, Wadi Muhagiriya
 Wādī Mujiddah, Wadi Mujedda
 Wādī Muqaddam, Mugaddam, Wadi Mogaddam, Wadi al Muqhddam
+Wādī Murrāt
 Wādī Murrāyah, Wadi Murraiya
 Wādī Musbat
+Wādī Muşrān
 Wādī Muḩajjir, Oued Nahaggir, Wadi Muhaggir
 Wādī Mālī
 Wādī Na'im
@@ -16400,7 +16395,7 @@ Wādī Qurá, Wādī Gura
 Wādī Qurūd, Wadi Garud
 Wādī Rabda
 Wādī Rahadel al Bergawi
-Wādī Rannah, Qued Rinna, Wādī Rinna
+Wādī Rannah, Qued Rinna, Wadi Rinna
 Wādī Rassan
 Wādī Rati
 Wādī Rauweiyan
@@ -16593,6 +16588,7 @@ Wādī ar Ril
 Wādī ar Riqeiba
 Wādī ar Ruqaybah, Wad er Ruqeiba, Wadi er Ruqeiba
 Wādī as Sawād, Es Sawad
+Wādī as Sayyāl, Wadi es Saiyal
 Wādī as Sulaym, Wadi es Suleim
 Wādī as Suqayy, Wadi es Suqai
 Wādī ash Shaqq al Aḩmar, Wadi esh Shaqq el Ahmar
@@ -16609,6 +16605,7 @@ Wādī aţ Ţayyārah, Wadi et Taiyara
 Wādī ed Dahasawat
 Wādī el Filkha
 Wādī el Koro
+Wādī Āmūr
 Wādī Şadaf
 Wādī Ţal'at 'Abdah, Wadi Tal'at 'Abda, Wadi Telat Abda
 Wādī Ţalḩah, Wadi Talha
@@ -16730,6 +16727,7 @@ khor To'ērā
 Ḩafīr an Nūrāb
 Ḩafīr aş Şabaḩa. Khor al
 Ḩafīr Ţawīl
+Ḩafīr Ḩamad
 Ḩafīrat 'As Aliyya
 Ḩafīrat Um Sa'aden
 Ḩafīrat Um Sidra
@@ -16747,6 +16745,7 @@ khor To'ērā
 Ḩajar at Timsāḩ, Ḩagar et Timsâh
 Ḩajlīj, Heglig
 Ḩakawlāb, Haikolab, Hakolab
+Ḩamdāb, Hamdab Island
 Ḩammām 'Akāshah, Hammam 'Akasha
 Ḩamrā'
 Ḩamādah, Hamada
@@ -16758,6 +16757,7 @@ khor To'ērā
 Ḩarāzah, Haraza
 Ḩarāzī
 Ḩasab Allāh, Hasabulla
+Ḩasanāb
 Ḩassānīyah, Hassaniya Island
 Ḩawsh ad Dalam, Hosh ed Dalam
 Ḩawţīyah, Hotiya

@@ -681,8 +681,8 @@ Boca Huajlaya
 Boca Río Grande
 Boca Río Verde
 Boca del Iténez
-Bolivar
 Bolpebra
+Bolívar
 Boqueron
 Boratera Pampa
 Borateras de Isma, Borataras de Isma, Boroteras de Ismo
@@ -729,7 +729,7 @@ Cachoeira Tambaqui, Cachuela Tambaqui, Cachuela del Tambaqui
 Cachoeira das Araras, Cachuela Ararás, Cachuela Figueura, Cachuela Tamanduce
 Cachoeira das Bananeiras, Cachoeira Bananeira, Cachuela Bananeira, Cachuela Bananeiras, Cachuela das Papagaios
 Cachoeira das Sete Ilhas, Cachoeira das 7 Ilhas
-Cachoeira de Madeira, Cachoeira da Madeira, Cachuela Madeira, Cachuela Madera
+Cachoeira de Madeira, Cachoeira Madeira, Cachuela Madeira, Cachuela Madera
 Cachoeira dos Periquitos, Cachoeira Periquitos, Cachuela Periquita, Cachuela Periquitos
 Cachu Loma
 Cachu Pampa
@@ -956,7 +956,6 @@ Cañada Yanahigua
 Cañada de Los Caimanes
 Cañada del Curiche
 Cañada del Sautu
-Cañon Los Mercados
 Cañuma Pampa
 Cañón Bella Vista
 Cañón Colina
@@ -975,6 +974,7 @@ Cañón La Merced
 Cañón Las Conchas
 Cañón Las Mercedes
 Cañón Los Maguesitos
+Cañón Los Mercados
 Cañón Motacusal
 Cañón Motacú
 Cañón Palmera
@@ -1278,7 +1278,7 @@ Cerro Catari Orkho
 Cerro Catariri
 Cerro Caucos
 Cerro Cavi Chico
-Cerro Cayte, Caiti, Cerro Caití
+Cerro Cayte, Caiti, Cerro Caiti
 Cerro Caytula
 Cerro Cañapa, Cerros de Cañapa
 Cerro Cañupiura
@@ -1518,11 +1518,10 @@ Cerro Comisario
 Cerro Comojo, Cerro de Comojo
 Cerro Conchu Punta
 Cerro Condeauque, Cerro Condeauqui
-Cerro Condor
 Cerro Condor Chucuña
 Cerro Condor Chunuma
 Cerro Condor Huachaña
-Cerro Condor Iquina
+Cerro Condor Iquiña
 Cerro Condor Jaimana
 Cerro Condor Jipiña
 Cerro Condor Khakha
@@ -1629,6 +1628,7 @@ Cerro Cutanayoj
 Cerro Cutimpo
 Cerro Cuturipa
 Cerro Cuzco, Cerro Cusco
+Cerro Cóndor
 Cerro Cóndor Cochuna, Condor-cuchuna
 Cerro DaKkollu
 Cerro De Pioca
@@ -1684,7 +1684,7 @@ Cerro Escotani
 Cerro Eskapa
 Cerro Espejo
 Cerro Esperanza
-Cerro Espiritu
+Cerro Espíritu
 Cerro Espíritu Santo, Cerro del Espíritu Santo
 Cerro Esquentaqué
 Cerro Esquina
@@ -1706,7 +1706,7 @@ Cerro Filofilo
 Cerro Follekhan Punta
 Cerro Fortaleza
 Cerro Fraile
-Cerro Fundicion
+Cerro Fundición
 Cerro Gabezay Toro
 Cerro Gabra Cancha
 Cerro Galano
@@ -1846,7 +1846,7 @@ Cerro Huayllokho
 Cerro Huaylluma
 Cerro Huayna Chullcani
 Cerro Huayna Curumaya
-Cerro Huayna Potosi, Huaina Potosi, Huayna Potosi
+Cerro Huayna Potosí, Huaina Potosi, Huayna Potosi
 Cerro Huaynari, Cerro Huaymiri
 Cerro Huayne Pucara
 Cerro Huaypo, Cerro Haypo
@@ -2571,10 +2571,10 @@ Cerro Oro Cute
 Cerro Orochala
 Cerro Oskhori
 Cerro Oveja Cancha
-Cerro Pabellon, Cerro del Pabellón, Pabellon
 Cerro Pabellon Grande
 Cerro Pabelloncito
 Cerro Pabelloncito Ramaditas
+Cerro Pabellón, Cerro del Pabellón, Pabellon
 Cerro Pabellón de Laguna Verde, Cerro Pabellón Laguna Verde
 Cerro Pablo Colque
 Cerro Paca
@@ -2633,7 +2633,7 @@ Cerro Pampacollo
 Cerro Pampajasi
 Cerro Pampajsi, Pico Pampajsi
 Cerro Pamplón, Cerro Pampion Punta
-Cerro Pan de Azucar
+Cerro Pan de Azúcar
 Cerro Panamá Rodeo
 Cerro Panaya
 Cerro Panizos, Cerro Panizo, Panizos, Panizos hills
@@ -2652,7 +2652,7 @@ Cerro Parca
 Cerro Pariavilque, Cerro de Paravilque
 Cerro Parrimani
 Cerro Pasa Willkhí
-Cerro Pascana
+Cerro Pascaña
 Cerro Pascual
 Cerro Paso, Cerro Raso
 Cerro Pasteadero
@@ -2683,13 +2683,13 @@ Cerro Pekekara Grande, Cerro Phekhe Khara Grande, Pekekara Grande
 Cerro Pekhen Khara
 Cerro Pelado
 Cerro Pelotani
-Cerro Pena Grande
 Cerro Pepito
 Cerro Perca Cancha
 Cerro Perearandi
 Cerro Perito
 Cerro Perolani
 Cerro Peña Blanca
+Cerro Peña Grande
 Cerro Peña Pintada
 Cerro Peñas
 Cerro Pfutu
@@ -2800,7 +2800,6 @@ Cerro Puca Unu
 Cerro Puca Yacu
 Cerro Pucaloma
 Cerro Pucar Jati
-Cerro Pucara
 Cerro Pucara Grande
 Cerro Pucara Punta
 Cerro Pucara Uyarani
@@ -2808,6 +2807,7 @@ Cerro Pucarani, Cerros Pucarani
 Cerro Pucarilla
 Cerro Pucarillo
 Cerro Pucarillos
+Cerro Pucará
 Cerro Puchucaya
 Cerro Puchura
 Cerro Pucu Pucuni
@@ -2951,9 +2951,9 @@ Cerro Saloma
 Cerro Salto
 Cerro Salto Punta
 Cerro Samani
-Cerro San Andres
+Cerro San Andrés
 Cerro San Antonio
-Cerro San Bartolome
+Cerro San Bartolomé
 Cerro San Benito
 Cerro San Cayetano
 Cerro San Cristobal
@@ -2962,18 +2962,18 @@ Cerro San Fermin
 Cerro San Fernando
 Cerro San Francisco
 Cerro San Isidro, San Isidro
-Cerro San Jose
+Cerro San José
 Cerro San Juan
 Cerro San Juan Correa, Morro Juan Correa
 Cerro San Julián
 Cerro San Lorenzo
-Cerro San Martin
+Cerro San Martín
 Cerro San Mateo
 Cerro San Matías
 Cerro San Micerato, Cerro San Miserato
 Cerro San Miguel, Cerros San Miguei
 Cerro San Miguelito, Cerro Miguelito
-Cerro San Nicolas
+Cerro San Nicolás
 Cerro San Pablo
 Cerro San Pedro, Cerro San Pedro Choquena
 Cerro San Pedro de Sumahualla
@@ -3123,8 +3123,8 @@ Cerro Supullullu
 Cerro Suquicha
 Cerro Suratita
 Cerro Surichata
-Cerro Surina
 Cerro Suriphuyo
+Cerro Suriña
 Cerro Surpo
 Cerro Surucusi
 Cerro Suturi Kkollu
@@ -3182,7 +3182,7 @@ Cerro Tarina
 Cerro Tarqui, Cerro Turqui
 Cerro Tartagal
 Cerro Taruca Marca
-Cerro Tarucani
+Cerro Tarucaní
 Cerro Tarumita
 Cerro Taruquiri
 Cerro Tasejara
@@ -3402,9 +3402,9 @@ Cerro Vitunal
 Cerro Vizcachillas, Cerro Viscachilla
 Cerro Viñogare
 Cerro Voconao, Cerro Voconso, Voconao
-Cerro Volcan
 Cerro Volcanani
 Cerro Volcanes, Cerro Molcanes, Volcanes
+Cerro Volcán
 Cerro Wacon Kkollu
 Cerro Waraco
 Cerro Wañuj Orkho
@@ -4384,7 +4384,7 @@ Isidgua, Isiagua
 Isidoro
 Isirere Lake
 Isla
-Isla Bigua, Ilha do Biguá
+Isla Bigua, Ilha Biguá
 Isla Boger, Ilha Boger
 Isla Caballo Marino, Ilhas Cavalho Marinha, Isla Caballo Merino
 Isla Cachiava, Isla Cachiaba, Isla Cuchiava
@@ -4881,7 +4881,7 @@ Lago Yusala, Laguna Yusala
 Lago de Caracota
 Lago de Coipasa, Lago Coipasa, Laguna de Coipasa
 Lago de Huiñaymarca, Huañamarca, Lago Huiñaymarca, Lago Uiñaimarca, Lago de Uiñaimarca, Laguna Huinaimarca, Laguna de Uinamarca, Lake Uinaimarca, Lake Uinamarca, Winamarca, Winaymarca, Wiñaymarka Lake, Wuiñaimarca
-Lago de Los Arroyos, Lago de Las Arroyas, Laguna de los Arroyos
+Lago de Los Arroyos, Lago de Las Arroyas, Laguna de Los Arroyos
 Lago de las Canchas, Laguna de los Conchas, Laguna de los Conebas
 Lago de los Bibosi, Lago de las Bibosi, Lago los Bibosi
 Lago del Combate
@@ -5144,8 +5144,8 @@ Laguna Kkota Huyo
 Laguna Kkota Kkota
 Laguna Kkota Pata
 Laguna Kkota Sayaña
-Laguna Kkotana
 Laguna Kkotanani
+Laguna Kkotaña
 Laguna Kollpa Coña
 Laguna Kollpa Khara
 Laguna Kollpa Kkota
@@ -5177,7 +5177,7 @@ Laguna Laramcota
 Laguna Laramkkota
 Laguna Larga
 Laguna Las Abejas
-Laguna Las Abras, Laguna de las Abras
+Laguna Las Abras, Laguna de Las Abras
 Laguna Las Grebas
 Laguna Las Medinas
 Laguna Las Patos
@@ -5220,9 +5220,9 @@ Laguna Monte Fresco
 Laguna Montecristo
 Laguna Moreno
 Laguna Morijón, Lago Morijon, Laguna Marijón, Laguna Norijón
-Laguna Motacu
 Laguna Motacusal
 Laguna Motacusito
+Laguna Motacú
 Laguna Mucalliri
 Laguna Murcielago
 Laguna Murmuntani
@@ -5367,12 +5367,12 @@ Laguna Sopapo
 Laguna Sora Khocha
 Laguna Sora Kkota
 Laguna Soral Cocha
-Laguna Suarez
 Laguna Suches, Lago Suches, Lago de Suches, Laguna Suche, Laguna de Suches
 Laguna Sucia
 Laguna Sura Sukani
 Laguna Suriquiña
 Laguna Susaqui
+Laguna Suárez
 Laguna Taborrioca
 Laguna Taipicota
 Laguna Tala Khocha
@@ -5725,7 +5725,7 @@ Luribay Municipality
 Luxar Faldas
 M. Díaz, M. Dia
 Machacamarca
-Machareti
+Macharetí
 Macolo Pampa, Makkollu Pampa
 Madidi, Barr. Madidi
 Madidi National Park
@@ -5898,7 +5898,6 @@ Mosquerillas, Mosquerilla
 Motacutu
 Mucajara
 Muela del Diablo
-Mujica, Mojipa
 Mukuniri Loma
 Mula Muerta
 Mula Thia Pampa
@@ -5909,6 +5908,7 @@ Muru Khala Pampa
 Mururata, Nevado Mururata, Nevado de Mururata
 Mutu Kuru Lomas
 Muyupampa
+Mújica, Mojipa
 Naca Choro
 Naciente Arroyo Bahía
 Naciente Chipamanu, Naciente Río Chipamanu
@@ -5938,7 +5938,7 @@ Nevado Hailliguaya, Nevado Halliguaya
 Nevado Hichucota
 Nevado Huaillara, Huaillara
 Nevado Huanacuni
-Nevado Huayna Potosí, Cerro Huyña Potosí, Cerro de Huaina Potosí, Huaina, Huayna Potosí, Wayna Potosí
+Nevado Huayna Potosí, Cerro Huyña Potosí, Cerro de Huaina Potosí, Huaina, Huayna Potosi, Wayna Potosí
 Nevado Illampu, Illampa, Illampu, Nevado de Illampu, Nevado de Sorata, Nevado del Illampu
 Nevado Illimani, Nevada del Illimani, Nevado de Illimani
 Nevado Isquillani
@@ -6261,7 +6261,7 @@ Pato Loma
 Patoco Loma
 Patola Serca Pampa
 Patuani
-Patuju, Patucu
+Patujú, Patucu
 Patuni
 Paunacas
 Paurito
@@ -6441,14 +6441,14 @@ Presto
 Providencia
 Provincia Abaroa, Abaroa, Abaros, Eduardo Abaroa Province, Provincia Avaroa
 Provincia Abel Iturralde, Abel Iturralde, Iturralde, Provincia Iturralde
-Provincia Abuná, Abuná
-Provincia Andrés Ibáñez, Andrés Ibáñez
+Provincia Abuná, Abuna
+Provincia Andrés Ibáñez, Andrés Ibañez
 Provincia Antonio Quijarro, Antonio Quijarro, Provincia Quijarro, Quijarro
 Provincia Arani, Arani
 Provincia Arce, Aniceto Arce, Arce
 Provincia Aroma, Aroma, Sicasica
 Provincia Arque, Arque
-Provincia Avilés, Avilez, Avilés, Provincia Avilez, Provincia de Avilés
+Provincia Avilés, Aviles, Avilez, Provincia Avilez, Provincia de Avilés
 Provincia Ayopaya, Ayopaya
 Provincia Azurduy, Azurdui
 Provincia Bautista Saavedra, Bautista Saavedra, Provincia Saavedra
@@ -6465,7 +6465,7 @@ Provincia Chiquitos, Chiquitos
 Provincia Cordillera, Cordillera
 Provincia Cornelio Saavedra, Cornelio Saavedra, Provincia Cornelio de Saavedra, Provincia Saavedra
 Provincia Daniel Campos, Daniel Campos, Provincia Campos
-Provincia Esteban Arze, Arce, Arze, Esteban Arce, Estéban Arze, Provincia Esteban Arce, Provincia Tarata, Tarata
+Provincia Esteban Arze, Arce, Arze, Esteban Arce, Esteban Arze, Provincia Esteban Arce, Provincia Tarata, Tarata
 Provincia Florida
 Provincia Franz Tamayo, Caupolican, Franz Tamayo, Franz Tomayo, Provincia Caupolicán
 Provincia General Bilbao, Bernardino Bilbao Rioja, Bilbao, General Bilbao, Provincia Bilbao
@@ -6477,7 +6477,7 @@ Provincia Hernando Siles, Acero, Azero, Hernando Siles, Hernando Siles Yamparáe
 Provincia Ichilo, Ichilo
 Provincia Ingavi
 Provincia Inquisivi, Inquisivi
-Provincia Iténez, Iténez
+Provincia Iténez, Itenez
 Provincia Ladislao Cabrera, Ladislao Cabrera, Provincia Cabrera
 Provincia Larecaja, Larecaja
 Provincia Loayza, Loaiza, Loayza
@@ -6486,7 +6486,7 @@ Provincia Luis Calvo, Luis Caivo, Luis Calvo
 Provincia Madre de Dios, Madre de Dios
 Provincia Mamoré, Mamore
 Provincia Manco Kapac, Copa Cabana, Manco Kapac
-Provincia Manuel María Caballero, Caballero, Manuel María Caballero
+Provincia Manuel María Caballero, Caballero, Manuel Maria Caballero
 Provincia Manuripi, Manuripi, Provincia Manuripe
 Provincia Marbán, Marban
 Provincia Mizque
@@ -6505,7 +6505,7 @@ Provincia Obispo Santistevan, Obispo Santiestevan, Obispo Santisteban, Obispo Sa
 Provincia Omasuyos, Omasuyos
 Provincia Oropeza, Oropeza, Provincia Samuel Oropeza, Samuel Oropeza
 Provincia Pacajes, Pacajes
-Provincia Pantaleón Dalence, Dalence, Pantaleón Dalence, Provincia Dalence
+Provincia Pantaleón Dalence, Dalence, Pantaleon Dalence, Provincia Dalence
 Provincia Poopó
 Provincia Punata, Coronel Gualberto Villarroel
 Provincia Quillacollo
@@ -6525,7 +6525,7 @@ Provincia Warnes, Ignacio Warnes, Provincia Ignacio Warnes
 Provincia Yacuma, Yacuma
 Provincia Yamparáez
 Provincia Zudáñez, Jaime Zudáñez, Provincia Jaime Zudáñez
-Provincia Ángel Sandoval, Delegacion Del Oriente, Provincia Sandoval, Ángel Sandoval
+Provincia Ángel Sandoval, Angel Sandoval, Delegacion Del Oriente, Provincia Sandoval
 Provincia Ñuflo de Chávez, Ñuflo de Chávez
 Psui Chanca Loma
 Puca Canto Pampa
@@ -6537,11 +6537,11 @@ Puca Orko, Puca Orkho Punta
 Puca Puca, Pucupuca
 Pucabra
 Pucacalle
-Pucara
 Pucara Loma
 Pucara Pampa
 Pucara de Yatina
 Pucarani Municipality
+Pucará
 Pucará de Oroncota
 Pucayaya
 Puchaqui
@@ -7026,7 +7026,7 @@ Quebrada Los Trigales
 Quebrada Los Vices
 Quebrada Lucas
 Quebrada Machaca
-Quebrada Machareti, Río Machareti
+Quebrada Macharetí, Río Machareti
 Quebrada Machata-huaico
 Quebrada Machín
 Quebrada Mal Paso
@@ -7429,7 +7429,7 @@ Quebrada de Viluyo, Quebrada Villuyo
 Quebrada de Vizcachilla, Quebrada de Vizcachillas
 Quebrada de Yanachajara, Quebrada Yanachajara, Yanachajara
 Quebrada de Yusta Huaico
-Quebrada de la Reunión, Río de la Reunión
+Quebrada de la Reunión, Rio de La Reunión
 Quebrada de las Peñas, Rí de las Peñas, Río Las Peñas, Río de la Peña, Río de la Peño
 Quebrada de los Patos
 Quebrada de Ánimos, Quebrada Animos
@@ -7506,7 +7506,6 @@ Ramada
 Ramada Alta
 Ramarani Pampa
 Ranchería Illustaca, Ilustaca, Ranchería Llustaca, Rancherío Lluctacka
-Rapido Boyer
 Rapirrán, Rapirra
 Raspadum
 Ravelo Municipality
@@ -7535,16 +7534,10 @@ Rio Las Petas, Arroio das Petas, Ribeirão Las Petas, Ribeirão Las Pitas, Río 
 Rio Llinkhi
 Rio Mamoré, Mamoré, Mamoré River
 Rio Mataca, Río de Mataca
-Rio Mizque, Río Misque
-Rio Paragua, Río Serre
-Rio Pilcomayo, Río Pilcumayo
 Rio Rosorio
 Rio Santa Rita, Arroio Santa Rita, Córrego Santa Rita
-Rio Taypi Jahuira
 Rio Tujsa Jahuira
-Rio Tunas
 Rio Turvo, Ribeirão Falso, Ribeirão Paragua, Río Tarvo, Tarvo River
-Rio Viejo
 Ripa Pala, Ripa Pata
 Ripacha Loma
 Robledos Punta
@@ -7564,6 +7557,7 @@ Rufo Lomas
 Rujalsu Pampa
 Rumi Vinto
 Rurrenabaque
+Rápido Boyer
 Río Abaja
 Río Abapocito, Río Apapusito
 Río Abuná Chico
@@ -7707,7 +7701,6 @@ Río Besa
 Río Beu
 Río Biata
 Río Bibosi
-Río Bio, Bio River
 Río Blanco
 Río Bojoy
 Río Bomarrasama, Bombarcasama, Río Bambaroaiana, Río Bombarcasama, Río Bomboroajana
@@ -7725,6 +7718,7 @@ Río Bulu Bulu
 Río Busama, Río Bubasama
 Río Buyumanu
 Río Buyuyumanu, Buyuyumanu, Río Boyuyumanu
+Río Bío, Bio River
 Río Caballuni
 Río Cabando, Rio Cabanda, Rio Cavando
 Río Cabra Cancha
@@ -8261,7 +8255,7 @@ Río Gira Palca
 Río Grande, Gu Pay, Río Guapay, Sará
 Río Grande de Chulumani, Grande de Chulumani
 Río Grande de Cinti
-Río Grande de Lipez
+Río Grande de Lípez
 Río Grande de San Juan, Granadas, Río San Juan de Oro, Río San Juan del Oro, Río de Estarca, Talina River
 Río Grean
 Río Guacha
@@ -8466,7 +8460,7 @@ Río Jalacuni, Río Julacuni
 Río Jalaka
 Río Jalakheri
 Río Jalan Thaya
-Río Jalantana
+Río Jalantaña
 Río Jalir Jokho
 Río Jalsuri
 Río Jalsuri Uma
@@ -8613,7 +8607,7 @@ Río Kimpara
 Río Kiruchala
 Río Kkola Canto
 Río Kkota Jahuira
-Río Kkotana
+Río Kkotaña
 Río Kojasca, Río Khojaskha
 Río Kollpa
 Río Kollpa Jahuira
@@ -8722,7 +8716,6 @@ Río Lluchu
 Río Llusca
 Río Lluskun Cuyo
 Río Lojojota, Chilichijama, Quebrada Tojojota, Rio Lajata, Río Imuele
-Río Lopez
 Río Loqueta, Rio Logueta, Río Lloqueta
 Río Lorente
 Río Loro Mayu
@@ -8738,6 +8731,7 @@ Río Lurata
 Río Luri, Río Luri Waykho
 Río Luribay, Río de Luribay
 Río Luten
+Río López
 Río López Mendoza, Río Lopemendoza
 Río Macaraca, Río Matacura, Río Mataracú
 Río Machacama
@@ -8829,6 +8823,7 @@ Río Misca Mayu
 Río Miscamayo
 Río Misicuni
 Río Mizca
+Río Mizque, Río Misque
 Río Moca, Río Mocca
 Río Mochara, Quebrada de Mochara
 Río Mochiquiri, Río Macahuiri
@@ -8942,7 +8937,7 @@ Río Orthón, Orthon, Río Ortón
 Río Osos, Río Osas
 Río Otavi
 Río Oveja Hugo
-Río Pabellon, Pabellón, Río Chaguaya, Río del Pabellon
+Río Pabellón, Pabellón, Río Chaguaya, Río del Pabellon
 Río Pablo Amaya, Río Amaya
 Río Pacacani, Río Pacañani
 Río Pacacsi, Rio Pacaja, Río de Pacajsi
@@ -9006,6 +9001,7 @@ Río Panti Mayu
 Río Papachaka
 Río Parabanon
 Río Paracti
+Río Paraguá, Río Serre
 Río Paraimiri
 Río Paranavi
 Río Parantaca
@@ -9058,6 +9054,7 @@ Río Piedra Grande
 Río Piedranca, Piedránsa
 Río Pila Mayu
 Río Pilaya, Río Pilayo
+Río Pilcomayo, Río Pilcumayo
 Río Piliapo, Río Pilipo
 Río Pina Pinani
 Río Pinaya
@@ -9189,7 +9186,6 @@ Río Ramada
 Río Ramaruma
 Río Rancho Cruz
 Río Rancho Mayu
-Río Rapulo, Río Raputo
 Río Rasitas
 Río Rauelo
 Río Ravelo
@@ -9208,6 +9204,7 @@ Río Rumi Huasi
 Río Rumicocha
 Río Rumirumi
 Río Rurmuntani
+Río Rápulo, Río Raputo
 Río Sabaya
 Río Sacabamba, Sacabamba
 Río Sacamallani
@@ -9249,9 +9246,9 @@ Río San Ignacio
 Río San Isidro
 Río San Joaquín
 Río San Jorge, Río Don Jorge, Río Jorge
-Río San Jose, Río Chimendo, Río Chinendo
-Río San Juan
+Río San José, Río Chimendo, Río Chinendo
 Río San Julián
+Río San Juán
 Río San Lorenzo
 Río San Lucas
 Río San Luis
@@ -9262,7 +9259,7 @@ Río San Miguel
 Río San Pablo
 Río San Pedro, Río de San Pablo
 Río San Rafael, Río San Carlos
-Río San Ramon, San Ramón River
+Río San Ramón, San Ramón River
 Río San Sebastián
 Río San Silvestre
 Río San Simoncito, Arroyo San Simoncito
@@ -9273,7 +9270,7 @@ Río Sancani
 Río Sania, Sania
 Río Sankhani Jahuira
 Río Santa Ana
-Río Santa Barbara, Santa Bárbara River
+Río Santa Bárbara, Santa Bárbara River
 Río Santa Elena, Río Chullaqui, Río de Santa Elena
 Río Santa Isabel
 Río Santa María
@@ -9313,8 +9310,7 @@ Río Sayuba, Río Saiuba, Río Soyuba
 Río Sañiri
 Río Seco
 Río Secuani
-Río Secure
-Río Seguenca
+Río Següenca
 Río Sehuenca
 Río Sehuenkani
 Río Sehuenkha Mayu
@@ -9395,6 +9391,7 @@ Río Sururia
 Río Surutú, Quebrada Surutú, Surutu
 Río Sury, Río Suny, Sury
 Río Suyumanu
+Río Sécure
 Río Tabla
 Río Tablamayo, Río Tabla mayu
 Río Tablani
@@ -9430,7 +9427,7 @@ Río Tanana
 Río Tanarupo, Río Tanarupi
 Río Tangani
 Río Tantuyo
-Río Tapacari
+Río Tapacarí
 Río Tapado
 Río Tapag, Río Tapas
 Río Tapaquillcha
@@ -9460,6 +9457,7 @@ Río Tawarreja, Río Tauarreja
 Río Tayota, Río Tavola, Tayota River
 Río Tayota Grande, Río Toyota Grande
 Río Taypi
+Río Taypi Jahuira
 Río Taypi Uma
 Río Taypuma
 Río Teacota
@@ -9510,7 +9508,7 @@ Río Toco Tocal
 Río Tocoli
 Río Toconi
 Río Toctora
-Río Todos Santos, Rio Todes Santos, Rio de Todos Santos, Río Todo santos
+Río Todos Santos, Rio Todes Santos, Rio de Todos Santos, Río Todo Santos
 Río Tojlia Jahuira
 Río Tojohuara
 Río Tokerepi
@@ -9568,6 +9566,7 @@ Río Tullma Mayu
 Río Tuluno
 Río Tumu
 Río Tumusla
+Río Tunas
 Río Tuni
 Río Tunquini
 Río Tunusa
@@ -9597,7 +9596,7 @@ Río Untiuta
 Río Urmiri
 Río Uru Mayu
 Río Uru Uru
-Río Urucu
+Río Urucú
 Río Uruguayito, Arroyo Arruguaito, Arroyo Aruguaito, Arroyo Uruguayito
 Río Uruhuaico, Río Iruhuaico
 Río Uruhuayo
@@ -9616,6 +9615,7 @@ Río Viacha
 Río Vibora, Río La Víbora
 Río Vicho Vicho
 Río Victoria
+Río Viejo
 Río Vila Huyo
 Río Vila Kkollu
 Río Vila Murata
@@ -9712,7 +9712,7 @@ Río Zapocó Norte, Rio Zapocoz Norte
 Río Zapocó Sud, Río Zapocoz Sur, Río Zapocoé Sud
 Río Zappallar
 Río Zongo
-Río Zudañez, Río de Zudáñez
+Río Zudáñez, Río de Zudáñez
 Río Zuri
 Río de Aiquile, Aiquile, Quebrada Aiquile, Río Aiquile
 Río de Ayoma, Quebrada de Ayoma
@@ -9829,7 +9829,7 @@ San José de Chiquitos
 San Juan
 San Juan de Yapacani
 San Juan del Pirai
-San Julian
+San Julián
 San Lorenzo
 San Lorenzo Municipality
 San Lucas
@@ -9891,7 +9891,7 @@ Saraya Pampa
 Sarmuta
 Sartenejal
 Satatchal
-Saucarí, Provincia Saucarí
+Saucarí, Provincia Saucari
 Saucepampa
 Saucini
 Sautu
@@ -9921,7 +9921,6 @@ Serrania Chusi Chusi
 Serrania Pijchu
 Serrania Quimsa Warmini
 Serrania Sacramento
-Serrania San Pedro
 Serrania Tambora
 Serrania Yauri
 Serranias Loza Huarankha
@@ -9953,6 +9952,7 @@ Serranía Negra
 Serranía San Diablo
 Serranía San Lorenzo, Cerros de San Lorenzo, Serrania de San Lorenza
 Serranía San Marcos
+Serranía San Pedro
 Serranía San Rafael
 Serranía San Simón
 Serranía San Vicente
@@ -10251,7 +10251,7 @@ Tolon Pampa
 Toma Toma Pampa
 Tomave Municipality
 Tomina
-Tomás Barrón, Barron, Provincia Tomás Barrón
+Tomás Barrón, Barron, Provincia Tomás Barron
 Topo Kunka
 Topuri
 Torabe Pampas
@@ -10492,7 +10492,7 @@ Yacuiba Municipality
 Yacupaticoj, Yacupartica
 Yahurani Pampa
 Yalderete Pampa
-Yamparaez
+Yamparáez
 Yana Kako
 Yana Loma
 Yana Lomas

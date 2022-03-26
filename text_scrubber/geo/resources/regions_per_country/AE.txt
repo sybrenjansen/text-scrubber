@@ -113,7 +113,7 @@ Al Batayih
 Al Baydā'
 Al Bazm al Gharbī, Al-Bizm al-Gharbi, Bazam al Gharbi, Bazim-al-Gharbi Island, Bazm al Gharbi
 Al Baţanah, Al Bitanah, Batinah
-Al Baţīn, Al Balin, Baţīn
+Al Baţīn, Al Balin, Batin
 Al Baţḩā'
 Al Bdee'a Suburb
 Al Binaydar, البنيدر
@@ -223,7 +223,7 @@ Al Yāsāt, Al Yā'sīn, Al Yāsayn, Jazair al Yāsāt, Jezirat Yásat
 Al Yāsāt al 'Ulyā, Yāsāt 'Alī
 Al Yāsāt as Suflá, Yāsāt Saflī
 Al Ḩabl
-Al Ḩabūs, Ḩabūs
+Al Ḩabūs, Habūs
 Al Ḩadwānīyah, Al Hidwaiyyah, Al Hidwayyah, Hadwaniya, Hadwāniyya, Hadwānīyah
 Al Ḩadībah
 Al Ḩadīqah al 'Āmmah, الحديقة العامة
@@ -367,10 +367,10 @@ Bid' Maţar
 Bid' Mu'alla
 Bid' Mubārak
 Bid' Mughannī, Bada Mghani, Bada Mughani, Bid' Maghānī, Bida' Maghāni
-Bid' Muhammad
 Bid' Murkhān
 Bid' Mussama
 Bid' Muşfir, Bir Misfar
+Bid' Muḩammad
 Bid' Sa'īd, Bada Sa'īd
 Bid' Sa'īd Bin Sa'īd
 Bid' Sahil
@@ -704,7 +704,6 @@ Jabal Ghumaylah
 Jabal Ghura, Jabal Ghurn
 Jabal Ghurayn, Gharain
 Jabal Gral
-Jabal Haqab
 Jabal Jabsah, Jabal Yabisa
 Jabal Janūbī
 Jabal Khashā'
@@ -831,8 +830,9 @@ Jabal Ḑaw'
 Jabal Ḩadāth, Jabal Ḥidāth, جبل حداث
 Jabal Ḩafarah
 Jabal Ḩafīt, Djabel Ḩafīt, Jabal Ḥafī, جبل حفيت
-Jabal Ḩalf, Jabal Ḩilf, جبل حلف
+Jabal Ḩalf, Jabal Ḥilf, جبل حلف
 Jabal Ḩalwá
+Jabal Ḩaqab
 Jabal Ḩaqāmah
 Jabal Ḩattá, Jabal Hajarain, Jabal Ḩajarayn, Jabal Ḩaţţah
 Jabal Ḩayl
@@ -923,7 +923,7 @@ Jāl Jahlān
 Jāthī, Yāthī
 Jīrī Plain
 Kaddat Jahilīyah
-Kalba, Amirate of Kalba, Kalbah, Sheikhdom of Ghālla, Trucial Sheikhdom of Kalba
+Kalbā, Amirate of Kalba, Kalbah, Sheikhdom of Ghālla, Trucial Sheikhdom of Kalba
 Karās
 Kashūnah, Kashuna
 Khabb
@@ -946,7 +946,7 @@ Kharimat al Yaif
 Kharmat Bū Hafāfah Bāţinīyah
 Kharmat Ghurayḑah, Kharimat Ghurayḑah, Khiraymat al Ghirayḏah, Khuraymat al Ghurayḑah, خريمة الغريضة
 Kharmat Khawrah
-Kharmat Markhah, Kharimat Markhah, Khiraymat al Markhah, Khuraymat al Markhah, خريمة المرخة
+Kharmat Markhah, Kharimat Markhah, Khiraymat Al Markhah, Khuraymat al Markhah, خريمة المرخة
 Kharmat Nuşşī, Khiraymat An Nuşá, Khuraymat an Nuşá, خريمة النصى
 Kharmat Umm al 'Awsh, Kharimat Umm al Aush
 Kharmat al Muhayn, Kharimat al Mahain, Kharmat al Mahaim
@@ -975,7 +975,7 @@ Khawr Bū Faswah
 Khawr Bū Nukhaylah
 Khawr Da'sah, Duwaisir
 Khawr Dubayy, Dubai Creek, Khor Dubai, خور دبي
-Khawr Fakkan, Khor al Fākhān, Khor al Fākkān
+Khawr Fakkān, Khor al Fākhān, Khor al Fākkān
 Khawr Farīdah
 Khawr Fāhid, Khawr Fahad, Khawr Fahd, Khor Fahid
 Khawr Ghanāḑah, Al Ghanadhah, Khaur Ghanadah, Khor Gharadha, Khor al Ghanādha, Khor-al-Ghanadhah
@@ -1008,7 +1008,7 @@ Khawr al Khān, Al Khan Lagoon, Khor Khān
 Khawr al Madfaq, Khor al-Midfaq
 Khawr al Mamzar, Al Mamzar Lagoon, Khor al Mamzar, خور الممزر
 Khawr al Maqţa', Khor al Maqtaa
-Khawr al Mughayrā', Al-Mughīrah, Khawr Mughayrah, Khor Mughaira
+Khawr al Mughayrā', Al Mughīrah, Khawr Mughayrah, Khor Mughaira
 Khawr al Murshidīyah
 Khawr al Ḩalj, Khawr al Ḩalq, Khor Halj
 Khawr ar Ruways, Khawr ar Ru'ays
@@ -1109,7 +1109,7 @@ Mayhalah, Mayahalah
 Maysaloon Park
 Mayy
 Maza
-Mazdīyah, Mazdīya
+Mazdīyah, Mazdiya
 Mazān'
 Mazārī', Mizaria
 Maḩābīb
@@ -1225,7 +1225,7 @@ Nakhl Subayyis, Nakhl Sibaiyis, Nakhl Sibaylis, Nakhl Subaiyis
 Namlah, Namalah
 Namlīyah
 Naqab Sha'rān
-Naqbiyīn
+Naqbīyīn
 Naqrah
 Naqā Abū Ţarfah, نقا أبو طرفة
 Naqā Awai
@@ -1657,7 +1657,7 @@ Sayḩ Sulaymān
 Sayḩ Sulaymāt
 Sayḩ Suwayḩān
 Sayḩ Tuwaysah, Sayḩ Tuways
-Sayḩ Yafūkh
+Sayḩ Yāfūkh
 Sayḩ Za'bah
 Sayḩ Za'lah
 Sayḩ ad Damm, Sīḩ ad Damm
@@ -1695,7 +1695,7 @@ Sayḩ aḑ Ḑaḩl
 Sayḩ Şarm Sayf
 Sayḩ Şubrah
 Sayḩ Ţarfā'
-Sayḩ Ţuwayyah, Sayḩ aţ Ţuwayyah, سيح الطّويّة
+Sayḩ Ţuwayyah, Sayḥ aṭ Ṭuwayyah, سيح الطّويّة
 Sayḩ Ḑadnā, Sayḩ Ḑadnah
 Sayḩ Ḩafir
 Sayḩ Ḩalamah
@@ -1803,7 +1803,6 @@ Thuqbat Şā', Thuqbat Sa'ah
 Tilā' Ghanāḑah
 Tina
 Trucial Coast, Al Sāḩil, Arab Coast, Pirate Coast, Shamāl, Sāhil 'Omān, Sāhil 'Umān, Sāḩil aş Şulḩ al Baḩrī, Trucial 'Uman, Trucial Oman
-Tunayq, Tanaij, Tanaiq, Tunaij
 Tuwayhil
 Umm 'Alaqah, Um 'Alaqa
 Umm 'Amīm, Jazīrat Umm 'mīn
@@ -1921,7 +1920,6 @@ Wādī Hamfaria
 Wādī Hayr, Wādī Haiyir
 Wādī Hiyaylah, Wadi Hiyaila
 Wādī Hubayb
-Wādī Hām
 Wādī Iblīs
 Wādī Jabib
 Wādī Jabsah
@@ -2124,6 +2122,7 @@ Wādī Ḩiyāl
 Wādī Ḩulw Bin Sulaymān, Wādī Ḩulw
 Wādī Ḩumayḑah, Wādī Ḥimayḍah, وادي حميضة
 Wādī Ḩālah
+Wādī Ḩām
 Wāsiţ
 Wāḩid
 Ya'alla
@@ -2264,7 +2263,7 @@ Z̧ulaymah, Dulaymah
 Ţawī Khāḑir, Khayḑr, Ţawī Khaydhr, Ţawī Khayḑar
 Ţawī Luduwada
 Ţawī Ma'ārij
-Ţawī Maghis, Māghiṣ, Ţawī Majhīz
+Ţawī Maghīş, Māghiṣ, Ţawī Majhīz
 Ţawī Mahaytah, Ţawī Mahaytha
 Ţawī Maktūm
 Ţawī Malā, Ţawī al Māliḩah
@@ -2426,10 +2425,11 @@ Z̧ulaymah, Dulaymah
 Ţawī Ḩulayw, Tāwī Hilaiw
 Ţawī Ḩumayrīr, Ţawī Hamaread, Ţawī Hemeirir, Ḥemerīr
 Ţawī Ḩurayjah
-Ţawī Ḩusayn, Ţāwī Husain
 Ţawī Ḩuwayrah
+Ţawī Ḩuşayn, Ţāwī Husain
 Ţawī Ḩārib, Hārib
 Ţawīyayn, Tawiyain, Tawyayn, Tuwiyain
+Ţunayq, Tanaij, Tanaiq, Tunaij
 Ţurayf
 Ţāwī adh Dhibāḩ
 Ḑubay'ah, Dabiyah, Zubaya, Zubbaya
@@ -2440,11 +2440,11 @@ Z̧ulaymah, Dulaymah
 Ḩabl Qā'imah, Habl Qa'im
 Ḩabl Ramrām
 Ḩabl Wādī Şafā
-Ḩadabat Khalīfah, Hadabit Khalifa, Haḑbat Khalīfah
 Ḩadabat Sukhub, Ḩadabat Sakhub
 Ḩadabat al 'Awdah
 Ḩadabat ar Rajībah
 Ḩadabat Ḩayrān, Ḩadabat Hairan
+Ḩadabāt Khalīfah, Hadabit Khalifa, Haḑbat Khalīfah
 Ḩadd Musafsif
 Ḩadd aţ Ţallah, Hadd al Tahlei, Hadd at Thalei, Ḩadd at Tahlī
 Ḩadd aţ Ţayr
@@ -2477,10 +2477,10 @@ Z̧ulaymah, Dulaymah
 Ḩalīb
 Ḩanyūfah
 Ḩanāfīsh
-Ḩaql 'Aşab, Abu Jida, Abu Jidu, Abū al Judhū', Al 'Aşab, Asab, Asab Field
+Ḩaql 'Aşab, 'Aşab, Abu Jida, Abu Jidu, Abū al Judhū', Al 'Aşab, Asab Field
 Ḩaql Az Zukum, Al-Zukum, Az Zaqqūm, Az Zukum, Zakim, Zakum, Zakum Field, Ḩaql Zukum
 Ḩaql Bāb, Bab Field
-Ḩaql Bū Ḩaşā, Ba Hasa, Bū Ḩaşā'
+Ḩaql Bū Ḩaşā, Ba Hasa, Bū Ḩaşā
 Ḩaql Fatḩ, Fateh, Fatḩ
 Ḩaql Fatḩ al Gharbī, Fateh Oilfield, West Fateh
 Ḩaql Fatḩ al Janūbī al Gharbī, S W Fath

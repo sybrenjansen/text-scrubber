@@ -1,5 +1,5 @@
 0 Portiño, Portiño de Morás
-7. industrialdea (Gaintxurizketa) / Polígono industrial 7 (Gaintxurizketa), 7. industrialdea (Gaintxurizketa), Polígono industrial 7 (Gaintxurizketa)
+7. industrialdea (Gaintxurizketa) / Polígono industrial 7 (Gaintxurizketa), 7. industrialdea (Gaintxurizketa), Gaintxurizketa, Polígono industrial 7 (Gaintxurizketa)
 9 de Octubre Park
 A Coruña, Corunna, La Coruña, The Groyne
 A Guarda, La Guardia
@@ -1166,7 +1166,7 @@ Arroyo Entretérminos
 Arroyo Fragoso
 Arroyo Fresnal
 Arroyo Friegamuñoz
-Arroyo Frio
+Arroyo Frío
 Arroyo Fuensanta
 Arroyo Fuente Vieja
 Arroyo Fuentidueña
@@ -1825,7 +1825,7 @@ Arroyo de Manina
 Arroyo de Marchenilla, Marchenilla River
 Arroyo de Mariana
 Arroyo de Mariano, Arroyo de Moriano
-Arroyo de Marigarcia
+Arroyo de Marigarcía
 Arroyo de Marinejos
 Arroyo de Marrandiel
 Arroyo de Martín Gonzalo
@@ -2422,7 +2422,6 @@ Arroyo de la Nava
 Arroyo de la Nava del Pobo, Arroyo de Navalucía
 Arroyo de la Navarra
 Arroyo de la Negra
-Arroyo de la Nora, Arroyo de la Nora del Gitano, Arroyo de la Ñoro
 Arroyo de la Noria
 Arroyo de la Ollilla
 Arroyo de la Olmedilla
@@ -2534,6 +2533,7 @@ Arroyo de la Zancarrona, Arroyo del Espinadillo
 Arroyo de la Zarza
 Arroyo de la Zarzuela
 Arroyo de la Zurita
+Arroyo de la Ñora, Arroyo de la Nora del Gitano, Arroyo de la Ñoro
 Arroyo de las Aguascebas Chico
 Arroyo de las Aguascebas Grande
 Arroyo de las Agujas
@@ -2637,7 +2637,6 @@ Arroyo de los Abades
 Arroyo de los Aceiteros
 Arroyo de los Adjuntos
 Arroyo de los Agudillos
-Arroyo de los Alamos
 Arroyo de los Albañales
 Arroyo de los Albercos, Arroyo de Albercas
 Arroyo de los Almendrillos
@@ -2740,6 +2739,7 @@ Arroyo de los Valles
 Arroyo de los Villarejos
 Arroyo de los Zahurdones, Arroyo de Charco Oscuro
 Arroyo de los Zancos
+Arroyo de los Álamos
 Arroyo del Abrevadero, Arroyo de Villaverde
 Arroyo del Acebrón
 Arroyo del Acebuchar
@@ -2821,7 +2821,6 @@ Arroyo del Campillo
 Arroyo del Campo
 Arroyo del Canalizo
 Arroyo del Canchal
-Arroyo del Cano, Arroyo del Caño Cañada
 Arroyo del Carbajo
 Arroyo del Carnicero
 Arroyo del Carpio
@@ -2842,6 +2841,7 @@ Arroyo del Caz
 Arroyo del Cañaveral
 Arroyo del Cañetejo
 Arroyo del Cañizar
+Arroyo del Caño, Arroyo del Caño Cañada
 Arroyo del Cañotar
 Arroyo del Cañuelo
 Arroyo del Cebolloso
@@ -3385,7 +3385,7 @@ Baides
 Baigorri
 Bailo
 Bailén
-Baiona, Байона
+Baiona, Bayona
 Baix Pallars
 Baixo Cabaleiro
 Baixos Delgados
@@ -3533,7 +3533,7 @@ Banco de Trafalgar
 Banco del Pitorro
 Banco las Amosucas
 Bande
-Banyeres de Mariola, Баньерес
+Banyeres de Mariola, Bañeres
 Banyeres del Penedès
 Banyoles, Bañolas, Баньолес
 Baquerín de Campos
@@ -5018,12 +5018,12 @@ Cabacés
 Caballar
 Cabana de Bergantiños
 Cabanabona
-Cabanas
 Cabanelles, Cabanellas
 Cabanes, Кабанес
 Cabanillas
 Cabanillas de la Sierra
 Cabanillas del Campo
+Cabañas
 Cabañas Raras
 Cabañas de Ebro
 Cabañas de Polendos
@@ -6534,7 +6534,7 @@ Cerro de la Arena
 Cerro de la Atalaya
 Cerro de la Balsa
 Cerro de la Borriquera
-Cerro de la Cabana
+Cerro de la Cabaña
 Cerro de la Cabeza
 Cerro de la Calaveruela
 Cerro de la Calera
@@ -7543,7 +7543,6 @@ Darsena del Musel
 Das
 Daya Nueva
 Daya Vieja
-Deba, Deba River, Deba ibaia, Deva, Deva River, Riu Deba, Río Deba
 Debako itsasadarra / Ría de Deba, Debako itsasadarra, Ría de Deba
 Degaña
 Dehesa El Campo
@@ -8137,7 +8136,7 @@ Ernio
 Errenteria, Rentería, Рентерия
 Errezil, Régil, Рехиль
 Erribera Beitia / Ribera Baja, Erribera Beitia, Ribera Baja
-Erriberagoitia / Ribera Alta, Erriberagoitia
+Erriberagoitia / Ribera Alta, Erriberagoitia, Ribera Alta
 Errigoiti, Rigoitia, Ригойтия
 Erro
 Errota
@@ -8317,7 +8316,7 @@ Euskal kostaldea / Costa Vasca, Costa Vasca, Euskal kostaldea
 Exhibit and Conference Center
 Exotic Park Tenerife
 Extramurs
-Extremadura, Comunidad Autónoma de Extremadura, Эстремадура
+Extremadura, Comunidad Autónoma de Extremadura, Estremadura
 Ezcabarte
 Ezcaray
 Ezcároz/Ezkaroze
@@ -8352,7 +8351,7 @@ Faustino
 Favara
 Fayos Los
 Fayón
-Felanitx, Феланич
+Felanitx, Felanich
 Felix, Феликс
 Felix Rodriguez de la Fuente Public Park
 Fene
@@ -8410,7 +8409,7 @@ Fluvial Park
 Fogars de Montclús
 Fogars de la Selva
 Foia del Paraís
-Foios, Фойос
+Foios, Foyos
 Foix, Foix River, Riu Foix
 Foixà, Фоша
 Folgoso de la Ribera
@@ -8778,7 +8777,7 @@ Galaroza
 Galarregi
 Galbarros
 Galbárruli
-Galdakao, Galdácano, Гальдакано
+Galdakao, Galdacano, Galdakano
 Galdames
 Galende
 Galera
@@ -9009,7 +9008,6 @@ Golmés
 Golondrina
 Golosalvo
 Golpejas
-Gomara
 Gombrèn
 Gomecello
 Gomesende
@@ -9029,7 +9027,7 @@ Gorg de l'Olla
 Gorga
 Gorliz
 Gormaz
-Gorobel mendilerroa / Sierra Sálvada, Gorobel, Gorobel mendilerroa, Salbata, Sierra Sálvada, Sálvada
+Gorobel mendilerroa / Sierra Sálvada, Gorobel, Gorobel mendilerroa, Salbata, Sierra Salvada, Sálvada
 Gorrondatxa, Playa de Azcorri
 Gotarrendura
 Gotor
@@ -9169,6 +9167,7 @@ Gátova
 Génave
 Gérgal
 Gójar
+Gómara
 Gómez Aragón
 Gósol
 Gúdar
@@ -9763,7 +9762,7 @@ Izagaondoa
 Izagre
 Izalde, Zaldu
 Izalzu/Itzaltzu
-Izaro uhartea / Isla Izaro, Isla Izaro, Isla de Ízaro, Izaro uhartea, Ízaro
+Izaro uhartea / Isla Izaro, Isla Izaro, Isla de Ízaro, Izaro, Izaro uhartea
 Izarraitz
 Izarraizko muturra / Cabo de Izarraitz, Cabo de Izarraitz, Izarraizko muturra, Punta Isarría, Punta Praiteburu
 Iznalloz
@@ -9774,7 +9773,7 @@ Izquierdo
 Izurtza
 Izustarriko muturra / Cabo de Izustarri, Cabo de Izustarri, Izustarriko muturra
 Iñausti
-J Garcia Carrion
+J García Carrión
 J. B. Berger
 Jabaloyas
 Jabalquinto
@@ -9935,7 +9934,7 @@ Kaxa Park
 Kingdom of Spain, Espagne, Espainia, Espanha, Espanya, España, Estado Español, Hispania, Regne d'Espanya, Reino de España, Spagna, Spain, Spanien, Spanish State, Испания
 Kirios de Adrada
 Kirol Portua
-Kontxa / La Concha, Kontxa, La Concha
+Kontxa / La Concha, Kontxa, La Concha, Playa de la Concha
 Kontxa badia / Bahía de La Concha, Bahía de la Concha, Kontxa badia
 Kortetako urtegia / Embalse de Korteta, Embalse de Corceta, Embalse de Cucerta, Embalse de Korteta, Kortetako urtegia
 Kortezubi
@@ -10056,7 +10055,7 @@ La Geria
 La Ginebrosa
 La Glorieta de los Capuchinos
 La Gola del Ter
-La Gomera, Isla de la Gomera, Гомера
+La Gomera, Gomera, Isla de la Gomera
 La Grandiosa Port, La Grandiosa Ferry Port
 La Granja Park
 La Guancha
@@ -10690,7 +10689,7 @@ Las Callejas
 Las Carboneras
 Las Carretas
 Las Casillas
-Las Cañadas, Caldera de Las Cañadas, Circo de las Cañadas, Las Cañadas del Teide
+Las Cañadas, Caldera de Las Cañadas, Circo de Las Cañadas, Las Cañadas del Teide
 Las Chapas
 Las Cinco Calles
 Las Cinco Villas
@@ -10814,7 +10813,6 @@ Lemoiz, Lemóniz, Лемонис
 Lena
 Leneus
 Lentegí
-Leon, Lleó
 Leoncillo
 Leoz/Leotz
 Lepe
@@ -10838,6 +10836,7 @@ Lezkako muturra
 Lezo
 Lezuza
 Lezáun
+León, Lleó
 Librilla
 Libros
 Liceras
@@ -10858,7 +10857,7 @@ Lineal Park
 Lineal de Palomeras Park
 Lineal del Manzanares Park
 Lintzirin
-Linyola, Линьола
+Linyola, Liñola
 Litago
 Lituénigo
 Lizartza
@@ -11305,7 +11304,7 @@ Mahide, Маиде
 Mahon Port, Mahon Ferry Port, Mahon Harbour
 Mahora
 Mahón, Maó
-Maials, Маяльс
+Maials, Mayals
 Maicas
 Maimona, Masia de la Maimona
 Mainar
@@ -11567,9 +11566,9 @@ Masquefa, Маскефа
 Massa d'Or, Massa d'Oros
 Massalavés, Masalavés
 Massalcoreig
-Massalfassar, Масальфасар
+Massalfassar, Masalfasar
 Massamagrell, Masamagrell, Масамагрель
-Massanassa, Масанаса
+Massanassa, Masanasa
 Massanes
 Massif d'Anaga
 Massif de Vignemale, Macizo de Vignemale, Massís de Vinyamala
@@ -11750,7 +11749,7 @@ Mierla La
 Mieza
 Miguel Domecq
 Miguel Esteban
-Miguel Hernandez Park
+Miguel Hernández Park
 Miguelturra
 Migueláñez
 Mijares, Михарес
@@ -11853,7 +11852,7 @@ Molinillo
 Molinos
 Molinos Los
 Molinos de Duero
-Molins de Rei, Молинс-де-Рей
+Molins de Rei, Molins de Rey
 Moll d'Espanya, Muelle de España
 Mollarri, Isla Malla-arria, Islote Malla-arriá
 Molledo
@@ -15427,7 +15426,7 @@ Ponte da Boga
 Ponteareas
 Ponteceso
 Pontecesures, Puentecesures, Пуэнтесесурес
-Pontedeume, Пуэнтедеуме
+Pontedeume, Puentedeume
 Pontedeva
 Pontenova A
 Pontes de García Rodríguez As
@@ -15463,7 +15462,7 @@ Port Joan
 Port Saplaya
 Port Segur-Calafell
 Port d'Addaia
-Port d'Alcudia, Alcudia Ferry Port, Alcudia Harbour, Alcudia Port
+Port d'Alcúdia, Alcudia Ferry Port, Alcudia Harbour, Alcudia Port
 Port d'Andratx
 Port d'Arenys
 Port d'Arlépoa, Port d'Arleppa
@@ -15817,7 +15816,7 @@ Provincia de Zamora
 Provincia de Zaragoza, Province of Saragossa, Província de Saragossa, Saragossa, Saragosse
 Provincia de Ávila, Província d'Àvila
 Província de Barcelona, Bartzelona, Province of Barcelona
-Província de Castelló, Castelló, Castellón, Provincia de Castellón, Provincia de Castellón de la Plana
+Província de Castelló, Castello, Castellon, Provincia de Castellón, Provincia de Castellón de la Plana
 Província de Girona, Gerona, Province of Girona, Provincia de Gerona
 Província de Lleida, Lérida, Province of Lleida, Província de Lérida
 Província de Tarragona, Province of Tarragona
@@ -18003,13 +18002,10 @@ Rincón del Cura
 Rincón del Peñón del Moro
 Rincón del Santo Cristo
 Riner
-Rio Arba, Areva
 Rio Borriol
 Rio Minho
-Rio Pedro
 Rio Pereira
 Rio Piñeira
-Rio Segura, Segura River
 Rio Xévora, Aebura, Río Gévola, Río Gévora
 Rio de Manilva, Río Mamilva
 Rio de Piqueras
@@ -18380,10 +18376,10 @@ Rubena
 Rubiales
 Rubielos de Mora
 Rubielos de la Cérida
-Rubio
 Rubio El
 Rubite
 Rubiá
+Rubió
 Rublacedo de Abajo
 Rubí
 Rubí de Bracamonte
@@ -18415,7 +18411,7 @@ Ráfol de Salem
 Rágama
 Rágol
 Ría La Canal
-Ría da Coruña, Ría de la Coruña
+Ría da Coruña, Ría de La Coruña
 Ría de Aboño, Aboño River, Avono
 Ría de Ajo
 Ría de Aldán
@@ -18483,12 +18479,12 @@ Río Ahogaborricos, Arroyo Ahogaborricos, Arroyo Ahogaburros, Arroyo Bustillo
 Río Alagón
 Río Alaminos, Río de las Pasadas
 Río Albaida
-Río Albanchez
 Río Albardana
 Río Alberche, Alberche River
 Río Alberite
 Río Alburrel
 Río Albuñuelas
+Río Albánchez
 Río Alcalá
 Río Alcanadre, Alcanadre River
 Río Alcantud
@@ -18542,6 +18538,7 @@ Río Araquil, Arakil erreka
 Río Aravalle
 Río Araviana
 Río Arazas, Río de Ordesa
+Río Arba, Areva
 Río Arba de Biel
 Río Arba de Luesia
 Río Arbillas
@@ -18797,6 +18794,7 @@ Río Darro
 Río Dañador
 Río Deo, Río Bueiro
 Río Despeñaperros
+Río Deva, Deba, Deba River, Deba ibaia, Deva, Deva River, Riu Deba, Río Deba
 Río Deza
 Río Dilar
 Río Dobra, Dobra River
@@ -19053,7 +19051,7 @@ Río Leza
 Río Lezuza
 Río Liendre
 Río Lillas
-Río Linares, Arroyo Linares
+Río Liñares, Arroyo Linares
 Río Llamas
 Río Llémana, Riera de Liébana
 Río Lobos
@@ -19131,7 +19129,6 @@ Río Mesto
 Río Mezquín
 Río Micena
 Río Miera
-Río Mijares, Mijares River, Río Manzanera, Río Millares, Río de Albentosa
 Río Milagro
 Río Milanillos, Río Melanillos
 Río Mingues
@@ -19170,6 +19167,7 @@ Río Mulhacén
 Río Mundo, Mundo River
 Río Mures
 Río Muriel Viejo, Río de Muriel
+Río Míjares, Mijares River, Río Manzanera, Río Millares, Río de Albentosa
 Río Nabón
 Río Nacimiento
 Río Najerilla, Najerilla River, Rio Najera
@@ -19235,18 +19233,19 @@ Río Pas, Pas River, Río de Mogro
 Río Paulejas
 Río Payo
 Río Pedrajas
+Río Pedro
 Río Pedroso
 Río Pedruégano
 Río Pelayo
-Río Pena, Río Setenil
 Río Penilla
-Río Pequeno, Arroyo de San Salvador de Camba, Río Ayódar
+Río Pequeño, Arroyo de San Salvador de Camba, Río Ayódar
 Río Perales
 Río Perazancas, Río Perazanca
 Río Pereilas, Río Perellas
 Río Perejiles, Río Peregiles
 Río Pesquera
 Río Pez
+Río Peña, Río Setenil
 Río Peñahora
 Río Peñón
 Río Pichos
@@ -19376,6 +19375,7 @@ Río Saá, Arroyo de Saar
 Río Seco, Río Bechi
 Río Sed
 Río Segundera
+Río Segura, Segura River
 Río Seixo, Río Seixo de Landoy
 Río Sella, Sella River
 Río Sellent
@@ -19980,7 +19980,7 @@ San Adrian de Cobres
 San Adrián
 San Adrián de Juarros
 San Adrián del Valle
-San Agustin
+San Agustín
 San Agustín del Guadalix
 San Agustín del Pozo
 San Amaro
@@ -20116,7 +20116,7 @@ San Pablo de la Moraleja
 San Pablo de los Montes
 San Pascual
 San Pedro
-San Pedro Apostol
+San Pedro Apóstol
 San Pedro Bercianos
 San Pedro Manrique
 San Pedro Palmiches
@@ -20267,7 +20267,7 @@ Sant Mateu de Bages, San Mateo de Bages, Сан-Матеу-де-Бажес
 Sant Miquel, tossal de Sant Miquel
 Sant Miquel de Campmajor
 Sant Miquel de Fluvià, San Miguel de Fluviá, Сан-Мигель-де-Флувья
-Sant Mori, Сан-Мори
+Sant Mori, San Mori
 Sant Pau de Segúries
 Sant Pere Màrtir, Sant Pere
 Sant Pere Pescador, San Pedro Pescador, Сан-Педро-Пескадор
@@ -20276,7 +20276,7 @@ Sant Pere de Ribes, San Pedro de Ribas
 Sant Pere de Riudebitlles
 Sant Pere de Torelló, San Pedro de Torelló, Сан-Педро-де-Торельо
 Sant Pere de Vilamajor
-Sant Pol de Mar, Сан-Поль-де-Мар
+Sant Pol de Mar, San Pol de Mar
 Sant Quintí de Mediona
 Sant Quirze Safaja
 Sant Quirze de Besora
@@ -21336,7 +21336,7 @@ Sierra de la Culebra
 Sierra de la Culebrina
 Sierra de la Dehesa de la Pared
 Sierra de la Dehesilla
-Sierra de la Demanda, Demanda mendilerroa, Сьерра-де-ла-Деманда
+Sierra de la Demanda, Demanda mendilerroa, Serra de la Demanda
 Sierra de la Encantada
 Sierra de la Fatarella
 Sierra de la Fembra Morta
@@ -21345,7 +21345,7 @@ Sierra de la Gabardiella
 Sierra de la Garrapata
 Sierra de la Garrocha
 Sierra de la Garza
-Sierra de la Grana, Cerros de Navalcarazo
+Sierra de la Graña, Cerros de Navalcarazo
 Sierra de la Greu
 Sierra de la Higuera
 Sierra de la Higuerica
@@ -22155,7 +22155,7 @@ Torremochuela
 Torremolinos
 Torremontalbo
 Torremormojón
-Torrent, Торренте
+Torrent, Torrente
 Torrent d'Estany
 Torrent de Muro
 Torrent de Pareis
@@ -22984,7 +22984,7 @@ Vilarmaior
 Vilarnau
 Vilasantar
 Vilassar de Dalt, Vilasar de Dalt
-Vilassar de Mar, Виласар-де-Мар
+Vilassar de Mar, Vilasar de Mar
 Vilaverd
 Vilaür
 Vilches

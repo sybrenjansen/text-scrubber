@@ -58,7 +58,6 @@ Aš, Asch, Аш, 阿什
 Babice, Babitz, Bowitz, Pobitz
 Babice nad Svitavou, Babitz
 Babice u Rosic
-Babin
 Babina
 Babiny Druhé, Babiny II
 Babiny Přední, Babiny I.
@@ -66,9 +65,9 @@ Babičky
 Babolky
 Babylon
 Babí, Babý, Trautenbach
+Babín
 Babčice
 Babětín
-Bacov
 Bahenec
 Bahna
 Bahno
@@ -110,6 +109,7 @@ Bačetín, Batschetin
 Bačice
 Bačkov
 Bačkovice
+Bačov
 Bařice
 Bařiny
 Baška
@@ -238,7 +238,6 @@ Blatnička
 Blatno, Pladen, Platten
 Blatná, Platten, 布拉特納
 Blatníkovská Lhotka
-Blato, Benetschlag
 Blazice
 Blažejov, Blauenschlag
 Blažejovice, Plahetschlag
@@ -264,6 +263,7 @@ Bludovice, Blauendorf
 Blučina
 Bláhov
 Bláhova Lhota
+Bláto, Benetschlag
 Bláznov
 Blízkov
 Blížejov, Blisowa
@@ -368,7 +368,6 @@ Boreč
 Boreček, Haidedörfel, Wandermühle
 Borečnice
 Borkovany, Borkowan
-Borkovice
 Borky
 Borohrádek
 Borotice
@@ -405,27 +404,27 @@ Boubská
 Boubín
 Boudy
 Bousov
-Bousín
 Bouzov, Busau
 Boučí, Pichelberg
 Boušice, Bouschitz
+Boušín
 Bozdova Lhota, Hundshaberstift
 Bozdíš, Wostirsehen
 Bozejny
-Bozkov, Boschkau, Boschkow, Boskow
 Boč, Wotsch
 Boňkov, Punkendorf
 Boňov
 Bořanovice
 Bořejov
-Bořenovice, Borschenowitz
 Bořená Hora
 Bořetice
 Bořetín, Tiefendorf
+Bořeňovice, Borschenowitz
 Bořice
 Bořislav
 Bořitov, Borstendorf
 Bořkov
+Bořkovice
 Boříkovský Dvůr
 Boříkovy
 Bošice
@@ -445,10 +444,11 @@ Božetice, Božetitz
 Božetín, Fasattengrün
 Božice, Possitz
 Božičany, Poschelcau, Poschetau, Poschetzau
+Božkov, Boschkau, Boschkow, Boskow
 Božkovice
 Božkovy
 Božtěšice, Postitz
-Boží Dar, Gottesgab, Божи-Дар, 博日達爾
+Boží Dar, Gottesgab, Божи Дар, 博日達爾
 Boží Voda, Geweihtenbrunn
 Božíkov, Götzdorf
 Brabec
@@ -534,8 +534,8 @@ Broumy, Braum
 Broučkova Lhota
 Brozany, Brozan
 Brozánky, Brozanek
-Brtec
 Brtev
+Brteč
 Brtnice, Pirnitz, Schwarztal, Бртнице, Бртњице, 布爾特尼采
 Brtnička
 Brtná, Zeidlweid
@@ -657,7 +657,6 @@ Bylany, Bilan, Püllna
 Bylnice, Bilnitz
 Bylochov, Wallach
 Bynina
-Bynov, Böhmdorf, Bünauburg
 Bynovec, Binsdorf
 Byseň
 Bystrc, Bisterz
@@ -679,9 +678,9 @@ Bytina, Bytiny
 Bytíz
 Byzhradec
 Byčinec
+Byňov, Böhmdorf, Bünauburg
 Byšice, Bischitz
 Byšičky
-Byškovice, Bischkowitz
 Bzenec, Bisenz, Бзенец, 布澤涅茨
 Bzenec-Přívoz
 Bzová
@@ -742,6 +741,7 @@ Býkovec
 Býkovice, Bykowitz
 Býčina
 Býčkovice
+Býškovice, Bischkowitz
 Býšov
 Býšovec, Byschowetz
 Býšť, Bejscht
@@ -805,7 +805,6 @@ Březejc
 Březenec, Pirken
 Březenice
 Březhrad
-Březina, Briesen, Pirk
 Březinka
 Březinky
 Březiny, Birkigt
@@ -826,6 +825,7 @@ Březsko
 Březské
 Březí, Birkau, Bratelsbrunn, Pirk, Pirkau, Presei, Prátelsbrunn, Prátlsbrun, Seslas, Wuretzhofen
 Březín, Wirschin
+Březína, Briesen, Pirk
 Březůvky
 Břešt'any
 Břežany, Breschan, Frischau, Fryšava, Pressern
@@ -845,14 +845,12 @@ Bříza, Pirk
 Břízsko
 Bříšťany
 Bžany, Webeschan
-Cakov, Gross Čekau
 Caltov
 Capartice
 Cebiv, Zebau
 Cehnice, Cehnitz
 Cejle, Zeil, Zeirn
 Cejsice, Zeislitz
-Cekov
 Celné, Zöllnei
 Cep
 Cerekvice
@@ -976,7 +974,6 @@ Chotiv
 Chotouchov
 Chotouň, Neuhof-Chotaun
 Chotovenka, Koitowenka
-Chotovice
 Chotoviny
 Chotusice, Chotusitz
 Chotutice
@@ -1010,6 +1007,7 @@ Chouzavá
 Chouzovy
 Chouč, Kautz
 Chořelice
+Choťovice
 Choťánky, Chotanek
 Chožov, Kozow
 Chraberce
@@ -1017,19 +1015,17 @@ Chramiště
 Chramosty
 Chranišov, Granesau
 Chrančovice
-Chrast, Manderšejd Chrást
 Chrastava, Kratzau, Храстава, 赫拉斯塔瓦
 Chrastavec
 Chrastavice
-Chrastice, Gross Chrastitz, Kratzdorf
 Chrastiny
 Chrastná, Krassa
 Chrastová Lhota, Chrostau Ohlhütten
 Chrastín
 Chrastěšov
 Chrašice
+Chraštice, Gross Chrastitz, Kratzdorf
 Chraštičky
-Chrašťany, Chrastian, Groschau
 Chrbonín
 Chrlice, Chirlitz
 Chroboly, Chrobold
@@ -1046,11 +1042,13 @@ Chrudichromy
 Chrudim, Crudim, Хрудим, 赫魯迪姆
 Chrustenice, Chrustenitz, Хрустењице
 Chrámce, Kramitz
+Chrást, Manderšejd Chrást
 Chrást nad Sázavou, Chrast an der Sasau
 Chrástov
+Chrášťany, Chrastian, Groschau
 Chrášťovice, Kraschtowitz
 Chuchel
-Chuchelna, Kuchelna
+Chuchelná, Kuchelna
 Chudenice, Chudenitz, Худењице
 Chudenín, Chudiwa
 Chuderov, Gross Kaudern
@@ -1074,10 +1072,8 @@ Chvaletín, Qualitzen
 Chvaleč, Qualisch
 Chvalešovice
 Chvalina
-Chvalkov
 Chvalkovice
 Chvalnov
-Chvalov
 Chvalovice, Kallendorf, Kollowitz, Kolowitz
 Chvalíkovice
 Chvalín, Kalling
@@ -1092,6 +1088,8 @@ Chvojenec, Chvojenice, Chwojenec
 Chvojnov
 Chvojínek, Klein-chwojen
 Chválenice, Chwalenitz
+Chválkov
+Chválov
 Chyjice
 Chylice, Kilitz
 Chynín
@@ -1099,7 +1097,6 @@ Chytálky
 Chyňava, Chynawa, Хињава
 Chyše, Chiesch
 Chyška
-Chyšky, Klein Chyschka, Špicberk
 Chyšna
 Chábory
 Chářovice, Charschowitz
@@ -1107,6 +1104,7 @@ Chýnice
 Chýnov, Chejnow, Хинов, 希諾夫
 Chýně
 Chýstovice
+Chýšky, Klein Chyschka, Špicberk
 Chýšť
 Chřebřany, Kreberscham
 Chřenovice, Krenowitz
@@ -1126,7 +1124,6 @@ Cipín, Zippendorf
 Cirhan
 Citice, Zieditz
 Citonice
-Citov
 Cizkrajov, Sitzgras, Sitzgrass
 Cotkytle
 Crhov
@@ -1150,6 +1147,7 @@ Císařská Kuchyně
 Císařský, Kaiserswalde, Kaiserwalde
 Cítkov
 Cítoliby, Zittolib, Цитолиби
+Cítov
 Dachov
 Dachovy
 Daleké Dušníky
@@ -1205,9 +1203,9 @@ Dehtín
 Denětice, Tenetitz
 Derflice
 Desky, Brettern
-Desná, Dessendorf, Döschen
 Devět Mlýnů
 Dešenice, Deschenitz, Deschonitz
+Dešná, Dessendorf, Döschen
 Deštnice
 Deštná, Deschna, Töschen
 Deštné, Deschney, Deštné v Orlických horách, Dorfteschen
@@ -1333,7 +1331,6 @@ Dolenice, Tullnitz
 Dolení Paseky
 Dolina, Doernsdorf, Dörnsdorf, Loch
 Doliny
-Dolni Lhota
 Dolní Adršpach, Nieder-Adersbach
 Dolní Albeřice, Nieder-Albendorf
 Dolní Babákov
@@ -1443,6 +1440,7 @@ Dolní Křečany, Dolní Ehrenberg, Dolní Ehrenberk, Nieder-Ehrenberg, Nieder-E
 Dolní Lazy, Dolní Perlsberg, Unter Perlsberg
 Dolní Lažany, Unter Losau
 Dolní Les, Niederwald
+Dolní Lhota
 Dolní Lhotka
 Dolní Libchava, Nieder Liebich
 Dolní Libchavy, Nieder Lichwe
@@ -1579,7 +1577,7 @@ Dolní Vilémovice
 Dolní Vilímeč
 Dolní Vlence
 Dolní Vlkýš, Unter Wilkischen
-Dolní Vltavice, Unter Wuldau, Unter-Moldau
+Dolní Vltavice, Unter Moldau, Unter Wuldau
 Dolní Vlčkovice, Nieder Wölsdorf
 Dolní Vražné, Gross Petersdorf
 Dolní Vysoké, Nieder Wessig
@@ -1669,7 +1667,6 @@ Doupě
 Doňov
 Dožice
 Drachkov
-Drachov, Drachau
 Drahanovice, Drahanowitz
 Drahany, Drahan
 Drahelice
@@ -1750,6 +1747,7 @@ Druztová
 Družec
 Drvalovice
 Drysice
+Dráchov, Drachau
 Drásov, Drasow
 Drštěkryje
 Držkov, Držkow
@@ -1761,8 +1759,8 @@ Držovice, Držowitz, Tirschowitz
 Dub, Daub
 Dub nad Moravou
 Dubany
-Dubec, Dvŭr Dubeč, Tutz
 Dubenec, Dubenetz
+Dubeč, Dvŭr Dubeč, Tutz
 Dubečno
 Dubice, Klein Aicha
 Dubicko, Dubitzke
@@ -2045,8 +2043,8 @@ Hartíkov
 Harvany
 Hasina
 Haslice
-Hate
 Hatín
+Hatě
 Haukovice
 Havel
 Havlov, Hablesreith
@@ -2115,7 +2113,6 @@ Hladké Životice, Seitendorf (bei Fulnek)
 Hladná, Noviny
 Hladov, Nový Hubenov
 Hlasivo
-Hlasná Lhota, Wihoren
 Hlasívko
 Hlavatce
 Hlavatec
@@ -2179,6 +2176,7 @@ Hlušovice
 Hláska
 Hlásnice, Wächtersdorf
 Hlásná, Wachtern
+Hlásná Lhota, Wihoren
 Hlásná Třebaň, Vorder Třebau
 Hlávkov
 Hlína
@@ -2247,7 +2245,7 @@ Hojšín
 Hokov
 Holany, Hohlen
 Holasice
-Holasovice, Kreuzendorf, Голашовице, 霍拉舍維采
+Holašovice, Kreuzendorf, Голашовице, 霍拉舍維采
 Hole
 Holedeč, Gross-Holetitz, Klein Holetitz
 Holedeček
@@ -2607,7 +2605,7 @@ Horoušany, Horauschen
 Horoušánky
 Horská Kamenice
 Horská Kvilda, Innergefild
-Horusice
+Horušice
 Hory, Bavorovské Svobodné Hory, Horn, Spitzenberg
 Hory Matky Boží, Bergstadtl
 Horákova Lhota
@@ -2622,7 +2620,6 @@ Hospozínek, Paršenk
 Hospříz, Köpferschlag
 Hostačov
 Hostašovice
-Hostice
 Hostim, Hösting
 Hostinka
 Hostinné, Arnau, Гостинне, Хостине, 霍斯廷內
@@ -2693,6 +2690,7 @@ Hořín
 Hoškovice
 Hošnice
 Hoštejn
+Hoštice
 Hoštěc, Hursch, Hurschk
 Hošťalovice
 Hošťka, Gastorf, Hesselsdorf
@@ -2720,7 +2718,7 @@ Hrachovy Hory
 Hrad Nečtiny, Preitenštejn
 Hrad Osek
 Hradec, Burgstadtl, Groditz, Grätz, Hradetz, Hradzen, Ratzken
-Hradec Králové, Königgrätz, Градец Кралове, Храдец Кралове, 赫拉德茨-克拉洛韦
+Hradec Králové, Gradets Kralove, Königgrätz, Храдец Кралове, 赫拉德茨-克拉洛韦
 Hradec nad Moravicí, Grätz
 Hradec nad Svitavou, Graendorf, Greifendorf, Grándorf
 Hradecko
@@ -2731,10 +2729,10 @@ Hradečná, Markersdorf, Sperbersdorf
 Hradešice
 Hradešín
 Hradisko
-Hradištko, Hradischko, Hradiska
 Hradiště, Burgstall, Hradischt, Hradiště u Kasejovice, Hraidisch, Höfen, Radischen, Ratsch
 Hradiště na Písku
 Hradišťany, Radelstein
+Hradišťko, Hradischko, Hradiska
 Hradišťská Lhotka
 Hradišťský Újezd
 Hradové Střimelice, Burg Strimelitz
@@ -2844,7 +2842,7 @@ Humenice, Maierhof
 Humnice
 Humny
 Humpolec, Humpoletz, Kumpotitz, Гумполец, Хумполец, 洪波萊茨
-Huntířov, Güntersdorf
+Huntířov, Guntersdorf
 Huníkov, Henne
 Hunčice, Hundschitz
 Hurtova Lhota
@@ -2979,7 +2977,6 @@ Janoslavice
 Janoušov
 Janov, Janow, Jansdorf, Johannesdorf, Johanneshöfen, Johannesthal, Johnsdorf, Jonsdorf
 Janov nad Nisou, Honsberg, Honsberk, Johannesberg
-Janova, Johanová
 Janova Ves, Johannesdorf
 Janovec, Janovec I
 Janovice, Janowitz, Johannesgunst, Johnsdorf
@@ -2987,6 +2984,7 @@ Janovice nad Úhlavou, Janowitz, Јановице на Ухлави, 烏赫拉�
 Janovická Lhota
 Janovičky, Johannesberg
 Janovka, Johannesberg, Johannesruh
+Janová, Johanová
 Jansky Vrch, Johannesberg
 Janská, Jonsbach
 Janské Lázně, Johannisbad, Јанске Лазње, Янске-Лазне, 揚斯凱拉茲涅
@@ -3017,7 +3015,7 @@ Jarošov nad Nežárkou, Jareschau
 Jarpice
 Jasenice
 Jasenka
-Jasenná, Jasená
+Jasenná, Jasena
 Jasinov
 Jasné Pole
 Jasánky, Asang
@@ -3366,8 +3364,8 @@ Karlovy Vary, Carlsbad, Karl Vary, Karlsbad, Карлове Вари, Карло
 Karlík
 Karlín, Charlottendorf, Karolinsthal
 Karlštejn, Karlstein, Карлштейн
-Karolin, Dvŭr Karolin
 Karolinka, Karolinina Huť
+Karolín, Dvŭr Karolin
 Karpentná
 Karviná, Freistadt, Frysztat, Fryštát
 Kasalice
@@ -3396,7 +3394,6 @@ Kašenec, Kaschnitzfeld
 Kašina Hora
 Kašnice, Kaschnitzberg
 Kašov
-Kašovice
 Kašparova Hora, Kasparberg
 Kašperské Hory, Bergreichenstein, Кашперске Хори, Кашперске-Гори, 卡什佩尔斯凯霍里
 Kaštice
@@ -3468,8 +3465,8 @@ Klentnice, Klentnitz
 Kleny
 Klení, Gollnetschlag, Hafnern
 Klenčí pod Čerchovem, Kleneč pod Čerchovem, Klentsch
-Klepačov, Kleppel
 Klepná, Kleppen
+Klepáčov, Kleppel
 Klest, Reissig
 Kletečná, Kletschen
 Kletice
@@ -3551,7 +3548,7 @@ Kněž
 Kněždub
 Kněževes, Herrndorf
 Kněževísko
-Kněžice, Gross Herrndorf, Knieschitz, Kněžitz, Schreibendorf
+Kněžice, Gross Herrndorf, Knieschitz, Knězitz, Schreibendorf
 Kněžičky
 Kněžmost, Fürstenbruck
 Kněžnice
@@ -3576,7 +3573,7 @@ Kobylá, Jungferndorf, Kobylá nad Vidnavkou
 Kobylé
 Kobylí, Kohlbach, Кобили
 Kobylí Hlava
-Kocanda
+Kocandá
 Kocbeře, Kočbeř, Rettendorf
 Kocelovice
 Kochavec
@@ -3682,7 +3679,7 @@ Konětopy
 Koněšín, Koněschin
 Kopanina, Frauenreuth
 Kopaniny, Kopaciny, Kopain, Krugsreuth
-Kopec, Hemmehübel, Kopetzen
+Kopeč, Hemmehübel, Kopetzen
 Kopidlno, 科皮德爾諾
 Kopidlo
 Kopisty, Kopitz
@@ -3709,14 +3706,13 @@ Korozluky, Kolosoruk
 Koruna, Mariakron
 Korunka
 Korunní, Krondorf
-Korycany, Koritschan, Коричани, 科日恰尼
 Koryta, Nirschlern
 Korytany, Rindl
 Korytná
 Koryto, Hundsnursch, Psí Koryto
+Koryčany, Koritschan, Коричани, 科日恰尼
 Korýtka
 Korěnný, Schlösselbach
-Kosice
 Kosičky
 Kosmo
 Kosmonosy, Kosmanos, Космоноси, 科斯莫諾西
@@ -3724,9 +3720,7 @@ Kosmová, Gossmaul
 Kosmáčov
 Kosobody
 Kosobudy
-Kosov, Gossau
 Kosova Hora, Amschelberg
-Kosovy
 Kosoř
 Kosořice
 Kosořín
@@ -3756,7 +3750,6 @@ Kostelní Radouň
 Kostelní Střimelice, Kirch Strimelitz
 Kostelní Vydří
 Kostelík
-Kostice
 Kostníky
 Kostomlaty, Gross-Kostomlat
 Kostomlaty nad Labem
@@ -3814,7 +3807,6 @@ Kozašice
 Kozel
 Kozinec
 Kozičín
-Kozlany, Kozlan, Кожлани, 科日拉尼
 Kozlov, Koslau, Kozlau
 Kozlovice, Koslowitz, Kozlowitz
 Kozly, Gosel, Kosel
@@ -3851,8 +3843,12 @@ Kořenov, Wurzelsdorf
 Košatka nad Odrou, Gross Koschatka, Košatka
 Košařiska
 Košetice, Koschendorf, Koschetitz
+Košice
 Košinov
+Košov, Gossau
 Košovice
+Košovy
+Koštice
 Koštov, Kosten
 Košumberk, Koschumberg
 Košuti
@@ -3864,6 +3860,7 @@ Košíře, Körber
 Košťany, Kosten
 Košťálov
 Kožichovice
+Kožlany, Kozlan, Кожлани, 科日拉尼
 Kožlí, Kožla
 Kožlí u Orlíka
 Kožlí u Čížové
@@ -3878,7 +3875,6 @@ Krahulov
 Krahulčí, Sperberdorf
 Krajková, Gossengruen, Gossengrün
 Krajničko
-Krakov
 Krakovany, Krakowan
 Krakovec
 Krakovčice
@@ -3886,8 +3882,6 @@ Krakořice, Krokersdorf
 Kralice, Kralitz
 Kralice na Hané, Kralitz
 Kraličky, Sajlerov
-Kralova Lhota
-Kralovice, Kralowitz, Краловице, 克拉洛維采
 Kralupy nad Vltavou, Kralup, Kralupy, Кралупи на Влтави, Кралупи-над-Влтавоу
 Kralupy u Chomutova, Deutsch Kralup, Deutsch Kralupp, Německé Kralupy
 Kramolna
@@ -3900,14 +3894,11 @@ Kraselov, Krasilau
 Krasetín
 Kraskov
 Kraslice, Graslitz, Краслице, 克拉斯利采
-Krasnice
 Krasolesí
 Krasonice
-Krasonovice
-Krasov, Krasch, Kronsdorf
-Krasovice, Kraschowitz Kr. Pilsen
 Krasová, Rogendorf
 Krasoňov
+Krasoňovice
 Krasíkov, Budigsdorf
 Krasíkovice
 Kratochvilka
@@ -3921,6 +3912,8 @@ Kravsko
 Kraví Hora, Kuhberg
 Kračín
 Krašlovice
+Krašov, Krasch, Kronsdorf
+Krašovice, Kraschowitz Kr. Pilsen
 Krbice, Körbitz
 Krby, Karba
 Krchlebská Lhota
@@ -3994,7 +3987,9 @@ Kryštofovy Hamry, Christophhammer
 Králec, Königsgrund
 Králka
 Králov, Dvŭr Králov
+Králova Lhota
 Královec, Koenigshan, Königsberg, Königshan, Краловец
+Královice, Kralowitz, Краловице, 克拉洛維采
 Královka, Koenigshain, Königshain
 Královky
 Královna
@@ -4006,6 +4001,7 @@ Králíky, Grulich, Кралики, 克拉利基
 Králův Dvůr, Königshof, 王宮村
 Krámy, Kram
 Krásensko
+Krásnice
 Krásno, Schönfeld
 Krásná, Schoenbach, Schoenwehr, Schoenwerth, Schönbach, Schönwehr, Schönwerth, Šumburk
 Krásná - pod Krásnou
@@ -4072,7 +4068,6 @@ Kunice, Kunitz
 Kuničky
 Kunkovice
 Kunov, Kunau
-Kunovice, Kunowitz, Куновице, 庫諾維采
 Kunratice, Kunnersdorf
 Kunvald, Kunwald
 Kuní
@@ -4104,6 +4099,7 @@ Kutřín
 Kučerov, Kutscherau
 Kučeř
 Kučlín
+Kuňovice, Kunowitz, Куновице, 庫諾維采
 Kuřim, Gurein, Куржим, 庫日姆
 Kuřimany
 Kuřimská Nová Ves
@@ -4167,11 +4163,13 @@ Kájov, Gojau
 Kámen, Heidenstein, Kámen u Pacova, Stein
 Káranice
 Káraný
+Kášovice
 Käferhäuser
 Kúsky
 Kýšovice, Gaischwitz
 Kňovice
 Kňovičky
+Křakov
 Křekov
 Křekovice
 Křelina
@@ -4200,7 +4198,6 @@ Křesanov, Kresane
 Křesetice
 Křesina
 Křeslice
-Křesín
 Křetín
 Křeč
 Křečhoř
@@ -4210,6 +4207,7 @@ Křečov
 Křečovice
 Křešice, Krischwitz, Krzeschitz
 Křešov
+Křešín
 Křiby
 Křimice, Křimitz
 Křimov, Krima
@@ -4299,17 +4297,16 @@ Lavičné, Neu-Biela
 Lazce
 Lazec, Losnitz
 Lazinov
-Laziště
 Lazníky
 Lazníčky
 Lazsko
-Lazy
 Lačnov
 Laškov
 Lašovice
 Lašťany, Laschtian
 Lašťovičky
 Lažany, Laschan, Laschin, Lažan, Lažany (Skuteč), Losan, Losau
+Lažiště
 Lažánky, Lazanko, Lažáanky
 Lažínky
 Lažíšťka
@@ -4344,14 +4341,11 @@ Leopoldov, Dvŭr Leopoldov, Leopoldsdorf
 Leopoldovy Hamry, Leopoldshammer
 Leptač, Rolin
 Lerchenfeld
-Leskovec
 Leskovec nad Moravicí, Spachendorf
-Leskovice
 Leskové
 Leská
 Lesnice, Lesnitz
 Lesnovek
-Lesná, Cukmantl, Harta, Hortau, Ladung, Liliendorf, Löschna, Schoenwald, Schönwald, Valdorf, Wallhof, Лешна
 Lesné, Innozenzidorf, Lesní
 Lesní Albrechtice, Waldolbersdorf
 Lesní Chalupy, Waldhäuser
@@ -4359,7 +4353,6 @@ Lesní Dvůr
 Lesní Hluboké
 Lesní Mlýn, Buschmuehle, Buschmühle
 Lesonice
-Lesov, Lessau
 Lesoňovice
 Lestkov, Leskau
 Lesy, Herzogwald, Herčivald
@@ -4390,6 +4383,9 @@ Lešany, Leschan, Lešany (Skuteč)
 Lešetice
 Lešišov
 Leškova Hůrka
+Leškovice
+Lešná, Cukmantl, Harta, Hortau, Ladung, Liliendorf, Löschna, Schoenwald, Schönwald, Valdorf, Wallhof, Лешна
+Lešov, Lessau
 Lešovice
 Leština, Lesche, Leschtina
 Leštinka
@@ -4503,11 +4499,11 @@ Libyně
 Libá, Libštejn, Liebenstein
 Libákovice
 Libáň
-Libín
 Libínky
 Libínské Sedlo, Fefry, Pfefferschlag
 Libív
 Libíč
+Libíň
 Libčany, Libčan
 Libčeves, Liebshausen
 Libčice, Libschitz
@@ -4530,7 +4526,6 @@ Lichoceves
 Licibořice
 Licomělice
 Licoměřice
-Liderovice
 Lidečko, Lidetschko
 Lideň, Glieden
 Lidice, Liditz, Лидице
@@ -4539,6 +4534,7 @@ Lidmaň
 Lidmaňka
 Lidmovice
 Lidměřice
+Lidéřovice
 Linda
 Lindava, Lindenau Kr. Böhmisch Leipa
 Lindské Chalupy, Lindner Waldhäuser
@@ -4584,7 +4580,6 @@ Lipí
 Lipětín, Lindau
 Lipňany
 Lipůvka, Lipuwka
-Lisov, Lischau, Lissowa, Лишов, 利紹夫
 Lisovice
 Litava
 Litbratřice, Leipertitz
@@ -4623,7 +4618,7 @@ Lišice
 Lišičky
 Liška, Hasel, Pušperk
 Liškov
-Lišnice, Lexen
+Lišov, Lischau, Lissowa, Лишов, 利紹夫
 Liščí, Fuchsberg, Roehrsdorf, Röhrsdorf
 Liščí Hora, Fuchsberg
 Liščí Kopec
@@ -4643,9 +4638,9 @@ Lochotín
 Lochousice, Lochutzen
 Lochovice, Lochowitz
 Lochočice, Lochtschitz
-Lodenice, Lodenitz, Lodnitz
 Lodhéřov, Riegerschlag
 Lodín
+Loděnice, Lodenitz, Lodnitz
 Lohenice
 Lojkaščanka
 Lojovice, Lojowes
@@ -4669,8 +4664,8 @@ Londýn
 Lopatné
 Lopaty
 Lopeník
-Losina, Lossin
 Losiny
+Losiná, Lossin
 Losy
 Lotouš
 Loubí, Laube
@@ -4752,7 +4747,6 @@ Luhačovice, Luhatschowitz, Лугачовице, Лухачовице, 盧哈�
 Luhov, Lohoma
 Luhy, Dvŭr Luhy, Jungenhengst
 Luisino Údolí, Luisenthal
-Luka, Luck, Luk
 Luka nad Jihlavou, Wiese
 Lukavec, Lukawetz
 Lukavec u Hořic
@@ -4767,6 +4761,7 @@ Lukovna
 Lukovsko
 Lukovské
 Luková, Lukau
+Luká, Luck, Luk
 Lukášov, Luxdorf
 Luleč, Lultsch, Лулеч
 Luníkov
@@ -4827,9 +4822,11 @@ Lázně Kynžvart, Bad Königswart, Лазне-Кинжварт, Лазње Ки
 Lázně Libverda, Bad Licbwerda, Liebwerda
 Lázně Luhačovice, Bad Luhatschowitz
 Lázně Svaté Markety
+Lázy
 Lážovice
 Lékařova Lhota
 Léno, Holzbachlehen
+Léskovec
 Léštnice, Lexnitz
 Líbeznice, Libeznitz
 Líchovy
@@ -4842,13 +4839,14 @@ Lísek
 Lískovec, Haselberg, Liskowetz
 Lískovice
 Lísková, Haselbach
-Lísky
+Líský
 Lítkovice
 Lítov, Littengruen, Littengrün
 Líté, Littau
 Líčkov
 Líšeň, Lösch
 Líšina, Lischin
+Líšnice, Lexen
 Líšno
 Líšná, Lischna
 Líšný
@@ -4867,7 +4865,6 @@ Machov, Machau
 Machovice
 Machovská Lhota, Lhota u Police nad Metují
 Machová
-Mackov, Matzdorf
 Mackova Lhota, Mosetstift
 Mackovice, Moskowitz
 Macourov
@@ -4885,11 +4882,11 @@ Malejovice
 Malenice, Malenitz
 Malenovice, Malenowitz
 Maleny
-Malesice
 Maletice
 Maleč
 Malečov, Malschen
 Maleš, Molischen
+Malešice
 Malešov, Maleschau, Malschen
 Malešovice, Malspitz
 Malešín
@@ -5036,11 +5033,11 @@ Mančice
 Manělovice
 Manětín, Мањетин, 馬涅廷
 Marefy
-Marianská Hora, Marienberg, Mariánské Hory
 Marianín
 Marieves
 Marián Údolí, Marienthal
 Mariánská, Mariasorg
+Mariánská Hora, Marienberg, Mariánské Hory
 Mariánské Lázně, Marienbad, Маријанске Лазње, 玛丽亚温泉市
 Mariánské Radčice, Maria-Radčitz
 Mariánský Týnec
@@ -5072,7 +5069,6 @@ Maršovy Chody, Maschakotten
 Maršíkov, Marschendorf
 Maschko
 Masečín, Masetschin
-Maskovice, Maskowitz
 Masojedy
 Mastník, Stegertsau, Zigartice
 Masty
@@ -5088,6 +5084,7 @@ Maxov, Maxberg, Maxdorf
 Maxovna
 Mazelov
 Mačice
+Mačkov, Matzdorf
 Mačovice, Matschowitz
 Maňava, Deutsch Haidl, Německá Maňava
 Maňovice
@@ -5098,6 +5095,7 @@ Mařenice, Gross-Mergthal
 Mařeničky, Klein Merathal
 Mařín, Mariendorf
 Maříž, Maries
+Maškovice, Maskowitz
 Maškrov, Maschkrawen
 Mašov
 Mašovice, Maschowitz
@@ -5131,7 +5129,7 @@ Metylovice
 Metánov
 Mexiko
 Mezholezy, Messhals
-Meziboři, Schönbach
+Meziboří, Schönbach
 Mezice
 Mezihorská, Kuehrberg, Kührberg
 Mezihoří, Gersdorf, Gerstof, Gerštorf, Mesihorsch
@@ -5177,7 +5175,6 @@ Micmanice, Mitzmanns
 Mihoukovice
 Mikolajice
 Mikoly, Miggolz
-Mikovice
 Mikuleč, Nikl
 Mikulov, Böhmdorf, Nickolsburg, Niklasberg, Nikolov, Nikolsburg, 米庫洛夫
 Mikulovice, Nickelsdorf, Niklasdorf
@@ -5251,13 +5248,11 @@ Miroslavské Knínice, Deutsch Knönitz, Knenitz, Německé Knínice
 Mirotice, Mirotitz, Миротице, 米羅季采
 Mirotín
 Mirotínek, Merotein
-Mirovice, Mirowitz, Мировице, 米羅維采
 Mirošov, Miröschau
 Mirošovice, Miroschowitz
 Miskolezy
-Miskovice
-Mistrovice, Meistersdorf
 Mistřice, Mistritz
+Mistřovice, Meistersdorf
 Mistřín
 Mitrov
 Mitrovice, Dvŭr Mitrovice
@@ -5294,13 +5289,13 @@ Mladé Bříště
 Mladý Smolivec
 Mladějov, Blosdorf
 Mladějovice, Bladowitz
-Mlaka
 Mlaky
 Mlatce, Josefswille
 Mlazice, Mlasitz
 Mlečice, Mlečitz
 Mlynářovice, Müllerschlag
 Mlyňany, Lindles
+Mláka
 Mlázovice, Mlasowitz
 Mlázovy
 Mlékojedy, Mlikojed, Německé Mlékojedy
@@ -5379,9 +5374,9 @@ Molitorov
 Monín
 Moravanský
 Moravany, Morawan, Morbes
-Moravec, Morawetz
 Moravecké Janovice
 Moravecké Pavlovice
+Moraveč, Morawetz
 Moravice, Morowitz
 Moravičany, Morawiczan
 Moravsko
@@ -5403,7 +5398,7 @@ Moravské Vlkovice, Mährisch Wolfsdorf
 Moravský Beroun, Bärn, Моравски Бероун, 摩拉瓦貝龍
 Moravský Karlov, Karlsdorf, Mährisch Karlsdorf
 Moravský Kočov, Kotzendorf, Mährisch Kotzendorf
-Moravský Krumlov, Mährisch Kromau, Моравски-Крумлов
+Moravský Krumlov, Mährisch Kromau, Моравски Крумлов
 Moravský Lačnov, Mährisch Lotschnau
 Moravský Písek
 Moravský Žižkov
@@ -5517,7 +5512,6 @@ Myslkov
 Myslkovice
 Myslotín
 Myslov
-Myslovice
 Mysločovice
 Myslík
 Myslín
@@ -5535,8 +5529,8 @@ Málkovice, Malkowitz
 Máslojedy
 Máslovice
 Míchov
+Míkovice
 Míreč
-Mírkov, Miřikau, Mörkau
 Mírkovice
 Mírov, Mohrdörfel, Mürau
 Mírovka, Friedenau
@@ -5546,6 +5540,9 @@ Místek
 Místo, Platz
 Mítov
 Míčov
+Mířkov, Miřikau, Mörkau
+Mířovice, Mirowitz, Мировице, 米羅維采
+Míškovice
 Míšov
 Míšovice, Nispitz
 Míšňany, Meisetschlag
@@ -5556,6 +5553,7 @@ Mýtiny, Kropfschlag, Kropšlák
 Mýtka
 Mýtnice, Mauthaus
 Mýto, Mauth, Mauthdorf, Mauthstadt
+Mýšlovice
 Měchenice, Miechenitz
 Měchnov
 Měcholupy, Michelob
@@ -5703,11 +5701,11 @@ Nebřenice, Nebschenitz
 Nebřeziny
 Nebřich, Nebschich
 Nechalov
-Nechanice, Nechanitz, Нехањице, 內哈尼采
 Nechranice, Negranitz
 Nechvalice, Nechwalitz
 Nechvalín
 Nechyba
+Nechánice, Nechanitz, Нехањице, 內哈尼采
 Nedabyle
 Nedachlebice
 Nedakonice, Nedakonitz
@@ -5835,8 +5833,8 @@ Nezdenice
 Nezdice, Nezditz, Neznitz
 Nezdín
 Nezdřev
-Neznašov
 Neznašovy
+Neznášov
 Nezvěstice, Nezbawietitz
 Nečas
 Nečemice
@@ -6033,7 +6031,7 @@ Nové Čívice
 Nové Ždánice
 Nový
 Nový Berstejn, Neuperstein
-Nový Bor, Haida, Нови-Бор, 新博爾
+Nový Bor, Haida, Нови Бор, 新博爾
 Nový Bozděchov
 Nový Brunst
 Nový Brázdim
@@ -6154,7 +6152,6 @@ Něchov
 Německo
 Německý Chloumek, Deutsch Killmes, Deutsch Kilmes
 Německý Neustadtl, Deutsch Neustadtl
-Němetice
 Němečky
 Němčanka
 Němčany, Niemtschan, Niemtschau
@@ -6164,6 +6161,7 @@ Němčice nad Hanou, Němčice na Hané
 Němčičky, Klein Němčitz
 Němčovice
 Němčí, Nemschen
+Němětice
 Nětčice
 Něšov
 Něžovice
@@ -6211,7 +6209,7 @@ Odolenov
 Odolenovice, Döllnitz
 Odolice
 Odolov
-Odranec
+Odraneč
 Odrava, Kulsam
 Odrlice
 Odrovice
@@ -6365,7 +6363,6 @@ Oseček
 Osečnice, Woschenitz
 Osečná, Oschitz, Осечна, 奧塞奇納
 Osice
-Osikov, Aspendorf
 Osikovec
 Osiky
 Osinalice, Gross Wosnalitz
@@ -6385,7 +6382,7 @@ Oslovice, Wasslomitz, Woslowitz
 Osluchov
 Oslí
 Osnice, Wosnitz
-Osoblaha, Hotzenplotz, Особлага, Особлаха
+Osoblaha, Hotzenplotz, Osobłaga, Особлаха
 Osobovy
 Osov
 Osovec
@@ -6488,6 +6485,7 @@ Ořešín
 Oříkov
 Ošelín
 Oškobrh
+Ošíkov, Aspendorf
 Paběnice
 Pacelice
 Pacetluky
@@ -6585,7 +6583,6 @@ Pašinka
 Pašinovice
 Pašovice
 Pchery, Pcher
-Pec
 Pec pod Sněžkou, Gross Aupa III, Petzer, Velká Úpa III, Пец под Сњешком
 Pecerady
 Pechova Lhota
@@ -6662,8 +6659,8 @@ Petřvaldík, Klein Peterswald
 Petříkov, Peterswald, Petrikow
 Petříkovice, Petersdorf
 Petříny
+Peč
 Pečetín
-Pečice
 Pečičky
 Pečky, Petschek
 Peřimov
@@ -6697,12 +6694,12 @@ Pičín
 Pištín, Pischtin
 Pišťovy
 Plachtín, Hrad Neštiny, Preitenstein
-Plana, Planá u Mariánských Lázní, 普拉納
 Plandry
 Planerův Dvůr
 Planina
 Planiny
 Planská
+Planá, Planá u Mariánských Lázní, 普拉納
 Planá nad Lužnicí, Planá an der Lusnitz
 Plasnice, Plaßnitz
 Plasná
@@ -6890,7 +6887,6 @@ Pokratice, Pokratitz
 Pokutice, Pokatitz
 Pokřikov
 Polabec
-Polanka, Polanka nad Odrou
 Poldovka
 Pole, Felden
 Polepy
@@ -6921,6 +6917,7 @@ Polouvsí, Halbendorf
 Poloučany, Polutschen
 Polubný, Polaun
 Poláky, Pohlig
+Polánka, Polanka nad Odrou
 Polánky
 Polánky nad Dědinou
 Políkno
@@ -6953,7 +6950,6 @@ Popovec
 Popovice, Pfaffendorf, Pfaffengrün, Poplomitz, Popowitz
 Popovičky, Klein Popowitz
 Popůvky
-Porešín
 Pornice
 Porostliny
 Poruba, Porçoa
@@ -6987,15 +6983,15 @@ Poustka, Oed, Wustung
 Poutnov, Pauten
 Pouzdřany, Pausram
 Poučník
-Poušt, Oed
 Pouště
+Poušť, Oed
 Povlčín
 Povrly, Pömerle, Pömmerle
 Pozdeň
 Pozdyně
 Pozděchov, Pozdiechow
 Pozlovice, Poslowitz, Позловице
-Pozorka, Cukmantl, Gibacht, Zuckmantel
+Pozorká, Cukmantl, Gibacht, Zuckmantel
 Pozov
 Pozovice, Bosowitz
 Pozořice, Posořitz, Позоржице
@@ -7014,6 +7010,7 @@ Poďousy
 Pořejov, Purschau
 Pořešice
 Pořešinec
+Pořešín
 Pořežany
 Pořežánky
 Pořežín
@@ -7027,7 +7024,6 @@ Poštorná
 Poštovice
 Požaha
 Požáry, Dvŭr Požáry
-Prace, Pratsch, Pratsch Pratzen, Праце
 Pracejovice
 Prachatice, Prachatitz, Прахатице, 普拉哈季采
 Prachomety, Prochomuth, Promuth
@@ -7035,7 +7031,7 @@ Prachov
 Prachovice
 Prackov
 Prackovice nad Labem, Prackovice, Praskowitz
-Prague, Praha, Праг, Прага, 布拉格
+Prague, Prag, Praha, Прага, 布拉格
 Praha Klanovice
 Prahly, Pröhl
 Prakšice
@@ -7138,9 +7134,10 @@ Prušánky
 Prácheň, Parchen
 Prádlisko
 Prádlo
+Práče, Pratsch, Pratsch Pratzen, Праце
 Práčov, Potzen
 Prášily, Stubenbach, Прашили
-Prčice, Prčitz, Sedletz
+Prčíce, Prčitz, Sedletz
 Prštice
 Prštné
 Průhonice
@@ -7232,6 +7229,7 @@ Pěnčín
 Pětihosty, Pietihost
 Pětikozly
 Pětipsy, Fünfhunden
+Pěčice
 Pěčkovice
 Pěčnov
 Pěčíkov
@@ -7405,7 +7403,6 @@ Radešínská Svratka, Swratka
 Radhostice
 Radhošť
 Radihošť
-Radim, Gross-Raden
 Radimov
 Radimovice, Radimowitz, Radlowitz
 Radimovice u Tábora
@@ -7457,13 +7454,14 @@ Radslavičky
 Raduň
 Radvanec, Rodowitz
 Radvanice, Radowenz, Radwanitz
-Radvanov, Raifmass, Robesgrün
-Radvanovice, Schillerberg, Радвановце
 Radvančice
+Radvánov, Raifmass, Robesgrün
+Radvánovice, Schillerberg, Радвановце
 Radyně, Rading
 Radíkov
 Radíkovice
 Radíkovy
+Radím, Gross-Raden
 Radímek, Neu Raden
 Radíč
 Radíčeves, Raitschowes, Reitschowes
@@ -7475,7 +7473,6 @@ Radětín
 Radňov
 Radňoves
 Radňovice
-Rajec, Koesteldorf, Kösteldorf, Raiza
 Rajhrad, Рајхрад, 賴赫拉德
 Rajhradice
 Rajnochovice, Rajnochowitz
@@ -7496,7 +7493,6 @@ Rakůvka
 Ralsko
 Rampuše, Rampusch
 Ramzová, Ramsau
-Rancířov, Ranzern
 Rankov
 Rankovice, Rankowitz
 Ranošov, Prusinowitz
@@ -7504,6 +7500,7 @@ Rantířov, Fussdorf, Hosov, Hossau
 Raná, Ranna
 Rané, Morgendorf
 Rančice
+Rančířov, Ranzern
 Rapotice, Rappetschlag
 Rapotín, Reitendorf
 Rapšach, Rottenschachen
@@ -7524,7 +7521,6 @@ Ratměřice
 Ratíškovice
 Rauschengrund
 Raveň, Rabus
-Razice, Rasitz, Ražitz
 Razová, Raase
 Raztely
 Račany
@@ -7532,16 +7528,17 @@ Račerovice
 Račetice, Ratschitz
 Račice, Ratschitz, Retschitz
 Račice nad Trotinou
-Račiněves
 Račne
 Račí, Mitterberg
 Račín
+Račíněves
 Raškovice, Raszkowice
 Rašov, Rascha
 Rašovice, Raschowitz, Roschwitz
 Rašovka
 Rašovy
 Rašín
+Ražice, Rasitz, Ražitz
 Rebešovice
 Rehořinky
 Reichersdorf
@@ -7712,7 +7709,6 @@ Rudkov, Erzberg
 Rudlice
 Rudná
 Rudné, Trinksaifen
-Rudník, Dvŭr Rúdník, Hermannseifen, Heřmanovy Sejfy, Rudník v Krkonoších, Scify, Рудњик
 Rudolec, Německý Rudolec, Ruditzgrün
 Rudolfov, Rudolfstadt, Rudolfsthal, 魯多爾福夫
 Rudoltice, Rudelsdorf
@@ -7787,12 +7783,14 @@ Rácov
 Rácovice
 Rádlo, Radl
 Ráj, Rein
+Rájec, Koesteldorf, Kösteldorf, Raiza
 Rájec-Jestřebí, Рајец-Јестреби, 拉耶茨-耶斯特熱比
 Ráječek
 Ráječko
 Rájov, Rail, Reihen, Rojau
 Rápošov
 Ríhov
+Rúdník, Dvŭr Rúdník, Hermannseifen, Heřmanovy Sejfy, Rudník v Krkonoších, Scify, Рудњик
 Rýchory, Rehorn
 Rýdeč, Ritschen
 Rýdrovice, Riedersdorf
@@ -7865,9 +7863,9 @@ Sechov
 Sedlatice
 Sedlce
 Sedlec, Sadl, Sedletz, Sedlitz, Selz, Voitelsbrunn, Zettlitz, Седлец
-Sedlecko, Satteles
 Sedlejov
 Sedletín
+Sedlečko, Satteles
 Sedlešovice, Edelspitz
 Sedlice, Sedlitz
 Sedlisko
@@ -7915,7 +7913,7 @@ Semněvice, Hoch-Semlowitz
 Semonice
 Semovice, Semowitz
 Semošice, Semeschitz
-Semtín, Gross Semtin, Semtínský Dvůr
+Semtín, Gross Semtin, Semtínský Dvŭr
 Semtínek
 Semtěš
 Seménkovice
@@ -7972,7 +7970,6 @@ Sitné, Zittnei
 Sivice
 Siřejovice
 Siřem, Zürau
-Skala, Dvŭr Skály
 Skalany
 Skalice, Langenau, Skalice u České Lípy, Skalitz
 Skalice nad Lužnicí
@@ -8046,13 +8043,13 @@ Skvrňov
 Skytaly
 Skyřice
 Skyšice
+Skála, Dvŭr Skály
 Skály, Bischofstein, Hangenstein bei Römerstadt
 Skřečoň, Skrzeczoń
 Skřib
 Skřidla
 Skřinářov
 Skřipel
-Skřipov, Skřipp, Wachtel
 Skřipová, Krippau
 Skřivany, Skřiwan
 Skřivaň
@@ -8060,6 +8057,7 @@ Skřivánek
 Skřivánka
 Skřivánčí, Lerchenthal
 Skříněřov, Schreinetschlag
+Skřípov, Skřipp, Wachtel
 Skůry
 Slabce, Slabetz, Слапце
 Slabčice
@@ -8190,8 +8188,8 @@ Snědovice
 Sněhotice
 Sněhov
 Snět
-Sněžna, Schnauhübel, Schönau, Šenava
 Sněžnik, Schneeberg
+Sněžná, Schnauhübel, Schönau, Šenava
 Sněžné, Niemetzky, Německé, Sneschnei, Sněžné na Moravě
 Sobačov
 Sobinov
@@ -8328,7 +8326,6 @@ Stanovník, Neudörfel
 Stanový
 Stanětice
 Starcova Lhota
-Starec, Startsch
 Starkoč, Starkotsch
 Starobucké Debrné, Altenbuch Döbernei
 Starojická Lhota, Katzendorf
@@ -8412,7 +8409,7 @@ Staré Purkartice, Alt-Burgersdorf
 Staré Ransko
 Staré Roveňsko
 Staré Sedliště, Alt-Zedlisch
-Staré Sedlo, Alt-Sattel, Alt-Sattl, Altsattel
+Staré Sedlo, Alt Sattl, Alt-Sattel, Altsattel
 Staré Smrkovice
 Staré Splavy, Thammühl
 Staré Těchanovice, Alt-Zechsdorf
@@ -8473,6 +8470,7 @@ Staňkov, Městys Staňkov, Stankau, Ves Staňkov, Стањков, 斯塔尼科�
 Staňkova Lhota
 Staňkovice, Stankowitz
 Stařechovice
+Stařeč, Startsch
 Staříč, Staritsch, Stará Staříč
 Stašov, Dittersbach
 Stebnice, Stabnitz
@@ -8485,7 +8483,6 @@ Stekník, Steknitz
 Stemplovec
 Stežník
 Stichlův Mlýn
-Stichovice
 Stikovec
 Stochov
 Stod, Staab, 斯托德
@@ -8540,7 +8537,6 @@ Strašnov
 Strašov
 Strašín, Straschin, Страшин
 Stražisko
-Stražiště, Straschnitz
 Strenice, Střenitz
 Strhaře
 Strkov
@@ -8582,6 +8578,7 @@ Stráž nad Nisou, Alt-Habendorf, Starý Habendorf
 Stráž pod Ralskem, Vartemberk, Vartenberk, Wartenberg am Rollberg, Warttenberg am Rollberg, Страж под Ралском, Страж-под-Ральскем
 Stráž u České Lípy, Schönborn
 Strážek, Straschkau
+Strážiště, Straschnitz
 Strážka, Varta
 Strážkovice
 Strážky, Proschig, Troschig
@@ -8892,7 +8889,6 @@ Syneč
 Synkov
 Synčany
 Syrov
-Syrovice, Sirbitz
 Syrovátka
 Syrovín
 Sytno, Sittna
@@ -8905,6 +8901,7 @@ Símře
 Sítiny, Rauschenbach
 Sýkorec
 Sýkořice
+Sýrovice, Sirbitz
 Sýčina
 Tachlovice, Tachlowitz
 Tachov, Reichental, Tachau, Тахов, 塔霍夫
@@ -8919,8 +8916,6 @@ Tample
 Tanvald, Tannwald, 坦瓦爾德
 Tasice
 Tasnovice, Taschlowitz
-Tasov, Tassau
-Tasovice, Taschwitz, Tasswitz
 Tatce, Tatetz
 Tatenice
 Tatinná
@@ -8930,6 +8925,8 @@ Tatouňovice
 Tatrovice, Dotterwies
 Tatry, Tattern
 Tavíkovice
+Tašov, Tassau
+Tašovice, Taschwitz, Tasswitz
 Tažovice
 Tchořovice
 Tedražice
@@ -8977,7 +8974,6 @@ Tikovice
 Tis, Eiben
 Tis u Blatna, Tyss
 Tis u Luk
-Tisek
 Tisem
 Tismice
 Tisov
@@ -8992,13 +8988,13 @@ Tišnovská Nová Ves
 Tkanovice
 Tlestky
 Tloskov, Tloskau
-Tlucná
 Tlumačov, Dollmitschau, Tlumatschau
 Tlustce
 Tlustice
 Tlustovousy
 Tlučeň
-Tmaň
+Tlučná
+Tmáň
 Tobolka
 Tochovice, Tochowitz
 Tocov, Totzau
@@ -9079,7 +9075,6 @@ Trpín
 Trpísty
 Trsov
 Trstěnice, Křtěnice, Neudorf
-Trtice
 Trubisko
 Trubská
 Trubín
@@ -9157,6 +9152,7 @@ Tyra
 Tytry
 Tábor, 塔博尔
 Tážaly
+Tísek
 Tíštín, Tischtin
 Týmov, Tiefengruen, Tiefengrün
 Týmova Ves
@@ -9246,8 +9242,8 @@ Třebovětice
 Třeboň, Wittingau, Требоњ, Тршебонь, 特熱邦
 Třebsko
 Třebsín
-Třebusice, Triebschitz
 Třebutičky, Třebutschka
+Třebušice, Triebschitz
 Třebušín, Triebsch
 Třebín
 Třebívlice, Trziblitz
@@ -9273,9 +9269,9 @@ Třenice
 Třesice, Dvŭr Třesice
 Třeskonice
 Třesov
-Třesovice
 Třetužel
 Třešně
+Třešovice
 Třeštice, Treschtitz
 Třeština
 Třešňovice, Kirschbaum
@@ -9291,6 +9287,7 @@ Tři Studně
 Třibřichy
 Třinec, Trzyniec, Тринец, Тршинец, 特日內茨
 Třitim
+Třtice
 Třtí
 Třtěnice
 Třtěno
@@ -9334,7 +9331,6 @@ U Vojtu
 U Vrbů
 U Zajíců
 U Šišky, Tannzapfen
-Ublo, Aubeln
 Ubušín
 Ubušínek
 Udeřice
@@ -9342,10 +9338,9 @@ Udánky, Undangs
 Uhelná, Kohlige, Serksdorf
 Uhelná Příbram, Kohlbribram, Kohlpribram
 Uhersko
-Uherské Hradiště, Ungarisch-Hradisch, Угерске-Градиште
+Uherské Hradiště, Ungarisch Hradisch, Угерске-Градиште
 Uherský Brod, Ungarisch Brod, Vehersky Brod, Угерски-Брод, Ухерски Брод, 烏赫爾布羅德
 Uherský Ostroh, Угерски-Острог, Ухерски Острох
-Uherčice
 Uhliště, Kohlheim, Kohlstätten
 Uhlíkov, Uhligsthal
 Uhlíře
@@ -9439,7 +9434,6 @@ Valšovice
 Vamberk, Wamberg
 Vaneč
 Vanice
-Vanov
 Vanovice, Wanowitz
 Vanovka
 Vanůvek, Klein Wanau
@@ -9451,6 +9445,7 @@ Vatěkov, Watiekow
 Vatětice
 Vavřinec
 Vazačka
+Vaňov
 Vašírov
 Važice
 Vchynice
@@ -9725,15 +9720,12 @@ Vinohrádky, Weinberg
 Vinoř, Winar
 Vintířov, Winteritz, Wintersgrün
 Virt
-Viska, Dörfel, Dörfles
-Vitanovice
 Viteň
 Vitice
 Vitinka
-Vitiněves, Wittengau
-Vitonice, Wainitz
 Vitova Ves
 Vitín, Wittin
+Vitíněves, Wittengau
 Vitčice, Gross Witschitz
 Vitějovice, Witějitz
 Vitěšovice
@@ -9742,7 +9734,7 @@ Vizov, Quintenthal
 Vizovice, Wisowitz, Визовице, 維佐維采
 Vičanov
 Vičice
-Višňova, Weigsdorf
+Višňová, Weigsdorf
 Višňové
 Vižina
 Vižňov, Wiesen
@@ -9757,7 +9749,6 @@ Vladměřice
 Vladořice, Wladař
 Vlasatice, Wostitz
 Vlasatý
-Vlasenice
 Vlaské, Blaschke
 Vlaský
 Vlastec
@@ -9795,6 +9786,7 @@ Vlksice
 Vlkýš, Wilkischen
 Vltava, Oiberg
 Vládyčín
+Vlásenice
 Vlásenice-Drbohlavy
 Vlásenka, Wlasenka
 Vlčatín
@@ -9896,11 +9888,9 @@ Vrabsko
 Vraclav, Wratzlau
 Vraclávek, Klein-Bressel
 Vracov, Wratzau
-Vracovice, Edenthurn
 Vrahovice, Враговице, Враховице, 華賀維治
 Vrahožily, Frauschile
 Vranice
-Vranov, Frohnau, Rabendorf, Wranau, Wranow
 Vranov nad Dyjí, Fram
 Vranovice
 Vranovská Lhota, Wranow-Lhota
@@ -9918,15 +9908,14 @@ Vratimov, Rattimau
 Vratislavice nad Nisou, Maffersdorf
 Vratislávka
 Vratišov
-Vratkov
 Vratíkov
 Vratěnín, Fratting
 Vrazdovy Lhotice
 Vračkovice
+Vračovice, Edenthurn
 Vraňany, Wranan
 Vražice, Prossnitz
 Vražkov
-Vražné, Brohsen
 Vrba
 Vrbatův Kostelec
 Vrbice, Gross Fürwitz, Vrbice (Bohumín), Wirbitz
@@ -9972,10 +9961,13 @@ Vrtěžíř
 Vrutice, Webrutz
 Vrábí, Wrab
 Vrábče
+Vránov, Frohnau, Rabendorf, Wranau, Wranow
 Vrát
+Vrátkov
 Vrátno
 Vráž, Wrasch, Wraž
 Vrážná
+Vrážné, Brohsen
 Vrčení
 Vrčeň, Wrčen
 Vršce
@@ -10016,7 +10008,7 @@ Vysoké Březno, Ober Priesen
 Vysoké Chvojno, Chwojno
 Vysoké Jamné, Hohen-Jamny
 Vysoké Lávky, Hohenstegen
-Vysoké Mýto, Hohenmauth, Vyskoe Myto, Високе-Мито, 上米托
+Vysoké Mýto, Hohenmauth, Vyskoe Myto, Високе Мито, 上米托
 Vysoké Pole, Hohenfeld
 Vysoké Popovice
 Vysoké Sedliště, Hohen Zetlisch
@@ -10035,13 +10027,11 @@ Vysočany, Vysogaby, Weschekun, Wischezahn
 Vystrkov
 Vystrčenovice
 Vysutá, Renertov, Rennersfeld
-Vyčapy, Wičap
 Vyšehněvice
 Vyšehorky, Allerheiligen
 Vyšehořovice, Vyšerovice
 Vyšehoří
 Vyšetice
-Vyškov, Waschagrün, Wischau, Wischkowa, Вышков
 Vyškovec
 Vyšné, Weissenbach
 Vyšní Lhoty
@@ -10091,12 +10081,15 @@ Vílanec, Willenz
 Vílov
 Víno, Weine
 Vír, Wühr
+Víska, Dörfel, Dörfles
 Víska u Jevíčka, Derflík, Dörfles
 Vísky
 Vítanov
+Vítanovice
 Vítkov, Leskenthal, Wigstadtl, Witkow, Wittingreith
 Vítkovice, Witkowitz
 Vítochov
+Vítonice, Wainitz
 Vítov, Wittal
 Vítovice
 Vítovka, Vítberk, Werdenberg
@@ -10118,9 +10111,11 @@ Výrov, Weirowa, Wierau
 Výrovice
 Výsluní, Horní Suniperk, Suniperk, Вислуни, Вислуњи
 Výsonín
+Výčapy, Wičap
 Výšice
 Výšina, Ringelberg
 Výšinka, Weiberkränke, Ženská Bída
+Výškov, Waschagrün, Wischau, Wischkowa, Вышков
 Výškovice, Wischkowitz
 Výšovice
 Výžerky
@@ -10270,7 +10265,6 @@ Zakřany, Zakran
 Zakšov, Sachsengrün
 Zakšín
 Zalažany
-Zalezly, Salesl
 Zalešany
 Zaliny
 Zaloňov, Salnai
@@ -10398,8 +10392,6 @@ Zhořec, Hurz
 Zhůř
 Zhůří, Bomisch-Haidl, Haidl
 Zibohlavy
-Zichov
-Zichovec
 Zimoř, Simmer
 Zirnetschlag
 Zlatenka
@@ -10522,6 +10514,7 @@ Zálesná Zhoř
 Zálesní Lhota, Huttendorf
 Zálesí, Gerštejn, Libštejn, Schröffelsdorf, Werlsgruen, Werlsgrün, Záles, Šreflová
 Zálezlice
+Zálezly, Salesl
 Zálužice
 Zálužné, Moradorf
 Záluží, Altusch, Maltheuern, Saluschen
@@ -10571,6 +10564,7 @@ Záříčí, Zarzitz
 Zňátky
 Úbislav
 Úbislavice, Auslauf
+Úblo, Aubeln
 Úborsko
 Úboč
 Úbočí, Amongsgruen, Amonsgrün, Ciberle, Cibrle, Zieberle
@@ -10586,6 +10580,7 @@ Zňátky
 Údrč, Udritsch
 Úhelnice
 Úherce, Auherzen
+Úherčice
 Úhlejov
 Úholičky, Auholičky
 Úhonice
@@ -10666,6 +10661,7 @@ Zňátky
 Čachotín
 Čachovice, Tschachwitz
 Čachrov, Čachrau
+Čakov, Gross Čekau
 Čakovec
 Čakovice, Cakowice, Gross Cakowitz, Gross-Tschakowitz
 Čakovičky
@@ -10704,8 +10700,9 @@ Zňátky
 Čejtice
 Čejč
 Čekanice
-Čekanov
+Čekov
 Čekyně
+Čekánov
 Čeladice
 Čeladná
 Čelechovice
@@ -10723,7 +10720,6 @@ Zňátky
 Čenice
 Čenkov
 Čenkovice, Tschenkowitz
-Čenovice, Tscheniowitz
 Čentice
 Čeněnice
 Čenětice, Tschenietitz
@@ -10749,7 +10745,6 @@ Zňátky
 Černousy, Tschernhausen
 Černouček
 Černov
-Černovice, Czarlowitz, Scherlomitz, Tschernowitz, Černovice u Tábora, Černowitz, Черновице, 切爾諾維采
 Černovičky
 Černovír
 Černošice
@@ -10818,6 +10813,7 @@ Zňátky
 Červený Újezdec
 Červeněves
 Čerčany, Čerčan
+Čerňovice, Czarlowitz, Scherlomitz, Tschernowitz, Černovice u Tábora, Černowitz, Черновице, 切爾諾維采
 Česká
 Česká Bělá, Böhmisch Bělá
 Česká Bříza, Břízka, Německá Bříza
@@ -10860,7 +10856,7 @@ Zňátky
 Český Herálec, Heraletz
 Český Heršlák
 Český Jiřetín, Georgendorf
-Český Krumlov, Böhmisch Krumau, Ceske Krumlov, Krumau, Krumlov, Krummau, Чески-Крумлов, Чешки Крумлов, 捷克克鲁姆洛夫
+Český Krumlov, Böhmisch Krumau, Ceske Krumlov, Krumau, Krumlov, Krummau, Чески Крумлов, Чешки Крумлов, 捷克克鲁姆洛夫
 Český Lačnov, Böhmisch Lotschnau
 Český Rudolec, Böhmisch Rudoletz
 Český Těšín, Teschen, Tschechisch Teschen, Češki Tješin, Чески-Тешин, Чешки Тјешин, 捷克捷欣
@@ -10876,6 +10872,7 @@ Zňátky
 Čečkovice, Eschowitz
 Čečovice, Zetschowitz
 Čečín
+Čeňovice, Tscheniowitz
 Čeřejov
 Čeřenice
 Čeřeniště, Tschersing
@@ -10892,8 +10889,6 @@ Zňátky
 Čikvásky
 Čilec
 Čimelice, Čimelitz
-Čimice
-Činov, Schinau, Schönau
 Činěves, Činowes
 Čirá, Lauterbach, Litrbachy
 Čisovice
@@ -10930,12 +10925,14 @@ Zňátky
 Číhošť, Čihoscht
 Číhání
 Čím, Tschim
+Čímice
 Čímyšl
 Číměř, Schamers
 Čívice
 Číčenice, Čiřenitz
 Číčov
 Číčová
+Číňov, Schinau, Schönau
 Číštěves
 Číšťovice
 Čížkov
@@ -11006,7 +11003,6 @@ Zňátky
 Řikov
 Řikovice
 Řimice
-Řimovice
 Řisuty
 Řitka
 Řitonice
@@ -11017,6 +11013,7 @@ Zňátky
 Řídeč, Rietsch
 Řídký
 Římov
+Římovice
 Řípec
 Řípov, Řípow
 Řísnice
@@ -11106,7 +11103,7 @@ Zňátky
 Škůdra
 Šlakhamry
 Šlapanice, Lapanz, Schlapanitz, Schlappanitz, Шлапанице, Шлапањице, 什拉帕尼采
-Šlapanov, Schlappenz
+Šlapánov, Schlappenz
 Šlechtín
 Šleglov, Schlögelsdorf
 Šlemín
@@ -11122,7 +11119,7 @@ Zňátky
 Šonov, Schönau
 Šonov u Broumova, Schönau
 Šošůvka
-Špindlerův Mlýn, Spindelmühle, Spindlermühle, Шпиндлерув-Млин, 什平德萊魯夫姆林
+Špindlerův Mlýn, Spindelmühle, Spindlermühle, Шпиндлерув Млин, 什平德萊魯夫姆林
 Špinov
 Špičky
 Špičák, Eisenstein Dorf, Ves Železná Ruda
@@ -11132,6 +11129,7 @@ Zňátky
 Šternberk, Sternberg, Штернберк, 施滕貝克
 Šternov
 Štichov
+Štichovice
 Štidla
 Štikov
 Štilfrýdek
@@ -11161,7 +11159,7 @@ Zňátky
 Štítovky
 Štíty, Schildberg, Šilperk, Штити, 什蒂蒂
 Štěchov
-Štěchovice, Stěchowitz, Štěchovice u Prahy, Штеховице, Штјеховице
+Štěchovice, Stechowitz, Štěchovice u Prahy, Штеховице, Штјеховице
 Štědronín-Plasy, Štědronín Plazy
 Štědrá, Muelln, Mülln
 Štědrákova Lhota
@@ -11306,6 +11304,7 @@ Zňátky
 Žibřidovice
 Žichlice
 Žichlínek, Sichelsdorf
+Žichov
 Žichovice, Schichowitz, Жиховице
 Židlochovice, Groß Seelowitz, Ziolochovice, Жидлоховице, 日德洛霍維采
 Židlov, Schiedel
@@ -11314,7 +11313,6 @@ Zňátky
 Žihla
 Žihle, Scheles
 Žihobce, Жихопце
-Žikov
 Žilina, Söhle
 Žilov
 Žilovice
@@ -11372,7 +11370,9 @@ Zňátky
 Žárovná
 Žárová, Neudorf
 Žáry, Oberschaar
+Žíchovec
 Žíka
+Žíkov
 Žírce
 Žírec
 Žírovice, Sirmitz

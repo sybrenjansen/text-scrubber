@@ -395,34 +395,26 @@ Ale-gan
 Ale-in
 Ale-kon
 Ale-man Ywa, Ale-hman
-Ale-ywa, Ali-ywa
 Alebo
 Alebôn
-Alechaung, Alaichaung
 Aledaw
-Alegan
-Alegon
 Alegyaung
 Alegyaung Atet, Ah Lel Chaung Upper
 Alegyaung Auk, Ah Lel Chaung Lower
 Alegyun, Alagyun
+Alegôn
 Alein Ale, Ah Lein Lel
 Alekon
 Alekwin
 Alemobon
-Alemyaung
 Alethangyaw, Alethangvaw
 Alethaung
 Aletu
 Aleyegyaw
-Aleywa
-Alezu
-Aligyaung, Alègyaung-ywa
 Alinchein
 Alingkang
 Allagappa
 Alodawya
-Alon
 Alpha, Aipha
 Alu-anauk
 Alugale
@@ -431,16 +423,24 @@ Alun
 Alè Mèkane
 Alè Su
 Alèban
+Alègan
 Alègin
 Alègu
+Alèmyaung
 Alèsho
+Alèywa
+Alèzu
+Alôn
 Alānbyā
 Alāndaing
 Alāngabo
 Alāwāng
 Alē Kodu, Kodu
 Alē-on
+Alē-ywa, Ali-ywa
+Alēchaung, Alaichaung
 Alēsengyaung
+Alīgyaung, Alègyaung-ywa
 Am Laung, Amlaung
 Am Pon
 Amarapura, Amarapura Hmandan, Amayabuya, အမရပူရမြို့
@@ -565,11 +565,11 @@ Aseiktaung
 Ashang
 Ashe Kabyu
 Ashebette, Ah Shey Bet Te
-Ashegon
 Ashegyaung
 Ashemodu, Ashe Mudu
 Ashetaik, Ashedaik
 Asheye
+Ashēgon
 Asigale
 Asin, Asln, Asun
 Ason
@@ -615,7 +615,7 @@ Atwintaya, Twin Ta Yar
 Au Lu Chan Hpan
 Au Yin Wa
 Aubonyun, Aw Bar Nyunt
-Auche
+Auchē
 Auhkē
 Auhmun
 Auk Ba Hin Wa
@@ -1005,9 +1005,9 @@ Banbwe-gon
 Banbwebin
 Banbwebyet
 Banbwedaung
-Banbwegon
 Banbwegyin
 Banbwengu, Bant Bway Ngu
+Banbwēgon
 Banbyaw Tē
 Banbyin
 Banchaung
@@ -1174,8 +1174,8 @@ Bay La Maing
 Bay Meit
 Bay Thaung
 Bayanathe
-Baye
 Bayet
+Bayè
 Bazung
 Be
 Be Chaung The
@@ -1281,21 +1281,21 @@ Bobeik
 Bocung, Botsung
 Boda
 Bodawtaw
-Bodegon, Budègon
 Bodetkon
 Bodewa
 Bodin, Boet Din
+Bodègon, Budègon
 Boe Hla Kone
 Boe Hlar
 Boe Kywei, Pokyawy, Pokyawya
 Boe Net
 Bogale, Bo Ka Lay, ဘိုကလေးမြို့နယ်
-Bogon
 Bogyi
 Bogyi Tè
 Bogyi-kyun
 Bogyigon
 Bogyisakkan
+Bogôn
 Boiring
 Boiring B
 Boisip
@@ -1348,12 +1348,10 @@ Bonkun
 Bonletkat
 Bonlon, Bon Lon
 Bonlonzeik, Bon Lon Seik
-Bonmano
 Bonmati, Bonmadi
 Bonmegôn
 Bonmyo, Bonmye
 Bono
-Bonthaleik
 Bonyu
 Bonywa
 Bonzukan, Bon Su Kan
@@ -1551,7 +1549,9 @@ Bôkywa
 Bônbaw
 Bôngôn
 Bônmagyi
+Bônmano
 Bônmazin
+Bônthaleik
 Bā-lē
 Bān Kalam
 Bān Kamou, Kamou
@@ -1760,11 +1760,11 @@ Chaungna Anauk
 Chaungna Ashe
 Chaungnakwa
 Chaungnazu
-Chaungne, Chayngne
 Chaungnet
 Chaungnyi-ako
 Chaungnyiko
 Chaungnyinaung
+Chaungnē, Chayngne
 Chaungpwet
 Chaungpya
 Chaungsauk
@@ -1774,7 +1774,7 @@ Chaungson
 Chaungtaungbe
 Chaungtha, Chawngtha
 Chaungthit
-Chaungthongwa, Chaung Thone Gwa
+Chaungthôngwa, Chaung Thone Gwa
 Chaungtu
 Chaunguywathit
 Chaungwa, Chawngwa, Choungwa
@@ -1784,9 +1784,9 @@ Chaungyo
 Chaungywa
 Chaungzauk, Chaung Sauk, Chaungzank
 Chaungzaut, Chaung Sauk
-Chaungzon, Kyaung-sun
 Chaungzongyi, Chaungsongyi
 Chaungzu
+Chaungzôn, Kyaung-sun
 Chawa
 Chawgon
 Chawhkam
@@ -1894,10 +1894,10 @@ Chingma Ga
 Chingmulin
 Chingnam
 Chingnam Ga
-Chingon
 Chingshan
 Chingwin
 Chingyaung
+Chingôn
 Chinhla
 Chinhnit
 Chinketkon
@@ -2124,7 +2124,6 @@ Danigyi
 Danizeik
 Danizeik Kangôn
 Danjaik, Danijaik
-Danon
 Danongyaung
 Danongôn
 Danot, Danôk
@@ -2138,6 +2137,7 @@ Danube
 Danubyu, Donabyu, ဓနုဖြူမြို့နယ်
 Danyingon
 Danyinzeik, Da Nyin Seik
+Danôn
 Danônzeik
 Dappum
 Dar Hat, Dahat
@@ -2312,7 +2312,7 @@ Daw Paw Ka Le Ywar Gyi
 Daw Paw Ka Le Ywar Nge
 Daw Paw Ku
 Daw Pawgale
-Daw Pawgle
+Daw Pawglè
 Daw Pawtu
 Daw Peit Du
 Daw Pi Ta
@@ -2419,10 +2419,10 @@ Dawkaw-htu
 Dawkawlè
 Dawkla-taw
 Dawklaw-tu
-Dawkle-te
 Dawklo-hku
 Dawklo-li
 Dawklu-hso
+Dawklè-te
 Dawku-li
 Dawkye-nè
 Dawlan, Dewlan
@@ -2450,8 +2450,8 @@ Dawng Ga
 Dawngu-hsè
 Dawngva
 Dawno-hku
-Dawnye-hku
 Dawnyein
+Dawnyē-hku
 Dawnö-ku
 Dawpa-pa
 Dawpa-sha
@@ -2556,8 +2556,8 @@ Didokkan
 Didokkin
 Didokkon
 Didokkon-ywa
-Didokpin
 Didu Tē
+Didôkpin
 Dihai
 Dihlaing
 Dimlo
@@ -2907,17 +2907,14 @@ Gonga
 Gongyun
 Goni
 Gonkon
-Gonmin, Gonminta
 Gonmin-myaung
 Gonminda
 Gonmindaw
 Gonmingwin, Gonminwin
-Gonmingyaung
 Gonminmyaung
 Gonminsho, Gon Min Sho, Gonminshol
 Gonnyin
 Gonnyinchaung
-Gonnyindan
 Gonnyindangyi
 Gonnyindaung
 Gonnyinnwe
@@ -2986,19 +2983,19 @@ Gwedaukchaung
 Gwedaukkaing
 Gwedaukkan
 Gwedaukkhin
-Gwedaukkon
 Gwedaukkyin
+Gwedaukkôn
 Gwedaukmyaung
 Gwedauksan
 Gwedauksho
 Gwedauktaw
-Gwegon
 Gwegwan
 Gwegwe
 Gwegyaung
 Gwegyaw
 Gwegyi, Gwegy, Kwayt Gyi
 Gwegyo
+Gwegôn
 Gwehmyaunggon
 Gwein, Gway Inn
 Gwekyaung
@@ -3104,6 +3101,9 @@ Gôkkyi
 Gônbin
 Gônbo
 Gôndangale
+Gônmin, Gonminta
+Gônmingyaung
+Gônnyindan
 Gāgaw Nok
 Gālawn
 Gāya
@@ -3207,7 +3207,6 @@ Hangka
 Hangkai
 Hangken
 Hangloi
-Hangna
 Hangnam
 Hangnwe
 Hangsen
@@ -3400,7 +3399,6 @@ Hkadat
 Hkadaung
 Hkadaungyang
 Hkadin, Ka Tin
-Hkadu
 Hkahkan
 Hkahkin
 Hkahkugahtawng
@@ -3692,6 +3690,7 @@ Hkümmanmaö
 Hkümmànkaü
 Hkāchoyang, Damaw
 Hkāda Ga, Hkada
+Hkādu
 Hkāmpti
 Hkānaw
 Hkēng Hkām-yao
@@ -3757,7 +3756,6 @@ Hle-da-chaung
 Hle-u-gan
 Hlebauk
 Hlebeingwe
-Hlebwe
 Hlebwegale, Lèbwegale
 Hlebwegon, Hle Pwe Kone
 Hlebwegyi
@@ -3775,7 +3773,6 @@ Hlegu, Hle Ku Su
 Hleguma
 Hlegwe Chaung
 Hlegwesan
-Hlegyaunggu
 Hlegyi
 Hlegyibyet
 Hlehlaw-in
@@ -3791,7 +3788,6 @@ Hlengokchaung
 Hleswewa
 Hlethwin
 Hlewaing
-Hlezeik, Hle Seik
 Hlezin
 Hlezu
 Hlezwemyaung
@@ -3813,8 +3809,8 @@ Hlwar Ka Maing
 Hlwawa
 Hlwaze
 Hlwazin, Hiwazin, Hlwa Sin
-Hlwazingon
 Hlwazingyi, Hlwazing
+Hlwazingôn
 Hlwazinzu
 Hlwe
 Hlwe Pauk
@@ -3834,7 +3830,10 @@ Hlyaw Hpyu Pin
 Hlyaw Kan
 Hlyaw Pin
 Hlyaw Taw
+Hlèbwe
 Hlèdobo, Hièdobo
+Hlègyaunggu
+Hlèzeik, Hle Seik
 Hlē-in
 Hlēsakan
 Hma Yoe, Mayo
@@ -4080,13 +4079,13 @@ Ho-hwē-ko-sa-pa
 Ho-it
 Ho-kai
 Ho-kan
-Ho-kat
 Ho-kaw
 Ho-koi
 Ho-kuk
 Ho-kwai
 Ho-kyawng
 Ho-kyi
+Ho-kāt
 Ho-la
 Ho-lan
 Ho-leng
@@ -4106,7 +4105,6 @@ Ho-mun
 Ho-mwè, Ho-mwō
 Ho-mè-la-yu
 Ho-möng
-Ho-na, Nayama
 Ho-nam
 Ho-namtap
 Ho-nang
@@ -4114,18 +4112,17 @@ Ho-nanug
 Ho-naw
 Ho-nawng
 Ho-nawng-un
+Ho-nā, Nayama
 Ho-ong
 Ho-pai
 Ho-pan
-Ho-pang
 Ho-paw
 Ho-pok
 Ho-pom
 Ho-pong
+Ho-pāng
 Ho-sa Mān Mao
 Ho-sem
-Ho-ta
-Ho-tang
 Ho-tao
 Ho-tat
 Ho-tawng
@@ -4138,6 +4135,8 @@ Ho-tu
 Ho-tu Mān Kang
 Ho-tut
 Ho-twe
+Ho-tā
+Ho-tāng
 Ho-wao
 Ho-yau
 Ho-yawng
@@ -4175,7 +4174,6 @@ Homalin, Hommalinn, Hônmalin, ဟုမ္မလင်း မြို့နယ
 Homaw
 Homohti
 Homöng
-Hona
 Hona Si Ho
 Hona Yok
 Honam
@@ -4189,6 +4187,7 @@ Hongleng
 Hongmon
 Honnaing
 Honwo
+Honā
 Hopa
 Hopang, ဟိုပန်မြို့နယ်
 Hophai
@@ -4267,7 +4266,6 @@ Hpa-kyut
 Hpa-lai, Mongping
 Hpa-lan
 Hpa-law
-Hpa-leng
 Hpa-lengwa-nawk
 Hpa-lieng
 Hpa-lin, Hpa-liu
@@ -4286,7 +4284,6 @@ Hpa-so
 Hpa-suk
 Hpa-sök
 Hpa-tan
-Hpa-tang
 Hpa-tawk
 Hpa-tek
 Hpa-teng
@@ -4352,7 +4349,6 @@ Hpaklo
 Hpaklon
 Hpaklö
 Hpakmöng
-Hpaknam
 Hpaknamtan
 Hpaknawk
 Hpakpom
@@ -4361,7 +4357,6 @@ Hpakse
 Hpaktu-lin
 Hpaktu-möng, Hpaktu-monga
 Hpakye
-Hpala
 Hpala-insa
 Hpalai Ga
 Hpalan
@@ -4493,11 +4488,11 @@ Hpawt Taung
 Hpawt Taw
 Hpawwawmo
 Hpayabyin Theindan
-Hpayagon
 Hpayangon
 Hpayaungnekyun
 Hpayegyi
 Hpayonga
+Hpayāgôn
 Hpe Do
 Hpe Hlar
 Hpe Hpa Daw
@@ -4565,10 +4560,10 @@ Hpotu-ywa
 Hpotugôn
 Hpre-hku, Hrpè-hku
 Hpre-hse-hso
-Hpre-hso-hku
 Hpridi
 Hpru-so
 Hpru-wai-nam
+Hprè-hso-hku
 Hprè-ta-hku
 Hpu Ka Rar Khu, Hpu Hkyā-ku
 Hpu-ret, Hpurret
@@ -4634,9 +4629,11 @@ Hpàtang
 Hpôntha
 Hpônzogwin
 Hpöngmung
+Hpā-leng
 Hpā-loi
 Hpā-lüng
 Hpā-mai
+Hpā-tang
 Hpāchet Hi
 Hpāhpek
 Hpāhpok
@@ -4645,13 +4642,15 @@ Hpāhso
 Hpāk-nam
 Hpāk-to
 Hpākawn
+Hpāknam
 Hpāktup
 Hpākān
+Hpāla
 Hpālang
 Hpālep
 Hpālönhsi, Hpalonshi
 Hpālāmung
-Hpāpeng
+Hpāpēng
 Hpāthukhi
 Hranhring
 Hrawngvun
@@ -4695,7 +4694,6 @@ Hsalaihkum
 Hsalawk
 Hsam Hsan
 Hsam-pun
-Hsamhka
 Hsamhseng, Hsamhsena
 Hsampu
 Hsampā
@@ -4865,6 +4863,7 @@ Hsè-hsu-lè
 Hsönkwè
 Hsü-yinhpan
 Hsā-lā-taw
+Hsāmhka
 Hsāmshingyāng
 Hsōp Mè-la-yu
 Hsōppawngkla
@@ -4977,14 +4976,13 @@ Htang-gyang
 Htangadām
 Htangaung
 Htanghkaw
-Htanghseng, Htāngnseng
 Htangkan
 Htangli
-Htangon
 Htangprai
 Htangsan
 Htangshan
 Htangtum
+Htangôn
 Htanigen, Hta Nee Kone
 Htankanlan
 Htankobin
@@ -5292,7 +5290,6 @@ Hton-na
 Htonawng
 Htonban
 Htonbaw
-Htonbo
 Htonbong
 Htondaung
 Htone Aing
@@ -5332,6 +5329,7 @@ Htunyum
 Htutni
 Htwee Kyaw Hla, Kawthi, Kawthihta
 Htwet Wa, Htawa
+Htônbo
 Htõ-pawku
 Htö LA-wa
 Htö-htè
@@ -5340,6 +5338,7 @@ Htāhaw
 Htāhte Pām
 Htāmtāng
 Htānghkan
+Htānghseng, Htāngnseng
 Htāngsang
 Htāunghpāu
 Htīhpwa
@@ -5387,28 +5386,23 @@ Hwathalantein
 Hwe Howe
 Hwe Lawk
 Hwe Tawng
-Hwe-aw
 Hwe-he
 Hwe-hkai
 Hwe-hko
 Hwe-hkum, Hwetok
-Hwe-hok
-Hwe-hsai-long
 Hwe-hsanhsinmaw
 Hwe-hwam
 Hwe-hwe
 Hwe-hwi
+Hwe-hōk
 Hwe-kawng
 Hwe-kut
 Hwe-lai
 Hwe-lao
 Hwe-lawt
 Hwe-lok, Hwè-tok
-Hwe-long
 Hwe-luk
-Hwe-mawng
 Hwe-mong
-Hwe-möng
 Hwe-nawng
 Hwe-pen
 Hwe-pā-tip
@@ -5421,7 +5415,6 @@ Hwe-yok
 Hwebalan
 Hwehawn
 Hweheng
-Hwehka, Hwèhkon
 Hwehkai
 Hweho
 Hwehpasi
@@ -5462,6 +5455,7 @@ Hwunhose
 Hwè Ha
 Hwè Kot
 Hwè Papük
+Hwè-aw
 Hwè-ham
 Hwè-hat
 Hwè-hawn
@@ -5473,6 +5467,7 @@ Hwè-hoi
 Hwè-hpak
 Hwè-hpakhpai
 Hwè-hsai
+Hwè-hsai-long
 Hwè-hsim
 Hwè-hu
 Hwè-hèn
@@ -5482,8 +5477,11 @@ Hwè-lau-wānloi
 Hwè-lem
 Hwè-liaw
 Hwè-lon
+Hwè-long
 Hwè-lü
+Hwè-mawng
 Hwè-mawnun
+Hwè-möng
 Hwè-naw
 Hwè-nawnawn
 Hwè-ning
@@ -5502,6 +5500,7 @@ Hwè-teng-yang
 Hwè-wa
 Hwè-yaw
 Hwèehen
+Hwèhka, Hwèhkon
 Hwèku
 Hwèpu
 Hwē-mākhat
@@ -5515,6 +5514,7 @@ Hönglai
 Hönglan
 Hönlom
 Hāngnawng
+Hāngnā
 Hē-sā-hku
 Hōta
 I-byit
@@ -5575,7 +5575,6 @@ Inbat
 Inbauk
 Inbaung
 Inbawhkon, Impawkon
-Inbe
 Inbetkon, In Hpet Kone
 Inbettaw
 Inbin
@@ -5600,6 +5599,7 @@ Inbya
 Inbyaung
 Inbyin
 Inbyit
+Inbè
 Inbèdaw
 Inchaung
 Indaing
@@ -5624,7 +5624,6 @@ Indawtha
 Indawyo
 Indayan
 Indayaw
-Inde, Indeywa
 Inde South
 Indegon
 Indein, Yndein
@@ -5634,6 +5633,7 @@ Indu
 Indwe
 Indwet
 Indwingyi
+Indè, Indeywa
 Inga
 Inga Gahtawng
 Ingabo
@@ -5654,7 +5654,6 @@ Ingauk
 Ingaung
 Ingaunggon
 Ingayan
-Ingon
 Ingongyi
 Ingukkungyi
 Ingwe
@@ -5676,7 +5675,7 @@ Ingyinbin
 Ingyinbinhla
 Ingyingaing
 Ingyingan
-Ingyingon
+Ingyingôn
 Ingyinkwin, In Gyin Kwin
 Ingyinma
 Ingyintaung
@@ -5686,6 +5685,7 @@ Ingyinzu
 Ingyizu
 Ingynbin
 Ingyun
+Ingôn
 Inhla
 Inhlashe, Thitchezeik
 Inhlaywathit
@@ -5957,7 +5957,7 @@ Ka-hpi
 Ka-im
 Ka-leng
 Ka-li
-Ka-li-lya, Ka-li-lya Karen
+Ka-li-lyā, Ka-li-lya Karen
 Ka-lo
 Ka-lya-lo
 Ka-nu-ze
@@ -5995,7 +5995,6 @@ Kabaunggyaing
 Kabaungyon
 Kabaungzan
 Kabaw
-Kabe
 Kabin
 Kabinhku
 Kabo
@@ -6013,11 +6012,10 @@ Kabyit
 Kabyo, Ka Pyo
 Kabyu
 Kabyubyin
+Kabè
 Kace
 Kachaing Ga
 Kachaung, Kagyaung
-Kacheng
-Kada
 Kadaik
 Kadaikgyi
 Kadaing
@@ -6039,7 +6037,6 @@ Kadaungbwin
 Kadaunggyi
 Kadaunggyin
 Kadaungyin
-Kadaw
 Kadawa
 Kadawbyat
 Kadawhkang
@@ -6104,6 +6101,7 @@ Kaduyo
 Kadwe
 Kadwenauk, Kadwenaok
 Kadônkani
+Kadā
 Kaget
 Kagi, Lamang
 Kagwe
@@ -6195,7 +6193,6 @@ Kala
 Kala-aw
 Kala-in
 Kala-sau
-Kala-ywa
 Kalaba
 Kalabe
 Kalabugon
@@ -6203,7 +6200,6 @@ Kalabyin
 Kalabôn, Kalahôn
 Kalachaung, Kalagyaung
 Kalachaungzu
-Kaladan
 Kalade
 Kaladwin
 Kalaga
@@ -6226,7 +6222,6 @@ Kalama
 Kalamataung
 Kalamuchi
 Kalamyaw, Ku Lar Myaw
-Kalan
 Kalanakhaungdaung
 Kalang
 Kalangja
@@ -6293,14 +6288,16 @@ Kaliāpara
 Kalmadaung
 Kalo Kong
 Kalok, Kha Loke
-Kalon
 Kalonga Ywa, Klohng Cha
 Kalonhte
 Kalonmaw
 Kalonyo
 Kalun
 Kalwin
+Kalôn
 Kalöng
+Kalā-ywa
+Kalādan
 Kalāgyi
 Kama
 Kama-in-gon
@@ -6372,7 +6369,6 @@ Kamawtaw
 Kamayut
 Kambe
 Kambo
-Kame, Kha Mei
 Kamegyi
 Kameik
 Kameikgale
@@ -6401,6 +6397,7 @@ Kamwe Loi
 Kamyaingswe
 Kamyawgyi
 Kamābo
+Kamē, Kha Mei
 Kan
 Kan Auk
 Kan Aye
@@ -6519,8 +6516,8 @@ Kanawkho
 Kanazo
 Kanazobin
 Kanazogalet
-Kanazogon
 Kanazogyaung
+Kanazogôn
 Kanbabyu
 Kanbala, Kant Ma Lar
 Kanbale
@@ -6535,7 +6532,6 @@ Kanbaukta
 Kanbaw-athin
 Kanbawng
 Kanbawza
-Kanbe, Kanabe, Kanhe, Knabe
 Kanbegon
 Kanbegyi
 Kanbemyaung
@@ -6553,6 +6549,7 @@ Kanbyu Anauk
 Kanbyu Ashe
 Kanbyu Atet
 Kanbyu Auk
+Kanbè, Kanabe, Kanhe, Knabe
 Kanbè-aing
 Kanchaung
 Kandaing
@@ -6570,7 +6567,6 @@ Kandaya
 Kande
 Kandi
 Kandin
-Kando
 Kandok
 Kandu
 Kandwin
@@ -6609,7 +6605,6 @@ Kangnaung
 Kangno
 Kangoi
 Kangok
-Kangon, Kangom
 Kangon Anauk
 Kangon Ashe
 Kangsa
@@ -6630,13 +6625,14 @@ Kangyibya, Kangyibyu
 Kangyidaung
 Kangyidaw
 Kangyigin, Kan-gyigyin
-Kangyigon
+Kangyigôn
 Kangyin
 Kangyisu, Kan Gyi Su
 Kangyiwa
 Kangyizu
 Kangyungyi
 Kangyôkpyin
+Kangôn, Kangom
 Kangôn Ngapaukkyin, Kangan Ngapaukkyin, Kangôn-ngabaukkyin
 Kanhla
 Kanhle
@@ -6763,12 +6759,12 @@ Kanyindaw
 Kanyindôn
 Kanyingaing
 Kanyingauk
-Kanyingon, Ka Nyin Kone
 Kanyingwa-atet
 Kanyingwa-auk
 Kanyingyaung, Katha-hmyin
 Kanyingyi
 Kanyingyo
+Kanyingôn, Ka Nyin Kone
 Kanyinkwin
 Kanyinmyaung
 Kanyinngu
@@ -6805,7 +6801,7 @@ Kanzin
 Kanzu
 Kanzudauk
 Kanzugyi
-Kanzwe, Kangwe
+Kanzwè, Kangwe
 Kao-kut
 Kaochia Chai
 Kapa
@@ -6993,7 +6989,6 @@ Kaw-pōk
 Kawa, Ka Wa
 Kawa Yang
 Kawa-the
-Kawabum, Haung Hkan
 Kawadan
 Kawadaw
 Kawahta
@@ -7010,8 +7005,8 @@ Kawbu Ga
 Kawbwigon
 Kawbyin, Kawbyinkyaung
 Kawcha-in
-Kawche
 Kawchè-hku
+Kawchē
 Kawdaw
 Kawdo
 Kawdu
@@ -7089,7 +7084,7 @@ Kawma
 Kawmapyin
 Kawmapyinchaung
 Kawmat
-Kawmatke
+Kawmatkè
 Kawmawng
 Kawmayan
 Kawmi
@@ -7104,7 +7099,6 @@ Kawn, Kawn-gahtawng
 Kawn-heo
 Kawna 'Ntawk
 Kawnan
-Kawnan Ga, Larawntu Ga
 Kawnepado
 Kawng
 Kawng Ai
@@ -7115,9 +7109,9 @@ Kawng Nio
 Kawng Ri-ti
 Kawng-hak
 Kawng-hka
-Kawng-hong
 Kawng-hsan
 Kawng-hsang
+Kawng-hōng
 Kawng-kang
 Kawng-ke
 Kawng-lang
@@ -7132,7 +7126,6 @@ Kawngbu
 Kawngchin
 Kawngchung
 Kawnghai
-Kawnghak
 Kawnghin
 Kawnghka
 Kawnghkam
@@ -7146,6 +7139,7 @@ Kawnghsang, Kawnghsha, Konghsang
 Kawnghsawng
 Kawnghsong
 Kawnghöng
+Kawnghāk
 Kawngkai
 Kawngkan
 Kawngkang
@@ -7161,7 +7155,6 @@ Kawngkwe
 Kawngkye
 Kawngkyi, Kongchi
 Kawnglai
-Kawnglang
 Kawnglanghpu
 Kawnglangyokma
 Kawnglawt
@@ -7170,6 +7163,7 @@ Kawnglen
 Kawngleng
 Kawnglong
 Kawnglöm
+Kawnglāng
 Kawngmai
 Kawngmaklung
 Kawngmawng
@@ -7204,9 +7198,9 @@ Kawngsong
 Kawngsung
 Kawngtek
 Kawngton
-Kawngtong
 Kawngtu
 Kawngtöng
+Kawngtōng
 Kawngwai, Kaengwai
 Kawngweng
 Kawngwet
@@ -7220,9 +7214,10 @@ Kawnhpoi
 Kawnhsam
 Kawnhsilám
 Kawnla
-Kawnwe
+Kawnwē
 Kawnyaing
 Kawnzaw
+Kawnān Ga, Larawntu Ga
 Kawpado
 Kawpala
 Kawpalan
@@ -7336,7 +7331,6 @@ Kay Kaw
 Kay Khee, Kē-hki
 Kay Tha
 Kay Thea Doe
-Kaya
 Kaya-apyin
 Kaya-atwin
 Kayaikkani, Kayeikkani, Kha Yaik Kha Ni
@@ -7437,14 +7431,12 @@ Kelkawng
 Keltal
 Kemapyu
 Kenan
-Keng Hkam, Kyengkam
 Keng Hkawng
 Keng Tang
 Kengka
 Kengkai
 Kenglon
 Kenglong
-Kengtawng
 Kengtung, Chieng Tung, Kyaingdôn, Kēntung, ကျိုင်းတုံမြို့နယ်
 Kerlerkyo
 Kerserhpo
@@ -7856,7 +7848,7 @@ Kinmunchonmaw
 Kinmundaung
 Kinmungan
 Kinmungyan
-Kinmungyon, Kingumgyon, Kinmnyon, Kinmungy, Kinmunyon
+Kinmungyôn, Kingumgyon, Kinmnyon, Kinmungy, Kinmunyon
 Kinmungôn
 Kinmuntaung
 Kinmuntaw
@@ -8013,13 +8005,11 @@ Kokine
 Kokkaing
 Kokkalu
 Kokkine
-Kokko, Kokka
 Kokko-aing
 Kokkobin
 Kokkodan
 Kokkodaung, Koke Ko Taung
 Kokkogaing
-Kokkogon, Kokkokon
 Kokkogwa
 Kokkogyin
 Kokkohla
@@ -8081,9 +8071,7 @@ Kon-ywa
 Konaing
 Konan
 Konanya
-Konbat, Knôbat
 Konbatkyi
-Konbaung
 Konbaw
 Konbawzu, Kone Paw Su
 Konbo
@@ -8094,7 +8082,6 @@ Konbyin
 Konche
 Konchein
 Kondaing
-Kondan, Konda
 Kondan Chaung
 Kondan Taung
 Kondangyi
@@ -8152,7 +8139,6 @@ Kong Yum
 Kong-ai
 Kong-hka
 Kong-hong
-Kong-hsa
 Kong-kao
 Kong-kham, Kong-khom
 Kong-kāt
@@ -8161,10 +8147,7 @@ Kong-loi-htam
 Kong-mak-heng
 Kong-mon
 Kong-mong
-Kong-möng
-Kong-nio
 Kong-pao
-Kong-pau
 Kong-paw, Kongpow
 Kong-ru
 Kong-sara-e
@@ -8177,7 +8160,6 @@ Kong-yang
 Kong-yao
 Kong-yom
 Kong-yong
-Kongale
 Kongaung
 Kongchai Ga
 Konghai
@@ -8186,11 +8168,11 @@ Konghka
 Konghkam
 Konghkaw
 Konghke
-Konghsa
 Konghsai
 Konghsapye
 Konghsara
 Konghsem
+Konghsā
 Konghè
 Kongiam
 Kongkam
@@ -8199,7 +8181,6 @@ Kongkangshan
 Kongkaw
 Kongkawng
 Kongke
-Kongkeng
 Kongking
 Kongkyan
 Kongkyaung
@@ -8208,6 +8189,7 @@ Kongkyawngwānhawng, Kongkyawngwanhng
 Kongkyawngwānhkum
 Kongkyung
 Kongkāt
+Kongkēng
 Konglan
 Konglang
 Konglaw
@@ -8228,11 +8210,10 @@ Kongmawng
 Kongme-an
 Kongmeng
 Kongmon
-Kongmong
 Kongmu
 Kongmun
 Kongmyeng
-Kongmöng
+Kongmōng
 Kongnang
 Kongnawt
 Kongnim
@@ -8270,7 +8251,6 @@ Kongy
 Kongyah, Kongvah
 Kongyai
 Kongyangon
-Kongyi
 Kongyinzein
 Kongyāng
 Konhai
@@ -8319,16 +8299,15 @@ Kontali, Kone Ta Li
 Kontalon
 Kontawnyo
 Kontein
-Kontha, Kongtha
 Konthagyi
 Konthandin
 Konthedan
+Konthā, Kongtha
 Konuba
 Konwat
 Konwetchaung, Kone Wet Chaung
 Konyawe Tē
 Konyo
-Konywa
 Konywagyi
 Konzaung
 Konzayat
@@ -8571,7 +8550,6 @@ Kungkat
 Kungkaw
 Kungkeng
 Kungkut
-Kunglom, Kunglong
 Kungmong
 Kungmöng
 Kungnyawng
@@ -8585,7 +8563,7 @@ Kungtsa
 Kungwet
 Kungwit
 Kungyan
-Kungyangon, Kun Chan Kone Lay, ကွမ်းခြံကုန်း မြို့နယ်
+Kungyangôn, Kun Chan Kone Lay, ကွမ်းခြံကုန်း မြို့နယ်
 Kungyanzu, Kungyangzu, Kurgyanzu
 Kungyaung
 Kungyaunggale
@@ -8631,11 +8609,11 @@ Kunmin
 Kunmun
 Kunmyaunggyi
 Kunmöng
-Kunna, Kyunna
 Kunnem
 Kunngo
 Kunniu
 Kunnyawng
+Kunnā, Kyunna
 Kunon
 Kunpalaing
 Kunpan
@@ -8652,7 +8630,6 @@ Kuntaw
 Kuntawa
 Kuntawng
 Kuntha
-Kunthibin, Kunthado
 Kunthichaungwa, Kunthigyaungwa
 Kunthidaw
 Kunthigan
@@ -8665,9 +8642,9 @@ Kunwa
 Kunyon
 Kunywa
 Kunzan
-Kunze
 Kunzeik, Kunxeik
 Kunzingyi
+Kunzè
 Kupaikhi
 Kupo
 Kuseik
@@ -8852,7 +8829,6 @@ Kyagaik, Kyar Kaik
 Kyagaikmyaung
 Kyagaing
 Kyagaiseik
-Kyagan
 Kyagandaung
 Kyagandeik, Kyar Kan Deik
 Kyaganzu, Kyar Kan Su
@@ -8862,7 +8838,6 @@ Kyagon
 Kyagu
 Kyagwin, Kyaukkēkwin
 Kyagyan
-Kyagyaung
 Kyagyiseik
 Kyagyun
 Kyahkatkon, Kya Khat Kone Gyi, Kyagatkôn, Kyakatkon
@@ -9202,7 +9177,7 @@ Kyaukhino, Kyaukhinoe
 Kyaukhkaung
 Kyaukhkepyin, Kyaukkhepyin
 Kyaukhlebein
-Kyaukhlega
+Kyaukhlèga
 Kyaukhmaw
 Kyaukhnget
 Kyaukhpa, Myaukhpa
@@ -9224,13 +9199,12 @@ Kyaukkhegwin, Kyaukkègwin, Kyaukkēkwin
 Kyaukkhôk
 Kyaukki
 Kyaukkkadin, Kyauk Ku Din
-Kyaukkok
 Kyaukkokaing
 Kyaukkon
 Kyaukkubyin
 Kyaukkudi
-Kyaukkwe
 Kyaukkwet, Kyaukkwat
+Kyaukkwè
 Kyaukkya
 Kyaukkyat
 Kyaukkyi, Kyaukgyi, Kyawkkyi, ကျောက်ကြီး မြို့နယ
@@ -9238,6 +9212,7 @@ Kyaukkyibauk, Kyaukkybauk
 Kyaukkyibyin
 Kyaukkyidaung Ywathit
 Kyaukkyigon
+Kyaukkôk
 Kyaukleik
 Kyaukletkhat
 Kyauklon
@@ -9247,7 +9222,6 @@ Kyaukmaung
 Kyaukmaungnama
 Kyaukmaw
 Kyaukmaye
-Kyaukme
 Kyaukmedaung
 Kyaukmigyaung
 Kyaukmihkat
@@ -9257,6 +9231,7 @@ Kyaukmwe
 Kyaukmyaung
 Kyaukmye
 Kyaukmyet
+Kyaukmè
 Kyauknaga, Kyauknago
 Kyaukngu
 Kyaukni
@@ -9281,8 +9256,6 @@ Kyaukpazet
 Kyaukpe
 Kyaukpingan, Kyauk Pyin Kan
 Kyaukpizat
-Kyaukpon
-Kyaukpon-ale, Kyaukoon
 Kyaukpon-myauk
 Kyaukpongan, Kyauk Pon Kan
 Kyaukpontha
@@ -9303,6 +9276,8 @@ Kyaukpyu, Kyaukbyu, Kyaukpy, Kyaukpyn, ကျောက်ဖြူမြို�
 Kyaukpyu Aing
 Kyaukpyudaing
 Kyaukpyudaung
+Kyaukpôn
+Kyaukpôn-alē, Kyaukoon
 Kyaukpôn-kan
 Kyaukpôndaung
 Kyauksa
@@ -9340,7 +9315,7 @@ Kyauktaing
 Kyauktainggan
 Kyauktainggin
 Kyauktalin
-Kyauktalon
+Kyauktalôn
 Kyauktaman
 Kyauktan, Kwilawsaw, ကျောက်တန်း မြို့နယ်
 Kyauktanbya
@@ -9403,7 +9378,7 @@ Kyaungaing
 Kyaungau
 Kyaungbandaw
 Kyaungbangan
-Kyaungbangon
+Kyaungbangôn
 Kyaungbya
 Kyaungbyauk, Kyaungbauk
 Kyaungbyin-ôk
@@ -9418,11 +9393,11 @@ Kyaungdawya
 Kyaungdeik
 Kyaungdo, Kyaung Du
 Kyaungdokpyu
-Kyaunggon, ကျောင်းကုန်းမြို့နယ်
 Kyaunggonzu
 Kyaunggwin
 Kyaunggyigon
 Kyaunggyikan, Ngazinaing
+Kyaunggôn, ကျောင်းကုန်းမြို့နယ်
 Kyaunghkam
 Kyaungkan
 Kyaungkwe
@@ -9810,7 +9785,7 @@ Kyoet Pin Chan, Gyobinchan
 Kyoet Pin Thar
 Kyogan
 Kyogauk
-Kyogon
+Kyogôn
 Kyokha
 Kyokhodo
 Kyoktha
@@ -9848,22 +9823,17 @@ Kyongyaik
 Kyongyaung, Kyonchaung
 Kyongyaungbya, Kyôngyaungbyan
 Kyonhpayo
-Kyonhpe
 Kyonkadan
-Kyonkadun, Kyonkadung
 Kyonkame
 Kyonkanat
 Kyonkanaung
 Kyonkani
-Kyonkaw
 Kyonkaya
 Kyonku
 Kyonkyaik
 Kyonkyeik, Kyon Kyeik
 Kyonkyongya
-Kyonlamu
 Kyonlan
-Kyonlata
 Kyonlaung
 Kyonma
 Kyonmange
@@ -9879,7 +9849,6 @@ Kyonpe
 Kyonphaung
 Kyonpyaw, Kyunpyaw, Kyônbyaw, ကျုံပျော်မြို့နယ်
 Kyonsauk
-Kyonsein
 Kyonsha
 Kyonsok, Kyonzok
 Kyonsu, Kyon Su
@@ -9893,7 +9862,6 @@ Kyontaw
 Kyontawa
 Kyontayeik
 Kyontha
-Kyonthin
 Kyonthut
 Kyontongale
 Kyontu, Kyon Tu
@@ -9901,9 +9869,9 @@ Kyonwa
 Kyonwan
 Kyonwawwa
 Kyonyaik
-Kyonye
 Kyonyit
 Kyonywa
+Kyonyē
 Kyoukswegyo
 Kyowaing
 Kyowaingte
@@ -9989,7 +9957,6 @@ Kyundeik
 Kyundon, Kyun Tone
 Kyundu
 Kyungale
-Kyungon
 Kyungon Shanzu
 Kyungongyi
 Kyungya
@@ -9999,11 +9966,12 @@ Kyungyaungywa
 Kyungyi
 Kyungyi-nge
 Kyungyin, Kyun Kyin
+Kyungôn
 Kyunhla
 Kyunkama
 Kyunkon
-Kyunle
 Kyunlyashē
+Kyunlè
 Kyunmi, Kyunm
 Kyunnyogyi
 Kyuno
@@ -10057,10 +10025,8 @@ Kywe Zin
 Kywe Zin South
 Kywe-det
 Kywe-eikkon
-Kywe-in
 Kywe-o
 Kywebe
-Kywebok, Kywe Boke
 Kywebwe
 Kywebyu
 Kywebyuchaung, Kywebyugyaung
@@ -10069,11 +10035,8 @@ Kywebyugon
 Kywechanyo
 Kywechaung
 Kywechaung Yaphè
-Kywedalin, Kwedalin, Kywe Ta Lin Ywar Thit
 Kywedat
 Kywedaung
-Kywede, Kywedalkon
-Kywedegon, Kywe Te Kone
 Kywedet
 Kywedi
 Kywedo
@@ -10085,18 +10048,13 @@ Kywegat
 Kywegaung
 Kywegawgyi
 Kywegodaw
-Kywegon
-Kywegu
 Kyweguseik
 Kyweguzeik
-Kywegya, Kwegya
 Kywegyaing
-Kywegyan, Kwegyan
 Kywegyan Kwin
 Kywegyandaukgale, Kywegyandauk
 Kywegyandaukgyi
 Kywegyantaung
-Kywegyaung
 Kywegyo
 Kywegyo-in
 Kywehsa
@@ -10117,7 +10075,6 @@ Kyweta
 Kywetabaung
 Kywetaga
 Kywetalin
-Kywethalin, Kywe Tha Lin
 Kywethat
 Kywethauk
 Kywethaung
@@ -10131,23 +10088,34 @@ Kywetnwe
 Kywettaw, Kywet Taw
 Kyweyaik Ywathit
 Kyweyaingbyin
-Kyweye
 Kyweza
 Kywibyin
 Kywindaw
 Kywè-u
+Kywèbok, Kywe Boke
 Kywèbon
 Kywèdatkon
+Kywèdè, Kywedalkon
+Kywèdègon, Kywe Te Kone
 Kywèdègwin
 Kywègaing
+Kywègon
+Kywègya, Kwegya
+Kywègyan, Kwegyan
 Kywèmagu
+Kywèthalin, Kywe Tha Lin
 Kywèthemyaung
+Kywèyè
 Kywèzin
 Kywèzwè
+Kywëgu
+Kywē-in
+Kywēdalin, Kwedalin, Kywe Ta Lin Ywar Thit
 Kywēgo
 Kywēgyagôn
 Kywēgyangyi
 Kywēgyanwa
+Kywēgyaung
 Kywēpila
 Kywēsagyet
 Kyè-ek
@@ -10160,24 +10128,41 @@ Kyôndaw
 Kyônhla
 Kyônhlut
 Kyônhmaw
+Kyônhpē
+Kyônkadun, Kyonkadung
 Kyônkan Daminzeik
 Kyônkauk
+Kyônkaw
+Kyônlamu
+Kyônlatā
 Kyônlutgyi, Kyonlutkyi
 Kyônpayē
+Kyônsein
+Kyônthin
 Kyônthit
 Kyāchaung
+Kyāgan
 Kyāgayet
+Kyāgyaung
 Kyāgyigon
 Kyākaik
 Kèdaung
 Kèthamwe
 Kôkkabyin
+Kôkko, Kokka
 Kôkkomaw
+Kôkkôgon, Kokkokon
 Kônbalu
+Kônbat, Knôbat
+Kônbaung
+Kôndan, Konda
+Kôngale
+Kôngyi
 Kôntaya
 Kônteikpyaung
 Kônyin
 Kônyit-asu
+Kônywa
 Köng-ai
 Köng-gyawng
 Köng-pawman-loi
@@ -10207,10 +10192,14 @@ Könkeng
 Könnā
 Küt-awn
 Kāchen
+Kācheng
+Kādaw
 Kāgyin
 Kālādeva, Kalarua
+Kālān
 Kāmhtawngadām
 Kāmringdung
+Kāndo
 Kāngkung, Kukin
 Kāngli
 Kāngnu-hpai
@@ -10218,9 +10207,12 @@ Kāngwāntok
 Kāpichaung
 Kāpra
 Kāt Maw
+Kāwabum, Haung Hkan
 Kāwahka
 Kāwai
+Kāyā
 Kē-ma-taw
+Kēng Hkam, Kyengkam
 Kēng Kūm
 Kēng Lap
 Kēng Lon, Kong Lon
@@ -10228,12 +10220,20 @@ Kēng Nai
 Kēng Tawng
 Kēng Tung
 Kēnghkam
+Kēngtawng
 Kōmo
+Kōng-hsa
+Kōng-möng
+Kōng-nio
+Kōng-pau
 Kōng-wat
 Kōnghkok
+Kōngmöng
 Kū-maw
 Kūki
 Kūnghsāng
+Kūnglom, Kunglong
+Kūnthībin, Kunthado
 La Haw
 La Kin Wa
 La Maing
@@ -10252,10 +10252,9 @@ La-hya-daw
 La-i, La-l
 La-kya Dawhsè
 La-kyi-nampai, La-kyi-hampai, La-kyi-nampa
-La-li-le, Le-li-lè
+La-li-lè, Le-li-lè
 La-lè
 La-naw
-La-ne
 La-ngan Ga
 La-pang
 La-pwi-lè
@@ -10267,7 +10266,6 @@ Laba
 Labadaw
 Labaingdin
 Labang
-Labang-gahtawng
 Labanggahtawng, Labang Ga
 Labangkawng
 Labapya
@@ -10288,7 +10286,6 @@ Lachainkawng
 Lachigahtawng, Lachi Ga
 Lachung
 Lachunggahtawng, Lachung Ga
-Lachāng
 Ladachin
 Ladagwin Ashe
 Ladagwin Myauk
@@ -10318,7 +10315,6 @@ Lahagyi
 Lahaka
 Lahaw
 Lahayet, La Har Yet
-Lahe, လဟယ်မြို့
 Lahkam
 Lahkang Ga
 Lahkra
@@ -10328,7 +10324,6 @@ Lahkrau
 Lahkrayang
 Lahkru Ga
 Lahksakawng, Lahkrakawng
-Lahkum
 Lahkun
 Lahkwe
 Lahpai
@@ -10388,7 +10383,6 @@ Laitui
 Laivum
 Laiyo
 Laizawl
-Laja
 Laja Ga
 Lajakawng
 Lajau Ga
@@ -10430,7 +10424,6 @@ Laktang
 Lakting
 Lakuhta
 Lakum
-Lakyawn
 Lakyawpa
 Lakye
 Lakyen Ga
@@ -10619,7 +10612,7 @@ Lauklechaung, Lauk Lay Chaung
 Lauklu
 Lauknaw
 Laukok
-Laukpale
+Laukpalè
 Lauksauk
 Laukshwe
 Laung Chaing, Laungkhi
@@ -10778,7 +10771,6 @@ Laywa
 Layāng Gahtawng
 Laza
 Lazan
-Lazau
 Lazi Gahtawng, Atsi Gahtawng, Lazi Krawn
 Lazum Gahtawng, Lazum Ga
 Le Ma Ann Khu Ywar Haung
@@ -10809,8 +10801,6 @@ Le-u-gale
 Le-uzu
 Lebaw
 Lebaya
-Lebe
-Lebin
 Lebinaing
 Lebingon
 Lebingyin
@@ -10819,13 +10809,12 @@ Lebo
 Lebu, Hlebu
 Lebya
 Lebyauk
-Lebyin, Taunggyizu
 Lebyingan
 Lebyingwet
 Lebyingyi
 Lebyintha, Lel Pyin Thar
-Lebyinzu
 Lebyu
+Lebè
 Lebôngyauk
 Lechalaw
 Lechaungbaing, Legyaungbaing
@@ -10846,7 +10835,6 @@ Ledawgyi
 Lede
 Ledegale
 Ledet
-Ledi
 Ledichaung
 Ledo
 Ledok
@@ -10915,9 +10903,9 @@ Leikkyi
 Leikma
 Leikme
 Leikpaw
-Leikpok
 Leikpyagale
 Leikpyagyi
+Leikpôk
 Leikral
 Leiksa
 Leiksangun
@@ -10950,10 +10938,10 @@ Leingbon
 Leingdaung
 Leingkhine
 Leingnang
-Leingon
 Leingwin
 Leingyaw
 Leingyun
+Leingôn
 Leinhla
 Leinli
 Leinmaw
@@ -11008,14 +10996,12 @@ Lelapyaw
 Lelawde, Lilawdi
 Lelode
 Lelon
-Lelu
 Leluaing, Le Lu Aing
 Lelusan, Letusan
 Leluso
 Lema
 Lemakhan
 Lemepoli
-Lemi
 Lemigale
 Lemyaung
 Lemye
@@ -11104,9 +11090,8 @@ Letahe
 Letaunggyi
 Letawkhi, Lètawki
 Letgyi
-Letha, Lel Thar
 Lethadaung
-Lethagon
+Lethagôn
 Lethaung, Lel Haung
 Lethawa
 Lethawko
@@ -11171,7 +11156,6 @@ Letpandaw
 Letpande
 Letpandon
 Letpangin
-Letpangon, Lak-Pan-Gon, Lak-pan-kon
 Letpangwa, Let Pan Gwa
 Letpangwe
 Letpangwin
@@ -11181,6 +11165,7 @@ Letpangyi
 Letpangyin
 Letpangyitaw
 Letpangyun
+Letpangôn, Lak-Pan-Gon, Lak-pan-kon
 Letpanhkahla
 Letpanhkon, Letpan-gôn
 Letpanhla
@@ -11231,7 +11216,6 @@ Letyetma, Laiyetma
 Letyetsan, Let Yet San
 Letyetywa
 Leu
-Lewa
 Lewado
 Lewaing
 Lewe
@@ -11246,8 +11230,6 @@ Lezadon
 Lezamyaung
 Lezang
 Lezawchaunggyi
-Lezin
-Lezu
 Lezwe
 Li Khu Pa Yar
 Li Laung
@@ -11323,12 +11305,12 @@ Linkan
 Linke
 Linkyawng
 Linlam
-Linle
 Linle-in
-Linleng
 Linlu
 Linlum
 Linlut
+Linlè
+Linlēng
 Linmaw
 Linmu
 Linmudaung
@@ -11369,7 +11351,7 @@ Loe Law Htee
 Loepedo
 Lohpong
 Lohtu
-Loi Keng
+Loi Kēng
 Loi Lem
 Loi Leng
 Loi Mun
@@ -11485,7 +11467,6 @@ Loi-ngup
 Loi-ngün
 Loi-nim
 Loi-noi
-Loi-pang
 Loi-panghsan
 Loi-paw
 Loi-pek
@@ -11496,6 +11477,7 @@ Loi-pwi
 Loi-pye
 Loi-pyek
 Loi-pütau
+Loi-pāng
 Loi-sa
 Loi-sakh
 Loi-sam
@@ -11527,8 +11509,8 @@ Loi-ung
 Loi-vinghkam
 Loi-waw
 Loi-weing
-Loi-weng
 Loi-wing
+Loi-wēng
 Loi-yai
 Loi-yang
 Loi-yawkya
@@ -11627,7 +11609,6 @@ Lon Hkar
 Lon Htan Ta Lan
 Lon Pan
 Lon Su
-Lonbo
 Lonchon
 Londaung
 Londaw
@@ -11651,7 +11632,6 @@ Longdampu
 Longgawanghtung
 Longhawn
 Longhe
-Longhen
 Longheng
 Longhi-pe
 Longhka
@@ -11661,12 +11641,13 @@ Longhkaw
 Longhkeng
 Longhkwa, Longkwa
 Longhkök
-Longhsam
 Longhsu
 Longhsö
+Longhsām
 Longhtawng
 Longhtong, Longtong
 Longhu
+Longhēn
 Longjung
 Longka
 Longkam
@@ -11679,10 +11660,10 @@ Longkin
 Longku
 Longkwe
 Longkying
-Longlam
 Longlang
 Longlawt
 Longlum
+Longlām
 Longma-sa-i
 Longmakmun
 Longmakpai
@@ -11935,13 +11916,23 @@ Lánglong
 Lè Maing
 Lè-ba-htang
 Lè-u-zu
+Lèbin
+Lèbyin, Taunggyizu
+Lèbyinzu
+Lèdi
 Lèikthè
+Lèmi
 Lèmun
 Lèngauk
+Lètha, Lel Thar
 Lèthit
+Lèwa
 Lèwainggyi, Hlèwainggyi
+Lèzin
+Lèzu
 Lôk-ywa
 Lôn-ywa
+Lônbo
 Lônhpado, Mikwi
 Lônzun
 Lö-mu-hko
@@ -11956,11 +11947,18 @@ Lüknim
 Lünghsa-ye
 Lünhsan
 Lā-hok
+Lā-nè
 Lā-yu-to
+Lābang-gahtawng
 Lāchau
 Lāchau Ga
 Lāching
+Lāchāng
 Lāgat
+Lāhe, လဟယ်မြို့
+Lāhkum
+Lāja
+Lākyawn
 Lālganj, Lalagan
 Lāmagahtawng
 Lāmaikawng
@@ -11975,9 +11973,11 @@ Lāpaidan
 Lāsām Taklang
 Lāsān
 Lāyau
+Lāzau
 Lēgôn
 Lēgôngyi
 Lēladaung
+Lēlu
 Lēmayo
 Lēnaw
 Lēwa Chaung
@@ -12125,7 +12125,6 @@ Ma-ukwin
 Ma-umyaung
 Ma-uzu
 Ma-wun
-Mabe
 Mabein
 Mabi-atetsu
 Mabi-ywama
@@ -12133,6 +12132,7 @@ Mabon
 Mabungawng
 Mabunkong
 Mabweko
+Mabē
 Machanbaw
 Machangting
 Machat
@@ -12143,17 +12143,15 @@ Madaing
 Madainggyin
 Madamayo
 Madan
-Madang
 Madauk
 Madaung
 Madaunggyi
 Madaunghla
 Madaw
 Madawbin, Ma Dawt Pin, Ma Tawt Pin
-Madawgon
 Madawgyaung
+Madawgôn
 Madaya, Mattaya
-Made
 Madegon
 Madein
 Madetaung
@@ -12162,6 +12160,7 @@ Madingnam
 Madiywa
 Madu, Madhu
 Madupi
+Madē
 Mafangchai
 Maga
 Maga Ga
@@ -12217,7 +12216,6 @@ Magyidaw
 Magyidon
 Magyidu
 Magyigan
-Magyigon, Magyicon, Man-in
 Magyigon Taung
 Magyigon Ywathit
 Magyigwa
@@ -12228,6 +12226,7 @@ Magyigyaung
 Magyigyaw
 Magyigyin
 Magyigyo
+Magyigôn, Magyicon, Man-in
 Magyihla
 Magyikahla
 Magyikobin
@@ -12237,7 +12236,7 @@ Magyingokto, Ma Gyi Ngoke To
 Magyini
 Magyisan
 Magyisu
-Magyithonbin
+Magyithônbin
 Magyiton
 Magyiye
 Magyiyin
@@ -12437,18 +12436,16 @@ Makhpa-sut
 Makhpai
 Makhpit
 Makhsan
-Makka
 Makkawk
 Makkeng
 Makking
 Makkinu
+Makkā
 Maklam
-Maklang
 Maklang-èk
 Maklangsin
 Maklu-la
 Maklutleng
-Makman
 Makmo
 Makmon
 Makmong
@@ -12460,6 +12457,7 @@ Makmöngheng
 Makmönghsöng, Thakawto
 Makmöngkong
 Makmöngmun
+Makmān
 Maknawt
 Makpin
 Maksali
@@ -12531,42 +12529,29 @@ Mamon
 Mamudo
 Mamya
 Mamyo-asu, Ma Myo Su
-Man
 Man Aung
 Man Chengnoi
 Man Gyi Inn, Magyi-inywa
 Man Gyi Kone
-Man Hawn
 Man Hen
-Man Hka
 Man Hko-ling
 Man Hkunhawng, Man Hkunhowng
 Man Hsopkwe
-Man Htam
 Man Kawk
 Man Kawng-hai
-Man Kin
-Man Kong
 Man Kongmu
 Man Kongnyawng
 Man Laing
-Man Lao
-Man Loi
 Man Mak-hkaw
-Man Mau
-Man Na
 Man Na-lai
 Man Nam-hu-hsim
 Man Nawkwa
 Man Nemhpan
 Man Neng, Nèng
-Man Pang
 Man Par Pway
 Man Pein Lan
 Man Pon
-Man Sawk
 Man Tar
-Man Tha
 Man Un
 Man Weng
 Man-kou-fang
@@ -12616,7 +12601,6 @@ Manglon
 Mangnu
 Mangnyan
 Mangon
-Mangpu
 Mangpyaw
 Mangsan
 Mangtong
@@ -12629,8 +12613,6 @@ Manhai Nalin
 Manhein
 Manhsang
 Manhton
-Manhwe
-Mankat
 Mankaw
 Mankin
 Manking
@@ -12642,11 +12624,9 @@ Mankya
 Mankyaung
 Manlao
 Manli
-Manmaw
 Manmaw Kawng
 Manmawyang
 Manmong
-Manna
 Mannachingon
 Mannamset
 Mannwe
@@ -12659,7 +12639,6 @@ Manpawk
 Manpein
 Manpin, Manpang
 Manpön
-Mansan
 Mansang-long
 Mansanlik
 Mansawnpōng
@@ -12669,12 +12648,10 @@ Mansen
 Mansetku
 Mansi, Manzi
 Mansigale
-Mansám
 Mantalaing
 Mantawngpo
 Manteng
 Manthe
-Manti
 Mantun
 Manubum
 Manwe
@@ -12707,7 +12684,6 @@ Maraw Dawng
 Marazaing
 Mari
 Marikala
-Marim
 Maring
 Marlar
 Marle, မာလဲ
@@ -12722,7 +12698,6 @@ Marāngahtawng, Marān Ga
 Masa
 Masadaw
 Masakaw
-Masakawng
 Masathku Ga
 Masawpaw, Nā-sawpaw
 Masein
@@ -12736,6 +12711,7 @@ Maso
 Masoyein
 Masum Zup
 Masumbrum
+Masākawng
 Mat Cha
 Mata
 Mataing Sakan
@@ -12748,8 +12724,8 @@ Mataukyang
 Mataw
 Matawgyi
 Matayang
-Mathe
 Mathon
+Mathē
 Mati
 Mating
 Matingaing
@@ -12810,7 +12786,7 @@ Maungdaw, မောင်တောမြို့နယ်
 Maungde, Myaungdi
 Maungdetkon, Maungdetkoi
 Maungdi
-Maungdon, Maung Tone
+Maungdôn, Maung Tone
 Maunggaw
 Maunggawgan
 Maunggon
@@ -12896,7 +12872,7 @@ Mawkhi
 Mawkhkamhpu
 Mawkkalat
 Mawkmai, Hawk Mai, Maukmai, Maukmè
-Mawkngasang
+Mawkngāsang
 Mawkodo, Mawkedo
 Mawksam
 Mawksi-ri
@@ -12953,7 +12929,6 @@ Mawzum
 Maya-in
 Mayagan
 Mayaman
-Mayan
 Mayan-Anauk
 Mayan-ashe
 Mayan-in
@@ -12964,12 +12939,12 @@ Mayanchaung
 Mayandaung
 Mayandaung Auk, Ma Yan Taung Lower
 Mayangale
-Mayangon, Ma Yan Khon
 Mayangwa
 Mayangwin
 Mayangyaung
 Mayangyi
 Mayangyin
+Mayangôn, Ma Yan Khon
 Mayanlam
 Mayanmyaung
 Mayanmyaunggale, Mayanneyaung
@@ -12984,8 +12959,8 @@ Mayawpoli
 Mayeik
 Mayin
 Mayingin
-Mayingon
 Mayingyigan
+Mayingôn
 Mayinla, Mayinhla
 Mayinlon
 Mayo Basti
@@ -13078,14 +13053,12 @@ Mee Zar Chaung
 Mega
 Megadi
 Megahta
-Megala
 Megalahpo
 Megalaw
 Megali
 Megayet
 Mege
 Megingyaung
-Megon
 Megya
 Megyaung
 Megyaw
@@ -13171,7 +13144,6 @@ Memathaw
 Memauk
 Meme
 Memezu, Mèmizu
-Memyaung
 Mendimyaung, Mondlmyaung, Muntimyaung
 Mene-kwin
 Meng Kong
@@ -13181,7 +13153,6 @@ Mengu
 Menshaw
 Menyaw
 Menyuhta
-Menēgon
 Menēgonchaungbya
 Menēgonhta
 Meozan
@@ -13196,11 +13167,9 @@ Mepawhta
 Mepawkhi
 Mepli
 Meplokhi, Mèpatoki
-Mepok
 Meponkhi, Mèpônki
 Mepu
 Meriao
-Mesari
 Meseik, Meseik Ashe
 Mesenan
 Mesigon
@@ -13248,7 +13217,6 @@ Metsameik
 Metset
 Meungtung
 Mewado
-Mewaing
 Mewang
 Mewekhi
 Meyin
@@ -13258,17 +13226,15 @@ Meyongyi
 Meywa
 Meywagyun
 Meza
-Mezali, Mexali, Mezaliywa
 Mezali-myaung
 Mezalibin
 Mezalidan
 Mezalidaw
 Mezaligan
 Mezaligin
-Mezaligon
 Mezaligwe
 Mezaligyaung
-Mezaligyin
+Mezaligôn
 Mezalikwin
 Mezalun
 Mezataw, Mezadawa
@@ -13317,7 +13283,6 @@ Migathit
 Migaukpin
 Migyaung
 Migyaung Te
-Migyaung-aing
 Migyaung-in
 Migyaung-u
 Migyaungaing
@@ -13351,9 +13316,9 @@ Milamyaung
 Milauk
 Milaungbya, Mee Laung Hpyar
 Milaungbyin
-Milaunggon, Milaunggyaung
 Milaunggwin
 Milaunggyun
+Milaunggôn, Milaunggyaung
 Milaungkwin
 Milaungon
 Milok
@@ -13476,7 +13441,7 @@ Minma, Minma East
 Minmanaing
 Minn Kyo, Mingyun
 Minn Tee
-Minnannwè, Minanwè
+Minnannwè, Minanwe
 Minnyogon
 Minpalaung
 Minseikpyin
@@ -13571,13 +13536,12 @@ Moe Taung
 Moe Tein Pyin, Modeinbyin
 Mogan
 Moganein
-Mogaung, Mogoung, မိုးကောင်းမြို့နယ်
 Mogaungsu, Mogaungzu
 Mogaungyi, Mogaunggyi
 Mogo-atwinywa, Mokho-atwinywa
 Mogok, Magok
 Mogu
-Mogwe
+Mogwē
 Mogyi
 Mogyin
 Mogyo
@@ -13659,7 +13623,6 @@ Monat
 Monatkon
 Monbaung
 Monbaungywa
-Monbin
 Monbyin
 Monchaung
 Monda
@@ -13685,7 +13648,6 @@ Monglon
 Mongngaw
 Mongnoi
 Mongnwi
-Mongon, Mongor
 Mongpai
 Mongpong
 Mongpya
@@ -13816,7 +13778,7 @@ Mukkaung
 Muko
 Mukwe
 Mukyaw
-Mule
+Mulè
 Mum
 Mumhkamlong
 Mun Daunt
@@ -14011,9 +13973,9 @@ Myaukhmyagon
 Myaukhmyaik
 Myaukkaik
 Myaukkaing
-Myaukkon
 Myaukkwinbyu
 Myaukkyut
+Myaukkôn
 Myaukle
 Myauklokkon
 Myauklokpin, Myauklakpin
@@ -14142,15 +14104,14 @@ Myemigon
 Myemun
 Myemyo Auk
 Myendu
-Myene
 Myenet
 Myenettaung
 Myenga
 Myeni
 Myenichaung
 Myenidaung
-Myenigon, Myaynigone, Myenigen, မြေနီကုန်းလမ်းဆုံ
 Myenigonywathit
+Myenigôn, Myaynigone, Myenigen, မြေနီကုန်းလမ်းဆုံ
 Myenikwin
 Myenisho
 Myenite
@@ -14158,6 +14119,7 @@ Myenka
 Myenphyu, Menphyo
 Myenu
 Myenu-kyuu
+Myenè
 Myepadon
 Myepalin
 Myese-aing
@@ -14184,7 +14146,7 @@ Myetsanni, Myetsan
 Myetset
 Myetthigyin
 Myetto
-Myetye, Myak Yai
+Myetyè, Myak Yai
 Myewa
 Myeye
 Myeyin
@@ -14354,19 +14316,18 @@ Myodaung
 Myodin
 Myogaing
 Myogintha
-Myogon
 Myogwin
 Myogya
 Myogyan
 Myogyaung
 Myogyi
 Myogyigon
+Myogôn
 Myohaung
 Myohla
 Myolalin, Myolulin, Myotulin
 Myoma
 Myomi
-Myonbyin
 Myotaung
 Myotha, Myothia
 Myothit, Myathit, Myothi, မြို့သစ် မြို့နယ်
@@ -14382,6 +14343,7 @@ Myttha, Myitha
 Myukhpyaw
 Myè-taing-htaru
 Myèngan
+Myônbyin
 Myāsa
 Màgaung, Mègaung
 Mànkàng
@@ -14405,19 +14367,24 @@ Mè-hsa-tè, Wan Lum
 Mè-o
 Mèbalan
 Mèdin
+Mègala
+Mègon
 Mèhsem
 Mèhung
 Mèkan
 Mèkwabya
 Mèlako-alè
 Mèlako-auk
+Mèmyaung
 Mèmyewin, Min-yewin
 Mèphaung Atet, Mephaung, Mèpaung Atet
 Mèphaung-bya, Mèpaung-bya
 Mèphaungwa, Mèpaung-gwa
+Mèpok
 Mèpok Ale, Mèbôk Adet, Mèbôk Alè
 Mèpok Atet, Mēbok
 Mèsali
+Mèsari
 Mèsiki
 Mèsè Ale
 Mèsè Atet, Mèsè
@@ -14428,10 +14395,16 @@ Mètharu
 Mètharukhi
 Mèthaungwa
 Mèthayoki
+Mèwaing
+Mèzali, Mexali, Mezaliywa
+Mèzaligyin
 Mèzanbyu
 Mèzaungwa
+Môgaung, Mogoung, မိုးကောင်းမြို့နယ်
 Môksokon
 Môn-ywa
+Mônbin
+Môngôn, Mongor
 Mônnyin
 Mônthwin
 Möng Awng
@@ -14439,18 +14412,16 @@ Möng Awt
 Möng Fan, Monf Fan
 Möng Ha
 Möng Hai
-Möng Hang
 Möng Hawm, Mong Hawn
 Möng Heng
-Möng Het
 Möng Hka-no
-Möng Hkak
 Möng Hkan
 Möng Hkang
 Möng Hkawn
 Möng Hkawng
 Möng Hko
 Möng Hkok
+Möng Hkāk
 Möng Hpen
 Möng Hpi
 Möng Hpāyāk, Maingbyat, Meng-pen-ma
@@ -14468,7 +14439,9 @@ Möng Htön, Mong Htong
 Möng Htā-lāng, Möng Hta Long
 Möng Htāng, Möng-Htāno
 Möng Htāngpongsā-sē
+Möng Hāng
 Möng Hē
+Möng Hēt
 Möng Hō-pūng
 Möng It
 Möng Ka
@@ -14588,6 +14561,7 @@ Mā Shio
 Mā-udaw
 Mā-wa
 Māchulo
+Mādang
 Mādangyang
 Mādon
 Māge
@@ -14599,8 +14573,10 @@ Māk-mon
 Māk-monghsung
 Māk-na
 Mākhkinu
+Māklāng
 Mākmang
 Mākmönghkam
+Mān
 Mān Ai
 Mān Ai-hkang
 Mān Ang
@@ -14622,12 +14598,14 @@ Mān Gin
 Mān Hai
 Mān Hang
 Mān Hathseng
+Mān Hawn
 Mān Hawng
 Mān Hawnglük
 Mān Heng
 Mān Hin
 Mān Hio
 Mān Hitmawng
+Mān Hka
 Mān Hkai
 Mān Hkam
 Mān Hkamtan
@@ -14667,7 +14645,6 @@ Mān Ho-nawng
 Mān Ho-ngeng, Man-ho-ngang
 Mān Ho-nim
 Mān Ho-pang, Mān Ho-gang
-Mān Ho-pūng
 Mān Ho-si
 Mān Ho-tawm
 Mān Ho-ti
@@ -14735,6 +14712,7 @@ Mān Hsuphio, Man Hsuphle
 Mān Hsēn
 Mān Hsūmhpü
 Mān Hta-lwa
+Mān Htam
 Mān Htammē-hpung
 Mān Htawk
 Mān Hto
@@ -14752,6 +14730,7 @@ Mān Hè
 Mān Hō-hpa
 Mān Hō-hping
 Mān Hō-la
+Mān Hō-pūng
 Mān Hō-tung
 Mān I
 Mān Jak
@@ -14760,11 +14739,9 @@ Mān Ka-lao
 Mān Kai
 Mān Kalu
 Mān Kan
-Mān Kang
 Mān Kangmöng, Möng Kong Mun
 Mān Kao, Mān Kau
 Mān Kapna
-Mān Kat
 Mān Katkau
 Mān Kaw-leng
 Mān Kawn-yè, Mān Kawa-ye
@@ -14779,14 +14756,14 @@ Mān Kawnghkam
 Mān Kawnghsa
 Mān Kawnghsang
 Mān Kawnghsung
-Mān Kawnghung
+Mān Kawnghūng
 Mān Kawngkaw
 Mān Kawngke
 Mān Kawngkwa
 Mān Kawnglem
-Mān Kawngleng
 Mān Kawnglet
 Mān Kawnglong
+Mān Kawnglēng
 Mān Kawngmu
 Mān Kawngnim
 Mān Kawngning
@@ -14801,6 +14778,7 @@ Mān Ke-hkang
 Mān Ke-hkūn
 Mān Keawn
 Mān Kham
+Mān Kin
 Mān Kin-yu
 Mān Kio
 Mān Kiu
@@ -14808,6 +14786,7 @@ Mān Kiu-hkawng
 Mān Kiu-htang
 Mān Ko-kai-htang
 Mān Kok
+Mān Kong
 Mān Kop
 Mān Kun
 Mān Kung
@@ -14821,7 +14800,9 @@ Mān Kyan
 Mān Kyawng
 Mān Kyin
 Mān Küt
+Mān Kāng
 Mān Kānhtang
+Mān Kāt
 Mān Kēnghkōngkang
 Mān Kōngyōng
 Mān Kūmka
@@ -14835,6 +14816,7 @@ Mān Lakhka, Mān Lakka
 Mān Lakmöng
 Mān Lakteng
 Mān Lang-ta
+Mān Lao
 Mān Lao-hsenzai
 Mān Lao-kao
 Mān Lao-lai
@@ -14854,6 +14836,7 @@ Mān Lihsaw
 Mān Lim
 Mān Lin
 Mān Linlēng, Man Lingleng
+Mān Loi
 Mān Loi Hseng
 Mān Loi-ha
 Mān Loi-haw
@@ -14894,10 +14877,10 @@ Mān Lu
 Mān Lu-hsaw
 Mān Lu-nö
 Mān Lung
-Mān Lunghtang
 Mān Lungkeng
 Mān Lū-taü
 Mān Lūkmu
+Mān Lūnghtang
 Mān Lūngmi
 Mān Ma-ha-pangku
 Mān Ma-hsan
@@ -14920,6 +14903,7 @@ Mān Maktoi
 Mān Makwan
 Mān Manghseng
 Mān Mao
+Mān Mau
 Mān Maw
 Mān Maw-wēt
 Mān Mawhping
@@ -14931,7 +14915,6 @@ Mān Mawmang
 Mān Mawn, Ma Mawn
 Mān Maü
 Mān Mek
-Mān Men
 Mān Ming
 Mān Mom
 Mān Mon
@@ -14947,8 +14930,10 @@ Mān Myen
 Mān Myetme
 Mān Mè-le
 Mān Müt
+Mān Mēn
 Mān Mūhsö
 Mān Mūngme
+Mān Na
 Mān Na-ang
 Mān Na-aw
 Mān Na-hang
@@ -15061,15 +15046,15 @@ Mān Nawnghsampu
 Mān Nawngkang
 Mān Nawnglao
 Mān Nawngle, Mān Numlē
-Mān Nawngleng
 Mān Nawngloi
-Mān Nawnglong
+Mān Nawnglēng
+Mān Nawnglōng
 Mān Nawnglūm
 Mān Nawngmawn
 Mān Nawngmo
 Mān Nawngmon
-Mān Nawngpat, Man Nawngpot
 Mān Nawngping
+Mān Nawngpāt, Man Nawngpot
 Mān Nawngsang
 Mān Nawngtao
 Mān Nawngtum
@@ -15104,7 +15089,6 @@ Mān Pa-ra
 Mān Pai-wang
 Mān Pak
 Mān Pakhse
-Mān Paklōng
 Mān Pan
 Mān Pang-tap
 Mān Pang-ya, Pang Ya
@@ -15188,6 +15172,8 @@ Mān Punghsoi
 Mān Punghtun
 Mān Pwe
 Mān Pyen
+Mān Pāklōng
+Mān Pāng
 Mān Pānghpa
 Mān Pānghpek
 Mān Pānghūng
@@ -15224,11 +15210,11 @@ Mān Sao-la
 Mān Sap
 Mān Sat
 Mān Sau-hpak
+Mān Sawk
 Mān Sawn
 Mān Sawng
 Mān Sawngmawng
 Mān Sawnmen
-Mān Se
 Mān Se-kam
 Mān Se-le
 Mān Sekun, Tawai
@@ -15240,10 +15226,11 @@ Mān Sonmawn
 Mān Su-hsu
 Mān Sun
 Mān Sung
-Mān Sut
 Mān Sün
 Mān Süng
+Mān Sē
 Mān Sūm
+Mān Sūt
 Mān Ta
 Mān Ta-hkang
 Mān Ta-hsu-sen, Man Ta-hsu-san
@@ -15272,6 +15259,7 @@ Mān Tawniu
 Mān Tawp
 Mān Tawpang
 Mān Taü
+Mān Tha
 Mān The
 Mān Thet
 Mān Ting
@@ -15279,18 +15267,18 @@ Mān Tingchi, Man Tingehi
 Mān Tingtawng
 Mān To-kawng
 Mān To-la
-Mān Ton
 Mān Tong
 Mān Tra
 Mān Tumnawk
-Mān Tun
 Mān Twi-twi-zai
 Mān Tün
 Mān Tünmong
 Mān Tāknai
+Mān Tōn
 Mān Tōn-lōm, Man Ton-lam
 Mān Tōngkep
 Mān Tūmhseng
+Mān Tūn
 Mān Tūng
 Mān U-hpe
 Mān Umhküng
@@ -15313,7 +15301,6 @@ Mān Wēngtaü, Man Wengtai
 Mān Ya
 Mān Yahpu
 Mān Yan
-Mān Yang
 Mān Yanghtai
 Mān Yawn
 Mān Yawnghe
@@ -15325,6 +15312,7 @@ Mān Yen
 Mān Yin
 Mān Ying
 Mān Yut
+Mān Yāng
 Mān Yūngmaw, Man Yongmaw
 Mān Yūngprang
 Mān Ükpōk
@@ -15335,7 +15323,7 @@ Mān-ai
 Mān-aw
 Mān-hpa
 Mān-kao-lone
-Mān-kao-long
+Mān-kao-lōng
 Mān-kau-lōng
 Mān-kau-na-hpwi
 Mān-kwam-mān-tao
@@ -15358,16 +15346,19 @@ Māngau
 Māngchibuk
 Māngjātām
 Mānglang
+Māngpu
 Māngpung
 Mānhkai
 Mānhtinloi
 Mānhtām
+Mānhwe
 Mānkao-poktao
 Mānkea-li
 Mānkon
 Mānkyat
 Mānkyawng
 Mānkyè-èk
+Mānkāt
 Mānlinta
 Mānlisāw
 Mānloihai
@@ -15379,27 +15370,35 @@ Mānmai
 Mānmakhan, Māmakhan
 Mānmao
 Mānmau
+Mānmaw
 Mānmawn
 Mānmaö
 Mānmon
+Mānna
 Mānnam Hulian
 Mānnim
 Mānpraw
 Mānpung
 Mānsum, Mansun
+Mānsām
+Mānsān
 Māntap
 Māntawngkyi
+Mānti
 Mānton
 Māntonhe
 Mānwa
+Mārim
 Māru Wahtang
 Māsāmaw
 Mātha
+Māyan
 Mē-honghka-yeng
 Mē-ki-li
 Mēkyet
 Mēng-u
 Mēntang
+Mēnēgon
 Mēpupya
 Mēthilagan
 Mēthu
@@ -15409,6 +15408,7 @@ Mētrukhi, Mètayuki
 Mīdaik
 Mīdāi
 Mīgogan
+Mīgyaung-aing
 Mīthwephok
 Mōng Tong
 Mōnghsong
@@ -15444,32 +15444,20 @@ Na Yat Taung
 Na Ywe Taw, Naywedaw
 Na-Koi
 Na-ai-hkant
-Na-aw
 Na-awn, Yathanchaung
-Na-ha
-Na-hi
-Na-hin
-Na-hio, Nahio Hkai-hio
-Na-hka
 Na-hka-awn
 Na-hkai
 Na-hkak
-Na-hkam
 Na-hkang
 Na-hkau-long
 Na-hkem
 Na-hko
-Na-hok
 Na-hon
 Na-hpa-chi
-Na-hpai
 Na-hpakhi
 Na-hpan, Ngeklet
 Na-hpawk
 Na-hsa-mu
-Na-hsai, Nahhsai
-Na-hsan
-Na-hsang
 Na-hsaw
 Na-hse, Ha-hse
 Na-htun
@@ -15477,38 +15465,25 @@ Na-hung
 Na-hwe
 Na-kan
 Na-kao
-Na-kat
 Na-kaw, Na-khaw
 Na-kawm
 Na-kawn
 Na-kawtkon, Na-kawthon
-Na-keng
 Na-keng-awn
 Na-kenglōng
 Na-kyaung-kham, Na-kyong-kham
 Na-kye
 Na-kyeh
 Na-lak-wo
-Na-lao
-Na-law
 Na-le-man-loi
-Na-leng
-Na-lin
-Na-long, Ma Long
 Na-ma-hio
 Na-mahpi
-Na-makkaw, Nammakaw
 Na-maklang
-Na-mawn
-Na-mon
-Na-mong
 Na-monlōng, Na-monglong
 Na-mop, Ma Mop
 Na-mu-htwai
-Na-mun
 Na-möng
 Na-na
-Na-nai
 Na-namhpa
 Na-nan
 Na-nauk
@@ -15519,48 +15494,33 @@ Na-nem
 Na-new
 Na-nging
 Na-ngu
-Na-nio
-Na-niu
-Na-noi
 Na-nwe
 Na-ong
-Na-pan
 Na-paw
-Na-pawng
 Na-pen
 Na-peng
 Na-pin
-Na-pok
-Na-pong
 Na-pwai
 Na-pöt
 Na-sai
-Na-sang, Na-song
-Na-sawk
 Na-si-ri
 Na-sonya
 Na-ta-kyaik
 Na-tai
-Na-ti
 Na-tit
 Na-tu
 Na-tung
-Na-ung
 Na-wa
 Na-wai
-Na-wi
 Na-wo
 Na-ya-wai, Naya-wa
 Na-yai
 Na-yawng
-Na-yok
 Naba
 Nabatchaung
 Nabawkyo
-Nabebin
 Nabedan
 Nabegon
-Nabehla
 Nabelon
 Nabet
 Nabet-aing
@@ -15578,9 +15538,11 @@ Nabugyin, Na Bu Kyin, Nwar Bu Kyin
 Nabule
 Nabumyaung
 Nabung
+Nabèbin
 Nabèbinhla
 Nabèdôn
 Nabègyu
+Nabèhla
 Nabēbinzeik
 Nachangkawng
 Nache
@@ -15622,7 +15584,6 @@ Nahmaunggya
 Nahpaung, Wahpaung
 Nahpaw
 Nahpong
-Nahsai
 Nahsang
 Nahtawn
 Nahtogon
@@ -15641,10 +15602,8 @@ Najang
 Najau
 Nakala
 Nakan
-Nakang
 Nakauhap
 Nakaungbauk
-Nakha
 Nakhaigale
 Nakhaigyi
 Nakhanmwetheik
@@ -15768,7 +15727,6 @@ Nam-ün
 Namakauk
 Namaklwe
 Namakwan, Nā-mankwan
-Namakyaing
 Namalin
 Namalut
 Namamo
@@ -15842,10 +15800,10 @@ Namhpan
 Namhpanwaik
 Namhpat
 Namhpayang
-Namhpe
 Namhpi-byan
 Namhpi-lin
 Namhpu
+Namhpè
 Namhpük
 Namhsa
 Namhsa-ning
@@ -15874,7 +15832,6 @@ Namhtam
 Namhtan
 Namhtawm, Namhtawn
 Namhtun
-Namhu, Nanmahu
 Namhu Pakkun
 Namhu-hai-hseng
 Namhu-hpa-lang
@@ -15968,16 +15925,15 @@ Nammawhpilu
 Nammawhsamhkan
 Nammawhsawm
 Nammawhsenghkam
-Nammawhsom
 Nammawhsum
 Nammawhsun
+Nammawhsōm
 Nammawkan
 Nammawkom, Nammaukom
 Nammawkēng
 Nammawlek
 Nammawleng
 Nammawloi
-Nammawlong
 Nammawlöng
 Nammawmakhing
 Nammawmi
@@ -16022,7 +15978,6 @@ Namnyio
 Namnyu
 Namnā
 Namolai
-Namon
 Namozin
 Nampa
 Nampa Chi
@@ -16037,7 +15992,6 @@ Nampa-tung
 Nampadaung
 Nampade
 Nampagan
-Nampahok
 Nampai
 Nampak
 Nampalan
@@ -16049,7 +16003,6 @@ Nampamun
 Nampan
 Nampandet
 Nampangkai
-Nampangon
 Nampat
 Nampatti, Nampatli
 Nampaung
@@ -16094,7 +16047,6 @@ Namsabein
 Namsadon
 Namsai
 Namsai Hkau
-Namsam
 Namsamhu
 Namsan
 Namsang
@@ -16131,8 +16083,6 @@ Namtawng
 Namtawngloi
 Namtawt
 Namteinna
-Namtek
-Namteng
 Namthun
 Namti
 Namtin
@@ -16148,10 +16098,11 @@ Namtun
 Namtunglong
 Namtwan
 Namtwei
+Namtēk
+Namtēng
 Namudwe
 Namun
 Namuta
-Namwa
 Namwai
 Namwan
 Namwanhsan
@@ -16161,6 +16112,7 @@ Namwen
 Namwo
 Namwoi
 Namwolam
+Namwā
 Namya
 Namyamhsai
 Namyau
@@ -16235,7 +16187,6 @@ Nangatkyun
 Nangaung
 Nangaw
 Nangchang
-Nangin
 Nangkashwe
 Nangkawng
 Nangking
@@ -16316,7 +16267,6 @@ Nanthadaung
 Nanthalan
 Nanthalethe
 Nanthanyit
-Nanthe
 Nanthi
 Nanthun
 Nantuk
@@ -16342,16 +16292,15 @@ Nanzitke
 Napadan
 Napang Ga
 Napek
-Napeng
 Napin
 Napinle
 Naplawkaw, Netlawbaw
 Napok
 Napoko, Natpoko
 Napon
-Napong
 Naprawn
 Napyabein, Napyahein
+Napōng
 Nar Aum
 Nar Ku
 Nar Kwei
@@ -16412,11 +16361,11 @@ Natha
 Nathabu, Nathahu
 Nathangwin
 Nathat
-Nathe
 Nathkaw
 Nathkokyin
 Nathmaw, Natmhaw
 Natho
+Nathè
 Nati
 Natkadaw
 Natkan, Natkaw
@@ -16424,12 +16373,12 @@ Natkan-U
 Natkaungzin
 Natkayaing
 Natkin
-Natkon
 Natkyauk
 Natkyi
 Natkyidaung
 Natkyigon, Natkyingon
 Natkyun
+Natkôn
 Natlabo Myauk, Natlabo
 Natlaunggyi, Natlaung
 Natlen
@@ -16453,7 +16402,6 @@ Natpalindangyin
 Natpe
 Natpyin
 Natsarin
-Natse
 Natsegan
 Natset
 Natsin
@@ -16462,6 +16410,7 @@ Natsingwin
 Natsingyi
 Natsonhmaw, Nat Sone Hmaw
 Natsu
+Natsè
 Nattaga
 Nattalin
 Nattamin
@@ -16709,7 +16658,6 @@ Nawnghang
 Nawnghawn
 Nawnghe
 Nawnghena
-Nawngheng, Nawnheng
 Nawnghi
 Nawnghin
 Nawnghio
@@ -16756,6 +16704,7 @@ Nawnghwai
 Nawnghwe
 Nawnghwi
 Nawnghök
+Nawnghēng, Nawnheng
 Nawngjai Ga
 Nawngka
 Nawngkai
@@ -16832,7 +16781,6 @@ Nawngpa-tek
 Nawngpa-yin
 Nawngpak
 Nawngpan
-Nawngpang
 Nawngpat
 Nawngpawkwi
 Nawngpe
@@ -16851,12 +16799,12 @@ Nawngput
 Nawngpwe
 Nawngpyi
 Nawngpā-kawng
+Nawngpāng
 Nawngsa Wat
 Nawngsa-lüm
 Nawngsai
 Nawngsam
 Nawngsamhpo, Nawng san hpo
-Nawngsang
 Nawngsankyin
 Nawngsansaing
 Nawngsansi
@@ -16868,6 +16816,7 @@ Nawngsem
 Nawngshu
 Nawngsom
 Nawngsong
+Nawngsāng
 Nawngta-pan
 Nawngtahkaw
 Nawngtao
@@ -16889,11 +16838,11 @@ Nawngwo
 Nawngwop
 Nawngya Hsai
 Nawngyai
-Nawngyang
 Nawngyau
 Nawngyun
 Nawngywe
 Nawngywi
+Nawngyāng
 Nawngyāsai
 Nawnoi
 Nawnpakhi
@@ -17083,7 +17032,6 @@ Ngakyedauk
 Ngala
 Ngalagyit
 Ngalang
-Ngalang Ga
 Ngalauktet
 Ngalaungbyin
 Ngalayang
@@ -17159,7 +17107,6 @@ Ngapathon
 Ngapaw, Nga Hpaw
 Ngapayin, Dabayin Debayin Depayin Tabayin
 Ngape, ငဖဲ မြို့နယ်
-Ngape-in
 Ngapegyaung
 Ngapeinchaung
 Ngapeinthale
@@ -17172,7 +17119,6 @@ Ngapizeik
 Ngapo
 Ngapogale
 Ngapogyi
-Ngapongon
 Ngaprang
 Ngapu-in
 Ngapun
@@ -17200,6 +17146,8 @@ Ngapyinchaung
 Ngapyugale
 Ngapyugyaung, Ngapyugaung
 Ngapywagyan
+Ngapè-in
+Ngapôngôn
 Ngar
 Ngar Bat Chaung
 Ngar Chaung Daunt
@@ -17355,6 +17303,7 @@ Ngôn Laung
 Ngôngyaung
 Ngöngsang
 Ngādingya
+Ngālang Ga
 Ngāmeye
 Nhawte A
 Nhemnokkyun, Nhemhokkyun
@@ -17473,7 +17422,6 @@ Nongti
 Nongtiyang
 Nonkyun, Nongyun
 Nonpala
-Nonywa
 Nopadaw
 Nopobi
 Nori
@@ -17559,7 +17507,6 @@ Nwebat
 Nwebyin
 Nwedan
 Nwegauk
-Nwegwe, Nwèkwe
 Nwegyo
 Nwei Taw
 Nwekhwe
@@ -17571,6 +17518,7 @@ Nwenyein
 Nwetanie
 Nwi Atet
 Nwè-hsem
+Nwègwe, Nwèkwe
 Nwāzu, Nwar Su
 Nwē-gu
 Nyakyagaw
@@ -17692,9 +17640,9 @@ Nyaungbinaing, Nyaunghinaing
 Nyaungbinainggon
 Nyaungbinchaing
 Nyaungbindat
-Nyaungbinde
 Nyaungbindo
 Nyaungbindwin
+Nyaungbindè
 Nyaungbinga
 Nyaungbingaing
 Nyaungbingaingzwe
@@ -17750,7 +17698,6 @@ Nyaunggan
 Nyaunggantha, Nyaungantha
 Nyaunggauk
 Nyaunggaw
-Nyaunggon
 Nyaunggwe
 Nyaunggyaing
 Nyaunggyat
@@ -17764,6 +17711,7 @@ Nyaunggyinbingon
 Nyaunggyingon
 Nyaunggyo
 Nyaunggyon
+Nyaunggôn
 Nyaunghinhla
 Nyaunghinzeik
 Nyaunghla
@@ -17874,7 +17822,10 @@ Nyun-gyaw
 Nyung-imnu
 Nyunt Pin
 Nàm-ho-hkan
+Nàmon
+Nákha
 Nákhálong
+Nônywa
 Nā Hawn
 Nā Hsam
 Nā Kawk
@@ -17885,21 +17836,33 @@ Nā Tat
 Nā Tawng
 Nā Wa
 Nā Wen
+Nā-aw
 Nā-chi Wam Tau
 Nā-chi-loi
+Nā-ha
 Nā-hai
 Nā-heng
+Nā-hi
 Nā-him
+Nā-hin
+Nā-hio, Nahio Hkai-hio
+Nā-hka
+Nā-hkam
 Nā-hkan
 Nā-hkan-li
 Nā-hken
 Nā-hki-lek
 Nā-ho
 Nā-hoi
+Nā-hok
 Nā-hong
+Nā-hpai
 Nā-hpot
 Nā-hpā-e
+Nā-hsai, Nahhsai
 Nā-hsam
+Nā-hsan
+Nā-hsang
 Nā-hsawm
 Nā-hse-lik
 Nā-hsi-lik
@@ -17908,59 +17871,85 @@ Nā-hsio
 Nā-hsu
 Nā-in
 Nā-ka
-Nā-kang
+Nā-kat
 Nā-kawn-kong-nyaung, Nā-hawnkongnuaung
+Nā-keng
 Nā-ko
 Nā-kun
 Nā-kwai
 Nā-kyeng
 Nā-kè
+Nā-kāng
 Nā-kōk
 Nā-la
 Nā-lak
 Nā-lang
+Nā-lao
+Nā-law
 Nā-lawt
 Nā-le
+Nā-leng
+Nā-lin
 Nā-lip
 Nā-lo
 Nā-loi
 Nā-lom
+Nā-long, Ma Long
 Nā-lu
 Nā-lun
 Nā-mak-wau
 Nā-makhin
 Nā-makhkaw
+Nā-makkaw, Nammakaw
 Nā-mang
+Nā-mawn
 Nā-mawng
 Nā-mi
 Nā-mo
+Nā-mon
+Nā-mong
+Nā-mūn
+Nā-nai
 Nā-nang
 Nā-nao
 Nā-ngawk
 Nā-ning
+Nā-nio
+Nā-niu
+Nā-noi
+Nā-pan
 Nā-pang
 Nā-pangkao
+Nā-pawng
 Nā-phai, Na-Pai
+Nā-pok
+Nā-pong
 Nā-pot
 Nā-pwe
 Nā-pöng
 Nā-pāngwo
 Nā-sam
+Nā-sang, Na-song
 Nā-sanhkawnmai
+Nā-sawk
 Nā-tang
 Nā-tawn
 Nā-tawng
 Nā-te-sān
+Nā-ti
 Nā-tong
 Nā-u
 Nā-un
+Nā-ung
 Nā-wawn
+Nā-wi
 Nā-wing
 Nā-ya
 Nā-yan
 Nā-yang
 Nā-yawn
 Nā-yeng
+Nā-yok
 Nā-ün
 Nāhai, Nāha
 Nāhang
@@ -17972,25 +17961,36 @@ Nāhpai
 Nāhpawk
 Nāhpeng
 Nāhpi
+Nāhsai
 Nāhsehsawk
 Nāhwè
 Nākaw
 Nākio
 Nākun
 Nākyeng
+Nākāng
 Nālinsain
 Nāloi
 Nālongpuheng
+Nāmakyaing
 Nāmgyidaung
+Nāmhū, Nanmahu
+Nāmmawlong
 Nāmong
+Nāmpāhôk
+Nāmpāngon
+Nāmsām
 Nāmtüng-awn
 Nāmya Ra
 Nāmyong
 Nānau
+Nāngin
 Nānim, Nanin
 Nānio
+Nānthe
 Nāong
 Nāpang
+Nāpeng
 Nāsalawng
 Nātawng
 Nāwang
@@ -18113,12 +18113,10 @@ Okhpozaung, Oke Hpoe Zaung
 Okkan
 Okkin
 Okkyi
-Okkyin
 Okkyut
 Okkywet
 Okmundaw
 Okmya
-Okpo
 Okpo-aing
 Okpogyauk
 Okpogyaung
@@ -18131,7 +18129,6 @@ Oksatwin
 Okshitgon
 Okshithlain, Oke Shit Hlaing
 Okshitkin
-Okshitkon, Okshithon, Okshitko
 Okshitkwin
 Okshitkyi
 Okshitmyaung, U Shit Myaung
@@ -18145,7 +18142,6 @@ Oktaung
 Oktaya
 Okthema
 Oktoksu
-Oktwin
 Oktwingon
 Old Lashio, Lashiogyi
 Omason
@@ -18159,14 +18155,13 @@ Omtet
 Omye
 Omyedu
 Omyedwin, Omyadg, Omyed, Onmadwin
-Omyegon
+Omyegôn
 On Dwei
 On-et
 On-ma-thi
 Onbauk
 Onbaung
 Onbet
-Onbin, Onbinywa
 Onbingon
 Onbingyan
 Onbingyaung, Ubokchaung
@@ -18174,13 +18169,11 @@ Onbinhin
 Onbinkwin
 Onbinmyaung
 Onbinzeik
-Onbinzu, Ohn Pin Su
 Onbwedaw
 Onbyin, Onbyinkye
 Onbyit
 Ondabin
 Ondaing
-Ondaw, Ondau
 Ondawzu
 Ondazin
 Ondin
@@ -18211,7 +18204,6 @@ Onhnegyawdan
 Onhnegyin
 Onhnezan
 Onhnèbin
-Onhnèbok, Ohnnhebok
 Onhnèye
 Onhnēgon, Ohn Hne Kone
 Onka-yaing
@@ -18317,7 +18309,6 @@ Pa-ka-lun
 Pa-kan
 Pa-kang
 Pa-kawlam
-Pa-ke
 Pa-keng
 Pa-kwe
 Pa-kyè
@@ -18333,8 +18324,8 @@ Pa-môn
 Pa-möng
 Pa-na
 Pa-nga
-Pa-no-daw
 Pa-nung
+Pa-nö-daw
 Pa-nöng, Mu-hso Pā-nong
 Pa-pan
 Pa-po
@@ -18346,10 +18337,10 @@ Pa-sao-sin
 Pa-sau, Hpa-saw
 Pa-tap
 Pa-tawng
-Pa-tep
 Pa-to
 Pa-tüng
 Pa-tāunghkēm
+Pa-tēp
 Pa-waing
 Pa-we
 Pa-yang
@@ -18359,7 +18350,6 @@ Pabaing
 Pabaungdin
 Pabein
 Pabewa
-Pabezu
 Pabindaik
 Pablao
 Paboh
@@ -18370,7 +18360,7 @@ Pabwi
 Pabyin
 Pabyok
 Pabèbo
-Pachaung
+Pabèzu
 Pachia Chai
 Pachinchi
 Pachwin
@@ -18397,9 +18387,9 @@ Padaukchaung
 Padaukhla
 Padaukkan
 Padaukkhi
-Padaukkon, Badaukkon
 Padaukkonywa
 Padaukkyaw
+Padaukkôn, Badaukkon
 Padaukngok
 Padaukpin
 Padaung
@@ -18461,16 +18451,15 @@ Pah-eh
 Pahalo Sakan
 Pahe
 Pahedo
-Pahka
 Pahle Atet
 Pahle Auk
 Pahlè
-Pahok
 Pahpa, Hpapa
 Pahsak
 Pahtodawgyi
 Pahtwe
 Pahu
+Pahôk
 Pai-htang
 Pai-yüho
 Paiangaing
@@ -18589,7 +18578,6 @@ Palawng
 Palawng Kawng
 Palawng-gahtawng
 Palaya
-Pale
 Pale Ku
 Paledan
 Palegu
@@ -18622,6 +18610,7 @@ Palutha
 Paluzawa
 Palwe, Balwe
 Palwesho
+Palè
 Palôk
 Pamai
 Pamalon
@@ -18755,7 +18744,6 @@ Pang-hku
 Pang-hsao
 Pang-hsi-hsin
 Pang-htawng
-Pang-ing
 Pang-kawk, Pānghawk
 Pang-kut
 Pang-kwai-htai
@@ -18763,17 +18751,14 @@ Pang-kyong
 Pang-lashio
 Pang-law
 Pang-lawn
-Pang-leng
 Pang-lông
 Pang-mo
-Pang-oi
 Pang-san
 Pang-sang Sakan
 Pang-wet
 Pang-ya-hkat
 Pang-ya-hkom
 Pang-yak
-Pang-yang
 Pang-yao-kang
 Pang-yap
 Pang-yawng
@@ -18797,31 +18782,24 @@ Pangdag
 Pangdām
 Pangetkon
 Panggo
-Panghai
 Panghai-yomlawt
 Panghang
 Pangheng
-Panghka
 Panghka Mān Mao
 Panghka-lwe
-Panghkam, Tanghkam
 Panghkan
-Panghkang
 Panghkaw
 Panghkawkwo
 Panghkawn
 Panghkem
 Panghkok
 Panghkum
-Panghkyem
 Panghok
 Panghomawng
-Panghpa
 Panghpa-mawng
 Panghpahpa
 Panghpakman
 Panghpakmöng
-Panghpat
 Panghpek
 Panghpit
 Panghpuk
@@ -18829,11 +18807,7 @@ Panghpya
 Panghsa
 Panghsa-möng
 Panghsa-se
-Panghsak
 Panghsan
-Panghsang
-Panghsapye
-Panghseng
 Panghseo
 Panghsi-nat
 Panghsim
@@ -18843,15 +18817,12 @@ Panghsè-hpak
 Panghsèngnang
 Panghta
 Panghtu-lin
-Panghung, Pānhung
 Panghwen
 Panghōng
 Pangka
 Pangka-nai
 Pangka-nya
 Pangkai
-Pangkan
-Pangkaw
 Pangkawk
 Pangkawkyang
 Pangkawleng, Pangkawlong
@@ -18860,33 +18831,22 @@ Pangkawng
 Pangkawp
 Pangke
 Pangke-tu
-Pangken
-Pangkeng
 Pangkiao
 Pangko
 Pangkot
 Pangku
 Pangkullaklai, Pāngkui-laklai
 Pangkunlong
-Pangkut
-Pangkwe
 Pangkwi-hpang
 Pangkyen
-Pangla
 Pangla-lao
 Panglai-hka
-Panglang, Punglang
-Panglao, Pang-lau
 Panglat, Hpanglat, Pāanglat
-Panglaw
 Panglei
 Panglem
-Pangleng
 Panglenlin
 Pangli
 Pangling
-Panglom
-Panglong
 Panglong Chai
 Panglu
 Panglung Chai
@@ -18898,43 +18858,29 @@ Pangmaileng
 Pangmakhe-leng
 Pangmakna
 Pangmawjang
-Pangmawn, Pangmawm
 Pangmit
 Pangmo
-Pangmong
 Pangmot
 Pangmual, Pangmoi, Pangmol
 Pangmun
 Pangmwe
 Pangmwi
-Pangmöng
-Pangna
 Pangnamdim
 Pangnamlong
-Pangnang
-Pangnawng
 Pangnawt
 Pangngang
-Pangnim
 Pangniu
-Pangnoi
 Pangnok, Pongnok
 Pangnyawng
 Pangokluk
-Pangon
 Pangonda
-Pangpao
-Pangpau
 Pangpau-long
-Pangpeng
 Pangpi
-Pangpu
 Pangpu-un
 Pangrang
 Pangsa
 Pangsa-lawp
 Pangsak
-Pangsam
 Pangsamhkam, Pang samkkam
 Pangsan
 Pangsang
@@ -18943,27 +18889,20 @@ Pangshau
 Pangsho
 Pangshwehlaw
 Pangshö
-Pangsong
 Pangsöng
 Pangta-hka
 Pangtan
 Pangtangnok
 Pangtap
 Pangtara, Pindaya
-Pangtawng
 Pangteng
 Pangthihkyē
 Pangthum
-Pangti
 Pangtom
-Pangtong
 Pangtui
-Pangtun
 Pangtā-nawng
-Pangu
 Panguta
 Pangva
-Pangwa
 Pangwa-sa
 Pangwai
 Pangwat
@@ -18971,7 +18910,6 @@ Pangwaum
 Pangwe
 Pangweng
 Pangwet
-Pangwo
 Pangwon
 Pangwun
 Pangwōng
@@ -18983,6 +18921,7 @@ Pangye
 Pangyet
 Pangying
 Pangzang
+Pangôn
 Panhaik
 Panhaik Ywathit
 Panhkam
@@ -19033,7 +18972,6 @@ Panseingbin
 Pansupe
 Pantabut, Tantabo
 Pantanaw, ပန်းတနော်မြို့နယ်
-Pantang
 Pantawi
 Pantawng
 Panteik, Pandeik
@@ -19047,6 +18985,7 @@ Pantin
 Pantin Sakan
 Panting
 Pantun
+Pantāng
 Panu
 Panun
 Panung
@@ -19127,7 +19066,7 @@ Pathichaung
 Pathin
 Pathit-gahtawng
 Pathwa
-Pathwe
+Pathwè
 Patkawki
 Patkyaw
 Patle
@@ -19196,12 +19135,12 @@ Paukkala, Pauktala
 Paukkan
 Paukkani, Pauk Kha Nee
 Paukkaung
-Paukkon
 Paukkon-ywa
 Paukkongale
 Paukkongyi
 Paukkwedaw
 Paukkyin
+Paukkôn
 Pauklan
 Pauklauk
 Pauklebin
@@ -19272,12 +19211,12 @@ Paungdawgyi
 Paungdawthi, Poungdawthi
 Paungdawthi Ywama
 Paungdawu
-Paungde, Paung-deh
 Paungdesu
 Paungdin
 Paungdo
 Paungdok
 Paungdu
+Paungdè, Paung-deh
 Paungga
 Paunggadaw
 Paunggan
@@ -19342,9 +19281,9 @@ Pawein
 Pawgan
 Pawhpoi
 Pawhtaw
-Pawk-ang
 Pawk-tai
 Pawk-wan-tok
+Pawk-āng
 Pawkadaung
 Pawkado
 Pawkadopo
@@ -19405,29 +19344,22 @@ Pay Taw Gyi
 Pay Taw Kone
 Paya, Payagi
 Paya-ngazu
-Paya-ngokto, Paya-ngokoto
 Paya-put
 Paya-tazu
 Paya-u
 Payabyan
-Payabyo, Hpa Yar Pyo
 Payabyu
-Payachaung
-Payadaung
 Payadaungywa, Hpa Yar Taung
 Payadu
 Payadwet
 Payagale
 Payagasu
-Payagon, Boyagôn, Buyagon
 Payagwin
-Payagyaung
-Payagyi, Hpa yar Gyi Su, Puyāgyi
-Payagyigon
 Payagyigwin, Payāgikwin
 Payagyigyaung
 Payagyin
 Payagyizu
+Payagôn, Boyagôn, Buyagon
 Payahmi
 Payahnazu, Paya-nasu
 Payahnitsu Ale, Payahnasu
@@ -19475,7 +19407,13 @@ Payut
 Payèzaw
 Payèzu, Payē
 Payā-ywa
+Payābyo, Hpa Yar Pyo
+Payāchaung
+Payādaung
 Payāgwin-yele
+Payāgyaung
+Payāgyi, Hpa yar Gyi Su, Puyāgyi
+Payāgyigōn
 Payāgyikôn
 Payāhla
 Payālan
@@ -19547,7 +19485,6 @@ Pegan
 Pegin
 Peginma
 Pegok
-Pegon
 Pegu
 Pegya
 Pegyaung
@@ -19555,6 +19492,7 @@ Pegyet
 Pegyi
 Pegyigon
 Pegyigyun
+Pegôn
 Pehkwin
 Pehmegon
 Pei Hlaw Hpo
@@ -19604,7 +19542,7 @@ Peingayetgyi
 Peingyaung
 Peingyaw
 Peinhnebin
-Peinhnegon
+Peinhnēgôn
 Peinin
 Peiningyi
 Peinkôn
@@ -19616,16 +19554,16 @@ Peinnebin Sakan
 Peinnebu
 Peinnedaik Taung
 Peinnedaik Taungthu
-Peinnedaw, Pemnēdaw
 Peinnegaing
-Peinnegon, Pemnegon
 Peinnegon Nanka
 Peinnegyaung, Peinnechaung, Peinnhechaung
+Peinnegôn, Pemnegon
 Peinnehkin
 Peinnekwin
 Peinnemyaung
 Peinnè
 Peinnè-bin
+Peinnēdaw, Pemnēdaw
 Peinnēgan, Pein Hne Kan
 Peinnēgyaung-awa
 Peinpein-atet
@@ -19640,8 +19578,8 @@ Peitswe
 Pekata
 Pekheng
 Pelaw Auk, Pelaw
-Pele
 Pelo, Pelo-ywa
+Pelè
 Pemakan
 Pemaung
 Pemyauk
@@ -19696,8 +19634,8 @@ Petoe
 Petpe
 Petpet-in
 Petpin
-Petpye
 Petpyu
+Petpyē
 Pettan, Pet Tan
 Pettauk
 Pettaw
@@ -19871,9 +19809,9 @@ Pinlebu
 Pinlegyaung, Pin Lel Chaung
 Pinlein
 Pinlena
-Pinlon
 Pinlontaw
 Pinlum
+Pinlôn
 Pinlôn-yena
 Pinma
 Pinma Ga
@@ -20027,8 +19965,8 @@ Pongcheng, Pongoheng
 Pongdaw
 Ponghao
 Ponghin
-Ponghka
 Ponghke
+Ponghkā
 Ponghtang
 Ponghton
 Pongin
@@ -20069,7 +20007,6 @@ Ponna-nge
 Ponnabya, Ponuapya
 Ponnagyi, Pennagyi
 Ponnagyun, ပုဏ္ဏားကျွန်းမြို့နယ်
-Ponnayeik
 Ponnaywa
 Ponnesen, Ponnesin
 Ponno
@@ -20186,7 +20123,7 @@ Pulu
 Puluko
 Pulun
 Pum-gahtawng
-Pumchang
+Pumchāng
 Pumgahtawng
 Pumhkrau
 Pumkahtawng, Pumkatawng
@@ -20399,10 +20336,10 @@ Pyawtaung
 Pyawwa
 Pyay, Prome, Pye, Pyei, Pyit
 Pyay Thar Aye
-Pyaye
 Pyayt Pon, Byibôn
 Pyayt Wa
 Pyaywa
+Pyayè
 Pyaza
 Pyaze
 Pyazi
@@ -20532,9 +20469,9 @@ Pyinmabin, Pyin Ma Pin
 Pyinmabinzeik
 Pyinmadaw, Pyin Ma Taw
 Pyinmagan, Pyin Ma Kan
-Pyinmagon, Pyin Ma Kone
 Pyinmagwin
 Pyinmagyi
+Pyinmagôn, Pyin Ma Kone
 Pyinmahtein
 Pyinmakhon
 Pyinmalwin
@@ -20597,14 +20534,20 @@ Pyuzu
 Pyādaik
 Pyāthonzu Ywathit
 Pàmaö
+Pàngpau
 Pàngsat
+Páhká
+Pánghai
 Pánghkái
 Pánghkáiloi
 Pánghowo
 Pánghtam
+Pángkaw
 Pángkwai
+Pánglom
 Pángmakmö
 Pángman
+Pángmöng
 Pä-tüng
 Pè-li
 Pèbyittaw East, Pèbyittaw
@@ -20620,15 +20563,18 @@ Pèthugyi
 Pèwet
 Pôngôngyi
 Pônnawa
+Pônnayeik
 Pônyo-auk
 Pônzeik
 Pöngga-taw
 Pönglau, Ponglaw
 Pā-hpai
 Pā-hsak
+Pā-ke
 Pā-lai
 Pā-tip
 Pābum
+Pāchaung
 Pālau
 Pāmawng
 Pān-aung
@@ -20640,71 +20586,116 @@ Pāng-hai
 Pāng-hpet
 Pāng-hpyet
 Pāng-hsai-ling
+Pāng-ing
 Pāng-kat
 Pāng-kwai
 Pāng-lang
+Pāng-leng
 Pāng-möng
 Pāng-nga
+Pāng-oi
 Pāng-salawp
 Pāng-ya-yong
 Pāng-yao
+Pāng-yāng
 Pānghat
 Pānghio
+Pānghka
+Pānghkam, Tanghkam
 Pānghke
 Pānghki
 Pānghku
 Pānghku-li
+Pānghkyem
 Pānghkö-hkaw
 Pānghkā-mon
+Pānghkāng
+Pānghpa
 Pānghpak
 Pānghpakhi
+Pānghpat
 Pānghsa-pyi
 Pānghsahte
 Pānghsai
+Pānghsak
+Pānghsapye
 Pānghsaw
+Pānghseng
 Pānghsio
+Pānghsāng
 Pānghti
 Pānghuk
+Pānghung, Pānhung
 Pāngkala
+Pāngkan
 Pāngkauk
+Pāngken
+Pāngkeng
 Pāngkio
+Pāngkut
+Pāngkwe
 Pāngkyawng
 Pāngkyehtu, Pang Ketu
 Pāngkyeng
+Pāngla
 Pānglak
+Pānglao, Pang-lau
+Pānglaw
 Pānglawk
+Pāngleng
 Pānglo
+Pānglong
 Pānglü
+Pānglāng, Punglang
 Pānglūn
 Pāngmaklāng
 Pāngmaktaro
+Pāngmawn, Pangmawm
 Pāngmawng
+Pāngmong
 Pāngmöngnai
+Pāngna
 Pāngnamnom
+Pāngnang
+Pāngnawng
 Pāngngawk
 Pāngngu
+Pāngnim
 Pāngnimkawngkaw
+Pāngnoi
 Pāngnu-hpai
 Pāngnö
 Pāngoi
 Pāngpala
+Pāngpao
 Pāngpaw
 Pāngpek
 Pāngpen
+Pāngpeng
 Pāngping
 Pāngpoi
 Pāngpok
 Pāngpong
+Pāngpu
+Pāngsam
 Pāngsao
 Pāngsarām
 Pāngse
 Pāngsipi
+Pāngsōng
 Pāngta
 Pāngta-hkwa
 Pāngtala
 Pāngtang
+Pāngtawng
 Pāngtawngkwe
+Pāngti
+Pāngtong
+Pāngtun
+Pāngu
+Pāngwa
 Pāngwawk
+Pāngwo
 Pāngwo-lai
 Pāngwoleng
 Pāngyaung
@@ -20712,6 +20703,7 @@ Pānloi
 Pāteng
 Pātām
 Pāwawnbuk
+Pāya-ngokto, Paya-ngokoto
 Pēdigôn
 Pēte
 Pētewa
@@ -20760,7 +20752,6 @@ Ramting
 Rangchu Ga
 Ranghpang Ga
 Rangkhep
-Rangse
 Rangzadam
 Ranku
 Ranlaung
@@ -20859,6 +20850,7 @@ Rājābīl
 Rām Deni
 Rām Deo
 Rāmupārā, Yamubaya
+Rāngse
 Rānnu, Rānmu, Rānu
 Rāra
 Rātma
@@ -20958,7 +20950,6 @@ Sabyingyi
 Sabyo Té
 Sabyugôn
 Sabyusu, Sar Hpyu Su
-Sabyuzu, Sar Hpyu Su
 Sabègu
 Sabāigon
 Sachahaw
@@ -20982,7 +20973,6 @@ Sadwin, Datwin
 Sadwingyi
 Sadwingôn
 Saek
-Saga
 Saga Nam Khum
 Saga Pa
 Saga-in
@@ -21009,7 +20999,6 @@ Sagu
 Saguzwe
 Sagwān
 Sagyaung
-Sagyet
 Sagyi
 Sagyidaw
 Sagyin, Kyithagon
@@ -21097,8 +21086,8 @@ Sakawng
 Sake Hi
 Sakhai
 Sakhan
-Sakhangyi
 Sakhumbo
+Sakhāngyi
 Sakondaung
 Sakongdām, Sakongdan
 Sakta, Thetta
@@ -21239,11 +21228,10 @@ Sane, Sa Ne Town, စနဲ, စနဲမြို့
 Sane-khamaung
 Sanegyaung
 Saneik
-Sang Hkam
 Sang-wan
 Sangadaung
 Sangaichi
-Sangale, San Ka Lay
+Sangalè, San Ka Lay
 Sangan
 Sangangyi
 Sanghkam
@@ -21267,8 +21255,8 @@ Sangsok
 Sangtak
 Sangti, Sangtai
 Sangva
-Sangwan, Sanguan
 Sangwangdam
+Sangwān, Sanguan
 Sangyaung
 Sangyaunggale
 Sangyi
@@ -21301,8 +21289,8 @@ Sanon
 Sanpanbauk, Sanbanbauka
 Sanpannagon
 Sanpannon
-Sanpe
 Sanpri
+Sanpè
 Santaunggyi
 Santhigon
 Sanu
@@ -21352,7 +21340,6 @@ Sar Toe
 Sar Tone
 Sar Wa
 Sara
-Sara-gahtawng
 Sarakdo
 Saram
 Saranshamdām
@@ -21630,8 +21617,6 @@ Segim
 Segin Sakhan
 Segingyi, Seingyi
 Segyaung
-Segyi
-Segyidaw
 Segyikwin
 Seheng
 Sehkawng
@@ -21736,11 +21721,9 @@ Sel Saung Kone
 Sela Nok
 Selawn
 Selbung
-Sele
 Selongyi, Say Lone Gyi
 Semaw
 Semindaw
-Semon
 Sempi
 Sempoi
 Semtik Ga
@@ -21918,7 +21901,6 @@ Shangkabe
 Shangkong
 Shangkyok
 Shangleng
-Shangon
 Shangshadung
 Shangtai
 Shangwang
@@ -21926,6 +21908,7 @@ Shangwin
 Shangyaung
 Shangyi
 Shangyun
+Shangôn
 Shankwa
 Shankwin
 Shanle-u
@@ -21979,7 +21962,6 @@ Sharan
 Sharaw
 Sharaw Ga
 Shardap, Shardan
-Share
 Sharehkang
 Sharhke
 Sharigahtawng
@@ -22000,7 +21982,7 @@ Shauk Pin Yoe
 Shauk Taw, Shauktaw
 Shauk-kôn
 Shaukchaung
-Shaukchon
+Shaukchôn
 Shaukhtaung
 Shaukka
 Shaukkon
@@ -22295,10 +22277,8 @@ Shweenyaunggin
 Shwega
 Shwegadan
 Shwegazaung
-Shwege
 Shwege-in, Shwe Khe Inn
 Shwegebyan, Shwe Wea Pyan
-Shwegon
 Shwegu, Schwegu
 Shwegugale
 Shwegun, Shewegun
@@ -22316,6 +22296,8 @@ Shwegyinbaw, Shwgyinbaw
 Shwegyinkan, Shwegyingan
 Shwegyogon
 Shwegyu
+Shwegè
+Shwegôn
 Shwehe
 Shwehlan
 Shwehlaw
@@ -22401,6 +22383,7 @@ Shè
 Shèywa
 Shābo
 Shāmzing
+Shāre
 Si Dung
 Si Kan
 Si Ki Khaw
@@ -22644,8 +22627,6 @@ Sindaudan, Daudan
 Sindaung
 Sindawgon
 Sindawè
-Sinde
-Sindegon
 Sindetkyi
 Sindibum
 Sindingale, Sindingyi
@@ -22655,6 +22636,8 @@ Sindok
 Sindon
 Sindu
 Sindwin
+Sindè
+Sindègon
 Sing Aik
 Singai
 Singaing
@@ -22789,7 +22772,7 @@ Sinzeikkyi, Sinzeingyi
 Sinzein
 Sinzin
 Sinzok
-Sinzwe
+Sinzwè
 Sipe-hkalaw
 Sipein
 Sipek
@@ -22812,10 +22795,10 @@ Sithaung
 Sithemye
 Sithè
 Sitke-gon
-Sitkon
 Sitkwin
 Sitkyun
 Sitkyungyi
+Sitkôn
 Sitlingyaung
 Sitngan
 Sitpin
@@ -22857,7 +22840,7 @@ Sizongale
 Sizongon
 Sizongyi
 Sizung
-Sizwe, Siswe
+Sizwè, Siswe
 So Dei Khu, So-dè-hku
 So Hlar Ku
 So La Hpe Khu
@@ -22900,7 +22883,6 @@ Sondwin
 Song Möng Sihsu
 Songhpe
 Songlong, Sunglong
-Songon
 Songramang, Hsungramang
 Songtāi
 Songwè Ashe, Songwè
@@ -22956,7 +22938,6 @@ Subok
 Subok-aing
 Subokchaung, Sukokchaung
 Subokkawng
-Subokkon
 Subokmyaung
 Suboktan
 Suboktaung
@@ -22964,6 +22945,7 @@ Subotkôn
 Subyaung
 Subôkkwe
 Subôkkyin
+Subôkkôn
 Sudat
 Sudatgyi, Sudatkyi
 Sudaungbye
@@ -22976,8 +22958,8 @@ Suklo
 Sukmawn
 Sukmun, Sookmun
 Suktao
-Sulegon
 Sulekon
+Sulègôn
 Sumbaw Ga
 Sumda Ga
 Sumdu
@@ -23093,13 +23075,23 @@ Sè-yau
 Sèbya
 Sèbyin
 Sègon
+Sègyidaw
 Sègyigyo
 Sèkwang
+Sèlè
+Sèmon
+Sôngôn
+Sābyuzu, Sar Hpyu Su
 Sāchet
 Sādalin, Sar Ta Lin
 Sādhu
 Sādung
+Sāga
+Sāgyet
+Sāng Hkam
 Sānghān
+Sāra-gahtawng
+Sēgyi
 T. K. Suangpi
 Ta Aw
 Ta Awn
@@ -23199,7 +23191,6 @@ Ta-hkè-pra-lè
 Ta-ho
 Ta-hong
 Ta-hpa-lai
-Ta-hsai
 Ta-hsan
 Ta-hsangle, Tabanlè
 Ta-hsopteng
@@ -23233,11 +23224,9 @@ Ta-ni-dawla
 Ta-ni-la-lè
 Ta-nyaung
 Ta-nyingon
-Ta-ok
 Ta-on
 Ta-pang
 Ta-pe
-Ta-peng
 Ta-pon
 Ta-pong
 Ta-pu-nan
@@ -23253,6 +23242,7 @@ Ta-tung
 Ta-twi
 Ta-u-khi
 Ta-yè-bi-hku
+Ta-ôk
 Taaklam
 Taal, Tal
 Taalzang, Talzang
@@ -23262,7 +23252,6 @@ Tabat
 Tabaukkon
 Tabaung
 Tabauyang
-Tabaw
 Tabawchaung
 Tabawki
 Tabawng Ga
@@ -23294,7 +23283,6 @@ Tabulein
 Tabung
 Tabuto
 Tabwin
-Tabya
 Tabyachwein
 Tabye
 Tabyegyi
@@ -23316,7 +23304,6 @@ Tadachaung, Ta Dar Chaung
 Tadagaing
 Tadagale
 Tadagon
-Tadagyi
 Tadagyin
 Tadaing
 Tadan
@@ -23328,6 +23315,7 @@ Tadazeik
 Tadein
 Tadichaungwa
 Tadokihta
+Tadāgyi
 Tagahku
 Tagaing
 Tagala
@@ -23352,7 +23340,6 @@ Tagelaung
 Tagelaungchaungbya
 Tago
 Tagogyi
-Tagon
 Tagondaing
 Tagu
 Tagubyin
@@ -23369,6 +23356,7 @@ Tagwa
 Tagyaung
 Tagyo
 Tagyun
+Tagôn
 Tagôngyi
 Tahawm
 Tahawndām, Tahaungdan
@@ -23402,7 +23390,7 @@ Taik-ywa
 Taikat
 Taikkon, Taik Kone
 Taikkyi, Taik Gyi, တိုက်ကြီး မြို့နယ်
-Taikkyigon
+Taikkyigôn
 Taikkyua
 Taikma, Teikkama
 Taikpu
@@ -23447,11 +23435,11 @@ Takka
 Takko
 Taklang
 Taklawkhi Auk, Taklawkhi
-Taklet
 Taklit
 Taklu, Takiu
 Taklukhi
 Taklyet Nö
+Taklèt
 Takmawk
 Tako
 Takokdo
@@ -23511,7 +23499,7 @@ Talok Kyet Jamali
 Talok Nipa, Aung Chak
 Talokchaung
 Talokhpo
-Talokkon, Tayokkon
+Talokkôn, Tayokkon
 Taloklat
 Talokpin
 Talokpinywama
@@ -23558,7 +23546,6 @@ Tamaw
 Tamawangtong
 Tamawsein
 Tamawwa
-Tame
 Tameinbaung
 Tamelaw
 Tamhai
@@ -23589,6 +23576,7 @@ Tamyaung
 Tamyin Hkyet
 Tamyinchaung
 Tamāwa
+Tamē
 Tan
 Tan Dar U
 Tan Hping
@@ -23621,9 +23609,9 @@ Tanbaukkon
 Tanbeiywa
 Tanbin, Htan Pin
 Tanbingan
-Tanbingon
 Tanbingon Ashe
 Tanbingyaung, Htan Pin Chaung
+Tanbingôn
 Tanbinkyaung
 Tanbinsan Sakan
 Tanbinzu
@@ -23634,8 +23622,8 @@ Tanda
 Tandabo
 Tandaw, Fanow, Taung Htan Taw
 Tandawgan
-Tandawgon
 Tandawgyi
+Tandawgôn
 Tandawma
 Tandawzeik
 Tandawzu, Tandawzo
@@ -23733,7 +23721,6 @@ Tapantha
 Tapatzushui
 Tapaung
 Tapawdo
-Tape
 Tapekala
 Tapetlon
 Tapgahtawng
@@ -23748,7 +23735,6 @@ Tapmāngsa
 Tapo
 Tappen
 Tapu
-Tapuhto
 Tapumihko
 Tapun, Tar Pun Kan
 Tar Lan
@@ -23773,7 +23759,6 @@ Taripokwi
 Taritagaung
 Taro, Dalu Ga, Taro Valley, Tayo
 Taroichaung
-Tarokhla
 Tarokhmaw
 Tarokpa
 Tarokpyin
@@ -23781,6 +23766,7 @@ Tarongyang
 Taru
 Tarum Hkyet
 Tarzu
+Tarôkhla
 Tasahkü
 Tasaing
 Tasanwang
@@ -23818,7 +23804,6 @@ Tategahtawng, Tate Ga
 Tathin
 Tatkan
 Tatkanein
-Tatkon
 Tatkyi
 Tatkyigon
 Tatlwin
@@ -24027,7 +24012,6 @@ Taungdwingyi, တောင်တွင်းကြီး မြို့နယ�
 Taunggabya
 Taunggadon, Taunggadun
 Taunggaing, Taunggain
-Taunggale
 Taunggale-auk
 Taunggalon
 Taunggamauk
@@ -24051,6 +24035,7 @@ Taunggyigyaw
 Taunggyo
 Taunggyun, Taunggun
 Taunggyundaing
+Taunggāle
 Taunghkan
 Taunghmwa
 Taunghnauk
@@ -24200,7 +24185,6 @@ Taw-nio
 Taw-sengka
 Taw-u
 Taw-u-Zayat
-Tawa
 Tawangzup Ga
 Tawanpanya
 Tawantzu
@@ -24211,7 +24195,6 @@ Tawbaingzu
 Tawbakawng
 Tawbin
 Tawbo
-Tawbon
 Tawbon Atet
 Tawbu
 Tawbwe
@@ -24219,6 +24202,7 @@ Tawbya
 Tawbya-nge
 Tawbyagyi, Tawbyugyi
 Tawbyin
+Tawbôn
 Tawchin
 Tawdan
 Tawdet
@@ -24229,8 +24213,8 @@ Tawga, Tawga Ywa
 Tawgan
 Tawgin, Taw Kin
 Tawgon
-Tawgwe
 Tawgwelaw
+Tawgwè
 Tawgya
 Tawgyaung, Taw Kyaung
 Tawgyaung-u
@@ -24414,9 +24398,7 @@ Te-ramchyet, Te-ram
 Te-san
 Te-yo
 Te-ywa
-Tebin
 Tebinde
-Tebingaing
 Tebingan
 Tebinkanbauk, Tebinganbauk
 Tebinlu
@@ -24439,12 +24421,10 @@ Tee Lon
 Tee Pu Chaung, Tibu
 Teeklui, Teklui
 Tegon
-Tegyaung
 Tegyaungywa
-Tegyi
 Tegyigan
-Tegyigon
 Tegyigon Ashe
+Tegyigôn
 Tegyikin, Tegyigin
 Tegyin
 Tegyiywa
@@ -24720,9 +24700,9 @@ Thabyedaw
 Thabyedon
 Thabyegan
 Thabyegin
-Thabyegon
 Thabyegwin
 Thabyegyaung
+Thabyegôn
 Thabyehla
 Thabyekwin
 Thabyele
@@ -25166,10 +25146,10 @@ Thawun
 Thawundaw, Tha Wun Taw
 Thay Su Le
 Thay Su Le Ywar Thit
-Thayagon
 Thayagwin
 Thayagyi
 Thayagyun
+Thayagôn
 Thayaing
 Thayangaing
 Thayaung
@@ -25203,9 +25183,9 @@ Thayetka
 Thayetkaing
 Thayetkan, Thayetkan N
 Thayetkaung
-Thayetkon
 Thayetkwin
 Thayetkyin
+Thayetkôn
 Thayetlebin
 Thayetlein
 Thayetmyaung
@@ -25246,7 +25226,6 @@ Thayutmyaik
 Thayutta
 Thayèthamein
 Thayēgyaung
-Thaze
 Thazeywa
 Thazi, Thali
 Thazi Ywathit
@@ -25300,15 +25279,11 @@ Thebon
 Thebonoksu
 Thebonpya
 Thebyingye
-Thebyu, Thea Hpyu, Thebyugale
 Thebyu Ale
 Thebyu Auk
 Thebyuchaung
-Thebyugon
-Thebyugyaung
 Thebyuseik
 Thebyuwa, Htawklohta
-Thechaung
 Thechwein
 Thedan
 Thedangyi, Thedangyi Ywa
@@ -25321,9 +25296,7 @@ Thee Pin
 Thee Pin Khin
 Thee Pin Kone
 Thegan
-Thegaw
 Thegawgyi
-Thegon, Ongyaung
 Thegwe
 Thegyaung
 Thegyaw
@@ -25349,9 +25322,9 @@ Theinchaungbyin, Theingyaungbyin
 Theindaung
 Theindaungpāra
 Theindaw
-Theingon, Thaingon
 Theingyaung
 Theingyiyo
+Theingôn, Thaingon
 Theinhtauk
 Theinin
 Theinkhwe
@@ -25400,8 +25373,6 @@ Thetkaw
 Thetkebyin
 Thetkechin
 Thetkedawng
-Thetkegon, Thekègon, Thet Kei Kone
-Thetkegyin
 Thetkegyingon
 Thetkegyun
 Thetkekyun
@@ -25410,7 +25381,9 @@ Thetkethaung
 Thetkewin
 Thetkhi
 Thetkyandaung
+Thetkègon, Thekègon, Thet Kei Kone
 Thetkègyi
+Thetkègyin
 Thetkē
 Thetlawkawki
 Thetle
@@ -25440,8 +25413,8 @@ Thida
 Thidaw
 Thidinbin
 Thidôn
-Thigon
 Thigyauk
+Thigôn
 Thihadaw
 Thihlaywa
 Thikahedo
@@ -25610,25 +25583,25 @@ Thitni
 Thitnidaw
 Thitnyo
 Thitnyobin
-Thitnyogon
+Thitnyogôn
 Thitpadigon
 Thitphyubin
 Thitpingyi
 Thitpinme
 Thitpintaung
 Thitpinzu
-Thitpok
-Thitpokkon
+Thitpokkôn
 Thitpokpin
-Thitpoktaung
-Thitpon
 Thitpyawbin
 Thitpyubin
 Thitpyuchaung, Thitpyugyaung
 Thitpyugyin, Thitpugyin
 Thitpyuzein, Thitpyuzeik
+Thitpôk
 Thitpôkchwein
 Thitpôkkwin
+Thitpôktaung
+Thitpôn
 Thitsainggaing
 Thitsainggon
 Thitsaintpin
@@ -25701,7 +25674,6 @@ Thonedauntaing, သုံးဒေါင့်အိုင်
 Thonein
 Thoneindan
 Thongdan
-Thongwa, Thon-Khwa, သုံးခွ မြို့နယ်
 Thongwa Khindan
 Thongwadaw, Thone Gwa Taw
 Thongwale, Thongwagale
@@ -25728,7 +25700,7 @@ Thu Ye Taung, Thu-ye-daung
 Thu Ye Zet
 Thu-nge
 Thuambual
-Thudawgon
+Thudawgôn
 Thugaungbyit
 Thugyigon
 Thugyizu
@@ -25744,15 +25716,23 @@ Thupeinna
 Thwekyauk
 Thwenet
 Thè Kindan
+Thèbyu, Thea Hpyu, Thebyugale
+Thègaw
 Thèwa
 Thèywa
 Thôn-ein-su
 Thôndat
+Thôngwa, Thon-Khwa, သုံးခွ မြို့နယ်
 Thônlanbyi
 Thābyekyun
 Thākayan
+Thāze
 Thē-aw
+Thēbyugyaung
+Thēbyugôn
+Thēchaung
 Thēchaunggyi
+Thēgôn, Ongyaung
 Thēyaw
 Ti
 Ti Baw
@@ -26020,7 +26000,6 @@ Toktat
 Toktwin
 Tokumudo
 Tolung
-Ton
 Ton Kone
 Ton Lar
 Ton Lon
@@ -26110,7 +26089,7 @@ Tonmate
 Tonmatet
 Tonmenan
 Tonmun
-Tonnge
+Tonngè
 Tonpalaw
 Tonpe
 Tonphi
@@ -26323,11 +26302,15 @@ Twirein
 Tyogain
 Tzu-supa
 Tàyi
+Tátkon
+Tèbin
 Tèdidaw
+Tègyi
 Tènandaw
 Tèzu
 Tôkchaung
 Tôkkin
+Tôn
 Tônkyi
 Tônpôn
 Tôthaung
@@ -26358,6 +26341,7 @@ Tā Pāng
 Tā Sawktaw
 Tā-ang
 Tā-hkam
+Tā-hsai
 Tā-hsi-ngi
 Tā-kun
 Tā-long
@@ -26365,17 +26349,25 @@ Tā-mün
 Tā-namkha
 Tā-pangtawng
 Tā-pen Wān Hwè
+Tā-peng
 Tā-ti
+Tābaw
+Tābya
 Tāmtu
 Tānggôn
 Tāngāoyāng
 Tāpaw
 Tāpya
+Tāpè
 Tāpök
 Tāpāngkut
+Tāpūhto
 Tāsān
 Tātmaü
 Tātpük
+Tāwa
+Tēbingaing
+Tēgyaung
 Tēngkyap
 Tōngmawng
 U Da Ya, Udaya
@@ -26593,7 +26585,6 @@ Wabaw Lāhta
 Wabaw Yitkan
 Wabaw-gahtawng
 Wabawgyi
-Wabawng
 Wabin
 Wabo
 Wabo-gyaung
@@ -26645,13 +26636,13 @@ Wagaru
 Wagauk
 Wagauktaw
 Wagingon
-Wagok
 Wagoktaw
-Wagon
 Wagwa, War Khwa
 Wagyaung
 Wagyiaing
 Wagyidaw
+Wagôk
+Wagôn
 Wahao
 Wahkame
 Wahkang
@@ -26723,73 +26714,44 @@ Wan Aung
 Wan Ba La
 Wan Be Inn
 Wan Chei
-Wan Heng
 Wan Himna
-Wan Hkai
 Wan Hkai-hi
 Wan Hkamkoi
-Wan Hkang
 Wan Hkünsang
-Wan Ho-na
 Wan Ho-nā-mak-ik
-Wan Hpya, Hpya
-Wan Hsai-leng
 Wan Hsen-naw, Hsen-naw
 Wan Hsenghkam-naü
 Wan Hsenghkampao
-Wan Hsenglao, Wan Hseng Lan
 Wan Hsenglōm
 Wan Hsenhan
 Wan Hsenhpong, Wān Hsenhoong
-Wan Hsenkiao
-Wan Hsenkyao
-Wan Hsenmau, Wān Mu-hsö Hsenmau
-Wan Hsensai
 Wan Htan-yan
-Wan Hwe, Hwè
 Wan Hwe-ngu
-Wan Hwè-hok
 Wan Hwè-hpakhkom
 Wan Ka-ak
 Wan Ka-hpeuk
-Wan Kan
-Wan Kang
 Wan Kanghkaw-yao
 Wan Kar Seik
-Wan Kat, Kat
 Wan Kat-ping
-Wan Kawng
 Wan Kengkam
 Wan Khaing
-Wan Kon
 Wan Kone
-Wan Kong
 Wan Kong Lang
 Wan Kong Pik
 Wan Kong Pow
 Wan Konghon
 Wan Konghsa
-Wan Konglang
 Wan Konglenling
 Wan Konti
-Wan Kun
 Wan Kunwing
 Wan Kwan Kaw, Kwan Kaw
-Wan Kyawng
 Wan Lai-hka
 Wan Lawk
 Wan Leng-yok
-Wan Loi
 Wan Loi-kong
 Wan Loi-lawk
-Wan Loi-lem
 Wan Loi-na
-Wan Long, Long, Pang Hseng
-Wan Lwe
 Wan Mak Ka
-Wan Mak-yăng
-Wan Mao
-Wan Mau
 Wan Mawng
 Wan Menglu, Menglu
 Wan Mengtü
@@ -26798,16 +26760,9 @@ Wan Mwe-taw
 Wan Möng-sūmhseng
 Wan Münghkam-hawng
 Wan Münghkamhpai
-Wan Na
-Wan Na-hi
-Wan Na-lin
-Wan Na-pang
-Wan Nam
 Wan Nam Awng, Nam Awng
 Wan Namhkawng
-Wan Namhkon
 Wan Namhsem
-Wan Namkat
 Wan Namleng
 Wan Nammawhsim
 Wan Namtenglik
@@ -26820,14 +26775,11 @@ Wan Nawnglu
 Wan Nawngmo
 Wan Nawngpa-yem
 Wan Nawngya-hsai
-Wan Ngawt, Wān Ngawn
 Wan Nā Mau
 Wan Nā Ong
-Wan Nā-mun, Wana Mun
 Wan Pa-mawng
 Wan Pa-men
 Wan Pa-nio
-Wan Pan
 Wan Pang-yang
 Wan Pangmu
 Wan Pangnawt
@@ -26835,15 +26787,10 @@ Wan Pu Naw
 Wan Pu-Kyawng-awn
 Wan Püng-hüng
 Wan Pūmungsa-hpaw
-Wan Ra-sa-kiao
 Wan Sakaw
 Wan Sangleik
 Wan Sao-hpa
 Wan Sarè
-Wan Seng
-Wan Tai
-Wan Tawk
-Wan Tawng
 Wan Teung
 Wan Thar, Wuntha
 Wan Thar Kone, Wunthagon
@@ -26872,8 +26819,6 @@ Wangsi Wang
 Wanguhkü
 Wanhkan
 Wanhwehsai
-Wankong
-Wankun
 Wanlo
 Wanloiyehkau
 Wanmaihaihong
@@ -26957,7 +26902,6 @@ Wasangpang
 Wasantu
 Wasat
 Wasawng
-Washa
 Washawma
 Washawng, Wausawng
 Wasu
@@ -27014,14 +26958,12 @@ Wayingyaing
 Wayitnge
 Waylachaung
 Wayo
-Wayon
 Wayonbin
 Wayonbinlè
 Wayonbok
 Wayonchaung
 Wayondaw
 Wayongan
-Wayongon
 Wayonle
 Wayontha
 Wayonyin
@@ -27029,6 +26971,8 @@ Wayonzeik
 Wayonzun
 Wayu
 Wayutha
+Wayôn
+Wayôngôn
 Wayônzu
 Wayāgon, War Yar Kone
 Waza
@@ -27072,7 +27016,6 @@ Wedaung Apyin
 Wedaung Atwin
 Wedu
 Wegale
-Wegyi
 Wegyi-ywama
 Wegyigwa, Wea Gyi Gwa
 Wegyigwin
@@ -27112,7 +27055,6 @@ Wengkaw
 Wengkoi
 Wenglek
 Wengloi, Wongloi
-Wenglong
 Wengmao
 Wengmau
 Wengnan
@@ -27195,11 +27137,11 @@ Wetmyedaw
 Wetmyegan
 Wetpaung
 Wetpo
-Wetpok, Wet Poke
 Wetpyit
 Wetpyu
 Wetpyugon
 Wetpyuye
+Wetpôk, Wet Poke
 Wetsabo
 Wetsagyaung
 Wetsu
@@ -27405,23 +27347,23 @@ Wuzang
 Wãn Hai, Wān Hoi
 Wãn Hkok
 Wãn Hpwi
-Wãn Hwe-pong
 Wãn Longkyawng
 Wãn Makmöngsom
 Wãn Mè-hsat
 Wãn Panghsang, Wan Kaw Panghsang
-Wãn Pong, Pong
 Wãn Sa-le, Wān Sa-la
 Wãn Tu-hsaw
 Wän Nai-ngūnhsōpliao
 Wè-kle-hku
 Wè-sü-hso
 Wè-sū-daw
+Wègyi
 Wèkanin
 Wèng-leng
 Wèwun
 Wā-nā
 Wā-sha
+Wābawng
 Wābawng 'Nhkram
 Wācha
 Wādama
@@ -27444,12 +27386,12 @@ Wān Ai-hsamhwe-hok
 Wān Ai-htè
 Wān Ai-kawng
 Wān Ai-kiao
-Wān Ai-la
 Wān Ai-la-hsawngmē
 Wān Ai-la-htongmaw
 Wān Ai-la-long
 Wān Ai-la-tam
 Wān Ai-li
+Wān Ai-lā
 Wān Ai-lān
 Wān Ai-lōnghpa-ngoi
 Wān Ai-lōngnampan, Wan Kaw Ai-longnampan
@@ -27495,7 +27437,6 @@ Wān Ennoi
 Wān Enta-ki-li
 Wān Ep
 Wān Erhtengpo
-Wān Et
 Wān Ew-oi
 Wān Fai
 Wān Fai-wēt
@@ -27513,7 +27454,6 @@ Wān Hal-kwi
 Wān Hang-hi
 Wān Hangkon
 Wān Hangloi
-Wān Hangna
 Wān Hangna-hsa
 Wān Hangten
 Wān Hanmi
@@ -27529,6 +27469,7 @@ Wān Hawnglen
 Wān Hawngmu
 Wān Hawngsang, Hawngsang
 Wān Hawngto-lin
+Wān Heng
 Wān Henking, Henking
 Wān Hi
 Wān Hi-lü
@@ -27542,6 +27483,7 @@ Wān Hka-lau
 Wān Hka-lik
 Wān Hka-na
 Wān Hka-sawnoi
+Wān Hkai
 Wān Hkai-hpaknam
 Wān Hkai-ke
 Wān Hkai-pa-aw
@@ -27573,7 +27515,6 @@ Wān Hkawnghtwa
 Wān Hkawngkawshu
 Wān Hkawntūm
 Wān Hkawp
-Wān Hke, Wān Hke-li-hsaw
 Wān Hke-kep
 Wān Hkek
 Wān Hkem
@@ -27592,12 +27533,12 @@ Wān Hkom
 Wān Hkom-ut
 Wān Hkonglong
 Wān Hku
-Wān Hkum
 Wān Hkun
 Wān Hkung
 Wān Hkunhpi-lōm
 Wān Hkunlao
 Wān Hkwam
+Wān Hkè, Wān Hke-li-hsaw
 Wān Hkè Ho-namti
 Wān Hkö-king
 Wān Hkö-makking
@@ -27605,6 +27546,7 @@ Wān Hkö-nim
 Wān Hkö-tē, Wān Hkē-tē
 Wān Hkö-yi
 Wān Hkün-loi
+Wān Hkāng
 Wān Hkē-a-hsam
 Wān Hkēng
 Wān Hkō-tum
@@ -27612,6 +27554,7 @@ Wān Hkōkmaw
 Wān Hkōng
 Wān Hkōngnio
 Wān Hkōngwāk
+Wān Hkūm
 Wān Hkūmhkam
 Wān Hkūmhsōptāng
 Wān Hkūnpōk
@@ -27653,7 +27596,6 @@ Wān Ho-lōng
 Wān Ho-manam
 Wān Ho-maw
 Wān Ho-mè-kok, Wān Ho-mā-kok
-Wān Ho-möng
 Wān Ho-möng-awn
 Wān Ho-mönghkao
 Wān Ho-mün
@@ -27678,6 +27620,7 @@ Wān Ho-namwang
 Wān Ho-namwēng
 Wān Ho-nawng
 Wān Ho-nga
+Wān Ho-nā
 Wān Ho-nā-liu
 Wān Ho-pan
 Wān Ho-paw
@@ -27699,18 +27642,15 @@ Wān Ho-yan
 Wān Ho-yang, Ho-yang
 Wān Ho-yok
 Wān Ho-üm
-Wān Hok
 Wān Holoi
 Wān Hong
 Wān Hopong
 Wān Hota
 Wān Hoti
 Wān Hotonghkek
-Wān Hpa
 Wān Hpa-bak
 Wān Hpa-haw
 Wān Hpa-hkam
-Wān Hpa-hkao
 Wān Hpa-hkau
 Wān Hpa-hkiao, Hpa-hkiao
 Wān Hpa-hpük
@@ -27723,11 +27663,10 @@ Wān Hpa-kēng
 Wān Hpa-la-lek
 Wān Hpa-lai
 Wān Hpa-lam
-Wān Hpa-lan
 Wān Hpa-lang
 Wān Hpa-lao
 Wān Hpa-lawm
-Wān Hpa-leng
+Wān Hpa-lēng
 Wān Hpa-min
 Wān Hpa-ngam
 Wān Hpa-pan
@@ -27747,7 +27686,6 @@ Wān Hpa-yi
 Wān Hpai
 Wān Hpai-hke
 Wān Hpai-mai
-Wān Hpak-ha
 Wān Hpak-hat
 Wān Hpak-hi
 Wān Hpakha
@@ -27804,7 +27742,7 @@ Wān Hpya-hko-hkam, Hpya-hko-hkam
 Wān Hpya-hkönhwē-pōk
 Wān Hpya-hkün
 Wān Hpya-hpai
-Wān Hpya-hpom, Wān Hpya-hpōn
+Wān Hpya-hpōm, Wān Hpya-hpōn
 Wān Hpya-hpōmma-ki-li, Hpya-hpōmma-ki-li
 Wān Hpya-hsa-li, Hpya-hsa-li
 Wān Hpya-hsa-müng
@@ -27837,7 +27775,6 @@ Wān Hpya-pa-da
 Wān Hpya-pa-hkam
 Wān Hpya-pangyōk, Hpya-pangyōk
 Wān Hpya-pingmöng, Hpya-pingmöng
-Wān Hpya-pu-hkam, Hpya-pu-hkam
 Wān Hpya-sai-loi-mi
 Wān Hpya-sau
 Wān Hpya-sawmmöng, Hpya-sawmmöng
@@ -27849,11 +27786,17 @@ Wān Hpya-āt, Wan Hpya-al
 Wān Hpyek
 Wān Hpyen
 Wān Hpyet, Hpyet
+Wān Hpyā, Hpya
+Wān Hpyā-pu-hkam, Hpya-pu-hkam
+Wān Hpā
 Wān Hpā-hin
+Wān Hpā-hkao
 Wān Hpā-hpöng
 Wān Hpā-hsai, Hpā-hsai
 Wān Hpā-kang
+Wān Hpā-lan
 Wān Hpā-tao
+Wān Hpāk-ha
 Wān Hpēt
 Wān Hpūk
 Wān Hsa, Wān Kwi Hsa
@@ -27884,6 +27827,7 @@ Wān Hsai Leng
 Wān Hsai-hkao
 Wān Hsai-hkau
 Wān Hsai-len
+Wān Hsai-leng
 Wān Hsai-long
 Wān Hsai-lōn
 Wān Hsai-möng
@@ -27894,11 +27838,10 @@ Wān Hsakhken
 Wān Hsalimum
 Wān Hsam Kang
 Wān Hsam-mok
-Wān Hsamhsum
+Wān Hsamhsūm
 Wān Hsamkawng
 Wān Hsampu
 Wān Hsamte
-Wān Hsan
 Wān Hsan Hpaw
 Wān Hsang
 Wān Hsanghpaw
@@ -27937,6 +27880,7 @@ Wān Hsen-ūmkiao
 Wān Hsen-ūmmong
 Wān Hsenbūnhöng
 Wān Hsenghpūng
+Wān Hsenglao, Wan Hseng Lan
 Wān Hsengnaw
 Wān Hsenhawng
 Wān Hsenhkam-hsao
@@ -27951,8 +27895,8 @@ Wān Hsenhkamhsūng
 Wān Hsenhkamhöng
 Wān Hsenhkamhüng
 Wān Hsenhkamlao
-Wān Hsenhkamleng, Hsenhkamleng, Wān Hsenlikamleng
 Wān Hsenhkamlü
+Wān Hsenhkamlēng, Hsenhkamleng, Wān Hsenlikamleng
 Wān Hsenhkammun, Wan Hsenhkammon
 Wān Hsenhkampeng
 Wān Hsenhkamsao, Hsenhkam sao
@@ -27989,8 +27933,10 @@ Wān Hsenkat
 Wān Hsenkawng
 Wān Hsenke-li, Hsenke-li
 Wān Hsenkek
+Wān Hsenkiao
 Wān Hsenkohkam
 Wān Hsenkwen
+Wān Hsenkyao
 Wān Hsenkēm
 Wān Hsenlao
 Wān Hsenlem, Hsenlem
@@ -28003,6 +27949,7 @@ Wān Hsenlōngmūnping, Hsenlōngmūnping
 Wān Hsenlōngpawsüng
 Wān Hsenlōngpūnma
 Wān Hsenlōngsai, Hsenlōngsai
+Wān Hsenmau, Wān Mu-hsö Hsenmau
 Wān Hsenmaü
 Wān Hsenmöng
 Wān Hsenmöngpan
@@ -28014,17 +27961,18 @@ Wān Hsenpu-hkam
 Wān Hsenpu-htawn
 Wān Hsenpu-hüng
 Wān Hsensa-lè
+Wān Hsensai
 Wān Hsensawmawng, Wān Mu-hsö Hsensawmawng
 Wān Hsense-ya
 Wān Hsensu Hwè-koi
 Wān Hsensumhkam
-Wān Hsensumpu, Wān Mu-hsö Hsensumpū
+Wān Hsensumpū, Wān Mu-hsö Hsensumpū
 Wān Hsensüm
 Wān Hsensüm Makhinlap
 Wān Hsensüm Panghpak
 Wān Hsenta-na
 Wān Hsentaw
-Wān Hsentong, Hsentong
+Wān Hsentōng, Hsentong
 Wān Hsenwo-tawng, Wan Hsenwo-twang
 Wān Hsenwūnhöng, Hsenwūnhong
 Wān Hsenzai
@@ -28066,7 +28014,7 @@ Wān Hsio-tawng, Wan Hsioshtawng
 Wān Hsoi-hai, Wan Hsoih-Hai
 Wān Hsonhka
 Wān Hsonhkun
-Wān Hsophwe, Wān Hsuphwè
+Wān Hsophwè, Wān Hsuphwè
 Wān Hsoppaw
 Wān Hsopsang
 Wān Hsoptak
@@ -28092,6 +28040,7 @@ Wān Hsè
 Wān Hsè-ka-pè
 Wān Hsöngngön
 Wān Hsā-long
+Wān Hsān
 Wān Hsē-le
 Wān Hsōn-kwè
 Wān Hsōpkyawng
@@ -28110,7 +28059,7 @@ Wān Htam
 Wān Htamhkam
 Wān Htamhpa-leng
 Wān Htamhsio
-Wān Htamkwang
+Wān Htamkwāng
 Wān Htamlong
 Wān Htammōn
 Wān Htamngün
@@ -28141,22 +28090,19 @@ Wān Hung, Ban Hung
 Wān Huo-hsiao-chai
 Wān Hwai-tēng
 Wān Hwe-hinlām
-Wān Hwe-hkan
 Wān Hwe-hsa-pak
 Wān Hwe-hsā-pok
 Wān Hwe-pe
 Wān Hwe-ponglin
-Wān Hwe-wat
 Wān Hwe-ye-long
 Wān Hwelawt
 Wān Hwi-hsūm
 Wān Hwi-long
+Wān Hwè, Hwe
 Wān Hwè Lwat
 Wān Hwè-aw, Wān Kwè-aw
-Wān Hwè-ha
 Wān Hwè-hak
 Wān Hwè-hawm
-Wān Hwè-he
 Wān Hwè-heng
 Wān Hwè-het
 Wān Hwè-hin
@@ -28165,35 +28111,39 @@ Wān Hwè-hka-nö
 Wān Hwè-hka-tām
 Wān Hwè-hkai
 Wān Hwè-hkam
+Wān Hwè-hkan
 Wān Hwè-hkang
 Wān Hwè-hkaw
-Wān Hwè-hke
 Wān Hwè-hkit
 Wān Hwè-hku
+Wān Hwè-hkè
 Wān Hwè-ho
 Wān Hwè-hoi
 Wān Hwè-hpa
 Wān Hwè-hpakkan
 Wān Hwè-hpakkat-nōk, Wan Hwe-hpak-kat-nek
 Wān Hwè-hpakkatnōk
-Wān Hwè-hpakkut
+Wān Hwè-hpakkūt
 Wān Hwè-hpap
 Wān Hwè-hpe
 Wān Hwè-hpüng, Wan Hwebaung
 Wān Hwè-hpūn, Hwe-hpun
 Wān Hwè-hsa-nak
 Wān Hwè-hsai
-Wān Hwè-hsan
 Wān Hwè-hsangngim, Hwē-hsangngim
 Wān Hwè-hsin
 Wān Hwè-hsio
+Wān Hwè-hsān
 Wān Hwè-hsūm
 Wān Hwè-htaw
 Wān Hwè-htawpa-à
 Wān Hwè-hu
 Wān Hwè-hum
+Wān Hwè-hè
 Wān Hwè-hök
+Wān Hwè-hā
 Wān Hwè-hāng
+Wān Hwè-hōk
 Wān Hwè-kao
 Wān Hwè-kaw
 Wān Hwè-king
@@ -28210,10 +28160,10 @@ Wān Hwè-lawt
 Wān Hwè-linlan
 Wān Hwè-lo
 Wān Hwè-loi
-Wān Hwè-long
 Wān Hwè-lö, Wān Kwi Hwe-lö
 Wān Hwè-lü
 Wān Hwè-lē
+Wān Hwè-lōng
 Wān Hwè-lūk
 Wān Hwè-mai
 Wān Hwè-mai-tek
@@ -28236,6 +28186,7 @@ Wān Hwè-ning
 Wān Hwè-paw
 Wān Hwè-pawp
 Wān Hwè-pon
+Wān Hwè-pong
 Wān Hwè-pu
 Wān Hwè-pōk
 Wān Hwè-pūng, Wan Hwa-pung
@@ -28248,6 +28199,7 @@ Wān Hwè-tanglai
 Wān Hwè-tö
 Wān Hwè-tāt
 Wān Hwè-wai, Hwè-wai
+Wān Hwè-wat
 Wān Hwè-wet
 Wān Hwè-wōng
 Wān Hwè-ya-ngawk, Hwè-ya-ngawk
@@ -28268,14 +28220,17 @@ Wān Hük
 Wān Hüntao, Wan Hungtao
 Wān Hāng
 Wān Hāngnawng
+Wān Hāngnā
 Wān Hēm
 Wān Hēnnao
 Wān Hō-hat
+Wān Hō-möng
 Wān Hō-namheng
 Wān Hō-poi
 Wān Hō-sēng
 Wān Hō-ta
 Wān Hōhko
+Wān Hōk
 Wān Hōkhin
 Wān Hū-long
 Wān I-hsā
@@ -28291,6 +28246,7 @@ Wān Ka-te
 Wān Kai-ti-sa
 Wān Kala
 Wān Kamnak
+Wān Kan
 Wān Kan Awt
 Wān Kang-na
 Wān Kanghang
@@ -28326,6 +28282,7 @@ Wān Kawk
 Wān Kawkāw
 Wān Kawm
 Wān Kawn
+Wān Kawng
 Wān Kawnghkam
 Wān Kawnghsang
 Wān Kawnghum
@@ -28333,8 +28290,8 @@ Wān Kawngi
 Wān Kawngkang, Wān Kawngrang
 Wān Kawngkip
 Wān Kawnglāng
-Wān Kawngme-salan
 Wān Kawngmu
+Wān Kawngmè-salan
 Wān Kawngmū-tun
 Wān Kawngmūng, Wān Kongmog
 Wān Kawngpang
@@ -28355,9 +28312,7 @@ Wān Ke-nai, Wān Kwi Ke-nai
 Wān Keng, Keng
 Wān Keng Tawng
 Wān Kenghin
-Wān Kenghkam
 Wān Kenghsen, Kenghsen
-Wān Kengtawng
 Wān Ki-ri
 Wān Kiao
 Wān Kiao-löng
@@ -28381,6 +28336,7 @@ Wān Ko-sa-pa
 Wān Ko-tau
 Wān Ko-tou
 Wān Koktaü
+Wān Kon
 Wān Konghai
 Wān Konghak
 Wān Konghang
@@ -28392,6 +28348,7 @@ Wān Kongkat, Wān Konggat
 Wān Kongkaw
 Wān Kongkeng, Wan Kowkeng
 Wān Kongkyen
+Wān Konglang
 Wān Konglio
 Wān Konglom
 Wān Konglong
@@ -28410,7 +28367,7 @@ Wān Kongwit
 Wān Konhpai
 Wān Konlang
 Wān Konmyo-zai
-Wān Konna
+Wān Konnā
 Wān Kontawng, Wān Kantawng
 Wān Ksengae-lo
 Wān Ku
@@ -28421,7 +28378,7 @@ Wān Kunhkan
 Wān Kunkawk
 Wān Kunlong
 Wān Kunlēng
-Wān Kunna
+Wān Kunnā
 Wān Kunsang
 Wān Kuntēng
 Wān Kutlong
@@ -28436,6 +28393,7 @@ Wān Kyaukpet
 Wān Kyauktan
 Wān Kyaung
 Wān Kyawk Tun
+Wān Kyawng
 Wān Kyawng-yang
 Wān Kyen, Kyen
 Wān Kyong
@@ -28451,24 +28409,28 @@ Wān Kõngkyaung
 Wān Kön
 Wān Köng
 Wān Köngnö-hpoi
+Wān Kāng
 Wān Kāngnoi
 Wān Kāngwo
 Wān Kāp
+Wān Kāt, Kat
 Wān Kāt-ho-hko
 Wān Kātka
 Wān Kē-noi
 Wān Kē-tu
+Wān Kēnghkam
 Wān Kēnghkang
 Wān Kēnglik
 Wān Kēnglōng, Wān Kaw Kēng Löng
+Wān Kēngtawng
+Wān Kōng
+Wān Kūn
 Wān Kūnghsa
 Wān Kūngmōng
 Wān Kūngpao, Wān Kūngnao
 Wān Kūngāt
 Wān Kūnpūng
 Wān Kūt
-Wān La
-Wān La-bā
 Wān La-hpē
 Wān La-htawhku
 Wān La-hè
@@ -28510,7 +28472,7 @@ Wān Lao-sao
 Wān Lao-ta
 Wān Lao-tūngchai
 Wān Lao-wangchai
-Wān Lao-yang
+Wān Lao-yāng
 Wān Law
 Wān Lawkkin
 Wān Lawkpo
@@ -28529,9 +28491,7 @@ Wān Lawnlūng
 Wān Lawnsai, Wan Lawnsa
 Wān Lawntan
 Wān Lawt
-Wān Le
 Wān Lemfai, Wān Lenfai
-Wān Leng
 Wān Lengpa-chai, Wan Lengoa-chai
 Wān Lenhtio
 Wān Lenpokhsamlok
@@ -28543,13 +28503,14 @@ Wān Li-tzu-shan
 Wān Lik
 Wān Linmon
 Wān Lo-li
+Wān Loi
 Wān Loi Hkam
 Wān Loi Pan
 Wān Loi-awn
 Wān Loi-hkawk
 Wān Loi-hkawng
-Wān Loi-hku
 Wān Loi-hkung
+Wān Loi-hkū
 Wān Loi-hpakmān
 Wān Loi-hpaw
 Wān Loi-hpwi
@@ -28566,10 +28527,11 @@ Wān Loi-kwai
 Wān Loi-kyeng, Wan Loi-Kyang
 Wān Loi-lan
 Wān Loi-lawm
+Wān Loi-lem
 Wān Loi-leng
 Wān Loi-lim
-Wān Loi-long
 Wān Loi-lü, Wān Kaw Loi-lu
+Wān Loi-lōng
 Wān Loi-ma
 Wān Loi-maw
 Wān Loi-met
@@ -28588,9 +28550,9 @@ Wān Loi-pwi
 Wān Loi-pū
 Wān Loi-sawn
 Wān Loi-ta, Wān Mu-hsö Loi-ta
-Wān Loi-tang
 Wān Loi-tau
 Wān Loi-tawng
+Wān Loi-tāng
 Wān Loi-weng
 Wān Loi-wengtampè
 Wān Loi-yai, Wān Loi-vai
@@ -28623,15 +28585,21 @@ Wān Lu-yoi
 Wān Luk-yo
 Wān Lukkang
 Wān Lungtangko, Wan-Lungtangka
+Wān Lwè
+Wān Lè
 Wān Lö
 Wān Lön
 Wān Löng
 Wān Löngkai
+Wān Lā
+Wān Lā-bā
 Wān Lān
 Wān Lēk
 Wān Lēm
+Wān Lēng
 Wān Lō
 Wān Lōm
+Wān Lōng, Long, Pang Hseng
 Wān Lōnghkè
 Wān Lōngmun
 Wān Lōngtūng
@@ -28658,12 +28626,12 @@ Wān Mai-maw
 Wān Mai-omlau
 Wān Maik
 Wān Maipok, Maipok
-Wān Mak, Māk
 Wān Mak Lang
 Wān Mak Leng
 Wān Mak-anghkang
 Wān Mak-ka
 Wān Mak-keng
+Wān Mak-yāng
 Wān Mak-ünlao
 Wān Mak-ō
 Wān Makhin
@@ -28679,12 +28647,11 @@ Wān Makhpwi
 Wān Makhpüng
 Wān Makhūnglōng
 Wān Makiang
-Wān Makka
 Wān Makkao
 Wān Makkawk
 Wān Makkeng
 Wān Makkingku
-Wān Maklang
+Wān Makkā
 Wān Makleng
 Wān Maklā
 Wān Makma
@@ -28701,7 +28668,6 @@ Wān Maksa-li
 Wān Maksūk
 Wān Makwai
 Wān Makwo
-Wān Man
 Wān Man Kin Kaw
 Wān Manaw
 Wān Manghsu-ling
@@ -28710,6 +28676,7 @@ Wān Mangka-lo-taü
 Wān Manglün
 Wān Mansaw
 Wān Manta-leng, Wan Manbalaing, Wān Manta-jeng
+Wān Mao
 Wān Maw
 Wān Maw-loi-ho, Wān Mau-loi-hö
 Wān Mawhkawhkaw
@@ -28735,18 +28702,17 @@ Wān Mawntōn
 Wān Mawnwa
 Wān Maü, Ban Mau, Maü
 Wān Maü-wān
+Wān Maū
 Wān Me-hsiao
 Wān Me-lawng
 Wān Me-nim
 Wān Me-nö, Wān Mo-hö
 Wān Me-sai
-Wān Me-salin
 Wān Me-songlaw
 Wān Min-tai
 Wān Ming Ak, Wan Hing Ak
 Wān Mingshan
 Wān Mon
-Wān Mong
 Wān Monkat
 Wān Mot
 Wān Motle, Wan Motte
@@ -28784,6 +28750,7 @@ Wān Mè-leng
 Wān Mè-pan
 Wān Mè-pawng
 Wān Mè-sa-lawm, Wān Mèisa-lawm
+Wān Mè-salin
 Wān Mè-taü
 Wān Mè-yūp-yāp, Wān Mè-yāp-yen
 Wān Mèhai
@@ -28838,13 +28805,16 @@ Wān Münlūng
 Wān Münsai, Wān Mu-hsö Münsai, Wān Munsai Wanton, Wān Wünsai
 Wān Münsan
 Wān Münyaw, Wan Munyan
+Wān Māk, Māk
 Wān Māk-nö
 Wān Mākhkangnoi
 Wān Mākho
 Wān Mākhpā
 Wān Mākkēnglong
+Wān Māklāng
 Wān Māksawk
 Wān Mākwan
+Wān Mān
 Wān Māng
 Wān Māngtam
 Wān Mē-aw, Wan Mu-hsö Mè-aw
@@ -28852,6 +28822,7 @@ Wān Mē-hkao
 Wān Mē-nam-un, Wan Me-nam-up
 Wān Mē-sa-lan
 Wān Mē-sōk
+Wān Mōng
 Wān Mōng Sit
 Wān Mōtlet
 Wān Mōtpyen
@@ -28863,19 +28834,15 @@ Wān Mūn
 Wān Mūnlöng
 Wān Na Yawng
 Wān Na-aw
-Wān Na-awn
 Wān Na-hai
 Wān Na-henghkam
 Wān Na-hin
-Wān Na-hka
-Wān Na-hkai
 Wān Na-hkawn, Tai-loi
 Wān Na-hkon
 Wān Na-hong
 Wān Na-hpeit
 Wān Na-hpān
 Wān Na-hpēn
-Wān Na-hsai
 Wān Na-hsan
 Wān Na-hsang
 Wān Na-hsawn-kwè
@@ -28885,32 +28852,27 @@ Wān Na-hāng, Na-hang
 Wān Na-kang
 Wān Na-kok
 Wān Na-lang
-Wān Na-lao
 Wān Na-lawn
-Wān Na-le
 Wān Na-leng
+Wān Na-lè
 Wān Na-lö
 Wān Na-maü
-Wān Na-mon
 Wān Na-myinhsawm
 Wān Na-mōk
+Wān Na-mūn, Wana Mun
 Wān Na-nam
 Wān Na-namsāng
-Wān Na-niu
 Wān Na-noi
 Wān Na-nu
 Wān Na-ong
-Wān Na-ping
+Wān Na-pang
 Wān Na-pwai
 Wān Na-pè
 Wān Na-pōng
 Wān Na-tam
-Wān Na-taw
-Wān Na-tawng
 Wān Na-tong
 Wān Na-tung
 Wān Na-tūm
-Wān Na-yang
 Wān Na-yao
 Wān Na-yao-nö
 Wān Na-yao-taü
@@ -28939,11 +28901,11 @@ Wān Nam-hu
 Wān Nam-ok
 Wān Nam-pai
 Wān Nam-rawka
-Wān Nam-un, Wan Nam-mun
 Wān Nam-wak, Wān Nam-wok
 Wān Nam-yang
 Wān Nam-üt
 Wān Nam-āng
+Wān Nam-ūn, Wan Nam-mun
 Wān Nambaw
 Wān Namfēng
 Wān Namha
@@ -28962,6 +28924,7 @@ Wān Namhka
 Wān Namhkai
 Wān Namhkam, Wān Namhkan
 Wān Namhko, Wān Kaw Namhko
+Wān Namhkon
 Wān Namhku, Namhku
 Wān Namhkwè
 Wān Namhkè, Wān Mamhkè, Wān Mu-hsö Namhkè
@@ -28985,10 +28948,10 @@ Wān Namhsoi
 Wān Namhsong
 Wān Namhsopwo
 Wān Namhsū, Wān Kaw Namhsu
-Wān Namhu
 Wān Namhu-leng
 Wān Namhu-mawng
 Wān Namhān
+Wān Namhū
 Wān Namhū-nawn
 Wān Namhū-omhkom
 Wān Namka
@@ -28996,6 +28959,7 @@ Wān Namkai
 Wān Namkai-nö
 Wān Namkam, Wan Namkan
 Wān Namkao
+Wān Namkat
 Wān Namkawk
 Wān Namkeng
 Wān Namkhēt, Wān Kaw Namkhet
@@ -29016,12 +28980,11 @@ Wān Namlenglawng
 Wān Namlep
 Wān Namlin, Wān Kaw Namlin
 Wān Namlit
-Wān Namlok, Namlok
 Wān Namlu
 Wān Namlüngkaw
+Wān Namlōk, Namlok
 Wān Namlōm
 Wān Namlōng, Wān Muhsö-namlōng
-Wān Namma
 Wān Namma-lun
 Wān Nammai
 Wān Nammak
@@ -29036,11 +28999,12 @@ Wān Nammawng
 Wān Nammawngnö
 Wān Nammawping
 Wān Nammawtat
-Wān Nammawwan
+Wān Nammawwān
 Wān Nammoi
 Wān Nammwè
 Wān Nammöng
 Wān Nammü
+Wān Nammā
 Wān Nammōng
 Wān Namnang, Wan Nannang
 Wān Namnat, Namnat
@@ -29098,9 +29062,9 @@ Wān Namtung
 Wān Namtwe
 Wān Namtüp
 Wān Namtōng
-Wān Namwa
 Wān Namwan
 Wān Namwang
+Wān Namwā
 Wān Namwōk
 Wān Namya
 Wān Namyanö
@@ -29137,12 +29101,12 @@ Wān Nawnghkan
 Wān Nawnghkēng
 Wān Nawngho
 Wān Nawnghoi
-Wān Nawnghok
 Wān Nawnghsa
 Wān Nawnghsamlem
 Wān Nawnghsem
 Wān Nawnghsi
 Wān Nawnghēng
+Wān Nawnghōk
 Wān Nawnghōng
 Wān Nawngkao
 Wān Nawngkiao, Nawngkiao
@@ -29159,10 +29123,10 @@ Wān Nawnglao
 Wān Nawnglawng, Wan Nawng-awng
 Wān Nawnglen
 Wān Nawngleng
-Wān Nawnglong
 Wān Nawnglük
 Wān Nawnglāng, Wan Nawngllang
 Wān Nawnglōm
+Wān Nawnglōng
 Wān Nawngmau
 Wān Nawngmawng
 Wān Nawngmaü
@@ -29194,6 +29158,7 @@ Wān Nga-hö-noi, Wan Nga-ho-no
 Wān Nga-sang
 Wān Ngai
 Wān Ngawk-ho
+Wān Ngawt, Wān Ngawn
 Wān Ngeknawk
 Wān Ngēk, Wan Ngok
 Wān Ngōng
@@ -29210,24 +29175,32 @@ Wān Nyawnghsai
 Wān Nyawngsu
 Wān Nyeknam
 Wān Nö
+Wān Nā
 Wān Nā Hit
 Wān Nā King
+Wān Nā-awn
 Wān Nā-he
+Wān Nā-hi
+Wān Nā-hkai
+Wān Nā-hkā
 Wān Nā-hpai
+Wān Nā-hsai
 Wān Nā-hsanhkim
 Wān Nā-hse-lik
 Wān Nā-hsim
 Wān Nā-kawk
 Wān Nā-kawng
-Wān Nā-kawngmu
+Wān Nā-kawngmū
 Wān Nā-keng
 Wān Nā-king
 Wān Nā-kip
 Wān Nā-kong
 Wān Nā-kun
 Wān Nā-kyawng
+Wān Nā-lao
 Wān Nā-lawt
 Wān Nā-lek
+Wān Nā-lin
 Wān Nā-ling
 Wān Nā-liu
 Wān Nā-long
@@ -29236,20 +29209,27 @@ Wān Nā-lum
 Wān Nā-makhkaw
 Wān Nā-mawn
 Wān Nā-mong
+Wān Nā-mōn
+Wān Nā-niu
 Wān Nā-num
 Wān Nā-nā-hsan, Wān Nā-nā-haan
 Wān Nā-on
-Wān Nā-pa-kao
 Wān Nā-paw
+Wān Nā-ping
+Wān Nā-pā-kao
 Wān Nā-pā-mai
 Wān Nā-sam
 Wān Nā-san
+Wān Nā-taw
+Wān Nā-tawng
 Wān Nā-ton
 Wān Nā-un
 Wān Nā-wit
 Wān Nā-wo
+Wān Nā-yang
 Wān Nā-yok
 Wān Nāhkā
+Wān Nām
 Wān Nāng
 Wān Nāpong
 Wān Nōk
@@ -29259,7 +29239,6 @@ Wān Om-tüng
 Wān Omkenglong, Omkenglong
 Wān Pa Taung
 Wān Pa-Hpyèt, Wan Papyet
-Wān Pa-hka, Wān Kaw Pā-hka
 Wān Pa-hkaw
 Wān Pa-hkem
 Wān Pa-hki
@@ -29267,11 +29246,10 @@ Wān Pa-hkūmtau
 Wān Pa-hpa-lōng
 Wān Pa-hpang
 Wān Pa-hpiu, Pa-hpiu
-Wān Pa-hsa
 Wān Pa-hsan
-Wān Pa-hsang, Wān Kaw Pā-hsang
 Wān Pa-hsangno
 Wān Pa-hsaw
+Wān Pa-hsā
 Wān Pa-hōk, Wān Kaw Pa-hök
 Wān Pa-kao
 Wān Pa-kwē
@@ -29282,8 +29260,8 @@ Wān Pa-lan
 Wān Pa-lao, Wān Kaw Pa-lao
 Wān Pa-lao-tau
 Wān Pa-laü
-Wān Pa-leng, Paleng
 Wān Pa-lim
+Wān Pa-lēng, Paleng
 Wān Pa-min
 Wān Pa-mong
 Wān Pa-mūn
@@ -29293,8 +29271,6 @@ Wān Pa-nga
 Wān Pa-ning
 Wān Pa-niu
 Wān Pa-pan, Wānpun
-Wān Pa-pi
-Wān Pa-pu
 Wān Pa-pyek
 Wān Pa-pōk
 Wān Pa-pūn
@@ -29314,8 +29290,8 @@ Wān Paklam
 Wān Palao, Wān Patao
 Wān Palen
 Wān Palo
+Wān Pan
 Wān Pan-hkan
-Wān Pang
 Wān Pang-an
 Wān Pang-e
 Wān Pang-yangnoi
@@ -29324,24 +29300,18 @@ Wān Pang-ying
 Wān Pang-yo
 Wān Pang-yōk
 Wān Pang-yūng
-Wān Panghai
 Wān Panghak
 Wān Panghang
 Wān Panghin
-Wān Panghio
 Wān Panghka
 Wān Panghka-lõng
 Wān Panghka-taü
-Wān Panghkam
 Wān Panghkawm
 Wān Panghki-het
 Wān Panghkok
 Wān Panghok
 Wān Panghon
-Wān Panghpya
-Wān Panghsa
 Wān Panghsa-li
-Wān Panghsan
 Wān Panghsao
 Wān Panghso
 Wān Panghsoi
@@ -29350,16 +29320,13 @@ Wān Panghök
 Wān Pangkai-nö
 Wān Pangkai-taü
 Wān Pangkang
-Wān Pangkaw
 Wān Pangkawkawm, Pangkawkawm, Wān Kaw Pangkawkawm
 Wān Pangkawlao
 Wān Pangkawng, Pang-kawng
 Wān Pangkiu
 Wān Pangkup, Pangkup
-Wān Pangkwai
 Wān Pangkyen
 Wān Pangkā-tawm
-Wān Panglaw
 Wān Pangmaihkao, Wan Pangmaihako
 Wān Pangmaw
 Wān Pangmawng
@@ -29369,8 +29336,6 @@ Wān Pangniu, Wān Kaw Pangniu
 Wān Pangnwat
 Wān Pangnö
 Wān Pangpakwong
-Wān Pangpaw
-Wān Pangping
 Wān Pangpoi
 Wān Pangpok
 Wān Pangpwoi
@@ -29380,14 +29345,12 @@ Wān Pangpūngtau, Wan Pangpunglau
 Wān Pangsai-lōng
 Wān Pangsakhkai
 Wān Pangsawk
-Wān Pangsong
 Wān Pangsūng, Pangsūng
 Wān Pangtawn
 Wān Pangtawngsing, Wan Pangtawngaing
 Wān Pangting
 Wān Pangtunkenghkam
 Wān Pangtüng
-Wān Pangwo, Wān Pango
 Wān Pangwo-lēng
 Wān Pangya-yong
 Wān Pangyök
@@ -29399,7 +29362,6 @@ Wān Panmang
 Wān Pao
 Wān Pao-chu
 Wān Patang-ngai
-Wān Paw
 Wān Paw-ai-ho-lēng
 Wān Paw-ai-noi
 Wān Paw-hpal, Wan Paw-hpat
@@ -29428,7 +29390,6 @@ Wān Pekhsup
 Wān Peklam
 Wān Peklawn, Wan Pakiawe, Wan Päklawn
 Wān Pekti
-Wān Peng
 Wān Penghkang
 Wān Penghsang
 Wān Penglong
@@ -29448,7 +29409,6 @@ Wān Ponghan
 Wān Ponghawng
 Wān Ponghpang
 Wān Pongkun, Wān Punghkun
-Wān Ponglao
 Wān Ponglik
 Wān Pongsalik
 Wān Pongtawng
@@ -29463,11 +29423,11 @@ Wān Pu-hsensa-hka
 Wān Pu-hsin, Wān Pu-hsain
 Wān Pu-htao
 Wān Pu-ka-lö
-Wān Pu-keng
 Wān Pu-kyawng
 Wān Pu-kyawng-awn
 Wān Pu-kyawnghseng
 Wān Pu-kè
+Wān Pu-kēng
 Wān Pu-lak
 Wān Pu-leng
 Wān Pu-luk, Pu-luk
@@ -29479,14 +29439,13 @@ Wān Pu-möng
 Wān Pu-mün
 Wān Pu-müngkak
 Wān Pu-mūn
-Wān Pu-san
 Wān Pu-sang
+Wān Pu-sān
 Wān Pu-tam
 Wān Pu-tao
 Wān Punghket, Wān En Punghket
 Wān Pungho-möng
 Wān Punghpan
-Wān Pungkangloi
 Wān Pungna-lao, Wān Pungna-tao
 Wān Pungsong, Pungsong
 Wān Pungwai
@@ -29497,39 +29456,54 @@ Wān Pyek
 Wān Pyi-yi
 Wān Pyinghsai, Wan Pyingheai
 Wān Pè
+Wān Pëng
 Wān Pöng
 Wān Pü
 Wān Püng
 Wān Pā-aw
+Wān Pā-hkā, Wān Kaw Pā-hka
 Wān Pā-hpa
 Wān Pā-hsak
+Wān Pā-hsang, Wān Kaw Pā-hsang
 Wān Pā-hū
 Wān Pā-kè
 Wān Pā-lao-nō
 Wān Pā-man, Pā-man
 Wān Pā-neng
+Wān Pā-pi
 Wān Pā-ping
+Wān Pā-pu
 Wān Pā-te
 Wān Pā-tip
 Wān Pā-wawng
 Wān Pā-wawngmē-hsat
 Wān Pākkao
+Wān Pāng
 Wān Pāng-yum
 Wān Pāngao
+Wān Pānghai
 Wān Pānghi
+Wān Pānghio
 Wān Pānghkai
+Wān Pānghkam
 Wān Pānghkao-lam
 Wān Pānghkö
+Wān Pānghpya
 Wān Pānghpya-nö
+Wān Pānghsa
 Wān Pānghsak
+Wān Pānghsan
 Wān Pānghōng
 Wān Pāngkap
+Wān Pāngkaw
 Wān Pāngkek
 Wān Pāngkeng
 Wān Pāngkiulām, Pangkiu-lam, Wān Pāngkutām
 Wān Pāngkop
+Wān Pāngkwai
 Wān Pānglao
 Wān Pānglao-long
+Wān Pānglaw
 Wān Pānglawk
 Wān Pāngleng
 Wān Pānglong
@@ -29540,18 +29514,25 @@ Wān Pāngman
 Wān Pāngmöng
 Wān Pāngnge
 Wān Pāngpao
+Wān Pāngpaw
 Wān Pāngpawng
 Wān Pāngpek
+Wān Pāngping
 Wān Pāngsa-lan
 Wān Pāngsa-li
+Wān Pāngsong
 Wān Pāngsun, Wān Pāngsum
 Wān Pāngtawng
 Wān Pāngwawn, Pāngwawn
+Wān Pāngwo, Wān Pango
 Wān Pānhong
 Wān Pānka
+Wān Pāw
 Wān Pēk
 Wān Pōk
 Wān Pōktaü
+Wān Pōng, Pong
+Wān Pōnglao
 Wān Pū-kawn
 Wān Pū-sannōt
 Wān Pūkkala
@@ -29562,6 +29543,7 @@ Wān Pūnghka, Pūnghka
 Wān Pūnghpa
 Wān Pūnghsai
 Wān Pūngkan, Wān Pūngkang
+Wān Pūngkangloi
 Wān Pūngkyawng
 Wān Pūnglõng
 Wān Pūngmao, Wān Kaw Pūngmao
@@ -29603,6 +29585,7 @@ Wān Ra-sa-hsompān, Ra-sa-hsompan
 Wān Ra-sa-hsumpan, Wan Ra-sa-hsumpa
 Wān Ra-sa-kawnghseng
 Wān Ra-sa-kawngklao, Wan Ra-sa-kawngkiao
+Wān Ra-sa-kiao
 Wān Ra-sa-longhkamtep
 Wān Ra-sa-longhkamwang
 Wān Ra-sa-lōnghkün
@@ -29633,7 +29616,6 @@ Wān Sa-hsa-kaw
 Wān Sa-hsi-ti
 Wān Sa-hsu, Wan Muhsu, Wān Muhsö Sa-hsu
 Wān Sa-hsè
-Wān Sa-hta-ni
 Wān Sa-hti
 Wān Sa-i
 Wān Sa-inta
@@ -29672,10 +29654,8 @@ Wān Sahsi
 Wān Sai
 Wān Sakhka
 Wān Saksa
-Wān Sam
 Wān Sampā, Sampā
 Wān San
-Wān Sang
 Wān Sanghe
 Wān Sanghkam, Wān Muhsö Sanghkam
 Wān Sanglang
@@ -29713,10 +29693,14 @@ Wān Sum
 Wān Sun
 Wān Süknoi
 Wān Süng
+Wān Sā-hta-ni
 Wān Sā-lüm
+Wān Sām
+Wān Sāng
 Wān Sānghpök
 Wān Sāngtawng
 Wān Sē-li
+Wān Sēng
 Wān Sēngkawn
 Wān Sōng
 Wān Sūmpōk
@@ -29733,7 +29717,6 @@ Wān Ta-lai
 Wān Ta-let
 Wān Ta-letnö
 Wān Ta-lettau
-Wān Ta-long
 Wān Ta-lö, Ta-lo
 Wān Ta-me-inkiao, Ta-me-inkiao
 Wān Ta-nging, Wān Ta-ngning
@@ -29751,12 +29734,13 @@ Wān Ta-tinghkam
 Wān Ta-tok
 Wān Ta-wantzu
 Wān Ta-yu-shu
+Wān Tai
 Wān Tai-loi
 Wān Tak, Tak
 Wān Taklan
 Wān Taklek
-Wān Taklet, Wān Taklei
 Wān Taklit
+Wān Taklēt, Wān Taklei
 Wān Talam
 Wān Tam
 Wān Tam Ngong
@@ -29764,7 +29748,6 @@ Wān Tame, Ta-me
 Wān Tamngong
 Wān Tamongkai
 Wān Tan
-Wān Tang, Tang
 Wān Tao
 Wān Tao-hsa-mi
 Wān Tao-kong
@@ -29778,9 +29761,11 @@ Wān Tathsong
 Wān Tau Mē-hkawng
 Wān Taw
 Wān Taw-aw, Wān Tawlaw
+Wān Tawk
 Wān Tawkaw
 Wān Tawkkawng
 Wān Tawn
+Wān Tawng
 Wān Tawnghsawk
 Wān Tawngkaw
 Wān Tawngkwit
@@ -29800,7 +29785,6 @@ Wān Tintok
 Wān Tiu
 Wān To-long
 Wān Toknawng
-Wān Tong
 Wān Tonghkam
 Wān Tonghpa
 Wān Tonghpa-leng
@@ -29842,6 +29826,7 @@ Wān Tā-hkan
 Wān Tā-hko-mè
 Wān Tā-hsamngok, Wān Tā-hsmangok
 Wān Tā-lawt, Nam Tā-lawt
+Wān Tā-long
 Wān Tā-lōm
 Wān Tā-ma
 Wān Tā-möng
@@ -29853,8 +29838,10 @@ Wān Tā-pē
 Wān Tā-sang
 Wān Tā-sing
 Wān Tā-tum
+Wān Tāng, Tang
 Wān Tēnglong
 Wān Tēngnoi, Wān Tengnol
+Wān Tōng
 Wān Tōng-aw, Wan Tang-aw
 Wān Tōng-yong
 Wān Tōnghsi
@@ -29891,13 +29878,11 @@ Wān Wangpök
 Wān Wathkam
 Wān Wathsao, Wathsao
 Wān Waw
-Wān Weng
 Wān Wenghin
 Wān Wengken
 Wān Wengkiao
 Wān Wengleng, Wān Wenlang
 Wān Wengnang
-Wān Wengsai
 Wān Wo
 Wān Wo-lai
 Wān Wo-long
@@ -29908,12 +29893,14 @@ Wān Wè
 Wān Wön
 Wān Wān
 Wān Wāt
-Wān Wēngbūng, Wān Mu-hsö Wēngbū, Wān Mu-hsö Wēngbūng
+Wān Wēng
+Wān Wēngbūng, Wan Mu-hso Wēngbūng, Wān Mu-hsö Wēngbū
 Wān Wēnghpai-mai, Wan Wenghapimai, Wēnghpai-mai
 Wān Wēnghsūn
 Wān Wēnglān
 Wān Wēngmai, Wengmai
 Wān Wēngpun
+Wān Wēngsai
 Wān Ya
 Wān Ya-hko
 Wān Ya-kaw
@@ -29923,11 +29910,9 @@ Wān Yai
 Wān Yaklang
 Wān Yamlang
 Wān Yampēng
-Wān Yang, Yang, Yanghsaw
 Wān Yang-aw
 Wān Yangbo, Yangbo
 Wān Yanghai, Wan Yanghi
-Wān Yanghkai, Yanghkai
 Wān Yanghkam
 Wān Yanghkwai, Wan Yaghkwai, Yanghkwai
 Wān Yanghsaw, Yanghsaw
@@ -29937,13 +29922,11 @@ Wān Yangkawng
 Wān Yangkio
 Wān Yangla, Yangla
 Wān Yanglu-niu-tai
-Wān Yanglōng, Yanglōng
 Wān Yangma
 Wān Yangmā-len
 Wān Yangngün, Yangngün
 Wān Yangnoi
 Wān Yangseng
-Wān Yangtawng
 Wān Yangtawsan
 Wān Yangwat
 Wān Yantun
@@ -29962,21 +29945,26 @@ Wān Yawngsūn, Wān Yawngson
 Wān Yawngyao
 Wān Yawt
 Wān Ye
-Wān Yok
 Wān Yumtūn
 Wān Yungtaik
 Wān Yünno
 Wān Yüntau
+Wān Yāng, Yang, Yanghsaw
+Wān Yānghkai, Yanghkai
 Wān Yāngkawm
 Wān Yānglao
+Wān Yānglōng, Yanglōng
 Wān Yāngmaü
 Wān Yāngpao
 Wān Yāngpūng, Yāngpung
+Wān Yāngtawng
 Wān Yē-yā
+Wān Yōk
 Wān Yūmmoi
 Wān Yūmpāng
 Wān Yūng
 Wān hkang A-hkö
+Wān Èt
 Wān Öp
 Wān Üm
 Wān Ün
@@ -30000,7 +29988,9 @@ Wānhpai
 Wānhsamong
 Wānhwe
 Wānkang
+Wānkong
 Wānkot
+Wānkun
 Wānlong
 Wānmaklang
 Wānmau
@@ -30013,11 +30003,13 @@ Wānsawk
 Wānsè
 Wānyan
 Wārong
+Wāsha
 Wāsukyāng
 Wāta
 Wātu
 Wēlan
 Wēng-awn
+Wēnglōng
 Xing Ping Gai
 Ya Da Nar Bon Mi
 Ya Da Nar Pon
@@ -30467,7 +30459,6 @@ Yebawywa
 Yebein
 Yebezu
 Yebo, Yepo
-Yebok
 Yebokgale
 Yebokgyi
 Yebon
@@ -30494,6 +30485,7 @@ Yebyu, Yae Hpyu, ရေဖြူမြို့နယ်
 Yebyudwin, Yae Hpyu Twin
 Yebyukhin
 Yebyuzan
+Yebôk
 Yebôkkaing
 Yechanbyin
 Yechangyi
@@ -30514,7 +30506,6 @@ Yedwin
 Yedwin-gôn
 Yedwinchaung
 Yedwingaung
-Yedwingon, Yae Twin Kone Gyi, Yae Twin Kone Ywar Ma
 Yedwingyaung, Yedwindaung Ywa
 Yedwingyi
 Yedwingyun
@@ -30576,7 +30567,6 @@ Yekyikan
 Yela
 Yelaigyun
 Yelaung, Yeling
-Yele
 Yele Kayinywa, Yelē Karen
 Yelegale
 Yelegyi
@@ -30585,6 +30575,7 @@ Yelein
 Yelekyun
 Yelewa
 Yelungyaw
+Yelè
 Yema
 Yemagyichaung
 Yemagyidan
@@ -30653,7 +30644,6 @@ Yethaya
 Yethe
 Yetheik
 Yethkanzin
-Yetho, Yae Thoe, Yethu
 Yetho Atet
 Yethogale
 Yethogyi, Yethogy
@@ -30762,8 +30752,8 @@ Yintha
 Yintin, Yin Tin
 Yinwa
 Yinyaw
-Yinye
-Yinyein, Yeyein
+Yinyè
+Yinyèin, Yeyein
 Yinze
 Yipup
 Yit Chaung
@@ -30805,7 +30795,6 @@ Yon Kone
 Yon Lay Kone
 Yon Sheing
 Yon-ywa
-Yonbin
 Yonbindan
 Yonbindet
 Yonbingan
@@ -30926,7 +30915,6 @@ Ywahtet
 Ywakaingkaung, Palawkitko
 Ywale
 Ywalin
-Ywama
 Ywamabyin
 Ywamagyi
 Ywamana
@@ -30938,7 +30926,7 @@ Ywanaung, Taung Ywar Naung
 Ywange
 Ywangegan, Yengegan
 Ywanglai
-Ywapale
+Ywapalè
 Ywapoli
 Ywar Be, Yabe
 Ywar Bo
@@ -31010,8 +30998,8 @@ Ywathitgale
 Ywathitgyi
 Ywathitkale
 Ywathitke, Yawathitke
-Ywathitkon
 Ywathitkyi, Ywathitkiy
+Ywathitkôn
 Ywathitsu
 Ywatin
 Ywatpa
@@ -31027,6 +31015,7 @@ Yweywa
 Ywezu
 Ywitwi
 Ywozu
+Ywāma
 Yè-hkaw
 Yè-hman
 Yè-ta-gūn, Yedanagun
@@ -31034,12 +31023,15 @@ Yèbin
 Yèdein
 Yèdu
 Yègyin
+Yônbin
 Yüngpang
 Yünthwe, Yunthe
 Yābyo
 Yāngkawng
 Yāngno
+Yēdwingôn, Yae Twin Kone Gyi, Yae Twin Kone Ywar Ma
 Yēlē Sakān
+Yētho, Yae Thoe, Yethu
 Yētho-shanzu
 Yūyūt
 Za Gyan Kone, Sagyangon
@@ -31293,11 +31285,11 @@ Zibyugaing Ashe, Zibyuginashe
 Zibyugan
 Zibyugaung
 Zibyugin
-Zibyugon, ဇီးဖြူကုန်း
 Zibyugwin
 Zibyugyaung
 Zibyugyin
 Zibyugyun
+Zibyugôn, ဇီးဖြူကုန်း
 Zibyukwin
 Zibyuthaung, Zibyathaung
 Zibyuthaung Anauk, Zibyuthaungauk
@@ -31313,7 +31305,6 @@ Zigaing
 Zigan, Zigah
 Zigana
 Zigkin
-Zigon, Zigin, Zugon
 Zigon Ashe
 Zigwe
 Zigwē Tē
@@ -31322,6 +31313,7 @@ Zigyaung, Zichaung
 Zigyobin
 Zigyomaw
 Zigyun
+Zigôn, Zigin, Zugon
 Zikha
 Ziluthung
 Zimaw
@@ -31332,11 +31324,11 @@ Zin Bar, Zinba
 Zin Baung Pyin
 Zin Chaung
 Zinam
-Zinbon
 Zinbugon
 Zinbyo
 Zinbyun
 Zinbyungon, Zibyungon
+Zinbôn
 Zinchaung
 Zindainggale
 Zindainggyi
@@ -31393,10 +31385,18 @@ Zānkyun
 Zībinwe, Zee Pin Wea
 hang-pe
 Ôkkhin
+Ôkkyin
 Ôkma
+Ôkpo
 Ôkshit
+Ôkshitkôn, Okshithon, Okshitko
 Ôkthaik
+Ôktwin
+Ônbin, Onbinywa
+Ônbinzu, Ohn Pin Su
 Ônchaung
+Ôndaw, Ondau
+Ônhnêbôk, Ohnnhebok
 Ônnigyun
 Öm Taung
 Öm Tung

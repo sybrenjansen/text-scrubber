@@ -97,7 +97,6 @@ Akanabour, Akanabur
 Akane
 Akaraba
 Akebe Ville
-Akelayong
 Akernengoule
 Akighe Nlam
 Akighilam
@@ -116,8 +115,8 @@ Akom
 Akom Essakotam
 Akomba
 Akome I
-Akome II
 Akomé
+Akomé II
 Akonadem
 Akondjo, Acondjo, Aconjo, Akondjé, Débarcadère d'Akondjo
 Akork
@@ -138,9 +137,10 @@ Akounilen, Akolinem, Akonilen, Akoulinem, Akounilem
 Akountam
 Akour-Kok
 Akourman
-Akourmane
+Akourmané
 Akourmar
 Akournam, Akournamé
+Akélayong
 Alang
 Alanga I
 Alanga II
@@ -158,7 +158,6 @@ Alen Nkok-Aza
 Alen-Abanga
 Alen-Como
 Alenass
-Alene, Alene Mianga
 Alene Bissouma
 Alieme
 Allar Mourkevock
@@ -184,6 +183,7 @@ Alène Makora
 Alénakiri
 Alénassi
 Aléne Koraza
+Aléné, Alene Mianga
 Ambinda
 Amboki
 Amboumi
@@ -342,7 +342,6 @@ Ayeghening
 Ayeguening
 Ayeguening II
 Ayem, Lélédi
-Ayeme
 Ayenabour
 Ayengueni
 Ayenguening
@@ -353,6 +352,7 @@ Ayoumba
 Ayoumbi
 Ayéghé
 Ayéghélé-Mindock
+Ayémé
 Azap
 Azegué
 Azo I
@@ -846,12 +846,12 @@ Doukendema
 Doukoumou
 Douli
 Doum
-Doumai
 Doumamango
 Doumandzou
 Doumanzo
 Doumassi
 Doumatsengué
+Doumaï
 Doumboukombi
 Doumé
 Doungou
@@ -876,10 +876,8 @@ Ebamayong
 Ebamou
 Ebandaga, Ebandan, La Nsyé, Nsye
 Ebando
-Ebang
 Ebango
 Ebaredo
-Ebea
 Ebea-Akork
 Ebeigne
 Ebengon
@@ -899,6 +897,7 @@ Ebounfaga
 Ebsame II
 Ebyegn, Eyameyen, Ybien
 Ebé
+Ebéa
 Ebégnakok
 Ebél, Ebélé
 Ebéneyong I
@@ -963,7 +962,6 @@ Elléla
 Ellélem
 Elomba, Village Atova
 Elombé
-Elong Eko
 Elong-Eko
 Elope
 Eloum
@@ -1011,15 +1009,14 @@ Essanvougha
 Essendjoum
 Essogongone
 Essomilang
-Essone
 Essone Bizang
-Essong, Issoung I
 Essong Abam I, Esson
 Essong Abam III
 Essong I
 Essong II
 Essonia
 Essono
+Essoné
 Essoua
 Essoukou, Eçoukou
 Essoun-Alem
@@ -1037,10 +1034,10 @@ Eves
 Evinayong
 Eviéname
 Evone
-Evoredoule, Enworedule, Evoredouleu
 Evormakok, Varmoko
 Evormitok
 Evorédouleux
+Evorédoulé, Enworedule, Evoredouleu
 Evoula
 Evoung-Voung
 Evouta
@@ -1053,11 +1050,11 @@ Eyameyong, Eyameyon
 Eyaméyéne
 Eyané
 Eyemé
-Eyene
 Eyinané
 Eyouga
 Eyouga II
 Eyoumbi
+Eyéné
 Ezamkang
 Ezango
 Fala
@@ -1164,7 +1161,7 @@ Iguéla, Igela
 Iguéné
 Ikanga
 Ikassa
-Ikembelé
+Ikembélé
 Ikengué
 Ikeri Issiana
 Ikika
@@ -1329,10 +1326,8 @@ Kenibeï
 Kenzo
 Kenzé
 Kera-Kera
-Keri, Keri I
 Keri II
 Keri Nzambi
-Kessala
 Kessetchi, Kassetchoui, Keseetchui, Kessetchoui
 Kessipougou
 Kiagui
@@ -1412,7 +1407,9 @@ Kédi
 Kékélé
 Kéno
 Képa
+Kéri, Keri I
 Kéryé
+Késsala
 Kéwaga
 Laboka
 Lafond
@@ -1447,19 +1444,15 @@ Lecolé
 Ledoumou
 Legala
 Leka
-Lekaba
 Lekadouba
 Lekala
-Lekamba
 Lekeï I, Lekei
 Lekeï II
 Lekeï III
 Lekimbou
 Lekindou
 Lekoka
-Lekori
 Lekoumba
-Lekoussaga
 Lelendé
 Lelongo
 Lemba
@@ -1476,7 +1469,6 @@ Lendoundoungou
 Lengori, Lengori I
 Lengounga
 Lenzongo
-Lepepe
 Lepouya
 Les Bambous
 Lesoka
@@ -1529,7 +1521,7 @@ Lissoka-Mabeka
 Lissoka-Micouca
 Lissouka, Lissouca
 Litouga
-Litsegué
+Litségué
 Livikou
 Liyami
 Liyembi
@@ -1556,10 +1548,14 @@ Lyodia
 Lèbiayou
 Lébaladouba
 Lébamba
+Lékaba
+Lékamba
 Lékengué
 Lékila, Léklla
 Lékolo, Grand Lékolo
 Lékoni, Fortifié du Liconi, Fortifié du Lékoni, Lecori, Liconi, Léconi
+Lékori
+Lékoussaga
 Lékégni
 Lémagna
 Lémanga, Bengué Mamba, Bengué-Memba, Lemenga
@@ -1567,6 +1563,7 @@ Léniombi I
 Léniombi II, Léniombi
 Léoinga II
 Lépaka
+Lépépé
 Létamba
 Léwou, Leou, Léhou
 Maba
@@ -1656,7 +1653,7 @@ Makanga
 Makangonio
 Makao
 Makatamagoye
-Makebe
+Makebé
 Makegni
 Makiena
 Makina-Bouissi, Mahina Bouissi
@@ -1816,7 +1813,6 @@ Mayemba
 Mayenga
 Mayengone
 Mayenguelé, Mayéguédé
-Mayengué
 Mayené II
 Mayiga
 Mayingue
@@ -1824,6 +1820,7 @@ Mayoba
 Mayombo
 Mayumba, Mavumba, Mayoumba
 Mayumba et Lebé
+Mayèngué
 Mayébout, Mayebut, Mayibout
 Mayéné
 Mazinga
@@ -1907,10 +1904,8 @@ Mbéza
 Mebang
 Mebba II
 Mebeu
-Mebolo, Oua
 Mechui
 Medjong
-Medoumou
 Medoumou I
 Medoumou II
 Medoumou III
@@ -1926,21 +1921,18 @@ Meko
 Mekoga
 Mekok
 Mekome
-Mekomo, Kadje
 Mekone
 Melané
 Melari II
 Meleme
-Melen
 Melene I
 Melene II
 Melep
-Melène
 Memba
 Membang
 Memboum
 Mempolo
-Memveme
+Memvéme
 Menaï
 Mendock
 Mendomo
@@ -2094,11 +2086,11 @@ Misonyi
 Missala
 Missassa
 Misseghé
-Missele
 Missigou
 Mission Sainte-Anne
 Missoti
 Missouli
+Missélé
 Mitendé, Mitendi
 Mitingou, Mitingo
 Mitoundoulou
@@ -2355,7 +2347,7 @@ Mvam
 Mvan
 Mvanayem
 Mvanayong
-Mvanayème
+Mvanayémé
 Mvane
 Mvane I
 Mvane II
@@ -2385,6 +2377,7 @@ Mvémézok
 Myang
 Myanga
 Mzalé
+Mèkomo, Kadje
 Mèli
 Méba, Mebba I
 Mébama, Mabana, Mebomeu, Mébameu
@@ -2393,8 +2386,10 @@ Mébaza
 Mében I
 Mében II
 Méboko
+Mébolo, Oua
 Mébolo II
 Méconga
+Médoumou
 Médouneu
 Médoung
 Médégué
@@ -2411,8 +2406,10 @@ Mékonanam, Mékonaname
 Mékongo
 Mékoué
 Mélagni
+Mélen
 Mélolé
 Mélongo
+Mélène
 Métala
 Métou
 Métui
@@ -2691,7 +2688,7 @@ Nzagha
 Nzagobibéré
 Nzakoumenga
 Nzamakéléné
-Nzamaligue, Nzamalighe, Nzamaliqué
+Nzamaligué, Nzamalighe, Nzamaliqué
 Nzamanéné
 Nzamata
 Nzamba
@@ -3201,7 +3198,6 @@ Yendji
 Yeng
 Yengui
 Yengué
-Yeno
 Yetsou
 Yetsou I
 Yetsou II
@@ -3230,6 +3226,7 @@ Youma
 Youmbou
 Younga-Younga
 Yoyo
+Yéno
 Yéné
 Yéyé
 Zalakouka
@@ -3261,14 +3258,17 @@ Zougouani
 Zoula
 Zoulameyong
 Zoungui
+Ébang
 Ébel Abanga
 Éboman
 Ékala
 Ékorédo, Ekorédor I
 Ékouata, Ekoueta, Ekwata, Equata
 Élarmitang
+Élong Éko
 Épanga, Eparga
 Ésong
+Éssong, Issoung I
 Étamétang
 Étaméyong, Etamayen, Etamayong
 Étogou, Etogo

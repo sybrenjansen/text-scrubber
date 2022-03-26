@@ -44,7 +44,6 @@ B'nom Ding Tai, B'Nom Dinh Tai
 B'nom Durmu, B'Nam Durmu, Nom Durnu
 B'nom Louha
 B'nom Mo So, Mo So
-B'nom Pan Lon
 B'nom Potial
 B'nom Quann, B'Nom Quanh, Sre Quan
 B'nom Tandjiran
@@ -62,6 +61,7 @@ B'nöm Kon Krim
 B'nöm Kr'saï, B'Nom Kr'Cai
 B'nöm Lu Mu
 B'nöm M'hai, Bonom Mhai
+B'nöm Pan Lon
 B'nöm Pang Ko, B'Nom Pang Ke
 B'nöm Quinh
 B'nöm S'pung
@@ -198,7 +198,7 @@ Bàu Nường
 Bàu Sinh
 Bàu Sâu
 Bàu Thủy Tú
-Bàu Trang, Bai Ba Dong
+Bàu Trắng, Bai Ba Dong
 Bàu Tànôt
 Bàu Ôi, Bao Oi
 Bàu Đồng Teu
@@ -462,10 +462,10 @@ Chư Dit
 Chư Dji Rao
 Chư Djoye
 Chư Dju
-Chư Dle Yang
 Chư Dlè Ya
 Chư Dlé Mnông
 Chư Dlé Puy
+Chư Dlé Yáng
 Chư Don
 Chư Dou
 Chư Douit
@@ -496,7 +496,6 @@ Chư Giao
 Chư Giung
 Chư Glong, Cu Glong, Tiou Glon
 Chư Gnao
-Chư Go
 Chư Goll
 Chư Gom Raé
 Chư Gor Tong, Cu Gor Tong, Tiou Gor Tong
@@ -506,6 +505,7 @@ Chư Granuel
 Chư Gren
 Chư Groh
 Chư Góp Gioi
+Chư Gô
 Chư H'Bây
 Chư H'Rang K'Reou
 Chư Hang
@@ -565,8 +565,8 @@ Chư Krang
 Chư Kriel
 Chư Kroa
 Chư Krol
-Chư Krong, Chư Ksông
 Chư Kríh
+Chư Krông, Chư Ksông
 Chư Ksor
 Chư Ktey
 Chư Ktoum
@@ -623,11 +623,9 @@ Chư Minh
 Chư Mlom
 Chư Mnaye
 Chư Mnăng
-Chư Mo, Chu Me
 Chư Moc
 Chư Mom Ray, Chu Mom Rai
 Chư Mong Lang
-Chư Mot
 Chư Mouil
 Chư Mriô
 Chư Mtao Hlo
@@ -635,9 +633,11 @@ Chư Mtơr, Chu Mlor
 Chư Mu Lanh
 Chư Muari, Chu Muar
 Chư Mút
+Chư Mơ, Chu Me
 Chư Mơ Nu, Cu Monu, Tiou Monou
 Chư Mơring, Cu Moring, Tiou Mering
 Chư Mư, Chu H'Mu
+Chư Một
 Chư Na Khèn
 Chư Nam Giang
 Chư Nam Kaa, Nam Kaa
@@ -680,7 +680,6 @@ Chư Quynh
 Chư R'Ha Dang
 Chư R'hung
 Chư R'kai
-Chư Ra, Chu Ha
 Chư Ra Pai
 Chư Rang
 Chư Rgné
@@ -690,6 +689,7 @@ Chư Rmet
 Chư Ro Bang
 Chư Rpan
 Chư Rung
+Chư Rá, Chu Ha
 Chư Rôn
 Chư Rơ Boi
 Chư San
@@ -735,7 +735,7 @@ Chư Trok
 Chư Trol
 Chư Trom Blan
 Chư Tryan
-Chư Trê Ang, Chư Trêăng
+Chư Trê Ăng, Chư Trêăng
 Chư Trôk Sum
 Chư Tsé
 Chư Tul
@@ -856,10 +856,10 @@ Công Viên Nước Sài Gòn
 Công Viên Tao Đàn
 Công Viên Văn Thanh
 Cù Lao
-Cù Lao Ban
 Cù Lao Ben Đình
 Cù Lao Bà
 Cù Lao Bà Nở, Con Ba No
+Cù Lao Bàn
 Cù Lao Bình Chánh
 Cù Lao Bình Thủy
 Cù Lao Bưng
@@ -886,7 +886,6 @@ Cù Lao Mái Nhà, Cù Lao Ma Nha, Lao Ma Nha, Île Mai Nha
 Cù Lao Mây
 Cù Lao Nai
 Cù Lao Nay
-Cù Lao Ong Con
 Cù Lao Ong Go
 Cù Lao Pho
 Cù Lao Phu Lang
@@ -902,6 +901,7 @@ Cù Lao Tân Vinh
 Cù Lao Tâu
 Cù Lao Tây
 Cù Lao Xanh, Cù Lao Poulo Gambir, Hon Gambir, Hòn Phước Châu, Phước Châu, Poulo Gambir, Pulau Gambir, Île Poulo Gambir
+Cù Lao Ông Cồn
 Cù Lao Ông Hô
 Cù Lao Ông Xá, Lao Org Ax, Rocheux Island, Îlot Rocheux
 Cù Lao Đât
@@ -1045,9 +1045,9 @@ Da Dijiran
 Da Ding Kuang
 Da Djira
 Da Dran
-Da Dung, Da Dong, Song Da Dung
 Da Dung Krian
 Da Dê
+Da Dưng, Da Dong, Song Da Dung
 Da Gle
 Da Glong
 Da Goub
@@ -1178,7 +1178,6 @@ Da Ya
 Da Zang Tơ Reng
 Da Ốs Sa
 Dai Da Da
-Dai Giang
 Dak Akoi
 Dak An Kong, Da Anh Kong, Dak Nkon, Dak Nkrong
 Dak Ba, Nuoc Voa
@@ -1250,7 +1249,6 @@ Dak Mtah
 Dak Mêa
 Dak Mêk, Dak Meh
 Dak N'hong
-Dak Na, Dak Ma
 Dak Ne, Dak Xong, Dak Xongeh
 Dak Nel
 Dak Nghe
@@ -1300,12 +1298,10 @@ Dak Rơnga, Dak Reuga, Dak Reunga
 Dak Rơtak Ma, Dak Rolak Ma
 Dak Rơtil
 Dak Rớnét
-Dak Sa, Dak Xa
 Dak Sekoel
 Dak Semrigne, Dak Samrigne
 Dak Sepay
 Dak Sia
-Dak Sing
 Dak Som
 Dak Song
 Dak Sot
@@ -1321,7 +1317,6 @@ Dak Thiang Mek
 Dak Tiean Oar
 Dak Toang
 Dak Tokon
-Dak Tol
 Dak Toman
 Dak Tong
 Dak Tonio
@@ -1332,7 +1327,6 @@ Dak Trouille
 Dak Tu
 Dak Uy
 Dak Ué
-Dak Vai, Dak Vay, Đak Naï
 Dak Xa Wong
 Dak Xao
 Dak Xdrô
@@ -1400,7 +1394,6 @@ Dông A Hai
 Dông A Pong
 Dông Ca Cut
 Dông Châu, Dong Chan
-Dông Co Tien
 Dông La Rường
 Dông Pa Thiên
 Dông Phượng, Dong Puong
@@ -1413,7 +1406,6 @@ Dông Ấp Bia, Dong A Bia, Hamburger Hill, Hill 937
 Dương Hòa
 Dường Lung Móp Văn, Duong Va Mop Van
 Dấu Peel
-Dầm Bay
 Dền Thàng
 Dịnh Hòa
 Ea Adrâng
@@ -1429,10 +1421,10 @@ Ea Bong
 Ea Boune
 Ea Brih
 Ea Brơ
-Ea Bu, Ea Ba
 Ea Buih
 Ea Bum
 Ea Bênh
+Ea Bư, Ea Ba
 Ea Bốt
 Ea Ch'nồèh, Ea Ch'noch, Ea Ch'noech
 Ea Chro Tao
@@ -1485,11 +1477,11 @@ Ea Hiao
 Ea Hiu
 Ea Hlang
 Ea Hmlay, Ea Humlay
-Ea Ho
 Ea Hoa, Ea Hou
 Ea Hu
 Ea Huiê
 Ea Hŏk
+Ea Hồ
 Ea In
 Ea Juna, Ea Jung
 Ea K'Bang
@@ -1545,12 +1537,12 @@ Ea Kram Dria
 Ea Kran
 Ea Kray
 Ea Krieng
-Ea Krong
 Ea Krong Rom, Ea Krong Rou
 Ea Krong Trang
 Ea Kroê
 Ea Krum
 Ea Krâng, Ea Krana
+Ea Krông
 Ea Krông Agne, Ea Boun, Ea Krong Hagne, Ea Preuteto
 Ea Krông Ana, Da Krong Hanna, Ea Krong Hanna, Ea Krong Honna, Ia Crông A Na
 Ea Krông Bông, Ea Krong Boung
@@ -1613,26 +1605,26 @@ Ea Noi
 Ea Ok
 Ea On
 Ea Pa
-Ea Pal, Ea Pol
 Ea Phê
 Ea Pil
 Ea Po
 Ea Priegne
-Ea Puk
 Ea Puội, Ea Pur, Ea Puôr
 Ea Pôch
 Ea Pôp
 Ea Păc
+Ea Păl, Ea Pol
+Ea Pŭk
 Ea R'bine
 Ea Ral
 Ea Rbeu
 Ea Rboa, Ea Rbua
 Ea Rbol, Ea Rơbal
 Ea Ro Mui
-Ea Rok, Ya Rok
 Ea Rsai
 Ea Rtô
 Ea Rơ Tak
+Ea Rơk, Ya Rok
 Ea Sang
 Ea Sem Long
 Ea Snô
@@ -1647,8 +1639,8 @@ Ea Tao
 Ea Tar
 Ea Thon Trieng
 Ea Thour
-Ea Thu
 Ea Thul, Ia Thul
+Ea Thũ
 Ea Tia
 Ea Tiouan
 Ea Tir
@@ -1763,8 +1755,6 @@ Hoi Hin
 Hoi Hoka, Hoi Noka
 Hoi Kan Ho
 Hoi Lam Giang, Lam
-Hon Nhan
-Hon Tranh
 Hon gai
 Hou Ngai Ho
 Houei Ban
@@ -2177,7 +2167,6 @@ Huyện Thanh Miện, Thanh Miện District
 Huyện Thanh Oai, Thanh Oai District
 Huyện Thanh Sơn, Tân Sơn District
 Huyện Thanh Thuỷ, Thanh Thủy District
-Huyện Thanh Trì, Thạnh Trị District
 Huyện Thiệu Hóa, Thiệu Hóa District
 Huyện Thoại Sơn
 Huyện Thuận Bắc, Thuận Bắc District
@@ -2196,6 +2185,7 @@ Huyện Thạch Thành
 Huyện Thạch Thất, Thạch Thất District
 Huyện Thạnh Hóa, Thạnh Hóa District
 Huyện Thạnh Phú, Thạnh Phú District
+Huyện Thạnh Trị, Thanh Trì District
 Huyện Thọ Xuân, Thọ Xuân District
 Huyện Thống Nhất, Thống Nhất District
 Huyện Thới Bình, Thới Bình District
@@ -2385,9 +2375,8 @@ Huôi Kit
 Huôi Lanh
 Huôi Lò
 Huôi Lội
-Huôi Mat, Houei Mat
-Huôi Muồng
 Huôi Mập
+Huôi Mặt, Houei Mat
 Huôi Na, Huoi Ha
 Huôi Ngu
 Huôi Nhi
@@ -2436,7 +2425,6 @@ Huổi Dán Quân
 Huổi Dâng
 Huổi Dên
 Huổi Gó
-Huổi Hia
 Huổi Hin
 Huổi Hin Chá
 Huổi Hin Tái
@@ -2449,6 +2437,7 @@ Huổi Hạm
 Huổi Hạp
 Huổi Hẹ
 Huổi Hết
+Huổi Hịa
 Huổi Khon Kén
 Huổi Không
 Huổi Kia Luông
@@ -2467,11 +2456,12 @@ Huổi Lúc
 Huổi Lưu
 Huổi Lầu
 Huổi Lếch
-Huổi Me
 Huổi Mi
 Huổi Mong
 Huổi Má
+Huổi Mé
 Huổi Múa
+Huổi Mương
 Huổi Mảnh
 Huổi Mặn
 Huổi Mức
@@ -2481,22 +2471,22 @@ Huổi Nhóng, Houei Tón
 Huổi Nhạp
 Huổi Nhả
 Huổi Oi
-Huổi Pan
 Huổi Pao
 Huổi Pha Nem
 Huổi Phia
 Huổi Pho
 Huổi Phá Thoóng
 Huổi Phơi
-Huổi Pua
 Huổi Pá Hò
 Huổi Pá Nó
 Huổi Pâu
 Huổi Pít
 Huổi Pú Sút
+Huổi Púa
 Huổi Púng
 Huổi Púng Báng
 Huổi Pút
+Huổi Păn
 Huổi Pẩng
 Huổi Pặt
 Huổi Qua
@@ -2561,17 +2551,17 @@ Hòa Tú
 Hòa Ân
 Hòn Anh Tây, Frère de l'Ouest, Hòn Tây, West Brother
 Hòn Anh Đông, East Brother, Frère de l'Est
-Hòn Ba, Bae Vioung, Chư Hòn Bà, Little Condore, Petite Condore, Île Vache
 Hòn Ba Tuân
 Hòn Banh Lai
 Hòn Bia
 Hòn Bom Mê
-Hòn Bong
 Hòn Bong Bong
 Hòn Bong Lan, Bouton Blanc, Hon Bong Lang
 Hòn Bui Xám
 Hòn Buông, Rocky Island, Île Rocky
+Hòn Bà, Bae Vioung, Chư Hòn Bà, Little Condore, Petite Condore, Île Vache
 Hòn Bàc, Île Seche
+Hòn Bóng
 Hòn Bưu
 Hòn Bạc Bàn
 Hòn Bảy Cạnh, Hon Bai Cahn, Hon Bai Can, Hon Bai Kan, Hon Bai Kanh, Hòn Bãi Cạnh
@@ -2593,9 +2583,7 @@ Hòn Cao
 Hòn Cao Cát
 Hòn Chac Nhỏ, Hòn Chai Nhỏ
 Hòn Chan, Hòn Cham
-Hòn Chao
 Hòn Che
-Hòn Chong
 Hòn Chu Ha, Hòn Chin Khuc
 Hòn Chuông
 Hòn Chuối, False Pulo Obi, Fausse Poulo Obi
@@ -2610,6 +2598,8 @@ Hòn Chò
 Hòn Chóp Mao, Nui Chup Mao
 Hòn Chùa, Lao Chua
 Hòn Chút, Île Chut, Île Hou Chut, Île Hòn Chut
+Hòn Chảo
+Hòn Chồng
 Hòn Coc
 Hòn Con Chim, Con Chim Hon, Hon Chim, Îlot Con Chim
 Hòn Con Qua, Le Corbeau
@@ -2629,13 +2619,8 @@ Hòn Công, Hon Kon, Núi Hòn Cong
 Hòn Cù Lao, Dao Phu Qui
 Hòn Cổ Ngựa
 Hòn Cụ
-Hòn Den, Île du Passage
-Hòn Deo
-Hòn Do
 Hòn Dom Giữa
 Hòn Dong
-Hòn Dun, Hon Nuoc
-Hòn Dung, Pyramid Island, Île Pyrmide
 Hòn Dâm
 Hòn Dâm Nam
 Hòn Dâu, Dau, Hon Dhau
@@ -2653,17 +2638,17 @@ Hòn Gia Lo
 Hòn Gia Lữ
 Hòn Giai, Hòn Dài, Île du Miheu
 Hòn Gian
-Hòn Giang, Hòn Gang
 Hòn Giao Bắo
-Hòn Gio
 Hòn Giong
-Hòn Giu, Le Salacco, Le Salaco
 Hòn Giup
 Hòn Giác
+Hòn Gió
 Hòn Giôm
 Hòn Giải Đá
+Hòn Giảng, Hòn Gang
 Hòn Giọc, Hon Giao, Hon Gioo
 Hòn Giốc Mơ, Hon Gioc Tho
+Hòn Giữ, Le Salacco, Le Salaco
 Hòn Giữa
 Hòn Glek
 Hòn Go
@@ -2685,7 +2670,6 @@ Hòn Hàng
 Hòn Hèo, Bak Island, Monts de Hon Heo, Île Bac
 Hòn Hải, Poulo Sapate, Poulo Sapatu, Poulo Sepate, Pulo Sapata, Pulo Sapate, Pulo Sapatu, Shoe Island
 Hòn Ilo Ilo, Cồn Công, Île de Ilo Ilo
-Hòn Kho, Hòn Thẹo, Île Noire
 Hòn Kho Ngoai
 Hòn Kho Tran
 Hòn Kho Trong
@@ -2693,13 +2677,13 @@ Hòn Khoai, Poulo Obi, Pulo Obi, Île Poulo Obi
 Hòn Khoai Lang, Phan Xi Chắo
 Hòn Khu Ong
 Hòn Khói, Hon Kboi
+Hòn Khô, Hòn Thẹo, Île Noire
 Hòn Kim Qui
 Hòn Ky
 Hòn Kê
 Hòn Kênh Mang
 Hòn Kôi
 Hòn Kỳ Dà
-Hòn La, Île Nord
 Hòn Lam
 Hòn Lao, Tiger Island, Île Tigre
 Hòn Liêng
@@ -2722,22 +2706,22 @@ Hòn Lúp
 Hòn Lăng, Hon Reu, Hon Rou
 Hòn Lướt, La Fougère
 Hòn Lạp, Lap Rock, Little Rock, Petit Rocher, Rocher Lap
+Hòn Lả, Île Nord
 Hòn Lớn, Île Hon Lon
 Hòn Lờm Bò
 Hòn Mai
-Hòn Mang
 Hòn Mao
-Hòn Me, Ho Me, Van-Shon, Îlot Me
 Hòn Miếng Gương
 Hòn Miếu Ngoại
 Hòn Miều, Chapeau Chinois, Hon Mien, Maou San, Miou Son
 Hòn Miệng, Hòn Men
-Hòn Mong Tay, Hon Mong Thay, Hon Mongthai, Hòn Mongtai, South East Island, Southeast Island
-Hòn Mot, Le Chignon, Nui Hon Mot
 Hòn Mun, Hon Mung
+Hòn Máng
 Hòn Mát, Hon Matt, Île Matt, Île Tortue
 Hòn Mây Cát Bà
 Hòn Mây Rút, Hon Mairut, Hòn Mây Rút Trong, Omega Island
+Hòn Mê, Ho Me, Van-Shon, Îlot Me
+Hòn Móng Tay, Hon Mong Thay, Hon Mongthai, Hòn Mongtai, South East Island, Southeast Island
 Hòn Mô
 Hòn Môồng, Hòn Mạn
 Hòn Mũi, Île Trung, Île de la Prise
@@ -2745,6 +2729,7 @@ Hòn Mưa
 Hòn Mấu, South Island
 Hòn Mắt Con, Hòn Con
 Hòn Mốc, Hòn Mok
+Hòn Một, Le Chignon, Nui Hon Mot
 Hòn Mục
 Hòn Mỹ Giang, Hòn Quéo, Long Island
 Hòn N'gante
@@ -2752,31 +2737,32 @@ Hòn Nan
 Hòn Nay
 Hòn Neu
 Hòn Nga
-Hòn Ngan
 Hòn Ngang, Nui Hon Chua, Vàng Chắo
 Hòn Nghiên
 Hòn Nghề, Hòn Minh Hòa, Minghue Island, Tekere Island, Île Tekere
 Hòn Ngoại
+Hòn Ngăn
 Hòn Ngư, Hòn Niêu, Îlot Nieu
 Hòn Ngềnh Vẩm
 Hòn Ngựa, Mã Chắo
 Hòn Nhanh
-Hòn Nhon
 Hòn Nhum Ay, Hon Nhum Hai
 Hòn Nhum Bà
 Hòn Nhum Giếng
 Hòn Nhum Mốt
 Hòn Nhum Ông
 Hòn Nhut Tu
-Hòn Nhóm, Hòn Chò Ró
+Hòn Nhàn
+Hòn Nhóm, Hon Cho-ro
+Hòn Nhọn
 Hòn Nong Bong
-Hòn Nua
 Hòn Nác, Nui Hon Nac
 Hòn Nâm, Hon Tu-ut
 Hòn Né, He Hon Ne, Le Nez, Île Hon Ne, Îlot Ne
 Hòn Nóc
 Hòn Núi Nhọn, Chím Xan
 Hòn Núi Tàu
+Hòn Nưa
 Hòn Nẻ Môi
 Hòn Nồm, Grand Rocher, Great Rock, Nom Rock, Rocher Nom
 Hòn Nồm Ngoài
@@ -2792,13 +2778,13 @@ Hòn Ram
 Hòn Ria
 Hòn Riêng, Nui Hon Giang, Núi Hòn Gieng
 Hòn Ro
-Hòn Roi
 Hòn Rung Gia
 Hòn Rái, Hon Re, Lai Sơn, Tamassu Island, Tammassou Island, Tammasu, Île Tamassou
 Hòn Ré Lớn
 Hòn Ré Nhỏ
 Hòn Ròm
 Hòn Răn Của, Nui Hòn Răn Của
+Hòn Rỏi
 Hòn Rồng
 Hòn Sam
 Hòn San
@@ -2827,6 +2813,7 @@ Hòn Thị
 Hòn Thủ
 Hòn To Yen
 Hòn Trang
+Hòn Tranh
 Hòn Tre, Dao Tre, Kua Island, Lon Island, North Island, Tecksu Island, Teksu, Tre Island, Turtle Island, Île Tecksu, Île Tortue, Île Torture, Île Tre, Île Tye
 Hòn Tre Lớn
 Hòn Tre Nhỏ, Hon Tae Niao, Hon Tai Nho, Hon Thre Nho
@@ -2834,7 +2821,6 @@ Hòn Tre Vinh
 Hòn Tri
 Hòn Tru, Îlot Tru
 Hòn Truan
-Hòn Trung, Hon Salacco, Hon Trong, Hòn Trương, Ilot Salacco, Rocher Blanc, Salacco Island, White Rock
 Hòn Trà Ngư
 Hòn Trâu
 Hòn Trâu Nằm, Les Trois Rois
@@ -2842,6 +2828,7 @@ Hòn Trích Mía
 Hòn Trắc Lớn, Hòn Chac Lớn
 Hòn Trọc, Hon Tap, Hon Trac, Hon Trok
 Hòn Trục Môn, Hòn Gui
+Hòn Trứng, Hon Salacco, Hon Trong, Hòn Trương, Ilot Salacco, Rocher Blanc, Salacco Island, White Rock
 Hòn Trứng Lớn, Îlot Boisé
 Hòn Trứng Nhỏ, Hong Trung Nho, Îlot Aride
 Hòn Tuon, Tuân Hòn
@@ -2853,12 +2840,12 @@ Hòn Tạnh
 Hòn Tầm
 Hòn Vang
 Hòn Vat
-Hòn Voi
 Hòn Vung, Hon Vioum, Le Bonnet, Îlot Rond
 Hòn Vên
 Hòn Vông, Hump Island
 Hòn Vạn Bội
 Hòn Vạy Trong
+Hòn Vối
 Hòn Vụng Ba Cửa
 Hòn Vụng Chùa
 Hòn Xanh, Hon Xenh
@@ -2876,9 +2863,8 @@ Hòn Ông Bình
 Hòn Ông Căn, Cù Lao Coni, Hon Cohe, Nui Ong Can, Îles Coni
 Hòn Ông Cơ, Cu Lao Juan Prieto, Nui Ong Co, Île Juan Prieto
 Hòn Ông Triều Một, Hòn Ông Triều 1
+Hòn Đeo
 Hòn Điệp
-Hòn Đot, Îlot Dot
-Hòn Đuốc, Hòn Cuóp Nam, South Pirate, Île Pirate du Sud
 Hòn Đuồng
 Hòn Đá Bạc, Hòn Sỏn Thuê Lớn, Paps, Rocher Blanc, White Rock
 Hòn Đá Chông
@@ -2886,14 +2872,20 @@ Hòn Đá Lửa
 Hòn Đá Tý, Grande Catwick, Great Catwick, Round Island
 Hòn Đác, Núi Dac
 Hòn Đát
+Hòn Đót, Îlot Dot
 Hòn Đôi, Doi Moi, La Guérite
+Hòn Đước, Hòn Cuóp Nam, South Pirate, Île Pirate du Sud
 Hòn Đầm Dương
 Hòn Đầm Giếng
 Hòn Đầm Lớn
 Hòn Đầu Gỗ
 Hòn Đầu Tán
+Hòn Đền, Île du Passage
+Hòn Đỏ
 Hòn Đốc, Grand Pirate, Great Pirate Island, Hon Tre Ion
 Hòn Đội Trương, Hon Voi Truong
+Hòn Đụn, Hon Nuoc
+Hòn Đụng, Pyramid Island, Île Pyrmide
 Hòn Đụng Lớn
 Hòn Đụng Nhỏ
 Hòng Chan
@@ -2905,7 +2897,7 @@ Hói Khé Cò
 Hói Mạ
 Hói Mẫn
 Hói Phố
-Hói Trung
+Hói Trùng
 Hón Trước, Hon Truok
 Hón Đàn
 Hô Nam Mô, Ho Nam Mu, Hu Nam Mu
@@ -3153,8 +3145,8 @@ Ia Ekr Boung
 Ia Ga
 Ia Glaé, La Glae, Ya Cle, Ya Glae, Ya Glé
 Ia Grai, La Grai, Ya Grai
-Ia Grang
 Ia Grouille
+Ia Grăng
 Ia Hai
 Ia Hao, Ea Yao
 Ia Hieo
@@ -3296,11 +3288,11 @@ Khao Loung, Cao Loung
 Khao Lâm
 Khao Ma
 Khao Mac
-Khao Man
 Khao Mao
 Khao Mot
 Khao Mouei
 Khao Moun
+Khao Mán
 Khao Na Hy
 Khao Na Pai
 Khao Nao
@@ -3312,8 +3304,8 @@ Khao Pa
 Khao Pa Lên, Khao Pa Lien
 Khao Pan
 Khao Pao
-Khao Pha, Nui Cao Pha
 Khao Phan
+Khao Phà, Nui Cao Pha
 Khao Pien Don
 Khao Po
 Khao Pou
@@ -3359,7 +3351,6 @@ Khau Kẹt, Khao Ket
 Khau Lang
 Khau Luông
 Khau Lói Nọi
-Khau Mạ
 Khau Mạt
 Khau Mỏ
 Khau Phao
@@ -3460,7 +3451,6 @@ Khe Thái Tú
 Khe Thình Hình
 Khe Thờ
 Khe Tion, Khe Tione
-Khe Tong
 Khe Trang
 Khe Trang Sun
 Khe Tre
@@ -3568,6 +3558,7 @@ Khé Nghi
 Khé Ouaun, Khe Ouaon
 Khé Sai
 Khé Ta Laou
+Khé Tong
 Khé Trai, Khetrai
 Khé Vé
 Khé Xã Bài
@@ -3618,6 +3609,7 @@ Khău Kheo, Khău Kéo
 Khău Khuc
 Khău Khuất
 Khău Luang
+Khău Mã
 Khău Mề
 Khău Ngọc
 Khău Phai
@@ -3672,7 +3664,7 @@ Kinh Bắc Trang
 Kinh Bắc Đông
 Kinh Bẽn Đỗi
 Kinh Bến Kè
-Kinh Bến Nhựt đi Giồng Riềng, Canal Ben Nhut à Giong Rieng, Kinh Rivoal
+Kinh Bến Nhựt đi Giồng Riềng, Canal Ben Nhut Giong Rieng, Kinh Rivoal
 Kinh Bốn Ngàn, Canal Bon Ngan
 Kinh Bốn Tổng, Canal Bon Tong, Canal des Quatre Cantons, Kênh Bốn Tổng
 Kinh Bồ Thảo đi Sốc Trăng, Canal de Bo Thao, Canal de Bo Thao à Soc Trang, Kinh Tam Soc den Bo Thao va den Soc Trang
@@ -3697,7 +3689,7 @@ Kinh Cái Bát, Canal de Cai Bac, Fossé de Cai Bac
 Kinh Cái Bèo, Canal Cai Beo
 Kinh Cái Bé, Kinh Ba Ngon, Kinh Ngã Tư Cái Bé
 Kinh Cái Cá, Kinh Cái Cai
-Kinh Cái Côn, Ancien Canal de Cái Côn, Canal de Cai Con, Kinh Duong, Rạch Cô
+Kinh Cái Côn, Ancien Canal de Cai Con, Canal de Cai Con, Kinh Duong, Rạch Cô
 Kinh Cái Gút, Canal Cai Gut
 Kinh Cái Muối, Mương Lộ
 Kinh Cái Mít, Kinh Cai Mich, Kinh Cai Mih
@@ -3807,7 +3799,6 @@ Kinh Mỹ Thuận
 Kinh Mỹ Thái
 Kinh Mỹ Văn
 Kinh Na Tan Thiên, Canal Na Tan Thien
-Kinh Ngan
 Kinh Ngang, Canal Gressier, Canal Numéro Deux, Kinh Cai Tam, Kinh Gressier, Kinh Ngong, Kinh Thoi Lai
 Kinh Ngoa Hậu, Kinh Nga Hau, Kinh Ngai Hau, Kinh Ngày Hậu
 Kinh Nguyến Văn Nghe, Canal Nguyen van Nghe
@@ -3816,6 +3807,7 @@ Kinh Ngàn Năm
 Kinh Ngã Cậy
 Kinh Ngô Văn Xuân, Canal Ngo Van Xuan, Kinh Ngo van Xuong
 Kinh Ngưu Sơn, Kinh Ong Kho
+Kinh Ngạn
 Kinh Nhà Nước, Canal Lacote, Kinh Lacote
 Kinh Như Gia đi Bãi Xàu, Kinh Nhu Gia
 Kinh Noblet, Canal Noblet
@@ -3861,10 +3853,9 @@ Kinh Số Năm, Kinh Bùi, Kinh So 5
 Kinh Số Sáu, Kinh Số 6
 Kinh Số Tư
 Kinh Sốc Tro
-Kinh Tam Sóc, Canal de Bo Thao a Soc Trang, Canal de Tam Soc a Bo Thao, Canal de Tam Soc á Bo Thao et a Soc Trang, Canal de Tam Sồc, Kinh Tam Soc den Bo Thao va den Soc Trang, Kinh Tam Sốc đi Bố Thảo
+Kinh Tam Sóc, Canal de Bo Thao a Soc Trang, Canal de Tam Soc, Canal de Tam Soc a Bo Thao, Canal de Tam Soc á Bo Thao et a Soc Trang, Kinh Tam Soc den Bo Thao va den Soc Trang, Kinh Tam Sốc đi Bố Thảo
 Kinh Thanh Đa, Canal Chanh Do, Canal de Thanh Da
 Kinh Thi Xẩm, Canal de Thi Xam, Kinh Thi Sam
-Kinh Thày Cai, Canal Thay Cai, Canal de Thay Cai, Canal de Trang Bang, Kinh So Dua, Kinh Trang Bang, Rạch Chà Là
 Kinh Thác Lác, Canal O Mon, Kinh Ô Môn
 Kinh Tháo Nước, Canal Doc Loc, Kinh Doc Loc
 Kinh Tháp Mười, Canal Thap Muoi
@@ -3878,6 +3869,7 @@ Kinh Thầy Ba Đàn
 Kinh Thầy Ban, Canal de Bach Van Tranh, Kinh Bach Van Trang, Kinh Banh Van Tran, Kinh Rạch Vân Tranh
 Kinh Thầy Ban Ngoanh
 Kinh Thầy Cal, Canal de Thay Cai, Cau
+Kinh Thầy Cái, Canal Thay Cai, Canal de Thay Cai, Canal de Trang Bang, Kinh So Dua, Kinh Trang Bang, Rạch Chà Là
 Kinh Thầy Khúng, Kinh Ong Khung
 Kinh Thầy Lâm, Canal Thay Lam
 Kinh Thầy Phó, Canal de Thay Pho
@@ -4281,7 +4273,7 @@ Kênh Ông Đốc
 Kênh Út Gương
 Kênh Đào
 Kênh Đìa Thùng
-Kênh Đòn Dong
+Kênh Đòn Dông
 Kênh Đông Hai, Kênh Đông 2
 Kênh Đập Lớn
 Kênh Địa Phận
@@ -4364,9 +4356,9 @@ Long Hậu commune, xã Long Hậu
 Long Hữu
 Long Kay
 Long Khánh
-Long Po Ho, Ch”ing-shui Ho, Lang Po Ho
-Long Thanh
+Long Po Ho, Ch'ing-shui Ho, Lang Po Ho
 Long Thành Hamlet, ấp Long Thành
+Long Thạnh
 Long Thắng
 Long Thắng Commune, Xã Long Thắng
 Long Tuyến, Binh Tuy, Binhthuy
@@ -4464,7 +4456,7 @@ Mau Giong Cay Chan
 Maï Djueng
 Maï Quy
 Mekong Delta, Delta du Mékong, Mekong River Delta, Đồng Bằng Sông Cửu Long
-Mekong River, Cambodia River, Cuu Long Giang, Dachu, Dza-chu, Lan Tsiang Kiang, Lan-Chan Chiang, Lan-ts'ang Chiang, Lan-tsan Kiang, Lancang Jiang, Lang Tsang Kiang, Lantsan, Lantsang Kiang, Mae Nam Khong, Mae Nam Phong, Maenam Kaung, Me Nam Kong, Mei Chiang, Mei Nam Kong, Mei-Kung Ho, Mekon, Menam Kaung, Mègaung Myit, Mènam Khong, Méigōnghé, Mékôngk, Nam Hkawng, Song Cuu Long, Sông Tiền Giang, Tonle Thom
+Mekong River, Cambodia River, Cuu Long Giang, Dachu, Dza-chu, Lan Tsiang Kiang, Lan-Chan Chiang, Lan-ts'ang Chiang, Lan-tsan Kiang, Lancang Jiang, Lang Tsang Kiang, Lantsan, Lantsang Kiang, Mae Nam Khong, Mae Nam Phong, Maenam Kaung, Me Nam Kong, Megaung Myit, Mei Chiang, Mei Nam Kong, Mei-Kung Ho, Mekon, Menam Kaung, Mènam Khong, Méigōnghé, Mékôngk, Nam Hkawng, Song Cuu Long, Sông Tién Giang, Tonle Thom
 Minh Khai
 Minh Phú
 Minh Tr
@@ -4510,7 +4502,7 @@ Mũi Cau Hin
 Mũi Chim Chim
 Mũi Chut
 Mũi Chà Dà
-Mũi Chân Mây Đông, Cap Chon May, Cap Chon May Est, Chumai East Cape, Mũi Chơn Mây Đông
+Mũi Chân Mây Đông, Cap Chon May, Cap Chon May Est, Chumai East Cape, Mui Chon May
 Mũi Chùa
 Mũi Chơn Mây Tây, Cap Chon May Ouest, Chumai West Cape, Mui Chan May Tay, Mui Chon May
 Mũi Cà Mau, Cambodia Point, Cap Camau, Cape Kamao, Kamao Point, Mũi Bãi Bùng, Pointe de Ca Mau
@@ -4662,162 +4654,120 @@ Na Toung
 Nam Ai
 Nam Aki
 Nam Amanh, Nam Aman, Nam Anum
-Nam Bai
 Nam Ban
 Nam Ban Luoc
 Nam Bay
-Nam Bo
-Nam Boum
+Nam Bô
 Nam Bôn
-Nam Can, Nam Ca
-Nam Cat
-Nam Cay
 Nam Chai
-Nam Chan
-Nam Chang
 Nam Chao
 Nam Che
-Nam Cheng
 Nam Chim
 Nam Chin
 Nam Chua
-Nam Chung
-Nam Co
+Nam Chưng
 Nam Co Nong, Nam Co Nono
 Nam Co Sư
 Nam Cot
 Nam Coum, Nam Cuong
 Nam Cu
-Nam Cung
+Nam Cây
 Nam Cơi
 Nam Cải
-Nam Cấu, Nam Cou, Nằm Cao
 Nam Djone, Nam D'one
-Nam Dong
 Nam Dầm
 Nam Fao
 Nam Gia Ho, Nam Gia Mo, Nam Sin Ho
 Nam Giay, Nam Giag
 Nam Gioi
 Nam Giun
-Nam Giẻ
 Nam Gươm
-Nam Ha
 Nam Ham
-Nam Han, Nam Hun
 Nam Hang
 Nam Hat
 Nam Hau, Hau
 Nam Hay
 Nam Het
 Nam Hi, Houei Hi
-Nam Ho
 Nam Ho Tao
-Nam Hon
-Nam Hua, Nam Khoai, Nam Kouai
 Nam Hóm
+Nam Hô
 Nam Húy Hao
 Nam Jaun
 Nam Jer Bri
 Nam Keng
 Nam Kha U
-Nam Kham
 Nam Khang
-Nam Khao
 Nam Khiet, Song Dac Kiet
-Nam Kho Ma, Nằm Kha Ma
-Nam Khoa
 Nam Khoc, Nằm Khóe
 Nam Khon
-Nam Khế
+Nam Khâm
 Nam Ki Ling
 Nam Kieng
 Nam Kiet
-Nam Kim, Nam Nim, Nan Kim
 Nam Kinh
 Nam Kit, Nam Ki
 Nam Kiên, Nam Kein
 Nam La Su, Nam La Sin, Nam La Sui
 Nam Lai, Nam Lsi
-Nam Lan
 Nam Lang Ny
 Nam Lao
 Nam Lat
-Nam Le
 Nam Leup
-Nam Li
 Nam Lich
 Nam Linh
 Nam Lip
-Nam Lo
-Nam Luong
 Nam Ly
-Nam Lâm
 Nam Lông
 Nam Lơn
 Nam Lồng Chân
 Nam Lừm, Nam Loam, Nam Loum
-Nam Ma, Nam Na
 Nam Ma Hò
 Nam Mac, Nam Mao
 Nam Map
-Nam Mat
 Nam Meng, Nam Mang
 Nam Meu
 Nam Meuk, Nậm Mơc, Nậm Mức
 Nam Min
-Nam Mit Noi
-Nam Mo
 Nam Moe
 Nam Mong
 Nam Mou
 Nam Mouang
 Nam Moun
-Nam Mu, Nam Moa
-Nam Mua, Nam Mue, Nam Nua
-Nam Muoi
+Nam Muôi
 Nam Máu, Dent de Nam Mau, Deu de Nam Máu
 Nam Mé
+Nam Mô
 Nam Mún
+Nam Mạ, Nam Na
 Nam Ngan, Nam Noon
 Nam Nguyen
-Nam Nhé, Nằm Nhié
 Nam Niou
 Nam Pa Má
-Nam Pan, Nam Paa, Nằm Pun
 Nam Pang, Nam Bang
 Nam Pang Pói, Nam Pang Pai
-Nam Pao
-Nam Pat, Nam Pac, Nam Pai
 Nam Pen Ho, Ham Pen Ho
 Nam Pha Niếc, Nam Phu Niec
 Nam Phi
 Nam Phuc, Nam Phat
-Nam Phung
 Nam Phut, Nam Phui
 Nam Phán, Nam Phang
 Nam Pi
-Nam Po
 Nam Pon
 Nam Pong Hò
 Nam Poui
 Nam Poun
-Nam Pu
 Nam Pìa
+Nam Pú
 Nam Qua
 Nam Quan
-Nam Quang, Nam Ouang
 Nam Quen
-Nam Quet
 Nam Quạt
 Nam Sa Hò
 Nam Sanh Hu, Nam Sanh Ho
-Nam Sao
 Nam Sao Lu, Houei Sao
-Nam Sat
 Nam Say
 Nam Say Luong, Nam Say Laong
-Nam So, Nam Xa
 Nam Soui Hô
 Nam Sé Ho
 Nam Sư Lư
@@ -4831,14 +4781,11 @@ Nam Tay
 Nam Tchiang
 Nam Teune, Nam Tenne
 Nam Tham
-Nam Than
 Nam Thann
 Nam Then Than
 Nam Thi
-Nam Thong
 Nam Thêp
 Nam Ti
-Nam Tia
 Nam Tiac Ho, Nam Hoc Ho
 Nam Tiang
 Nam Toc Noi
@@ -4854,6 +4801,7 @@ Nam Xo, Nam Xa
 Nam Xún
 Nam Yang
 Nam Youn, Nam Yom, Nam Youm
+Nam Đong
 Nam Đấc
 Nga Ba Lang Lun
 Ngai Thầu
@@ -4950,18 +4898,18 @@ Ngòi Bam
 Ngòi Ban Cốc
 Ngòi Banh
 Ngòi Biếc, Ngoi Biet
-Ngòi Bo
 Ngòi Bung, Ngoi Bing
 Ngòi Buon
 Ngòi Bé
+Ngòi Bô
 Ngòi Búc
 Ngòi Ca
 Ngòi Cau
-Ngòi Cha
 Ngòi Cham
 Ngòi Chan
-Ngòi Cho
 Ngòi Cho Ro
+Ngòi Chà
+Ngòi Chò
 Ngòi Cu
 Ngòi Còng
 Ngòi Cươm
@@ -4974,10 +4922,10 @@ Ngòi Dot
 Ngòi Dum
 Ngòi Dỏ
 Ngòi Giai, Ngòi Ciai, Ngòi Cioi
-Ngòi Giam, Ngoi Girm, Ngòi Yôm
 Ngòi Giang
 Ngòi Giau
 Ngòi Giác
+Ngòi Giám, Ngoi Girm, Ngòi Yôm
 Ngòi Hoa Quông, Ngòi Hon Quong
 Ngòi Hòa
 Ngòi Hóp, Ngoi Hof
@@ -4990,20 +4938,20 @@ Ngòi Khuôn Đỏ
 Ngòi Khẩm
 Ngòi Kouang, Ngoi Nouang
 Ngòi Ky
-Ngòi La
 Ngòi Lang
 Ngòi Lao, Ngoi Lai
 Ngòi Lap
-Ngòi Le
 Ngòi Lem
 Ngòi Li
-Ngòi Lu
 Ngòi Lung
 Ngòi Luot
 Ngòi Lâm
 Ngòi Lâu Con, Ngoi Lou Cou
+Ngòi Lũ
 Ngòi Lương
+Ngòi Lạ
 Ngòi Lạt
+Ngòi Lệ
 Ngòi Lớn
 Ngòi Me
 Ngòi Minh
@@ -5040,13 +4988,13 @@ Ngòi Song
 Ngòi Ta Lê
 Ngòi Tao, Ngòi Tuo
 Ngòi Tham
-Ngòi Than, Ngòi Tane
-Ngòi Thap, Ngoi Thar, Ngoi Thuo, Ngoi Top
 Ngòi Thi
 Ngòi Thia, Ngoi Thie, Ngoi This
+Ngòi Tháp, Ngoi Thar, Ngoi Thuo, Ngoi Top
 Ngòi Thíp
 Ngòi Thông Lí
 Ngòi Thúc
+Ngòi Thản, Ngòi Tane
 Ngòi Thắt
 Ngòi Thọ Son
 Ngòi Tien Yen
@@ -5099,7 +5047,6 @@ North Central Coast, Bắc Trung Bộ, North Central Region
 Northeast
 Northwest, Tây Bắc
 Noun Plat
-Nui Ba Da, Núi Bà Đặng
 Nàm Man
 Nám Nha Cả
 Nâm Louc
@@ -5117,7 +5064,6 @@ Núi An Trường
 Núi Ang Trong
 Núi Ao Hồ, Mont Phenix
 Núi Atine
-Núi Ba
 Núi Ba Bên
 Núi Ba Bếp
 Núi Ba Chi
@@ -5131,7 +5077,6 @@ Núi Ba Mu
 Núi Ba Nhong
 Núi Ba Nội, Nui Ba No
 Núi Ba Quan, Nui Ban Quan
-Núi Ba Ra, White Virgin Mountain
 Núi Ba Sáng
 Núi Ba Tan
 Núi Ba Thê, Nui Ba Tho, Nú An Long
@@ -5143,7 +5088,6 @@ Núi Ba Xu
 Núi Ba Xã
 Núi Bac Mục
 Núi Bahoua
-Núi Bai
 Núi Bai Héou
 Núi Bai Thong
 Núi Bambouille
@@ -5154,11 +5098,9 @@ Núi Ban Mua
 Núi Ban Nưa
 Núi Ban Si Ngài
 Núi Ban Xa
-Núi Bang
 Núi Bang Giài
 Núi Bang Lim
 Núi Banh
-Núi Bao, Núi Rao
 Núi Bao Bái
 Núi Bao Quan
 Núi Bay
@@ -5176,17 +5118,20 @@ Núi Biêu
 Núi Blâu
 Núi Bo Mo
 Núi Bom
-Núi Bon
 Núi Bon Con, Nui Bo Cow
 Núi Boong Xung
 Núi Bro Quoanh
-Núi Buốc Mu
-Núi Buộm, Núi Bum
+Núi Buộc Mú
+Núi Bà
+Núi Bà Dạ, Núi Bà Đặng
 Núi Bà Lớn
+Núi Bà Rá, White Virgin Mountain
 Núi Bà Đen, Black Lady Mountain, Black Virgin Mountain, Mount Ba Dinh, Nui Chon Ba Den, Pic Baden
 Núi Bà Đội
+Núi Bài
 Núi Bàn Cờ
 Núi Bàn Độ, Mont Ban Do, The Paps
+Núi Bàng
 Núi Bàng Puốc
 Núi Bá Hà
 Núi Bá Hâo
@@ -5227,12 +5172,13 @@ Núi Bù Lâu
 Núi Bù Mo Lào
 Núi Bù Nhịp
 Núi Bù Rêm Cộc
-Núi Bù Thanh
+Núi Bù Thành
 Núi Bù Đình
 Núi Búi
 Núi Búp Chuối
 Núi Bơ Sáng
 Núi Bương
+Núi Bượm, Núi Bum
 Núi Bạc
 Núi Bạc Tóc
 Núi Bại Cây Tất
@@ -5241,6 +5187,7 @@ Núi Bản Bôn
 Núi Bản Giuộc, Nui Ban Dzouc, Núi Ban Dzuoc
 Núi Bản Thừng
 Núi Bản Vương
+Núi Bảo, Núi Rao
 Núi Bảo Sơn, Nui Bao San
 Núi Bảo Đài, Núi Bả Đài
 Núi Bật Nùng
@@ -5251,6 +5198,7 @@ Núi Bềnh Đung
 Núi Bễ Triêng
 Núi Bỏ Pèo
 Núi Bốc, Núi Bốe
+Núi Bốn
 Núi Bồ
 Núi Bồng, Núi Béng
 Núi Bồng Bụt
@@ -5266,16 +5214,14 @@ Núi Ca Để
 Núi Cai
 Núi Cai Muong
 Núi Cai Tong
-Núi Cam, PhnomPrapeal
 Núi Cam Co
 Núi Cam Linh
-Núi Can, Mount Cẩn
 Núi Can Son
 Núi Canh Giá
 Núi Canh Páng
 Núi Canh Sân
 Núi Cao
-Núi Cao Bang
+Núi Cao Bắng
 Núi Cao Cườm
 Núi Cao Dien, Nui Giao Dien
 Núi Cao Khu
@@ -5284,7 +5230,6 @@ Núi Cao Quan
 Núi Cao Rang
 Núi Cao Ri, Nui Gau Ri
 Núi Cao Sam
-Núi Cao Sơn
 Núi Cao Vinh
 Núi Cao Vều, Cao Veou
 Núi Cao Xiêm, Nui Cao Xio
@@ -5295,13 +5240,11 @@ Núi Cha Lan
 Núi Chai
 Núi Chai Ngò
 Núi Cham
-Núi Chang, Pau Chang, Phu Chang
 Núi Chao, Pic Kwala
 Núi Chao Fun
 Núi Chao Tu
 Núi Chau Mày
 Núi Chau Sa
-Núi Che
 Núi Che But
 Núi Cheng
 Núi Cheu
@@ -5309,7 +5252,6 @@ Núi Chi Vị
 Núi Chim
 Núi Chiêm
 Núi Chiềng Ly
-Núi Cho, Bù Cho, Massif du Pu-Chu, Phu Cho
 Núi Cho Do
 Núi Cho Moi
 Núi Cho Vúng Giang
@@ -5321,7 +5263,6 @@ Núi Chop Dung
 Núi Chou
 Núi Chu
 Núi Chu Hin
-Núi Chua
 Núi Chua Triêu
 Núi Chut
 Núi Chuân
@@ -5339,6 +5280,7 @@ Núi Châu Sơn
 Núi Châu Thới, Chau Toi, Nai Chau Thu, Nui Chan Thoi, Nui Chantoi
 Núi Châu Tá
 Núi Châu Viên
+Núi Chè
 Núi Chén Hường
 Núi Chép La
 Núi Chéré
@@ -5349,6 +5291,7 @@ Núi Chóp My
 Núi Chóp Vung
 Núi Chóp Đỉnh, Rú Chóp Đình
 Núi Chôm Cap
+Núi Chùa
 Núi Chùa Nga
 Núi Chùa Đen
 Núi Chúng Chu
@@ -5358,6 +5301,7 @@ Núi Chư Bá
 Núi Chưa Muội
 Núi Chạch
 Núi Chạm Chu, Cham Chu
+Núi Chạng, Pau Chang, Phu Chang
 Núi Chạng Lạng
 Núi Chấp Chài, Epervier Peak
 Núi Chấp Sái Chè
@@ -5370,8 +5314,8 @@ Núi Chống Cua
 Núi Chống Lìa
 Núi Chống Sai
 Núi Chồm Xe
+Núi Chợ, Bù Cho, Massif du Pu-Chu, Phu Cho
 Núi Chứa Chan
-Núi Co
 Núi Co Cam
 Núi Co Cang
 Núi Co Choc
@@ -5413,6 +5357,7 @@ Núi Cà Tong
 Núi Cà Đú
 Núi Cà Ổi
 Núi Cài Nhương
+Núi Cào Sơn
 Núi Các
 Núi Cách Ký
 Núi Cái Khoáng
@@ -5444,11 +5389,14 @@ Núi Cưu Kẹp
 Núi Cước Đeng
 Núi Cạnh
 Núi Cả
+Núi Cấm, PhnomPrapeal
 Núi Cấu Hin, Nui Co Hin
 Núi Cần Chất
 Núi Cầu Sông Ván
 Núi Cẩm Tiêm
+Núi Cẩn, Mount Cẩn
 Núi Cậy Thưn
+Núi Cọ
 Núi Cốc Chủ
 Núi Cốc Càng
 Núi Cốc Cành
@@ -5476,8 +5424,6 @@ Núi Cục Đèn, Cuc Den
 Núi Cứu Co Ban
 Núi Cứu Quốc
 Núi Cửa Vol
-Núi Da
-Núi Da Ban
 Núi Da Cao
 Núi Da Cham
 Núi Da Lan
@@ -5485,7 +5431,6 @@ Núi Da Lon
 Núi Da Téo
 Núi Da Ó
 Núi Dagia
-Núi Dai
 Núi Dai Tiam
 Núi Dak, Nui Dac
 Núi Dan Moc
@@ -5493,19 +5438,14 @@ Núi Dang
 Núi Dang Krean, Nui Dung Krean
 Núi Dang Salin
 Núi Dansakeur
-Núi Dao, La Table, The Table
 Núi Dao Rang
-Núi Dat
 Núi Dau Goc Let
 Núi Deloune
 Núi Deo Son
 Núi Dianh
-Núi Dinh
 Núi Diêng Bông
 Núi Diêu Sét, Nui Dieu See
-Núi Doi
 Núi Doi Cuon
-Núi Don
 Núi Don Den, Nui Dan Deu
 Núi Dong Bang
 Núi Dong Cuông
@@ -5521,15 +5461,11 @@ Núi Dà Cầm
 Núi Dác Tiên
 Núi Dáp
 Núi Dâm Lứn, Nui Dam Lon
-Núi Dâu
-Núi Dèn, Chaine de Nui Den
 Núi Dèo
 Núi Dóc Các, Nui Doc Cao
 Núi Dôi Tang
 Núi Dông Hiem
-Núi Dông Lâm, Nui Dong Lani
 Núi Dông Ô
-Núi Dả Den
 Núi Dất Sét
 Núi Dốc Nang
 Núi Dốc Tấn
@@ -5557,7 +5493,6 @@ Núi Gia Két
 Núi Gia Rích
 Núi Gia Tri
 Núi Gia Đuc
-Núi Giai, Phnom Oc Giùm
 Núi Giam Phai
 Núi Gian
 Núi Giang
@@ -5566,12 +5501,13 @@ Núi Giang Gio
 Núi Giang Hường
 Núi Giang Rao, Núi Grao
 Núi Giat
-Núi Gio
 Núi Già Loa
 Núi Già Lầu
+Núi Giài, Phnom Oc Giùm
 Núi Giác, Núi Gioc
 Núi Giáp Giao
 Núi Giãng Màn
+Núi Gió
 Núi Gióc Cầy
 Núi Giôc Kiêt
 Núi Giăm
@@ -5580,7 +5516,6 @@ Núi Giưc Kinh
 Núi Giếng Xó, Nui Gieng Do
 Núi Giỏ Quít, Nui Gioc Quit
 Núi Giốc Lón
-Núi Goi
 Núi Gou Karan
 Núi Guiven
 Núi Gà
@@ -5589,6 +5524,7 @@ Núi Góc Dé
 Núi Gón Dé
 Núi Gõ
 Núi Gư Hướm
+Núi Gọi
 Núi Gọi Rấp
 Núi Gốc Lim
 Núi Gốc Múc
@@ -5597,7 +5533,6 @@ Núi Ha
 Núi Hac
 Núi Hai
 Núi Hai Căn
-Núi Han
 Núi Han Lè
 Núi Hang Bà
 Núi Hang Dơi
@@ -5605,7 +5540,6 @@ Núi Hang Lai
 Núi Hang Mạy Sao
 Núi Hang Sơn
 Núi Hang Trâu
-Núi Hao
 Núi Hay
 Núi He
 Núi He Kan
@@ -5622,7 +5556,6 @@ Núi Hiểu
 Núi Hiện Kích
 Núi Ho Ro
 Núi Hoa San
-Núi Hoa Sơn, Hoa Son
 Núi Hoan Ho
 Núi Hoang Bờ Lăng
 Núi Hoc Hoa, Núi Bóc Hoa
@@ -5644,7 +5577,7 @@ Núi Hua Huổi
 Núi Hua Huổi Nắn
 Núi Hua Lái
 Núi Hua Tho Lọ
-Núi Huyên Đinh
+Núi Huyền Định
 Núi Huất
 Núi Huổi Ban
 Núi Huổi Búng
@@ -5685,10 +5618,11 @@ Núi Hàm Ếch, Nui Ong Roc
 Núi Hánh Hót
 Núi Hát
 Núi Hát Xì
+Núi Hân
 Núi Hãm
 Núi Hên
 Núi Hòm Cấm, Nui Hon Cam
-Núi Hòn Ba
+Núi Hòn Bà
 Núi Hòn Bù Lu
 Núi Hòn Bồ
 Núi Hòn Ca
@@ -5703,8 +5637,8 @@ Núi Hòn Gai
 Núi Hòn Giao
 Núi Hòn Giữ B
 Núi Hòn Góp
-Núi Hòn Han
 Núi Hòn Ho
+Núi Hòn Hàn
 Núi Hòn Khô, Nui Gon Kho
 Núi Hòn La
 Núi Hòn Lom
@@ -5745,8 +5679,10 @@ Núi Hùm
 Núi Húa Hai
 Núi Hăng
 Núi Hương
+Núi Hảo
 Núi Hầu, Động Hầu
 Núi Hằng Cơ
+Núi Hỏa Sơn, Hoa Son
 Núi Hố Cùng
 Núi Hố Quang
 Núi Hốc Luông
@@ -5804,7 +5740,6 @@ Núi Khau Đang
 Núi Khau Điêu
 Núi Khay
 Núi Khe Chè
-Núi Khe Cóc, Núi Khê Cóe
 Núi Khe Ho
 Núi Khe Long
 Núi Khe Nây
@@ -5815,7 +5750,6 @@ Núi Khe Đá Bạc
 Núi Khe Đất, Động Khe Đất
 Núi Kheo Kham
 Núi Khinh
-Núi Kho
 Núi Khoa
 Núi Khoa Trường
 Núi Khoai
@@ -5858,6 +5792,7 @@ Núi Khé Thúi, Grande Sommet des Mines
 Núi Khê
 Núi Khê An
 Núi Khê Buon
+Núi Khê Cóc, Núi Khê Cóe
 Núi Khê Cầm
 Núi Khê Giâu
 Núi Khê Mau, Nú Khê Mau
@@ -5886,6 +5821,7 @@ Núi Khưa Quang
 Núi Khỉ Cháo
 Núi Khỏ Phong
 Núi Khốp Ma
+Núi Khổ
 Núi Khổi Kiếp
 Núi Khổi Ngùm
 Núi Khứn Huột
@@ -5926,7 +5862,6 @@ Núi Kẻ
 Núi Kỳ Lân, Nui Ky Lang
 Núi Kỳ Sơn
 Núi Kỳ Đài
-Núi La
 Núi La Dam
 Núi La Hiên
 Núi Lai Cát
@@ -5948,9 +5883,7 @@ Núi Lang Trai
 Núi Lao
 Núi Lao Cáy
 Núi Lao Sơn
-Núi Lat
 Núi Lau
-Núi Le, Nui De
 Núi Len
 Núi Len Ka
 Núi Len Muông, Len Muong
@@ -5972,12 +5905,10 @@ Núi Long Ngưu
 Núi Long Quai
 Núi Long Văn
 Núi Loong Lậu
-Núi Lop
 Núi Loòng Cuốn
 Núi Lung Cạy
-Núi Lung Luông, Nùi Lang Luong
 Núi Lung Quai
-Núi Luong
+Núi Luông
 Núi Là A
 Núi Làng Hoai
 Núi Làng Hét
@@ -5988,6 +5919,7 @@ Núi Làng Tám
 Núi Làng Xiên
 Núi Làng Điền
 Núi Lành
+Núi Lá
 Núi Lán Cu
 Núi Lán In
 Núi Lán Nẩm
@@ -6015,6 +5947,7 @@ Núi Lèn Kẹm
 Núi Lèn Mụ
 Núi Lèn Vui
 Núi Lèo Heo
+Núi Lê, Nui De
 Núi Lên Lù Lú
 Núi Lênh Đinh, Phu Lênh Đinh
 Núi Lô Sơn
@@ -6028,8 +5961,9 @@ Núi Lăng Đình
 Núi Lũ Con
 Núi Lũng Chiều
 Núi Lũng Duốc
-Núi Lũng Khi Cáy
+Núi Lũng Khí Cáy
 Núi Lũng Kit
+Núi Lũng Luông, Nùi Lang Luong
 Núi Lũng Lì
 Núi Lũng Muổi
 Núi Lũng Nhù
@@ -6045,10 +5979,12 @@ Núi Lạc Ken
 Núi Lả Lấu
 Núi Lẩu Ỏm
 Núi Lắc Cờ
+Núi Lặt
 Núi Lịch
 Núi Lọng Sản Tang
 Núi Lốc Ê, Núi Iôc Ê
 Núi Lốm Púa
+Núi Lốp
 Núi Lồ Ô
 Núi Lồi
 Núi Lỗ Hùm
@@ -6067,9 +6003,7 @@ Núi Ma Rai
 Núi Magna
 Núi Maha, Núi Mnha
 Núi Man Han
-Núi Mang
 Núi Mang Hang San, Mang Han San
-Núi Mao Gà
 Núi Mao Len
 Núi Mar Rai, Núi Marrai
 Núi Mat Vork
@@ -6088,10 +6022,10 @@ Núi Mo Xat
 Núi Mong
 Núi Moun
 Núi Mu Mận
-Núi Muc
 Núi Mun, Núi Mum
 Núi My
 Núi Mà Bô
+Núi Mào Gà
 Núi Mày Nhà
 Núi Mái Nhà, Phu Mai Nha
 Núi Mây
@@ -6122,6 +6056,7 @@ Núi Mạ Con Voi
 Núi Mạy Lài, Núi Mai Lai
 Núi Mạy Đẩy
 Núi Mất
+Núi Mắng
 Núi Mắt Quỉ, Nui Mai Qui, Nui Mat Quy
 Núi Mặt Cặt
 Núi Mỏ
@@ -6137,6 +6072,7 @@ Núi Mốc
 Núi Mốc Bươi, Moc Buoi
 Núi Mốc Lên
 Núi Một
+Núi Mục
 Núi Mục Cúm
 Núi Mỹ Duệ
 Núi Mỹ Hộc
@@ -6161,10 +6097,9 @@ Núi Nan Long
 Núi Nang
 Núi Nen
 Núi Nga Hai
-Núi Ngan
 Núi Ngan Sot
 Núi Ngang, Học Kiếu
-Núi Nghe
+Núi Nghê
 Núi Nghú
 Núi Ngo Khe
 Núi Ngoc
@@ -6172,6 +6107,7 @@ Núi Ngu Binh, Mount Ngự Bình
 Núi Nguộc
 Núi Ngà, Tioh Nga
 Núi Ngài Lôm
+Núi Ngàn
 Núi Ngánh
 Núi Ngòi Tía
 Núi Ngườm Liên
@@ -6182,28 +6118,26 @@ Núi Ngọc Giai
 Núi Ngọn Suối Tường
 Núi Nha Sơn
 Núi Nham Sơn
-Núi Nhan
 Núi Nhe
 Núi Nhiao
-Núi Nhon, Nui Nong
 Núi Nhu Xuyên
 Núi Nhuyên
 Núi Nhà Ca
 Núi Nhà Dài
 Núi Nhà Muỗi
 Núi Nhà Tét
+Núi Nhàn
 Núi Nhân Thi
 Núi Nhơ, Nui Nha, Núi Tao Phùng, Núi Vũng Tầu
 Núi Nhược Thạch
 Núi Nhả Nhung
+Núi Nhọn, Nui Nong
 Núi Ninh Anh
 Núi Niot Ti
 Núi Niu Nap
-Núi Noi
 Núi Noi Uất
 Núi Nom Vo, Nui Nam Vai
 Núi Nong Cốp
-Núi Nua
 Núi Nà Cướm
 Núi Nà Huối
 Núi Nà Luông
@@ -6229,6 +6163,7 @@ Núi Nâu, Nui Vau
 Núi Nó Khá
 Núi Nóc Mò
 Núi Nóc Én
+Núi Nôi
 Núi Nôi Hằm
 Núi Nông Khú, Nui Nhong Khu
 Núi Năm
@@ -6258,10 +6193,10 @@ Núi Nậm Thấu
 Núi Nắm Cơm
 Núi Nịch Ki, Núi Nichiki
 Núi Nọi Luông
+Núi Nứa
 Núi Nứt
 Núi Oi
 Núi On
-Núi Ong, Faux Varella, Nui Vung Gang, Núi Ôog, Sommet Faux Varella
 Núi Ong Bai
 Núi Ong Bang, Nui Ong Ban
 Núi Ong Gàn
@@ -6338,7 +6273,6 @@ Núi Phỳ A Ngà
 Núi Pia Boóc, Massif du Pia Bioc, Phia Bióoc, Pia Biac
 Núi Pia Bóc
 Núi Pia Cao
-Núi Pia Deng
 Núi Pia Ma
 Núi Pia My
 Núi Pia Ngôm, Elephant, Pia Ngôm
@@ -6347,6 +6281,7 @@ Núi Pia Oac Sud, Nui Pia Oac, Phia Uắc, Phia Văc, Pia Oac, Pia Ouac
 Núi Pia Phét
 Núi Pia Púc
 Núi Pia Ya, Nui Dia Ya, Phi Y A
+Núi Pia Đeng
 Núi Piêu Hẩu
 Núi Po Giôn
 Núi Po Kho Luông
@@ -6364,7 +6299,6 @@ Núi Pom Sọc
 Núi Pon
 Núi Pou Dinh
 Núi Pouh Tard
-Núi Pu Hang
 Núi Pu Hồng Mèo
 Núi Pu Kho Luông, Fu Kho Luong, Phu Kho Lường, Pu Kho Luong
 Núi Pu Miang
@@ -6391,6 +6325,7 @@ Núi Pô Tính
 Núi Pù Chan
 Núi Pù Củm
 Núi Pù Huốt
+Núi Pù Hăng
 Núi Pù Khoan
 Núi Pù Tăng
 Núi Pú Há
@@ -6535,7 +6470,6 @@ Núi Tap Tinh
 Núi Tapla
 Núi Tara Nhin
 Núi Tat
-Núi Tau, Phu Taou
 Núi Tau Ha
 Núi Tau Linh
 Núi Tchai
@@ -6549,7 +6483,6 @@ Núi Tha Nhonh
 Núi Tha Ninh
 Núi Tha Tou, Nui Tha
 Núi Tham Bô
-Núi Than
 Núi Than Sei
 Núi Than Tuy
 Núi Thert
@@ -6576,6 +6509,7 @@ Núi Thâm Hâu
 Núi Thâm Khoan
 Núi Thâm Nghiểu
 Núi Thâm Pụt
+Núi Thân
 Núi Thìn Tuy
 Núi Thín
 Núi Thôm Pết
@@ -6616,7 +6550,6 @@ Núi Tiên Du
 Núi Tiô Ha
 Núi Tiếu
 Núi Tiền Sơn
-Núi To, Chaîne Nui To
 Núi Toc Tien
 Núi Ton Denh
 Núi Tong Mai
@@ -6628,7 +6561,6 @@ Núi Top Ray
 Núi Tour Chàm
 Núi Toòng Chính
 Núi Toòng Quấy
-Núi Trai
 Núi Trai Ba Ly
 Núi Tre Bút
 Núi Tri
@@ -6655,6 +6587,7 @@ Núi Trà Xía
 Núi Trà Đuốc
 Núi Tràn
 Núi Tràng Dinh
+Núi Trái
 Núi Trái Độ
 Núi Tráng Cặp
 Núi Trâm
@@ -6690,9 +6623,11 @@ Núi Tát Mệ
 Núi Tát Rượi
 Núi Tân Bảo Yên
 Núi Tân Ri
+Núi Tâu, Phu Taou
 Núi Tích
 Núi Tóc Nâc Lec
 Núi Tón Luông
+Núi Tô, Chaîne Nui To
 Núi Tô Hiệu
 Núi Tôm Tàm
 Núi Tôn Côn, Nui Tan Con, Nui Ton Can
@@ -6705,7 +6640,7 @@ Núi Tường
 Núi Tạch Bà
 Núi Tả Lèng
 Núi Tả Lùng Than
-Núi Tản Viên, Ba Vi, Nui Bo Vi, Núi Ba Vì, Tan Vien, Tan Vien Son
+Núi Tản Viên, Ba Vi, Nui Bo Vi, Núi Ba Vi, Tan Vien, Tan Vien Son
 Núi Tất Hen
 Núi Tầm Bò
 Núi Tắc Kê
@@ -6719,26 +6654,23 @@ Núi Tức Khang
 Núi Tử Lung
 Núi U Bò
 Núi U Nỏ
-Núi Ung Hạc
 Núi Uy Vien, Nui Uy Yien
 Núi Vai Luông
 Núi Van Ma
 Núi Van Nang
 Núi Van Thiện
-Núi Vang
 Núi Vi
 Núi Viên Nam
 Núi Vo Quâp
-Núi Voi, Montagne de l'Éléphant, Mount Voi
 Núi Voi Te
 Núi Von Coc
 Núi Vop
-Núi Vu
 Núi Vua
 Núi Vua Bà
 Núi Vuan Chuc, Núi Vuon Chuc
 Núi Vung
 Núi Vung May
+Núi Vàng
 Núi Vàng Neo
 Núi Vành
 Núi Vào
@@ -6746,7 +6678,9 @@ Núi Vá
 Núi Ván Sát
 Núi Vát
 Núi Vò Piêng
+Núi Vôi, Montagne de l'Éléphant, Mount Voi
 Núi Võ
+Núi Vú
 Núi Văn
 Núi Vĩnh Yên
 Núi Vũ Trũ, Nui Vu Tra
@@ -6761,7 +6695,6 @@ Núi Vạn Sán
 Núi Vả Lạc
 Núi Vệ Chánh
 Núi Vực Sơn
-Núi Xa
 Núi Xa Khế
 Núi Xa Rong
 Núi Xa Rạng
@@ -6779,10 +6712,11 @@ Núi Xăm Pom
 Núi Xư Vang
 Núi Xước, Nui Suoc
 Núi Xưởng Cưa
+Núi Xả
 Núi Y Nhơn
 Núi Ya
-Núi Ya Bo
 Núi Ya Bonnonh, Bonnonh, Tioh Ya Bonnonh
+Núi Ya Bô
 Núi Yac
 Núi Yai Nọi
 Núi Yam
@@ -6809,6 +6743,7 @@ Núi É Gué
 Núi Ít Quản
 Núi Ô
 Núi Ôn Hương
+Núi Ông, Faux Varella, Nui Vung Gang, Núi Ôog, Sommet Faux Varella
 Núi Ông Chếnh
 Núi Ông Chợ
 Núi Ông Câu, Nui Baria
@@ -6827,8 +6762,8 @@ Núi Ông Tre
 Núi Ông Trịnh
 Núi Ông Xiêm, Núi Ông Diem
 Núi Ông Ô
-Núi Ông Đinh
 Núi Ông Điêu
+Núi Ông Định
 Núi Đa Cẩu
 Núi Đa Mao
 Núi Đa Đồn
@@ -6841,17 +6776,21 @@ Núi Đanh
 Núi Đanh Cưu
 Núi Đen Đin
 Núi Đeo Sen
-Núi Đia Đô
 Núi Điêng Cáy
+Núi Đoi
 Núi Đon Đa
 Núi Đone
 Núi Đong Ta
 Núi Đong Đong, Núi Đoug Đong
 Núi Đu, Nu Du
 Núi Đung Lang
+Núi Đà Đen
 Núi Đàm
 Núi Đàn Bóng
+Núi Đào, La Table, The Table
+Núi Đá
 Núi Đá Bia
+Núi Đá Bàn
 Núi Đá Bạc
 Núi Đá Bạch
 Núi Đá Chát
@@ -6874,6 +6813,7 @@ Núi Đán Nóng
 Núi Đán Sang
 Núi Đán Đăm
 Núi Đánh Khương
+Núi Đèn, Chaine de Nui Den
 Núi Đèo Cô
 Núi Đèo Cả
 Núi Đèo Goc, Nui Deo Cao
@@ -6882,10 +6822,12 @@ Núi Đèo Kinh
 Núi Đèo Nùng, Nui Doc Nung
 Núi Đèo Tiên
 Núi Đèo Voi
+Núi Đình
 Núi Đình Cả
 Núi Đình Phù
 Núi Đóng Bốp
 Núi Đót
+Núi Đôn
 Núi Đôn Ngô
 Núi Đông, Nu Dong
 Núi Đông Bai
@@ -6893,8 +6835,8 @@ Núi Đông Bắc Trọc
 Núi Đông Hán
 Núi Đông Khê
 Núi Đông Lai, Massif du Nui Dong Lai
-Núi Đông Lang
 Núi Đông Lao
+Núi Đông Lăng
 Núi Đông Ma
 Núi Đông Ne, Dong Né
 Núi Đông Nhơn
@@ -6906,19 +6848,23 @@ Núi Đông Thê
 Núi Đông Điện
 Núi Đông Đàm
 Núi Đông Đàng
+Núi Đại
 Núi Đại Bạc, Rú Đai Vạc
 Núi Đại Liên
 Núi Đại Tô Châu, To Chau
 Núi Đạn
 Núi Đản Phải
 Núi Đảo Cây, Đảo Cây
+Núi Đất
 Núi Đất Đỏ
+Núi Đầu
 Núi Đầu Tường
 Núi Đầu Voi
 Núi Đằng Đằng
 Núi Đặng Công
 Núi Đề Cha Chua
 Núi Đỉnh Trương
+Núi Địa Đồ
 Núi Đỏ
 Núi Đốc
 Núi Đối Thơi
@@ -6947,12 +6893,15 @@ Núi Động Hố
 Núi Động Khá
 Núi Động Kiêu
 Núi Động Lim
+Núi Động Lâm, Nui Dong Lani
 Núi Động Ru
 Núi Động Rẩy
 Núi Động Trị
 Núi Đụn, Động Đụn
+Núi Ưng Hắc
 Núi Ếch
 Núi Ứng
+Năm Càn, Nam Ca
 Năm Lân Sui Cau
 Năm Púng
 Năm Tip, Nam Tio
@@ -6982,69 +6931,102 @@ Nước Xa
 Nước Yôn, Nuoc You
 Nước Đinh
 Nước Ấp Ria, Nuoc Ap Riai
+Nậm Bai
 Nậm Be
 Nậm Bum
-Nậm Cha, Nam Chia
 Nậm Chanh
 Nậm Chi
 Nậm Chiên
 Nậm Chu, Nam Chou
+Nậm Chà, Nam Chia
 Nậm Chít
+Nậm Chăn
+Nậm Chăng
+Nậm Chẹng
 Nậm Chọn
 Nậm Chốt, Nam Chat
 Nậm Con
+Nậm Cung
 Nậm Cuổi, Nam Coué
+Nậm Cát
 Nậm Cát Trắng
 Nậm Căm
+Nậm Cơ
+Nậm Cầu, Nam Cou, Nằm Cao
 Nậm Cộng
 Nậm Củm, Nam Ha Ne
 Nậm Dê
 Nậm Giang
-Nậm He, Suối Nậm Hẹ
+Nậm Giê
 Nậm Hinh
+Nậm Hon
+Nậm Hua, Nam Khoai, Nam Kouai
+Nậm Hẹ, Suối Nậm Hẹ
 Nậm It
 Nậm Khay
 Nậm Khiêng
 Nậm Khouang
 Nậm Khâu Hú
+Nậm Khóa
 Nậm Khăn
 Nậm Khốt, Nậm Khắt
+Nậm Kìm, Nam Nim, Nan Kim
 Nậm Kích
 Nậm Kẻ
-Nậm La
+Nậm Li
 Nậm Liềng
 Nậm Lung
+Nậm Luông
+Nậm Lò
 Nậm Lót
 Nậm Lúc
+Nậm Lăm
 Nậm Met
+Nậm Mu, Nam Moa
+Nậm Mát
 Nậm Mít
 Nậm Mít Luông
+Nậm Mít Nọi
+Nậm Mùa, Nam Mue, Nam Nua
 Nậm Mờn
 Nậm Nghi
 Nậm Nghẹp
 Nậm Ngo
 Nậm Ngà
 Nậm Nhip, Nam Nhi, Nam Nhir
+Nậm Nhé, Nằm Nhié
 Nậm Nhạ
 Nậm Nhạt
 Nậm Pa
+Nậm Pao
 Nậm Pe
 Nậm Pha
-Nậm Phay
 Nậm Phe
+Nậm Phung
+Nậm Phày
 Nậm Phọt
 Nậm Piệng
 Nậm Puông
 Nậm Páp
+Nậm Pó
 Nậm Púm
+Nậm Pạt, Nam Pac, Nam Pai
+Nậm Quang, Nam Ouang
+Nậm Quét
 Nậm Rong, Nam Pong
 Nậm Ròm
+Nậm Sao
 Nậm Soi
 Nậm Sàng
+Nậm Sát
 Nậm Sú
+Nậm Sỏ, Nam Xa
 Nậm Ta Chang Ho, Nam Ta Chung Ho
 Nậm Tha
+Nậm Than
 Nậm Thoong
+Nậm Thóng
+Nậm Tia
 Nậm Toong
 Nậm Tra
 Nậm Trung Hồ
@@ -7066,21 +7048,30 @@ Nậm Ăm
 Nậm Đich, Nam Dic, Nam Du
 Nậm Điêng
 Nậm Đăng
+Nằm Boum
 Nằm Cha Nòi
 Nằm Cô Long Hồ, Nam Ca Long Ho
 Nằm Ha Sứ, Nam Ho Su
 Nằm Hin Koảng
+Nằm Hạ
+Nằm Hản, Nam Hun
 Nằm Hỏ Ma
 Nằm Hỏ Sá
 Nằm Hỏi Sa
+Nằm Khao
 Nằm Khe Nòi
 Nằm Khen
+Nằm Kho Ma, Nằm Kha Ma
 Nằm Khum
+Nằm Khé
 Nằm Khé Ló, Nam Kho Lo
 Nằm Ké Nơi
 Nằm Kổi
+Nằm Là
 Nằm Là Phơ
+Nằm Lè
 Nằm Ló Ma
+Nằm Lằn
 Nằm Lếch
 Nằm Ma Sing Toung
 Nằm Ma Ú
@@ -7092,6 +7083,7 @@ Nằm Nhót
 Nằm Náp
 Nằm Nố
 Nằm Pha Ủ, Nam Phu U
+Nằm Pán, Nam Paa, Nằm Pun
 Nằm Pốc
 Nằm San
 Nằm Sau
@@ -7205,7 +7197,6 @@ Phu Chom Tang, Pon Chom Tang
 Phu Cháy Ngô
 Phu Chòm Cúp
 Phu Cicouya
-Phu Co, Phou Co, Pou Co
 Phu Co Dao
 Phu Co Kang Sin
 Phu Co Nhúng
@@ -7216,12 +7207,13 @@ Phu Co Ya
 Phu Coc Paou, Pou Coc Paon
 Phu Con Hum
 Phu Cu By
-Phu Cut
 Phu Cà Mau
+Phu Cò, Phou Co, Pou Co
 Phu Cóp Tu
 Phu Cô Cô
 Phu Cô Giăng
 Phu Côn
+Phu Cút
 Phu Căm
 Phu Cọc
 Phu Cồng
@@ -7238,7 +7230,6 @@ Phu Giu Ha
 Phu Giàu Khau, Phu Gian Khau
 Phu Ha, Rhou Ha
 Phu Hai, Côn Đảo, Grande Condore, Great Condore, Poulo Condore, Đảo Côn Sơn
-Phu Han, Phou Han
 Phu Hang
 Phu Hap
 Phu Hay
@@ -7273,6 +7264,7 @@ Phu Huổi Long, Phu Houei Long, Phu Loi Sot
 Phu Huổi Lót
 Phu Hôn Cang, Phu Ha Cang
 Phu Hút, Phu Huatt
+Phu Hằn, Phou Han
 Phu Hổn Bồng
 Phu Hột
 Phu Ia Com
@@ -7324,13 +7316,13 @@ Phu Loong
 Phu Loung Phei
 Phu Loung Vai
 Phu Lu Thủy Hồ
-Phu Luong, Phu Luang, Pu Lương
 Phu Là Phò
 Phu Lái Noi
 Phu Lâ Sin
 Phu Lôm
 Phu Lông Mê
 Phu Lăng Mường
+Phu Lương, Phu Luang, Pu Lương
 Phu Lền Vàng, Phu Lau Vang
 Phu Ma
 Phu Ma Ố Sin
@@ -7360,8 +7352,8 @@ Phu Má Củ
 Phu Mù Su
 Phu Mẹo
 Phu Mọi
-Phu Na Lai, Pour Na Lai
 Phu Na Long, Phu Na Pong
+Phu Na Lại, Pour Na Lai
 Phu Na Nong
 Phu Nam Bo
 Phu Nam Kham, Pou Nam Kham
@@ -7388,7 +7380,6 @@ Phu Ngua
 Phu Ngìu Sang, Pha Ngiu Sang
 Phu Nhu
 Phu Nhu Ma Hò, Phu Nha Ma Ho
-Phu Nhuan, Phu Nhuon
 Phu Nhung, Núi Giong
 Phu Nhìn Cò Chải
 Phu Nhót Nhi
@@ -7499,7 +7490,6 @@ Phu San
 Phu San Liêm
 Phu San Sao
 Phu San Thài
-Phu Sang
 Phu Sao Lo
 Phu Sen
 Phu Sen Tang
@@ -7515,6 +7505,7 @@ Phu Soung
 Phu Sung
 Phu Sung Mon
 Phu Sur
+Phu Sáng
 Phu Súng Quán
 Phu Sút
 Phu Sế Ma
@@ -7590,25 +7581,25 @@ Phu Á Mé
 Phu Á Pà Chai San
 Phu Đan Kép
 Phu Đan Tôo, Phu Pan Ton
-Phu Đao
 Phu Đen
 Phu Đen Mỏ, Phu Deo Mo
-Phu Đen Đin
 Phu Đon Húi
+Phu Đào
 Phu Đán Kàn
+Phu Đên Đin
 Phu Đó Cắn
 Phu Đùng
 Phu Đồng Ngài
 Phu Ốm
 Phuoc Long ICD
 Phuong Mai
-Phuờng An Lạc
 Phuờng Hưng Phú
 Phá Tam Giang, Dam Tay, Lagune de l Ouest, West Lagoon
 Phú Hòa
 Phú Hội
 Phú Hữu
 Phú Mỹ
+Phú Nhuận, Phu Nhuon
 Phú Sơn, Col de Phu Son
 Phú Thọ
 Phăng Xi Păng
@@ -7639,6 +7630,7 @@ Phường An Hải Đông
 Phường An Hội
 Phường An Khánh
 Phường An Khê
+Phường An Lạc
 Phường An Lạc A
 Phường An Lộc
 Phường An Nghiệp
@@ -7719,7 +7711,6 @@ Phường Cam Linh
 Phường Cam Lộc
 Phường Cam Lợi
 Phường Cam Nghĩa
-Phường Cam Phú
 Phường Cam Phúc Bắc
 Phường Cam Phúc Nam
 Phường Cam Thuận
@@ -7760,6 +7751,7 @@ Phường Cẩm Bình
 Phường Cẩm Châu
 Phường Cẩm Nam
 Phường Cẩm Phô
+Phường Cẩm Phú
 Phường Cẩm Sơn
 Phường Cẩm Thành
 Phường Cẩm Thượng
@@ -8018,7 +8010,7 @@ Phường Nam Khê
 Phường Nam Lý
 Phường Nam Ngạn
 Phường Nam Sơn
-Phường Nam Thanh
+Phường Nam Thành
 Phường Nam Đồng
 Phường Nghi Hòa
 Phường Nghi Hương
@@ -8355,13 +8347,13 @@ Phường Tân Phong
 Phường Tân Phú
 Phường Tân Phước Khánh
 Phường Tân Quang
-Phường Tân Quy
+Phường Tân Quý
 Phường Tân Sơn
 Phường Tân Sơn Nhì
-Phường Tân Thanh
 Phường Tân Thiện
 Phường Tân Thuận Tây
 Phường Tân Thuận Đông
+Phường Tân Thành
 Phường Tân Thịnh
 Phường Tân Thới Hiệp
 Phường Tân Thới Hòa
@@ -8439,7 +8431,7 @@ Phường Vỹ Dạ, Phường Vĩ Dạ
 Phường Xuân An
 Phường Xuân Hà
 Phường Xuân Hòa
-Phường Xuân Khanh
+Phường Xuân Khánh
 Phường Xuân La
 Phường Xuân Phú
 Phường Xuân Thành
@@ -8482,8 +8474,8 @@ Phường Đông Lương
 Phường Đông Lễ
 Phường Đông Mai
 Phường Đông Sơn
-Phường Đông Thanh
 Phường Đông Thuận
+Phường Đông Thành
 Phường Đông Thọ
 Phường Đông Vĩnh
 Phường Đông Vệ
@@ -8778,11 +8770,11 @@ Ry Ninh
 Ràch Ông Năm Lùng
 Rào Bình Điên
 Rào Bồng
-Rào Cai, Rau Cai, Rào Mắm
 Rào Che Ve, Rao Cho Ve
 Rào Chân, Rao Cham
 Rào Chúc, Rao Choc
 Rào Con, Con Rào
+Rào Cái, Rao Mam, Rau Cai
 Rào Cát, Rao Cu
 Rào Cảo
 Rào Dá
@@ -8861,7 +8853,6 @@ Rạch Ba Tri Rôm, Rach Ba Tri Ram
 Rạch Ba Tục
 Rạch Ba Vinh
 Rạch Ba Vòm
-Rạch Ban Góc
 Rạch Ban Thach
 Rạch Ban Thôn
 Rạch Bat Oc
@@ -8924,6 +8915,7 @@ Rạch Bạch Ngưu
 Rạch Bảo Kê, Canal Bocquet, Canal Ke Bacauel, Kinh Bac Ke, Kinh Bảo Kê, Kênh Bảo Kê
 Rạch Bảo Định, Arroyo de La Post, Arroyo de la Poste, Arroyo la Poste
 Rạch Bần, Rach Bang
+Rạch Bần Góc
 Rạch Bần Đẹt, Muong Ban Det, Muong Bon Det
 Rạch Bắc Chan
 Rạch Bắc Đông
@@ -8965,12 +8957,10 @@ Rạch Chắc Đao
 Rạch Chợ Đệm, Song Cho Dem
 Rạch Chủ Tre
 Rạch Co Gong
-Rạch Coc, Lung Coc
 Rạch Con Cá
-Rạch Con Lợi, Rach Con Loc
 Rạch Con Ốc
 Rạch Cua Lap
-Rạch Cà Mau, Rach Cai Mou, Rach Co Mau
+Rạch Cà Mâu, Rach Cai Mou, Rach Co Mau
 Rạch Cá
 Rạch Cá Bãy
 Rạch Cá Chôc
@@ -8984,7 +8974,6 @@ Rạch Cái Bông, Rach Cai Bang
 Rạch Cái Bùi
 Rạch Cái Bải
 Rạch Cái Bần
-Rạch Cái Cai, Rach Cai Gai, Song Cai Cai
 Rạch Cái Chanh Lớn
 Rạch Cái Chanh Nhỏ, Rach Cai Chanh
 Rạch Cái Chiên
@@ -8992,6 +8981,7 @@ Rạch Cái Chui
 Rạch Cái Chát Lớn
 Rạch Cái Chồn
 Rạch Cái Cá
+Rạch Cái Cái, Rach Cai Gai, Song Cai Cai
 Rạch Cái Cóm
 Rạch Cái Cỏ, Rach Cau Co
 Rạch Cái Cồn
@@ -9055,7 +9045,7 @@ Rạch Cáy Thọ
 Rạch Câu Trương Chùa, Truòng Chùa
 Rạch Cây Bàn
 Rạch Cây Bàng
-Rạch Cây Duong
+Rạch Cây Dương
 Rạch Cây Dừa
 Rạch Cây Gioòng
 Rạch Cây Keo
@@ -9064,6 +9054,7 @@ Rạch Cây Me
 Rạch Cây Nhum
 Rạch Cây Sơn
 Rạch Cãu Dừa
+Rạch Cóc, Lung Coc
 Rạch Cô Chung
 Rạch Cô Mão
 Rạch Côt Buồm
@@ -9097,19 +9088,18 @@ Rạch Cầu Võng
 Rạch Cỏ Xên
 Rạch Cống Hai, Rạch Cống 2
 Rạch Cồn Cũ, Rach Can Cu
+Rạch Cồn Lợi, Rach Con Loc
 Rạch Cổ Cò
 Rạch Cửa Cạn
 Rạch Da Giang
 Rạch Danh Tâm
 Rạch Diệp Nước
 Rạch Don
-Rạch Dong
-Rạch Dua
-Rạch Dung
 Rạch Dình
 Rạch Dưa Một
 Rạch Dương Dóng, Cua Giang, Kua Giang
 Rạch Dần Xây
+Rạch Dứa
 Rạch Dừa Chung
 Rạch Eo Lói, Rach Eo Lon
 Rạch Gia Cao
@@ -9169,7 +9159,6 @@ Rạch Lang Dai
 Rạch Liêng Vung, Rach Lien Vung
 Rạch Liền
 Rạch Lo Go
-Rạch Lo Gom
 Rạch Long Công
 Rạch Long Hồ
 Rạch Long Vuong
@@ -9183,6 +9172,7 @@ Rạch Láng Cháo
 Rạch Láng Chệt
 Rạch Láng Hầm, Canal Lang Ham, Đường Láng
 Rạch Láng Sắc, Rach Leng Sac
+Rạch Lò Gốm
 Rạch Lọp
 Rạch Lộ
 Rạch Ma Trương
@@ -9199,11 +9189,11 @@ Rạch Múc
 Rạch Măng Đo, Rach Man Do
 Rạch Măt Điềt
 Rạch Mũi Heo
-Rạch Mương Dào, Canal Muong Dao, Canal de Muong, Rach Muong Duo
 Rạch Mương Nguôn
 Rạch Mương Su
 Rạch Mương Thơm
 Rạch Mương Ông Quỳnh, Rach Ong Hugnh, Rach Ong Quynh
+Rạch Mương Đào, Canal Muong Dao, Canal de Muong, Rach Muong Duo
 Rạch Mỹ Chanh, Rivière de Mu Chanh, Rivière de My Chanh, Rào Mỹ Chanh, Song My Chanh
 Rạch Mỹ Ngãi
 Rạch Mỹ Thiện
@@ -9215,7 +9205,7 @@ Rạch Nga Ba Đinh
 Rạch Nga Tu
 Rạch Ngan
 Rạch Ngà Cây
-Rạch Ngã Ba Cai Tàu, Rach Ngan Dila, Rạch Ngã Cái Tàu, Rạch Ngạn Dùa
+Rạch Ngã Ba Cái Tàu, Rach Ngan Dila, Rạch Ngã Cái Tàu, Rạch Ngạn Dùa
 Rạch Ngã Bát
 Rạch Ngã Cái
 Rạch Ngõ Nhỏ
@@ -9241,7 +9231,7 @@ Rạch Nô
 Rạch Năm Căn
 Rạch Nước Lớn, Nuoc Lon
 Rạch Nước Mặn
-Rạch Nước Đuc, Rach Nhi Nguet, Rach Nhi Nguyet
+Rạch Nước Đục, Rach Nhi Nguet, Rach Nhi Nguyet
 Rạch Oan Lon
 Rạch Om Trà Nô Lớn, Rach Om Tra No
 Rạch Ong Ben
@@ -9271,9 +9261,9 @@ Rạch Sa Sỹ
 Rạch Sa Đéc
 Rạch San Bửu
 Rạch Sanh Đôi
-Rạch Sau, Rach Sa
 Rạch So Dua Be
 Rạch So Dua Lon
+Rạch Sâu, Rach Sa
 Rạch Sông Cai
 Rạch Sông Lưu, Song Luu
 Rạch Săn Máu
@@ -9355,13 +9345,13 @@ Rạch Tồng Cang
 Rạch Tổng Thé, Rạch Long The
 Rạch Van Linh, Rach Vang Linh
 Rạch Van Thanh, Rach Vang Thanh
-Rạch Vang
 Rạch Vinh, Rach Thay Pho
 Rạch Vong
 Rạch Vàm Bi
 Rạch Vàm Buôn
 Rạch Vàm Nhơn
 Rạch Vàm Răng, Rang Vam Rang
+Rạch Vàng
 Rạch Vòi Voi
 Rạch Vũng Bầu
 Rạch Vũng Liêm
@@ -9417,6 +9407,7 @@ Rạch Đìa
 Rạch Đìa Chuôi
 Rạch Đìa Đá
 Rạch Đôi, Rach Gioi
+Rạch Đông
 Rạch Đướng Xuồng, Rạch Ruông
 Rạch Đường Cái Lớn
 Rạch Đường Kéo
@@ -9432,6 +9423,7 @@ Rạch Đồn Điền
 Rạch Đồng Cùng
 Rạch Đồng Tranh
 Rạch Đồng Xút
+Rạch Đứng
 Rạch Ấp Sử
 Rạch Ấp Tiền
 Rạch Ồng Phan
@@ -9459,9 +9451,7 @@ So Lin Pho
 Socialist Republic of Vietnam, Công Hòa Xã Hội Chủ Nghĩa Việt Nam, Vietnam, Việt Nam
 Sommet A
 Son Duong Port
-Song Boung
 Song Hau residential area, KDC Sông Hậu
-Song Lon
 Souei Chum, Suoi Chum
 Sounbou
 South Central Coast, Nam Trung Bộ
@@ -9479,21 +9469,18 @@ Suối Ba
 Suối Ba Ha, Sông Baha
 Suối Ba Thang
 Suối Ba Thỏi, Suoi Ba Tuoi
-Suối Bai
 Suối Bai Sang
 Suối Ban Ngày
 Suối Bin
 Suối Binh La
 Suối Binh Trung, Sông Đổng Điên
 Suối Biêu
-Suối Bong
 Suối Boung
 Suối Bressoil, Song Bro Linh
 Suối Brô Sinh, Song Bre Donh, Song Bro Linh
 Suối Bu
 Suối Bu R'dzing, Suoi Ba R'Dzing
 Suối Bu R'nghing, Song Bu R'Nghing
-Suối Bun
 Suối Bà Chiêm
 Suối Bà Chổn
 Suối Bà Hào
@@ -9506,6 +9493,7 @@ Suối Bà Tạo
 Suối Bà Ét
 Suối Bàu Bằng, Song Ong Bang
 Suối Bàu Vuôn
+Suối Bái
 Suối Bán Lách
 Suối Bân Bó Hồ, Bàn Bó Hò
 Suối Bâu Cỏ, Song Bau Co
@@ -9516,13 +9504,13 @@ Suối Bò Lăn
 Suối Bò Ni Hứa
 Suối Bó Lun
 Suối Bùa
+Suối Bún
 Suối Bưu
 Suối Bản An
 Suối Bản Bàng
 Suối Bản Chàng
 Suối Bản Chầu
 Suối Bản Cấn
-Suối Bản Duộc
 Suối Bản Gioơng
 Suối Bản Giuộc
 Suối Bản Hoà
@@ -9554,6 +9542,7 @@ Suối Bản Vải
 Suối Bản Xóm
 Suối Bản Đac
 Suối Bản Điền
+Suối Bản Đuốc
 Suối Bản Đứng
 Suối Bảng Cù
 Suối Bảo Luân
@@ -9567,6 +9556,7 @@ Suối Bến Ván, Song Ben Van
 Suối Bến Xoài
 Suối Bến Đà
 Suối Bệnh Viện
+Suối Bọng
 Suối Bỏi
 Suối Bố Bàng, Song Bo Bang
 Suối Bốc
@@ -9574,15 +9564,12 @@ Suối Bống Krang
 Suối Bồng Bèo
 Suối Bụt
 Suối Calonn
-Suối Cam
 Suối Cam Thăng
 Suối Cam Xe
-Suối Can
 Suối Canh Ke
 Suối Cao
 Suối Cao Lộc
 Suối Cap Kai
-Suối Cat
 Suối Cha Cuông
 Suối Cha La
 Suối Cha Lai
@@ -9635,6 +9622,8 @@ Suối Cá Chỉ Vàng
 Suối Các
 Suối Cái Phác
 Suối Cái Đại An
+Suối Cán
+Suối Cát
 Suối Cát Lình
 Suối Câu Sơn, Song Dap Khe
 Suối Cây Da, Suoi Cay Dau
@@ -9648,6 +9637,7 @@ Suối Cóc Sậu
 Suối Côi, Song Cuoi, Suối Cuôi
 Suối Công
 Suối Cù
+Suối Căm
 Suối Cầu Khởi, Song Cau Khoi
 Suối Cầu Mười
 Suối Cầu Trắc
@@ -9667,7 +9657,6 @@ Suối Da Reo
 Suối Da Thol, Da Thol, Da Toll
 Suối Da Tôn, Da R'cha
 Suối Dai Lai
-Suối Dam, Đak Dam
 Suối Damai
 Suối Dec Liên, Song Dec Lien
 Suối Den Den
@@ -9681,9 +9670,7 @@ Suối Drian
 Suối Dui
 Suối Dung, Dak Gion
 Suối Duôi Ta
-Suối Duông
 Suối Duộc
-Suối Dá, Song Tre Dong
 Suối Dâu
 Suối Dây
 Suối Dôm
@@ -9710,11 +9697,11 @@ Suối Gia Ui
 Suối Gia Ổi, Song Gia Ot
 Suối Giac, Suố Gịuc
 Suối Giai
-Suối Giang
-Suối Giau, Song Giau
 Suối Gio Ta
 Suối Giàm, Song Giam
+Suối Giàng
 Suối Giàng Sao Be
+Suối Giàu, Song Giau
 Suối Giáp
 Suối Giát, Song Giat
 Suối Gà
@@ -9722,7 +9709,6 @@ Suối Gó
 Suối Gốc
 Suối Ha Mớ
 Suối Hama, Suô Hama
-Suối Han
 Suối Hang Chà
 Suối Hang Diếng
 Suối Hanne, Suoi Banne
@@ -9731,7 +9717,6 @@ Suối Het
 Suối Hinh
 Suối Hiền
 Suối Ho Trắng
-Suối Hoa, Suoi Hou
 Suối Hon Say
 Suối Hoong
 Suối Hoàng Việt, Suối Nà Leng
@@ -9745,6 +9730,7 @@ Suối Huổi Luông
 Suối Huổi Múa
 Suối Hà Dăng
 Suối Hà Giao
+Suối Hàn
 Suối Hành
 Suối Háng Gằng
 Suối Háng Mào Sa
@@ -9755,6 +9741,7 @@ Suối Hát Chua
 Suối Hát Củ
 Suối Hè
 Suối Hêna
+Suối Hòa, Suoi Hou
 Suối Hòm
 Suối Hòn Nao
 Suối Hón Khô, Song Hon Kho
@@ -9772,7 +9759,6 @@ Suối Ka Giai
 Suối Kabet, Song Kabet
 Suối Kal, Song Kal
 Suối Kan
-Suối Ke
 Suối Kei
 Suối Ken
 Suối Khao
@@ -9806,12 +9792,12 @@ Suối Kin
 Suối Kon Trút
 Suối Krông Buk
 Suối Krông Điết, Ea Krông Diêt
-Suối Ky, Suoi Benda
 Suối Kéo An
 Suối Két
+Suối Kê
 Suối Kôn Na
 Suối Kỳ Rì
-Suối La
+Suối Kỷ, Suoi Benda
 Suối La Hoa, Song La Hoa
 Suối La Tinh
 Suối La Vân, Song La Van
@@ -9822,8 +9808,6 @@ Suối Lang
 Suối Lang Chang
 Suối Lang Giang
 Suối Lang Pâh, Khe Lang Bah, Suoi Klang Bâh, Suoi Lang Bâh
-Suối Lanh
-Suối Le, Song Le
 Suối Len
 Suối Leu, Dak Leu, Song Leu
 Suối Li Lử Hầ
@@ -9831,10 +9815,8 @@ Suối Liên Doan, Song Lien Donn
 Suối Liên Ran
 Suối Liếp
 Suối Lo
-Suối Lon
 Suối Long, Song Long
 Suối Lop
-Suối Lu
 Suối Luồn
 Suối Luộc Khiếu
 Suối Ly, Song Ly
@@ -9843,8 +9825,11 @@ Suối Làng Chùa
 Suối Làng Cốc
 Suối Làng Gy
 Suối Làng Thuyền
+Suối Lành
+Suối Lá
 Suối Láu
 Suối Lân Giò
+Suối Lé, Song Le
 Suối Lée, Song Lea, Song Lec, Suoi Lea
 Suối Lìn
 Suối Lù Vân, Song Lu Van
@@ -9855,6 +9840,7 @@ Suối Lúp, Song Da Den
 Suối Lĩnh
 Suối Lũng Cùng
 Suối Lũng Pầu
+Suối Lư
 Suối Lương
 Suối Lương Năng
 Suối Lạc Nhỏ
@@ -9872,18 +9858,17 @@ Suối Lốc Lù
 Suối Lốm
 Suối Lồ Ô Nhỏ, Suoi Lo O, Suoi Lo O Nho Lon
 Suối Lồi, Souei Lai, Souei Loi, Souu Lai
+Suối Lớn
 Suối Lục Bình
 Suối M'ghon
 Suối Ma Can
 Suối Ma Nứt
 Suối Ma Thì Hô
-Suối Man, Souei Man
 Suối Mang
 Suối Matin
 Suối May Bom, Song La
 Suối Me
 Suối Men
-Suối Mo
 Suối Mo Cay
 Suối Mon
 Suối Muong Cai
@@ -9899,6 +9884,8 @@ Suối Mòng
 Suối Mõm Bò
 Suối Mùng
 Suối Mú
+Suối Măn, Souei Man
+Suối Mơ
 Suối Mưa
 Suối Mường Vi
 Suối Mả Tổ
@@ -9911,8 +9898,6 @@ Suối Mỏ Khang
 Suối Mống Xến
 Suối Na Ca
 Suối Na Nay
-Suối Na Sàng
-Suối Nam
 Suối Nam Hương
 Suối Nao
 Suối Ngam
@@ -9927,11 +9912,11 @@ Suối Ngườm Cài
 Suối Ngọt
 Suối Nha Tràng
 Suối Nhac, Song Nhai, Song Nhat
-Suối Nhap
 Suối Nhiên
 Suối Nho Quế, Nho Quế River
-Suối Nhung
 Suối Nhâ Chay
+Suối Nhúng
+Suối Nhập
 Suối Nhọt
 Suối Nhọt Nhóng
 Suối Nhồng
@@ -9966,6 +9951,7 @@ Suối Nà Pó
 Suối Nà Pỉnh
 Suối Nà Quản
 Suối Nà Ruồng
+Suối Nà Sáng
 Suối Nà Thin
 Suối Nà Thù
 Suối Nà Thầy
@@ -9975,6 +9961,7 @@ Suối Nàng Gồng
 Suối Nàng Ngòa
 Suối Nàng Rà, Song Nang Ra
 Suối Nánh
+Suối Nâm
 Suối Nâu
 Suối Nòm
 Suối Nôn, Song Non
@@ -10022,7 +10009,6 @@ Suối Nứa
 Suối On
 Suối Pa, Song Pa
 Suối Pa Lo
-Suối Pac Khuổi
 Suối Pai Muông
 Suối Pang
 Suối Panh Hồ
@@ -10056,6 +10042,7 @@ Suối Pá Păn
 Suối Pá Riệc
 Suối Pá Sào
 Suối Pác Cáy
+Suối Pác Khuổi
 Suối Pác Ma
 Suối Páo Hồ
 Suối Pò Nhủ Nớ, Pồ Nhin Hô
@@ -10073,9 +10060,9 @@ Suối Pờ Si Ngài
 Suối Pựng
 Suối Quan Làng
 Suối Quan Nôn, Song Quan Nón
-Suối Quang
 Suối Quang Kim
 Suối Quyan
+Suối Quàng
 Suối Quít, Song Quit
 Suối Quản Lọi, Suoi Rang
 Suối Ra Lá
@@ -10103,13 +10090,10 @@ Suối Sam Ngàm
 Suối Samat
 Suối San Thồm
 Suối Sang Kỳ
-Suối Sanh
 Suối Sao
 Suối Sara, Suoi Saca, Suoi Sava
-Suối Sau
 Suối Say
 Suối Sinh Quyền
-Suối So
 Suối Soi
 Suối Son
 Suối Soui, Suoi Sou
@@ -10119,8 +10103,11 @@ Suối Sà Mách, Da Sa Mach, Da Semath
 Suối Sách
 Suối Sán
 Suối Sáng
+Suối Sánh
 Suối Sáp, Song Sap, Suoi Sop
+Suối Sâu
 Suối Sì Câu
+Suối Sô
 Suối Săng Mảu
 Suối Sơn Thãnh, Song Son Thanh
 Suối Sơn Téng
@@ -10132,12 +10119,10 @@ Suối Tagou, Tagouh
 Suối Tam Dinh, Song Tam Linh
 Suối Tamo, Song Tamo, Suối Cho Mo
 Suối Tani
-Suối Tao
 Suối Tay
 Suối Thai
 Suối Than
 Suối Thep
-Suối Tho
 Suối Thoai
 Suối Thom
 Suối Thoáng
@@ -10146,6 +10131,7 @@ Suối Thân Nhỏ
 Suối Thèn Thẻo Hồ
 Suối Thìn
 Suối Thôn
+Suối Thơ
 Suối Thơ Út
 Suối Thạch Khuổi
 Suối Thầu
@@ -10162,13 +10148,13 @@ Suối Toc, Suoi Toe
 Suối Ton
 Suối Tonlé Trou, Song Tonle Trou
 Suối Toóng Chinh
-Suối Tra
 Suối Tra Phi, Song Tra Phi
 Suối Tra Phát
 Suối Trai
 Suối Tre
 Suối Trung Hồ
 Suối Trung Thành
+Suối Trà
 Suối Trà Có, Suoi Malam
 Suối Trà Dục, Suoi Ta Ruc
 Suối Trà Lơn
@@ -10204,6 +10190,7 @@ Suối Tân Rã
 Suối Tây Ton
 Suối Tùng Phi
 Suối Túa Ma Pan
+Suối Tạo
 Suối Tả Cấp
 Suối Tả Trung Hồ
 Suối Tả Van
@@ -10219,11 +10206,9 @@ Suối Tỏng Ngoàng, Sông Tổng Gường
 Suối Uóng Long
 Suối Va
 Suối Vai Cu, Song Vai Cu
-Suối Van
-Suối Vang
 Suối Ven
-Suối Voi, Song Voi
 Suối Vung Vong
+Suối Vàng
 Suối Vào Dỏi, Song Vao Doi
 Suối Vác
 Suối Ván Tám, Song Van Tam
@@ -10232,9 +10217,11 @@ Suối Vĩnh Lai, Suối Bà Phó
 Suối Vũng Cấm, Rach Vunggam, Song Vung Cam, Suoi Vung Gam
 Suối Vượng
 Suối Vạch
+Suối Vận
 Suối Vặm
 Suối Vị
 Suối Vị Hương
+Suối Vối, Song Voi
 Suối Xa Cam, Song Xa Cam
 Suối Xa Cát
 Suối Xa Dung
@@ -10272,8 +10259,10 @@ Suối Đao
 Suối Đen
 Suối Đru, Song Dru
 Suối Đu Đủ, Sông Đũ Đũ
+Suối Đuông
 Suối Đà Ha
 Suối Đàng Lôi
+Suối Đá, Song Tre Dong
 Suối Đá Bang
 Suối Đá Bay
 Suối Đá Bàn
@@ -10282,7 +10271,7 @@ Suối Đá Hán
 Suối Đá Mài Hai, Suối Đá Mài 2
 Suối Đá Mài Một, Suối Đá Mài 1
 Suối Đá Phổ
-Suối Đá Vang
+Suối Đá Vãng
 Suối Đá Đỏ
 Suối Đát Gio, Song Dat Gio
 Suối Đòn Gánh, Song Don Ganh
@@ -10291,6 +10280,7 @@ Suối Đóng
 Suối Đô
 Suối Đông Nha
 Suối Đông Piều
+Suối Đăm, Đak Dam
 Suối Đăng Puông
 Suối Đại
 Suối Đập
@@ -10332,8 +10322,6 @@ Sông Bai Tien
 Sông Ban Thin
 Sông Bao Mot
 Sông Bao Tham
-Sông Be, Bé River
-Sông Beo, Suối Bèo, Sông Bèa
 Sông Bian
 Sông Binh
 Sông Binh Ba
@@ -10341,9 +10329,9 @@ Sông Binh Cach, Song Rinh Cach
 Sông Biên, Song Da Tuong
 Sông Biêu
 Sông Bo Nu
+Sông Boung
 Sông Bu Lu
 Sông Bung
-Sông Buoi, Song Bui, Song Huoi
 Sông Buông, Song La Duong, Sông Lá Buông
 Sông Bà Giỏi, Sông Bà Giải
 Sông Bà Hai
@@ -10361,12 +10349,15 @@ Sông Bánh Lái
 Sông Bãi Hà
 Sông Bãi Vàng
 Sông Bãi Đồn, Song Bai Do
+Sông Bèo, Suối Bèo, Sông Bèa
+Sông Bé, Bé River
 Sông Bình Hòa
 Sông Bình Ninh
 Sông Bình Phú
 Sông Bôi, Bôi River, Song Boy
 Sông Bôn
 Sông Băc Ngúng
+Sông Bưởi, Song Bui, Song Huoi
 Sông Bạc
 Sông Bạch Đằng
 Sông Bảy Hạp, Song Bai Hap
@@ -10385,14 +10376,11 @@ Sông Bồ, Bo Giang
 Sông Bồ Diền, Cuaviet River, Song Bo Dieu, Song Đơ Đíếu, Sông Miêu Giang
 Sông Bồ Đề
 Sông Bứa
-Sông Ca
 Sông Ca Da
 Sông Ca Gau
-Sông Cai, Cái River, Nhatrang River, Niatrang, Sông Thác Ngựa, Sông Tô Hạp, Thac Ngua, Thoc Ngua
-Sông Cam Cạn, Song Kim Can, Sông Kênh Căn
+Sông Cam Cạn, Song Kim Can, Sông Kenh Can
 Sông Cam Lộ, Sông Cam
 Sông Cao, Nam Cao
-Sông Cau, Canal Gua, Cầu River, Song Bac Kan, Song Kau
 Sông Cau Ong Kieu
 Sông Cau Ton
 Sông Cay
@@ -10403,11 +10391,9 @@ Sông Cha Nang
 Sông Cha Nay
 Sông Chang, Song Khang, Song Khong, Song Trang
 Sông Chanh, Song Trang
-Sông Chay
 Sông Che
 Sông Cho Chu
 Sông Chu, Chũ River, Minh Đức River
-Sông Chua, Rạch Kinh Chùa, Song Chau
 Sông Chuôn
 Sông Chà Và
 Sông Chá
@@ -10417,11 +10403,12 @@ Sông Châu Lâm
 Sông Châu Thị, Khe Chan Thi
 Sông Châu Trúc
 Sông Chò
+Sông Chùa, Rạch Kinh Chùa, Song Chau
 Sông Chơ Mơi, Song Cha Moi
+Sông Chảy
 Sông Chắc Văn, Rach Chac Van
 Sông Chợ Gạo, Canal Duperré, Canal de Cho Gao, Kinh Chợ Gạo
 Sông Chợ Ten, Kinh Cho Len, Kouei Cho Len
-Sông Con, Côn River, Dak Kron Bung, Song Kon, Suoi Kon, Sông Gianh, Sông Hà Giao
 Sông Con Dá
 Sông Cu Đê, Sông Ca Đê
 Sông Cung
@@ -10433,6 +10420,7 @@ Sông Cà Tốt
 Sông Càn
 Sông Cá Nháp
 Sông Các
+Sông Cái, Cái River, Nhatrang River, Niatrang, Sông Thác Ngựa, Sông Tô Hạp, Thac Ngua, Thoc Ngua
 Sông Cái Bé, Song Kaibe
 Sông Cái Cam
 Sông Cái Cối
@@ -10447,6 +10435,8 @@ Sông Cái Vồn, Rạch Cái Vồn
 Sông Cát
 Sông Cát Lái, Song Cac Lai
 Sông Cát Rùng
+Sông Câ
+Sông Câu, Canal Gua, Cầu River, Song Bac Kan, Song Kau
 Sông Câu Khế
 Sông Câu Mai
 Sông Câu Nhi
@@ -10456,6 +10446,7 @@ Sông Cãu Chầm, Sông Ciu Cham
 Sông Cò
 Sông Còn Vu Liệt
 Sông Cô Kiều
+Sông Côn, Côn River, Dak Kron Bung, Song Kon, Suoi Kon, Sông Gianh, Sông Hà Giao
 Sông Côn Chung
 Sông Công, Công River
 Sông Cõ May
@@ -10492,12 +10483,10 @@ Sông Dan Ke
 Sông Dan Xay
 Sông Dar Lou
 Sông De
-Sông Dinh, Sông Dun
 Sông Dinh Dao
 Sông Diêm Hộ, Song Dien Ho, Sông Giêm Hô
 Sông Dom
 Sông Dong
-Sông Dong Dinh
 Sông Dong Hoa
 Sông Dong Kho
 Sông Du Tho, Rach Doa Tho, Rach Dua Tho, Rach Duo Tho, Rạch Du Tho
@@ -10539,7 +10528,6 @@ Sông Hiêm, Hiem
 Sông Hiên
 Sông Hiếu
 Sông Hiền Lương
-Sông Hoa
 Sông Hoai
 Sông Hoat
 Sông Hoà Thạnh Hai
@@ -10556,6 +10544,7 @@ Sông Hàng Thẻ
 Sông Hàu, Song Độ Ông
 Sông Hòa Bình
 Sông Hòa Tân
+Sông Hóa
 Sông Hóng Bù Lo
 Sông Hương, Huong Giang, Perfume River, Song Hue, Song Thuong thien
 Sông Hạ Mục
@@ -10597,12 +10586,11 @@ Sông La Châu
 Sông La Giang
 Sông La Hiêng, Suối Là Hiêng
 Sông La Ngà, Da Kai, Da Lagna, Da R'Nga, Dak Kai, La Ngà River, Song Lagna, Sông La Nhà
-Sông La Vi
+Sông La Vĩ
 Sông Lam
 Sông Lang Cong
 Sông Lang Cách, Song Dang Cach
 Sông Lanh Ra, Lach Ra, Suối Nung Tá, Suối Trại Thit
-Sông Lap, Darse Bonnal, Faux Canal Phu Ly, Faux Canal de Phu Ly
 Sông Lich
 Sông Liêm Phong
 Sông Liên Giang
@@ -10614,7 +10602,6 @@ Sông Long Đại, Rivière de Long Dai, Rivière de Long Dat
 Sông Lu
 Sông Lu Siêm Giang, La Siem Giang, Siem Gian, Siem Giang
 Sông Luồn
-Sông Luộc, Canal des Bambous, Cua-Loc, Luộc River
 Sông Là Hà
 Sông Làng Nước, Song Long Nuoc
 Sông Lái Thiêu
@@ -10635,14 +10622,17 @@ Sông Lý Nhân
 Sông Lũng
 Sông Lũy, Song Lay
 Sông Lơi Nong, Canal de Phu Cam, Kinh Phu Cam
+Sông Lược, Canal des Bambous, Cua-Loc, Luộc River
 Sông Lạch Tray, Lạch Tray
 Sông Lại
 Sông Lại Giang
 Sông Lạng
+Sông Lấp, Darse Bonnal, Faux Canal Phu Ly, Faux Canal de Phu Ly
 Sông Lấp Vò, Rạch Lấp Vò
 Sông Lốt, Song Loc
 Sông Lỗ Đông
 Sông Lộc Hòa
+Sông Lớn
 Sông Lục Nam, Rivière de Loch-nan, Song Lue Nam, Sông Luc Ngoa, Sông Lục Ngạn
 Sông Ma
 Sông Ma Hy, Suối Ma Hy
@@ -10705,8 +10695,8 @@ Sông Ngụ
 Sông Nhan My
 Sông Nhe
 Sông Nhi A, Song Niao, Song Nico, Sông Nhiao
-Sông Nhiem, Song Nhiam
-Sông Nhu Gia, Rach Nho Gia The, Rạch Như Gia
+Sông Nhiêm, Song Nhiam
+Sông Nhu Gia, Rach Nho Gia The, Rach Nhu Gia The
 Sông Nhuệ
 Sông Nhuệ Giang
 Sông Nhà Bè, Soirap, Song Nhai Be, Song Soirap
@@ -10773,17 +10763,17 @@ Sông Sa Kỳ, Rivière Sa Ky, Ru de Se
 Sông Sa Pắc
 Sông Sa Thin
 Sông Sa Thầy, Dak Hedrai, Dak Hodrai, Hadrey, Nuoc Sathay, Prêk Sathay
-Sông Sai, Rach Mo Xoai
 Sông Sam Bring
-Sông Sang, Sang
 Sông Sanh
 Sông Sao, Rach Sông Săc
-Sông Sau
 Sông Soài Rạp, Soài Rạp River
 Sông Su Soi
+Sông Sài, Rach Mo Xoai
 Sông Sài Gòn, Rivière de Saigon, Saigon River
+Sông Sáng, Sang
 Sông Sát
 Sông Sân Chầu, Suoi San Chau
+Sông Sâu
 Sông Sây, Sông Vực Lâm
 Sông Sò
 Sông Sói, Sỏi River
@@ -10823,7 +10813,6 @@ Sông Tiên, Fleuve Antérieur, Sông Cửu Long, Sông Tiền Giang, Tiền Riv
 Sông Tiên Hưng
 Sông Tiên Yên, Tien-Yew River
 Sông Tom
-Sông Tram
 Sông Tranh, Suoi Tranh
 Sông Trao, Song Cau Mam
 Sông Trinh Hin, Khe Trinh Hin
@@ -10845,6 +10834,7 @@ Sông Trà Môn
 Sông Trà Ngoa, Rach Tra Ngoan, Rạch Trà Côn, Rạch Trà Ngon
 Sông Trà Nô
 Sông Trà Thái
+Sông Tràm
 Sông Tràm Lộ
 Sông Trâu
 Sông Trèm Trẹm, Song Trem, Trẹm River
@@ -10874,7 +10864,6 @@ Sông Tầm Vu
 Sông Tắc
 Sông Tắc Thủ, Rạch Rát Thu
 Sông Tứ Kỳ
-Sông Vac
 Sông Vai Lai
 Sông Vam Sa
 Sông Vang
@@ -10892,6 +10881,7 @@ Sông Vĩnh An
 Sông Vĩnh Phước, Pao Vinh, Song Rao Vinh
 Sông Vĩnh Điện
 Sông Vĩnh Định
+Sông Vạc
 Sông Vệ
 Sông Vực Hàng
 Sông Vực Thuyền, Suoi Vuc Tuyen
@@ -10914,6 +10904,7 @@ Sông Ông Me, Kinh Ong Ma, Kinh Ông Me
 Sông Ông Trang, Rạch Ông Trang
 Sông Ông Đốc, Song Ongdok, Ông Đốc
 Sông Đa Đô
+Sông Đinh, Sông Dun
 Sông Đinh Bà
 Sông Đinh Đèn
 Sông Điên, Suoi Giân, Suối Điên
@@ -10935,6 +10926,7 @@ Sông Đò Chè
 Sông Đô Hong
 Sông Đông Găng
 Sông Đông Thạnh
+Sông Đông Đỉnh
 Sông Đại Giang, Dai Guaig
 Sông Đầm Chim
 Sông Đầm Dơi
@@ -10995,7 +10987,7 @@ Tapeu, Tupen
 Tchin San Hò
 Te Nau Bay
 Ten Hon
-Tengtiao Jiang, Hei Chiang, Nậm Na, T'eng-t'iao Chiang, T'eng-t'iao Ho
+Tengtiao Jiang, Hei Chiang, Nam Na, T'eng-t'iao Chiang, T'eng-t'iao Ho
 Thac Quả, Thac Que
 Tham Suôt
 Than Poun Leng
@@ -11026,7 +11018,7 @@ Thành Phố Cam Ranh, Huyện Cam Ranch
 Thành Phố Cao Bằng, Thị Xã Cao Bằng
 Thành Phố Cao Lãnh, Thị Xã Cao Lãnh
 Thành Phố Cà Mau, Thị Xã Cà Ma
-Thành Phố Cần Thơ, Cần Thơ, Thị Xã Cần Thơ
+Thành Phố Cần Thơ, Can Tho, Thị Xã Cần Thơ
 Thành Phố Huế
 Thành Phố Hà Giang, Thị Xã Hà Giang
 Thành Phố Hà Tĩnh, Thị Xã Hà Tĩnh
@@ -11072,7 +11064,7 @@ Thành Phố Vị Thanh
 Thành Phố Yên Bái, Thị Xã Yên Bái
 Thành Phố Điện Biên Phủ, Thị Xã Diện Biên Phủ
 Thành Phố Đà Lạt
-Thành Phố Đà Nẵng, Tỉnh Đà Nẵng, Đà Nẵng
+Thành Phố Đà Nẵng, Da Nang, Tỉnh Đà Nẵng
 Thành Phố Đông Hà, Thị Xã Đông Hà
 Thành Phố Đồng Hới, Thị Xã Đồng Hới
 Thành Tr
@@ -11887,7 +11879,7 @@ Tỉnh Đồng Tháp
 Tổ Ong
 Tổng Định Hòa
 Tổng Định Thành
-U Bo
+U Bổ
 U Minh Ha
 Va Ray Giữa, Le Bourgeois
 Vai Lai Chan
@@ -11935,7 +11927,7 @@ Vĩnh Xuân
 Vĩnh Điều
 Vũng An Hòa, Baie de An Hoa
 Vũng Chao, Baie de Vung Chao
-Vũng Chua, Baie de Vung Chua
+Vũng Chùa, Baie de Vung Chua
 Vũng Chơn Mây, Baie de Tuamoi, Tua Moi Bay
 Vũng Cây Bàn, Baie de Cai Ban, Baie de Cay Ban, Bãi Cây Bàn, Caiban Bay
 Vũng Dung Quất, Baie de Dung Quat, Kikuik
@@ -11999,7 +11991,6 @@ Ward 4
 West Island, Île de l” Ouest
 West Nuoc Ngot Point (historical)
 Western Region
-Xa Phú Thạnh, Phú Thành
 Xa Ron Sa Rak, Xa Ron Sơ Rak
 Xan Chắo
 Xã An Hải
@@ -12046,16 +12037,15 @@ Xã An Dương
 Xã An Dục
 Xã An Hiệp
 Xã An Hà
-Xã An Hòa
 Xã An Hùng
 Xã An Hảo
 Xã An Khang, An Khang
 Xã An Khánh
 Xã An Khê
 Xã An Khương
-Xã An Linh
 Xã An Long
 Xã An Lão
+Xã An Lĩnh
 Xã An Lư
 Xã An Lương
 Xã An Lạc
@@ -12064,7 +12054,6 @@ Xã An Lập
 Xã An Lễ
 Xã An Lục Long
 Xã An Minh Bắc
-Xã An Mỹ
 Xã An Nghiệp
 Xã An Ngãi Trung
 Xã An Ngãi Tây
@@ -12082,10 +12071,9 @@ Xã An Phú Tân
 Xã An Phú Tây
 Xã An Phúc
 Xã An Phước
-Xã An Quy
+Xã An Quý
 Xã An Quảng Hữu
 Xã An Sinh
-Xã An Sơn
 Xã An Thành
 Xã An Thái
 Xã An Thái Trung
@@ -12163,7 +12151,6 @@ Xã Ba Điền
 Xã Ba Đình
 Xã Ba Đồn
 Xã Ba Động
-Xã Ban Công
 Xã Bao La
 Xã Bar Măih
 Xã Biên Giới
@@ -12247,7 +12234,7 @@ Xã Bình Lợi
 Xã Bình Minh
 Xã Bình Mỹ
 Xã Bình Nam
-Xã Bình Nghi
+Xã Bình Nghị
 Xã Bình Nguyên
 Xã Bình Ngọc
 Xã Bình Nhân, Bình Nhân
@@ -12263,15 +12250,15 @@ Xã Bình Quế
 Xã Bình Qưới
 Xã Bình Sa
 Xã Bình Sơn
-Xã Bình Thanh
 Xã Bình Thanh Tây
-Xã Bình Thanh Đông
 Xã Bình Thuận
+Xã Bình Thành
+Xã Bình Thạnh Đông
 Xã Bình Thắng
 Xã Bình Thới
 Xã Bình Thủy
 Xã Bình Triều
-Xã Bình Trung
+Xã Bình Trưng
 Xã Bình Trị
 Xã Bình Trịnh Đông
 Xã Bình Tâm
@@ -12279,7 +12266,6 @@ Xã Bình Tân
 Xã Bình Tú
 Xã Bình Tường
 Xã Bình Văn
-Xã Bình Xa, Binh Xa
 Xã Bình Xuân
 Xã Bình Yên
 Xã Bình Điền
@@ -12291,6 +12277,7 @@ Xã Bình Định Nam
 Xã Bình Đức
 Xã Bích Hòa
 Xã Bích Sơn
+Xã Bính Xá, Binh Xa
 Xã Bó Mười
 Xã Bó Sinh
 Xã Bông Krang
@@ -12312,6 +12299,7 @@ Xã Bạch Đích
 Xã Bạch Đằng
 Xã Bản Bo
 Xã Bản Cái
+Xã Bản Công
 Xã Bản Cầm
 Xã Bản Díu
 Xã Bản Giang
@@ -12357,8 +12345,8 @@ Xã Bảo Nhai
 Xã Bảo Ninh
 Xã Bảo Quang
 Xã Bảo Sơn
-Xã Bảo Thanh
 Xã Bảo Thuận
+Xã Bảo Thành
 Xã Bảo Thắng
 Xã Bảo Toàn
 Xã Bảo Vinh
@@ -12389,8 +12377,8 @@ Xã Bằng Giã, Băng Giã
 Xã Bằng Hành
 Xã Bằng Hữu
 Xã Bằng Khánh
-Xã Bằng Lang
 Xã Bằng Luân
+Xã Bằng Lãng
 Xã Bằng Mạc
 Xã Bằng Phúc
 Xã Bằng Thành
@@ -12414,16 +12402,13 @@ Xã Ca Thành
 Xã Ca Đình
 Xã Cai Bộ
 Xã Cai Kinh
-Xã Cam An
 Xã Cam An Bắc
 Xã Cam An Nam
-Xã Cam Bình
 Xã Cam Chính
 Xã Cam Con
 Xã Cam Hiếu
 Xã Cam Hiệp Bắc
 Xã Cam Hiệp Nam
-Xã Cam Hòa
 Xã Cam Hải Tây
 Xã Cam Hải Đông
 Xã Cam Lâm
@@ -12431,7 +12416,6 @@ Xã Cam Lập
 Xã Cam Nghĩa
 Xã Cam Phước Tây
 Xã Cam Phước Đông
-Xã Cam Thanh
 Xã Cam Thành Bắc
 Xã Cam Thành Nam
 Xã Cam Thượng
@@ -12439,11 +12423,8 @@ Xã Cam Thịnh Tây
 Xã Cam Thịnh Đông
 Xã Cam Thủy
 Xã Cam Tuyền
-Xã Cam Tân
-Xã Cam Đường
 Xã Canh Hiển
 Xã Canh Hiệp
-Xã Canh Hòa
 Xã Canh Liên
 Xã Canh Nậu
 Xã Canh Thuận
@@ -12496,7 +12477,6 @@ Xã Chiềng Châu
 Xã Chiềng Chăn
 Xã Chiềng Công
 Xã Chiềng Cọ
-Xã Chiềng Dong
 Xã Chiềng En
 Xã Chiềng Hoa
 Xã Chiềng Hắc
@@ -12518,7 +12498,6 @@ Xã Chiềng Muôn
 Xã Chiềng Ngàm
 Xã Chiềng Ngần
 Xã Chiềng Nơi
-Xã Chiềng On
 Xã Chiềng Pha
 Xã Chiềng Phung
 Xã Chiềng Pấc
@@ -12535,6 +12514,8 @@ Xã Chiềng Ve
 Xã Chiềng Xôm
 Xã Chiềng Yên
 Xã Chiềng Đen
+Xã Chiềng Đông
+Xã Chiềng Ơn
 Xã Chrôh Pơnan
 Xã Chu Hóa
 Xã Chu Hương
@@ -12602,7 +12583,6 @@ Xã Chính Mỹ
 Xã Chính Nghĩa
 Xã Chính Tâm
 Xã Chăn Nưa
-Xã Chơ Long
 Xã Chư A Thai
 Xã Chư Băh
 Xã Chư Don
@@ -12628,6 +12608,7 @@ Xã Chất Bình
 Xã Chế Cu Nha
 Xã Chế Là
 Xã Chế Tạo
+Xã Chồ Lồng
 Xã Co Tòng
 Xã Cun Pheo
 Xã Cuôr Dăng
@@ -12729,6 +12710,8 @@ Xã Cương Sơn
 Xã Cường Lợi
 Xã Cường Thịnh
 Xã Cải Viên
+Xã Cảm Ân
+Xã Cảnh Hoá
 Xã Cảnh Hưng
 Xã Cảnh Thụy
 Xã Cảnh Tiên
@@ -12742,11 +12725,13 @@ Xã Cần Đăng
 Xã Cầu Bà
 Xã Cầu Khởi
 Xã Cầu Lộc
+Xã Cẩm Bình
 Xã Cẩm Châu
 Xã Cẩm Chế
 Xã Cẩm Duệ
 Xã Cẩm Dương
-Xã Cẩm Giang
+Xã Cẩm Giàng
+Xã Cẩm Hoà
 Xã Cẩm Hoàng
 Xã Cẩm Huy
 Xã Cẩm Hà
@@ -12773,11 +12758,13 @@ Xã Cẩm Phúc
 Xã Cẩm Quan
 Xã Cẩm Quang
 Xã Cẩm Quý
+Xã Cẩm Thành
 Xã Cẩm Thăng
 Xã Cẩm Thạch
 Xã Cẩm Thịnh
 Xã Cẩm Trung
 Xã Cẩm Tâm
+Xã Cẩm Tân
 Xã Cẩm Tú
 Xã Cẩm Vân
 Xã Cẩm Vũ
@@ -12788,6 +12775,7 @@ Xã Cẩm Đoài
 Xã Cẩm Đàn
 Xã Cẩm Đình
 Xã Cẩm Đông
+Xã Cẩm Đường
 Xã Cắm Muộn
 Xã Cố Nghĩa
 Xã Cốc Ly
@@ -12800,7 +12788,7 @@ Xã Cốc Đán
 Xã Cống Sơn
 Xã Cồn Thoi
 Xã Cổ Am
-Xã Cổ Bi
+Xã Cổ Bì
 Xã Cổ Dũng
 Xã Cổ Linh
 Xã Cổ Lũng
@@ -12827,7 +12815,6 @@ Xã Dang Kang
 Xã Danh Sĩ
 Xã Danh Thắng
 Xã Di Trạch
-Xã Diên An
 Xã Diên Bình
 Xã Diên Hòa
 Xã Diên Hồng
@@ -12848,7 +12835,6 @@ Xã Diễn Cát
 Xã Diễn Hoàng
 Xã Diễn Hùng
 Xã Diễn Hạnh
-Xã Diễn Hải
 Xã Diễn Kim
 Xã Diễn Kỷ
 Xã Diễn Liên
@@ -12856,7 +12842,6 @@ Xã Diễn Lợi
 Xã Diễn Minh
 Xã Diễn Mỹ
 Xã Diễn Nguyên
-Xã Diễn Ngọc
 Xã Diễn Phong
 Xã Diễn Phúc
 Xã Diễn Quảng
@@ -13081,8 +13066,8 @@ Xã Giao Long
 Xã Giao Lạc
 Xã Giao Nhân
 Xã Giao Phong
-Xã Giao Thanh
 Xã Giao Thiện
+Xã Giao Thạnh
 Xã Giao Thịnh
 Xã Giao Tiến
 Xã Giao Tân
@@ -13157,10 +13142,8 @@ Xã Hiệp Xương, Hiệp Xương
 Xã Hiệp Đức
 Xã Hnol
 Xã Hoa Lư
-Xã Hoa Lộc
 Xã Hoa Thám
 Xã Hoa Thủy
-Xã Hoa Động
 Xã Hoang Thèn
 Xã Hoà Bình
 Xã Hoà Bắc
@@ -13211,7 +13194,6 @@ Xã Hoàng Ninh
 Xã Hoàng Nông
 Xã Hoàng Quế
 Xã Hoàng Sơn
-Xã Hoàng Thanh
 Xã Hoàng Thu Phố
 Xã Hoàng Thắng
 Xã Hoàng Tiến
@@ -13244,6 +13226,7 @@ Xã Hoằng Phúc
 Xã Hoằng Phương
 Xã Hoằng Quang
 Xã Hoằng Quý
+Xã Hoằng Thành
 Xã Hoằng Thái
 Xã Hoằng Thịnh
 Xã Hoằng Trinh
@@ -13290,12 +13273,12 @@ Xã Hà Hải
 Xã Hà Hồi
 Xã Hà Kỳ
 Xã Hà Lai
-Xã Hà Lan
 Xã Hà Lang
-Xã Hà Linh
 Xã Hà Long
 Xã Hà Lâm
+Xã Hà Lân
 Xã Hà Lâu
+Xã Hà Lĩnh
 Xã Hà Lương
 Xã Hà Lộc
 Xã Hà Mãn
@@ -13379,6 +13362,7 @@ Xã Hòa Liên
 Xã Hòa Long
 Xã Hòa Lạc, Hòa Lạc
 Xã Hòa Lễ
+Xã Hòa Lộc
 Xã Hòa Lợi
 Xã Hòa Mạc
 Xã Hòa Mục
@@ -13411,6 +13395,7 @@ Xã Hòa Đông
 Xã Hòa Định
 Xã Hòa Định Tây
 Xã Hòa Định Đông
+Xã Hòa Đồng
 Xã Hòn Nghệ
 Xã Hòn Thơm
 Xã Hòn Tre
@@ -13503,7 +13488,7 @@ Xã Hương Thọ
 Xã Hương Toàn
 Xã Hương Trà
 Xã Hương Trạch
-Xã Hương Vinh
+Xã Hương Vĩnh
 Xã Hương Xa
 Xã Hương Xuân
 Xã Hương Điền
@@ -13562,8 +13547,8 @@ Xã Hải Quang
 Xã Hải Quy
 Xã Hải Quế
 Xã Hải Sơn
-Xã Hải Thanh
 Xã Hải Thiện
+Xã Hải Thành
 Xã Hải Thái
 Xã Hải Thượng
 Xã Hải Thọ
@@ -13630,7 +13615,7 @@ Xã Hồng Ngài
 Xã Hồng Phong
 Xã Hồng Phúc
 Xã Hồng Phương
-Xã Hồng Quang, Hồng Quang
+Xã Hồng Quảng, Hồng Quang
 Xã Hồng Quỳnh
 Xã Hồng Sĩ
 Xã Hồng Sơn
@@ -13685,18 +13670,18 @@ Xã Hữu Lễ
 Xã Hữu Lợi
 Xã Hữu Sản, Hữu Sán
 Xã Hữu Thác
-Xã Hữu Vinh
 Xã Hữu Văn
+Xã Hữu Vĩnh
 Xã Hữu Đô
 Xã Hữu Đạo
 Xã Hữu Định
 Xã Hựu Thành
-Xã Ia Bang
 Xã Ia Blang
 Xã Ia Blứ
 Xã Ia Boòng
 Xã Ia Broăi
 Xã Ia Bá
+Xã Ia Băng
 Xã Ia Chia
 Xã Ia Chim
 Xã Ia Din
@@ -13740,7 +13725,6 @@ Xã Ia Mơ
 Xã Ia Mơ Nông
 Xã Ia Nan
 Xã Ia Nhin
-Xã Ia O
 Xã Ia Pal
 Xã Ia Peng
 Xã Ia Phang
@@ -13770,6 +13754,7 @@ Xã Ia Tôr
 Xã Ia Vê
 Xã Ia Yeng
 Xã Ia Yok
+Xã Ia Ó
 Xã Jơ Ngây
 Xã K Dang
 Xã K Rong
@@ -13979,7 +13964,6 @@ Xã Lai Vu
 Xã Lai Đồng
 Xã Lam Cốt
 Xã Lam Hạ
-Xã Lam Sơn
 Xã Lam Vỹ
 Xã Lam Điền
 Xã Lan Giới
@@ -13987,7 +13971,6 @@ Xã Lan Mẫu
 Xã Lang Minh
 Xã Lang Môn
 Xã Lang Quán
-Xã Lang Sơn
 Xã Lang Thíp
 Xã Lao Chải
 Xã Lao Và Chải
@@ -14013,8 +13996,8 @@ Xã Liên Bạt
 Xã Liên Chung
 Xã Liên Châu
 Xã Liên Hiệp, Liên Hiệp
-Xã Liên Hoa, Liễu Hóa
 Xã Liên Hà
+Xã Liên Hòa, Liễu Hóa
 Xã Liên Hồng
 Xã Liên Hợp
 Xã Liên Khê
@@ -14111,6 +14094,7 @@ Xã Lâm Kiết
 Xã Lâm Lợi
 Xã Lâm Phú
 Xã Lâm San
+Xã Lâm Sơn
 Xã Lâm Thao
 Xã Lâm Thượng
 Xã Lâm Thủy
@@ -14122,6 +14106,7 @@ Xã Lâm Động
 Xã Lâu Thượng
 Xã Lãng Công, Lăng Công
 Xã Lãng Ngâm
+Xã Lãng Sơn
 Xã Lão Hộ
 Xã Lê Chung
 Xã Lê Chánh
@@ -14258,11 +14243,11 @@ Xã Lộc Nga
 Xã Lộc Ngãi
 Xã Lộc Ninh
 Xã Lộc Phú
-Xã Lộc Quang
+Xã Lộc Quảng
 Xã Lộc Sơn
-Xã Lộc Thanh
 Xã Lộc Thiện
 Xã Lộc Thuận
+Xã Lộc Thành
 Xã Lộc Thái
 Xã Lộc Thịnh
 Xã Lộc Thủy
@@ -14376,9 +14361,9 @@ Xã Măng Cành
 Xã Măng Ri
 Xã Măng Tố
 Xã Mương Mán
-Xã Mường Bang
 Xã Mường Bon
 Xã Mường Bám
+Xã Mường Báng
 Xã Mường Bú
 Xã Mường Cai
 Xã Mường Chanh
@@ -14416,9 +14401,9 @@ Xã Mường Nhé
 Xã Mường Noọc
 Xã Mường Phăng
 Xã Mường Pồn
-Xã Mường Sai
 Xã Mường Sang
 Xã Mường So
+Xã Mường Sại
 Xã Mường Than
 Xã Mường Thín
 Xã Mường Thải
@@ -14497,8 +14482,8 @@ Xã Mỹ Quý Tây
 Xã Mỹ Quý Đông
 Xã Mỹ Quới
 Xã Mỹ Sơn
-Xã Mỹ Thanh
 Xã Mỹ Thuận
+Xã Mỹ Thành
 Xã Mỹ Thành Bắc
 Xã Mỹ Thành Nam
 Xã Mỹ Thái
@@ -14531,7 +14516,6 @@ Xã Na Hối
 Xã Na Khê
 Xã Na Loi
 Xã Na Mao
-Xã Na Mèo
 Xã Na Ngoi
 Xã Na Son
 Xã Na Ư
@@ -14546,8 +14530,8 @@ Xã Nam Dong
 Xã Nam Du
 Xã Nam Dương
 Xã Nam Giang
-Xã Nam Hoa
 Xã Nam Hà
+Xã Nam Hòa
 Xã Nam Hùng
 Xã Nam Hương
 Xã Nam Hải
@@ -14596,12 +14580,12 @@ Xã Nga Hưng
 Xã Nga Hải
 Xã Nga Liên
 Xã Nga Lĩnh
-Xã Nga My
+Xã Nga Mỹ
 Xã Nga Nhân
 Xã Nga Phú
 Xã Nga Quán
-Xã Nga Thanh
 Xã Nga Thiện
+Xã Nga Thành
 Xã Nga Thái
 Xã Nga Thạch
 Xã Nga Thắng
@@ -14645,7 +14629,6 @@ Xã Nghi Xuân
 Xã Nghi Yên
 Xã Nghi Ân
 Xã Nghi Đồng
-Xã Nghi Đức
 Xã Nghinh Tường
 Xã Nghinh Xuyên
 Xã Nghiêm Xuyên
@@ -14654,7 +14637,6 @@ Xã Nghĩa An
 Xã Nghĩa Bình
 Xã Nghĩa Châu
 Xã Nghĩa Dân
-Xã Nghĩa Dõng
 Xã Nghĩa Dũng
 Xã Nghĩa Hiếu
 Xã Nghĩa Hiệp
@@ -14705,7 +14687,9 @@ Xã Nghĩa Yên
 Xã Nghĩa Điền
 Xã Nghĩa Đô
 Xã Nghĩa Đạ
+Xã Nghĩa Đồng
 Xã Nghĩa Đức
+Xã Nghị Đức
 Xã Nguyên Bình
 Xã Nguyên Giáp
 Xã Nguyên Hòa
@@ -14759,13 +14743,13 @@ Xã Ngọc Hòa
 Xã Ngọc Hồi, Ngọc Hội
 Xã Ngọc Khê
 Xã Ngọc Kỳ
-Xã Ngọc Linh
 Xã Ngọc Liên
 Xã Ngọc Liệp
 Xã Ngọc Long, Ngọc Long
 Xã Ngọc Lâm
 Xã Ngọc Lâu
 Xã Ngọc Lý
+Xã Ngọc Lĩnh
 Xã Ngọc Lũ
 Xã Ngọc Lương
 Xã Ngọc Lập, Ngọc Lảp
@@ -14775,9 +14759,9 @@ Xã Ngọc Phái
 Xã Ngọc Phụng
 Xã Ngọc Quan
 Xã Ngọc Sơn
-Xã Ngọc Thanh
 Xã Ngọc Thiện
 Xã Ngọc Thuận
+Xã Ngọc Thành
 Xã Ngọc Trung
 Xã Ngọc Trạo
 Xã Ngọc Tảo
@@ -14920,6 +14904,7 @@ Xã Nà Chì
 Xã Nà Hẩu
 Xã Nà Hỳ
 Xã Nà Khương
+Xã Nà Mèo
 Xã Nà Mường
 Xã Nà Nghịu
 Xã Nà Phòn
@@ -14982,8 +14967,8 @@ Xã Nậm Sỏ
 Xã Nậm Tha
 Xã Nậm Ty
 Xã Nậm Tăm
-Xã Nậm Xe
 Xã Nậm Xây
+Xã Nậm Xé
 Xã Nậm Ét
 Xã Nậm Đét
 Xã Nật Sơn
@@ -14995,7 +14980,6 @@ Xã Pa Cheo
 Xã Pa Ham
 Xã Pa Thơm
 Xã Pa Tần
-Xã Pa Vây Sử
 Xã Pa Vệ Sử
 Xã Pa Ủ
 Xã Pha Khinh
@@ -15096,7 +15080,6 @@ Xã Phú Châu
 Xã Phú Cát
 Xã Phú Cường
 Xã Phú Cần
-Xã Phú Diên
 Xã Phú Dương
 Xã Phú Gia
 Xã Phú Hiệp, Phú Hiệp
@@ -15139,6 +15122,7 @@ Xã Phú Sơn
 Xã Phú Thuận
 Xã Phú Thuận A
 Xã Phú Thuận B
+Xã Phú Thành, Phú Thành
 Xã Phú Thành A
 Xã Phú Thành B
 Xã Phú Thượng
@@ -15153,13 +15137,14 @@ Xã Phú Tâm
 Xã Phú Tân
 Xã Phú Túc
 Xã Phú Vang
-Xã Phú Vinh
 Xã Phú Văn
+Xã Phú Vĩnh
 Xã Phú Xuyên
 Xã Phú Xuân, Phú Xuân
 Xã Phú Xá
 Xã Phú Yên
 Xã Phú Đa
+Xã Phú Điền
 Xã Phú Đình
 Xã Phú Đô
 Xã Phú Đông
@@ -15202,8 +15187,8 @@ Xã Phương Giao
 Xã Phương Hưng
 Xã Phương Hải
 Xã Phương Khoan
-Xã Phương Linh
 Xã Phương Liễu
+Xã Phương Lĩnh
 Xã Phương Mỹ
 Xã Phương Phú
 Xã Phương Sơn
@@ -15330,6 +15315,7 @@ Xã Piềng Vế
 Xã Pró, Xã P'Róh
 Xã Pu Sam Cáp
 Xã Pà Cò
+Xã Pà Vầy Sủ
 Xã Pá Hu
 Xã Pá Lau
 Xã Pá Lông
@@ -15359,31 +15345,14 @@ Xã Quan Lạn
 Xã Quan Sơn
 Xã Quan Thần Sán
 Xã Quang Chiểu
-Xã Quang Châu
 Xã Quang Hiến
 Xã Quang Huy
 Xã Quang Hán
 Xã Quang Húc
-Xã Quang Hưng
 Xã Quang Khải
-Xã Quang Kim
-Xã Quang Lang
-Xã Quang Long
 Xã Quang Lịch
-Xã Quang Lộc
-Xã Quang Minh
-Xã Quang Phong
-Xã Quang Phú
-Xã Quang Phục
-Xã Quang Sơn
 Xã Quang Thiện
-Xã Quang Thuận
-Xã Quang Thịnh
-Xã Quang Tiến
-Xã Quang Trung
 Xã Quang Trọng
-Xã Quang Yên
-Xã Quy Hóa
 Xã Quy Hướng
 Xã Quy Hậu
 Xã Quy Kỳ
@@ -15402,6 +15371,7 @@ Xã Quân Bình
 Xã Quân Chu
 Xã Quân Khê
 Xã Quê Mỹ Thạnh
+Xã Quý Hoà
 Xã Quý Lộc
 Xã Quý Quân, Qúy Quân
 Xã Quý Sơn
@@ -15412,23 +15382,30 @@ Xã Quảng Bình
 Xã Quảng Bạch
 Xã Quảng Bị
 Xã Quảng Chu
+Xã Quảng Châu
 Xã Quảng Chính
 Xã Quảng Cát
 Xã Quảng Công
 Xã Quảng Giao
 Xã Quảng Hiệp
 Xã Quảng Hoà
+Xã Quảng Hùng
 Xã Quảng Hải
 Xã Quảng Hợp
 Xã Quảng Khê
+Xã Quảng Kim
 Xã Quảng La
 Xã Quảng Liên
+Xã Quảng Long
 Xã Quảng Lâm, Quảng Lâm
+Xã Quảng Lãng
 Xã Quảng Lĩnh
 Xã Quảng Lưu
 Xã Quảng Lạc
 Xã Quảng Lập
+Xã Quảng Lộc
 Xã Quảng Lợi
+Xã Quảng Minh
 Xã Quảng Nghiệp
 Xã Quảng Nghĩa
 Xã Quảng Nguyên
@@ -15439,15 +15416,23 @@ Xã Quảng Nham
 Xã Quảng Nhân
 Xã Quảng Ninh
 Xã Quảng Nạp
+Xã Quảng Phong
+Xã Quảng Phú
 Xã Quảng Phú Cầu
+Xã Quảng Phúc
 Xã Quảng Phương
 Xã Quảng Phước
-Xã Quảng Thanh
+Xã Quảng Sơn
+Xã Quảng Thuận
 Xã Quảng Thuỷ
+Xã Quảng Thành
 Xã Quảng Thái
 Xã Quảng Thạch
 Xã Quảng Thắng
+Xã Quảng Thịnh
 Xã Quảng Thọ
+Xã Quảng Tiên
+Xã Quảng Trung
 Xã Quảng Trường
 Xã Quảng Trạch
 Xã Quảng Trị
@@ -15460,6 +15445,7 @@ Xã Quảng Vinh
 Xã Quảng Văn
 Xã Quảng Vọng
 Xã Quảng Xuân
+Xã Quảng Yên
 Xã Quảng Điền
 Xã Quảng Đông
 Xã Quảng Đại
@@ -15565,7 +15551,6 @@ Xã Si Pa Phìn
 Xã Sin Súi Hồ
 Xã Sinh Long, Sinh Long
 Xã Song An
-Xã Song Bình
 Xã Song Giang
 Xã Song Giáp
 Xã Song Hồ
@@ -15617,6 +15602,7 @@ Xã Sính Lủng
 Xã Sính Phình
 Xã Sóc Hà
 Xã Sóc Đăng, Sóc Đăng
+Xã Sông Bình
 Xã Sông Cầu
 Xã Sông Hinh
 Xã Sông Khoai
@@ -15691,7 +15677,6 @@ Xã Sơn Thượng
 Xã Sơn Thịnh
 Xã Sơn Thọ
 Xã Sơn Thủy
-Xã Sơn Tinh
 Xã Sơn Tiến
 Xã Sơn Trung
 Xã Sơn Trà
@@ -15699,6 +15684,7 @@ Xã Sơn Trường
 Xã Sơn Trạch
 Xã Sơn Tân
 Xã Sơn Tây
+Xã Sơn Tình
 Xã Sơn Viên
 Xã Sơn Vy, Sơn Vị
 Xã Sơn Vĩ
@@ -15762,11 +15748,10 @@ Xã Tam Quan Bắc
 Xã Tam Quan Nam
 Xã Tam Quang
 Xã Tam Sơn
-Xã Tam Thanh
 Xã Tam Thuấn
+Xã Tam Thành
 Xã Tam Thái
 Xã Tam Thôn Hiệp
-Xã Tam Thăng
 Xã Tam Tiến
 Xã Tam Trà
 Xã Tam Vinh
@@ -15780,67 +15765,48 @@ Xã Tam Đại
 Xã Tam Đồng
 Xã Tham Đôn
 Xã Thanh
-Xã Thanh An
 Xã Thanh Bình
 Xã Thanh Chi
 Xã Thanh Chăn
 Xã Thanh Giang
-Xã Thanh Hoa
 Xã Thanh Hà, Thach Hà
-Xã Thanh Hưng
 Xã Thanh Hương
-Xã Thanh Hải
 Xã Thanh Hối
 Xã Thanh Hồng
 Xã Thanh Khai
 Xã Thanh Khê
 Xã Thanh Khương
-Xã Thanh Kim
 Xã Thanh Kỳ
 Xã Thanh Lang
 Xã Thanh Liên
 Xã Thanh Liệt
-Xã Thanh Long, Thành Long
-Xã Thanh Luông
 Xã Thanh Luận
-Xã Thanh Lâm
 Xã Thanh Lân
 Xã Thanh Lòa
+Xã Thanh Lương
 Xã Thanh Lạc
-Xã Thanh Lộc
 Xã Thanh Mai
-Xã Thanh Minh
-Xã Thanh Mỹ
 Xã Thanh Nga
 Xã Thanh Nho
 Xã Thanh Nông
 Xã Thanh Nưa
-Xã Thanh Phong
 Xã Thanh Phát, Than Phát
-Xã Thanh Phú
 Xã Thanh Phú Long
 Xã Thanh Quân
-Xã Thanh Sơn
 Xã Thanh Thịnh
 Xã Thanh Thủy
-Xã Thanh Tiên
 Xã Thanh Trù
 Xã Thanh Trạch
 Xã Thanh Tuyền
-Xã Thanh Tân
 Xã Thanh Tùng
 Xã Thanh Tương, Thanh Tương
 Xã Thanh Uyên
-Xã Thanh Vân
 Xã Thanh Vĩnh Đông
-Xã Thanh Xuân
 Xã Thanh Xá
 Xã Thanh Xương
-Xã Thanh Yên
 Xã Thanh Đa
 Xã Thanh Điền
 Xã Thanh Đình
-Xã Thanh Đồng
 Xã Thanh Đức
 Xã Thi Sơn
 Xã Thiên Hương
@@ -15918,18 +15884,34 @@ Xã Thuận Điền
 Xã Thuận Đức
 Xã Thài Phìn Tủng
 Xã Thàng Tín
+Xã Thành An
 Xã Thành Công
+Xã Thành Hòa
+Xã Thành Hưng
+Xã Thành Hải
+Xã Thành Kim
+Xã Thành Long, Thành Long
+Xã Thành Lâm
 Xã Thành Lập
+Xã Thành Lộc
 Xã Thành Lợi
+Xã Thành Minh
+Xã Thành Mỹ
+Xã Thành Sơn
 Xã Thành Thọ
 Xã Thành Thới A
 Xã Thành Thới B
+Xã Thành Tiến
 Xã Thành Triệu
 Xã Thành Trung
 Xã Thành Trực
 Xã Thành Tâm
+Xã Thành Tân
 Xã Thành Vinh
+Xã Thành Vân
+Xã Thành Yên
 Xã Thành long
+Xã Thành Đông
 Xã Thào Chư Phìn
 Xã Thái An
 Xã Thái Bình, Thái Bình
@@ -16015,8 +15997,8 @@ Xã Thượng Ninh
 Xã Thượng Nung
 Xã Thượng Nông, Thượng Nông
 Xã Thượng Phùng
-Xã Thượng Quan
 Xã Thượng Quảng
+Xã Thượng Quận
 Xã Thượng Sơn
 Xã Thượng Thôn
 Xã Thượng Tiến
@@ -16081,6 +16063,8 @@ Xã Thạnh Bắc
 Xã Thạnh Hòa Sơn
 Xã Thạnh Ngãi
 Xã Thạnh Nhựt
+Xã Thạnh Phong
+Xã Thạnh Phú
 Xã Thạnh Phú Đông
 Xã Thạnh Phước
 Xã Thạnh Qưới
@@ -16088,6 +16072,7 @@ Xã Thạnh Thắng
 Xã Thạnh Thới An
 Xã Thạnh Thới Thuận
 Xã Thạnh Trị
+Xã Thạnh Xuân
 Xã Thạnh Yên A
 Xã Thạnh Đông
 Xã Thạnh Đông A
@@ -16158,7 +16143,6 @@ Xã Thụy Chính
 Xã Thụy Duyên
 Xã Thụy Dân
 Xã Thụy Dũng
-Xã Thụy Dương
 Xã Thụy Hà
 Xã Thụy Hòa
 Xã Thụy Hùng
@@ -16186,6 +16170,7 @@ Xã Thủy Triều
 Xã Thủy Tây
 Xã Thủy Xuân Tiên
 Xã Thủy Đông
+Xã Thủy Đường
 Xã Thừa Đức
 Xã Tinh Nhuệ
 Xã Tiên An
@@ -16326,12 +16311,12 @@ Xã Trung Yên, Trung Yên
 Xã Trung Ý
 Xã Trung Đông
 Xã Truông Mít
-Xã Trà Bui
 Xã Trà Bình
+Xã Trà Bùi
 Xã Trà Cang
 Xã Trà Côn
 Xã Trà Cổ
-Xã Trà Don
+Xã Trà Dơn
 Xã Trà Dương
 Xã Trà Giang
 Xã Trà Giác
@@ -16484,7 +16469,7 @@ Xã Tài Văn
 Xã Tào Sơn
 Xã Tái Sơn
 Xã Tát Ngà
-Xã Tân An
+Xã Tâm Thắng
 Xã Tân An Hội
 Xã Tân An Luông
 Xã Tân Bình
@@ -16504,7 +16489,7 @@ Xã Tân Dương
 Xã Tân Hiệp
 Xã Tân Hiệp A
 Xã Tân Hiệp B
-Xã Tân Hoa
+Xã Tân Hoà
 Xã Tân Huề
 Xã Tân Hà
 Xã Tân Hào
@@ -16533,16 +16518,16 @@ Xã Tân Kim
 Xã Tân Kiên
 Xã Tân Kiều
 Xã Tân Kỳ
-Xã Tân Lang
-Xã Tân Linh
 Xã Tân Liên
 Xã Tân Liễu
 Xã Tân Long
 Xã Tân Long Hội
 Xã Tân Lâm
 Xã Tân Lân
+Xã Tân Lãng
 Xã Tân Lý Tây
 Xã Tân Lý Đông
+Xã Tân Lĩnh
 Xã Tân Lược
 Xã Tân Lạc
 Xã Tân Lập
@@ -16583,12 +16568,12 @@ Xã Tân Quới
 Xã Tân Quới Trung
 Xã Tân Sơn
 Xã Tân Sỏi
-Xã Tân Thanh, Tân Thành
 Xã Tân Thiềng
 Xã Tân Thuận
 Xã Tân Thuận Bình
 Xã Tân Thuận Tây
 Xã Tân Thuận Đông
+Xã Tân Thành, Tân Thành
 Xã Tân Thành A
 Xã Tân Thành B
 Xã Tân Thành Bình
@@ -16622,6 +16607,7 @@ Xã Tân Văn
 Xã Tân Vĩnh Hiệp
 Xã Tân Xuân
 Xã Tân Yên
+Xã Tân Ân
 Xã Tân Ân Tây
 Xã Tân Điền
 Xã Tân Đoàn
@@ -16730,8 +16716,8 @@ Xã Tả Sìn Thàng
 Xã Tả Sử Choóng
 Xã Tả Thanh Oai
 Xã Tả Thàng
-Xã Tả Van
 Xã Tả Van Chư
+Xã Tả Ván
 Xã Tảo Dương Văn
 Xã Tất Thắng
 Xã Tập Ngãi
@@ -16778,7 +16764,7 @@ Xã Tứ Yên
 Xã Tức Tranh
 Xã Tử Du
 Xã Tử Nê
-Xã Tử Đa, Từ Đà
+Xã Tử Đa, Từ Đa
 Xã Tự Cường
 Xã Tự Do
 Xã Tự Lan
@@ -16789,20 +16775,8 @@ Xã Uar
 Xã Uy Nỗ
 Xã Vang Quới Tây
 Xã Vang Quới Đông
-Xã Vinh An
-Xã Vinh Giang
-Xã Vinh Hiền
-Xã Vinh Hà
-Xã Vinh Hưng
-Xã Vinh Hải
 Xã Vinh Mỹ
-Xã Vinh Phú
-Xã Vinh Quang, Vinh Quang
 Xã Vinh Quý
-Xã Vinh Thanh
-Xã Vinh Thái
-Xã Vinh Tiền, Vinh Tiến
-Xã Vinh Xuân
 Xã Viên An
 Xã Viên An Đông
 Xã Viên Bình
@@ -16875,11 +16849,11 @@ Xã Văn Hán
 Xã Văn Hải
 Xã Văn Học
 Xã Văn Khê
-Xã Văn Lang
 Xã Văn Lem
 Xã Văn Lung
-Xã Văn Luông
+Xã Văn Lãng
 Xã Văn Lý
+Xã Văn Lương
 Xã Văn Lộc
 Xã Văn Lợi
 Xã Văn Minh
@@ -16898,6 +16872,7 @@ Xã Văn Võ
 Xã Văn Xuôi
 Xã Văn Đức
 Xã Vĩ Thượng
+Xã Vĩnh An
 Xã Vĩnh Bình Bắc
 Xã Vĩnh Bình Nam
 Xã Vĩnh Bửu
@@ -16908,13 +16883,18 @@ Xã Vĩnh Châu A
 Xã Vĩnh Châu B
 Xã Vĩnh Chấp
 Xã Vĩnh Công
+Xã Vĩnh Giang
+Xã Vĩnh Hiền
 Xã Vĩnh Hiệp
 Xã Vĩnh Hoà Hiệp
 Xã Vĩnh Hoà Hưng Bắc
 Xã Vĩnh Hoà Hưng Nam
+Xã Vĩnh Hà
 Xã Vĩnh Hào
 Xã Vĩnh Hòa
+Xã Vĩnh Hùng
 Xã Vĩnh Hưng A
+Xã Vĩnh Hải
 Xã Vĩnh Hậu
 Xã Vĩnh Hậu A
 Xã Vĩnh Hồng
@@ -16927,11 +16907,11 @@ Xã Vĩnh Khúc
 Xã Vĩnh Khương
 Xã Vĩnh Kim
 Xã Vĩnh Kiên, Vĩnh Kiên
-Xã Vĩnh Lai
 Xã Vĩnh Long
 Xã Vĩnh Lâm
 Xã Vĩnh Lương
 Xã Vĩnh Lạc
+Xã Vĩnh Lại
 Xã Vĩnh Lập
 Xã Vĩnh Lộc
 Xã Vĩnh Lộc A
@@ -16945,6 +16925,7 @@ Xã Vĩnh Ngọc
 Xã Vĩnh Nhuận
 Xã Vĩnh Ninh
 Xã Vĩnh Phong
+Xã Vĩnh Phú
 Xã Vĩnh Phú Tây
 Xã Vĩnh Phú Đông
 Xã Vĩnh Phúc
@@ -16952,16 +16933,20 @@ Xã Vĩnh Phương
 Xã Vĩnh Phước
 Xã Vĩnh Phước A
 Xã Vĩnh Phước B
+Xã Vĩnh Quang, Vinh Quang
 Xã Vĩnh Quỳnh
 Xã Vĩnh Sơn
 Xã Vĩnh Thuận
 Xã Vĩnh Thuận Tây
 Xã Vĩnh Thuận Đông
+Xã Vĩnh Thành
+Xã Vĩnh Thái
 Xã Vĩnh Thạch
 Xã Vĩnh Thắng
 Xã Vĩnh Thịnh
 Xã Vĩnh Thủy
 Xã Vĩnh Thực
+Xã Vĩnh Tiến, Vinh Tiến
 Xã Vĩnh Trinh
 Xã Vĩnh Trung
 Xã Vĩnh Trường
@@ -16974,6 +16959,7 @@ Xã Vĩnh Tú
 Xã Vĩnh Tế
 Xã Vĩnh Viễn
 Xã Vĩnh Viễn A
+Xã Vĩnh Xuân
 Xã Vĩnh Xương
 Xã Vĩnh Yên, Vĩnh Yên
 Xã Vĩnh Ô
@@ -17055,10 +17041,10 @@ Xã Xuân Bái
 Xã Xuân Bình
 Xã Xuân Bảo
 Xã Xuân Bắc
-Xã Xuân Canh
 Xã Xuân Cao
 Xã Xuân Chinh
 Xã Xuân Châu
+Xã Xuân Cảnh
 Xã Xuân Cẩm
 Xã Xuân Du
 Xã Xuân Dương
@@ -17080,9 +17066,9 @@ Xã Xuân Khê
 Xã Xuân Kiên
 Xã Xuân La.
 Xã Xuân Lai
-Xã Xuân Lam
 Xã Xuân Liên
 Xã Xuân Long
+Xã Xuân Lâm
 Xã Xuân Lãnh
 Xã Xuân Lôi
 Xã Xuân Lĩnh
@@ -17199,7 +17185,7 @@ Xã Yên Cường, Yên Cường
 Xã Yên Dương
 Xã Yên Giang
 Xã Yên Giả
-Xã Yên Hoa, Yên Hoa
+Xã Yên Hoà, Yên Hoa
 Xã Yên Hà
 Xã Yên Hân
 Xã Yên Hùng
@@ -17213,11 +17199,11 @@ Xã Yên Khê, Yên Khê
 Xã Yên Khương
 Xã Yên Kiện, Yên Kiên
 Xã Yên Kỳ
-Xã Yên Luông
 Xã Yên Luật
 Xã Yên Lâm
 Xã Yên Lãng
 Xã Yên Lư
+Xã Yên Lương
 Xã Yên Lạc
 Xã Yên Lập, Yên Lập
 Xã Yên Lễ
@@ -17236,7 +17222,7 @@ Xã Yên Nhuận
 Xã Yên Nhân
 Xã Yên Nội
 Xã Yên Phong, Yên Phong
-Xã Yên Phu
+Xã Yên Phú
 Xã Yên Phúc
 Xã Yên Phương
 Xã Yên Quang
@@ -17273,11 +17259,14 @@ Xã Za Hung
 Xã Zuôih
 Xã Ái Quốc
 Xã Ái Thượng
+Xã Ân Hòa
 Xã Ân Hảo Tây
 Xã Ân Hảo Đông
 Xã Ân Hữu
+Xã Ân Mỹ
 Xã Ân Nghĩa
 Xã Ân Phong
+Xã Ân Sơn
 Xã Ân Tình
 Xã Ân Tín
 Xã Ân Tường Tây
@@ -17303,7 +17292,6 @@ Xã Đa Phước
 Xã Đa Phước Hội
 Xã Đa Quyn
 Xã Đa Thông
-Xã Đa Tốn
 Xã Đac Pree
 Xã Đac Pring
 Xã Đak Krong
@@ -17325,6 +17313,7 @@ Xã Điền Công
 Xã Điền Hòa
 Xã Điền Hương
 Xã Điền Hạ
+Xã Điền Hải
 Xã Điền Lư
 Xã Điền Lộc
 Xã Điền Môn
@@ -17332,12 +17321,14 @@ Xã Điền Quang
 Xã Điền Thượng
 Xã Điền Trung
 Xã Điền Xá
+Xã Điện An
 Xã Điện Dương
 Xã Điện Hồng
 Xã Điện Minh
 Xã Điện Nam Bắc
 Xã Điện Nam Trung
 Xã Điện Nam Đông
+Xã Điện Ngọc
 Xã Điện Phong
 Xã Điện Phương
 Xã Điện Phước
@@ -17398,10 +17389,10 @@ Xã Đông Anh
 Xã Đông Bình
 Xã Đông Bắc
 Xã Đông Cao
-Xã Đông Cuông
 Xã Đông Các
 Xã Đông Cơ
 Xã Đông Cương
+Xã Đông Cường
 Xã Đông Cứu
 Xã Đông Dư
 Xã Đông Dương
@@ -17448,8 +17439,8 @@ Xã Đông Quang
 Xã Đông Quý, Đồng Qúy
 Xã Đông Sang
 Xã Đông Sơn
-Xã Đông Thanh
 Xã Đông Thuận
+Xã Đông Thành
 Xã Đông Thái
 Xã Đông Thắng
 Xã Đông Thịnh
@@ -17510,6 +17501,7 @@ Xã Đạ Rsal
 Xã Đạ Ròn
 Xã Đạ Sar
 Xã Đạ Tông
+Xã Đạ Tồn
 Xã Đạ Đờn
 Xã Đại An
 Xã Đại Bái
@@ -17592,8 +17584,8 @@ Xã Đắk Cấm
 Xã Đắk Drô
 Xã Đắk Dục
 Xã Đắk Gằn
-Xã Đắk Ha
 Xã Đắk Hring
+Xã Đắk Hà
 Xã Đắk Hòa
 Xã Đắk Kan
 Xã Đắk Kroong
@@ -17793,10 +17785,10 @@ Xã Đức Phú
 Xã Đức Phổ
 Xã Đức Quang
 Xã Đức Sơn
-Xã Đức Thanh
 Xã Đức Thuận
 Xã Đức Thông
 Xã Đức Thượng
+Xã Đức Thạnh
 Xã Đức Thắng
 Xã Đức Thịnh
 Xã Đức Thủy
@@ -18058,11 +18050,11 @@ phường Duyen Hai
 Đak Minh, Ya Limin
 Đak Mong
 Đak Mun, Dak Moun
-Đak Mé, Dak Mae
 Đak N'drap
 Đak N'dreng
 Đak N'tao
 Đak N'đrong
+Đak Na, Dak Ma
 Đak Nam
 Đak Nan
 Đak Nang
@@ -18086,6 +18078,7 @@ phường Duyen Hai
 Đak Rơkoy
 Đak Rơnar, Dak Retil
 Đak Sier, Đak Sirr
+Đak Sing
 Đak Sir
 Đak Sour, Da Sor
 Đak Sun, Dac Soun
@@ -18094,12 +18087,14 @@ phường Duyen Hai
 Đak Te
 Đak Thiam, Da Tiam
 Đak Toktêh, Da Xeurr
-Đak Ton
+Đak Tol
 Đak Touan
 Đak Toït
 Đak Trom
 Đak Tul
 Đak Têl
+Đak Tôn
+Đak Vai, Dak Vay, Đak Naï
 Đak Yang R'heng
 Đak Yao
 Đak Yeul, Dak Heut, Dak Yeut
@@ -18114,7 +18109,6 @@ phường Duyen Hai
 Đang R'Meut
 Đeo Rao
 Đinh An
-Đinh Mỹ
 Đinh Thành
 Đàng Đùi
 Đào Trung
@@ -18257,6 +18251,7 @@ phường Duyen Hai
 Đường Kinh Cây Gáo, Duong Kinh Gao
 Đường Trâu, Duong Thau
 Đường Xuồng
+Đại Giang
 Đại Đù
 Đảo Bạch Long Vĩ, Bacht Long Vi, Bạch Long Vĩ Island, Pai-lung-wei, White Tailed Dragon, Île Bach Long Vi, Île Bakh Long Vi, Île Nightingale, Đảo Bạch Long
 Đảo Cao Lô, Île Ba Mùn
@@ -18298,6 +18293,7 @@ phường Duyen Hai
 Đảo Đống Chén
 Đầm An Khê
 Đầm An Truyền, Dam An Truyea
+Đầm Bay
 Đầm Chînh Công
 Đầm Cú Mông, Baie de Cu Mong, Baie de Kumong
 Đầm Cút
@@ -18335,6 +18331,7 @@ phường Duyen Hai
 Đắk Lắk Province, Darlac, Tỉnh Đắc Lắc, Tỉnh Đắc Lắk, Tỉnh Đắk Lắk, Đăk Lăk, Đắc Lắc
 Đắk M' Ray
 Đắk Mone
+Đắk Mé, Dak Mae
 Đắk Nem
 Đắk Nil
 Đắk PLiengue
@@ -18345,6 +18342,7 @@ phường Duyen Hai
 Đắk Pregne
 Đắk R'Sung
 Đắk Ra
+Đắk Sa, Dak Xa
 Đắk Sedian
 Đắk Xom
 Đền Ngọc Sơn
@@ -18355,6 +18353,7 @@ phường Duyen Hai
 Định Bảo
 Định Hòa Commune
 Định Môn
+Định Mỹ
 Định Phước
 Định Thơi
 Định Tường
@@ -18423,6 +18422,7 @@ phường Duyen Hai
 Động Chuc Mao
 Động Chuoi
 Động Cá Puy
+Động Cô Tiên
 Động Cù Mông
 Động Cồn Soai, Dong Gon Soai
 Động Củng Cáp
@@ -18442,7 +18442,7 @@ phường Duyen Hai
 Động Ma
 Động Mang Chang, Dong Mang Chau
 Động Mốc, Dong Mac
-Động Ngai
+Động Ngãi
 Động Ngôn, Dong Ngo
 Động Nhụt
 Động Nôm

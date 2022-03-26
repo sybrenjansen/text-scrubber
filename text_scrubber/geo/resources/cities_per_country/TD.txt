@@ -42,7 +42,7 @@ Ab Ragna
 Ab Ranga
 Ab Rania
 Ab Roki
-Ab Sabe, Ab Saba
+Ab Sabé, Ab Saba
 Ab Sioufa, Absiouf, Am Ciouf
 Ab Souyouf
 Ab Tchetchenia
@@ -59,7 +59,7 @@ Abakada
 Abakar
 Abakari Karoua, Abakar Karoua
 Abalagn
-Abalagne, Abaleinie, Abaleygne
+Abalagné, Abaleinie, Abaleygne
 Abani
 Abani Arak
 Abanié Birgit
@@ -285,7 +285,7 @@ Agan
 Agana Bo
 Agana Ouadé
 Agantérè
-Agar, Aggar, أغار, أقّار
+Agar, Aggar, أغار, أقار
 Agarachi
 Agari
 Agarta
@@ -554,7 +554,6 @@ Am Djabora, Am Djeboura
 Am Djan
 Am Djan Kaferdout
 Am Djelfé
-Am Djemena, Amdjéména
 Am Djer
 Am Djer Morfein
 Am Djer Taama
@@ -568,6 +567,7 @@ Am Djoufour, Am Diofour
 Am Djourar, Am Djourar Moustakhide
 Am Djourar Ganbir
 Am Djourar Mouro
+Am Djèmèna, Amdjéména
 Am Djébora
 Am Djédaouit
 Am Djédéri
@@ -602,7 +602,6 @@ Am Gar
 Am Garada
 Am Gardiana
 Am Garkoy Doungous
-Am Gewa
 Am Goché, Am Gouchie
 Am Goré
 Am Goré Saker
@@ -625,8 +624,9 @@ Am Guériné, Am Gériné
 Am Guérékoa, Am Gérékoa
 Am Géritié, Amguerité
 Am Géréda, Am Guereda, Kallim
+Am Géwa
 Am Habali
-Am Habile
+Am Habilé
 Am Habilé Dia
 Am Hadjer
 Am Haraz
@@ -708,8 +708,8 @@ Am Réchina
 Am Rétio
 Am Sabona
 Am Sak
-Am Sakin
-Am Sakine
+Am Sakiné
+Am Sakîn
 Am Saterna
 Am Sayala
 Am Sayala Alifa
@@ -912,7 +912,7 @@ Aozi, Ozi
 Aozou, Ozu, أوزو
 Apaga
 Aparia
-Apguéréan, Apgéréan
+Apguéréan, Apgérean
 Apkouta
 Aptibéni
 Ara
@@ -945,7 +945,6 @@ Archo
 Arda
 Arda Farat
 Arday, Ardey, Ardeï
-Ardebe
 Ardef
 Ardené
 Ardepalfati, Adept el Fati
@@ -953,6 +952,7 @@ Ardiet
 Ardim
 Ardo
 Ardéba
+Ardébé
 Ardéden
 Ardédé
 Ardélik
@@ -1041,12 +1041,12 @@ At Aouil
 At Dougli
 At Tawil
 At Tomat
-Atait, Ataïé
 Atala
 Atanas
 Atao
 Atarak
 Ataway
+Ataït, Ataïé
 Atchinga
 Atchoukoul Toumouna
 Atché Fourta
@@ -1339,8 +1339,8 @@ Barati
 Barbina, Babina
 Barda
 Bardaï, برداي
-Barde
 Bardobadé
+Bardé
 Bargad, Bargal
 Barganyeu
 Bari
@@ -1440,8 +1440,6 @@ Baïpadgué, Baïpadgé
 Baïtandi
 Be Aïma
 Bea
-Bebal
-Bebala
 Bebanda
 Bebann
 Bebekass
@@ -1452,25 +1450,18 @@ Bebomo
 Bebougaï, Bebongheye, Bebougheye, Bebugei, Bébougueï
 Bebourou
 Bebwayo
-Bedane
 Bedanga
 Bedat
-Bedaya, Bédaya III
 Bedjamnia
-Bedjo, Bedjio
 Bedjomo
 Bedoada, Bédoara
 Bedobouyou
-Bedoli
 Beendou
 Begala
-Begara Mbaye
 Begosso
 Begoyon, Bogoyon
-Bekamba, Bakamba
 Bekao I
 Bekao II
-Bekessi
 Bekete
 Bekita
 Bekolo
@@ -1479,12 +1470,10 @@ Bekor-Daba, Bekor-Daga
 Bekourou, Bekuru
 Bekoyé, Bekoï
 Bekâmbé
-Beladjia, Belachi, Belaschi
 Beldou
 Belede Madouan, Belde Madouan
 Belem
 Beli
-Belia, Bella
 Belimdi
 Belkara
 Belli
@@ -1497,8 +1486,6 @@ Bembaida Nya, Bembainda-Nia
 Bembainda, Bembainda-Bé
 Bembar
 Bembaré, Bimbari, Bimbaré
-Bembaya, Bembaïa
-Bembaïdi
 Bembaïndi
 Bembem
 Bembi
@@ -1515,7 +1502,6 @@ Bendanga, Bendaga
 Bendi
 Bendioui, Bendiwi
 Bendjiamonn, Bendjamou
-Bendo, Bindo
 Bendodjo
 Bendouba, Bendobo
 Benga Kindonion
@@ -1524,7 +1510,6 @@ Bengadoua
 Bengafo
 Bengakor
 Bengala
-Bengamia
 Benganga
 Bengaoda
 Bengar I, Bengar
@@ -1532,7 +1517,6 @@ Bengar II
 Bengar Sao
 Bengassa
 Bengaïda, Bengaïdi
-Bengo
 Bengokar, Bengokari
 Bengon
 Bengono, Bangono
@@ -1553,8 +1537,8 @@ Bepili
 Beptongo
 Ber Beïssa, Ber Beisa
 Ber Laoukas, Ber Laokasi
-Berberé
 Berbéra
+Berbéré
 Berdie, Birdi
 Berdoba
 Berdélep Erbey
@@ -1572,10 +1556,8 @@ Berré
 Berté
 Besi Bourou
 Besmé
-Bessa
 Bessada
 Bessah
-Bessama
 Bessanah
 Bessao I, Bésao, بيساو 1
 Bessao III, Bésao II, بيساو 2
@@ -1697,7 +1679,6 @@ Binga
 Bingala
 Bingamara
 Binganélé
-Bingo
 Bingor
 Bingueli
 Binguélé
@@ -1798,13 +1779,13 @@ Bitchilom
 Bitchotchi Doungous, Bitchochi Doungous
 Bitchotchi Himéra, Bitchochi Himéra
 Bitchotchi Tchaka, Bitchochi Tchaka
-Bitenda
 Biti
 Bitkine, Bitkin
 Bitoï I, Bitoye, Botoï I, Mbitoye
 Bitoï II, Botoï II
+Bitènda
 Bizimou
-Biére
+Biéré
 Biéré Am Kindoué
 Biéré Djakana
 Biéré Michéigé
@@ -1896,7 +1877,6 @@ Bola
 Bolati I
 Bolbissi
 Bolbé
-Boleati
 Bolgaba, Bolekaba
 Bolgué
 Boli
@@ -1917,6 +1897,7 @@ Bolou
 Boltini
 Boltirom, Boltirom I, Boltirom II
 Boltrom
+Boléati
 Bomala, Bémala
 Bombom, Bamban
 Bombouri, Boumbouri
@@ -2145,9 +2126,9 @@ Boutounoukou
 Bouya
 Boya
 Boyama, Bryama
-Boye
 Boyinti
 Boyo
+Boyé
 Boyégué I
 Boyégué II
 Boïtou
@@ -2184,8 +2165,10 @@ Brére
 By
 Bègué
 Bèmbaranga
+Bèmbaya, Bembaïa
 Bèmbaïda
 Bèmbaïda II, Bebaïda
+Bèmbaïdi
 Bèmbaïdo
 Bèmbaïgann, Bembaigan
 Bèmbindi
@@ -2194,8 +2177,11 @@ Bèmbéné
 Bèmrang
 Bèndja I, Bendga I
 Bèndja II
+Bèndo, Bindo
 Bèndé
 Bèngabou
+Bèngamia
+Bèngo
 Bèntam
 Bé Bobranga
 Bé Doumo
@@ -2209,6 +2195,8 @@ Béakagué, Boakagé
 Béama
 Béamongo
 Bébad
+Bébal
+Bébala
 Bébala I
 Bébala II
 Bébala-Tamanti
@@ -2257,11 +2245,13 @@ Bédan
 Bédan I
 Bédan II
 Bédandié
+Bédane
 Bédann
 Bédanta
 Bédaoyo
 Bédara
 Bédara Lal, Bedara-Lai
+Bédaya, Bédaya III
 Bédaïdoura
 Bédem
 Bédem Sira
@@ -2279,6 +2269,7 @@ Bédiondouli
 Bédissa
 Bédja
 Bédjal, Bedial
+Bédjo, Bedjio
 Bédjo II
 Bédoba
 Bédodan
@@ -2290,6 +2281,7 @@ Bédogo Nanga
 Bédok
 Bédokassa
 Bédoko
+Bédoli
 Bédonang
 Bédondouli
 Bédongui
@@ -2318,6 +2310,7 @@ Bégangbé I, Bégambé, Bégangbé
 Bégangbé II
 Bégaouay
 Bégara Daye
+Bégara Mbaye
 Bégna
 Bégoko
 Bégolbé
@@ -2341,6 +2334,7 @@ Béhi
 Béida
 Béidé
 Békain, Bekaïa, Bekoli
+Békamba, Bakamba
 Békamba I
 Békamba II
 Békamba III
@@ -2385,15 +2379,18 @@ Békoura, Békouta
 Békourou II
 Békoutoumani
 Békéni
+Békéssi
 Békétati
 Béla
 Bélaba
 Bélabérim
+Béladjia, Belachi, Belaschi
 Bélakiri
 Bélalo
 Bélama
 Bélanga
 Bélegué
+Bélia, Bella
 Bélil Ardébé
 Bélil Doungous
 Bélobo
@@ -2456,15 +2453,17 @@ Béréguit, Beregil, Beregnit, Bérégit, Béréguité
 Bérékin
 Béréta
 Bérétan
-Béréte, Berdé, Birélé, Birété
+Bérété, Berdé, Birélé, Birété
 Bésa, Bera
+Béssa
+Béssama
 Béssao, بيساو
 Béssey, Besseye
 Béssey I
 Béssey II, Besaje, Besaïe, Besey II, Besseye II
 Béssémé
 Béséme
-Bétabar, Betabar I, Betabara, Bétab, Bétaba
+Bétabar, Betaba, Betabar I, Betabara, Bétab
 Bétabar II
 Bétabar Logone, Bétabar Longone
 Bétakia
@@ -2493,6 +2492,7 @@ Béyéré
 Béïdo
 Béïssa II, Beisa II
 Béïto
+Bïngo
 Cahet
 Carré Koldaga
 Carré Ndjou
@@ -2527,7 +2527,6 @@ Chaten
 Chaway
 Chaélé
 Chaïb
-Chedide, Chédiba
 Chek Brahim
 Chek Falata
 Chellala
@@ -2537,7 +2536,7 @@ Cherek el Balbout
 Cherganié
 Chibina
 Chignet
-Chiguek, Chigék
+Chiguék, Chigek
 Chigé
 Chigégé, Chiguig
 Chikopelo
@@ -2564,6 +2563,7 @@ Choutak
 Chèddra, Chedra
 Chébaya
 Chéchan
+Chédidé, Chédiba
 Chéfer
 Chéhéfé
 Chéké
@@ -2614,7 +2614,7 @@ Dadjilé, Dadjilé I, Dadjlé
 Dadjilé II
 Dadouar
 Dafa
-Dafade
+Dafadé
 Dafra
 Daga
 Dagaga
@@ -3016,10 +3016,10 @@ Djamaï
 Djambalbar
 Djamboutou, Yamboutou
 Djamdori
-Djamena
 Djamilasité
 Djamno, Djameno
 Djamoussa
+Djaména
 Djaména Borkou
 Djaména Chip
 Djan
@@ -3073,7 +3073,6 @@ Djekémé, Dikheme
 Djember, Djamber, Jember
 Djemelma
 Djemilasit
-Djeména
 Djenda, Ienda
 Djeneine, Djénéné, جنين
 Djengdo
@@ -3091,7 +3090,7 @@ Djeulou Amadou
 Djiagalaba
 Djianga
 Djib Djoumalek
-Djibne
+Djibné
 Djiboutou
 Djidada, Gidada
 Djidami
@@ -3113,18 +3112,18 @@ Djilmi
 Djimadoul
 Djimes
 Djimesse, Djimess
-Djimez
-Djimeze, Djimmeze, Gemmeiza
 Djiminofou
 Djimtilo, Djimlilo
+Djimèz
 Djimèz Arourou
+Djimézé, Djimmeze, Gemmeiza
 Djindi
 Djindjibo
 Djindjikono
 Djindra
 Djindéré
 Djinékir
-Djinére
+Djinéré
 Djiodat
 Djiogi, Diogui
 Djiour
@@ -3232,6 +3231,7 @@ Djéguérènn Kazé, Djegéren Kasé
 Djého
 Djéké Djéké, Djegui Djéké
 Djéli
+Djéména
 Djéména Guidé, Djemena Gide
 Djéné
 Djéra
@@ -3304,10 +3304,10 @@ Dogouti
 Dogoya, Dagoa
 Dogoénïnga
 Dogueni
-Dogueré, Doguélé
 Doguigui
 Doguinndi, Dogindi, Doguindi
 Doguiti, Dogiti
+Doguéré, Doguélé
 Doguéré Moïssala, دوقيري مويسالا
 Dogé
 Doher
@@ -3343,7 +3343,6 @@ Dola
 Dolam, Doloam
 Dolao, Dalaou
 Doldoki
-Dole
 Doleri
 Doli
 Dolienn
@@ -3353,14 +3352,15 @@ Dolko
 Dolori
 Dolougou
 Doloumba
+Dolé
 Doléna
 Dom
 Doman
-Domane
 Domann
 Domann I, Doman I
 Domann II, Doman II
 Domannbeidayé, Domanbeidayé
+Domané
 Domaï
 Dombala, Damolo
 Dombali
@@ -3653,7 +3653,7 @@ Désoulom Kérikolé
 Déyé
 Eban
 Ebaygane
-Ebe
+Ebé
 Ebéday
 Ebéria Broua
 Echbara, Echera, Eschbara, Etchbara
@@ -3751,8 +3751,8 @@ Fadia
 Fadié
 Fadjalala
 Fadjaoa
-Fadje
 Fadjialala
+Fadjé
 Fadjé Bouchara
 Fadjé Lhala
 Fadjé Mousa
@@ -4250,7 +4250,6 @@ Gop
 Gopala
 Gorang, Gorarane
 Gordenn
-Gore, Al Goré, جوري, غوري
 Gori, Goury
 Goria
 Gorié
@@ -4269,6 +4268,7 @@ Goroné
 Goroumba
 Gorro
 Gorro Ndila
+Goré, Al Goré, جوري, غوري
 Goré I, Gor, Gorr, غوري 1
 Goré II, غوري 2
 Gosbéta
@@ -4455,8 +4455,8 @@ Goz Amdièré
 Goz Ardeb
 Goz Bagar
 Goz Banat
-Goz Beïda, قوز ألبيض, قوز بيدا, قوز بيضة
-Goz Djerat
+Goz Béïda, قوز ألبيض, قوز بيدا, قوز بيضة
+Goz Djérat
 Goz Himet
 Goz Koursi
 Goz Louban
@@ -4510,7 +4510,6 @@ Guelkeb
 Guelkep
 Guelkol
 Guelkor
-Guelkou, Gélkou
 Guelkouradé
 Guelmasé, Gelmasé
 Guelsao
@@ -4534,7 +4533,6 @@ Guernès, Gernès
 Guersale
 Guesker, Gesker
 Guessangolo
-Guetale, Gétalé
 Guia
 Guiao
 Guiba, Giba
@@ -4598,8 +4596,9 @@ Guédégué
 Guédéri, Gédéri
 Guéfa
 Guélingué
+Guélkou, Gélkou
 Guélo, Gélo, جيلو, غيلو, قيلو
-Guélouel, Gélouel
+Guélouèl, Gélouel
 Guélé
 Guélédi, Guéleidi
 Guéléhé, Géléhé
@@ -4619,6 +4618,7 @@ Guéréday, Gueredaye, Géréday
 Guérédi, Gérédi
 Guérésang, Gérésang
 Guésé, Gésé
+Guétalé, Gétalé
 Guïndou
 Gédoum
 Géféla
@@ -4646,14 +4646,13 @@ Habilé
 Hachaba
 Hadid
 Hadjalidj
-Hadjelidjé, Adjilidji, Hadjelidié, Hedjilidj
 Hadjer Bandala, Bandala
 Hadjer Béïd, Hadjer Béyd
 Hadjer Béïda
 Hadjer Debdabani, Hadjer
 Hadjer Fana, Harjer Fana
 Hadjer Fi, Hadji Refi
-Hadjer Hadid, Hadjer Haddid, هاجر حديد, هدجر حديد
+Hadjer Hadid, Hadjer Haddid, حاجر حديد, هدجر حديد
 Hadjer Kélé
 Hadjer Méram, Hadjer Meyram
 Hadjere
@@ -4661,6 +4660,7 @@ Hadjernam
 Hadjernoga
 Hadjilidjé
 Hadjèr él Hamis
+Hadjélidjé, Adjilidji, Hadjelidié, Hedjilidj
 Hadjéra, Hadjiera
 Hadjérat, Hadjer Hat
 Hallouf
@@ -4682,7 +4682,7 @@ Haouich, Hawich
 Hara
 Haraz, Haraz-Djombo, Havaze, حراز, حراز جمبو, حراز هداد
 Harazaï
-Haraze, Am Harazé, Département de Haraze, حراز, محافظة حراز
+Harazé, Am Harazé, Département de Haraze, حراز, محافظة حراز
 Harbogo, Orbogo
 Hari
 Harouba
@@ -4691,7 +4691,6 @@ Hatab Djimèze
 Her
 Hiam
 Hid el Goz
-Hidjelidj
 Hidjer
 Hidjer Dout, Hadjer Dout
 Hidjer Lében
@@ -4699,6 +4698,7 @@ Hidjilidjé
 Hidjilidjé Ealadrij, Hidjelidj Ealadrij
 Hidjilidjé Kélé, Hidjelidj Kele
 Hidjir
+Hidjélidj
 Hidjélidjé
 Hidjérat
 Hihi, Hii, Hil, Hû
@@ -4711,7 +4711,7 @@ Hilèle
 Hima
 Himeur al Goz
 Himmedié, Himmedieh
-Himéde
+Himédé
 Himédé Amgar
 Himémit
 Himémlé
@@ -4764,11 +4764,11 @@ Idel Asat Saba, Id el Asset
 Idel Bagar
 Idel Goz
 Idibo, Idbo, Idebo
-Idjelidje, Hajelije
 Idjerlében
 Idjeyné
 Idjilidj
 Idjélidj
+Idjélidjé, Hajelije
 Idéba
 Idéloï
 Ifenat
@@ -4811,7 +4811,6 @@ Ir
 Ira
 Irbi Tandja
 Irbou
-Iredja
 Iri, Yri
 Iri Tchoukou
 Iriba, Département d'Iriba, إريبا, محافظة إريبا, هرباء
@@ -4825,6 +4824,7 @@ Iré Bi, Irébi
 Irébich
 Irédibo
 Irédibé
+Irédja
 Irédja Séghir
 Irégat
 Iréké
@@ -5082,7 +5082,6 @@ Kandja
 Kandjé
 Kandéa
 Kandéla
-Kane
 Kang-Kang, Kan-Kan
 Kanga Kouroua
 Kangalom, قائمقامية كانكالم, قائمقامية كنقالم, كانكالم, كنقالم
@@ -5112,6 +5111,7 @@ Kano
 Kanoua
 Kantara
 Kantirom
+Kané
 Kaoda
 Kaoharam
 Kaokawa
@@ -5310,7 +5310,6 @@ Kelkele
 Kelo
 Kemadjetou
 Kemando
-Kembita, Kembila
 Kembolo
 Kembourou
 Kemdila
@@ -5322,7 +5321,6 @@ Kemgo
 Kemgo I
 Kemkaba
 Kemkada
-Kemkaga, Kenkaya, Kiemkaga
 Kemkamba, Kiemkamba
 Kemkia
 Kemkono
@@ -5343,7 +5341,6 @@ Kerkérédanga
 Keroum
 Kerse, Kercé
 Kertiéfil
-Keuni, Keun
 Keykagué, Keïkagué
 Keyramara
 Kezaye, Kézay
@@ -5513,7 +5510,6 @@ Kohaye
 Koho
 Kohé, Koé
 Koilélé
-Koirom
 Kokabri
 Kokabri I
 Kokabri II
@@ -5874,7 +5870,7 @@ Koumati
 Koumatou
 Koumatou I
 Koumatou II
-Koumaye
+Koumayé
 Koumbale
 Koumbeté
 Koumbotou, Kombotou, Komboutou
@@ -6066,6 +6062,7 @@ Kozoued
 Koïbo
 Koïkoïdjou, Kokoydjo
 Koïma
+Koïrom
 Kra
 Kraska, Krasko
 Krenik
@@ -6081,6 +6078,8 @@ Kwaloum
 Kyabé, Kiyabi, Kiyabé
 Kèlankia
 Kèmbidé
+Kèmbita, Kembila
+Kèmkaga, Kenkaya, Kiemkaga
 Kébinia
 Kédet
 Kédili, Kiddil, Kidili
@@ -6142,6 +6141,7 @@ Kérézo, Keresso
 Kételtek
 Kété
 Kétéyé
+Kéuni, Keun
 Kéuni Damongay, Damangoï, Damongay
 Laba
 Labada
@@ -6150,8 +6150,8 @@ Labado Kébir
 Laban
 Labar
 Labara
-Labde
 Labdo, Labodo
+Labdé
 Labidé
 Labit
 Laboudou, Labboudou
@@ -6319,8 +6319,8 @@ Lomboa Kokoa
 Lomporomé
 Lon
 Lordo
-Lore
 Loroum
+Loré
 Lotour
 Louagui, Louagi
 Loubana
@@ -6422,7 +6422,7 @@ Madar
 Madardé
 Madawadji
 Madba
-Madel Oueï
+Madel Ouèï
 Madem
 Mademar
 Maderi, Madari
@@ -6532,11 +6532,7 @@ Mahoua, Mahua, Maoua
 Mahoundom
 Mai Ache, Aïché, Mai Aiche, Mai Aishe, Mia Acha
 Mai Kobo
-Maigana, أبلا, مائقانا, مائقانة, مايغانا, مايقانا
 Mailgri
-Mailo
-Maimana
-Maingara
 Mairom, Maïro
 Majiki
 Mak
@@ -6688,12 +6684,12 @@ Mandjaffa
 Mandjir
 Mandjiré, Mandjiri, Mandjré, Manjire
 Mandjoua
-Mandoide
 Mandon
 Mandoro
 Mandouboulou
 Mandouli
 Mandoun
+Mandoïdé
 Mandé
 Mandékaga
 Mandélé
@@ -6858,7 +6854,7 @@ Masidjanga, Massidjanga
 Masinie
 Masinion
 Masiré
-Masise
+Masisé
 Maska
 Maskabou
 Maskao
@@ -6889,7 +6885,7 @@ Mata
 Matabano
 Matabeye
 Matabga
-Matabgue
+Matabgué
 Matabgé, Matabjé
 Matabono
 Matadé
@@ -6933,7 +6929,7 @@ Matta Léré, ماتا ليري
 Matègn, Mattaigné
 Maté
 Matékaga, Hatkaga
-Matéle
+Matélé
 Matéou
 Matépanri
 Matéta
@@ -6965,7 +6961,7 @@ Mayélé
 Mayéri
 Mazahar
 Mazembam
-Mazera, Masera
+Mazéra, Masera
 Maélo
 Maémou
 Maénani
@@ -6986,6 +6982,7 @@ Maïdou
 Maïdougouri
 Maïdé
 Maïgala
+Maïgana, أبلا, مائقانا, مائقانة, مايغانا, مايقانا
 Maïgomo, Maygomo
 Maïhaya
 Maïkan
@@ -7005,10 +7002,12 @@ Maïkélé
 Maïlab
 Maïlao
 Maïlem, Maïllim
+Maïlo
 Maïmada
 Maïmadja
 Maïmadjia
 Maïmala
+Maïmana
 Maïmani
 Maïmann
 Maïmara
@@ -7033,6 +7032,7 @@ Maïndou
 Maïngala
 Maïngama I
 Maïngama II
+Maïngara
 Maïngone
 Maïnimga, Maïneunga
 Maïninga
@@ -7116,13 +7116,11 @@ Mbété, Bété
 Mdehir
 Mefi
 Meikoum
-Mekab
 Mekab Sourma
 Melela
 Meleri, Malemi, Mélémi
 Melfi
 Melgi, Melgui
-Melia
 Melia site
 Melméle, Melmel
 Meloumbay
@@ -7155,7 +7153,6 @@ Midekhinn, Midékin
 Midjélidj
 Midzigir
 Midésis, Medecissé
-Miele, El Miélé, Miellé, Niele
 Mifa
 Migna
 Migni
@@ -7234,6 +7231,7 @@ Mitingé
 Mito, Mitau, Mittou
 Mitérir
 Mié
+Miélé, El Miélé, Miellé, Niele
 Miélé Karbani
 Miélé Sabani
 Mo
@@ -7460,7 +7458,7 @@ Moundagabol
 Moundaloay
 Moundigui
 Moundo
-Moundou, Mondou, Mondu, Moundu, مندو, موندو
+Moundou, Mondou, Mondu, Moundu, ماوندو, مندو
 Moundouli
 Moundoulou
 Moungalkasi
@@ -7602,6 +7600,7 @@ Mégren
 Méguéné, Mégéné
 Méguéné Bagaye, Mégéné Bagay
 Méguéné Ngolo, Mégéné Ngolo
+Mékab
 Mékabra, Mekabara
 Mékagué
 Mékam
@@ -7611,13 +7610,14 @@ Mékassem
 Mékon, Mekoun, Mekun, Mécoun
 Mélabada
 Mélasodé
-Méle, Mété
 Mélendjéta
 Méli
+Mélia
 Mélingué
 Méliérom
 Mélom
 Mélté
+Mélé, Mété
 Mélé Kafirom
 Méléko
 Méléli
@@ -7653,7 +7653,7 @@ Météma
 Métémetko, Metemenko
 Métémiti
 Méïkann, Maïcon, Maïkom, Meikan
-N'Djamena, Fort-Lamy, Injamīnā, Inǧamīnā, Lamy, Ndjemena, Niǧāmīnā, فور لامي, نجامينا
+N'Djamena, Fort-Lamy, Injamīnā, Inǧamīnā, Lamy, Ndjemena, Niǧāmīnā, أنجمينا, فور لامي
 N'Gouboua
 Naala
 Naara
@@ -7824,7 +7824,7 @@ Nelbirou
 Nema Nemasso
 Nembagré
 Nemguir
-Nergue
+Nergué
 Neringui
 Nessaba
 Neyedergué, Néyédergé
@@ -7899,7 +7899,6 @@ Ngirom Konkia, Ngirom
 Ngo
 Ngobo
 Ngodon, Gondon
-Ngoidé II, N'Gada, Ngaïdé
 Ngolio
 Ngolo
 Ngolofari
@@ -7934,6 +7933,7 @@ Ngousou, Ngousso, Ngoussou
 Ngouya
 Ngoyodgue, Ngoyodge
 Ngoïdé I
+Ngoïdé II, N'Gada, Ngaïdé
 Ngoïga
 Ngréa
 Nguendé
@@ -7991,7 +7991,6 @@ Niellim Saker
 Nielmo
 Niemmé
 Niemré
-Nierem
 Niergui
 Nietague, Nietage
 Niguélim, Nigélim
@@ -8020,6 +8019,7 @@ Nièlgué
 Niéguem
 Niéhiniagara
 Niéné
+Niérem
 Niéringa
 Niéré
 Niétimba
@@ -8438,7 +8438,7 @@ Ramga, Ranga
 Ramo
 Raméla
 Raouyané
-Ras el Fil
+Ras el Fîl
 Raska
 Raya
 Rayando
@@ -8475,7 +8475,6 @@ Rimélé, Aromeli, Khimeli
 Rimété
 Ritchié
 Rizé, Rizzé
-Ro
 Roaba
 Roal Kélib
 Robou
@@ -8484,8 +8483,8 @@ Robé Goré
 Rogorin
 Rogorokro, Rokrog, Rokrogo
 Rokap
-Rokeri
 Rokoum
+Rokéri
 Rombou
 Romekho, Romeko
 Rong, Roug
@@ -8529,6 +8528,7 @@ Rémélé
 Réria
 Rétio
 Révé
+Rô
 Rô Colli
 Rô Doketi
 Rô Man
@@ -8674,8 +8674,6 @@ Saédou
 Saïman
 Seaba
 Seezaraf
-Seheba
-Sehebay, Cehebaye
 Seidjanjaïti
 Seita Dankoutch
 Seita Danranga
@@ -8880,6 +8878,8 @@ Ségué
 Ségéri
 Ségétougo
 Séhep, Cehep
+Séhéba
+Séhébay, Cehebaye
 Séhébaya
 Sékiri
 Sékoua
@@ -9048,8 +9048,8 @@ Tatavérom
 Tatiné, تاتيني
 Tatogo
 Tawa
-Taweign
 Tawil
+Tawéign
 Tayia
 Tazéré, Tajéré
 Taéhon, Taéon
@@ -9255,12 +9255,12 @@ Timo
 Tin
 Tindiaye
 Tinding
-Tine
 Tiney, Tinaye, Tiney Doungous
 Tiney Am Chalakh
 Tingériné
 Tinia, Tigna
 Tinla
+Tiné
 Tiolo
 Tiolé Kabir
 Tiolé Sagher, Tiolé, Tiolé Sarher, Tole
@@ -9468,7 +9468,7 @@ Toutoubo
 Toutoula
 Touvou
 Touy, Touty
-Towéle
+Towélé
 Toéré
 Travo
 Troa Kitilé

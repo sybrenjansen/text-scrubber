@@ -429,7 +429,7 @@ Ag Téki
 Ag i-n-Leman, Ag In Leman
 Agaba, Aggaba
 Agabagèy
-Agadey
+Agadéy
 Agagorba
 Agalamgalam
 Agamatkoul
@@ -437,7 +437,6 @@ Agamor
 Agangara
 Agar Gor
 Agar-n-Adamous
-Agarak
 Agaralak
 Agarana
 Agaranguera, Agarangera, Argarangera
@@ -446,7 +445,6 @@ Agassar
 Agata
 Agator Abdourahman Ould el Rleli, Agatôr Abdourahmane Ould el Rleli
 Agator Bou Felta
-Agator Djouder, Agator Djoudder
 Agator Dokhno
 Agator Jakania
 Agator Nemel
@@ -454,8 +452,9 @@ Agator Nous, Agatôr Nouss
 Agator Nous Leghlal, Agator Nous Lerhlal, Agatôr Nouss Lerhlal, Laknal, Laknal Agator
 Agator Ouled Raïlan, Agator Oulad Raïlane, Ouled Raylan
 Agator el Feroua, El Feroua
-Agator el Gaïla, El Gaïla
 Agator el Gleib
+Agatôr Djouder, Agator Djoudder
+Agatôr el Gaïla, El Gaïla
 Agaz' Z' An
 Agaïtondi
 Agel Reuz
@@ -501,6 +500,7 @@ Aguidouel
 Aguilâl Sbot
 Aguinéléhé
 Aguélazi
+Agârak
 Agérmam
 Agézou, Aguézou
 Aha-Kak
@@ -900,12 +900,11 @@ Azanagar
 Azanko, Mont Asanko, Mont Assanko, Tables et Pitons Asanko
 Azaouagh
 Azaoueyouey
-Azaouâd, Azawadi, Azawād, أزواد‎
+Azaouâd, Azawad, Azawadi, أزاواد
 Azaralha
 Azawa
 Azawak, Axaouak, Azaouak, Azaouarh, Oued Azaouak, Vallée de l'Azaouak, Vallée de l'Azawak, Vallée de l'Azeouak
 Azaykoz
-Azegueur
 Azerem, Lazérem
 Azernaoual, Zernaouel
 Azerzi, Gora Azerzi
@@ -921,6 +920,7 @@ Azouz
 Azèy
 Azébab
 Azébagbag
+Azégueur
 Azél
 Aèld
 Aïfen Tadrok, Aifen Tadrek, Ayfen-Tadrek, Aïfene Tadrek, Effen Tadrak
@@ -1120,7 +1120,6 @@ Bedar, Beddar
 Beguene
 Beket, Bekett
 Bel el Sadio
-Belbel
 Belbelgoro
 Belel, Bebel
 Bella
@@ -1285,7 +1284,6 @@ Boussin
 Bouszibé Aneyda
 Boutak
 Boué Onda
-Boyandé
 Bozoni
 Boû Djébéha, Bou Djehiba
 Boû Ghabra, Borabra
@@ -1297,6 +1295,7 @@ Bwakari
 Bwaro
 Bwéiz
 Bâ
+Bèlbèl
 Bèlfou
 Bèndougou Koulou
 Bèr
@@ -1332,6 +1331,7 @@ Bîr es Salâm, Bir Salam
 Bôga
 Bôret el Méhafidh
 Bôret er Riad
+Bôyandé
 Cakana
 Calandiérí
 Canal Coste-Ongoïba
@@ -1349,13 +1349,13 @@ Cercle de Goundam, Goundam, Goundam Cercle, Gundamu
 Cercle de Kadiolo, Kadiolo
 Cercle de Kangaba, Kangaba
 Cercle de Macina, Macina, Másina
-Cercle de Ménaka, Ménaka
+Cercle de Ménaka, Menaka
 Cercle de Niono, Niono, Niono Cercle, Ɲɔnɔ
 Cercle de San, San
 Cercle de Tessalit, Tesaliti
 Cercle de Yanfolila, Yanfolila, Yanfolila Cercle
 Cercle de Yorosso, Yorosso, Yɔrɔso
-Cercle de Yélimané, Yelimani, Yélimané, Yélimané Cercle
+Cercle de Yélimané, Yelimane, Yelimani, Yélimané Cercle
 Chabbi, Shabbi
 Chabougane, Mont Chabougan, Mont Chabougane
 Chadio, Shadio
@@ -1636,8 +1636,8 @@ Dioulé
 Dioumou Ko
 Dioumoukolé
 Diounko
-Dire, Diré Cercle
 Diro
+Diré, Diré Cercle
 Dièndélinga
 Diébi
 Diédasso
@@ -1861,7 +1861,6 @@ Edehi
 Edeng
 Edi
 Edièf Tandeurdèn
-Edjerir, Edjerer, Edzherir, Eguerir, Oued Eguerir
 Edjerir-Oua-N-Tabarint, Eguerir Oua-n-Tabarint
 Edoutan
 Efardan
@@ -1896,7 +1895,7 @@ Ekez
 Ekia, Hékia
 Ekrar
 El 'Eroûg, Leroug
-El Abiod, Erg Abiod
+El Abiod, 'Erg Abiod
 El Aghlagh, El Arhlagh, El Arhlarh
 El Aria
 El Ariate
@@ -2058,7 +2057,7 @@ Erna
 Erna Arsèy
 Ernaki
 Erouakim
-Eroug
+Eroûg
 Errouye
 Ersan, Ersam, Ersann, Erséne, Irsan
 Ersane
@@ -2449,8 +2448,8 @@ Garou-Guindé
 Gasanbarokoulou
 Gasbatèn
 Gassa, Cassa, Gassa Bringue, Ngassa
-Gassel
 Gassi
+Gassél
 Gasèl
 Gasé
 Gatouf, Gatuf
@@ -2737,9 +2736,9 @@ I-n-Abadyé, In Abadyé
 I-n-Abaguen, I-n-Abaguene, In Abaguen
 I-n-Abakanmbak, In Abakanmbak
 I-n-Abalak, In Abalak
-I-n-Abaleha, In Abalena, In Abaléha, In Kabala, Inhabalah
 I-n-Abaleur, In Abaleur
 I-n-Abaloul, In Abaloul
+I-n-Abaléha, In Abaleha, In Abalena, In Kabala, Inhabalah
 I-n-Abanga, In Abanga
 I-n-Abano
 I-n-Abao, In Abao
@@ -2782,7 +2781,7 @@ I-n-Afedaghâne, I-n-Afedarhâne, In Afanaren, In Afedaran
 I-n-Afer, In Afer
 I-n-Afesto, Oued i-n-Afesto
 I-n-Aforhal, Nebket Afokal
-I-n-Aférer, In Aférer
+I-n-Aférèr, In Aférer
 I-n-Agamathoul, In Agamathoul
 I-n-Agar, In Agar
 I-n-Agarouf, In Agarouf
@@ -2799,7 +2798,6 @@ I-n-Ahalem
 I-n-Ahel, In Ahel
 I-n-Ahougha, In Ahourha
 I-n-Ahèz, In Ahèz
-I-n-Ais, Anou in Ais, In Aïs
 I-n-Ajim, In Ajim
 I-n-Ajjer, In Ajjer
 I-n-Akalafa, In Akalafa
@@ -2880,6 +2878,7 @@ I-n-Azrouf, In-Azruf
 I-n-Azzai, In Azai, In-Azzay
 I-n-Azèr
 I-n-Aèld, In Aèld
+I-n-Aïs, Anou In Ais, In Ais
 I-n-Badakane
 I-n-Badjissoutam, In Badjissoutam
 I-n-Bagan
@@ -2943,7 +2942,7 @@ I-n-Darane, In Daran
 I-n-Daroua, In Daraouane
 I-n-Denar, In Denar
 I-n-Deni, In Daïni
-I-n-Dersane, In-Dersan, Oued Indersan
+I-n-Dersane, In Dersan, Oued Indersan
 I-n-Deursan, In Deursan
 I-n-Deyli, In Deyli
 I-n-Diaman, In Diaman
@@ -2977,12 +2976,11 @@ I-n-Echaï, I-n-Echoi, In Echaïe, In-Eshaye, In-Etay
 I-n-Echoumad
 I-n-Echroutene
 I-n-Echèt
-I-n-Edbes, In Edbes
+I-n-Edbès, In Edbes
 I-n-Eddou, Mont I-n- Eddou
 I-n-Edek, In Edeq'
 I-n-Edes
 I-n-Edièd, In Edièd
-I-n-Edjéhin, I-n-Édjéhine, In Édjéhin
 I-n-Edok, Oued I-n-Edok
 I-n-Edèg
 I-n-Edèm
@@ -2996,7 +2994,6 @@ I-n-Eguiti, In Eguiti
 I-n-Egébi, In Egébi
 I-n-Ejaoud, In Ejaoud
 I-n-Ejji, In Ejji
-I-n-Ekar, In Ekkar, In Ékar, Inekari
 I-n-Ekian, In Ekian
 I-n-Ekli, Akli, I-n-Akli
 I-n-El Farat
@@ -3063,7 +3060,7 @@ I-n-Gandouten
 I-n-Gandoutene
 I-n-Gara, In Gara
 I-n-Garane
-I-n-Gariaten, In Gariatèn
+I-n-Gariatèn, In Gariaten
 I-n-Garo, In Garo
 I-n-Garren, In Garren
 I-n-Garrene, Igaren, Igharen, In Garine, In Garinn, In Garrene, In Ghazen
@@ -3198,7 +3195,7 @@ I-n-Oref, Anou in Oref, In-Oref
 I-n-Oreg
 I-n-Orfan, In Orfan
 I-n-Orfane, Inorfan
-I-n-Orhi, Gara in Ourhi, In Ourhi, In-Orehi
+I-n-Orhi, Gara in Ourhi, In Orehi, In Ourhi
 I-n-Ouachil
 I-n-Oualiatèn, In Oualiatèn
 I-n-Ouanan
@@ -3355,8 +3352,6 @@ I-n-Techak, In Techak, In Techeck, In Techekh, In Teckek
 I-n-Techerène, In Téchren, In-Teshren, Ine Techerène
 I-n-Tedeïni, I-n-Tédéni, In Tedeïni, In-Tideyni, Oued Tedeïni
 I-n-Tedjenane, In-Tedjenan, Iteguenan, Mont Iteguenane
-I-n-Tedouft, In Tedouf, In Tédouft
-I-n-Teferkit, In Tfirkit, Tafarkit
 I-n-Tefiniti, In Tefini, In Tefinit
 I-n-Tegant, In Tegant
 I-n-Teguenene
@@ -3430,7 +3425,9 @@ I-n-Tébélalt, In Tébélalt
 I-n-Téchek, In Téchek
 I-n-Tédan, In Tédan
 I-n-Téday Niwèn, In Téday Niwèn
+I-n-Tédouft, In Tedouf, In Tédouft
 I-n-Téfak, In Téfak
+I-n-Téferkit, In Tfirkit, Tafarkit
 I-n-Tégaré, In Tégaré
 I-n-Tégdédkou
 I-n-Téglal, In Téglal
@@ -3468,7 +3465,9 @@ I-n-e Debnâne, In Dabnane, Ine Debnâne
 I-n-Âbâlene, Abalen, In Abalen
 I-n-Ârabene, In-Araben
 I-n-Ébram, In Ébram
+I-n-Édjéhin, I-n-Édjéhine, In Edjéhin
 I-n-Éjarou, In Éjarou
+I-n-Ékar, In Ekkar, In Ékar, Inekari
 I-n-Étan, In Étan
 Iamé
 Iari
@@ -3497,7 +3496,7 @@ Ichartamak, Mount Ichartamak
 Icherroguia, Isherrogia
 Ichiaf Yarba
 Ichoanen, Ichoanene
-Ichourad, Achourat, Ishurad
+Ichoûrâd, Achourat, Ishurad
 Ichran
 Idbadararné
 Iderianene, Adrar Hadriane, Iderianem, Iderianen
@@ -3551,7 +3550,6 @@ Ijouniane, Idjounyan, Igounhan, Ijouhane, Ijoukane, Ijounhane, Ijounyan
 Ijâfene, Djafoun
 Ikaban, Ikabâne
 Ikarkaratèn
-Ikechman
 Ikelahene, Ikelahen
 Ikembarene, Icombaren, Ikembaren
 Ikemmedar, Ikemandar
@@ -3564,6 +3562,7 @@ Ikniouin
 Iknoun
 Iknéouan
 Ikoakene
+Ikéchman
 Ilahatan
 Ilambouta
 Ilaouien
@@ -3833,7 +3832,6 @@ Kel Oulli
 Kel Sidi Ali
 Kelantassar
 Kelsi
-Kenabougou, Kémabougou
 Kenay, Kennaye
 Kendel
 Kenieba Cercle
@@ -3944,7 +3942,6 @@ Kolandako
 Kolanga
 Kolanguel
 Kolaniénikourou
-Kole
 Kolen Kouré, Kolin Kouré
 Koli
 Koli-Koli
@@ -3968,6 +3965,7 @@ Kolonsirama
 Kolossa
 Kolou
 Koloédiako
+Kolè
 Kolè Koulou
 Kolèndako
 Kolédjibéléko
@@ -4175,6 +4173,7 @@ Kélesséré, Kélésérétomo
 Kélé Koulou
 Kélédiliko
 Kéméta Kourou
+Kénabougou, Kémabougou
 Kénié, Kégnébo
 Kénié Fouga
 Kéniéba
@@ -4229,7 +4228,6 @@ Laddé Soum
 Lafiabougou, Láfìyábugu
 Laga Koundiri
 Lahayana
-Lait Masgoula
 Lake Manantali
 Lake Sélingué
 Lalaba
@@ -4249,6 +4247,7 @@ Larig Teïla
 Larigue
 Latan
 Lawé
+Laït Masgoula
 Lbeuzia
 Leide
 Lembeïdir
@@ -4301,7 +4300,7 @@ M' bourourèye
 Ma'ta
 Maboto
 Mabroug
-Mabrouk, Mabruk
+Mabroûk, Mabruk
 Madina, Médiana
 Madina Guidé
 Madyégé
@@ -4712,7 +4711,6 @@ Nebket er Rzine
 Nebket et Tabal
 Nebkhet Achenkod
 Nelbal
-Nema
 Nfeïga
 Ngailé
 Ngala Djiri Fara
@@ -4837,6 +4835,7 @@ Nébkhet èl Talha, El Kaéla, Nebket el Kahala, Nebket et Talha
 Négué Zim
 Néguéré, Négéré
 Nélou
+Néma
 Néna
 Nérégou
 Odio
@@ -4958,8 +4957,8 @@ Oued I-n-Koussamene, Oued I-n-e Kousamène, Ued-in-Kuzamen
 Oued I-n-Tachit, Ued-in-Tashit
 Oued I-n-Tîrga, Ued-in-Tirga
 Oued Inis, Ued-Inis
-Oued Iridalene, Iridalen, Ued-Iridalen
 Oued Irolitene, Oued Iroliten
+Oued Irîdalene, Iridalen, Ued-Iridalen
 Oued Keleila
 Oued Maijilimé
 Oued Manguéta
@@ -5193,7 +5192,7 @@ Rouwara
 Roy
 Rozatreïs
 Rás Itkouroun
-Râs el Fil
+Râs el Fîl
 Réguenda
 Réserve Temporaire de Faune d'Ansongo-Ménaka
 Sababangou
@@ -5554,8 +5553,8 @@ Tabora
 Taborak
 Taborchat
 Tabou Kourou
-Tabourak, Teborak, Teboûrak
 Taboûragh
+Taboûrak, Teborak, Teboûrak
 Tabrichat, Tabrishat
 Tabéliat
 Tachanak
@@ -5584,7 +5583,6 @@ Tadjem, Tadjemme
 Tadjibart
 Tadjikallen
 Tadjindjer
-Tadjit, Tagit
 Tadjit-n-Ouerâne, Mont Tagit-n-Ouaran, Tagit N-Oueran
 Tadjnout, Tadzhnut
 Tadoualem
@@ -5622,7 +5620,7 @@ Tagalalt Daybanga
 Tagalankat
 Tagalat
 Tagalel Lawat
-Tagalelt
+Tagalèlt
 Tagan-Tagan
 Taganasitin, Taganasilin, Taganassiline
 Taganénou
@@ -5800,9 +5798,9 @@ Tanaïgous, Tanaïgouss
 Tanbaoura, Falaise de Tambaoura
 Tanda, Lac Tanda, Lac Tenda, Lac Tendo
 Tandarmi Tondo
-Tanderiouel
 Tandiouin, Tandiouine
 Tandoust
+Tandériouel
 Taneszeifa
 Tanetfert
 Tanezrouft, Tanezruft
@@ -5822,7 +5820,7 @@ Taoualat
 Taouarachit, Pitons de Tourachid, Taouarachid
 Taouarouart
 Taouchafet
-Taoudénit Region, Taoudenni, Taoudéni, Taoudénit, Taudeni Dineja, Tawudeni, تودني, تَوْدِنّي, منطقة تودني
+Taoudénit Region, Taoudenni, Taoudéni, Taoudénit, Taudeni Dineja, Tawudeni, تاودني, تَوْدِنّي, منطقة تودني
 Taouiouelt
 Taoulilèt
 Taoulloust, Tabullous, Taoullous, Taullust
@@ -5995,7 +5993,7 @@ Tayert el Harik
 Tayert el Kétéha
 Tayert et Tarounanet
 Taylatin
-Taylelt
+Taylèlt
 Taymirit
 Tayâret Seheb
 Tazadit, Tazadite
@@ -6084,7 +6082,6 @@ Tennko, Tenko
 Teraouîne, Monts Terouin, Monts Terouine
 Teratrar
 Terdederine, Terdederin
-Terecht
 Tereressene, Tereressen
 Terich
 Terz Ikechchenen, Terz-Ikechchenene, Terz-Ikeshshenen
@@ -6143,7 +6140,7 @@ Ti-n-Abao, Tin Abao
 Ti-n-Abarbal, Tin Abarbal
 Ti-n-Abaroum, Tin Abaroum
 Ti-n-Abdoul Maji
-Ti-n-Abelbel, Tin Abelbel
+Ti-n-Abelbèl, Tin Abelbel
 Ti-n-Abora, Tin Abora
 Ti-n-Aboro, Tin Aboro
 Ti-n-Abou Mahammad, Ti-n-Abou Mahamad
@@ -6290,7 +6287,7 @@ Ti-n-Arouleh
 Ti-n-Assaguid, Ti-n-Asaguid, Tin Assamd
 Ti-n-Assamert
 Ti-n-Assaou, Tin-Assaou
-Ti-n-Assarer
+Ti-n-Assarèr
 Ti-n-Asselâk, Tin Essalag, Tin Essalak, Tin Esselag
 Ti-n-Asseyfi
 Ti-n-Assolmi, Tin Assolmi
@@ -6471,7 +6468,6 @@ Ti-n-Etissane, Ti-n-Ethisane, Tin Ethisan, Tin Ethissane, Tin Etisan
 Ti-n-Ez Znaï, Tin ez Znaï
 Ti-n-Ezemane, Tin Ezeman
 Ti-n-Ezédan, Ti-n-Ezédane, Tin Ezédan
-Ti-n-Fadimata, Tin Eardimati, Tin Fadimata
 Ti-n-Fadé, Tin Fadé
 Ti-n-Fagagan, Tin Fagagan
 Ti-n-Fagaguen, Tin Fagaguen
@@ -6486,6 +6482,7 @@ Ti-n-Fidina, Tin Fidina
 Ti-n-Fissaouatene, Fissaouaten, Tin Fissaouaten
 Ti-n-Foraka
 Ti-n-Foz Foz, Tin Foz Foz
+Ti-n-Fâdîmata, Tin Eardimati, Tin Fadimata
 Ti-n-Fâta
 Ti-n-Féindes, Tin Féindes
 Ti-n-Fîlalene
@@ -6503,7 +6500,7 @@ Ti-n-Ghayten, Tin Rhayten
 Ti-n-Gheideno
 Ti-n-Gheidono
 Ti-n-Gheïdene, Ti-n-Rheïdene, Tin Reïden
-Ti-n-Ghâmir, Anou Tan Aramir, Tan Aramir, Ti-n-Rhâmir, Tin Arami, Tin Aramir, Tin-Ramir, Tin-Ramur
+Ti-n-Ghâmir, An Tan Aramir, Anou Tan Aramir, Ti-n-Rhâmir, Tin Arami, Tin Aramir, Tin-Ramir, Tin-Ramur
 Ti-n-Ghâmoūch, Ti-n-Rammouch, Tin Rammouk, Tin Ramouch
 Ti-n-Goménèn, Tin Goménèn
 Ti-n-Goubarian, Tin Goubarian
@@ -6598,7 +6595,7 @@ Ti-n-Moussa
 Ti-n-Médran, Tin Médran
 Ti-n-Médrane
 Ti-n-Mézazrin, Ti-n-Mézazrine
-Ti-n-Nafiren, Ti-n-Nafirene, Tin Nafirèn
+Ti-n-Nafirèn, Ti-n-Nafirene, Tin Nafiren
 Ti-n-Nassarer, Tin Nassarer
 Ti-n-Natiane, Tin Natian
 Ti-n-Natèn
@@ -6662,7 +6659,7 @@ Ti-n-Sataf, Tin Sataf
 Ti-n-Seyed, Tin-Seed
 Ti-n-Siban, Tin Siban
 Ti-n-Sida, Tin Sida
-Ti-n-Sinana, Tin Sinâna
+Ti-n-Sinâna, Tin Sinana
 Ti-n-Siriden, Tin Siriden
 Ti-n-Sookoran
 Ti-n-Sorteni
@@ -6681,13 +6678,13 @@ Ti-n-Tabalak, Tin Tabalak
 Ti-n-Tabalet
 Ti-n-Tabit, Tin Tabit
 Ti-n-Tabora
-Ti-n-Taborak, Tin Taborak
 Ti-n-Taboran
 Ti-n-Taborar, Tin Taborar
 Ti-n-Taborarh
 Ti-n-Taborari, Tin Taborari
-Ti-n-Tabourak, Ti-n-Tebôrak, Tin Teborak, Tin Tebourak, Tin-Taburak
+Ti-n-Taboûrak, Ti-n-Tebôrak, Tin Teborak, Tin Tebourak, Tin-Taburak
 Ti-n-Tabèrim
+Ti-n-Tabôrak, Tin Taborak
 Ti-n-Tachouri, Tin Tachouri
 Ti-n-Tachélin
 Ti-n-Tadamit
@@ -6772,7 +6769,6 @@ Ti-n-Taïchar
 Ti-n-Taïlout, Mont Tintelout
 Ti-n-Tbouraghine, Ti-n-Tbourarhine
 Ti-n-Tbourarine, Tin Tbourarin
-Ti-n-Techak, Tin Téchak
 Ti-n-Techara
 Ti-n-Tedekou
 Ti-n-Tedemit
@@ -6782,7 +6778,6 @@ Ti-n-Tegalatin, Tin Tegalatin
 Ti-n-Teggart, Tidegal
 Ti-n-Teguer
 Ti-n-Teguilit
-Ti-n-Tehoun, Tin Choum, Tin Tchoun, Tin Tehount, Tin Téhoun, Titehoun
 Ti-n-Teidirin, Ti-n-Teïdirine, Tin Teidirin
 Ti-n-Tekrikara
 Ti-n-Teladine
@@ -6839,12 +6834,14 @@ Ti-n-Tsaralé
 Ti-n-Tsararen
 Ti-n-Târabîne, Ti-n-Tabarine, Tin Tabarin
 Ti-n-Tèychort, Ti-n-Teïchort, Tin Tèychort
+Ti-n-Téchak, Tin Téchak
 Ti-n-Téchok
 Ti-n-Téchori, Mont ti-n-Téchori, Mont tin Techari
 Ti-n-Téchèk, Tin Téchèk
 Ti-n-Téchèrt
 Ti-n-Tédiérèrt
 Ti-n-Tégrin, Tin Tégrin
+Ti-n-Téhoun, Tin Choum, Tin Tchoun, Tin Tehount, Tin Téhoun, Titehoun
 Ti-n-Tékouffé, Tékouffé
 Ti-n-Tékèndèm
 Ti-n-Téladeurzèn, Tin Téladeurzèn
@@ -6994,7 +6991,6 @@ Tilamdiata
 Tilasséki
 Tilawati
 Tilda Adora
-Tilemsi, Tilemusi
 Tilemsour, Tilemsur
 Tilikan
 Tilimmas
@@ -7102,7 +7098,7 @@ Tiridoué
 Tirikene, Tiriken
 Tiriki
 Tirikifi
-Tirikine, Tirikin
+Tirikîne, Tirikin
 Tirimissi
 Tirist
 Tirkine, Tirkin
@@ -7303,6 +7299,7 @@ Tyènfinako
 Tyéléména
 Tyémanko
 Tyétikila
+Tâdjit, Tagit
 Tâmaya
 Tâmôurit
 Tâyert Agueïdât el Hamir
@@ -7375,6 +7372,7 @@ Térasan
 Térem
 Térichit
 Térosadé
+Térècht
 Téré
 Térékolé, Térékholé
 Térérissine
@@ -7394,6 +7392,7 @@ Tîchilât Loulouz
 Tîchilît Angara
 Tîchilît Kabré
 Tîchilît Mbarak, Tichlit Mbarek, Tichlit Mborek
+Tîlemsi, Tilemusi
 Tîz Klaz
 Umm-Tedzhedit
 Valinkourou
@@ -7402,7 +7401,7 @@ Vallée de Gabougorou
 Vallée de L'Asakarè
 Vallée de l'Ahzar, Ahzar, Azar, Vallée de l'Azar
 Vallée du Serpent
-Vallée du Tilemsi, Dolina Tilemsi, Tilemusi
+Vallée du Tîlemsi, Dolina Tilemsi, Tilemusi
 Vandou Yongaté, Vèndou Yongaté
 Vangaréta Bangué Almara
 Vhar
@@ -7563,6 +7562,7 @@ Zézéra
 Âguelal Kaouelene, Aguelal-Kaouelen
 Âguelal Mellene, Aguelal-Mellen
 Ânou Mellene, Amou Melen, Anou Melen, Anou Nellène, Anu-Mellen
+Édjérir, Edjerer, Edzherir, Eguerir, Oued Eguerir
 Édjérir-Nord
 Éfal
 Éfaynasik

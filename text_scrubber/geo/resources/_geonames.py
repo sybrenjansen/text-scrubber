@@ -12,6 +12,7 @@
 
 import argparse
 import os
+import re
 import unicodedata
 from functools import partial, reduce
 from typing import Callable, Dict, List, Tuple
@@ -27,6 +28,8 @@ try:
 except ImportError:
     WorkerPool = None
     MPIRE_AVAILABLE = False
+
+RE_ALPHA = re.compile(r'[a-zA-Z]')
 
 
 def process_country(filename: str, work_dir: str, save_dir_cities: str, save_dir_regions: str,
@@ -126,9 +129,10 @@ def add_alternate_names(work_dir: str, df_cities: pd.DataFrame, df_regions: pd.D
     # Only retain useful and unique alternative names. Note that only the dominant languages up to English are taken
     # into account. This is a proxy for determining the domestic languages. We also take into account the rows without
     # known language (empty string) and the corresponding country code, as it has proven to be useful
-    dominant_languages = [lang for lang, _ in sorted(df_alt.isolanguage.value_counts().items(),
-                                                     key=lambda tup: -tup[1]) if len(lang) == 2]
-    dominant_languages = set(dominant_languages[:dominant_languages.index('en') + 1])
+    language_counts = df_alt.isolanguage.value_counts()
+    threshold = language_counts.loc['en']
+    dominant_languages = language_counts[language_counts >= threshold].index
+    dominant_languages = {lang for lang in dominant_languages if len(lang) == 2}
     if len(dominant_languages) == 1:
         dominant_languages.add(filename[:2].lower())
     dominant_languages.update({'', 'abbr'})
@@ -187,8 +191,29 @@ def remove_duplicates(df: pd.DataFrame) -> pd.DataFrame:
 
     # Combine names based on equal ascii name. Again, when rows are merged we take the union of alternate names
     df = df.groupby('asciiname')[['name', 'alternate name']].agg(
-        {'name': 'first', 'alternate name': union_func}
+        {'name': lambda x: x.unique(), 'alternate name': union_func}
     ).reset_index()
+
+    def process_multiple_names(row):
+        """
+        Does nothing if the name is already a string. However, in the other case where it's a list of strings we
+        determine which variant has the most non-ascii characters and return that one. E.g., [Chenet, Chênet] -> Chênet.
+        If there's a tie, we select the longest one. E.g. [Etten, Etten-Leur] -> Etten-Leur. If there's still a tie,
+        sort and return the first one. The other name is added to the alternate names. If they are similar after `
+        clean_city`, they will be removed when saving the names to file.
+        """
+        if isinstance(row['name'], str):
+            return pd.Series([row['name'], row['alternate name']])
+        names = sorted(((len(RE_ALPHA.sub('', name)), len(name), name) for name in row['name']),
+                       key=lambda tup: (-tup[0], -tup[1], tup[2]))
+        name = names[0][2]
+        other_alternate_names = {name for _, _, name in names[1:]}
+        return pd.Series([name, row['alternate name'] | other_alternate_names])
+
+    # Choose the name with the most non-ascii characters. It doesn't really matter which one we choose, though. This
+    # just looks prettier
+    if len(df):
+        df[['name', 'alternate name']] = df.apply(process_multiple_names, axis=1)
 
     # Drop columns that are no longer of interest and sort
     df = df.drop(['asciiname'], axis=1)
@@ -218,7 +243,7 @@ def save_file(df: pd.DataFrame, save_dir: str, filename: str, manual_alternate_n
 
             # Add alternate names
             if not pd.isna(row[2]):
-                for alternate_name in row[2]:
+                for alternate_name in sorted(row[2]):
                     cleaned_alternate_name = clean_func(alternate_name)
                     if cleaned_alternate_name not in skip_alternate_names:
                         alternate_names.append(alternate_name)
@@ -261,8 +286,8 @@ def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None
     process_country_func = partial(process_country, work_dir=geonames_dir, save_dir_cities=save_dir_cities,
                                    save_dir_regions=save_dir_regions, manual_alternate_names=manual_alternate_names)
     if MPIRE_AVAILABLE:
-        with WorkerPool() as pool:
-            pool.map_unordered(process_country_func, filenames, progress_bar=True)
+        with WorkerPool(n_jobs=4) as pool:
+            pool.map_unordered(process_country_func, filenames, chunk_size=1, progress_bar=True)
     else:
         for filename in tqdm(filenames):
             process_country_func(filename)

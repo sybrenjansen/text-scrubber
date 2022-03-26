@@ -306,7 +306,7 @@ Auvainen, Auvais
 Auvaismäki
 Auvi
 Auvila, Aumila Farm
-Avveel-Matti, Ivalon-Matti
+Avveel-Matti, Ivalon Matti
 Back
 Backa
 Backas
@@ -319,7 +319,6 @@ Baggböle
 Bakhag
 Barkamo
 Barösund, Barö, Barösundsfjärd
-Basaböle
 Bast
 Bastö
 Bemböle
@@ -461,6 +460,7 @@ Bäckäng
 Bällby
 Bärs
 Båsa
+Båsaböle
 Båskgårdarna
 Båtgrund
 Båthusen
@@ -648,7 +648,7 @@ Finnholmen
 Finninkylä
 Finnsbacka
 Finnäs
-Finnö, Einnö
+Finnö, Einno
 Finpyy
 Finsjö
 Fiskars, Fiskari
@@ -2356,7 +2356,6 @@ Kalasar
 Kalastajakylä, Fiskarbyn
 Kalaton
 Kalavastinki
-Kalax, Kalaks
 Kaldnäs
 Kalela
 Kalettomaa
@@ -3996,7 +3995,7 @@ Källa
 Källarbottnen
 Källmossen, Källmossa
 Källviken
-Kälviä, Kelviå, Kyal'viya
+Kälviä, Kelvia, Kyal'viya
 Kälviäinen
 Kälviälä
 Kälä
@@ -4067,6 +4066,7 @@ Kääriälä
 Käärmelahti
 Käävänkylä, Kääpä
 Kåddböle
+Kålax, Kalaks
 Kållby, Kolppi
 Kårböle
 Kårkulla
@@ -4262,7 +4262,7 @@ Lapparla
 Lappeenranta, Lappeenrannan Kaupunki, Lappeenrannan seutukunta, Lappenranta, Villmanstrand, Villmanstrands Stad
 Lappers
 Lappetelä
-Lappfjärd, Lappfied, Lapväärtti
+Lappfjärd, (( Lapväärtti )), Lappfied
 Lappfors, Ala-Lappfors, Nederlappfors
 Lappi
 Lappijoki
@@ -5933,7 +5933,7 @@ Oitti
 Oittila
 Oivanki
 Oivonoja
-Oivu, Åivo
+Oivu, Äivo
 Oja-Matti
 Ojainen
 Ojajärvi
@@ -6359,7 +6359,7 @@ Paxal
 Pedar
 Pedarsändan
 Pederså
-Pedersöre, Pedersöre Kommun, Pedersören kunta, Pietarsaaren Maalaiskunta, Pietarsaaren Pitäjä, Pietarsaari
+Pedersöre, Pedersöre Kommun, Pedersören Kunta, Pietarsaaren Maalaiskunta, Pietarsaaren Pitäjä, Pietarsaari
 Pehkolanlahti, Pehkola, Pehkolahlahti
 Pehkolanniemi
 Pehkuranta
@@ -9589,7 +9589,7 @@ Valtola
 Valvatti, Valvatinniemi
 Vammala
 Vampula, Vambula
-Vanaja, Vånå
+Vanaja, Vana
 Vanattara
 Vanha Karigasniemi, Karigasnjarga
 Vanha-Kaija

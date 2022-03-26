@@ -2122,7 +2122,7 @@ Caldeira Rasa
 Caldeira Seca, Caldeira Secca
 Caldeira das Sete Cidades, Caldeira das Sete
 Caldeira de Guilherme Moniz, Caldeira de Guilherme Monax
-Caldeira de Santa Barbara
+Caldeira de Santa Bárbara
 Caldeira do Alferes
 Caldeira do Inferno
 Caldeirinhas
@@ -2839,7 +2839,7 @@ Costa de Alvados
 Costa de Lisboa
 Costa de Minde
 Costa de Pena
-Costa de Prata, Silver coast
+Costa de Prata, Silver Coast
 Costa de Roriz
 Costa de Sago
 Costa del Algarve, Coast of Algarve
@@ -3686,10 +3686,8 @@ Ilheu Grande
 Ilheu Joao Martins
 Ilheu Negro
 Ilheu Pequenho
-Ilheu Redondo
 Ilheu Sinho
 Ilheu de Alvaro Rodrigues
-Ilheu de Fora, Fora Island, Fora Islet, Ilheu do Farol, Little Piton Island, Rocha de Nordeste
 Ilheu do Bufo
 Ilheu do Sul
 Ilheus do Norte
@@ -3707,6 +3705,7 @@ Ilhéu Em-Pé
 Ilhéu Escamirro
 Ilhéu Garajau
 Ilhéu Mole
+Ilhéu Redondo
 Ilhéu da Fonte da Areia
 Ilhéu da Maria Gadelha, Gadella Island, Ilhéu da Maria Vaz
 Ilhéu da Mina
@@ -3723,6 +3722,7 @@ Ilhéu das Mocas
 Ilhéu de Baixo, Cal Islet, Ilhéo da Cal, Ilhéu da Cal
 Ilhéu de Cima, Ilhéo dos Dragoeiros
 Ilhéu de Ferro
+Ilhéu de Fora, Fora Island, Fora Islet, Ilheu do Farol, Little Piton Island, Rocha de Nordeste
 Ilhéu de São Jorge
 Ilhéu de São Lourenço, Ilhéu do Romeiro
 Ilhéu de Vila Franca, Ilha da Vila, Villa Franca
@@ -4278,11 +4278,11 @@ Louriçal
 Louriçal do Campo
 Louro
 Lourosa
-Lousa, Lousã Municipality
 Lousada, Lousada Municipality
 Lousada (Santa Margarida)
 Lousada (São Miguel)
 Lousado
+Lousã, Lousã Municipality
 Lovelhe
 Lufrei
 Lumiar
@@ -4315,9 +4315,9 @@ Macinhata do Vouga
 Madail
 Madalena, Madalena Municipality
 Madalena do Mar
-Madeira, Autonomous Region of Madeira, Região Autónoma da Madeira
 Madeira Islands, Arquipélago da Madeira
 Madeira Theme Park
+Madeirã, Autonomous Region of Madeira, Região Autónoma da Madeira
 Mafamude
 Mafra, Mafra Municipality
 Magikland
@@ -4435,7 +4435,6 @@ Maçãs de Dona Maria
 Meadela
 Mealhada, Mealhada Municipality
 Meca
-Meda, Mêda Municipality
 Meda de Mouros
 Medas
 Medelim
@@ -4723,9 +4722,9 @@ Mortágua, Mortágua Municipality
 Moscavide
 Mosquito
 Mosteirinho
-Mosteiro
 Mosteiro de Fráguas
 Mosteiros
+Mosteiró
 Mouchão Parque
 Mouchão da Casa Branca
 Mouchão da Póvoa
@@ -4768,6 +4767,7 @@ Muxagata
 Mário De Sousa Ferreira
 Mártires
 Mértola, Mértola Municipality
+Mêda, Mêda Municipality
 Mós
 Mões
 Múrias
@@ -4984,10 +4984,10 @@ Pampilhosa
 Pampilhosa da Serra, Pampilhosa da Serra Municipality
 Panascoso
 Panchorra
-Panoias
 Panoias de Cima
 Panorâmico Aquaparque
 Panque
+Panóias
 Papízios
 Parada
 Parada de Cunhos
@@ -5283,7 +5283,6 @@ Paulo Laureano Vinus
 Paus
 Pavia
 Pavilhão Desportivo Carlos Lopes
-Paço
 Paço Vedro de Magalhães
 Paço de Arcos
 Paço de Sousa
@@ -5293,6 +5292,7 @@ Paços de Brandão
 Paços de Ferreira, Paços de Ferreira Municipality
 Paços de Gaiolo
 Paços de Vilharigues
+Paçó
 Paúl do Mar
 Pechão
 Pedome
@@ -5848,7 +5848,7 @@ Ponta de Santa Bárbara
 Ponta de Santa Catarina
 Ponta de Santa Marta
 Ponta de Santana
-Ponta de Santo Antonio
+Ponta de Santo António
 Ponta de São Brás, Ponta de São Braz
 Ponta de São Fernando
 Ponta de São Jorge, Ponta São Jorga
@@ -7551,8 +7551,8 @@ Ribeira das Romanas
 Ribeira das Ruivas
 Ribeira das Seis
 Ribeira das Sentieiras
-Ribeira das Tainhas
 Ribeira das Tapadas
+Ribeira das Taínhas
 Ribeira das Toirinhas
 Ribeira das Travessas
 Ribeira das Trutas
@@ -9641,8 +9641,8 @@ Roída da Praia
 Rua
 Rubiães
 Ruilhe
-Ruivos
 Ruivães
+Ruivós
 Runa
 Ruvina
 Río Manzanas, Rio Maçãs
@@ -10020,8 +10020,8 @@ Serra da Laje, Serra da Lage
 Serra da Lama Longa
 Serra da Lapa
 Serra da Lomba
-Serra da Lousa, Serra de Louza
 Serra da Lousada
+Serra da Lousã, Serra de Louza
 Serra da Lua
 Serra da Malefa
 Serra da Marofa
@@ -10050,7 +10050,7 @@ Serra da Piedade
 Serra da Portela
 Serra da Prata
 Serra da Póvoa
-Serra da Quinta
+Serra da Quintã
 Serra da Raiva
 Serra da Rasca
 Serra da Ribeira
@@ -10771,7 +10771,7 @@ Travanca de Tavares
 Travanca do Mondego
 Travancas
 Travancinha
-Travassos
+Travassós
 Travassô
 Tregosa
 Treixedo

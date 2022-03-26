@@ -704,7 +704,6 @@ Campo Alegre, Pampa Alegre
 Campo Nuevo, Batey Campo Nuevo
 Camunguí
 Camú
-Cana
 Cana Bonita
 Cana Caimito
 Cana Chapetón
@@ -816,6 +815,7 @@ Cayetano Germosén, Cayetano Bermosen, Gayetano Germosen, Villa de Cayetano Germ
 Cayucal de La Antonia, Cayúcal, Cañucal
 Cayuco, Coyuco, El Cayuco
 Cazuela
+Caña
 Caña Andrés, Cañada Andrés
 Caña Brava
 Caña Félix, Caña Felez
@@ -854,7 +854,7 @@ Cañada del Cacao Abajo, Cañada del Cacao
 Cañada del Cacao Arriba, Cañada del Cacao
 Cañada del Caimito
 Cañafistol, Cañafistal, Cañafisto, El Cañafistol
-Cañafístola, Cañafístolo, Cañafístula, La Canafistola
+Cañafístola, Cañafistula, Cañafístolo, La Canafistola
 Cañaveral
 Cañeo, Cañero
 Caño Abajo, Caño Abaja
@@ -1671,7 +1671,6 @@ El Retiro
 El Rifle
 El Rincón
 El Rincón Abajo
-El Rio
 El Riíto, El Rito
 El Rodeo, El Rode
 El Rosalito, Rosalito
@@ -1680,6 +1679,7 @@ El Rubio
 El Rucio, Rucio
 El Rucio Abajo
 El Ruiseñor
+El Río
 El Río Arriba
 El Sabroso
 El Saladillo, Saladillo
@@ -1982,9 +1982,9 @@ Higo Prieto, Batey Higo Prieto
 Higo Tablañú, Higo Tablaño
 Higo de Agua, Higo del Agua
 Higos Claros
-Higua
 Higuamo
 Higuamo Uno, Higuamo Número 1
+Higuá
 Higüera Abajo, La Higera Abajo
 Higüeral
 Higüereta
@@ -2309,7 +2309,6 @@ La Caguaza
 La Calabaza
 La Calaverna, Calavera, La Calavera
 La Caleta, La Galeta
-La Cana
 La Canastica
 La Candelaria
 La Canela, Canela
@@ -2330,6 +2329,7 @@ La Catorce, Batey Catorce, Las Catorce
 La Caya
 La Cayota, Cayota
 La Caída
+La Caña
 La Cañada
 La Cañada de la Palma
 La Cañita
@@ -2896,13 +2896,13 @@ Las Cabirmas, Las Cabilmas
 Las Cabuyas, Las Cabullas, Las Cubuyas, Los Cabuyas
 Las Calderas
 Las Callas
-Las Canas
 Las Caobas, Los Caobos
 Las Caobas Adentro
 Las Carreras, Los Carreras
 Las Carreras Abajo
 Las Cayas, Las Calles
 Las Cañadas
+Las Cañas
 Las Cañitas, La Cañitas
 Las Ceibas de las Pocilgas, Seyba de la Pocilga
 Las Cejas
@@ -2999,7 +2999,6 @@ Las Siete Cañadas
 Las Sorias, Los Sorias
 Las Tablas
 Las Tablitas
-Las Taranas, Batey La Tarana, La Tarana, Tarana, Taranas, Tas Taranas
 Las Tejas, Tejas
 Las Terrenas, La Terenas, Las Terenas, Laterriena, Terrenas
 Las Terreras, Terrenas, Terreras
@@ -3016,6 +3015,7 @@ Las Tres Palmas, Tres Palmas
 Las Tres Veredas, Tres Veredas
 Las Tumbas, Batey Tumba
 Las Tunas
+Las Táranas, Batey La Tarana, La Tarana, Tarana, Taranas, Tas Taranas
 Las Uvas
 Las Uvitas, La Uvita
 Las Yaguas
@@ -4153,7 +4153,7 @@ Pulgarín
 Pulido
 Punta
 Punta Balandra, Balandra
-Punta Cana
+Punta Caña
 Punta Gorda
 Punta Larga
 Punta Rucia

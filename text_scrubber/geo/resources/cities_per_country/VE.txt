@@ -39,7 +39,7 @@ Agua Clara, Aqua Clara
 Agua Clarita
 Agua Colorada
 Agua Dulce
-Agua Fria, Agua Fría Abajo
+Agua Fría, Agua Fría Abajo
 Agua Fría Arriba
 Agua Grande
 Agua Hedionda
@@ -264,11 +264,11 @@ Araguabisi
 Araguaimujo, Misión Araguaimujo, Misión de Araguaimujo
 Araguao
 Araguata
-Araguita
 Araguita Abajo, Araguito Abajo
 Araguita Arriba
 Araguán
 Aragüeños
+Aragüita
 Araibel
 Araica
 Araira, Colonia Bolívar
@@ -455,7 +455,6 @@ Banco las Piñas
 Bancos de San Pedro
 Bancos del Boral
 Banderita
-Baquira
 Barabaguite
 Baracharo, Varachar
 Baragua
@@ -528,11 +527,11 @@ Barrio San José
 Barrio Ziruma, Ziruma
 Barro Negro
 Bartolome de Las Casas
-Barua
 Baruche
 Barunú
 Baruta, Nuestra Señora del Rosario de Baruta
 Barutal
+Barúa
 Baschi
 Bastardero
 Bastian
@@ -554,7 +553,6 @@ Bejuco
 Bejuma
 Bejuquero, Bejuguero
 Belatoz
-Belen
 Belencito
 Belenero
 Bella Vista
@@ -563,6 +561,7 @@ Bellas Flores
 Bellavista
 Bello Monte
 Bellorín
+Belén
 Benjaminera
 Beramacho, Beremacho
 Bereboro
@@ -701,8 +700,8 @@ Bocare
 Bocas Las Doradas, Boca de Doradar, Boca de Doradas
 Bochinche
 Bocomboquito
-Bocono
 Boconoito
+Boconó
 Bocore
 Bocoy
 Bocón
@@ -713,9 +712,9 @@ Bojadal
 Bojotoy
 Bojó
 Boliva
-Bolivar
 Bolivia
 Bolivita
+Bolívar
 Bongo
 Bonilla
 Boniquea
@@ -781,11 +780,11 @@ Bruzual
 Bruzualito
 Buacimal
 Bucara, El Bucaro
-Bucaral
 Bucaralito
 Bucares
 Bucarito, Bucarilto
 Bucaritos
+Bucarál
 Buchal
 Buchi
 Buchivacoa
@@ -810,17 +809,18 @@ Burgua Arriba
 Burguillos
 Burgüita Abajo
 Burgüita Arriba
-Buria
 Buriquí, Boriquí
 Buroquia
 Burro Blanco
 Burro Negro
 Buruica
+Buría
 Buría de Londres
 Buscatera
 Butaque
 Butare
 Báez
+Báquira
 Bárbula
 Cabadisocaña
 Caballape, Caballupe
@@ -893,7 +893,7 @@ Caico Seco
 Caidi, Caidie, Caidio
 Caidie Abajo
 Caigua
-Caiguire
+Caigüire
 Caimancito
 Caimare Chico
 Caimital
@@ -1105,7 +1105,7 @@ Capaya, Capalla, San Antonio de Capaya
 Capayita
 Capazón
 Capazón Arriba
-Capellania
+Capellanía
 Capiantar
 Capibara, Capihuara
 Capilla Virgen del Pilar
@@ -1142,8 +1142,8 @@ Caracas
 Caracatal de Buja
 Carache
 Caracol
-Caracoli
 Caracolito
+Caracolí
 Caracubana
 Caradocagua, Cardacagua, Cardacua
 Caraipía
@@ -1393,8 +1393,8 @@ Cañada Avileña
 Cañada Cerrada
 Cañada Honda
 Cañadote
-Cañafistola
 Cañafistolar
+Cañafístola
 Cañaita
 Cañaote, Canote Tristireño, Cañaote Tristireño
 Cañaveral, Capaneral, Cañaverales
@@ -1442,7 +1442,6 @@ Caño Los Patos
 Caño Machado
 Caño Macho
 Caño Marcelino
-Caño Mendez
 Caño Mocho, Caro Macho
 Caño Montoso
 Caño Morado
@@ -1450,6 +1449,7 @@ Caño Moro
 Caño Morroncito
 Caño Muerto, Coloncha
 Caño Mánamo
+Caño Méndez
 Caño Negro
 Caño Oropito
 Caño Raya
@@ -1693,7 +1693,7 @@ Chupaquire, Chupaguire
 Chuparin
 Chuparipal
 Chuponal
-Chupulun
+Chupulún
 Chupururo
 Churuapo
 Churuata de Don Juan
@@ -1918,11 +1918,11 @@ Cotiza
 Cotoperiz
 Cotoperí, Cotopericito
 Cotopriz
-Cotua
+Cotúa
 Coyire, Poyire
 Coyobo
-Cristobal
 Cristobero
+Cristóbal
 Cropapa, Cropata, Oropopo
 Crucecita, Crucesita
 Crucero Las Majadas
@@ -1976,7 +1976,6 @@ Cucurital, Ruruaña
 Cucurital de Parguaza
 Cucurito
 Cucurucho
-Cucuta
 Cuencas, Cuences
 Cuesta Abajo
 Cuesta Blanca
@@ -2119,6 +2118,7 @@ Cuzi
 Cía Texas
 Córdoba
 Cúa
+Cúcuta
 Cúpira
 Dabajuro
 Damuncito
@@ -2204,7 +2204,6 @@ El Aguacate
 El Aguardiente
 El Aguasal, Aguasal, El Aguaisal, El Aguarsal
 El Aguatico
-El Aguila, Hacienda El Aguila
 El Aisme
 El Ajal
 El Ajicito
@@ -2305,9 +2304,9 @@ El Batatal, Batalal
 El Batatillo
 El Bate
 El Batey
-El Baul
 El Bayito
 El Baño
+El Baúl
 El Bebedero, El Bebeder
 El Becerro
 El Bedero
@@ -2378,8 +2377,8 @@ El Cacho
 El Cacique
 El Cacuro
 El Cacuv
-El Cafe
 El Cafenol
+El Café
 El Caimito
 El Caimán
 El Cairo
@@ -2411,7 +2410,7 @@ El Canelo
 El Caney
 El Cangrejo
 El Cantil
-El Canton, Cantón
+El Cantón, Cantón
 El Canutal
 El Capitán
 El Caracaro, Caracaro
@@ -2523,7 +2522,6 @@ El Chaure, Chaure
 El Chavero
 El Chepón, Chepon
 El Cheremero
-El Chicaro, Chicaro
 El Chicle
 El Chicuaco
 El Chiguaje
@@ -2549,6 +2547,7 @@ El Chuco
 El Chupadero
 El Chupón, Chupón
 El Chuquito
+El Chícaro, Chicaro
 El Cielo
 El Cien
 El Cinal
@@ -2622,18 +2621,18 @@ El Cucharo
 El Cuchillo
 El Cucurucho
 El Cuervo, Cuervo
-El Cuji
 El Cujial
 El Cujisal, Cujizal
+El Cují
 El Culón
 El Cumbe
 El Cumbito
 El Cumbre
 El Cunagu
 El Cural, El Coral
-El Curari
 El Curarire
 El Curarito, El Curariro
+El Curarí
 El Curi
 El Cusuy
 El Cuzco, El Cusco
@@ -2679,7 +2678,6 @@ El Dragal
 El Drago
 El Dragote
 El Draguito
-El Ebano, El Elbano, Hacienda El Ebano
 El Embeleso
 El Emboscado, Emboscado
 El Empedrado, Empedrado
@@ -2741,7 +2739,7 @@ El Gamelotal, El Gamelota
 El Garcero, El Carcero
 El Gato
 El Gaucho
-El Gavilan
+El Gavilán
 El Genareño
 El Gengibre, Gemgibre
 El Godo
@@ -2773,7 +2771,6 @@ El Guaramo
 El Guarapo, El Guaparo
 El Guarataro
 El Guarenal
-El Guarico
 El Guarray
 El Guaruto, Garuto, Guaruto
 El Guasdual
@@ -2790,6 +2787,7 @@ El Guayapo
 El Guayaquil
 El Guindillo
 El Guáimaro, El Guámaro
+El Guárico
 El Guásimo, El Gúacimo
 El Güere
 El Güire, Güires
@@ -2835,7 +2833,7 @@ El Islote
 El Jabillal
 El Jabillo
 El Jabón
-El Jaguey
+El Jagüey
 El Jagüito
 El Jajatal
 El Japón
@@ -2847,12 +2845,11 @@ El Jenjibre
 El Jesús
 El Jobal, El Joval
 El Jobero
-El Jobito
 El Jobo
 El Jopal
 El Joque
-El Jordan
 El Jordanero
+El Jordán
 El José
 El Juanchero
 El Juanico
@@ -2863,6 +2860,7 @@ El Junko, Parroquia El Junko
 El Junquito
 El Juquero
 El Juso
+El Jóbito
 El Kilometro Cincuenta y Dos, El Kilometro 52
 El Kilómetro Treinta
 El Laberinto, El Labetinto
@@ -3085,11 +3083,10 @@ El Papayo, Los Papayos
 El Papelón
 El Paradero
 El Paraguay
-El Paraiso
 El Paramadero
 El Paramito
-El Paramo
 El Paraparo
+El Paraíso
 El Parchal
 El Pardillal
 El Pardillero
@@ -3114,8 +3111,8 @@ El Paso del Jobo
 El Patillo
 El Pato
 El Patriota
-El Pauji
 El Paujil
+El Paují
 El Paíto, Paito
 El Peaje
 El Pedregal
@@ -3139,15 +3136,15 @@ El Periquito
 El Permiso
 El Perrito
 El Perro, El Perio
-El Peru, Perú
+El Perú, Perú
 El Pescado, Pescado
 El Pescado Chamalero
 El Pescado Rondonero
 El Pesquero, El Pesquera, Pescero, Pesquero
 El Peñascal
 El Peñero, Peñero
-El Peñon, Peñon
 El Peñusco
+El Peñón, Peñon
 El Peñón de Barrios
 El Picacho
 El Picadero
@@ -3164,7 +3161,7 @@ El Pinate
 El Pino, Pino
 El Pinto
 El Piojo
-El Pionio
+El Pionío
 El Piote
 El Piral
 El Pirital
@@ -3196,8 +3193,8 @@ El Potrero, El Botrero, El Potrero del General, Potreriti, Quesera El Potrero
 El Potro
 El Pozo
 El Pozo Azul
-El Pozon
 El Pozuelo, Pozuelo
+El Pozón
 El Pozón de Lucía
 El Prado, Prado
 El Prieto
@@ -3214,6 +3211,7 @@ El Puyazo
 El Puñal
 El Pájaro
 El Pánamo, Panamo
+El Páramo
 El Púrguo, El Pulgo
 El Quebradón
 El Quiebrahacho
@@ -3283,7 +3281,7 @@ El Roblar
 El Roble
 El Roblito
 El Roblote
-El Rocio
+El Rocío
 El Rodadero
 El Rodeo, Rodeo
 El Rojen
@@ -3315,8 +3313,8 @@ El Saltigo
 El Salto, El Saito
 El Salto Norte
 El Salto del Diablo
-El Saman
 El Samanito, Samanito, Samarito
+El Samán
 El Samán de Apure
 El Sanche
 El Santero
@@ -3495,8 +3493,8 @@ El Vicio Abajo
 El Vidrio, Vidrio
 El Viejo
 El Viento
-El Vigia
 El Vigiadero
+El Vigía
 El Visal, El Bisal
 El Viso
 El Vivero
@@ -3525,7 +3523,9 @@ El Zorocloco
 El Zorro
 El Zulia
 El Zumbador
+El Águila, Hacienda El Aguila
 El Ángulo
+El Ébano, El Elbano, Hacienda El Ebano
 El Ñato
 El Ñaure
 Elorza, Paso del Viento
@@ -3655,9 +3655,9 @@ Garabatal
 Garabato
 Garabunda, Gavanbunda, Guarabunda
 Garapate, Garrapale
-Garcia
 Garcita
 Garcitas, La Concha
+García
 Garrapata
 Garrapatera
 Garza
@@ -3781,7 +3781,6 @@ Guamo
 Guamure, Guaimure, Suamure
 Guamuy
 Guamú
-Guana, Guanajuña
 Guanabanal
 Guanadito, Ganadito
 Guanaguana
@@ -3797,7 +3796,7 @@ Guanarito
 Guanasmita
 Guanasnal
 Guanata
-Guanayen
+Guanayén
 Guanayón Bajo
 Guaninabana
 Guanipa, La Iglesia de Guanipa
@@ -3814,7 +3813,6 @@ Guapachana, Guachapana, Sitio Guachapana
 Guaquira Abajo
 Guaquira Arriba
 Guaquitas
-Guara
 Guarabal, Gurabal
 Guarabao
 Guarabe
@@ -3853,7 +3851,7 @@ Guaratarito
 Guarataro
 Guaratero
 Guaratibana, Guaratibano
-Guarauno
+Guaraúno
 Guaraúnos
 Guardatinajas
 Guare
@@ -3901,6 +3899,7 @@ Guarumal
 Guarumen
 Guarumen Abajo
 Guaruta
+Guará
 Guarán, Guarar
 Guaráoguaro
 Guarúa
@@ -3959,6 +3958,7 @@ Guaydabacoa
 Guayoyo
 Guayurebo
 Guayuta
+Guaña, Guanajuña
 Gueche
 Gueque Keip, Guegekeip, Guegue Keip
 Guerrero
@@ -3967,7 +3967,6 @@ Guevara
 Guibimba, Boca Güibimba
 Guime, Oficina Gueime
 Guincua
-Guinima
 Guinsero
 Guirintar, Guirintal
 Guisandal
@@ -3991,6 +3990,7 @@ Güere Güere
 Güices
 Güico, Cuico, Wico
 Güigüe
+Güinima
 Güinkua
 Güire
 Güiria
@@ -4177,8 +4177,8 @@ Jaimero
 Jajatal
 Jajatales
 Jajenal, Jejenal
-Jajo
 Jají
+Jajó
 Jalisco
 Jamatuba
 Jananobo
@@ -4287,7 +4287,6 @@ Kamarata
 Kanavayén, Kavanayen
 Kempis, Oficina Kempis
 Kilometro Cuarenta y Dos
-Kilometro Ochenta y Dos
 Kilómetro 10
 Kilómetro 128
 Kilómetro 130
@@ -4318,6 +4317,7 @@ Kilómetro Noventa y Nueve
 Kilómetro Noventa y Seis
 Kilómetro Nueve
 Kilómetro Ochenta y Cuatro
+Kilómetro Ochenta y Dos
 Kilómetro Ochenta y Ocho
 Kilómetro Ocho
 Kilómetro Quince
@@ -4346,7 +4346,7 @@ Kilómetro Vientisiete
 Kilómetro Vientiséis
 Kuripa, Cuipa, Kuipa
 La Abra, El Abre
-La Acequia
+La Acequía
 La Adjunta
 La Aduana, Aduana
 La Agonía
@@ -4362,7 +4362,7 @@ La Alcabala
 La Alcancía
 La Alcantarilla
 La Alegría, Alegría
-La Alejandria
+La Alejandría
 La Alianza
 La Almita
 La Alquitrana, Alquitrana
@@ -4383,7 +4383,7 @@ La Arepa
 La Argentina
 La Arriaga, La Arreaga, La Aureana
 La Asomada
-La Asuncion
+La Asunción
 La Atascosa
 La Aurora, Aurora
 La Auyama
@@ -4455,7 +4455,7 @@ La Boquerita
 La Boquita
 La Boraliza, La Baralosa, La Boraloza, La Saralosa
 La Bosta
-La Bosua
+La Bosúa
 La Botalona
 La Botella
 La Botica
@@ -4577,7 +4577,7 @@ La Chicura
 La Chimenea
 La China
 La Chipola, El Chipola
-La Chiquinquira
+La Chiquinquirá
 La Chiquita
 La Chiricoa, La Chincoa
 La Chirima
@@ -4734,7 +4734,6 @@ La Evilla, Evilia
 La Fajina
 La Falda, Las Faldas
 La Faltriquera
-La Fe
 La Federación
 La Felicidad
 La Fermina, La Termina
@@ -4763,8 +4762,9 @@ La Frontina
 La Fría
 La Fuente
 La Funcia
-La Fundacion, Fundación, La Fundacion del Tigre, La Fundación Tigre, La Fundasión
+La Fundación, Fundación, La Fundacion del Tigre, La Fundación Tigre, La Fundasión
 La Fábrica
+La Fé
 La Galera
 La Galeria
 La Galerita, La Galarita
@@ -4863,9 +4863,9 @@ La Horqueta, La Horgueta
 La Hoya
 La Hoyada
 La Hoyadita
-La Huerfana, La Huértana
 La Huerfunita
 La Huertica
+La Huérfana, La Huértana
 La Iberia, Yberia
 La Icoleta
 La Idea
@@ -4952,7 +4952,7 @@ La Lona
 La Lorena
 La Lorencera
 La Lucha
-La Lucia
+La Lucía
 La Luisa
 La Luna
 La Luz
@@ -5098,7 +5098,7 @@ La Negrita, La Negrón
 La Nietera
 La Nieve
 La Nigua
-La Niguita
+La Nigüita
 La Nobleza, La Noblesa
 La Norata
 La Noria
@@ -5183,8 +5183,8 @@ La Peraza
 La Perdida
 La Perdomera
 La Peregrina
-La Perena
 La Pereza
+La Pereña
 La Pericoca
 La Pericosa
 La Perla
@@ -5240,8 +5240,8 @@ La Polonia, Polonia
 La Polvorosa
 La Ponia
 La Popa
-La Porfia
 La Porfiria
+La Porfía
 La Portería
 La Portuguesa
 La Potrería
@@ -5315,8 +5315,8 @@ La Rochela
 La Rojera, La Rogera
 La Rojeña
 La Romereña
-La Rompia, La Rampia, La Romoia, La Romora
 La Rompida
+La Rompía, La Rampia, La Romoia, La Romora
 La Roqueña
 La Rosa, Campo La Rosa, Campo Petrolero La Rosa
 La Rosa de Barrios
@@ -5332,7 +5332,6 @@ La Sabana de Monte Cristo
 La Sabaneta
 La Sabanita
 La Sabanota
-La Sabila
 La Sagua
 La Salina, Salina
 La Salineta
@@ -5375,6 +5374,7 @@ La Subereña
 La Subida de La Cuesta
 La Sultana
 La Sutilera
+La Sábila
 La Tabla
 La Tapa
 La Tapa de Piedra
@@ -5435,7 +5435,6 @@ La Vaitoa
 La Valeria
 La Valeriana
 La Vaquera
-La Vaquira, Vaquira
 La Vaquita
 La Vega
 La Vega Quitireña
@@ -5490,6 +5489,7 @@ La Vuelta
 La Vuelta de Barreto
 La Vuelta del Muerto
 La Vuelta del Tubo
+La Váquira, Vaquira
 La Vía
 La Yagua, Yaguas
 La Yaguara
@@ -5569,7 +5569,6 @@ Las Aguaditas
 Las Aguas Claras, Aguas Claras
 Las Alturitas
 Las Amarillas
-Las Animas
 Las Antias
 Las Araguatas
 Las Arguacas
@@ -5767,10 +5766,10 @@ Las Maracas
 Las Maravillas
 Las Marchas
 Las Margaritas
-Las Marias
 Las Marmoletas
 Las Martinitas
 Las Martínez
+Las Marías
 Las Masas
 Las Matajeas
 Las Matas
@@ -5831,7 +5830,7 @@ Las Patillas, Patilla
 Las Patillas Abajo
 Las Patillas Arriba
 Las Pavas
-Las Peonias
+Las Peonías
 Las Petacas
 Las Peñas
 Las Peñas de Cabria
@@ -5867,8 +5866,8 @@ Las Quebraditas
 Las Queseras
 Las Queseritas, Quesentas
 Las Quisandas
-Las Raices
 Las Ranchitas
+Las Raíces
 Las Rosas
 Las Rucales
 Las Sabanetas
@@ -5887,7 +5886,7 @@ Las Tarimbas
 Las Taritas
 Las Tasajeras
 Las Tejas, Las Tejar
-Las Tejerias
+Las Tejerías
 Las Tejitas
 Las Terecayas
 Las Termopilas
@@ -5949,6 +5948,7 @@ Las Yaguas
 Las Yayas, El Jabal, El Javal, El Jayal, El Juval
 Las Yeritas
 Las Zanjas
+Las Ánimas
 Latoncito
 Laurelcito, Laurecito
 Laureles
@@ -6080,7 +6080,6 @@ Los Ambrosios
 Los Anaucos
 Los Andes
 Los Andreseros
-Los Angeles
 Los Angelinos
 Los Angelitos
 Los Apamates
@@ -6209,7 +6208,7 @@ Los Charales
 Los Chechecos
 Los Chichíes, Los Chichillos, Los Chinchillos
 Los Chicuacos
-Los Chiguires, Los Chipires
+Los Chigüires, Los Chipires
 Los Chinos
 Los Chipes
 Los Chivitos
@@ -6300,12 +6299,12 @@ Los Guarimos
 Los Guaros
 Los Guasdalotes
 Los Guasimitos
-Los Guasimos
 Los Guatacaros
 Los Guayabitos
 Los Guayabos
 Los Guayos, Guayos
 Los Guineos
+Los Guásimos
 Los Gómez
 Los Güires, Guives, Güires
 Los Hacitos
@@ -6446,7 +6445,6 @@ Los Olivos
 Los Oripopos
 Los Pajales
 Los Pajaritos
-Los Pajaros
 Los Pajones
 Los Palmares, Palmares
 Los Palones
@@ -6473,7 +6471,6 @@ Los Pedros
 Los Peladeros
 Los Pelones, Los Polones
 Los Pepos
-Los Perez
 Los Perozos
 Los Perritos
 Los Perros
@@ -6514,6 +6511,8 @@ Los Puentecitos
 Los Puertos
 Los Puertos de Altagracia
 Los Purguos
+Los Pájaros
+Los Pérez
 Los Quemados, Las Quemadas, Quemado
 Los Quioscos
 Los Rabanales
@@ -6529,7 +6528,6 @@ Los Remírez
 Los Riecitos
 Los Riegos
 Los Rieles
-Los Rios
 Los Riteros
 Los Roblecitos
 Los Robles, Los Roblitos
@@ -6540,6 +6538,7 @@ Los Roques
 Los Rosos
 Los Rozos
 Los Rurales
+Los Ríos
 Los Salvajes
 Los Samanes, Las Samanes
 Los Samanes Negros
@@ -6603,6 +6602,7 @@ Los Zapateros
 Los Zorros
 Los Zuritas
 Los Zurrones
+Los Ángeles
 Los Áticas
 Lourdes
 Loverita
@@ -6704,9 +6704,9 @@ Majada
 Majadas y Pilones
 Majadita
 Majagual, Majagua, Majaguar
-Majaguito
 Majagüillal
 Majagüillo
+Majagüito
 Majanajanaña, Majanajana
 Majeicodoteri, Sitio Platanal
 Majomal
@@ -6753,7 +6753,7 @@ Manapoco
 Manare
 Manarito
 Manasa
-Manati
+Manatí
 Manaure, Urbanización Manaure
 Mancagua
 Mandigal
@@ -6894,7 +6894,6 @@ María Rosario
 Maríajisiña
 Marín
 Marín Arriba
-Mas Nunca
 Masacua
 Masaguare, Mosaguare
 Masaguaro
@@ -7044,7 +7043,7 @@ Mayares
 Mayita
 Mayjucupai, Mayucupai, Mayucupay
 Mayor
-Mayori
+Mayorí
 Mayupa
 Mazapa
 Mazuca
@@ -7053,7 +7052,6 @@ Mecocal
 Medanal
 Medanito
 Medanito Clementero
-Medanos de Jobal
 Media Ladera
 Media Loma
 Media Luna
@@ -7318,7 +7316,6 @@ Morocos
 Morocoto
 Morocure
 Moromoy
-Moron
 Moroncito
 Moroturo, El Moroturo
 Morotuto
@@ -7335,6 +7332,7 @@ Mortaja
 Moruca
 Moruché
 Moruy
+Morón
 Moscu
 Mosioco
 Mosnandá
@@ -7420,6 +7418,7 @@ Musumucual
 Muyapá
 Muñoz, Muños
 Márquez
+Más Nunca
 Médano Alto
 Médano El Toro
 Médano Grande
@@ -7427,6 +7426,7 @@ Médano Largo
 Médano Pelón
 Médano de Manaticito
 Médano del Burro, Médano el Burro
+Médanos de Jobal
 Mérida
 México
 Mórchipa, Morschipa
@@ -7574,7 +7574,7 @@ Oropocual
 Orozco
 Ortega
 Orteguera, La Orteguera
-Ortiz
+Ortíz
 Orucito
 Oruje
 Orupe
@@ -7708,7 +7708,7 @@ Pamoni
 Pampanito
 Pampatar, Panpatar, Pompatar
 Pampán
-Pan de Azucar
+Pan de Azúcar
 Pan de Año
 Pan de Trigo
 Panadero
@@ -7748,10 +7748,9 @@ Paradones, Paracones
 Paraguaipoa
 Paraguatey
 Paragueño
-Paraguito, Paraguitos, Paraquito, Paraquitos
+Paragüito, Paraguitos, Paraquito, Paraquitos
 Parai-tepuí, Perai-tepuí
 Paraima
-Paraiso
 Paraja
 Paramillo
 Paramin
@@ -7766,9 +7765,9 @@ Pararicito
 Pararrayos
 Pararí
 Pararú
-Parate Bueno
 Paraulata
 Paraytepuy
+Paraíso
 Paraíso de Chabasquén, Chabasquen, Paraíso de Chavasquén
 Pardillal
 Pardillar
@@ -7789,7 +7788,7 @@ Parigua
 Parmana, Parmona
 Parodi
 Parucla
-Parupa
+Parupá
 Paruyepa
 Parángula
 Pasaguaca
@@ -8043,7 +8042,6 @@ Piricual
 Piripire, Pirepire
 Pirital, El Pirito, Pirita
 Piritalito
-Piritu, Hato Pirito
 Piritucual
 Piritupano
 Piritura
@@ -8119,8 +8117,8 @@ Pocantico
 Pocetas
 Pochonguero
 Poci
-Poco
 Pocoro
+Pocó
 Polanco
 Polleta
 Poloña
@@ -8389,6 +8387,8 @@ Páramo Negro
 Páramo Rico
 Páramo Viejo
 Párate Ahí
+Párate Bueno
+Píritu, Hato Pirito
 Píritu de Jacura
 Qeubrada de Agua
 Quebracha
@@ -8430,7 +8430,7 @@ Quebrada de Ño Carlos
 Quebrada del Cura
 Quebrada del Medio
 Quebradita
-Quebradon, Quebraón
+Quebradón, Quebraón
 Quebrajachal
 Quemapure
 Quenequenero
@@ -8468,7 +8468,7 @@ Quintinero, El Quitereño, Quitireño
 Quiragua, Cuiragua, Quiracoa
 Quiri, Quiu
 Quiribana
-Quirigua
+Quiriguá
 Quiripatal
 Quiripital
 Quiriquire, Guiriquire
@@ -8582,7 +8582,7 @@ Rincón Arriba
 Rincón Bonito
 Rincón Hondo
 Rincón Largo
-Rincón Manzanillero, Rincon Manjanillero
+Rincón Mánzanillero, Rincon Manjanillero
 Rincón de Barrios
 Rincón de Baruno, Baruno
 Rincón de Caro
@@ -8595,7 +8595,6 @@ Rincón del Medio
 Rincón del Pirata
 Rincón del Tigre
 Rincón los Toros
-Rio Viejo
 Riocito
 Risillo
 Rivas, Aldea Rivas
@@ -8693,6 +8692,7 @@ Río Simón
 Río Sotillo
 Río Tocuyo
 Río Verde
+Río Viejo
 Río de Agua
 Río de Guirria
 Río de Piedra
@@ -8803,7 +8803,7 @@ Sampayo
 Samán
 Samán Cortado
 Samán Mocho
-San Agustin
+San Agustín
 San Alejo
 San Amaya
 San Andrés
@@ -8846,7 +8846,7 @@ San Chorquiz
 San Cipriano
 San Clemente
 San Corniel
-San Cristobal
+San Cristóbal
 San Custodio
 San Daniel
 San Diego
@@ -8860,7 +8860,6 @@ San Evaristo
 San Feliciano, Feliciano
 San Felipe
 San Felipe de Guasare
-San Felix, El Táchira, Tachira
 San Fernando, San Fernando del Guapo
 San Fernando de Apure, San Fernando Apure
 San Fernando de Atabapo, San Fernando Atabapo
@@ -8873,6 +8872,7 @@ San Francisco de Tiznados
 San Francisco de Yare
 San Francisco del Pino
 San Francisquito
+San Félix, El Táchira, Tachira
 San Gabriel
 San Germán
 San Gonzalo
@@ -8894,12 +8894,12 @@ San Joaquín, San Juaquin
 San Joaquín de Navay
 San Joquin
 San Jorge
-San Jose, Hacienda San José, Oficina San José
-San Jose de Amacuro
 San Josecito, San Josesito
 San Joseíto
+San José, Hacienda San José, Oficina San José
 San José de Acaboa
 San José de Aerocuar, San José de Areocuar, San José de Areoeuar
+San José de Amacuro
 San José de Amana
 San José de Barlovento
 San José de Bolívar
@@ -8967,7 +8967,7 @@ San Lázaro
 San Manuel
 San Marcos
 San Marino
-San Martin
+San Martín
 San Martín de Loba
 San Martín de Turumban
 San Mateo
@@ -8977,7 +8977,7 @@ San Miguel, Puebo Viejo, San Miguel de Pozón
 San Miguel Abajo
 San Miguel Arriba
 San Miguel Urañón
-San Nicolas, Hacienda San Nicolas
+San Nicolás, Hacienda San Nicolas
 San Nicolás de Quibure
 San Onofre
 San Pablo
@@ -9005,7 +9005,7 @@ San Rafael de Unare
 San Rafael del Macho
 San Rafael del Piñal
 San Raimundo
-San Ramon
+San Ramón
 San Remo
 San Roman
 San Roque
@@ -9035,7 +9035,7 @@ Santa Ana, Doña Ana, Oficina Santa Ana, Santa Ana del Tachira
 Santa Anita, Santanita
 Santa Apolonia
 Santa Aria
-Santa Barbara
+Santa Bárbara
 Santa Bárbara de Ipire
 Santa Bárbara de Sotillo
 Santa Bárbara del Sur
@@ -9063,21 +9063,21 @@ Santa Elena de Arenales
 Santa Elena de Río Claro
 Santa Elena de Uairén
 Santa Eulalia, Oficina Santa Eulalia
-Santa Fe
 Santa Felícitas, Santa Felicita
 Santa Filomena
+Santa Fé
 Santa Fé de Campo Solo
 Santa Gertrudis
-Santa Inez
 Santa Inés
+Santa Inéz
 Santa Isabel
 Santa Juana
 Santa Justa
-Santa Lucia
+Santa Lucía
 Santa Luisa
 Santa Margarita
-Santa Maria, Oficina Santa Maria
 Santa Marta
+Santa María, Oficina Santa Maria
 Santa María de Caparo
 Santa María de Erebato
 Santa María de Guamache
@@ -9106,7 +9106,7 @@ Santo Cristo
 Santo Domingo, Hacienda Santo Domingo, Paso Santo Domingo
 Santo Gil
 Santo Niño
-Santo Tomas
+Santo Tomás
 Santoyero
 Santoyo
 Santuario de La Coromoto
@@ -9201,7 +9201,7 @@ Soburojo
 Socavón
 Soco
 Socopito
-Socopo
+Socopó
 Socorro
 Socremo
 Sogore
@@ -9277,9 +9277,8 @@ Tacao
 Tacarigua, Central Tacarigua, Central Tacariqua
 Tacarigua de La Laguna, Tacarigua La Laguna
 Tacarigua de Mamporal, Tacarigua de Maniporal
-Tacariguita
+Tacarigüita
 Tacarte
-Tacata
 Tacata Arriba
 Tacatacan
 Tacoima, Tocoima
@@ -9367,9 +9366,9 @@ Tazón, Tasón
 Tec-cupay
 Teguera
 Teicupa
-Tejeria
-Tejerias, Tajerías
 Tejero
+Tejería
+Tejerías, Tajerías
 Tembladal
 Temblador, El Temblor, Morichal Temblador
 Temerla
@@ -9625,6 +9624,7 @@ Tusmare
 Tutanal
 Tuñame
 Tzhuau, Tshuau
+Tácata
 Támauco
 Tápuli
 Tápuri
@@ -9639,7 +9639,7 @@ Uadaparú
 Uadauraparutá
 Uai-parú
 Uaichoroden
-Uaiparu
+Uaiparú
 Uarapata
 Uaru-marú, Uaru-merú
 Uasaraña, Uasarinya
@@ -9790,7 +9790,7 @@ Veragacha
 Veragacho
 Veras Altas
 Verde
-Verdun, Verdum
+Verdún, Verdum
 Vereño
 Versalles
 Vetecual, Betecual

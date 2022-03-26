@@ -51,13 +51,13 @@ Aldeia
 Aldeia Campo
 Aldeia Formosa
 Aldeia Mota
-Aldeia Nova, Xixe
 Aldeia Piloto
 Aldeia Susse
 Aldeia São José, Aldeia de São José
 Aldeia Viçosa
 Aldeia da Missão
 Aldeia de Santa Maria, Antigo Duque Braganca
+Aldeía Nova, Xixe
 Aleixo
 Alemba
 Alemão
@@ -125,7 +125,7 @@ Andrada, N'Zargui, Vila Paiva d'Andrade, Vila Paiva de Andrada, Vila Paiva de An
 Andrade
 André Cassua
 André Sotchibale
-Andulo, Caunde, Concelho de Andulo, Concelho do Andulo, Município do Andulo, Vila Macedo de Cavaleiros, Андулу
+Andulo, Caunde, Concelho de Andulo, Concelho do Andulo, Município Andulo, Vila Macedo de Cavaleiros, Андулу
 Andulo de Quilengo
 Andulo-Ambile
 Andunda
@@ -194,7 +194,6 @@ Auchico
 Aufale, Aufah
 Augusto
 Augusto Ngangula
-Aula
 Aulico, Anchico
 Ave Moma
 Aviação
@@ -204,6 +203,7 @@ Avé Maria
 Azevedo
 Azul
 Açucareira
+Aúla
 Babaera
 Babi, Caquengue Babi
 Baca, M'Baca, N'Baca, Shinda, U'Baca
@@ -211,8 +211,7 @@ Bacala, Bacula
 Bacuma
 Badi
 Bagica
-Baia
-Bailundo, Concelho do Bailundo, Kakenge, Município do Bailundo, Байлунду
+Bailundo, Concelho do Bailundo, Kakenge, Município Bailundo, Байлунду
 Bairro Cavaco
 Bairro Dangereux
 Bairro Jica
@@ -375,9 +374,10 @@ Bassa
 Bata, Bato
 Bata-Bata, Bata Tata, Bate Bate
 Batitação
-Bau, Baho
+Baía
 Baía Azul
-Baía Farta, Bahia Farta, Farta, Município da Baía Farta
+Baía Farta, Bahia Farta, Farta, Município Baía Farta
+Baú, Baho
 Beca
 Bege, Beje, Beje-Cangambo
 Beira Alta, Cachipire
@@ -423,9 +423,9 @@ Bento Cardoso
 Benza, Nonga, Nonga Benza
 Beque
 Bessenguele
-Betania, Duco
 Bete, Neves Ferreira
 Betrame
+Betánia, Duco
 Biavela, Diavela
 Bibala, Circunscrição da Bibala, Concelho da Bibala, Município Bibala, Vila Arriaga, Villa Arriaga
 Bibi
@@ -542,8 +542,6 @@ Buco Zau, Bucco-Lau, Circonscrição do Buco Zau, Município Buco Zau, Municípi
 Bucomazi, Buco Maze, Bucomasi
 Bucula
 Buda
-Buela, Boela, Bueta, Mariana Buela
-Buembua
 Buembue
 Buenga
 Buenga Sul, Boenga, Boenga Sul
@@ -552,7 +550,7 @@ Buetiti
 Buinda
 Buiza
 Bula
-Bula Atumba, Município do Bula Atumba
+Bula Atumba, Município Bula Atumba
 Bula Quingai
 Bula Tádi
 Bulo
@@ -601,6 +599,8 @@ Buto
 Butramo, Tramo
 Butungo
 Buzo
+Buéla, Boela, Bueta, Mariana Buela
+Buêmbua
 Béu
 Búmbua
 Búntia
@@ -612,7 +612,6 @@ Caacata
 Caama
 Caar, Seke-Seke
 Cababa Tumbo
-Cabaca
 Cabadi
 Cabaia
 Cabala, Culo Cabalo
@@ -631,6 +630,7 @@ Cabatuquila Primeiro
 Cabatuquila Segundo
 Cabaua, Cababa, Cabua
 Cabaza
+Cabaça
 Cabaça Muhongo, Cabaça Muongo
 Cabaça do Samba
 Cabebe
@@ -650,7 +650,7 @@ Cabianda, Cabiando
 Cabila
 Cabimbia
 Cabinchia, Capuma
-Cabinda, Cabinda Province, Cabinde, Concelho de Cabinda, Distrito de Cabinda, Município Cabinda, Município de Cabinda, Província de Cabinda, Кабинда
+Cabinda, Cabinda Province, Cabinde, Concelho de Cabinda, Distrito de Cabinda, Kabinda, Município Cabinda, Município de Cabinda, Província de Cabinda
 Cabindele, Cavindera
 Cabindondo
 Cabingano
@@ -696,7 +696,6 @@ Caca
 Caca Quibumo, Caça-Quibuma
 Cacabamba
 Cacaca
-Cacaco, Kakaku
 Cacala, Chibanda
 Cacalacassa
 Cacalanga
@@ -772,18 +771,16 @@ Cacoba
 Cacoca
 Cacoi
 Cacoia
-Cacoio, Cacono
 Cacola
 Cacole
 Cacolo, Circunscrição de Minungo, Circunscrição do Minungo, Culola, Kipolu, Município Cacolo, Município de Cacolo, Каколо
 Cacolo Primeiro
 Cacoloca
 Cacolonga
-Cacoma
 Cacomba
 Cacombo, Camba Cassumbi, Cambangala
-Caconda, Concelho de Caconda, Município Caconda, Município de Caconda, Sacanhoa, Каконда
 Cacondo, Cassandola, Cassondola
+Cacondá, Concelho de Caconda, Kakonda, Município Caconda, Município de Caconda, Sacanhoa
 Cacongala
 Caconganga
 Cacongo, Caconga, Concelho Cacongo, Concelho de Cacongo, Guilherme Capelo, Kakongo, Molembo, Município Lândana, Município de Cacongo, Quicongue, Vila Guilherme Capelo
@@ -827,6 +824,7 @@ Cacuso de Baixo
 Cacute
 Cacuti
 Cacuto, Chambiro
+Cacóio, Cacono
 Cacôco
 Cacõe, Cacõem
 Cadifele
@@ -858,7 +856,6 @@ Cafocota
 Cafofo
 Cafofo de Cima
 Cafrumento
-Cafu, Kafu
 Cafua, Chefumba, Chifumba
 Cafuani, Cufanhe
 Cafuca, Kafuka
@@ -1100,7 +1097,7 @@ Calembe
 Calembo
 Calenda
 Calende
-Calenga, Vila Verdi, Каленга
+Calenga, Kalenga, Vila Verdi
 Calengo
 Calengue
 Calenguele
@@ -1196,9 +1193,9 @@ Calongolo Primeiro
 Calongolo Segundo
 Calongombe
 Calongondjo
-Calongue, Calonquela
 Calongueri
 Calongunda
+Calongué, Calonquela
 Caloningui
 Calonunci
 Calonundo
@@ -1230,7 +1227,6 @@ Caluco
 Calucombo
 Calucula, Calacula, Calucala, Chirundo
 Calucuta, Chifua, Colanda
-Calue, Kalue
 Caluehimba
 Calueio, Calucia
 Calueio Nova
@@ -1267,7 +1263,7 @@ Calumbinga, Calambinga, Calumbingo
 Calumbo, Capombo, Chuponda, Columbo, Kalumbo, Quiôngua Calumbo
 Calumbunze, Calambunze, Calambunzi
 Calumingo
-Calumue
+Calumué
 Caluna
 Calunda, Kalunda
 Calundanga de Baixo
@@ -1317,6 +1313,7 @@ Caluvango
 Caluvi
 Caluviavili
 Caluálua
+Calué, Kalue
 Calvário
 Calé
 Calépi
@@ -1324,10 +1321,9 @@ Calôa
 Calúhi
 Cama
 Camabaca
-Camabatela, Ambaca, Камабатела
+Camabatela, Ambaca, Kamabatela
 Camabol, Camabole
 Camabuco
-Camaca
 Camacala
 Camacala Nova
 Camacamba
@@ -1411,11 +1407,12 @@ Camatete
 Camato
 Camatôa
 Camau
-Camaue, Camaúa
 Camaumbo
+Camaué, Camaúa
 Camavo
 Camaxalala
 Camaxilo, Camaxil, Kamashilu, Камаксилу
+Camaça
 Camaça Maquitumba
 Camaíavi
 Camba, Embala da Camba, Gambola, Kamba, Pecuária da Camba
@@ -1469,8 +1466,8 @@ Cambangula
 Cambangunge, Chá Camba
 Cambanji, Fazenda Um
 Cambanve
-Cambanze
 Cambanzumbe
+Cambanzé
 Cambapaco
 Cambatchiango
 Cambatchilonda
@@ -1486,7 +1483,6 @@ Cambengueca
 Camberuca, Cambeluca
 Cambeu
 Cambi, Kambi, Kumbi
-Cambia
 Cambiche, Cabiche-Chilele, Tchilele
 Cambije
 Cambila
@@ -1533,7 +1529,6 @@ Cambuembe
 Cambuende, Chimbuende
 Cambueta, Cambuete
 Cambuinda
-Cambuio, Combuiu, Combuiu de Cima
 Cambuiu
 Cambuizo, Camieje, Camuége, Camuéje
 Cambula
@@ -1557,6 +1552,7 @@ Cambunzo
 Camburi, Fazenda Camburi
 Cambuta
 Cambuze
+Cambuío, Combuiu, Combuiu de Cima
 Cambá Ngole
 Cambândua
 Cambêmbua, Elende
@@ -1575,7 +1571,6 @@ Camenga, Canunga
 Camenha, Camante
 Camenhe
 Camepo
-Camera, Camena
 Cameria
 Camete
 Cameti
@@ -1629,7 +1624,6 @@ Camizombo
 Camizue
 Camizunzo, Arcos, Camizumbo, Camizungo
 Camjongo
-Camoco
 Camoeia
 Camoele
 Camoge, Camuaji
@@ -1639,8 +1633,6 @@ Camoma
 Camona
 Camondinda
 Camone, Campone
-Camongua, Camongoa, Camongue
-Camono
 Camora
 Camoringue
 Camosso
@@ -1661,7 +1653,6 @@ Camuanze
 Camuchi
 Camuchito
 Camucola, Caiongo Camucola
-Camucua, Camicuio
 Camucuio, Camacuio, Município Camacuio, Município do Camucuio
 Camuculo Segundo
 Camueca
@@ -1713,8 +1704,13 @@ Camuxilo
 Camuxito
 Camué
 Camuíne
+Caméra, Camena
 Camígi
 Camóli
+Camôngua, Camongoa, Camongue
+Camôno
+Camõco
+Camúcua, Camicuio
 Cana
 Cana Quilembo
 Canacanjungo, Canacajungo, Serra de Canacanjungo
@@ -1726,7 +1722,6 @@ Cananga
 Canango
 Canangui
 Canaquetela
-Canari
 Canassi
 Canassi Primeiro
 Canassi Segundo
@@ -1840,7 +1835,7 @@ Cangalo
 Cangalongue
 Cangamba, Kangamba, Vila Cangaba, Vila Cangamba, Vila de Aljustrel, Vila de Cangamba
 Cangambo
-Cangandala, Cagandala, Município Cangandala, Município de Cangandala, Кангандала
+Cangandala, Cagandala, Kangandala, Município Cangandala, Município de Cangandala
 Cangando
 Canganga, Dala Canhangue, Dalacanhanga
 Cangati, Kangati
@@ -1859,10 +1854,8 @@ Cangindongo
 Cangingila
 Cangingo Valôdia
 Cangir
-Cangoa
 Cangoche, Gage
 Cangola, Alto Cuale, Município Alto Cauale, Município de Cangola
-Cangolo, Fazenda Cangolo
 Cangolondo
 Cangoma
 Cangombe
@@ -1873,7 +1866,6 @@ Cangongo, Cambala Cangongo, Cambolo Cangonga, Cangonjo
 Cangongolo
 Cangongue
 Cangote, Caiandeja
-Cangoti
 Cangovi
 Canguaia
 Canguanda
@@ -1904,6 +1896,9 @@ Cangungula
 Cangunza, Changonga, Chongonga
 Canguri
 Canguvo
+Cangóti
+Cangôa
+Cangôlo, Fazenda Cangolo
 Canhala
 Canhala Colohombo, Canhalecoloombo
 Canhamina
@@ -1995,6 +1990,7 @@ Canzi, Ganji
 Canzo
 Canzongo
 Canzunzo
+Canári
 Canâmbua, Cumambua
 Canândua
 Canôma
@@ -2009,7 +2005,6 @@ Caondo
 Caongo
 Caota
 Caotinha
-Capaca
 Capacassa
 Capacata, Copacata
 Capacaça
@@ -2044,8 +2039,8 @@ Capati
 Capato, Capate
 Capaua
 Capauve, Cabare
+Capaça
 Capeche, Chefuche, Shipushi
-Capechi
 Capeco
 Capeengue
 Capeio, Capeia, Capelo, Copeio
@@ -2088,15 +2083,14 @@ Capiri, Capir
 Capiro
 Capitango, Kapitango
 Capitanjo
-Capitao
 Capite, Capita
 Capitique
 Capitongo
+Capitâo
 Capoche, Kaposhi
 Capoco, Capocolo, Kapocolo
 Capoio
 Capole
-Capolo, Capelo, Copolo, Kapolo
 Capolo Primeiro
 Capolo Segundo, Capoulo
 Capolopopo, Fazenda Capolopopo
@@ -2147,6 +2141,8 @@ Caputungo, Capatunga
 Capuze, Kapuzi
 Capuça I
 Capuça II
+Capéchi
+Capôlo, Capelo, Copolo, Kapolo
 Caquela
 Caquele, Salicuca
 Caquelete
@@ -2244,7 +2240,6 @@ Caserva, Caseroa
 Casimiro Coelho Borges
 Casola Cambo
 Caspato
-Cassaca, Roça Cassaça
 Cassacalo
 Cassaco
 Cassaguili, Cassaquir
@@ -2287,6 +2282,7 @@ Cassaquela
 Cassari
 Cassassa, Cassasso
 Cassaza, Machambanda
+Cassaça, Roça Cassaça
 Cassechi
 Casseco
 Casseco-Seco
@@ -2316,7 +2312,6 @@ Cassequel Velho
 Cassequele
 Casseques, Cassequi
 Cassesse, Cassese
-Casseua, Chissueca
 Cassexi
 Cassinda
 Cassinde, Cavinda Minioco, Kavinda-Minvoko
@@ -2333,7 +2328,6 @@ Cassoango, Cassoango Mission, Kasoangu
 Cassoca
 Cassoce
 Cassoche, Cassache
-Cassoco, Cassosso
 Cassola
 Cassoleca
 Cassolo
@@ -2353,6 +2347,7 @@ Cassonzo
 Cassoque
 Cassora, Kazora
 Cassoxi
+Cassoço, Cassosso
 Cassoço Grande
 Cassua
 Cassuada
@@ -2390,6 +2385,7 @@ Cassupi Segundo, Cassupi II
 Cassupola, Cassapolo
 Cassuto
 Cassécue
+Casséua, Chissueca
 Cassói
 Cassólio
 Cassório
@@ -2402,7 +2398,7 @@ Castro
 Casuco
 Casulo, Kazulu
 Catabia
-Catabola, Município Catabola, Município de Catabola, Катабола
+Catabola, Katabola, Município Catabola, Município de Catabola
 Cataca, D. Ituca, Ituca
 Catade
 Cataila Primeiro
@@ -2444,7 +2440,6 @@ Catanha Segundo
 Catano
 Catape
 Catapeta, Paulino
-Catapi
 Catapi Baixo
 Cataporinde
 Catara
@@ -2516,8 +2511,8 @@ Catemo
 Catenda
 Catenda do Céu
 Catenda do Meio
-Catende
 Catendi
+Catendé
 Catengue, Catengae, Katenge, Katengue
 Catenguenha I
 Catenguenha II
@@ -2556,7 +2551,6 @@ Catofo de Baixo
 Catoi
 Catolala
 Catole, Calope
-Catolo, Canjogolo, Canjongolo, Kanyongolu, Konjongola
 Catoma
 Catomba, Catoio
 Catombe
@@ -2620,10 +2614,12 @@ Catuva
 Catuvo
 Catuéji
 Catáli Novo
+Catápi
 Catári
 Catátchi, Catache, Catachi, Catatechi, Cha Catachi
 Catô
 Catôld
+Catôlo, Canjogolo, Canjongolo, Kanyongolu, Konjongola
 Cauaca
 Cauaia
 Cauaiala, Caiola
@@ -2660,7 +2656,6 @@ Caulembi
 Caulo
 Caulula, Caulala, Caulila
 Caululo
-Cauma
 Cauma Segundo
 Caumba
 Caumbangala
@@ -2768,7 +2763,7 @@ Caxinginge
 Caxingue
 Caxissa
 Caxitele
-Caxito, Cachito, Cachito Ima, Cachito-Malange, Cacito, Kaxito, Каксито, Кашито
+Caxito, Cachito, Cachito Ima, Cachito-Malange, Cacito, Kashito, Kaxito, Каксито
 Caxito Cameia, Caxita Cameia, Caxito Cameta
 Caxitua
 Caxiva
@@ -2798,7 +2793,7 @@ Cazetta
 Cazilo, Cazila, Kazila
 Cazocame
 Cazola
-Cazombo, Cazemba, Kazombu, Казомбо
+Cazombo, Cazemba, Kazombo, Kazombu
 Cazondo, Casonda
 Cazongo
 Cazua, Gazua
@@ -2811,11 +2806,14 @@ Cazundo
 Cazungongo
 Cazôa, Cassori, Kassori
 Caála, Concelho da Caála, Concelho de Caala, Kaala, Município Caála, Robert Williams, Roberto Williams, Vila Robert Williams, Каале
+Caçaco, Kakaku
+Caçoma
 Caçosso
 Caíba-Iba, Caibas-iba
 Caíhu
 Caíle
 Caúla
+Caúma
 Caúma Primeiro, Tchicua
 Caúma Terceiro
 Caúndi Mendunda
@@ -2823,7 +2821,7 @@ Ceatro
 Cecilia Possa
 Cecilo
 Cedula
-Cela, Cela-Cungo, Município Waku Kungo, Município da Cela, Santa Comba, Waku-Kungo, Кела
+Cela, Cela-Cungo, Kela, Município Waku Kungo, Município da Cela, Santa Comba, Waku-Kungo
 Cena Maianga
 Central de Bombagem
 Centro
@@ -2974,7 +2972,7 @@ Chibabo, Chibôbo
 Chibaca
 Chibangala, Tchibangala
 Chibango, Shibangu
-Chibemba, Chimbemba, Gambos, Ghivemba, Khibemba, Schibemba, T'Chimbemba, Tchibemba, Шибемба
+Chibemba, Chimbemba, Gambos, Ghivemba, Khibemba, Schibemba, T'Chibemba, T'Chimbemba, Шибемба
 Chibia, Concelho de Chibia, João de Almeida, Khibia, Município Chibia, São Pedro da Chibia, São Pedro de Chibia, Vila João de Almeida, Шибия
 Chicaca
 Chicaca Primeiro, Chicaca António Lontrão, Chicaca I
@@ -3135,7 +3133,7 @@ Chinde, Chiede, Ixinde
 Chindembe, Muvila
 Chindende, Chidende
 Chinder
-Chindiandia, Chindjandia, Tchindiandia
+Chindiândia, Chindjandia, Tchindiandia
 Chindongo
 Chindubi
 Chindula
@@ -3296,7 +3294,7 @@ Chitar
 Chitata
 Chitatamera, Alto da Xitatamera
 Chitato, Chilalo, Circunscrição de Chitato, Circunscrição do Chitato, Concelho de Portugália, Município Chitato
-Chitembo, Circunscrição do Alto Cuanza, Município do Chitembo
+Chitembo, Circunscrição do Alto Cuanza, Município Chitembo
 Chitemo
 Chitende, Chitadi
 Chiteque
@@ -3415,7 +3413,6 @@ Cobongo
 Cobras, Cataki das Cobras
 Coca
 Cochi
-Coco
 Coculahombo
 Cocumba
 Cocuta
@@ -3449,11 +3446,10 @@ Colonato
 Colonato do Ngangassole, Colonado do Ngangassole
 Colongo
 Coluco
-Colui, Кандинго
+Colui, Kandingo
 Colula
 Columbulaco
 Colute, Kulute
-Coma
 Comandante Bula
 Comandante Gica
 Comandante Jica
@@ -3484,7 +3480,6 @@ Conco, Konko
 Concórdia, Fazenda Concórdia
 Conda, Konda, Município Conda
 Condambo
-Conde, Konde
 Conde Bamba, Conde Bumba, Konde Bumba
 Conde Centro
 Condjunga
@@ -3493,6 +3488,7 @@ Condo Benza
 Condo Pangala
 Condombe
 Condumba
+Condé, Konde
 Conete
 Coneva
 Conga
@@ -3505,7 +3501,6 @@ Congolo
 Congoloco
 Congolongolo
 Conguimonge
-Congulo
 Congúnua, Chiquinea
 Conhi
 Conjo
@@ -3549,7 +3544,6 @@ Covuca Novo
 Covuca Velho
 Cow-Boy
 Coxe, Quicoche
-Coxi
 Coçoço
 Coé
 Crassongo
@@ -3576,7 +3570,7 @@ Cuanza de Mussende
 Cuasa
 Cuassola
 Cuba
-Cubal, Cubal da Ganda, Município do Cubal, Vila do Cubal, Кубал
+Cubal, Cubal da Ganda, Kubal, Município Cubal, Vila do Cubal
 Cubal do Lumbo, Fazenda Maria Judite
 Cubango, Alegria, Fazenda Cubango
 Cubangui, Kabangwi
@@ -3588,7 +3582,7 @@ Cuca
 Cucala
 Cucamba
 Cuchem
-Cuchi, Chiruco, Concelho do Cuchi, Cuche, Kuchi, Município do Cuchi, Куши
+Cuchi, Chiruco, Concelho do Cuchi, Cuche, Kuchi, Município Cuchi, Куши
 Cuchima
 Cuconda
 Cucuamalaen
@@ -3602,7 +3596,7 @@ Cueiendende
 Cueio
 Cuelei
 Cueli
-Cuemba, Coemba, Koemba, Município do Cuemba, Neves Ferreira
+Cuemba, Coemba, Koemba, Município Cuemba, Neves Ferreira
 Cuenguela
 Cuenha
 Cufuna
@@ -3618,14 +3612,13 @@ Cuilo, Circunscrição do Cuilo, Cullo, Kwilo, Município Cuilo, Куилу
 Cuilo Futa, Cuila Futa
 Cuilo Pombo, Bangui
 Cuilo Velho, Cahungula
-Cuima, Kwima, Куима
-Cuimba, Banza Cuimba, Cuimbo, Kuimba, Kuimbo, Município do Cuimba
+Cuima, Kuima, Kwima
 Cuimganhara
 Cuinavo
 Cuio, Cuia
 Cuissa-Salço
 Cuito, Bihé, Bié, Concelho do Bié, Kuito, Município Kuito, Município do Cuito, Silva Porto, Vila Salva Porto
-Cuito Cuanavale, Circunscrição do Cuíto-Cuanavale, Kuito, Kwito Kwanavale, Município do Cuito Cuanavale
+Cuito Cuanavale, Circunscrição do Cuíto-Cuanavale, Kuito, Kwito Kwanavale, Município Cuito Cuanavale
 Cuiva, Cuiba
 Cuizani
 Cujanga
@@ -3751,19 +3744,26 @@ Cuzandana, Cazucama
 Cuzua
 Cué Primeiro
 Cué Segundo
+Cuímba, Banza Cuimba, Cuimbo, Kuimba, Kuimbo, Município Cuimba
+Cáfu, Kafu
 Cáia
 Cália, Cucira, Curia
 Cália Mbilingo
 Cália Pilinho
 Cáua
 Cáxi
+Câmbia
 Cândida
 Cóchi iá Zala
 Cóloa, Cólua
+Cóxi
+Côco
+Côma
+Côngulo
 Cünga diá Samba
 D. António
 D. F. Lopes
-Dala, Concelho do Dala, Município do Dala, Patanca
+Dala, Concelho do Dala, Município Dala, Patanca
 Dala Acanda, Dada Acanda, Dala Canconde
 Dala Caombo, Dala Quique
 Dala Catambi, Capendi
@@ -3788,7 +3788,7 @@ Damba Maria
 Damba Quitamba, Damba-ia-Quitanda
 Dambe iá Ngola, Dambe-ia-Gola, Dombe-ia-Gola
 Dambi
-Dambi iá Lucala, Dambe Lucala, Dambi-a-Lucala
+Dambi iá Lucala, Dambe Lucala, Dambi-Lucala
 Dambi-Cassambi
 Dambo
 Dambuca
@@ -3806,7 +3806,6 @@ Daniel
 Danjambango
 David, David P. Silva
 Daviti
-Decimo Primeiro de Novembro
 Dege
 Deia
 Dejunga, Junga
@@ -3817,7 +3816,7 @@ Demba Chio
 Demba Guila, Demba Khio
 Dembe
 Dembo
-Dembue, Além Rio
+Dembué, Além Rio
 Demena
 Demina
 Denda
@@ -3831,7 +3830,6 @@ Deserto, Desert
 Desvio Caicesse
 Dezoito Casas
 Diacaca
-Diadia
 Dialui, Rialui
 Diama
 Diambo, Diamba
@@ -3879,6 +3877,7 @@ Diva Segundo
 Divangamenha, Divangamene
 Divangameno
 Divingue, Muene Vinda, N'Vinda
+Diádia
 Djamba
 Djumba
 Doca
@@ -3941,7 +3940,7 @@ Dunca
 Dunda
 Dundangongo
 Dunde
-Dundo, Дунду
+Dundo, Dundu
 Dunduca
 Dunduma
 Dunduvango, Dundobango
@@ -3951,13 +3950,14 @@ Dungue
 Duri
 Duti
 Duvango
+Décimo Primeiro de Novembro
 Décimo Quarto de Agosto
 Décimo de Maio
 Díngombe
 E. C. Elende
 E. Carmelino
 Ebama, Ebanga, Etata
-Ebo, Hebo, Município do Ebo, V. Ebo
+Ebo, Hebo, Município Ebo, V. Ebo
 Ebo Costa
 Ebuessa
 Ecaala, Vecala
@@ -3966,7 +3966,7 @@ Ecoma
 Ecombo
 Ecovongo
 Ecundo, Vicundo
-Ecunha, Município Ekunha, Município do Ecunha, Vila Flor
+Ecunha, Municipio Ecunha, Município Ekunha, Vila Flor
 Ecunna, Ekunha
 Ediva
 Ediva do Muandi, Ediva lo Muandi
@@ -4361,7 +4361,7 @@ Golo
 Golombole
 Golome
 Golongo, Kalangu, Kalengu
-Golungo Alto, Concelho da Golungo Alto, Galungo Alto, Município do Golungo Alto, Голунгу Альту
+Golungo Alto, Concelho da Golungo Alto, Galungo Alto, Município Golungo Alto, Голунгу Альту
 Goma
 Gomba Caluete, Gonga-Galuate
 Gombe, Gombe Dua
@@ -4522,7 +4522,7 @@ Hosa, Ilosa, Iloza
 Hosse
 Hote
 Huamba
-Huambo, Concelho do Huambo, Distrito do Huambo, Huambo Province, Huamdo, Município do Huambo, Muné-Huambo, Nova Lisboa, Província do Huambo, Уамбо
+Huambo, Concelho do Huambo, Distrito do Huambo, Huambo Province, Huamdo, Município Huambo, Muné-Huambo, Nova Lisboa, Província do Huambo, Уамбо
 Huandi, Huande, Vandi
 Huaria Lunga
 Huasseca, Camaginga
@@ -4542,7 +4542,7 @@ Humbi, Fazenda Diquita do Humbi, Umbi
 Humbondo, Umbombo
 Humbongue
 Huminho
-Humpata, Município da Humpata, São Januaria, São Januario da Humpata, Умпата
+Humpata, Município Humpata, São Januaria, São Januario da Humpata, Умпата
 Huncombarane
 Hunga
 Hungo, Hango
@@ -4606,7 +4606,7 @@ Imbuta
 Imombo
 Impanga, Ipanga
 Impulo, Impula, Impule
-Inama uá Ngando, Fazenda Inamangondo, Fazenda do Inamangando, Inamagando, Inamangando
+Inama uá Ngando, Fazenda Inamangando, Fazenda Inamangondo, Inamagando, Inamangando
 Inconcom, Ingongom
 Inda
 Indioma
@@ -4674,7 +4674,7 @@ J. Valadares
 Jaca
 Jacinto
 Jaime
-Jamba, Anjambo, Calanjimbo, Calanjumbo, Jamba Segundo, Município da Jamba
+Jamba, Anjambo, Calanjimbo, Calanjumbo, Jamba Segundo, Município Jamba
 Jamba Calunga
 Jamba Calunga Primeiro
 Jambacita
@@ -4687,7 +4687,7 @@ Januário
 Jata
 Jau
 Jemiche Capamba
-Jerusalem
+Jerusalém
 Jesus Pedro
 Jia
 Jica
@@ -4742,7 +4742,7 @@ Jumbi Alto
 Jumbi Baixo
 Jumbo
 Junde, Tchiundi
-Jundo
+Jundó
 Jungo
 Jungo iá Cuca
 Junta
@@ -4930,7 +4930,6 @@ Locoquicha, Lucoquicha
 Loenho, Luenho
 Loge
 Lola
-Lolo
 Loloige
 Lolucungo
 Lolunga
@@ -4959,8 +4958,8 @@ Lominga
 Lomingo
 Lomone
 Lomone Mbeu
-Lomue, Embala Ulondo, Ulondo
 Lomupa
+Lomué, Embala Ulondo, Ulondo
 Lona
 Lonale
 Lonama
@@ -5030,7 +5029,7 @@ Lovelo
 Lovindji
 Lua, Praia da Lua
 Lua Cheia
-Luacano, Concelho do Dilôlo, Dilõlo, Lucano, Município Luacano, Луакану
+Luacano, Concelho do Dilôlo, Dilõlo, Luakanu, Lucano, Município Luacano
 Luache
 Luachimo, Camatundo, Matechai, Samiena
 Luacho, Luash, Luasho
@@ -5041,7 +5040,6 @@ Luai
 Luaia, Chicaia, Shikaia
 Luaio
 Luala
-Luali, Malende
 Lualica
 Luamacala
 Luamba, Luamba-Quissama, Luambo
@@ -5068,10 +5066,10 @@ Luata
 Luatamba, Lopezh
 Luati, Lwati, Porto Sul
 Luatira
-Luau, Luao, Município do Luau, Teixeira de Sousa, Teixera de Sousa, Texeira-de Susa, Vila Teixeira de Sousa, Vila Teixeira de Souza, Vila Teixera de Souza, Vila Texeira de Sousa, Zozo de Baixo
+Luau, Luao, Município Luau, Teixeira de Sousa, Teixera de Sousa, Texeira-de Susa, Vila Teixeira de Sousa, Vila Teixeira de Souza, Vila Teixera de Souza, Vila Texeira de Sousa, Zozo de Baixo
 Lubalo, Circunscrição do Lubalo, Lobalu, Município Lubalo
 Lubamba
-Lubango, Concelho do Lubango, Município do Lubango, Sa da Bandeira
+Lubango, Concelho do Lubango, Município Lubango, Sa da Bandeira
 Lubino
 Lubuco
 Lubungululo
@@ -5087,7 +5085,7 @@ Lucamba
 Lucamba Primeiro
 Lucamba Segundo
 Lucande, Lucunde
-Lucapa, Concelho de Verissimo Sarmento, Município do Lucapa, Лукапа
+Lucapa, Concelho de Verissimo Sarmento, Lukapa, Município Lucapa
 Lucare, Lucore
 Lucata, Kongo
 Luceno
@@ -5115,7 +5113,6 @@ Lucunga B
 Lucungo
 Lucusse, Lukuzi, Лукусе
 Lucálua
-Luege
 Luegi
 Luegi Novo
 Luele
@@ -5214,12 +5211,12 @@ Lungongo I
 Lungongo II
 Lungozo
 Lungue
-Lunguegi, Lundeji, Lunguege, Lungueji
 Lunguela
 Lunguena
 Lungui
 Lunguissa
 Lungundua
+Lunguégi, Lundeji, Lunguege, Lungueji
 Luniete
 Lunjata
 Lunje
@@ -5279,7 +5276,6 @@ Lutau
 Lutembo, Lutembu
 Lutendele
 Lutente
-Lutete
 Lutia
 Lutila
 Luto
@@ -5287,6 +5283,7 @@ Lutongo
 Lutuai, Lutuia
 Lutuegi
 Lutula
+Lutéte
 Luvaca
 Luvalo
 Luvando, Lovando, Lubando
@@ -5318,17 +5315,20 @@ Luzembo, Luamba-Luzembo
 Luzi
 Luzo
 Luzuanda, Luzuando, Luzunda
+Luáli, Malende
 Luátchi
 Luáua
+Luége
 Luéque
 Luétu
 Lámina
 Lécua
 Lépi
-Léua, Município do Léua
+Léua, Município Léua
 Lêmboa
 Lóue
 Lóvua, Lóvoa
+Lôlo
 Lúbia
 M'pupa
 M. A. Santos
@@ -5391,7 +5391,6 @@ Machocue
 Maco
 Macobita, Mocoboto
 Macochi
-Macoco, Mucocolo
 Macocola, Mococola, Mococolo, Mucocola
 Macolo, Macola
 Maconde
@@ -5418,6 +5417,7 @@ Macusso
 Macutna
 Macuto
 Macári
+Macôco, Mucocolo
 Madeira
 Madele iá Senda
 Madianga Segundo
@@ -5657,7 +5657,7 @@ Mataba
 Mataba Ndondo
 Matadi
 Matagunga
-Matala, Aldeia da Matala, Circunscrição de Alto Cimene, Circunscrição de Alto Cunene, Município da Matala
+Matala, Aldeia da Matala, Circunscrição de Alto Cimene, Circunscrição de Alto Cunene, Município Matala
 Matamba, Matambo, Matumba
 Matampi
 Matanda
@@ -5695,7 +5695,6 @@ Maucambuia
 Maue, Mace
 Mauele
 Mauengue
-Mauete
 Maueze
 Maugica
 Mauleve
@@ -5737,6 +5736,7 @@ Mazuacuma
 Mazunda, Mazumba
 Mazungue
 Mazunzo
+Maûete
 Mbala
 Mbalandulo
 Mbalanga
@@ -5923,7 +5923,7 @@ Menguege
 Menha
 Menha à Nzambi
 Menhalula Quitôa, Menhalula
-Menongue, Circunscrição de Menongue, Concelho de Serpa Pinto, Concelho do Menongue, Município Menongue, Município de Menongue, Serpa Pinto, Vila Serpa Pinto, Менонгве, Менонге
+Menongue, Circunscrição de Menongue, Concelho de Serpa Pinto, Concelho do Menongue, Menonge, Município Menongue, Município de Menongue, Serpa Pinto, Vila Serpa Pinto, Менонгве
 Menuca, Munuca
 Mepanga
 Mepaso, Mpazu
@@ -6032,7 +6032,6 @@ Molondondo Primeiro
 Molondondo Segundo
 Molundo
 Molungo
-Moma, Embala Moma, Môma-Suia
 Moma Primeiro
 Moma Segundo
 Moma da Banze
@@ -6065,7 +6064,6 @@ Mongoazulo, Mongo-Zulo
 Mongolo
 Mongolongo
 Mongongue
-Mongua
 Monguera, Fazenda Monguera
 Mongulo
 Mongunga
@@ -6323,7 +6321,6 @@ Mucombe
 Mucombi
 Muconda, Circunscrição de Cassai-Sul, Circunscrição de Nova Chaves, Circunscrição do Cassai Sul, Meconde, Município Muconda, Município de Muconda, Nova Chaves, Nova Shavezh, Novas Chaves, Sacaiondo, Муконда
 Mucondo, Mucando, Quimecunda, Quincando
-Mucongo
 Mucongola
 Mucongue
 Muconzo
@@ -6415,7 +6412,6 @@ Muhanza, Muanza
 Muhende
 Muhepe
 Muhesse
-Muheto, Muatazanda, Muete, Mueto
 Muhindi
 Muhombo
 Muhondo, Mondo, Muondo
@@ -6431,8 +6427,8 @@ Muhungo à Hita, Muhungo-iá-Ita, Mungaida
 Muhungolo
 Muhungua
 Muhunzo, Fazenda Muhunzo, Munhunzo
-Muhuri
 Muhé
+Muhúri
 Muiamba
 Muiavongo, Muiovongo
 Muiaze
@@ -6526,7 +6522,7 @@ Munene
 Munenge
 Mungala
 Munganda
-Mungo, Carumbo, Fazenda Mungo, Karumbu, Município do Mungo, Мунгу
+Mungo, Carumbo, Fazenda Mungo, Karumbu, Município Mungo, Мунгу
 Mungolo
 Mungomba, Matonga, Matongo, Mungambo
 Mungombe
@@ -6580,9 +6576,9 @@ Muquinha, Muena
 Muquixe, Muquia
 Murahilato
 Muriata
-Muriege, Murieje, Murieji
 Muringa, Murianga
 Muriquixe
+Muriége, Murieje, Murieji
 Murlenge
 Murro, Muro
 Murure
@@ -6608,7 +6604,7 @@ Mussaulo
 Musselo à Tembo
 Mussema
 Musseme
-Mussende, Município do Mussende
+Mussende, Município Mussende
 Mussende Chôa
 Mussende Quissobe
 Mussendeleque
@@ -6690,13 +6686,13 @@ Mutuate
 Mutucue, Mutucua
 Mutumba
 Mutumbo
-Mutumbua, Matumbua
 Mutumbua Mutrombeta
 Mutumbuacápi
 Mutumieque, Mutumiheque
 Mutundo
 Mutêmua
 Mutôa, Samuhondo
+Mutúmbua, Matumbua
 Muvembe
 Muvi
 Muvimba, Movimba
@@ -6727,12 +6723,16 @@ Muá Chimica
 Muá Mungôa
 Muá Namoa
 Muáti
+Muçongo
 Máquina
 Máua
 Mâma
 Móio
+Môma, Embala Moma, Môma-Suia
+Môngua
 Môngua Quingúri
 Múcua
+Múheto, Muatazanda, Muete, Mueto
 Múria
 N'Calicanta, Cala Canta, Kala Kanta, Ngauganta
 N'Calo, N'Kulu, N'kulo, Nculo, Neculo, Neulo
@@ -6771,7 +6771,6 @@ Namaliongo
 Namaloba
 Namba
 Nambalo
-Nambua, Lunambo, Nambue
 Nambuangongo, Nabuangongo, Vila General Freire
 Nambulo
 Nambói
@@ -7106,7 +7105,6 @@ Nguidi
 Nguimbe
 Nguimbi
 Nguimbi Songo
-Nguiri, Guiri
 Nguiri Cambonde
 Nguiri Cazombo
 Nguiri iá Capessa
@@ -7133,7 +7131,6 @@ Ngundji
 Ngundo, Cabamba, Кабамба
 Ngundungo
 Ngunga
-Ngungi
 Ngungo
 Ngungo Canhali
 Ngungo Paco
@@ -7160,10 +7157,12 @@ Nguriacama, Rainha Guriacama
 Ngussi
 Nguvo
 Nguvulo
+Nguíri, Guiri
 Ngáma Muhungo
 Ngío
 Ngóti, Goti
 Ngôngua Muanha
+Ngúngi
 Nhacacunde
 Nhacalege
 Nhacalunda, Inhacalunga, Inhaculunga, Nacalunda
@@ -7262,8 +7261,8 @@ Nonganga
 Nongongue Segundo
 Nongonque Primeiro
 Nonguai, Nonuai
-Nongue
 Nonguenha
+Nongué
 Nova Aurora, Auroca, Aurora, Fazenda Aurora, Fazenda N. Aurora, Fazenda Nova Aurora
 Nova Cassoalala
 Nova Ecperanca
@@ -7313,7 +7312,6 @@ Nundo
 Nune
 Nunes
 Nungongo
-Nungue
 Nunhualo
 Nunulo, Nungulo
 Nupena
@@ -7327,7 +7325,6 @@ Nyomankanao, N'Jomanca, Njomancana, Nyomankana
 Nzadi
 Nzadi Quimpandi, Quimuanza Nzadi
 Nzage Camutenda
-Nzagi, Nzagi Andrada
 Nzague Catunda
 Nzamba
 Nzamba Cavulamita
@@ -7367,10 +7364,13 @@ Nzunga
 Nzungo
 Nzungue
 Nzunzo
+Nzági, Nzagi Andrada
 Nzári, Zar
-Nóqui, Circunscrição de Nóqui, Circunscrição do Nóqui, Município do Nóqui
+Nâmbua, Lunambo, Nambue
+Nóqui, Circunscrição de Nóqui, Circunscrição do Nóqui, Município Nóqui
 Nóssi, Nache
 Nôndua, Catcholocoto
+Núngue
 Oamicuto
 Oaungo
 Obra, Lovi
@@ -7462,7 +7462,6 @@ Pandera
 Pandi
 Panga, Embala Panga
 Panga de Baixo, Panda de Baixo
-Pangala, Pengala
 Pangamongo, Pango Mongo
 Pangate
 Pange
@@ -7518,7 +7517,6 @@ Pegado de Cima
 Peixoto
 Pelengue Novo
 Pelengue Velho
-Pelo
 Pelumba, Lumba
 Pemba
 Pembalundo
@@ -7578,7 +7576,6 @@ Plateau dos Cubais
 Pocaheque
 Pocangula
 Pocha Gando
-Poco
 Pocolo, Chapumina, São José Pokollo, São Jõao Pokollo, Xapumina
 Pola
 Poli, Chilavi
@@ -7599,7 +7596,7 @@ Ponte do Capulo, Catacanha, Katakanha
 Ponto III
 Porta Alegre
 Porto
-Porto Amboim, Ambonim, Ambouim, Benguela-a-Velha, Benguella Velha, Concelho de Porto Amboim, Município Porto Amboim, Old Benguela, Port Amboim, Porto Hmboim, Порту Амбоим
+Porto Amboim, Ambonim, Ambouim, Benguela Velha, Benguella Velha, Concelho de Porto Amboim, Município Porto Amboim, Old Benguela, Port Amboim, Porto Hmboim, Порту Амбоим
 Porto Quipiri, Porto Quipire, Porto Quipiye, Quipini
 Porto Rico
 Portualia
@@ -7615,7 +7612,7 @@ Povo Alto
 Povo Grande
 Povoação da Baia
 Povoação do Quilômetro Trinta e Três
-Praia
+Poço
 Praia Amélia, Amelia Beach
 Praia Azul
 Praia Bebe
@@ -7623,6 +7620,7 @@ Praia da Hanha
 Praia de Sul Tiago
 Praia do Santo Antonio
 Prata
+Praía
 Prego
 Primeira
 Primeiro
@@ -7658,7 +7656,9 @@ Puri, Município Puri
 Pussula
 Putieca
 Puto
+Pângala, Pengala
 Péu-Péu
+Pêlo
 Pêso
 Pêso Novo
 Pêso Velho
@@ -7673,7 +7673,7 @@ Quatro de Fevereiro
 Quebela, Quiabal
 Queimama, Uoquenama
 Queizo
-Quela, Concelho do Quela, Município do Quela, Кела
+Quela, Concelho do Quela, Kela, Município Quela
 Quelele
 Quelinha
 Quelo, Kelo
@@ -7703,7 +7703,6 @@ Queve
 Queve Cangombe, Kangombe
 Quiabacana
 Quiabemba
-Quiaca
 Quiage, Quiege
 Quiaia
 Quiala
@@ -7741,7 +7740,7 @@ Quiba
 Quibaba
 Quibaca
 Quibaia
-Quibala, Circunscrição da Quibala, Concelho da Quibala, Kibala, Luanda Quibala, Município da Quibala
+Quibala, Circunscrição da Quibala, Concelho da Quibala, Kibala, Luanda Quibala, Município Quibala
 Quibalacata
 Quibale
 Quibalo
@@ -7840,7 +7839,6 @@ Quicala
 Quicala Cungo, Quicara
 Quicala do Nguve
 Quicamba quiá Teca
-Quicambani, Quicâmbana
 Quicambige
 Quicambuaia
 Quicambunda
@@ -7893,7 +7891,7 @@ Quicohi
 Quicola
 Quicolo
 Quicomba
-Quicombo, Quincombo, Кикомбо
+Quicombo, Kikombo, Quincombo
 Quiconda
 Quiconde
 Quicondo
@@ -7905,7 +7903,6 @@ Quicongua
 Quiconza
 Quicote
 Quicoto
-Quicoxi
 Quicoxi Mbunga
 Quicua
 Quicuanga
@@ -7943,7 +7940,9 @@ Quicunzo, Quicunza
 Quicusso
 Quicuto
 Quicuva
+Quicâmbani, Quicâmbana
 Quicólua
+Quicóxi
 Quidalulo Lunga
 Quidanguila
 Quidavid
@@ -8261,7 +8260,6 @@ Quimbanzo
 Quimbar
 Quimbaringa
 Quimbata, Quibata
-Quimbati
 Quimbaxi
 Quimbeia
 Quimbele, Circunscrição do Cuango, Município Quimbele, Município de Quimbele, Quimbel, Quimbelo, Кимбеле
@@ -8270,7 +8268,6 @@ Quimbembe
 Quimbenga Teca
 Quimbenga-Matadi
 Quimbengue
-Quimbengui, Vitória
 Quimbengui Francisco
 Quimbengui Zongo Primeiro
 Quimbengui Zongo Segundo
@@ -8338,9 +8335,11 @@ Quimbunga Segundo
 Quimbungalau
 Quimbungambando
 Quimbungo
+Quimbáti
 Quimbândua
 Quimbégi Macondo, Quimbege, Quimbege Macondo, Quimbeje
 Quimbézi
+Quimbêngui, Vitória
 Quime-Cassequila, Quileca
 Quimecanza, Décimo de Dezembro
 Quimeia, Quitine
@@ -8435,10 +8434,10 @@ Quimunanga Segundo
 Quimunene
 Quimuquengi
 Quimussande Caondo
-Quimussandi, Quimussande
 Quimussanga
 Quimussenga
 Quimussungo, Mossungo, Quimossundo
+Quimussândi, Quimussande
 Quimutange
 Quimutecamo
 Quimutela
@@ -8543,7 +8542,7 @@ Quinginga
 Quinginge
 Quingingi
 Quingingo
-Quingles, Quiglezo
+Quinglês, Quiglezo
 Quingo
 Quingoa, Quincu, Quincua
 Quingola
@@ -8644,12 +8643,12 @@ Quintama
 Quintambe
 Quinto
 Quintone
-Quintoto
 Quintoto Tádi
 Quintsudi
 Quintuani
 Quintuti
 Quintxi
+Quintôto
 Quinuahoji
 Quinuala, Quimuala, Quimuda
 Quinuandua
@@ -8678,7 +8677,7 @@ Quinzanze
 Quinzanzi
 Quinzanzo
 Quinzarinzari
-Quinzau, Kinsao, Kinzao, Kinzau, Quianza, Quincau
+Quinzaú, Kinsao, Kinzao, Kinzau, Quianza, Quincau
 Quinze
 Quinzenza
 Quinzoezo
@@ -8707,11 +8706,9 @@ Quiombo
 Quiondo Cassonga
 Quiongola, Quiungola
 Quiongolola
-Quiongua, Banza Quiondo, Banza Quiongo
 Quionjo
 Quiototo
 Quioua, Quindiozi, Quiza
-Quiova
 Quioza
 Quipaca
 Quipacaça
@@ -8754,7 +8751,6 @@ Quipata
 Quipato
 Quipaulo
 Quipaxe
-Quipaxi
 Quipaza, Banza Quizingo
 Quipedro, Quipetro
 Quipeio
@@ -8797,6 +8793,7 @@ Quipupa, Puai, Puay
 Quipuquila
 Quipute
 Quiputo
+Quipáxi
 Quipôbidi
 Quiquele
 Quiquelele
@@ -8810,7 +8807,6 @@ Quiquiala
 Quiquiama
 Quiquiambole, Quiabale, Quiambole
 Quiquiana
-Quiquiangala, Quiguiangala
 Quiquianguele, Quiquianguel, Quiquienguele
 Quiquieleca, Quieleco
 Quiquiesso, Quiquesso
@@ -8822,6 +8818,7 @@ Quiquinguila, Quiangula, Quinguila
 Quiquiombo
 Quiquionzo, Quiguionze
 Quiquiula
+Quiquiângala, Quiguiangala
 Quiquossua
 Quirela
 Quiriama, Luanda Quiriama
@@ -9171,9 +9168,12 @@ Quizulo, Quisulo, Quizula
 Quizumbo do Mucongo
 Quizumbo do Mussende
 Quizunga
+Quiáca
 Quiçaba
 Quiçõe
 Quió
+Quiôngua, Banza Quiondo, Banza Quiongo
+Quiôva
 QuÍzanga
 Qué
 Quêremos
@@ -9273,8 +9273,8 @@ S. Costa
 Saba
 Sabasaba
 Saber Andar
-Sabie, Samisoce, Samisore
 Sabimassa
+Sabié, Samisoce, Samisore
 Sabonete, Satjemba
 Sabunonga, Linongo
 Saca
@@ -9385,7 +9385,6 @@ Sacatema
 Sacatemba, Sacatambi
 Sacatengo, Sacatango
 Sacativa
-Sacato
 Sacato Novo
 Sacatombo
 Sacatuxe
@@ -9540,8 +9539,8 @@ Salombinga
 Salombongo, Calombinga
 Salomão
 Salonge
-Salongue, Salongoé
 Salonguenda
+Salongué, Salongoé
 Saluana
 Saluandja
 Salubambo
@@ -9812,7 +9811,6 @@ Sananga
 Sanatata
 Sanda, Chuanda
 Sanda Massala, Sanga Massala
-Sandala, Condama, Kandana
 Sandambindja
 Sandambongo, Lamusoco, Lamussoco
 Sandando
@@ -9844,6 +9842,7 @@ Sandulula
 Sandumba, Sandunba
 Sandumbe
 Sandumduma
+Sandála, Condama, Kandana
 Sanga
 Sanga Bundo
 Sanga Grande
@@ -9876,7 +9875,6 @@ Sanguegi
 Sanguenzo
 Sangueve
 Sangufo
-Sangui, Nsangue, Sangui-Xinga
 Sanguila
 Sangula
 Sanguli
@@ -9933,7 +9931,7 @@ Santudo
 Sanvula
 Sanvuli, Muzenga
 Sanza
-Sanza Pombo, Concelho do Pombo, Município do Sanza Pombo
+Sanza Pombo, Concelho do Pombo, Município Sanza Pombo
 Sanzala Isác
 Sanzambe
 Sanzamo, Sanzama
@@ -10088,7 +10086,6 @@ Saúa
 Sebastião
 Sebastião José
 Seca
-Seco
 Secombe
 Secrita
 Secuca
@@ -10207,7 +10204,7 @@ Socorolo
 Socubal
 Socundundo
 Sohicengo
-Soio, Saint Antonio do Zaire, San Antonio, Santo Antoni, Santo António do Zaire, Sazaire, São Antônio, Сойо
+Soio, Saint Antonio do Zaire, San Antonio, Santo Antoni, Santo António do Zaire, Sazaire, Soyo, São Antônio
 Solala
 Solar
 Soldado
@@ -10234,7 +10231,7 @@ Sona Catoco
 Sonde
 Sondembe
 Sondjamba
-Songo, Município do Songo
+Songo, Município Songo
 Songoriambimbi
 Songue, Sorgue
 Sonhe
@@ -10277,7 +10274,7 @@ Sulacala
 Sulula
 Sumba
 Sumba-Cassai
-Sumbe, Angungescapolo, Concelho de Novo Redondo, Município do Sumbe, Ngangula, Nova Redonda, Nova Redondo, Novo Redondo
+Sumbe, Angungescapolo, Concelho de Novo Redondo, Município Sumbe, Ngangula, Nova Redonda, Nova Redondo, Novo Redondo
 Sumbi
 Sumbula
 Sumpi
@@ -10287,8 +10284,8 @@ Sunga
 Sungambundo
 Sungingi, Cotonang, Sunginge
 Sungo
-Sungue, Sungi
 Sunguete
+Sungué, Sungi
 Sunza, Sunzo
 Sunzé
 Suscina
@@ -10298,12 +10295,14 @@ Suá Ienga
 Sá Leitão
 Sá de Bandeira
 Sácamo
+Sácato
 Sádia
 Sálua
 Sámuquixi
+Sângui, Nsangue, Sangui-Xinga
 São Bento
 São Eulália, Fazenda Santa Eulália, Fazenda São Eulalia, Santa Eulália
-São Jose, Luaanda, Pescaria Saô José
+São José, Luaanda, Pescaria Saô José
 São José do Encoje, Encoge, Enkoje, San Jose do Encogé, São José de Encoge, São José de Encoje, São José do Encoge
 São José do Luati, San José de Luali
 São Jõao do Giraul
@@ -10317,6 +10316,7 @@ São Tomista
 São Tomé, Embala São Tomé
 Sé Nova
 Sécamo, Secami
+Sêco
 Sósinho
 Sótia
 Sôngua
@@ -10325,7 +10325,6 @@ Súria, Súlia
 T'chico
 Taba
 Tabango
-Tabi, Fazenda Tabi, Tabe
 Tabi Primeiro
 Tabi Segundo
 Tabo
@@ -10343,7 +10342,7 @@ Tala Seque
 Tala Tombo
 Talaila
 Talala
-Talamangolo
+Talamangôlo
 Talambanza, Talabanza
 Talangala
 Talani
@@ -10364,7 +10363,7 @@ Tamba Vilola
 Tambe, Tambi, Termas do Tambe
 Tambo
 Tambor, Peleva
-Tambue
+Tambué
 Tampa
 Tanda
 Tanda Matiaba, Tando Matiaba, Tota Hola, Tota Ola
@@ -10631,7 +10630,7 @@ Tchimbolandongo, Chimbarandongo
 Tchimbolete, Chimbolele
 Tchimbombola
 Tchimbombombo
-Tchimbonde
+Tchimbondè
 Tchimbongi, Chimbonge, Quimbonge
 Tchimbongo
 Tchimbongue
@@ -10758,7 +10757,6 @@ Tchipoia
 Tchipolocosso
 Tchipomo
 Tchipopa
-Tchipopia, Chipópia
 Tchipuco
 Tchipuica
 Tchipumo
@@ -10773,6 +10771,7 @@ Tchipuápua
 Tchipáco
 Tchipátchi
 Tchipéu
+Tchipópia, Chipópia
 Tchipúli, Canguiuve
 Tchique
 Tchiquelei
@@ -11001,17 +11000,17 @@ Tola
 Tolambila
 Toma
 Tomaluta
-Tomas
 Tomba
 Tombe
 Tombica
 Tombinga, Tumbinga
 Tombo, Terra Nova e Tombo
-Tomboco, Município do Tomboco
 Tombola
 Tombole
-Tome
+Tombôco, Município Tomboco
 Tomessa
+Tomás
+Tomé
 Tondi Curindi
 Tondo
 Tondoche, Tandoche
@@ -11036,9 +11035,9 @@ Travessa
 Trindade
 Trinta
 Triumfo
-Troco, Móco
 Trombeta
 Três Montanhas
+Trôco, Móco
 Tsambanda, Chiambanda
 Tseinda
 Tuala
@@ -11086,16 +11085,17 @@ Tunjo
 Turige
 Tuta
 Tutengo, Chitengo
-Tuti
 Tuto
 Tuá diá Cambo
 Txicunhe, Xicunhe
 Txiuangula
 Txizainga
+Tábi, Fazenda Tabi, Tabe
 Tádi Quimbosso
 Tândi Primeiro
 Tândi Segundo
 Tômbua, Port Alexander, Porto Alexandre
+Túti
 Uaba Alto
 Uacava
 Uachia, Uatchia
@@ -11252,8 +11252,8 @@ Vale do Loge, Colonato do V. do Loge, Colonato do Vale do Loge
 Vale do Vindica
 Valengue
 Valentim
-Valodia
 Valussengue
+Valódia
 Vamba
 Vambe
 Vampa
@@ -11469,7 +11469,6 @@ Yenga, Manga Grande, Mangue Grande, Mankwe Grande
 Zaca
 Zacaria, Quitote
 Zacáti
-Zadi
 Zafl
 Zage
 Zairense Primeiro
@@ -11479,7 +11478,6 @@ Zamba
 Zambache, Zambaxe, Zambaxi
 Zambe
 Zambela
-Zambia
 Zambla-Zambla
 Zanda
 Zanga
@@ -11564,5 +11562,7 @@ Zunzua
 Zuzo
 Zuzo Catando
 Zuzo Macolo
+Zádi
+Zâmbia
 Zôvo
 Úcua

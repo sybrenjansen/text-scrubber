@@ -27,7 +27,7 @@ Alaques (Alaquez)
 Alausi
 Albaja
 Alejandro Labaka
-Alfredo Baquerizo Moreno (Jujan), Alfredo Baquerizo Moreno Canton
+Alfredo Baquerizo Moreno (Juján), Alfredo Baquerizo Moreno Canton
 Algodón Zaruma
 Alhajuela (Bajo Grande)
 Alluriquin
@@ -48,10 +48,10 @@ Ambatillo
 Ambato
 Ambato Loma
 Ambuqui
-America
 Ami Grande, Cerro Ami
 Amina
 Amulá, Cerro Amula
+América
 Anchayacu
 Ancon (Pichangal) (Cab. En Palma Real)
 Anconcito
@@ -259,7 +259,7 @@ Calpi
 Caluma
 Calvario
 Camarones (Cab. En San Vicente)
-Camilo Ponce Enriquez, Camilo Ponce Enríquez Canton
+Camilo Ponce Enríquez, Camilo Ponce Enríquez Canton
 Camino Banqueado
 Campana Cucho
 Campanario
@@ -300,7 +300,6 @@ Cantagallo
 Cantarana
 Cantera
 Cantería
-Canton Bolivar
 Canton Caluma
 Canton Colimes
 Canton Echeandia
@@ -320,6 +319,7 @@ Cantón Babahoyo
 Cantón Balzar
 Cantón Baños
 Cantón Biblián
+Cantón Bolívar
 Cantón Buena Fe
 Cantón Calvas
 Cantón Catamayo
@@ -573,7 +573,7 @@ Cerro Fierrourcu
 Cerro Gallo Cantana
 Cerro Gallocantana
 Cerro Grande
-Cerro Guachanama, Cerro Huachaurcu
+Cerro Guachanamá, Cerro Huachaurcu
 Cerro Guachingue
 Cerro Guagra-urcu, Cuagraurcu, Huagra Urcu
 Cerro Hermoso, Llanganati
@@ -1100,7 +1100,6 @@ Daniel Cordova Toral (El Oriente)
 Dardococha
 Daule
 Dayuma
-Deleg, Déleg Canton
 Dentado
 Diablo Mache
 Dias-Chaina
@@ -1114,6 +1113,7 @@ Ducur
 Dug Dug
 Dureno
 Durán, Durán Canton
+Déleg, Déleg Canton
 Echeandia
 Ecuasal
 El Achiote
@@ -1127,7 +1127,7 @@ El Angel
 El Angel Ecological Reserve
 El Arenal
 El Bambal
-El Batán, Batán
+El Batán, Batan
 El Boliche, Alto Boliche
 El Bolo
 El Bosque
@@ -1145,7 +1145,7 @@ El Chochal
 El Chocho
 El Chorro
 El Cisne
-El Corazon
+El Corazón
 El Cristal
 El Cruce
 El Derrumbo
@@ -1193,7 +1193,7 @@ El Salado
 El Salitre (Las Ramas)
 El Sigsal
 El Sigüín
-El Tablon
+El Tablón
 El Tambo
 El Tigre
 El Triunfo, El Triunfo Canton
@@ -1450,7 +1450,7 @@ Estero de Pilco
 Estero de Pitahaya
 Estero de Puná Vieja, Estero Puná Vieja
 Estero de Rincón Grande
-Estero de Sabana Grande, Estero Sábana Grande
+Estero de Sabana Grande, Estero Sabana Grande
 Estero de San Miguel
 Estero de San Vicente
 Estero de Santa Rosa
@@ -1764,14 +1764,14 @@ Jalo Loma
 Jama, Jama Canton
 Jambeli
 Japal, Cerro Japal
-Jaramijo, Jaramijó Canton
+Jaramijó, Jaramijó Canton
 Jaramillo
 Jatapamba
 Jatumpamba
 Jatún Loma
 Javier Loyola (Chuquipata)
 Jedembuer
-Jerusalen
+Jerusalén
 Jesus Maria
 Jesús del Gran Poder
 Jijon Y Caamaño (Cab. En Rio Blanco)
@@ -1822,8 +1822,8 @@ La Joya De Los Sachas, Joya de los Sachas Canton
 La Laguna
 La Libertad
 La Libertad (Alizo)
-La Mana, La Maná Canton
 La Mangonera
+La Maná, La Maná Canton
 La Merced
 La Merced De Buenos Aires
 La Moya
@@ -1853,7 +1853,7 @@ La Victoria Grande
 La Villegas
 La Wintza
 Lagarto
-Lago Agrio
+Lago Agrío
 Lago Donoso
 Lago San Pedro
 Lago de Sade, Lago Sade, Laguna de Sade
@@ -2277,7 +2277,7 @@ Manu
 Manuel Cornejo Astorga (Tandapi)
 Manuel J. Calle
 Maquipucuna Biological Reserve, La Reserva Biologica Maquipucuna
-Marcabeli, Marcabelí Canton
+Marcabelí, Marcabelí Canton
 Marchena Volcano
 Marcos Espinel (Chacata)
 Mariana Miller Biological Reserve, Reserva Biolócia Mariana Miller
@@ -2382,8 +2382,8 @@ Naranjamba
 Naranjito
 Narcisa De Jesus
 Narihuiña, Cerro Narhuiña, Nariguiña
-Nayon
 Naypungu, Naipongo
+Nayón
 Nazon (Cab. En Pampa De Dominguez)
 Negro Huañuna
 Negro Urcu
@@ -2667,7 +2667,7 @@ Provincia de Napo, Napo
 Provincia de Pichincha, Provincia del Pichincha
 Provincia de Santa Elena
 Provincia de Santo Domingo de los Tsáchilas, Santo Domingo de los Tsáchilas
-Provincia de Sucumbíos, Sucumbíos
+Provincia de Sucumbíos, Sucumbios
 Provincia de Zamora-Chinchipe, Provincia Amazónica Zamora-Chinchipe, Provincia Amazónica de Zamora-Chinchipe, Provincia Santiago Chinchipe, Zamora-Chinchipe
 Provincia del Azuay, Azuay
 Provincia del Carchi, Carchi, Provincia de Carchi
@@ -2677,9 +2677,9 @@ Provincia del Guayas, Guayas
 Provincia del Pastaza, Pastaza, Provincia de Pastaza
 Provincia del Tungurahua, Provincia de Tungurahua
 Pucapamba
-Pucara, Pucará Canton
 Pucarabamba, Pucarapamba
 Pucarayacu
+Pucará, Pucará Canton
 Pucará de Tupigachi
 Pucayacu
 Pueblo Nuevo
@@ -2700,7 +2700,7 @@ Puerto Francisco De Orellana (El Coca)
 Puerto Grande
 Puerto Libre
 Puerto Limon
-Puerto Lopez, Puerto López Canton
+Puerto López, Puerto López Canton
 Puerto Marítimo de Guayaquil, Port of Guayaquil, Puerto Nuevo de Guayaquil
 Puerto Misahualli
 Puerto Murialdo
@@ -2857,7 +2857,7 @@ Punta San Jacinto, Jacinte Point
 Punta San José
 Punta San Juan, Punta John, Saint John Point
 Punta San Lorenzo
-Punta Santa Elena, Cabo Santa Elena, La Puntilla, Puntilla de Santa Elena, St. Elena Point
+Punta Santa Elena, Cabo Santa Elena, La Puntilla, Puntilla de Santa Elena, Saint Elena Point
 Punta Sur, Punta South
 Punta Surrones, Punta Surones, Punta Zurrones
 Punta Suspiro
@@ -4914,21 +4914,12 @@ Resrva Biológica Jatun Sacha, Jatun Sacha Biological Reserve
 Retama
 Reventón
 Ricaurte
-Rio Blanco
 Rio Bonito
 Rio Corrientes
-Rio Dashino, Río Lashino
 Rio Guagalito Reserve Alluriquin, Reserva Floristica-Ecologia Rio Guajalito
-Rio Maratiyacu
-Rio Negro
 Rio Palenque Science Center
-Rio Pucuno, Río Pacuno
-Rio Shaime
-Rio Tigre
 Rio Uniquino
-Rio Verde, Río Verde Grande
 Rio Vilano
-Rio Zamora, Zamora River
 Riobamba
 Riochico (Rio Chico)
 Rioverde
@@ -5076,6 +5067,7 @@ Río Biguaral
 Río Bijagual
 Río Bilsa, Río Visa
 Río Bimbe
+Río Blanco
 Río Blanco Chico
 Río Blanco Grande
 Río Bledo, Río Bledos
@@ -5378,6 +5370,7 @@ Río Daligshi
 Río Dama
 Río Damas
 Río Dantupamba
+Río Dashiño, Río Lashino
 Río Daular
 Río Daule, Daule River, Río Grande de Daule
 Río Delicias
@@ -5681,6 +5674,7 @@ Río Manzano Huaicu
 Río Mapa Yacu
 Río Mapalí
 Río Mapota
+Río Maratiyacu
 Río Marcos
 Río Mariano, Río Mariana
 Río Maricumba, Mancumba
@@ -5774,6 +5768,7 @@ Río Naranjo
 Río Naranjos
 Río Nato
 Río Nayumawin
+Río Negro
 Río Nené
 Río Niagara, Río Desaguadero
 Río Nila
@@ -5954,6 +5949,7 @@ Río Pucayacu, Rio Pucuyacu
 Río Puchuchoa
 Río Puchuman
 Río Pucucary
+Río Pucuno, Río Pacuno
 Río Pucutahua
 Río Pucón
 Río Puebloviejo, Rio Puabloviejo, Río de Pueblo Viejo
@@ -6103,6 +6099,7 @@ Río Sayausí
 Río Seco
 Río Sené
 Río Seque
+Río Shaime
 Río Shaimi
 Río Sharqui, Quebrada Charqui, Rio Charcay, Río Chaicay, Río Chilcay
 Río Sharug
@@ -6204,6 +6201,7 @@ Río Tiaone
 Río Tierra Colorada
 Río Tierre
 Río Tigay
+Río Tigre
 Río Tigreyacu
 Río Tiguino
 Río Tihuano
@@ -6271,6 +6269,7 @@ Río Valdivia
 Río Valladolid, Quebrada Valladolid
 Río Valle
 Río Venado
+Río Verde, Río Verde Grande
 Río Verde Chico
 Río Verdecocha
 Río Verdeyacu
@@ -6331,6 +6330,7 @@ Río Yurac Yacu, Quebrada Yuracyacu, Rio Yurac, Río Yuracyacu, Yurac Yacu
 Río Yuturi
 Río Yuyumbi
 Río Zabala
+Río Zamora, Zamora River
 Río Zancudo, Quebrada Zancudo
 Río Zapallo, Río Sapallo
 Río Zapallo Grande, Rio Sapayo Grande, Río de Zapallo Grande
@@ -6454,7 +6454,6 @@ San Jacinto Del Bua
 San Javier De Cachavi (Cab. En San Javier)
 San Joaquin
 San Jorge
-San Jose
 San Jose De Ancon
 San Jose De Ayora
 San Jose De Cayapas
@@ -6471,6 +6470,7 @@ San Jose De Quichinche
 San Jose De Raranga
 San Jose Del Chazo
 San Jose Del Tambo (Tambopamba)
+San José
 San Juan
 San Juan Bosco, San Juan Bosco Canton
 San Juan De Cerro Azul
@@ -6511,9 +6511,9 @@ San Roque
 San Roque (Ambrosio Maldonado)
 San Roque (Cab. En San Vicente)
 San Salvador De Cañaribamba
-San Sebastian
 San Sebastian De Yuluc
 San Sebastian Del Coca
+San Sebastián
 San Simon (Yacoto)
 San Vicente, San Vicente Canton
 San Vicente De Huaticocha
@@ -6526,7 +6526,7 @@ Sanguillin
 Sanja Cocha
 Santa Ana
 Santa Ana De Vuelta Larga
-Santa Barbara
+Santa Bárbara
 Santa Cecilia
 Santa Clara
 Santa Cruz
@@ -6534,8 +6534,8 @@ Santa Elena
 Santa Fe (Santa Fe)
 Santa Fe De Galan
 Santa Isabel (Chaguarurco)
-Santa Lucia, Santa Lucía Canton
 Santa Lucia De Las Peñas
+Santa Lucía, Santa Lucía Canton
 Santa Maria De Huiririma
 Santa Maria Del Toachi
 Santa Marianita (Boca De Pacoche)
@@ -6557,7 +6557,7 @@ Santo Domingo
 Santo Domingo De Los Colorados
 Santo Domingo De Onzole
 Sapap Naint
-Saquisili, Saquisilí Canton
+Saquisilí, Saquisilí Canton
 Saracay
 Saraguro
 Sarayacu
@@ -6599,10 +6599,10 @@ Sigsipamba
 Silanti Segundo
 Sillacaja
 Simiatug
-Simon Bolivar, Simón Bolívar Canton
 Simon Bolivar (Cab. En Gañanzol)
 Simon Bolivar (Cab. En Mushullacta)
 Simon Bolivar (Julio Moreno)
+Simón Bolívar, Simón Bolívar Canton
 Sinai
 Sinincay
 Sinsao

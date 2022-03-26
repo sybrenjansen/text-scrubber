@@ -15,7 +15,7 @@ Barðið, Baret
 Barðsgjógv, Bergsgjógv
 Bassarnir
 Beingjógv
-Beinisvørð, Beinesvore, Beinisvörða, Beinisvörður, Bejnesvore
+Beinisvørð, Beinesvore, Beinisvörda, Beinisvörður, Bejnesvore
 Bergið, Bergsfot
 Berglíðsmúli
 Bergrætstangi, Bergrættstangi
@@ -186,14 +186,14 @@ Forstólur
 Fossdalsheyggjur
 Fossdalsá, Fosdalsá
 Fossdalur
-Fossá, Fosáa
+Fossá, Fosaa
 Fremstiklettur
 Froðbiarbotnur, Frodebö Bugt
 Froðbiarkambur
 Froðbiarnipa, Frodebö-Nipen
 Fuglafjørður, Fugle Fiord, Fuglefjord
 Fuglfjarðarskarð
-Fugloy, Fuglø
+Fugloy, Fuglö
 Fugloyarfjørður, Fuglö Fjord, Fuglø Sund
 Funningsfjørður, Funding Fjord, Funningur Fjord
 Funstangi, Funnstangi
@@ -593,7 +593,6 @@ Lokkanøv
 Lokki, Lokke
 Lokloysi
 Lomundaroyri
-Lonin
 Lopranseiði
 Lopransfjørður, Lobra Fjord, Lopra Fjord
 Lopranshólmur, Lopra Holm
@@ -625,6 +624,7 @@ Líðarnøv
 Líðartangi
 Líðin
 Lógvatangi
+Lónin
 Lónirnar
 Løgdalsá, Lödalsá
 Lúka
@@ -731,7 +731,7 @@ Nólsoyarfjørður, Nolsö Fjord
 Nónfjall, Nonfjeld
 Nónið
 Nónkjálki
-Nøvin, Növen
+Nøvin, Noven
 Núgvan
 Núgvunes, Nugvunæs
 Núpsá
@@ -949,7 +949,7 @@ Skúvafjall
 Skúvagjógv
 Skúvanesfles
 Skúvanøs, Skuvanes Head, Skuvanæs, Skúvanes
-Skúvoy, Skuø, Skúgvoy
+Skúvoy, Skuö, Skúgvoy
 Skúvoyarfjall, Skuvoyar-Fjeld
 Skúvoyarfjørður, Skuö Fjord
 Skúvoyarsker, Skuö-Shær
@@ -996,7 +996,6 @@ Steyrur
 Stiðjafjall, Stigafjall, Stigafjeld
 Stokkvík
 Stongin, Strongin
-Storagjógv, Storegjov
 Strandardalur
 Streymagjógv
 Streymnes, Stremnoes, Strömnœs
@@ -1016,6 +1015,7 @@ Stóradys
 Stórafjall, Storefjeld
 Stórafles
 Stóragil
+Stóragjógv, Storegjov
 Stóraleiti
 Stórareyn
 Stórasker

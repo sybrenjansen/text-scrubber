@@ -21,9 +21,9 @@ André
 Andus
 Anger
 Anglade
-Ansafolè, Anse-à-Foleur, Commune d'Anse-à-Foleur
-Ansapit, Anse-à-Pitres, Commune de l'Anse à Pitre
-Ansavo, Anse-à-Veau, Arrondissement de l'Anse à Veau, Commune de l'Anse-à-Veau
+Ansafolè, Anse à Foleur, Commune d'Anse à Foleur
+Ansapit, Anse à Pitres, Commune de l'Anse à Pitre
+Ansavo, Anse à Veau, Arrondissement de l'Anse à Veau, Commune de l'Anse à Veau
 Ansdeno, Arrondissement de l'Anse d'Hainault
 Anse Bord de Mer du Limbé, Anse Bord de Mer de Limbé, Anse du Bord de Mer de Limbé
 Anse Bouvard, Anse Boucard
@@ -77,7 +77,7 @@ Anse-à-Pitre
 Aqueron
 Aquin, Aken, Commune d'Aquin
 Arcadins Reefs
-Arcahaie, Akayè, Arcahaie Arrondissement, Arrondissement dArcahaie, Arrondissement de l'Arcahaie, Commune de l'Arcahaie, Lakayè
+Arcahaie, Akayè, Arcahaie Arrondissement, Arrondissement d'Arcahaie, Arrondissement de l'Arcahaie, Commune de l'Arcahaie, Lakayè
 Archin
 Areau
 Arniquet, Anikè, Commune d'Arniquet
@@ -98,7 +98,7 @@ Arrondissement de Mirebalais, Mibalè
 Arrondissement de Plaisance
 Arrondissement de Port-Salut, Pò Sali, Pòsali
 Arrondissement de Port-au-Prince, Pòtoprens
-Arrondissement de Port-de-Paix, Pòdpè
+Arrondissement de Port-de-Paix, Podpè
 Arrondissement de Saint-Louis du Nord, Sen Lwi di Nò, Sen Lwi dinò
 Arrondissement de Saint-Marc, Sen Mak
 Arrondissement de Vallières, Arrondissement de Vallière, Vallière, Valyè
@@ -125,7 +125,7 @@ Baie Carénage, Baie Chillou, Carenage Bay
 Baie Espagnole, Español Bay
 Baie Est
 Baie Fond Lagrange, Anse à la Grange, Baie du Fond la Grange
-Baie Grammont, Baie de l'Hôpital, Hospital Bay
+Baie Grammont, Baie de l'Hopital, Hospital Bay
 Baie Lefèvre, La Fevre Bay
 Baie Limonade
 Baie Ouest
@@ -233,7 +233,7 @@ Bedou
 Begot
 Belair
 Belami
-Belans, Arrondissement de Belle Anse, Belle-Anse, Commune de Belle Anse
+Belans, Arrondissement de Belle Anse, Belle Anse, Commune de Belle Anse
 Belladère, Beladè, Commune de Belladère
 Belle Dent, Belledent
 Belle Fontaine
@@ -469,7 +469,6 @@ Carabonite
 Caracol, Commune de Caracol, Karakòl
 Caracoli
 Careau Dati, Careaudati
-Carenage, Caranaro Island, Carenage Island, Île du Carénage
 Carice, Commune de Carice, Karis
 Carre
 Carrefour, Commune de Carrefour, Kafou
@@ -480,6 +479,7 @@ Carrefour Vincent
 Carrelouc
 Carriac
 Carries
+Carénage, Caranaro Island, Carenage Island, Île du Carénage
 Casal
 Cascade Pichou
 Casimir
@@ -520,7 +520,6 @@ Cercadie
 Chabet
 Chadonette
 Chadonyè, Arrondissement de Chardonnières, Arrondissement des Chardonnières
-Chaine de la Selle, Mont de la Selle, Montagne de la Selle, Morne La Selle, Mount Selle, Pic la Selle
 Chaino, Chain
 Chalivette
 Chalon
@@ -558,13 +557,14 @@ Chaîne de Saint-Nicolas, Montagnes de Saint Nicolas
 Chaîne de Vallières
 Chaîne de la Coupe à l'Inde
 Chaîne de la Grande Rivière du Nord
+Chaîne de la Selle, Mont de la Selle, Montagne de la Selle, Morne La Selle, Mount Selle, Pic la Selle
 Chaîne des Cahos
 Chaîne des Matheux, Chaîne de Mateaux
 Chaîne des Montagnes Noires
 Chaîne des Montagnes Terribles
 Chaîne des Paincroix, Chaîne Paincroix, Morne Paincroix
 Chaîne des Trois Pitons
-Chaîne du Bonnet, Chaîne Bonnet l'Evêque, Chaîne du Bonnet à l'Évêque, Morne Bonnet à l'Évêque
+Chaîne du Bonnet, Chaîne Bonnet l'Evêque, Chaîne du Bonnet à l'Évêque, Morne Bonnet a l'Evêque
 Chaîne du Borgne
 Chaîne du Haut Piton, Haut Aton, Haut Piton, Pic Haut Piton
 Chemin Dieu Moun
@@ -651,7 +651,7 @@ Commune de Marfranc, Marfranc
 Commune de Montrouis, Montrouis
 Commune de Paillant, Paillant, Payan
 Commune de Plaisance du Sud, Plaisance du Sud
-Commune de Saint-Michel de l'Attalaye, Saint-Michel, Saint-Michel de l'Attalaye, Sen Michèl Latalay
+Commune de Saint-Michel de l'Attalaye, Saint Michel de l'Attalaye, Saint-Michel, Sen Michèl Latalay
 Commune de Sainte Suzanne, Sainte Suzanne, Sent Sizàn
 Commune de la Tortue, La Tortue, Latòti
 Commune des Irois, Irois, Les Irois, Lèziwa
@@ -722,7 +722,7 @@ De l'Eau Gapi, D'Lèau Gapi
 De l'Eau Genée, D'Lo Genée
 De l'Eau Mola, D'lo Mola
 De l'Eau Passe Citron, D'Leau Passe Citron
-De l'Eau Pierre, Dlo Pierre
+De l'Eau Pierre, D'Lo Pierre
 De l'Eau Quémabon, D'lo Quémabon
 De l'Eau Ramean, D'Lo Ramean, Eau Rameau
 De l'Eau Roucou, D'lo Roucou
@@ -737,8 +737,8 @@ Denard Ravine
 Deriveau
 Deronceley, Deroncelay, Devonceley
 Derosa
-Derriere Fort
 Derrière Anse Rouge
+Derrière Fort
 Derrière Morne
 Derrière l'État
 Des Anglais
@@ -1139,7 +1139,7 @@ Grand Trou
 Grand Vincent
 Grand l'Islet
 Grand Étang, Etang Dérouline, Etang Dérouliñ
-Grandans, Depatman Grandans, Département de la Grand'Anse, GrandʼAnse
+Grandans, Depatman Grandans, Département de la Grand'Anse, Grand'Anse
 Grande Baie, Grand Bay
 Grande Baie du Mesle, Grand Baie du Mesle, Great Mesle Bay
 Grande Barrière
@@ -1257,7 +1257,7 @@ Kanie
 Katye Moren, Commune de Quartier Morin, Qartier-Morin, Quartier Morin
 Kenscoff, Commune de Kenscoff, Kenskòf
 Kotdefè, Commune de Côtes de Fer
-Koto, Arrondissement des Côteaux, Commune des Côteaux, Côteaux
+Koto, Arrondissement des Coteaux, Commune des Côteaux, Coteaux
 Kyona Plage
 L'Abbé
 L'Acul
@@ -1442,7 +1442,7 @@ Les Pirogues, Pirogues
 Les Platons
 Les Trois Rivières
 Lestage
-Leyogàn, Arrondissement de Léogane, Commune de Léogane, Léogâne
+Leyogàn, Arrondissement de Léogane, Commune de Léogane, Léogane
 Liane Riche
 Liane à Cirer
 Liane à Citron
@@ -1628,7 +1628,7 @@ Montagnes du Trou d'Eau, Chaîne du Trou d'Eau, Montagnes du d'Eau
 Montalibord, Montalibor
 Montreuil
 Monts de Cartache, Les Monts Cartaches
-Montòrganize, Commune de Mont-Organisé, Mont-Organisé
+Montòrganize, Commune de Mont-Organisé, Mont Organisé
 Mopolice
 Moquitte
 Mord
@@ -2799,7 +2799,7 @@ Platon Tilori
 Platon l'Aurore
 Platon la Coupe
 Point à Lagène
-Pointe Abacou, Pointe l'Abacou
+Pointe Abacou, Pointe L'Abacou
 Pointe Admiral
 Pointe Agujerada
 Pointe Antoine
@@ -2973,7 +2973,7 @@ Pont Coq
 Port Au Prince
 Port Calier
 Port Français, Petit Fort Français, Petit Port Francais
-Port Margot, Commune de Port-Margot, Pò Mago
+Port Margot, Commune de Port Margot, Pò Mago
 Port à Nanette
 Port-Salut, Commune de Port-Salut, Pò Sali
 Port-au-Prince, Commune de Port-au-Prince, Pòtoprens
@@ -3735,7 +3735,7 @@ Raymond Connet
 Raymonde
 Renaud, Platon Renaud
 Reposoir
-Republic of Haiti, Ayiti, Haïti, Repiblik d Ayiti, République d'Haïti
+Republic of Haiti, Ayiti, Haiti, Repiblik d Ayiti, République d'Haïti
 Reynaud
 Richard
 Riche
@@ -3762,7 +3762,7 @@ Rivière Aubry, Ravine Aubry
 Rivière Autrou
 Rivière Badaud, Rivière Badau
 Rivière Badot
-Rivière Baille
+Rivière Baillé
 Rivière Ballade, Rivière Balladere
 Rivière Banc de Roche
 Rivière Bande Roche
@@ -4198,7 +4198,7 @@ Rivière Vieux Renne
 Rivière Vimbale
 Rivière Vine
 Rivière Viton
-Rivière Voldrogue, Rivière la Voldrogue
+Rivière Voldrogue, Rivière La Voldrogue
 Rivière Voya
 Rivière Vébrine, Rivière Vedrime
 Rivière Wacacou
@@ -4238,7 +4238,7 @@ Rivière de l'Eau Petite, Rivière D'Lo Pitit
 Rivière de l'Est
 Rivière de l'Estère, Rivière de l'Esther
 Rivière de l'Islet, L'Ilet River, Rivière de l'Ilet
-Rivière de la Cahouane, La Cahouane River, Rivière la Cahouane
+Rivière de la Cahouane, La Cahouane River, Rivière La Cahouane
 Rivière de la Gosseline, La Gosseline
 Rivière de la Guinaudée, Rivière de la Guinadée
 Rivière des Abricots
@@ -4432,7 +4432,7 @@ Savane la Place, Savane Laplace
 Savane le Tuf
 Savane à Cabrits
 Savane à Lagues
-Savane à Roches, Savane à Roche
+Savane à Roches, Savane a Roche
 Savanette, Commune de Savanette, Savanèt
 Scott
 Secan
@@ -4441,7 +4441,7 @@ Section la Trouble
 Sejourne
 Sen Jan di Sid, Commune de Saint Jean du Sud, Saint Jean du Sud
 Sen Lwi di Sid, Commune de Saint Louis du Sud, Saint Louis du Sud
-Sen Rafayèl, Arrondissement de Saint-Raphaël, Commune de Saint Raphaël, Saint Raphaël
+Sen Rafayèl, Arrondissement de Saint Raphaël, Commune de Saint Raphaël, Saint Raphaël
 Sens
 Sentier
 Septième Bassin, 7e Bassin, Septième Section Communale Bassin
@@ -4588,7 +4588,7 @@ Tibarra
 Tiberis
 Tiburon, Commune de Tiburon, Tibiwon
 Ticoma
-Tigwav, Commune de Petit-Goâve, Petit Goâve
+Tigwav, Commune de Petit Goâve, Petit Goâve
 Timil Fache
 Tinglade
 Tiresas
@@ -4785,7 +4785,7 @@ Wallondry
 Walsh
 Wanament, Arrondissement d'Ouanaminthe, Arrondissement de Ouanaminthe
 Welch
-Wòchabato, Commune de Roche à Bâteau, Roche à Bateau, Roche à Bateaux
+Wòchabato, Commune de Roche à Bateau, Roche à Bateau, Roche à Bateaux
 Yon
 Zamor
 Zerbe Boule
@@ -4833,7 +4833,7 @@ l'Estère
 Île Pierre Joseph, Ilet à Pierre Joseph, Pierre Joseph
 Île Rat, Rat Island, Îlet Rat
 Île Régale, Regalle Cay, Île Régalle
-Île de la Gonâve, Gonava Island, Gonâve Island, La Gonave Island, La Gonâve
+Île de la Gonâve, Gonava Island, Gonave Island, La Gonave, La Gonave Island
 Île de la Tortue, La Tortue, Tortuga, Tortuga Island
 Île des Poules, Îlet à Poule
 Île à Cabrit, Carenage Island, Caye Carrenage

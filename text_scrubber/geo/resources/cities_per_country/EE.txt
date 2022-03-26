@@ -121,7 +121,7 @@ Alnavere
 Alt-Massu
 Altja, Al't'ya, Altia
 Altjõe, Nabala altjõe
-Altküla, Altkyula, Atla-Alt, Lõetsa-Altküla, Sagadi-Altküla, Аллкюля
+Altküla, Al'tkyula, Atla-Alt, Lõetsa-Altküla, Sagadi-Altküla, Аллкюля
 Altmäe
 Altnurga
 Altserva
@@ -774,7 +774,6 @@ Kaansoo, Kanso
 Kaansoo-Ojaküla, Kaansoo-Oja, Kanso-Oya
 Kaapre, Kapre
 Kaapsuu
-Kaara, Mattiku
 Kaaratautsa, Kaarataudsa
 Kaare, Jõesoo
 Kaarepere, Karepere
@@ -834,7 +833,6 @@ Kaeraküla, Kablimaa
 Kaerepere
 Kaersoo, Kaerso, Koerzo
 Kaessoo, Kaesso
-Kaeva
 Kaevere, Kayevere
 Kaevussaare
 Kagavere
@@ -847,7 +845,6 @@ Kahru
 Kahrumäe, Кахну
 Kahrusoo, Kahrosoo
 Kahtla, Kahtla Asundus, Kakhtla
-Kahu, Kyakhu
 Kahula, Kakhula
 Kahula-Rutiku, Sompa-Kahula-Rutike
 Kahusaadu
@@ -867,7 +864,6 @@ Kaitsemõisa, Kaytsemyyza
 Kaitu, Kayto
 Kaiu, Myza Kayu
 Kajamaa, Kaiama, Kaiamaa
-Kaku, Kakku, Kyaku
 Kakulaane
 Kakumetsa
 Kakumäe, Kadakaküla
@@ -949,7 +945,6 @@ Kannussaarõ, Kannussaare
 Kantküla, Kantkyula
 Kantsi
 Kaomäe, Kaomyae
-Kapa, Kyapa
 Kapera
 Kapi
 Kapra
@@ -990,7 +985,6 @@ Karkuse, Karkuse Asundus, Myza Karkuse
 Karla, Karlakyula, Karlaküla, Karlya
 Karoli
 Karste
-Karu, Karuküla, Kerro, Keru, Kyaru
 Karuba, Karupa
 Karuga
 Karula, Karula Asundus, Myza Karula
@@ -1299,10 +1293,8 @@ Kodila-Metsküla, Metsküla IV
 Kodila-Uusküla, Uskyula
 Kodismaa, Kodisma
 Kodru, Kodru Asundus
-Koduküla, Kydu
 Koela
 Koemetsa
-Koera, Keera
 Koeravere
 Koeri
 Koeru, Koyero, Koyeru, Kėras, Maria Magdaliny, Marien-Magdalenen, Myza Koyeru, Sankt-Marien-Magdalenen
@@ -1354,7 +1346,6 @@ Kokemäe
 Koki
 Kokora, Kokora Asundus, Myza Kokora
 Kokre, Kokri
-Koksi
 Koksina, Kokšino
 Koksvere, Koksivere, Koksivere I, Kooksvere
 Kokuta
@@ -1372,7 +1363,6 @@ Kolgametsa
 Kolgu
 Kolila
 Koljaku, Võsa-Metsanurga
-Koljala, Kojala, Kyl'yala, Kôljala Asundas, Kõljala Asundus, Myza Kyl'yala
 Kolkja, Kolk'ya
 Kolli
 Kollino
@@ -1381,14 +1371,12 @@ Kolodsi
 Koloreino
 Kolovere, Kotakülä
 Kolski, Kolgamäe
-Koltsi, Fol'vark Koltsi
 Kolu
 Kolu-Rae
 Koluotsa
 Koluta, Kolota
 Koluvere, Kaluvere
 Kommi
-Komsi, Kamsi, Kemsi
 Komuküla, Komu
 Kondi
 Konguta
@@ -1453,7 +1441,6 @@ Kose-Uuemõisa
 Kosenõmme, Kosenymme
 Koseveski
 Kosova, Kosuva
-Kossa, Kossõ
 Kosta
 Kostiranna
 Kostivere, Myza Kostifer, Myza Kostivere
@@ -1626,8 +1613,10 @@ Käesalu, Kaosalyu, Myza Kyaesalu
 Käesla, Kyasla, Käesla Asundus
 Kägari
 Kägiste
-Kähri, Kähri Asundus, Кяхри
+Kähri, Kyakhri, Kähri Asundus
+Kähu, Kyakhu
 Käina, Keina, Keinis, Kerna, Keyna, Keynis, Kyayna
+Käku, Kakku, Kyaku
 Käliste, Kyaliste
 Kämara
 Kändliku, Kyandliku
@@ -1636,6 +1625,7 @@ Känkari, Kyankari
 Kännu, Kyannu
 Kännuküla
 Käo, Kyao
+Käpa, Kyapa
 Kärasi, Kyarasi
 Käravete, Myza Kyaravete
 Käravete-Aruküla, Kyaravete-Aru, Käravete-Aru
@@ -1668,15 +1658,18 @@ Kärsama, Kyarsama, Kärsamaa
 Kärstna, Kyarstna, Kärstna Asundus, Myza Kyarstna
 Kärstnä
 Kärsu, Myza Kyarsu
+Käru, Karuküla, Kerro, Keru, Kyaru
 Käsmu, Kasper, Kyasmu
 Käsna, Kyasna
 Käsukonna, Kyazukonna
+Käva, Kaeva
 Kääbaste
 Käända, Kyanda, Myza Kyanda
 Kääni, Kani
 Kääniku, Kyaaniku
 Käänu
 Kääpa, Kyapa
+Käära, Mattiku
 Kääraku
 Käärdi
 Käärike
@@ -1686,6 +1679,8 @@ Käätso
 Kõdeküla, Kydekyula
 Kõdesi
 Kõdu, Kydu, Kydukyula
+Kõduküla, Kydu
+Kõera, Keera
 Kõidama
 Kõiguste, Kõigusti Asundus, Myza Kyygusti
 Kõima, Kyyma
@@ -1693,13 +1688,17 @@ Kõinastu, Keinaste, Kyinast
 Kõivsaare, Kõivsaarõ
 Kõivu
 Kõivuküla
+Kõksi
 Kõlbi, Kyl'bi
 Kõldu, Kyldu
 Kõliküla
+Kõljala, Kojala, Kyl'yala, Kôljala Asundas, Kõljala Asundus, Myza Kyl'yala
 Kõllõstõ
+Kõltsi, Fol'vark Koltsi
 Kõlunõmme
 Kõmmaste, Kymaste, Kõmaste
 Kõmmuselja, Kemmusel'ya
+Kõmsi, Kamsi, Kemsi
 Kõnnu, Kenno, Kynnu
 Kõnnujõe
 Kõo, Myza Kyo
@@ -1740,6 +1739,7 @@ Kõrvesilla, Kyrvesilla
 Kõrvetaguse, Kyrvetaguze
 Kõrveveski, Kyrveveski
 Kõrvõ, Kuuliska oja
+Kõssa, Kossõ
 Kõue, Kyu, Kõu
 Kõvaküla
 Kõvera, Kõvõra
@@ -1786,7 +1786,7 @@ Laagitse, Lagitse
 Laagitse-Kuldi, Lagitse-Kuldi
 Laagna
 Laagri
-Laane, Käändalaane, Laaneküla, Лане
+Laane, Käändalaane, Laaneküla, Lane
 Laanekuru, Lanekuru
 Laanemetsa, Myza Lanemetsa
 Laanemõisa
@@ -1801,7 +1801,6 @@ Lae, Lyaekyulya
 Laekannu
 Laekvere, Ladikfer
 Laekvere-Aru, Aru-Laekvere
-Laeste
 Laeva, Laevaküla, Layeva
 Lagedi, Lageda
 Lageduse, Lageduze
@@ -1844,7 +1843,6 @@ Laoküla, Laokyula
 Laossaarõ
 Laossina, Laosina
 Lapetukme, Lapetukma, Lepetukma
-Lapi, Lyapi, Läpiküla, Põõna
 Larvi
 Lasari
 Lasila, Lasila Asundus, Myza Lasila
@@ -2064,19 +2062,16 @@ Lombi
 Lompka
 Londi
 Lontova
-Loo, Lyo
 Loobu
 Loodi, Lodi
 Loodna, Loodna Asundus, Myza Lodna
 Loogamäe, Looga
 Looküla, Lokyula, Loo-Kyulya
 Loona, Lona, Loona Asundus, Myza Lona
-Loone, Lyne
 Loopre, Loopre Asundus, Lopre, Myza Lopre
 Loosi, Loosi Asundus, Myza Lozi
 Loosu
 Lootvina, Lotvina
-Lopi, Lypi
 Lopsu, Laime
 Lossiküla
 Lossimäe
@@ -2127,7 +2122,9 @@ Lähtru, Lyakhtru, Vyayke-Lyakhtru, Väike Lähtru
 Lähtse, Lekhtse
 Läilaste, Lyailaste
 Länga, Lyanga
+Läpi, Lyapi, Läpiküla, Põõna
 Läsna, Lyasna
+Läste, Laeste
 Läti, Leti, Lyati, Läti Asundus
 Lätiniidi, Lyatiniidi
 Lätkalu
@@ -2145,8 +2142,10 @@ Lõiuse, Lyyuze, Lõiuse Üks
 Lõiuse Kaks, Lyyuze
 Lõmala, Lymmala, Myza Lymmala
 Lõmmelu, Lymmelu
+Lõo, Lyo
 Lõpe, Lype, Lyppe, Lõppe
 Lõpemetsa, Lypemetsa
+Lõpi, Lypi
 Lõpõperä, Luigelaasi
 Lõu, Lyo
 Lõuka
@@ -2159,6 +2158,7 @@ Lõve, Lyve, Lõve Asundus, Myza Lyve
 Lõõba, Lyba
 Lõõla, Lyla
 Lõõra, Lora
+Lööne, Lyne
 Löövi
 Lüganuse, Lyuganuse
 Lükati, Lyukati
@@ -2734,7 +2734,6 @@ Ohulepa, Okhulepa
 Oidrema, Didrema, Myza Oydrema
 Oina, Oyna
 Oissaare, Oyssare
-Oisu, Myza Yyzu, Oyzu, Yysu, Õisu Asundus
 Oisu-Väljaotsa, Oyzu-Vyal'yaotsa
 Oitme, Oytme
 Oiu, Oyu
@@ -2747,7 +2746,6 @@ Ojasoo, Oyaso
 Ojaveski, Ojaweski
 Ojaäärse, Oyaerse
 Oju, Oiu Asundus, Polumyza Oyu
-Ole, Yle
 Olehkova, Olehnova
 Oleski
 Olga
@@ -2794,7 +2792,6 @@ Oro
 Ortuma
 Ortumäe, Ortimäe
 Ortuse
-Oru, Olli, Orumõisa, Õru Asundus
 Oru-Taki, Oru-Tani
 Oru-Võhma
 Orumäe, Orumyae
@@ -2949,7 +2946,6 @@ Parasmaa, Parasma
 Parasmetsa
 Parasmäe, Parasmya, Parasmyae
 Pargitaguse
-Pari, Perri, Pyari, Парри
 Pariisi
 Parika
 Parila, Myza Parila
@@ -3131,7 +3127,6 @@ Podmotsa
 Pohla, Pokhla
 Poka, Покка
 Poksi
-Polli, Myza Pylli, Pelli, Põlli Asundus
 Polovina
 Pombre, Pommeri
 Poole, Poolemõisa, Pote
@@ -3285,6 +3280,7 @@ Päraküla, Perakyula
 Päraldi, Pyaraldi
 Pärase, Pyaraze
 Pärassaare, Pyarasare, Pärasaare
+Päri, Perri, Pyari, Парри
 Pärinurme, Pyarinurme
 Pärispea, Perispe, Pyarispea, Pärispää
 Pärivere, Pyarivere
@@ -3324,7 +3320,7 @@ Põgari-Sassi
 Põhara, Pykhara
 Põhja, Pokhya
 Põhjaelurajoon
-Põhjaka, Pykhyaka, Pôhjaka Asundus, Põhjaku
+Põhjaka, Pykh'yaka, Pôhjaka Asundus, Põhjaku
 Põhu
 Põia, Pai, Pay
 Põikma, Pyykma, Põkma
@@ -3337,6 +3333,7 @@ Põldõ
 Põlendiku
 Põlendmaa, Pylendma, Põlendmaa Asundus
 Põlgaste
+Põlli, Myza Pylli, Pelli, Põlli Asundus
 Põllika, Pyllika
 Põlliku, Pyllika
 Põllküla
@@ -3385,7 +3382,6 @@ Raadi, Myza Radi
 Raadivere
 Raadna, Radna
 Raaduvere
-Raagi, Ragi, Ryaagi, Ryagi
 Raama, Põlme
 Raamatu
 Raana, Rogna
@@ -3598,7 +3594,6 @@ Rogenese
 Rohe
 Rohense, Rokhense
 Rohkuse, Rokhkuze
-Rohu, Rokht, Rokhu, Rykhu
 Rohuküla, Rogokyulya, Rohukola, Rokhukyula, Rokhyukyula
 Rohuneeme, Rokhuneme
 Rohusi, Rohusaare
@@ -3688,6 +3683,7 @@ Rätla, Ryatla
 Rätsepa, Ryatsepa
 Rääbise, Myza Ryabize, Rääbise Asundus
 Rääbise-Metsanurga
+Räägi, Ragi, Ryaagi, Ryagi
 Räägu, Myza Ryagu, Ryagu
 Räägu-Mõisaküla, Ryagu-Myyzakyula
 Rääka
@@ -3695,6 +3691,7 @@ Rääptsova, Räbtsev, Rääptsüvä, Suur Rääptsova
 Rääsa, Ryasa
 Rääski, Ryaskkyula, Rääskküla, Rääsküla
 Rääsolaane
+Rõhu, Rokht, Rokhu, Rykhu
 Rõika, Ryyka
 Rõka
 Rõkkalu, Rykalu, Rõkalu
@@ -3728,7 +3725,6 @@ Saapaküla, Sapakyula
 Saara, Sara
 Saarde
 Saardu, Saardo, Sardo
-Saare, Myza Sare, Rõksu 6, Saare Asundus, Saare Parish, Saare nurk, Syare, Tserel, Полумз. Ремси
 Saareantsu, Sareantsu
 Saarekula
 Saareküla, Saare Asula
@@ -3989,7 +3985,6 @@ Soldina, Bol'shaya Soldina, Soldino, Suur Soldina
 Solova
 Sompa, Sompäh
 Sonda, Sonda Parish
-Sonni, Synni
 Soo-otsa, So-Otsa, Sol'tsa, Sooltse, Soosta, Sootsa, Sootse, Sur Ryude, Suur-Rõude, Tohlu
 Sooaluse, Der. Soaluze, Soaluze
 Sooaluste, Soaluste
@@ -4027,7 +4022,6 @@ Soonuka
 Soonurme
 Sooranna
 Soorinna
-Sooru
 Soosaare, Myza Sosare, Soosaare Asundus, Sosare
 Soosalu, Sosalu
 Soosilla
@@ -4150,6 +4144,7 @@ Särge
 Särgla
 Sätsuvere
 Sääla, Syala
+Sääre, Myza Sare, Rõksu 6, Saare Asundus, Saare Parish, Saare nurk, Syare, Tserel, Полумз. Ремси
 Sääritsa, Syayeritsa
 Sääse
 Sääsekõrva
@@ -4162,6 +4157,7 @@ Sõmera, Symera
 Sõmerpalu, Symerpalu, Sõmerpalu Asundus
 Sõmeru, Symeru
 Sõmeru-Aru, Symeru-Aru
+Sõnni, Synni
 Sõra
 Sõrandu, Syrandu
 Sõreste
@@ -4172,6 +4168,7 @@ Sõtke, Sotküla Asundus, Sytke, Sötkula
 Sõõrike, Myza Syyrike
 Sõõrike-Aruküla, Syyrike-Arukyula
 Sõõrike-Suurküla, Syyrike-Surkyula
+Sõõru
 Söderby, Sederbi, Sederbu, Soderbu, Söderbi
 Sööni
 Sülgoja
@@ -4380,8 +4377,6 @@ Tokolopi
 Toku
 Toljase, Toljasi
 Tolkuse, Thetlia
-Tolla
-Tolli, Tylli
 Tomba
 Tomuski, Tomuski Asundus
 Tondi
@@ -4403,12 +4398,10 @@ Tooste
 Tootsi, Totsi
 Toovere
 Topu
-Toravere, Tyravere
 Tordi, Terrikeste
 Torgu, Torgu Parish, Torken
 Tori, Myza Tori, Torgel, Tori Asundus, Tori Parish, Toriküla
 Torila
-Torma, Tyrma
 Tormi
 Tornimäe, Kyarneri
 Toruküla
@@ -4527,6 +4520,8 @@ Tõitoja, Tyytoya
 Tõitse, Tyytse
 Tõivere, Toyvere
 Tõlga, Telgi, Tylga
+Tõlla
+Tõlli, Tylli
 Tõlliste, Tõlliste Parish
 Tõlluste, Myza Tylluste
 Tõlvamäe, Torni
@@ -4541,12 +4536,14 @@ Tõnumaa, Tynuma, Tõnuma
 Tõnussaare
 Tõnuvere, Tennowere
 Tõramaa, Kyrtsi-Tyrama, Kõrtsi-Tõramaa, Tyrama
+Tõravere, Tyravere
 Tõrdu, Tyrdu
 Tõre, пристань Триги-Садам
 Tõreda, Тэррэда
 Tõrenurme
 Tõreska, Tereska
 Tõrise, Tyrise
+Tõrma, Tyrma
 Tõrreküla
 Tõrremäe
 Tõru, Tyru
@@ -4647,7 +4644,6 @@ Urissaare, Urisaare, Urissare
 Urita
 Urmi
 Urtja, Hurtja, Khurt'ya, Urdja
-Uru, Uyru
 Urumarja
 Urvaste, Myza Urvaste, Urvaste Asundus
 Usinitsa, Sur Uzinitsa, Suur Uusinitsa, Usenitsa
@@ -5083,7 +5079,6 @@ Vivva, Viva
 Vodava, Vodova
 Vodja, Vod'ya
 Vohnja
-Voika
 Voka
 Voki, Myza Voki, Voki Asundus
 Volmre
@@ -5190,6 +5185,7 @@ Võiduküla
 Võidula
 Võiera
 Võigaste, Voigast
+Võika
 Võikvere
 Võiküla, Vyy, Vyykyula, Või
 Võipere
@@ -5273,11 +5269,14 @@ aaviku talu
 Õeste, Yeste
 Õha, Ykha
 Õhu, Ekhu
+Õisu, Myza Yyzu, Oyzu, Yysu, Õisu Asundus
 Õlatu
+Õle, Yle
 Õlla
 Õngu, Engo, Oyniku, Yinigu, Yinnigu, Õinigu Küla, Õiniku
 Õnniste, Õniste
 Õrsava, Ersava
+Õru, Olli, Orumõisa, Õru Asundus
 Õruste, Эпа
 Õssu
 Õuna, Yuna
@@ -5307,6 +5306,7 @@ aaviku talu
 Ünnaste, Yunnaste
 Üriküla
 Ürjaste, Hürjaste, Khyur'yaste
+Üru, Uyru
 Üsse, Yusse
 Üüdibe, Uydibe, Üüdipä
 Üüvere, Uyvere, Öövere

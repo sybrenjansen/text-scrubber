@@ -109,7 +109,6 @@ Bełdówka
 Bełnianka, Bielnianka
 Bełżec
 Bełżyce, Gmina Bełżyce, Белжице
-Bialka, Białka River
 Bialskopodlaskie Województwo
 Biała, Ballfliess, Biała River, Gmina Biała, Бяла
 Biała Góra
@@ -127,6 +126,7 @@ Białe
 Białe Błota, Białe Bagno
 Białe Góry (Góry Kalwaryjskie)
 Białe Jezioro, Bialla See
+Białka, Białka River
 Białobrzegi, Gmina Białobrzegi, Бялобжеги
 Białogard
 Białopole, Gmina Białopole, Бялополе
@@ -138,7 +138,7 @@ Biały Dunajec
 Biały Kamień
 Biały Potok
 Białystok, Gmina Białystok, Wysoczyzna Białostocka, Беласток, Белосток
-Biebrza, Бобра
+Biebrza, Bobra
 Biecz, Беч
 Biedowa Młaka
 Biel Pazochowska
@@ -268,7 +268,6 @@ Brodnia, Pichna
 Brodnica
 Brody
 Brodzki Las
-Brojce, Gmina Brojce, Бройце
 Brok, Broczysko
 Bronka
 Broski
@@ -299,6 +298,7 @@ Brzozówka
 Brzuze, Gmina Brzuze, Бжузе
 Brzuśnia, Bruzuśnia
 Brzyska
+Brójce, Gmina Brojce, Бройце
 Brąszewice, Gmina Brąszewice, Броншевице
 Buczak
 Bucze
@@ -317,7 +317,7 @@ Bugaj
 Bujakowski Groń
 Buk, Gmina Buk
 Bukowa
-Bukowa Gora
+Bukowa Góra
 Bukowa Kopa
 Bukowa Puszcza
 Bukowe Berdo
@@ -585,8 +585,8 @@ Czersk, Gmina Czersk, Черск
 Czerska Struga
 Czerszla
 Czertes
-Czertez
 Czertezik
+Czerteż - Beskid Niski 792 mnpm, Czertez
 Czerwień
 Czerwieńsk, Gmina Czerwieńsk, Червеньск
 Czerwin, Gmina Czerwin, Червин
@@ -604,7 +604,7 @@ Czestochowskie Województwo
 Czeszka
 Czorsztyn, Gmina Czorsztyn, Чорштын
 Czosnów, Gmina Czosnów, Чоснув
-Czoło
+Czoło - 1159 m npm Bieszczady, Czoło
 Czoło - 874 m npm  Karkonosze
 Czoło Turbacza
 Czub (Świniogóra)
@@ -626,8 +626,6 @@ Czółko
 Częstochowa, Gmina Częstochowa, Ченстохова
 Człopa
 Człuchów
-Dabrowa, Der Damerau, Der Dimerau
-Dabrowka, Gmina Dąbrówka, Домбрувка
 Dajna, Deine, Deine Fluss
 Daleszyce, Gmina Daleszyce, Далешице
 Dalików, Gmina Dalików, Даликув
@@ -639,7 +637,6 @@ Darłowo
 Darżlubska Puszcza, Nadleśnictwo Danżlubie
 Daszyna, Gmina Daszyna, Дашина
 Dawny nasyp autostrady
-Debowe Góry
 Debrzno, Gmina Debrzno, Дебжно
 Debrzyca, Dabrzyca, Döberitz, Paberitz
 Debrzynka, Dobrinka
@@ -775,6 +772,7 @@ Dąb
 Dąb Piast
 Dąbie, Домбе
 Dąbroczna, Dombroczna, Dąbrożna
+Dąbrowa, Der Damerau, Der Dimerau
 Dąbrowa (Wilkówka)
 Dąbrowa Białostocka, Gmina Dąbrowa Białostocka, Домброва-Бялостоцка
 Dąbrowa Biskupia, Gmina Dąbrowa Biskupia, Домброва-Бискупя
@@ -785,6 +783,7 @@ Dąbrowa Tarnowska, Gmina Dąbrowa Tarnowska, Домброва-Тарновск�
 Dąbrowa Zielona, Gmina Dąbrowa Zielona, Домброва-Зелёна
 Dąbrowice
 Dąbrowski Las
+Dąbrówka, Gmina Dąbrówka, Домбрувка
 Dąbrówno, Gmina Dąbrówno, Домбрувно
 Dęba
 Dębe Wielkie, Gmina Dębe Wielkie, Дембе-Вельке
@@ -801,6 +800,7 @@ Dębowa
 Dębowa Góra
 Dębowa Kłoda, Gmina Dębowa Kłoda, Дембова-Клода
 Dębowa Łąka, Gmina Dębowa Łąka, Дембова-Лонка
+Dębowe Góry
 Dębowiec
 Dębowy Wierch
 Dłubnia
@@ -819,7 +819,7 @@ Dłutów, Gmina Dłutów, Длутув
 Dźwierzuty, Gmina Dźwierzuty, Дзвежуты
 East Prussia, Ostpreussen, Prusse Orientale, Prusy Wschodnie
 Egiertowo
-Elblag, Elblag River, Elbląg County, Эльблонг
+Elbląg, Elblag River, Elbląg County, Эльблонг
 Elma, Elm, Elma River
 Elszka, Elske
 Ełckie Jezioro, Jezioro Łeckie, Lyck See, Lycker See
@@ -1017,7 +1017,7 @@ Graniczna Woda
 Granowo
 Grapa
 Grazymowskie Jezioro, Jezioro Mutter, Mutter See
-Greater Poland Voivodeship, Greater Poland, Wielkopolskie, Województwo wielkopolskie, Великопольское воеводство
+Greater Poland Voivodeship, Greater Poland, Wielkopolskie, Województwo Wielkopolskie, Великопольское воеводство
 Grodkowska Struga
 Grodków, Gmina Grodków, Гродкув
 Grodna
@@ -1032,7 +1032,6 @@ Grodzisko
 Grodzisko Dolne, Gmina Grodzisko Dolne
 Grodzka Kępa, Schlachterwiese Insel, Schlächterwiese, Wyspa Grodzka
 Grodzki Kanał, Kanał Odra-Duńsko, Oder-Dunzig Kanal
-Grojec
 Gromadka, Gmina Gromadka
 Gromadzyń
 Gromnik
@@ -1062,6 +1061,7 @@ Grzywacka Góra
 Gróbka
 Gródek
 Gródek nad Dunajcem, Gmina Gródek nad Dunajcem, Грудек-над-Дунайцем
+Grójec
 Grębków, Gmina Grębków, Грембкув
 Grębocice, Gmina Grębocice, Грембоцице
 Gręboszów
@@ -1433,9 +1433,9 @@ Jezioro Boksze
 Jezioro Bolesty
 Jezioro Borak
 Jezioro Borowe, Barben See, Borowy, Borowy-See, Gutter, Gutter See, Jezioro Borowy, Jezioro Gutter
-Jezioro Borowno, Borowno, Zollern-See
 Jezioro Borzymowskie
 Jezioro Borzyszkowskie
+Jezioro Borówno, Borowno, Zollern-See
 Jezioro Brajnickie, Braynicker See, Jezioro Brajniki
 Jezioro Branickie
 Jezioro Brdowskie
@@ -1476,7 +1476,6 @@ Jezioro Chalińskie
 Jezioro Charzykowskie, Jezioro Charzykows
 Jezioro Chełmica
 Jezioro Chełmżyńskie
-Jezioro Chlop
 Jezioro Chobienickie
 Jezioro Choczewskie
 Jezioro Chojno
@@ -1484,6 +1483,7 @@ Jezioro Chomiąskie
 Jezioro Chotkowskie
 Jezioro Chrzypskie
 Jezioro Chudowo
+Jezioro Chłop
 Jezioro Ciche
 Jezioro Cichowo
 Jezioro Ciecz
@@ -1600,13 +1600,13 @@ Jezioro Gwiazdy
 Jezioro Gwieżdziniec
 Jezioro Góreckie
 Jezioro Gęgnowskie Wielkie
-Jezioro Głebokie
 Jezioro Głowińskie
 Jezioro Głuche
 Jezioro Głusza
 Jezioro Głuszyńskie
 Jezioro Głębiniec
 Jezioro Głębinowski, Głębinowski Zbiornik Wodny, Jezioro Nyskie
+Jezioro Głębokie
 Jezioro Głębówko, Birken See, Glembowka-See, Glembowken See, Glębówko, Jezioro Glembowken
 Jezioro Harsz, Haarschien See, Haarszen See, Harsz
 Jezioro Hańcza
@@ -1695,7 +1695,6 @@ Jezioro Koprowo
 Jezioro Koronowskie
 Jezioro Korytowo
 Jezioro Koseniec
-Jezioro Kosno, Jezioro Pasymskie, Kosno-See, Kośno, Kösnick-See, Kössnick See
 Jezioro Kownackie
 Jezioro Kownatki, Kaunen-See, Kownatken-See, Kownatki
 Jezioro Kozie
@@ -1703,6 +1702,7 @@ Jezioro Kozin
 Jezioro Kołdrąbskie
 Jezioro Kołomącie
 Jezioro Kościelne
+Jezioro Kośno, Jezioro Pasymskie, Kosno-See, Kośno, Kösnick-See, Kössnick See
 Jezioro Krasne
 Jezioro Krasne-Krzczeń
 Jezioro Krawno Małe, Klein Kaddig-See, Klein Krawno, Klein Krawno-See
@@ -1898,7 +1898,7 @@ Jezioro Radachowskie
 Jezioro Radacz
 Jezioro Radodzierz
 Jezioro Radolne
-Jezioro Radun
+Jezioro Raduń
 Jezioro Raduńskie
 Jezioro Rajgrodzkie, Jezioro Słackie
 Jezioro Ratno
@@ -1911,7 +1911,7 @@ Jezioro Resko Przymorskie, Jezioro Resko, Kamper
 Jezioro Rgielskie
 Jezioro Robotno
 Jezioro Rogowskie
-Jezioro Rogoźno, Jezioro Roguźno
+Jezioro Rogóźno, Jezioro Roguźno
 Jezioro Rokita
 Jezioro Rokitno
 Jezioro Rospuda
@@ -2002,7 +2002,6 @@ Jezioro Suskie
 Jezioro Suszewskie
 Jezioro Sułek
 Jezioro Swidno
-Jezioro Swięte
 Jezioro Symsar, Simser See, Symsar
 Jezioro Szadzko, Jezioro Szadzkie
 Jezioro Szarcz
@@ -2137,6 +2136,7 @@ Jezioro Świerczyńskie
 Jezioro Świerklaniec, Kozłowa Góra
 Jezioro Święcajty, Jezioro Swięcajno, Schwenzait-See, Święcajty
 Jezioro Świętajno, Jezioro Narty, Narth-See, Ratzeburger See, Schwentaina-See, Schwentainer See, Schwentaino See
+Jezioro Święte
 Jezioro Żabno
 Jezioro Żarnowieckie, Jezioro, Lake Żarnowiec, Zarnowiec Sea
 Jezioro Żerdno
@@ -2311,7 +2311,7 @@ Kiełek
 Kiełków
 Kije
 Kijewo Królewskie, Gmina Kijewo Królewskie, Киево-Крулевске
-Kikol, Gmina Kikół, Кикул
+Kikół, Gmina Kikół, Кикул
 Kirsajty - Ciesnina Kirsajty-Mamry
 Kirsna, Schwarzes, Schwarzes Fliess
 Kisajno - Ciesnina KISB06
@@ -2357,7 +2357,6 @@ Knyszyn, Gmina Knyszyn, Кнышин
 Kobiele Wielkie, Gmina Kobiele Wielkie, Кобеле-Вельке
 Kobierzyce
 Kobiór
-Kobyla
 Kobyla Góra
 Kobylanka, Gmina Kobylanka, Кобылянка
 Kobylarz
@@ -2367,6 +2366,7 @@ Kobylica
 Kobylin, Gmina Kobylin
 Kobylin-Borzymy, Gmina Kobylin-Borzymy, Кобылин-Божимы
 Kobylnica
+Kobyła
 Kobyła - 1232 m npm  Tatry
 Kobyłka
 Kochanowice, Gmina Kochanowice, Кохановице
@@ -2460,9 +2460,9 @@ Kosarzewka
 Kosowiec
 Kostomłoty
 Kostrza
-Kostrzyn
 Kostrzyn nad Odrą, Костшин-над-Одрой
 Kostrzyna
+Kostrzyń
 Koszalin, Koszalin County
 Koszalin Zespół Przyrodniczo-Krajobrazowy "Wąwozy Grabowe"
 Koszalinskie Województwo
@@ -2619,16 +2619,16 @@ Krzywiń, Gmina Krzywiń, Кшивинь
 Krzyworzeka
 Krzywula, Krzywul
 Krzywy Ług
-Krzyzowa Gora
 Krzyż Wielkopolski, Gmina Krzyż Wielkopolski, Кшиж-Велькопольский
 Krzyżanowice
 Krzyżanów
 Krzyżewskie Góry, Góry Krzyżewskie
 Krzyżna Góra
 Krzyżowa
+Krzyżowa Góra
 Krzyżówka BHP
 Krzęcin
-Králický Sněžník, Grosser Schneeberg, Schneeburg, Snežnik, Spieglitzer Schnee-Berg, The Schneeberg, Śnieżnik, Кралицки-Снежник
+Králický Sněžník, Grosser Schneeberg, Schneeberg, Schneeburg, Snežnik, Spieglitzer Schnee-Berg, Śnieżnik, Кралицки-Снежник
 Królówka
 Krępa
 Krępianka
@@ -2766,7 +2766,7 @@ Lesk
 Lesko, Gmina Lesko
 Leskowiec
 Lesser Poland, Małopolska, Polonia Minor
-Lesser Poland Voivodeship, Małopolskie, Województwo małopolskie, Малопольское воеводство
+Lesser Poland Voivodeship, Małopolskie, Województwo Małopolskie, Малопольское воеводство
 Leszczyniec
 Leszczynskie Województwo
 Leszek
@@ -2842,8 +2842,7 @@ Liwna, Die Liebe, Liebe, Liebe Fluss
 Liza
 Liściasta
 Lniano, Gmina Lniano, Льняно
-Lomnica, Lomnitz
-Lower Silesian Voivodeship, Dolnośląskie, Lower Silesia, Lower Silesian, Województwo dolnośląskie, Нижнесилезское воеводство
+Lower Silesian Voivodeship, Dolnośląskie, Lower Silesia, Lower Silesian, Województwo Dolnośląskie, Нижнесилезское воеводство
 Loza
 Lubachowski Zbiornik Wodny, Jezioro Bystrzyckie
 Lubaczów
@@ -2857,14 +2856,12 @@ Lubań
 Lubcza
 Lubelskie Województwo, Województwo Lubelskie
 Lubenia
-Lubianka, Gmina Łubianka, Лубянка
 Lubiatowskie Jezioro, Lubiatowo, Lüptow-See
 Lubiatowskie Lasy
 Lubich
 Lubichowo, Gmina Lubichowo, Любихово
 Lubicko Wielkie
 Lubicz
-Lubie
 Lubieniec
 Lubieska
 Lubiewo
@@ -2873,7 +2870,6 @@ Lubień Kujawski
 Lubieńka, Przedpołna
 Lubin
 Lubinieckie
-Lubinka
 Lubiszyn, Gmina Lubiszyn, Любишин
 Lubińska Zapora Wodna
 Lublin, Lublin County, Люблин
@@ -2918,7 +2914,6 @@ Luzino, Gmina Luzino, Люзино
 Lwia Góra
 Lwówek
 Lwówek Śląski, Львувек-Слёнски
-Lysa Gora
 Lysica - 612 m. n. p. m.
 Lyski, Gmina Lyski
 Lyubachevka, Lubaczówka, Lubaczówka River, Lyubachuvka, Zawadówka
@@ -3066,9 +3061,9 @@ Miedzanka
 Miedziana Góra, Gmina Miedziana Góra, Медзяна-Гура
 Miedziane
 Miedzichowo, Gmina Miedzichowo, Медзихово
-Miedzna, Gmina Miedzna, Медзна
-Miedzno, Gmina Miedźno, Медзьно
 Miedzon
+Miedźna, Gmina Miedzna, Медзна
+Miedźno, Gmina Miedźno, Медзьно
 Miejsce Piastowe, Gmina Miejsce Piastowe, Мейсце-Пястове
 Miejska Góra
 Miejska Górka, Gmina Miejska Górka, Мейска-Гурка
@@ -3250,7 +3245,7 @@ Młynary, Gmina Młynary
 Młynarz
 Młynarze, Gmina Młynarze, Млынаже
 Młynkowska
-Młynowka
+Młynówka
 Młyńska Góra
 Młyńska Struga
 Młyńska Woda
@@ -3587,10 +3582,10 @@ Oldza
 Olechówka
 Oleckie Wielkie Jezioro, Gross Oletzkoer See, Jezioro Oleckowskie, Oletzkoer See
 Olecko, Gmina Olecko, Олецко
-Olesnica
 Olesno, Gmina Olesno
 Oleszna
 Oleszyce
+Oleśnica
 Olkusz
 Olszak
 Olszanica, Gmina Olszanica, Ольшаница
@@ -3617,7 +3612,7 @@ Opinogóra Górna, Gmina Opinogóra Górna, Опиногура-Гурна
 Opoczno, Gmina Opoczno, Опочно
 Opole
 Opole Lubelskie, Ополе-Любельске
-Opole Voivodeship, Opolskie, Województwo opolskie, Опольское воеводство
+Opole Voivodeship, Opolskie, Województwo Opolskie, Опольское воеводство
 Opolskie Województwo
 Oporów
 Opołonek
@@ -3640,8 +3635,8 @@ Orzesze
 Orzyc, Orzyc River
 Orzysz
 Orłowa
-Orłowka
 Orły, Gmina Orły
+Orłówka
 Osa
 Osadzki
 Osie, Gmina Osie, Осе
@@ -3674,7 +3669,7 @@ Ostrowiec Świętokrzyski
 Ostrowite
 Ostrowo, Mierzęcin
 Ostrołęka, Gmina Ostrołęka
-Ostry Wierch
+Ostry Wierch - Beskid Niski 938 mnpm, Ostry Wierch
 Ostrysz
 Ostrzeszów, Gmina Ostrzeszów, Остшешув
 Ostrzyca
@@ -3794,7 +3789,7 @@ Pechy, Bechy
 Pecznik
 Pelplin
 Perebel
-Pereval Beskyd, Перевал Пшеленч-Бескид
+Pereval Beskyd, Pereval Pshelench-Beskid
 Pereval Pshelench-Bukovska
 Perlejewo, Gmina Perlejewo, Перлеево
 Perzów, Gmina Perzów, Пежув
@@ -3834,7 +3829,6 @@ Pietrasowa
 Pietrowice Wielkie, Gmina Pietrowice Wielkie, Петровице-Вельке
 Pień
 Pieńsk
-Pilawa, Gmina Pilawa, Peile, Pillow, Pilow, Pilow Fliess, Piławka, Пилява
 Pilchowice
 Pilcia
 Pilczyce - Kozanów - Popowice Płn.
@@ -3867,6 +3861,7 @@ Piątnica, Gmina Piątnica, Пёнтница
 Pięć Kopców
 Piła
 Piłaki, Pillacker Berge
+Piława, Gmina Pilawa, Peile, Pillow, Pilow, Pilow Fliess, Piławka, Пилява
 Piława Górna
 Pińczów
 Piżmacze
@@ -4758,7 +4753,7 @@ Rejowiec Fabryczny
 Reknica
 Rembertów
 Repki
-Republic of Poland, Lengyelország, Lenkija, Poland, Polen, Polija, Polish People's Republic, Pologne, Polonia, Polska, Polska Rzeczpospolita Ludowa, Polsko, Poola, Rzeczpospolita Polska, Польша
+Republic of Poland, Lengyelország, Lenkija, Poland, Polen, Polija, Polish People's Republic, Pologne, Polonia, Polsha, Polska, Polska Rzeczpospolita Ludowa, Polsko, Poola, Rzeczpospolita Polska
 Resko, Gmina Resko
 Reszel
 Reszkowicki Kanał, Brekenhof-Kanal, Brekenhofs Canal, Brekenhofs-Kanal
@@ -4777,8 +4772,8 @@ Roczynka
 Rogacz
 Rogowiec
 Rogowo
-Rogoźno, Gmina Rogoźno
 Rogów
+Rogóźno, Gmina Rogoźno
 Roh
 Rojewo
 Rokiciny
@@ -5015,7 +5010,7 @@ Sikornik
 Sikorza
 Silesia, Schlesien, Silésie, Slesia, Slezsko, Szilézia, Szląsk, Śląsk
 Silesian Metropolis
-Silesian Voivodeship, Województwo śląskie, Śląskie, Силезское воеводство
+Silesian Voivodeship, Województwo Śląskie, Śląskie, Силезское воеводство
 Silnica
 Sitkówka-Nowiny, Gmina Sitkówka-Nowiny, Ситкувка-Новины
 Sitnica
@@ -5099,7 +5094,7 @@ Sobienie-Jeziory, Gmina Sobienie-Jeziory, Собене-Езёры
 Sobińska Struga
 Sobków, Gmina Sobków, Собкув
 Sobolew, Gmina Sobolew, Соболев
-Sobotka, Gmina Sobótka, Собутка
+Sobótka, Gmina Sobótka, Собутка
 Sochaczew
 Sochocin, Gmina Sochocin, Сохоцин
 Sokolec
@@ -5121,7 +5116,6 @@ Solistowska Góra
 Solniska
 Solnisko
 Solokiya, Fluss Sołokija, Reka Solokiya, River Sołokija, Solokiya River, Sołokija
-Soltys
 Somianka, Gmina Somianka, Сомянка
 Somonino, Gmina Somonino
 Sompolno
@@ -5141,6 +5135,7 @@ Sowia Przełęcz
 Sowiniec
 Soła, Soła River
 Sołotwa, Sołotwa River
+Sołtys
 Sołtysia
 Sołtysowice
 Sońsk, Gmina Sońsk
@@ -5363,7 +5358,6 @@ Sułoszowa
 Sułów, Gmina Sułów, Сулув
 Swarzędz, Gmina Swarzędz, Сважендз
 Swarzędzkie Jezioro
-Swidnica
 Swiecajny - SAPINA
 Swierzyna
 Swina River
@@ -5708,13 +5702,13 @@ Ustronie Morskie, Gmina Ustronie Morskie, Устроне-Морске
 Ustroń
 Ustrzyki Dolne, Gmina Ustrzyki Dolne, Устшики-Дольне
 Uszew
-Uszwica
 Utrata, Rzewa
 Ułówki, Jezioro Uloffke, Uloffke See
 Ułęż, Gmina Ułęż, Уленж
 Uście Gorlickie
 Uścimowskie Jezioro, Jezioro Uścimowiec
 Uścimów, Gmina Uścimów, Усцимув
+Uśzwica
 Variazhanka, Młyński Potok, Varenzhanka, Varezhanka, Warężanka
 Velké Biele pleso
 Violík, Łabski Szczyt
@@ -5771,7 +5765,7 @@ Wel, Wel River
 Werbkowice, Gmina Werbkowice, Вербковице
 Wesoła
 Wesołówka
-West Pomeranian Voivodeship, West Pomerania, West Pomerania Province, West Pomeranian, Western Pomeranian, Województwo zachodniopomorskie, Zachodniopomorskie, Западнопоморское воеводство
+West Pomeranian Voivodeship, West Pomerania, West Pomerania Province, West Pomeranian, Western Pomeranian, Województwo Zachodniopomorskie, Zachodniopomorskie, Западнопоморское воеводство
 West Prussia, Prusse Occidentale, Prusy Zachodnie, Westpreussen
 Westerplatte, Вестерплатте
 Wetlina
@@ -5866,7 +5860,7 @@ Wietcisa, Fietze
 Wietrzychowice, Gmina Wietrzychowice, Ветшиховице
 Wiewiórka
 Wiezyca - 415 m npm
-Wieżyca, Thurm Berg, Turmberg, Turnberg
+Wieżyca - 329 m npm  Szwajcaria Kaszubska3, Thurm Berg, Turmberg, Turnberg, Wieżyca
 Wigancicka Polana
 Wijewo, Gmina Wijewo, Виево
 Wilamowice
@@ -6098,7 +6092,7 @@ Wąbrzeźno, Gmina Ryńsk, Ryńsk
 Wąchock, Gmina Wąchock, Вонхоцк
 Wądroże Wielkie, Gmina Wądroże Wielkie, Вондроже-Вельке
 Wądół
-Wągiel, Gross Wonge See, Gross Wongel See, Gross Wrongel See, Jezioro Wongel
+Wągieł, Gross Wonge See, Gross Wongel See, Gross Wrongel See, Jezioro Wongel
 Wąglanka, Węglanka
 Wągrowiec
 Wąpielsk, Gmina Wąpielsk, Вомпельск
@@ -6176,12 +6170,11 @@ Zamecko
 Zameczek
 Zamiło
 Zamkowa
-Zamkowa Gora
+Zamkowa Góra
 Zamojskie Województwo
 Zamość, Zamość County
 Zaniemyśl, Gmina Zaniemyśl, Занемысль
 Zapolice
-Zar, Wdżar
 Zarańskie Jezioro, Jezioro Zarańsko
 Zarnowka
 Zarszyn, Gmina Zarszyn, Заршин
@@ -6248,7 +6241,7 @@ Zielawa
 Zielenica
 Zieliny, Grüne Fläche
 Zielona, Grünbach, Schalune, Schaulune
-Zielona Gora, Zielona Góra County
+Zielona Góra, Zielona Góra County
 Zielona Skała
 Zielonka
 Zielonki, Gmina Zielonki, Зелёнки
@@ -6365,6 +6358,7 @@ zbiornik wodny Żar
 Łoknica
 Łomazy, Gmina Łomazy
 Łomianki, Gmina Łomianki, Ломянки
+Łomnica, Lomnitz
 Łomnicka Równia
 Łomża, powiat miasto Łomża
 Łomża County, Powiat Łomżyński, łomżyński
@@ -6382,8 +6376,11 @@ zbiornik wodny Żar
 Łososina Dolna, Gmina Łososina Dolna
 Łosośna, Wierna Rzeka, Łosośnia
 Łowicz
+Łubianka, Gmina Łubianka, Лубянка
 Łubianki
+Łubie
 Łubiec
+Łubinka
 Łubniany
 Łubnice, Gmina Łubnice, Лубнице
 Łubowo
@@ -6401,6 +6398,7 @@ zbiornik wodny Żar
 Łużyca
 Łydynia, Łydynia River
 Łyna, Łyna River
+Łysa Góra
 Łysa Przełęcz
 Łysanki
 Łyse, Gmina Łyse
@@ -6442,7 +6440,7 @@ zbiornik wodny Żar
 Łężnogóra
 Ścieklec
 Ścinawa, Gmina Ścinawa, Steinau, Ścinawa Niemodlińska, Сьцинава
-Ścinawskie Wzgorza
+Ścinawskie Wzgórza
 Ślemień
 Ślepowron
 Ślesin, Gmina Ślesin
@@ -6453,7 +6451,7 @@ zbiornik wodny Żar
 Śląska Wyżyna
 Śląskie Kamienie - 1413 m npm  Karkonosze
 Śląskie Pogórze
-Ślęza, Der Zobten, Gora Slęża, Lohe, Zobten, Ślęza River
+Ślęża, Der Zobten, Gora Slęża, Lohe, Zobten, Ślęza River
 Ślęża - 718 m npm3
 Śmiardówka
 Śmielec - 1424 m npm  Karkonosze
@@ -6476,6 +6474,7 @@ zbiornik wodny Żar
 Świder, Świder River
 Świderowa
 Świdna Zatoka, Swinemünder Reede
+Świdnica
 Świdnik
 Świdwin, Свидвин
 Świebodzice
@@ -6526,6 +6525,7 @@ zbiornik wodny Żar
 Żabno
 Żagań
 Żalskie Jezioro
+Żar, Wdżar
 Żarki
 Żarnica
 Żarnowiec
@@ -6553,7 +6553,6 @@ zbiornik wodny Żar
 Żnińskie Małe Jezioro
 Żoliborz
 Żory, Gmina Żory
-Żołta Turnia
 Żołynia
 Żołędna
 Żubrowisko
@@ -6579,5 +6578,6 @@ zbiornik wodny Żar
 Żywiec
 Żórawina
 Żółkiewka, Kawenka, Żółkiewianka
+Żółta Turnia
 Żędowskie Jezioro
 Žabia veža

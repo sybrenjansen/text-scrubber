@@ -215,7 +215,7 @@ Archennes, Eerken, Grez-Doiceau (Archennes)
 Ardenelle
 Ardennes
 Ardevoor
-Ardooie, Ардойе, اردوئوآ, 阿尔多耶
+Ardooie, Ardoye, اردوئوآ, 阿尔多耶
 Arendonk, Arendonck
 Arendonksenhoek, Arendonkse Hoek
 Argenteau, Visé (Argenteau)
@@ -355,7 +355,7 @@ Awenne
 Awirs
 Aye
 Ayeneux, Soumagne (Ayeneux)
-Aywaille, Эвай, ایوای, 艾瓦耶
+Aywaille, Евай, ایوای, 艾瓦耶
 Azebois
 Azette
 Azy, Asy
@@ -366,7 +366,7 @@ Baalheide, Bael Heide, Baelheide
 Baandries, Baandriesch
 Baardegem, Baerdegem, Baerdeghem
 Baarle
-Baarle-Hertog, Baarle-Nassau, Baerle-Duc, Барле-Хертог, بئرلرتوگ, 巴尔勒－赫尔托赫
+Baarle-Hertog, Baarle-Nassau, Baerle-Duc, Барле Хертог, بئرلرتوگ, 巴尔勒－赫尔托赫
 Baarleveld, Baarlevelde, Baerlevelde
 Baarstraat
 Baasrode, Baesrode
@@ -503,7 +503,7 @@ Bassilly, Zullik
 Bassines
 Bassée
 Bastelaar, Loochristy-Bastelaere
-Bastogne, Bastenaken, Бастонь, باستون, 巴斯托涅
+Bastogne, Bastenaken, Бастон, باستون, 巴斯托涅
 Basècles
 Batria
 Batsheers, Basheers, Heers (Batsheers)
@@ -720,7 +720,7 @@ Berterath
 Berthaumont
 Bertinchamps
 Bertincroix
-Bertogne, Бертонь, برتونی, 贝尔托涅
+Bertogne, Бертон, برتونی, 贝尔托涅
 Bertrix, Бертри, Бертрикс, برتریکس, 贝尔特里
 Bertrée
 Berwinne
@@ -1189,7 +1189,7 @@ Braibant, Ciney (Braibant)
 Braidise
 Braine-l'Alleud, Eigenbrakel, Брен л'Альо, Брен-л'Аллё, برن‌للو, 布赖恩拉勒
 Braine-le-Château, Braine-Le-Chateau, Kasteelbrakel, Брен льо Шато, Брен-ле-Шато, برن-لو-شتو, 布赖恩勒沙托
-Braine-le-Comte, Braine-Le-Comte, s-Gravenbrakel, Брем-ле-Конт, Брен льо Конт, Брен-ле-Конт, برن‌لوکمت
+Braine-le-Comte, 's-Gravenbrakel, Braine-Le-Comte, Брем-ле-Конт, Брен льо Конт, Брен-ле-Конт, برن‌لوکمت
 Braives, Брев, برو, 布赖沃
 Brakel, Nederbrakel
 Brakum, Braekum
@@ -1368,7 +1368,7 @@ Buitenste Einde
 Buizingen, Buysinghen, Halle (Buizingen)
 Buken, Beuken, Kampenhout (Buken)
 Bukenberg, Beukenberg, Buekenberg
-Bullange, Buellingen, Büllingen
+Bullange, Buellingen, Bullingen
 Bullen Gestel, De Bullen Gestel
 Bulskamp, Bulscamp
 Bulsom
@@ -1388,7 +1388,7 @@ Bure
 Buresse
 Buret
 Burg, Burgh
-Burg-Reuland, Reuland, Бург-Ройланд, بورگ-رولان, 布尔格—罗伊兰德
+Burg-Reuland, Reuland, Бург Ройланд, بورگ-رولان, 布尔格—罗伊兰德
 Burgerhout
 Burgmolen
 Burhaimont
@@ -1548,7 +1548,7 @@ Charnoy, Le Charnoy
 Chassart
 Chasse Royale
 Chassepierre
-Chastre, Шастър, شستر, 沙斯特尔
+Chastre, Шастр, شستر, 沙斯特尔
 Chastre-Villeroux-Blanmont, Chastre (Chastre-Villeroux-Blanmont)
 Chastrès, Walcourt (Chastrès)
 Chat
@@ -1569,7 +1569,6 @@ Chechy
 Chefna Ville au Bois
 Chemin Vert
 Chenemont
-Chenet, Le Tchene
 Cheneumont
 Cheneux
 Cheniat
@@ -1602,7 +1601,7 @@ Chevrouheid
 Chevroumont
 Chifontaine
 Chimay, Шиме, شیمه, 希迈
-Chiny, شینی
+Chiny, Шини
 Chiversoux
 Chièvres, Шиевър, Шьевр, شیور
 Choassnaye
@@ -1623,6 +1622,7 @@ Chêne
 Chêne al Pierre, Chêne al Pire
 Chêne à Han
 Chêneau, Chênau
+Chênet, Le Tchene
 Chênée, Liège (Chênée)
 Chôdes
 Cielle
@@ -1674,7 +1674,7 @@ Coignelet, Coignelot
 Coin de Suzin
 Coin du Haut
 Cointe
-Colfontaine, Кольфонтен, کولفونتن
+Colfontaine, Колфонтен, کولفونتن
 Colinet
 Collas
 Colmst, Colmstraat
@@ -1682,7 +1682,7 @@ Colombus
 Colrin
 Colroy
 Comblain-Fairon
-Comblain-au-Pont, Comblain, Komblenx, Комблен-о-Пон, کومبلن-او-پون, 孔布兰欧蓬
+Comblain-au-Pont, Comblain, Komblenx, Комблен о Пон, کومبلن-او-پون, 孔布兰欧蓬
 Comblain-la-Tour, Hamoir (Comblain-la-Tour)
 Comblinay
 Comchez, Coinchez
@@ -2033,7 +2033,7 @@ Deheide
 Deidenberg, Diedenberg
 Deiffelt, Deyfeld, Deyfeldt
 Deigne
-Deinze, Дайнзе, Дейнзе, دنز, 代因泽
+Deinze, Deynze, Дайнзе, دنز, 代因泽
 Dekpriem
 Delbart
 Delle, Winksele-Delle, Winxele-Delle
@@ -2322,7 +2322,7 @@ Eedtwijk, Eedtwyk
 Eekhoek, Eeckhoek
 Eekhout, Eeckhaute, Eeckhout, Eeckout
 Eekhoutdries
-Eeklo, Eecloo, Eekloo, Экло, اکلو, 埃克洛
+Eeklo, Eecloo, Eekloo, Екло, اکلو, 埃克洛
 Eeksken
 Eekstraat
 Eekt
@@ -2463,7 +2463,7 @@ Engelbeek
 Engelhoek
 Engelmanshoven, Sint-Truiden (Engelmanshoven)
 Enghien, Edingen, Анген, Ангиан, آنگیین
-Engis, Анжис, آنژی, 昂日
+Engis, Анжи, Анжис, 昂日
 Engreux
 Engsbergen
 Enhet
@@ -2669,7 +2669,7 @@ Florbecq
 Floreffe, Флореф, فلورف, 弗洛雷夫
 Florennes, Флорен, فلورن, 弗洛雷讷
 Florent
-Florenville, Флоранвиль, فلوران ویل, 弗洛朗维尔
+Florenville, Флоранвил, فلوران ویل, 弗洛朗维尔
 Floriffoux, Floreffe (Floriffoux)
 Florival
 Florivaux
@@ -2680,7 +2680,7 @@ Florêt
 Flostoy
 Flère
 Fléchère
-Flémalle, Флемаль, فلمل, 弗莱马勒
+Flémalle, Флемал, فلمل, 弗莱马勒
 Flémalle-Grande, Flémalle (Flémalle-Grande)
 Flémalle-Haute, Flémalle (Flémalle-Haute)
 Flénu
@@ -2821,7 +2821,7 @@ Frankrijkstraat, Krankrijkstraat, Vrankrijkstraat
 Fransberg
 Frasies
 Frasnes, Couvin (Frasnes)
-Frasnes-lez-Anvaing, Frasnes-lez-Buissenal, Фран-лез-Анвен, فرازن-له-آنون
+Frasnes-lez-Anvaing, Frasnes-lez-Buissenal, Фран лез Анвен, فرازن-له-آنون
 Frasnes-lez-Buissenal
 Frasnes-lez-Gosselies
 Frassem
@@ -3839,7 +3839,7 @@ Henri Chêne, Hinri-Chêne
 Henri-Chapelle, Hendrik-Capelle, Hendrik-Kapelle, Welkenraedt (Henri-Chapelle)
 Henripont
 Hensem, Hensen
-Hensies, آنسی
+Hensies, Анси
 Henumont
 Heppen, Leopoldsburg (Heppen)
 Heppenbach, Amblève (Heppenbach)
@@ -3994,7 +3994,6 @@ Heuven
 Hever, Boortmeerbeek (Hever)
 Heverlee, Heverle, Leuven (Heverlee)
 Heyd
-Heze, Heesch, Heeze
 Hezemeerheide, Heezemeir Heide, Hezemeir Heide
 Hezerheide
 Hezewijk, Hezevijk, Hezewyck
@@ -4371,6 +4370,7 @@ Huyers
 Hymiée
 Hyon
 Hèvremont
+Hèze, Heesch, Heeze
 Hé de Lonay, Hé-de-Lonnay
 Hédomont
 Hédrée
@@ -4432,7 +4432,7 @@ Isschot
 Issegem
 Itegem, Iteghem
 Itterbeek, Dilbeek (Itterbeek)
-Ittre, Itter, ایتر, 伊特尔
+Ittre, Itter, Итр, 伊特尔
 Iveldingen, Iveldange
 Ivoz-Ramet, Flémalle (Ivoz-Ramet)
 Ixelles, Brussel (Elsene), Bruxelles (Ixelles), Commune d'Ixelles, Elsene, Gemeente Elsene, Ixelles-Elsene, Иксел, ایکسل, 伊克塞尔
@@ -4504,7 +4504,7 @@ Julémont, Herve (Julémont)
 Jumet, Charleroi (Jumet)
 Jupille
 Jupille-sur-Meuse, Liège (Jupille-sur-Meuse)
-Juprelle, Жюпрель, ژوپرل, 瑞普雷勒
+Juprelle, Жюпрел, ژوپرل, 瑞普雷勒
 Jurbise, Jurbeke, Журбиз, Жюрбиз, ژوربیز
 Juseret
 Juslenville
@@ -4718,7 +4718,7 @@ Kijs, Kys
 Kimpelberg
 Kin
 Kinkempois
-Kinrooi, Кинрой, کنروآ, 金罗伊
+Kinrooi, Kinroy, کنروآ, 金罗伊
 Kinschot, Kindschot
 Kipdorp
 Kippe
@@ -5216,7 +5216,7 @@ La Histet, Le Histel
 La Horne
 La Houlette
 La Houzée, Houzée
-La Hulpe, Terhulpen, Ла-Юльп, لئولپ, 拉于尔普
+La Hulpe, Terhulpen, Ла Юлп, لئولپ, 拉于尔普
 La Hurtrie
 La Hutte
 La Justice
@@ -5314,7 +5314,7 @@ Laakdal, Лакдал, لکدل, 拉克达尔
 Laar, Groot-Laar, Laer, Laere
 Laarheide
 Laarhoek, Laarenhoek, Laarenhoeke
-Laarne, Ларне, لرن, 拉尔讷
+Laarne, Laerne, Ларне, لرن
 Laarnehoek, Laernehoek
 Laatste Oortje, Laaste Oortje
 Laatstenstuiver, Laatste Stuiver, Stuiver
@@ -5941,7 +5941,7 @@ Liedekerke, Лидекерке, Лийдекерке, لیودوکرک, 利德�
 Lieferinge, Liefferinge
 Liefkenshoek
 Lienne
-Lier, Lierre, Лийр, Льер, لیر
+Lier, Lierre, Лийр, Лир, Льер
 Lierenhoek
 Lierneux, Lieurneux, Лиерньо, Льернё, لیرنو, 利尔纳
 Liernu
@@ -5952,13 +5952,13 @@ Liesselseheide
 Liester
 Lieu Pire
 Liezele
-Ligne
 Lignely
 Lignette
 Ligneuville, Engelsdorf
 Ligney, Geer (Ligney)
 Lignières
 Ligny, Sombreffe (Ligny)
+Ligné
 Liherain
 Lijsdonk, Lysdonck
 Lijssenthoek
@@ -6290,7 +6290,7 @@ Marbay
 Marbehan, Marbehon
 Marbisoux
 Marche
-Marche-en-Famenne, Марш-ан-Фамен, مرش‌آن‌فمن, 法梅恩地区马尔什
+Marche-en-Famenne, Марш ан Фамен, مرش‌آن‌فمن, 法梅恩地区马尔什
 Marche-les-Dames
 Marche-lez-Écaussinnes, Marche-lez Écaussines
 Marchelle, La Marchelle
@@ -6466,7 +6466,7 @@ Meirhoeven, Meerhoeven
 Meirreit, Meirreyt
 Meise, Meysse, Мейсе, مز, 迈泽
 Meisven, Muisven
-Meix-devant-Virton, Мекс-деван-Виртон, مکس-دوان-ویرتن, 梅德旺维通
+Meix-devant-Virton, Мекс деван Виртон, مکس-دوان-ویرتن, 梅德旺维通
 Meix-le-Tige
 Meiz
 Mekingen
@@ -6476,7 +6476,6 @@ Melden
 Meldert, Hoegaarden (Meldert), Lummen (Meldert)
 Melen, Soumagne (Melen)
 Melhoven
-Melin, Jodoigne (Mélin)
 Melines, Melinne, Melinnes
 Melkauwen, Melcauwen
 Melkhoek
@@ -6505,7 +6504,6 @@ Menekhoeven, Menkhoeven
 Menen, Meenen, Menin, منن, 梅嫩
 Menenpoort, Petite de Menin
 Menhart
-Menil
 Menufontaine
 Menugoutte
 Merbes-Sainte-Marie, Merbes-le-Château (Merbes-Sainte-Marie)
@@ -6736,7 +6734,7 @@ Mont à Leux
 Mont-Gauthier
 Mont-Saint-André, Ramillies (Mont-Saint-André)
 Mont-Saint-Aubert
-Mont-Saint-Guibert, Мон-Сен-Гибер, مون-سن-ژیبه, 蒙－圣吉贝尔
+Mont-Saint-Guibert, Мон Сен Гибер, مون-سن-ژیبه, 蒙－圣吉贝尔
 Mont-Sainte-Aldegonde
 Mont-Sainte-Geneviève
 Mont-sur-Marchienne, Charleroi (Mont-sur-Marchienne)
@@ -6877,7 +6875,9 @@ Mussy-la-Ville
 Mutsaard
 My, Ferrières (My)
 Méan, Havelange (Méan)
+Mélin, Jodoigne (Mélin)
 Ménage
+Ménil
 Méry
 Mévergnies, Mévergnies-lez-Lens
 Möderscheid
@@ -6907,7 +6907,7 @@ Nantimont
 Naomé
 Narcimont
 Nashez
-Nassogne, Насонь, نسونی, 纳索涅
+Nassogne, Насон, نسونی, 纳索涅
 Natendries
 Natoye, Hamois (Natoye)
 Nattenbaasdonk, Nattenbaasdonck
@@ -7354,7 +7354,7 @@ Ossenhoek
 Ossenweg
 Ossogne
 Ostemerée
-Ostend, Oostende, Остенде, اوستنده, 奥斯滕德
+Ostend, Oostende, Ostende, اوستنده, 奥斯滕德
 Oster
 Ostiches
 Otaimont
@@ -7378,7 +7378,7 @@ Oud Smetlede
 Oud Stuivekenskerke, Oud Stuyvekens, Oud Stuyvekenskerke
 Oud Waterschei
 Oud Winterslag
-Oud-Heverlee, Vieux-Héverlé, Ауд-Хеверле, او-اورله, 旧赫纲尔莱
+Oud-Heverlee, Vieux-Héverlé, Ауд Хеверле, او-اورله, 旧赫纲尔莱
 Oud-Turnhout, Vieux-Turnhout
 Oude Baan, De Baan
 Oude Barreel, De Oude Barreel
@@ -7973,7 +7973,7 @@ Puvinage
 Pâturages
 Périmont
 Péronnes, Peronnez, Péronnes-lez-Binche
-Péruwelz, Перювельз, پروولز
+Péruwelz, Перювелз, پروولز
 Pétrieux
 Pützhag
 Quarante Bonniers
@@ -8545,7 +8545,7 @@ Saint-Gérard
 Saint-Géry, Chastre (Saint-Géry)
 Saint-Hadelin, Fief-Mont-Saint-Hadelin
 Saint-Homme
-Saint-Hubert, Сент-Юбер, سن-اوبر, 圣胡伯特
+Saint-Hubert, Сент Юбер, سن-اوبر, 圣胡伯特
 Saint-Jacques
 Saint-Jean Sart
 Saint-Jean-Geest, Jodoigne (Saint-Jean-Geest), Sint-Jans-Geest
@@ -8572,7 +8572,7 @@ Saint-Symphorien
 Saint-Séverin, Nandrin (Saint-Séverin)
 Saint-Vaast
 Saint-Vincent
-Saint-Vith, Sankt-Vith
+Saint-Vith, Sankt Vith
 Saint-Vitu
 Saint-Yvon, Saint Ivon
 Saint-Éloi
@@ -8980,7 +8980,7 @@ Sint-Pieter
 Sint-Pieters, Sint-Pieters-Cappelle
 Sint-Pieters Veld
 Sint-Pieters op de Dijk, Saint Pierre-sur-la-Digue, Sint-Pieters-Dyk
-Sint-Pieters ten Berge, Sint-Pieters ten Bergen
+Sint-Pieters ten Berge, Saint Pieters-ten-Bergen
 Sint-Pieters-Kapelle, Saint-Pierre-Cappelle
 Sint-Pieters-Leeuw, Leeuw-Saint-Pierre, Синт Пийтерс Леу, Синт-Питерс-Леув, سن-پیوته-لئو, 圣彼得斯-莱乌
 Sint-Pieters-Rode, Rhode-Saint-Pierre
@@ -9104,7 +9104,7 @@ Soudromont, Soudremont, Soudroumont
 Sougné-Remouchamps, Aywaille (Sougné-Remouchamps)
 Soulin
 Soulme
-Soumagne, Сумань, سومنی, 苏马涅
+Soumagne, Суман, سومنی, 苏马涅
 Soumoy
 Sourbrodt, Waimes (Sourbrodt)
 Sourdeau
@@ -9587,7 +9587,7 @@ Tincelle
 Tinlot, Тенло, تنلو, 坦洛
 Tintange
 Tintenard
-Tintigny, Тентиньи, تنتینی, 坦蒂尼
+Tintigny, Тентини, تنتینی, 坦蒂尼
 Tirolle
 Tisselt, Thisselt
 Tissenhove
@@ -9762,7 +9762,7 @@ Tweebok
 Tyberchamps
 Ubbersel
 Uberweywertz
-Uccle, Brussel (Ukkel), Bruxelles (Uccle), Уккел, Юкел, اوکل, 于克勒
+Uccle, Brussel (Ukkel), Bruxelles (Uccle), Ukkel, Юкел, اوکل, 于克勒
 Ucimont
 Udange
 Uikhoven, Uykhoven
@@ -10838,7 +10838,7 @@ rue de la Jonction 5
 Épioux, Les Épioux
 Éprave, Rochefort (Éprave)
 Équipée
-Érezée, Эрезе, اروزه, 埃尔泽
+Érezée, Ерезе, اروزه, 埃尔泽
 Établissements de Chassart
 Étalle, Етал, اتل, 埃塔尔
 Éthe, Virton (Éthe)

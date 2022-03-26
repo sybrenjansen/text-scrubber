@@ -171,7 +171,7 @@ Amnonmot, 앞논못
 Amnyang-myeon, 압량면
 Amnyang-ri, 압량리
 Amokseom, Ahang-do, Amo, Amok-sŏm, Gakō-tō, 아목섬
-Amsa-dong, 암사2동
+Amsa-dong, 암사1동
 Amsan
 Amsanmot, 암산못
 Amsanyuwonji
@@ -240,7 +240,6 @@ Ando
 Ando-san, 안도산
 Andol-orŭm
 Andong-gun
-Andong-ni, Wŏnandŏk, 안덕리, 안동리
 Andong-ri, 안동리
 Andong-si, Andong-ŭp, 안동시
 Andonganigol, Andongani-gol
@@ -251,6 +250,7 @@ Andongji
 Andongmakgol, Andongmak-kol, 안동막골
 Andongsoryuji, 안동소류지
 Andurubong, 안두루봉
+Andŏng-ni, Wŏnandŏk, 안덕리, 안동리
 Aneulbawi, Anŭl-bawi
 Ang'ol-chi
 Angaengigol, An'gaengi-gol
@@ -412,7 +412,7 @@ Anseongcheon, Anjō-sen, Ansongchong-gang, Ansŏng-ch'ŏn
 Anseongje
 Ansil-chi, 안실지
 Ansilsoryuji, 마곡지, 안실소류지
-Ansim-dong, 안심2동
+Ansim-dong, 안심1동
 Ansim-gol
 Ansim-je
 Ansim-ri, 안심리
@@ -449,7 +449,7 @@ Antigol, Ant'i-gol
 Anttŭl-soryuji, 안뜰소류지
 Anunje
 Anwondugol, Anwŏndu-gol
-Anyang-dong, 안양6동
+Anyang-dong, 안양1동
 Anyang-myeon, 안양면
 Anyang-si, 안양시
 Anyang-soryuji, 안양소류지
@@ -659,7 +659,7 @@ Baegol
 Baegoljae
 Baegolsoryuji, 배골소류지
 Baegun Greenland, 백운그린랜드
-Baegun-dong, 백운2동
+Baegun-dong, 백운1동
 Baegun-jeosuji, Paegun-jŏsuji
 Baegun-myeon, Paegun-myŏn, 백운면, 판부면
 Baegun-ri, 백운리
@@ -937,7 +937,7 @@ Bamgolje
 Bamgoljeosuji
 Bamgolsan
 Bamgolsoryuji, Pamgol-mot, 밤골못, 밤골소류지
-Bamgyejeosuji, Naegokchŏsuji, Panggye-jŏsuji, 방계저수지
+Bamgyejeosuji, Banggyejeosuji, Naegokchŏsuji, Panggye-jŏsuji
 Bamjae, Pam-jae
 Bamjaegogae, Pam-jae
 Bamjaeji
@@ -981,7 +981,7 @@ Bangagol, Panga-gol
 Bangajae
 Bangajaegol, Pangajae-gol
 Banganji
-Bangbae-dong, 방배2동
+Bangbae-dong, 방배1동
 Bangbaebon-dong, 방배본동
 Bangbaecheon
 Bangbuyeo, 뱅부여
@@ -1035,10 +1035,10 @@ Banggolmot, 방골못
 Banggusan
 Banggyeje, Panggye-je
 Banghachi, Pangha-jae, 방하재
-Banghak-dong, 방학3동
+Banghak-dong, 방학1동
 Banghari, Pangha-ri, 방하리
 Bangheung-ri, 방흥리
-Banghwa-dong, 방화2동
+Banghwa-dong, 방화1동
 Banghwa-ri, 방화리
 Banghwabong, Panghwa-bong
 Banghwadong-jayeon Hyuyangnim, 방화동자연휴양림
@@ -1062,7 +1062,7 @@ Bangjukgolje, Pangjukkol-che, 방죽골제
 Bangjukpohaesuyokjang, 방죽포해수욕장
 Bangjungmot, Pangjuk-mot, 방죽못
 Bangma-ri, 방마리
-Bangmado, Mŏngeyŏm, Pangma-do, 멍에염
+Bangmado, Meongeyeom, Mŏngeyŏm, Pangma-do
 Bangmaengibawi, Pangmaengi-bawi
 Bangmansan
 Bangmasan
@@ -1109,7 +1109,7 @@ Bangtaejayeonhyuyangnim, 방태자연휴양림
 Bangtaesan, Hotai-zan, Hōtai-san, Pandae-san, Pangdae-san, Pangt'ae-san
 Bangteojae
 Bangtong-ri, Pangt'ong-ni
-Bangu-dong, 반구2동
+Bangu-dong, 반구1동
 Bangulgogae, Pangul-gogae, Pusawŏn-gogae
 Bangyangji
 Bangye-jeosuji, Pan'gye-jŏsuji, 반계저수지
@@ -1126,7 +1126,7 @@ Banjeongmot, Panjŏng-mot, 반정못
 Banjowonje
 Bannaeji
 Bannam-myeon, 반남면
-Banpo-dong, 반포4동
+Banpo-dong, 반포1동
 Banpo-gongwon, Panp'o-gongwŏn, 반포공원
 Banpo-myeon, Panp'o-myŏn, 반포면
 Banpobon-dong, 반포본동
@@ -1135,7 +1135,7 @@ Bansan-jeosuji, Pansan-jŏsuji, 반산저수지
 Bansanje
 Banseomsan
 Banseomyuwonji, Pamsŏm-yuwŏnji, 밤섬유원지
-Bansong-dong, 반송3동
+Bansong-dong, 반송1동
 Bansong-ri, 반송리
 Bansonggogae
 Bansongjae
@@ -1148,7 +1148,7 @@ Banwol-ri, 반월리
 Banwolbangchuk, 반월방축
 Banwolje, Panwŏl-chŏsuji, 반월저수지
 Banyeo
-Banyeo-dong, 반여3동
+Banyeo-dong, 반여1동
 Banyongjae
 Banyongje
 Banyongjeosuji
@@ -1221,7 +1221,7 @@ Beombawi
 Beombawigol, Pŏmbawi-gol
 Beombawisan
 Beombeoksan, Pŏmbŏk-san, 범벅산
-Beomcheon-dong, 범천2동
+Beomcheon-dong, 범천1동
 Beomeo-dong, 범어1동
 Beomeocheon
 Beomeogol, Pŏmŏ-gol
@@ -1232,7 +1232,7 @@ Beomgol
 Beomgye-dong, 범계동
 Beomheorigogae, 범허리고개
 Beomheorijae, 범허리재
-Beomil-dong, 범일2동
+Beomil-dong, 범일1동
 Beomjae, Pŏm-jae
 Beomjaebong
 Beomjeon-dong, 범전동
@@ -1435,7 +1435,7 @@ Biyangdo, Biyangdo Island, Hiyō-tō, Hiyōdō, 飛揚島
 Boan-myeon, 보안면
 Bobaesan, Hokaizan, Hōgai-san, Hōkai-san, Pobae-san
 Bobalcheon
-Bobaljae, Kodŭn-gogae, 고든고개
+Bobaljae, Godeungogae, Kodŭn-gogae
 Bobongsan
 Bobyeonggogae
 Bocheongcheon, Hōsei-sen, Kum-gang, Poch'ŏng-ch'ŏn
@@ -1484,10 +1484,10 @@ Bojangsan
 Bojeol-myeon, Pojŏl-myŏn, 보절면
 Bojeong-dong, 보정동
 Bojeonje
-Bojjaegogae, Pojae-gogae, 보재고개
+Bojjaegogae, Bojaegogae, Pojae-gogae
 Bokbakgol, Pokpak-kol, 복박골
 Bokchonseonchakjang, 복촌선착장
-Bokdae-dong, 복대2동
+Bokdae-dong, 복대1동
 Bokdae-ri, 복대리
 Bokdeokgogae, 복덕고개
 Bokdong I Je, Bokdong 2 Je, 복동2제
@@ -1584,7 +1584,7 @@ Bongdaerijeosuji, 봉대리저수지
 Bongdaesan, Hotai-zan, Hōdai-san, Pangdae-san, Pogudei San
 Bongdam-eup, Pongdam-ŭp, 峰潭邑, 봉담읍
 Bongdangcheon
-Bongdeok-dong, 봉덕2동
+Bongdeok-dong, 봉덕1동
 Bongdeok-ri, 봉덕리
 Bongdeok-ri Neutinamu, 봉덕리느티나무
 Bongdeokcheon, 봉덕천
@@ -1664,7 +1664,7 @@ Bongmisan
 Bongmugongwon
 Bongmusan
 Bongmyeong I Jigu, Bongmyeong 2 Jigu, 봉명2지구, 봉명이지구
-Bongmyeong-dong, 봉명2·송정동, 봉명동
+Bongmyeong-dong, 봉명1동, 봉명2·송정동
 Bongmyeonggongwon
 Bongmyeongsan
 Bongmyeongsinbongjigu
@@ -1742,7 +1742,7 @@ Bongyangje
 Bongyangjeosuji
 Bongyeonjeosuji
 Bonjukji, Bonjukjeosuji, Ponjuk-chŏsuji, 본죽저수지, 본죽지
-Bono-dong, 본오2동
+Bono-dong, 본오1동
 Bonogolbangjuk, 보노골방죽
 Bonpo-ri, 본포리
 Bonpyeongri, Ponp'yŏng-ni, 본평리
@@ -1798,7 +1798,7 @@ Buam-ri, 부암리
 Buamcheon
 Buamsan
 Buan-eup, 부안읍
-Buan-gun, Puan-gun, 부안, 부안군
+Buan-gun, Buan, Puan-gun, 부안군
 Buan-myeon, 부안면
 Buanho
 Buanyeongsang Theme Park, 부안영상테마파크
@@ -1818,7 +1818,7 @@ Bucheondang-gogae, Puch'ŏndang-gogae, 부천당고개
 Bucheonggogae, Puch'ang-gogae, 부창고개
 Bucheongogae
 Buchigol
-Buchigoljeosuji, Puch'ŏgol-chŏsuji, 부처골저수지
+Buchigoljeosuji, Bucheogoljeosuji, Puch'ŏgol-chŏsuji
 Bucho-ri, 부초리
 Buchon-ri, 부촌리
 Buchudangigogae
@@ -1852,9 +1852,9 @@ Bugi-myeon, 북이면
 Bugi-ri, 부기리
 Bugicheon
 Bugil-myeon, Hokuichi-men, Pugil-myŏn, Pukil-myon, 북일면
-Bugok-dong, 부곡동
+Bugok-dong, 부곡1동
 Bugok-myeon, 부곡면
-Bugok-ri, 북옥리
+Bugok-ri, 부곡리
 Bugok-soryuji, 부곡소류지
 Bugokje, 부곡제
 Bugokje I Soryuji, Bugokje 2 Soryuji, 부곡제2소류지
@@ -1888,7 +1888,7 @@ Buindang, Noindang, Puindang, Yongjae-san
 Bujeo-ri, 부저리
 Bujeok-myeon, 부적면
 Bujeok-ri, 부적리
-Bujeon-dong, 부전2동
+Bujeon-dong, 부전1동
 Bujeoncheon
 Bujeonggol, Pujŏng-gol
 Bujeongje
@@ -2045,7 +2045,7 @@ Bundang-gu, 분당구
 Bundang-jeosuji, Pundang-jŏsuji, 분당저수지
 Bundanggol, Pundang-gol
 Bundeokjae, 분덕재
-Bundo-ri, Punt'o-ri, 분토리
+Bundo-ri, Punt'o, 분토리
 Bundogol, Pundo-gol
 Bundokgol, Pundok-kol, 분독골
 Bundongsoryuji, 분동소류지
@@ -2068,7 +2068,7 @@ Bunin-ri, Bunwon-ri, Punwŏl-li, Punwŏn, Punwŏn-ni, 분원리
 Bunjaeyesulgongwon
 Bunjeoksan, Punjŏk-san, 분적산
 Bunjeolje I Soryuji, Bunjeolje 2 Soryuji, 분절제2소류지
-Bunjeom, 분지도
+Bunjeom, Bunjido
 Bunjeonsan
 Bunji-ri, 분지리
 Bunjibeolgogae
@@ -2092,7 +2092,7 @@ Bunyeo
 Buphang, Hōkō-ri, Pŭphŭng-ni, 법흥리
 Bupo-ri, 부포리
 Bupojeosuji
-Bupyeong-dong, 부평6동
+Bupyeong-dong, 부평1동
 Bupyeong-gu, 부평구
 Bupyeong-ri, 부평리
 Bupyeongje
@@ -2118,7 +2118,7 @@ Buryangsoryuji, 부량소류지
 Buryegogae, 부례고개
 Buryeonggol, 부령골
 Busa-dong, 부사동
-Busan, Busan-gwangyeoksi, Fusan-fu, Fuzan-fu, Husan Hu, Menuri-san, Myŏnŭri-san, Pu-san, Pusan-bu, Pusan-chikhalsi, Pusan-gwangyŏksi, Pusan-jikhalsi, Pusan-pu, Pusan-si, 釜山, 釜山廣域市, 부산광역시, 부산시, 옥녀봉
+Busan, Busan-gwangyeoksi, Fusan-fu, Fuzan-fu, Husan Hu, Menuri-san, Myŏnŭri-san, Pu-san, Pusan, Pusan-bu, Pusan-chikhalsi, Pusan-gwangyŏksi, Pusan-jikhalsi, Pusan-pu, 釜山, 釜山廣域市, 부산광역시, 부산시, 옥녀봉
 Busan New Port
 Busan Port, Busan Ferry Port, Busan Harbour
 Busan-jeosuji, Pusan-jŏsuji, 부산저수지
@@ -2227,7 +2227,7 @@ Byeongsangolmot, 병산골못
 Byeongsanjeosuji
 Byeongsanyeoldo, Asan Islands, Cone Islands, Heizan Ressyo, Heizan-ressho, Heizan-rettō, P'yŏngsan-yŏlto, Pyŏngsan-yŏlsŏ, Samsin-do, Sanshin-tō
 Byeongsasan, Pyŏngsa-san
-Byeongyeong-dong, 병영2동
+Byeongyeong-dong, 병영1동
 Byeongyeong-myeon, 병영면
 Byeonmyoji
 Byeonsan-bando National Park
@@ -2278,8 +2278,8 @@ Ch'ang-ni, 창리
 Ch'ang-p'o, Sō-ho, Tyan Pō
 Ch'ang-san
 Ch'angam-ni, 창암리
-Ch'angch'ol-li, Ch'ŏnch'ang, Sōsen-dŏ, Sōsento, 창천리, 창촌리
 Ch'angch'on-soryuji, 창촌소류지
+Ch'angch'ŏl-li, Ch'ŏnch'ang, Sōsen-dŏ, Sōsento, 창천리, 창촌리
 Ch'angdong-soryuji, 창동소류지
 Ch'anggi-jŏsuji, 창기저수지
 Ch'anggi-ri, 창기리
@@ -2395,12 +2395,10 @@ Ch'ojŏn, 초전
 Ch'ojŏn-ch'on, 초전촌
 Ch'ojŏng-soryuji, 초정소류지
 Ch'oksae-bong, 촉새봉
-Ch'omak-kol, 처막골, 초막골
 Ch'omakkok-soryuji, 초막곡소류지
 Ch'omakkol-soryuji, 초막골소류지
 Ch'omang-sŏ
 Ch'ongnyong-du, Chongnyongdu, 총룡두
-Ch'onmi-ch'on
 Ch'oo-ri, 초오리
 Ch'op'yŏng-ch'ŏn
 Ch'op'yŏng-jŏsuji
@@ -2494,6 +2492,7 @@ Ch'ŏlma-san
 Ch'ŏlmi-san, 철미산
 Ch'ŏlt'ong-ni, 철통리
 Ch'ŏm-bong, 첨봉
+Ch'ŏmak-kol, 처막골, 초막골
 Ch'ŏn'gae-ri, 천개리
 Ch'ŏn'gae-san, Ch'ŏn'gye-san, 천개산
 Ch'ŏn'gi-ri, 천기리
@@ -2596,6 +2595,7 @@ Ch'ŏnjŏl-li, 천전리
 Ch'ŏnma-bong
 Ch'ŏnma-san
 Ch'ŏnmang-jŏsuji
+Ch'ŏnmi-ch'ŏn
 Ch'ŏnnae-ri, 천내리
 Ch'ŏnnam-dong, 천남동
 Ch'ŏnp'o-ri, 천포리
@@ -2789,7 +2789,7 @@ Chambang-mot, 잠방못
 Chambyŏng-ni, 잠병리
 Chamdoseonchakjang, 참도선착장
 Chamdu-ri, Santō-ri, 잠두리
-Chamdu-san, 蠶頭山, 잠두산
+Chamdu-san, Jamdusan, 蠶頭山
 Chamhong-dong, Chamhong-ni, 잠홍동
 Chamhŭng-jŏsuji, Chamhong-jŏsuji, 잠흥저수지
 Chamnambaegigol, Ch'amnambaegi-gol
@@ -2853,10 +2853,10 @@ Changbong-sudo, Chōho-suidō, Jangbong-sudo, Tyōhō Suidō, 장봉수도
 Changbongsoryu-ji, Jangbongsoryu-ji, 장봉소류지
 Changbyŏng-san, 장병산
 Changch'i-ri, 장치리
-Changch'ol-li, Changch'on-ni, Chōson-ri, 장존리, 장천리
 Changch'ul-li, Changch'un-ni, Chōshun-ri
 Changch'ung-yaksut'ŏ, 장충약수터
 Changch'ŏk-chi, 장척지
+Changch'ŏl-li, Changch'on-ni, Chōson-ri, 장존리, 장천리
 Changch'ŏn-ji
 Changch'ŏng-ni, 장척리
 Changchon-ri, 창촌리
@@ -2867,18 +2867,18 @@ Changdam-ni, 장담리
 Changdeung Mal, Changdŭng-gap, Changdŭng-mal, Changtŭng-mal, Chōtō-kō, Chōtō-matsu, Tyōtō Matu
 Changdo Yoldo, Changdo-yŏlto, Chōtō-rettō, Tyōtō Rettō
 Changdo-sudo, Chōtō-suidō, Tyōtō Suidō
-Changdong, Chōtoku-ri
-Changdong-ni, 장덕리, 장동리
+Changdong, Chōtoku
 Changdong-ri, 창동리
 Changdongje
 Changdongji, Ch'angdong-ji
+Changdŏng-ni, 장덕리, 장동리
 Changdŭng-san, Changdŏng-san
 Changga-jŏsuji, 장가저수지
 Changgam-ni
 Changgang-sudo, Chōkō-suidō, Jang-gang Sudo, Tyōkō Suidō
 Changgeongyegok, 창건계곡
 Changgeorijeosuji, 창거리저수지
-Changgi-dong, Jōki-dō, Kujanggi-dong, Kyū-jōki-dō
+Changgi-dong, Jōki, Kujanggi-dong, Kyū-jōki-dō
 Changgi-gap, Changgi-ap, Changgi-gak, Changgi-got, Changyŏng-gap, Chōki-kō, Tyōki Kō
 Changgi-ri, 장기리
 Changgil-li
@@ -3035,7 +3035,7 @@ Changseon-myeon, 창선면
 Changsigol-mot, 장시골못
 Changsikkol-soryuji, 장식골소류지
 Changsil-li, 장신리
-Changsin-dong, 창신2동
+Changsin-dong, 창신1동
 Changsin-ji, 장신지
 Changsin-jŏsuji, 장신저수지
 Changsin-ni
@@ -3185,12 +3185,12 @@ Cheolma-myeon, 철마면
 Cheolma-san
 Cheolmabong
 Cheolmasan
-Cheolsan-dong, 철산4동
+Cheolsan-dong, 철산1동
 Cheolseongsan
 Cheolsindondae, 천신돈대
 Cheom Do, Ch'ŏm-do, Yŏl-to, 첨도
 Cheomabong, Ch'ŏma-bong
-Cheomdan-dong, 첨단2동
+Cheomdan-dong, 첨단1동
 Cheomsan
 Cheomseonggol, Ch'ŏmsŏng-gol
 Cheonaesan
@@ -3282,7 +3282,7 @@ Cheonggyesanipgu, Ch'ŏnggyesanipku, 청계산입구
 Cheonggyeyaksu, Ch'ŏnggye-yaksut'ŏ, 청계약수, 청계약수터
 Cheongha-myeon, 청하면
 Cheonghaejinsuseokgongwon, 청해진수석공원
-Cheonghak-dong, 청학2동
+Cheonghak-dong, 청학1동
 Cheonghak-jeosuji, Ch'ŏnghak-chŏsuji, 청학저수지
 Cheonghakje, 청학제
 Cheonghakjigu, 청학지구
@@ -3332,7 +3332,7 @@ Cheongpocheon
 Cheongpung-myeon, Ch'ŏngp'ung-myŏn, 청풍면
 Cheongpungjaengigol, Ch'ŏngp'ungjaengi-gol
 Cheongpyeong-myeon, Gaisei-men, 외서면, 청평면
-Cheongpyeong-ri, Seihei-ri, Seihyō-ri, 청평리
+Cheongpyeong-ri, Seihei-ri, Seihyō, 청평리
 Cheongpyeongho
 Cheongpyeongjayeonhyuyangnim, 청평자연휴양림
 Cheongpyeongyuwonji
@@ -3346,7 +3346,7 @@ Cheongsanje
 Cheongseokje, 청석제
 Cheongseong-myeon, Ch'ŏngsŏng-myŏn, 청성면
 Cheongseongcheyukgongwon, 청성체육공원
-Cheongseongsan, Ch'ŏngsŏng-san, 반월산
+Cheongseongsan, Banwolsan, Ch'ŏngsŏng-san
 Cheongsilje
 Cheongso-myeon, Ch'ŏngso-myŏn, 청소면
 Cheongso-ri, 청소리
@@ -3388,7 +3388,7 @@ Cheonhajeosuji
 Cheonhak Il Je, Cheonhak 1 Je, 천학1제
 Cheonhak-ri, 천학리
 Cheonhamongdolhaebyeon
-Cheonho-dong, 천호3동
+Cheonho-dong, 천호2동
 Cheonhobong
 Cheonhodonggongwon
 Cheonhosan, Ch'ŏnho-san
@@ -3563,7 +3563,7 @@ Chikkŭm-soryuji, 직금소류지
 Chikp'o-jŏsuji, 직포저수지
 Chiksal-li, Chiksan-ni, 직산리
 Chiktong-ni, 직동리
-Chiku To, Chik-to, P'i-sŏm, Pshi Do, Shoku-tō
+Chiku To, Chik-to, P'i-sŏm, P'shi Do, Shoku-tō
 Chil-gogae
 Chil-gol
 Chil-li, Chin-ni, Jin-ri, 진리
@@ -3703,9 +3703,9 @@ Chinch'ŏl-li
 Chindo-ri, 진도리
 Chindolmok-chae, 진돌목재
 Chindong-man, 진동만
-Chindong-ni
 Chindugol-mot, 진두골못
 Chindut'a-do
+Chindŏng-ni
 Chindŭkkol-mot, 진득골못
 Chindŭng-jae, 진등재
 Chindŭng-san, 진등산
@@ -3814,8 +3814,6 @@ Chiŏk-san, 지억산
 Cho Somu, To-sŏm
 Cho To
 Cho-bong
-Cho-do, Seki-tō, Tyo Tō
-Cho-ri, 저리, 초리
 Cho-san
 Cho-sŏ
 Choam-ni, 조암리
@@ -3839,7 +3837,6 @@ Chodang-ri, 초당리
 Chodo
 Chodo-sudo, Cho To Suido, Chōtō-suidō, Tyō-tō Suidō
 Chodong-myeon, 초동면
-Chodong-ni, Chodun, Sōton, 저동리, 조동리
 Chodu-san, 조두산
 Choduje
 Choegeumje, Ch'oegŭm-je
@@ -3860,7 +3857,6 @@ Chogok-ri, 초곡리
 Chogokcheon, Ch'ogok-ch'ŏn, 초곡천
 Chogokjeosuji, Ch'ogokcheil-chi, 초곡저수지, 초곡제1지
 Chogokji, 초곡지
-Chogong-ni, 저곡리, 조곡리
 Chogun-san, 조군산
 Chogunŏl, 조구널
 Chogwa-ri, 초과리
@@ -3889,7 +3885,6 @@ Chojihaje
 Chojisangje
 Chojong-san, 조종산
 Chojung-ri, 초중리
-Chojŏl-li, 저전리, 조전리
 Chok-to, Pal-sŏm, Paru Somu, Soku-tō
 Chokdaebong, Ch'oktae-bong, 燭臺峯, 촉대봉
 Choko To, Hyeongje Do, Keitei-tō, Kyotaitō, Tyōko Tō
@@ -3901,7 +3896,6 @@ Chomakgok, 초막곡, 초막골
 Chomok-soryuji, 조목소류지
 Chomong-ni, 조목리
 Chomyŏng-san, 조명산
-Chon'gol-mot, 전골못, 존골못
 Chonae-ri, 초내리
 Chondang-ji, 존당지
 Chong-sŏ
@@ -3912,7 +3906,6 @@ Chongdal-p'o
 Chongdal-sudo, Jūtatsu-suidō
 Chonggani-mot, 종간이못
 Chonggo
-Chonggok-chŏsuji, 정곡저수지
 Chongja, 조약각
 Chongja-san
 Chongji-bong, 종지봉
@@ -3943,12 +3936,11 @@ Chori'p'o, Goshōri-ho, Gosyōri Ho, Ojori-p'o
 Chori-bawi, 조리바위
 Chorijae-gol, 조리재골
 Chorokdong, 초록동
-Choryang-dong, 초량2동
+Choryang-dong, 초량1동
 Choryebong, Ch'orae-bong, Ch'ore-bong, Ch'orye-bong, 초례봉
 Choryong-ni, Chonong-ni, Chōryū-ri, 조룡리
 Choryŏng-ch'ŏn
 Chosa-ri, 초사리
-Chosal-li, Chŏsan-ni, 저산리, 조산리
 Chosan-bong, 조산봉
 Chosan-dong, 초산동
 Chosan-je
@@ -4051,10 +4043,10 @@ Chuk-hang
 Chuk-to, Bamboo Island, Chiku Do, Chuku To, Dae Seom, Denudee Island, Jug Do, Tei Somu, Tiku Tō, Tyuku Tō, 죽도
 Chukbatgol, Ch'ukpak-kol, 축밭골
 Chukch'on-ni
-Chukch'on-soryuji, 죽전소류지, 죽촌소류지
 Chukch'ŏl-li, 죽천리
 Chukch'ŏn-ch'ŏn
 Chukch'ŏn-dong, Chikusen-dō
+Chukch'ŏn-soryuji, 죽전소류지, 죽촌소류지
 Chukch'ŏng-ni
 Chukchang-ni
 Chukchang-soryuji, 죽장소류지
@@ -4125,10 +4117,8 @@ Chundo, Ch'un-do, Panyag-am
 Chundongjeosuji, Ch'undong-jŏsuji
 Chung-bong, Cheidŏgyu-san
 Chung-ch'i, 중치
-Chung-do
 Chung-gol
 Chung-jae
-Chung-ni, 죽리, 중리, 증리
 Chung-nyŏng
 Chung-san
 Chung-sŏ
@@ -4149,8 +4139,8 @@ Chungch'on-ni
 Chungch'on-soryuji, 중촌소류지
 Chungch'ŏng-do
 Chungch'ŏng-ni, 중청리
-Chungcheongbuk-do, Ch'ungch'ŏng-bukto, Ch'ungch'ŏng-pukto, Ch'ŭngch'ŏng-pukdo, Chhung-Chheng North, Chhung-chheng, Chungbuk, Chungcheong Bugdo, Chusei-hoku, Chūsei, Chūsei North, Chūsei-hokudō, East Chhung-chheng, North Ch'ungch'ŏng Province, North Chungcheong, North Chusei Province, North Chūsei, North Tyusei, Ost-Tsch-hung-tsch-höng, Puk Chyun-chiön-do, Severny Chyun-chiön-do, Tchoung-tsing, Tchyoung-tchyeng, Tyusei, Tyūsei hokudō, 忠淸, 忠淸北道, 충북, 충청북도
-Chungcheongnam-do, Ch'ungch'ŏng-namdo, Chhung-chheng South, Chungcheong Namdo, Chungnam, Chusei-nan, Chūsei, Chūsei South, Chūsei-nandō, Nam Chyun-chiön-do, South Ch'ungch'ŏng Prefecture, South Choongchong, South Chungcheong, South Chūsei, South Chūsei Province, South Tyusei, Tchoung-tsing, Tchyoung-tchyeng, Tyusei, Tyūseinandō, West Chhung-chheng, West-Tsch-hung-tsh-höng, Yuzhnyi Chyun-chiön-do, 忠南, 忠淸南道, 충청남도
+Chungcheongbuk-do, Ch'ungbuk, Ch'ungch'ŏng-bukto, Ch'ungch'ŏng-pukto, Ch'ŭngch'ŏng-pukdo, Chhung-Chheng North, Chhung-chheng, Chungcheong Bugdo, Chusei-hoku, Chūsei, Chūsei North, Chūsei-hokudō, East Chhung-chheng, North Ch'ungch'ŏng Province, North Chungcheong, North Chusei Province, North Chūsei, North Tyusei, Ost-Tsch-hung-tsch-höng, Puk Chyun-chiön-do, Severny Chyun-chiön-do, Tchoung-tsing, Tchyoung-tchyeng, Tyusei, Tyūsei hokudō, 忠淸, 忠淸北道, 충북, 충청북도
+Chungcheongnam-do, Ch'ungch'ŏng-namdo, Ch'ungnam, Chhung-chheng South, Chungcheong Namdo, Chusei-nan, Chūsei, Chūsei South, Chūsei-nandō, Nam Chyun-chiön-do, South Ch'ungch'ŏng Prefecture, South Choongchong, South Chungcheong, South Chūsei, South Chūsei Province, South Tyusei, Tchoung-tsing, Tchyoung-tchyeng, Tyusei, Tyūseinandō, West Chhung-chheng, West-Tsch-hung-tsh-höng, Yuzhnyi Chyun-chiön-do, 忠南, 忠淸南道, 충청남도
 Chungdaegal-bong, 중대갈봉
 Chungdam-soryuji, 중담소류지
 Chungdo, Chun To, Shutō, Tyum Tō, Tyū Tō
@@ -4226,13 +4216,11 @@ Chungnyuk-to, Chungryukto, Chungyuk-to, Jungyukdo
 Chungnyul-tong, Chungyul-tong
 Chungnyungbong, Ch'ugyung-bong, Ch'ungnyung-bong, Ch'ungnyŏng-bong, 축륭봉, 축융봉
 Chungokcheon, 춘곡천
-Chungp'yŏng-ni, Sōhyō-ri, 중평리
 Chungpyeong-ri, 충평리
 Chungpyeongje I Jeosuji, Chungpyeongje 2 Jeosuji, 충평제2저수지
 Chungpyeongje Il Jeosuji, Chungpyeongje 1 Jeosuji, 충평제1저수지
 Chungpyeongje Sam Jeosuji, Chungpyeongje 3 Jeosuji, 충평제3저수지
 Chungryongsan, 청룡산
-Chungsal-li, 중산리, 증산리
 Chungsam-do
 Chungsan-dong, 중산동
 Chungsan-gol, 중산골
@@ -4345,16 +4333,21 @@ Chwiseongsan, Ch'uksŏng-san, Ch'usŏng-san, Ch'wisŏng-san
 Chwisil-che, 쥐실제
 Chwisil-gol, 쥐실골
 Chyangdong-san, 쟝동산
+Chŏ-do, Seki-tō, Tyo Tō
+Chŏ-ri, 저리, 초리
 Chŏam-mot, 저암못
 Chŏbu-do, Chŏbu-sŏm
 Chŏdong-hang, 저동항
 Chŏdong-ji, 저동지
 Chŏdong-jŏsuji
+Chŏdong-ni, Chodun, Sōton, 저동리, 조동리
 Chŏdongk'ŭn-soryuji, 저동큰소류지
 Chŏgam-man, 적암만
+Chŏgong-ni, 저곡리, 조곡리
 Chŏgyang-ni
 Chŏhang-nyŏng, 저항령
 Chŏjin-ch'i, 저진치
+Chŏjŏl-li, 저전리, 조전리
 Chŏjŏn-mot, 저전못
 Chŏkha-ji, 적하지
 Chŏkkak-tong, 적각동
@@ -4366,9 +4359,9 @@ Chŏkkŭm-sudo
 Chŏkp'o-ri, 적포리
 Chŏkpyŏng-san, 적병산
 Chŏksang-san, 적상산
-Chŏksong-ni, Sekijō-ri, 적송리
 Chŏksŏ-ri, 적서리
 Chŏksŏk-san, 적석산
+Chŏksŏng-ni, Sekijō-ri, 적송리
 Chŏkt'u-ri, 적투리
 Chŏktŏk-soryuji, 적덕소류지
 Chŏktŏng-ni, 적덕리
@@ -4413,11 +4406,12 @@ Chŏn'gak-mot, 전각못
 Chŏn'gok-chi, 전곡지
 Chŏn'gok-chŏsuji, 전곡저수지
 Chŏn'gol-chi, 전골지
+Chŏn'gol-mot, 전골못, 존골못
 Chŏn'gong-ni, 전곡리
 Chŏn-do, 전도
 Chŏnbonggi, 전봉기
 Chŏnch'igong-ni, 전치곡리
-Chŏnch'ol-li, Chŏnch'on-ni, Chŏngch'on-ni, 전천리, 전촌리
+Chŏnch'ŏl-li, Chŏnch'on-ni, Chŏngch'on-ni, 전천리, 전촌리
 Chŏnch'ŏng-ni, 전척리
 Chŏndae-ji, 전대지
 Chŏndae-jŏsuji, 전대저수지
@@ -4450,6 +4444,7 @@ Chŏnggae-san, 정개산
 Chŏnggang-mot, 정강못
 Chŏnggang-ni
 Chŏnggok-chi, 정곡지
+Chŏnggok-chŏsuji, 정곡저수지
 Chŏnggok-tu, Chōkoku-tō, Chŏnggak-tu, Chŏnggok-mŏri, Tyōkokutō
 Chŏnggol-chi, 정골지
 Chŏnggol-mot, 정골못
@@ -4520,11 +4515,14 @@ Chŏpsŏng-san, 접성산
 Chŏptong-je, 접동제
 Chŏrun-jae, 절운재
 Chŏsaegol-chŏsuji, 저새골저수지
+Chŏsal-li, Chŏsan-ni, 저산리, 조산리
 Chŏsŏng-ni, 저성리
 Chŏsŭng-gol
 Chŏyŏl-li, Chŏngnyŏn-ni, Chŏngyŏn-ni, Chŏryŏn-ni, 저연리
 Chŭlma-jae, 즐마재
 Chŭn-jae, 즌재
+Chŭng-do
+Chŭng-ni, 죽리, 중리, 증리
 Chŭng-yŏ
 Chŭngam-ji, 증암지
 Chŭngdo-chedo
@@ -4533,7 +4531,9 @@ Chŭnggong-ni, 증곡리
 Chŭnggwang-ni, 중광리
 Chŭngi-ri, 증2리
 Chŭngil-li, 증1리
+Chŭngp'yŏng-ni, Sōhyō, 중평리
 Chŭngsa-ri, 증4리
+Chŭngsal-li, 중산리, 증산리
 Chŭngsam-ni, 증3리
 Chŭngsan-jŏsuji
 Chŭngsŏng-ni
@@ -4597,7 +4597,7 @@ Daebokcheon, 대복천
 Daebokgol, Taebok-kol, 대복골
 Daeboksabangjuk, 대복사방죽
 Daebong
-Daebong-dong, 대봉2동
+Daebong-dong, 대봉1동
 Daebongsan
 Daebu-dong, 대부동
 Daebu-ri, 대부리
@@ -4615,7 +4615,7 @@ Daebyeongsoryuji, Taebyŏng-soryuji, 대병소류지
 Daechang-myeon, 대창면
 Daecheon, Sŏ-ch'ŏn, Tae-ch'ŏn, Tai-sen
 Daecheon-bangjuk, 대천방죽
-Daecheon-dong, 대천2동
+Daecheon-dong, 대천1동
 Daecheon-haesuyokjang, 대천해수욕장
 Daecheon-hang, Daisen-kō, Honei-ho, Poryon Po, Poryŏng-p'o, Taech'ŏn-hang, Taisen-kō, 대천항
 Daecheon-ri, 대천리
@@ -4632,7 +4632,7 @@ Daecheonsaneop-danji, 대천산업단지
 Daecheonsuyokjang, 대천수욕장
 Daecheonyeomjeon
 Daechi
-Daechi-dong, 대치4동
+Daechi-dong, 대치1동
 Daechi-myeon, Taech'i-myŏn, 대치면
 Daechicheon
 Daechigeullin-gongwon, Taech'igŭllin-gongwŏn, 대치근린공원
@@ -4811,7 +4811,7 @@ Daejang-ri, 대장리
 Daejangcheon
 Daejangje
 Daejeji
-Daejeo-dong, 대저2동
+Daejeo-dong, 대저1동
 Daejeolsan
 Daejeon, Daejeon-gwangyeoksi, Taejŏn-gwangyŏksi, Taejŏn-jikhalsi, 大田, 大田廣域市, 대전광역시, 대전직할시
 Daejeon I Je, Daejeon 2 Je
@@ -4868,7 +4868,7 @@ Daemoje, Taemi-je, 대미제
 Daemokjae, Taemok-chae, 대목재
 Daemosan, Taemo-san
 Daemunrijeosuji, 대문리저수지
-Daemyeong-dong, 대명6동
+Daemyeong-dong, 대명10동
 Daemyeong-ri, 대명리
 Daemyeongjeosuji
 Daemyeongji, Taemyŏng-ji
@@ -4900,7 +4900,7 @@ Daerakdo, Taerak-to, 대락도
 Daereukdo, 대륵도
 Daereung-ri, 대릉리
 Daerijeosuji, 대리저수지
-Daerim-dong, 대림3동
+Daerim-dong, 대림1동
 Daerimje, 대림제
 Daerimsan, Taerim-san, 대림산
 Daeroksan, Taerok-san, 대록산
@@ -4970,7 +4970,7 @@ Daesong-myeon, 대송면
 Daesong-ri, 대송리
 Daesongdo
 Daesongji
-Daesongyeo, K'ŭnso-yŏm, 큰소염
+Daesongyeo, K'ŭnso-yŏm, Keunsoyeom
 Daesugol
 Daesul-myeon, 대술면
 Daesupjae
@@ -5017,7 +5017,7 @@ Daeyarisan, 대야리산
 Daeyasan
 Daeyeojado, Dai-joji-tō, Taeyŏja-do, Taijojito
 Daeyeomdo, Daeyeom Do, Taeyŏm-do
-Daeyeon-dong, 대연5동
+Daeyeon-dong, 대연3동
 Daeyeoncheon
 Daeyeongjeosuji
 Daeyeonje
@@ -5040,7 +5040,7 @@ Dakbakkol-bangjuk, 닥밭골방죽
 Dakbong, 닭봉
 Dakbyeoseul, 닭벼슬
 Dakbyeseulsan, 닭벼슬산
-Dakgeumje, 개미제, 닭금제
+Dakgeumje, Gaemije, 닭금제
 Dakgoljae, Takkol-chae, 닭골재
 Dakgyesan, 닭계산
 Dakjae, Tak-chae, 닭재
@@ -5105,7 +5105,7 @@ Dalsan-ri, 달산리
 Dalsangogae
 Dalsanjeosuji
 Dalsanji
-Dalseo-gu, 달서, 달서구
+Dalseo-gu, Dalseo, 달서구
 Dalseocheon, Talsŏ-ch'ŏn
 Dalseoji, Chŏng-ji, Talsŏ-ji
 Dalseong-gun, 달성군
@@ -5136,7 +5136,7 @@ Damtaeji
 Damteogyegok, 담터계곡
 Damtigogae
 Damyang-eup, 담양읍
-Damyang-gun, Tamyang-gun, 담양, 담양군
+Damyang-gun, Damyang, Tamyang-gun, 담양군
 Damyangho, Tamyang-ho
 Damyangho-gwangwangji, 담양호관광지
 Damyangsangsuwon
@@ -5363,7 +5363,7 @@ Deokdongdwissan, Tŏktongdwis-san, 덕동뒷산
 Deokdongho, Deogdong Ho, Tŏktong-ho, 덕동호
 Deokdongmot, 덕동못
 Deokdusan, Tŏktu-san, 덕두산
-Deokduwon-ri, 덕두원2리
+Deokduwon-ri, 덕두원1리
 Deokgaemigogae, 덕개미고개
 Deokgajeosuji, Tŏkka-jŏsuji, 덕가저수지
 Deokgalsan, 덕갈산
@@ -5423,7 +5423,7 @@ Deokjinje, 덕진제
 Deokjinjeosuji, 덕진저수지
 Deokjisan, Tŏkchi-san, 덕지산
 Deokjugol, Tŏkchu-gol, 덕주골
-Deokpo-dong, 덕포2동
+Deokpo-dong, 덕포1동
 Deokpo-ri, 덕포리
 Deokpung-dong, 덕풍1동
 Deokpunggongwon, 덕풍공원
@@ -5455,7 +5455,7 @@ Deokseongji, 덕성지
 Deokseongsoryuji, 덕성소류지
 Deoksin-ri, 덕신리
 Deoksinsan, Tokushin-san, Tŏksim-san, Tŏksin-san, 덕신산
-Deokso-ri, Dukso, Tokushō-ri, Tokusōri, Tŏkso-ri, 덕소리
+Deokso-ri, Dukso, Tokushō, Tokusōri, Tŏkso-ri, 덕소리
 Deoksu-dong, 덕수동
 Deoksugongwon, 덕수공원
 Deoktaesan, Tŏkt'ae-san, 德泰山, 덕태산
@@ -5517,7 +5517,7 @@ Deumtigol, Tŭmt'i-gol
 Deumtijae, Tŭmt'i-jae
 Deungbausan, Tŭngbau-san
 Deungcheon-ri, 등천리
-Deungchon-dong, 등촌3동
+Deungchon-dong, 등촌1동
 Deungdaeseom, Mongha-do, Monhā Somu, Muka-tō, Munha-sŏm
 Deungdongje
 Deungdungmot, 등둥못
@@ -5745,7 +5745,7 @@ Dokjobong, Tokcho-bong, 독조봉
 Dokjong-gogae, 독종고개
 Dokjugol, Tokchu-gol, 독주골
 Doksan, 독산
-Doksan-dong, 독산4동
+Doksan-dong, 독산1동
 Doksan-haesuyokjang, 독산해수욕장
 Doksang-ri, 독상리
 Doksangje, 독상제
@@ -5754,7 +5754,7 @@ Doksojeosuji, 독소저수지
 Doksunbong, Toksun-bong, 독순봉
 Doksuribong, Toksuri-bong, 독수리봉
 Doksurigogae, 독수리고개
-Dolbakjisan, Tolbagi-san, Tolbakchisan, 돌박이산, 돌박지산
+Dolbakjisan, Dolbagisan, Tolbagi-san, Tolbakchisan, 돌박지산
 Dolbaksan, 돌박산
 Dolbangmot, 돌방못
 Dolchaengigogae
@@ -5866,7 +5866,7 @@ Dongchung-dong, 동충동
 Dongdae-soryuji, 동대소류지
 Dongdaecheon
 Dongdaegol, Tongdae-gol
-Dongdaemun-gu, Dongdaemun Koo, Tongdaemun-gu, Tongdaimoon-ku, Tōdaimon-ku, 동대문, 동대문구
+Dongdaemun-gu, Dongdaemun, Dongdaemun Koo, Tongdaemun-gu, Tongdaimoon-ku, Tōdaimon-ku, 동대문구
 Dongdaesan
 Dongdaesin-dong, 동대신1동
 Dongdalsan, Tongdal-san
@@ -5987,7 +5987,7 @@ Dongmando, Tobandō, Tongman-do, Tōban-tō
 Dongmanggol, Tongmang-gol
 Dongmanje
 Dongmu-ri, 동무리
-Dongmun-dong, 동문2동
+Dongmun-dong, 동문1동
 Dongmun-ri, 동문리
 Dongmunbak-soryuji, 동문밖소류지
 Dongmuncheon
@@ -6027,7 +6027,7 @@ Dongol, Ton-gol
 Dongryongje, 동룡제
 Dongsa-ri, 동사리
 Dongsallyeong, 동산령
-Dongsam-dong, 동삼2동
+Dongsam-dong, 동삼1동
 Dongsamjigu, 동산지구
 Dongsan
 Dongsan-dong, 동산동
@@ -6069,7 +6069,7 @@ Dongsosan, Tongso-san
 Dongsuak, Tongsu-ak, 동수악
 Dongsuji
 Dongtaesan
-Dongtan-dong, 동탄3동
+Dongtan-dong, 동탄1동
 Dongtan-myeon, 동탄면
 Dongujeomgogae
 Dongwangjeosuji, 동광저수지
@@ -6186,7 +6186,7 @@ Doyangje
 Doyeon-ri, 도연리
 Dpngsan-ri, 동산리
 Dualbong, Tual-bong
-Duam-dong, 두암2동
+Duam-dong, 두암1동
 Duamje
 Duamjeosuji, Tuam-jŏsuji
 Duamjigu
@@ -6251,7 +6251,7 @@ Dumillyeong, Dumil-ryeong, Tumil-lyŏng
 Dumojae
 Dumojeosuji, Mŏt-mot
 Dumongangyegok, 두몽안계곡
-Dumudonggogae, Tumudŭng-kogae, 두무등고개
+Dumudonggogae, Dumudeunggogae, Tumudŭng-kogae
 Dumuje
 Dumun-ri, 두문리
 Dumungol, Tumun-gol
@@ -6410,9 +6410,9 @@ Ekgijae, 엑기재
 Ekisan-sen, Iksan-ch'ŏn
 Ekkijae
 Emperor Rock
-Enemy Gogae, 에네미고개
+Enemy Gogae, Enemigogae
 Enhei-ri, Eenhyori, Empei-ri, 연평리
-Enko-ri, Tongyŏn-ni, Yŏnho-ri, 연호리
+Enko-ri, Tongyŏn-ni, Yŏnho, 연호리
 Enkoku-ri, Myŏn'gong-ni, Yŏn'gok
 Enmompo, Emmon-ho, Wŏnmun-p'o, 원문포
 Eo-cheon, Ŏ-ch'ŏn, 어천
@@ -6595,7 +6595,7 @@ Eumseom
 Eumseong High Tech Jibangsandeopdanji, 음성하이택지방산업단지
 Eumseong Neat Jibangsanoepdanji, 음성니트지방산업단지
 Eumseong-eup, 음성읍
-Eumseong-gun, Ŭmsŏng-gun, 음성, 음성군
+Eumseong-gun, Eumseong, Ŭmsŏng-gun, 음성군
 Eumseongje
 Eumseongyutongdanji
 Eumyang-ri, 음양리
@@ -6619,7 +6619,7 @@ Euneogolmot, 은어골못
 Euneujaengigol, Ŭnŭjaengi-gol
 Euneungjaengigol, Ŭnŭngjaengi-gol
 Eungam
-Eungam-dong, 응암3동
+Eungam-dong, 응암1동
 Eungamgongwon
 Eungamje, Maebong-je, 매봉제
 Eungamsan
@@ -6653,7 +6653,7 @@ Eungol-soryuji, 은골소류지
 Eungpyeong-jeosuji, Ŭngp'yŏng-jŏsuji, 응평저수지
 Eungpyeongcheon
 Eunha-myeon, Ŭnha-myŏn, 은하면
-Eunhaeng-dong, 은행동
+Eunhaeng-dong, 은행1동
 Eunhaengje
 Eunhaengnamu-gongwon, Ŭnhaengnamu-gongwŏn, 은행나무공원
 Eunhaengseonhwa-dong, 은행선화동
@@ -6687,7 +6687,7 @@ Eunseongol
 Eunseonje
 Eunsong-ri, 은송리
 Eunteogol, Ŭnt'ŏ-gol
-Euntijae, 오봉정제
+Euntijae, Obongjeongje
 Eupcheon-ri, 읍천리
 Eupdongje, 읍동제
 Euphoji, 읍호지
@@ -6760,7 +6760,7 @@ Gaeamje
 Gaebakgol, Kaebak-kol, 개박골
 Gaebatgol, Kaebak-kol
 Gaebawi
-Gaebong-dong, 개봉3동
+Gaebong-dong, 개봉1동
 Gaecheok-ri, Kaech'ŏng-ni, 개척리
 Gaecheokdansoryuji, 개척단소류지
 Gaecheon, Kae-ch'ŏn
@@ -6776,7 +6776,7 @@ Gaedan-ri, 개단리
 Gaedong-ri, 개동리
 Gaedongsan, Kaedong-san, Myobok-san, 묘복산
 Gaeduulbong
-Gaegeum-dong, 개금3동
+Gaegeum-dong, 개금1동
 Gaegeumbulgol, Kaegŭmbul-gol
 Gaegeumsan, Kaegŭm-san
 Gaegijae, Kaegi-jae
@@ -6892,7 +6892,7 @@ Gahakje I Jeosuji, Gahakje 2 Jeosuji, 가학2저수지
 Gahakje Il Jeosuji, Gahakje 1 Jeosuji, 가학제1저수지
 Gahaksan, 가학산
 Gahaksanjayeonhyuyangnim, 가학산자연휴양림
-Gaheung-dong, 가흥2동
+Gaheung-dong, 가흥1동
 Gaho-ri, 가호리
 Gahoe-dong, 가호동, 가회동
 Gahoe-myeon, 가회면
@@ -6932,7 +6932,7 @@ Gajatigogae
 Gajatjae, 가잣재
 Gajeon-ri, 가전리
 Gajeong Il Je
-Gajeong-dong, 가정3동
+Gajeong-dong, 가정1동
 Gajeong-jeosuji, Kajŏng-jŏsuji, 가정저수지
 Gajeong-ri, 가정리
 Gajeonggol, Kajŏng-gol
@@ -7037,7 +7037,7 @@ Gallogogae
 Gallongugok, 갈론구곡
 Gallongyegok, 갈론계곡
 Gallyeong, Kal-lyŏng
-Galma-dong, 갈마2동
+Galma-dong, 갈마1동
 Galma-gongwon, Kalma-gongwŏn, 갈마공원
 Galma-ri, 갈마리
 Galmabong
@@ -7097,7 +7097,7 @@ Gamakdo, Kamak-to, 가막도
 Gamakjae, 가막재
 Gamakje, 가막제
 Gamakji, 가막지
-Gamaksan, 감악산
+Gamaksan, 가막산
 Gamalji
 Gamamihaesuyokjang, 가마미해수욕장
 Gamamot, Kama-mot, 가마못
@@ -7259,7 +7259,7 @@ Gangjeongjeosuji
 Gangjeongsan
 Gangjidong, Kangji-dong
 Gangjin-eup, Kangjin-ŭp, 康津邑, 강진읍
-Gangjin-gun, Kangjin-gun, 강진, 강진군
+Gangjin-gun, Gangjin, Kangjin-gun, 강진군
 Gangjin-myeon, Kangjin-myŏn, 강진면
 Gangjincheon
 Gangjinsan
@@ -7326,7 +7326,7 @@ Ganpyeong-ri, 간평리
 Ganpyeongji
 Gansal-li
 Gansangji, Kansang-ji
-Ganseok-dong, 간석2동
+Ganseok-dong, 간석1동
 Ganseong-eup, Kansŏng-ŭp, 간성읍
 Ganseongcheon
 Ganseongje
@@ -7638,7 +7638,7 @@ Geoseokje, 거석제
 Geoseonbong
 Geoseongje
 Geotchil, Kŏch'il, 거칠, 것칠
-Geoyeo-dong, 거여2동
+Geoyeo-dong, 거여1동
 Geoyeo-gongwon, Kŏyŏ-gongwŏn, 거여공원
 Gesson-ri, Wŏlch'on-ni
 Getsu-ri
@@ -7648,7 +7648,7 @@ Geullingongwon, Gongwon, 근린공원
 Geulsseunbawi, Kŭlssŭn-bawi
 Geum-dong
 Geumak-ri, 금악리
-Geumam-dong, 금암동
+Geumam-dong, 금암1동
 Geumam-jeosudap, Kŭmam-jŏsudap, 금암저수답
 Geumam-san, Kŭmam-san
 Geumamjigu
@@ -7672,7 +7672,7 @@ Geumbyeongsan, Kŭmbyŏng-san
 Geumchang-dong, 금창동
 Geumchangje
 Geumcheokje, 금척제
-Geumcheon, Kŭm-chŏn, Kŭm-gang
+Geumcheon, Kŭm-ch'ŏn, Kŭm-gang
 Geumcheon-dong, 금천동
 Geumcheon-gu, 금천구
 Geumcheon-myeon, Kinsen-men, Kŭmch'ŏn-myŏn, 금천면
@@ -7682,7 +7682,7 @@ Geumcheongchwiimje
 Geumcheonje
 Geumcheonji, Kŭmch'ŏn-ji
 Geumchisan, Kyūji-san, Kŭpch'i-san
-Geumchon-dong, Kinson, Kŭmch'on-ni, 금촌3동
+Geumchon-dong, Kinson, Kŭmch'on-ni, 금촌1동
 Geumchonjigu, Kŭmch'on-ni, 금촌리
 Geumchulji
 Geumdabulsan
@@ -7750,7 +7750,7 @@ Geumha-soryuji, Kŭmha-soryuji, 금하소류지
 Geumhak-dong, 금학동
 Geumhakgogae, 금학고개
 Geumhaksan, Kinkaku-san, Kinkaku-zan, Kŭmhwak-san, 금학산
-Geumho-dong, 금호2·3가동, 금호4가동, 금호동
+Geumho-dong, 금호1가동, 금호1동, 금호2·3가동
 Geumho-eup, 금호읍
 Geumho-ri, 금호리
 Geumhodo, Chimu To, Kinko-tō, Kinkōri
@@ -7935,7 +7935,7 @@ Giheung-dong, 기흥동
 Giheung-gu, 기흥구
 Gijae, Kijae-jae, 기재재
 Gijang-eup, 기장읍
-Gijang-gun, 기장, 기장군
+Gijang-gun, Gijang, 기장군
 Gijangseom, Kijang-sŏm
 Gijeong-ri, 기정리
 Giji
@@ -7998,7 +7998,7 @@ Giraegol, Chiraek-kol, Jiraet-gol, 기래골, 지랫골
 Girancheon, Kichian-sen, Kiran-ch'ŏn, Kitsuansen, 길안천
 Gireum-dong, 길음1동
 Gireumgol, Kirŭm-gol, 기름골
-Gireumjae, 길음재
+Gireumjae, 기름재
 Gireumjaejeongbichokjinjigu, 길음재정비촉진지구
 Gireumsan, 기름산
 Giriji, 기리지
@@ -8064,7 +8064,7 @@ Gochang-ri, 고창리
 Gochangcheon
 Gochanggogae
 Gochangje
-Gocheok-dong, 고척2동
+Gocheok-dong, 고척1동
 Gocheok-jeosuji, Koch'ŏk-chŏsuji, 고척저수지
 Gocheon-dong, 고천동
 Gocheon-ri, 고천리
@@ -8114,7 +8114,7 @@ Goegogae
 Goegok-ri, 괴곡리
 Goegok-soryuji, Koegok-soryuji, 괴곡소류지
 Goehwasan, Koehwa-san
-Goejeong-dong, 괴정동
+Goejeong-dong, 괴정1동
 Goejeong-ri, 괴정리
 Goemok-soryuji, Koemok-soryuji, 괴목소류지
 Goemokgol, Koemok-kol, 괴목골
@@ -8291,7 +8291,7 @@ Gongansan
 Gongbokji, Kongbok-chi, 공복지
 Gongbukjeosuji, 공북저수지
 Gongchoncheon
-Gongdan-dong, 공단2동
+Gongdan-dong, 공단1동
 Gongdan-gongwon, Kongdan-gongwŏn, 공단공원
 Gongdang-ri, 공당리
 Gongdeok-myeon, 공덕면
@@ -8401,7 +8401,7 @@ Gosan
 Gosan Il Je, Gosan 1 Je
 Gosan Il Soryuji, Gosan 1 Soryuji, 고산1소류지
 Gosan-cheon
-Gosan-dong, 고산3동
+Gosan-dong, 고산1동
 Gosan-ri, 고산리
 Gosanbong, Kosan-bong
 Gosancheon
@@ -8465,7 +8465,7 @@ Goyonggolgogae
 Green Gongwon, 그린공원, 근린공원
 Gua-ri, 구아리
 Guakji, Kurun-jŏsuji, 구악지, 굴운저수지
-Guam-dong, 구암동, 구암듕
+Guam-dong, 구암1동, 구암듕
 Guam-ri, Kuun, 구암리
 Guamcheon, Kuam-ch'ŏn
 Guamdongsan
@@ -8620,7 +8620,7 @@ Gumangijae
 Gumangogae, Kuman-gogae
 Gumansan
 Gumeongbawi, Kumŏng-bawi
-Gumi-dong, 구미동
+Gumi-dong, 구미1동
 Gumi-ri, 구미리
 Gumi-si, 구미시
 Gumigogae
@@ -8713,12 +8713,12 @@ Gunseononggong-danji, 군서농공단지
 Guntan-ri, 군탄리
 Guntangongwon
 Gunwi-eup, 군위읍
-Gunwi-gun, Kunwi-gun, 군위, 군위군
+Gunwi-gun, Gunwi, Kunwi-gun, 군위군
 Gunwibong
 Gunyeosan, Kunyŏ-san
 Gunyukgol, Kunyuk-kol, 구뉵골
 Gunyuyeomjeon
-Gupo-dong, 구포2동
+Gupo-dong, 구포1동
 Gupyeong-dong, 구평동
 Gupyeong-ri, 구평리
 Gura-ri, 구라리
@@ -8743,7 +8743,7 @@ Gurimcheon, 구림천
 Gurimji, Gurimse, 구림세, 구림지
 Gurimot, 구리못
 Gurinigol, Kurini-gol, 구리니골
-Guro-dong, 구로4동
+Guro-dong, 구로1동
 Guro-gu, 구로구
 Gurogol, Kuro-gol, 구로골
 Gurugaesoryuji, 구루개소류지
@@ -8796,7 +8796,7 @@ Gusanjeosuji
 Gusanji, Ponggi-ji, 봉기지
 Gusapdarimot, 구삽다리못
 Gusasan
-Guseo-dong, 구서2동
+Guseo-dong, 구서1동
 Guseok-ri, 구석리
 Guseong-dong, 구성동
 Guseong-myeon, Kusŏng-myŏn, 구성면
@@ -8834,12 +8834,12 @@ Gusurigogae, Kusu-ri, 구수리, 구수리고개
 Guteogol, Kut'ŏ-gol
 Guui-dong, 구의1동
 Guun-dong, 구운동
-Guuncheon, 구읍천
+Guuncheon, Gueubcheon
 Guunsanji
 Guwado
 Guwangbong, Kuwang-bong
 Guwasan
-Guwol-dong, 구월4동
+Guwol-dong, 구월1동
 Guwol-ri, 구월리
 Guwolsan
 Guya-soryuji, Kuya-soryuji, 구야소류지
@@ -8902,7 +8902,7 @@ Gwangamcheon
 Gwangamdondae
 Gwangamje
 Gwangamjeosuji
-Gwangan-dong, 광안2동
+Gwangan-dong, 광안1동
 Gwangbaeksuwonji, 광백수원지
 Gwangbawipokpo, 광바위폭포
 Gwangbok-dong, 광복동
@@ -8913,7 +8913,7 @@ Gwangcheon-eup, Kwangch'ŏn-myŏn, Kwangch'ŏn-ŭp, Kōsen-men, 광천읍
 Gwangcheon-ri, 광천리
 Gwangcheonsoryuji, 광천소류지
 Gwangchi-dong, 광치동
-Gwangchigyegok, Kwangch'i-gol, 광치계곡, 광치골
+Gwangchigyegok, Gwangchigol, Kwangch'i-gol, 광치계곡
 Gwangchijayeonhyuyangnim, 광치자연휴양림
 Gwangchiryeong, Kwangch'i-ryŏng, 광치령
 Gwangchonje
@@ -8962,7 +8962,7 @@ Gwangjeonji
 Gwangjigol, Kwangji-gol
 Gwangjin-gu, 광진구
 Gwangjoje
-Gwangju, Gwangju-gwangyeoksi, Kwangju-gwangyŏksi, Kwangju-jikhalsi, Kwangju-si, 光州, 光州廣域市, 광주광역시, 광주시
+Gwangju, Gwangju-gwangyeoksi, Kwangju, Kwangju-gwangyŏksi, Kwangju-jikhalsi, 光州, 光州廣域市, 광주광역시, 광주시
 Gwangju Family Land Uchigongwon, 광주패밀리랜드우치공원
 Gwangju-si, 광주시
 Gwangjucheon, Kwangju-ch'ŏn
@@ -8970,7 +8970,7 @@ Gwangjuho, Kwangju-ho
 Gwangjurisan, Kwangjuri-san, 광주리산
 Gwangjurisangol, Kwangjuri-gol, 광주리골, 광주리산골
 Gwangmosan
-Gwangmyeong-dong, 광명4동
+Gwangmyeong-dong, 광명1동
 Gwangmyeong-ri, 광명리
 Gwangmyeong-si, 광명시
 Gwangmyeongje
@@ -9032,7 +9032,7 @@ Gwanin-myeon, 관인면
 Gwanjae
 Gwanjanghang-sudo, Kwanjanghang-sudo, 관장항수도
 Gwanjeo O Jigu, Gwanjeo 5 Jigu, 관저5지구
-Gwanjeo-dong, 관저2동
+Gwanjeo-dong, 관저1동
 Gwanjeolmisan
 Gwanjeon-ri, 관전리
 Gwanjeong-dong, 관정동
@@ -9083,7 +9083,7 @@ Gwibijegol, Kwibije-gol
 Gwidan-ri, 귀단리
 Gwideok-ri, 귀덕리
 Gwideokcheon, 귀덕천
-Gwidolsan, 키돌산
+Gwidolsan, Kidolsan
 Gwidongsan
 Gwigijae
 Gwigokji, 귀곡지
@@ -9189,7 +9189,7 @@ Gyeongpodaegyegok, 경포대계곡
 Gyeongpoho, Kyŏng-ho, Kyŏng-p'o, Kyŏngp'o-ho
 Gyeongsan-si, 경산시
 Gyeongsangbuk-do, Gyeongbuk, Gyeongsang Bugdo, Keisho-hoku Province, Keishō North, Keisyo, Keisyōhokudō, Kieng-syang, King-chang, Kyeng syang, Kyŏngbuk, Kyŏngsang-bukto, Kyŏngsang-pukto, Kyŏnsang, Nord-Kjöng-sang, North Gyeongsang, North Keisho Province, North Keishō, North Keisyo, North Kyeng-San, North Kyengseng, North Kyongsang, North Kyŏngsang Province, Northern Kyeng-sāng, Puk Kiön-san-do, Severny Kiön-san-do, 慶北, 慶尙北道, 경북, 경상북도
-Gyeongsangnam-do, Gyeongsang Namdo, Keisyo, Kyŏngnam, Kyŏngsang, Kyŏngsang-namdo, South Gyeongsang, South Keisho Province, South Keisyo, South Kyongsang, South Kyŏngsang Province, 慶南, 慶尙南道, 경남, 경상남도
+Gyeongsangnam-do, Gyeongnam, Gyeongsang Namdo, Keisyo, Kyŏngnam, Kyŏngsang, Kyŏngsang-namdo, South Gyeongsang, South Keisho Province, South Keisyo, South Kyongsang, South Kyŏngsang Province, 慶南, 慶尙南道, 경상남도
 Gyeongseojigu
 Gyeongseong-mot, Kyŏngsŏng-mot, 경성못
 Gyeongsimnyeong, 경심령
@@ -9212,7 +9212,7 @@ Gyeryongdondae, 계룡돈대
 Gyeryonggok-soryuji, Kyeryonggok-soryuji, 계룡곡소류지
 Gyeryongsan, Keryong-san, Kyeyong-san, 계룡산
 Gyeryongsan-gungnipgongwon, 계룡산국립공원
-Gyesan-dong, 계산2동
+Gyesan-dong, 계산1동
 Gyesan-ri, 계산리
 Gyeseong-myeon, 계성면
 Gyesong-ri, 계송리
@@ -9251,7 +9251,7 @@ Gyoha-dong, Gyoha-eup, Kyoha-myŏn, 교하동, 교하면, 교하읍
 Gyohyangcheon
 Gyohyeon-dong, 교현2동
 Gyohyeonalim-dong, 교현·안림동
-Gyomun-dong, 교문2동
+Gyomun-dong, 교문1동
 Gyonam-dong, 교남동
 Gyorije, 교리제
 Gyoryang-dong, Kyoryang-ni, 교량동
@@ -9274,7 +9274,7 @@ Ha-ri Port
 Ha-sŏ
 Haa-ri, 하아리
 Haamuchu, Ha-amutū, Hwaamch'u, Kaganshū, Kagansyū
-Haan-dong, 하안3동
+Haan-dong, 하안1동
 Haanmi-ri, 하안미리
 Habaek-to, Gehaku-tō, Ka-haku-tō, Senchō-tō
 Habanch'ŏl-li, Ha-panch'ŏn-ni, Habanch'ŏn-ni, 하반천리
@@ -9301,8 +9301,8 @@ Habunbulji
 Habyeondo, Habyŏn-do
 Hach'odwis-san, 하초뒷산
 Hach'ogu-soryuji, 하초구소류지
-Hach'ol-li, 하천리, 하촌리
 Hach'on-ni
+Hach'ŏl-li, 하천리, 하촌리
 Hach'ŏng-man
 Hacheollyeong
 Hacheon-ri, 하천리
@@ -9321,7 +9321,7 @@ Hadae-ri, 하대리
 Hadae-soryuji, 하대소류지
 Hadaesoryuji, 하대소류지
 Hadaewon-dong, 하대원동
-Hadan-dong, 하단2동
+Hadan-dong, 하단1동
 Hadang-dong, 하당동
 Hadang-ni, 하당리
 Hadanjigol
@@ -9362,7 +9362,7 @@ Haechang-ri, Haech'ang-ni, 해창리
 Haechangje
 Haecheonggol, Haech'ŏng-gol
 Haechi-soryuji, 해치소류지
-Haedaegiji, Haedaegi-jŏsuji, 해대기저수지
+Haedaegiji, Haedaegi-jŏsuji, Haedaegijeosuji
 Haedang, 부추리
 Haedang-mot, 해당못
 Haedang-ri, 해당리
@@ -9385,7 +9385,7 @@ Haehyeonje
 Haehyeop-san, Haehyŏp-san, 해협산
 Haeil-li, 해인리
 Haeje I Hoje, Haeje 2 Hoje, 해제2호제
-Haeje Il-Il Hoje, 해제1-1호제
+Haeje Il-Il Hoje, Haeje 1-1 Hoje
 Haeje Il-ho Je, Haeje 1-ho Je, 해제1호제
 Haeje-myeon, 해제면
 Haejeong-ri, 해정리
@@ -9421,7 +9421,7 @@ Haengchigogae, Haengch'i-jae, 행치재
 Haengchon-ri, 행촌리
 Haengdam-do, Haengdam-sŏm, 행담도
 Haengdamsan
-Haengdang-dong, 행당2동
+Haengdang-dong, 행당1동
 Haengdanje
 Haengdeoksan, Haengdŏk-san, 행덕산
 Haenggalgolmot, 행갈골못
@@ -9463,7 +9463,7 @@ Haengsanje
 Haengseong-bawi, Haengsŏng-bawi, 행성바위
 Haengseong-ri, 행성리
 Haengseongje
-Haengsin-dong, 행신3동
+Haengsin-dong, 행신1동
 Haengsinjigu
 Haengun-dong, 행운동
 Haengwŏl-li, Haengwŏn-ni, 행월리
@@ -9522,7 +9522,6 @@ Hagil I Hoji, Hagil 2 Hoji, Judong-jeosuji, 학일2호지, 학일이호지
 Hagil Il Hoji, Hagil 1 Hoji, Hagirilho-jeosuji, Hagirirho-jŏsuji, 학일1호저수지, 학일일호지
 Hagil-san
 Hagiriho-ji, 학일2호지
-Hago-ri, 하거리, 하고리
 Hago-soryuji, 하고소류지
 Hagocheon
 Hagogae
@@ -9562,6 +9561,7 @@ Hagyeonggol, Hagyŏng-gol
 Hagyo-ri, 하교리
 Hagyongje
 Hagyu-dae, 학유대
+Hagŏ-ri, 하거리, 하고리
 Hagŏm-san, 학엄산
 Hagŏro-ri, 하거로리
 Hagŭm-ni, 하금리
@@ -9742,7 +9742,7 @@ Hamaengbang-ni, 하맹방리
 Hamaji
 Hamak-chŏsuji, 하막저수지
 Haman-ch'ŏn
-Haman-gun, Kanan-gun, 함안, 함안군
+Haman-gun, Haman, Kanan-gun, 함안군
 Haman-myeon, 함안면
 Hamang-dong, 하망동
 Hamasan
@@ -9789,7 +9789,7 @@ Hampyeongsaengtaegongwon, Hamp'yŏng, Hampyonfu, Kampei, Kanhei
 Hampyeongyeomjeon
 Hamunamji
 Hamwolsan, 含月山
-Hamyang-gun, Hayong-gun, Kanyō, Kanyō-gun, 함양, 함양군
+Hamyang-gun, Hamyang, Hayong-gun, Kanyō, Kanyō-gun, 함양군
 Hamyang-ni, 함양리
 Hamyang-ŭp, Hamyang-eup, 함양읍
 Hamyangji, Hamyang-ji
@@ -10097,10 +10097,10 @@ Hasil-li, 하신리
 Hasincheon
 Hasindae-gol, 하신대골
 Hasong-do, 하송도
-Hasong-ni, 하석리, 하속리, 하송리
 Hasong-ri, 하송리
 Hasŏbŏmsil-chi, 하서범실지
 Hasŏk-soryuji, 하석소류지
+Hasŏng-ni, 하석리, 하속리, 하송리
 Hataegu-do, Araedaegu-sŏm, Araetaegu-sŏm, Araettaeho-sŏm, Hadaegu-sŏm, Hadaeho-do
 Hatijae
 Hatodong
@@ -10251,7 +10251,6 @@ Hodeungsan
 Hodingje
 Hodo
 Hodong-je
-Hodong-ni, 호덕리, 호동리
 Hodongbangjukkol-soryuji, 호동방죽골소류지
 Hodongje
 Hodu-got, Hodo Got, Kotō-kan
@@ -10259,6 +10258,7 @@ Hodu-san
 Hodupo, Hodu-p'o
 Hodusan
 Hodusan-mal
+Hodŏng-ni, 호덕리, 호동리
 Hoe-gogae, 회고개
 Hoe-ri, 회리
 Hoe-san, 회산
@@ -10328,12 +10328,12 @@ Hoengseong-gun, 횡성군
 Hoengsŏng-ho, 횡성호
 Hoenŏmi-jae, 회넘이재
 Hoeryong-jŏsuji, 회룡저수지
-Hoeryong-ni, Hŭiryong-ni, Kairyū-ri, Kairū-ri, 회령리, 회룡리
 Hoeryong-ri, 회룡리
 Hoeryonggogae, 회룡고개
 Hoeryongjeosuji, 회룡저수지
 Hoeryongji, 회룡지
 Hoeryŏng-bong, Hoeryeongbong, Hoeryŏngpong, 會靈峰, 회령봉
+Hoeryŏng-ni, Hŭiryong-ni, Kairyū-ri, Kairū-ri, 회령리, 회룡리
 Hoesaje
 Hoesal-li, 회산리
 Hoesang-ni, 회상리
@@ -10347,7 +10347,7 @@ Hoesongcheon
 Hoesu-ch'ŏn
 Hoesŏng-ni
 Hoeupgogae, Homsari-gogae, 호읍고개, 홈사리고개
-Hoewon-dong, 회원2동
+Hoewon-dong, 회원1동
 Hoeyagang, Hoeyang-gang, Hweya-gang, Kaiya-kō
 Hoeyaho
 Hoeyang-mot, 회양못
@@ -10447,12 +10447,12 @@ Honghyeon Il Ji, Honghyeon 1 Ji, 홍현1지
 Honghyeon Sam Ji, 홍현3지
 Hongi-dong, 홍이동
 Hongi-gongwon, 홍이공원
-Hongje-dong, 홍제3동
+Hongje-dong, 홍제1동
 Hongjegyunhyeongbaljeonchokjinjigu, 홍제균형발전촉진지구
 Hongjukcheon, 홍죽천
 Hongjung-jŏsuji, 홍중저수지
 Hongjung-ni, 홍죽리
-Hongjŏl-li, Hŭngjŏn, Hŭngjŏn-ni, Kōden-ri, 홍전리
+Hongjŏl-li, Hŭngjŏn, Hŭngjŏn-ni, Kōden, 홍전리
 Hongjŏng-jae, 홍정재
 Hongjŏng-nyŏng, 홍적령
 Hongnong-eup, 홍농읍
@@ -10514,7 +10514,7 @@ Hosunae-ri, Hasunae-ri, 하수내리
 Hot'al-li, 호탄리
 Hototsu-sho, Haku Gan, Podol-sŏ, Pottŭl
 Houn-ni
-Howon-dong, 호원2동
+Howon-dong, 호원1동
 Howŏl-li, 호월리
 Hoŭm-ji, 호음지
 Hoŭm-san, 호음산
@@ -10532,7 +10532,6 @@ Hucheon, Hu-ch'ŏn
 Hucheon-ri, 후천리
 Hudangji
 Hudeok, Twittŏk, 뒷덕, 후덕
-Hudong-ni, Hudŏk-kol, 후덕리, 후동리
 Hudong-ri, 후동리
 Hudong-san
 Hudong-soryuji, 후동소류지
@@ -10542,6 +10541,7 @@ Hudongji
 Hudongsoryuji, 후동소류지
 Hudun-bawi, 후둔바위
 Hudŏk-san, 후덕산
+Hudŏng-ni, Hudŏk-kol, 후덕리, 후동리
 Hugamakji, Hugamak-chi, 후가막지
 Hugi-ri, 후기리
 Hugok-che, 후곡제
@@ -10676,11 +10676,11 @@ Hwado-ri, 화도리
 Hwadodondae
 Hwadong-jŏsuji, 화동저수지
 Hwadong-myŏn, Hwadong-myeon, 화동면
-Hwadong-ni, 화동리
 Hwadong-soryuji, 화동소류지
 Hwadongje
 Hwadongji
 Hwadu-jae, 화두재
+Hwadŏng-ni, 화동리
 Hwagae-ch'ŏn, Hwagye-ch'ŏn
 Hwagae-myeon, 화개면
 Hwagae-san
@@ -10692,7 +10692,7 @@ Hwageum-ri, 화금리
 Hwageumji, Hwagŭm-ji
 Hwagogae
 Hwagok-chŏsuji, 화곡저수지
-Hwagok-dong, 화곡6동
+Hwagok-dong, 화곡1동
 Hwagok-ri, 화곡리
 Hwagokbon-dong, 화곡본동
 Hwagokjeosuji, 화곡저수지
@@ -10725,7 +10725,7 @@ Hwajeogyeonbawi
 Hwajeon-dong
 Hwajeon-ri, 화전리
 Hwajeondong
-Hwajeong-dong, 화정3동
+Hwajeong-dong, 화정1동
 Hwajeong-myeon, 화정면
 Hwajeong-ri, 화정리
 Hwajeongje
@@ -10782,7 +10782,7 @@ Hwamo-mal, Kabo-matsu, Kwamo Matsu
 Hwamok-chae, 화목재
 Hwamok-dong, 화목동
 Hwamong-ni, 화목리
-Hwamyeong-dong, 화명3동
+Hwamyeong-dong, 화명1동
 Hwamyŏng-dong, 화명동
 Hwan'gok-chi, 환곡지
 Hwanae-ri, Kanai-ri, 화내리
@@ -10792,7 +10792,7 @@ Hwanamji
 Hwanammot, 화남못
 Hwanamnisan, 화남리산
 Hwando-ji, 환도지
-Hwang-do, Hwang-sŏ, Hwang-yŏ, Hwangdan-do, Hwangt'an-do, Kō Syo, Kō-sho, Kō-tō, Norang-sŏm, Northwest Island, Tsurei Somu, Wō-tō, 황여
+Hwang-do, Hwang-sŏ, Hwang-yŏ, Hwangdan-do, Hwangt'an-do, Hwangyeo, Kō Syo, Kō-sho, Kō-tō, Norang-sŏm, Northwest Island, Tsurei Somu, Wō-tō
 Hwang-gang, Kōkō
 Hwangaksan, 황악산, 황학산
 Hwangam-je, 황암제
@@ -10988,10 +10988,10 @@ Hwarim-ji, 화림지
 Hwarim-jŏsuji, 화림저수지
 Hwarimje, 화림제
 Hwarimsan, 화림산
-Hwaryong-ji, 화령지, 화룡지
 Hwaryong-ri, 화룡리
 Hwaryongje, 화룡제
 Hwaryubong, 화류봉
+Hwaryŏng-ji, 화령지, 화룡지
 Hwasal-li, 화산리
 Hwasalgogae
 Hwasam-ni
@@ -11035,7 +11035,6 @@ Hwasim-ri, Hwasim-ni, 화심리
 Hwasimje
 Hwasin-dong
 Hwasinje
-Hwasong-ni, Hwasongni-ilgu, 화성리, 화송리
 Hwasongjeosuji, Chosongje
 Hwasu-dong, Kasui-dō, 화수1·화평동, 화수2동
 Hwasu-ri, 화수리
@@ -11049,6 +11048,7 @@ Hwasungoindolgongwon
 Hwasŏ-dong
 Hwasŏ-myŏn, Hwaseo-myeon, 화서면
 Hwasŏng-jae, 화성재
+Hwasŏng-ni, Hwasongni-ilgu, 화성리, 화송리
 Hwasŏng-san, 화성산
 Hwawang-san, 화왕산
 Hwawon-eup, 화원읍
@@ -11072,7 +11072,7 @@ Hwaŭi-ri, 화의리
 Hwaŭm-ji, 화음지
 Hwaŭm-ni, 화음리
 Hwigolsan
-Hwigyeong-dong, 휘경2동
+Hwigyeong-dong, 휘경1동
 Hwinggye-ri, 횡계리
 Hwinggyesoryuji, 힁계소류지
 Hwiyang-san, 휘양산
@@ -11160,7 +11160,7 @@ Hyeongcheon-ri, 형천리
 Hyeongdo, Chŏul-to, Chŏuri
 Hyeongdong-ri, 형동리
 Hyeonggogae
-Hyeonggok-dong, 형곡2동
+Hyeonggok-dong, 형곡1동
 Hyeonggol, Hyŏng-gol
 Hyeongho-ri, 형호리
 Hyeongjaebong
@@ -11228,12 +11228,11 @@ Hyogeun-ri, 효근리
 Hyogi-ri, 효기리
 Hyogije
 Hyogok-dong, 효곡동
-Hyogong-ni, 효곡리
 Hyogyo-chŏn
 Hyogyo-ri, 효교리
 Hyohang-ni, 효학리
 Hyoja-bong
-Hyoja-dong, 효자2동
+Hyoja-dong, 효자1동
 Hyoja-je
 Hyoja-ri, 효자리
 Hyojado, Hyoja To, Kōshi-tō
@@ -11267,10 +11266,11 @@ Hyosŏn-ji, 효선지
 Hyowon-gongwon, 효원공원
 Hyuam-do
 Hyuam-ni, Hyugul-li, 휴암리
-Hyucheon-dong, 휴천3동
+Hyucheon-dong, 휴천1동
 Hyucheon-myeon, 휴천면
 Hyudae-ri, 휴대리
 Hyŏgok-kogae, 효곡고개
+Hyŏgong-ni, 효곡리
 Hyŏl-li, Chin'goge-ri, Ihyŏn-ni, 현리
 Hyŏl-to, Kaeŭi-do, Ketsu-tō, Kumŏngdokkŏ
 Hyŏl-tong, 혈동
@@ -11389,8 +11389,8 @@ Ibong-san, 이봉산
 Ibseokbau, 입석바우
 Ich'igi-jŏsuji, 이치기저수지
 Ich'imi-mot, 이치미못
-Ich'ol-li, Ich'ŏn-ni, Kanch'on, 이천리, 이촌리
 Ich'wi-ch'o
+Ich'ŏl-li, Ich'ŏn-ni, Kanch'on, 이천리, 이촌리
 Ich'ŏn-ji
 Ich'ŏn-p'okp'o
 Ichang-dong, 이창동
@@ -11562,7 +11562,7 @@ Ilyeongbong, Iryŏng-bong
 Im-dong, 임동
 Im-ri, 임리
 Im-san, 임산
-Imae-dong, 이매2동
+Imae-dong, 이매1동
 Imae-jeosuji, Imae-jŏsuji, 이매저수지
 Imal-li, Iman-ni
 Imamcheon
@@ -11645,7 +11645,7 @@ Imokje, 이목제
 Imokji, 이목지
 Imokjŏng
 Imong-ni, 이목리
-Imosan, 임조산
+Imosan, Imjosan
 Imp'yŏng-soryuji, 임평소류지
 Impi-myeon, 임피면
 Impo-ri, 임포리
@@ -11696,8 +11696,8 @@ Inbonggogae, Inbong-nyŏng, 인봉령
 Inbongsan
 Inbukcheon, Inbuk-ch'ŏn, 인북천
 Inch'ang-ni, 인창리
-Inch'ol-li, 인천리, 인촌리
 Inch'on-ji, 인촌지
+Inch'ŏl-li, 인천리, 인촌리
 Inchang-dong, 인창동
 Inchanggongwon
 Incheon, 인천광역시, 인천시
@@ -11741,7 +11741,7 @@ Inhang-ni
 Inhei-sen, Wonp'yong, Wŏnp'yŏng-ch'ŏn
 Inheon-dong, 인헌동
 Inheung-ri, 인흥리
-Inhu-dong, 인후2동
+Inhu-dong, 인후1동
 Inhwa-dong, 인화동
 Inhwa-got, Inka-kan, Ioka Kan
 Inhwa-ri, 인화리
@@ -11849,7 +11849,7 @@ Irwang-jeosuji, Irwang-jŏsuji, 일왕저수지
 Irwol-jeosuji, Irwŏl-chŏsuji, 일월저수지
 Irwolbong, Ilwŏl-bong, 일월봉
 Irwolmot, 일월못
-Irwon-dong, 일원2동
+Irwon-dong, 일원1동
 Irwonbon-dong, 일원본동
 Irwoneunhaengnamu-gongwon, Irwŏnŭnhaengnamu-gongwŏn, 일원은행나무공원
 Irwonjangmi-gongwon, 일원장미공원
@@ -11859,8 +11859,8 @@ Irwŏl-myŏn, Irwol-myeon, 일월면
 Irwŏl-san
 Irwŏr-am, 일월암
 Iryejae, Hoebong-jae, 이례재, 회봉재
-Iryong-ni, Iyong-ni, 일영리
 Iryuje, 일유제
+Iryŏng-ni, Iyong-ni, 일영리
 Isa-ri, 이사리
 Isacheon, Isa-ch'ŏn, Isa-sen
 Isaji
@@ -11886,7 +11886,6 @@ It'ŏ-gol, 이터골
 It'ŏgol-mot, 이터골못
 Itaewon-dong, 이태원1동
 Itonggol
-Iul-li, 이운리, 이은리
 Iwol-myeon, 이월면
 Iwoljeosuji
 Iwon-myeon, 이원면
@@ -11900,6 +11899,7 @@ Iyuncheon
 Iyŏl-chŏsuji, 이열저수지
 Iyŏn-p'okp'o, 이연폭포
 Iŏ-ri
+Iŭl-li, 이운리, 이은리
 Iŭm-ni, Iŭp, 이읍리
 Jabaebong, Chibae-bong, Mang-orŭm
 Jabi-ri, 자비리
@@ -12085,11 +12085,11 @@ Jajakgogae, 자작고개
 Jajakjae, 자작재
 Jajeji
 Jajibong
-Jajingubi, Chajŏn'gubi, 자전구비
+Jajingubi, Chajŏn'gubi, Jajeongubi
 Jajisan, Chaji-san
 Jajubong
 Jajugogae
-Jajusan, Chajubong-san, 자주봉산
+Jajusan, Chajubong-san, Jajubongsan
 Jak-dong, 작동
 Jakbirigol, Chakpiri-gol, 작비리골
 Jakbong, 작봉
@@ -12135,7 +12135,7 @@ Jamjeong-ri, 잠정리
 Jamjeongje
 Jamjindo, Chamjin-do, Chamnaru, Sanshin-tō, Sansin Tō
 Jamo-soryuji, Chamo-soryuji, 자모소류지
-Jamsil-dong, 잠실3동
+Jamsil-dong, 잠실2동
 Jamsilbon-dong, 잠실본동
 Jamwon-dong, 잠원동
 Jamyeong-ri, 자명리
@@ -12357,7 +12357,7 @@ Jangjamot, 장자못
 Jangjaoreum, Changja-orŭm, 장자오름
 Jangjasan
 Jangjateosan, Changjat'ŏ-san
-Jangjeon-dong, 장전동
+Jangjeon-dong, 장전1동
 Jangjeon-ri, 장전리
 Jangjeonje
 Jangjeonsan, 장정산
@@ -12481,7 +12481,7 @@ Jangteo-gol, Changt'ŏ-gol
 Jangteogol
 Jangteoul-san, Changtŏul-san, 장터울산
 Janguncheon
-Jangwi-dong, 장위3동
+Jangwi-dong, 장위1동
 Jangwijaejeongbichukjinjigu, 장위재정비축진지구
 Jangwitgogae, 장윗고개
 Jangwonbong, Changwŏn-bong
@@ -12680,7 +12680,7 @@ Jeomam-myeon, 점암면
 Jeomamjeosuji, Chŏmam-jŏsuji
 Jeombong-ri, Chŏmbong-ni, 점봉리
 Jeombongsan, Chŏmbong-san
-Jeomchon-dong, Chŏmch'on-ŭp, Hosŏnam-myŏn, 점촌3동
+Jeomchon-dong, Chŏmch'on-ŭp, Hosŏnam-myŏn, 점촌1동
 Jeomchonje, Chŏmch'on-je
 Jeomdeung
 Jeomgogae
@@ -12801,7 +12801,7 @@ Jeongmyeongjeosuji
 Jeongna-dong, 정라동
 Jeongnam-myeon, 정남면
 Jeongnam-ri, 정남리
-Jeongneung-dong, 정릉4동
+Jeongneung-dong, 정릉1동
 Jeongneunggyegok, 정릉계곡
 Jeongnim-dong, 정림동
 Jeongnucheon, 적루천
@@ -12837,7 +12837,7 @@ Jeongsuri-jeosuji, Chŏngsuri-jŏsuji, 정수리저수지
 Jeongtocheon
 Jeongtosan, Chŭngt'o-san
 Jeongu-myeon, 정우면
-Jeongwang-dong, 정왕3동
+Jeongwang-dong, 정왕1동
 Jeongwangbon-dong, 정왕본동
 Jeongwoljeosuji, Chŏngwŏl-chŏsuji
 Jeongwororeum, Chŏngwŏr-orŭm, 정월오름
@@ -12855,9 +12855,9 @@ Jeonjinhang
 Jeonju-si, 전주시
 Jeonmin-dong, 전민동
 Jeonnamcheyukgongwon, 전남체육공원
-Jeonnong-dong, 전농2동
+Jeonnong-dong, 전농1동
 Jeonpaegogae, Chŏnp'ae-gogae
-Jeonpo-dong, 전포2동
+Jeonpo-dong, 전포1동
 Jeonpyeongje
 Jeonpyeongji
 Jeonsu-jeosuji, Chŏnsu-jŏsuji, 전수저수지
@@ -12912,7 +12912,7 @@ Jeunghyeon
 Jeungmakgol, Chŭngmok-kol, 증막골, 증목골
 Jeungnije, 증리제
 Jeungpyeong-eup, Chŭngp'yŏng-myŏn, Chŭngp'yŏng-ŭp, Jungpyong, Sōhyō-men, Sōhyōo, 증평읍
-Jeungpyeong-gun, 증평, 증평군
+Jeungpyeong-gun, Jeungpyeong, 증평군
 Jeungsan-dong, 증산동
 Jeungsan-myeon, Chŭngsan-myŏn, 증산면
 Jeungsan-ri, 증산리
@@ -13164,7 +13164,7 @@ Jinhae-gu, 진해구
 Jinhaejeosuji
 Jinhaeman
 Jinhahaesuyokjang, 진하해수욕장
-Jinhei-ri, Iepyung-ri, Inp'yŏng-dong, Inp'yŏng-ni, 인평동
+Jinhei-ri, Iepyung-ri, Inp'yŏng, Inp'yŏng-ni, 인평동
 Jinheung Golf Yeonseupjang, 진흥골프연습장
 Jinheung-ri, 진흥리
 Jinheungje, 백산제
@@ -13313,7 +13313,7 @@ Jitocheon
 Jittaengi-soryuji, Chittaengi-soryuji, 지땡이소류지
 Jittaengsoryuji, 지땡소류지
 Jiwolli
-Jiwon-dong, 지원2동
+Jiwon-dong, 지원1동
 Jiwon-ri, 지원리
 Jjaekjjaekji, 짹짹지
 Jjakbawi, Tchak-pawi, 짝바위
@@ -13485,7 +13485,7 @@ Juamho, Chuam-ho
 Juamhojogak-gongwon, 주암호조각공원
 Juamje
 Juamsan
-Juan-dong, 주안8동
+Juan-dong, 주안1동
 Juansan
 Jubaksan, 주박산
 Jubalbong, Chubal-bong
@@ -13571,7 +13571,7 @@ Jukchon-ri, 죽촌리
 Jukchon-soryuji, Sanak-chŏsuji, 산악저수지, 죽촌소류지
 Jukchonje, 죽촌제
 Jukdae-ri, 죽대리
-Jukdo, Chuk-sŏm, Jug Do, Te-sŏm, Tiku Tō, 죽도
+Jukdo, Ch'uk-sŏm, Jug Do, Te-sŏm, Tiku Tō, 죽도
 Jukdo-dong, 죽도동
 Jukdo-yuwonji, 죽도유원지
 Jukdobong, Chukto-bong, 죽도봉
@@ -13601,7 +13601,7 @@ Jukhyeoncheon, 죽현천
 Jukjang-myeon, Chukchang-myŏn, 죽장면
 Jukjeolgorapsan, 죽절골앞산
 Jukjeolje, Chukchŏl-che, 죽절제
-Jukjeon-dong, 죽전2동
+Jukjeon-dong, 죽전1동
 Jukjeon-ri, 죽전리
 Jukjeong-ri, 죽정리
 Jukjeonji, Kkamasil-mot, 까마실못, 죽전지
@@ -13699,7 +13699,7 @@ Junggisoryuji, Sojŏn-soryuji, 소전소류지, 중기소류지
 Junggogae, Chung-gogae, Chung-kogae
 Junggogaejae, Chung-gogae
 Junggojeosuji
-Junggok-dong, 중곡2동
+Junggok-dong, 중곡1동
 Junggoksoryuji, 중곡소류지
 Junggol
 Junggolgogae
@@ -13712,10 +13712,10 @@ Junggunibong, Kŏnjŏgol-san, 건저골산
 Jungguryongdo, Chungguryong-do, Chungguryong-sŏm, 중구룡도, 중구룡섬
 Junggwangjeosuji
 Junggwangsan, Chunggwang-san
-Junggye-dong, 중계4동
+Junggye-dong, 중계1동
 Junggyebon-dong, 중계본동
 Junghak-dong, 중학동
-Jungheung-dong, 중흥2동
+Jungheung-dong, 중흥1동
 Jungheungje
 Junghoemot, Chunghoe-mot, 중회못
 Junghwa-dong, 중화1동
@@ -13801,7 +13801,7 @@ Jurak-ri, 주락리
 Juregol, Chure-gol, 주레골
 Juritgolgogae, 주릿골고개
 Juritjae, Churŏt-chae, 주럿재, 주릿재
-Jurye-dong, 주례3동
+Jurye-dong, 주례1동
 Juryeomsan, Churyŏm-san, Chuyomu San, Shuren-san, Shurenzan, 주렴산
 Jusaeng-myeon, 주생면
 Jusam-dong, 주삼동
@@ -13820,12 +13820,12 @@ Jutaekdanji I Jigu, Jutaekdanji 2 Jigu, 주택단지2지구
 Jutsueki, Kyūeki-ri, Suryŏk, Suyŏng-ni, 술역리
 Juwangsan
 Juwangsan-guglibgongwon, Chuwangsan-gungnipkongwŏn, 주왕산국립공원
-Juwol-dong, 주월2동
+Juwol-dong, 주월1동
 Juwolje
 Juwolsan, Chuwŏl-san
 Juwoncheon
 Juyeo-gogae, Chuyŏ-gogae, 주여고개
-Juyeop-dong, 주엽2동
+Juyeop-dong, 주엽1동
 Juyongje
 Jwa-dong
 Jwabangsan, Chwabang-san
@@ -13853,7 +13853,6 @@ K'al-san
 K'albawi-san, 칼바위산
 K'okkŭch'i
 K'ongbak-kol, 콩밭골
-K'un-gol
 K'unyŏ-sŏm
 K'waesang-ni, K'oesang-ni, 쾌상리
 K'yujaem-ch'o
@@ -13872,6 +13871,7 @@ K'ŭn'gul-gol, 큰굴골
 K'ŭn'gumi, 큰구미
 K'ŭn'guso-gol, 큰구소골
 K'ŭn-gogae
+K'ŭn-gol
 K'ŭn-jae
 K'ŭn-jŏsuji, 큰저수지
 K'ŭn-mot, 큰못
@@ -13955,12 +13955,12 @@ Kadae-ri, Kadai-ri, 가대리
 Kadal-mal
 Kadang-ni, 가당리
 Kado-sudo, Gatō-suidō
-Kadong-ni, 가덕리, 가동리
 Kadong-soryuji, 가동소류지
 Kadong-sŏm, Kadong-sŏ
 Kadŏk-san, 가덕산
 Kadŏk-soryuji, 가덕소류지
 Kadŏk-to, Gatoku-tō, Katoku Tō
+Kadŏng-ni, 가덕리, 가동리
 Kadŭkchimi-gak
 Kadŭng-mot, 가득못
 Kae-do, Gae Do, Gai-tō, Kai-tō, Kaitō, Keye To
@@ -14241,7 +14241,7 @@ Kandae-san, 간대산
 Kandŏk-ch'ŏn
 Kang-ni, 강리
 Kang-sŏm
-Kangch'ol-li, 강천리, 강촌리
+Kangch'ŏl-li, 강천리, 강촌리
 Kangch'ŏn-ni, Kanch'ŏn-ni
 Kangch'ŏn-soryuji, 강천소류지
 Kangch'ŏng-ni, 강청리
@@ -14280,7 +14280,7 @@ Kangsŏng-ni, 강성리
 Kangsŭnggaengi-gogae, 강승갱이고개
 Kangt'ae-soryuji, 강태소류지
 Kangt'ŏ-san, 강터산
-Kangyang, Kangyang-ni, Kōyō-ri
+Kangyang, Kangyang-ni, Kōyō-dō
 Kanhyŏl-li, 간현리
 Kanjang-jŏsuji, 간장저수지
 Kanjung-je, 간중제
@@ -14714,7 +14714,6 @@ Kkŏmŏnje-san, 꺼먼제산
 Kkŭtch'ŏng-bong, 끝청봉
 Ko-ak, Nop'ŭn-olmu, Nop'ŭn-orŭm
 Ko-am, Ko Amu, Kō-gan
-Ko-do, Ching-sŏm, Go Do, Ko-tō, Kyo-tō, Kŏ-sŏm, Observatory Island
 Ko-san
 Ko-yŏ
 Koam-ni, 고암리
@@ -14738,7 +14737,6 @@ Koch'ŏn-ji, 고천지
 Kochiruri To, Kyoshichiri-tō, Kyositiri Tō, Kŏch'illi-do, Kŏch'illi-sŏm, Kŏch'illi-to, Pakkŏch'illi-do
 Koda-got, 고다곶
 Kodae-jŏsuji, 고대저수지
-Kodae-ri, Kŏdae-gol, 고대리
 Kodaejei-soryuji, 고대제2소류지
 Kodaejeil-soryuji, 고대제1소류지
 Kodang-san
@@ -14783,12 +14781,10 @@ Kogan-jŏsuji, 곡안저수지
 Kogan-soryuji, 곡안소류지
 Kogang-dong, 고강동
 Kogi-dong, Gogi-dong, 고기동
-Kogi-ri, 거기리, 고기리
 Kogil-gogae, Gogil-gogae, 고길고개
 Kogil-li, 고길리
 Kogiriho-je, 고길2호제
 Kogok-chi, 고곡지
-Kogong-ni, 고곡리
 Kogu-ri
 Kogunsan-gundo, Kogunsan Group, Kogunsan-guntō, Kogunsan-kundo, Kogunsan-yŏlto, Kogunzan-guntō, Kokunsan Islands, Kokuntau
 Kogŭn-san
@@ -14796,7 +14792,7 @@ Kohal-li, 고한리
 Kohang-dong
 Kohang-ni, 고학리
 Koheung Bando, Funyan Hanto, Funyan Peninsula, Heungyang Bando, Kohŭng-bando, Kohŭng-pando, Kōkō-hantō
-Koho-ri, Kop'o-ri, 고포리
+Koho-ri, Kop'o, 고포리
 Kohwang-bong, 고황봉
 Kohyŏl-li, 고현리
 Kohyŏn-hang
@@ -14808,7 +14804,6 @@ Koi-do, Koi To, Koi-sŏm, Koji-tō
 Koi-ri
 Koil-chae, 고일재
 Koil-chi, 고일지
-Koil-li, 거일리, 고일리
 Koja-ri, 고자리
 Kojaebong-san, 고재봉산
 Kojan-dong, Kojan-ni
@@ -14871,14 +14866,13 @@ Koma-do, Koma-sŏm
 Koma-je
 Komae-ri, Gomae-ri, 고매리
 Komang-ni, Gomak-ri, Komak, Komaku-ri, Kyūboku-ri, 고막리
-Komang-san, 거망산, 고망산
 Komch'ak-kol, 곰착골
 Komch'i-jae
 Kommo Suido, Belam Channel, Keumo Sudo, Kingŏ-suidŏ, Kŭmo-sudo
 Kommo To, Geumo Do, Kingō-tō
 Kommogi-jae, 곰목이재
 Komnae-jae, 곰내재
-Komni-semi, T'op-sŏm, 거도
+Komni-semi, Geodo, T'op-sŏm
 Komo-ri, 고모리
 Komogor-yŏnmot, 고모골연못
 Komok-chae, 고목재
@@ -14904,9 +14898,9 @@ Kondŏk-san, Nandŏk-san, 곤덕산
 Kong-ni, 공리
 Kong-yŏ
 Kongbae-jŏsuji, 공배저수지
-Kongdong-ni, Kodong-ni, 공덕리
 Kongdong-san, 공동산
 Kongdŏk-kogae, 공덕고개
+Kongdŏng-ni, Kodong-ni, 공덕리
 Konggai-jae, 공가이재
 Konggi-ri, 공기리
 Konggol-chae, 공골재
@@ -14963,11 +14957,9 @@ Korang-soryuji, 고랑소류지
 Koranggol-mot, 고랑골못
 Korangk'ŭnŭmdal-san, 고랑큰음달산
 Korangp'o-ri
-Korigol-soryuji, 거리골소류지, 고리골소류지
 Korŭm-jae, 고름재
 Kosa-do, Kōsa-tō, Kōsha-tō, Noppurumore Somu
 Kosa-ri, 고사리
-Kosal-li, 거산리, 고산리
 Kosam-bong, 고삼봉
 Kosan, 읍내리
 Kosan-ch'ŏn
@@ -14984,12 +14976,11 @@ Kosil-soryuji, 고실소류지
 Kosim-gol, 고심골
 Kosimgol-soryuji, 고심골소류지
 Kosin-soryuji, 고신소류지
-Kosol-li, 고선리
-Kosong-ni, Gosong-ri, 거석리, 거성리, 고성리, 고송리
 Kosonggol-mot, 고송골못
 Kosu-dong, 고수동
 Kosu-gol, 고수골
 Kosu-ri, 고수리
+Kosŏl-li, 고선리
 Kosŏng-ji, 고성지
 Kosŏng-man, Kojō-wan, Kosŏng-am, Kozyō Wan, 고성만
 Kosŏng-san
@@ -15071,7 +15062,7 @@ Kugyo-ri, Kyūkō-ri, 구교리
 Kuha-ri, Guha-ri, 구하리
 Kuhak-san, 구학산
 Kuhang-myŏn, Guhang-myeon, 구항면
-Kuhang-ni, Kuhaku-ri, 구학리
+Kuhang-ni, Kuhaku, 구학리
 Kuhang-nonggongdanji, 구항농공단지
 Kuho-ri
 Kuhye-ri, Kuhae-ri, Kuhe-ri, 구혜리
@@ -15082,7 +15073,7 @@ Kujae-bong
 Kujam-ni, 구잠리
 Kujang-ni
 Kuje-ri, 구제리
-Kuji-do, 구지도
+Kuji-do, Gujido
 Kuji-ri, 구지리
 Kujin-san
 Kujora-ri, Ku-chora-ri
@@ -15136,7 +15127,6 @@ Kumae-ri, 구매리
 Kumaegol-soryuji, 구매골소류지
 Kumaeppuri, 구매뿌리
 Kumal-li, Kuman-ni, 구만리
-Kumam-ni, Kŏmam-dong, Kŏmbau, 검암동, 금암리
 Kuman-myŏn, Guman-myeon, 구만면
 Kuman-san
 Kuman-soryuji, 구만소류지
@@ -15144,7 +15134,6 @@ Kumang-san, 구망산
 Kumani-san, Gumani-san, 구만이산
 Kumdul-mot, 굼둘못
 Kumi-ri, 구미리
-Kumi-san, 구미산, 금이산
 Kumigok-chi, 구미곡지
 Kumoh-golf
 Kumoh_main
@@ -15158,14 +15147,12 @@ Kumudan Suido, Geumdang Sudo, Kintō-suidō, Kŭmdang-sudo, Kŭmdang-suro
 Kumuo San, Geumo San, Kingozan, Kingŏ-san
 Kumyŏng-san, 구명산
 Kumŏng-sŏm
-Kun'gong-ni, 구곡리, 근곡리
 Kun'gwan-ji, 군관지
 Kun-bawi, 군바위
-Kun-san, 근산
 Kunam-do, Gungan-to
 Kunam-ni, 군암리
 Kunchima Satai, Dai-Tima Tai, Daichiba Tai, Daichima Tai, Dia-Tiba Tai, Kunchima Bank, Taech'ima-t'oe
-Kundong-ni, Kungdŏng-ni, 군덕리, 군동리
+Kundŏng-ni, Kungdŏng-ni, 군덕리, 군동리
 Kung-do, Kung-sŏm, 궁도
 Kung-ni, Gung-ri, 궁리
 Kungch'ol-li, 궁촌리
@@ -15241,7 +15228,6 @@ Kurye-ri, Kure-ri, 구례리
 Kuryong-dong, 구룡동
 Kuryong-ji, 구룡지
 Kuryong-jŏsuji, 구룡저수지
-Kuryong-ni, 구령리, 구룡리
 Kuryong-p'okp'o, 구룡폭포
 Kuryong-san, Kuyong-san, 구룡산
 Kuryong-soryuji, 구룡소류지
@@ -15250,6 +15236,7 @@ Kuryonggol-soryuji, 구룡골소류지
 Kuryongp'o-ri
 Kuryongp'o-soryuji, 구룡포소류지
 Kuryongso-p'okp'o, 구룡소폭포
+Kuryŏng-ni, 구령리, 구룡리
 Kurŏk-chae, 구럭재
 Kurŏm-ni, 굴업리
 Kurŏngmok-kogae, 구렁목고개
@@ -15328,10 +15315,10 @@ Kwanch'ŏl-li, 관천리
 Kwanch'ŏng-ni
 Kwandae-ri, 관대리
 Kwandong-ji, 관동지
-Kwandong-ni, 관덕리, 관동리
 Kwandong-soryuji, 관동소류지
 Kwandu-san, Kantō-san
 Kwandŏk-che, 관덕제
+Kwandŏng-ni, 관덕리, 관동리
 Kwang-ch'o, Kō Syō, Kō-shō
 Kwang-do, Gwang Do, Kō-tō, Notsupuri, Surly Island
 Kwang-ni, 광리
@@ -15504,16 +15491,16 @@ Kyesal-li, Kaesan-ni, 계산리
 Kyesan-ni
 Kyesan-soryuji, 계산소류지
 Kyesang-ni, 계상리
-Kyeso-ri, Keso-ri, 계서리
 Kyesu-ch'ŏn
 Kyesu-ri, Kesu-ri
+Kyesŏ-ri, Keso-ri, 계서리
 Kyesŏng-ni, 계성리
 Kyo-do
 Kyo-ri, 교리
 Kyoam-soryuji, 교암소류지
-Kyoch'ol-li, 교천리, 교촌리
 Kyoch'on-jŏsuji, 교촌저수지
 Kyoch'on-ni
+Kyoch'ŏl-li, 교천리, 교촌리
 Kyodong-je
 Kyodong-ji, 교동지
 Kyodong-ni, 교동리
@@ -15573,6 +15560,7 @@ Kyŏnma-do
 Kyŏnnaeryang-haeyŏp
 Kyŏnsŏng-am, 수리바위
 Kyŏrul-li, 결운리
+Kŏ-do, Ching-sŏm, Go Do, Ko-tō, Kyo-tō, Kŏ-sŏm, Observatory Island
 Kŏado-ri, 거아도리
 Kŏbuk-pawi, 거북바위
 Kŏbungmi-san, 거북미산
@@ -15584,15 +15572,20 @@ Kŏch'il-bong, 거칠봉
 Kŏch'il-ch'i, 거칠치
 Kŏch'in-orŭm
 Kŏch'irhyŏn-ch'i, 거칠현치
+Kŏdae-ri, Kŏdae-gol, 고대리
 Kŏdaekpawi, 거댁바위
 Kŏdong-dong, 거동동
 Kŏdu-ri, 거두리
+Kŏgi-ri, 거기리, 고기리
+Kŏgong-ni, 고곡리
+Kŏil-li, 거일리, 고일리
 Kŏjin-ŭp, 거진읍
 Kŏkha-ri
 Kŏlgi-gol, 걸기골
 Kŏlmae-ri, 걸매리
 Kŏlp'o-ri, 걸포리
 Kŏm-nyŏng, 검령
+Kŏmang-san, 거망산, 고망산
 Kŏmangch'i-gak
 Kŏmbong-san, 검봉산
 Kŏmdu-jae, 검두재
@@ -15648,18 +15641,22 @@ Kŏnt'ae-ri, 건태리
 Kŏnt'i-jae, 건티재
 Kŏnŭi-ryŏng, 건의령
 Kŏp'ujŏl-soryuji, 거푸절소류지
+Kŏrigol-soryuji, 거리골소류지, 고리골소류지
 Kŏrin-orŭm
 Kŏrinsasŭm
 Kŏryong-soryuji, 거룡소류지
 Kŏrŭmt'ŏ-soryuji, 거름터소류지
 Kŏrŭsil-chŏsuji, 거르실저수지
+Kŏsal-li, 거산리, 고산리
 Kŏsanjei-soryuji, 거산제2소류지
 Kŏsanjeil-soryuji, 거산제1소류지
 Kŏsanl-li, 거산리
 Kŏsil-ch'i, 거실치
+Kŏsŏng-ni, Gosong-ri, 거석리, 거성리, 고성리, 고송리
 Kŭlssi-san, 글씨산
 Kŭm-gok, 금곡
 Kŭm-san
+Kŭmam-ni, Kŏmam-dong, Kŏmbau, 검암동, 금암리
 Kŭman'gol-soryuji, 금안골소류지
 Kŭmbae-bangjuk, 금배방죽
 Kŭmbong-jŏsuji
@@ -15716,6 +15713,7 @@ Kŭmho-ho
 Kŭmho-ri, 금호리
 Kŭmhyŏl-li, 금현리
 Kŭmhŭl-li, 금흔리
+Kŭmi-san, 구미산, 금이산
 Kŭmja-chŏsuji
 Kŭmja-ri
 Kŭmjai-che
@@ -15748,7 +15746,7 @@ Kŭmp'ung-ni, Kimpŏ-ri, 금풍리
 Kŭmp'yŏng-jae, 금평재
 Kŭmp'yŏng-je
 Kŭmp'yŏng-ji
-Kŭmp'yŏng-ni, Kŭmp'yŏng-dong, 금평리
+Kŭmp'yŏng-ni, Kŭmp'yŏng, 금평리
 Kŭmp'yŏng-soryuji, 금평소류지
 Kŭmp'yŏngjei-soryuji, 금평제이소류지
 Kŭmp'yŏngjeil-soryuji, 금평제일소류지
@@ -15763,9 +15761,9 @@ Kŭmsan-ni
 Kŭmsan-soryuji, 금산소류지
 Kŭmsang-dong, Kŭmsang-ni, 금상동
 Kŭmsanmi-san, 금산미산
-Kŭmsong-ni, Kinshō-ri, 금성리
 Kŭmsŏng-je
 Kŭmsŏng-ji
+Kŭmsŏng-ni, Kinshō-ri, 금성리
 Kŭmsŏng-san
 Kŭmsŏng-soryuji, 금성소류지
 Kŭmsŭng-ni
@@ -15778,7 +15776,9 @@ Kŭmŭm-ni
 Kŭmŭn'gwangi, 금은광이
 Kŭn'gok-chŏsuji, 근곡저수지
 Kŭn'gok-soryuji, 근곡소류지
+Kŭn'gong-ni, 구곡리, 근곡리
 Kŭn-mot, 큰못
+Kŭn-san, 근산
 Kŭnch'i-am
 Kŭngnak-chi, 극락지
 Kŭngnak-kang
@@ -16025,7 +16025,7 @@ Maengbang-haesuyokchang, 맹방해수욕장
 Maengbanggungmin-gwan'gwangji, 맹방국민관광지
 Maengdong-myeon, Maedong-myeon, 맹동면
 Maenggol -gundo, Craig Harriet Group, Maenggol-kundo, Maengol-kundo, Myangoru Gunto, Mōkotsu-guntō
-Maenggol-sudo, Maenggol Channel, Mengoru Suidō, Myangoru Suido, Mōkotsu-suidō, Mōkotu Suidō, 맹골수도
+Maenggol-sudo, Maenggol Channel, Maenggolsudo, Mengoru Suidō, Myangoru Suido, Mōkotsu-suidō, Mōkotu Suidō
 Maenggol-to, Mengoru Tō, Myangoru To, Mōkotsu-tō, Mōkotu Tō
 Maenghyŏn-bong, Maenghyeonbong
 Maengjasan
@@ -16064,7 +16064,7 @@ Maesildo
 Maesong-myeon, Maesong-myŏn, 매송면
 Maesong-ni
 Maesu-ri, 매수리
-Maetan-dong, 매탄2동
+Maetan-dong, 매탄1동
 Maetan-gongwon, 매탄공원
 Maetanji, Musol-chŏsuji
 Maetdolbawi, 맷돌바위
@@ -16344,7 +16344,7 @@ Mandae-san, 만대산
 Mandae-soryuji, 만대소류지
 Mandaejeosuji
 Mandaesan-mot, 만대산못
-Mandeok-dong, 만덕2동
+Mandeok-dong, 만덕1동
 Mandeok-ri, 만덕리
 Mandeokcheon, 만덕천
 Mandeoksan, Mandŏk-san, 만덕산
@@ -16565,8 +16565,7 @@ Manseok-dong, 만석동
 Manseokgolmot, 만석골못
 Manseoksan, 만석산
 Manseongni-haesuyokjang, 만성리해수욕장
-Mansong-ni, 만석리, 만송리
-Mansu-dong, 만수6동
+Mansu-dong, 만수1동
 Mansu-ri, 만수리
 Mansu-san
 Mansucheon
@@ -16577,6 +16576,7 @@ Mansuji, Kŭmhŭngsam-ji, 금흥3지
 Mansusan
 Mansusanjayeon-hyuyangnim, 만수산자연휴양림
 Mansŏng-dong, 만성동
+Mansŏng-ni, 만석리, 만송리
 Mantoku-ri, Kyultong-ni, Mandok, Mandŏng-ni, 만덕리
 Mantoku-san, Mandŏk-san, 만덕산
 Manu-ri
@@ -16697,12 +16697,12 @@ Mashiji, 마시지
 Masi-ri, 마시리
 Masimigol
 Masoe-soryuji, 마쇠소류지
-Masong-ni, Masong-ri, 마송리
 Masongji
 Masu-je, 마수제
 Masu-ri, 마수리
 Masucheon
 Masuji
+Masŏng-ni, Masong-ri, 마송리
 Mat'ong-dong
 Mataebong
 Mattŭlmot, 마뜰못
@@ -16859,7 +16859,7 @@ Milmal-soryuji, 밀말소류지
 Milmeori-soryuji, Milmŏri-soryuji, 밀머리소류지
 Milmok-ryeong, 밀목령
 Milmokchi, 밀목치
-Milmokjae, Milmok-chae, 달발재, 밀목재
+Milmokjae, Dalbaljae, Milmok-chae, 밀목재
 Milmot, 밀못
 Miltu-ri, 밀두리
 Mimo-san, 미모산
@@ -17036,7 +17036,6 @@ Mogong-ni, Mogol-li, Mugoli, 모곡리
 Mogongnae-ji, 모곡내지
 Moguchonje, Moguch'on-je
 Moguje
-Mogunŏmi, 머구너미, 목우넘이
 Mogunŏmi-jae, 목우넘이재
 Moguri-orŭm
 Mogwai-ji, 모과이지
@@ -17070,7 +17069,7 @@ Mojinaegol
 Mojioreum, Moji-orŭm, 모지오름
 Mojong-dong, 모종동
 Mojŏng-ni, 모정리
-Mok-dong, 목동
+Mok-dong, 목1동
 Mok-kol, 목골
 Mok-myeon, Mong-myŏn, 목면
 Mok-sŏ, 목서
@@ -17118,7 +17117,6 @@ Mokkae-do, Mokch'o-do, Mokkae-sŏm, 목개도
 Mokkol-che, 목골제
 Mokkol-chi, 못골지
 Mokkol-mot, 못골못
-Mokkol-soryuji, 먹골소류지, 목골소류지, 못골소류지
 Mokkolmot, 못골못
 Mokkolppuri-san, Mokgolppuri-san, 목골뿌리산
 Mokkwa-do
@@ -17380,7 +17378,7 @@ Mujigol
 Mujinae-dong, 무지내동
 Mujjilji
 Mujogol-soryuji, 무조골소류지
-Muju-gun, 무주, 무주군
+Muju-gun, Muju, 무주군
 Muju-ho, 무주호
 Muju-ŭp, Muju-eup, 무주읍
 Mujuchaepokpo, 무주채폭포
@@ -17533,9 +17531,9 @@ Munbong-san
 Munbongsan
 Munbyŏng-do
 Munch'i-ji, 문치지
-Munch'on-ni
 Munch'ung-dong, Bunchū-dō
 Munch'ŏn-ji
+Munch'ŏn-ni
 Munchang-dong, 문창동
 Muncheok-myeon, 문척면
 Munchije
@@ -17589,11 +17587,11 @@ Munheung-dong, 문흥1동
 Munheungjigu
 Munho-ri, 문호리
 Munhoji
-Munhwa-dong, 문화2동
+Munhwa-dong, 문화1동
 Munhwahyusikgongwon, 문화휴식공원
 Munhwayesulgongwon
 Munhye-ri, Munhe-ri
-Munhyeon-dong, 문현2동
+Munhyeon-dong, 문현1동
 Munhyeong-san, Munhyŏng-san, 문형산
 Munhyeonji
 Munhyeonjigu
@@ -17810,7 +17808,7 @@ Myeonggyejeosuji
 Myeonggyeongsoryuji, 명경소류지
 Myeonghaksan, Myŏnghak-san, 명학산
 Myeongho-myeon, 明湖面, 명호면
-Myeongil-dong, 명일2동
+Myeongil-dong, 명일1동
 Myeongjae, Myŏngjae
 Myeongjang-dong, 명장1동
 Myeongjeong-dong, 명정동
@@ -17855,7 +17853,7 @@ Myeongusan
 Myeongwororeum, 명월오름
 Myeonjeon-jeosuji, 면전저수지
 Myeonjeongmot, 면정못
-Myeonmok-dong, 면목3·8동, 면목5동
+Myeonmok-dong, 면목2동, 면목3·8동
 Myeonmokbon-dong, 면목본동
 Myeonokchicheon, 면옥치천
 Myeonsapji, 면삽지
@@ -17894,7 +17892,7 @@ Myowonje
 Myowŏl-li, 묘원리
 Myŏgu-chŏsuji, 멱우저수지
 Myŏn-gol, 면골
-Myŏn-san, Myŏnsan, 綿山, 면산
+Myŏn-san, Myeonsan, Myŏnsan, 綿山
 Myŏn-sŏm, Men-tō, Myŏn-do
 Myŏnaegol-chae, 면애골재
 Myŏnbal-sŏm
@@ -17908,10 +17906,9 @@ Myŏngbong-ni, 명봉리
 Myŏngbong-san, Myŏngpongsan, 鳴鳳山
 Myŏngch'ŏl-li, 명천리
 Myŏngdae-ri, 명대리
-Myŏngdang-ni, Myŏngdang-dong, Myŏngdang-gol, 명당리
+Myŏngdang-ni, Myŏngdang, Myŏngdang-gol, 명당리
 Myŏngdo-ri, 명도리
 Myŏngdong-ji, 명동지
-Myŏngdong-ni, 명덕리, 명동리
 Myŏngdong-san
 Myŏngdong-soryuji, 명동소류지
 Myŏngdongsoyu-je, 명동소유제
@@ -17921,6 +17918,7 @@ Myŏngdŏk-chŏsuji, 명덕저수지
 Myŏngdŏk-pong, 명덕봉
 Myŏngdŏk-san, 명덕산
 Myŏngdŏk-to, 명덕도
+Myŏngdŏng-ni, 명덕리, 명동리
 Myŏnggo-ri, 명고리
 Myŏnggodong-ji, 명고동지
 Myŏnggok-chi, 명곡지
@@ -17956,12 +17954,14 @@ Mō-tō
 Mŏdŏkkol-mot, 머덕골못
 Mŏdŭl-mot, 머들못
 Mŏgu-do
+Mŏgunŏmi, 머구너미, 목우넘이
 Mŏgŏ-sŏm, Hŭkŏ-do, Mugŏ-sŏm, Mŏkke-sŏm
 Mŏgŭn-mot, 머근못
 Mŏji-gogae, 머지고개
 Mŏk-ch'i, 먹치
 Mŏkchŏk-chi, 먹적지
 Mŏkkol-jŏsuji, 먹골저수지
+Mŏkkol-soryuji, 먹골소류지, 목골소류지, 못골소류지
 Mŏkkul-gogae, 먹굴고개
 Mŏkkul-san, 먹굴산
 Mŏkkŏri-gogae, 먹거리고개
@@ -18051,7 +18051,7 @@ Naedal-li, 내단리
 Naedang-dong
 Naedangdong
 Naedapje, 내답제
-Naedeok-dong, 내덕2동
+Naedeok-dong, 내덕1동
 Naedeok-ri, 내덕리
 Naedeungje
 Naedo, An Seom, Chijora To, Dromedary Island, Naehŭk-do, Naejora-do, Naijora-tō, Naikoku-tō
@@ -18059,7 +18059,6 @@ Naedo-ri, 내도리
 Naedong
 Naedong-jŏsuji
 Naedong-myeon, 내동면
-Naedong-ni, Naitō-ri, 내덕리, 내동리
 Naedong-ri, 내동리
 Naedong-soryuji, 내동소류지
 Naedongcheon
@@ -18074,6 +18073,7 @@ Naedongsan-pokpo, 내동산폭포
 Naedongsoryuji, 내동소류지
 Naedoseonchakjang, 내도선착장
 Naedun-ri, 내둔리
+Naedŏng-ni, Naitō, 내덕리, 내동리
 Naeeunpokpo, 내은폭포
 Naega-myeon, 내가면
 Naega-ri, 내가리
@@ -18238,7 +18238,7 @@ Naeseongje
 Naesije
 Naesimjŏk-kol, 내심적골
 Naesin-je, 내신제
-Naeson-dong, 내손동
+Naeson-dong, 내손1동
 Naesong-ri, 내송리
 Naesongje
 Naesu-eup, 내수읍
@@ -18356,7 +18356,7 @@ Naktongun-mot, 낙동웃못
 Nakutogu Po, Naktong-p'o, Rakutō-ho
 Nalgae-san, 날개산
 Nalgaemot, 날개못
-Nalgajido, Bigaji, Hikashi, Nalgaji, Naryŏji, Pigaji-do, Pikasi
+Nalgajido, Bigaji, Hikashi, Nalgaji, Naryŏji, Pigaji, Pikasi
 Nalgeunteogol, Nalgŭnt'ŏ-gol
 Nalgol, Nal-gol
 Nalgubong
@@ -18412,8 +18412,8 @@ Nambuk-chi, 남북지
 Nambumin-dong, 남부민1동
 Nambung-ni, 남북리
 Namburi, 남부리
-Nambyŏng-san, Namp'yŏng-san, Nampyŏngsan, 南屛山, 남병산
-Namch'ang-ni, Namch'ang-dong, Nansō-ri, 남창리
+Nambyŏng-san, Nambyeongsan, Namp'yŏng-san, Nampyŏngsan, 南屛山
+Namch'ang-ni, Namch'ang, Nansō-ri, 남창리
 Namch'on-je, 남촌제
 Namch'ŏl-li, 남천리
 Namcha-ri, 남차리
@@ -18423,7 +18423,7 @@ Namchangjae
 Namchangje
 Namchangji
 Namcheon, Namch'ŏn-ch'ŏn
-Namcheon-dong, 남천2동
+Namcheon-dong, 남천1동
 Namcheon-myeon, Namch'ŏn-myŏn, 남천면
 Namcheon-ri, 남천리
 Namcheongsan
@@ -18538,7 +18538,7 @@ Namjŏng-ni, Namjŏn, 남정리
 Nammaeji
 Nammang-san
 Nammangsan
-Nammok-dong, 남목3동
+Nammok-dong, 남목1동
 Nammu-do, Nammu-tō, Nanmu Tō, Yotsu Shima
 Nammul-li, 남문리
 Nammulbawi
@@ -18576,7 +18576,7 @@ Namsan Park, 남산공원
 Namsan Sam Je, Namsan 3 Je
 Namsan-bawi, 남산바위
 Namsan-bong
-Namsan-dong, 남산4동
+Namsan-dong, 남산1동
 Namsan-ji
 Namsan-jŏsuji, 남산저수지
 Namsan-myeon, Namsan-myŏn, 남산면
@@ -18611,13 +18611,13 @@ Namsim-ni
 Namsin-gogae, 남신고개
 Namsin-ri, 남신리
 Namsong-ak
-Namsong-ni, Namsongigu, Nanshōri, 남성리
 Namsong-ri, 남송리
 Namsu-san, 남수산
 Namsuje
 Namsŏ-ri, 남서리
 Namsŏl-li, 남선리
 Namsŏng-jŏsuji, 남성저수지
+Namsŏng-ni, Namsongigu, Nanshōri, 남성리
 Namt'ae-je, 남태제
 Namt'ong-dong, 남통동
 Namt'ong-gogae, 남통고개
@@ -18658,8 +18658,8 @@ Namyŏ-do, Nan-jo-tō, Nan-zyo Tō
 Namyŏng-soryuji, 남영소류지
 Namŭl-li, 남은리
 Namŭnmogi, 남은목이
-Nan How Group, Kiuwen-tao, Komun-tō, Kyobun-tō, Kyomon, Kŏk'ŏri-do, Kŏmun-do, Sogŏmun-do
-Nan Syo, Nam-sŏ, Nam-yŏ, Nan-sho, Nan-tō, 남여
+Nan How Group, Kiuwen-tao, Komun-tō, Kyobun-tō, Kyomon, Kŏk'ŏri, Kŏmun-do, Sogŏmun-do
+Nan Syo, Nam-sŏ, Nam-yŏ, Namyeo, Nan-sho, Nan-tō
 Nan-do, Al-sŏm, Aru Somu, Ran-tō
 Nan-ho, Nam-p'o
 Nan-sen, Heijō-sen, Pyŏngsŏng-ch'ŏn, Se-ch'on
@@ -18761,7 +18761,7 @@ Nasiri-orŭm
 Naso-ri, 나소리
 Nasŏl-li, 나선리
 Natmongdingi-gogae, 낯몽딩이고개
-Naun-dong, 나운3동
+Naun-dong, 나운1동
 Ne-do
 Neobeureongae, 너브렁애
 Neobeureongyeo, 너브렁여
@@ -18883,8 +18883,8 @@ Noasan
 Nobangsan
 Nobong-san, 노봉산
 Noch'o-je, 노초제
-Noch'ol-li, 노천리, 노촌리
 Noch'u-san, 노추산
+Noch'ŏl-li, 노천리, 노촌리
 Noch'ŏn-jŏsuji, 노천저수지
 Noch'ŏn-ni
 Nochaegogae, Noch'ae-gogae
@@ -19083,7 +19083,7 @@ Nongsang-ni, Nongsang, Nōsō-ri, 노상리
 Nongseom
 Nongseong-dong, 농성1동
 Nongsinje
-Nongso-dong, 농소3동
+Nongso-dong, 농소1동
 Nongso-myŏn, Nongso-myeon, 농소면
 Nongso-ri, 농소리
 Nongsocheon
@@ -19096,7 +19096,7 @@ Nongŏam-gak
 Nongŭn-ni
 Nonhyeon-1(il)-dong, 논현1동
 Nonhyeon-2(i)-dong, 논현2동
-Nonhyeon-dong, 논현2동
+Nonhyeon-dong, 논현1동
 Nonhyeongojan-dong, 논현고잔동
 Nonhyeonjigu
 Nonmaratigol, Nonmarat'i-gol, 논마라티골
@@ -19162,7 +19162,7 @@ Noruseom, 노루섬
 Norusil-chŏsuji, 노루실저수지
 Norusonioreum, Norusaengi, 노루손이오름
 Noryang-sudo, Noryan Suido, Roryō-suidō
-Noryangjin-dong, 노량진2동
+Noryangjin-dong, 노량진1동
 Noryeokdo, Noryŏk-to, Rorikitō, Rōryoku-to, 노력도
 Noryeong, 노령
 Noryeong-sanmaek, 노령산맥
@@ -19188,7 +19188,6 @@ Noseong-myeon, Nosŏng-myŏn, 노성면
 Noseongcheon, Nosŏng-ch'ŏn
 Noseongsan, Noseungsan, Nosŏng-san, Nosŭng-san
 Nosong-dong, 노송동
-Nosong-ni, Nosŏk-tong, Rojō-ri, 노석리, 노성리, 노송리
 Nosong-ri, 노송리
 Nosonggol-bangchuk, 노송골방축
 Nosongje
@@ -19197,6 +19196,7 @@ Nosongje Il Je, Nosongje 1 Je, 노송제1제
 Nosongjeosuji
 Nosugol-chi, 노수골지
 Nosŏng-dae
+Nosŏng-ni, Nosŏk-tong, Rojō-ri, 노석리, 노성리, 노송리
 Nosŭng-bong, Rōsō-hō, 노승봉
 Not'ae-san, 노태산
 Not'i-ri, 노티리
@@ -19217,7 +19217,7 @@ Noyang-do
 Noyang-ni, 노양리
 Noŭl-li, Noŭn-ni, 노은리
 Noŭm-ni, 노음리
-Noŭm-san, 노음산
+Noŭm-san, Noeumsan
 Noŭn-do
 Noŭn-jae
 Noŭn-ji, 노은지
@@ -19254,7 +19254,6 @@ Nurok-to, Dotsugyokutō, Nuruoku Tŏ, Nōgyoku-tō, Totsugyoku To
 Nuru-gogae, 누루고개
 Nuruisan, Nurŭi-san, Sŏn'gae-san, 눌의산
 Nurumesan, 누루메산
-Nurŭp-chae, 느릅재
 Nusan-ni, 누산리
 Nusilgol
 Nutaejeosuji
@@ -19317,14 +19316,13 @@ Nŭptŭng, 늪등
 Nŭraengimot, 느랭이못
 Nŭrak-kogae, 늘앗고개
 Nŭratchae-gogae, 느랏재고개
+Nŭrŭp-chae, 느릅재
 Nŭrŭp-kol, 느릅골
 Nŭrŭpmuk-kol, 느릅묵골
 O-am
 O-do, Go-tō, Kamakui To, Round Island, U Do, U-Tō, Ō Tō
-O-ri, 어리, 오리
 O-san
 O-sŏm
-Oam-ni, 어암리, 오암리
 Oam-ri, 오암리
 Oamje
 Obaeji
@@ -19354,7 +19352,6 @@ Obu-myeon, 오부면
 Obyeon-mot, OByŏn-mot, OB연못
 Och'ang-ni, 오창리
 Och'i-je
-Och'ol-li, 어천리, 오천리, 오촌리
 Och'u-ri, 오추리
 Och'ŏk-soryuji, 오척소류지
 Och'ŏn-jae, 오천재
@@ -19381,7 +19378,7 @@ Ochon To, Eocheong-Do, Guerin Island, Osei-tō, Ŏch'ŏng-do
 Ochonje, Och'on-je
 Odae-mot, 오대못
 Odae-ri, 오대리
-Odae-san, Godai-san, Godaizan, Gotaizan, Mount Odae, Mount Odaesan, 五臺山, 오대산
+Odae-san, Godai-san, Godaizan, Gotaizan, Mount Odae, Mount Odaesan, Odaesan, 五臺山
 Odae-sanmaek, 오대산맥
 Odaesan-gungnipkongwŏn, 오대산국립공원
 Odeok-soryuji, Odŏk-soryuji, 오덕소류지
@@ -19396,14 +19393,13 @@ Odo-san, Godō-san, Godōzan
 Odobuk satae, North Kamakui Somu Bank, North Kamakuito Satai, Odobuk-sat'oe, Utō Kita-Satai
 Odoch'i-gogae, 오도치고개
 Odochi
-Odojae, 수봉재, 오도티
+Odojae, Odot'i, 수봉재
 Odoje
 Odokji, 오독지
 Odokkol-mot, 오독골못
 Odong-do
 Odong-dong, 오동동
 Odong-jae, 오동재
-Odong-ni, 오덕리, 오동리
 Odong-ri, 오동리
 Odong-san
 Odong-yŏ
@@ -19419,7 +19415,6 @@ Odosan
 Odoseonchakjang, 오도선착장
 Odu-ch'i, 오두치
 Odu-jae
-Odu-je, 어두제
 Odu-ri, 오두리
 Odu-san
 Odubong
@@ -19429,6 +19424,7 @@ Odujaegogae
 Oduje
 Odumagisoryuji, 오두막이소류지
 Odusan
+Odŏng-ni, 오덕리, 오동리
 Odŭng-dong, Odŭng-ni
 Oe-bong, Hon-bong, Hong-bong
 Oe-do, Gai-Tō
@@ -19624,7 +19620,6 @@ Ogokcheon, 오곡천
 Ogokjei-jeosuji, Ogokchei-jŏsuji, 오곡제이저수지
 Ogokji, 오곡지
 Ogong-je, 오공제
-Ogong-ni, 어곡리, 오곡리, 오공리
 Ogongjae
 Ogunak-kol, 오구낙골
 Ogung-ni, 오궁리
@@ -19686,7 +19681,6 @@ Ojije
 Ojin-ri, 오진리
 Ojodo, Oecho-do
 Ojŏ-ri, 오저리
-Ojŏl-li, 어전리, 오전리
 Ojŏng-ni, 오정리
 Ojŏrisan'gi, 오저리산기
 Ok-dong, 玉洞, 옥동
@@ -19776,7 +19770,7 @@ Oknan'gan-san, 옥난간산
 Oknyeobong, 옥녀봉
 Okp'iri-san, 옥피리산
 Okp'yŏng-ni, 옥평리
-Okpo-dong, 옥포2동
+Okpo-dong, 옥포1동
 Okpo-myeon, Okp'o-myŏn, 옥포면
 Okpo-pokpo, Murhan-p'okp'o, Uiyonggol-pokpo, 물한폭포, 옥포폭포, 의용골폭포
 Okpocheon, 옥포천
@@ -19894,7 +19888,7 @@ Onggolje
 Onggolsan
 Ongjang-gol, 옹장골
 Ongjeong-ri, 옹정리
-Ongjin-gun, 옹진, 옹진군
+Ongjin-gun, Ongjin, 옹진군
 Ongjŏm-ni, 옹점리
 Ongjŏng-ni, 옹정리
 Ongma-ri, 옥마리
@@ -19912,7 +19906,7 @@ Ongnyeo-bong, 옥녀봉
 Ongnyeobawi, 옥녀바위
 Ongnyeobong, Su-san, 옥녀봉, 온녀봉
 Ongnyeogogae, 옥녀고개
-Ongnyeon-dong, 옥련2동
+Ongnyeon-dong, 옥련1동
 Ongnyeosan, 옥녀산
 Ongnyong-dong, Ongnyongdong, 옥룡동
 Ongnyong-myeon, 옥룡면
@@ -19954,7 +19948,7 @@ Onsusan
 Onui-mot, 오누이못
 Onurujae, 오누루재
 Onyang-ch'ŏn, Onyō-sen
-Onyang-dong, Asan-si Onyang-dong, Asan-si Onyang-tong, 牙山市 溫陽洞, 아산시 온양동, 온양4동
+Onyang-dong, Asan-si Onyang-dong, Asan-si Onyang-tong, 牙山市 溫陽洞, 아산시 온양동, 온양1동
 Onyang-eup, 온양읍
 Onyang-ni, Onyō-ri, 온양리
 Onyang-onch'ŏn, 온양온천
@@ -19984,7 +19978,6 @@ Oridŭng
 Origol, 오리골
 Origol-bangjuk, 오리골방죽
 Origol-chae, 오리골재
-Origol-chi, 어리골지, 오리골지
 Origol-mot, 오리골못
 Origol-soryuji, 오리골소류지
 Origolmot, 오리골못
@@ -20000,7 +19993,6 @@ Orisoryuji, 오리소류지
 Orit'ŏ-jae, 오리터재
 Oriwonjae, 오리원재
 Oro-ji, 오로지
-Oro-ri, 어로리, 오로리
 Orobong, 오로봉
 Orogol-mot, 오로골못
 Orusup, 오루숲
@@ -20014,11 +20006,9 @@ Oryong I Je, 오룡2제
 Oryong-je, 오룡제
 Oryong-jeosuji, 오룡저수지
 Oryong-ji, 오룡지
-Oryong-jŏsuji, 어룡저수지, 오룡저수지
 Oryong-ni, 오룡리
 Oryong-ri, 오룡리
 Oryong-san, 오룡산
-Oryong-soryuji, 어령소류지, 어룡소류지, 오룡소류지
 Oryongcheon, 오룡천
 Oryongje, 오룡제
 Oryongjeosuji, 오룡저수지
@@ -20036,13 +20026,11 @@ Oryul-li, Oryun-ni, 오륜리
 Oryun-dong, 오륜동
 Orŭmbawi-gol, 얼음바위골
 Orŭmsil-soryuji, 오름실소류지
-Osa-ri, 어사리, 오사리
 Osa-san, Ot'o-san, 오토산
 Osaegyaksu, Osaegyaksut'ŏ, 오색약수
 Osaek-ri, 오색리
 Osaekcheon, Osaek-ch'ŏn, 오색천
 Osaje
-Osal-li, 어산리, 오산리
 Osan
 Osan I Je
 Osan-ch'i, 오산치
@@ -20091,7 +20079,7 @@ Osorigogae, 오소리고개
 Osorimokgol, Osorimok-kol, 오소리목골
 Osu-myeon, Osu-myŏn, 오수면
 Osu-ri, Gōju-ri, 오수리
-Osu-uigyeon Gongwon, 오수의견공원, 의견공원
+Osu-uigyeon Gongwon, Uigyeongongwon, 오수의견공원
 Osucheon, Gōju-sen, Heiju-sen, Osu-ch'ŏn, P'esu-ch'on
 Osŏ-ji, 오서지
 Osŏ-jŏsuji, 오서저수지
@@ -20100,7 +20088,6 @@ Osŏl-li, 오설리
 Osŏng-ni, 오석리, 오성리
 Ot'ae-jŏsuji, Odae-jŏsuji, Ot'ae-je, 오태저수지
 Ot'ae-ri, 오태리
-Ot'ae-san, 어태산, 오태산
 Ot'ak-sŏ
 Ot-chae, 옷재, 옻재
 Otan-ri, 오탄리
@@ -20259,9 +20246,9 @@ P'yŏngbong-ni, P'yŏngbok-tong, 평복리
 P'yŏngch'ang-gang, Heishō-kō, Hēsyō, P'yong'ang-gang
 P'yŏngch'ang-je, 평창제
 P'yŏngch'ang-nonggongdanji, 평창농공단지
-P'yŏngch'ol-li, P'yŏngch'on, P'yŏngch'ŏn-ni, 평천리, 평촌리
 P'yŏngch'on-jŏsuji, 평촌저수지
 P'yŏngch'on-soryuji, 평촌소류지
+P'yŏngch'ŏl-li, P'yŏngch'on, P'yŏngch'on-ni, 평천리, 평촌리
 P'yŏngdong-ni, Heidō-ri, 평동리
 P'yŏngdŭl-soryuji, 평들소류지
 P'yŏnggung-ni, 평궁리
@@ -20622,7 +20609,7 @@ Panam-ni, 반암리
 Panbu-myeon, Hampū-men, P'anbu-myŏn, 판부면
 Panbu-ri, 판부리
 Panbudong, Kwanbu-dong
-Panch'ol-li, 반천리, 반촌리
+Panch'ŏl-li, 반천리, 반촌리
 Panchi-jeosuji, P'anch'i-jŏsuji, 판치저수지
 Panchi-soryuji, 판치소류지
 Panchijae, P'anch'i-jae
@@ -20700,10 +20687,10 @@ Pangp'oi-soryuji, 방포2소류지
 Pangp'oil-soryuji, 방포1소류지
 Pangsal-li
 Pangsil-li, Bangsin-ri, Pangsin-ni, 방신리
-Pangsong-ni, Hōseki-ri, Paksŏng-ni, 방성리
 Pangsong-soryuji, 방송소류지
 Pangsu-ri, 방수리
 Pangsŏng-ch'ŏn
+Pangsŏng-ni, Hōseki-ri, Paksŏng-ni, 방성리
 Pangt'ae-gol, 방태골
 Pangt'i-gol, 방티골
 Pangt'ugol-mot, 방투골못
@@ -20735,9 +20722,9 @@ Panp'yŏng-dong, 반평동
 Panpooreum, P'anp'o-orŭm, 판포오름
 Pansadeungsan
 Pansal-li, 반산리
-Pansong-ni, 반성리, 반송리
 Pansukkol-mot, 반숙골못
 Pansŏkkol-mot, 반석골못
+Pansŏng-ni, 반성리, 반송리
 Pansŏng-sudo
 Panun-jŏsuji, 반운저수지
 Panwŏl-li, 반월리
@@ -20848,7 +20835,7 @@ Pigaesil-chi, 비개실지
 Pigok-che, 비곡제
 Pigumu Do, Bigeum-do, Hikin-tō, Pigum To, Pikumu Tō, Pŏgŭm-do, 비금도
 Pigumu Suido, Hikin-suidō, Pigŭm-sudo
-Pigye-san, 비계산
+Pigye-san, Bigyesan
 Pigŭm-do
 Pihak-san, 비학산
 Pihyŏn-san, 비현산
@@ -20938,9 +20925,8 @@ Podongje
 Podu-myeon, 포두면
 Poduje
 Podŏng-ni
-Podŭl-chi, 버들지, 보들지
 Pogae-san
-Pogam-ni, Fukugan-ri, Fukurin, Pogam, Pokam, Pongnim, 복암리
+Pogam-ni, Fukugan, Fukurin, Pogam, Pokam, Pongnim, 복암리
 Pogan-ni, Pogan-dong
 Pogang-ch'ŏn, Hōkō-sen, Miho-ch'ŏn, Pogwang-ch'ŏn
 Pogok-chi, 보곡지
@@ -21011,7 +20997,6 @@ Ponam-dong, 포남1동
 Ponam-gongwon, 포남공원
 Ponbogi, 본보기
 Ponch'o-ri, 본초리
-Ponch'ŏl-li, Pŏnch'ŏn-ni, 번천리, 본천리
 Ponch'ŏn-je, 본천제
 Pondang-ni, 본당리
 Pong-ch'ŏn, Fū-sen, P'ung-ch'ŏn, Panbu-ch'on
@@ -21030,7 +21015,7 @@ Pongbi-ji, 봉비지
 Pongbok-san, Bongboksan, 봉복산
 Pongch'i-ri, 봉치리
 Pongch'i-soryuji, 봉치소류지
-Pongch'ol-li, Hōsen-ri, Pongch'ŏn-ni, 봉천리, 봉촌리
+Pongch'ŏl-li, Hōsen-ri, Pongch'ŏn-ni, 봉천리, 봉촌리
 Pongdae-ji, 봉대지
 Pongdae-san
 Pongdae-soryuji, 봉대소류지
@@ -21049,7 +21034,7 @@ Ponggok-soryuji, 봉곡소류지
 Ponggok-tong, 봉곡동
 Ponggong-ni, 봉곡리
 Pongguk-chi, 봉국지
-Ponggye-ri, Pongge-ri, 봉계리
+Ponggye-ri, Pongge-dong, 봉계리
 Ponggye-soryuji, 봉계소류지
 Ponggyo-ri, 봉교리
 Pongha-ri, Ponghwa-ri
@@ -21145,7 +21130,6 @@ Porok-san, 보록산
 Poromu To, Boreum-do, Hoon-tō, Porŭm-do, Poŭm-do, Purŭm-do, 볼음도
 Porugunnurii To, Mei-tō, Meiken-tō, Myŏnggŏn-do, Myŏnggŏn-sŏm, Palgŭn-sŏm
 Poruomu, Jeog Do, Ppŏl-sŏm, Seki-tō
-Poryong-ni, 벌영리, 보룡리
 Poryŏng-gol, 보령골
 Porŭm-gogae, 보름고개
 Posal-li, 보산리
@@ -21175,7 +21159,7 @@ Ppulbat
 Ppuldanggol
 Ppurigongwon, Ppuri-gongwŏn, 뿌리공원
 Ppyojokbawi, Ppyojok-pawi, 뾰족바위
-Pu-do, Ak-to, Bu Do, Castle Peak Island, Changyomu, Fū-tō, Gaku-tō, Gyotō, Hū Tō, Janggu-do, Kama To, Pu To
+Pu-do, Ak-to, Bu Do, Castle Peak Island, Changyomu, Fu-tō, Gaku-tō, Gyotō, Hu Tō, Janggu-do, Kama To, Pu To
 Pua-san, Bua-san, 부아산
 Pual-li, Puan-ni, Purong-ni, 부안리
 Puam-ni, Puram-ni
@@ -21352,7 +21336,7 @@ Pungdeokcheon-dong, 풍덕천동
 Pungdeokji, P'ungdŏk-chi, 풍덕지
 Pungdeungji
 Pungdo, Hō-tō, Hōki, P'unggi, Poung To, Pung Island, Puong Do
-Pungdoekcheon-dong, 풍덕천2동
+Pungdoekcheon-dong, 풍덕천1동
 Pungdongjigu
 Pungdŏm-bawi, 붕덤바위
 Punggak-myeon, P'unggang-myŏn, 풍각면
@@ -21412,10 +21396,10 @@ Punnae-soryuji, 분내소류지
 Punori-gogae, Bunori-gogae, 분오리고개
 Punsu-ri
 Punt'o-je, 분토재, 분토제
-Punt'ogol-soryuji, 분터골소류지, 분토골소류지
 Punt'ong-mot, 분통못
 Punt'ŏgol-gogae
 Punt'ŏgol-mot, 분터골못
+Punt'ŏgol-soryuji, 분터골소류지, 분토골소류지
 Punŭng-ni, 부능리
 Pup'yŏng, 동추도
 Pup'yŏng-ni, 부평리
@@ -21454,7 +21438,7 @@ Puwa, 수문여
 Puwŏn-dong, 부원동
 Puya-soryuji, 부야소류지
 Puyong-bong
-Puyong-san, Fuyō-san, 부영산
+Puyŏng-san, Fuyō-san, 부영산
 Puŏng-san
 Puŏngdaemi-san, 부엉대미산
 Puŏngjae-san, 부엉재산
@@ -21492,7 +21476,7 @@ Pyeonggodeunggogae
 Pyeonggwangji
 Pyeonghae-eup, P'yŏnghae-ri, P'yŏnghae-ŭp, 평해읍
 Pyeonghakje, 평학제
-Pyeonghwa-dong, 평화2동
+Pyeonghwa-dong, 평화1동
 Pyeonghwa-gongwon, P'yŏnghwa-gongwŏn
 Pyeonghwagongwon
 Pyeonghwaje
@@ -21516,7 +21500,7 @@ Pyeongnam0ri, 평남리
 Pyeongnarijae, 평나리재
 Pyeongneungcheon
 Pyeongni-dong, 평리1동
-Pyeongnidong, 평리동
+Pyeongnidong, 평리6동
 Pyeongniji, Sangp'yŏng-soryuji, 상평소류지, 평리지
 Pyeongnimcheon, P'yŏngnim-ch'ŏn, 평림천
 Pyeongnimji, P'yŏngnim-ji, 평림지
@@ -21609,6 +21593,7 @@ Pyŏru-gol, 벼루골
 Pŏbwŏl-li, Pŏbwŏn-ni
 Pŏdungi, 버둥이
 Pŏdŭl-chae, 버들재
+Pŏdŭl-chi, 버들지, 보들지
 Pŏdŭl-gogae, 버들고개
 Pŏdŭl-gol
 Pŏdŭl-jŏsuji, 버들저수지
@@ -21641,6 +21626,7 @@ Pŏmjŏng-soryuji, 범정소류지
 Pŏmk'wae-sŏ
 Pŏmt'i-gogae, 범티고개
 Pŏmu-gol
+Pŏnch'ŏl-li, Pŏnch'ŏn-ni, 번천리, 본천리
 Pŏndŏk-chi, 번덕지
 Pŏp-san, Pŏm-san, 법산
 Pŏpchu-ri, 법주리
@@ -21661,6 +21647,7 @@ Pŏptong-ni
 Pŏptong-soryuji, 법동소류지
 Pŏran-do
 Pŏrinae-soryuji, 버리내소류지
+Pŏryŏng-ni, 벌영리, 보룡리
 Pŏt'unggae-jŏsuji, 버퉁개저수지
 Pŏtchaeppak-san, 벗잿박산
 Raejeodanji-yuwonji, Naejŏdanji-yuwŏnji, 래저단지유원지
@@ -21687,16 +21674,16 @@ Rinkei-sen, Imgye-ch'ŏn
 Rinsen-ri, 임전리
 Rippa To, Eugenie, Ibye-som, Imye-sŏm, Iphwa-do, Ipp'a-do, Ritsuha-tō, Rituha Tō, Ryūha-tō, 입파도
 Robongje, 로봉제
-Rokyo, Pŏlgyo-ri
+Rokyo, Pŏlgyo
 Ronamigol, Nonami-gol, 로나미골
-Rosui-ri, Yŏsu-ri, 여수리
+Rosui-ri, Yŏsu, 여수리
 Ryeonbongje, 련봉제
 Ryuchonjeosuji, Nyuch'on-jŏsuji, 류촌저수지
 Ryulsanje, Yulsan-je, 률산제
 Ryusanji, 류산지
 Ryuyu To (historical), Jacquinot Island
 Sa-do, Sa-du, Sa-sŏ, Sa-tō, Ssias-sŏm
-Sa-dong, 사3동
+Sa-dong, 사1동
 Sa-euncheon, 사은천
 Sa-ri, 사리
 Sa-sen, Morae-nae, Sa-ch'ŏn
@@ -21742,8 +21729,8 @@ Sach'ang-jŏsuji
 Sach'ang-ni, 사창리
 Sach'i-je, 사치제
 Sach'imi-mot, 사치미못
-Sach'ol-li, Sach'ŏn-ni, 사천리, 사촌리
 Sach'on-soryuji, 사촌소류지
+Sach'ŏl-li, Sach'ŏn-ni, 사천리, 사촌리
 Sach'ŏn-ch'ŏn, Sa-ch'ŏn, Yurwŏn-ch'ŏn
 Sach'ŏn-gang
 Sach'ŏn-haesuyokchang, 사천해수욕장
@@ -21774,7 +21761,7 @@ Sadal-gol, 사달골
 Sadal-san, 사달산
 Sadam-ri, 사담리
 Sadamak, 사다막
-Sadang-dong, 사당3동
+Sadang-dong, 사당1동
 Sadang-gol
 Sadang-ri, 상당리
 Sadangdo, Sodang-do, Sodang-sŏm
@@ -22176,7 +22163,7 @@ Sajeonggongwon
 Sajeongjae, Sajŏng-jae
 Sajeongje
 Sajik
-Sajik-dong, 사직3동
+Sajik-dong, 사직1동
 Sajik-kol, 사직골
 Sajik-tong, 사직동
 Sajikbong, 사직봉
@@ -22274,10 +22261,10 @@ Sambang-jeosuji, 삼방저수지
 Sambang-mot, 삼박못
 Sambang-ni, 삼방리
 Sambang-ri, 삼방리
-Sambang-san, 삼방산
+Sambang-san, Sambangsan
 Sambanggol
 Sambaregigol, 삼바레기골
-Sambarijae, 삼발이재
+Sambarijae, 삼바리재
 Sambat-soryuji, 삼밭소류지
 Sambatch'i-gol, 삼밭치골
 Sambatgol, Sambak-kol
@@ -22317,7 +22304,7 @@ Samch'ŏndong-yuwŏnji, 삼천동유원지
 Samch'ŏng-ni, 삼청리
 Samch'ŏnp'o-hang, Sanzempo-kō, Sanzenpo Kō
 Samcheok-si, 삼척, 삼척시
-Samcheon-dong, 삼천동
+Samcheon-dong, 삼천1동
 Samcheonbong, Samch'ŏn-bong
 Samcheong-dong, 삼청동
 Samcheong-jeosuji, Samch'ŏng-jŏsuji, 삼청저수지
@@ -22343,14 +22330,13 @@ Samdeok-ri, 삼덕리
 Samdeokji, Samdŏk-chi, 삼덕지
 Samdeungbawi
 Samdo
-Samdo-dong, 삼도동
+Samdo-dong, 삼도1동
 Samdo-jŏsuji, 삼도저수지
 Samdobong
 Samdong-jae, 삼동재
 Samdong-ji, 삼동지
 Samdong-jŏsuji, 삼동저수지
 Samdong-myeon, 삼동면
-Samdong-ni, 삼덕리
 Samdongam-ni, Samdongam-ri, 삼동암리
 Samdongamcheon
 Samdongje
@@ -22361,6 +22347,7 @@ Samdu-bong
 Samdu-ri, 삼두리
 Samduje
 Samdŏk-chŏsuji, 삼덕저수지
+Samdŏng-ni, 삼덕리
 Sameun-ri, 삼은리
 Sameunjeosuji, Samŭn-jŏsuji
 Samga-dong
@@ -22387,7 +22374,6 @@ Samgiji
 Samgil-li, 삼길리
 Samgil-san, 삼길산
 Samginonggong-danji, 삼기농공단지
-Samgo-ri, 삼거리, 삼고리
 Samgoe-ji, 삼괴지
 Samgoe-ri, 삼괴리
 Samgoejŏng-jŏsuji, 삼괴정저수지
@@ -22415,6 +22401,7 @@ Samgyeongjae
 Samgyo-ri, 삼교리
 Samgyoji, Samgyo-jŏsuji, 삼교저수지
 Samgŏ-dong
+Samgŏ-ri, 삼거리, 삼고리
 Samgŏri
 Samgŏri-bangjuk, 삼거리방죽
 Samgŏri-jŏsuji, 삼거리저수지
@@ -22527,7 +22514,7 @@ Samnamugol
 Samnang-ni, 삼락리
 Samnangjin-ŭp, Samnangjin-eup, Samnangjin-myŏn, Sanrōshin-men, 三浪津邑, 삼랑진읍
 Samneunggongwon, 삼릉공원
-Samnye-ri, Samne-ri, Samye-ri, Sanrei-ri
+Samnye-ri, Samne-ri, Samye-ri, Sanrei
 Samnye-ŭp, Samnye-eup, 삼례읍
 Samnyong-dong, 삼룡동
 Samnyongbangjuk, 삼룡방죽
@@ -22557,7 +22544,7 @@ Samsaengmagol
 Samsal-li, 삼산리
 Samsan
 Samsan-ch'ŏn, Samsin-ch'ŏn
-Samsan-dong, 三山洞, 삼산2동
+Samsan-dong, 三山洞, 삼산1동
 Samsan-gogae, 삼산고개
 Samsan-ji
 Samsan-myeon, 삼산면
@@ -22576,7 +22563,7 @@ Samseocheon
 Samseon-dong, 삼선동
 Samseondanggongwon
 Samseong-cheon, Samsŏng-ch'ŏn
-Samseong-dong, Samsŏng-tong, 三省洞, 삼성2동
+Samseong-dong, Samsŏng-tong, 三省洞, 삼성1동
 Samseong-myeon, 삼성면
 Samseong-ri, 삼성리
 Samseong-san
@@ -22670,7 +22657,7 @@ Sanbatgolmot, 산밭골못
 Sanbawi
 Sanbon I Soryuji, Sanbon 2 Soryuji, 산본2소류지
 Sanbon-cheon, Sanbon-ch'ŏn, 산본천
-Sanbon-dong, 산본동
+Sanbon-dong, 산본1동
 Sanbon-ri, 산본리
 Sanbong
 Sanbong-san, 산봉산
@@ -22685,13 +22672,13 @@ Sanbukji, Sanbukjeosuji, 산북저수지, 산북지
 Sanbung-ni, Tanghyŏn-ni, 산북리
 Sanburakjae, 산부락재
 Sanburamsan, 산불암산
-Sanch'ol-li, 산천리, 산촌리
+Sanch'ŏl-li, 산천리, 산촌리
 Sanch'ŏng-ni, 산척리
 Sancheok-jeosuji, Sanch'ŏk-chŏsuji, 산척저수지
 Sancheok-myeon, Sanch'ŏng-myŏn, 동량면, 산척면
 Sancheon-jeosuji, Sanch'ŏn-jŏsuji, 산천저수지
 Sancheong-eup, 산청읍
-Sancheong-gun, Sanch'ŏng-gun, 산청, 산청군
+Sancheong-gun, Sanch'ŏng-gun, Sancheong, 산청군
 Sancheonje
 Sanchi-kawa, Sanji-ch'ŏn, Sanji-nae, Sanjo-ch'on
 Sandae-ji
@@ -22706,13 +22693,13 @@ Sandeok-ri, 산덕리
 Sandeunggogae
 Sandolgol
 Sandong-myeon, 산동면
-Sandong-ni, 산덕리, 산동리
 Sandong-ri, 산동리
 Sandongje, Sandong-soryuji, 산동소류지
 Sandubong
 Sandunemi
 Sandwi-gol, 산뒤골
 Sandwiji
+Sandŏng-ni, 산덕리, 산동리
 Saneomulgol, Sanŏmul-gol
 Saneumsoryuji, 산음소류지
 Sang Muryong-ni, Sangmuryong-ri, 상무룡리
@@ -22781,12 +22768,12 @@ Sangbŏm-ni
 Sangch'ang-gogae, 상창고개
 Sangch'angbong-ni, 상창봉리
 Sangch'o-jŏsuji, 상초저수지
-Sangch'ol-li, 상천리, 상촌리
-Sangch'on-ji, 상천지
 Sangch'on-jŏsuji, 상촌저수지
 Sangch'on-mot, 상촌못
-Sangch'on-soryuji, 상천소류지, 상촌소류지
 Sangch'ŏk-san, 상척산
+Sangch'ŏl-li, 상천리, 상촌리
+Sangch'ŏn-ji, 상천지
+Sangch'ŏn-soryuji, 상천소류지, 상촌소류지
 Sangch'ŏng-ni, 상청리
 Sangcheon
 Sangcheon-jeosuji
@@ -22801,14 +22788,14 @@ Sangchonji
 Sangchudongjeosuji
 Sangchujado, Sangch'uja-do, Sober Island
 Sangda-ri, 상다리
-Sangdae-dong, 상대동
+Sangdae-dong, 상대1동
 Sangdae-du, Sangdaegu-sŏm, Sangdaeho-do, Uttaegu-sŏm, Wittaegu-sŏm, Wittaeho-sŏm, 윗대구섬
 Sangdae-mot, 상대못
 Sangdae-ri, 상대리
 Sangdae-san
 Sangdaejeonji, Sangdaejŏn-ji
 Sangdaesan
-Sangdaewon-dong, 상대원3동
+Sangdaewon-dong, 상대원1동
 Sangdamaru, 상다마루
 Sangdan-san, 상단산
 Sangdang-gu, 상당구
@@ -22818,7 +22805,7 @@ Sangdang-soryuji, 상당소류지
 Sangdangje
 Sangdeokje, 상덕제
 Sangdeung-ri, 상등리
-Sangdo-dong, 상도3동
+Sangdo-dong, 상도1동
 Sangdo-jŏsuji, 상도저수지
 Sangdo-ri, 상도리
 Sangdochije
@@ -22826,7 +22813,6 @@ Sangdogok-soryuji, 상도곡소류지
 Sangdon-do
 Sangdong-jŏsuji
 Sangdong-myeon, 상동면
-Sangdong-ni, 상덕리, 상동리
 Sangdong-ri, 상동리
 Sangdong-san, 상동산
 Sangdong-soryuji, 상동소류지
@@ -22844,6 +22830,7 @@ Sangdunje, Sangdun-soryuji, 상둔소류지
 Sangdureukdo, 상두륵도
 Sangdusan
 Sangdŏk-chi, 상덕지
+Sangdŏng-ni, 상덕리, 상동리
 Sangeoji
 Sangeorigol, Sangŏri-gol, 산거리골
 Sangeunbong
@@ -22904,7 +22891,7 @@ Sanggwanggyo-dong, Sang-kwanggyo-ri, Sanggwan'gyo-ri, 상광교동
 Sanggwangjŏng-ni, 상광정리
 Sanggwanje
 Sanggye-do
-Sanggye-dong, 상계5동
+Sanggye-dong, 상계10동
 Sanggye-p'okp'o, 상계폭포
 Sanggyejaejeongbichokjinjigu, 상계재정비촉진지구
 Sanggyejangamjigu
@@ -23031,7 +23018,7 @@ Sangnae-ri, 상내리
 Sangnagwoldo, Jō-rakugetsu-tō, Kunnakuoru To, Sangnagwŏl-to
 Sangnam-dong, 상남동
 Sangnam-myeon, Jōnan, Jōnan-men, Sangnam-myŏn, 상남면
-Sangnam-ni, Jōnan-ri, 상남리
+Sangnam-ni, Jōnan, 상남리
 Sangnam-ri, 상남리
 Sangnamje
 Sangnang-ni, Sangnim-ni, 산악리
@@ -23063,7 +23050,7 @@ Sangnyulje, 상률제
 Sango-ri, 상오리
 Sangoal-li, 상오안리
 Sangoan-jŏsuji, 상오안저수지
-Sangok-dong, 산곡3동
+Sangok-dong, 산곡1동
 Sangokje, 산곡제
 Sangokjeosuji, 산곡저수지
 Sangokji, 산곡지
@@ -23132,7 +23119,6 @@ Sangsong I-je, Sangsong 2-je
 Sangsong Il-je, Sangsong 1-je
 Sangsong-do, 상송도
 Sangsong-ji, 상송지
-Sangsong-ni, 상성리, 상송리
 Sangsong-ri, 상송리
 Sangsong-soryuji, 상송소류지
 Sangsongje
@@ -23145,6 +23131,7 @@ Sangsunae-ri, 상수내리
 Sangsundonggokji, 상순동곡지
 Sangsuwolji, Sangsuwŏl-chi
 Sangsuwonsuwonji
+Sangsŏng-ni, 상성리, 상송리
 Sangt'aebu-ji, 상태부지
 Sangt'an-jŏsuji, 상탄저수지
 Sangt'aryŏn, 상타련
@@ -23161,7 +23148,7 @@ Sangwang-san, 상왕산
 Sangwangdeungdo, Jō-ōtō-tō, Sangwangdŭng-do, Sawangding Do, So Wantsun
 Sangwol-myeon, Sangwŏl-myŏn, 상월면
 Sangwol-ri, 상월리
-Sangwolbong, 상월불
+Sangwolbong, Sangwolbul
 Sangwolje
 Sangwolji, Sangwŏl-chi
 Sangwolko
@@ -23179,7 +23166,7 @@ Sangwŏn-soryuji, 상원소류지
 Sangyangim-ji, 상양임지
 Sangyeje
 Sangyeobawi, Sangyŏ-bawi
-Sangyeok-dong, 산격3동
+Sangyeok-dong, 산격1동
 Sangyeongjukgogae, Sangyŏngjuk-kogae, 상영죽고개
 Sangyeooreum, Sangyŏ-orŭm, 상여오름
 Sangyong-ji
@@ -23327,7 +23314,7 @@ Sansogogae
 Sansogolgogae
 Sansoje
 Sansongdo, 상송도
-Sansu-dong, 산수2동
+Sansu-dong, 산수1동
 Sansu-ri, 산수리
 Sansuapsan, 삼수앞산
 Sansudongsoryuji, 산수동소류지
@@ -23526,7 +23513,7 @@ Sebetsu-kan, Sebyŏl-got, Sĕbyŏl Gok
 Sebong, Kanŭn-bong
 Sebŏl-soryuji, 세벌소류지
 Sebŏnji-san, 세번지산
-Sech'ŏl-li, Sech'ŏn-dong, 세천리
+Sech'ŏl-li, Sech'ŏn, 세천리
 Sechangji
 Secheong I Je, Secheong 2 Je
 Secheong-ri, 세청리
@@ -23624,7 +23611,7 @@ Seobong-san, Sŏbong-san, 서봉산
 Seobonggol
 Seobongje
 Seobu Il Ji, Seobu 1 Ji, 서부1지
-Seobu-dong, 서부동
+Seobu-dong, 서부1동
 Seobu-ri, 서부리
 Seobujeosuji, Sŏbu-jŏsuji
 Seobujigu
@@ -23645,7 +23632,7 @@ Seochi-ri, 서치리
 Seochido
 Seochije
 Seochiji
-Seocho-dong, 서초3동
+Seocho-dong, 서초1동
 Seocho-gu, 서초구
 Seochon-dong, 서촌동
 Seochon-ri, 서촌리
@@ -23655,10 +23642,10 @@ Seodabeulgol, Sŏdabŭl-gol
 Seodae-jeosuji, Kuil-chŏsuji, 구일저수지
 Seodaegogae, Sŭngjigol-gogae, 승지골고개
 Seodaejeosuji, Sŏdae-jŏsuji
-Seodaemun-gu, Sei-daimommachi, Sŏ-daemun-jŏng, Sŏdaemun-gu, West Gate, 서대문, 서대문구
+Seodaemun-gu, Sei-daimommachi, Seodaemun, Sŏ-daemun-jŏng, Sŏdaemun-gu, West Gate, 서대문구
 Seodaesan, Sadae-san, 사대산
 Seodaesan Dream Resort, 서대산드림리조트
-Seodaesin-dong, 서대신3동
+Seodaesin-dong, 서대신1동
 Seodaesoryuji, Sŏt'ae-soryuji, 서대소류지, 서태소류지
 Seodamgolbong
 Seodamgolmot, 서담골못
@@ -23831,7 +23818,7 @@ Seokjang-ri, 석장리
 Seokjangje, 석장제
 Seokje, 석제
 Seokjeok-eup, Sekiseki, Sekiseki-men, Sŏkchŏk, Sŏkchŏng-myŏn, 석적읍
-Seokjeon-dong, 석전2동
+Seokjeon-dong, 석전1동
 Seokjeon-ri, 석전리
 Seokjeong-ri, 석정리
 Seokjeongcheon, Sŏksŏng-ch'ŏn, 석정천
@@ -23868,7 +23855,7 @@ Seokseong-san, Sŏksŏng-san, 석성산
 Seokseongje, 석성제
 Seokseongsan, 석성산
 Seoksilji, Sŏksil-chi, 석실지
-Seoksu-dong, 석수3동
+Seoksu-dong, 석수1동
 Seoksucheyuk-gongwon, Seŏksuch'eyuk-kongwŏn, 석수체육공원
 Seoktaesan, 석태산
 Seoktanje, 석탄제
@@ -23919,7 +23906,7 @@ Seonae-ri, 서내리
 Seonakdonggang, 서낙동강
 Seonam
 Seonam-dong, Seon-am-dong, Sŏnam-dong, 仙岩洞, 서남동
-Seonam-ri, 선암리
+Seonam-ri, 서남리
 Seonambong, Sŏnam-bong
 Seonambongsan
 Seonamcheon
@@ -23944,7 +23931,7 @@ Seonbandarigogae, 선반다리고개
 Seonbarigogae, 선바리고개
 Seonbawi
 Seonbawisan, Sŏnbawi-san
-Seonbu-dong, 선부2동
+Seonbu-dong, 선부1동
 Seonchon-ri, 선촌리
 Seondalligol, Sŏndalli-gol
 Seondalmitsan, Sŏndalmis-san
@@ -24124,7 +24111,7 @@ Seongmullyeong, Sŏngmul-lyŏng, 석문령
 Seongmunje, 석문제
 Seongmunjeosuji
 Seongmyosan
-Seongnae-dong, 성내3동
+Seongnae-dong, 성내1동
 Seongnae-myeon, 성내면
 Seongnae-ri, 성내리
 Seongnaecheon
@@ -24134,7 +24121,7 @@ Seongnaemigol, Sŏngnaemi-gol
 Seongnaesoryuji, 성내소류지
 Seongnakcheon, 성락천
 Seongnakje, Sŏngnak-che, 성낙제
-Seongnam-dong, 석남3동, 성남동
+Seongnam-dong, 석남1동, 성남동
 Seongnam-myeon, 성남면
 Seongnam-ri, 성남리
 Seongnam-si, 성남시
@@ -24184,7 +24171,7 @@ Seongseogongdan Sam Danji, Seongseogongdan 3 Danji, 성서공단3단지
 Seongseojigu
 Seongsong-myeon, 성송면
 Seongsongje
-Seongsu-dong, 성수1가2동
+Seongsu-dong, 성수1가1동
 Seongsu-myeon, 성수면
 Seongsucheon
 Seongsusan, Seongsu-san
@@ -24335,7 +24322,7 @@ Seoundongsan, Sŏundong-san
 Seounsan, Sŏun-san, Sŏunsan, 瑞雲山
 Seowon-gu, 서원구
 Seowon-myeon, 서원면
-Seowonbong, 무재등
+Seowonbong, Mujaedeung
 Seowoncheon
 Seowondongsan, Sŏwŏndong-san
 Seowongol, Sŏwŏn-gol
@@ -24354,7 +24341,7 @@ Serim-dong, 서림동
 Seryangje, 세량제
 Seryong-ri, 세룡리
 Seryongje, 세룡제
-Seryu-dong, 세류2동
+Seryu-dong, 세류1동
 Seryu-ri, Seyu-ri, 세류리
 Seryŏm-p'okp'o, 세렴폭포
 Serŏnggol-san, 세렁골산
@@ -24431,7 +24418,7 @@ Shangutei To, Jō-dai-tō, Jōtaitō, Sadae-do, Sangt'ae-do, Santē Tō
 Shape Island, Chiyunkiyoru To, Chuketsuri, Chunggyŏl-to, Jung-gyeol Do, Jūgetsu-tō, Jūketsu-tō
 Sharp Rock
 Shihei-zan, Sabyŏng-san, Sapyongu San, Shihei-san
-Shimpo-ri, Kip'ŭn'gae, Simp'o-ri, 심포리
+Shimpo-ri, Kip'ŭn'gae, Simp'o, 심포리
 Shinei-ri, Chinyŏng-ni
 Shingetsu-ri, 신월리
 Shinkei-ri, Sin'ge-ri, 신계리
@@ -24493,7 +24480,7 @@ Sihaengigogae
 Sihang-ri, 시항리
 Sihangcheon
 Siheung, Shikō-gun, Siheung gun, Sihŭng-gun, Sihŭng-si, Sikŭng, 시흥시
-Siheung-dong, 시흥4동
+Siheung-dong, 시흥1동
 Siheungcheon
 Siheungjeosuji
 Siho-do, Sibŏm-sŏm, 시호도
@@ -24572,7 +24559,7 @@ Simdong-ni
 Simdongjeosuji, Simdong-jŏsuji
 Simel-chi, 시멜지
 Simgeunje
-Simgok-dong, 심곡3동
+Simgok-dong, 심곡1동
 Simgok-ri, 심곡리
 Simgokbon-dong, 심곡본1동
 Simgokje, 심곡제
@@ -24659,7 +24646,7 @@ Sinae-ri, 신애리
 Sinaeji
 Sinajeosuji
 Sinal-li, 신안리
-Sinam-dong, 신암2동
+Sinam-dong, 신암1동
 Sinam-jeosuji, Panggaeul-chŏsuji, 방개울저수지
 Sinam-jŏsuji
 Sinam-mot, 시남못
@@ -24723,15 +24710,15 @@ Sinbŏm-ni, 신법리
 Sinch'ang-jŏsuji, Sinch'ang-ji, 신창저수지
 Sinch'ang-ni, 신창리
 Sinch'angdo, Shinch'angdo, 신초도
-Sinch'ol-li, 신천리, 신촌리
 Sinch'on-je
 Sinch'on-ji, 신촌지
 Sinch'on-jŏsuji
-Sinch'on-ni, Kasŭl-li, 신촌리
 Sinch'on-soryuji, 신촌소류지
 Sinch'u-do
 Sinch'ung-ni, 신충리
+Sinch'ŏl-li, 신천리, 신촌리
 Sinch'ŏn-ch'ŏn
+Sinch'ŏn-ni, Kasŭl-li, 신촌리
 Sinch'ŏng-ni
 Sinchang-dong, 신창동
 Sinchang-myeon, Sinch'ang-myŏn, 신창면
@@ -24739,7 +24726,7 @@ Sinchang-ri, 신창리
 Sinchangje
 Sinchangjigu, Sŏnch'ang
 Sincheon, Kanghwa-ch'ŏn, Shin-sen, Sin-ch'ŏn, Sinnae-mul
-Sincheon-dong, 신천4동
+Sincheon-dong, 신천3동
 Sincheon-ri, 신천리
 Sincheongri, 신청리
 Sincheonje
@@ -24754,7 +24741,7 @@ Sinchon-jeosuji
 Sinchon-ri, 신촌리
 Sinchonje
 Sinchonjeosuji
-Sinchuji, Choje-jŏsuji, 조제저수지
+Sinchuji, Choje-jŏsuji, Jojejeosuji
 Sinchŏlli-jŏsuji, 신천리저수지
 Sindae-dong, 신대동
 Sindae-eulje, 신대을제
@@ -24762,13 +24749,13 @@ Sindae-jeosuji, 신대저수지
 Sindae-jŏsuji, 신대저수지
 Sindae-ri, 신대리
 Sindaebaehu-danji, 신대배후단지
-Sindaebang-dong, 신대방2동
+Sindaebang-dong, 신대방1동
 Sindaeje
 Sindaeje I Je, Sindaeje 2 Je, 신대제2제
 Sindaeje Il Je, Sindaeje 1 Je, 신대제1제
 Sindaeng-ni, Sint'aeng-ni, 신택리
 Sindal-li, Sinwŏn-ni, 신달리
-Sindang-dong, 신당동
+Sindang-dong, 신당5동
 Sindang-gogae, 신당고개
 Sindang-je
 Sindang-ji
@@ -24795,7 +24782,7 @@ Sindeokji, Sindŏk-chi, 신덕지
 Sindeung-myeon, 신등면
 Sindeungje
 Sindeungjeosuji
-Sindo, Felicie Island, Shin-tō, Sin-tō
+Sindo, Felicie Island, Shin-tō, Sin Tō
 Sindo-dong, 신도동
 Sindo-ri, Sinsŏm-ni, 신도리
 Sindoan_myeon, Sindoan-myeon
@@ -24803,7 +24790,6 @@ Sindojeosuji, Sindo-jŏsuji
 Sindong-je
 Sindong-jŏsuji, 신동저수지
 Sindong-myeon, Sindong-myŏn, 신동면
-Sindong-ni, 신덕리, 신동리
 Sindong-ri, 신동리
 Sindong-soryuji, 신동소류지
 Sindong-ŭp, Sindong-eup, 신동읍
@@ -24817,6 +24803,7 @@ Sindun-myeon, 신둔면
 Sindŏg-yŏmjŏn, 신덕염전
 Sindŏgil-che, 신덕1제
 Sindŏk-che, 신덕제
+Sindŏng-ni, 신덕리, 신동리
 Sineom-ri, Sinŏm-ni, 신엄리
 Sineum-ri, 신음리
 Sineupcheon, 신읍천
@@ -24848,7 +24835,7 @@ Singigongwon
 Singije
 Singijeosuji, Sin'gi-jŏsuji
 Singiji
-Singil-dong, 신길5동
+Singil-dong, 신길1동
 Singilgeullin-gongwon, Sin'gilgŭllin-gongwŏn, 신길근린공원
 Singimalmot, 신기말못
 Singiryeonggogae, Sin'giryŏng-gogae, 신기령고개
@@ -24856,7 +24843,7 @@ Singisan, Sin'gi-san
 Singisoryuji, 상백현소류지, 신기소류지
 Singna-do, Shingna-do
 Singnyeon-ri, 식련리
-Singok-dong, 신곡2동
+Singok-dong, 신곡1동
 Singok-ri, 신곡리
 Singokjeosuji, 신곡저수지
 Singokjigu, 신곡지구
@@ -24889,7 +24876,7 @@ Sinhang-ni, Shinkaku, Sinhang, 신학리, 신항리
 Sinhang-soryuji, 신항소류지
 Sinhangje
 Sinhanjeosuji
-Sinheung-dong, 신흥3동
+Sinheung-dong, 신흥1동
 Sinheung-ri, 신흥리
 Sinheungcheon, Sinhŭng-ch'ŏn
 Sinheungjae
@@ -24931,7 +24918,7 @@ Sinin-dong, 신인동
 Sinjado, Saedŭng
 Sinjae
 Sinjak-ri, 신작리
-Sinjang-dong, 신장동
+Sinjang-dong, 신장1동
 Sinjang-ni, Shinjong-ri, 신장리
 Sinjang-ri
 Sinjangje
@@ -24946,7 +24933,7 @@ Sinjeon-soryuji, 신전소류지
 Sinjeoncheon
 Sinjeong, Sinjŏng-dong, 신정동
 Sinjeong Sam Jigu, Sinjeong 3 Jigu, 신정3지구
-Sinjeong-dong, 신정동
+Sinjeong-dong, 신정1동
 Sinjeong-ri, 신정리
 Sinjeongbangjuk, 신정방죽
 Sinjeongho
@@ -24980,7 +24967,7 @@ Sinjŏn-p'o, 신전포
 Sinjŏn-soryuji, 신전소류지
 Sinjŏng-ji
 Sinjŏng-jŏsuji, 신정저수지
-Sinjŏng-ni, Sinjŏng-ri, 신정리
+Sinjŏng-ni, Sinjŏng-dong, 신정리
 Sinjŏnjeil-soryuji, 신전제1소류지
 Sinjŭnggŭn
 Sinkang Sudo, Shin-gang Sudo, Shingen Suido, Shinkō-suidō, Sin'gang-sudo, Sinkō Suidō
@@ -25022,7 +25009,6 @@ Sino-ji, 신오지
 Sino-ri, 신오리
 Sinoe-ri
 Sinokje, 신옥제
-Sinol-li, Shinon-ri, Sinŏn-ni, 신언리, 신온리
 Sinong-ni, 신옥리
 Sinp'a-ri, 신파리
 Sinp'o-ri, 신포리
@@ -25049,14 +25035,14 @@ Sinpungjae
 Sinpungje
 Sinpungjeosuji
 Sinpungji
-Sinpyeong-dong, 신평2동
+Sinpyeong-dong, 신평1동
 Sinpyeong-myeon, Sinp'yŏng-myŏn, 신평면
 Sinpyeong-ri, 신평리
 Sinpyeongje
 Sinpyeongjeosuji
 Sinpyeongji
 Sinri Sen, Shinri-sen, Silli-ch'ŏn, Sinni-ch'ŏn
-Sinsa-dong, 신사2동
+Sinsa-dong, 신사1동
 Sinsa-ri, 신사리
 Sinsa-soryuji, 신사소류지
 Sinsaje
@@ -25098,7 +25084,6 @@ Sinsije
 Sinsohyeon-dong, 신소현동
 Sinsong-jeosuji, 신송저수지
 Sinsong-ji, Kobuk-che, 신송지
-Sinsong-ni, 신석리, 신성리, 신속리, 신송리
 Sinsong-ri, 신송리
 Sinsongje
 Sinsoyang-ji, 신소양지
@@ -25118,6 +25103,7 @@ Sinsŏn-p'okp'o, 신선폭포
 Sinsŏndae-yuwŏnji
 Sinsŏng-dong
 Sinsŏng-gyegok, 신성계곡
+Sinsŏng-ni, 신석리, 신성리, 신속리, 신송리
 Sint'an-ni
 Sint'ang-ni, 신탁리
 Sint'ong-ni, 신통리
@@ -25134,7 +25120,6 @@ Sinui-myeon, 신의면
 Sinuije
 Sinujae
 Sinuji-do, Shini-tō, Shinuchi-tō, Sinŭi-do, 신의도
-Sinul-li, Sinun-ni, 신운리, 신은리
 Sinusiljeosuji, Sinusil-chŏsuji
 Sinwang-je, 신왕제
 Sinwang-jŏsuji, 신왕저수지
@@ -25142,7 +25127,7 @@ Sinwang-ni, 신왕리
 Sinwang-san, 신왕산
 Sinwanjeji
 Sinwiryang-ji, 신위량지
-Sinwol-dong, 신월7동
+Sinwol-dong, 신월1동
 Sinwol-ri, 신월리
 Sinwolcheon
 Sinwolhuje
@@ -25182,7 +25167,9 @@ Sinyŏng-jŏsuji, 신영저수지
 Sinyŏng-ni
 Sinyŏng-soryuji, 신영소류지
 Sinŏ-san, Shinŏ San
+Sinŏl-li, Shinon-ri, Sinŏn-ni, 신언리, 신온리
 Sinŭit'ŏ-gogae, 신의터고개
+Sinŭl-li, Sinun-ni, 신운리, 신은리
 Sinŭm-ni, 신음리
 Sinŭn-soryuji, 신은소류지
 Sinŭp-tong, Shinyū-ri, 신읍동
@@ -25209,7 +25196,6 @@ Sirijae, 시리재
 Sirikkol-mot, 시릿골못
 Sirisan, 시리산
 Siru-bong, Jeung Bong, Shiru Bong, Shirubon-san, Shō-bu, Sō-hō, 시루봉
-Siru-san, 시루산, 시르산
 Sirubawi, 시루바위
 Sirubong, 시루봉
 Sirubong-san, 시루봉산
@@ -25226,6 +25212,7 @@ Siryegoljeosuji, Siryegol-chŏsuji, 시례골저수지
 Sirŏk-to, 실억도
 Sirŏp-chi, 실업지
 Sirŏp-chŏsuji, 실업저수지
+Sirŭ-san, 시루산, 시르산
 Sisal-li, 시산리
 Sisan-ri, 시산리
 Sisando, Hooper Island, Shinsan-to, Shisan-tō, Sisan Tŏ
@@ -25244,17 +25231,14 @@ Siyado
 Siyeonggoljae
 So Gu-eulbi Do, Chagŭn'guŭlbi-sŏm, Shō-kyūotsuhi-tō, So-kuŭlbi-do, Soguŭlbi-do, Syō-Kyūotuhi Tō
 So To, Sei-nai-tō, Seijō-tō, So-Nopu Tō, Sŏil-to, Sŏing-do, Sŏnae-do, Sŏnŏm-do, Sŏnŏp-to
-So-do
 So-gogae, 소고개
 So-gol
 So-got, 소곶
 So-jae
 So-je
-So-san
 Soa-soryuji, 소아소류지
 Soakdo, Soak-to, 소악도
 Soalmisan
-Soam-ni, 서암리, 소암리
 Soam-soryuji, 소암소류지
 Soamje
 Soan-do, Shoan-tō, Syoan Tō, 소안도
@@ -25304,7 +25288,6 @@ Sochuk-to
 Sochusan, Soch'u-san
 Sochwido, Soch'wi-do
 Sochŏ-do
-Sodae-san, 소대산
 Sodaegisan
 Sodaegudo, Chodaegu-do, Shō-daikō-tō
 Sodaein-do, Cone Island, Saedaein, Sodŭng-do, Sŏdein, Ubae-do
@@ -25331,7 +25314,6 @@ Sodeurangseom, 소드랑섬
 Sodo, So-yŏm
 Sodo-dong, 소도동
 Sodong-do
-Sodong-ni, 소동리
 Sodong-ri, 소동리
 Sodongji
 Sodorye-do
@@ -25341,6 +25323,7 @@ Sodurang-sŏm
 Sodurangbong, 소두랑봉
 Soduri-do, So-turi, Soduri-sŏm
 Soduryangdo, 소두량도
+Sodŏng-ni, 소동리
 Sodŭng-san, 소등산
 Soe-gol, 쇠골
 Soe-ryŏng, 쇄령
@@ -25393,7 +25376,6 @@ Sogijŏm-do, Chagŭn'gijŏm, Chagŭn-kijŏm
 Sogilsan-do, Chagŭn'gilsan-do, So-kilsan-do
 Sogobiuni
 Sogocha To, Sei-kyoji-tō, Seikyoshitō, Sokotya Tō, Sŏ-kŏch'a-do, Sŏgŏch'a-do
-Sogok-chi, 서곡지, 소곡지
 Sogok-san, 소곡산
 Sogokje, Sosach'ŏn-ji, 소곡제, 소사천지
 Sogokjeosuji, 소곡저수지
@@ -25402,7 +25384,6 @@ Sogolgogae
 Sogoljae
 Sogolmot, 소골못
 Sogong-dong, 소공동
-Sogong-ni, 서곡리, 소곡리
 Sogong-nyŏng, 소공령
 Sogorimgol, 소고림골
 Sogu-do, Shō-kyū-tō, 소구도
@@ -25424,7 +25405,7 @@ Sogwicheongyegok, 소귀천계곡
 Sogwigogae
 Sogye-do, Chagŭndŏk-sŏm, Sindŏk-to, Sodeog Do, Sodŏk-to
 Sogye-ri, 소계리
-Sogyebang-san, 소계방산
+Sogyebang-san, Sogyebangsan
 Sogyejae
 Sogyeongdo, Shōkei-tō, Sogyŏng-do
 Sogyŏng-yŏ, 소경여
@@ -25433,7 +25414,7 @@ Sogŭm-mot, 소금못
 Sogŭmgang-onch'ŏn, 소금강온천
 Sogŭmgang-san
 Sogŭn-jŏsuji, 소근저수지
-Soha-dong, 소하2동
+Soha-dong, 소하1동
 Sohak-san, 소학산
 Sohakdongje, 소학동제
 Sohakje, 소학제
@@ -25443,7 +25424,6 @@ Sohangando, Sohan'gan-yŏ
 Soheugsan Island, Kakyo To, Ross Island, Shōkokusantō, Shōkokuzan-tō, Soheugsan-do, Sohŭksan-do, Syō-kokuzan Tō
 Soho-dong
 Soho-je
-Soho-ri, 서호리, 소호리
 Sohoe-do
 Sohoenggan-do, Shō-okan-tō, Syō-Ōkan Tŏ
 Sohoenggyŏng-do
@@ -25454,7 +25434,6 @@ Sohoje
 Sohol-eup, Soheul-eup, 소흘읍
 Sohoryeong, 소호령
 Sohwa-do, Shō-ka-tō, Syō-ka Tō
-Sohwa-ji, 소화지
 Sohwa-ri, 소화리
 Sohwado
 Sohwang-do
@@ -25512,7 +25491,6 @@ Sojungjeosuji
 Sojungsan
 Sojŏng-jŏsuji, 소정저수지
 Sojŏng-mot, 소정못
-Sojŏng-ni, 소정리
 Sok'odŭng-san, 소코등산
 Sokbong, 속봉
 Sokch'o-jŏsuji, 속초저수지
@@ -25530,7 +25508,6 @@ Soki Po, Seiki-ho, Seki Po, Sŏgi-p'o, Sŏgwi-p'o
 Sokjeonje, 속전제
 Sokkilsan-do
 Sokkol-soryuji, 솟골소류지
-Sokkong-ni, 석곡리, 속곡리
 Sokkŭm-san
 Soksa-ch'ŏn
 Soksa-gol, Soksakol, 속사골
@@ -25642,12 +25619,8 @@ Sonburi-jae, 손부리재
 Sonburigi-bawi, 손부리기바위
 Sonch'ang-ni, 선창리
 Sondang-mot
-Sondong-ni, 선동리, 손동리
 Song-ch'ŏn, Shō-sen
 Song-do, Kumu To, Mŏng-sŏm, Shongu To, Shō-tō, Shōdan-tō, Son Somu, Song-sŏm, Songdan-do, Songjo-do, Soru Somu, Soru To, Syō Tō, Sŭng-sŏm
-Song-gol
-Song-ni, 석리, 성리, 속리
-Song-san
 Songa-ji-mot, 송아지못
 Songajimok, 송아지목
 Songak-chŏsuji, 송악저수지
@@ -25658,8 +25631,6 @@ Songakjeosuji, 송악저수지
 Songaksan, 송악산
 Songam-dong, 송암동
 Songam-ji, 송암지
-Songam-jŏsuji, 송암저수지
-Songam-ni, Shōgan, 성암리, 송암리
 Songam-ri, 송암리
 Songamcheon
 Songamgongeopdanji, Songam-gongŏptanji, 송암공업단지
@@ -25675,10 +25646,9 @@ Songbaeje
 Songbaekji, 송백지
 Songbangcheon
 Songbuk-dong, 송북동
-Songbung-ni, 성북리, 송북리
 Songbyŏn-soryuji, 송변소류지
 Songbyŏniho-soryuji, 송변2호소류지
-Songch'ol-li, 성촌리, 송천리, 송촌리
+Songch'ŏl-li, 성촌리, 송천리, 송촌리
 Songch'ŏn-dong
 Songch'ŏn-gyegok, 송천계곡
 Songch'ŏn-ji
@@ -25700,7 +25670,6 @@ Songchongogae
 Songchonje
 Songchonji
 Songchugolpokpo, Songch'u-p'okp'o, 송추골폭포, 송추폭포
-Songdae-ri, 성대리, 송대리
 Songdaebong
 Songdaegongwon
 Songdam-ji, 송담지
@@ -25723,8 +25692,6 @@ Songgang-ni, 송강리
 Songgeum-ri, 송금리
 Songgeumje
 Songgh'on-ni, 송촌리
-Songgi-ri, 성기리, 송기리
-Songgi-soryuji, 성기소류지, 송기소류지
 Songgije
 Songgogae
 Songgok, 송곡
@@ -25745,7 +25712,6 @@ Songgol-mot, 송골못
 Songgol-soryuji, 송골소류지
 Songgolji
 Songgolmot, 송골못
-Songgong-ni, Songgol-li, Sŏnggok-tong, 성곡리, 송곡리
 Songgongsan, Songgon-san
 Songgongseonchakjang, 송공선착장
 Songgop-pawi, 송곳바위
@@ -25757,13 +25723,11 @@ Songgwang-je
 Songgwang-myeon, 송광면
 Songgwang-soryuji, 송광소류지
 Songgwangje
-Songgye-ri, Songge-ri, 성계리, 송계리
 Songgye-san, 송계산
 Songgyecheon
 Songgyeje
 Songha-dong, 송하동
 Songha-ji, 송하지
-Songha-ri, 성하리, 송하리
 Songhae-myeon, 송해면
 Songhak Il Jeosuji, 송학1저수지
 Songhak-che, 송학제
@@ -25782,13 +25746,12 @@ Songhan-soryuji, 송한소류지
 Songhang-ni, 송학리
 Songhangje
 Songho-gwangwangji, 송호관광지
-Songho-ri, 성호리, 송호리
 Songhodong-soryuji, 송호동소류지
 Songhoji
 Songhwa-ri, 송화리
 Songhwanggol
 Songhyeolli, 송현리
-Songhyeon-dong, 송현3동
+Songhyeon-dong, 송현1동
 Songhyeon-ri, 송현리
 Songhyeongongwon
 Songhyeonje
@@ -25813,7 +25776,7 @@ Songjangnalsae-san, 송장날새산
 Songjeol-dong, 송절동
 Songjeon-ri, 송전리
 Songjeong Je I Je, Songjeong Je 2 Je
-Songjeong-dong, 송정동
+Songjeong-dong, 송정1동
 Songjeong-haesuyokjang, Songjŏng-haesuyokchang, 송정해수욕장
 Songjeong-ri, 송정리
 Songjeongdwitsan, 송정뒷산
@@ -25842,7 +25805,6 @@ Songjukcheon, 송죽천
 Songjukje, Songjuk-che, 송죽제
 Songjung-dong, 송중동
 Songjung-ni
-Songjŏl-li, 성전리, 송전리, 평활리
 Songjŏn-ji
 Songjŏng-dong, Songch'on-ni, Songchŏng-ni
 Songjŏng-ji
@@ -25850,14 +25812,13 @@ Songjŏng-jŏsuji
 Songjŏng-ni, Shōtei-ri, 송정리
 Songjŏng-soryuji, 송정소류지
 Songjŏngi-jŏsuji
-Songma-ri, 석마리, 송마리
 Songmun-ni
 Songmyeon-ri, 송면리
 Songmyeonggol
 Songna-jeosuji, Songna-jŏsuji, 송나저수지
 Songna-myeon, Songra-myeon, 송라면
 Songnae-do
-Songnae-dong, 송내2동
+Songnae-dong, 송내1동
 Songnaegokji, 송내곡지
 Songnaeje
 Songnaeji
@@ -25865,7 +25826,6 @@ Songnaejigu
 Songnak-pong, 송낙봉
 Songnakbong, 송락봉
 Songnakgolmot, 송락골못
-Songnam-ni, 성남리, 송남리
 Songnamji
 Songnang-got
 Songnasan, 송라산
@@ -25875,7 +25835,7 @@ Songni-ji, 속리지
 Songni-ri, 송리리
 Songni-san
 Songnigol, Songni-gol, 송리골
-Songnim-dong, 송림3·5동, 송림6동
+Songnim-dong, 송림1동, 송림3·5동
 Songnim-jae, 송림재
 Songnim-je, 송림제
 Songnim-ji, 송림지
@@ -25900,7 +25860,7 @@ Songp'o-dong, 송포동
 Songp'o-ri, 송포리
 Songp'ung-jŏsuji, 송풍저수지
 Songp'ung-ni, 송풍리
-Songpa-dong, 송파2동
+Songpa-dong, 송파1동
 Songpa-gu, 송파구
 Songpo-dong, 송포동
 Songpohang
@@ -25911,14 +25871,11 @@ Songsa-ri, 송사리
 Songsaeng-ni, 송생리
 Songsai got, Seisaki-kan, Sŏngsagi-got, Sŏngsasa-got
 Songsajae
-Songsal-li, Sangsan-ni, Shōsan, Shōzan-ri, 성산리, 송산리, 송살리
 Songsam-mot, 송삼못
 Songsam-ni, 송삼리
 Songsam-soryuji, 송삼소류지
 Songsan-dong
 Songsan-jeosuji, 송산저수지
-Songsan-ji
-Songsan-jŏsuji, 송산저수지
 Songsan-myeon, 송산면
 Songsan-ni
 Songsan-ri, 송산리
@@ -25939,7 +25896,6 @@ Songseolgol, Songsŏl-gol
 Songseong-ri, 송성리
 Songseongji
 Songseonjeosuji
-Songsi-ri, 성시리, 송시리
 Songsil
 Songsŏk-chŏsuji, 송석저수지
 Songsŏl-li, 송선리
@@ -25955,8 +25911,6 @@ Songunje
 Songwol-dong, 송월동
 Songwolje
 Songwŏl-chi, 송월지
-Songwŏl-li, 성원리, 성월리, 송원리, 송월리
-Songwŏn-ji, 성원지, 송원지
 Songyeojaseonchakjang, 송여자선착장
 Songyeon-ri, 송연리
 Songyong-ni, 송용리
@@ -26057,12 +26011,11 @@ Sosa-dong, 소사동
 Sosa-gu
 Sosa-ri, 소사리
 Sosa-soryuji, 소사소류지
-Sosabon-dong, 소사본동
+Sosabon-dong, 소사본3동
 Sosado
 Sosaemok, 소새목
 Sosagogae
 Sosajeosuji, Chinhae, Chinhae Reservoir, Chinhae-suwŏnji, Chinkai-suigenchi, Sosa-jŏsuji, Ung Dong Reservoir
-Sosal-li, Sosan-ni, Wŏllam-ni, 서산리
 Sosalbong
 Sosambu-do, Chagŭnsambu-do, Mosquito Islands, Shosanfutō, Shosanpu To, Shō-sampu-tō, Syō-sanpu Tō
 Sosambudo
@@ -26095,7 +26048,6 @@ Sosirangbong, 소시랑봉
 Soso-ri, 소소리
 Sosodangdo
 Sosodong-do, Shō-shōdō-tō, Sosodang-do, Sosodong-sŏm
-Sosong-ni, Sosŏng-dong, 소성리
 Sosongdo
 Sosongnisan, 소속리산
 Sosongyeo, Chagŭnso-yŏm, Jakeunsoyeom, 작은소염
@@ -26338,10 +26290,10 @@ Subunchi
 Subyeongongwon
 Subyŏng-san, 수병산
 Such'igumi-gak
-Such'ol-li, 수철리, 수촌리
 Such'on-ni
 Such'uk-chi, 수축지
 Such'wigol-mot, 수취골못
+Such'ŏl-li, 수철리, 수촌리
 Such'ŏng-do
 Such'ŏng-jŏsuji
 Such'ŏng-ni, 수청리
@@ -26382,7 +26334,6 @@ Sudong-ji
 Sudong-jŏsuji
 Sudong-myeon, 수동면
 Sudong-myŏn, 수동면
-Sudong-ni, Kŭmsu-ri, Suidō-ri, 금수리, 수동리
 Sudong-ri, 수동리
 Sudong-san
 Sudong-soryuji, 수동소류지
@@ -26398,6 +26349,7 @@ Sudosan
 Sudoseonchakjang, 수도선착장
 Sudŏk-chŏsuji, 수덕저수지
 Sudŏk-san, 수덕산
+Sudŏng-ni, Kŭmsu-ri, Suidō-ri, 금수리, 수동리
 Sueocheon, Suŏ-ch'ŏn
 Sueojeosuji, Suŏ-ho, Suŏ-ji
 Suga-ri, 수가리
@@ -26464,7 +26416,7 @@ Sujangji
 Suje-bong, Muji Pon, Suisai-hō, Sujŏe-bong
 Sujeolbangchuk, 수절방축
 Sujeom
-Sujeong-dong, 수정4동
+Sujeong-dong, 수정1동
 Sujeong-gu
 Sujeong-ri, 수정리
 Sujeongbawigol
@@ -26527,7 +26479,7 @@ Sumal-li, 수만리
 Sumalje
 Suman-san, 수만산
 Sumang-nyŏng, 수망령
-Sumanje, Suman-dong, Suman-ni
+Sumanje, Suman, Suman-ni
 Sumbakgol, Sumbak-kol, 숨박골
 Sumgoljae
 Sumin-dong, 수민동
@@ -26550,7 +26502,7 @@ Sumyeonje, 수명제
 Sumŭnmŏri-san, 숨은머리산
 Suna-do
 Sunado
-Sunae-dong, 수내동
+Sunae-dong, 수내1동
 Sunam-ni, 수남리
 Sunam-ri, 수남리
 Sunamje
@@ -26569,7 +26521,7 @@ Sunchonje
 Sundamgyegok, 순담계곡
 Sungamjeosuji, Chŏngjang-soryuji, 정장소류지
 Sunggokje, 숭곡제
-Sungin-dong, 숭인2동
+Sungin-dong, 숭인1동
 Sungjeongsan
 Sungjiyeomjeon, 숭의염전
 Sungnim-soryuji, 숙림소류지
@@ -26677,7 +26629,7 @@ Suriseom, 수리섬
 Surisoryuji, 수리소류지
 Surit'i-jae, 수리티재
 Suro-bong, 수로봉
-Suroe-ri, Eikan-ri, Yŏnggwal-li, 영관리
+Suroe-ri, Eikan, Yŏnggwal-li, 영관리
 Surogogae, 수로고개
 Surokkol-chi, 수록골지
 Surong-ni
@@ -26789,7 +26741,7 @@ Suworimot, 수월이못
 Suwŏl-chae, 수월재
 Suwŏl-chŏsuji, 수월저수지
 Suwŏl-li, 수원리, 수월리
-Suwŏl-san, 수월산
+Suwŏl-san, Suwolsan
 Suya-ji, 수야지
 Suyabang-do
 Suyakcheon, 수약천
@@ -26809,7 +26761,7 @@ Suyeongman, Suiei-wan, Suyon Wan, Suyŏng-man
 Suyeongsoryuji, 수영소류지
 Suyong-ji, 수용지
 Suyongchu-jeosuji, Suyongch'u-jŏsuji, 수용추저수지
-Suyu-dong, 수유2동
+Suyu-dong, 수유1동
 Suyŏng-san, 수영산
 Suyŏng-sŏ
 Suyŏngmal-gol, 수영말골
@@ -26831,10 +26783,13 @@ Sylvia Group, Gocha Gunto, Kotya Guntō, Kyoji Group, Kyoji-guntō, Kyojikuntō,
 Sylvia Rock, Jori-gan, Yŏri-am
 Syoti Kan, Shochi-kan, Soch'i-got, Sochi Kan
 Sŏ-ch'o, Black Rock
+Sŏ-do
 Sŏ-man, 서만
 Sŏ-myŏn, 서면
 Sŏ-ri, 서리
+Sŏ-san
 Sŏ-sudo
+Sŏam-ni, 서암리, 소암리
 Sŏbanggol-mot, 서방골못
 Sŏbanggol-soryuji, 서방골소류지
 Sŏbu-ji, 서부지
@@ -26852,6 +26807,7 @@ Sŏch'o-ri, 서초리
 Sŏch'ojŏng-ni, 서초정리
 Sŏch'ŏl-li, 서천리
 Sŏdae-ri
+Sŏdae-san, 소대산
 Sŏdaesil-mot, 서대실못
 Sŏdaesilgok-chi, 서대실곡지
 Sŏdang-gol
@@ -26868,8 +26824,10 @@ Sŏgaŭm-mal, Sŏgaeum-mal
 Sŏgiam-san, 석이암산
 Sŏgoch'a-hang
 Sŏgodo-ri, Kŭmma, 서고도리
+Sŏgok-chi, 서곡지, 소곡지
 Sŏgok-chŏsuji, 서곡저수지
 Sŏgok-tong, 서곡동
+Sŏgong-ni, 서곡리, 소곡리
 Sŏgu-dong
 Sŏgu-ri, 석우리
 Sŏgwang-dong, 석왕동
@@ -26879,8 +26837,10 @@ Sŏgyŏngnyŏlbi-do, Manoru, West Clifford
 Sŏgŏn-do
 Sŏha-myŏn, Seoha-myeon, 서하면
 Sŏhal-li
+Sŏho-ri, 서호리, 소호리
 Sŏhong-ni, Seikō-ri, Sŏhong, 서흥리
 Sŏhwa-ch'ŏn
+Sŏhwa-ji, 소화지
 Sŏhwa-san, 서화산
 Sŏhwa-soryuji, 서화소류지
 Sŏhyŏndŏk
@@ -26893,6 +26853,7 @@ Sŏjangga-ji, 서장가지
 Sŏje-ri, 서제리
 Sŏji-gogae, 서지고개
 Sŏjŏl-li, Sijŏn-ni, 서전리
+Sŏjŏng-ni, 소정리
 Sŏk-san, 석산
 Sŏk-to, 석도, 흑덕서
 Sŏkch'ang-ni
@@ -26921,6 +26882,7 @@ Sŏkkang-ni, 석강리
 Sŏkki-san, Sŏkkiam, 석기산
 Sŏkkok-chŏsuji, 석곡저수지
 Sŏkkok-soryuji, 석곡소류지
+Sŏkkong-ni, 석곡리, 속곡리
 Sŏkku-dong, 석구동
 Sŏkkye-ri, 석계리
 Sŏkkyo-je, 석교제
@@ -26992,7 +26954,7 @@ Sŏnam-jŏsuji
 Sŏnam-ni, 선암리
 Sŏnam-san
 Sŏnang-gogae
-Sŏnang-gol, 선앙골
+Sŏnang-gol, 서낭골
 Sŏnangdang-gogae
 Sŏnangdang-mot, 서낭당못
 Sŏnangjae
@@ -27005,23 +26967,31 @@ Sŏnch'ol-li, 관광유원지
 Sŏndae-am, 선대암
 Sŏndal-san
 Sŏndan-dong, 선단동
+Sŏndong-ni, 선동리, 손동리
 Sŏndong-soryuji, 선동소류지
 Sŏndongjei-soryuji, 선동제2소류지
 Sŏndu-bawi, 선두바위
 Sŏndŭrae, 선드래
+Sŏng-gol
 Sŏng-jae
+Sŏng-ni, 석리, 성리, 속리
+Sŏng-san
+Sŏngam-jŏsuji, 송암저수지
+Sŏngam-ni, Shōgan, 성암리, 송암리
 Sŏngam-san
 Sŏngan-san, 성안산
 Sŏngbi-jŏsuji, 성비저수지
 Sŏngbong-san, 성봉산
 Sŏngbuk-chi, 성북지
 Sŏngbul-orŭm
-Sŏngbŏm-ni, Shōhō-dō, Sŏngbŏp-tong, 성법리
+Sŏngbung-ni, 성북리, 송북리
+Sŏngbŏm-ni, Shōhō, Sŏngbŏp-tong, 성법리
 Sŏngbŏm-nyŏng, 성범령
 Sŏngbŏp-soryuji, 성법소류지
 Sŏngch'i-san
 Sŏngch'on-je, 성촌제
 Sŏngch'ŏkkol-soryuji, 성척골소류지
+Sŏngdae-ri, 성대리, 송대리
 Sŏngdae-san, 성대산
 Sŏngdal-soryuji, 성달소류지
 Sŏngdang-ni, 성당리
@@ -27032,12 +27002,18 @@ Sŏngdŏk-chŏsuji, 성덕저수지
 Sŏngdŏk-pong, 성덕봉
 Sŏngdŏk-tong, 성덕동
 Sŏngga-ri, 성가리
+Sŏnggi-ri, 성기리, 송기리
+Sŏnggi-soryuji, 성기소류지, 송기소류지
+Sŏnggong-ni, Songgok-tong, Songgol-li, 성곡리, 송곡리
 Sŏnggumi-hang, 성구미항
 Sŏnggye-ji, 성계지
+Sŏnggye-ri, Songge-ri, 성계리, 송계리
 Sŏnggyo-ji, 성교지
 Sŏnggŏ-san
 Sŏnggŭm-ni
 Sŏngha-jŏsuji, 성하저수지
+Sŏngha-ri, 성하리, 송하리
+Sŏngho-ri, 성호리, 송호리
 Sŏnghwang-gol
 Sŏnghwang-ni, 성황리
 Sŏnghyŏn-soryuji, 성현소류지
@@ -27052,8 +27028,10 @@ Sŏngju-ri, 성주리
 Sŏngju-san
 Sŏngju-sŏm, 성주섬
 Sŏngjugoryŏngt'ogwang-san, 성주고령토광산
+Sŏngjŏl-li, 성전리, 송전리, 평활리
 Sŏngjŏn-soryuji, 성전소류지
 Sŏngjŏng-gongwŏn
+Sŏngma-ri, 석마리, 송마리
 Sŏngmae-ri
 Sŏngmang-ni, 석막리
 Sŏngmo-ri, 석모리
@@ -27069,6 +27047,7 @@ Sŏngnae-ri, 성내리
 Sŏngnam-ch'ŏn
 Sŏngnam-jae, 성남재
 Sŏngnam-ji
+Sŏngnam-ni, 성남리, 송남리
 Sŏngni-soryuji, 성리소류지
 Sŏngnyong-ni, Sŏgyong-ni
 Sŏngnyu-san, 성류산
@@ -27077,9 +27056,13 @@ Sŏngnyŏng-san, 성령산
 Sŏngp'yŏng-dong
 Sŏngsa-gogae, 성사고개
 Sŏngsa-ji, 성사지
+Sŏngsal-li, Sangsan-ni, Shōsan, Shōzan-ri, 성산리, 송산리, 송살리
 Sŏngsan-bando, Josan-hantō, Sŏngsan-pando
+Sŏngsan-ji
+Sŏngsan-jŏsuji, 송산저수지
 Sŏngsan-yaksut'ŏ, 성산약수터
 Sŏngsanilcu'ul-bong, Seongsan Ilchulbong
+Sŏngsi-ri, 성시리, 송시리
 Sŏngsu-myŏn, 성수면
 Sŏngsu-ri, 성수리
 Sŏngsu-san
@@ -27087,6 +27070,8 @@ Sŏngsŏng-dong, 성성동
 Sŏngt'ae-ri, 성태리
 Sŏngt'ŏ-soryuji, 성터소류지
 Sŏngwang-san, 성왕산
+Sŏngwŏl-li, 성원리, 성월리, 송원리, 송월리
+Sŏngwŏn-ji, 성원지, 송원지
 Sŏngyang-ni
 Sŏngyŏn-myŏn, Seongyeon-myeon, 성연면
 Sŏnhak-soryuji, 선학소류지
@@ -27120,7 +27105,7 @@ Sŏp'ae-ri, Sŏbi-ri, 서패리
 Sŏp'yŏn-soryuji, 서편소류지
 Sŏpchae-soryuji, 섭재소류지
 Sŏrak-sanmaek, 설악산맥
-Sŏrhwa-ri, Sŏlhwa-dong, 설화리
+Sŏrhwa-ri, Sŏlhwa, 설화리
 Sŏrik-kol, 소릿골
 Sŏrimmi-san, 서림미산
 Sŏru-san
@@ -27129,11 +27114,13 @@ Sŏrun-jae, 설운재
 Sŏryu, 서류
 Sŏrŭng-ni, Seiryō-dō, Sŏnŭng-dong, Sŏrŭng-dong, 서릉리
 Sŏsa-chŏn
+Sŏsal-li, Sosan-ni, Wŏllam-ni, 서산리
 Sŏsangni-p'o
 Sŏsanjibang-sanŏptanji, 서산지방산업단지
 Sŏsoui-do
 Sŏsŏk-chi, 서석지
 Sŏsŏng-je
+Sŏsŏng-ni, Sosŏng-dong, 소성리
 Sŏtchok-mot, 서쪽못
 Sŏultŭrimnaendŭ, 서울드림랜드
 Sŏun-dong, 서운동
@@ -27202,7 +27189,7 @@ T'aegong-ni, 태곡리
 T'aegwi-san, 태귀산
 T'aehaeng-san
 T'aehang-ni, 태학리
-T'aehwa-san, 太華山, 태화산
+T'aehwa-san, Taehwasan, 太華山
 T'aeja-bong, 태자봉
 T'aejo-bong, T'aejo-jae
 T'aejong-san, T'aejong-dae
@@ -27350,7 +27337,7 @@ Taeal-li, 대안리
 Taeam-mot, 대암못
 Taeam-san
 Taean-eup, T'aean-ŭp, 태안읍
-Taean-gun, 태안, 태안군
+Taean-gun, Taean, 태안군
 Taean-jŏsuji
 Taeanhaean-gungnipgongwon, 태안해안국립공원
 Taebaegisan
@@ -27400,13 +27387,13 @@ Taech'i-soryuji, 대치소류지
 Taech'o-ji, 대초지
 Taech'o-jŏsuji
 Taech'o-ri
-Taech'ol-li, Kodŏk, Taech'ŏn-igu, Taech'ŏn-ni, 대천리, 대촌리
-Taech'on-ji, 대천지, 대촌지
-Taech'on-soryuji, 대천소류지, 대촌소류지
 Taech'unamu-gol, 대추나무골
 Taech'unamu-ji, 대추나무지
 Taech'unamugok-chi, 대추나무곡지
+Taech'ŏl-li, Kodŏk, Taech'ŏn-igu, Taech'ŏn-ni, 대천리, 대촌리
 Taech'ŏn-dong, Daisen-dō, Taisendō
+Taech'ŏn-ji, 대천지, 대촌지
+Taech'ŏn-soryuji, 대천소류지, 대촌소류지
 Taech'ŏng-dong, 대청동
 Taech'ŏng-ni, 대청리
 Taechangje
@@ -27421,7 +27408,6 @@ Taedang-san, 대당산
 Taedo-got
 Taedo-kundo, Daitō-guntō, Taedogun Do
 Taedong-ji
-Taedong-ni, 대덕리, 대동리
 Taedong-soryuji, 대동소류지
 Taedorye-do
 Taedoyeomjeon
@@ -27437,6 +27423,7 @@ Taedusŏ-ri, 대두서리
 Taedŏk-san, 대덕산
 Taedŏk-soryuji, 대덕소류지
 Taedŏk-tong, 대덕동
+Taedŏng-ni, 대덕리, 대동리
 Taega-ch'ŏn, Ka-ch'ŏn
 Taega-jŏsuji, 대가저수지
 Taega-myŏn, Daega-myeon, 대가면
@@ -27530,8 +27517,8 @@ Taejae-ri
 Taejaje
 Taejak-kol, 대작골
 Taejang-do, Dai-Tyō Tō, Daichō-tō, Muiin To, Taichōtō, West Island
-Taejang-dong, 대장동, 태장2동
-Taejang-ni, Taichō-ri, 대장리
+Taejang-dong, 대장동, 태장1동
+Taejang-ni, Taichō, 대장리
 Taejang-ri, 태장리
 Taejangbong
 Taejangdu-do, 대장두도
@@ -27611,7 +27598,7 @@ Taep'yŏng-jŏsuji, 대평저수지
 Taep'yŏng-ni, Taep'yŏng-dong, 대평리
 Taep'yŏng-p'ogu
 Taep'yŏng-soryuji, 대평소류지
-Taepyeong-dong, 태평3동
+Taepyeong-dong, 태평1동
 Taepyeong-ri, 태평리
 Taerak-chi, 대락지
 Taeram-san, Daeram-san, 대람산
@@ -27664,7 +27651,6 @@ Taeso-san, 대소산
 Taesok-chi, 대속지
 Taesong-jae, Daesong-jae, 대송재
 Taesong-ji
-Taesong-ni, 대성리, 대송리
 Taesu-ho, 대수호
 Taesuk-kogae, 대숲고개
 Taesukkol-jŏsuji, 대숙골저수지
@@ -27676,6 +27662,7 @@ Taesŏn-bong, 대선봉
 Taesŏn-ni
 Taesŏng-dong, 대성동
 Taesŏng-jŏsuji, 대성저수지
+Taesŏng-ni, 대성리, 대송리
 Taesŏng-san
 Taesŏnggŏn-jae, 대성건재
 Taet'ong-ji, 대통지
@@ -27819,7 +27806,7 @@ Tangbakmŏndang-san, 당박먼당산
 Tangbol-li, 당본리
 Tangbong-san, 당봉산
 Tangch'on-ni
-Tangdo, Do-to, Tang-do, Tang-semi, Tang-sŏm, Tō-tō, 당도
+Tangdo, Dangdo, Do-to, Tang-do, Tang-semi, Tang-sŏm, Tō-tō
 Tangdong-jŏsuji, 당동저수지
 Tangdong-man, 당동만
 Tangdu-soryuji, 당두소류지
@@ -27927,7 +27914,7 @@ Tapgolmot, 탑골못
 Tapgyegol, T'apkye-gol, 탑계골
 Tapjae, T'ap-chae, T'apchae, 탑재
 Tapjeong-ri, 탑정리
-Tapjeongho, T'apchŏng-jŏsuji, 논산저수지, 탑정호
+Tapjeongho, Nonsanjeosuji, T'apchŏng-jŏsuji, 탑정호
 Tapjeongje, 탑정제
 Tapkong-ni, 답곡리
 Tapnaljeosuji, T'aptong-je, 탑날저수지, 탑동제
@@ -28011,7 +27998,7 @@ Tetsuroku Yo, Dae Duyeog Do, Dai-Tōeki Syo, Dai-tōeki-sho, Daitoeki Jo, Tae-tu
 Tetsuzan-ri, Ch'ŏlsal-li, Ch'ŏlsan-ni
 Teulmosan
 Teulmosanmot, 틀모산못
-Teyonpyon To, K'ŭnyŏnp'youg-do, K'ŭnyŏnp'yŏng-do, Taeyŏnp'yŏng-do, Tai-Empei-tō, Taienhei-tō, Taienhyōtō, Taienpen-tō, Tao-yŏnp'yong-do, 대연평도
+Teyonpyon To, Daeyeonpyeongdo, K'ŭnyŏnp'youg-do, K'ŭnyŏnp'yŏng-do, Taeyŏnp'yŏng-do, Tai-Empei-tō, Taienhei-tō, Taienhyōtō, Taienpen-tō, Tao-yŏnp'yong-do
 The Dumps, Chagunsodae-sŏm, Chagŭnbyŏngdae-sŏm, Chagŭnsodae-do, Sekimon tō, Shō-heidai-tō, Shōheitai-tō, So Byeongdae Do, So-pyŏngdae-do, Sobyŏngdae-do, Sokusō Tō, Sŏngmun-do
 Tidikkol-chi, 디딕골지
 Tidimi-mot, 디디미못
@@ -28037,8 +28024,8 @@ Tobosan, T'obo-san
 Tobung-ni, 도북리
 Toch'ang-ni
 Toch'o-san, 도초산
-Toch'ol-li, Toch'on-ni, 도천리, 도촌리
 Toch'oni-ji, 도촌2지
+Toch'ŏl-li, Toch'on-ni, 도천리, 도촌리
 Toch'ŏn-soryuji, 도천소류지
 Toch'ŏnggye-gol, 도청계골
 Tochije
@@ -28047,7 +28034,6 @@ Todae-ri, 도대리
 Todang-dong, 도당동
 Todang-san, 도당산
 Todo, T'o-sŏm, T'odo-sŏm, To-tō
-Todok-kol, 도덕골
 Todokpae-san, Dodokbae-san, 도독배산
 Todong-hang, 도동항
 Todong-ni, Toch'ŏng, Toch'ŏng-ni, Tochō-ri, 도동리, 도청리
@@ -28060,6 +28046,7 @@ Todumulchae-san, Dodumuljae-san, 도두물재산
 Toduri-sŏm, 도두리섬
 Todŏk-che, 도덕제
 Todŏk-kogae, 도덕고개
+Todŏk-kol, 도덕골
 Todŏk-san, 도덕산
 Todŏk-to
 Todŏk-tong, 도덕동
@@ -28087,7 +28074,6 @@ Toesanje
 Toesil-bong, 되실봉
 Togae-myŏn, Dogae-myeon, 도개면
 Togae-ri, 도개리
-Togam-ni, Tŏgam-dong, 덕암리, 도감리
 Togap-ch'i, 도갑치
 Togatjae, 토갓재
 Togo-chŏn
@@ -28122,7 +28108,7 @@ Tohyŏngji-bangjuk, 도형지방죽
 Tohŭng-ji, 도흥지
 Tohŭng-ni, Tohŭng-dong, 도흥리
 Toi-ri, 도이리
-Toil-bong, 도일봉
+Toil-bong, Doilbong
 Toil-li, 도인리, 도일리
 Toil-soryuji, 도일소류지
 Toimi-gol, 도이미골
@@ -28145,8 +28131,6 @@ Tojŏl-li, 도전리
 Tojŏn-ni
 Tojŏn-soryuji, 도전소류지
 Tojŏng-ni, Dōsei-ri
-Tok-kogae, Dok-gogae, 덕고개, 독고개
-Tok-san, Dok-san, 덕산, 독산
 Tok-sŏm, 덕섬
 Tokcha-bong
 Tokcha-soryuji, 독자소류지
@@ -28167,7 +28151,6 @@ Tokkiseom
 Tokko Gunto, Dokukyo-guntō, Tokkŏ-gundo, Tokkŏ-kundo, Tokukyo-guntō, 독거군도
 Tokko To, Dokkyo-Tō, Dokukyo-tō, Tokkŏ-do, Tokuko Tō, Tokukyotō, 독거도
 Tokko-jae, Dokkō ji, Tokko-ch'i, 독고재
-Tokkok-soryuji, 덕곡소류지, 독곡소류지
 Tokkoku-ri
 Tokkol-chae, 돗골재
 Tokkol-chi, 독골지
@@ -28233,7 +28216,6 @@ Tong-ch'ŏn, Dōsen, Tōsen
 Tong-do, Dong Do, Sunhodo, Tō-tō
 Tong-hang, East Harbour, Tan Han, Ton Han, Tō-kō
 Tong-myŏn, 동면
-Tong-ni, Dong-ri, 덕리, 동리
 Tong-ri
 Tong-san
 Tong-sudo, Dong Sudo, East Channel, Higashi-suidō, 동수도
@@ -28270,12 +28252,12 @@ Tongch'ang-ch'ŏn
 Tongch'ang-ni, 동창리
 Tongch'i-gogae, 동치고개
 Tongch'il-kkŭt, Tŭngch'ul-mal
-Tongch'ol-li, Tongch'ŏn-ni, Tōsen-ri, 동천리, 동촌리
 Tongch'on-dong, Tongch'on-ni
 Tongch'on-je
 Tongch'on-jŏsuji
 Tongch'on-mot, 동촌못
 Tongch'u-do
+Tongch'ŏl-li, Tongch'on-ni, Tōsen-ri, 동천리, 동촌리
 Tongch'ŏn-ji, 동천지
 Tongcheon-ri, 통천리
 Tongdae-am, 동대암
@@ -28316,7 +28298,7 @@ Tonggŭn-yŏ
 Tonggŭrae-san, 동그래산
 Tonghae-hang, Pukp'yŏng-hang
 Tonghae-myŏn, 동해면
-Tonghae-ri, Tōkai-ri, 동해리
+Tonghae-ri, Tōkai, 동해리
 Tonghaeppuri-san, 동해뿌리산
 Tongho-jŏsuji, 동호저수지
 Tongho-ri, Pongho-ri, 동호리
@@ -28367,7 +28349,6 @@ Tongmyŏng-ni
 Tongmyŏni-ri, Tongmyŏn-ni, 동면2리
 Tongmyŏnil-li, 동면1리
 Tongnang-ni, 동락리
-Tongnye-ri, Tŏge-ri, Tŏksan-ni, 동례리
 Tongnye-soryuji, 동례소류지
 Tongnyul-li, Tongyul-li, 동률리
 Tongnyŏng-jŏsuji, 동령저수지
@@ -28385,7 +28366,7 @@ Tongpaek-to
 Tongpyŏn-soryuji, 동편소류지
 Tongsa-ri
 Tongsaemigol
-Tongsal-li, Tongsan-dong, 동산리
+Tongsal-li, Tongsan, 동산리
 Tongsal-lyŏng, 동산령
 Tongsal-san, 동살산
 Tongsam-jeosuji, T'ongsam-jŏsuji, 통삼저수지
@@ -28670,10 +28651,10 @@ Turit'i-soryuji, 두리티소류지
 Turo-bong, Durobong, 頭老峰, 두로봉
 Turu-bong, 두루봉
 Turu-sŏm, 두루섬
-Turung-san, 두릉산
 Turyang-jŏsuji
 Turyang-sŏ, Toryō Syō, Toryō-sho, Turaeng-sŏ
 Turyŏng-do
+Turŭng-san, 두릉산
 Tusa-mot, 두사못
 Tusa-ri, 두사리
 Tusa-san, Duta-san, Dutasan, Tut'ae-san, 頭陀山
@@ -28734,6 +28715,7 @@ Tyontyuppo, Chŏngju-p'o, Teishū-ho, Teisyū Ho
 Tŏbwŏnyangji-san, 덥원양지산
 Tŏgam-ji, 덕암지
 Tŏgam-jŏsuji, 덕암저수지
+Tŏgam-ni, Tŏgam-dong, 덕암리, 도감리
 Tŏgam-san
 Tŏgamil-chŏsuji, 덕암일저수지
 Tŏgil-li, 덕인리
@@ -28741,22 +28723,24 @@ Tŏgu-ri, 덕우리
 Tŏgu-san, 덕우산
 Tŏguri-jae, 덕우리재
 Tŏgyang-ni, 덕양리
-Tŏgyu-san, 덕유산
+Tŏgyu-san, Deogyusan
 Tŏgyusan-gungnipkongwŏn, 덕유산국립공원
 Tŏgŏ-san, 덕어산
 Tŏgŭl-li, Tŏgŭn-ni, 덕은리
 Tŏgŭm-san
 Tŏk'ŭnt'ŏ-gol, 더큰터골
 Tŏk-chae, 덕재
+Tŏk-kogae, Dok-gogae, 덕고개, 독고개
+Tŏk-san, Dok-san, 덕산, 독산
 Tŏk-to, Naedŏk-to, Raitoku-tō, Toku-tō
 Tŏkch'i-ri, 덕치리
 Tŏkch'i-soryuji, 덕치소류지
-Tŏkch'ol-li, 덕천리, 덕촌리
 Tŏkch'on-je, 덕촌제
-Tŏkch'on-ji, 덕천지, 덕촌지
 Tŏkch'on-soryuji, 덕촌소류지
+Tŏkch'ŏl-li, 덕천리, 덕촌리
 Tŏkch'ŏn-gang, Tokusen-kō, Tŏkch'ŏng-gang
 Tŏkch'ŏn-haesuyokchang, 덕천해수욕장
+Tŏkch'ŏn-ji, 덕천지, 덕촌지
 Tŏkch'ŏn-jŏsuji
 Tŏkch'ŏn-ni
 Tŏkchae-gol, 덕재골
@@ -28789,6 +28773,7 @@ Tŏkkok-che, 덕곡제
 Tŏkkok-chi, 덕곡지
 Tŏkkok-chŏsuji, 덕곡저수지
 Tŏkkok-san
+Tŏkkok-soryuji, 덕곡소류지, 독곡소류지
 Tŏkkol-soryuji, 덕골소류지, 덧골소류지
 Tŏkkong-ni, 덕곡리
 Tŏkku-jŏsuji, Tŏkku-chŏsuji, 덕구저수지
@@ -28819,11 +28804,11 @@ Tŏkse, 덕세
 Tŏksil-chae, 덕실재
 Tŏksil-li, 덕실리
 Tŏksok-chi, 덕속지
-Tŏksong-ni, 덕성리, 덕송리
 Tŏksu-ri, 덕수리
 Tŏksu-san, 덕수산
 Tŏksŏng-dong
 Tŏksŏng-ji, 덕성지
+Tŏksŏng-ni, 덕성리, 덕송리
 Tŏksŏng-san, 덕성산
 Tŏksŏng-yŏmjŏn, 덕성염전
 Tŏktam-ni, 덕담리
@@ -28840,6 +28825,7 @@ Tŏmut-che, 더뭇제
 Tŏnae-mot, 더내못
 Tŏndi-soryuji, 던디소류지
 Tŏng-gol, 덩골
+Tŏng-ni, Dong-ri, 덕리, 동리
 Tŏngma, 해남도
 Tŏngma-ri, 덕마리
 Tŏngman-mal
@@ -28852,6 +28838,7 @@ Tŏngmŏri-san, 덕머리산
 Tŏngnam-ji, 덕남지
 Tŏngnam-ni, 덕남리
 Tŏngnim-ni, Tŭngnim-ni, 덕림리
+Tŏngnye-ri, Tŏge-ri, Tŏksan-ni, 동례리
 Tŏngyong-san, Tŏgyong-san, 덕용산
 Tŏt'i-gogae, Tŏt'oe-gogae, 더티고개
 Tŏtchae-jŏsuji, 덧재저수지
@@ -28900,7 +28887,7 @@ U-do, Beaufort Island, Gyū-tō, Gū Tō, Mollan-do, Moruran-tō, So-sŏm, Soe-s
 U-dong, 우1동
 U-ji, 우지
 U-san
-Ua-dong, 우아2동
+Ua-dong, 우아1동
 Uadong Il-ga, Uadong 1-ga, 우아동1가
 Uam-dong, 우암동
 Uamsan, 牛岩山
@@ -29039,7 +29026,7 @@ Uisan-ri, 의산리
 Uisangbong, Ijō-hō, Ŭisŏng-bong
 Uisangjeosuji
 Uiseong-eup, Ŭisŏng-ŭp, 의성읍
-Uiseong-gun, Euiseong gun, Ŭisŏng-gun, 의성, 의성군
+Uiseong-gun, Euiseong gun, Uiseong, Ŭisŏng-gun, 의성군
 Uisik-chŏsuji, 의식저수지
 Uisin-myeon, Ŭisin-myŏn, 의신면
 Uisincheon, Ŭisin-ch'ŏn
@@ -29078,17 +29065,16 @@ Ulbawi
 Uldduigogae, 울띄고개
 Ulgok-chŏsuji, 울곡저수지
 Uljin-eup, Ulchin-myŏn, Ulchin-ŭp, 울진읍
-Uljin-gun, Ichin-gun, Ulchin, Ulchin-gun, Uljin County, Uruchin, Uruchin-gun, Utchin, Wijin, 울진, 울진군
+Uljin-gun, Ichin-gun, Ulchin, Ulchin-gun, Uljin, Uljin County, Uruchin, Uruchin-gun, Utchin, Wijin, 울진군
 Ulju-gun, 울주군
 Ulleung-do, 울릉도
 Ulleung-eup, 울릉읍
 Ulleung-gun, Ullŭng-do, Ullŭng-gun, Utsuryō-tō, 울릉군
 Ulli-san, 운리산
 Ullidŏk, 운리덕
-Ullim-ni, 운림리, 은림리
 Ullimje, 운림제
 Ullyong-got, Unryu Kan
-Ullyusan, 운류산, 운유산
+Ullyusan, Unyusan, 운류산
 Ullyŏn-san, Uryŏn-san, 울련산
 Ulmi-do, Sam Cheon, Ummi Somu, Urumi-tō, Utsubi-tō, 울미도
 Ulmisan
@@ -29144,12 +29130,11 @@ Un'gong-ni, 운곡리
 Un'gye-bong, 운계봉
 Un'gye-ri, 운계리
 Un'gyo-ji, 운교지
-Un'gyo-ri, 운교리, 은교리
 Un'gyo-san, Unkyosan, 雲橋山, 운교산
 Un-mot, 웃못
 Un-san
 Unaksan, Sŏrak-san, 운악산, 현등산
-Unam-dong, 운암3동
+Unam-dong, 운암1동
 Unam-ji
 Unam-myeon, Unam-myŏn, 운암면
 Unam-ni, Ungan-ri, 운암리
@@ -29191,7 +29176,6 @@ Undongsan
 Undu-ryŏng, 운두령
 Uneunbawi
 Ung Chon
-Ung-do, Kom-sŏm
 Ung-got, Mae-nyŏ, Mae-pau, Ŭng-am, 웅곶
 Ung-san
 Ungbangsan
@@ -29218,7 +29202,6 @@ Unggok-chi, 웅곡지
 Unggokirho-soryuji, 웅곡1호소류지
 Unggokje, Unggok-che, 웅곡제
 Unggol
-Unggol-san, 웅골산, 응골산
 Unggong-ni, 웅곡리
 Unggugol-soryuji, 웅구골소류지
 Unggyo-jeosuji, 웅교저수지
@@ -29274,7 +29257,6 @@ Unjeongje
 Unjesan, Untei-san
 Unji-je, 운지제
 Unjigok-chi, 운지곡지
-Unjong-ni, Unjŏng-dong, 운정리, 운종리
 Unju-je
 Unju-myŏn, Unju-myeon, 운주면
 Unju-san
@@ -29284,12 +29266,13 @@ Unjung-jeosuji, Unjung-jŏsuji, 운중저수지
 Unjusan
 Unjŏn-jŏsuji, Changsu-jŏsuji, 운전저수지
 Unjŏng-jŏsuji, 운정저수지
+Unjŏng-ni, Unjŏng-dong, 운정리, 운종리
 Unjŏng-soryuji, 운정소류지
 Unmagol, 웃마골
 Unmal-gol
 Unmalgol, 웃말골
 Unmalsoryuji, 웃말소류지
-Unmu-san, 雲霧山, 운무산
+Unmu-san, Unmusan, 雲霧山
 Unmullyeong, Unmul-lyŏng, Unmun-jae, 운문령
 Unmun-ho
 Unmun-myeon, 운문면
@@ -29313,7 +29296,6 @@ Unpyeongje
 Unsal-li, 운산리
 Unsan-dong
 Unsan-myŏn, Unsan-myeon, 운산면
-Unsan-ni
 Unsan-ri, 운산리
 Unsancheon
 Unsanje
@@ -29322,7 +29304,7 @@ Unsu-myŏn, Unsu-myeon, 운수면
 Unsu-ri, 운수리
 Unsubong
 Unsucheon
-Unsuhyeon, Unsu-kogae, 운수고개
+Unsuhyeon, Unsu-kogae, Unsugogae
 Unsuje
 Unsujeosuji, Banje-jeosuji, Panje-jŏsuji, 반제저수지
 Unsŏ-san, 운서산
@@ -29338,7 +29320,6 @@ Unyeo
 Unyeo-haesuyokjang, 운여해수욕장
 Unyeomdo, Ullyŏm-do, Un'gyŏm-do, Unyŏm-do
 Unyeoncheon
-Unyong-ni, Ullyong-ni, Unnyong-ni, 운용리, 은용리
 Unyong-ri, 운용리
 Unŭng-do, 우능도
 Uponeup, U-p'o, 우포
@@ -29532,7 +29513,7 @@ Wangnim-ni, 왕림리
 Wangnim-ri, 왕림리
 Wangnyeongsan, 왕령산
 Wangnyŏng-san, 왕령산
-Wangnŭng-ni, Ōryō-ri
+Wangnŭng-ni, Ōryō
 Wangoljeosuji
 Wangp'i-ri, 왕피리
 Wangp'iil-li, 왕피1리
@@ -29744,7 +29725,7 @@ Wolgogyeoksagongwon, 월곡역사공원
 Wolgoji, Wŏlgo-ji
 Wolgok I Je, Wolgok 2 Je, 월곡2제
 Wolgok Il Je, Wolgok 1 Je, 월곡1제
-Wolgok-dong, 월곡2동
+Wolgok-dong, 월곡1동
 Wolgok-jeosuji, 월곡저수지
 Wolgok-ri, 월곡리
 Wolgokcheon, 월곡천
@@ -29758,7 +29739,6 @@ Wolgot-myeon, 월곶면
 Wolgwangcheon
 Wolgwangsubyeongongwon
 Wolgye-dong, 월계1동
-Wolgye-ri, Wŏlge-ri, 월계리
 Wolgyeje
 Wolgyejeosuji
 Wolgyeongsan, Wŏlgyŏng-san
@@ -29779,7 +29759,7 @@ Woljeongbong
 Woljeongje
 Woljeongjeosuji
 Woljeongji
-Woljeongyaksu, 월정, 월정약수
+Woljeongyaksu, Woljeong, 월정약수
 Woljeongyegok, 월전계곡
 Woljeonje
 Wolji-ri, 월지리
@@ -29822,7 +29802,7 @@ Wolmyeongsan, Myŏngmyŏng-san
 Wolpi-dong, 월피동
 Wolpohaesuyokjang, 월포해수욕장
 Wolpoman, Ch'ŏngha-man, Chonhaa Bay, Geppo-wan, Seika-wan, Wŏlp'o-man
-Wolpyeong-dong, 월평3동
+Wolpyeong-dong, 월평1동
 Wolpyeong-gongwon, Wŏlp'yŏng-gongwŏn, 월평공원
 Wolpyeong-ri, 월평리
 Wolpyeongje
@@ -29838,7 +29818,7 @@ Wolsanilje
 Wolsanje
 Wolsansoryuji, Wŏlsan-soryuji, 월산소류지
 Wolseonbong
-Wolseong-dong, Wolsongtong, 月城, 월성동
+Wolseong-dong, Wolsongtong, 月城, 월성1동
 Wolseong-jeosuji, Wŏlsŏng-jŏsuji
 Wolseong-ri, 월성리
 Wolseongcheon
@@ -29860,7 +29840,7 @@ Wonbaekje, 원백제
 Wonbong
 Wonbong-ri, 원봉리
 Wonbongjeonseonchakjang, 원봉전선착장
-Wonbujeosuji, Kwanhan-jŏsuji, 관한저수지
+Wonbujeosuji, Gwanhanjeosuji, Kwanhan-jŏsuji
 Wonbuk-myeon, Wŏnbung-myŏn, 원북면
 Wonbuk-ri, 원북리
 Wonchang-ri, Wŏch'ang-ni, 원창리
@@ -29876,7 +29856,6 @@ Woncheonjeosuji, Wŏnch'ŏn-jŏsuji
 Wonchon-ri, 원촌리
 Wonchonji, Wŏnch'o-ji, Wŏnch'on-ji, 원초지
 Wondae-dong, 원대동
-Wondae-ri, 원대리
 Wondaegol, Wŏndae-gol
 Wondaeul-san, 원대울산
 Wondang-ri, 원당리
@@ -29904,7 +29883,6 @@ Wondongje
 Wondongjeosuji
 Wondongji
 Wondongsa-jeosuji, Wŏndongsa-jŏsuji
-Wondu-soryuji, 원두소류지
 Wondugol, Wŏndu-gol
 Wongamakji, Wŏn'gamak-chi, 원가막지
 Wongang-ri, 원강리
@@ -29912,7 +29890,7 @@ Wongangje
 Wongeoji, 서당골소류지
 Wongeumsan, Wŏn'gŭm-san, Wŏn'gŭmsan
 Wongogae
-Wongok-dong, 원곡2동
+Wongok-dong, 원곡1동
 Wongok-myeon, 원곡면
 Wongok-ri, 원곡리
 Wongokbon-dong, 원곡본동
@@ -29920,7 +29898,6 @@ Wongokgongdan, Wongokjibang-saneopdanji, Wŏn'gokchibang-sanŏptanji, 원곡공�
 Wongokjae, 원곡재
 Wongokjeosuji, 원곡저수지
 Wongol
-Wongol-soryuji, 원골소류지
 Wongolgogae, Wŏn'gol-gogae
 Wongoljae
 Wongolsoryuji, 원골소류지
@@ -29934,7 +29911,7 @@ Wonhyobong
 Wonhyoje
 Wonhyoneup
 Wonhyopokpo, Wŏnhyo-p'okp'o, 원효폭포
-Wonhyoro-dong, 원효로2동
+Wonhyoro-dong, 원효로1동
 Wonhyosan, Wŏnbo-san, Wŏnho-san, Wŏnhyo-san, Wŏnyo-san
 Wonin-dong, 원인동
 Wonjangbong
@@ -29948,11 +29925,10 @@ Wonjiji
 Wonjik-ri, 원직리
 Wonjinji
 Wonjinsan
-Wonjong-dong, 원종2동
 Wonju-si, Weonju, 원주시
 Wonjudo, Weonju Do
 Wonjukje, Wŏnjuk-soryuji, 원죽소류지, 원죽제
-Wonmi-dong, 원미2동
+Wonmi-dong, 원미1동
 Wonmi-gu
 Wonmokjae, 원목재
 Wonmokje, 원목제
@@ -29985,14 +29961,12 @@ Wonsanje
 Wonseohoje, Wŏnsŏi-che, 원쇠제
 Wonseon I Je, Wonseon 2 Je, 원선2제
 Wonseon-ri, 원선리
-Wonseong-dong, 원성2동
+Wonseong-dong, 원성1동
 Wonseungnigogae, Wonseungigogae, Wŏnsŭngi-gogae, 원승리고개
-Wonsin-dong, 원신동
 Wonsinhong-soryuji, P'ogang-soryuji, 원신홍소류지, 포강소류지
 Wonsongsan-jeosuji, Wŏnsongsan-jŏsuji, 원송산저수지
 Wonsorigogae, Wŏnsori-gogae, 원소리고개
 Wonsu-gogae, 원수고개
-Wonsu-ri, 원수리
 Wonsubong
 Wonsuje
 Wonteogol, Wŏnt'ŏ-gol
@@ -30022,9 +29996,7 @@ Woramji, Wŏram-ji, 월암지
 Woramsan, Wŏram-san, 월암산
 Worisan, Wŏri-san, 월이산
 Woro-dong, 월오동
-Woro-ri, 월오리
 Woroecheon, 월외천
-Worul-li, Tarun-ni, Wŏrun-ni, 월운리
 Worunjeosuji, Worun-jeosuji, Wŏrun-chŏsuji, 월운저수지
 Worya-myeon, 월야면
 Woryadalmajigongwon, 월야달맞이공원
@@ -30071,6 +30043,7 @@ Wŏlgong-ni, 월곡리
 Wŏlgonni, Wŏlgwan-ni
 Wŏlgul-li, 월굴리
 Wŏlgwang-ni, 월광리
+Wŏlgye-ri, Wŏlge-ri, 월계리
 Wŏlgyejei-soryuji, 월계제2소류지
 Wŏlgyejeil-soryuji, 월계제1소류지
 Wŏlhyŏn-soryuji, 월현소류지
@@ -30107,10 +30080,10 @@ Wŏlsan-ji, 월산지
 Wŏlsang-ni, 월상리
 Wŏlsanha-je, 월산하제
 Wŏlsansang-je, 월산상제
-Wŏlsong-ni, Gesshō-ri, 월성리, 월송리
 Wŏlsongjŏng-haesuyokchang, 월송정해수욕장
 Wŏlsŏl-li, Wŏlsŏn-ni, 월선리
-Wŏlsŏng-bong, 월성봉
+Wŏlsŏng-bong, Wolseongbong
+Wŏlsŏng-ni, Gesshō-ri, 월성리, 월송리
 Wŏltae-san, 월대산
 Wŏn'gi-ji, 원기지
 Wŏn'gi-ri, 원기리
@@ -30137,12 +30110,13 @@ Wŏnbung-ni
 Wŏnch'ang-dong, 원창동
 Wŏnch'ang-ni, 원창리
 Wŏnch'i-ri, 원치리
-Wŏnch'ol-li, 원천리, 원촌리
 Wŏnch'on-mot, 원촌못
-Wŏnch'on-ni
 Wŏnch'onjŏng-yaksut'ŏ, 원촌정약수터
+Wŏnch'ŏl-li, 원천리, 원촌리
 Wŏnch'ŏn-dong
+Wŏnch'ŏn-ni
 Wŏnch'ŏn-soryuji, 원천소류지
+Wŏndae-ri, 원대리
 Wŏndal-chi, 원달지
 Wŏndang-bong
 Wŏndang-ch'ŏn, Imdang-ch'ŏn
@@ -30163,10 +30137,12 @@ Wŏndong-jŏsuji, Sunwŏn-jŏsuji
 Wŏndong-ni, 원동리
 Wŏndu-ri
 Wŏndu-san, 원두산
+Wŏndu-soryuji, 원두소류지
 Wŏndun-san, 원둔산
 Wŏndŭng-san, 원등산
 Wŏngak-chi, 원각지
 Wŏngol-chi, 원골지
+Wŏngol-soryuji, 원골소류지
 Wŏngŏgi-soryuji, 원거기소류지
 Wŏnhang-ni, 원항리
 Wŏnho-dong
@@ -30179,6 +30155,7 @@ Wŏnjang-san, 원장산
 Wŏnje-ch'ŏn
 Wŏnji-ri
 Wŏnjidong-san
+Wŏnjong-dong, 원종1동
 Wŏnju-ch'ŏn, Genshū-sen
 Wŏnjul-mot, 원줄못
 Wŏnjŏl-li, 원전리
@@ -30205,9 +30182,11 @@ Wŏnsan-jŏsuji, 원산저수지
 Wŏnsan-ni, 원산리
 Wŏnsi-ri
 Wŏnsigol-chi, 원시골지
+Wŏnsin-dong, 원신동
 Wŏnso-ri, 원소리
 Wŏnsong-ni, 원송리
 Wŏnsu-ak
+Wŏnsu-ri, 원수리
 Wŏnsumogi
 Wŏnsŏ-gogae, 원서고개
 Wŏnsŏk-san, 원석산
@@ -30224,7 +30203,9 @@ Wŏrhyŏl-li, Wŏlhyŏn-ni, Wŏrhyŏn-ni, 월현리
 Wŏrhyŏn-ji
 Wŏrhyŏn-san
 Wŏrhŭng-ni
+Wŏro-ri, 월오리
 Wŏroe-ri, 월외리
+Wŏrul-li, Tarun-ni, Wŏrun-ni, 월운리
 Wŏrun-jŏsuji
 Wŏrun-san
 Wŏrun-soryuji, 월운소류지
@@ -30235,8 +30216,8 @@ Ya-do, Purumu Somu, Ya-to, 야도
 Yaban-san, 야반산
 Yabukkol-mot, 야북골못
 Yach'ilmaegi-san, 야칠맥이산
-Yach'ol-li, 야천리
 Yach'on-ni
+Yach'ŏl-li, 야천리
 Yachangji
 Yachon-ri, 야촌리
 Yadang-ni, 야당리
@@ -30324,10 +30305,10 @@ Yangbo-myeon, 양보면
 Yangbuk-myeon, Yangpuk-myŏn, 陽北面, 양북면
 Yangbut'ŏ, 양부터
 Yangch'i-soryuji, 양치소류지
-Yangch'ol-li, Yangch'on-ni, 양천리, 양촌리
-Yangch'on-dong, 양천동, 양촌동
 Yangch'on-jŏsuji, Yangch'on-je
 Yangch'on-soryuji, 양촌소류지
+Yangch'ŏl-li, Yangch'on-ni, 양천리, 양촌리
+Yangch'ŏn-dong, 양천동, 양촌동
 Yangch'ŏn-san
 Yangcheon-gu, 양천구
 Yangcheong-ri, 양청리
@@ -30344,7 +30325,7 @@ Yangchonjeosuji
 Yangdae-san, 양대산
 Yangdalsan
 Yangdang-ni, 양당리
-Yangdeok-dong, 양덕동
+Yangdeok-dong, 양덕1동
 Yangdeokjeosuji, Yangdeok-jeosuji, Yangdŏk-chŏsuji, 양덕저수지
 Yangdeokjigu, 양덕지구
 Yangdeung-ri, 양등리
@@ -30354,7 +30335,6 @@ Yangdo, Yangho-do
 Yangdo-myeon, 양도면
 Yangdong-ji, 양동지
 Yangdong-myeon, 양동면
-Yangdong-ni, 양동리
 Yangdong-ri, 양동리
 Yangdonggolmot, 양동골못
 Yangdongjageunjeosuji
@@ -30367,6 +30347,7 @@ Yangdŏgwŏn-ni
 Yangdŏgwŏn-nonggongdanji, 양덕원농공단지
 Yangdŏk-soryuji, 양덕소류지
 Yangdŏk-to, Ryōtoku-tō
+Yangdŏng-ni, 양동리
 Yangeo-jeosuji, Yangŏ-jŏsuji, 양어저수지
 Yangeulsan, Yangŭl-san
 Yangga-ri, 양가리
@@ -30414,7 +30395,7 @@ Yanghwa-myeon, 양화면
 Yanghwa-ri, 양화리
 Yanghwahanganggongwon
 Yangja-san, 양자산
-Yangjae-dong, 양재2동
+Yangjae-dong, 양재1동
 Yangjae-jeosuji, Yangjae-jŏsuji, 양재저수지
 Yangjaecheon
 Yangjaecheongeullin-gongwon, Yangjaech'ŏngŭllin-gongwŏn, 양재천근린공원
@@ -30438,7 +30419,7 @@ Yangji-ri, 양지리
 Yangji-soryuji, 양지소류지
 Yangjicheon, Yangjich'ŏn
 Yangjidam
-Yangjido, 양야도
+Yangjido, Yangyado
 Yangjigal-mot, 양지갈못
 Yangjigeogol, Yangjigŏ-gol
 Yangjigogae
@@ -30459,7 +30440,7 @@ Yangjisan
 Yangjisangol
 Yangjisasoryuji, 양지사소류지
 Yangjitteummot, Yangjittŭm-mot, 양지뜸못
-Yangju-dong, 양주동
+Yangju-dong, 양주1동
 Yangju-si, 양주시
 Yangjujae
 Yangjungjeosuji
@@ -30535,7 +30516,7 @@ Yangwoljeosuji
 Yangwŏl-li, Yangwŏn-dong, Yangwŏn-ni, 양원리, 양월리
 Yangyang-eup, 양양읍
 Yangyang-gol, 양양골
-Yangyang-gun, Jōyō-gun, 양양, 양양군
+Yangyang-gun, Jōyō-gun, Yangyang, 양양군
 Yangyang-soryuji, 양양소류지
 Yangyu-ri, 양유리
 Yangyŏng-ni, Yangnyŏng-ni, 양영리
@@ -30640,11 +30621,11 @@ Yeokchon-dong, 역촌동
 Yeokchonje, 역촌제
 Yeokdo, Yŏk-to, 역도
 Yeokdong-jeosuji, Yŏktong-jŏsuji, 역동저수지
-Yeokgok-dong, 역곡동
+Yeokgok-dong, 역곡1동
 Yeokgokji, 역곡지
 Yeokgoljeosuji, 역골저수지
 Yeokgyeong, Yŏkkyŏng, 역경
-Yeoksam-dong, 역삼2동
+Yeoksam-dong, 역삼1동
 Yeoksam-gongwon, Yŏksam-gongwŏn, 역삼공원
 Yeolbaekgogae, 열백고개
 Yeolbanmot, 열반못
@@ -30776,7 +30757,7 @@ Yeongdeungpobon-dong, 영등포본동
 Yeongdo, Boku-tō, Chŏlyŏng-do, Chŏryŏng-do, Deer Island, Maki-no-sima, Makimo-shima, Makino Shima, Makino-tō
 Yeongdo-gu, Yŏngdo-gu, 영도구
 Yeongdong-eup, Yŏngdong-ŭp, 영동읍
-Yeongdong-gun, Yŏngdong-gun, 영동, 영동군
+Yeongdong-gun, Yeongdong, Yŏngdong-gun, 영동군
 Yeongdong-nonggongdanji, 영동농공단지
 Yeongdongcheon
 Yeongdongje
@@ -30784,7 +30765,7 @@ Yeonggaesan
 Yeonggang, Yun-gang, Yŏng-gang, Yŏnggang-ch'ŏn
 Yeonggang-dong, 영강동
 Yeonggwang-eup, 영광읍
-Yeonggwang-gun, Reikō, Reikō-gun, Yŏnggwang-gun, 영광, 영광군
+Yeonggwang-gun, Reikō, Reikō-gun, Yeonggwang, Yŏnggwang-gun, 영광군
 Yeonggwangcheon
 Yeonggwangjeosuji
 Yeonghae-myeon, Yŏnghae-myŏn, 영해면
@@ -30941,7 +30922,7 @@ Yeonpyeong-myeon, Songnim-myŏn, 송림면, 연평면
 Yeonsagol, Yŏnsa-gol
 Yeonsan Je I Jeosuji, Yeonsan Je 2 Jeosuji, 연산제2저수지
 Yeonsan Je Il Jeosuji, Yeonsan Je 1 Jeosuji, 연산제1저수지
-Yeonsan-dong, 연산동
+Yeonsan-dong, 연산1동
 Yeonsan-myeon, Yŏnsan-myŏn, 연산면
 Yeonsan-ri, 연산리
 Yeonsancheon, Yŏnsan-ch'ŏn
@@ -30979,8 +30960,8 @@ Yeosimok, 여시목
 Yeositeogol, Yŏsit'ŏ-gol
 Yeosokje, 여속제
 Yeosu Gu Hang, Ku-hang, Yeosu Old Port, 여수구항
-Yeosu Sin-Hang, Reisu Kō, Reisui-kō, Sin-hang, 여수신항
-Yeosu-cheon, Yŏsu-ch'ŏn, 여수천
+Yeosu Sin-Hang, Reisu Kō, Reisui-kō, Sin-hang, Yeosusinhang
+Yeosu-cheon, Yeosucheon, Yŏsu-ch'ŏn
 Yeosu-gogae, Yŏsu-gogae
 Yeosu-si, Yeochon Gun, Yŏch'ŏn-gun, 여수시
 Yeosubakgol, 여수박골
@@ -31067,10 +31048,8 @@ Yong Seom, Ryū-sho, Yong-sŏ, Yong-sŏm
 Yong-bawi
 Yong-do, Ch'un-do, Kai-a-tau, Ryū-tō, Yong-sŏm, Yongu Somu
 Yong-gogae
-Yong-gol, 영골, 용골
 Yong-ijeosuji, 용이저수지
 Yong-myeon, 용면
-Yong-ni, 역리, 영리, 용리
 Yong-san
 Yongal-li, 용안리
 Yongam-bangjuk, 용암방죽
@@ -31119,12 +31098,10 @@ Yongbong
 Yongbong-dong, 용봉동
 Yongbong-je
 Yongbong-ni, 용복리
-Yongbong-san, Yongbongsan, 영봉산
 Yongbongji
 Yongbongjigu
 Yongch'o-soryuji, 용초소류지
 Yongch'u-p'okp'o, 용추폭포
-Yongch'ŏl-li, Yongch'ŏn-ni, 영천리, 용천리, 용촌리
 Yongch'ŏn-jŏsuji
 Yongchaesan, Yongch'ae-san
 Yongcheon
@@ -31147,7 +31124,6 @@ Yongchugyegok, 용추계곡
 Yongchuje, Yongch'u-je
 Yongchuldo, Yongch'ul-to
 Yongchupokpo, 용추폭포
-Yongdae-ri, Yongdae i-ri, 용대리
 Yongdaejayeonhyuyangnim, 용대자연휴양림
 Yongdaejeosuji, Yongdae-jŏsuji
 Yongdaeji, Yongdae-soryuji, 용대소류지
@@ -31163,7 +31139,7 @@ Yongdamgeum
 Yongdamjeosuji, Yongdap-chŏsuji, Yongdapjeosuji, 용답저수지
 Yongdammyeongamsanseong-dong, 용담·명암·산성동
 Yongdampokpo, 용담폭포
-Yongdang-dong, 용당2동
+Yongdang-dong, 용당1동
 Yongdang-jeosuji, Yongdang-jŏsuji, 용당저수지
 Yongdang-ji, 용당지
 Yongdang-ni, 용당리
@@ -31187,7 +31163,6 @@ Yongdong-jeosuji, Yongdong-jŏsuji, 용동저수지
 Yongdong-ji, 용동지
 Yongdong-mot, 용동못
 Yongdong-myeon, 용동면
-Yongdong-ni, Ryūdō-ri, 영덕리, 용덕리, 용동리
 Yongdong-soryuji, 용동소류지
 Yongdongcheon
 Yongdonghaesuyokjang, 용동해수욕장
@@ -31227,7 +31202,6 @@ Yonggijeosuji, Yonggi-jŏsuji
 Yonggiwŏn-san, Ryūkiin-san, Tairyūki-hō, 용기원산
 Yonggogae
 Yonggok-che, 용곡제
-Yonggok-chi, 영곡지, 용곡지
 Yonggok-ri, 용곡리
 Yonggokje, 용곡제
 Yonggokjeosuji, 용곡저수지
@@ -31271,9 +31245,9 @@ Yongheungcheon
 Yongheungje
 Yongheungji, Yonghŭng-ji
 Yongho-bawi, 용호바위
-Yongho-dong, 龍湖洞, 용호2동
+Yongho-dong, 龍湖洞, 용호1동
 Yongho-je
-Yongho-ri, Ryūko-ri, 옹호리, 용호리
+Yongho-ri, Ryukō, 옹호리, 용호리
 Yongho-san, 용호산
 Yongho-soryuji, 용호소류지
 Yonghoje
@@ -31299,21 +31273,19 @@ Yonghwasanjayeonhyuyangnim, 용화산자연휴양림
 Yonghwasil-bangjuk, 용화실방죽
 Yonghwasilbangjuk, 용화실방죽
 Yonghyeol-ri, 용혈리
-Yonghyeon-dong, 용현3동
+Yonghyeon-dong, 용현2동
 Yonghyeon-myeon, 용현면
 Yonghyeonjibang-saneopdanji, Ŭijŏngbuyonghyŏnjibang-sanŏptanji, 용현지방산업단지, 의정부용현지방산업단지
 Yonghyŏl-li, 용현리
 Yonghŭng-dong, Yŏngnam-dong, Yŏngnam-ni
-Yonghŭng-ni, 용흥리
 Yongi-dong, 용이동
-Yongil-li, Ryūjitsu-ri, Yongil, 용일리
+Yongil-li, Ryūjitsu, Yongil, 용일리
 Yongin-bong, 용인봉
 Yongin-si, 용인시
 Yonginebeoraendeu, Yonginebŏraendŭ, 용인에버랜드
 Yongiyeo, Yongi-yŏ
 Yongjaeji
 Yongjamjeosuji
-Yongjang-ni, 영장리
 Yongjang-ri, 용장리
 Yongjangmot, 용장못
 Yongje-jeosuji, 용제저수지
@@ -31344,17 +31316,14 @@ Yongju-myŏn, Yongju-myeon, 용주면
 Yongju-p'okp'o, 용주폭포
 Yongjuje
 Yongjyeonjeosuji, 용연저수지
-Yongjŏl-li, 영전리
 Yongjŏm-ch'ŏn, Yongjŏn-ch'ŏn
 Yongjŏn-ch'o, 용전초
-Yongjŏn-je, 영전제
 Yongjŏn-ji, 용전지
 Yongjŏn-ni, Ryūden-ri, Yongjŏn, Yongjŏnilgu
 Yongjŏn-soryuji, 용전소류지
 Yongjŏng
 Yongjŏng-dong, 용정동
 Yongjŏng-ji
-Yongjŏng-ni, Ryūsei-ri, Ryūtei-ri, 영정리, 용정리
 Yongma-bong
 Yongma-soryuji, 용마소류지
 Yongmabawi
@@ -31401,7 +31370,6 @@ Yongnyang-do
 Yongocheon
 Yongok-myon, Renkoku-men, Yŏngong-myŏn
 Yongp'o-ri, 용포리
-Yongp'yŏng-ni, 용평리
 Yongpohasoryuji, 용포하소류지
 Yongposangjeosuji
 Yongppuri, 용뿌리
@@ -31444,14 +31412,12 @@ Yongseong-ri, 용성리
 Yongseongcheon, Yongsŏng-ch'ŏn
 Yongseongje
 Yongseongji
-Yongsil-li, 영신리, 용신리
 Yongsin-dong, 용신동
 Yongsin-ni, Eishin-ri, 영신리
 Yongsindonggogae
 Yongso-gol, 용소골
 Yongso-mot, 용소못
 Yongso-p'okp'o, 용소폭포
-Yongso-ri, Yongso-ilgu, 용서리, 용소리
 Yongsobawi
 Yongsobong
 Yongsocheon
@@ -31481,6 +31447,7 @@ Yongsumak-kol, 용수막골
 Yongsumakgol, 용수막골
 Yongsupokpo, 용수폭포
 Yongsusoryu-ji, 용수소류지
+Yongsŏ-ri, Yongso-ilgu, 용서리, 용소리
 Yongsŏng-ni, 용석리
 Yongt'al-li, Ryūtan-ri, Yongt'an-ni, 용탄리
 Yongtae-Jeosuji, Yongt'ae-jŏsuji, 용태저수지
@@ -31488,7 +31455,6 @@ Yongtaeul-jeosuji, Kisŏng-ji, 용태울저수지
 Yongteomot, 용터못
 Yongteulgogae
 Yongucheon
-Yongul-li, Yongun-ni, 영운리, 용운리
 Yongun
 Yongun-dong, 용운동
 Yongun-san, 용운산
@@ -31546,7 +31512,7 @@ Yubu-do, Ibu-do, Iubu Island, Iubu Somu, Ubu Somu, Yubu-sŏm
 Yuburŭm-ch'i, 유불음치
 Yuch'angmul-san, 유창물산
 Yuch'i-ri, 유치리
-Yuch'ol-li, 유천리, 유촌리
+Yuch'ŏl-li, 유천리, 유촌리
 Yuch'ŏn-dong, 유천동
 Yuch'ŏn-gol, 유천골
 Yuch'ŏn-ni
@@ -31752,7 +31718,7 @@ Yumosan
 Yumun-jae, 유문재
 Yumyeongsan, Yumyŏngsan, 有明山
 Yunae-ri, Ryūsei-ri, 유서리
-Yunam-ni, Yunam-dong, 윤암리
+Yunam-ni, Yunam, 윤암리
 Yundol
 Yundong-ni
 Yundosan, Yundo-san
@@ -31827,7 +31793,7 @@ Yŏch'o-ri, 여초리
 Yŏch'ŏl-li, 여천리
 Yŏgye-san
 Yŏhang-myŏn, Yeohang-myeon, 여항면
-Yŏhang-san, 여항산
+Yŏhang-san, Yeohangsan
 Yŏhwa-dae, 연화대
 Yŏhwang-san
 Yŏja-do, 여자도
@@ -31904,37 +31870,49 @@ Yŏndong-soryuji, 연동소류지
 Yŏndŏng-ni, Yŏndŏk-iri, 연덕리
 Yŏndŭng-je
 Yŏndŭng-ni, 연등리
+Yŏng-gol, 영골, 용골
+Yŏng-ni, 역리, 영리, 용리
 Yŏngam-ho
 Yŏngam-p'okp'o
 Yŏngan-ji, 영안지
 Yŏngari-orŭm
 Yŏngbo-ri
+Yŏngbong-san, Yongbongsan, 영봉산
 Yŏngbyŏng-san
 Yŏngch'on, 맹선재
 Yŏngch'wi-san, Yŏngch'u-san
+Yŏngch'ŏl-li, Yongch'ŏn-ni, 영천리, 용천리, 용촌리
 Yŏngch'ŏn-gang, Yŏn-ch'ŏn-gang, Yŏnho-ch'ŏn
 Yŏngch'ŏn-ho, 영천호
 Yŏngch'ŏn-mot, 영천못
 Yŏngch'ŏn-p'okp'o, 영천폭포
+Yŏngdae-ri, Yongdae i-ri, 용대리
 Yŏngdam-jŏsuji, 영담저수지
 Yŏngdam-soryuji, 영담소류지
 Yŏngdong-je, 영동재
+Yŏngdŏng-ni, Ryūdō-ri, 영덕리, 용덕리, 용동리
 Yŏngdŭng-je, 영등제
 Yŏngdŭng-ni
 Yŏngdŭng-san, Yondŭng-san, 영등산
+Yŏnggok-chi, 영곡지, 용곡지
 Yŏnggu-san, 영구산
 Yŏnggwang-san, 영광산
 Yŏnggwidae, 영귀대
 Yŏnghae-gang, Neikai-kō
 Yŏnghang-ni, 영학리
 Yŏnghŭng-myŏn, Reikō-men, Rēkō
+Yŏnghŭng-ni, 용흥리
 Yŏngin-jŏsuji, 영인저수지
 Yŏngin-myŏn, Yeongin-myeon, 영인면
 Yŏngin-san, 영인산
+Yŏngjang-ni, 영장리
 Yŏngjini-gol, 영진이골
 Yŏngju-jŏsuji
 Yŏngju-san, 영주산
+Yŏngjŏl-li, 영전리
+Yŏngjŏn-je, 영전제
 Yŏngjŏn-jŏsuji
+Yŏngjŏng-ni, Ryūsei-ri, Ryūtei-ri, 영정리, 용정리
 Yŏngjŏni-mot, 영전2못
 Yŏngnae-ri, 역내리
 Yŏngnang-ni, 영랑리
@@ -31943,11 +31921,14 @@ Yŏngo-ri, 영오리
 Yŏngo-ri Port, 용의리 항
 Yŏngp'ung-ni, 영풍리
 Yŏngp'yŏng
+Yŏngp'yŏng-ni, 용평리
 Yŏngsan-ho
 Yŏngsan-sudo, Eizan-suidō
+Yŏngsil-li, 영신리, 용신리
 Yŏngsŏn-dae, 영선대
 Yŏngsŭng-ni, 영승리
 Yŏngt'am-ni, 영탑리
+Yŏngul-li, Yongun-ni, 영운리, 용운리
 Yŏngun-p'o, 영운포
 Yŏngung-bawi, 영웅바위
 Yŏngyang-ni, 영양리
@@ -31973,8 +31954,8 @@ Yŏnjangttuk-mot, 연장뚝못
 Yŏnji-ri, Tŏksŏn-ni, 연지리
 Yŏnji-soryuji, 연지소류지
 Yŏnjisan-soryuji, 연지산소류지
-Yŏnjong-ni
 Yŏnjul-sŏ
+Yŏnjŏng-ni
 Yŏnmi-san, 연미산
 Yŏnmyŏng-ni, 연명리
 Yŏnnae-gol, 연내골
@@ -31984,7 +31965,7 @@ Yŏnp'ung-ni
 Yŏnp'ung-soryuji, 연풍소류지
 Yŏnp'yŏng-ni, 연평리
 Yŏnp'yŏng-san
-Yŏnp'yŏngdo-hang, Empeitō-kō, Enpeitō Kō, Yonp'yong-do Byōchi, Yŏnp'yŏng-hanggu, Yŏnp'yŏngdo-myoji, 연평항
+Yŏnp'yŏngdo-hang, Empeito-kō, Enpeitō Kō, Yonp'yong-do Byōchi, Yŏnp'yŏng-hanggu, Yŏnp'yŏngdo-myoji, 연평항
 Yŏnpyŏng-ni, 연평리
 Yŏnsal-li, Yŏnsan-ni, 연산리
 Yŏnsan-gongwŏn, 연산공원
@@ -32054,19 +32035,25 @@ seongsan Hill, 성산 언덕
 songseogli
 yeonjeongli
 yongjeonli
+Ŏ-ri, 어리, 오리
+Ŏam-ni, 어암리, 오암리
 Ŏbu-ji, 어부지
 Ŏbunggok-chi, 어붕곡지
 Ŏbyŏng-soryuji, 어병소류지
+Ŏch'ŏl-li, 어천리, 오천리, 오촌리
 Ŏch'ŏn-ji, 어천지
 Ŏdap-san, Eodapsan, 어답산
+Ŏdu-je, 어두제
 Ŏduji-dan, 어두지단
 Ŏdul-li, 어둔리
 Ŏdun-soryuji, 어둔소류지
 Ŏgak-san, 어각산
+Ŏgong-ni, 어곡리, 오곡리, 오공리
 Ŏhang-ji
 Ŏjae-ri, 어재리
 Ŏji-ji, 어지지
 Ŏjin-sŏ
+Ŏjŏl-li, 어전리, 오전리
 Ŏktae-ri, 억대리
 Ŏlŭmbak-san, 얼음박산
 Ŏm-ni, 업리
@@ -32083,12 +32070,18 @@ yongjeonli
 Ŏpsŏng-dong, 업성동
 Ŏpsŏng-jŏsuji, 업성저수지
 Ŏrae-san, 어래산
+Ŏrigol-chi, 어리골지, 오리골지
 Ŏriha-ch'on, Ŏrisang-ch'on, 어리하촌
+Ŏro-ri, 어로리, 오로리
 Ŏrol-li, 어론리
 Ŏryong-dong, 어룡동
+Ŏryong-jŏsuji, 어룡저수지, 오룡저수지
 Ŏryŏng-gol, 어령골
+Ŏryŏng-soryuji, 어령소류지, 어룡소류지, 오룡소류지
 Ŏryŏngdong-san, 어령동산
 Ŏrŭm-jae, 어름재
+Ŏsa-ri, 어사리, 오사리
+Ŏsal-li, 어산리, 오산리
 Ŏsi-san, 어시산
 Ŏsik-chae, 어식재
 Ŏsil-li, 어신리
@@ -32096,6 +32089,7 @@ yongjeonli
 Ŏsŏk-san, 어석산
 Ŏsŏkkol-soryuji, 어석골소류지
 Ŏsŏng-san
+Ŏt'ae-san, 어태산, 오태산
 Ŏun-ji, 어운지
 Ŏusil, 어우실
 Ŏyuji-ri, 어유지리
@@ -32121,6 +32115,7 @@ yongjeonli
 Ŭising-ni, 의식리
 Ŭiyong-san, 의용산
 Ŭllim-ji, 은림지
+Ŭllim-ni, 운림리, 은림리
 Ŭm-gol, 음골
 Ŭm-ni, Ŭm-dong, 음리
 Ŭm-p'okp'o, 음폭포
@@ -32143,6 +32138,7 @@ yongjeonli
 Ŭn'gol-soryuji, 은골소류지
 Ŭn'gwang-p'okp'o, 은광폭포
 Ŭn'gyo-je, 은교제
+Ŭn'gyo-ri, 운교리, 은교리
 Ŭn'gŭji-san, 은그지산
 Ŭn-gol
 Ŭn-ji, 은지
@@ -32150,6 +32146,7 @@ yongjeonli
 Ŭndae-bong, 은대봉
 Ŭndŏng-ni, Undbŏng-ni, 은덕리
 Ŭng-bong
+Ŭng-do, Kom-sŏm
 Ŭng-gol
 Ŭngam-ni, 응암리
 Ŭngam-san, Ŭman-san
@@ -32157,6 +32154,7 @@ yongjeonli
 Ŭngbong-san
 Ŭngdŏng-ni
 Ŭnggok-san, 응곡산
+Ŭnggol-san, 웅골산, 응골산
 Ŭngju-bong, 응주봉
 Ŭngmyŏng-dong, 응명동
 Ŭngnyong-ni, Ŭngyong-ni
@@ -32171,9 +32169,11 @@ yongjeonli
 Ŭnsa-ri, 은사리
 Ŭnsa-soryuji, 은사소류지
 Ŭnsan, 군내리
+Ŭnsan-ni
 Ŭnsang-je, 은상제
 Ŭnsin-jae, 은신재
 Ŭnsŏk-chi, 은석지
+Ŭnyong-ni, Ullyong-ni, Unnyong-ni, 운용리, 은용리
 Ŭp-to, 읍도
 Ŭpnae-ri, 읍내리
 Ŭptong-je, 읍동제

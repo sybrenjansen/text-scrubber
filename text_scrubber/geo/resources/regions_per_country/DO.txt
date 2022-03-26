@@ -590,7 +590,6 @@ Arroyo Cambelén, Arroyo Gollo
 Arroyo Cambutera
 Arroyo Campana
 Arroyo Campo
-Arroyo Cana
 Arroyo Canadero
 Arroyo Canasta
 Arroyo Candelario, Arroyo Los Candelarios
@@ -600,7 +599,6 @@ Arroyo Candonguito
 Arroyo Caney, Arroyo Cané
 Arroyo Cangrejitos, Río Cangrejito
 Arroyo Canilla, Cañada Canilla
-Arroyo Cano
 Arroyo Cano (D. M.).
 Arroyo Cano (Zona Urbana)
 Arroyo Canoa
@@ -649,6 +647,7 @@ Arroyo Caya Clara
 Arroyo Cayo
 Arroyo Cazuela, Arroyo Gozuela
 Arroyo Cazuelita, Cañuelita
+Arroyo Caña
 Arroyo Caña Blanca, Arroyo Caña Blanco
 Arroyo Caña Brava, Cañada Torito
 Arroyo Caña Castilla
@@ -674,6 +673,7 @@ Arroyo Cañafístola
 Arroyo Cañaveral
 Arroyo Cañita
 Arroyo Cañito
+Arroyo Caño
 Arroyo Caño Amarillo
 Arroyo Caño Ancho
 Arroyo Caño Azul
@@ -1059,11 +1059,11 @@ Arroyo El Perico
 Arroyo El Pescozón, Arroyo La Lechuguilla
 Arroyo El Pez
 Arroyo El Peñón
-Arroyo El Pinal
 Arroyo El Pinar
 Arroyo El Pino
 Arroyo El Piquito
 Arroyo El Piragual
+Arroyo El Piñal
 Arroyo El Placer
 Arroyo El Platanal
 Arroyo El Plátano
@@ -1220,7 +1220,6 @@ Arroyo Guamachos, Arroyo Los Guamachos
 Arroyo Guamal, Arroyo Gramal
 Arroyo Guamita, Arroyo Cuancita, Arroyo Cuancúa
 Arroyo Guamiábano
-Arroyo Guanabano, Arroyo Guanabá, Arroyo Guanoba
 Arroyo Guanaleja, Arroyo Guanarey
 Arroyo Guanamá
 Arroyo Guanarate
@@ -1230,6 +1229,7 @@ Arroyo Guaniábano
 Arroyo Guano
 Arroyo Guanuma
 Arroyo Guanábana
+Arroyo Guanábano, Arroyo Guanabá, Arroyo Guanoba
 Arroyo Guaní
 Arroyo Guaquinitín
 Arroyo Guaraguao, Río Guaraguao
@@ -1290,12 +1290,12 @@ Arroyo Hicacos
 Arroyo Hicotea, Arroyo Hicoteo
 Arroyo Higo Claro
 Arroyo Higo Grande, Cañada Higo Grande
-Arroyo Higua, Río Higua
 Arroyo Higuamo, Arroyo Higuana, Arroyo Iguamo
 Arroyo Higueritín
-Arroyo Higuero, Caño Higüero
+Arroyo Higuá, Río Higua
 Arroyo Higüera
 Arroyo Higüerito, Arroyo de la Loma de las Piedras, Arroyo de los Palos de Seiba
+Arroyo Higüero, Caño Higüero
 Arroyo Higüerote
 Arroyo Hilario, Arroyo Juan Hilario
 Arroyo Hincha
@@ -1334,13 +1334,12 @@ Arroyo Jabilla
 Arroyo Jabonico
 Arroyo Jaca
 Arroyo Jacinta
-Arroyo Jacuba, Arroyo Jacubal
 Arroyo Jagua
 Arroyo Jagua Clara
 Arroyo Jagua Macho
 Arroyo Jagual
-Arroyo Jaguey, Arroyo Jacuey, Arroyo Jaibo, Arroyo Sagüey, Río Jagüey
-Arroyo Jaguita
+Arroyo Jagüey, Arroyo Jacuey, Arroyo Jaibo, Arroyo Sagüey, Río Jagüey
+Arroyo Jagüita
 Arroyo Jaiba, Arroyo Jibe
 Arroyo Jaiba Flaca
 Arroyo Jaibita
@@ -1417,6 +1416,7 @@ Arroyo Jumunucú, Arroyo Jumunuco, Arroyo Junumucú, Río Jumunucu
 Arroyo Juncalito
 Arroyo Jurungo, Arroyo Juranco, Cañada Jurungo
 Arroyo Jábaba
+Arroyo Jácuba, Arroyo Jacubal
 Arroyo Jánico
 Arroyo La Abandonada
 Arroyo La Alambrada
@@ -1703,11 +1703,11 @@ Arroyo Las Bellacas
 Arroyo Las Cabirmas
 Arroyo Las Cabuyas
 Arroyo Las Calderas
-Arroyo Las Canas, Arroyo del Pate Cañas, Arroyo del Pote Caña
 Arroyo Las Canoas
 Arroyo Las Caobas, Arroyo de Caobas
 Arroyo Las Carreras
 Arroyo Las Cayas
+Arroyo Las Cañas, Arroyo del Pate Cañas, Arroyo del Pote Caña
 Arroyo Las Cañitas, Arroyo Los Pomos
 Arroyo Las Chamuscadas, Arroyo La Chamuscada
 Arroyo Las Cruces, Arroyo La Cruces, Cañada Las Cruces
@@ -1905,7 +1905,7 @@ Arroyo Los Guayos
 Arroyo Los Guayuyos
 Arroyo Los Guazumas
 Arroyo Los Guineos, Cañada Los Peñascos
-Arroyo Los Guázaros, Arroyo Los Guázaro
+Arroyo Los Güazáros, Arroyo Los Guázaro
 Arroyo Los Güiros
 Arroyo Los Helechos
 Arroyo Los Hernández
@@ -2640,8 +2640,8 @@ Arroyo Vallo
 Arroyo Varero
 Arroyo Varey
 Arroyo Vargas, Arroyo Los Vargas
-Arroyo Varia
 Arroyo Varo Díaz, Cañada Barodia
+Arroyo Varía
 Arroyo Velazquito, Arroyo Beneno, Arroyo Los Velázquitos, Arroyo Velasquito
 Arroyo Velázquez, Arroyo Los Velázquez
 Arroyo Vengan a Ver, Cañada Venganaver, Cañada del Tunai
@@ -2688,7 +2688,7 @@ Arroyo Yaquesillo
 Arroyo Yarey
 Arroyo Yasiquita, Arroyo Yajiguita, Arroyo Yasiquito
 Arroyo Yaso
-Arroyo Yautia
+Arroyo Yautía
 Arroyo Yavina, Arroyo Yubina
 Arroyo Yaya
 Arroyo Yayas, Arroyo del Higo
@@ -3021,7 +3021,6 @@ Barro Arriba
 Barro Arriba (D. M.).
 Barro Arriba (Zona Urbana)
 Barro En Medio
-Bartolo
 Bartolomé
 Basilio Linia
 Bastidas
@@ -3622,6 +3621,7 @@ Busú
 Buzón
 Bánica
 Bánica (Zona Urbana)
+Bártolo
 Básima
 Bávaro
 Caba
@@ -3793,7 +3793,7 @@ Camarones Arriba
 Camarón
 Camarón De Los Guineos
 Cambalache
-Cambelen
+Cambelén
 Cambiaso
 Cambiazo
 Cambita El Pueblecito
@@ -3915,7 +3915,6 @@ Canela Abajo
 Canela Arriba O Centro Del Pueblo
 Canelilla
 Canepa Verde
-Canete
 Canete Arriba
 Canfor
 Canga
@@ -3966,7 +3965,7 @@ Caracol
 Caracoles
 Caracolito
 Caramana
-Carata
+Caratá
 Carbonera
 Cardo Prieto
 Cardón
@@ -4560,10 +4559,10 @@ Cañada Las Avispas
 Cañada Las Baitoas
 Cañada Las Balizas
 Cañada Las Bateas
-Cañada Las Canas
 Cañada Las Caobas, Río Caobas
 Cañada Las Caritas, Cañada La Caritas
 Cañada Las Carreras
+Cañada Las Cañas
 Cañada Las Cañitas
 Cañada Las Coles
 Cañada Las Cortaderas, Cañada Cortadera, Cañada La Cortadera, Cañada Las Cortadera, Caño Cortadero
@@ -5191,6 +5190,7 @@ Cañafístol
 Cañafístola
 Cañaveral
 Cañeo
+Cañete
 Cañetín
 Cañita
 Caño Abajo
@@ -5301,7 +5301,7 @@ Caño Meme
 Caño Miguel
 Caño Ojo de Agua
 Caño Ojos de Leche, Cañada Helechos
-Caño Orí, Caño La Cucharo, Caño la Cuchara
+Caño Orí, Caño La Cuchara, Caño La Cucharo
 Caño Palo de Agua, Cañada Palo de Agua
 Caño Peludo
 Caño Picho
@@ -6123,7 +6123,7 @@ Cooperativa
 Copey
 Copey Sano
 Copeyal
-Coqui
+Coquí
 Coraza O Centro Del Pueblo
 Corbanal
 Corbanito (Callao Arriba)
@@ -6821,8 +6821,7 @@ El Cerro de Tomás Fabián
 El Cerro de la Bajada
 El Cerro de la Colmena
 El Cerro de la Laguneta
-El Chacaro
-El Champan
+El Champán
 El Charabuscal
 El Charcazo
 El Charco
@@ -6844,6 +6843,7 @@ El Chorrerón
 El Chorro
 El Chucho
 El Chucho De Pey
+El Chácaro
 El Cidral
 El Cidral (La Represa)
 El Cigual
@@ -7136,11 +7136,11 @@ El Higo Claro
 El Higo de la Cruz
 El Higuerito
 El Higuerito Arriba
-El Higuero
 El Higuito
 El Higüerito
 El Higüerito (D. M.).
 El Higüerito (Zona Urbana)
+El Higüero
 El Higüero (Parte)
 El Higüerote
 El Hilo
@@ -7258,11 +7258,11 @@ El Mango
 El Mango O El Mago
 El Manguito
 El Manguito O Zumbador
-El Mani
 El Maniel
 El Manielito
 El Maniercito
 El Manquito
+El Maní
 El Maricao
 El Martillo
 El Matadero
@@ -7279,7 +7279,7 @@ El Memiso O El Mimero
 El Mercado
 El Meso
 El Millo
-El Millon
+El Millón
 El Mirador
 El Mochito
 El Mocho
@@ -7393,8 +7393,8 @@ El Pescadero
 El Pescozón (Sector  Padre  Fantino)
 El Petaquero
 El Peñasco
-El Peñon
 El Peñoncito, Cuesta del Peñoncito
+El Peñón
 El Peñón (Zona Urbana)
 El Peñón De Los Reyes
 El Peñón Gordo, Peñón Gordo
@@ -7699,7 +7699,7 @@ Ensanche La Hoz
 Ensanche La Paz
 Ensanche La Rubia
 Ensanche Libertad
-Ensanche Luperon
+Ensanche Luperón
 Ensanche Madrigal
 Ensanche Naco
 Ensanche Ozama
@@ -8364,7 +8364,7 @@ Habitacional Consuelo (George)
 Hacienda Estrella
 Haina
 Hainamosa
-Haiti
+Haití
 Haití Bonito.
 Haití Chiquito
 Haití La Cueva
@@ -8453,18 +8453,18 @@ Higuamo
 Higuamo O Batey Higuamo
 Higuera
 Higuera Abajo
-Higuerito, Higüerto
 Higuerito Abajo
 Higuerito Arriba
 Higuerito O Lucero
 Higuerito-Peñuela
-Higuero
 Higuero Abajo
 Higüamo
 Higüeral
+Higüerito, Higüerto
 Higüerito (Casa Colorada)
 Higüerito - La Factoría
 Higüerito Peñuela
+Higüero
 Higüero Abajo
 Higüey
 Hipólito Billini
@@ -8613,7 +8613,7 @@ Jagua Macho
 Jagua Mocha
 Jagua Mocha O Las Espinas
 Jagual
-Jaguera
+Jagüera
 Jagüey
 Jaibón
 Jaibón (D. M.).
@@ -8621,10 +8621,10 @@ Jaibón (Pueblo Nuevo) (D. M.).
 Jaibón (Pueblo Nuevo) (Zona Urbana)
 Jaibón (Zona Urbana)
 Jaiqui
-Jaiqui Picado
 Jaiqui Picao Abajo (Ají Picao Abajo)
 Jaiqui Picao Arriba (Ají Picao Arriba)
 Jaiquipicao
+Jaiquí Picado
 Jalisco
 Jalonga
 Jamamucito
@@ -8767,7 +8767,7 @@ Juan Antonio Alix
 Juan Barón
 Juan Becerro
 Juan Brown
-Juan Cano
+Juan Caño
 Juan Cruz
 Juan De Dios
 Juan De Herrera
@@ -8916,14 +8916,14 @@ La  U
 La Abundancia
 La Acequia
 La Aguada
-La Aguaita
+La Aguaíta
 La Agustina
 La Agüita
 La Agüita Fría
 La Agüita de Vidal
 La Agüitas
 La Ahumada
-La Albina
+La Albiña
 La Aleta
 La Alianza
 La Altagracia
@@ -9033,8 +9033,8 @@ La Boca del Chicharrón
 La Boca del Pozo
 La Boca del Río
 La Boca del Salado
-La Bocaina
 La Bocana, La Bocama
+La Bocaína
 La Bolita
 La Bomba
 La Bombita
@@ -9054,8 +9054,8 @@ La Bruca
 La Bruja
 La Brusca
 La Brígida
-La Bucara
 La Burra
+La Búcara
 La Cabeza
 La Cabeza de Calero
 La Cabeza de Valenzuela
@@ -9083,8 +9083,7 @@ La Caleta
 La Caleta (D. M.).
 La Caleta (Zona Urbana)
 La Calle
-La Campana
-La Cana
+La Campaña
 La Cana De Hato Nuevo
 La Cana O La Yuca
 La Canas
@@ -9126,6 +9125,7 @@ La Caya (D. M.).
 La Caya (Zona Urbana)
 La Cayota
 La Caída
+La Caña
 La Cañada
 La Cañada Del Café
 La Cañada Del Río
@@ -9255,7 +9255,6 @@ La Cruz Del Naranjal
 La Cruz de Mameyito
 La Cruz del Isleño
 La Cruz del Negro
-La Cu
 La Cuaba
 La Cuaba (D. M.).
 La Cuaba (Zona Urbana)
@@ -9320,6 +9319,7 @@ La Curtiembre
 La Curva
 La Curva (El Aguacate)
 La Curva O La Culata
+La Cú
 La Damajagua
 La Damajuana O La Damajagua
 La Damaya - La Damaija
@@ -9387,12 +9387,11 @@ La Estrelleta
 La Excavación
 La Explanación
 La Facilidad
-La Factoria
+La Factoría
 La Facunda
 La Falda de Puerto Rico
 La Faldiquera
 La Fardiquera
-La Fe
 La Fe (Antiguo La Teta)
 La Feliciana
 La Felicita
@@ -9421,6 +9420,7 @@ La Fuente del Rodeo
 La Furnia
 La Furnia (La Boca)
 La Furnia (Rincón De Los Jiménez)
+La Fé
 La Galana
 La Galeta O La Goleta
 La Gallera
@@ -9488,7 +9488,6 @@ La Guardia Abajo
 La Guardia Arriba
 La Guardia O Carlos Daniel
 La Guardia de los Guandules
-La Guasuma
 La Guazarita
 La Guazarita (Campeche Arriba De Castillo)
 La Guazumita
@@ -9500,6 +9499,7 @@ La Guácima
 La Guácima (La Guázuma)
 La Guárana
 La Guásima
+La Guásuma
 La Guáyiga
 La Guáyiga (D. M.).
 La Guáyiga (Zona Urbana)
@@ -9908,8 +9908,8 @@ La Plumita
 La Pocilga
 La Pocilga O Duraliza Ulloa
 La Pocilguita
-La Policia
 La Policia O Urbanización Palma Real
+La Policía
 La Polonia
 La Potranca
 La Potrica
@@ -9983,7 +9983,6 @@ La Rosita
 La Rotonda
 La Rufina
 La Rusia
-La Sabana
 La Sabana Abajo
 La Sabana De Maniel
 La Sabana De Río Verde
@@ -10018,7 +10017,7 @@ La Savita O Cruce De Melo
 La Secadora
 La Selva
 La Senda
-La Sequia
+La Sequía
 La Serranía
 La Setenta
 La Sidra
@@ -10054,6 +10053,7 @@ La Sucesión
 La Sufridera
 La Suiza
 La Surza
+La Sábana
 La Tabera
 La Tachuela
 La Tala
@@ -10482,7 +10482,6 @@ Las Alforjas
 Las Altamisas
 Las Amapolas
 Las Américas
-Las Animas
 Las Antillas
 Las Arenas
 Las Aromas
@@ -10511,12 +10510,10 @@ Las Calabazas
 Las Calderas
 Las Callas
 Las Calles
-Las Canas
 Las Canas - El Estrecho
 Las Canas Abajo
 Las Canas Arriba
 Las Canelillas
-Las Canitas
 Las Canoas
 Las Canteras
 Las Caobas
@@ -10530,7 +10527,9 @@ Las Carreras
 Las Carreras De Ceiba
 Las Casitas
 Las Cayas
+Las Cañas
 Las Cañas De Los Uveros
+Las Cañitas
 Las Ceibas
 Las Cejas
 Las Cejitas
@@ -10787,6 +10786,7 @@ Las Zanjas
 Las Zanjas (D. M.).
 Las Zanjas (Zona Urbana)
 Las Zonas (Mejía)
+Las Ánimas
 Lau
 Laurel
 Lavador
@@ -10973,7 +10973,7 @@ Loma Castillo
 Loma Catalina
 Loma Catarey
 Loma Catera
-Loma Caya, Loma de la Travesía
+Loma Caya, Loma de La Travesia
 Loma Cazuela, Casuela
 Loma Caña Barrosa
 Loma Cañada Honda
@@ -11042,9 +11042,9 @@ Loma De Babor
 Loma De Babor O Alto De Las Flores
 Loma De Cabrera
 Loma De Cabrera (Zona Urbana)
-Loma De Cana
 Loma De Caobazo
 Loma De Castañuelas
+Loma De Caña
 Loma De Cochero
 Loma De Consuelo
 Loma De Copey
@@ -12175,7 +12175,6 @@ Loma de Cabo Cabrón
 Loma de Cabreja
 Loma de Cabrera
 Loma de Cabuya, Loma de Cabulla
-Loma de Cana
 Loma de Caobita
 Loma de Capilla
 Loma de Caracol
@@ -12185,6 +12184,7 @@ Loma de Castellanos
 Loma de Castillo, Loma Gajo Alto
 Loma de Casurdo
 Loma de Catanamatías
+Loma de Caña
 Loma de Cañada Clara
 Loma de Caño Claro
 Loma de Cenoví
@@ -12417,8 +12417,8 @@ Loma de la Cabezada
 Loma de la Cabra
 Loma de la Calentura
 Loma de la Campana
-Loma de la Cana
 Loma de la Canelilla
+Loma de la Caña
 Loma de la Cañafístola
 Loma de la Ceiba
 Loma de la Cidra
@@ -12700,7 +12700,7 @@ Los Abeyes
 Los Abreu
 Los Abuqueyes
 Los Acostados
-Los Agronomos
+Los Agrónomos
 Los Aguacates
 Los Aguacaticos
 Los Ajicitos Sector Arriba
@@ -12835,10 +12835,10 @@ Los Caballos
 Los Caboríes
 Los Cabral
 Los Cabrera O La Lometa
-Los Cacaitos
 Los Cacaos
 Los Cacaos (Zona Urbana)
 Los Cacaos Rural
+Los Cacaítos
 Los Cacheos
 Los Cachimbos
 Los Cachimbos O Villa Esperanza
@@ -12885,7 +12885,6 @@ Los Candonguitos
 Los Canes
 Los Cangrejos
 Los Canjilones
-Los Canos
 Los Cantabillos
 Los Cantines O Los Algarrobos
 Los Capaces
@@ -12897,7 +12896,7 @@ Los Caracoles
 Los Caramelitos
 Los Carderejos
 Los Carlos
-Los Carmonies
+Los Carmoníes
 Los Carpinteros
 Los Carraos
 Los Cartones
@@ -12920,6 +12919,7 @@ Los Cayucos Ii
 Los Cazabes
 Los Cañafístol
 Los Cañitos
+Los Caños
 Los Caños Adentro
 Los Cebollines
 Los Cedros
@@ -13098,10 +13098,10 @@ Los Grullón
 Los Guaconejos
 Los Gualonejos
 Los Guamachos
-Los Guanabanos
 Los Guandules
 Los Guanos
 Los Guanos O Loma El Guano
+Los Guanábanos
 Los Guaos
 Los Guaraguaos
 Los Guarantenes
@@ -13112,11 +13112,11 @@ Los Guayos
 Los Guayubines
 Los Guayuyos
 Los Guazarales
-Los Guazaros
 Los Guineos
 Los Guineos Adentro
 Los Guineos Afuera
 Los Guzmán
+Los Guázaros
 Los Gómez
 Los Güiros
 Los Haitiles
@@ -13159,8 +13159,8 @@ Los Inagitos (Los Inajitos)
 Los Inajitos O Los Najitos
 Los Indios
 Los Infantes
-Los Ingenitos
 Los Ingleses
+Los Ingénitos
 Los Innovadores
 Los Invasores
 Los Jabosos
@@ -13220,7 +13220,7 @@ Los Limones Al Medio
 Los Limones Arriba
 Los Limones O Las Amapolas
 Los Liones
-Los Lirios
+Los Liríos
 Los Llabones
 Los Llanos
 Los Llanos De Pérez
@@ -13506,7 +13506,6 @@ Los Rinconcitos
 Los Rincones
 Los Rincones De Boba
 Los Rincones de Antonio
-Los Rios
 Los Rivera
 Los Rivera Altagracia
 Los Roas
@@ -13519,6 +13518,7 @@ Los Rojas
 Los Romedillos
 Los Rosario
 Los Ruales
+Los Ríos
 Los Ríos (Zona Urbana)
 Los Róbalos
 Los Sabino
@@ -13651,7 +13651,7 @@ Línea 15
 Línea A
 Línea Nueva
 López
-Mabrigida
+Mabrígida
 Macanatillo
 Macandela
 Macasilda
@@ -13742,7 +13742,7 @@ Mamey Macho
 Mamillol
 Mamuse
 Mamá Gina
-Mamá Tingo
+Mamá Tingó
 Mamá Tingó (D. M.).
 Mamón
 Manabao
@@ -13831,7 +13831,6 @@ Marcelino
 Marcial Peña
 Margarita
 Marginal Oeste
-Maria Auxiliadora
 Mariana
 Mariano Cestero
 Maricao
@@ -13851,13 +13850,14 @@ Marmolejos Abajo
 Marota
 Martel
 Marticinio (Martinicinio)
-Martin Brunito
 Martinica
 Martín, Martir
 Martín Alonzo
 Martín Alonzo Arriba
-Martín Garcia
+Martín Brunito
+Martín García
 Martínez
+María Auxiliadora
 María Auxiliadora O La Meseta
 María Bonita
 María Consuelo
@@ -14392,7 +14392,7 @@ Palero O Los Higos
 Palero de Benigno
 Paliza Buena
 Palma Arriba
-Palma Cana
+Palma Caña
 Palma Clara
 Palma De Los Hierros
 Palma De Los Santos
@@ -14515,8 +14515,8 @@ Paradero de la Rabiza, La Rabiza, La Raviza, Paradero de la Ravisa
 Paradero de las Cabras
 Paragua
 Paraguay
-Paraiso
 Paralimón
+Paraíso
 Paraíso (Zona Urbana)
 Paraíso De Las Matas
 Parcela  I
@@ -15261,9 +15261,8 @@ Punta Caimoní
 Punta Caimán
 Punta Calderas, Punta Caballera, Punta Caldera
 Punta Caledonia, Punta Celedonio
-Punta Caleton
+Punta Caletón
 Punta Caletón Hondo
-Punta Cana, Cana Point
 Punta Cangrejo, Punta Cangrejos, Punta Congrejo, Punta Congreso
 Punta Canto de la Playa, Punta Cabezota del Canto de la Playa, Punta Cabezote de Canto de la Playa
 Punta Caoba
@@ -15273,6 +15272,7 @@ Punta Casilda
 Punta Catalina
 Punta Catuán, Punta Catuano
 Punta Cayita Honda
+Punta Caña, Cana Point
 Punta Caña O Los Cerros
 Punta Caño El Coco
 Punta Ceferino
@@ -15610,7 +15610,7 @@ Quebradita
 Quemadero
 Quemado del Fundo
 Quiebra Hacha
-Quija Quieta
+Quijá Quieta
 Quimbamba
 Quinigua
 Quinigua De La Yuca (La Yuca)
@@ -15844,10 +15844,7 @@ Rincón de Yuboa
 Rincón de la Cajeta
 Rincón de la Olla
 Rincón del Chivo
-Rio Bajabonico
 Rio Higuamo, Río Higuano, Río Iguamo, Río Macorís, Yaguama Rivière
-Rio Unijica
-Rio Yaque del Norte, Rio Yaqui, Yaque del Norte River
 Riosito
 Rivière Bourrouque, Rivière Bourrouc
 Rivière La Gouasse
@@ -15910,6 +15907,7 @@ Río Azuí, Rio Paso de Azui
 Río Bacuí, Arroyo Bacuí
 Río Baiguaque
 Río Baiguate, Arroyo Baiguate
+Río Bajabonico
 Río Bajamillo, Arroyo Bajamillo
 Río Banilejo, Río Banilejos
 Río Baní
@@ -16157,7 +16155,7 @@ Río Pontón
 Río Potrero
 Río Punta Balandra, Arroyo Carbonero
 Río Pérez
-Río Quisibani
+Río Quisibaní
 Río Rafael, Río Rafei
 Río Rancho Ambrosio
 Río Riote, Arroyo Guásaro, Río Las Gordas
@@ -16186,6 +16184,7 @@ Río Tocino
 Río Tosa
 Río Tubagua
 Río Tábara
+Río Unijica
 Río Vallecito
 Río Vallejuelo
 Río Veragua, Río Venú
@@ -16208,6 +16207,7 @@ Río Yamasá
 Río Yamí, Río Yoní
 Río Yanabo, Arroyo Yanabo
 Río Yanigua
+Río Yaque del Norte, Rio Yaqui, Yaque del Norte River
 Río Yaque del Sur, Río Yaqui, Yaqui del Sur River
 Río Yaquecillo, Río Yaquesillo
 Río Yaroa
@@ -16560,14 +16560,14 @@ Samaná O Samaná Tres Cuerdas
 Samaná Province
 Samángola
 San Alifonso
-San Andres
+San Andrés
 San Antonio
 San Antonio (El Bolsillo)
 San Antonio De Guerra
 San Antonio De Guerra (Zona Urbana)
 San Antón
-San Bartolo
 San Bartolo (Bartolomé)
+San Bártolo
 San Caralampio
 San Carlos
 San Cristóbal
@@ -16591,7 +16591,7 @@ San Francisco De Macorís (Zona Urbana)
 San Francisco O San Feo
 San Francisco de Macorís
 San Francisco-Vicentillo (D. M.).
-San Geronimo
+San Gerónimo
 San Gregorio De Nigua
 San Gregorio De Nigua (Zona Urbana)
 San Gregorio O Kilómetro 18
@@ -16603,7 +16603,7 @@ San Isidro
 San Isidro Adentro
 San Isidro Afuera
 San Joaquín
-San Jose
+San José
 San José (Antiguo Licey Al Medio)
 San José Adentro
 San José Afuera
@@ -16697,7 +16697,7 @@ Santa Cruz De Tenerife
 Santa Eduvigis
 Santa Elena
 Santa Fe
-Santa Lucia
+Santa Lucía
 Santa Lucía (D. M.).
 Santa Lucía (Zona Urbana)
 Santa Lucía De Camba
@@ -16795,7 +16795,7 @@ Siete Vara
 Sigar
 Silloncito
 Sillón Hondo
-Simon Bolivar
+Simón Bolivar
 Simón Striddels
 Sinaí
 Sinencio
@@ -16816,7 +16816,7 @@ Solapa
 Soldado Abajo
 Solera
 Solimán
-Solorin
+Solorín
 Sombrero
 Sonador
 Sonador De Yaroa
@@ -17295,7 +17295,7 @@ Villa Nueva
 Villa Ocoa
 Villa Ocoa O Los Suburbios
 Villa Olga
-Villa Olimpica
+Villa Olímpica
 Villa Orilla O Paraíso
 Villa Paredes
 Villa Penca
@@ -17389,7 +17389,6 @@ Yaque Arriba
 Yarajima
 Yareycito, Yareysito
 Yaroa Abajo
-Yasica Arriba
 Yasiquita
 Yaso
 Yaso Abajo (Arroyo Yabo)
@@ -17421,6 +17420,7 @@ Yuquita
 Yuvina
 Yuvinita
 Yásica Abajo
+Yásica Arriba
 Yásica Arriba (D. M.).
 Yásica Arriba (Zona Urbana)
 Zafarraya

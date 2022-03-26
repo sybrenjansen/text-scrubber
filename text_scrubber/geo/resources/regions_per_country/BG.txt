@@ -11,13 +11,13 @@ Adzhelarska Reka, Adzhelarska
 Agatovo
 Aglen, Ъглен
 Ahcha Bunar, Akhcha Bunar
-Aheloy, Achelous, Aheloy River, Kararaya Dere, Ахелой
+Aheloy, Achelous, Aheloy River, Akheloy, Kararaya Dere
 Ahlatliyska Reka, Akhlatliyska Reka, Ахлатийска Река
 Ahmet Chaushovite Igrechi, Ахмет Чаушовите Игречи
 Ahren Dere, Akhrendere, Ахрен Дере
 Ahtopol
 Ai Bunar, Ай Бунар
-Aigidik, Golyam Mechi Vrŭkh, Golyam mechi vrah, Голям мечи връх
+Aigidik, Golyam Mechi Vrah, Golyam Mechi Vrŭkh, Голям Мечи връх
 Ajdemir, Айдемир
 Ak Alan
 Ak Bair
@@ -68,14 +68,14 @@ Almali
 Alt Tepe
 Altan Tepe, Altŭn Tepe, Алтън Тепе
 Altimir
-Alí Boutoús, Alí Botoús, Alí Butúsh, Gotsev Vrŭkh, Али Ботуш
+Alí Boutoús, Alí Botoús, Alí Botúsh, Alí Butúsh, Gotsev Vrŭkh
 Ama Chifuta
 Amadalan
 Amat Bair, Gora Amatbair
 Ananovo Dere
 Anastasov Grob
 Anastasova Tumba, Tumba Peak
-Anatemata, Анатемато
+Anatemata, Anatemato
 Anatolikí Rodhópi, Anat. Rodhópi, Eastern Rhodope, Istochni Rodopi, Iztochni Rodopi, Родопи
 Andravitsa
 Andreev kamak, Андреев камък
@@ -99,13 +99,13 @@ Arabelot
 Arakul
 Aramanitsa
 Aramazova Plevnya
-Aramia Dere, Арамия Дере
+Aramia Dere, Aramiya Dere
 Aramlia, Aramliya
 Aramlić, (( Aramliya ))
 Arapina
 Arapliyska Reka, Arabliska, Araplijska Reka
 Arapski Kayryatsi
-Araptabia, Араптабия
+Araptabia, Araptabiya
 Arapya
 Aratarnik
 Arbanasi
@@ -157,13 +157,13 @@ Atia, Athia Bay, Saliw Atija
 Atija
 Atiya
 Atlimanskata Dolchina, Altimanskata Dolchina
-Atlimanski Zaliv, Атлиман
+Atlimanski Zaliv, Atliman
 Atlimansko Blato
 Austa
 Avgo
 Avramova Sedlovina, Prokhod Avramov
 Avramovo
-Avramovski Prohod, Mokrenski Prokhod, Аврамовски проход
+Avramovski Prohod, Avramovski Prokhod, Mokrenski Prokhod
 Avren
 Avren Community Sports Field
 Avren Obshtina, Avrenska Obshtina, Golemokamenyanska Obshtina, Obshtina Golyamo Kamenyane, Община Аврен
@@ -176,7 +176,7 @@ Ayaz Tepe
 Ayazlaka, Ayazlŭka, Аязлъка
 Ayazmenski Dol
 Ayazmoto
-Aydarski Kamak, Aydarski Kamŭk, Kara Balkan, Айдарски камък
+Aydarski Kamak, Aydarski Kamŭk, Kara Balkan, Айдарски Камък
 Aytoska Planina, Malka Aytoska Planina
 Aytoska Reka, Aitoska, Aytoska, Ryeka Aytos Deresi
 Aytoski Prohod, Aytoski Prokhod
@@ -293,7 +293,7 @@ Banevo
 Banica, Баница
 Banichan
 Baniska
-Baniski Lom, Ryeka Banitskiy Lom, Бански Лом
+Baniski Lom, Banski Lom, Ryeka Banitskiy Lom
 Banja, Баня
 Banka Dere
 Banka Lakhna
@@ -304,7 +304,7 @@ Banska Reka, Banska, Banska River
 Banski Dren
 Banski suhodol, Бански суходол
 Banskya
-Banyovia Grob, Баньовия Гроб
+Banyovia Grob, Ban'oviya Grob
 Bara, Pelishatska Reka
 Baraboni
 Barakliyska Reka, Barakliyska, Sachan Dere
@@ -345,7 +345,7 @@ Bashivets
 Bashtitsa, Бащица
 Baskalska Reka
 Baskiliova Mogila
-Baslia, Баслия
+Baslia, Basliya
 Bata
 Bata Bunar
 Batak
@@ -378,7 +378,7 @@ Bayraktarski Rid
 Bayraktarskoto Kladenche
 Bayram Dere
 Bayryaka
-Bayuvi dupki, Bayova dupka, Байови дупки
+Bayuvi dupki, Bayova dupka, Bayovi dupki
 Bayuvu
 Bazova Mogila, Basova Mogila, Bazovski, Bozova Hill
 Bazovichka, Bazovichka Reka, Bŭzovichka, Bŭzovichka Reka, Бъзовичка, Бъзовичка Река
@@ -439,7 +439,7 @@ Beli Iskur, Бели Искър
 Beli Kamak, Beli Kamŭk, Byeli-Kamuk, Бели Камък
 Beli Kladenets
 Beli Lom, Ryeka Ak Lom, Ryeka Byeli Lom
-Beli Osum, Beli Ossăm, Ryeka Byeli Osem, Ryeka Byeli Osŭm, Бели Осъм
+Beli Osŭm, Beli Ossăm, Ryeka Byeli Osem, Ryeka Byeli Osŭm, Бели Осъм
 Beli Vit, Beli Wit, Ryeka Byeli Vit, Ryeka Vid, Ryeka Vida
 Beli brod
 Beli izvor
@@ -457,7 +457,7 @@ Belishka Reka
 Belite Kladentsi
 Belitsa, Beliza, Ryeka Byelitsa, Ryeka Kilifarevsva
 Beljakovec, Беляковец
-Belmeken, Beli Vrŭkh, Byelmeken, Vŭrkh Belmeken, Коларов
+Belmeken, Beli Vrŭkh, Byelmeken, Kolarov, Vŭrkh Belmeken
 Belmeken Dam
 Belo pole
 Belodol
@@ -466,7 +466,7 @@ Belogradchishki Prokhod, Kadŭ Boaz, Kadŭboazki
 Belogradchishki Skali
 Belogradec, Белоградец
 Belomorci, Беломорци
-Belomorski Prohod, Беломорски проход
+Belomorski Prohod, Belomorski Prokhod
 Belopolci, Белополци
 Belopopci, Белопопци
 Beloradska Reka, Reka Byeloradska, Белодарска Река
@@ -547,7 +547,7 @@ Bistra
 Bistrec, Бистрец
 Bistrenci, Бистренци
 Bistrica
-Bistritsa, Bistriza, Sandanski Bistritsa, Sveti Vrach Bistritsa, Sweta Wratschka, Санданска Бистрица
+Bistritsa, Bistriza, Sandanska Bistritsa, Sandanski Bistritsa, Sveti Vrach Bistritsa, Sweta Wratschka
 Bistroto Dano, Bistroto Dŭno, Бистрото Дъно
 Bivolare
 Bivolarnika
@@ -560,7 +560,7 @@ Bjala cherkva, Бяла черква
 Bjala reka
 Bjala voda
 Bjalo pole, Бяло поле
-Blagoevgrad, Blagoevgradski Okrŭg, Okrŭg Gorna Dzhumaya, Област Благоевград
+Blagoevgrad, Blagoevgradski Okrŭg, Oblast Blagoevgrad, Okrŭg Gorna Dzhumaya
 Blagoevgradska Bistritsa, Bistriza
 Blagoevo
 Blagoevski Rayon, Blagoev, Chetvŭrti Rayon Blagoevski, Fourth Rayon, IV-i Rayon
@@ -632,7 +632,7 @@ Boljarci, Болярци
 Boljarino, Болярино
 Boljarski izvor, Болярски извор
 Boljarsko
-Bolovan, Воловето
+Bolovan, Voloveto
 Bolvan
 Bolyarsko, Seydler, Sultaneri
 Bondzhukluka
@@ -780,7 +780,7 @@ Bubina Bara
 Buche
 Bucheto
 Buchinara
-Buchinski Prohod, Бучински проход
+Buchinski Prohod, Buchinski Prokhod
 Buchkata
 Buchovitsa
 Buchovo
@@ -790,7 +790,7 @@ Budenitsa
 Budeshhe, Бъдеще
 Budurovtsi
 Budzhak
-Budzhak Dere, Budshăk Dere, Дера
+Budzhak Dere, Budshăk Dere, Dera
 Buf Tepe, Booftepe
 Bufalo
 Buga Glava
@@ -888,7 +888,7 @@ Byala's Dock
 Byalata Cheshma
 Byalata Reka, Byalata
 Byalata Voda
-Byalia Kamen, Бялия Камен
+Byalia Kamen, Byaliya Kamen
 Byalkovtsi
 Byuyu
 Byuyuk Dere, Byuyukdere, Дююк дере
@@ -1005,14 +1005,14 @@ Chengene
 Chengene Bair
 Chengene Chukur
 Chengene Dere
-Chengene Gyol, Ченгене Гьол
+Chengene Gyol, Chengene G'ol
 Chengene Kale, Chengino Kale, Čengine Kale, Čengino Kale
 Chengene Saray
 Chengene Skelya
 Chepan, Chepan Planina, Chepŭn, Golem Cepan, Golyem Chepan, Чепън
 Cheparna, Chepŭrna, Чепърна
 Chepelarska Reka, Assenowgradska, Chai, Chaya, Chepelarska, Ryeka Stanimachitsa, Ryeka Stanimachnitsa
-Cheperushkovia Bair, Чеперушковия Баир
+Cheperushkovia Bair, Cheperushkoviya Bair
 Chepinci, Чепинци
 Chepino
 Chepinska Kotlovina, Chepinsko Korito
@@ -1064,9 +1064,9 @@ Chernatitsa, Kara Balkan, Kara Dag
 Chernevo
 Cherni Iskar, Cherni Iskŭr, Tscherni Isker, Черни Искър
 Cherni Lom, Ryeka Kara-Lom, Tscherni Lom
-Cherni Osum, Ryeka Cherni Osem, Tscherni Ossăm, Черни Осъм
+Cherni Osŭm, Ryeka Cherni Osem, Tscherni Ossăm, Черни Осъм
 Cherni Vit, Ryeka Chernŭy Vid, Tscherni Wit
-Cherni Vrah, Tscherni Wrăch, Черни връх
+Cherni Vrah, Tscherni Wrăch, Черни Връх
 Cherni vrah, Черни връх
 Cherni vrukh, Черни връх
 Chernia Kamak, Черния Камък
@@ -1115,7 +1115,7 @@ Cherveni vrah, Червени връх
 Chervenkova mogila
 Chervenoto Bardo, Chervenoto Bŭrdo, Червеното Бърдо
 Chervenyako
-Cheshlyanska, Чешлянска Река
+Cheshlyanska, Cheshlyanska Reka
 Cheshma Ibicha
 Cheshma Rogova, Cheshma Rogoua
 Cheshmata
@@ -1160,9 +1160,9 @@ Choba
 Chobanova Cheshma
 Chok Choban
 Chokalova Chuka
-Choklyovsko Blato, Chokl'ovo Blato, Чокльовско Блато
+Choklyovsko Blato, Chokl'ovo Blato, Chokl'ovsko Blato
 Chokoba
-Cholakovia Kayryak, Чолаковия Кайряк
+Cholakovia Kayryak, Cholakoviya Kayryak
 Chomakovci, Чомаковци
 Chongara
 Choplak Tepe
@@ -1170,7 +1170,7 @@ Choratsite
 Chorbadzhijsko, Чорбаджийско
 Chorbarski Geran
 Chorkova Bardchina, Chórkova-Bírchina, Чоркова Бърдчина
-Chorlia, Чорлия
+Chorlia, Chorliya
 Choveka, Begbunar, Bel Bunar
 Chovlashka Mogila
 Choyka
@@ -1202,7 +1202,7 @@ Chukovec, Чуковец
 Chukovo
 Chukovski Rid
 Chukur
-Chukurkyovska Reka, Chukurk'ovska, Чукурковска река
+Chukurkyovska Reka, Chukurk'ovska, Chukurk'ovska Reka
 Chukurlieva Mogila
 Chukurov Vrah, Chukurov Vrŭkh, Чукуров Връх
 Chulechetsa
@@ -1310,7 +1310,7 @@ Dede Bunar
 Dedelen Dere
 Dedin Dol
 Dedo Atanasova Cheshma
-Dedo Genevia Bunar, Дедо Геневия Бунар
+Dedo Genevia Bunar, Dedo Geneviya Bunar
 Dedo Ivana
 Dedo Milushevoto Vrisle
 Dedo Nedyov Bair, Дедо Недьов Баир
@@ -1372,7 +1372,7 @@ Dervichki Kladenets
 Dervishka Mogila
 Dervishkata
 Desetkari, Ashari K'oy
-Desetkarska Koria, Десеткарска Кория
+Desetkarska Koria, Desetkarska Koriya
 Deskovets
 Desna
 Desnata Bara
@@ -1420,7 +1420,7 @@ Disevica, Дисевица
 Dishbudashka Koria, Дишбудашка Кория
 Dishlika
 Disilitsa
-Divlyanska, Дивлянска Река
+Divlyanska, Divlyanska Reka
 Divna
 Divotino
 Divriklii
@@ -1453,7 +1453,7 @@ Dobrina
 Dobrinci, Добринци
 Dobrinishhe, Добринище
 Dobrinishtka Reka, Dobrinishka Reka, Добринищка река
-Dobro Jutro, Добро Утро
+Dobro Jutro, Dobro Utro
 Dobrodan
 Dobrogled
 Dobrolevo
@@ -1477,7 +1477,7 @@ Dodolar
 Dodov vrah, Додов връх
 Doganovo
 Dogarlii, Dogúrlii, Догърлии
-Dojranci, Дойранци
+Dojranci, Doyrantsi
 Dojrenci, Дойренци
 Doktor Josifovo, Доктор Йосифово
 Dokulyanka
@@ -1485,7 +1485,7 @@ Dokurdzhum
 Dokuzak
 Dokuzashki Bair
 Dol Komudar
-Dol Suluklia, Дол Сулуклия
+Dol Suluklia, Dol Sulukliya
 Dola
 Dolapi Tash
 Dolchina
@@ -1503,7 +1503,7 @@ Dolna Dikanja, Долна Диканя
 Dolna Gradeshnica, Долна Градешница
 Dolna Hadzhiyska, Dolna Khadzhiyska, Dolna Khadzhiyskaya, Dolna-Chadshinska, Syurgyulii
 Dolna Kabda
-Dolna Kaditsa, Долна Кадиица
+Dolna Kaditsa, Dolna Kadiitsa
 Dolna Khubavka
 Dolna Kiselitsa
 Dolna Kremena
@@ -1586,7 +1586,7 @@ Dositeevo
 Dospat
 Dospat Dag
 Dospatska Kotlovina
-Dospatski Prohod, Доспатски Проход
+Dospatski Prohod, Dospatski Prokhod
 Dospej, Доспей
 Dospey Bair, Dospei Bair, Dospeyski Bay
 Dovan Burun
@@ -1621,7 +1621,7 @@ Dragor
 Dragoshinitsa
 Dragotinska Reka
 Dragovishhica, Драговищица
-Dragovishtitsa, Dragovištica, Dragovištica River, Dragovštica, Ryeka Dragovishtitsa, Драговищица, Драговщица
+Dragovishtitsa, Dragovištica, Dragovištica River, Dragovstica, Ryeka Dragovishtitsa, Драговищица, Драговщица
 Dragovishtitsa Obshtina, Община Драговищица
 Dragovo
 Dragovski kamik, Драговски камък
@@ -1651,7 +1651,7 @@ Drenci, Дренци
 Drenov
 Drenovec
 Drenovets
-Drenovo, Дряново
+Drenovo, Dryanovo
 Drenovski Dol
 Drinovo
 Drjanka, Дрянка
@@ -1740,17 +1740,17 @@ Dyado Ivanovo Kladenche
 Dyado Mitova Mogila
 Dyado Nikolova Polyana
 Dyadoatanasova Mogila
-Dyadogeoryovata Mogila, Дядогеорьовата Могила
+Dyadogeoryovata Mogila, Dyadogeor'ovata Mogila
 Dyal
 Dyavolska Reka, Alan Kairjak, Alan Kairyak, Dudenska Reka, Krivodatino, Ryeka Alan-Kayrak
 Dyavolski Dol
-Dyavolski Zaliv, Zaliv D'yavol'skiy, Zaliv Dyavolski, Дяволският залив
+Dyavolski Zaliv, Dyavolskiyat Zaliv, Zaliv D'yavol'skiy, Zaliv Dyavolski
 Dyavolskoto Blato
 Dyoner Baba, Дьонер Баба
 Dyudyukov Grob, Diudiúkov Grób
 Dyulger
 Dyulin Kladenets
-Dyulinski Prohod, Ayvadzhishki Prokhod, Дюлински проход
+Dyulinski Prohod, Ayvadzhishki Prokhod, Dyulinski Prokhod
 Dyunite
 Dyunya Tarla, Diuniá Tarlá
 Dyushun Dere
@@ -1808,7 +1808,7 @@ Egrechkata Reka
 Egrek
 Egreka
 Eileston
-Ekihchi Bair, Ekichtschijte, Ekihchi, Ekikhchi Bair, Gora Ekikhchi Bair, Екихчи
+Ekihchi Bair, Ekichtschijte, Ekihchi, Ekikhchi, Ekikhchi Bair, Gora Ekikhchi Bair
 Ekinlika
 Ekrene
 Ekrenska Reka
@@ -1837,7 +1837,7 @@ Eleshnitsa, Eleschniza, Eleshnitsa Reka, Vleshnitsa
 Elezda, Elezdaa
 Elhata, Елхата
 Elhite, Elkhite
-Elhovia Izvor, Елховия Извор
+Elhovia Izvor, Elkhoviya Izvor
 Elhovska Reka, Elkhovska Reka
 Elichka Reka
 Elidzhenska Reka
@@ -1895,7 +1895,7 @@ Eski Baalar
 Eskinasliyska Reka
 Etropole
 Etropolska Planina
-Etropolski Prohod, Etropole Prohod, Prokhod Etropole, Етрополски проход
+Etropolski Prohod, Etropole Prohod, Etropolski Prokhod, Prokhod Etropole
 Evga
 Ezerche
 Ezeretsko Blato
@@ -1906,14 +1906,14 @@ Ezerovo
 Ezhovitsa, Ezhevitsa, Reka Bzhevitsa
 Fakaliykata
 Fakija, Факия
-Fakir tepe, Факира
+Fakir tepe, Fakira
 Fakiyska Reka, Fakijska Reka, Fakiyska
 Fandakdere, Fŭndŭkdere, Фъндъкдере
 Fandakliyska Reka, Fŭndakliyska Reka, Fŭndŭkliyska Reka, Фъндаклийска Река, Фъндъклийска река
 Fantáros
 Farfaradzhiyska Cheshma
 Farkalitsa, Fŭrkalitsa, Фъркалица
-Farlavishte, Стебсна чука, Стобсна чука, Фърлавище
+Farlavishte, Stebsna chuka, Stobsna chuka, Фърлавище
 Fazara
 Fazlata
 Feldfebel Denkovo
@@ -1985,7 +1985,7 @@ Gandenitsa, Gŭndenitsa, Гънденица
 Ganevtsi, Ganevtsŭ
 Ganunitsa
 Ganyovata Cheshma, Gan'ovata Cheshma
-Garazhiyskia Dol, Гаражийския Дол
+Garazhiyskia Dol, Garazhiyskiya Dol
 Garbovets, Gŭrbovets, Гърбовец
 Gargalaka, Gargalŭka, Гаргалъка
 Gargalyk, Гаргалък
@@ -2001,7 +2001,7 @@ Garloto, Gŭrloto, Гърлото
 Garmivata Zemya, Гърмивата Земя
 Garnova Chuka
 Garvan, Gargalŭka
-Garvanitsa, Gorovanitsa, Гайдурица, Малка Гарваница
+Garvanitsa, Gayduritsa, Gorovanitsa, Malka Garvanitsa
 Garvanovo
 Garvanya, Garvánia
 Garzhevitsita
@@ -2135,7 +2135,7 @@ Golem Gornov
 Golem Kamak, Golem Kamŭk, Голем Камък
 Golem Kosach
 Golema Chuka
-Golema Dere, Kocadere, Ryeka Golyema, Ryeka Velika, Veleka Dere, Veleka River, Weleka, Велека, Големо Дере
+Golema Dere, Kocadere, Ryeka Golyema, Ryeka Velika, Veleka, Veleka Dere, Veleka River, Weleka, Големо Дере
 Golema Elovitsa
 Golema Ikuna, Gora Ikunita, Ikonata, Ikonita, Голема кула
 Golema Kitka
@@ -2162,7 +2162,7 @@ Golemia Golyash, Golemiya Golyash
 Golemia Kamak, Golemiya Kamŭk, Големия Камък
 Golemia Kupen, Kara Sivri, Големия Купен
 Golemia Lagator, Големия Лъгатор
-Golemia Rid, Големия Рид
+Golemia Rid, Golemiya Rid
 Golemia Vrah, Golemiya Vrŭkh, Големия Връх
 Golemia krachol, Големия крачол
 Golemia rid, Големия рид
@@ -2177,10 +2177,10 @@ Golezh
 Goli vrah, Голи връх
 Golia Bair, Goliya Bair
 Golia Rat, Голия Рът
-Golia Rid, Голия Рид
+Golia Rid, Goliya Rid
 Golia Vrah, Goliya Vrŭkh, Голия Връх
 Golica, Голица
-Golishki Prohod, Голишки проход
+Golishki Prohod, Golishki Prokhod
 Golite Bairi
 Goljam Devesil, Голям Девесил
 Goljam Porovec, Голям Поровец
@@ -2209,7 +2209,7 @@ Golobrad
 Golobradovo
 Gologlavets
 Goloto Bairche
-Golouh, Голоух
+Golouh, Goloukh
 Golovets
 Golubarnik
 Golyam Brashlen, Golyam Brŭshlen, Голям Бръшлен
@@ -2219,7 +2219,7 @@ Golyam Debelets, Golem Debelets, Golem Debelez, Golyem Debelets, Golyem Debyelet
 Golyam Dol
 Golyam Gargalak, Golyam Gargalŭk, Голям Гаргалък
 Golyam Gazey
-Golyam Kademlia, Kademliya, Голям Кадемлия
+Golyam Kademlia, Golyam Kademliya, Kademliya
 Golyam Kamak, Golyam Kamŭk, Голям Камък
 Golyam Kapral
 Golyam Kara Bash, Golem Kara Bash, Golyam Kara Basch, Kara Bash, Kara Bash Heights
@@ -2239,7 +2239,7 @@ Golyam Tsarev Vrah, Golyam Tsarev Vrŭkh, Голям Царев Връх
 Golyama Chikevitsa
 Golyama Garvanitsa
 Golyama Kalka
-Golyama Kamchia, Golema Kamchiya, Golema Kamtschija, Golema Ticha, Goljema Kamčija, Golyema Kamchiya, Голяма Камчия
+Golyama Kamchia, Golema Kamchiya, Golema Kamtschija, Golema Ticha, Goljema Kamčija, Golyama Kamchiya, Golyema Kamchiya
 Golyama Kolonitsa
 Golyama Kosharitsa
 Golyama Mogila
@@ -2258,7 +2258,7 @@ Golyamata Kotvina
 Golyamata Krusha
 Golyamata Mogila, Голямта Могила
 Golyamata Polyana
-Golyamata Reka, Голямата
+Golyamata Reka, Golyamata
 Golyamata Sivria, Golema Sivria, Голема Сиврия, Голямата Сиврия
 Golyamata livada
 Golyamia Bair, Голямия Баир
@@ -2339,7 +2339,7 @@ Gorni Genovtsi, Gorni Genovtsŭ
 Gorni Lom
 Gorni Okol
 Gorni Vadin
-Gornia Samovilyak, Горен Сомовиляк, Горния Самовиляк
+Gornia Samovilyak, Goren Somovilyak, Горния Самовиляк
 Gornik
 Gornite Cheshmi
 Gornite Gredove
@@ -2361,7 +2361,7 @@ Gorno Peshhene, Горно Пещене
 Gorno Prakhovo
 Gorno Ribno Ezero, Golyamo Ribno Ezero
 Gorno Sakhrane
-Gorno Yazovo, Gora Yazova, Yazov, Горноязово
+Gorno Yazovo, Gora Yazova, Gornoyazovo, Yazov
 Gornotrakiyska Nizina, Thracian Plain, Trakiyska Nizina
 Gorocvet, Гороцвет
 Gorolov Chukar
@@ -2476,7 +2476,7 @@ Gubeshka Reka
 Guchovitsa, Gucovicha
 Gudomansko Dere
 Gugini Tsarkvi, Gugini Tsŭrkvi, Гугини Църкви
-Guglyovets, Гугльовец
+Guglyovets, Gugl'ovets
 Gugneva Bardchina, Gugnéva Birchína, Гугнева Бърдчина
 Gugov Dol
 Gugusov Vrah, Gugusov Vrŭkh, Гугусов Връх
@@ -2513,15 +2513,15 @@ Gyok Tepe, G'ok Tepe
 Gyokchuklu Dere, G'okchukludere, Гьокчуклу Дере
 Gyol Bunar, Giól Bunár, Гьол Бунар
 Gyol Dere, G'oldere, Гьол Дере
-Gyola, Гьола
+Gyola, G'ola
 Gyolishtata, Гьолищата
 Gyolovete, Гьоловете
-Gyoltepe, Gjol Tepe, Gora Gël Tepe, Гьолтепе
-Gyorgyov Kayryak, Гьоргьов Кайряк
-Gyovren, Гьоврен
-Gyoz Tepe, Гьоз Тепе
+Gyoltepe, G'oltepe, Gjol Tepe, Gora Gël Tepe
+Gyorgyov Kayryak, G'org'ov Kayryak
+Gyovren, G'ovren
+Gyoz Tepe, G'oz Tepe
 Gyozchi Karakol, Giozchú Karakól, Гьозчи Каракол
-Gyoztepe, Mount Saint Elias, Гьозтепе
+Gyoztepe, G'oztepe, Mount Saint Elias
 Gyudyurska Reka
 Gyulgyulyuka
 Gyulyudzhe
@@ -2540,58 +2540,58 @@ Gyurgyunliysko Dere
 Gyurova Cheshma
 Gyurova Chuka
 Gyurovets
-Hadzhi Bekyaryuk, Хаджи Бекярюк
+Hadzhi Bekyaryuk, Khadzhi Bekyaryuk
 Hadzhi Dere, Хаджи Дере
 Hadzhi Dimitar, Dimitŭr, Gora Buzludzha, Khadzhi Dimitŭr, Khŭlm Dimitŭr, Vŭrkh Buzludzha, Хаджи Димитър
 Hadzhi Karna, Khadzhi Karna
-Hadzhi Yan, Хаджи Ян
-Hadzhidimovo, Obshtina Hadzhidimovo, Obshtina Khadzhidimovo, Община Хаджидимово, Хаджидимово
+Hadzhi Yan, Khadzhi Yan
+Hadzhidimovo, Khadzhidimovo, Obshtina Hadzhidimovo, Obshtina Khadzhidimovo, Община Хаджидимово
 Hadzhiev Sart, Khadzhiev Sŭrt, Хаджиев Сърт
 Hadzhiev Vrah, Khadzhiev Vrŭkh, Хаджиев Връх
 Hadzhiite
 Hadzhimirsko, Hazí-Mírshko, Хаджимирско
 Hadzhiov Bair, Khadzhiov Bunar, Хаджиов Баир
 Hadzhiyka, Gora Khadzhiyka, Хаджийка
-Hadzhiyska Mogila, Хаджийска Могила
-Hadzhiyska Reka, Chadshi-Dere, Hadzhi River, Reka Khadzhidere, Хаджийска река
+Hadzhiyska Mogila, Khadzhiyska Mogila
+Hadzhiyska Reka, Chadshi-Dere, Hadzhi River, Khadzhiyska Reka, Reka Khadzhidere
 Hadzhiyski Dol, Khadzhiyski Dol
 Hadzhiysko Blato, Хаджийско Блато
 Hadzhiytsa, Хаджийца
 Halkata, Халката
 Halvadzhiite, Khalvadzhiite
 Hamam Bunar, Dolno Kale, Khamam Bunar
-Hambar Dere, Chamba Dere, Chambar Dere, Хамбар дере
+Hambar Dere, Chamba Dere, Chambar Dere, Khambar Dere
 Hambar Tepe, Khambartepe, Хамбар Тепе
 Hambardere, Khambar, Khambardere
-Hambarliyska, Хамбарлийска
+Hambarliyska, Khambarliyska
 Hanat, Ханът
-Hancheto, Ханчето
-Hanovete, Хановете
+Hancheto, Khancheto
+Hanovete, Khanovete
 Hantova Arpalak, Khŭntova Arpalŭk, Хънтова Арпалък
-Haramiyski Izvor, Харамийски Извор
+Haramiyski Izvor, Kharamiyski Izvor
 Haramiyskiya Vrah, Kharamiyskiya Vrŭkh, Харамийския връх
 Haramiyte, Харамийте
 Harman Kaya, Kharman Kaya
 Harmanliyska Reka, Kharmanliyska, Kharmanliyska Reka, Ryeka Oludere
 Harmanyata, Harmanata, Kharmanyata, Харманата
-Harsovska Reka, Dereboyu, Harskovska Reka, Khŭrsovska Reka, Хърсовска река
+Harsovska Reka, Dereboyu, Harskovska Reka, Khŭrsovska Reka, Хърсовска Река
 Hasan Fakli, Khashán-Faklí, Хасан Факли
 Hasan Paša
-Hasar, Хасар
+Hasar, Khasar
 Hasekiyata, Khasekiyata
 Hasi Dere, Hasl Dere, Khasi Dere, Khasl Dere
-Haskovo, Húskovo, Khaskovska Oblast, Khaskovski Okrŭg, Oblast Haskovo, Област Хасково, Хасково
-Haskovska Reka, Chaskowska Reka, Haskovska, Khaskovska, Ryeka Khaskioi Dere, Хасковска река
-Haydarlitsa, Хайдарлица
+Haskovo, Húskovo, Khaskovo, Khaskovska Oblast, Khaskovski Okrŭg, Oblast Haskovo, Oblast Khaskovo
+Haskovska Reka, Chaskowska Reka, Haskovska, Khaskovska, Khaskovska Reka, Ryeka Khaskioi Dere
+Haydarlitsa, Khaydarlitsa
 Haydarliy, Khaydarliy
 Haydat Bunar, Хайдат Бунар
 Haydushka Bardchina, Хайдушка Бърдчина
-Haydushka Chuka, Хайдушка Чука
+Haydushka Chuka, Khaydushka Chuka
 Haydushkata mogila, Haydushka mogila, Хайдушка могила, Хайдушката могила
 Haydushki Kamak, Ajdučki Kamen, Khaydushki Kamŭk, Айдуцки Камен, Хайдушки Камък
 Haydushki Kladenets, Khaydushki Kladenets
 Haydushki Vrah, Khaydushki Vris, Khaydushki Vrŭkh, Хайдушки Връх
-Haydushki Vris, Хайдушки Врис
+Haydushki Vris, Khaydushki Vris
 Haydushko Kladenche, Khaydushko Kladenche
 Haydushko Kladenets, Khaydushko Kladenets
 Haydushkoto Kladenche, Khaydushkoto Kladenche
@@ -2605,15 +2605,15 @@ Hlebka, Khlebka
 Hleven, Khambartash, Khleven
 Hodzha Vrah, Khodzha Vrŭkh, Ходжа Връх
 Hodzhanski Dol, Khodzhanski Dol
-Hodzhata, Hocata, Hodzha Bair, Khodzhata, Ходжа Баир, Хоцата
-Hodzhemarska Reka, Azmak, Ходжемарска Река
+Hodzhata, Hocata, Hodzha Bair, Khodzha Bair, Khodzhata, Хоцата
+Hodzhemarska Reka, Azmak, Khodzhemarska Reka
 Hodzhov rid, Ходжов рид
 Hodzhovitsa, Khodzhovitsa
-Horozlar, Хорозлар
+Horozlar, Khorozlar
 Hosibanova Chuka, Khosibanova Chuka
 Hranova Niva, Khranova Niva
-Hremchitsa, Хремчица
-Hubanovtsi, Хубановци
+Hremchitsa, Khremchitsa
+Hubanovtsi, Khubanovtsi
 Hubavets, Хубавец
 Huhla, Khukhla
 Hulivinovo, Хуливиново
@@ -2622,7 +2622,7 @@ Hvoynati vrah, Хвойнати връх
 Ibar, Iber, Ibŭr, Ибър
 Ibisheva Cheshma
 Ibredzhek
-Ibrovia Lom, Ибровия Лом
+Ibrovia Lom, Ibroviya Lom
 Ibryam Cheshma
 Ibryam Mahle, Ibrahim-Mahle, Ibryam Makhle, Ибрям Мехле
 Ibryamka
@@ -2657,7 +2657,7 @@ Indzhe Bair
 Indzhe Dere, Indzhedere
 Indzheli Bair
 Inovo
-Ipova Dupka, Драгоя
+Ipova Dupka, Dragoya
 Irakli
 Irantepe
 Irechek
@@ -2665,21 +2665,21 @@ Irechekovo
 Irik Bair
 Irliysko Dere
 Isekya, Исекиа
-Iskar, Golem Iskar, Isker, Ryeka Golyem Iskŭr, Ryeka Golyemŭy Isker, Искър
+Iskar, Golem Iskar, Isker, Iskr, Ryeka Golyem Iskŭr, Ryeka Golyemŭy Isker
 Iskarski Prolom, Iskŭrski Prolom, Staroplaninski Prolom, Искърски Пролом
 Iskra
 Iskrat
 Iskrec, Искрец
 Iskretska Reka, Iskretska
 Iskrica, Искрица
-Iskur, Ezero Stalin, Stalin Reservoir, Yazovir Stalin, Искър
+Iskŭr, Ezero Stalin, Stalin Reservoir, Yazovir Stalin, Искър
 Ismailitsa
 Isperikhovo
 Ispiritsa
 Ispolin, Gora Chufut, Tschufut
-Istiryovska Chukara, Истирьовска Чукара
+Istiryovska Chukara, Istir'ovska Chukara
 Istochen
-Isuflarska Koria, Исуфларска Кория
+Isuflarska Koria, Isuflarska Koriya
 Isuflarska Reka
 Ivajlo, Ивайло
 Ivan Shishmanovo
@@ -2876,7 +2876,7 @@ Kamarski Kladenets
 Kamba
 Kambelevska Reka
 Kamberova Chuka
-Kamburova Koria, Камбурова Кория
+Kamburova Koria, Kamburova Koriya
 Kamburovo
 Kambutska Chuka
 Kamchia
@@ -2892,7 +2892,7 @@ Kamenets
 Kamenev Rid
 Kamenichki Dol
 Kamenita Mogila
-Kamenitia Archar, Archar River, Каменития Арчар
+Kamenitia Archar, Archar River, Kamenitiya Archar
 Kamenitsa, Kameniza, Kamenka, Ryeka Kanar Dere
 Kamenjak, Каменяк
 Kamenlivata Mogila
@@ -2973,7 +2973,7 @@ Karabunar
 Karabunarsko Dere
 Karaburun
 Karach Burun, Karatch Burun
-Karachair, Каача Чаир
+Karachair, Kaacha Chair
 Karachanlak, Karachanlŭk, Карачанлък
 Karachdere
 Karacholova Chuka
@@ -3051,9 +3051,9 @@ Karlukovo
 Karmaza Dere, Kŭrmŭzŭdere, Кърмъзъ Дере
 Karna Bair, Gora Kernabair
 Karneva Chuka, Kŭrneva Chuka, Кърнева Чука
-Karneva Livada, Kŭrneva Livada, Кърнева ливада
+Karneva Livada, Kŭrneva Livada, Кърнева Ливада
 Karnobatska Planina, Mala Karnobatska Planina, Malka Aytoska Planina, Malka Karnobatska Planina
-Karnobatski Prohod, Chalŭkavashki Prokhod, Rishki Prokhod, Карнобатски проход
+Karnobatski Prohod, Chalŭkavashki Prokhod, Karnobatski Prokhod, Rishki Prokhod
 Karnovski Dol, Kŭrnovski Dol, Кърновски Дол
 Karova Chuka
 Karsalevo
@@ -3079,7 +3079,7 @@ Kasa Padina, Къса Падина
 Kasa Reka, Kŭsa Reka, Къса Река
 Kasak, Kŭsŭk, Късък
 Kasakli Tepe
-Kasanva Kora, Касунва Кора, Касънва Кора
+Kasanva Kora, Kasŭnva Kora, Касънва Кора
 Kasap Dere
 Kasha
 Kashev Kladenets
@@ -3098,7 +3098,7 @@ Katardzhika
 Katinski Rid
 Katran
 Katrandzhi Dere
-Katrandzhievia Bair, Катранджиевия Баир
+Katrandzhievia Bair, Katrandzhieviya Bair
 Katrandzhika, Katranjika
 Katrandzhiyska
 Katrandzhiysko Kladenche
@@ -3119,7 +3119,7 @@ Kauka
 Kaurchan
 Kavak Bair
 Kavak Bunar
-Kavak Dere, Дере Деренска река
+Kavak Dere, Dere Derenska Reka
 Kavakl Dere
 Kavaklar
 Kavakli Dere, Kavaklŭdere
@@ -3170,7 +3170,7 @@ Keche Dere, Kechedere
 Kechelyata
 Keci Kaya, Кеци Кая
 Kedik Dere
-Kel Kaya (Dermen Kaya), Dermen Kaya, Kelkaya, Дерменкая
+Kel Kaya (Dermen Kaya), Dermen Kaya, Dermenkaya, Kelkaya
 Kel Tepe
 Kelederesi
 Kelemeto
@@ -3200,9 +3200,9 @@ Kerin Kladenets
 Kerkenezova Mogila
 Kermen
 Kermen Gradska Obshtina, Obshtina Kermen, Община Кермен
-Kervansaray, Aytolu Tepesi, Kerwan Saraj, Керван Сарай
+Kervansaray, Aytolu Tepesi, Kervan Saray, Kerwan Saraj
 Kesarevo
-Kesebir, Кесибир
+Kesebir, Kesibir
 Kestenovo
 Ketelnika
 Ketenliyska Reka, Ketenliyska, Катенлийска река
@@ -3256,7 +3256,7 @@ Kirkov Bair
 Kirkovata Cheshma
 Kirkovski Rayon, Shesti Rayon Kirkovski, VI-i Rayon
 Kirov Geran
-Kirova Koria, Кирова Кория
+Kirova Koria, Kirova Koriya
 Kirovo Pladnishte, Gora Kirovo-Pladnishche, Кирово Пладнище
 Kiryakov Chukar
 Kiselechki kamak, Киселечки камък
@@ -3270,7 +3270,7 @@ Kiselički Karakol
 Kishena
 Kishla
 Kisovitsa, Kishovícha
-Kisyov Dol, Кисьов Дол
+Kisyov Dol, Kis'ov Dol
 Kisyov kladenets, Кисьов кладенец
 Kitanchevo
 Kiten
@@ -3441,7 +3441,7 @@ Koraba
 Korakya, Baghlar Point, Kap Korakja, Mis Kuratan, Mys Bakerly, Mys Bakhlar, Nos Kuratan
 Koren
 Korfia, Корфия
-Koria, Кория
+Koria, Koriya
 Korishteto, Корището
 Koritata
 Koriten
@@ -3457,7 +3457,7 @@ Korkina
 Kormanitsa
 Kormjansko, Кормянско
 Kornica, Корница
-Korta Bunar Tepe, Картал бунар тепе
+Korta Bunar Tepe, Kartal Bunar Tepe
 Korten
 Kortin
 Koru Bair, Korubayir, Корубаир
@@ -3487,7 +3487,7 @@ Kosovec, Косовец
 Kosovitsa
 Kosovo
 Kosovo Bardo, Kosovo Bŭrdo, Косово Бърдо
-Kosovska Reka, Косовска
+Kosovska Reka, Kosovska
 Kostadinchovtsi, Kustadŭnchovtsŭ
 Kostadinka
 Kostandenec, Костанденец
@@ -3517,7 +3517,7 @@ Kotesh
 Kotlenci, Котленци
 Kotlenska Planina, Kotelska Planina, Vŭrbishka Planina
 Kotlenska Reka, Kotleshnitsa
-Kotlenski Prohod, Котленски проход
+Kotlenski Prohod, Kotlenski Prokhod
 Kotya
 Kovachevci, Ковачевци
 Kovachevec, Ковачевец
@@ -3546,7 +3546,7 @@ Kozarnik
 Kozarnitsi
 Kozarska Reka
 Kozarsko
-Kozhinska Reka, Кожанска, Кожинска
+Kozhinska Reka, Kozhanska, Kozhinska
 Kozhuh, Bair Makhle, Kozhukh
 Kozi rid
 Kozica, Козица
@@ -3560,7 +3560,7 @@ Koznichka Reka
 Koznitsa
 Kozuliyskoto Dere
 Kozuyatak
-Kozya Stena, Козята стена
+Kozya Stena, Kozyata Stena
 Kozyak
 Koúla
 Koúla Óros
@@ -3695,7 +3695,7 @@ Kucina, Куцина
 Kudelin
 Kudina Glava
 Kudyovata Mogila, Kud'ovata Mogila
-Kukalo, Стоенджикова чука
+Kukalo, Stoendzhikova chuka
 Kukerov Izvor
 Kuki, Gora Kuka, Kuka
 Kukla
@@ -3717,7 +3717,7 @@ Kulata, Gora Kulata, Kudáta
 Kulina voda
 Kulkin Geran
 Kulumbaro
-Kulyovitsa, Кульовица
+Kulyovitsa, Kul'ovitsa
 Kumanova Koria, Куманова Кория
 Kumenchitsa
 Kumlika
@@ -3745,7 +3745,7 @@ Kurduzhi Dere
 Kurdzhilaka, Курджилъка
 Kurgan Markovi-Mogila
 Kuril, Kolibi Kuril
-Kuril Kale, Kuril Kali, Kurl Kal, Kurtkale, Шейновец
+Kuril Kale, Kuril Kali, Kurl Kal, Kurtkale, Sheynovets
 Kurnalovo, Кърналово
 Kurnare, Кърнаре
 Kurt
@@ -3802,7 +3802,7 @@ Kuzgun Kaya Dere
 Kuzguna
 Kuzlar
 Kuzu Deli Dere
-Kyolina Shopka, Кьолина Шопка
+Kyolina Shopka, K'olina Shopka
 Kyolyk Mogila, K'olyuk Mogila
 Kyorav Chukar, Кьорав Чукар
 Kyorova Chuka, Nyorova chuka, Кьорова Чука, Ньорова чука
@@ -3815,7 +3815,7 @@ Kyuchuk Dervent, Кючук Дервен
 Kyuchukdere
 Kyuchyuk Yurt
 Kyulyuk Bunar
-Kyumyurdzhiskia Kladenets, Кюмюрджиския Кладенец
+Kyumyurdzhiskia Kladenets, Kyumyurdzhiskiya Kladenets
 Kyumyurlaka, Kyumyurlŭka, Кюмюрлъка
 Kyumyurlika
 Kyunetsa
@@ -3864,7 +3864,7 @@ Lazarovo
 Lazhenska Reka, Lŭzhenska Reka, Лъженска Река
 Lazov Kladenets
 Lebedski Ezera
-Lebnica, Belnica Reka, Lebnica Reka, Lebniza, Лебница
+Lebnica, Belnica Reka, Lebnica Reka, Lebnitsa, Lebniza
 Ledenik
 Ledenika
 Lefedzha, Bregowiza, Lefedzhe, Lefedzhi, Ryeka Bryegovitsa
@@ -3882,7 +3882,7 @@ Lenkovo
 Lenovo
 Leonidov Kladenets
 Lepenitsa, Bezhanitsa
-Lepenyat, Лапенат
+Lepenyat, Lapenat
 Lepica, Лепица
 Leshhak, Лещак
 Leshharka, Лещарка
@@ -3912,15 +3912,15 @@ Lesovo
 Lestvitsa
 Lesura
 Letnishka Reka
-Leva Lekia, Лева Лекия
+Leva Lekia, Leva Lekiya
 Leva Reka
-Levent Tabia, Левент Табия
+Levent Tabia, Levent Tabiya
 Levi Iskar, Levi Iskŭr, Леви Искър
 Levishta, Левища
 Levitsa
 Levka
 Levren
-Levski, Gora Ambaritsa, Gora Ambariza, Pevski, Vŭrkh Ambaritsa, Амбарица
+Levski, Ambaritsa, Gora Ambaritsa, Gora Ambariza, Pevski, Vŭrkh Ambaritsa
 Levukovitsa
 Levunovo
 Lik
@@ -4009,7 +4009,7 @@ Lovci, Ловци
 Lovdzhiyska Cheshma
 Lovdzhiyskata Cheshma, Lovzhiyskata Cheshma
 Lovec, Ловец
-Lovech, Loveshka Oblast, Loveshki Okrŭg, Област Ловеч
+Lovech, Loveshka Oblast, Loveshki Okrŭg, Oblast Lovech
 Lovnidol
 Lovsko
 Lozarevo
@@ -4025,7 +4025,7 @@ Lozica, Лозица
 Lozno
 Loznovitsa
 Lozyata
-Luda Kamchia, Luda Kamčija, Luda Ticha, Malka Kamchiya, Malka Kamtschija, Луда Камчия
+Luda Kamchia, Luda Kamchiya, Luda Kamčija, Luda Ticha, Malka Kamchiya, Malka Kamtschija
 Luda Mogila
 Luda Reka, Chitakcha, Erithropótamos, Kisil Remma, Kisildeli, Kizil, Kizil Réma, Kizildeli, Kokkínopótamos, Kŭzŭl Deli Dere, Reka Kazūl Deli-Dere, Ερυθροπόταμος
 Luda Yana, Ludajana, Reka Ludoyana
@@ -4118,7 +4118,7 @@ Malak mechi vrah, Малък мечи връх
 Malak polezhan, Малък полежан
 Malakon
 Malchika
-Malenets, Испрянско тепе
+Malenets, Ispryansko tepe
 Malenovo
 Malera
 Maleshevska Planina, Malesh Planina, Maleš, Maleševske Planine, Maleševski Planini, Maleške Planine
@@ -4139,11 +4139,11 @@ Malka Kalka, Malkalka
 Malka Kokardzha, Malka Kokardsha
 Malka Mogila
 Malka Musala
-Malka Papia, Malkapapiya, Малка Папия
+Malka Papia, Malka Papiya, Malkapapiya
 Malka Reka
 Malka Sadena Bara
 Malka Stara Reka
-Malka Syutkya, Malki Voden, Малка Сютка
+Malka Syutkya, Malka Syutka, Malki Voden
 Malka Tikvitsa, Malkatikvitsa
 Malka Todorka
 Malka Vereja, Малка Верея
@@ -4160,7 +4160,7 @@ Malki Lom, Ryeka Umurski Lom, Ryeka Umurskiy Lom, Umurskii Lom
 Malki Meshelik
 Malki chiflik
 Malkia Budzhak, Малкия Буджак
-Malkia Chal, Малкия Чал
+Malkia Chal, Malkiya Chal
 Malkia Chiflik, Malkiya Chiflik
 Malkia Golyash, Golemiya Golash, Малкия Голяш
 Malkia Kamak, Malkiya Kamŭk, Малкия Камък
@@ -4201,7 +4201,7 @@ Malo selo
 Malomir
 Malomirovo
 Malorad
-Malovia Geran, Маловия Геран
+Malovia Geran, Maloviya Geran
 Malska Reka
 Maluk Devesil, Малък Девесил
 Maluk Porovec, Малък Поровец
@@ -4297,7 +4297,7 @@ Marzyanska Reka, Mŭrzyanska Reka, Мързянска Река
 Masarliyski Kladenets, Mŭsarliyski Kladenets, Мъсарлийски Кладенец
 Mashalova Polyana
 Mashana
-Masharitsa, Мужарица
+Masharitsa, Muzharitsa
 Maslarevo
 Maslen Nos, Mys Zeytin Burnu, Nos Zeitin, Nos Zeytin Burun
 Maslinkovitsa
@@ -4359,7 +4359,7 @@ Medovo
 Medovo Bardo, Medovo Bŭrdo, Медово Бърдо
 Megerevo Litse, Мегерово Лице
 Mehandzhiski Chukar, Механджиски Чукар
-Mehmechkoyska Reka, Мехмечковска Река, Мехмечкойска Река
+Mehmechkoyska Reka, Mekhmechkoyska Reka, Мехмечковска Река
 Mehmedkyoyska Reka, Mehmedk'oyska Reka
 Mehmedov Bor, Momina Sŭlza, Момина Сълза
 Mehmedov Geran, Mekhmedov Geran
@@ -4371,7 +4371,7 @@ Melanshtitsa, Мелащица
 Melnica, Мелница
 Melnik
 Melnik Obshtina, Melnishka Obshtina, Община Мелник
-Melnishka Reka, Melnischka Ryeka, Мелнишка
+Melnishka Reka, Melnischka Ryeka, Melnishka
 Meloha, Melokha
 Memi Shorata
 Meminyuk
@@ -4379,7 +4379,7 @@ Menenk'ovo
 Menenski Kamani, Menenski Kamŭni, Мененски Камъни
 Mengishevo
 Mengoreto
-Mengyov Krast, Менгьов Кръст, Четалеста Бука
+Mengyov Krast, Chetalesta Buka, Менгьов Кръст
 Merata
 Merdanja, Мерданя
 Merdzhan Tarla, Merdshan Tarle
@@ -4398,7 +4398,7 @@ Meteriza
 Metlika
 Metlyova Usoyka, Metlíuva-Ushóika, Метльова Усойка
 Metodievo
-Metohiyska Reka, Метохийска Река
+Metohiyska Reka, Metokhiyska Reka
 Mezardere
 Mezarlak Dere, Mezarlŭkdere, Мезарлък Дере
 Mezarlaka, Mezarlŭka, Мезарлъка
@@ -4416,7 +4416,7 @@ Michurin
 Midzhur, Gora Midshor, Midjur, Midžor, Vŭrkh Midzhor, Миджор
 Migyur
 Mihal Tarla, Михал Тарла
-Mihlyusa, Михлюса
+Mihlyusa, Mikhlyusa
 Mihovska, Mikhovska
 Mihovtsi, Mikhovtsi
 Mikhajlovo, Михайлово
@@ -4469,7 +4469,7 @@ Mitrina Mogila
 Mitrova Mogila
 Miykovska Reka
 Miyna Reka
-Miyovitsa, Миковица, Миьовица
+Miyovitsa, Mikovitsa, Миьовица
 Mlachka Reka, Machka, Mlachka
 Mlada gvardija, Млада гвардия
 Mladenovo
@@ -4489,11 +4489,11 @@ Mochuritsa, Asmak, Ryeka Azmak, Ryeka Azmaka, Мочурища
 Modar, Moder, Modŭr, Модър
 Modra Bara
 Mogila
-Mogilata, Magílata, Mogilita, Кацарска могила
+Mogilata, Katsarska mogila, Magílata, Mogilita
 Mogilec, Могилец
 Mogilica, Могилица
 Mogilino
-Mogilite, Запис
+Mogilite, Zapis
 Mogilski kamak, Mogilinski Kamak, Могилински Камък, Могилски камък
 Mokren
 Mokresh
@@ -4508,7 +4508,7 @@ Momchil, Eni Khan Baba
 Momchilovci, Момчиловци
 Momchilovo, Meneka, Momtschilowo
 Momin Dvor, Ljubasch, Lyubasha, Lyubata
-Momin Prohod, Mominski Prokhod, Suludervent, Момин Проход
+Momin Prohod, Momin Prokhod, Mominski Prokhod, Suludervent
 Momina Cheshma
 Momina Klisura
 Momina Mogila
@@ -4631,7 +4631,7 @@ Nedjalsko, Недялско
 Nedkovtsi
 Nedoklan
 Nefela
-Negomia, Негомия
+Negomia, Negomiya
 Negovan
 Negovan Dol
 Negovanka
@@ -4651,7 +4651,7 @@ Nevestino
 Nevsha
 Neykovo
 Neykovska Reka
-Nezhnia Dol, Нежния Дол
+Nezhnia Dol, Nezhniya Dol
 Nezir
 Nikjup, Никюп
 Nikolaevka
@@ -4668,27 +4668,27 @@ Nivjanin, Нивянин
 Nocheva Mogila
 Noevci, Ноевци
 Northern Thrace
-Nos Akrotiria, Akrotiriya, Kavo Kroti, Mys Kurutariya, Nos Krotirija, Nos Krotiriya, Нос Акротирия
+Nos Akrotiria, Akrotiriya, Kavo Kroti, Mys Kurutariya, Nos Akrotiriya, Nos Krotirija, Nos Krotiriya
 Nos Atia, Mys Atiya, Nos Athia Kavo, Nos Atiya
-Nos Atliman, Athanates Point, Athanatos Point, Mys Atliman, Nos Konnik, Атлиман
+Nos Atliman, Athanates Point, Athanatos Point, Atliman, Mys Atliman, Nos Konnik
 Nos Beglik Tash, Нос Беклик Таш
 Nos Cherni Nos, Black Point, Cherniya Nos, Kara Burnu
 Nos Chukalya, Mys Chukalya, Mys Svyatoy Anastasii, Nos Anastasiya, Nos Chukala, Nos Sveta Anastasiya, Nos Sweta Anasiasija, Sukala Point, Чукаля
 Nos Emberler
-Nos Emine, Cape Emineh, Emine Burun, Haemus, Nos Paleokastro, Nos Palikastro, Емине
+Nos Emine, Cape Emineh, Emine, Emine Burun, Haemus, Nos Paleokastro, Nos Palikastro
 Nos Foros, Mys Foros, Nos Poros, Poros Point, Форос
 Nos Galata, Cape Galata, Galata Burnu, Mis Galata
 Nos Glaromiti
-Nos Harmanite, Нос Харманите
-Nos Hrisosortira, Hrisosotira, Kavos Svitera, Mys Sotira, Nos Chrisosotira, Нос Хрисосортира, Хрисосотира
-Nos Hristos, Нос Христос
+Nos Harmanite, Nos Kharmanite
+Nos Hrisosortira, Hrisosotira, Kavos Svitera, Khrisosotira, Mys Sotira, Nos Chrisosotira, Nos Khrisosortira
+Nos Hristos, Nos Khristos
 Nos Ilandzhik, Ilaniik Point, Nos Ilandshik, Иланджик
 Nos Kara Agach, Karaagach
 Nos Kartalburun
 Nos Kaya
 Nos Kochan, Kotsan Point, Кочан нос
-Nos Kolokita, Kolokythes, Mys Kolotisa, Nos Kolokitas, Колокита
-Nos Krotiria, Krotiria, Mys Krotiriya, Nos Kretiraja, Red Cliff Point, Кротирия, Нос Кротирия
+Nos Kolokita, Kolokita, Kolokythes, Mys Kolotisa, Nos Kolokitas
+Nos Krotiria, Krotiria, Krotiriya, Mys Krotiriya, Nos Kretiraja, Nos Krotiriya, Red Cliff Point
 Nos Kyupria, Kyupriya, Mys Kepryu Burnu, Nos Kyupriya, Zunaritsa Point
 Nos Ravda, Rhavtha Burnu, Rhavtha Rock
 Nos Shabla, Capul Shableh, Capul Şabla, Шабла
@@ -4701,7 +4701,7 @@ Nos Sveta Agalina, Agalina, Mys Ayya Galini, Nos Sveta Galina
 Nos Sveta Paraskeva
 Nos Sveti Atanas, Mys Akdere-Burnu, Nos Akz-Dere, Nos Atanas, Nos Atanas Burunu
 Nos Sveti Dimitar, Dimitar, Dimitŭr, Mys Svyatyy Dmitriya, Nos Sveti Dimitr, Nos Sveti Dimitŭr, Димитър
-Nos Urdoviza, Mys Urdoviza, Урдовиза
+Nos Urdoviza, Mys Urdoviza, Urdoviza
 Nos Vaterahi, Nos Vaterakhi
 Nov Chitak, Chatak Dzhedit
 Nova Cherna
@@ -4716,7 +4716,7 @@ Novachevo
 Novachinka
 Novakovo
 Novata Cheshma
-Novata Koria, Новата Кория
+Novata Koria, Novata Koriya
 Novgrad
 Novi izvor
 Novi khan
@@ -4730,7 +4730,7 @@ Novo Selo, Indzhe Balkan, Nowo-Selo, Nowosselo
 Novo Selo Obshtina, Община Ново Село
 Novo Zhelezare
 Novo selo
-Novomahlenska Reka, Novo Makhalenska, Новомахленска река
+Novomahlenska Reka, Novo Makhalenska, Novomakhlenska Reka
 Novosel
 Novoselci, Новоселци
 Novoselec, Новоселец
@@ -4747,20 +4747,20 @@ Obitel Obshtina, Община Обител
 Oblast Dobrich, Tolbukhin, Tolbukhinski Okrŭg
 Oblast Kardzhali, Kŭrdzhaliyski Okrŭg, Oblast Kŭrdzhali, Кърджали, Област Кърджали
 Oblast Kyustendil, Kyustendil, Kyustendilski Okrŭg
-Oblast Montana, Mikhaylovgradska Oblast, Mikhaylovgradski Okrŭg, Монтана
+Oblast Montana, Mikhaylovgradska Oblast, Mikhaylovgradski Okrŭg, Montana
 Oblast Pleven, Pleven, Plevenski Okrŭg
 Oblast Razgrad, Razgradska Oblast, Razgradski Okrŭg, Ruse, Rusenska, Rusenska Oblast
 Oblast Ruse, Ruse, Rusenski Okrŭg
 Oblast Shumen, Shumen, Shumenski Okrŭg
-Oblast Silistra, Silistrenski Okrŭg, Силистра
-Oblast Sliven, Slivenski Okrŭg, Сливен
+Oblast Silistra, Silistra, Silistrenski Okrŭg
+Oblast Sliven, Sliven, Slivenski Okrŭg
 Oblast Smolyan, Smolyan, Smolyanski Okrŭg
 Oblast Stara Zagora, Stara Zagora, Starozagorski Okrŭg
 Oblast Targovishte, Oblast Tŭrgovishte, Tŭrgovishte, Tŭrgovishtki, Tŭrgovishtki Okrŭg, Област Търговище, Търговище
 Oblast Veliko Tarnovo, Oblast Veliko Tŭrnovo, Veliko Tarnovo, Veliko Tŭrnovo, Velikotŭrnovski Okrŭg, Велико Търново, Област Велико Търново
-Oblast Vidin, Vidinski Okrŭg, Видин
-Oblast Vratsa, Vrachanski Okrŭg, Враца
-Oblast Yambol, Yambolski Ukrŭg, Ямбол
+Oblast Vidin, Vidin, Vidinski Okrŭg
+Oblast Vratsa, Vrachanski Okrŭg, Vratsa
+Oblast Yambol, Yambol, Yambolski Ukrŭg
 Obnova
 Oborishhe, Оборище
 Obov Vrah, Obov Vrŭkh, Обов Връх
@@ -4768,71 +4768,71 @@ Obrashta, Obrŭshta, Обръща
 Obretenik
 Obrochishhe, Оброчище
 Obruchishhe, Обручище
-Obshtina Aksakovo, Аксаково, община Аксаково
+Obshtina Aksakovo, Aksakovo, Община Аксаково
 Obshtina Alfatar, Alfatar, Gradska Obshtina Alfatar, Община Алфатар
 Obshtina Anton, Anton, община Антон
-Obshtina Antonovo, Gradska Obshtina Antonovo, Антоново, Община Антоново
-Obshtina Apriltsi, Gradska Obshtina Apriltsi, Априлци, Община Априлци
+Obshtina Antonovo, Antonovo, Gradska Obshtina Antonovo, Община Антоново
+Obshtina Apriltsi, Apriltsi, Gradska Obshtina Apriltsi, Община Априлци
 Obshtina Ardino, Ardino, Gradska Obshtina Ardino, Община Ардино
 Obshtina Asenovgrad, Asenovgrad, Gradska Obshtina Asenovgrad, Община Асеновград
 Obshtina Avren, Avrenska Obshtina, Община Аврен
-Obshtina Aytos, Gradska Obshtina Aytos, Айтос, Община Айтос
+Obshtina Aytos, Aytos, Gradska Obshtina Aytos, Община Айтос
 Obshtina Balchik, Gradska Obshtina Balchik, Община Балчик
 Obshtina Banite, Banite, Banska Obshtina, Lŭdzha, Община Баните
-Obshtina Bansko, Gradska Obshtina Bansko, Банско, Община Банско
+Obshtina Bansko, Bansko, Gradska Obshtina Bansko, Община Банско
 Obshtina Batak, Gradska Obshtina Batak, Община Батак
-Obshtina Belene, Gradska Obshtina Belene, Белене, Община Белене
+Obshtina Belene, Belene, Gradska Obshtina Belene, Община Белене
 Obshtina Belitsa, Belishka Obshtina, Gradska Obshtina Belitsa, Община Белица
 Obshtina Belogradchik, Belogradchik, Gradska Obshtina Belogradchik, Община Белоградчик
 Obshtina Beloslav, Beloslav, Община Белослав
 Obshtina Belovo, Belovo, Gradska Obshtina Belovo, Obshtina Gara Bel'ovo, Община Белово
 Obshtina Berkovitsa, Berkovitsa, Gradska Obshtina Berkovitsa, Община Берковица
 Obshtina Blagoevgrad, Gradska Obshtina Blagoevgrad, Община Благоевград
-Obshtina Boboshevo, Бобошево, Община Бобочево, Община Бобошево
-Obshtina Bobov Dol, Gradska Obshtina Bobovdol, Бобов Дол, Община Бобов Дол, Община Бобовдол
-Obshtina Bolyarovo, Gradska Obshtina Bolyarovo, Болярово, Община Болярово
+Obshtina Boboshevo, Boboshevo, Община Бобочево, Община Бобошево
+Obshtina Bobov Dol, Bobov Dol, Gradska Obshtina Bobovdol, Община Бобов Дол, Община Бобовдол
+Obshtina Bolyarovo, Bolyarovo, Gradska Obshtina Bolyarovo, Община Болярово
 Obshtina Borino, Borino, Община Борино
 Obshtina Borovan, Borovan, Община Борован
 Obshtina Borovo, Obshtina Gorna Manastiritsa, Община Борово
 Obshtina Botevgrad, Botevgrad, Gradska Obshtina Botevgrad, Община Ботевград
 Obshtina Boychinovtsi, Boychinovtsi, Gradska Obshtina Boychinovtsi, Община Бойчиновци
-Obshtina Boynitsa, Бойница, Община Бойница
+Obshtina Boynitsa, Boynitsa, Община Бойница
 Obshtina Bozhurishte, Bozhurishte, Божурище, Община Божурище
 Obshtina Bratsigovo, Bratsigovo, Gradska Obshtina Bratsigovo, Община Брацигово
-Obshtina Bratya Daskalovi, Братя Даскалови, Община Братя Даскалови
+Obshtina Bratya Daskalovi, Bratya Daskalovi, Община Братя Даскалови
 Obshtina Bregovo, Bregovo, Община Брегово
-Obshtina Breznik, Gradska Obshtina Breznik, Брезник, Община Брезник
-Obshtina Brezovo, Gradska Obshtina Brezovo, Брезово, Община Брезово
+Obshtina Breznik, Breznik, Gradska Obshtina Breznik, Община Брезник
+Obshtina Brezovo, Brezovo, Gradska Obshtina Brezovo, Община Брезово
 Obshtina Brusartsi, Brusartsi, Община Брусарци
 Obshtina Burgas, Gradska Obshtina Burgas, Община Бургас
 Obshtina Byala, Gradska Obshtina Byala, Община Бяла
-Obshtina Byala Slatina, Gradska Obshtina Byala Slatina, Obshtina Bela Slatina, Бяла Слатина, Община Бяла Слатина
+Obshtina Byala Slatina, Byala Slatina, Gradska Obshtina Byala Slatina, Obshtina Bela Slatina, Община Бяла Слатина
 Obshtina Chavdar, община Чавдар
-Obshtina Chelopech, Челопеч, община Челопеч
+Obshtina Chelopech, Chelopech, община Челопеч
 Obshtina Chepelare, Chepelare, Gradska Obshtina Cheplare, Община Чепеларе
-Obshtina Chernoochene, Община Черноочене, Черноочене
+Obshtina Chernoochene, Chernoochene, Община Черноочене
 Obshtina Cherven Bryag, Cherven Bryag, Gradska Obshtina Cherven Bryag, Община Червен бряг
-Obshtina Chiprovtsi, Gradska Obshtina Chiprovtsi, Община Чипровци, Чипровци
+Obshtina Chiprovtsi, Chiprovtsi, Gradska Obshtina Chiprovtsi, Община Чипровци
 Obshtina Chirpan, Chirpan, Gradska Obshtina Chirpan, Община Чирпан
 Obshtina Chuprene, Chuprene, Община Чупрене
 Obshtina Dalgopol, Dalgopol, Dŭlgopol, Gradska Obshtina Dŭlgopol, Obshtina Dŭlgopol, Дългопол, Община Дългопол
 Obshtina Devin, Devin, Gradska Obshtina Devin, Община Девин
 Obshtina Devnya, Gradska Obshtina Devnya, Obshtina Reka Devnya, Община Девня
-Obshtina Dimitrovgrad, Gradska Obshtina Dimitrovgrad, Димитровград, Община Димитровград
+Obshtina Dimitrovgrad, Dimitrovgrad, Gradska Obshtina Dimitrovgrad, Община Димитровград
 Obshtina Dimovo, Dimovo, Gradska Obshtina Dimovo, Община Димово
 Obshtina Dobrich, Grad Dobrich, Gradska Obshtina Dobrich, Gradska Obshtina Tolbukhin, Obshtina Tolbukhin, Община Добрич
-Obshtina Dobrich-Selska, Добрич-Селска, Община Добрич-Селска
+Obshtina Dobrich-Selska, Dobrich-Selska, Община Добрич-Селска
 Obshtina Dolna Banya, Dolna Banya, Gradska Obshtina Dolna Banya, Община Долна Баня
-Obshtina Dolna Mitropolia, Dolna Mitropolia, Gradska Obshtina Dolna Mitropoliya, Obshtina Dolna Mitropoliya, Долна Митрополия, Община Долна Митрополия
+Obshtina Dolna Mitropolia, Dolna Mitropolia, Dolna Mitropoliya, Gradska Obshtina Dolna Mitropoliya, Obshtina Dolna Mitropoliya, Община Долна Митрополия
 Obshtina Dolni Chiflik, Dolni Chiflik, Gradska Obshtina Georgi Traykov, Община Долни Чифлик
 Obshtina Dolni Dabnik, Dolni Dŭbnik, Gradska Obshtina Dolni Dŭbnik, Obshtina Dolni Dŭbnik, Долни Дъбник, Община Долни Дъбник
 Obshtina Dospat, Gradska Obshtina Dospat, Община Доспат
-Obshtina Dragoman, Gradska Obshtina Dragoman, Obshtina Gara Dragoman, Драгоман, Община Драгоман
+Obshtina Dragoman, Dragoman, Gradska Obshtina Dragoman, Obshtina Gara Dragoman, Община Драгоман
 Obshtina Dryanovo, Dryanovo, Gradska Obshtina Dryanovo, Община Дряново
-Obshtina Dulovo, Gradska Obshtina Dulovo, Дулово, Община Дулово
-Obshtina Dupnitsa, Gradska Obshtina Stanke Dimitrov, Дупница, Община Дупница
-Obshtina Dve Mogili, Dve Mogili, Gradska Obshtina Dve Mogili, Община Две могили
-Obshtina Dzhebel, Gradska Obshtina Dzhebel, Джебел, Община Джебел
+Obshtina Dulovo, Dulovo, Gradska Obshtina Dulovo, Община Дулово
+Obshtina Dupnitsa, Dupnitsa, Gradska Obshtina Stanke Dimitrov, Община Дупница
+Obshtina Dve Mogili, Dve Mogili, Gradska Obshtina Dve Mogili, Община Две Могили
+Obshtina Dzhebel, Dzhebel, Gradska Obshtina Dzhebel, Община Джебел
 Obshtina Elena, Gradska Obshtina Elena, Община Елена
 Obshtina Elhovo, Elhovo, Gradska Obshtina Elkhovo, Obshtina Elkhovo, Община Елхово
 Obshtina Elin Pelin, Gradska Obshtina Elin Pelin, Община Елин Пелин
@@ -4841,88 +4841,88 @@ Obshtina Gabrovo, Gradska Obshtina Gabrovo, Община Габрово
 Obshtina Galabovo, Galabovo, Gradska Obshtina Gŭlŭbovo, Obshtina Gŭlŭbovo, Obshtina Stakhanovo, Гълъбово, Община Гълъбово
 Obshtina Garmen, Garmen, Gŭrmen, Obshtina Gŭrmen, Гърмен, Община Гърмен
 Obshtina General Toshevo, Gradska Obshtina General-Toshevo, Община Генерал Тошево
-Obshtina Georgi Damyanovo, Obshtina Lopushna, Георги Дамяново, Община Георги-Дамяново
+Obshtina Georgi Damyanovo, Georgi Damyanovo, Obshtina Lopushna, Община Георги Дамяново
 Obshtina Glavinitsa, Glavinitsa, Община Главиница
-Obshtina Godech, Gradska Obshtina Godech, Годеч, Община Годеч
-Obshtina Gorna Malina, Горна Малина, Община Горна Малина
+Obshtina Godech, Godech, Gradska Obshtina Godech, Община Годеч
+Obshtina Gorna Malina, Gorna Malina, Община Горна Малина
 Obshtina Gorna Oryahovitsa, Gorna Oryahovitsa, Gorna Oryakhovitsa, Gradska Obshtina Gorna Oryakhovitsa, Obshtina Gorna Oryakhovitsa, Община Горна Оряховица
 Obshtina Gotse Delchev, Gotse Delchev, Gradska Obshtina Gotse Delchev, Община Гоце Делчев
 Obshtina Gramada, Gradska Obshtina Gramada, Община Грамада
 Obshtina Gulyantsi, Gulyantsi, Община Гулянци
 Obshtina Gurkovo, Gradska Obshtina Gurkovo, Община Гурково
 Obshtina Harmanli, Gradska Obshtina Kharmanli, Harmanli, Kharmanli, Obshtina Kharmanli, Община Харманли
-Obshtina Haskovo, Gradska Obshtina Khaskovo, Obshtina Khaskovo, Община Хасково, Хасково
-Obshtina Hayredin, Hayredin, Obshtina Khayredin, Община Хайредин, Хайредин
-Obshtina Hisarya, Gradska Obshtina Khisarya, Obshtina Khisar-Momina Banya, Obshtina Khisarya, Община Хисаря, Хисаря
+Obshtina Haskovo, Gradska Obshtina Khaskovo, Khaskovo, Obshtina Khaskovo, Община Хасково
+Obshtina Hayredin, Hayredin, Khayredin, Obshtina Khayredin, Община Хайредин
+Obshtina Hisarya, Gradska Obshtina Khisarya, Khisarya, Obshtina Khisar-Momina Banya, Obshtina Khisarya, Община Хисаря
 Obshtina Hitrino, Hitrino, Khitrino, Obshtina Gara Khitrino, Obshtina Khitrino, Община Хитрино
 Obshtina Iskar, Gradska Obshtina Pelovo, Obshtina Iskŭr, Obshtina Makhlata, Obshtina Pel'ovo, Pelyovo Obshtina, Искър, Община Искър
-Obshtina Isperih, Gradska Obshtina Isperikh, Isperih, Obshtina Isperikh, Исперих, Община Исперих
+Obshtina Isperih, Gradska Obshtina Isperikh, Isperih, Isperikh, Obshtina Isperikh, Община Исперих
 Obshtina Ivanovo, Obshtina Gara Ivanovo, Община Иваново
-Obshtina Ivaylovgrad, Gradska Obshtina Ivaylovgrad, Ивайловград, Община Ивайловград
-Obshtina Kaloyanovo, Калояново, Община Калояново
-Obshtina Kameno, Gradska Obshtina Kameno, Камено, Община Камено
-Obshtina Kaolinovo, Gradska Obshtina Kaolinovo, Каолиново, Община Каолиново
+Obshtina Ivaylovgrad, Gradska Obshtina Ivaylovgrad, Ivaylovgrad, Община Ивайловград
+Obshtina Kaloyanovo, Kaloyanovo, Община Калояново
+Obshtina Kameno, Gradska Obshtina Kameno, Kameno, Община Камено
+Obshtina Kaolinovo, Gradska Obshtina Kaolinovo, Kaolinovo, Община Каолиново
 Obshtina Kardzhali, Gradska Obshtina Kŭrdzhali, Obshtina Kŭrdzhali, Кърджали, Община Кърджали
-Obshtina Karlovo, Gradska Obshtina Karlovo, Obshtina Levskigrad, Карлово, Община Карлово
+Obshtina Karlovo, Gradska Obshtina Karlovo, Karlovo, Obshtina Levskigrad, Община Карлово
 Obshtina Karnobat, Gradska Obshtína Karnobat, Karnobat, Obshtina Polyanovgrad, Община Карнобат
 Obshtina Kaspichan, Gradska Obshtina Kaspichan, Община Каспичан
 Obshtina Kavarna, Gradska Obshtina Kavarna, Kavarna Municipality, Община Каварна
 Obshtina Kaynardzha, Община Кайнарджа
 Obshtina Kazanlŭk, Gradska Obshtina Kazanlŭk, Kazanlak, Kazanlŭk, Казанлък, Община Казанлък
 Obshtina Kirkovo, Kirkovo, Община Кирково
-Obshtina Knezha, Gradska Obshtina Knezha, Кнежа, Община Кнежа
+Obshtina Knezha, Gradska Obshtina Knezha, Knezha, Община Кнежа
 Obshtina Kocherinovo, Gradska Obshtina Kocherinovo, Kocherinovo, Община Кочериново
 Obshtina Koprivshtitsa, Gradska Obshtina Koprivshtitsa, Koprivshtitsa, Копривщица, Община Копривщица
-Obshtina Kostenets, Gradska Obshtina Kostenets, Obshtina Gara Kostenets Banya, Костенец, община Костенец
+Obshtina Kostenets, Gradska Obshtina Kostenets, Kostenets, Obshtina Gara Kostenets Banya, община Костенец
 Obshtina Kostinbrod, Gradska Obshtina Kostinbrod, Kostinbrod, Obshtina Kostinbrod-Shiyakovtsi, община Костинброд
-Obshtina Kotel, Gradska Obshtina Kotel, Котел, Община Котел
+Obshtina Kotel, Gradska Obshtina Kotel, Kotel, Община Котел
 Obshtina Kovachevtsi, Kovachevska Obshtina, Kovachevtsi, Община Ковачевци
-Obshtina Kozloduy, Gradska Obshtina Kozloduy, Козлодуй, Община Козлодуй
+Obshtina Kozloduy, Gradska Obshtina Kozloduy, Kozloduy, Община Козлодуй
 Obshtina Kresna, Gradska Obshtina Kresna, Kresna, Obshtina Gara Pirin, Община Кресна
 Obshtina Krichim, община Кричим
 Obshtina Krivodol, Gradska Obshtina Krivodol, Krivodol, Община Криводол
-Obshtina Krumovgrad, Gradska Obshtina Krumovgrad, Крумовград, Община Крумовград
+Obshtina Krumovgrad, Gradska Obshtina Krumovgrad, Krumovgrad, Община Крумовград
 Obshtina Krushari, Krushari, Община Крушари
-Obshtina Kubrat, Gradska Obshtina Kubrat, Кубрат, Община Кубрат
+Obshtina Kubrat, Gradska Obshtina Kubrat, Kubrat, Община Кубрат
 Obshtina Kuklen, Kuklen
 Obshtina Kula, Gradska Obshtina Kula, Kula, Община Кула
-Obshtina Kyustendil, Gradska Obshtina Kyustendil, Kyustendil, община Кюстендил
+Obshtina Kyustendil, Gradska Obshtina Kyustendil, Kyustendil, Община Кюстендил
 Obshtina Laki, Gradska Obshtina Lŭki, Laki, Lŭki, Lŭkinska Obshtina, Obshtina Lŭki, Лъки, Община Лъки
-Obshtina Lesichovo, Lesichevska Obshtina, Obshtina Lesichevo, Лесичово, Община Лесичово
-Obshtina Letnitsa, Gradska Obshtina Letnitsa, Летница, Община Летница
+Obshtina Lesichovo, Lesichevska Obshtina, Lesichovo, Obshtina Lesichevo, Община Лесичово
+Obshtina Letnitsa, Gradska Obshtina Letnitsa, Letnitsa, Община Летница
 Obshtina Levski, Gradska Obshtina Levski, Община Левски
 Obshtina Lom, Gradska Obshtina Lom, Община Лом
 Obshtina Lovech, Gradska Obshtina Lovech, Община Ловеч
-Obshtina Loznitsa, Gradska Obshtina Loznitsa, Лозница, Община Лозница
-Obshtina Lukovit, Gradska Obshtina Lukovit, Луковит, Община Луковит
-Obshtina Lyaskovets, Gradska Obshtina Lyaskovets, Лясковец, Община Лясковец
+Obshtina Loznitsa, Gradska Obshtina Loznitsa, Loznitsa, Община Лозница
+Obshtina Lukovit, Gradska Obshtina Lukovit, Lukovit, Община Луковит
+Obshtina Lyaskovets, Gradska Obshtina Lyaskovets, Lyaskovets, Община Лясковец
 Obshtina Lyubimets, Gradska Obshtina Lyubimets, Lyubimets, Община Любимец
 Obshtina Madan, Gradska Obshtina Madan, Община Мадан
-Obshtina Madzharovo, Madzharovo, община Маджарово
+Obshtina Madzharovo, Madzharovo, Община Маджарово
 Obshtina Maglizh, Gradska Obshtina Mŭglizh, Maglizh, Mŭglizh, Obshtina Mŭglizh, Мъглиж, Община Мъглиж
 Obshtina Makresh, Makresh, Община Макреш
 Obshtina Malko Tarnovo, Gradska Obshtina Malko Tŭrnovo, Malko Tarnovo, Malko Tŭrnovo, Obshtina Malko Tŭrnovo, Малко Търново, Община Малко Търново
-Obshtina Maritsa, Марица, община Марица
-Obshtina Medkovets, Obshtina Metkovets, Медковец, Община Медковец
+Obshtina Maritsa, Maritsa, община Марица
+Obshtina Medkovets, Medkovets, Obshtina Metkovets, Община Медковец
 Obshtina Mezdra, Gradska Obshtina Mezdra, Mezdra, Община Мездра
-Obshtina Mineralni Bani, Минерални бани, Община Минерални Бани
+Obshtina Mineralni Bani, Mineralni Bani, Община Минерални Бани
 Obshtina Mirkovo, Mirkovo, община Мирково
-Obshtina Mizia, Gradska Obshtina Miziya, Mizia, Obshtina Buk'ovtsi, Obshtina Miziya, Мизия, Община Мизия
-Obshtina Momchilgrad, Gradska Obshtina Momchilgrad, Момчилград, Община Момчилград
-Obshtina Montana, Gradska Obshtina Mikhaylovgrad, Obshtina Mikhaylovgrad, Монтана, Община Монтана
+Obshtina Mizia, Gradska Obshtina Miziya, Mizia, Miziya, Obshtina Buk'ovtsi, Obshtina Miziya, Община Мизия
+Obshtina Momchilgrad, Gradska Obshtina Momchilgrad, Momchilgrad, Община Момчилград
+Obshtina Montana, Gradska Obshtina Mikhaylovgrad, Montana, Obshtina Mikhaylovgrad, Община Монтана
 Obshtina Nedelino, Gradska Obshtina Nedelino, Nedelino, Nedelinska Obshtina, Община Неделино
 Obshtina Nesebar, Gradska Obshtina Nesebŭr, Nesebar, Nesebŭr, Obshtina Nesebŭr, Несебър, Община Несебър
 Obshtina Nevestino, Община Невестино
-Obshtina Nikola-Kozlevo, Nikola-Kozlevo, Община Никола-Козлево
+Obshtina Nikola-Kozlevo, Nikola Kozlevo, Община Никола-Козлево
 Obshtina Nikolaevo, община Николаево
 Obshtina Nikopol, Gradska Obshtina Nikopol, Nikopol, Община Никопол
 Obshtina Nova Zagora, Gradska Obshtina Nova Zagora, Nova Zagora, Община Нова Згора
-Obshtina Novi Pazar, Gradska Obshtina Novi Pazar, Нови пазар, Община Нови Пазар
+Obshtina Novi Pazar, Gradska Obshtina Novi Pazar, Novi Pazar, Община Нови Пазар
 Obshtina Novo Selo, Община Ново Село
 Obshtina Omurtag, Gradska Obshtina Omurtag, Omurtag, Община Омуртаг
-Obshtina Opaka, Община Опака, Опака
+Obshtina Opaka, Opaka, Община Опака
 Obshtina Opan, Opan, Община Опан
-Obshtina Oryahovo, Gradska Obshtina Oryakhovo, Obshtina Orekhovo, Obshtina Oryakhovo, Oryahovo, Община Оряхово, Оряхово
+Obshtina Oryahovo, Gradska Obshtina Oryakhovo, Obshtina Orekhovo, Obshtina Oryakhovo, Oryahovo, Oryakhovo, Община Оряхово
 Obshtina Panagyurishte, Gradska Obshtina Panagyurishte, Panagyurishte, Община Панагюрище, Панагюрище
 Obshtina Parvomay, Gradska Obshtina Pŭrvomay, Obshtina Pŭrvomay, Parvomay, Pŭrvomay, Община Първомай, Първомай
 Obshtina Pavel Banya, Gradska Obshtina Pavel Banya, Pavel Banya, Община Павел Баня
@@ -4940,9 +4940,9 @@ Obshtina Pomorie, Gradska Obshtina Pomorie, Община Поморие
 Obshtina Popovo, Gradska Obshtina Popovo, Община Попово
 Obshtina Pordim, Gradska Obshtina Pordim, Pordim, Община Пордим
 Obshtina Pravets, община Правец
-Obshtina Primorsko, Община Приморско, Приморско
+Obshtina Primorsko, Primorsko, Община Приморско
 Obshtina Provadia, Gradska Obshtina Provadiya, Obshtina Provadiya, Provadia, Provadiya, Община Провадия
-Obshtina Radnevo, Gradska Obshtina Radnevo, Radnevska Obshtina, Община Раднево, Раднево
+Obshtina Radnevo, Gradska Obshtina Radnevo, Radnevo, Radnevska Obshtina, Община Раднево
 Obshtina Radomir, Gradska Obshtina Radomir, Община Радомир
 Obshtina Rakitovo, Gradska Obshtina Rakitovo, Rakitovo, Община Ракитово
 Obshtina Rakovski, Gradska Obshtina Rakovski, Obshtina General Nikolaevo, Община Раковски
@@ -4950,57 +4950,57 @@ Obshtina Razgrad, Gradska Obshtina Razgrad, Razgradska Obshtina, Община Р
 Obshtina Razlog, Gradska Obshtina Razlog, Razlog, Община Разлог
 Obshtina Rila, Gradska Obshtina Rila, Rilska Obshtina, Община Рила
 Obshtina Rodopi, Rodopi, община Родопи
-Obshtina Roman, Gradska Obshtina Roman, Община Роман, Роман
+Obshtina Roman, Gradska Obshtina Roman, Roman, Община Роман
 Obshtina Rudozem, Gradska Obshtina Rudozem, Rudozem, Rudozemska Obshtina, Община Рудозем
 Obshtina Ruen, Община Руен
-Obshtina Ruse, Gradska Obshtina Ruse, Община Русе, Русе
+Obshtina Ruse, Gradska Obshtina Ruse, Ruse, Община Русе
 Obshtina Ruzhintsi, Ruzhintsi, Община Ружинци
 Obshtina Sadovo, Gradska Obshtina Sadovo, Община Садово
 Obshtina Saedinenie, Gradska Obshtina Sŭedinenie, Obshtina Golyamo Konare, Obshtina Sŭedinenie, Saedinenie, Община Съединение, Съединение
-Obshtina Samokov, Gradska Obshtina Samokov, Община Самоков, Самоков
+Obshtina Samokov, Gradska Obshtina Samokov, Samokov, Община Самоков
 Obshtina Samuil, Samuil, Община Симитли
-Obshtina Sandanski, Gradska Obshtina Sandanski, Община Сандански, Сандански
+Obshtina Sandanski, Gradska Obshtina Sandanski, Sandanski, Община Сандански
 Obshtina Sapareva Banya, Sapareva Banya, Община Сапарева Баня
 Obshtina Satovcha, Satovcha, Община Сатовча
 Obshtina Septemvri, Gradska Obshtina Septemvri, Septemvri, Община Септември
-Obshtina Sevlievo, Gradska Obshtina Sevlievo, Община Севлиево, Севлиево
-Obshtina Shabla, Gradska Obshtina Shabla, Община Шабла, Шабла
+Obshtina Sevlievo, Gradska Obshtina Sevlievo, Sevlievo, Община Севлиево
+Obshtina Shabla, Gradska Obshtina Shabla, Shabla, Община Шабла
 Obshtina Shumen, Gradska Obshtina Shumen, Obshtina Kolarovgrad, Shumen, Община Шумен
 Obshtina Silistra, Gradska Obshtina Silistra, Silistra, Silistrenska Obshtina, Община Силистра
-Obshtina Simeonovgrad, Gradska Obshtina Maritsa, Gradska Obshtina Simeonovgrad, Община Симеоновград, Симеоновград
+Obshtina Simeonovgrad, Gradska Obshtina Maritsa, Gradska Obshtina Simeonovgrad, Simeonovgrad, Община Симеоновград
 Obshtina Simitli, Gradska Obshtina Simitli, Simitli, Община Симитли
-Obshtina Sitovo, Община Ситово, Ситово
-Obshtina Sliven, Gradska Obshtina Sliven, Община Сливен, Сливен
+Obshtina Sitovo, Sitovo, Община Ситово
+Obshtina Sliven, Gradska Obshtina Sliven, Sliven, Община Сливен
 Obshtina Slivnitsa, Gradska Obshtina Slivnitsa, Slivnitsa, Община Сливница
 Obshtina Slivo Pole, Slivo Pole, Община Сливо Поле
 Obshtina Smolyan, Gradska Obshtina Smolyan, Smolyan, Община Смолян
 Obshtina Smyadovo, Gradska Obshtina Smyadovo, Smyadovo, Община Смядово
 Obshtina Sopot
-Obshtina Sozopol, Gradska Obshtina Sozopol, Община Созопол, Созопол
+Obshtina Sozopol, Gradska Obshtina Sozopol, Sozopol, Община Созопол
 Obshtina Sredets, Gradska Obshtina Grudovo, Obshtina Grudovo, Община Средец
 Obshtina Stamboliyski, Stamboliyski, община Стамболийски
 Obshtina Stambolovo, Stambolovska Obshtina, Община Стамболово
-Obshtina Stara Zagora, Gradska Obshtina Stara Zagora, Община Стара Загора, Стара Загора
+Obshtina Stara Zagora, Gradska Obshtina Stara Zagora, Stara Zagora, Община Стара Загора
 Obshtina Straldzha, Gradska Obshtina Straldzha, Straldzha, Община Стралджа
-Obshtina Strazhitsa, Gradska Obshtina Strazhitsa, Община Стражица, Стражица
+Obshtina Strazhitsa, Gradska Obshtina Strazhitsa, Strazhitsa, Община Стражица
 Obshtina Strelcha, Gradska Obshtina Strelcha, Strelcha, Община Стрелча
 Obshtina Strumyani, Obshtina Gara Ograzhden, Obshtina Ilindentsi, Strumyani, Община Струмяни
-Obshtina Suhindol, Gradska Obshtina Sukhindol, Obshtina Sukhindol, Suhindol, Община Сухиндол, Сухиндол
-Obshtina Sungurlare, Gradska Obshtina Sungurlare, Община Сунгурларе, Сунгурларе
+Obshtina Suhindol, Gradska Obshtina Sukhindol, Obshtina Sukhindol, Suhindol, Sukhindol, Община Сухиндол
+Obshtina Sungurlare, Gradska Obshtina Sungurlare, Sungurlare, Община Сунгурларе
 Obshtina Suvorovo, Suvorovo, Община Суворово
-Obshtina Svilengrad, Gradska Obshtina Svilengrad, Община Свиленград, Свиленград
+Obshtina Svilengrad, Gradska Obshtina Svilengrad, Svilengrad, Община Свиленград
 Obshtina Svishtov, Gradska Obshtina Svishtov, Svishtov, Община Свищов, Свищов
 Obshtina Svoge, Gradska Obshtina Svoge, Община Своге
 Obshtina Targovishte, Gradska Obshtina Tŭrgovishte, Obshtina Tŭrgovishte, Tŭrgovishte, Община Търговище, Търговище
 Obshtina Tervel, Gradska Obshtina Tervel, Община Тервел
-Obshtina Teteven, Gradska Obshtina Teteven, Община Тетевен, Тетевен
+Obshtina Teteven, Gradska Obshtina Teteven, Teteven, Община Тетевен
 Obshtina Topolovgrad, Gradska Obshtina Topolovgrad, Topolovgrad, Община Тополовград
-Obshtina Treklyano, Община Трекляно, Трекляно
+Obshtina Treklyano, Treklyano, Община Трекляно
 Obshtina Troyan, Gradska Obshtina Troyan, Troyan, Община Троян
-Obshtina Tryavna, Gradska Obshtina Tryavna, Община Трявна, Трявна
+Obshtina Tryavna, Gradska Obshtina Tryavna, Tryavna, Община Трявна
 Obshtina Tsar Kaloyan, Obshtina Khlebarovo, Tsar Kaloyan, Община Цар Калоян
 Obshtina Tsarevo, Gradska Obshtina Michurin, Obshtina Michurin, Tsarevo, Община Царево
-Obshtina Tsenovo, Община Ценово, Ценово
+Obshtina Tsenovo, Tsenovo, Община Ценово
 Obshtina Tundzha, Tundzha, община Тунджа
 Obshtina Tutrakan, Gradska Obshtina Tutrakan, Tutrakan, Община Тутракан
 Obshtina Tvarditsa, Gradska Obshtina Tvŭrditsa, Obshtina Tvŭrditsa, Tvarditsa, Tvŭrditsa, Община Твърдица, Твърдица
@@ -5014,16 +5014,16 @@ Obshtina Veliki Preslav, Gradska Obshtina Preslav, Obshtina Preslav, Preslavska 
 Obshtina Veliko Tŭrnovo, Gradska Obshtina Veliko Tŭrnovo, Obshtina Tŭrnovo, Veliko Tarnovo, Veliko Tŭrnovo, Велико Търново, Община Велико Търново
 Obshtina Velingrad, Gradska Obshtina Velingrad, Velingrad, Община Велинград
 Obshtina Venets, Община Венец
-Obshtina Vetovo, Gradska Obshtina Vetovo, Ветово, Община Ветово
+Obshtina Vetovo, Gradska Obshtina Vetovo, Vetovo, Община Ветово
 Obshtina Vetrino, Vetrino, Община Ветрино
-Obshtina Vidin, Gradska Obshtina Vidin, Видин, Община Видин
-Obshtina Vratsa, Gradska Obshtina Vratsa, Vrachanska Obshtina, Враца, Община Враца
+Obshtina Vidin, Gradska Obshtina Vidin, Vidin, Община Видин
+Obshtina Vratsa, Gradska Obshtina Vratsa, Vrachanska Obshtina, Vratsa, Община Враца
 Obshtina Yablanitsa, Gradska Obshtina Yablanitsa, Община Ябланица
 Obshtina Yakimovo, Yakimovo, Община Якимово
 Obshtina Yakoruda, Gradska Obshtina Yakoruda, Yakoruda, Община Якоруда
 Obshtina Yambol, Gradska Obshtina Yambol, Yambol, Община Ямбол
-Obshtina Zavet, Gradska Obshtina Zavet, Завет, Община Завет
-Obshtina Zemen, Gradska Obshtina Zemen, Земен, Община Земен
+Obshtina Zavet, Gradska Obshtina Zavet, Zavet, Община Завет
+Obshtina Zemen, Gradska Obshtina Zemen, Zemen, Община Земен
 Obshtina Zlataritsa, Gradska Obshtina Zlataritsa, Община Златарица
 Obshtina Zlatitsa, Gradska Obshtina Srednogorie, Община Златица
 Obshtina Zlatograd, Gradska Obshtina Zlatograd, Zlatograd, Zlatogradska Obshtina, Обшина Златоград, Община Златоград
@@ -5166,7 +5166,7 @@ Ostrec
 Ostrenska Reka
 Ostrets
 Ostri Vrah, Ostri Vrŭkh, Остри Връх
-Ostria Chal, Ostriya Chatal, Острия Чал
+Ostria Chal, Ostriya Chal, Ostriya Chatal
 Ostria Vrah, Ostriya Vrŭkh, Острия Връх
 Ostrica
 Ostrika, Vrŭkh Ostrika, Ощрика
@@ -5174,12 +5174,12 @@ Ostritsa
 Ostro bardo, Остро бърдо
 Ostrogat, Ostrogot, Ostrogüt, Острогът
 Ostrov
-Ostrov Bahcha, Bahcha, Бахча, Остров Бахча
+Ostrov Bahcha, Bahcha, Ostrov Bakhcha, Бахча
 Ostrov Batin
-Ostrov Belene, Beskutsko-Blato, Ostrov Persin, Белене
+Ostrov Belene, Belene, Beskutsko-Blato, Ostrov Persin
 Ostrov Belitsa
 Ostrov Bogdan
-Ostrov Boril, Beshlin, Dragovey, Борил
+Ostrov Boril, Beshlin, Boril, Dragovey
 Ostrov Devnya
 Ostrov Dobrina
 Ostrov Dovlak, Dovlak
@@ -5187,18 +5187,18 @@ Ostrov Ezik
 Ostrov Golyam Bliznak, Golyam Bliznak
 Ostrov Golyama Barzina, Golyama Barzina, Голяма Бързина, Остров Голяма Бързина
 Ostrov Kicha
-Ostrov Kozloduy, Козлодуй
+Ostrov Kozloduy, Kozloduy
 Ostrov Lakat, Lakat, Лакът, Остров Лакът
 Ostrov Lyulyak, Lyulyak
 Ostrov Magaritsa, Magaritsa
 Ostrov Malak Bliznak, Malak Bliznak, Ostrov Malŭk Blyznak, Малък Близнак, Остров Малък Близнак
 Ostrov Malak Boril, Malak Boril, Ostrov Malŭk Boril, Малък Борил, Остров Малък Борил
 Ostrov Malak Vardim, Ostrov Malŭk Vardim, Остров Малък Вардим
-Ostrov Milka, Милка
-Ostrov Oreh, Остров Орех
+Ostrov Milka, Milka
+Ostrov Oreh, Ostrov Orekh
 Ostrov Palets, Palets
 Ostrov Skomen, Skomen
-Ostrov Sveta Anastasia, Anastasia Island, Ostrov Bolshevik, Ostrov Sveta Anastasiya, Sveta Anastasia, Болшевик, Света Анастасия
+Ostrov Sveta Anastasia, Anastasia Island, Bolshevik, Ostrov Bolshevik, Ostrov Sveta Anastasiya, Sveta Anastasia, Света Анастасия
 Ostrov Sveti Toma
 Ostrov Tsibar, Ostrov Tsibŭr, Остров Цибър
 Ostrov Tsibritsa
@@ -5242,10 +5242,10 @@ Paisievo
 Pajdushko, Пайдушко
 Pakloto, Pŭkloto, Пъклото
 Pakusha, Chiradzhi, Chirandzhi, Pakosha
-Palakaria, Palakaria River, Palakbriya, Палакария
+Palakaria, Palakaria River, Palakariya, Palakbriya
 Palakariyata, Palakariya
 Palamarca, Паламарца
-Palamud Gyol, Паламуд Гьол
+Palamud Gyol, Palamud G'ol
 Palatik
 Palaza
 Paliokastra
@@ -5265,7 +5265,7 @@ Panaretovci, Панаретовци
 Pancharevsko Ezero
 Pandaklak, Pandaklŭk, Пандаклък
 Pandaklashka Reka, Pandaklŭshka Reka, Пандаклъшка Река
-Pandalia, Пандалия
+Pandalia, Pandaliya
 Panderitsa
 Pandilov Kladenets
 Pandura
@@ -5289,14 +5289,14 @@ Paprat
 Paprata
 Papren
 Paprikovtsi
-Parakyoy, Паракьой
-Parakyoyska Reka, Parakjojska Reka, Parakoiska, Паракойска река
+Parakyoy, Parak'oy
+Parakyoyska Reka, Parak'oyska Reka, Parakjojska Reka, Parakoiska
 Paraliovtsi
 Parangalitsa
 Parashkevova Koria, Парашкевова Кория
 Parcharnik, Pŭrcharnik, Пърчарник
 Parilska Sedlovina
-Parilski Prohod, Prokhod Paril, Парилски Проход
+Parilski Prohod, Parilski Prokhod, Prokhod Paril
 Park Sveti Nikola
 Park Vazrazhdane, Парк Възраждане
 Parka
@@ -5372,14 +5372,14 @@ Peltekovi Kochini
 Pelyuv Vrah, Pelyuv Vrŭkh, Пелюв Връх
 Pen'ovo
 Penchova Reka
-Penkyovska Reka, Пенкьовска Река
+Penkyovska Reka, Penk'ovska Reka
 Pepelashka Reka, Pepelashka
 Perachkata Bara
 Perduhovi Ergetsi, Пердухови Ергеци
 Perishko Dere
 Perlovska Reka, Boyanska Reka, Perlovska river, Reka Perlovetz
 Pernedar Tepe
-Pernik, Dimitrovo, Dimitrovski Okrŭg, Pernishki Okrŭg, Област Перник
+Pernik, Dimitrovo, Dimitrovski Okrŭg, Oblast Pernik, Pernishki Okrŭg
 Pernishka Kotlovina
 Perperek, Perperska
 Perperek Obshtina, Община Перперек
@@ -5421,7 +5421,7 @@ Petrich
 Petrichka Reka
 Petrin Vir
 Petrinski Dol
-Petrohanski Prohod, Berkovski, Ginski, Klisurski, Petro-Han, Petrokhan Pass, Петрохански Проход
+Petrohanski Prohod, Berkovski, Ginski, Klisurski, Petro-Han, Petrokhan Pass, Petrokhanski Prokhod
 Petrov Bair
 Petrov Chukar
 Petrov Dol
@@ -5467,7 +5467,7 @@ Piroler
 Piryana
 Pisan Kamak, Pisan Kamŭk, Писан Камък
 Pisanec, Писанец
-Pisania Kladenets, Писания Кладенец
+Pisania Kladenets, Pisaniya Kladenets
 Pisarevo
 Pisaritsa
 Pisarovo
@@ -5516,7 +5516,7 @@ Plodovitovo
 Ploska Mogila
 Ploska mogila
 Ploski
-Plovdiv, Oblast Plovdiv, Plovdivski Okrŭg, Пловдивска област, Пловдивски окръг
+Plovdiv, Oblast Plovdiv, Plovdivska Oblast, Plovdivski Okrŭg, Пловдивски окръг
 Plovdivci, Пловдивци
 Plovka
 Plustina, Плъстина
@@ -5532,7 +5532,7 @@ Pobit kamuk, Побит камък
 Pobitite Kamani, Dikili-Tach, Dikilitash, Dikilitaš, Pobite Kamăni, Pobiti Kamuni, Pobitite Kamŭni, Побитите Камъни
 Pobrezhie
 Pochivala
-Pod Kashka, Почковец
+Pod Kashka, Pochkovets
 Pod Kozyata Stena
 Pod Mechi vrah, Под Мечи връх
 Podajva, Подайва
@@ -5560,7 +5560,7 @@ Pokrajna, Покрайна
 Pokrovnik
 Polena
 Polenica, Поленица
-Polenitsi, Даковото, Полиници
+Polenitsi, Dakovoto, Polinitsi
 Poleto
 Polezhan, Mangar Tepe, Vŭrkh Manger, Vŭrkh Mangŭrtepe, Мангър тепе
 Polikraishhe, Поликраище
@@ -5606,7 +5606,7 @@ Popov Dol
 Popov Dyal, Goliyat Vrŭkh, Popov-Dyel, Popovdel
 Popov Vrah, Popov Vrŭkh, Попов Връх
 Popova Cheshma
-Popova Glava, Китова чука
+Popova Glava, Kitova chuka
 Popova Mogila
 Popova Shapka, Popova-Kapa, Popowa Schapka, Поповска Шапка
 Popova Tumba, Gora Popova-Tumba
@@ -5617,7 +5617,7 @@ Popovi Ergetsi, Enchevitsa
 Popovi Koshari
 Popovi Livadi, Papazchair, Popski Preslap, Popski Preslop
 Popovi Ushi
-Popovia, Поповия
+Popovia, Popoviya
 Popovica
 Popovich
 Popovitsa
@@ -5780,7 +5780,7 @@ Radishevo
 Raditsa
 Radjuvene, Радювене
 Radko Dimitrievo
-Radnyov Dol, Радньов Дол
+Radnyov Dol, Radn'ov Dol
 Radomir, Dhemír Kapoú, Kalabaka, Vŭrkh Kalabak
 Radomirci, Радомирци
 Radomiritsa
@@ -5793,8 +5793,8 @@ Radovevitsa
 Raduil
 Radyuva Planina, Radova Balkan
 Raglevtsi, Rŭglevtsi, Ръглевци
-Rahman Ashiklar, Rahman Aşiclar, Рахман Ашиклар
-Rahmanliyska Reka, Rakhmanliyska, Rozovetska, Рахманлийска Река
+Rahman Ashiklar, Rahman Aşiclar, Rakhman Ashiklar
+Rahmanliyska Reka, Rakhmanliyska, Rakhmanliyska Reka, Rozovetska
 Raisko Praskalo
 Rajkova mogila, Райкова могила
 Rajnino, Райнино
@@ -5851,7 +5851,7 @@ Ravni Izvor
 Ravni Rat, Ravni Rŭt, Равни Рът
 Ravni Vrah
 Ravni chal
-Ravnia Gabrak, Равния Габрак
+Ravnia Gabrak, Ravniya Gabrak
 Ravnik
 Ravninata
 Ravnishha, Равнища
@@ -5876,7 +5876,7 @@ Rayon Bankya, Deveti Rayon, IX-i Rayon, Obshtina Bankya, Rayon Bankyanski
 Rayon Ilinden, Obshtina Ilinden
 Rayon Iskŭr, Dvanadeseti Rayon Iskŭr, Obshtina Iskŭr, XII-i Rayon, Район Искър
 Rayon Izgrev, Obshtina Chervena Zvezda
-Rayon Krasna Polyana, Krasna Poliana, Obshtina Krasna Polyana, Красна Поляна
+Rayon Krasna Polyana, Krasna Poliana, Krasna Polyana, Obshtina Krasna Polyana
 Rayon Krasno Selo, Krasno Selo, Obshtina Krasno Selo
 Rayon Kremikovtsi, Kremikovtsi, Obshtina Kremikovtsi, Osmi Rayon, VIII-i Rayon
 Rayon Lozenets, Lozenets, Obshtina Lozenets
@@ -5928,7 +5928,7 @@ Rechitsa, Ryeka Ryechitsa, Rătschiza
 Rechka
 Rechkata
 Rechnitsi, Dobrovichini, Dobryuvchani
-Rechyov kamak, Rechov Kamak, Рачов Камък, Речьов камък
+Rechyov kamak, Rechov Kamak, Рачов Камък, Речов Камък
 Redkoto Buche
 Redovanitsa
 Reduta
@@ -5942,11 +5942,11 @@ Reka Kolonitsa, Kolonitsa
 Reka Kyuchuk Derven
 Reka Lisovo Dere
 Reka Liteyska, Liteyska Reka
-Reka Musiako, Musa Kyoy, Ryeka Musakio, Муса Кьой
-Reka Nisia, Река Нисия
+Reka Musiako, Musa K'oy, Musa Kyoy, Ryeka Musakio
+Reka Nisia, Reka Nisiya
 Reka Sremnitsa
 Reka Tisovitsa
-Reka Varda, Варда
+Reka Varda, Varda
 Reka Verguti
 Reka Vizhitsa, Ryeka Vyzhitsa, Ryeka Vŭzhitsa, Vizhitsa, Vizitsa
 Reka Zhadzhishka
@@ -5956,7 +5956,7 @@ Remeshnitsa
 Renovshtitsa, Реновщица
 Repljana, Репляна
 Replyanska Reka
-Republic of Bulgaria, Bulgaria, Bulgarie, Bulgarien, Bulgaristan, Bŭlgariya, Narodna Republika Bŭlgariya, People's Republic of Bulgaria, Republika Bulgaria, Republika Bŭlgariya, България, Република България
+Republic of Bulgaria, Blgariya, Bulgaria, Bulgarie, Bulgarien, Bulgaristan, Bŭlgariya, Narodna Republika Bŭlgariya, People's Republic of Bulgaria, Republika Bulgaria, Republika Bŭlgariya, Република България
 Republikata, Khainboazki Prokhod, Khainkioyskiy Pereval
 Reselec, Реселец
 Resen
@@ -6061,7 +6061,7 @@ Rusalen
 Rusalii
 Rusaliite
 Rusalishte, Ruselishte, Русалище, Руселище
-Rusaliyski Prohod, Maragidik, Marin Prokhod, Русалийски Проход
+Rusaliyski Prohod, Maragidik, Marin Prokhod, Rusaliyski Prokhod
 Rusalja, Русаля
 Rusalka, Maragidik
 Rusenski Lom, Rusenski River, Ryeka Kara-Lom
@@ -6079,7 +6079,7 @@ Ruzhevo Konare, Ръжево Конаре
 Ruzhica, Ружица, Ръжица
 Ryakata
 Rzhana, Orkhaniyski Balkan, Rzhana Planina, Rzhana Polyana, Rŭzhana
-Réma Akalaniótiko, Chiflisko Dere, Tchiflik, Чифлишко дере
+Réma Akalaniótiko, Chiflishko Dere, Chiflisko Dere, Tchiflik
 Saar Kaya
 Sabotinovsko Bardo, Саботиновско Бърдо
 Sachareva
@@ -6091,7 +6091,7 @@ Sadovec, Садовец
 Sadovo
 Sahat Tepe, Sakhat Tepe
 Sakaliyata
-Sakar Planina, Brannitsa, Сакар
+Sakar Planina, Brannitsa, Sakar
 Sakardzhika
 Sakaritsa
 Sakartepe
@@ -6170,7 +6170,7 @@ Sedloto
 Sedlova Polyana, Semeralan
 Sedlovina
 Sejdol, Сейдол
-Sekitska Koria, Секитска Кория
+Sekitska Koria, Sekitska Koriya
 Sekulovo
 Selanovci, Селановци
 Selcha
@@ -6228,7 +6228,7 @@ Shablensko Blato, Ezero Sal-Mush, Lacul Satălmuş, Ozero Sal Mush, Satlămuş-G
 Shabovitsa
 Shafran Burun
 Shahin Karan, Шахин Каран
-Shahtana, Шахтана
+Shahtana, Shakhtana
 Shalaka Bair
 Shambucha Dere
 Shanachki Dereta, Shoanóchkí Déreta
@@ -6300,7 +6300,7 @@ Shiroko pole
 Shirokolashka Reka, Shirokolashka River, Shirokolŭshka Reka, Shirolŭshka, Широколъшка Река
 Shirokolashki Snezhnik, Karlŭk, Karlŭka Mountain, Shirokolukanski Snezhnik, Shirokolŭshki Karlŭk, Shirokolŭshki Snezhnik, Широколъшки Снежник
 Shirov Dol
-Shish Tepe, Смиш Тепе
+Shish Tepe, Smish Tepe
 Shishkovci, Шишковци
 Shishkovitsa, Shishkovicha
 Shishman, Kolibi Shishmana, Šišmanj
@@ -6316,7 +6316,7 @@ Shonka
 Shopa
 Shopci, Шопци
 Shopov Rid
-Shopova Koria, Шопова Кория
+Shopova Koria, Shopova Koriya
 Shopovskata Cheshma
 Shopovtsi
 Shopura
@@ -6325,7 +6325,7 @@ Shtanlovo Bardo, Shtánlova Birdó, Щанлово Бърдо
 Shtarklevo Gnezdo, Щърклево Гнездо
 Shtodenski Vrŭkh, щодентски Връх
 Shtruklevo Obshtina, Община Щръклево
-Shugovitsa, Шугавица
+Shugovitsa, Shugavitsa
 Shukar Tepe, Shakár-Tepé, Шукър Тепе
 Shuklitsa
 Shukova mogila
@@ -6373,7 +6373,7 @@ Sini Vrah, Kokes Tepe, Kokeztepe, Sini Vrŭkh, Vrŭkh Kokez, Сини Връх
 Sini rid
 Sini vir
 Sinia Kladenets, Siniya Kladenets
-Sinia Vir, Синия Вир
+Sinia Vir, Siniya Vir
 Siniger
 Sinio kamak, Синио камък
 Sinite Kamani, Sinite Kamŭni, Siniy Kamen, Vŭrkh Sini Kamen, Сините Камъни
@@ -6390,8 +6390,8 @@ Sirakovo
 Sirakovska Bara
 Sirakovtsi, Sirakowzi, Sŭbotinovtsi
 Sirishhnik, Сирищник
-Sirishtnishka Rudina, Сирищнишка рудина
-Siva Gramada, Сивата Грамада
+Sirishtnishka Rudina, Сирищнишка Рудина
+Siva Gramada, Sivata Gramada
 Siva Kobila, Vrŭkh Siva Kobila
 Sivata Voda
 Sivi Kladenets
@@ -6404,7 +6404,7 @@ Sivri Dikme
 Sivri Sart, Sivrisŭrt, Сиври Сърт
 Sivri Tepe
 Sivri chal
-Sivrikaya, Kazan dere, Сиори кая
+Sivrikaya, Kazan dere, Siori kaya
 Sivritepe, Sevri Tepe, Sivrí Lófos, Vŭrkh Sivri Tepe
 Sivriyata
 Skachkovets
@@ -6488,7 +6488,7 @@ Smilec, Смилец
 Smilev Chuchur
 Smiljan, Смилян
 Smilyan Obshtina, Община Смилян
-Smilyova Mogila, Смильова Могила
+Smilyova Mogila, Smil'ova Mogila
 Smirnenski
 Smochevo
 Smokinarnitsata
@@ -6509,11 +6509,11 @@ Snezhnik
 Snjagovo
 Snyagovo, Caraduramus, Caradurumuş, Kara Durmush, Snegovo, Snyegovo
 Soatchik
-Sobinica, Собиница
+Sobinica, Sobinitsa
 Sofan Dere
 Sofana
-Sofia, Oblast Sofia, Oblast Sofiya, Sofia Province, Sofiya, Sofiyski Okrŭg, Софийска област
-Sofia-Grad, Oblast Grad Sofiya, Oblast Sofia-Grad, Okrŭg Grad Sofiya, Sofia City, Sofia-Capital, Sofiyska Gradska Obshtina, Област София-Град, София (столица), София-град
+Sofia, Oblast Sofia, Oblast Sofiya, Sofia Province, Sofiya, Sofiyska Oblast, Sofiyski Okrŭg
+Sofia-Grad, Oblast Grad Sofiya, Oblast Sofia-Grad, Oblast Sofiya-Grad, Okrŭg Grad Sofiya, Sofia City, Sofia-Capital, Sofiya-Grad, Sofiyska Gradska Obshtina, София (столица)
 Sofiyska Planina, Sofiska Planina
 Sofiysko Pole, Sofiyska Kotlovina
 Sofronievo
@@ -6588,7 +6588,7 @@ Sredni Rodopi, Central Rhodope Mountains, Gory Sredniye Rodopi, Kendriki Oros Ro
 Sredni Vrah, Sredni Vrŭkh, Средни Връх
 Sredni dyal
 Srednia Govedarnik, Sreden govedarnik, Средния Говедарник
-Srednia Rid, Средния Рид
+Srednia Rid, Sredniya Rid
 Srednia Vrah, Sredniya Vrŭkh, Средния Връх
 Srednia chukar, Средния чукар
 Srednia kladenets, Средния кладенец
@@ -6646,7 +6646,7 @@ Starchevo
 Starchi Krak, Stŭrchi Krak, Стърчи Крак
 Starchovets
 Stari chal
-Staria Kladenets, Стария Кладенец
+Staria Kladenets, Stariya Kladenets
 Staria bair, Staria bor, Стария баир, Стария бор
 Starite Lozya, Starite Losya
 Staritsa
@@ -6720,7 +6720,7 @@ Stoyanovo Dere
 Stoychev Grob
 Stoychevo Bartse, Стойчево Бърце
 Stoychov Geran
-Stoykovia Bunar, Стойковия Бунар
+Stoykovia Bunar, Stoykoviya Bunar
 Stozher
 Stracin, Страцин
 Stragach, Stŭrgach, Órvilos Óros, Стръгач
@@ -6737,7 +6737,7 @@ Strashimirovo
 Strashki Dol
 Strashna Polyana
 Strativ Bair
-Strazh Bair, Gora Strazh Bair, Gora Strazha-Bair, Strasha Bair, Страж
+Strazh Bair, Gora Strazh Bair, Gora Strazha-Bair, Strasha Bair, Strazh
 Strazha, Paramunska Planina
 Strazhara
 Strazhata, Krŭstets
@@ -6778,7 +6778,7 @@ Studenec
 Studenets
 Studeni Kladenets
 Studeni Vrah, Studeni Vrŭkh, Студени Връх
-Studenia Izvor, Студения Извор
+Studenia Izvor, Studeniya Izvor
 Studenia Kladenets, Studeniya Kladenets
 Studenia Vris, Studeniya Vris
 Studenica, Студеница
@@ -6799,7 +6799,7 @@ Sugak Su Dere, Shugák Shú Dere
 Sugarska Reka
 Suha Reka, Khremshtitsa, Sukha Reka
 Suhar, Сухар
-Suharya, Сухаря
+Suharya, Sukharya
 Suhata Reka, Sukhata Reka
 Suhata mogila, Сухата могила
 Suhata reka, Сухата река
@@ -6808,7 +6808,7 @@ Suhi Vrah, Sukhi Vrŭkh, Сухи Връх
 Suhia Chal, Сухия Чал
 Suhia Dol, Sukhiya Dol
 Suhia Geran, Sukhiya Geran
-Suho Dere, Сухо Дере
+Suho Dere, Súkho Deré
 Suhoborsko Dere, Sukhoborsko Dere
 Suhoselskoto tepe, Сухоселското тепе
 Suhoto Dere, Sukhoto Dere
@@ -6868,13 +6868,13 @@ Sveta Voda
 Svetena Voda
 Sveti Arhangel, Свети Архангел
 Sveti Atanas
-Sveti Duh, Свети Дух
+Sveti Duh, Sveti Dukh
 Sveti Georgi
-Sveti Ilia, Gora Sveti Ili, Mount Eminch, Svety Iliya, Sweti Ilija, Свети Илия
+Sveti Ilia, Gora Sveti Ili, Mount Eminch, Sveti Iliya, Svety Iliya, Sweti Ilija
 Sveti Ivan, Megalo Nisi, Ostrov Ivan, Ostrov Sveta Ioanna, Ostrov Sveti Ivan, Ostrov Sveti Iwan, Ostrov Svetilvan
 Sveti Konstantin
 Sveti Kostadin
-Sveti Nikola, Prohod Sveti Nikola, Prokhod Sveti Nikolski, Prokhod Sveti Nikolskiy, Проход Свети Никола
+Sveti Nikola, Prohod Sveti Nikola, Prokhod Sveti Nikola, Prokhod Sveti Nikolski, Prokhod Sveti Nikolskiy
 Sveti Nikolska Planina
 Sveti Petar, Agios Petros, Ostrov Kirikos, Ostrov Sveti Kirik, Ostrov Sveti Petr, Ostrov Sveti Petŭr, Ostrov Svetog Petra, Petŭr, Sweti Petăr, Петър, Свети Петър
 Sveti Petŭr, Agios Petros, Ostrov Sveti Petr, Ostrov Svetog Petra, Sweti Petăr, Свети Петър
@@ -6892,7 +6892,7 @@ Svetoslav
 Svetovrachene
 Svetulka
 Svidnja, Свидня
-Svigyovitsa, Свигьовица
+Svigyovitsa, Svig'ovitsa
 Svinarnika
 Svinarska Mogila
 Svinarska Tumba
@@ -7079,7 +7079,7 @@ Topolovets, Ryeka Topolovets, Topolovitsa, Topolowiza
 Topolovo
 Topolovo Obshtina, Topolovska Obshtina, Община Тополово
 Topolovski Prohod, Arpagidik, Topolovski Prokhod, Тополски проход
-Topolski bair, Турски чукар
+Topolski bair, Turski chukar
 Torbichkovia Bair, Торбичковия Баир
 Torbovets
 Torfeno Branishte, Torfen Rezervat, Торфено бранище
@@ -7121,7 +7121,7 @@ Treskavec
 Treskavets
 Treven, Khotuldzha, Otulgea, Trewen
 Trevnenska Planina, Tryevnenska Planina
-Trevnenski Proho, Prokhod Tryevnenski, Tesnina Trevna, Тревненски проход
+Trevnenski Proho, Prokhod Tryevnenski, Tesnina Trevna, Trevnenski Prokhod
 Tri Kladentsi
 Tri Krushi
 Tri Mogili
@@ -7145,7 +7145,7 @@ Trite Dola
 Trite Groba
 Trite Kladentsi
 Trite Mogili
-Trite Mushi, Голям сиаковец
+Trite Mushi, Golyam siakovets
 Trite Sestri, Gora Trite-Sestri
 Trite Vrisa
 Trivodici, Триводици
@@ -7259,8 +7259,8 @@ Tumbata, Gora Tumbata
 Tumbensko Dere
 Tumbite
 Tumbitsata
-Tumbyovoto, Тумбовото
-Tumni dyal, Тумин Дял
+Tumbyovoto, Tumb'ovoto
+Tumni dyal, Tumin Dyal
 Tunca Nehri, Tonzus, Tundja, Tundsha, Tundza, Tundzha, Tundzha River, Tunja, Turndzha River, Тунча Нехри
 Tunkovo, Тънково
 Tunova Chuka
@@ -7291,7 +7291,7 @@ Tuton
 Tutunishte, Тутунище
 Tutunsuza
 Tuzha, Тъжа
-Tuzla, Ezero Tuzla, Ezero Tuzlata, Lacul Tuzla, Lacul Şabla, Ozero Shablar, Шабленска Тузла
+Tuzla, Ezero Tuzla, Ezero Tuzlata, Lacul Tuzla, Lacul Şabla, Ozero Shablar, Shablenska Tuzla
 Tuzlata, Tuslata
 Tvardishka Kotlovina, Tvŭrdishka Kotlovina, Твърдишка Котловина
 Tvardishki Prohod, Tvŭrdishki Prokhod, Твърдишки Проход
@@ -7336,7 +7336,7 @@ Uzun Bair
 Uzun Budzhak
 Uzun Burun
 Uzun Chairskata Reka
-Uzun Geren, Akrianu Geul, Узундже
+Uzun Geren, Akrianu Geul, Uzundzhe
 Uzunburun
 Uzundere
 Uzundzhata
@@ -7391,7 +7391,7 @@ Varli Dol, Vŭrli Dol, Върли Дол
 Varli Kamak, Vŭrli Kamŭk, Върли Камък
 Varloto Presoe, Върлото Пресое
 Varlyaka
-Varna, Okrŭg Stalin, Stalinski Okrŭg, Varnenska Oblast, Varnenski Okrŭg, Област Варна
+Varna, Oblast Varna, Okrŭg Stalin, Stalinski Okrŭg, Varnenska Oblast, Varnenski Okrŭg
 Varna-Devnya
 Varna-Zapad
 Varnenci, Варненци
@@ -7530,8 +7530,8 @@ Visoka Polyana, Visiko Poliyana
 Visoka poljana
 Visokata Chuka
 Visokata Mogila
-Visokia Bair, Високия Баир
-Visokia Del, Високия Дел
+Visokia Bair, Visokiya Bair
+Visokia Del, Visokiya Del
 Visokia Kartal, Visokiya Kartal
 Visokia Rat, Visokiya Rŭt, Високия Рът
 Visokia Tser, Високия Цер
@@ -7562,8 +7562,8 @@ Vladovtsi
 Vlaha, Vlakha
 Vlahina Planina, Blahinja, Blahinya, Pastusha, Pastuša, Vlahinja, Vlakhina Planina
 Vlahinska Reka, Vlakhinska Reka, Влахина Река
-Vlahovia Bair, Влаховия Баир
-Vlahovichka Reka, Vlahovichka Bara, Влаховичка Бара, Влаховичка Река
+Vlahovia Bair, Vlakhoviya Bair
+Vlahovichka Reka, Vlahovichka Bara, Vlakhovichka Reka, Влаховичка Бара
 Vlahovo
 Vlaka
 Vlakhov Dol, Blahov Dol, Kolibi Vlav Dol
@@ -7620,7 +7620,7 @@ Voneshha voda, Вонеща вода
 Voneshtata Voda, Вонещата Вода
 Vonski Kamak, Vonski Kamŭk, Вонски Камък
 Voski
-Voykyovski Kladenets, Войкьовски Кладенец
+Voykyovski Kladenets, Voyk'ovski Kladenets
 Voynika
 Voynika Obshtina, Община Войника
 Voynishka Glava
@@ -7642,7 +7642,7 @@ Vrachenite
 Vrachesh
 Vrachkov Bair
 Vrah Chuka, Връх Чука
-Vrah Kovachitsa, Vrŭkh Kovachitsa, връх Ковачица
+Vrah Kovachitsa, Vrŭkh Kovachitsa, Връх Ковачица
 Vrah Papazlak, Bapalăka, Bapaslăka, Papazlik, Papazlík Lófos, Vrŭkh Papazlŭk, Връх Папазлък
 Vrah Tri Chuki, Gora Tri Chuki, Gora Tri Tschuki, Tri Chuke, Tri Čuke, Vrŭkh Tri Chuki, Връх Три Чуки
 Vrah Tursundzha, Gora Tarsundzha, Tsákovo, Tursunski Vrŭkh, Tursunski Wrach, Vrŭkh Tursundzha, Връх Турсунджа
@@ -7715,8 +7715,8 @@ Yamata
 Yamenski Dol
 Yan Kashla, Yan Kŭshla, Ян Къшла
 Yana Bair
-Yanak Dere, Янук Дере
-Yanaklar, Valea Janaklar, Valea Janâclar, Valea Planger, Януклар, Янъклар
+Yanak Dere, Yanŭk Dere
+Yanaklar, Valea Janaklar, Valea Janâclar, Valea Planger, Yanŭklar, Янъклар
 Yanchov Chukar
 Yanchova
 Yanchovo Keleme
@@ -7752,7 +7752,7 @@ Yavor
 Yavoricha, Vrah Yavoriga, Vrŭkh Yavoriga, връх Яворида
 Yavoritsa
 Yavornishka Reka
-Yayladere, Yaylya Dere, Яйлудере
+Yayladere, Yaylya Dere, Yaylŭdere
 Yayladzhik
 Yazlashki Longoz, Iazlŭshki Longoz, Язлъшки Лонгоз
 Yazmata
@@ -7767,8 +7767,8 @@ Yazovir Drenovets
 Yazovir Dyakovo
 Yazovir Fisek, Язовир Фесек
 Yazovir General Kiselovo, General Kiselovo Reservoir
-Yazovir Golyam Beglik, Васил Коларов
-Yazovir Hristo Smirnenski, Yazovir Smirnenski, язовир Христо Смирненски
+Yazovir Golyam Beglik, Vasil Kolarov
+Yazovir Hristo Smirnenski, Yazovir Khristo Smirnenski, Yazovir Smirnenski
 Yazovir Ivaylovgrad
 Yazovir Izvor
 Yazovir Kovachitsa
@@ -7833,7 +7833,7 @@ Yusultepe
 Yuz Dere
 Yuzhna Bukhta Nesebŭr, Южна Бухта Несебър
 Yuzhno Atanasovsko Ezero, Lake Atanasovsko
-Zabarge, Zabŭrge, Забърге, Забърде
+Zabarge, Zabrđe, Zabŭrge, Забърге
 Zaburdo, Забърдо
 Zadruga
 Zaeshka mogila
@@ -7852,7 +7852,7 @@ Zahlupenia Kladenets, Zakhlupeniya Kladenets
 Zaimchevo
 Zajchar, Зайчар
 Zakhari Stojanovo, Захари Стояново
-Zaliv Foros, Bukhta Foros, Poros Bay, Saliw Foros, Форос
+Zaliv Foros, Bukhta Foros, Foros, Poros Bay, Saliw Foros
 Zaliv Miriyus
 Zaliv Stomoplo, Zaliv Stompol, Zaliv Uzundzhe
 Zaliv Sveta Paraskeva
@@ -7972,7 +7972,7 @@ Zlati vojvoda, Злати войвода
 Zlatija, Златия
 Zlatilka
 Zlatina
-Zlatishki Prohod, Prokhod Zlatista, Златишки проход
+Zlatishki Prohod, Prokhod Zlatista, Zlatishki Prokhod
 Zlatishko-Tetevenska Planina, Zlatishka Planina, Zlatishko-Tetevenka Planina, Zlatuska Plania
 Zlatitrap
 Zlatitsa
@@ -7988,7 +7988,7 @@ Zlatovrukh, Златовръх
 Zlatushkovitsa
 Zli Dol
 Zli Vrah, Zli Vrŭkh, Зли Връх
-Zlia Dol, Злия Дол
+Zlia Dol, Zliya Dol
 Zlokashtitsa, Zlokŭshtitsa, Злокъщица
 Zlokuchene
 Zmeevo

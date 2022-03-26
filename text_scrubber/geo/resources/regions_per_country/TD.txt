@@ -344,10 +344,10 @@ Am Deïbé
 Am Diamra
 Am Dioudoul, Dioudoul
 Am Djamia
-Am Djeména
 Am Djenaba
 Am Djeress, Amdjeres
 Am Djémiré
+Am Djéména
 Am Dougoulay, Amj Dougoulay
 Am Doundo, Am Durndo, Mare Amdourio, Umm Durdio
 Am Dourba
@@ -574,7 +574,6 @@ Arkan
 Arkananga
 Arkatoringa
 Arken-Ahon, Archen Ahon
-Arkeney
 Arkenmoni
 Arki
 Arkinadinga
@@ -591,6 +590,7 @@ Arkénia
 Arkénoki
 Arkénouga
 Arkéné, Akenné
+Arkénéy
 Armadélî
 Armanga
 Armkolinga
@@ -603,10 +603,10 @@ Arnoua
 Aro
 Aromadi
 Arou
-Aroueli, Aroualli, Arouelli
 Aroui, Iroui
 Aroum Adémanga
 Aroum Gisibi
+Arouèli, Aroualli, Arouelli
 Arraouor, Arrauor
 Arsa
 Arsa Séléchéka
@@ -831,12 +831,12 @@ Balali
 Balanga
 Balani
 Balazir
-Bale, Mayo Balé
 Balimba
 Balise-Leclerc
 Balkomia
 Balla
 Baloul
+Balé, Mayo Balé
 Balélé
 Bamban, Bahr Bambar, Ouadi Bamban
 Bambane
@@ -914,7 +914,6 @@ Batadjalé
 Batanamé
 Batarané
 Batari
-Batele, Batetété, Batété
 Batha, Ba Laïri, Ba Tha, Bahr Batha, Batha de Laïri, Batha-Laïri, Oued Batha, Wadi Batha
 Batha Ménogo
 Batha Region, Minţaqah Al Baţḩah, Préfecture du Batha, Région du Batha
@@ -924,6 +923,7 @@ Batha-Ouest, Département du Batha-Ouest, البطحاء الغربية, محا�
 Bati
 Batizenga
 Batran
+Batélé, Batetété, Batété
 Baude
 Bausa
 Bay Belou
@@ -985,12 +985,12 @@ Bicha
 Bichagara
 Bichara
 Bida, Man Bida, Man Bida Mayo
-Bideyat, Bideya
 Bidinga
 Bidoli
 Bidé-Oudi
 Bidéfaka
 Bidélom
+Bidéyat, Bideya
 Bigas
 Bigom
 Bigéyé
@@ -1041,8 +1041,8 @@ Bingari
 Bini Ananga, Bini Annanga
 Bini Drosso
 Bini Erda
-Bini Erde
 Bini Erdi, Bini Ergui, Birni Erdi
+Bini Erdé
 Bini Gui, Bini Goui, Bini-Gi
 Bini Itchoua
 Bini Madoa, Beni Mado, Beni Madou, Madama Bini
@@ -1136,7 +1136,7 @@ Bir Am Raign
 Bir Am Ramad
 Bir Am Rich Abiad
 Bir Am Roubi
-Bir Am Sakin
+Bir Am Sakîn
 Bir Am Séala
 Bir Am Sélep
 Bir Am Sélébi
@@ -1411,7 +1411,7 @@ Bir Ibériay
 Bir Id el Araz
 Bir Id el Erdébay II
 Bir Id el Koulkoul
-Bir Idjelidj, Bir Adjelidje, Bir Yélidj
+Bir Idjélidj, Bir Adjelidje, Bir Yélidj
 Bir Idjélidj Kebir
 Bir Igadrousou
 Bir Igamonta
@@ -1662,7 +1662,6 @@ Bir Tchitchoumou
 Bir Tchoré
 Bir Tchouktchouk, Bir Tchoukchouk
 Bir Tchoutchoubiré
-Bir Teda
 Bir Telbey
 Bir Tiahik
 Bir Tiakeur
@@ -1689,6 +1688,7 @@ Bir Tourka
 Bir Tournoyo
 Bir Trogouakore
 Bir Téché
+Bir Téda
 Bir Téfémonga
 Bir Tékié Soumou
 Bir Téléhay
@@ -1943,7 +1943,7 @@ Bourdounga
 Bourdoutoumou
 Bourgali
 Bourgouindi
-Bourgoure, Bourgoude
+Bourgouré, Bourgoude
 Bouri
 Bouri Ala
 Bouricha
@@ -2045,11 +2045,11 @@ Béni Drouso
 Bénigué, Benige
 Bénébahar
 Bénéï Fagui
-Bérega
 Bérek
 Bérem
 Bérim
 Béringa
+Béréga
 Béréganga
 Bérégué Féfenga, Bérégé Féfenga
 Bérégué Tchoroguïdinga, Bérégé Tchorogidinga
@@ -2177,7 +2177,6 @@ Dagana
 Dagana District
 Dagananga
 Dagani, Dagueny
-Dage
 Dagimanga Sounanga
 Daginga
 Dagiré
@@ -2186,6 +2185,7 @@ Dagordé
 Daguil
 Daguila, Dagila
 Dagué
+Dagé
 Dagélia
 Dahamoundou
 Dahatbouyo, Dahatbouuo
@@ -2630,8 +2630,8 @@ Doutki
 Doyenga
 Doyinga
 Doyou
-Doze
 Dozza
+Dozé
 Dra, Iagou Dra
 Dra Maro
 Dramountou
@@ -2807,7 +2807,7 @@ Ehi Korèn
 Ehi Koui, Ehi Cui, Urochishche Ekhi-Koi
 Ehi Kourina
 Ehi Kourizo
-Ehi Kourne, Ehi Kourma
+Ehi Kourné, Ehi Kourma
 Ehi Kourri
 Ehi Koyanga
 Ehi Koïdou, Ehi Kaïdou
@@ -2923,7 +2923,6 @@ El Moura
 El Métris
 El Ouaya, Département d'El Ouaya, الوايا, محافظة الوايا
 El Sokoy, Mayo Sokoy, Mayo Sokoye, Mayo Sokoï, Saré, Sokoye, Sókeu
-Elemay, Ellemei
 Eli
 Eli Azen
 Eli Djinga
@@ -2951,6 +2950,7 @@ Elébéri
 Eléchinga
 Eléfinga
 Eléli
+Elémay, Ellemei
 Elémininga
 Elétiga
 ElŠla, Arala, Ellila, Mare Elléla
@@ -3022,7 +3022,6 @@ Enneri Ayana
 Enneri Barakournida
 Enneri Bardagué, Enneri Bardaghe, Enneri Bardagé, Enneri Bardaï, Uadi Bardaghé
 Enneri Bedri
-Enneri Bedrou
 Enneri Binem
 Enneri Bodini
 Enneri Bodérie
@@ -3037,6 +3036,7 @@ Enneri Broui Chélima
 Enneri Brèy, Enneri Brei
 Enneri Bréchim, Enneri Beurchim, Enneri Beurshim
 Enneri Bréma-Nassou
+Enneri Bédrou
 Enneri Bélouwénama
 Enneri Chemné
 Enneri Cherda
@@ -3240,12 +3240,12 @@ Enneri Tabiriou
 Enneri Tagèy
 Enneri Tamanisoa
 Enneri Tao
-Enneri Tareda
 Enneri Tarka
 Enneri Tarmou, Enneri Tamou
 Enneri Tarne
 Enneri Taroluli
 Enneri Tarsoa
+Enneri Taréda
 Enneri Tchi Drousou
 Enneri Tchiri
 Enneri Tchoua
@@ -3435,7 +3435,6 @@ Fediarom
 Fella Téri
 Fellata
 Fendé
-Fere, Ferré
 Ferkélé
 Ferri Ouélimanga
 Fetna
@@ -3542,9 +3541,10 @@ Félé
 Féléouké
 Fénou
 Féoua
-Féreti
 Féri Dinga
 Féridonga
+Féré, Ferré
+Féréti
 Fétié
 Fézen
 Fêri
@@ -3914,7 +3914,7 @@ Guédi
 Guégué
 Guélkou, Guel Kou Mayo, Gèlkou
 Guéléguéle, Gélégéle
-Guéni, Département de Guéni, Guéni Tandjilé, قيني, محافظة قيني
+Guéni, Département de Gueni, Guéni Tandjilé, قيني, محافظة قيني
 Guéraha
 Guérentéli, Gérentéli
 Guéri
@@ -4629,7 +4629,6 @@ Hadjer Tejli
 Hadjer Ten
 Hadjer Terchab, Hadjer Terchap, Terchab
 Hadjer Terfi, حجر ترفي
-Hadjer Teri, Hadjer Ter
 Hadjer Ternel
 Hadjer Tianga
 Hadjer Tiguil
@@ -4660,6 +4659,7 @@ Hadjer Tégroba, Hagar Tegroba
 Hadjer Télibé
 Hadjer Télikobou
 Hadjer Téliom
+Hadjer Téri, Hadjer Ter
 Hadjer Wasi
 Hadjer Yalabo
 Hadjer Yoka
@@ -4680,7 +4680,7 @@ Hamatab
 Hamédianga
 Hangana, Hangara
 Haraz
-Haraz-Al-Biar, Département de Haraz-Al-Biar, Haraz-Albiar, Haraze Al-Biar, حراز البيار, محافظة حراز البيار
+Haraz-Al-Biar, Département de Haraz-Al-Biar, Haraz-Albiar, Haraze Al Biar, حراز البيار, محافظة حراز البيار
 Haraze, Département de Haraze, حراز, محافظة حراز
 Harazé Mangueigne
 Hari, Iari
@@ -4939,7 +4939,7 @@ Kalélé
 Kalérom
 Kamada, Bir Salado, Kakada, Kamada Puits, Komada
 Kamaka
-Kamakaye
+Kamakayé
 Kaman Gounia
 Kamay, Kamayé
 Kamba
@@ -5081,7 +5081,6 @@ Kaïga
 Kaïssoro I
 Kaïwa
 Kbara
-Ke
 Kecherda
 Kechire
 Kedjem
@@ -5097,7 +5096,6 @@ Kekilguima
 Kel
 Kelb
 Kelediaye
-Keli
 Kelianga
 Kelimangey Anchanga
 Kelinga
@@ -5185,9 +5183,9 @@ Kilkil
 Kilkila
 Kilérom
 Kim
-Kime
 Kimenguelé, Kimengelé
 Kimiti, Département de Kimiti, Kimitini, كيمتي, محافظة كيمتي
+Kimé
 Kinda
 Kindimindom, Kindiminom
 Kindin
@@ -5209,7 +5207,7 @@ Kirdimi
 Kirdinga
 Kiri
 Kiri Katia
-Kiri Kide
+Kiri Kidé
 Kiriba
 Kiridinga
 Kirigambou
@@ -5238,11 +5236,11 @@ Ko
 Koal, Khoal
 Koalia
 Koann, Hadjer Koan, Koan
-Kobe
 Kobia
 Kobo, Kabou
 Kobo Kogouimi
 Kobourom
+Kobé
 Kobé Ngourouma
 Kochèlenga
 Kodi
@@ -5630,7 +5628,6 @@ Kozor
 Koïnamena
 Koïssinga
 Krea
-Kreda, Kreidas
 Krenek
 Kri
 Kribou
@@ -5640,12 +5637,14 @@ Krindi
 Kritchima
 Krou
 Kré Dahon
+Kréda, Kreidas
 Kubo
 Kweiba Foni
 Kwouma, Kououma
 Kya
 Kèlboua
 Kèlinki
+Ké
 Kébé
 Kébéla Daïba, Kébèta Daiba
 Kéchéli
@@ -5668,6 +5667,7 @@ Kélam
 Kélami
 Kélendi
 Kéletoa
+Kéli
 Kélimanga
 Kélimangey
 Kélé
@@ -5701,7 +5701,6 @@ Kété Egéné
 Kéténa Séna
 Kétérit Zagal
 Kéziga
-La
 La Moula, Département de la Moula, لا مولا, محافظة لا مولا
 La Nya Pende
 La Pendé, Département de la Pendé, لا بيندي, محافظة لا بيندي
@@ -5861,8 +5860,8 @@ Lougri
 Louha
 Louk
 Loulay
-Loule, Mayo Loulé, Mayo Louté
 Louli Kossamanga
+Loulé, Mayo Loulé, Mayo Louté
 Loumia
 Loumou
 Louri
@@ -5874,6 +5873,7 @@ Loyo
 Lybie, Libie
 Lyigili
 Lyiligi
+Lâ
 Lébeunbouri
 Lébé
 Lébéké
@@ -5953,7 +5953,7 @@ Mago
 Magoua
 Magoum
 Magoundom
-Magre, Magaré
+Magré, Magaré
 Magui, Magi
 Maguiguir
 Maguili, Magili
@@ -6004,7 +6004,6 @@ Malbokolanga
 Malei
 Malem Maden
 Malemladan
-Malenga
 Malfayé
 Malianga
 Malidinga
@@ -6030,6 +6029,7 @@ Malsileman
 Maltar
 Maltchi
 Malélé
+Malénga
 Malérom
 Mamadinga
 Mamadou Gana
@@ -6177,13 +6177,13 @@ Matari
 Matari Eslay
 Mataya
 Matenbaba, Aboubagay
-Materela, Materella
 Matfouz
 Matiga
 Matilbé
 Matini
 Matorbé
 Matoun
+Matèrèla, Materella
 Mavéro
 May
 Maya, Ouadi Maya
@@ -6291,9 +6291,6 @@ Medimi
 Meedi
 Meherem, Mehamam, Mehanam, Méharam
 Mekati
-Melanga
-Melhé
-Melia
 Melim, Bahr Melemi, Bahr Melimé
 Melké
 Melmélé
@@ -6301,7 +6298,6 @@ Mena
 Mendek
 Menegoui, Mougui
 Merbé, Ouadi Merbé
-Mereré
 Mergedji
 Merkaba
 Merké
@@ -6379,7 +6375,7 @@ Molio Manga
 Molo
 Molobo
 Molofoulanga
-Molofourde
+Molofourdé
 Molofourgouini
 Mologondjia
 Mombolo
@@ -6629,9 +6625,12 @@ Méla
 Mélaazanga
 Mélagradé
 Mélakourida
+Mélanga
 Mélassoual, Melasoual
 Mélassour, Mèlasour
 Mélassouri, Mèlasour
+Mélhé
+Mélia
 Mélom
 Mélé
 Mélé Kafirom
@@ -6649,6 +6648,7 @@ Mérèp
 Mérémi
 Mérérom
 Mérérom Gana
+Méréré
 Mésaoudinga
 Méséir
 Mézoroa, Mézora
@@ -6803,7 +6803,6 @@ Ngoyga
 Ngre
 Ngréa
 Nguelbéa, Ngelbéa
-Ngueléa
 Nguerizoa
 Nguerémirom
 Nguilayom, Nquilayom
@@ -6813,6 +6812,7 @@ Nguiéto, Ngieto, Ngleto
 Nguélabita
 Nguélé, Ngélé
 Nguélé Toko, Ngélé Toko
+Nguéléa
 Nguéléchéro, Ngéléchéro
 Nguéléya Souya
 Nguéléydinga
@@ -7235,7 +7235,6 @@ Ouadi Diéli
 Ouadi Diétay
 Ouadi Djakalat
 Ouadi Djakata
-Ouadi Djedid
 Ouadi Djekerde
 Ouadi Djelid
 Ouadi Djiagalaba
@@ -7259,6 +7258,7 @@ Ouadi Djoudjouré
 Ouadi Djougoundiarso
 Ouadi Djourni
 Ouadi Djousmir
+Ouadi Djédid
 Ouadi Djémilasit
 Ouadi Djéniné
 Ouadi Djéréfa, Oued Djéréfa
@@ -7307,7 +7307,7 @@ Ouadi Elitorko
 Ouadi Enkerba, Oued Enhérba
 Ouadi Enkertaha, Oued Enkértaha
 Ouadi Enmé
-Ouadi Enne, Oued Enné, Wadi Enné
+Ouadi Enné, Oued Enné, Wadi Enné
 Ouadi Enya
 Ouadi Eo Koma, Oued Eo Koma
 Ouadi Er
@@ -7420,7 +7420,7 @@ Ouadi Hilikayna
 Ouadi Horoungourou, Oued Horoungourou
 Ouadi Horta, Oued Horta
 Ouadi Houk
-Ouadi Howa, Hooua, Howar, Shan, Shau, Wād Howar, Wādī Howar
+Ouadi Howa, Hooua, Howar, Shan, Shau, Wadi Howar, Wād Howar
 Ouadi Hélikédé
 Ouadi Héméra, Oued Hemméra, Wadi Hemméra
 Ouadi Id el Aban
@@ -7791,7 +7791,7 @@ Ouadi Serdébé
 Ouadi Sergilong, Ouadi Seirgilong, Ouadi Serguilong, Seirgilong, Serguilong, Wād Seirgilong, Wādī Seirgilong
 Ouadi Sergéri, Oued Cergueni
 Ouadi Sidir
-Ouadi Sifair
+Ouadi Sifaïr
 Ouadi Sil
 Ouadi Silho
 Ouadi Simbi
@@ -7934,7 +7934,7 @@ Ouamgidno
 Ouami
 Ouan
 Ouana
-Ouanazein, Ouahazeïne
+Ouanazéin, Ouahazeïne
 Ouanda
 Ouandali
 Ouani
@@ -8014,7 +8014,7 @@ Oulamonga
 Oulanga
 Ouled Naser
 Ouled Niser, Al Guiraye
-Oulemechi, Oulemeshi
+Ouleméchi, Oulemeshi
 Ouli, Ouili
 Oulidinga
 Oulmi
@@ -8052,7 +8052,6 @@ Oura Sogou
 Ourde Bourbou, Oudè Bourdou, Oudé Bourbou, Ourde Bourdou
 Ourdidinga
 Ourdinga
-Ourey, Ourel, Oureï
 Ouri
 Ouri Sao
 Ouri-Sao
@@ -8069,6 +8068,7 @@ Ouré
 Ouré Gana
 Ourédé
 Ourérey
+Ouréy, Ourel, Oureï
 Ousadou, Ousa
 Ousi
 Ousman
@@ -8118,7 +8118,7 @@ Passe de Nguélea
 Pays Kofa, Kofa
 Païn
 Pelé
-Pende, Penndé, Rivière Pendé
+Pendé, Penndé, Rivière Pendé
 Penguéréjé
 Petit Mandoul
 Petite Tchiyé
@@ -8460,7 +8460,6 @@ Sahadané
 Sahal Haoua
 Said
 Said Bozoum
-Saidanga
 Saino
 Saisou
 Saisougou
@@ -8518,9 +8517,9 @@ Say, Mayo Saï
 Saya
 Saya Dora
 Saélinga
+Saïdanga
 Seberr, Sebeur
 Sef
-Seki
 Sekida
 Sel, Sil
 Semégo
@@ -8546,7 +8545,7 @@ Sibékat el Morfaïn
 Sidi Aïdao
 Sidina, Siddina
 Sidre
-Sifair, Djebel Siféïa, Jebel Sifeia
+Sifaïr, Djebel Siféïa, Jebel Sifeia
 Signirti
 Sihméri
 Sila, Minţaqah Sīlā, Province du Sila, Région du Sila, Sila Region, سيلا, ولاية سيلا
@@ -8569,10 +8568,10 @@ Sini Berka
 Siniga
 Siougou, Siougour
 Sirbéti
-Sire
 Siroa
 Siroma
 Sirtou
+Siré
 Sirégoum
 Siss
 Sissili, Sisili
@@ -8767,6 +8766,7 @@ Ségé
 Ségéranga
 Séket
 Sékhab, Sekab
+Séki
 Sékété
 Sélenga
 Sélé
@@ -8798,7 +8798,6 @@ Tabédé Gana
 Tacham
 Tada
 Tadam
-Tadi
 Tadje
 Tadé
 Tadïo
@@ -8933,14 +8932,13 @@ Tchata
 Tchatchara
 Tchatcharmari
 Tchaïnga, Ebéria Djémil
-Tcherogounga
 Tchezomanga
 Tchiadanga
 Tchibourou
 Tchie, Tyié
 Tchigoum
-Tchigue Kossamanga, Tchigué Kossomanga, Tchigé Kossamanga
 Tchigue Moza, Tchige Moza
+Tchigué Kossamanga, Tchigué Kossomanga, Tchigé Kossamanga
 Tchigué Ondédéga
 Tchika Dibia
 Tchilel
@@ -8996,10 +8994,10 @@ Tchéranga
 Tchéro Kotou
 Tchérobe
 Tchéroganga
+Tchérogounga
 Tchérogé
 Tebeloum, Tebelum
 Tebendo
-Tebi, Département de Tebi, تيبي, محافظة تيبي
 Tebour
 Tebrig
 Tebrigi
@@ -9007,7 +9005,6 @@ Tecaro
 Tefi Dounga
 Tefi Kourdou Dinga
 Tefiang
-Tefidrousou
 Tefirey
 Tefiyer Faya, Téflyer Faya
 Teheni
@@ -9026,10 +9023,8 @@ Tembéou
 Tendia
 Tendégué
 Tenemi
-Tenibé
 Ter Baro, Ter Barro
-Terbeli, Terbelli
-Terbo
+Terbèli, Terbelli
 Terka Souali, Terca Suali, Terka Suali
 Terkalanga
 Terkei
@@ -9283,9 +9278,11 @@ Troénga
 Trènya, Treïgn
 Trézé Zavoy
 Turkou, Massif de Turkou, Monts de Turkou
+Tâdi
 Tèdei Ouènama
 Tègui-Ouédamanga
 Tébel
+Tébi, Département de Tebi, تيبي, محافظة تيبي
 Tébinara
 Tébou
 Tébourouso
@@ -9301,6 +9298,7 @@ Téfi Ounga
 Téfi Toulé
 Téfianga
 Téfidinga
+Téfidrousou
 Téfienga
 Téfikalaké
 Téfimounga
@@ -9343,8 +9341,10 @@ Télétroné
 Témessa
 Ténamou
 Téney
+Ténibé
 Ténéré, تينيري
 Ténésem
+Térbo
 Térin
 Téro, Téio
 Térédé Saab, Térédé
@@ -9359,7 +9359,7 @@ Třemšín [Rožmitál pod Třemšínem-Voltuš] correct
 Uadi Mussegudo
 Uadi Tahom
 Venderlin
-Ville de N'Djamena, Minţaqah Madīnat Injamīnā, N'Djaména, N'Djaména Region, Région de la Ville de N'Djaména, انْجَمِينا, مدينة أنجمينا, نجامينا, ندجاملينا
+Ville de N'Djamena, Minţaqah Madīnat Injamīnā, N'Djamena, N'Djaména Region, Région de la Ville de N'Djaména, أنجمينا, انْجَمِينا, مدينة أنجمينا, ندجاملينا
 Villoumaye
 Vor
 Vourehi
@@ -9372,7 +9372,6 @@ Wadi Abu 'Aradeib, Oued Erdeb, Wādī Erdeb
 Wadi Bardi
 Wadi Fira Region, Minţaqah Wādī Fīrā, Préfecture du Biltine, Région du Wadi Fira, Wadi Fira
 Wadi Gebelud, Ouadi Haliba, Wād Gebelud
-Wadi Kulbus, Wād Kulbus
 Wadi Nyelit, Buweisa
 Wadi Timassi, Wadi Tamassi
 Wadi-Hawar, Département de Wadi Hawar, Département du Wadi-Hawar, محافظة وادي حوار, وادي حوار
@@ -9417,6 +9416,7 @@ Woundanga
 Wour, Département de Wour, محافظة وور, وور
 Wé Wé, Oué-Oué
 Wéselinga
+Wādī Kulbus, Wād Kulbus
 Wādī Tini, Ouadi Bamina, Ouadi Boué, Ouadi Sassa, Ouadi Tiné, Wād Tini
 Wādī Yarri, Wād Yarri, Yarré
 Wādī Şāliḩ, Ouadi Saleh, Wād Şāliḩ, Wādi Saleh
@@ -9453,7 +9453,6 @@ Ybakoura
 Yebbi-Bou
 Yedigua
 Yega Drousa
-Yegri
 Yekia Nerba
 Yen
 Yerina
@@ -9540,6 +9539,7 @@ Yéga Wagadinga
 Yéga-Dodé, Yegueï-Dade
 Yéga-Tchouéa
 Yégatchouina
+Yégri
 Yégui-Emi
 Yégué Dourso
 Yégé Oganga

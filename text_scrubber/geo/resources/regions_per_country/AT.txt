@@ -904,7 +904,7 @@ Bezau
 Biberbach
 Biberhaufen
 Biberkopf
-Biberwier, Бібервір, 比伯维尔
+Biberwier, Бибервир, 比伯维尔
 Bichelmayergraben
 Bichelmoarkogel
 Bichl
@@ -1084,7 +1084,6 @@ Bodendorfer Wald
 Bodeneck
 Bodenfeld
 Bodenlucken
-Bodensee
 Bodenwald
 Bodenwies
 Bodenäcker
@@ -1576,6 +1575,7 @@ Bärwurzpolster
 Böcksteinkogel
 Bödele
 Bödelesegg
+Bödensee
 Böheimebenalm
 Böheimfeld
 Böheimkirchen
@@ -2079,10 +2079,10 @@ Edelstauden
 Edelteich
 Edelwehrteich
 Edelweiher
-Edelweissspitze
 Edelweisswände
 Edelweißalm
 Edelweißkogel
+Edelweißspitze
 Edelweißwand
 Edelweißwiese
 Edelwies
@@ -2482,7 +2482,6 @@ Fanggekar Spitze
 Fanninghöhe
 Fanotkogel
 Fans Bach
-Farbergraben
 Farchtensee
 Farfel
 Farfelwand
@@ -3016,6 +3015,7 @@ Fädner Spitze
 Fährtlbach
 Fährtlfeld
 Fälla
+Färbergraben
 Föhrenbach
 Föhrenberg
 Föhrengrund
@@ -3527,8 +3527,8 @@ Gielingberg
 Giemer Bach
 Giererkogel
 Giessen Bach, Goessen Bach
-Giessenbach
 Gießbach
+Gießenbach
 Gießfeld
 Gießgraben
 Gießhübl
@@ -3677,7 +3677,7 @@ Gmoosbach
 Gmoose
 Gmunden
 Gmundnerberg
-Gmünd, Ґмюнд, 格明德
+Gmünd, Гмюнд, 格明德
 Gmünd in Kärnten
 Gmünder Stadtwald
 Gnadendorf
@@ -3787,7 +3787,7 @@ Grabenbach
 Grabenberg
 Grabenfeld
 Grabenhölzer
-Grabenluß
+Grabenlüß
 Grabensee
 Grabenäcker
 Graber Berg
@@ -3966,10 +3966,10 @@ Griesleiten
 Griesler Ache
 Griesmauer
 Griesmuttekopf
-Griessbach
 Griestaler Spitze, Festing Spitze
 Griesweber-Hochalm
 Griesweber-Niederalm
+Grießbach
 Grießbachköpfl
 Grießboden
 Grießen
@@ -4039,7 +4039,6 @@ Grosse Krems
 Grosse Plischa
 Grosse Schlenkerspitze, Schlenker Spitze
 Grosse Tragl
-Grosseck
 Grosselendbach
 Grosselendkees
 Grosselendscharte
@@ -4052,7 +4051,6 @@ Grosser Donnerkogel
 Grosser Feistringstein, Feistringstein
 Grosser Friess Kogel
 Grosser Fögenberg, Fögen Berg
-Grosser Geiger, Geiger
 Grosser Gemeindesee
 Grosser Grakofl, Grosser Grakofel
 Grosser Greiner
@@ -4104,7 +4102,6 @@ Grosses Hundshorn
 Grosses Höllental
 Grosses Marchent Horn, Marchent Horn
 Grosses Mureck
-Grosses Walsertal
 Grossgfallkopf
 Grossgössgraben
 Grosssee
@@ -4168,6 +4165,7 @@ Große Wildalm
 Große Windlucke, Große Windlucken
 Große Äcker
 Großebersdorf
+Großeck
 Großelend
 Großelendkopf
 Großenzersdorfer Arm
@@ -4195,6 +4193,7 @@ Großer Gaislehnkogel, Gaisslehnkogl, Goaßlarkögl, Grosser Gaislen Kogl, Murme
 Großer Galtenberg
 Großer Gamsstein
 Großer Geierkogel
+Großer Geiger, Geiger
 Großer Geißkopf
 Großer Gosaugletscher
 Großer Grießstein
@@ -4297,6 +4296,7 @@ Großes Schrankeck
 Großes Stierkar
 Großes Teichfeld
 Großes Teufelshorn
+Großes Walsertal
 Großes Wiesbachhorn, Gross Wiesbachhorn
 Großes Wiesfeld
 Großes Woazköpfl
@@ -4505,7 +4505,6 @@ Gsieser Törl
 Gsig
 Gsigsee, Xixsee
 Gsolgraben
-Gsollberg
 Gsollgraben
 Gsollriedel
 Gspitzter Stein
@@ -4530,6 +4529,7 @@ Gstuonat
 Gstättenberg
 Gstättenfeld
 Gstößen
+Gsöllberg
 Guardia Alta
 Gubachspitze
 Gufelgrasjoch
@@ -5061,7 +5061,7 @@ Hausneuberg
 Hausruck
 Hausstatt
 Haussätze
-Hausweingarten
+Hausweingärten
 Hauswiese
 Hauswiesen
 Hausäcker
@@ -5509,7 +5509,6 @@ Hochanger
 Hocharn, Hochnarr
 Hochau
 Hochaugenweide
-Hochberg
 Hochbergen
 Hochbergsattel
 Hochbirg
@@ -5735,7 +5734,6 @@ Hodis Bach
 Hof am Leithaberge
 Hof bei Salzburg
 Hof bei Straden
-Hofacker
 Hofalpe
 Hofamt Priel, Priel Hofamt
 Hofau
@@ -5757,8 +5755,8 @@ Hofkirchen bei Hartberg
 Hofkirchen im Mühlkreis
 Hofkirchen im Traunkreis
 Hofkogel
-Hofluß
 Hoflüsse
+Hoflüß
 Hofmannskees
 Hofmannspitze
 Hofortl
@@ -5773,6 +5771,7 @@ Hofstätten an der Raab
 Hofteich
 Hofwald
 Hofwehrteich
+Hofäcker
 Hoföde
 Hogmannriegel, Hogmannsriegel
 Hohe Achsel
@@ -5841,7 +5840,6 @@ Hohenaualm
 Hohenauer Wiese
 Hohenaugupf
 Hohenauäcker
-Hohenberg
 Hohenbrugg-Weinberg
 Hohenbühel
 Hoheneck
@@ -5964,14 +5962,12 @@ Hollebühel
 Hollenbach
 Hollenbacher Bühel
 Hollenegg
-Hollenstein
 Hollenstein an der Ybbs
 Hollenthon
 Hollerberg
 Hollereggwald
 Hollergraben
 Hollerkar
-Hollerkogel
 Hollerriegel
 Hollersbach
 Hollersbach im Pinzgau
@@ -6148,6 +6144,7 @@ Höbersbach
 Höbersbachberg
 Höbertsgrub
 Höchalpl
+Höchberg
 Höchenberg
 Höchst, Гехшт, Хёхст, 赫希斯特
 Höchstein
@@ -6166,6 +6163,7 @@ Höfnergraben
 Höhberg
 Höhen Bach
 Höhen Berg
+Höhenberg
 Höhenburg
 Höheneck Kogel
 Höhennock
@@ -6190,12 +6188,14 @@ Höllenberg
 Höllengebirge
 Höllenreit
 Höllenspitze
+Höllenstein
 Höllensteinalm
 Höllensteinberg
 Höllental, Grosser Höllental
 Höllental Schrofen
 Hölleralmbach
 Hölleralmmoos
+Höllerkogel
 Höllermahd
 Höllgraben
 Höllgrund
@@ -7168,7 +7168,7 @@ Kirschenbach
 Kirschenholz
 Kittenbach
 Kittenberg
-Kittsee, Köpcsény, Кіттзе, 基策
+Kittsee, Köpcsény, Киттзе, 基策
 Kitzberg
 Kitzbühel
 Kitzbüheler Alpen, Kitzbühel Alps, Kitzbühler Alpen
@@ -7575,7 +7575,7 @@ Kneislbach
 Kneisltörl
 Knerzenalm
 Knieberg
-Kniepass
+Kniepaß
 Kniewiesenbreite
 Knirschensteinberg
 Knittelfeld
@@ -7610,7 +7610,6 @@ Koflerjoch
 Koflernock
 Kogel
 Kogelbach
-Kogelberg, Kegel Berg, Kogl Berg
 Kogeleben
 Kogelegg
 Kogeln
@@ -7995,7 +7994,6 @@ Kugelspitze
 Kugelstein
 Kuglaspitze
 Kuhalm, Kuhalpe
-Kuhberg, Kravji Vrh
 Kuhbrunnen
 Kuhfeldhörndl
 Kuhgehr
@@ -8004,7 +8002,6 @@ Kuhhaut
 Kuhjoch
 Kuhkarjoch
 Kuhkaser
-Kuhkopf
 Kuhleitenkopf
 Kuhleitentörl
 Kuhleitenwald
@@ -8085,6 +8082,7 @@ Ködnitzbach
 Ködnitzkees
 Ködnitztal
 Köflach
+Kögelberg, Kegel Berg, Kogl Berg
 Kögerlberg
 Kögerlegg
 Köglern
@@ -8136,6 +8134,7 @@ Küchelspitze, Küchel Spitz
 Kühbach
 Kühbacheck
 Kühbarnalm
+Kühberg, Kravji Vrh
 Kühbergen
 Kühbergfelder
 Kühbichln
@@ -8153,6 +8152,7 @@ Kühkar
 Kühkarhöhe
 Kühkarl
 Kühkarscharte
+Kühkopf
 Kühlloch
 Kühlüsse
 Kühofenspitze
@@ -8379,7 +8379,6 @@ Langpoltner Klamm
 Langreitgraben
 Langschlag
 Langschneid
-Langsee
 Langseite
 Langser Höhe
 Langstein
@@ -8422,7 +8421,6 @@ Larainbach
 Larainferner Spitze
 Larainfernerjoch
 Larchberg
-Larcheck
 Larchetkarspitze
 Larchkogel
 Largoz, Largotz
@@ -8582,7 +8580,6 @@ Leiser Grund
 Leiser Wald
 Leislingbach
 Leislingwand
-Leissnitzbach, Leissnitz
 Leistenalm
 Leistenbach
 Leistenfeld
@@ -8625,6 +8622,7 @@ Leitnertal
 Leitschach Bach
 Leitzersdorf
 Leißer Gemärken
+Leißnitzbach, Leissnitz
 Lembach
 Lembach bei Riegersburg
 Lembach im Mühlkreis
@@ -8941,12 +8939,9 @@ Lutzfeld
 Lutzmannsburg
 Luxkogel
 Luxstein
-Luß
 Lußberg
-Lußfeld
 Lußfelder
 Lußt
-Lußäcker
 Lämmerberg
 Lämmereck
 Lämmerheide
@@ -8954,9 +8949,11 @@ Lämpersberg
 Ländenscharte
 Längenfeld, Лангефельд, Лонгенфельд, Лонгефельд, Лянгенфельд
 Längental
+Längsee
 Lärch Spitze
 Lärchbach
 Lärchboden
+Lärcheck
 Lärchegg
 Lärchenberg
 Lärchkarbach
@@ -8996,10 +8993,13 @@ Lüsener Ferner, Lisenser Ferner
 Lüsse
 Lüsse im Austränkfeld
 Lüttisbünt
+Lüß
 Lüßarm
+Lüßfeld
 Lüßgraben
 Lüßl
 Lüßln
+Lüßäcker
 Machland
 Machoberg
 Madatschjoch
@@ -9871,7 +9871,6 @@ Nasse Bretter
 Nasse Wand
 Nasser Grund
 Nassereith
-Nassfeld
 Nasskamm
 Nassköhr
 Natrun Wald
@@ -9894,6 +9893,7 @@ Navis, Lavis, Нафис, 纳菲斯
 Navis Bach
 Naviser Jöchl
 Nazogl, Angerhöhe, Nazogel
+Naßfeld
 Nebelberg
 Nebelkareck
 Nebelkogl
@@ -10027,7 +10027,7 @@ Neustadtl an der Donau
 Neustift an der Lafnitz
 Neustift bei Güssing
 Neustift im Mühlkreis
-Neustift im Stubaital, Нойштифт, Нойштіфт-ім-Штубайталь, 施图拜谷地新施蒂夫特
+Neustift im Stubaital, Нойштифт, Нойштифт-им-Штубайталь, 施图拜谷地新施蒂夫特
 Neustift-Innermanzing
 Neustifter Bach
 Neutal
@@ -10161,7 +10161,6 @@ Nurpen Bach
 Nursch
 Nussach
 Nussbach
-Nussdorf-Debant
 Nussen See
 Nussingkogel
 Nussingscharte
@@ -10172,6 +10171,7 @@ Nußbergäcker
 Nußdorf am Attersee
 Nußdorf am Haunsberg
 Nußdorf ob der Traisen
+Nußdorf-Debant
 Nägelekopf
 Nägelsdorfberg
 Nöchling
@@ -10516,7 +10516,6 @@ Oisching Graben
 Oisnitz Bach, Oisnitz
 Oistra
 Olbendorf
-Olberg
 Ollersdorf im Burgenland
 Olperer
 Olsabach, Olsa
@@ -10649,7 +10648,7 @@ Passo del Rombo, Timbel Joch, Timmeljoch, Timmels Joch
 Passo del Santicolo
 Passo di Capre, Tscheyer Schartl
 Passo di Gola, Klammljoch
-Passo di Melago, Passo di Melaga, Weißseejoch
+Passo di Melago, Passo di Melaga, Weissseejoch
 Passo di Pramollo, Nassfeldpass
 Passo di Resia, Reschen-Scheideck, Reschenpass
 Passo di Salez, Saletz Joch
@@ -11416,9 +11415,9 @@ Rabengraben
 Rabenkees
 Rabenkeller
 Rabenklamm
-Rabenkogel
 Rabenkopf
 Rabenkropf
+Rabenkögel
 Rabenköpfl
 Rabenloch
 Rabenmaiß
@@ -11438,7 +11437,7 @@ Rabnitzbach
 Rabnitzberg
 Rachau
 Racherin
-Radelj, Radel, Radel Pass, Radlpaß
+Radelj, Radel, Radel Pass, Radlpass
 Radenthein
 Radersdorfbach
 Radfeld
@@ -11472,7 +11471,7 @@ Raggal
 Ragginger See, Raggingersee
 Ragnitz
 Ragstatt Joch
-Raiding, Doborján, Райдінг
+Raiding, Doborján, Райдинг
 Raidingbach
 Raidlgraben
 Raidling
@@ -11563,7 +11562,7 @@ Rastenfeld
 Rastenkogel
 Rastkogel
 Rathauspark
-Ratsch an der Weinstrasse, Ratsch
+Ratsch an der Weinstraße, Ratsch
 Ratschendorf
 Ratscherberg
 Ratten
@@ -11714,7 +11713,6 @@ Reisingerhöhe
 Reisling Bach
 Reisnerkogel
 Reissbach
-Reisseck, Grosses Reisseck, Reiseck, Райсек, Райссек, 赖瑟克
 Reissenbach
 Reissgangscharte, Reissgang
 Reisshorn
@@ -11755,6 +11753,7 @@ Reitstein
 Reitteich
 Reittruhe
 Reißbergen
+Reißeck, Grosses Reisseck, Reiseck, Райсек, Райссек, 赖瑟克
 Rellstal
 Remisbreite
 Remise
@@ -11772,7 +11771,7 @@ Rennsteineben
 Rennweg am Katschberg
 Rennwiesen
 Renzelscharte
-Republic of Austria, Austria, Ausztria, Republik Österreich, Österreich, Австрія, 奥地利
+Republic of Austria, Austria, Ausztria, Republik Österreich, Österreich, Австрия, 奥地利
 Reschenhorn
 Reschenkogel
 Rescheskogel
@@ -12051,27 +12050,19 @@ Rosental
 Rosental an der Kainach, Rosenthal, Rosenthal an der Kainach
 Rosittenbach
 Rossatz-Arnsdorf
-Rossbach
 Rossbach Alpe
 Rossbach Kogel
-Rossberg
-Rossbrand
-Rosseck
 Rossegg
-Rossfeld
 Rossgipfel
 Rosshorn
 Rosshornscharte
 Rosskarkopf
 Rosskarsee
 Rosskarspitzen
-Rosskogel
-Rosskopf
 Rossleithen
 Rossloch
 Rossmoos
 Rossplatz
-Rossschopf
 Rostalm
 Rostitz Joch
 Rostitzkopf
@@ -12089,8 +12080,6 @@ Roten Chöpf
 Rotenbach, Rot Bach, Rothen Bach
 Rotenbergen
 Rotenbäche
-Rotengraben
-Rotenkogel
 Rotenkreuzboden
 Rotenmannjoch
 Rotensee
@@ -12114,7 +12103,6 @@ Roter-Stein-Alpe
 Rotes Ginggele
 Rotfluelücke
 Rotfluh
-Rotgraben
 Rotgschirr, Röllberg
 Rotgsol, Rotgsohl, Roxol
 Rotgundspitze, Rotgunt Spitze, Rothgund-Spitze
@@ -12166,18 +12154,25 @@ Roßalmwald
 Roßalpe
 Roßanger
 Roßarsch
+Roßbach
 Roßbachgraben
+Roßberg
 Roßboden
+Roßbrand
 Roßbrunn
 Roßebenbach
+Roßeck
 Roßeckgraben
 Roßegggraben
+Roßfeld
 Roßfeldboden
 Roßfeldsattel
 Roßgraben
 Roßgrubenkofel
 Roßgunten
 Roßkar
+Roßkogel
+Roßkopf
 Roßkopfarm
 Roßkopfwiese
 Roßkummet
@@ -12190,6 +12185,7 @@ Roßlüsse
 Roßmandlwald
 Roßmoosalm
 Roßrücken
+Roßschopf
 Roßschwemme
 Roßschädel
 Roßstand
@@ -12237,9 +12233,7 @@ Runzenbach, Runzel Bach
 Runzenbrunn
 Rupprechtseck, Rupprechteck, Ruprechteck
 Ruprechtshofen
-Russbach
 Russbach am Pass Gschütt
-Russberg
 Russkopf
 Russwasser
 Rust, Ruszt, Stadt Rust
@@ -12253,8 +12247,10 @@ Rutscher
 Rutschergraben
 Rutzenham
 Rutzinger Au
+Rußbach
 Rußbach am Paß Gschütt
 Rußbachfeld
+Rußberg
 Rußgraben
 Rädeln
 Rätikon, Rhaetikon, Rhätikon Mountains, Ретикон, 雷蒂孔山
@@ -12272,8 +12268,11 @@ Rössingbach
 Rössingkogel
 Röt
 Rötelstein, Rettenstein
+Rötengraben
 Rötengrabenkogel
+Rötenkogel
 Rötenspitze
+Rötgraben
 Röthelstein
 Röthis
 Rötllandspitze
@@ -12479,7 +12478,7 @@ Sankt Ilgen
 Sankt Ilgner Tal, Ilgner Tal
 Sankt Jakob im Rosental, Sankt Jakob
 Sankt Jakob im Walde
-Sankt Jakob in Defereggen, Sankt Jakob, St. Jakob im Defereggental, Санкт-Якоб-ін-Деферегген, 德弗雷根谷地圣雅各布
+Sankt Jakob in Defereggen, Sankt Jakob, St. Jakob im Defereggental, Санкт-Якоб-ин-Деферегген, 德弗雷根谷地圣雅各布
 Sankt Johann am Tauern
 Sankt Johann am Walde
 Sankt Johann am Wimberg, Санкт-Йохан-на-Вимберге, 温贝格山麓圣约翰
@@ -12621,10 +12620,8 @@ Sattler Berg
 Sattleralm
 Sattlernock
 Sattnitz
-Satz
 Satzberg
 Satzbergen
-Satzen
 Satzer Hölzl
 Satzer Leiten
 Satzfeld
@@ -12854,7 +12851,6 @@ Scheibe
 Scheibelberg
 Scheiben
 Scheiben Berg
-Scheibenacker
 Scheibenberg
 Scheibenbreiten
 Scheibenbühel Berg
@@ -12867,6 +12863,7 @@ Scheibenkopf
 Scheibenriegel
 Scheibenteich
 Scheibenwiese
+Scheibenäcker
 Scheibl
 Scheiblbrandwald
 Scheibleggerhochalm
@@ -13062,10 +13059,10 @@ Schlins
 Schlitters, Шлиттерс, 施利特尔斯
 Schlittkufengraben
 Schlitzenalm
-Schlossberg
 Schlosspark Eggenberg
 Schlossplatz
 Schloßau
+Schloßberg
 Schloßbreite
 Schloßgraben
 Schloßleiten
@@ -13123,7 +13120,7 @@ Schmiednock
 Schmiedstock
 Schmiedwiese
 Schmiegererköpfel
-Schmirn, Шмірн, 施米恩
+Schmirn, Шмирн, 施米恩
 Schmittenhöhe
 Schmittenstein
 Schmolzmahd
@@ -14284,7 +14281,7 @@ Steglüßteich
 Stegwiesen
 Steidel Berg
 Steierbach, Steyerbach
-Steiermark, Styria, Stájerország, Штирія, 施泰爾馬克州
+Steiermark, Styria, Stájerország, Штирия, 施泰爾馬克州
 Steigfeld
 Steigklamm
 Steigl Berg
@@ -14631,7 +14628,7 @@ Strombodingwasserfall
 Stronachkogel
 Stronsdorf
 Stronsdorfer Graben
-Stross
+Stroß
 Strubach
 Strudel
 Strudengau
@@ -14767,6 +14764,8 @@ Sädelhorn
 Säling
 Sättele
 Sätteli
+Sätz
+Sätzen
 Säuleck
 Säuling
 Säulkees
@@ -15010,8 +15009,8 @@ Teuchlspitze, Lasarnspitze
 Teuchltal
 Teuf Furgga
 Teufelsbach
-Teufelsgraben
 Teufelsgrat
+Teufelsgräben
 Teufelshorn
 Teufelskamp
 Teufelskampkees
@@ -15803,7 +15802,7 @@ Villgrater Berge
 Villgrater Törl
 Villgraterjoch
 Villmannsdorfer Bach
-Vils, Фільс, 菲尔斯
+Vils, Фильс, 菲尔斯
 Vilsalpsee
 Vilser Berg
 Vilser Jöchl
@@ -15985,7 +15984,7 @@ Vöcklamarkt
 Vögerlalm
 Völkermarkt
 Völkermarkter Stausee
-Völs, Фёльс, 弗尔斯
+Völs, Фельс, 弗尔斯
 Vösendorf
 Vösendorfer Graben
 Vöttlalm
@@ -16167,7 +16166,6 @@ Warther Horn
 Wartluß
 Wartlüsse
 Wartmannstetten
-Waschbach
 Waschberg
 Waschelgraben
 Waschenberg [Windhaag bei Freistadt]
@@ -16321,28 +16319,21 @@ Weinzierl am Walde
 Weisjackel
 Weiss Horn
 Weissach Bach
-Weissbach
 Weissbach bei Lofer
 Weissbachscharte, Hochscharte
 Weisse Fluh
-Weisse Wand
-Weisseck
 Weissen Bach
 Weissen Tal
-Weissenbach
 Weissenbach Scharte
 Weissenbach an der Triesting
-Weisseneck
 Weisseneck Bach
 Weissenhöhe
-Weissensee, Weissen, Weiszen See, 魏森湖
 Weisser Schrofen
 Weisses Eck
 Weisses Rössle
 Weisskogel, Weis Kogel
 Weisspriachbach
 Weissschroffen Spitze
-Weisssee
 Weissseekopf
 Weissstein
 Weisswände
@@ -16368,23 +16359,29 @@ Weittalspitze
 Weiz
 Weizbach
 Weißach
+Weißbach
 Weißbachl
 Weißberg
 Weiße Ries
 Weiße Spitze
 Weiße Sulm
+Weiße Wand
 Weiße Wände
+Weißeck
 Weißegg
+Weißenbach
 Weißenbach am Lech, Вайсенбах-ам-Лех, Вайссенбах-на-Лехе, 莱希河畔魏森巴赫
 Weißenbach an der Enns
 Weißenbach bei Liezen
 Weißenbacher Mauern
 Weißenberg
+Weißeneck
 Weißeneckscharte
 Weißenegger Berg
 Weißenkirchen an der Perschling, Вайсенкирхен-ан-дер-Першлинг, 佩尔施灵河畔魏森基兴
 Weißenkirchen im Attergau
 Weißenkirchen in der Wachau
+Weißensee, Weissen, Weiszen See, 魏森湖
 Weißenstein
 Weißensteineralm
 Weißer Knopf
@@ -16403,6 +16400,7 @@ Weißlachberg
 Weißlehnkopf
 Weißpriach
 Weißriegelgraben
+Weißsee
 Weißspitz, Klexen Kogel
 Weißtal
 Weißwandrinne
@@ -16858,6 +16856,7 @@ Wurzwoller Bach
 Wutschigraben
 Währinger Park
 Wängle
+Wäschbach
 Wöblingbach
 Wöbringbach, Wöberingbach
 Wölbling
@@ -17324,6 +17323,7 @@ kaserköpfl
 Öfeld
 Öfelerjoch
 Öhler
+Ölberg
 Ölhafen
 Örség
 Örtl

@@ -69,7 +69,6 @@ Avogonia
 Ayaraba
 Ayoubakolon
 Aziga
-Ba
 Ba Yangasso
 Babanloua
 Babirka
@@ -91,7 +90,6 @@ Badala
 Badalougou
 Badano, Badorio
 Badara
-Badema, Badéna, Bouema
 Badet
 Badinga, Badigna
 Badinogo
@@ -107,6 +105,7 @@ Badora
 Badoré
 Badougou
 Badèdsi
+Badéma, Badéna, Bouema
 Bafina
 Baforo, Baloum
 Bafèlè
@@ -120,7 +119,7 @@ Bagahanba
 Bagala
 Bagammssi
 Bagandé, Bagoudé
-Bagane
+Bagané
 Bagarao
 Bagaraogo
 Bagari
@@ -213,7 +212,6 @@ Bambara
 Bamblé
 Bambori
 Bambéni
-Bamena
 Bamga, Mbanga, Pamga
 Bamguil
 Bamguèl
@@ -221,6 +219,7 @@ Bamguèl Kobi
 Bamgué
 Bamguél Ndao, Bamgueul Ndao
 Bamparou
+Baména
 Ban, Ben
 Bana
 Bana Sokoura
@@ -277,7 +276,7 @@ Bangré, Barané
 Bangrézanga
 Banguesom
 Banguessom, Bangnésomé, Bangnéssomé
-Banguessoum, Banguèmsom
+Banguessoum, Banguemsom
 Banguiou
 Banguissamé
 Bangèl
@@ -480,7 +479,6 @@ Bellaré Malbo
 Bembéla, Bimbéla, Binbéla
 Bemkoudougou
 Bendatoèga, Bandatenga, Bandatenga Koui
-Bendogo
 Bengré
 Benguéden
 Beniéné
@@ -542,7 +540,6 @@ Binga
 Bingali
 Bingbéma
 Bingo, Binda, Bindo
-Binguel
 Binguèl Dafédji
 Bini
 Binjo
@@ -1039,6 +1036,7 @@ Byisiga
 Byiwèlè
 Bylyonvalsè
 Byépou
+Bâ
 Bâa
 Bâtinga
 Bèbtenga, Bébatenga
@@ -1048,6 +1046,7 @@ Bèiga
 Bèlgou
 Bèllaré
 Bèlèl
+Bèndogo
 Bèné
 Bèotenga
 Bèrèkwè
@@ -1107,6 +1106,7 @@ Béta
 Bétaré
 Bétiessan
 Béto, Bato, Bogro
+Bïnguèl
 Bô
 Cella
 Chalro
@@ -1328,9 +1328,9 @@ Datambi
 Datiga
 Datomo, Dalomo
 Dawaka
-Dawanegomdé, Dawanégombé
 Dawango
 Dawané Goundé
+Dawanégomdé, Dawanégombé
 Dawidéma
 Dawirba, Daouiba, Daouirba
 Daworo
@@ -1345,7 +1345,6 @@ Dazanré
 Dazouba
 Daïassemnoré
 Daïmessala, Daimesala, Dan Maissara
-De
 Debéwambé
 Delga
 Dembo, Dimbo
@@ -1353,7 +1352,6 @@ Demmbourla
 Demnoudèndé
 Demnouo, Demounoudoré, Dèmnoua
 Dendiagou
-Denga
 Derbaré
 Derfogo
 Derga
@@ -1362,7 +1360,6 @@ Derpon
 Dessa
 Dessi, Dossi
 Desso
-Dessé
 Di
 Dia
 Diabatou
@@ -1787,7 +1784,9 @@ Dèm
 Dèmbam
 Dèmbila
 Dèmbéla
+Dènga
 Dèntougou
+Dé
 Débildani
 Débèntia
 Débé
@@ -1819,6 +1818,7 @@ Dépèrgou
 Déré
 Dérégoué, Déregboué
 Déssouma
+Déssé
 Dïatara
 Een
 Ekoulkola
@@ -2062,12 +2062,12 @@ Gaskindé
 Gasma, Gasoum, Gassoum
 Gaspyéri
 Gassan, Gasson
-Gassel
 Gassel Kadié
 Gassiliki
 Gassinko
 Gassongo
 Gassougou
+Gassèl
 Gassèl Biankou
 Gassèl Nwaradji
 Gassél Diam Diodo, Gasèl Diam Diodo
@@ -2305,7 +2305,7 @@ Goungla
 Goungnin, Goungnen
 Goungou
 Goungré Tanga
-Gounguen, Goumé
+Gounguèn, Goumé
 Goungé
 Gounndi
 Gountoudié
@@ -2563,7 +2563,6 @@ Kabala
 Kabaralé
 Kabarikaha
 Kabaro, Gaboro, Kaboro
-Kabera, Kabega, Kabégha
 Kabinou
 Kabo
 Kabolé
@@ -2575,6 +2574,7 @@ Kabouda, Kaboudo
 Kaboulé
 Kabourou
 Kabéba
+Kabéra, Kabega, Kabégha
 Kada
 Kadakada, Kadenkada, Kalankada
 Kadenguen
@@ -2859,7 +2859,6 @@ Kbélé
 Kelbora
 Kendèmbay
 Kenkiéné
-Kera
 Kesse
 Kessombodé, Kassombodé, Kessembodé, Kesson Bodé
 Kia
@@ -2878,12 +2877,11 @@ Kiefaye
 Kiembara
 Kiemna-Yarsé
 Kiempalgo, Kyémpalgo
-Kiemtenga, Kyèntenga
+Kiemtenga, Kyentenga
 Kienfangué, Tinfangué
 Kientara
 Kierma
 Kieryaoghin
-Kietou
 Kikidéni, Pentiéri
 Kikigogo
 Kikilma, Kilima
@@ -2955,9 +2953,9 @@ Kiéko
 Kiékouyou
 Kiéré, Tiéré
 Kiéréma
+Kiétou
 Kiétégo
 Klani
-Ko
 Koaghin
 Koagma
 Koaken
@@ -3016,7 +3014,6 @@ Kodyolay
 Kodyèl
 Kodyé
 Kodézoaga
-Koena, Koona
 Kofila, Kosela
 Kofindren
 Kofindrin
@@ -3150,7 +3147,7 @@ Komsiléga
 Komtaka
 Komtama, Kontama
 Komtigré
-Komtoega, Komboéga
+Komtoèga, Komboéga
 Komwana
 Komwanndi
 Kona
@@ -3303,7 +3300,7 @@ Kossonkoré
 Kossougoudou
 Kossouka, Koussouka, Kussuka
 Kosségo
-Kostenga
+Kostènga
 Kota
 Kotchari, Kodjai, Kodjar, Kojar
 Koti
@@ -3627,6 +3624,7 @@ Koygouroua
 Koyiwenga
 Koyéné
 Koédogo
+Koéna, Koona
 Kpakpara
 Kpala
 Kpandiao, Pandia
@@ -3697,12 +3695,13 @@ Kénéga
 Kénéko
 Kénéma
 Kénésoumdé, Kinessoumdi
+Kéra
 Kéranboro
 Kéri
 Kéryaoguen, Kéryaogen, Kéryaoguin
 Kérédé
 Kéréna, Kirina
-La
+Kô
 La Nabili
 La Titon, Titan
 La Toden, La Todin
@@ -3814,7 +3813,6 @@ Lebiélé
 Legbouindigui
 Lehitanga
 Lelasso
-Lelkom
 Lemmka
 Lemmkora
 Lemnogo, Lèmnongo
@@ -3977,9 +3975,11 @@ Louta, Luta
 Luidi
 Luin, Loué, Lu
 Luniongo
+Lâ
 Lâdou
 Lègmoin
 Lèkou
+Lèlkom
 Lèlèdo
 Lèlèrama
 Lèmbonoro
@@ -4037,7 +4037,6 @@ Madiagouné, Madiagdune, Madiagune, Nadiagoun
 Madjoari, Madjori, Majori
 Mado
 Madori
-Madou
 Madou Dien
 Madouba
 Madoudji
@@ -4329,6 +4328,7 @@ Moémé
 Moétenga, Moentenga, Mwentenga, Nwentenga
 Mpara
 Mpogona
+Mâdou
 Mèdou
 Mèlou
 Mèntaô
@@ -4435,8 +4435,8 @@ Nafodou, Noufodou
 Nafona, Nafouma, Nafouna
 Naforgo
 Naftenga
-Nagare
 Nagarin, Nagaren
+Nagaré
 Nagbingou, Naggbingou
 Nagnapsé, Nagapsé
 Nagnoundougou, Nanyoundougou
@@ -4783,7 +4783,6 @@ Niopléfogo
 Nioranga, Nionranga
 Niorida
 Niorka
-Nioro
 Niorochen, Nyorochin, Nyoroshen
 Niosse, Nyossé, Nyosé
 Niou, Niu, Nyou
@@ -4816,6 +4815,7 @@ Niéné
 Niérégoua
 Niérézangakaha
 Niésséga, Nessega, Niesoga, Niessoga
+Niôro
 Nkanpira, Inkanpira
 Nkonpira
 Noada
@@ -4832,7 +4832,6 @@ Nobédo
 Nobéré, Rissouma
 Noensen
 Noensé
-Noessé, Noésé
 Nofin
 Nogo, Noro
 Nogodoum
@@ -4854,7 +4853,7 @@ Nonfesso
 Nongana, Nomgamé, Nomégamé
 Nongo, Diongo
 Nongo Fayéré
-Nongofaire, Nongofayéré, Nongofaéré
+Nongofaïre, Nongofaere, Nongofayéré
 Nongomto
 Nongossom
 Nongou
@@ -4893,6 +4892,7 @@ Noussou
 Nowé
 Noyoda
 Noésen
+Noéssé, Noésé
 Ntobougou
 Ntohiro
 Nyabolandi
@@ -5222,7 +5222,6 @@ Ouéré
 Ouétigué, Wétigué
 Ouézélé
 Oébé
-Pa
 Pabanbou
 Pabouga
 Pabré
@@ -5327,7 +5326,6 @@ Pemboanga de Partiaga
 Pemtoussi, Pam Tousi, Pam Toussi, Pamtoussi
 Pendima
 Pendissi, Pandisili, Pandissili
-Pendogo
 Pendogou
 Pendyaga, Pèndiaga
 Penga
@@ -5411,7 +5409,6 @@ Pobouro
 Pobé
 Pobé Mengao
 Podébokou
-Poessen
 Pognoa Sankoado, Pouniouassankoto
 Pogobandogoyiri
 Pogoldè
@@ -5514,6 +5511,7 @@ Povéra
 Poya
 Poyésé
 Poèssé, Poésé
+Poèssén
 Poé
 Poédogo, Bogoden, Bogodin, Poédogo Bako, Pwédgo
 Poédogo I
@@ -5527,6 +5525,7 @@ Pro
 Pwédogo
 Pyourgou
 Pyéongou
+Pâ
 Pèkwènti
 Pèla
 Pèlga
@@ -5538,6 +5537,7 @@ Pèmpédi
 Pènbiti
 Pènchyangou, Koetchongo, Kouatchongo, Kouetchongo, Kuechongo
 Pèndianga
+Pèndogo
 Pènfwogo, Penfouogo
 Pèrko
 Pèrkoa
@@ -5720,7 +5720,6 @@ Rèka
 Réga
 Réko
 Réo
-Sa
 Saaba
 Saabouga
 Saabé
@@ -6050,7 +6049,6 @@ Sidoumoukar, Sedou Moukar
 Sidouré
 Sidtenga, Sidtinga-Bangré
 Sidéradougou, Siradougou
-Sien, Sion
 Sienko
 Sienkouey, Sienkoueye
 Sifarasso, Siforasso
@@ -6195,6 +6193,7 @@ Sivi, Koka
 Siyoro
 Siègdé
 Sièlé
+Sièn, Sion
 Sièni
 Siédougou
 Siékoro
@@ -6272,8 +6271,8 @@ Sombouali
 Somdé
 Somgandé
 Somiaga
-Somlamesma
-Somlamessom, Somdamésma, Somlamésom
+Somlamèsma
+Somlaméssom, Somdamesma, Somlamésom
 Somlayaka
 Somnawa
 Somnawey, Somnaoèy
@@ -6412,6 +6411,7 @@ Syigo
 Syoro
 Syèn
 Syèngou
+Sâ
 Sâdoro
 Sèlbo
 Sèmala
@@ -6556,7 +6556,6 @@ Tamoanka
 Tamona
 Tampaga, Tampanga, Tampara, Tanmpara
 Tampaogo
-Tampelga, Tampélaga, Tanmpélaga
 Tampiko
 Tamponga
 Tamporin, Tamporé, Temporé
@@ -6566,6 +6565,7 @@ Tampouré, Tammpouré
 Tampoussoumdi
 Tampouy
 Tampouya, Tammpouya
+Tampèlga, Tampélaga, Tanmpélaga
 Tampètou
 Tampéla
 Tampézi
@@ -6709,12 +6709,12 @@ Tanngrawa, Tanngrawal
 Tannmyè
 Tannyè
 Tanpanga
-Tanpelga
 Tanpogotenga
 Tanpor
 Tanporodoga
 Tanpour
 Tanpouya
+Tanpèlga
 Tanpé
 Tansabelgo, Tansé
 Tansabla
@@ -6812,7 +6812,6 @@ Teghin
 Teguérétinga
 Teksagabo, Teksarabo
 Temissi
-Temnaoré
 Temnoré
 Tempelga
 Tenado, Tanada, Tanadé
@@ -6849,7 +6848,7 @@ Tiabwal
 Tiafandouo
 Tiafolboy
 Tiagao
-Tiakane
+Tiakané
 Tiako
 Tiakora
 Tiakoro
@@ -7064,7 +7063,6 @@ Tiéri
 Tiéribé
 Tiérékou
 Tiéssourou, Kessorou, Kessourou, Kiéssourou
-To
 Toanga
 Toanta
 Toaré, Toïré
@@ -7079,8 +7077,6 @@ Tobouroura
 Todiam, Todiame
 Todié
 Toemiga
-Toessin, Toïssi
-Toessé, Toese, Toécé, Toïsé, Twessé, Twésé
 Toetenga
 Toezouri, Tézouri
 Togen
@@ -7132,9 +7128,9 @@ Tongogodèn
 Tongomayel, Tongomaye
 Tongou
 Tongourou
-Tonguel
 Tonguen
 Tongué
+Tonguél
 Toni, Toué, Twanni
 Tonior
 Tonkar
@@ -7282,6 +7278,7 @@ Toyandé
 Toyorden, Toyoghdin
 Toyssé, Tolsi, Toysé
 Toèssen, Toéysin
+Toèssé, Toese, Toécé, Toïsé, Twessé, Twésé
 Toé
 Toébanaga
 Toédin
@@ -7290,6 +7287,7 @@ Toéghin-Peulh
 Toéguen
 Toéni, Téné
 Toéré
+Toéssin, Toïssi
 Toéyoko
 Toéysen
 Toï Yako
@@ -7357,6 +7355,7 @@ Tâa, Ta
 Tè
 Tèbo
 Tèm
+Tèmnaoré
 Tèntogo
 Tèrbièl
 Tèstenga
@@ -7398,6 +7397,7 @@ Tésyamé
 Téwodogo
 Téyango, Tienga
 Téyoko
+Tô
 Vaagogho, Vagogo
 Vakourkoula
 Vala
@@ -7518,10 +7518,9 @@ Wayalguen
 Wayen, Ouayen, Wayam, Wayin
 Wazili
 Wedbila, Wodbila
-Weglega, Ouégléga
+Weglega, Ouègléga
 Welba
 Wembazaka
-Wemtenga
 Wemtinga
 Wendey Daïri, Wédéïdairi
 Wendé
@@ -7566,6 +7565,7 @@ Wouro Saba
 Wouskongo
 Woyboyré
 Wèda
+Wèmtenga
 Wèndou
 Wèrla
 Wèré
@@ -7742,7 +7742,6 @@ Yitao, Itao
 Yitaoré, Silmyougou
 Yitaoua, Itaoua
 Yitenga
-Yo
 Yoada
 Yoatenga
 Yoba
@@ -7826,6 +7825,7 @@ Yéréfé
 Yérégane
 Yéssébé
 Yétolo
+Yô
 Zaba
 Zabartanga
 Zabga

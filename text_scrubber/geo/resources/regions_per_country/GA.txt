@@ -96,7 +96,7 @@ Atoui
 Attadali
 Atto Assok
 Ava
-Avame
+Avamé
 Avankéné
 Avebe, Aoebeu
 Avia
@@ -361,7 +361,7 @@ Blavéné
 Bo
 Boambo
 Boanga
-Boboue
+Boboué
 Bodié
 Bogo
 Bois de Punta Mina, Ponta Mina Wood
@@ -533,15 +533,15 @@ Diyengué
 Diélé
 Djadié, Djaddié, Djaddje
 Djameione
-Dje
 Djiem
 Djoly
-Djoue
 Djoueré
 Djouga, Djoeri, Djounga, Djouya, Djuia, Djuza
 Djoula
 Djoungou, Jungu River
 Djouori-Agnili
+Djoué
+Djé
 Doba
 Dobéni
 Doga
@@ -994,7 +994,7 @@ Lagune Badingo
 Lagune Banio, Lagune Mbanio
 Lagune Djolowé
 Lagune Erogoué
-Lagune Iguela, Igela Lagoon, Lagune Iguéga, Lagune N'Gove, Lagune Ngobé, Lagune d'Iguela, Lake Bangue, Lake N'Gové
+Lagune Iguéla, Igela Lagoon, Lagune Iguéga, Lagune N'Gove, Lagune Ngobé, Lagune d'Iguela, Lake Bangue, Lake N'Gové
 Lagune Liamoissi, Lagune Liambissi
 Lagune Massetché
 Lagune Mbia
@@ -1028,9 +1028,7 @@ Lebba
 Lebiyou, Lebiou, Libiou
 Lebonbo
 Leboumbi-Leyou Department, Lebombi-Leyou, Leboumbi-Leyou
-Lebé, Leuve
 Lebédi, Lélédi
-Lecagna
 Lecoundi
 Lecoussou
 Lefan
@@ -1044,7 +1042,7 @@ Lembali
 Lembi
 Lemina
 Lemoué
-Lengoue
+Lengoué
 Lengué
 Lessei
 Levembe, Lewembé
@@ -1123,6 +1121,8 @@ Luingué
 Léballé
 Lébombi, Lebombi River, Liboumbi
 Lébomi
+Lébé, Leuve
+Lécagna
 Lékabi, Lecabi, Lekabi River
 Lékala
 Lékeï, Lekey
@@ -1254,7 +1254,6 @@ Mandouma
 Mandoung
 Mandéka
 Mandémé
-Mane
 Manengo Maguelo
 Manga
 Mangala
@@ -1279,6 +1278,7 @@ Maniéghé
 Mansabala
 Manzeim
 Manzoungo
+Mané
 Maouadi
 Maouma
 Mapendé
@@ -1339,11 +1339,11 @@ Mbafan, Crique M'Bafane
 Mbalakaba
 Mbalgnan
 Mbalé
-Mbanegue, Banegue
 Mbanegueorle
 Mbanga
 Mbangoué
 Mbané
+Mbanégué, Banegue
 Mbari
 Mbassi
 Mbaï
@@ -1418,7 +1418,6 @@ Mem
 Memamel
 Memara
 Membé
-Memia
 Memie
 Mendak
 Mendjibé, Mandzibé
@@ -1450,7 +1449,6 @@ Metouma
 Metourak
 Metsang
 Meyan
-Meyang
 Meylan
 Mezalé
 Mfa
@@ -1888,14 +1886,13 @@ Mvana
 Mvané, Mbanza
 Mvara, Mivara
 Mvay, Mvaye
-Mve
 Mvelé
 Mvia
 Mviadi
-Mvie
 Mvigne
 Mvili, Mvily
 Mvimvi
+Mvié
 Mvo
 Mvobem
 Mvog
@@ -1913,6 +1910,7 @@ Mvoung IV
 Mvounia, Mbouna
 Mvouoe
 Mvène
+Mvé
 Mvénou, M'Vémeu
 Mvéré
 Mvézeu
@@ -1937,9 +1935,11 @@ Mékélé
 Mékémlé
 Mélan
 Mélongo
+Mémia
 Mémialé
 Méssiki
 Météton
+Méyang
 Na
 Naghi
 Nagnougoula
@@ -2272,7 +2272,6 @@ Ouano, Wano
 Ouasa
 Oubandji
 Oudo, Yomi
-Ouelé, Ouellé
 Oufoumana
 Ougamou
 Oughounga
@@ -2294,6 +2293,7 @@ Outouhingou
 Ouvi
 Ouyabi
 Ouzougounzola
+Ouélé, Ouellé
 Ouémé
 Ovang, Oveng
 Ovigui, Doubigui
@@ -2531,7 +2531,7 @@ Reserve Forestière de la Ikoï Mondah
 Reserve Forestière des Lacs
 Reserve Intégrale del' Offoué
 Rivière Denis, Crique Rogolay, Denis River
-Rivière d' Oranga, Rivière d'Oronga
+Rivière d' Oranga, Rivière Doronga
 Rivière de l'Antilope
 Rivière de la Grotte
 Rié
@@ -2576,7 +2576,6 @@ Simanie
 Sisset
 Sitissa
 Siébi
-So, Sau, Sôla
 Sobal, Sopal
 Soboka
 Sogo
@@ -2598,6 +2597,7 @@ Soungalam
 Sébé, Sebe River
 Sélé I, Sélé, Sélé Nord
 Sélé II
+Sô, Sau, Sôla
 Tala
 Tana
 Tchicouma

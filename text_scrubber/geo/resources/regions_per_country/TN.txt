@@ -146,12 +146,10 @@ Ain Es-Snoussi, عين السنوسي
 Ain Es-Sobh, عين الصبح
 Ain Essafsaf, عين الصفصاف
 Ain Esselsela, عين السلسلة
-Ain Fedhil, 'Ayn Faḑīl, عين فضيل
 Ain Fourna, عين فرنة
 Ain Ghelal, عين غلال
 Ain Karima, عين الكريمة
 Ain Mariam, عين مريم
-Ain Mazer, عين مازر
 Ain Medhaker, عين مذاكر
 Ain Ouassel, Ain Wassel
 Ain Ouled El Ggerissi, عين أولاد اللغريسي
@@ -164,8 +162,6 @@ Ain Rhezala, 'Ayn Ghazālah
 Ain Saiden, 'Ayn Sa'īdān
 Ain Salam, عين سلام
 Ain Snan, عين سنان
-Ain Soltane, 'Ayn Sulţān, عين سلطان
-Ain Tebournouk, 'Ayn Taburnūk, Aïne Tebornok, عين طبرنق
 Ain Tounine, عين تونين
 Ain Younes, عين يونس
 Ain Zaghouan, Ain Zaghouane, Arrondissement Ain Zaghouan, Arrondissement Ain Zaghouane, دائرة عين زغوان‎‎, عين زغوان‎
@@ -173,7 +169,6 @@ Ain Zaiene, عين زيان
 Ain Zerig, عين زريق
 Ain al Hammam
 Ain el Bagra, 'Ayn al Baqarah
-Ain el Guettar, 'Ayn al Qaţţār
 Ain el Kelba, 'Ayn al Kalbah
 Ain el Ksir, 'Ayn al Quşayr, El Ksir
 Ain el Mekhireg, 'Ayn al Mukhayriq, Aïne Mckrarig, Aïne Mekraria
@@ -565,6 +560,7 @@ Aïn Faouar, 'Ayn al Fawwār, Aïne Fouar
 Aïn Farekh, Aïn Farekr
 Aïn Farksane
 Aïn Fatma
+Aïn Fedhil, 'Ayn Faḑīl, عين فضيل
 Aïn Fedj er Rih, 'Ayn Fajj ar Rīḩ, Aïne Fedj Riah
 Aïn Feguira Salah
 Aïn Feguira Zaziah, 'Ayn Faqīrat al Jāziyah, Aïn Feguiret ez Zazzia
@@ -658,6 +654,7 @@ Aïn Makabra, 'Ayn Maqābirah, Aïne Makabra
 Aïn Makseubaïa
 Aïn Malouia, 'Ayn al Malwīyah, Aïne Malouia
 Aïn Mannsour, 'Ayn Manşūr, Aïne Mansour
+Aïn Mazer, عين مازر
 Aïn Maïsra
 Aïn Mdeker, 'Ayn Madhākir
 Aïn Mechta el Akreb
@@ -676,7 +673,7 @@ Aïn Messahel, 'Ayn al Masāḩil
 Aïn Mestour
 Aïn Metmat
 Aïn Mgassch
-Aïn Mgata ez Zebes, 'Ayn Maqţa' al Jibs
+Aïn Mgata ez Zebès, 'Ayn Maqţa' al Jibs
 Aïn Mghata, Aïne Mrhata
 Aïn Mghotta, 'Ayn al Mughaţţá, Aïne Mrhotta
 Aïn Mizab, 'Ayn al Mīzāb, Aïne el Missab
@@ -703,7 +700,7 @@ Aïn Ouja, Aïn Oudja
 Aïn Oulad Ben Hassine
 Aïn Oulad Merzoug, 'Ayn Awlād Marzūq
 Aïn Oulad el Gherissi, 'Ayn Awlād al Gharīsī, Aïne Oulad el Rherissi
-Aïn Oum Kseiba, 'Ayn Umm Quşaybah, Aïne Ou Keciba
+Aïn Oum Kseïba, 'Ayn Umm Quşaybah, Aïne Ou Keciba
 Aïn Oum Massa, 'Ayn Umm Massa, Aïne Oumai Massa
 Aïn Oum Rekhis, 'Ayn Umm Rakhīş
 Aïn Oum Saada, 'Ayn Umm Sa'dah
@@ -770,6 +767,7 @@ Aïn Smida
 Aïn Smied
 Aïn Snouber, 'Ayn aş Şanawbar
 Aïn Sola
+Aïn Soltane, 'Ayn Sulţān, عين سلطان
 Aïn Souda
 Aïn Souïssi
 Aïn Steghman, Aïn Sterhman
@@ -782,6 +780,7 @@ Aïn Taleb
 Aïn Tamala, 'Ayn Tamala
 Aïn Taouergha, 'Aïn Taouerrha
 Aïn Tarfaïa, 'Ayn aţ Ţarfāyah, Aïne Tarfaïa
+Aïn Tebournouk, 'Ayn Taburnūk, Aïne Tebornok, عين طبرنق
 Aïn Techia
 Aïn Techkid
 Aïn Tefguia, 'Ayn Tefquia, 'Aïne Tefguia
@@ -889,13 +888,13 @@ Aïn el Barda, 'Ayn al Bardah, Aïne el Barda
 Aïn el Bateune, 'Ayn al Bāţin, Aïne el Bateune, Aïne el Bathène
 Aïn el Bayada
 Aïn el Baïda
-Aïn el Beida, 'Ayn al Bayḑā', Al 'Ayn al Bayḑā'
 Aïn el Bell, Aïne el Bell
 Aïn el Benaïa
 Aïn el Benia, 'Ayn al Binyah
 Aïn el Bennia, 'Ayn al Bennia
 Aïn el Bergoug
 Aïn el Berouag
+Aïn el Beïda, 'Ayn al Bayḑā', Al 'Ayn al Bayḑā'
 Aïn el Bida, 'Ayn al Bayḑā'
 Aïn el Bir
 Aïn el Bir Ziat
@@ -951,6 +950,7 @@ Aïn el Guerbej, 'Ayn al Qurbāj, Aïne el Guerbedj
 Aïn el Guergour, 'Ayn al Qurqūr, Aïn el Gargour
 Aïn el Guessinia
 Aïn el Guetar, 'Ayn al Qiţār
+Aïn el Guettar, 'Ayn al Qaţţār
 Aïn el Hadeba
 Aïn el Hadei
 Aïn el Hadj, 'Ayn al Ḩājj, Aïne el Djadj
@@ -1400,12 +1400,12 @@ Aïne el Azreg, 'Ayn al Azraq, Aïne ez Zereg
 Aïne el Babouche, 'Ayn al Bābūsh
 Aïne el Bagra, 'Ayn al Baqarah
 Aïne el Behima, 'Ayn al Bahīmah
-Aïne el Beida, 'Ayn al Bayḑā'
 Aïne el Bekkaria, 'Ayn al Bakkarīyah, Aïne el Bakkaria
 Aïne el Bel
 Aïne el Benia, 'Ayn al Binyah
 Aïne el Berr, 'Ayn al Barr
 Aïne el Bey, 'Ayn al Bāy
+Aïne el Beïda, 'Ayn al Bayḑā'
 Aïne el Beïma
 Aïne el Bordj, 'Ayn al Burj
 Aïne el Bouïa, 'Ayn al Būyah
@@ -2088,7 +2088,6 @@ Bir Castilia, Bi'r Gastilia
 Bir Chaaba, بئر الشعبة
 Bir Chaba, Bi'r ash Shu'bah
 Bir Chabane, Bi'r Sha'bān
-Bir Chabouni, Bir el Messadek
 Bir Challouf, بئر شلوف
 Bir Chaouch, بئر الشاوش
 Bir Chaouch Ali Ben Khalifa, Bi'r ash Shāwush 'Alī Bin Khalīfah, Bir el Chaouch Ali Ben Kralifa
@@ -2125,6 +2124,7 @@ Bir Choueïa, Bi'r Shuwayyah, Bir Choueta
 Bir Chouhaïa, 'Uqlat Shuhayyah, Biar Chouhaïa, Oglet Chouhaïa
 Bir Chourbane, Bi'r Shurbān
 Bir Chtourou
+Bir Châbouni, Bir el Messadek
 Bir Damagh, Bir Damarh
 Bir Daoua
 Bir Daoud, Bi'r Dā'ūd, Bir ed Doude
@@ -2352,7 +2352,7 @@ Bir Mlita
 Bir Mohamed, Bi'r Muḩammad
 Bir Mohamed el Mehili, Bi'r Muḩammad al Mehili, Bir Mohammed el Mehdi
 Bir Mohammed Ben Aatia
-Bir Mohammed Ben Abdallah, Bi'r Muḩammad Bin 'Abd Allāh
+Bir Mohammed Ben Abdallah, Bi'r Muḩammad Bin 'Abd Allah
 Bir Mohammed Ben Amar
 Bir Mohammed Ben Amor
 Bir Mohammed Ben Bel Kassem, Bi'r Muḩammad Bin Bū al Qāsim, Bir Mohamed Ben Belgacem
@@ -3080,8 +3080,8 @@ Bir es Solia, Bi'r as Solia
 Bir es Soltane, Bi'r as Sulţān
 Bir es Souatir, Bi'r as Sawāţīr
 Bir es Souaï, Bi'r aş Şawā'ī
-Bir es Souinia, Bi'r as Suwayniyah, Bir Bou es Souinia
 Bir es Soula
+Bir es Souïnia, Bi'r as Suwayniyah, Bir Bou es Souinia
 Bir et Tabaa
 Bir et Tachcha
 Bir et Tahar el Kafif
@@ -3460,7 +3460,7 @@ Canal de Kerkenna, Canal de Kerkennah, Canal des Kerkenah, Canal des Kerkennah, 
 Canal de Tūnis, Chenal Maritime, Tunis-La Goulette Canal
 Canal de la Galite, Canal de Jāliţah, Galita Channel
 Cani Islands, Cani Rocks, Îles Cani
-Cap Afrique, Cap Afriqe, Cape Africa, Ra's Ifrīqīyā, Ras Ifriquia, Ras Mahdia, Ras Mahedia, رأس افريقيا, رأس المهدية
+Cap Afrique, Cap Afriqe, Cape Africa, Ra's Ifrīqīyā, Ras Ifriquia, Ras Mahdia, Ras Mahedia, رأس أفريقيا, رأس المهدية
 Cap Bizerte, Cape Guardia, Ra's Banzart
 Cap Blanc, Ar Ra's al Abyaḑ, Ras el Abiadh
 Cap Bon, Al-Dakhā, Cap Hermes des Grecs, Cap Mercure des Latins, Ra's Maddār, Ra's aţ Ţīb, Ras Addar, Rass Adder, الرأس الطيب, الوطن القبلي, رأس الدار, كاب بون
@@ -3812,7 +3812,7 @@ Chott el Bahira
 Chott el Behaïm
 Chott el Belbala, Shaţţ al Balbālah
 Chott el Beïda, Shaţţ al Bayḑā'
-Chott el Djerid, Chott Djerid, Chott el-Jérid, Sciott Gerid, Shaţţ al Jarīd, Shott el Jerid, Šoṭṭ el-Jarīd, شط الجريد‎
+Chott el Djérid, Chott Djerid, Chott el Jerid, Sciott Gerid, Shaţţ al Jarīd, Shott el Jerid, Šoṭṭ el-Jarīd, شط الجريد‎
 Chott el Fedjaj, Chott Fedjadj, Chott el Fedjadj, Chott el Fedjedj, Chott el Fejaj, Chott el Fejej, Shaţţ al Fijāj
 Chott el Franig, Chott Effranig, Shaţţ al Farāniq
 Chott el Guebgueb, Chott el Guelgueb, Shaţţ al Qabqāb
@@ -4336,8 +4336,8 @@ Djebel el Ayata, Jabal al 'Ayyāthah
 Djebel el Aziza, Jabal al 'Azīzah
 Djebel el Balloute, Jabal al Ballūţ
 Djebel el Bazina, Djebel el Baz, Jabal al Bāzīnah
-Djebel el Beida, Jabal al Bayḑā'
 Djebel el Berouag, Jabal al Birwāq
+Djebel el Beïda, Jabal al Bayḑā'
 Djebel el Dilimet
 Djebel el Djebbas, Jabal al Jabbās
 Djebel el Djehaf, Jabal al Juḩāf
@@ -4570,7 +4570,7 @@ Dyr El Kef, دير الكاف
 Dyr el Kef
 Dzirat el Hajar, Jazīrat al Ḩajar, Îlot Nord
 Délégation d'El Omrane Supérieur, Al 'Umrān al A'lá, Mu'tamadīyat al 'Umrān al A'lá, Omrane Supérieur, العمران الأعلى, معتمدية العمران الأعلى, ىلعلاا نارمعلا
-Délégation d'Om El Araïes, Délégation d' Om El Araïes, Moulares, Mu'tamadīyat Umm al 'Arā'is, Om El Araies, Oum El Araies, Oum Laraies, Oum Laraïs, Umm al 'Arā'is, Umm al 'Arāyis, أم العرائس, أم العرايس, سئارعلا مأ, معتمدية أم العرائس
+Délégation d'Om El Araïes, Délégation d' Om El Araïes, Moulares, Mu'tamadīyat Umm al 'Arā'is, Om El Araies, Oum El Araies, Oum Laraies, Oum Larais, Umm al 'Arā'is, Umm al 'Arāyis, أم العرائس, أم العرايس, سئارعلا مأ, معتمدية أم العرائس
 Délégation de Bou Merdès, Boumerdes, Bū Mirdās, Mu'tamadīyat Bū Mirdās, بو مرداس, سادرموب, معتمدية بو مرداس
 Délégation de Béja Nord, Béja Nord, Bājah ash Shimālīyah, Delegation de Beja, Délégation de Bédja, Mu'tamadīyat Bājah, Mu'tamadīyat Bājah ash Shimālīyah, باجة الشمالية, ةيلامشلا ةجاب, معتمدية باجة الشمالية
 Délégation de Cité El Khadra, Cité El Khadhra, Délégation de la Cité El Khadra, Mu'tamadīyat Ḩayy al Khaḑrā', ءارضخلا يح, حي الخضراء, معتمدية حي الخضراء, Ḩayy al Khaḑrā'
@@ -4579,18 +4579,18 @@ Délégation de Gabès Ouest, Gabes Ouest, Mu'tamadīyat Qābis al Gharbīyah, Q
 Délégation de Gabès Sud, Gabes Sud, Mu'tamadīyat Qābis al Janūbīyah, Qābis al Janūbīyah, ةيبونجلا سباق, قابس الجنوبية, معتمدية قابس الجنوبية
 Délégation de Gabès Ville, Délégation de Gabès, Gabes Medina, Gabès Ville, Mu'tamadīyat Qābis, Mu'tamadīyat Qābis al Madīnah, Qābis al Madīnah, ةنيدملا سباق, قابس المدينة, معتمدية قابس المدينة
 Délégation de Jedaïda, Al Judaydah, Djedeida, Jedaida, Jedeida, Mu'tamadīyat al Judaydah, الجديدة, ةديدجلا, معتمدية الجديدة
-Délégation de Kébili Nord, Kébili Nord, Mu'tamadīyat Qibilī ash Shimālīyah, Qibilī ash Shimālīyah, ةيلامشلا يلبق, قبلي الشمالية, معتمدية قبلي الشمالية
+Délégation de Kébili Nord, Kebili Nord, Mu'tamadīyat Qibilī ash Shimālīyah, Qibilī ash Shimālīyah, ةيلامشلا يلبق, قبلي الشمالية, معتمدية قبلي الشمالية
 Délégation de Kébili Sud, Délégation de Kebili, Kébeli Sud, Mu'tamadīyat Qibilī, Mu'tamadīyat Qibilī al Janūbīyah, Qibilī al Janūbīyah, ةيبونجلا يلبق, قبلي الجنوبية, معتمدية قبلي الجنوبية
 Délégation de M'saken, M'saken, Masākin, Mu'tamadīyat Masākin, مساكن, معتمدية مساكن, نكاسم
 Délégation de Mejel Bel Abbès, Majel Bel Abbes, Majel Belabbes, Mejel Bel Abbès, Mu'tamadīyat Mājil bil 'Abbās, Mājil bil 'Abbās, سابعلاب لجام, ماجل بالعباس, معتمدية ماجل بالعباس
-Délégation de Médenine Sud, Délégation de Médenine, Madanīn al Janūbīyah, Mu'tamadīyat Madanī, Mu'tamadīyat Madanīn al Janūbīyah, Médenine Sud, ةيبونجلا نيندم, مدنين الجنوبية, معتمدية مدنين االجنوبية
-Délégation de Mégrine, Maqrīn, Mu'tamadīyat Maqrīn, Mégrine, معتمدية مقرين, مقرين, نيرقم
+Délégation de Médenine Sud, Délégation de Médenine, Madanīn al Janūbīyah, Medenine Sud, Mu'tamadīyat Madanī, Mu'tamadīyat Madanīn al Janūbīyah, ةيبونجلا نيندم, مدنين الجنوبية, معتمدية مدنين االجنوبية
+Délégation de Mégrine, Maqrīn, Megrine, Mu'tamadīyat Maqrīn, معتمدية مقرين, مقرين, نيرقم
 Délégation de Radès, Mu'tamadīyat Rādis, Radès, Rādis, رادس, سدار, معتمدية رادس
 Délégation de Sidi Aïch, Mu'tamadīyat Sīdī 'Aysh, Sīdī 'Aysh, سيدي عيش, شيع يديس, معتمدية سيدي عيش
 Délégation de Sidi El Béchir, Mu'tamadīyat Sīdī al Bashīr, Sīdī al Bashīr, ريشبلا يديس, سيدي البشير, معتمدية سيدي البشير
 Délégation de Souassi
 Délégation de Téboulba, Mu'tamadīyat Ţabulbah, Teboulba, Ţabulbah, ةبلبط, طبلبة, معتمدية طبلبة
-Délégation de la Médina, Al Madīnah, Banlieue Nord, Délégation de Tunis, Délégation de la Banlieue, Mu'tamadīyat Tūnis, Mu'tamadīyat al Madīnah, Médina, Tunis El-Médina, Tunis La Médina, Tunis Médina, المدينة, ةنيدملا, معتمدية المدينة
+Délégation de la Médina, Al Madīnah, Banlieue Nord, Délégation de Tunis, Délégation de la Banlieue, Mu'tamadīyat Tūnis, Mu'tamadīyat al Madīnah, Médina, Tunis El Medina, Tunis La Médina, Tunis Médina, المدينة, ةنيدملا, معتمدية المدينة
 Délégation de la Nouvelle Médina, Al Madīnah al Jadīdah, Medina Jadida, Mu'tamadīyat al Madīnah al Jadīdah, Médina Jedida, المدينة الجديدة, ةديدجلا ةنيدملا, معتمدية المدينة الجديدة
 Dār Mezab
 East Fratelli Rock
@@ -4773,7 +4773,7 @@ El Azib, العزيب
 El Azima, العزيمة
 El Aïoun
 El Aïssa
-El Bab, Al Bāb, Bāb et Tsobbi
+El Bab, Al Bāb, Bab et Tsobbi
 El Babboueha
 El Bagdadi
 El Baghdadi, البغدادي
@@ -4794,12 +4794,12 @@ El Behaier, البحاير
 El Behair, البحاير
 El Behira, البحيرة
 El Behirin, البحيرين
-El Beida, Al Bayḑā'
 El Benaina, البنية
 El Berda, Al Bardah
 El Berka
 El Besbes, البسباس
 El Bessatine, البساتين
+El Beïda, Al Bayḑā'
 El Bhira
 El Biban, Al Bībān, Ilots de Biban
 El Bibane
@@ -4837,7 +4837,7 @@ El Erg, العرق
 El Ezdihar, الإزدهار
 El Faca
 El Fadhline, الفضلين
-El Fahs, Al Faḩş, Délégation d' El Fahs, Délégation de el-Fahs, Délégation du Fahs, Délégation du Pont du Fahs, Mu'tamadīyat Qanţarat al Faḩş, Mu'tamadīyat al Faḩş, الفحص, صحفلا, معتمدية الفحص
+El Fahs, Al Faḩş, Delegation du Fahs, Délégation d' El Fahs, Délégation de el-Fahs, Délégation du Pont du Fahs, Mu'tamadīyat Qanţarat al Faḩş, Mu'tamadīyat al Faḩş, الفحص, صحفلا, معتمدية الفحص
 El Falej, El Faledj
 El Falta, الفالتة
 El Faouar, Al Fawār, Délégation d' El Faouar, Fawār, Mu'tamadīyat al Fawār, الفوار, راوف, فوار, معتمدية الفوار
@@ -4876,13 +4876,13 @@ El Gandoul, القندول
 El Ganntara el Batene, Kantaret el Baten, Qanţarat al Bāţin
 El Ganntra, Al Qanţarah
 El Gara
-El Garaa, القرعة
 El Garaa El Hamra, القرعة الحمراء
 El Garci, القارصي
 El Gargabia, Al Qarqabīyah
 El Garia, القرية
 El Garjouma, القرجومة
 El Garn
+El Garâa, القرعة
 El Gassa, Al Qaşşah
 El Gassaa
 El Gataâya el Bahria, Guettaïet el Baharia, Kattaya Islet, Qaţţāyat al Baḩrīyah, Îlot Cattaya, Îlot Guettaia
@@ -4917,9 +4917,9 @@ El Gosba, القصبة
 El Gouacem Est, القواسم الشرقية
 El Gouacem Ouest, القواسم الغربية
 El Gouafel
-El Gouaidia, Al Qawā'idīyah, القوايدية
 El Gouaress
 El Gouazine
+El Gouaïdia, Al Qawā'idīyah, القوايدية
 El Goubaï, Al Goubaï, El Goubbaaïa
 El Gouireg
 El Gounna, Al Qunnah, الفنة, القنة
@@ -4943,7 +4943,7 @@ El Gueriaat, القريعات
 El Guern
 El Guerria, Al Guerria
 El Guessaat, Al Qaşa'āt
-El Guetar, Al Qaţār, Al Qaţţār, Délégation d' El Guetar, Délégation d'el Guettar, Guetar, Mu'tamadīyat al Qaţār, Mu'tamadīyat al Qaţţār, القطار, راطقلا, معتمدية القطار
+El Guetar, Al Qaţār, Al Qaţţār, Délégation d' El Guetar, Délégation d'El Guettar, Guetar, Mu'tamadīyat al Qaţār, Mu'tamadīyat al Qaţţār, القطار, راطقلا, معتمدية القطار
 El Guetar Est, القطار الشرقية
 El Guetar Ouest, القطار الغربية
 El Guetaïa
@@ -5858,7 +5858,7 @@ Garaet el Arneb, Qar'at al Arnab
 Garaet el Atach, Qar'at al 'Aţash
 Garaet el Atel
 Garaet el Atela, Qar'at al Athlah
-Garaet el Ateuch, Garaet el Aleuch, Garaet el Atech, Qar'at al 'Aţash
+Garaet el Ateuch, Garaet el Aleuch, Garaet el Atech, Qar'at al 'Atash
 Garaet el Atsel, Qar'at al Athl
 Garaet el Baguel, Qar'at al Baql
 Garaet el Baïli
@@ -5868,7 +5868,7 @@ Garaet el Djebana, Qar'at al Jabbānah
 Garaet el Ferjani
 Garaet el Fertas, Garaet el Fertass, Qar'at al Firţās
 Garaet el Frida, Qar'at al Farīdah
-Garaet el Golea, Garet el Golea, Qar'at al Qulay'ah
+Garaet el Goléa, Garet el Golea, Qar'at al Qulay'ah
 Garaet el Gouzahia, Qar'at al Quzaḩīyah
 Garaet el Guesseb, Qar'at al Qaşşāb
 Garaet el Guetania
@@ -6073,7 +6073,7 @@ Gouvernorat de Jendouba, Gouvernorat de Djendouba, Gouvernorat de Souk el Arba, 
 Gouvernorat de Kairouan, Al Qayrawān, Kairouan, Wilāyat al Qayrawān, القيروان, ولاية القيروان
 Gouvernorat de Kasserine, Gouvernorat de Sbeitla, Kasserine, Subayţilah, Wilāyat al Qaşrayn, القصرين, ولاية القصرين
 Gouvernorat de Kef, Gouvernorat du Kef, Kef, Le Kef, Wilāyat al Kāf, الكاف, ولاية الكاف
-Gouvernorat de Kébili, Kébili, Qibilī, Wilāyat Qibilī, قبلي, ولاية قبلي
+Gouvernorat de Kébili, Kebili, Qibilī, Wilāyat Qibilī, قبلي, ولاية قبلي
 Gouvernorat de Mahdia, Al Mahdīyah, Wilayat al Mahdiyah, المهدية, ولاية المهدية
 Gouvernorat de Monastir, Al Munastīr, Wilayat Munastir, Wilāyat al Munastīr, المنستير, ولاية المنستير
 Gouvernorat de Médenine, Gouvernorat de Mednine, Madanīn, Médenine, Wilāyat Madanīn, مدنين, ولاية مدنين
@@ -6243,7 +6243,7 @@ Hammam Biadha Nord, حمام بياضة الشمالية
 Hammam Biadha Sud, حمام بياضة الجنوبية
 Hammam Bou Khadra, Hammam Bou Kradra, Ḩammām Bū Khaḑrā'
 Hammam Chott, Délégation de Hammam Chott, Hammam Chatt, Mu'tamadīyat Ḩammām ash Shaţţ, حمام الشط, طشلا مامح, معتمدية حمام الشط, Ḩammām ash Shaţţ
-Hammam El Guezaz, Délégation de Hammam El Guezaz, Hammam Ghezaz, Mu'tamadīyat Ḩammām al Aghzāz, Mu'tamadīyat Ḩammām al Ghazāz, حمام الغزاز, زازغلأا مامح, معتمدية حمام الغزاز, Ḩammām al Aghzāz, Ḩammām al Ghazāz
+Hammam El Guezaz, Délégation de Hammam El Guezaz, Hammam Ghezaz, Mu'tamadīyat Ḩammām al Aghzāz, Mu'tamadīyat Ḩammām al Ghazāz, حمام الأغزاز, زازغلأا مامح, معتمدية حمام الأغزاز, Ḩammām al Aghzāz, Ḩammām al Ghazāz
 Hammam El Rmimi, حمام الرميمي
 Hammam Lif, Delegation D'Hammam-Lif, Délégation de Hammam Lif, Délégation de la Banlieue Sud, Mu'tamadīyat Ḩammām al Anf, حمام الأنف, فنلأا مامح, معتمدية حمام الأنف, Ḩammām al Anf
 Hammam Lif El Malaab, حمام الانف الملعب
@@ -7574,7 +7574,7 @@ Kalaa Khasba, Al Qal'ah al Khaşbā', Délégation de Kalaa Khasba, Kalâat Khas
 Kalaa Seghira Est, القلعة الصغرى الشرقية
 Kalaa Seghira Hached, القلعة الصغرى حشاد
 Kalaa Seghira Ville, القلعة الصغرى المدينة
-Kalaa Sghira, Al Qal'ah aş Şughrá, Délégation de Kalaa Sghira, Kalaa Seghira, Kalaâ Soghra, Mu'tamadīyat al Qal'ah aş Şughrá, القلعة الصغرى, معتمدية القلعة الصغرى, ىرغصلا ةعلقلا
+Kalaa Sghira, Al Qal'ah aş Şughrá, Délégation de Kalaa Sghira, Kalaa Seghira, Kalaa Soghra, Mu'tamadīyat al Qal'ah aş Şughrá, القلعة الصغرى, معتمدية القلعة الصغرى, ىرغصلا ةعلقلا
 Kalaa Snoubria, Koudiat es Senoubrine, Qal'at aş Şanawbarīyah
 Kalaa el Djerda, Al Qal'ah al Jardā'
 Kalaat Bel Ghaoui, Kalaat Bel Rhaoui
@@ -7764,7 +7764,7 @@ Kef ed Draa, Kāf adh Dhirā'
 Kef ed Drabi
 Kef ed Dziba
 Kef el Abassi, Kāf al 'Abbāsī
-Kef el Abiod, Kāf al Abyaḑ
+Kef el Abïod, Kāf al Abyaḑ
 Kef el Agab, Kāf al 'Uqāb
 Kef el Agreb
 Kef el Ahmar
@@ -8145,7 +8145,7 @@ Koudiat Sefbat Sghira, Koudiat Sefbat Srhira
 Koudiat Seffah
 Koudiat Sefra
 Koudiat Semmache
-Koudiat Sfaia, Kudyat aş Şafāyā
+Koudiat Sfaïa, Kudyat aş Şafāyā
 Koudiat Sghira, Koudiat Srhira
 Koudiat Siah Remla, Kudyat Sayḩ ar Ramlah
 Koudiat Siah Saïd Bel Hadia, Kudyat Sayḩ Sa'īd Bū al Hadia
@@ -8571,7 +8571,7 @@ Mazoula
 Mazraia, مزراية
 Maţmāţ
 Mdaïa Roua
-Mdhila, Al Maz̧īlah, Al Maḑīlah, Délégation de Mdhila, El Mdhila, Mdhilla, Mu'tamadīyat al Maz̧īlah, المضيلة, المظيلة, ةليضملا, معتمدية المظيلة
+Mdhila, Al Maz̧īlah, Al Maḑīlah, Délégation de Mdhila, El Mdhila, M'dhilla, Mu'tamadīyat al Maz̧īlah, المضيلة, المظيلة, ةليضملا, معتمدية المظيلة
 Mdhila Centre, المظيلة المركز
 Mdès Naoura
 Mdès el Mouijnat, Mdès el Mouidjnat
@@ -8630,7 +8630,7 @@ Mellegue, ملاق
 Mellita, مليتة
 Melloul, ملول
 Melloula, ملولة
-Melloulech, Délégation de Melloulech, Malloulech, Mallūlish, Melloulèche, Mu'tamadīyat Mallūlish, شلولم, معتمدية ملولش, ملولش
+Melloulech, Délégation de Melloulech, Malloulech, Mallūlish, Mellouleche, Mu'tamadīyat Mallūlish, شلولم, معتمدية ملولش, ملولش
 Melsane
 Menndrat es Soualah
 Mennfess el Gouzahia, Menfess al Gouzahia
@@ -8806,7 +8806,7 @@ Nahal, النحال
 Nakhla Rhouiba, Nakhlat al Ghuwaybah, Nakrla Rhouiba
 Nakhlet el Menngoub, Nakhlat al Manqūb, Nakrlet el Menngoub
 Naoual, نوال
-Nasrallah, Délégation de Nasrallah, Délégation de Sidi Ali, Délégation de Sidi Ali Ben Nasr'Allah, Délégation de Sidi Ali Nasr'Allah, Mu'tamadīyat Naşr Allāh, Mu'tamadīyat Sīdī 'Alī Bin Naşr Allāh, Nasr Allah, معتمدية نصر الله, نصر الل, نصر الله
+Nasrallah, Delegation de Sidi Ali Nasrallah, Délégation de Nasrallah, Délégation de Sidi Ali, Délégation de Sidi Ali Ben Nasr'Allah, Mu'tamadīyat Naşr Allāh, Mu'tamadīyat Sīdī 'Alī Bin Naşr Allāh, Nasr Allah, معتمدية نصر الله, نصر الل, نصر الله
 Nasrallah Banlieue, نصر الله الأحواز
 Nasrallah Centre, نصر اللّه المركز
 Nasseur Ben Taleb, Nāşir Bin Ţālib
@@ -9270,7 +9270,6 @@ Oued Chenini, Wādī Shanīnī
 Oued Cherchar, Oued Touil, Oued el Touil, Wādī ash Sharshār
 Oued Chercher
 Oued Chergal
-Oued Cheria, Oued Jaria, Wādī Jāriyah
 Oued Cheriaa, Wādī Sharī'ah
 Oued Cherichira, Wādī ash Shurayshīrah
 Oued Cherit, Wādī ash Sharīţ
@@ -9287,6 +9286,7 @@ Oued Chouchene
 Oued Chougaf, Wādī Chouggaf
 Oued Chrach
 Oued Chrim
+Oued Chêria, Oued Jaria, Wādī Jāriyah
 Oued Dagla
 Oued Dakhlet el Aajaj, Oued Dakhlet el Aadjaj, Oued Daklet el Aâdjadj, Oued Daklet el Aâdjaj, Wādī Dakhlat al 'Ajāj
 Oued Dakrlate
@@ -9958,9 +9958,9 @@ Oued Sidi Nasseur
 Oued Sidi Nsir, Wādī Sīdī Naşīr
 Oued Sidi Ramdane
 Oued Sidi Saad, Wādī Sīdī Sa'd
-Oued Sidi Said
 Oued Sidi Salah, Wādī Sīdī Şāliḩ
 Oued Sidi Salem, Wādī Sīdī Sālim
+Oued Sidi Saïd
 Oued Sidi Yahia
 Oued Sidi Zid, Wādī Sīdī Zayd
 Oued Sidi el Mahdi
@@ -10196,7 +10196,6 @@ Oued el Ahfour
 Oued el Ahimeur, Oued el Haïmeur, Wādī al Uḩaymir
 Oued el Ahmar
 Oued el Ahmer
-Oued el Aioun, Oued el Ainun, Oued el Atoub, Wādī al 'Uyūn
 Oued el Ajdel, Oued Adjel, Wādī al 'Ijl
 Oued el Ajela
 Oued el Ajifre
@@ -10254,6 +10253,7 @@ Oued el Aïchir
 Oued el Aïn
 Oued el Aïn Majeur
 Oued el Aïne, Wādī al 'Ayn
+Oued el Aïoun, Oued el Ainun, Oued el Atoub, Wādī al 'Uyūn
 Oued el Aïoun el Aleg, Wādī 'Uyūn al 'Alaq
 Oued el Babouch
 Oued el Baboucha, Wādī al Bābūshah
@@ -10276,7 +10276,6 @@ Oued el Begaz
 Oued el Beghla, Oued el Berhla
 Oued el Behim, Oued Behim
 Oued el Behima, Oued el Bhima, Wādī al Bahīmah
-Oued el Beida, Oued Baïad, Wādī al Bayḑā'
 Oued el Beira
 Oued el Beldi
 Oued el Beldia
@@ -10293,6 +10292,7 @@ Oued el Betom, Wādī al Baţţūm
 Oued el Betoum, Oued el Batouma, Wādī al Baţţūm
 Oued el Bezouich
 Oued el Beïad
+Oued el Beïda, Oued Baïad, Wādī al Bayḑā'
 Oued el Bghal, Oued el Brhal, Wādī al Baghl
 Oued el Bghel, Oued el Brhel
 Oued el Biar
@@ -10315,12 +10315,12 @@ Oued el Broug, Wādī al Burūq
 Oued el Damouse
 Oued el Damouss, Wādī ad Dāmūs
 Oued el Dekrilatt, Wādī ad Dukhaylāt
-Oued el Djedari, Wādī al Jidārī
 Oued el Djedeida, Wādī al Judayyidah
 Oued el Djellef, Wādī al Jallāf
 Oued el Djemel, Wādī al Jamal
 Oued el Djeroual, Oued Djeroual, Wādī al Jarwal
 Oued el Djourf, Oued ed Dorf, Wādī al Jurf
+Oued el Djédari, Wādī al Jidārī
 Oued el Enja, Oued el Ennda, Oued el Enndja
 Oued el Ennfida
 Oued el Eshab
@@ -10620,7 +10620,6 @@ Oued el Kralij, Oued Kralidj
 Oued el Kraloua
 Oued el Krarrouba, Wādī al Kharrūbah
 Oued el Kreddam, Oued el Keddam, Wādī al Khaddām
-Oued el Kreil, Wādī al Khayl
 Oued el Kreniga, Wādī al Khunayqah
 Oued el Krennga
 Oued el Krennzeria, Wādī al Khinzīrīyah
@@ -10628,6 +10627,7 @@ Oued el Kreririba
 Oued el Krerja, Wādī al Kharjah
 Oued el Kreroua, Wādī al Khirwa'
 Oued el Kresfa
+Oued el Kreïl, Wādī al Khayl
 Oued el Kreïr, Wādī al Khayr
 Oued el Krib, Wādī al Karīb
 Oued el Kril, Wādī al Khayl
@@ -10694,7 +10694,6 @@ Oued el Mashel, Oued el Meshel, Oued el Messahel, Oued el Msahel, Wādī al Mas�
 Oued el Masid, Oued el Mzid, Wādī al Masīd
 Oued el Masri, Wādī al Mişrī
 Oued el Massera, Oued el Macera, Wādī al Mi'şarah
-Oued el Maza, Wādī al Ma'zah
 Oued el Mazia, Wādī al Mazīyah
 Oued el Mazoul, Wādī al Ma'zūl
 Oued el Mazouz, Wādī al Mazou
@@ -10785,6 +10784,7 @@ Oued el Msila, Wādī al Masīlah
 Oued el Mtallit
 Oued el Mtoun, Wādī al Mutūn
 Oued el Mzach
+Oued el Mâza, Wādī al Ma'zah
 Oued el Nanntara
 Oued el Oaafi
 Oued el Oglat
@@ -10976,11 +10976,11 @@ Oued es Soudane
 Oued es Souf
 Oued es Soug
 Oued es Sougueta
-Oued es Souinia, Wādī as Suwayniyah
 Oued es Souk, Wādī as Sūq
 Oued es Souria, Wādī as Sūrīyah
 Oued es Sourine
 Oued es Sourrag, Oued S'rag, Oued Serrag, Wad Srag, Wādī as Surrāq
+Oued es Souïnia, Wādī as Suwayniyah
 Oued esh Chaïbet
 Oued esh Shira
 Oued et Taam, Oued el Taam, Wādī aţ Ţa'ām
@@ -11053,7 +11053,7 @@ Oueljet Essedra, ولجة السدرة
 Ouerdanine, Al Wardānīn, Délégation de Ouerdanine, El Ouardanine, El Ouerdanine, Mu'tamadīyat al Wardānīn, Ouardanine, الوردانين, معتمدية الوردانين, نينادرولا
 Ouerdanine Nord, الوردانين الشمالية
 Ouerdaninie Sud, الوردانين الجنوبية
-Oueslatia, Al Waslātīyah, Délégation d'El Oueslatia, Délégation de Oueslatia, Délégation de Ousseltia, El Oueslatia, El Ouslatia, Mu'tamadīyat al Waslātīyah, الوسلاتية, معتمدية الوسلاتية
+Oueslatia, Al Waslātīyah, Délégation d'El Oueslatia, Délégation de Oueslatia, Délégation de Ousseltia, EL Ouslatia, El Oueslatia, Mu'tamadīyat al Waslātīyah, الوسلاتية, معتمدية الوسلاتية
 Ouezdra, وزدرة
 Ouja Tioucha, Oudja Tioucha
 Oulad Abd el Hamid, Awlād 'Abd al Ḩamīd
@@ -11517,9 +11517,9 @@ Ragoubet er Redem
 Ragoubet er Rehag
 Ragoubet es Saïd
 Ragoubet es Sefsaf
-Ragoubet es Seid
 Ragoubet es Seit
 Ragoubet es Sergia
+Ragoubet es Seïd
 Ragoubet es Sfa
 Ragoubet es Sfar
 Ragoubet es Sfisifa
@@ -11603,7 +11603,7 @@ Rass Dimasse, Ra's Daymās, Ras Dimas, Ras Dimasse, Rass Dimass
 Rass Drina, Ra's Darīnah, Ras Drina
 Rass Fetil, Ra's Fatīl, Ras Fetil
 Rass Jezira, Ra's al Jazīrah, Ras Djezira, Ras Dzira, Rass Djezira
-Rass Kaboudia, Caput Vada, Ra's Kabūdīyah, Ras Kabo, Ras Kaboudia, Ras Kapoudia, Ras Kapudia, Ras Kradidja, Rass Kaboudis, رأس قبوذية, راس قبودية, رَأْسُ قَبُوذِيَةَ, رَأْسُ قَبُّودِيَّةَ
+Rass Kaboudia, Caput Vada, Ra's Kabūdīyah, Ras Kabo, Ras Kaboudia, Ras Kapoudia, Ras Kapudia, Ras Kradidja, Rass Kaboudis, رأس قبودية, رأس قبوذية, رَأْسُ قَبُوذِيَةَ, رَأْسُ قَبُّودِيَّةَ
 Rass Krerachefa, Ra's al Kharāshifah
 Rass Ksiba, Ra's Quşaybah, Ras Keriba, Ras Xeba, الرس القصيبة
 Rass Ksiba Pier
@@ -11782,7 +11782,7 @@ Sabkhat al Guettiate
 Sabkhat al Jamm, Chott el Djem, Sebkret el Djem, Sebkret mta el Djem
 Sabkhat al Jelija, Sabkhat al Djelidja, Sebkret el Djelidja
 Sabkhat al Munaykir, Sebkhet el Menikra, Sebkret el Menikra
-Sabkhat al Ḩamrā', السبخة الحمراء
+Sabkhat al Ḩamrā', السبخة الحمرا
 Sabkhat ar Rahia
 Sabkhat at Tannfouri
 Sabkhet Chlaka, Chelaka Sebkra
@@ -11872,7 +11872,7 @@ Saïd el Aribi
 Saïdane el Halou, Sa'īdān al Ḩulw
 Saïdane el Melah, Sa'īdān al Milḩ
 Saïdi
-Sbeitla, Délégation de Sbeïtla, Mu'tamadīyat Subayţilah, Subayţilah, ةلطيبس, سبيطلة, معتمدية سبيطلة
+Sbeitla, Délégation de Sbeitla, Mu'tamadīyat Subayţilah, Subayţilah, ةلطيبس, سبيطلة, معتمدية سبيطلة
 Sbiba, ةبيبس, سبيبة
 Sbih, صبيح
 Sbikha, As Sabīkhah, As Subaykhah, Délégation de Sbikha, Mu'tamadīyat as Sabīkhah, Mu'tamadīyat as Subaykhah, السبيخة, معتمدية السبيخة
@@ -12015,11 +12015,11 @@ Sersouf el Ouechtatia
 Sfa el Ouahaïbia
 Sfaiet Zitoun
 Sfaiet el Louza
-Sfaiet es Senane, Şafāyat as Sinān
 Sfax Ouest, Délégation de Sfax Ouest, Mu'tamadīyat Şafāqis al Gharbīyah, Şafāqis al Gharbīyah, صفاقس الغربية, صفاقس الغريبة, معتمدية صفاقس الغربية
 Sfax Sud, Délégation de Sfax Sud, Mu'tamadīyat Şafāqis al Janūbīyah, Şafāqis al Janūbīyah, صفاقس الجنوبية, معتمدية صفاقس الجنوبية
-Sfax Ville, Délégation de Sfax, Délégation de Sfax Ville, Mu'tamadīyat Şafāqis, Mu'tamadīyat Şafāqis al Madīnah, Sfax Médina, Şafāqis al Madīnah, صفاقس المدينة, معتمدية صفاقس المدينة
+Sfax Ville, Délégation de Sfax, Délégation de Sfax Ville, Mu'tamadīyat Şafāqis, Mu'tamadīyat Şafāqis al Madīnah, Sfax Medina, Şafāqis al Madīnah, صفاقس المدينة, معتمدية صفاقس المدينة
 Sfaïet el Assa
+Sfaïet es Senane, Şafāyat as Sinān
 Sfihel Aagga
 Sfihel el Arar
 Shabakat Farouj, Chebket Farouj, Chebket el Kedim
@@ -12109,7 +12109,7 @@ Sidi Djebali, سيدي الجبالي
 Sidi Djedidi, سيدي الجديدي
 Sidi El Bahri, سيدي البحري
 Sidi El Bechir, سيدي البشير
-Sidi El Hani, Délégation de Sidi El Hani, Mu'tamadīyat Sīdī al Hānī, Sidi El Héni, Sīdī al Hānī, سيدي الهاني, معتمدية سيدي الهاني, يناهلا يديس
+Sidi El Hani, Délégation de Sidi El Hani, Mu'tamadīyat Sīdī al Hānī, Sidi El Heni, Sīdī al Hānī, سيدي الهاني, معتمدية سيدي الهاني, يناهلا يديس
 Sidi El Heni Centre, سيدي الهاني المركزية
 Sidi El Heni Ouest, سيدي الهاني الغربية
 Sidi El Heni Sud, سيدي الهاني الجنوبية
@@ -12390,7 +12390,7 @@ Touza, طوزة
 Touïl Oum el Gorsane, Ţawīl Umm al Gorsane
 Touïl Oum et Tameur, Ţawīl Umm at Tameur
 Touïlet ech Cheridi, Toual ech Chridi, Toual el Cheridi, Tuel Shridi, Ţawīlat ash Sharīdī
-Tozeur, Délégation de Tozeur, Mu'tamadīyat Tawzar, Mu'tamadīyat Tūzir, Tūzir, توزر, رزوت, معتمدية توزر
+Tozeur, Delegation de Tozeur, Mu'tamadīyat Tawzar, Mu'tamadīyat Tūzir, Tūzir, توزر, رزوت, معتمدية توزر
 Trab el Ahmar
 Trab el Batha
 Trab el Makrada, Turāb al Makhāḑah

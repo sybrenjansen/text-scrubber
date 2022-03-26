@@ -362,7 +362,7 @@ Balm bei Messen, Balm b. Messen
 Balmberg
 Balmenegg
 Balmwies
-Balsthal, Бальсталь, 巴爾斯塔爾
+Balsthal, Balstal, 巴爾斯塔爾
 Baltenswil
 Balterswil, Bichelsee-Balterswil
 Baltschieder, 巴爾奇德爾
@@ -774,7 +774,6 @@ Brot-Plamboz
 Bruch
 Bruciata
 Bruderholz
-Brugg, Брюг, Брюгг, 布魯格
 Bruggen
 Brugglen
 Bruggäcker
@@ -799,6 +798,7 @@ Brändlisboden
 Brè, Brè sopra Lugano
 Brémudens
 Brölberg
+Brügg, Брюг, Брюгг, 布呂格
 Brüggelbach
 Brügglen, Брюглен, 布呂格倫
 Brüglen
@@ -1001,7 +1001,7 @@ Calonico
 Calpiogna
 Calzo
 Calörtsch
-Cama, Cama GR, 卡馬
+Cama, Cama GR, Кама
 Camana
 Camarè
 Camasciora
@@ -1018,7 +1018,7 @@ Campello
 Camperio
 Campestro
 Campetto
-Campfer, Champfèr, St. Moritz-Champfer
+Campfer, Champfer, St. Moritz-Champfer
 Campiscioni
 Campliun
 Campo, Campo (Vallemaggia), Campo Valmaggia, 坎波
@@ -1595,7 +1595,7 @@ Disla
 Distel, Distel Alp
 Dittingen, 迪廷根
 Dizy
-Domat, Domat/Ems, Ems
+Domat, Domat Ems, Ems
 Dombresson, 棟布雷松
 Domdidier, 棟迪迪耶
 Dommartin
@@ -1646,7 +1646,7 @@ Duvin, Duin, 杜溫
 Dächebüel
 Dägerlen
 Dändlikon
-Däniken, 德尼肯
+Däniken, Деникен
 Dänikon
 Därligen, Дерлиген, 德利根
 Därstetten, Дерштеттен, 德斯泰滕
@@ -1808,7 +1808,7 @@ Epagny
 Epalinges, 埃帕兰日
 Epautheyres
 Epauvillers
-Ependes, Ependes FR, Ependes VD, 埃龐德
+Ependes, Ependes FR, Ependes VD, 埃庞德
 Epesses
 Epiquerez
 Eppenberg
@@ -2221,7 +2221,7 @@ Gerlisberg
 Gerliswil
 Geroldswil
 Gerolfingen
-Gerra, Gerra (Gambarogno), Gerra-Verzasca
+Gerra, Gerra (Gambarogno), Gerra (Verzasca)
 Gerra (Piano)
 Gersau
 Gerschnialp
@@ -4279,12 +4279,12 @@ Muntelier, Montilier
 Munter
 Muolen
 Muot
-Muotathal, Муотаталь
+Muotathal, Muotatal
 Mur (Vully), Mur (Vully) VD
 Muralto, 穆拉爾托
 Muraz (Sierre)
 Murg
-Murgenthal, Мургенталь
+Murgenthal, Murgental
 Muri, Muri AG, Muri b. Bern, Muri bei Bern, 穆里
 Muriaux, 穆里奧
 Muricce
@@ -4292,7 +4292,7 @@ Murio
 Muriscio
 Murist, 穆里斯
 Murschetg
-Murten/Morat, Morat, Morato, Муртен, 穆爾滕
+Murten/Morat, Morat, Morato, Murten, 穆爾滕
 Murzelen
 Musersbergli
 Mutrux
@@ -5259,7 +5259,7 @@ Riedmatt
 Riedstätt
 Riedt, Riedt b. Erlen
 Riedtwil
-Riehen, Риэн, 里恩
+Riehen, Риен, 里恩
 Riein, Риайн, 里因
 Riemenstalden
 Rieneschli
@@ -5569,7 +5569,7 @@ Saint-Maurice, Saint-Maurice VS, 聖莫里斯
 Saint-Pierre-de-Clages
 Saint-Prex, 圣普雷
 Saint-Romain, St-Romain (Ayent)
-Saint-Sulpice, Saint-Sulpice NE, St-Sulpice VD
+Saint-Sulpice, Saint-Sulpice NE, Saint-Sulpice VD
 Saint-Triphon
 Saint-Ursanne
 Sainte-Croix, Sainte-Croix VD, 圣科瓦
@@ -5582,7 +5582,6 @@ Salategnas
 Salavaux
 Salen
 Salenstein, Заленштайн, 薩倫斯泰因
-Sales, Sâles (Gruyère), Саль, 薩勒
 Salez
 Salgesch, Salquenen, 薩爾格施
 Salins
@@ -5612,10 +5611,10 @@ Sandweidli
 Sangernboden
 Sanitas
 Sankt Anna
-Sankt Antoni, Saint-Antoine, St. Antoni, St. Antoni FR
+Sankt Antoni, Saint Antoni, Saint-Antoine, St. Antoni FR
 Sankt Antönien, Sontg Antönia, St. Antönien, Санкт-Антёниен, 聖安特尼恩
 Sankt Chrischona
-Sankt Gallen, Saint-Gall, San Gallo, Son Gagl, St. Gallen
+Sankt Gallen, Saint Gallen, Saint-Gall, San Gallo, Son Gagl
 Sankt Gallenkappel, St. Gallenkappel
 Sankt German
 Sankt Heinrich
@@ -6124,7 +6123,7 @@ Stegmatt
 Stehrenberg
 Steig
 Stein, Stein AG, Stein AR, Stein SG, Штайн, 斯泰因
-Stein am Rhein, Штайн-ам-Райн, Штайн-на-Рейне
+Stein am Rhein, Штайн-Ам-Райн, Штайн-на-Рейне
 Steinach
 Steinbergen
 Steinbergli
@@ -6248,6 +6247,7 @@ Susten
 Sutz
 Suvretta
 Syens, 西扬
+Sâles, Sâles (Gruyère), Саль, 薩勒
 Sädel
 Säge
 Säriswil
@@ -6556,9 +6556,9 @@ Unter-Sulzberg
 Unter-Teufen, Teufen ZH
 Unter-Wohlen
 Unteraurüti
-Unterbach, 下貝赫
 Unterbazenheid, Unter-Basenheid, Unter-Bazenheid
 Unterberg
+Unterbäch, 下貝赫
 Unterbächen
 Unterdettigen
 Unterdorf
@@ -6906,7 +6906,6 @@ Waldenburg, Waldenburg BL, Вальденбург, 瓦尔登堡
 Waldhaus, Flims Waldhaus
 Waldheim
 Waldhäusern
-Waldi, Вельди, 韋爾迪
 Waldibrücke
 Waldkirch
 Waldried
@@ -6938,7 +6937,6 @@ Wampflen
 Wangen, Wangen SZ, Wangen b. Dübendorf, Wangen b. Olten
 Wangen an der Aare, Ванген-на-Аре, 阿勒河畔旺根
 Wangenried
-Wangi, Венги, 文吉
 Wangs
 Wanna
 Wanne
@@ -7129,8 +7127,10 @@ Wyssachen, Висахен, 維薩興
 Wyssbach
 Wyssthürli
 Wädenswil, Веденсвиль, 韋登斯維爾
+Wäldi, Вельди, 韋爾迪
 Wändel
 Wändhüslen
+Wängi, Венги, 文吉
 Wölflinswil, Вёльфлинсвиль, 韋夫林斯維爾
 Wöschnau
 Wüeri

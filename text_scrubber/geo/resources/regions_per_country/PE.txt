@@ -110,7 +110,7 @@ Acequia Pomape
 Acequia Quefe
 Acequia Reque
 Acequia Reyes
-Acequia San Agustin
+Acequia San Agustín
 Acequia San Antonio
 Acequia San Fernandito
 Acequia San Jacinto, Acequin San Jacinto
@@ -373,7 +373,7 @@ Altos Bernales
 Altos Chulibaya
 Altos Cinto
 Altos De La Bruja
-Altos Huacan
+Altos Huacán
 Altos La Colorada, Alto La Colorada
 Altos La Dura
 Altos Lagarto, Altos de Lagarto
@@ -879,7 +879,7 @@ Bolivar Alto
 Bolognesi
 Bombo, Rio Bambo
 Bombón
-Boqueron, Boquepón
+Boquerón, Boquepón
 Boquerón del Padre Abad, Boquerón Abad
 Botija
 Botija Cruz Loma
@@ -1623,7 +1623,6 @@ Cerro Aguas Calientes
 Cerro Aguas Huarco
 Cerro Aguash Huarco
 Cerro Aguashcocha
-Cerro Aguila
 Cerro Aguilayoc
 Cerro Aguillane, Aquillane
 Cerro Agujero León
@@ -1825,9 +1824,9 @@ Cerro Alma Huagana
 Cerro Alma Mendez, Cerros Alma Méndez
 Cerro Alma Pampana
 Cerro Almaccasa
-Cerro Almacen
 Cerro Almachayoc
 Cerro Almachayocc
+Cerro Almacén
 Cerro Almallojasa
 Cerro Almanaque
 Cerro Almarumi
@@ -2021,11 +2020,9 @@ Cerro Anamaray
 Cerro Anandane
 Cerro Anani Condori
 Cerro Ananpunta, Cerros Ananpunta
-Cerro Ananta
 Cerro Anarhuane
 Cerro Anascancha
 Cerro Anash
-Cerro Anaspampa
 Cerro Anasquima
 Cerro Anasto
 Cerro Anatahue
@@ -2189,7 +2186,6 @@ Cerro Angostranca
 Cerro Angostura
 Cerro Angulo
 Cerro Aniapunta
-Cerro Animas
 Cerro Animasnioc
 Cerro Aniyayoc
 Cerro Anja Orcco
@@ -2742,7 +2738,7 @@ Cerro Ayhuari
 Cerro Ayhuarpampa
 Cerro Ayhuin
 Cerro Aylana
-Cerro Aymara
+Cerro Aymará
 Cerro Aymará Cruz
 Cerro Aymaña
 Cerro Aymes
@@ -2769,7 +2765,6 @@ Cerro Azuelayocc
 Cerro Azufranco
 Cerro Azufre
 Cerro Azufrine
-Cerro Azul
 Cerro Azul Cocha
 Cerro Azul Cuncush
 Cerro Azul Gaga
@@ -2792,17 +2787,20 @@ Cerro Azulorjo
 Cerro Azulparara
 Cerro Azulurco
 Cerro Azúcar Sasso
+Cerro Azúl
 Cerro Azúl Chico
 Cerro Azúl Pisho
 Cerro Aña Pucara Pampa
 Cerro Añache
 Cerro Añalque
 Cerro Añalqui
+Cerro Añanta
 Cerro Añapaca
 Cerro Añarani
 Cerro Añas Jasa
 Cerro Añascayhuas
 Cerro Añashuacra
+Cerro Añaspampa
 Cerro Añatoyoc
 Cerro Añaujasa
 Cerro Añayanca
@@ -2820,12 +2818,12 @@ Cerro Balcan
 Cerro Balcanioc
 Cerro Balcho
 Cerro Balco
-Cerro Balcon
 Cerro Balconcillo
 Cerro Balcones
 Cerro Balconnioc
 Cerro Balconorcco
 Cerro Balconpata
+Cerro Balcón
 Cerro Balcón Chaja
 Cerro Balcón de Oro
 Cerro Balcón del Diablo
@@ -3067,7 +3065,7 @@ Cerro Cabeza de Toro
 Cerro Cabeza de Vaca
 Cerro Cabeza del Toro
 Cerro Cabezas
-Cerro Cabezon
+Cerro Cabezón
 Cerro Cabildo
 Cerro Cabildo Punto
 Cerro Cabilduyoc
@@ -3181,10 +3179,10 @@ Cerro Cahuacoto
 Cerro Cahuacucho
 Cerro Cahuamarca
 Cerro Cahuan
-Cerro Cahuana
 Cerro Cahuaran
 Cerro Cahuarina
 Cerro Cahuayhuanan
+Cerro Cahuaña
 Cerro Cahuicancha
 Cerro Cahuin
 Cerro Cahuituyoc, Cahuituyoc, Kawituyuq
@@ -3321,9 +3319,9 @@ Cerro Callcanmachay
 Cerro Callco
 Cerro Calle
 Cerro Callejn
-Cerro Callejon
 Cerro Callejone
 Cerro Callejones
+Cerro Callejón
 Cerro Callejón Cotra
 Cerro Callejón de Piedra
 Cerro Callenueva
@@ -3436,8 +3434,6 @@ Cerro Canal Huaicco
 Cerro Canario
 Cerro Canasan
 Cerro Canastones
-Cerro Canay
-Cerro Canaypata
 Cerro Cancacho
 Cerro Cancahuain
 Cerro Cancahuane
@@ -3552,8 +3548,8 @@ Cerro Capana
 Cerro Capanati
 Cerro Capani Alto
 Cerro Caparaja
-Cerro Caparina
 Cerro Caparrosa
+Cerro Caparína
 Cerro Capascocha
 Cerro Capashiari
 Cerro Capaso
@@ -3642,7 +3638,6 @@ Cerro Carasuco
 Cerro Caratumba
 Cerro Caraupata
 Cerro Carbajal
-Cerro Carbon
 Cerro Carbonada, Cerro Huaytayaco
 Cerro Carboncosana
 Cerro Carboncuyocc
@@ -3651,6 +3646,7 @@ Cerro Carbonero
 Cerro Carbonnioc
 Cerro Carbun Ruan
 Cerro Carbunco
+Cerro Carbón
 Cerro Carbón Mina
 Cerro Carbón Punta
 Cerro Carbón Rurana
@@ -3930,14 +3926,16 @@ Cerro Caña Dulce
 Cerro Cañacchua
 Cerro Cañan Jasa
 Cerro Cañas
+Cerro Cañay
 Cerro Cañayjasa
 Cerro Cañayoc
 Cerro Cañayoroco
+Cerro Cañaypata
 Cerro Cañete
 Cerro Cañigual
 Cerro Cañipaco
 Cerro Cañoncillo
-Cerro Cañonpunta
+Cerro Cañónpunta
 Cerro Ccacasera
 Cerro Ccacca Orcco
 Cerro Ccaccaan
@@ -3970,8 +3968,8 @@ Cerro Ccahuana
 Cerro Ccahuani
 Cerro Ccahuaricuna
 Cerro Ccahuaymarca
-Cerro Ccahuina
 Cerro Ccahuiray
+Cerro Ccahuiña
 Cerro Ccaimenta
 Cerro Ccairani
 Cerro Ccaisampo
@@ -4029,7 +4027,6 @@ Cerro Ccasccane
 Cerro Ccatahuasi
 Cerro Ccatansa
 Cerro Ccatun Ccoime
-Cerro Ccatun Rumi
 Cerro Ccatunccahuana
 Cerro Ccatuncceua
 Cerro Ccatuncorrarrea
@@ -4041,6 +4038,7 @@ Cerro Ccatunrumi, Cerros Ccatun Rumi
 Cerro Ccatunsayhua
 Cerro Ccatunsorayocc
 Cerro Ccatún
+Cerro Ccatún Rumi
 Cerro Ccayarayoc
 Cerro Ccaycco, Ocaycco, Qayqu
 Cerro Ccayllaccasa
@@ -4190,7 +4188,6 @@ Cerro Cerrillos Negros
 Cerro Cerripe
 Cerro Cerritambo
 Cerro Cetima
-Cerro Ceñiga, Cerro Sonco Marca
 Cerro Chabarra
 Cerro Chabul
 Cerro Chaca
@@ -5088,10 +5085,10 @@ Cerro Chuagi Pahuagui
 Cerro Chuajayoc
 Cerro Chuajocha
 Cerro Chualtaco
-Cerro Chuana
 Cerro Chuanorcco
 Cerro Chuarga
 Cerro Chuaujioc
+Cerro Chuaña
 Cerro Chuañuma, Chuañuma
 Cerro Chuañupunta
 Cerro Chubiraca
@@ -5516,7 +5513,6 @@ Cerro Cochahuana
 Cerro Cochajasa
 Cerro Cochalla
 Cerro Cochamarca
-Cerro Cochan
 Cerro Cochancochan
 Cerro Cochane
 Cerro Cochanya
@@ -5539,6 +5535,7 @@ Cerro Cochinilla, Cerro Cochimilla
 Cerro Cochino
 Cerro Cocho Orco
 Cerro Cochor
+Cerro Cochán
 Cerro Cocinas, Cerro Cosinas
 Cerro Coco
 Cerro Cocoe
@@ -5552,7 +5549,7 @@ Cerro Cocurria
 Cerro Codo
 Cerro Codortia
 Cerro Cofrada
-Cerro Cofradia
+Cerro Cofradía
 Cerro Cogotudo
 Cerro Cogón
 Cerro Cohua Huacano
@@ -5729,20 +5726,16 @@ Cerro Condermachay
 Cerro Condirillo
 Cerro Condo Tapa
 Cerro Condolli
-Cerro Condor
-Cerro Condor Arma, Cerro Condorarme
 Cerro Condor Armacuana
 Cerro Condor Armanan
 Cerro Condor Cancha
 Cerro Condor Cerca
 Cerro Condor Chico
-Cerro Condor Condor
 Cerro Condor Huanca
 Cerro Condor Huayin, Condor Huayin
 Cerro Condor Jaja
 Cerro Condor Pampa
 Cerro Condor Pozo
-Cerro Condor Punta, Kuntur Punta
 Cerro Condor Pununan
 Cerro Condor Rumillo
 Cerro Condor Sayana, Cerro Coya-Coya
@@ -5786,10 +5779,8 @@ Cerro Condoreja
 Cerro Condorgaga
 Cerro Condorguaguachave, Condorguaguachave, Kuntur Wawachawi
 Cerro Condorhuachana
-Cerro Condorhuachanan, Condorhuachanan, Kuntur Wachanan
 Cerro Condorhuachanja
 Cerro Condorhuaganan
-Cerro Condorhuain, Condorhuain), Kuntur Wayin
 Cerro Condorhuain Chico
 Cerro Condorhuain Grande
 Cerro Condorhuanca
@@ -5806,7 +5797,7 @@ Cerro Condorine
 Cerro Condoripa
 Cerro Condoriqueña
 Cerro Condoriqueño
-Cerro Condoriquina
+Cerro Condoriquiña
 Cerro Condorira
 Cerro Condorire
 Cerro Condoris-manan
@@ -5819,7 +5810,6 @@ Cerro Condorjarja
 Cerro Condorjasa
 Cerro Condorjasha
 Cerro Condorjipiña
-Cerro Condormachay
 Cerro Condormarca
 Cerro Condormaña
 Cerro Condornasa
@@ -5829,14 +5819,13 @@ Cerro Condororco
 Cerro Condorpa
 Cerro Condorpa Tianan
 Cerro Condorpallana
-Cerro Condorpata
 Cerro Condorpiana
 Cerro Condorpillo
 Cerro Condorpun
 Cerro Condorpuna
 Cerro Condorpuquio
 Cerro Condorpuñuna
-Cerro Condorquina
+Cerro Condorquiña
 Cerro Condorraylla
 Cerro Condorsalla, Condorsalla, Kuntur Salla
 Cerro Condorsallana
@@ -5846,7 +5835,6 @@ Cerro Condorsaya
 Cerro Condorsayana
 Cerro Condorsayhua
 Cerro Condorsenca
-Cerro Condorsencca, Kuntur Sinqa
 Cerro Condorsenga
 Cerro Condorsenja, Condorshenga, Kuntur Sinqa
 Cerro Condortacunan
@@ -5854,7 +5842,6 @@ Cerro Condortaichana
 Cerro Condortana
 Cerro Condortanan
 Cerro Condortia
-Cerro Condortiana, Kuntur Tiyana
 Cerro Condortillana
 Cerro Condorumi
 Cerro Condorvado
@@ -5870,12 +5857,12 @@ Cerro Conella
 Cerro Conga
 Cerro Congo
 Cerro Congompe
-Cerro Congona
 Cerro Congonapata
 Cerro Congonza
 Cerro Congopata
 Cerro Congoques
 Cerro Congormarca
+Cerro Congoña
 Cerro Congón
 Cerro Conito
 Cerro Cono Orco
@@ -5957,7 +5944,6 @@ Cerro Cordillera Negra
 Cerro Cordillera de Los Sahuamerios
 Cerro Cordillera del Huabo
 Cerro Cordilleras
-Cerro Cordova
 Cerro Coriac
 Cerro Coricancha
 Cerro Corichacra
@@ -6108,8 +6094,8 @@ Cerro Crespo
 Cerro Crespón
 Cerro Cresta
 Cerro Cresta de Buitre
-Cerro Creston
 Cerro Creston Grande
+Cerro Crestón
 Cerro Crestón de Condorcocha
 Cerro Criollo
 Cerro Cristal
@@ -6383,7 +6369,6 @@ Cerro Cunca Aycha
 Cerro Cuncaicha
 Cerro Cuncainioj
 Cerro Cuncalayac
-Cerro Cuncan
 Cerro Cuncani Punta
 Cerro Cuncapunta
 Cerro Cuncarana
@@ -6405,6 +6390,7 @@ Cerro Cuncus, Cuncus, Kunkus
 Cerro Cuncush, Kunkush
 Cerro Cuncush Punta
 Cerro Cuncusmanfac
+Cerro Cuncán
 Cerro Cuncán Punta
 Cerro Cuncún
 Cerro Cunduruma
@@ -6572,26 +6558,38 @@ Cerro Cuñica
 Cerro Cuñico
 Cerro Cántaro Mocho
 Cerro Cármen Alto
+Cerro Céñiga, Cerro Sonco Marca
+Cerro Cóndor
+Cerro Cóndor Arma, Cerro Condorarme
 Cerro Cóndor Cenca
 Cerro Cóndor Cerro
 Cerro Cóndor Chunca
 Cerro Cóndor Cuca
+Cerro Cóndor Cóndor
 Cerro Cóndor Huain
 Cerro Cóndor Huaracana
 Cerro Cóndor Lachina
 Cerro Cóndor Matanga
 Cerro Cóndor Muyunan, Kuntur Muyunan
 Cerro Cóndor Pata
+Cerro Cóndor Punta, Kuntur Punta
 Cerro Cóndor Puñuma
 Cerro Cóndor Puñuna, Kuntur Puñuna
 Cerro Cóndor Senja
 Cerro Cóndorcalachayoc
 Cerro Cóndorccasha
 Cerro Cóndorccayo, Cerro Condorcallo
+Cerro Cóndorhuachanan, Condorhuachanan, Kuntur Wachanan
 Cerro Cóndorhuacta, Cóndorhuacta, Kuntur Waqta
+Cerro Cóndorhuain, Condorhuain), Kuntur Wayin
 Cerro Cóndorhuiri, Cerro Cundurhuiri
+Cerro Cóndormachay
 Cerro Cóndornioc, Cerro Condernnioc
+Cerro Cóndorpata
+Cerro Cóndorsencca, Kuntur Sinqa
+Cerro Cóndortiana, Kuntur Tiyana
 Cerro Cóndortierra
+Cerro Córdova
 Cerro Damianenase
 Cerro Danzana Pampa
 Cerro Danzano
@@ -6680,7 +6678,6 @@ Cerro El Café
 Cerro El Calvario, Cerro El Cainario
 Cerro El Canoso
 Cerro El Cardo
-Cerro El Carmen
 Cerro El Carnero
 Cerro El Carrizal
 Cerro El Carrizo
@@ -6698,7 +6695,6 @@ Cerro El Chivo
 Cerro El Chungo, Cerro Chungo
 Cerro El Chunque
 Cerro El Coche
-Cerro El Condor
 Cerro El Conejo
 Cerro El Cono
 Cerro El Coro
@@ -6706,6 +6702,8 @@ Cerro El Cortaderal
 Cerro El Cuervo
 Cerro El Cura
 Cerro El Cuy
+Cerro El Cármen
+Cerro El Cóndor
 Cerro El Diablo, Cerro Vigil
 Cerro El Duque, Cerro Duque
 Cerro El Durmienta
@@ -6855,7 +6853,7 @@ Cerro Escaleria
 Cerro Escalerilla
 Cerro Escallena
 Cerro Escaloan
-Cerro Escalon
+Cerro Escalón
 Cerro Escalón Punta
 Cerro Escaparate
 Cerro Eschorotuma
@@ -6998,7 +6996,7 @@ Cerro Frejol
 Cerro Frejolito
 Cerro Frente Alta
 Cerro Frontera
-Cerro Fronton, Cerro Frontonpata
+Cerro Frontón, Cerro Frontonpata
 Cerro Frontón de La Monja, Cerro Frontón de La Monja Chica
 Cerro Frutilla
 Cerro Frutillachayoc
@@ -7096,9 +7094,9 @@ Cerro Gato
 Cerro Gato Viejo
 Cerro Gauna
 Cerro Gavia
-Cerro Gavilan, Cerro Gabilán
 Cerro Gavilanes
 Cerro Gavilanushco
+Cerro Gavilán, Cerro Gabilán
 Cerro Gavina Punta
 Cerro Gayan Punta
 Cerro Gayco
@@ -7285,8 +7283,8 @@ Cerro Hierva Buena
 Cerro Hieso
 Cerro Higos Masana
 Cerro Higuerane
-Cerro Higueron, Cerro Higuera
 Cerro Higueros
+Cerro Higuerón, Cerro Higuera
 Cerro Hihuanas
 Cerro Hilarata
 Cerro Hilario
@@ -7662,11 +7660,9 @@ Cerro Huamanga
 Cerro Huamangaga
 Cerro Huamangayoc
 Cerro Huamangore, Huamangore
-Cerro Huamanhuachana
 Cerro Huamanhuachanan
 Cerro Huamanhuaita
 Cerro Huamanhutac
-Cerro Huamani
 Cerro Huamani Loma
 Cerro Huamanichapunta
 Cerro Huamanihuayta
@@ -7708,6 +7704,7 @@ Cerro Huamantimpa
 Cerro Huamantirca
 Cerro Huamanuiri
 Cerro Huamanyapata
+Cerro Huamaní
 Cerro Huamarillo
 Cerro Huamarquin
 Cerro Huamash
@@ -7742,8 +7739,8 @@ Cerro Huamurca
 Cerro Huamán Corral
 Cerro Huamán Huallpa
 Cerro Huamán Huillca
+Cerro Huamánhuachana
 Cerro Huana Quillca
-Cerro Huanac
 Cerro Huanacachi
 Cerro Huanacaure
 Cerro Huanacauri
@@ -7793,7 +7790,7 @@ Cerro Huancamarca, Wank'a Marka
 Cerro Huancamayo
 Cerro Huancana
 Cerro Huancanculli
-Cerro Huancane
+Cerro Huancané
 Cerro Huancapampa
 Cerro Huancapanteón
 Cerro Huancapasa
@@ -8055,7 +8052,6 @@ Cerro Huarmi Huañushga
 Cerro Huarmi Huañushgan
 Cerro Huarmi Puquio
 Cerro Huarmiajo
-Cerro Huarmicocha
 Cerro Huarmicupasha
 Cerro Huarmihuanan
 Cerro Huarmihuanusa
@@ -8074,6 +8070,7 @@ Cerro Huarmislla
 Cerro Huarmitana
 Cerro Huarmitayana
 Cerro Huarmunta
+Cerro Huarmícocha
 Cerro Huarnanripa
 Cerro Huaro
 Cerro Huaro Mayoc
@@ -8184,11 +8181,11 @@ Cerro Huaychao Chico
 Cerro Huaychao Marca
 Cerro Huaychao Punta
 Cerro Huaychaopata
-Cerro Huaychau
 Cerro Huaychau Punta
 Cerro Huaychaucala
 Cerro Huaychaucancha
 Cerro Huaychaumarca
+Cerro Huaychaú
 Cerro Huayche
 Cerro Huaycho
 Cerro Huaychocancha
@@ -8314,10 +8311,10 @@ Cerro Huayrachina
 Cerro Huayracpata
 Cerro Huayrahuinto
 Cerro Huayrana
-Cerro Huayranan
 Cerro Huayranasi
 Cerro Huayrancca
 Cerro Huayrane
+Cerro Huayranán
 Cerro Huayrapata
 Cerro Huayrape
 Cerro Huayrapunta
@@ -8369,12 +8366,13 @@ Cerro Huayuncani
 Cerro Huayuncayoc, Huayuncayoc, Wayunkayuq
 Cerro Huayuncayocc
 Cerro Huayura
-Cerro Huayuri
 Cerro Huayuri Chico, Cerros Hualluri
 Cerro Huayuril
+Cerro Huayurí
 Cerro Huayán
 Cerro Huaña
 Cerro Huaña-huaña
+Cerro Huañac
 Cerro Huañacagua
 Cerro Huañacancha
 Cerro Huañahuy-Mayca
@@ -8516,8 +8514,8 @@ Cerro Huinochuco
 Cerro Huinso, Huinso, Winsu
 Cerro Huinto
 Cerro Huintoc
-Cerro Huinton
 Cerro Huintun
+Cerro Huintón
 Cerro Huinuyo
 Cerro Huipián
 Cerro Huiquispunta
@@ -9069,9 +9067,9 @@ Cerro Jahuay Largo
 Cerro Jahuaycito
 Cerro Jahuayquillay
 Cerro Jahueca
-Cerro Jahui
 Cerro Jahuiña
 Cerro Jahuiña Punta
+Cerro Jahuí
 Cerro Jaico, Jaico, Qayqu
 Cerro Jailape
 Cerro Jailín
@@ -9304,24 +9302,21 @@ Cerro Jatun Jona
 Cerro Jatun Juan
 Cerro Jatun Loma
 Cerro Jatun Mita
-Cerro Jatun Monte
 Cerro Jatun Omash
 Cerro Jatun Orcco
 Cerro Jatun Orjo
 Cerro Jatun Pacchapata
 Cerro Jatun Palma
-Cerro Jatun Pampa
 Cerro Jatun Paria Orjo
 Cerro Jatun Pasamuña
 Cerro Jatun Pata
-Cerro Jatun Plvora, Cerro Jatun Pólvora
+Cerro Jatun Plvora, Cerro Jatun Polvora
 Cerro Jatun Potrero
 Cerro Jatun Pucará
 Cerro Jatun Pucro
 Cerro Jatun Punta
 Cerro Jatun Quecga
 Cerro Jatun Racra
-Cerro Jatun Rumi
 Cerro Jatun Sallaco
 Cerro Jatun Siri
 Cerro Jatun Sorpo
@@ -9397,6 +9392,9 @@ Cerro Jatuuloma
 Cerro Jatún Condorgaga, Condorgaga, Kuntur Qaqa
 Cerro Jatún Convento
 Cerro Jatún Huasi, Hatun Wasi, Jatun Huasi
+Cerro Jatún Monte
+Cerro Jatún Pampa
+Cerro Jatún Rumi
 Cerro Jatún Sirhuis
 Cerro Jaujiño
 Cerro Jauranga, Cerro Fabranga, Cerro Pabranga
@@ -9475,7 +9473,7 @@ Cerro Jeropurga
 Cerro Jerucanchanan
 Cerro Jerujirca
 Cerro Jerusalem
-Cerro Jerusalen
+Cerro Jerusalén
 Cerro Jerú
 Cerro Jescca
 Cerro Jesccichayocc
@@ -10195,11 +10193,9 @@ Cerro Lenja
 Cerro Leon Huanganan
 Cerro Leon Huatana
 Cerro Leon Ojana
-Cerro Leon Pata
 Cerro Leon Ranra
 Cerro Leona
 Cerro Leonchaga
-Cerro Leoncocha
 Cerro Leonera
 Cerro Leonero
 Cerro Leones
@@ -10233,11 +10229,13 @@ Cerro León Majana
 Cerro León Orjo
 Cerro León Pahuayin
 Cerro León Pajare
+Cerro León Pata
 Cerro León Pucllana
 Cerro León Pununan
 Cerro León Purca
 Cerro León Rume
 Cerro León Rumi
+Cerro Leóncocha
 Cerro Leónhuachanan
 Cerro Leónniyoc
 Cerro Leónpitacana
@@ -10335,7 +10333,6 @@ Cerro Lipiag
 Cerro Lipogia
 Cerro Liquiña
 Cerro Lircan
-Cerro Lirio
 Cerro Lirio Jasa
 Cerro Lisalle
 Cerro Lisio
@@ -10346,7 +10343,6 @@ Cerro Litutoyo
 Cerro Liuclluoc
 Cerro Liula
 Cerro Liuli
-Cerro Liulipampa
 Cerro Liuyac
 Cerro Liuyacpunta
 Cerro Livina
@@ -10693,7 +10689,6 @@ Cerro Loropuquio
 Cerro Loroyoc
 Cerro Los Altos
 Cerro Los Andes
-Cerro Los Angeles
 Cerro Los Antiguos
 Cerro Los Arrayanes
 Cerro Los Arévalos
@@ -10734,10 +10729,10 @@ Cerro Los Linderos
 Cerro Los Lomos
 Cerro Los Loros
 Cerro Los López
-Cerro Los Medanos, Cerros los Médanos
 Cerro Los Mellizos
 Cerro Los Mitos
 Cerro Los Mogotes
+Cerro Los Médanos, Cerros Los Medanos
 Cerro Los Negritos
 Cerro Los Pabellones, Cerros de la Morena, Cerros de los Pabellones
 Cerro Los Pacaes
@@ -10772,6 +10767,7 @@ Cerro Los Tres Cerritos
 Cerro Los Unes
 Cerro Los Zorrones
 Cerro Los dos Cerritos
+Cerro Los Ángeles
 Cerro Los Órganos
 Cerro Losa
 Cerro Losiahuasi
@@ -10835,8 +10831,8 @@ Cerro Luntuni
 Cerro Lunture
 Cerro Luntuschico
 Cerro Lupali
-Cerro Lupin
 Cerro Lupinaira
+Cerro Lupín
 Cerro Luque Orjo
 Cerro Lurigancho
 Cerro Lurincancha
@@ -10857,6 +10853,8 @@ Cerro Luychuhuasi
 Cerro Luychujasa
 Cerro Luñe
 Cerro Lácata
+Cerro Lírio
+Cerro Líulipampa
 Cerro López
 Cerro Lúcumo
 Cerro Maca
@@ -11066,7 +11064,6 @@ Cerro Mancallacta
 Cerro Mancallpa
 Cerro Mancamanca
 Cerro Mancamito
-Cerro Mancan
 Cerro Mancan Pucro
 Cerro Mancanchito
 Cerro Mancanchucro
@@ -11090,6 +11087,7 @@ Cerro Manchán, Cerro Manchal
 Cerro Mancohuilca, Cerro Mancuillca
 Cerro Mancra Ucro Jurao
 Cerro Mancucur
+Cerro Mancán
 Cerro Mandor
 Cerro Mandor Grande
 Cerro Mangalpa
@@ -11244,7 +11242,6 @@ Cerro Mariposa
 Cerro Mariscadero
 Cerro Mariscal
 Cerro Marjarenja
-Cerro Marmol
 Cerro Marompampa
 Cerro Marona
 Cerro Marota
@@ -11319,12 +11316,12 @@ Cerro Mataorjo
 Cerro Matapapuquio
 Cerro Matapunta
 Cerro Matar Esquina
-Cerro Matara
 Cerro Mataralla
 Cerro Matarani
 Cerro Matarapunta
 Cerro Matarcota
 Cerro Matarojasa
+Cerro Matará
 Cerro Matashuyo
 Cerro Matavacas
 Cerro Matca
@@ -11372,7 +11369,6 @@ Cerro Meccane
 Cerro Mechoso
 Cerro Mecro
 Cerro Medano
-Cerro Medano Grande, Cerros Medanos Grande
 Cerro Medano de Lagunilla
 Cerro Media Luna, Cerros Medias Lunas
 Cerro Media Señal
@@ -11491,7 +11487,6 @@ Cerro Mina Inca
 Cerro Mina María
 Cerro Mina Orjo
 Cerro Mina Pata
-Cerro Mina Punta
 Cerro Mina Rosario
 Cerro Mina Ucro
 Cerro Mina Vieja
@@ -11631,13 +11626,13 @@ Cerro Mojenete Orjo
 Cerro Mojica
 Cerro Mojineta
 Cerro Mojinete
-Cerro Mojon
 Cerro Mojona
 Cerro Mojone
 Cerro Mojoni
 Cerro Mojonnioc
 Cerro Mojunahuito
 Cerro Mojune
+Cerro Mojón
 Cerro Mojón Grande
 Cerro Mojón Loma
 Cerro Mojón Punta
@@ -11689,7 +11684,6 @@ Cerro Monigote
 Cerro Monigotes Pata
 Cerro Moniguindo
 Cerro Monjas
-Cerro Mono
 Cerro Monopata
 Cerro Monos
 Cerro Monsanayoc
@@ -11817,6 +11811,7 @@ Cerro Moyomonte
 Cerro Moyontuyoc
 Cerro Moyopampa
 Cerro Moyorcu
+Cerro Moño
 Cerro Muahca, Cerro Musco
 Cerro Mucala
 Cerro Muchacayda
@@ -11866,7 +11861,6 @@ Cerro Mullugole
 Cerro Mullune
 Cerro Mullurcun
 Cerro Mulululo
-Cerro Muna
 Cerro Muna Cruz
 Cerro Munachita
 Cerro Munaypata, Cerro Munaypta
@@ -11932,6 +11926,7 @@ Cerro Muyumonte
 Cerro Muyumuyo Pampa
 Cerro Muyupata
 Cerro Muyurina
+Cerro Muña
 Cerro Muñachayoj
 Cerro Muñanca
 Cerro Muñancapata
@@ -11939,11 +11934,14 @@ Cerro Muñane
 Cerro Muñani
 Cerro Muñaorco
 Cerro Muñaorjo
+Cerro Mármol
 Cerro Márquez
+Cerro Médano Grande, Cerros Medanos Grande
 Cerro Médano Negro
 Cerro Médanos
 Cerro Ména
 Cerro Mína Jircapunta
+Cerro Mína Punta
 Cerro Mío Orjo
 Cerro Míraflores Punta
 Cerro Nacupillo
@@ -11970,8 +11968,6 @@ Cerro Nasaparco
 Cerro Naticocha, Naticocha
 Cerro Natividad
 Cerro Naupajayan
-Cerro Naupallacta
-Cerro Naupamarca
 Cerro Nauquipa
 Cerro Naurahuasi
 Cerro Navarrete
@@ -12026,7 +12022,6 @@ Cerro Ninash
 Cerro Ninaucro, Nina Ukru, Ninaucro
 Cerro Ninaymarca, Cerro Minaymarca
 Cerro Niniaycocha
-Cerro Nino Orjo
 Cerro Nio Orcco
 Cerro Nipon
 Cerro Niquea
@@ -12040,6 +12035,7 @@ Cerro Niño
 Cerro Niño Loma
 Cerro Niño Orcco
 Cerro Niño Orco
+Cerro Niño Orjo
 Cerro Niño Pata
 Cerro Niño Punta
 Cerro Niñomocco
@@ -12064,7 +12060,6 @@ Cerro Numaiay
 Cerro Numerayoc
 Cerro Nunatanga
 Cerro Nununa
-Cerro Nununya
 Cerro Nunya
 Cerro Nupejajnicure
 Cerro Nupejajnicure Punta
@@ -12231,12 +12226,12 @@ Cerro Orcochillame
 Cerro Orcocrúz
 Cerro Orcohuasi, Cerro Jolpahuayjo
 Cerro Orcohuasina
-Cerro Orcona
 Cerro Orconcancha
 Cerro Orconcito
 Cerro Orcone
 Cerro Orcopampa
 Cerro Orcoypiña
+Cerro Orcoña
 Cerro Orcuncancha
 Cerro Orcón
 Cerro Oreja
@@ -12322,10 +12317,10 @@ Cerro Oyrococha
 Cerro Oyrogalán
 Cerro Paacollo
 Cerro Pabello
-Cerro Pabellon
 Cerro Pabellones
 Cerro Pabellonnioc
 Cerro Pabelluni
+Cerro Pabellón
 Cerro Pabilone
 Cerro Pablo
 Cerro Pabluyoi
@@ -12401,7 +12396,6 @@ Cerro Pachascunca
 Cerro Pachasnioc, Pachasniyuq
 Cerro Pachaucha
 Cerro Pachaymarca
-Cerro Pache
 Cerro Pacheco
 Cerro Pacherrez, Cerro Pacherras, Cerros Pacherres
 Cerro Pachitajllana
@@ -12409,6 +12403,7 @@ Cerro Pachjire
 Cerro Pachuata
 Cerro Pachucocha
 Cerro Pachuhuanca
+Cerro Paché
 Cerro Pachón
 Cerro Pacirca
 Cerro Pacla
@@ -12578,7 +12573,6 @@ Cerro Palcoma
 Cerro Palcota
 Cerro Palgas
 Cerro Palguiño
-Cerro Palia
 Cerro Palica
 Cerro Palián
 Cerro Paljacha
@@ -12671,6 +12665,7 @@ Cerro Paltaymicuna, Cerro Chitiapunco
 Cerro Palto, Cerro Palton
 Cerro Palucho
 Cerro Palumani
+Cerro Palía
 Cerro Pam Pam
 Cerro Pamaca
 Cerro Pambarumbe
@@ -12731,9 +12726,9 @@ Cerro Pampilla Verde
 Cerro Pamplona
 Cerro Pan Azúcar
 Cerro Pan Viejo
-Cerro Pan de Azucar
 Cerro Pan de Azucaro
 Cerro Pan de Azufre
+Cerro Pan de Azúcar
 Cerro Panajirca
 Cerro Panal
 Cerro Panales
@@ -12760,8 +12755,8 @@ Cerro Pantane
 Cerro Pantara
 Cerro Pantatire
 Cerro Pantayco
-Cerro Panteon
 Cerro Panteonero
+Cerro Panteón
 Cerro Panteón Pata
 Cerro Panti
 Cerro Panticasa
@@ -13104,7 +13099,6 @@ Cerro Peluchane
 Cerro Peluche
 Cerro Pelón
 Cerro Pelón Marca
-Cerro Pena Grande
 Cerro Penca
 Cerro Penca Méjico
 Cerro Pencal
@@ -13173,6 +13167,7 @@ Cerro Peña Cogan Cancha
 Cerro Peña Colorada
 Cerro Peña Derumbada
 Cerro Peña Dorada
+Cerro Peña Grande
 Cerro Peña Gritona
 Cerro Peña Higuera, Peña Higuera
 Cerro Peña Llorone
@@ -13306,7 +13301,7 @@ Cerro Piedra Agache
 Cerro Piedra Agujereda
 Cerro Piedra Alta
 Cerro Piedra Angosta
-Cerro Piedra Azul
+Cerro Piedra Azúl
 Cerro Piedra Batán
 Cerro Piedra Blanca
 Cerro Piedra Churcada
@@ -13366,7 +13361,6 @@ Cerro Pihuicha
 Cerro Pijuiccasa
 Cerro Pila
 Cerro Pilacón
-Cerro Pilan
 Cerro Pilancito
 Cerro Pilanco, Pilanco
 Cerro Pilancón
@@ -13406,6 +13400,7 @@ Cerro Pilto
 Cerro Pilu, Cerro Curau
 Cerro Pilugaga
 Cerro Pilutianapampa
+Cerro Pilán
 Cerro Pimbara
 Cerro Pimpinco
 Cerro Pimpón
@@ -13765,9 +13760,9 @@ Cerro Potojani
 Cerro Potongo
 Cerro Potopone
 Cerro Potoscoyo
-Cerro Potosi
 Cerro Potosillo
 Cerro Potosino
+Cerro Potosí
 Cerro Potrerillo
 Cerro Potrero
 Cerro Potrero Chico
@@ -13893,7 +13888,6 @@ Cerro Pucapuncho
 Cerro Pucapunta
 Cerro Pucapuquioloma
 Cerro Pucapurca
-Cerro Pucara, Cerro Pucalá, Pukara
 Cerro Pucara Orjo
 Cerro Pucara Pata
 Cerro Pucara Sombrerune
@@ -13913,6 +13907,7 @@ Cerro Pucarita
 Cerro Pucarpata
 Cerro Pucarumi
 Cerro Pucarumi Punta
+Cerro Pucará, Cerro Pucalá, Pukara
 Cerro Pucará Punta, Pucará Punta, Pukara Punta
 Cerro Pucasalla
 Cerro Pucasallalloc
@@ -14074,12 +14069,12 @@ Cerro Pumacán
 Cerro Pumahermana
 Cerro Pumahuachana
 Cerro Pumahuachanan
-Cerro Pumahuain, Puma Huain, Puma Wayin, Pumahuin
 Cerro Pumahuasi
 Cerro Pumahuasin
 Cerro Pumahuay
 Cerro Pumahuayin
 Cerro Pumahuayín Punta
+Cerro Pumahuaín, Puma Huain, Puma Wayin, Pumahuin
 Cerro Pumahuchana-pata
 Cerro Pumahuento
 Cerro Pumahuilca
@@ -14125,7 +14120,6 @@ Cerro Pumrangra, Puma Ranra
 Cerro Pumunuta
 Cerro Pumurgo
 Cerro Puna
-Cerro Puna Punta
 Cerro Punacullca, Cerros Punaccuilcca
 Cerro Punapacuni
 Cerro Punapampa
@@ -14352,7 +14346,6 @@ Cerro Putupata
 Cerro Pututune
 Cerro Putuyoc
 Cerro Puy Puy
-Cerro Puyac
 Cerro Puyacay
 Cerro Puyana
 Cerro Puyanan Punta, Cerro Puyana Punta
@@ -14361,7 +14354,6 @@ Cerro Puycate
 Cerro Puyho
 Cerro Puyhua
 Cerro Puyhualla
-Cerro Puyhuan
 Cerro Puyhuan Punta
 Cerro Puyhuan Urco
 Cerro Puyhuanccocha, Puyhuanccocha
@@ -14371,6 +14363,7 @@ Cerro Puyhuane
 Cerro Puyhuanniyoc
 Cerro Puyhuas
 Cerro Puyhuasi Alto
+Cerro Puyhuán
 Cerro Puylle
 Cerro Puyman Orcco
 Cerro Puyo Puyune
@@ -14384,6 +14377,7 @@ Cerro Puyuhuan
 Cerro Puyumarca
 Cerro Puyunco
 Cerro Puyupatianani
+Cerro Puña Punta
 Cerro Puñaccancha
 Cerro Puñacoto
 Cerro Puñaña
@@ -14395,6 +14389,7 @@ Cerro Pájaro Bobillo
 Cerro Páramo
 Cerro Pátapo
 Cerro Píllco Mozo
+Cerro Púyac
 Cerro Qquero Pucara
 Cerro Quealla
 Cerro Quebrada Honda
@@ -14466,9 +14461,7 @@ Cerro Quenhuayragra
 Cerro Quenti
 Cerro Quentorani
 Cerro Quentos
-Cerro Quenua
 Cerro Quenua Cuncayoc
-Cerro Quenuane
 Cerro Queopetec
 Cerro Queotonia
 Cerro Quepacc
@@ -14520,8 +14513,10 @@ Cerro Queya Casa
 Cerro Queña-Ranra
 Cerro Queñajaja
 Cerro Queñamocco
+Cerro Queñua
 Cerro Queñua Punta
 Cerro Queñualoma
+Cerro Queñuane
 Cerro Queñuapata
 Cerro Queñuapunta
 Cerro Queñuarane
@@ -14623,9 +14618,9 @@ Cerro Quinampa, Cerro Quinrampa
 Cerro Quinan
 Cerro Quinaquina
 Cerro Quinaquinani, Quinaquinani
-Cerro Quinchin
 Cerro Quincho
 Cerro Quinchomachay, Cerro Qurnchoomachay
+Cerro Quinchín
 Cerro Quinesapata
 Cerro Quinga
 Cerro Quingaicocha
@@ -14880,7 +14875,6 @@ Cerro Raulla
 Cerro Raurane
 Cerro Rauro
 Cerro Raushanca Punta
-Cerro Rayan
 Cerro Rayanioc
 Cerro Rayanjasa
 Cerro Rayapata
@@ -14890,7 +14884,7 @@ Cerro Rayn
 Cerro Rayo Maganan
 Cerro Rayo Magashan
 Cerro Rayo Shitana
-Cerro Rayo Trazanan
+Cerro Rayo Trazanán
 Cerro Rayoccasa
 Cerro Rayochana
 Cerro Rayomajasha
@@ -14911,6 +14905,7 @@ Cerro Rayusja
 Cerro Rayusjarumi
 Cerro Rayusjayoc
 Cerro Rayusta
+Cerro Rayán
 Cerro Razhuilca, Nevado Razuhuillca, Nudo Razuhuilca, Rasuvilca
 Cerro Reccrish
 Cerro Recracancha
@@ -14936,7 +14931,7 @@ Cerro Relonmarca
 Cerro Remate
 Cerro Remates de Santa Cruz
 Cerro Renayoc
-Cerro Reparticion
+Cerro Repartición
 Cerro Repartición Nueva
 Cerro Repecho
 Cerro Repichón
@@ -15386,10 +15381,10 @@ Cerro Sambalay Grande
 Cerro Sambite
 Cerro Sambuyaco
 Cerro Sami Punta
-Cerro San Agustin
-Cerro San Andres
-Cerro San Antonio
+Cerro San Agustín
+Cerro San Andrés
 Cerro San Antonio Grande
+Cerro San António
 Cerro San Bartolo
 Cerro San Bartolomé
 Cerro San Batolome, Cerro San Bartolonioc
@@ -15400,7 +15395,6 @@ Cerro San Carlos
 Cerro San Cayetano
 Cerro San Christóbal
 Cerro San Cosme
-Cerro San Cristobal
 Cerro San Cristóbal Macho
 Cerro San Diego
 Cerro San Esteban
@@ -15421,22 +15415,22 @@ Cerro San Jacinto
 Cerro San Jerónimo
 Cerro San Joaquín
 Cerro San Jorge
-Cerro San Jose
+Cerro San José
 Cerro San José Bajo
-Cerro San Juan
 Cerro San Juan Canchiaco, Cerro Cachiaco, Cerro San Juan de Cachiaco, Cerro San Juan de Cachiato
 Cerro San Juan de Dios
 Cerro San Juan de la Punta
 Cerro San Juanito
-Cerro San Julian
-Cerro San Lazaro
+Cerro San Julián
+Cerro San Juán
 Cerro San Leon
 Cerro San Lorenzo
 Cerro San Lucas
 Cerro San Luis
+Cerro San Lázaro
 Cerro San Marcelo
-Cerro San Martin
 Cerro San Martin Chajina
+Cerro San Martín
 Cerro San Mateo
 Cerro San Miguel
 Cerro San Nicolás
@@ -15491,8 +15485,8 @@ Cerro Sansón
 Cerro Santa
 Cerro Santa Ana
 Cerro Santa Apolonia
-Cerro Santa Barbara
 Cerro Santa Beatriz
+Cerro Santa Bárbara
 Cerro Santa Catalina
 Cerro Santa Clara
 Cerro Santa Cristina
@@ -15505,9 +15499,9 @@ Cerro Santa Isabel
 Cerro Santa Justa
 Cerro Santa Lucía
 Cerro Santa Luisa
-Cerro Santa Maria
 Cerro Santa Marina
-Cerro Santa Monica
+Cerro Santa María
+Cerro Santa Mónica
 Cerro Santa Pata
 Cerro Santa Punta, Cerro Sansa Punta
 Cerro Santa Rita
@@ -16134,7 +16128,6 @@ Cerro Sonccopata
 Cerro Sonco
 Cerro Soncocha
 Cerro Soncopa
-Cerro Sondor
 Cerro Sondorhuaña
 Cerro Sondorona
 Cerro Songareshi
@@ -16382,8 +16375,10 @@ Cerro Suyujaja
 Cerro Suyuje
 Cerro Suyundo
 Cerro Suñihuilca
+Cerro Sán Cristóbal
 Cerro Sánchez
 Cerro Sánchez Cerro
+Cerro Sóndor
 Cerro Sóndor Ccasa
 Cerro Taamaliri
 Cerro Tabacal
@@ -16870,7 +16865,6 @@ Cerro Timpure
 Cerro Timpusja
 Cerro Timpuya
 Cerro Timón
-Cerro Tinacocha
 Cerro Tinagería
 Cerro Tinaguirayoj
 Cerro Tinaja
@@ -16878,7 +16872,7 @@ Cerro Tinajas
 Cerro Tinajayoc, Cerro Tinajayoj, Cerro Tirajoyoj
 Cerro Tinajeo
 Cerro Tinajera
-Cerro Tinajeria
+Cerro Tinajería
 Cerro Tinajo
 Cerro Tinajones
 Cerro Tinajón
@@ -16969,6 +16963,7 @@ Cerro Tiuca, Cerro Tioca
 Cerro Tiujashe
 Cerro Tiza
 Cerro Tizal, Cerro Tisal
+Cerro Tiñacocha
 Cerro Tiñon
 Cerro Tnguche
 Cerro Toca
@@ -17727,9 +17722,9 @@ Cerro Vallacocha
 Cerro Valladares
 Cerro Valverde
 Cerro Vanacancha
-Cerro Vaqueria
 Cerro Vaquero
 Cerro Vaqueruyoc
+Cerro Vaquería
 Cerro Vara Vara
 Cerro Vargas
 Cerro Varial, Cerro Varal
@@ -17790,7 +17785,6 @@ Cerro Verdes
 Cerro Verdesura
 Cerro Viachayoc
 Cerro Viapichis
-Cerro Vibora, Cerro Vívora
 Cerro Vicente Rumi
 Cerro Vicharcocha
 Cerro Vichuya
@@ -17857,7 +17851,6 @@ Cerro Viques
 Cerro Viracocha
 Cerro Viracochasi
 Cerro Virahuanca
-Cerro Virgen
 Cerro Visa Visa
 Cerro Visca
 Cerro Visca Chico
@@ -17920,7 +17913,9 @@ Cerro Volcán
 Cerro Volganani
 Cerro Vuelta del Cerro
 Cerro Vía Tarma
+Cerro Víbora, Cerro Vívora
 Cerro Víbora Cancha
+Cerro Vírgen
 Cerro Wanda
 Cerro Wiscana
 Cerro Wuescana
@@ -17967,7 +17962,7 @@ Cerro Yahuiri
 Cerro Yaiculle
 Cerro Yaire
 Cerro Yaja Huillapan
-Cerro Yale
+Cerro Yalé
 Cerro Yamayo
 Cerro Yambunique
 Cerro Yambur
@@ -18637,19 +18632,21 @@ Cerro los Peligros
 Cerro los Peroles
 Cerro los Pozos
 Cerro uunchayoc
+Cerro Águila
+Cerro Ánimas
 Cerro Ñabos
 Cerro Ñacarenga, Cerro Ñacaranga
 Cerro Ñaccahua
 Cerro Ñaccha Ñaccha
 Cerro Ñagazú
 Cerro Ñahuichan
-Cerro Ñahuin
 Cerro Ñahuin Punta
 Cerro Ñahuin Puquio
 Cerro Ñahuincancha
 Cerro Ñahuincha
 Cerro Ñahuinmarca, Cerro Ñahuiomarco
 Cerro Ñahuinpuquio
+Cerro Ñahuín
 Cerro Ñajca
 Cerro Ñanjasa
 Cerro Ñatinjirca
@@ -18658,7 +18655,9 @@ Cerro Ñauchirca
 Cerro Ñaupachaca
 Cerro Ñaupaderrumbe
 Cerro Ñaupahuasi
+Cerro Ñaupallacta
 Cerro Ñaupallita
+Cerro Ñaupamarca
 Cerro Ñaupamarcana
 Cerro Ñaupañacta
 Cerro Ñauran
@@ -18679,6 +18678,7 @@ Cerro Ñuñule
 Cerro Ñuñun
 Cerro Ñuñungapata
 Cerro Ñuñunhuayo
+Cerro Ñuñunya
 Cerro Ñuñuorcco
 Cerro Ñuñupujo
 Cerros Abra de Sauce
@@ -19168,7 +19168,7 @@ Cerros Salvajal
 Cerros Samillo
 Cerros San Andres
 Cerros San Antonio
-Cerros San Cristobal
+Cerros San Cristóbal
 Cerros San Fernando
 Cerros San Francisco
 Cerros San Francisco de Pachapaque
@@ -19996,7 +19996,7 @@ Cordillera Puagjancha
 Cordillera Raura
 Cordillera Rumi Cruz
 Cordillera San Carlos
-Cordillera San Matias
+Cordillera San Matías
 Cordillera Shipago, Cordillera Chipao
 Cordillera Ticlla
 Cordillera Yanachaga
@@ -20016,7 +20016,6 @@ Cordillera de la Corte
 Cordillera del Cóndor, Cordillera El Condor
 Cordillera del Pantiacolla, Cadena del Pantiacolla, Pantiacolla
 Cordillera la Viuda
-Cordova
 Corhuallapampa
 Coribamba
 Corillera Azul National Park
@@ -20273,6 +20272,7 @@ Cuñumbuqui
 Cármen
 César Vallejo
 Cóndor Puñuna
+Córdova
 Daniel Alomias Robles
 Daniel Hernandez
 Danjamal
@@ -20355,13 +20355,13 @@ El Barco, El Buque
 El Barran
 El Barreteado
 El Boche
-El Boqueron, El Boqueron de San Lorenzo
+El Boquerón, El Boqueron de San Lorenzo
 El Bufadero, El Bufadeso
 El Burro
 El Caballo
 El Cabezo, Cabezo Norte, Cabo San Lorenzo, San Lorenzo Point
 El Cabrero
-El Callejon
+El Callejón
 El Canario
 El Capuli
 El Carmen
@@ -20728,7 +20728,6 @@ Huaca del Palmo
 Huacache
 Huacachi
 Huacamayo
-Huacan
 Huacanquello
 Huacar
 Huacarumi
@@ -20766,6 +20765,7 @@ Huactacancha
 Huacuilcunca
 Huacullani
 Huacuy Paqui
+Huacán
 Huagurocancha
 Huahuana
 Huaipacha, Huyapacha
@@ -20951,7 +20951,7 @@ Huasamayo
 Huascacocha
 Huascaj Cerro
 Huascapaccha
-Huascaran National Park, Huascarán
+Huascaran National Park, Huascaran
 Huascaray
 Huascata Alta
 Huashualaca
@@ -21406,7 +21406,6 @@ Isla Palma Real
 Isla Palmera, Isla Huacamayo
 Isla Palometa, Isla Palma, Isla Tapiay
 Isla Pampa Hermosa
-Isla Pan de Azúcar
 Isla Panetón
 Isla Paranapura, Isla Parapura
 Isla Paranaquira
@@ -21441,6 +21440,7 @@ Isla Pupuña
 Isla Puricho
 Isla Pushaga
 Isla Putumayo
+Isla Pán de Azúcar
 Isla Quicuna
 Isla Quiljata
 Isla Quipatahua, Isla Quipata, Isla Quitapatahua
@@ -21616,8 +21616,8 @@ Isolote El Avión
 Ispulacaypampa, Ishpulacaypampa
 Isqui
 Istmo de Fiscarrald, Fiscarrald, Istmo Fitz-Carrald, Itsmo de Fitzcarrald, Varadero de Fitzcarrald
-Itanacancha
 Itanayoc
+Itañacancha
 Ite
 Itllo Sora
 Ituata
@@ -21839,7 +21839,7 @@ Jumbilla
 Junco
 Junco Marino
 Junicota
-Junin, Departamento Junín, Departamento de Junín, Junín Region, Región de Junín
+Junín, Departamento Junín, Departamento de Junín, Junín Region, Región de Junín
 Juquichaca
 Jurihuayrachina
 Juripaccha
@@ -22046,7 +22046,7 @@ La Trampa
 La Trampilla Chica
 La Tranca
 La Tranquita
-La Union
+La Unión
 La Vaca
 La Vaquita
 La Vega
@@ -22237,7 +22237,7 @@ Laguna Ajuyoccota
 Laguna Alcacocha
 Laguna Alcaycocha
 Laguna Alccoccocha
-Laguna Aleman
+Laguna Alemán
 Laguna Alianeu
 Laguna Alianza
 Laguna Aljacocha
@@ -22267,7 +22267,6 @@ Laguna Ampatune
 Laguna Analgocc
 Laguna Ananea
 Laguna Ananta
-Laguna Anascocha
 Laguna Anatico
 Laguna Ancacocha, Laguna Ancococha
 Laguna Ancapuachanan
@@ -22291,7 +22290,6 @@ Laguna Angelcocha
 Laguna Ango Puma
 Laguna Anguila
 Laguna Anguillayoc
-Laguna Anilcocha
 Laguna Anjacocha
 Laguna Anona
 Laguna Anonillo
@@ -22395,11 +22393,13 @@ Laguna Azul
 Laguna Azul Cocha
 Laguna Azul Pishgo
 Laguna Azulccocha
-Laguna Azulcocha
 Laguna Azuljanca
 Laguna Azulmito
 Laguna Azutcocha
+Laguna Azúlcocha
 Laguna Añaque
+Laguna Añascocha
+Laguna Añilcocha
 Laguna Ballena
 Laguna Balsa
 Laguna Barbosa
@@ -22465,7 +22465,7 @@ Laguna Calpilcocha
 Laguna Calupuyoc
 Laguna Calvario
 Laguna Calzadas
-Laguna Calzoncocha
+Laguna Calzóncocha
 Laguna Camilaca
 Laguna Camote
 Laguna Campacure
@@ -23420,7 +23420,6 @@ Laguna Jarpoc
 Laguna Jasacocha
 Laguna Jasajocha
 Laguna Jasjon
-Laguna Jatun
 Laguna Jatun Ccocha
 Laguna Jatun Cocha
 Laguna Jatun Joca
@@ -23438,6 +23437,7 @@ Laguna Jatunruric
 Laguna Jatunticlla
 Laguna Jatuntunsococha
 Laguna Jatunyuri
+Laguna Jatún
 Laguna Jayllacocha
 Laguna Jayocota
 Laguna Jayuchaca
@@ -23570,16 +23570,16 @@ Laguna Lecleccacocha
 Laguna Lecma
 Laguna Lentahuay
 Laguna Leocadia
-Laguna Leon Cocha, Laguna Racracocha
-Laguna Leoncocha
 Laguna Leopoldino
 Laguna Lequecota
 Laguna Lequeyto
 Laguna Lerccona
 Laguna Levecocha
+Laguna León Cocha, Laguna Racracocha
 Laguna León Huachana
 Laguna León Machay
 Laguna León Pata
+Laguna Leóncocha
 Laguna Lichicoocha
 Laguna Liclishpata
 Laguna Lihuarcocha
@@ -23826,7 +23826,6 @@ Laguna Mushiquipozo
 Laguna Mutacocha
 Laguna Mutanga
 Laguna Mutococha
-Laguna Nahuincocha
 Laguna Nahuircocha
 Laguna Naranjal
 Laguna Nario Cocha
@@ -23880,7 +23879,7 @@ Laguna Oshcococha
 Laguna Osjojocha
 Laguna Ovegeria
 Laguna Oyrococha
-Laguna Pabellon
+Laguna Pabellón
 Laguna Pablillo
 Laguna Pablo
 Laguna Paca
@@ -24079,7 +24078,6 @@ Laguna Pillcocancha
 Laguna Pillo
 Laguna Pillococha
 Laguna Pilrero, Laguna Pitrero
-Laguna Pinacocha
 Laguna Pinahue
 Laguna Pinipini
 Laguna Pinshacocha
@@ -24110,6 +24108,7 @@ Laguna Piuraico
 Laguna Piuray
 Laguna Piuri
 Laguna Piñaccocha
+Laguna Piñacocha
 Laguna Piñi
 Laguna Platillococha
 Laguna Pobresa
@@ -24141,9 +24140,9 @@ Laguna Pucahuasi
 Laguna Pucajaja
 Laguna Pucajirca
 Laguna Pucapuca
-Laguna Pucara
 Laguna Pucaracocha
 Laguna Pucarangra
+Laguna Pucará
 Laguna Pucayacu
 Laguna Puch-Hua
 Laguna Puchis
@@ -24424,7 +24423,7 @@ Laguna Salvado
 Laguna Samaccota
 Laguna Samacota
 Laguna Sambo Cocha
-Laguna San Antonio
+Laguna San António
 Laguna San Bartolome
 Laguna San Felix
 Laguna San Francisco
@@ -24939,8 +24938,8 @@ Laguna Vilanerani
 Laguna Vilcacocha
 Laguna Villán
 Laguna Vinococha
-Laguna Violincocha, Laguna Violín Cocha
 Laguna Violín
+Laguna Violíncocha, Laguna Violín Cocha
 Laguna Viracocha
 Laguna Virota
 Laguna Visca
@@ -25079,6 +25078,7 @@ Laguna del Fraile, Laguna Frayle
 Laguna del Pato
 Laguna del Sondo
 Laguna la Loma
+Laguna Ñahuincocha
 Laguna Ñahuinpuquio
 Laguna Ñahuín
 Laguna Ñapique Chico
@@ -26394,7 +26394,6 @@ Los Alcibiades
 Los Altos
 Los Alumbres
 Los Andenes
-Los Angeles, Hacienda Los Ángeles
 Los Aquijes
 Los Atolladeros
 Los Balsares, Los Balzares
@@ -26435,13 +26434,13 @@ Los Hopcones
 Los Hornillos
 Los Leones
 Los Limones
-Los Medanos
 Los Medanos Chiquitos
 Los Milagros
 Los Mogotes
 Los Molles
 Los Morochucos
 Los Morrillos
+Los Médanos
 Los Médanos Sol
 Los Negros
 Los Olivos
@@ -26460,6 +26459,7 @@ Los Tablones
 Los Tres Ceibos
 Los Tres Cerros
 Los Vichayos, Los Vichayas
+Los Ángeles, Hacienda Los Ángeles
 Lucanas
 Lucero
 Luchapampa
@@ -26640,8 +26640,8 @@ Mariano Nicolas Valcarcel
 Marias
 Mariatana
 Mariscal Benavides
-Mariscal Caceres
 Mariscal Castilla
+Mariscal Cáceres
 Mariscal Ramon Castilla
 Marmot
 Maronilla
@@ -26675,9 +26675,9 @@ Matantán
 Matapalo
 Matapiedra
 Matapuquio
-Matara
 Matara y Comunidad
 Matarum
+Matará
 Matashucro
 Matashuyo
 Matipampa
@@ -26700,7 +26700,6 @@ Mañazo
 Meca Chiquita
 Medano Atravezado
 Medanos Alto del Zorro
-Medanos Orovilca
 Media Botella
 Media Luna
 Medialuna
@@ -26938,6 +26937,7 @@ Médanos Angolo
 Médanos La Joya
 Médanos Laguna Berde
 Médanos Las Avispas
+Médanos Orovílca
 Médanos Siochor
 Médanos Solsol
 Médanos Tres Brazos
@@ -27344,8 +27344,8 @@ Ollais
 Ollantaytambo
 Ollaraya
 Ollbria
-Olleria
 Olleros
+Ollería
 Ollo Ollo
 Olluyo
 Olmos
@@ -27504,7 +27504,7 @@ Palanca
 Palash
 Palca
 Palcamayo
-Palcazu
+Palcazú
 Palco
 Palcones
 Paleozoico
@@ -27828,7 +27828,7 @@ Pampa Coshorococha
 Pampa Cotena
 Pampa Coypajapu
 Pampa Cruz
-Pampa Cruz Verde, Pampa de la Cruz Verde
+Pampa Cruz Verde, Pampa de La Cruz Verde
 Pampa Cruz de Bejarano
 Pampa Cruzniyocc
 Pampa Cuatro
@@ -28799,9 +28799,9 @@ Pampa de Sara Sara
 Pampa de Sarria
 Pampa de Sauco
 Pampa de Sebastropol
-Pampa de Sondor
 Pampa de Suchuno
 Pampa de Sunchos
+Pampa de Sóndor
 Pampa de Tajremachay
 Pampa de Talambo, Pampa del Tambo
 Pampa de Tambillo
@@ -28995,8 +28995,8 @@ Pampas del Cenizo
 Pampas del Cuno Cuno, Pampa de Cunocuno, Pampas de Cuno-Cuno
 Pampastata
 Pampinojasha
-Pan de Azucar, Sugar Loaf
 Pan de Azufre
+Pan de Azúcar, Sugar Loaf
 Panadera, Panadería
 Panameño
 Panamá
@@ -29192,12 +29192,12 @@ Pendiente Fasán
 Pendientes Llanapata
 Pendientes del Sara Sara
 Peninsula Huatasani
-Peninsula Jonsani
 Península Ancón
 Península Capachica
 Península Ccotos
 Península Chocasuyo
 Península Chucuito
+Península Jonsani
 Península Socca
 Península de Ferrol
 Península de Paracas, Paracas Peninsula, Península Paracas
@@ -29658,7 +29658,7 @@ Pocte
 Point A (historical)
 Polobaya
 Polvora
-Polvorin
+Polvorín
 Polvoso
 Pomabamba
 Pomacancha
@@ -29919,12 +29919,12 @@ Pucallaique
 Pucamachay
 Pucamocco
 Pucapata
-Pucara
 Pucaracancha
 Pucaragra
 Pucaray
 Pucarilla
 Pucarumi
+Pucará
 Pucatojo
 Pucayac
 Pucayacu
@@ -29953,7 +29953,7 @@ Puertecito
 Puerto Alegre
 Puerto Arturo
 Puerto Bayovar
-Puerto Bermudez
+Puerto Bermúdez
 Puerto Cabo Blanco
 Puerto Carlos, Puerto San Carlos
 Puerto Chala, Puerto de Chala
@@ -30037,7 +30037,7 @@ Punta Ballena
 Punta Bapo
 Punta Barco Perdido
 Punta Barranco El Cura, Punta El Cura
-Punta Batan
+Punta Batán
 Punta Bayas, Bajas, Bajas Point, Bajas Punta, Punta Baja, Punta Bajas
 Punta Bermejo
 Punta Blanca
@@ -30154,7 +30154,7 @@ Punta El Mesón
 Punta El Muelle
 Punta El Palo
 Punta El Panteón, Punta Panteón
-Punta El Peñon
+Punta El Peñón
 Punta El Reloj
 Punta El Rollo
 Punta El Tambillo, Punta Tambillo
@@ -30615,7 +30615,7 @@ Quebrada Agollay
 Quebrada Agoragra
 Quebrada Agoyan
 Quebrada Agua Amarga
-Quebrada Agua Azul
+Quebrada Agua Azúl
 Quebrada Agua Berruga
 Quebrada Agua Blanca
 Quebrada Agua Buena
@@ -30672,7 +30672,6 @@ Quebrada Aguasclaras
 Quebrada Aguascocha
 Quebrada Aguaturbia
 Quebrada Aguayán
-Quebrada Aguila
 Quebrada Aguinal
 Quebrada Aguish Varanan
 Quebrada Aguita
@@ -30767,8 +30766,8 @@ Quebrada Alccaychupata
 Quebrada Alconi
 Quebrada Alcula
 Quebrada Aleluya
-Quebrada Aleman, Quebrada Alemán Grande
 Quebrada Alemanyacu, Rio Alemán-yacu
+Quebrada Alemán, Quebrada Alemán Grande
 Quebrada Alfa
 Quebrada Alfa Huayco
 Quebrada Alfarillo
@@ -30817,8 +30816,8 @@ Quebrada Allpamachay
 Quebrada Allpcpuquio
 Quebrada Alluay
 Quebrada Alma Mendez
-Quebrada Almacen
 Quebrada Almachayoc
+Quebrada Almacén
 Quebrada Almamendez
 Quebrada Almapampa
 Quebrada Almayhuayccoc
@@ -30926,7 +30925,6 @@ Quebrada Anapán
 Quebrada Anaquiari
 Quebrada Anasallpa
 Quebrada Anasja
-Quebrada Anaspampa
 Quebrada Anaurca
 Quebrada Anca Huachana
 Quebrada Ancacoran
@@ -31030,7 +31028,6 @@ Quebrada Anguyacu
 Quebrada Anhuasa
 Quebrada Anica
 Quebrada Anigacho
-Quebrada Animas, Quebrada de Las Ánimas
 Quebrada Anirca
 Quebrada Aniuma
 Quebrada Anjojahua
@@ -31185,7 +31182,7 @@ Quebrada Aroccollo
 Quebrada Arochiriz
 Quebrada Arpero
 Quebrada Arpichillo
-Quebrada Arrayan
+Quebrada Arrayán
 Quebrada Arriero Jamanan
 Quebrada Arrojadero
 Quebrada Arroyo
@@ -31422,6 +31419,7 @@ Quebrada Añas
 Quebrada Añas Huachana
 Quebrada Añascancha
 Quebrada Añaso
+Quebrada Añaspampa
 Quebrada Añavilca
 Quebrada Añaycancha
 Quebrada Añazo
@@ -31474,13 +31472,13 @@ Quebrada Barro Negro
 Quebrada Barroso
 Quebrada Bartolo
 Quebrada Bartolomé Herrera
-Quebrada Batan
 Quebrada Batan Arpo
 Quebrada Batanaco
 Quebrada Batanes
 Quebrada Bateones
 Quebrada Batidero Desague
 Quebrada Batiuccro
+Quebrada Batán
 Quebrada Batán de Felipe
 Quebrada Baulcucho
 Quebrada Baule
@@ -31859,7 +31857,6 @@ Quebrada Campanayoj
 Quebrada Campirushari
 Quebrada Canahuaycco
 Quebrada Canaire
-Quebrada Canal
 Quebrada Canal Corral
 Quebrada Canal Huaicco
 Quebrada Canal de Piedra
@@ -31871,7 +31868,6 @@ Quebrada Canao
 Quebrada Canapatuchaera
 Quebrada Canasan
 Quebrada Canastia
-Quebrada Canay
 Quebrada Cancahuapampa
 Quebrada Cancan
 Quebrada Cancania
@@ -31930,7 +31926,6 @@ Quebrada Canlalay
 Quebrada Canllahuaycco
 Quebrada Canllasinga
 Quebrada Canlli
-Quebrada Cano
 Quebrada Canoas
 Quebrada Canocola
 Quebrada Canouma
@@ -32040,7 +32035,7 @@ Quebrada Carbonada
 Quebrada Carbonas
 Quebrada Carboncusana Chico
 Quebrada Carbonera
-Quebrada Carboneria
+Quebrada Carbonería
 Quebrada Carbones
 Quebrada Carbón
 Quebrada Carca Casa
@@ -32097,8 +32092,8 @@ Quebrada Carmelo
 Quebrada Carmen
 Quebrada Carmenpampa
 Quebrada Carnero
-Quebrada Carniceria
 Quebrada Carnicero
+Quebrada Carnicería
 Quebrada Caroco
 Quebrada Carosuchlla
 Quebrada Carpa
@@ -32252,16 +32247,19 @@ Quebrada Caña Plantada, Quebrada Caña Plantana
 Quebrada Caña Ucro
 Quebrada Cañadulce
 Quebrada Cañahueca
+Quebrada Cañal
 Quebrada Cañapata
 Quebrada Cañaracra
 Quebrada Cañarana
 Quebrada Cañas
 Quebrada Cañaveral
 Quebrada Cañaveralito
+Quebrada Cañay
 Quebrada Cañe
 Quebrada Cañepava
 Quebrada Cañete
 Quebrada Cañitas
+Quebrada Caño
 Quebrada Caño Chinería, Caño Aninga
 Quebrada Caño Iricahua
 Quebrada Cañocota
@@ -32742,7 +32740,6 @@ Quebrada Characta
 Quebrada Characuayqui
 Quebrada Charajul
 Quebrada Charamita
-Quebrada Charan
 Quebrada Charanal
 Quebrada Charancito
 Quebrada Charanuta
@@ -32768,6 +32765,7 @@ Quebrada Charpera
 Quebrada Charpoc
 Quebrada Charpuna
 Quebrada Charquihuasi
+Quebrada Charán
 Quebrada Chasacahuito
 Quebrada Chascalla
 Quebrada Chascca
@@ -32828,7 +32826,7 @@ Quebrada Chauran
 Quebrada Chausis
 Quebrada Chavellillo
 Quebrada Chavichari
-Quebrada Chavin
+Quebrada Chavín
 Quebrada Chaya Pampa
 Quebrada Chayac Chico
 Quebrada Chaychan, Quebrada Chauchan
@@ -32967,7 +32965,6 @@ Quebrada Chillaca
 Quebrada Chillacollo
 Quebrada Chillahuani
 Quebrada Chillamayo
-Quebrada Chillan
 Quebrada Chillcachacahuayjo
 Quebrada Chillcayoj
 Quebrada Chillco
@@ -32992,6 +32989,7 @@ Quebrada Chillua
 Quebrada Chilluane
 Quebrada Chilluparje
 Quebrada Chillutira
+Quebrada Chillán
 Quebrada Chillón, Chillón River
 Quebrada Chilpe
 Quebrada Chiluma
@@ -33020,7 +33018,6 @@ Quebrada Chincha
 Quebrada Chinchac
 Quebrada Chinchachaca
 Quebrada Chinchahual
-Quebrada Chinchan
 Quebrada Chinchanga
 Quebrada Chinchanhuain
 Quebrada Chinchas
@@ -33043,6 +33040,7 @@ Quebrada Chincho
 Quebrada Chinchobamba
 Quebrada Chinchoragra
 Quebrada Chinchuragra
+Quebrada Chinchán
 Quebrada Chincucha
 Quebrada Chingala
 Quebrada Chingana, Quebrada de la Chingana
@@ -33132,7 +33130,6 @@ Quebrada Chocacahua
 Quebrada Chocahuaylla
 Quebrada Chocalla
 Quebrada Chocamane
-Quebrada Chocan
 Quebrada Chocasaña
 Quebrada Chocchian
 Quebrada Choccllo
@@ -33156,6 +33153,7 @@ Quebrada Chocopampa
 Quebrada Chocora
 Quebrada Chocorajra
 Quebrada Chocos
+Quebrada Chocán
 Quebrada Chocñacota
 Quebrada Chocñajota
 Quebrada Chocñamayo
@@ -33351,7 +33349,6 @@ Quebrada Chuntamayo
 Quebrada Chuntane
 Quebrada Chunucancha
 Quebrada Chunujuno
-Quebrada Chununa
 Quebrada Chunuura
 Quebrada Chupa
 Quebrada Chupacancha
@@ -33442,6 +33439,7 @@ Quebrada Chuñave
 Quebrada Chuñuma
 Quebrada Chuñumasana
 Quebrada Chuñurahuaycco
+Quebrada Chuñuña
 Quebrada Chávez
 Quebrada Cieloccacca
 Quebrada Cienagayoc
@@ -33644,7 +33642,6 @@ Quebrada Concón
 Quebrada Condayane
 Quebrada Condechaca
 Quebrada Condenado
-Quebrada Condor
 Quebrada Condor Apacheta
 Quebrada Condor Casahui
 Quebrada Condor Huachanan
@@ -33672,7 +33669,7 @@ Quebrada Condorhuma
 Quebrada Condori
 Quebrada Condorihuasi
 Quebrada Condorillo
-Quebrada Condoriquina
+Quebrada Condoriquiña
 Quebrada Condorjaja
 Quebrada Condormacha
 Quebrada Condormarca
@@ -33802,13 +33799,13 @@ Quebrada Cota Cola
 Quebrada Cotabamba
 Quebrada Cotabana
 Quebrada Cotacota
-Quebrada Cotanane
 Quebrada Cotapata
 Quebrada Cotas
 Quebrada Cotasongo
 Quebrada Cotavira
 Quebrada Cotayane
 Quebrada Cotayhuarmi
+Quebrada Cotañane
 Quebrada Cotañani
 Quebrada Coticarca
 Quebrada Coto
@@ -33979,7 +33976,6 @@ Quebrada Cumbicu
 Quebrada Cumias
 Quebrada Cumpac
 Quebrada Cuncacha
-Quebrada Cuncan
 Quebrada Cuncan-Aicha
 Quebrada Cuncani
 Quebrada Cuncashca
@@ -33991,6 +33987,7 @@ Quebrada Cuncuma
 Quebrada Cuncuna
 Quebrada Cuncusayoc
 Quebrada Cuncush, Quebrada Cancush
+Quebrada Cuncán
 Quebrada Cundul
 Quebrada Cunduluquiana
 Quebrada Cunduruma
@@ -34112,6 +34109,7 @@ Quebrada Cuñe
 Quebrada Cuñimirca
 Quebrada Cárcel
 Quebrada Céspedes
+Quebrada Cóndor
 Quebrada Cóndor Armana
 Quebrada Cóndor Puquio
 Quebrada Cóndor Vado
@@ -34244,7 +34242,7 @@ Quebrada El Padre
 Quebrada El Palmal
 Quebrada El Palmo
 Quebrada El Palto, Quebrada del Palto
-Quebrada El Panteon
+Quebrada El Panteón
 Quebrada El Papayo
 Quebrada El Pedregal
 Quebrada El Peñón
@@ -34308,7 +34306,7 @@ Quebrada Escalera Mayo
 Quebrada Escalerayacu
 Quebrada Escaleria
 Quebrada Escalerilla
-Quebrada Escalon
+Quebrada Escalón
 Quebrada Esco
 Quebrada Escondidos
 Quebrada Escorillane
@@ -34339,10 +34337,10 @@ Quebrada Espingo Huayjo
 Quebrada Espingune
 Quebrada Espino
 Quebrada Espinochayoc
-Quebrada Espiritus
 Quebrada Espital
 Quebrada Espuy
 Quebrada Espíritu Santo, Quebrada de Espíritu Santo, Quebrada del Espíritu Santo
+Quebrada Espíritus
 Quebrada Esquera
 Quebrada Esquina
 Quebrada Esquino, Quebrada de Esquino, Río de Esquino
@@ -34388,7 +34386,7 @@ Quebrada Felicianapahuajanan
 Quebrada Felicidad
 Quebrada Felipa Huañuy
 Quebrada Feo Negro
-Quebrada Fernandez, Quebrada de Fernández
+Quebrada Fernández, Quebrada de Fernandez
 Quebrada Fiero Blanco
 Quebrada Fierro Cruz
 Quebrada Fierro Nayoc
@@ -34612,8 +34610,8 @@ Quebrada Higosnioc
 Quebrada Higuera
 Quebrada Higueras
 Quebrada Higuerayoc
-Quebrada Higueron, Quebrada El Higuerón, Quebrada Higerón
 Quebrada Higueroncito
+Quebrada Higuerón, Quebrada El Higuerón, Quebrada Higerón
 Quebrada Hihuanas
 Quebrada Hijga
 Quebrada Hilarata
@@ -34776,7 +34774,7 @@ Quebrada Huahuapuqio
 Quebrada Huahuas
 Quebrada Huahuayasca
 Quebrada Huahuaycucha
-Quebrada Huahuin
+Quebrada Huahuín
 Quebrada Huaiccota, Quebrada Huaicota, Quebrada de Huaiccota
 Quebrada Huaijo
 Quebrada Huaijoniognioc Huaijo
@@ -34966,8 +34964,8 @@ Quebrada Huancamarca
 Quebrada Huancamayo
 Quebrada Huancamayo Grande
 Quebrada Huancampata
-Quebrada Huancane
 Quebrada Huancanimayoc
+Quebrada Huancané
 Quebrada Huancaní
 Quebrada Huancapallga
 Quebrada Huancapampa
@@ -35058,7 +35056,6 @@ Quebrada Huanupampa
 Quebrada Huanupata
 Quebrada Huanyas
 Quebrada Huanzo
-Quebrada Huapalas
 Quebrada Huapi
 Quebrada Huapitunario
 Quebrada Huaquere
@@ -35563,6 +35560,7 @@ Quebrada Huychun
 Quebrada Huyhuyoc
 Quebrada Huylanca, Río Huailanga
 Quebrada Huytapallana
+Quebrada Huápalas
 Quebrada Huáscar
 Quebrada Hwajra Marca, Quebrada Huacramarca
 Quebrada Hércules
@@ -35806,7 +35804,6 @@ Quebrada Jacruylla
 Quebrada Jacsayoc
 Quebrada Jacuararure
 Quebrada Jacuhuahuan, Quebrada Yacuhuahuan
-Quebrada Jaen
 Quebrada Jagahuaín
 Quebrada Jagao
 Quebrada Jagra
@@ -35944,8 +35941,8 @@ Quebrada Jarapampa
 Quebrada Jarapanqui
 Quebrada Jarara
 Quebrada Jaraunco
-Quebrada Jardin
 Quebrada Jardina
+Quebrada Jardín
 Quebrada Jarepiña
 Quebrada Jarga Pelanan
 Quebrada Jargar
@@ -36083,6 +36080,7 @@ Quebrada Jayrani
 Quebrada Jaytapajasa
 Quebrada Jayuma
 Quebrada Jayunuma
+Quebrada Jaén
 Quebrada Jeccharajra
 Quebrada Jechga
 Quebrada Jeguerajra
@@ -36332,7 +36330,6 @@ Quebrada La Cancha
 Quebrada La Candelaria
 Quebrada La Cantera
 Quebrada La Capilla
-Quebrada La Carcel
 Quebrada La Carmela, Quebrada Carmela
 Quebrada La China
 Quebrada La Chira
@@ -36356,6 +36353,7 @@ Quebrada La Cuesta
 Quebrada La Cueva
 Quebrada La Culebra
 Quebrada La Cuna
+Quebrada La Cárcel
 Quebrada La Despachana
 Quebrada La Divina
 Quebrada La Encañada
@@ -36419,7 +36417,7 @@ Quebrada La Musga
 Quebrada La Muña
 Quebrada La Naranja
 Quebrada La Nevera
-Quebrada La Noria
+Quebrada La Noría
 Quebrada La Novia
 Quebrada La Nueve
 Quebrada La Orejona, Quebrada La Orejones
@@ -36620,7 +36618,6 @@ Quebrada Lariachico
 Quebrada Laronga
 Quebrada Larquillo
 Quebrada Las Amatistas
-Quebrada Las Animas
 Quebrada Las Anonas
 Quebrada Las Armas
 Quebrada Las Brujas, Quebrada de las Brujas
@@ -36672,7 +36669,7 @@ Quebrada Las Perritas
 Quebrada Las Petacas
 Quebrada Las Peñas
 Quebrada Las Piedras, Las Piedras River, Quebrada Piedras
-Quebrada Las Piñas
+Quebrada Las Píñas
 Quebrada Las Quebradillas
 Quebrada Las Quemas
 Quebrada Las Salinas, Quebrada de Las Salinas
@@ -36690,6 +36687,7 @@ Quebrada Las Varas
 Quebrada Las Yescas
 Quebrada Las Yuntas, Quebrada de la Yuntas
 Quebrada Las Zorras
+Quebrada Las Ánimas
 Quebrada Lasohuasi
 Quebrada Lasuyaca
 Quebrada Latasta, Quebrada La Tasta
@@ -36730,7 +36728,7 @@ Quebrada Lecleja
 Quebrada Leco
 Quebrada Lederra
 Quebrada Leitane
-Quebrada Lejia
+Quebrada Lejiá
 Quebrada Lejleschayoj
 Quebrada Lemal
 Quebrada Lengas
@@ -37125,11 +37123,9 @@ Quebrada Lucmayoc
 Quebrada Lucmilla
 Quebrada Lucmo
 Quebrada Lucmus
-Quebrada Lucuma
 Quebrada Lucumani
 Quebrada Lucumaragra
 Quebrada Lucumayacu
-Quebrada Lucumo, Jahuay de Perra
 Quebrada Lucía Pampa
 Quebrada Luichococha
 Quebrada Luichojasa
@@ -37171,6 +37167,8 @@ Quebrada Luyo
 Quebrada Luyuri
 Quebrada Létera
 Quebrada López
+Quebrada Lúcuma
+Quebrada Lúcumo, Jahuay de Perra
 Quebrada Maanamayo
 Quebrada Maca Ragra
 Quebrada Macachacra
@@ -37496,12 +37494,12 @@ Quebrada Matanzas
 Quebrada Matapuquio
 Quebrada Matar
 Quebrada Matar Ccasa
-Quebrada Matara
 Quebrada Matarani
 Quebrada Matarayoc
 Quebrada Matarcocha
 Quebrada Matarerayochuayjo
 Quebrada Matarumi
+Quebrada Matará
 Quebrada Matecllo Huayco
 Quebrada Mateo de Yaya
 Quebrada Materiato
@@ -37890,9 +37888,7 @@ Quebrada Nac
 Quebrada Nacacuy
 Quebrada Nacupio
 Quebrada Nahuapa, Quebrada Nisidu
-Quebrada Nahuimpuquio
 Quebrada Nahuin
-Quebrada Nahuincocha
 Quebrada Naitanco
 Quebrada Najem
 Quebrada Najra
@@ -37993,7 +37989,7 @@ Quebrada Oberito
 Quebrada Obreani
 Quebrada Ocachacra
 Quebrada Ocalara
-Quebrada Ocana
+Quebrada Ocaña
 Quebrada Occapata
 Quebrada Occecocha
 Quebrada Occerumi
@@ -38080,8 +38076,8 @@ Quebrada Olitares
 Quebrada Olivía
 Quebrada Ollada Ulunche
 Quebrada Ollane
-Quebrada Olleria, Quebrada Huayñuma
 Quebrada Olleros
+Quebrada Ollería, Quebrada Huayñuma
 Quebrada Ollitas
 Quebrada Ollos
 Quebrada Oloche
@@ -38188,8 +38184,8 @@ Quebrada Oyochuacho
 Quebrada Oyocos, Quebrada de Oyocos
 Quebrada Oyón
 Quebrada Ozuz
-Quebrada Pabellon
 Quebrada Pabellonnioc
+Quebrada Pabellón
 Quebrada Paca
 Quebrada Pacahuacho
 Quebrada Pacahuauache
@@ -38351,7 +38347,6 @@ Quebrada Pajarayoc
 Quebrada Pajarbo
 Quebrada Pajarito
 Quebrada Pajaritos
-Quebrada Pajaro Bobillo, Quebrada Pajaro Bobio
 Quebrada Pajayjasha
 Quebrada Pajcha
 Quebrada Pajohane
@@ -38531,7 +38526,6 @@ Quebrada Pampajahua
 Quebrada Pampajashe
 Quebrada Pampamachay
 Quebrada Pampamachiz
-Quebrada Pampana
 Quebrada Pampanapuquio
 Quebrada Pampanto
 Quebrada Pampap
@@ -38546,6 +38540,7 @@ Quebrada Pampavado
 Quebrada Pampay
 Quebrada Pampayacu
 Quebrada Pampaylla
+Quebrada Pampaña
 Quebrada Pampilla
 Quebrada Pampurre
 Quebrada Pampón
@@ -38615,8 +38610,8 @@ Quebrada Paranapura
 Quebrada Paraque
 Quebrada Parara
 Quebrada Pararapa
-Quebrada Pararin
 Quebrada Pararuciña
+Quebrada Pararín
 Quebrada Paratita
 Quebrada Paratora
 Quebrada Paraíso
@@ -38725,10 +38720,10 @@ Quebrada Patahuasi
 Quebrada Patap
 Quebrada Patapampa
 Quebrada Patapata
-Quebrada Patara
 Quebrada Patarahuaycco
 Quebrada Patarcocha
 Quebrada Patarhuanca
+Quebrada Patará
 Quebrada Patasaya
 Quebrada Pataspuquio
 Quebrada Patasupuquio
@@ -39285,7 +39280,6 @@ Quebrada Pucapita
 Quebrada Pucapuca
 Quebrada Pucapucapampa
 Quebrada Pucapuquio
-Quebrada Pucara
 Quebrada Pucara Huaycco
 Quebrada Pucarajay
 Quebrada Pucarangra
@@ -39298,6 +39292,7 @@ Quebrada Pucarume
 Quebrada Pucarumi
 Quebrada Pucarumihuayjo
 Quebrada Pucarumioc
+Quebrada Pucará
 Quebrada Pucasalla
 Quebrada Pucasinega
 Quebrada Pucatoral
@@ -39392,7 +39387,7 @@ Quebrada Pulluco
 Quebrada Pullumayo
 Quebrada Pulluri
 Quebrada Pulluta
-Quebrada Pulperia, Quebrada Pulperío
+Quebrada Pulpería, Quebrada Pulperío
 Quebrada Puluco, Quebrada Chusecca
 Quebrada Puluviñas
 Quebrada Puma Huache
@@ -39569,6 +39564,7 @@ Quebrada Puñizas
 Quebrada Puñosjasa
 Quebrada Puñuno
 Quebrada Pájaro
+Quebrada Pájaro Bobillo, Quebrada Pajaro Bobio
 Quebrada Pájaro Bobo
 Quebrada Páramo
 Quebrada Pérez, Quebrada Péres
@@ -39769,7 +39765,6 @@ Quebrada Quinua
 Quebrada Quinua Pampa
 Quebrada Quinua Ruri
 Quebrada Quinuacocha
-Quebrada Quinual
 Quebrada Quinualahuayo
 Quebrada Quinualito
 Quebrada Quinuamayo
@@ -39830,7 +39825,6 @@ Quebrada Quisque Bajo
 Quebrada Quisquesa, Quebrada Cuequesa
 Quebrada Quisquichaca, Quebrada Quisquichaco
 Quebrada Quisquipata
-Quebrada Quisuar
 Quebrada Quisuar Huayjo
 Quebrada Quisuar Puquio
 Quebrada Quisuara
@@ -39861,7 +39855,9 @@ Quebrada Quiullacocha
 Quebrada Quiura
 Quebrada Quiusipita
 Quebrada Quiñay
+Quebrada Quiñual
 Quebrada Qulclio
+Quebrada Quísuar
 Quebrada Rabonas
 Quebrada Racaipampa
 Quebrada Raccha
@@ -40172,8 +40168,6 @@ Quebrada Río Pisco
 Quebrada Río Seco, Quebrada Caballero, Quebrada de Río Seco
 Quebrada Río de Lobos
 Quebrada Sabaccha
-Quebrada Sabalillo
-Quebrada Sabalo
 Quebrada Sabaloyacu
 Quebrada Sabaluyo, Quebrada Sabalugo
 Quebrada Sabaluyoc
@@ -40357,7 +40351,7 @@ Quebrada Samoras
 Quebrada Sampaquitiari
 Quebrada Samán
 Quebrada San Alberto, San Alberto
-Quebrada San Andres
+Quebrada San Andrés
 Quebrada San Antonio, Quebrada San Antoni, Quebrada Venena, San Antonio River
 Quebrada San Antonio Bajo
 Quebrada San Augustín
@@ -40368,12 +40362,12 @@ Quebrada San Benito
 Quebrada San Blas
 Quebrada San Carlos
 Quebrada San Carlos Grande
-Quebrada San Cristobal
+Quebrada San Cristóbal
 Quebrada San Diego
 Quebrada San Felipe
 Quebrada San Felix
 Quebrada San Francisco, Río de San Francisco de la Letra
-Quebrada San Geronimo
+Quebrada San Gerónimo
 Quebrada San Gregorin
 Quebrada San Gregorio
 Quebrada San Guillermo
@@ -40381,23 +40375,23 @@ Quebrada San Isidro
 Quebrada San Jacinto
 Quebrada San Jerónimo
 Quebrada San Jorge
-Quebrada San Jose
+Quebrada San José
 Quebrada San José Alto
 Quebrada San Juan
 Quebrada San Juan Baños de Rabi
 Quebrada San Juan de Cañas
 Quebrada San Julim
-Quebrada San Lazaro
 Quebrada San Lorenzo, Quebrada de San Lorenzo
 Quebrada San Luis
+Quebrada San Lázaro
 Quebrada San Marcos
-Quebrada San Martin
+Quebrada San Martín
 Quebrada San Mateo
 Quebrada San Miguel
-Quebrada San Nicolas
+Quebrada San Nicolás
 Quebrada San Pablo
 Quebrada San Pedro, Quebrada Mozabamba
-Quebrada San Rafael
+Quebrada San Rafaél
 Quebrada San Roque
 Quebrada San Sebastian
 Quebrada San Sen
@@ -40453,20 +40447,20 @@ Quebrada Sansachica
 Quebrada Santa
 Quebrada Santa Alicia
 Quebrada Santa Ana, Quebrada de Santa Ana
-Quebrada Santa Barbara
+Quebrada Santa Bárbara
 Quebrada Santa Catalina
 Quebrada Santa Clara
-Quebrada Santa Cruz, Quebrada de Santa Cruz, Santa Cruz Creek
+Quebrada Santa Crúz, Quebrada de Santa Cruz, Santa Cruz Creek
 Quebrada Santa Elena
 Quebrada Santa Elvira
 Quebrada Santa Fe
 Quebrada Santa Filomena
 Quebrada Santa Fraire
 Quebrada Santa Isabel
-Quebrada Santa Lucia, Quebrada de Santa Lucía
+Quebrada Santa Lucía, Quebrada de Santa Lucía
 Quebrada Santa Marcia
-Quebrada Santa Maria, Quebrada de Santa Maria
 Quebrada Santa Marta
+Quebrada Santa María, Quebrada de Santa Maria
 Quebrada Santa Muchacho
 Quebrada Santa Rita
 Quebrada Santa Rosa
@@ -41112,6 +41106,8 @@ Quebrada Suytoorcco
 Quebrada Suytorume
 Quebrada Suyturumi
 Quebrada Suyuy
+Quebrada Sábalillo
+Quebrada Sábalo
 Quebrada Sábalo Grande
 Quebrada Sángaro
 Quebrada Süacahuy
@@ -41948,8 +41944,8 @@ Quebrada Ubillus
 Quebrada Ubiriqui, Río Ubirike, Río Ubiriqui
 Quebrada Ubuya
 Quebrada Ucallay
-Quebrada Ucanan
 Quebrada Ucaña
+Quebrada Ucañan
 Quebrada Uccumachay
 Quebrada Uchallma
 Quebrada Uchan
@@ -42195,7 +42191,7 @@ Quebrada Valle
 Quebrada Vallecillo
 Quebrada Vallente
 Quebrada Vantipampa
-Quebrada Vaqueria, Quebrada de la Vaquería
+Quebrada Vaquería, Quebrada de la Vaquería
 Quebrada Varayohuayjo
 Quebrada Vareni
 Quebrada Vargas
@@ -42768,7 +42764,6 @@ Quebrada de Ancha
 Quebrada de Andamayo
 Quebrada de Andanjo
 Quebrada de Angostura
-Quebrada de Animas, Quebrada del Ánima
 Quebrada de Antacocha
 Quebrada de Apio, Quebrada del Apio
 Quebrada de Araqui
@@ -43205,6 +43200,7 @@ Quebrada de los Postes
 Quebrada de los Quesos
 Quebrada de los Tres Montones
 Quebrada de los Órganos
+Quebrada de Ánimas, Quebrada del Ánima
 Quebrada del Abra
 Quebrada del Abra Grande
 Quebrada del Algarrobal
@@ -43221,7 +43217,7 @@ Quebrada del Callejón
 Quebrada del Calvario
 Quebrada del Campamento
 Quebrada del Caracol, Quebrada de Caracol
-Quebrada del Cardo
+Quebrada del Cardó
 Quebrada del Carmen
 Quebrada del Carrisal
 Quebrada del Carrizal
@@ -43351,13 +43347,17 @@ Quebrada las Viejas
 Quebrada los Algarrobos
 Quebrada los Layos
 Quebrada uunhuaycco
+Quebrada Águila
 Quebrada Ángeles
+Quebrada Ánimas, Quebrada de Las Ánimas
 Quebrada Ñacamijo
 Quebrada Ñacchagitana
 Quebrada Ñacchui
 Quebrada Ñacñahuin
+Quebrada Ñahuimpuquio
 Quebrada Ñahuin Puquio
 Quebrada Ñahuincucho
+Quebrada Ñahuíncocha
 Quebrada Ñamuc
 Quebrada Ñanñaco
 Quebrada Ñauchirca
@@ -43565,11 +43565,11 @@ Región de Apurímac, Apurimac, Departamento de Apurímac, Departmento Apurímac
 Región de Huánuco, Departamento Huánuco, Departamento de Huánuco
 Región de San Martín, Departamento San Martín, Departamento de San Martín
 Regrecpampa
-Reparticion
+Repartición
 Repartición LLoquello
 Repartición Nueva
 Repartición Vieja
-Republic of Peru, El Perú, Perú, Pérou, República del Perú
+Republic of Peru, El Perú, Peru, Pérou, República del Perú
 Reque
 Requena
 Resaca Caimito
@@ -43612,24 +43612,14 @@ Rincón de Piños
 Rinramayo
 Rio Abiseo National Park
 Rio Amazónas
-Rio Breu, Breu River
 Rio Ccoccampaccha
-Rio Grande, Quebrada de Asia, Rupac Río, Río Alto Chicama, Río Grande de Asia, Río Rupas, Río de Nasca
-Rio Hondo
-Rio Huallaga, Huallaga River, Huayaga, Rio Huallago
 Rio Jadibamba, Río Sadibamba
 Rio Jaquirana, Rio Alto Javarí, Rio Alto Yavarí, Rio Yaquira, Río Alto Yaquerana, Río Yaquerana, Yaquirana
 Rio Lupahuari, Quebrada Lupahuani, Quebrada de Lupahuari
 Rio Mishquiyacu, Rio Misquiyacu
-Rio Negro
 Rio Orduña
 Rio Reducto
-Rio Santa Rosa, Rio Curinaá, Santa Rosa River
-Rio Santiago, Río Canuso, Santiago River
-Rio Seco
 Rio Suche, Río Suches
-Rio Tambo, Tambo River
-Rio Ucayali, Genaro Herrera
 Rio de Chochope, Río Chocope
 Riohosio
 Rioja
@@ -43860,8 +43850,8 @@ Río Apaga
 Río Apalla
 Río Apayacu, Río Apari-Yacu
 Río Apinigua
-Río Apurimac
 Río Apurucayalí, Río Apurucayal
+Río Apurímac
 Río Aquillano
 Río Arabela, Rio Manta, Río Arabeta
 Río Arahua, Rio Chincha
@@ -43921,7 +43911,7 @@ Río Ayambis
 Río Ayamiria
 Río Ayapata
 Río Ayaquilla
-Río Ayaviri
+Río Ayavirí
 Río Aycata, Río Aicatas
 Río Aychiyacu
 Río Aymaraes, Río Aimaraes
@@ -43975,6 +43965,7 @@ Río Bravo
 Río Brazo Ramón, Río Brazo de Ramón
 Río Breamayo
 Río Breayacu
+Río Breu, Breu River
 Río Buin
 Río Buldibuyo
 Río Buncuya
@@ -44490,7 +44481,7 @@ Río Churap
 Río Churigancalle
 Río Churmi
 Río Churunga
-Río Chusgon
+Río Chusgón
 Río Chuspini, Río Chuspiri, Río Millmaca
 Río Chuspiracra
 Río Chuspire
@@ -44755,9 +44746,8 @@ Río Fleni, Río Pleni
 Río Florida
 Río Frias, Río de Frias
 Río Frijol
-Río Fundicion
+Río Fundicíon
 Río Fácchac
-Río Galvez, Río Calvez
 Río Gamilanu, Río Gamilana
 Río Gansul
 Río Garbanza
@@ -44769,6 +44759,7 @@ Río Gollón
 Río Gonomani
 Río Gorgor
 Río Gradayacu
+Río Grande, Quebrada de Asia, Rupac Río, Río Alto Chicama, Río Grande de Asia, Río Rupas, Río de Nasca
 Río Grande Chonta
 Río Guanache, Rio Juanachi, Río Guaracha
 Río Guanacomarca
@@ -44776,6 +44767,7 @@ Río Guanganay
 Río Guano
 Río Guepí, Quebrada Güepí, Río Gueppí
 Río Guineiyacu, Rio Guinel Yacu
+Río Gálvez, Río Calvez
 Río Génova
 Río Halla
 Río Hamayu
@@ -44788,6 +44780,7 @@ Río Herbara
 Río Hercca
 Río Higueras
 Río Hipona
+Río Hondo
 Río Horizonte
 Río Hornillos
 Río Hospicio
@@ -44826,6 +44819,7 @@ Río Hualca Hualca
 Río Hualcará
 Río Hualcura
 Río Huallabamba
+Río Huallaga, Huallaga River, Huayaga, Rio Huallago
 Río Huallatire
 Río Hualldoponco
 Río Hualquipune
@@ -44853,9 +44847,9 @@ Río Huancabamba, Huancabamba River
 Río Huancachaca, Río Huancachacca
 Río Huancachupa
 Río Huancacuya, Quebrada de Huacuya
-Río Huancane
 Río Huancani
 Río Huancanicha
+Río Huancané
 Río Huancapallca
 Río Huancapi
 Río Huancarama, Río Amayane
@@ -45092,7 +45086,7 @@ Río Jerín
 Río Jesús María, Río Atalá
 Río Jeuñamarca
 Río Jeñuepallga
-Río Jihuana
+Río Jihuaña
 Río Jimbe
 Río Jimblijimjileri
 Río Jinguime
@@ -45124,7 +45118,7 @@ Río Kucuaza
 Río La Cuesta
 Río La Frontera
 Río La Humaraca
-Río La Leche, La Leche River, Río de la Leche
+Río La Leche, La Leche River, Río de La Leche
 Río La Manzana
 Río La Mina
 Río La Montaña
@@ -45325,13 +45319,12 @@ Río Maquite
 Río Maquía, Rio Maquea
 Río Marabamba
 Río Maracocha
-Río Maran, Rio Kello
 Río Maran Pamba
 Río Marancocha
 Río Maranguara, Río Maranquiari
 Río Maravilla, Rio Aravilla
 Río Maraycasa
-Río Marañon, Marañon, Marañón River, Tunguragua
+Río Marañón, Marañon, Marañón River, Tunguragua
 Río Marca
 Río Marcaballa
 Río Marcachea
@@ -45339,6 +45332,7 @@ Río Marcapata
 Río Marian
 Río Marino
 Río Maripampamayo
+Río Marán, Rio Kello
 Río Maríaluisa
 Río Masarobeni
 Río Mashco, Río Mashro
@@ -45453,6 +45447,7 @@ Río Nausa, Río Nansa
 Río Nazarategui, Mazareteque, Río Mazarateque, Río Mazaratique, Río Naazaraategui
 Río Nazca
 Río Negrillo
+Río Negro
 Río Negro Mayo
 Río Negro de Angaisa
 Río Negromayo
@@ -45741,7 +45736,6 @@ Río Pillipampa
 Río Pillo
 Río Pillpicancha
 Río Pilluana
-Río Pina
 Río Pinal
 Río Pinco
 Río Pincos
@@ -45773,6 +45767,7 @@ Río Pitón
 Río Piuilmayo
 Río Piura, Piura River, Rio de Piura
 Río Pizacoma
+Río Piña
 Río Piñascochas
 Río Piñipiñi
 Río Piñuta
@@ -45823,8 +45818,8 @@ Río Pucacuro, Pucacuro, Rio Pucapuro
 Río Pucamayo, Río Andachaca
 Río Pucaorco
 Río Pucapuca
-Río Pucara, Río de Pucará
 Río Pucarama
+Río Pucará, Río de Pucará
 Río Pucasuchu
 Río Pucate
 Río Pucaurco, Río Putay
@@ -45836,7 +45831,6 @@ Río Puchuma
 Río Puconi
 Río Pucurhuay
 Río Pucusani
-Río Pucuta
 Río Pucuyaco
 Río Puente
 Río Puguentimari, Río Mantalo, Río Puguentimani
@@ -45886,8 +45880,9 @@ Río Putaya, Río Putayo
 Río Putcamayo
 Río Putina
 Río Puyani
-Río Puyhuan
+Río Puyhuán
 Río Puypuy
+Río Púcuta
 Río Qquero, Río Oquero
 Río Quari
 Río Quebrado
@@ -46014,7 +46009,6 @@ Río Runatulla
 Río Runatullo
 Río Rupacpampa
 Río Rímac, Rimac River
-Río Sabaloyacu, Sábaloyacu
 Río Sabarcari
 Río Sabetari
 Río Sabeti
@@ -46048,7 +46042,6 @@ Río Sallique, Quebrada Sallique, Quebrada de Salique
 Río Saltiajahuira
 Río Salvación, Río Salvation
 Río Sama
-Río Saman
 Río Samanco
 Río Samaniato
 Río Samaniego
@@ -46058,6 +46051,7 @@ Río Samiria
 Río Sampantoare
 Río Sampuntuari
 Río Samugari
+Río Samán
 Río Samígla
 Río San Alejandro, Río Cahuantia, Río San Alegandro
 Río San Andrés
@@ -46113,9 +46107,11 @@ Río Santa Lucía, Quebrada de Lomas
 Río Santa Margarita
 Río Santa Marta
 Río Santa María
+Río Santa Rosa, Rio Curinaá, Santa Rosa River
 Río Santa Teresa
 Río Santa Virginia
 Río Santaro
+Río Santiago, Río Canuso, Santiago River
 Río Santine
 Río Santo
 Río Santo Tomás
@@ -46145,6 +46141,7 @@ Río Sañu
 Río Seche
 Río Sechura
 Río Sechín, Rio Quillo, Sechín River
+Río Seco
 Río Seco Agua Salada
 Río Seco Calli
 Río Seco Lupin
@@ -46161,7 +46158,7 @@ Río Sepina
 Río Sepramayo
 Río Seraj
 Río Serja
-Río Serjali
+Río Serjalí
 Río Serranoyacu, Río Serrano Yaco
 Río Setico
 Río Shaca
@@ -46291,6 +46288,7 @@ Río Suro
 Río Suytilligua
 Río Suytucancha
 Río Suárez, Quebrada Suarez, Río Codo
+Río Sábaloyacu, Sábaloyacu
 Río Súgaro, Rio Sungaro Yaco
 Río Taangolaya
 Río Tabaconas, Rio Tabacona
@@ -46319,6 +46317,7 @@ Río Tamayaco
 Río Tambiami
 Río Tambillo
 Río Tambillos
+Río Tambo, Tambo River
 Río Tambo Quemado
 Río Tambo Yacu
 Río Tambocha
@@ -46336,7 +46335,7 @@ Río Tanganana
 Río Tangarana
 Río Tantada
 Río Tantamayo
-Río Tantara
+Río Tantará
 Río Tapa Barro
 Río Tapa Tapa
 Río Taparaco
@@ -46455,7 +46454,6 @@ Río Tulajahuira
 Río Tullu
 Río Tulmán
 Río Tulumayo
-Río Tumac
 Río Tumbadén
 Río Tumboya
 Río Tumilaca
@@ -46477,8 +46475,10 @@ Río Tutungos
 Río Tuyto
 Río Tínquer
 Río Tíoyacu
+Río Túmac
 Río Túmbaro
 Río Túmbez, Rio Paango, Río Puyango, Río Puyano, Río Tombes, Río Tumbes, Tumbes River, Tumbez River, Túmbez
+Río Ucayali, Genaro Herrera
 Río Uchisa
 Río Uchojoloa
 Río Uchpamayo
@@ -46539,7 +46539,6 @@ Río Vilcamarca
 Río Vilcanota
 Río Vilque
 Río Viluta
-Río Vinac
 Río Vinchos
 Río Vinuya
 Río Virgen, Río la Virgen
@@ -46560,6 +46559,7 @@ Río Vizcacha
 Río Vizcachune
 Río Vizcalcache
 Río Vizcarra
+Río Viñac
 Río Vocaz
 Río West
 Río Wiener
@@ -46826,22 +46826,22 @@ Samegua
 Samiria National Reserve
 Samuel Pastor
 Samugari
-San Agustin
-San Andres
+San Agustín
 San Andres De Cutervo
 San Andres De Tupicocha
+San Andrés
 San Andrés Bajo
 San Antoinio de Oxabamba
 San Anton
-San Antonio
 San Antonio De Antaparco
 San Antonio De Cachi
 San Antonio De Chuca
 San Antonio De Cusicancha
 San Antonio De Putina
+San António
 San Aurelio
 San Bartolo
-San Bartolome
+San Bartólome
 San Benito
 San Bernardino
 San Borja
@@ -46849,15 +46849,14 @@ San Buenaventura
 San Carlos
 San Cayetano, Quebrada San Cayetano
 San Clemente
-San Cristobal
 San Cristobal De Rajan
+San Cristóbal
 San Cristóbal de Valencia
 San Critobal
 San Damian
 San Demetrio Bajo
 San Elias
 San Felipe
-San Felix
 San Fernando
 San Francisco
 San Francisco De Asis
@@ -46867,6 +46866,7 @@ San Francisco De Daguas
 San Francisco De Ravacayco
 San Francisco De Sangayaico
 San Francisco Del Yeso
+San Félix
 San Gaban
 San Gregorio
 San Hilarion
@@ -46880,7 +46880,6 @@ San Jeronimo
 San Jeronimo De Tunan
 San Joaquin
 San Jorge
-San Jose
 San Jose De Los Molinos
 San Jose De Lourdes
 San Jose De Quero
@@ -46888,6 +46887,7 @@ San Jose De Sisa
 San Jose De Ticllas
 San Jose De Ushua
 San Jose Del Alto
+San José
 San José Alto
 San José Bajo
 San José De Alto Zotarani
@@ -46923,8 +46923,8 @@ San Luis De Lucma
 San Luis De Shuaro
 San Marcos
 San Marcos De Rocchac
-San Martin
 San Martin De Porres
+San Martín
 San Mateo
 San Mateo De Otao
 San Matias-San Carlos Protected Forest
@@ -46958,7 +46958,7 @@ San Pedro De Pillao
 San Pedro De Putina Punco
 San Pedro de Huashalado
 San Rafael
-San Ramon
+San Ramón
 San Ramón A
 San Ramón B
 San Roman, Provincia San Román, Provincia de San Román
@@ -47014,14 +47014,14 @@ Santa Gertrudis
 Santa Isabel
 Santa Isabel De Siguas
 Santa Leonor
-Santa Lucia
+Santa Lucía
 Santa Marcela
-Santa Maria
 Santa Maria De Chicmo
 Santa Maria Del Mar
 Santa Maria Del Valle
 Santa Marta
 Santa Martha
+Santa María
 Santa Mónica
 Santa Rita
 Santa Rita De Siguas
@@ -47724,7 +47724,6 @@ Tullucoto
 Tulmancito
 Tulopaquina
 Tulpayoc Alto
-Tumac
 Tumac Pampa
 Tumacirca
 Tuman
@@ -47743,7 +47742,6 @@ Tunin
 Tunpuroue
 Tunque
 Tunticruz
-Tupac Amaru
 Tupac Amaru Inca
 Tupautaña
 Tupe
@@ -47762,6 +47760,8 @@ Tuyu-yacu, Río Tuyu-yacu
 Tuzul
 Tuñe
 Tzancuvatziari
+Túmac
+Túpac Amaru
 Ubinas
 Ucayali, Departamento de Ucayali, Región de Ucayali
 Ucayali River
@@ -48209,7 +48209,6 @@ Zapayal
 Zapayal Nuevo
 Zapotal
 Zapote
-Zarate
 Zarumilla
 Zepita
 Zona Industrial Pampa Noco
@@ -48219,6 +48218,7 @@ Zona del Gran Pajonal
 Zorritos
 Zurite
 Zuñiga
+Zárate
 cerro Huachuamachay
 cerro Yanaña
 laguna Paticocha
