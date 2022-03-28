@@ -20,7 +20,7 @@ Aizkraukle
 Aizkraukles novads, Aizkraukles Rajons, Ayzkraukl'skiy, Stuchkinskiy Rayon, Stučkas Rajons
 Aizkraukles pagasts
 Aizkārkle, Aiskari, Aiskorkli, Aizkākles, Aizkārkles
-Aizpute
+Aizpute, Айзпуте
 Aizputes Novads
 Aizputes pagasts
 Aičas dzirnavu ezers
@@ -101,7 +101,7 @@ Auce, Autse
 Auces Novads, Auces
 Auciema Ezers, Auciem Ezers, Ozero Autsiyema-Ezers
 Audriņu pagasts
-Audruve
+Audruve, Audruvis
 Audīle
 Augstkalnes pagasts
 Augstrozes Lielezers, Lielezers, Ozero Liyel-Ezers
@@ -111,7 +111,7 @@ Aulejas Ezers
 Aulejas pagasts
 Auru pagasts
 Ausmas Dīķis
-Auziņu Ezers, Ozero Auzini-Ezers
+Auziņu Ezers, Ozero Auzin'ezer, Ozero Auzini-Ezers
 Auzu Sala
 Auļukalna Ezers, Alukalna Ezers
 Aviekste, Aviyekstes
@@ -227,7 +227,7 @@ Brunavas pagasts
 Bruzile, Bruziles, Kolka
 Bruņinieki
 Bruņu Ezers, Brunenes Ezers
-Bruņķītis, Brunkiša Ezers, Brunķis Ezers, Bruņķis, Ozero Bruntis
+Bruņķītis, Brunkiša Ezers, Brunķis Ezers, Bruņķis, Ozero Brun'kishu, Ozero Bruntis
 Brīvzemnieku pagasts
 Bukaišu pagasts
 Bukas Dīķis
@@ -281,7 +281,7 @@ Cesvaines Novads
 Cesvaines pagasts
 Ciblas Novads, Cibla
 Ciblas pagasts
-Cibēnu Ezers
+Cibēnu Ezers, Ozero Kanep'yu
 Ciecere, Tsiyetsere
 Cieceres Ezers, Ozero Tsietseres Ezers, Ozero Tsiyetsere
 Cieceres pagasts
@@ -307,16 +307,16 @@ Dagdas pagasts
 Daguma Ezers, Pelečāres Ezers, Pelēčores Ezers
 Dagumi
 Daibes Purvs
-Dambjakroga Ezers
+Dambjakroga Ezers, Ozero Damb'yukroga
 Dambjapurva Ezers, Ozero Damblappurvs
 Dambīte
 Darbnīcu Dīķis
 Daudersala, Daudera Island, Doudera Island, Doudera Sala, Doudersala
 Daudzeses pagasts
-Daugava, Daugava River, Dvina, Dvina Zapadnaya, Dzwina, Southern Dvina, Western Dvina, Zakhodnyaya Dzvina, Zapadnaya Dvina, Zapadnaya Dzvina
-Daugavgrīvas Sala, Buļļu Sala, Dunamond Island, Dünamund Island, Dünamünde, Düünamünde, Ostrov Daugavgriva, Ostrov Dinamyund
-Daugavpils, Borisoglebsk, Dinaburg, Dvinsk
-Daugavpils municipality, Daugavpils novads
+Daugava, Daugava River, Dauguva, Dvina, Dvina Zapadnaya, Dzwina, Southern Dvina, Vakarų Dvina, Western Dvina, Zakhodnyaya Dzvina, Zapadnaya Dvina, Zapadnaya Dzvina
+Daugavgrīvas Sala, Buļļu Sala, Dunamond Island, Dünamund Island, Dünamünde, Düünamünde, Ostrov Bull'u, Ostrov Daugavgriva, Ostrov Dinamyund
+Daugavpils, Borisoglebsk, Daugpilis, Dinaburg, Dvinsk
+Daugavpils municipality, Daugavpils novads, Daugpilio savivaldybė, Даугавпилсский край
 Daugmales pagasts
 Dauguļu Mazezers
 Daukstu pagasts
@@ -396,7 +396,7 @@ Dzirciema Ezers, Ozero Dzirtsiyema
 Dzirnavupe
 Dzirnezers, Ozero Dzirnu
 Dzirnu Purvs, Boloto Dzirna, Raupes-Dzirnu Purvs
-Dziļezers
+Dziļezers, Ozero Dzil'ezer
 Dzērbenes pagasts
 Dzērves Pļava, Urochishche Dzerves-Plava, Užava Pļava, Užavas Polderis
 Dāmenezers
@@ -415,7 +415,7 @@ Džūkstes pagasts
 Egla Ezers, Eglezers
 Eglaines pagasts
 Eglona, Eglaine, Eglone
-Egļukalns
+Egļukalns, Egliukalnis, Эглюкалнс
 Egļupe, Desupe, Egļupīte
 Eiduku Pūrs, Borovkas Purvs
 Eikažu Dīķis
@@ -442,7 +442,7 @@ Feimanka, Feijmanka, Feimane, Feimanka River, Reka Feymanke
 Feimaņu Ezers
 Feimaņu pagasts
 Franapoles Ezers, Franopoles Ezers
-Gabra Ezers
+Gabra Ezers, Gabrio Ežeras
 Gaigalavas pagasts
 Gailītis, Gaiļišu Ezers
 Gailīšu pagasts
@@ -454,7 +454,7 @@ Gaiļu Ezers, Gaiļu Purvs
 Gaiņu Pūrs, Gainu Purvs
 Galgauskas Ezers
 Galgauskas pagasts
-Galiņu Ezers, Galinis, Šalna
+Galiņu Ezers, Ežeras Šalna, Galinis, Šalna
 Galēnu pagasts
 Garais Ezers, Garais Ezero, Gurais Ezers, Indricu Ezers, Ozero Garais Ezers, Ozero Garays-Ezers, Ozero Indritsa, Ozero Indritsi Ezers
 Garasts
@@ -490,7 +490,7 @@ Graudupes Tīrelis, Graudupes Purvs
 Grebis
 Greidāni
 Greiļu Dīķis
-Grendzes Ezers
+Grendzes Ezers, Ežeras Grendžia
 Gribuļupīte, Gribuļe
 Griuznis Ezers, Gružņu Ezers
 Griķlībpurs, Griķu Purvs, Lielā Pūņa
@@ -535,8 +535,8 @@ Ilzes Ezers, Ozero Ilze
 Ilzeskalna pagasts
 Ilziķezers, Ilziķis, Ilziķu Ezers
 Ilziņš, Iizine, Juisenu Exers
-Ilzu Ezers
-Ilūkste
+Ilzu Ezers, Ežeras Ilgė
+Ilūkste, Lukšta
 Ilūkstes Novads
 Imula, Imule, Jmula
 Indras pagasts
@@ -593,7 +593,7 @@ Jaunupe, Yaunupe
 Jaunā Ruņa, Puņa, Reka Runya, Rune, Ruņa
 Jazinks, Jazinkas Ezers
 Jaša, Yasha
-Jelgava
+Jelgava, Елгава
 Jelgavas novads, Jelgavas Rajons, Yelgavskiy Rayon
 Jermolu Mežs
 Jersikas pagasts
@@ -625,8 +625,8 @@ Juveris, Juvera Ezers, Ozero Yuveris
 Jāņuciema Ezers, Janovkas Ezers
 Jāņupe, Jaunā Jāņupe, Reka Yanupe
 Jāņupīte, Janovka
-Jēkabpils, Jakobsztat, Jakubów
-Jēkabpils Municipality, Jēkabpils novads
+Jēkabpils, Jakobsztat, Jakubów, Jėkabpilis, Екабпилс
+Jēkabpils Municipality, Jēkabpils novads, Jėkabpilio savivaldybė, Екабпилсский край
 Jērcēnu pagasts
 Jērkules Ezers, Ozero Iyerkule, Ozero Yerkules-Ezers
 Jūdažu Ezers, Ozero Yudazhezer
@@ -660,7 +660,7 @@ Kalva
 Kalvenes Ezers
 Kalvenes pagasts
 Kalētu pagasts
-Kalšu Ezers
+Kalšu Ezers, Kalčių Ežeras
 Kamalda, Kamaldina
 Kamardės Miškas, Kamardes Mežs
 Kaminčas Ezers
@@ -756,7 +756,7 @@ Kroja, Reka Kroya
 Kroņauces Dzirnavu Ezers
 Krustalīce
 Krustkalnu Rezervāts
-Krustpils Novads, Krustpils, Krustpils Municipality
+Krustpils Novads, Krustpilio savivaldybė, Krustpils, Krustpils Municipality, Крустпилсский край
 Krustpils pagasts
 Krāckalnu Ezers
 Krāmi
@@ -786,7 +786,7 @@ Kundumezers, Kunduma Ezers
 Kundzin Island, Kundziņsala
 Kundziņu Ezers
 Kupravas pagasts
-Kurcuma Ezers, Kurčinas Ezers
+Kurcuma Ezers, Kurcumų Ežeras, Kurčinas Ezers
 Kurijānovas Ezers
 Kurliņupe, Kurliņupīte, Oltuža
 Kurmenes pagasts
@@ -836,7 +836,7 @@ Latgale
 Latgales dīķis
 Lauberes pagasts
 Lauce
-Laucesas Ezers, Laukesas, Smelīnes Ezers, Smėlynė
+Laucesas Ezers, Ežeras Laukesas, Laukesas, Smelīnes Ezers, Smėlynė
 Laucesas pagasts
 Laucienes pagasts
 Lauderu pagasts
@@ -884,7 +884,7 @@ Lielais Jūgezers, Jūgu Ezers, Ozero Yugi, Ozero Yugu-Ezers
 Lielais Kalupa Ezers, Kalupa Ezers, Kalupes Ezers
 Lielais Kangaru Ezers, Kangaru Ezers
 Lielais Kangaru Purvs, Boloto Liyelkangaru, Lielkangaru Purvs
-Lielais Kumpotis
+Lielais Kumpotis, Ežeras Kampuotis III
 Lielais Kūriņa ezers
 Lielais Ludzas Ezers
 Lielais Līdēris
@@ -899,7 +899,7 @@ Lielalksnīte, Lielalksnīts Sala, Ostrov Liyelalksnits
 Lielapsauju Ezers, Apsauju Ezers, Ozero Apsauyu, Ozero Apsauyu-Ezers
 Lielauces Ezers, Auces Ezers, Ozero Lielautses, Ozero Lielautses Ezers
 Lielauces pagasts
-Lielie Orīši, Orīši
+Lielie Orīši, Orīši, Б.Ориши
 Lielie Čakši
 Lielplatones pagasts
 Lielpurvs, Boloto Liyel-Purvs, Saklaura Purvs, Saklauru Purvs
@@ -930,7 +930,7 @@ Liepsalas Ezers
 Liepu Sala
 Liepupe, Liepupe River, Liyepupe
 Liepupes pagasts
-Liepāja
+Liepāja, Liepoja, Лиепая
 Liepāja Inner Naval Harbour
 Liepājas Ezers, Libau Lake, Libavskoye Ozero, Liepaja Lake, Liepājas See, Ozero Lepaya, Ozero Libava, Ozero Liepayyas-ezers, Ozero Liyepaya, Ozero Liyepayas
 Liepājas Rajons, Liyepayskiy Rayon
@@ -1053,10 +1053,10 @@ Mazais Baltezers, Baltezers Mazais, Ozero Baltezers, Ozero Mazay-Baltezer
 Mazais Bauzis
 Mazais Jūgezers
 Mazais Kalupa Ezers, Kalupa Ezers
-Mazais Kumpotis
+Mazais Kumpotis, Ežeras Kampuotis I
 Mazais Nabas Ezers, Maznabas Ezers, Maznabes Ezers, Nabes Ezers
 Mazais Stropu ezers, Mazstropu Ezers, Stropicu Ezers
-Mazais Subates Ezers, Ežeras Šetekšnis
+Mazais Subates Ezers, Ežeras Subatas, Ežeras Šetekšnis
 Mazais Vipēdis, Ozero Mazvipedis
 Mazais Čakšu Ezers
 Mazalksnīte, Mazalksnīts Sala
@@ -1114,7 +1114,7 @@ Mežagaiļu Ezers
 Mežlodes, Mezhlode, Mežlode
 Mežmuiža, Mežamuiža
 Mežotnes pagasts
-Mežupe, Mežupis, Mieupis, Reka Mezhupe
+Mežupe, Mežupis, Mieupis, Miežupis, Reka Mezhupe
 Mežupīte
 Mežvidu pagasts
 Mežzara Upīte
@@ -1149,7 +1149,7 @@ Muižnieka Ezers, Muižnieko Ezers, Ozero Muzhniyeka-Ezers
 Mulcas, Mulces, Multses
 Munda, Munde
 Murauki, Murauka, Muravka, Murovka
-Murdzenis
+Murdzenis, Marčiupys
 Murmastienes pagasts
 Mustera Ezers
 Mutulīte
@@ -1177,7 +1177,7 @@ Mērsraga novads
 Mērsrags, Mērsraga
 Mētrienas pagasts
 Mēķes Polderis, Mekes, Mekes Ezers, Ozero Mekes-Ezers
-Mīlestības Saliņa
+Mīlestības Saliņa, Остров Любви
 Mīlestības akmens
 Mīlgrāvis, Kanál Myúl'graben, Milgravaja Channel, Milgravis Harbour, Milgravja Channel, Muehlengraben Channel, Mīlgrāvis Channel, Mīlgrāvja Caurteka, Protoka Milgravis
 Mūku Sala, Mūku Island
@@ -1238,7 +1238,7 @@ Odze
 Odzes Ezers, Ozero Odres
 Odzienas Ezers
 Oglaine, Oglayne
-Ogre, Ogre River
+Ogre, Ogre River, Uogrė
 Ogres novads
 Ogresgala pagasts
 Oksle, Balgales Upe
@@ -1265,7 +1265,7 @@ Otaņķu pagasts
 Ots, Ata Ezers
 Ovišrags, Liserort, Lyser Ort, Lyuzerort, Mys Lyuzerort, Mys Ovisi, Mys Ovizi, Oviza Rags, Oviši, Oviši Point
 Ovišu Sēklis, Lyser Ort Bank, Ovisi Bank, Oviši Riff
-Ozero Chërnoye
+Ozero Chërnoye, Озеро Чёрное
 Ozolaines Dīķis, Ozero Pitka
 Ozolaines pagasts
 Ozolmuižas pagasts
@@ -1282,7 +1282,7 @@ Padures pagasts
 Painītes Purvs, Boloto Paynite, Jāņkalna Purvs, Kammas Paintes Purvs
 Pakrace, Pikrača
 Paksīte
-Pakuļezers
+Pakuļezers, Ozero Pakul'ezer
 Pakuļu Ūdenskrātuve
 Pakšēnu Ezers
 Paldažu Dīķi
@@ -1470,7 +1470,7 @@ Rencēnu pagasts
 Renda, Zuiede, Zviede
 Rendas pagasts
 Rengė
-Republic of Latvia, Latvia, Latvian Soviet Socialist Republic, Latvija, Latvijas Padomju Socialistiska Respublika, Latvijas Republika, Latviyskaya Sovetskaya Sotsialisticheskaya Respublika
+Republic of Latvia, Latvia, Latvian Soviet Socialist Republic, Latvija, Latvijas Padomju Socialistiska Respublika, Latvijas Republika, Latviyskaya Sovetskaya Sotsialisticheskaya Respublika, Латвия
 Rešentnieku Ezers
 Rideļu Dzirnavu Ezers, Ozero Vanadzinya
 Rieba
@@ -1530,11 +1530,11 @@ Rundēnu pagasts
 Rušonas pagasts
 Rušons, Ozero Rushony, Ozero Rushony Ezers, Rušanu Ezers, Rušenu Ezers, Rušiuns, Rušonu Ezers
 Rāznas Ezers, Ozero Rezna, Ozero Rezna Ezers, Rēznas Ezers
-Rāķis, Ozero Rakya, Raķa Ezers, Rūķu Ezers
+Rāķis, Ozero Rakya, Ozero Rat'a-Ezers, Raķa Ezers, Rūķu Ezers
 Rēzekne, Reka Reyezekne, Reka Rezhitsa, Rēzekne River, Čečava
 Rēzeknes Novads, Rezeknenskiy Rayon, Rēzeknes Rajons
 Rīdzeņupīte, Rīdzene
-Rīga, Gorod Riga
+Rīga, Gorod Riga, Ryga
 Rīgas Rajons, Rizhskiy Rayon
 Rīgas Ūdenskrātuve, Rizhskoye Vodokhranilishche, Rīgas HES Ūdenskrātuve
 Rīva, Rīve
@@ -1640,7 +1640,7 @@ Skarbezers, Silkalēju Ezers
 Skarytė
 Skaņkalnes pagasts
 Skirna
-Skirnas Ezers, Skimas, Skirnas
+Skirnas Ezers, Ežeras Skirnas, Skimas, Skirnas
 Sknābe
 Skolasupe, Skale
 Skrebeļu Pūrs, Skrebeļu-Skrūzmaņu Purvs
@@ -1763,9 +1763,9 @@ Suļka
 Svariņu pagasts
 Svarīte
 Svente, Virbupe
-Sventes ezers, Ozero Sventen, Sventenu Ezers
+Sventes ezers, Ozero Sventen, Sventenu Ezers, Šventės ežeras, Свентес, Свентское озеро
 Sventes pagasts
-Svirkale, Svirkalnis
+Svirkale, Melkupė, Svirkalnis
 Svitene, Reka Shvitene, Reka Shvitinis, Svirtene, Svitenis, Švitinis, Švitinys
 Svitenes pagasts
 Sviļu ezers
@@ -1961,7 +1961,7 @@ Velkumpļavas, Velkuma Pļava
 Velna Dīķis
 Velnezers, Ozero Velna
 Venta, Venta River, Windau River
-Ventspils
+Ventspils, Ventspilis
 Ventspils Municipality, Ventspils Rajons, Ventspils novads, Ventspilsskiy Rayon
 Ventspils Osta, Gavani Vindavy, Ventspils Harbor, Ventspils Jūras Osta, Windau Harbor
 Ventspils Port, Latvia Ferry Port

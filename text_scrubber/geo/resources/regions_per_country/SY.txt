@@ -1625,7 +1625,7 @@ Al Ḩūţah, الحوطة
 Al-Bab District, El Bab, Minţaqat al Bāb, Qaḑā' al Bāb, منطقة الباب
 Al-Haffah District, Al-Hiffeh, Haffe, Haffeh, Minţaqat al Ḩaffah, Qaḑā' al Ḩaffah, منطقة الحفة
 Al-Hasakah District, Al Ḩasijah, Hasakeh, Hassetche, Jezireh, Minţaqat Markaz al Ḩasakah, Minţaqat al Ḩasakah, Qaḑā' al Ḩasakah, Qaḑā' al Ḩasijah, منطقة الحسكة, منطقة مركز الحسكة
-Al-Hasakah Governorate, Al Ḩasakah, Jezireh, Muḩāfaz̧at al Jazīrah, Muḩāfaz̧at al Ḩasakah, al-Hassake, الحسكة, محافظة الحسكة
+Al-Hasakah Governorate, Al Ḩasakah, Al-Hasaka, Jezireh, Muḩāfaz̧at al Jazīrah, Muḩāfaz̧at al Ḩasakah, al-Hassake, الحسكة, محافظة الحسكة
 Al-Malikiyah District, Dajla, Minţaqat Dijlah, Minţaqat ad Dijlah, Minţaqat al Mālikīyah, Qadā' Dayrīk, Qaḑā' Dijlah, Tigre, منطقة الدجلة, منطقة المالكية
 Al-Mukharram District, Minţaqat al Mukharram, منطقة المخرم
 Al-Nabk District, Kalamom, Minţaqat an Nabk, Qalamoun, Qalamūn, Qaza of Nebek, Qaḑā' an Nabk, منطقة النبك
@@ -1641,7 +1641,7 @@ Al-Suqaylabiyah District, Minţaqat al Ghāb, Minţaqat as Suqaylibīyah, منط
 Al-Tall District, Minţaqat at Tall, منطقة التل
 Al-Thawrah District, Minţaqat ath Thawrah, منطقة الثورة
 Al-Zabadani District, Minţaqat az Zabadān, Minţaqat az Zabadānī, Qaḑā' az Zabadani, Zebdāni, Zébédâni, منطقة الزبداني
-Aleppo Governorate, Aleppo, Muḩāfaz̧at Ḩalab, حلب, محافظة حلب, Ḩalab
+Aleppo Governorate, Alep, Aleppo, Muḩāfaz̧at Ḩalab, حلب, محافظة حلب, Ḩalab
 Alzahera garden
 An Na'jah, النعجة
 An Na'mūsah, النعموسة
@@ -1754,8 +1754,8 @@ Ar Rīf, الريف
 Ar Rūm, Er Roûm
 Ar Rūwayhīnīyah, الرويحينية
 Ar-Raqqah District, Ar Riqqa, Minţaqat Markaz ar Raqqah, Minţaqat ar Raqqah, Qaḑā' ar Raqqah, Rakka, Raqqa, منطقة الرقة, منطقة مركز الرقة
-Ar-Raqqah Governorate, Al Rashid, Ar Rashīd, Muḩāfaz̧at ar Raqqah, الرقة, محافظة الرقة
-Arabia, Arabia (Roman province)
+Ar-Raqqah Governorate, Al Rashid, Ar Rashīd, Ar-Raqqa, Muḩāfaz̧at ar Raqqah, الرقة, محافظة الرقة
+Arabia, Arabia (Roman province), Arabie (province romaine)
 Arbīkh, Ar Rbîh, Er Rbîh, اربيخ
 Ardasht Dafā, أردشت دفا
 Ardāsh Dāgh, Ardach Dârh, ارداش داغ
@@ -5258,7 +5258,7 @@ Buḩayrat Sadd Zaytā, بحيرة سد زيتا
 Buḩayrat Sadd ar Rastan, Buḩayrat ar Rastan, بحيرة الرستن, بحيرة سد الرستن
 Buḩayrat Sittat 'Ashar Tishrīn, 16 Tishreen Lake, Buḩayrat as Sādis 'Ashar min Tishrīn, بحيرة 16 تشرين
 Buḩayrat al 'Utaybah, Bahr el Aateïbé, Bahret el 'Ateibe, Bahret esh Sharqīye, Baḩrat ash Sharqīyah, بحيرة العتيبة
-Buḩayrat al Asad, Bahret Assad, Buhayrat al Assad, Lake Assad, بحيرة الأسد
+Buḩayrat al Asad, Bahret Assad, Buhayrat al Assad, Lac Assad, Lake Assad, بحيرة الأسد
 Buḩayrat al Hījānah, Bahret Hijjâné, Bahret el Hijane, بحيرة الهيجانة
 Buḩayrat al Jabūl, بحيرة الجبول
 Buḩayrat aş Şawwānah, بحيرة الصوانة
@@ -5489,14 +5489,14 @@ Dahr Kufūr ad Dabah, ضهر كفور الدبة
 Dahrat al Qasīs, Dahr el Qattâli, Tall al Qasīs, Tell el Qassîs, ضهرة القسيس
 Dakkat ash Shaykh Zayyāt, Dikkat ash Shaykh Zayyāt, دكة الشيخ زيات
 Dalamātā, دلماتا
-Damascus Countryside, Damascus, Muḩāfaz̧at Dimashq, Muḩāfaz̧at Rīf Dimashq, Rif-dimashq, Rif-dimashq Governorate, ريف دمشق, محافظة ريف دمشق
-Damascus Governorate, Damascus City, Dimashq, Madīnat Dimashq al Mumtāzah, Muḩāfaz̧at Dimashq, Muḩāfaz̧at Madīnat Dimashq, Şam, دمشق, محافظة دمشق
+Damascus Countryside, Damascus, Muḩāfaz̧at Dimashq, Muḩāfaz̧at Rīf Dimashq, Rif Dimashq, Rif-dimashq Governorate, ريف دمشق, محافظة ريف دمشق
+Damascus Governorate, Damas, Damascus City, Dimashq, Madīnat Dimashq al Mumtāzah, Muḩāfaz̧at Dimashq, Muḩāfaz̧at Madīnat Dimashq, Şam, Դամասկոսի մարզ, دمشق, محافظة دمشق
 Damīm, Dmîm, Démîm
 Daouar al Qtil, Daouar el Qtil
 Daqr Wādī al Ḩajalah, دقر وادي الحجلة
 Daqrat Khuḑūr al Ḩamad, دقرة خضور الحمد
 Daraa District, Deraa, Dir'a, Haurān, Minţaqat Dar'ā, Minţaqat Markaz Dar'ā, Qaḑā' Dar'ā, منطقة درعا, منطقة مركز درعا
-Daraa Governorate, Dar'ā, Daraa, Haourane, Haurān, Muhafaza of Dera'a, Muḩāfaz̧at Dar'ā, Muḩāfaz̧at Hawrān, درعا, محافظة درعا
+Daraa Governorate, Dar'ā, Daraa, Deraa, Haourane, Haurān, Muhafaza of Dera'a, Muḩāfaz̧at Dar'ā, Muḩāfaz̧at Hawrān, درعا, محافظة درعا
 Darajat 'Alī Sulaylūm, درجة علي سليلوم
 Darajāt at Tall, درجات التل
 Darayya District, Minţaqat Dārayyā, منطقة داريا
@@ -5721,7 +5721,7 @@ Hulayl aş Şābir, هليل الصابر
 Hābūsat al Mīzān, هابوسة الميزان
 Idlib District, Idleb, Idlid, Minţaqat Idlib, Minţaqat Markaz Idlib, Qaḑā' Idlib, منطقة ادلب, منطقة مركز ادلب
 Idlib Governorate, Idleb, Idlib, Muḩāfaz̧at Idlib, ادلب, محافظة ادلب
-Imperium Palmyrenum, Palmyrene Empire
+Imperium Palmyrenum, Empire de Palmyre, Palmyrene Empire
 Ishārat Abū Jabwāyā, Ichâret Abou Jébouâya
 Ishārat al 'Abbūsh, Ichâret el Abboûch
 Ishārat an Nadīrah, Ichâret enn Nâdra
@@ -5954,7 +5954,7 @@ Jabal Hawār, جبل هوار
 Jabal Hawīyat ar Ra's, Jabal Huwwat ar Ra's, Jabal Ḩawīţ ar Ra's, Jebel Haouît er Râas, Jebel Haouît er Râs, Jebel Haouît er Râss, جبل هوية الرأس
 Jabal Huwwār, جبل هوار
 Jabal Ja'far, Jabal Jaafar, جبل جعفر
-Jabal Jabīsah, Jebel Jébîssa, جبل جبيسة
+Jabal Jabīsah, Jebal Djibissa, Jebel Jébîssa, جبل جبيسة
 Jabal Jamrah, Jebel Jumrah
 Jabal Janaq, جبل جنق
 Jabal Jaqlī, جبل جقلي
@@ -6581,7 +6581,7 @@ Jabal ar Rubb, Jabal ad Dubb, Jebel ed Debb, جبل الرب
 Jabal ar Rubā, جبل الربا
 Jabal ar Rumaylī, جبل الرميلي
 Jabal ar Ruwaysah, جبل الرويسة
-Jabal ar Ruwāq, Djebel er Ruak, Jabel esh Sharqi, Jebel Rouaq, Jebel ech Charq, Jebel er Rauwāq, جبل الرواق
+Jabal ar Ruwāq, Djabal al-Charqi, Djebel er Ruak, Jabel esh Sharqi, Jebel Abou-el-Kos, Jebel Rouaq, Jebel ech Charq, Jebel er Rauwāq, جبل الرواق
 Jabal ar Ruḩaybah, Jebel Rouhaïbé
 Jabal as Sab', جبل السبع
 Jabal as Sabīq, جبل السبيق
@@ -7621,7 +7621,7 @@ Kūrīn, Kourîne
 Lajjah, Letchè, لجة
 Lake Bahzinah, Buḩayrat 'Ayn Murayzah, Buḩayrat Baḩzīnah, بحيرة بحزينة, بحيرة عين مريزة
 Latakia District, Latakia, Lattaquie, Minţaqat Markaz al Lādhiqīyah, Minţaqat al Lādhiqīyah, Qaḑā' al Lādhiqīyah, منطقة اللاذقية, منطقة مركز اللاذقية
-Latakia Governorate, Al Lādhiqīyah, Latakia, Muḩāfaz̧at al Lādhiqīyah, اللاذقية, محافظة اللاذقية
+Latakia Governorate, Al Lādhiqīyah, Latakia, Lattaquié, Muḩāfaz̧at al Lādhiqīyah, اللاذقية, محافظة اللاذقية
 Lawţ aţ Ţawwāfī, لوط الطوافي
 Laylak Dāgh, Jabal Laylak, Laïlak Dârh, جبل ليلك, ليلك داغ
 Laylān, Tall Laylān, Tell Lilan, ليلان
@@ -11647,7 +11647,7 @@ Suyūl al Kuwar, سيول الكور
 Suyūl al Ḩimmiş, سيول الحمص
 Suyūl ash Shu'nah, سيول الشعنة
 Suyūl aş Şīrah, سيول الصيرة
-Syrian Arab Republic, Al Iqlīm as Sūrī, Al Iqlīm ash Shamālī, Al Jumhūrīyah al 'Arabīyah as Sūrīyah, Al-Sham, Al-Suriyah, Arām, Ash Shām, El Sham, El Suriya, Es Suriya, Esh Sham, La Syrie, Northern Region, Siria, Suriye, Syria, Syrian Region, Syrie, Sûrî, Sūriyā, الجمهورية العربية السورية, الشام, سوريا, سورية
+Syrian Arab Republic, Al Iqlīm as Sūrī, Al Iqlīm ash Shamālī, Al Jumhūrīyah al 'Arabīyah as Sūrīyah, Al-Sham, Al-Suriyah, Arām, Ash Shām, El Sham, El Suriya, Es Suriya, Esh Sham, La Syrie, Northern Region, République arabe syrienne, Siria, Surie, Suriye, Syria, Syrian Region, Syrie, Sûrî, Sūriyā, الجمهورية العربية السورية, الشام, سوريا, سورية
 Syrian Desert, Badiet-es Cham, Bādiyat ash Shām
 Sédîr Mahrîb
 Sāqiyat 'Atmah, ساقية عتمة
@@ -13495,7 +13495,7 @@ Tanāhī, Tanahetch, Tanaḩ, Tanâhé
 Tar ad Duwaynah, Târ ed Doueïna, تار الدوينة
 Tartarus Bank, Tartus Bank, Tatarus Bank
 Tartus District, Minţaqat Markaz Ţarţūs, Minţaqat Ţarţūs, Qaḑā' Ţarţūs, Tartouss, Tartoûs, منطقة طرطوس, منطقة مركز طرطوس
-Tartus Governorate, Muḩāfaz̧at Ţarţūs, Tartus, محافظة طرطوس
+Tartus Governorate, Muḩāfaz̧at Ţarţūs, Tartous, Tartus, محافظة طرطوس
 Tashrīfat Zayn al 'Ābidīn, تشريفة زين العابدين
 Tawūs Rizij, Ta ūs Rizij
 Tayfa', تيفع

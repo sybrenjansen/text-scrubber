@@ -21,7 +21,7 @@ Achen Pass
 Acheneck
 Achenkirch, Achenkirch am Achensee
 Achenkopf
-Achensee, Achen Lake, Ахензе, Ахенське озеро, 阿亨湖
+Achensee, Achen Lake, Achensko jezero, Ахензе, Ахенське озеро, 阿亨湖
 Achental, Achenthal
 Acherkogel, Acherkogl
 Achhorn
@@ -476,7 +476,7 @@ Arnberg
 Arnfels
 Arngraben
 Arnhorner
-Arnoldstein, Арнольдштайн, 阿諾爾德施泰因
+Arnoldstein, Podklošter, Арнольдштайн, 阿諾爾德施泰因
 Arnolzfelder
 Arnreit
 Arntal
@@ -713,7 +713,7 @@ Bad Sauerbrunn
 Bad Schallerbach
 Bad Schönau
 Bad St. Leonhard im Lavanttal
-Bad Tatzmannsdorf, Tarcsafürdő, Бад-Тацманнсдорф, Бад-Тацмансдорф, 巴特塔茨曼斯多夫
+Bad Tatzmannsdorf, Tarcsafürdő, Tarča, Бад-Тацманнсдорф, Бад-Тацмансдорф, 巴特塔茨曼斯多夫
 Bad Vigaun
 Bad Vöslau
 Bad Waltersdorf
@@ -1474,7 +1474,7 @@ Burg
 Burgau, 布尔高
 Burgauberg-Neudauberg
 Burgberg
-Burgenland, Bgld, 布尔根兰州
+Burgenland, Bgld, Gradišće, Gradiščanska, 布尔根兰州
 Burger Bach
 Burgerfeld
 Burgertal
@@ -1724,13 +1724,13 @@ Detmolder Grat
 Deutsch Goritz
 Deutsch Jahrndorf
 Deutsch Kaltenbrunn
-Deutsch Schützen-Eisenberg, Németlövő-Csejke, Дойч-Шютцен-Айзенберг, 德意志许岑-艾森贝格
+Deutsch Schützen-Eisenberg, Livio, Németlövő-Csejke, Дойч-Шютцен-Айзенберг, 德意志许岑-艾森贝格
 Deutsch-Griffen
 Deutsch-Wagram
 Deutsche Thaya, Rakouská Dyje, Thaya Fluss
 Deutscher Wald
 Deutschfeistritz
-Deutschkreutz, Sopronkeresztúr, Дойчкройц, 德意志克罗伊茨
+Deutschkreutz, Kerestur, Sopronkeresztúr, Дойчкройц, 德意志克罗伊茨
 Deutschlandsberg
 Deutschordenswald
 Deutschwaldbach
@@ -1816,7 +1816,7 @@ Donnerkogel
 Donnersbach
 Donnersbachwald
 Donnerschlag
-Donnerskirchen, Fertőfehéregyháza, Доннерскирхен, 多内尔斯基兴
+Donnerskirchen, Bijela Crikva, Fertőfehéregyháza, Доннерскирхен, 多内尔斯基兴
 Donnerstein
 Donnerswand
 Doren
@@ -1960,7 +1960,7 @@ Düns
 Dünser Horn
 Dünserberg
 Dürlstein
-Dürnbach, Dirn Bach, Düren Bach
+Dürnbach, Dirn Bach, Düren Bach, Vincet
 Dürnberg
 Dürnkrut, Дюрнкрут, 迪恩克鲁特
 Dürnleiser Graben
@@ -2386,7 +2386,7 @@ Erster Leiterkogel
 Ertl
 Erz Bach
 Erzbach
-Erzberg, Erzberg mine, Ерцберг
+Erzberg, Erzberg mine, Rudnik Erzberg, Ерцберг
 Erzberg-Görlitzen
 Erzbergspitze
 Erzgraben
@@ -2556,7 +2556,7 @@ Feld am See
 Feldaist, Aist Bach
 Feldalpenhorn
 Feldanergraben
-Feldbach, Фельдбах, 费尔德巴赫
+Feldbach, Vrbna, Фельдбах, 费尔德巴赫
 Feldbahnbach
 Feldberg
 Feldboden
@@ -2839,7 +2839,7 @@ Frauenhaupt
 Frauenholz
 Frauenkar
 Frauenkirchen, Boldogasszony, Фрауенкірхен, 弗劳恩基兴
-Frauenkogel
+Frauenkogel, Dovška Baba
 Frauenkopf
 Frauenlacke, Frauen Lacke, Frauenlacken
 Frauenloch
@@ -2899,7 +2899,7 @@ Friedau
 Friedbach
 Friedberg, Фридберг, 弗里德贝格
 Friedrichstal
-Friesach, Фризах, 弗里薩赫
+Friesach, Breže, Фризах, 弗里薩赫
 Friesling
 Frießenkogel
 Frimmlalm
@@ -3824,7 +3824,7 @@ Grafennsspitze
 Grafenschachen
 Grafenschlag
 Grafenspitze, Grafenspitz
-Grafenstein, Графенштайн, 格拉芬施泰因
+Grafenstein, Grabštanj, Графенштайн, 格拉芬施泰因
 Grafensulzer Bach
 Grafenwald
 Grafenwegerhöhe
@@ -3892,7 +3892,7 @@ Graukogel
 Graulahnerkogel
 Graunock
 Grausen
-Graz, Грац, 格拉茨
+Graz, Gradec, Грац, 格拉茨
 Graz Bach
 Graz Stadt, Stadt Graz
 Grazbach
@@ -4303,7 +4303,7 @@ Großes Woazköpfl
 Großfaxenwald
 Großfeld
 Großfleißbach, Grosser Fleiss Bach
-Großglockner, Гросглоккнер, Ґросглокнер, 大格洛克納山
+Großglockner, Veliki Klek, Гросглоккнер, Ґросглокнер, 大格洛克納山
 Großgmain
 Großgmainberg
 Großgöttfritz
@@ -4588,11 +4588,11 @@ Gurgler Eisjoch
 Gurgler Ferner, Grosser Gurgler Ferner
 Gurgler Schartl
 Gurgltal
-Gurk, Gurk Fluss, 古尔克
+Gurk, Gurk Fluss, Krka Avstrija, 古尔克
 Gurkbach
 Gurksee, Gurkursprung, Torer Seen, Torersee
 Gurktal, Gurk Thal
-Gurktaler Alpen, Gurktal Alps, 古爾克阿爾卑斯山脈
+Gurktaler Alpen, Gurktal Alps, Krške Alpe, 古爾克阿爾卑斯山脈
 Gurlspitze
 Gurnik, Gurnick
 Gurpitschegg, Gurpetschegg, Gurpitscheck
@@ -4685,7 +4685,7 @@ Güntle
 Güntlespitze
 Güotle
 Gürtlerspitz
-Güssing, Németújvár, Гюссинг, 居兴
+Güssing, Novi Grad, Németújvár, Гюссинг, 居兴
 Gütenbach
 Gütenbachtor
 Güttenbach
@@ -6034,7 +6034,7 @@ Hornfeldspitze
 Hornkogel
 Hornköpfl
 Hornspitz
-Hornstein, Szarvkő, Горнштайн, Хорнштайн, 霍恩施泰因
+Hornstein, Szarvkő, Vorištan, Горнштайн, Хорнштайн, 霍恩施泰因
 Horntaler Joch
 Hornwehrteich
 Hostiz
@@ -7195,7 +7195,7 @@ Klafferschneide
 Klaftergraben
 Klafteräcker
 Klag Kogel
-Klagenfurt
+Klagenfurt, Celovec ob Vrbskem jezeru
 Klagenfurt am Wörthersee, Stadt Klagenfurt
 Klagenfurt-Villach
 Klagenfurter Spitze
@@ -7599,7 +7599,7 @@ Kobenz
 Kobenzer Bach, Kobenzbach
 Kobergraben
 Kobernausser Wald, Kobernauser Wald
-Kobersdorf, Kabold, 科伯斯多夫
+Kobersdorf, Kabold, Kobrštof, 科伯斯多夫
 Kobesnock, Kowesnock
 Koblach, Коблах, 科布拉赫
 Kochalm
@@ -7695,7 +7695,7 @@ Koppentretalm
 Koppenwinkellacke
 Koppl
 Kopreinbach
-Koralpe
+Koralpe, Golica
 Korbach
 Korbriese
 Korbschrofen
@@ -7957,7 +7957,7 @@ Krumme Steyr
 Krumme Steyrling
 Krummlüsse
 Krummnussbaum, Krumnussbaum
-Krumpendorf am Wörthersee
+Krumpendorf am Wörthersee, Kriva Vrba
 Krumpenwasser
 Krunglwald
 Krusdorf
@@ -8821,7 +8821,7 @@ Lochgehrenkopf
 Lochgehrenspitze
 Lochkogel, Lochkogl
 Lochwiesenberg
-Lockenhaus, Léka, Локенгаус, Локкенхаус, 洛肯豪斯
+Lockenhaus, Livka, Léka, Локенгаус, Локкенхаус, 洛肯豪斯
 Lodner - Cima Fiammante, Lodner
 Lodron
 Lofer, Loferbach
@@ -8868,7 +8868,7 @@ Loreck
 Loregg
 Lorenzer Bach
 Lorenzkopf
-Loretto, Lorettom, 洛勒托
+Loretto, Lorettom, Lovreta, 洛勒托
 Lorüns
 Losenbach, Lusenbach
 Losenpass
@@ -9023,7 +9023,7 @@ Madritschengupf, Cima di Madrizze, Madritschenkopf
 Magaiskopf
 Magdalena Berg, Sennhübel
 Magdalenensee, Magdalena See
-Magdalensberg, 马格达伦斯贝格
+Magdalensberg, Štalenska gora, 马格达伦斯贝格
 Magdwieseck
 Magdwiesenbach
 Magnetköpfl
@@ -9150,7 +9150,7 @@ Maria Saal
 Maria Saaler Berg
 Maria Schmolln
 Maria Taferl
-Maria Wörth, Мариа-Вёрт, 玛丽亚韦尔特
+Maria Wörth, Otok, Мариа-Вёрт, 玛丽亚韦尔特
 Maria-Anzbach
 Maria-Elend-Sattel
 Maria-Lanzendorf
@@ -9580,7 +9580,7 @@ Moosalpe
 Moosbach, Moosbachgraben, Mossbach, Мосбах, 莫斯巴赫
 Moosbretter
 Moosbrunn
-Moosburg, Мосбург, 莫斯堡
+Moosburg, Možberk, Мосбург, 莫斯堡
 Moosdorf
 Mooseck
 Mooseck Höhe
@@ -9933,7 +9933,7 @@ Neualpe
 Neualpwinkel
 Neubach
 Neubauer Bach
-Neuberg
+Neuberg, Nova Gora
 Neuberg an der Mürz
 Neuberg im Burgenland
 Neubergalm
@@ -10019,7 +10019,7 @@ Neusiedl am See
 Neusiedl an der Zaya
 Neusiedler Remise
 Neusiedler Schanze
-Neusiedler See, Fertő, Fertő Tava, Fertő Tói, Fertő-tó, Lake Neusiedl, Neusiedler Lake, Нойзидлер-Зе, Нойзідлер, Нойзідлер-Зеє, 新錫德爾湖
+Neusiedler See, Fertő, Fertő Tava, Fertő Tói, Fertő-tó, Lake Neusiedl, Neusiedler Lake, Nežidersko jezero, Niuzaljsko jezero, Нойзидлер-Зе, Нойзідлер, Нойзідлер-Зеє, 新錫德爾湖
 Neusiedler Wald
 Neusiedler Wiesen, Zitzmannsdorfer Wiesen
 Neustadtl
@@ -10110,7 +10110,7 @@ Niederwaldkirchen
 Niederwechsel
 Niederwölz
 Niederöblarn
-Niederösterreich, Alsó-Ausztria, Lower Austria, Nideristaraich, Niederdonau, Нижня Австрія, Нижняя Австрия, Төменгі Аустрия, 下奧地利州
+Niederösterreich, Alsó-Ausztria, Donja Austrija, Lower Austria, Nideristaraich, Niederdonau, Spodnja Avstrija, Нижня Австрія, Нижняя Австрия, Төменгі Аустрия, 下奧地利州
 Niederösterreich-Süd
 Niernstein
 Nigelsbach
@@ -10675,7 +10675,7 @@ Paudorf
 Paulbauernalm
 Pauliberg
 Paulinerkopf, Pellinkopf
-Paulitschsattel
+Paulitschsattel, Pavličev Vrh
 Paulitschwand
 Paulmauer
 Paulsberg
@@ -11471,7 +11471,7 @@ Raggal
 Ragginger See, Raggingersee
 Ragnitz
 Ragstatt Joch
-Raiding, Doborján, Райдинг
+Raiding, Doborján, Rajnof, Райдинг
 Raidingbach
 Raidlgraben
 Raidling
@@ -11771,7 +11771,7 @@ Rennsteineben
 Rennweg am Katschberg
 Rennwiesen
 Renzelscharte
-Republic of Austria, Austria, Ausztria, Republik Österreich, Österreich, Австрия, 奥地利
+Republic of Austria, Austria, Austrija, Ausztria, Avstrija, Republik Österreich, Österreich, Австрия, 奥地利
 Reschenhorn
 Reschenkogel
 Rescheskogel
@@ -12198,7 +12198,7 @@ Rubach, Achbach
 Rubenkogel
 Rubitzkoteich
 Ruchwannenkopf
-Ruden, 鲁登
+Ruden, Ruda, 鲁登
 Ruderhofspitze
 Rudersattel
 Rudersburg, Rudersberg
@@ -12236,7 +12236,7 @@ Ruprechtshofen
 Russbach am Pass Gschütt
 Russkopf
 Russwasser
-Rust, Ruszt, Stadt Rust
+Rust, Ruszt, Rušta, Stadt Rust
 Rusteck
 Rustenfeld
 Rustenried
@@ -12934,7 +12934,7 @@ Schiefer Berg
 Schiefer Spitze
 Schiefermahd
 Schieferstein
-Schiefling am See, Schiefling am Wörthersee, Шифлинг-ам-Зе, 滨湖席弗灵
+Schiefling am See, Schiefling am Wörthersee, Škofiče, Шифлинг-ам-Зе, 滨湖席弗灵
 Schiefwegkogl
 Schielleiten
 Schiepeln
@@ -13812,7 +13812,7 @@ Siedeljoch
 Siedersgraben
 Siedlteich
 Siedlung Lockerwiese
-Siegendorf, Cinfalva
+Siegendorf, Cindrof, Cinfalva
 Siegersdorf bei Herberstein
 Sieggraben
 Sieghartser Bach
@@ -14281,7 +14281,7 @@ Steglüßteich
 Stegwiesen
 Steidel Berg
 Steierbach, Steyerbach
-Steiermark, Styria, Stájerország, Штирия, 施泰爾馬克州
+Steiermark, Styria, Stájerország, Štajerska, Штирия, 施泰爾馬克州
 Steigfeld
 Steigklamm
 Steigl Berg
@@ -14330,7 +14330,7 @@ Steinbruchgraben
 Steinbruchkogel
 Steinbruchteich
 Steinbruchäcker
-Steinbrunn, Stinkenbrunn
+Steinbrunn, Stinkenbrunn, Štikapron
 Steinböden
 Steinbühel
 Steinbühel [Windhaag bei Freistadt]
@@ -14576,7 +14576,7 @@ Straß im Straßertale
 Straß in Steiermark
 Straß-Spielfeld
 Straßalm
-Straßburg, Штрасбург
+Straßburg, Strasbourg, Штрасбург
 Straßenfeld
 Straßengelberg
 Straßenäcker
@@ -15735,7 +15735,7 @@ Veitschalpe
 Veitsmoos
 Velden am Wörthersee
 Velillspitze
-Vellach
+Vellach, Bela
 Vellacher Kotschna, Vellacher Kočna
 Velm-Götzendorf
 Venediger Scharte
@@ -15792,7 +15792,7 @@ Viertlfeistritz
 Viggarspitze
 Viggartal
 Viktorsberg
-Villach
+Villach, Beljak
 Villach Stadt, Beljak, Stadt Villach
 Villacher Alpe
 Villacher Becken
@@ -15843,7 +15843,7 @@ Volksgarten
 Volland Spitze
 Vomp
 Voralpe
-Vorarlberg, Форарльберг, 福拉尔贝格州
+Vorarlberg, Predarlska, Форарльберг, 福拉尔贝格州
 Vorau
 Vorau Bach
 Vorchdorf
@@ -16381,7 +16381,7 @@ Weißenegger Berg
 Weißenkirchen an der Perschling, Вайсенкирхен-ан-дер-Першлинг, 佩尔施灵河畔魏森基兴
 Weißenkirchen im Attergau
 Weißenkirchen in der Wachau
-Weißensee, Weissen, Weiszen See, 魏森湖
+Weißensee, Belo jezero, Weissen, Weiszen See, 魏森湖
 Weißenstein
 Weißensteineralm
 Weißer Knopf
@@ -16789,7 +16789,7 @@ Wolfsau
 Wolfsbach
 Wolfsbacher Feld
 Wolfsbachergraben
-Wolfsberg, Вольфсберг, 沃爾夫斯貝格
+Wolfsberg, Volšperk, Вольфсберг, 沃爾夫斯貝格
 Wolfsberg [Bad Großpertholz]
 Wolfsberg im Schwarzautal
 Wolfseck
@@ -17165,7 +17165,7 @@ Zottachkopf, Zottach Kofel
 Zotterberg
 Zsigmondyspitze
 Zu den Vier Linden
-Zuberbach
+Zuberbach, Sabara
 Zuchthausblaike
 Zuckerhut
 Zuckerhütl, Цуккерхютль

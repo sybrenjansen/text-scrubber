@@ -31,7 +31,7 @@ Arusha Chini
 Arusha City, Arusha City Council, Arusha Urban
 Arusha District, Arusha
 Arusha National Park
-Arusha Region, Arusha
+Arusha Region, Arusha, Mkoa wa Arusha
 Asante Nyerere
 Augusta Islands
 Ayamaami
@@ -797,7 +797,7 @@ Chuvwi Forest Reserve
 Chwaka
 Chwaka Bay
 Chwale
-Coast Region, Coast, Pwani, Pwani Region
+Coast Region, Coast, Mkoa wa Pwani, Pwani, Pwani Region
 Daa
 Dabaga
 Dabalo
@@ -864,7 +864,7 @@ Doda
 Dodo
 Dodoma
 Dodoma Makulu, Dom-Makulu
-Dodoma Region
+Dodoma Region, Mkoa wa Dodoma
 Dodoma Reservoir Forest Reserve
 Dodoma Rural District
 Dodoma Urban District
@@ -1114,7 +1114,7 @@ Geheri
 Geiro
 Geita, Geita District, Geita District Council
 Geita Forest Reserve
-Geita Region
+Geita Region, Mkoa wa Geita
 Geitasamo
 Gelai
 Gelai Forest Reserve
@@ -1705,7 +1705,7 @@ Iriga Island
 Iringa
 Iringa Forest Reserve
 Iringa Mvumi Zamani, Iringamvumi
-Iringa Region
+Iringa Region, Mkoa wa Iringa
 Iringa Rural District
 Iringa Urban District
 Iringo, Rengo
@@ -2019,7 +2019,7 @@ Kagambe
 Kagambi Hill, Kagamba
 Kagenda
 Kagera
-Kagera Region, Lake Province, Lake Region, West Lake Region, Ziwa Magharibi Region
+Kagera Region, Lake Province, Lake Region, Mkoa wa Kagera, West Lake Region, Ziwa Magharibi Region
 Kagera River
 Kagerankanda
 Kagoji, Kago, Kigoro
@@ -2353,7 +2353,7 @@ Katangara Mrere
 Katanta
 Katati, Ngusiwa
 Katavi Plain Game Reserve, Katavi National Park
-Katavi Region, Katavi
+Katavi Region, Katavi, Mkoa wa Katavi
 Katavi Swamp
 Katazi
 Katazi Hills
@@ -2629,7 +2629,7 @@ Kigoma
 Kigoma Bay
 Kigoma Kaskazini
 Kigoma Kusini
-Kigoma Region
+Kigoma Region, Mkoa wa Kigoma
 Kigoma Rural
 Kigoma Ujiji Municipal, Kigoma Municipal-Ujiji, Kigoma Ujiji Municipal Council
 Kigomani
@@ -2794,10 +2794,10 @@ Kilimandege
 Kilimandembo
 Kilimangombe
 Kilimani
-Kilimanjaro, Chilimangiaro, Mount Kilimanjaro
+Kilimanjaro, Chilimangiaro, Mount Kilimanjaro, جبل كليمنجارو
 Kilimanjaro Game Reserve
 Kilimanjaro International Airport, KIA
-Kilimanjaro Region
+Kilimanjaro Region, Mkoa wa Kilimanjaro
 Kilimarondo, Kilima Rondo
 Kilimbe
 Kilimi
@@ -3680,7 +3680,7 @@ Lake Tanga
 Lake Tenge
 Lake Tlawi, Lake Kwansari
 Lake Utenge
-Lake Victoria, Nam Lolwe, Ukerewe, Victoria Nyanza
+Lake Victoria, Nam Lolwe, Ukerewe, Victoria, Victoria Nyanza, بحيرة فيكتوريا
 Lake W. Heckmann
 Lalago
 Lalaji
@@ -3812,7 +3812,7 @@ Linda
 Lindi Bay
 Lindi Harbour
 Lindi Hills
-Lindi Region, Lindi
+Lindi Region, Lindi, Mkoa wa Lindi
 Lindi River, Mto Lukuledi
 Lindi Rural
 Lindi Urban
@@ -4673,7 +4673,7 @@ Mantala Hills
 Mantare
 Manundu
 Manyara
-Manyara Region
+Manyara Region, Mkoa wa Manyara
 Manyeche
 Manyema
 Manyero
@@ -4711,7 +4711,7 @@ Mapunju, Mabunju
 Maputi
 Mara
 Mara Bay
-Mara Region, North Mara
+Mara Region, Mkoa wa Mara, North Mara
 Marakara River, Marakara
 Maramasi
 Maramba
@@ -5009,7 +5009,7 @@ Mbeya City, Mbeya City Council, Mbeya Urban
 Mbeya Forest Reserve
 Mbeya Range
 Mbeya Range Forest Reserve
-Mbeya Region
+Mbeya Region, Mkoa wa Mbeya
 Mbeza
 Mbezi, Mbezi River
 Mbezi Juu
@@ -5777,7 +5777,7 @@ Mori Bay
 Morogoro Base East, Base East
 Morogoro Base West, Base West
 Morogoro Fuel Reserve
-Morogoro Region, Morogoro
+Morogoro Region, Mkoa wa Morogoro, Morogoro
 Morogoro Rural
 Morogoro Urban
 Morotonga
@@ -6155,7 +6155,7 @@ Mtwara, Mikindani District, Mtwara District, Mtwara District Council, Mtwara Rur
 Mtwara Bay, Mto Mtwara, Mtwara Harbor
 Mtwara Mjini
 Mtwara Port
-Mtwara Region
+Mtwara Region, Mkoa wa Mtwara
 Mtwara Urban
 Mtwivila
 Mtyangimbole
@@ -6569,7 +6569,7 @@ Mwanyanganga River, Mwanyanganga
 Mwanyanya
 Mwanyenzi, Mwanyezi
 Mwanza Gulf, Muansa-Golf
-Mwanza Region, Mwanza
+Mwanza Region, Mkoa wa Mwanza, Mwanza
 Mwanzange
 Mwanzenga
 Mwanzogisengi Forest Reserve
@@ -7204,7 +7204,7 @@ Njoka
 Njombe, Myombe
 Njombe District Council, Njombe District, Njombe Rural
 Njombe Mjini
-Njombe Region
+Njombe Region, Mkoa wa Njombe
 Njombe Town, Njombe Town Council, Njombe Urban
 Njoro
 Njuga
@@ -7706,7 +7706,7 @@ Ol Doinyo Dili
 Ol Doinyo Egelogi
 Ol Doinyo Gol, Ol Donyo Ogol Hills
 Ol Doinyo Lembele
-Ol Doinyo Lengai, Oldongo-lengai
+Ol Doinyo Lengai, Oldongo-lengai, جبل أولدوينيو لنغاي
 Ol Doinyo Liyu
 Ol Doinyo Lolbene, Lolbene
 Ol Doinyo Loldorodobogane
@@ -7864,9 +7864,9 @@ Pemba Channel
 Pemba Island, El Huthera
 Pemba Juu Island, Little Koma Island
 Pemba Mnazi, Pembamnazi
-Pemba North Region, District of Pemba, Pemba North
+Pemba North Region, District of Pemba, Kaskazini Pemba, Mkoa wa Kaskazini Pemba, Pemba North
 Pemba Point
-Pemba South Region, Pemba South
+Pemba South Region, Kusini Pemba, Mkoa wa Kusini Pemba, Pemba South
 Pembamoto
 Pembe
 Pembe la Mbogu
@@ -8283,7 +8283,7 @@ Rukoma
 Rukono River, Rukono
 Rukuraijo
 Rukwa
-Rukwa Region
+Rukwa Region, Mkoa wa Rukwa
 Rukwa Rift Valley, Rukwa Trough
 Rukyira Bar
 Rukyira Bay
@@ -8345,7 +8345,7 @@ Ruvu Remiti
 Ruvu River, Kingoni
 Ruvu River Controlled Area
 Ruvuma
-Ruvuma Region
+Ruvuma Region, Mkoa wa Ruvuma
 Ruvumo
 Ruwana
 Ruwawa Plateau
@@ -8618,7 +8618,7 @@ Shindimbe, Shindime
 Shinga
 Shinwankeli, Shinwakeli
 Shinyanga Mjini
-Shinyanga Region, Malya Region, Shinyanga
+Shinyanga Region, Malya Region, Mkoa wa Shinyanga, Shinyanga
 Shinyanga Rural
 Shinyanga Urban
 Shiperenge
@@ -8705,7 +8705,7 @@ Simbu
 Simeni
 Siminjiro
 Simiyu, Simiyu River
-Simiyu Region
+Simiyu Region, Mkoa wa Simiyu
 Simpala, Sipala
 Sina Island
 Sinanga
@@ -8719,7 +8719,7 @@ Sindeni
 Singa
 Singe
 Singe Swamp
-Singida Region, Singida
+Singida Region, Mkoa wa Singida, Singida
 Singida Rural District
 Singida Urban District
 Singino
@@ -8811,7 +8811,7 @@ Songoro
 Songosongo
 Songuli
 Songwa
-Songwe, Msongwe, Songwe Region
+Songwe, Mkoa wa Songwe, Msongwe, Songwe Region
 Songwe District
 Songwe River
 Soni
@@ -8909,7 +8909,7 @@ Syantembe
 Tabaruka
 Tabata
 Tabiro
-Tabora Region, Tabora
+Tabora Region, Mkoa wa Tabora, Tabora
 Tabora Urban, Tabora Municipal District
 Tagari
 Tagata
@@ -8950,7 +8950,7 @@ Tandu
 Tanga, Tanga City Council, Tanga District
 Tanga Bay
 Tanga Inner Harbour
-Tanga Region
+Tanga Region, Mkoa wa Tanga
 Tanganyika
 Tangasisi
 Tangata
@@ -9229,7 +9229,7 @@ Unga Limited, Unga Ltd
 Ungoni
 Unguja Ukuu Kaebona, Unguja Ukuu
 Unguja Ukuu Kaepwani
-United Republic of Tanzania, Tansania, Tanzania, Tanzanie, United Republic of Tanganyika and Zanzibar
+United Republic of Tanzania, Tansania, Tanzania, Tanzanie, United Republic of Tanganyika and Zanzibar, تانزانيا
 Unyahati
 Unyakyusa
 Unyambwa
@@ -9549,14 +9549,14 @@ Zanga
 Zanka
 Zanzibar
 Zanzibar Archipelago
-Zanzibar Central/South Region, Zanzibar Central/South
+Zanzibar Central/South Region, Kusini Unguja, Mkoa wa Kusini Unguja, Zanzibar Central/South
 Zanzibar Channel
 Zanzibar Harbor
 Zanzibar Island, Menuthias, Unguja, Unguja Island
-Zanzibar North Region, Zanzibar North
+Zanzibar North Region, Kaskazini Unguja, Mkoa wa Kaskazini Unguja, Zanzibar North
 Zanzibar Park
 Zanzibar Point
-Zanzibar Urban/West Region, Urban District of Zanzibar, Zanzibar Urban/West
+Zanzibar Urban/West Region, Mjini Magharibi, Mkoa wa Mjini Magharibi, Urban District of Zanzibar, Zanzibar Urban/West
 Zanzui
 Zanzuzi, Sansui
 Zegi

@@ -107,7 +107,7 @@ Addagliali, Haddagliali
 Addale, Monti Addaale, Monti Addale
 Addekti
 Addi Arkay
-Addis Ababa, Addis Ababa Region, Ādīs Ābeba
+Addis Ababa, Addis Ababa Region, Ādīs Ābeba, Ādīs Ābeba Āstedader
 Addis Ababa Zone 1
 Addis Ababa Zone 2
 Addis Ababa Zone 3
@@ -154,7 +154,7 @@ Afadda
 Afaedli
 Afaf Badane
 Afar Dogut
-Afar Region, Afar Regional State, The State of Afar, Āfar
+Afar Region, Afar Regional State, The State of Afar, Āfar, Āfar Kilil
 Afas Dega
 Afaẖ
 Afder
@@ -321,7 +321,7 @@ Amduray
 Amedamit, Monti Amidamit
 Amergie, Monti Amergie
 Amfelau, Monte Amfelau
-Amhara Region, Amhara, The State of Amhara, Āmara
+Amhara Region, Amhara, The State of Amhara, Āmara, Āmara Kilil
 Amigna
 Ammayu
 Amoissa, Monte Amoissa
@@ -763,7 +763,7 @@ Bench Maji Zone, Bench Maji, Benchi
 Bendi
 Bendo Bota
 Beneta
-Benishangul-Gumuz Region, Beneshangual Gumz Regional State, Benishangul-Gumuz, Bīnshangul Gumuz, The State of Benshangul/Gumuz
+Benishangul-Gumuz Region, Beneshangual Gumz Regional State, Benishangul-Gumuz, Bīnshangul Gumuz, Bīnshangul Gumuz Kilil, The State of Benshangul/Gumuz
 Benk'o Bota
 Benkira, Benchira
 Bennesho
@@ -1965,7 +1965,7 @@ Diodi
 Dira Āmba Terara, Daber Amba, Diramba Terara, Dire Āmba Terara, Dyre Amba Terara
 Dirashe Special Woreda
 Dire
-Dire Dawa Region, Dire Dawa
+Dire Dawa Region, Dire Dawa, Dirē Dawa Āstedader
 Dire Dawa Zone, Dire Dawa
 Dire Tiyara
 Diria
@@ -2399,7 +2399,7 @@ Fascalli, Monte Fascalli
 Fasha Bota
 Fasīl Bota
 Fat'o Bota
-Federal Democratic Republic of Ethiopia, Abessinien, Abissinia, Abyssinia, Abyssinie, El Habesha, Ethiopia, Etioopia, Etiopia, Hibreteseb'āwīt Ītyop'iya, People's Democratic Republic of Ethiopia, Socialist Ethiopia, Ye' Etiyop'iya Niguse Negast Mengist, Äthiopien, Ītyop'yā
+Federal Democratic Republic of Ethiopia, Abessinien, Abissinia, Abyssinia, Abyssinie, El Habesha, Ethiopia, Etiopia, Hibreteseb'āwīt Ītyop'iya, Itoobbiya, Itoobiya, Itoophiyaa, People's Democratic Republic of Ethiopia, Socialist Ethiopia, Ye' Etiyop'iya Niguse Negast Mengist, YeĪtyop'iya Fēdēralawī Dēmokrasīyawī Rīpeblīk, YeĪtyop'iya Hizbawī Dīmokrasīyawī Rīpublīk, Äthiopien, Ītyop'iya, Ītyop'yā, የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ
 Fedis
 Fednī Terara
 Fego
@@ -2590,7 +2590,7 @@ Gamanya, Gamanya Shet'
 Gambata, Cambatta, Gambatta, Monti Cambatta, Monti Gambatta
 Gambato, Monte Gambato
 Gambela
-Gambela Region, Gambela Regional State, Gambella Region, Gambēla Hizboch, The State of Gambela Peoples
+Gambela Region, Gambela Regional State, Gambella Region, Gambēla Hizboch, Gambēla Hizboch Kilil, The State of Gambela Peoples
 Gambela Wildlife Reserve
 Gambela Zuria
 Gambela Zuria (woreda)
@@ -3503,7 +3503,7 @@ Haramsam
 Haramto, Har
 Harar Wildlife Sanctuary
 Harari
-Harari Region, Harari Regional State, Hārerī Hizb, The State of Harari People
+Harari Region, Harari Regional State, Hārerī Hizb, Hārerī Hizb Kilil, The State of Harari People
 Hararte
 Hararu Terara
 Harbu Bota
@@ -4481,7 +4481,7 @@ Lakaiyer Bardaili
 Lake Afrera, Egoghi Bad, Egogi, Egogi Bad, Gaulietti, Lago Giulietti, Lago Guilietti, Lake Afdera, Āfrēra YeCh'ew Hāyk'
 Lake Awasa, Awusā, Lake Hawassa, Āwasa Hāyk'
 Lake Stefanie, Bass Marlà, Bass Marlè, Basso Naebor, Chalbi, Chau Bahr, Chow Bahr, Chulbi, Galte, Ist'īfanos Hāyk', Lago Stefania, Stefanie-See
-Lake Tana, Dambiya, Dembea, Lake Tsana, T'ana Hāyk'
+Lake Tana, Dambiya, Dembea, Lake Tsana, T'ana Hāyk', ጣና ሐይቅ
 Lake Verde, Horaro Hāyk'
 Lake York
 Lakorma Wenz
@@ -4495,7 +4495,7 @@ Lamina, Isola Lumina
 Lammele
 Lan Coscin
 Langama, Lagama, Langama Island
-Langano Hāyk', Lake Langanno, Lake Langano, Lake Langeno, Langara, Lānganā
+Langano Hāyk', Lake Langanno, Lake Langano, Lake Langeno, Langaanoo, Langara, Lānganā
 Langē Hāyk', Lange-Khayk
 Langē Shet'
 Lankoba
@@ -5484,7 +5484,7 @@ Orma Shet'
 Orobo Terara, Mount Orobo
 Oromia Zone
 Oromiya
-Oromiya Region, Oromia Regional State, Oromiyaa, The State of Oromia
+Oromiya Region, Oromia Regional State, Oromiyaa, Oromīya Kilil, The State of Oromia
 Oror
 Orori
 Ororogo
@@ -6045,7 +6045,7 @@ Sollo
 Solē Shet', Solē
 Solē Ēso Shet', Solē'ēso
 Somadu
-Somali Region, Gobolka Soomaalida, Somali, Somalia Regional State, Sumalē, The State of Somalia
+Somali Region, Gobolka Soomaalida, Somali, Somalia Regional State, Sumalē, Sumalē Kilil, The State of Somalia
 Somaliland, Eastern Horn, Somali Coast, Somali Peninsula
 Somba Hāyk', Sombai
 Sombo Bota
@@ -6083,7 +6083,7 @@ South Omo Zone
 South West Shewa, Southwest Shewa
 South Wollo Zone, Debub Wollo, South Wollo
 Southeastern Tigray Zone, Debub Misraqawi, Zoba Enderta
-Southern Nations Nationalities and People's Region, Nationalities and Peoples The State of Southern Nations, SNNPR, Southern Nations and Nationalities Peoples Regional State, YeDebub Bihēroch Bihēreseboch na Hizboch
+Southern Nations Nationalities and People's Region, Nationalities and Peoples The State of Southern Nations, SNNPR, Southern Nations and Nationalities Peoples Regional State, YeDebub Bihēroch Bihēreseboch na Hizboch, YeDebub Bihēroch Bihēreseboch na Hizboch Kilil
 Southern Tigray Zone, Debubawi, Debubawi Tigray, South Tigray, Southern, Southern Tigray
 Southwest Shuwa
 Soyama, Soiama
@@ -6319,7 +6319,7 @@ Tiacki, Siski, Tiaki
 Tif Amba
 Tigarē Terara
 Tigray Kifle Hāger, Tegrē, Tigrai, Tigray, Tigrē
-Tigray Region, The State of Tigray, Tigray, Tigray Regional State
+Tigray Region, The State of Tigray, Tigray, Tigray Kilil, Tigray Regional State
 Tikurit Bado
 Tikuro
 Tilik'u Chacha, Tilik'u Cha'ch'a Shet'
@@ -7067,7 +7067,7 @@ Zingedo
 Zinghini, Zingini
 Zingīnī Kibeb Hāyk'
 Zinjero, Gingero, Jīnjer Shet', Zingerò
-Ziway Hāyk', Lake Ziway, Lake Zuai, Lake Zwai, Lake Zway, Zewāy
+Ziway Hāyk', Lake Dambal, Lake Ziway, Lake Zuai, Lake Zwai, Lake Zway, Zewāy
 Zo'ā Shet'
 Zobil, Monti Zabul, Zabul, Zebul, Zobul
 Zobint Bota

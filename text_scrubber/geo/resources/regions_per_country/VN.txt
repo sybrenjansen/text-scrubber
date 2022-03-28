@@ -26,7 +26,7 @@ An Tức
 Ang Bang Beach
 Ang Nam
 Annam, Anam, Central Viet Nam, Centre-Viêtnam, Chung-bo, Trung Bộ, Trung Phần, Trung-Ky, Trung-Viet
-Annamite Mountains, Anamite, Annam Chain, Annam Cordillera, Annam Highlands, Annam Range, Annamese Cordillera, Annamite Chain, Annamite Cordillera, Annamitic Cordillera, Cordillière Annamitique, Cyong-Chon, Grande Cordillière, Hoanh-Son Cordillera, La Cordillère, La Cordillère d'Annam
+Annamite Mountains, Anamite, Annam Chain, Annam Cordillera, Annam Highlands, Annam Range, Annamese Cordillera, Annamite Chain, Annamite Cordillera, Annamitic Cordillera, Chaîne Annamitique, Cordillière Annamitique, Cyong-Chon, Grande Cordillière, Hoanh-Son Cordillera, La Cordillère, La Cordillère d'Annam
 Anouhi
 Anse de Ba Ngoi
 Anse de la Carcasse
@@ -216,7 +216,7 @@ Bãi Hòn Cat Tham
 Bãi Hòn Ngang
 Bãi Khem
 Bãi Nam, Bãi Nam Son, Bãi Nan Lai Sôn
-Bãi Nhà Mạc
+Bãi Nhà Mạc, Tam Coc
 Bãi Rang
 Bãi Sau
 Bãi Thùy Vân
@@ -850,7 +850,7 @@ Cát Tiên National Park
 Cây Giếp
 Cô Tô
 Côn Ngoài
-Côn Sơn, Poulo Condor, Poulo Condore, Pulau Kondor, Pulau Kondor Islands, Pulo Condore Group, Đặc khu hành chính Côn Đảo
+Côn Sơn, Poulo Condor, Poulo Condore, Pulau Kondor, Pulau Kondor Islands, Pulo Condore Group, Îles de Poulo Condore, Đặc khu hành chính Côn Đảo
 Côn Sơn Island, Côn Lôn, Côn Lôn Island
 Công Viên Nước Sài Gòn
 Công Viên Tao Đàn
@@ -864,7 +864,7 @@ Cù Lao Bình Chánh
 Cù Lao Bình Thủy
 Cù Lao Bưng
 Cù Lao Bờ Bãi, Kulao Bo Bai, Île Nord
-Cù Lao Cau, Culao Cau, Culao Cecir de Terre, Cù lao Hòn, Poulo Cecir de Terre, Pulo Cicir de Terre
+Cù Lao Cau, Culao Cau, Culao Cecir de Terre, Cù lao Hòn, Poulo Cecir de Terre, Pulo Cecir de Terre, Pulo Cicir de Terre
 Cù Lao Chà Và
 Cù Lao Chàm, Kulao Cham
 Cù Lao Cái Cáo
@@ -1362,7 +1362,7 @@ Dang S'ruin
 Dang Sity
 Dang Sra
 Dansenarre
-Dao Khi, Monkey Island
+Dao Khi, Ile aux singes, Monkey Island
 Dar Chà
 Dar Kaya, Dar Kaye
 Dar Rố Choc, Dar Ro Chai
@@ -1741,7 +1741,7 @@ Hiêp Thạnh
 Hiệp Hưng, Hiep My
 Hiệp Ninh
 Ho Ba Loc
-Ho Chi Minh City, Ho Chi Minh, Prey Nokor, Saigon, Thành phố Hồ Chí Minh, Thành phố Sài Gòn
+Ho Chi Minh City, Ho Chi Minh, Hô-Chi-Minh-Ville, Prey Nokor, Saigon, Thành phố Hồ Chí Minh, Thành phố Sài Gòn, ទីក្រុងព្រៃនគរ, 胡志明市
 Ho Chi Minh Vict Port
 Ho Tao San
 Hoa Kett
@@ -1750,7 +1750,7 @@ Hoa Ngan
 Hoa Sau Re
 Hoa Saure
 Hoan Kiem Lake
-Hoang Sa Isand, Badaoluo Dao, Laocu Dao, Laocu Zhi, Pa-t'ao-erh Tao, Pattle Island, Pi-t'ao-erh Tao, Shan-hu Tao, Shang-hu Tao, Shanhu Dao, Đảo Hoàng Sa, 珊瑚岛, 老粗岛, 老粗峙
+Hoang Sa Isand, Badaoluo Dao, Laocu Dao, Laocu Zhi, Pa-t'ao-erh Tao, Pattle Island, Pi-t'ao-erh Tao, Shan-hu Tao, Shang-hu Tao, Shanhu Dao, Đảo Hoàng Sa, 八道羅島, 珊瑚岛, 老粗岛, 老粗峙
 Hoi Hin
 Hoi Hoka, Hoi Noka
 Hoi Kan Ho
@@ -2691,9 +2691,9 @@ Hòn Lo Dam Ca
 Hòn Lo Dam Nai
 Hòn Lo Ong Gia
 Hòn Long, Hon U
-Hòn Long Châu Bắc
+Hòn Long Châu Bắc, Rocher Pointu
 Hòn Long Châu Nam
-Hòn Long Châu Tây
+Hòn Long Châu Tây, Île Ouest
 Hòn Long Châu Đông, Norway Est
 Hòn Long Doi, Ilot Da Tai, Îlot Varella
 Hòn Lây
@@ -2813,7 +2813,7 @@ Hòn Thị
 Hòn Thủ
 Hòn To Yen
 Hòn Trang
-Hòn Tranh
+Hòn Tranh, Îlot du Sud
 Hòn Tre, Dao Tre, Kua Island, Lon Island, North Island, Tecksu Island, Teksu, Tre Island, Turtle Island, Île Tecksu, Île Tortue, Île Torture, Île Tre, Île Tye
 Hòn Tre Lớn
 Hòn Tre Nhỏ, Hon Tae Niao, Hon Tai Nho, Hon Thre Nho
@@ -2882,7 +2882,7 @@ Hòn Đầu Gỗ
 Hòn Đầu Tán
 Hòn Đền, Île du Passage
 Hòn Đỏ
-Hòn Đốc, Grand Pirate, Great Pirate Island, Hon Tre Ion
+Hòn Đốc, Grand Pirate, Great Pirate Island, Hon Tre Ion, Kaoh Ruessei
 Hòn Đội Trương, Hon Voi Truong
 Hòn Đụn, Hon Nuoc
 Hòn Đụng, Pyramid Island, Île Pyrmide
@@ -4455,7 +4455,7 @@ Mans
 Mau Giong Cay Chan
 Maï Djueng
 Maï Quy
-Mekong Delta, Delta du Mékong, Mekong River Delta, Đồng Bằng Sông Cửu Long
+Mekong Delta, Delta du Mekong, Mekong River Delta, Đồng Bằng Sông Cửu Long
 Mekong River, Cambodia River, Cuu Long Giang, Dachu, Dza-chu, Lan Tsiang Kiang, Lan-Chan Chiang, Lan-ts'ang Chiang, Lan-tsan Kiang, Lancang Jiang, Lang Tsang Kiang, Lantsan, Lantsang Kiang, Mae Nam Khong, Mae Nam Phong, Maenam Kaung, Me Nam Kong, Megaung Myit, Mei Chiang, Mei Nam Kong, Mei-Kung Ho, Mekon, Menam Kaung, Mènam Khong, Méigōnghé, Mékôngk, Nam Hkawng, Song Cuu Long, Sông Tién Giang, Tonle Thom
 Minh Khai
 Minh Phú
@@ -4469,7 +4469,7 @@ Mouillage de Hòn Chut, Hon Shut Anchorage
 Moun Nao
 Mu Nâu
 Mu-nan Kuan, Chen-nan Kuan, Munam Pass, Nan Kuan, Porte de Chie, Porte de Chine, Porte de Nam Quan
-Mui Da Vaich, Baux Cap Varella, Davaich Head, False Cap Varella, False Varela, La Pointe Da Vaich, Mũi Đá Vách
+Mui Da Vaich, Baux Cap Varella, Davaich Head, False Cap Varella, False Varela, Faux Cap Varella, La Pointe Da Vaich, Mũi Đá Vách
 Mung Lu
 Muổi Choi, Houei Choi, Huôi Choi
 My Yen
@@ -4564,7 +4564,7 @@ Mũi Nai, Nuinai Point, Pointe Nui Nai
 Mũi Nai Ba Ken
 Mũi Nam, Pointe de Mui Nam
 Mũi Nam Châm, Cap Bantan, Cap Nam Tram, Mũi Năm Trâm
-Mũi Nghinh Phong, Cape Saint James, Mũi Vũng Tàu, Mũi Ô Cấp
+Mũi Nghinh Phong, Cap Saint-Jacques, Cape Saint James, Mũi Vũng Tàu, Mũi Ô Cấp
 Mũi Né, Pointe Vinay
 Mũi Nước Vận, Bat Nuoc Van
 Mũi Nậy
@@ -7478,7 +7478,7 @@ Phu Pờ Ma Chang
 Phu Quan
 Phu Quang Ngô
 Phu Quen Ta
-Phu Quoc Island, Fukwok, Kaw Tron, Koh Dud, Koh Tron, Koh Trâl, Phu Kok, Phú Quốc, Đảo Phú Quốc
+Phu Quoc Island, Fukwok, Kaw Tron, Koh Dud, Koh Tron, Koh Trâl, Phu Kok, Phú Quốc, Île de Phu Quoc, Đảo Phú Quốc
 Phu Quẻ
 Phu Sa Kha
 Phu Sa Phin, Mont Sa Phin, Sa Phin
@@ -9448,14 +9448,14 @@ Sin Chải Ho
 Sinh Tcha Pao
 Sinh Vinh
 So Lin Pho
-Socialist Republic of Vietnam, Công Hòa Xã Hội Chủ Nghĩa Việt Nam, Vietnam, Việt Nam
+Socialist Republic of Vietnam, Công Hòa Xã Hội Chủ Nghĩa Việt Nam, Viet Nam, Vietnam, 越南
 Sommet A
 Son Duong Port
 Song Hau residential area, KDC Sông Hậu
 Souei Chum, Suoi Chum
 Sounbou
 South Central Coast, Nam Trung Bộ
-South China Sea, Biển Đông, China Sea, Laut China Selatan, Laut Tiongkok Selatan, Laut Tjina, Nam Hải, Nan Hai, Nan Kai, South Sea, Zuid-Chineesche Zee
+South China Sea, Biển Đông, China Sea, Laut China Selatan, Laut Tiongkok Selatan, Laut Tjina, Mer de Chine méridionale, Nam Hải, Nan Hai, Nan Kai, South Sea, Zuid-Chineesche Zee
 Southeast, Đông Nam Bộ
 Square Hill
 Stung Ankam, Prek Angkam, Prek Ankam, Prek Ankom
@@ -10546,7 +10546,7 @@ Sông Hòa Bình
 Sông Hòa Tân
 Sông Hóa
 Sông Hóng Bù Lo
-Sông Hương, Huong Giang, Perfume River, Song Hue, Song Thuong thien
+Sông Hương, Huong Giang, Perfume River, Rivière des Parfums, Song Hue, Song Thuong thien
 Sông Hạ Mục
 Sông Hạ Vàng
 Sông Hải Tim
@@ -10762,7 +10762,7 @@ Sông Sa Ca
 Sông Sa Kỳ, Rivière Sa Ky, Ru de Se
 Sông Sa Pắc
 Sông Sa Thin
-Sông Sa Thầy, Dak Hedrai, Dak Hodrai, Hadrey, Nuoc Sathay, Prêk Sathay
+Sông Sa Thầy, Dak Hedrai, Dak Hodrai, Hadrey, Nuoc Sathay, Preaek Sathay, Prêk Sathay
 Sông Sam Bring
 Sông Sanh
 Sông Sao, Rach Sông Săc
@@ -11536,7 +11536,7 @@ Thị Trấn Tân Minh
 Thị Trấn Tân Nghĩa
 Thị Trấn Tân Phú
 Thị Trấn Tân Sơn
-Thị Trấn Tân Thành, TTh, Tân Thành, Tân Thành Town
+Thị Trấn Tân Thành, TTh, Tân Thành, Tân Thành Town, Ville de Tân Thành, 新城
 Thị Trấn Tân Trụ
 Thị Trấn Tân Túc
 Thị Trấn Tân Uyên
@@ -11959,7 +11959,7 @@ Vườn Quốc Gia Cúc Phương
 Vị Thủy District, Huyện Vị Thủy
 Vịnh Ba Hòn, Bai Ba Hon, Baie de Ba Hon
 Vịnh Ba Trại, Baie de Ba Trai
-Vịnh Bái Tử Long, Faitsilong Bay
+Vịnh Bái Tử Long, Baie de Bai Tu Long, Baie de Fai Tsi Long, Faitsilong Bay
 Vịnh Bãi Bắc
 Vịnh Bãi Nam
 Vịnh Cam Ranh, Baie de Cam Ranh, Cam Ranh Bay, Kam-ranh Bay, Vung Cam Ranh
@@ -11969,7 +11969,7 @@ Vịnh Côn Sơn, Baie de l'Est, Baie du Pénitencier, Con Dao, Great Bay, Vung 
 Vịnh Diễn Châu, Baie du Brandon, Vũng Phủ Diễn
 Vịnh Gành Rái, Baie de Ganh Rai, Gan-ray Bay, Ganhrai Bay, Vũng Gành Rái
 Vịnh Hon Heo, Baie de Hon Heo
-Vịnh Hạ Long, Baie d'Along, Baie d'Halong, Halong Bay, Hạ Long Bay
+Vịnh Hạ Long, Baie d'Along, Baie d'Halong, Baie de Hạ Long, Halong Bay, Hạ Long Bay
 Vịnh Khoe La, Baie Khoe La
 Vịnh Nam Chơn, Baie de Nam Chon, Vụng Nam Chon
 Vịnh Phan Thiết, Baie de Phan Thiet, Baie de Phantiet, Fanthit Bay, Vung Phan Thiet
@@ -18253,7 +18253,7 @@ phường Duyen Hai
 Đường Xuồng
 Đại Giang
 Đại Đù
-Đảo Bạch Long Vĩ, Bacht Long Vi, Bạch Long Vĩ Island, Pai-lung-wei, White Tailed Dragon, Île Bach Long Vi, Île Bakh Long Vi, Île Nightingale, Đảo Bạch Long
+Đảo Bạch Long Vĩ, Bacht Long Vi, Bạch Long Vĩ Island, Pai-lung-wei, White Tailed Dragon, Île Bach Long Vi, Île Bakh Long Vi, Île Nightingale, Đảo Bạch Long, 白龍尾
 Đảo Cao Lô, Île Ba Mùn
 Đảo Chàng Ngọ
 Đảo Cái Bầu, Cai Bau, Ka Bao Island, Île de Ke Bao
@@ -18272,12 +18272,12 @@ phường Duyen Hai
 Đảo Nghi Sơn, Bien Shon, Hòn Nghi Sơn, Ile de Bien Son
 Đảo Ngọc Vừng
 Đảo Nất Đất, Ma Tao, Ti Ma Tao
-Đảo Phú Quý, Cu Lao Hon, Cù Lao Thu, Hon Phu Quy, Poulo Cécil de Mer, Pulo Cecir de Mer, Île Thu, Đảo Phú Quí
+Đảo Phú Quý, Cu Lao Hon, Cù Lao Thu, Hon Phu Quy, Poulo Cécil de Mer, Poulo-Cécir-de-Me, Pulo Cecir de Mer, Île Thu, Đảo Phú Quí
 Đảo Phượng Hoàng
 Đảo Quả Muỗm
 Đảo Quả Xoài
 Đảo Sậu Nam, Tsieng San, Île aux Sangliers
-Đảo Tagne, Tagne Island
+Đảo Tagne, Tagne Island, Île Tagne
 Đảo Thanh Lam, Ile Tching Lan Xan, Shumlan Shan, Sieng-lan-shan, Đảo Ching Lần Xán
 Đảo Thượng Mai, Siong Lai Tao, Île Siong Lai Tiao, Île Siong Laï Tao
 Đảo Thế Vàng
@@ -18328,7 +18328,7 @@ phường Duyen Hai
 Đắk Kong
 Đắk Liam Pou Pe Ke
 Đắk Liêng, Ea Lien, Ea Lieu
-Đắk Lắk Province, Darlac, Tỉnh Đắc Lắc, Tỉnh Đắc Lắk, Tỉnh Đắk Lắk, Đăk Lăk, Đắc Lắc
+Đắk Lắk Province, Darlac, Province de Đắk Lắk, Tỉnh Đắc Lắc, Tỉnh Đắc Lắk, Tỉnh Đắk Lắk, Đăk Lăk, Đắc Lắc
 Đắk M' Ray
 Đắk Mone
 Đắk Mé, Dak Mae

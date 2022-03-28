@@ -108,7 +108,7 @@ Adalar Deresi
 Adalarçayı Deresi
 Adalet Sitesi
 Adamkıran Tepesi
-Adana, Adana Province, Adana Vilâyeti
+Adana, Adana Province, Adana Vilâyeti, Adana ili
 Adana Haci Sabancı Sanayi Sitesi, Adana Organize Sanayi Bölgesi
 Adanda Çayı, Adanda Deresi
 Adapazarı
@@ -328,7 +328,7 @@ Akresta Geçidi
 Aksakal Bucağı
 Aksakal Deresi
 Aksakkaya Tepesi
-Aksaray, Aksaray Province, Aksaray İli
+Aksaray, Aksaray Province, Aksaray ili, Axsere
 Aksaray Kent Sitesi
 Aksaray Ovası
 Aksay Burnu
@@ -753,7 +753,7 @@ Amardazı Tepesi
 Amasra Bucağı
 Amasra İlçesi
 Amastal Deresi
-Amasya, Amasia, Amasya Province, Amasya Vilâyeti, Amasya İli
+Amasya, Amasia, Amasya Province, Amasya Vilâyeti, Amasya ili
 Amasya Deresi
 Amasya Küçük Sanayi Sitesi
 Amasya Ovası
@@ -818,7 +818,7 @@ Ankara Çayı, Ankara Suyu
 Ankolik Deresi, Ankolik
 Annıyaslı Tepesi
 Antakya İlçesi, Antakya
-Antalya, Antalya Province, Antalya Vilâyeti
+Antalya, Antalya Province, Antalya Vilâyeti, Antalya ili
 Antalya Offshore Terminal
 Antepoğlu Tepesi
 Antepyolu Deresi, Antepyolu
@@ -896,7 +896,7 @@ Araç Çayı
 Araç İlçesi
 Araöz Kuyusu
 Arbey Deresi, Arbay
-Ardahan, Ardahan Province
+Ardahan, Ardahan Province, Erdêxan, Ərdəhan ili
 Ardahan Yaylası
 Ardanuç Bucağı
 Ardanuç İlçesi
@@ -1005,7 +1005,7 @@ Art Tepe
 Artabil, Ertabil Geçidi
 Artova İlçesi
 Artuklu
-Artvin, Artvin Province, Artvin Vilâyeti, Artvin İli, Livana, Livane, Çoruh
+Artvin, Artvin Province, Artvin Vilâyeti, Artvin ili, Livana, Livane, Çoruh
 Aruh Dağı, Aruhdağı Tepesi
 Arzavan Deresi
 Arı Burnu
@@ -1150,7 +1150,7 @@ Avcıahır Tepesi
 Avcıali Gölü
 Avcıkilisesi Tepesi
 Avcıkoru Deresi
-Avcılar
+Avcılar, Авджылар
 Avcılar Bucağı
 Avcılar Tepe, Nopapeni Tepe, Tupayni Tepesi
 Avcılar Tepesi
@@ -1236,7 +1236,7 @@ Aydoğmuş Tepe
 Aydoğmuş Tepesi
 Aydümen Tepesi
 Aydıcık Koyu, Aydıncık Limanı, Kephalo Bay
-Aydın, Aydın Province, Aydın Vilâyeti, Aïdin
+Aydın, Aydın Province, Aydın Vilâyeti, Aydın ili, Aïdin
 Aydın Dağları, Aydin Mountains, Aydın Sıra Dağları
 Aydın Dağı, Şihan Dağı
 Aydın Dere
@@ -1371,7 +1371,7 @@ Azik Tepesi
 Azinan Dere, Azinyen Deresi
 Aziz Dere
 Azizin Gölü
-Aziziye, Çermük
+Aziziye, Çermük, Çêrmik
 Azmac Dere
 Azmak Burnu, Burunucu Burnu, Chakal Buku, Kum Point
 Azmak Deresi, Amak Dere, Asmak Dere, Axmak Dere, Hazmak Dere
@@ -1428,8 +1428,8 @@ Ağlı İlçesi
 Ağlıcan Deresi
 Ağoluk Pınarı
 Ağoluk Tepesi
-Ağrı, Ağrı Province, Ağrı Vilâyeti, Karakilise, Karaköse
-Ağrı Dağı, Büyük Ağrı Dağı, Mount Ararat, Mountain of the Ark
+Ağrı, Agirî, Ağrı Province, Ağrı Vilâyeti, Karakilise, Karaköse
+Ağrı Dağı, Büyük Ağrı Dağı, Mount Ararat, Mountain of the Ark, Çiyayê Agirî, Çiyayê Ararat
 Ağrıkale Tepesi
 Ağtaşlı Pınarı
 Ağuluk Yaylası
@@ -1723,7 +1723,7 @@ Balık Gölü, Ak Geul, Balik See, Belik Gölü, Lake Balik, Lake Hammamli, Ozer
 Balık Kayası, Batraki Rocks
 Balık Suyu, Balyksuyu
 Balık Yaylası
-Balıkesir, Balıkesir Province, Balıkesir Vilâyeti
+Balıkesir, Balıkesir Province, Balıkesir Vilâyeti, Balıkəsir ili
 Balıkesir Ovası
 Balıkgöl Dağı
 Balıkgölü Deresi, Balıkgölüsuyu
@@ -1812,7 +1812,7 @@ Barracks Point
 Bartin River, Bartin Deresi, Bartin Suyu, Bartın Çayı, Koca Irmak, Tocaırmak
 Bartı Dere
 Bartıl Tepe, Gora Bartyl
-Bartın, Bartın Province, Bartın İli
+Bartın, Bartın Province, Bartın ili
 Bartın Boğazı
 Baruş Tepe, Gora Barush
 Barzeneka Dere
@@ -1846,7 +1846,7 @@ Bataklık Pınar
 Batakova
 Batarçıkar Deresi
 Batlama River, Batlama Çayı
-Batman, Batman Province, Batman İli, Batman İlçesi
+Batman, Batman Province, Batman ili, Batman İlçesi
 Batman Barajı
 Batman Dere
 Batman Deresi
@@ -2356,7 +2356,7 @@ Bilal Pınarı
 Bilal-İ Habeşi Parkı
 Bilalon Tepesi, Gora Bilalon
 Bilara Deresi
-Bilecik, Bilecik Province, Bilecik Vilayeti, Ertuğrul
+Bilecik, Bilecik Province, Bilecik Vilayeti, Biləcik ili, Ertuğrul
 Bileklibaşı Tepesi
 Biler Deresi
 Bileyder Düzü, Bileydere Düzü Sırtı, Syrt Beleydere-Dyuzyu
@@ -2381,7 +2381,7 @@ Bincan Deresi
 Bincan Tepesi, Gora Chelemin, Çelemin Tepesi
 Bincevan Dağı
 Bingeçit Deresi
-Bingöl, Bingöl Province, Bingöl Vilâyeti, Çapakçur
+Bingöl, Bingöl Province, Bingöl Vilâyeti, Bingöl ili, Çapakçur
 Bingöl Dağları, Bingöl Dağı, Bingöl-Dagh
 Bingöl Ovası
 Binin Deresi
@@ -2425,7 +2425,7 @@ Bistacole Tepe, Gora Bistachole
 Bitgen Dağı
 Bithynia
 Bithynia et Pontus, Bithynia and Pontus (Roman province)
-Bitlis, Bitlis Province, Bitlis Vilâyeti, Bitlis İli
+Bitlis, Bidlîs, Bitlis Province, Bitlis Vilâyeti, Bitlis ili
 Bitlis Çayı, Bitlis Suyu, Bitliss Suyu
 Bitme Geçidi
 Biya Tepe
@@ -2461,7 +2461,7 @@ Bolkardağ Tepesi, Bolkar Dağı
 Bolkardede Tepe, Bolkar Dağı
 Bolluk Gölü, Acıtuz Gölü, Bulak Gölü, Bulok Gölü, Lake Bolluk
 Bolluk Yaylası
-Bolu, Bolu Province, Bolu Vilâyeti, Bolu İli
+Bolu, Bolu Province, Bolu Vilâyeti, Bolu ili
 Bolu Dağları
 Bolu Dağı
 Bolu Ovası
@@ -2505,7 +2505,7 @@ Borçka Bucağı
 Borçka İlçesi
 Boslovan Deresi
 Bosna Parkı
-Bosporus, Bosphorus, Karadeniz Boğazı, İstanbul Boğazı
+Bosporus, Bosfor, Bosphorus, Karadeniz Boğazı, Tengava Stembolê, İstanbul Boğazı
 Bostan Burnu
 Bostan Gediği
 Bostan Tepe, Gora Bostan
@@ -2754,7 +2754,7 @@ Buluşlu Tepe
 Bunda Burnu, Bonda Burun, Cape Phineka, Finike Burnu
 Bup Dağı
 Burcalı Deresi
-Burdur, Burdur Province, Burdur Vilâyeti, Burdur İli
+Burdur, Burdur Province, Burdur Vilâyeti, Burdur ili
 Burdur Gölü, Lake Burdur
 Burgababa Tepe
 Burgar Tepesi, Gora Burgar
@@ -3414,7 +3414,7 @@ Darboğaz Sırtı
 Darboğaz Çayı
 Darbı Deresi
 Dardan Bay
-Dardanelles, Bahr Sefid Boghazi, Boghazlar, Chanaq Qal”e Boghazi, Dardanellen, Dardanelli, Dardanellia, Ellēspontos, Hellespont, Çanakkale Boğazı
+Dardanelles, Bahr Sefid Boghazi, Boghazlar, Chanaq Qal”e Boghazi, Dardanel boğazı, Dardanellen, Dardanelli, Dardanellia, Ellēspontos, Hellespont, Tengava Çanakkale, Çanakkale Boğazı
 Dardanos Tepe
 Darende Bucağı
 Darende İlçesi
@@ -3686,7 +3686,7 @@ Deniz Tepesi
 Deniz Çayı
 Denizaltı
 Denizhan Sitesi
-Denizli, Denizli Province, Denizli Vilâyeti
+Denizli, Denizli Province, Denizli Vilâyeti, Dənizli ili
 Denizçöküğü Burnu
 Denniket Sırtı, Köprü
 Depegelivekeli Sırtı, Syrt Depegeli-Vekeli
@@ -4414,8 +4414,8 @@ Ecemiş Çayı
 Ecevit Geçidi
 Edekmahallesi, Sinnandı
 Edincik Bucağı
-Edirne, Adrianople, Edirne Province, Edirne Vilâyeti
-Edremit
+Edirne, Adrianople, Edirne Province, Edirne Vilâyeti, Ədirnə ili
+Edremit, Ertemêtan
 Edremit Bucağı
 Edremit Körfezi, Edremidsk Bay, Golf von Edremit, Gulf of Adramyti
 Edremit Çayı
@@ -4546,7 +4546,7 @@ Elmukattiyat Mağaraları
 Elvanlı Bucağı
 Elver Dağı
 Elyesünnet Dağı
-Elâzığ, Elâziz, Elâzığ Vilâyeti, Mamuretülâziz
+Elâzığ, Elâziz, Elâzığ Vilâyeti, Mamuretülâziz, Parezgah Zilan
 Emalı Dağı
 Emdiz Deresi
 Emek
@@ -4705,13 +4705,13 @@ Ertaş Yaylası, Kavaklıca Yayla
 Ertuğrul Bucağı
 Ertuğrul Koyu, Sedd el Bahr Bay
 Eruh Bucağı
-Eruh İlçesi, Eruh, Eruh District
+Eruh İlçesi, Dih, Eruh, Eruh District, Navçeya Dihê
 Erzin Bucağı
 Erzin İlçesi, Erzin
-Erzincan, Erzincan Province, Erzincan Vilâyeti, Erzinjan
+Erzincan, Erzincan Province, Erzincan Vilâyeti, Erzinjan, Erzîngan, Ərzincan ili
 Erzincan Ovası
 Erzincanlılar Sitesi
-Erzurum, Erzerum, Erzurum Province, Erzurum Vilâyeti
+Erzurum, Erzerum, Erzurum Province, Erzurum Vilâyeti, Erzîrom, Ərzurum ili
 Erzurum Kars Platosu
 Erzurum Ovası
 Erzurum-Kars Yaylası
@@ -4787,7 +4787,7 @@ Eskiyurt
 Eskiyurt Deresi
 Eskiçat Deresi
 Eskiçay Dere
-Eskişehir, Eskishehir, Eskişehir Province, Eskişehir Vilâyeti
+Eskişehir, Eskishehir, Eskişehir Province, Eskişehir Vilâyeti, Əskişəhər ili
 Eskişehir Ovası
 Eskımezarlık Sırtı
 Eslek Deresi, İclik Deresi, İslik Deresi
@@ -4968,7 +4968,7 @@ Fanus Point
 Fariske Deresi
 Faruk Deresi
 Farşa Sırtı, Syrt Farsha
-Fatih
+Fatih, ФатихІ
 Fatih Bucağı
 Fatih Sultan Mehmet Kapalı Yüzme Havuzu
 Fatma Çeşmesi
@@ -5130,7 +5130,7 @@ Gazgölü Deresi, Gazgolu
 Gazhane Burnu
 Gazi Deresi, Kar Deresı
 Gazi Tepe
-Gaziantep, Ayıntap, Gaziantep Province, Gaziantep Vilâyeti
+Gaziantep, Ayıntap, Entab, Gaziantep Province, Gaziantep Vilâyeti, Qaziantep ili
 Gaziantep Serbest Bölgesi
 Gazibey Kayası, Saints Peter and Paul Island
 Gaziemir
@@ -5417,7 +5417,7 @@ Girenyoz Tepesi
 Giresor Pınarı
 Giresor Tepe, Gora Giresor
 Giresumunu Dağı, Gerişumunu Tepesi, Gora Girishumunu
-Giresun, Giresun Province, Giresun Vilâyeti
+Giresun, Giresun Province, Giresun Vilâyeti, Girəsun ili
 Giresun Adası, Big Island, Buy Adası, Puga Island
 Giresun Dağları
 Giresun Dağı
@@ -6413,7 +6413,7 @@ Hain Dere
 Hakami
 Hakim Tepesi
 Hakistan Dağı, Hakiston Dağı
-Hakkari, Hakkâri Province, Hakkâri Vilâyeti, Hakâri
+Hakkari, Hakkâri Province, Hakkâri Vilâyeti, Hakâri, Hekarî
 Hakkâri Dağları
 Hakkıbey Yarımadası
 Haklı Tepe
@@ -6747,7 +6747,7 @@ Hatan Yaylası
 Hatap Deresi
 Hatap Tepesi
 Hatapçı Dere
-Hatay, Hatay Province, Hatay Vilâyeti, Hatay İli
+Hatay, Hatay Province, Hatay Vilâyeti, Hatay ili, Xetay
 Hatepli Dere, Gökbe Deresi
 Hati Pınar
 Haticeana Dağı
@@ -7269,7 +7269,7 @@ Ivesir Deresi, Vesir
 Izmir Körfezi, Gulf of Izmir, Gulf of Smyrna
 Izmit Port
 Içkasır Tepesi
-Iğdır, Iğdır Province
+Iğdır, Iğdır Province, Îdir, İğdır ili
 Iğdır Ovası
 Iğdış Sırtı
 Iğirbiğir Deresi
@@ -7395,7 +7395,7 @@ Kago Deresi
 Kagry
 Kahramankaya Tepesi, Karamankaya Tepe
 Kahramankazan, Kazan
-Kahramanmaraş, Kahramanmaraş Province, Maraş Vilâyeti, Maraş İli
+Kahramanmaraş, Kahramanmaraş Province, Maraş Vilâyeti, Maraş İli, Mereş, Qəhrəmanmaraş ili
 Kahramanmaraş Organize Sanayı
 Kahramanşehit Tepesi
 Kahta Bucağı
@@ -8076,7 +8076,7 @@ Karaleylik Tepesi
 KaralıK Deresi
 Karalık Dağı
 Karamahmut Çeşmesi
-Karaman, Karaman Province, Karaman İli
+Karaman, Karaman Province, Karaman ili
 Karaman Deresi
 Karaman Gölü
 Karaman Tepesi, Kamelya Tepesi
@@ -8465,7 +8465,7 @@ Kasirk Tepesi, Gora Kasirk
 Kasnakdağı Tepesi
 Kasrık Boğazı, Urochishche Kasrik
 Kasrık Deresi
-Kastamonu, Kastamonu Province, Kastamonu Vilâyeti, Kastamonu İli, Kastamuni
+Kastamonu, Kastamonu Province, Kastamonu Vilâyeti, Kastamonu ili, Kastamuni
 Kastro Limanı
 Kasık Burnu
 Kasım Dağı
@@ -8695,7 +8695,7 @@ Kayrakoluk Pınarı
 Kayranlık Dağı
 Kayredüzü
 Kaysan Tepesi
-Kayseri, Kaisaria, Kayseri Province, Kayseri Vilâyeti
+Kayseri, Kaisaria, Kayseri Province, Kayseri Vilâyeti, Kayseri ili, Qeyserî
 Kayserkale Tepesi
 Kayto Pınarı
 Kayurmaçı Tepesi
@@ -9175,7 +9175,7 @@ Kilimli
 Kilimli Bucağı
 Kilimli Burnu, Kilimli Point, Kilimoli Burnu, Kilimoli Point
 Kilimli Dağı
-Kilis, Kilis Province
+Kilis, Kilis Province, Kilis ili
 Kilis Bucağı
 Kilis Deresi
 Kilis Merkez, Kilis İlçesi
@@ -9324,7 +9324,7 @@ Kocadağı Tepesi
 Kocadikmen Tepesi
 Kocadoru Tepesi
 Kocadoruk Tepe
-Kocaeli, Kocaeli Province, Kocaeli Vilâyeti, Kocaeli İli
+Kocaeli, Kocaeli Province, Kocaeli Vilâyeti, Kocaeli ili
 Kocaeli Yarımadası, İzmit Peninsula
 Kocagar Tepesi
 Kocagedik Tepesi
@@ -9488,7 +9488,7 @@ Konisor Pınarı
 Konoka Sırtı, Syrt Konoka
 Kontık Dağı
 Konuralp Bucağı
-Konya, Konia, Konya Province, Konya Vilâyeti, Konya İli
+Konya, Konia, Konya Province, Konya Vilâyeti, Konya ili, Qonye, Кония
 Konya Ovası
 Konyaaltı
 Konyaaltı Bucağı
@@ -10458,7 +10458,7 @@ Kürümlüharabesi
 Kürünü Tepesi
 Küsem Deresi, Yayla Çay
 Küsülü Dağ, Küsülü Dağı
-Kütahya, Kütahya Province, Kütahya Vilâyeti
+Kütahya, Kütahya Province, Kütahya Vilâyeti, Kütahya ili
 Kütük Burnu, Irtick Burun, Irtik Point, Kütück, Yırtık
 Kütük Tepesi
 Kütüklü Dağ
@@ -10698,7 +10698,7 @@ Kırklar Dağı
 Kırklar Tepe
 Kırklar Tepesi
 Kırklardağı Tepesi
-Kırklareli, Kirk-Kilissa, Kırklareli Province, Kırklareli Vilâyeti
+Kırklareli, Kirk-Kilissa, Kırklareli Province, Kırklareli Vilâyeti, Kırklareli ili
 Kırklareli Bucağı
 Kırklarçalı Tepesi
 Kırkminare Deresi
@@ -10784,7 +10784,7 @@ Kırınbaşı Tepesi
 Kırıngöl Yayla
 Kırıntılı Tepesi
 Kırış Dağı
-Kırşehir, Kırşehir Province, Kırşehir Vilâyeti
+Kırşehir, Kırşehir Province, Kırşehir Vilâyeti, Kırşəhər ili, Qîrşehir
 Kırşehir Çayı
 Kısa Dere
 Kısakuyu Deresı
@@ -10981,7 +10981,7 @@ Kızılöz Deresi, Kızıl Özü
 Kızılöz Çeşmesi
 Kızılüzüm Deresi
 Kızılın Arkı
-Kızılırmak, Halys, Halys River, Kizilirmak River
+Kızılırmak, Halys, Halys River, Kizilirmak River, Qızılirmaq, Rûbara Sor
 Kızılırmak Bucağı
 Kızılırmak İlçesi
 Kızım Tepe
@@ -11007,7 +11007,7 @@ Ladik Gölü, Ladik Lake, Lake Lâdik
 Ladik İlçesi
 Lahit Dağı
 Lake Tuz, Palus Tattaeus
-Lake Van, Gola Wanê‎, Van Gölü, Wan
+Lake Van, Gola Wanê, Van Gölü, Wan
 Lakos Bay, Lakosa, Şahin Koyu
 Lala Baba
 Lala Dağı
@@ -11211,7 +11211,7 @@ Malaka Deresi, Malak Deresi
 Malakeş Deresi
 Malaközü Deresi, Malaközü, Manahoz Çayı
 Malap Deresi
-Malatya, Malatia, Malatya Province, Malatya Vilâyeti, Malatya İli
+Malatya, Malatia, Malatya Province, Malatya Vilâyeti, Malatya ili, Meletî
 Malatya Dağları
 Malatya Ovası
 Malatya Çayı
@@ -11278,7 +11278,7 @@ Manek Deresi, Menek Deresi
 Manez Dağı, Manzdağı
 Mangadağı Tepesi
 Mangal Dağı
-Manisa, Manisa Province, Manisa Vilâyeti, Manisa İli, Saruhan
+Manisa, Manisa Province, Manisa Vilâyeti, Manisa ili, Saruhan
 Manisa Dağı
 Manisa Ovası
 Manit Dağı
@@ -11315,7 +11315,7 @@ Maraş Dağı
 Maraş Ovası, Kahramanmaraş Ovası
 Maraşal Tepesi
 Mardas
-Mardin, Mardin Province, Mardin Vilâyeti
+Mardin, Mardin Province, Mardin Vilâyeti, Mardin ili, Mêrdîn
 Mardin Dağları
 Mardin Merkez, Mardin İlçesi
 Mardin Platosu
@@ -11551,7 +11551,7 @@ Mermerli Kuyu
 Mermerli Tepe, Karamıklı Tepesi
 Mero Pınarı, Rodnik Mero
 Merri Tepe, Gora Merri, Merri Tepesi
-Mersin, Mersin Province, Mersina, Mersine, İçel, İçel Vilâyeti
+Mersin, Mersin Province, Mersin ili, Mersina, Mersine, İçel, İçel Vilâyeti
 Mersin Burnu, Orta Burnu
 Mersin Deresi
 Mersin Koyu
@@ -11834,7 +11834,7 @@ Munzur Deresi, Monzur Deresi
 Munzur Suyu
 Munzur Çayı, Monzursuyu, Munzursuyu
 Muradiye
-Muradiye / Berkri
+Muradiye / Berkri, Bêgirî‎
 Muradiye Bucağı
 Muradiye Dağı
 Murat Bucağı
@@ -11914,10 +11914,10 @@ Muymulca Dağı, Çildir Dağı
 Muzalı
 Muzran Yaylası
 Muzruplu Deresi
-Muğla, Muğla Province, Muğla Vilâyeti
+Muğla, Muğla Province, Muğla Vilâyeti, Muğla ili
 Muğla Deresi
 Muğlakatlığı Tepesi
-Muş, Muş Province, Muş Vilâyeti
+Muş, Muş Province, Muş Vilâyeti, Muş ili
 Muş Ovası, Mus Ova, Muş Ovas, Muş Plain
 Muşar Dağı
 Muşgüneyi Dağları
@@ -12255,7 +12255,7 @@ Oralıüstü Tepesi
 Oramar Dağları, Orama Dağı
 Orata Adası
 Orbucak
-Ordu, Ordu Province, Ordu Vilâyeti
+Ordu, Ordu Province, Ordu Vilâyeti, Ordu ili
 Ordu Limanı, Kiraz Limanı
 Ordunos Deresi, Ordonos Deresi
 Ordüzü Deresi
@@ -12353,7 +12353,7 @@ Osmaneli Bucağı
 Osmaneli İlçesi
 Osmangazi
 Osmangazi Bucağı
-Osmaniye, Osmaniye Province
+Osmaniye, Osmaniye Province, Osmaniyə ili
 Osmaniye Yaylası
 Osmankolu Sırtı
 Osmanlar Deresi
@@ -12875,7 +12875,7 @@ Reis Bucağı
 Reka Gelligyuyan, Gelligüyan Deresi
 Remestor Pınar
 Renguru Deresi
-Republic of Turkey, Tourkía, Turchia, Turkey, Turquie, Türkei, Türkiye, Türkiye Cumhuriyeti
+Republic of Turkey, Tirkiye, Tourkía, Turchia, Turkey, Turquie, Türkei, Türkiya, Türkiye, Türkiye Cumhuriyeti
 Resor Deresi, Rosor Deresi
 Ressey Pınarı
 Resul Dağı
@@ -12992,7 +12992,7 @@ Sakarat Dağı, Sakrat Dağı
 Sakarat Tepe, Sokarat Tepesi
 Sakarca Deresi
 Sakarinek Çayı
-Sakarya, Sakarya Province, Sakarya Vilâyeti, Sakarya İli
+Sakarya, Sakarya Province, Sakarya Vilâyeti, Sakarya ili
 Sakarya Ağzı
 Sakarya Nehri, Sakaria Irmak, Sakarieh, Sakarya (Sangarius) River, Sakarya River, Sargonius
 Sakarya Ovası
@@ -13100,7 +13100,7 @@ Sampavar Pınar
 Samsam Gölü
 Samsat Bucağı
 Samsat İlçesi
-Samsun, Samsun Province, Samsun Vilâyeti, Samsun İli
+Samsun, Samsun Province, Samsun Vilâyeti, Samsun ili
 Samsun Körfezi, Samsun Bay, Samsun Limanı
 Samucak Burnu
 Samur Dağı
@@ -13621,8 +13621,8 @@ Sigala, Sığla Deresi
 Sihiran Deresi, Sikhiran
 Sihke
 Sihur Dere
-Siirt, Siirt Province, Siirt Vilâyeti
-Siirt Merkez, Siirt İlçesi
+Siirt, Siirt Province, Siirt Vilâyeti, Siirt ili, Sêrt
+Siirt Merkez, Siirt İlçesi, Sêrt
 Siirtari Gölü
 Sikefinnahil Sırtı
 Sikeft Tepesi, Gora Sikeft
@@ -13712,7 +13712,7 @@ Sinnelik Yaylası
 Sinnep Deresi
 Sinnep Pınarı
 Sinnep Suyu
-Sinop, Dış Limanı, Sinop Province, Sinop Vilâyeti
+Sinop, Dış Limanı, Sinop Province, Sinop Vilâyeti, Sinop ili
 Sinop Burnu, Boztepe Burnu, Cape Sinope, Cape Sinub
 Sip Dere
 Sipahi Dağı
@@ -13739,7 +13739,7 @@ Sisiyarık Tepesi, Gora Sisiyaryk
 Sit Tepe
 Sitdağı, Gora Sitdagy
 Sittiyeharic Tepesi
-Sivas, Sivas Province, Sivas Vilâyeti
+Sivas, Sivas Province, Sivas Vilâyeti, Sivas ili, Sêwas
 Sivaslı İlçesi
 Siverek Bucağı
 Siverek İlçesi
@@ -14142,7 +14142,7 @@ Sünnet Gölü
 Sünnice Dağı, Sünnice Tepe
 Sünnük Deresi
 Sünübeli
-Süphan Dağı, Mount Süphan, Suphan Mountain, Sübhan Dağı
+Süphan Dağı, Mount Süphan, Suphan Mountain, Sîpanê Xelatê, Sübhan Dağı
 Süphan Gölü, Sultan Gölü
 Süphandağı Tepesi, Subhan Dağı, Süphandağı Tepe, Sıpkaç Dağı
 Süpürgeç Dağı
@@ -14627,7 +14627,7 @@ Tekir Burnu, Tekir Point
 Tekir Bükü
 Tekir Dağ
 Tekir Dere
-Tekirdağ, Tekirdağ Province, Tekirdağ Vilâyeti
+Tekirdağ, Tekirdağ Province, Tekirdağ Vilâyeti, Təkirdağ ili
 Tekke Bucağı
 Tekke Burnu, Cape Tekeh, Cape Tekke, Mastusium Promontory, Teke Burun
 Tekke Dağı
@@ -14790,7 +14790,7 @@ Tilkilik Sırtı
 Tilkilik Tepesi, Tilkilik Dağ
 Tilkiningüneyi Tepesi
 Tilkisivrisi Tepesi, Top Tepesi
-Tillo İlçesi, Aydınlar, Aydınlar İlçesi
+Tillo İlçesi, Aydınlar, Aydınlar İlçesi, Tillo
 Tilmen Hüyüğü
 Tilmenur Deresi
 Tilmisyolu Deresi
@@ -14960,7 +14960,7 @@ Tozludağ Tepesi
 Tozlukale Tepesi
 Tozman Deresi, Tuzman Deresi
 Toçak Dağı
-Trabzon, Trabzon Province, Trabzon Vilâyeti, Trabzon İli, Trebizond
+Trabzon, Trabzon Province, Trabzon Vilâyeti, Trabzon ili, Trebizond
 Trabzon Limanı
 Tribune Rock
 Trikocular Sitesi
@@ -14974,7 +14974,7 @@ Tujo
 Tumtaş Tepe
 Tunca Deresi, Dutha Deresi
 Tunca Sitesi
-Tunceli, Tunceli Province, Tunceli Vilâyeti, Tunceli İli
+Tunceli, Dêrsim, Tunceli Province, Tunceli Vilâyeti, Tunceli ili
 Tur Dağı
 Tura Tepe
 Turan Dere
@@ -15390,7 +15390,7 @@ Uğurludağ Bucağı
 Uğurludağ İlçesi
 Uğurpınar Deresi
 Uğuz Çayı
-Uşak, Uşak Province, Uşak Vilâyeti
+Uşak, Uşak Province, Uşak Vilâyeti, Uşak ili
 V Beach
 Vadelkan Deresi, Vadelhan Deresi
 Vagvir Deresi, Ağaver Deresi, Vagavir Deresi
@@ -15403,7 +15403,7 @@ Vakfıkebir Bucağı
 Vakkes Pınarı
 Vakıf Bağları
 Vali Sırtı, Syrt Vali
-Van, Van Province, Van Vilâyeti, Van İli
+Van, Van Province, Van Vilâyeti, Van ili, Wan
 Vandoğusu Dağları
 Vanek Deresi
 Vank Dağı
@@ -15530,7 +15530,7 @@ Yalnızpınar Deresi
 Yalnızçam Bucağı
 Yalnızçam Dağları
 Yalnızçam Geçidi, Yalniz Cam Gorge
-Yalova, Yalova Province, Yalova İli
+Yalova, Yalova Province, Yalova ili
 Yalova Kaplıcaları, Yalovakaplıcasi
 Yalvaç Bucağı
 Yalvaç Çayı
@@ -16013,7 +16013,7 @@ Yosluca Tepesi
 Youkyeri Shoals
 Yoyu Dağı, Yoylu Dağ
 Yoz Kuyu
-Yozgat, Yozgat Province, Yozgat Vilâyeti
+Yozgat, Yozgat Province, Yozgat Vilâyeti, Yozqat ili
 Yozgat Deresi, Bozok Çayı
 Yozgat Çamlığı Milli Parkı
 Yoğun Bucağı
@@ -16143,7 +16143,7 @@ Yüksek Tepe
 Yüksek Tepesi
 Yüksekarkaç Tepesi
 Yüksekkıran Tepesi
-Yüksekova, Gevar Ovası
+Yüksekova, Gevar Ovası, Gever
 Yüksel Tepe
 Yükselen Tepe
 Yüksün Tepe
@@ -16660,7 +16660,7 @@ Zığındere Koyu
 Çanak Limanı
 Çanak Tepesi
 Çanakhöyük Tepesi
-Çanakkale, Çanakkale Province, Çanakkale Vilâyeti
+Çanakkale, Çanakkale Province, Çanakkale Vilâyeti, Çanaqqala ili
 Çanakkale Halk Parkı
 Çanakkale Limanı
 Çanakçı
@@ -16692,7 +16692,7 @@ Zığındere Koyu
 Çankaya Burnu, Eski Fanar Burnu, Eski Fanar Burun, Eski Fener Burun
 Çankaya Pınarı
 Çankır Deresi
-Çankırı, Çankırı Province, Çankırı Vilâyeti
+Çankırı, Çankırı Province, Çankırı Vilâyeti, Çankırı ili
 Çanlıdede Tepesi
 Çanta Deresi, Beyceler Deresi, Beyciler Deresi
 Çanşa Deresi
@@ -17327,7 +17327,7 @@ Zığındere Koyu
 Çoruh Nehri
 Çoruhsuyu
 Çoruközü Deresi
-Çorum, Çorum Province, Çorum Vilâyeti
+Çorum, Çorum Province, Çorum Vilâyeti, Çorum ili
 Çorum Çayı, Çorum Deresi, Çorum-Çat Irmağı
 Çotsuyu Çayı, Çot Suyu
 Çotuk Deresi, Papaz Deresi, Payaz Deresi
@@ -18389,7 +18389,7 @@ Zığındere Koyu
 Şıkgediği Tepesi, Şeyhbeli Tepesi
 Şıkırın Tepesi
 Şıldanlar Adaları
-Şırnak, Şırnak Province
+Şırnak, Şirnex, Şırnak Province, Şırnak ili
 Şırnak İlçesi
 Şırrıka Tepesi
 Şıvgın Deresi, Taçin Deresi, Taçinsuyu

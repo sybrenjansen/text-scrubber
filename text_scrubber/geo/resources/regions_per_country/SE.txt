@@ -1,4 +1,4 @@
-Aalasjoki, Alasjoki
+Aalasjoki, Alasjoki, Álásjohka
 Aamäk
 Aapua
 Aavajoki
@@ -107,7 +107,7 @@ Ahvenjärvet
 Ahvenjärvi
 Ahvenvuoma
 Aijajaure
-Ailatisvaara
+Ailatisvaara, Áilláhaš
 Ailesvardo
 Aimevare, Aime
 Aimojokk, Aimobäcken
@@ -123,7 +123,7 @@ Ainettijärvi
 Ainettivuoma
 Airijoki
 Airijärvi
-Airivaara, Airovaara
+Airivaara, Airovaara, Áiravárri
 Aisjaur
 Aistop
 Aitejokk, Aitijoki
@@ -189,20 +189,20 @@ Ala Vuolusjärvi
 Ala socken
 Ala-Leipojoki
 Alajaure, Allajaure
-Alajärvi
+Alajärvi, Alajávri
 Alanen Akusjärvi
 Alanen Aptasjärvi
 Alanen Kallovaara, Iso Kallovaara
 Alanen Kihlankijoki
-Alanen Kuoihkalvaara, Ala Kuokola
+Alanen Kuoihkalvaara, Ala Kuokola, Lulit Guoikkalvárri
 Alanen Kuusivaara, Ala Kuusivaara
 Alanen Käyräjärvi, Käyräjärvet
-Alanen Liedakkakoski, Ala Liedakkakoski
+Alanen Liedakkakoski, Ala Liedakkakoski, Vuolit Lieđekguoika
 Alanen Lulimus, Ala Lulemus
 Alanen Puolisjärvi
 Alanen Rautulaki, Ala Lehtolaki
-Alanen Salmijärvi, Ali Salmijarvi, Tjålmejaure, Vuolep Tjuolmajaure, Vuolep Tjålmejaure
-Alanen Sevujärvi, Sevujärvi
+Alanen Salmijärvi, Ali Salmijarvi, Tjålmejaure, Vuolep Tjuolmajaure, Vuolep Tjålmejaure, Vuolit Čuolmmajávri
+Alanen Sevujärvi, Lulit Seavvajávri, Sevujärvi
 Alanen Vittankivaara, Västra Vittangivaara
 Alanen Vuoksuvaara, Ala Vuoksuvaara, Vuoksuvaara
 Alanäs
@@ -285,7 +285,7 @@ Aljujärvi
 Aljunjoki
 Alkajaure
 Alkavagge
-Alkavare
+Alkavare, Alggavarre
 Alken
 Alkobb
 Alkobbarna
@@ -421,8 +421,8 @@ Altorpsparken
 Alträsket
 Altsjön
 Alttajoki, Altajoki
-Alttajärvi, Altajärvi
-Alttavaara, Altavaara
+Alttajärvi, Altajärvi, Áldejávri
+Alttavaara, Altavaara, Lulip Áldevárri
 Altuna socken
 Alubäck
 Aludden
@@ -688,8 +688,8 @@ Aronsjön
 Aronstorp
 Arpatsbäcken, Arpatsjokk
 Arpsund
-Arpujoki
-Arpuvuoma
+Arpujoki, Árbujohka
+Arpuvuoma, Árbuvuopmi
 Arpö
 Arpökalv
 Arrebosjön
@@ -1399,7 +1399,7 @@ Birkeskär
 Birkskär
 Birkskärssankorna
 Birkö, Birkön
-Birtemasjávri, Pirtimusjärvi, Pirttimyjärvi, Pirttimäsjärvi
+Birtemasjávri, Pirtimusjärvi, Pirttimyjärvi, Pirttimysjärvi, Pirttimäsjärvi
 Birtemasvárdu, Pirtimusvaara, Pirttimäsvaara
 Birtjärnberget
 Bisen
@@ -2022,7 +2022,7 @@ Bokenäs
 Bokenäs socken
 Bokenäset
 Bokeskogen
-Bokkejanjávri, Påkketanjaure
+Bokkejanjávri, Poketinjärvi, Påkketanjaure
 Boklinten
 Bokobben
 Boksjön
@@ -2175,7 +2175,7 @@ Borken
 Borkhällor
 Borkhöjden
 Borlunda socken
-Borlänge Kommun, Borlänge
+Borlänge Kommun, Borlänge, Borlängen Kunta
 Borlänge socken
 Bornan, Bornen
 Bornasberget
@@ -2208,7 +2208,7 @@ Bortjärn
 Bortre Nyviken
 Borussiagrundet
 Borydsjön
-Borås, Borås Kommun, Borås Stad
+Borås, Borås Kommun, Borås Stad, Boråsin Kaupunki
 Borås Caroli
 Borås Gustav Adolf
 Borås socken
@@ -2459,7 +2459,7 @@ Bredvallsfjäll
 Bredvassaviken
 Bredvatten
 Bredvik
-Bredviken
+Bredviken, Preiviikinlahti
 Bredviks Skär
 Bredviksfjärden
 Bredviksfladen
@@ -3389,9 +3389,9 @@ Dalamosse
 Dalamyrberget
 Dalamyren
 Dalarna, Dalarne, Dalecarlia
-Dalarna County, Dalarnas Län, Kopparberg, Kopparbergs Län
+Dalarna County, Dalarnas Län, Kopparberg, Kopparbergs Län, Taalainmaa
 Dalarö Kanal
-Dalarö Skans, Dalarö Fort
+Dalarö Skans, Dalarö Fort, Dalarön linnake
 Dalarö socken
 Dalarö-Ornö-Utö
 Dalaudden
@@ -3528,7 +3528,7 @@ Daviken
 Davit Beallil, Pellilävaara, Pällel
 Davit Borri, Yli Porro, Yli Pårro
 Davit Gassoaivi, Kaskaåive, Kassåive
-Davit Seavvajávri, Yli Sevujärvi
+Davit Seavvajávri, Yli Sevujärvi, Ylinen Sevujärvi
 Degeberga
 Degeberga socken
 Degelberget
@@ -3536,7 +3536,7 @@ Degerberget, Pitholmen
 Degerbukten
 Degerbådarna
 Degerfjärden
-Degerfors Kommun, Degerfors
+Degerfors Kommun, Degerfors, Degerforsin Kunta
 Degerfors socken
 Degerfors-Nysund
 Degerforsen
@@ -4229,7 +4229,7 @@ Eksgölen
 Eksholmssjön
 Ekshärad
 Ekshärad socken, Ekshärads socken
-Eksjö
+Eksjö, Eksjön kunta
 Eksjö Kommun
 Eksjö socken
 Eksjöberget
@@ -4350,7 +4350,7 @@ Enkobb
 Enkälen
 Enköping
 Enköping socken
-Enköpings Kommun, Enköping Municipality
+Enköpings Kommun, Enköping Municipality, Enköpingin Kunta
 Enköpings-Näs socken
 Enmaran
 Enmossen
@@ -4458,7 +4458,7 @@ Eskilstorpasjö
 Eskilstorpasjön
 Eskilstuna Fors
 Eskilstuna Kloster
-Eskilstuna Kommun, Eskilstuna
+Eskilstuna Kommun, Eskilstuna, Eskilstunan Kunta
 Eskilstuna socken
 Eskilstunaån
 Eskilsäter
@@ -4525,7 +4525,7 @@ Fagerkälsliden
 Fagerlidstjärn
 Fagersandsberg
 Fagersjön
-Fagersta Kommun, Fagersta, Fagersta Municipality
+Fagersta Kommun, Fagersta, Fagersta Municipality, Fagerstan Kunta
 Fagersta socken
 Fagertärn
 Fagerudd
@@ -4675,7 +4675,7 @@ Fibbleån
 Fibysjön
 Fide socken
 Fiedrasasi, Fieteres
-Fiellarjoki, Fiellarjokk, Fjellarijoki
+Fiellarjoki, Fiellarjokk, Fjellarijoki, Viellárjohka
 Fiellojaure, Fjällojaure
 Fierras
 Fifång
@@ -4780,7 +4780,7 @@ Finnåsberget
 Finsandlåudden
 Finskan
 Finskören
-Finspångs Kommun, Finspång
+Finspångs Kommun, Finspång, Finspångin Kunta
 Finspångsån, Hellestadsån
 Finsviken
 Fintsen
@@ -6452,7 +6452,7 @@ Gothem socken
 Gothemhammar, Gothemshammar
 Gothemån, Gothemsån
 Gothenburg Port, Gothenburg Ferry Port, Gothenburg Harbour
-Gotland, Gothland, Gotland Municipality, Gotlands Kommun, Gotlands län, Gottland, Region Gotland
+Gotland, Gothland, Gotland Municipality, Gotlands Kommun, Gotlands län, Gotlanti, Gottland, Region Gotland
 Gotland County, Gotlands Län
 Gotska Sandon Nationalpark
 Gotska Sandön, Gotska Sandö, Gottska Sandön
@@ -6833,7 +6833,7 @@ Gränsberget
 Gränsbådan
 Gränsen
 Gränsesjön
-Gränsjön
+Gränsjön, Norra Gransjön
 Gränskäret
 Gränskärets naturreservat
 Gränssjön
@@ -7410,7 +7410,7 @@ Gällingen
 Gällingshöjden
 Gällivare
 Gällivare Domsaga
-Gällivare kommun
+Gällivare kommun, Jiellevári, Jiellevári Gielda, Jällivaara, Jällivaaran Kunta
 Gällivare socken
 Gällkleven
 Gällnö
@@ -7484,12 +7484,12 @@ Gävan
 Gäven
 Gäveskär, Gefveskär, Geveskär, Gäbeskär
 Gävle Heliga Trefaldighet
-Gävle Kommun, Gävle, Gävle Municipality
+Gävle Kommun, Gävle, Gävle Municipality, Gävlen Kunta
 Gävle Maria
 Gävle Staffan
 Gävle Tomas
 Gävle socken
-Gävleborg County, Gävleborg, Gävleborgs län
+Gävleborg County, Gävleborg, Gävleborgga leatna, Gävleborgin lääni, Gävleborgs län
 Gävlebukten, Gäfle Bukten, Gävle Bay
 Gävlehästen
 Gävundasjön, Gäfvundasjön
@@ -7683,7 +7683,7 @@ Göteborgs Masthugg
 Göteborgs Oscar Fredrik
 Göteborgs S:t Pauli
 Göteborgs Vasa
-Göteborgs stad, Gothenburg Municipality, Göteborg, Göteborg kommune, Göteborgs Kommun
+Göteborgs stad, Gothenburg Municipality, Göteborg, Göteborg kommune, Göteborga gielda, Göteborgin kunta, Göteborgs Kommun
 Götemar, Götemaren
 Göten
 Götene
@@ -8071,7 +8071,7 @@ Hanåshögen
 Hanö Sund, Hanösund
 Hanöbanken
 Hanöbukten, Hanö Bay, Hanö Bight, Hanöbukt
-Haparanda Kommun, Haparanda, Haparanda Municipality, Haparanda Stad, Haparanda kommune
+Haparanda Kommun, Haaparannan kaupunki, Haaparannan kunta, Haaparanta, Haparanda, Haparanda Municipality, Haparanda Stad, Haparanda kommune, Háhpáránddi gielda
 Haparanda-Sandskärs Naturreservat
 Hapkepakte
 Happstafjärden, Haffstafjärden
@@ -8155,10 +8155,10 @@ Harrgrundet
 Harrijoki, Harrejåkkå, Hárrejohka
 Harrijokk
 Harrijärvet, Hárrejávrrit
-Harrijärvi
+Harrijärvi, Hárrejávri
 Harrikberget
 Harrikero, Harretjärro
-Harrikiveliö
+Harrikiveliö, Hárrečavil
 Harrinkrunni
 Harrivaara, Harritjärro, Hárrečearru
 Harriåive
@@ -8403,7 +8403,7 @@ Hellvi
 Hellvi socken
 Hellåstjärn
 Helmersgrundet
-Helsingborg, Helsingborg Municipality, Helsingborg kommune, Helsingborgs Kommun, Helsingborgs Stad
+Helsingborg, Helsingborg Municipality, Helsingborg kommune, Helsingborga gielda, Helsingborgin kunta, Helsingborgs Kommun, Helsingborgs Stad
 Helsingborg Hamn
 Helsingborg Port, Helsingborg Ferry Port, Helsingborg Harbour
 Helsingborg socken
@@ -8717,7 +8717,7 @@ Hoburgsården
 Hockamägg
 Hocksjöberget
 Hofors
-Hofors Kommun, Hofors Municipality
+Hofors Kommun, Hofors Municipality, Hoforsin Kunta
 Hofterup
 Hofterup socken
 Hogardsgrund
@@ -8975,7 +8975,7 @@ Huaröd socken
 Hubbestadsjön
 Hubbo socken
 Huddinge
-Huddinge Kommun, Huddinge Municipality
+Huddinge Kommun, Huddinge Municipality, Huddingen Kunta
 Huddinge socken
 Huddunge
 Huddunge socken
@@ -9345,7 +9345,7 @@ Hälleberga socken
 Hälleberget
 Hällebergsklack
 Hällebosjön
-Hällefors Kommun, Hällefors
+Hällefors Kommun, Hällefors, Hälleforsin Kunta
 Hällefors socken
 Hällefors-Hjulsjö
 Hälleholmen
@@ -9477,7 +9477,7 @@ Härkeberga
 Härkeberga socken
 Härkä
 Härkämäki
-Härkävaara
+Härkävaara, Geatkevárri
 Härlanda
 Härlunda
 Härlunda socken
@@ -10332,7 +10332,7 @@ Islandsbergshuvud
 Islingen
 Ismunden, Ismundsjön
 Iso Ahvenjärvi
-Iso Huornanen
+Iso Huornanen, Stuora Huordnáš
 Iso Karsikkojärvi
 Iso Kuosanen
 Iso Leipipir
@@ -10380,8 +10380,8 @@ Isön
 Itavsberg, Itavsberget
 Itjarberg
 Itjarbergstjärn
-Ittijoki, Jukkijoki
-Ittivaara, Ittevare, Ittivare
+Ittijoki, Ittejohka, Jukkijoki
+Ittivaara, Ittevare, Ittevárri, Ittivare
 Ivanna
 Ivarhöa
 Ivarsbosjön
@@ -10472,8 +10472,8 @@ Jetesjön, Getesjön
 Jeäddnjajávrrie, Jäknajaure, Jätnjajaure
 Jeärttájávrrie
 Jiehkadamesuoluoj
-Jiekajärvi, Jekajärvi, Jekejaure
-Jiekakoski, Jekakoski
+Jiekajärvi, Jekajärvi, Jekejaure, Jiegajávri
+Jiekakoski, Jekakoski, Jiegaguoika
 Jiemakkavaara
 Jierivaara
 Jiertasuoloi
@@ -10512,7 +10512,7 @@ Johannesberg
 Johannisgrund
 Jokkmokk
 Jokkmokk socken
-Jokkmokks Kommun
+Jokkmokks Kommun, Jåhkåmåhke Gielda
 Jokkokaskatjåkko
 Jokksjaure, Juksjaure
 Jokujärvi
@@ -10554,7 +10554,7 @@ Jormivaara
 Jormliklumpen
 Jormön
 Jorpatjuolt
-Jorvajärvi
+Jorvajärvi, Čoarvečjávri
 Jorälven
 Josmyren
 Joukijärvi
@@ -10568,7 +10568,7 @@ Jugberget
 Jugen, Jugan
 Juggerjaure
 Jukkasjoki
-Jukkasjärvi
+Jukkasjärvi, Čohkkirasjávri
 Jukkasjärvi socken
 Jukkasvarra
 Juktån
@@ -10607,7 +10607,7 @@ Junköfjärden
 Junköklippan
 Junkön
 Junojoki
-Junojärvi
+Junojärvi, Junujávri
 Junosuando socken
 Junsele
 Junsele socken
@@ -10623,7 +10623,7 @@ Juollejaure
 Juollekestjåkko
 Juommuoeovárrie, Juommovare, Juomovare
 Juomuatisjärvi, Jusmnatisjärvi
-Juovajärvi
+Juovajärvi, Juovvajávvráš
 Juovakåbbats
 Juovakåbbo
 Juovanjuonje
@@ -10904,7 +10904,7 @@ Kaalasjärvi
 Kaarejoki
 Kaarevaara, Kaareavaara
 Kaarevuopio
-Kaarinasvaara, Karanesvaara
+Kaarinasvaara, Gáranasvárri, Karanesvaara
 Kaarivaara
 Kaartijärvi
 Kaartivuoma
@@ -10941,8 +10941,8 @@ Kaisekietjtjåkkåh, Kajseketjtjåkkå
 Kaisenjarka, Kaisaniemi
 Kaisepakte, Kaisapakte, Kajsepakte
 Kaitajärvi
-Kaitasjärvi, Kaitasjaure, Kaittasjärvi
-Kaitasvaara, Kaitasvare, Kaittasvaara
+Kaitasjärvi, Gáiddasjávri, Kaitasjaure, Kaittasjärvi
+Kaitasvaara, Gáiddasvárri, Kaitasvare, Kaittasvaara
 Kaitumjokk, Kaitumjåkkå
 Kaitumtjåkko, Kajtumjåkkå
 Kaitumälven, Kaitumelf, Kaitumälv
@@ -10971,10 +10971,10 @@ Kalefjärden
 Kalehäll
 Kalgrundet
 Kalix Domsaga
-Kalix Kommun, Kalix
+Kalix Kommun, Kalix, Kalixin Kunta
 Kalixgrundet
 Kalixviken
-Kalixälven, Kalix, Kalix River, Kalix Älf, Kalixelf, Kalixälv
+Kalixälven, Kalix, Kalix River, Kalix Älf, Kalixelf, Kalixjoki, Kalixälv
 Kaljeliden
 Kaljomäki
 Kalkbergsbäck
@@ -11032,9 +11032,9 @@ Kallkällmyr
 Kallkällmyran
 Kallkällåsen
 Kallojaure
-Kallojärvi
+Kallojärvi, Gállojávri
 Kallokkajärvi
-Kallokkamarasto, Kallomaranen
+Kallokkamarasto, Gállukmaras, Kallomaranen
 Kallovuoma
 Kallrasjön
 Kallrigafjärden
@@ -11060,7 +11060,7 @@ Kalmar domkyrkoförs.
 Kalmar socken
 Kalmarholmen
 Kalmarn
-Kalmarsund, Kalmar Sound, Kalmar Strait
+Kalmarsund, Kalmar Sound, Kalmar Strait, Kalmarinsalmi
 Kalmarviken
 Kalpainen
 Kalsten
@@ -11157,7 +11157,7 @@ Kangosenkoski
 Kanholmarna
 Kanholmsfjärden
 Kaninholmen
-Kanisjärvi
+Kanisjärvi, Ganešjávri
 Kanisvare
 Kanisvuoma
 Kankgrund
@@ -11266,7 +11266,7 @@ Karlshamnsfjärden
 Karlsholmen
 Karlsjösjön
 Karlskoga
-Karlskoga Kommun
+Karlskoga Kommun, Karlskogan Kunta
 Karlskoga socken
 Karlskrona Kommun, Karlskrona, Karlskrona Municipality
 Karlskrona Port, Karlskrona Ferry Port, Karlskrona Harbour
@@ -11298,8 +11298,8 @@ Karpsjön
 Karpträsk
 Karranis, Karranes
 Karras Berg, Karrasberg
-Karrejärvi
-Karrekielinen
+Karrejärvi, Kaarejärvi
+Karrekielinen, Kaarekielinen
 Karsbosjön
 Karsbäck
 Karsbäcken
@@ -11353,7 +11353,7 @@ Kaska Saulo
 Kaskajaure
 Kaskasapakte
 Kaskasatjåkko, Kaskastjåkka
-Kaskasavagge
+Kaskasavagge, Gaskkasvággi
 Kaskegöl
 Kaskijoki
 Kaskobben
@@ -11419,7 +11419,7 @@ Kattsjön
 Kattskallen
 Kattskalleudden
 Kattudd
-Kattujärvi
+Kattujärvi, Skáhttojávri
 Kattån
 Kaukulvagge
 Kaunisjoki
@@ -11505,7 +11505,7 @@ Kettelviken
 Kettilsjön, Kjettilsjön
 Kettilsstensjön
 Kettisträsket
-Keukiskero, Keukeskero, Käukestjärro
+Keukiskero, Gievggisčearru, Keukeskero, Käukestjärro
 Keunjatjåkkå
 Keö
 Kiaby socken
@@ -11517,7 +11517,7 @@ Kiddön
 Kidholmen, Kidholm
 Kidö
 Kieddiape
-Kiehpanjärvi, Kiepamajärvi, Kiepanjaure
+Kiehpanjärvi, Giehpanjávri, Kiepamajärvi, Kiepanjaure
 Kieron, Keron, Kierona
 Kieronajärvi
 Kifjärden
@@ -11591,7 +11591,7 @@ Kindaholm
 Kindlahöjden
 Kindsjön
 Kindskaterevet
-Kingdom of Sweden, Konungariket Sverige, Ruotsi, Schweden, Suède, Sverige, Svezia, Sweden
+Kingdom of Sweden, Konungariket Sverige, Ruotsi, Ruoŧŧa, Schweden, Suède, Sverige, Svezia, Sweden
 Kinna
 Kinna socken
 Kinnahorn
@@ -11620,12 +11620,12 @@ Kirjesliden
 Kirjesån, Girjesån
 Kirkatjåkkå, Kirka, Kirkatjåkko
 Kirkejaure
-Kirkkojoki, Kirkojoki
-Kirkkovaara, Kirkovaara
+Kirkkojoki, Girkojohka, Kirkojoki
+Kirkkovaara, Girkovárri, Kirkovaara
 Kirkkoväärtijärvi, Kirkovärtijärvi
 Kirseberg
 Kirsovaara
-Kiruna Kommun, Kiruna
+Kiruna Kommun, Giron, Giron Gielda, Kiiruna, Kiirunan Kunta, Kiruna
 Kirunavaara, Kieronavaara, Kierunavaara, Kiirunavarra
 Kirunavuoma, Kieronavuoma, Kierunavuoma
 Kisa
@@ -11655,7 +11655,7 @@ Kittnavare
 Kiutisvaara, Kiuhtisvaara
 Kivan, Kifvan
 Kivanhoberget
-Kiveliö, Tjavelk
+Kiveliö, Tjavelk, Čavilgaš
 Kivijoki
 Kivijänkkä
 Kivijärvi, Rivijärvi
@@ -12117,7 +12117,7 @@ Koholmarna
 Koholmen
 Kohuvudet
 Koijukari
-Koijulaki, Koivulakki
+Koijulaki, Batnečielgi, Koivulakki
 Koijuluoto
 Koijuvaaranjärvi, Käjuvaaranjärvi
 Koijuvuoma, Koivuvuoma
@@ -12126,7 +12126,7 @@ Koinuvaara
 Koirajoki
 Koiravaara, Koiravarra
 Koivu Sammalvaara
-Koivununnanen, Nunanen
+Koivununnanen, Nunanen, Soahkenjunis
 Kojebäcken
 Kojholmen
 Kojklumpen
@@ -12206,7 +12206,7 @@ Kontviken
 Konungsund socken
 Konungsömossen
 Konusmossen
-Koojärvi, Kojijärvi
+Koojärvi, Goajávri, Kojijärvi
 Koppargrundet
 Kopparkitteln
 Kopparkullen
@@ -12311,13 +12311,13 @@ Kortetjärvi
 Kortetvuoma
 Kortinghöjden
 Kortingån
-Korttolahti, Kortolahti
+Korttolahti, Guorttuluokta, Kortolahti
 Korven
 Korvgrundet
 Korvgrundshällan
 Korvheden
-Korvijoki, Kårvijokk
-Korvijärvi, Kårvejaure, Kårvijaure
+Korvijoki, Gorvvejohka, Kårvijokk
+Korvijärvi, Gorvvejávri, Kårvejaure, Kårvijaure
 Kosaåive
 Kositräsket
 Kosjärv
@@ -12346,7 +12346,7 @@ Kotan
 Kotijänkänjärvi
 Kotijärvenvuoma
 Kotijärvi
-Kotipalo
+Kotipalo, Goahtebuollán
 Kotivaara
 Kotivuoma
 Kottlasjön
@@ -12355,7 +12355,7 @@ Kougstasjön, Kaustasjön
 Koulusjärvi
 Koulusvuoma
 Koutajoki, Koutijoki, Kuotajoki
-Koutnahavaara, Kohnavaara
+Koutnahavaara, Kohnavaara, Skoavnnjahanvárri
 Koutojärvi
 Koven
 Koviken
@@ -12649,7 +12649,7 @@ Kukkavarto, Kukkavardo
 Kukkesjaure
 Kukkesvagge
 Kukkesvare
-Kukkolaforsen
+Kukkolaforsen, Kukkolankoski
 Kukumäki
 Kulan
 Kulflyten
@@ -12703,9 +12703,9 @@ Kulmainenjärvi
 Kulmainenrova
 Kulmunkijoki, Kulmainenjoki
 Kulorna
-Kultamajärvi
+Kultamajärvi, Goldinjávri
 Kultamavaara, Kuldamaavaara
-Kultamavuoma, Kuldamaavuoma
+Kultamavuoma, Goldinvuopmi, Kuldamaavuoma
 Kultaskären
 Kultebosjön
 Kultehamn
@@ -12719,7 +12719,7 @@ Kumla sjöpark
 Kumla socken
 Kumlaån
 Kumleskär
-Kummaeno, Kummajoki
+Kummaeno, Gobmeeatnu, Kummajoki
 Kummelberg
 Kummelharan
 Kummelholmen
@@ -12783,7 +12783,7 @@ Kunthöjden
 Kunuskäret
 Kuoblatjåkko, Kuoblatjåkka, Kåbbletjåkko
 Kuobmujaure
-Kuoholahti, Kuovhonvuopio
+Kuoholahti, Guoholuokta, Kuovhonvuopio
 Kuoikåive, Koikiåive, Kåikåive
 Kuoksosuvanto
 Kuollejaure
@@ -12807,8 +12807,8 @@ Kuoratsape, Kuorasjape
 Kuoratsmyren
 Kuoratspakte
 Kuorkaape
-Kuorkovaara
-Kuormakka
+Kuorkovaara, Gállgielas
+Kuormakka, Guorbmek
 Kuormakkajärvi
 Kuorpaholmen, Kuerpa
 Kuorpatjåkko
@@ -12816,7 +12816,7 @@ Kuorpavarejaure
 Kuorpavarto, Kuorpavardo, Kuorpavare
 Kuortavare, Kortovaara
 Kuortesvuoma
-Kuortovaara, Kortovaara
+Kuortovaara, Guortáčearru, Kortovaara
 Kuosaape
 Kuosakarkonjärvi
 Kuosakielasjokk
@@ -12884,7 +12884,7 @@ Kutjasjoki, Kutjesjoki, Kutsasjoki
 Kutjaure, Kåtjasjaure
 Kutjesjaure, Kutjasjaure, Kutsasjärvi
 Kutjärnen
-Kutsurjoki, Kuotsorijoki
+Kutsurjoki, Guvzzarjohka, Kuotsorijoki
 Kuttaskären, Kuttaskär
 Kuttermäki
 Kuukkavuoma, Kuukavuoma
@@ -13359,7 +13359,7 @@ Kånttjärn
 Kånåsjön
 Kåpe Udde
 Kåpholmen
-Kåppastjårro, Kåppasåive
+Kåppastjårro, Gohpasčorru, Kåppasåive
 Kåppelåive
 Kåppluoppal, Kappaluobal
 Kåpponisberget
@@ -13412,7 +13412,7 @@ Kåtnjuonje, Kåtnjunjes
 Kåtokjokotjkaskatjåkkå
 Kåtokjåkkå, Kåtokjåkk
 Kåtoktjåkkå
-Kåtotjåkka, Kuototjåkko
+Kåtotjåkka, Godučohkka, Kuototjåkko
 Kåtotjåkko
 Kåtån
 Kåvra
@@ -13463,7 +13463,7 @@ Köpinge
 Köpinge socken
 Köpingemyren, Köpingemyr
 Köpingen
-Köpings Kommun, Köping Municipality
+Köpings Kommun, Köping Municipality, Köpingin Kunta
 Köpingsvik
 Köpingsån
 Köpingsåsen
@@ -13489,7 +13489,7 @@ Laaja
 Laaksivuoma, Laasivuoma
 Laaksonkrunni
 Laanivaara
-Laappisoivi, Laapisoivi, Lapisåive
+Laappisoivi, Laapisoivi, Lapisåive, Láppisoaivi
 Labacksnäset
 Labansgrundet
 Labb-Djurberget
@@ -13563,7 +13563,7 @@ Laholms Redd
 Laholms stad socken
 Laholmsbukten, Laholm Bay, Laholms Bucht, Laholms Bukten
 Laihajärvi, Lainajärvi
-Laimolahti, Laimoviken, Lajmolahti
+Laimolahti, Laimoviken, Lajmolahti, Láimoluokta
 Lainiojoki
 Lainioälven, Lainioälv
 Lairobäcken
@@ -13631,7 +13631,7 @@ Landsberget
 Landsjön
 Landsjösjön
 Landsjöån
-Landskrona, Landskrona Kommun, Landskrona Municipality, Landskrona Stad, Landskrona kommune
+Landskrona, Landskrona Kommun, Landskrona Municipality, Landskrona Stad, Landskrona gielda, Landskrona kommune, Landskronan kunta
 Landskrona del
 Landskrona socken
 Landskäret
@@ -13676,7 +13676,7 @@ Lappbergskullen
 Lappeasuanto, Lappeasuvanto
 Lappgrundet
 Lappis beach
-Lappisnenä, Lapisnenä
+Lappisnenä, Lapisnenä, Láppisnjunni
 Lappisträsket, Lappisträsk
 Lappkärret
 Lappland
@@ -13733,7 +13733,7 @@ Latberget
 Lathamnen, Lathamn
 Latikberget
 Latnijärvi
-Latnivaara, Ladnivaara, Latnivarra
+Latnivaara, Ladnivaara, Latnivarra, Látnjevárri
 Latnjajaure
 Latnjavaara, Ladnivaara, Latnjevare
 Latnjavárri, Ladnevare
@@ -14010,7 +14010,7 @@ Lidhult
 Lidhult socken
 Lidhultsån
 Lidhöjden
-Lidingö, Lidingö Kommun, Lidingö Municipality, Lidingö Stad, Lidingö kommune
+Lidingö, Lidingö Kommun, Lidingö Municipality, Lidingö Stad, Lidingö gielda, Lidingö kommune, Lidingön kunta
 Lidingö socken
 Lidingön
 Lidkullen
@@ -14041,7 +14041,7 @@ Liggarn
 Ligogrunnan
 Liikavaara
 Liinajoki
-Liinakero, Lidnatjärro, Linakero
+Liinakero, Lidnatjärro, Liinečearru, Linakero
 Liippa
 Lijnájåhkå, Linabäcken, Linajokk
 Lijnávárre, Linavare
@@ -14447,7 +14447,7 @@ Lilla Idträsket
 Lilla Iljeskärsharan
 Lilla Isie socken
 Lilla Ivarn
-Lilla Jangen
+Lilla Jangen, Lill-Jangen
 Lilla Jerilvattnet
 Lilla Jolpan
 Lilla Jonsholmen
@@ -15123,7 +15123,7 @@ Linderöd socken
 Linderödsåsen
 Lindesberg
 Lindesberg socken
-Lindesbergs Kommun, Lindesberg Municipality
+Lindesbergs Kommun, Lindesberg Municipality, Lindesbergin Kunta
 Lindesbysjön
 Lindesjön
 Lindeskär
@@ -15490,7 +15490,7 @@ Luckaviken
 Ludgo socken
 Ludgosjön
 Ludvika
-Ludvika Kommun
+Ludvika Kommun, Ludvikan Kunta
 Ludvika socken
 Ludviken
 Luegesåjja, Luoggesåive
@@ -15524,10 +15524,10 @@ Lulep Tjåhkålis, Lulep Tjåkkålis, Lulleb Tjåkkolis
 Lulepotten
 Luletjarve
 Lulevardo
-Luleälven, Lule, Lule Elf, Lule River, Lule Älf, Lule älv, Lule-älven, Lulea Elf, Luleä River, Luleälv
+Luleälven, Lule, Lule Elf, Lule River, Lule Älf, Lule älv, Lule-älven, Lulea Elf, Luleä River, Luleälv, Luulajanjoki
 Luleå domkyrkoförs.
-Luleå kommun
-Luleå socken
+Luleå kommun, Luulaja, Luulajan Kunta
+Luleå socken, Luulaja
 Lulhällan
 Lulip Guokkil, Kuokkel
 Lulip Sidnos, Sitnus
@@ -15538,7 +15538,7 @@ Lulit Borri, Ala Porro, Ala Pårro
 Lulit Báhčajeagil, Ala Patsijäkälä, Lulep Patsajakel, Lulip Bánčajeagil
 Lulit Oaggujohka, Lulle Åggojokk
 Lulit Stállojávri, Ala Talojärvi, Lulep Stalojaure, Lulip Stálujávri
-Lulit Vuolosjávri, Lulep Vuolusjaure, Lulip Vuolusjávri
+Lulit Vuolosjávri, Alanen Vuolusjärvi, Lulep Vuolusjaure, Lulip Vuolusjávri
 Lulit Áhkáváráš, Lotitjåkka
 Lullberget
 Lulle Akojaure
@@ -15626,14 +15626,14 @@ Luohttoajvve, Luottåive, Luttåive
 Luojoki
 Luoktaktjåkko
 Luoktanjarkajaure
-Luongasjoki
+Luongasjoki, Lovnnjisjohka
 Luongasjärvi
 Luongaskursu
 Luongastunturi
 Luopovare, Luppovare
 Luoptek
 Luosavare
-Luossajoki
+Luossajoki, Luossajohka
 Luossajokk, Luasajokk
 Luossajávri, Luossajaure
 Luossajávrrie, Luosajaure, Luosejaure, Luossejaure
@@ -15644,7 +15644,7 @@ Luotohjokk
 Luottolako
 Luovaure
 Luovaåjve
-Luovinunnanen, Luovinjunjanen
+Luovinunnanen, Luovinjunjanen, Luovvenjunis
 Luovuosjávrrie, Lösträsket, Stor-Lösträsket
 Luovvaluokta
 Luovvevardo
@@ -15670,9 +15670,9 @@ Lusholm
 Lusholmen
 Lusholmsgrundet
 Lusklint, Luseklint
-Luspajärvi
+Luspajärvi, Luspejávri
 Luspasjaure
-Luspavaara
+Luspavaara, Luspevárri
 Luspberget
 Luspe
 Luspejaure
@@ -16232,7 +16232,7 @@ Löming
 Lömån
 Lömåsen
 Löndomen
-Löngrunden
+Löngrunden, Lööni
 Lönnberget
 Lönnbådan
 Lönnbådarna
@@ -16472,7 +16472,7 @@ Malmströmsgrundet
 Malmtjärn, Malmjärn
 Malmudden
 Malmån
-Malmö, Malmö Kommun, Malmö Municipality, Malmö Stad, Malmö kommune
+Malmö, Malmö Kommun, Malmö Municipality, Malmö Stad, Malmö gielda, Malmö kommune, Malmön Kaupunki, Malmön kunta
 Malmö Fjord, Malmöfjord, Malmöfjorden
 Malmö S:t Johannes
 Malmö S:t Pauli
@@ -16513,7 +16513,7 @@ Malån
 Malåträsket
 Malö Strömmar, Malöströmmar
 Malön, Malö
-Malören
+Malören, Maluuri
 Malösund
 Mammarpsjön
 Mammasberg
@@ -16581,7 +16581,7 @@ Mariefred
 Mariefred socken
 Mariestad
 Mariestad socken
-Mariestads Kommun
+Mariestads Kommun, Mariestadin Kunta
 Mariestadsfjärden, Mariestadssjön
 Marjebosjön
 Marka
@@ -16664,7 +16664,7 @@ Masteskär
 Mastholmen
 Masuberg
 Masugnssjön
-Matalajärvi
+Matalajärvi, Coagesjávri
 Matalinkari
 Matberget
 Matge, Matgev, Matske
@@ -16714,7 +16714,7 @@ Matyxsjön
 Maukovare
 Maunujärvi
 Maunuvarra
-Maunuvuoma
+Maunuvuoma, Mávnaáphi
 Mausberget
 Mausjaure
 Mavasjaure
@@ -16894,7 +16894,7 @@ Merasvaara
 Mergrundet
 Meriklupu, Lillklubben, Sölkäkluppi
 Merkkipetäjänoja
-Mertainen
+Mertainen, Mearddis
 Mertajoki
 Mertajärvi, Närvä
 Mertavaara
@@ -16929,7 +16929,7 @@ Metträskberget
 Metträsket, Metträskett
 Mettä Aptasjärvi
 Mettä Sorkijärvi
-Mettä-Kallojärvi
+Mettä-Kallojärvi, Meahcci-Gállojávri
 Mettäjärvi
 Mettäkero, Metsäkero
 Mettåjve
@@ -17247,7 +17247,7 @@ Mostersknoppen
 Mosterskobb
 Mosupberget
 Motala
-Motala Kommun, Motala Municipality
+Motala Kommun, Motala Municipality, Motalan Kunta
 Motala Ström
 Motala socken
 Motala ström
@@ -17809,12 +17809,12 @@ Naireke, Naiträkk
 Naisbäcken
 Naisjärv
 Najavaara
-Nakerijoki, Nakerätno
-Nakerijärvi, Nakerjaure
+Nakerijoki, Nagireatnu, Nakerätno
+Nakerijärvi, Nagirjávri, Nakerjaure
 Nakirbäcken
 Nakteberget
 Nalasenvaara, Nalaksenvaara
-Nalmuinen, Nalmoinen
+Nalmuinen, Nalmoinen, Njalmmuščohkka
 Nalmuisenvuoma, Nalmoisenvuoma
 Namek
 Nammasråhpie, Nammesrop
@@ -18756,7 +18756,7 @@ Norrkölen
 Norrköping socken
 Norrköpings Borg
 Norrköpings Hedvig
-Norrköpings Kommun
+Norrköpings Kommun, Norrköpingin Kunta
 Norrköpings Matteus
 Norrköpings S:t Johannes
 Norrköpings S:t Olai
@@ -18808,7 +18808,7 @@ Norrsäck
 Norrtjärn
 Norrtjärnsklippen, Norrtjärnklippen
 Norrtunasjön
-Norrtälje Kommun, Norrtälje
+Norrtälje Kommun, Norrtälje, Norrtäljen Kunta
 Norrtälje hamn
 Norrtälje socken
 Norrtälje-Malsta
@@ -19001,7 +19001,7 @@ Nyhällsgrundet
 Nykil
 Nykil socken
 Nykolningkullarna
-Nykvarns Kommun, Nykvarn, Nykvarn Kommun
+Nykvarns Kommun, Nykvarn, Nykvarn Kommun, Nykvarnin Kunta
 Nykvarnsgrundet
 Nykvarnsholmen
 Nykyrka socken
@@ -19233,7 +19233,7 @@ Nävsjön
 Näätäaja
 Nådagubbliden
 Nådakvare
-Nåite, Nåjte
+Nåite, Noajdde, Nåjte
 Nålberget
 Nåldynan
 Nålsten
@@ -19662,8 +19662,8 @@ Ottängsgrundet
 Otviken
 Otyget
 Ounisjoki
-Ounistunturi
-Outavaara
+Ounistunturi, Ovnnusduottar
+Outavaara, Vuovdevárri
 Ova
 Ova socken
 Ovalen
@@ -19690,7 +19690,7 @@ Oxeludden
 Oxelön
 Oxelösund
 Oxelösund socken
-Oxelösunds Kommun
+Oxelösunds Kommun, Oxelösundin Kunta
 Oxen
 Oxeråsen
 Oxfjället
@@ -19761,7 +19761,7 @@ Paijejaure
 Painunesjoki, Painanesjoki
 Paittasjärvi
 Pajala
-Pajala Kommun
+Pajala Kommun, Pajalan Kunta
 Pajala socken
 Pajemas Karsavagge
 Pajep Kaitumjaure, Padje-Kaitumjaure
@@ -19787,20 +19787,20 @@ Paljakkahöjden, Paljackahöjden
 Paljas
 Paljasjärvi
 Paljaslaki
-Paljastunturi
+Paljastunturi, Báljesduottar
 Paljokkaberget, Paljackaberget
 Paljokkasjön
 Paljokkavaara
 Paljukkavaara, Paljukkavarra
-Palkastak, Palkasta
+Palkastak, Bálggástakčorru, Palkasta
 Palkatjåkkå
 Palkesvarats
 Palkesåive
 Pallakkajärvi
 Pallamkåbbo
 Pallen
-Pallentjåkka, Pallemtjakko, Pallimtjåkko
-Pallovaara, Palovaara
+Pallentjåkka, Ballinčohkka, Pallemtjakko, Pallimtjåkko
+Pallovaara, Buollánvárri, Palovaara
 Palmarksträsket
 Palmarn
 Palmotjåkko
@@ -19851,7 +19851,7 @@ Partille socken
 Paskajarnga, Suorvajaure
 Paskboberg
 Paslan, Patslan
-Pasmajärvi
+Pasmajärvi, Basmájávri
 Passberg
 Passejokk
 Passetjåkkå
@@ -19883,7 +19883,7 @@ Pauliden
 Pauliströmsån
 Paulujärvi
 Pauranki
-Paurankivaara
+Paurankivaara, Bávnjevárri
 Pauträsket
 Pautån
 Pavatjåkkå
@@ -20075,7 +20075,7 @@ Pirosjokk
 Pirosvuoma
 Pirttijärvi, Pirtijärvi
 Pirttiluoto
-Pirttimysjoki, Pirtimusjoki, Pirttimäsjoki, Pirttmysjoki
+Pirttimysjoki, Birtemaseatnu, Pirtimusjoki, Pirttimäsjoki, Pirttmysjoki
 Pirttimysvuoma, Pirtimusvuoma, Pirttimäsvuoma
 Piskan
 Pite Altervattnet
@@ -20247,7 +20247,7 @@ Pullivaara
 Pulsemohagarna
 Pulsholmen
 Pulsujoki, Puoltjajokk
-Pulsujärvi, Puoltjajaure
+Pulsujärvi, Buolžajávri, Puoltjajaure
 Pultgrundet
 Pumpen
 Pundet
@@ -20299,14 +20299,14 @@ Pyramiden
 Pyran
 Pysen
 Pysslingen
-Pysäjärvi
+Pysäjärvi, Bisájávri
 Päckberget
 Pägankalli
 Päljasj
 Päljatjpakte, Peljatspakte
 Pällbosjön
 Pälsen
-Pältsan, Palstan, Peldsa, Pältsa
+Pältsan, Bealčán, Palstan, Peldsa, Pältsa
 Päraudden
 Pärkänkoski
 Pärlan
@@ -20379,7 +20379,7 @@ Pörstjärn
 Pörtberget
 Pörthallen
 Qvistbäcken
-Raasakkalahti, Ulkosenraskanvuopio
+Raasakkalahti, Rásakluokta, Ulkosenraskanvuopio
 Raasenmäki
 Rabben
 Rabnaträsket
@@ -20437,14 +20437,14 @@ Rajejegge
 Rajskhöjden
 Rajskiberget
 Rakalvis
-Rakiseno, Raggiseno, Rakkisätno
-Rakisvaara, Raggisvaara, Rakisvare, Rakkistjåkko
-Rakisvuoma, Raggisvuoma
+Rakiseno, Raggiseno, Rakkisätno, Rágeseatnu
+Rakisvaara, Raggisvaara, Rakisvare, Rakkistjåkko, Rágesvárri
+Rakisvuoma, Raggisvuoma, Rágesvuomuš
 Rakkobäcken
 Rakkor-jokk, Rakkojaurbäcken
 Rakkosjön
 Rakkurijänkkä
-Rakkurijärvi
+Rakkurijärvi, Gádderáhkurjávri
 Raklången
 Raklösberget
 Raktenjávrre, Raktenjaure
@@ -20632,11 +20632,11 @@ Raurojåppo
 Raurovardo
 Raus
 Rausan river, Råån, Rååån
-Rauskasjoki
+Rauskasjoki, Rávskkahasjohka
 Rautajoki
 Rautakrunni
 Rautaletto
-Rautasjaure, Rautasjärvi
+Rautasjaure, Rautasjärvi, Rávttasjávri
 Rautasjokk
 Rautasälven, Rautasjoki, Rautasätno
 Rautavaara
@@ -20644,7 +20644,7 @@ Rautavuoma
 Rautibäcken
 Rautiorova
 Rautujärvi, Rautojaure, Rávdujávri
-Rautukero, Rautuoivi, Rautussääru, Rávdučearru
+Rautukero, Rautuoivi, Rautussääru, Rávdočearru, Rávdučearru
 Rautusakara
 Rautåive, Rautoåive, Rautåjve
 Rauvosjärvi
@@ -20824,15 +20824,15 @@ Riebnesluokta, Riebnesluoktta, Riebnesviken
 Riehpentjåhkkå, Repentjåkko, Repentjåkkå, Reppentjåkko
 Riekkosauvon
 Riekonkari
-Rienakjohka, Reinakkajoki, Rienakjoki
-Rienakkajärvi, Rienakjärvi
-Rienakkavuoma, Rienakvuoma
+Rienakjohka, Reinakkajoki, Rienakjoki, Rienakkajoki
+Rienakkajärvi, Rienakjávri, Rienakjärvi
+Rienakkavuoma, Rienakvuoma, Rienakvuomuš
 Riesojoki
 Rievrevárre, Reurivare
 Rifallet
-Riipainen, Ripainen, Ripasasvare
-Riipaisenjoki, Ripaisenjoki, Ripasasjoki
-Riipaisenjärvi, Ripaisenjärvi, Ripasasjaure
+Riipainen, Ribasvárri, Ripainen, Ripasasvare
+Riipaisenjoki, Ribasjohka, Ripaisenjoki, Ripasasjoki
+Riipaisenjärvi, Ribasjávri, Ripaisenjärvi, Ripasasjaure
 Riipijärvi, Rapijärvi
 Riipivuoma
 Rijbakjávrrie, Ribbträsket, Ripisträsk
@@ -20882,7 +20882,7 @@ Rinnasjön
 Rinnen
 Rinnälven, Rinnelfven
 Rinnån
-Ripakaisenvuoma
+Ripakaisenvuoma, Ribahkasáhpi
 Ripakansaari
 Ripakjärvenjänkkä
 Ripakkajänkkä
@@ -20940,7 +20940,7 @@ Risskären
 Rissájávrre, Stuor Rissajaure
 Ristafallen, Ristafallet
 Risten
-Ristinasvaara, Ristimävaara
+Ristinasvaara, Ristenvárri, Ristimävaara
 Ristitunturi
 Ristivarra
 Risträskbäcken
@@ -21051,7 +21051,7 @@ Ronnebyfjärden
 Ronnebyån, Ronnean
 Ronögrunden
 Ronön
-Roopijoki, Ropijoki
+Roopijoki, Robijohka, Ropijoki
 Roparhällsudden
 Roparören
 Ropen
@@ -21985,10 +21985,10 @@ S:t Staffan
 S:ta Birgitta
 SSAB Stålhamn
 Saadekkalahti
-Saahtavaara, Saatavaara
+Saahtavaara, Saatavaara, Sáhtávárre
 Saajovuoma
 Saalasvuoma
-Saankijoki, Saangijoki
+Saankijoki, Saangijoki, Sánjajohka
 Saankivuopio
 Saarigrundet
 Saarijärvi
@@ -21999,7 +21999,7 @@ Saarisuvanto
 Saarivaara
 Saarivuoma
 Saatukkakursu, Satukkakursu
-Saatukkavaara, Sattukka
+Saatukkavaara, Sattukka, Sáddukvárri
 Sabitčohkat
 Sabotsliden
 Sabotssjön
@@ -22080,7 +22080,7 @@ Sallohaure, Salohaura, Salohaure, Salojaure
 Salmenpuro
 Salmi
 Salmijaure
-Salmijoki, Tjålmejokk
+Salmijoki, Skihččejohka, Tjålmejokk
 Salmijärvi
 Salmisudden
 Salmivaara
@@ -22246,7 +22246,7 @@ Sandvik
 Sandvik socken
 Sandviken, Sandvikshamn
 Sandviken socken
-Sandvikens Kommun, Sandviken Municipality
+Sandvikens Kommun, Sandviken Municipality, Sandvikenin Kunta
 Sandvikhön
 Sandviksberg
 Sandviksfjorden, Sandviksfjärden
@@ -22302,7 +22302,7 @@ Sansoberget
 Santa
 Santasaari
 Santsaholmarna
-Sappisaasivaara, Sappisassivaara
+Sappisaasivaara, Sappisassivaara, Čáhppesásevárri
 Sappovare
 Saptejaure
 Saramäki
@@ -22359,8 +22359,8 @@ Saukesvare
 Saurusvaara
 Sausberget
 Sausjön
-Sautusjärvi
-Sautustunturi
+Sautusjärvi, Sávddusjávri
+Sautustunturi, Sávddusduottar
 Sautusvaara
 Savasjöhobben, Safvasjöhobben
 Savelahti
@@ -22433,14 +22433,14 @@ Seijejaure
 Seimajaure, Säjman
 Seinessjön
 Seinestjåkkå
-Seittenkaari, Seskarö, Seskarön
+Seittenkaari, Seittenkari, Seskarö, Seskarön
 Sejaurbäck
 Sejebåden
 Sejor
-Sekkujoki
-Sekkujärvi
-Sekkuvaara
-Sekkuvuoma
+Sekkujoki, Seahkkojohka
+Sekkujärvi, Seahkkujávri
+Sekkuvaara, Seahkovárdu
+Sekkuvuoma, Seahkkuvuomuš
 Selakträsket
 Selandersgrundet
 Selaxgrundet
@@ -22495,7 +22495,7 @@ Sevalla socken
 Sevddetjohka, Säutijokk
 Sevedsängsklinten
 Severtjärn
-Sevujoki, Sevojoki
+Sevujoki, Seavvajohka, Sevojoki
 Sexan
 Sexberget
 Sexdrega del
@@ -22557,12 +22557,12 @@ Siggholmen
 Signilsberg
 Sigridsholmssjön
 Sigtuna
-Sigtuna Kommun, Sigtuna Municipality
+Sigtuna Kommun, Sigtuna Municipality, Sigtunan Kunta
 Sigtuna socken
 Sigtunafjärden
 Sigvaldeträsk, Sigvaldaträsk
 Sihpiekejuhka, Sebbikjokk, Sebbjåkkbäcken
-Siikajoki
+Siikajoki, Čiekkajohka
 Siikajärvi
 Siikalombolo
 Siikamäksåsarna
@@ -22702,8 +22702,8 @@ Singösund, Singsundet, Singösundet
 Sinkaljaure
 Sinksjön
 Sinksundet
-Sinnukkajärvi, Sinotjaure, Sinukjaure
-Sinnukkalompolo
+Sinnukkajärvi, Sinotjaure, Sinotjávri, Sinukjaure
+Sinnukkalompolo, Sinotluobbalat
 Sinot, Sinnukkavaara
 Sipi
 Sippmikken, Sipmeke
@@ -22729,7 +22729,7 @@ Sittrunaberg
 Sittuviken, Sittunaviken
 Siumtjavelk
 Siunak, Unna Siunak
-Siuru, Tjiuro, Tjiuru, Tjärro
+Siuru, Tjiuro, Tjiuru, Tjärro, Čivru
 Siviken
 Siviksfjärden
 Sixberget
@@ -22738,7 +22738,7 @@ Siäka, Sieka
 Siäkajoki, Saiak River, Siekajoki
 Siäkavaara, Siekavare
 Sjalandsvardo
-Sjangeli, Sjangelitjåkka, Sjangelitjåkko
+Sjangeli, Sjangelitjåkka, Sjangelitjåkko, Skáŋgaleapmi
 Sjaptjakjaure, Sjabatjakk
 Sjaunjaape
 Sjaunjajaure
@@ -23271,7 +23271,7 @@ Skinngrundet
 Skinnsholmarna
 Skinnskatteberg med Hed och Gunnilbo
 Skinnskatteberg socken
-Skinnskattebergs Kommun, Skinnskatteberg, Skinnskatteberg Municipality
+Skinnskattebergs Kommun, Skinnskatteberg, Skinnskatteberg Municipality, Skinnskattebergin Kunta
 Skintan
 Skinteboviken
 Skinteskär
@@ -23357,7 +23357,7 @@ Skogsviken
 Skogsön
 Skogträsket
 Skogåsen
-Skokloster, Skokloster Castle, Skoklosters slott
+Skokloster, Skokloster Castle, Skoklosterin linna, Skoklosters slott
 Skokloster socken
 Skolen
 Skomakarberg
@@ -23746,7 +23746,7 @@ Skålvallsjön, Skålvallssjön
 Skålvattnet, Amerjaure
 Skålån
 Skåne, Scania
-Skåne County, Scania, Skåne län
+Skåne County, Scania, Skoone, Skåne län
 Skånela socken
 Skånes-Fagerhult
 Skånes-Fagerhult socken
@@ -23806,7 +23806,7 @@ Skötskär
 Skötslangan
 Skötören
 Skövde
-Skövde Kommun
+Skövde Kommun, Skövden Kunta
 Skövde socken
 Slabberbåden
 Slada Hamn
@@ -23982,7 +23982,7 @@ Smalåsen
 Smedby socken
 Smedensholmar
 Smedfjärden
-Smedjebackens Kommun, Smedjebacken, Smedjebacken Municipality
+Smedjebackens Kommun, Smedjebacken, Smedjebacken Municipality, Smedjebackenin Kunta
 Smedjeberget
 Smedjebrottet
 Smedjeån
@@ -24747,7 +24747,7 @@ Stockbysjön
 Stockekil
 Stockforsälven, Stackforsälven
 Stockgrundet
-Stockholm County, Stockholm, Stockholms Län
+Stockholm County, Stockholm, Stockholms Län, Tukholma
 Stockholm Norvik Port
 Stockholm Port, Stockholm Ferry Port, Stockholm Harbour
 Stockholm socken, Stockholm
@@ -25548,7 +25548,7 @@ Stora Lappträsk
 Stora Laxsjön
 Stora Laxtjärn
 Stora Le & Foxen
-Stora Lehtikari
+Stora Lehtikari, Iso Lehtikari
 Stora Lejen, Lejen
 Stora Lesjön
 Stora Leskär
@@ -26374,7 +26374,7 @@ Storstensjöberget
 Storstensrevet
 Storstensören
 Storstenudden
-Storstockholm, Greater Stockholm, Metropolitan Stockholm, Stor-Stockholm
+Storstockholm, Greater Stockholm, Metropolitan Stockholm, Stor-Stockholm, Suur-Tukholma
 Storsträsk
 Storsträsket
 Storströmsholmen, Storholm
@@ -26395,7 +26395,7 @@ Stortjärnsåsen
 Stortoppen
 Storträsk, Balkkisjaure
 Storträskberget
-Storträsket
+Storträsket, Sangijärvi
 Stortunberget
 Storuberget, Staraberget
 Storulvåfjället, Stor Ulfåfjället
@@ -26797,7 +26797,7 @@ Suaberget
 Suaningijoki
 Suaningijärvi
 Suaningivuoma
-Subásjávri, Suppatsjärvi
+Subásjávri, Supasjärvi, Suppatsjärvi
 Suckarna
 Sucken
 Suddesjaure
@@ -26878,7 +26878,7 @@ Sundsudden
 Sundsvalen
 Sundsvall socken, Sundsvall
 Sundsvalls Gustav Adolf
-Sundsvalls Kommun, Sundsvall
+Sundsvalls Kommun, Sundsvall, Sundsvallin Kunta
 Sundsvalls hamn
 Sundsvallsbukten
 Sundsvallsfjärden
@@ -26973,14 +26973,14 @@ Suotojärvi, Soutojärvi, Soutujärvi
 Suotsfjället, Suttstjäkke
 Suotssjön, Suttsjaure
 Suotstjavelk
-Supasvaara, Suppatsvardo
+Supasvaara, Subásvárri, Suppatsvardo
 Supen
 Suppatjåkko, Suppats
 Suppertjaur
 Suppskär
 Sura
 Sura socken
-Surahammars Kommun, Surahammar, Surahammar Municipality
+Surahammars Kommun, Surahammar, Surahammar Municipality, Surahammarin Kunta
 Surberget, Surgberget
 Surenån
 Surfallsberget
@@ -26997,8 +26997,8 @@ Sutarbåden
 Sutareflätt
 Sutaresjön
 Suutarigrundet
-Suvijoki, Sudijoki
-Suvijärvi, Sudijärvi
+Suvijoki, Sudijoki, Čuđđejohka
+Suvijärvi, Sudijärvi, Čuđđejávri
 Suöbdieke, Subdekjaure, Suobdek
 Suöbdiekvárrie, Subdekkielas, Suobdekkielas
 Svaaletjahke, Svalotjåkkå
@@ -27461,7 +27461,7 @@ Säfsnäs socken
 Säfssjön
 Säftholmen
 Säingarna
-Säivisviken, Säivitsviken, Säjvisviken
+Säivisviken, Säivinlahti, Säivitsviken, Säjvisviken
 Säkok, Sähkok
 Sälasten
 Sälberget
@@ -27510,7 +27510,7 @@ Sälö
 Sälö Fjord
 Sälö Flu
 Sälöbåde
-Sämmäräinen, Sämeräinen, Sämäräinen
+Sämmäräinen, Sämeräinen, Sämäräinen, Čeahpmaras
 Sämsjöberget
 Sämsjön
 Sämån
@@ -27747,7 +27747,7 @@ Söderåkra
 Söderåkra socken
 Söderån
 Söderåsen
-Söderåsens Nationalpark, Söderåsen National Park
+Söderåsens Nationalpark, Söderåsen National Park, Söderåsenin kansallispuisto
 Söderö
 Söderön
 Söderöra
@@ -28279,8 +28279,8 @@ Söö, Sö-ön
 Søndre Vammen, Södra Vammsjön, Sör-Vammsjön
 Taanikurkkio
 Taavaeno, Dávvaeatnu, Tavvaätno
-Taavajoki, Tavajokk
-Taavinunnanen, Taavonunnanen
+Taavajoki, Dávvajohka, Tavajokk
+Taavinunnanen, Dávvanjunis, Taavonunnanen
 Taberg
 Tabergs Kanal
 Tabergsån
@@ -28399,7 +28399,7 @@ Tarfek
 Tarfekvarats
 Tarmlången
 Tarradalen
-Tarrakoski Fors, Tarrakoski
+Tarrakoski Fors, Dárráguoika, Tarrakoski
 Tarraure
 Tarraätno, Tarreätno
 Tarrekaise, Tarrekaisse, Tarrekajse
@@ -28414,8 +28414,8 @@ Tattarmyren
 Tattartjärnhobben, Tattartjärnliden
 Tattmar
 Tattran
-Taukijärvi
-Taukivaara
+Taukijärvi, Dávgejávri
+Taukivaara, Dávgevárri
 Taurejuätno, Taurejuädno
 Tavastbodaviken
 Tavastögern
@@ -28428,8 +28428,8 @@ Tavlefjärden
 Tavlesjön
 Tavsberget, Tafsberget
 Tavträskliden
-Tavvaskaite, Taavaskaite, Tavaskaite
-Tavvavuoma, Taavavuoma
+Tavvaskaite, Dávvaskáidi, Taavaskaite, Tavaskaite
+Tavvavuoma, Dávvavuopmi, Taavavuoma
 Taxinge socken
 Taxåsklint
 Teckengrundet
@@ -28736,7 +28736,7 @@ Tjuoltapakte
 Tjuomak
 Tjuonajegge
 Tjuonajokk
-Tjuonakielinen
+Tjuonakielinen, Čuonjagielas
 Tjuonatjåkko
 Tjuonjajaure, Tjuonajaure
 Tjuonjatjåkko
@@ -28810,7 +28810,7 @@ Tjäkoträsk
 Tjäkta, Tjäksa
 Tjäktjajokk, Tjäktjajåkka
 Tjäktjajávrre
-Tjäktjatjåkka, Tjåktjakierrakatjåkka
+Tjäktjatjåkka, Tjåktjakierrakatjåkka, Čeakčačohkka
 Tjäktjavagge
 Tjälberget
 Tjälderviken
@@ -28896,10 +28896,10 @@ Tjålmakjaure
 Tjålmerevuobme
 Tjålmijaure, Tjålmejaure
 Tjålmliden
-Tjålmåive, Salmiåive, Tjålmeåive
+Tjålmåive, Salmiåive, Tjålmeåive, Čoalmmoaivi
 Tjåltta, Tjolta
 Tjåmodisjávrre, Tjåmotesjaure, Tjåmotisjaure
-Tjåmuhas, Tjåmohas
+Tjåmuhas, Tjåmohas, Čoamohas
 Tjåorika
 Tjåresvárre, Tjåresvare, Tjårrasvare
 Tjårok
@@ -29000,7 +29000,7 @@ Tomsjöberget
 Tomtabäcken
 Tomtberget
 Tomtbäcken
-Tomten
+Tomten, Aasankrunni
 Tomtgrund
 Tomtsjön
 Tomtviken
@@ -29041,7 +29041,7 @@ Torhamnsfjärden
 Torholmen
 Torisjoki
 Torislompolo
-Torivaara
+Torivaara, Čorrovárri
 Torkeln
 Torkels Huvud
 Torkelsbådan
@@ -29322,7 +29322,7 @@ Trelimpan
 Trelleborg
 Trelleborg Port, Trelleborg Ferry Port, Trelleborg Harbour
 Trelleborg socken
-Trelleborgs Kommun, Trelleborg Municipality
+Trelleborgs Kommun, Trelleborg Municipality, Trelleborgin Kunta
 Tremocksbergen
 Treriksröset
 Treskaten
@@ -29394,7 +29394,7 @@ Trollgrundet
 Trollharan
 Trollholmarna
 Trollholmen
-Trollhättan, Trollhättan Municipality, Trollhättan kommune, Trollhättans Kommun, Trollhättans Stad, Trollhättens Kommun
+Trollhättan, Trollhättan Municipality, Trollhättan kommune, Trollhättana gielda, Trollhättanin Kaupunki, Trollhättanin kunta, Trollhättans Kommun, Trollhättans Stad, Trollhättens Kommun
 Trollhättan socken
 Trollhätte Kanal
 Trollhättsgrunden
@@ -29593,7 +29593,7 @@ Tule Klätt
 Tulebosjön
 Tulemajoki
 Tulingeåsen
-Tulinkivaara, Tulinkivarra, Tuulinkivaara
+Tulinkivaara, Dolosvárri, Tulinkivarra, Tuulinkivaara
 Tullan
 Tullartjärn
 Tullerö
@@ -29649,7 +29649,7 @@ Tuolpak
 Tuolpakjokk
 Tuolpatjåkko
 Tuolpok, Tuolpuk
-Tuolpukkavuoma
+Tuolpukkavuoma, Âiteâhpi
 Tuopmatjåkko, Sjallatjåkko
 Tuorkape, Tuorgape
 Tuorponjaure, Tuorpenjaure, Tuorpunjaure, Turpon, Turponjaur
@@ -30055,7 +30055,7 @@ Uddaglo
 Udden
 Uddersjön
 Uddevalla
-Uddevalla Kommun, Uddevalla Municipality
+Uddevalla Kommun, Uddevalla Municipality, Uddevallan Kunta
 Uddevalla socken
 Uddgrundet
 Uddjaure, Uddjaur
@@ -30088,7 +30088,7 @@ Ugsiberget, Ugsisberg
 Ugsiån
 Uhtje Tjöure
 Uhtsa Orbaste, Lill-Arbost, Lilla Arbastjaure
-Uijajärvi
+Uijajärvi, Uddjájávri
 Uittujaure
 Ujuran
 Ukna
@@ -30182,10 +30182,10 @@ Uman
 UmeLagun
 Umeälven, Ume, Ume River, Ume Älf, Ume älv, Umeälv
 Umeå Hamn, Umeå Uthamn
-Umeå Kommun, Umeå
+Umeå Kommun, Umeå, Uumaja
 Umeå Maria
 Umeå landsförs.
-Umeå socken, Umeå
+Umeå socken, Umeå, Uumaja
 Umeå stad socken
 Umeå stadsförs.
 Umnässjön
@@ -30250,7 +30250,7 @@ Upplands-Bro Kommun, Upplands-Bro
 Upplunden
 Upprämen, Upprämmen
 Uppsala County, Uppsala, Uppsala Län
-Uppsala Kommun, Uppsala, Uppsala Municipality
+Uppsala Kommun, Uppsala, Uppsala Municipality, Uppsalan Kunta
 Uppsala domkyrkoförs.
 Uppsala socken, Uppsala
 Uppsala-Näs
@@ -30295,7 +30295,7 @@ Urö
 Urösundet
 Usken
 Uspen
-Ussavuoma, Tahkovuoma
+Ussavuoma, Tahkovuoma, Ussávuopmi
 Ussholmen
 Ustö, Utsö
 Ustön
@@ -30463,8 +30463,8 @@ Vakaren
 Vakatakko
 Vakerån
 Vakkasjokk
-Vakkojärvi, Vakojaure
-Vakkokoski, Vakkakoski
+Vakkojärvi, Vakojaure, Váhkujávri
+Vakkokoski, Vakkakoski, Váhkuguoika
 Vaksala
 Vaksala socken
 Vaksjöberget
@@ -30789,7 +30789,7 @@ Vassgården, Wassgården
 Vassholmarna
 Vassholmen
 Vassijaure
-Vassijoki
+Vassijoki, Vássejohka
 Vassijokk, Vassijokka
 Vassivardo
 Vassjatjåkko, Vassja, Vassjapakie, Vassjatjåkkå
@@ -30936,7 +30936,7 @@ Venön
 Verboberget
 Verdejaure, Värdejaure
 Verkarna
-Verkasjoki
+Verkasjoki, Vieragasjohka
 Verkebäcksviken
 Verkeån, Verkån, Värke
 Verkfjärden
@@ -30978,7 +30978,7 @@ Vetjerjaure
 Vetlanda
 Vetlanda kommun, Vetlanda Municipality
 Vetlanda socken
-Vettarna
+Vettarna, Pappilankrunni
 Vettasjoki
 Vettasjärvi
 Vetteberget
@@ -31401,10 +31401,10 @@ Vitskärsholmen
 Vittakero
 Vittangi
 Vittangisuanto, Vittangisuvanto
-Vittangiälven, Vittangi Elf, Vittangi älv
+Vittangiälven, Vazášeatnu, Vittangi Elf, Vittangi älv
 Vittankijoki, Vittangijoki
-Vittankijärvi, Vittangijärvi
-Vittankivaara, Vittangivaara
+Vittankijärvi, Vittangijärvi, Viššátjávri, Vázášjávri
+Vittankivaara, Lulit Vázášvárri, Vittangivaara
 Vittanträsket
 Vittaryd
 Vittaryd socken
@@ -31528,7 +31528,7 @@ Vuojatätno, Vuojatädno
 Vuokarjaure, Vuokere, Vökarn
 Vuokarvare
 Vuokkasenjoki, Vuokaisenjoki
-Vuokkasenkero, Vuokaisenkero
+Vuokkasenkero, Vuoggásčearru, Vuokaisenkero
 Vuoksajaure
 Vuoksajávri, Vuomajaure
 Vuoksakåbbo
@@ -31563,7 +31563,7 @@ Vuoltasjokk
 Vuolvojaure
 Vuolvonåjvve, Vuolvonåive, Vuolvåive
 Vuomabuolžžat, Vuomapuoltjah
-Vuomajohka, Simajokk
+Vuomajohka, Simajokk, Simmájohka
 Vuomajoki
 Vuomajärvi
 Vuomak
@@ -31580,7 +31580,7 @@ Vuordnajåkkå
 Vuordnatjåkka, Vuordnatjakke, Vuordnatjåkko, Vuortnatjåkko
 Vuorektjåkko, Vuorektjakke
 Vuores, Vuoures
-Vuoresuolu, Vuoresuolo, Vöressaari
+Vuoresuolu, Vuoresuolo, Vuorisaari, Vöressaari
 Vuorgguotjuvvielge, Vuorkotjavelk
 Vuorivárdu, Vorevardo, Vuorevarto
 Vuormovardo
@@ -31645,7 +31645,7 @@ Várries, Varras
 Vársávárrie, Varrasvare
 Vássajávri, Varsajaure
 Vássačorru, Pokimtjåkko
-Vássejávri, Vassejaure, Vasstjärvi
+Vássejávri, Vassejaure, Vassejärvi, Vasstjärvi
 Vä socken
 Vä-Skepparslöv
 Väberget
@@ -31970,7 +31970,7 @@ Västervåsen
 Västeråker
 Västeråker socken
 Västerån, Vesterån, Westerån
-Västerås, Västerås Kommun, Västerås Municipality, Västerås Stad, Västerås kommune
+Västerås, Västerås Kommun, Västerås Municipality, Västerås Stad, Västerås kommune, Västeråsa gielda, Västeråsin Kaupunki, Västeråsin kunta
 Västerås Badelunda
 Västerås Lundby
 Västerås domkyrkoförs.
@@ -32075,7 +32075,7 @@ Västra Gärdsholmen
 Västra Gässlingen
 Västra Gårdsjön
 Västra Görsjön
-Västra Götaland County, Västra Götaland, Västra Götalands län
+Västra Götaland County, Länsi-Götanmaan lääni, Oarje-Götalándda leatna, Västra Götaland, Västra Götalands län
 Västra Hagasjön
 Västra Haken
 Västra Hammaren, Hammar Point
@@ -32525,7 +32525,7 @@ Yli Siurujoki
 Yli Taalujärvi, Yli Talojärvi
 Yli Vuolusjärvi, Yli Vuolosjärvi
 Yli-Kuittasjärvi, Yli Kuitasjärvi
-Yli-Maitanen
+Yli-Maitanen, Davit Máidá
 Ylijänkkä
 Ylijärvi
 Ylikari, Yikari
@@ -32537,19 +32537,19 @@ Ylinen Hirvaskoski
 Ylinen Kaartijoki, Karttijoki
 Ylinen Kallovaara, Pieni Kallovaara
 Ylinen Kevusjärvi, Yli Kevusjärvi
-Ylinen Kuoihkahvaara, Yli Kuokola
+Ylinen Kuoihkahvaara, Davit Guoikkalvárri, Yli Kuokola
 Ylinen Kuusivaara, Yli Kuusivaara
 Ylinen Käyrävaara, Käyrävaara
 Ylinen Laanijärvi, Laanijärvet
-Ylinen Liedakkakoski, Yli Liedakkakoski
+Ylinen Liedakkakoski, Bajit Lieđekguoika, Yli Liedakkakoski
 Ylinen Lulimus, Lulemus, Yli Lulemus
-Ylinen Maltosrova, Yli Maltosrova
+Ylinen Maltosrova, Alit Málddošvárri, Yli Maltosrova
 Ylinen Nalasenvaara, Nalmuksenvaara
-Ylinen Paatsijäkälä, Yli Paatsijäkälä, Yli Patsijäkälä
+Ylinen Paatsijäkälä, Davit Báhčajeagil, Yli Paatsijäkälä, Yli Patsijäkälä
 Ylinen Rautulaki, Lehtolaki, Yli Lehtolaki
-Ylinen Taalujärvi, Alep Stalojaure, Davip Stálujávri, Yli Talojärvi
+Ylinen Taalujärvi, Alep Stalojaure, Davip Stálujávri, Davit Stállojávri, Yli Talojärvi
 Ylinen Vuoksuvaara, Yli Vuoksuvaara
-Ylinen Vuolusjärvi, Alep Vuolusjaure, Davip Vuolusjávri, Yli Vuolosjärvi
+Ylinen Vuolusjärvi, Alep Vuolusjaure, Davip Vuolusjávri, Davit Vuolusjávri, Yli Vuolosjärvi
 Ylinenjoki
 Ylisaaret
 Ylisetjärvi
@@ -33010,7 +33010,7 @@ Zakrisberg
 Älvestad socken
 Älvestasjön
 Älvgrynnan
-Älvkarleby Kommun, Älvkarleby
+Älvkarleby Kommun, Älvkarleby, Älvkarlebyn Kunta
 Älvkarleby socken
 Älvkarleby-Skutskär
 Älvlången
@@ -33633,7 +33633,7 @@ Zakrisberg
 Ökvasselmyren
 Ökvasselån
 Ökö
-Öland
+Öland, Öölanti
 Ölands Norra Grund
 Ölands Norra Tredingsgrund
 Ölands Norra Udde
@@ -33725,8 +33725,8 @@ Zakrisberg
 Örby socken
 Örby-Skene
 Örbäcken
-Örebro County, Örebro, Örebro län
-Örebro Kommun, Örebro
+Örebro County, Örebro, Örebro leatna, Örebro län, Örebron lääni
+Örebro Kommun, Örebro, Örebron Kunta
 Örebro Nikolai
 Örebro Olaus Petri
 Örebro socken, Örebro
@@ -33998,7 +33998,7 @@ Zakrisberg
 Östgrundet
 Östhammar socken
 Östhammarfjärden, Östhammarsfjärden
-Östhammars Kommun, Östhammar, Östhammar Municipality
+Östhammars Kommun, Östhammar, Östhammar Municipality, Östhammarin Kunta
 Östholmen
 Östingsjön
 Östjuten
@@ -34151,7 +34151,7 @@ Zakrisberg
 Östra Lagnö
 Östra Lairobäcken
 Östra Lairoträsket
-Östra Launinkari
+Östra Launinkari, Itä-Launinkari
 Östra Laxsjön
 Östra Lermaren
 Östra Leukerträsket

@@ -82,7 +82,7 @@ Ainsoo, Hainsoo
 Aitsra küla
 Aiu
 Aknajärv
-Aksi, Aaksi Saar, Hasi Saar, Klein-Wrangel, Little Wrangel Island, Malyy Vrangel', Ostrov Eksi-Sar, Väike Prangli Saar, Äksi Saar
+Aksi, Aaksi Saar, Aksi Saar, Hasi Saar, Klein-Wrangel, Little Wrangel Island, Malyy Vrangel', Ostrov Eksi-Sar, Väike Prangli Saar
 Akste küla
 Ala küla
 Ala-Kilvagu, Ala-Kilvaku
@@ -308,11 +308,11 @@ Avispea küla
 Balti Klint, Balti-Laadoga Astang, Baltiysko-Ladozhskiy Ustup, Glint
 Barabanovi Madal, Baraban, Barabanova, Barahanovi
 Barclay plats
-Basanova Point, Hulgekari Ots, Hylkari, Hülgekari, Hülkari Ots, Mys Khyul'gekari, Mys Khyulchekari
-Bekkeri Sadam, Beckeri Tehase Sadam, Bekkeri Meeruse, Bekkeri Shipyard Basin, Bekkeri Tehase Sadam, Böcker Harbour, Gavan' Zadova Bekker, Gavan' Zavoda Bekker
+Basanova Point, Hulgekari Ots, Hylkari, Hülgekari, Hülkari, Hülkari Ots, Mys Khyul'gekari, Mys Khyulchekari
+Bekkeri Sadam, Beckeri Tehase Sadam, Bekkeri Meeruse, Bekkeri Shipyard Basin, Bekkeri Tehase Sadam, Böcker Harbour, Gavan' Kopli-Yuzhnaya, Gavan' Zadova Bekker, Gavan' Zavoda Bekker
 Beresje küla
 Bethania
-Bishop's Garden
+Bishop's Garden, Piiskopi aed, Епископский сад
 Boose Järv
 Borrby küla
 Cape Teffaninna, Mys Tekhvanina, Tähva Nina
@@ -374,7 +374,7 @@ Elva Jõgi, Elva River, Ulila Jõgi
 Elva linn
 Elva vald, Elva Parish
 Emajõe Suursoo, Boloto Surso
-Emajõgi, Ema, Ema-Yygi, Emajogl, Emajoki, Emajõgi River, Embach, Embakh River, Mētra, Suur-Emajõgi
+Emajõgi, Ema, Ema-Yygi, Emajogl, Emajoki, Emajõgi River, Embach, Embakh River, Mētra, Suur-Emajõgi, Эмайыги
 Emmaste küla
 Emmaste vald, Emmaste Parish
 Emmaste-Kurisu küla
@@ -524,7 +524,7 @@ Harju Laht, Haru Laht
 Harju küla
 Harju-Risti küla
 Harjuküla
-Harjumaa, Harju, Harju County, Harju Maakond, Harju Rajoon, Khar'yuskiy Rayon
+Harjumaa, Harju, Harju County, Harju Maakond, Harju Rajoon, Khar'yuskiy Rayon, Харьюмаа
 Harku Järv, Lake Argo, Lake Haabersti, Lake Harku, Loodjärv, Ozero Kharku, Ozero Kharku Yarv
 Harku Oja
 Harku alevik
@@ -574,7 +574,7 @@ Hiievälja küla
 Hiiremäe
 Hiiu Madal, Khiiumadal, Nachmannsgrund, Nachmansgrund, Nekmangrund
 Hiiu vald
-Hiiumaa, Dago, Dago Sala, Dagoe, Dagė Sala, Dogen, Hiidenmaa, Hiiu, Hiiu County, Hiiu Maakond, Hiiumaa Rajoon, Hīumā, Insel Dagö, Khiuma, Khiyumaaskiy Rayon, Ostrov Dago, Ostrov Dagë, Ostrov Khiiumaa, Ostrov Khiuma, Ostrov Khiumaa, Ostrov Khiyumaa
+Hiiumaa, Dago, Dago Sala, Dagoe, Dagė Sala, Dogen, Hiidenmaa, Hiiu, Hiiu County, Hiiu Maakond, Hiiumaa Rajoon, Hīumā, Insel Dagö, Khiuma, Khiyumaaskiy Rayon, Ostrov Dago, Ostrov Dagë, Ostrov Khiiumaa, Ostrov Khiuma, Ostrov Khiumaa, Ostrov Khiyumaa, Хийумаа
 Hiiumaa vald, Hiiumaa Parish
 Hilana küla
 Hilba Jõgi, Hilba
@@ -843,7 +843,7 @@ Juuru vald, Juuru Parish
 Juusa, Juuriko
 Juusa küla
 Jädivere küla
-Jägala Jõgi, Iegala Iygi, Jaggowal, Jegala, Jägala River, Reka Yagala-Yygi, Yagala, Yagala Yygi, Yaggoval', Yagoval'
+Jägala Jõgi, Iegala Iygi, Jaggowal, Jegala, Jägala, Jägala River, Reka Yagala-Yygi, Yagala, Yagala Yygi, Yaggoval', Yagoval'
 Jägala küla
 Jägala-Joa küla
 Jälevere küla
@@ -874,7 +874,7 @@ Järvajõe küla
 Järvakandi alev
 Järvakandi vald
 Järvaküla
-Järvamaa, Järva County, Järva Maakond, Paide Rajoon, Paydeskiy Rayon, Yarvaskiy Rayon
+Järvamaa, Järva County, Järva Maakond, Paide Rajoon, Paydeskiy Rayon, Yarvaskiy Rayon, Ярвамаа
 Järve
 Järve küla
 Järve linnaosa
@@ -922,7 +922,7 @@ Jõgela küla
 Jõgeva alevik, Jõgeva
 Jõgeva linn
 Jõgeva vald
-Jõgevamaa, Jõgeva County, Jõgeva Maakond, Jõgeva Rajoon, Yygevaskiy Rayon
+Jõgevamaa, Jõgeva County, Jõgeva Maakond, Jõgeva Rajoon, Yygevaskiy Rayon, Йыгевамаа
 Jõgeveste küla
 Jõgisoo küla
 Jõhve Oja, Jõhve, Jõhve Jõgi, Reka Iykhve-Oya
@@ -1421,7 +1421,7 @@ Kihlevere küla
 Kihme küla
 Kihmjäv
 Kihmla küla
-Kihnu, Kihnu Saar, Kihnu-Sar, Kino, Kinu Sala, Kyno, Kyuno, Kühnö, Ostrov Kikhnu, Ostrov Kikhnu-Sar, Ostrov Kyunë
+Kihnu, Kihnu Saar, Kihnu-Sar, Kino, Kinu Sala, Kyno, Kyuno, Kühnö, Ostrov Kikhnu, Ostrov Kikhnu-Sar, Ostrov Kyunë, Кихну
 Kihnu Väin, Proliv Kikhnuveyn
 Kihnu vald, Kihnu Parish
 Kiia küla
@@ -1554,7 +1554,7 @@ Kiviselja, Кеммуселья
 Kivissaare
 Kivitammi küla
 Kiviõli Kaevanduse Kraav, Kiviõli, Kiviõli Kaevand
-Kiviõli linn
+Kiviõli linn, Кивиыли
 Kleemu küla
 Kliima küla
 Klistina küla
@@ -1737,7 +1737,7 @@ Koovi küla
 Koovälja küla
 Kopa küla
 Kopli
-Kopli Laht, Kopli Bay
+Kopli Laht, Kopli Bay, Telliskopli laht, Бухта Копли
 Kopli Neem, Poluostrov Tsigel'skoppel', Teliskopli Neem, Teliskopli Nina, Tsigelsko Point
 Kopli Poolsaar, Kopli Peninsula
 Kopli kalmistupark
@@ -2185,7 +2185,7 @@ Laaksaarõ, Laiksaare
 Laane, Kõpusaun 101
 Laane küla
 Laanekuru küla
-Laanemaa Järv, Orkjärv
+Laanemaa Järv, Orkjärv, Ozero Ork''yarv
 Laanemetsa Oja
 Laanemetsa küla
 Laaneotsa küla
@@ -2229,7 +2229,7 @@ Laidu
 Laidunina, Merris Point, Mys Laydu-Nina
 Laiksaare Jõgi
 Laiksaare küla
-Laikupe
+Laikupe, Lätioja
 Laiküla
 Laimetsa küla
 Laimjala küla
@@ -2244,8 +2244,8 @@ Laitsna-Hurda küla
 Laiu
 Laiuse alevik
 Laiusevälja küla
-Lake Peipus, Chudskoye Ozero, Lake Peipsi, Ozero Chud', Ozero Chudskoe, Peipaus Ežeras, Peipsenjärvi, Peipsi Järv, Peipsi-Pihkva järv, Peipus Ezers, Peipus-See, Peypsi-Yarv, Peypus Ozero
-Lake Pskov, Lake Pihkva, Pihkva Järv, Pihkwa Järw, Pikhkva-Yarv, Pleskau-See, Pleskauer See, Pliskavas Ezers, Pliskuvos Ežeras, Pskovskoye Ozero, Pskowscher See
+Lake Peipus, Chudskoye Ozero, Lake Peipsi, Ozero Chud', Ozero Chudskoe, Peipaus Ežeras, Peipsenjärvi, Peipsi Järv, Peipsi-Pihkva järv, Peipus Ezers, Peipus-See, Peypsi-Yarv, Peypus Ozero, Псковско-Чудское озеро, Чудско-Псковское озеро
+Lake Pskov, Lake Pihkva, Pihkva Järv, Pihkwa Järw, Pikhkva-Yarv, Pleskau-See, Pleskauer See, Pliskavas Ezers, Pliskuvos Ežeras, Pskovskoye Ozero, Pskowscher See, Псковское Озеро
 Lakenõmme, Kürena
 Lakovitsa küla
 Laksu
@@ -2630,8 +2630,8 @@ Läägi küla
 Lääne-Harju vald, Lääne-Harju Parish
 Lääne-Nigula vald
 Lääne-Saare vald
-Lääne-Virumaa, Lyaene-Viruskiy Rayon, Lääne-Viru County, Lääne-Viru Maakond, Rakvere Rajoon, Rakvereskiy Rayon
-Läänemaa, Lääne Maakond
+Lääne-Virumaa, Lyaene-Viruskiy Rayon, Lääne-Viru County, Lääne-Viru Maakond, Rakvere Rajoon, Rakvereskiy Rayon, Ляэне-Вирумаа
+Läänemaa, Lääne Maakond, Ляэнемаа
 Lääneotsa küla
 Lääneranna vald, Lääneranna Parish
 Lääniste küla
@@ -2839,7 +2839,7 @@ Merenuka küla
 Mereäärse küla
 Meriküla
 Meriküla-Kannastiku, Kannastiko
-Merimets, Stroomi Forest, Zeewald
+Merimets, Seevald, Stromka mets, Stroomi Forest, Stroomi mets, Zeewald, Лес Строоми, Лес Штромки
 Merise, Merisenuk, Merris Point, Mys Merise-neem, Mys Merris
 Merise küla
 Merja küla
@@ -2982,7 +2982,7 @@ Mustivere küla
 Mustja küla
 Mustjala küla
 Mustjala vald, Mustjala Parish
-Mustjärv
+Mustjärv, Ozero Must''yarv
 Mustjõe küla
 Mustjõgi, Must, Must-Yygi, Mustjõgi River, Reka Must-Yygi
 Mustla alevik
@@ -3102,7 +3102,7 @@ Märja alevik
 Märjamaa alev, Märjamaa
 Märjamaa vald, Märjamaa Parish
 Märjandi küla
-Mäsa Järv, Messe Järv, Ozero Messe-Yarv
+Mäsa Järv, Messe Järv, Mäsäjärv, Ozero Messe-Yarv
 Mässa küla
 Mätasselja küla
 Mätja küla
@@ -3185,7 +3185,7 @@ Nagajevi Madal
 Naha küla
 Nahapesjä, Мюрги
 Nahkjala küla
-Naissaar, Naisaaros Sala, Naissaar Island, Naissar, Naisära Sala, Nargen Island, Nargen', Nargö, Ostrov Nais, Ostrov Nayssaar, Ostrov Nayssar
+Naissaar, Naisaaros Sala, Naissaar Island, Naissar, Naisära Sala, Nargen Island, Nargen', Nargö, Ostrov Nais, Ostrov Nayssaar, Ostrov Nayssar, Найссаар
 Naissaare Madal, Naissaare Madalik
 Naissaare Sadam
 Naissoo küla
@@ -3594,7 +3594,7 @@ Palginõmme, Пальгинемме
 Palivere alevik
 Paljasmaa küla
 Paljassaare Kari
-Paljassaare Laht, Paljassaare Bay
+Paljassaare Laht, Paljassaare Bay, Бухта Пальяссааре
 Paljassaare Poolsaar, Karl Island, Ostrov Karlos, Ostrov Pal'yassaar, Paljassaar, Poluostrov Polyassare
 Palkmetsa, Palimetsa
 Pallasmaa küla
@@ -3630,7 +3630,7 @@ Pammana Poolsaar
 Pammana küla
 Pandivere küla
 Pandja, уч. Пандья
-Pandju Saar, Ostrov Pandiya, Paljandu Saar, Pandju
+Pandju Saar, Ostrov Pand'yu, Ostrov Pandiya, Paljandu Saar, Pandju
 Panga Nukk, Mustjala Pank, Mys Panga-Nukk, Mys Pank, Panga Pank, Pank, Pank Point
 Panga küla
 Pangaküla
@@ -4061,11 +4061,11 @@ Pärniku
 Pärnjõe küla
 Pärnselja küla
 Pärnu Jõgi, Parnu River, Perna Fluss, Pernau, Pärna Jõgi, Pärnu
-Pärnu Laht, Parnu Bight, Pernau Bight, Pernauer Bucht, Pyarnu-Lakht
+Pärnu Laht, Parnu Bight, Pernau Bight, Pernauer Bucht, Pernovskiy Zaliv, Pyarnu-Lakht, Zaliv Pyarnu, Zaliv Pyarnu-Lakht
 Pärnu Reid, Pernau Roadstead, Pyarnu Roadstead, Pärnu Roadstead, Reyd Pyarnu
 Pärnu linn, Pērnava
 Pärnu-Jaagupi alev
-Pärnumaa, Pyarnuskiy Rayon, Pärnu County, Pärnu Maakond, Pärnu Rajoon
+Pärnumaa, Pyarnuskiy Rayon, Pärnu County, Pärnu Maakond, Pärnu Rajoon, Пярнумаа
 Pärnuvälja
 Pärsama küla
 Pärsi küla
@@ -4122,8 +4122,8 @@ Põltsamaa linn
 Põltsamaa vald
 Põlula küla
 Põlva linn
-Põlva vald, Põlva Parish
-Põlvamaa, Pylvaskiy Rayon, Põlva County, Põlva Maakond, Põlva Rajoon
+Põlva vald, Põlva Parish, Пылва
+Põlvamaa, Pylvaskiy Rayon, Põlva County, Põlva Maakond, Põlva Rajoon, Пылвамаа
 Põnni küla
 Põrga küla
 Põrgu küla
@@ -4346,7 +4346,7 @@ Reolasoo küla
 Reonda küla
 Reopalu Jõgi, Reopalu, Reopalu Oja, Röa Jõgi
 Reopalu küla
-Republic of Estonia, Eesti, Eesti Nõukogude Sotsialistlik Vabariik, Estland, Estonia, Estonia nutome, Estonian Soviet Socialist Republic, Estoniya, Estonja, Estonskaya Sovetskaya Sotsialisticheskaya Respublika
+Republic of Estonia, Eesti, Eesti Nõukogude Sotsialistlik Vabariik, Eesti Vabariik, Estland, Estonia, Estonian Soviet Socialist Republic, Estoniya, Estonja, Estonskaya Sovetskaya Sotsialisticheskaya Respublika
 Resti
 Resto küla
 Restu küla
@@ -4475,7 +4475,7 @@ Rudina, Rüüsä
 Rugula
 Ruhijärv, Ozero Rukh'ya-Yarv, Ruhja Järv
 Ruhingu küla
-Ruhnu Saar, Ostrov Rukhnu, Ostrov Rukhnu-Saar, Ostrov Runo, Ostrov Runë, Roņu Sala, Ruhnu, Ruhnö, Runos Sala, Runö
+Ruhnu Saar, Ostrov Rukhnu, Ostrov Rukhnu-Saar, Ostrov Runo, Ostrov Runë, Roņu Sala, Ruhnu, Ruhnö, Runos Sala, Runö, Рухну
 Ruhnu küla
 Ruhnu vald
 Ruhve küla
@@ -4616,7 +4616,7 @@ Saarnakõrve küla
 Saartneem
 Saarõ
 Saarõperä, Rääsolaane
-Saastna Järv, Ozero Sastna-Yarv
+Saastna Järv, Ozero Sastna-Yarv, Teorehe järv
 Saastna Poolsaar
 Saastna küla
 Saate küla
@@ -4774,7 +4774,7 @@ Seidla küla
 Seinakari, Ostrov Seynakari
 Seinapalu küla
 Seira küla
-Sele Sound, Dagden-Sund, Proliv Soela, Proliv Soela-Vyayn, Proliv Soela-Zund, Proliv Soelaveyn, Proliv Soelo-Zund, Sele-Zund, Soela Väin, Soela Wäin, Soela-Sund, Soelas Šaurums, Soëlo-Sund
+Sele Sound, Dagden-Sund, Proliv Soela, Proliv Soela-Vyayn, Proliv Soela-Zund, Proliv Soelaveyn, Proliv Soelo-Zund, Sele-Zund, Soela Väin, Soela Wäin, Soela-Sund, Soelas Šaurums, Soëlo-Sund, Соэла, Соэла-Вяйн, Соэлозунд
 Selgase küla
 Selge
 Selggrund
@@ -4965,7 +4965,7 @@ Sortsi küla
 Sosi
 Soska, Soski
 Spithami küla / Spithamn
-Stroomi rand, Stroomi Beach
+Stroomi rand, Pelgurand, Stromka, Stroomi Beach, Пляж Штромка, Штромка
 Sudaste küla
 Sudemäe küla
 Sudeste
@@ -5004,10 +5004,10 @@ Suuga küla
 Suumäe, Soomäe
 Suuna, Soona
 Suur Katel, Arensburg Bay, Arensburger Bucht, Bukhta Suur Katel', Kuressaare Reid, Reyd Kuressaare-Lakht, Suur-Kattel, Zaliv Sur-Katel, Zaliv Surkatel'-Lakht
-Suur Munamägi, Eier-Berg, Gora Munamyagi, Munameģis, Munamägi, Munamäji, Munamäki, Munna, Munnamäggi, Sur-Munamyagi
+Suur Munamägi, Eier-Berg, Gora Munamyagi, Munameģis, Munamägi, Munamäji, Munamäki, Munna, Munnamäggi, Sur-Munamyagi, Суур-Мунамяги
 Suur Pehmejärv, Ozero Sur Pekhme-Yarv, Pehme Järv
 Suur Saarjärv
-Suur Sound, Grosser Sund, Moon Sound, Moon-Sund, Moonsundet, Moonzund, Muhu Väin, Muhu Väina, Muhu Wäin, Mukhuveyn, Proliv Bol'shoy Zund, Proliv Mukhu, Proliv Mukhu-Vyayn, Proliv Sur-Vyayn, Proliv Suur-Veyn, Suras Šaurums, Suur Väin, Suurveyn
+Suur Sound, Grosser Sund, Moon Sound, Moon-Sund, Moonsundet, Moonzund, Muhu Väin, Muhu Väina, Muhu Wäin, Mukhuveyn, Proliv Bol'shoy Zund, Proliv Mukhu, Proliv Mukhu-Vyayn, Proliv Sur-Vyayn, Proliv Suur-Veyn, Suras Šaurums, Suur Väin, Suurveyn, Виртсу, Суур-Вяйн, Суурвяйн
 Suur Tulpe Saar, Ostrov Suur-Tul'pe-Sar, Suur Tülp, Suur-Tyul'p, Tulpe Suur
 Suur-Nõmmküla / Klottorp
 Suur-Pahila küla
@@ -5153,7 +5153,7 @@ Tagajõgi, Reka Taga-Yygi, Tagaiygi, Tagajõgi River
 Tagakolga küla
 Tagaküla
 Tagaküla / Bakbyn
-Tagalaht, Bukhta Tagalakht, Hunds Wik, Pidula Laht, Tagelacht-Bucht, Taggalaht, Taggalaklet Bay, Zaliv Taga-Lakht
+Tagalaht, Bukhta Tagalakht, Hunds Wik, Pidula Laht, Tagelacht-Bucht, Taggalaht, Taggalaklet Bay, Zaliv Taga-Lakht, Залив Тагалахт
 Tagametsa, Гаггомецъ
 Tagametsa küla
 Tagamõisa Poolsaar, Hundsort, Poluostrov Tagamoyza, Tagamyysa Poluostrov, Tagamõisa
@@ -5233,7 +5233,7 @@ Tamsi küla
 Tamula Järv, Ozero Tamula-Yarv, Tammula Järv
 Tanska küla
 Tapa linn
-Tapa vald, Tapa Parish
+Tapa vald, Tapa, Tapa Parish, Тапс
 Tapamõisa
 Tapi
 Tapiku Soo
@@ -6117,7 +6117,7 @@ Vilivere küla
 Viljandi Järv, Lake Fellin, Ozero Vil'yandi-Yarv
 Viljandi linn
 Viljandi vald
-Viljandimaa, Vil'yandiskiy Rayon, Viljandi County, Viljandi Maakond, Viljandi Rajoon
+Viljandimaa, Vil'yandiskiy Rayon, Viljandi County, Viljandi Maakond, Viljandi Rajoon, Вильяндимаа
 Vilkla küla
 Villa küla
 Villaku
@@ -6215,7 +6215,7 @@ Voorepalu küla
 Voorepera küla
 Vooru küla
 Voose küla
-Voosi Kurk, Noarootsi-Vormsifaarvater, Nukke-Vormskiy Farvater, Proliv Voosi-Kurk, Proliv Vozi-Kurk, Wormsö Channel
+Voosi Kurk, Noarootsi-Vormsifaarvater, Nukke-Vormskiy Farvater, Proliv Voosi-Kurk, Proliv Vozi-Kurk, Wormsö Channel, Воози (Воози-Курк)
 Vorbuse küla
 Vormsi, Insel Worms, Ormsö, Ostrov Vormsi-Sar, Ostrov Vormsisaar, Vorms, Vormsa Sala, Vormsi Saar, Vormsö, Wormsi Saar, Wormsö
 Vormsi vald, Vormsi Parish
@@ -6232,7 +6232,7 @@ Vägeva küla
 Väheru küla
 Väike Emajõgi, Emayygi, Embach, Embakh, Reka Vaike Ema-Yygi, Väike Emajõgi River, Väike Emmajõgi
 Väike Munamägi
-Väike Väin, Kleiner Sund, Proliv Malyy Zund, Proliv Veykeveyn, Proliv Vyaike-Vyayn, Proliv Vyayke-Veyn, Proliv Vyayke-Vyayn, Wäike Wäin
+Väike Väin, Kleiner Sund, Proliv Malyy Zund, Proliv Veykeveyn, Proliv Vyaike-Vyayn, Proliv Vyayke-Veyn, Proliv Vyayke-Vyayn, Wäike Wäin, Вяйкевяйн
 Väike-Ahli küla
 Väike-Kamari küla
 Väike-Kareda küla
@@ -6263,7 +6263,7 @@ Väiko-Tiilige küla
 Väiku-Ruuga küla
 Väimela alevik
 Väimissaare, Väimessaare
-Väinameri
+Väinameri, Вяйнамери
 Väinjärv, Väinjärve
 Väinjärve küla
 Väiso küla
@@ -6365,11 +6365,11 @@ Võrkla küla
 Võrnu küla
 Võrnu-Sala
 Võrsna küla
-Võrtsjärv, Ozero Virts-Yarv, Ozero Võrtsjärv, Vircezers, Vircjervi, Virtsjärvi, Virč Ežeras, Wirz-Järw, Wirz-See, Wörts-Järw
+Võrtsjärv, Ozero Virts-Yarv, Ozero Võrtsjärv, Vircezers, Vircjervi, Virtsjärvi, Virč Ežeras, Wirz-Järw, Wirz-See, Wörts-Järw, Выртсъярв
 Võru linn
 Võru vald, Võru Parish
 Võruküla
-Võrumaa, Vyruskiy Rayon, Võru County, Võru Maakond, Võru Rajoon
+Võrumaa, Vyruskiy Rayon, Võru County, Võru Maakond, Võru Rajoon, Вырумаа
 Võrumõisa küla
 Võrungi küla
 Võrusoo küla
@@ -6454,7 +6454,7 @@ Zerel Point, Kap-Zerel, Laiatüki Ots, Mys Sval'ferot, Mys Syaere, Mys Syrve, My
 Ülejõe
 Ülejõe küla
 Ülejõe park
-Ülemiste Järv, Bumajnoi Lake, Lake Ülemiste, Ober-See, Ozero Yulemiste, Yulemiste-Yarv
+Ülemiste Järv, Bumajnoi Lake, Lake Ülemiste, Ober-See, Ozero Yulemiste, Yulemiste-Yarv, Юлемисте
 Ülemäe
 Ülemõisa küla
 Ülendi küla

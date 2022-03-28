@@ -1,6 +1,6 @@
 Aabenraa Havn
 Aabenraa Kommune, Aabenraa, Åbenrå, Åbenrå Kommune
-Aarhus Harbour
+Aarhus Harbour, Århus Havn
 Aarhus Kommune, Aarhus
 Aarhus Nordic Seaplane Base
 Abelø Nordvest-Rev
@@ -48,7 +48,7 @@ Almindingen
 Alpedalen
 Alrø
 Alrø Sund
-Als
+Als, Alsen
 Als Fjord
 Als Odde
 Als Rev
@@ -377,8 +377,8 @@ Cancer
 Charlottenlund Søbad
 Christianshavns Kanal
 Christiansholm
-Christiansø
-Copencabana, Fisketorvet Havnebad
+Christiansø, Erbseninseln
+Copencabana, Fisketorvet Havnebad, Havnebadet ved Fisketorvet
 Copenhagen Port, Copenhagen Ferry Port, Copenhagen Harbour
 Copenhagen Roads
 Dageløkke Havn
@@ -716,7 +716,7 @@ Furesoebad
 Furesø
 Furesø Kommune
 Fussing Sø
-Fyn, Fionia, Fionie, Funen, Fyen
+Fyn, Fionia, Fionie, Fjón, Funen, Fyen
 Fyns Hoved, Fyen Head, Fyens-Hoved
 Fynshav Port, Fynshav Ferry Port, Fynshav Harbour
 Fynshav strand
@@ -803,7 +803,7 @@ Gjerrild Klint, Gerrild Klint
 Gjerrild Nordstrand - Djursland
 Gjorslev Bøgeskov
 Gjøl Bredning
-Gladsaxe Municipality
+Gladsaxe Municipality, Gladsaxe Kommune
 Glenstrup Sø
 Glimsholt Å, Glimsholt Aa
 Glombæk
@@ -933,7 +933,7 @@ Hals Mose
 Hals Nørreskov
 Hals Sønderskov
 Halsnæs
-Halsnæs Kommune
+Halsnæs Kommune, Frederiksværk-Hundested Kommun
 Halsskov, Halskov
 Halsskov Færgehavn
 Halsskov Odde, Halskov Hoved, Halskov Odde
@@ -1168,7 +1168,7 @@ Humleore
 Hummelmose
 Hummelvig, Humlevig, Hummel Wiek
 Hundelev Å, Hundelev Aa
-Hundested Ferry Port
+Hundested Ferry Port, Hundested Færgehavn
 Hundige Havn
 Hundsbæk Plantage
 Hundshage
@@ -1311,7 +1311,7 @@ Julianehøj
 Julius Thomsens Plads
 Julsø
 Jungshoved
-Jutland, Chersonesus, Cimbrica, Gylland
+Jutland, Chersonesus, Cimbrica, Gylland, Jylland
 Juvre Dyb, Juvrer Deep, Juvrer Tief
 Juvre Sand, Juvre Sande
 Jydegrund
@@ -1324,8 +1324,8 @@ Jægersborg Dyrehave
 Jægersborg Hegn
 Jægerspris Bugt
 Jørlhage
-Kadet-Bank, Kadetbanke
-Kadetrenden, Cadet channel, Kadet Channel
+Kadet-Bank, Kadetbank, Kadetbanke
+Kadetrenden, Cadet channel, Kadet Channel, Kadet Rinne, Kadetrinne
 Kagevig
 Kajbjerg Skov, Kajbjærg Skov
 Kalby Ris
@@ -1398,7 +1398,7 @@ Kignæs, Kitnæs
 Kikkesten
 Kildegrund
 Kilen, Kilen lake
-Kingdom of Denmark, Danemark, Danimarca, Denmark
+Kingdom of Denmark, Danemark, Danimarca, Danmark, Danmørk, Denmark, Kongeriget Danmark
 Kirkeflod
 Kirkegrund
 Kirkehavn, Omø Havn
@@ -1515,7 +1515,7 @@ Kongenshus Mindepark
 Kongenshøj, Kongehøj
 Kongerslev Park View
 Kongeskov
-Kongeå, Kongeaa
+Kongeå, Kongeaa, Königs Au
 Kongsbjerg
 Kongsdal havn
 Kongshøj
@@ -1576,8 +1576,8 @@ Kujegrund, Kuie Grund
 Kulhus Havn
 Kulhus Rende
 Kulhus Strand
-Kulhuse Ferry Port
-Kulhuse Port
+Kulhuse Ferry Port, Kulhuse Færgehavn
+Kulhuse Port, Kulhuse Havn
 Kulmanden
 Kulsbjerge, Kulsbierge, Kulsbjerg, Kulsbjærg
 Kulsø
@@ -1604,7 +1604,7 @@ Kærbæk
 Kæret
 Kærgård Plantage, Kjærgaarde, Kærgaard Plantage, Kærgaarde, Kærgaarde Plantage
 Kærhøj, Kjærhöj
-København, Copenhagen, Copenhagen municipality, Københavns Kommune, Staden København
+København, Copenhagen, Copenhagen municipality, Københavns, Københavns Kommune, Staden København
 Københavns Red
 Københoved Skov
 Købingsmark Strand
@@ -1761,8 +1761,8 @@ Lynger Hage
 Lyngerodde
 Lyngs Odde
 Lyngsbæk Strand
-Lyngsoe Lake
-Lynæs Port
+Lyngsoe Lake, Lyngsø
+Lynæs Port, Lynæs Havn
 Lynæs Sand
 Lysegrund
 Lysegrunde, Lyse Ground
@@ -1986,7 +1986,7 @@ Norsminde Fjord, Kysingfjord
 Norsminde Flak
 Norsminde Harbour
 Norsminde Havn
-North Denmark Region, North Denmark
+North Denmark Region, North Denmark, Region Nordjylland, Region Nordjütland
 Novo Public beach
 Ny Frederikskog, Nye Frederikskog
 Ny Grenå, Kahalen, Ny Grenaa, Nye Grenaa
@@ -2078,7 +2078,7 @@ Ordrup Strand
 Oreby Skov
 Orehoved Havn
 Orekrog
-Oresund Region
+Oresund Region, Öresundregion, Øresundsregionen
 Orientbassinet
 Ormstrup Skov
 Ormø
@@ -2160,10 +2160,10 @@ Rebild Kommune
 Rebæk Beach
 Reersø
 Reersø Fiskerihavn
-Region Hovedstaden, Capital Region
-Region Midtjylland, Central Denmark Region, Central Jutland, Region Central Jutland
-Region Sjælland, Region Zealand, Zealand
-Region Syddanmark, Region South Denmark, Region of Southern Denmark, South Denmark
+Region Hovedstaden, Capital Region, Hauptstadtregion, Hovedstaden
+Region Midtjylland, Central Denmark Region, Central Jutland, Midtjylland, Region Central Jutland, Region Mitteljütland, Región Miðjútland
+Region Sjælland, Region Seeland, Region Zealand, Zealand
+Region Syddanmark, Region South Denmark, Region Süddänemark, Region of Southern Denmark, Región Suðurdanmark, South Denmark
 Regnar Oliefelt
 Rejkær Plantage
 Rejsby Stjert
@@ -2392,7 +2392,7 @@ Siø
 Siø Sund
 Sjelborg Beach
 Sjollen
-Sjælland, Sealand, Seeland, Själland, Zealand
+Sjælland, Sealand, Seeland, Själland, Sæland, Zealand
 Sjællands Odde, Siællands Odde, Sjællands Odde Peninsula
 Sjællands Rev
 Sjælsø
@@ -2544,7 +2544,7 @@ Solskov Bjerg, Solskov Bjærg
 Sommerodde
 Sommerspiret
 Sonnerup Skov
-Sorring Låddenhøj
+Sorring Låddenhøj, Låddenhøj, Sorring Loddenhoj
 Sorte Rende
 Sortedams Sø
 Sorterenden
@@ -2722,7 +2722,7 @@ Sukkertoppen
 Sundby Hage
 Sundby Sejlforenings Havn
 Sunddraget
-Sundeved, Sundeved Peninsula
+Sundeved, Sundeved Peninsula, Sundewitt
 Sunds Nørreå, Nörreaa, Sunds Nörreaa
 Sunds Sø
 Sundsøre Færgehavn
@@ -2789,7 +2789,7 @@ Sødal Skov
 Søgrund
 Søhedens Bakke
 Søhundehavn, Sohunde Bay
-Sølager Ferry Port
+Sølager Ferry Port, Sølager Færge
 Sølbæk, Ulbæk
 Søminegraven
 Sømmer Skov, Sömer Skov
@@ -2822,7 +2822,7 @@ Søndervig beach
 Søndre Arbejdshavn
 Søndre Feldborg Plantage
 Søndre Flint
-Søndre Frihavn, Freeport of Copenhagen
+Søndre Frihavn, Freeport of Copenhagen, Københavns Frihavn
 Søndre Løb
 Søndre Refshalebassin
 Søndre Rønner
@@ -2901,7 +2901,7 @@ Tinning Skov
 Tipperne, Tipperne Peninsula
 Tissø
 Tisvilde Hegn
-Tivoli Friheden
+Tivoli Friheden, Tivoli
 Tivoli Gardens
 Tjele Langsø
 Tjørneholm
@@ -3112,7 +3112,7 @@ Velling Skov
 Vemmetofte Strand
 Vemmingbund
 Vemmingbund Strand
-Vendsyssel, Vendsyssel-Thy
+Vendsyssel, Nørrejyske Ø, Vendsyssel-Thy
 Venegrund
 Venegrunde
 Vengeance Grund
@@ -3149,7 +3149,7 @@ Vestpuller
 Vestre Kirkegård, Cemetery
 Viborg Hedeplantage
 Viborg Kommune, Viborg
-Vidå, Vidaa, Wied Au
+Vidå, Vidaa, Wied Au, Wiedau
 Vigelsø, Viggelsö
 Vigsø
 Vigsø Bugt, Vigsö Bay

@@ -482,7 +482,7 @@ Baken se Kop
 Baken se Loop
 Baken se Plaat
 Baken se Rant
-Bakenberg, Kruisfontein's Berg, Steenkampspan
+Bakenberg, Kruisfontein's Berg, Kruisfonteinberg, Steenkampspan
 Bakenkop, Aries, Baardscheerders Bosch, Baardskeerdersbos, Die Bakenkop, Einab, Lugskipkop, Zandberg
 Bakenkoppie
 Bakenkoppies
@@ -2173,7 +2173,7 @@ Cape Agulhas, Agulhas, Kaap Agulhas
 Cape Barracouta, Barracouta, Kaap Barracouta
 Cape Castle, Kaap Castle
 Cape Colony
-Cape Columbine, Columbine
+Cape Columbine, Columbine, Kaap Columbine
 Cape Crozier
 Cape Davis
 Cape Flats, Kaapse Vlakte
@@ -2349,9 +2349,9 @@ Cishani
 Citadel Kop
 Citaskop
 City Ridge
-City of Cape Town
+City of Cape Town, Stad Kaapstad Metropolitaanse Munisipaliteit
 City of Johannesburg
-City of Johannesburg Metropolitan Municipality
+City of Johannesburg Metropolitan Municipality, Stad Johannesburg Metropolitaanse Munisipaliteit
 City of Matlosana
 City of Tshwane
 City of Tshwane Metropolitan Municipality
@@ -3648,7 +3648,7 @@ East Reef, East Rock
 East Shoal
 Eastern Beach
 Eastern Buttress, East Buttress
-Eastern Cape, Province of Eastern Cape
+Eastern Cape, IPhondo laseMpuma-Koloni, Kapa Botjhabela, Kapa Vhubvaḓuvha, Oos-Kaap, Province of Eastern Cape
 Eastern Gully
 Eastern Head
 Eastern Shores
@@ -4188,7 +4188,7 @@ Freddie se Klip
 Frederick se Maanhaar
 Frederik se Baai
 Frederik se Straat
-Free State, OFS, Orange Free State, Province of the Orange Free State
+Free State, OFS, Orange Free State, Province of the Orange Free State, Vrystaat
 Free State Koppies
 Freekbosrivier, Bothas Rivier, Freek Bothasrivier
 Fresh Water Poort Stream
@@ -4423,7 +4423,7 @@ Gatsberg
 Gatskraal se Rivier, Gatskraalrivier
 Gatsrant, Gatsrand
 Gatsrivier, Gat River, Gats River
-Gauteng, PWV, Province of Pretoria-Witwatersrand-Vereeniging
+Gauteng, IGauteng, IPhondo yaRhawuti, Kgauteng, PWV, Province of Pretoria-Witwatersrand-Vereeniging
 Gawie se Kloof
 Gaxa
 Gcotoli
@@ -9219,7 +9219,7 @@ KwaZangwa
 KwaZibungele
 KwaZita, Wasita Hill
 KwaZulu Hot Springs
-KwaZulu-Natal, Natal, Province of KwaZulu-Natal, Province of Natal
+KwaZulu-Natal, HaZulu-Natal, Hazolo-Natala, KwaZulu-Natala, KwaZulu-Natali, Natal, Province of KwaZulu-Natal, Province of Natal, iKwaZulu-Natal
 KwaZulu-Natal Midlands, Midlands KwaZulu-Natal, Natal Midlands
 KwaZululiyaduma
 KwaZundi
@@ -9779,7 +9779,7 @@ Limietberge, Limietbergen
 Limietkop
 Limietskop
 Limit Hill
-Limpopo, Limpopo Province, Northern Province, Northern Transvaal, Province of Northern Transvaal
+Limpopo, IPhondo yaLimpopo, Kgaolo ya Limpopo, Limpopo Province, Northern Province, Northern Transvaal, Province of Northern Transvaal
 Limpopo Highlands
 Limpopo River, Crocodile River, Innampura River, Lebombo, Limpoporivier, Livombo, Rivombo
 Linanaspruit, Linana
@@ -10387,7 +10387,7 @@ Magabaneng
 Magabeni, Inkabeni
 Magagamatala, Mapela Krantz, Mapelakrans
 Magala, Magala Hills
-Magalakwena, Magalakwin River, Mogalakwenarivier
+Magalakwena, Magalakwenarivier, Magalakwin River, Mogalakwenarivier
 Magalakwin
 Magale, Magalieskop
 Magaliesberg, Magaliesberge
@@ -12875,7 +12875,7 @@ Mpukunyoni, Mpukinyoni Flats, Mpukunyoni Flats, Npukunyoni Flats
 Mpule
 Mpuluse
 Mpuma
-Mpumalanga, Province of Eastern Transvaal
+Mpumalanga, IPhondo yaMpumalanga, Province of Eastern Transvaal
 Mpumaze
 Mpumazi, Mpuazi
 Mpumulwana
@@ -14194,7 +14194,7 @@ North Peak, Diamond Shape
 North Point
 North Sand Bluff
 North West, Province of North West
-Northern Cape, Province of Northern Cape
+Northern Cape, Noord-Kaap, Province of Northern Cape
 Northern Karroo, High Veld, High Veldt, North Karroo, Northern Karoo, Upper Karroo
 Northern Suburbs, Cape Town Northern Suburbs
 Northumberland Point, Northumberlandpunt
@@ -15859,11 +15859,11 @@ Prince Albert
 Prince Alfred's Gate
 Prince Alfred's Pass, Prince Alberts Pass
 Prince Edward Island
-Prince Edward Islands
+Prince Edward Islands, Prins Eduard-eilande
 Prince George's Reservoir
 Prince of Wales Hill
 Princess Vlei, Lang Vlei, Langevlei
-Pringle Bay
+Pringle Bay, Pringlebaai
 Pringle Peak
 Pringle's Kop
 Prins Anna
@@ -18304,7 +18304,7 @@ Soutfontein se Rivier
 Soutfonteinberg, Zoutfonteinberg
 Soutgat
 Soutgat se Rivier
-South Africa, Afurika Tshipembe, Republic of South Africa, Riphabuliki ya Afurika Tshipembe, Union of South Africa, iRiphabliki ye Sewula Afrika, iSewula Afrika
+South Africa, Aferika Borwa, Aforika Borwa, Afrika Borwa, Afrika Dzonga, Afurika Tshipembe, IRiphabliki yaseNingizimu Afrika, Rephaboliki ya Aforika Borwa, Rephaboliki ya Afrika Borwa, Republic of South Africa, Republiek van Suid-Afrika, Riphabliki ra Afrika Dzonga, Riphabuliki ya Afurika Tshipembe, Suid-Afrika, UMzantsi Afrika, Unie van Suid-Afrika, Union of South Africa, eMzantsi Afrika, iNingizimu Afrika, iRiphabhulikhi ye Ningizimu Afrika, iRiphabhuliki yase Ningizimu Afrika, iRiphabliki ye Sewula Afrika, iRiphabliki yom Zantsi Afrika, iSewula Afrika
 South African Lombard Natuurreserwe
 South Beach
 South Cape
@@ -18836,7 +18836,7 @@ Surprise Ridge
 Surrender Hill
 Susannaskop
 Suswe
-Suther Peak
+Suther Peak, Karbonkelberg
 Sutherland Range, Sutherland
 Suthu
 Suuranysberge, Zuuranys Mountains
@@ -21197,7 +21197,7 @@ West Rock
 West Wits
 Westerberg
 Western Buttress, West Butt
-Western Cape, Province of the Western Cape
+Western Cape, Ntshona Koloni, Province of the Western Cape, Wes-Kaap
 Western Head, West Head
 Westoe Dam
 Westonaria
@@ -22176,7 +22176,7 @@ uNtabebomvu, Bomvu Kop, Bomvu Ridge, Ntababomvu, Tabambomvu, iNtababomvu
 uOayiqayi
 uPhaqa
 uThongathi, Tongaat, Tongaat River, Tongati, Tongati River
-uThukela, Tugela, Tugela River
+uThukela, Tugela, Tugela River, Tugelarivier
 uThukela District Municipality
 uThungulu
 uThungulu District Municipality

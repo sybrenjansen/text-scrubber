@@ -50,7 +50,7 @@ Agios Theodoros (Tillirias)
 Agios Vakeros, Ayios Avajeros
 Agiotika, Ayiatika
 Agiovounos, Ayiovounos
-Agiá, Agyia, Aya, Ayia, Ayiá Potamos, River Ayia
+Agiá, Agyia, Aya, Ayia, Ayiá Potamos, Büyük Dere, River Ayia
 Agkantheri, Angatheri
 Aglantziá
 Aglassyka, Ailasyka
@@ -61,7 +61,7 @@ Agrioelia
 Agriokalami
 Agrioteracha
 Agrokipiá
-Agrídia, Agridhia, Ağridya, Serdar Tepesi
+Agrídia, Agridhia, Alkaya Tepesi, Ağridya, Serdar Tepesi
 Agrós
 Agía Eiríni, Ayia Irini Forest
 Agía Eléni, Ayia Eleni
@@ -100,7 +100,7 @@ Akrotírio Gkréko, Akrotírion Gkréko, Cape Gkreko, Cape Greco, Greko Burnu, P
 Akrotírio Kormakítis, Akrotírion Kormakítis, Cape Kormakiti, Cape Kormakitis, Crommyon Promontory, Kormacit Burnu, Koruçam Burnu, Krommyon
 Akrotírio Kíti, Akrotírion Kítion, Cape Kiti, Cape Kition, Dades, Kiti Burnu, Çite Burnu
 Akrotírio Plakotí, Akrotírion Plakotí, Cape Plakoti, Plakoti Burnu, Yassı Burnu
-Akrotírio Áspro, Akrotírion Áspron, Aspro Burnu, Beyaz Burnu, Cape Aspro, Cape Aspron
+Akrotírio Áspro, Akrotírion Áspron, Aspro Burnu, Beyaz Burnu, Beyaz Burun, Cape Aspro, Cape Aspron
 Akroúnta, Ακρούντα
 Akrádes, Akradhes
 Akáki, Akaca, Akácha Potamos, Potamos tou Akakiou, River Akacha
@@ -108,7 +108,7 @@ Akámas, Akama Ormanı, Akamas Forest, Akamas Ormanı, Akamas Peninsula
 Alakadın Koruma Alanı
 Alakatia, Alakatin
 Alakoti
-Alakáti, Alakatin
+Alakáti, Alakadın, Alakatin
 Alaminós
 Alasso
 Alata
@@ -157,7 +157,7 @@ Amolades, Amolaes
 Ampelaki, Ambelajin
 Ampeli, Ambeli, Ambell
 Ampelikos, Ambelikos
-Ampelikoú, Αμπελικού
+Ampelikoú, Gemikonağı Göleti, Lefke Göleti, Αμπελικού
 Ampeloudi, Ambeloudhi
 Ampélia, Ambelia Forest
 Amíantos
@@ -222,7 +222,7 @@ Apsioú, Αψιού
 Aptoullína, Abdoulinas Junction, Απτουλλίνα
 Apóstolos Andréas, Apostolos Andreas Forest
 Ara
-Araba Dere, Araba Deresi
+Araba Dere, Araba Deresi, Soğuk Dere
 Aradíppou, Αραδίππου
 Arakapás
 Araos
@@ -317,7 +317,7 @@ Argaki ton Vrychion, Argaki ton Vryshon
 Argaki tou Agiou Georgiou, Argaki tou Ayiou Yeoryiou
 Argaki tou Agiou Ioanni, Argaki tou Ayiou Ioanni
 Argaki tou Agiou Iona, Argaki tou Ayiou Iona
-Argaki tou Agiou Konona, Argaki tou Ayiou Kononos
+Argaki tou Agiou Konona, Argaki tou Ayiou Kononos, Aykonos Deresi
 Argaki tou Apitikou, Apitikos
 Argaki tou Appopoullou, Argaki tou Apopoulou
 Argaki tou Asprokremmou
@@ -395,7 +395,7 @@ Argaki tou Theodoulou, Argaki tou Theodhoulou
 Argaki tou Vasilikou
 Argaki tou Vatou
 Argaki tou Venetou
-Argaki tou Vernan Bagche
+Argaki tou Vernan Bagche, Argaci Veran Bahça
 Argaki tou Vlou
 Argaki tou Xerokolympous, Argaki tou Xerokolymbou
 Argaki tous Athanasides, Argaki tous Athanasidhes
@@ -499,7 +499,7 @@ Atopetra, Akopetra
 Atrátsa
 Atsouparkakon
 Atsoupopetra
-Atsás, Atsa, River Atsas
+Atsás, Atsa, River Atsas, Taşlı Dere
 Avdelleró
 Avdímou, Αυδήμου
 Avgolia ton Leivadion, Afkolia ton Livadhion
@@ -514,7 +514,7 @@ Axylofos, Axylophos
 Axylon, Hill Axylon
 Axýlou, Αξύλου
 Ayia Marina Reservoir, Τεχνητή Λίμνη Αγίας Μαρίνας
-Azghanli Dere
+Azghanli Dere, Azğanlı Dere
 Ağılı Dere
 Baharoglu, Bakhar Oglou
 Bahçe Pınarı
@@ -536,7 +536,7 @@ Bimbashi Chiftlik
 Black Rock
 Boghazi
 Bogázi, Μπογάζι
-Bostan Deresi
+Bostan Deresi, Bostundere
 Bostanlik
 Bostundere Göleti
 Bousoúra, Boosura, Μπουσούρα
@@ -557,7 +557,7 @@ Chakili Ova, Çakıllı Ova
 Chalantra, Khalandra
 Chalaras, Khalaras
 Chalasmenos, Khalasmenos
-Chalasta, Khalasta, Khalasta Forest
+Chalasta, Khalasta, Khalasta Forest, Çamlıbel Tepesi
 Chalestóri, Khalestori
 Chalimes, Khalimes
 Chalkopotamos, Khalkopotamos
@@ -598,7 +598,7 @@ Cheziades, Shezias
 Chiftlik
 Chiftlikoudhkia
 Chiliomodousa, Khiliomodhousa
-Chingen Baghchesi
+Chingen Baghchesi, Çingen Bağçası
 Chinnieri, Shinieri
 Chinnovounos, Shinovouno
 Chinoas, Sinoas, Şinnoya
@@ -621,7 +621,7 @@ Chorafia tou Theli, Khoraphia tou Theli
 Chores, Khores
 Chortovounaron, Khortovounaron
 Chortovounos, Khortovouno
-Chourouk Tarla
+Chourouk Tarla, Çukur Tarla
 Choúlou, Χούλου
 Christos, Khristos
 Chrysochoú, Aspropotamas, Hirsofu, Khrysokhou, Khrysokhou River, Stavros tis Psokas, Stavros tis Psokas. River, Χρυσοχού
@@ -629,12 +629,12 @@ Chrysomilia, Khrysomilia
 Chrysovounos, Khrysovounos
 Churuk
 Cháles, Hales, Khales
-Chápotami
+Chápotami, Khapotami Deresi
 Chárangas, Haranga, Karankas Deresi, Χάραγγας
 Chárkeia, Harça, Kharcha, Kharcha Forest, Kharja
 Chérissa, Sherissa Chiftlik
 Chóli
-Ciuli Dere, Joovli Dere
+Ciuli Dere, Joovli Dere, Yarlı Dere
 Conya Deresi, Jonies
 Cyprus, Alashiya, Asy, Chypre, Cipro, Cypern, Cyprus (Roman province), Cyprus Island, Kýpros
 Dades Point
@@ -673,7 +673,7 @@ Diplopotamon, Dhiplopotamon
 Dipotamos Reservoir, Τεχνητή Λίμνη Διπόταμου
 Dipsali, Dhipsali Forest
 Diórios, Dhiorios Forest
-Dokiountoulour
+Dokiountoulour, Tokundulık
 Dolunay Göleti
 Domes, Dhomes
 Dorá
@@ -737,7 +737,7 @@ Ellinochori, Ellinokhori
 Emince, Eminje
 Ennia Skales, Enia Skales
 Enteálo, Endealo, Entealos
-Eparchía Lárnakas, Larnaca District, Larnaka District
+Eparchía Lárnakas, Larnaca District, Larnaka District, Larnaka İlçesi
 Epichó
 Episkopeió
 Episkopí
@@ -761,7 +761,7 @@ Exogi, Exoyi
 Exovounia
 Eğridere Göleti
 Fakiola, Phajiola
-Famagusta District, Ammochostos District, Eparchía Ammochóstou, Famagusta, Επαρχία Αμμοχώστου
+Famagusta District, Ammochostos District, Eparchía Ammochóstou, Famagusta, Gazi Magosa İlçesi, Gazimağusa, Magosa İlçesi, Επαρχία Αμμοχώστου
 Fanós, Fano Tepesi, Phano, Phano Hill, Phanos
 Faraklos, Faraklo, Pharaklos
 Farangas, Pharangas
@@ -865,7 +865,7 @@ Gefyra, Argaki tis Yephyras
 Gefýria, Yephyrka
 Gerakareia, Yerakarkon
 Gerakaris, Yerakari
-Geraki, Yeraki
+Geraki, Karlı Tepe, Yeraki
 Gerakiés, Yerajes, Yerakes
 Gerakopetra, Yerakopetra
 Gerakómoutti, Gerakommoutti, Yerakomoutti, Yerakomutti, Γερακόμουττη
@@ -888,9 +888,9 @@ Geráni
 Geránia, Yerania
 Gerása
 Gerólakkos
-Giailás, Yaila, Yailas, Yayla
+Giailás, Yaila, Yailas, Yayla, Yayla Tepe
 Gialiá
-Gialiás, Ialias, River Yalias, Yaliás Potamós, Yalya, Yalya Deresi, Yialias, Yiallas
+Gialiás, Chakilli Dere, Ialias, River Yalias, Yaliás Potamós, Yalya, Yalya Deresi, Yialias, Yiallas, Çakıllı Dere
 Gialliades, Yialiadhes
 Giannitsaros, Yiannitsaros
 Giannou, Yiannou
@@ -918,7 +918,7 @@ Glyky Mersini, Glyky Myrsini
 Glykyneron
 Gomaras
 Gomaristra
-Gonies, Gonies Vouna
+Gonies, Gonies Vouna, Yeniçeri Tepesi
 Goudí, Γουδί
 Gouppa ton Skalion
 Gouppa tou Sampati, Argaki tou Gouppi
@@ -967,7 +967,7 @@ Jirkavli Mevkisi, Cırkavlı Mevkisi
 Kachiones, Kashones
 Kafizis, Kaphiris, Kâfir Deresi
 Kafkalia, Kafkalla Forest
-Kafkalla tou Pyrogiou, Kafkalla tou Pyroiou
+Kafkalla tou Pyrogiou, Kafkalla tou Pyroiou, Tinaz Dağı
 Kafkalli tis Agias, Kafkallin tis Ayias
 Kafkallia, Koukkoullas
 Kafkallia ton Fterion, Kafkallophterka
@@ -1141,7 +1141,7 @@ Kapsaleri
 Kapsalerómoutti, Kapsalero Moutti, Καψαλερόμουττη
 Kapsales
 Kapsali
-Kapsalia, Kapsalia Forest
+Kapsalia, Kapsalia Forest, Yanıklı Tepe
 Kapsalomoutti
 Kapsalon
 Kapsalos
@@ -1181,7 +1181,7 @@ Karpanalis
 Karpasas
 Karpasi, Karpas Forest
 Karpasitis
-Karpasía, Carpas Mountains, Carpas Peninsula, Halbinsel Karpas, Karpas, Karpas Peninsula, Karpasiya, Karpass Mountains, Karpass Peninsula, Karpaz Yarımadası, Karpaşa, Kırpaşa, Peninsula of Karpasia
+Karpasía, Carpas Mountains, Carpas Peninsula, Halbinsel Karpas, Karpas, Karpas Peninsula, Karpasiya, Karpass Mountains, Karpass Peninsula, Karpaz, Karpaz Yarımadası, Karpaşa, Kırpaşa, Peninsula of Karpasia
 Karpaz Koruma Alanı
 Karpáseia, Harita Tepesi, Karpasha Forest, Karpaşa
 Karseoullia, Karseoulia
@@ -1235,7 +1235,7 @@ Kato Vachines, Kato Vakhines
 Kato Vounia
 Katokopiá
 Katoúris, Katouri Potamós, River Katouris, Κατούρης
-Katsagkása, Kakasangas
+Katsagkása, Kakasangas, Katsangasa Tepesi
 Katsara
 Katsari
 Katsarkes
@@ -1262,7 +1262,7 @@ Kavakia, Kavaja
 Kavallaria, Kavallarka
 Kavallarides, Kavallaridhes
 Kavallaris
-Kavallaropetra
+Kavallaropetra, Uzunorman Tepesi
 Kavallis, Kavallis Forest
 Kavalloi, Kavalli
 Kavallos
@@ -1292,7 +1292,7 @@ Kentinari, Kendinari Vouno
 Kephalovryso, Vlalovrys
 Keradhidi, Ceratiyi, Cerradin, Keratidi, Máis
 Keratí, Cerati, Keratidhi
-Kergo, Jergo
+Kergo, Jergo, Kesikkaya Burnu
 Keryneiostrata, Keriniostrata
 Kerýneia, Kyrenia Road Forest
 Keupek Dere, Köpek Dere
@@ -1354,7 +1354,7 @@ Klouva
 Klouves
 Klírou, Κλήρου
 Knasa
-Knódara, Knodhara
+Knódara, Knodhara, Üzüm Tepesi
 Koca Dere
 Koca Seki, Koja Seki
 Koca Tepesi
@@ -1378,8 +1378,8 @@ Koilíneia
 Koimistra, Kimistra
 Koimistra tou Gerolemou, Kimistra tou Yerolemou
 Koimistron, Kimistron
-Koja Dere
-Koja Tarlasi
+Koja Dere, Çevlik Deresi
+Koja Tarlasi, Koca Tarlası
 Kokkatikka, Kokkatika
 Kokkina Kaminia
 Kokkinadi, Kokkinadhia
@@ -1399,7 +1399,7 @@ Kokkinokampos, Kato Kochinokambos, Kochinokambos, Kokkinokambos
 Kokkinokolympa, Kokkinokolymbi
 Kokkinokólympos, Kokkinokolymbos
 Kokkinolimni, Kochinolimni
-Kokkinolitharos, Kokkmoliarouvouno
+Kokkinolitharos, Kokkmoliarouvouno, Zilan Dağları
 Kokkinoloukkos
 Kokkinoloura
 Kokkinomoutti
@@ -1433,7 +1433,7 @@ Kolympia, Kolymbia
 Kolympos, Kolymbos, Kolymbos Forest
 Kolympos tou Kiolakki, Kolymbos tou Cholaki
 Kolóssi
-Kolótas, Kolota
+Kolótas, Kolota, Xylothrykat Tepesi
 Komando Tepesi
 Komitis
 Kommopetra, Komopetras, Kompetra Forest
@@ -1467,7 +1467,7 @@ Koprista, Koprista Forest
 Kopros
 Kopsári, Kopsiaris
 Kor Dere, Kior Dere
-Korakas, Koraka, Koraki
+Korakas, Exo Tepesi, Koraka, Koraki
 Korakia, Koracha
 Korakies, Korajes
 Korakistres, Korajistres
@@ -1530,8 +1530,8 @@ Koupanos
 Koupparis
 Kouppi
 Kouppia, Oupia
-Kour Dere, Kur Dere
-Kourdali, Kourdhai
+Kour Dere, Kur Dere, Çukur Deresi
+Kourdali, Kourdhai, Kurtali Deresi
 Kourdélles, Kourdhelles, Κουρδέλλες
 Kourellos
 Kouris
@@ -1630,7 +1630,7 @@ Kyparissovounos
 Kyperoúnta, Κυπερούντα
 Kyprovása, Kyprovasa Chiftlik
 Kyra Eleni, Jira Eleni, Jyra Eleni
-Kyrenia District, Eparchía Kerýneias, Keryneia District, Kyrenia
+Kyrenia District, Eparchía Kerýneias, Girne İlçesi, Keryneia District, Kyrenia
 Kyriako Tepesi
 Kyrillia, Kyrilia
 Kyrá
@@ -1638,7 +1638,7 @@ Kythréa
 Kámpos, Kambos
 Kára tou Agíou Georgíou, Kara tou Ayiou Yeoryiou, Κάρα του Αγίου Γεωργίου
 Kármi, Karmi Forest
-Kástros, Argaki tou Kastrou, Kale Deresi, Kastru Deresi, River Kastrou
+Kástros, Argaki tou Kastrou, Kale Deresi, Kastru Deresi, River Kastrou, Yıldız Tepesi
 Káthikas
 Káto Akourdáleia, Κάτω Ακουρδάλεια
 Káto Aródes
@@ -1769,7 +1769,7 @@ Laóna
 Lefkara Reservoir, Τεχνητή Λίμνη Λευκάρων
 Lefkaromoutti
 Lefki, Lephji, Levji
-Lefkosía, Λευκωσία
+Lefkosía, Lefkoşa, Λευκωσία
 Lefkovounos
 Lefkónoiko, Λευκόνοικο
 Lefta, Lephta
@@ -1795,7 +1795,7 @@ Lidramies, Lidhramies
 Lillis
 Limanard Koyu
 Limassol
-Limassol District, Eparchía Lemesoú, Lemesos District, Limasol District, Επαρχία Λεμεσού
+Limassol District, Eparchía Lemesoú, Lemesos District, Limasol District, Limasol İlçesi, Επαρχία Λεμεσού
 Limistiko
 Limnarka
 Limni
@@ -1821,7 +1821,7 @@ Litharos
 Lithóvouno, Λιθόβουνο
 Livadia (Larnakas)
 Liverá
-Livádi, Livadhi, Livadu Deresi, Livayi, River Livadhi
+Livádi, Livadhi, Livadu Deresi, Livayi, Lıdyahı Deresi, River Livadhi
 Livádia
 Lizáta, Chiftlikin ton Lizaton, Kkifliki ton Lizaton
 Liástres, Lyastres
@@ -1860,7 +1860,7 @@ Lárnakas Lapíthou, Λάρνακας Λαπήθου
 Lása
 Léfka, Λεύκα
 Lémpa
-Lémpos, Işık Burnu, Lembos
+Lémpos, Işık Burnu, Lembos, Şahin Burnu
 Límnes
 Lófou, Λόφου
 Lýmpia
@@ -1966,9 +1966,9 @@ Mathiátis, Matyat
 Matsagkos, Majango, Maçango
 Matsikoridia, Matsikorithies
 Matsoukia
-Mavri Mazeri
+Mavri Mazeri, Keçiboynuzu Tepesi
 Mavri Palloura
-Mavri Schinia, Mavri Shinia, Mavri Sinia, Mavri Şinya
+Mavri Schinia, Mavri Shinia, Mavri Sinia, Mavri Şinya, Mavrı Shınla Tepesi
 Mavri Skala
 Mavrides, Mavridhes
 Mavrikides, Mavrikies
@@ -2006,7 +2006,7 @@ Mazi
 Mazokampi, Mazokambi
 Mazokampos, Mazokambos, Mezokambo, Ormaniçi
 Mazotós
-Mazoulia
+Mazoulia, Yanık Tepesi
 Mazovounaros, Mazovouno
 Mazovounos, Mazovouno
 Mazéra
@@ -2075,7 +2075,7 @@ Mesani
 Mesanos, Mesanos Forest
 Mesaoria, Mesarya, Mesarya Ovası, Messaoria
 Mesarkes
-Mesaron, Messaron
+Mesaron, Gürpınar, Messaron
 Mesogia, Mesoyia, Mezoyi
 Mesolaona
 Mesovounia
@@ -2097,7 +2097,7 @@ Miliá
 Minas
 Mini-Road
 Mirillis
-Mirmikófou, Mirmikof, Mirmikoph, Myrmikoph, Μιρμικόφου
+Mirmikófou, Mirmikof, Mirmikoph, Murmikol Deresi, Myrmikoph, Μιρμικόφου
 Misiskopos
 Mitsargaki, Mitsarkajin
 Mitseró
@@ -2105,7 +2105,7 @@ Mitsi, Miji
 Mnimata tous Sarakinous
 Monagroúlli, Μοναγρούλλι
 Monargá
-Monastiraki
+Monastiraki, Uçtarla Deresi
 Moni, Moni Forest
 Moni tou Pellou
 Moniátis
@@ -2161,7 +2161,7 @@ Moutti tis Ktistis
 Moutti tis Malis
 Moutti tis Mosfileris, Moutti tis Mosphileris
 Moutti tis Mosfilias, Moutti tis Mosphilias
-Moutti tis Pallouras, Pallura Burnu
+Moutti tis Pallouras, Khandrou Tepesi, Pallura Burnu
 Moutti tis Papadias, Moutti tis Papadhias
 Moutti tis Sellias, Moutti Seleas
 Moutti tis Skloinikias, Moutti tis Sklinijas
@@ -2210,7 +2210,7 @@ Moutti tou Kakotri
 Moutti tou Kaminoudiou, Moutti tou Kaminoudhiou
 Moutti tou Karavotopou
 Moutti tou Karoudiou, Moutti tou Karoudhiou
-Moutti tou Karydakiou, Karyiac Burnu, Moutti tou Karyakiou
+Moutti tou Karydakiou, Almyroudhıou Tepesi, Karyiac Burnu, Moutti tou Karyakiou
 Moutti tou Katanappi
 Moutti tou Katartiou
 Moutti tou Klimadiou, Moutti tou Klimakiou
@@ -2318,11 +2318,11 @@ Nannatides, Nannatidhes
 Natá
 Nemourka
 Neron tis Antrouklias, Neron tis Androuklias
-Neráides, Neradhes, Neraidhes, Nerayides
+Neráides, Neradhes, Neraidhes, Nerayides, Yalı
 Nevrokeris, Nevrojeries
 Nichchia, Nisha
 Nichotoudes, Noukkoutoues
-Nicosia District, Eparchía Lefkosías, Lefkosia District, Nicosia, Επαρχία Λευκωσίας, Λευκωσία
+Nicosia District, Eparchía Lefkosías, Lefkosia District, Lefkoşa İlçesi, Nicosia, Επαρχία Λευκωσίας, Λευκωσία
 Nicosia Municipality, Δήμος Λευκωσίας
 Nikitári
 Nikolides, Nikolies
@@ -2338,7 +2338,7 @@ Nissi Beach
 Nisí Gerónissos, Geronisos Island, Geronissos, Nisís Gerónisos, Saint Yeorgiou Island, Yeroniso Adası, Yeronisos, Yeronisos Island
 Nisía Kleídes, Kilit Adalari, Kleidhes Islands, Klides Adaları, Klides Islands, Klidhes Islands, Nísoi Kleídes, Zafer Adaları
 Nisída Agíou Georgíou, Agios Georgios Island, Ayios Yeoryios Island, Ayyorgi Adası, Kacascaliou Island, Kakoiskalyu, Kakoscaliou Island, Kakoscoliou Island, Kakoskaliou Island, Kakoskaliou Islet, Nisi tou Agiou Georgiou, Nisí Kakoskaliou, Nisís Ágios Geórgios, Νησίδα Αγίου Γεωργίου
-Nisída Chotí, Khoti Island, Khóti Nisí, Nisi Choti
+Nisída Chotí, Kaplumbağa Kayası, Khoti Island, Khóti Nisí, Nisi Choti
 Nisída Glykiótissa, Glycotissa Adası, Glykiotissa Island, Glykyotissa, Glykyotissa Island, Glykyotissa Nisa, Nisi Glykiotissa, Nisís Glykiótissa, Snake Island, Snake Islet
 Nisída Gláros, Glaro Island, Glaros
 Nisída Kalamoúlia, Kalamoulia Island, Nisi Kalamoulia, Νησίδα Καλαμούλια
@@ -2348,20 +2348,20 @@ Nisída Kióni, Kioni, Kionos Island
 Nisída Kormakítis, Kormakiti Island, Nisi Kormakiti
 Nisída Kíla, Cila Adasi, Cilâlı Ada, Jila Island, Kila Island, Nisi Kila, Nisís Kíla
 Nisída Kóppos, Koppo Adası, Koppo Island, Koppo Islet, Koppos, Koppos Island, Nisi tis Sklinijas, Nísos Kóppos
-Nisída Lefkónisos, Lefkoniso, Lefkonisos, Νησίδα Λευκόνησος
+Nisída Lefkónisos, Issız Ada, Lefkoniso, Lefkonisos, Νησίδα Λευκόνησος
 Nisída Mazáki, Mazaki Adası, Mazaki Island, Nisi Mazaki, Nisís Mazáki
 Nisída Skáles, Scales Island, Skales
 Nisída tis Chamilís, Chamili, Khamalis Island, Khamili Island, Khamilis Island
-Nisídes Kordýlia, Kordhylia Islands, Kordilek Adaları, Kordilya Adası, Kordylia Islands, Kordylia Nisha, Nisia Kordylia, Nísoi Kordýlia
-Nisídes Skaloúdia, Skaloudhia, Skaloudia, Νησίδες Σκαλούδια
+Nisídes Kordýlia, Karadilek Adaları, Kordhylia Islands, Kordilek Adaları, Kordilya Adası, Kordylia Islands, Kordylia Nisha, Nisia Kordylia, Nísoi Kordýlia
+Nisídes Skaloúdia, Liman Adası, Skaloudhia, Skaloudia, Νησίδες Σκαλούδια
 Nitóvikla, Nektovika Forest
 North Shoulder, Norf Solter
-Northern Cyprus, Turkish Republic of Northern Cyprus
+Northern Cyprus, Kuzey Kıbrıs, Turkish Republic of Northern Cyprus
 Notades, Notadhes
 Ntireklimára, Direkli Mağara, Direklimara
 Náftes, Ναύτες
 Náva
-Néa Aspróvikla, New Asprovikla
+Néa Aspróvikla, Mahya Tepesi, New Asprovikla
 Néa Dímmata
 Néo Chorió, Neokhorio Chiftlik
 Néta
@@ -2393,7 +2393,7 @@ Ortákioi
 Orá
 Osman Deresi, Osman Dere
 Oumaes
-Ouzoum Laxia
+Ouzoum Laxia, Uzun Lakşa
 Ovgós, Der Deresi, Ovgo, Ovgós Potamós, River Ovgos
 Oxo Island, Büyük Ada, Okso Adası, Oxo Nisi
 Oxys, Oxies
@@ -2443,7 +2443,7 @@ Pallouros
 Pallourotopia
 Pallouroudia, Pallouroudhia
 Pallourókampos, Pallourokambos, Παλλουρόκαμπος
-Palloúra, Balurya Burnu, Palioura Point, Palloura Forest, Παλλούρα
+Palloúra, Balurya Burnu, Koyuntaşı Burnu, Palioura Point, Palloura Forest, Παλλούρα
 Palódeia
 Pamboulos
 Pambuli Adası
@@ -2483,17 +2483,17 @@ Paoura, Paura
 Papa Antonis
 Papa Georgis, Papayeoryi
 Papa Savas, Papasavvas
-Papa Vasilis, Papavasilis
+Papa Vasilis, Körmacit Deresi, Papavasilis
 Papalias, Papalia
 Papaloukas
 Papavounos, Papavuno
 Paphos
-Paphos District, Distrikt Papho, Eparchía Páfou, Pafos District, Επαρχία Πάφου
+Paphos District, Baf İlçesi, Distrikt Papho, Eparchía Páfou, Pafos District, Επαρχία Πάφου
 Paphos Karting Centre
 Paphos Point
 Paphos Waterpark
 Papo Island
-Papoutsa, Argaki tis Papoutsas, Papoutsa Tepesi, Paputsa
+Papoutsa, Argaki tis Papoutsas, Papoutsa Tepesi, Paputsa, Paputsa Tepesi
 Pappara
 Paralímni, Paralimni Gölü, Paralimni Lake
 Paramáli
@@ -2501,9 +2501,9 @@ Paramýtha
 Parekklisiá
 Parmaklı Burun
 Parteni, Partheni
-Pash Tarla
+Pash Tarla, Baş Tarla
 Pasha Belenk, Paşa Belenk
-Pasha Chiftlik
+Pasha Chiftlik, Paşa Çiftlik
 Pastardos, Pastarto
 Patella, Patelia
 Patelli, Pateli
@@ -2511,7 +2511,7 @@ Patria
 Patríki
 Pavlouris
 Pediaíos, Kanlı Dere, Pedhieos, Pedieo, Pedieos, Pediæs Potamós, Pedya, Pidya, Pidyaz Dere, River Pediœos
-Pedieos River, Pediaeus, Pithkias, Πεδιαίος/Πηθκιάς
+Pedieos River, Kanlı Dere, Pediaeus, Pithkias, Πεδιαίος/Πηθκιάς
 Pedoulás, Πεδουλάς
 Pefkarin Imeron
 Pefkeri
@@ -2538,7 +2538,7 @@ Pentáschoinos, Bendaşşino, Pendas Kino Potamos, Pendaskhinos, Pendaskhinos De
 Pera Mantra, Argaki tis Pera Mandras
 Pera Oros, Peraoros
 Perdiki, Pertiki Forest
-Perdikia, Perdhika, Perohikia
+Perdikia, Dana Tepesi, Perdhika, Perohikia
 Perikefalos, Perikephalos Forest
 Perilofos, Perilophos
 Peristeri
@@ -2576,7 +2576,7 @@ Petra tou Koraka
 Petra tou Rontzou, Petra tou Rozou
 Petrades, Petradhes
 Petralona
-Petratis
+Petratis, Petratıs Deresi
 Petreri
 Petres
 Petres tou Leka
@@ -2610,7 +2610,7 @@ Pikrasidi, Pikrasidhi
 Pikrathasoudia, Pikrathasoudhia
 Pikrokampos, Pikrokambos
 Pikron Neron
-Pikros
+Pikros, Sivrileriçi Deresi
 Pikrókremmos
 Pilakas, Pilikas, Pillakas
 Pilerí
@@ -2711,7 +2711,7 @@ Potamos tou Giousoufi, Argaki tou Yiousouphi
 Potamos tou Kalogyrou, Kaloyiros
 Potamos tou Kremmou
 Potamos tou Limnati, Limnat
-Potamos tou Pavloudiou, Pavleti
+Potamos tou Pavloudiou, Göz Deresi, Pavleti
 Potamos tou Stavrou tis Psokas, Kapsalion River, Kapsaloli River, Kapsalon River
 Potamoudia, Potamoudhia
 Potamítissa
@@ -2728,7 +2728,7 @@ Poupoutsis
 Pouziaris
 Poúzis, Pouzi, Pouzi Potamós, Puzi, Ρούζης
 Praitóri
-Prasinoudi, Argaki tou Prasinoudhiou
+Prasinoudi, Argaki tou Prasinoudhiou, Prasınoudhıou Deresi
 Prastio (Avdimou)
 Prastio (Kellakiou)
 Prastio (Pafou)
@@ -2772,11 +2772,11 @@ Pyropetra
 Pyryin
 Pyrógi
 Pyrókremmos, Pyrokremnos
-Pyrós
+Pyrós, Bira Tepesi
 Páchna
 Páfos, Paphos Forest
-Pámpoulos, Mount Pamboulos, Pambulo, Πάμπουλος
-Pánagra, Geçitköy Göleti
+Pámpoulos, Büyük Tepe, Mount Pamboulos, Pambulo, Πάμπουλος
+Pánagra, Dağdere Göleti, Geçitköy Göleti
 Páno Akourdáleia, Πάνω Ακουρδάλεια
 Páno Archimandríta
 Páno Aródes
@@ -2800,7 +2800,7 @@ Pérgamos
 Pétra
 Pétra Stití
 Pétra tou Digení, Πέτρα του Διγενή
-Pétra tou Limníti, Petra tou Limniti Island, Petra tu Limniti, Petro tou Limniti, Petro tou Limniti Settlement, Πέτρα του Λιμνίτη
+Pétra tou Limníti, Petra tou Limniti Island, Petra tu Limniti, Petro tou Limniti, Petro tou Limniti Settlement, Yeşilırmak Kayası, Πέτρα του Λιμνίτη
 Pétra tou Romioú, Petra tu Romyu, Romiu Kayalığı, Πέτρα του Ρωμιού
 Pólis
 Pótima, Potima Chiftlik, Pótimo Chiftlík
@@ -2816,7 +2816,7 @@ Rachovounos, Rakhovounos
 Rakhmeli
 Rammos
 Rantidi, Randi Forest
-Republic of Cyprus, Kipriakí Dhimokratía, Kypriakí Dimokratía, Kýpros
+Republic of Cyprus, Güney Kıbrıs Rum Kesimi, Kipriakí Dhimokratía, Kypriakí Dimokratía, Kýpros, Kıbrıs, Kıbrıs Cumhuriyeti
 Reximo
 Rialas
 Rigopoullos, Rigopoulos
@@ -2882,7 +2882,7 @@ Seppelégkis, Seppelegiz
 Serdarlı Göleti
 Sergides, Serghies
 Sergios, Seryios
-Serráchis, Serakhis River, Serrahi, Serrakhis, Shingle Serakhis
+Serráchis, Dar Dere, Serakhis River, Serrahi, Serrakhis, Shingle Serakhis
 Shukurluk, Çukurluk
 Shylles
 Sicharí
@@ -2893,14 +2893,14 @@ Sikorin
 Sikouestia
 Silíkou, Σιλίκου
 Simonis
-Sina Oros, Kantara Tepe, Sina Oros Dağı, Sinadaği, Sinan Tepesi, Sino Oros
+Sina Oros, Kantara Tepe, Sina Oros Dağı, Sinadaği, Sinan Tepe, Sinan Tepesi, Sino Oros
 Sinnis, Simnis
 Sináoros
 Sirnikolas, Sernikola
 Sivri Tepe
 Siá
 Skafes, Skaphes
-Skala
+Skala, Büyükkuyu Deresi
 Skali, Skalin
 Skali tou Chasani, Skalin tou Khasani
 Skalia, Argaki ton Skalion
@@ -2908,7 +2908,7 @@ Skalifourda, Skaliphourda Forest
 Skammata
 Skamni
 Skarínou, Σκαρίνου
-Skasmata
+Skasmata, Bayraklı Tepe
 Skliroudia, Skliroudhia
 Skloinikari, Sklinikari
 Skloinikas, Sklinikas
@@ -2929,7 +2929,7 @@ Skylloúra, Σκυλλούρα
 Smigiés, Smiyes
 Softádes
 Solea Reservoir, Τεχνητή Λίμνη Σολέας
-Solomoni
+Solomoni, Çamlı Tepe
 Solya
 Soreftis, Sorephti
 Sosomas, Sosoma
@@ -2947,7 +2947,7 @@ Spilios tis Koufis, Spilios tis Kouphis
 Spilios tis Magnichias, Spilios Magnisias
 Spilios tou Agrou
 Spilioudi, Spiloudhin
-Spiliris
+Spiliris, Sivri Tepesi
 Spiliá, Spilya
 Spitia Tous Romious
 Spitoudi tou Pyrgou, Spitoudhin tou Pyrgou
@@ -3036,7 +3036,7 @@ Tekele Han, New Tekkele Khan
 Tekneli Pınarı
 Temeller
 Temvriá
-Tenios, Argaki ton Tenion
+Tenios, Argaki ton Tenion, Evler Dere
 Tentes, Tendes
 Tepeler
 Terakkies, Teraches
@@ -3076,7 +3076,7 @@ Tofoulia, Tophoulia
 Tofoulli, Tophoullin
 Tornos
 Toumba tou Nikola
-Toumbekli Yaka
+Toumbekli Yaka, Tümbeklı Yaka
 Toumpa, Toumba, Toumba Forest
 Toumpa ton Niolyton, Toumba Niolita
 Toumpa tou Ai Giorgi, Toumba tou Ayios Yiorki
@@ -3121,7 +3121,7 @@ Trimíthi
 Trines
 Tripodi, Tripodhi, Tripodhin
 Triportia, Triporti
-Tripylos, Irkas Teratsá, Tripilo
+Tripylos, Irkas Teratsá, Tripilo, Trıplast Tepesi
 Trodia, Argaki tis Trodhkias
 Tromartsis, Tromarkhis
 Troodos Mountains, Karlı Dağ, Olympus Mountains, Oroseirá Troódous, Southern Range, Trodos, Troodos Massif, Troodos Range, Tróödhos, Οροσειρά Τροόδους
@@ -3135,7 +3135,7 @@ Troullouri
 Troumithos
 Troúlloi, Troylloi, Trulli
 Troúllos, Τρούλλος
-Trypa tou Vounou, Alonagra, Delik Tepe, Tabivuno Tepe, Trypa Vouno, Trypa Vounou
+Trypa tou Vounou, Alonagra, Delik Tepe, Komando Tepe, Tabivuno Tepe, Trypa Vouno, Trypa Vounou
 Trypiméni
 Trypitos
 Trypitós Spílios
@@ -3272,7 +3272,7 @@ Vounon tou Armeni, Chalevga, Halevga
 Vounon tou Kavazi
 Vounon tou Papa
 Vounos
-Vounári tou Solomoú, Solomo Tepesi, Βουνάρι του Σολωμού
+Vounári tou Solomoú, Solomo Tepesi, Özgür Tepe, Βουνάρι του Σολωμού
 Vouní, Vuni, Βουνί
 Vounó, Vouno Forest, Βουνό
 Vouppes
@@ -3333,7 +3333,7 @@ Xeroloilada, Argaki tis Xerokiladhas
 Xeromoutta
 Xeron
 Xeropigí, Kseropiyi, Xeropiyi
-Xeropótamos, Keropotamos, Kseropotamo, Xeropotamo Latourou
+Xeropótamos, Keropotamos, Kseropotamo, Mandıra Deresi, Xeropotamo Latourou
 Xeros Potamos
 Xerós, Ksero, Kseropotamo, Kseros Deresi, Maden Deresi, River Xeros, Xero, Xero River, Χερός
 Xeróvounos, Xerovounas Forest A, Xerovounos Forest B, Xerovounos Forest D, Ξερόβουνος
@@ -3383,7 +3383,7 @@ Zorpas, Zorras Forest
 Zouloftides, Zoulophtidhes
 Zouron, Zgouros
 Zygovounos, Zigovuno, Zygo Vouno
-Zygós, Zigovuno, Zygo Vouno, Zygovounon
+Zygós, Zigovuno, Ziya Tepe, Zygo Vouno, Zygovounon
 Zyvounoi, Ziouni
 Zýgi
 Áchna
@@ -3436,17 +3436,17 @@ Zýgi
 Ágios Vasíleios, Argaki tou Ayiou Vasiliou
 Ágios Venetós, Ayios Venetos
 Ákro Galounópetra, Galounopetra, Galounopetra Point, Galunopedra Burnu, Galunopetra Burnu, Galunopetra Uçu, Ákron Galounópetra, İğitaş Burnu, Άκρο Γαλουνόπετρα
-Ákro Geránissos, Cape Yeranisos, Cape Yeranisou, Geranissos, Point Geranisos, Yeraniso Burnu, Ákron Geránisos
+Ákro Geránissos, Cape Yeranisos, Cape Yeranisou, Geranissos, Point Geranisos, Yeraniso Burnu, Yeranisos Burnu, Ákron Geránisos
 Ákro Gerónisos, Moutti tou Geronissou, Moutti tou Yeronisou
 Ákro Gioúti, Yiouti, Youili, Yuti, Άκρο Γιούτι
 Ákro Glykiótissa, Glykiotissa, Point Glykiotissa
 Ákro Kíles, Jyles, Kiles
-Ákro Kókkina, Cape Kokkino, Erenköy Burnu, Kirmies Burnu, Kokkina Point, Kokkino Point, Koççina Burnu, Ákron Kókkina
+Ákro Kókkina, Cape Kokkino, Erenköy Burnu, Kirmies Burnu, Kokkina Point, Kokkino Point, Koççina Burnu, Kırmızı Burun, Ákron Kókkina
 Ákro Pachýammos, Pakhy Ammou, Pakhyammos
 Ákro Petoúnta, Bedunda Burnu, Pedunda Uçu, Petounda, Petounda Point, Petounta Point, Petunda Burnu, Ákron Petoúnta, Άκρο Πετούντα
 Ákro Pomós, Pomo Burnu, Pomos Burnu, Pomos Point, Ákron Pomós
 Ákro Próti, Cape Proti
-Ákro Stavroméni, Point Stavromeni, Stavromeni, Άκρο Σταυρωμένη
+Ákro Stavroméni, Point Stavromeni, Stavromeni, Ümit Burnu, Άκρο Σταυρωμένη
 Ákro Stázousa, Dik Burnu, Stazousa Point, Stazusa Burnu, Ákron Stázousa, Άκρο Στάζουσα
 Álassa
 Ámmoi, Ammi
@@ -3458,7 +3458,7 @@ Zýgi
 Ártemi
 Áskeia
 Áspri Moútti, Άσπρη Μούττη
-Áspros
+Áspros, Bıbe Tepesi
 Çadır Tepesi
 Çalı Deresi
 Çataldere Göleti

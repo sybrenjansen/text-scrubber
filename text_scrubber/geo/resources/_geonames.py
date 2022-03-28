@@ -15,12 +15,13 @@ import os
 import re
 import unicodedata
 from functools import partial, reduce
-from typing import Callable, Dict, List, Tuple
+from typing import Callable, Dict, Iterable, List, Tuple, Set
 
 import pandas as pd
 from tqdm.auto import tqdm
 
 from text_scrubber.geo import clean_city, clean_region
+from text_scrubber.geo.resources._geonames_overrides import MANUAL_ALTERNATE_NAMES, MANUAL_HIERARCHY
 
 try:
     from mpire import WorkerPool
@@ -32,24 +33,104 @@ except ImportError:
 RE_ALPHA = re.compile(r'[a-zA-Z]')
 
 
-def process_country(filename: str, work_dir: str, save_dir_cities: str, save_dir_regions: str,
+def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None:
+    """
+    Assumes the zip-files have been extracted
+
+    :param geonames_dir: Geonames directory which should contain a file for each country, together with a folder called
+        'alternatenames', which also contains a file for each country
+    :param save_dir_cities: Save directory for cities
+    :param save_dir_regions: Save directory for regions
+    """
+    # Locate all files with length 6: "<COUNTRY_CODE>.txt" (e.g., "NL.txt")
+    filenames = os.listdir(geonames_dir)
+    filenames = [filename for filename in filenames if len(filename) == 6]
+
+    # Load languages and hierarchy
+    country_langs_map = load_languages(geonames_dir)
+    df_hierarchy = load_hierarchy(geonames_dir)
+
+    # Create save dirs
+    os.makedirs(save_dir_cities, exist_ok=True)
+    os.makedirs(save_dir_regions, exist_ok=True)
+
+    # Process files
+    process_country_func = partial(process_country, geonames_dir=geonames_dir, save_dir_cities=save_dir_cities,
+                                   save_dir_regions=save_dir_regions, country_langs_map=country_langs_map,
+                                   df_hierarchy=df_hierarchy, manual_hierarchy=MANUAL_HIERARCHY,
+                                   manual_alternate_names=MANUAL_ALTERNATE_NAMES)
+    if MPIRE_AVAILABLE:
+        with WorkerPool(n_jobs=4) as pool:
+            pool.map_unordered(process_country_func, filenames, chunk_size=1, progress_bar=True)
+    else:
+        for filename in tqdm(filenames):
+            process_country_func(filename)
+
+
+def load_languages(geonames_dir: str) -> Dict[str, Set[str]]:
+    """
+    Loads languages per country
+
+    :param geonames_dir: Geonames directory
+    :return: {country code: set of languages} dictionary
+    """
+    columns = ['ISO', 'ISO3', 'ISO-Numeric', 'fips', 'Country', 'Capital', 'Area(in sq km)', 'Population', 'Continent',
+               'tld', 'CurrencyCode', 'CurrencyName', 'Phone', 'Postal Code Format', 'Postal Code Regex', 'Languages',
+               'geonameid', 'neighbours', 'EquivalentFipsCode']
+    df = pd.read_csv(os.path.join(geonames_dir, 'countryInfo.txt'), sep='\t', header=None, names=columns, skiprows=51,
+                     usecols=['ISO', 'Languages']).set_index('ISO')
+    df = df[~pd.isna(df.index)]
+
+    # Parse languages and only retain two-letter codes
+    df['Languages'] = df['Languages'].apply(lambda langs: set() if pd.isna(langs) else
+                                            {lang.split('-')[0] for lang in langs.split(',')})
+    df['Languages'] = df['Languages'].apply(lambda langs: {lang for lang in langs if len(lang) == 2})
+
+    return df.to_dict()['Languages']
+
+
+def load_hierarchy(geonames_dir: str) -> pd.DataFrame:
+    """
+    Load hierarchy file. Remove relationships that aren't ADM, other types can contain some noise. Some children have
+    multiple parents, so group them to one row
+
+    :param geonames_dir: Geonames directory
+    :return: DataFrame containing child and parent IDs
+    """
+    df = pd.read_csv(os.path.join(geonames_dir, 'hierarchy.txt'), sep='\t', header=None,
+                     names=['parentid', 'childid', 'type'])
+    df = df[df.type == 'ADM'].drop(['type'], axis=1)
+    df.parentid = df.parentid.apply(lambda pid: {pid})
+    df = df.groupby('childid').agg({'parentid': set_union})
+
+    return df
+
+
+def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save_dir_regions: str,
+                    country_langs_map: Dict[str, Set[str]], df_hierarchy: pd.DataFrame,
+                    manual_hierarchy: Dict[str, Dict[str, List[str]]],
                     manual_alternate_names: Dict[str, Dict[str, List[str]]]) -> None:
     """
     Processes a single country file and stores the results to file, one for cities, one for regions.
 
     :param filename: Filename
-    :param work_dir: Working directory
+    :param geonames_dir: Geonames directory
     :param save_dir_cities: Save directory for cities
     :param save_dir_regions: Save directory for regions
+    :param country_langs_map: {country code: set of languages} dictionary
+    :param df_hierarchy: Pandas DataFrame containing hierarchy information of cities
+    :param manual_hierarchy: {country code: {parent city name: list of children city names to merge}}
     :param manual_alternate_names: {country code: {city: list of manually added alternate names}}
     """
     manual_alternate_names = manual_alternate_names.get(filename[:2], {})
+    manual_hierarchy = manual_hierarchy.get(filename[:2], {})
 
     columns = ['geonameid', 'name', 'asciiname', 'alternatenames', 'latitude', 'longitude', 'feature class',
                'feature code', 'country code', 'cc2', 'admin1 code', 'admin2 code', 'admin3 code', 'admin4 code',
                'population', 'elevation', 'dem', 'timezone', 'modification date']
-    df = pd.read_csv(os.path.join(work_dir, filename), sep='\t', header=None, names=columns,
-                     usecols=['geonameid', 'name', 'asciiname', 'feature class', 'feature code'], keep_default_na=False)
+    df = pd.read_csv(os.path.join(geonames_dir, filename), sep='\t', header=None, names=columns,
+                     usecols=['geonameid', 'name', 'asciiname', 'feature class', 'feature code', 'population'],
+                     keep_default_na=False)
 
     # Change exotic single quotes to regular single quote and remove any commas
     df['name'] = df['name'].apply(clean_punctuation)
@@ -60,19 +141,22 @@ def process_country(filename: str, work_dir: str, save_dir_cities: str, save_dir
     )
 
     # Only retain useful populated places for cities
-    df_cities = df[(df['feature class'] == 'P') &
-                   ~df['feature code'].isin({'PPLCH', 'PPLH', 'PPLL', 'PPLQ', 'PPLR', 'PPLW', 'PPLX'})]
+    df_cities = df[df['feature code'].isin({'PPL', 'PPLA', 'PPLA2', 'PPLA3', 'PPLA4', 'PPLA5', 'PPLC', 'PPLF', 'PPLG',
+                                            'PPLS'})]
 
     # Obtain regions. A=country, state, region,...; H=stream, lake, ...; L=parks, area, ...;
     # T=mountain, hill, rock, ...; V=forest, heath, ...
     df_regions = df[df['feature class'].isin({'A', 'H', 'L', 'T', 'V'})]
 
     # Add alternate names for cities and regions
-    df_cities, df_regions = add_alternate_names(work_dir, df_cities, df_regions, filename)
+    df_cities, df_regions = add_alternate_names(geonames_dir, df_cities, df_regions, country_langs_map, filename)
+
+    # Merge children neighborhoods with parent cities
+    df_cities = merge_on_hierarchy(df_cities, df_hierarchy, manual_hierarchy)
 
     # Remove duplicate names and drop columns that are no longer of interest
-    df_cities = remove_duplicates(df_cities)
-    df_regions = remove_duplicates(df_regions)
+    df_cities = remove_duplicates_and_without_population(df_cities, drop_population=True)
+    df_regions = remove_duplicates_and_without_population(df_regions, drop_population=False)
 
     # Save to file
     manual_alternate_names = manual_alternate_names.get(filename[:2], {})
@@ -106,36 +190,45 @@ def is_latin(text: str) -> bool:
         return False
 
 
-def add_alternate_names(work_dir: str, df_cities: pd.DataFrame, df_regions: pd.DataFrame,
-                        filename: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
+def set_union(s: Iterable[Set]) -> Set:
+    """
+    Returns the union of the list of sets
+
+    :param s: List of sets
+    :return: Union of list of sets
+    """
+    return reduce(set.union, s)
+
+
+def add_alternate_names(geonames_dir: str, df_cities: pd.DataFrame, df_regions: pd.DataFrame,
+                        country_langs_map: Dict[str, Set[str]], filename: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
     Load the alternate names table and add alternative names to cities and regions
 
-    :param work_dir: Working directory
+    :param geonames_dir: Geonames directory
     :param df_cities: DataFrame with cities
     :param df_regions: DataFrame with regions
+    :param country_langs_map: {country code: set of languages} dictionary
     :param filename: Filename
     :return: Expanded cities and regions dataframes
     """
     # Load alternative names
     columns_alt = ['alternateNameId', 'geonameid', 'isolanguage', 'alternate name', 'isPreferredName', 'isShortName',
                    'isColloquial', 'isHistoric', 'from', 'to']
-    df_alt = pd.read_csv(os.path.join(work_dir, 'alternatenames', filename), sep='\t', header=None,
+    df_alt = pd.read_csv(os.path.join(geonames_dir, 'alternatenames', filename), sep='\t', header=None,
                          names=columns_alt, keep_default_na=False)
 
     # Change exotic single quotes to regular single quote and remove any commas
     df_alt['alternate name'] = df_alt['alternate name'].apply(clean_punctuation)
 
-    # Only retain useful and unique alternative names. Note that only the dominant languages up to English are taken
-    # into account. This is a proxy for determining the domestic languages. We also take into account the rows without
-    # known language (empty string) and the corresponding country code, as it has proven to be useful
+    # Only retain useful and unique alternative names. Note that, apart from the languages spoken in a country, the
+    # dominant languages up to English are taken into account. We also take into account the rows without known language
     language_counts = df_alt.isolanguage.value_counts()
     threshold = language_counts.loc['en']
     dominant_languages = language_counts[language_counts >= threshold].index
     dominant_languages = {lang for lang in dominant_languages if len(lang) == 2}
-    if len(dominant_languages) == 1:
-        dominant_languages.add(filename[:2].lower())
     dominant_languages.update({'', 'abbr'})
+    dominant_languages.update(country_langs_map.get(filename[:2], set()))
     df_alt = df_alt[df_alt.isolanguage.isin(dominant_languages) & ~(df_alt.isColloquial == "1")]
     df_alt = df_alt.drop_duplicates(['geonameid', 'alternate name'], keep='first')
     df_alt = df_alt.drop(['alternateNameId', 'isolanguage', 'isPreferredName', 'isShortName', 'isColloquial',
@@ -163,9 +256,11 @@ def add_alternate_names(work_dir: str, df_cities: pd.DataFrame, df_regions: pd.D
     df_cities['name_lower'] = df_cities.name.str.lower()
     df_regions['name_lower'] = df_regions.name.str.lower()
     df_regions_to_join = df_regions[df_regions['feature class'] == 'A']
-    df_regions_to_join = df_regions_to_join.drop(['name', 'asciiname', 'feature class', 'feature code', 'geonameid'],
-                                                 axis=1).set_index('name_lower')
+    df_regions_to_join = df_regions_to_join.drop(['name', 'asciiname', 'feature class', 'feature code', 'geonameid',
+                                                  'population'], axis=1).set_index('name_lower')
     df_regions_to_join.columns = ['alternate region name']
+    df_regions_to_join = df_regions_to_join[df_regions_to_join['alternate region name'].apply(len) > 0]
+    df_regions_to_join = df_regions_to_join.groupby('name_lower').agg({'alternate region name': set_union})
     df_cities = df_cities.join(df_regions_to_join, on='name_lower', how='left')
     df_cities['alternate region name'] = df_cities['alternate region name'].apply(lambda x: set() if pd.isna(x) else x)
     if len(df_cities):
@@ -176,22 +271,76 @@ def add_alternate_names(work_dir: str, df_cities: pd.DataFrame, df_regions: pd.D
     return df_cities, df_regions
 
 
-def remove_duplicates(df: pd.DataFrame) -> pd.DataFrame:
+def merge_on_hierarchy(df: pd.DataFrame, df_hierarchy: pd.DataFrame,
+                       manual_hierarchy: Dict[str, List[str]]) -> pd.DataFrame:
     """
-    Removes duplicate entries based on name and asciiname, but taking the union of alternate names in the process.
+    Merges children cities with their parents. I.e., when a populated place is a neighborhood, the name and alternate
+    names of that neighborhood will be added to the parent city. E.g., 'Manhatten' -> 'New York City'.
+
+    :param df: Original DataFrame of cities
+    :param df_hierarchy: Hierarchy DataFrame containing child and parent IDs
+    :param manual_hierarchy: {parent city name: list of children city names to merge}
+    :return: DataFrame where children have been merged with their parents
+    """
+    # Obtain parent IDs
+    df['parentid'] = [{} for _ in range(len(df))]
+    in_hierarchy_mask = df['geonameid'].isin(df_hierarchy.index)
+    df.loc[in_hierarchy_mask, 'parentid'] = df_hierarchy.loc[df.loc[in_hierarchy_mask, 'geonameid'],
+                                                             'parentid'].to_list()
+
+    # Add manual parent IDs
+    for parent_name, children_names in manual_hierarchy.items():
+        parent_id = df[df['name'] == parent_name].iloc[0].geonameid
+        children_mask = df['name'].isin(children_names)
+        df.loc[children_mask, 'parentid'] = [{parent_id} for _ in range(sum(children_mask))]
+
+    # Remove parent IDs that do not occur in this set
+    city_geonameids = set(df['geonameid'].to_list())
+    df['parentid'] = df['parentid'].apply(lambda pids: {pid for pid in pids if pid in city_geonameids})
+
+    # Remove entries where there are multiple parent IDs. At this point, this shouldn't really occur anymore, but to
+    # be safe. In the case there is a single parent ID, we merge it with the parent. Note, that we iteratively merge,
+    # as there can be multiple consecutive parent relationships. E.g., A has to be merged with B, and B with C. In that
+    # case the names of B can first be added to C, and then A with B. That means the names of A haven't been merged yet
+    # with C, so we sweep over it a second time, third time ... until there are no more changes. This process can
+    # probably be done more efficiently, but it doesn't really matter as there aren't that many merges happening.
+    df = df.set_index('geonameid')
+    in_hierarchy_mask = df['parentid'].apply(len) == 1
+    has_changed = True
+    while has_changed:
+        has_changed = False
+        for _, row in df[in_hierarchy_mask].iterrows():
+            parent_id = next(iter(row['parentid']))
+            prev_n_alternate_names = len(df.loc[parent_id, 'alternate name'])
+            df.loc[parent_id, 'alternate name'].update(row['alternate name'] | {row['name']})
+            df.loc[parent_id, 'population'] = max(df.loc[parent_id, 'population'], row['population'])
+            if len(df.loc[parent_id, 'alternate name']) != prev_n_alternate_names:
+                has_changed = True
+
+    # Get rid of the children
+    df = df[~in_hierarchy_mask]
+
+    return df
+
+
+def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: bool) -> pd.DataFrame:
+    """
+    Removes duplicate entries based on name and asciiname, but taking the union of alternate names in the process. Also
+    removes any alternate name that equals a city name. E.g., Austin as neighborhood of Chicago is removed as alternate
+    name of Chicago, as it is also a city. Entries without population are also removed.
 
     :param df: DataFrame of cities or regions
+    :param drop_population: Whether to drop entries without population
     :return: DataFrame of cities or regions
     """
     # Groupby name to get rid of duplicates. When rows are merged, we take the union of alternate names
-    union_func = lambda x: reduce(set.union, x)
-    df = df.groupby('name')[['asciiname', 'alternate name']].agg(
-        {'alternate name': union_func, 'asciiname': 'first'}
+    df = df.groupby('name')[['asciiname', 'alternate name', 'population']].agg(
+        {'alternate name': set_union, 'asciiname': 'first', 'population': max}
     ).reset_index()
 
     # Combine names based on equal ascii name. Again, when rows are merged we take the union of alternate names
-    df = df.groupby('asciiname')[['name', 'alternate name']].agg(
-        {'name': lambda x: x.unique(), 'alternate name': union_func}
+    df = df.groupby('asciiname')[['name', 'alternate name', 'population']].agg(
+        {'name': lambda x: x.unique(), 'alternate name': set_union, 'population': max}
     ).reset_index()
 
     def process_multiple_names(row):
@@ -214,6 +363,14 @@ def remove_duplicates(df: pd.DataFrame) -> pd.DataFrame:
     # just looks prettier
     if len(df):
         df[['name', 'alternate name']] = df.apply(process_multiple_names, axis=1)
+
+    # Remove cities and regions without population
+    if drop_population:
+        df = df[df['population'] > 0].drop(['population'], axis=1)
+
+    # Remove alternate names that are also already names
+    unique_names = set(df.name.to_list())
+    df['alternate name'] = df['alternate name'].apply(lambda names: names - unique_names)
 
     # Drop columns that are no longer of interest and sort
     df = df.drop(['asciiname'], axis=1)
@@ -260,37 +417,6 @@ def save_file(df: pd.DataFrame, save_dir: str, filename: str, manual_alternate_n
                 names = f"{name}, {', '.join(sorted(alternate_names))}"
 
             f.write(f"{names}\n")
-
-
-def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None:
-    """
-    Assumes the zip-files have been extracted
-
-    :param geonames_dir: Geonames directory which should contain a file for each country, together with a folder called
-        'alternatenames', which also contains a file for each country
-    :param save_dir_cities: Save directory for cities
-    :param save_dir_regions: Save directory for regions
-    """
-    # Locate all files with length 6: "<COUNTRY_CODE>.txt" (e.g., "NL.txt")
-    filenames = os.listdir(geonames_dir)
-    filenames = [filename for filename in filenames if len(filename) == 6]
-
-    # Create save dirs
-    os.makedirs(save_dir_cities, exist_ok=True)
-    os.makedirs(save_dir_regions, exist_ok=True)
-
-    # Add some manual ones
-    manual_alternate_names = {'JP': {'Gifu-shi': ['Gifu']}}
-
-    # Process files
-    process_country_func = partial(process_country, work_dir=geonames_dir, save_dir_cities=save_dir_cities,
-                                   save_dir_regions=save_dir_regions, manual_alternate_names=manual_alternate_names)
-    if MPIRE_AVAILABLE:
-        with WorkerPool(n_jobs=4) as pool:
-            pool.map_unordered(process_country_func, filenames, chunk_size=1, progress_bar=True)
-    else:
-        for filename in tqdm(filenames):
-            process_country_func(filename)
 
 
 if __name__ == '__main__':

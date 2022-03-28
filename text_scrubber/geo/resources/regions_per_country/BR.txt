@@ -32,7 +32,7 @@ Aceno
 Achado
 Acopiara
 Acorizal
-Acre, AC, Estado do Acre, Territorio do Acre, Território Federal do Acre
+Acre, AC, Estado de Acre, Estado do Acre, Territorio do Acre, Território Federal do Acre
 Acrelândia
 Acreúna
 Acude Agua Boa
@@ -256,7 +256,7 @@ Além Paraíba
 Amajari
 Amambai
 Amaporã
-Amapá, AP, Estado do Amapá
+Amapá, AP, Estado de Amapá, Estado do Amapá
 Amapá do Maranhão
 Amaraji
 Amaral Ferrador
@@ -267,8 +267,8 @@ Amarelo
 Amargosa
 Amaturá
 Amazon Basin, Amazonia, Bacia Amazônica, Bacia do Amazonas, Hoya Amazonica
-Amazon River, Amazone River, Orellana, Rio Amazonas, Rio Solimões, Río Marañón, Río el Amazonas, Salimoes River, Solimoens, Solimões River
-Amazonas, AM, Estado do Amazonas
+Amazon River, Amazone, Amazone River, Orellana, Rio Amazonas, Rio Solimões, Río Marañón, Río el Amazonas, Salimoes River, Solimoens, Solimões River
+Amazonas, AM, Estado de Amazonas, Estado do Amazonas
 Amazônia Legal, BLA, Brazil's Legal Amazon
 Ambrósio
 Ambrósios
@@ -1304,7 +1304,7 @@ Atalanta
 Ataléia
 Aterrado Alto
 Atibaia
-Atol das Rocas, Ilha Rocas, Rocas Atoll
+Atol das Rocas, Atoll das Rocas, Atolón de las Rocas, Ilha Rocas, Rocas Atoll
 Atoleiro
 Atrás da Serra
 Atuba Park
@@ -2289,7 +2289,7 @@ Baía de São Martim
 Baía de São Miguel
 Baía de São Pedro
 Baía de Tapari
-Baía de Todos os Santos, All Saints Bay, Bahia Bay, Bahia de Todos os Santos, Bay of All Saints
+Baía de Todos os Santos, All Saints Bay, Bahia Bay, Bahia de Todos os Santos, Bahía de Todos los Santos, Baie de Tous les Saints, Bay of All Saints
 Baía de Turiaçu, Baía Turí-Assú, Baía do Tury-Assú
 Baía de Ubatuba, Enseada de Ubatuba
 Baía de Ubatumirim, Baía Batumirim, Enseada de Ubatumirim
@@ -2440,7 +2440,7 @@ Bituva dos Lucios
 Bituva dos Machados
 Bião
 Blei Pombas
-Blue Lake State Park
+Blue Lake State Park, Parque Estadual Lago Azul
 Blumenau
 Boa Esperança
 Boa Esperança do Iguaçu
@@ -3182,7 +3182,7 @@ Cachoeira Montanha
 Cachoeira Monte Cristo, Cachoeira Monte Christo
 Cachoeira Morena
 Cachoeira Mortandade, Cachoeira Moriandade
-Cachoeira Mourouniourincin, Oulabaleia Itou
+Cachoeira Mourouniourincin, Oulabaleia Itou, Oulapaléya Itou
 Cachoeira Mucambinho
 Cachoeira Mucura
 Cachoeira Mucura Aruaí
@@ -3406,7 +3406,7 @@ Cachoeira Tracambeua
 Cachoeira Tracambé, Cachoeira Tacambé
 Cachoeira Tracira
 Cachoeira Traquá
-Cachoeira Trasapa, Cachoeira Irasapa, Itou Sanseng, Saut Eutou Sansen, Saut Itou Sansen, Saut Itoussansein, Saut Toussassagne
+Cachoeira Trasapa, Cachoeira Irasapa, Itou Sanseng, Sansen Itou, Saut Eutou Sansen, Saut Itou Sansen, Saut Itoussansein, Saut Toussassagne
 Cachoeira Travessão
 Cachoeira Treze
 Cachoeira Treze de Maio
@@ -4534,7 +4534,7 @@ Caçu
 Caçula
 Caém
 Caí de Baixo
-Ceará, CE, Estado do Ceará
+Ceará, CE, Estado de Ceará, Estado do Ceará
 Ceará-Mirim
 Ceboleiro
 Cedral
@@ -4953,7 +4953,7 @@ Coqueiros do Sul
 Coração de Jesus
 Coração de Maria
 Corbélia
-Corcovado, Morro do Corcovado, Pico do Corcovado
+Corcovado, Cerro del Corcovado, Morro do Corcovado, Pico do Corcovado
 Corcunda
 Cordeiro
 Cordeiro de Santo Antônio
@@ -9408,7 +9408,7 @@ Fazendinha
 Fazendão
 Fazzagonel, Fazenda Zagonel
 Fechado
-Federal District, DF, Distrito Federal de Brasília, Futuro Distrito Federal, Municipio Federal, Novo Distrito Federal
+Federal District, DF, District fédéral, Distrito Federal de Brasília, Futuro Distrito Federal, Municipio Federal, Novo Distrito Federal
 Federative Republic of Brazil, Brasil, Brasilien, Brasíle, Brazil, Brésil, Estados Unidos do Brasil, Estados Unidos do Brazil, República Federativa do Brasil, República dos Estados Unidos do Brasil, United States of Brazil
 Feijao
 Feijó
@@ -9534,7 +9534,7 @@ Fortuna
 Fortuna de Minas
 Foveira
 Foz do Canuma, Mouth of the River Camuna, Rio Camunã, Rio Canomã, Rio Canumã
-Foz do Iguaçu
+Foz do Iguaçu, Foz de Iguazú
 Foz do Jordão
 Foz do Rio Amazonas
 Foz do Rio Itaúnas
@@ -9801,7 +9801,7 @@ Goiatins
 Goiatuba
 Goioerê
 Goioxim
-Goiás, GO, Goiaz
+Goiás, Estado de Goiás, GO, Goiaz
 Goiânia
 Gombê
 Gomes
@@ -9853,7 +9853,7 @@ Gravataís
 Gravatá
 Graça
 Graça Aranha
-Greater Porto Alegre, Metropolitan area of Porto Alegre
+Greater Porto Alegre, Metropolitan area of Porto Alegre, Región Metropolitana de Porto Alegre
 Greater Rio de Janeiro
 Groaíras
 Grossos
@@ -13299,7 +13299,7 @@ Ilha de Rimes
 Ilha de S. Carlos
 Ilha de Samanajós
 Ilha de Santa Bárbara
-Ilha de Santa Catarina, Ilha Santa Catharina, Santa Catarina Island
+Ilha de Santa Catarina, Ilha Santa Catharina, Isla Santa Catarina, Santa Catarina Island, Île de Santa Catarina
 Ilha de Santa Cruz
 Ilha de Santa Maria
 Ilha de Santa Quitéria
@@ -14349,7 +14349,7 @@ Japira
 Japoatã
 Japonvar
 Japorã
-Japura River, Caqueta River
+Japura River, Caqueta River, Rio Caqueiá, Rio Japurá, Rio Yapurá, Río Caquetá
 Japurá
 Japão
 Jaqueira
@@ -16692,7 +16692,7 @@ Manaia
 Mananciais da Serra - Piraquara
 Manaquiri
 Manari
-Manaus
+Manaus, Manaos
 Manaíra
 Mandacaru
 Mandaguari
@@ -16759,7 +16759,7 @@ Marajó
 Maranduva
 Maranguape
 Maranhao River
-Maranhão, Estado do Maranhão, MA, Maranham
+Maranhão, Estado de Maranhão, Estado do Maranhão, MA, Maranham
 Maranhãozinho
 Marapanim
 Marapoama
@@ -16892,7 +16892,7 @@ Mato Escuro
 Mato Grande
 Mato Grande Biological Reserve
 Mato Grosso, Estado de Mato Grosso, MT
-Mato Grosso do Sul, Estado de Mato Grosso do Sul, MS
+Mato Grosso do Sul, Estado de Mato Grosso do Sul, MS, Mato Grosso del Sur
 Mato Leitão
 Mato Limpo
 Mato Preto
@@ -16929,7 +16929,7 @@ Mauá da Serra
 Maués
 Maxaranguape
 Maximiliano de Almeida
-Mazagão
+Mazagão, Município de Mazagão
 Maçambará
 Medeiros
 Medeiros Neto
@@ -18651,7 +18651,7 @@ Paranaíba
 Paranaíta
 Paranhos
 Paranoa
-Paraná, Estado do Paraná, PR
+Paraná, Estado de Paraná, Estado do Paraná, PR
 Paraná Abacaxis
 Paraná Acarapuxi
 Paraná Acuraú
@@ -18854,7 +18854,7 @@ Paraty
 Parauapebas
 Parazinho
 Paraí
-Paraíba, Estado da Paraíba, PB, Parahiba do Norte, Parahyba, Parahyba do Norte
+Paraíba, Estado da Paraíba, Estado de Paraíba, PB, Parahiba do Norte, Parahyba, Parahyba do Norte
 Paraíba do Sul
 Paraíso
 Paraíso Perdido
@@ -18950,7 +18950,7 @@ Parque Municipal da Mina Velha
 Parque Municipal de Nova Iguaçú
 Parque Mãe Bonifácia
 Parque Nacional Restinga de Jurubatiba
-Parque Nacional da Amazônia, Parque Nacional do Amazonas
+Parque Nacional da Amazônia, Foret amazonienne, Parque Nacional do Amazonas
 Parque Nacional da Serra da Canastra
 Parque Nacional da Serra da Cutia
 Parque Nacional da Serra dos Órgãos
@@ -19010,7 +19010,7 @@ Parque do Natal
 Parque do Trovador
 Parque dos Manguezais
 Parque dos Poderes
-Pará, Estado do Pará, PA
+Pará, Estado de Pará, Estado do Pará, PA
 Pará de Minas
 Paso Los Moirones
 Paso Real
@@ -19358,7 +19358,7 @@ Penaforte
 Penalva
 Pendências
 Penedo
-Penedos de São Pedro e São Paulo, Penedo de São Pedro, Peñedo de São Pedro e São Paulo, Rochedas São Paulo, Rochedos São Paulo, Rochedos São Pedro e São Paulo, Saint Paul, Saint Paul Rocks, Saint Paul's Rocks, Saint Peter and Paul Rocks, Saint Peter and Saint Paul Rocks
+Penedos de São Pedro e São Paulo, Archipiélago de San Pedro y San Pablo, Penedo de São Pedro, Peñedo de São Pedro e São Paulo, Rochedas São Paulo, Rochedos São Paulo, Rochedos São Pedro e São Paulo, Rochers de Saint-Pierre et Saint-Paul, Saint Paul, Saint Paul Rocks, Saint Paul's Rocks, Saint Peter and Paul Rocks, Saint Peter and Saint Paul Rocks
 Penha
 Pentecoste
 Penudas
@@ -19382,7 +19382,7 @@ Peri Mirim
 Periquito
 Peritiba
 Peritoró
-Pernambuco, Estado de Pernambuco, PE
+Pernambuco, Estado de Pernambuco, PE, Pernambouc
 Pernambuco Roads (historical)
 Perobal
 Perobas
@@ -19408,7 +19408,7 @@ Piancó
 Piatã
 Piau
 Piau reservoir
-Piauí, Estado do Piauí, PI, Piauhy
+Piauí, Estado de Piauí, Estado do Piauí, PI, Piauhy
 Piava
 Piaçabuçu
 Picada
@@ -19472,7 +19472,7 @@ Pico Três Pontas
 Pico Três Pontões
 Pico Tucun
 Pico Verde
-Pico da Bandeira
+Pico da Bandeira, Pic de la Bandeira
 Pico da Bicuda Grande
 Pico da Caiana
 Pico da Carioca
@@ -20453,7 +20453,7 @@ Pororoca
 Port De Aracaju
 Port De Salvador
 Port Of Ilheus, Porto de Ilhéus, Porto do Malhado
-Port of Santos, Porto do Santos
+Port of Santos, Port de Santos, Porto do Santos, Puerto de Santos
 Portalegre
 Porteira
 Porteiras
@@ -20987,7 +20987,7 @@ Purgatório
 Putinga
 Puxinanã
 Puxurizal
-Pão de Açúcar, Pão d'Azucar, Pão de Assucar, Pão de Azucar, Sugar Loaf, Sugarloaf Mountain
+Pão de Açúcar, Mont du Pain de Sucre, Pain de Sucre, Pan de Azúcar, Pão d'Azucar, Pão de Assucar, Pão de Azucar, Sugar Loaf, Sugarloaf Mountain
 Pão-de-Ló
 Pé da Serra
 Pé de Erva
@@ -21209,7 +21209,7 @@ Represa de Balbina
 Represa de Barra Bonita
 Represa de Capuava
 Represa de Ilha Solteira
-Represa de Itaipu
+Represa de Itaipu, Lago Itaipu
 Represa de Itupararanga, Represa do Rio Sorocaba, Reprêsa do Sorocaba
 Represa de Jaguari
 Represa de Jupiá
@@ -26087,9 +26087,9 @@ Rio Grande, Canal do Rio Grande
 Rio Grande Valentim, Igarapé de Valentim
 Rio Grande da Serra
 Rio Grande de Jaconé
-Rio Grande do Norte, Estado do Rio Grande do Norte, RN
+Rio Grande do Norte, Estado de Río Grande del Norte, Estado do Rio Grande do Norte, RN, Río Grande del Norte
 Rio Grande do Piauí
-Rio Grande do Sul, Estado do Rio Grande do Sul, RS
+Rio Grande do Sul, Estado de Río Grande del Sur, Estado do Rio Grande do Sul, RS, Río Grande del Sur
 Rio Gratau
 Rio Gravataí, Gravataí River, Rio Gravatahy
 Rio Gravatá, Gravatá River
@@ -26930,7 +26930,7 @@ Rio Najá, Corrego Anajá
 Rio Naufrágio
 Rio Naxe-Daxe, Corrégo Naxe-Daxe
 Rio Negrinho, Negrinho River
-Rio Negro, Riachão de Aldeia, Rio Guainia
+Rio Negro, Riachão de Aldeia, Rio Guainia, Río Guanía
 Rio Negro State Park North Section, Parque Estadual Rio Negro Setor Sul
 Rio Negro State Park Southern Section, Parque Estadual Rio Negro Setor Sul
 Rio Neves
@@ -28290,7 +28290,7 @@ Rio de Breves, De Breves River
 Rio de Contas, De Contas River, Jussiape River, Rio das Contas
 Rio de Dentro
 Rio de Icatu
-Rio de Janeiro, Estado do Rio de Janeiro, RJ
+Rio de Janeiro, Estado de Río de Janeiro, Estado do Rio de Janeiro, RJ
 Rio de Janeiro Harbour
 Rio de Juruti, Juriti River, Rio de Juriti
 Rio de Lavras
@@ -28690,7 +28690,7 @@ Rondolândia
 Rondon
 Rondon do Pará
 Rondonópolis
-Rondônia, Estado de Rondônia, Estado do Rondônia, RO, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé
+Rondônia, Estado de Rondonia, Estado do Rondônia, RO, Território Federal de Rondônia, Território Federal do Guaporé, Território de Rondônia, Território do Guaporé
 Roque Gonzales
 Roraima, Estado de Roraima, Estado do Roraima, RR, Território do Rio Branco
 Rorainópolis
@@ -29193,7 +29193,7 @@ Santíssimo
 Santópolis do Aguapeí
 Sao Donato Biological Reserve
 Sao Francisco River
-Sao Pedro Forest
+Sao Pedro Forest, Mata Sao Pedro
 Sapeaçu
 Sapezal
 Sapiatiba
@@ -30005,7 +30005,7 @@ Serra da Mandira
 Serra da Mangaba
 Serra da Mangabeira
 Serra da Maniçoba
-Serra da Mantiqueira, Mantiqueira Mountains
+Serra da Mantiqueira, Mantiqueira Mountains, Sierra de la Mantiqueira
 Serra da Mantiquiera
 Serra da Maonguba
 Serra da Maravilha
@@ -31912,7 +31912,7 @@ São Luiz
 São Luiz Gonzaga
 São Luiz do Norte
 São Luiz do Paraitinga
-São Luís
+São Luís, São Luís do Maranhão
 São Luís Gonzaga do Maranhão
 São Luís de Montes Belos
 São Luís do Curu
@@ -32510,7 +32510,7 @@ Urucuia
 Urucurituba
 Urucânia
 Uruguaiana
-Uruguay River
+Uruguay River, Rio Uruguay
 Urumutum River, Rio Urumutum
 Uruoca
 Urupema
@@ -33185,11 +33185,11 @@ serra do Boqueirão
 Áurea
 Ângulo
 Érico Cardoso
-Îlet Alice
+Îlet Alice, Îlets Alice
 Îlet Capouri
 Îlet Galion
 Îlet Gros Indien
-Îlet Kouaman, Île Kouaman, Îlet Couaman
+Îlet Kouaman, Île Kouaman, Îlet Couaman, Îlet Kouaman Tapélé
 Îlet Mémora, Îlets Mémora
 Îlet Titicolé
 Îlets Bois Déraciné

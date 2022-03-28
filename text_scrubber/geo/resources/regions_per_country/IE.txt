@@ -6,9 +6,9 @@ Abbey Island
 Abbey River, Abbey
 Abbey View
 Abbeylough River, Abbeylough
-Achill Head
-Achill Island
-Achill Sound
+Achill Head, Ceann Acla
+Achill Island, Acaill
+Achill Sound, Gob an Choire
 Achillbeg Island, Acaill Bheag, Achillbeg
 Ackle Back
 Acres Lough
@@ -32,15 +32,15 @@ Aghade
 Aghadown
 Aghadunvane
 Aghafore
-Aghaglasheen
+Aghaglasheen, Achadh Ghlaisín
 Aghakilconnell Lough
 Aghakinnigh
 Aghalona River, Aghalona
 Aghameelta Barr
 Aghamore Bay
 Aghamurky
-Aghanagran River
-Aghanagran Upper
+Aghanagran River, Abhainn Achadh na gCrann
+Aghanagran Upper, Achadh na gCrann Uachtarach
 Aghangaddy
 Agharue
 Aghatubrid
@@ -65,13 +65,13 @@ Ahadagh
 Ahane
 Ahaphuca River, Ahaphuca
 Ahascragh River, Ahascragh
-Ahaun
+Ahaun, Áthán
 Ahaunboy
 Aherlabeg
 Ahildoua
 Aill na nGlasóg
 Ailladie
-Aille
+Aille, Na hAille
 Aille Lough
 Aille River
 Aillebrack Lough
@@ -88,9 +88,9 @@ Alderman's Rocks
 Alexander's Rock
 Alexandra Basin
 Alexandra Basin East
-Allagh Island
+Allagh Island, Oileán Eala
 Allaghaun River, Allaghaun
-Allaphreaghaun
+Allaphreaghaun, Aill an Phréacháin
 Allychraun River, Allychraun
 Alnamarnagh
 Altachoastia
@@ -111,15 +111,15 @@ An Daoirin
 An Ghlaise Bheag, Glashabeg, Glashbeg
 An Longfort, Co Longford, Contae an Longfoirt, County Longford
 An tOileán Iarthach
-Anaderryboy River
+Anaderryboy River, Abhainn na Daraí Buí
 Anamullaghaun River, Anamullaghaun
 Anelteen Lough
 Anghnaglanny River, Anghnaglanny
 Anglesey Mountain
-Angliham
+Angliham, Gort an Chalaidh
 Anloge Hill
 Annagap
-Annagh
+Annagh, An tEanach
 Annagh Bay
 Annagh Bog
 Annagh Head
@@ -158,7 +158,7 @@ Aqua Dome
 Araglin River, Araglin
 Araharlick
 Aran Island, Arranmor, Arranmore, Árainn Mhór
-Aran Islands, Aran, South Aran
+Aran Islands, Aran, Oileáin Árann, South Aran
 Arch
 Archerstown Lough
 Ard Bay
@@ -188,9 +188,9 @@ Ardcullen, Ardrullen
 Ardcullen-marshes
 Ardderroo Lough
 Ardderry Lough
-Ardeen
+Ardeen, An tAirdín
 Ardegh
-Ardelly Point
+Ardelly Point, Aird Oili
 Ardeloony River, Ardeloony
 Ardenagh
 Arderin
@@ -212,7 +212,7 @@ Ardmore Bay
 Ardmore Head
 Ardmore Hill
 Ardmore Lough
-Ardmore Point
+Ardmore Point, Gob na hAirde Móire
 Ardmulchan Motte
 Ardnabourkey
 Ardnaboy
@@ -243,7 +243,7 @@ Argideen River, Argideen
 Arglo River, Arglo
 Arigna River, Arigna
 Arklow Bank
-Arklow Head
+Arklow Head, Ceann an Inbhir Mhóir
 Arklow Rock
 Arless
 Aroo
@@ -259,7 +259,7 @@ Ashline
 Ashton
 Ashtongrove
 Ashtown
-Askanagap
+Askanagap, Fasca na gCeap
 Askilgubroenacoragh
 Askinamoe
 Askinch
@@ -267,7 +267,7 @@ Askingarran
 Askinvillar
 Assagart
 Assaroe Lake
-Athboy River, Athboy
+Athboy River, Abhainn Átha Buí, Athboy
 Athgoe
 Athlumman
 Athy Canal
@@ -298,24 +298,24 @@ Aughnaglaur River, Aughnaglaur
 Aughrim Hill
 Aughrim River
 Aughrim Street
-Aughris Head
+Aughris Head, Ceann Eachrois
 Aughrus Point
 Aughrusbeg Lough
 Aughtanny
 Aultagh Wood
 Aunamihoonagh
 Avaul Lough
-Avery Island
+Avery Island, Oileán Aimhréidh
 Avlog's Lough
 Avoca River, Abhainn Abhóca, Avoca, Ovoca, Ovoca River
 Avogh Rock
-Avonbeg River
+Avonbeg River, Abhainn Abhóca
 Avondale Forest Park
 Avonmore River
 Awbeg River, Awbeg, Awinbeg
 Awboy River
 Awnaskutaun River
-Aylevarroo Bay
+Aylevarroo Bay, Bá Aill an Mharú
 Aylevarroo Point
 Ayrfield
 Babvages Hill
@@ -326,7 +326,7 @@ Baginbun Head
 Bagwell's Hill
 Bahana Wood
 Bahyvira
-Baile Átha Cliath, Co Dublin, County Dublin, Dublin
+Baile Átha Cliath, Co Dublin, Contae Bhaile Átha Cliath, County Dublin, Dublin
 Bailyhaght
 Balbane Head
 Balcurris
@@ -349,7 +349,7 @@ Ballaghnatrillick River, Ballaghnatrillick
 Ballaghscart
 Ballahacommane
 Ballany Lough
-Ballard Bay
+Ballard Bay, Bá an Bhaile Aird
 Ballare
 Balleen
 Balleen Lough
@@ -404,7 +404,7 @@ Ballingarry House
 Ballingarry Island
 Ballingate
 Ballinggowan
-Ballinglanna
+Ballinglanna, Baile an Ghleanna
 Ballinglen
 Ballinglen River
 Ballinglin
@@ -426,7 +426,7 @@ Ballinrash
 Ballinreavy Strand
 Ballinree
 Ballinreeshig
-Ballinskelligs Bay
+Ballinskelligs Bay, Baile an Sceilg
 Ballinsvrinsig
 Ballintaggart
 Ballintantassig
@@ -467,7 +467,7 @@ Ballybaun
 Ballybeg
 Ballybeg Island
 Ballybeg River
-Ballyboe Mountain, Ballyboe
+Ballyboe Mountain, Ballyboe, Sliabh Bhaile na Bó
 Ballybog Lough
 Ballybogey
 Ballyboggan
@@ -475,7 +475,7 @@ Ballyboodin
 Ballyboro
 Ballyboy
 Ballyboyle Island
-Ballybrack
+Ballybrack, An Baile Breac
 Ballybrack Wood
 Ballybranagh
 Ballybrane
@@ -558,14 +558,14 @@ Ballydineen
 Ballydivlin Bay
 Ballydonegan Bay
 Ballydonnell Brook
-Ballydonohoe
+Ballydonohoe, Baile Uí Dhonnchú
 Ballydorgan
-Ballydotia
+Ballydotia, Baile Dóite
 Ballydowane
 Ballydowane Bay
 Ballydrehid
 Ballyduane
-Ballyduff
+Ballyduff, An Baile Dubh
 Ballydun
 Ballydureen
 Ballyea
@@ -576,7 +576,7 @@ Ballyedmond Little
 Ballyedmond River
 Ballyeelinan
 Ballyeighter Loughs
-Ballyeightragh
+Ballyeightragh, An Baile Íochtarach
 Ballyeland
 Ballyeragh
 Ballyeryslat
@@ -695,7 +695,7 @@ Ballylinch
 Ballylincy
 Ballylinnen
 Ballylongane
-Ballylongford Bay
+Ballylongford Bay, Bá Bhéal Átha Longfoirt
 Ballylooby
 Ballylough
 Ballylow Brook
@@ -754,7 +754,7 @@ Ballynacooly
 Ballynacor
 Ballynacorra River, Ballinacurra River, Ballynacorra
 Ballynacorrick Lough
-Ballynacourty
+Ballynacourty, Baile na Cúirte
 Ballynacourty Point
 Ballynacragga
 Ballynafeeragh
@@ -767,7 +767,7 @@ Ballynagreanagh
 Ballynagrumoolia
 Ballynaguilla
 Ballynaguillee
-Ballynaharda
+Ballynaharda, Baile na hArda
 Ballynahina
 Ballynahinch
 Ballynahinch Lake, Ballynahinch Lough
@@ -782,7 +782,7 @@ Ballynalacken
 Ballynaluckeen
 Ballynamanoge
 Ballynameranagh
-Ballynamona
+Ballynamona, Baile na Móna
 Ballynamona Hill
 Ballynamuck
 Ballynamuddagh
@@ -807,7 +807,7 @@ Ballynevin
 Ballynevoga
 Ballynoe
 Ballynoe East
-Ballynoneen
+Ballynoneen, Baile Nóinín
 Ballynonnan
 Ballynoony
 Ballynultagh
@@ -815,7 +815,7 @@ Ballyogan Lough
 Ballyogarty
 Ballyonack
 Ballyorley
-Ballyouneen
+Ballyouneen, Baile Uaimhnín
 Ballyourane
 Ballyovril
 Ballypherode
@@ -831,10 +831,10 @@ Ballyriggin
 Ballyring
 Ballyrisode Point
 Ballyristeen
-Ballyroan
+Ballyroan, Baile Uí Ruáin
 Ballyrobin
 Ballyrobin South
-Ballyroe
+Ballyroe, Baile Reo
 Ballyroebuck
 Ballyrohan
 Ballyroonmountain
@@ -933,7 +933,7 @@ Banoge River, Banoge
 Banragoogeen
 Bansha
 Bansha Wood
-Bantry Bay
+Bantry Bay, Bá Bheanntraí
 Bantry Harbour
 Bar Deel River, Bar Deel
 Bar of Aran
@@ -992,9 +992,9 @@ Barraduff Mountain
 Barrafahona
 Barragh Lough
 Barranacullia
-Barranagh Island
+Barranagh Island, Oileán Bearanach
 Barranashingaun
-Barranastook
+Barranastook, Barr na Stuac
 Barrastooka
 Barravakeen
 Barrboy
@@ -1058,7 +1058,7 @@ Beal Point
 Bealaclave
 Bealaclugga Bay
 Bealanabrack River, Bealanabrack
-Bealanaglass, Goleen Bay
+Bealanaglass, Béal Átha Glais, Goleen Bay
 Bealanascartane
 Bealboy River, Bealboy
 Bealick
@@ -1081,7 +1081,7 @@ Beenacouma
 Beenaniller Head
 Beenarourke
 Beenateevaun
-Beenatoor
+Beenatoor, Binn an Tuair
 Beenbo
 Beendarrig
 Beenduff
@@ -1099,8 +1099,8 @@ Beetle Island
 Beeves Rock
 Begerin
 Beggarin Island
-Beginish
-Beginish Island, Beginnis
+Beginish, Beiginis
+Beginish Island, Beginnis, Beiginis
 Behagullane
 Behanagh River, Behanagh
 Beheenagh
@@ -1108,10 +1108,10 @@ Beheenagh River
 Behy Mountain
 Bekan Lough
 Belcloghogy Loughs
-Belderg Harbour, Belderg Bay
+Belderg Harbour, Belderg Bay, Béal Deirg
 Belderg River, Belderg
 Belderra Strand
-Belfarsad
+Belfarsad, Béal Feirste
 Belgrove
 Belhavel Lough
 Bell Harbour
@@ -1121,8 +1121,8 @@ Bellachreesh Bay
 Bellacragher Bay, Bellacrager Bay, Bellacragha Bay
 Bellair Hill
 Bellakip River, Bellakip
-Bellanaboy
-Bellanamean River
+Bellanaboy, Beal an Átha Bhui
+Bellanamean River, Abhainn Bhéal Átha na mBian
 Bellanascarrow Lough
 Bellantra Bridge
 Bellataleen
@@ -1135,7 +1135,7 @@ Bellevue
 Bellgrove
 Belpere
 Belrose
-Beltra Lough
+Beltra Lough, Loch Bhéal Trá
 Belvedere
 Belvidere
 Belview
@@ -1149,23 +1149,23 @@ Ben of Fore
 Ben of Howth, Hill of Howth, Shelmartin
 Benaderreen
 Benard
-Benbaun
+Benbaun, Binn Bhán
 Benbo
 Benbrack
-Benbreen
+Benbreen, Binn Bhraoin
 Benbulbin, Benbulben, Benbulbin Range
 Benchoona
-Bencollaghduff
-Bencorr
+Bencollaghduff, Binn Dubh
+Bencorr, Binn Chorr
 Bencroy, Gubnaveagh
 Bencullagh
 Benduff
 Bengarragh
-Benglenisky
-Bengorm
-Bengower
+Benglenisky, Binn Glean Uisce
+Bengorm, An Bhinn Ghorm
+Bengower, Binn Gabhar
 Benhead
-Benlettery, Bendouglas
+Benlettery, Bendouglas, Binn Dúghlais, Binn Leitrí
 Benmore
 Bennaummore
 Bennes Hill
@@ -1174,13 +1174,13 @@ Benson's Hill
 Bentee
 Benwee, Kilcummin Head
 Benwee Geevraun Point
-Benwee Head
+Benwee Head, An Bhinn Bhuí
 Benyvoughella Hill
 Berkeley Road
 Bertraghboy Bay, Birterbuy Bay
 Betty Ville
 Big Doon
-Big Island
+Big Island, An tOileán Mór
 Big Isle
 Big Point
 Big River, Big
@@ -1195,7 +1195,7 @@ Bill of Cape Clear
 Billary Lough
 Bills Rocks, The Bills
 Binancove Shore, Rinaneeve Shore
-Binbane
+Binbane, An Bhinn Bhán
 Bing
 Binna Hill
 Binnacaghig
@@ -1220,7 +1220,7 @@ Birranbaun
 Birreen
 Birreencorragh
 Bishop's Bay
-Bishop's Island
+Bishop's Island, Oileán an Easpaig
 Bishops Hill
 Black
 Black Ball Head
@@ -1238,7 +1238,7 @@ Black Lion
 Black Lough
 Black Point
 Black River
-Black Rock
+Black Rock, An Charraig Dhubh
 Black Rock Mountain
 Black Rock Point
 Black Water
@@ -1250,7 +1250,7 @@ Blackhead Bay, Ballyvaghan Bay, Ballyvaughan
 Blacklion
 Blackpool
 Blackrock
-Blacksod Bay
+Blacksod Bay, Cuan an Fhoid Duibh
 Blacksod Point
 Blackstair's Mountain
 Blackstairs Mountain
@@ -1264,7 +1264,7 @@ Blakestown
 Blanket Nook
 Blarney Lake
 Blarney River
-Blasket Islands
+Blasket Islands, Na Blascaodaí
 Blasket Sound
 Blast Hill
 Bleach Lough
@@ -1285,13 +1285,13 @@ Blind Sound
 Blindwood
 Blinknure Point
 Bllueford
-Bloody Foreland
+Bloody Foreland, Cnoc Fola
 Blue Islands
 Blue Point
 Blue Stack
 Blue Stack Mountains, Croaghgorm, Croaghgorm Mountains
-Bluebell
-Bo Island
+Bluebell, An Cloigín Gorm
+Bo Island, Oileán Bó
 Boardee
 Boards Mill
 Boat Strand
@@ -1328,7 +1328,7 @@ Bohernarnane
 Boherroe
 Bohill River
 Bohillane
-Bohoona
+Bohoona, Both Chuanna
 Bola Beg
 Bolaboy
 Boladurragh
@@ -1336,7 +1336,7 @@ Bolands Rock
 Boley
 Boley Hill
 Boleybaun
-Boleybeg
+Boleybeg, An Bhuaile Bheag
 Boleynahouliagh
 Bolganard Lough
 Bolinahaney
@@ -1345,7 +1345,7 @@ Bolinrush
 Bolintlea
 Boliska Lough
 Bolooghra
-Bolus
+Bolus, Bólas
 Bolus Head
 Bomore
 Bone Rock
@@ -1395,7 +1395,7 @@ Boughil, Boughill
 Bouglul Rock
 Boula
 Boulliagh
-Boultypatrick
+Boultypatrick, Buailte Pádraig
 Bounla Island
 Bourne Vincent Memorial Park, Bourn Vincent Park
 Bovroughaun Hill
@@ -1403,7 +1403,7 @@ Bovroughaun Lough
 Bow River, Bow
 Boycetown River
 Boyeeghter Bay
-Boylagh Bay
+Boylagh Bay, Baollaigh
 Boyle River, Boyle
 Braade Hill
 Braade Strand na Feirste
@@ -1482,7 +1482,7 @@ Bridgetown Estuary
 Bridgetown Upper
 Brinny River, Brinny
 Briska
-Brittas Bay
+Brittas Bay, Cuan an Bhríotáis
 Brittas Lough, Brittas
 Brittas River, Brittas
 Broad
@@ -1491,7 +1491,7 @@ Broad Meadow
 Broad Meadow Water
 Broad Water
 Broadford River, Broadford
-Broadhaven Bay, Broad Haven
+Broadhaven Bay, Broad Haven, Cnocán na Líne
 Broadstrand Bay
 Broaghnabinnia
 Brockagh Lough
@@ -1541,7 +1541,7 @@ Bullogconnell Shoals
 Bulls Head
 Bun Lough
 Bunaclugga Bay
-Bunacurry Harbour
+Bunacurry Harbour, Bun an Churraigh
 Bunadaowen River, Bunadaowen
 Bunagarho
 Bunanakee River, Bunanakee
@@ -1570,7 +1570,7 @@ Bunnaglanna River, Bunnaglanna
 Bunnaglass
 Bunnahill
 Bunnahow Lough
-Bunnahown
+Bunnahown, Bun na hAbhann
 Bunnahowna River, Bunnahowna
 Bunnamuck
 Bunnamullen Bay
@@ -1622,13 +1622,13 @@ Caha River
 Cahenea
 Caher
 Caher Hill
-Caher Island
+Caher Island, Cathair na Naomh
 Caher Lough
 Caher Mountain
 Caher Park
 Caher Point
 Caher River
-Caherard
+Caherard, An Chathair Aird
 Caherbarnagh
 Caherbaun
 Caherbla
@@ -1646,7 +1646,7 @@ Caherlough
 Cahermore
 Cahermountain
 Cahermurphy
-Cahernageeha
+Cahernageeha, Cathair na Gaoithe
 Cahernageeha Mountain
 Cahernagh
 Cahernahallia River, Cahernahallia
@@ -1658,7 +1658,7 @@ Cahore Point
 Calabber River, Calabbe River, Calabber
 Calaiste
 Calf
-Calf Island
+Calf Island, Oileán an Ghamhna
 Calf Island East
 Calf Island Middle
 Calf Island West
@@ -1694,7 +1694,7 @@ Canavan Point
 Canbo Lough
 Cancregga
 Candiha
-Candroma
+Candroma, Ceann Droma
 Canduff
 Canglass Point, Keownglas Head
 Canknoogheda
@@ -1704,10 +1704,10 @@ Canon Island, Cannon Island, Inis na Canánach
 Canteehy
 Cantronlahan
 Canty
-Canuig
+Canuig, Ceannúigh
 Canuig Mountain
 Cap Island
-Cape Clear
+Cape Clear, Cléire
 Capel Island
 Cappagh
 Cappagh Beg
@@ -1736,7 +1736,7 @@ Caragh Cliff
 Caran
 Caraun Point
 Carbat Gap
-Carbery Island
+Carbery Island, Cairbrigh
 Cardy Rocks
 Carew's Wood
 Carfad Lough
@@ -1745,10 +1745,10 @@ Carheany Lough
 Carheenlea
 Carho
 Carhoo
-Carhoona
+Carhoona, Ceathrúna
 Carhuegarriffe
 Cark Mountain
-Carlingford Lough
+Carlingford Lough, Loch Cairlinn
 Carlingford Mountain
 Carn Hill
 Carn Lough
@@ -1762,7 +1762,7 @@ Carnarona Point
 Carnaun
 Carnavaddy
 Carnaween
-Carnboy
+Carnboy, An Carn Buí
 Carncrow
 Carnelrussel
 Carnglass
@@ -1786,7 +1786,7 @@ Carran Wood
 Carranarah
 Carrane Hill
 Carratraw Lough
-Carrauntoohil, Carrantuel, Carrantuohill, Carrauntoohill
+Carrauntoohil, Carrantuel, Carrantuohill, Carrauntoohill, Corrán Tuathail
 Carraveg Bay
 Carrawaystick Mountain
 Carrick
@@ -1814,7 +1814,7 @@ Carrickaveol, Carrickaveol Head
 Carrickavrantry
 Carrickawaddy
 Carrickawart Island
-Carrickawilt
+Carrickawilt, Carraig an Mhoilt
 Carrickboorla
 Carrickbrean
 Carrickbyrne Hill, Carrickbyrne
@@ -1875,7 +1875,7 @@ Carrig
 Carrig Beg
 Carrig Bridge
 Carrig Hill
-Carrig Island
+Carrig Island, An Charraig, Oileán na Carraige
 Carrig Island Point
 Carrig Mountain
 Carrig River
@@ -1890,7 +1890,7 @@ Carrigafloca
 Carrigagharoe Point
 Carrigagown
 Carrigagulla
-Carrigaholt Bay
+Carrigaholt Bay, Bá Charraig an Chabhaltaigh
 Carrigahoulla
 Carrigalachan
 Carrigan
@@ -1918,7 +1918,7 @@ Carrigcannon
 Carrigcleamore
 Carrigee
 Carrigeel
-Carrigeen
+Carrigeen, An Carraigín
 Carrigeenaballa
 Carrigeencor Lough
 Carrigeenglass
@@ -1966,9 +1966,9 @@ Carrowkeel
 Carrowkeel River
 Carrowkeribly Lough
 Carrowloughan Lough
-Carrowmore Lake
+Carrowmore Lake, Loch na Ceathrú Móire
 Carrowmore Lough
-Carrowmore Point
+Carrowmore Point, Pointe na Ceathrún Móire
 Carrownaakeagh Lough
 Carrownabanny Lough
 Carrownabinna Point
@@ -1988,7 +1988,7 @@ Carrowsallagh River
 Carthage Mountain
 Carthy's Islands
 Cartran River, Cartran
-Cartron
+Cartron, An Leathchartúr
 Cartron Lough
 Cartron Point
 Carty's Corner
@@ -2006,7 +2006,7 @@ Cashelgolan Hill
 Cashelisky
 Cashelmore
 Cashelnacor River, Cashelnacor
-Cashen River
+Cashen River, An Casán
 Cashla Bay
 Cashla River, Cashia
 Cashlan Lough
@@ -2025,7 +2025,7 @@ Castle Point
 Castleaffy Strand
 Castlebanny
 Castlebar Reservoir
-Castlebar River, Castlebar
+Castlebar River, An tSiúir, Castlebar
 Castlecoo Hill
 Castlecooke
 Castlecosker
@@ -2083,13 +2083,13 @@ Church Island, Inis Mór
 Church Mountain
 Church Strand Bay
 Churchfield
-Churchtown
+Churchtown, Baile an Teampaill
 Cionn an Locha, Kinnalough, Kinny Lough
 Clack Mountain
 Claddagh River, Cladagh River, Claddagh, Swanlinbar River
 Claddaghgarriff
 Clady River, Clady
-Claggan
+Claggan, An Cloigeann
 Claggan Lough
 Claggan Mountain
 Claggan Point
@@ -2098,13 +2098,13 @@ Clammers Point
 Clarabricken
 Claragh Mountain
 Clare, Co Clare, Contae an Chláir, County Clare
-Clare Island
+Clare Island, Oileán Chliara
 Clare River
 Clare Rock
 Claree Lough
 Clareen Lough
 Clarinbridge River, Clarin River, Clarinbridge
-Clash
+Clash, An Chlais
 Clash North
 Clash South
 Clashadoo
@@ -2124,7 +2124,7 @@ Clashwilliam
 Classybaun Harbour
 Clawinch
 Cleaneath Lough
-Clear Island, Cape Clear Island
+Clear Island, Cape Clear Island, Cléire
 Cleavlagh Strand
 Cleavry Lough
 Clediagh River, Clediagh
@@ -2140,7 +2140,7 @@ Clera Island
 Clermont
 Clermont Carn
 Clery's Point
-Clew Bay
+Clew Bay, Cuan Mó
 Clieveagh
 Clifden Bay
 Clifden Hill
@@ -2152,7 +2152,7 @@ Clodagh
 Clodagh River
 Clodiagh River, Clodiach River, Clodiagh
 Clogagh
-Cloger Road
+Cloger Road, Clochar
 Clogga
 Cloggaghwood Loughs
 Clogghill
@@ -2162,10 +2162,10 @@ Cloghagh
 Cloghanacody
 Cloghanaculleen
 Cloghanaffrin
-Cloghane
+Cloghane, An Clochán
 Cloghane Lake
 Cloghane River
-Cloghaneely
+Cloghaneely, Cloich Chionnaola
 Cloghanenagleragh
 Cloghapistole
 Clogharee Lough
@@ -2173,7 +2173,7 @@ Cloghaun
 Cloghaun Lough
 Cloghbaun Rock
 Cloghbolie Mountain
-Cloghboola
+Cloghboola, An Chlochbhuaile
 Cloghboold
 Clogheen
 Clogheenmilton
@@ -2182,7 +2182,7 @@ Clogher Head
 Clogher Hill
 Clogher North
 Cloghera
-Cloghernagore
+Cloghernagore, Clochar na nGabhar
 Cloghfaunaglibbaun
 Cloghfin Lough
 Cloghlucas
@@ -2197,7 +2197,7 @@ Cloghoge Brook
 Cloghoge River
 Cloghroe River, Cloghroe
 Cloghrustick
-Cloghvoola
+Cloghvoola, Clochbhuaile
 Cloghvoula
 Clohernagh, Clocharnach
 Clohernagh Brook
@@ -2271,7 +2271,7 @@ Cloonaghmore Point
 Cloonaghmore River, Cloonaghmore
 Cloonakillina Lough
 Cloonalaghan River, Cloonalaghan
-Cloonaman
+Cloonaman, Cluain na mBan
 Cloonaquin Lough
 Cloonard River
 Cloonascragh River, Cloonascragh
@@ -2328,7 +2328,7 @@ Cluidaniller
 Clybaun
 Clyda River, Clyda
 Clydagh River, Clydagh, River Cladagh
-Clynagh Island
+Clynagh Island, Cladhnach
 Coad Mountain
 Coagh Lough
 Coaghubbrid
@@ -2337,7 +2337,7 @@ Coal Gap
 Coalpit Lough
 Coarrid Point
 Coarse Island
-Coarsefield
+Coarsefield, Sceach Liag
 Coastguard Hill
 Cobblers Bulk
 Cobduff
@@ -2370,7 +2370,7 @@ Colly
 Colman
 Colman's Lough
 Colman's Point
-Colt Island
+Colt Island, Inis Coilt
 Columbkille Lough
 Comeragh Mountains
 Comeraghmountain
@@ -2383,7 +2383,7 @@ Conavalla
 Concra
 Cone Island
 Cone Island South
-Coney Island, Inish Mulclohy
+Coney Island, Inis Uí Mhaolchluiche, Inish Mulclohy
 Coneybeg
 Conga Lough
 Conicar Hill
@@ -2394,8 +2394,8 @@ Conlawn Hill
 Connagh
 Connahill
 Connahy
-Connaught, Connacht, Province of Connacht
-Connemara
+Connaught, Connacht, Cúige Chonnacht, Province of Connacht
+Connemara, Conamara
 Conors Island, Connor's Island
 Conray
 Constable Hill
@@ -2498,7 +2498,7 @@ Coolquane
 Coolraheen North
 Coolraheen South
 Coolreash Lough
-Coolroe
+Coolroe, An Chúil Rua
 Coolroebeg
 Coolsarlagh
 Coolseskin
@@ -2509,7 +2509,7 @@ Coolturtaun Lough
 Coolydoody
 Coolydoody North
 Coolyearney
-Coom
+Coom, An Com
 Coom Wood
 Coomacarrea
 Coomacloghane
@@ -2521,11 +2521,11 @@ Coomanore North
 Coomarkane
 Coomarkane Lake
 Coomasaharn Lake
-Coomaspeara
+Coomaspeara, Com an Spiara
 Coomastooka
 Coomataggart
 Coomatallin
-Coomatloukane
+Coomatloukane, Com an tSleabhcáin
 Coombane
 Coomcallee
 Coomcloghaun Lake
@@ -2537,7 +2537,7 @@ Coomlogane
 Coomnacronia Lake
 Coomnadiha
 Coomnagrossaun Lake
-Coomnahorna
+Coomnahorna, Com na hEorna
 Coomreagh
 Coomrooania Lough
 Coon
@@ -2574,25 +2574,25 @@ Corabber River, Corabber
 Coragh Lough
 Coramore
 Corballis Hill
-Corbally
+Corbally, An Corrbhaile
 Corbally Harbour
-Corbally Hill
+Corbally Hill, Cnoc an Chorrbhaile
 Corbally Lough
 Corbally Wood
 Corbetstown
-Corboley
+Corboley, An Chorrbhuaile
 Corcas and Sandhills
 Corcogemore, Leckavrea Mountain
 Cordoo Lough
-Corduff
+Corduff, An Chorr Dhubh
 Cores Cascade
 Corestable Lake
 Corglass
 Corglass Lough
 Corhawhagh Lough
 Corillan
-Cork City
-Cork Harbour, Cork Bay, Queenstown Harbour
+Cork City, Corcaigh
+Cork Harbour, Cork Bay, Cuan Chorcaí, Queenstown Harbour
 Cork Head
 Cork Lough, Lough of Cork
 Cork Port, Cork Ferry Port
@@ -2603,7 +2603,7 @@ Corker River, Corker
 Corkip Lough
 Corkscrew Hill
 Corlican
-Corlis Point
+Corlis Point, Corrlios
 Corluddy
 Cornacahan Hill
 Cornacarta Lough
@@ -2671,7 +2671,7 @@ Cotts
 Coulagh Bay, Quoylach Bay
 Coum Hill
 Coumaclavane
-Coumaleague Hill
+Coumaleague Hill, Com an Liaigh
 Coumalocha
 Coumanare Lakes
 Coumaraglinmountain
@@ -2684,14 +2684,14 @@ Coumfea
 Coumnagun River, Coumnagun
 Coumshingaun Lough
 Coumtay
-County Carlow, Carlow, Contae Cheatharlach
-County Cork, Cork, Cork County
-County Donegal, Contae Dhún na nGall, Donegal, Tirconaill
-County Galway, Galway
-County Leitrim, Contae Liatroma
-County Limerick, Contae Luimnigh, Limerick
-County Monaghan, Contae Mhuineacháin, Monaghan
-County Tipperary, Contae Thiobraid Árann, Tipperary
+County Carlow, Carlow, Ceatharlach, Contae Cheatharlach
+County Cork, Contae Chorcaí, Corcaigh, Cork, Cork County
+County Donegal, Contae Dhún na nGall, Donegal, Dún na nGall, Tirconaill
+County Galway, Contae na Gaillimhe, Gaillimh, Galway
+County Leitrim, Contae Liatroma, Liatroim
+County Limerick, Contae Luimnigh, Limerick, Luimneach
+County Monaghan, Contae Mhuineacháin, Monaghan, Muineachán
+County Tipperary, Contae Thiobraid Árann, Tiobraid Árann, Tipperary
 County Water
 County Waterford
 Countygate
@@ -2744,7 +2744,7 @@ Creagh
 Cream Point
 Crean
 Crecora
-Creegh River, Creegh
+Creegh River, Abhainn na Críche, Creegh
 Creevagh Head
 Creeve Hill
 Creeve Lakes
@@ -2755,22 +2755,22 @@ Cregg North
 Cregg Point
 Cregg River
 Creggan Lough
-Cregganbeg
+Cregganbeg, An Creagán Beag
 Creggane
 Creggaun
 Crehanagh
 Cretoge
 Cribby Islands
 Crinkill Lough
-Crinnish
+Crinnish, Cruinnis
 Crinny Mountain
 Crishangagh
 Cro Inis
 Croagh
 Croagh Bay
-Croagh Patrick
+Croagh Patrick, Cruach Phádraig
 Croaghacullin
-Croaghacullion
+Croaghacullion, Cruach an Chuillinn
 Croaghadalough
 Croaghaderry
 Croaghan Hill
@@ -2803,18 +2803,18 @@ Croaghnadownies
 Croaghnagapple
 Croaghnagawna
 Croaghnageer
-Croaghnakeela Island
+Croaghnakeela Island, Cruach na Caoile
 Croaghnaleaba
-Croaghnamaddy
+Croaghnamaddy, Cró na Madadh
 Croaghnambrock
 Croaghnanamph
-Croaghnashallog
+Croaghnashallog, Cró na Sealg
 Croaghnasilshiion
 Croaghskearda
 Croaghstraleel
 Croan Rock
 Croase
-Crobally Lower
+Crobally Lower, Cruabhaile Íochtarach
 Crockaclogher
 Crockacoagh
 Crockacuon
@@ -2826,7 +2826,7 @@ Crockalaghta
 Crockalough
 Crockanaffrin
 Crockaneeve
-Crockastoller
+Crockastoller, Cnoc an Stualaire
 Crockatedane
 Crockatee
 Crockaughrim
@@ -2887,8 +2887,8 @@ Crockuna
 Crockunna
 Croghan Hill
 Croghan Lough
-Croghan Mountain, Croghan Mountains
-Croghnut
+Croghan Mountain, Croghan Mountains, Cruachán
+Croghnut, Cruachnait
 Croghtenclogh
 Crohan West
 Crohane
@@ -2899,15 +2899,15 @@ Crohane Wood
 Crohaun
 Crohery Lough
 Crohy Head
-Crohyboyle
-Croke Park
+Crohyboyle, Croich Uí Bhaoill
+Croke Park, Páirc an Chrócaigh
 Crokeragh
 Croloughan Lough
 Crom River, Crom
 Cromaglan Mountain
 Cromane Point
 Cromoge River
-Crompaun River, Crompaun
+Crompaun River, An Crompán, Crompaun
 Cromwell Hill
 Cromwells Sound
 Cronagarn
@@ -2949,11 +2949,11 @@ Crossy Hill
 Crotty's Rock
 Croughaun Hill
 Croughmore
-Croveenananta
-Crovehy
+Croveenananta, Cruach Mhín an Fheannta
+Crovehy, Cró Bheithe
 Crow Head
 Crow Hill
-Crow Island
+Crow Island, An Cró
 Crow River, Crow
 Crow Rock
 Crowagh River, Crowagh
@@ -2963,7 +2963,7 @@ Crowinstown Lough
 Crownarad
 Crowpark
 Cruagh
-Cruagh Mountain
+Cruagh Mountain, Sliabh na Craobhaí
 Cruckaun
 Cruit Island, An Chruit, Oileán na Cruite
 Crumagloun
@@ -2971,7 +2971,7 @@ Crumlin
 Crumlin River
 Crummies Bay
 Crump Island
-Crumpaun River, Crumpaun
+Crumpaun River, Abhainn an Crompain Bhuí, Crumpaun
 Crushea
 Crusheen Point
 Crusline
@@ -3033,7 +3033,7 @@ Cummergorm Glen
 Cummernabarnadarriga Glen
 Cummery Connell
 Cummirk River, Cummirk
-Cunnigar Point
+Cunnigar Point, An Coinigéar
 Cunningham's Lough, Kilrush Lough
 Cupidstownhill
 Curardacrugh
@@ -3082,7 +3082,7 @@ Curraghrothe
 Curraghturk
 Curraglanarley
 Curraglass
-Curragraigue
+Curragraigue, An Chorrghráig
 Curragunneen
 Curraheen
 Curraheen North
@@ -3182,7 +3182,7 @@ Deer Island
 Deer Park
 Deerishal
 Deerpark
-Deerpark Wood
+Deerpark Wood, Páirc na bhFia
 Delehinagh River
 Delour River, Delour
 Delvin River, Delvin
@@ -3200,26 +3200,26 @@ Derragh
 Derrartan Lough
 Derraulin
 Derrcennacno
-Derreen
+Derreen, An Doirín
 Derreen Lough
 Derreen River
 Derreenacrinnig
-Derreenacullig
+Derreenacullig, Doire an Chuilinn
 Derreenadooey Lough
 Derreenaelling
 Derreenard
 Derreenauliff
 Derreenavoggy Lough
-Derreennageeha
+Derreennageeha, Doirín na Gaoithe
 Derreennamackan
 Derreennamucka
-Derreens Island
+Derreens Island, An tOileán Rua
 Derreeny
 Derreskit Lough
 Derriana Lough
 Derrigimlagh Bog
 Derrincullig
-Derrineden
+Derrineden, Doire an Éadain
 Derriniddane
 Derrinlaur
 Derrintaggart Lough
@@ -3240,7 +3240,7 @@ Derrybrisk
 Derrybrock Lough
 Derrycassan Lough
 Derryclancy
-Derryclare
+Derryclare, Binn Doire Chláir
 Derryclare Lough, Derryelare Lough
 Derrycloney
 Derrycrag Wood
@@ -3273,7 +3273,7 @@ Derrylacky River
 Derrylea Bog
 Derrylea Lough
 Derryleary
-Derryloaghan
+Derryloaghan, Doire Luacháin
 Derrylooscaunagh
 Derrylough
 Derrylugga
@@ -3293,7 +3293,7 @@ Derrynaleeka
 Derrynananata Lough
 Derrynane Beach
 Derrynasafagh
-Derrynasaggart Mountains
+Derrynasaggart Mountains, Doire na Sagart
 Derrynasallagh Lough
 Derrynaskeagh
 Derryoughter
@@ -3328,9 +3328,9 @@ Diffagher River, Diffagher
 Diffreen River, Diffreen
 Dingle Bay
 Dingle Harbour
-Dingle Peninsula, Corcaguiney Peninsula, Corkaguiny
+Dingle Peninsula, Corca Dhuibhne, Corcaguiney Peninsula, Corkaguiny
 Dinin River, Dinin
-Dinish
+Dinish, Daighinis
 Dinish Island
 Dirk Bay
 Dirty River, Dirty
@@ -3342,7 +3342,7 @@ Doagh Isle, Doagh Island, Isle of Doagh
 Doctor's Hill
 Dodder
 Doden River, Doden
-Dog Island
+Dog Island, Oileán an Mhadaidh
 Dog's Point
 Doghatouk
 Dogs Bay, Dog Bay
@@ -3356,7 +3356,7 @@ Doleen Harbour
 Dolla
 Dolmen
 Dolmen of the Four Maols
-Dolphins Barn
+Dolphins Barn, An Carnán
 Dominick Street
 Donadea Forest Park
 Donagh, Donaghintraine Point
@@ -3379,10 +3379,10 @@ Dooally River, Dooally
 Dooanmore
 Doobeg Point
 Doobehy Lough
-Doobin
+Doobin, Dúbinn
 Dooega Head
 Dooega River, Dooega
-Dooey
+Dooey, An Dumhaigh
 Dooey Hill
 Dooey Point
 Doogan Lough
@@ -3395,7 +3395,7 @@ Doohyle Lough
 Dooish
 Dooish Mountain
 Doolaig North
-Dooletter
+Dooletter, Dúleitir
 Dooletter Lough
 Doolic Rock, Dhulic, Doolie Rock
 Doolick
@@ -3421,11 +3421,11 @@ Doonawanly
 Doonbeg Bay
 Doonbeg Head
 Doonbeg Lough
-Doonbeg River, Cooraclare River
+Doonbeg River, Abhainn an Dún Bhig, Cooraclare River
 Doonbreedla Mountain
 Doonbristy
 Dooncaha
-Dooncarton, Gleann an Ghad, Glengad, Lengad
+Dooncarton, Dún Ceartáin, Gleann an Ghad, Glengad, Lengad
 Dooneen
 Dooneen Coos
 Dooneen Point
@@ -3461,9 +3461,9 @@ Doucallia
 Douce Mountain
 Dough Mountain
 Doughill Mountain
-Doughmore Bay
+Doughmore Bay, Bá na Duimhche Móire
 Doughruagh, Doaghrue
-Douglas River, Dougals, Douglas
+Douglas River, An Dúghlais, Dougals, Douglas
 Douglasha Stream
 Doulus Bay, Dowlas Bay
 Doulus Head
@@ -3489,7 +3489,7 @@ Drishane More
 Drishane Point
 Droidhedeens
 Drom
-Drom East
+Drom East, An Drom Thoir
 Drom Mullac
 Dromacummer
 Dromalga Park
@@ -3513,7 +3513,7 @@ Dromkeen
 Dromkeen East
 Dromnear
 Dromneavine
-Dromod
+Dromod, An Dromaid
 Dromoghty Lough, Dromochty Lough
 Dromore
 Dromore Head
@@ -3580,7 +3580,7 @@ Drumillard Lough
 Druminagh Wood
 Drumkeelan Lough
 Drumkeery Lough
-Drumlaghdrid Hill
+Drumlaghdrid Hill, Droim Loch Druid
 Drumlaheen Lough
 Drumlane Lough
 Drumlaney Lough
@@ -3626,15 +3626,15 @@ Dublin Harbour
 Dublin Port, Dublin Ferry Port
 Dublin-Ferryport Terminal 1
 Ducalla Head
-Duck Island
+Duck Island, Oileán Lachan
 Duff Hill
 Duff River, Duff
 Duffcarrick Rocks
 Duffery
 Duffur Rock West
 Duffur Rocks
-Duggerna Rock
-Dughile and Coomavanniha
+Duggerna Rock, An Dogairne
+Dughile and Coomavanniha, Duchoill agus Com an Bheannaithe
 Duharrig
 Dumb Lough
 Dun Laoghaire Port, Dun Laoghaire Ferry Port
@@ -3662,7 +3662,7 @@ Dundeady Island
 Duneen Bay
 Dungarvan Harbour, Dungarvan Bay
 Dunglow Bay
-Dunglow Lough
+Dunglow Lough, An Clochán Liath
 Dungooly
 Dungummin Lough
 Duniry River, Duniry
@@ -3681,7 +3681,7 @@ Dunmanus Point
 Dunmoon
 Dunmoran Strand
 Dunmore Bay
-Dunmore Head
+Dunmore Head, An Dún Mór
 Dunmorrisheer
 Dunmurry Hill
 Dunnafreva Lough
@@ -3707,8 +3707,8 @@ Dursey Island
 Dursey Strand
 Duveel Point, Dunveel Point
 Duvglasha River
-Duvillaun Beg
-Duvillaun More, Duvillaun Island
+Duvillaun Beg, Dubhoileán Beag
+Duvillaun More, Dubhoileán Mór, Duvillaun Island
 Duvowen River, Duvowen
 Dyrick
 Dysaghy Rocks
@@ -3717,7 +3717,7 @@ Dysert Marshes
 Dún Laoghaire Harbour, Kingstown Harbour
 Dún Laoghaire-Rathdown
 Eagle Hill
-Eagle Island
+Eagle Island, Oileán sa Tuaidh
 Eagle Point
 Eagle Rock
 Eagle's Nest
@@ -3739,9 +3739,9 @@ East Passage
 East Point
 East Sister, Been-dermot East Sister
 East Tawin
-East Wall
+East Wall, An Port Thoir
 Eastwood
-Eddy Island
+Eddy Island, Oileán Eide
 Eddy Point
 Edenmore
 Edenterriff Lough
@@ -3753,10 +3753,10 @@ Effernan Lough
 Effrinagh Lough
 Eglinton Canal
 Eglish River, Eglish
-Eighter Island
-Eightercua
+Eighter Island, An tÍochtar
+Eightercua, Íochtar Cua
 Eignagh River
-Einlagh, Einagh
+Einlagh, An tAonach, Einagh
 Elfeet Bay
 Elfordstown
 Ellenstown
@@ -3765,11 +3765,11 @@ Elly Harbour
 Elm Hill
 Elmgrove
 Elmroor River, Elmroor
-Emlagh
+Emlagh, An tImleach
 Emlagh Point
 Emlagh River
-Emlaghdreenagh
-Emlaghmore River, Emlaghmore
+Emlaghdreenagh, Imleach Draighneach
+Emlaghmore River, An tImleach Mór, Emlaghmore
 Emy Lough
 Enagh
 Endaghkeeragh Lough
@@ -3780,8 +3780,8 @@ Eonish
 Erindale
 Erkina River, Erkina
 Erriff River, Erriff
-Errigal Mountain
-Erris Head
+Errigal Mountain, An Earagail
+Erris Head, Ceann Iorrais
 Errislannan Point
 Errit Lough
 Erroonagh Bay
@@ -3801,12 +3801,12 @@ Esknamucky Glen
 Esky Bay
 Eslin River, Eslin
 Eve Island
-Evneenmore Island
+Evneenmore Island, An tAibhnín Mór
 Eyeries Island
 Eyeriesbegga
 Eyon Hill
 Eyre Square
-Faha
+Faha, An Fhaiche
 Fahanasoodry
 Faharlagh Lough
 Faher Mountain
@@ -3828,8 +3828,8 @@ Fallas Hill
 Falleennafinoga
 Fallougher
 Falskirt Rock
-Fanad, Fanad Peninsula, Fánaid Peninsula
-Fanad Head, Cionn Fhánada, Fanad Point
+Fanad, Fanad Peninsula, Fánaid, Fánaid Peninsula
+Fanad Head, Cionn Fhánada, Cionn Fhánaide, Fanad Point
 Fananierin
 Fananierin Mountain, Sliabh Fhán an Fhearainn
 Fane River, Fane
@@ -3856,7 +3856,7 @@ Farnoge
 Farrahill Point
 Farran Point
 Farranaleen
-Farranastack
+Farranastack, Fearann an Stacaigh
 Farranbren
 Farranderry
 Farraniaragh Mountain
@@ -3922,7 +3922,7 @@ Fincairn Hill
 Fingal County, Fingal
 Finglas River, Finglas
 Finglasha Stream
-Finish Island
+Finish Island, Fínis
 Finisk River, Finisk
 Finmore Hill
 Finn River, Finn
@@ -3953,11 +3953,11 @@ Flagstaff Hill
 Flat Head
 Flaxfort Head
 Flean Beg
-Flemingstown
+Flemingstown, Baile an Phléamannaigh
 Flughra Hill
 Flurry, Flurry River
 Foal
-Foal Island
+Foal Island, Oileán an Bhromaigh
 Foardal
 Foaty Channel
 Foaty Island
@@ -3994,7 +3994,7 @@ Foilnamuck
 Foilycleara
 Folleesh Lough
 Fomerla Lough
-Foohagh Point
+Foohagh Point, Pointe na Fuathal
 Foot's Islands
 Forehill
 Forelacka
@@ -4032,10 +4032,10 @@ Frazer Bank
 Freagh Hill
 Freaghallaunmore
 Freaghanagh
-Freaghhillaun Beg
+Freaghhillaun Beg, Fraochoileán Beag
 Freaghillan Island, Bilberry Island
 Freaghillanluggagh
-Freaghillaun
+Freaghillaun, Fraochoileán
 Freaghillaun North, North Freaghillaun
 Freaghillaun South
 Freekan Lough
@@ -4047,7 +4047,7 @@ Frenchrurze
 Freshwater Bay
 Friar Island
 Friarhill
-Friars Island
+Friars Island, Oileán na mBráthar
 Friars Lough
 Friarsfield
 Friarsgrange
@@ -4073,11 +4073,11 @@ Gaffanakilka
 Gaffaretcor
 Gaffaretmoyle
 Gageborough River, Gageborough
-Gaghta Island, Gaghty Island
+Gaghta Island, Gaghty Island, Geachta
 Galbally
 Galbooly
 Gales Hill
-Galey River
+Galey River, An Gháile
 Gallanes
 Gallavally
 Galleastown
@@ -4090,13 +4090,13 @@ Gallows Hill
 Galty Mountains, Galtee Mountains
 Galtybeg
 Galtymore Mountain, Galtymore
-Galway Bay
-Galway City, City of Galway
+Galway Bay, Cuan na Gaillimhe
+Galway City, Cathair na Gaillimhe, City of Galway, Gaillimh
 Galway Harbour
-Galwolie Hill
+Galwolie Hill, An Ghallbhuaile
 Ganiamore
 Gannavane
-Gannew Bridge
+Gannew Bridge, An Gaineamh
 Gap of Dunloe
 Gap of Mamore
 Gap of the Wood
@@ -4105,7 +4105,7 @@ Gardamus Well
 Gardenhill
 Gardenrath
 Gardeville
-Gardiner Street
+Gardiner Street, Sráid Ghairdinéir
 Garfinny River, Garfinny
 Garfiny Lough
 Garinish
@@ -4146,7 +4146,7 @@ Garravoone
 Garrenereagh
 Garrigatherne
 Garrigery
-Garrivinnagh
+Garrivinnagh, Gairfean
 Garronabpaher
 Garroose Bridge
 Garryard
@@ -4169,11 +4169,11 @@ Garryntaulagh
 Garryroe
 Garryvadden
 Garryweare
-Gartan Lough
-Garter Hill
+Gartan Lough, Loch Gartáin
+Garter Hill, Cnoc an Ghairtéil
 Garvagh
 Garvagh Lough
-Garvan Isles
+Garvan Isles, An Gharbháin
 Garvanagh Lough
 Garvecarrick
 Garvillaun Point
@@ -4216,7 +4216,7 @@ Glandore Bay, Glandour Bay
 Glandore Harbour
 Glane Great
 Glane Little
-Glanearagh
+Glanearagh, An Gleann Iarthach
 Glanlough
 Glanmore Lake
 Glanmore River, Glanmore
@@ -4255,7 +4255,7 @@ Glaskeeragh Lough
 Glasnagollum Brook
 Glassgorman Banks
 Glasshouse Lake
-Glassillan
+Glassillan, An Glasoileán
 Glassillangaraltagh
 Glassillaun
 Glasthule
@@ -4279,7 +4279,7 @@ Glen River
 Glen of Aherlow
 Glen of Imail, Glen of Imaal
 Glen of the Downs
-Glenaboghill
+Glenaboghill, Gleann na mBuachaill
 Glenaboy River, Glenaboy
 Glenacappul, Glen of the Horse
 Glenacarney
@@ -4294,7 +4294,7 @@ Glenagort
 Glenagragara
 Glenakeelfe River, Glenakeelfe
 Glenaknockaun
-Glenamoy River, Glenamoy
+Glenamoy River, Gleann na Muaidhe, Glenamoy
 Glenanair
 Glenane Hill
 Glenane More
@@ -4321,8 +4321,8 @@ Glencastle Hill
 Glencaw Hill
 Glencloosagh Bay
 Glencoagh Lough
-Glencoaghan River
-Glencoh
+Glencoaghan River, Abhainn Ghleann Chochan
+Glencoh, Glinn Chatha
 Glenconaun
 Glenconnor
 Glencorbry River, Glencorbry
@@ -4356,7 +4356,7 @@ Glengarra Wood
 Glengarriff Harbour, Glengariff Harbour
 Glengarrin River, Glengarrin
 Glengesh Hill
-Glengesh River, Glengesh
+Glengesh River, Gleann Gheis, Glengesh
 Glengoura
 Glenhouse Wood
 Glenicmurrin Lough
@@ -4365,7 +4365,7 @@ Gleninagh River, Gleninagh
 Gleninchinaveigh
 Glenkeel Lough
 Glenlahan River, Glenlahan
-Glenlara
+Glenlara, Gleann Lára
 Glenlara River
 Glenlaur River, Glenlaur
 Glenlicky
@@ -4414,18 +4414,18 @@ Glenthomas River
 Glentogher River, Glentogher
 Glentornan
 Glentornan Lough
-Glentrasna
+Glentrasna, Gleann Trasna
 Glenummera River, Glenummera
 Glenveagh Deer Forest
 Glenveagh National Park
 Glenview
 Glenwilliam
-Glin North
+Glin North, Na Gleannta Thuaidh
 Glinary
-Glinsk
+Glinsk, Glinsce
 Glore River, An Ghleoir
 Glucknanuff
-Go Island
+Go Island, Oileán Ghabha
 Goat Island
 Goat Island Little
 Goat Islands
@@ -4434,7 +4434,7 @@ Goat's Path
 Goats Paw
 Goish River, Goish
 Gokane Point
-Gola Island, Gabla, Gola
+Gola Island, Gabhla, Gabla, Gola
 Golam Head
 Golan Bridge
 Golard Lough
@@ -4520,14 +4520,14 @@ Gortnascarty
 Gortnasillagh
 Gortnaskeagh
 Gortnaskeny
-Gortnatubbrid, Gortnatubbred
+Gortnatubbrid, Gort na Tiobratan, Gortnatubbred
 Gortnavreghan
 Gortnawinny Lough
 Gortroe
 Gortshane West
 Gortstoke
 Gortussa
-Gorumna Island, Gorumna
+Gorumna Island, Garmna, Gorumna
 Gouganebarra Lake
 Gouganeharra Forest Park
 Goulaun River
@@ -4536,7 +4536,7 @@ Gour
 Govern Island
 Gowerhass
 Gowlaa River, Gowlaa
-Gowlan East
+Gowlan East, An Gabhlán Thoir
 Gowlan River, Gowlan
 Gowlane
 Gowlaun
@@ -4580,7 +4580,7 @@ Greagh Lough
 Greaghlone Lough
 Grean Rock
 Greanagh River, Greanagh
-Great Blasket Island
+Great Blasket Island, An Blascaod Mór
 Great Foze Rock
 Great Island
 Great Newtown Head
@@ -4600,7 +4600,7 @@ Greenan Hill
 Greenan Mountain, Grianan of Aileach
 Greenane
 Greenane Islands
-Greenaun
+Greenaun, An Grianán
 Greenhall
 Greenhills
 Greenish Island
@@ -4609,7 +4609,7 @@ Greenoge
 Greenore Point
 Greenville
 Greetlagh
-Greeve Island
+Greeve Island, Oileán na Craoibhe
 Gregory Hill
 Gregory's Sound, Gregory Sound
 Grene Park
@@ -4676,12 +4676,12 @@ Gusserane
 Gweebarra Bay
 Gweebarra River, Gweebarra
 Gweedaney River, Gweedaney
-Gweedore
+Gweedore, Gaoth Dobhair
 Gweedore Bay
 Gweedore Harbour
 Gweedore River
 Gweestin River, Gweestin
-Gweestion River, Gweestion
+Gweestion River, An Ghaoistin, Gweestion
 Hacketts Hill
 Haddington Road
 Hag Island
@@ -4715,7 +4715,7 @@ Heathfield
 Heavenstown
 Heigh
 Hell River, Hell
-Helvick Head
+Helvick Head, Heilbhic
 Hen Island, Hen Rock
 Hermitage
 Hernsbrook
@@ -4730,7 +4730,7 @@ Hill Wood
 Hill of Allen
 Hill of Tara
 Hill of Tara (Temair)
-Hill of Ward
+Hill of Ward, Tlachta
 Hillbrook
 Hog Island
 Hogan's Point
@@ -4755,10 +4755,10 @@ Hook Head
 Hook Point
 Hop Island
 Horetown
-Horn Head, Horn Head Peninsula
+Horn Head, Corrán Binne, Horn Head Peninsula
 Horse
 Horse Hill
-Horse Island
+Horse Island, Oileán an Chapaill, Oileán na gCapall
 Horse Lough
 Horse Rock
 Horse Shoe
@@ -4786,7 +4786,7 @@ Illanavrick
 Illanbaun
 Illanbry
 Illancroagh
-Illancrone
+Illancrone, Oileán Cróna
 Illandavuck
 Illandoorish
 Illane
@@ -4794,22 +4794,22 @@ Illanebeg
 Illanee
 Illanfreach
 Illanleamnahelty
-Illanmaster, Illaunmaistir
+Illanmaster, Illaunmaistir, Oileán Máistir
 Illannaconney
 Illannaglashy
 Illannambraher
 Illanneil
 Illanroe
 Illanulgue
-Illaunaclaggin
+Illaunaclaggin, Oileán an Chloiginn
 Illaunaleama
 Illaunamadan
 Illaunamid, Illaunimmul
 Illaunananima, Live Island
 Illaunanaur
-Illaunaneel
+Illaunaneel, Oileán an Aoil
 Illaunanownim
-Illaunard
+Illaunard, An tOileán Garbh
 Illaunarroghnut
 Illaunawhilla
 Illaunbaun
@@ -4819,26 +4819,26 @@ Illaunbweeheen
 Illaundrane
 Illauneana
 Illauneeragh, Eragh
-Illauneeragh West
+Illauneeragh West, An tOileán Iarthach Thiar
 Illaunglass Rocks
-Illaungorm
+Illaungorm, An tOileán Gorm
 Illaunhobert
 Illaunimmil
 Illaunleagh
 Illaunloo
-Illaunmore
+Illaunmore, An tOileán Mór
 Illaunnabarnagh
 Illaunnacaheragh
 Illaunnacogha
-Illaunnacroagh, Illauncroagh More
+Illaunnacroagh, Illauncroagh More, Oileán na Cruaiche Mór
 Illaunnacusha
-Illaunnagappul
+Illaunnagappul, Oileán na gCapall
 Illaunnamona
 Illaunnaweelaun
-Illaunonearaun
+Illaunonearaun, Oileán an Fhéaráin
 Illaunranhee
 Illaunricmonia
-Illaunroe
+Illaunroe, Na Rua-oileán
 Illaunsillagh
 Illaunslea
 Illaunstookagh
@@ -4846,21 +4846,21 @@ Illauntannig
 Illaunurra
 Illies Hill
 Illinaun Island
-Inagh
+Inagh, Eidhneach
 Inagh River
 Inch
 Inch Island
 Inch Point
-Inch River, Claureen River
+Inch River, Abhainn na hInse, Claureen River
 Inch Top
 Inch Wildfowl Reserve
 Inch beach
 Incha Beg
 Inchabaun
-Inchacommaun Islands
-Inchaghaun
-Inchagoill
-Inchamakinna
+Inchacommaun Islands, Inis Camáin
+Inchaghaun, Inis an Ghainimh
+Inchagoill, Inis an Ghaill
+Inchamakinna, Inse Mic Cionaith
 Inchanaglogh
 Inchavore River, Inchavore
 Inchbeg
@@ -4870,7 +4870,7 @@ Incherky
 Inchicahan Cross Roads
 Inchiclogh
 Inchicronan Lough
-Inchimore
+Inchimore, An Inse Mhór
 Inchinapallas
 Inchinapoagh
 Inchindrisla
@@ -4890,20 +4890,20 @@ Ingard Point
 Inis Bhig, Inishbig
 Inish
 Inishaghod
-Inishal
+Inishal, Inis Saille
 Inishatinny Lough
 Inishbarnog
-Inishbarra
+Inishbarra, Inis Bearachain
 Inishbee
-Inishbeg
-Inishbigger
-Inishbiggle, Innish Biggle
-Inishbofin
+Inishbeg, Inis Beag
+Inishbigger, Inis Bigir
+Inishbiggle, Inis Bigil, Innish Biggle
+Inishbofin, Inis Bó Finne
 Inishbofin Bay
 Inishbollog
 Inishbroon
 Inishconnell
-Inishcoo
+Inishcoo, Inis Cú
 Inishcorker, Inis Corcair
 Inishcorra
 Inishcuill
@@ -4911,41 +4911,41 @@ Inishcullin Hill
 Inishdadroum
 Inishdaff
 Inishdala Islands
-Inishdalla
+Inishdalla, Inis Deala
 Inishdasky
 Inishdaweel
 Inishdawros
 Inishdea
 Inishdegil More
-Inishderry
-Inishdooey
-Inishdoorus
+Inishderry, Inis Doire
+Inishdooey, Oileán Dúiche
+Inishdoorus, Inis Dúrois
 Inishduff
 Inishdugga
-Inisheane
-Inisheer
+Inisheane, Inis Éan
+Inisheer, Inis Oírr
 Inisheher
-Inisheltia
-Inisherk
+Inisheltia, Inis Aillte
+Inisherk, Inis Eirc
 Inishfad
 Inishfarnard, Inis Fearn Ard
 Inishfoyle
 Inishfree Bay
-Inishfree Lower, Inishfree
-Inishfree Upper, Inishfree
+Inishfree Lower, Inis Fraoigh, Inishfree
+Inishfree Upper, Inis Fraoigh, Inishfree
 Inishgalloon
-Inishglora
-Inishgort
+Inishglora, Inis Gluaire
+Inishgort, Inis Goirt
 Inishgowla
 Inishgowla South
 Inishikeelaghmore
-Inishillintry
-Inishinny
-Inishkea North
-Inishkea South
-Inishkeel
+Inishillintry, Inis Oileántraigh
+Inishinny, Inis Sionnaigh
+Inishkea North, Inis Gé Thuaidh
+Inishkea South, Inis Gé Theas
+Inishkeel, Inis Caoil
 Inishkeen
-Inishkeeragh
+Inishkeeragh, Inis Caorach
 Inishkeragh
 Inishlackan
 Inishlaughil
@@ -4954,26 +4954,26 @@ Inishleigh
 Inishloe, Inis Lua
 Inishloy
 Inishlyon
-Inishlyre, Fork Island
+Inishlyre, Fork Island, Inis Laidhre
 Inishmacnaghtan, McNaughton Island
 Inishmacowney, Inishnacowney
 Inishmagrath Island
-Inishman, Inishmaan
+Inishman, Inis Meáin, Inishmaan
 Inishmarry
-Inishmeal
+Inishmeal, Inis Míl
 Inishmean
-Inishmeane
-Inishmicatreer
+Inishmeane, Inis Meáin
+Inishmicatreer, Inis Mhic an Trír
 Inishmolt
-Inishmore, Aran-na-naomh, Aranmore, Innismore
+Inishmore, Aran-na-naomh, Aranmore, Innismore, Árainn
 Inishmuck
 Inishmuck Lough
-Inishmurray
-Inishnabro, Nabro Island
+Inishmurray, Inis Muireadheach
+Inishnabro, Inis na Bró, Nabro Island
 Inishnacross
 Inishnagor
 Inishnakillew
-Inishnee
+Inishnee, Inis Ní
 Inishoo
 Inishowen, Inis Eoghain, Inishowen Peninsula
 Inishowen Head, Dunagree Head
@@ -4981,34 +4981,34 @@ Inishower
 Inishparran
 Inishraher
 Inishshark
-Inishsirrer
+Inishsirrer, Inis Oirthir
 Inishskinny, Inishskinny More, Innishskinnymore
 Inishtemple
-Inishtooskert
-Inishtrahull
+Inishtooskert, Inis Tuaisceart
+Inishtrahull, Inis Trá Tholl
 Inishtrahull Sound
-Inishtravin
-Inishtreh
+Inishtravin, Inis Treabhair
+Inishtreh, Inis Troighe
 Inishtubbrid
-Inishturk, Inishturk South
+Inishturk, Inis Toirc, Inishturk South
 Inishturlin
-Inishvickillane, Vickillane Island
+Inishvickillane, Inis Mhic Aoibhleáin, Vickillane Island
 Inishweela
 Inner Lough
-Innisfallen, Inishfallen
+Innisfallen, Inis Faithlinn, Inishfallen
 Innisfree
 Innislonagh
 Inny River, Inny
 Innygraga
 Inshaboy Point
 Intrinsic Bay
-Inver Bay
+Inver Bay, Inbhear
 Inverbeg Lough
 Invermore Lough
 Invernisk
 Iona Road
 Ionaneea Lake
-Ireland, Ire, Irish Free State, Irish Republic, Republic of Ireland, Saorstát Eireann
+Ireland, Ire, Irish Free State, Irish Republic, Poblacht na hÉireann, Republic of Ireland, Saorstát Eireann, Éire
 Irelands Eye, Inis Mac Neasáin
 Irishtown Park
 Iron Mountains
@@ -5019,7 +5019,7 @@ Island Lake
 Island Lough
 Island More, Ilaanmore Island
 Island River
-Island Roy, Oileán Ruaidh, Oileán an Bhráighe
+Island Roy, Oileán Ruaidh, Oileán an Bhráige, Oileán an Bhráighe
 Island Trairagh
 Islanday
 Islandeady Lough
@@ -5044,14 +5044,14 @@ John's Hill
 Johnduffswood
 Johns River, Johns
 Johnstown
-Johnstown Lough
+Johnstown Lough, Loch Bhaile Eoin
 Jones Knock
 Joyces River, Joyces
 Kame River
 Kanfinalta, Kanfinalta Point
 Keabraugh
 Keadeen Mountain, Céidin
-Keadew Bar
+Keadew Bar, An Céideadh
 Keal Stream
 Kealariddig
 Kealduff River, Kealduff
@@ -5076,7 +5076,7 @@ Keelnagore
 Keeloges
 Keelogyboy
 Keelogyboy Lough
-Keely Island
+Keely Island, Caolaigh
 Keem Strand
 Keenagh River
 Keenheen Lough
@@ -5109,16 +5109,16 @@ Kerry Head Shoal
 Keshcarrigan Lough
 Khakitown
 Kibuacart House
-Kid Island
+Kid Island, Oileán Mionnán
 Kid Island East
 Kiggaul Bay
 Kilbaha
-Kilbaha Bay
+Kilbaha Bay, Bá Chill Bheathach
 Kilballyboy Wood
 Kilballyquilty
 Kilbarry
 Kilbarry Hill
-Kilbeg
+Kilbeg, An Choill Bheag
 Kilbeg Mountain
 Kilberrihert
 Kilboggoon
@@ -5142,7 +5142,7 @@ Kilcarra
 Kilcarroll
 Kilcarroon
 Kilcasey
-Kilcasheen
+Kilcasheen, Cill Caisín
 Kilcatherine Point
 Kilcavan
 Kilcavan Gap
@@ -5159,14 +5159,14 @@ Kilcohan
 Kilcolgan Point
 Kilcolgan River, Duncellin River, Kilcolgan
 Kilcollin
-Kilcolman
+Kilcolman, Cill Cholmáin
 Kilcolman Park
 Kilcoltrim
 Kilcoman
 Kilcommon
 Kilconierin
 Kilconly
-Kilconly Point
+Kilconly Point, Pointe Chill Chonnla
 Kilconne
 Kilconner
 Kilconnor
@@ -5181,7 +5181,7 @@ Kilcorran Lough
 Kilcough
 Kilcounty
 Kilcredaun Head
-Kilcredaun Point, Kilcradan Point, Kilcredan Point
+Kilcredaun Point, Kilcradan Point, Kilcredan Point, Pointe Chill Choradáin
 Kilcronat
 Kilcronatmountain
 Kilcross
@@ -5191,7 +5191,7 @@ Kilcummer Upper
 Kilcummin
 Kilcurry River, Kilcurry
 Kildanoge
-Kildare, Co Kildare, Contae Chill Dara, County Kildare
+Kildare, Cill Dara, Co Kildare, Contae Chill Dara, County Kildare
 Kildavin
 Kildeema River, Kildeema
 Kildermody
@@ -5204,9 +5204,9 @@ Kilduffahoo
 Kileleagh Park
 Kilfarrasy
 Kilfeakle
-Kilfree O'Flynn, Kilfree O'Flyn
+Kilfree O'Flynn, Kilfree O'Flyn, Loch Uí Fhloinn
 Kilgabriel
-Kilgarvan
+Kilgarvan, Cill Gharbháin
 Kilglass
 Kilglass Lough
 Kilgobnet
@@ -5216,7 +5216,7 @@ Kilgrovan
 Kilgullane
 Kiljames
 Kilkeaveragh
-Kilkenny, Cantae Chill Chainnigh, County Kilkenny
+Kilkenny, Cantae Chill Chainnigh, Cill Chainnigh, County Kilkenny
 Kilkennybeg
 Kilkerin Point, Kilkerrin Point
 Kilkerran
@@ -5229,7 +5229,7 @@ Kilknockare
 Kill Hill
 Kill Saint Lawrence
 Killabraher
-Killabuonia, Killabounia
+Killabuonia, Cill Buaine, Killabounia
 Killaclohane Wood
 Killacloran
 Killaclug
@@ -5286,7 +5286,7 @@ Killeagh
 Killeany Bay
 Killeelybeg
 Killeen
-Killeen Mountain
+Killeen Mountain, Na Cillíní
 Killeen Point
 Killeen River
 Killeena
@@ -5322,7 +5322,7 @@ Killmountain
 Killobuaig
 Killoe
 Killonahan
-Killonecaha
+Killonecaha, Cill Ón Chatha
 Killooman Lough
 Killoran North Lough, Killoran Lough
 Killoran River, Killoran
@@ -5342,7 +5342,7 @@ Killurly Commons
 Killusty
 Killy Lough
 Killybandrick Lough
-Killybegs Harbour
+Killybegs Harbour, Na Cealla Beaga
 Killybern Lough
 Killyboley Lough
 Killyfea Lough
@@ -5376,7 +5376,7 @@ Kilmichael
 Kilmichael Point
 Kilminain
 Kilminnin
-Kilmore
+Kilmore, An Choill Mhór
 Kilmore Lake
 Kilmore Lakes
 Kilmore Point, Kilmore Head
@@ -5403,7 +5403,7 @@ Kilnockan Hill
 Kilparteen
 Kilpatrick
 Kilpipe
-Kilroe
+Kilroe, Coill Rua
 Kilronan Mountain
 Kilross
 Kilrossanty
@@ -5433,7 +5433,7 @@ Kindrum Lough
 Kineagh
 Kinereigh, Kinereigh Point
 King Channel
-Kingarrow
+Kingarrow, An Cionn Garbh
 Kings Bay
 Kings Head
 Kings Island
@@ -5458,7 +5458,7 @@ Kinsale Head Gas Field
 Kinsealy
 Kinturk
 Kinure Point
-Kinvarra
+Kinvarra, Cinn Mhara
 Kinvarra Bay
 Kippin Rock
 Kippure, Cipiúre
@@ -5473,7 +5473,7 @@ Knigh Hill
 Knight's Mountain
 Knightsgrove
 Knock Ardagur
-Knock Point, Knock
+Knock Point, An Cnoc, Knock
 Knock River, Knock
 Knocka Lough
 Knockabrocka
@@ -5500,10 +5500,10 @@ Knockacullig
 Knockacummer
 Knockacunog Lough
 Knockacurra
-Knockadaff
+Knockadaff, Cnoc an Daimh
 Knockaderry Reservoir
 Knockadigeen
-Knockadoagh
+Knockadoagh, Cnoc Aduaidh
 Knockadoo
 Knockadoo Lough
 Knockadoon Head
@@ -5527,7 +5527,7 @@ Knockalafalla
 Knockalahara
 Knockalainna
 Knockalisheen
-Knockalla Mountain, Devil's Backbone
+Knockalla Mountain, Cnoc Colbha, Devil's Backbone
 Knockalongy
 Knockalough
 Knockalougha
@@ -5553,7 +5553,7 @@ Knockanerough
 Knockanimpaha
 Knockannavea, Knockannaves
 Knockanora
-Knockanore Mountain, Knockenore
+Knockanore Mountain, Cnoc an Iúir, Knockenore
 Knockanoughanish
 Knockanroger, Knockannoge
 Knockanruddig
@@ -5597,7 +5597,7 @@ Knockaunapeebra
 Knockaunararrig
 Knockaunarast
 Knockaunavoher
-Knockauncarragh
+Knockauncarragh, An Cnocáin Carrach
 Knockauncorragh
 Knockauncoura
 Knockaunkennedy
@@ -5625,7 +5625,7 @@ Knockbaun
 Knockbeg
 Knockbeha Mountain
 Knockboolteenagh
-Knockboy
+Knockboy, An Cnoc Buí
 Knockbrack
 Knockbrandon
 Knockbrinnea
@@ -5722,7 +5722,7 @@ Knocknagornagh
 Knocknagorraveela
 Knocknagowan
 Knocknagower
-Knocknagreana
+Knocknagreana, Cnoc na Gréine
 Knocknagree
 Knocknagullion
 Knocknahaha
@@ -5748,7 +5748,7 @@ Knocknamullagh
 Knocknanacree
 Knocknanagh
 Knocknanask
-Knocknarea
+Knocknarea, Cnoc na Riabh
 Knocknaree
 Knocknasallagh
 Knocknascollop
@@ -5776,7 +5776,7 @@ Knockpatrick
 Knockpatrick Hill
 Knockperry South
 Knockphutteen
-Knockranny
+Knockranny, Cnoc Raithní
 Knockrappalaghaun
 Knockrawer
 Knockreagh
@@ -5863,10 +5863,10 @@ Laghtea
 Laghtea Hill
 Laghtnafrankee
 Laghtseefin
-Lagnagoushee
+Lagnagoushee, Log na Giumhaisí
 Lagnamuck
 Lahakinneen
-Lahan Island, Lahon Island
+Lahan Island, An tOileán Leathan, Lahon Island
 Laharan South
 Lahardaun Lough
 Laheratanvally
@@ -5887,7 +5887,7 @@ Lambs Lough
 Landscape
 Lanehort Point
 Lannagh Lough, Castlebar Lough, Lough Lanach
-Laois, County Laois, Leix, Queen's County
+Laois, Contae Laoighise, Contae Laoise, County Laois, Laoighis, Leix, Queen's County
 Laragh Lough
 Larah River, Larah, River Laragh
 Larch Hill
@@ -5897,8 +5897,8 @@ Larken
 Larkhill
 Lask River, Lask
 Lassaha
-Lateevebeg
-Lateevemore
+Lateevebeg, Leataoibh Beag
+Lateevemore, Leataoibh Mór
 Latteragh
 Lattone Lough
 Lattone River, Lattone
@@ -5927,7 +5927,7 @@ Leam Lough
 Leamabridaun
 Leamacrossan Hill
 Leamalaggart
-Leamareha Island
+Leamareha Island, Léim an Reithe
 Leamawaddro River, Leamawaddro
 Leamlara River, Leamlara
 Leamore Strand
@@ -5946,8 +5946,8 @@ Leganagh Point
 Lehanagh
 Lehid Harbour
 Lehinch
-Leighon Island
-Leinster, Province of Leinster
+Leighon Island, Laidhean
+Leinster, Cúige Laighean, Province of Leinster
 Leipsic
 Leitim East
 Leitrim
@@ -5970,14 +5970,14 @@ Letter Point
 Letter South
 Lettera
 Letteragh
-Letterbrickaun, Letterbreckaun
-Lettercallow
+Letterbrickaun, Leitir Brecáin, Letterbreckaun
+Lettercallow, Leitir Calaidh
 Lettercraffroe Lough, Lettercraffroe
-Lettergunnet
+Lettergunnet, Leitir Gungaid
 Letterkeeghaun
 Letterkelly
 Lettermaghera South, Lettermaghera
-Lettermore
+Lettermore, Leitir Móir
 Lettermore Island
 Letternadarriv
 Lettertrask River
@@ -5998,7 +5998,7 @@ Lightford
 Limateerha
 Limeburner Rock
 Limerick Canal
-Limerick City
+Limerick City, Luimneach
 Limerick City and County Council, Limerick
 Limerick Harbour
 Lingaun River, Lingaun, Linguan River
@@ -6051,7 +6051,7 @@ Lissavourd
 Lisscrow
 Lisselan
 Lissireen
-Lissoughter
+Lissoughter, Lios Uachtair
 Lissycaset
 Lisvarrinane
 Little Arrigle River, Little Arrigate
@@ -6064,7 +6064,7 @@ Little River Maine
 Little Saddle Head
 Little Saltee, North Saltee, Saltee Island Little
 Little Samphire Island
-Little Skellig, Little Skelligs
+Little Skellig, Little Skelligs, Sceilig Bheag
 Little Slaney River, Little Slaney
 Little Sugar Loaf, Cnoc Gilapir
 Littlefish River
@@ -6074,7 +6074,7 @@ Lochcarrig
 Lockagh Lake
 Logan Park
 Logleagh
-Loher
+Loher, An Lóthar
 Lomanagh
 Long Bank
 Long Bohur
@@ -6098,7 +6098,7 @@ Looscaunagh Hill
 Loosky Island
 Lords Harbour
 Lorum
-Lough
+Lough, An Loch
 Lough Abisdedly
 Lough Acanon
 Lough Acapple
@@ -6107,7 +6107,7 @@ Lough Achryane
 Lough Aclearig
 Lough Acloghbolie
 Lough Aclogher
-Lough Aconeera
+Lough Aconeera, Loch Conaortha
 Lough Aconnaun
 Lough Acoose
 Lough Acorrymore
@@ -6115,13 +6115,13 @@ Lough Acrow
 Lough Acummeen
 Lough Adanacleveen
 Lough Adav
-Lough Adeel
+Lough Adeel, Loch na Daoile
 Lough Adeery
 Lough Aderreen
 Lough Aderry
 Lough Adinn
 Lough Adoochro
-Lough Adoon
+Lough Adoon, Loch an Dúin
 Lough Adooraun
 Lough Adorn
 Lough Adreen
@@ -6131,7 +6131,7 @@ Lough Agannive
 Lough Aganny
 Lough Agarrowen
 Lough Agh
-Lough Agher
+Lough Agher, Loch Achair
 Lough Agher River
 Lough Aghvog
 Lough Aglaur
@@ -6161,7 +6161,7 @@ Lough Aluirg
 Lough Amincheen
 Lough Amoneen
 Lough Anaffrin
-Lough Analla
+Lough Analla, Loch nEala
 Lough Ananima
 Lough Anarget
 Lough Anarry
@@ -6181,7 +6181,7 @@ Lough Anooran
 Lough Anoughlacka
 Lough Anscaul
 Lough Antrawer
-Lough Anure
+Lough Anure, Loch an Iúir
 Lough Apheebera
 Lough Aphreaghaun, Lough Aphreagan, Loughapreaghan
 Lough Aportan
@@ -6189,7 +6189,7 @@ Lough Ard
 Lough Arland
 Lough Aroolagh
 Lough Aroshin
-Lough Arrow
+Lough Arrow, Loch Arbhach
 Lough Arubble
 Lough Aslaun
 Lough Astickeen
@@ -6226,14 +6226,14 @@ Lough Avoher
 Lough Avoonane
 Lough Awaddy, Lough A Waddy
 Lough Awalha
-Lough Awee, Lough Awheela
-Lough Bane
+Lough Awee, Loch an Bhuí, Lough Awheela
+Lough Bane, An Loch Bán
 Lough Bane North
 Lough Bane South
 Lough Barderg
 Lough Barfinnihy
 Lough Barnanageeha
-Lough Barra
+Lough Barra, Loch Beara
 Lough Baun
 Lough Bawn
 Lough Beagh, Lough Veagh
@@ -6291,7 +6291,7 @@ Lough Clunnan
 Lough Coghlan
 Lough Coller
 Lough Comeenatrush
-Lough Conn
+Lough Conn, Loch Con
 Lough Connell
 Lough Connor
 Lough Conway
@@ -6304,7 +6304,7 @@ Lough Coomloughra
 Lough Coomnacronia
 Lough Corran
 Lough Corraundahy
-Lough Corrib
+Lough Corrib, Loch Coirib
 Lough Corry, Lough Curry
 Lough Corrynfawy
 Lough Coumeenoughter
@@ -6325,13 +6325,13 @@ Lough Cruttia
 Lough Cuagh
 Lough Cullaun
 Lough Cullaunyheeda
-Lough Cullin
+Lough Cullin, Loch Cuilinn
 Lough Cullydoo
 Lough Cummeenduff
 Lough Cummeennapeasta
 Lough Cummernamuck
 Lough Curra
-Lough Currane, Lough Leeagh
+Lough Currane, Loch Luíoch, Lough Leeagh
 Lough Cutra
 Lough Dagea
 Lough Dahybaun
@@ -6339,7 +6339,7 @@ Lough Dan, Loch Deán
 Lough Darrdun
 Lough Daven
 Lough Deele
-Lough Derg
+Lough Derg, Loch Deirgeirt
 Lough Derravaragh
 Lough Derreenadavodia
 Lough Derryduff
@@ -6368,14 +6368,14 @@ Lough Enoer
 Lough Eorna, Lough Ourna
 Lough Ergooa
 Lough Erhogh
-Lough Errig
+Lough Errig, Loch Eirg
 Lough Eske, Lough Eask
 Lough Fad
 Lough Fadda
 Lough Fawna
 Lough Fea
 Lough Fee
-Lough Feeagh
+Lough Feeagh, Loch Fíoch
 Lough Feeane
 Lough Fergus
 Lough Fern
@@ -6387,21 +6387,21 @@ Lough Firrib
 Lough Fisla
 Lough Forbes
 Lough Formoyle
-Lough Foyle
+Lough Foyle, Loch Feabhail
 Lough Free
 Lough Funshinagh
 Lough Gal
 Lough Gall
 Lough Galluane
 Lough Gannivegil
-Lough Gara
+Lough Gara, Loch Uí Ghadhra
 Lough Garagarry
 Lough Garrive
 Lough Garrow
 Lough Gash
 Lough Geeta
 Lough George, George
-Lough Gill
+Lough Gill, Gile Loch
 Lough Girroga
 Lough Glanlagh More
 Lough Glannatreaghaun
@@ -6434,7 +6434,7 @@ Lough Ierin
 Lough Ilian
 Lough Illauntrasna
 Lough Inagh
-Lough Inch
+Lough Inch, Loch Inse
 Lough Inchin
 Lough Inn
 Lough Inshagh, Insagh
@@ -6446,7 +6446,7 @@ Lough Kay
 Lough Keagh
 Lough Keal
 Lough Keamnacally
-Lough Keel, Keele
+Lough Keel, Keele, Loch Caol
 Lough Keenaun
 Lough Keeran
 Lough Keola
@@ -6497,7 +6497,7 @@ Lough Morenateoran
 Lough Morne
 Lough Mourne
 Lough Moylan
-Lough Muck
+Lough Muck, Loch Muc
 Lough Muilt
 Lough Mulreavy
 Lough Murra
@@ -6565,7 +6565,7 @@ Lough Nagreenan
 Lough Naguroge
 Lough Nahanagan, Loch na hOnchon
 Lough Nahavreygarriva
-Lough Nahelly
+Lough Nahelly, Loch na hOilí
 Lough Nahillion
 Lough Nahinch
 Lough Nahoga
@@ -6576,7 +6576,7 @@ Lough Nalackagh
 Lough Nalacken
 Lough Nalaghan
 Lough Nalawney
-Lough Nalughraman
+Lough Nalughraman, Loch na Luchramán
 Lough Namachree
 Lough Namackan
 Lough Namaddy
@@ -6589,7 +6589,7 @@ Lough Nambrackdarrig
 Lough Nambrackderg
 Lough Nambrackkeagh
 Lough Nambrackmore
-Lough Nambraddan
+Lough Nambraddan, Loch na mBradán
 Lough Nambrock
 Lough Nameeltoge
 Lough Naminn
@@ -6664,7 +6664,7 @@ Lough Rannaghaun
 Lough Rea
 Lough Reagh
 Lough Reane
-Lough Ree
+Lough Ree, Loch Rí
 Lough Reelan
 Lough Rhue
 Lough Roe
@@ -6676,7 +6676,7 @@ Lough Rusheen
 Lough Rushen
 Lough Sallagh
 Lough Sallagher
-Lough Salt
+Lough Salt, Loch Sálta
 Lough Scannive
 Lough Scorrew
 Lough Scur, Lough Seur
@@ -6699,7 +6699,7 @@ Lough Sluvnagh
 Lough Stirkeen
 Lough Strand
 Lough Sunderlin, Lough Sewdy
-Lough Swilly, The Lake of Shadows
+Lough Swilly, Loch Súilí, The Lake of Shadows
 Lough Tacker
 Lough Talt
 Lough Talt River
@@ -6856,9 +6856,9 @@ Maghera Lough
 Maghera River
 Magherabaun
 Magherabeg
-Magheracloigh
+Magheracloigh, Machaire an Chlaí
 Magherarny Lough
-Magheraroarty Mountain
+Magheraroarty Mountain, Sliabh Mhachaire Uí Rabhartaigh
 Maghery Bay
 Magowry
 Magrath Loughs
@@ -6874,7 +6874,7 @@ Malahide Inlet, Broad Meadow Water Estuary
 Malahide Point
 Malin Bay
 Malin Beg Head
-Malin Head, Mhálanna Cionn
+Malin Head, Cionn Mhálanna, Mhálanna Cionn
 Malin More Head, Teelin Head
 Mall Hill
 Mall Point
@@ -6907,12 +6907,12 @@ Marshalstown
 Martinstown
 Mary Ville
 Masatiompan
-Mason Island
+Mason Island, Oileán Máisean
 Mass Mount
 Massy's Hill
 Masterstown
 Matthew's Rock
-Mattle Island
+Mattle Island, Oileán an Mhatail
 Mattock River, Mattock
 Maudlin
 Maughanaclea Hills
@@ -6931,15 +6931,15 @@ Maum
 Maumakeogh
 Maumeen Lough
 Maumlack
-Maumnaman
-Maumtrasna
+Maumnaman, Mám na mBan
+Maumtrasna, Mám Trasna
 Maumturk Mountains, Mamturk Mountains
 Maumykelly
 May Park
 Mayfield
 Mayne Estuary
 Mayo
-Mayo County, County Mayo
+Mayo County, Contae Mhaigh Eo, County Mayo
 Mayo Memorial Peace Park
 McSwyne's Gun
 McSwynes Bay, McSwyne Bay
@@ -6956,16 +6956,16 @@ Meeleen
 Meelgarrow
 Meelick Lough
 Meelin Hill
-Meenaboll Hill
-Meenabollagan Hill
-Meenacharvy Hill
-Meenadreen
+Meenaboll Hill, Mín na bPoll
+Meenabollagan Hill, Mín na bPollagán
+Meenacharvy Hill, Mín an Chearrbhaigh
+Meenadreen, Mín an Draighin
 Meenaglagh
 Meenagraun Lough
 Meenagrillagh Hill
 Meenaguse Lough
 Meenagushoge Hill
-Meenalargan Hill
+Meenalargan Hill, Mín an Leargáin
 Meenalughoge Hill
 Meenbannad Lough
 Meenbannivane
@@ -7016,7 +7016,7 @@ Milltown Lake
 Milltown Lough
 Milltown River
 Milltownbritton
-Minard Head
+Minard Head, An Mhin Aird
 Mine Head
 Mine River
 Mine View
@@ -7026,14 +7026,14 @@ Minorstown
 Mintiaghs Lough
 Miranekeal
 Miskish Mountain
-Mizen Head
+Mizen Head, Ard an Fhéaraigh
 Moanaha Glen
 Moanamanagh
 Moanavoggaun
 Moanbane, Móin Bhán
-Moanbrack
+Moanbrack, An Mhóin Bhreac
 Moanlaur
-Moanmore, Moanmore Cottage
+Moanmore, An Mhóin Mhór, Moanmore Cottage
 Moanmore Lough
 Moanroe
 Moanyarha
@@ -7054,7 +7054,7 @@ Monagarrow
 Monagear
 Monaglogh
 Monagoun
-Monagoush
+Monagoush, Móin an Ghiumhais
 Monagreany
 Monaineha Bog
 Monalahy
@@ -7062,16 +7062,16 @@ Monalean Lough
 Monalee Hill
 Monaleehill
 Monalty Lough
-Monameean
+Monameean, Móin na mBian
 Monamin
 Monaminane
 Monamintra
 Monamolin
-Monamraher
+Monamraher, Móin na mBráthar
 Monananig
 Monanore
 Monard
-Monaree
+Monaree, Móin an Fhraoigh
 Monarud
 Monasilloge
 Monasootagh
@@ -7083,7 +7083,7 @@ Monavuaga River, Monavuaga
 Monavullagh Mountains
 Monbay
 Mondella Park
-Moneen
+Moneen, Móinín
 Moneen Lough
 Moneen Mountain
 Moneenroe
@@ -7119,7 +7119,7 @@ Mooney's Bridge
 Moonveen
 Moorabbey Hill
 Moorbrook
-Moore Bay, Kilkee Bay
+Moore Bay, Bá Chill Chaoi, Kilkee Bay
 Mooreshill
 Moorestown
 Moreagh
@@ -7146,7 +7146,7 @@ Mount Dalton Lough, Mount Dalton
 Mount Eagle
 Mount Eagle Lough
 Mount Emla
-Mount Errisbeg, Errisbeg
+Mount Errisbeg, Errisbeg, Iorras Beag
 Mount Foley
 Mount Gabriel, Gabriel's Mount
 Mount Gunner
@@ -7188,7 +7188,7 @@ Moveen Bay
 Moveen Hill
 Moyadda
 Moyasta Point
-Moybella North, Moybella
+Moybella North, Maigh Bile Thuaidh, Moybella
 Moycarky
 Moyduff Lough
 Moyglass
@@ -7216,7 +7216,7 @@ Muckalee
 Muckalee River
 Muckanagh Lough
 Muckanaght, Muckanacht
-Muckareaghederdauhaulia
+Muckareaghederdauhaulia, Muiceanach idir Dhá Sháile
 Muckelty Hill
 Muckera
 Muckinish
@@ -7243,11 +7243,11 @@ Muingacree
 Muinganear
 Muingaphuca
 Muingerroon Island
-Muingnabo River, Muingnabo
+Muingnabo River, Moing na Bó, Muingnabo
 Muingnahalloona
 Muingnaminnane
 Muingnanarnad
-Muingydowda
+Muingydowda, Moing Uí Dhúda
 Muingyroogeen
 Mulkear River, Mulkear
 Mulkeir River, Mulkeir
@@ -7289,13 +7289,13 @@ Mullasawny
 Mullaun
 Mullenaboree
 Mullenbeg
-Mullet Peninsula, Erris Peninsula, Mullet, Mullet Island
+Mullet Peninsula, Erris Peninsula, Leithinis an Mhuirthead, Mullet, Mullet Island
 Mullinacuff
-Mullingar
+Mullingar, An Muileann gCearr
 Mulllagh
 Mullyash Mountain
 Mullyoo
-Mulmosog Mountain
+Mulmosog Mountain, Maol Mosóg
 Mulnanaff
 Mulrankin
 Mulroy Bay
@@ -7305,15 +7305,15 @@ Munakill Loughs
 Mungacullin
 Mungan
 Munginacody
-Munhin River, Munhin
+Munhin River, An Mhuinchinn, Munhin
 Munnane
-Munster, Mumha, Province of Munster
+Munster, Cúige Mumhan, Mumha, Province of Munster
 Munster River
 Murglash River, Murglash
 Murher
 Murhy
 Murles Point
-Murren Hill
+Murren Hill, An Mhoirinn
 Murrevagh River, Murrevagh
 Murrisk Strand
 Murroch's Rock
@@ -7321,18 +7321,18 @@ Mushera
 Musherabeg
 Musheramore
 Muskeagh
-Muskerry Island, Inishmuskerry
+Muskerry Island, Inis Múscraí, Inishmuskerry
 Mussel Point
 Mutton Island
-Mweelahorna
+Mweelahorna, Maoil an Choirnigh
 Mweelaun Island
 Mweelaun Point
 Mweelin
 Mweelin Lough
 Mweeloon Bay
-Mweelrea, Muilrea
+Mweelrea, Cnoc Maol Réidh, Muilrea
 Mweenish Bay
-Mweenish Island
+Mweenish Island, Maínis
 Mweenisharan
 Mylerspark
 Myrtleville Bay
@@ -7355,7 +7355,7 @@ Needhams Lough
 Neigham
 Neillstown Park
 Nenagh River
-Nephin
+Nephin, Neifinn
 Nephin Beg Range, Nephin Beg
 New Abbey
 New Bay
@@ -7375,8 +7375,8 @@ Newmannin
 Newpark Lough
 Newport
 Newport Bay
-Newport River, Beltra
-Newtown
+Newport River, Abhainn na Daraí Duibhe, Beltra, Owennadarrydivva
+Newtown, An Baile Nua
 Newtown Hill
 Newtown Lough
 Newtown River
@@ -7391,7 +7391,7 @@ Noineenboy Point
 Noon Hill, Neon Hill
 North Arran Sound
 North Bay
-North Bull Island, An Bulla Thuaidh, Bull Island
+North Bull Island, An Bulla Thuaidh, Bull Island, Qileán an Bhulla
 North Channel
 North Channel Great Island
 North Harbour
@@ -7434,7 +7434,7 @@ Oldgrange
 Oldtown
 Oldtown Bay
 Ollatrim River
-Omey Island
+Omey Island, Lomaidh
 Ominey River, Ominey
 One Man's Pass
 Oogheam
@@ -7462,7 +7462,7 @@ Oulartleigh
 Oulartwick
 Outeragh
 Ouveg River, Ouveg
-Ow River
+Ow River, An Abha
 Owbaun River
 Owbeg River, Owbeg
 Owen River, Owen
@@ -7486,7 +7486,7 @@ Owenboliskey River, Owenboliskey
 Owenboy
 Owenboy Burn
 Owenboy River
-Owenbrin River, Owenbrin
+Owenbrin River, Abhainn Bhrain, Owenbrin
 Owencam River, Owencam
 Owencarrow River, Owencarrow
 Owencashla River, Owencashla
@@ -7494,7 +7494,7 @@ Owendalulleegh River, Owendalulleegh
 Owendoher River, Owendoher
 Owendoo River, Owendoo
 Owendoon
-Owenduff River, Owenduff
+Owenduff River, An Abhainn Dubh, Owenduff
 Owenea Estuary
 Owenea Lough
 Owenea River, Owenea
@@ -7502,16 +7502,16 @@ Owenerk River, Owenerk
 Owengar River, Owengar
 Owengarriff River, Owengarriff, Torc
 Owengarve Lough, Owengarve
-Owengarve River, Coarse River, Owengarve
+Owengarve River, An Abhainn Gharbh, Coarse River, Owengarve
 Owenglin River
-Owengowla
+Owengowla, Abhainn Ghabhla
 Oweniny River, Oweniny
 Owenkeagh River
 Owenkeal River, Owenkeal
 Owenkillew River, Owenkillew
 Owenlobnaglaur River
 Owenminna River, Owenminna
-Owenmore River, Owenmore
+Owenmore River, An Abhainn Mhór, Owenmore
 Owennabrockagh River, Owennabrockagh
 Owennacurra River, Owennacurra
 Owennafeana River, Owennafeana
@@ -7526,14 +7526,14 @@ Owensallagh River, Owensallagh
 Owenshagh River, Owenshagh
 Owenslieve River, Owenslieve
 Owentaraglin River, Owentaraglin
-Owenteskiny Hill
+Owenteskiny Hill, Abhainn tSeiscinne
 Owenteskiny River, Owenteskiny
 Owentocker River, Owentocher River, Owentocker
 Owenur River, Owenur
 Owenwee River, Owenwee
 Owenykeevan, Tawnanaddoo
 Owenykeevan River
-Owey Island
+Owey Island, Uaigh
 Owey Sound
 Owgarriff River, Ougarriff, Owgarriff
 Ownahincha
@@ -7594,7 +7594,7 @@ Pickering Forest
 Pickle Point
 Piedmont
 Piercetown
-Pig Island
+Pig Island, Oileán na Muice
 Pigeon Cove
 Pigeon House Harbour, Pigeon Harbour
 Pigeon Point
@@ -7610,7 +7610,7 @@ Pointagare
 Pointanskoh
 Polianeghbrick
 Poll
-Pollacappul
+Pollacappul, Poll an Chapaill
 Pollacappul Lough
 Pollacappul North
 Pollacheeny Harbour
@@ -7631,11 +7631,11 @@ Pollboy
 Pollboy Lough
 Polldoo Hill
 Pollduff
-Polleeny
+Polleeny, Na Poillíní
 Pollena
 Pollerton
 Pollmounty River, Pollmounty
-Pollnaclogha
+Pollnaclogha, Poll na Cloiche
 Pollnaranny
 Pollnashantinny
 Pollock Rock
@@ -7707,7 +7707,7 @@ Poulnacallee Bay
 Poulnacidlee
 Poulnaclogh Bay
 Poulnagunoge
-Poulnasherry Bay
+Poulnasherry Bay, Poll na nOisrí
 Poulpeasly
 Poulsallagh
 Poultallin Point
@@ -7730,16 +7730,16 @@ Priests Leap
 Prince Williams Seat, Prince William Seat
 Prince of Wales Rock
 Priorstown
-Priorswood
+Priorswood, Coill an Phrióra
 Prite's Lot
-Pro Cathedral, Saint Mary's Pro-Cathedral
+Pro Cathedral, Leas-Ardeaglais Naomh Muire, Saint Mary's Pro-Cathedral
 Propage
 Prospect
 Prospect Hill
 Prospect Lough
 Prospect Point
 Prostestant Hill
-Puffin Island
+Puffin Island, Oileán na gCánóg
 Puffin Sound
 Puitestown
 Pulleen Bay
@@ -7762,7 +7762,7 @@ Quinagh
 Quintagh
 Quitrentmountain
 Quivvy Lough
-Rabbit Island
+Rabbit Island, Oileán na gCoiníní
 Rabbit Islands
 Radestown
 Rafinny Lough
@@ -7791,7 +7791,7 @@ Raheennahoon Hill
 Raheenroche
 Raheevarrren
 Rahis Point
-Rahona
+Rahona, Ráth Úna
 Railyard
 Raish
 Ralish
@@ -7813,10 +7813,10 @@ Rashin Point
 Raspberry hill
 Rat Island
 Rath
-Rath Hill
+Rath Hill, Cnoc na Ráithe
 Rath Lough
 Rathard
-Rathavisteen
+Rathavisteen, Ráth Aibhistín
 Rathbane
 Rathbeg
 Rathbeggan Lakes
@@ -7846,7 +7846,7 @@ Rathfran Bay
 Rathgall
 Rathgarogue
 Rathgarry
-Rathgaskig, Rathgaslig
+Rathgaskig, Rathgaslig, Ráth Ghaiscígh
 Rathgeean
 Rathgire
 Rathhane
@@ -7856,7 +7856,7 @@ Rathkeevin
 Rathkennan
 Rathkyle
 Rathlee Head
-Rathlin O'Birne Island
+Rathlin O'Birne Island, Reachlainn Uí Bhirn
 Rathluby Lough
 Rathmacullig
 Rathmaiden
@@ -7895,7 +7895,7 @@ Ray's Island
 Rea
 Reagrellagh
 Reanaboola
-Reanaclogheen, Reanadogheen
+Reanaclogheen, Reanadogheen, Ré na gCloichín
 Reanadampaun Commons
 Reanagishagh
 Reanasallagh
@@ -7903,7 +7903,7 @@ Reanduff
 Reanies Bay, Jordans Bay
 Reanies Point
 Rearahinagh
-Recess River, Recess
+Recess River, Recess, Sraith Salach
 Red Bank
 Red Bog
 Red Burn Bridge
@@ -7923,8 +7923,8 @@ Reenadrolaun Point
 Reenard Point
 Reenavanna
 Reenbeg Point
-Reenconnell
-Reenearagh
+Reenconnell, Rinn Chonaill
+Reenearagh, An Rinn Iarthach
 Reenmore Point
 Reennafardarrig
 Reennagough Point
@@ -7964,7 +7964,7 @@ Rinealon Point
 Rineanna
 Rineanna Point, Rynany Point
 Rinekirk Point
-Rinevella Bay
+Rinevella Bay, Bá Rinn Bhile
 Rineville
 Ring Harbour
 Ring Head
@@ -8013,7 +8013,7 @@ River Bann, Bann
 River Barra, Barra
 River Barrow, Barrow
 River Behy, Behy
-River Blackwater, Blackwater
+River Blackwater, An Abhainn Dubh, Blackwater
 River Boor, Boor
 River Boyne
 River Brick, Brick
@@ -8025,18 +8025,18 @@ River Clare
 River Corrib, Corrib
 River Dalua, Dalua
 River Dee, Dee
-River Deel, Deel, River Dale, River Deal
+River Deel, An Daoil, Deel, River Dale, River Deal
 River Dodder
 River Douglas, Douglas
 River Duag, Duag
 River Erne
 River Eske, Eask River, Eske, Lower Eske, Upper Eske
-River Feale
+River Feale, An Fhéil
 River Fergus, Fergus
 River Ferta, Ferta
 River Finn, Finn
 River Flesk, Flesk
-River Foyle, Foyle
+River Foyle, An Feabhal, Foyle
 River Funshion, Funshion
 River Garvogue, Garvogue River
 River Glasha, Glasha
@@ -8067,7 +8067,7 @@ River Nore, Nore
 River Ogeen, Ogeen
 River Riffey, Riffey
 River Scarriff, Scarriff
-River Shannon
+River Shannon, An tSionainn
 River Slaney, Slaney
 River Sow, Sow
 River Suck, Suck
@@ -8101,7 +8101,7 @@ Rock View
 Rock of Bundoran
 Rock of Cashel
 Rock of the Devils
-Rockabill
+Rockabill, Carraig Dábhiolla, Cloch Dábhiolla
 Rockbrook
 Rockfield
 Rockfield Lough
@@ -8111,17 +8111,17 @@ Rocking Stone
 Rockland
 Rockmore
 Rockstown Harbour
-Rocky Island
+Rocky Island, Oileán Cathail
 Roddenagh Wood
 Rodger's Rock
 Roe Island
 Roegil
-Roeillan
-Roeillaun
+Roeillan, Rua-oileán
+Roeillaun, Rua-oileán
 Roenacoragh
 Rogerstown Inlet
 Roheen
-Rolestown, Rowlestown
+Rolestown, Baile Róil, Rowlestown
 Roman Island
 Roney Point
 Roney Rock
@@ -8130,7 +8130,7 @@ Roonah Lough
 Rooney's Island
 Rooskagh
 Roosky Lough
-Roosky River
+Roosky River, Abhainn Ruscaí
 Rosahane
 Rosahane Bridge
 Rosbane
@@ -8139,7 +8139,7 @@ Roscahill Point
 Roscam Point
 Roscat
 Rosclave Channel
-Roscommon, Contae Ros Comáin, County Roscommon
+Roscommon, Contae Ros Comáin, County Roscommon, Ros Comáin
 Roscon
 Roscullen Point
 Roscurra Wood
@@ -8148,7 +8148,7 @@ Rose Ville
 Roseville
 Rosfriar Point
 Rosgibbileen Point
-Rosguill, Rosguill Peninsula
+Rosguill, Ros Goill, Rosguill Peninsula
 Roshin Lough
 Roskeeragh Point, Rosceeragh Point, Rosskeeragh Point
 Roslynagh
@@ -8204,7 +8204,7 @@ Rossroe Island
 Rosss Point
 Rosstemple
 Rossyvera
-Rotten Island
+Rotten Island, An tOileán Bréan
 Rough Point
 Roughan Hill
 Roughty River, Roughty
@@ -8222,16 +8222,16 @@ Rubble Lough
 Rubonid Point
 Rue Point, Bankmore Point
 Ruppulagh
-Rush
+Rush, An Ro
 Rusheen
 Rusheen Island
-Rushennamanagh
+Rushennamanagh, Roisín na Mainiach
 Rushes
 Rusk Bank
 Rusk Channel
 Russellstown
 Ruthstown
-Rutland Island
+Rutland Island, Inis Mhic an Doirn
 Ryan's Point
 Rye Water, An Ri
 Ryne Point
@@ -8252,7 +8252,7 @@ Saint John's Point
 Saint Johns Lough
 Saint Johns Rock
 Saint Lawrence
-Saint Macdaras Island, Macdara
+Saint Macdaras Island, Cruach na Cara, Macdara
 Saint Mullins
 Saint Olan's
 Saint Oswald's
@@ -8280,7 +8280,7 @@ Sally Gap, Sully Gap
 Sally's Lough
 Sallypark
 Salt Lake
-Saltee Islands
+Saltee Islands, Na Sailtí
 Salthouse Point
 Saltpan Bay
 Samphire Island, Great Samphire Island
@@ -8298,7 +8298,7 @@ Sandycove Point
 Sandymount
 Sandymount Strand
 Sarsfield's Screens
-Sauce Creek
+Sauce Creek, An Sás
 Scalp
 Scalp Mountain
 Scalpeen Rock
@@ -8312,8 +8312,8 @@ Scarriff Bay, Scariff Bay
 Scart
 Scart Upper
 Scartnaglorane
-Scattery Island
-Scattery Roads
+Scattery Island, Inis Cathaigh
+Scattery Roads, Ród Inis Cathaigh
 Scilly Island
 Scobaun
 Scoh Point
@@ -8327,7 +8327,7 @@ Scotsmans Bay
 Scotty's Hill
 Scraggane Bay
 Scrahan
-Scrahans
+Scrahans, An Screathan
 Scraigs
 Scraliannagaur
 Scramore Loughs
@@ -8376,7 +8376,7 @@ Shaddan
 Shaking Rock
 Shallee River, Shallee
 Shallee Upper & Lower
-Shalloganbeg
+Shalloganbeg, An Sealgán Beag
 Shalwy Point
 Shammer Lough
 Shanaballyduff
@@ -8395,7 +8395,7 @@ Shanavoota
 Shanavougha
 Shanaway
 Shanaway East
-Shanbally
+Shanbally, An Seanbhaile
 Shanbally River
 Shanballyanne
 Shanballybaun Lough
@@ -8410,9 +8410,9 @@ Shankill River
 Shannadullaghaun Lough
 Shannagh Lough
 Shannaghree Lough
-Shannagurraun
+Shannagurraun, Seanadh Gharráin
 Shannakea
-Shannawona, Shanaroona
+Shannawona, Seanabhán, Shanaroona
 Shannawona Lough
 Shannonvale
 Shannonville
@@ -8446,7 +8446,7 @@ Sheela Point
 Sheelane Island
 Sheen River, Sheen
 Sheenmore
-Sheep Haven
+Sheep Haven, Cuan na gCaorach
 Sheep Hill
 Sheep Island
 Sheep River, Sheep
@@ -8457,7 +8457,7 @@ Shehy Mountain
 Sheilstown
 Shelmaliere Common
 Shenicks Island
-Sherkin Island, Inisherkin
+Sherkin Island, Inis Arcáin, Inisherkin
 Sherkin Point
 Sherky Island
 Shernagh Stream
@@ -8483,7 +8483,7 @@ Shronahiree
 Shrone Hill
 Shronecan Point
 Shronedarragh
-Shronowen Bog
+Shronowen Bog, Móin Srón Abhann
 Shrule
 Sigginstown Islands
 Sillahertane
@@ -8514,8 +8514,8 @@ Skeheen Mountain
 Skeheenaranky
 Skehil
 Skellig
-Skellig Islands, Skellig Rocks, Skelling Rocks, The Skelligs
-Skellig Michael, Great Skellig
+Skellig Islands, Na Scealaga, Skellig Rocks, Skelling Rocks, The Skelligs
+Skellig Michael, Great Skellig, Sceilig Mhichíl, Sceilig Mhór
 Skelp
 Skelpoonagh Bay
 Skenakilla
@@ -8560,27 +8560,27 @@ Slieve Dart
 Slieve Elva
 Slieve Foye
 Slieve Fyagh
-Slieve Gamph, Ox Mountains
+Slieve Gamph, Ox Mountains, Sliabh Gamh
 Slieve Glah
 Slieve Gullion
-Slieve League, Slieve Leag, Slieve Liag
+Slieve League, Sliabh Liag, Slieve Leag, Slieve Liag
 Slieve Maan
 Slieve Main
 Slieve Mish Mountains
 Slieve Miskish Mountains
 Slieve Rushen
-Slieve Snaght
-Slieve na Calliagh, Hag's Hill, Old Woman's Hill
+Slieve Snaght, Sliabh Sneachta
+Slieve na Calliagh, Hag's Hill, Old Woman's Hill, Sliabh na Caillí
 Slieveacurry
 Slieveanard
-Slieveaneena Lough
+Slieveaneena Lough, Loch Sliabh an Aonaigh
 Slieveardagh Hills, Slievardagh Region
 Slievebane Bay
 Slievebawn
 Slievebeg
 Slieveboy
 Slieveboy Lower
-Slieveboy Mountain
+Slieveboy Mountain, An Sliabh Buí
 Slieveboy Upper
 Slievebrickan
 Slievecahill
@@ -8595,12 +8595,12 @@ Slievedonagh
 Slievedotia
 Slievefelim Mountains
 Slievefoore
-Slieveglass
+Slieveglass, An Sliabh Glas
 Slievegower
 Slievegrin Hill
 Slievekeeragh
 Slievekimalta, Keeper Hill
-Slievemore
+Slievemore, An Sliabh Mór
 Slievemore Point
 Slievemweel
 Slievenabawnoge, Sliabh na nBánóg
@@ -8616,7 +8616,7 @@ Slievenlooney
 Slieveowen
 Slievereagh
 Slievetooey
-Sligo, Contae Shligigh, County Sligo
+Sligo, Contae Shligigh, County Sligo, Sligeach
 Sligo Bay
 Sligo Harbour
 Slippery Island
@@ -8657,12 +8657,12 @@ Sovereign Islands
 Spa Hill
 Spa Islands
 Spa Mount
-Spaddagh River
+Spaddagh River, An Spadach
 Spahill
-Spanish Island
+Spanish Island, Inis Píc
 Spanish Point
 Spencer Dock
-Spike Island
+Spike Island, Inis Píc
 Spinans Hill
 Spink
 Spinkadoon
@@ -8749,7 +8749,7 @@ Streamstown Bay
 Streedagh Point
 Streek Head
 Strickeen
-Stroangibbagh
+Stroangibbagh, An Sruthán Giobach
 Strogue
 Stump Hill
 Stump of the Castle
@@ -8801,7 +8801,7 @@ Tangaveane Hill
 Tankardstown
 Tanners Water
 Tanregee Hill
-Tara Hill
+Tara Hill, Torrchoill
 Tarbert Island
 Tarbert Race
 Tarmon
@@ -8827,7 +8827,7 @@ Tawnyard Lough
 Tawnybeg
 Tawnynaboll
 Tayto Park
-Tearaght Island, Inishtearaght, Inishteraght
+Tearaght Island, An Tiaracht, Inishtearaght, Inishteraght
 Tedagh
 Teelin Bay, Teelin Harbour
 Teereen Lough
@@ -8858,7 +8858,7 @@ Templeusque
 Templevanny Lough
 Tents Lough
 Tercheen
-Termon
+Termon, An Tearmann
 Termon Hill
 Termon Point
 Termon River
@@ -8923,11 +8923,11 @@ The Punchbowl
 The Raven Point
 The Ravens Rock
 The Rock
-The Rosses
+The Rosses, Na Rosa
 The Round Ball
 The Round Mountain
 The Scalp, An Scailp
-The Seven Hogs, Magharee Islands
+The Seven Hogs, Magharee Islands, Na Machairí
 The Seven Stars
 The Smiths
 The Sound
@@ -8960,11 +8960,11 @@ Tibbotstown
 Tibradden Mountain, Sliabh Theach Breatan
 Ticlash
 Tievaleny Lough
-Tievealehid
+Tievealehid, Taobh an Leithid
 Tievebaun
 Tievebrack
 Tievecloghoge Mountains
-Tievedeevan Hill
+Tievedeevan Hill, An Taobh Díomhaoin
 Tievegarriff
 Tieveragh
 Tikerlemin
@@ -9034,7 +9034,7 @@ Tonaghmore
 Tonakeera Point
 Tonaknick Point
 Tonaponra
-Tonatanvally
+Tonatanvally, Tóin an tSeanbhaile
 Tonatora
 Tonbaun Wood
 Toncroaghaun
@@ -9059,7 +9059,7 @@ Tooraleagan
 Tooranarahean
 Toorane Rocks
 Toorboy Mountain, Sliabh an Tuair Bhul
-Tooreen
+Tooreen, An Tuairín
 Tooreenboy Lough
 Tooreenclassagh
 Tooreenmanus
@@ -9074,13 +9074,13 @@ Toralaydan Island
 Torc Cascade, Tore Cascade
 Torc Mountain
 Torehane
-Tormore
-Tormore Island
+Tormore, An Tor Mór
+Tormore Island, An Tor Mór
 Tornadoon
 Torneady Point, Tornado Point
 Torreenfineen
 Tory Hill
-Tory Island
+Tory Island, Toraigh
 Tory Sound
 Tountinna
 Toureen
@@ -9119,7 +9119,7 @@ Trawmore Sand
 Treanfohanaun
 Treangarra
 Treanmore
-Tremblestown River, Tremblestown
+Tremblestown River, Abhainn Bhaile Thromléid, Tremblestown
 Tremone Bay
 Trenchmore
 Triangle Lake
@@ -9127,7 +9127,7 @@ Trimoge River
 Trinity Island
 Triogue River, Tiogue River, Triogue
 Triskmore Mountain
-Tristia
+Tristia, Troiste
 Trooper's Hill
 Trooperstown Hill, Maoilin
 Trough River, Trough
@@ -9140,14 +9140,14 @@ Trusk More
 Truska Lough
 Trusklieve
 Truskmore
-Trusky
+Trusky, Troscaigh
 Tuam Island
 Tubbrid
 Tuckamine
 Tuckers Lough
 Tulla
 Tullabards
-Tullabrack
+Tullabrack, An Tulaigh Bhreac
 Tullabrack Lough
 Tullagh
 Tullagh Bay
@@ -9158,10 +9158,10 @@ Tullaghan Bar
 Tullaghan Bay, Tallaghan Bay
 Tullaghan Hill
 Tullaghnafrankagh Lough
-Tullaghobegly River, Tullaghobegly
+Tullaghobegly River, Tulacha Beigile, Tullaghobegly
 Tullagower
 Tullaher
-Tullaher Lough, Lough Trullaher
+Tullaher Lough, Loch Thulachair, Lough Trullaher
 Tullaleague River
 Tullamore River, Tullamore
 Tullan Strand
@@ -9211,9 +9211,9 @@ Turbot Bank
 Turbot Island, Talbot Island
 Turduvillaun
 Turf Island
-Turlough
+Turlough, An Turlach
 Turlough Hill
-Turloughbeg
+Turloughbeg, An Turlach Beag
 Turloughmore
 Turners Rock
 Turnpike
@@ -9223,11 +9223,11 @@ Two Headed Island
 Two Rock Mountain
 Tymon
 Uctough
-Ullanes, Uallanes
+Ullanes, Na hUláin, Uallanes
 Ullid
-Ulster
+Ulster, Cúige Uladh
 Ultans Well
-Umfin Island
+Umfin Island, Iompainn
 Ummeraboy
 Union Wood
 University Newman Church
@@ -9251,7 +9251,7 @@ Vale of Glendalough
 Vale of Glendasan, Glendasan
 Valencia River, Valencia, Valentia River
 Valentia Harbour
-Valentia Island
+Valentia Island, Dairbhre
 Vances Point
 Vartry Reservoir
 Vartry River, Vartry
@@ -9264,7 +9264,7 @@ Vinnaunmore Rock
 Violet Hill
 Virgin Mary's Rock
 Waddingtown
-Walkinstown
+Walkinstown, Baile Bhailcín
 Waller's Island
 Wallstown
 Walsh Island
@@ -9275,8 +9275,8 @@ Ward River Valley Park
 Warhouse Hill
 Warrington
 Washerwoman Rock
-Waterford, Contae Phort Láirge
-Waterford City, Veðrafjǫrðr
+Waterford, Contae Phort Láirge, Port Láirge
+Waterford City, Port Láirge, Veðrafjǫrðr
 Waterford Harbour
 Waterloo
 Waterville River
@@ -9287,8 +9287,8 @@ West Channel
 West End
 West Passage
 West Sister, Beenhenry
-Westland Row, Westlands
-Westmeath, County Westmeath
+Westland Row, Rae an Iarthair, Westlands
+Westmeath, Contae na hIarmhí, County Westmeath
 Westport Bay
 Westport Harbour
 Westport House Lough
@@ -9322,11 +9322,11 @@ Whitemount
 Whitewall
 Whitewater Brook
 Whiting Bay
-Wicklow, Contae Chill Mhantáin, County Wicklow
+Wicklow, Cill Mhantáin, Contae Chill Mhantáin, County Wicklow
 Wicklow Bay
 Wicklow Gap
 Wicklow Head
-Wicklow Mountains, Wicklow Hills
+Wicklow Mountains, Sléibhte Chill Mhantáin, Wicklow Hills
 Wide Rock
 Wild Bank
 Wild Bellows Rock
@@ -9363,12 +9363,12 @@ Woodville
 Woolengrange
 Worm Hole, Serpent's Lair
 Wouge River, Wouge
-Yellow River, Yellow
+Yellow River, An Abhainn Bhuí, Yellow
 Yellow Strand
 Yellow Walls
 Yellowford
 Yoletown
-Youghal Bay
+Youghal Bay, Cuan Eochaille
 Youghal Harbour
 Youghal River
-Young Island
+Young Island, Oileán na nÓg

@@ -2836,7 +2836,7 @@ Caza de Batroun, Al Batrun, Batroun, Qaḑā' al Batrūn, قضاء البترو�
 Caza de Bent Jbaïl, Bent Jbeil, Bint Jubayl, Bint-Jbail, Qaḑā' Bint Jubayl, قضاء بنت جبيل
 Caza de Bécharré, Baharri, Bécharré, Qaḑā' Bsharrī, قضاء بشري
 Caza de Hâsbaïya, Hasbaya, Hasbayya, Hasbeiya, Qada Hâsbaïya, Qaḑā' Ḩāşbayyā, قضاء حاصبيا
-Caza de Jbayl, Jbail, Jbeil, Jbeil District, Jubayl, Qadā' Jubayl, قضاء جبيل
+Caza de Jbayl, District de Jbeil, Jbail, Jbeil, Jbeil District, Jubayl, Qadā' Jubayl, Ջբեյլի շրջան, قضاء جبيل
 Caza de Jezzîne, Jazzin, Jezzine, Qadā' Jazzīn, قضاء جزين
 Caza de Koura, Koura, Qadā' al Kūrah, قضاء الكورة
 Caza de Marjayoûn, Mari'yun, Marjaayoun, Qaḑā' Marji'yūn, قضاء مرجعيون
@@ -7097,7 +7097,7 @@ Haqâli Sâleh, حقالي صالح, Ḩaqālī Şāliḩ
 Har 'Ayta
 Har Agas, Jabal Soummaq, Jabal Summāq, Jabal as Summāq, Jebel Soummâq, جبل السماق, جبل سماق
 Har Dov, Jabal Ru'ūs, Jabal ar Rūs, Jebel Roûs, جبل الروس
-Haramoun, Hermon, Jabal ash Shaykh, Jebel Cheïkh, Mount Hermon, جبل الشيخ, حرمون, Ḩarmūn
+Haramoun, Hermon, Jabal ash Shaykh, Jebel Cheïkh, Mont Hermon, Mount Hermon, جبل الشيخ, حرمون, Ḩarmūn
 Hardoûnît
 Hare Ramim
 Haref
@@ -9536,7 +9536,7 @@ La Quarantaine
 Lac de Qaraaoun, Albert Naccache Reservoir, Albert Naccoche Reservoir, Buḩayrat al Qara'awn, Buḩayrat al Qir'awn, بحيرة القرعون
 Lahlah, لحلح
 Laoukas, Lawkas
-Lebanon, Al Jumhūrīyah al Lubnānīyah, Lebanese Republic, Lubnān, Republic of Lebanon, République Libanaise, État du Grand Liban, الجمهورية اللبنانية, اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة, لبنان
+Lebanon, Al Jumhūrīyah al Lubnānīyah, Lebanese Republic, Liban, Lubnān, Republic of Lebanon, République Libanaise, État du Grand Liban, Լիբանան, الجمهورية اللبنانية, اَلْجُمْهُورِيَّة اَللُّبْنَانِيَّة, لبنان
 Lebanon Mountains, Jabal Lubnān, Jebel el Gharbi, Silsilat Jabāl Lubnān al Gharbīyah
 Lehf el Blaït, Liḩf al Bulayţ, لحف البليط
 Louaïdé
@@ -10020,11 +10020,11 @@ Moghr ech Châché, Mughr ash Shāshah
 Moghr el Azhâr, Moghr el Azâr, Mughr al Azhar, Ouâdi el Azhar, مغر الأزهر
 Moghr el Kanâyes
 Moghr ez Zbîb
-Mohafazat Aakkâr, Aakkâr, Muḩāfaz̧at 'Akār, محافظة عكار
-Mohafazat Baalbek-Hermel, Baalbek-Hermel, Muḩāfaz̧at Ba'albak-Al Hirmil, محافظة بعلبك - الهرمل
+Mohafazat Aakkâr, Aakkâr, Akkar, Muḩāfaz̧at 'Akār, محافظة عكار
+Mohafazat Baalbek-Hermel, Baalback-Hermel, Baalbek-Hermel, Muḩāfaz̧at Ba'albak-Al Hirmil, محافظة بعلبك - الهرمل
 Mohafazat Béqaa, Bekaa, Beqaa, Muḩāfaz̧at al Biqā', محافظة البقاع
 Mohafazat Liban-Nord, Liban-Nord, Mohafazat ech Chimâl, Muḩāfaz̧at Lubnān ash Shamālī, Muḩāfaz̧at ash Shamāl, محافظة لبنان الشمالي
-Mohafazat Liban-Sud, Aj Jeanoub, Liban-Sud, Mohafazat ej Jnoub, Muḩāfaz̧at Lubnān al Janūbī, South Governorate, al-Janub, محافظة الجنوب, محافظة لبنان الجنوبي
+Mohafazat Liban-Sud, Aj Jeanoub, Gouvernorat du Sud-Liban, Liban-Sud, Mohafazat ej Jnoub, Muḩāfaz̧at Lubnān al Janūbī, South Governorate, al-Janub, Հարավային մարզ, محافظة الجنوب, محافظة لبنان الجنوبي
 Mohafazat Mont-Liban, Mohafazat Jabal Loubnane, Mont-Liban, Muḩāfaz̧at Jabal Lubnān, محافظة جبل لبنان
 Mohafazat Nabatîyé, Muḩāfaz̧at an Nabaţīyah, Nabatiye, محافظة النبطية
 Mokh Aalaï
@@ -10681,7 +10681,7 @@ Nahr el Aaraâr, Nahr al 'Ar'ār, نهر العرعار
 Nahr el Aarid, Nahr al 'Arīḑ, نهر العريض
 Nahr el Aasfour, Nahr al 'Uşfūr, Nahr el Aaefour
 Nahr el Aassi, Nahr al 'Āşī
-Nahr el Aouali, Awali, Bostrenus, Nahr Aoûale, Nahr al Awwalī, Nahr al Awwlī, Nahr el Aoli, Nahr el Auwali
+Nahr el Aouali, Awali, Bostrenus, Nahr Aoulé, Nahr Aoûale, Nahr al Awwalī, Nahr al Awwlī, Nahr el Aoli, Nahr el Auwali, Nahr el Awali
 Nahr el Aïn, Nahr al 'Ayn, نهر العين
 Nahr el Baghlé, Nahr al Baghlī, Nahr el Barlè, Ouâdi el Baghli
 Nahr el Barghoût, Nahr Barghut, Nahr Barghūth, Nahr al Barghūt, Nahr al Burghūth, نهر البرغوت
@@ -10777,7 +10777,7 @@ Om Aaîshé, Umm 'Ā'ishah
 Om el Haoua, Umm al Hawá, أم الهوى
 Omm Hartaïne, Umm Ḩārithayn
 Ordâne el Marj, 'Urḑān al Marj
-Orontes River, Asi Nehri, Nahr al 'Āş, Nahr al 'Āşī, Nahr el Assi, Nehir Oronte, Orontes, نهر العاصي
+Orontes River, Asi Nehri, Nahr al 'Āş, Nahr al 'Āşī, Nahr el Assi, Nehir Oronte, Oronte, Orontes, نهر العاصي
 Ou Des Lapins
 Ouaar el Ghamîri, Wa'r al Ghamīrī, وعر الغميري
 Ouaaret Daou el Qamar, Wa'rat Ḑaw' al Qamar, Wa'rat Ḑaww al Qamar, وعرة ضو القمر
@@ -12835,12 +12835,12 @@ Ouâjhet el Aassâyeb, Wājihat al 'Aşā'ib, Wājihat al 'Aşāyib, واجهة 
 Ouâjhet el Assâyeb, Wajhat 'Aşāyib, وجهة العصايب
 Ouâtet Meraai
 Parc Nicole, Bārk Nīkūl, بارك نيكول
-Phoenicia
+Phoenicia, Phénicie
 Piscine de Ain Ebel
 Plaine de Aakkar, Akkar Plain, Sahl 'Akkār
 Plaïsset el Marj
 Port de Pêche
-Port of Beirut, Free Zone Beirut
+Port of Beirut, Free Zone Beirut, Port de Beyrouth
 Qaalat Jaouhar, Qal'at Jawhar, قلعة جوهر
 Qaalat Sfaîyé, Qal'at Şufayyah, قلعة صفية
 Qaalat ed Debb, Acheh Debb, Acheh Doubb, Qal'at ad Dubb, قلعة الدب
@@ -14431,7 +14431,7 @@ Soûgha
 Soûkkarâ, Sukkarā, سوكرّا
 Soûq aïn Qbaïa, Sūq 'Ayn Qubays, سوق عين قبيس
 Stoûh as Sannâsel, Suţūḩ as Sanāsil, سطوح السناسل
-Syria Phoenice, Syria Phoenice (Roman province)
+Syria Phoenice, Syria Phoenice (Roman province), Syrie-Phoenice (province romaine)
 Sâghaïya, Şāghīyah, صاغيّة
 Sâhel Byblos, Sahl Bīblūs, سهل بيبلوس
 Sâhlat el Knaïssé, Sahlāt al Kanīsah, Sahlāt al Knaysah, سهلات الكنيسة

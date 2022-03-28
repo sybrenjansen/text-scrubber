@@ -36,7 +36,7 @@ Beting Kapal
 Beting Kusah, Beting Kusa
 Bishan Park
 Blangah Bay West, Blanga Bay West, Telok Blanga
-Botanic Gardens, Singapore Botanic Gardens
+Botanic Gardens, Kebun Botani Singapura, Singapore Botanic Gardens, Taman Botanik Singapura, 新加坡植物园
 Braddell Hill
 Brani Shoals
 Bras Basah
@@ -65,7 +65,7 @@ Bukit Piatu, Piotu
 Bukit Prigi Kling
 Bukit Rimau
 Bukit Saleh
-Bukit Timah, Bukit Timah Hill
+Bukit Timah, Bukit Timah Hill, 武吉知马
 Bukit Timah Nature Reserve, Catchment Area Nature Reserve, City Council Catchment Area Nature Reserve, Public Utilities Board Catchment Area, Public Utilities Board Catchment Area Nature Reserve
 Bukit Tinggi
 Bukit Wayang Satu
@@ -127,7 +127,7 @@ Farrer Park
 Felkin Spit
 First Bukom
 Fisherman Bank
-Fort Canning Hill, Bukit Larangan, Flag Hill, Forbidden Hill, Fort Canning, Government Hill, Singapore Hill, Sir Bonham's Hill
+Fort Canning Hill, Bukit Larangan, Flag Hill, Forbidden Hill, Fort Canning, Government Hill, Singapore Hill, Sir Bonham's Hill, ஃபோர்ட் கேனிங் ஹில், 升旗山, 皇家山, 禁山, 福康宁山
 Fort Canning Park
 Fort Canning Reservoir
 Fourth Bukom
@@ -168,7 +168,7 @@ Jurong Hill
 Jurong Hill Park
 Jurong Industrial Estate
 Jurong Island
-Jurong Lake, Tasik Jurong
+Jurong Lake, Tasik Jurong, 裕廊湖
 Jurong Park
 Kallang
 Kallang Basin
@@ -179,7 +179,7 @@ Kallang River, Kalang River, Sungei Kalang, Sungei Kallang
 Kallang Way Industrial Estate
 Kampong Ampat Industrial Estate
 Kampong Chai Chee
-Kampong Glam, Gānbǎnggénán
+Kampong Glam, Gānbǎnggénán, Kampong Gelam, கம்ப்பொங் கிலாம்
 Kampong Java Park
 Kampong Kapor
 Kampong Kembangan
@@ -221,7 +221,7 @@ Lower Seletar Reservoir
 Lowinger Reef
 Loyang Industrial Estate
 Lucy Rocks
-MacRitchie Reservoir, Impounding Reservoir, McRitchie Reservoir, Thomson Road Reservoir
+MacRitchie Reservoir, Impounding Reservoir, Kolam Air MacRitchie, McRitchie Reservoir, Thomson Road Reservoir, மெக்ரிட்ச்சி நீர்தேக்கம், 汤申路蓄水池, 麦里芝蓄水池
 MacRitchie Reservoir Park
 Main Strait, Singapore Main Strait
 Malang Orang
@@ -288,7 +288,7 @@ Paya Lebar South
 Pearl's Hill City Park
 Pearl's Hill Reservoir
 Pearls Hill
-Pedra Branca, Horsburgh, Pedera Branca Horsburgh, Pedra Blanca, Pedra Brance, Pulau Batu Puteh
+Pedra Branca, Horsburgh, Pedera Branca Horsburgh, Pedra Blanca, Pedra Brance, Pulau Batu Puteh, வெண்பாறைத் தீவு, 白礁
 Pemalang
 Pesek Fairway
 Phillip Channel, Selat Phillip, Straat Phillip
@@ -301,7 +301,7 @@ Prawn Pond Reserve
 President Dock
 Public Utilities Board Pipeline
 Public Utilities Board Western Catchment Area
-Pulau Anak Bukum, Pulau Anak Bukom
+Pulau Anak Bukum, Pulau Anak Bukom, ānnà máoguǎng dǎo, 安娜毛广岛
 Pulau Ayer Chawan
 Pulau Ayer Chawan Industrial Estate
 Pulau Ayer Merbau, Poelau Airmerbali
@@ -317,11 +317,11 @@ Pulau Bukum, Bukom Island, Freshwater Island, Pulau Bukom, Zoetwater-eiland
 Pulau Bukum Kechil, Poelau Boekoem-Ketjil, Pulau Bukom Kechil
 Pulau Buloh
 Pulau Buran, Buran Darat
-Pulau Busing, Boosina Island, Poelau Bosing
+Pulau Busing, Boosina Island, Poelau Bosing, bùxīng dǎo, 布星岛
 Pulau Damar Laut
 Pulau Damien
-Pulau Hantu
-Pulau Jong, Pulo Jong
+Pulau Hantu, பேய் தீவு, 韩都岛/鬼岛
+Pulau Jong, Pulo Jong, 炯岛
 Pulau Keppel
 Pulau Ketam
 Pulau Malang Siajar
@@ -342,8 +342,8 @@ Pulau Pesek Industrial Estate
 Pulau Pesek Kecil
 Pulau Renggis
 Pulau Retan Laut
-Pulau Saigon, Alligator Island, Pulo Saigon
-Pulau Sajahat, Sajahat Island, Sijahat Island
+Pulau Saigon, Alligator Island, Pulo Saigon, 巴歪岛
+Pulau Sajahat, Sajahat Island, Sijahat Island, shārěhā dǎo, 沙惹哈岛
 Pulau Sajahat Kechil
 Pulau Sakeng, Poelau Siking
 Pulau Sakijang Bendera, Bandera Sakijang, Pulau Sekijang Bendera, Saint John's, Saint John's Island, West Saint John, West Saint John Island
@@ -353,30 +353,30 @@ Pulau Salu
 Pulau Samulun
 Pulau Sanyongkong, Pulau Sejungkong, Sunjungkong
 Pulau Sarimbun, Pulau Serimbun, Pulau Srimbun
-Pulau Satumu, Coney Island
+Pulau Satumu, Coney Island, செராங்கூன் தீவு, 沙都姆岛
 Pulau Sebarok, Middle Island
 Pulau Seburus Dalam
 Pulau Seburus Luar
-Pulau Sekudu, Frog Island, Sikoda Island
+Pulau Sekudu, Frog Island, Sikoda Island, 青蛙岛
 Pulau Selegu
 Pulau Seletar, Seletar Island
-Pulau Semakau, Mangrove-eiland, Semakau Island, Shímǎgāodǎo
+Pulau Semakau, Mangrove-eiland, Semakau Island, Shímǎgāodǎo, செமாக்காவ் தீவு
 Pulau Semechek
-Pulau Senang, Barn Island, Barn-eiland, Ānlè Dǎo
-Pulau Serangoon, Coney Island
+Pulau Senang, Barn Island, Barn-eiland, Ānlè Dǎo, 安乐岛
+Pulau Serangoon, Coney Island, 实龙岗岛
 Pulau Seraya, Poelau Seraja
 Pulau Seraya Industrial Estate
 Pulau Seringat, Pulau Renget, Pulau Renggit Besar, Pulo Renget Besar
 Pulau Seringat Kecil
 Pulau Subar Darat, North Sister
 Pulau Subar Laut, Pulo Laut, South Sister
-Pulau Sudong, Poelau Soedong, Sūdōng dǎo
+Pulau Sudong, Poelau Soedong, Sūdōng dǎo, 苏东岛
 Pulau Tekong, Pulau Tekong Besar, Tekong
 Pulau Tekong Kechil
 Pulau Tekong Reservoir
-Pulau Tekukor, Penyabong, Poelau Sekoeker, Pulau Penyabong, Pulo Saluk
-Pulau Tembakul, Kusu Island, Peak Island
-Pulau Ubin, Ubin
+Pulau Tekukor, Penyabong, Poelau Sekoeker, Pulau Penyabong, Pulo Saluk, தேகுகொர் தீவு, 德固哥岛
+Pulau Tembakul, Kusu Island, Peak Island, 龟屿
+Pulau Ubin, Ubin, உபின் தீவு, 乌敏岛
 Pulau Ubin Beach
 Pulau Ubin Estate
 Pulau Ular
@@ -394,7 +394,7 @@ Red Cliff Bank
 Red Cliff Shoal
 Redhill Industrial Estate, Redhill Estate
 Reef Brani
-Republic of Singapore, Singapore, Sïngäpûru
+Republic of Singapore, Singapore, Singapura, சிங்கப்பூர், 新加坡
 River Valley
 Rochor
 Rochor Canal, Rochore Canal
@@ -436,7 +436,7 @@ Sembawang
 Sembawang End Park, Sembawang Park
 Sembawang Terminal
 Senoko Industrial Estate
-Sentosa Island, Blakang Mati Island, Poelau Belakangmati, Pulau Blakang Mati, Sentosa
+Sentosa Island, Blakang Mati Island, Poelau Belakangmati, Pulau Blakang Mati, Pulau Sentosa, Sentosa, 圣淘沙
 Sepoy Lines
 Serangoon
 Serangoon Garden
@@ -452,7 +452,7 @@ Sin Ming Industrial Estate
 Singapore Container Terminal
 Singapore Inner Roads (historical)
 Singapore Island, Singapore
-Singapore River
+Singapore River, Sungai Singapura, 新加坡河
 Singapore Roads
 Singapore Strait, Selat Singapura, Straat Singapoera, Straat Singapore
 Singapore Zoological Gardens
@@ -737,7 +737,7 @@ Terumbu Serebut
 Terumbu Tukak
 The Green Oval
 The Narrows
-The Sisters, Sisters' Islands
+The Sisters, Sisters' Islands, 姐妹岛
 Third Bukom
 Thomson
 Tiong Bahru

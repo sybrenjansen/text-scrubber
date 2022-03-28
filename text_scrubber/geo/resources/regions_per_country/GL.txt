@@ -20,7 +20,7 @@ Aappilattuutaa, Augpilagtûtâ
 Aaqqatikajik, Ârqatikajik
 Aarfit, Aorfit, Arfit
 Aasiaat, Ausiait, Ausiat Island, Egedesminde Havn
-Aasiaat Kommuniat, Ausiait, Egedesminde, Egedesminde District
+Aasiaat Kommuniat, Aasiaat Kommune, Ausiait, Egedesminde, Egedesminde District
 Aasivissuit, Aussivigssuit
 Aatsangasoq
 Absalon Havn, Absalon Harbor, Absolon Harbor
@@ -137,8 +137,8 @@ Alanngoq, Alángoq
 Alanngorleq, Alángordleq
 Alanngorlia, Alangordlia
 Alanngorliup Sermia, Alangordlek, Alángordliup Sermia
-Alanngorsuaq, Alangorssuaq, Alangorsuak
-Alanngorsuaq Fjord, Coppermine Bay, Kangerdlua
+Alanngorsuaq, Alangorssuaq, Alangorsuak, Harefjeld
+Alanngorsuaq Fjord, Coppermine Bay, Kangerdlua, Kobberminebugt
 Alanngorsup Nunaa, Alangorsuak, Alángorssuaq, Alángorssûp, Alángorsuaq, Gorsuak
 Alanngorsuup Qaqqaa, Alangorsuak
 Alanngua, Alangua
@@ -218,8 +218,8 @@ Ammaqqut, Angmarqut
 Ammassaataasaq, Angmasautasak
 Ammassalik Archipelago
 Ammassalik Fjord, Angmagssalik Fjord
-Ammassalik Ø, Angmagssalik Island
-Ammassallip Kommunia, Ammassalik, Angmagssalik Distrikt, Tasiilap Kommunia, Tasiilaq District
+Ammassalik Ø, Angmagssalik Island, Angmagssalik Ø
+Ammassallip Kommunia, Ammassalik, Ammassalik Kommune, Angmagssalik Distrikt, Tasiilap Kommunia, Tasiilaq District
 Ammassivik, Angmagssivik, Angmasivik
 Amundsen Land, Amundsens Land
 Amáussuaq
@@ -362,9 +362,9 @@ Arpatsivik
 Arpertilo, Arpertileq, West Fjord
 Arqitsoq, Akitok
 Arqâjaq
-Arsuk Fjord, Ivigtut
+Arsuk Fjord, Ilorput, Ivigtut
 Arsuup Uummannaa, Arsuk Umanak, Arsuk Uummannak, Arsuk Uummannnaq, Umanak, Ûmánaq
-Arsuutaa, Arsuk Island
+Arsuutaa, Arsuk Island, Arsuk Ø
 Arthur Dal
 Arundel Lake
 Arundel Ø
@@ -405,7 +405,7 @@ Attup Imaa, Agtup Imâ
 Atungagssat
 Aubrey Bjerg, Aubrey Bjoerg, Mount Aubrey
 Aucellabjerg
-Aucellabjerget
+Aucellabjerget, Muslingebjerget
 Aucellaelv
 Aucellapasset
 Augpalugtukavsak
@@ -444,8 +444,8 @@ Avalêq
 Avangnamut Karra
 Avangnardlerssuit
 Avangnardliup Sermia
-Avannaarsua, Avanersuaq, Avannaa, North Greenland
-Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq, National Park in North and East Greenland, North East Greenland, Northeast Greenland National Park
+Avannaarsua, Avanersuaq, Avannaa, Nordgrønland, North Greenland
+Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq, National Park in North and East Greenland, Nationalparken, Nationalparken i Nordøstgrønland, North East Greenland, Northeast Greenland National Park
 Avannaata
 Avannarleq, Avangnardlek, Avangnardleq, Nordø, Sermilik Avangnardleq
 Avannarleq Bræ, Avangnardleq Bræ
@@ -662,7 +662,7 @@ Campbell Sund, Campbell Bay, Campbell Bugt
 Canning Land, Cannings Land
 Canongletscher
 Canyon Elv
-Cape Farewell, Ománarssuaq, Statenhut, Umanarsuak, Ûmánarssuaq
+Cape Farewell, Kap Farvel, Ománarssuaq, Statenhut, Umanarsuak, Ûmánarssuaq
 Cardiocerasbjerg
 Carey Øer, Carey Islands, CaryØer, Kitsigsut
 Carl Heger Ø, Carl Heger Island, Carl Hegers Ø
@@ -690,8 +690,8 @@ Chester Bjerg, Mount Chester
 Chield Gletscher, Child Bræ
 Chipp Sund, Chipp Inlet, Chipp Sound
 Christian Erichsen Iskappe, Christian Erichsens Bræ, Erichsen Ice Cap
-Christian IV Gletscher, Christian IV's Gletscher, Christian den IVs Gletscher
-Christian IV Ø, Christian den Fjerdes Ø
+Christian IV Gletscher, Christian IV's Gletscher, Christian den Fjerde Gletscher, Christian den IVs Gletscher
+Christian IV Ø, Christian den Fjerde Ø, Christian den Fjerdes Ø
 Christian Skær
 Circuselv
 Cirkus Kløft
@@ -953,14 +953,14 @@ Fan Gletscher
 Fangersund
 Fangetårnet, Fangetaarnet
 Faraway How
-Farigmagsøen
+Farigmagsøen, Farimagsø
 Farimagdal
 Farquhar Gletscher, Farquhar Bræ
 Farragut Bjerg, Mount Farragut
 Farsund, Far Sound
 Farvefjeldet
 Fattighusfjorden
-Favre Bjerg
+Favre Bjerg, Favres Bjerg
 Fem Maj Søen, 5 Maj Søen
 Femdalen
 Femfjordspynt
@@ -978,7 +978,7 @@ Fireø, Fourth Ø
 Firkanten
 Fisher Øer
 Fiskeelv
-Fiskefjord, Fish Fjord, Niakongunak, Niakungunak, Niaqúngunaq
+Fiskefjord, Fish Fjord, Niakongunak, Niakungunak, Niaqunngunaq, Niaqúngunaq
 Fiskemesteren Havn, Eikerasak Harbour, Fishermans Harbor, Fishmasters Harbor
 Fiskenæsfjorden, Qeqertarsuatsiaat Kangerlluat
 Fiskerhavn
@@ -1155,7 +1155,7 @@ Graptolitsletten
 Gravelven
 Gravhøjen
 Gravnæs
-Greenland, Groenlandia, Kalâtdlit-Nunât
+Greenland, Grønland, Kalaallit Nunaat, Kalâtdlit-Nunât
 Greenland Icecap, Greenland Inland Ice, Greenland's Icecap, Grønlandske Indlandsis, Ice Cap, Indlandsisen, Inland Ice, Inlandsis, The Greenland Ice-Sheet
 Gregory Gletscher
 Grejsdalen
@@ -1434,7 +1434,7 @@ Iffat Tasiat, Igfat Tasiat, Ivfat Tasiat
 Iffit Qaqqaat, Igfit Qáqât, Mount Bluebird
 Igakavsak, Igakarsaq
 Igaliku, Igaliko Anchorage
-Igaliku Fjord, Igaliko Fjord
+Igaliku Fjord, Igaliko Fjord, Igalikup Kangerlua
 Iganak
 Igannaq, Conical Klippe, Conical Rock
 Igassup Kûa
@@ -1598,7 +1598,7 @@ Iluliartuup Tasia, Iluliartûp Tasia
 Iluliartôq
 Iluliatdlup Taserssua
 Ilulissat
-Ilulissat Kommuniat, Jakobshavn, Jakobshavn District
+Ilulissat Kommuniat, Ilulissat Kommune, Jakobshavn, Jakobshavn District
 Iluliumaneq
 Iluliumanerssuaq
 Iluliumanerssûp Portornga
@@ -1684,7 +1684,7 @@ Inugsuligssup Tasia
 Inugsulikasak
 Inugsulikavsak
 Inugsulinguaq
-Inuit Qeqertaat, Coffee Club Island, Kaffeklubben Island
+Inuit Qeqertaat, Coffee Club Island, Kaffeklubben Island, Kaffeklubben Ø
 Inuiterk Sø, Inuiterk Lake, Inviterk Sö
 Inukassaat, Inukavsait, Inukusat
 Inuppaat Quuat, Inugpait Qûat
@@ -1775,7 +1775,7 @@ Iterlassuup Kuussua, Iterdlagssûp Kûgssua
 Iterssarmiut Nunarssuat
 Iterssarmiut Tasâ, Iterssarmiut Tasê
 Itille, Itivdle, Itivdlek, Itivdleq
-Itilleq, Eggers Island, Itivdlek, Itivdlek Fjord, Itivdleq, Itivdlik, Ituidlek
+Itilleq, Eggers Island, Eggers Ø, Itivdlek, Itivdlek Fjord, Itivdleq, Itivdlik, Ituidlek
 Itillersuaq
 Itilli, Itivdle
 Itilliannguup Nunaa, Itivdliángûp Nunâ
@@ -1816,7 +1816,7 @@ Itsakup Qeqertâ
 Ittaasiartikajiip Kangertiva, Igtâsiartikajîp Kangertiva
 Ittaasiartikajik, Igtâsiartikajik
 Ittit, Igtit
-Ittoqqortoormiit Kommuniat, Itseqqortoormiit, Scoresbysund, Scoresbysund District
+Ittoqqortoormiit Kommuniat, Itseqqortoormiit, Ittoqqortoormiit Kommune, Scoresbysund, Scoresbysund District
 Ittutarajik, Igdlitarajik, Igdlutârajik, Igtutarajik
 Ituvnerssuata Tasia, Kuvnerssuata Tasia
 Ivar Berendsen Gletscher, Ivar Berendsens Bræ
@@ -1835,7 +1835,7 @@ Ivisaaqqut Kuuat, Ivisârqut Kûat
 Ivisaaqqut Passet, Ivisârqut Passet
 Ivisaartoq, Ivisartok, Ivisârtoq
 Ivittuut, Ivigtût
-Ivittuut Kommune, Ivigtut, Ivittuut District
+Ivittuut Kommune, Ivigtut, Ivittuut District, Ivittuut Kommuniat
 Iviángit, Iviangit Promontory
 Ivnag
 Ivnajaugtoq
@@ -1869,7 +1869,7 @@ J. A. D. Jensen Øer, I.A.D. Jensens Öer
 J. C. Christensen Land
 J. C. Jacobsen Fjord, I.C. Jacobsen Fjord, J. C. Jacobsens Fjord, Jacobsen Fjord, Jacobsens Fjord
 J. L. Mowinckel Land, J. L. Mowinckels Land, Mowinchels Land
-J. P. Jacobsen Ø
+J. P. Jacobsen Ø, I. P. Jakobsen Ø
 J. P. Koch Fjeld
 J. P. Koch Fjord, J. P. Kochs Fjord, Kochs Fjord
 J. P. Koch Gletscher
@@ -1984,7 +1984,7 @@ Kangaarsuk, Kangarssuk, Kangarsuk, Kangersuk
 Kangaarsuup Nunaa, Kangârssûp Nunâ
 Kangaarsuup Qaqqaa, Kangârssûp Qáqâ
 Kangaarsuup Tasersua, Kangârssûp Taserssua, Taserssuak, Tasersuak
-Kangaatsiap Kommunia, Kangaatsiaq, Kangaatsiaq District, Kangâtsiaq Kammune
+Kangaatsiap Kommunia, Kangaatsiaq, Kangaatsiaq District, Kangaatsiaq Kommune, Kangâtsiaq Kammune
 Kangaussarssuaq
 Kangaussarssûp Sermia
 Kangek Point, Point Kantek
@@ -2083,13 +2083,13 @@ Kannaa, Kánâ
 Kannala, Kánala
 Kap Abernathy
 Kap Achton Friis
-Kap Ackland, Kap Acland
+Kap Ackland, Inersussat, Kap Acland
 Kap Adam
 Kap Adolf Jensen, Kap Jensen
 Kap Agassiz, Cape Agassiz, Cape Agazis
 Kap Agnes
-Kap Alexander, Cape Alexander, Uvdlerssuak
-Kap Alf Trolle, Kap Trolle
+Kap Alexander, Cape Alexander, Ullersuaq, Uvdlerssuak
+Kap Alf Trolle, Kap Arendts Naes, Kap Trolle
 Kap Alfred, Cape Alfred
 Kap Alfred Beauvais
 Kap Allen, Cape Allen
@@ -2123,7 +2123,7 @@ Kap Bourbon
 Kap Bremen, Cape Bremen
 Kap Breusing
 Kap Brevoort
-Kap Brewster, Cape Brewster
+Kap Brewster, Cape Brewster, Kangikajiip Appalia
 Kap Bridgman, Cape Bridgman
 Kap Britannia, Cape Britannia
 Kap Broer Ruys, Cape Hold-with-Hope, Kap Ruys
@@ -2302,7 +2302,7 @@ Kap Mary, Cape Mary
 Kap Maurer, Cape Maurer
 Kap May, Cape May
 Kap Maynard, Cape Maynard
-Kap Melville, Cape Melville, Navdlortok
+Kap Melville, Cape Melville, Nallortup Nuua, Navdlortok
 Kap Middendorff, Cape Middendorf, Kap Middendorf
 Kap Milne
 Kap Mohn, Cape Mohn
@@ -2440,7 +2440,7 @@ Kap Wohlgemuth
 Kap Wood, Cape Wood
 Kap Wymann
 Kap Wynn
-Kap York, Cape York
+Kap York, Cape York, Innaanganeq
 Kap Young, Cape Young
 Kap Åge Bertelsen
 Kapisigdlit Timât
@@ -2483,7 +2483,7 @@ Kiagtúngûp Qulâ
 Kialernup Kangerlua, Kialernup Kangerdlua
 Kialineq, Kialineg Bay, Skrækkensbugt
 Kiasigssaq
-Kiatak, Kujata, Northumberland Island
+Kiatak, Kujata, Northumberland Island, Northumberland Ø
 Kiataq, Kijilak, Kililar
 Kiataussap Qeqertârssue, Bluhme Øer
 Kiataussap Timilia
@@ -2545,7 +2545,7 @@ Kissarsiitilik, Dronning Louise Island, Dronning Louise Ø, Dronning Louises Ö
 Kissaviat
 Kissel Gletscher
 Kistefjeld, Igdlerfik
-Kitaa, West Greenland
+Kitaa, Vestgrønland, West Greenland
 Kitak
 Kitdlia
 Kitdlît
@@ -2601,12 +2601,12 @@ Kokkefars Hat
 Koklapperne
 Kolding Fjord
 Kollen
-Kong Christian IX Land, King Christian IX Land, Kong Christian den IXs Land
-Kong Christian X Land
+Kong Christian IX Land, King Christian IX Land, Kong Christian den IXs Land, Kong Christian den Niende Land
+Kong Christian X Land, Kong Christian den Tiende Land
 Kong Dan Halvø, King Dan Peninsula, Kong Dams Halvø
-Kong Frederik IX Land
-Kong Frederik VI Kyst, King Frederick VI Coast, King Frederick VI Land, Kong Frederick den VI's Kyst, Kong Frederik den VIs Kyst
-Kong Frederik VIII Land, King Frederick VIII Land, Kong Frederik den VIIIs Land
+Kong Frederik IX Land, Kong Frederik den Niende Land
+Kong Frederik VI Kyst, King Frederick VI Coast, King Frederick VI Land, Kong Frederick den VI's Kyst, Kong Frederik den Sjette Kyst, Kong Frederik den VIs Kyst
+Kong Frederik VIII Land, King Frederick VIII Land, Kong Frederik den Ottende Land, Kong Frederik den VIIIs Land
 Kong Oscar Fjord, King Oscar Fjord, Kong Oscars Fjord
 Kong Oscar Gletscher, Kong Oscar Bræ
 Kong Oscar Havn, King Oscar Harbor, Kong Oscars Havn, Tasinsak, Tasîssaq
@@ -2650,7 +2650,7 @@ Kuhnpasset
 Kuit Qâvata Kingingnera
 Kujalia
 Kujalikasia
-Kujalleq, Kujatdleq, Østfjord
+Kujalleq, Kommune Kujalleq, Kujalleq Kommune, Kujatdleq, Østfjord
 Kujalliit, Kujatdlît, Sarkarigsok
 Kujallikassak, Kujatdlikavsak
 Kujammut Nuua, Kujámut Nûa
@@ -2695,7 +2695,7 @@ Kuánit Kangilernga
 Kuánit Tasiat
 Kvadderbugten, Kvadderbugt, Mire Bay
 Kvandalen, Kvan Valley
-Kvanefjord, Kuanersok, Kuanersôq
+Kvanefjord, Kuanersok, Kuanersôq, Kuannersooq
 Kvaneø, Kvane Island
 Kvankløft
 Kvannæsset
@@ -2803,7 +2803,7 @@ Leven Ø, Levens Ø
 Lichenbjerg
 Licht Ø, Lichts Ø
 Licht Øer
-Lichtenau Fjord, Agdluitsok Fjord
+Lichtenau Fjord, Agdluitsok Fjord, Alluitsup Kangerlua
 Lidskjalv
 Life Boat Vig, Life Boat Cove
 Lille Bælt
@@ -2826,7 +2826,7 @@ Lincoln Sea, Lincoln Hav
 Lindbergh Fjelde, Lindberghs Fjaelde, Lindberghs Fjelde
 Lindeman Fjord, Lindeman Bugt
 Lindemansdalen
-Lindenow Fjord, Kangerdlugssuatsiaq, Kangerdlugsuatsiak, Lindenows Fjord
+Lindenow Fjord, Kangerdlugssuatsiaq, Kangerdlugsuatsiak, Kangerlussuatsiaq, Lindenows Fjord
 Lindhard Ø, Lindhards Ø
 Littleton Ø, Littleton Island
 Liverpool Land, Liverpool Coast, Liverpool Kyst
@@ -2867,7 +2867,7 @@ Løvehovedet
 Lûtiviup Nunatarssua
 Maajorsuit, Majorssuit, Ukivit
 Maakkarneq, Maukarnerit Nûa
-Mac Cormick Fjord, McCormick Bugt, McCormik Bay
+Mac Cormick Fjord, Iterlassuaq, McCormick Bugt, McCormik Bay
 MacCormick Fjord, McCormick Bay
 MacMillan Gletscher
 MacMillian Harbor
@@ -2891,7 +2891,7 @@ Majuagâ
 Majuala, Majuola, Maujuola
 Majuarqusuitsoq
 Makittarissagaq, Makítarigsagaq
-Malenefjeld
+Malenefjeld, Isilik
 Maligaat, Maligât
 Maligiaata Tasia, Maligiâta Tasia
 Maligiaq, Maligiak
@@ -2913,7 +2913,7 @@ Manertôq
 Manigsikajik, Manigsikigak
 Maniitsoq, Maneetsok, Manetsok, Manitsek, Manitsok, Manitsoq
 Maniitsoq Havn, Isberg Sund, Manitsok Havn, Manîtsoq Havn
-Maniitsoq Kommune, Manîtsoq, Sukkertoppen District
+Maniitsoq Kommune, Maniitsup Kommunia, Manîtsoq, Sukkertoppen District
 Maniitsorsuaq, Manetorssuak, Manetorsuak, Manitsorssuaq, Manîtorssuaq
 Maniitsup Sermilia, Manîtsup Sermilia, Sermilik Fjord
 Manik
@@ -2977,7 +2977,7 @@ Melch Dal
 Mellemfjord, Akugdlit
 Mellemfortet
 Mellemø, Middle Ø
-Melville Bugt, Melville Bay
+Melville Bugt, Melville Bay, Qimusseriarsuaq
 Melville Gletscher, Melville Brae
 Melville Land
 Melville Monument
@@ -3056,7 +3056,7 @@ Moskusokseelv
 Moskusoksefjeldene, Moskusokse Fjelde, Musk Ox Mountain
 Moskusoksefjord, Moskusokse, Moskusoxe Fjord, Musk Ox Fjord
 Moskusokselandet
-Mount Saint Petersburg, Mount Petersberg
+Mount Saint Petersburg, Mount Petersberg, St. Petersburg Bjerg
 Mountnorris Fjord, Mountnorris Inlet
 Mudderbugt, Mudder Bay
 Mudderbugten, Mudderbay
@@ -3092,7 +3092,7 @@ Møller Ø, Anatsusok, Moller Island
 Mønselv
 Mørkebjerg
 Mørkefinger
-Mørkefjord
+Mørkefjord, Vigfusdalfjorden
 Mørkefjordsplateau
 Mørkeklint
 Mørkesund
@@ -3136,7 +3136,7 @@ Nanertalik
 Nanok
 Nanok Ø, Nanoks Ø
 Nanortalik
-Nanortalik Municipality
+Nanortalik Municipality, Nanortalik Kommune
 Nanortalikdal
 Nanortûpaluk
 Nansen Bugt
@@ -3177,8 +3177,8 @@ Narsaq, Narsak, Narssaq
 Narsaq Elv
 Narsaq Fjeld, Kvanefjeld, Narssaq Fjeld
 Narsaq Husfjeld, Narssaqs Husfjeld
-Narsaq Municipality, Narssaq
-Narsaq Pynt, Munargo Point, Narssaq Pynt
+Narsaq Municipality, Narsap Kommunia, Narssaq
+Narsaq Pynt, Munargo Point, Munargo Pynt, Narssaq Pynt
 Narsaq Sund, Narsak Passage, Narssaq Sund
 Narsarsuaq, Narsarssuak River, Narsarsuaq River, Narssarssuaq
 Narsarsuaq Reach
@@ -3208,7 +3208,7 @@ Nathorst Tinde
 Natip Ilua
 Natorâríssap Tasia
 Natsap Kangilia
-Natsek Cove
+Natsek Cove, Agajarua
 Natsiarsiorfik, Natsiorsiorfik
 Natsigdlip Qáqâ
 Natsiit Iluat, Natsîp Ilua
@@ -3349,7 +3349,7 @@ Nordhoek Bjerg, Nordhoeks Bjærg
 Nordkap
 Nordkronen, Nordkrone
 Nordlandet
-Nordlige Kitsissut, Kitsigsut, Nordlige Kitsigsut, Nordre Kitsigsut O
+Nordlige Kitsissut, Kitsigsut, Kitsissut Avannarliit, Nordlige Kitsigsut, Nordre Kitsigsut O
 Nordlige Mågeløb
 Nordlige Uummannartuut, Nordlige Ûmánartût
 Nordlyset Bjerg, Bjaerg Nordlyset, Mount Nordlyset
@@ -3455,7 +3455,7 @@ Nuugaatsiakajik, Nûgâtsiakajik
 Nuugutarsuaq, Nûgutarssuaq
 Nuuk, Nak, Qavdlo
 Nuuk Killeq, Nûk Kitdleq
-Nuuk Kommune, Godthaab Distrikt, Godthåb, Godthåb Distrikt
+Nuuk Kommune, Godthaab Distrikt, Godthåb, Godthåb Distrikt, Nuup Kommunia
 Nuuk Qiterleq, Nûk Qiterdleq
 Nuuk Takisooq, Nûk Takisoq
 Nuukajik, Nûkajik
@@ -3468,7 +3468,7 @@ Nuunngutaap Qaqqaa, Nûngutap Qáqâ, Nûngutaup Qáqâ
 Nuunngutak, Nûngutak
 Nuunngutakassak, Nûngûtakavsaq
 Nuunngutarsuaq, Nûngutarssuaq
-Nuup Kangerlua, Baals Revier, Ball River, Godthaabs Fjord, Godthaabsfjord, Nûp Kangerdlua
+Nuup Kangerlua, Baals Revier, Ball River, Godthaabs Fjord, Godthaabsfjord, Godthåbsfjord, Nûp Kangerdlua
 Nuup Nuua
 Nuup Qaava, Nûp Qâva
 Nuussuaaraq, Nûgssuâraq
@@ -3557,7 +3557,7 @@ Ole Rømer Ø, Ole Romers Ø, Pikiutdliuta, Pikuitdliuta, Romer Island
 Olrik Fjord, Olrik Bugt, Olriks Fjord
 Olrik Odden, Olrik Pynt
 Olsen Nunatakker
-Oodaap Qeqertaa
+Oodaap Qeqertaa, Oodaaq Ø
 Oqaatsoq, Okaitsok, Oqaitsoq
 Oqaatsorsuit Nunaat, Kaersorsuak, Oqaitsorssuit Nunât
 Oqaatsuerunnerit, Oqaitsuerúnerit
@@ -3610,7 +3610,7 @@ Paakitsarsuaq
 Paakitsoq, Ilordlek, Pakitsok, Pukitsoq, Pâkitsoq
 Paakitsup Ilorlia, Illordlek, Pâkitsup Ilordlia
 Paakitsup Nunaa, Pâkitsup Nuna
-Paamiut Kommuniat, Frederikshaab Distrikt, Frederikshåb, Frederikshåb District, Paamiut, Pâmiut
+Paamiut Kommuniat, Frederikshaab Distrikt, Frederikshåb, Frederikshåb District, Paamiut, Paamiut Kommune, Pâmiut
 Paannaat, Panat, Pângnât
 Paarliit, Pardleet, Pârdlit, Pârdtlit
 Paarnaqqortuut, Paonarqortût
@@ -3830,7 +3830,7 @@ Purpurfjeld
 Purpurfjeldene
 Pusisaraq, Pusigsaraq, Pusissaraq
 Pusitilit
-Pusterdal
+Pusterdal, Pustervigdalen
 Pustervig
 Putdlat
 Putdlatilik
@@ -3867,7 +3867,7 @@ Qaagik
 Qaamarujuk, Kamarujuk Fjord, Qaumarujuk
 Qaamasoq, Qaumassoq
 Qaanaaq Gletscher, Kanâd Gletscher, Qânâq Gletscher
-Qaanaaq Kommune, Avanersuaq, Avanersuup Kommunia, Qaanaaq, Qânâq, Thule, Thule District
+Qaanaaq Kommune, Avanersuaq, Avanersuup Kommunia, Qaanaap Kommunia, Qaanaaq, Qânâq, Thule, Thule District
 Qaani, Qâne
 Qaarsorsuaq, Kaersorssuak, Kaersorsuak, Kaerssorssuak, Qaersorssuaq, Qaerssorssuaq, Qearsorssuaq, Quarsorssuaq, Sanderson Hope
 Qaarsorsuatsiaq, Qaersorssuatsiaq
@@ -3885,7 +3885,7 @@ Qaarusuarsuk, Qârusuarssuk
 Qaarusuit, Qârussuit
 Qaarusuk, Qârusuk
 Qaarusussuaq
-Qaasuitsup
+Qaasuitsup, Qaasuitsup Kommune, Qaasuitsup Kommunia
 Qaatit, Qâtit
 Qaerorssuaq, Kôrorssuaq
 Qaersertivaq
@@ -3942,7 +3942,7 @@ Qapiarfiup Sermia
 Qaqaitsut
 Qaqatsiap Tasê
 Qaqortaq Gletscher, Kankoklah Bræ, Kankoklah Gletscher, Kankolah Gletscher, Krakokta Glacier
-Qaqortoq Municipality, Julianehaab Distrikt, Julianehåb, Julianehåb District, Qaqortoq
+Qaqortoq Municipality, Julianehaab Distrikt, Julianehåb, Julianehåb District, Qaqortoq, Qaqortup Kommunia
 Qaqortorssuaq
 Qaqortorssup Kangilia
 Qaqortukassak, Qaqortukavsaq
@@ -3984,7 +3984,7 @@ Qarssât Inât
 Qarúdlerssuaq
 Qasigialigssuaq
 Qasigialik, Kasigialik
-Qasigiannguit Kommune, Christianshaab District, Christianshåb, Christianshåb District, K'asigiánguit Kommûne, Qasigiannguit, Qasigiánguit
+Qasigiannguit Kommune, Christianshaab District, Christianshåb, Christianshåb District, K'asigiánguit Kommûne, Qasigiannguit, Qasigiannguit Kommuniat, Qasigiánguit
 Qasigiaqarfik
 Qasigiaqarfiup Kûa
 Qasigiaqartarfia
@@ -4020,7 +4020,7 @@ Qavdlunãnguit Avangnardlerssuat
 Qavtunâq
 Qeertartivaq, Kerkertarsuak, Qeqertarssuaq
 Qeertartivatsiaq, Kekertsuatsiak, Qeqertarssuatsiaq, Qêrtartivatsiaq
-Qeqertaarsuit, Camilla Reef, Manson Islands, Manson Øer, Mid Island, Qeqertârssuit
+Qeqertaarsuit, Camilla, Camilla Reef, Manson Islands, Manson Øer, Mid Island, Qeqertârssuit
 Qeqertaarsuk, Kekertarsuk, Qeqertârssuk
 Qeqertaarsunnguit Nunataat, Qekertarssuit Nunatât, Qeqertârssúnguit Nunatât
 Qeqertaarsuusaq, Qeqertârssûssaq
@@ -4044,9 +4044,9 @@ Qeqertarmiut, Kekertarmiut
 Qeqertarssua
 Qeqertarssuatsiaup Qáqâ
 Qeqertarssuatsiaup Tunuata Imâ, Qôrnua
-Qeqertarsuaq, Disko, Disko Island, Disko O, Herbert Island, Kekertarssuak, Kekertarsuak, Kekertatsiak, Kekertursuak, Kerkertarsuak, Kidko Island, Kikertarsuak, Nûgâtsiaq, Qeqertarssuag, Qeqertarssuaq, Qeqertarssûp, Qeqertassuaq, Qeqetarssuaq, Stor Island
+Qeqertarsuaq, Disko, Disko Island, Disko O, Herbert Island, Herbert Ø, Kekertarssuak, Kekertarsuak, Kekertatsiak, Kekertursuak, Kerkertarsuak, Kidko Island, Kikertarsuak, Nûgâtsiaq, Qeqertarssuag, Qeqertarssuaq, Qeqertarssûp, Qeqertassuaq, Qeqetarssuaq, Stor Island
 Qeqertarsuaq Avalleq, Qeqertarssuaq Avatdleq
-Qeqertarsuaq Kommune, Godhavn, Godhavn District, Qeqertarssûp, Qeqertarsuup
+Qeqertarsuaq Kommune, Godhavn, Godhavn District, Qeqertarssûp, Qeqertarsuup, Qeqertarsuup Kommunia
 Qeqertarsuasik, Qeqertarssuasik
 Qeqertarsuatsiaq, Qeqertarssuatsiaq
 Qeqertarsuit, Ederfugle Øer, Eider Duck Islands, Eider Duck Øer, Kekertarssuit, Kekertarsuit, Ketartik, Manson Øer, Qeqertarssuit, Qeqertûrssuit
@@ -4070,7 +4070,7 @@ Qeqertârssugssuaq
 Qeqertârssugtalik
 Qeqertârssui
 Qeqertârssulik
-Qeqqata
+Qeqqata, Qeqqata Kommune, Qeqqata Kommunia
 Qernertikajik
 Qernertoq, Kekertak Islands
 Qernertuarssup Qulâ, Kugssuak, Kugsuak
@@ -4132,7 +4132,7 @@ Qingârssuk
 Qingârssûp Qâva
 Qinngoq, Qíngoq
 Qinngoq Avannarleq, Qinnguadalen
-Qinngua, Gannet Bay
+Qinngua, Gannet Bay, Gannet Bugt
 Qinngua Avannarleq, Avangnardlek, Avangnatdlek, Qíngua Avangnardleq
 Qinngua Kujalleq, Kujatdleck, Kujatdlek, Qíngua Kujatdleq
 Qinnguata Kuussua, Qínguata Kûgssua
@@ -4194,7 +4194,7 @@ Quagssûp Alánguata Tase
 Quagssûp Taserssua
 Quajaqqisaarsuaq, Quajarqissârssuaq
 Quaratit
-Quassussuaq
+Quassussuaq, Lille Malene
 Quensel Bjerg
 Querssuaq
 Quervain Bjerg
@@ -4346,7 +4346,7 @@ Repulse Havn, Repulse Harbor
 Reservatet
 Rest Kløft
 Rest Pynt
-Reval Toppen, Reval Top
+Reval Toppen, Reval Top, Revaltoppe
 Revet
 Revlerne
 Reynold Ø, Reynolds Island
@@ -4370,7 +4370,7 @@ Rink Nunatak
 Ritenbenk Ø, Apane
 Ritomsø
 Roar Halvø
-Robertson Fjord, Robertson Bay, Robertson Bugt
+Robertson Fjord, Robertson Bay, Robertson Bugt, Siorapaluup Kangerlua
 Robertson Ø
 Robin Gletscher
 Rock Bakke, Rock Hill
@@ -4388,7 +4388,7 @@ Rosenborg Gletscher, Rosenborg Glacier
 Roseneathbugt
 Rosenvinge Bugt, Ronsenvinge Bugt, Rosenvinges Bay, Rosenvinges Bugt
 Rosio, Rosio Island
-Rossmule
+Rossmule, Rosmule
 Rotten, Nunatsiaq
 Royston Nunatakker
 Rubjerg Knude
@@ -4568,7 +4568,7 @@ Sarsat, Sardlat
 Satsissut, Satigsut, Satsigsun Øerne, Satsigsut
 Sattiaatteq, Sagdliarusek, Sagdliaruseq, Sagtiáiteq
 Satugssat
-Saunders Island, Agpa, Agpat, Saumders Ö
+Saunders Island, Agpa, Agpat, Saumders Ö, Saunders Ø
 Saunertôq
 Saussure Massiv
 Savage Gletscher
@@ -4597,7 +4597,7 @@ Schneekoppe, Snetoppen
 Schwarze Wand
 Schweizerland, Schweitzer Land
 Scoresby Land
-Scoresby Sund, Kangerdlugssuaq, Scoresby Sound
+Scoresby Sund, Kangerdlugssuaq, Kangertittivaq, Scoresby Sound
 Scotstounhill, Scotstownhill
 Scott Keltie Øer, Scott Kelties Øer, Scott Keltjes Øer
 Sederholm Bjerg
@@ -4634,13 +4634,13 @@ Sermeq Qerqardleq
 Sermeq Qiterleq, Sermeq Qiterdleq
 Sermeq Silarleq, Itivdliarsuk Bræ, Itivdliarsuks Isbræ, Sigssortartoq
 Sermermiut
-Sermersooq, Sermersok
+Sermersooq, Kommuneqarfik Sermersooq, Sermersok, Sermersooq Kommune
 Sermersoq, Sermerssoq
 Sermerssuaq
-Sermersuak, Moltke Glacier, Moltkes Brae, Moltkes Gletsjer, Sermerssuak, Uvdlip Sermia
+Sermersuak, Harald Moltke Bræ, Moltke Glacier, Moltkes Brae, Moltkes Gletsjer, Sermerssuak, Uvdlip Sermia
 Sermersuaq
 Sermersuup Kangerlua
-Sermersuut, Hamborgerlandet, Semersut, Sermersut, Sermersut Ø
+Sermersuut, Hamborgerland, Hamborgerlandet, Semersut, Sermersut, Sermersut Ø
 Sermersuut Point, Semersut Point
 Sermiarssuk
 Sermigdlip Pâva
@@ -4684,7 +4684,7 @@ Sif Glacier
 Sif Vig
 Siggartartulik
 Siggut
-Sigguup Nunaa, Svartenhuk Half Island, Svartenhuk Peninsula, Svartenhuks Halvö
+Sigguup Nunaa, Svartenhuk Half Island, Svartenhuk Halvø, Svartenhuk Peninsula, Svartenhuks Halvö
 Sigkitivit
 Sigssarigsoq
 Sigssarigsut, Sigssarigsut Qulât
@@ -4737,7 +4737,7 @@ Siportôq, Siportok, Supertok
 Sipulik
 Siseratut
 Sisikavsak
-Sisimiut Kommune, Holsteinsborg, Holsteinsborg District, Holstensborg Distrikt, Sisimiut
+Sisimiut Kommune, Holsteinsborg, Holsteinsborg District, Holstensborg Distrikt, Sisimiut, Sisimiut Kommuniat
 Sisit Igdluligssuit
 Sissarissut, Sigsarigsok, Sigssarigsuk
 Sisuarigsut
@@ -4768,7 +4768,7 @@ Skelelven
 Skelhøje
 Skene Øer, Skenes Øer
 Skibshavn, Danish Harbor, Godthaab Harbour, Skibshavnen
-Skibssø
+Skibssø, Vandsø
 Skiferdal
 Skiferkløft, Skiferkløoft
 Skildpadden, Helikoptentop
@@ -5143,7 +5143,7 @@ Tartuarqat
 Taseq
 Taseraarsuk, Taserârsuk
 Taserakasak
-Tasermiut, Ketils Fjord
+Tasermiut, Ketils Fjord, Tasermiut Fjorden
 Tasermiutsiaq
 Taserpik
 Taserqat
@@ -5287,7 +5287,7 @@ Torssukatak Narrows, Torssukatak Snaevering
 Torssukátak, Tunoq
 Torssûp Qáve
 Torssût
-Torsukattak, Torssuk Atak, Torssukatak Snævring, Torsukatak, Torsukatak Fjord
+Torsukattak, Nordre Løb, Torssuk Atak, Torssukatak Snævring, Torsukatak, Torsukatak Fjord
 Torsuup Nunaa, Torssûp Nunâ
 Torsuut
 Torsuut Tunoq, Tuno, Tunoq
@@ -5365,7 +5365,7 @@ Tunorssuaq
 Tunorssûp Kûa, Pakalagdlip Kua
 Tunorsuaq
 Tunorsuup Nunaa, Tunorssûp Nunâ
-Tunu, East Greenland, Tuno
+Tunu, East Greenland, Tuno, Østgrønland
 Tunua
 Tunuaraq
 Tunugdliup Nunâ, Tunugdleq
@@ -5388,7 +5388,7 @@ Tupertalik
 Tupikajik
 Tupilak
 Tupitsivik
-Tuppiap Qeqertaa, Tobias Island
+Tuppiap Qeqertaa, Tobias Island, Tobias Ø
 Tupârssúnguit
 Turidsøen
 Turner Sund, Turner Sound
@@ -5496,7 +5496,7 @@ Ujarasussuk, Ujarasugssuk
 Ujarasussuup Qinngua, Ujarasugssûp Qíngua
 Ujaratsiait Qâva
 Ujaráinaq
-Ujuaakajiip Nunaa, Danmarks Ø
+Ujuaakajiip Nunaa, Danmark Ø, Danmarks Ø
 Ujâgsuk, Ujaragssuk
 Ukalialigssuaq
 Ukalilik, Ukalik
@@ -5542,7 +5542,7 @@ Umiasussuup Ilua, Umiasugssûp Ilua
 Umiatsiaussat
 Umigtuarajît
 Umiiarneq, Umîarneq
-Umiiviip Kangertiva, Gyldenløves Fjord, Umivip-Kangerdlua
+Umiiviip Kangertiva, Gyldenløve Fjord, Gyldenløves Fjord, Umivip-Kangerdlua
 Umiiviit, Bowdoin Bay, Kugssuak, South Fork, Umivit
 Umiiviitaa, Umîviutâ, Umîvîtâ
 Umiivik, Umiavik, Umivik, Umivik Bugt, Umîvik Bay
@@ -5567,7 +5567,7 @@ Upernaviarsuk
 Upernavik, Upernivik Island
 Upernavik Isfjord, Summer Fjord, Upernaviks Isfjord, Upernivik Isfjord
 Upernavik Isstrøm, Upernaviks Isstrøm, Upernivik Bræ
-Upernavik Kommune, Upernavik District, Upernivik Distrikt
+Upernavik Kommune, Upernavik District, Upernaviup Kommunia, Upernivik Distrikt
 Upernavissuaq, Upernavigssuaq, Upernivigssuaq, Upernâgssuak, Upernâgssuaq
 Uperniviarssuit
 Uperniviarssûp Qáqâ
@@ -5607,9 +5607,9 @@ Uummannap Sullua, Umanak Channel, Ûmánap Suvdlua
 Uummannap Tasiilaa, Ûmánap Tasîlâ
 Uummannap Timaa, Ûmánap Timâ
 Uummannap Tunoqquttariaa, Ûmánap Tunorqútariâ
-Uummannaq, Dundas Fjeld, Mount Dundas, Sugar Loaf, Thule Fjeld, Torstein Islænder, Torstein Islænderø, Umanak, Umanak Area, Umanak Island, Umanaq
+Uummannaq, Dundas Fjeld, Mount Dundas, Sugar Loaf, Thorstein Islænder, Thule Fjeld, Torstein Islænder, Torstein Islænderø, Umanak, Umanak Area, Umanak Island, Umanaq
 Uummannaq Fjord, Umanak Fjord, Umanaks Fjord
-Uummannaq Kommune, Umanak Distrikt, Uummannaq District
+Uummannaq Kommune, Umanak Distrikt, Uummannap Kommunia, Uummannaq District
 Uummannarsuaq, Ûmánarssuaq
 Uummannat, Umanak, Umanat Ö
 Uummannguaq, Ûmánánguaq
@@ -5744,7 +5744,7 @@ Wistar Bjerg, Mount Wistar, Vistars Bjaerg, Wistarbjaerg, Wistars Bjaerg
 Witzansky Gletscher
 Wollaston Forland
 Wolstenholme Fjord, Uummannap Kangerlua, Wolstenholme Sound, Ûmánap Kangerdlua
-Wolstenholme Island, Kekertarssuak, Kekertasuak Agpa, Qeqertarssuaq
+Wolstenholme Island, Kekertarssuak, Kekertasuak Agpa, Qeqertarssuaq, Wolstenholme Ø
 Wordie Bugt, Wordies Bay
 Wordie Gletscher
 Wright Bugt, Wright Bay

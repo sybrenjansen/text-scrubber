@@ -81,7 +81,7 @@ Banteay Chhmar, បន្ទាយឆ្មារ
 Banteay Daek, បន្ទាយដែក
 Banteay Dei, បន្ទាយដី
 Banteay Krang, បន្ទាយក្រាំង
-Banteay Meanchey, Bântéay Méan Cheăy, Bântéay Méan Choăy, Khaet Banteay Meanchey, Khétt Bântéay Méan Cheăy, Khétt Bântéay Méan Choăy, Sisophon, ខេត្តបន្ទាយមានជ័យ
+Banteay Meanchey, Bântéay Méan Cheăy, Bântéay Méan Choăy, Khaet Banteay Meanchey, Khétt Bântéay Méan Cheăy, Khétt Bântéay Méan Choăy, Province de Banteay Mean Chey, Sisophon, ខេត្តបន្ទាយមានជ័យ
 Banteay Meas, បន្ទាយមាស
 Banteay Meas Khang Kaeut, បន្ទាយមាសខាងកើត
 Banteay Meas Khang Lech, បន្ទាយមាសខាងលិច
@@ -881,11 +881,11 @@ Kamping Puoy Reservoir
 Kampoan, កំពាន់
 Kampong Ampil, កំពង់អំពិល
 Kampong Bay, Krong Kampot, កំពង់បាយ, កំពត
-Kampong Cham, Kampong Cham Province, Khet Kompong Cham, Khétt Kâmpóng Cham, Khêt Kâmpóng Cham, Kompong Chan, Krong Kampong Cham, Province de Kompong Cham, Résidence de Kompong Cham, កំពង់ចាម, ខេត្តកំពង់ចាម
+Kampong Cham, Kampong Cham Province, Khet Kompong Cham, Khétt Kâmpóng Cham, Khêt Kâmpóng Cham, Kompong Chan, Krong Kampong Cham, Province de Kampong Cham, Province de Kompong Cham, Résidence de Kompong Cham, កំពង់ចាម, ខេត្តកំពង់ចាម
 Kampong Chamlang, កំពង់ចំឡង
 Kampong Chen Cheung, កំពង់ចិនជើង
 Kampong Chen Tboung, កំពង់ចិនត្បូង
-Kampong Chhnang, Kampong Chhnang Province, Khet Kompong Chhnang, Khétt Kâmpóng Chhnăng, Khêt Kâmpóng Chhnăng, Krong Kampong Chhnang, Province de Kompong Chhang, Résidence de Kompong Chnang, កំពង់ឆ្នាំង, ខេត្តកំពង់ឆ្នាំង
+Kampong Chhnang, Kampong Chhnang Province, Khet Kompong Chhnang, Khétt Kâmpóng Chhnăng, Khêt Kâmpóng Chhnăng, Krong Kampong Chhnang, Province de Kampong Chhnang, Province de Kompong Chhang, Résidence de Kompong Chnang, កំពង់ឆ្នាំង, ខេត្តកំពង់ឆ្នាំង
 Kampong Damrei, កំពង់ដំរី
 Kampong Hau, កំពង់ហៅ
 Kampong Kandal, កំពង់កណ្ដាល
@@ -1002,7 +1002,7 @@ Kaoh Kong, Co Kong, Kas Kong, Kau Kong, Ko Kong, Kos Kong, Île Kong, Île de Kh
 Kaoh Koun, Kaôh Kon, Kâs Koum, Île Cône, កោះកូន
 Kaoh Lai, Dân Lai, កោះ ឡៃ
 Kaoh Mitt, កោះមិត្ដ
-Kaoh Mouy
+Kaoh Mouy, Ile Abri
 Kaoh Oknha Tei, កោះឧកញ៉ាតី
 Kaoh Ou Totueng, Kaôh O Tôtœ̆ng, Kâs O Totung
 Kaoh Pang, កោះប៉ង់
@@ -1020,7 +1020,7 @@ Kaoh Ruessei, Bamboo Island, Koh Russei, Koh Russey, Russey Koh, Southwest Islan
 Kaoh Rung, កោះរ៉ុង
 Kaoh Sampov, កោះសំពៅ
 Kaoh Samraong, កោះសំរោង
-Kaoh Seh, Hòn Kéo Ngual, Hón Kiêm Giang, Koh Sef, Koh Seh, Koh Ses, Kôs Sès, កោះសេះ
+Kaoh Seh, Hòn Kéo Ngual, Hón Kiêm Giang, Ile a L'eau, Koh Sef, Koh Seh, Koh Ses, Kôs Sès, កោះសេះ
 Kaoh Smach, Kas Samit, Kas Smach, Kaw Samit, Koh Samit, Koh Smach, កោះស្មាច់
 Kaoh Snaeng, Dân Snèng, Kaôh Snêng, កោះស្នែង
 Kaoh Son, Kaôh Sŭn, កោះស៊ុន
@@ -1133,7 +1133,7 @@ Kaôh Sâmbôr, Kas Sambûu
 Kaôh Sâmpoŭ Lŭm, កោះ សំពៅលុំ
 Kaôh Sâmpéay, Kas Sampéay, កោះសំពាយ
 Kaôh Séh Slap, Kaôh Séh Slăb, កោះសេះស្លាប់
-Kaôh Sês, Hon Nuoc, Koh Ses, Kăs Sès, Tian Moy, Water Island
+Kaôh Sês, Hon Nuoc, Koh Ses, Kăs Sès, Tian Moy, Water Island, Île de l'Eau
 Kaôh Sănchaura
 Kaôh Ta Ké, Kas Takaye
 Kaôh Ta Mov, Kas Tamau
@@ -1143,7 +1143,7 @@ Kaôh Takôr, Kas Rot
 Kaôh Tamau, Kas Tamou
 Kaôh Tang, Co Tang, Kas Tang, Kaw Tang, Koh Tang, Koh Tung, Tang Island, Tankwala Island, Île Tang, កោះតាង
 Kaôh Tbong Khla, Kas Beng Khla
-Kaôh Thmei, Hon Phu Du, Kas Tmei, Koh Thmei, Koh Thmey, Mileau, Phu do, Île du Milieu, កោះថ្មី
+Kaôh Thmei, Hon Phu Du, Ile du Milieu, Kas Tmei, Koh Thmei, Koh Thmey, Mileau, Phu do, កោះថ្មី
 Kaôh Thom, Kas Thom, Koh Thom, កោះធំ
 Kaôh Thvang, កោះ ច្វាង
 Kaôh Tnaôt, Kas Tnol
@@ -1194,7 +1194,7 @@ Khan Tuŏl Koŭk, Khan Toui Kouk, Tuol Kouk, ទួលគោក
 Khao Banthat, Phmun Knong Son, Phnŭm Klŏng Sŏn, ភ្នំក្លុងសុន
 Khao Kuap, Khao Kuop, Phnom Thom, ភ្នំធំ
 Khao Phanom Chat, Chatt, Phnom Chatt, Phnum Chhăt, Phnŭm Chhatt
-Khao Phanom Dong Rak, Phanom Dang Raek, Phanom Dong Rak, Phnum Dângrêk, Phù den Mn'ong
+Khao Phanom Dong Rak, Dongrek, Phanom Dang Raek, Phanom Dong Rak, Phnum Dângrêk, Phù den Mn'ong
 Khao Phanom Kai, Khao Pnom Mac Kai, Phanom Mae Kai, Phnom Serouy
 Khao Phra Wihan, Kao Praviharn, Khao Phra Viharn, Khao Phrom Wihan
 Khao Ta Bat, Phnŭm Ta Bat, ភ្នំតាបាទ
@@ -1259,7 +1259,7 @@ Koas Krala, គាស់ក្រឡ
 Koh Andaug
 Koh Chan
 Koh Khmauch
-Koh Kong, Khaet Koh Kong, Khet Koh Kong, Khet de Kâs-Kong, Khétt Kaôh Kŏng, Khêt Kaôh Kŏng, Kâs Kong, Province de Koh Kong, Province de Kos Kong, Srok Koh Kong, Srŏk Kaôh Kŏng, កោះកុង, ខេត្តកោះកុង
+Koh Kong, Khaet Koh Kong, Khet Koh Kong, Khet de Kâs-Kong, Khétt Kaôh Kŏng, Khêt Kaôh Kŏng, Kâs Kong, Province de Kaoh Kong, Province de Koh Kong, Province de Kos Kong, Srok Koh Kong, Srŏk Kaôh Kŏng, កោះកុង, ខេត្តកោះកុង
 Koh Rong, Co Rong, Kas Rong, Kau Rong, Kaw Rong, Kaôh Rŏng, Ko Rong, Koh Rung, Kos Rong, Île Rong, កោះរុង
 Koh Rong Sanloem, Kaoh Rong Sanloem, Kaoh Rung Samloem, Kas Rong Sam Lem, Kaw Rongsamlem, Kaôh Rông Sâmlœ̆m, Koh Rong Sam Lem, Kos Rong Sam Lem, Rong Sam Lem Island, Sanloem, Île Rong Sam Lem, កោះរុងសំឡឹម
 Kok Lak, កុកឡាក់
@@ -4720,7 +4720,7 @@ Preah Sdach, ព្រះស្ដេច
 Preah Sihanouk, Kampong Som, Khaet Preah Sihanouk, Khétt Preăh Seihânŭ, Krŏng Preăh Seihânŭ, Preăh Seihânŭ, Sihanouk, ខេត្តព្រះសីហនុ
 Preah Srae, ព្រះស្រែ
 Preah Theat, ព្រះធាតុ
-Preah Vihear, Khétt Preăh Vĭhéar, Khêt Preăh Vihéar, Preah Vihear Province, ខេត្តព្រះវិហារ
+Preah Vihear, Khétt Preăh Vĭhéar, Khêt Preăh Vihéar, Preah Vihear Province, Province de Preah Vihear, ខេត្តព្រះវិហារ
 Preak Chun
 Preak Dak, ព្រះដាក់
 Preak Moat Peam, Prek Ream, Prêk Moăt Péam, Rach Kaky
@@ -4899,10 +4899,10 @@ Pu Leh
 Pu Trom
 Puk Ruessei, ពុកឫស្សី
 Puok
-Pursat, Khaet Pursat, Khet Pursat, Khétt Poŭthĭsăt, Khêt Poŭthĭsăt, Krong Pursat, Poŭsăt, Poŭthĭsăt, Province de Pursat, Pursat Municipality, Résidence de Pursat, Sampov Meas, ក្រុងពោធិ៍សាត់, ខេត្តពោធិ៍សាត់, ពោធិ៍សាត់
+Pursat, Khaet Pursat, Khet Pursat, Khétt Poŭthĭsăt, Khêt Poŭthĭsăt, Krong Pursat, Poŭsăt, Poŭthĭsăt, Province de Pouthisat, Province de Pursat, Pursat Municipality, Résidence de Pursat, Sampov Meas, ក្រុងពោធិ៍សាត់, ខេត្តពោធិ៍សាត់, ពោធិ៍សាត់
 Putrea, ពុទ្រា
 Raksa, រក្សា
-Ratanakiri, Khaet Ratanakiri, Khet Ratanakiri, Khét Rôtânâk Kiri, Khétt Rôtânôkiri, Khétt Rôtânăh Kiri, Khêt Rôtânôkiri, Province de Ratanak Kiri, Ratanakiri Province, Ratankiri, Rattanakiri, Rótânôkiri, Rôtânăh, Rôtânăh Kiri, ខេត្តរតនគិរី
+Ratanakiri, Khaet Ratanakiri, Khet Ratanakiri, Khét Rôtânâk Kiri, Khétt Rôtânôkiri, Khétt Rôtânăh Kiri, Khêt Rôtânôkiri, Province de Ratanak Kiri, Province de Ratanakiri, Ratanakiri Province, Ratankiri, Rattanakiri, Rótânôkiri, Rôtânăh, Rôtânăh Kiri, ខេត្តរតនគិរី
 Reab, រាប
 Reach Montir, រាជមន្ទីរ
 Reaks Chey, រក្សជ័យ
@@ -4910,7 +4910,7 @@ Reaksmei, រស្មី
 Reaksmei Sameakki, រស្មីសាមគ្គី
 Ream, រាម
 Ream Andaeuk, រាមអណ្ដើក
-Ream National Park
+Ream National Park, Parc national de Ream
 Reang Kesei, រាំងកេសី
 Reang Til, រាំងទិល
 Reathor, រាធរ

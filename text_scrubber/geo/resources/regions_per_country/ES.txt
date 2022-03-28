@@ -4,7 +4,7 @@
 A Coruña, Corunna, La Coruña, The Groyne
 A Guarda, La Guardia
 A Illa da Toxa, Isla de la Toja
-A Marola
+A Marola, Pena da Marola
 A Mezquita
 A Palma
 A Peneda
@@ -781,7 +781,7 @@ Anchuelo
 Anchuras
 Ancín / Antzin, Antzin
 Andalucia Park
-Andalusia, Andalucía, Andaluzia, Comunidad Autónoma de Andalucía, Андалусия
+Andalusia, Andalosia, Andalucía, Andaluzia, Comunidad Autónoma de Andalucía, Андалусия
 Andarax
 Andavías
 Andenes de los Gavilanes
@@ -1034,7 +1034,7 @@ Arrigorriaga
 Arrilabain
 Arroba de los Montes
 Arroio da Oraña de Ameneiro
-Arroio da Ribeira
+Arroio da Ribeira, Arroio San Simón
 Arrokaundieta, Monte Grandes Arrocas
 Arrollo del Puerto
 Arrollo del Villar
@@ -3462,11 +3462,11 @@ Balaguer, Балагер
 Balanegra
 Balazote
 Balbases Los
-Balboa
+Balboa, Valboa
 Balconchán
-Baldaio Beach
+Baldaio Beach, Praia de Baldaio
 Baldellou
-Balearic Islands, Balear Uharteak, Ballerics, Islas Baleares, Балеарские острова
+Balearic Islands, Balear Uharteak, Ballerics, Illas Balearas, Illas Baleares - Illes Balears, Islas Baleares, Балеарские острова
 Baleira
 Balenyà
 Baliarrain
@@ -5188,7 +5188,7 @@ Cabo Ventoso, Cabe Calabaxa, Cabo Calabaza
 Cabo Veo
 Cabo Vidio, Cabo Bidio, Cabo Vidrio
 Cabo Vidrias
-Cabo Villano, Cape Vilan, Cape Villano
+Cabo Villano, Cabo Vilán, Cape Vilan, Cape Villano
 Cabo d'en Font, Cabo Fonts
 Cabo da Buitra
 Cabo da Laxe, Punta Insua de Lage, Punta de Cabo Lage, Punta de Lage
@@ -5746,7 +5746,7 @@ Canales
 Canales de la Sierra
 Canalillo de Caños de Carmona, Acueducto Romano, Acueducto Romano de los Caños de Carmona
 Canals, Канальс
-Canary Islands, Archipielago de Las Canarias, Archipiélago Canario, Canarias, Canaries, Comunidad Autónoma de Canarias, Comunidad Canaria, Fortunate Isles, Guanche Republic, Illes Canàries, Islas Canarias, Kanariak, Автономная область Канарских Островов, Канарские Острова
+Canary Islands, Archipielago de Las Canarias, Archipiélago Canario, Canarias, Canaries, Comunidad Autónoma de Canarias, Comunidad Canaria, Fortunate Isles, Guanche Republic, Illas Canarias, Illes Canàries, Islas Canarias, Kanariak, Автономная область Канарских Островов, Канарские Острова
 Canchal Negro
 Canchal de la Ceja
 Candamo
@@ -6119,8 +6119,8 @@ Castilfrío de la Sierra
 Castiliscar
 Castilla la Mancha Park
 Castilla la Vieja, Castilla Vieja
-Castilla y León, Castella i Lleó, Castile and León, Castille and León, Comunidad Autónoma de Castilla y León, Gaztela eta Leon, Кастилия и Леон
-Castilla-La Mancha, Castella - la Manxa, Castella i la Manxa, Castile-La Mancha, Castille-La Mancha, Comunidad Autónoma de Castilla-La Mancha, Gaztela-Mantxa, Кастилия — Ла-Манча
+Castilla y León, Castela e León, Castelha e Leon, Castella i Lleó, Castile and León, Castille and León, Comunidad Autónoma de Castilla y León, Gaztela eta Leon, Кастилия и Леон
+Castilla-La Mancha, Castela-A Mancha, Castelha-La Mancha, Castella - la Manxa, Castella i la Manxa, Castile-La Mancha, Castille-La Mancha, Comunidad Autónoma de Castilla-La Mancha, Gaztela-Mantxa, Кастилия — Ла-Манча
 Castillazuelo
 Castilleja de Guzmán
 Castilleja de la Cuesta
@@ -6202,7 +6202,7 @@ Castroviejo
 Castrón de Santiuste, Castrón de San Yuste
 Castuera
 Catadau
-Catalunya, Catalonia, Cataluña, Comunidad Autónoma de Cataluña, Principat de Catalunya, el Principat, Каталония
+Catalunya, Catalonha, Catalonia, Cataluña, Comunidad Autónoma de Cataluña, Principat de Catalunya, el Principat, Каталония
 Catalunya en Miniatura
 Catarroja
 Catoira, Катойра
@@ -6383,7 +6383,7 @@ Cercado Park
 Cerceda, Серседа
 Cercedilla
 Cercs, Serchs, Серкс
-Cerdanya, Cerdagne, Cerdaña, La Cerdagne, Сердань
+Cerdanya, Cerdagne, Cerdanha, Cerdaña, La Cerdagne, Сердань
 Cerdanyola del Vallès, Sardañola del Vallés, Серданьола-дель-Вальес
 Cerdedo
 Cerdedo-Cotobade
@@ -7175,10 +7175,10 @@ Compañía de Vinos del Atlántico
 Comunidad de Madrid, Autonomous Region of Madrid, Community of Madrid, Comunidad Autónoma de Madrid, Comunitat de Madrid, Madrilgo Erkidegoa, Región de Madrid, Область Мадрид
 Comunidades Europeas Park
 Comunidades Park
-Comunitat Autònoma de les Illes Balears, Balear Uharteak, Baleares, Comunidad Autónoma de las Islas Baleares, Islas Baleares, ses Illes, Автономная область Балеарских Островов, Балеарские Острова
+Comunitat Autònoma de les Illes Balears, Balear Uharteak, Baleares, Comunidad Autónoma de las Islas Baleares, Illas Baleares, Islas Baleares, ses Illes, Автономная область Балеарских Островов, Балеарские Острова
 Comunitat Valenciana, Comunidad Valenciana, País Valencià, Region of Valencia, Reino de Valencia, Valencian Community, Валенсия, Область Валенсия
 Con da Escorregadoira
-Con de Chilreu
+Con de Chilreu, Con de Chirleu
 Con de tres pés
 Con do Cocodrilo
 Con do Forno
@@ -7190,7 +7190,7 @@ Concha de Gijón, Port Gijon
 Concordia Park
 Condado de Castilnovo
 Condado de Haza
-Condado de Treviño, Trebiñu, Trebiñu Konderria, Кондадо-де-Тревиньо
+Condado de Treviño, Comtat de Trebiñu, Trebiñu, Trebiñu Konderria, Кондадо-де-Тревиньо
 Condemios de Abajo
 Condemios de Arriba
 Condes de Albarei
@@ -7704,7 +7704,7 @@ El Baul
 El Bayón
 El Bergantín, Islote Bergantín
 El Berrueco
-El Bierzo, Bierzo, Эль-Бьерсо
+El Bierzo, Bierzo, O Bierzo, Эль-Бьерсо
 El Blanquizar
 El Boalo
 El Bocino
@@ -8244,10 +8244,10 @@ Estamariu
 Estanca de Añesa
 Estanca de Canales
 Estanca del Gancho
-Estanh Redon, Estany Redon
-Estanh Tòrt de Rius, Estany Tort de Rius
-Estanh de Mar, Estany de Mar
-Estanh de Rius, Estany de Rius
+Estanh Redon, Estany Redon, Lac Redon
+Estanh Tòrt de Rius, Estany Tort de Rius, Lac Tòrt de Rius
+Estanh de Mar, Estany de Mar, Lac de Mar
+Estanh de Rius, Estany de Rius, Lac de Rius
 Estanque Negro, Lago Negro
 Estanque Pudent
 Estanque de Liat, Estany de Liat
@@ -8325,7 +8325,7 @@ Ezkio-Itsaso, Ezquioga-Ichaso
 Ezkurra, Ezcurra, Эскурра
 Ezprogui
 Fabara
-Fabero
+Fabero, Fabeiro
 Facheca
 Fageda d'en Jordà
 Fageda del Samont
@@ -8781,7 +8781,7 @@ Galdakao, Galdacano, Galdakano
 Galdames
 Galende
 Galera
-Galicia, Comunidad Autónoma de Galicia, Galizia, Галисия, Галиция
+Galicia, Comunidad Autónoma de Galicia, Galiza, Galizia, Галисия, Галиция
 Galilea
 Galindo, Galindo ibaia, Río Galindo
 Galindo y Perahuy
@@ -8966,8 +8966,8 @@ Gimileo
 Gines
 Ginestar
 Gineta La
-Gipuzkoa, Guipúscoa, Guipúzcoa, Provincia de Guipúzcoa, Província de Guipúscoa, Гипускоа
-Girona, Gerona, Жирона
+Gipuzkoa, Guipuscoa, Guipúzcoa, Provincia de Guipúzcoa, Província de Guipúscoa, Гипускоа
+Girona, Gerona, Xirona, Жирона
 Gironella
 Gisclareny
 Gistaín
@@ -9096,7 +9096,7 @@ Grávalos
 Guachinche El Paso
 Guachinche Papa Frita
 Guadahortuna
-Guadalajara, Гвадалахара
+Guadalajara, Guadalaxara, Гвадалахара
 Guadalaviar, Гуадалавьяр
 Guadalcanal
 Guadalcázar
@@ -9291,7 +9291,7 @@ Hoces del rio Duraton
 Holguera
 Holiday World Beach Club
 Hombrados
-Hondarribia, Fuenterrabía, Фуэнтеррабия
+Hondarribia, Fuenterrabía, Hont Arràbia, Фуэнтеррабия
 Hondo del Campo
 Hondón de los Frailes
 Honrubia
@@ -9495,7 +9495,7 @@ Illa Erbosa
 Illa Fantasia
 Illa Gabeira, Isla Gaveira
 Illa Grossa, Punta Conellas
-Illa Guidoiro
+Illa Guidoiro, Illa Pedregoso
 Illa Insúa d'Area, Insua de Area, Isla da Insua
 Illa Malante, Isla Atalayero, Isla Malante
 Illa Malveira, Peñas Marbéira
@@ -9506,7 +9506,7 @@ Illa Pedrosa
 Illa Percebellosa
 Illa Redonda
 Illa Rúa
-Illa San Bartolomeu, Isla San Bartolomé, Piedra San Bartolomé
+Illa San Bartolomeu, Illa de San Bartolomeu, Isla San Bartolomé, Piedra San Bartolomé
 Illa d'Alcanada
 Illa d'Eivissa, Eivissa, Ивиса
 Illa d'en Porros
@@ -9540,7 +9540,7 @@ Illa den Colom
 Illa des Bosc
 Illa des Conills, Conejera, Conillera, Illa Conillera
 Illa des Penjat
-Illa do Arioso
+Illa do Arioso, Illa Arioso do Guidoiro
 Illa es Vedra
 Illana
 Illano
@@ -9701,7 +9701,7 @@ Isla del Rey
 Isla del Sujeto
 Island of the Doves
 Islas Bledas
-Islas Chafarinas, Chafarin Islands, Chafarinak, Chafarinas Islands, Iles Chaffarines, Illes Chafarinas, Zafarin Islands, Zafarin Islas, Чафаринас
+Islas Chafarinas, Chafarin Islands, Chafarinak, Chafarinas Islands, Iles Chaffarines, Illas Chafarinas, Illes Chafarinas, Zafarin Islands, Zafarin Islas, Чафаринас
 Islas Columbretes, Columbretes, Columbretes Islands, Les Columbretes
 Islas Cíes, Cies Islands, Islas de Bayona
 Islas Hormigas
@@ -9836,7 +9836,7 @@ Javalambre
 Javea, Xàbia
 Javier
 Jayena
-Jaén, Хаэн
+Jaén, Xaén, Хаэн
 Jerez de la Frontera
 Jerez de los Caballeros
 Jerte
@@ -9856,7 +9856,7 @@ Jorcas
 Jorge Guillén
 Jorquera
 Josa
-Josa i Tuixén, Josá Tuixent, Жоса-и-Тушен
+Josa i Tuixén, Josa i Tuixent, Josá Tuixent, Жоса-и-Тушен
 Josede
 Josep Ribelles Park
 José Abarca Vinos
@@ -10170,7 +10170,7 @@ La Ribera, Erribera, Ribera, Ribera del Ebro, Ribera del Tudela, Ribera navarra
 La Ribera Park
 La Rica
 La Rinconada
-La Rioja, Comunidad Autónoma de La Rioja, Errioxa, Errioxako Autonomia Erkidegoa, Rioja Baja, Риоха
+La Rioja, A Rioxa, Comunidad Autónoma de La Rioja, Errioxa, Errioxako Autonomia Erkidegoa, Rioja Baja, Риоха
 La Rioja Alta
 La Risca
 La Rivera
@@ -10729,7 +10729,7 @@ Las Monjas
 Las Morenas
 Las Paderejas
 Las Pajarillas
-Las Palmas de Gran Canaria, Canarias - Gran Canaria, Las Palmas, Las Palmas Kanaria Handikoa, Лас-Пальмас-де-Гран-Канария
+Las Palmas de Gran Canaria, As Palmas de Gran Canaria, Canarias - Gran Canaria, Las Palmas, Las Palmas Kanaria Handikoa, Лас-Пальмас-де-Гран-Канария
 Las Pantorgas
 Las Pedreras
 Las Perrazas
@@ -10918,7 +10918,7 @@ Llasa Agustina, Agustina, Llasa de la Cañada
 Llaurí
 Llavorsí
 Lledó
-Lleida, Lérida, Льейда
+Lleida, Lhèida, Lérida, Льейда
 Llera
 Llerena, Льерена
 Llers, Льерс
@@ -11334,7 +11334,7 @@ Malgrat de Mar
 Malla
 Mallabia, Mallavia, Мальявия
 Mallo de Acherito
-Mallorca, Isla de Mallorca, Majorca, Mayurqa, Мальорка
+Mallorca, Isla de Mallorca, Majorca, Malhòrca, Mayurqa, Мальорка
 Mallorca Madness
 Mallos de Riglos
 Mallutz
@@ -11571,7 +11571,7 @@ Massamagrell, Masamagrell, Масамагрель
 Massanassa, Masanasa
 Massanes
 Massif d'Anaga
-Massif de Vignemale, Macizo de Vignemale, Massís de Vinyamala
+Massif de Vignemale, Macizo de Vignemale, Massís de Vinyamala, Vinyamala
 Massoteres
 Massís de les Guilleries, Las Grillerias, Las Guillerías, Les Guilleries
 Massís del Montseny, El Montseny
@@ -11776,7 +11776,7 @@ Minorca Port, Minorca Ferry Port, Minorca Harbour
 Mira
 Mirabel
 Mirabueno
-Miradoiro dos Torgás
+Miradoiro dos Torgás, Os Torgás
 Mirador Alto
 Mirador Da Rá
 Mirador de la Paz Park
@@ -12074,7 +12074,7 @@ Monte Chico
 Monte Chucho Alto
 Monte Confital
 Monte Corona
-Monte Coruxa
+Monte Coruxa, Monte Curuxa
 Monte Crucheta
 Monte Cruz
 Monte Dehesa de Monillo
@@ -12202,7 +12202,7 @@ Monte del Pedregal
 Monte del Quinxo
 Monte del Renegado
 Monte do Castelo
-Monte do Faro de Domaio
+Monte do Faro de Domaio, Faro de Domaio, Monte Faro Domaio, Monte Xaxán
 Monte do Gaiás
 Monte do San Cristobo
 Monte do faro
@@ -12321,7 +12321,7 @@ Montán
 Montánchez
 Montón
 Montón de Trigo
-Monzón, Montsó, Монсон
+Monzón, Montson, Montsó, Монсон
 Monzón de Campos
 Monóvar/Monòver
 Mora
@@ -13750,7 +13750,7 @@ Parés Baltà Winery
 París Park
 Pas d'Escales
 Pas de Pancha Blanca
-Pasaia, Pasajes
+Pasaia, Pasajes, Passatjes
 Pasaiako portua, Puerto de Pasajes
 Pasajirón
 Pasarón de la Vera
@@ -13796,7 +13796,7 @@ Pazo San Mauro
 Pazo de Ximonde
 Pazos de Borbén
 Pazuengos
-Països Catalans, Catalan Countries, Catalunya Gran, Katalan Herriak, Países Catalanes, Países de Lengua Catalana, comunitat catalànica, comunitat llemosina, països catalanòfons, territoris catalanòfons, territoris de parla catalana
+Països Catalans, Catalan Countries, Catalunya Gran, Katalan Herriak, Países Catalanes, Países Cataláns, Países de Lengua Catalana, comunitat catalànica, comunitat llemosina, països catalanòfons, territoris catalanòfons, territoris de parla catalana
 Paüls
 Peal de Becerro
 Pechina
@@ -14069,7 +14069,7 @@ Peñón de Polarda
 Peñón de Ronda
 Peñón de Salobreña
 Peñón de San Patricio
-Peñón de Vélez de la Gomera, El Peñón de Vélez, Isla de San Antonio, Penón de Velez, Peñón de la Gomera, Vélez de la Gomera, Vélez de la Gomera haitza, Пеньон-де-Велес-де-ла-Гомера
+Peñón de Vélez de la Gomera, El Peñón de Vélez, Isla de San Antonio, Penón de Velez, Peñón de Vélez da Gomera, Peñón de la Gomera, Vélez de la Gomera, Vélez de la Gomera haitza, Пеньон-де-Велес-де-ла-Гомера
 Peñón de la Chaparra, Cerro de las Chaparras
 Peñón de los Machos
 Peñón del Forno
@@ -14077,7 +14077,7 @@ Peñón del Fraile
 Peñón del Roque, Roca Castillo
 Pia Páxara, Pico Pia Pajaro
 Pic Atchuria, Peña Plata, Pic Peñia Plata
-Pic Balaïtous, Pic Ballenouse, Pic Marmure
+Pic Balaïtous, Pic Ballenouse, Pic Marmure, Pic de la Vath Leitosa
 Pic Besiberri Sud
 Pic Gallinasse
 Pic Perdighero, Pic Perdiguère, Pico Perdiguero
@@ -14168,7 +14168,7 @@ Pico de Tienda, Sierra de la Tienda
 Pico de Toloño
 Pico de Vales
 Pico de Ventolao
-Pico de Vignemale, Pic de Vignemale, Pic de Vinyamala, Pico de Camachimosa
+Pico de Vignemale, Pic de Vignemale, Pic de Vinyamala, Pico de Camachimosa, Tuca de Vinyamala
 Pico de Vilá
 Pico de l'Home, Pic de l'Home
 Pico de la Atalaya
@@ -15545,7 +15545,7 @@ Porto de A Garda
 Porto de Aguiño
 Porto de Amiadelo
 Porto de Baiona, Bahia de Bayona, Puerto de Bayona, Ría de Bayona
-Porto de Barizo
+Porto de Barizo, Enseada de Barizo
 Porto de Carril
 Porto de Cesantes
 Porto de Chapela
@@ -15556,7 +15556,7 @@ Porto de Mougás
 Porto de Oia
 Porto de Portonovo
 Porto de Ribeira
-Porto de Senín
+Porto de Senín, Porto Sani
 Porto de Vilaxoan
 Porto de Xufre
 Porto do Grove
@@ -15782,21 +15782,21 @@ Province of Córdoba, Kordoba, Provincia de Córdoba, Província de Còrdova
 Province of Toledo, Provincia de Toledo
 Provincia da Coruña, La Coruña, Provincia de La Coruña
 Provincia de Albacete
-Provincia de Alicante, Alacant, Province of Alicante, Província d'Alacant
+Provincia de Alicante, Alacant, Alacante, Province of Alicante, Província d'Alacant
 Provincia de Badajoz
 Provincia de Burgos
 Provincia de Cantabria, Province of Cantabria
-Provincia de Ciudad Real
+Provincia de Ciudad Real, Cidade Real
 Provincia de Cuenca, Conca, Província de Conca
 Provincia de Cáceres
 Provincia de Cádiz, Província de Cadis
 Provincia de Granada, Granata, Grenade, Province of Granada
-Provincia de Guadalajara
+Provincia de Guadalajara, Guadalaxara
 Provincia de Huelva, Province of Huelva
 Provincia de Huesca, Osca, Province of Huesca, Província d'Osca
 Provincia de Jaén
-Provincia de La Rioja, Errioxa, Province of La Rioja
-Provincia de Las Palmas, Las Palmas, Province of Las Palmas
+Provincia de La Rioja, A Rioxa, Errioxa, Province of La Rioja
+Provincia de Las Palmas, As Palmas, Las Palmas, Province of Las Palmas
 Provincia de León, Província de Lleó
 Provincia de Lugo
 Provincia de Madrid, Community of Madrid, Madril, Province of Madrid
@@ -15817,7 +15817,7 @@ Provincia de Zaragoza, Province of Saragossa, Província de Saragossa, Saragossa
 Provincia de Ávila, Província d'Àvila
 Província de Barcelona, Bartzelona, Province of Barcelona
 Província de Castelló, Castello, Castellon, Provincia de Castellón, Provincia de Castellón de la Plana
-Província de Girona, Gerona, Province of Girona, Provincia de Gerona
+Província de Girona, Gerona, Province of Girona, Provincia de Gerona, Xirona
 Província de Lleida, Lérida, Province of Lleida, Província de Lérida
 Província de Tarragona, Province of Tarragona
 Província de València, Valentzia
@@ -16728,7 +16728,7 @@ Punta d'es Farayós, Farayó
 Punta d'es Marás
 Punta d'es Vent
 Punta da Barca
-Punta da Estaca de Bares
+Punta da Estaca de Bares, Punta da Estaca
 Punta da Freitosa
 Punta da Frouxeira, Point Frouxeira
 Punta da Langosteira
@@ -17826,7 +17826,7 @@ Rego do Samai, Río Zamay
 Rego do Torneiros
 Rego do Viceso, Río Naveira
 Rego do Viso, Río del Viso
-Rego dos Caínzos
+Rego dos Caínzos, Rego da Silvela
 Rego dos Sapos
 Regoa
 Regueiro Lacal
@@ -18003,7 +18003,7 @@ Rincón del Peñón del Moro
 Rincón del Santo Cristo
 Riner
 Rio Borriol
-Rio Minho
+Rio Minho, Río Miño
 Rio Pereira
 Rio Piñeira
 Rio Xévora, Aebura, Río Gévola, Río Gévora
@@ -18525,7 +18525,7 @@ Río Andarax, Andarax River, Río Almería
 Río Angostura
 Río Anguijón
 Río Anguilas
-Río Anllóns, Anllóns, Anllóns River, Río Aillóns
+Río Anllóns, Anllóns, Anllóns River, Río Aillóns, Río de Ponteceso
 Río Anzur, Río Arcar
 Río Ara
 Río Arabell, Río Castelbó Arabell
@@ -18810,7 +18810,7 @@ Río Ebo
 Río Ebrillos
 Río Ebrón, Ebrón River
 Río Edo
-Río Eifonso
+Río Eifonso, Rego Eifonso
 Río El Mirón
 Río Elorz, Elortz ibaia
 Río Engaña
@@ -19540,7 +19540,7 @@ Río Voltoya, Rio Voltaya, Voltoya River
 Río Vélez, Río Corneros, Río de Carneros de Vélez
 Río Víboras
 Río Xuanceda, Río de Gerdiz
-Río Xubia
+Río Xubia, Río Grande de Xubia
 Río Xunco
 Río Yalde
 Río Yeltes
@@ -19589,7 +19589,7 @@ Río de Angorrilla
 Río de Antas
 Río de Arcos
 Río de Arenal
-Río de Arteixo
+Río de Arteixo, Río Bolaño
 Río de Asín
 Río de Bacarés
 Río de Barbanza
@@ -20439,7 +20439,7 @@ Santiago Millas
 Santiago Roma
 Santiago de Alcántara
 Santiago de Calatrava
-Santiago de Compostela, Santiago de Compostel·la, Сантьяго-де-Компостела
+Santiago de Compostela, Compostèla, Santiago de Compostel·la, Сантьяго-де-Компостела
 Santiago de la Puebla
 Santiago del Campo
 Santiago del Collado
@@ -20691,12 +20691,12 @@ Serra do Farelo
 Serra do Faro
 Serra do Fial das Corzas
 Serra do Galiñeiro
-Serra do Invernadoiro, Montes del Invernadero
+Serra do Invernadoiro, Montes del Invernadero, Parque Natural do Invernadoiro
 Serra do Suído
 Serra do Xiabre, Monte Xiabre
 Serra do Xistral
 Serra do Xurés
-Serra dos Ancares, Sierra de Ancares
+Serra dos Ancares, Picos dos Ancares, Serra de Picos, Serra de Picos dos Ancares, Serra e Picos de Ancares, Sierra de Ancares
 Serrada
 Serrada La
 Serradilla
@@ -21033,7 +21033,7 @@ Sierra de Gabarra
 Sierra de Gador
 Sierra de Gaena
 Sierra de Gallinera
-Sierra de Gata, Gatako mendilerroa, Sierra del Cabo de Gata, Сьерра-де-Гата
+Sierra de Gata, Gatako mendilerroa, Serra de Gata, Sierra del Cabo de Gata
 Sierra de Gavilán
 Sierra de Gea Carbonera
 Sierra de Gibalbín
@@ -21733,7 +21733,7 @@ Somontano
 Somontín
 Somosierra, La Somosierra
 Somozas As
-Somport, El Somport, Port d' Urdos, Puerto de Somport, Puerto de Sumport
+Somport, Còth deu Sompòrt, El Somport, Port d' Urdos, Puerto de Somport, Puerto de Sumport
 Son Juliana
 Son Saura
 Son Servera, Son Cervera
@@ -21931,7 +21931,7 @@ Terradets
 Terradillos
 Terradillos de Esgueva
 Terras Novas
-Terrassa, Tarrasa
+Terrassa, Tarrasa, Terrasa
 Terrateig
 Terrer
 Terriente
@@ -21952,7 +21952,7 @@ Tiana
 Tianna Negre
 Tibataje
 Tibi
-Tibidabo
+Tibidabo, Monte Tibidabo
 Tiebas-Muruarte de Reta
 Tiedra
 Tielmes
@@ -22432,7 +22432,7 @@ Urdiain
 Urdiales del Páramo
 Urduliz
 Urduña / Orduña, Orduña, Urduña
-Urgul, Monte Orgullo, Monte Urgull, Urgull
+Urgul, Monte Orgullo, Monte Urgull, Orgulh, Urgull
 Urizaharra / Peñacerrada, Peñacerrada, Urizaharra
 Urkabustaiz, Urcabustaiz, Уркабустайс
 Urki
@@ -22661,7 +22661,7 @@ Vall de Marfà
 Vall de la Pererola, Val de la Pererola
 Vall-llobrega
 Vallada
-Valladolid, Вальядолид
+Valladolid, Valhadolid, Вальядолид
 Vallanca
 Vallarta de Bureba
 Vallat
@@ -23371,7 +23371,7 @@ Villavieja de Yeltes
 Villavieja del Lozoya
 Villaviudas
 Villayerno Morquillas
-Villayón, Вильяйон
+Villayón, Villaión, Вильяйон
 Villazala
 Villazanzo de Valderaduey
 Villazopeque
@@ -23763,7 +23763,7 @@ els Poblets
 els Prats de Rei
 els Rebalsadors
 els Torms
-era Restanca
+era Restanca, Estanh dera Restanca, Lac dera Restanca
 es Bòrdes
 es Codolar
 es Grill Ferro

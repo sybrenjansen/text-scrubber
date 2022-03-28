@@ -13,11 +13,11 @@ Ai-Assa
 Aidabaleten
 Ailebere
 Ailelo
-Aileu, Aileu District, Kabupaten Aileu
+Aileu, Aileu District, Distrito Aileu, Kabupaten Aileu, Município de Aileu
 Aileu Villa
 Ailili
 Aimaleum. Mota
-Ainaro, Ainaro District, Kabupaten Ainaro, Suro
+Ainaro, Ainaro District, Distrito Ainaro, Kabupaten Ainaro, Município de Ainaro, Suro
 Aisirimou
 Aiteas
 Aitemua
@@ -33,7 +33,7 @@ Asulau
 Atabae
 Atadame/Malabe
 Atara
-Atauro Island
+Atauro Island, Ilha de Atauro
 Atauro Vila/Maumeta
 Atelari
 Atsabe
@@ -59,13 +59,13 @@ Balibo Vila
 Banafi
 Bandudato
 Baninau Depression, Cekungan Baninau
-Bank of River Laclo
+Bank of River Laclo, Ribeira de Laclo
 Baricafa
 Barique
 Batara
 Batugade
 Batumanu
-Baucau, Baucau District, Baukau, Circunscrição Civil de Baucau, Kabupaten Baucau, Kabupaten Baukau
+Baucau, Baucau District, Baukau, Circunscrição Civil de Baucau, Distrito Baucau, Kabupaten Baucau, Kabupaten Baukau, Município de Baucau
 Bauro
 Bazartete, Bazar Tete
 Be Berau
@@ -94,7 +94,7 @@ Bidau Santana
 Binagua Bay, Teluk Bimagua, Teluk Binagua
 Bobocase
 Bobometo
-Bobonaro, Circunscrição Civil de Bobonaro, Kabupaten Bobonaro
+Bobonaro, Circunscrição Civil de Bobonaro, Distrito Bobonaro, Kabupaten Bobonaro, Município de Bobonaro
 Bualale
 Bubususo
 Bucoli
@@ -290,7 +290,7 @@ Debo Lehumo
 Debos
 Defa Uassi
 Deleco
-Democratic Republic of Timor-Leste, Colónia de Timor, East Timor, Loro Sae, Portuguese Timor, Propinsi Timor Timur, Province of Timor, Província de Timor, República Democrática de Timor-Leste, Silangang Timor, Timor Timur, Timor-Leste
+Democratic Republic of Timor-Leste, Colónia de Timor, East Timor, Loro Sae, Portuguese Timor, Propinsi Timor Timur, Province of Timor, Província de Timor, República Democrática de Timor-Leste, Timor Leste, Timor Timur
 Deudet
 Dili Bay, Teluk Dili
 Dilor
@@ -298,10 +298,10 @@ Dom Aleixo
 Dotic
 Ducurai
 Duyung (Sereia)
-Díli, Circunscrição Civil de Díli, Dilly, Dily, Kabupaten Dili
+Díli, Circunscrição Civil de Díli, Dilly, Dily, Distrito Díli, Kabupaten Dili, Município de Díli
 Edi
 Eraulo
-Ermera, Circunscrição de Ermera, Ermera District, Kabupaten Ermera
+Ermera, Circunscrição de Ermera, Distrito Ermera, Ermera District, Kabupaten Ermera, Município de Ermera
 Ermera Villa
 Estado
 Estuary Asero, Muara Asero
@@ -1834,7 +1834,7 @@ Kelot Lakuou
 Kelot Leopa
 Kolam Talidere
 Kolan Nuan
-Kovalima, Circunscrição Civil de Cova Lima, Cova Lima, Cova Lima District, Kabupaten Kovalima
+Kovalima, Circunscrição Civil de Cova Lima, Cova Lima, Cova Lima District, Covalima, Distrito Cova Lima, Kabupaten Kovalima, Município de Covalima
 Kraras
 Kutolau, Monte Kotalau, Monte Kutolau
 Labarai
@@ -1878,7 +1878,7 @@ Lauhata
 Lauiboronai
 Laulara
 Lausi
-Lautein, Circunscrição Civil de Lautém, Kabupaten Lautem, Lautém District
+Lautein, Circunscrição Civil de Lautém, Distrito Lautém, Kabupaten Lautem, Lautém District, Município de Lautém
 Lautem
 Lavateri
 Leber
@@ -1904,7 +1904,7 @@ Liaruca
 Libagua
 Lifau
 Lihu
-Liquiçá, Circunscrição Civil de Liquiçá, Kabupaten Likisia, Kabupaten Liquica, Liquiçá District
+Liquiçá, Circunscrição Civil de Liquiçá, Distrito Liquiçá, Kabupaten Likisia, Kabupaten Liquica, Liquiçá District, Município de Liquiçá
 Lissadila
 Lissapat
 Liurai
@@ -1971,14 +1971,14 @@ Maliana
 Malilait
 Maluro
 Manapa
-Manatuto, Kabupaten Manatuto, Manatuto District
+Manatuto, Distrito Manatuto, Kabupaten Manatuto, Manatuto District, Município de Manatuto
 Manehat
 Manelima
 Manelobas
 Manetu
 Manlala
 Manucasa
-Manufahi, Kabupaten Manofahi
+Manufahi, Distrito Manufahi, Kabupaten Manofahi, Município de Manufahi
 Manumera
 Manusae
 Manutasi
@@ -3258,7 +3258,7 @@ Nuno-Mogue
 Obulo
 Odomau
 Oe-Leu
-Oecusse, Circunscrição Civil de Oé-cussi, Kabupaten Ambeno, Ocusse-e-Ambeno, Ocussi, Ocussi-Ambeno, Oecussi-Ambeno, Oeikoesi, Oikoesi, Oikoessi, Oikusi, Okusi Ambeno, Oé-cusse
+Oecusse, Circunscrição Civil de Oé-cussi, Distrito Oecussi-Ambeno, Kabupaten Ambeno, Ocusse-e-Ambeno, Ocussi, Ocussi-Ambeno, Oecussi-Ambeno, Oeikoesi, Oikoesi, Oikoessi, Oikusi, Okusi Ambeno, Oé-cusse
 Oesilo
 Ogues
 Opa
@@ -3309,7 +3309,7 @@ Point Waimori, Tanjung Waimori
 Point Waturubilai, Tanjung Waturubilai
 Ponilala
 Port of Dili
-Pulau Atauro, Atadro, Hoog Eiland, Ilha de Ataúro, Kambling Island, Pulau Kambing, Pulo Cambim, Pulo Cambing
+Pulau Atauro, Atadro, Ataúro, Hoog Eiland, Ilha de Ataúro, Kambling Island, Pulau Kambing, Pulo Cambim, Pulo Cambing
 Pulau Jaco, Hyako, Ilhéu de Jaco, Jaco, Jaco Island, Jako island, Nusa Besi Island, Nusa-besi, Yako
 Purugoa
 Quelicai, Kelikai
@@ -4240,7 +4240,7 @@ Venilale
 Vera Cruz
 Vessoru
 Vila Verde
-Viqueque, Circunscrição Civil de Viqueque, Kabupaten Vikeke, Kabupaten Viqueque, Viqueque District
+Viqueque, Circunscrição Civil de Viqueque, Distrito Viqueque, Kabupaten Vikeke, Kabupaten Viqueque, Município de Viqueque, Viqueque District
 Waidai Bay, Teluk Waidai
 Wailili
 Wairan Bay, Teluk Wairan

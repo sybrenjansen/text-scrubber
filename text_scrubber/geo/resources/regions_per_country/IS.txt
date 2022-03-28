@@ -140,7 +140,7 @@ Austurháls, Sveifluháls
 Austurklakkur
 Austurkróksfjall
 Austurkróksá
-Austurland, East
+Austurland, East, Öst
 Austurlandskjördæmi
 Austursandur
 Austurskógar
@@ -400,7 +400,7 @@ Blikalónsdalur
 Blikar
 Blikdalsá
 Blikdalur
-Blue Lagoon
+Blue Lagoon, Bláa Lónið
 Blundsvatn
 Blábjörg
 Bládrangur
@@ -540,7 +540,7 @@ Breiðadalsheiði
 Breiðadalur
 Breiðafell
 Breiðafjall, Breiðafjell
-Breiðafjörður, Breidi Fjord, Breidifjördur, Breiða Fiord, Breiða Fjord
+Breiðafjörður, Breidafjord, Breidi Fjord, Breidifjördur, Breiða Fiord, Breiða Fjord
 Breiðamerkurfjall
 Breiðamerkurjökull, Breiðamerkur Glacier
 Breiðamerkurmúli
@@ -852,7 +852,7 @@ Dalsá
 Dalsárdrög
 Daltunguás
 Dalvatn
-Dalvík, Svarfadardals Bay, Svarfadardals Bugt, Svarfvardals Bay
+Dalvík, Svarfadardals Bay, Svarfadardals Bugt, Svarfadardalsbukta, Svarfvardals Bay
 Dalvíkurbyggð, Dalvíkurhreppur
 Dalá
 Dalöldur
@@ -2317,7 +2317,7 @@ Heggstaðanes
 Hegramýrar
 Hegranes
 Heilagsdalur
-Heimaey, Heima, Heimay
+Heimaey, Heima, Heimay, Hemön
 Heimaklettur
 Heimari-Lambá
 Heimari-Slakkahæðir
@@ -3255,7 +3255,7 @@ Hóp
 Hópsvatn
 Hópsós
 Höfn
-Höfuðborgarsvæði, Capital Region
+Höfuðborgarsvæði, Capital Region, Hauptstadtregion, Huvudstadsregion
 Höfuðreiðarmúli
 Höfðabrekkuheiði
 Höfðabrekkujökull
@@ -4162,7 +4162,7 @@ Lakahnaus
 Lakahnúkar
 Lakalandsgil
 Lakaþúfa
-Laki
+Laki, Laki-Krater
 Lambadalsfjall, Lambadals Mountain
 Lambadalsskarð
 Lambadalstindur
@@ -5077,8 +5077,8 @@ Norðurdalur
 Norðurfjall
 Norðurfjörður
 Norðurflói, Nordr-Flói, Nordur Flói
-Norðurland Eystra, Northeast
-Norðurland Vestra, Northwest
+Norðurland Eystra, Nordöst, Northeast
+Norðurland Vestra, Nordväst, Northwest
 Norðurlandskjördæmi Eystra
 Norðurlandskjördæmi Vestra
 Norðurnámur
@@ -5369,7 +5369,7 @@ Rekavíkurfjall
 Rekavíkurvatn
 Reksboði
 Rembingur
-Republic of Iceland, Iceland, Islanda, Islande, Lýðveldið Ísland, Ísland
+Republic of Iceland, Iceland, Island, Islanda, Islande, Lýðveldið Ísland
 Rettavað
 Reykdælahreppur
 Reykey
@@ -5782,7 +5782,7 @@ Sjónfrið
 Sjötjarnir
 Skafeyrar
 Skafhólar
-Skaftafell
+Skaftafell, Skaftafell-Nationalpark
 Skaftafellsfjara
 Skaftafellsfjöll
 Skaftafellsheiði
@@ -6555,11 +6555,11 @@ Suðurflögur
 Suðurflös
 Suðurheiðar
 Suðurhnúður
-Suðurland, South
+Suðurland, South, Syd
 Suðurlandskjördæmi
 Suðurlönd, Suðurlanda
 Suðurmannasandfell
-Suðurnes, Southern Peninsula
+Suðurnes, Southern Peninsula, Södra halvön
 Suðurnesjabær
 Suðurnámur
 Suðurskarð
@@ -7219,12 +7219,12 @@ Vestdalsvatn
 Vestdalsá
 Vestdalur
 Vestersker, Vestursker
-Vestfirðir, Westfjords
+Vestfirðir, Västfjordarna, Westfjords
 Vestfjarðakjördæmi
 Vestliðaeyri
-Vestmannaeyjabær
+Vestmannaeyjabær, Västmannaöarna
 Vestmannaeyjahöfn, Heimaey Harbor, Heimaey Havn, Vestmannaeyjar Harbor
-Vestmannaeyjar, Vestmanna Islands, Westman Islands, Westmanaeyjar, Westmann Islands, Westmannaeyjar, Westmennaeyjar
+Vestmannaeyjar, Vestmanna Islands, Västmannaöarna, Westman Islands, Westmanaeyjar, Westmann Islands, Westmannaeyjar, Westmennaeyjar
 Vestmannaeyjar - høfn
 Vestmannsvatn
 Vestra Sandfell
@@ -7261,7 +7261,7 @@ Vesturhorn, Vestrahorn
 Vesturhraun, Vestra Hraun, Vestrhraun
 Vesturhópsvatn, Vesturhops Lake
 Vesturkinn
-Vesturland, West
+Vesturland, Västra, West
 Vesturlækur
 Vestursandur
 Vestursléttuheiði
