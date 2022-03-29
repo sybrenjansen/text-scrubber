@@ -1,7 +1,5 @@
 from collections import namedtuple
-from typing import Callable, List, Optional, Set, Tuple
-
-import numpy as np
+from typing import Callable, Iterable, List, Optional, Set, Tuple
 
 from text_scrubber.geo.geo import (clean_city, clean_country, clean_region,
                                    normalize_city, normalize_country, normalize_region, _CITY_RESOURCES)
@@ -28,6 +26,22 @@ def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bo
     start_1, end_1 = range_1
     start_2, end_2 = range_2
     return max(start_1, start_2) < min(end_1, end_2)
+
+
+def cumsum(x: Iterable) -> List:
+    """
+    Replicates numpy.cumsum
+
+    :param x: List of numbers
+    :return: List of cumulative sums
+    """
+    y = []
+    summed = 0
+    for e in x:
+        summed += e
+        y.append(summed)
+
+    return y
 
 
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
@@ -68,7 +82,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
     # First goes through combinations of 1-max_tokens tokens and applies the normalization function of text_scrubber.geo
     # to check if a candidate is present. We store the start and end idx
     tokens = sample.split()
-    token_start_idx = [0] + np.cumsum([len(token) for token in tokens]).tolist()
+    token_start_idx = [0] + cumsum((len(token) for token in tokens))
     matches = []
     for n_tokens in range(1, max_tokens_to_consider):
         for start_idx in range(0, len(tokens) + 1 - n_tokens):
