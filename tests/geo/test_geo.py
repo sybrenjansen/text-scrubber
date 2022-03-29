@@ -239,6 +239,7 @@ class NormalizeRegionsTest(unittest.TestCase):
 
 
 class NormalizeCityTest(unittest.TestCase):
+
     def test_part_of_known_cities(self):
         """
         Test input that is part of the cities map
@@ -270,18 +271,23 @@ class NormalizeCityTest(unittest.TestCase):
             ),
             (
                 "heidelberg",
-                [("Heidelberg", "Germany", 1), ("Heidelberg", "South Africa", 1), ("Heidelberg", "United States", 1)],
+                [
+                    ("Heidelberg", "Germany", 1),
+                    ("Heidelberg", "South Africa", 1),
+                    ("Heidelberg", "United States", 1)
+                ],
             ),
             (
                 "San Jose",
                 [
-                    ('San Jose', 'Philippines', 1.0),
                     ('San Jose', 'United States', 1.0),
                     ('San Jose Village', 'United States', 1.0),
                     ('San José', 'Argentina', 1.0),
                     ('San José', 'Costa Rica', 1.0),
-                    ('Sant Josep de sa Talaia', 'Spain', 1.0)
-                ],
+                    ('San José', 'Philippines', 1.0),
+                    ('San José', 'Spain', 1.0),
+                    ('San José', 'United States', 1.0)
+                ]
             ),
         ]
 
@@ -357,28 +363,23 @@ class NormalizeCityTest(unittest.TestCase):
             (
                 "Sioul",
                 [
-                    ('Siyŏul', 'South Korea', 0.9090909090909091),
-                    ("Si'ou", 'China', 0.8888888888888888),
-                    ('Soult', 'France', 0.8888888888888888),
-                    ('Sioulin', 'China', 0.8333333333333334),
+                    ('Seoul', 'South Korea', 0.889),
                     ('Ingalls', 'United States', 0.8),
-                    ('Sibol', 'Philippines', 0.8),
                     ('Sibul', 'Philippines', 0.8),
                     ('Siolo', 'Italy', 0.8),
-                    ('Sioux', 'United States', 0.8),
-                    ('Soula', 'France', 0.8),
-                    ('Stoul', 'United Kingdom', 0.8)
+                    ('Sitou', 'China', 0.8),
+                    ('Soual', 'France', 0.8),
+                    ('Souel', 'France', 0.8),
+                    ('Soula', 'France', 0.8)
                 ]
             ),
             (
-                "KIWI",
+                "Canada",
                 [
-                    ("Kiwit", "Philippines", 0.889),
-                    ("Ki'i", "United States", 0.857),
-                    ("Kwi-dong", "South Korea", 0.857),
-                    ("Kaiwei", "China", 0.8),
-                    ("Kiwaki", "Japan", 0.8),
-                    ("Koiwai", "Japan", 0.8)
+                    ('Canadian', 'United States', 0.857),
+                    ('Chandada', 'Australia', 0.857),
+                    ('Chantada', 'Spain', 0.857),
+                    ('Laguna Seca', 'United States', 0.857)
                 ]
             ),
         ]
@@ -419,8 +420,7 @@ class NormalizeCityTest(unittest.TestCase):
             (["Heidelberg", {"DE", "South Africa"}],
              [('Heidelberg', 'South Africa', 1.0), ('Heidelberg', 'Germany', 1.0)]),
             (["Heidelberg", {"FR"}], []),
-            (["Toronto", {"United States", "GB"}],
-             [('Toronto', 'United States', 1.0), ('Toronto', 'United Kingdom', 1.0)]),
+            (["Toronto", {"United States", "GB"}], [('Toronto', 'United States', 1.0)]),
         ]
         for original, expected in test_cities:
             country_set = original[1]
