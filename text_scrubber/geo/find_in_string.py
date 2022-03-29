@@ -185,9 +185,9 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no countries could
     # be found. In that case we do allow to find those strings, if they're uppercase.
-    code_lower = {cl.lower() for cl in _CITY_RESOURCES['all_country_codes']}
-    blacklist = {'at', 'de', 'in', 'u'}.union(_CITY_RESOURCES['all_country_codes']).union(code_lower)
-    whitelist_last_resort = {'AT', 'DE', 'IN'}.union(_CITY_RESOURCES['all_country_codes']).union(code_lower)
+    all_country_codes_lower = {cc.lower() for cc in _CITY_RESOURCES['all_country_codes']}
+    blacklist = _CITY_RESOURCES['all_country_codes'] | all_country_codes_lower | {'u'}
+    whitelist_last_resort = _CITY_RESOURCES['all_country_codes']
 
     return _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort, match_threshold,
                            match_threshold_small, threshold_small, max_tokens_to_consider)
@@ -202,7 +202,7 @@ def find_city_in_string(sample: str, country_set: Optional[set], match_threshold
     Thresholds were derived empirically based on one of our usecases. Change them when needed.
 
     :param sample: text sample
-    :param country_set: TODO
+    :param country_set: Restrict the search to this set of countries
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
@@ -220,14 +220,16 @@ def find_city_in_string(sample: str, country_set: Optional[set], match_threshold
                            match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
 
 
-def find_region_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                          threshold_small: int = 4, max_tokens_to_consider: int = 6) -> List[Match]:
+def find_region_in_string(sample: str, country_set: Optional[set], match_threshold: float = 0.84,
+                          match_threshold_small: float = 0.90, threshold_small: int = 4,
+                          max_tokens_to_consider: int = 6) -> List[Match]:
     """
     Extracts regions from a sample text.
 
     Thresholds were derived empirically based on one of our usecases. Change them when needed.
 
     :param sample: text sample
+    :param country_set: Restrict the search to this set of countries
     :param match_threshold: threshold for considering a substring a match
     :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
     :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
@@ -242,4 +244,4 @@ def find_region_in_string(sample: str, match_threshold: float = 0.84, match_thre
     whitelist_last_resort = set()
 
     return _find_in_string(sample, clean_region, normalize_region, blacklist, whitelist_last_resort, match_threshold,
-                           match_threshold_small, threshold_small, max_tokens_to_consider)
+                           match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
