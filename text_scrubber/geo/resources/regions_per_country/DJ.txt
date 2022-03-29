@@ -23,7 +23,7 @@
 'Aday
 'Aday Marso
 'Adayle, Adaïle
-'Adaylou, Adailou
+'Adaylou
 'Adayti 'Ale, 'Adaïti 'Alé
 'Adayto
 'Adayto le Bouyyi, Oued Adaïto L'ebouié
@@ -140,7 +140,7 @@
 'Akoulta
 'Alanley
 'Albi Tiya
-'Ali 'Addé, أدي علي, علي أدي
+'Ali 'Addé, Adi Adda, Ali Ada, Ali Adda, Ali Adda Courant, Aliadh, أدي علي, علي أدي
 'Ali 'Addêllé
 'Ali 'Alôli, 'Ali Alloli, 'Ali Allôlli, 'Ali H̱allôli
 'Ali 'As, 'Ali H̱âs
@@ -236,6 +236,7 @@
 'Arrémadoûlé, 'Arre Madôbe, 'Arremadowle, Arré Madolé
 'Arwo, Oued 'Aroa
 'Arâli
+'As 'Êla, Airoli, Ass'èyla, Assa-ela
 'As Dora, 'Asdora, As Dorra, Kadda-As Dorra
 'As Gabla, Rhasgabla
 'As'abdalli Kôma, Assa Abdallah
@@ -353,7 +354,7 @@
 'Asyaytou
 'Asâbouki
 'Asâlali Kôma, Assale Koma
-'Asâmo, Vasama
+'Asâmo
 'Asâro
 'Asâsanto, Accolade, Assasanto, Assassanto, Mouriya
 'Asâsoulli, 'Asâoulli
@@ -676,6 +677,7 @@ Ad'allom Dabba
 Ada, Ara
 Ada'li, Goumbar Ada'li
 Ada'li K Seka
+Adailou, Adaylou
 Adan
 Adan 'Ale
 Adan Ouéïd, Adan Weyd
@@ -767,6 +769,7 @@ Agôroggouba, Agorogouba
 Ahima
 Ahoud, Ahqud
 Ahourto
+Airolaf
 Akarou
 Akat
 Aker
@@ -817,6 +820,7 @@ Alhaou, Alẖaw
 Ali 'Aḏa
 Ali Dabba
 Ali Kôma, Hili koma
+Ali Oune
 Ali Sabieh Region, Cercle d' 'Ali Sabîẖ, Cercle d' Ali-Sabieh, Région d' Ali Sabieh
 Alidolobta
 Alito, Alahtou
@@ -853,7 +857,8 @@ Amarre 'Asse, Oued Amarri-Assé
 Amaua
 Amaïlou
 Amaïto
-Ambouli, Amhouli, H̱oumbouli, Oued Hambouli, River Ambouli, Rivière d'Amboul, Torrente Ambuli, أمبولي, نهر أمبولي, وادي أمبولي
+Ambabbo
+Ambouli, Amboua, Ambua, Amhouli, H̱oumbouli, Oued Hambouli, River Ambouli, Rivière d'Amboul, Torrente Ambuli, أمبولي, نهر أمبولي, وادي أمبولي
 Amdatta
 Ammalou
 Ammar Dô
@@ -867,11 +872,13 @@ Amḏerta, Morne Blanc
 Amẖari Ḏan'aw
 Amẖarta Ḏâ
 Ana'lé, Oued Araalé
+Anaba, عنابة‎
 Anagalita
 Anda
 Anda'a, Andaha
 Andabba, Lac Andaba, Lac Andabba
 Andabbi 'Ale
+Andali
 Andato
 Andatta
 Ankasalla, Ankasala
@@ -946,6 +953,7 @@ Assa Bouyyi
 Assa Dada
 Assa Goub
 Assa Guera, Daoudaya
+Assa Hougoud, أسا هوغود‎
 Assa Kania
 Assa-Ahmed
 Assa-Bahri
@@ -1072,6 +1080,8 @@ Balahi, Ballahi
 Balambal
 Balamballéï, Balamballey
 Balambolta
+Balbala, بالبالا
+Balho
 Bali' le Gêra
 Bali' le Sâhida
 Bali'tou
@@ -1097,7 +1107,8 @@ Banc du Héron, Héron Bank
 Banc du Pingouin, Banco del Pinguino, Pingouin Bank
 Banc du Surcouf, Banco del Surcouf
 Bangi
-Bankouwâle, Bankoualé
+Bankoualé
+Bankouwâle
 Banḏay
 Baqyyâlé, Baghaïalé, Baqayyâle
 Bar Madobé
@@ -1169,6 +1180,7 @@ Birti 'Êla
 Bisille
 Bisillou, Bissillou
 Bisirrîkoytali
+Bissîdiro
 Bisîdiro, Bissidirou
 Bitẖa
 Biya Khalaf
@@ -1265,6 +1277,7 @@ Boyni 'Ale, Boïni 'Alé
 Boûba
 Boûdo Guêra, Boûdo Gêra
 Boûhisâlé
+Boûl'aos, Boulaos Camp, Boulas, Boûl'aws, Bulaos, Camp Boulaos
 Boûr
 Boûr Méhêlé
 Boûrali
@@ -1361,6 +1374,7 @@ Dabkhinda
 Dabîléï, Ḏabîley
 Dadar
 Dadben, Dadbene
+Dadda'to, Deda'-etu
 Dadda'to Alal
 Daddaẖalou, Oued Dadahalou
 Daddoumay
@@ -1379,6 +1393,7 @@ Dagaẖ Lebi, Oued Daga Lebé
 Dagaẖa Kileyta, Dagaha Kiloyta
 Dagelébé Koma
 Daggouloub
+Dagguirou
 Daggâgou
 Daggîrou
 Dagâdag
@@ -1453,6 +1468,7 @@ Dannoytal
 Dannîko, Danéko
 Danoune
 Daou'a
+Daoudaouga, داودوغا
 Daoué, Dawwe
 Daqab, Dagab
 Daqsîléï, Daqsile, Daqsîley, Oued Derssilé
@@ -1493,6 +1509,7 @@ Darta Ḏâ
 Daré
 Darẖanḏâro
 Dasayno
+Dasbiyo, داسبييو
 Dasso
 Dat 'Alé, Dat 'Ali, Obroïto, داتا علي
 Dat 'Ouadarih Dara, Dat Ouadari Dara, Datwadarih Dara
@@ -1570,7 +1587,7 @@ Daïmoli, Deïmolé
 Debedēr Shet', Daba Ḏêr, Oued Dabadera
 Debel, Oued Debel, Oued Soatahalé
 Debeltou
-Debne, Debené, Oued Debne
+Debne, Debené, Oued Debne, ديبن
 Degta Go'ondada, Ḏagaẖa Qadowga
 Degta Ouannânné, Degta Wannânne
 Degta Ḏég Ouéïn, Degta Ḏegweyn
@@ -1677,7 +1694,7 @@ Doubié, Doubye, Oued Doubie
 Doubta Dâba
 Doubâli Douloul
 Douddouma
-Doudoub Bololé
+Doudoub Bololé, بلول دودوب
 Doudoub Dîn
 Doudoumaléï, Douddoumaley
 Doudoûba
@@ -1776,7 +1793,7 @@ Edegnaba
 Edeyta-Lougou
 Ediliba
 Egar
-Egaẖlou
+Egaẖlou, إغالو
 Eger 'Ale, 'Ger 'Ale
 Eger Dag, Eguer Dag
 Eger Gommo
@@ -1810,6 +1827,7 @@ Faden
 Fadîhitte Mouroud
 Fafahto
 Faffahto
+Fagal, فغال
 Falka
 Fallada
 Fallaka
@@ -1942,6 +1960,7 @@ Gaggabôdléï 'Ali, Gaggobôdley 'Ali
 Gaggadé, Gagade Plain, Pianura di Gagadé, Plaine de Gaggade
 Gahannaoual'i, Gahanaou'alé, Gaẖannawal'i
 Gahar
+Gaherré
 Gahro
 Gaiel
 Gal Alal
@@ -2105,7 +2124,6 @@ Gaïssa Baḏḏa'ta, Gaysa Baḏḏa'ta, Guessabadao
 Gaḏka 'Ad, Guedka Ad
 Gaẖar Gêra
 Gaẖarre Da'ar
-Gaẖerre
 Gaẖerre Geyni
 Gaẖertou
 Gaẖorre
@@ -2193,6 +2211,7 @@ Gona
 Goni Gêra
 Gontoy, Gontoï
 Gor Ay'i
+Gorabous
 Goray Baẖari, Goray Bahri
 Goray Bâdo
 Goray Bôḏa
@@ -2216,6 +2235,7 @@ Goubi 'Abarmali
 Goubi Sidîdo
 Goubta
 Goubté
+Goubéto, Goubeto Station
 Goudbinka Bi'îdléï, Goudbika Bihidlé, Goudbinka Bi'îdley
 Goula
 Gouled Mallo
@@ -2267,10 +2287,12 @@ Grande Passe
 Gubi-Bakhertu, Goubi Gaẖertou
 Guedaouaraba
 Guelbik, Plateau de Guelbik
+Guelile, جليل‎
 Guidou
 Guinni
 Guinni Bad, Ginnibad, Girribad, Gueni Bada
 Guinni Kôma, Ginni Kôma, Gumni Kôma, أوندا جني كوما, بركان الجن, جني كوما
+Guirrari, غيراري
 Guissi, Gisi, Guissy, Mont Direction, Monti Guissy, Sommet Double, غيسي
 Gurmud, Adoïla
 Guéredda, Géréda
@@ -2956,6 +2978,7 @@ Kellabto
 Kenalli
 Kerma
 Khigle
+Khôr Angar, Anghar, Angârou, Khor-Anghar, Poste d'Anghor
 Khôr Raysâli, Baia Ras Ali, Cor di Ras Ali, Khor Ras Ali, Khor Reissalé, Khor de Ras Ali
 Ki'i Gêra
 Kibillou
@@ -3015,7 +3038,7 @@ Kourrou'ye
 Koursili
 Kourtimaléï, Kourtimaley, Kourtimalé
 Kousour Da'ar
-Kousourkousour, Koussour Koussour
+Kousourkousour
 Kousourkousour Baẖari
 Kousra
 Kousrali
@@ -3024,6 +3047,7 @@ Kousrâle
 Kousrâre
 Kousseyta
 Koussour Bouyyi, Kouzour Bouyyi
+Koussour Koussour
 Koussoura
 Koussourâlé, Kousourâle
 Kouta Touma
@@ -3034,6 +3058,7 @@ Kouẖla
 Kouẖoulle
 Kouẖoulli
 Koytali H̱arka
+Koûta Boûyya
 Koûtabbouyyi
 Koûtabboûyya, Kouta Bouïa
 Kâ'atto
@@ -3060,6 +3085,7 @@ Kôrarre
 Kôreḏḏa
 Kôri, Oued Kori
 Kôrili
+La Plaine
 Lab'ol
 Labadjirod
 Labafoutâley
@@ -3120,7 +3146,7 @@ Lubâtalle
 Lâ'ado, Oued La'ado, Oued Lado
 Lâ'adou Weyn, Oued La'adou
 Lâ'as
-Lâ'assa
+Lâ'assa, لأسا
 Lâda
 Lâgalên, Oued Lakolé
 Lâggourbo
@@ -3204,7 +3230,7 @@ Madgallou
 Madgallé
 Madgan Gâlih
 Madgangougou
-Madgoul
+Madgoul, Madgul, مدغول
 Madra
 Madâdag
 Madâla
@@ -3386,7 +3412,7 @@ Mouddan
 Mouddouda
 Moudi Baẖari, Moudi Bahri
 Moudi Da'ar, Oued Moudi
-Moudo
+Moudo, Mouddo
 Moudouddo
 Moudoû'oud, Moudou Odo
 Mouillage des Boutres, Boutres Anchorage
@@ -3443,6 +3469,7 @@ Mâro Alẖou
 Mâro Kôma
 Mâroyta
 Mâteyta
+Médého, Méé Dôho
 Médéré
 Mélé
 Méé Dabba
@@ -3463,6 +3490,7 @@ Nabad
 Nafour
 Nagag
 Nagâḏ, ناقاد, نقاذ, وادي ناقاد, وادي نقاذ
+Nakhchivan
 Nakila
 Nakilti Gona
 Nakẖal, Oued Naghal
@@ -3648,6 +3676,7 @@ Oued Nedak Ass
 Oued Oda
 Oued Okleïta
 Oued Orôbor, Oued Oroburu
+Oued Ouea, We`a, وادي أويعا
 Oued Sagarto
 Oued Sita
 Oued Sâgante
@@ -3708,6 +3737,7 @@ Out'ouwli, Otaooui, Out'ouli, Out'owli
 Outoula, Oued Mangfada
 Ouyya Kômam
 Ouâssi
+Ouê'a, وع
 Ouêrka, Werka
 Ouḏ Dô
 Ouḏ Gabi
@@ -3789,6 +3819,7 @@ Qoûd Ardé
 Qoûdadléï Ouéïn, Godadle Weyn, Qoûdadley Weyn
 Qoûdadléï Yar, Godadley Yar, Qoûdadley Yar
 Qoûḏa'léï, Qouḏa'ley
+Quartier 7
 Qâdi Qaoulé, Qâdi Qawle
 Qâr Djébiyé
 Qîqlé, Guiglé, Kiklé, قيقلي, وادي قيقلي
@@ -3809,6 +3840,7 @@ Ramad, Oued Ramad
 Ramodli
 Ramodli Kôma
 Ramôdiya
+Randa
 Randale, Randali
 Rareyta
 Rarou
@@ -3825,7 +3857,7 @@ Redima
 Republic of Djibouti, Afars and Issas, Côte Française des Somalis, Djibouti, French Somali Coast, French Territory of Afars and Issas, Jabuuti, Jumhūrīyat Jībūtī, République de Djibouti, Somalie Française, Territoire Français des Afars et des Issas, Territoire de la Côte Française des Somalis, Territory of French Somaliland, Yabuuti, جمهورية جيبوتي, جيبوتي
 Rerig
 Reyto Bâhi
-Ribta
+Ribta, ريتبا
 Ribta Lê
 Ribyaytou
 Rife
@@ -3951,6 +3983,7 @@ Sekki'ta
 Sel
 Sellaẖ Goumbouri
 Seray, Séraï
+Seventh District
 Si'îd Gâban, Saïd Gaban
 Si'îd Hâroûn, Haski Sei Aroun
 Sib
@@ -4040,6 +4073,7 @@ Sârouli
 Sârré, ساري
 Sâsaw
 Sâẖillou
+Sêdorre
 Sêkayto
 Sêko
 Sêkoyta
@@ -4097,7 +4131,7 @@ Teouil
 Tew'e, Téoao
 Tew'e Lê, 'Inin, Irrin, Téoélé
 Tew'elê
-Tew'o
+Tew'o, Teoao, Tewao
 Tidbiḏo
 Tiddigille Bôlo
 Tihyo
@@ -4136,6 +4170,7 @@ Tôha, Oued Toha
 Ulel
 Vallée de Latéla, Latela Valley, Vallee de Lutela
 Vallée des Jardins
+Vasama
 Wa'ays Mourar
 Wa'inbagou, Oua'inbogou
 Wa'te
@@ -4217,7 +4252,7 @@ Wâsi
 Wâta
 Wâẖid
 Wâẖita
-Wê'a, Oued Ouea, Oued Ouéha
+Wê'a, Oued Ouéha
 Wê'i Kora
 Wê'i Kori
 Wê'ima, Oued Weima, Torrente Veima, We'īma Wenz, Weaima
@@ -4357,6 +4392,7 @@ Yô'orên, Yoorein, Yoouren
 Ḏib'anḏîba
 Ḏibtar
 Ḏidjân Ḏêr
+Ḏigri, Ḏikri
 Ḏihayta
 Ḏikil, Dikiïli
 Ḏinamali, Dinimoli

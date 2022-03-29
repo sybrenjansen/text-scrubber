@@ -3,26 +3,36 @@
 'Amārat ad Darb, عَمَارَة اَلدَّرْب
 'Amārat ar Ruq'ī, عَمَارَة اَلرُّقْعِي
 'Amārat ash Shiqq, عَمَارَة اَلشِّقّ
+'Ashīsh ad Dawḩah, عَشِيش اَلدَّوْحَة
+'Ashīsh al Jahrā', Ashīsh al Jahrah, عَشِيش اَلْجَهْرَاء
 'Uqlat Ibn Şuqayyah, 'Uqla Ibn Şuqayḩ, 'Uqlat Ibn Şuqayh, Uglat Ibn Sugaih, عُقْلَة إِبْن صُقَيَّة
-'Urayfijān, Araifjan
+'Urayfijān, 'Araifjān, Arefjan
 'Ushayrij, 'Ushayriq, Ashairij, Asheirij, Usharij
-Abraq Khayţān, أبرق خيطان
+'Ushaysh al Jahrā', عُشَيْش اَلْجَهْرَاء
+Abraq Khayţān, Abrag Khīţān, Abrak Khetan, Abraq Haytan, Abraq Khaitan, Abraq Khetan, Abraq Khīţān, Khaitan, Khitan, Koetan, أبرق خيطان
 Abraq al Ḩabārī, Abrag Al-Habari, أَبْرَق اَلْحَبَارِي
 Abū Khurjayn, أَبُو خُرْجَيْن
 Abū Ra'sayn, أَبُو رَأْسَيْن
 Abū Sidrah, Abū Sadrah, Mishāsh Abu Sidra, Mushāsh Abū Sidrah, أَبُو سِدْرَة
 Abū Ḩalīfah, أبو حليفة
+Abū Ḩulayfah, Abi Huleifa, Abu Halaifa, Abu Halaifah, Abu Halifah, Abu Hulaifa, Abu Hulaifah, Abu-Hleifa, Halaifa, أَبُو حُلَيْفَة, ابو حليفة
+Ad Da'īyah, Al Diya, Al Edeiya, Daiya, الدعية, اَلدَّعِيَّة
 Ad Dalmānīyah, الدلمانية, اَلدَّلْمَانِيَّة
+Ad Dasht, اَلدَّشْت
 Ad Dasmah, الدسمة
 Ad Dawghah, Ad-Doghah, اَلدَّوْغَة
-Ad Dawḩah, الدوحة
+Ad Dawḩah, Al Doha, Dauha, Doha, الدوحة, اَلدَّوْحَة
 Ad Dawḩah al Kabīrah, اَلدَّوْحَة اَلْكَبِيرَة
 Ad Dibdibah, Al-Dibdibah, Al-Dibdibba, Dibdibah, اَلدِّبْدِبَة
 Ad Diyūd, اَلدِّيُود
 Ad Du'ayyah, الدعية
+Al 'Abbāsīyah, اَلْعَبَّاسِيَّة
 Al 'Abdalī, العبدلي
+Al 'Abdalīyah, اَلْعَبْدَلِيَّة
+Al 'Adan
 Al 'Adāl, اَلْعَدَال
 Al 'Adān, 'Adān, Kabd Adan, العدان, اَلْعَدَان
+Al 'Adīlīyah, اَلْعَدِيلِيَّة
 Al 'Afajīyah, اَلْعَفَجِيَّة
 Al 'Afrī, Al 'Ifrī, Al-Afrie, اَلْعَفْرِي
 Al 'Akāz, 'Akāz, Al 'Akraz, Al 'Akār, Al-Akkaz, اَلْعَكَاز
@@ -32,11 +42,13 @@ Al 'Aqrabīyāt, 'Aqrabi, Agrabiyat, Al 'Aqrabīyah, Al Akrabiya, Al-Akrabiyyat,
 Al 'Arfajīyah, 'Arfajīyah, Al Arfajiya, Arafajiya, العرفجية, اَلْعَرْفَجِيَّة
 Al 'Awjah, اَلْعَوْجَة
 Al 'Awjā', Al Auja, Khawr al 'Awjat, اَلْعَوْجَاء
-Al 'Umarīyah, العمرية
-Al 'Uqaylah, العقيلة
+Al 'Awāzim, اَلْعَوَازِم
+Al 'Ulaymīyah, Al Alaymah, Al-'Alaimah, العليميه, اَلْعُلَيْمِيَّة
+Al 'Umarīyah, العمرية, اَلْعُمَرِيَّة
+Al 'Uqaylah, 'Uqaila, 'Uqallah, 'Uqlah, Al 'Uqlah, Ugla, العقيلة, اَلْعُقَيْلَة
 Al 'Uyūn, العيون
-Al 'Uḑaylīyah, 'Adailiyah, Al Eddailiya, Al-Adaliyyah, Aladailiya, Udailiyah, العديلية, اَلْعُضَيْلِيَّة
-Al 'Āriḑīyah, العارضية
+Al 'Uḑaylīyah, 'Adailiyah, Al Eddailiya, Al-Adaliyyah, Aladailiya, Udailiyah, العديلية, اَلْعُدَيْلِيَّة
+Al 'Āriḑīyah, العارضية, اَلْعَارِضِيَّة
 Al 'Āriḑīyah Takhzīn wa Isti'mālāt al Ḩukūmīyah, العارضية تخزين و استعمالات الحكومية
 Al Abāţiḩ, Al 'Abţah, Al Abata, Al Abatah, Al-Abateh, اَلأَبَاطِح
 Al Ad'amī, اَلأَدْعَمِي
@@ -46,9 +58,14 @@ Al Arţawīyah, اَلأَرْطَوِيَّة
 Al Asimah Governorate, Al 'Āşimah, Governorate of Metropolis, Muḩāfaz̧at al 'Āşimah, Muḩāfaz̧at al Kuwayt, مُحَافَظَة اَلْعَاصِمَة
 Al Aţrāf, Atrāf, اَلأَطْرَاف
 Al Aḩmadi, اَلأَحْمَدِ
+Al Badawīyah, اَلْبَدَوِيَّة
 Al Banāyā, اَلْبَنَايَا
-Al Baḩrah, Bahara, Bahra, Bahrah, اَلْبَحْرَة
+Al Baḩrah, Bahara, Bahrah, اَلْبَحْرَة
+Al Bhar, اَلْبْهَر
+Al Bid', اَلْبِدْع
+Al Bida', Al Biddah, Al-Bidde, Bad'ah, اَلْبِدَع
 Al Biţānah, Al Buţaynah, البطينة, اَلْبِطَانَة
+Al Bulţ, اَلْبُلْط
 Al Buqay', Al-Bogua, اَلْبُقَيْع
 Al Burquān, Burgan Oilfield, اَلْبُرْقَان
 Al Burqān, Al Burgan, Al Burqān Oilfield, Bargon, Burgan, Burqān, اَلْبُرْقَان, Ḩaql Nafţ Al Burqān
@@ -57,7 +74,7 @@ Al Farrīdah, Al Farīdah, Farida, Farīdah, اَلْفَرِّيدَة
 Al Farwānīyah, الفروانية
 Al Fawwār, اَلْفَوَّار
 Al Fawāris, Al Fawares, اَلْفَوَارِس
-Al Fayḩā', الفيحاء
+Al Fayḩā', Fayha, الفيحاء, اَلْفَيْحَاء
 Al Faḩaḩīl, الفحاحيل
 Al Finţās, الفنطاس
 Al Firdaws, الفردوس
@@ -71,24 +88,27 @@ Al Jirthāmah, اَلْجِرْثَامَة
 Al Judaylīyāt, اَلْجُدَيْلِيَّات
 Al Julaydah, اَلْجُلَيْدَة
 Al Juwayhilīyah, Al-Juwaihilyah, Juwaihiliya, اَلْجُوَيْهِلِيَّة
-Al Jābirīyah, الجابرية
+Al Jābirīyah, الجابرية, اَلْجَابِرِيَّة
 Al Kabd, Chabd, Gabed, Jabd, Kabd, اَلْكَبْد
 Al Kharfashi, اَلْخَرْفَشِ
+Al Khiḑr, اَلْخِضْر
 Al Khuwaymāt, اَلْخُوَيْمَات
-Al Khālidīyah, الخالدية
+Al Khuwaysāt, اَلْخُوَيْسَات
+Al Khālidīyah, الخالدية, اَلْخَالِدِيَّة
 Al Khīrān, اَلْخِيرَان
 Al Kuwaykib, اَلْكُوَيْكِب
 Al Laqīţ, Al Lakeet, Al Lugit, Al Luqait, Al Luqayţ, Laqait, Laqīt, اَللَّقِيط
 Al Liyāḩ, Liyah, Yah, اَللِّيَاح
 Al Ma'ādinīyāt, Al Mu'aidniyat, Al Mu'aydinīyāt, Ma'adaniyat, Mi'aidniyāt, Mu'aidiniyat, اَلْمَعَادِنِيَّات
+Al Maghāsil, المغاسل, اَلْمَغَاسِل
 Al Mahbūlah, المهبولة
 Al Mamlaḩah, اَلْمَمْلَحَة
 Al Manqaf, المنقف
 Al Manāqīsh, Al-Manageesh, Manāqīsh, Minagish, Mināqīsh, اَلْمَنَاقِيش
-Al Manşūrīyah, المنصورية
+Al Manşūrīyah, المنصورية, اَلْمَنْصُورِيَّة
 Al Maqbarah, المقبرة
-Al Maqwa', المقوع
-Al Masīlah, المسيلة
+Al Maqwa', Al Magwa, Magwa, Majīwah, Maqwa, Maqwah, المقوع, اَلْمَقْوَع
+Al Masīlah, Al Massīlah, Messila, المسيلة, اَلْمَسِيلَة
 Al Mazāri', Al Mazarie, Al Mazāra, Mazāra', اَلْمَزَارِع
 Al Maţār, المطار
 Al Maḩraqah, Al Mahraga, Al Muḩraqah, Mahraqah, اَلْمَحْرَقَة
@@ -96,27 +116,34 @@ Al Minţaqah al Wisţá, As Surayrāt, Wista Area, المنطقة الوسطى, 
 Al Mityāhah, اَلْمِتْيَاهَة
 Al Mu'ayzilāt, Al Mu'ayzīlah, اَلْمُعَيْزِلاَت
 Al Mu'ţaridah, اَلْمُعْطَرِدَة
+Al Murayţibah, اَلْمُرَيْطِبَة
+Al Murqāb, اَلْمُرْقَاب
 Al Musannāt, Al Musannāh, Al Mussanat, Musannāh Ridge, Musannāt, Mussanat, اَلْمُسَنَّات
 Al Muţawwa'īyah, المطوعية, اَلْمُطَوَّعِيَّة
 Al Muţaylī', اَلْمُطَيْلِيع
 Al Muţlā', Al Maţlā', Mutlā', اَلْمُطْلاَع
+Al Mīnā', اَلْمِينَاء
 Al Qalīb, Al Jalib, Al Jleeb, اَلْقَلِيب
-Al Qash'ānīyah, Al Qash'aniya, Al-Khashaniya, Qash'ānīyah, اَلْقَشْعَانِيَّة
+Al Qash'ānīyah, Al Qash'aniya, Al-Khashaniya, Qash'ānīyah, القشعانية, اَلْقَشْعَانِيَّة
 Al Qaşr, القصر
+Al Qiblah, اَلْقِبْلَة
+Al Qulay'ah, اَلْقُلَيْعَة
 Al Qullah, اَلْقُلَّة
 Al Qurayn, Carin, Grain, Gurain, Qarīn, Qurain, Qurayn, القرين, اَلْقُرَيْن
 Al Quşūr, Al Qasur, القصور, اَلْقُصُور
-Al Qādisīyah, القادسية
+Al Qādisīyah, القادسية, اَلْقَادِسِيَّة
 Al Ubayriq, اَلأُبَيْرِق
 Al Wafrah, Al Wafrā', Al Wāfirah, Wafra, Wafrah, Watra, Wāfirah, اَلْوَفْرَة
 Al Wusţá, الوسطى
 Al Wāḩah, الواحة
-Al Yarmūk, اليرموك
+Al Yarmūk, اليرموك, اَلْيَرْمُوك
+Al Ḩadīqah, Al Hadeeqa, اَلْحَدِيقَة
 Al Ḩafīrah, Al Hafira, اَلْحَفِيرَة
 Al Ḩamār, Al-Hammar, اَلْحَمَار
 Al Ḩanabīyah, Al Hanabiya, Al Ḩannābīyah, Hannabiya, اَلْحَنَبِيَّة
 Al Ḩarīqah, Al Harija, اَلْحَرِيقَة
 Al Ḩimār, Al Ḩammār, الحمار
+Al Ḩujayjah, Al-Hijajah, Hagaija, Haqaija, Haqaijah, Hugaija, الحجيجة, اَلْحُجَيْجَة
 Al Ḩurayjah, اَلْحُرَيْجَة
 Al Ḩuzaym, Al Hazaim, Al Huzaim, Hazaim, Huzeem, Ḩamḑ al Ḩuzaym, Ḩazim, Ḩuzaym
 Amgharah, أمغرة
@@ -124,24 +151,28 @@ An Na'āyim, Al Na'yem, Al-Naayem, اَلنَّعَايِم
 An Na'īm, النعيم
 An Naq', اَلنَّقْع
 An Nasīm, النسيم
+An Nijfah, Al Mijifa, Al Nijifa, Al-Najafa, اَلنِّجْفَة
 An Nimratayn, An Namiratayn, اَلنِّمْرَتَيْن
 An Nuhaydayn, Inhaidain, Nahaidain, Nahaldain, اَلنُّهَيْدَيْن
+An Nuqayyāt, Al-Nigaiyat, An Niggaiyat, An Nugayyāt, An Nuqay'āt, اَلنُّقَيَّات
+An Nuqrah, Muqrah, Nigra, Nugra, اَلنُّقْرَة
 An Nuwaynīs, النوينيص, اَلنُّوَيْنِيس
 An Nuwayşīb, اَلنُّوَيْصِيب
-An Nuzhah, النزهة
+An Nuzhah, النزهة, اَلنُّزْهَة
+An Nāmī, اَلنَّامِي
 Ar Rabţah, اَلرَّبْطَة
 Ar Raq'ī, الرقعي
-Ar Rawḑah, Ar Raudha, الروضة, اَلرَّوْضَة
+Ar Rawḑah, Ar Raudha, Rowda, الروضة, اَلرَّوْضَة
 Ar Rawḑatayn, Al-Raudhatin, Raudhatain, Rhawdatain, Rodhatain, Rowdhatein Camp, اَلرَّوْضَتَيْن
-Ar Rayy, الري
+Ar Rayy, الري, اَلرَّيّ
 Ar Raḩīyah, 'Arhaiyah, Ar Raḩīyyah, Arhaiya, Arhiyyah, Rahaiyah, Ruhaiyah, Ruḩayyah, اَلرَّحِيَّة
 Ar Riqqah, الرقة
 Ar Riḩāb, الرحاب
 Ar Rukhām, Al-Rakham, Ar Rakhām, Rakham, Rakkam, اَلرُّخَام
-Ar Rumaythīyah, Ar Rumaithiya, Irmathiah, Rnaithiya, Rumaithiyah, Rumaithiyeh, Rumaithiyyeh, الرميثية, اَلرُّمَيْثِيَّة
+Ar Rumaythīyah, Ar Rumaithiya, Irmathiah, Rnaithiya, Rumaithiya, Rumaithiyah, Rumaithiyeh, Rumaithiyyeh, الرميثية, اَلرُّمَيْثِيَّة
 Ar Ruḩayl, Ar Ruhail, اَلرُّحَيْل
 Ar Rā's, اَلرَّأْس
-Ar Rābiyah, الرابية
+Ar Rābiyah, الرابية, اَلرَّابِيَة
 Arţāwīyah, Artawyeh
 Arḑ ad Dasht, أَرْض اَلدَّشْت
 Arḑ al Khawr, Arah al Khor, أَرْض اَلْخَوْر
@@ -152,47 +183,52 @@ As Salām, السلام
 As Sulū', اَلسُّلُوع
 As Surrah, Al-Srairat, As Sirra, As Sirrah, السرة, اَلسُّرَّة
 As Sāddah, Al-Sada, Al-Saddah, As Sadda, As Sādah, Khad as Sa'ada, Khadd-as-Sāddah, اَلسَّادَّة
-As Sālimīyah, السالمية
+As Sālimīyah, Ad Dumna, Ad Dumnah, Dimnah, Salimiyah, Salmiya, Salmiyah, Salmiyyeh, السالمية, اَلسَّالِمِيَّة
 As Sīf, اَلسِّيف
 As Sūr al Awsaţ, اَلسُّور اَلأَوْسَط
 As Sūr ash Shimālī, As Sūr ash Shimālā, اَلسُّور اَلشِّمَالِي
-Ash Sha'b, الشعب
+Ash Sha'b, Sha'ab, الشعب, اَلشَّعْب
 Ash Shadādīyah, اَلشَّدَادِيَّة
-Ash Sharq, الشرق
+Ash Sharq, الشرق, اَلشَّرْق
 Ash Shiqq, Al-Shaq, Ash Shaqq, Ash Shugg, Ash Shuq, اَلشِّقّ
 Ash Shiqāyā, Al-Shagayah, Ash Shaqay, Ash Shaqāyā, Ash Shigaiya, Ash Shigaya, Ash Shuqayyah, اَلشِّقَايَا
+Ash Shu'aybah, Al-Shuaiba, As Shu'aiba, Ash Shu'aiba, Sha'iba, Shaab, Shaabah, Shauiba, Shi'aibah, Shu'aybah, Shua'ibah, Shuaiba, اَلشُّعَيْبَة
+Ash Shubaykah, اَلشُّبَيْكَة
 Ash Shuhadā', الشهداء
 Ash Shunayţī, Al-Shaniti, Ash Shinaiti, Ash Shunauţī, اَلشُّنَيْطِي
 Ash Shuqayq, Al-Shaqeeq, Ash Shaqīq, Ash Shigaig, اَلشُّقَيْق
-Ash Shuwaykh, الشويخ
+Ash Shuwaykh, Al Shuwaikh, Bandar Shuwaik, Bandar Shuwaikh, Bander Shweikh, Port Shuwaikh, Shuwaikh, Shuwaikh Port, Shuwoikh, الشويخ, اَلشُّوَيْخ
 Ash Shuwaykh at Ta'līmīyah, الشويخ التعليمية
 Ash Shuwaykh aş Şinā'īyah Ithnān, الشويخ الصناعية إثنان
 Ash Shuwaykh aş Şinā'īyah Thalāthah, الشويخ الصناعية ثلاثة
 Ash Shuwaykh aş Şinā'īyah Wāḩid, الشويخ الصناعية واحد
 Ash Shuwaykh aş Şiḩḩīyah, الشويخ الصحية
-Ash Shāmīyah, الشامية
+Ash Shāmīyah, Al Shamiya, Shamiya, Shamiyeh, Shamiyyeh, Shamīyah, الشامية, اَلشَّامِيَّة
 Athan Shoal, أَثَن شَُل
 Az Zahrā', الزهراء
 Az Zaqlah, Al-Zaklah, Zaqla, Zaqlah, اَلزَّقْلَة
 Az̧ Z̧ahr, الظهر
-Aş Şabāḩīyah, الصباحية
+Aş Şabāḩīyah, Al-Sabahiyah, Subahiya, الصباحية, اَلصَّبَاحِيَّة
 Aş Şabīyah, Al-Subiyah, الصبية, اَلصَّبِيَّة
 Aş Şadīq, الصديق
 Aş Şafwānīyah, اَلصَّفْوَانِيَّة
 Aş Şafāwīyah, اَلصَّفَاوِيَّة
-Aş Şubayḩīyah, As Subaihīya, Aş Şubayḩah, Sbahiyyah, Subaihiyah, Subaihīya, Subaithiya, Şubayḩīyah, اَلصُّبَيْحِيَّة
-Aş Şulaybīkhāt, Sulaibikhat, Şulaybīkhāt, الصليبخات, اَلصُّلَيْبِيخَات
+Aş Şubayḩīyah, As Subaihīya, Aş Şubayḩah, Sbahiyyah, Subaihiyah, Subaihīya, Subaithiya, اَلصُّبَيْحِيَّة
+Aş Şulaybīkhāt, Al-Sulaibikhat, Sulaibikhat, Suleibikhat, Şulaybīkhāt, الصليبخات, اَلصُّلَيْبِيخَات
 Aş Şulaybīyah, Al Salaibīyak, Al-Sulibiyyah, As Sulaibiya, Sulabiyah, Sulaibiya, Sulaibiyah, الصليبية, اَلصُّلَيْبِيَّة
 Aş Şulaybīyah az Zirā'īyah, الصليبية الزراعية
 Aş Şulaybīyah aş Şinā'īyah Ithnān, الصليبية الصناعية إثنان
 Aş Şulaybīyah aş Şinā'īyah Wāḩid, الصليبية الصناعية واحد
 Aş Şābirīyah, Al-Sabriyah, As Sabriya, Aş Şabrīyah, Sabriya, Sābarīyah, Şabrīyah, اَلصَّابِرِيَّة
+Aş Şāliḩīyah, اَلصَّالِحِيَّة
 Aş Şīr, اَلصِّير
 Aţ Ţarfāwī, Al Tarfāwi, Al-Tarfawe, Turfaiwa, Turfāwi, اَلطَّرْفَاوِي
 Aţ Ţawīl, Al-Taweel, Tawail, Tawīl, اَلطَّوِيل
 Aţ Ţiyān, Aţ Ţayyān, الطيان, اَلطِّيَان
 Aḑ Ḑajīj, الضجيج
-Aḑ Ḑibā'īyah, Adh Dhaba'iya, Adhba'iyah, Al Adhaba'iyah, Al-Dba'iyyah, Al-Dhubaiyah, اَلضِّبَاعِيَّة
+Aḑ Ḑibā'īyah, Adh Dhaba'iya, Adhba'iyah, Al Adhaba'iyah, Al Adhaba-iyah, Al-Dba'iyyah, Al-Dhubaiyah, Dhuba'iyah, Dubayeiha, اَلضِّبَاعِيَّة
+Aḑ Ḑubā'īyah, اَلضُّبَاعِيَّة
+Bahra, Al-Bahra, Baḩrah, اَلْبَحْرَة
 Bandar ash Shuwaykh, Bandar ash Shuwaik, Bandar ash Shuwaikh, بَنْدَر اَلشُّوَيْخ
 Banāyā 'Urayfijān, Banaya 'Urayfuān, Banaya Araifjan
 Banāyā al Khīrān, Al Banāiya, Banāyah, Banāyā al Khayrān, Banīyat al Khawr, Banīyat-al-Khor, Barāyā al Khīrān, Jabal Banna, Jabal Bannah, بَنَايَا اَلْخِيرَان
@@ -218,8 +254,9 @@ Baḩrat aş Şubayḩīyah, بَحْرَة اَلصُّبَيْحِيَّة
 Baḩrat Ḩawshān, بَحْرَة حَوْشَان
 Bi'r Muţribah, Mutriba, بِئْر مُطْرِبَة
 Biţānat az Zawr, بِطَانَة اَلزَّوْر
-Bunayd al Qār, بنيد القار
+Bunayd al Qār, بنيد القار, بُنَيْد اَلْقَار
 Burgan Field
+Dant
 Dasmah, Dasma
 Dasmān, دسمان
 Dawḩat Abū Ţalḩah, Dawhat Abu Tala, Dawḩat Abū Ţāliḩ, Dohat Abu Tala, دَوْحَة أَبُو طَلْحَة
@@ -236,12 +273,15 @@ Fasht al Jathir, Fasht al Jather, فَشْت اَلْجَثِر
 Gharnāţah, غرناطة
 Ghuḑayy, Ghada, Ghadai, Ghaday, Ghadhai, Ighdhai, غُضَيّ
 Hadīyah, هدية
+Highway of Death, طريق الموت
 Ibn Dabbūs, Ibin Dabboos, Mishāsh Ibn Dabbūs, Mushāsh Ibn Dabbūs, إِبْن دَبُّوس
 Ishbīliyah, إشبيلية
 Jabal al Ad'amī, جَبَل اَلأَدْعَمِي
 Jabal al Banāyā, جَبَل اَلْبَنَايَا
+Jaber Al Ali
 Jadādīyah, Ash Shīdhānīyah, Chadabiyeh, Chadadiyah, Chitadiya, Hadadiyyah, Jadadiya, Jududiyah, Qatādīyah, Shidadiya
-Jalīb ash Shuyūkh, جليب الشيوخ
+Jalīb ash Shuyūkh, Jleeb al Shuyoukh, Qalīb al Shuyūkh, جليب الشيوخ, جَلِيب اَلشُّيُوخ
+Janūb Khayţān, جَنُوب خَيْطَان
 Janūb al Wusţá, جنوب الوسطى
 Janūb ash Shu'aybah, جنوب الشعيبة
 Janūb aş Şabāḩīyah, جنوب الصباحية
@@ -258,6 +298,7 @@ Jazīrat Umm an Naml, Jazirat Umm an Namil, Jazīrat Umm al-Namil, Jazīrat Umm 
 Jazīrat Warbah, جَزِيرَة وَرْبَة
 Jirthāmah, Jirthama
 Jirīshān, Jarishān, Jraischan, جِرِيشَان
+Ju'aydān, Juaidan
 Judaylīyāt, Al-Jadailiat, Jadailiyat
 Jābir al 'Alī, جابر العلى
 Jāl al Aţrāf, جَال اَلأَطْرَاف
@@ -265,7 +306,7 @@ Jāl al Liyāḩ, Jal al Liya, Jāl-al-Yāh, جَال اَللِّيَاح
 Jāl az Zawr, Jal Az-Zor, Jal az Zaur, Jāk az Zawr, جاك الزور, جَال اَلزَّوْر
 Karādī, كَرَادِي
 Kasr Mudayrah, Kasr Madayrah, Madaira Reef, Mudayrah
-Kayfān, Kaifan, كيفان
+Kayfān, Kaifan, Keefan, Kīfān, كيفان
 Kaḩlūlah, Gahailila, Gahlula, Qahloolah, Qaḩlūlah, كَحْلُولَة
 Khabrat 'Ā'idah, Khabra Aida, Khabrat 'Aydā, خَبْرَة عَائِدَة
 Khabrat Du'ayj, خَبْرَة دُعَيْج
@@ -341,15 +382,19 @@ Kāz̧imah, Kadhmah, كَاظِمَة
 Lu'lu', لُؤْلُء
 Madīnat al Aḩmadī, مدينة الأحمدي
 Mahzūl, Mahazul, Mahzool, مَهْزُول
+Manīfah, Munīfah, مَنِيفَة
 Manşab 'Iyāl al May'ān, Mansab Ayal Amai'an, مَنْصَب عِيَال اَلْمَيْعَان
 Markaz al Fanţās
 Maskar ad Dasht, مَسْكَر اَلدَّشْت
+Maydān Ḩawallī, Sharq Ḩawallī, شَرْق حَوَلِّي, ميدان حولي
+Mazāri' al 'Abdalī, Al 'Abdalī Farms, مزارع العبدلي
+Mishrif, Mishref, مشرف
 Mu'askarāt al Jahrā', معسكرة الجهراء
 Mu'askarāt al Mubārakīyah, معسكرة المباركية
 Mu'ayzīlāt, Al Mu'ayzīlah, Ma'aizilat, Ma'alizilat, Mu'azīlat, مُعَيْزِيلاَت
 Mu'tariḑah
 Mubghir, Mubghar, Mubgher
-Mubārak al Kabīr, مبارك الكبير
+Mubārak al Kabīr, Mubarak Al-Kabeer, مبارك الكبير
 Mudayyarah, Mdairah, Mudaira, Mudayrah, Mudayyirah, مُدَيَّرَة
 Mughayrah
 Mughaţţī, مُغَطِّي
@@ -395,6 +440,7 @@ Qalīb Quraynīs, قَلِيب قُرَيْنِيس
 Qalīb ash Shuyūkh, Jabib ash Shayukh, Jalesh al Shoukh, Jlaib Al-Shiukh, قَلِيب اَلشُّيُوخ
 Qar'ah, Gara'a, Qaraa, Qarā'ah, Qrā'ah
 Qarādān
+Qaşm Dasmān
 Qaţqaţī, Qutqatai, قَطْقَطِي
 Qiblah, قبلة
 Qiţ'at 'Urayfijān, Kita al Araifiyan, Kita at Araifiyan, قِطْعَة عُرَيْفِجَان
@@ -411,9 +457,10 @@ Qulbān Malah
 Qulbān Mughayrah, Mghairah, Mughaira, Mughairah
 Qulbān Yāsīn, قُلْبَان يَاسِين
 Qulbān al Juwayhil, Juwaiheel, Juwaihil, Juwayhīl, قُلْبَان اَلْجُوَيْهِل
+Qullat Shujayr, قُلَّة شُجَيْر
 Quraynīyah, Geraniya, Qrainīyah, Qurainiya
 Qurādān
-Qurţubah, قرطبة
+Qurţubah, Qortuba, Qurtuba, قرطبة
 Qābjī, قَابْجِي
 Ra's 'Ajūzah, Ras Ajousah, Ras Azūzah, Rās 'Ajūza, رَأْس عَجُوزَة
 Ra's 'Ushayrij, Ra's 'Ushayriq, Ra's ad Dawḩah, Ras 'Ashairij, Ras 'Ashairiq, Rās 'Ashairiz
@@ -437,8 +484,10 @@ Rawḑat Khuraym, Raudhat Khraim, Rawdhat Kharim, رَوْضَة خُرَيْم
 Riksah, Ar Riksah
 Rujm Khashmān
 Sa'īdah, سَعِيدَة
-Salwá, سلوى
+Safat
+Salwá, سلوى, سَلْوَى
 Sanām al Baqarah, سَنَام اَلْبَقَرَة
+Sawabir
 Sha'īb Abū al Jirfān, Bil Jirfān, Sha'īb Abū Jirfān, Shaib Abu Jarfan, شَعِيب أَبُو اَلْجِرْفَان
 Sha'īb Abū ash Shaḩam, Sha'īb Abū Shaḩm, Shaib Abu-Shaham, شَعِيب أَبُو شَحْم
 Sha'īb Bin Hadmah, Sha'īb Bin Hadbah, شَعِيب بِن هَدْمَة
@@ -458,6 +507,7 @@ Shiqqat al Qalīb, Shagat Al-Jleeb, Shaqqat al Qalīb, Shiggat al Jalib, Shiqqat
 Shiqqat aş Şuqayhīyah, Shaqqat aş Şuqayhīyah, شِقَّة اَلصُّقَيْهِيَّة
 Shiqqat aḑ Ḑuwayjah, Shagat Al-Dowaijah, Shaqqat aḑ Duwayjah, Shiggat adh Dhuwaija, Shiqqat adh Dhuwaija, شِقَّة اَلضُّوَيْجَة
 Shiqqat Ḩawmah, شِقَّة حَوْمَة
+Shumaymah, شميمة
 Silsilat Tilāl al Muţlā', Silsilat Tilāl al Muţlār, سِلْسِلَة تِلاَل اَلْمُطْلاَع
 State of Kuwait, Al Kuwait, Al Kuwayt, Al Kuweit, Dawlat al Kuwayt, Dawlat al-Kuwait, Dowlat al Kuwait, Koweit, Kuwait, Kuweit, Shaikhdom of Kuwait, Sheikhdom of Kuwait, الكويت, دَوْلَة اَلْكُوَيْت
 Tall Suwayrah, Tal Suwaira, Tall Suwairah, تَلّ سُوَيْرَة
@@ -490,6 +540,7 @@ Umm Kashīsh, أُمّ كَشِيش
 Umm Khurjayn, Umm Khurjain, أُمّ خُرْجَيْن
 Umm Niqqā, Umm Negga, Umm Nigga, Umm Nijjah, Umm Niqqah, أُمّ نِقَّا
 Umm Qaşabah, Umm Casbah, Umm Ugsubba, Umm Uqsubah, Umm Uqsubba, أُمّ قَصَبَة
+Umm Qaşbah, أُمّ قَصْبَة
 Umm Qudayr, Um Gudair, Umm Gadir, Umm Gudair, Umm Gudair Oilfield, Umm Gudair Oilfield (South), أُمّ قُدَيْر, Ḩaql Nafţ Umm Qadayr, Ḩaql Nafţ Umm Qudayr al Janūbi
 Umm Rujm, Um Rijm, Umm Rajam, Umm Rijm, أُمّ رُجْم
 Umm Ruqaybah, Umm Rukaybah, أُمّ رُقَيْبَة
@@ -510,6 +561,7 @@ Umm ar Ruwaysāt, Umm Ru'aysāt, Umm Ruwaisat, Umm Ruwaysāt, Umm ar Ru'aysāt, 
 Umm ar Rūs, Umm Al-Roos, Umm Ruūs, Umm ar Ru'ūs, أُمّ اَلرُّوس
 Umm at Tanak, Umm al Tannak, Umm al Tannuk, أُمّ اَلتَّنَك
 Umm Şafaq, أُمّ صَفَق
+Umm Şiddah, أُمّ صِدَّة
 Umm Ḩujūl, Khabrat Umm Ḩujūl, Umm Hjul, أُمّ حُجُول
 Warbah, Al Warba Island, Al Warbah, Ouarba, Wabra Island, Warba, Warbah Island, جَزِيرَة وَرْبَة
 Warbah Spit, Al Warbah Spit, Warba Spit
@@ -528,6 +580,7 @@ tsst, تسّْت
 Şayhad al Muz̧ayhīr, صَيْهَد اَلْمُظَيْهِير
 Şubayb, Subaib, Subaibe, Sublib, صبيب
 Şubayḩ, Sibeeh, Subaith
+Şubayḩīyah
 Şukhaybirīyāt
 Şūlah, صُولَة
 Ţiyān, Tyan, Ţayyān
@@ -535,6 +588,7 @@ tsst, تسّْت
 Ḍāḩiyat Mubārak al 'Abd Allāh, ضاحية مبارك العبد الله
 Ḑulay' Buqay', Ḑulay' Bugay'
 Ḑulay' Mādī, ضُلَيْع مَادِي, Ḑulay' Maādī
+Ḑulay' Su'ūd, Dhulai' Sa'ūd, ضُلَيْع سُعُود, Ḑulay' Sa'ūd
 Ḑulay' Zunayf, Dhulai Zinaif, Ḑulay' Zināf
 Ḑulay' al Mijmad, Daley Al-Mugamad, Dhulai' al Mijmad, ضُلَيْع اَلْمِجْمَد
 Ḑulay' an Nuhaydayn, Daley Nihaideem, ضُلَيْع اَلنُّهَيْدَيْن
@@ -548,7 +602,7 @@ tsst, تسّْت
 Ḑulay'āt al Atyās, ضُلَيْعَات اَلأَتْيَاس
 Ḑulay'āt aḑ Ḑab'ah, Dhulai'at adh Dhaba, Dlay at Al-Dabah, ضُلَيْعَات اَلضَّبْعَة, Ḑulay'at aḑ Ḑab'
 Ḑārub, Dharūb
-Ḑāḩiyat 'Abd Allāh as Sālim, ضاحية عبد الله السالم
+Ḑāḩiyat 'Abd Allāh as Sālim, ضاحية عبد الله السالم, ضَاهِيَة عَبْد اَللَّٰه اَلسَّالِم
 Ḑāḩiyat Abū Fuţayrah, ضاحية أبو فطيرة
 Ḩadd al Ḩimārah, Hadd al Hamara, حَدّ اَلْحِمَارَة
 Ḩamrān

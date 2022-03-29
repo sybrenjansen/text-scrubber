@@ -15,7 +15,7 @@ import os
 import re
 import unicodedata
 from functools import partial, reduce
-from typing import Callable, Dict, Iterable, List, Tuple, Set
+from typing import Callable, Dict, Iterable, List, Optional, Tuple, Set
 
 import pandas as pd
 from tqdm.auto import tqdm
@@ -141,12 +141,13 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     )
 
     # Only retain useful populated places for cities
-    df_cities = df[df['feature code'].isin({'PPL', 'PPLA', 'PPLA2', 'PPLA3', 'PPLA4', 'PPLA5', 'PPLC', 'PPLF', 'PPLG',
-                                            'PPLS'})]
+    populated_places = {'PPL', 'PPLA', 'PPLA2', 'PPLA3', 'PPLA4', 'PPLA5', 'PPLC', 'PPLF', 'PPLG', 'PPLS'}
+    df_cities = df[df['feature code'].isin(populated_places)]
 
     # Obtain regions. A=country, state, region,...; H=stream, lake, ...; L=parks, area, ...;
-    # T=mountain, hill, rock, ...; V=forest, heath, ...
-    df_regions = df[df['feature class'].isin({'A', 'H', 'L', 'T', 'V'})]
+    # T=mountain, hill, rock, ...; V=forest, heath, ..., PPLL=populated locality; PPLX: section of populated place
+    df_regions = df[df['feature class'].isin({'A', 'H', 'L', 'T', 'V'}) |
+                    df['feature code'].isin({'PPLL', 'PPLX'})]
 
     # Add alternate names for cities and regions
     df_cities, df_regions = add_alternate_names(geonames_dir, df_cities, df_regions, country_langs_map, filename)
@@ -155,8 +156,13 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     df_cities = merge_on_hierarchy(df_cities, df_hierarchy, manual_hierarchy)
 
     # Remove duplicate names and drop columns that are no longer of interest
-    df_cities = remove_duplicates_and_without_population(df_cities, drop_population=True)
-    df_regions = remove_duplicates_and_without_population(df_regions, drop_population=False)
+    df_cities, dropped_cities = remove_duplicates_and_without_population(df_cities, drop_population=True,
+                                                                         drop_columns=True)
+    df_regions, _ = remove_duplicates_and_without_population(df_regions, drop_population=False, drop_columns=False)
+
+    # Merge cities without population with regions
+    df_regions = pd.concat([df_regions, dropped_cities])
+    df_regions, _ = remove_duplicates_and_without_population(df_regions, drop_population=False, drop_columns=True)
 
     # Save to file
     manual_alternate_names = manual_alternate_names.get(filename[:2], {})
@@ -323,7 +329,8 @@ def merge_on_hierarchy(df: pd.DataFrame, df_hierarchy: pd.DataFrame,
     return df
 
 
-def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: bool) -> pd.DataFrame:
+def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: bool,
+                                             drop_columns: bool) -> Tuple[pd.DataFrame, Optional[pd.DataFrame]]:
     """
     Removes duplicate entries based on name and asciiname, but taking the union of alternate names in the process. Also
     removes any alternate name that equals a city name. E.g., Austin as neighborhood of Chicago is removed as alternate
@@ -331,6 +338,7 @@ def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: 
 
     :param df: DataFrame of cities or regions
     :param drop_population: Whether to drop entries without population
+    :param drop_columns: Whether to drop unused columns
     :return: DataFrame of cities or regions
     """
     # Groupby name to get rid of duplicates. When rows are merged, we take the union of alternate names
@@ -366,17 +374,21 @@ def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: 
 
     # Remove cities and regions without population
     if drop_population:
+        dropped = df[df['population'] == 0]
         df = df[df['population'] > 0].drop(['population'], axis=1)
+    else:
+        dropped = None
 
     # Remove alternate names that are also already names
     unique_names = set(df.name.to_list())
     df['alternate name'] = df['alternate name'].apply(lambda names: names - unique_names)
 
     # Drop columns that are no longer of interest and sort
-    df = df.drop(['asciiname'], axis=1)
+    if drop_columns:
+        df = df.drop(['asciiname'], axis=1)
     df = df.sort_values('name')
 
-    return df
+    return df, dropped
 
 
 def save_file(df: pd.DataFrame, save_dir: str, filename: str, manual_alternate_names: Dict[str, List[str]],
