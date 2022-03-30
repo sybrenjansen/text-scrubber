@@ -21,7 +21,8 @@ import pandas as pd
 from tqdm.auto import tqdm
 
 from text_scrubber.geo import clean_city, clean_region
-from text_scrubber.geo.resources._geonames_overrides import MANUAL_ALTERNATE_NAMES, MANUAL_HIERARCHY
+from text_scrubber.geo.resources._geonames_overrides import (MANUAL_ALTERNATE_NAMES_CITY, MANUAL_ALTERNATE_NAMES_REGION,
+                                                             MANUAL_HIERARCHY)
 
 try:
     from mpire import WorkerPool
@@ -33,7 +34,7 @@ except ImportError:
 RE_ALPHA = re.compile(r'[a-zA-Z]')
 
 
-def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None:
+def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str, countries: List[str]) -> None:
     """
     Assumes the zip-files have been extracted
 
@@ -41,10 +42,14 @@ def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None
         'alternatenames', which also contains a file for each country
     :param save_dir_cities: Save directory for cities
     :param save_dir_regions: Save directory for regions
+    :param countries: Countries to process
     """
     # Locate all files with length 6: "<COUNTRY_CODE>.txt" (e.g., "NL.txt")
     filenames = os.listdir(geonames_dir)
     filenames = [filename for filename in filenames if len(filename) == 6]
+    countries = {country.upper() for country in countries}
+    if 'ALL' not in countries:
+        filenames = [filename for filename in filenames if filename[:2] in countries]
 
     # Load languages and hierarchy
     country_langs_map = load_languages(geonames_dir)
@@ -58,7 +63,8 @@ def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str) -> None
     process_country_func = partial(process_country, geonames_dir=geonames_dir, save_dir_cities=save_dir_cities,
                                    save_dir_regions=save_dir_regions, country_langs_map=country_langs_map,
                                    df_hierarchy=df_hierarchy, manual_hierarchy=MANUAL_HIERARCHY,
-                                   manual_alternate_names=MANUAL_ALTERNATE_NAMES)
+                                   manual_alternate_names_city=MANUAL_ALTERNATE_NAMES_CITY,
+                                   manual_alternate_names_region=MANUAL_ALTERNATE_NAMES_REGION)
     if MPIRE_AVAILABLE:
         with WorkerPool(n_jobs=4) as pool:
             pool.map_unordered(process_country_func, filenames, chunk_size=1, progress_bar=True)
@@ -109,7 +115,8 @@ def load_hierarchy(geonames_dir: str) -> pd.DataFrame:
 def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save_dir_regions: str,
                     country_langs_map: Dict[str, Set[str]], df_hierarchy: pd.DataFrame,
                     manual_hierarchy: Dict[str, Dict[str, List[str]]],
-                    manual_alternate_names: Dict[str, Dict[str, List[str]]]) -> None:
+                    manual_alternate_names_city: Dict[str, Dict[str, List[str]]],
+                    manual_alternate_names_region: Dict[str, Dict[str, List[str]]]) -> None:
     """
     Processes a single country file and stores the results to file, one for cities, one for regions.
 
@@ -120,11 +127,9 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     :param country_langs_map: {country code: set of languages} dictionary
     :param df_hierarchy: Pandas DataFrame containing hierarchy information of cities
     :param manual_hierarchy: {country code: {parent city name: list of children city names to merge}}
-    :param manual_alternate_names: {country code: {city: list of manually added alternate names}}
+    :param manual_alternate_names_city: {country code: {city: list of manually added alternate names}}
+    :param manual_alternate_names_region: {country code: {region: list of manually added alternate names}}
     """
-    manual_alternate_names = manual_alternate_names.get(filename[:2], {})
-    manual_hierarchy = manual_hierarchy.get(filename[:2], {})
-
     columns = ['geonameid', 'name', 'asciiname', 'alternatenames', 'latitude', 'longitude', 'feature class',
                'feature code', 'country code', 'cc2', 'admin1 code', 'admin2 code', 'admin3 code', 'admin4 code',
                'population', 'elevation', 'dem', 'timezone', 'modification date']
@@ -153,6 +158,7 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     df_cities, df_regions = add_alternate_names(geonames_dir, df_cities, df_regions, country_langs_map, filename)
 
     # Merge children neighborhoods with parent cities
+    manual_hierarchy = manual_hierarchy.get(filename[:2], {})
     df_cities = merge_on_hierarchy(df_cities, df_hierarchy, manual_hierarchy)
 
     # Remove duplicate names and drop columns that are no longer of interest
@@ -165,9 +171,10 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     df_regions, _ = remove_duplicates_and_without_population(df_regions, drop_population=False, drop_columns=True)
 
     # Save to file
-    manual_alternate_names = manual_alternate_names.get(filename[:2], {})
-    save_file(df_cities, save_dir_cities, filename, manual_alternate_names, clean_city)
-    save_file(df_regions, save_dir_regions, filename, manual_alternate_names, clean_region)
+    manual_alternate_names_city = manual_alternate_names_city.get(filename[:2], {})
+    manual_alternate_names_region = manual_alternate_names_region.get(filename[:2], {})
+    save_file(df_cities, save_dir_cities, filename, manual_alternate_names_city, clean_city)
+    save_file(df_regions, save_dir_regions, filename, manual_alternate_names_region, clean_region)
 
 
 def clean_punctuation(s: str) -> str:
@@ -436,5 +443,7 @@ if __name__ == '__main__':
     parser.add_argument('--gd', type=str, help='Geonames directory', default='./')
     parser.add_argument('--sd-cities', type=str, help='Save directory for cities', default='./cities_per_country')
     parser.add_argument('--sd-regions', type=str, help='Save directory for regions', default='./regions_per_country')
+    parser.add_argument('--countries', type=str, help='List of two-letter country codes to process. Default=all',
+                        nargs="*", default=['all'])
     args = parser.parse_args()
-    main(args.gd, args.sd_cities, args.sd_regions)
+    main(args.gd, args.sd_cities, args.sd_regions, args.countries)
