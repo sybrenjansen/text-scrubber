@@ -193,7 +193,7 @@ _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
                                       .remove_digits()
                                       .sub(r'-|/|&|,', ' ')
                                       .remove_punctuation()
-                                      .remove_suffixes({' si', ' Si', ' ri', ' Ri', ' dong', ' Dong'})  # Set of formal city suffixes
+                                      .remove_suffixes({' si', ' Si', ' ri', ' Ri', ' dong', ' Dong'})
                                       .tokenize()
                                       .remove_stop_words({'der', 'do', 'e', 'le', 'im', 'mail'}, case_sensitive=True)
                                       .lowercase(on_tokens=True)
@@ -237,8 +237,9 @@ def _get_country_resources() -> Dict[str, Dict]:
     resources = dict()
 
     # Get a map of cleaned country name to capitalized country name
-    resources['cleaned_to_capitilized'] = {clean_country(country): capitalize_geo_string(country)
-                                           for country in read_resource_file(__file__, 'resources/countries.txt')}
+    resources['cleaned_to_capitilized'] = {clean_country(country): country for country in read_resource_json_file(
+        __file__, "resources/norm_country_country_codes_map.json"
+    ).keys()}
 
     # Read in a map of common country name replacements
     replacements_file = (line.split(", ") for line in read_resource_file(__file__, 'resources/country_map.txt'))

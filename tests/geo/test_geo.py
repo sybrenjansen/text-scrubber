@@ -139,7 +139,7 @@ class NormalizeCountryTest(unittest.TestCase):
                     self.assertAlmostEqual(score, expected_score, places=3)
 
 
-class NormalizeRegionsTest(unittest.TestCase):
+class NormalizeRegionTest(unittest.TestCase):
 
     def test_part_of_known_regions(self):
         """
@@ -166,7 +166,7 @@ class NormalizeRegionsTest(unittest.TestCase):
         """
         test_regions = [
             ('WA', [('State of Western Australia', 'Australia'), ('Washington', 'United States')]),
-            ('AR', [('Arkansas', 'United States'), ('State of Arunāchal Pradesh', 'India')]),
+            ('AR', [('Arkansas', 'United States'), ('Ār', 'India')]),
             ('nl', [('Newfoundland and Labrador', 'Canada'), ('State of Nāgāland', 'India')])
         ]
         for original, expected in test_regions:
@@ -223,18 +223,28 @@ class NormalizeRegionsTest(unittest.TestCase):
         Close matches to the regions map should yield all correct regions
         """
         test_regions = [
-            ('Jiangs', [('Jiangsu Sheng', 'China'), ('Jiyang Village', 'China')], [0.923, 0.833]),
-            ('oka', [('Mōka-machi', 'Japan'), ('Sōka Shi', 'Japan')], [0.857, 0.857]),
-            ('VWA', [('State of Western Australia', 'Australia'), ('Virginia', 'United States'),
-                     ('Washington', 'United States')], [0.8, 0.8, 0.8])
+            ('Jiangs', [('Gyangsa', 'China', 0.923),
+                        ('Jiangse', 'China', 0.923),
+                        ('Jiangsi', 'China', 0.923),
+                        ('Jiangsu Sheng', 'China', 0.923),
+                        ('Jigang', 'China', 0.833),
+                        ('Jiyang', 'China', 0.833)]),
+            ('usaka', [('Fusaka', 'Japan', 0.909),
+                       ('Suzaka-shi', 'Japan', 0.909),
+                       ('Uesaka', 'Japan', 0.909),
+                       ('Yusaka', 'Japan', 0.909),
+                       ('Ōsaka', 'Japan', 0.909)]),
+            ('VWA', [('State of Western Australia', 'Australia', 0.8),
+                     ('Virginia', 'United States', 0.8),
+                     ('Washington', 'United States', 0.8)])
         ]
-        for original, expected_regions, expected_scores in test_regions:
-            country_set = {country for _, country in expected_regions}
-            with self.subTest(original=original, expected_regions=expected_regions, expected_scores=expected_scores):
-                for (region, country, score), expected_region, expected_score in zip(
-                        normalize_region(original, restrict_countries=country_set), expected_regions, expected_scores
+        for original, expected_regions in test_regions:
+            country_set = {country for _, country, _ in expected_regions}
+            with self.subTest(original=original, expected_regions=expected_regions):
+                for (region, country, score), (expected_region, expected_country, expected_score) in zip(
+                        normalize_region(original, restrict_countries=country_set), expected_regions
                 ):
-                    self.assertEqual((region, country), expected_region)
+                    self.assertEqual((region, country), (expected_region, expected_country))
                     self.assertAlmostEqual(score, expected_score, places=3)
 
 
