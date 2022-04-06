@@ -97,9 +97,11 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # were lost after calling .split())
             if restrict_countries is not None:
                 matches_found = normalize_func(combination, restrict_countries)
-                matches_found = [(city, score) for (city, _, score) in matches_found]
+                matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             else:
                 matches_found = normalize_func(combination)
+                if matches_found and len(matches_found[0]) == 3:
+                    matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             if matches_found:
                 # Threshold
                 normalized_match, score = max(matches_found, key=lambda tup: tup[1])
@@ -127,9 +129,11 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # were lost after calling .split())
             if restrict_countries is not None:
                 matches_found = normalize_func(combination, restrict_countries)
-                matches_found = [(city, score) for (city, _, score) in matches_found]
+                matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             else:
                 matches_found = normalize_func(combination)
+                if matches_found and len(matches_found[0]) == 3:
+                    matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             if matches_found:
                 normalized_match, score = max(matches_found, key=lambda tup: tup[1])
                 str_start_idx = token_start_idx[start_idx] + start_idx
@@ -207,7 +211,7 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
                            match_threshold_small, threshold_small, max_tokens_to_consider)
 
 
-def find_city_in_string(sample: str, country_set: Optional[set], match_threshold: float = 0.84,
+def find_city_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                         match_threshold_small: float = 0.90, threshold_small: int = 4,
                         max_tokens_to_consider: int = 6) -> List[Match]:
     """
@@ -234,7 +238,7 @@ def find_city_in_string(sample: str, country_set: Optional[set], match_threshold
                            match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
 
 
-def find_region_in_string(sample: str, country_set: Optional[set], match_threshold: float = 0.84,
+def find_region_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                           match_threshold_small: float = 0.90, threshold_small: int = 4,
                           max_tokens_to_consider: int = 6) -> List[Match]:
     """
