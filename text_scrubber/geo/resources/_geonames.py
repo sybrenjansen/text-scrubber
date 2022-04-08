@@ -159,10 +159,18 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     populated_places = {'PPL', 'PPLA', 'PPLA2', 'PPLA3', 'PPLA4', 'PPLA5', 'PPLC', 'PPLF', 'PPLG', 'PPLS'}
     df_cities = df[df['feature code'].isin(populated_places)]
 
-    # Obtain regions. A=country, state, region,...; H=stream, lake, ...; L=parks, area, ...;
-    # T=mountain, hill, rock, ...; V=forest, heath, ..., PPLL=populated locality; PPLX: section of populated place
-    df_regions = df[df['feature class'].isin({'A', 'H', 'L', 'T', 'V'}) |
-                    df['feature code'].isin({'PPLL', 'PPLX'})]
+    # Obtain regions. A=country, state, region,...; V=forest, heath, ..., PPLL=populated locality;
+    # PPLX: section of populated place
+    df_regions = df[df['feature class'].isin({'A', 'V'}) |
+                    df['feature code'].isin({'BAY', 'BAYS', 'LK', 'LKS', 'SEA', 'OCN',  # From H=stream, lake, ...
+                                             'AGRC', 'AREA', 'CONT', 'CST', 'CTRB', 'FLD', 'FLDI', 'GRAZ', 'GVL',
+                                             'INDS', 'LCTY', 'PRK', 'PRT', 'RES', 'RESA', 'RESF', 'RESH', 'RESN',
+                                             'RESP', 'RESV', 'RESW', 'RGN', 'RGNE', 'RGNL', 'TRB',  # From L=parks, ...
+                                             'BCH', 'BCHS', 'CNYN', 'CRDR', 'CRTR', 'DLTA', 'DSRT', 'DUNE', 'ERG',
+                                             'HMDA', 'ISL', 'ISLET', 'ISLF', 'ISLM', 'ISLS', 'ISLT', 'ISLX', 'MT',
+                                             'MTS', 'PEN', 'PENX', 'PLAT', 'PLATX', 'PLDR', 'PLN', 'PLNX', 'REG',
+                                             'SAND', 'VAL', 'VALG', 'VALS', 'VALX', 'VLC',  # From T=mountain, hill, ...
+                                             'PPLL', 'PPLX'})]  # From P=city, village, ...
 
     # Add alternate names for cities and regions
     df_cities, df_regions = add_alternate_names(geonames_dir, df_cities, df_regions, country_langs_map, filename)
