@@ -213,8 +213,8 @@ Altenpleen
 Altenriet, Алтенрит, التنریت, 阿尔滕里特
 Altenroda
 Altensalzwedel
-Altenstadt, Altenstadt bei Vohenstrauß, Geislingen-Altenstadt, Алтенштат, Альтенштадт, التنستاد، آپر باواریا, التنستاد، سوابی, التنستاد، هسه, アルテンシュタット
 Altensteig, Stadt Altensteig, Алтенштајг, Альтенстайг, Альтенштайг, آلتنشتايغ, آلتنشتایگ, 阿尔滕斯泰希
+Altenstädt, Altenstadt bei Vohenstrauß, Geislingen-Altenstadt, Алтенштат, Альтенштадт, التنستاد، آپر باواریا, التنستاد، سوابی, التنستاد، هسه, アルテンシュタット
 Altenthann, Алтентан, Альтентанн, التنتان, 阿尔滕坦
 Altentreptow, Stadt Altentreptow, Алтентрептов, آلتنتربتوو, آلتنترپتوو, 旧特雷普托
 Altenzaun
@@ -265,6 +265,9 @@ Amsdorf
 Amstetten, Амштетен, Амштеттен, امستیتن
 Amtzell, Амтцелль, Амцел, Амцелль, امتزل, 阿姆策尔
 Amöneburg, Stadt Amöneburg, Аменебург, آمونبرگ, آمونهبورغ, アメーネブルク, 阿默内堡
+An Reinsdorf, Райнсдорф, Рајнсдорф, 赖因斯多夫
+An der Haar, Гаар, Хар, هار, 哈尔
+An der Heide, Stadt Heide, Хайде, Хајде, هايدة, هایده, ハイデ
 Andechs, Abbaye d'Andechs, Erling, Kloster Andechs, Андекс
 Andenhausen
 Anderlingen
@@ -596,7 +599,6 @@ Ballenstedt, Stadt Ballenstedt, Баленштет, Балленштедт, با
 Ballerstedt, Großballerstedt
 Ballstedt
 Ballstädt, Балштет, Бальштедт, 巴尔斯特
-Balow
 Baltmannsweiler, Балтмансвајлер, Бальтманнсвайлер, Բալտմանսվայլեր, 巴特曼斯韦勒
 Baltrum, Baltrum Island, بالتروم, 巴尔特鲁姆
 Balve, Stadt Balve, بالفه, بالوه, 巴尔费
@@ -621,7 +623,6 @@ Barby, Stadt Barby, Барби, باربي, باربی
 Barchfeld, Бархфелд, 巴尔希费尔德
 Bardowick, Bardowiek, Бардовик, 巴尔多维克
 Barenburg, 巴伦堡
-Barendorf, 巴伦多夫
 Bargenstedt
 Bargfeld-Stegen, Баргфелд-Штеген, 巴尔格费尔德-斯特根
 Bargischow, Баргишов, 巴尔吉绍
@@ -1136,14 +1137,12 @@ Bornheim, Stadt Bornheim, Борнгайм, Борнхайм, Борнхајм, 
 Bornholt
 Bornhöved
 Bornich, Борних, 博尔尼希
-Bornsen
 Bornstedt, Bornstedt (Hohe Börde), Bornstedte
 Bornum, Bornum am Elm
 Borod
 Borrentin
 Borsdorf, 博尔斯多夫
 Borsfleth
-Borstel, Auetal-Borstel, Borstel (Auetal), Borstel (Neustadt am Rübenberge)
 Borstel-Hohenraden, Борстел-Хоенраден, 博尔斯特尔-霍亨拉登
 Borstendorf, 博尔斯滕多夫
 Borstorf
@@ -1151,7 +1150,6 @@ Borxleben
 Bosau, Бозау, 博绍
 Bosbüll
 Bosenbach, Бозенбах, Босенбах, 博森巴赫
-Bothel, Ботел, ボテル, 博特尔
 Bothkamp
 Bottenbach
 Bottmersdorf
@@ -1198,7 +1196,6 @@ Braunsbach, Браунсбах, ブラウンスバッハ, 布罗因斯巴赫
 Braunsbedra, Stadt Braunsbedra, بروانسبدرا, 布罗因斯贝德拉
 Braunschweig, Brunswick, Brunswyck, Stadt Braunschweig, Брауншвайг, Брауншвајг, Брауншвейг, براونشفايغ, براونشوایگ, ブラウンシュヴァイク, 不伦瑞克
 Braunschwende
-Braunsdorf, Reinsdorf West
 Braunshorn
 Braunweiler
 Brauweiler
@@ -1285,7 +1282,6 @@ Brinkum
 Bristow
 Britten
 Britz, Бриц
-Brockel, Брокел, Броккель, ブロッケル, 布罗克尔
 Brockscheid, Brockscheidt, Брокшайд, Брокшајд, 布罗克沙伊德
 Brockum
 Brodenbach, Броденбах, 布罗登巴赫
@@ -1299,7 +1295,6 @@ Brokdorf
 Brokstedt
 Brome, 布罗梅
 Bromskirchen, Бромскирхен, ブロムスキルヒェン, 布罗姆斯基兴
-Bronkow, Бронков, 布龙科
 Broock
 Brotterode, Бротероде, بروتروده
 Bruch, Bruch (Aerzen)
@@ -1312,14 +1307,12 @@ Bruchsal, Stadt Bruchsal, Брухзал, بروخزال, ブルッフザール,
 Bruchstedt
 Bruchweiler, Брухвайлер, Брухвајлер, 布鲁赫韦勒
 Bruchweiler-Bärenbach
-Bruck, Брук, بروک
 Bruck in der Oberpfalz, Bruck bei Nittenau, Bruck i.d. OPf., Bruck in der Oberptalz, Брук, Брук у Оберпфалцу, Брук-ін-дер-Оберпфальц, بروک این در اوبرفالتس
 Bruckberg, Брукберг, Բրուկբերգ, بروکبرگ, ブルックベルク, 布鲁克贝格
 Bruckmühl, Bruckmühle, Брукмил, Брукмюль, Բրուկմյուհլ, بروکمول, 布鲁克米赫尔
 Brudersdorf
 Brumby
 Brunau
-Brunn, Auerbach-Brunn
 Brunnen
 Brunow
 Brunsbüttel, Stadt Brunsbüttel, Брунсбител, Брунсбюттель, برونزبوتل, برونسبوتل, 布伦斯比特尔
@@ -1330,10 +1323,13 @@ Bruttig-Fankel, Брутиг-Фанкел, 布鲁蒂格-凡克尔
 Bräsen
 Bräunlingen, Stadt Bräunlingen, Бройнлинген, Бројнлинген, برواناینگن, بروينلينغن, 布罗伊恩林根
 Bräunrode
+Bräunsdorf, Reinsdorf West
 Bröbberow
 Bröckau
+Bröckel, Брокел, Броккель, ブロッケル, 布罗克尔
+Brönkow, Бронков, 布龙科
 Bröthen
-Brück, Stadt Brück
+Brück, Stadt Brück, Брук, بروک
 Brücken, Брикен, Брюккен, 布吕肯
 Brücktal
 Brüel, Stadt Brüel, Брил, Брюэль, بروئل, برويل, 布吕埃尔
@@ -1341,7 +1337,7 @@ Brügge
 Brüggen, Бриген, Брюгген, بروخن
 Brüheim
 Brühl, Bruehl, Stadt Brühl, Брил, Брюль, برول, ブリュール, 布呂爾
-Brünn
+Brünn, Auerbach-Brunn
 Brünnthal, Брунтал, Բրունթհալ, برونتال, 布伦塔尔
 Brünzow
 Brüsewitz, Бризевиц, Брюзевиц, 布吕塞维茨
@@ -1361,7 +1357,6 @@ Buchbach, Бухбах, Բուխբախ, بوخباخ
 Buchbrunn, Бухбрун, Бухбрунн, Բուխբրուն, 布布伦
 Buchdorf, Бухдорф, Բուխդորֆ, ブーフドルフ, 布赫多夫
 Buchen in Odenwald, Бухен, بوخن, ブーヒェン, 布亨
-Buchenberg, Бухенберг, Բուխենբերգ, 布亨贝格
 Buchet, Buchöd
 Buchfart
 Buchheim, Бухајм, Бухгайм, Буххайм, 布海姆
@@ -1387,12 +1382,9 @@ Buko
 Bullau
 Bullay, Булај, 布莱
 Bullenkuhlen
-Bunde, بونده, 本德
 Bundenbach, Бунденбах, 本登巴赫
 Bundenthal
-Bundorf, Բունդորֆ
 Bunsoh, Бунзо, 本索
-Burbach, Бурбах, 布尔巴赫
 Burg Hohenstein
 Burg Stargard, Stadt Burg Stargard, Бург Штаргард, بورغ شتارغارد, بورگ اشتارگارد, 布尔格斯塔尔加尔德
 Burg bei Magdeburg, Stadt Burg bei Magdeburg
@@ -1427,7 +1419,7 @@ Burgsinn, Бургзинн, Бургсин, Բուրգզին, 布尔格辛
 Burgsponheim, Бургспонхайм, Бургспонхајм, 布尔格斯蓬海姆
 Burgstall, Бургстал, Бургштал, Бургшталль
 Burgstetten, Бургштетен, Бургштеттен, 布尔格斯特滕
-Burgstädt, Stadt Burgstädt, Бургштедт, Бургштет, بورغشتيت, بورگ‌اشتت, 布尔格斯特
+Burgstädt, Stadt Burgstädt, Биргштат, Бургштедт, Бургштет, Бюргштадт, Բյուրգշթաթ, بورغشتيت, بورگ‌اشتت, ビュルクシュタット, 布尔格斯特, 比尔格斯塔特
 Burgthann, Бургтан, Бургтанн, Բուրգթան, 布尔格坦
 Burgwalde
 Burgwerben
@@ -1446,7 +1438,6 @@ Burtscheid
 Burweg, Бурвег, ブルヴェク, 布尔韦格
 Buschkuhnsdorf
 Buschvitz
-Busdorf, Buszdorf, Bußdorf, 布斯多夫
 Busenberg, Бузенберг, 布森贝格
 Busendorf
 Busenhausen, Бузенхаузен, بوزنهاسن, 布森豪森
@@ -1458,13 +1449,14 @@ Buttenwiesen, Бутенвисен, Буттенвизен, Բութենվիզե
 Buttlar, Бутлар, 布特拉尔
 Buttstädt, Buttstaedt
 Butzbach, Stadt Butzbach, Буцбах, بوتزباخ, بوتسباخ, ブッツバッハ, 布茨巴赫
-Butzow, Бутцов, Буцов, 布措
 Buxheim, Буксгайм, Буксхайм, Буксхајм, Բուքսհայմ, بوکسهایم, 布克斯海姆
 Buxtehude, Stadt Buxtehude, Букстехуде, بوكستهوده, ブクステフーデ
 Bächingen an der Brenz, Bächingen, Бехинген ан дер Бренц, Бехінген, Բրենցի Բեխինգեն, بشینگن
 Bäk
 Bälau
+Bälow
 Bärenbach, Беренбах
+Bärendorf, Hohendorf-Bärendorf, 巴伦多夫
 Bärenstein, Беренштайн, Беренштајн, 贝伦斯泰因
 Bärenthal, Берентал, 贝伦塔尔
 Bärnau, Stadt Bärnau, برنوا, 贝尔瑙
@@ -1504,20 +1496,23 @@ Börnsen
 Börrstadt
 Börsborn, Берсборн, 伯尔斯博尔恩
 Börslingen, Берслинген, Бёрзлинген, Բյորզլինգեն, 伯尔斯林根
+Börstel, Auetal-Borstel, Borstel (Auetal), Borstel (Neustadt am Rübenberge)
 Börtlingen
 Börzow, Берцов, 伯尔措
-Börßum, Берсум, 伯尔苏姆
+Börßum, Emden-Borßum, Берсум, 伯尔苏姆
 Bösdorf
 Bösel, Boesel, Безел, 伯塞尔
 Bösenbrunn, Безенбрун, Бёзенбрунн, 伯森布伦
 Bösingen, Безінген, Бесинген
 Bösleben-Wüllersleben, Беслебен-Вилерслебен, Бёслебен-Вюллерслебен, 伯斯莱本-维莱尔斯莱本
 Bötersen
+Böthel, Ботел, ボテル, 博特尔
 Böttingen, Bötingen, Бетинген, 伯廷根
 Bötzingen, Бетцинген, Бецинген, Բյոտցինգեն, 伯钦根
 Büchel, Бихел, Бюхель, 比歇尔
 Büchen, Бихен, Бюхен, 比兴
 Büchenbach, Бихенбах, Бухенбах, Бюхенбах, Բյուխենբախ, Բուխենբախ, ビューヒェンバッハ, 布亨巴赫, 比兴巴赫
+Büchenberg, Бухенберг, Բուխենբերգ, 布亨贝格
 Büchenbeuren, Бихенбојрен, Бюхенбойрен, 比兴博伊伦
 Büchlberg, Билберг, Бюхльберг, Բյուխլբերգ, بوشلبرگ, 比希尔贝格
 Bückeburg, Stadt Bückeburg, Бикебург, Бюккебург, بوکه‌بورگ, بيوكهبورغ, ビュッケブルク, 比克堡
@@ -1538,16 +1533,18 @@ Bülkau, Билкау, Бюлькау, 比尔考
 Bülow, Bülow-Dorf
 Bülstringen, Билстринген, Бюльстринген, Бюльштринген, 比尔斯特林根
 Bülzig
-Bünde, Stadt Bünde, Бюнде, ビュンデ
+Bünde, Stadt Bünde, Бюнде, بونده, ビュンデ, 本德
+Bündorf, Buendorf, Բունդորֆ
 Bünsdorf
+Bürbach, Бурбах, 布尔巴赫
 Bürchau
 Bürdenbach
 Büren, Stadt Büren, Бирен, Бюрен, بورن, بيورن
 Bürg, Burg (Celle), Burg (Spreewald), Burg Neunstadt, Burg am Wupper, Burg an der Wupper, Burg-Dorf, Stadt Burg, بورغ, بورغ أن در فوبر, بورغ على فوبر
 Bürgberg, Burgberg im Allgäu
 Bürgel, Stadt Bürgel, Бюргель, بورغل, بورگل
-Bürgstadt, Биргштат, Бюргштадт, Բյուրգշթաթ, ビュルクシュタット, 比尔格斯塔特
 Bürstadt, Stadt Bürstadt, Бирштат, Бюрштадт, بوراشتت, بيورشتات, ビュルシュタット, 比尔斯塔特
+Büsdorf, Buszdorf, Bußdorf, 布斯多夫
 Büsingen, Büsingen am Hochrhein
 Büste
 Büsum, Бизум, Бюзум, 比苏姆
@@ -1557,7 +1554,7 @@ Büttel
 Büttelborn, Бителборн, Бюттельборн, ビュッテルボルン, 比特尔博恩
 Bütthard, Bütthar, Bütthart, Битард, Бюттард, Бюттхард, Բյութարդ, ビュットハルト, 比塔尔德
 Büttstedt
-Bützow, Stadt Bützow, Бицов, Бютцов, بوتزو, بوتسو, 比措
+Bützow, Stadt Bützow, Бицов, Бутцов, Буцов, Бютцов, بوتزو, بوتسو, 布措, 比措
 Caan
 Caaschwitz, Gaaschwitz
 Cadenberge, Kadenberge, 卡登贝格
@@ -1904,7 +1901,6 @@ Doberschau
 Dobersdorf
 Dobien, Reinsdorf Nord
 Dobitschen, Добичен, 多比茨兴
-Dobritz
 Dockendorf
 Dockweiler, Доквайлер, Доквајлер, 多克韦勒
 Dodenburg
@@ -1914,7 +1910,6 @@ Dohma, Дома, دوما
 Dohna, Stadt Dohna, Дона, دونا, 多纳
 Dohndorf
 Dohr
-Dohren
 Dolgen
 Dolgesheim
 Dollbergen
@@ -1948,7 +1943,6 @@ Dornbock
 Dornburg, Dornburg /Saale, 多恩堡
 Dornhan, Stadt Dornhan, Дорнган, Дорнхан, Դորհան, دورنهان, 多尔恩汉
 Dornheim
-Dornholzhausen
 Dornstadt, Дорнштадт, Дорнштат, 多尔恩斯塔特
 Dornstedt
 Dornstetten, Stadt Dornstetten, Дорнштетен, Дорнштеттен, دورنشتيتن, دورن‌اشتتن, 多尔恩斯特滕
@@ -2003,8 +1997,6 @@ Drewitz
 Driedorf, Дридорф, 德里多夫
 Driftsethe
 Drochtersen, Дрохтерзен, Дрохтерсен, ドロホターゼン, 德罗特尔森
-Drogen
-Drognitz
 Drohndorf
 Drolshagen, Stadt Drolshagen, Дролсхаген, Дрольсгаген, درولزهاگن, درولسهاغن, 德罗尔斯哈根
 Drosa
@@ -2012,6 +2004,8 @@ Droyßig, Дройсиг, Дројсиг, 德罗伊西希
 Droßdorf
 Druxberge
 Dröbischau
+Drögen
+Drögnitz
 Drübeck
 Ducherow, Духеров, 杜黑罗
 Duchroth, Дурот, Духрот, 杜罗特
@@ -2041,7 +2035,7 @@ Dähre, Дере, 德雷
 Dänischenhagen, Денишенхаген, 德尼申哈根
 Dätgen
 Döbeln, Doebeln, Doeberln, Stadt Döbeln, Дебелн, دوبلن, 德伯爾恩
-Döbernitz
+Döbernitz, Kroptewitz-Dobernitz
 Döberschütz, Добершиц, Добершюц, 多贝尔许茨
 Döblitz, Löblitz
 Döbris
@@ -2057,6 +2051,7 @@ Dönitz
 Dörentrup, Дерентруп, デーレントルプ, 德伦特鲁普
 Dörnberg
 Dörndorf, 多尔恩多夫
+Dörnholzhausen
 Dörnick
 Dörnitz
 Dörpen, Дерпен, 德尔彭
@@ -2076,7 +2071,7 @@ Döschwitz
 Dötlingen, Детлинген, 德特林根
 Döttesfeld
 Dößel
-Düben
+Düben, Dubin
 Düchelsdorf
 Düdenbüttel
 Dülmen, Stadt Dülmen, Дилмен, Дюльмен, Դյուլմեն, دولمن, 迪爾門
@@ -2120,8 +2115,8 @@ Ebersberg, Stadt Ebersberg, إبرسبرغ, ابرسبرگ, 埃伯斯贝格
 Ebersdorf, Ebersdorf-Friesau, Ebersdorf/Thüringen
 Ebershausen, Еберсгаузен, Еберсхаузен, Էբերսհաուզեն, 埃贝尔斯豪森
 Ebersroda
-Eberstadt, Еберштадт, Еберштат, エーバーシュタット, 埃贝尔斯塔特
 Eberstedt
+Eberstädt, Еберштадт, Еберштат, エーバーシュタット, 埃贝尔斯塔特
 Eberswalde, Stadt Eberswalde, Еберсвалде, ابرس والده, エーベルスヴァルデ, 埃贝尔斯瓦尔德
 Ebertshausen
 Ebertsheim, Ебертсхајм, Эбертсхайм, 埃贝尔茨海姆
@@ -2536,7 +2531,6 @@ Eßweiler, Есвајлер, Эсвайлер, 埃斯韦勒
 Fachbach
 Faha
 Fahrbinde
-Fahrdorf, Фардорф, 法尔多夫
 Fahren
 Fahrenbach, Фаренбах, ファーレンバッハ, 法伦巴赫
 Fahrenkrug
@@ -2803,6 +2797,7 @@ Fuldatal, フルダタール, 富尔达塔尔
 Furth im Wald, Brod nad Lesy, Stadt Furth im Wald, Фурт им Валд, Վալդի Ֆուրթ, فورت إم فالد, فورت ایم والد, 林区富尔特
 Furtwangen, Furtwangen im Schwarzwald, Фуртванген, Фуртванген им Шварцвалд, فورت‌وانغن, فورت‌وانگن, フルトヴァンゲン, 富特旺根
 Fußgönheim, Фусгенхајм, Фусгёнхайм, 富斯根海姆
+Fährdorf, Фардорф, 法尔多夫
 Föckelberg, Фекелберг, Фёккельберг, 弗克尔贝格
 Föhrden-Barl, Förden-Barl
 Föhren, Ферен, 弗赫伦
@@ -3120,7 +3115,6 @@ Goch, Stadt Goch, Гох, غوخ, گخ, 戈赫
 Gochsheim, Гоксгайм, Гоксхайм, Гохсхајм, گوکسهایم
 Goddert
 Godendorf
-Godern
 Gohrau
 Gokels
 Golchen
@@ -3489,7 +3483,7 @@ Grünheide, Гринхајде, Грюнхайде, Գրյուհայդե, 格林
 Grünkraut, Гринкраут, Грюнкраут, 格林克劳特
 Grünow
 Grünsfeld, Stadt Grünsfeld, Гринсфелд, Грюнсфельд, غرونسفلد, گرونزفلد, グリュンスフェルト, 格林斯费尔德
-Grünstadt, Gruenspadt, Gruenstadt, Stadt Grünstadt, Гринштат, Грюнштадт, غرونشتات, گرون‌اشتات, グリューンシュタット, 格林斯塔特
+Grünstädt, Gruenspadt, Gruenstadt, Stadt Grünstadt, Гринштат, Грюнштадт, غرونشتات, گرون‌اشتات, グリューンシュタット, 格林斯塔特
 Grünwald, Grienewald, Gruenwald, Гринвалд, Грюнвальд, Գրյունվալդ, گرونوالد, 格林瓦尔德
 Grüssow
 Gschwend, Гшвенд, 格施文德
@@ -3542,6 +3536,7 @@ Göcklingen
 Göda, Геда
 Gödenroth
 Gödenstorf
+Gödern
 Gödnitz
 Göggingen, Геггінген, Гегинген, 格金根
 Göhl
@@ -3609,7 +3604,6 @@ Haag an der Amper, Гааг-ан-дер-Ампер, Хаг ан дер Ампе�
 Haag in Oberbayern, Хаг
 Haale
 Haan, Stadt Haan, Ган, Хаан, Хан
-Haar, Гаар, Хар, هار, 哈尔
 Haarbach, Гаарбах, Харбах, Հարբախ, هارباخ
 Haasow, Hažow
 Habach, Габах, Хабах, Հաբախ, هاباخ, ハーバッハ
@@ -3626,7 +3620,6 @@ Hadmersleben, Хадмерслебен
 Hafenlohr, Гафенлор, Хафенлор, Հաֆենլոր, 哈芬洛尔
 Hage, Хаге
 Hagelstadt, Гагельштадт, Хагелштат, Хагельштадт, Հագելշթաթ, هاگلشتات, 哈格尔斯塔特
-Hagen, Domäne Hagen, Hagen a.T.W., Hagen am Teutoburger Wald, Hagen-Beckerode, Stadt Hagen, Хаген, Хаген ам Теутобургер Валд, Хаген-ам-Тойтобургер-Вальд, مدينة هاغن, هاجن, هاغن
 Hagen im Bremischen, Хаген им Бремишен, 不来梅地区哈根
 Hagenbach, Хагенбах, هاغنباخ, هاگنباخ, 阿让巴克
 Hagenburg, Хагенбург, ハーゲンブルク, 哈根堡
@@ -3636,7 +3629,6 @@ Hagermarsch, Хагермарш, 哈格尔马尔施
 Haghof
 Hagnau
 Hahausen, Хахаузен, 哈豪森
-Hahn
 Hahn bei Wallmerod
 Hahnbach, Ганбах, Ханбах, Հանբախ, 哈恩巴赫
 Hahnenbach, Ханенбах, 哈嫩巴赫
@@ -3687,7 +3679,6 @@ Halstenbek, Халстенбек, 哈尔斯滕贝克
 Haltern am See, Haltern in Westfalen, Хальтерне
 Halver, Stadt Halver, Гальфер, Халвер, Хальфер, هالفر, 哈尔费尔
 Halvesbostel
-Hambach
 Hamberge
 Hambergen, Хамберген, 汉贝尔根
 Hambrücken, Гамбрюккен, Хамбрикен, Хамбрюкен, 汉布吕肯
@@ -3723,8 +3714,8 @@ Hangard
 Hangen-Weisheim
 Hanhofen
 Hankensbüttel, Ханкенсбител, Ханкенсбюттель, 汉肯斯比特尔
-Hannover, Hanover, Hanovre, Honovere, Ганновер, Хановер, هانوفر, ハノーファー, 汉诺威
 Hannoversch Münden, Hann. Münden, Hann.Münden, Hannoverisch-Münden, Muenden, Stadt Hann. Münden, ハン・ミュンデン
+Hannöver, Hanover, Hanovre, Honovere, Ганновер, Хановер, هانوفر, ハノーファー, 汉诺威
 Hanroth
 Hanshagen
 Hanstedt, Ханштедт, Ханштет, 汉斯特
@@ -3865,7 +3856,6 @@ Hefersweiler, Хеферсвайлер, Хеферсвајлер, 黑弗尔斯�
 Hehlen, Хелен, ヘーレン, 黑伦
 Heichelheim
 Heidberg
-Heide, Stadt Heide, Хайде, Хајде, هايدة, هایده, ハイデ
 Heideck, Heydeck, Stadt Heideck, Гайдек, Хайдек, Хајдек, Հայդեք, هايدك, هایدک, ハイデック, 海德克
 Heidekamp
 Heidelberg, Heidelburg, Kolonie Heidelberg, Stadt Heidelberg, Гайдельберг, Гейдельберг, Хайдельберг, Хајделберг, هايدلبرغ, هایدلبرگ, ハイデルベルク, 海德堡
@@ -4213,7 +4203,7 @@ Hohenfurch, Hohenfurth
 Hohengandern, Хоенгандерн, 霍亨甘德尔恩
 Hohengöhren
 Hohenhameln, Хоенхамелн, 霍恩哈默尔恩
-Hohenhorn
+Hohenhörn
 Hohenkammer, Hohen Cammer, Hohenkamer, Гоенкаммер, Хоенкамер, Хоэнкаммер, هوهن کامر, 霍亨卡梅尔
 Hohenkirchen, Hoher Rücken, Хоенкирхен
 Hohenleimbach
@@ -4253,10 +4243,7 @@ Hoisdorf
 Holdenstedt
 Holdorf, Холдорф, 霍尔多夫
 Holldorf
-Holle, Холе, Холле, 霍莱
 Holleben
-Hollen
-Hollenbek
 Hollenstedt, Холенштет, Холленштедт, 霍伦斯特
 Holler
 Hollfeld, Stadt Hollfeld, Гольфельд, Холльфельд, Холфелд, Հոլֆելդ, هولفلد, ホルフェルト, 霍尔费尔德
@@ -4306,7 +4293,6 @@ Hoppstädten, Хопштедтен, Хопштетен, 霍普斯特滕
 Hoppstädten-Weiersbach, Хопштедтен-Вайерсбах, Хопштетен-Вајерсбах, 霍普斯特滕-魏埃尔斯巴赫
 Horath
 Horb am Neckar, Stadt Horb am Neckar, Горб-ам-Неккар, Хорб ам Некар, Хорб-ам-Неккар, Хорб-на-Неккаре, Նեքարի Հորբ, هرب ام نکا, هورب آم نيكار, 内卡河畔霍尔布
-Horbach
 Horben, Горбен, Хорбен, 霍尔本
 Horbruch
 Horgau, Горгау, Хоргау, Հորգաու, 霍尔高
@@ -4315,7 +4301,6 @@ Horhausen
 Horka, Хорка
 Horla
 Hormersdorf, Хормерсдорф, 霍尔梅尔斯多夫
-Horn, Horn b. Waltenhofen
 Hornbach, Stadt Hornbach, Хорнбах, هورنباخ, ホルンバッハ, 霍恩巴赫
 Hornbek
 Hornberg, Stadt Hornberg, Горнберг, Хорнберг, هورنبرغ, هورنبرگ, 霍恩贝格
@@ -4327,10 +4312,8 @@ Hornsömmern
 Horperath
 Horrweiler
 Horschbach, Хоршбах, 霍尔施巴赫
-Horst, Gemeinde Horst
 Horstdorf
 Horstedt
-Horstmar, Stadt Horstmar, Горстмар, Хорстмар, هورستمار, 霍尔斯特马尔
 Hosenfeld, Гозенфельд, Хозенфельд, Хосенфелд, 霍森费尔德
 Hosten
 Hottelstedt
@@ -4342,7 +4325,6 @@ Hoyershausen, Хойерсхаузен, Хојерсхаузен, 霍伊尔斯�
 Hoyerswerda, Stadt Hoyerswerda, Гоєрсверда, Хойерсверда, Хојерсверда, خویرزوردا, هويرسفيردا, ホイエルスヴェルダ, 霍耶斯韦达
 Hoym
 Hoßkirch, Hooskirch, Госкірх, Хоскирх, هوسکیرش, 霍斯基尔希
-Hude, Худе
 Huglfing, Гугльфінг, Хуглфинг, Հուգլֆինգ, هوگلفینگ, フーグルフィング, 胡格尔芬格
 Hugoldsdorf
 Huisheim, Гуйсгайм, Хуисхајм, Хуйсхайм, Հույսհայմ, ヒュースハイム, 胡伊斯海姆
@@ -4367,8 +4349,10 @@ Huska, Gaußig
 Husum, Stadt Husum, Гузум, Хузум, Хусум, هوسوم, フーズム, 胡苏姆
 Hutthurm, Hutthurm Markt, Гуттурм, Хуттурм, Хутурм, Հութուրմ, هوتهورن, 胡图尔姆
 Huy-Neinstedt
-Hägen
+Hägen, Domäne Hagen, Hagen a.T.W., Hagen am Teutoburger Wald, Hagen-Beckerode, Stadt Hagen, Хаген, Хаген ам Теутобургер Валд, Хаген-ам-Тойтобургер-Вальд, مدينة هاغن, هاجن, هاغن
+Hähn
 Hähnichen, Геніхен, Хенихен, 黑尼兴
+Hämbach
 Hämelhausen
 Hämerten, Hamerton
 Hänigsen, Uetze-Hänigsen
@@ -4404,21 +4388,28 @@ Höhndorf
 Höhnstedt
 Höhr-Grenzhausen, Stadt Höhr-Grenzhausen, Хер-Гренцхаузен, هور-غرنتسهاوزن, هوهر-گرنزهاوزن, ヘール＝グレンツハウゼン, 赫赫尔-格伦茨豪森
 Höingen
+Hölle, Холе, Холле, 霍莱
+Höllen
 Höllenbach
+Höllenbek
 Hömberg, Homberg (Efze), Homberg (Ohm), Homberg-Meiersberg, Гомберг, Хомберг, هومبرغ, هومبرگ, ホムベルク
 Höpfingen, Гепфінген, Хепфинген, ヘプフィンゲン, 赫普芬根
+Hörbach
 Hörden, Hörden am Harz
 Hördt, Хердт
 Hörgertshausen, Гергертсгаузен, Хергертсхаузен, Հյորգերթսհաուզեն, 赫尔格尔茨豪森
 Höringen
+Hörn, Horn b. Waltenhofen
 Hörnsheim
 Hörnum, Хернум, 赫尔努姆
 Hörscheid
 Hörschhausen
 Hörselgau, Hoerselgau, Херзелгау, Херселгау, 赫瑟爾高
 Hörsingen
+Hörst, Gemeinde Horst
 Hörstel, Stadt Hörstel, Герстель, Херстел, هورستل, 赫尔斯特尔
 Hörsten, Lager Hörsten
+Hörstmar, Stadt Horstmar, Горстмар, Хорстмар, هورستمار, 霍尔斯特马尔
 Hörup
 Hösbach, Гесбах, Хесбах, Հյոսբախ, ヘスバッハ, 赫斯巴赫
 Höslwang
@@ -4433,7 +4424,7 @@ Hübitz
 Hüblingen
 Hückelhoven, Stadt Hückelhoven, Гюккельгофен, Хикелховен, Хюккельхофен, هوكلهوفن, 许克尔霍芬
 Hückeswagen, Stadt Hückeswagen, Гюккесваген, Хикесваген, Хюккесваген, هوكيسفاغن, هوکسواگن, 许克斯瓦根
-Hüde, Huede
+Hüde, Huede, Худе
 Hüffelsheim, Хифелсхајм, Хюффельсхайм, 许费尔斯海姆
 Hüffenhardt, Hüffenhartheim, Гюффенгардт, Хифенхардт, Хюффенхардт, ヒュッフェンハルト, 许芬哈尔特
 Hüffler, Хифлер, Хюфлер, 许夫莱尔
@@ -4779,7 +4770,6 @@ Kassow
 Kastel-Staadt
 Kastellaun, Stadt Kastellaun, Кастелаун, كاستلاون, カステラウン, 卡斯特洛因
 Kastl, Castel
-Kastorf
 Katharinenberg
 Katharinenheerd
 Katharinenrieth
@@ -5092,7 +5082,6 @@ Koldenbüttel, Колденбител, Кольденбюттель, 科尔登�
 Kolitzheim, Колицхайм, Колицхајм, Коліцгайм, کولیتسهایم, 科利茨海姆
 Kolkerheide
 Kolkwitz, Golkojce, Колквиц, 科尔克维茨
-Kollig
 Kollmar
 Kollmoor
 Kollnburg, Колнбург, Քոլնբուրգ, کلن بورگ, 科尔恩堡
@@ -5243,7 +5232,6 @@ Krüzen
 Kublank
 Kubschütz, Кубшиц, Кубшюц, 库布许茨
 Kuchelmiß, Кухелмис, 库黑尔米斯
-Kuchen
 Kuddewörde
 Kuden, 库登
 Kudensee
@@ -5271,7 +5259,6 @@ Kurort Jonsdorf, Jonsdorf
 Kurort Oberwiesenthal, Oberwiesenthal, Обервизенталь
 Kurort Oybin, Oybin
 Kurtscheid
-Kusel, Stadt Kusel, Кузел, كوزل, クーゼル, 库塞尔
 Kusey
 Kusterdingen
 Kutenholz, Кутенхолц, クーテンホルツ, 库滕霍尔茨
@@ -5281,6 +5268,7 @@ Kyllburg, Killburg, Stadt Kyllburg, Килбург, كولبورغ, کیلبور
 Kyllburgweiler
 Kyritz, Stadt Kyritz, Кириц, كوريتس, کیریتز, 基里茨
 Käshofen
+Kästorf
 Käthen
 Köchelstorf
 Köckte
@@ -5293,6 +5281,7 @@ Köhlen, Келен, 克赫伦
 Köhn
 Kölbingen, 科尔宾根
 Kölleda, Stadt Kölleda, Келеда, Кёлледа, كوليدا, کلدا, 克莱达
+Köllig
 Kölln-Reisiek
 Köln, Augusta Ubiorum, Cologne, Colonia Agrippinensis, Koeln, Stadt Köln, Келн, Քյոլն, قلونية, قُلُونِيَة, كولن, كولونيا, کلن, ケルン, 科隆
 Kölzin
@@ -5342,6 +5331,7 @@ Kötzschau, Кецшау, Кёчау
 Kötzting, Stadt Kötzting
 Köwerich
 Kößlarn, Chostlarn
+Küchen
 Kühbach, Кихбах, Кюбах, Կյուբախ, キューバッハ, 屈赫巴赫
 Kühdorf
 Kühlenthal
@@ -5361,7 +5351,7 @@ Küps, Kueps Oberfranken
 Kürnach
 Kürnbach, Кирнбах, Кюрнбах, 屈尔恩巴赫
 Kürten, Киртен, Кюртен, 屈尔滕
-Küsel
+Küsel, Stadt Kusel, Кузел, كوزل, クーゼル, 库塞尔
 Küsten, Кистен, Кюстен, کوستن, 屈斯滕
 Kütten
 Laage, Stadt Laage, لآغه, لاگه
@@ -5438,7 +5428,7 @@ Langeneß, Лангенес, 兰格内斯
 Langenfeld, لانگنفلد, 朗根费尔德
 Langenhagen, Stadt Langenhagen, Лангенхаген, لانغنهاغن, لانگنهاگن, 朗根哈根
 Langenhahn
-Langenhorn, Лангенхорн
+Langenhörn, Лангенхорн
 Langenlehsten, Langenlehsen
 Langenlonsheim, Лангенлонсхайм, Лангенлонсхајм, 兰根隆斯海姆
 Langenmosen, Langenmoosen, Лангенмозен, لانگنموزن
@@ -5537,7 +5527,6 @@ Lautzenhausen
 Laußig, Лаусиг, 劳西希
 Laußnitz, Лаусниц, 劳斯尼茨
 Lawalde, Лавалде, 拉瓦尔德
-Lawitz
 Lebach, Stadt Lebach, Лебах, لباخ, ليباخ
 Lebehn
 Lebien
@@ -5747,9 +5736,7 @@ Lohe-Föhrden
 Lohe-Rickelshof, Лое-Рикелсхоф, Лоэ-Риккельсхоф, 洛黑-里克尔斯霍夫
 Lohfelden, Лофелден, ローフェルデン, 洛费尔登
 Lohkirchen
-Lohme
 Lohmen, Ломен, 洛门
-Lohne, Gartenstadt Lohne, Лоне, لنه، آلمان, لونه, 洛内
 Lohnsfeld
 Lohnweiler, Лонвайлер, Лонвајлер, 洛恩韦勒
 Lohr am Main, Lohr a. Main, Лор на Мајни, Лор-ам-Майн, Մայնի Լոր, لور، آلمان, 美因河畔洛尔
@@ -5775,7 +5762,6 @@ Lonsheim
 Looft
 Loop
 Loose
-Lorsch, Stadt Lorsch, Лорш, لرش, لورش, ロルシュ, 洛尔施
 Lorscheid, Лоршайд, Лоршајд, 洛尔沙伊德
 Lorup, 洛鲁普
 Losenrade
@@ -5794,10 +5780,8 @@ Lubnjow, Lübbenau, Lübbenau/Spreewald, Либенау, Люббенау, Լյ�
 Lucka, Stadt Lucka, Лука
 Luckau, Stadt Luckau, Лукау, Луккау, Լուկաու, لوكاو, 卢考
 Luckenau
-Luckenbach
 Luckenwalde, Stadt Luckenwalde, Лукенвалде, Луккенвальде, Լուկենվալդե, لوكنفالده, لوکنوالده, 卢肯瓦尔德
 Luckow
-Ludorf, 卢多夫
 Ludweiler-Warndt, Ludweiler, Völkingen-Ludweiler
 Ludwigsburg, Ludwigsbourg, Stadt Ludwigsburg, Лудвигсбург, Людвигсбург, لودفيغسبورغ, لودویگزوبورگ, ルートヴィヒスブルク, 路德维希堡
 Ludwigschorgast
@@ -5824,13 +5808,9 @@ Lupendorf
 Luso
 Lustadt, Луштадт, Луштат, 卢斯塔特
 Lutheran
-Lutter
 Lutter am Barenberge, Лутер ам Баренберге, Лутер на Баренберге, 巴伦山麓卢特
 Lutterbek
-Lutzerath, Лутцерат, Луцерат, 卢策拉特
 Lutzhorn
-Lutzingen, Лутцинген, Луцинген, Լուտցինգեն, لوتسینگن, 卢钦根
-Luxem
 Lychen, Stadt Lychen, Лихен, لوشن, 利兴
 Lykershausen
 Lägerdorf
@@ -5839,6 +5819,7 @@ Lähr, Lahr/Schwarzwald, Lahrfeld, Лар, لار, لار، بادن-وورتم�
 Längenau, Stadt Langenau, Լանգենաու, لانغناو, لانگناو, 兰格瑙
 Längendorf
 Lärz, Лерц, 莱尔茨
+Läwitz
 Löbau, Loebau, Stadt Löbau, Лебау, لوبا, 勒鲍
 Löbejün, Labejum, Stadt Löbejün
 Löben
@@ -5855,13 +5836,15 @@ Löf
 Löffingen, Stadt Löffingen, Лефинген, Леффінген, Լյոֆինգեն, لوفينغن, لوفینگن, 勒芬根
 Löhma
 Löhmar, Stadt Lohmar, Ломар, لمار, 洛马尔
+Löhme
 Löhnberg, Ленберг, 伦贝格
-Löhne, Stadt Löhne, Лене, لونه, لونه، نوردراین-وستفالن, レーネ, 勒讷
+Löhne, Gartenstadt Lohne, Stadt Löhne, Лене, Лоне, لنه، آلمان, لونه, لونه، نوردراین-وستفالن, レーネ, 勒讷, 洛内
 Löllbach, Лелбах, 勒尔巴赫
 Löningen, Stadt Löningen, Ленинген, لوننغن, لوننینگ, 勒宁根
 Löptin
 Lörch, Lorch am Rhein, Stadt Lorch, Лорх, لرش, 洛赫
 Lörrach, Loerrach, Stadt Lörrach, Лерах, Леррах, لراخ, لوراخ, 罗拉赫
+Lörsch, Stadt Lorsch, Лорш, لرش, لورش, ロルシュ, 洛尔施
 Lörzweiler
 Lösnich, Лесних, 勒斯尼希
 Lötzbeuren
@@ -5882,6 +5865,7 @@ Lübstorf
 Lübtheen, Stadt Lübtheen, Либтен, Любтен, لوبتين, لوبتین, 吕布滕
 Lübz, Stadt Lübz, Либц, Любц, لوبتس, 吕布茨
 Lüchow, Лихов, Люхов, لوشو, 呂肖
+Lückenbach
 Lückenburg
 Lückstedt
 Lüdelsen
@@ -5893,6 +5877,7 @@ Lüdersdorf
 Lüdersfeld, Лидерсфелд, Людерсфельд, リューダースフェルト, 吕德尔斯费尔德
 Lüdershagen
 Lüdinghausen, Stadt Lüdinghausen, Лидингхаузен, Людингхаузен, Людінггаузен, لودينغهاوزن, لودینگ‌هاوزن, 吕丁豪森
+Lüdorf, 卢多夫
 Lüerdissen, Лирдисен, Люэрдиссен, リューアーディッセン, 吕埃尔迪森
 Lügde, Stadt Lügde, Лигде, Люгде, لوجه, لوغده, リュクデ, 吕格德
 Lühburg
@@ -5912,13 +5897,17 @@ Lütjensee, Lütiensee
 Lütjenwestedt
 Lütow, Lütov, Lütow Haus, Литов, Лютов, 吕托
 Lüttchendorf, Литхендорф, Люттхендорф
+Lütter
 Lüttgenrode
 Lüttow
 Lütz
 Lützelbach, Lützel-Wiebelsbach, Лицелбах, Лютцельбах, リュッツェルバッハ, 吕策尔巴赫
 Lützen, Stadt Lützen, Лицен, Лютцен, لوتسن, 吕岑
+Lützerath, Лутцерат, Луцерат, 卢策拉特
+Lützingen, Лутцинген, Луцинген, Լուտցինգեն, لوتسینگن, 卢钦根
 Lützkampen, Лицкампен, Люцкампен, 吕茨坎彭
 Lützow, Лицов, Лютцов, 吕措
+Lüxem
 Maasbüll, Масбил, Масбюлль, 马斯比尔
 Maasdorf
 Maasen
@@ -6363,15 +6352,12 @@ Moraas
 Morbach, Морбах, モールバッハ, 莫尔巴赫
 Morgenitz
 Morgenröthe-Rautenkranz, Моргенрете-Раутенкранц
-Moringen, Stadt Moringen, مرینگن, مورينغن, 莫林根
 Moritz
 Moritzburg, Морицбург, 莫里茨堡
 Moritzheim
 Morl
-Morsbach, Морсбах, 莫尔斯巴赫
 Morscheid
 Morschheim
-Morshausen
 Morsleben
 Morsum
 Morungen
@@ -6383,7 +6369,6 @@ Motten, Мотен, 莫滕
 Moxa
 Moßbach
 Much, Мух
-Mucheln
 Muchow
 Mudau, 穆道
 Mudenbach
@@ -6400,7 +6385,6 @@ Munderkingen, Stadt Munderkingen, Մունդերկինգեն, موندركينغ
 Munich, Muenchen, Минхен, Мюнхен, Մյունխեն, مونیخ, ميونخ, ミュンヘン, 慕尼黑
 Munkbrarup, 蒙克布拉鲁普
 Munningen
-Munster, Stadt Munster, مونستر, مونستر، نیدرزاکسن, 蒙斯特
 Murchin, Мурхин, 穆尔欣
 Murg
 Murnau am Staffelsee, Murnau, Мурнау ам Штафелзе, Мурнау-ам-Штаффельзе, Мурнау-ам-Штаффельзее, Մուրնաու ամ Շտաֆելզեյ, مورناو ام اشتافلزی, 斯塔费尔湖畔穆尔瑙
@@ -6452,14 +6436,15 @@ Mönsheim, Монсхайм, Монсхајм, 蒙斯海姆
 Möntenich
 Mörel
 Mörfelden-Walldorf, Stadt Mörfelden-Walldorf, Мерфелден-Валдорф, Мерфельден-Валльдорф, مورفلدن-والدورف, メルフェルデン＝ヴァルドルフ, 默尔费尔登-瓦尔多尔夫, 默费尔登-瓦尔多夫
-Möringen, Groß Möringen
+Möringen, Groß Möringen, Stadt Moringen, مرینگن, مورينغن, 莫林根
 Mörlen
 Mörlenbach, Мерленбах, メルレンバッハ, 默伦巴赫
-Mörsbach
+Mörsbach, Морсбах, 莫尔斯巴赫
 Mörschbach
 Mörschied
 Mörsdorf, Мерсдорф, 默尔斯多夫
 Mörsfeld
+Mörshausen
 Mörstadt
 Mösbach, Mosbach in Baden, Stadt Mosbach, Мосбах, مسباخ, موسباخ, モースバッハ, 莫斯巴赫
 Möser, Мезер, 默塞尔
@@ -6516,7 +6501,7 @@ Münk
 Münnerstadt, Stadt Münnerstadt, Минерштат, Мюннерштадт, مونراشتات, 米内尔斯塔特
 Münsing, Мюнзинг, Մյունզինգ, مونزینگ, 明辛格
 Münsingen, Muensingen, Stadt Münsingen, Минсинген, Мюнзинген, مونزينغن, مونزینگن
-Münster, Muenster, Munistri, Münster / Nordrhein-Westf., Stadt Münster, Минстер, Мюнстер, Մյունսթեր, مونستر, ミュンスター, 明斯特
+Münster, Muenster, Munistri, Münster / Nordrhein-Westf., Stadt Munster, Минстер, Мюнстер, Մյունսթեր, مونستر, مونستر، نیدرزاکسن, ミュンスター, 明斯特, 蒙斯特
 Münster-Sarmsheim
 Münsterappel
 Münsterdorf
@@ -6670,8 +6655,7 @@ Neuenburg am Rhein, Neueburg, Stadt Neuenburg am Rhein, Нойенбург-ам-
 Neuenbürg, Stadt Neuenbürg, Нойенбюрг, Ноєнбюрг, Нојенбирг, Նոյենբյուրգ, نوينبورغ, نوینبورگ, 诺伊恩比尔格
 Neuendeich, Нойендайх, Нојендајх, 诺伊恩代希
 Neuendettelsau, Нойендеттельзау, Нојендетелзау, Նոյենդետելզաու, ノイエンデッテルザウ, 诺伊恩德特尔绍
-Neuendorf, Akademisch Neuendorf, Neuendorf bei Kemnitz, Neuendorf im Sande, Oderberg-Neuendorf, Нойендорф, Ноєндорф, Нојендорф, 诺伊恩多夫
-Neuendorf A
+Neuendorf A, Akademisch Neuendorf, Neuendorf bei Kemnitz, Neuendorf im Sande, Oderberg-Neuendorf, Нойендорф, Ноєндорф, Нојендорф, 诺伊恩多夫
 Neuendorf am Damm
 Neuengönna, Нойенгённа, Нојенгена, 诺伊恩格纳
 Neuengörs
@@ -6755,7 +6739,6 @@ Neusitz, Нойзиц, Нојзиц, ノイジッツ, 诺伊西茨
 Neusiß, Нойзис, Нојзис, 诺伊西斯
 Neusorg, Нойзорг, Нојсорг, 诺伊索尔格
 Neuss, Stadt Neuss, Нойс, Нојс, نويس, نویس, ノイス, 诺伊斯
-Neustadt, Neustadt (Am Ohmberg), Neustadt (Eichsfeld), Neustadt an der Haardt, Neustadt an der Weinstraße, Нойштадт-ан-дер-Вайнштрасе, Нойштадт-ан-дер-Вайнштрассе, Нојштат ан дер Вајнштрасе, نوی‌اشتات آن در واین‌اشترایه, 葡萄酒之路上的新城
 Neustadt (Hessen), Neustadt in Hessen, Stadt Neustadt (Hessen), Нойштадт
 Neustadt Vogtland, Neustadt Vogtl.
 Neustadt am Main, Neustadt a. Main, Нойштадт-ам-Майн, Нойштадт-на-Майне, Нојштат на Мајни, Մայնի Նոյշթաթ, 美因河畔诺伊斯塔特
@@ -6771,6 +6754,7 @@ Neustadt in Sachsen, Neustadt i. Sa., Нойштадт, Нојштат во Са
 Neustadt-Glewe, Neustadt in Mecklenburg, Stadt Neustadt-Glewe, Нойштадт-Глеве, Нојштат-Глеве, نويشتات-غليفه, نوی‌اشتات-گلوه, 诺伊斯塔特-格莱韦
 Neustadt/Westerwald
 Neustrelitz, Stadt Neustrelitz, Нойштрелиц, Нойштрелице, Нојштрелиц, نويشتريليتز, نوی‌اشترلیتز, 诺伊斯特雷利茨
+Neustädt, Neustadt (Am Ohmberg), Neustadt (Eichsfeld), Neustadt an der Haardt, Neustadt an der Weinstraße, Нойштадт-ан-дер-Вайнштрасе, Нойштадт-ан-дер-Вайнштрассе, Нојштат ан дер Вајнштрасе, نوی‌اشتات آن در واین‌اشترایه, 葡萄酒之路上的新城
 Neutraubling, Stadt Neutraubling, Нойтраублинг, Нојтраублинг, Նոյթրաուբլինգ, نويتراوبلينغ, نویتراوبلینگ, 新特劳布灵
 Neutrebbin, Нойтреббин, Нојтребин, Նոյտրեբին, 新特雷宾
 Neutz-Lettewitz
@@ -7304,7 +7288,6 @@ Osann-Monzel
 Osburg, 奥斯堡
 Oschatz, Stadt Oschatz, Ошац, أوشاتس, اشاتس, 奥沙茨
 Oschersleben, Ошерслебен, أوشرسليبن, اوکسرزلبن, オシャースレーベン, 奥舍尔斯莱本
-Osdorf
 Osloß
 Osnabrück, Osnabrueck, Stadt Osnabrück, Оснабрик, Оснабрюк, أسنابروك, オスナブリュック, 奥斯纳布吕克
 Ostbevern, Остбеферн, 东贝沃恩
@@ -7379,7 +7362,6 @@ Ottrau, Отрау, オットラウ, 奥特劳
 Ottweiler, Отвайлер, Отвајлер, Оттвайлер, أوتفايلر, اتوایلر, オットヴァイラー, 奥特韦勒
 Otzing, Отцинг, Оцинг, اوتسینگ, 奥钦格
 Otzweiler, Оцвайлер, Оцвајлер, 奥茨韦勒
-Ovelgönne, Овелгене, Овельгённе, Офельгённе, 奥费尔格内
 Ovelgünne
 Overath, Stadt Overath, Оверат, Оферат, أوفرات, اوفرراس, 奥费拉特
 Owen, Stadt Owen, Овен, أوفن, اون
@@ -7482,7 +7464,7 @@ Peterswald-Löffelscheid
 Petriroda
 Pettendorf, Petendorf, پتندورف, 佩滕多夫
 Petting, Петинг, پتینگ, 佩廷
-Pettstadt, Петтштадт, Петштадт, Петштат, ペットシュタット, 佩茨塔特
+Pettstädt, Петтштадт, Петштадт, Петштат, ペットシュタット, 佩茨塔特
 Peuschen
 Pfaffen-Schwabenheim, Пфафен-Швабенхајм, Пфаффен-Швабенхайм, 普法芬-施瓦本海姆
 Pfaffenhausen, Пфафенхаузен, Пфаффенгаузен, Пфаффенхаузен, Պֆաֆենհաուզեն, 普法芬豪森
@@ -7607,7 +7589,6 @@ Pommelsbrunn, Помелсбрун, Պոմելսբրուն, 波梅尔斯布伦
 Pommern
 Pommersfelden, Померсфелден, ポンマースフェルデン, 波梅尔斯费尔登
 Pomster
-Ponitz, Пониц, 波尼茨
 Poppenbüll
 Poppenhausen, Попенхаузен, Поппенгаузен, Поппенхаузен, پوپنهاوزن, 波彭豪森
 Poppenricht, Michaels Poppenricht
@@ -7714,6 +7695,7 @@ Pölling, پولینگ, ポリング
 Pölsfeld
 Pölzig, Пелциг, 珀尔齐希
 Pömmelte
+Pönitz, Пониц, 波尼茨
 Pörmitz
 Pörnbach, Пернбах, Պյորնբախ, پورنباخ, 珀尔恩巴赫
 Pöschendorf
@@ -7752,7 +7734,6 @@ Quirnbach
 Quirnheim
 Quitzerow
 Raa-Besenbek
-Rabel
 Raben Steinfeld
 Rabenau, Stadt Rabenau, رابناو, رابنوا، زاکسن, 拉贝瑙
 Rabenholz
@@ -7777,7 +7758,6 @@ Raduhn
 Raesfeld, Расфельд, Ресфелд, 拉埃斯费尔德
 Raguhn
 Ragösen
-Rahden, Stadt Rahden, Рахден, رادن
 Raich
 Rain, Stadt Rain, Райн, Рајн, Ռայն, راين, راین
 Raisdorf, Райсдорф, Рајсдорф
@@ -7946,7 +7926,6 @@ Reinheim, Stadt Reinheim, Райнгайм, Райнхайм, Рајнхајм, 
 Reinholterode, Rheinholterode
 Reinsberg, Райнсберг, Рајнсберг
 Reinsbüttel
-Reinsdorf, Райнсдорф, Рајнсдорф, 赖因斯多夫
 Reinsfeld, Райнсфельд, Рајнсфелд, 赖因斯费尔德
 Reinstorf, Райнсторф, Рајнсторф, 赖因斯托夫
 Reinstädt
@@ -8122,7 +8101,6 @@ Rockstedt
 Rodalben, Stadt Rodalben, ردآلبن, رودآلبن, ローダルベン, 罗达尔本
 Rodden
 Rodder
-Roden
 Rodenbach, Роденбах, ローデンバッハ, 罗登巴赫
 Rodenbek
 Rodenberg, Stadt Rodenberg, ردنبرگ, رودنبرغ, ローデンベルク, 罗登贝格
@@ -8149,11 +8127,9 @@ Rohrbach, Rohrbach am Gießhübel, Рорбах, Ռորբախ, رورباخ
 Rohrberg, Рорберг, 罗尔贝格
 Rohrdorf, Рордорф, روهردورف
 Rohrenfels, Роренфелс, Ռորենֆելս, رورنفلس, 罗伦费尔斯
-Rohrsen
 Roigheim, Роигхајм, Ройгайм, Ройгхайм, ロイクハイム, 勞格海姆
 Roitzsch
 Roklum
-Rollshausen
 Rollwitz, Ролвиц, 罗尔维茨
 Rom
 Rommelsried
@@ -8161,12 +8137,9 @@ Rommersheim
 Rommerskirchen, Ромерскирхен, Роммерскирхен, 罗梅尔斯基兴
 Romrod, Stadt Romrod, رمرود, رومرود, ロムロート, 罗姆罗德
 Rondeshagen
-Ronneburg, Stadt Ronneburg, Ронебург, رننبورگ, ロンネブルク
 Ronnenberg, Stadt Ronnenberg, Роненберг, رننبورگ, روننبرغ, 罗嫩贝格
 Ronsberg, Ռոնսբերգ, رونزبرگ, ロンスベルク, 龙斯贝格
-Ronshausen, Ронсгаузен, Ронсхаузен, 龙斯豪森
 Rorodt
-Rosa, Роза, 罗萨
 Rosbach vor der Höhe, Росбах фор дер Хее, Росбах-фор-дер-Геє, روزباخ فور در هويه, روزباخ ور در هوهه, ロスバッハ・フォア・デア・ヘーエ, 山前罗斯巴赫
 Roschbach
 Rosche, Роше, 罗舍
@@ -8192,10 +8165,7 @@ Rotenburg
 Rotenburg an der Fulda, Ротенбург-на-Фульде, Ротенбург-на-Фульді, روتنبورغ أن در فولدا, روتنبورگ آن در فولدا
 Rotenhain
 Roth, Stadt Roth, Рота, روت, روث بای نورنبرگ, ロス, ロート, 罗特
-Rotha
 Rothemühl
-Rothenbach
-Rothenberg, ローテンベルク, 罗滕贝格
 Rothenbuch, Ротенбух, Ռոտենբուխ, ローテンブーフ
 Rothenburg ob der Tauber, Rothenburg upon Tauber, Stadt Rothenburg ob der Tauber, Ротенбург поврх Таубера, Ротенбург-на-Таубере, Ротенбург-на-Таубері, Ротенбург-об-дер-Таубер, Տաուբերեի Ռոտենբուրգ, رتنبورگ آب در تاوبر, روتنبورغ أب دير تاوبر, ローテンブルク・オプ・デア・タウバー, 罗滕堡
 Rothenbürg, Rothenburg/Oberlausitz, Ротенбург
@@ -8234,7 +8204,6 @@ Rubow
 Rudelzhausen
 Ruderatshofen, Рудератсгофен, Рудератсхофен, Ռուդերատսհոֆեն, ルーデラーツホーフェン, 鲁德拉茨霍芬
 Rudersberg, 鲁德斯贝格
-Rudersdorf
 Ruderting, Ռուդերթինգ, رودرتینگ, 鲁德廷
 Rudolstadt, Stadt Rudolstadt, Рудолштат, Рудольштадт, رودل‌اشتات, رودولشتات, 鲁多尔斯塔特
 Rugendorf, Ռուգենդորֆ, ルーゲンドルフ, 鲁根多夫
@@ -8266,8 +8235,10 @@ Ruthenbeck
 Ruthweiler, Рутвайлер, Рутвајлер, 鲁特韦勒
 Rutsweiler an der Lauter, Рутсвайлер-на-Лаутере, Рутсвајлер на Лаутеру, 劳特尔河畔鲁茨韦勒
 Ruttersdorf-Lotschen
+Räbel
 Räbke, Ребке, 雷布克
 Räckelwitz, Рекелвиц, Реккельвиц, 雷克尔维茨
+Rähden, Stadt Rahden, Рахден, رادن
 Rätzlingen
 Röbel
 Röblingen am See, Röblingen
@@ -8278,6 +8249,7 @@ Röckwitz
 Rödelhausen
 Rödelmaier
 Rödelsee, Ределзе, Рёдельзее, Ռյոդելզի, 勒德尔塞
+Röden
 Rödental, Stadt Rödental, Редентал, Ռյոդենտալ, رودنتال, レーデンタール, 勒登塔尔
 Rödern
 Rödersheim-Gronau
@@ -8291,11 +8263,15 @@ Röhl
 Röhrig
 Röhrmoos, Рермос, Ռյորմոս, رورموس, 勒赫尔莫斯
 Röhrnbach, Рернбах, Ռյորնբախ, رورنباخ, 勒赫尔恩巴赫
+Röhrsen
 Röllbach, Релбах, Ռյոլբախ, レルバッハ
+Röllshausen
 Römhild, Stadt Römhild, Ремхилд, رومهيلد, روهیلد, 勒姆希尔德
 Römnitz
 Römstedt, Ремштет, Рёмштедт, 勒姆斯特
-Rösa
+Rönneburg, Stadt Ronneburg, Ронебург, رننبورگ, ロンネブルク
+Rönshausen, Ронсгаузен, Ронсхаузен, 龙斯豪森
+Rösa, Роза, 罗萨
 Röslau, Реслау, Ռյոսլաու, レスラウ, 勒斯劳
 Rösrath, Stadt Rösrath, Ресрат, رسراث, روسرات, 勒斯拉特
 Röt
@@ -8303,6 +8279,7 @@ Rötgesbüttel, Ретгесбител, Рётгесбюттель, 勒特格斯
 Rötha, Stadt Rötha, Рета, روتا, 勒塔
 Röthenbach, Ретенбах, Ռյոթենբախ
 Röthenbach an der Pegnitz, Ретенбах на Пегницу, Ретенбах-ан-дер-Пегніц, Պեգնիցի Ռյոթենբախ, روتنباخ آن در بغنيتز, روتنباخ آن در پگنیتز, 佩格尼茨河畔勒滕巴赫
+Röthenberg, ローテンベルク, 罗滕贝格
 Röthlein, Ретлајн, Ретляйн, Рётлайн, روتلاین, 勒特莱因
 Rötsweiler-Nockenthal
 Röttenbach, Ретенбах, Реттенбах, Ротенбах, Роттенбах, Ռյոթենբախ, レッテンバッハ, 罗滕巴赫
@@ -8319,6 +8296,7 @@ Rückweiler
 Rüde
 Rüdenau, Риденау, Рюденау, Ռյուդենաու, リューデナウ, 吕德瑙
 Rüdenhausen, Риденхаузен, Рюденгаузен, Рюденхаузен, Ռյուդենհաուզեն, 吕登豪森
+Rüdersdorf
 Rüdershausen, Ридерсхаузен, Рюдерсхаузен, リューダースハウゼン, 吕德尔斯豪森
 Rüdesheim, Rüdesheim an der Nahe, Ридесхајм, Рюдесхайм, 吕德斯海姆
 Rüdesheim am Rhein, Stadt Rüdesheim am Rhein, Ридесхајм на Рајни, Рюдесгайм-ам-Райн, Рюдесхайм-ам-Райн, Рюдесхайм-на-Рейне, رودزهایم آم راین, リューデスハイム・アム・ライン, 莱茵河畔吕德斯海姆
@@ -8917,7 +8895,7 @@ Selbach
 Selbitz, Stadt Selbitz, Зелбиц, زبیتس, زيلبيتس, ゼルビッツ, 塞尔比茨
 Selchenbach, Зелхенбах, 塞尔兴巴赫
 Selent
-Seligenstadt, Stadt Seligenstadt, Зелигенштадт, Зелигенштат, زلینگن‌اشتات, زيلينغنشتات, ゼーリゲンシュタット, 塞利根斯塔特
+Seligenstädt, Stadt Seligenstadt, Зелигенштадт, Зелигенштат, زلینگن‌اشتات, زيلينغنشتات, ゼーリゲンシュタット, 塞利根斯塔特
 Selk, Зелк
 Sellerich
 Sellin, Зеллин
@@ -9040,7 +9018,6 @@ Sitzendorf, Зитцендорф, Зицендорф, 西岑多夫
 Soderstorf, Зодерсторф, 索德尔斯托夫
 Sohland
 Sohland am Rotstein
-Sohren, Зорен, 索伦
 Sohrschied
 Solingen, Stadt Solingen, Золинген, زولينغن, زولینگن, ゾーリンゲン, 索林根
 Solkwitz
@@ -9272,7 +9249,6 @@ Stipshausen, Штипсхаузен, 施蒂普斯豪森
 Stockelsdorf
 Stockem
 Stockhausen-Illfurth, Stockhausen-Illfurt
-Stockheim, Штокгайм, Штокхайм, Штокхајм, Շթոկհայմ, シュトックハイム, 施托克海姆
 Stocksee
 Stockstadt am Main, Stockstadt
 Stockstadt am Rhein, Штоккштадт-ам-Райн, Штокштадт-ам-Райн, Штокштадт-на-Рейне, Штокштат ам Рајн, シュトックシュタット・アム・ライン, 莱茵河畔施托克施塔特
@@ -9338,6 +9314,7 @@ Stäbelow
 Stöckach, Stadt Stockach, Штоках, Штокках, اشتوک‌آخ, شتوكاخ, 施托卡
 Stöckelsberg
 Stöckey
+Stöckheim, Штокгайм, Штокхайм, Штокхајм, Շթոկհայմ, シュトックハイム, 施托克海姆
 Stöckse, Штексе, シュテックゼ, 施特克塞
 Stödtlen, Штедтлен, 施特伦
 Stördorf
@@ -9367,9 +9344,7 @@ Sulzbach an der Murr, Зулцбах ан дер Мур, Зульцбах-ан-�
 Sulzbach-Rosenberg, Stadt Sulzbach-Rosenberg, Зулцбах-Розенберг, Զուլցբախ Ռոզենբերգ, زولتسباخ-رزنبرگ, زولتسباخ-روزنبرغ, 苏尔茨巴赫-罗森贝格
 Sulzberg, Зулцберг, Զուլցբերգ
 Sulzbürg, Stadt Sulzburg, Sultzburg, Зулцбург, Զուլցբուրգ, زولتسبورغ, زولتسبورگ, 苏尔茨堡
-Sulzdorf
 Sulzemoos, Зулцемос, Զուլցեմոս, زولتسموس, 苏尔策莫斯
-Sulzfeld, Зулцфелд, Զուլցֆելդ, 苏尔茨费尔德
 Sulzfeld am Main, Зулцфелд на Мајни, Зульцфельд-ам-Майн, Зульцфельд-на-Майне, Մայնի Զուլցֆելդ, 美因河畔苏尔茨费尔德
 Sulzheim
 Sulzthal, Зулцтал, Զուլցտալ, 苏尔茨塔尔
@@ -9386,6 +9361,7 @@ Söchtenau
 Södel
 Sögel, Зегел, 瑟格尔
 Söhlde, Зелде, 瑟赫尔德
+Söhren, Зорен, 索伦
 Sölden, Зелден, 瑟尔登
 Söllichau
 Söllingen
@@ -9416,7 +9392,8 @@ Sülldorf
 Sülm
 Sülstorf, Sühlstorf
 Sülzbach, Herressen-Sulzbach, Sulzbach/Saar, Зулцбах, زولتسباخ, ズルツバッハ, 苏尔茨巴赫
-Sülzfeld
+Sülzdorf
+Sülzfeld, Зулцфелд, Զուլցֆելդ, 苏尔茨费尔德
 Sünching, Зинхинг, Зюнхинг, Զյունխինգ, زونشینگ, 辛兴
 Süplingen
 Süpplingen, Зиплинген, Зюплинген, 叙普林根
@@ -9679,7 +9656,6 @@ Trittau, Тритау, 特里陶
 Trittenheim, Тритенхајм, Триттенхайм, 特里滕海姆
 Trochtelfingen, Stadt Trochtelfingen, Трохтелфинген, تروختلفينغن, تروشتلفینگن, 特罗特尔芬根
 Trockenborn-Wolfersdorf
-Trogen, تروگن, トローゲン, 特罗根
 Trohe
 Troisdorf, Stadt Troisdorf, Тройсдорф, ترويسدورف, ترویزدورف, 特羅斯多夫
 Troistedt
@@ -9695,6 +9671,7 @@ Tryppehna
 Tröbitz, Требиц, Տրյոբից, تروبیتز, 特勒比茨
 Tröbnitz
 Tröchtelborn
+Trögen, تروگن, トローゲン, 特罗根
 Tröndel
 Tröstau, Трестау, Տրյոսթաու, تروستائو, トレスタウ, 特勒斯陶
 Trügleben, Триглебен, Трюглебен, تروگلبن
@@ -11021,11 +10998,13 @@ Züssow, Цисов, Цюссов
 Öllingen, Елинген
 Ölsen
 Öpfingen, Епфинген, 厄普芬根
+Ösdorf
 Österberg, 奥斯特贝格
 Östringen, Stadt Östringen, أوسترينغن, اوسترینگن, 厄斯特林根
 Ötigheim, Етигхајм, Етігайм, Этигхайм, 厄蒂格海姆
 Ötisheim, Етисхајм, Етісгайм, Этисхайм, Էտիսհայմ, 厄蒂斯海姆
 Ötzingen
+Övelgönne, Овелгене, Овельгённе, Офельгённе, 奥费尔格内
 Übach-Palenberg, Ибах-Паленберг, Юбах-Паленберг, أوباخ-بالنبرغ, اوباخ-پالنبرگ, 于巴赫-帕伦贝格
 Übereisenbach
 Überherrn, Иберхерн, Юбергерн, اوبرهرن, 于伯黑恩

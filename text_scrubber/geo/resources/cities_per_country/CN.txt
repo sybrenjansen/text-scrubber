@@ -48,8 +48,8 @@ Baixi, Baixi Xiang, Baixi Zhen, I-pin, I-pin-hsien, Pai-ch'i-chen, Pai-hsi, Pai-
 Baiyang, Baiyang Xiang, Baiyang Zhen, Pai-yang, Pei-yang, Pengyang Xian, Pih-Yang, 彭阳县, 柏杨乡
 Baiyin, Aho Chia Chuan, Baiyin Mengguzu Xiang, Baiyin Shi, Hao-chia-ch'uan, Ho-chia-ch'uan, Pai-yin, Pai-yin-ch'ang, Pai-yin-shih, 白银市, 白银蒙古族乡
 Baiyun, Baiyun District, Baiyun Jiedao, Baiyun Xiang, Baiyun Zhen, Hsia-pai-yün, Pai-yün, Pai-yün-ts'un, Shangdacao, 白云乡, 白云区, 白云街道, 白云镇
-Balu
 Baluntaicun, Baluntai
+Balü
 Bamencheng, Pa-men-ch'eng, Pa-men-cheng-chen
 Bamiantong, Mu-leng, Mu-leng-hsien, Muleng Shi, Pa-mien-t'ung, Pa-mien-t'ung-chen, 穆棱市
 Bangdong, Pang-tung-chen
@@ -124,6 +124,7 @@ Chahe, Ch'a-ho-chen, Ch'a-ho-chi, Chahe Jiedao, Chahe Xiang, Chahe Zhen, 叉河�
 Chaigou, Ch'ai-kou, Chaikouchi
 Chaihe, Ch'ai-ho, Chaihe Zhen, 柴河镇
 Chang'anying, Chang'anying Xiang, 长安营, 长安营乡
+ChangQiao, Ch'ang-ch'iao, Ch'ang-ch'iao-hsü, Changqiao Jiedao, Changqiao Jiedao Banshichu, Changqiao Xiang, Changqiao Zhen, P'ing-nan, Wuzhong Qu, 吴中区, 场桥镇, 昌桥乡, 长桥乡, 长桥街道, 长桥街道办事处, 长桥镇
 Changba, Ch'ang-chü-ch'ang, Ch'ang-pa, Ch'ang-pa-ch'ang, Changba Zhen, Changbachang, Chantszyuychan, 长坝镇
 Changcheng, Ch'ang-ch'eng-chen, Ch'ang-chiang, Ch'ang-chiang-hsien, Changcheng Xiang, Cheongkeongyun, Cheongkong, Cheongkongyun, Chiu-ch'ang-chiang, Chongfa, Chongkong-yün, Erh-shih-liu, Erh-shih-liu-t'un, 长城乡
 Changchi, Ch'ang-ch'ih, Ch'ang-ch'ih-ch'ang, Ch'ang-ch'ih-chen, Changchizhen, 长赤镇
@@ -137,7 +138,6 @@ Changli, Ch'ang-li-ch'eng-kuan, Ch'ang-li-hsien, Changli Xiang, 常理乡
 Changling, Ch'ang-ling-chen, Ch'ang-ling-chi, Ch'ang-ling-hsien, Ch'ang-ling-kang, Ch'ang-ling-p'u, Changling Xiang, Changling Zhen, Changlingji, 长岭, 长岭乡, 长岭镇
 Changning, An-ning, An-ning-chen, An-ning-chiao, An-ning-p'u, Ch'ang-i-chen, Ch'ang-ning-chen, Ch'ang-ning-cheng, Ch'ang-ning-chuang, Ch'ang-ning-hsien, Ch'ang-ning-hsin-hsü, Changning Jiedao, Changning Zhen, Changninghsien, Changningpu, Changningzhen, Hsiang-ning, Hsiang-ning-hsien, Hsün-wu, Hsün-wu-hsien, Siangninghsien, Syannin, Sünwu-hsien, Tung-fu-feng, Xiangning, Xiangning Xian, Xunwu Xian, Yü-tz'u, Yü-tz'u-hsien, 乡宁县, 长凝, 长凝镇, 长宁街道
 Changping, Ch'ang-p'ing Hsien, Ch'ang-p'ing-ch'ü, Ch'ang-p'ing-chen, Ch'ang-p'ing-hsü, Ch'ang-p'ing-ts'un, Changping Qu, Changping Xian, Changping Xiang, Changping Yaozu Xiang, Changping Zhen, Shang-p'ing, Shang-p'ing-hsü, Sheungp'ing, 团结乡, 常平乡, 常平镇, 昌平区, 长坪乡, 长坪瑶族乡, 长坪镇
-Changqiao, Ch'ang-ch'iao, Ch'ang-ch'iao-hsü, Changqiao Jiedao, Changqiao Jiedao Banshichu, Changqiao Xiang, Changqiao Zhen, P'ing-nan, Wuzhong Qu, 吴中区, 场桥镇, 昌桥乡, 长桥乡, 长桥街道, 长桥街道办事处, 长桥镇
 Changqing, Ch'ang-ch'ing, Ch'ang-ch'ing-hsien, Changqing Jiedao, Changqing Xiang, Changqing Zhen, Changtsing, Yung-ch'ing, 长庆镇, 长青, 长青乡, 长青街道
 Changsha, Cangzsah, Ch'ang-sha, Ch'ang-sha-ch'ang, Ch'ang-sha-chen, Ch'ang-sha-hsien, Ch'ang-sha-shih, Changsha Jiedao, Changsha Xiang, Changsha Zhen, Changshazhen, K'ai-p'ing-hsien, San-pu, San-pu-chen, چاڭشا شەھىر, 长沙, 长沙乡, 长沙市, 长沙街道, 长沙镇
 Changshu
@@ -186,6 +186,7 @@ Chuzhou, Ch'u, Ch'u-ch'üan, Ch'u-hsien, Chuchow, Chuju shehiri, 滁州市
 Cixi, Cixi Shi, Hu-shan-chen, Hu-shan-so-ch'eng, Tz'u-ch'i, Tz'u-ch'i-chen, Tz'u-hsi, Tz'u-hsi-chen, Xushan Jiedao, 慈溪市, 浒山街道
 Cuihuangkou, Ts'ui-huang-chuang, Ts'ui-huang-k'ou
 Cuijiamatou
+Da Taoyuan, T'ao-yüan-hsü, T'ao-yüan-ts'un, Tao-yüen, Taoyuan Huizu Xiang, Taoyuan Jiedao, Taoyuan Xiang, Taoyuan Zhen, 桃园乡, 桃园街道, 桃园镇, 桃源回族乡
 Da'an, Da'an Xiang, Da'an Zhen, Daan'i, Ta-an, Ta-an-chen, Ta-an-hsü, Ta-an-i, Ta-an-pa, Ta-an-shan, Ta-an-ts'un, Ta-lung-an, Ta-wu, Ta-wu-hsü, Taanchen, Taanyi, Taion, 大安乡, 大安镇
 Daba, Daba Xiang, Daba Zhen, Han-chü-p'u, Han-pa-pao, Khan'tszyuypu, Ta-pa, Ta-pa-hsü, Ta-pa-pao, Ta-sha-pa, 大八镇, 大坝乡
 Dabachang, Ta-pa-ch'ang
@@ -214,7 +215,7 @@ Dakoutun, Ta-k'ou-t'un
 Dalai, Dalai Sumu, Dalai Zhen, Dalaysyan', Mo-lo-hung-kang-tzu, Ta-an, Ta-lai, Ta-lai-chen, Ta-lai-hsien, Talaicheng, 大来镇, 达来苏木
 Dali, Chung-ho-chen, Dali Xiang, Dali Zhen, Dalijieban, T'ung-chou, Ta-ho, Ta-li, Ta-li-hsien, Ta-li-ts'un, Talifu, Tunchzhou, Tungchow, Tungchowfu, 大历镇, 大里乡
 Dali Old Town
-Dalian, Dairen, Dal'niy, Dalian Shi, Dalian Xiang, Dalny, Lü-ta, Lü-ta-shih, Ta-lien, Ta-lien-shih, Wenxiang Zhen, 大练乡, 大连市
+Dali'an, Dairen, Dal'niy, Dalian Shi, Dalian Xiang, Dalny, Lü-ta, Lü-ta-shih, Ta-lien, Ta-lien-shih, Wenxiang Zhen, 大练乡, 大连市
 Daliang, Daliang Jiedao, Daliangxiang, P'an-shun, Schuntak, Shun-te, Shun-te-hsien, Shuntak, Ta-hang-chen, Ta-liang, Ta-liang-chen, Ta-liang-tien, Ta-liang-ts'un, 大良街道
 Dalianwan
 Dalingjie, Ta-ling
@@ -249,7 +250,6 @@ Dasi, Dasi Zhen, Dasizhuang, Ta-ssu, Ta-ssu-chi, Ta-ssu-chuang, 大寺镇
 Datangzhuang, Ta-t'ang-chuang
 Datianzhuang, Datianzhuang Xiang, 大田庄乡
 Datong, Datong Jiedao, Datong Qu, Datong Xiang, Datong Zhen, Datongjie, Datongpu, T'ung-an, T'ung-an-hsien, T'ung-an-hsien-ch'eng, Ta-jen, Ta-jen-hsien, Ta-ku, Ta-t'ung, Ta-t'ung-chen, Ta-t'ung-chieh, Ta-t'ung-hsien, Ta-t'ung-p'u, Ta-t'ung-shih, Ta-t'ung-ts'un, Tatung, داتۇڭ شەھىر, 大同乡, 大同区, 大同街道, 大同镇
-Datun, Chang-ta-t'un, Datun Jiedao, Datun Yizu Xiang, Datun Zhen, Datunjie, Ta-t'un, Ta-t'un-chan, Ta-t'un-chieh, 大屯彝族乡, 大屯街道, 大屯镇
 Dawangtai, Ta-wang-t'ai, Wang-chia-t'ai, Wang-t'ai-tzu
 Dawukou, Dawukou Xiang, Shih-tsui-shan, Ta-wei-k'ou, Ta-wu-k'ou, 大武口乡
 Daxi, Da'gyi, Daxi Xiang, Daxi Zhen, Daxidu, Shixizhen, Ta-hsi, Ta-hsi-chen, Ta-hsi-tu, 大席镇, 大溪乡
@@ -263,6 +263,7 @@ Dazhong, Dazhong Xiang, Dazhong Zhen, Dazhongji, Ta-chung-chen, Ta-chung-chi, Ta
 Dazhongzhuang, Ta-chung-chuang
 Dazhou, Dasyan', Dazhou Xiang, Dazhou Zhen, Sui-ting, Sui-ting-fu, Suting, Suydin, Ta, Ta-chou, Ta-chou-chen, Ta-chu, Ta-hsien, 大周镇, 大洲乡, 达州市
 Dazuocun, Ta-tso, Ta-tso-ts'un
+Da？tun, Chang-ta-t'un, Datun Jiedao, Datun Yizu Xiang, Datun Zhen, Datunjie, Ta-t'un, Ta-t'un-chan, Ta-t'un-chieh, 大屯彝族乡, 大屯街道, 大屯镇
 Dehang
 Dehua
 Dehui, Chang-chia-wan, Te-hui, Te-hui-chen, Tszhantszyavan', Yao-men
@@ -329,14 +330,13 @@ Duwu, Tu-wu
 Duyun, Pingchowhsien, Tu-yün, Tu-yün-ch'eng, Tu-yün-hsien, Tu-yün-shih, 都云
 Dêqên, Dagzê, Dechen, Dechen Dzong, Dechhen Dzong, Dechhen Ling, Dechin Dzong, Ta-tzu, Te-ch'in-tsung, Te-ch'ing-hsien, Te-ch'ing-tsung, བདེ་ཆེན
 Dêyang, Deyan, Te-yang, Te-yang-hsien, Tehyang, Tehyang-hsien, བདེ་ཡངས, 德阳市
-E'zhou, E'zhou Shi, 鄂州市
+E'zhou, E'zhou Shi, Echeng-hsien, O-ch'eng, O-ch'eng-hsien, Shou-ch'ang, Wuchanghsien, 鄂州市
 Encheng, Chiu-en-hsien, En, En-hsien, En-p'ing-chen, En-p'ing-hsien, Encheng Jiedao, Encheng Zhen, Enping, Yan-ping-hsien, Yin Ping, 恩城街道, 恩城镇
 Enshi, En-shih, En-shih-hsien, Shih-nan, Shihnanfu
 Erdaojiang, Erh-tao-chiang
 Erenhot, Ereen, Erh-lien, Erh-lien-hao-t'e, Erh-lien-hao-t'e-shih, Erlianhaote Shi, Erlin, Erlyan', I-lin-ta-pu-su, I-lin-tu-pa-su, Iren, Iren Dabasu, P'ang-pei, Wulan Jiedao, Yeh-lieh-ta-pa-sha, Yu-lin-ta-pa-su, 乌兰街道, 二连浩特, 二连浩特市
 Erlang, Erlang Zhen, 二郎镇
 Erwangzhuang, Erh-chuang, Erh-chuang-chen, Erh-chuang-tzu, Erh-hsin-chuang, Erhchuangtze
-Ezhou, Echeng-hsien, O-ch'eng, O-ch'eng-hsien, Shou-ch'ang, Wuchanghsien
 Fangcheng Chengguanzhen, Fang-ch'eng-hsien, Yü-chou, Yüchow, 方城城关镇
 Fangchenggang
 Fangcun, Fang-ts'un, Fang-ts'un-chen, Fangcun Xiang, Fangcun Zhen, 房村镇, 方村乡
@@ -545,7 +545,7 @@ Huainan, Huainan Xiang, 槐南乡
 Huaiyang, Huaiyang Zhen, Yüan-shih, Yüan-shih-ch'eng-kuan, Yüan-shih-hsien
 Huaiyuan Chengguanzhen, Huai-yüan-hsien, Hwaiyuanhsien, Hwaiyüan, 怀远城关镇
 Hualong, Hualong Jiedao, Hualong Xiang, Hualong Zhen, 化龙乡, 化龙镇, 华龙街道
-Huanan, Ch'ien-chen-chieh, Ch'ien-chen-hsiang, Hu-nan-ying, Hu-nan-ying-chen, Hua-ch'uan, Hua-ch'uan-chen, Hua-nan-chen, Huanan Xian, Huanan Zhen, 桦南县, 桦南镇
+Huan'an, Ch'ien-chen-chieh, Ch'ien-chen-hsiang, Hu-nan-ying, Hu-nan-ying-chen, Hua-ch'uan, Hua-ch'uan-chen, Hua-nan-chen, Huanan Xian, Huanan Zhen, 桦南县, 桦南镇
 Huangcaotuo
 Huangchen
 Huanggang, Feng-kang, Fengkanghsü, Fengkansü, Huang-kang, Huang-kang-ch'eng, Huang-kang-chen, Huang-kang-fan, Huang-kang-k'ou, Huang-kang-ssu, Huang-kang-tien, Huang-sha-kang, Huanggang Shi, Huanggang Xiang, Huanggang Zhen, Huanggangkou, Hwang Chau, Hwang Chow, Hwangchow, Jao-p'ing, Ng kng, Ung Kung, Wangchau, Wangchou, 黄冈市, 黄堽镇, 黄岗乡
@@ -560,7 +560,7 @@ Huangmaoyuan
 Huangmei, Huang-mei-hsien, Huang-mei-ssu, Huangmei Zhen, Hwangmei, Hwangmei-hsien, 黄梅镇
 Huangnihe, Huang-ni-ho, Huang-ni-ho-tzu, Ni-ho
 Huangpi, Huang-p'o, Huang-pei, Huang-pei-hsien, Huangpi Qu, Hwangpei, Hwangpei-hsien, 黄陂区
-Huangqiao, Huang-ch'iao, Huang-ch'iao-p'u, Huangqiao Xiang, Huangqiao Zhen, Hwangkiao, Wangkia, 黄峤, 黄峤乡, 黄桥乡, 黄桥镇
+Huangqi'ao, Huang-ch'iao, Huang-ch'iao-p'u, Huangqiao Xiang, Huangqiao Zhen, Hwangkiao, Wangkia, 黄峤, 黄峤乡, 黄桥乡, 黄桥镇
 Huangsangping Miaozuxiang, Huangsangping
 Huangshan, Huang-shan-ts'un, Huangshan City, Huangshan Jiedao, Huangshan Shi, Huangshan Zhen, Huangshanbinguan, T'un-ch'i, T'un-ch'i-chen, T'un-ch'i-shih, T'un-hsi, Tunki, Tunqi, Tunxi Qu, 屯溪区, 璜山镇, 黄山市, 黄山街道
 Huangshi, Huan-shi, Huan-shih, Huang-shih, Huang-shih-kuan, Huang-shih-shih, Huang-shih-tu, Huangshi Jiedao, Huangshi Shi, Huangshi Xiang, Huangshi Zhen, Huangshidu, Huangshiguan, Hwangshih, Khuanshi, Shi hui yao, Shi-hu-yao, Shihhweiyao, Shihpao, Shikhoyya, خۇئاڭشى شەھىرى, 黄市乡, 黄石市, 黄石街道, 黄石镇
@@ -579,7 +579,7 @@ Huaqiao, Hua-ch'iao, Hua-ch'iao-chen, Hua-ch'iao-shih, Hua-ch'iao-tsu, Hua-ch'ia
 Huaqiu, Hua-ch'iu, Hua-ch'iu-pa, Huaqiu Zhen, 花秋镇
 Huashan, Hua-shan-pao, Hua-shan-t'ou, Huashan Xiang, Huashan Yaozu Xiang, Huashan Zhen, 华山乡, 华山瑶族乡, 华山街道, 华山镇
 Huayin, Hua-yin-hsien, Hua-yin-hsien-ch'eng, Hwayinhsien, Khuayanchuan
-Huayuan, Chiu-hsiang-ch'eng, Hsiang-ch'eng, Hsiang-ch'eng-hsien, Hua-yüan-chen, Hua-yüan-hsien, Hua-yüan-shih, Huayuan Xian, Huayuan Xiang, Huayuan Zhen, Huayuanchang, Huayuandai, Huayuanzhen, Hung-hua, Hwayüan, Jiuxiangcheng, Khuayuan'shi, Molingzhenlaocheng, Siangchenghsien, Yang-sui, Yung-sui, Yung-sui-hsien, خۇايۇەن يېزىسى, 花园乡, 花垣县
+Huayu'an, Chiu-hsiang-ch'eng, Hsiang-ch'eng, Hsiang-ch'eng-hsien, Hua-yüan-chen, Hua-yüan-hsien, Hua-yüan-shih, Huayuan Xian, Huayuan Xiang, Huayuan Zhen, Huayuanchang, Huayuandai, Huayuanzhen, Hung-hua, Hwayüan, Jiuxiangcheng, Khuayuan'shi, Molingzhenlaocheng, Siangchenghsien, Yang-sui, Yung-sui, Yung-sui-hsien, خۇايۇەن يېزىسى, 花园乡, 花垣县
 Huazhou, Fachow, Fahsien, Fu-ch'eng-chen, Hau-hsien, Hua, Hua-chou, Hua-hsien, Hua-hsien-ch'eng, Huazhou Zhen, Hwahsien, Khuasyan, 华州镇
 Huguo, Hu-kuo-chen, Huguo'an, Huguochang, Huguozhen
 Huicheng, Hsi-hsien, Hui-ch'eng-chen, Hui-chou, Hui-lai-hsien, Huicheng Jiedao, Huicheng Zhen, Hweichow, Hweichow Sihsen, Hweilai, Hweilai-hsien, She, She-hsien, She-hsin, Sihsien, 会城街道, 徽城镇, 歙县
@@ -607,13 +607,14 @@ Huzhai
 Huzhou, Hu-chou, Hu-chou-shih, Huchow, Huchowfu, Huhinghsien, Huzhou Shi, Wu-hsing, Wu-hsing-hsien, Wu-hsing-hsien-ch'eng, Wuhing, Wuxing Qu
 Jalai Nur, Cha-lai-no-erh, Chaiainor, Chalainor, Chzhalaynor, Dalainur, Dalaynur, Zhalai Nuo'er, 扎赉诺尔
 Ji'an, Chi-an, Chi-an-ch'ang, Chi-an-shih, Ji'an Zhen, Kian, Kian-hsien, Kianfu, 吉安镇
+Ji'anping, Chien-p'ing, Chien-p'ing-hsien, Hsin-ch'in, Hsin-chiu, Jianping Xiang, Jianping Zhen, Kien Ping, Kienping, Lang-ch'i, Lang-ch'i-chen, Lang-ch'i-hsien, Lang-hsi, Langki, Langki-hsien, Langxi Xian, Sin'tsyu, 俭平乡, 建平镇, 郎溪县
 Jiachuan, Chia-ch'uan, Chia-ch'uan-chen, Jiachuan Zhen, 嘉川镇
 Jiagedaqi, Chia-ko-ta-ch'i, Jagdaqi, K'u-erh-ch'i, K'u-lu-ch'i, Kurchi
 Jialing, Chia-ling, Chia-ling-chen, Jialing Zhen, 嘉陵镇
 Jiamaying, Cha-ma-ying, Chia-ma-ying, Chiama
 Jiamusi, Ch'a-mu-ssu, Chia-mu-ssu, Chia-mu-ssu-shih, Chieh-mu-ssu, Hua-ch'uan-hsien, Hua-chuan, Hwachwan, Jiamusi Shi, Kiamusas, Kiamusze, جيامۇسى شەھىرى, 佳木斯市
 Jian'ou, Chien-ning, Chien-ou, Chien-ou-hsien, Chien-ou-hsien-ch'eng, Jian'ou Shi, Kienning, Kienningfu, Kienow, Kienowhsien, 建瓯市
-Jiang'an, Chiang-an, Chiang-an-hsien, Chiang-wei, Chiang-yü, Jiang'an Zhen, Kiangan, Kiangan-hsien, 江安镇
+Jiang'an, Chiang-an, Chiang-an-hsien, Chiang-wei, Chiang-yü, Chien-kan-ts'un, Jiang'an Zhen, Kiangan, Kiangan-hsien, 江安镇
 Jiangdong, Chiang-tung, Jiangdong Jiedao, Jiangdong Yaozuxiang, Jiangdong Zhen, 江东乡, 江东街道, 江东镇, 浆洞瑶族乡
 Jiangfang, Chiang-fang, Chiang-fang-ts'un, Jiangfang Xiang
 Jiangkou, Chiang-k'ou-chen, Chiang-k'ou-chieh, Chiang-k'ou-hsü, Chiang-k'ou-shih, Chiang-pian-chin, Fengkai, Hsi-san-chiang-k'ou, Hsi-san-chiang-k'ou-chen, Hsin-feng-chiang-k'ou, Hu Chiang Kou, Hu-chiang-k'ou-hsü, Jiangkou Jiedao, Jiangkou Xiang, Jiangkou Zhen, Kian Kan, Kiang-k'ou, Kiangkow, Kiangkowchen, P'a-chiang-k'ou, P'a-chiang-k'ou-hsü, P'ao-chiang-kou, P'ao-chiang-kou-hsü, P'ing-ch'ang-she-chih-chü, Pajiangkou, Pakonghow, San-chiang-k'ou, Ta-huang, Ta-huang-chiang-k'ou, Ta-huang-hsü, Te-feng, Tszyankou, Tszyankouchzhen', Xisanjiangkou, 江口乡, 江口街道, 江口镇
@@ -631,7 +632,6 @@ Jiangyou
 Jiangzhuang, Chiang-chuang, Jiangsunzhuang, Lujiangzhuangcun
 Jiangzi, Chiang-tzu, Chiang-tzu-tsung, Gyam-dze, Gyang-tse Jong, Gyangtse, Gyangze, Gyantse, Jiangzi Zhen, Kiangtze, 江孜镇
 Jianjiang, Chien-chiang
-Jianping, Chien-p'ing, Chien-p'ing-hsien, Hsin-ch'in, Hsin-chiu, Jianping Xiang, Jianping Zhen, Kien Ping, Kienping, Lang-ch'i, Lang-ch'i-chen, Lang-ch'i-hsien, Lang-hsi, Langki, Langki-hsien, Langxi Xian, Sin'tsyu, 俭平乡, 建平镇, 郎溪县
 Jianshui
 Jiaoxi, Chiao-ch'i, Chiao-ch'i-chen, Chiao-hsi, Jiaoxi Xiang, Jiaoxi Zhen, Jiaoxixiang, 胶西镇
 Jiaozhou, Chiao-hsien, Kiaochow, Kiaohsien
@@ -654,7 +654,7 @@ Jifeng, Chi-feng, Chi-feng-ch'ang, Chi-shan-hsien, Jifeng Zhen, Jishan Xian, Tsi
 Jijiang, Chiang-chin, Chiang-ching, Chiang-ching-ch'eng, Chiang-ching-hsien, Jiangjin Qu, Jijiang Jiedao, Jijiang Zhen, Kiangtsin, Kiangtsing-hsien, 几江街道, 江津区, 稽江镇
 Jilin, Chi-lin, Chi-lin-shih, Chi-lin-t'un, Chi-ling, Girin, Jilin City, Kilin, Kirin, Yung-chi, Yung-chi-hsien, Yung-chi-shih, Yungki, جىلىن شەھىرى, 吉林市
 Jimo, Chi-mo, Chi-mo-hsien, Tsimo, Tsimohsien, 即墨市
-Jinan, Chi-nan, Chi-nan-shih, Cijnanz, Jinan Shi, Jinan Zhen, Li-ch'eng, Tsi-nan-fu, Tsinah, Tsinan, جىنەن شەھىرى, ཅི་ནན།, 纪南镇
+Jin'an, Chi-nan, Chi-nan-shih, Cijnanz, Jinan Shi, Jinan Zhen, Li-ch'eng, Sung-p'an, Sung-p'an-hsien, Sungqu, Tsi-nan-fu, Tsinah, Tsinan, جىنەن شەھىرى, ཅི་ནན།, 纪南镇
 Jinchang, Dingxiang Xian, Dinsyan', Jinchang Shi, Jinchang Zhen, Jinchuanzhen, Ting-hsiang, Ting-hsiang-hsien, Ting-hsiang-hsien-ch'eng, Tingsiang, 定襄县, 晋昌镇, 金昌市
 Jincheng, Chin-ch'eng, Chin-ch'eng-hsien, Chin-ning, Hsi-ch'ung, Hsi-ch'ung-hsien, I-lung, I-lung-hsien, Jincheng Shi, Jincheng Xiang, Jincheng Zhen, Jintan Shi, Lei-po, Lei-po-hsien, Leipoting, Sichun, Sichung, Sichunghsien, Tse-chou, Tseh-chow-fu, Tsehchow, Tsincheng, Tsinchenghsien, Wu-ting, Wu-ting-hsien, Wutingchow, 晋城镇, 金坛市, 金城乡, 金城街道
 Jinding, Chin-ting
@@ -757,6 +757,8 @@ Lengshuitan, Leng-shui-t'an-shih, Leng-shui-t'ang, Lengshuitanqu
 Leshan, Chia-ting, Kiating, Kiatingfu, Leshan Xiang, Leshanchang, Lo-shan, Lo-shan-hsien, 乐山乡, 乐山市
 Leshi
 Lhasa, La-sa-shih, Lhasa Shi, Lhassa, لاسا شەھىرى, ལྷ་ས།
+Li'anzhou, Lianzhou Xiang, Lianzhou Zhen, Lien-chou, Lien-chou-chen, Lien-chou-ko-tsu-tzu-chih-hsien, Lien-hsien, Lien-yang, Linchow, Linhsien, 廉州镇, 莲洲乡
+Li'anzhuang, Lien-chuang
 Lian'aocun, Lien-ao
 Liancheng, An-nan, An-nan-ch'eng, Annan-hsien, Ch'ing-lan, Ch'ing-lung, Ch'ing-lung-hsien, Kuang-nan, Kuang-nan-hsien, Kwangnan, Kwangnan-hsien, Kwangnanfu, Liancheng Xiang, Liancheng Zhen, Lien-ch'eng, Lien-ch'eng-chen, Lien-ch'eng-hsien, Pao-ning, Tsinglung, 练城乡, 联城镇
 Liangcunchang, Liang-ts'un
@@ -777,8 +779,6 @@ Lianjiang, Hingkuo, Hingkwo, Hingkwo-hsien, Hsing-kou, Lei-pei, Lianjiang Qu, Li
 Lianshan, Chin-hsi, Chin-hsi-chen, Chinshi, Chinsi, Leinshan, Lianshan Qu, Lianshan Zhen, Lianshanxiang, Lien-shan, Lyan'shan', 莲山镇, 连山区
 Lianyuan, Lan-t'ien, Lan-t'ien-chen, Lan-t'ien-shih, Lianyuanxiang, Lianyuanzhen, Lien-yüan, Lien-yüan-chen, 涟源市
 Lianyungang
-Lianzhou, Lianzhou Xiang, Lianzhou Zhen, Lien-chou, Lien-chou-chen, Lien-chou-ko-tsu-tzu-chih-hsien, Lien-hsien, Lien-yang, Linchow, Linhsien, 廉州镇, 莲洲乡
-Lianzhuang, Lien-chuang
 Liaocheng, Liao-ch'eng-hsien, Liao-ch'eng-shih, Tung-ch'ang, Tungchangfu, 聊城市
 Liaoyang, Liao-hsien, Liao-yang-hsien, Liao-yang-shih, Liaoyang Zhen, Lyaosyan', Tso-ch'üan, Tso-ch'üan-hsien, Zuoquan Xian, لياۋياڭ شەھەر, 左权县, 辽阳市, 辽阳镇
 Liaoyuan, Hsi-an, Liao-yüan-shih, Liaoyuan Xiang, Liaoyuan Zhen, Pei-feng, Pei-feng-hsien, Shao-mo-kang, T'a-k'a-ta, Ta-ko-tan, Tung-liao, 燎原乡, 燎原镇, 辽源市
@@ -860,9 +860,6 @@ Loudi, Lou-ti, Lou-ti-chen, Lou-ti-shih, Loudi Xiang, 娄堤乡, 娄底市
 Loushanguan, Loushanguan Zhen, T'ung-tzu, T'ung-tzu-ch'eng, T'ung-tzu-hsien, Tongzi Xian, Tungtze, Tungtze-hsien, 娄山关镇, 桐梓县
 Lu'an, Liu-an, Liu-an-hsien, Liuanchow, Lu'an Shi, 六安市
 Luancheng, Chiu-yung-shun, Luan-chen, Wingshun, Wingshun-hsien, Wingsun, Yang-shua, Yunchun, Yung-shun, Yung-shun-hsien
-Lubu, Lu-chia-pu, Lu-pu, Lubu Zhen, Luk Po, Luk Pu, 禄步镇
-Lucheng, Chiu-lin-hsiang, Lin-hsiang, Lin-hsiang-ku-chih, Linsianghsien, Liu-ch'eng-chen, Liu-ho, Liu-ho-hsien, Lu-ch'eng-chen, Lu-ch'eng-hsiang, Lu-chiang, Lu-chiang-hsien, Lu-ho, Lucheng Jiedao, Lucheng Xiang, Luchengsze, Luchengzhen, Lujiang Xian, Lukiang, Lukiang-hsien, Qishuyan Qu, T'ien-hsi, T'ien-hsi-hsien, T'ien-lin, 庐江县, 戚墅堰区, 潞城街道, 鲁城乡
-Lulou
 Luocheng, Han-chou, Hanchow, Huei-an, Hui-an-hsien, Hweian, Hweianhsien, Kuang-han, Kuang-han-hsien, Kwanghan, Kwanghan-hsien, Lo-ch'eng, Lo-ch'eng Hsien, Lo-ch'eng-chen, Lo-ch'eng-p'u, Lo-ting-hsien, Loshing-hsien, Lotingchow, Luocheng Jiedao, Luocheng Mulamzu Zizhixian, Luocheng Mulaozu Zizhixian, Luocheng Xian, Luocheng Xiang, Luocheng Zhen, 洛城街道, 罗城乡, 罗城仫佬族自治县, 罗城镇
 Luohe, Lo-he, Lo-ho, Lo-ho-chai, Lo-ho-chieh, Lo-ho-shih, Luohe Xiang, Luohe Yizuxiang, Luohe Zhen, T'a-ho, T'a-ho-chai, 洛河乡, 洛河彝族乡, 洛河镇, 漯河市
 Luojiang, Lo-chiang, Lo-chiang-chen, Lo-chiang-hsien, Lo-chiang-k'ou, Lokiang, Lokiang-hsien, Lotszyan, Lotszyankou, Luojiang Xiang, Luojiang Zhen, Luojiangkou, Luojiangxu, 洛江镇, 罗江乡, 罗江圩
@@ -874,12 +871,15 @@ Luoqiaocun, Li-liao, Lo-ch'iao
 Luorong, Chiu-lo-jung, Lo-jung, Lo-jung-hsien, Lo-jung-hsien-ch'eng, Loyung-hsien
 Luotuofangzi
 Luoyang, Chiu-t'ai-shun, Fu-ch'eng, Fu-ch'eng-chen, Honan, Honanfu, Hsien-ch'eng-chen, Lo-yand, Lo-yang, Lo-yang-ch'iao-chen, Lo-yang-chen, Lo-yang-hsien, Lo-yang-shih, Lo-yang-tien, Luoyang Xiang, Luoyang Zhen, Luoyangdian, Po-ch'eng-chen, Po-lo, Po-lo-hsien, Poklo, Poklohsien, Taishun, Taishun Xian, لوياڭ شەھىرى, ལུའོ་དབྱང་།, 洛羊镇, 洛阳乡, 洛阳市
-Lushan, Ch'ing-p'ing, Lu-shan-hsien, Lu-shan-hsien-ch'eng, Lushan Jiedao, Lushan Xiang, Lushan Zhen, Lü-shan-miao-tsu-tzu-chih-hsien, 路山镇, 鹿山乡, 鹿山街道
 Luxia, Lu-hsia, Luxia Zhen, 炉下镇
-Luyang, Liekihsien, Lu-ch'i, Lu-chia-ch'iao, Lu-chia-ch'iao-chen, Lu-shan, Lu-shan-hsien, Lu-yang-chen, Luki, Lukihsien, Luyang Jiedao, Luyang Xiang, Luyang Zhen, Tzeki, Tzeki-hsien, Tzu-ch'i, Tzu-ch'i-hsien, Tzu-hsi, 芦洋乡, 路阳镇, 鲁阳街道
-Luzhou, Liu-chou, Liu-chou-chen, Lu, Lu-chou, Lu-chou-shih, Lu-hsien, Luchow, Luzhou Xiang, Luzhou Zhen, 泸州市, 芦洲乡, 芦洲镇
+Lübu, Lu-chia-pu, Lu-pu, Lubu Zhen, Luk Po, Luk Pu, 禄步镇
+Lücheng, Chiu-lin-hsiang, Lin-hsiang, Lin-hsiang-ku-chih, Linsianghsien, Liu-ch'eng-chen, Liu-ho, Liu-ho-hsien, Lu-ch'eng-chen, Lu-ch'eng-hsiang, Lu-chiang, Lu-chiang-hsien, Lu-ho, Lucheng Jiedao, Lucheng Xiang, Luchengsze, Luchengzhen, Lujiang Xian, Lukiang, Lukiang-hsien, Lücheng Zhen, Qishuyan Qu, T'ien-hsi, T'ien-hsi-hsien, T'ien-lin, 庐江县, 戚墅堰区, 潞城街道, 鲁城乡
 Lüeyang Chengguanzhen, Liao-yang, Lioyan, Loayang, Lüeh-yang, Lüeh-yang-hsien, 略阳城关镇
+Lülou
+Lüshan, Ch'ing-p'ing, Lu-shan-hsien, Lu-shan-hsien-ch'eng, Lushan Jiedao, Lushan Xiang, Lushan Zhen, Lü-shan-chen, Lü-shan-miao-tsu-tzu-chih-hsien, 吕山镇, 鹿山乡, 鹿山街道
 Lüshun, Lü-shun-k'ou, Lü-shun-k'ou-ch'ü, Lü-shun-shih, Lüshunkou, Por Arthur, Port Arthur, Port-Artur, Riojun, Ryojun, Rëdzyun, 旅顺口区
+Lüyang, Liekihsien, Lu-ch'i, Lu-chia-ch'iao, Lu-chia-ch'iao-chen, Lu-shan, Lu-shan-hsien, Lu-yang-chen, Luki, Lukihsien, Luyang Jiedao, Luyang Xiang, Luyang Zhen, Lü-yang-i, Lüyangyi, Tzeki, Tzeki-hsien, Tzu-ch'i, Tzu-ch'i-hsien, Tzu-hsi, Yen-yang-tse, 绿杨乡, 路阳镇, 鲁阳街道
+Lüzhou, Liu-chou, Liu-chou-chen, Lu, Lu-chou, Lu-chou-shih, Lu-hsien, Luchow, Luzhou Xiang, Luzhou Zhen, Shuai-chou, 泸州市, 芦洲乡, 芦洲镇
 Ma'an, Ma'an Xiang, Ma'an Zhen, Ma'anjiao, Ma-an-chen, Ma-an-kuan, Ma-an-shih, Yüan-chia-ch'iao, 马安乡, 马安镇
 Ma'anshan, Kai-yuan, Ma'anshan Shi, Ma-an-shan-shih, Mang-shan, 马鞍山乡, 马鞍山市
 Maba, Ch'ü-chiang, Ma-chia-pa, Ma-pa, Ma-pa-hsü, Maba Zhen, 马坝镇
@@ -1138,7 +1138,7 @@ Shangchong
 Shanghai, Shang-hai-shih, شاڭخەي, شاڭخەي شەھىرى, 上海市, 中国上海
 Shangjiang, Chiu-tu-chiang, Tu-chiang, Tu-chiang-ku-chih, Tukiang-hsien, 上江乡
 Shangkou, Shang-k'ou-chieh
-Shanglian, Lien-p'u, Shanglian Xiang, 上莲乡
+Shangli'an, Lien-p'u, Shanglian Xiang, 上莲乡
 Shangliang, Shang-liang-ho-k'ou, Shang-liang-ts'un, Shangliang Xiang, Shangliangxiang
 Shangluo, Shanchzhou, Shang, Shang-hsien, Shangchow, Shangluochang, Shansyan
 Shangmei, Hsin-hua, Hsin-hua-hsien, Sinhwa, Sinhwa-hsien
@@ -1297,7 +1297,6 @@ Tanxi, T'an-ch'i, T'an-hsi, Tanxi Jiedao, Tanxi Xiang, Tanxi Zhen, 坦溪镇, �
 Taolin, T'ao-lin-chen, T'au-lin-p'u, Tao-hua-chen
 Taoluo, T'ao-lo, T'ao-lo-chen, Taolekow
 Taoying, T'ao-ying-ch'ang, Taoyang chang
-Taoyuan, T'ao-yüan-hsü, T'ao-yüan-ts'un, Tao-yüen, Taoyuan Huizu Xiang, Taoyuan Jiedao, Taoyuan Xiang, Taoyuan Zhen, 桃园乡, 桃园街道, 桃园镇, 桃源回族乡
 Taozhuang, Pei-t'ao-hsü, T'ao-chuang, T'ao-chuang-chen, Taozhuang Zhen, 陶庄镇
 Tashan, T'a-tzu-shan
 Tatou, Ta-t'ou, Tatou Zhen, 塔头镇
@@ -1401,13 +1400,14 @@ Wuyucun
 Wuzhen, T'ung-hsiang, Wu-chen, Wuzhen Zhen, 乌镇镇
 Wuzhou, Ngouzcouh, Ts'ang-wu, Ts'ang-wu-hsien, Wu-chou, Wu-chou-shih, Wuchow, 梧州市
 Xi'an, Ch'ang-an, Ch'ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-li, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, Si-Gan-Fu, Sianfu, Siking, Singan, Xi'an Shi, Xi'an Xiang, Xi'an Zhen, Xi'andeng, Xi'anjieban, شىئەن شەھىرى, 西安乡
+Xi'ancun, An-ch'eng, Hsien-ts'un, Hsien-ts'un-hsü, Lianhuayicun, Xiancun Xiang, 贤村乡
+Xi'nan, An-hsin, Anxin, Dong'an Qu, Gouli Zhen, Guannan, Hsi-hsiang, Hsi-nan, Hsin-an-chen, Hsin-an-chi, Hsin-an-hsien, Hsin-an-ts'un, Kuan-nan, Lai-an-hsien, Nan-an, Pa-tzu-pu-lung, Saiheung, Sin'an'chzhen', Sinanchen, Xin'an Chaoxianzu Zhen, Xin'an Jiedao, Xin'an Xiang, Xin'an Zhen, Xin'anzhou, 东安区, 勾里镇, 新安乡, 新安朝鲜族镇, 新安街道, 新安镇
 Xiabaishi, Hsia-pai-shih, Pai-shih
 Xiacang, Hsia-ts'ang, Hsia-ts'ang-chen, Xiacang Zhen, 下仓镇
 Xiahu, Hsia-hu, Hsia-liu
 Xiajiang, Chiu-hsia-chiang, Hiakiang, Hiakiang-hsien, Hsia-chiang-hsien
 Xialiang, Hsia-liang, Hsia-liang-chen, Hsia-liang-ho-k'ou, Hsia-liang-shih, Xialiang Xiang, Xialiang Zhen, Xialianghekou, 下两乡, 下两镇
 Xiamen, Amoy, Hsia-men, Hsia-men-shih, Hsia-men-ts'un, Siamen, Ssu-ming, Ssu-ming-hsien, Szeming-hsien, Xiamen Shi, شيامېن شەھىرى, 厦门市
-Xiancun, Hsien-ts'un, Hsien-ts'un-hsü, Xiancun Xiang, 贤村乡
 Xiangcheng, Hsiang-ch'eng, Hsiang-ch'eng-chen, Hsiang-yün, Hsiang-yün-hsien, Siangyün, Xiangcheng Zhen, Yunnanhsien, Yunnansen, Yün-nan, 相城镇
 Xiangcheng Chengguanzhen, Hsiang-ch'eng, Hsiang-ch'eng-hsien, 襄城城关镇
 Xiangjiaba, Shuifu Xian, 水富县
@@ -1456,7 +1456,6 @@ Xilin Hot, A-pa-ha-na-erh-ch'i, A-pa-ha-na-erh-tso-i-ch'i, A-pa-ha-na-erh-yu-i-c
 Xiling, Hsi-ling, Hsi-ling-hsü, Xiling Jiedao, Xiling Zhen, Xilingxu, 西岭镇, 西陵街道
 Ximeicun, Ch'i-mei-chen, Ch'i-wei, Hsi-wei
 Xin'anzhen, Hsin-an, Hsin-an-chen
-Xinan, Hsi-nan, Nan-an, Xinan Jiedao, Xinan Zhen, 西南街道
 Xinchang, Hsin-ch'ang-chen, Hsing Chang, I-feng, I-feng-hsien, I-feng-hsien-ch'eng, Qi'er, Sin'chan, Sinchang, Sinchanghsien, Xinchang Dongbiancun, Xinchang Xiang, Xinchang Zhen, Yanjing Xiang, Yifeng Xian, 宜丰县, 新厂镇, 新场东边村, 新场乡
 Xincheng, Chao-chiao-hsien, Chao-chio, Chao-chüeh, Chaokioh, Chia-hsing, Chiang-an-t'un, Chiu-hsin-ch'eng, Chiu-shang-shui, Chiu-shu-lu, Hsiang-fen, Hsiang-fen-hsien, Hsin-ch'eng, Hsin-ch'eng-chen, Hsin-ch'eng-hsien, Hsin-ch'eng-hsü, Hsin-ch'eng-ts'un, Hsin-chen, Hsin-hsing, Hsin-hsing-hsien, Hsin-sheng, Hsing-ch'eng, Jiuxincheng, Kan-ya, Kan-yai, Liang-chia-yu-fang, Liangjiayoufang, Lin-t'an, Lintanhsien, Liu-chang, Liu-chang-chen, Liu-chang-ts'un, Liu-chang-tsun-chen, Liuzhangzhen, Pei-chieh-chi, Shang-shui-hsien, Shih-ts'un, Shih-ts'un-chen, Shu-lu, Shu-lu-ch'eng, Shu-lu-hsien, Sin'chen, Sin-cheng, Sin-tsch'öng, Sincheng, Sincheng-hsien, Sinchenghsien, Sinhing, Sunhing, Sunhing-hsien, T'ao-chou, Tan-ch'eng, Tan-ch'eng-chi, Taochow, Taochzhou, Tung-lu, Xiangfen Xian, Xincheng Chengguanzhen, Xincheng Jiedao, Xincheng Qu, Xincheng Xiang, Xincheng Zhen, Xinchengzhen, Ying-chiang, Youyu Xian, Yu-yü, Yuan-ch'ü, Yuangqu, Yuangqu Xian, Zhaojue, 右玉县, 垣曲县, 忻城城关镇, 新城乡, 新城区, 新城街道, 襄汾县
 Xindi, Hsin-li, Hsin-li-chieh, Hsin-li-hsü, Hsin-ti, Hsin-ti-chen, Hsin-ti-hsü, Hsin-ti-k'ang, Hung-hu, Jingsee, Shin-ti, Sing Ti, Singti, Sinti, Xindi Xiang, 新地, 新地乡
@@ -1560,7 +1559,7 @@ Yantongshan, Yen-t'ung-shan
 Yanzhou, Ch'ie-fou, Tzeyang, Tzu-yang, Tzu-yang-ch'eng, Tzu-yang-hsien, Yen-chou, Yenchow, Yenchow-fu, Yenzhou
 Yanzibu
 Yaoji, Yao-chi, Yaoji Xiang, 姚集乡
-Yaolu
+Yaolü
 Yaoshi, Yao-shang, Yao-shih, Yao-ssu, Yaoshi Zhen, 姚市镇
 Yaowan, Hsin-yao-wan, Yao-wan-chen, Yao-wan-ts'un, Yaowan Xiang, 窑湾乡
 Yashan, Liao-shan-chen, Shan-chieh, Ya-shan-chen, Ya-shan-chieh, Yashan Zhen, 丫山镇

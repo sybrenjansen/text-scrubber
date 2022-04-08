@@ -738,8 +738,7 @@ Al Yahoûdîyé, اليهودية
 Al Yahūdīyah, El Yhoudi, El Yâhoud
 Al Ḩadath, El Hadeth, Hadeth, الحدث, حدث, حدث (بعبدا), حدث - بيروت
 Al Ḩammām, El Hammâm, الحمّام
-Al Ḩamrā, الحمرا
-Al Ḩamrā', Hmairat
+Al Ḩamrā', Hmairat, الحمرا
 Al Ḩarqān, El Hergâne
 Al Ḩawmah, الحومة
 Al Ḩayr, الحير
@@ -3814,7 +3813,6 @@ Chmîs el Mchâté, Shamīs al Mashātī
 Chmîs el Mdâmît, Shamīs al Mḑāmīt, شميس المضاميت
 Chmîs el Mreïjîaa, Chmîs el Maïsra, Shamīs al Murayjī'
 Chmîs el Oussoût, Chmiss el Oussouté, Chmîs el Oussoûte, Shamīs al Wasūţ
-Chmîs el Qalaa, Shamīs al Qal'ah, شميس القلعة
 Chmîs el Qrâqîf, Shamīs al Qarāqīf
 Chmîs el Qâser, Shmīs al Qāşir, شميس القاصر
 Chmîs el Yaghmoûn, Shamīs al Yaghmūn
@@ -7450,7 +7448,6 @@ El Yâssouaaïyé, Al Yasū'īyah, الياسوعية
 El Yâtoûn, Al Yātūn, الياتون
 El Zaaïtré, Az Zaytarah, Ez Z'eitrih, Ez Zaïtra, Zu'aytirah, زعيترة
 El aaoueïni
-El-Maqtaa
 Em Ayoub, Umm Ayyūb, أم ايوب
 En Naaissa, An Nu'ayşah, النعيصة
 En Naamaniyé, An Nu'mānīyah, النعمانية
@@ -9900,7 +9897,6 @@ Jouâr el Jaouâmîs, Jiwār al Jawāmīs
 Jouâr el Kaoumé
 Jouâr el Khammâri, Jiwār al Khammārī, Juwār al Khammārī, جوار الخمّاري
 Jouâr el Khaïl, Jiwār al Khayl
-Jouâr el Khâne, Jiwār al Khān, Juwār al Khān, جوار الخان
 Jouâr el Koûra, Jiwār al Kūrah
 Jouâr el Lzâq, Jiwār al Lizāq
 Jouâr el Miknsé, Juwar al Miknasah
@@ -11479,7 +11475,7 @@ Lâssa, Lāsā, لاسا
 Lîyet el Qaous, Lāyat al Qaws, لاية القوس
 Ma'būr al Ghazāl
 Ma'suq, Ma'shūq, Maachoûq, معشوق
-Ma'zār
+Ma'zār, Shārat al Mazār, شارة المزار
 Ma'āliq an Niyārah, معالق النيارة
 Maaboûr ej Jisr, Ma'būr al Jisr, معبور الجسر
 Maaboûr el Aajêl, Ma'būr al 'Ajāl, معبور العجال
@@ -12034,7 +12030,6 @@ Mazraat ez Zarqa
 Mazraat ez Zaïnâti, Mazra'at az Zaynātī
 Mazraat ez Zaïtoûn, Mazra'at az Zaytūn, مزرعة الزيتون
 Mazraat ez Zehzlâne, Mazra'at az Zaḩzalān, مزرعة الزحزلان
-Mazār, Shārat al Mazār, شارة المزار
 Maâli
 Maâsser Beït ed Dîne, Al Ma'āşir, Ma'āşir Bayt ad Dīn, معاصر بيت الدين
 Maâteb el Aïn, Masāţib al 'Ayn, مساطب العين
@@ -15063,7 +15058,6 @@ Ouâdi en Nqaîrât, Wādī an Nuqayrāt
 Ouâdi en Nqâr, Wādī an Naqqār, Wādī an Niqār, وادي النقار
 Ouâdi en Nqîb, Wādī an Naqīb, وادي النقيب
 Ouâdi en Nsaïb, Wādī an Nuşayb, وادي النصيب
-Ouâdi en Nsoûr, Wādī an Nusūr
 Ouâdi en Nsâra, Wādī an Naşārá
 Ouâdi en Ntâra, Wādī an Naţārah, Wādī an Niţārah, وادي النطارة
 Ouâdi en Nâb, وادي الناب
@@ -15345,7 +15339,7 @@ Qalaat Dabboûra, Qal'at Dabbūrah, قلعة دبّورة
 Qalaat Deïr Aajloûn, Qal`at Dayr `Ajlūn, Qalaat Aajloûn
 Qalaat Edrîs, Qal'at Idrīs, قلعة إدريس
 Qalaat El Baïda
-Qalaat Es Saouda, Qal'at as Sawdah, Qal'at as Sawdā', قلعة السودة
+Qalaat Es Saouda, Qal'at as Sawdah, Qal'at as Sawdā, Sawdā. Qal'at as, قلعة السودا, قلعة السودة
 Qalaat Eskandaroûna, Qal'at Iskandarūnah, قلعة إسكندرونة
 Qalaat Ghaouâya, Qal'at Ghawāyā, قلعة غوايا
 Qalaat Ghassoûn, Qal'at Ghaşşūn, قلعة غصّون
@@ -15421,7 +15415,6 @@ Qalaat el Aasri, Qal'at al 'Asrī, قلعة العسري
 Qalaat el Baghlé, Qal'at al Baghlah, قلعة البغلة
 Qalaat el Bahri, Qal'at al Baḩrī, قلعة البحري
 Qalaat el Baqar, Qal'at al Baqar, قلعة البقر
-Qalaat el Baïda
 Qalaat el Baïyâda, Qal'at al Bayyāḑah
 Qalaat el Biâd, Qal'at al Bayyāḑ, Qal'at al Bayāḑ, قلعة البياض
 Qalaat el Bouaïdîr, Qal'at al Buwaydir, قلعة البويدر
@@ -15502,7 +15495,6 @@ Qalaat es Saabé, Qal'at aş Şa'bah, قلعة الصعبة
 Qalaat es Safâsel
 Qalaat es Sahaïh, Qal'at ash Shuḩayḩ, قلعة الشحيح
 Qalaat es Salîb, Qal'at aş Şalīb, قلعة الصليب
-Qalaat es Saouda, Qal'at as Sawdah, Qal'at as Sawdā, Sawdā. Qal'at as, قلعة السودا, قلعة السودة
 Qalaat es Sarjé, Qal'at as Sarjah, قلعة السرجة
 Qalaat es Sekr
 Qalaat es Sidr, Qal'at as Sidr, Qal'at aş Şadr, قلعة الصدر
@@ -16113,9 +16105,8 @@ Ra's al Ghārah, Ras el Ghāra
 Ra's al Kalb
 Ra's al Ladūs
 Ra's al Ma'āmiltayn, Al Mu'āmalatayn
-Ra's al Mişrī
+Ra's al Mişrī, Râs el Masri, Rās al Maşrī, رأس المصري
 Ra's al Mudawwar
-Ra's al-Misri, Râs el Masri, Rās al Maşrī, رأس المصري
 Ra's ar Rumayḩ
 Ra's ash Shāmīyah, Ech Chamyeh
 Ra's az Zaytūn

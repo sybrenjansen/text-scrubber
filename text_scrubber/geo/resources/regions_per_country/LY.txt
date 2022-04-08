@@ -1263,8 +1263,7 @@ Al Khuwaymah, Al Khwwaymah
 Al Khuwaymāt, El Chueimat
 Al Khuwayşīyah
 Al Khā'ibah
-Al Kish Number 1, Sha'bīyat al Kīsh Raqm Wāḩid, شعبية الكيش رقم 1
-Al Kish Number 2, Sha'bīyat al Kīsh Raqam Ithnayn, شعبية الكيش رقم 2
+Al Kish Number 1, Sha'bīyat al Kīsh Raqam Ithnayn, Sha'bīyat al Kīsh Raqm Wāḩid, شعبية الكيش رقم 1
 Al Kishfān, El-Chiscefán
 Al Kudwah, Al Kadwah, El-Chédua
 Al Kufrah, Al Kafrah, Baladīyat al Kufrah, Distretto di Cufra, Kufra District, Muḩāfaz̧at al Kufrah, Sha'bīyat al Kafrah, Sha'bīyat al Kufrah, الكفرة, شعبية الكفرة, محافظة الكفرة
@@ -1433,7 +1432,7 @@ Al Muţrad, Al Muţţrad, El-Mótred, Oasi di el-Mótred, المطرد
 Al Muḩayshī, Al Mahdawī, Al Mhayshi, El-Mehdui, El-Mèdui, المحيشي, الوحيشي
 Al Māyah, Lamāyah, Lmáia, Oasi di Lmàia, الماية
 Al Mīmīs, Al Maymīs
-Al Qa'rah, القعرة
+Al Qa'rah, El-Gára, القعرة
 Al Qabw, El Gabar, El-Gàbu
 Al Qadhādhimah
 Al Qal'ah
@@ -1510,7 +1509,6 @@ Al Qābil
 Al Qāf al Gharbī, El-Gaf el-Gárbi, القاف الغربي
 Al Qāf ash Sharqī, El-Gaf esc-Scérghi, القاف الشرقي
 Al Qālib, Rahmet el-Ghelb
-Al Qārah, El-Gára
 Al Qārah al Bayḑā', El-Gára el-Béda, Gára el-Béda, القارة البيضاء
 Al Qārah al Hawwārīyah, El-Gára el Hauuaría
 Al Qārah al Kabīrah, El Gara el Chebira, Gàra el-Chebìra
@@ -1646,7 +1644,7 @@ An Nuqāţ al Khams, Baladīyat an Nuqāţ al Khams, Muḩāfaz̧at an Nuqāţ a
 An Nuwaybāt, Ar Nuwaybāt, En-Nuebàt, Nuebát, النويبات
 An Nuzaylah, En-Nzéla
 An Nuşf, En-Nuss, النصف
-An Nāfūrah
+An Nāfūrah, Nafoora
 An Nāqah
 An Nāqūr, Nagùr
 An Nāz̧ūrah
@@ -1850,7 +1848,6 @@ At Taribjah, Qaryat aţ Ţaribjah
 At Tarsh, At Tirsh, At Tursh, Et Teresc, Tarash
 At Taw'amah, At Tuwāmah, Et-Tuàma, Gebel et-Tuáma
 At Tawrīkāt
-At Tawāmah
 At Tilāl al Bīḑ, التلال البيض
 At Tuwaymīyāt, Et-Tuemiát
 At Tājamūt, At Tājmūţ
@@ -2572,7 +2569,6 @@ Bi'r Jufrah, Bir Gefara, Bir Giufara
 Bi'r Jufārah, Bi'r ar Raqā'iqīyah, بئر جفارة
 Bi'r Jum'ah Bin Mūsá
 Bi'r Jum'at Ḩunaysh, Bi'r Jum'at Ḩanīsh
-Bi'r Juwaydah
 Bi'r Jīmī, Bir Gími
 Bi'r Kaddād
 Bi'r Kadīdah
@@ -5265,7 +5261,7 @@ Jabal al Jāf, Gebel el Ligéf, Jabal al Lijāf, جبل الجاف
 Jabal al Jīr, Gebél el-Gir, جبل الجير
 Jabal al Khaddāmīyah, Gebél el-Chaddamīa
 Jabal al Lāllah, Caf Umm el-Allègh, Caf Umm el-Alégh, Kāf Umm al 'Alaq, Kāf Umm al 'Ullayq
-Jabal al Ma'būs, Gebel el Maabus
+Jabal al Ma'būs, Gebel el Maabus, جبل المابوس
 Jabal al Ma'rūf, Gebel el Maaruf
 Jabal al Makhraq, Gebél el-Máchrigh
 Jabal al Maknūsah, جبل المكنوسة
@@ -5273,7 +5269,6 @@ Jabal al Malfá, Gebel el Melfa
 Jabal al Maqīl, جبل المقيل
 Jabal al Marqab, Jabal al Mirgib, جبل المرقب
 Jabal al Mudawwar, Gebel el Mdauuar, Jebel Mdaur
-Jabal al Mābūs, جبل المابوس
 Jabal al Qal'ah, جبل القلعة
 Jabal al Qarḑabah, Gebel el Gardeba, Gebèl el-Gárdaba, Jabal al Qirḑābah
 Jabal al Qulayb, جبل القليب
@@ -6816,7 +6811,6 @@ Nuwayz̧īrat ad Daffah, نويظيرة الدفة
 Nāb al Fīl
 Nāb al Jarw, Nab el-Géru, ناب الجرو
 Nādir Jiḩá
-Nāfūrah, Nafoora
 Nālūt, Baladīyat Nālūt, Ghadamis, Muḩāfaz̧at Nālūt, Sha'bīyat Nālūt, شعبية نالوت, محافظة نالوت, نالوت
 Nāz̧ūrat aş Şawwān, Nāḑūrat aş Şawwān
 Ohebran, Ohbegán
@@ -6850,7 +6844,6 @@ Qa'rat Wallamed
 Qa'rat Wān ar Rīmah
 Qa'rat Yadī
 Qa'rat ad Dībah
-Qa'rat al Baqar, قعرة البقر
 Qa'rat al Bāqil
 Qa'rat al Maḩmal, قعرة المحمل
 Qa'rat al Musalsalāt
@@ -7272,7 +7265,7 @@ Qar'at Daghmān
 Qar'at Dhi'āb, Gàraet Diàb, Qa'rat Dhiyāb
 Qar'at Faras
 Qar'at Hanzaba, Gáraet Hanzába, Ḩinz̧ābah Qarārat
-Qar'at Khalaf Allāh, Garaet Chalfálla
+Qar'at Khalaf Allāh, Garaet Chalfálla, Gáret Chalfàlla
 Qar'at Khayr
 Qar'at Manşūr, Gáraet Mansúr, Qar' Mansūr
 Qar'at Mūsá
@@ -7285,17 +7278,17 @@ Qar'at Sīdī Bū Zayd
 Qar'at Sīdī Muḩammad, Qar'at Sī Muḩammad
 Qar'at Tinzāligh, Qar'at Tazaligh
 Qar'at Umm al 'Awāţif, Qa'rat Umm Awāţif
-Qar'at Umm al Gharānīq, Qar'at Umm al Gharānīg
+Qar'at Umm al Gharānīq, Garet Umm el Garanigh, Qar'at Umm al Gharānīg
 Qar'at Wākūmī
 Qar'at Wān Hinkat
 Qar'at Wān Zawātin
 Qar'at Zimmītah, Gáraet Zemmíta
-Qar'at al 'Abd
+Qar'at al 'Abd, Gáret el-Abd
 Qar'at al 'Alaqah
 Qar'at al 'Uwaydāt, Gáraet el-Auedát
 Qar'at al Athl, Qa'rat al Itl
 Qar'at al Bahk
-Qar'at al Finţāzī, Gáraet el-Fantázi
+Qar'at al Finţāzī, Garet el Fantazi, Gáraet el-Fantázi
 Qar'at al Jadārīyah
 Qar'at al Khabiyah, Qar'at al Khābi'ah, قرعة الخبية
 Qar'at al Ma'mūrah, Grar el-Maamùra
@@ -7311,8 +7304,7 @@ Qar'at al Ḩandaqūt
 Qar'at ar Rabad, Qar'at ar Rabd, قرعة الربد
 Qar'at ar Rabībah, Gāret er-Rbiba
 Qar'at as Sayyāḩ, Qar'at as Sayāḩ
-Qar'at as Sidr, Gàraet es-Seder
-Qar'at at Tall, Graret el-Etel
+Qar'at as Sidr, Gàraet es-Seder, Gáret es-Sáder, Qārat aş Şādir
 Qar'āt Aḩmad
 Qar'āt Daḩmān
 Qar'āt Ghubayyah, Qa'rāt Ghubayah
@@ -7323,19 +7315,18 @@ Qar'āt Turāb al Qudaydīl, Qa'rāt Turāb al Qadīdīl
 Qar'āt Warīmah
 Qar'āt Zammūnah
 Qar'āt al 'Azzābī
-Qar'āt al Baqar
-Qar'āt al Jīfah, Garaet el-Gifa
+Qar'āt al Baqar, قعرة البقر
+Qar'āt al Jīfah, Garaet el-Gifa, Gáret el-Gífa
 Qar'āt al Ma'līq, Qa'rat al Ma'līqah
 Qar'āt al Qīz, Graràt el-Ghiz, Gràret el- Ghìz
 Qar'āt al Yahūdī, Gàraet el Ihùdi
 Qar'āt al Ḩabashī
 Qar'āt al Ḩandūq
 Qar'āt an Nawā'il, Garaet en-Nuail, Qa'rāt an Nawāyil
-Qar'āt ar Rīmah
 Qar'āt as Sa'dān
 Qar'āt as Sidr Ḩawḑ ar Ruwayḩil
 Qar'āt at Tamtām, Qu'ūr at Timtām
-Qar'āt az Za'lūţī, Qar'at az Zalūlt
+Qar'āt az Za'lūţī, Qar'at az Zalūlt, Qārat az Zalūlī
 Qar'āt Ḩajar, Ḩajar
 Qar'āt Ḩalāh
 Qarbū 'Ayt Ḩammād, Qarbū 'Īt Ḩammād
@@ -7730,7 +7721,7 @@ Qarārat al 'Atūd, قرارة العتود
 Qarārat al 'Awj, Gráret el-Og'
 Qarārat al 'Azzah, Gráret el-Ázza, قرارة العزة
 Qarārat al 'Azālī, Graret el Azali
-Qarārat al 'Uthaylah, Grar Umm el-Atéla, Qarār Umm al 'Utaylah, قرارة العثيلة
+Qarārat al 'Uthaylah, Grar Umm el-Atéla, Gráret el-Etéila, Gráret el-Etéla, Qarār Umm al 'Utaylah, قرارة الأثيلة
 Qarārat al 'Uwaydāt, Gráret el-Auedát
 Qarārat al 'Uwayqīlah, Qarārat al 'Uwaygīlah, قرارة العويقيلة
 Qarārat al 'Īdīyāt, Gráret el-Aidiát
@@ -7813,10 +7804,9 @@ Qarārat al Murār, Graret Mrar, قرارة المرار
 Qarārat al Mutajabbiyah, Gráret el-Mgéibi, قرارة المتجبية
 Qarārat al Muwāsah, Gráret el Muasa, قرارة المواسة
 Qarārat al Māmirah, قرارة المامرة
-Qarārat al Qa'rah, Gráret el-Gáara
+Qarārat al Qa'rah, Graret el Garaa, Gráret el-Gáara, قرارة القرعة
 Qarārat al Qa'ūd, Gráret el-Gaúd
 Qarārat al Qabā'il
-Qarārat al Qar'ah, Graret el Garaa, قرارة القرعة
 Qarārat al Qaţafah, Qarārat al Quţfah
 Qarārat al Qaţţār, Gráret el-Gattár
 Qarārat al Qaḩşīyah
@@ -7826,7 +7816,6 @@ Qarārat al Quzzāḩ
 Qarārat al Quşşah, Graret el Gussa
 Qarārat al Qāfūlī, Graret el Gafuli, Gráret el-Gafíli
 Qarārat al Ubaytir, Gráret el-Abéter
-Qarārat al Uthaylah, Gráret el-Etéila, Gráret el-Etéla, قرارة الأثيلة
 Qarārat al Wa'rah, قرارة الوعرة
 Qarārat al Walīd, قرارة الوليد
 Qarārat al Waysīyah, Gráret el-Uesía
@@ -7852,10 +7841,9 @@ Qarārat al Ḩājj Ḩamīdah, Qarārat al Ḩāj Hamīdah, قرارة الحج
 Qarārat al Ḩājj Ḩuţaybah, Gráret el-Hag' Hatéiba
 Qarārat an Na'jah, Gráret en-Náagia
 Qarārat an Naftah, Gráret en-Néfta
-Qarārat an Naq'ah, Gráret en-Négaa
+Qarārat an Naq'ah, Gráret en-Nága, Gráret en-Négaa
 Qarārat an Nuqrah, Graret en-Nógra
 Qarārat an Nā'ikah, Gráret en-Nága, Gráret en-Náica
-Qarārat an Nāqah, Gráret en-Nága
 Qarārat ar Raml, Gráret er-Raml, Qarārat ar Rami, قرارة الرمل
 Qarārat ar Ratam, Gráret er-Rtem
 Qarārat ar Rimth, Gráret er-Rémets
@@ -8223,13 +8211,11 @@ Qārat Fā'id, Gáret Fáid
 Qārat Fīnah, قارة فينة
 Qārat Fūkah, Gáret Fúca
 Qārat Gherfauda
-Qārat Hanzaba
 Qārat Hillīj, Gáret Hillíg'
 Qārat Ja'far, Gáret Giáafer
 Qārat Jahannam, Gáret Gehénnem, Qārat Jahamam, قارة جهنم
 Qārat Jarādū, Gáret Gerádu
 Qārat Jāb Allāh, Gáret Giabálla, Qâret Gaballa, قارة جاب الله
-Qārat Khalaf Allāh, Gáret Chalfàlla
 Qārat Khatārish, قارة ختارش
 Qārat Khazzī, Garet Chazzi, Garet Chezzi, Qārat Kazzī, Shezza
 Qārat Kūdī, Cudi, Garet Cudi, Garét Cug'
@@ -8308,7 +8294,6 @@ Qārat Umm adh Dhubāb, Gebel Umm ed-Diáb, Gāraet Umm ed-Diāb, Jabal Umm adh 
 Qārat Umm al 'Abbūd, Gáret Umm el-Abbùd
 Qārat Umm al 'Asal, Gáret Umm el-Asél
 Qārat Umm al Bāqil, Gáret et Tefsuía, Qārat at Tafsawīyah, قارة أم الباقل
-Qārat Umm al Gharānīq, Garet Umm el Garanigh
 Qārat Umm al Laban, Gáret Umm el-Lében
 Qārat Umm al Milḩ, Gáret Umm el-Mélah
 Qārat Umm al Qulūb, Gáret Umm el-Glub
@@ -8337,7 +8322,6 @@ Qārat ad Dūmā, قارة الدوما
 Qārat adh Dhahībāt, Dehibat Gara
 Qārat adh Dhu'ūbah, Gáret ed Dlùba, Gáret ed-Diùba, Qārat ad Diyūbah, Qārat adh Dhiyūbah, قارة الذؤوبة, قارة الذيوبة
 Qārat al 'Abbār
-Qārat al 'Abd, Gáret el-Abd
 Qārat al 'Adas, Gáret el-Ádesi, Qārat al 'Adasī
 Qārat al 'Ajūz, Gáret el-Azúz
 Qārat al 'Alāqāt, Gáret el-Alagát
@@ -8372,7 +8356,6 @@ Qārat al Fandīs, Gáret el Fendís
 Qārat al Fawākhir, Gáret el-Fuácher
 Qārat al Faţţah, Gáret el-Fátta
 Qārat al Faḩl
-Qārat al Fintāzī, Garet el Fantazi
 Qārat al Fulaysah, Gáret el-Flésa
 Qārat al Ghafs
 Qārat al Ghazālah, Garet el Gazala, قارة الغزالة
@@ -8394,7 +8377,6 @@ Qārat al Jarrāḩīyah, Garet el-Giarrahía
 Qārat al Ji'ābīyah, Giaabía Gáret el, Gáret Giuabía
 Qārat al Jubb, Garet el Guibb, Gáret el-Giúbb
 Qārat al Juhayyid, Gáret el Giahéid
-Qārat al Jīfah, Gáret el-Gífa
 Qārat al Kabrīt, Gáret el-Chebrít
 Qārat al Kabsh, Gáret el-Chebsc
 Qārat al Kadhbah, Gáret el-Chédba
@@ -8495,7 +8477,6 @@ Qārat as Salālimah, قارة السلالمة
 Qārat as Sarj, Garet es-Serz, قارة السرج
 Qārat as Sarīf
 Qārat as Satūt, Garet es-Stut, قارة الستوت
-Qārat as Sidr, Gáret es-Sáder, Qārat aş Şādir
 Qārat as Sidrī, Gáret es-Sídri
 Qārat as Sidādah, Garet es Sdada, Qārat as Sadārah, قارة السدادة
 Qārat as Sulţān, قارة السلطان
@@ -8525,7 +8506,6 @@ Qārat at Tuwaysah, Gáret et-Tuésa
 Qārat ath Thanīyah, Qārāt ath Thanāyā, قارة الثنية
 Qārat ath Thimād, Gàret el-Atmàd
 Qārat az Surayz, Garet es Srez
-Qārat az Za'lūţī, Qārat az Zalūlī
 Qārat az Zarā'ib, Gàret ez-Zeràib, Qārat az Zarāyib
 Qārat az Zurq, Garet ez Zourgh, Gáret ez-Zurgh
 Qārat az Zā'idīyah, Gáret ez-Zaidía
@@ -8651,7 +8631,6 @@ Ra's Abū al Khirfān
 Ra's Abū aţ Ţawīl
 Ra's Abū Ţawīl, Bu Tuil, رأس أبو طويل
 Ra's Abū Ţu'ayţīsh, Ra's Abū Ţi'īţīsh
-Ra's Al Hilal
 Ra's Amam
 Ra's Awlād Bū Ja'far
 Ra's Awlād Sīdnā
@@ -10871,7 +10850,7 @@ Wādī 'Ayyād, Wadi Aied, Wādī 'Ā'id
 Wādī 'Ayyāsh, Wadi Aiiasc
 Wādī 'Azīzah
 Wādī 'Aşā Mūsá
-Wādī 'Aţwah
+Wādī 'Aţwah, وادي أتوة
 Wādī 'Iqāl
 Wādī 'Izzah, Wādī 'Uzzah
 Wādī 'Ubayd
@@ -10957,7 +10936,6 @@ Wādī Ashīrmā, وادي أشيرما
 Wādī Aswāq al 'Ajāj, Uádi Suágh el-Agiág'
 Wādī Athāl, وادي أثال
 Wādī Athūthūdān
-Wādī Atwah, وادي أتوة
 Wādī Awbarakāt, Oued Baracat, Oued Oubarakkat, Oued Ubaraceat, Uàdi Ubaracat, Wādī Ubaraccat, Wādī Ubarracat, وادي أوبركات
 Wādī Awlād 'Abd al Jalīl
 Wādī Awlād Bū Jadīd, Wādī Awlād Bū Ḩadīd
@@ -11369,9 +11347,8 @@ Wādī Fam ar Rawḑah, Wādī Famm ar Rawḑah
 Wādī Fannah
 Wādī Fannūkah, Wādī Ḩammūr
 Wādī Faqīq, Uàdi Fgeg
-Wādī Far'ās
+Wādī Far'ās, Uadi Fras, Uàdi el-Fras, وادي فرس
 Wādī Faraj, Uàdi el-Fras, Wādī Faraḩ
-Wādī Faras, Uadi Fras, Uàdi el-Fras, وادي فرس
 Wādī Farrūkh
 Wādī Farsh, Wādī Furaysh, وادي فرش
 Wādī Farwah, Uàdi Farua
@@ -11469,7 +11446,7 @@ Wādī Imrāt
 Wādī Imrī Wān, Oued Merouenne, Uadi Mereven, Wādī Imreuen, وادي إمري وان
 Wādī Imshūjī, Uádi Mesuéggi, Uádi el-Mesuégi, Wādī Maswajjī, وادي امشوجي
 Wādī Imzattah, وادي إمزتة
-Wādī In Arāmās, وادي ان أراماس
+Wādī In Arāmās, Oued I-n Aramasse, وادي ان أراماس
 Wādī In Bataygh, وادي إن بتيغ
 Wādī In Ghalzan, Uadi In Ghelzan
 Wādī In Inzāwā, وادي إن إنزاوا
@@ -12225,8 +12202,7 @@ Wādī Umm al Baqar, Mm el Bgar, Scetib Umm el-Bgar, Shaţīb Umm al Baqar, Uàd
 Wādī Umm al Baţţūm
 Wādī Umm al Bunayyah, Wādī Umm al Banīyah
 Wādī Umm al Bāqil, Uàdi Umm el-Bàghel, وادي أم الباقل
-Wādī Umm al Fa'r, Oued Oum el Far, Uàdi Umm el-Far
-Wādī Umm al Far', Wādī Umm al Fir'
+Wādī Umm al Fa'r, Oued Oum el Far, Uàdi Umm el-Far, Wādī Umm al Fir'
 Wādī Umm al Furūth, Wadi Umm el-Frut
 Wādī Umm al Ghanā'im, Uádi Umm el-Ganáim
 Wādī Umm al Gharā'ir, Uàdi Umm el-Gràir, Wādī Umm al Gharāyir
@@ -13018,7 +12994,6 @@ Wādī al Maqtalah
 Wādī al Maqārīs
 Wādī al Maqātil, Wādī al Muqāti
 Wādī al Maqāţi'
-Wādī al Maqţa
 Wādī al Maqţa', Uadi el-Mágta
 Wādī al Mardam
 Wādī al Mardūm, Uàdi el-Merdùm, Wādī al Mardūn, وادي المردوم
@@ -13488,7 +13463,7 @@ Wādī an Najlī, Wadi el-Mneiach
 Wādī an Nakhlah, Uádi en-Náchla, وادي النخلة
 Wādī an Nakhā'im, Wadi Bu Greimisa
 Wādī an Nakhīl
-Wādī an Naq'ah, Uádi en-Négaa
+Wādī an Naq'ah, Uadi Gérem, Uadi en Naga, Udéiat en-Nága, Uádi en-Négaa, Wudayyāt an Nāqah, وادي الناقة
 Wādī an Naqad, Uádi en Néghed, Wādī an Naad, Wādī an Naqd, وادي النقد
 Wādī an Naqqār, وادي النقار
 Wādī an Naqqāzah, Uàdi en Neggáza, وادي النقازة
@@ -13521,12 +13496,11 @@ Wādī an Nushayshīq
 Wādī an Nushū', Uádi en-Nesciúa, Wādī an-Nashūwah, وادي النشوع
 Wādī an Nuwāḩī, Uadi en-Nuáhi
 Wādī an Nā'ilah
-Wādī an Nāqah, Uadi Gérem, Uadi en Naga, Udéiat en-Nága, Wudayyāt an Nāqah, وادي الناقة
 Wādī an Nāz̧ūrah
 Wādī an Nīsī
 Wādī an Nīyah
 Wādī an Nūs, Wadi en-Nuss
-Wādī ar Ra'l
+Wādī ar Ra'l, Uàdi Siah er-Ral, وادي الرال
 Wādī ar Rabyān, Uádi Mélech el-Ábiad
 Wādī ar Rabā'i', Wādī ar Rabāyi'
 Wādī ar Rabāḩ
@@ -13609,7 +13583,6 @@ Wādī ar Rābigh
 Wādī ar Rābiţah, Uadi er-Rábta
 Wādī ar Rādiyah, Uádi er-Rdáia, Wādī ar Raḑī'ah, وادي الرادية
 Wādī ar Rāhib, Uàdi er-Ràheb, Wadi er-Raheb, وادي الراهب
-Wādī ar Rāl, Uàdi Siah er-Ral, وادي الرال
 Wādī ar Rāsibīn
 Wādī ar Rīḩ, وادي الريح
 Wādī ar Rūzah
@@ -13965,7 +13938,6 @@ Wādī aḑ Ḑaḩḩāk
 Wādī aḑ Ḑubayyib, Uádi ed-Dbéib, Wādī az̧ Z̧ubayyib, وادي الضبيب
 Wādī aḑ Ḑuraybāt, Uàdi ed-Dreibát, Wadi ed Dreibut, Wadi ed Urejbat, Wādī aḑ Ḑarbāt
 Wādī bil Jibāl, Wādī bi al Jibāl
-Wādī in Aramas, Oued I-n Aramasse
 Wādī in Ilobu, Oued in Lambou, Uadi In Ilobu
 Wādī in Toggen, In Toggen, Oued Iteddin
 Wādī tin Gobia, Oued tin Gobya

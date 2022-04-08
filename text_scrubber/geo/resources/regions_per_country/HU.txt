@@ -76,7 +76,6 @@ Akasztóhegyi Szőllő
 Akasztói Tanya
 Aklipuszta
 Aklos
-Akna, Árminakna
 Akol
 Akol-hegy
 Akoldűlő
@@ -169,9 +168,7 @@ Alsó-Nedves-hegy
 Alsó-Tápió
 Alsó-Válicka, Déli-Válicka, Pákai-Válicka, Válicka
 Alsó-Zsukma-erdőőrház, Alsózsukma, Alsózsukma-puszta
-Alsó-hegy
 Alsó-kő-forrás, Alsó Kőforrás-puszta, Felső Kőforrás-puszta, Kőforráspuszta
-Alsó-sziget
 Alsó-Öreg-hegy
 Alsóadacs
 Alsóbabád
@@ -601,9 +598,8 @@ Bagibócsa
 Bagiföld
 Bagitanya
 Baglad
-Baglyas Hegy
+Baglyas Hegy, Baglyas, Boglyashegy
 Baglyas Hegyese
-Baglyas-hegy, Baglyas, Boglyashegy
 Baglyashegy
 Baglyaspuszta, Boglyaspuszta
 Baglyos-hegy
@@ -836,7 +832,6 @@ Bangya-hegy
 Bangókert
 Banka
 Banka Hegy
-Banka-hegy
 Bankhegy
 Bankháza
 Banksismánd
@@ -877,7 +872,6 @@ Barcsi Járás
 Barczafelsőmajor
 Barczamajor
 Barcău, Barcău River, Barcăul, Beretau, Bereteu, Bereteu River, Berettyó, Beretăul, Râu Bârcău
-Bari-hegy
 Baricska, Alsóbaricska
 Bariczatanya
 Barinapuszta
@@ -1101,11 +1095,9 @@ Belsőújfalu
 Belvárdgyula, Beldvárdgyula
 Belátó
 Belátó Hegy
-Belátó-hegy
 Belátóhegy
 Bence Hegy
 Bence József-tanya
-Bence-hegy
 Bencehát
 Bencepuszta
 Bencevölgy
@@ -1449,7 +1441,6 @@ Bogádmindszent
 Bogáncs-dűlő
 Bogárd
 Bogárzó
-Bogárzó Tó
 Bogárzó-tó
 Bogárzói Tanyák
 Bogárzók
@@ -1663,8 +1654,7 @@ Botosi-halom
 Botpalád
 Botpuszta, Bot
 Bottkamajor
-Bottyán Hegy
-Bottyán-hegy, Botyán Hegy
+Bottyán Hegy, Botyán Hegy
 Botykapeterd
 Bovárdűlő, Bováridűlő
 Bozoktanya
@@ -1916,7 +1906,6 @@ Bánvölgyitanya
 Bánya, Nagybarcaibányatelep
 Bánya Hegy
 Bánya-domb
-Bánya-hegy
 Bánya-kút-dűlő
 Bánya-patak
 Bánya-ér
@@ -2166,7 +2155,6 @@ Büglertanya
 Bük
 Bükfürdő
 Büki Hegy
-Büki-hegy
 Bükk, Bükk Hegység, Bükk-vidék
 Bükk Aljai Patak
 Bükk Pataka, Bükk-patak
@@ -2261,7 +2249,6 @@ Cifratanya
 Cifrástanya
 Cigándi Járás
 Cigány Hegy
-Cigány-hegy
 Cigány-völgy
 Cigány-zátony, Cigányzáton
 Cigánybokor
@@ -2871,7 +2858,6 @@ Csukma Bulgártelep
 Csukorpuszta, Csikorpuszta
 Csuktanya
 Csukás
-Csukás Tó
 Csukás-hát
 Csukás-tó
 Csukás-ér
@@ -3072,7 +3058,6 @@ Csúcsdűlő, Csúcs
 Csúcsdűlők
 Csúcsos Hegy
 Csúcsos-domb
-Csúcsos-hegy
 Csúcstelep
 Csúszu-hegy
 Csúzdidűlő
@@ -3238,7 +3223,6 @@ Derzsicsere
 Derzsigát, Derzsigát-tanya
 Derzstanya, Kisderzs-tanya, Nagy Derzs-tanya
 Derék Hegy
-Derék-hegy
 Derék-patak, Derék
 Derékhegy
 Deseda, Csigoti-patak, Deseda-patak, Deseda-vízfolyás, Lake Deseda, Nagygáti Beresk, Szanai Árok, Vérgamási-árok
@@ -3712,7 +3696,6 @@ Egyedházamajor
 Egyedtelek
 Egyeduta
 Egyes Halom
-Egyes-halom
 Egyes-tag
 Egyes-zug
 Egyház-halom, Egyházhalma
@@ -4022,14 +4005,11 @@ Fegyverestanya
 Fegyverneki Tanyák
 Fehér Hegy
 Fehér Szik
-Fehér Tó
 Fehér-Körös, Crişu Alb, Crişul Alb, Weifse Körös, Weisze Körös, White Körös
-Fehér-hegy
 Fehér-kő
 Fehér-kő-lápa
 Fehér-nád, Fehérnád-tanya
 Fehér-patak
-Fehér-szik
 Fehér-szék
 Fehér-tó, Lake Fehér
 Fehérbackó, Fehérbackómajor
@@ -4070,12 +4050,9 @@ Fekete-bokor, Feketebokortanya
 Fekete-domb
 Fekete-erdei-szőlő
 Fekete-erdő
-Fekete-halom
-Fekete-hegy
 Fekete-patak
 Fekete-szék
 Fekete-séd
-Fekete-tó
 Fekete-víz, Fekete-víz-folyó
 Feketebokormajor
 Feketebézseny
@@ -4120,7 +4097,7 @@ Felszopor
 Felsõgalambos
 Felső Bogács
 Felső Gáspár Sor, Gáspár Sor
-Felső Hegy
+Felső Hegy, Felsőhegyes
 Felső Hosszú Hegy
 Felső Kápláros Hegy
 Felső Malom, Felső Horváthmalom
@@ -4145,7 +4122,6 @@ Felső-Válicka, Baki-Válicka, Válicka, Válicka-patak, Északi-Válicka
 Felső-bozót
 Felső-dűlő
 Felső-földek
-Felső-hegy, Felsőhegyes
 Felső-járás
 Felső-morotva
 Felső-partos-szék
@@ -4894,7 +4870,6 @@ Geszt-Csikósér
 Gesztenyés, Gesztenyehegy
 Gesztenyés Domb
 Gesztenyés Hegy
-Gesztenyés-hegy
 Gesztenyésmajor
 Gesztenyéspuszta
 Geszteréd
@@ -5363,7 +5338,6 @@ Gönyű
 Görbe Fertő
 Görbe Hegy
 Görbe Tó
-Görbe Ér
 Görbe-halom
 Görbe-ér
 Görbed
@@ -5688,7 +5662,6 @@ Hatvanorr, Hatvanorri Gyümölcsös
 Hatvanpuszta
 Határ Halom
 Határ-domb
-Határ-halom
 Határ-hegy
 Határ-tető
 Határ-árok
@@ -5737,13 +5710,9 @@ Hegyes Homok
 Hegyes Orom, Hegyes Hegy-orom
 Hegyes Tető
 Hegyes-dűlő
-Hegyes-halom
 Hegyes-határ, Hegyeshatárdůlő
-Hegyes-hegy
-Hegyes-homok
 Hegyes-hát
 Hegyes-kő
-Hegyes-tető
 Hegyes-zug
 Hegyesbor
 Hegyesbori Legelő
@@ -5885,7 +5854,6 @@ Hideg Völgy
 Hideg-hegy
 Hideg-kúti-ér
 Hideg-rév
-Hideg-völgy
 Hideg-völgy-tető
 Hideg-ér, Hidegér Puszta
 Hideghegy
@@ -5956,7 +5924,6 @@ Homarkaitanya
 Homlajt-hegy, Homlajt
 Homok
 Homok Hegy
-Homok-hegy
 Homok-rét
 Homokbánya, Homoki Důlő
 Homokbödöge, Wedige, 霍莫克伯德盖
@@ -6016,9 +5983,8 @@ Horga
 Horga Halom
 Horgaközidűlő, Horgaközedűlő
 Horgas, Horgasdůlő
-Horgas Tó
+Horgas Tó, Horgos Tó
 Horgas-dűlő
-Horgas-tó, Horgos Tó
 Horgas-ér
 Horgasér
 Horgasérimajor
@@ -6057,10 +6023,9 @@ Horány, Horányicsárda
 Hossznakdűlő
 Hosszú Berek
 Hosszú Halom
-Hosszú Hegy
+Hosszú Hegy, Regőly
 Hosszú Sori Ugarok, Hosszúsor
 Hosszú Tó
-Hosszú Víz
 Hosszú-Kopasz
 Hosszú-Vontató
 Hosszú-bérc
@@ -6068,7 +6033,6 @@ Hosszú-domb, Hosszúdombmajor
 Hosszú-dűlő, Hosszúdűlői Tanyák
 Hosszú-erdő
 Hosszú-foki-főcsatorna, Köles-ér, Köles-ér-főcsatorna, Köles-éri-csatorna
-Hosszú-hegy, Regőly
 Hosszú-kő
 Hosszú-máj
 Hosszú-patak
@@ -6172,9 +6136,8 @@ Hárihegy
 Hármas
 Hármas Bérc
 Hármas Halom
-Hármas Hegy
+Hármas Hegy, Hármashegyi Důlő
 Hármas Tó
-Hármas-hegy, Hármashegyi Důlő
 Hármas-rét
 Hármasberkidűlő
 Hármashatár
@@ -6773,7 +6736,6 @@ Kak
 Kakarcsótanya
 Kakas Hegy
 Kakas-halom
-Kakas-hegy
 Kakascsárda
 Kakasd, Kakaso, Kockrsch
 Kakasdomb
@@ -7016,7 +6978,6 @@ Kavicsos
 Kavicsos Domb
 Kavicsos Tető
 Kavicsos-bérc
-Kavicsos-domb
 Kazal-hegy
 Kazincbarcikai Járás
 Kazsaidűlő
@@ -7054,7 +7015,6 @@ Kecskédpuszta
 Kecskés, Kecskés Erdő
 Kecskés Hegy
 Kecskés-dűlő
-Kecskés-hegy
 Kecskés-part
 Kecskésdűlő
 Kecskéspuszta
@@ -7172,7 +7132,6 @@ Kercseliget, Gerstleck
 Kerecseny
 Kerecsenypuszta, Kerecsenyi Tanya
 Kerek
-Kerek Hegy
 Kerek Tövisek, Kerek Tövisk
 Kerek-domb
 Kerek-erdő, Kerekerdőtanya
@@ -7205,7 +7164,6 @@ Kerepesihatár
 Kereseszeg
 Keresnyeitanya
 Kereszt Hegy
-Kereszt-hegy
 Kereszt-hát
 Keresztcsárda
 Keresztdűlő
@@ -7315,7 +7273,6 @@ Kettős Halom
 Kettős Tó
 Kettős-domb
 Kettős-fertő-dűlő
-Kettős-halom
 Kettős-ér-sziget
 Kettőscsárda
 Kettőshatárdűlő
@@ -7323,7 +7280,6 @@ Kettőspince, Kettőspincedůlő
 Kettőstanya
 Kevélynyergi-menedékház, Kevélyhegy
 Kienitzpuszta, Kienitzmajor
-Kigyós Patak
 Kihi-kert
 Kijárópuszta
 Kijátztanya
@@ -7466,7 +7422,6 @@ Kis-Vadas-dűlő, Kisvadaspuszta
 Kis-Zagyva
 Kis-Zelemér
 Kis-Zsunyi-hegy
-Kis-bodzás
 Kis-dél
 Kis-erdő
 Kis-fertő
@@ -7476,7 +7431,6 @@ Kis-gerenda
 Kis-gyepi-főcsatorna
 Kis-hagymás
 Kis-halom
-Kis-hegy
 Kis-hegyes, Kishegyes-hegy
 Kis-homok, Kis Homoki Halom
 Kis-híd-patak
@@ -7498,7 +7452,6 @@ Kis-sziget, Kisszigetdůlő
 Kis-szőlő, Kisszőllő
 Kis-séd, Mezőlaki-séd, Séd-patak
 Kis-telek, Kis Telek Tanya
-Kis-tisza
 Kis-völgy, Kisvölgypuszta
 Kis-Átal-kő
 Kis-állás
@@ -8116,7 +8069,6 @@ Kopasz Hegy
 Kopasz-Hallgató
 Kopasz-agyagos
 Kopasz-halom, Kopaszhalmi Tanya
-Kopasz-hegy
 Kopasz-tető, Káposzta Tető
 Kopaszdűlő
 Kopaszhegy
@@ -8462,7 +8414,6 @@ Kálvinháza, Kálvinházatanya
 Kálvária
 Kálvária Dűlő
 Kálvária Hegy
-Kálvária-hegy
 Kálócfa, Kálóczfa
 Kálócfapuszta
 Kám
@@ -8569,7 +8520,6 @@ Kázsmárk
 Kécziházhelyek, Kéciházhely
 Kéidűlő
 Kék Hegy
-Kék-hegy
 Kék-kúti-völgy
 Kékapuszta
 Kékcse, Kécske
@@ -8775,11 +8725,9 @@ Kövegypuszta, Kövegyi Puszta
 Kövendytanya, Kövendi-tanya
 Köves Hegy
 Köves Patak
-Köves Tető
 Köves Verő
 Köves-domb
 Köves-halom
-Köves-hegy
 Köves-mál-tető
 Köves-tető
 Köves-völgy
@@ -8956,7 +8904,6 @@ Küzdés, Küzdés Hegy
 Kő Halom
 Kő Orra, Kőóra
 Kő-erdő-tető
-Kő-halom
 Kő-haraszt-szőlő, Kőharasztiszőllők
 Kő-hegy, Nagy Kőhegy
 Kő-kert
@@ -9014,7 +8961,6 @@ Kőrises
 Kőrises-berki-vízfolyás, Kőrises Víz
 Kőrisgyőr
 Kőrózsa-tető
-Kőrös Patak
 Kőrös-hegy
 Kőrös-ér, Kőrösi-ér
 Kőrös-éri-főcsatorna
@@ -9228,7 +9174,6 @@ Lepsény-domb
 Lepőmalom
 Les Hegy
 Les-halom
-Les-hegy
 Lesaljamajor
 Lesence, Határgát, Lesence-patak
 Lesenceistvánd
@@ -9370,7 +9315,6 @@ Ludaddűlő
 Ludadpuszta
 Ludas, Ludas Föld
 Ludas Tó
-Ludas-tó
 Ludasdűlő, Ludasi Dűlő
 Ludashát
 Ludasiszőlő
@@ -9463,7 +9407,6 @@ Látrány
 Látymányosdűlő
 Látó Hegy
 Látó-halom
-Látó-hegy
 Látóhegy
 Látókő
 Láz-bérci-víztároló
@@ -9567,7 +9510,6 @@ Magas Hegy
 Magas-Bérc, Hochriegel
 Magas-domb, Magasdombrév
 Magas-határ
-Magas-hegy
 Magas-már
 Magas-orom
 Magas-tető
@@ -9584,7 +9526,6 @@ Magdolna-ér
 Magitanya
 Maglóca
 Magos Hegy
-Magos-hegy
 Magosak
 Magoshegy
 Magoska
@@ -9906,7 +9847,6 @@ Megyefa
 Megyefacigánysor
 Megyehíd
 Megyei Csatorna
-Megyei-csatorna
 Megyer
 Megyerhegy
 Megyeridűlő, Megyeri Puszta
@@ -10531,7 +10471,7 @@ Nagy Gyilkos-halom
 Nagy György-tanya
 Nagy Hallgató
 Nagy Határ
-Nagy Hegy
+Nagy Hegy, Nagy-bérc
 Nagy I.-tanya, Nagy-tanya
 Nagy István Halom
 Nagy Ivács-hegy, Nagyivács
@@ -10540,7 +10480,6 @@ Nagy Koppány
 Nagy Kákástó
 Nagy Kőbánya-hegy
 Nagy Lajos Tanya
-Nagy Lajos-tanya
 Nagy László Hegy
 Nagy Lóki Hegy
 Nagy Pál Dűlő
@@ -10647,7 +10586,6 @@ Nagy-gát, Nagygátidůlő
 Nagy-göbölyjárás
 Nagy-hagymás
 Nagy-halom
-Nagy-hegy, Nagy-bérc
 Nagy-hegy-Hangács
 Nagy-homok
 Nagy-homoki-domb, Nagyhomok-hegy
@@ -10693,7 +10631,6 @@ Nagy-szőlőhegy, Nagyszőllő-hegy
 Nagy-sári-hegy
 Nagy-sárrét
 Nagy-sóstó
-Nagy-tó
 Nagy-vadas
 Nagy-vadálló
 Nagy-völgy
@@ -11157,9 +11094,8 @@ Nyalka
 Nyavajkatanya
 Nyedámpuszta
 Nyerges
-Nyerges Patak
+Nyerges Patak, Nyergesi Patak
 Nyerges-hegy
-Nyerges-patak, Nyergesi Patak
 Nyerges-tető
 Nyergesdűlő
 Nyergespuszta, Alsó Nyerges-puszta, Felső Nyerges-puszta
@@ -11307,9 +11243,7 @@ Nádas Halom
 Nádas Lak
 Nádas Orom
 Nádas Szék
-Nádas Tó
 Nádas-dűlő
-Nádas-halom
 Nádas-szeg
 Nádas-tó, Nádastói Rét
 Nádasakol
@@ -11623,7 +11557,6 @@ Pap-dűlő
 Pap-fertő-dűlő
 Pap-halmi-dűlő
 Pap-halom, Paphalmi Tanya
-Pap-hegy
 Pap-lyukas, Pap Lyukas-hegy
 Pap-rét
 Pap-rév-zug
@@ -12868,7 +12801,6 @@ Rókusifeketeföldek
 Rókás
 Rókás Halom
 Rókás Hegy
-Rókás-hegy
 Rókászi, Rókászipuszta
 Rómahegy
 Római-domb
@@ -13240,7 +13172,6 @@ Somogyvámos
 Somogyzsitfa, Felsőzsitfa, Somogyfehéregyház
 Somorjasziget
 Somos, Somostanya
-Somos-hegy
 Somoshegy
 Somoskő, Somoskä
 Somosmajor
@@ -13325,7 +13256,6 @@ Sukoró
 Sulymos, Sulymos Hegy
 Sulymos Fok
 Sulymos Tó
-Sulymos-tó
 Sulymos-ér
 Sulymostanya
 Sulyok
@@ -13917,7 +13847,6 @@ Szilvágy
 Szilvás, Szilvásdůlő, Szilváspuszta
 Szilvás Patak
 Szilvás-kő
-Szilvás-patak
 Szilvásfürdő
 Szilvásgödörpuszta, Szilvásgödörtanya
 Szilvási-dűlő, Szilvássitanya
@@ -13938,7 +13867,6 @@ Szilágyitanya
 Szilágykispuszta
 Szima-halom
 Szin
-Szinai Hegy
 Szincsehalom
 Szincsetanya
 Szinpetri
@@ -14121,7 +14049,6 @@ Száraz Patak
 Száraz-Bő, Pusztaszárazbő
 Száraz-gödör
 Száraz-hegy
-Száraz-patak
 Száraz-rét, Szárazrétpuszta
 Száraz-tó-völgy, Száraztói Völgy
 Száraz-völgy
@@ -14305,7 +14232,6 @@ Szőgyényitanya, Szőgyénitanya
 Szőke
 Szőke Hegy
 Szőke Ér
-Szőke-hegy
 Szőke-hát
 Szőke-sziget
 Szőke-tó
@@ -14400,7 +14326,6 @@ Ságalja
 Sághegy
 Sághpuszta
 Sági Hegy
-Sági-hegy
 Ságihegy
 Ságikút
 Ságitanya
@@ -14593,7 +14518,6 @@ Sólyom-halom, Sólyomhát
 Sólyom-sziget
 Sólyombánya
 Sólyomvölgydűlő
-Sós Tó
 Sós Víz
 Sós Úti Dűlő, Sós Út, Sósúti Tanya
 Sós-halom
@@ -14889,7 +14813,6 @@ Temesváridűlő
 Temető Halom
 Temető Tábla
 Temető-domb
-Temető-halom
 Temető-hegy
 Temetődűlő
 Temetőhegy
@@ -16032,7 +15955,6 @@ Vág
 Vágat, Vágot
 Vágotpuszta, Vágott
 Vágott Halom
-Vágott-halom
 Vágott-hegy
 Vágotterdő
 Vágottnyiresdűlő
@@ -16072,7 +15994,6 @@ Vár-berek
 Vár-bükk, Várbükk-hegy
 Vár-domb
 Vár-fenék
-Vár-hegy
 Vár-patak
 Vár-tető
 Várad
@@ -16248,7 +16169,6 @@ Vörös Kereszt
 Vörös Mihály Hegy
 Vörös Völgy
 Vörös-bérc
-Vörös-hegy
 Vörös-hát
 Vörös-kutas-dűlő, Veres Kutas, Vöröskutas
 Vörös-kúti-dűlő, Vöröskúti Telep
@@ -16528,7 +16448,6 @@ Zsédértanya
 Zsényeitanya
 Zsérci-Nagy-dél
 Zsíros Hegy
-Zsíros-hegy
 Zsíroshegy
 Zsírostanya
 Zsófi-hegy
@@ -16590,7 +16509,6 @@ Zódony
 Zók
 Zöcsketelep
 Zöld Halom
-Zöld-halom
 Zöldbokor
 Zöldes
 Zöldhalmidűlő
@@ -16607,7 +16525,7 @@ Zúgó, Zuggó
 Zúgó-dűlő
 Zúgó-tető
 dunaújváros
-Á-akna
+Á-akna, Árminakna
 Ábrahámhegy
 Ábrahámtelep, Ábrahámtelek
 Ábránd
@@ -16894,7 +16812,6 @@ dunaújváros
 Öreg-Túr, Túr-belvízfőcsatorna, Túr-főcsatorna
 Öreg-bükk
 Öreg-hangyás, Öreghangyásszőllő
-Öreg-hegy
 Öreg-hegyi Út
 Öreg-köz
 Öreg-kő, Bajóti-Öreg-kő
@@ -16996,7 +16913,6 @@ dunaújváros
 Új-Péterhida
 Új-Szász-halom
 Új-fogás-tető
-Új-hegy
 Új-kert
 Új-kút-dűlő
 Új-kút-tető

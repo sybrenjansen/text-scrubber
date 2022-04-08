@@ -308,7 +308,6 @@ Amoyo
 Amteren
 Amuathi
 Amuathi 1 Sub-Location
-Amuathi 2 Sub-Location
 Amuathi-One
 Amuathi-Two
 Amugaa
@@ -693,7 +692,6 @@ Banda
 Banda ra Salama, Bandari La Salaama, Bandari Ra Salama, Bandari la Salama
 Bandari
 Bandari Ya Wali
-Bandari ya Wali
 Bandaro
 Bandatsaha
 Bandatsaha Sub-Location
@@ -1276,10 +1274,6 @@ Burro
 Burrungat
 Burrungat Plain, Burrungali Plain
 Buru Buru 1
-Buru Buru 2
-Buru Buru 3
-Buru Buru 4
-Buru Buru 5
 Buruji
 Burujini
 Burususwa, Barasuswa
@@ -1857,7 +1851,6 @@ Chieni Forest
 Chieni Settlement
 Chiffiri, Chifiri
 Chig'a
-Chiga
 Chiga Sub-Location
 Chiganguni
 Chigowe
@@ -2066,7 +2059,7 @@ Daka
 Daka Ajof
 Daka Baru
 Daka Bawr
-Daka Buko, Dakabuka
+Daka Buko, Dakabuka, Dakabuko
 Daka Chom
 Daka Choma
 Daka Dadaba
@@ -2075,7 +2068,6 @@ Daka Dima, Dakabima Hills, Dakadiema Hill, Dakadim, Dakadima Hill
 Daka Horr, Dak Horr
 Daka Kat, Dakkakat
 Daka Lawa
-Daka-Buko, Dakabuko
 Daka-Dadolola
 Dakaborr
 Dakacha, Dakatcha, Dakatcha Hill
@@ -2216,7 +2208,6 @@ Diban-Dibe
 Dibayu
 Dibe
 Dibe Dung'icha
-Dibe Dungicha
 Dibe Jarsa
 Dibe Mangudo
 Did Sarbasa Arbej
@@ -3079,7 +3070,6 @@ Ewaso Marania, Eastern Marania, Ruguthu
 Ewaso Narok, Engare Uaso Narok, Euaso Narok, Guaso N'Erok, Guaso Narok, Narok River, Uaso Narok
 Ewaso Narok Swamp, E. Uaso Narok Swamp, Ol oju I'lughunyu, Ol oju Ilughungu
 Ewaso Ng'iro, Engare Uaso Nyiro, Guaso Nyiro, Uaso Nyiro, Uaso Nyiro River, Waso Nyiro
-Ewaso Ngiro
 Ewaso Ngiro East
 Ewaso Ngiro Plain
 Ewaso Nkidongi
@@ -3780,10 +3770,9 @@ Githembe, Gitembe
 Githembe Sub-Location, Gitembe Sub-Location
 Githerere
 Githerioni
-Githiga
 Githiga A
 Githiga B, Githinga B
-Githiga Sub-Location
+Githiga Sub-Location, Githiga
 Githigui
 Githima
 Githima Sub-Location
@@ -5127,8 +5116,7 @@ Kaakoli
 Kaakunoit Pass
 Kaakwor Streams
 Kaalim
-Kaaling, Kalin
-Kaaling'
+Kaaling', Kalin
 Kaamarandi
 Kaamisitu
 Kaamorok, Kailimaruk, Kaimaruk, Kaimeruk, Kamorok
@@ -6099,7 +6087,6 @@ Kamberia
 Kamberua Sub-Location, Kamberua
 Kambi Muru
 Kambi Ya Munyu, Kampi ya Munyu Water Tank
-Kambi ya Munyu
 Kambilu Dam
 Kambini
 Kambiri
@@ -6326,7 +6313,6 @@ Kamwimbi Sub-Location
 Kamwithi
 Kamwituuo
 Kamwituuo Number 1, Kawituuo Number 1
-Kamwituuo Number 2, Kawituuo Number 2
 Kamwongo Sub-Location, Kamwongo
 Kamworium
 Kamwosor
@@ -7565,7 +7551,6 @@ Kaupa, Naadunga
 Kaura
 Kaureta Authrui, Kaureta
 Kauretangthuro, Kauretangathuroi
-Kauriong
 Kauriong'
 Kauro
 Kausia, Kausyi
@@ -8059,7 +8044,6 @@ Kiango
 Kiango Hill
 Kiangochi
 Kiangoma
-Kiangombe
 Kiangose
 Kiangua
 Kianguanyi, Kianguenyi, Kiangwenyi
@@ -8512,7 +8496,6 @@ Kilima Kimwe Sub-Location, Kilima Kimwe
 Kilima Kiu
 Kilima Mbogo
 Kilima Mwenzi, Kilima Mwenze
-Kilima cha Simba
 Kilimakieru
 Kilimakuyu, Kilimukuyu, River Ilimukuyu
 Kilimanchuma
@@ -8990,7 +8973,6 @@ Kiraro Sub-Location
 Kiratina
 Kiratina Sub-Location
 Kirawe
-Kirazini
 Kirazini A
 Kirazini B
 Kirege
@@ -9534,7 +9516,6 @@ Kochieng
 Kochieng A Sub-Location
 Kochieng B Sub-Location, Kochieng B
 Kochieng C Sub-Location, Kochieng C
-Kochieng Sub-Location
 Kochodin
 Kochogo
 Kochogo Sub-Location
@@ -9724,9 +9705,6 @@ Kom Rek, Kom Rec
 Koma
 Koma Dam
 Koma Rock
-Koma Rock 1
-Koma Rock 2
-Koma Rock 3
 Koma Rock Ranch, Koma Rock Farm, Koma Rock Settlement
 Komacharen, Komacharem
 Komadan, Aikapil
@@ -9818,7 +9796,6 @@ Kongia, Konaa
 Kongit
 Kongo
 Kongo soweto
-Kongoi
 Kongolai, Kongelai
 Kongoli
 Kongoni
@@ -10073,7 +10050,6 @@ Kubi Urgi
 Kubi Wata Raya
 Kubi Watiti
 Kubi Yava
-Kubi-Chake
 Kubi-Lyitu
 Kubichafa, Kubi Chafa
 Kubiega
@@ -11568,7 +11544,6 @@ Longabolo
 Longai
 Longalonga
 Longeleiya, Lakalaleu, Lokalaleu
-Longenya
 Longeredwal
 Longinya
 Longipi, Longippi
@@ -11854,7 +11829,6 @@ Luero
 Lueye
 Lugadsi
 Lugard's Falls
-Lugards Falls
 Lugare
 Lugare Sub-Location
 Lugari
@@ -11904,7 +11878,6 @@ Lundha Sub-Location, Lundha
 Lundi
 Lung'anyiro
 Lunga Lunga
-Lunga-Lunga
 Lunga-Lunga Location
 Lunga-Lunga Sub-Location
 Lunganyiro Sub-Location, Luganyiro Sub-Location, Lunganyiro
@@ -12223,9 +12196,6 @@ Maji Moto Sub-Location
 Maji Ndege Sub-Location, Maji Ndege
 Maji Ndeke
 Maji Ya Chumvi, Moji Chumvi
-Maji ya Chumvi
-Maji-Mazuri
-Maji-Moto
 Majimboni
 Majiwa, Majewa
 Majoge Location, Bomachoge Location, Machoge, Majoge
@@ -12570,7 +12540,6 @@ Manyat, Monyas
 Manyata
 Manyata Sub-Location
 Manyati
-Manyatta
 Manyatta A
 Manyenyuli, Manyenyoli, Manyenyoti
 Manyeso
@@ -12677,8 +12646,7 @@ Marereni Sub-Location
 Margasa, Margassa
 Mari, Murri
 Mari Rongai
-Mari Ya Kanga
-Mari-ya-Kanga, Mari-an-Kanga Plains
+Mari Ya Kanga, Mari-an-Kanga Plains
 Maria Maio
 Mariaini
 Mariakani Location, Mariakani
@@ -13169,7 +13137,6 @@ Mbari, Mbare ya Mwehia, Mbari ya Mwehia
 Mbari Ya Njiru
 Mbari-ya-Igi
 Mbari-ya-hiti
-Mbari-ya-igi
 Mbariagutu
 Mbaru
 Mbaru Swamp
@@ -13723,7 +13690,6 @@ Mkondo wa Simiti
 Mkondo wa Tarasaa
 Mkondo wa Wama, Mkondo wama
 Mkondoni
-Mkongani
 Mkongani A
 Mkongani B
 Mkongani North Forest
@@ -13801,8 +13767,7 @@ Moedi
 Moera
 Moera Pass
 Moga
-Mogari Island, Mogare Island
-Mogari Islands, Mogare Islands
+Mogari Islands, Mogare Island
 Mogila, Mogilla
 Mogila Range, Mogilla Range
 Mogobich
@@ -14219,9 +14184,6 @@ Mugondo
 Mugono
 Mugoo, Mugo
 Mugoya 1
-Mugoya 2
-Mugoya 3
-Mugoya 4
 Mugu
 Mugueni
 Muguga, Mugaga
@@ -14531,7 +14493,6 @@ Muramba
 Murambu
 Muran
 Murang'A, Fort Hall District, Murang'a District
-Muranga
 Murany
 Murarandia, Murarandia One
 Murarandia Two
@@ -15925,7 +15886,6 @@ Ndiara
 Ndiasamis
 Ndigir Eldama Pass, Ndigir Endama, Ndigirr Eldama Pass
 Ndigir Ol Kimaniki, Ndigir Ol Kimaniki Pass, Ndigir Olkimaniki
-Ndigir ol Kimaniki
 Ndigiri Debe, Ndigi el Debe, Ndigir El Debe, Ndigirr El Debe Hills
 Ndigiria
 Ndigirigi, Digirigi
@@ -16278,7 +16238,6 @@ Ngecha Sub-Location
 Ngege
 Ngegiri
 Ngei
-Ngei 2
 Ngei One
 Ngei Two B
 Ngejek
@@ -16658,7 +16617,6 @@ Nkisiau, Nkisiau Hill
 Nkoikumaishi Hills
 Nkoirienito
 Nkojong'a, Ngojanga
-Nkojonga
 Nkondi
 Nkoriche, Ngoriche
 Nkoriga
@@ -17136,13 +17094,11 @@ Nyangio Sub-Location
 Nyangiti
 Nyangoe
 Nyangoge
-Nyangoma
 Nyangonda
 Nyangoni
 Nyangore, Nyangora
 Nyangores
 Nyangores South
-Nyangori
 Nyangori Awach
 Nyangori Sub-Location
 Nyangoris
@@ -17860,7 +17816,6 @@ Olodama, North West Round, Ol Oldama
 Olodare, Ladare, Olodaare, Oloodare
 Olodo Are
 Olodo Enterit, Olodo Enerit
-Olodo-Enterit
 Olodo-ehterit, Bartinaru
 Olodoaale
 Olodoinyo Onyokie, Ol Doinyo Nyuki
@@ -18661,7 +18616,6 @@ Rata
 Rata Sub-Location
 Ratai
 Ratang'a
-Ratanga
 Ratat
 Rateng
 Rathithi
@@ -19162,7 +19116,6 @@ Sang'any, Sangai
 Sanga
 Sanga Dorkat
 Sangailu
-Sangalo
 Sangalo Location
 Sangalo Sub-Location
 Sangat Sub-Location, Sangat
@@ -20995,8 +20948,6 @@ Umbi
 Umbui
 Umela Hill
 Umoja
-Umoja 1
-Umoja 2
 Umurieti
 Underwood
 Undo
@@ -21357,7 +21308,6 @@ Wanga Mukulu Location, Wanga Location, Wanga Mukulu
 Wangai
 Wangai Dahan
 Wangajo, Waganjo
-Wangapala
 Wangarot
 Wangaya One Sub-Location, Wangaia One, Wangaya One
 Wangaya Two Sub-Location, Wangaya Two
@@ -21765,7 +21715,6 @@ Ziwa la Hindiwa
 Ziwa la Idsowe
 Ziwa la John
 Ziwa la Junja
-Ziwa la Kiboko
 Ziwa la Kibokoni
 Ziwa la Kuta
 Ziwa la Kwakuomba, Ziwa la Kombe

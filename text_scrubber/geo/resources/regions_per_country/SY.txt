@@ -46,7 +46,7 @@
 'Adwān, Aadaouâne, Aadouâne, Adaouâne, عدوان
 'Adwānah, Aadouanes, عدوانة
 'Adīmah, Al 'Adīmah, El Aadîmé, Shārat Adīmā, عديمة
-'Afrah, عفرة
+'Afrah, Afra, Afré, افرة
 'Afrīn, Aafrine
 'Afw Jihār, 'Afw al Jiḩār, Afou ej Jhâr, عفو جهار
 'Afw Tiyās, Afou Tiâs
@@ -228,7 +228,7 @@
 'Arshūnah, 'Arshūnih, Aarchoûné, Archoun, عرشونة
 'Arwākah, عرواكة
 'Ará, 'Aira, 'Ayrah, Aéré, عرا, عرى
-'Arādah, Aarâdé, Aradé, عرادة
+'Arādah, Aarâdé, Aradé, أراضة
 'Arādah Kabīrah, 'Arādih Kabīrah, Aarâde Kébir, Aarâdé Kébîré, عرادة كبيرة
 'Arājah, عراجة
 'Arān, Aarâne, Arane, عران
@@ -434,9 +434,7 @@
 'Ayn Musaqqab, Aïn Msaqqab, عين مسقب
 'Ayn Muwayliḩāt, Aïn Mouaïlhâte, عين مويلحات
 'Ayn Muşbaḩ, عين مصبح
-'Ayn Na'jah, A. Naajé, Aïn Naaja, Aïn Naajé, عين نعجة
 'Ayn Nahdayn, عين نهدين
-'Ayn Nakhīl, عين نخيل
 'Ayn Namyah, 'Ayn Namīyah, 'Ayn Nemieh, عين نمية
 'Ayn Nuqţah, عين نقطة
 'Ayn Qaná, عين قنى
@@ -599,8 +597,7 @@
 'Ayn al Bardah, عين البردة
 'Ayn al Bayāḑ, عين البياض
 'Ayn al Bayḑah, Aïn el Baïda, Aïn el Beïda, عين البيضاء, عين البيضة
-'Ayn al Bayḑā, Ak Pounar, Aq Founar, Aq Peunâr, Aq Pounar, Aïn Beïda, Aïn el Beida, Ein El-Bayda, Maz'ānah, Āq Būnār, عين البيضا, عين البيضة, مزعلة
-'Ayn al Bayḑā', Ain Belda, Aïn el Beida, El 'Ain el Beida, عين البيضاء, عين البيضة, عين اليضا
+'Ayn al Bayḑā', Ain Belda, Ak Pounar, Aq Founar, Aq Peunâr, Aq Pounar, Aïn Beïda, Aïn el Beida, Ein El-Bayda, El 'Ain el Beida, Maz'ānah, Āq Būnār, عين البيضا, عين البيضة, عين اليضا, مزعلة
 'Ayn al Baţţ, Aïn Bâte, Aïn el Batt, عين البط
 'Ayn al Baţţāţah, عين البطاطة
 'Ayn al Bennek
@@ -670,8 +667,7 @@
 'Ayn al Kharūn, Aïn el Kharoûn, عين الخرون
 'Ayn al Khashabah, Bi'r al Khashab, Bir el Khachab, بئر الخشب, عين الخشبة
 'Ayn al Khaţīb, عين الخطيب
-'Ayn al Khaḑrā, Bane Qisir, Banî Qesir, Bānī Qasīr, Bānī Qaşr, بانه قسر, بانى قەسر, عين الخضرا
-'Ayn al Khaḑrā', عين الخضراء
+'Ayn al Khaḑrā', Bane Qisir, Banî Qesir, Bānī Qasīr, Bānī Qaşr, بانه قسر, بانى قەسر, عين الخضرا
 'Ayn al Khinzīr, 'Ayn al Khanzīr, Aïn el Khannzîr, عين الخنزير
 'Ayn al Khinzīrah, عين الخنزيرة
 'Ayn al Khirbah, Aïn el Kheurbet, Aïn el Kheurbé
@@ -766,11 +762,11 @@
 'Ayn al Ḩusaynīyah, عين الحسينية
 'Ayn al Ḩārah, عين الحارة
 'Ayn al Ḩūr, عين الحور
-'Ayn an Na'jah, Aïn Naajé, عين النعجة
+'Ayn an Na'jah, A. Naajé, Aïn Naaja, Aïn Naajé, عين النعجة, عين نعجة
 'Ayn an Nabī
 'Ayn an Nadī, 'Ain enn Nedi, 'Unaynīzah, Aïn enn Nidé, عنينيزة, عين الندي
 'Ayn an Nahshah, 'Ayn an Nahché, عين النهشة
-'Ayn an Nakhīl, Aïn enn Nakhîl
+'Ayn an Nakhīl, Aïn enn Nakhîl, عين نخيل
 'Ayn an Naqrah, Aïn en Nagra, عين النقرة
 'Ayn an Nasr, 'Ayn Dāt, 'Ayn Z̧āţā, عين النسر, عين دات, عين ظاطا
 'Ayn an Nīyah, عين النية
@@ -794,8 +790,7 @@
 'Ayn as Sammān, عين السمان
 'Ayn as Sarj
 'Ayn as Sawdah, 'Ayn Sawādah, 'Ayn as Sawādah, Aïn es Saouada, Aïn es Saouda, عين السودة, عين سوادة
-'Ayn as Sawdā, Al 'Ayn al Wirā', Al 'Ayn as Sawdā', العين السوداء, عين السودا
-'Ayn as Sawdā', Aïn Saouda
+'Ayn as Sawdā', Al 'Ayn al Wirā', Al 'Ayn as Sawdā', Aïn Saouda, العين السوداء, عين السودا
 'Ayn as Silāl, Aïn es Salâl
 'Ayn as Sindiyān, عين السنديان
 'Ayn as Sindiyānah, عين السنديانة
@@ -841,8 +836,7 @@
 'Ayn at Tūtah, عين التوتة
 'Ayn az Za'fah, عين الزعفة
 'Ayn az Zahrī, عين الزهري
-'Ayn az Zarqā, Aïn Zarqa, Aïn ez Zarka, Aïn ez Zarqa, El Hammām, El Mountâr, Haman, Mantar, Mountar, المنطار, عين الزرفا, عين الزرقا
-'Ayn az Zarqā', عين الزرقاء
+'Ayn az Zarqā', Aïn Zarqa, Aïn ez Zarka, Aïn ez Zarqa, El Hammām, El Mountâr, Haman, Mantar, Mountar, المنطار, عين الزرفا, عين الزرقا
 'Ayn az Zarrāqīyah, عين الزراقية
 'Ayn az Zaynah, عين الزينة
 'Ayn az Zayyātīn, Ain ez Zeïyâtîne, عين الزياتين
@@ -930,8 +924,7 @@
 'Aţshānah Sharqīyah, 'Aţshānah ash Sharqīyah, Aatchâné Charqiyé, عطشانة شرقية
 'Aţshānat al Mīrī, Aatchâné el Miri, عطشانة الميري
 'Aţshānat al Ḩumr, Aatchâné, Aatchâné el Homr, Al Ḩumr, عطشانة الحمر
-'Aţā Allāh, عطا الله
-'Aţā' Allāh
+'Aţā' Allāh, عطا الله
 'Aţīb, 'Utayb, Aatîb, عتيب
 'Aţīrah 'Aţrah, 'Aţrah 'Aţīrah, 'Aţrat Aţţīrah, Aatra Aattiré, Aatra Attîré, عطيرة عطرة
 'Aḑmān, عضمان
@@ -958,8 +951,7 @@
 'Ubaydī, Aabeïdi
 'Ubb Tīnah Gharb
 'Ubb Tīnah Sharq
-'Ubb ad Dāfi', 'Abd aḑ Ḑāfī, Aabd ed Dâfi, عب الدافئ
-'Ubb ad Dāfī, عب الدافي
+'Ubb ad Dāfi', 'Abd aḑ Ḑāfī, Aabd ed Dâfi, عب الدافئ, عب الدافي
 'Ubb al Bayyāḑ, عب البياض
 'Ubb al Jisr, عب الجسر
 'Ubb al Ḩamrā', عب الحمراء
@@ -1092,7 +1084,7 @@
 'Āmūdī, Aâmoûdi
 'Āmūdīyah, Aâmoûdîyé, عامودية
 'Ānisah
-'Āqūlah, Aaqoûla, عاقولة
+'Āqūlah, Aaqoûla, اعقولة
 'Āshiq 'Umar, Aâcheq Omar, عاشق عمر
 'Āsim, Aassem, عاسم
 'Āyid Kabīrah, 'Ā'id al Kabīr, Aâyad el Kébîr, عايد كبيرة
@@ -1108,7 +1100,6 @@
 A'bad, Abed, Rasm el Aabd, اعبد, رسم العبد
 A'jāz, Aajjâz, اعجاز
 A'lá Wādī al Kabīr, أعلى وادي الكبير
-A'qūlah, Aâqoûla, اعقولة
 Aalidji, Aledji
 Aaneq al Haoua, Aaneq el Haoua
 Abbād, عباد
@@ -1471,7 +1462,6 @@ Adār, Adhār, آدار, ادار
 Adīm, Rhadine, اديم
 Afik
 Afis, Afes, Afess, Affes, افس
-Afrah, Afra, Afré, افرة
 Afrin District, Ifrin, Jebel Akrâd, Jebel al Akrak, Minţaqat 'Afrīn, Qaḑā' 'Afrīn, منطقة عفرين
 Afrin Suyu, Aafrine Sou, Afrin River, Afrine Sou, Mélas, Nahr 'Afrīn, Nahr Aafrîne, Nahr Afrine, Oya Afrin Irmaği, نهر عفرين
 Aftrīs, Aftriss, Afzîz, Iftris, أفريس
@@ -1718,9 +1708,8 @@ Al Arḑ ash Shamālīyah, الأرض الشمالية
 Al Arḑ ash Sharqīyah, الأرض الشرقية
 Al Arḑ aş Şafrah, الأرض الصفرة
 Al Arḑ aş Şakhrīyah, الأرض الصخرية
-Al As'adīyah, El Assaadîyé, الاسعدية
+Al As'adīyah, El Assaadîyé, الأسدية
 Al Asad, الأسد
-Al Asadīyah, الأسدية
 Al Ashbakīyah, الأشبكية
 Al Ashrafīyah, Acherfié, Achrafîyé, Ashrafīyah, أشرفية, الأشرفية, خنازير
 Al Ashtāwī, Abou Aachté, Abū Aachté, الاشتاوي
@@ -1815,8 +1804,7 @@ Al Bayţirah, البيطرة, الناصرة
 Al Bayţār, Al Bīţār, البيطار
 Al Bayḑ, Al Bīḑ, El Bîd, البيض
 Al Bayḑah, El Beïda, البيضة
-Al Bayḑā, El Beïda, البيضا
-Al Bayḑā', El Beïda
+Al Bayḑā', El Beïda, البيضا
 Al Başnah, البصنة
 Al Başrīyah, Al Basrîyé, Basriyé, El Basrîyé, البصرية
 Al Başāl, البصال
@@ -2928,7 +2916,7 @@ Al Qanāţir, El Kanater, El Qanâter, El Qnâter, Qanâter, Qanāţir, القن
 Al Qanţarah, Qanntara, القنطرة, قنطرة
 Al Qanţarah al Janūbīyah, القنطرة الجنوبية
 Al Qanţarah ash Shamālīyah, القنطرة الشمالية
-Al Qar'ah, القرعة
+Al Qar'ah, Kūjūk Qāriqīn, Qāriqīn, القارة, قارقين, كوجوك قارقين
 Al Qaraqandī, القرقندي
 Al Qardāḩah, Al-Kurdaha, Kerdaha, Kirdaha, Kirdatcha, Kurdaha, Qardāha, Qardāḩah, Qerdâha, Qurdaha, القرداحة, قرداحة
 Al Qarn, القرن
@@ -3045,7 +3033,6 @@ Al Quţbah, القطبة
 Al Quţrānah, القطرانة
 Al Qā'ah, Al Kaa, القاعة
 Al Qābūn, Kaboun, Kābūn, Qâboûn, Qābūn, القابون, قابون
-Al Qādi', القادع
 Al Qādirīyah, Al Adrīyah, El Adrîyé, Qaderiyeh, Qadir Bêg, Qarir Bêg, Qoudeïri, Qudayrī, القادرية, قادر بيك, قادر بێگ
 Al Qādisīyah, القادسية
 Al Qāhirah, القاهرة
@@ -3056,7 +3043,6 @@ Al Qāmūs, القاموس
 Al Qāqi'īyah, Qaqaie, Qaqiyeh, Qâqaïyé, Qāqa'īyah, Qāqi'īyah, Tāqītah, القاقعية, قاقعية
 Al Qāqūs, Ard el Qamoua, القاقوس
 Al Qār, القار
-Al Qārah, Kūjūk Qāriqīn, Qāriqīn, القارة, قارقين, كوجوك قارقين
 Al Qārimah, القارمة
 Al Qārūţīyah, Qâroûtîyé, القروطية
 Al Qāsimīyah, Kenco, Qâsmîyé, القاسمية, كنجو, كەنجۆ
@@ -3066,7 +3052,7 @@ Al Qāşirāt, القاصرات
 Al Qāşī, القاصي
 Al Qāţūs, El Qâtoûs
 Al Qāḑ, Al Qayd, القاض
-Al Qāḑī, El Cādi, القاضي
+Al Qāḑī, El Cādi, القادع, القاضي
 Al Qīnah, Al Qīná, El Guine, El Qîné, Qine, القينة, القينى
 Al Qīrāţ, القيراط
 Al Qīshānah, القيشانة
@@ -3207,9 +3193,8 @@ Al Ḩammām, El Hammam, Hammâmok, Hemze Bêg, Makhfar al Ḩammām, Qaraqol Ha
 Al Ḩammāmāt, الحمامات
 Al Ḩammūdīyah, Jawdīyah, الحمودية, حمودية, Ḩammūdīyah
 Al Ḩamrah, Hamrâte Saoûâné, الحمرة, حمرة الصوانة, Ḩamrat aş Şawwānah
-Al Ḩamrā, الحمرا, الحمرة
 Al Ḩamrā ash Sharqīyah, الحمرا الشرقية
-Al Ḩamrā', El Hamra, El Mamra, Hamra, Keïchké, Kêshkê, Kêşkê, Qaraqol, Qazlîyé, Qazlīyah, Qichlet el Hamra, Qizlīyah, الحمراء, الحمرة, قزلية, كيشكي
+Al Ḩamrā', El Hamra, El Mamra, Hamra, Keïchké, Kêshkê, Kêşkê, Qaraqol, Qazlîyé, Qazlīyah, Qichlet el Hamra, Qizlīyah, الحمرا, الحمرة, قزلية, كيشكي
 Al Ḩamrāt, El Hamrāt, Hamrâte, الحمرات
 Al Ḩamtah, الحمتة
 Al Ḩamzīyah, Hamzîyé, الحمزية, حمزية
@@ -3410,7 +3395,7 @@ An Na'jah, النعجة
 An Na'mīyah, النعمية
 An Na'mūsah, النعموسة
 An Na'āmah, Naâmé, النعامة
-An Na'āmīyah, Naâmîyé, النعامية
+An Na'āmīyah, Naâmîyé, النعامية, نعامية
 An Na'āşāt, Naâssâte, النعاصات
 An Nab' ash Sharqī, النبع الشرقي
 An Nab'ah, An Nabḩah, النبعة
@@ -3421,17 +3406,16 @@ An Nabī Nu'mān, النبي نعمان
 An Nabī Shīt, النبي شيت
 An Nabī Yūnus, Nabi Allah Yoûnes, Nabi Yoûnés
 An Nabī Şādiq, Nabi Sâdi, النبي صادق
-An Nabū'ah, النبوعة
 An Nafaq, النفق
 An Nafāyil, النفايل
 An Nafīlah, النفيلة
 An Nafţīyah, النفطية
 An Nahr, Enn Nahr, النهر
 An Nahr al Aswad, Nahr el Assouad, النهر الأسود, نهر الأسود
-An Nahr al Kabīr, النهر الكبير
+An Nahr al Kabīr, النهر الكبير, نهر الكبير
 An Nahr al Kabīr ash Shamālī, En Nahr el Kebīr, النهر الكبير الشمالي, نهر الكبير
 An Nahr al Qiblī, النهر القبلي
-An Nahr ash Shamālī, النهر الشمالي
+An Nahr ash Shamālī, النهر الشمالي, نهر الشمالي
 An Nahrīyah, النهرية
 An Nahyān, النهيان
 An Nahḑah, Kalkoum, Kālkūm, Qalqoûm, Qalqūm, النهضة, قالقوم
@@ -3444,7 +3428,7 @@ An Nakhlah, النخلة
 An Nakrūrah, النكرورة
 An Namaţīyah, النمطية
 An Namlīyah, Namlîye, Nimliyé, النملية
-An Nammūrah, An Numūrah, النمورة
+An Nammūrah, An Numūrah, النمورة, نمورة
 An Namūrajīyah, النمورجية
 An Naq'ah, النقعة
 An Naqab, النقب
@@ -3452,7 +3436,7 @@ An Naqb, النقب
 An Naqqār, Jabal an Nahr, النقار
 An Naqshabandī, An Naqshbandī, الأكراد, النقشبندي
 An Naqīb, النقيب
-An Naqīr, النقير
+An Naqīr, النقير, نقير
 An Nashmī, النشمي
 An Nashshābīyah, النشابية
 An Nashābīyah, Al-Nashabiyah, En Nishabiye, Nachabie, Nachâbîyé, Nashabieh, Nashābīye, Nechabyé, النشابية
@@ -3468,13 +3452,13 @@ An Nayḩah
 An Naşr, النصر, حي النصر
 An Naşrānīyah, النصرانية
 An Naţţah, النطة
-An Naḩl, Enn Nahal, النحل
-An Naḩlah, Qornet enn Nahlé, النحلة
+An Naḩl, Enn Nahal, Nahal, Naḩl al 'Annāzah, النحل, نحل, نحل العنازة
+An Naḩlah, Nahli, Nahlé, Nuḩaylah, Qornet enn Nahlé, النحلة, نحلة, نحيلة
 An Naḩāḩilah, النحاحلة
 An Niḑāl, Dwel'a, النضال
 An Nu'aymah, En Nueime, Naïme, Nu'eime, النعيمة, نعيمة
 An Numaysah, النميسة
-An Nuqrah, النقرة
+An Nuqrah, Noqra, النقرة
 An Nuzhah, Harf es Salib, النزهة, بساتين أبو جرش, حدائق إبن جرش, Ḩadā'iq Ibn Jarash, Ḩarf aş Şalīb
 An Nuşayr, النصير
 An Nuşūb, النصوب
@@ -3489,16 +3473,16 @@ An Nāfirāt, النافرات
 An Nāhī, الناهي
 An Nāqashlīyah, الناقشلية
 An Nāshifah, Ann Nachfé, Enn Nachfé, الناشفة
-An Nāyifah, النايفة
+An Nāyifah, Nāyfah, النايفة, نايفة
 An Nāz̧imīyah, الناظمية
 An Nāşifah, الناصفة
 An Nāşirah, Guiaour Keuy, Kheraibi, Khraïbé, Kāwur Kūy, الناصرة, خريبة, كاور كوي, ناصرة
-An Nāşirīyah, En Nassirié, Enn Nasrîyé, Nassiriyé, Nâsrîyé, الناصرية, ناصرية
+An Nāşirīyah, En Nassirié, Enn Nasrîyé, Nasrīyah, Nassiriyé, Nesrié, Nâsrîyé, الناصرية, ناصرية
 An Nāşirīyah ash Sharqīyah, الناصرية الشرقية
 An Nāşirīyāt, الناصريات
 An Nāşiḩīyah, الناصحية
 An Nāşūb, الناصوب
-An Nīr al Gharbī, النير الغربي
+An Nīr al Gharbī, Nîr el Rharbi, النير الغربي
 An Nīr al Qiblī, النير القبلي
 An Nīr al Wasţānī, النير الوسطاني
 An Nīsānī, النيساني
@@ -3691,7 +3675,6 @@ Arzūnah, Arzoûné, ارزونة
 Arādī Abū 'Antūt al Gharbīyah, أراض أبو عنتوت الغربية
 Arādī Balūqus, أراضي بلوقس
 Arādī al Khūjakī, أراضي الخوجكي
-Arāḑah, أراضة
 Arāḑī 'Abd al Ḩamīd, أراضي عبد الحميد
 Arāḑī 'Allūsh wa al Qatīl, أراضي علوش والقتيل
 Arāḑī 'Alī ad Da''ās, أراضي علي الدعاس
@@ -3973,8 +3956,7 @@ Arāḑī al Wa'rah, أراضي الوعرة
 Arāḑī al Yazwīr, أراضي اليزوير
 Arāḑī al Ḩajj Ibrāhīm, أراضي الحج ابراهيم
 Arāḑī al Ḩamrah, أراضي الحمرة
-Arāḑī al Ḩamrā, El Hamra, أراضي الحمرا
-Arāḑī al Ḩamrā', أراضي الحمراء
+Arāḑī al Ḩamrā', El Hamra, أراضي الحمرا
 Arāḑī al Ḩanw, أراضي الحنو
 Arāḑī al Ḩanī, أراضي الحني
 Arāḑī al Ḩatānīyah, أراضي الحتانية
@@ -5027,8 +5009,7 @@ Arḑ al Bayādir, أرض البيادر
 Arḑ al Bayāḏah, أرض البياضة
 Arḑ al Bayāḑ, أرض البياض
 Arḑ al Bayḑah, Ard el Beïda, أرض البيضا, أرض البيضة
-Arḑ al Bayḑā, أرض البيضا
-Arḑ al Bayḑā', أرض البيضاء
+Arḑ al Bayḑā', أرض البيضا
 Arḑ al Bayḩah, أرض البيحة
 Arḑ al Başal, أرض البصل
 Arḑ al Başş, Al Bass, El Bass, أرض البص
@@ -5044,7 +5025,7 @@ Arḑ al Baḩāşīş, أرض البحاصيص
 Arḑ al Baḩş, أرض البحص
 Arḑ al Baḩşah, Arḑ al Buḩşah, أرض البحصة
 Arḑ al Baḩḩah, أرض البحة
-Arḑ al Bi'r, ارض البئر
+Arḑ al Bi'r, أرض البير, ارض البئر
 Arḑ al Biqā', أرض البقاع
 Arḑ al Birak, أرض البرك
 Arḑ al Birkah, أرض البركة
@@ -5081,7 +5062,6 @@ Arḑ al Bāshā, Ard el Bacha, أرض الباشا
 Arḑ al Bāsīyah, أرض الباسيّة
 Arḑ al Bāyirah, أرض البايرة
 Arḑ al Bāţīyah, أرض الباطية
-Arḑ al Bīr, أرض البير
 Arḑ al Bīrah, أرض البيرة
 Arḑ al Būnīyah, أرض البونية
 Arḑ al Būzalīyah, أرض البوزليه
@@ -5371,10 +5351,9 @@ Arḑ al Malīq wa al Miţraq, أرض المليق والمطرق
 Arḑ al Malūḩī, أرض الملوحي
 Arḑ al Malḩamah, أرض الملحمة
 Arḑ al Manazzāt, أرض المنزات
-Arḑ al Manqa', أرض المنقع
+Arḑ al Manqa', أرض المنقع, أرض المنقى
 Arḑ al Manqalah, أرض المنقلة
 Arḑ al Manqar, أرض المنقر
-Arḑ al Manqá, أرض المنقى
 Arḑ al Manshīyah, أرض المنشية
 Arḑ al Manzil, أرض المنزل
 Arḑ al Manzilah, أرض المنزلة
@@ -5692,8 +5671,7 @@ Arḑ al Ḩamlūn, أرض الحملون
 Arḑ al Ḩammām, أرض الحمام
 Arḑ al Ḩamrah, Al Harmīyah, Ard el Hamra, El Harmīye, أرض الحمرة
 Arḑ al Ḩamrah ash Shamālīyah, أرض الحمرة الشمالية
-Arḑ al Ḩamrā, أرض الحمرا
-Arḑ al Ḩamrā', Ard el Hamra, أرض الحمراء, أرض الحمرة, الحمرة
+Arḑ al Ḩamrā', Ard el Hamra, أرض الحمرا, أرض الحمرة, الحمرة
 Arḑ al Ḩamrāt, أرض الحمرات
 Arḑ al Ḩamrāwīyah, أرض الحمراوية
 Arḑ al Ḩamī, أرض الحمي
@@ -5897,8 +5875,7 @@ Arḑ as Sarr al Gharbī, أرض السر الغربي
 Arḑ as Sarr ash Sharqī, أرض السر الشرقي
 Arḑ as Sarrūb, أرض السروب
 Arḑ as Sawdah, أرض السودة
-Arḑ as Sawdā, أرض السودا
-Arḑ as Sawdā', أرض السوداء
+Arḑ as Sawdā', أرض السودا
 Arḑ as Sawwādah, أرض السوادية
 Arḑ as Sawāyid, أرض السوايد
 Arḑ as Sawāḩīb, أرض السواحيب
@@ -6024,7 +6001,6 @@ Arḑ at Ta'lah, أرض التعلة
 Arḑ at Tabbān, أرض التبان
 Arḑ at Tabūkīyah, أرض التبوكية
 Arḑ at Takht, أرض التخت
-Arḑ at Tal'ah, أرض التلعة
 Arḑ at Tall, أرض التل
 Arḑ at Tall Kīlūmitr, أرض التل كيلومتر
 Arḑ at Tallah, أرض التلة
@@ -6069,8 +6045,7 @@ Arḑ az Zafrī, أرض الزفري
 Arḑ az Zallah, أرض الزلة
 Arḑ az Zamīn, أرض الزمين
 Arḑ az Zaqqūm, أرض الزقوم
-Arḑ az Zarqā, أرض الزرقا
-Arḑ az Zarqā', أرض الزرقاء
+Arḑ az Zarqā', أرض الزرقا
 Arḑ az Zawr, أرض الزور
 Arḑ az Zawr wa aţ Ţablah, أرض الزور و الطبلة, أرض الزور والطبلة
 Arḑ az Zawrah, أرض الزورة
@@ -6270,7 +6245,7 @@ Arḑ Ḩājūlah, أرض حاجولة
 Arḑ Ḩārat Jibrīn, أرض حارة جبرين
 Arḑ Ḩāwī Ḩimār, أرض حاوي حمار
 As Sa'dānah, Es Saadâné, السعدانة
-As Sa'dīyah, As Sa'dānīyah, Basandīnah, Basandīnā, Bassenndîna, Bessenndîna, Bsandīnah, Bşandīnā, السعدية, بسندينة, بصندينا
+As Sa'dīyah, As Sa'dānīyah, As Sdîyé, Basandīnah, Basandīnā, Bassenndîna, Bessenndîna, Bsandīnah, Bşandīnā, Es Sdîyé, السعدية, بسندينة, بصندينا
 As Sa'nā, As Sa'nah, Sa'nah, Sa'ne, Sa'nā, Saana, السعنا, سعنا
 As Sa'nūnīyah, Bayt Sammūkhah, Beït Sammoûkha, السعنونية
 As Sa'īdah 'Amqūn, السعيدة عمقون
@@ -6278,15 +6253,13 @@ As Sa'īdīyah, السعيدية
 As Sab' Biyār, As Sab' Ābār, Sab' Biyār, Saba Biar, Saba Bjar, Sabaa Biâr, Saobo Biâr, السبع آبار, السبع بيار, سبع بيار
 As Sab' Jifār, السبع جفار
 As Sab' Z̧ahārī, السبع ظهاري
-As Sab'āt, السبعات
-As Sab'ī, السبعي
+As Sab'āt, السبات
 As Sab'īnīyah, السبعينية
 As Sabakah, السبكة
 As Sabakh, Es Sabakh, Sabakh, السبخ
 As Sabbāt, السبات
 As Sabkhah, Sabkha, Sabkhah, السبخة
 As Sabsābah al Jurdah, السبسابة الجردة
-As Sabāt, السبات
 As Sabīl, السبيل, حي السبيل
 As Sadd al Qiblī, السد القبلي
 As Sadd ash Shamālī, السد الشمالي
@@ -6328,8 +6301,7 @@ As Sarāyā, Saraya, Serai, Séray, Sérâya, السرايا, سرايا
 As Sarīyā, السريا
 As Satarkah, Es Starhé, Es Starke, Es Sterke, Esterki, Saţarkah, الحيدرية, الستركة
 As Sawdah, Saouda, السودة
-As Sawdā, Es Soda, Saouda, Sauda, Sawdah, Sawdā', السودا, السودة
-As Sawdā', Qara Badjâq, Qarah Bujiq, Qarah Būjāq, السوداء, قره بجق
+As Sawdā', Es Soda, Qara Badjâq, Qarah Bujiq, Qarah Būjāq, Saouda, Sauda, Sawdah, Sawdā', السودا, السودة, قره بجق
 As Sawrām, السورام
 As Sawā, السوا
 As Sawādīyah, Nabhâne, Nabhān, Saouâdîyé, السوادية, نبهان
@@ -6404,7 +6376,6 @@ As Suwayd, Es Soueïd
 As Suwayd 'Aqrabāt, Es Soueïd Aaqerbâte
 As Suwaydah, Es Souaïdé, Kara Tachli, Kharâb Rachek, Qara Tachliyé, Qara Tâchli, Qarah Ţashlīyah, Qarah Ţāshlī, Qaril Tâchli, Souedi, السويدة
 As Suwaydah ash Sharqīyah, السويدة الشرقية
-As Suwaydā, Soueïda, السويدا
 As Suwaydān, السويدان
 As Suwaydīyah, السويدية
 As Suwaymirah, Souaïmré, السويمرة
@@ -6418,7 +6389,6 @@ As Suţūḩ, السطوح
 As Sā'ah, الساعة
 As Sābi' min Nīsān, السابع من نيسان
 As Sādah, Es Sâda, السادة
-As Sādīyah, As Sdîyé, Es Sdîyé
 As Sālimīyah, السالمية
 As Sāmirīyah, السامرية
 As Sāmīyah, Samiya, السامية, سامية
@@ -6443,7 +6413,7 @@ Asbaynah aş Şughrá, As Subaynah, Sbeïne es Srhrir, Soubeïne es Serhiré, So
 Ash Sha'bānīyah, الشبعانية
 Ash Sha'fah, Ash Shaf', Chaafa, Chafaa, Ech Chaafa, Sha'fah, الشعفة
 Ash Sha'fānīyah, الشعفانية
-Ash Sha'rah, Châara, Sha'rah, Sha'rat al 'Ajā'iz, الشعرة, شعرة العجائز
+Ash Sha'rah, Châara, Sha'rah, Sha'rat al 'Ajā'iz, الشارة, شعرة العجائز
 Ash Sha'rī, الشعري
 Ash Sha'tā, Ash Sha'ţah, Ech Chaata, الشعتا
 Ash Sha'īrāt, Chaïrâte, Shayrāt, الشعيرات
@@ -6610,7 +6580,6 @@ Ash Shāghūr, الشاغور
 Ash Shājilah, Ash Shajlah, الشاجلة
 Ash Shāmīyah, Chamié, Châmîyé, Chārjān, Ga Reşşanê, Ga Ṟeshanê, Gâratchâne, Kāratshān, Shamiyeh, Shāmīyah, الشامية, شامية, كا رشاني, چارجان, گا ڕەشانێ
 Ash Shānūrīyah, Chânoûriyé
-Ash Shārah, الشارة
 Ash Shāḩūţ, الشاحوط
 Ash Shīnah, الشينة
 Ash Shīr, Chir, Ech Chir, الشير
@@ -6744,8 +6713,7 @@ Az Zaqqūmah as Sabātīyah, الزقومة السباتية
 Az Zaqzaqānīyah, Zaqzaqânîyé, Zaqzaqānīyah, Zekeskanié, الزقزقانية
 Az Zarbah, Ez Zerbé, Zarbah, Zerbe, الزربة, زربة
 Az Zarbīyāt, الزربيات
-Az Zarqā, الزرقا
-Az Zarqā', Sakirkah Mīrū, Séguirka Mîro, الزرقاء
+Az Zarqā', Sakirkah Mīrū, Séguirka Mîro, الزرقا
 Az Zarqāt, Zarqâte, الزرقات
 Az Zawazlī, الزوزلي
 Az Zawbah, Ez Zaoubé, الزوبة
@@ -6824,7 +6792,7 @@ Aş Şab'ah, الصبعة
 Aş Şabbār, الصبار
 Aş Şabbūrah, Sabboûra, Sabboûrao, Sabbūra, Saboura, الصبورة, صبورة
 Aş Şabāghah, الصباغة
-Aş Şabī, الصبي
+Aş Şabī, السبعي
 Aş Şadr, أرض الصدر, السدر
 Aş Şadīdīyah, الصديدية
 Aş Şadīr, الصدير
@@ -7222,7 +7190,7 @@ Batdhīr al Khirbah, بتذير الخربة
 Batirzān, Baterzâne, Batrzan, Bāb Sulaymān, باب سليمان, باترزان
 Batrah
 Batras, بترس
-Batrā', Gawando, Kawandā, Kūndā, Kūndā Dūdū, بتراء, كوندا
+Batrā', Battra, Baţrah, Gawando, Kawandā, Kūndā, Kūndā Dūdū, بترا, بطرة, كوندا
 Batrānah, Batrâné, بترانة
 Battānah, Battâné, بتانة
 Bavur Dere, Bavur, Burangih Dere
@@ -7525,7 +7493,6 @@ Başīrah, Tell Bsîré, بصيرة
 Başşārah
 Baţarnus, Batarnas El Hiffeh, Baţarnas, Baţarnus al Ḩiffah, بطرنس, بطرنس الحفة
 Baţn al Ḩayyah, بطن الحية
-Baţrā, Battra, Baţrah, بترا, بطرة
 Baţrūnah, Al Baţrūnah, Batroûné, Batrūnih, البطرونة, الروضة, بطرونة
 Baţţārah, Bţārah, بطارة
 Baţţūsh, بطوش
@@ -7559,7 +7526,7 @@ Bi'r 'Abd ar Razzāq Abū Samrah, بئر عبد الرزاق ابو سمرة
 Bi'r 'Abdān, Bîr Aabdâne
 Bi'r 'Abdū al Musţafá, Thabar 'Abdū al Musţafá, بئر عبدو المصطفى, ثبر عبدو المصطفى
 Bi'r 'Abr wa Ja'far, بئر عبر و جعفر
-Bi'r 'Abyān, Bi'r 'Bayyān, بئر عبيان
+Bi'r 'Abyān, Bi'r 'Bayyān, بئر عبيان, بير عبيان
 Bi'r 'Abār, بئر عبار
 Bi'r 'Ajam, Bi'r al 'Ajam, Bîr Aajam, بئر عجم, بير عجم
 Bi'r 'Akal, بئر عكل
@@ -7593,26 +7560,26 @@ Bi'r Abū 'Alī, بئر أبو علي
 Bi'r Abū 'Anz, Bîr Abou Aanz
 Bi'r Abū Dhakar, Bi'r Abū Dakar, Bîr Abou Dakar
 Bi'r Abū Fasyān, Bi'r Abū Fasiyān, بئر أبو فسيان
-Bi'r Abū Fayyāḑ, Bîr Abou Faïyâd
+Bi'r Abū Fayyāḑ, Bîr Abou Faïyâd, بير أبو فياض
 Bi'r Abū Fayyāḑ al 'Atīqah, Bîr Abou Faïyad el Aatîqa
 Bi'r Abū Furaywah, بئر أبو فريوة
 Bi'r Abū Fās, بئر أبو فاس
 Bi'r Abū Jaddī, Bi'r Abū Jady, Bi'r Jady, Bir Jeddi, Bîr Abou Jédi, بئر أبو جدي
 Bi'r Abū Jadāyā, Bîr Abou Jédâya
 Bi'r Abū Jaysā, بئر أبو جيسا
-Bi'r Abū Kabrā
+Bi'r Abū Kabrā, بير أبو كبرا
 Bi'r Abū Kabārah, Bîr Abou Kbâra, بئر أبو كبارة
 Bi'r Abū Kabīrah, بئر أبو كبيرة
 Bi'r Abū Marih, Bîr Abou Marih
 Bi'r Abū Qaylah, بئر أبو قيلة
-Bi'r Abū Qaţţāsh
+Bi'r Abū Qaţţāsh, بير أبو قطاش
 Bi'r Abū Qurbah, بئر أبو قربة
 Bi'r Abū Qātūr, Bîr Abou Qatoûr, بئر أبو قاتور
 Bi'r Abū Raddān, Bi'r Abū Ridān, بئر أبو ردان
 Bi'r Abū Rujūm, بئر أبو رجوم
 Bi'r Abū Rājiḩ, بئر أبو راجح
 Bi'r Abū Sakhīrah, بئر أبو سخيرة
-Bi'r Abū Sanābil
+Bi'r Abū Sanābil, بير ِأبو سنابل
 Bi'r Abū Sayjān, Bi'r Abū Sijān, بئر أبو سيجان
 Bi'r Abū Sha'af, Bir Abou Tchââf, Bîr Abou Chaaf, بئر أبو شعف
 Bi'r Abū Shajarah, Bîr Abou Chajara
@@ -7653,7 +7620,7 @@ Bi'r Bakār, Bîr el Bakâr, بئر بكار
 Bi'r Ballūzah, بئر بلوزة
 Bi'r Banī Khālid, Bîr Beni Khaled, بئر بني خالد
 Bi'r Bar'ad, بئر برعد
-Bi'r Barzān, Bi'r Barazān, Bîr Berzâne, بئر برزان
+Bi'r Barzān, Bi'r Barazān, Bi'r Birzān, Bîr Berzâne, بئر برزان, بير برزان
 Bi'r Basbas, بئر بسبس
 Bi'r Bayt Anūs, بئر بيت أنوس
 Bi'r Bayt Khabrah, بئر بيت خبرة
@@ -7695,7 +7662,7 @@ Bi'r Ghabīyah, بئر غبية
 Bi'r Ghadīr Maḩfūz̧, Bîr Rhadîr, بئر غدير محفوظ
 Bi'r Ghamīq, Bi'r al Ghamīq, Bîr el Rhamiq, Bîr el Rhanîne, Bîr el Rhenem, بئر غميق
 Bi'r Ghazīl, بئر غزيل
-Bi'r Ghuraytā, Bi'r Gharītā, Bi'r Ghuraythā, بئر غريتا
+Bi'r Ghuraytā, Bi'r Gharītā, Bi'r Ghuraythā, بئر غريتا, بير غريتا
 Bi'r Ghānī, Bîr Gâni, بئر غاني
 Bi'r Hadaj, بير هدج
 Bi'r Hashwī 'Abbūd, بئر هشوي عبود
@@ -7790,7 +7757,7 @@ Bi'r Mughar'idah, بئر مغرعدة
 Bi'r Mughān, Bîr Mor'hâne
 Bi'r Mujaybinah, Bîr Mjeïbna, بئر مجيبنة
 Bi'r Mulayhān Shannān, Bi'r Mulayhān Shanān, Bi'r Mulayhān Shunān, بئر مليحان شنان
-Bi'r Mulayḩān, Bîr Mlaïhâne, Bîr Mléhâne, بئر المليحان, بئر مليحان
+Bi'r Mulayḩān, Bîr Mlaïhâne, Bîr Mléhâne, بئر المليحان, بئر مليحان, بير مليحان
 Bi'r Munayjīd, Bi'r Sunayjīd, بئر منيجيد
 Bi'r Murayghān, Bîr Mreïrhâne, بئر مريغان
 Bi'r Murayr, بئر مرير
@@ -7829,12 +7796,12 @@ Bi'r Qaşr al Ḩayr, Bîr Qar el Haïr, Bîr Qasr el Haïr
 Bi'r Qaţţārī, Bi'r Qaţārī, بئر قطاري
 Bi'r Qinān, Bîr Qennâne, بئر قنان
 Bi'r Qirmidlī, Bi'r Qarmadlī, بئر قرمدلي
-Bi'r Qudaym, Bi'r Qadam, Bir Kdem, Bir Qdem, Bîr Qdeïm
+Bi'r Qudaym, Bi'r Qadam, Bir Kdem, Bir Qdem, Bîr Qdeïm, Qdeïm, Qudaym, بير قديم
 Bi'r Qur'ush, Bi'r Qar'ash, بئر قرعش
 Bi'r Qur'ān, بئر قرعان
 Bi'r Quraydān, Bîr Qreïdâne, بئر قريدان
 Bi'r Qurnah, بئر قرنة
-Bi'r Quşaybah, بئر قصيبة
+Bi'r Quşaybah, 'Ayn Quşaybah, Aïn Kseïbe, Bir Kseïbé, El Quseibe, بئر قصيبة, بير قصيبة
 Bi'r Quşayr al Qiblī, Bîr Qseïr el Qibli
 Bi'r Quşayy, Bi'r 'Abīrah, بئر عبيرة, بئر قصي
 Bi'r Quţnah, Bîr Kotné, Bîr Qotné
@@ -7846,7 +7813,7 @@ Bi'r Rabābah, Bir Rababb, Bir Rababba
 Bi'r Rakiyé
 Bi'r Rashwānī, Bi'r Rishwānī, بئر رشواني
 Bi'r Rayyānah, Bîr Raïyana, Bîr Raïyâne
-Bi'r Raḩūm
+Bi'r Raḩūm, Biyār er Rehūm, Biâr er R'houm, Raoum, Raḩūb, Rehūb, بير رجوم
 Bi'r Rijlat al Ḩabā, بئر رجلة الحبا
 Bi'r Rimāḩ, بئر رماح
 Bi'r Rujm al Waḩl, BiH̱r Rujm al Waḩl, بئر رجم الوحل
@@ -7857,7 +7824,7 @@ Bi'r Ruwayyān, Bîr Rouaïyâne
 Bi'r Rāmī, بئر رامي
 Bi'r Rāsh, Bir Râch, Birrech
 Bi'r Sa'dūn, Bi'r Saḩdūn, بئر سعدون
-Bi'r Sa'īd, بئر سعيد
+Bi'r Sa'īd, بئر سعيد, يبر سعيد
 Bi'r Sa'īd Shu'aybī, Bi'r Sa'īd Sha'ībī, Bi'r Sa'īd Shi'bī, بئر سعيد شعيبي
 Bi'r Sab'an, بئر سبعان
 Bi'r Sabājī, Bi'r Sbâchi, بئر سباجي
@@ -7879,7 +7846,7 @@ Bi'r Shukayb al Badawī, بئر شكيب البدوي
 Bi'r Shukrī al Furayy, Bir Sakar, Bîr Soukkari el Freï, بئر شكري الفري
 Bi'r Shunaytīl, Bîr Chaïtil, Bîr Chnaïtîl, بئر شىيتل
 Bi'r Shuwayshāt, بئر شويشات
-Bi'r Shuwayḩān, بئر شويحان
+Bi'r Shuwayḩān, Bîr Chouaïhâne, Bîr Choueïhâne, بئر شويحان, بير شويحان
 Bi'r Shādī, بئر شادي
 Bi'r Shār Duyūrid 'Alīyah, بئر شار ديورد علية
 Bi'r Sulaym, Bi'r as Sulaym, Bîr Slêm, Bîr es Sleïm, بئر سليم
@@ -7897,7 +7864,7 @@ Bi'r Thaym, بئر ثيم
 Bi'r Thurayyā, Bi'r Surayyah, Bîr Seuraja, Bîr Souraiya, Bîr Souraya, بئر ثريا
 Bi'r Thuriyān, بئر ثريان
 Bi'r Tulaylah, Bîr Tlela, بئر تليلة
-Bi'r Tuwaynān, Bir Tunwaynah, Bîr Touaïnâne, Bîr Toueïnâne, بئر توينان
+Bi'r Tuwaynān, Bir Tunwaynah, Bîr Touaïnâne, Bîr Toueïnâne, بئر توينان, بير توينان
 Bi'r Tīzinjah, Bi'r Tayzinjah, Bi'r Tazandīyah, بئر تيزنجة
 Bi'r Ukruk, Bi'r Akrak, بئر أكرك
 Bi'r Umm Salīm, Bîr Oum Salîm, بئر أم سليم
@@ -7919,13 +7886,13 @@ Bi'r adh Dhahab, Bîr ed Dahab, Bîr el Ouahad
 Bi'r al 'Abbās, بئر العباس
 Bi'r al 'Abbāsīyah, بئر العباسية
 Bi'r al 'Abīd, Ābār al 'Abīd, بئر العبيد
-Bi'r al 'Addād, Bîr el Aaddâd, بئر العداد
+Bi'r al 'Addād, Bîr el Aaddâd, بئر العداد, بير العداد
 Bi'r al 'Adās, Bîr el Aadass, Bîr el Adess, بئر العداس
 Bi'r al 'Akārish, بئر العكارش
 Bi'r al 'Allunī, Bi'r Ḩallūm, Bi'r Ḩallūnī, Bir Halloum, Bir Hallouni, بئر العلوني
 Bi'r al 'Ammālah, Bîr el Aammâla
 Bi'r al 'Amrī, BiH̱r al 'Amrī, بئر العمري
-Bi'r al 'Amā, بير العما
+Bi'r al 'Amā, Bîr el Âama, بير العما
 Bi'r al 'Arabī, بئر العربي
 Bi'r al 'Arūs, بئر العروس
 Bi'r al 'Azīb al Gharbī, Bi'r al Az īb al Gharbī, بئر العزيب الغربي
@@ -7936,7 +7903,6 @@ Bi'r al 'Urwah, بئر العروة
 Bi'r al 'Uwayḑah, Bîr el Aaoueïda, بئر العويضة
 Bi'r al 'Āşāfīr
 Bi'r al 'Āşī, بئر العاصي
-Bi'r al A'má, Bîr el Âama
 Bi'r al A'waj, Bîr el Aaouaj
 Bi'r al Abyaḑ, Bîr el Abiad, بئر الأبيض
 Bi'r al Afā'ī, بئر الأفاعي, بير الأفاعي
@@ -7964,10 +7930,10 @@ Bi'r al Farrūbī, بئر الفروبي
 Bi'r al Fatlah, Bîr el Fatli
 Bi'r al Fawwār, بئر الفوار
 Bi'r al Fawā'irah, بئر الفواعرة
-Bi'r al Fāsidah
+Bi'r al Fāsidah, بير الفاسدة
 Bi'r al Ghalīz̧, Bîr el Rhadid, Bîr el Rhalid
 Bi'r al Ghanāyim, بئر الغنايم
-Bi'r al Ghazālah
+Bi'r al Ghazālah, بير الغزالة
 Bi'r al Ghazālī, بئر الغزالي
 Bi'r al Ghārah, بئر الغارة
 Bi'r al Hashm, بئر الهشم
@@ -7988,7 +7954,7 @@ Bi'r al Jufayf, Bi'r Jufayfah, Bîr Jfeïfa, بئر الجفيف
 Bi'r al Jurayş, Bi'r al Jraïs, Bîr ej Jreïss, بئر الجريص
 Bi'r al Juwayf, Bîr Jouaïf, بئر الجويف
 Bi'r al Jā'if, Bîr ej Jâyef
-Bi'r al Jāyif
+Bi'r al Jāyif, بير الجايف
 Bi'r al Jūḩ, Bir el Jouh, Bîr ej Joûh
 Bi'r al Kabīr, بئر الكبير
 Bi'r al Karrājāt, بئر الكراجات
@@ -8035,7 +8001,7 @@ Bi'r al Muwayr, بئر الموير
 Bi'r al Muḩallaq, Bîr el Mohallaq
 Bi'r al Muḩazzam, Bîr el Mohazzem, بئر المحزم
 Bi'r al Māliḩ, بئر المالح
-Bi'r al Māliḩah, Bi'r al Matha, بئر المالحة
+Bi'r al Māliḩah, Bi'r Māliḩah, Bi'r al Matha, Bîr Mâlha, بئر المالحة, بير مليحة
 Bi'r al Māsik, بئر الماسك
 Bi'r al Najras, بئر النجرس
 Bi'r al Qa'qa', بئر القعقاع
@@ -8073,7 +8039,7 @@ Bi'r al Ḩāsah, بئر الحاسة
 Bi'r an Na'ām 'Abd al 'Azīz, Bîr enn Naâm Aabd el Aazîz
 Bi'r an Na'ām al Kharfān, Bîr enn Naâm el Kherfâne
 Bi'r an Na'īrah, بئر النعيرة
-Bi'r an Nabāj, Bîr enn Nbâj
+Bi'r an Nabāj, Bîr enn Nbâj, بير نباج
 Bi'r an Naqnāqīyah, بئر النقناقية
 Bi'r an Nashmī, Bîr enn Néchmi
 Bi'r an Naşşūf, بئر النصوف
@@ -8083,16 +8049,16 @@ Bi'r an Nā'işah, بئر الناعصة
 Bi'r ar Rafrāf, بئر الرفراف
 Bi'r ar Rammāḩ, بئر الرماح
 Bi'r ar Ratqah, Bir Ratga, Bîr Ratqa, Bīr Ratkah, بير رتكة
-Bi'r ar Rawḑah, Bîr Raouda
+Bi'r ar Rawḑah, Bîr Raouda, Bîr Raouda II, بير الروضة
 Bi'r ar Rayjah, بئر الريجة
 Bi'r ar Rayy, بئر الرعي
-Bi'r ar Raḩāwī
+Bi'r ar Raḩāwī, بير الرحاوي
 Bi'r ar Rukhaymah, Bîr Erkheïme, بئر الرخيمة
 Bi'r ar Ruknīyah, Bîr er Reknîyé, بئر الركنية
 Bi'r ar Rummān, Bîr Roummâne
 Bi'r ar Ruqayy, Bîr Rqeï
 Bi'r as Sa'ād
-Bi'r as Sab', Bi'r as Sabb'a, Bi'ār as Sabbāḩ, Biar es Sobbah, Bîar es Soubbâh, بئر السبع
+Bi'r as Sab', Bi'r as Sabb'a, Bi'r aş Şabāḩ, Bi'ār as Sabbāḩ, Biar es Sobbah, Bî Herbel, Bîar es Soubbâh, Bîr Herbel, Bîr es Sabâh Ferme, Bīr Ḩarbal, Bīr Ḩarbul, بئر السبع, بير السبع, بير حربل
 Bi'r as Sanāmīyat, بئر السناميان
 Bi'r as Sarbūkh, بئر السربوخ
 Bi'r as Sawādah, Bi'r as Sawādī, Bîr es Saouadi, بئر السوادة
@@ -8111,7 +8077,7 @@ Bi'r at Tays al Ḩadarī, بئر التيس الحدري
 Bi'r at Tīn, Bîr et Tîne
 Bi'r az Zalaf, بئر الزلف
 Bi'r az Zamah, Bi'r az Zumah
-Bi'r az Zanātī
+Bi'r az Zanātī, بير الزناتي
 Bi'r az Zarqā', Tourki
 Bi'r az Zarrāb, Bîr ez Zerrâb
 Bi'r az Zayn, بئر الزين
@@ -8169,7 +8135,7 @@ Bi'r Ḩulw, Bîr Hélou, بئر حلو
 Bi'r Ḩumaydī, Bi'r Ḩamīdī, بئر حميدي
 Bi'r Ḩumaymah, Bir Houmaima, Bir Houmeima, Hmaïmé, Hmaïmé Bîr, Hmeimé, Humeima, بئر حميمة
 Bi'r Ḩuraybī, بئر حريبي
-Bi'r Ḩusayn 'Alī Rāshid
+Bi'r Ḩusayn 'Alī Rāshid, بير حسين علي راشد
 Bi'r Ḩusayn an Na'sān, بئر حسين النعسان
 Bi'r Ḩuwayjah, بئر حويجة
 Bi'r Ḩājj Khalīf, بئر حاج خليف
@@ -8553,8 +8519,7 @@ Bāb al Baydar, باب البيدر
 Bāb al Burāq, Bab el Brâq, باب البراق
 Bāb al Bustān, باب البستان
 Bāb al Faraj, باب الفرج
-Bāb al Hawá, Bab el Haoua, Bouâb el Haoua, Kanî Neimê, Kanî Neymê, باب الهوا, باب الهوى, كانى نەيمێ, كاني نمي
-Bāb al Hawā', باب الهواء
+Bāb al Hawā', Bab el Haoua, Bouâb el Haoua, Kanî Neimê, Kanî Neymê, باب الهوا, باب الهوى, كانى نەيمێ, كاني نمي
 Bāb al Jisr, باب الجسر
 Bāb al Jābiyah, Bab el Jabiyeh, باب الجابية
 Bāb al Khayr, Bed El Hayır, Bâb el Khaïr, Bâb el Kheïr, باب الخير
@@ -8652,7 +8617,6 @@ Bāḩmūnā, باحمونا
 Bībār, Al Bībār, بيبار
 Bījān, Bidjane, Bîjâne
 Bīl Wīrān, Bel Virâne, Bīl Wayrān, الظاهرية, بيل ويران
-Bīr 'Abyān, بير عبيان
 Bīr 'Abīd, بير عبيد
 Bīr 'Aflah, Bi'r Āfilah, Bîr Aafla, Bîr Eufla, بير عفلة
 Bīr 'Alyān, بير عليان
@@ -8668,16 +8632,12 @@ Bīr 'Ulwān Ḩassān, Bi'r 'Ulaywān Ḩassān, بير علوان حسان
 Bīr 'Urayḑah, بير عريضة
 Bīr 'Urqūbah, Bîr Aarqoûba, بير عرقوبة
 Bīr 'Uwayj, Bi'r al Aâoueje, Bîr el Aâouej, بير عويج
-Bīr Abū Fayyāḑ, بير أبو فياض
 Bīr Abū Julūd, Bîr Abou Jloûd, بير أبو جلود
-Bīr Abū Kabrā, بير أبو كبرا
 Bīr Abū Khayyā, بير أبو خيا
 Bīr Abū Mayyāl, Bîr Abou Mîâl, Bîr Abū Miâl, بير أبو ميال
 Bīr Abū Naytal, Bîr Abou Neïtal, بير أبو نيتل
 Bīr Abū Qahwah, بير أبو قهوة
 Bīr Abū Qanāţir, Bîr Abou Qanâter, بير ابو قناطر
-Bīr Abū Qaţţāsh, بير أبو قطاش
-Bīr Abū Sanābil, بير ِأبو سنابل
 Bīr Abū Suqqār, Bi'r Abū Şuqār, بير أبو سقار
 Bīr Abū Tab'ah, بير أبو تبعة
 Bīr Abū al 'Allāj, بير أبو العلاج
@@ -8687,7 +8647,6 @@ Bīr Abū Ḩāmāt, بير أبو حامات
 Bīr Admān, بير أدمان
 Bīr Akhū Hadlah, بير أخو هدلة
 Bīr Barbar, Bîr Berber, بير بربر
-Bīr Barzān, Bi'r Birzān, بير برزان
 Bīr Bukhūz, بير بخوز
 Bīr Bāzān, Bîr Bâzâne, بير بازان
 Bīr Dafāyin, بير دفاين
@@ -8704,7 +8663,6 @@ Bīr Dīdī, Bi'r ad Dīdī, بير ديدي
 Bīr Ghadīr, بير غدير
 Bīr Ghadīr 'Abbās, بير غدير عباس
 Bīr Ghuraybah, Bi'r Gharbīyah, Bi'r Umm 'Uqayribah, Bîr Oum Aaqraïbé, بير غريبة
-Bīr Ghuraytā, بير غريتا
 Bīr Guthwān, Bi'r Ghathwān, بير غثوان
 Bīr Hasanā, بير حسنا
 Bīr Hawāsh, بير هواش
@@ -8743,38 +8701,31 @@ Bīr Maslūkhī, بير مسلوخي
 Bīr Mazyūnah, بير مزيونة
 Bīr Maşqarat Qalsh, Bīr Maşqarat Qalash, بير مصقرة قلش
 Bīr Maḩjah, بير محجة
-Bīr Mulayḩān, بير مليحان
 Bīr Munay'īyat 'Aqūmī, Bi'r Manī'īyat 'Aqūmī, Bîr Manai'yeh Aaqoûmi, بير منيعية عقومي
 Bīr Muşţafá, Bîr Moustapha, Bîr Moustaphej, بير مصطفى
 Bīr Muḩammad Dāghir, بير محمد داغر
 Bīr Muḩammad al Fayyāḑ, بير محمد الفياض
 Bīr Muḩaysin, بير محيسن
-Bīr Nabāj, بير نباج
 Bīr Nūḩ, Bîr Noûh, بير نوح
 Bīr Qabāqib, Bi'r Ghabāghib, Bir Gabajib, Bir Kabakib, Bir Rhabarhib Qaraqol, Biyār Ghabāghib, Biâr Rhabârheb, بير قباقب
 Bīr Qarā Hulayb, بير قرا حليب
 Bīr Qawrān, بير قوران
 Bīr Qiblat an Naz̧īm, Bi'r Qiblat an Nuz̧aym, بير قبلة النظيم
 Bīr Qubaybah, Bîr Qoubeïba, بير قبيبة
-Bīr Qudaym, Qdeïm, Qudaym, بير قديم
 Bīr Qulayb, بير قليب
 Bīr Qurrat Bit, Bi'r Quwwah Bit, بير قوة بت
-Bīr Quşaybah, 'Ayn Quşaybah, Aïn Kseïbe, Bir Kseïbé, El Quseibe, بير قصيبة
 Bīr Qābīn, بير قابين
 Bīr Raylān, Bîr Reïlâne, بير ريلان
-Bīr Raḩūm, Biyār er Rehūm, Biâr er R'houm, Raoum, Raḩūb, Rehūb, بير رجوم
 Bīr Rijlā, بير رجلا
 Bīr Rumaylān, بير رميلان
 Bīr Rākān, بيرراكان
 Bīr Rāzah, Bîr Râza, بير رازة
-Bīr Sa'īd, يبر سعيد
 Bīr Sahl, Bi'r Sahl al Qāyāt, Bir Sahl el Qayâte, Bîr es Sahl, بير سهل
 Bīr Sakri, بير سكري
 Bīr Shamandūr, بير شمندور
 Bīr Shaqal, Bîr Chaqal, بير شقل
 Bīr Shaykh Ḩammād, بير شيخ حماد
 Bīr Shuwaylān, Bîr Choueïlâne, بير شويلان
-Bīr Shuwayḩān, Bîr Chouaïhâne, Bîr Choueïhâne, بير شويحان
 Bīr Shīfān, بير شيفان
 Bīr Sufaylān, Bîr Sfeïlâne, بير سفيلان
 Bīr Sumaydī, بير سميدي
@@ -8782,7 +8733,6 @@ Bīr Sumaylān, Bîr Smeïlâne, بير سميلان
 Bīr Surūr, Bîr Sroûr, بير سرور
 Bīr Sānā, بير سانا
 Bīr Turkī Safr, Bi'r Turkī, بير تركي سفر
-Bīr Tuwaynān, بير توينان
 Bīr Umayyah, Bîr Oumaïya, Bîr Oumaïyer, بير أمية
 Bīr Umm Ghurūbā, Bi'r Umm 'Aqrabah, Bi'r Umm Ghurūbah, Bir Oumm Aaqroba, Oum Aaqrabé, Oumm Ogroba, بير أم غروبا
 Bīr Umm Qalaq, بير أم قلق
@@ -8790,7 +8740,6 @@ Bīr Umm al Qabābīr, Bīr Umm al Tabābīr, بير أم القبابير
 Bīr Zaḩmīyah, Bîr Zahmîya, بير زحمية
 Bīr ad Dufaynah, بير الدفينة
 Bīr ad Dulay'īyāt, بير الدليعيات
-Bīr al 'Addād, بير العداد
 Bīr al 'Ajl, Bi'r al 'Ijl, بير العجل
 Bīr al 'Amālah, بير العمالة
 Bīr al 'Aţshān, بير العطشان
@@ -8800,15 +8749,11 @@ Bīr al 'Uqayşīyah, بير العقيية
 Bīr al Ash'al, بير الأشعل
 Bīr al Bidāḩ, بير البداح
 Bīr al Faras, بير الفرس
-Bīr al Fāsidah, بير الفاسدة
 Bīr al Fāḑil, بير الفاضل
-Bīr al Ghazālah, بير الغزالة
-Bīr al Jāyif, بير الجايف
 Bīr al Khafsah, Bîr el Khafsa, بير الخفسة
 Bīr al Kharāyij, بير الخرايج
 Bīr al Kuwayr, بير الكوير
 Bīr al Ma'āyir, بير المعاير
-Bīr al Malīḩah, Bi'r Māliḩah, Bîr Mâlha, بير مليحة
 Bīr al Munay'īyah, Bi'r al Manī'īyah, Bîr Manaïyeh, بير المنيعية
 Bīr al Mā'in, بير الماعن
 Bīr al Mādim, بير المادم
@@ -8821,9 +8766,6 @@ Bīr al Ḩabā, يبر الحبا
 Bīr al Ḩawījah, Bîr el Haouîja, بير الحويجة
 Bīr al Ḩisyān, بير الحسيان
 Bīr al Ḩāwūz̧, بير الحاووظ
-Bīr ar Rawḑah, Bîr Raouda II, بير الروضة
-Bīr ar Raḩāwī, بير الرحاوي
-Bīr as Sab', Bi'r aş Şabāḩ, Bî Herbel, Bîr Herbel, Bîr es Sabâh Ferme, Bīr Ḩarbal, Bīr Ḩarbul, بير السبع, بير حربل
 Bīr as Sahl, Bi'r as Sahal, يبر السهل
 Bīr as Sukkarī, Bîr es Soukkari, بير السكري
 Bīr as Suqqār, بير السقار
@@ -8834,7 +8776,6 @@ Bīr ath Thamād, بير الثماد
 Bīr az Zabad, بير الزبد
 Bīr az Zaghārī, يبر الزغاري
 Bīr az Zamlah, بير الزملة
-Bīr az Zanātī, بير الزناتي
 Bīr az Zuqum, Bi'r Zuqum, بير الزقم
 Bīr aş Şadrānī, بير الصدراني
 Bīr aş Şayyād, Bîr es Saïyâd, بير الصياد
@@ -8860,7 +8801,6 @@ Bīr Ḩasan 'Ammū, بير حسن عمو
 Bīr Ḩasan al Faḩl, بير حسن الفحل
 Bīr Ḩiwārān, بير حواران
 Bīr Ḩuqūl aş Şīn, بير حقول الصين
-Bīr Ḩusayn 'Alī Rāshid, بير حسين علي راشد
 Bīr Ḩusayn Asmar, بير حسين أسمر
 Bīr Ḩājj Mīlāsh, بير حاج ميلاش
 Bīr Ḩājj Mūsá al Hindī, بير حاج موسى الهندي
@@ -9743,7 +9683,7 @@ Iḩsim, Aḩsim, Ehsem, إحسم
 Iḩtaymilāt, Htimbate, Hutaymilāt, Ihteïmlâte, Iḩtamīlat, احتملات‎, احتيملات
 Ja'bar Gharbī, Ja'bār, Jabbār, جعبر غربي
 Ja'bar Sharqī, Ja'bār, Jabbār, جعبر شرقي
-Ja'dīn, Ja'dah al Kabirah, Ja'dīn al Kabīrah, جعدين
+Ja'dīn, Ja'dah al Kabirah, Ja'dīn al Kabīrah, Jdîné, Jdīn, Jiddīn, Jidin, جدين
 Ja'dīn aş Şaghīrah, Ja'dah aş Şaghīrah, جعدين الصغيرة
 Ja'far aţ Ţayār, جعفر الطيار
 Ja'farīyāt Fawqānī, Ja'farīyāt, Ja'farīyāt al Fawqānī, Jaafariyat Faoukani, Jaafarîyâte, Jaafarîyâte Faouqâni, Jafryate, جعفريات, جعفريات فوقاني
@@ -10385,7 +10325,6 @@ Jabal al Abyaḑ, Jebel el Abiad, جبل الأبيض
 Jabal al Ahrām
 Jabal al Akrād
 Jabal al Amīr, جبل الأمير
-Jabal al Aqra', جبل الأقرع
 Jabal al Arba'īn, Djebel Erbaïn, Jabal Arba'īn, Jabal Arbaïne, Jebel Arbaine, جبل أربعين, جبل الأربعين
 Jabal al Arḑ al Kabīrah, جبل الارض الكبيرة
 Jabal al Aswad, Jabal el Assouad, Jebel Asouad, Shārat Tall al Aswad, Tell el Assouad, جبل الأسود, شارة تل الأسود
@@ -10728,8 +10667,7 @@ Jabal Şawwānat Shuţayb, Jebel Soûanet ech Chteïb
 Jabal Şawwānat Tuwaynān, Jabal Saouânet Toueïnâne, جبل صوانة توينان
 Jabal Şawwānat al Fuşaydah, Jabal Şawwānat Fāsidah, Jebel Saouânet Fâsde, جبل صوانة الفصيدة
 Jabal Şawwānat al Miḩassah, Jabal Şawwānat Miḩassah, Maksar Ibn Nemer, Maksar Ibn Nemer Roûs, Maqsar eben Nemer Rouss, جبل صوانة المحسة
-Jabal Şawwānat al Ḩamrā, جبل صوانة الحمرا
-Jabal Şawwānat al Ḩamrā', Dahr Saouânet Hamra
+Jabal Şawwānat al Ḩamrā', Dahr Saouânet Hamra, جبل صوانة الحمرا
 Jabal Şawwānat ash Shahbā', جبل صوانة الشهبا
 Jabal Şawwānāt Ma'rabā, جبل صوانة معربا
 Jabal Şawānnat ash Shahbā, Souéouînâte ech Chaaba, Şuwaywīnāt ash Shu'bah, جبل صوانة الشهبا
@@ -10820,7 +10758,6 @@ Jadyā, Jediya, جديا
 Jadīd 'Uqaydāt, جديد عقيدات
 Jadīd Bū Khayr, جديد بو خير
 Jadīdah, جديدة
-Jadīn, Jdîné, Jdīn, Jiddīn, Jidin, جدين
 Jadū', Djeddoua, Jaddoûaâ, Jaddū'ah, جدوع
 Jaf'ah, Jafaa, جفعة
 Jafar al Ḩawtah, جفر الحوتة
@@ -11120,7 +11057,7 @@ Jubb ad Dāyif, جب الدايف
 Jubb ad Dīnah, جب الدينة
 Jubb al 'Abd, جب العبد
 Jubb al 'Abdah, جب العبدة
-Jubb al 'Amā, جب العما
+Jubb al 'Amā, Joubb el Aama, جب العما
 Jubb al 'Arūnah, Joubb el Aaroûné, Joubb el Arouné, جب العرونة
 Jubb al 'Arūs, Djoubb el Aarous, Joubb el Aaroûs, جب العروس
 Jubb al 'Asharah, Joubb el Aachara, جب العشرة
@@ -11131,7 +11068,6 @@ Jubb al 'Uyūr, جب العيور
 Jubb al 'Ālī, Djoub Ali, Joubb Aali, Joubb el Aâli, Jubb 'Alī, جب العلي, جب عالي
 Jubb al 'Āşī, جب العاصي
 Jubb al 'Īd, جب العيد
-Jubb al A'má, Joubb el Aama
 Jubb al Abyaḑ, Djoub el Abeyed, Joubb Abiad, Joubb el Abiab, Joubb el Abiad, جب الأبيض
 Jubb al Aswad, Jubb al Us̄d, جب الأسود
 Jubb al Aḩmar, Joubb el Ahmar, جب الأحمر
@@ -12402,7 +12338,6 @@ Khirbat al Burj, Kheurbet el Borj, خربة البرج
 Khirbat al Bustān, خربة البستان
 Khirbat al Buwayr, Kheurbet el Bóuaïr, Khirbat al Bu'ayr, خربة البوير
 Khirbat al Bāgh, Kheurbet el Barh, Kheurbet el Barhl, Khirbat al Baghl, خربة الباغ, خربة البغل
-Khirbat al Bīr, Kheurbet el Bîr, خربة البير
 Khirbat al Fajr, خربة الفجر
 Khirbat al Faras, Kh. el Farass, Kheurbet el Farass, خربة الفرس
 Khirbat al Ghadīr, خربة الغدير
@@ -12472,7 +12407,6 @@ Khirbat ar Rayyis, خربة الريس
 Khirbat ar Ruzz, Kheurbet er Reuz, خربة الرز
 Khirbat ar Rīḩ, Kheurbet er Rîh, خربة الريح
 Khirbat ar Rūs, Kheurbet er Roûs, Khirbat Rūs, خربة الروس
-Khirbat as Sab', خربة السبع
 Khirbat as Sabalīyah, Khirbat as Sbalhi, Khirbat as Sibalīh, خربة السبلية
 Khirbat as Sakīq, خرية السكيق
 Khirbat as Samrā', Kheurbet es Samra, خربة السمراء
@@ -12498,7 +12432,7 @@ Khirbat at Tūtah, خربة التوتة
 Khirbat ath Thīb, خربة الثيب
 Khirbat az Zammālah, Kheurbet ez Zammâlé, Khirbat Zammālah, خربة الزمالة
 Khirbat az Zumar, خربة الزمر
-Khirbat aş Şa'b, خربة الصعب
+Khirbat aş Şa'b, خربة السبع
 Khirbat aş Şalājī, Kheurbet es Saladji, Şalājī
 Khirbat aş Şarāyij, خربة الصرايج
 Khirbat aţ Ţalā'i', Kheurbet Qalâyéaa, Kheurbet ett Talâyéaa, خربة الطلائع
@@ -13051,7 +12985,7 @@ Ma'būr Qal'at as Sinān, معبور قلعة السنان
 Ma'dar, Maadar, معدر
 Ma'din, Maadann
 Ma'din 'Atīq, Ma'din al 'Atīq, Maadann el Aatîq, معدن عتيق
-Ma'dān, Khan Maddan, Ma'din Jadīd, Maadann, معدان, معدن جديد
+Ma'dān, Khan Maddan, Ma'din Jadīd, Maadann, مدان, معدن جديد
 Ma'k, Maak, معك
 Ma'mal Kafārīyah, معمل كفارية
 Ma'mal Ūshāghī, Al Ma'āmil, Ma'mal Ūshānjī, Maamal Ouchârhi, المعامل, معمل اوشاغي, معمل اوشانجي
@@ -13096,7 +13030,6 @@ Madraj ar Rayḩān, مدرج الريحان
 Madraj ash Sharīkah, مدرج الشريكة
 Madrasah, Madrassé, مدرسة
 Madrasat Ḩawr, Souhoûr, Suḩūr, مدرسة حور
-Madān, مدان
 Madāyah, مداية
 Madāyin Kabīrah, Madâyène, Madā'in, مداين كبيرة
 Madīnah, Médîné, مدينة
@@ -13493,7 +13426,7 @@ Marāḩāt al Ḩunaysh, مراحات الحنيش
 Marīţ, Merit, Mârîte, المنارة, ماريت
 Marş 'Uraymān, مرص عريمان
 Marḩamīyah, Mar'hamîyé, مرحمية
-Mas'adah, El Mes 'ade, El Mesadi, Maassaadé, Massaadé, Massadé, Messadi, المسعدة, مسعدة
+Mas'adah, El Mes 'ade, El Mesadi, Maassaadé, Massaadé, Massadé, Messadi, المسعدة, مسادة
 Mas'ūd, Massaoûd, مسعود
 Mas'ūd ar Rafī'ah, مسعود الرفيعة
 Mas'ūdīyah, El Massaoudiyé, Massaoûdîye, Massoûdîyé, Msaïyed, مسعودية
@@ -13576,7 +13509,6 @@ Mastūr 'Āshūr, 'Āshūr, حجي قاسمللي, عاشور, مستور عاش
 Mastūrah, مستورة
 Masyaf District, Massiâf, Minţaqat Maşyāf, Misiaf, Qaḑā' Maşyāf, منطقة مصياف
 Masābat az Zafrah, مسابة الزفرة
-Masādah, مسادة
 Masākin Barzah, مساكن برزة
 Masākin al Buḩūth al 'Ilmīyah, مساكن البحوث العلمية
 Masākin al Muhandisīn, مساكن المهندسين
@@ -14552,7 +14484,6 @@ Na'mū al Gharbīyah, Naamo el Rharbîyé, نعمو الغربية
 Na'mū al Jurd, Naamo ej Jourd, نعمو الجرد
 Na'nū, Naano, نعنو
 Na'rah, Naara, نعرة
-Na'āmīyah, نعامية
 Na'īm Diyāb, نعيم دياب
 Nab' 'Ushsh Qubbīyah, نبع عش قبية
 Nab' Aş'anūd, نبع أصعنود
@@ -14751,7 +14682,6 @@ Nahr al Jarbā, نهر الجربا
 Nahr al Judaydah, نهر الجديدة
 Nahr al Jīlānī, نهر الجيلاني
 Nahr al Ka'bīyah, Nahr el Kaabîyé, Nahr el Qaqi
-Nahr al Kabīr, نهر الكبير
 Nahr al Katiḩ, نهر الكتح
 Nahr al Katkh, نهر الكتخ
 Nahr al Kawm, Nahr al Qawm, Nahr el Koûm
@@ -14814,7 +14744,6 @@ Nahr as Sājūr, Bağırsak Dere, Bağırsak Deresi, Nahr Sājūr, Sacirsuyu, Sa
 Nahr as Sārūt, Nahr es Saroûte, Sarout, Saruj, نهر الساروت
 Nahr as Sīḩ
 Nahr ash Shammarlīyah, نهر الشمرلية
-Nahr ash Shamālī, نهر الشمالي
 Nahr ash Shaqāyiq, نهر الشقايق
 Nahr ash Sharshūr, نهر الشرشور
 Nahr ash Sharāshīr, Nahr Erumali, Nahr ar Ramlah, Nahr er Ramlé, Nahr er Rumele, نهر الرملة, نهر الشراشير
@@ -14856,14 +14785,12 @@ Najrān, Najrâne, نجران
 Najāḩ al Jarrāḩ, نجاح الجراح
 Nakshī, Naqehi, Naqshah, نكشي
 Namirīyah, Namrîyé, نمرية
-Nammūrah, نمورة
 Naq'at Tūmān, نقعة تومان
 Naqqār 'Uyūn aş 'Aşāfīr, نقار عيون العصافير
 Naqqārah, نقارة
 Naqqārīn, Naqqârîne, Naqrine, نقارين
 Naqr al Bulūţ, نقر البلوط
 Naqāqīb Abū Fawāris, Naqâqîb Abou Faouâriss
-Naqīr, نقير
 Naqīrah, Nadīrah, Ndîra, Nkiré, نقيرة
 Naqţarūn
 Naqūt, Naqoûte, نقوط
@@ -14886,9 +14813,7 @@ Nazīlah, نزيلة
 Naşr Allāh, Naceur Allah, نصر آلله
 Naşrīyat ar Ruwayḩānīyah, نصرية الرويحانية
 Naşīb, Nassîb, نصيب
-Naḩl, Nahal, Naḩl al 'Annāzah, نحل, نحل العنازة
 Naḩl al Jurd, Nahal ej Jourd, نهل الجرد
-Naḩlah, Nahli, Nahlé, Nuḩaylah, نحلة, نحيلة
 Naḩlayyā, Naḩlayā, نحليا
 Naḩshabbā, Jabal Naḩshabbā, Jebel Nahchebba, Nahchebba, نحشبا
 Naḩw al Habrīyah, نحو الهبرية
@@ -14909,7 +14834,6 @@ Nubl at Taḩtānī, Nobol Tahtâni, Nobol ett Tahta, Nubul at Taḩtānī, نب
 Nufaylah, نفيلة
 Nufūd, نفود
 Nujayb, نجيب
-Nuqrah, Noqra
 Nuqrat ad Damm, Naqrat ad Damm, نقرة الدم
 Nuqūrū, Naqūrū, Nqoro, Nqoûra, Nqoûro, Nqūrū, نقورو
 Nuwayḩah, Naf-Dina, Naf-Dïha, Noueïha, نويحة
@@ -14918,15 +14842,13 @@ Nuwājat Maḩmūd Bak, Naouâjet Mahmoûd Bey, Nu'ājat Maḩmūd Bayk, نوا�
 Nuzayzah, Nzaïza
 Nuşş Tall, Nouss Tell, نص تل
 Nüstel Deresi
-Nābū'ah, Nâboûaâ, Nābū'ā, نابوعة
+Nābū'ah, Nâboûaâ, Nābū'ā, النبوعة, نابوعة
 Nāf, ناف
 Nāf Kūr, Nâf Kour, ناف كور
 Nāfi'īyah, Mafaaye, Nafaïyé, نافعية
 Nāmir, Hamara, Nâmer, نامر
 Nārūz, Nârôz, ناروز
 Nāyif, Nâyef, Nā'if, نايف
-Nāyifah, Nāyfah, نايفة
-Nāşirīyah, Nasrīyah, Nesrié, Nâsrîyé, ناصرية
 Nāḩitah, Naḩtah, Nâhté, ناحتة
 Nāḩiyat 'Arīmah, ناحية عريمة
 Nāḩiyat 'Ashārah, Nāḩiyat al 'Ashārah, ناحية العشارة, ناحية عشارة
@@ -15197,7 +15119,6 @@ Nāḩiyat Ḩīsh, ناحية حيش
 Nāḩūt, Nâhoûte, ناحوت
 Nīnatah, نينتة
 Nīnatat al Būr, Ninet el Boûr, Nīnah, Nīnat al Būr, نينة, نينتة البور
-Nīr al Gharbī, Nîr el Rharbi
 Nīr ash Shamālī, Nîr ech Chémâlî, نير الشمالي
 Nīr at Turkmān, نير التركمان
 Nīşāf, Nîssâf, نيصاف
@@ -15315,8 +15236,7 @@ Qal'at al Maḑīq, Kal'at al Madik, Kalaat Moudik, Kalat el Mudik, Qal'at al Mu
 Qal'at al Qanāh, قلعة القناة
 Qal'at al Qanţar, قلعة القنطر
 Qal'at al Ḩalzūn, قلعة الحلزون
-Qal'at al Ḩamrā, قلعة الحمرا
-Qal'at al Ḩamrā', قلعة الحمراء
+Qal'at al Ḩamrā', قلعة الحمرا
 Qal'at al Ḩamām, قلعة الحمام
 Qal'at al Ḩişn, قلعة الحصن
 Qal'at an Nusūrah, قلعة النسورة
@@ -17103,8 +17023,7 @@ Ruwaysat al Qāriḩ, Abū Kulayfūn, Rouaïsset el Qâreh, Ru'aysat al Qāriḩ
 Ruwaysat al Ḩajal, Rouaïset Hajel, Rouaïsset el Hajal, Rouesset el Hajel, Ru'aysat al Ḩajal, رويسة الحجل
 Ruwaysat al Ḩajarīyah, رويسة الحجرية
 Ruwaysat al Ḩajr, رويسة الحجر
-Ruwaysat al Ḩamrā, رويسة الحمرا
-Ruwaysat al Ḩamrā', رويسة الحمراء
+Ruwaysat al Ḩamrā', رويسة الحمرا
 Ruwaysat al Ḩursh, Rouaiset el Herch, Rouaïsset el Horch, Ru'aysat al Ḩursh, رويسة الحرش
 Ruwaysat al Ḩājj Khaḑir, Ruwaysat al Ḩājj Khiḑr, رويسة الحاج خضر
 Ruwaysat al Ḩāyik, Rouaïsset el Hâyek, Ru'aysat al Ḩā'ik, رويسة الحايك
@@ -17426,8 +17345,7 @@ Sahl al 'Anazah, Sahl Aannézé
 Sahl al 'Anz, Sahl el Aannz
 Sahl al Ashţā'ī, سهل الأشطائي
 Sahl al Fuhayd, سهل الفهيد
-Sahl al Hawá, Sahl el Haoua, سهل الهوى
-Sahl al Hawā', Sahl el Haoua
+Sahl al Hawā', Sahl el Haoua, سهل الهوى
 Sahl al Jalḩūf, سهل الجلحوف
 Sahl al Kawdan, سهل الكودن
 Sahl al Khabā'ir al Ḩāmidah, Sahl el Khabâyer el Hâmdé
@@ -17506,9 +17424,8 @@ Sahm adh Dharā, سهم الذرا
 Sahm al Aswad, سهم الأسود
 Sahm al Baydar, سهم البيدر
 Sahm al Bayk, سهم البيك
-Sahm al Bi'r, سهم البئر
+Sahm al Bi'r, سهم البئر, سهم البير
 Sahm al Burnus, سهم البرنس
-Sahm al Bīr, سهم البير
 Sahm al Kabīr, سهم الكبير
 Sahm al Khandaq, سهم الخندق
 Sahm al Khawr, سهم الخور
@@ -17570,7 +17487,6 @@ Salīmá, سليمى
 Salūlah, سلولة
 Salḩ al Jabrāhim, شهل الجبراهم
 Salḩabīyah, Al Khayālah, Al Salabiyah, Khayala, Salhabîyé, الخيالة, سلحبية
-Sam'ad, Samâda, Samādah, سمأد
 Samakūfah, Samakoûfé, سمكوفة
 Samaqāyah, سمقاية
 Samaytak Taḩtānī, Sémétek Taḩtānī, سيمتك تحتاني
@@ -18707,7 +18623,6 @@ Shārat al Ḩarrār, El Harrâr, Ra's al Ḩarrār
 Shārat al Ḩāḑirah, شارة الحادرة
 Shārat as Sarāb, شارة السراب
 Shārat ash Shaykh 'Alī, Cheikh Aali, Cheykh Ali, Sheikh 'Ali, شارة الشيخ علي
-Shārat ash Shaykh Ḩasan, شارة الشيخ حسن
 Shārat Şūrān, شارة صوران
 Shārat Ţawīl al Bil'ās, Taouil el Bilâs
 Shārat Ţuwāl al 'Abā, Touâl Aâba, Ţiwāl al 'Abā, شارة طوال العبا
@@ -18831,7 +18746,6 @@ Sihām Arba' Qilā', سهام اربع قلاع
 Sihām Arsa', سهام أرسع
 Sihām Ayyub al Qiblī, Sihām Īb al Qiblī, سهام أيب القبلي
 Sihām Ayyub ash Shamālī, سهام أيب الشمالي
-Sihām Aş Şāfiyah, سهام الصافية
 Sihām Başrá, سهام بصرى
 Sihām Başīr, سهام بصير
 Sihām Burūmā, سهام بروما
@@ -18977,8 +18891,7 @@ Sihām az Za'rūrah, سهام الزعرورة
 Sihām az Zirā'ah, سهام الزراعة
 Sihām az Zāwiyah, سهام الزاوية
 Sihām aş Şayyār, سهام الصيار
-Sihām aş Şaḩrā, سهام الصحرا
-Sihām aş Şaḩrā', سهام الصحراء
+Sihām aş Şaḩrā', سهام الصحرا
 Sihām aş Şun', سهام الصنع
 Sihām aş Şāfīyah, سهام الصافية
 Sihām aş Şīrah, سهام الصيرة
@@ -19345,7 +19258,7 @@ Sūsah, سوسة
 Sūsanbāţ, Soussembate, Soussennbâte, Soussoum Baat, سوسنبات
 Sūsiyān, Sa'siyān, Soûssiâne, سعسيان, سوسيان
 Sūsān, As Sūsān, Es Soûssâne, Soussâne, Ssûss, Susen, Şūş, السوسان, سوسان, سووسان, صوص
-Ta'lah, Ta'lā, Taalé, تعلا, تعلة
+Ta'lah, Ta'lā, Taalé, Til'ah, تعلا, تعلة
 Ta'lik, Taliku, Talīlah, Telik, Telk, Tellîk, Tigêla, Tilik, تعلك, تليك, تليلة, تگێلا
 Ta'nītā, Ta'nītah, Ta'rītā, Taanîta, تعنيتا
 Ta's ash Shāyir, Ti's ash Shāyir, تعس الشاير
@@ -19379,7 +19292,6 @@ Taghlab, Taghallub, تغلب
 Tajāhīl ad Dayr, تجاهيل الدير
 Takarlik, Taqarlaq, تكرلك
 Takīyah, At Takīyah, Et Tekkie, Et Tekīye, Ett Tkîyé, Tekieh, Tekiyé, Tkîyé, تكية
-Tal'ah, Til'ah, تلعة
 Tal'at Aaouaïd Fennîh
 Tal'at al Qaţţārah, تلعة القطارة
 Tal'at az Zarqā', تلعة الزرقاء
@@ -19442,7 +19354,7 @@ Tall 'Arnūs, تل عرنوس
 Tall 'Arqūnī, Shārat Tall Arqūnī, Tall Arghūni, Tall Arkūnī, Tel Arghoni, Tell Argoûni, Tell Arqoûni, Tell Arqoûné, تل عرقوني, شارة تل عرقوني
 Tall 'Arrī, تل عري
 Tall 'Arābah, تل عرابة
-Tall 'Arādah, Tell Aarâdé, تل عرادة
+Tall 'Arādah, Tell Aarâdé, Tell Arâde, تل ارادة
 Tall 'Arājah, Tell Aarâjé, تل عراجة
 Tall 'Arār, Tall al 'Ar'ār, Tell el Aarar, تل العرار, تل عرار
 Tall 'Arīsh, Tell Aarîch, تل عريش
@@ -19611,7 +19523,6 @@ Tall Arkhān, تل أرخان
 Tall Arkīs, تل أركيس
 Tall Arwiyah, تل أروية
 Tall Aryār, تل اريار
-Tall Arādah, Tell Arâde, تل ارادة
 Tall Arḑ 'Ubayb, تل أرض عبيب
 Tall Arḑ Ḩusayn Ibrāhīm, تل أرض حسين ابراهيم
 Tall Arḑāt, Rejem Ardâte
@@ -20126,13 +20037,11 @@ Tall Na'am Jillāt, Tall Naam al Jellâte, Tell Naam ej Jellâte, تل نعم ج
 Tall Na'am Kabīr, تل نعم كبير
 Tall Na'am Şaghīr, تل نعم صغير
 Tall Na'sānī, تل نعساني
-Tall Nabhān, Tell Nabhâne, تل نبهان
 Tall Nafkhīn, Tell Nafkhîne, تل نفخين
 Tall Nahrī, تل نهري
 Tall Nahīd, تل نهيد
 Tall Najhā, Tell Nejah
 Tall Najjār, An Najjār, Enn Najjar, تل نجار
-Tall Najmah, Tall Najm, تل نجمة
 Tall Naqr, Tall Nafar, تل نفر, تل نقر
 Tall Naqīrah, Tall Nadīrah, Tell Ndîra, Tell Nkiré, تل نقيرة
 Tall Nashābah, Tell Néchâbé
@@ -20594,8 +20503,7 @@ Tall al Hamer
 Tall al Hashsh, Tell el Hech, Tulūl al Ḩaysh, تل الهش
 Tall al Hashsh al 'Umrān, تل الهش العمران
 Tall al Hashsh al Kharbān, تل الهش الخربان
-Tall al Hawá, Gir Bala, Guir Balâte, Tell el Haoua, تل الهوى, كر بلاط, كربالات, گر بالا
-Tall al Hawā', Tell el Haoua, تل الهواء
+Tall al Hawā', Gir Bala, Guir Balâte, Tell el Haoua, تل الهواء, تل الهوى, كر بلاط, كربالات, گر بالا
 Tall al Hawādij, Tell el Haouadej
 Tall al Haşī, Ar Rāsī, Er Râssi, تل الحصي
 Tall al Hijān, Tell Hejane, Tell el Hijane, Tell el Hijân, تل الهجان
@@ -20853,13 +20761,13 @@ Tall al Ḩārrah, Jabal al Ḩārrah, Jebel Harra, Tell el Hârra, تل الح�
 Tall al Ḩāḑirah, Tall Hadirah, Tell Hadirah, تل الحاضرة
 Tall all 'Amīyah, Tall al Ḩimāyah, Tall all 'Amayyah, Tell el Hamaya, تل العمية, Ḑahr Khelassi, Ḑahr al Khalāşī
 Tall an Na'ām, Tell Naam, Tell enn Naâm, تل النعام, تل نعام
-Tall an Nabhān, تل النبهان
+Tall an Nabhān, Tell Nabhâne, تل النبهان, تل نبهان
 Tall an Nabī Ayyūb, Nebi Ayyu, Tell Nebi Aiyūb, Tell en Nabi Aiyūb
 Tall an Nabī Mandū, Qadech, Qādish, Tall an Nabī Mindū, Tell Enn Nabi Mennd, Tell en Nabi Mennd, Tell en Nebi Mend, تل النبي مندو, قادش
 Tall an Nabī Yūshu', Shārat Ziyārat an Nabī Yūshu', Shārat Ziyārat as Sihām Bashi', تل النبي يوشع, شارة زيارة النبي يوشع
 Tall an Nabī Z̧āhir, Tell enn Nabi Zâher
 Tall an Nahr, Tall Sikkîne Sâroûte, Tall Sikkīn, Tall Sikkīn Sārūt, Tell Sikkîne Sâroûte, Tell Skine es Saroute, تل النهر, تل سكين, تل سكين ساروت
-Tall an Najmah, تل النجمة
+Tall an Najmah, Tall Najm, تل النجمة, تل نجمة
 Tall an Namir, Tell enn Namar, تل النمر
 Tall an Nashshābīyah, تل النشابية
 Tall an Nayshān, تل النيشان
@@ -22528,8 +22436,7 @@ Wādī Buşaylān, Ouâdi Bseïlâne
 Wādī Buşaylī, Wādī Bséli, وادي بصيلي
 Wādī Buşayrah, وادي رصيرة
 Wādī Bāb Laymūn, Ouâdi Bab Laïmoune
-Wādī Bāb al Hawá, وادي باب الهوى
-Wādī Bāb al Hawā', وادي باب الهواء
+Wādī Bāb al Hawā', وادي باب الهواء, وادي باب الهوى
 Wādī Bāb al Ḩadīd, وادي باب الحديد
 Wādī Bādī, وادي بادي
 Wādī Bājrūs, وادي باجروس
@@ -23115,7 +23022,7 @@ Wādī Maşna' al Kharsā, وادي مصنع الخرسا
 Wādī Maşyūl, وادي مصيول
 Wādī Maşāşinah, Ouâdi Massasni, وادي مصاصنة
 Wādī Maţīş, وادي متيص
-Wādī Maḑī', وادي مضيع
+Wādī Maḑī', وادي ماضي
 Wādī Maḩassah
 Wādī Maḩl, وادي محل
 Wādī Maḩmūd, Ouâdi Mahmoud, Ouâdi el Mann Massar, وادي محمود
@@ -23167,7 +23074,6 @@ Wādī Mā'iş, وادي ماعص
 Wādī Māghūn, وادي ماغون
 Wādī Māmilī, وادي ماملي
 Wādī Māzirīyah, وادي مازرية
-Wādī Māḑī, وادي ماضي
 Wādī Mīr al Ḩuşayn, وادي مير الحصين
 Wādī Mīsh, وادي ميش
 Wādī Mūsá, Ouâdi Moussa, وادي موسى
@@ -23183,18 +23089,14 @@ Wādī Naftalah, وادي نفتلة
 Wādī Nahr al Faras, Ouâdi Nahr el Farass, وادي نهر الفرس
 Wādī Nahr Ḩammār Ţawīl, Wādī Nahr Ḩimār Ţawīl, وادي نهر حمار طويل
 Wādī Nakharīb, Ouâdi Nakhrib, وادي نخريب
-Wādī Namir
 Wādī Naqsh al Wa'r, وادي نقش الوعر
 Wādī Nawāl, وادي نوال
 Wādī Nay'adah, وادي نيعدة
-Wādī Naşīr, وادي ناصر, وادي نصير
 Wādī Naşşār, وادي نصار
-Wādī Naḩl, Ouâdi Nahal, وادي نحل
 Wādī Naḩrābā, وادي نحرابا
 Wādī Ni'mūsh, وادي نعموش
 Wādī Nimr, وادي نمر
 Wādī Niz̧ām, Ouâdi Nizam, وادي نظام
-Wādī Nu'mān, وادي نعمان
 Wādī Nujayb, وادي نجيب
 Wādī Nuqrah, وادي نقرة
 Wādī Nuwayl, وادي نويل
@@ -23712,8 +23614,7 @@ Wādī ad Dībah, Ouâdi ed Dabaa, وادي الديبة, وادي الضبعة
 Wādī ad Dīshār, Wādī ad Dichare, وادي الديشار
 Wādī ad Dūsah, Ouâdi ed Doussé, وادي الدوسة
 Wādī adh Dhahab, Ouâdi ed Dahab, Wadi ed Deheb, Wādī Maddān adh Dahab, وادي الذهب, وادي مدان الذهب
-Wādī adh Dhi'b, Ouâdi ed Dib
-Wādī adh Dhīb, وادي الذيب
+Wādī adh Dhi'b, Ouâdi ed Dib, وادي الذيب
 Wādī al 'Abbār, وادي العبار
 Wādī al 'Abd, وادي العبد
 Wādī al 'Abyū, Ouâdi el Abio, وادي العبيو
@@ -23770,7 +23671,7 @@ Wādī al 'Asalīyah, وادي العسلية
 Wādī al 'Asharah, Ouâdi el Aachara, Wādī al 'Anzah, وادي العشرة
 Wādī al 'Assālīn, وادي العسالين
 Wādī al 'Awamī
-Wādī al 'Awar, وادي العور
+Wādī al 'Awar, وادي الاعور
 Wādī al 'Awjah, Ouâdi el Aaoujé, Wādī al 'Awjā', وادي العوجة
 Wādī al 'Awjān, وادي العوجان
 Wādī al 'Awnīyāt, وادي العونيات
@@ -23827,7 +23728,6 @@ Wādī al A'raj, وادي الأعرج
 Wādī al A'waj, Ouâdi el Aouaj, وادي الأعوج
 Wādī al A'waj al Kabīr, وادي الأعوج الكبير
 Wādī al A'waj aş Şaghīr, وادي الأعوج الصغير
-Wādī al A'war, وادي الاعور
 Wādī al Abrashīyah, وادي الابرشية
 Wādī al Abyaḑ, Ouâdi Abiad, Ouâdi el Abiad, وادي الأبيض
 Wādī al Abţaḩ, Ouâdi Lebtah
@@ -23893,8 +23793,7 @@ Wādī al Bayādir, وادي البيادر
 Wādī al Bayāmāt, وادي البيامات
 Wādī al Bayāḑ, Ouâdi el Baiyad, وادي البياض
 Wādī al Bayāḑah, وادي البياضة
-Wādī al Bayḑā, Ouadi el Beïda, وادي البيضا
-Wādī al Bayḑā', Ouâdi Beïda
+Wādī al Bayḑā', Ouadi el Beïda, Ouâdi Beïda, وادي البيضا
 Wādī al Başal, وادي البصل
 Wādī al Başīrī, وادي البصيري
 Wādī al Başşāş, وادي البصاص
@@ -23904,7 +23803,7 @@ Wādī al Baḩrah, وادي البحرة
 Wādī al Baḩāşīş, وادي البحاصيص
 Wādī al Baḩşah, Wādī al Bahsa, Wādī al Bahssa, Wādī al Buḩşah, وادي البحصة
 Wādī al Baḩḩārīyah, وادي البحارية
-Wādī al Bi'r, وادي البئر
+Wādī al Bi'r, وادي البئر, وادي البير
 Wādī al Bikr, وادي البكر
 Wādī al Birak, وادي البرك
 Wādī al Birdāghīyah, وادي البرداغية
@@ -23932,7 +23831,6 @@ Wādī al Bābā, وادي البابا
 Wādī al Bāridah, Ouâdi el Bârdé, وادي الباردة
 Wādī al Bārūzah, Ouâdi el Barouzé
 Wādī al Bāşūlah, وادي الباصولة
-Wādī al Bīr, وادي البير
 Wādī al Bīrī, وادي البيري
 Wādī al Bīsah, وادي البيسة
 Wādī al Būghā, وادي البوغا
@@ -24628,8 +24526,7 @@ Wādī al Ḩammām, وادي الحمام
 Wādī al Ḩammāmāt, وادي الحمامات
 Wādī al Ḩammārah, وادي الحمارة
 Wādī al Ḩamrah, Ouâdi el Hamra, وادي الحمرة
-Wādī al Ḩamrā, وادي الحمرا
-Wādī al Ḩamrā', وادي الحمراء
+Wādī al Ḩamrā', وادي الحمرا
 Wādī al Ḩamrāt, وادي الحمرات
 Wādī al Ḩamām, Odi el Hamam, وادي الحمام
 Wādī al Ḩamāyil, وادي الحمايل
@@ -24764,14 +24661,14 @@ Wādī an Nawwālah, وادي النّوالة
 Wādī an Nawātīr, Wādī an Nuwātīr, وادي النواتير
 Wādī an Naşrānī, وادي النصراني
 Wādī an Naşārá, وادي النصارى
-Wādī an Naḩl, وادي النحل
+Wādī an Naḩl, Ouâdi Nahal, وادي النحل, وادي نحل
 Wādī an Nijāş, وادي النجاص
 Wādī an Nimlah, وادي النملة
 Wādī an Niqāţah, وادي النقاطة
 Wādī an Niyārīyah, وادي النيارية
 Wādī an Nizār, وادي النزار
 Wādī an Nizāzah, وادي النزازة
-Wādī an Nu'mān, Ouâdi en Naaman
+Wādī an Nu'mān, Ouâdi en Naaman, وادي نعمان
 Wādī an Nuqayb, Ouâdi enn Neqeïb
 Wādī an Nuqnāqīyah, وادي النقناقية
 Wādī an Nusayr, وادي النسير
@@ -24788,7 +24685,7 @@ Wādī an Nāmūrah, وادي النامورة
 Wādī an Nāmūs, وادي الناموس
 Wādī an Nāqah, وادي الناقة
 Wādī an Nār, وادي النار
-Wādī an Nāşir, وادي الناصر
+Wādī an Nāşir, وادي الناصر, وادي ناصر, وادي نصير
 Wādī an Nīshān, وادي النيشان
 Wādī an Nūr, Ouâdi Noueïr, Ouâdi enn Nour, Wādī Nuwayr, وادي النور
 Wādī ar Marḩalah, وادي المرحلة
@@ -24888,7 +24785,6 @@ Wādī as Samn, وادي السمن
 Wādī as Samrā'
 Wādī as Sansūlīyat, وادي السنسوليات
 Wādī as Sanābil, وادي السنابل
-Wādī as Sanū, Ouadi es Senoua, Wādī aş Şanwah, وادي السنو
 Wādī as Saqqā, وادي السقا
 Wādī as Saqā, Ouâdi es Saqa, وادي السقا
 Wādī as Saqī, وادي السقي
@@ -24951,7 +24847,7 @@ Wādī as Sīkrān, وادي السيكران
 Wādī as Sūq, Ouâdi es Soûq, وادي السوق
 Wādī as Sūs, Ouâdi es Soûs, وادي السوس
 Wādī as Sūsah, وادي السوسة
-Wādī as Şanū', وادي الصنوع
+Wādī as Şanū', Ouadi es Senoua, Wādī aş Şanwah, وادي السنو
 Wādī ash Sha'lān, وادي الشعلان
 Wādī ash Sha'r, وادي الشعر
 Wādī ash Sha'rah, وادي الشعرة
@@ -25002,7 +24898,7 @@ Wādī ash Shayyārah, وادي الشيارة
 Wādī ash Shaţb, وادي الشطب
 Wādī ash Shaḩanah, وادي الشحنة
 Wādī ash Shaḩţah, وادي الشحطة
-Wādī ash Shi'b, وادي الشعب
+Wādī ash Shi'b, وادي الشعب, وادي الشيب
 Wādī ash Shi'āb, Ouâdi Chaab, Wādī Sha'b, Wādī ash Sha'āb, وادي الشعاب
 Wādī ash Shidqī, وادي الشدقي
 Wādī ash Shinā'ah, Wādī Shan'ah, وادي الشناعة, وادي شنعة
@@ -25027,7 +24923,6 @@ Wādī ash Shākūk, وادي الشاكوك
 Wādī ash Shām, Ouâdi Châm, وادي الشام
 Wādī ash Shātir, وادي الشاطر
 Wādī ash Shāy, وادي الشاي
-Wādī ash Shīb, وادي الشيب
 Wādī ash Shīr, وادي الشير
 Wādī ash Shīḩ, وادي الشيح
 Wādī ash Shūb
@@ -25082,8 +24977,7 @@ Wādī az Zannānah, وادي الزنانة
 Wādī az Zanājīr, وادي الزناجير
 Wādī az Zarbah, وادي الزربة
 Wādī az Zarnūq, وادي الزرنوق
-Wādī az Zarqā, وادي الزرقا
-Wādī az Zarqā', وادي الزرقاء
+Wādī az Zarqā', وادي الزرقا
 Wādī az Zawbī, Ouâdi ez Zaab, Wādī az Za'b, Wādī az Zūbī, وادي الزوبي
 Wādī az Zawr, وادي الزور
 Wādī az Zawrān, Ouâdi ez Ziâra, Wādī az Ziyārah, وادي الزوران
@@ -25408,7 +25302,7 @@ Za''ah Jabal az, جبل الزعة
 Za'farānah, Zaafarâné, Zaafrâné, زعفرانة
 Za'farānīyah, Zaafarâné, Zaafrâné, زعفرانة, زعفرانية
 Za'lānah, زعلانة
-Za'rah, Zahrān, زعرة, زهران
+Za'rah, Zahrān, Zâra, زارا, زارة, زهران
 Za'rāyā, Zaarâya, Zaghrīyat, Zegherayate, زعرايا
 Za'tīn, زعتين
 Za'yūţ, زعيوط
@@ -25612,7 +25506,6 @@ Zuwayţah, زويطة
 Zāhid, Zâhed, زاهد
 Zākīyah, Zakieh, Zakyé, Zakîyé, زاكية
 Zāmā, زاما
-Zārah, Zâra, زارا, زارة
 Zārib, زارب
 Zārwīk, Donqiza Bichûk, Donqiza Biçûk, Dunqiz Mezin, Zarāfah, Zerafîk, Zeravîk, Zirafîk, Zorava, Zorave, Zraouik, Zârouîk, زرافة, زرافيك, زرويك, زۆراڤە, زەرافيك
 Zīq aţ Ţurfah, زيق الطرفة
@@ -26373,7 +26266,6 @@ Z̧ahrat al Manzilah, ظهرة المنزلة
 Z̧ahrat al Manţarah, Dahr el Manntara, Z̧ahr al Manţarah, ظهر المنطرة, ظهرة المنطرة, Ḑahr al Manţarah
 Z̧ahrat al Maqbarah, ظهرة المقبرة
 Z̧ahrat al Maqţa', ظهرة المقطع
-Z̧ahrat al Mar'ah, ظهرة المرعة
 Z̧ahrat al Marj, ظهرة المرج
 Z̧ahrat al Marzīfah, ظهرة المرزيفة
 Z̧ahrat al Marāsh, ظهرة المراش
@@ -26834,7 +26726,7 @@ Z̧āhr al Maydān, ظاهر الميدان
 Şammā al Hunaydāt, Şammā, صما, صمّا الهنيدات
 Şammānat ad Dīk, صمانة الديك
 Şammānat az Zayla', صمانة الزيلع
-Şamād, صماد
+Şamād, Samâda, Samādah, سمأد
 Şamākh, As Samākh, Smâkh, سماخ
 Şamīd, صميد
 Şamūmā, صموما
@@ -27053,7 +26945,6 @@ Z̧āhr al Maydān, ظاهر الميدان
 Ţarjānū, Tarjano, Terjâno, Torjano, ترجانو
 Ţarrāḩīyah, Tarrâhîyé, Ţarājīyah, طراحية
 Ţarzī, طرزي
-Ţarān, طران
 Ţashshah, طشة
 Ţawbīyah, Aţ Ţuwaybah, Ett Toueïbé, طوبية
 Ţawghalī
@@ -27774,7 +27665,6 @@ Z̧āhr al Maydān, ظاهر الميدان
 Ḩaql Abū Muḩaysī, حقل أبو محيسي
 Ḩaql Ballān, حقل بلان
 Ḩaql Kir ash Shawk, حقل كر الشوك
-Ḩaql Nādī
 Ḩaql Wanī, حقل وني
 Ḩaql Zu'ayr, حقل زعير
 Ḩaql al 'Arūs, حقل العروس

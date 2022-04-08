@@ -38,7 +38,6 @@ Abşeron Arxipelaqı, Apsheronskiy Arkhipelag
 Abşeron Magistral Kanalı, Apsheronskiy Kanal, Apsheronskiy Magistral'nyy Kanal
 Abşeron Milli Parkı, Abşeron Yasaqlığı
 Abşeron Sayı, Banka Apsheronskaya
-Abşeron magistral kanalı
 Acarlı, Acanlı, Adzharly
 Achanan
 Achar-Bachar-Pass, Axar-Baxar Aşırımı, Pereval Akhar-Bakhar
@@ -987,7 +986,6 @@ Beyi, Bey
 Beykyshlakh, Bekkyshlak, Bəyqışlaq
 Beylagan Rayon, Beylagan Rayonu, Beyləqan, Beyləqan Rayonu, Zhdanov Rayonu, Zhdanovskiy Rayon
 Beyli
-Beylik, Beilyar
 Beylyar, Bəylər
 Beyuk Dagh
 Beyuk-Alateymur, Alatemur-Beyuk, Bëyuk Alatemir, Böyük Alatəmir
@@ -1260,7 +1258,7 @@ Bəyazıtlı Dağı
 Bəydağ
 Bəydərəsi
 Bəylibağ Ayrığı
-Bəylik
+Bəylik, Beilyar
 Bəyyeri Bulaq
 Bəzirgənsu
 Cabanı, Dzhabany
@@ -3225,14 +3223,13 @@ Kichik-Dekhna, Kichik-Dakhna, Kiçik Dǝhnǝ
 Kichik-Pirelli, Kichik Pirali, Kiçik Pireli
 Kicik Qalaboynu Dağı
 Kikibaş Dağı
-Kil'var
+Kil'var, Gilvar
 Kilisabugov, Kil'syabugov, Kilsəbugov, Kilsəbuqov
 Kilisekend, Kil'sya, Kilsə, Rəhimli, Yeghts'i, Եղցի
 Kiliselli, Kil'syali, Kilisali, Kilsəli, Yeghts'ategh, Եղցատեղ
 Kilit
 Kilsəli Dağı
 Kilsəsuyu
-Kilvar, Gilvar
 Kilyasha, Giləşə
 Kiren, Kira
 Kirkidzhan, Javadlar, Kirdidzhan, Krkjan, Krkzhan, Kərkicahan
@@ -4132,7 +4129,6 @@ Muzur
 Muğan, Armyanka, Posëlok Mugan, Svetlaya Zarya
 Muğan Düzü
 Muğan Kanalı
-Muğan kanali
 Muğan-Salyan Sutullayıcısı, Mugano-Sal'yanskiy Sbros, Muğan-Salyan Kanalı, Muğan-Salyan Çökmäsi
 Muğancıq Mehrab, Mugandzhik-Mekhrab
 Muğancıq Müslüm, Mugandzhik Myuslyum, Mugandzhuk-Muslum
@@ -4571,7 +4567,6 @@ Papanaris K'edi, Babak'ari Lerrnashght'a, Babak'yari Lerrnashght'a, Babakyar, Gu
 Papaqçılar, Papakhchylar
 Papravend, Nor Kamiravan, Նոր Կարմիրավան
 Papı, Papy
-Parakend
 Parakendsu
 Parakənd
 Parakənd Təpəsi Dağ
@@ -5126,7 +5121,6 @@ Qaynaq, Kaynag, Kaynakh
 Qaynar Ayrığı, Urochishche Kaynar
 Qaynararxac Dağı, Gora Kaynararlach
 Qaynarca Ayrığı
-Qaynarca Silsiləsi
 Qaynarca Sılsılesı
 Qaysa, Kaysa, Koysa
 Qaysarlı, Kaysarly
@@ -5642,7 +5636,6 @@ Samit-Khan, Birinci Səmədxanlı, Samedkhanly Pervyye
 Samukh Rayon, Samux, Samux Rayonu
 Samul-Abseron kanalı
 Samur, Ssamur
-Samur Abseron Kanalı
 Samur Dəvəçi Düzənliyi
 Samur Forest
 Samur-Abşeron Kanalı, Kanal Imeni Stalina, Samur Divichenskiy Kanal Imeni Stalina, Samur Divichinskiy Kanal Imeni Stalina, Samur-Apsheronskiy Kanal, Samur-Divichinskiy Kanal
@@ -5738,7 +5731,6 @@ Sarısu, Sarysu, Սարըսու
 Sarısu Ayrığı
 Sarısu Bulağı
 Sarısu Gölü, Ozero Sary-Su, Ozëra Sarysu, Sarysu Lake
-Sarısu ayrığı
 Sarısuqobu Kollektoru, Kollektor Sarysukosu
 Sarıtala, Sarytala
 Sarıtəpə Dağı
@@ -6301,7 +6293,6 @@ Tağılar, Tagylar
 Tağılı, Tagily, Tagyay
 Tbili-Sklebi Bulaq
 Teg River, Tugchay, Tuğçay
-Tekdam
 Tekekayasy, T'ek'eak, Tekyagayasi, Tekyakaya, Təkəqaya, Təkəçaya
 Tekeshykhy, Gyul'tepe, Gültəpə, Qultəpə, Teke-Shikhi
 Teklya, Tegle
@@ -7064,9 +7055,8 @@ Yenidashkend, Yeni Daşkənd
 Yenidzha, Yengicə, Yengidzha, Yenicə
 Yenigün, Yenigyun
 Yenihayat, Yeni Həyat
-Yenikend, Aşağı Kəsəmən, Stalinkend, Traubenfel'd, Yenikänd, Yerikend, Еникенд
 Yenikend Reservoir
-Yenikənd, Kyrmyzy-Oktyabr', Qırnızı Oktyabr
+Yenikənd, Aşağı Kəsəmən, Kyrmyzy-Oktyabr', Qırnızı Oktyabr, Stalinkend, Traubenfel'd, Yenikänd, Yerikend, Еникенд
 Yenikənd Su Anbarı
 Yenikəndarx Kanalı
 Yenilik
@@ -7430,7 +7420,6 @@ Zəylik Daği
 Çidibaş Dağı, Gora Chidybash
 Çigil Adası, Obliwnoi-Insel, Ostrov Chigil, Ostrov Oblivnoy
 Çildağ
-Çilgez Dağı
 Çilgəz Ayrığı
 Çilgəz Dağı
 Çilli Yer Ayrığı
@@ -7513,7 +7502,6 @@ Zəylik Daği
 Çıraxlı
 Çığırğan, Chagyrgan, Chygyrgan
 Çəlləkli Göl
-Çələbilerçay
 Çələbilər
 Çəmənlisu
 Çəmənliçay
@@ -7716,7 +7704,6 @@ Zəylik Daği
 Şayıflı, Shayyfly
 Şağan, Shagan, Shagany
 Şekercik, Shakardzhik, Shekerdzhik
-Şelik
 Şelli, Shelli, Shelly, Ukhtasar, Ուխտասար, Ուղտասար
 Şerifxan Ayrığı, Şərifzan Ayrığı
 Şerur Kanalı, Sharurskiy Kanal

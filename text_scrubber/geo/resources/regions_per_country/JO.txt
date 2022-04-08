@@ -97,7 +97,7 @@
 'Ayn Musaymīrah, 'Ain Museimira
 'Ayn Muḩayḑirāt, 'Ain Muheidirāt, عين محيضرات
 'Ayn Māqūq
-'Ayn Mūsá
+'Ayn Mūsá, عين موسى
 'Ayn Nubayrah, 'Ain Nubeila, 'Ain Umbeira
 'Ayn Qarqūr, عين قرقور
 'Ayn Quwaylibah, 'Ain Quweiliba, 'Ayn Qu'aylibah
@@ -416,8 +416,7 @@
 'Uyūn Abū Sa'īd, Abū Sa'īd
 'Uyūn Hamtā
 'Uyūn Mūsá, عيون موسى
-'Uyūn adh Dhi'b, 'Uyūn edh Dhīb
-'Uyūn adh Dhīb, 'Ain edh Dhīb, Adh Dhīb, عيون الذيب
+'Uyūn adh Dhi'b, 'Ain edh Dhīb, 'Uyūn edh Dhīb, Adh Dhīb, عيون الذيب
 'Uyūn ash Shanānīr, 'Uyūn esh Shanānīr, عيون الشنانير
 'Uzaybat Maghār, 'Azeibat Maghār, 'Uzeibat Maghār, عزيبات مغار
 'Uşfūr, عصفور
@@ -431,7 +430,6 @@
 3 Steps Water fall, شلال وادي الكرك
 3rd and 4th Waterfalls, الشلال الثالث والرابع
 4th Waterfall
-5th Waterfall
 Abu Khashabah, أبو خشبة
 Abu Khshebah, أبو خشيبة
 Abu Laila
@@ -481,7 +479,7 @@ Abū Ḩammūr, ابو حمور
 Abū Ḩamīdah, أبو حميدة
 Abū Ḩulaylīfah, أبو حليليفة
 Abū Ḩāmid, Abu Hamed, ابو حامد
-Ad Da'jāniyah, الدعجانية
+Ad Da'jāniyah, Ed Dajanīya, El Dajjānīya, الدجنية
 Ad Dabbākah, Ad Dabkah, Dabka, Ed Dabbāka, Kheurbet ed Dabka, الدباكة
 Ad Dabbūsah, Ad-Dabbusa, Dabbusa, Dabbūsah, Ed Dabbūsa, الدبوسة
 Ad Dabālīk, Ad Dabālīk - Ash Shamālī, Ed Dabālīk, الدباليك, الدباليك - الشمالي
@@ -489,7 +487,6 @@ Ad Dabālīk al Janūbī, Ed Dabālīk, الدبالبك الجنوبي, الد�
 Ad Dafyānah, Dafyana, Ed Dafyāna, الدفيانة
 Ad Dafālī, الدفالي
 Ad Dahāmishah, الدهامشة
-Ad Dajanīyah, Ed Dajanīya, El Dajjānīya, الدجنية
 Ad Dandanīyah, Ghadīr ad Durzī, الدندنية
 Ad Dayr, الدير
 Ad Dayr al Gharbī, Ad Dayr Al Gharbiy, الدير الغربي
@@ -1250,7 +1247,6 @@ Awşarah, Ausara, أوصرة
 Aydūn, Aidūn, Eidūn, ايدون
 Aydūn Banī Ḩasan, Aidūn, Eidun, أيدون بني حسن, ايدون
 Ayl, Aïl, Īyl, ايل
-Ayn Musa, عين موسى
 Ayn Su'aydah, عين سعيْدَة
 Ayn Wuhaydah, 'Ain Wuheida, عين وهيدة
 Az Za'atri, Al Zaatari, Al Zaatari Refugee Camp
@@ -1382,12 +1378,12 @@ Bi'r Abū Nimr, بير أبو نمر
 Bi'r Abū al Lasan, 'Ain Abu el Lasan, Bir Abū el Lasan
 Bi'r Ibn Jāzī
 Bi'r Jumayl, Bir Jumeil
-Bi'r Khidād
+Bi'r Khidād, بير خداد
 Bi'r Madhkūr, بير مذكور
 Bi'r Salīm Ḩāmid, Bīr Salīm Hamed
 Bi'r Sumaykah, Bīr Sumeika
 Bi'r Umm al 'Amad, Bīr Um el 'Amad
-Bi'r ad Dabbāghāt, بير الدباغات
+Bi'r ad Dabbāghāt, بئر الدباغات, بير الدباغات
 Bi'r ad Dālīyah, بئر الدالية
 Bi'r al Ad'am, بئر الأدعم
 Bi'r al Buţayḩāt, Bi'r al Buţayyiḩāt, Bīr el Bitaiyiḥāt, بئر البطيحات
@@ -1457,9 +1453,6 @@ Bānī Hāshim, بني هاشم
 Bīr 'Alawī Muslim, بير علوي مسلم
 Bīr Abū Dannah, Abū Danna, Abū Dannah, بير أبو دنة
 Bīr Abū al 'Alaq, بير ابو العلق
-Bīr Khidād, بير خداد
-Bīr Madhkūr, بير مذكور
-Bīr ad Dabbāghāt, بئر الدباغات, بير الدباغات
 Bīr al Bayţār, Al Bayţār, El Bīṭār, بير البيطار
 Bīr aţ Ţāfī, بير الطافي
 Bīr Ḩamad, بئر حمد, بير حمد
@@ -1647,7 +1640,6 @@ Industrial Estate
 Insīm ar Rīḩ, انسيم الريح
 Iqlīb Rummān, اقليب رمان
 Irbid, Governorate of Irbid, Irbed, Irbid Governorate, إربد
-Irjān, عرجان
 Irkhaym, Irkaym, Irkheim, Khirbat Rukhaym, Khirbat Rukheim, Rukhaym, Rukheim, ارخيم
 Is'arah, Is'ara, اسعرة
 Isfīr al Maḩaṭṭah, Aşfar al Maḩaţţah, Isfir el Mahappa, Isfir el Mahatta, اسفير المحطة
@@ -3139,7 +3131,6 @@ Rijlat Abū Sharshūḩ, رجلة أبو شرشوح
 Rijlat Kabid al Gharbīyah, Rijlat Kabid el Gharbiya
 Rijlat Mashwá Khubzat al Khurayshah, Rijlat Mashwa Khabzat el Khureisha
 Rijlat Mushawwaḩ, Rijlat Mushawiḥ, Wādī el Fak
-Rijlat Na'ām
 Rijlat Na'ām al Gharbīyah, Rijlat Na'ām ash Gharbīyah, Rijlat Na'ām el Gharbiya
 Rijlat Na'ām ash Sharqīyah, Rijlat Na'ām esh Sharqiya
 Rijlat Siḩwal Wad'at as Samrā”, Rijlat Siḥwal Wad'a es Samra
@@ -3249,7 +3240,6 @@ Rās Umm Saysabān, Jabal Umm Saysabān, Jebel Um Seisabān, Rās Um Seisabān, 
 Rās Wad'ah, Jabal Wad'ah, Jabal Wada'ah, Jebel Wad'a, Ra's Wada'ah, Rās Wad'a, راس ودعة
 Rās Wād aş Şaqrah, Ra's Wādī aş Şaqrah, Ras Wadi es Saqra, راس واد الصقرة
 Rās ad Dallāqah, راس الدلاقة
-Rās al Aqra', راس الأقرع
 Rās al Jurn, راس الجرن
 Rās al Jājah, Rās el Jāja, راس الجاجة
 Rās al Khaymah, Rās el Kheima, راس الخيمة
@@ -3299,8 +3289,7 @@ Samar, سمر
 Sammā ar Rawsān, Aş Şammā, Es Samma, Samā, Samā ar Rūsān, سما, سما الروسان
 Sammū', Samu, سمّوع
 Samrat Abū Ţurayfīyāt, Samrat Abū Ṭureifīyāt, Samrat Umm Tureifeiya, سمرة أبو طريفيات
-Samrā, As Samrā', Khirbat es Samra, سمرا
-Samrā', Samarā, Semera, سمرا
+Samrā', As Samrā', Khirbat es Samra, Samarā, Semera, سمرا
 Samā as Sirḩān, Qaryat Samā, Samā, سما, سما السرحان
 Sanakah, Sanaka
 Saqrāt, Aş Şaqrāt, Es Saqrāt, Jebel es Saqrāt
@@ -4324,15 +4313,12 @@ Wādī Mūbiş, وادي موبص
 Wādī Mūsá, وادي موسى
 Wādī Nahz Shi'ābī, Wādī Shu'āb, وادي نهز شعابي
 Wādī Nakhl, Wadi Nikhil, وادي نخل
-Wādī Namlah, Wādī enn Mala, وادي نملة
 Wādī Natl, Wadi Nitil, وادي نتل
 Wādī Nayyān, Wādī Naiyān, وادي نيان
-Wādī Naḩlah, Wādī Naḥla
 Wādī Nijil, Wādī Najl
 Wādī Nimrīn, Esh Shūna, Wadi Nemrin, وادي نمرين
 Wādī Nizārah, وادي نزارة
 Wādī Nujay'ah, Wādī Nujei'a, وادي نجيعة
-Wādī Nukhaylah, Wadi en Nukheila, وادي نخيلة
 Wādī Numrah Arba'ah, Wādī Numra Arba'a
 Wādī Nuwaybi', An-Nuwejb'e, An-Nwêb'e, Wādi el Nuweibi, Wādī an Nuwaybi'ī, وَادِي اَلنُّوَيْبِع
 Wādī Nuḩayl, Wādī Nuḥeil, وادي نُحيل
@@ -4403,8 +4389,7 @@ Wādī Sa'īdah, Wādī Sa'ida, Wādī Su'eida, وادي سعيدة
 Wādī Sadd an Naḩlah, Wadi Sad en Nahla, Wādi Sadd en Naḩla
 Wādī Sadd an Nimr, Wadi Sad en Nimr, Wādī Sadd en Nimr, وادي سد النمر
 Wādī Safrah, وادي سفرة
-Wādī Sakkā, وادي سكّا
-Wādī Sakkā'
+Wādī Sakkā', وادي سكّا
 Wādī Sal'ūf
 Wādī Salmá, Wādī Selma
 Wādī Salmān, وادي سلمان
@@ -4737,14 +4722,13 @@ Wādī al Bawlah, Wadi el Baula, وادي البولة
 Wādī al Bawāţī
 Wādī al Bayyārah, Wādī el Baiyāra, وادي البيّارة
 Wādī al Bayḑah, Wādī el Beiḍa, وادي البيضة
-Wādī al Bayḑā, Wādī Beidā, Wādī el Beiḍa, Wādī el Irāq, وادي البيضا, وادي البيضا- العراق
-Wādī al Bayḑā', Wādī el Beiḍa, وادي البيضا
+Wādī al Bayḑā', Wādī Beidā, Wādī el Beiḍa, Wādī el Irāq, وادي البيضا, وادي البيضا- العراق
 Wādī al Baţāḩī, وادي البطاحي
 Wādī al Baţţah, Wadi Batta, Wādī Baţţah, Wādī el Baṭṭa, وادي البطة
 Wādī al Baţḩā', وادي البطحاء
 Wādī al Baḩrah, Wādī Isman, Wādī el Baḥra, وادي البحرة- لصمان
 Wādī al Baḩḩāth, Wadi el Behat, وادي البحّاث
-Wādī al Bi'r, وادي البير
+Wādī al Bi'r, Wādī el Bir, وادي البئر, وادي البير
 Wādī al Bishrīyah, Wādī el Bishriya, وادي البِشرِية
 Wādī al Bisās
 Wādī al Bruwayi', وادي البرويع
@@ -4769,7 +4753,6 @@ Wādī al Bā'ij, وادي الباعج
 Wādī al Bā'ijah, Wādī el Bā'ija
 Wādī al Bālū', Wādī ash Shuqayfāt, وادي البالوع, وادي الشقيفات/ البالوع
 Wādī al Bān, وادي البان
-Wādī al Bīr, Wādī el Bir, وادي البئر, وادي البير
 Wādī al Bīrah
 Wādī al Bīţān, Wādī el Battan, وادي البيطان
 Wādī al Būlīyāt, Wādī el Būliya, وادي البوليات
@@ -4831,7 +4814,7 @@ Wādī al Jashshah al Quwayşirah, Wādī al Jashshat al Quwayşirah, Wādī el 
 Wādī al Jaw'alīyah, Wādi el Ju'ailīyāt, Wādī al Jaw'alīyāt, Wādī el Jau'alīyāt, Wādī el Ju'aliya, وادي الجوعلية
 Wādī al Jawf, Wadi el Jauf, وادي الجوف
 Wādī al Jawq, Wādī el Jauq
-Wādī al Jay'ah, Wadi Hauḍ es Sīh, Wādī Ḩawḑ as Sīḩ, وادي الجيعة, وادي حوض السيح
+Wādī al Jay'ah, Wadi Hauḍ es Sīh, Wādī el Jāya, Wādī Ḩawḑ as Sīḩ, وادي الجايا, وادي الجيعة, وادي حوض السيح
 Wādī al Jazūr, Wādī al Rujm al Jazūr, وادي الجزور
 Wādī al Jilāt, Wādī Jilāt, Wādī Qilāt, Wādī al Qilāt, Wādī el Jilāt, وادي الجلات, وادي جلات
 Wādī al Jirm, وادي الجرم
@@ -4850,7 +4833,6 @@ Wādī al Juwayzāt, Wadi el Juweizāt, وادي الجويزات
 Wādī al Juḑay', Al Ğezî'a, El Jadhī'a, El Jezi'a, Wādī Juday', Wādī Judei', Wādī al Jadhī'ah, Wādī al Judhay', Wādī el Judhei', Wādī el Juḍheir', وادي الجضيع
 Wādī al Juḩayrah, وادي الجحيرة
 Wādī al Jāriyah, Sayl al Ja'jār, Seil el Ja'jar, Wādī el Jāriya, سيل الجعجار, وادي الجارية, وادي الجارية- الجعجر
-Wādī al Jāyah, Wādī el Jāya, وادي الجايا
 Wādī al Jī'ah, Wadi el Jī'a, وادي الجيعة
 Wādī al Kafrayn, Wadi Kofrein, Wadi el Kefrein, Wādi Kafrein, Wādi el Kufrein, Wādī al Kufrayn, وادي الكفرين
 Wādī al Kamb, وادي الكمب
@@ -5124,8 +5106,7 @@ Wādī al Ḩammah, Wadi Hamma, Wādī el Ḥamma, وادي الحمة
 Wādī al Ḩammām, Wādi Heman, Wādi el Hemmam, Wādī al Jamām, Wādī al Ḩammān, Wādī Ḩamām, وادي الجمام, وادي الحمام
 Wādī al Ḩammāmah, وادي الحمامة
 Wādī al Ḩamr, Wādī al Ḩumr, وادي الحمر
-Wādī al Ḩamrā, وادي الحمرا
-Wādī al Ḩamrā', وادي الحمراء
+Wādī al Ḩamrā', وادي الحمرا
 Wādī al Ḩamrā' al Janūbī, Wādī el Ḥamra el Janūbi
 Wādī al Ḩamrā' ash Shamālī, Wādī el Hamra esh Shamālī
 Wādī al Ḩamrānīyah, Wādi el Ḥamrānīya
@@ -5177,7 +5158,7 @@ Wādī an Na'ḑīyah, Wādī en Na'dīya
 Wādī an Nafkhah, Wādī an Nafkh, Wādī en Nafkha, وادي النفخ, وادي النفخة
 Wādī an Najāsh, وادي النجاش
 Wādī an Nakhbār, وادي النخبار
-Wādī an Namlah, وادي النملة
+Wādī an Namlah, Wādī enn Mala, وادي النملة, وادي نملة
 Wādī an Naqb, Wadi 'Aunāt, وادي النقب/ وادي عونات
 Wādī an Naqb al Qiblī, Wadi Rās en Naqb Min Qibla, Wādī Naqb el Qiblī, Wādī Ra's an Naqb Min Qiblah
 Wādī an Naqīb, Wādī en Naqīb, وادي النقيب
@@ -5192,7 +5173,7 @@ Wādī an Nufay'īyah, Wādī en Nufei'iya, وادي النفيعية
 Wādī an Nufākhīyah, Wādī en Nufakhīya
 Wādī an Nuhayr, Wadi en Nubeir, Wadi en Nuheir, Wādī Nuheir
 Wādī an Nukhayl, Wādī Nekhīl, Wādī an Nakhīl, Wādī en Nukheil
-Wādī an Nukhaylah, Wadi en Nukheila, وادي النخيلة
+Wādī an Nukhaylah, Wadi en Nukheila, وادي النخيلة, وادي نخيلة
 Wādī an Nukhbār, وادي النخبار
 Wādī an Numayrah, Numeira, Wadi Hedeira, Wādī Hudeira, Wādī en Numeri, Wādī Ḩudayrā, وادي النميرة
 Wādī an Nusūr, Wādī en Nusūr, وادي النسور

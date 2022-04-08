@@ -1359,7 +1359,7 @@ Dom Khvet, Phumĭ Dom Khvĕt
 Domnak Ksan
 Dong Aranh, Aranh Chas, Phum Aranh Chas, Phum Dŏng Aranh, Phum Sranh Chas, Phumĭ Dŏng Aranh, Phumĭ Dŏng Arânhnh, ភូមិ ដុងអារញ្ញ
 Dou Ov
-Doun  Peaeng, ដូនពេង
+Doun  Peaeng, Phum Vêng, ដូនពេង, ភូមិ វែង
 Doun Aem, Done Em, Phum Don Êm, Phumĭ Don Êm, ភូមិ ដូនឯម
 Doun Ba, Don Ba, Donebas, ដូនបា
 Doun Chaeng, Phnom Don Chneng, Phum Bœ̆ng Khleăng, Phum Don Chneng, Phumĭ Bœ̆ng Khleăng (2), ភូមិ បឹងឃ្លាំង
@@ -1379,7 +1379,6 @@ Doun Mul
 Doun Nouy, Phum Daun Nauv, Phum Daun Nauy, Phum Dôn Nôi, Phumĭ Don Noy
 Doun Ov, Phum Ta Prŏk, Phumĭ Ta Prŏk, ភូមិ តាប្រុក
 Doun Paen
-Doun Peaeng, Phum Vêng, ភូមិ វែង
 Doun Peng, Phumĭ Don Pénh
 Doun Pok, Phum Lahar, Phumĭ Rôhar, ភូមិ រហារ
 Doun Reach, Phum Don Réach, Phumĭ Don Réach, ភូមិ ដូនរាជ
@@ -1653,7 +1652,6 @@ Kantaok Tboung
 Kanthaor Khang Cheung, ប្រាសាទភ្នំខ្យង
 Kanthaor Khang Kaeut, ភ្នំប្រាសាទ
 Kanthaor Khang Lech, អង្គសុរភី
-Kanthaor Khang kaeut, ភ្នំប្រាសាទ
 Kanti
 Kantong Rong
 Kantraeuy
@@ -1663,9 +1661,8 @@ Kantueu Pir, កន្ទឺ ២
 Kantuot, Kanthout, Kanthuol Samrong, Kanthuot Samrong, Phum Kan Tuoi, Phum Kantout, Phumĭ Bœ̆ng Kântuŏt, Phumĭ Kântuŏt Sâmraông, កន្ទួត, ភូមិ កន្ទួត
 Kantuy Chun
 Kaoh, Phum Koh, កោះថ្កូវ
-Kaoh  Andaet, កោះអណ្ដែត
+Kaoh  Andaet, Kâs Andeth, Phum Koŭk Ândêt, Phumĭ Kaôh Ândêt, Srok Koh Andet, Srŏk Kaôh Ândêt, កោះអណ្ដែត, ភូមិ គោកអណ្ដែត
 Kaoh Ampil Thum, Kaôh Ampil Thom, កោះអំពិលធំ
-Kaoh Andaet, Kâs Andeth, Phum Koŭk Ândêt, Phumĭ Kaôh Ândêt, Srok Koh Andet, Srŏk Kaôh Ândêt, កោះអណ្ដែត, ភូមិ គោកអណ្ដែត
 Kaoh Andeaet
 Kaoh Ankrong, Hón Keo Ngua, Hōn Kiem Giang, Ile des Fourmis, Kaôh Ângkráng, Koh Angkong, Kâs Angkong
 Kaoh Anlong Chen, Kas Anlong Chen, Kaôh Anlŭng Chĕn, កោះអន្លង់ចិន
@@ -2045,7 +2042,6 @@ Khpob Ateav, Phum Khpôp A Téav, Phumĭ Khpôb A Téav, Phumĭ Khpôp A Téav, 
 Khpob Run, Phumĭ Khpôb Rŭn, Phumĭ Khpôp Rŭn
 Khpob Svay, Phumĭ Khpôb Svay, Phumĭ Khpôp Svay
 Khpob Ta Nguon, ខ្ពបតាងួន
-Khpob ateav, ខ្ពបអាទាវ
 Khpos
 Khpóng Réab Kirirôm, Plateau de Kirirom
 Khpŭng Réap Thman Potou
@@ -2386,7 +2382,6 @@ Krang Thnong, Khŭm Krăng Thnóng, Khŭm Krăng Thnŭng, Krang Thong, ក្រ
 Krang Tumnob
 Krang Veaeng, Phumĭ Krăng Vêng
 Krang Yov, Krang You, Phumĭ Âmpĭl Krânhĕnh, ក្រាំងយ៉ូវ
-Krang thnong, ក្រាំងធ្នង់
 Kranham
 Kraol Chi
 Kraol Kou, ក្រោលគោ
@@ -3067,7 +3062,6 @@ Os Tuk, Phum O Touk, Phum Or Touk, Phum Os Tuk, Phumĭ Os Tuk, ភូមិ អ�
 Osphea
 Otdam Souriya, ឧត្ដមសុរិយា
 Otdong
-Ou, P'um Âu, ភូមិ អូ, ភូមិអូ, អូរ
 Ou A Khven, O A Khvĕn, O A Khvĭn
 Ou Achnha Ang
 Ou Am, Phumĭ O Am
@@ -3077,7 +3071,7 @@ Ou Ampeak
 Ou Ampho, O Ampil, O Âmpôr, អូរអំពរ
 Ou Ampil, Au Ampil, O Ampil, អូរអំពិល
 Ou Ampil Tuek, អូរ អំពិលទឹក
-Ou An Rung
+Ou An Rung, O Roun, Âu Roun, អូររូង
 Ou Anchaeng, O Âncheng, អូរ អន្ចែង
 Ou Anchanh, O Ânchanh, អូរ អន្ចាញ
 Ou Andaeng, O Andêng, អូរអណ្ដែង
@@ -3295,7 +3289,7 @@ Ou Chumre, O Chunres, O Chômré, O Chŭmré, Or Chamres, Âu Chamrès
 Ou Chuob
 Ou Chuoch
 Ou Coar
-Ou Da, Dak Dar, O Dar, Âu Da, ភូមិ អដា, អូរ ដារ, អូរដា
+Ou Da, Dak Dar, O Dar, P'um Âu, Âu Da, ភូមិ អដា, ភូមិ អូ, ភូមិអូ, អូរ, អូរ ដារ, អូរដា
 Ou Da Leu
 Ou Daek, O Leăk
 Ou Dai Bandaoy
@@ -3366,7 +3360,7 @@ Ou I Mong, Houei Y Mong, O Ei Mŭng, O Y Mong, អូរ អីមង
 Ou Ier, O Ir, អូរ អៀរ
 Ou Ing Kong, O Ing Kóng
 Ou K'ael, O K'êl, O Kaêl
-Ou K'ak, O K'âk, O Kââk
+Ou K'ak, O K'âk, O Kââk, អូរ កក
 Ou K'am
 Ou K'en, O Kaĕn, អូរ គ្អិន
 Ou Ka, Dak Karr, O Ka, O Karr, អូរ កា
@@ -3376,7 +3370,6 @@ Ou Kab Chen, Aur Kaplie, O Kap Chen, O Kaplie, O Káb Chĕn, O Káb Thĭn, Âu K
 Ou Kab Seh
 Ou Kae, O Ger, អូរ កែរ
 Ou Kaes, O Kês, Ô Khleng Pear
-Ou Kak, O Kâk, អូរ កក
 Ou Kak Kamon, O Kâk Kamon, អូរកក់កាមន
 Ou Kakas, O Kakâs
 Ou Kakhoek, Aur Koki, O Kakhâk, O Kakhœ̆k, O Kokek, Ou Kakhak, អូរ កាខឹក
@@ -3456,7 +3449,6 @@ Ou Kbie
 Ou Kdak, O Kadak, O Kedol, Âu Kdol, អូរក្តាក់
 Ou Kdol, O Khdŏl, O Pralay Thnga, អូរ ក្ដល
 Ou Kei, O Kei
-Ou Ken
 Ou Kham Bak, O Kham Bâk, អូរ ខាំបក
 Ou Khamphouk, O Khampoŭk, អូរ ខាំភោក
 Ou Khanmak Hoean
@@ -3559,18 +3551,16 @@ Ou Kruos
 Ou Kuch, Stung Kuoi, Stœ̆ng Kuŏt
 Ou Kung Trang, Au Kong Trang, O Kông Trâng, O Kŭng Trâng
 Ou Kuoy, O Kuoy, អូរ គួយ
-Ou L'ak, O L'ák, O Laâk, Prek Laak, អូរ ល្អក់
+Ou L'ak, O L'ák, O Laâk, Prek Laak, អូរ ល្អក់, អូរឡាក់
 Ou L'ang Tuek
 Ou La Muon, O Kompoul, O Lamuôn, អូរឡាមួន
 Ou Laha, O Laha
-Ou Lak, O Lak, អូរឡាក់
 Ou Lalai, Houei Lalay, O Ho Lalai, O Houei Lalay, អូរ ហឡាឡៃ, អូរ ឡាឡាយ
 Ou Lavka, Dak Lauka, O Lavka, អូរ ឡាវកា
 Ou Lea Pong, O Léa Pông, អូរលាពង
 Ou Leak
 Ou Leang Kruos, O Léang Kruŏs, អូរ លាងគ្រួស
 Ou Leas, O Léas, Ou Loas, អូរលាស
-Ou Leu
 Ou Lhal
 Ou Lhong, O Lhŏng, O Léhŏng, O Lôhong, Ô Lahong, អូរល្ហុង
 Ou Lieb, O Kung Dot, O Liép, O Liĕb, O Ph'ât, O Phâât, Stung Pouot, អូរផ្អក
@@ -3813,10 +3803,9 @@ Ou Rumlich, O Rumlich, អូររំលិច
 Ou Rumlich Meun Ram
 Ou Rumpe, O Rumpé, អូរ រំពេ
 Ou Run, O Roun, អូររុន
-Ou Rung, O Roun, Âu Roun, អូររូង
 Ou Rung Khla
 Ou Russei Leat, O Rŭssei Léat, អូរឫស្សីលាត
-Ou S'at, O S'at, Âu Saat
+Ou S'at, O S'at, Âu Saat, អូរ សាទ
 Ou Sa Phum, Houei Sai Plum, O Saphoum, O Saphumĭ, អូរ សាភូមិ
 Ou Sab, O Sab, O Sap, O Sop, អូរ សាប
 Ou Sae
@@ -3855,7 +3844,6 @@ Ou Santung, O Sântung, អូរសន្ទូង
 Ou Saom, O Saôm, O Som, Âu Sôm, អូរសោម
 Ou Saophi, O Saphi, អូរសាភិ
 Ou Saray, អូរសារាយ
-Ou Sat, O Sat, អូរ សាទ
 Ou Satum
 Ou Say, O Say, Stung Seai, Stung Seay
 Ou Say Youl, O Suyoul, O Sŏy Yoŭl
@@ -3937,7 +3925,6 @@ Ou Svay Teab
 Ou Svay Yu, O Svay Yu, Prêk Soai Vou, អូរ ស្វាយយូ
 Ou Sya, O Sya, អូរស្យា
 Ou Sya Kra, O Sya Kra, អូរស្យាក្រា
-Ou Ta, O Ta Pŭk, អូរតាពុក
 Ou Ta Bol, O Tabot, O Tabŏl, O Tobŏl, Prek Trébol
 Ou Ta Bou, O Ta Bu, O Tabou, O Tavo, អូរ តាបូ
 Ou Ta Cheut, O Tacheut, អូរ តាជើត
@@ -3946,7 +3933,7 @@ Ou Ta Choan
 Ou Ta Chout, O Tachot
 Ou Ta Dan, O Ta Pan, O Ta Phăn, Prek Ta Phan Phé
 Ou Ta Det, O Ta Dĕt, អូរ តាដិត
-Ou Ta Dong, O Ta Dŏng, អូរតាដុង
+Ou Ta Dong, O Ta Dŏng, O Ta Pŭk, អូរតាដុង, អូរតាពុក
 Ou Ta Ei, O Ta Ei, អូរតាអី
 Ou Ta Er, O Ta É, អូរ តាអេរ
 Ou Ta Hai, O Ta Hai, អូរ តាហៃ
@@ -4292,7 +4279,6 @@ Phnom Penh, Krŏng Phnum Pénh, Municipalité de Phnom-Penh
 Phnom Penh Thmei, ភ្នំពេញថ្មី
 Phnom Proek, ភ្នំព្រឹក
 Phnom Srok, ភ្នំស្រុក
-Phnum
 Phnum A
 Phnum A Ren
 Phnum A Rĭk
@@ -5185,7 +5171,6 @@ Phnum Thkov, Phnom Tkau
 Phnum Thlaen, Phnum Thlên
 Phnum Thlaeum Thma, ភ្នំថ្លើមថ្ម
 Phnum Thlok Trabaek
-Phnum Thma
 Phnum Thma Angkaeb, Phnum Thmâ Ângkêb, Phnŭm Thmâ Ângkêp, ភ្នំថ្មអង្កែប
 Phnum Thma Chang, Phnŭm Thmâr Chang, ភ្នំ ថ្មចាំង
 Phnum Thma Doh, Phnom Thmados
@@ -5223,7 +5208,6 @@ Phnum Tmat Pông, Phnom Thmat Pong
 Phnum Tnaot Ta Say
 Phnum Tnaôt, Phnom Tenot
 Phnum To Ong
-Phnum Tong
 Phnum Tong Prong, Phnom Tong Prong, ភ្នំ ទងប្រុង
 Phnum Tonsaong, Phnŭm Tŭnsâong
 Phnum Totiek
@@ -5562,7 +5546,6 @@ Phum Băt Bângkov, Phum Bat Bang Keou, Phumĭ Băt Bângkov, ភូមិ ប�
 Phum Băt Haeuy, Phum Bat Hoy, ភូមិ បាត់ហើយ
 Phum Băt Kông, Phumĭ Băt Kông, ភូមិ បាត់គង
 Phum Bĕt Méas, Phum Kok Chas, Phumĭ Bĕt Méas, ភូមិ បិទមាស
-Phum Bŏeng, ភូមិ បឹង
 Phum Bŏk Kroch
 Phum Bŏs, ភូមិ បុស
 Phum Bŏs Chék, ភូមិ បុសចេក
@@ -5984,7 +5967,6 @@ Phum Kop, ភូមិ កូប
 Phum Koăh Aôk, ភូមិ កោះឧិក
 Phum Koăh Lŭm, Phumĭ Kaôh Lŭm, Phumĭ Koăh Lŭm, ភូមិ កោះលុំ
 Phum Koŭ Lŭn, Phum Kolan, Phumĭ Koŭ Lŭn, ភូមិ គោលុន
-Phum Koŭk, ភូមិ គោក
 Phum Koŭk Ampil, ភូមិ គោកអំពិល
 Phum Koŭk Cha, Phumĭ Koŭk Cha, ភូមិ គោកថា
 Phum Koŭk Chann, Phum Kauk Chan, Phumĭ Koŭk Chann (1), Phumĭ Koŭk Chăn (1), ភូមិ គោកចាន
@@ -5995,7 +5977,7 @@ Phum Koŭk Chôr, Kouk Choar, Phumĭ Koŭk Chôr, ភូមិ គោកជរ
 Phum Koŭk Chăn, Phum Kauk Chao, Phum Kok Chan, Phumĭ Koŭk Chăn, ភូមិ គោកចាន់
 Phum Koŭk Chăs, Kok Cha, ភូមិ គោកចាស់
 Phum Koŭk Chŭm, ភូមិ គោកជុំ
-Phum Koŭk Dong, Kok Daung, Phum Kok Dong, Phumĭ Koŭk Dong (2), ភូមិ គោកដូង
+Phum Koŭk Dong, Kok Daung, Phum Kok Dong, Phumĭ Koŭk Dong (2), ភូមិ គោក, ភូមិ គោកដូង
 Phum Koŭk Kbat, ភូមិ គោកក្បាត
 Phum Koŭk Kduŏch, Phum Kok Kduoch, Phumĭ Koŭk Kduŏch, ភូមិ គោកក្ដួច
 Phum Koŭk Kei, ភូមិ គោកកី
@@ -6253,7 +6235,6 @@ Phum Néak Ta, ភូមិ អ្នកតា
 Phum Néak Ta Sâmraông, ភូមិ អ្នកតាសំរោង
 Phum Néal, Phumĭ Néal
 Phum Néark Ta Prâchau, Phumĭ 'Neăkta Prâchau, Phumĭ Néark Ta Prâchau, Tuol Neak Ta Prachau, ភូមិ អ្នកតាប្រចោ
-Phum O, ភូមិ អូ
 Phum O Andong Kaeut, ភូមិ អូអណ្ដួងកើត
 Phum O Cha, ភូមិ អូចារ
 Phum O Chipoŭ, Phumĭ O Chipŏu, Sré Chipéou, ភូមិ អូជីពៅ
@@ -6261,7 +6242,7 @@ Phum O Chrap Pir, ភូមិ អូរចា្រប ពីរ
 Phum O Chrŏu, ភូមិ អូជ្រៅ
 Phum O Châmbâk, ភូមិ អូចំបក់
 Phum O Châmna Leu, Phumĭ O Châmnar Leu, ភូមិ អូចំណារលើ
-Phum O Da, ភូមិអូដា
+Phum O Da, ភូមិ អូ, ភូមិអូដា
 Phum O Doy, Phumĭ O Day
 Phum O Kau, ភូមិ អូកៅ
 Phum O Kâk, Phumĭ O Kák, ភូមិ អូកក
@@ -6680,7 +6661,6 @@ Phum Sraôm Pông, ភូមិ ស្រោមពង
 Phum Srâlau, Phum Sralao, ភូមិ ស្រឡៅ
 Phum Srânal, ភូមិ ស្រណាល
 Phum Srâng Thom, ភូមិ ស្រងធំ
-Phum Srê, ភូមិ ស្រែ
 Phum Srê Bak, ភូមិ ស្រែបាក់
 Phum Srê Bei, ភូមិ ស្រែបី
 Phum Srê Cham, Phum Sra Cham, Phumĭ Srê Cham, Sre Cham, ភូមិ ស្រែចាម
@@ -6688,7 +6668,7 @@ Phum Srê Cham Kraôm, Phumĭ Srê Cham Kraôm, ភូមិ ស្រែចា�
 Phum Srê Char, ភូមិ ស្រែចារ
 Phum Srê Choŭk, Phumĭ Srê Choŭk, ភូមិ ស្រែជោក
 Phum Srê Chrey, Sre Chay, ភូមិ ស្រែជ្រៃ
-Phum Srê Da, Sre Da, ភូមិ ស្រែដា
+Phum Srê Da, Sre Da, ភូមិ ស្រែ, ភូមិ ស្រែដា
 Phum Srê Hiĕv, ភូមិ ស្រែហៀវ
 Phum Srê Khchâng Haông, ភូមិ ស្រែខ្ចងហោង
 Phum Srê Khnŏng, Phumĭ Srê Knŏng, Sre Kong, ភូមិ ស្រែក្នុង
@@ -7458,8 +7438,6 @@ Phumĭ Bœ̆ng Ângkiĕt
 Phumĭ Bœ̆ng Ânhchanh, Phumĭ Bœ̆ng Ânchanh
 Phumĭ Ch'éh, Phumĭ Chaĕh
 Phumĭ Cha
-Phumĭ Cha (1)
-Phumĭ Cha (2)
 Phumĭ Cha Chrŭm
 Phumĭ Cha Thum, Phum Char, Phumi Cha Thom (1)
 Phumĭ Cha Êk, P'um Charek
@@ -7581,8 +7559,7 @@ Phumĭ Chrânéang, Chranéang
 Phumĭ Chré, Phum Chrea
 Phumĭ Chréav
 Phumĭ Chrés, Phum Trapeang Koy
-Phumĭ Chrôlông, Phumi Chra Tong
-Phumĭ Chrôlông (2), Chralong, Chrelong, Phumĭ Ch Chrôlông (2)
+Phumĭ Chrôlông, Chralong, Chrelong, Phumi Chra Tong, Phumĭ Ch Chrôlông (2)
 Phumĭ Chrôy
 Phumĭ Chrăng Krâhâm, Chang Krabom
 Phumĭ Chrăng Tôtœ̆ng, Phum Chrang Totung
@@ -7655,8 +7632,7 @@ Phumĭ Chéal Dom Cheung
 Phumĭ Chéang Hâm
 Phumĭ Chéarŏu, Svay Fong
 Phumĭ Chéav Pdei, Phum Chea Pdey, Phumĭ Chéav Phdei
-Phumĭ Chéay Sbai
-Phumĭ Chéay Sbai (1), Cheay Sbay
+Phumĭ Chéay Sbai, Cheay Sbay
 Phumĭ Chék, Phum Romchek, Sok Choeung
 Phumĭ Chômrŏu, Chumrou, Phumĭ Chŭmrŏu
 Phumĭ Chônlông, Phum Chanlong
@@ -7679,9 +7655,7 @@ Phumĭ Chŏng
 Phumĭ Chŏng Bœ̆ng, Chong Beng
 Phumĭ Chŏng Kaôh, Phum Chong Kas, Tan Lông
 Phumĭ Chŏng Kaôh Cheung, Phum Chong Kas Sautin
-Phumĭ Chŏng Khchăs (1), P'um Tûol Tria
-Phumĭ Chŏng Khchăs (2), P'um Ktieng Ktia
-Phumĭ Chŏng Khchăs (3)
+Phumĭ Chŏng Khchăs (1), P'um Ktieng Ktia, P'um Tûol Tria
 Phumĭ Chŏng Khsăch
 Phumĭ Chŏng Prêk, Chong Prek
 Phumĭ Chŏng Spéan
@@ -7702,7 +7676,6 @@ Phumĭ Chŭm Srŏk
 Phumĭ Chŭm Talăn
 Phumĭ Chŭmnób, Phumĭ Chŭmnôp
 Phumĭ Chŭmrum Réach
-Phumĭ Da
 Phumĭ Daeum, Phum Doeum
 Phumĭ Daeum Béng, Phum Dom Pet
 Phumĭ Daeum Chrey
@@ -7753,7 +7726,6 @@ Phumĭ Dondaôk, Phum Andoi
 Phumĭ Dondei, Phum Dondey
 Phumĭ Dong, Dong, Phum Daung, Phum Thmey
 Phumĭ Dong (1)
-Phumĭ Dong (2)
 Phumĭ Dong Huŏch, Dung Hoach
 Phumĭ Dong Khléang, Phum Doung Klang
 Phumĭ Dong Khpós, Phumĭ Dong Khpuŏs
@@ -7879,9 +7851,7 @@ Phumĭ Kaôh Kŏk Krau, Phum Cheung Kas Prak
 Phumĭ Kaôh Kŏng
 Phumĭ Kaôh Kŏsál
 Phumĭ Kaôh Lây
-Phumĭ Kaôh Mayeul (1), Ban Kohmagneul, Ban Kohnagneul, Ko Mayol
-Phumĭ Kaôh Mayeul (2)
-Phumĭ Kaôh Mayeul (3), Ban La Kam
+Phumĭ Kaôh Mayeul (1), Ban Kohmagneul, Ban Kohnagneul, Ban La Kam, Ko Mayol
 Phumĭ Kaôh Moân, Phum Kas Mean
 Phumĭ Kaôh Măk Prang, Phum Kâs Mak Praing
 Phumĭ Kaôh Nhang
@@ -8093,7 +8063,6 @@ Phumĭ Koŭk Srâlau, Phum Kourk Salao, Phum Kourk Selao
 Phumĭ Koŭk Srâmâr, Phum Kauk Sramâr, Phumĭ Koŭk Srâmâ
 Phumĭ Koŭk Srŏk, Khum Kauk Srok, Phum Kok Srok
 Phumĭ Koŭk Sâmraông
-Phumĭ Koŭk Sâmraông (2)
 Phumĭ Koŭk Sândêk, Phum Kôk Sandêk
 Phumĭ Koŭk Ta Kau, Phumĭ Koŭk Thkov
 Phumĭ Koŭk Tráb, Kantrap, Phum Prey Kantrâp, Phumĭ Koŭk Trâp
@@ -8150,7 +8119,6 @@ Phumĭ Krâvĕl Téak, Phum Kraval Teak
 Phumĭ Krâyéa
 Phumĭ Krêk, Phum Krek, Phum Krek Khnong
 Phumĭ Krêng
-Phumĭ Krăng, Krang, Krang Tapho
 Phumĭ Krăng A Ot, Phum Krang Arout
 Phumĭ Krăng Arei, Phum Krang Arei
 Phumĭ Krăng Cham, Phum Koang Cham
@@ -8158,7 +8126,7 @@ Phumĭ Krăng Chrânéang, Krang Chrânieng
 Phumĭ Krăng Chék
 Phumĭ Krăng Chăn, Krang Chnau, Krang Chuan
 Phumĭ Krăng Dei Vay
-Phumĭ Krăng Dong, Phum Kraing Daung
+Phumĭ Krăng Dong, Krang, Krang Tapho, Phum Kraing Daung
 Phumĭ Krăng Kdiĕb, Phumĭ Krăng Kidiĕp
 Phumĭ Krăng Khvav, Krang Khvap
 Phumĭ Krăng Khŭm, Kvang Kiam
@@ -8367,7 +8335,6 @@ Phumĭ Kông Chha, Kong Tcha, Phum Kong Tcha, Phumĭ Kung Chha
 Phumĭ Kôr, Trapeang Kôi
 Phumĭ Kămbo, Phumĭ Kâmpo, ភូមិក឴ប៉ូ
 Phumĭ Kămpa Du, Ban Kompadou, Phum Kompadou
-Phumĭ Kămpa Du (1)
 Phumĭ Kăn Deira, Kan Damra, Phum Kan Dâmra
 Phumĭ Kăn Thkŏb, Phumĭ Kan Thkŏp
 Phumĭ Kăng Cham
@@ -8393,7 +8360,6 @@ Phumĭ Kŭs, Khum Kŭss, Phnom Kus, Phumĭ Kŭss
 Phumĭ L'ák, Phum Loak, Phumĭ Laâk, Wat Laak
 Phumĭ La Œn, Phumĭ La Oeun
 Phumĭ Labăng (1), Labang Nhai
-Phumĭ Labăng (2)
 Phumĭ Lamĭnh
 Phumĭ Lao Tiĕ, Long Ste
 Phumĭ Lbaeuk, Phumĭ Lôbeauk
@@ -8481,7 +8447,6 @@ Phumĭ Mœn Si, Moeun Sey
 Phumĭ Mœăng Prâchĕn, Moeung Preaschen
 Phumĭ Mŭk Phŏh
 Phumĭ Mŭkh Réa (1), Phum Russey Krang, Phumĭ Mŭk Réa
-Phumĭ Mŭkh Réa (2), Phumĭ Mŭk Réa
 Phumĭ Namavang, Ban Namavang
 Phumĭ Neăk Kruŏr, Phum Neak Kruo, Phumĭ Nerk Kruŏr
 Phumĭ Ngôméng, P'um Ngo Meng
@@ -8511,8 +8476,7 @@ Phumĭ O Kdŏl
 Phumĭ O Khna Svay
 Phumĭ O Khsê Trêng, Phum Sre Treng
 Phumĭ O Khsăch
-Phumĭ O Khtóng (1), Phumĭ O Khtông Timvŏy
-Phumĭ O Khtóng (2), Phumĭ O Khtông Tipi
+Phumĭ O Khtóng (1), Phumĭ O Khtông Timvŏy, Phumĭ O Khtông Tipi
 Phumĭ O Kraôl
 Phumĭ O Kraôm, Rong Kar
 Phumĭ O Kroch, Spean Trach, Spoan Trach
@@ -8526,8 +8490,7 @@ Phumĭ O Leu
 Phumĭ O Lĕt
 Phumĭ O Môha
 Phumĭ O Nĭmĭtt, Phumĭ O Nimit, Ô Nimit
-Phumĭ O Phlăh (1)
-Phumĭ O Phlăh (2), Choeng Plah, Coeng Phlah, Goeng Phlah
+Phumĭ O Phlăh (1), Choeng Plah, Coeng Phlah, Goeng Phlah
 Phumĭ O Phŏt
 Phumĭ O Pidaeum, ភូមិ អូពីដើម
 Phumĭ O Poŭ
@@ -8581,7 +8544,6 @@ Phumĭ Peuk, Phum Poeuk
 Phumĭ Pey
 Phumĭ Peăng Dâmrei, Trapeang Rey
 Phumĭ Ph'av, Phum Phaap, Phum Phâav
-Phumĭ Phav
 Phumĭ Phchól, Phum Phchal, Phum Phchol, Phumĭ Phchŭl
 Phumĭ Phchœ̆k Chrŭm, Vat Phchek Chrum
 Phumĭ Phdau
@@ -8633,8 +8595,6 @@ Phumĭ Phteăh Sdau, Phum Phteas Sdau
 Phumĭ Phteăh Stœ̆ng
 Phumĭ Phêk, Phek, Vat Phék
 Phumĭ Phăt Sândaông
-Phumĭ Phăt Sândaông (1)
-Phumĭ Phăt Sândaông (2)
 Phumĭ Ping Póng, Phumĭ Ping Pŭng
 Phumĭ Pir Lvêng, Phum Pi Loveng
 Phumĭ Pnŏu, Phnou
@@ -8745,8 +8705,7 @@ Phumĭ Prey Poŭthĭ, Phum Prey Phanor, Phumĭ Prey Poŭ
 Phumĭ Prey Praeus
 Phumĭ Prey Preăh Srŏk
 Phumĭ Prey Prus, Phum Prey Pruos
-Phumĭ Prey Prás
-Phumĭ Prey Prâs (1), Prey-Pros
+Phumĭ Prey Prás, Prey-Pros
 Phumĭ Prey Préal, Kompong Prey Proh
 Phumĭ Prey Prŭm, Phum Prey Prom, Prey Pon
 Phumĭ Prey Pón Thum, Phumĭ Prey Pŭn Thom
@@ -8868,8 +8827,7 @@ Phumĭ Prâphluk
 Phumĭ Prâphnum, Phum Praphnom
 Phumĭ Prâprau, Phum Trapeang Proă
 Phumĭ Prâsal, Ban Prahal, Phum Prahal
-Phumĭ Prâsat, Pagoda Prasat, Phum Prasath, Phum Prasèt, Prasath
-Phumĭ Prâsat (1), Khum de Prasat, Prasai
+Phumĭ Prâsat, Khum de Prasat, Pagoda Prasat, Phum Prasath, Phum Prasèt, Prasai, Prasath
 Phumĭ Prâsat Ândêt
 Phumĭ Prâsnar, Phum Prâ Sna
 Phumĭ Prâsot, Pra Sot
@@ -8884,8 +8842,7 @@ Phumĭ Prâtéachéal, Prateah Cheal
 Phumĭ Prâtéal
 Phumĭ Prâvœ̆k Pông
 Phumĭ Prâyŭk
-Phumĭ Préal, Priel
-Phumĭ Préal (1), P'um Au Preal, P'um Priel
+Phumĭ Préal, P'um Au Preal, P'um Priel, Priel
 Phumĭ Préch, Phum Trapeang Préch
 Phumĭ Prén, P'um Pren
 Phumĭ Prêk, Kas Dăch, Phum Preck
@@ -8913,7 +8870,6 @@ Phumĭ Prêk Kânsêng, Wat Kanseng Sam
 Phumĭ Prêk Lvéa, Phumĭ Prêk Lôvéa, Prek Lovea
 Phumĭ Prêk Lŏng, Treal Chos
 Phumĭ Prêk Pikar, Phum Prêk Pikar
-Phumĭ Prêk Pikar (1), Phum Prêk Pikar
 Phumĭ Prêk Pra, Suor Kol
 Phumĭ Prêk Prânak, Prek Pânak
 Phumĭ Prêk Pôk, Trapéang Bot
@@ -8956,14 +8912,11 @@ Phumĭ Pu Ham
 Phumĭ Pu Khlâng
 Phumĭ Pu Khăt, Phum Pou Ang Kand
 Phumĭ Pu Klé (1)
-Phumĭ Pu Klé (2)
 Phumĭ Pu Klé Leu
 Phumĭ Pu Kroch (1)
-Phumĭ Pu Kroch (2)
 Phumĭ Pu Lngiĕm, Bu L'Nghiêm, Phumĭ Pu L'Nghiĕm (1)
 Phumĭ Pu Léng
 Phumĭ Pu Ngâl (1)
-Phumĭ Pu Ngâl (2)
 Phumĭ Pu Nhiĕm
 Phumĭ Pu Nâm
 Phumĭ Pu Pal, Bon Bu Pa
@@ -8979,7 +8932,6 @@ Phumĭ Pu Răch Kraôm (2)
 Phumĭ Pu Răch Leu
 Phumĭ Pu Than
 Phumĭ Pu Toy (1), Bu Toy
-Phumĭ Pu Toy (2)
 Phumĭ Pu Trom Kraôm
 Phumĭ Pu Trom Leu
 Phumĭ Pu Tru (1)
@@ -9021,7 +8973,6 @@ Phumĭ Pós Pông, Phumĭ Puŏs Pông
 Phumĭ Pôn
 Phumĭ Pông Tœ̆k, Phum Beng Pong Tuc, Phum Pong Túk, Phum Pôngtùk, Pong Tuk, Prey Khlôl
 Phumĭ Pôngrô, Phum Pong Rô, Phumĭ Pungrô, Pong Rôr, Pongror
-Phumĭ Pôngrô (1)
 Phumĭ Pôngrô Rôlĭnh, Phum Pông Rôaling
 Phumĭ Pôngrôr, Phum Pong Rô, Phumĭ Pŭngrô
 Phumĭ Pônhéa Prŭm, Phum Phnhea Prom
@@ -9039,7 +8990,6 @@ Phumĭ Pôpéch, Phumĭ Pôpĭch
 Phumĭ Pôpél, Khum Popel, Phum Popet
 Phumĭ Pôpél Thum, Phumĭ Pôpél Thom
 Phumĭ Pôpê, Pa Pê
-Phumĭ Pôpê (1)
 Phumĭ Pôpôk
 Phumĭ Pôpôk Vĭl, Popok Vil, Popok Vito
 Phumĭ Pôpœ̆s, Phum Popus
@@ -9091,7 +9041,6 @@ Phumĭ Rôka Ar Kraôm
 Phumĭ Rôka Kaông, Phum Roca Kong
 Phumĭ Rôka Khsâk, Phum Rokasok
 Phumĭ Rôka Péam (1)
-Phumĭ Rôka Péam (2)
 Phumĭ Rôka Thum, Phumĭ Rôka Thom, Roka Thom
 Phumĭ Rôka Thvéa, Roca Thvear
 Phumĭ Rôka Tông
@@ -9133,7 +9082,6 @@ Phumĭ Rœssei Chuŏr, Phum Russey Chou, Phum Russey Chuor, Phumĭ Rŭssei Chuŏ
 Phumĭ Rœssei Chŭb, Phum Rossey Chouk, Phumĭ Rŭssei Chŭp
 Phumĭ Rœssei Chŭk, Phum Russey Chhoek, Phumĭ Rŭssei Chŭk
 Phumĭ Rœssei Duôch, Phumĭ Rŭssei Duŏch, Russey Buoch
-Phumĭ Rœssei Duŏch, Phumĭ Rŭssei Duŏch
 Phumĭ Rœssei Dângkuŏch, Phum Russey Tang Kuoch, Phumĭ Rŭssei Dâng Kuŏch, Russey Tang Kuoch
 Phumĭ Rœssei Krăng, Phumĭ Rŭssei Krăng
 Phumĭ Rœssei Prey, Phum Russey Prey, Phumĭ Rŭssei Prey
@@ -9189,8 +9137,6 @@ Phumĭ Sei Smán
 Phumĭ Seiha, Ta Sanoh
 Phumĭ Sikar
 Phumĭ Siĕm
-Phumĭ Siĕm (1)
-Phumĭ Siĕm (2)
 Phumĭ Siĕm Néang, Phum Sâmrieng
 Phumĭ Siĕmbok, Phum Siembauk, Siemboc
 Phumĭ Siĕmbok Thmei
@@ -9360,8 +9306,7 @@ Phumĭ Svay Kăb, Phumĭ Svay Kap
 Phumĭ Svay Kŭn
 Phumĭ Svay Msau, Phum Svay Mosac, Phumĭ Svay Môsau
 Phumĭ Svay Méas, Phum Svai Meas
-Phumĭ Svay Pak
-Phumĭ Svay Pak (1), Phum Svai Pak, Phum Svai Porc
+Phumĭ Svay Pak, Phum Svai Pak, Phum Svai Porc
 Phumĭ Svay Ph'êm, Phum Svay Phaem, Phumĭ Svay Phaêm, Phumĭ Svay Pâêm
 Phumĭ Svay Poŭthĭ, Phumĭ Svay Poŭ, Săk Po
 Phumĭ Svay Prey, San Vék, Vat Ang Prey
@@ -9377,8 +9322,7 @@ Phumĭ Svay Sâr, P'um Svay Sâ, Phum Svai Sor, Phumĭ Svay Sa, Svay Sar
 Phumĭ Svay Ta Loŭm
 Phumĭ Svay Ta Méas
 Phumĭ Svay Ta Nón
-Phumĭ Svay Thum, Kaun Thnot, Phumĭ Svay Thom
-Phumĭ Svay Thum (2), Phum Soai Thom, Phumĭ Svay Thom (2)
+Phumĭ Svay Thum, Kaun Thnot, Phum Soai Thom, Phumĭ Svay Thom
 Phumĭ Svay Tmat, Phum Soai Thmat
 Phumĭ Svay Trâlâk, Phum Svay Ta Lak
 Phumĭ Svay Trêng, Svay Treng
@@ -9424,8 +9368,7 @@ Phumĭ Sâmâr Léav, Phum Sramar Leau
 Phumĭ Sândăn
 Phumĭ Sândŏl, Sandol
 Phumĭ Sâng Kdei
-Phumĭ Sâng Khav (1)
-Phumĭ Sâng Khav (2), Phum Sâng Khâo
+Phumĭ Sâng Khav (1), Phum Sâng Khâo
 Phumĭ Sâng Khoŭ, Phum Sang Kho
 Phumĭ Sângkaeub, Phumĭ Sângkaeup, Pra Trapéang
 Phumĭ Sângkréam Bor, Phumĭ Sângkréam Bo
@@ -9441,8 +9384,7 @@ Phumĭ Sângviĕn Moăn, Khum Sangvien Moan
 Phumĭ Sângvăn
 Phumĭ Sânláb Pôpôk, Lovéa Chhom, Phumĭ Sânlâp Pôpôk, Phumĭ Sânlób Pôpôk
 Phumĭ Sânlóng, Phum Sânlâng
-Phumĭ Sânlŭng, Phum Sanlong
-Phumĭ Sânlŭng (1), Phum Chan Lang
+Phumĭ Sânlŭng, Phum Chan Lang, Phum Sanlong
 Phumĭ Sântey, Sontey
 Phumĭ Sântéam, Phum Lonteas
 Phumĭ Sântŭk Krau, Wat Santuk Krae
@@ -9615,8 +9557,6 @@ Phumĭ Thlŏk Chrŏu
 Phumĭ Thlŏk Trâbêk
 Phumĭ Thlŏk Ândong, Phum Thlŏk Andongo, Phum Tlok Andong
 Phumĭ Thmei, Kompong Luong, Krang Thmey, Phum Thmey, Phum Thney, Phum Trâpeang Chrâniéng, Thmey, Vat Thmey, ភូមិថ្មី
-Phumĭ Thmei (1)
-Phumĭ Thmei (2), Phum Thmey
 Phumĭ Thmei Khang Kaeut
 Phumĭ Thmei Khang Lĕch
 Phumĭ Thmâ Koŭl, Phum Thmar Kaul
@@ -9663,7 +9603,6 @@ Phumĭ Titŭy
 Phumĭ Tmat Pông, Phumĭ Thmat Pông, Thmat Pong, Trapeang Thieng
 Phumĭ Tmay
 Phumĭ Tnaôt, Inot, Phum Phnot, Phum Thnot, Phum Tnol, Phum Tnot, Phum Trapeang Tra Kiet, Phumĭ Thaôt, Phumĭ Thaŏk, Phumĭ Thnaôt, Phumĭ Thnot, Thnol Bot, Tnol Bot
-Phumĭ Tnaôt (1), Phum Thnot
 Phumĭ Tnaôt Bat, Sa Tom
 Phumĭ Tnaôt Băk, Thnot Bak
 Phumĭ Tnaôt Chrŭm, Phum Thnot Chrum
@@ -9737,7 +9676,6 @@ Phumĭ Trâpeăng Khna
 Phumĭ Trâpeăng Khna Chhma, Khna Chhma
 Phumĭ Trâpeăng Khnar, Phum Trapeang Kna
 Phumĭ Trâpeăng Khnák (1)
-Phumĭ Trâpeăng Khnák (2)
 Phumĭ Trâpeăng Khtum
 Phumĭ Trâpeăng Khva
 Phumĭ Trâpeăng Koŭ
@@ -10063,9 +10001,8 @@ Phumĭ Véal Vôngs, Phumĭ Véal Vŭng
 Phumĭ Vêng Ta Sau
 Phumĭ Vóng
 Phumĭ Vôr Préng
-Phumĭ Vôtt, Phum Kompong Vât, Phumĭ Vatt
 Phumĭ Vôtt Chăs, Bèng Chùm, Phumĭ Voat Chass
-Phumĭ Vôtt Dŏng, Phumĭ Vatt Dŏng
+Phumĭ Vôtt Dŏng, Phum Kompong Vât, Phumĭ Vatt
 Phumĭ Vôtt Kdei, Phumĭ Voat Kdei
 Phumĭ Vôtt Phnum, Phumĭ Vatt Phnŭm, Vat Phnom, Wat Phnom
 Phumĭ Vôtt Prasat, Phumĭ Vatt Prasat
@@ -10392,7 +10329,6 @@ Prateal
 Pratheat, Phum Praheat, ប្រធាតុ
 Pravanh, Phum Prâvéanh, ភូមិ ប្រវាញ
 Prayutth, Phum Chĕn Rŏâm, ភូមិ ចិនរាំ
-Preaek
 Preaek A Chi, Phum Kandai, Prêk Achi, ព្រែកអាជី, ភូមិ កណ្តាល
 Preaek A Ti, Prêk Ati, ព្រែកអាទី
 Preaek Aeng, ព្រែកឯង
@@ -12175,7 +12111,6 @@ Steung Trang, ស្ទឹងត្រង់
 Sthapor
 Sthapor Pir
 Stoung
-Stueng, ភូមិ ស្ទឹង
 Stueng A Kay, Stung Atay, Stœ̆ng Atay
 Stueng Aban, Stung Aban, Stœ̆ng Aban
 Stueng Among, Stung Among, Stœ̆ng Amŏng
@@ -12328,7 +12263,7 @@ Stueng Santreae, Stung Santre, Stung Santréa, Stœ̆ng Sântrê, ស្ទឹ�
 Stueng Sar Stueng, Stung Sar, Stœ̆ng Sâr, Stœ̆ng Sô, ស្ទឹងសរ
 Stueng Say, Or Tasem, Stung Seay, Stœ̆ng Say
 Stueng Sdau, Stung Sdao, Stœ̆ng Sdau, ស្ទឹងស្តៅ
-Stueng Si
+Stueng Si, ភូមិ ស្ទឹង
 Stueng Siem Reab, Stung Siem Reap, Stœ̆ng Siĕmreap, Stœ̆ng Siĕmréab, ស្ទឹង សៀមរាប
 Stueng Sisophon, Stung Sisophon, Stœ̆ng Sisŏphŏn, ស្ទឹង ស៊ីសផុន
 Stueng Slab, Stung Slap, Stœ̆ng Slap, Stœ̆ng Slăb
@@ -12543,7 +12478,6 @@ Svay Tong
 Svay Tong Khang Cheung, ស្វាយទងខាងជើង
 Svay Tong Khang Tboung, ស្វាយទងខាងត្បូង
 Svay Yea, ស្វាយយា
-Svay sa, ស្វាយ ស
 Sya
 Sâmbor, Sambaur
 Sângkŭm Ândêt, Sângkôm Ândêt, សង្គមអណ្ដែត
@@ -12713,7 +12647,6 @@ Ta Veaeng Leu, តាវែងលើ
 Ta Voek
 Ta Yaek, Phumĭ Ta Yêk (1), តាយ៉ែក, ភូមិ តាយ៉ែក
 Ta Yin, Phum Ta Yĭn, Phumĭ Ta Yĭn, ភូមិ តាយិន
-Ta an, តាអាន
 Tadák Pông, Phumĭ Tadâk Pông, Tdac Pong
 Takeo, Khet Takeo, Khétt Takéo, Khétt Takêv, Khêt Takêv, Province de Takeo, Résidence de Takeo, Takêv
 Takôk, Phumĭ Takôk, តាគក

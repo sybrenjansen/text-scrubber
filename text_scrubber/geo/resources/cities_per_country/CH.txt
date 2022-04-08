@@ -304,7 +304,6 @@ Bronschhofen, Броншхофен, 布龍施霍芬
 Brontallo
 Brot-Dessous
 Brot-Plamboz
-Brugglen
 Bruggäcker
 Brunau
 Brunegg, Брунег, 布魯內格
@@ -317,6 +316,7 @@ Brusio, Brüsch, 布魯西奧
 Brämenhalden
 Brölberg
 Brügg, Брюг, Брюгг, 布呂格
+Brügglen, Брюглен, 布呂格倫
 Brüglen
 Brünggen
 Brünnli/Hardacker
@@ -343,7 +343,6 @@ Bulle, Bulle FR, Бюль, 比勒
 Bullet, Bullet VD, 比莱
 Bunt
 Buochs, Буокс
-Burg, Burg AG, 布爾格
 Burgdorf, Berthoud, Burgdorf BE, 布格多夫
 Burghof
 Burgistein, Бургиштайн, 布爾吉斯泰因
@@ -389,7 +388,7 @@ Bühler, Bühler AR
 Bülach, Бюлах, 比拉赫
 Bürchen, Bürchen VS, 比爾興
 Büren an der Aare, Бюрен-на-Аре, 阿勒河畔比倫
-Bürg
+Bürg, Burg AG, 布爾格
 Bürgelacker
 Bürglen, Bürglen TG, Bürglen UR, Бюрглен, 比格倫
 Büron
@@ -745,11 +744,11 @@ Flerden, Flearda, 弗萊爾登
 Fleurier
 Flims, Flem, Flims Dorf, 弗利姆斯
 Flond
-Fluh
 Flums, 弗盧姆斯
 Flurlingen, 弗盧林根
 Fläsch, Флеш, 弗萊施
 Flüelen, Флюелен, Флюйлен
+Flüh
 Flühli, Flühli LU, Флюли, 弗呂利
 Fontainemelon, 豐泰內梅隆
 Fontenais, 豐泰奈
@@ -840,11 +839,11 @@ Giswil, Гисвиль
 Giubiasco, 朱比亞斯科
 Giumaglio
 Givisiez, Siebenzach, 吉維謝
-Gland, Gland VD, 格朗
 Glarus, Glarona, Glaruna, 格拉魯斯
 Glattfelden, Глатфельден, 格拉特費登
 Gletterens
 Glovelier, 格洛韋利耶
+Gländ, Gland VD, 格朗
 Glärnischstrasse
 Gnosca, 尼奧斯卡
 Gockhausen
@@ -1346,7 +1345,6 @@ Lirenhof
 Littau, 利陶
 Lleitstrasse
 Locarno, Локарно, 洛迦诺
-Loch, Im Loch, Zum Loch
 Lochen
 Lochfeld
 Lochhof
@@ -1391,6 +1389,7 @@ Lätzenachere
 Läufelfingen, Laeufelfingen, Лойфельфинген, 洛伊弗芬根
 Léchelles, 萊謝爾
 Löberen
+Löch, Im Loch, Zum Loch
 Löffler
 Löhningen
 Lü
@@ -1635,9 +1634,8 @@ Novalles
 Novazzano, 諾瓦扎諾
 Nufenen, Nueinas, Nufenen GR, 努弗嫩
 Nunningen, 農寧根
-Nussbaumen, Nussbaumen (Obersiggenthal), Nussbaumen AG, Nussbaumen bei Baden
 Nussberg
-Nussbäumen
+Nussbäumen, Nussbaumen (Obersiggenthal), Nussbaumen AG, Nussbaumen bei Baden
 Nyon
 Näfels, Нефельс
 Näfenhäuser
@@ -2074,7 +2072,6 @@ Schnasberg
 Schneitberg
 Schnottwil, Шнотвиль, 施諾斯維爾
 Schollenberg
-Schonau
 Schottikon
 Schufelberg
 Schuppis
@@ -2370,6 +2367,7 @@ Undalen
 Undervelier, 安德韋利耶
 Unter Halden
 Unter Haltberg
+Unter Moos
 Unter Reppischtal
 Unter-Aathal
 Unter-Albis
@@ -2381,7 +2379,6 @@ Unter-Erlosen
 Unter-Fägswil
 Unter-Gisenrüti
 Unter-Langenhard
-Unter-Moos
 Unter-Ohringen
 Unter-Ottikon
 Unter-Schirmensee

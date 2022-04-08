@@ -1463,12 +1463,12 @@ Cañada de Guardia, Cañada de la Guardia, Cañada de la Guardia del San Gregori
 Cañada de Guaviyú
 Cañada de Ibáñez, Ibañez
 Cañada de Juan Manuel, Manuel
-Cañada de La Divisa
-Cañada de La Tortuga
+Cañada de La Divisa, Divisoria
+Cañada de La Tortuga, Cañada de Portugal, Tortuga
 Cañada de Las Rosas, Rosas
 Cañada de Leocadio, Cañada Leocadia, Cañada de Leocadia, Leocadia
 Cañada de Los Buñuelos
-Cañada de Los Manantiales
+Cañada de Los Manantiales, de los Manantiales
 Cañada de Lucio, Lucio
 Cañada de Marichal, Cañada Marichal, Marichal
 Cañada de Montaño, Montano
@@ -1516,7 +1516,6 @@ Cañada de la Chacra, Cañada de Modesto, Chacra, Modesto
 Cañada de la Concha
 Cañada de la Coronilla, Arroyo de la Coronilla Chico
 Cañada de la Cruz, Cruz, Honda
-Cañada de la Divisa, Divisoria
 Cañada de la Encierra, Encierra
 Cañada de la Enramada
 Cañada de la Estancia, Estancia
@@ -1562,7 +1561,6 @@ Cañada de la Sorpresa, Sorpresa
 Cañada de la Tapera, Cañada de los Curitas, Flores, Zanja de la Tapera
 Cañada de la Teja, Teja
 Cañada de la Torre, Torre
-Cañada de la Tortuga, Cañada de Portugal, Tortuga
 Cañada de la Totora, Cañada de la Totora de Solis Chico, Totora
 Cañada de la Viera, Viera
 Cañada de la Zorro, Cañada de Zorra, Zorro
@@ -1639,7 +1637,6 @@ Cañada de los Indios
 Cañada de los Juncos
 Cañada de los Leones, Cañada de los Ladrones, Leones
 Cañada de los Lobunos
-Cañada de los Manantiales, de los Manantiales
 Cañada de los Membrillos, Arroyo Membrillos, Cañada Membrillos, Membrillos
 Cañada de los Mimbres, Mimbres
 Cañada de los Minuanos, Minuanos
@@ -2125,7 +2122,6 @@ Cerro de la Chiva
 Cerro de la Cimarrona
 Cerro de la Cocoa
 Cerro de la Corona
-Cerro de la Cruz
 Cerro de la Cueva del Tigre
 Cerro de la Divisa
 Cerro de la Encierra
@@ -2176,7 +2172,6 @@ Cerro de las Carobas
 Cerro de las Chircas
 Cerro de las Cuentas, Cerro Cuentas
 Cerro de las Espadas
-Cerro de las Espinas
 Cerro de las Flores
 Cerro de las Hermanas
 Cerro de las Lagunitas
@@ -2394,8 +2389,6 @@ City Park, Parque Carrasco, Parque de Carrasco
 Ciudad De La Costa
 Ciudad Del Plata
 Ciudad Vieja
-Ciudad de la Costa
-Ciudad del Plata
 Clara
 Colinas de Solymar
 Colla
@@ -2505,7 +2498,6 @@ Costas del Águila
 Coxilha de Santana, Cochilha de Sant' Anna, Coxilha de Santa Anna, Cuchilla Santa Ana, Cuchilla de Santa Ana, Santana
 Cruz de Los Caminos
 Cruz de Piedra
-Cruz de los Caminos
 Cuareim
 Cuaró
 Cuatro Bocas
@@ -2668,12 +2660,9 @@ Cuchilla de Zuñiga
 Cuchilla de la Angostura
 Cuchilla de la Azote
 Cuchilla de la Carbonera, La Carbonera
-Cuchilla de la Colonia
-Cuchilla de la Cruz
 Cuchilla de la Mariscala, Cuchilla La Mariscala
 Cuchilla de la Tapera
 Cuchilla de la Virgen
-Cuchilla de las Averías
 Cuchilla de las Cañas, Central Cuchilla, Cuchilla Sopas, Cuchilla de las Sopas
 Cuchilla de las Flores, Cuchilla Las Flores, Cuchilla de la Flores
 Cuchilla de las Minas
@@ -2688,7 +2677,6 @@ Cuchilla de los Molles
 Cuchilla de los Molles del Timote
 Cuchilla de los Once Cerros, Cuchilla Once Cerros, Cuchilla de Once Cerros
 Cuchilla de los Perros
-Cuchilla de los Tres Cerros
 Cuchilla del Aiguá
 Cuchilla del Amapilio
 Cuchilla del Arbolito, Cuchilla Arbolito, Cuchilla del Salto
@@ -3408,7 +3396,6 @@ Parque Nacional Aarón de Anchorena, Anchorena National Park, Parque Anchorena
 Parque Nacional San Miguel
 Parque Nacional de Santa Teresa
 Parque Rodó
-Parque del Plata
 Partido Norte
 Partido Oeste
 Paso Ancho
@@ -3591,7 +3578,6 @@ Paso de Tabáres Grande
 Paso de Varro
 Paso de Villasboas
 Paso de Víctor
-Paso de la Arena
 Paso de la Atahona
 Paso de la Balsa
 Paso de la Barra
@@ -3602,13 +3588,11 @@ Paso de la Cadena
 Paso de la Calzada
 Paso de la Cantera
 Paso de la Carpintería
-Paso de la Cruz
 Paso de la Estancia
 Paso de la Estiva
 Paso de la Guardia
 Paso de la Herrería
 Paso de la Horqueta
-Paso de la Laguna
 Paso de la Llana
 Paso de la Piedras
 Paso de la Quinta
@@ -3625,14 +3609,12 @@ Paso de las Conchas
 Paso de las Coronillas
 Paso de las Flores
 Paso de las Mulas
-Paso de las Piedras
 Paso de las Tamberas
 Paso de las Toscas
 Paso de las Tropas
 Paso de las Tunas
 Paso de las Vacas
 Paso de las Yeguas
-Paso de los Carros
 Paso de los Catalanes
 Paso de los Cobres
 Paso de los Conventos
@@ -3647,7 +3629,6 @@ Paso de los Molles
 Paso de los Novillos
 Paso de los Sauces
 Paso de los Soldados
-Paso de los Talas
 Paso de los Troncos
 Paso de los Álamos
 Paso del Ahogado
@@ -3884,11 +3865,10 @@ Puerto de Carmelo, Puerto Carmelo
 Puerto de Colonia del Sacramento, Colonia, Puerto Franco
 Puerto de Fray Bentos, Fray Bentos
 Puerto de Juan L. Lacaze, Puerto del Sauce
-Puerto de La Paloma, El Puerto de La Paloma, Puerto Paloma
+Puerto de La Paloma, El Puerto de La Paloma, Ensenada de la Paloma, Paloma Roads, Puerto La Paloma, Puerto Paloma
 Puerto de Montevideo, Montevideo, Port of Montevideo
 Puerto de Nueva Palmira, El Puerto de Nueva Palmira
 Puerto de Piriápolis, Piriapolis Bay
-Puerto de la Paloma, Ensenada de la Paloma, Paloma Roads, Puerto La Paloma
 Puerto de los Botes
 Puerto del Buceo, Ensenada del Buceo, Puerto Buceo
 Puerto del Tigre
@@ -3911,7 +3891,7 @@ Punta Cerro Chato
 Punta Colorada
 Punta Conchillas
 Punta Corralito, Pedro López, Punta Atila, Punta Pedro López, Punta de Pedro López
-Punta Del Este
+Punta Del Este, East Point
 Punta Diamante
 Punta Diamantes
 Punta Dorado, Punta Garibaldi
@@ -3986,7 +3966,6 @@ Punta del Canario
 Punta del Chileno, Punta Chileno, Punta Granito
 Punta del Descanso, Punta Descanso
 Punta del Diablo, Cabo Castillo, Cape Castillo, Diablo, Punta Coronilla
-Punta del Este, East Point
 Punta del Fundo (historical)
 Punta del Islote, Punta del Isolte
 Punta del Marco, Marco Point, Punta del Marcos
@@ -4067,7 +4046,6 @@ Reynold
 Riacho del Vizcaíno
 Riachuelo
 Riffó
-Rincon De Valentin
 Rincón
 Rincón Bravo
 Rincón de Aparicio
@@ -4173,7 +4151,6 @@ San Gerónimo
 San Gregorio, Costa de San Gregorio
 San Gregorio De Polanco
 San Gregorio de Flores
-San Gregorio de Polanco
 San Jacinto
 San Javier
 San Jorge, Cerro San Jorge, Sauce de San Jorge
@@ -4289,7 +4266,6 @@ Sierra de las Ánimas
 Sierra de los Ajos, Cuchilla de la Islita
 Sierra de los Amarales
 Sierra de los Caracoles, Sierra Caracoles, Sierra de Caracoles
-Sierra de los Difuntos
 Sierra de los Leones
 Sierra de los Méndez, Sierra Los Méndez
 Sierra de los Perros

@@ -21,8 +21,7 @@ import pandas as pd
 from tqdm.auto import tqdm
 
 from text_scrubber.geo import clean_city, clean_region
-from text_scrubber.geo.resources._geonames_overrides import (MANUAL_ALTERNATE_NAMES_CITY, MANUAL_ALTERNATE_NAMES_REGION,
-                                                             MANUAL_HIERARCHY)
+from _geonames_overrides import MANUAL_ALTERNATE_NAMES_CITY, MANUAL_ALTERNATE_NAMES_REGION, MANUAL_HIERARCHY
 
 try:
     from mpire import WorkerPool
@@ -31,7 +30,8 @@ except ImportError:
     WorkerPool = None
     MPIRE_AVAILABLE = False
 
-RE_ALPHA = re.compile(r'[a-zA-Z]')
+RE_NON_ASCII = re.compile(r"[a-zA-Z0-9() ]")
+RE_JUNK = re.compile(r"[0-9()]")
 
 
 def main(geonames_dir: str, save_dir_cities: str, save_dir_regions: str, countries: List[str]) -> None:
@@ -112,6 +112,16 @@ def load_hierarchy(geonames_dir: str) -> pd.DataFrame:
     return df
 
 
+def set_union(s: Iterable[Set]) -> Set:
+    """
+    Returns the union of the list of sets
+
+    :param s: List of sets
+    :return: Union of list of sets
+    """
+    return reduce(set.union, s)
+
+
 def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save_dir_regions: str,
                     country_langs_map: Dict[str, Set[str]], df_hierarchy: pd.DataFrame,
                     manual_hierarchy: Dict[str, Dict[str, List[str]]],
@@ -162,13 +172,15 @@ def process_country(filename: str, geonames_dir: str, save_dir_cities: str, save
     df_cities = merge_on_hierarchy(df_cities, df_hierarchy, manual_hierarchy)
 
     # Remove duplicate names and drop columns that are no longer of interest
-    df_cities, dropped_cities = remove_duplicates_and_without_population(df_cities, drop_population=True,
-                                                                         drop_columns=True)
-    df_regions, _ = remove_duplicates_and_without_population(df_regions, drop_population=False, drop_columns=False)
+    df_cities, dropped_cities = remove_duplicates_and_without_population(df_cities, clean_city,
+                                                                         drop_population=True, drop_columns=True)
+    df_regions, _ = remove_duplicates_and_without_population(df_regions, clean_region,
+                                                             drop_population=False, drop_columns=False)
 
     # Merge cities without population with regions
     df_regions = pd.concat([df_regions, dropped_cities])
-    df_regions, _ = remove_duplicates_and_without_population(df_regions, drop_population=False, drop_columns=True)
+    df_regions, _ = remove_duplicates_and_without_population(df_regions, clean_region,
+                                                             drop_population=False, drop_columns=True)
 
     # Save to file
     manual_alternate_names_city = manual_alternate_names_city.get(filename[:2], {})
@@ -201,16 +213,6 @@ def is_latin(text: str) -> bool:
     except ValueError:
         # Character couldn't be found, definitely not LATIN
         return False
-
-
-def set_union(s: Iterable[Set]) -> Set:
-    """
-    Returns the union of the list of sets
-
-    :param s: List of sets
-    :return: Union of list of sets
-    """
-    return reduce(set.union, s)
 
 
 def add_alternate_names(geonames_dir: str, df_cities: pd.DataFrame, df_regions: pd.DataFrame,
@@ -336,7 +338,7 @@ def merge_on_hierarchy(df: pd.DataFrame, df_hierarchy: pd.DataFrame,
     return df
 
 
-def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: bool,
+def remove_duplicates_and_without_population(df: pd.DataFrame, clean_func: Callable, drop_population: bool,
                                              drop_columns: bool) -> Tuple[pd.DataFrame, Optional[pd.DataFrame]]:
     """
     Removes duplicate entries based on name and asciiname, but taking the union of alternate names in the process. Also
@@ -344,32 +346,36 @@ def remove_duplicates_and_without_population(df: pd.DataFrame, drop_population: 
     name of Chicago, as it is also a city. Entries without population are also removed.
 
     :param df: DataFrame of cities or regions
+    :param clean_func: Clean function to use
     :param drop_population: Whether to drop entries without population
     :param drop_columns: Whether to drop unused columns
     :return: DataFrame of cities or regions
     """
     # Groupby name to get rid of duplicates. When rows are merged, we take the union of alternate names
-    df = df.groupby('name')[['asciiname', 'alternate name', 'population']].agg(
-        {'alternate name': set_union, 'asciiname': 'first', 'population': max}
+    df['cleaned_name'] = df['name'].apply(clean_func)
+    df['name'] = df['name'].apply(lambda name: {name})
+    df = df.groupby('cleaned_name')[['asciiname', 'alternate name', 'name', 'population']].agg(
+        {'name': set_union, 'alternate name': set_union, 'asciiname': 'first', 'population': max}
     ).reset_index()
 
     # Combine names based on equal ascii name. Again, when rows are merged we take the union of alternate names
     df = df.groupby('asciiname')[['name', 'alternate name', 'population']].agg(
-        {'name': lambda x: x.unique(), 'alternate name': set_union, 'population': max}
+        {'name': set_union, 'alternate name': set_union, 'population': max}
     ).reset_index()
 
     def process_multiple_names(row):
         """
         Does nothing if the name is already a string. However, in the other case where it's a list of strings we
         determine which variant has the most non-ascii characters and return that one. E.g., [Chenet, Chênet] -> Chênet.
+        We penalize heavily here on names that use numbers and parentheses. E.g. [Agrovila, Agrovila 2] -> Agrovila.
         If there's a tie, we select the longest one. E.g. [Etten, Etten-Leur] -> Etten-Leur. If there's still a tie,
         sort and return the first one. The other name is added to the alternate names. If they are similar after `
         clean_city`, they will be removed when saving the names to file.
         """
         if isinstance(row['name'], str):
             return pd.Series([row['name'], row['alternate name']])
-        names = sorted(((len(RE_ALPHA.sub('', name)), len(name), name) for name in row['name']),
-                       key=lambda tup: (-tup[0], -tup[1], tup[2]))
+        names = sorted(((len(RE_NON_ASCII.sub('', name).strip(' -')) - len(RE_JUNK.findall(name)) * 2, len(name), name)
+                        for name in row['name']), key=lambda tup: (-tup[0], -tup[1], tup[2]))
         name = names[0][2]
         other_alternate_names = {name for _, _, name in names[1:]}
         return pd.Series([name, row['alternate name'] | other_alternate_names])

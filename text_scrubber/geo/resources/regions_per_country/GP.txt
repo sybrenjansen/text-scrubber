@@ -34,7 +34,6 @@ Anse Chadièque
 Anse Champagne
 Anse Chapelle
 Anse Christophe, Baie de Saint-Christophe
-Anse Colas
 Anse Conchou
 Anse Coudrier
 Anse Crawen
@@ -50,7 +49,6 @@ Anse Fillon, Anse Sillon
 Anse Fontaine
 Anse Francœur, Francoeur Bay
 Anse Galet
-Anse Galets
 Anse Galette
 Anse Gragée
 Anse Grand Coulant
@@ -201,7 +199,6 @@ Anse à la Fontaine
 Anse à la Gourde, Anse de La Gourde, Anse à Gourde
 Anse à la Source
 Anse à Éblain
-Anse-Bertrand
 Archange
 Archevêque
 Arnouville
@@ -232,7 +229,6 @@ Baie du Marigot
 Baie du Nord-Ouest, Baie du Nord-Est, Nord-Ouest Bay
 Baie du Trou Cochon
 Baie à Chat
-Baie-Mahault
 Baille-Argent
 Baillif
 Baimbridge
@@ -330,7 +326,6 @@ Belle Isle
 Belle Mare
 Belle Place
 Belle Plaine
-Belle-Plaine
 Belle-Vue
 Bellemont
 Bellevue
@@ -749,7 +744,6 @@ Dampierre
 Dans Fond
 Darboussier
 Daube
-Daubin
 David
 Davidon
 De Poyen
@@ -1350,7 +1344,6 @@ La Grange
 La Grippière
 La Grivelière, La Grivellière
 La Grosse Roche
-La Haut
 La Haute Plaine
 La Hotte
 La Houssaie
@@ -1922,7 +1915,6 @@ Morne Saint-Jean, Mont Saint-Jean
 Morne Saint-Robert, Montagne Saint-Robert
 Morne Sainte-Marguerite
 Morne Salé
-Morne Savon
 Morne Schoelcher
 Morne Scipion
 Morne Sec
@@ -2073,7 +2065,6 @@ Petit Étang
 Petit Étang Paille
 Petit Îlet
 Petit-Bourg
-Petit-Canal
 Petite Anse, Little Bay, Petites Anses
 Petite Anse Kahouanne
 Petite Anse Pain de Sucre
@@ -2094,7 +2085,6 @@ Petite la Biche
 Petite-Sucrerie
 Petites Mamelles
 Petites Salines
-Petites-Anses
 Petits Galets
 Petits Îlets, Petits Islets
 Philipsbourg
@@ -2226,7 +2216,6 @@ Pointe Kicali
 Pointe Laborde
 Pointe Lambis
 Pointe Lariette
-Pointe Latanier
 Pointe Latonier
 Pointe Lucien
 Pointe Machette
@@ -2251,7 +2240,7 @@ Pointe Morne à Savon
 Pointe Morphy
 Pointe Ménard
 Pointe Nogent
-Pointe Noire
+Pointe Noire, Пуент-Нуар, بوانت-نوار
 Pointe Pasquereau, Pointe Pacraut
 Pointe Paté
 Pointe Paul Thomas
@@ -2280,7 +2269,6 @@ Pointe Sainte-Marguerite, Pointe Sainte Margerite
 Pointe Salée
 Pointe Saragot, Pointe Sarragot
 Pointe Sec
-Pointe Soldat
 Pointe Sud, La Point Sud
 Pointe Séraphine
 Pointe Tarare
@@ -2435,7 +2423,6 @@ Pointe à l'Aiguille
 Pointe à l'Eau, Pointe du Portail
 Pointe à l'Îlet, Pointe à l'Île
 Pointe à la Gourde
-Pointe-Noire, Пуент-Нуар, بوانت-نوار
 Pointe-à-Pitre
 Poirier
 Pombiray, De Pombiray
@@ -2443,7 +2430,6 @@ Pont Ballon
 Pont Canal
 Pontinette
 Port Blanc
-Port Louis
 Port de Sainte-Marie
 Port-Louis
 Porte d'Enfer, Anse Porte d'Enfer, Portes d'Enfer, Portland Bay
@@ -3064,7 +3050,6 @@ Source de Poucet
 Soutoule
 Subercazeaux, Subercazeau
 Sueur de Mon Front
-Sur Morne
 Sur le Morne
 Surgy, De Surgy
 Sylvain
@@ -3080,10 +3065,8 @@ Tarare
 Tassy
 Terrasson
 Terre Grasse
-Terre de Bas, Terre d'en Bas
-Terre de Haut, Terre d'en Haut
-Terre-de-Bas, Lower Saint Island, Saint Paul Island, Terre d'en Bas, Terre du Bas, Île Saint-Paul
-Terre-de-Haut, Bourg des Saintes, Le Bourg des Saintes, Saint Peter Island, Terre d'en Haut, Upper Saint Island, Île Saint-Pierre, Терр-де-О
+Terre de Bas, Lower Saint Island, Saint Paul Island, Terre d'en Bas, Terre du Bas, Île Saint-Paul
+Terre de Haut, Bourg des Saintes, Le Bourg des Saintes, Saint Peter Island, Terre d'en Haut, Upper Saint Island, Île Saint-Pierre, Терр-де-О
 Terres Fondues
 Territoire Caraïbe
 Thibault
@@ -3172,8 +3155,7 @@ Vieille Case
 Vieux Blanchet
 Vieux Bourg
 Vieux Côte
-Vieux Fort
-Vieux-Fort, Вє-Фор
+Vieux Fort, Вє-Фор
 Vieux-Habitants
 Vigo
 Vilate

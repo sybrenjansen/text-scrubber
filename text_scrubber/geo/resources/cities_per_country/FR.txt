@@ -158,9 +158,9 @@ Aiguebelle, Егбел, ایگوبل
 Aigueblanche, Егбланш, ایگوبلانچ
 Aiguefonde
 Aigueperse, Aigaparsa, Guiparsa, Егепер, Егеперс, Егпер, Егперс, ایگوپرس، رهان, ایگوپرس، پوی-دو-دام, 艾盖佩尔斯
+Aigues Vives, Aigas Vivas, Aigasvivas, Ег-Вив, Егу Вив, ایگوس-ویوز، ائود, ایگوس-ویوز، اریگ, ایگوس-ویوز، هرالت, ایگوس-ویوز، گارد, 艾格维沃
 Aigues-Juntes, Aigasjuntas, Ег-Жент, Егу-Жуант, ایگ-ژونت, ایگوس-جانتس, 艾格然特
 Aigues-Mortes, Aigas Mòrtas, Aigasmòrtas, Aigüesmortes, Ег-Морт, ایگوس-مورتس, 艾格莫尔特
-Aigues-Vives, Aigas Vivas, Aigasvivas, Ег-Вив, Егу Вив, ایگوس-ویوز، ائود, ایگوس-ویوز، اریگ, ایگوس-ویوز، هرالت, ایگوس-ویوز، گارد, 艾格维沃
 Aiguilles, Agulhas, Aiguilles-en-Queyras, Егиј, Егіль, Эгюий, ایگویلس, 艾吉耶
 Aiguillon, Agulhon, Агвијон, Егијон, Егійон, ایگویلون، لات-ا-گارون, 艾吉永
 Aiguines, Aiguina, Еген, Егін, ایگوینز, 艾居伊纳
@@ -5592,7 +5592,7 @@ Chamousset, Шамусе, Шамуссе
 Chamoux, Шаму, 尚乌
 Chamoux-sur-Gelon
 Chamoy
-Champ-Dolent
+Champ Dolent
 Champ-Haut, Шам-О, Шан О, 尚奥
 Champ-Laurent
 Champ-du-Boult, Шам-дю-Бу, Шан ди Бу, Шан-дю-Буль, 尚迪布尔
@@ -6407,13 +6407,13 @@ Chârost, Шаро, 沙罗斯
 Châtaincourt, Шатенкур, 沙坦库尔
 Châtas, Шата
 Château, Шато
+Château Gaillard, Шато Гајар, Шато-Гайар, شاتو-غايلار, 沙托－加亚尔
 Château-Bernard
 Château-Bréhain, Шато Брејен, Шато-Бреен, شاتو-برهن, 沙托布雷安
 Château-Chalon, Шато Шалон, 沙托沙隆
 Château-Chervix, Chasteu Chervic, Chasteuchervic, Шато Шерви, 沙托谢尔维
 Château-Chinon(Campagne), Château-Chinon-Campagne
 Château-Chinon(Ville), Château-Chinon, Château-Chinon-Ville
-Château-Gaillard, Шато Гајар, Шато-Гайар, شاتو-غايلار, 沙托－加亚尔
 Château-Garnier, Шато Гарније, Шато-Гарньє, 沙托加尔涅
 Château-Gontier, Шато Гонтје, Шато-Гонтьє, 沙托贡蒂耶
 Château-Guibert, Шато Гибер, 沙托居伊贝尔
@@ -7470,7 +7470,7 @@ Courchamps, Куршам, Куршан, 库尔尚普
 Courchapon, Куршапон, 库尔沙蓬
 Courchaton, Куршатон
 Courchelettes, Куршелет, Куршелетт, 库尔谢莱特
-Courchevel, Куршевель, کورشول
+Courchevel, Courchevel Moriond, Куршевель, کورشول
 Courcité, Курсите, 库尔西泰
 Courcival, Курсивал
 Courcouronnes, Куркурон, Куркуронн, كوركورون, 库尔库罗纳
@@ -10928,10 +10928,10 @@ Grancey-le-Château-Neuvelle, Grancey, Грансе-ле-Шато-Невель, 
 Grancey-sur-Ource, Grancey, Грансе-сюр-Урс, 乌尔克河畔格朗塞
 Granchain, Grandchain, Граншен, 格朗尚
 Grand, Гран, 格朗
+Grand Champ, Gregam, Гран-Шам, 格朗尚
 Grand Nantoin, Nantoin
 Grand-Brassac, Braçac lo Grand, Grand Braçac, Гран-Брасак, Гран-Брассак, 格朗布拉萨克
 Grand-Camp
-Grand-Champ, Gregam, Гран-Шам, 格朗尚
 Grand-Charmont, Гран-Шармон, 格朗沙尔蒙
 Grand-Corent, Гран-Коран, غران-كورون, 大科朗
 Grand-Couronne, Гран-Куронн
@@ -12576,16 +12576,30 @@ Kœtzingue, Кеценг, Кецинг, 科埃特赞盖
 Kœur-la-Grande, Koeur
 Kœur-la-Petite, Koeur, Кер ла Петит, 小科厄
 L'Absie
+L'Airière
+L'Aleu, Лале, 拉勒
+L'Alleu, An Alloz
+L'Argentière, LArgentièira, LArgentèira, Ларжантьер, Ларжантьєр, لارگینٹیری, 拉尔让蒂埃
+L'Arrêt
+L'Aunoy
+L'Aurière, LAuriera, Лорьер, Лорєр, 洛里埃
 L'Escale, L'Eseale
 L'Escarène
 L'Haÿ-les-Roses, L'Hay
+L'Herm, LÈrm, 耶尔姆
+L'Huis, L'Huis-au-Gru, Люи, لويس, 吕伊斯
+L'Isle, LEsla, Le l'Isle, Лиль, 利斯尔
 L'Isle-Adam, Л'Іль-Адам, 利斯勒阿当
 L'Isle-Jourdain, Л'Иль-Журден
 L'Isle-d'Abeau, Ile d'Abeau, Isle-d'Abeau
 L'Isle-en-Dodon
 L'Isle-sur-la-Sorgue, Isle sur Sorgue, Isle sur la Sorgue, L'Illa de Sòrga, Л'Іль-сюр-ла-Сорг, 拉-索尔居厄河畔利斯勒
+L'Olme
+L'Ozon, 洛宗
 L'Union, Л'Юньон
-L'Épine
+L'Échelle, Лешель, ليتشيل, 莱谢勒
+L'Écluse, Леклюз, 莱克吕斯
+L'Épine, Лепин, لبين, 莱皮讷
 L'Étang-la-Ville
 L'Étrat
 L'Île-Bouchard, L'Isle-Bouchard, Île-Bouchard
@@ -12748,6 +12762,7 @@ La Chambre, La Chambra, Ла-Шамбр, Шамбр, لا شامبری
 La Champenoise, Ла-Шампенуаз, Шаноаз, لا شامپینویسی, 拉尚庞瓦斯
 La Chapelaude, La Chapela Auda, La Chapèla dAuda, Ла-Шаплод, Шапелод, 拉沙佩洛德
 La Chapelle, La Chapela, La Chapela de Gresinhac, La Chapelle en Valjouffrey, La Chapelle-Grésignac, La Chapelle-Grézignac, La Chapelle-Pouilloux, La Chapèla dArona, Ла-Шапель, Ла-Шапель-Грезиньяк, Шапел, لا شاپیل-گریسیگناک, لا شاپیل، ارڈینیس, لا شاپیل، چارینٹی, 拉沙佩勒, 拉沙佩勒格雷西尼亚克
+La Chapelle Bâton, Chapelle-Bâton, Ла-Шапель-Батон, Шапел Батон, لا شاپیل-باٹون، ویینی, 拉沙佩勒巴通
 La Chapelle-Achard, Ла-Шапель-Ашар, Шапел Ашар, لا شاپیل-اچارڈ, 拉沙佩勒阿沙尔
 La Chapelle-Agnon, Chapelle-Agnon, La Chapèla dAnhon, Ла-Шапель-Аньон, Шапел Ањон, لا شاپیل-اگنون, 拉沙佩勒阿尼翁
 La Chapelle-Anthenaise
@@ -12761,7 +12776,6 @@ La Chapelle-Biche, Ла-Шапель-Биш, Шапел Биш, 拉沙佩勒比�
 La Chapelle-Blanche, Ar Chapel-Wenn, Ла-Шапель-Бланш
 La Chapelle-Blanche-Saint-Martin
 La Chapelle-Bouëxic, Chapel-ar-Veuzid
-La Chapelle-Bâton, Chapelle-Bâton, Ла-Шапель-Батон, Шапел Батон, لا شاپیل-باٹون، ویینی, 拉沙佩勒巴通
 La Chapelle-Chaussée, Chapel-ar-Galc'hed, Ла-Шапель-Шоссе, لا شاپیل-چوسیی, 拉沙佩勒绍塞埃
 La Chapelle-Craonnaise
 La Chapelle-Cécelin, Ла-Шапель-Сеселен, Шапел Сеселен, لا شاپیل-کیسیلین, 拉沙佩勒塞瑟兰
@@ -12972,8 +12986,8 @@ La Creuse, Крез, Ла-Крез, لا کریوسی
 La Crique
 La Croisille
 La Croisille-sur-Briance, La Crosilha, Кроазиј сир Бријанс, Ла-Круазий-сюр-Брианс, لا کرویسیلی-سور-بریانکی, 布里昂斯河畔拉克鲁瓦西勒
+La Croix Blanche, La Crotz Blanca, Ла-Круа-Бланш, لا کروئی-بلانشی, 拉克鲁瓦布朗克
 La Croix-Avranchin, Кроакс Авраншен, Ла-Круа-Авраншен, لا کروئی-اورانشین, 拉克鲁瓦阿夫朗尚
-La Croix-Blanche, La Crotz Blanca, Ла-Круа-Бланш, لا کروئی-بلانشی, 拉克鲁瓦布朗克
 La Croix-Comtesse
 La Croix-Helléan, Ar Groez-Helean, Кроакс Елеан, Ла-Круа-Еллеан, لا کروئی-ہیلیان, 拉克鲁瓦埃莱昂
 La Croix-Saint-Leufroy
@@ -13054,7 +13068,7 @@ La Flèche, Ла-Флеш, لا فلیشی, لافلش
 La Folie, Ла-Фоли, لا فولی, 拉福利耶
 La Folletière
 La Folletière-Abenon, Ла-Фольтьер-Абенон, Ла-Фольтьер-Абнон, Ла-Фольтьєр-Абенон, لا فولیٹیری-ابینون, 拉福莱蒂埃阿邦翁
-La Fontaine-Saint-Martin, Ла-Фонтен-Сен-Мартен, لا فونتاینی-سین-مارٹین
+La Fontaine Saint-Martin, Ла-Фонтен-Сен-Мартен, لا فونتاینی-سین-مارٹین
 La Fontelaye
 La Fontenelle, Ar Fantanig
 La Force, La Fòrça, Ла-Форс, لا فورس، دوردوگنی, 拉福尔克
@@ -13117,7 +13131,7 @@ La Gouesnière, Gouenaer, Ла-Гуеньер, Ла-Гуеньєр, لا گوی�
 La Goulafrière
 La Goutelle
 La Grand-Croix, Ла-Гран-Круа, لا گرانڈ-کروئی, 拉格朗克鲁瓦
-La Grande-Motte, La Mota Granda, Ла-Гранд-Мотт, لا گراندی-موتی, 拉格朗德默特
+La Grande Motte, La Mota Granda, Ла-Гранд-Мотт, لا گراندی-موتی, 拉格朗德默特
 La Grande-Paroisse, Ла-Гранд-Паруасс, لا گراندی-پارویسی
 La Grande-Résie
 La Grande-Verrière, Ла-Гранд-Веррьер, Ла-Гранд-Веррєр, لا گراندی-ویریری
@@ -13226,7 +13240,7 @@ La Madeleine-sur-Loing, Ла-Маделен-сюр-Луен, لا مادیلین
 La Magdelaine-sur-Tarn, La Magdalena, La Magdalena de Tarn, Ла-Магделен-сюр-Тарн, Ла-Мадлен-сюр-Тарн, لا ماگدیلاینی-سور-تارن, 塔尔恩河畔拉马格代兰
 La Magdeleine
 La Mailleraye-sur-Seine, La Mailleraye, Mailleraye-sur-Seine
-La Maison-Dieu, Ла-Мезон-Дье, Ла-Мезон-Дьє, لا مایسون-دیو, 拉迈松德约
+La Maison Dieu, Ла-Мезон-Дье, Ла-Мезон-Дьє, لا مایسون-دیو, 拉迈松德约
 La Malachère
 La Malhoure, Lanvelor, Ла-Малур, لا مالہوری, 拉马尤尔
 La Malmaison, Ла-Мальмезон, 拉马尔迈松
@@ -13853,7 +13867,6 @@ Lainsecq, Ленсек, لائنسیک, 兰塞
 Lainville-en-Vexin, Ленвиль-ан-Вексен, لائنویل-این-ویکسین
 Laire, Лер, لائری, 莱尔
 Laires, Лер, لايريس, 莱尔
-Lairière
 Lairoux, Леру, لائرو, 莱鲁
 Laissac
 Laissaud
@@ -13876,13 +13889,11 @@ Lalanne-Arqué
 Lalanne-Trie, La Lana, La Lana de Tria, Лалан-Три, Лаланн-Трі, 拉朗特里耶
 Lalaye, Лале, لالاي, لالای, 拉莱埃
 Lalbenque, LAlbenca, Лальбенк, لالبینقوی, 拉尔邦屈埃
-Laleu, Лале, 拉勒
 Lalevade-d'Ardèche, Lalevade
 Lalheue, Лале, لالہیوی
 Lalinde, La Linda, Лаленд, لالینڈی
 Lalizolle, La Lisòla, Лализоль, 拉利佐尔
 Lallaing, Лаллен, 拉兰
-Lalleu, An Alloz
 Lalleyriat
 Lalobbe
 Lalongue, Lalonga, Лалонг, لالونگوی, 拉隆盖
@@ -14204,7 +14215,6 @@ Lardiers, Лардье, Лардьє, 拉尔迪耶尔
 Lardy, Ларди, لارڈی, 拉尔迪
 Larequille, Durdat-Larequille
 Largeasse
-Largentière, LArgentièira, LArgentèira, Ларжантьер, Ларжантьєр, لارگینٹیری, 拉尔让蒂埃
 Largillay-Marsonnay, Largillay, Ларжіє-Марсонне, لارگیلای-مارسونای, 拉尔吉莱马尔索奈
 Largitzen, Ларжицен, لارگیٹزین, 拉尔吉特藏
 Largny-sur-Automne, Largny, Ларньи-сюр-Отон, 欧通讷河畔拉尔尼
@@ -14233,7 +14243,6 @@ Larrau, Larraine, Ларро, لارو, 拉尔罗
 Larrazet
 Larressingle, Larressingla, Ларресенгль, Ларрессенгль, لاریسینگلی, 拉尔雷桑格尔
 Larressore, Larresoro, Ларресор, Ларрессор, لاریسوری, 拉尔雷索尔
-Larret
 Larreule, La Reula, Ларрель, لاریولی، پیرینیس-اتلانتیکیو, 拉尔勒尔
 Larribar, Larribar-Sorhapuru, Larribarre-Sorhapürü, Ларрибар-Сорапюрю, لاریبار-سورہاپورو, 拉尔里巴索拉皮吕
 Larringes, Ларренж, لارینگیس
@@ -14317,7 +14326,6 @@ Launac, Лонак, 洛纳克
 Launaguet, Лонаге, 洛纳盖
 Launay-Villiers
 Launois-sur-Vence, Launois, Лонуа-сюр-Ванс, 洛努瓦叙旺斯
-Launoy
 Launstroff, Лонстрофф, لنسترف, 洛恩斯特罗
 Laurabuc
 Laurac, Лорак, 洛拉克
@@ -14331,7 +14339,6 @@ Lauresses
 Lauret
 Laurie, Lauria, Лори, 洛里耶
 Lauris, Lauris-sur-Durance, Làurias, Лорис, 洛里
-Laurière, LAuriera, Лорьер, Лорєр, 洛里埃
 Lauroux, Лору, 洛鲁
 Laurède
 Laussonne
@@ -14691,9 +14698,9 @@ Le Givre, Живр, Ле-Живр, 莱吉夫勒
 Le Glaizil, Le Glaieil, Lo Glaisiu, Глезил, Ле-Глезиль, Ле-Глезій, 勒格莱齐
 Le Gouray, Гуре, Ле-Гуре, 勒古赖
 Le Grais, Ле-Гре, 勒格赖
+Le Grand Bourg, Grand Bourg, Le Borg, Salanhac, Ле-Гран-Бур, 勒格朗布尔
 Le Grand-Abergement, Grand-Abergement, Ле-Гранд-Абержеман, Ле-Гранд-Абержман, لو غراند-أبيرجيمون, 大阿伯尔热芒
 Le Grand-Bornand, Grand Bornand, Ле-Гран-Борнан
-Le Grand-Bourg, Grand Bourg, Le Borg, Salanhac, Ле-Гран-Бур, 勒格朗布尔
 Le Grand-Celland, Celland Le Grand, Ле-Гран-Селлан, 勒格朗瑟朗
 Le Grand-Lemps, Ле-Гран-Лан, Ле-Гран-Лем, 勒格朗朗普
 Le Grand-Lucé, Grand-Luce, Ле-Гран-Люсе
@@ -15441,8 +15448,8 @@ Les Pavillons-sous-Bois, Pavillons, Pavillons-sous-Bois, Ле Павијон с�
 Les Peintures
 Les Pennes-Mirabeau, Lei Penas, Lei Penas de Mirabèu, Les Pennes, Ле-Пен-Мирабо, Ле-Пенн-Мірабо, لپن میربو, 萊斯佩尼斯米拉波
 Les Perques, Ле-Перк, 莱斯佩尔屈埃
+Les Petites Loges
 Les Petites-Armoises
-Les Petites-Loges
 Les Piards
 Les Pieux, Ле-Пье, Ле-Пє, 莱斯皮厄
 Les Pilles, Las Pilas, Les Piles, Ле-Пій, 莱斯皮莱
@@ -15637,13 +15644,11 @@ Lezennes, Лезенн, 勒藏讷
 Lezey, لزی, 勒泽
 Lezoux, Ledós, Lesós, Лезу, 勒祖
 Lezéville
-Lherm, LÈrm, 耶尔姆
 Lhez, Lhes, Лес, 耶镇
 Lhommaizé, Ломмезе, 约迈泽
 Lhomme
 Lhor, 约镇
 Lhoumois
-Lhuis, Люи, لويس, 吕伊斯
 Lhuys, Люи, 吕村
 Lhuître, Люитр, 于伊特尔
 Lhéraule
@@ -15834,7 +15839,6 @@ Liry
 Liré, 利雷
 Lisbourg, Лисбур, ليسبورج, 利斯布尔
 Lisieux, Лизье, Лизје, Лізьє, ليزيو, لیزیو, 利雪
-Lisle, LEsla, Лиль, 利斯尔
 Lisle-en-Barrois
 Lisle-en-Rigault
 Lisle-sur-Tarn, LIlla, LIlla dAlbigés, Лиль-сюр-Тарн, 塔尔恩河畔利斯尔
@@ -15966,7 +15970,6 @@ Loisy-sur-Marne, Луазі-сюр-Марн, 马恩河畔卢瓦西
 Loivre, Луавр, 卢瓦夫尔
 Loix, Луа, 卢瓦
 Lolif, 洛利
-Lolme
 Lombard
 Lombers
 Lombez, Ломбес, 隆贝
@@ -16239,7 +16242,6 @@ Loyettes, Луайет, Луаєтт, لوييت, 洛耶特
 Lozanne, Lozane, Лозанн, لوزان، فرانسه
 Lozay, 洛泽
 Lozinghem, Лозенгем, لوزينهيم, 洛赞盖姆
-Lozon, 洛宗
 Lozzi, Лоцци
 Lozé
 Luant, Люан, 吕昂
@@ -16432,8 +16434,6 @@ Léalvillers, Леальвілле, 莱阿尔维莱尔
 Léaupartie, Леопарти, 莱奥帕尔蒂耶
 Léaz, Леа, لياز, 莱阿兹
 Lécaude
-Léchelle, Лешель, ليتشيل, 莱谢勒
-Lécluse, Леклюз, 莱克吕斯
 Lécousse, Eskuz, Лекусс, 莱库斯
 Lécussan
 Lédas-et-Penthiès, Lédas
@@ -16465,7 +16465,6 @@ Léoville, Леовиль, 莱奥维尔
 Lépanges-sur-Vologne, Лепанж-сюр-Волонь, 沃洛格河畔莱庞热
 Lépaud, LEspaud, Лепо, 莱波
 Lépin-le-Lac, Lépin, Лепен-ле-Лак
-Lépine, Лепин, لبين, 莱皮讷
 Lépron-les-Vallées, Lépron
 Léran, 莱朗
 Léren, 莱朗
@@ -17158,23 +17157,7 @@ Marsanne, Marçana, Марсанн
 Marsas, 马尔萨
 Marsat, Marçac de Riam, 马尔萨
 Marseillan, Marcelhan, Marcilhan, Massilhan, Марсейан, 马尔塞朗
-Marseille, Marseglia, Marseilla, Marseilles, Marselha, Marsella, Marsiglia, Marsiho, Marsilha, Марсель, Марсељ, مارساي, مارسيليا, مارسی, مارسیلز, مرسيلية, 马赛
-Marseille 01
-Marseille 02
-Marseille 03
-Marseille 04
-Marseille 05
-Marseille 06
-Marseille 07, Marseille 7e arrondissement
-Marseille 08
-Marseille 09
-Marseille 10, Marseille 10e arrondissement, Masalia, Massalia, Massilia
-Marseille 11
-Marseille 12
-Marseille 13
-Marseille 14
-Marseille 15
-Marseille 16
+Marseille, Marseglia, Marseilla, Marseille 10e arrondissement, Marseilles, Marselha, Marsella, Marsiglia, Marsiho, Marsilha, Masalia, Massalia, Massilia, Марсель, Марсељ, مارساي, مارسيليا, مارسی, مارسیلز, مرسيلية, 马赛
 Marseille-en-Beauvaisis, Марсей-ан-Бовези, 博韦西地区马尔塞尔
 Marseilles-lès-Aubigny, Marseilles, Marseilles-sur-Aubigny, Марсей-лез-Обиньи, 马尔塞莱莱奥比尼
 Marseillette, Marselheta, Марсеетт, Марсейет, Марсеєтт, 马尔塞莱特
@@ -18114,6 +18097,7 @@ Monsures, Монсюр, 蒙叙尔
 Monswiller, Монсвиллер, مونسويلير, 蒙斯维莱
 Monségur, Монсегюр, 蒙塞居
 Mont, Мон, 蒙镇
+Mont Saint-Léger, Мон-Сен-Леже
 Mont-Bernanchon, Мон-Бернаншон, مونت بيرنانتشون, 蒙贝尔南雄
 Mont-Bertrand, Мон-Бертран, 蒙贝尔特朗
 Mont-Bonvillers, Мон-Бонвилле, Мон-Бонвиллер, 蒙邦维莱尔
@@ -18128,7 +18112,6 @@ Mont-Ormel, Мон-Ормель, 蒙奥尔梅
 Mont-Roc
 Mont-Saint-Aignan, Мон Сент Ењан, Мон-Сент-Еньян, مو سنتنیان
 Mont-Saint-Jean, Мон-Сен-Жан, 蒙圣让
-Mont-Saint-Léger, Мон-Сен-Леже
 Mont-Saint-Martin, Мон-Сен-Мартен, 蒙圣马丹, 蒙圣马尔坦
 Mont-Saint-Père, Мон-Сен-Пер, 蒙圣佩尔
 Mont-Saint-Remy
@@ -18972,8 +18955,8 @@ Moulicent, Мулисан, 穆利桑
 Moulidars, Мулидар, 穆利达尔
 Mouliets-et-Villemartin, Moliets e Vila Martin, Moliets e Vilamartin, Mouliets, Мульетс-е-Вильмартен, Мульєтс-е-Вільмартен, 穆利耶特和维莱马尔坦
 Mouliherne, Муліерн, 穆利耶尔恩
+Moulin Neuf, Molin Nuòu, Molinnuòu, Мулен-Неф, 穆兰纳
 Moulin-Mage, Lo Molin Màger, Мулен-Маж, 穆兰马热
-Moulin-Neuf, Molin Nuòu, Molinnuòu, Мулен-Неф, 穆兰纳
 Moulin-sous-Touvent, Мулен-су-Туван, 穆兰苏图旺
 Moulineaux, Мулино
 Moulines, Мулин, 穆利内
@@ -20870,6 +20853,7 @@ Pessat, Pessat-Villeneuve
 Pessines, Пессин, 佩西内
 Pessoulens
 Petersbach, Петерсбак, بيتيرسباتش, پترسباخ, 佩泰尔斯巴克
+Petit Mesnil
 Petit Palais, Le Petit Palais-et Cornemps, Petit-Palais-et-Cornemps
 Petit-Auverné, Arwerneg-Vihan, Петі-Оверне, 佩蒂奥韦尔内
 Petit-Bersac, Braçac lo Pitit, Pitit Braçac, Пети-Берсак, 佩蒂贝尔萨克
@@ -20879,7 +20863,6 @@ Petit-Failly, Пети-Фаи, Пти-Файи, 佩蒂费利
 Petit-Fayt, Le Petit Fayt, Пети-Фе, 珀蒂费
 Petit-Landau, Klein-Landau, Landau-Klein, Пети-Ландо, 佩蒂朗多
 Petit-Mars, Kervarc'h, Петі-Марс, 佩蒂马尔
-Petit-Mesnil
 Petit-Noir, Петі-Нуар, 佩蒂努瓦
 Petit-Réderching, Пети-Редершен, پتی-ردرشن, 佩蒂雷代尔尚
 Petit-Tenquin, Пети-Танкен, Пети-Тенкен, 佩蒂唐屈安
@@ -21470,25 +21453,25 @@ Ponson-Debat-Pouts, Ponson-Debat, Ponçon Devath e lo Potz, Понсон-Деб�
 Ponson-Dessus, Ponçon Dessús, Понсон-Дессю, Понсон-Десюс, 蓬松代叙
 Ponsonnanche
 Pont
+Pont Croix, Pontekroaz, Пон-Круа, 蓬克鲁瓦
+Pont Saint-Martin, Pont-Marzhin, Пон-Сен-Мартен, 蓬圣马尔坦
+Pont Scorff, Pont-Skorf, Пон-Скорфф, 蓬斯科尔
 Pont-Arcy, Пон-Арсі, Понт-Арси, 蓬塔尔西
 Pont-Audemer, Понт-Одеме, 蓬奥代梅
 Pont-Authou, Понт-Оту, 蓬奥图
 Pont-Aven, Пон-Аван, پون-آوان, 阿旺桥
 Pont-Bellanger, Pont-Bellenger, Пон-Белланже, 蓬贝朗热
-Pont-Croix, Pontekroaz, Пон-Круа, 蓬克鲁瓦
 Pont-Hébert, Пон-Ебер, 蓬埃贝尔
 Pont-Melvez, Пон-Мельве, 蓬梅尔韦
 Pont-Noyelles, Pont Noyelle, Пон-Нуаєль, 蓬努瓦耶尔
 Pont-Remy, Пон-Ремі, 蓬雷米
 Pont-Saint-Esprit, Lo Pònt Sant Esperit, Lo Pònt de Sent Esperit, Пон-Сент-Еспри, 蓬圣埃斯普里
 Pont-Saint-Mard, Пон-Сен-Мар, 蓬圣马尔
-Pont-Saint-Martin, Pont-Marzhin, Пон-Сен-Мартен, 蓬圣马尔坦
 Pont-Saint-Pierre, Пон-Сен-Пьерр, Пон-Сен-Пєрр, 蓬圣皮耶尔
 Pont-Saint-Vincent, Пон-Сен-Венсан, 蓬圣万桑
 Pont-Sainte-Marie, Пон-Сент-Мари, 蓬圣玛丽
 Pont-Sainte-Maxence, Пон-Сент-Максанс, 蓬圣马克桑克
 Pont-Salomon, Pònt de Salamon, Пон-Саломон, 蓬萨洛蒙
-Pont-Scorff, Pont-Skorf, Пон-Скорфф, 蓬斯科尔
 Pont-Trambouze, Пон-Трамбуз, 蓬特朗布泽
 Pont-d'Ain
 Pont-d'Ouilly
@@ -21595,6 +21578,7 @@ Porquéricourt
 Porri
 Porspoder, Порсподе, 波尔斯波代
 Port, Пор, بور, 波尔
+Port Sainte-Marie
 Port à Binson
 Port-Brillet, Пор-Бріє, 波尔布里莱
 Port-La Nouvelle, La Novella, La Novèla, Пор-ла-Нувель, 波尔拉努韦尔
@@ -21605,7 +21589,6 @@ Port-Mort, Пор-Мор, 莫尔港
 Port-Saint-Louis-du-Rhône, Lo Pòrt dArle, Port-Saint-Louis, Pòrt Sant Loís, Saint-Louis-du-Rhône, Пор-Сен-Луи-дю-Рон, 圣卢伊斯-迪龙港
 Port-Saint-Père, Porzh-Pêr, Пор-Сен-Пер, 圣佩尔港
 Port-Sainte-Foy-et-Ponchapt, Lo Pòrt de Senta Fe e Ponchac, Port-Sainte Foy, Sent Avit de Tisac, Пор-Сент-Фуа-е-Поншап, 波尔特-圣富瓦和蓬沙普
-Port-Sainte-Marie
 Port-Villez, Пор-Вилле
 Port-de-Bouc, Lo Pòrt de Boc, Port-de-Boue, Пор-де-Бук, 波尔德布克
 Port-de-Lanne, Port-de-Lannes, Пор-де-Ланн, 波尔德朗
@@ -21903,7 +21886,7 @@ Prusly-sur-Ource, Prusly, Прюли-сюр-Урс, 乌尔克河畔普吕斯利
 Prusy
 Pruzilly
 Prâlon, 普拉隆
-Pré-Saint-Martin
+Pré Saint-Martin
 Pré-Saint-Évroult, Пре-Сент-Евру, 普雷圣埃夫鲁尔
 Pré-en-Pail, Пре-ан-Пай, 普雷昂帕伊
 Préaux, Прео, 普雷奥
@@ -22735,7 +22718,7 @@ Riquewihr, Риквир, Рикевир, 里屈埃维
 Ris, Arris, 里镇
 Ris-Orangis, Риз Оранжис, Рис-Оранжис, ری اورانژی, 里奥朗吉
 Riscle, Riscla, Рискль, 里斯克尔
-Risoul, Risol, Risoul Village, Risós, Ризуль, 里苏
+Risoul, Risol, Risoul Village, Risós, Station de Risoul, Ризуль, 里苏
 Ristolas, Ristolaç, Ристола, 里斯托拉
 Ritzing
 Riupeyrous, Riupeirós, Рьюперус, 里于佩鲁
@@ -24654,7 +24637,6 @@ Saint-Jal, Sent Jal, Сен-Жаль, سینٹ-جل, 圣雅
 Saint-James, Сен-Жам, سینٹ-جیمز, 圣雅梅
 Saint-Jammes, Sent Jacme, Сен-Жам, Сен-Жаммес, سینٹ-جممس, 圣雅梅
 Saint-Jans-Cappel, Sint-Janskappel, Сен-Жан-Каппель, سینٹ-جنس-کپپیل, 圣让卡佩勒
-Saint-Jean, Saint-Jean-Saint-Nicolas, Saint-Jean-de-Villenard, Sant Joan Sant Nicolau, Sant Joan e Montorsièr, Sant Joan lo Vièlh, Sent Joan lo Vièlh, Сен-Жан, Сен-Жан-Сен-Никола, سینٹ-ژاں -سینٹ-نکولس, سینٹ-ژاں ، ہوتے-گروں نے, 圣让, 圣让圣尼科拉
 Saint-Jean-Bonnefonds, Сен-Жан-Боннфон, سینٹ-ژاں -بونفونڈس, 圣让博内丰德
 Saint-Jean-Brévelay, Saint-Jean-Brévalay, Sant-Yann-Brevele, Сен-Жан-Бревеле, سینٹ-ژاں -برولے, 圣让布雷韦莱
 Saint-Jean-Cap-Ferrat, Sant Joan de Cap Ferrat, Сен-Жан-Кап-Ферра, سان جيان كاب فيرات, سینٹ-ژاں -کیپ-پھرت, 圣让卡弗尔拉
@@ -25223,6 +25205,7 @@ Saint-Martial-le-Vieux, Sent Marçau lo Vielh, Сен-Марсьяль-ле-Вь
 Saint-Martial-sur-Isop, Sent Marçau, Сен-Марсьяль-сюр-Изо, سینٹ-مارشل-سر-اسوپ, 伊索河畔圣马尔蒂阿
 Saint-Martial-sur-Né, Сен-Марсьяль-сюр-Не, سینٹ-مارشل-سر-نے, 内河畔圣马尔蒂阿
 Saint-Martin, Saint-Martin-Eglise, Sent Martin, Sent Martin de Miranda, Сен-Мартен, سان مارتن, سینٹ-مارٹن، بس-رہین, سینٹ-مارٹن، گرس, سینٹ-مارٹن، ہوٹس-پیرینیث, 圣马丹
+Saint-Martin des Bois, Сен-Мартен-де-Буа, سینٹ-مارٹن-دس-بوس, 圣马丹代布瓦
 Saint-Martin sous Mouzeuil
 Saint-Martin-Belle-Roche, Сен-Мартен-Бель-Рош, سینٹ-مارٹن-بیلے-روکھے
 Saint-Martin-Bellevue, Сен-Мартен-Бельвю, سینٹ-مارٹن-بلووے
@@ -25319,7 +25302,6 @@ Saint-Martin-de-la-Mer, Сен-Мартен-де-ла-Мер, سن-مارتن-د
 Saint-Martin-de-la-Place, Сен-Мартен-де-ла-Плас, سینٹ-مارٹن-دے-لا-پلیس, 圣马丹德拉-普拉克
 Saint-Martin-de-la-Porte, Saint Martin la Parte, Сен-Мартен-де-ла-Порт, سینٹ-مارٹن-دے-لا-پورتے
 Saint-Martin-des-Besaces, Сен-Мартен-де-Безас, سینٹ-مارٹن-دس-بسکس, 圣马丹代贝萨塞
-Saint-Martin-des-Bois, Сен-Мартен-де-Буа, سینٹ-مارٹن-دس-بوس, 圣马丹代布瓦
 Saint-Martin-des-Champs, Sant-Martin-war-ar-Maez, Сен-Мартен-де-Шам, Сен-Мартен-де-Шан, سینٹ-مارٹن-دس-چمپس، سینے-یت-مرنے, سینٹ-مارٹن-دس-چمپس، فنستیرے, سینٹ-مارٹن-دس-چمپس، منچھ, سینٹ-مارٹن-دس-چمپس، چر, سینٹ-مارٹن-دس-چمپس، یولنس, سینٹ-مارٹن-دس-چمپس، یونے, 圣马丹代尚普, 圣马尔坦德尚普
 Saint-Martin-des-Combes, Sent Martin de las Combas, Сен-Мартен-де-Комб, سینٹ-مارٹن-دس-کومبس, 圣马丹代孔贝
 Saint-Martin-des-Entrées, Saint-Martin-les Entrées, Сен-Мартен-дез-Антре, سینٹ-مارٹن-دس-انٹریس, 圣马丹代昂特雷埃
@@ -25473,7 +25455,7 @@ Saint-Meslin-du-Bosc, Saint-Meslin
 Saint-Mesmes, Сен-Мем
 Saint-Mesmin, Sent Maimin, Сен-Мемен, سینٹ-مثمن، دوردوگنے, سینٹ-مثمن، ونڈے, 圣梅斯曼
 Saint-Micaud, Сен-Мико, سینٹ-مکد
-Saint-Michel, Eiheralarre, Saint Michel la Bâtie, Saint-Michel-Saint-Jaymes, Saint-Michel-de-Chaillol, Sant Michèu, Sant Miquèl, Sent Miquèu, Сен-Мишель, Сен-Мишель-де-Шайоль, سینٹ-مشیل-دے-چیلل, سینٹ-مچل، اسنے, سینٹ-مچل، حیراالٹ, سینٹ-مچل، لویریت, سینٹ-مچل، پیرینیث-اٹلانتیقوس, سینٹ-مچل، چارینتے, سینٹ-مچل، ہوتے-گروں نے, 圣米歇尔, 圣米舍, 圣米舍德谢洛
+Saint-Michel-, Eiheralarre, Saint Michel la Bâtie, Saint-Michel-Saint-Jaymes, Saint-Michel-de-Chaillol, Sant Michèu, Sant Miquèl, Sent Miquèu, Сен-Мишель, Сен-Мишель-де-Шайоль, سینٹ-مشیل-دے-چیلل, سینٹ-مچل، اسنے, سینٹ-مچل، حیراالٹ, سینٹ-مچل، لویریت, سینٹ-مچل، پیرینیث-اٹلانتیقوس, سینٹ-مچل، چارینتے, سینٹ-مچل، ہوتے-گروں نے, 圣米歇尔, 圣米舍, 圣米舍德谢洛
 Saint-Michel-Chef-Chef, Sant-Mikael-Keveger, Сен-Мішель-Шеф-Шеф, سینٹ-مشیل-چیف-چیف, 圣米舍谢谢
 Saint-Michel-Labadié
 Saint-Michel-Loubéjou
@@ -25748,6 +25730,8 @@ Saint-Philbert-sur-Risle, Saint-Philbert, Сен-Фильбер-сюр-Риль,
 Saint-Philibert, Lokfiliberzh, Sant-Filberzh, Sant-Filiberzh, Сен-Филибер, سین-فلبرٹ، موربہان, 圣菲利贝尔
 Saint-Piat, Сен-Піа, سین-پات, 圣皮阿
 Saint-Pierre, Saint Pierre de Paladru, Saint-Pierre-Pontpoint, Saint-Pierre-d'Issis, Sant Pierre, Sant Pèire, Sant Pèire de Dordonha, Сен-Пьер, Сен-Пьерр, Сен-Пєрр, سان بيير, سین-پیری، الپس-دے-ہوتے-پروونس, سین-پیری، بس-رہین, سین-پیری، زرا, سین-پیری، کنٹل, 圣皮耶尔
+Saint-Pierre En Vaux, Сен-Пьер-ан-Во, Сен-Пьерр-ан-Во, Сен-Пєрр-ан-Во, سن-پیر-آن-و, سین-پیری-ین-وا, 沃地区圣皮耶尔
+Saint-Pierre La Rivière, Сен-Пьерр-ла-Ривьер, Сен-Пєрр-ла-Ривєр, سین-پیری-لا-ریویرے, 圣皮耶尔拉里维埃
 Saint-Pierre-Aigle, Сен-Пьер-Эгль, Сен-Пєрр-Егль, سین-پیری-اگلے, 圣皮埃尔艾格勒
 Saint-Pierre-Avez, Sant Peire Avez, Sant Pèire de Barret, Сен-Пьер-Аве, Сен-Пєрр-Аве, سین-پیری-اوز, 圣皮耶尔阿韦
 Saint-Pierre-Azif, Сен-Пьер-Азиф, Сен-Пьерр-Азиф, Сен-Пєрр-Азіф, سین-پیری-اظف, 圣皮耶尔阿齐
@@ -25835,14 +25819,12 @@ Saint-Pierre-du-Val, Сен-Пьерр-дю-Валь, Сен-Пєрр-дю-Ва�
 Saint-Pierre-du-Vauvray, Сен-Пьерр-дю-Вовре, Сен-Пєрр-дю-Вовре, سین-پیری-دو-ووورے, 圣皮耶尔迪沃夫赖
 Saint-Pierre-en-Port
 Saint-Pierre-en-Val
-Saint-Pierre-en-Vaux, Сен-Пьер-ан-Во, Сен-Пьерр-ан-Во, Сен-Пєрр-ан-Во, سن-پیر-آن-و, سین-پیری-ین-وا, 沃地区圣皮耶尔
 Saint-Pierre-la-Bourlhonne, Sant Pèire e la Borlhona, Сен-Пьерр-ла-Бурлонн, Сен-Пєрр-ла-Бурлонн, سین-پیری-لا-بورلہون, 圣皮耶尔拉布尔永
 Saint-Pierre-la-Bruyère, Сен-Пьерр-ла-Брюер, Сен-Пєрр-ла-Брюєр, سین-پیری-لا-بریرے, 圣皮耶尔拉布吕伊埃尔
 Saint-Pierre-la-Cour, Сен-Пєрр-ла-Кур, سین-پیری-لا-کور, 圣皮耶尔拉库
 Saint-Pierre-la-Garenne
 Saint-Pierre-la-Noaille, Сен-Пєрр-ла-Ноай, سین-پیری-لا-نوایلے, 圣皮耶尔拉诺艾尔
 Saint-Pierre-la-Palud, Сен-Пєрр-ла-Палю, سین-پیری-لا-پلڈ
-Saint-Pierre-la-Rivière, Сен-Пьерр-ла-Ривьер, Сен-Пєрр-ла-Ривєр, سین-پیری-لا-ریویرے, 圣皮耶尔拉里维埃
 Saint-Pierre-la-Roche, Sant Pierre la Roche, Sant Pèire de Ròcha-sauva, Сен-Пьер-ла-Рош, Сен-Пєрр-ла-Рош, سین-پیری-لا-روکھے, 圣皮耶尔拉罗克
 Saint-Pierre-la-Vieille, Saint-Pierre-la-Vielle, Сен-Пьер-ла-Вьей, Сен-Пьерр-ла-Вьей, Сен-Пєрр-ла-Вєй, سین-پیری-لا-ویلے, 圣皮耶尔拉维耶伊尔
 Saint-Pierre-le-Bost, Sent Peir dau Bòsc, Sent Peir de Boçac, Сен-Пьер-ле-Бост, Сен-Пьерр-ле-Бост, Сен-Пєрр-ле-Бост, سین-پیری-لے-بوئیت, 圣皮耶尔莱博斯
@@ -26316,7 +26298,6 @@ Saint-Vert
 Saint-Viance, Sent Viance, Сен-Вьянс, 圣维昂克
 Saint-Viaud, Sant-Widel-Skovrid, Сен-Вйо, 圣维奥
 Saint-Victeur
-Saint-Victor, Saint-Victor-et-Melvieu, Sant Victor, Sent Victor, Сен-Виктор, 圣维克托
 Saint-Victor-Malescours, Sant Victor de Malascorts, Сен-Виктор-Малескур, 圣维克托马莱斯库尔
 Saint-Victor-Montvianeix, Sant Victor de la Lobèira, Сен-Віктор-Монвяне, 圣维克托蒙特维阿内
 Saint-Victor-Rouzaud
@@ -27991,6 +27972,8 @@ Spycker
 Spéracèdes, Las Perascedas, Сперасед, سبيراسيديس, 斯佩拉塞代
 Spézet, Speied, Спезе, 斯佩泽
 Squiffiec, Skiñvieg, Скиффьек, Скифьек, Скіффєк, 斯屈伊菲耶克
+St. Victor, Saint-Victor-et-Melvieu, Sant Victor, Sent Victor, Сен-Виктор, 圣维克托
+St.-Jean, Saint-Jean-Saint-Nicolas, Saint-Jean-de-Villenard, Sant Joan Sant Nicolau, Sant Joan e Montorsièr, Sant Joan lo Vièlh, Sent Joan lo Vièlh, Сен-Жан, Сен-Жан-Сен-Никола, سینٹ-ژاں -سینٹ-نکولس, سینٹ-ژاں ، ہوتے-گروں نے, 圣让, 圣让圣尼科拉
 Staffelfelden
 Stains, Стен, استن، فرانسه, 斯坦
 Stainville, Стенвиль, 斯坦维尔
@@ -30254,23 +30237,23 @@ Vieussan
 Vieuvicq, Вєвік, 维耶于维
 Vieuvy
 Vieux, Вье, 弗约
+Vieux Bourg, Вье-Бур, Вє-Бур, 弗约布尔
+Vieux Château, Вье-Шато, Вє-Шато, 弗约沙托
+Vieux Condé, Вье-Конде, Вє-Конде, 旧孔代
+Vieux Moulin, Вє-Мулен, 弗约穆兰
 Vieux Pellafol, Pellafol
+Vieux Pont, Вье-Пон, Вє-Пон, 弗约蓬
 Vieux Vouzan, Vosan, Vouzan, Вузан, 武藏
 Vieux-Berquin, Oud-Berkijn, Вье-Беркен, Вє-Беркен, 旧贝尔坎
 Vieux-Boucau-les-Bains, Lo Bocau Vielh, Vieux-Boucau, Вье-Буко-ле-Бен, Вє-Буко-ле-Бен, 弗约布科-莱班
-Vieux-Bourg, Вье-Бур, Вє-Бур, 弗约布尔
 Vieux-Champagne
 Vieux-Charmont, Вє-Шармон, 弗约沙尔蒙
-Vieux-Château, Вье-Шато, Вє-Шато, 弗约沙托
-Vieux-Condé, Вье-Конде, Вє-Конде, 旧孔代
 Vieux-Ferrette, Вье-Ферретт, Вє-Ферретт
 Vieux-Fumé, Вье-Фюме, Вє-Фюме, 弗约菲梅
 Vieux-Lixheim
 Vieux-Manoir
 Vieux-Mareuil, Lo Vielh de Maruelh, Vielh Maruelh, Вье-Марей, Вє-Марей, 弗约马勒伊
 Vieux-Mesnil, Вье-Мений, Вє-Меній, 旧梅尼勒
-Vieux-Moulin, Вє-Мулен, 弗约穆兰
-Vieux-Pont, Вье-Пон, Вє-Пон, 弗约蓬
 Vieux-Pont-en-Auge, Вье-Пон-ан-Ож, Вьё-Понт-ан-Ож, Вє-Пон-ан-Ож, 奥格地区维耶于克斯-蓬
 Vieux-Port, Вье-Пор, Вє-Пор, 弗约波尔
 Vieux-Rouen-sur-Bresle
@@ -30662,6 +30645,7 @@ Villerouge-Termenès, Vila-roja, Vilaroja de Termenés, Villerouge, Вильру
 Villeroy, Вильруа, 维勒鲁瓦
 Villeroy-sur-Méholle
 Villers, 维莱尔
+Villers aux Bois
 Villers-Agron-Aiguizy, Виллер-Агрон-Эгизи, 维莱阿格龙艾吉济
 Villers-Allerand, Віллер-Альран, 维莱尔阿勒朗
 Villers-Bocage, Вилле-Бокаж, Виллер-Бокаж, 维莱博卡日, 维莱尔博卡格
@@ -30707,7 +30691,6 @@ Villers-Vicomte
 Villers-au-Bois, Вилле-о-Буа, فيليرس أو بويز, 维莱欧布瓦
 Villers-au-Flos, Вилле-о-Фло, فيليرس أو فلوس, 维莱欧夫洛
 Villers-au-Tertre, Вилле-о-Тертр, 维莱欧泰尔特尔
-Villers-aux-Bois
 Villers-aux-Nœuds, Віллер-о-Нед, 维莱尔奥诺厄德
 Villers-aux-Vents
 Villers-aux-Érables, Віллер-о-Ерабль, 维莱欧埃拉布勒

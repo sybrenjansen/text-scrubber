@@ -875,11 +875,10 @@ Beifufu Shan, Pei-fu-fu Shan, 北夫婦山
 Beigan Dao, Ch'ang-ch'i Tao, Ch'ang-hsü Shan, Peh Kantang, Pei-kan Tao, Pei-kan-t'ang, Pei-kan-t'ang Tao, Ta-k'o Tao, Tang Ki, Tangki Tao, 北竿島
 Beigan Township, Beigan, 北竿鄉
 Beigang, Pei-chiang, Pei-chiang-chen, Pei-kang
-Beigang  Village, Beigang Cun, Pei-chiang, Pei-chiang Ts'un, Pei-kang, Pei-kang Ts'un, 北港村, 北港里
+Beigang  Village, Beigang Cun, Pei-chiang, Pei-chiang Ts'un, Pei-chiang-ch'i, Pei-kang, Pei-kang Ts'un, 北港村, 北港里
 Beigang Erhao Ti, Pei-kang Erh-hao T'i, 北港二號堤
 Beigang Shan, Pa-lien-kang Ta-chien, Pei-kang Shan, 北港山
 Beigang Township, Beigang Jhen, Beigang Zhen, Pei-kang, Pei-kang Chen, 北港鎮
-Beigang Village, Beigang Cun, Pei-chiang Ts'un, Pei-chiang-ch'i, Pei-kang, Pei-kang Ts'un, 北港村
 Beigang Xi, Beigang River, Beigang Si, Pai-kang Hsi, Pakan, Pei-Kang-Ch'i, Pei-chiang Ch'i, Pei-kan Hsi, Pei-kang Hsi, 北港溪
 Beigang Xi Chuhaikou, Beigang Si Chuhaikou, Pei-kang Hsi Ch'u-hai-k'ou, Pei-kuang-hsi Tsue-hai-k'ou, 北港溪出海口　
 Beigang Xi Ti, Beigang Si Ti, Pei-kang Hsi T'i, 北港溪堤
@@ -1226,8 +1225,7 @@ Bihu Village, 碧湖村
 Bihu Xi, Bihu Si, Pi-hu Hsi, 碧湖溪
 Bihua Village, Bihua, 碧華里
 Bijia Shan, Pi-chia Shan, 筆架山
-Bijiao  Village, Bijiao, 埤[腳]村
-Bijiao Village, Bijiao, 埤腳里
+Bijiao  Village, Bijiao, 埤[腳]村, 埤腳里
 Bilai, P'i-lai-she, Pei-lai-she, Pi-lai
 Bilai Shan, Pi-lai Shan, 比來山
 Biliao Village, Biliao, 埤寮里
@@ -2399,9 +2397,8 @@ Dafanzao, Ta-fan-tsao, Ta-p'o-tsao
 Dafanziwo, Dafanzihwo, Ta-fan-tzu-wo
 Dafen, Ta-fen
 Dafen Shan, Ta-fen Shan, 大分山
-Dafeng  Village, Dafeng, 大[峰]里
+Dafeng  Village, Dafeng, Dafong Cun, Ta-feng, Ta-feng Ts'un, 大[峰]里, 大豐村
 Dafeng Cun, Feng-ts'un, Ta-feng-ts'un, Tafongcun, 大豐村
-Dafeng Village, Dafeng, Dafong Cun, Ta-feng, Ta-feng Ts'un, 大楓里, 大豐村
 Dafeng Xi, Dafong Si, Ta-feng Hsi, 大豐溪
 Dafengfeng, Dafongfong, Ta-chien-shih, Ta-feng-feng, Ta-feng-ts'un
 Dafengfeng Zhen, Dafongfong Jhen, Ta-feng-feng Chen, 大峰峰圳
@@ -2421,7 +2418,6 @@ Dafu Yugang, Daliao Yugang, Ta-liao Yü-kang, 大寮漁港, 大福漁港
 Dagang, Ta-chiang, Ta-chiang-pu, Ta-kang
 Dagang  Village, Dagang Cun, P'ing-ting-ta-hu, Ta-kang, Ta-kang Ts'un, 大崗村, 大崗里
 Dagang Shan, Man Shan, T'ien-Chiang-Shan, T'ien-kang Shan, Ta-kang Shan, 大崗山
-Dagang Village, 大港里
 Dagangbu, Ta-kang-pu
 Dagangkou, Ch'ih-t'u Shan, Pei-t'ou-ch'i Shan, Pei-t'ou-hsi Sha, Ta-chiang-k'ou, Ta-kang-k'ou, 大港囗
 Dagangliao, Ta-kang-liao
@@ -2556,8 +2552,7 @@ Dajinmian Shan, Chin-mien Shan, Ta-chin-mien Shan, 大金面山
 Dajinshanxia, Dajinshansia, Mei-hsi, Ta-chin-shan-hsia
 Dajiulong Shan, Dajioulong Shan, Ta-chiu-lung Shan, 大九龍山
 Dajiuwan, Dajiouwan, Shih-chiu-wan, Ta-chiu-wan
-Dajue  Village, Dajue, Daku Cun, Ta-k'u, Ta-k'u Ts'un, 大堀村, 大堀里
-Dajue Village, Dajue, Daku Cun, Ta-chuang, Ta-k'o, Ta-k'o-ts'un, Ta-k'u, Ta-k'u Ts'un, 大堀村
+Dajue  Village, Dajue, Daku Cun, Ta-chuang, Ta-k'o, Ta-k'o-ts'un, Ta-k'u, Ta-k'u Ts'un, 大堀村, 大堀里
 Dajuedong Shan, Dajyuedong Shan, Ta-chüeh-tung Shan, 打榷崠山
 Dajulai, Dajyulai, Ta-chü-lai
 Dakan Village, Dakan, Dakan Cun, Fan-tseng Ts'un, Hsün-tseng, Ta-ch'ien Ts'un, Ta-k'an, Ta-k'an Ts'un, 大崁村, 大崁里
@@ -2870,10 +2865,9 @@ Dapingwo, T'ai-p'ing-wo, Ta-p'ing-wo
 Dapingwowei, T'ai-p'ing-wo-wei, Ta-p'ing-wo-wei
 Dapitou, Ta-p'i-t'ou
 Dapo, K'an-ting, Kuang-p'o, San-chiao-k'u, Ta-p'o, Ta-p'o-ts'un
-Dapo  Village, 大坡里
+Dapo  Village, 大坡村, 大坡里
 Dapo Chi, Dapo Chih, Dapo Pond, Ta-p'o Ch'ih, 大坡池
 Dapo Shan, Ta-p'o Shan, Ta-pu-shan, 大坡山
-Dapo Village, 大坡村
 Dapo Zhen Di'erzhixian, Dapo Jhen Di'erjhihsian, Ta-p'o Chen Ti-erh-chih-hsien, 大陂圳第二支線
 Dapo Zhen Diyizhixian, Dapo Jhen Diyijhihsian, Ta-p'o Chen Ti-i-chih-hsien, 大陂圳第一支線
 Dapo Zhen Ganxian, Dapo Jhen Gansian, Ta-p'o Chen Kan-hsien, 大陂圳幹線
@@ -4119,9 +4113,8 @@ Duli Xikou, Duli Sikou, Tu-li Hsi-k'ou, 都歷溪口
 Dulishan, Tu-li-shan, Yeh-po-hsi
 Dulu Beishan, Tu-lu Pei-shan, 都鹿北山
 Dumou Shan, T'o-po-k'uo Shan, Tu-mou Shan, Tu-pien Shan, 杜鉾山
-Dun'an Village, Dun'an, 敦安里
+Dun'an Village, Dun'an, 堵南里
 Dunan Gang, Ch'i-erh-pa Shan, Tou-lan-kang, Tu-lan Kang, Tu-nan Kang, 都南岡
-Dunan Village, Dunan, 堵南里
 Dunbei Village, Dunbei, 墩北里
 Dundong Village, Dundong, 墩東里
 Dunhe Village, Dunhe, 敦和里
@@ -4665,10 +4658,9 @@ Fengrong, Chiu-chien, Feng-jung, Feng-ying, Fongrong, Lun-pei, Mao-erh-kan, Mao-
 Fengrong Village, 豐榮村, 豐榮里
 Fengsen Village, Fengsen, 鳳森里
 Fengshan, Feng-shan, Feng-shan-chieh, Feng-shan-ts'un, Feng-t'ien, Fongshan, Fongshan District, Kao-hsiung, Kao-hsiung-hsien, Shan-hsia, She-hou-p'ing, Shih-ku-p'an, 鳳山區
-Fengshan  Village, Feng-shan Ts'un, Fengshan Cun, Fongshan Cun, [峰]山里, 峰山村
+Fengshan  Village, Feng-shan Ts'un, Feng-t'ien, Feng-t'ien Ts'un, Fengsha Cun, Fengshan Cun, Fengtian Cun, Fongshan Cun, Fongtian Cun, Pao-tou-wu, [峰]山里, 峰山村, 豐田村
 Fengshan District, Feng-shan Chen, Feng-shan Shih, Fengshan Shi, Fongshan Shih, 鳳山區, 鳳山市
 Fengshan Shuiku, Feng-shan Reservoir, Feng-shan Shui-k'u, Fongshan Shueiku, 鳳山水庫
-Fengshan Village, Feng-shan Ts'un, Feng-t'ien, Feng-t'ien Ts'un, Fengsha Cun, Fengtian Cun, Fongshan Cun, Fongtian Cun, Pao-tou-wu, 豐山村, 豐田村, 鳳山里
 Fengshan Xi, Feng-shan Ch'i, Feng-shan Hsi, Fengshan River, Fongshan Si, Wu-ma-tu Ch'i, èngshān Xī, 鳳山溪
 Fengshan Xi Zhixian, Feng-shan Hsi Chih-hsien, Feng-shan-ch'i Branch, Feng-shan-ch'i Chih-liu, Feng-shan-hsi Chih-liu, Fongshan Si Jhihsian, 鳳山溪支線
 Fengshan Xikou, Feng-shan Hsi-k'ou, Fongshan Sikou, 鳳山溪口
@@ -4870,7 +4862,6 @@ Fulianyicun, Fu-lien-i-ts'un
 Fuliao Village, Fuliao, 富寮里
 Fulin, Fu-lin
 Fulin  Village, 富林里
-Fulin Village, 福林里
 Fulin Xi, Fu-lin Hsi, Fulin Si, 富林溪
 Fulin Xikou, Fu-lin Hsi-k'ou, Fulin Sikou, 富林溪口
 Fulingzhuang, Fu-ling-chuang, Fulingjhuang
@@ -4974,9 +4965,8 @@ Fuyin Village, 福音里
 Fuying Village, Fuying, 福營里
 Fuyu Village, Fuyu, 富裕里
 Fuyuan, Fu-yüan, Fu-yüan-ts'uan, K'u-lien-chiao, Pa-tzu
-Fuyuan  Village, 富源里
+Fuyuan  Village, Fu-yüan, Fu-yüan Ts'un, Fuyuan Cun, 富源村, 富源里
 Fuyuan Shan, Fu-yüan Shan, 富源山
-Fuyuan Village, Fu-yüan, Fu-yüan Ts'un, Fuyuan Cun, 富源村, 復元里
 Fuyuan Xi, Fu-yüan Hsi, Fuyuan Si, 富源溪
 Fuyuanzhuang, Fu-yüan-chuang, Fuyuanjhuang
 Fuzhao Village, Fuzhao, 扶朝里, 芙朝村
@@ -4994,7 +4984,6 @@ Fuzhou Village, Fan-tzu-yüan, Fu-chou, Fu-chou Li, Fujhou Li, Fuzhou Li, 富州
 Fuzhou Xi, Fu-chou Hsi, Fujhou Si, 浮洲溪
 Fuzhouzi, Fu-chou-tzu, Fujhouzih
 Fuzhu  Village, Fuzhu, 富竹里
-Fuzhu Village, Fuzhu, 福住里
 Fuzhuzhuang, Fu-chu, Fu-chu-chuang, Fu-chu-ts'un, Fujhujhuang, Shan-liao
 Fuzi Duanyai, Fu-tzu Cliff, Fu-tzu Tuan-yai, Fuzih Duanyai, 父子斷崖
 Fuzun Village, Fuzun, 浮圳村, 浮圳里
@@ -5323,7 +5312,6 @@ Gongguan Shan, Kung-kuan Shan, 公館山
 Gongguan Shequ, Gongguan Shecyu, Kung-kuan, Kung-kuan She-ch'ü, 公館社區
 Gongguan Tifang, Kung-kuan Levee, Kung-kuan T'i, Kung-kuan T'i-fang, Lung-kuan Levee, 公館堤防
 Gongguan Township, Gongguan Siang, Gongguan Xiang, Kung-kuan, Kung-kuan Hsiang, 公館鄉
-Gongguan Village, 公館村, 公館里
 Gongguandi, Kung-kuan-ti, 公館地
 Gongguanhou, Kung-kuan-hou
 Gongguankeng, Kung-kuan-k'eng
@@ -5877,8 +5865,7 @@ Guoxingxiang, Kuo-hsing-hsiang
 Guoxizi, Chi-jui, Fu-lin, Fu-lin-ts'un, Guosizih, Kuo-ch'i, Kuo-ch'i-tzu, Kuo-hsi, Kuo-hsi-tzu, Kuo-k'eng-tzu, Ting-ch'i-li, Ting-hsi, Ting-hsi-li
 Guoxizi Paishuigou, Guosizih Paishueigou, Kuo-hsi-tzu P'ai-shui-kou, 過溪子排水溝
 Guoye, Kuo-She, Kuo-yeh, Kuo-yeh-hsiang, Kuo-yeh-ts'un
-Guoye  Village, [果]葉村
-Guoye Village, 國業里
+Guoye  Village, [果]葉村, 國業里
 Guoye Yugang, Guo-yeh Fishing Harbor, Kuo-yeh Yü-kang, 菓葉漁港
 Guoyewei, Kuo-yeh-wei
 Guoyi Village, Guoyi, 果毅里
@@ -6901,8 +6888,7 @@ Hukou Village, Hu-k'ou, Hu-k'ou Ts'un, Hukou Cun, 湖口村
 Hulang Shan, Hu-lang Shan, Lang-hu Shan, 虎狼山
 Huli, Ch'ao-li, Hsia-hu-li, Hu-li
 Huli Shan, Hu-li Shan, 虎禮山
-Hulian  Village, Hulian, 湖蓮里
-Hulian Village, Hu-lien, Hu-lien Ts'un, Hulian, Hulian Cun, 瑚璉村
+Hulian  Village, Hu-lien, Hu-lien Ts'un, Hulian, Hulian Cun, 湖蓮里, 瑚璉村
 Huliao Village, Huliao, 湖寮村
 Huliaokeng Shan, Hu-liao-k'eng Shan, Lu-liao-k'eng Shan, 虎寮坑山
 Huliaotan, Hu-liao-t'an
@@ -7048,7 +7034,6 @@ Ji'anzhen, Chi-an Chun, Chi-an-chen, Ji'anjhen
 Ji'azuoming Shan, Chi-a-tso-ming Shan, 幾阿佐名山
 Jia Shan, Chia Shan, 岬山
 Jia'an  Village, Jia'an, 佳安里
-Jia'an Village, Jia'an, 嘉安里
 Jia'naimei Shan, Chia-nai-mei Shan, 加奈美山
 Jiabao, Chia-pao
 Jiabao Tan Ti, Chia-pao T'an T'i, 嘉寳潭堤
@@ -7162,8 +7147,8 @@ Jian Township, Chi-an Hsiang, Ji'an Siang, Ji'an Xiang, Jian, 吉安鄉
 Jian Wei, Chien Wei
 Jian Yan, Chien Yen
 Jian Yu, Chien Hsü, Chien Yü, 尖嶼
-Jian'an, Chien-an
-Jian'an Village, 建安里
+Jian'an, Chia-nan, Chien-an, Shui-tui
+Jian'an Village, Jianan, 嘉南里
 Jiana, Chia-na, Chia-na-tien-she, Chia-na-ts'un
 Jiana Shan, Chia-na Shan, 加拿山
 Jiana Village, Chia-na, Chia-na Ts'un, Jiana Cun, 加拿村
@@ -7172,7 +7157,6 @@ Jianadian Xi, Chia-na-tien Hsi, Jianadian Si, 加拿典溪
 Jianafu Xi, Chia-na-fu Ch'i, Chia-na-fu Hsi, Chia-nai-fu-lan Hsi, Jianafu Si, 加納富溪
 Jianaidian Shan, Chia-nai-tien Shan, 加奈典山
 Jianailu Shan, Chia-nai-lu Shan, 加奈鹿山
-Jianan, Chia-nan, Shui-tui
 Jianan Dazhen, Chia-nan Ta-chen, Jianan Dajhen, 嘉南大圳
 Jianan Dazhen Beiganxian, Chia-nan Channel North Tributary, Chia-nan Channel of North Branch, Chia-nan Ta-chen Pei-kan-hsien, Chia-nan Ta-chün North Main, Chia-nan-ta-ch'n-pei-kan-hsien, Chia-nan-ta-ch'uan, Chia-nan-ta-ch'üan Canal North, Chia-nan-ta-ch'üan North Canal, Chia-nan-ta-ch'üan-pei-kan-hsien, Chia-nan-ta-ch'ün North Tributory, Chia-nan-ta-chün-pei-kan-hsien, Jianan Dajhen Beigansian, 嘉南大圳北幹線
 Jianan Dazhen Daoshuixian, Chia-nan Ta-chen Tao-shui-hsien, Jianan Dajhen Daoshueisian, 嘉南大圳導水線
@@ -7185,7 +7169,6 @@ Jianan Dazhen Xinying Zhixian, Chia-nan Ta-chen Hsin-ying Chih-hsien, Jianan Daj
 Jianan Dazhen Zhixian, Chia-nan Ta-chen Chih-hsien, Chia-nan Ta-chun Branch, Chia-nan-ta-ch'üan-hsiao-t'ien-chih-hsien, Chia-nan-ta-chün-hsiao-t'ien-chih-hsien, Hsiao-t'ien Branch Canal, Hsiao-t'ien Branch Of Chia-nan Dam, Hsiao-t'ien Water Branch, Hsiao-t'ien-chih-hsien, Jianan Dajhen Jhihsian, 嘉南大圳支線
 Jianan Dazhen Zhuoshui Ganxian, Chia-nan Ditch, Chia-nan Ta-chen Cho-shui Kan-hsien, Chia-nan Ta-chun Chu-shui Main Stream, Chia-nan-ta-ch'üan-cho Canal, Chia-nan-ta-ch'üan-cho-kan-hsien, Chia-nan-ta-chün-cho-kan-hsien, Hui-lai-ts'o Branch of Ditch, Jianan Dajhen Jhuoshuei Gansian, 嘉南大圳濁水幹線
 Jianan Dazhen Zhushuichi Shuicao, Chia-nan Canal Reservoir Aqueduct, Chia-nan Ta-chen Chu-shui-ch'ih Shui-ts'ao, Chia-nan-ta-ch'üan Reservoir Aqueduct, Chia-nan-ta-chün-chu-shui Ts'ao, Chih-nan Canal Reservoir Aquduct, Jianan Dajhen Jhushueichih Shueicao, 嘉南大圳貯水池水槽
-Jianan Village, 嘉南里
 Jianan Xi, Chia-nan Hsi, Jianan Si, 加南溪
 Jianana, Chia-lan, Chia-lo-lo, Chia-na-na, Wu-hao-ts'un
 Jianana Shan, Chia-lo-lo Shan, Chia-na-na Shan, 加納納山
@@ -7535,7 +7518,6 @@ Jiliaokeng, Chi-liao-k'eng
 Jiliaoping, Chi-liao-p'ing
 Jilin, Chi-lin, Chi-lin-ts'un
 Jilin  Village, [雞]林里
-Jilin Village, 吉林里
 Jilong Gang, Chi-lung Kan, Chi-lung Kang, Chi-lung-Chiang, Keelung Bay, Kelung Harbor, 基隆港
 Jilong He, Chi-lung Ho, Chilung River, Kelung River, 基隆河
 Jilong Shan, Chi-lung Shan, 基隆山
@@ -7556,11 +7538,10 @@ Jimuwu Gang, Chi-mu-wu Kang, 雞母塢港
 Jin Shan, Chin Shan, Chin-kuei Shan, 禁山
 Jin Village, Jin, 錦村里
 Jin Yu, Chin Hsü, Chin Yü, Chung She, Hsiao Yü, Pastel Rock, 金嶼
-Jin'an Village, Jin'an, 錦安里
+Jin'an Village, Jin'an, 濟南里
 Jin'antian, Chin-an-t'ien
 Jin'aokeng, Chin-ao-k'eng
 Jinaji Shan, Chi-Na-Chieh-Shan, Chi-na-chi Shan, Mu-ming-ti Shan, 基那吉山
-Jinan Village, Jinan, 濟南里
 Jinanwo, Chi-nan-wo, Chu-nan-wo
 Jinbaoli Shan, Chin-pao-li Shan, 金包里山
 Jinbaoligu, Chin-pao-li-ku
@@ -7777,8 +7758,7 @@ Jinwei Shan, Chin-wei Shan, 盡尾山
 Jinxi Village, Jinxi, 金溪里
 Jinxiang Village, Jinxiang, 錦祥里
 Jinxing, Chin-hsing, Hsia-ts'o, Hsia-ts'o-tzu, Hsin-hsing, Jinsing
-Jinxing  Village, 錦興里
-Jinxing Village, Chin-hsing, Chin-hsing Ts'un, Jinsing Cun, Jinsingcun, Jinxing Cun, 進興村, 金星里
+Jinxing  Village, Chin-hsing, Chin-hsing Ts'un, Jinsing Cun, Jinsingcun, Jinxing Cun, 進興村, 金星里
 Jinxingcun, Chin-hsing-ts'un
 Jinxingmian, Chin-hsing-mien, Jinsingmian
 Jinxue Village, Jinxue, 進學里
@@ -8219,9 +8199,8 @@ Kanhou, K'an-hou, K'an-hou-li
 Kanhou Village, 崁後里
 Kanhoubian, K'an-hou-pien
 Kanjiao, Hsia-k'an, K'an-chiao, K'an-chiao-ts'un, K'an-neng, K'an-neng-ts'un, Ssu-lin-li, T'an-chiao
-Kanjiao  Village, 崁[腳]里
+Kanjiao  Village, K'an-chiao, K'an-chiao Ts'un, Kanjiao Cun, 崁[腳]里, 崁腳村
 Kanjiao Pi, K'an-chiao P'i, 崁腳埤
-Kanjiao Village, K'an-chiao, K'an-chiao Ts'un, Kanjiao Cun, 崁腳村
 Kanjiaoxia, K'an-chiao-hsia, Kanjiaosia
 Kanmuzu Xi, K'an-mu-tsu Hsi, Kanmuzu Si, 堪姆卒溪
 Kanping Village, Kanping, 看坪里
@@ -8392,8 +8371,7 @@ Kezilin Shan, K'o-tzu-lin, K'o-tzu-lin Shan, Kezihlin Shan, 科子林山
 Kezinan, K'o-tzu-nan, Kezihnan
 Kezizhuang, K'o-tzu-chuang, Kezihjhuang
 Kinmen County, Chin-men, Chin-men Hsien, Fu-chien, Fu-chien Sheng, Jinmen Sian, Jinmen Xian, Kinmen, Quemoy, 金門縣
-Kinmen Island, Chin-men Tao, Chinmen, Jinmen Dao, Kimmung Island, Kimoi, Kinmen, Kweimoy Island, Quemoy, 金門島, 金門縣
-Kinmen Islands, Chin-men Ch'ün-tao, Jinmen Qundao, 金門群島
+Kinmen Islands, Chin-men Ch'ün-tao, Chin-men Tao, Chinmen, Jinmen Dao, Jinmen Qundao, Kimmung Island, Kimoi, Kinmen, Kweimoy Island, Quemoy, 金門島, 金門縣, 金門群島
 Koko
 Kong'alun, K'ung-a-lun
 Kongjueyuan, K'ung-ch'üeh-yüan
@@ -8727,8 +8705,7 @@ Lengshuikeng Paishui, Leng-shui-k'eng P'ai-shui, Lengshueikeng Paishuei, 冷水�
 Lengshuiku, Leng-shui-k'u, Lengshueiku
 Lequn Shanzhuang, Chi-mu-wo, Le-ch'ün Shan-chuang, Le-ch'ün Village, Lecyun Shanjhuang, 樂群山莊
 Leshan, Le-shan
-Leshan  Village, 樂善里
-Leshan Village, Hsi-shan Li, Hsiang-shng Li, Le-shan Li, Leshan Li, 樂山里
+Leshan  Village, Hsi-shan Li, Hsiang-shng Li, Le-shan Li, Leshan Li, 樂善里
 Leshui Village, Leshui, 樂水村
 Leshuicun, Cho-shui, Le-shui, Le-shui-ts'un, Leshueicun, Ma-lun, Ma-lun-she
 Leye, La-la-wu-ya, La-la-wu-ya-she, Lao-yeh-ts'un, Le-yeh, Lo-yeh-she, Lo-yeh-ts'un
@@ -8741,12 +8718,11 @@ Li Xi, A-li Hsi, A-li-shan Hsi, Li Si, 里溪
 Li Yan, Li Yen
 Li'a Yan, Li-a Yen, Li-a Yen Shan, 里阿岩
 Li'an, Li-an
-Li'an Village, 黎安里
+Li'an Village, Lian, 鎌村里, 黎安里
 Li'e Village, Li'e, 禮蚵里
 Lian Hu, Lien Hu, 蓮湖
 Lian Jiao, Ch'ih-hui Chiao, Lien Chiao, Liu-lien Chiao, 連礁
 Lian Shan, Lien Shan, 連山
-Lian Village, Lian, 鎌村里
 Lian'an Village, Lian'an, 蓮庵里
 Lianbao, Lien-pao
 Lianbao Shan, Lien-pao Shan, 蓮包山
@@ -9342,7 +9318,6 @@ Long'ao Shan, Lung-ao, Lung-ao Shan, 瀧奧山
 Long'en Village, Long'en, 龍恩里
 Long'en Zhen, Long'en Jhen, Lung-en Chen, 隆恩圳
 Long'enbu, Lung-en-pu
-Longao Shan, Lung-ao Shan, 瀧奧山
 Longao Shan Jidian Feng, Longao Shan Jidian Fong, Lung-ao Shan Chi-tien Feng, 瀧奧山基點峰
 Longbei, Lung-pei
 Longben Village, Longben, 隆本里
@@ -9489,8 +9464,7 @@ Longxiang Shan, Longsiang Shan, Lung-hsiang Shan, 瀧向山
 Longxiang Shan Jidian Feng, Longsiang Shan Jidian Fong, Lung-hsiang Shan Chi-tien Feng, 瀧向山基點峰
 Longxiang Village, Longxiang, 龍祥里
 Longxing, Longsing, Lung-hsing, Lung-yüan, Lung-yüan-ts'un, She-tzu-hsing, Shih-wei, Shih-wei-ts'un, Shui-wei
-Longxing  Village, 龍星里
-Longxing Village, Longsing Li, Longxing Li, Lung-hsing, Lung-hsing Li, Lung-shan, Lung-shan Li, Yün-hsien-tung-k'ou, 隆興村, 隆興里
+Longxing  Village, Longsing Li, Longxing Li, Lung-hsing, Lung-hsing Li, Lung-shan, Lung-shan Li, Yün-hsien-tung-k'ou, 隆興村, 隆興里
 Longxingkou, Longsingkou, Lung-hsing-k'ou
 Longxingqi, Longsingci, Lung-hsing-ch'i, Lung-kou-ch'i
 Longxixin, Longsisin, Lung-hsi, Lung-hsi-hsin, Lung-yang-hsin
@@ -9528,7 +9502,6 @@ Loumen Yan, Lou-men Yen, Lou-men Yü, Loumen Yu, 樓門岩, 樓門嶼
 Louzi, Ch'i-Tzŭ, Lou-tzu
 Louzicuo, Lou-tzu-ts'o
 Lu Liao Li, Lu-ch'üan Li, Lu-liao, 鹿寮里
-Lu Shan, 鹿山
 Lu'an, Lu-an
 Lu'er Li, Lu-erh-li, Lu-erh-men, 鹿耳里
 Lu'er Village, Lu'er, 鹿耳里
@@ -9555,16 +9528,14 @@ Luchang Village, 鹿場村, 鹿場里
 Luchang Xi, Lu-ch'ang Hsi, Luchang Si, 鹿場溪
 Luchangding, Lu-ch'ang-ting
 Luchukeng, Lu-ch'u-k'eng
-Lucuo, Lu-ts'o, Pao-an
-Lucuo Village, 盧厝里
+Lucuo Village, Lucuo, 盧厝里
 Lucuowa, Lu-ts'o-k'eng, Lu-ts'o-wa
 Ludan Xi, Lu-tan Hsi, Ludan Si, 魯丹溪
 Ludong, Lu-tung
 Ludong Village, 路東里, 鹿東村
 Ludukeng, Lu-tu-k'eng
 Ludushikeng, Lu-tu-shih-k'eng, Ludushihkeng
-Lufeng, Lu-feng, Lufong
-Lufeng Village, Lu-feng, Lu-feng Ts'un, Lufeng Cun, Lufong Cun, 陸豐村, 陸豐里
+Lufeng Village, Lu-feng, Lu-feng Ts'un, Lufeng, Lufeng Cun, Lufong Cun, 陸豐村, 陸豐里
 Lugang, Lu-chiang, Lu-kang
 Lugang Bodi, Lu-chiang Po-ti, Lu-kan Po-ti, Lu-kang Po-ti, Rokan Road, 鹿港泊地
 Lugang Township, Lu-kang, Lu-kang Chen, Lugang Jhen, Lugang Zhen, 鹿港鎮
@@ -9670,7 +9641,6 @@ Lunpi Chi, Lun-p'i Ch'ih, Lunpi Chih, 崙埤池
 Lunpi Shan, Lun-p'i Shan, 崙埤山
 Lunping, Lun-p'ing, Lun-p'ing-ts'un
 Lunping  Village, 崙坪里
-Lunping Village, 崙平里
 Lunpizi, Lun-p'i, Lun-p'i-she, Lun-p'i-tzu, Lunpizih
 Lunqian, Lun-ch'ien, Luncian
 Lunqian Village, 崙前村
@@ -9791,8 +9761,7 @@ Lutenghu, Lu-t'eng-hu
 Lutian Village, Lutian, 鹿田里
 Luweilin, Lu-wei-lin
 Luwen, Lu-wen, Luwun
-Luxing  Village, Luxing, 蘆興里
-Luxing Village, Luxing, 祿興里
+Luxing  Village, Luxing, 祿興里
 Luye Shan, Lu-yeh Shan, 鹿野山
 Luye Tifang, Lu-yeh T'i-fang, 鹿野堤防
 Luye Township, Lu-yeh, Lu-yeh Hsiang, Luye, Luye Siang, Luye Xiang, 鹿野鄉
@@ -9834,9 +9803,9 @@ Lyudao Island, Bonfire Island, Green Island, Hoisho To Island, Huo-shao Tao, Kas
 Lü Shan, Lyu Shan, 綠山
 Lüben Shan, Lo-feng Shan, Lo-hung Shan, Lyuben Shan, Lü-pen Shan, 呂奔山
 Lüchuan, Lü-ch'uan
-Lücuo, Lyucuo, Lü-ts'o, Lü-wu
+Lücuo, Lu-ts'o, Lyucuo, Lü-wu, Pao-an
 Lüfan Xi, Lyufan Si, Lü-Fan-Ch'i, Lü-fan Hsi, 呂範溪
-Lüfeng, Li-feng, Li-feng-ts'un, Lyufong, Lü-feng, Lü-feng-ts'un
+Lüfeng, Li-feng, Li-feng-ts'un, Lu-feng, Lufong, Lyufong, Lü-feng-ts'un
 Lüjia Shan, Lyujia Shan, Lü-chia Shan, Lü-chia Shan Chi-tien-feng, 呂家山
 Lüli Shan, Lyuli Shan, Lü-li Shan, Lü-li Shan Chi-tien-feng, 呂禮山
 Lüli Shan Beifeng, Lyuli Shan Beifong, Lü-li Shan Pei-feng, 呂禮山北峰
@@ -10688,8 +10657,7 @@ Nangangxi, Nan-chiang-ts'un, Nan-kang-hsi, Nan-kang-ts'un, Nangangsi
 Nangangzi, Nan-chiang-tzu, Nan-kang-tzu, Nangangzih
 Nangaoshanding, Nan-kao-shan-ting
 Nangongguan, Nan-kung-kuan
-Nanguan  Village, Nanguan, 南[館]村
-Nanguan Village, Nanguan, 南關里
+Nanguan  Village, Nanguan, 南[館]村, 南關里
 Nanguang, Nan-kuang, Niu-liao
 Nanguang Village, 南光村, 南光里
 Nanguantian, Nan-kuan-t'ien
@@ -12357,9 +12325,8 @@ Ren'ai Village, Jen-ai, Jen-ai Ts'un, 仁愛村, 仁愛里
 Ren'ai Xincun, Jen-ai Hsin-ts'un, Ren'ai Sincun, 仁愛新村
 Ren'aicun, Jen-ai-ts'un, T'ieh-pan
 Ren'an Village, Ren'an, 仁安村, 仁安里
-Renai, Jen-ai
-Renai District, 仁愛區
-Renai Township, Jen-ai, Jen-ai Hsiang, Ren'ai Siang, Ren'ai Xiang, Wu-she, 仁愛鄉
+Renai District, Renai, 仁愛區
+Renai Township, Jen-ai, Jen-ai Hsiang, Ren'ai Siang, Ren'ai Xiang, Renai, Wu-she, 仁愛鄉
 Renchang Village, Renchang, 仁昌里
 Renci Village, Renci, 仁慈里
 Rencui Village, Rencui, 仁翠里
@@ -12499,8 +12466,7 @@ Ruifang District, Jui-fang, Jui-fang Chen, Rueifang Jhen, Ruifang Zhen, 瑞芳�
 Ruifang Gongyequ, Jui-fang Industrial Area, Jui-fang Kung-yeh-ch'ü, Rueifang Gongyecyu, 瑞芳工業區
 Ruifang Shan, Jui-fang Shan, Rueifang Shan, 瑞芳山
 Ruifeng, Jui-feng, Rueifong
-Ruifeng  Village, 瑞[峰]村
-Ruifeng Village, Jui-feng, Jui-feng Li, Jui-feng Ts'un, Rueifong Cun, Rueifong Li, Ruifeng Cun, Ruifeng Li, 瑞峰里, 瑞豐村
+Ruifeng  Village, Jui-feng, Jui-feng Li, Jui-feng Ts'un, Rueifong Cun, Rueifong Li, Ruifeng Cun, Ruifeng Li, 瑞[峰]村, 瑞峰里
 Ruifu, Jui-fu, Rueifu
 Ruigang Village, Ruigang, 瑞崗里
 Ruiguang Village, Ruiguang, 瑞光里
@@ -13024,16 +12990,14 @@ Shandongshe, Shan-tung-she
 Shanfeng, Shan-feng, Shan-lan, Shanfong
 Shanfeng Village, 山峰里
 Shanfu, Shan-fu
-Shanfu  Village, 山福里
+Shanfu  Village, 山福里, 杉福村
 Shanfu Shequ, Shan-fu Community, Shan-fu She-ch'ü, Shanfu Shecyu, 杉福社區
-Shanfu Village, 杉福村
 Shanfucun, Shan-fu-ts'un
 Shang Village, Shang, 上村村
 Shang'aishan, Shang-ai-shan
 Shang'an Village, Shang'an, Shang'an Cun, Shang-an, Shang-an Ts'un, 上安村, 上安里
 Shang-ts'un-ts'un
 Shangan, Shan-kan, Shan-kan-li
-Shangan Village, 山柑里
 Shanganwei, Shan-kan-wei
 Shangbaling, Shang-pa-ling
 Shangbanling, Shang-pan-ling
@@ -13116,7 +13080,6 @@ Shanghu, Shan-hu, Shang-hu
 Shanghu Village, 上湖里
 Shanghua, Shang-hua
 Shanghua  Village, 上華里
-Shanghua Village, 商華里
 Shanghuangwutang, Shang-huang-wu-t'ang
 Shanghukeng, Shang-hu-k'eng
 Shangjianhe, Shang-chien-ho
@@ -13278,11 +13241,10 @@ Shanhuangmahu Xi, Shan-huang-ma-hu Hsi, Shanhuangmahu Si, 山黃麻湖溪
 Shanjia, K'an-ting, Shan-chia, Shan-chia-li
 Shanjia Village, 山佳里
 Shanjiao, Chien-shan-chiao, Min-shan, Nei-chiao, Shan-chia, Shan-chiao, Shan-chiao-li, Shan-chiao-ts'un, Shan-hsia, Shan-shia, Tung-feng, Tung-p'ing, Tung-p'ing-ts'un, Ying-yüan
-Shanjiao  Village, 山[腳]里
+Shanjiao  Village, Shan-chiao, Shan-chiao Li, Shan-chiao Ts'un, Shanjiao Cun, Shanjiao Li, 山[腳]里, 山腳村
 Shanjiao Dapaishui, Shan-chiao Ta-p'ai-shui, Shanjiao Dapaishuei, 山腳大排水
 Shanjiao Pi, Shan-chiao P'i, 山腳埤
 Shanjiao Shan, Shan-chiao Shan, 山椒山
-Shanjiao Village, Shan-chiao, Shan-chiao Li, Shan-chiao Ts'un, Shanjiao Cun, Shanjiao Li, 山腳村, 山腳里
 Shanjiaokengzhuang, Shan-chiao-k'eng-chuang, Shanjiaokengjhuang
 Shanjiaoxia, Shan-chiao-hsia, Shanjiaosia
 Shanjiaoxiang, Jen-ho, Shan-chiao-hsiang, Shanjiaosiang
@@ -13722,7 +13684,6 @@ Shidong, I-huo-huo-erh, Shih-tung, Shihdong
 Shidong Wenquan, Shih-tung Hot Spring, Shih-tung Wen-ch'üan, Shihdong Wuncyuan, 石洞溫泉
 Shidongliao, Shih-tung-liao, Shihdongliao
 Shidunkeng, Shih-t'ou-k'eng, Shih-tun-k'eng, Shihdunkeng
-Shierjia, Shih-erh-chia
 Shietou, Shih-o-t'ou, Shihetou
 Shifang Village, Shifang, 石坊里
 Shifen, Shih-fen, Shih-fen-k'eng, Shihfen
@@ -14215,8 +14176,7 @@ Shuangliao Haiti, Shuang-liao Hai-t'i, Shuang-liao Levee, 雙寮海堤
 Shuangliao Tifang, Shuang-liao Levee, Shuang-liao T'i, Shuang-liao T'i-fang, 雙寮堤防
 Shuangliu, Shuang-liu, Shuangliou
 Shuanglong, Shuang-lung
-Shuanglong  Village, [雙]龍里
-Shuanglong Village, 雙龍村
+Shuanglong  Village, [雙]龍里, 雙龍村
 Shuanglongxiang, Shuang-lung-hsiang, Shuanglongciang
 Shuangqi, Mai-fu-p'ing, Shuang-ch'i, Shuangci
 Shuangrencuo, Feng-jen-ts'o, Hsiao-jen-ts'o, Shang-ts'o-li, Shuang-jen-ts'o, Shuang-ts'o-li
@@ -14235,7 +14195,6 @@ Shuangxi Chuan, Shuang-ch'i Ch'uan, Shuang-hsi Ch'uan
 Shuangxi District, Shuang-hsi, Shuang-hsi Hsiang, Shuangsi Siang, Shuangxi Xiang, 雙溪區, 雙溪鄉
 Shuangxi Gongyuan, Shuang-hsi Kung-yüan, Shuang-hsi Park, Shuangsi Gongyuan, 雙溪公園
 Shuangxi Shan, Shuang-hsi Shan, Shuangsi Shan, 雙溪山
-Shuangxi Village, 雙溪村, 雙溪里
 Shuangxian Village, Shuangxian, 雙賢村
 Shuangxiashui, Chia-shui, Shuang-ch'ia-shui, Shuang-hsia-shui, Shuangsiashuei, 雙洽水
 Shuangxidi, Shuang-hsi-ti, Shuangsidi
@@ -14484,8 +14443,7 @@ Shumeiling, Shu-mei-ling
 Shumeiling Shan, Lai-li Chien, Shu-mei-ling Shan, 樹梅嶺山
 Shumeiping, Shu-mei-p'ing
 Shun'an, Shuan-an, Shun-an, Shun-an-ts'un
-Shun'an Village, Shun'an Li, Shun-an, Shun-an Li, Shun-an Ts'un, 順安村, 順安里
-Shunan Village, Shunan, 樹南里
+Shun'an Village, Shun'an Li, Shun-an, Shun-an Li, Shun-an Ts'un, Shunan, 樹南里, 順安村
 Shunchang, Shun-ch'ang
 Shunchang Village, 順昌里
 Shunde Village, Shunde, 順德里
@@ -15828,11 +15786,10 @@ Wan Village, Wan, 萬里里
 Wan'ai Village, Wan'ai, 灣愛里
 Wan'an, A-ma-hun-she, A-ma-wan, A-ma-wan-she, Pao-ch'üan, Pao-shui-ch'üan, Wan-an, Wan-an-she, Wan-an-ts'un
 Wan'an Shan, 萬安山
-Wan'an Village, 萬安村, 萬安里
+Wan'an Village, Wanan, 瓦南村, 萬安里
 Wan'an Xi, Wan'an Si, Wan-an Hsi, Wan-an-hsiao Ch'i, Wan-an-hsiao Hsi, 萬安溪
 Wan'anshe, A-ma-wan, Wan-an-she, 萬安杜
 Wan-hua, Meng-chia, 萬華
-Wanan Village, Wanan, 瓦南村
 Wanbao Village, Wanbao, 灣寶里
 Wanbaozhuang, Wan-pao, Wan-pao-chuang, Wanbaojhuang
 Wanbei Village, Wan-pei, Wan-pei Ts'un, Wanbei, Wanbei Cun, 灣北村
@@ -16180,8 +16137,7 @@ Wendi Tifang, Wen-ti Levee, Wen-ti T'i-fang, Wundi Tifang, 塭底堤防　
 Wendi Village, 塭底村
 Wending, Wen-ting, Wen-ting Shan, Wunding
 Wendong Village, Wendong, 文東里
-Wenfeng  Village, Wenfeng, 文[峰]村
-Wenfeng Village, Wenfeng, 塭豐村
+Wenfeng  Village, Wenfeng, 塭豐村
 Wenfu Village, Wenfu, 文福里
 Weng Dao, Nan-shan-hsien, Weng Tao, Wong Dao, 翁島
 Weng-yüan-ts'un
@@ -16344,11 +16300,10 @@ Wufen Shan, Wu-fen Shan, 五分山
 Wufen Village, 五分里
 Wufenbu, Wu-fen-pu, Wu-pu
 Wufeng, A-chao-wu, Shih-pa-erh, Shih-pa-erh-she, Wu-feng, Wu-feng-ts'un, Wufong, 霧峰區
-Wufeng  Village, 五[峰]里
+Wufeng  Village, 五[峰]里, 梧鳳村
 Wufeng District, Wu-feng, Wu-feng Hsiang, Wufong Siang, 霧峰區
 Wufeng Tifang, Wu-feng Levee, Wu-feng T'i, Wu-feng T'i-fang, Wufong Tifang, 霧峰堤防
 Wufeng Township, Wu-feng, Wu-feng Hsiang, Wufong Siang, 五峰鄉
-Wufeng Village, 五豐里, 梧鳳村
 Wufeng Xiang, Wu-feng Hsiang
 Wufengang Xi, Wu-fen-kang Hsi, Wufengang Si, 五分港溪
 Wufengdian, Wu-feng-tien
@@ -16723,7 +16678,7 @@ Xi'ai, Hsi-ai, Hsi-ai-tzu, Hsi-i-tzu, Hsi-yai-tzu, Si'ai
 Xi'alitou Shan, Hsi-a-li-kuan Shan, Hsi-a-li-t'o Shan, Hsi-a-li-t'ou Shan, Si'alitou Shan, 西阿里頭山
 Xi'an Village, Hsi-an, Hsi-an Ts'un, Si'an Cun, Xi'an, Xi'an Cun, 西垵村
 Xi'anli
-Xi'anshan, Hsi-an-shan, Si'anshan
+Xi'anshan, Hsi-an-shan, Hsien-shan, Si'anshan
 Xi'emei, Hsi-o-mei, Si'emei
 Xia Shan, Hsia Shan, Mount Hsia, Sia Shan, 霞山
 Xia Yu
@@ -16965,10 +16920,8 @@ Xiamudan, Hsia-mu-tan, Siamudan
 Xiamuji, Hsia-mu-chi, Siamuji
 Xian Jiao, Han Chiao, Hsien Chiao
 Xian Shan, Hsien Shan, Hung-mao-kuan, Sian Shan, 仙山
-Xian'an Village, Xian'an, 賢庵里
+Xian'an Village, Xian'an, [廈]南村, 下湳里
 Xianan, Hsia-nan, Sianan
-Xianan  Village, [廈]南村
-Xianan Village, 下湳里
 Xianangang, Hsia-nan-chiang, Hsia-nan-kang, Sianangang
 Xianankeng, Hsia-nan-k'eng, Nan-yang, Sianankeng
 Xiananpian, Hsia-nan-p'ien, Nan-ho-li, Siananpian
@@ -17035,7 +16988,6 @@ Xianglan, Hsiang-lan, Hsiang-lon, Hsiao-hsiang-lan, Lao-lan, Sianglan
 Xianglan Village, 香蘭村
 Xianglin, Hsiang-lin, Hsiang-lin-ts'un, Sianglin
 Xianglin  Village, [響]林村
-Xianglin Village, 香林村
 Xianglu, Hsiang-lu, Sianglu
 Xianglu Yu, Hsiang-lu Hsü, Hsiang-lu Yü, Sianglu Yu, 香爐嶼
 Xiangnanzi, Hsiang-nan-tzu, Nan-tzu-k'eng, Siangnanzih
@@ -17111,7 +17063,6 @@ Xianlinxiang, Hsien-lin-hsiang, Sianlinsiang
 Xianlunzi, Hsien-lun-tzu, Sianlunzih
 Xianmeiping, Hsien-mei-p'ing, Sianmeiping
 Xianongchang, Hsia-nung-ch'ang, Sianongchang
-Xianshan, Hsien-shan, Sianshan
 Xianshankou, Hsien-shan-k'ou, Sianshankou
 Xianshui Village, Xianshui, 仙水里
 Xiantan, Hsien-t'an, Siantan
@@ -17453,7 +17404,6 @@ Xiatanzi, Hsia-t'an-tzu, Siatanzih
 Xiatayou, Hsia-t'a-yu, Siatayou
 Xiatian, Hsia-t'ien, Siatian
 Xiatian  Village, 下田里
-Xiatian Village, 夏田里
 Xiatian Xi, Hsia-t'ien Hsi, Siatian Si, 下田溪
 Xiatianliao, Hsia-t'ien-liao, Siatianliao
 Xiatianwei, Hsia-t'ien, Hsia-t'ien-wei, Nan-t'ien, Siatianwei
@@ -17749,14 +17699,12 @@ Xin Shan, Hsin Shan, Sin Shan, 新山
 Xin Village, Xin, 新里里
 Xin'aidingliao, Hsin-ai-ting-liao, Sin'aidingliao
 Xin'ailiao, Hsia-ai-liao, Hsia-i-liao, Hsia-yai-liao, Hsin-ai-liao, Hsin-yai-liao, Sin'ailiao
-Xin'an, An-hsin, Sin'an
-Xin'an Village, Hsin-an, Hsin-an Li, Hsin-hua, Hsin-hua Li, Sin'an Li, Xin'an Li, 信安里
+Xin'an, An-hsin, Ch'i-nan, Hsi-nan, Hsi-nan-ts'un, Sheng-fan-k'eng, Sheng-fan-k'ung, Sin'an
+Xin'an Village, Hsin-an, Hsin-an Li, Hsin-hua, Hsin-hua Li, Sin'an Li, Xin'an Li, Xinan, 信安里, 溪南村
 Xin'e Village, Xin'e, 信蚵里
 Xin'ercun, Hsin-erh, Hsin-erh-ts'un, Sin'ercun
 Xinaji Shan, Hsi-na-chi Shan, Sinaji Shan, 西納基山
-Xinan, Ch'i-nan, Hsi-nan, Hsi-nan-ts'un, Sheng-fan-k'eng, Sheng-fan-k'ung, Sinan
 Xinan Shan, Ch'i-nan Shan, Hsi-nan Shan, Sinan Shan, 溪南山
-Xinan Village, 喜南里, 溪南村
 Xinanliao, Ch'i-nan, Ch'i-nan-ts'un, Hsi-nan, Hsi-nan-liao, Hsi-nan-ts'un, Hsia-ch'i-ku, Sinanliao
 Xinanzhuang, Hsi-nan-chuang, Sinanjhuang
 Xinbai'erfen Shan, Hsin-pai-erh-fen Shan, Sinbai'erfen Shan, 新百二份山
@@ -18156,7 +18104,6 @@ Xinwu, Hsin-wu, Hsin-wu-lu-she, Pu-ting, Sinwu
 Xinwu  Village, 新屋里
 Xinwu District, Hsin-wu, Hsin-wu Hsiang, Sinwu Siang, Xinwu Xiang, 新屋區, 新屋鄉
 Xinwu Shan, Hsin-wu Shan, Sinwu Shan, 新烏山
-Xinwu Village, 新武里
 Xinwu Xi, Hsin-wu Hsi, Sinwu Si, 新屋溪
 Xinwucun, Hsin-wu, Hsin-wu-ts'un, Sinwucun
 Xinwufenzi, Hsin-wu-fen-tzu, Sinwufenzih
@@ -18594,7 +18541,6 @@ Yanchao District, Yanchao Siang, Yanchao Xiang, Yen-ch'ao, Yen-ch'ao Hsiang, 燕
 Yancheng, An-ting, Jih-hsin, Jih-hsin-li, Lai-k'ou, Ting-yen-ch'eng, Yen-ch'eng, Yen-ch'eng-ts'un
 Yancheng  Village, [鹽]埕里
 Yancheng District, 鹽埕區
-Yancheng Village, 鹽埕里
 Yancheng Xi, Yen-ch'eng Hsi, 鹽埕溪
 Yanchengdi, San-ho-liao, Yen-ch'eng-ti, 鹽埕地
 Yanchengzi, Yen-ch'eng-tzu
@@ -18721,7 +18667,6 @@ Yantan Dapaishui, Yantan Dapaishuei, Yen-t'an Ta-p'ai-shui, 延潭大排水
 Yanti, Yen-t'i
 Yantian, Yen-t'ien, Yen-t'ien-ts'un
 Yantian  Village, [鹽]田里
-Yantian Village, 鹽田里
 Yantianliao, Yen-liao, Yen-t'ien, Yen-t'ien-liao, Yen-t'ien-ts'un
 Yantongzikeng, Yantongzihkeng, Yen-t'ung-tzu-k'eng
 Yantou, Yen-t'ou
@@ -18819,8 +18764,7 @@ Yiboku, I-po-k'u
 Yichang, I-ch'ang, T'ien-p'u, Tou-lan, Tou-lan-she
 Yichang Shan, I-ch'ang Shan, 一場山
 Yichang Village, 宜昌村, 宜昌里
-Yicheng  Village, Yicheng, 義盛里
-Yicheng Village, Yicheng, 意誠里
+Yicheng  Village, Yicheng, 意誠里, 義盛里
 Yichou, I-ch'ou, Niu-ch'ou-tzu
 Yichou Village, 義稠里
 Yicun, Hou-hu, I-ts'un
@@ -19342,9 +19286,8 @@ Yueyana Shan, Yüeh-ya-na Shan, 岳亞那山
 Yuezicuo, Yuezihcuo, Yüeh-tzu-ts'o
 Yufangkeng, Yu-fang-k'eng
 Yufeng, Li-lien, Li-lien-she, Yen-yung-she, Yufong, Yü-feng, Yü-feng-ts'un
-Yufeng  Village, 玉[峰]里
+Yufeng  Village, 玉[峰]里, 玉峰村
 Yufeng Shan, Yufong Shan, Yü-feng Shan, 玉峯山
-Yufeng Village, 玉峰村, 玉峰里
 Yufeng Xi, Hsiu-luan Ch'i, Hsiu-luan Hsi, Ma-li-jun-wan Hsi, Ma-li-k'uo-wan Ch'i, Ma-li-k'uo-wan Hsi, Yufong Si, Yü-feng Ch'i, Yü-feng Hsi, 玉峰溪
 Yufu, Yü-fu, Yü-fu-ts'un
 Yufu Village, 漁福村
@@ -19501,8 +19444,7 @@ Zengwen Shuiku, Tseng-wen Shui-k'u, Tseng-wen-hsi Shui-k'u, Tseng-wen-hsi-shui-k
 Zengwen Xi, Ch'ang-ku Hsi, Ch'en-Wen-Ch'i, Sobun River, Taiwanfu[, Ts'eng-wen-ch'i Ditch, Tsan-bun, Tsen-wen Ch'i, Tseng-wen Hsi, Tseng-wen Hsi Ditch, Tseng-wen-ch'i Hsien-shui-lu, Tseng-wen-ch'i P'ai-shui-lu, Tseng-wen-hsi Shui-lu, Zengwun River, Zengwun Si, 曾文溪
 Zengwen Xincun, Tseng-wen Hsin-ts'un, Zengwun Sincun, 曾文新村
 Zengwenhaibu Yuwen, Tseng-wei-hai-pu Fish Pond, Tseng-wen-hai-pu Yü-wen, Zengwunhaibu Yuwun, 曾文海埔漁塭
-Zeren  Village, Zeren, 澤仁里
-Zeren Village, Zeren, 擇仁里
+Zeren  Village, Zeren, 擇仁里
 Zhafeng'ai, Cha-feng-ai, Jhafong'ai, 柵風愛
 Zhai Shan, Chai Shan, 翟山
 Zhaigang Village, Zhaigang, 宅港里
@@ -19848,12 +19790,11 @@ Zhong Village, Zhong, 中里里
 Zhong Xi, Chung Ch'i, Chung Hsi
 Zhong Yu, Chung Yü
 Zhong Zheng Gongyuan, 中正公園
-Zhong'ai, Chung-ai, Chung-i, Chung-i-li, Jhong'ai
+Zhong'ai, Chung-ai, Chung-i, Chung-i-li, Chung-yai, Jhong'ai
 Zhong'ai Village, 中隘里
 Zhong'aili, Chung-ai-li, Chung-yai-li, Jhong'aili
 Zhong'an Village, Zhong'an, 中安里
 Zhong'ayu Shan, Chung-a-yü Shan, Jhong'ayu Shan, 中阿玉山
-Zhongai, Chung-ai, Chung-yai, Jhongai
 Zhongaizhuang, Chung-ai-chuang, Jhongaijhuang
 Zhongbaling, Chung-pa-ling, Jhongbaling
 Zhongbao, Chung-pao
@@ -19998,8 +19939,7 @@ Zhongluchang, Chung-lu-ch'ang, Jhongluchang
 Zhonglukeng, Chung-lu-k'eng, Jhonglukeng
 Zhonglulin, Chung-lu-lin, Chung-wu-lin, Jhonglulin
 Zhonglun, Chung-lun, Chung-lun-li, Chung-lun-ts'un, Jhonglun, Nan-wen-li
-Zhonglun  Village, 中崙里
-Zhonglun Village, 中崙村, 中崙里
+Zhonglun  Village, 中崙村, 中崙里
 Zhonglun Xi, Chung-lun Hsi, Jhonglun Si, Po-lo Hsi, Po-lo-wen Hsi, 中崙溪
 Zhonglundian, Chung-lun-tien, Jhonglundian
 Zhonglunliao, Chung-lun-liao, Jhonglunliao

@@ -10,8 +10,6 @@ Aespa
 Ahaste
 Ahja, Akh'ya
 Ahula, Myza Akhula
-Aidu, Aidu Asundus, Aydu, Myza Aydu
-Aila
 Ala, Ala-Taagepera, Svyatogo, Wagenküll
 Alajõe, Alaiye, Alayye, Алайыз
 Alasoo
@@ -32,7 +30,7 @@ Aravu
 Ardu
 Are, Are Asundus, Are Parish, Are vald, Myza Are
 Arkna
-Aruküla, Arrokyulla, Arukyula, Aruküla Aedlinn, Kuldoru, Muusi-Aruküla, Muzi-Arukyula, Venevere-Aruküla
+Arukülä, Arrokyulla, Arukyula, Aruküla Aedlinn, Kuldoru, Muusi-Aruküla, Muzi-Arukyula, Venevere-Aruküla
 Arumetsa
 Aruvalla, Aruvalla Asundus, Myza Aruvalla
 Aseri, Asari, Aseri Mõis, Aseri-Taluküla, Asseren, Asserien, Asserin, Azeri, Азерн
@@ -73,7 +71,6 @@ Haljala, Haljall, Khal'yal', Khal'yala
 Haljava, Galiava, Khal'yava
 Halliste, Gallist, Hallist, Khalliste
 Hara, Garra, Harja, Khar'ya, Khara, Kharga
-Hargla, Harjel, Khargla
 Harju-Risti
 Harku, Kharku
 Harkujärve, Kharku
@@ -89,8 +86,9 @@ Holvandi
 Hulja, Hulja Asundus, Khul'ya
 Hullo, Khullo
 Hummuli, Alt-Hummelshof, Hummelshof, Hummuli Asundus, Khummel'sgof, Khummuli, Myza Khummuli
+Härgla, Harjel, Khargla
 Härjanurme, Khar'yanurme
-Härma, Yerma
+Härmä, Yerma
 Häädemeeste, Gutmannsbach, Gutmansbakh', Haedemeeste, Hedemēste, Khyademeste, Хяздемеэсте
 Hüüru
 Igaküla, Iga, Igakyula
@@ -124,7 +122,7 @@ Järsi, Yarsi
 Järva-Jaani, J. Jaani, Jerve Jāni, Järvi-Jaani, Sankt-Johannis, Svyatogo Ioanna, Yarva-Yani, Yyarva-Yani, Ярва-Яани
 Järvakandi, Järvakandi Asundus, Järvakandi Klaasivabrik, Järvakandi Tehasid, Järwakandi, Järwakandi Klaasi Wabrik, Myza Yarvakandi, Stekol'nyy Zavod Yarvakandi, Yarvakandi
 Järve, Jarvo, Järsu, Järvaküla, Suuresilma, Yarve
-Järveküla, Yarvekyula, Yarvekyulya
+Järvekülä, Yarvekyula, Yarvekyulya
 Järvere
 Jäärja, Myza Yar'ya
 Jõesuu, Ezuu, Iye, Yyesu, Іоэсуу
@@ -144,7 +142,6 @@ Kaarlijärve, Каарлиярве
 Kaavere, Kavere
 Kabala, Kabala Asundus, Kappel, Myza Kabala
 Kaberneeme, Kaberneyeme
-Kabli, Kabliuku, Kably
 Kadapiku
 Kadila
 Kadrina, Karlsberg, Katharinen, Katrinen', Sankt-Katharinen
@@ -159,7 +156,6 @@ Kalita
 Kallaste, Krasnaja Gora, Krasnaya Gora, Krasnogar, Krasnogor, Krasnyye Gory
 Kallavere
 Kalme
-Kamara
 Kamari, Kamari Asundus
 Kanaküla, Kanakyula
 Kandiküla
@@ -170,7 +166,6 @@ Karitsa, Karitsa Asundus, Myza Karitsa
 Karja, Kar'ya, Karja Asundus, Myza Kar'ya
 Karjaküla, Kar'yakyula, Kar'yakyulya, Myza Kau'yakyula, Vana Kar'yakyula, Vana-Karjaküla
 Karjatnurme
-Karksi, Karksi Asundus, Karski, Myza Karksi
 Karksi-Nuia, Karksi-Nuya, Karkus, Nuia, Nuiya, Nuya, Nuyya, Каркси-Нуай
 Karste
 Karula, Karula Asundus, Myza Karula
@@ -262,16 +257,19 @@ Kurtna, Kurtna Asundus, Kurtna Siedlung, Myza Kurtna
 Kuusalu, Kusal, Kusalu, Kuusalu Parish, Kuusalu vald, Kuzal'
 Kuusiku, Kusiku, Kusiku-Il'pla, Kuusiku Metsavaht, Kuziku, Myza Kuziku
 Kuutsi
+Käbli, Kabliuku, Kably
 Käina, Keina, Keinis, Kerna, Keyna, Keynis, Kyayna
+Kämara
 Käo, Kyao
 Käravete, Myza Kyaravete
 Kärde
-Kärdla, Kerdla, Kerdlya, Kerhl, Kertel, Kyardla, Kärtla, Myasto Kyardla
+Kärdla, Kerdla, Kerdlya, Kerhl, Kertel, Kyardla, Kärtla, Myasto Kyardla, Кардля
 Kärevere, Kyarevere, Kärevere Asundus, Myza Kyarevere
 Kärkna, Kyarkna
-Kärla, Kyarla, Kärla Parish, Kärla vald
+Kärksi, Karksi Asundus, Karski, Kyarksi, Myza Karksi
+Kärla, Karlakyula, Karlaküla, Karlya, Kyarla, Kärla Parish, Kärla vald
 Kärsa, Kyarsa, Kärsa Asundus, Myza Kyarsa
-Kärstna, Kyarstna, Kärstna Asundus, Myza Kyarstna
+Kärstnä, Kyarstna, Kärstna Asundus, Myza Kyarstna
 Käru, Karuküla, Kerro, Keru, Kyaru
 Käsmu, Kasper, Kyasmu
 Käsukonna, Kyazukonna
@@ -476,10 +474,8 @@ Padise
 Pae
 Paekna
 Pagari, Pagari Asundus
-Pahkla, Pakhkla
 Pahtpää, Pakhtpya
 Pahuvere, Pakhovere, Pakhuvere
-Paide, Paide_vald, Payde, Veisenshtein, Veisenshteyn, Veysenshteyn, Weissenstein
 Paidra
 Paikuse
 Painküla, Paynkyula
@@ -547,8 +543,9 @@ Purtse
 Putkaste, Myza Putkaze, Putkaste Asundus
 Puuri
 Puurmani, Myza Purmani, Puurmani Asundus
-Pähkla, Pyakhkla
+Pähkla, Pakhkla, Pyakhkla
 Pähni, Пяхни
+Päide, Paide_vald, Payde, Veisenshtein, Veisenshteyn, Veysenshteyn, Weissenstein
 Päidla, Myza Pyaydla, Paidla Asundus
 Päinurme, Myza Pyaynurme, Pyaynurme, Päinurme Asundus, Päinurme-Ülejõe, Пяйэнурме
 Päraküla, Perakyula
@@ -590,7 +587,6 @@ Raja, Rahingi, Raja Alevik, Raya
 Rakke, Racke, Rake
 Rakvere, Rakvere_vald, Rakwere, Vezenberg, Wesenberg
 Rammu, Rammu küla, Rammu saar, Rammusaar
-Ramsi
 Randvere, Myza Randvere
 Rangu
 Rannametsa
@@ -599,7 +595,7 @@ Rannu, Myza Rannu, Rannu Asundus, Rinnakyulya
 Rapla, Odenkam, Rapla-kyulya, Raplaküla, Rappel
 Rasina, Razina, Rosenow
 Ravila, Myza Ravila
-Rebase, Rebaze
+Rebäse, Rebaze
 Reegoldi, Reeguldi, Regul'di
 Reiu
 Reola, Myza Reola, Reola Asundus
@@ -752,8 +748,8 @@ Tornimäe, Kyarneri
 Treimani, Dreimani, Dreimanni, Dreimansdorf, Treymani, Treymanni
 Treski, Väike Treski
 Triigi, Myza Triygi, Trigi, Triiga, Triigi Asundus, Triygi
+Ts'olgo, Tsolgu
 Tsirguliina, Raa, Sagnitz, Tsirgulina, Tsirgulinn, Tsirgulinna, Тсиргулийна
-Tsolgo, Tsolgu
 Tsooru, Myza Tsoru, Tsooru Asundus, Tsoru
 Tudu, Tudo
 Tudulinna, Tuddolin, Tudolin, Tudolinna, Tudulinna Parish, Tudulinna vald
@@ -927,7 +923,9 @@ Võõpste, Vybste, Võõbste, Выыпсте
 Võõpsu, Lysovka, Neu-Rappin, Ney-Rappin, Novo-Rappin, Vebs, Vypsu, Vyypsu, Võõbsu, Vēpsu, Wöbs
 aaviku talu
 Äiamaa, Eyama
+Äidu, Aidu Asundus, Aydu, Myza Aydu
 Äigrumäe
+Äila
 Äksi, Ekse, Kirka Ekse, Rabatsaun, Yaksi
 Änari
 Ängi

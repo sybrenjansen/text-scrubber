@@ -481,7 +481,6 @@ Biddestone, Biddlestone
 Biddulph
 Bideford
 Bidford-on-Avon, Bidford
-Bidford-on-avon
 Bierton
 Bigbury on Sea
 Biggar, Bigear
@@ -2347,7 +2346,6 @@ Groeslon
 Gronant
 Groombridge
 Grosmont, Grosmount, Y Grysmwnt
-Grove
 Grovesend
 Grundisburgh
 Guardbridge
@@ -2568,7 +2566,6 @@ Heol-y-Cyw
 Hepscott
 Hepworth
 Hereford, Henffordd
-Hermitage
 Herne Bay
 Herstmonceux, Hurstmonceaux, Hurstmonceux
 Hertford
@@ -2664,7 +2661,6 @@ Holmesfield
 Holmfirth
 Holmwood
 Holsworthy
-Holt
 Holtby
 Holton le Clay
 Holyhead, Caergybi
@@ -2754,7 +2750,6 @@ Husthwaite
 Huttoft
 Hutton
 Huyton, Huyton with Roby
-Hyde
 Hyde Heath
 Hydestile
 Hythe
@@ -3016,7 +3011,6 @@ Kniveton
 Knockholt
 Knottingley, Knottingly
 Knowl Hill
-Knowle
 Knutsford
 Kyle of Lochalsh, Caol Loch Aillse, Kyle of Lochash
 Kyloe
@@ -3100,7 +3094,6 @@ Leek Wootton
 Leeswood
 Legbourne
 Leicester, Caerlŷr, Leiscester
-Leigh
 Leighton Buzzard
 Leintwardine
 Leiston
@@ -4331,7 +4324,6 @@ Rochdale
 Roche
 Rochester
 Rochford
-Rock
 Rockbourne
 Rode, Road
 Rode Heath
@@ -4422,7 +4414,7 @@ Ryton on Dunsmore
 Sabden
 Sacriston
 Saffron Walden
-Saint Agnes, St. Agness
+Saint Agnes, Aganas, St. Agness, Ynys Aganas
 Saint Andrews, Cill Rìmhinn
 Saint Andrews Quay
 Saint Asaph, Llanelwy
@@ -4432,11 +4424,12 @@ Saint Clears, Sanclêr
 Saint Columb Major, Saint Columb
 Saint Combs, Coombs
 Saint Cyrus
-Saint Davids, Tyddewi
 Saint Dennis, Saint Denis
 Saint Fergus
+Saint Ives, Porth Ia
 Saint Leonards-on-Sea
 Saint Margaret's Hope
+Saint Mary Bourne
 Saint Monans
 Saint Neots
 Saint Osyth
@@ -4766,15 +4759,12 @@ Springfield, Springfields
 Springside
 Sproatley
 Sproughton, Sprughton
-St Agnes, Aganas, Ynys Aganas
 St Albans
 St Austell
-St Helens
-St Ives, Porth Ia
+St David's, Tyddewi
 St Just
 St Leonards
 St Martin's
-St Mary Bourne
 St Mary's Bay
 St Olaves
 St. Day
@@ -5058,6 +5048,13 @@ Thamesmead
 Thankerton
 Thatcham
 Thaxted
+The Grove
+The Hermitage
+The Holt
+The Hyde
+The Knowle
+The Leigh
+The Rock
 Theale
 Therfield
 Thetford

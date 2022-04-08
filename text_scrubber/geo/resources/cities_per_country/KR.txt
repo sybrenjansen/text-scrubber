@@ -1,15 +1,15 @@
 Andong, An-kol, Andang, Ang-gol, 안동시
-Ansan-si, 安山, 안산시
+Ansan-dong, Ansan-ni, Anzan, 安山, 안산동, 안산시
 Anseong, Anjŏ, Anseong gun, Ansŏng-gun, 안성시
-Anyang-si, 안양시
-Asan, Onyō, 아산시
+Anyang-dong, Anyang-ni, Anyō, 안양1동, 안양시
+Asan-dong, Onyō, 아산시
 Beolgyo, Bakkyō-ri, Pŏlgyo
 Boryeong, Daisen, Taech'ŏn-ni, Taisen, 보령
 Bucheon-si, 부천시
 Busan, Busan-gwangyeoksi, Fousan, Fusan, Fusan-fu, Fuzan, Fuzan-fu, Husan Hu, Pusan-bu, Pusan-chikhalsi, Pusan-gwangyŏksi, Pusan-jikhalsi, Pusan-pu, Tsau-liang-hai, 釜山, 釜山廣域市, 부산광역시, 부산시
 Buyeo, Fuyo, Puyŏ
+Ch'angsu-dong, Chōsui-ri, 장수군
 Changnyeong, Ch'angnyŏng-ni, Ch'angyŏng-ni, 창녕군, 창녕읍
-Changsu, Chōsui-ri, 장수군
 Changwŏn, Shōgen, 창원시
 Cheonan, Ch'ŏnan, Tenan, Thyen-ān, 天安市, 천안시
 Cheongju-si, Ch'ŏngju-si, Cheonju, 청주시
@@ -40,14 +40,14 @@ Haenam, Kainan
 Hanam, 하남시
 Hayang, Kayō
 Heunghae, Funhai, Heung-hai, Hŭnghae, Kōkai, Ŭich'ang
-Hongch'ŏn, Kōsen, 홍천군
-Hongseong, Hongsung, Hongsŏng
+Hongch'ŏn, Gaishin-ri, Kōsen, Kōson, Oesin-ni, 홍천군
+Hongseong-ri, Hongsung, Hongsŏng, Hongsŏng-ni
 Hwacheon, Huachon, Hwalch'ŏn-ni, Kasen, 하천, 화천군
 Hwado, Hwajo-ri, Hwasŏm
 Hwaseong-si, 화성시
 Hwasun, Hwansun, Hwason, Wajun
-Hwawŏn
-Icheon-si, 이천시
+Hwawŏn-dong
+Icheon-si, Ich'ŏn-ni, 이천시
 Iksan, Ekisan, Ekizan, Riri, 익산시
 Imsil, Imshil, Ninjitsu, 윗마, 임실군
 Incheon, Chemulpo, 인천광역시, 인천시
@@ -60,14 +60,14 @@ Kimhae, Gimhae, Kinkai, Kŭmhae, 김해시
 Kimje, Kintei, Kŭmch'i, Kŭmjae, Kŭmje
 Kinzan, Kinsan, Kŭmzan
 Koesan, Kaesong, Kaisan, Kaizan, Kwaesan, Kwaizan, 괴산군
-Kosŏng, 고성군, 고송
+Kosŏng-dong, 고성군, 고송
 Kunwi, Guni, 군위, 군위군
-Kurye, Kyūrei, 구례, 구례군
-Kwangmyŏng
+Kurye-dong, Kyūrei, 구례, 구례군, 구례동
+Kwangmyŏng-dong, 광명동
 Kwangyang, Gwang-yang, Kuwagyan
-Kyosai
-Kŏch'ang, Kyoshō, Kōshō, 거창, 거창군, 고창군
-Masan
+Kyosai-ri
+Kŏch'ang, Kyoshō, Kōshō, 거창, 거창군, 고창군, 고창동
+Masan-dong
 Miryang, Milbeol, Milyang, Mitsuyō, 밀양시
 Mokpo, Mogpo, Mok-pho, Mokuho, Moppo
 Muan, Muan-gun, Muan-ni, Muap
@@ -81,8 +81,8 @@ Neietsu, Yŏngwŏl, 영월
 Nonsan, Ronsan, Ronzan, 논산시
 Okcheon, 옥천, 옥천군
 Osan, 오산시
+P'ohang, Geijitsu, Hoko
 Paripark
-Pohang, Geijitsu, Hoko
 Puan, Fuan
 Pubal
 Pyeongchang, Heishō, Pyeongchang County, 평창군
@@ -91,10 +91,10 @@ Santyoku, Samch'ŏk, Samch'ŏk-kun, Samcheog gun, Samcheok, Samuchoku, Sanchoku,
 Sejong, Sejong Special Self-Governing City, 世宗
 Seogwipo
 Seonghwan, Seikan-ri, Songhwan, Sŏnghwan-ni
-Seongnam-si, 성남시
+Seongnam-dong, 석남, 석남1동, 성남동, 성남시
 Seosan, Seosan City, Suisan, 瑞山市, 서산시
 Seoul, Hanyang, Seul, Sye-ul, Syou-ouen, Sŏul, Wang-ching, Wō-jō, 서울시, 서울특별시
-Sinan, 신안군
+Sinan-dong, 신안군
 Sinhyeon, Saewŏn-ni, Sinwŏn-ni
 Sintansin, Shinnanri, Shintanshin
 Sokcho, Sogcho
@@ -103,7 +103,7 @@ Suwon, Suigen, 수원시
 T'aebaek, 태백
 Taesal-li, Taesan-ni, Taisan-ri, 대산리
 Tangjin, Tōshin, Tōsin, 당진시
-Tonghae
+Tonghae-dong
 Uijeongbu-si, 의정부시
 Ulsan, Hasang-myŏn, Pangŏjin-ŭp, Taehyŏn-myŏn, Ulsan-gwangyeoksi, Ulsan-gwangyŏksi, Ulsan-ŭp, Urusan, 蔚山, 蔚山廣域市, 울산광역시, 울산시
 Ungsang
@@ -112,7 +112,7 @@ Waegwan, Waegwan-ni, Waikan, Wakan
 Wanju, wanju-gun, 완주군
 Wŏnju, Genshū, 원주시
 Yanggu, Yanggyu-dong, 양구군
-Yangju, Yangju-gun, 양주시
+Yangju-dong, Yangju-gun, 양주1동, 양주시
 Yangp'yŏng, Yangp'yŏngŭmnae, Yanp'yŏng, 양평군
 Yangsan, Ryōsan, Ryōzan, 양산시
 Yeoju, Reishū, Rishū, Yŏju, 驪州市, 여주시
@@ -120,7 +120,7 @@ Yeongam
 Yeongdong, Eidō
 Yeonggwang, Reiko, Yŏnggwang
 Yeonil, Eijitsu, Enjitsu
-Yeosu, Yŏch'ŏn, 여수시
+Yeosu-dong, Yŏch'ŏn, 여수동, 여수시
 Yesan, Reizan, Yŏsal-li, Yŏsan, Yŏsan-ni, 예산군
-Yongsan-dong, 용산2가동
+Yŏngsan, 용산2가동
 Yŏnmu

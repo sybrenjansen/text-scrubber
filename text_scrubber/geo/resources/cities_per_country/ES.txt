@@ -1,11 +1,16 @@
 A Baña
+A Cabana
+A Camba
+A Campiña, Caserío Campiña, La Campiña
 A Coruña, A Cruña, Caronium, Corunna, Corunya, Coruñako, La Coronha, La Coruna, The Groyne, Ла-Корунья
 A Estrada, La Estrada
 A Illa da Toxa
+A Lama
 A Pobra do Brollon, Puebla de Brollón
 A Pobra do Caramiñal, Puebla de Caramiñal, Puebla de Carminal, Puebla del Caramiñal
+A Portelá
 A Rúa
-A seara
+A Seara
 Ababuj
 Abades
 Abadía, Абадия
@@ -1302,7 +1307,6 @@ Bóveda del Río Almar
 Búger, Бужер
 Cabacés
 Caballar
-Cabana
 Cabanabona
 Cabanillas de la Sierra
 Cabanillas del Campo, Кабанильяс-дель-Кампо
@@ -1424,7 +1428,6 @@ Camariñas, Camarines, Камариньяс
 Camarma de Esteruelas
 Camarzana de Tera
 Camañas
-Camba
 Cambados, Камбадос
 Cambil, Cambril
 Camboño
@@ -1452,7 +1455,6 @@ Campillos-Paravientos
 Campillos-Sierra, Campillo-Sierra
 Campins
 Campisábalos
-Campiña, Caserío Campiña
 Campo Real, Camporreal
 Campo de Caso, Caso, San Juan el Real
 Campo de Criptana, Кампо-де-Криптана
@@ -2108,10 +2110,10 @@ Cornoncillo
 Cornudella de Montsant
 Corpa
 Corporales
+Corral Rubio, Caserío Corral Rubio
 Corral de Almaguer
 Corral de Ayllón
 Corral de Calatrava
-Corral-Rubio
 Corralejo, Corbalejo, Коральехо
 Corrales
 Corrales de Duero
@@ -2932,7 +2934,7 @@ Genalguacil
 Genevilla
 Genovés
 Gerbe
-Gerena
+Gereña
 Geria
 Gerindote
 Gernika-Lumo, Gernika, Guernica, Guernica y Luno
@@ -3353,7 +3355,7 @@ Kripan, Cripan
 L'Alcúdia, Alcudia de Carlet
 L'Alcúdia de Crespìns, Alcudia de Crespins
 L'Alqueria de la Comtessa, Alquería de la Condesa
-L'Ametlla del Vallès, L'Ametlla
+L'Ametlla del Vallès, L'Ametlla, La Ametlla
 L'Ampolla, Ampolla
 L'Eliana, La Eliana
 L'Hospitalet de Llobregat, Hospitalet de Llobregat, l'Hospitalet, Оспиталет-де-Льобрегат
@@ -3583,7 +3585,6 @@ Lagunilla
 Lagunilla del Jubera
 Laluenga
 Lalín
-Lama
 Lamas
 Lampazas
 Lanaja
@@ -4893,7 +4894,7 @@ Pavías, Pavies
 Paymogo
 Payo de Ojeda
 Pazuengos
-Paüls
+Paúls
 Peal de Becerro
 Pedrajas de San Esteban
 Pedralba, Pedralva
@@ -5133,7 +5134,6 @@ Portaje
 Portalrubio de Guadamajud
 Portas
 Portbou, Портбу
-Portela
 Portell de Morella
 Portezuelo
 Portillo, Портильо
@@ -5918,7 +5918,6 @@ Santa Cristina d'Aro, Santa Cristina de Aro
 Santa Cristina de Valmadrigal
 Santa Cristina de la Polvorosa
 Santa Croya de Tera
-Santa Cruz, Huerta de Santa Cruz, Pedanía de Santa Cruz, SC, Santa Cruz (Murcia), Santikurutz
 Santa Cruz de Bezana, Санта-Крус-де-Бесана
 Santa Cruz de Boedo
 Santa Cruz de Grío
@@ -6032,6 +6031,7 @@ Santibáñez del Val
 Santibáñez el Alto
 Santibáñez el Bajo
 Santibáñez-Zarzaguda
+Santikurutz, Huerta de Santa Cruz, Pedanía de Santa Cruz, SC, Santa Cruz, Santa Cruz (Murcia)
 Santillana, Barriada Santillana, Santillana del Mar
 Santiponce
 Santisteban del Puerto
@@ -7543,7 +7543,6 @@ el Camp de Mirra, Campo de Mirra
 el Campell / Alcampell, Alcampell, el Campell
 el Gaió, Algayón
 el Mallol
-el Molar
 el Port de la Selva
 el Sallent
 el Torricó / Altorricon, Altorricón, el Torricó

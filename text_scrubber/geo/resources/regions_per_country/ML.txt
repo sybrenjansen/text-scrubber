@@ -63,7 +63,7 @@
 'Erg Arzour, Azour Erg, Erg-Arzur
 'Erg Assedrem, Erg Sideroum
 'Erg Atouila, Atouila, Erigat Atouila
-'Erg Azarane
+'Erg Azarane, Erg Azaram, Erg Azaran, Erg Azirane
 'Erg Azarza, Erg Azraza
 'Erg Bel Aouar
 'Erg Boû Gouéré, 'Erg Boû Guêrê, Bou Gouéré
@@ -75,11 +75,10 @@
 'Erg Halfa
 'Erg Hamerarich, Hamerarich
 'Erg Hamrarich
-'Erg I-n- Terchicherine, Erg I-n-Terchicherin
+'Erg I-n- Terchicherine, Erg I-n-Terchicherin, Erg In Terchicherin, Erg Ine Terchicherine
 'Erg I-n-Afarak
 'Erg I-n-Azaoua, 'Erg-i-n-Azava
 'Erg I-n-Edjebar, Erg in Egebar, Erg-in-Edzhebar
-'Erg I-n-Terchicherine, Erg In Terchicherin, Erg Ine Terchicherine
 'Erg Jmeya', Dune Rocheuse de Jmeyhaa
 'Erg Khalîfa, Erg Kalifa
 'Erg Lagmar
@@ -107,7 +106,7 @@
 'Erg Toui Mir, 'Erg-Tvi-Mir
 'Erg Touâber
 'Erg ej Iber, 'Erg ei Iber, 'Erg-ezh-Iber
-'Erg ej Jmel
+'Erg ej Jmel, 'Erg el Djemel, Erg ed Djemel
 'Erg el Ahmar, Erg Bel Ahmar, Erg Bel Hammar
 'Erg el Aouikat, عرق الأوقات
 'Erg el Arid
@@ -2990,11 +2989,6 @@ Cinzana Ville
 Cissela
 Cliff of Bandiagara
 Commune 1
-Commune 2
-Commune 3
-Commune 4
-Commune 5
-Commune 6
 Commune de Madiga Sacko
 Commune de Pimperna
 Commune de Samé, Samé-Diomgoma
@@ -3005,7 +2999,6 @@ Da
 Daa
 Daalo
 Dab'a
-Daba
 Dababougou
 Dabai Ameidi
 Dabai Wali
@@ -3309,7 +3302,6 @@ Dar Salam, Dar es Salam, Farlandia, Samé- Dar Salan, Samé- Daré- Salam
 Dar Salam-Oulouma
 Dar el Beida
 Dar el Bèyda
-Dar-Salam
 Dar-el-Salam, Dar es Salam
 Dara
 Darabo
@@ -5256,19 +5248,14 @@ Erensi
 Ereuy, Ereï
 Erg Aglil
 Erg Atwila
-Erg Azarane, Erg Azaram, Erg Azaran, Erg Azirane
 Erg Bounmal
 Erg Erebeb, 'Erg Érhebeb
 Erg Fersig
 Erg I-n-Tamedi, Erg in Tamedhé
 Erg I-n-Tarakaft, Erg Ti-n-Tarakaft, Tin Terekot
-Erg Nfakh
 Erg Nfayal
-Erg Nfayet
 Erg Oum el Ksi
 Erg Tabarit, 'Erg Taberit
-Erg Temachoulene
-Erg ej Jmel, 'Erg el Djemel, Erg ed Djemel
 Ergam
 Erh Arhajarh
 Eri
@@ -6297,9 +6284,8 @@ Gangontéri, Cangontéri, Gangontery
 Gangouroubouro
 Ganguel, Ganguei
 Ganhala
-Gani, Niakui
 Gani-Lé
-Gani-do
+Gani-do, Niakui
 Gania, Gagna
 Ganida, Gani-Dah, Ganidah
 Ganindo
@@ -7060,7 +7046,7 @@ Géséni
 Ha
 Hababougou
 Habourem Kanahoutas
-Habr-oû-Gdoûr
+Habr-oû-Gdoûr, Habar Oukdour
 Hadeb el Hâd
 Hadibougou
 Hadouka I-n-Begag
@@ -7089,9 +7075,8 @@ Hammagas
 Hammou Salah
 Hamo
 Hamoum, Hammoun, Hamoun
-Hamâda El Haricha
+Hamâda El Haricha, El Haricha, Hamada el Aricha
 Hamâda Safia
-Hamâda el Haricha, El Haricha, Hamada el Aricha
 Handiyari
 Hangouné Banbara, Hangouné Bambara
 Hangouné Massassi
@@ -8086,7 +8071,6 @@ In-Ag Amara
 In-Atala
 In-Choumaguen, I-n-Choumaguene, In Choumagen
 In-Efèy
-In-Khalil
 In-Ourir
 In-Sanatlen
 Inalamou
@@ -8745,8 +8729,7 @@ Karli
 Karlindala Magouénite
 Karma
 Karo, Garo
-Karo Kamba
-Karo-Kamba, Karaokomba
+Karo Kamba, Karaokomba
 Karobougou
 Karono
 Karou
@@ -10750,7 +10733,7 @@ Lézé
 Lééko
 Léï Féllo, Leï Félo
 M' bourourèye
-M'Pebougou, Npedugu
+M'Pebougou, Nbébougou, Npedugu, Piebougou
 M'Pebougou-Sokala
 M'Pebougou-Were, N'péboug
 M'Pella
@@ -11229,7 +11212,6 @@ Massissébougou
 Masso
 Massougou
 Massé
-Mata
 Matabrou
 Matakala
 Matala
@@ -11711,9 +11693,8 @@ Mousfwayé
 Mouso
 Moussa Bangou
 Moussa Kora
-Moussa Were, Moussawéré
+Moussa Were, Moussa, Moussawéré
 Moussa-Konéla
-Moussa-Were, Moussa
 Moussabougou, Musabugu
 Moussaguya
 Moussaka, Moussa-Ka
@@ -11768,7 +11749,6 @@ Mpiékouna Kourou
 Mpiéla
 Mpiéna
 Mpolonan
-Mpèbougou, Nbébougou, Npedugu, Piebougou
 Mpènèbougou
 Mpèzana
 Mpédougou, Mpedugu
@@ -11865,11 +11845,11 @@ N'Djicorobougou, Ntiékorabougou
 N'Djidabougou, Djidabougou, Ndiédabougou
 N'Djidabougou Were, Ndjidabougou Ouèrè
 N'Dodjiga
-N'Dogona, Dogona, Ntokona
+N'Dogona, Dogona, Dokona, Ntokona
 N'Dolla
 N'Drila
 N'Débougou, Débougou
-N'Gabakoro
+N'Gabakoro, Gabokoro, N'Kabaro
 N'Gabakoro-Were
 N'Galamadian Coro, Kalamadyankoro
 N'Galamadian Coura
@@ -11881,11 +11861,11 @@ N'Goina
 N'Gola, Nouola
 N'Golobala
 N'Golobala-Were
-N'Golobougou
+N'Golobougou, N'Golabougou
 N'Golodiabougou
 N'Gomidjila
 N'Goron, Nouoro
-N'Gounando, Gounando
+N'Gounando, Gounando, N'Gounado
 N'Gounando-Coura
 N'Gueni, Guéni
 N'Guenidanga, Gouéni Dangan
@@ -12173,7 +12153,6 @@ Ndjisimbougou, Djissombougou, Ndjissimbougou
 Ndlala
 Ndoba
 Ndobougou, Nbobougou
-Ndogona, Dogona, Dokona
 Ndokoro, N'Tokoro
 Ndokoèye
 Ndola
@@ -12283,7 +12262,6 @@ Nesso
 Nfabougou, Fabugu
 Nfeïga
 Ngaakoro
-Ngabakoro, Gabokoro, N'Kabaro
 Ngabakoro Dansiré, N'Gabakoro Dansine
 Ngabakoro Droit, Ngabako Droit
 Ngabakoro Tièssouen, N'Kabakoro
@@ -12320,7 +12298,6 @@ Nganoukoro
 Nganoukourou
 Nganoumba
 Ngaoua, Ngawa
-Ngara
 Ngarababougou
 Ngarara
 Ngarasso
@@ -12336,14 +12313,11 @@ Ngodiarala
 Ngofouma
 Ngokla
 Ngoko
-Ngola
 Ngolasso
 Ngolo
 Ngolobabougou, Golababougou, Molobabougou, Molobouabougou, Ngdabougou, Ngolabougou
-Ngolobala
 Ngolobani
 Ngoloblébougou, Molèbélébougou
-Ngolobougou, N'Golabougou
 Ngolodièfoufou
 Ngolofanasso, Ouolofanasso
 Ngolofarana
@@ -12390,7 +12364,6 @@ Ngoumèl
 Ngoumél Marad
 Ngouna
 Ngounakoro
-Ngounando, Gounando, N'Gounado
 Ngounando Ouèrè
 Ngounyana
 Ngourouné
@@ -12400,7 +12373,6 @@ Ngouréma-Toboro, Gourem, Sourem, Surem
 Ngouèndo, Ngwèndo
 Ngouènitoua
 Ngoye
-Ngoïna
 Nguelébékoro
 Nguerbé, Ngerbé
 Nguessa
@@ -12920,7 +12892,6 @@ Ntorola
 Ntoronesso
 Ntorosso
 Ntosonibougou
-Ntosso
 Ntouana, Touana
 Ntouanintyè, Ntouatyen
 Ntoubana
@@ -13527,7 +13498,6 @@ Ouro-Koladé
 Ouro-Kouma
 Ouro-Mayo
 Ouro-Ndia
-Ouro-Nguéou
 Ouro-Néma
 Ouro-Songo
 Ouro-Sèydou, Oura Seidou
@@ -14367,7 +14337,7 @@ Sarsanké
 Sartata, Sarlatta
 Saré Amadi
 Saré Bana
-Saré Dina, Sardina
+Saré Dina, Sardina, Sarédono
 Saré Feré Dofina
 Saré Guita, Saré-Guida
 Saré Mamani
@@ -14387,7 +14357,6 @@ Saré-Bédari
 Saré-Béré
 Saré-Demba
 Saré-Demmba
-Saré-Dina, Sarédono
 Saré-Déra
 Saré-Faba-Mosso
 Saré-Hamadi
@@ -14410,7 +14379,6 @@ Saré-Nguéou
 Saré-Para
 Saré-Paté
 Saré-Sabilé
-Saré-Sana
 Saré-Soma
 Saré-Toumou
 Saré-Yamou, Sarayamou
@@ -16387,7 +16355,6 @@ Tayert Elli Sahel ed Dbech
 Tayert Emerka
 Tayert Ertek, Tayert Irteck
 Tayert Héhérich
-Tayert I-n-Akoundar, Tayert In Akoundar
 Tayert I-n-Beguena Gharni, Tayert I-n-Beguena Rharni
 Tayert I-n-Dahouane, Tayert In Dahouane
 Tayert I-n-Eska, In Eska
@@ -18585,7 +18552,7 @@ Tâyert el Haouéchiya
 Tâyert el Kahala
 Tâyert el Ma'moûr
 Tâyert el Médîna
-Tâyert i-n-Akoundar
+Tâyert i-n-Akoundar, Tayert In Akoundar
 Tâyert-I-n-Echchel, Taert-in-Eshshel'
 Tèhè-Remba
 Tèkèna
@@ -18661,7 +18628,6 @@ Télisséuko
 Télora
 Télèmsi
 Télé Tondi
-Télé-Tondi
 Téléa
 Téléfana
 Téléfoungou, Séléfougou
@@ -19474,4 +19440,3 @@ Zézéra
 Éssali, Eseli
 Étiksene
 Êlb el Abgâ
-Ḥabr Oû Gdoûr, Habar Oukdour

@@ -674,13 +674,13 @@ An Najmah, اَلنَّجْمَة
 An Naqiyān, النقيان
 An Naysar, النيسر
 An Naşrānīyah, Al Nasraniyah, النصرانية, النَّصْرَانِيَّة
-An Nu'ayjah, النعيجة
+An Nu'ayjah, An Nu'ayiah, Na'aijah, Naeeja, Naeejeh, Nu'aija, Nu'auah, النعيجة
 An Nu'ayjah Thalāthah wa Arb'aīn, نعيجة ٤٣
 An Nufaylīyāt, Al Nafaliyat, An Naffālīyāt, النفيليات, اَلنَّفَّالِيَّات
 An Nuhaydayn, النهيدين, اَلنُّهَيْدَيْن
 An Nuhaydāt, النهيدات
 An Nuhayy, Al Nuhai, An Nahayy, An Nahiy, Nahi, النهي, اَلنُّهَيّ
-An Nuqayb, النقيب
+An Nuqayb, النقيب, نقيب
 An Nuqayyah, اَلنُّقَيَّة
 An Nāfilah, النافلة
 Aqwā' al Ḩamḑ, Akwa al Hamdh, Akwa' al Hamid, أقواع الحمض, أَكْوَة اَلْهَمْذ
@@ -1623,7 +1623,6 @@ Naqā al Maḩārif, نقا المحارف, نَقَا اَلْمَحَارِف
 Naqā al Munshatiḩ, نقا المنشتح
 Naqā al Qaşāşīr, نقا القصاصير
 Naqā al Ḩarajah, نقا الحرجة
-Naqā as Sahlah, نقا السهلة
 Naqā Şin' Bin Māni', نقا صنع بن مانع
 Naqā Ţuwayr al Ḩamīr, نقا طوير الحمير
 Naşlat Abā al Furūkh, نصلة أبا الفروخ
@@ -1636,11 +1635,9 @@ Niqyān Qaţar, Naqayān Qaţar, Naqiyān al Qatar, Niqlan
 Niqyān al 'Afjah, نِقْيَان اَلْعَفْجَة
 Niqyān ar Raddah, نقيان الردة
 Niqyān as Sādah, نقيان السادة
-Nu'ayjah, An Nu'ayiah, Na'aijah, Naeeja, Naeejeh, Nu'aija, Nu'auah
 Nuhayd al Hashsh, نهيد الهش
 Nuhaydayn Umm al Jarāthīm, نهيدين أم الجراثيم
 Nuhaydāt al Khurayb, نهيدات الخريب
-Nuqayb, نقيب
 Nuqaybāt, نقيبات
 Nāyif, نايف
 Nīfā, نيفا
@@ -1722,8 +1719,7 @@ Ra's Dukhān
 Ra's Lafān, رأس لفان
 Ra's Madkhan, Al Mudakhkhan, اَلْمُدَخَّن, رأس مدخن
 Ra's Maghdar as Sulūlī ash Shamālī, رأس مغدر السلولي الشمالي
-Ra's Mulayjī, رأس مليجي
-Ra's Mulayjī', Ra's Layjī, Ra's Umm Layjah, Ra's Umm Layjī, Ras Umm Laiji, رأس مليجيء, رَأْس أُمّ لَيْجِي
+Ra's Mulayjī', Ra's Layjī, Ra's Umm Layjah, Ra's Umm Layjī, Ras Umm Laiji, رأس مليجي, رَأْس أُمّ لَيْجِي
 Ra's Muraydighah, رأس مريدغة
 Ra's Mushrifah, رأس مشرفة
 Ra's Qirţās, Ras Qartas, رأس قرطاس
@@ -2174,8 +2170,7 @@ Umm al Afā'ī, أم الأفاعي, أُمّ اَلأَفَاعِي
 Umm al Birak, أم البرك
 Umm al Birak 'Arş, أم البرك عرص
 Umm al Buzayy
-Umm al Fa'r, أُمّ اَلْفَأْر
-Umm al Fār, أم الفار
+Umm al Fa'r, أم الفار, أُمّ اَلْفَأْر
 Umm al Gharānīj, أم الغرانيج
 Umm al Ghaylam, أم الغيلم, أُمّ اَلْغَيْلم
 Umm al Ghurbān, Umm al Charban, Umm al Gharban, Umm al Ghirbān, أم الغربان, أُمّ اَلْغِرْبَان
@@ -2674,8 +2669,7 @@ Zar' al 'Atīyah, زَرْع اَلْعَتِيَّة
 Zar' al Mafjar, Zara al Mafjar, Zārah al Mafjar, زَرْع اَلْمَفْجَر
 Zar' al Muţawwa', زرع المطوع
 Zar'at Fahd, زَرْعَة فَهْد
-Zarqā, زرقا
-Zarqā', Zarkah, Zarqah
+Zarqā', Zarkah, Zarqah, زرقا
 Zawr Bū 'Awsajah, زور بو عوسجة
 Zawr al Ghashālī, زور الغشالي
 Zayn al Ism, زين الإسم
@@ -2701,8 +2695,7 @@ Z̧unayţ, ظنيط
 Şin' Ummahāt Ghurābah, صنع أمهات غرابة
 Şin' Ummahāt al Maghāţī, صنع أمهات المغاطي
 Şin' ad Dayḩah, صنع الديحة
-Şin' adh Dhi'bān, Şan' adh Dhi'bān, صنْع اَلذِّئْبَان
-Şin' adh Dhībān, صنع الذيبان
+Şin' adh Dhi'bān, Şan' adh Dhi'bān, صنع الذيبان, صنْع اَلذِّئْبَان
 Şin' al 'Arjānī, صنع العرجاني
 Şin' al Bu'ūḑīyāt, صنع البعوضيات
 Şin' al Fuzayrah, Şan' al Fuzayrah, صنع الفزيرة, صَنْع اَلْفُزَيْرَة

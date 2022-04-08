@@ -1,6 +1,4 @@
 160 Feet Hill
-194 Feet Hill
-196 Feet Hill
 Abarca
 Abra Cuthbert, Bahía Cuthbert
 Abra Díaz
@@ -416,7 +414,6 @@ Aguada de Vara
 Aguada de Varas
 Aguada de Vichu
 Aguada de Vizcachas
-Aguada de la Brea
 Aguada de la Changa
 Aguada de la Colorada, Aguada La Colorada
 Aguada de la Cortadera
@@ -432,7 +429,6 @@ Aguada de la Teca, Aguada La Teca
 Aguada de las Banderas
 Aguada de las Cañas
 Aguada de las Mulas
-Aguada de los González
 Aguada de los Mantos
 Aguada de los Pajaritos
 Aguada de los Ratones
@@ -653,7 +649,6 @@ Alto de Yerbas Buenas
 Alto de la Alianza
 Alto de la Argolla
 Alto de la Capellanía
-Alto de la Cruz
 Alto de la Cueva
 Alto de la Leona, Alto de la Loma
 Alto de la Mera
@@ -1016,7 +1011,6 @@ Añilco
 Baguales
 Bahia Asashuaia
 Bahia De Valdivia
-Bahia De Valparaiso
 Bahia Herradura Guayacan
 Bahia de Pisagua, Pisagua Bay
 Bahía Abrigada
@@ -1236,9 +1230,8 @@ Bahía Intricate, Bahía Intrincada
 Bahía Inútil, Inútil Bay, Useless Bay
 Bahía Irene
 Bahía Isabel
-Bahía Isla, Caleta Isla
 Bahía Isla Blanca
-Bahía Island
+Bahía Island, Caleta Isla
 Bahía Islas
 Bahía Isthmus, Rada Isthmus
 Bahía Jameison, Bahía Jamieson
@@ -1891,7 +1884,6 @@ Buchupureo
 Buen Retiro
 Buena Esperanza, Finca Buena Esperanza, Finca de Buena Esperanza
 Buena Vista
-Buena-Esperanza
 Buenaventura
 Buenos Aires
 Buill, Bill
@@ -2898,7 +2890,6 @@ Caleta Zenteno
 Caleta Zorra
 Caleta Zorro
 Caleta Zorzales
-Caleta boy
 Caleta de Afuera
 Caleta de Cuevitas
 Caleta de Guanillos
@@ -2906,21 +2897,18 @@ Caleta de La Aguada
 Caleta de La Fragata
 Caleta de La Ligua, Bahía La Ligua, Bahía de la Ligua
 Caleta de La Sal
-Caleta de Las Lozas
+Caleta de Las Lozas, Caleta de Las Losas
 Caleta de Pichicui
 Caleta de San Pedro
 Caleta de la Cascada, Puerto Cascade
-Caleta de la Sal
 Caleta de la Salina
 Caleta de la Tierra
-Caleta de las Lozas, Caleta de Las Losas
 Caleta de los Burros
 Caleta de los Indios
 Caleta de los Pozos
 Caleta del Cobre Norte
 Caleta del Faro
 Caleta del Gritón
-Caleta del Medio
 Caleta del Oro
 Caleta del Remo
 Caleta del Rey
@@ -7232,13 +7220,13 @@ Cerro de Eulogio
 Cerro de Hipólito
 Cerro de Huelhué
 Cerro de Incaguasi
-Cerro de La Campana
+Cerro de La Campana, Cerro La Compana
 Cerro de La Chicoca
 Cerro de La Concepción
 Cerro de La Cortadera, Cerro Cortaderal
 Cerro de La Escalera
 Cerro de La Fundición
-Cerro de La Gloria
+Cerro de La Gloria, Cerro Gloria
 Cerro de La Grupa
 Cerro de La Hoya
 Cerro de La Isla
@@ -7306,31 +7294,26 @@ Cerro de Yope
 Cerro de la Azufrera
 Cerro de la Bandera
 Cerro de la Brea
-Cerro de la Campana, Cerro La Compana
 Cerro de la Crucecita
 Cerro de la Cruz
 Cerro de la Cruz (historical)
 Cerro de la Cueva
 Cerro de la Cúpula
 Cerro de la Gallina
-Cerro de la Gloria, Cerro Gloria
 Cerro de la Gorra, Cerro La Gorra
 Cerro de la Guacha
 Cerro de la Guanaca, Cerro La Guanaca
 Cerro de la Guardia, Cerro La Guardia
 Cerro de la Hoyada
 Cerro de la Iglesia
-Cerro de la Isla
 Cerro de la Joya
 Cerro de la Laguna, Cerro de la Lagunas
 Cerro de la Mesa
 Cerro de la Mica
 Cerro de la Niebla
-Cerro de la Peineta
 Cerro de la Pena
 Cerro de la Pichasca
 Cerro de la Piedra
-Cerro de la Plata
 Cerro de la Provincia
 Cerro de la Punta, Cerros de La Punta
 Cerro de la Torre
@@ -7349,7 +7332,6 @@ Cerro de las Ánimas, Cerro de las Ánimas (Unidad territorial Junta de Vecinos 
 Cerro de los Amigos
 Cerro de los Chanchos, Cerro Chancho
 Cerro de los Difuntos
-Cerro de los Escalones
 Cerro de los Gatos
 Cerro de los Infieles
 Cerro de los Maranceles
@@ -7391,7 +7373,6 @@ Cerro del Fuelle
 Cerro del Gallo
 Cerro del Gritón
 Cerro del Guanaco
-Cerro del Inca
 Cerro del Incaguasi, Cerro Incaguasi
 Cerro del Indio
 Cerro del Intendente, Cerro El Entendente
@@ -7441,10 +7422,7 @@ Cerro del Zapallar
 Cerro del Árbol
 Cerro del Árbol Seco
 Cerro el Campanario
-Cerro el Colmillo
 Cerro la Mano
-Cerro las Bandurrias
-Cerro los Colorados
 Cerro Águila, Cerro Agula
 Cerro Álamo
 Cerro Álvarez
@@ -7663,7 +7641,6 @@ Cerros de la Angostura
 Cerros de la Canelilla
 Cerros de la Dehesa
 Cerros de la Leona
-Cerros de la Pacana
 Cerros de la Rinconada
 Cerros de la Sal
 Cerros de la Soledad
@@ -8316,7 +8293,6 @@ Cordillera de Zarao
 Cordillera de la Huria
 Cordillera de la Mona
 Cordillera de la Moñuda
-Cordillera de la Sal
 Cordillera de las Gualas
 Cordillera de las Termas
 Cordillera de los Piuquenes
@@ -8523,7 +8499,6 @@ Cordón de Villa O'Higgins
 Cordón de la Culebra
 Cordón de la Higuerilla
 Cordón de la Laja
-Cordón de la Sal
 Cordón de la Sierra
 Cordón de las Astas
 Cordón de las Bardas
@@ -10926,7 +10901,6 @@ Estero Navidad
 Estero Neculqueo
 Estero Neesham, Fiordo Neesham
 Estero Nef, Estero Net, Fiordo Nef, Fiordo Neff
-Estero Negro
 Estero Negro Bueno, Estero Negro Juan
 Estero Neicuf
 Estero Nevado, Ensenada de Mucha Nieve, Fiordo Nevado, Seno Nevado
@@ -11627,7 +11601,7 @@ Estero de Gómez, Cajón de Gómez
 Estero de La Araña
 Estero de La Crianza
 Estero de La Gloria
-Estero de La Laguna
+Estero de La Laguna, Estero La Laguna
 Estero de La Marquesa, Estero Marquesa
 Estero de La Población
 Estero de La Providencia
@@ -11676,7 +11650,7 @@ Estero de Los Temos
 Estero de Los Valles
 Estero de Los Venados
 Estero de Los Ventisqueros, Fiordo de Los Ventisqueros
-Estero de Los Ángeles, Estero Angeles, Estero Anjeles
+Estero de Los Ángeles, Estero Angeles, Estero Anjeles, Estero de Los Anjeles
 Estero de Mallermo, Estero Mallermo, Estero Miguel Chico
 Estero de Malven
 Estero de Manantiales
@@ -11730,11 +11704,9 @@ Estero de la Cuesta
 Estero de la Cueva Blanca
 Estero de la Expedición
 Estero de la Jarilla
-Estero de la Laguna, Estero La Laguna
 Estero de la Polvareda
 Estero de la Poza Honda
 Estero de la Turquesa
-Estero de la Viña
 Estero de la Yerba Loca, Yerba Loca River
 Estero de las Cardas
 Estero de las Casas
@@ -11758,7 +11730,6 @@ Estero de los Pantanos
 Estero de los Paños
 Estero de los Tilos, Estero Tilo
 Estero de los Timones, Estero Los Timones
-Estero de los Ángeles, Estero de Los Anjeles
 Estero de Ñanco
 Estero del Agua
 Estero del Agua Buena
@@ -11829,8 +11800,6 @@ Estero del Zanjón
 Estero del Zapal
 Estero del Ñadi
 Estero el Ajial
-Estero el Buitre
-Estero el Sauce
 Estero la Leonera
 Estero la Plaza
 Estero Ñanco
@@ -13751,13 +13720,11 @@ Isla de Pascua
 Isla de Pirique
 Isla de Yáquil
 Isla de la Fuente
-Isla de los Lobos
 Isla del Bajo
 Isla del Barranco
 Isla del Diablo, Divide Island
 Isla del Guapi
 Isla del Guindo
-Isla del Medio
 Isla del Muerto
 Isla del Rey
 Isla del Vigía
@@ -15215,7 +15182,6 @@ Lagos Encadenados
 Lagos Hobbs, Laguna Hobbs
 Lagos de la Loma Baja
 Laguna
-Laguna 4
 Laguna Achibueno
 Laguna Adelaida, Lago Adelaida
 Laguna Agua Blanca
@@ -15626,7 +15592,6 @@ Laguna del Zurdo
 Laguna del los Témpanos
 Laguna el Tranquilo
 Laguna las Perdices
-Laguna verde
 Lagunas, Estacion Lagunas
 Lagunas Aguas Calientes
 Lagunas Bravas, Lagunas Brava
@@ -16474,7 +16439,6 @@ Loma de la Cabrería
 Loma de la Cruz
 Loma de la Culebra
 Loma de la Greda
-Loma de la Iglesia
 Loma de la Leona
 Loma de la Madera
 Loma de la Mina Venus
@@ -16489,20 +16453,15 @@ Loma de las Minas
 Loma de las Mulas
 Loma de las Perdices
 Loma de las Placetas
-Loma de las Quiscas
 Loma de las Tejas
 Loma de las Trancas
-Loma de las Yeguas
-Loma de los Caballos
 Loma de los Coligües
 Loma de los Corrales
-Loma de los Cristales
 Loma de los Huachos
 Loma de los Maitenes
 Loma de los Pangues
 Loma de los Perales
 Loma de los Portezuelos
-Loma de los Quillayes
 Loma de los Robles
 Loma de los Romeros
 Loma del Aparato
@@ -18392,7 +18351,6 @@ Pampa de Chuño
 Pampa de Copa
 Pampa de Indio Muerto
 Pampa de La Higuera
-Pampa de La Unión
 Pampa de Lari
 Pampa de Las Vicuñas
 Pampa de Las Zorras
@@ -18435,7 +18393,6 @@ Pampa del Rincón
 Pampa del Tamagural
 Pampa del Tamarugal
 Pampa del Toro
-Pampa los Changos
 Pampalluta
 Pampas Grandes
 Pampitas
@@ -19047,7 +19004,6 @@ Peña
 Peña Blanca
 Peña Chica
 Peña Negra
-Peña blanca
 Peñablanca
 Peñafiel
 Peñaflor
@@ -19536,7 +19492,7 @@ Portezuelo Ingaguas
 Portezuelo Iscarguallo
 Portezuelo Jaisana
 Portezuelo La Cachimba
-Portezuelo La Cruz
+Portezuelo La Cruz, Paso de Menéndez
 Portezuelo La Difunta
 Portezuelo La Elena
 Portezuelo La Escoba
@@ -19713,14 +19669,12 @@ Portezuelo de la Cuesta Alta
 Portezuelo de la Desolación
 Portezuelo de la Dichosa
 Portezuelo de la Gallina
-Portezuelo de la Higuera
 Portezuelo de la Iglesia
 Portezuelo de la Jarilla
 Portezuelo de la Leona
 Portezuelo de la Llareta
 Portezuelo de la Ollita
 Portezuelo de la Punilla, Portezuelo Panilla
-Portezuelo de la Sal
 Portezuelo de la Yareta
 Portezuelo de las Carretas, Portezuelo de las Caretas
 Portezuelo de las Chicharras
@@ -19766,7 +19720,6 @@ Portezuelo del Salado
 Portezuelo del Sarco
 Portezuelo del Toro
 Portezuelo del Tupungato
-Portezuelo la Cruz, Paso de Menéndez
 Portillo
 Portillo Cerro Catedral, Portezuelo Cerro Catedral
 Portillo Cumbre Negra, Paso Cumbre, Portezuelo Cumbre Negra
@@ -19817,7 +19770,6 @@ Pozo Barnett, Pozo Barnet
 Pozo Bellavista
 Pozo Gregorio
 Pozo Número 12
-Pozo Número 13
 Pozo Perdido
 Pozo Seco
 Pozo Verde
@@ -22332,7 +22284,6 @@ Punta de los Chanchos, Punta Chanchos
 Punta de los Ciervos
 Punta de los Ingleses
 Punta del Aterraje, Punta Aterraje
-Punta del Bajo
 Punta del Barco
 Punta del Brujo
 Punta del Canto
@@ -22517,7 +22468,6 @@ Quebrada Agua de Guerra, Quebrada Guerra
 Quebrada Agua de La Falda
 Quebrada Agua de Los Bueyes
 Quebrada Agua de Paipotito
-Quebrada Agua de la Falda
 Quebrada Agua de la Piedra
 Quebrada Agua de la Teca
 Quebrada Agua del Boldo, Quebrada del Boldo
@@ -24205,7 +24155,7 @@ Quebrada de Las Huertas
 Quebrada de Las Lagunillas
 Quebrada de Las Mercedes
 Quebrada de Las Minas
-Quebrada de Las Mulas
+Quebrada de Las Mulas, Quebrada Las Mulas
 Quebrada de Las Pataguas
 Quebrada de Las Peñas
 Quebrada de Las Salinas
@@ -24389,7 +24339,6 @@ Quebrada de la Ceniza
 Quebrada de la China
 Quebrada de la Colorada
 Quebrada de la Cruz
-Quebrada de la Cuesta
 Quebrada de la Difunta
 Quebrada de la Engorda
 Quebrada de la Escalera, Quebrada La Escalera, Quebrada de La Escatera
@@ -24402,15 +24351,11 @@ Quebrada de la Higuera
 Quebrada de la Huerta
 Quebrada de la Huertilla
 Quebrada de la Iglesia
-Quebrada de la Leona
 Quebrada de la Leonera
 Quebrada de la Lobería Vieja, Quebrada Lobería
-Quebrada de la Madera
-Quebrada de la Mina
 Quebrada de la Mina de Plata
 Quebrada de la Moya
 Quebrada de la Mula
-Quebrada de la Ola
 Quebrada de la Ollita
 Quebrada de la Pampa
 Quebrada de la Patagua
@@ -24424,23 +24369,16 @@ Quebrada de la Rosa
 Quebrada de la Sal, Quebrada La Sal
 Quebrada de la Suerte
 Quebrada de la Tenca
-Quebrada de la Varilla, Quebrada La Varilla
 Quebrada de la Vega
 Quebrada de la Vicuña
 Quebrada de la Virgen
-Quebrada de la Viña
 Quebrada de la Yerba Buena
-Quebrada de la Zorra
 Quebrada de las Bellacas
-Quebrada de las Canchas
 Quebrada de las Cañas
-Quebrada de las Chacras
 Quebrada de las Chacritas
-Quebrada de las Huertas
 Quebrada de las Lagunas
 Quebrada de las Lechuzas, Quebrada Las Lechuzas
 Quebrada de las Matas
-Quebrada de las Mulas, Quebrada Las Mulas
 Quebrada de las Peñas Negras
 Quebrada de las Peñas Rosadas
 Quebrada de las Polcuras
@@ -24450,10 +24388,8 @@ Quebrada de las Raíces
 Quebrada de las Represas
 Quebrada de las Riveras
 Quebrada de las Rosas
-Quebrada de las Salinas
 Quebrada de las Zorras
 Quebrada de las Zorritas
-Quebrada de las Ánimas
 Quebrada de los Almendros
 Quebrada de los Alojamientos
 Quebrada de los Arrayanes
@@ -24467,15 +24403,12 @@ Quebrada de los Cuyanos
 Quebrada de los Guanacos
 Quebrada de los Huesos
 Quebrada de los Juanes
-Quebrada de los Leones
 Quebrada de los Leñeros
 Quebrada de los Maitenes
-Quebrada de los Maquis
 Quebrada de los Monos
 Quebrada de los Niños
 Quebrada de los Pangues
 Quebrada de los Pasillos
-Quebrada de los Peumos
 Quebrada de los Piuquenes, Quebrada de Piuque
 Quebrada de los Potreros
 Quebrada de los Pozos
@@ -24657,16 +24590,11 @@ Quebrada del Álamo
 Quebrada del Árbol
 Quebrada del Áspero
 Quebrada el Huingán
-Quebrada el Retamo
 Quebrada la Chilena
-Quebrada la Poza
 Quebrada las Sombras
 Quebrada los Cajones
 Quebrada los Cristales
-Quebrada los Culenes
 Quebrada los Guanacos
-Quebrada los Parrones
-Quebrada los Quillayes
 Quebrada los Sauces
 Quebrada los Álamos
 Quebrada Ánimas
@@ -24847,7 +24775,7 @@ Rada Benepú, Bahía Ovahe, Caleta Ovahe, Fondeadero de Benepú, Ovahe Cove, Ovn
 Rada Buchupureo
 Rada Chigualoco
 Rada Curanipe
-Rada De Arica
+Rada De Arica, Arica Road
 Rada El Algarrobo, Bahía del Algarrobo, Rada Algarrobo
 Rada Esmeralda
 Rada Goree
@@ -24876,7 +24804,6 @@ Rada Vallenar, Vallenar Roads
 Rada York
 Rada de Achao, Ensenada de Achao
 Rada de Antofagasta
-Rada de Arica, Arica Road
 Rada de Cobija
 Rada de la Colonia
 Rada de las Banderas
@@ -25312,7 +25239,6 @@ Rio El Bayo
 Rio El Malito
 Rio El Toqui
 Rio Hurtado, Hurtado River
-Rio La Gloria
 Rio Mosco
 Rio Pingo, Pingo River
 Rio Pollux
@@ -26968,7 +26894,7 @@ Río de La Esperanza
 Río de La Invernada
 Río de La Mina
 Río de La Máquina
-Río de La Plata, Cajón de la Plata
+Río de La Plata, Cajón de la Plata, Estero de la Plata
 Río de La Poza
 Río de La Puente, Río La Puente
 Río de La Sal
@@ -27002,9 +26928,6 @@ Río de la Laguna, Río La Laguna
 Río de la Laguna Chica, Río Laguna Chica
 Río de la Loma Baja, Río La Loma Baja
 Río de la Mano, Río La Mano
-Río de la Plata, Estero de la Plata
-Río de la Sal
-Río de la Zorra
 Río de las Astas
 Río de las Casas Viejas
 Río de las Chinas
@@ -27013,9 +26936,7 @@ Río de las Piedras de Mondaca, Río de Las Pircas de Mondaca
 Río de las Torres
 Río de los Caiquenes, Río los Colquenes
 Río de los Helados
-Río de los Leones
 Río de los Palos
-Río de los Patos
 Río de los Pelambres, Estero Pelambres
 Río de los Tambillos, Río Tambillos
 Río del Arco
@@ -27057,7 +26978,6 @@ Río del Valle
 Río del Yunque, Río Yunque, Río del Junque
 Río la Gloria
 Río los Maitenes
-Río los Patos
 Río Álvarez
 Río Ñadi, Río Ñade
 Río Ñanco
@@ -27924,7 +27844,6 @@ Sierra de Vaquillas Altas
 Sierra de Varas
 Sierra de Veragua
 Sierra de la Engorda
-Sierra de la Gloria
 Sierra de las Chacritas
 Sierra de las Palas
 Sierra del Ancla
@@ -28213,7 +28132,6 @@ Torca, Loma Torca, Loma de Torca
 Tordilla
 Torito
 Toro 1
-Toro 2
 Toro Blanco
 Toronar
 Toronjil
@@ -28411,7 +28329,6 @@ Valle de La Luna
 Valle de Lluta
 Valle de Quillagua
 Valle de Sobraya
-Valle de la Luna
 Valle de los Loros
 Valle del Banco
 Vallecito
@@ -28631,7 +28548,6 @@ Villa María
 Villa Mañihuales
 Villa Mercedes
 Villa Nonguén
-Villa O'higgins
 Villa Ortega
 Villa Palermo
 Villa Paulina
@@ -28800,11 +28716,9 @@ Zorrilla
 Zorzal Blanco
 Zárate
 Zúñiga
-laguna espejo
 laguna las mercedes
 lagunas del nevado los palos
 lslote Negro
-rio maule
 Álamo
 Álamo Blanco
 Álamo de la Manga

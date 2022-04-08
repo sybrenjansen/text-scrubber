@@ -15,7 +15,6 @@ Aakoinen
 Aaletajärvi, Aalehjävri, Aletjavrre, Aletjawre, Aletjávri, Alettjavrre, Alitjávri
 Aaletavaara, Aalehvaarri, Aletvarre, Aletvárri, Alitvárri
 Aalisjoki
-Aalisjärvi
 Aalissaari
 Aalistunturi
 Aaljoki
@@ -246,7 +245,6 @@ Aidaslahti
 Aidassaaret
 Aidassaari
 Aihtianjärvi
-Aijala
 Aijalan Metsäkulma
 Aijänkainalo
 Aikava
@@ -274,7 +272,6 @@ Ailinkari
 Ailioja
 Ailionkoski
 Ailunsaari
-Aimala
 Aimojoki, Aimajoki
 Aimojärvi
 Aimontaponlammi
@@ -318,7 +315,6 @@ Aitomäki
 Aitoniemi, Kiloniemi
 Aitoo
 Aitosaari
-Aitsaari
 Aitsorkullen
 Aitta, Aaita
 Aittajärvi
@@ -503,7 +499,6 @@ Ala-Pihlaja
 Ala-Postojoki, Alapostojoki
 Ala-Raumo, Alarauma
 Ala-Sammalinen
-Ala-Siikajärvi
 Ala-Sydänmaa, Alasydänmaa
 Ala-Särkilahti
 Ala-Temmes, Alatemmes
@@ -530,7 +525,6 @@ Alainenvaara, Alanenvaara
 Alajoenkari
 Alajoenmylly
 Alajoki
-Alajärvi, Alajärri, Alajärven Kaupunki, Alajärvet
 Alakari
 Alakeyritty, Alaköyritty
 Alakirsi
@@ -668,7 +662,6 @@ Alinsaari
 Alioja, Köyrisenoja
 Aliskulma
 Alivanhakylä
-Aljynpalli
 Alkkia
 Alkkula
 Alklobben
@@ -995,7 +988,6 @@ Aplonsaari
 Apoteket, Apteekki
 Appelholm, Apal
 Appelkrunninhella
-Appelön
 Apperfors
 Appisjoki
 Appisjärvi
@@ -1125,9 +1117,7 @@ Asko
 Askola, Askolan Kunta, Askula
 Askonkatos
 Askosaari
-Askskär
 Askskärs kläpparna
-Askören
 Askörs kobben
 Asmalampi
 Asmuntijoki, Asmunti
@@ -1139,7 +1129,6 @@ Aspgrund
 Aspgrundet
 Aspharudjupet
 Aspharun
-Aspholm
 Aspholmarna
 Aspholmen
 Aspholmi
@@ -1153,16 +1142,11 @@ Aspkobben
 Asplandet
 Asplandshället
 Asplund
-Aspnäs
 Aspnäsviken
-Aspskäret, Espskär
-Aspskärsgrundet
-Aspskärskobben
 Aspuskeri
 Aspviken
 Aspängen
 Aspö
-Aspören
 Astekari
 Asteljoki
 Astuva
@@ -1235,7 +1219,6 @@ Aurinkoranta
 Aurusaari
 Auskari, Loukeenpöllö
 Austerlitz
-Autio
 Autiojärvi
 Autiokangas
 Autiola
@@ -1293,11 +1276,9 @@ Baablingi, Babylonsholm
 Baablinginlahti
 Babban
 Babyloninsaari
-Back
 Backa
 Backafarsholmen
 Backas
-Backby
 Backböle
 Backen
 Backisbådan
@@ -1364,7 +1345,6 @@ Barksjö
 Barktjärnen
 Barnholma
 Barnholmen
-Barskär
 Barskärsfjärden, Barskärs fjärden
 Barö, Barö Landet
 Barölandet
@@ -1375,11 +1355,9 @@ Basafjärden
 Basarängen
 Basijávri, Pasijävri, Pastijävri
 Bassečohkka, Passitshokka
-Basskär
 Bast
 Bastbergs ören
 Bastet
-Bastholm
 Bastholmarna
 Bastholmen
 Bastmossen
@@ -1403,7 +1381,6 @@ Bastustocken
 Bastuugnen
 Bastuviken
 Bastuören
-Bastö, Badstuö, Bas, Bastu
 Bastö Stråket
 Basudden
 Basuln
@@ -1575,7 +1552,6 @@ Bjonholmsören
 Bjons kläpparna
 Bjonskär
 Bjonstenen
-Bjorkholm
 Bjornholmarna
 Bjornholms grundet
 Bjurbäck
@@ -1890,7 +1866,6 @@ Brandmyr
 Brandstodklobben
 Brandögrunden
 Brandöklobben
-Brandören
 Brantbergen
 Brantbåda
 Brantbådan
@@ -2269,7 +2244,7 @@ Bässören
 Bässörsgrynnan
 Bässörsskatan, Bessön, Bessöskata, Bessöskatan, Bässön
 Bästholm
-Bästö, Bästön
+Bästö, Badstuö, Bas, Bastu, Bästön
 Bådan, Båden
 Bådaraden
 Bådarna
@@ -3007,8 +2982,7 @@ Eskilom
 Eskilskäret
 Eskilsskärsgrundet
 Eskilsö, Yeskilse
-Esko, Eskoholm
-Eskola
+Eskola, Esko
 Eskolanmäki
 Eskolansaari
 Eskon Lökkö
@@ -3019,7 +2993,7 @@ Eskonmatala
 Eskonsaari
 Eskonsunti, Esko sundet
 Eskottijoki
-Eskö
+Eskö, Eskoholm
 Espingsfjärd, Espingsfjärden
 Espingskär, Espskär
 Esplanadi, Esplanaden
@@ -3187,7 +3161,6 @@ Falkkobben
 Falkö Fjärden
 Falkön, Falken, Falkö
 Fall
-Fallbacken, Fallbacka
 Fallbådan
 Fallböle, Ralböle
 Fallenki, Falläng
@@ -3247,7 +3220,6 @@ Finlada
 Finlaysonin alue
 Finnari, Finnarv
 Finnarinselkä, Finnarvfjärden
-Finnas
 Finnas Röjören
 Finnasbacken
 Finnasgrundet
@@ -3264,7 +3236,6 @@ Finngräven
 Finnhammen
 Finnhamnsfjärden
 Finnharu Grundet
-Finnharu grundet
 Finnharun, Finharun, Finnharu
 Finnholm
 Finnholmarna
@@ -3637,7 +3608,7 @@ Fågelsundsudden
 Fågelvik
 Fålafjärt
 Fålen
-Fållbäcken
+Fållbäcken, Fallbacka
 Fårborget
 Fårbässen
 Fårgrund
@@ -3854,14 +3825,12 @@ Glosholmsbultarna
 Glosholmsgrundet
 Glosholmsklacken
 Glosholmsklobben
-Gloskär
 Gloskären
 Gloskäret
 Gloskärs Stråket
 Gloskärs kläppen
 Gloskärs sten
 Gloskärs Ören
-Gloskärs ören
 Gloskärsbådan
 Gloskärsklackarna
 Gloskärsnabban
@@ -3942,7 +3911,6 @@ Grannasören
 Grannäset
 Gransinmäki
 Granskog
-Granskär, Trenskär
 Granskären
 Granskäret
 Granskärs Lerharun
@@ -4087,7 +4055,7 @@ Gräggören
 Gränden
 Gränderna
 Grännäs
-Gränskär
+Gränskär, Trenskär
 Gräsa
 Gräsbådan, Gräsbåda
 Gräsgrund
@@ -4159,12 +4127,10 @@ Gråstenskalla
 Gråsälsberget
 Gråsälsbådan
 Gråsälsbådarna
-Gråsälsgrynnan
 Gråsälsstenarna
 Gråsälsstenen
 Gråsässtrenarna
 Gråsö
-Gråsören
 Gråön, Groön, Gråö
 Gråörarna
 Gröna gången
@@ -4521,7 +4487,6 @@ Haaranoja
 Haaransilta
 Haaraoja
 Haarasaaret
-Haarasaari
 Haarasalmensaari
 Haarasuo
 Haaravaara
@@ -4596,14 +4561,12 @@ Haikala
 Haikankari
 Haikanluodot
 Haikanniemi
-Haikansaaret
 Haikansaari
 Haikarannokka
 Haikaransaari
 Haikarasaaret
 Haikarila
 Haikassuo
-Haikka
 Haikkaanlahti
 Haikkaanluodot
 Haikkari
@@ -4654,7 +4617,6 @@ Hajusaari
 Haka
 Haka-Matin saari
 Hakagrunden
-Hakala
 Hakalanmäki
 Hakalanniemi
 Hakalanperä
@@ -4681,7 +4643,6 @@ Hakkarkivi
 Hakkaussaari
 Hakkenpää, Hakenpä, Hakkeenpää
 Hakki
-Hakkila, Haxböle
 Hakkinen
 Hakkola
 Hakkurkallio
@@ -4786,7 +4747,6 @@ Hallimäki
 Hallinkari
 Hallinletto
 Hallinluoto
-Hallinmäki
 Hallinrivi
 Hallinsaari
 Hallissuo
@@ -5179,7 +5139,6 @@ Hapenkari
 Hapenkarinpöllä
 Hapneholmen
 Haponsaari
-Happonen
 Hapuanjärvi
 Hara
 Haraberg
@@ -5187,7 +5146,6 @@ Haraböleholmen
 Haragrundet
 Haraholm
 Haraholma
-Haraholmen
 Haraholmsklobben
 Harakka, Stora Räntan
 Harakkakari
@@ -5396,7 +5354,6 @@ Hasinmäki
 Haslstöfjärden
 Haso, Hasonkylä
 Hasselbacken
-Hasselholmen
 Hasselö, Hasselön
 Hassila, Hassi
 Hassinsaari
@@ -5430,7 +5387,6 @@ Hattlandet
 Hattlandsbacken
 Hattnäsören
 Hattom
-Hattskär
 Hattu
 Hattujärvi, Hattajarvi
 Hattukallio
@@ -5970,7 +5926,6 @@ Hepunmäki
 Heraholmi
 Herahulmi
 Herajoki, Herjajoki
-Herajärvi
 Herakari
 Herakarinkrunni
 Heraniemi
@@ -6419,7 +6374,6 @@ Hirsiletonkrunni
 Hirsiletot
 Hirsiluoto
 Hirsilä
-Hirsimetsa
 Hirsimetsä
 Hirsimetsänniemi
 Hirsimäki
@@ -6611,7 +6565,6 @@ Holkko, Hoikko
 Holkkolanlarva
 Holkonsaari
 Hollanti
-Hollo
 Hollola, Hollolan Kunta
 Holm
 Holma
@@ -7551,7 +7504,7 @@ Häkinkorva
 Häkinsaaret
 Häkinsaari
 Häkittärensaari
-Häkkilä
+Häkkilä, Haxböle
 Häkkisenkrunni
 Häkkisensaaret
 Häkkiskylä
@@ -7874,7 +7827,6 @@ Hålögrundet
 Hålön
 Hålör Viken
 Hålörarna
-Hålören
 Hålörsgrynnan
 Hålörsskatan
 Håpiaxviken
@@ -8334,7 +8286,6 @@ Ingankivi
 Inganluoto
 Ingansaaret
 Ingansaari
-Ingarskila
 Ingarskila Ån
 Ingastholm, Satamaluoto
 Ingeborgsklobben
@@ -8914,7 +8865,6 @@ Iso-Hakuni
 Iso-Haltri
 Iso-Hanhi
 Iso-Hanikko
-Iso-Hanni
 Iso-Harakka
 Iso-Harte
 Iso-Hatti
@@ -9170,7 +9120,6 @@ Iso-Staffa, Staffansgrunden
 Iso-Suini
 Iso-Suojama
 Iso-Suvikko
-Iso-Syöte
 Iso-Säkylä
 Iso-Sääksi
 Iso-Talas
@@ -9372,7 +9321,6 @@ Isänsaari
 Isäntä
 Isäriutta
 Itainen Pihlajasaari, Öster-Rönnskär
-Itajärvi, Österträsk
 Itara
 Itikansaari
 Itikka
@@ -9408,7 +9356,7 @@ Itäinen Iiluoto, Östra Iglo
 Itäinen Pukkisaari
 Itäinen Villaluoto, Östra Ullholmen
 Itäisen Suomenlahden Kansallispuisto, Eastern Gulf of Finland National Park, Itäinen Suomenlahti, Östra Finska Vikens Nationalpark
-Itäjärvi
+Itäjärvi, Österträsk
 Itäkallio
 Itäkari
 Itäkarit
@@ -9490,7 +9438,6 @@ Jaapakoski, Japakoski
 Jaappa
 Jaara
 Jaarasaaret
-Jaarasaari
 Jaarasensaari
 Jaareisensaari
 Jaarjärvi
@@ -9579,14 +9526,12 @@ Jamppanansaari
 Janakkala, Janakkalan Kunta
 Janasfladan
 Janhonsaari
-Janka
 Jankinsaari
 Jankkila
 Jannenkarit
 Jannensaari
 Janokki
 Janskisaari
-Jantinsaari
 Janttosluodot
 Jarhoinen
 Jarkko
@@ -9598,8 +9543,6 @@ Jataluodot
 Jataluoto
 Jatanen
 Jatas
-Jatasaaret
-Jatasaari
 Jatkettu
 Jatkoluoto
 Jatkonjärvi
@@ -10570,7 +10513,6 @@ Jörala
 Jöusan, Jeusan, Stor Ljusen, Storg Iusen, Stur Yusen
 Jöutmo
 Jöyssi
-KIMITOON, KEMIÖNSAARI
 Kaabiš Anttii Jävri, Kaapin Antin Järvi, Kapsantijärvi
 Kaabiš Anttii Čukkâ, Kapsantitshokka
 Kaakamajoki, Kaakamojoki
@@ -11054,7 +10996,6 @@ Kakarsaari
 Kakinsalo
 Kakkara, Saparoluoto
 Kakkare
-Kakkari
 Kakkarkrunni, Kackargrund
 Kakkinen
 Kakko
@@ -11073,7 +11014,6 @@ Kakkusenjärvi, Kakkisenjärvi
 Kakkuvuori
 Kakokari
 Kakokärki
-Kakola
 Kakolanmäki, Kakolabacken
 Kakonelli
 Kakonhännänkari
@@ -11118,7 +11058,6 @@ Kakssaaret
 Kakssalmiset
 Kakuhällarna
 Kal klippa
-Kala
 Kala-Koisti
 Kalaholma, Kalaholmen
 Kalainsaari
@@ -11224,7 +11163,6 @@ Kalkbådan
 Kalkeri
 Kalkgrund
 Kalkgrundet
-Kalkholmen
 Kalkholmsören
 Kalkiainen
 Kalkila, Kalkkila
@@ -11275,7 +11213,6 @@ Kalkutijärvi
 Kalkuvaara, Gal'govâđđâ, Gálggovađđa, Kalkkovaari, Kalkkovaarri
 Kalkärret
 Kalkören
-Kalla
 Kallaanselkä
 Kallaanvaara
 Kallahdenniemi, Kallviksudden, Kallvikudd, Kallvikudde, Kallvikudden
@@ -11381,7 +11318,6 @@ Kallis, Kallinen
 Kallisaari
 Kallislahti
 Kalljärvi
-Kallkärr
 Kallojoki
 Kallojärvi
 Kallola
@@ -11392,7 +11328,6 @@ Kallskäret, Kallsher
 Kallskärsreveln
 Kallskärsviken
 Kallträsk
-Kallträsket
 Kallunen
 Kallunki
 Kallunkijärvi
@@ -11531,7 +11466,6 @@ Kamparviken
 Kampinkivi
 Kampinkylä
 Kampinluoto
-Kampinsaaret
 Kampinsaari
 Kampoluoto
 Kamppari
@@ -11940,7 +11874,6 @@ Karikivi
 Karikko
 Karikkoselkä
 Karikluoto
-Karila
 Karilanmaa
 Karilasanden
 Kariluoma
@@ -12070,7 +12003,6 @@ Karma
 Karmansaari
 Karmunsaari
 Karnainen
-Karnasaari
 Karnetkoski, Kaarnekoski, Kaarnetkoski
 Karnholm
 Karoliinanaho
@@ -12080,16 +12012,12 @@ Karontakasenvaara
 Karpalokari
 Karpanjärvi
 Karpankari
-Karpansaari
 Karpaskivi
 Karperö
 Karperöfjärden
 Karpinsaari
 Karpinvaara
 Karposaari
-Karppa
-Karppala
-Karppasaari
 Karppasensaari
 Karppassaari
 Karppila
@@ -12129,7 +12057,6 @@ Karssaari
 Karssuálui
 Karstankallio
 Karstankarvo
-Karstinsaari
 Karstu
 Karstula, Karstulan Kunta
 Karsturanta
@@ -12178,11 +12105,9 @@ Karvasenkari
 Karvasluoto
 Karvasniemi
 Karvasoja
-Karvassaari
 Karvastekemäsaari
 Karvasti
 Karvastinlisu
-Karvasvaara
 Karvat
 Karvatinklopit
 Karvatti
@@ -13592,7 +13517,7 @@ Kiminginkylä
 Kiminki, Kimimki
 Kiminkijärvi
 Kimito, Kemiö
-Kimitoön, Kemiönsaari
+Kimitoön, KEMIÖNSAARI
 Kimmonkivi
 Kimmonsaari
 Kimo
@@ -14599,9 +14524,7 @@ Kokinluoto
 Kokinsaari
 Kokinvaara
 Kokka-aho, Kokko-aho, Kokkoaho
-Kokkakivi
 Kokkamo
-Kokkapää
 Kokkariniemi
 Kokkarit
 Kokkasaari
@@ -14619,14 +14542,12 @@ Kokkokallio
 Kokkokangas
 Kokkokari
 Kokkokarit
-Kokkokivi
 Kokkola, Gamlakarleby, Karleby Stad, Kokkolan Kaupunki, Kokkolan seutukunta
 Kokkola Port
 Kokkolammit
 Kokkolampi
 Kokkolankylä
 Kokkoluodot
-Kokkoluoto, Ljusarören
 Kokkomaa
 Kokkomäki
 Kokkoniemi
@@ -14743,7 +14664,6 @@ Kollarinluoto
 Kollasenkari
 Kollastenkarta
 Kolleensaari
-Kolli
 Kollinjoki
 Kollinlahti
 Kollinlampi
@@ -14751,7 +14671,6 @@ Kollinluoto
 Kollinmäki
 Kollinniemi
 Kollinoja
-Kollinsaari
 Kollinsuo
 Kollola
 Kollonkalliot
@@ -14844,10 +14763,8 @@ Kolvlanisören
 Komanijärvi
 Komea
 Komeronsaari
-Komi
 Komiaho
 Komila
-Kominsaari
 Komio Nature Reserve, Komio naturreservat, Komion luonnonsuojelualue
 Komiojärvi
 Komisuo
@@ -14874,7 +14791,6 @@ Kompassikarit, Kompassholmarne, Kompassi
 Kompasskläppen
 Kompelo
 Kompero
-Komppa
 Kompsaari
 Komsa
 Komsalö
@@ -14940,7 +14856,6 @@ Konnus Kanava, Konnuksen Kanava
 Konnuslahti
 Konolanmäki
 Konosenluoto
-Konosensaari
 Konosluoto
 Konsajärvi
 Konsansaari
@@ -15100,13 +15015,11 @@ Koppelonpää
 Koppelosaari
 Koppelsaaret
 Koppelsaari
-Koppholm
 Kopphällen
 Koppi
 Koppikari
 Koppiosaari
 Koppisaaret
-Koppisaari
 Kopplokobben
 Koppnäsholmen
 Koppola
@@ -15118,7 +15031,6 @@ Kopras
 Koprasaaret
 Kopravaara
 Kopru
-Kopsa
 Kopsala
 Kopsamo
 Kopsanluoto
@@ -15393,7 +15305,6 @@ Korsmusa
 Korsnainen, Korenes
 Korsniemi
 Korsnäs, Korsnäs Kommun, Korsnäsin Kunta
-Korso
 Korsolampi
 Korsrån
 Korssiluoto
@@ -15963,8 +15874,7 @@ Kronan
 Kronansgrynnan
 Kronbacken
 Kronbergsfjärden, Fronborg Fjord, Helsinki roadstead, Kronborg Fjord, Kruunuvuorenselkä
-Kronoby, Kruunupyy
-Kronoby å, Kronoby Joki, Kruununkyljoki, Kruunupyynjoki
+Kronoby å, Kronoby Joki, Kruununkyljoki, Kruunupyy, Kruunupyynjoki
 Kronstadt
 Kronstatti
 Kronvik
@@ -16017,7 +15927,7 @@ Kräklan
 Kräksi, Skräcksreveln
 Kräksinkari, Skräckan
 Kräkäläinen
-Kräkö
+Kräkö, Borgå
 Krämanskären
 Krämaröar, Krämaröarne, Krämram
 Krämersbacken
@@ -16066,7 +15976,6 @@ Kråkträsket
 Kråkudden
 Kråkungborg
 Kråkvilan
-Kråkö, Borgå
 Kråkören
 Krösanklobben
 Kröveludden
@@ -16409,12 +16318,11 @@ Kullesaari
 Kullholmen
 Kulliluoto
 Kullivaha
-Kullo, Kulloby, Kulloo, Kulloonkylä
 Kullobäcken
 Kulloviken
 Kulluvaaransaari
 Kulländan
-Kullö
+Kullö, Kulloby, Kulloo, Kulloonkylä
 Kulm
 Kulma
 Kulmajärvi
@@ -18073,7 +17981,7 @@ Kökkyri
 Kökkäkivi
 Kökkäpää
 Kökkökivi
-Kökköluoto
+Kökköluoto, Ljusarören
 Köklot, Söderskat
 Köklotfjärden
 Kököttäjä
@@ -18574,7 +18482,6 @@ Lammilanmäki
 Lamminaho
 Lamminalho
 Lamminjärvi
-Lamminkari
 Lamminkoski
 Lamminkulma
 Lamminkylä
@@ -18623,7 +18530,6 @@ Lampijärvi
 Lampikangas
 Lampila, Larnpia
 Lampilansaari
-Lampinen
 Lampinjärvi
 Lampinkari
 Lampinsaari
@@ -18696,10 +18602,8 @@ Lankijärvi, Lankjärvi
 Lankila
 Lankilankrunni
 Lankilanrinne
-Lankiluoto
 Lankinen
 Lankiperä
-Lankisaari
 Lankkeri
 Lankkinen
 Lankkuluodot
@@ -18724,7 +18628,6 @@ Lansor
 Lanterinkallio
 Lantinki
 Lantonsaari
-Lantta
 Lanttukallio
 Lanttukivi
 Lantturinsaari
@@ -19504,8 +19407,6 @@ Lenören
 Leonard
 Leonsaari, Leosaari, Leosari
 Lepaa, Stjärnsund
-Lepikko
-Lepikkoluoto
 Lepikkomäki
 Lepikkosaari
 Lepikkö
@@ -19677,7 +19578,6 @@ Leutsuvaara, Leavževárri
 Leutu
 Leuvanoja
 Levandersgrundet
-Levaneva
 Levanpelto
 Levanto
 Leveähattu
@@ -19960,7 +19860,6 @@ Lilla Bergskär
 Lilla Bergön
 Lilla Bergören
 Lilla Birsskär
-Lilla Bjornholm
 Lilla Bjurholmen
 Lilla Björkholm
 Lilla Björkholmen
@@ -20062,7 +19961,6 @@ Lilla Korpholmen
 Lilla Korpskär
 Lilla Korsholmen
 Lilla Korvholmen
-Lilla Krokö
 Lilla Krokön
 Lilla Krokören
 Lilla Kråkholmen
@@ -20107,7 +20005,6 @@ Lilla Munkholmen
 Lilla Murgrund
 Lilla Märagrundet
 Lilla Mässkär
-Lilla Måsskär
 Lilla Möön
 Lilla Nässelgrundet
 Lilla Nätiholmen
@@ -21686,7 +21583,6 @@ Långdalsfjärden
 Långfjärden, Långfjärd
 Långfors
 Långfuruholm
-Långgadden
 Långgjutan
 Långgrund, Longgrund
 Långgrunden
@@ -21807,7 +21703,6 @@ Långösundet
 Lånholm, Lahdenholm, Longholm
 Lånholmen
 Lånholms grunden
-Lånsikivi
 Lårevet
 Låset
 Låsviken
@@ -22031,7 +21926,6 @@ Maariutta
 Maarluodonriutta
 Maarluoto
 Maarönkkö
-Maasaari
 Maasalanmäki
 Maasalo
 Maaselkä
@@ -22089,7 +21983,6 @@ Mahlu
 Mahlunjärvi
 Mahnala
 Mahnalanselkä
-Mahonsaari
 Maija
 Maijaholma
 Maijala
@@ -22167,7 +22060,6 @@ Maja-Jaakko
 Maja-Sötsö
 Maja-aro
 Majaatsaari
-Majajarvi
 Majajärvi, Majamaa, Majaperä
 Majakallio
 Majakari
@@ -22397,7 +22289,6 @@ Malvionsaaret
 Malvisaari
 Malvättungs Bottnen
 Malvättungs Utgrynnan
-Malvättungs utgrynnan
 Mammo
 Mammon
 Mammonen
@@ -22431,7 +22322,6 @@ Mankinjoki, Mankån
 Mankinluoto
 Mankinsaari
 Mankkaa, Mankaa, Mankas, Vaster Mankans
-Mankki, Mankby
 Mankkilansaari
 Mankkisaari
 Mankoluoto
@@ -22499,7 +22389,6 @@ Manusaari
 Manusluodot, Månsgrunden
 Mara, Märargrund
 Maraholm
-Maraholmen
 Marakallio
 Mararna
 Marasbacken
@@ -23497,7 +23386,6 @@ Moisö
 Moisöfjärden
 Moitajärvi
 Moivanranta, Moivanlahti
-Mokinsaari
 Mokkejävri
 Mokki
 Mokonluoto
@@ -23538,11 +23426,9 @@ Monikkajärvet
 Monikkala
 Monikkalanniemi, Menikkalanniemi
 Moninmäki
-Monni
 Monninkylä, Monby
 Monninmäki
 Monninniemi
-Monninsaari
 Monnonlampi
 Monnonmäki
 Monola
@@ -23616,7 +23502,6 @@ Morsiushelli
 Morsiuskivi
 Morsiussaaret
 Morsiussaari
-Morskär
 Morsnäsörarna
 Morsörarna
 Mortinsaari
@@ -24069,7 +23954,6 @@ Mustanpohja, Mustupohja
 Mustanpuronsaari
 Mustanrinnansaari
 Mustansaaret
-Mustansaari
 Mustansuvannonköngäs
 Mustansääri
 Mustanvaarankivi
@@ -24507,7 +24391,7 @@ Mämmisaaret
 Mämmisaari
 Mämmisalo, Mämminsalo
 Mänkijärvi
-Mänkki
+Mänkki, Mankby
 Männikkö
 Männikkö-Aapon kari
 Männikköluodot
@@ -24546,7 +24430,7 @@ Mäntykärki
 Mäntylahdenniemi
 Mäntylehto
 Mäntyluodot
-Mäntyluoto, Mentyluoto, Mäntyluoto Island
+Mäntyluoto, Mentyluoto, Mäntyluoto Island, Tallholmen
 Mäntylä
 Mäntymaa
 Mäntymäki
@@ -24858,7 +24742,6 @@ Naarjärvi, Naatjärvi
 Naarkoski
 Naarslahti, Martböle, Narslak, Norrlax
 Naarva, Naarvansalo
-Naatala
 Naatikankarit
 Naatikansaari
 Naatikkasaari
@@ -24980,7 +24863,6 @@ Naruneva
 Naruska
 Naruskajoki
 Naruskajärvi
-Narva
 Narvajärvi
 Narvanjärvi
 Narvanlahti
@@ -24999,7 +24881,6 @@ Nastinsaari
 Nastola, Nastolan Kunta
 Nastonsaari
 Nataluoto
-Natigrund
 Natigrundsrevet
 Nattasaari
 Nattaset, Nattastunturit
@@ -25764,7 +25645,6 @@ Norrskogen
 Norrskär, Norrskären
 Norrskäret
 Norrskärs Hålet
-Norrstenarna
 Norrstrand
 Norrstu
 Norrstycksgrundet
@@ -25832,7 +25712,6 @@ Notsittaren
 Notträsk
 Notvarpharun
 Notvarpskär
-Notön
 Notören
 Noukajärvi
 Noukansaari
@@ -26212,8 +26091,7 @@ Närhisaaret
 Närhisaari
 Närkki
 Närmaste Fjärdskär
-Närpes, Nerpes, Närpiö
-Närpes å
+Närpes å, Nerpes, Närpiö
 Närpesfjärden, Nerpes Fiard, Närpesfjärd
 Närpistöjoki
 Närpäläinen
@@ -27463,7 +27341,6 @@ Pallasselkä
 Pallastunturi
 Pallastunturit
 Pallilaki
-Pallinsaari
 Pallo
 Pallojoki
 Pallokari
@@ -27591,7 +27468,6 @@ Palvaanjärvi
 Palvajärvi
 Palvala
 Palvalahti, Iso Palvalahti
-Palvasaari
 Palvasenjärvi
 Palviainen
 Palviala
@@ -27617,7 +27493,6 @@ Pankinsaari
 Pankki
 Pankkokivi
 Pankonsaari
-Panninsaari
 Pannisaari
 Pannkakan
 Pannukakku
@@ -27798,7 +27673,6 @@ Parrusaari
 Parsby
 Parsi, Parski
 Parsiainen
-Parskeri, Barkskär
 Parta
 Parta-Heikki
 Partakari
@@ -28250,7 +28124,6 @@ Pentinpuro
 Pentinsaari
 Pentsaari
 Pentti
-Penttila
 Penttilä, Renttilä
 Penttilänlahti
 Penttilänmatala
@@ -29045,7 +28918,6 @@ Pieni-Hopsa
 Pieni-Hosko
 Pieni-Huhkaja
 Pieni-Hukkala
-Pieni-Hukkanen
 Pieni-Huuhti
 Pieni-Hytermä
 Pieni-Hyvätti
@@ -29232,7 +29104,6 @@ Pieni-Soukka
 Pieni-Soulio
 Pieni-Suvikko
 Pieni-Säyne
-Pieni-Tahkonen
 Pieni-Teippo
 Pieni-Telkko
 Pieni-Tenhiäinen
@@ -30450,7 +30321,6 @@ Porkansaaret
 Porkansaari
 Porkanvaara
 Porketholma
-Porkholma
 Porkka
 Porkkala, Porkkalanniemi, Renskär
 Porkkanaluoto
@@ -30513,7 +30383,6 @@ Porsasluoto
 Porsgrundet
 Porslinssundet
 Porsmusa
-Porso
 Porsskär, Fårskär, Porskär
 Porsskärsskatan
 Porstuasaari
@@ -31539,7 +31408,7 @@ Pärpän Pärppä
 Pärri
 Pärruutikarit
 Pärrä
-Pärskeri
+Pärskeri, Barkskär
 Pärsämänjoki, Pärsämänpuro
 Pärsämänjärvi
 Pärsämönsaari
@@ -31873,7 +31742,6 @@ Raanujärvi
 Raanusaari
 Raapiainen
 Raapionsaari
-Raappana
 Raappananmäki, Raappanavaara
 Raappanansaari
 Raappi
@@ -31886,7 +31754,6 @@ Raaskansaari
 Raasujärvi
 Raatala
 Raatali
-Raatalinsaari
 Raatarinsaari
 Raate
 Raateenaho
@@ -31917,7 +31784,6 @@ Raatosaaret
 Raatosaari
 Raatsaari
 Raattama
-Raatti
 Raavuori
 Rabbas, Rabba, Rabbasö
 Rabbet
@@ -32009,13 +31875,11 @@ Rainionmäki
 Rainionsaari
 Rainionssaaret
 Raintsaari
-Raippa
 Raippaluoto
 Raippasaari
 Raisio, Raision Kaupunki, Reso, Reso Stad
 Raisionlahti, Resofjärden
 Raisionmäki, Raiskola
-Raiska
 Raiskamäki
 Raiskansaari
 Raiskio
@@ -32189,7 +32053,6 @@ Rannankulma
 Rannankylä
 Rannanmäki
 Rannanperä
-Rannansaari
 Ranniitunluoto
 Rannikonmäki
 Rannimmainen Reposaari
@@ -32257,12 +32120,10 @@ Rapakallio
 Rapakari
 Rapakivenjärvi
 Rapakivi
-Rapakko
 Rapakkojoki, Rapakonoja
 Rapakkojärvi
 Rapakkosaari
 Rapakonsaari
-Rapala
 Rapalahti
 Rapaletto
 Rapaluodot
@@ -32303,7 +32164,6 @@ Rapusenkari
 Rapusholm
 Rapusudden
 Raronsalo
-Rasala, Rasola
 Rasamentinkalliot
 Rasansaari
 Rasböleholmen
@@ -32381,7 +32241,6 @@ Ratonpaja
 Ratsinasaari
 Ratskär
 Ratsula, Ryttarböle
-Rattisaari
 Rattosjärvi
 Rattostunturi
 Ratula
@@ -32943,8 +32802,7 @@ Riitasaari
 Riitasenjärvi
 Riitasenkari
 Riitavaara
-Riitiala, Ruitala
-Riitiälä
+Riitiälä, Ruitala
 Riitluodonouri
 Riitluoto
 Riitonsaaret
@@ -33235,7 +33093,6 @@ Rohijärvi
 Rohjosaaret
 Rohkonluoto
 Rohmansaari
-Roholmen
 Rohtoguoika
 Rohttoaivi, Rotluoaivi
 Roiha
@@ -33281,7 +33138,6 @@ Rommakonselkä
 Romminokka
 Romo
 Romonsaaret
-Romosaari
 Romppaala
 Romppaisensaari
 Romppala, Romppola
@@ -33362,7 +33218,6 @@ Roskakari
 Roskasaari
 Rosklax, Rasklax, Rosklahti, Rosklaks, Råsklaks
 Rosklax Viken
-Roskär
 Roslax, Roslaks
 Roslax Näs
 Rosmanskär
@@ -34201,7 +34056,7 @@ Rässäsaari
 Räsy
 Räsykkä
 Räsä
-Räsälä
+Räsälä, Rasola
 Räteenlahti
 Rätikkösaari
 Rätikönsaaret
@@ -34296,9 +34151,8 @@ Räätäniemi
 Räätärinsaaret
 Räävysjärvi
 Räävänsaaret
-Råbacken, Råbacka
 Råberget
-Råbäcken
+Råbäcken, Råbacka
 Råbådan
 Rådalen
 Rådalssjön
@@ -34567,7 +34421,6 @@ Saarelansaari
 Saarenaukko
 Saarenhankaimet
 Saarenkanta
-Saarenkari
 Saarenkrunni
 Saarenkulma
 Saarenkylä
@@ -34575,10 +34428,8 @@ Saarenkärki
 Saarenlahti
 Saarenmaa
 Saarenmäki
-Saarennokka
 Saarenoja
 Saarenpe
-Saarenperä
 Saarenpää
 Saarenpäänsaari
 Saarenpäänvaara, Saarenpäävaara
@@ -34608,7 +34459,6 @@ Saarilahdensaari
 Saarilampi
 Saarimaa
 Saarimiehensaari
-Saarimäki
 Saarinen
 Saariniemensaari
 Saario
@@ -34702,7 +34552,6 @@ Sahloinen
 Sahrajärvi, Sahra
 Saihonsaari
 Saihosaari
-Saija
 Saijajärvi
 Saijanlahti, Saidanlahti
 Saijanoja
@@ -34713,7 +34562,6 @@ Saikaniemi
 Saikankahlo
 Saikarasaari
 Saikari
-Saikka, Saika, Saikara
 Saikkakivi
 Saikkala
 Saikkalanjoki
@@ -34819,8 +34667,6 @@ Salasteeni
 Salastinkari
 Salastinsaaret, Salastensaaret, Salastin Saaret
 Salavainen
-Salgrunden
-Salholmen
 Salinaukko
 Salinkari
 Salinkivi
@@ -34838,7 +34684,6 @@ Salkosaari
 Salla, Sallan Kunta
 Sallansuu
 Sallatunturit
-Salli
 Sallijoki
 Sallila, Saläla
 Sallinkijärvi
@@ -34931,7 +34776,6 @@ Salovesi
 Salpar
 Salpasalo
 Salpausselkä, Salpausel'ka, Salpausel'kya, Salpaussel'kya
-Salskär
 Salskären
 Salskärs Fjärden, Salskärsfjärden
 Salskärs Kobbarna
@@ -35138,9 +34982,7 @@ Sankila
 Sanklen
 Sankola
 Sankoniemi
-Sankorna
 Sankstenen
-Sankören
 Sannainen
 Sannaistenlahti
 Sannanlahti
@@ -35443,7 +35285,6 @@ Saviansuonmaa
 Saviharju
 Savijoki
 Savijärvet
-Savijärvi
 Savikanta
 Savikari
 Savikarit
@@ -36462,7 +36303,6 @@ Skallen
 Skallerfjärden, Skallerfjärd
 Skallergrunden
 Skallerholmarna
-Skallholm
 Skallholmen
 Skallo Buskören
 Skalloggrund
@@ -37086,7 +36926,6 @@ Sola
 Solax
 Solaxgrunden
 Solbacka
-Solberg
 Solberg Ån
 Solbrandskobbarna
 Solccar, Sollsar
@@ -37149,7 +36988,6 @@ Sommarö Liden
 Sommarö Sund
 Sommarö grund
 Sommarö grunden
-Sommarö sund
 Sommaröar, Ostrov Sommare, Sommaröarna, Sommaröarne
 Sommarögrund
 Sommarön, Somar
@@ -37597,7 +37435,6 @@ Stora Bergskär
 Stora Bergön
 Stora Bergören
 Stora Birsskär
-Stora Bjornholm
 Stora Bjurholmen
 Stora Björkgrund
 Stora Björkholmen
@@ -38862,8 +38699,6 @@ Svapplan
 Svarsteeni
 Svarta Sundskär
 Svarta hunden
-Svartback
-Svartbacken
 Svartbergen
 Svartberget
 Svartbäck
@@ -38887,7 +38722,6 @@ Svartgrundet
 Svartgrundsskatan
 Svartgrynnan
 Svartharun
-Svartholm
 Svartholma
 Svartholmarna
 Svartholmen, Svarehö, Svart
@@ -38922,7 +38756,6 @@ Svartsadeln
 Svartsjö
 Svartskallen
 Svartskatan
-Svartskär
 Svartskären
 Svartskäret
 Svartsten
@@ -39196,7 +39029,7 @@ Sädemäki
 Sädhällen
 Säijä
 Säikkari
-Säikkä
+Säikkä, Saika, Saikara
 Säikkälänperä
 Säikkärä
 Säikkäränsaari
@@ -39445,7 +39278,6 @@ Sågslampi, Sågslamp
 Sågträsk
 Sågudden
 Sågviken
-Sålgrundet
 Såmisgrunden
 Sårbacken
 Såris, Soris
@@ -39455,7 +39287,6 @@ Såtonskär
 Såtonskärs harun
 Södekleppi
 Söder i Byn
-Söder i byn
 Söderbacken
 Söderbodan
 Söderbrottet
@@ -39920,9 +39751,7 @@ Tallessalo
 Tallgrund
 Tallgrundet
 Tallgrynnan
-Tallholm
 Tallholma
-Tallholmen
 Tallholmsgrunden
 Tallholmsgrundet
 Tallholmsklobben
@@ -40168,7 +39997,6 @@ Tarjannevesi
 Tarkinnokka
 Tarkinsaari
 Tarkka
-Tarkkinen, Tarkis
 Tarkkluppi, Tarkklupi
 Tarkkola
 Tarmansaari
@@ -40894,7 +40722,6 @@ Tistronskären
 Tistronskäret, Tistrunsher
 Tistronskärs Bådarna
 Tistronskärs Grunden
-Tistronskärs grunden
 Tistronör
 Tistronörarna
 Tistronören
@@ -41059,13 +40886,10 @@ Toljanjärvi
 Tolkanjärvi
 Tolkinkylä, Tolkby
 Tolkislandet
-Tolkki
-Tolkkiluoto
 Tolkkinen, Tolkis
 Tolkluoto
 Tollakasvaara
 Tollari, Dollarsten
-Tollikko
 Tollionmaa
 Tollojärvi
 Tollonpaasi
@@ -41097,7 +40921,6 @@ Tolsa
 Tolska
 Tolsteini, Tollsten
 Toltaansalo
-Tolva
 Tolvala
 Tolvamangrundsbukten
 Tolvanlampi
@@ -41137,7 +40960,6 @@ Tomujoki
 Tomukorpi
 Tongosoiva
 Toni
-Tonkka
 Tonkrunti
 Tonnainsaaret
 Tonnisaari
@@ -41202,12 +41024,10 @@ Torholmen
 Tori, Torikylä
 Torikansaari
 Torikari
-Torikivi
 Torikka
 Torikko
 Torinmäki
 Toriseno, Toorisjoki
-Toriseva
 Torittu
 Toritunjärvi
 Torkanbådan
@@ -41244,11 +41064,8 @@ Tornionsaari
 Tornivuori
 Tornskäret
 Torokka
-Toronkari
-Toronsaari
 Toronskäret
 Toroppala
-Torosaari
 Torosensaari
 Torp-Mattas stenen
 Torpanmäki
@@ -41308,7 +41125,6 @@ Torsnäs
 Torsskär
 Torstila
 Torsviken
-Torsö, Tursh Ö
 Torsön, Trusö, Turse
 Torsöskatan
 Tortinaukko
@@ -42255,7 +42071,7 @@ Tännelsudd
 Tännelsören
 Täpäränsaari
 Täressaari
-Tärkkinen
+Tärkkinen, Tarkis
 Tärkkiönsaari
 Tärkkämöjärvi
 Tärmätänsaari
@@ -42376,7 +42192,7 @@ Törri
 Törrölä
 Törrönsaari
 Törsänsaari
-Törsö
+Törsö, Tursh Ö
 Törvesholm
 Törö
 Töröinen
@@ -43029,7 +42845,6 @@ Vaarala
 Vaaralahti
 Vaaranalusluodot
 Vaaranalussaari
-Vaaraniemi
 Vaarankylä
 Vaaranlahti
 Vaaranlamminoja, Vaarantakasenoja
@@ -43040,7 +42855,6 @@ Vaaransaaret
 Vaarantakasenlampi
 Vaarapahtaat
 Vaararaakku
-Vaarasaari
 Vaaraslahti, Vaaraslanu
 Vaarinkallio
 Vaarinkarta
@@ -43075,12 +42889,9 @@ Vadsundet
 Vadträsket
 Vadudden
 Vadörarna
-Vaggskär
-Vahakari, Vekhe-kari
 Vahakarinkari
 Vahakivi
 Vahalahti
-Vahaluoto
 Vahanka
 Vahankajärvi
 Vahankari
@@ -43088,7 +42899,6 @@ Vahankivet
 Vahankivi
 Vahanta
 Vahantaka
-Vahasaari
 Vahderpää
 Vahdinkarit
 Vahdonkorpi
@@ -43451,7 +43261,6 @@ Vankosaari
 Vannais, Vannas, Vannös
 Vannankari
 Vannekivi
-Vannila
 Vannottu
 Vanonen
 Vanosenjärvi
@@ -43500,7 +43309,6 @@ Vapunsaaret
 Vapunsaari
 Varajärvi
 Varakluppi
-Varala
 Varanen
 Varanganselkä
 Varanpää
@@ -43585,7 +43393,6 @@ Varkaansaaret
 Varkaansaari
 Varkaantaipaleen Kanava, Varkaan Taipale, Varkaantaipale Kanava, Varkantaipaleen Kanava
 Varkaus, Varkauden, Varkauden Kaupunki, Varkauden seutukunta, Warkaus
-Varlax
 Varlaxudden
 Varlaxviken
 Varmavirta
@@ -43648,7 +43455,6 @@ Varrasjärvi
 Varrasluoto
 Varrasniemi
 Varrasperä
-Varrio
 Varsajärvi
 Varsakallio
 Varsakari
@@ -43813,10 +43619,7 @@ Vastasaari
 Vastaskainalo
 Vastassaari
 Vastatsaari
-Vasterön
-Vastila
 Vastineskoski, Vastinesluoma
-Vastinki
 Vastmäki
 Vastusjärvi
 Vastussaari
@@ -43869,7 +43672,6 @@ Vattukylä
 Vattula
 Vattuluodot
 Vattungarna
-Vattungen
 Vattungsgrundet
 Vattuniemi, Hallonnäs
 Vattusaaret
@@ -45153,7 +44955,6 @@ Vuolit Luosnjársuolu
 Vuolit Rávdoroggejávri, Rauduroggijävri
 Vuolit Sávzaluoppal, Savdsaluobbal
 Vuolit-Bievrrá
-Vuollasvärri
 Vuollašvárri, Vallashvärri, Vuollavärri
 Vuolle, Vuolet
 Vuollesaaret
@@ -45605,7 +45406,7 @@ Vähäjoki
 Vähäjärvensuo
 Vähäjärvi
 Vähäkangas
-Vähäkari
+Vähäkari, Vekhe-kari
 Vähäkloppi
 Vähäklupu
 Vähäkrunni
@@ -45807,7 +45608,6 @@ Västanskags örarna
 Väster Melö, Vestermälö, Västermalö
 Väster Yttermark, Vesteryttermark
 Västerback
-Västerbacken
 Västerbjorn
 Västerbrännan
 Västerby
@@ -45964,7 +45764,6 @@ Västra Ådgrundet
 Västra Ören
 Västra ändan
 Västra öarna
-Västra ören
 Västransund
 Västrastören
 Västsynnerstbådan
@@ -45988,7 +45787,6 @@ Vättlaxviken
 Vättungen
 Vättungs grynnorna
 Vävlisuálui
-Växar
 Växär, Vekskär, Väcksskär
 Väylä
 Väyläjoki
@@ -46527,8 +46325,6 @@ Yöttäjänjärvi
 Yövedenluoto
 Yövesi
 Zachris
-huhdanmäki
-jumisko
 munttusjärvi
 vesterby
 Ádjatoaivvit, Aadjaoaivi, Adja-oaivi, Adjahoaivi
@@ -46649,7 +46445,7 @@ vesterby
 Äkäskero
 Äkäslompolo
 Äkönmaa
-Älajärvi
+Älajärvi, Alajärri, Alajärven Kaupunki, Alajärvet
 Äleklobben
 Äleklobbs haruna
 Älgen
@@ -46754,7 +46550,7 @@ vesterby
 Ängviksbergen
 Ängviksfjärden
 Ängviksholmen, Enviikinsaari
-Ängö
+Ängö, Stor Ramsö
 Änisenvaara
 Änkilä
 Änkilänsalo
@@ -46911,7 +46707,6 @@ vesterby
 Åldermansgrundet
 Ålholmen, Alholma
 Ålkila
-Ålskären
 Ålänningen
 Ålö, Olö
 Ålön, Olö, Ålönsaari
@@ -46928,7 +46723,6 @@ vesterby
 Åmunsbäcken
 Åmusholmen
 Ångesudden
-Ångo, Stor Ramsö
 Ånholm
 Ånholmarna
 Ånholmen
