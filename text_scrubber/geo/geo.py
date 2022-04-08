@@ -1,4 +1,6 @@
 import re
+from collections import defaultdict
+
 from tqdm import tqdm
 from typing import Any, List, Tuple, Dict, Optional, Set
 import warnings
@@ -105,8 +107,12 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None) -> L
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
 
-    # Remove duplicates
-    candidates = list(set(candidates))
+    # Remove duplicates. Regions are also considered duplicates if the cleaned version is equal.
+    deduped_candidates = defaultdict(list)
+    for region, country, score in candidates:
+        deduped_candidates[(clean_region(region), country, score)].append(region)
+    candidates = [(process_multiple_names(names) if len(names) > 1 else names[0], country, score)
+                  for (_, country, score), names in deduped_candidates.items()]
     return sorted(candidates, key=lambda x: (-x[2], x[0], x[1]))
 
 
@@ -163,10 +169,33 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
 
-    # Remove duplicates such as San Jose(US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0)
-    candidates = list(set(candidates))
+    # Remove duplicates such as San Jose (US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0).
+    # Cities are also considered duplicates if the cleaned version is equal.
+    deduped_candidates = defaultdict(list)
+    for city, country, score in candidates:
+        deduped_candidates[(clean_city(city), country, score)].append(city)
+    candidates = [(process_multiple_names(names) if len(names) > 1 else names[0], country, score)
+                  for (_, country, score), names in deduped_candidates.items()]
     return sorted(candidates, key=lambda x: (-x[2], x[0], x[1]))
 
+
+def process_multiple_names(names: List[str]):
+    """
+    Does nothing if the name is already a string. However, in the other case where it's a list of strings we
+    determine which variant has the most non-ascii characters and return that one. E.g., [Chenet, Chênet] -> Chênet.
+    If there's a tie, we select the longest one. E.g. [Etten, Etten-Leur] -> Etten-Leur. If there's still a tie,
+    sort and return the first one. The other name is added to the alternate names. If they are similar after `
+    clean_city`, they will be removed when saving the names to file.
+
+    :param names: List of city/region names
+    :return: Single unified name
+    """
+    names = sorted(((len(RE_ALPHA.sub('', name)), len(name), name) for name in names),
+                   key=lambda tup: (-tup[0], -tup[1], tup[2]))
+    return names[0][2]
+
+
+RE_ALPHA = re.compile(r'[a-zA-Z]')
 
 # Some common token replacements
 _GEO_TOKEN_MAP = {'afr': 'african',
