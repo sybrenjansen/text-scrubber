@@ -148,7 +148,7 @@ class NormalizeRegionTest(unittest.TestCase):
         test_regions = [
             ('Queensland', [('State of Queensland', 'Australia')]),
             ('QLd', [('State of Queensland', 'Australia')]),
-            ('Rio de Janeiro', [('Rio de Janeiro', 'Brazil')]),
+            ('Rio de Janeiro', [('Rio De Janeiro', 'Brazil')]),
             ('ON', [('Ontario', 'Canada')]),
             ('okinaWA', [('Okinawa', 'Japan')]),
             ('Georgia', [('Georgia', 'United States')]),
@@ -290,14 +290,12 @@ class NormalizeCityTest(unittest.TestCase):
             (
                 "San Jose",
                 [
-                    ('San Jose', 'United States', 1.0),
                     ('San Jose Village', 'United States', 1.0),
                     ('San José', 'Argentina', 1.0),
                     ('San José', 'Costa Rica', 1.0),
                     ('San José', 'Philippines', 1.0),
                     ('San José', 'Spain', 1.0),
-                    ('San José', 'United States', 1.0)
-                ]
+                    ('San José', 'United States', 1.0)]
             ),
         ]
 
