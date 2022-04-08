@@ -2,7 +2,7 @@ import re
 from collections import defaultdict
 
 from tqdm import tqdm
-from typing import Any, List, Tuple, Dict, Optional, Set
+from typing import Any, List, Tuple, Dict, Optional, Set, Iterable, Union
 import warnings
 
 from text_scrubber import TextScrubber
@@ -233,7 +233,7 @@ _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
                                       .join())
 
 
-def _clean_geo_string(string: str) -> str:
+def _clean_geo_string(string: Union[str, List[str]]) -> Union[str, List[str]]:
     """
     Cleans a strings with geographical information (e.g., countries/regions/cities).
 
@@ -404,8 +404,7 @@ def add_region_resources(countries: Optional[Set] = None, progress_bar: bool = F
             # canonical one and all versions will point to that
             region_list = region_list.split(", ")
             canonical_region_name = region_list[0]
-            for region in region_list:
-                cleaned_region = clean_region(region)
+            for cleaned_region in clean_region(region_list):
                 # Sometimes clean_region removes the whole string
                 if not cleaned_region:
                     continue
@@ -440,8 +439,7 @@ def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = Fal
             # canonical one and all versions will point to that
             city_list = city_list.split(", ")
             canonical_city_name = city_list[0]
-            for city in city_list:
-                cleaned_city = clean_city(city)
+            for cleaned_city in clean_city(city_list):
                 # Sometimes clean_city removes the whole string
                 if not cleaned_city:
                     continue
