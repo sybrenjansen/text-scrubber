@@ -96,6 +96,7 @@
 6to Encuadre 1ra. Linea
 7 Montes
 7ma Linea Guaira
+8 A 9 Monday
 8 De Diciembre
 8 De Diciembre - Taruma
 8 De Diciembre Sub Urbano
@@ -1082,6 +1083,7 @@ Calabria
 Calistro
 Calixto Benítez
 Calixtro
+Calle
 Calle 10 Oro Verde
 Calle 1000 Bertoni
 Calle 11 Aleman Kue
@@ -1323,6 +1325,7 @@ Capitan Meza
 Capitan Meza Kilometro 1 Al 6
 Capitan Meza Kilometro 16 A
 Capitan Meza Kilometro 16 B
+Capitan Meza Kilometro 24
 Capitan Meza Puerto-Sub Urbano
 Capitan Sosa
 Capitan Sosa Sub-Urbano
@@ -1633,7 +1636,7 @@ Colonia 12 De Junio
 Colonia 12 Mil
 Colonia 1ro De Mayo
 Colonia 8 De Diciembre
-Colonia A. Goiburú
+Colonia A. Goiburú, Colonia Goiburú
 Colonia Abatí Tygué
 Colonia Aca-Yuasa
 Colonia Acaray
@@ -1666,6 +1669,7 @@ Colonia Bella Vista-i
 Colonia Bergthal, Colonia Bergtal
 Colonia Bernardino Caballero
 Colonia Blas A. Garay
+Colonia Blas Garay
 Colonia Bogado-cué
 Colonia Boquerón
 Colonia Cadete Pastor Pando
@@ -1749,6 +1753,7 @@ Colonia General Patricio Colmán, Colonia General Colman
 Colonia General Roa
 Colonia General de División A. Fretes Dávalos
 Colonia Gnadenfelt
+Colonia Goiburu
 Colonia Guadalupe
 Colonia Guarani Kilometro 5
 Colonia Guaraní
@@ -3873,6 +3878,7 @@ Estancia General Rolón
 Estancia Genofre
 Estancia Giménez
 Estancia Golondrina
+Estancia Gonzalez
 Estancia Gran Siete
 Estancia Guaicuru
 Estancia Guajhó
@@ -4302,6 +4308,7 @@ Estancia Sequeira Cué
 Estancia Serini, Estancia Seripi
 Estancia Serratti
 Estancia Siete Puntas
+Estancia Silva
 Estancia Sisul
 Estancia Smelling
 Estancia Sofía, Santa Sofía
@@ -4578,7 +4585,7 @@ General Díaz - Urbano
 General Eduvígis Díaz
 General Elizardo Aquino
 General Eugenio A. Garay, Fortín Coronel Eugenio Garay, Irendague, Irindague, Yrendagüe
-General Eugenio Alejandrino Garay, Coronel Eugenio A. Garay, Estación Charara, Eugenio Alejandrino Garay
+General Eugenio Alejandrino Garay, Coronel Eugenio A. Garay, Estación Charara, Eugenio Alejandrino Garay, General Eugenio Garay
 General Francisco Isidoro Resquín, General Francisco I. Resquín, General Isidoro Resquín
 General Genes
 General Higinio Morinigo
@@ -5208,6 +5215,7 @@ Kilometro 30 San Jorge Sub-Urbano
 Kilometro 30 Virgen Del Carmen Sub-Urbano
 Kilometro 31 San Marcos
 Kilometro 34 San Pedro
+Kilometro 51 A 52
 Kilometro 9 Monday
 Kilómetro Catorce
 Kilómetro Cincuenta y Uno de Triunfo
@@ -5965,7 +5973,7 @@ Olerra
 Olimpia
 Olla Rugua
 Olla Rugua Sub-Urbano
-Once a Trece Acaray
+Once a Trece Acaray, 11 a 13 Acaray
 Once a Trece Monday
 Oratorio Juan Bautista, Roa Rugua Oratorio
 Oratorio San Antonio, Oratorios San Antonio
@@ -7336,9 +7344,9 @@ San Juan
 San Juan - 7 A 9 Acaray
 San Juan - Calle'I, Barrio San Juan
 San Juan - Jardin Del Este - 7 A 9 Acaray
-San Juan - Jardín del Este - Siete a Nueve Acaray
+San Juan - Jardín del Este - Siete a Nueve Acaray, San Juan - Jardín del Este - 7 a 9 Acaray
 San Juan - Lucerito
-San Juan - Siete a Nueve Acaray
+San Juan - Siete a Nueve Acaray, San Juan - 7 a 9 Acaray
 San Juan Barrio Maria Auxiliadora
 San Juan Barrio Santa Rosa
 San Juan Bautista

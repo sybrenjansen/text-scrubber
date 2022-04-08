@@ -567,7 +567,8 @@ Afdeling Lima Torgamba
 Afdeling Pondok Kandanglembu
 Afdeling Pondok Sepuluh, Afdeling Pondok 10
 Afdeling Pondok Ullu
-Afdeling Satu A, AFD 1
+Afdeling Satu, AFD 1
+Afdeling Satu A, Afdeling 1 A
 Afdeling Satu Bahbayu, Afdeling1 Bahbayu
 Afdeling Satu Doloksinmubah, Afdeling 1 Doloksinumbah
 Afdeling Satu Gunung Para, Afdeling 1 Gunung Para
@@ -6839,7 +6840,8 @@ Bandungintenindah
 Bandungkrajan
 Bandungmasigit
 Bandungmulyo
-Bandungrejo A, Bandoengredjo, Bandungredja, Bandungredjo, Bandungreja
+Bandungrejo, Bandoengredjo, Bandungredja, Bandungredjo, Bandungreja
+Bandungrejo A
 Bandungrejo B
 Bandungrojo
 Bandungrowo
@@ -8244,6 +8246,7 @@ Banjar Lateng
 Banjar Latung
 Banjar Lawak
 Banjar Lawas
+Banjar Lebah
 Banjar Lebah A
 Banjar Lebah B
 Banjar Lebah Pangkung, Banjar Lebahpangkung
@@ -10432,7 +10435,8 @@ Barisan Mahar
 Barisan Malim
 Barisan Mesin
 Barisan Perdomuan
-Barisan Satu A
+Barisan Satu
+Barisan Satu A, Barisan 1 A
 Barisan Selamat
 Barisan Siempung
 Barisan Sinaga
@@ -11811,6 +11815,7 @@ Batupoon
 Batuporkas
 Batuporon, Batoe Porong, Batoeporon
 Batupotong
+Batupraga
 Batupraga A
 Batuprawis, Butuprawis
 Batupulek
@@ -15751,20 +15756,20 @@ Blok C
 Blok Cikamandilan
 Blok D
 Blok D Unit Pemukiman Transmigrasi Empat, Blok D UPT IV
-Blok Delapan
-Blok Delapan Puluh
+Blok Delapan, Blok 8
+Blok Delapan Puluh, Blok 80
 Blok Depok
 Blok Desa
 Blok Desa Utara
-Blok Dua
-Blok Dua Puluh
+Blok Dua, Blok 2
+Blok Dua Puluh, Blok 20
 Blok E
 Blok E Unit Pemukiman Transmigrasi Tiga, Blok E UPT III
 Blok Embah
-Blok Empat, Blok IV
-Blok Empat Belas
+Blok Empat, Blok 4, Blok IV
+Blok Empat Belas, Blok 14
 Blok Empat Puluh
-Blok Enam
+Blok Enam, Blok 6
 Blok Enam Puluh
 Blok Enam Tanjung Muda, Blok 6 Tanjung Muda
 Blok F
@@ -15798,8 +15803,8 @@ Blok Kyai Ngali
 Blok Lapan
 Blok Lapangbola
 Blok Lebak
-Blok Lima
-Blok Lima Belas
+Blok Lima, Blok 5
+Blok Lima Belas, Blok-15
 Blok Lor
 Blok Lumbung
 Blok M
@@ -15825,14 +15830,14 @@ Blok Sakola
 Blok Sali
 Blok Satu
 Blok Sawah
-Blok Sebelas
+Blok Sebelas, Blok 11
 Blok Selasa
-Blok Sembilan
+Blok Sembilan, Blok 9
 Blok Sembilan Sumberejo
 Blok Sembung
 Blok Senen
 Blok Sentra
-Blok Sepuluh
+Blok Sepuluh, Blok 10
 Blok Sepuluh Ujung
 Blok Sigronggong
 Blok Sinyar
@@ -15841,14 +15846,14 @@ Blok Taman
 Blok Tegal
 Blok Tempe
 Blok Tengah
-Blok Tiga
+Blok Tiga, Blok 3
 Blok Timur
-Blok Tujuh
+Blok Tujuh, Blok 7
 Blok Tulangkacangmaung
 Blok Utara
 Blok Wage
 Blok Wetan Rawa, Wetan Rawa
-Blok-delapan Belas
+Blok-delapan Belas, Blok-18
 Blok-enam Baru, Blok-6 Baru
 Blok-enam Kampung, Blok-6 Kampung
 Blokagung
@@ -16105,6 +16110,7 @@ Boadida
 Boadoka
 Boafeo
 Boagu
+Boak
 Boak A
 Boak B
 Boakaro
@@ -18744,6 +18750,7 @@ Bual
 Bualaran
 Bualbual
 Buale
+Bualemo
 Bualemo A, Boalemo, Boealemo
 Bualemo B
 Buallo
@@ -28543,6 +28550,7 @@ Cicewoh
 Cicewol
 Cicikan
 Cicinde Dua
+Cicinde Satu
 Cicinde Satu A
 Cicinde Satu B
 Cicinde Selatan, Cicinde, Tjitjinde
@@ -52361,7 +52369,7 @@ Desa Pucang Simo, Desa Pucangsimo
 Desa Pucang Songo, Desa Pucangsongo
 Desa Pucangan
 Desa Pucanganak
-Desa Pucanganom, Desa Pulanganom, Pucanganom
+Desa Pucanganom, Desa Pulanganom
 Desa Pucangarum, Desa Pucungarum
 Desa Pucanggading, Desa Puncanggading
 Desa Pucanglaban
@@ -59717,6 +59725,7 @@ Dololo
 Dolom
 Dolominon
 Dolon
+Dolong
 Dolong A
 Dolong B
 Dolongan
@@ -61350,7 +61359,8 @@ Dusner, Desner, Doesner
 Dusoru
 Dustan
 Dusu Lima
-Dusun A, Pondok Dusun
+Dusun, Pondok Dusun
+Dusun A
 Dusun Alo, Dusunalo
 Dusun B
 Dusun Barat Oesao
@@ -69133,6 +69143,7 @@ Gumining
 Gumintir
 Gumiring
 Gumitir
+Gumiwang
 Gumiwang A
 Gumiwang B
 Gumiwang Kidul
@@ -74863,6 +74874,7 @@ Halaban
 Halabanblok
 Halabanjati, Halabandjati
 Halabantua
+Halabolu
 Halabolu A
 Halabolu B
 Halado
@@ -75049,7 +75061,7 @@ Handilkurnia
 Handilmesjid
 Handilmicok
 Handilpengulu
-Handilsurya
+Handilsurya, Handil
 Handio
 Handiwung
 Handoyan, Handojan
@@ -75308,6 +75320,7 @@ Hatusua, Hatoesoea
 Hatutau, Hatoetaoe, Hatutua
 Hatuwaki, Hatuwakki
 Hatuwe
+Hauabas
 Hauabas A
 Hauapan
 Haubako
@@ -75656,6 +75669,7 @@ Hobatua
 Hobaua
 Hobea
 Hobilogut
+Hobo
 Hobo A
 Hobo B
 Hobobawa
@@ -77278,6 +77292,7 @@ Implassemen
 Impres
 Impreslengur
 Impunan
+Imulolong
 Imulolong A
 Imulolong B
 Imut
@@ -78518,7 +78533,8 @@ Jangkajangkaya
 Jangkali
 Jangkameunasahalue, Djangkameunasahalue
 Jangkan
-Jangkang A, Djangkang, Djankang, Djongkang
+Jangkang, Djangkang, Djankang, Djongkang
+Jangkang A
 Jangkang Kidul
 Jangkang Lor
 Jangkangan
@@ -79218,7 +79234,8 @@ Jatisuko
 Jatisumber
 Jatisumo Kulon
 Jatisumo Wetan
-Jatisura A, Djatisura
+Jatisura, Djatisura
+Jatisura A
 Jatisura B
 Jatisura C
 Jatisuwak
@@ -85871,7 +85888,8 @@ Kampungsampan
 Kampungsanten
 Kampungsari
 Kampungsasak
-Kampungsawah A, Kampoengsawah, Sawahlio
+Kampungsawah, Kampoengsawah, Sawahlio
+Kampungsawah A
 Kampungsawah B
 Kampungsawah Barat, Sawahbarat Dua, Sawahbarat Satu
 Kampungsawah C
@@ -86291,7 +86309,8 @@ Kangkelo
 Kangki
 Kangkol
 Kangkot
-Kangkung A, Kangkoeng, Kankung
+Kangkung, Kangkoeng, Kankung
+Kangkung A
 Kangkung B
 Kangkung Dua
 Kangkung Kidul
@@ -86400,6 +86419,7 @@ Kantome
 Kantong
 Kantong Barat
 Kantong Timur
+Kantongan
 Kantongan A
 Kantongan B
 Kantongan Kulon
@@ -86912,7 +86932,8 @@ Karangaru
 Karangarum
 Karangasam
 Karangasari
-Karangasem A, Banjar Karangasem, Korangasem
+Karangasem, Banjar Karangasem, Korangasem
+Karangasem A
 Karangasem B
 Karangasem Barat
 Karangasem Dua
@@ -87168,6 +87189,7 @@ Karanggebang
 Karanggedang
 Karanggedang Dua
 Karanggedang Satu
+Karanggede
 Karanggede A
 Karanggede B
 Karanggedur
@@ -87552,7 +87574,8 @@ Karangmlati
 Karangmloko
 Karangmlokotegal
 Karangmluwo
-Karangmojo A, Kalangmadja, Karangmodjo
+Karangmojo, Kalangmadja, Karangmodjo
+Karangmojo A
 Karangmojo B, Karangmodjo
 Karangmojo Dua
 Karangmojo Satu
@@ -96373,7 +96396,7 @@ Kelurahan Kandang Sapi, Kelurahan Kandangsapi
 Kelurahan Kandangan
 Kelurahan Kandri
 Kelurahan Kangenan
-Kelurahan Kangkung, Kangkung
+Kelurahan Kangkung
 Kelurahan Kanigaran
 Kelurahan Kanigoro
 Kelurahan Kanyuara
@@ -112773,6 +112796,7 @@ Lidahtanah Satu
 Lidahtemplek
 Lidamanu
 Lidan
+Lidang
 Lidang A
 Lidang B
 Lider
@@ -114644,7 +114668,7 @@ Loragung
 Lorakan
 Loram Wetankrajan
 Loran
-Lorang
+Lorang, Lorong
 Lorban
 Lorbung
 Lorcurah
@@ -114683,11 +114707,11 @@ Lorong Ilir
 Lorong Lidah Tanah
 Lorong Melati
 Lorong Sedemana
-Lorong Sembilan
+Lorong Sembilan, Lorong 9
 Lorong Tempe
 Lorong Tiga Jatisati, Lorong 3 Jatisati
 Lorong Tiga Tanjungmuda, Lorong 3 Tanjung Muda
-Lorong Tujuh
+Lorong Tujuh, Lorong 7
 Lorongbatang
 Loronggelugul
 Lorongkenek
@@ -114723,7 +114747,7 @@ Loskulalet, Losukalet 2, Losukalet Dua
 Losmenan
 Loso
 Losoh
-Losong
+Losong, Lorong
 Losoni
 Lospadung
 Losringgong
@@ -115266,7 +115290,8 @@ Luinga
 Luiwau
 Lujang
 Lujo
-Luk A, Loek
+Luk, Loek
+Luk A
 Lukair
 Lukap
 Lukas
@@ -118096,6 +118121,7 @@ Mantasi
 Mantasi Satu
 Mantau
 Mantauharapan
+Mantawa
 Mantawa A
 Mantawa B
 Mantegi
@@ -118181,7 +118207,8 @@ Manuklalung
 Manuksiung
 Manukso
 Manukung
-Manulai A, Manoelairoti, Manulairoti
+Manulai, Manoelairoti, Manulairoti
+Manulai A
 Manulai B
 Manulai Dua
 Manulai Satu
@@ -118890,7 +118917,8 @@ Maroneng, Maroning
 Marong
 Marong Kulon
 Marongbat
-Maronge A, Maroenge, Maroengi, Marunge
+Maronge, Maroenge, Maroengi, Marunge
+Maronge A
 Maronge B
 Marongge
 Marongge Hilir
@@ -122214,6 +122242,7 @@ Mluyo, Mlujo
 Mmaaf
 Mnamuk, Mnamoek
 Mnefu
+Mnelaanen
 Mnelaanen A
 Mnelaanen B
 Mnelabano
@@ -132188,6 +132217,7 @@ Paccini
 Paccinongan
 Pacciro
 Paccoka
+Pace
 Pace A
 Pace B
 Pace Dua
@@ -132726,7 +132756,8 @@ Padaspecah
 Padasrejo
 Padastinatap
 Padasugih
-Padasuka A, Padasoeka
+Padasuka, Padasoeka
+Padasuka A
 Padasuka B
 Padasukaindah
 Padasul
@@ -132968,6 +132999,7 @@ Pagarahsiginde
 Pagaraji, Pagaradji
 Pagaralam
 Pagarambangan, Pangarambangan
+Pagaran
 Pagaran Baringin
 Pagaran Batu
 Pagaran Dua
@@ -136916,7 +136948,8 @@ Panton Luas, Pantonlawas
 Panton Makmu
 Panton Masjid
 Panton Momu
-Panton Rayeuk A, Pantonrajeu A, Pantonrajeuk
+Panton Rayeuk, Pantonrajeuk
+Panton Rayeuk A, Pantonrajeu A
 Panton Rayeuk B
 Panton Rayeuk Dua
 Panton Rayeuk M
@@ -138635,7 +138668,8 @@ Pasar Lalang
 Pasar Lama
 Pasar Lampaku
 Pasar Lembu
-Pasar Lima A, Pasar V
+Pasar Lima, Pasar V
+Pasar Lima A, Pasar 5 A
 Pasar Lima B
 Pasar Lima Banjar, Pasar V Banjar
 Pasar Longgo, Pasar Longa, Pasar Longo, Pasarlonnga
@@ -143042,6 +143076,7 @@ Pelintahan, Plintakan
 Pelintuan
 Pelipinliang
 Pelipon
+Pelita
 Pelita A
 Pelita B
 Pelita Dua
@@ -144025,6 +144060,7 @@ Pengonten
 Pengoreng
 Pengoros
 Pengorosdalam
+Pengos
 Pengos A
 Pengos B
 Pengotaan
@@ -144469,7 +144505,8 @@ Percihan, Pertjihan 1
 Percut Pekan, Pertjut
 Perdagangan, Perdagangan-tomuon, Perdagangantemuan
 Perdagangan Dua
-Perdagangan Satu A
+Perdagangan Satu
+Perdagangan Satu A, Perdagangan 1A
 Perdahapen
 Perdamaian
 Perdamaian Nauli
@@ -144834,7 +144871,7 @@ Perum Pepabri
 Perum Turenpermai
 Perum Udara Soa
 Perumahan
-Perumahan A Satu
+Perumahan A Satu, Perumahan A1
 Perumahan Abdi Negara
 Perumahan Angkatan Bersenjata Republik Indonesia, Perumahan ABRI
 Perumahan Angkatan Udara, Perumahan AU
@@ -145284,7 +145321,8 @@ Petinggen
 Petinggi
 Petioge
 Petipara, Pĕti Paro, Pĕti Paro Wai Rano, Wai Rano
-Petir A, Petir Tiga, Tjipetir
+Petir, Petir Tiga, Tjipetir
+Petir A
 Petir B
 Petir C
 Petir Dua
@@ -145518,6 +145556,7 @@ Peutey
 Peutinunggal, Peuteujnoenggal
 Peuto
 Peutu
+Peuuma
 Peuuma A
 Peuuma B
 Pewa
@@ -147239,8 +147278,8 @@ Pondoh
 Pondohan
 Pondoindah
 Pondok, Cigondok Satu, Podakan, Pontok, Tjigondok 1
-Pondok A Delapan, Pondok VIII
-Pondok A Dua, Pondok II
+Pondok A Delapan, Pondok A 8
+Pondok A Dua, Pondok A 2
 Pondok Aek Loba
 Pondok Aek Loba Timur
 Pondok Aek Pahu
@@ -147248,24 +147287,26 @@ Pondok Afdeling A
 Pondok Afdeling B
 Pondok Afdeling C
 Pondok Afdeling D, Pondok Atdeling D
-Pondok Afdeling Dua A, Pondok Afdeling II
+Pondok Afdeling Dua, Pondok Afdeling 2, Pondok Afdeling II
+Pondok Afdeling Dua A, Pondok Afdeling II A
 Pondok Afdeling Dua B, Pondok Afdeling II B
 Pondok Afdeling E
-Pondok Afdeling Empat A, Pondok Afdeling IV
+Pondok Afdeling Empat, Pondok Afdeling 4, Pondok Afdeling IV
+Pondok Afdeling Empat A, Pondok Afdeling IV A
 Pondok Afdeling Empat B, Pondok Afdeling IV B
 Pondok Afdeling Enam
 Pondok Afdeling F
 Pondok Afdeling G
 Pondok Afdeling H
 Pondok Afdeling I
-Pondok Afdeling Lima, Pondok Afdeling V
+Pondok Afdeling Lima, Pondok Afdeling 5, Pondok Afdeling V
 Pondok Afdeling Marihat Hulu
-Pondok Afdeling Satu
-Pondok Afdeling Sebelas
+Pondok Afdeling Satu, Pondok Afdeling 1
+Pondok Afdeling Sebelas, Pondok Afdeling 11
 Pondok Afdeling Sembilan, Pondok Aldeling IX
 Pondok Afdeling Sepuluh, Pondok Afdeling X
-Pondok Afdeling Tiga, Pondok Afdeling III
-Pondok Afdeling Tujuh, Pondok Afdeling VII
+Pondok Afdeling Tiga, Pondok Afdeling 3, Pondok Afdeling III
+Pondok Afdeling Tujuh, Pondok Afdeling 7, Pondok Afdeling VII
 Pondok Agung
 Pondok Air Jernih
 Pondok Air Manis, Airmasin 1
@@ -147341,6 +147382,7 @@ Pondok Damuli
 Pondok Danau Lawas, Pondokdanaulawas
 Pondok Danau Tinggi, Pondokdanautinggi
 Pondok Dawung
+Pondok Delapan, Pondok VIII
 Pondok Delapan Puluh Lima, Totorpelu
 Pondok Deprok
 Pondok Desa
@@ -147348,9 +147390,10 @@ Pondok Dinding
 Pondok Dolok
 Pondok Dolokayan
 Pondok Dolokpop
+Pondok Dua, Pondok II
 Pondok Dua Belas
 Pondok Empat, Pondok IV
-Pondok Empat Afdeling Dua
+Pondok Empat Afdeling Dua, Pondok 4 Afdeling 2
 Pondok Empat Belas
 Pondok Emplasemen
 Pondok Enam, Pondok VI
@@ -147623,7 +147666,7 @@ Pondok Tiga Belas
 Pondok Tiga Puluh Delapan
 Pondok Tiga Puluh Satu Afdeling Satu B
 Pondok Tiga Puluh Tiga
-Pondok Tiga Puluh Tujuh Afdeling Enam
+Pondok Tiga Puluh Tujuh Afdeling Enam, Pondok 37 Afdeling 6
 Pondok Timbang Deli
 Pondok Timur
 Pondok Tinggi, Pondoktinggi
@@ -148880,6 +148923,7 @@ Pringlegi
 Pringlimit
 Pringluwang
 Pringo
+Pringombo
 Pringombo A
 Pringombo B
 Pringombo C
@@ -149068,6 +149112,7 @@ Pucangalit
 Pucangan, Poetjangan, Pucangsari Dua, Putjangan, Putjangsari 2
 Pucangan Barat
 Pucangan Timur
+Pucanganom
 Pucanganom A
 Pucanganom B
 Pucanganom C
@@ -149164,7 +149209,8 @@ Pucungsari Kulon
 Pucungsari Wetan
 Pucungsawit
 Pudahowa
-Pudak A, Poedak, Poedak-koelon, Pudakkulon
+Pudak, Poedak, Poedak-koelon, Pudakkulon
+Pudak A
 Pudak B
 Pudak Kidul
 Pudak Lima
@@ -155042,7 +155088,8 @@ Pureman
 Purembe
 Purengan
 Purgolo
-Puri A, Poeri
+Puri, Poeri
+Puri A
 Puri B
 Puri Mandasian
 Purialpamas
@@ -161763,6 +161810,7 @@ Sanggau, Sangau
 Sanggawile, Sagawele
 Sanggawua
 Sangge
+Sanggeng
 Sanggeng A
 Sanggeng B
 Sanggeran
@@ -170078,7 +170126,8 @@ Siseke Legok
 Sisember
 Siser
 Sisera
-Sisi A, Sisir I, Sisiri
+Sisi, Sisir I, Sisiri
+Sisi A
 Sisi B
 Sisiaksiak
 Sisiasia
@@ -170683,6 +170732,7 @@ Siyangan
 Siyem Kidul
 Siyem Lor
 Siyo
+Siyono
 Siyono A
 Siyono B
 Siyono C
@@ -170909,6 +170959,7 @@ Sobawawi
 Sobayan
 Sobe
 Sobeng
+Sobeok
 Sobeok A
 Sobeok B
 Sobi
@@ -171460,6 +171511,7 @@ Songak Girang
 Songak Hilir
 Songal, Songai
 Songal Satu
+Songan
 Songan A
 Songan B
 Songbanyu Dua
@@ -172674,6 +172726,7 @@ Sukacai Tengah
 Sukacinta, Rantau Nipis, Soekatjinta, Sukacita, Sukatjinta
 Sukada
 Sukadalem
+Sukadamai
 Sukadamai A
 Sukadamai B
 Sukadamai Dua
@@ -172746,7 +172799,8 @@ Sukajatiga
 Sukajawa Dua, Oemboelan Watĕs, Sukajawa 2
 Sukajawa Satu, Sukajawa 1
 Sukajawa Tiga, Oemboelan Atiboemi, Sukajawa 3
-Sukajaya A, Gayau, Oemboelan Lioeh, Oemboelan Soekŏdjajŏ, Soekŏdjajŏ, Sukadjaja, Sukodjajo, Sukojayo, Sukojoyo, Umbulanliuh
+Sukajaya, Gayau, Oemboelan Lioeh, Oemboelan Soekŏdjajŏ, Soekŏdjajŏ, Sukadjaja, Sukodjajo, Sukojayo, Sukojoyo, Umbulanliuh
+Sukajaya A
 Sukajaya B
 Sukajaya Baru
 Sukajaya Dua
@@ -172795,7 +172849,8 @@ Sukamahi, Sukamah 22
 Sukamahi Dua
 Sukamahi Satu
 Sukamajo
-Sukamaju A, Sukamadju, Tjisitoe, Tjisitu
+Sukamaju, Sukamadju, Tjisitoe, Tjisitu
+Sukamaju A
 Sukamaju B
 Sukamaju Barat
 Sukamaju Dua
@@ -173185,6 +173240,7 @@ Sukolilo Tengah, Soekalila, Soekalila-barat, Soekolilo
 Sukolilo Timur, Soekalila-timoer
 Sukolilo-kidul
 Sukoliman
+Sukomaju
 Sukomaju A
 Sukomaju B
 Sukomakmur
@@ -175695,7 +175751,8 @@ Tabulilin
 Tabulo
 Tabulu
 Tabumi
-Tabun A, Taboen
+Tabun, Taboen
+Tabun A
 Tabun B
 Tabun Dua
 Tabun Satu
@@ -177577,7 +177634,7 @@ Talikuran
 Talilaran
 Talilulik
 Talima A
-Talima B
+Talima B, Talima
 Talimbaru, Kutalimbaru-ulu
 Talimetan
 Talimpue
@@ -178300,7 +178357,8 @@ Tambun Tonga-tonga
 Tambun Utara, Tambunrawarengas
 Tambun-taianjing, Tamboen-taiandjing, Tambun-taiandjing
 Tambunaloko
-Tambunan A, Tamboenan
+Tambunan, Tamboenan
+Tambunan A
 Tambunan B
 Tambunan Baru
 Tambunbaru
@@ -185416,7 +185474,8 @@ Tenembok
 Teneng, Pasangtenang, Pasangteneng
 Teneran
 Tenga
-Tengah A, Kampoengtengah
+Tengah, Kampoengtengah
+Tengah A
 Tengah Atas
 Tengah B
 Tengah Barat
@@ -185552,6 +185611,7 @@ Tengkal
 Tengkalat
 Tengkan
 Tengkapa
+Tengke
 Tengke A
 Tengke B
 Tengkek
@@ -186015,6 +186075,7 @@ Tetanjung
 Tetapmejawa, Totaomedjawa
 Tetara
 Tetas
+Tete
 Tete A
 Tete B
 Teteaji, Teteadji
@@ -186863,6 +186924,7 @@ Tirip
 Tiripan
 Tiris
 Tiris Wetan
+Tirisan
 Tirisan A
 Tirisan Kulon
 Tirisan Wetan
@@ -188183,6 +188245,7 @@ Tonarhi
 Tonasa, Tomasak, Tonasak 2, Tonassa
 Tonayan
 Tonbesi
+Tonda
 Tonda A
 Tonda B
 Tonda C
@@ -189042,6 +189105,7 @@ Transmigrasi Blok D Unit II Pelor
 Transmigrasi Cinta Manis
 Transmigrasi Kayen Dua A
 Transmigrasi Kayen Dua B
+Transmigrasi Kayen Satu
 Transmigrasi Kayen Satu A
 Transmigrasi Kayen Tiga B
 Transmigrasi Kayungo
@@ -189342,7 +189406,7 @@ Trowek Kaler, Trowek
 Trowek Kidul
 Trowiso
 Trowolu
-Trowono A
+Trowono A, Trowono
 Trowono B
 Trowulan
 Trowulu
@@ -190211,7 +190275,8 @@ Tugon
 Tugondeng
 Tugono
 Tugrama, Toegrama, Tugarama, Tugrana
-Tugu A, Toegoe, Tugu Tujuh
+Tugu, Toegoe, Tugu Tujuh
+Tugu A
 Tugu B
 Tugu Bates
 Tugu C
@@ -193936,6 +194001,7 @@ Waenunga
 Waeoba
 Waepaci
 Waepale
+Waepana
 Waepana A
 Waepana B
 Waepau
@@ -196592,7 +196658,8 @@ Weetame
 Weetana
 Weetanaya
 Weetebula, Waitjaboelo, Weëteboela
-Weetobula A, Waitaboela, Waitabula, Waitjaboelo, Weëteboela
+Weetobula, Waitaboela, Waitabula, Waitjaboelo, Weëteboela
+Weetobula A, Waitaboela 2, Waitabula
 Weetobula B, Waitaboela 3, Waitabula
 Weetombo
 Weetomma
@@ -196868,6 +196935,7 @@ Wesa
 Wesalo
 Wesameran
 Wesang
+Wesasuit
 Wesasuit A
 Wesawa
 Weseben
@@ -197685,6 +197753,7 @@ Wololamadoa
 Wololanu
 Wololedu
 Wololejo
+Wololele
 Wololele A
 Wololele B
 Wololeleloo
@@ -197891,6 +197960,7 @@ Wonodadimulya
 Wonodakan
 Wonodirjan
 Wonodoro
+Wonodoyo
 Wonodoyo A
 Wonodoyo B
 Wonodurung
@@ -198389,6 +198459,7 @@ Wunu
 Wunu Wunu, Woenoe 2, Woenoewoenoe, Wunuwunu
 Wunucari
 Wunung
+Wunut
 Wunut A
 Wunut B
 Wunutbasin

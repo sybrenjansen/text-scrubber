@@ -2,20 +2,23 @@ A Dos Cunhados
 A Dos Francos
 A Dos Negros
 A Ver-O-Mar
+A da Beja
 A da Longa, A do Longo
+A da Pêra, A da Pêrra
 A da Rainha
 A da Velha
 A das Carreiras
 A das Lebres, Lebres
 A de Barros, A de Bairros
-A de Lede
+A de Lede, A do Ledo
 A do Baço
 A do Bispo
 A do Cavalo, A do Cavallo
-A do Corvo, Vila do Corvo, Vila do Corvo Municipality
+A do Corvo
 A do Fação
 A do Freire, Adofreire
-A do Mourão, A de Mourão, Aldeia de Mouraõ, Mourão Municipality
+A do Mourão, A de Mourão, Aldeia de Mouraõ
+A do Neves
 A do Pinto, Aldeia do Pinto
 A dos Arcos
 A dos Bispos
@@ -75,7 +78,8 @@ Abrigueiro
 Abrunheira
 Abrunheiro Grande
 Abrunhosa, Abrunhosa do Mato
-Abrunhosa-A-Velha, Abrunhoza Velha
+Abrunhosa-A-Velha
+Abrunhosa-a-Velha, Abrunhoza Velha
 Abrã
 Abunheira
 Abutreira
@@ -254,7 +258,7 @@ Albergaria Dos Doze
 Albergaria da Serra
 Albergaria das Cabras
 Albergaria dos Fusos
-Albergaria-A-Velha, Albergaria-A-Velha Municipality
+Albergaria-A-Velha, Albergaria-A-Velha Municipality, Albergaria-a-Velha
 Albergaria-a-Nova
 Albernoa, Albernoa e Trindade
 Albitelhe
@@ -3193,6 +3197,7 @@ Cavaleiros
 Cavaleiros de Baixo
 Cavalinho
 Cavalinhos
+Cavalo
 Cavalos
 Cavalões
 Caveira
@@ -3630,8 +3635,9 @@ Condados
 Conde
 Conde Foz De Arouce Vinhos
 Condeixa
-Condeixa-A-Nova, Condeixa-a-Nova Municipality
+Condeixa-A-Nova, Condeixa-a-Nova, Condeixa-a-Nova Municipality
 Condeixa-A-Velha
+Condeixa-a-Velha
 Confraria
 Confulcos
 Congeitaria
@@ -3777,6 +3783,7 @@ Corvas de Baixo
 Corveira
 Corveiros
 Corvite
+Corvo, Vila do Corvo, Vila do Corvo Municipality
 Corvos
 Corças
 Cos
@@ -4621,6 +4628,7 @@ Ferreira de Aves
 Ferreira do Alentejo, Ferreira do Alentejo Municipality
 Ferreira do Zêzere, Ferreira do Zêzere Municipality
 Ferreira-A-Nova
+Ferreira-a-Nova
 Ferreiras
 Ferreirim
 Ferreirinha
@@ -5006,7 +5014,7 @@ Freixo Seco
 Freixo da Serra
 Freixo de Baixo
 Freixo de Cima
-Freixo de Espada À Cinta, Freixo de Espada à Cinta Municipality
+Freixo de Espada À Cinta, Freixo de Espada à Cinta, Freixo de Espada à Cinta Municipality
 Freixo de Numão
 Freixoeiro
 Freixofeira
@@ -5518,6 +5526,8 @@ Ichou
 Idanha
 Idanha-A-Nova, Idanha-a-Nova Municipality
 Idanha-A-Velha
+Idanha-a-Nova, Idanha-a-Nova Municipality
+Idanha-a-Velha
 Idães
 Ifanes
 Igarei
@@ -5759,6 +5769,7 @@ Jardim da Mouraria
 Jardim da Música
 Jardim da Nossa Sra. da Boa Água
 Jardim da Praceta do Minho
+Jardim da Praça da República
 Jardim da Praça de Liège
 Jardim da Quinta Alegre
 Jardim da Quinta da Arealva
@@ -6352,6 +6363,7 @@ Lombo Meão
 Lombo da Velha
 Lombo do Carvalhão
 Lombos
+Longa
 Longomel
 Longos
 Longos Vales
@@ -7632,6 +7644,7 @@ Mourição
 Mourolinho
 Mouronho
 Mourual
+Mourão, Mourão Municipality
 Mouta
 Mouta Negra
 Moutas
@@ -9497,6 +9510,7 @@ Praia da Lavagueira
 Praia da Leirosa
 Praia da Lota
 Praia da Lourinhã
+Praia da Luz
 Praia da Légua
 Praia da Madalena
 Praia da Maiata
@@ -9969,8 +9983,9 @@ Prilhão
 Prime
 Prior Velho
 Priscos
-Proença-A-Nova, Proença-a-Nova Municipality
+Proença-A-Nova, Proença-a-Nova, Proença-a-Nova Municipality
 Proença-A-Velha
+Proença-a-Velha
 Proibido - Vinha do Pombal
 Proselo
 Prova
@@ -11201,6 +11216,8 @@ Santa Clara
 Santa Clara de Louredo
 Santa Clara-A-Nova
 Santa Clara-A-Velha
+Santa Clara-a-Nova
+Santa Clara-a-Velha
 Santa Comba
 Santa Comba Dão, Santa Comba Dão Municipality
 Santa Comba da Vilariça
@@ -12927,6 +12944,7 @@ Valdreu
 Valdrez
 Valduge
 Valdujo
+Vale
 Vale (São Cosme)
 Vale (São Martinho)
 Vale Abrigoso
@@ -13588,6 +13606,7 @@ Vila Cova de Perrinho
 Vila Cova de Tavares
 Vila Cova do Covelo
 Vila Cova À Coelheira
+Vila Cova à Coelheira
 Vila Cã
 Vila Deanteira
 Vila Facaia

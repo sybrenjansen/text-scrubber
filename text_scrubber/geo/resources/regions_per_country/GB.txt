@@ -1,13 +1,13 @@
 A' Bhuidheanach Bheag
-A' Chailleach
+A' Chailleach, Chailleach
 A' Chleit, Cleite Island
-A' Chràlaig, Cralic
+A' Chràlaig, Chralaig, Cralic
 A' Chùli, Coulie
-A' Ghlas-bheinn, Glasven
+A' Ghlas-bheinn
 A' Mhaighdean
 A' Mhaol Mhòr, Maol Mhor
 A' Mharconaich, Uircanach, Uircannach
-A'Chailleach
+A'Chailleach, Chailleach
 A'Chill
 Ab Kettleby, Abkettley
 Ab Lench, Abbots Lench
@@ -554,14 +554,14 @@ Amulree
 An Caisteal
 An Caisteal - Ben Loyal, Ben Laoghal
 An Coileachan
-An Gallanach
-An Garbh-eilean, Garbh Island, Garve Island, The Garra Island
+An Gallanach, Gallanach
+An Garbh-eilean, Garve Island, The Garra Island
 An Gead Loch
 An Gearanach
 An Grianan, Ben Dearg Mhor, Ben Dearg-mor, Ben Derg More
-An Riabhachan
-An Ruadh-stac
-An Sgarsoch
+An Riabhachan, Riabhachan
+An Ruadh-stac, Ruadh Stac
+An Sgarsoch, Sgarsoch
 An Sgùrr, Scuir of Eigg
 An Socach
 An Steidh, Steigh Island
@@ -3443,7 +3443,7 @@ Brize Norton
 Brizlincote
 Bro Garmon
 Bro Machno
-Broad Bay
+Broad Bay, Loch A Tuath
 Broad Cairn
 Broad Campden
 Broad Chalke
@@ -4136,7 +4136,7 @@ Cairnbaan, Cairnbaun
 Cairndow
 Cairness
 Cairngarroch Bay
-Cairngorm, Cairn Gorm, Cairngorum
+Cairngorm, An Càrn Gorm, Cairn Gorm, Cairngorum
 Cairngorms Mountains, Am Monadh Ruadh, The Cairngorms
 Cairngorms National Nature Reserve
 Cairngorms National Park
@@ -5923,7 +5923,7 @@ Corpach
 Corporation Island
 Corpusty and Saxthorpe
 Corr Eilean, Corr Island
-Corran, Àird Ghobhar
+Corran, An Corran, Àird Ghobhar
 Corranny
 Correen Hills
 Corrie
@@ -6023,7 +6023,7 @@ Counthorpe and Creeton
 Countisbury
 County Antrim, Antrim, Aontroim, Co. Antrim
 County Armàgh, Ard Mhacha, Armàgh
-County Down, Co. Down, Down
+County Down, An Dún, Co. Down, Down
 County Durham, DUR
 County Fermanagh, Fear Manach, Fermanagh
 County Londonderry, County Derry, Derry, Dhoire, Doire
@@ -6034,7 +6034,7 @@ County of Cheshire, Ceremonial County Cheshire, Cheshire, Chester
 County of Flintshire, FLN, Flintshire, Flintshire principal area, Sir y Fflint
 Coup Green
 Coupland
-Cour
+Cour, An Cùrr
 Cour Bay, Bàgh a' Churra
 Courance
 Court Henry
@@ -9245,6 +9245,7 @@ Garbat, Garbad
 Garbh Chioch Mhor
 Garbh Eileach, Garvelloch
 Garbh Rèisa
+Garbh-eilean, Garbh Island
 Garboldisham
 Garden City
 Garden Suburb
@@ -9394,6 +9395,7 @@ Gerrards Cross
 Gestingthorpe, Gestingthorne
 Gesto Bay
 Geàrraidh na Mònadh
+Ghlas-bheinn, Glasven
 Ghyll Head
 Gibbons Down
 Gibraltar
@@ -10384,7 +10386,7 @@ Grizebeck
 Grizedale
 Groay
 Groay Group
-Groban
+Groban, An Groban
 Groby
 Groes
 Groes-faen
@@ -14823,7 +14825,7 @@ Loch Ciaran
 Loch Claidh, Loch Clay
 Loch Cluanie, Cluanie
 Loch Clàir
-Loch Coire
+Loch Coire, Loch A Choire
 Loch Coire Làir
 Loch Coire an Lochain
 Loch Coire na Saighe Duibhe, Loch Coir-na-sidie, Loch Coire na Sith

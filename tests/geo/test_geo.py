@@ -314,20 +314,6 @@ class NormalizeCityTest(unittest.TestCase):
         self.assertEqual(normalize_city("plznoname", {"Netherlands", "CN"}), [])
         self.assertEqual(normalize_city("sophisticated name", {"Netherlands", "CN"}), [])
 
-    def test_removal_of_city_suffixes(self):
-        """
-        Suffixes ' si', ' ri' and ' dong' should be removed before matching
-        """
-        test_cities = [
-            ("wonju si", [("Wŏnju", "South Korea", 1)]),
-            ("Zhaoqing dong", [("Zhaoqing", "China", 1)]),
-        ]
-        for original, expected in test_cities:
-            country_set = {country for _, country, _ in expected}
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_city(original, country_set),
-                                 [(city, country, score) for city, country, score in expected])
-
     def test_close_match(self):
         """
         Close matches to the cities map should yield the correct city
@@ -505,21 +491,6 @@ class CleanGeoStringTest(unittest.TestCase):
             ('golub-dobrzyn', 'golub dobrzyn'),
             ('some,text', 'some text'),
             ('fort-de-france', 'fort de france')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_strip_suffixes(self):
-        """
-        Set of formal city suffixes should be removed. When it's not a suffix it should remain there
-        """
-        test_input = [
-            ('wonju si', 'wonju'),
-            ('Gimhae-Si', 'gimhae'),
-            ('Zhaoqing dong', 'zhaoqing'),
-            ('Asan ri', 'asan'),
-            ('dong ri si text', 'dong ri si text')
         ]
         for original, expected in test_input:
             with self.subTest(original=original, expected=expected):

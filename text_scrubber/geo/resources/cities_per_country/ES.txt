@@ -1,14 +1,9 @@
 A Baña
-A Cabana
-A Camba
-A Campiña, Caserío Campiña, La Campiña
-A Coruña, A Cruña, Caronium, Corunna, Corunya, Coruñako, La Coronha, La Coruna, The Groyne, Ла-Корунья
+A Coruña, A Cruña, Caronium, Corunna, Corunya, Coruña, Coruñako, La Coronha, La Coruna, The Groyne, Ла-Корунья
 A Estrada, La Estrada
 A Illa da Toxa
-A Lama
 A Pobra do Brollon, Puebla de Brollón
 A Pobra do Caramiñal, Puebla de Caramiñal, Puebla de Carminal, Puebla del Caramiñal
-A Portelá
 A Rúa
 A Seara
 Ababuj
@@ -1307,6 +1302,7 @@ Bóveda del Río Almar
 Búger, Бужер
 Cabacés
 Caballar
+Cabana
 Cabanabona
 Cabanillas de la Sierra
 Cabanillas del Campo, Кабанильяс-дель-Кампо
@@ -1428,6 +1424,7 @@ Camariñas, Camarines, Камариньяс
 Camarma de Esteruelas
 Camarzana de Tera
 Camañas
+Camba
 Cambados, Камбадос
 Cambil, Cambril
 Camboño
@@ -1455,6 +1452,7 @@ Campillos-Paravientos
 Campillos-Sierra, Campillo-Sierra
 Campins
 Campisábalos
+Campiña, Caserío Campiña
 Campo Real, Camporreal
 Campo de Caso, Caso, San Juan el Real
 Campo de Criptana, Кампо-де-Криптана
@@ -2125,7 +2123,7 @@ Cortes de Baza
 Cortes de Pallás, Cortez de Pallas
 Cortes de la Frontera
 Corullón
-Coruña del Conde, Clunia, Cluña, Crunna, Crunnia, Cruña, Curuña
+Coruña del Conde, Clunia, Cluña, Coruña, Crunna, Crunnia, Cruña, Curuña
 Corvera, Cortijo Corvera, Covera
 Corvera de Asturias, Корвера-де-Астуриас
 Cosa
@@ -3585,6 +3583,7 @@ Lagunilla
 Lagunilla del Jubera
 Laluenga
 Lalín
+Lama
 Lamas
 Lampazas
 Lanaja
@@ -3604,7 +3603,7 @@ Lanzuela
 Laperdiguera
 Lapoblación, Лапобласьон
 Lapuebla de Labarca
-Laracha
+Laracha, A Laracha
 Lardero
 Laredo
 Laroya
@@ -5134,6 +5133,7 @@ Portaje
 Portalrubio de Guadamajud
 Portas
 Portbou, Портбу
+Portela
 Portell de Morella
 Portezuelo
 Portillo, Портильо
@@ -6896,7 +6896,7 @@ Vega de Valcarce, A Veiga de Valcarce, Вега-де-Валькарсе
 Vega de Valdetronco
 Vega de Villalobos
 Vegacervera
-Vegadeo
+Vegadeo, A Veiga
 Vegalatrave
 Veganzones, Beganzones
 Vegaquemada

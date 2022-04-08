@@ -2,13 +2,13 @@ Acheng, A-ch'eng-chen, A-ch'eng-hsien, A-shih-ho, A-shih-ko, Acheng Shi, Acheng 
 Ahu, A-hu-chen, Ahu Zhen, Ahuzhen
 Aksu, A-k'o-su, A-k'o-su-chen, A-k'o-su-hsien, A-k'o-su-hsin-ch'eng, Ak Su Yangi Shahr, Akesu, Akesu Shi, Akoso, Aksou, Aksu New City, Aksu Xiang, Aqsu, Aqsu New City, Aqsu Yangi Shahr, New Aksu, Yangi-shahr, ئاقسۇ, ئاقسۇ شەھىرى, 阿克苏市
 Altay, A-erh-t'ai, A-le-t'ai, A-lo-t'ai, A-lo-t'ai-chen, A-lo-t'ai-hsien, A-shan, Aletai, Aletai Zhen, Altai, Altai-Sharasume, Ch'eng-hua, Ch'eng-hua-hsien, Ch'eng-hua-ssu, Cheng-hua-sze, Chenghwa, Chenghwasze, Chenkhua, Shara-Sumu, Sharasume, T'u-lo-t'a, Tulta, ئالتاي, ئالتاي شەھىرى, 阿勒泰, 阿勒泰市, 阿勒泰镇
-Anbu, Anbu Zhen
+Anbu, An-pu, Anbu Zhen
 Anda, An-ta, An-ta-chan, An-ta-chen, An-ta-hsien, An-ta-shih, Anda Shi, Anda Zhen, 安达镇
 Anguo, An-kou, An-ku, An-kuo, An-kuo-ch'eng, An-kuo-ch'eng-kuan, An-kuo-hsien, Ankwo, Ankwohsien, Ch'i-chou
 Anjiang, An-chiang, An-chiang-chen, Ankiang, Ch'ien-yang, Ch'ien-yang-hsien
 Ankang, An-k'ang-hsien, Ankang Xiang, Chao-shih-kou, Dadonggang, Hingan, Hinganfu, 安康乡, 安康市
 Anliu, An-liu-chen, An-liu-hsü, Anliu Zhen, Heng-liu-tu, Wongliutu, 安流镇
-Anlong, An-lung-hsien, An-lung-pu-i-tsu-miao-tsu-tzu-chih-hsien, Anlong Zhen, Hingi, Hsing-i, Nan-lung, Yü-i, 安龙镇
+Anlong, An-lung, An-lung-hsien, An-lung-pu-i-tsu-miao-tsu-tzu-chih-hsien, Anlong Zhen, Hingi, Hsing-i, Nan-lung, Yü-i, 安龙镇
 Anlu, An-lu-hsien, Te-an, Tean-fu, Teian, Teianfu
 Anmenkou, An-men-chen, An-men-k'ou-chen, Anmenkou Zhen, K'ang, K'ang-hsien, 岸门口镇
 Anning, Anning Jiedao, Anning Shi, Anning Xiang, Anning-chow, 安凝乡, 安宁市, 安宁街道, 连然镇
@@ -186,7 +186,6 @@ Chuzhou, Ch'u, Ch'u-ch'üan, Ch'u-hsien, Chuchow, Chuju shehiri, 滁州市
 Cixi, Cixi Shi, Hu-shan-chen, Hu-shan-so-ch'eng, Tz'u-ch'i, Tz'u-ch'i-chen, Tz'u-hsi, Tz'u-hsi-chen, Xushan Jiedao, 慈溪市, 浒山街道
 Cuihuangkou, Ts'ui-huang-chuang, Ts'ui-huang-k'ou
 Cuijiamatou
-Da Taoyuan, T'ao-yüan-hsü, T'ao-yüan-ts'un, Tao-yüen, Taoyuan Huizu Xiang, Taoyuan Jiedao, Taoyuan Xiang, Taoyuan Zhen, 桃园乡, 桃园街道, 桃园镇, 桃源回族乡
 Da'an, Da'an Xiang, Da'an Zhen, Daan'i, Ta-an, Ta-an-chen, Ta-an-hsü, Ta-an-i, Ta-an-pa, Ta-an-shan, Ta-an-ts'un, Ta-lung-an, Ta-wu, Ta-wu-hsü, Taanchen, Taanyi, Taion, 大安乡, 大安镇
 Daba, Daba Xiang, Daba Zhen, Han-chü-p'u, Han-pa-pao, Khan'tszyuypu, Ta-pa, Ta-pa-hsü, Ta-pa-pao, Ta-sha-pa, 大八镇, 大坝乡
 Dabachang, Ta-pa-ch'ang
@@ -860,7 +859,7 @@ Loudi, Lou-ti, Lou-ti-chen, Lou-ti-shih, Loudi Xiang, 娄堤乡, 娄底市
 Loushanguan, Loushanguan Zhen, T'ung-tzu, T'ung-tzu-ch'eng, T'ung-tzu-hsien, Tongzi Xian, Tungtze, Tungtze-hsien, 娄山关镇, 桐梓县
 Lu'an, Liu-an, Liu-an-hsien, Liuanchow, Lu'an Shi, 六安市
 Luancheng, Chiu-yung-shun, Luan-chen, Wingshun, Wingshun-hsien, Wingsun, Yang-shua, Yunchun, Yung-shun, Yung-shun-hsien
-Luocheng, Han-chou, Hanchow, Huei-an, Hui-an-hsien, Hweian, Hweianhsien, Kuang-han, Kuang-han-hsien, Kwanghan, Kwanghan-hsien, Lo-ch'eng, Lo-ch'eng Hsien, Lo-ch'eng-chen, Lo-ch'eng-p'u, Lo-ting-hsien, Loshing-hsien, Lotingchow, Luocheng Jiedao, Luocheng Mulamzu Zizhixian, Luocheng Mulaozu Zizhixian, Luocheng Xian, Luocheng Xiang, Luocheng Zhen, 洛城街道, 罗城乡, 罗城仫佬族自治县, 罗城镇
+Luocheng, Han-chou, Hanchow, Huei-an, Hui-an-hsien, Hweian, Hweianhsien, Kuang-han, Kuang-han-hsien, Kwanghan, Kwanghan-hsien, Lo-ch'eng, Lo-ch'eng Hsien, Lo-ch'eng-chen, Lo-ch'eng-p'u, Lo-ting, Lo-ting-hsien, Loshing-hsien, Lotingchow, Luocheng Jiedao, Luocheng Mulamzu Zizhixian, Luocheng Mulaozu Zizhixian, Luocheng Xian, Luocheng Xiang, Luocheng Zhen, 洛城街道, 罗城乡, 罗城仫佬族自治县, 罗城镇
 Luohe, Lo-he, Lo-ho, Lo-ho-chai, Lo-ho-chieh, Lo-ho-shih, Luohe Xiang, Luohe Yizuxiang, Luohe Zhen, T'a-ho, T'a-ho-chai, 洛河乡, 洛河彝族乡, 洛河镇, 漯河市
 Luojiang, Lo-chiang, Lo-chiang-chen, Lo-chiang-hsien, Lo-chiang-k'ou, Lokiang, Lokiang-hsien, Lotszyan, Lotszyankou, Luojiang Xiang, Luojiang Zhen, Luojiangkou, Luojiangxu, 洛江镇, 罗江乡, 罗江圩
 Luojiu, Lo-chiu
@@ -930,7 +929,7 @@ Min'ancun, Min-an-chen
 Minggang, Ming-chiang, Ming-kang, Minggang Zhen, Mingkiang, Mintszyan, 明港镇
 Mingguang, Chia-shan, Chia-shan-hsien, Ming-kuang, Ming-kuang-chen, Mingkwang
 Mingshui, Chang-ch'iu, Hsing-lung-chen, Meng-shui, Ming-shui-chen, Ming-shui-hsien, Mingshui Manzuxiang, Mingshui Xian, Mingshui Xiang, Mingshui Zhen, Mingshuy, Yao-shui-shan-k'ou, 明水乡, 明水县, 明水满族乡, 明水镇
-Mingyue, An-t'u-hsien, Antuzhan, Ming-yüeh, Ming-yüeh-ch'ang, Ming-yüeh-chen, Ming-yüeh-kou, Ming-yüeh-kou-chen, Mingyue Xiang, Mingyuechang, Weng-sheng-la-tzu, 明月乡
+Mingyue, An-t'u, An-t'u-hsien, Antuzhan, Ming-yüeh, Ming-yüeh-ch'ang, Ming-yüeh-chen, Ming-yüeh-kou, Ming-yüeh-kou-chen, Mingyue Xiang, Mingyuechang, Weng-sheng-la-tzu, 明月乡
 Minhe, Chin-hsien, Chin-hsien-hsien, Chin-hsien-hsien-ch'eng, Kou-ya-ch'ang, Minhe Xiang, Minhexiang, Tsinsien, Tsinsienhsien
 Minning, Minning Zhen, 闽宁镇
 Minzhu, Chiacho, Chiao-ho, Chiao-ho-chen, Chiao-ho-hsien, Kiaoho, Min-chu, Minzhu Jiedao, Minzhu Xiang, Minzhu Zhen, O-mu-hsien, Omu, Ta-chiao-ho, Tachiaho, Taiwang, Taiwang Xiang, Taiwang Zhen, Takiaoho, 太王乡, 太王镇, 民主乡, 民主街道, 民主镇
@@ -1074,7 +1073,7 @@ Qingshui, Ch'ing-shui, Ch'ing-shui-ch'üan, Ch'ing-shui-ch'üan-pao, Ch'ing-shui
 Qingshuping, Ch'ing-shu-p'ing, Tsingshuping
 Qingtuozi
 Qingxi, Ch'ing-ch'i, Ch'ing-ch'i-ch'ang, Ch'ing-ch'i-chen, Ch'ing-ch'i-hsü, Ch'ing-ch'i-t'ang, Ch'ing-hsi, Ch'ing-hsi-ch'ang, Ch'ing-hsi-chen, Ch'ing-hsi-hsü, Choulin, Qingxi Xiang, Qingxi Zhen, Qingxiqiao, Qingxizhen, Shang-ch'ing-ch'i, Tsintsi, Tsyang-kai, 清溪乡
-Qingyang, Anzhenba, Ch'ing-yang, Ch'ing-yang-ch'eng-t'un, Ch'ing-yang-chen, Fu-shan-hsien, Fushan Qu, P'ing-shun-hsien, Pingshun Xian, Pinshun', Qingyang Jiedao, Qingyang Zhen, Ssu-huang, Ssu-hung, 平顺县, 庆阳镇, 清洋街道, 福山区
+Qingyang, An-chen, Anzhenba, Ch'ing-yang, Ch'ing-yang-ch'eng-t'un, Ch'ing-yang-chen, Fu-shan-hsien, Fushan Qu, P'ing-shun-hsien, Pingshun Xian, Pinshun', Qingyang Jiedao, Qingyang Zhen, Ssu-huang, Ssu-hung, 平顺县, 庆阳镇, 清洋街道, 福山区
 Qingyuan, Ch'ing-hsü, Ch'ing-hsü-hsien, Ch'ing-yüan, Ch'ing-yüan-ch'eng, Ch'ing-yüan-chen, Ch'ing-yüan-hsien, Nan-ta-jan, Nandaran, Pa-chia-chen, Qingxu Xian, Qingyuan Xiang, Qingyuan Zhen, Sükowhsien, T'sinyuan', Tianxin Qu, Tsingyuan, Tsingyüanhsien, Tsingyün, Tsingyünhsien, Veyyuan', Wei-yüan-hién, Wei-yüan-hsien, Weiyuan Xian, 天心区, 庆元乡, 庆远镇, 清徐县, 清远市, 渭源县
 Qingzhou, Ch'ing-chou, I-tu, I-tu-hsien, Qingzhou Xiang, Qingzhou Zhen, Tsingchow, Tsingchowfu, 青州乡, 青州镇
 Qinhuangdao, Ch'in-huang-tao, Ch'in-huang-tao-shih, Ching Wang Tao, Chinwangtao, Chinxuangdaw shehiri, 秦皇岛市
@@ -1297,6 +1296,7 @@ Tanxi, T'an-ch'i, T'an-hsi, Tanxi Jiedao, Tanxi Xiang, Tanxi Zhen, 坦溪镇, �
 Taolin, T'ao-lin-chen, T'au-lin-p'u, Tao-hua-chen
 Taoluo, T'ao-lo, T'ao-lo-chen, Taolekow
 Taoying, T'ao-ying-ch'ang, Taoyang chang
+Taoyuan, T'ao-yüan-hsü, T'ao-yüan-ts'un, Tao-yüen, Taoyuan Huizu Xiang, Taoyuan Jiedao, Taoyuan Xiang, Taoyuan Zhen, 桃园乡, 桃园街道, 桃园镇, 桃源回族乡
 Taozhuang, Pei-t'ao-hsü, T'ao-chuang, T'ao-chuang-chen, Taozhuang Zhen, 陶庄镇
 Tashan, T'a-tzu-shan
 Tatou, Ta-t'ou, Tatou Zhen, 塔头镇
@@ -1401,7 +1401,7 @@ Wuzhen, T'ung-hsiang, Wu-chen, Wuzhen Zhen, 乌镇镇
 Wuzhou, Ngouzcouh, Ts'ang-wu, Ts'ang-wu-hsien, Wu-chou, Wu-chou-shih, Wuchow, 梧州市
 Xi'an, Ch'ang-an, Ch'ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-li, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, Si-Gan-Fu, Sianfu, Siking, Singan, Xi'an Shi, Xi'an Xiang, Xi'an Zhen, Xi'andeng, Xi'anjieban, شىئەن شەھىرى, 西安乡
 Xi'ancun, An-ch'eng, Hsien-ts'un, Hsien-ts'un-hsü, Lianhuayicun, Xiancun Xiang, 贤村乡
-Xi'nan, An-hsin, Anxin, Dong'an Qu, Gouli Zhen, Guannan, Hsi-hsiang, Hsi-nan, Hsin-an-chen, Hsin-an-chi, Hsin-an-hsien, Hsin-an-ts'un, Kuan-nan, Lai-an-hsien, Nan-an, Pa-tzu-pu-lung, Saiheung, Sin'an'chzhen', Sinanchen, Xin'an Chaoxianzu Zhen, Xin'an Jiedao, Xin'an Xiang, Xin'an Zhen, Xin'anzhou, 东安区, 勾里镇, 新安乡, 新安朝鲜族镇, 新安街道, 新安镇
+Xi'nan, An-hsin, Anxin, Dong'an Qu, Gouli Zhen, Guannan, Hsi-hsiang, Hsi-nan, Hsin-an, Hsin-an-chen, Hsin-an-chi, Hsin-an-hsien, Hsin-an-ts'un, Kuan-nan, Lai-an-hsien, Nan-an, Pa-tzu-pu-lung, Saiheung, Sin'an'chzhen', Sinanchen, Xin'an Chaoxianzu Zhen, Xin'an Jiedao, Xin'an Xiang, Xin'an Zhen, Xin'anzhou, 东安区, 勾里镇, 新安乡, 新安朝鲜族镇, 新安街道, 新安镇
 Xiabaishi, Hsia-pai-shih, Pai-shih
 Xiacang, Hsia-ts'ang, Hsia-ts'ang-chen, Xiacang Zhen, 下仓镇
 Xiahu, Hsia-hu, Hsia-liu

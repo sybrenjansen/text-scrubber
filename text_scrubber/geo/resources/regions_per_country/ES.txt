@@ -11,7 +11,10 @@ A Barqueira
 A Barra
 A Bola, La Bola
 A Broza, La Broza
+A Cabana
 A Calle
+A Camba
+A Campiña
 A Canda, Barrio La Canda, La Canda
 A Caridade
 A Casanova
@@ -21,25 +24,26 @@ A Coruña, Corunna, La Coruña, The Groyne
 A Costa
 A Cuqueira
 A Eira Pedriña
-A Esfarrapada
+A Esfarrapada, Esfarrapada
 A Ferreirúa, La Ferreira
 A Formiga
 A Frieira
 A Golada
-A Graña, Fraña, Santa María Magdalena
+A Graña
 A Groba de Abaixo
 A Groba de Arriba
 A Guarda, La Guardia
 A Gudiña, La Gudiña, San Martín y San Pedro de La Gudiña
-A Gándara, Gandra
+A Gándara
 A Igrexa
 A Illa da Toxa, Isla de la Toja
 A Lagoa
+A Lama
 A Lamela
-A Lanzada, La Lanzada
+A Lanzada, La Lanzada, Lanzada
 A Lavandeira
 A Lobagueira
-A Madalena, La Madalena
+A Madalena, La Madalena, Madalena
 A Malata
 A Mariña
 A Marola, Pena da Marola
@@ -48,10 +52,12 @@ A Merca
 A Mezquita
 A Palma
 A Pasaxe
+A Pena
 A Peneda
 A Peroxa, San Eusebio, San Ginés
 A Pobla
 A Ponte
+A Portelá
 A Proba
 A Ramallosa
 A Riba
@@ -65,7 +71,7 @@ A Treita
 A Trousa
 A Uz
 A Valenza
-A Veiga, San Adrian de Viega, San Adrián de Veiga, San Silvestre, Viega
+A Veiga
 A Veiga de Cascallá
 A Veiguiña, La Veguiña, Veguiña
 A Vila Vella
@@ -303,6 +309,7 @@ Agoncillo, Агонсильо
 Agones
 Agorreta
 Agost
+Agra
 Agrade
 Agramunt, Аграмун
 Agramón
@@ -1913,7 +1920,8 @@ Arnera
 Arnes
 Arneva, Caserío Arneva
 Arnizo
-Arnoia A, Arnoya
+Arnoia, A Arnoia, Arnoya
+Arnoia A
 Arnois
 Arnoso
 Arnuero
@@ -3974,6 +3982,7 @@ Boizán
 Bojar, Bokar, El Boixar
 Bojes
 Bojo
+Bola A
 Bolado
 Bolarque, Caserío Bolarque
 Bolaños de Calatrava
@@ -5374,7 +5383,8 @@ Caparacena
 Caparroso
 Capdepera
 Capdesaso
-Capela A, Caserío Capela
+Capela, Caserío Capela
+Capela A, A Capela
 Capelada
 Capella
 Capellades, Капельядес
@@ -5716,6 +5726,7 @@ Casalarreina
 Casalgordo
 Casamaría
 Casamorí
+Casanova
 Casapapío
 Casaquemada
 Casar El
@@ -6425,6 +6436,7 @@ Cañete de las Torres
 Cañete la Real
 Cañicera
 Cañillo Park
+Cañiza A
 Cañizal
 Cañizal de Rueda
 Cañizar
@@ -7648,6 +7660,7 @@ Coso
 Cospedal
 Cospeito
 Cospindo
+Costa
 Costa Adeje
 Costa Blanca
 Costa Brava, Коста-Брава
@@ -9695,6 +9708,7 @@ Estopiñán del Castillo
 Estorde
 Estorninos
 Estoupelo
+Estrada
 Estrada A
 Estrasburgo
 Estraxiz
@@ -11147,6 +11161,7 @@ Graus
 Graya, La Graya
 Grazalema
 Grazanes
+Graña, Fraña, Santa María Magdalena
 Graña de Guiar
 Grañanova
 Grañas
@@ -11265,6 +11280,7 @@ Guayedra
 Guaza
 Guaza de Campos
 Gudillos, Caserío Gudillos
+Gudiña A
 Gudugarreta
 Gudín
 Gueima, Gucima
@@ -11362,6 +11378,7 @@ Gáldar
 Gález
 Gálvez
 Gáname
+Gándara, Gandra
 Gárgoles de Abajo
 Gárgoles de Arriba
 Gátova
@@ -12011,6 +12028,7 @@ Illa d'Eivissa, Eivissa, Ивиса
 Illa d'en Porros
 Illa d'en Salas
 Illa das Serralleiras, Islas Serralleiras, Las Serralleiras
+Illa de Arousa
 Illa de Arousa A
 Illa de Buda
 Illa de Cabrera, Isla de Cabrera
@@ -13291,7 +13309,7 @@ La Ortigosa, Cortijo La Ortigosa
 La Ovejera
 La Overuela
 La Paca
-La Palma, Isla de La Palma, La Isla de San Miguel de La Palma, La Palma Island
+La Palma, Isla de La Palma, La Isla de San Miguel de La Palma, La Palma Island, Palma
 La Palma de Ebro
 La Palmilla-Doctor Marañon
 La Paloma, Caserío la Paloma, Venta de la Paloma
@@ -13655,6 +13673,7 @@ Lago de Sanabria, Laguna de Sanabria
 Lago de Urdiceto, Lago Urditeto
 Lago de la Ercina, Lago de la Encina
 Lago de la Plana
+Lagoa
 Lagos Penélope Cruz
 Lagostelle
 Lagrán
@@ -13789,6 +13808,7 @@ Lamasón
 Lamata
 Lambuena
 Lamedo
+Lamela
 Lamiana
 Lamindao, Lamindano
 Lamisqueira
@@ -14310,6 +14330,7 @@ Lauría
 Lauztierreka
 Lavacolla
 Lavadores, Lavadoves, Santa Cristina de Afuera
+Lavandeira
 Lavandelo
 Lavandera
 Lavapanos
@@ -15869,6 +15890,7 @@ Marieta
 Marigenta
 Marimingo, Caserío Marimingo, Cortijo de Marimingo
 Marimínguez
+Marina
 Marina Coruña
 Marina De Cala D'Or
 Marina San Miguel
@@ -16409,6 +16431,7 @@ Menàrguens
 Meoz
 Mequinenza
 Meranges, Maranges
+Merca A
 Mercadillo
 Mercantil Marín Perona
 Mercurín
@@ -18904,7 +18927,7 @@ Pallide
 Palm-Mar
 Palma Port, Palma Ferry Port, Palma Harbour, Puerto Palma
 Palma de Gandía
-Palma de Mallorca, Palma Mallorcakoa
+Palma de Mallorca, Palma, Palma Mallorcakoa
 Palma del Condado La
 Palma del Río
 Palmanova beach
@@ -19863,6 +19886,7 @@ Pendones
 Pendosén
 Pendueles
 Pendás
+Peneda
 Penedo
 Penela
 Penelles
@@ -19982,6 +20006,7 @@ Perona
 Peroniel del Campo
 Perorrubio
 Perosillo
+Peroxa A
 Perrelas
 Perrelos
 Perros
@@ -21468,7 +21493,7 @@ Poboleda
 Pobra de San Xulián, Pobra de San Xiao, Puebla de San Julián
 Pobra de Trives A
 Pobra do Brollón A, Puebla de Brollón
-Pobra do Caramiñal
+Pobra do Caramiñal, A Pobra do Caramiñal
 Pocacivera, Caserío de Bocacivera, Cortijo Pocacivera
 Pocetas
 Pocito Santo
@@ -21547,6 +21572,7 @@ Pont Martí
 Pont d'Arrós
 Pont d'Inca, Caserío Pont d'Inca
 Pont de Molins
+Ponte
 Ponte Caldelas
 Ponte Nova
 Ponte da Boga
@@ -22056,7 +22082,7 @@ Provencio El
 Province of Asturias, Principado de Asturias, Provincia de Asturias, Província d'Astúries
 Province of Córdoba, Kordoba, Provincia de Córdoba, Província de Còrdova
 Province of Toledo, Provincia de Toledo
-Provincia da Coruña, La Coruña, Provincia de La Coruña
+Provincia da Coruña, La Coruña, Provincia de La Coruña, Província d'A Coruña
 Provincia de Albacete
 Provincia de Alicante, Alacant, Alacante, Province of Alicante, Província d'Alacant
 Provincia de Badajoz
@@ -22825,6 +22851,7 @@ Rales
 Ralí
 Ramacastañas
 Ramales de la Victoria
+Ramallosa
 Rambla La
 Rambla Matanza, Casas Rambla Matanza, Molino de la Matanza
 Rambla Seca, Caserío Rambla Seca
@@ -23192,6 +23219,7 @@ Riatas, Barrio Riatas
 Riaza
 Riaño
 Riaño de Ibio
+Riba
 Riba de Escalote La
 Riba de Neira
 Riba de Saelices
@@ -23753,6 +23781,7 @@ Rípodas
 Ródenas
 Róquez, Caserío Roquez
 Rótova
+Rúa
 Rúa A
 Rúanales
 Rúerrero
@@ -23881,6 +23910,7 @@ Salbatore
 Salbe
 Salbide
 Salce
+Salceda
 Salceda de Caselas, Salceda de Casetas
 Salcedillo
 Salcedo, San Martín de Afuera
@@ -25294,6 +25324,7 @@ Saúca
 Scouts de Castilla y León Park
 Seadur
 Seana
+Seara
 Seares
 Seavia
 Seaza
@@ -26674,6 +26705,8 @@ Teimende
 Teira
 Teis
 Teix, Casas Teix, Teix de Arriba
+Teixeira
+Teixeira A
 Teixeiro, Barrio de Rincón
 Teixido
 Teixidón
@@ -27030,6 +27063,7 @@ Torralba del Pinar
 Torralba del Río
 Torralbilla
 Torraño
+Torre
 Torre Alháquime
 Torre Alta, Caserío de Torrealta
 Torre Asensio, Caserío Torre Asensio, Masia de Asensio
@@ -28628,6 +28662,8 @@ Veguillas de la Sierra
 Vehinat de Cerdans, Caserío Vehinat de Cerdans
 Vehinat de Esclet, Caserío Esclet, Caserío de Esclet
 Vehinat de Lliors, Caserío Vehinat de Lliors
+Veiga, San Adrian de Viega, San Adrián de Veiga, San Silvestre, Viega
+Veiga A
 Veiga de Donas
 Veiga del Seijo
 Veigamuiños

@@ -486,6 +486,7 @@ Abdullah Umrani
 Abdullah Wadho
 Abdullah ji Goth
 Abdullah jo Tar
+Abdullah-di-Basti
 Abdullaha Akbar
 Abdullahabad, Ibrāhīm Kalle
 Abdullahka Dera
@@ -1394,7 +1395,6 @@ Ahmad da Kot
 Ahmad da Pump
 Ahmad da Wān
 Ahmad di Bhaidi
-Ahmad di Wan
 Ahmad ji Dhani
 Ahmad ji Tarai
 Ahmadabad Colony, Menhthli
@@ -1794,13 +1794,12 @@ Akhun Baba Kalle
 Akhun Baba Ziarat
 Akhun Baihk
 Akhun Banda
-Akhun Bandi, Bāndi Akhun
 Akhun Jan
 Akhun Kalle, Akhun Kalai
 Akhun Khel Baihk
 Akhun Kot
 Akhun Serai
-Akhun di Bandi, Akhunbāndi
+Akhun di Bandi, Akhunbāndi, Bāndi Akhun
 Akhund Baba Ziarat
 Akhund Fazal Siddia
 Akhund Mulla Malli Ziarat, Akhund Sahib
@@ -3090,7 +3089,7 @@ Amar Singhwāla
 Amarkot
 Amarno
 Amaro
-Amarpur
+Amarpur, Chak Twenty-three A South Branch
 Amarpura
 Amarwala, Imān
 Amarzai
@@ -3793,8 +3792,9 @@ Araf Shah Kili
 Araf Thebo
 Arahinianwali
 Araian
-Araian Di Basti, Basti Gagra, Raiyān di Basti
+Araian Di Basti, Raiyān di Basti
 Araian da Dera
+Araian di Basti, Basti Gagra
 Araian di Bhaini
 Araianwala Dera
 Araianwala Khu, Basti Nārang
@@ -5215,6 +5215,7 @@ Babrali
 Babralo
 Babran, Bābrāni
 Babran Di Basti
+Babran di Basti
 Babrand
 Babrano
 Babranwala, Babren
@@ -7310,6 +7311,7 @@ Balochabad
 Balochan Di Basti
 Balochan Petab
 Balochan Sagar
+Balochan di Basti
 Balochan di Bhaini
 Balochani
 Balochanwala
@@ -7380,11 +7382,13 @@ Balucha
 Baluchabad, Chāh Redwāla, Garhi Balūchābād
 Baluchabad Colony
 Baluchan Band Koh
-Baluchan Da Dera, Kachi Dal
+Baluchan Da Dera
 Baluchan De Dere
-Baluchan Di Basti, Kotla Balochān, Kotle Baluchān
+Baluchan Di Basti
 Baluchan Di Bherem
 Baluchan Wattu, Balocha Watto, Balochan Wattu
+Baluchan da Dera, Kachi Dal
+Baluchan di Basti, Kotla Balochān, Kotle Baluchān
 Baluchan di Bhaini
 Baluchan di Bhani
 Baluchani Kash
@@ -7580,6 +7584,7 @@ Band Babu Nabi
 Band Baihk, Gaiwala Pathri
 Band Banda
 Band Da Dahar, Khetewāla Dahar
+Band Dahar
 Band Gulab
 Band Jhutti
 Band Ka Shahr, Mahmūd Burra, Mahmūd Burro
@@ -9923,7 +9928,6 @@ Basti Bhatian
 Basti Bhattai, Basti Bhattiāu
 Basti Bhattar
 Basti Bhatti
-Basti Bhattian di
 Basti Bhattianwala
 Basti Bhattiān, Basti Bhuddiān, Basti Bhuttiānwāli
 Basti Bhattiānwāli
@@ -10077,8 +10081,7 @@ Basti Chandey
 Basti Chandi, Basti Chānde
 Basti Chandi Farzand Ali, Basti Chaudhry Ferzand Ali
 Basti Chandi Khan
-Basti Chandian, Basti Chāndiānwāli, Basti Chāniān
-Basti Chandian di
+Basti Chandian di, Basti Chāndiānwāli, Basti Chāniān
 Basti Chandiawali
 Basti Chandiawāla
 Basti Chandio
@@ -10792,7 +10795,6 @@ Basti Habibabad Mastoi
 Basti Haderan
 Basti Hadwar
 Basti Hadyāna
-Basti Hafiz
 Basti Hafiz Abdul Rehman
 Basti Hafiz Bashir
 Basti Hafiz Iqbal
@@ -11291,7 +11293,7 @@ Basti Jani Shah
 Basti Janjhay
 Basti Janjuya
 Basti Jano Gogang, Yār Muhammad Khoja
-Basti Janran, Basti Janrān di
+Basti Janran
 Basti Janta
 Basti Jar
 Basti Jarad
@@ -12876,7 +12878,7 @@ Basti Phullo Khalti
 Basti Phulo Khambra, Basti Phuin Khambra, Chakkar Gopāng
 Basti Piara, Basti Pāi
 Basti Pidri
-Basti Pilan, Basti Pāoliān
+Basti Pilan
 Basti Pildar Punjabi
 Basti Pilo
 Basti Pind
@@ -13311,7 +13313,7 @@ Basti Sanjhrin, Bedāniwāla
 Basti Sanjrani, Sanjrāni Baloch
 Basti Sanjrani Baluch, Basti Sanjrāni Baloch
 Basti Sanpal
-Basti Sapair Khan, Chāng di Basti
+Basti Sapair Khan
 Basti Sarai
 Basti Saraian, Basti Sarājan
 Basti Saraj Din
@@ -13697,7 +13699,7 @@ Basti Tarkhanan Wali, Basti Tarkhānnwāli, Basti Tarkhānānwāli
 Basti Tarkhananwali
 Basti Tarkhanwala, Basti Thakrāl
 Basti Tarkhanwali
-Basti Tarkhān, Basti Dhorākharān, Tarkhān Basti
+Basti Tarkhān, Basti Dhorākharān
 Basti Tarki, Basti Taraki
 Basti Tarpri, Jām Mewa
 Basti Tarpur, Tārpur
@@ -15800,6 +15802,7 @@ Bhattian Nur Din
 Bhattian da Khu
 Bhattian da Kot
 Bhattian de Jhugge
+Bhattian di Basti
 Bhattian di Bhaini
 Bhattian ji Veri
 Bhattian ki Bhaini
@@ -19839,7 +19842,7 @@ Chak
 Chak - Two, Bage ka Chak, Bagga Gharbi, Chorera, Kāni Wairer
 Chak 11 ML
 Chak 11/8R, 11/8R چک نمبر, Chak Eleven-Eight R
-Chak 234-A Thal Development Authority
+Chak 234-A Thal Development Authority, Chak 234 A, Chak Two Hundred Thirty-Four A
 Chak 234-B Thal Development Authority
 Chak 270/H-R
 Chak 282 Gogera Branch, Chak Shahamad, Shāhamand
@@ -20079,12 +20082,13 @@ Chak Ehsanwala
 Chak Eight, Anandgarh, Bāga Singh, Husain Khānwāla, Hussain Khānuwāla, Kot Nizāmdīn, Sethānwāla
 Chak Eight -Four Left
 Chak Eight -Fourteen Left, Janūbi
-Chak Eight -One A Left
+Chak Eight -One A Left, Chak Eight-One A L
 Chak Eight -One Right
 Chak Eight / Three Left, Chak Eight-Three L
-Chak Eight A Bahawal Canal, Patdānwala, Shakurwala
+Chak Eight A Bahawal Canal, Chak Eight A, Patdānwala, Shakurwala
 Chak Eight A Janubi
 Chak Eight A-Eight R
+Chak Eight Bahawal Canal
 Chak Eight Bhatta
 Chak Eight D
 Chak Eight Dera Nawab Branch, Chak Eight DNB
@@ -20104,6 +20108,7 @@ Chak Eight Rest House
 Chak Eight Right, Būra Katla, Būra Kotia, Chak Eight R, Sangoka
 Chak Eight Tarpai, Chak Eight MR
 Chak Eight Western Bank, Chak Eight-Four P
+Chak Eight- Eight Right, Chak Eight-Eight R
 Chak Eight- Nine Right, Bhābi Karāra, Chak Eight-Nine R, Chak Six - Nine Right, Kasbai, Kasbal
 Chak Eight-One L
 Chak Eight/Sixty, Chak Eight and Sixty-three
@@ -20114,14 +20119,16 @@ Chak Eighteen - Three Right
 Chak Eighteen -Fourteen Left
 Chak Eighteen -Gogera Distributary
 Chak Eighteen -One A Left, Chak Eighteen-One A L
+Chak Eighteen -One Left, Chak Eighteen-One L
 Chak Eighteen -One Right
-Chak Eighteen A Dolewala Branch, Chak Eighteen DB
+Chak Eighteen A Dolewala Branch
 Chak Eighteen A Tukra, Tukra
 Chak Eighteen Alaf
 Chak Eighteen B Seven Right, Chak Eighteen B-Seven R
 Chak Eighteen Bahawal Canal, Chak Eighteen BC
 Chak Eighteen DNB
 Chak Eighteen Dara Nawab Branch, Chak 18 D N B
+Chak Eighteen Dolewala Branch, Chak Eighteen DB
 Chak Eighteen Eastern Bar
 Chak Eighteen Eleven Left, Yāqūbpur
 Chak Eighteen Gajjani
@@ -20167,7 +20174,7 @@ Chak Eighty-eight - Five Right
 Chak Eighty-eight -Fifteen Left, Bharwanianwāla, Dalbir Bharwāna
 Chak Eighty-eight -Six Right, Neki Rāmwāla, Nekiwāla, Rotkiānwāla
 Chak Eighty-eight -Twelve Left
-Chak Eighty-eight A Ten Right
+Chak Eighty-eight A Ten Right, Chak Eighty-Eight A
 Chak Eighty-eight D, Gope Rāwān
 Chak Eighty-eight Desert Branch, Chak Eighty-eight D B
 Chak Eighty-eight Desert Branch Janubi, Chak Eighty-eight D B Janūbi
@@ -20179,6 +20186,7 @@ Chak Eighty-eight Jhang Branch, Hasiāna
 Chak Eighty-eight ML
 Chak Eighty-eight North Panjnad
 Chak Eighty-eight South Branch, Chak Eighty-eight SB
+Chak Eighty-eight Ten Right
 Chak Eighty-eight Thal Development Authority, Chak 88 TDA, Chak Eighty-Eight TDA
 Chak Eighty-eight Western Branch
 Chak Eighty-five, Leilānwāla, Lil Dhāliwāl
@@ -20208,6 +20216,7 @@ Chak Eighty-four A Fateh
 Chak Eighty-four B - Five Right
 Chak Eighty-four D
 Chak Eighty-four Eastern Bar
+Chak Eighty-four Fateh
 Chak Eighty-four Gugera Branch, Faujipura, Faujpur, Faujpura
 Chak Eighty-four Jakh Branch, Sar Shamīr Road
 Chak Eighty-four ML
@@ -20215,10 +20224,11 @@ Chak Eighty-four Shumali, Chak Eighty-four NB
 Chak Eighty-four South Branch
 Chak Eighty-four Ten Right
 Chak Eighty-four WB
+Chak Eighty-nine, Chukera, Imāmpura
 Chak Eighty-nine -Fifteen Left, Ludhrānwāla, Rabkot
 Chak Eighty-nine -Six Right
 Chak Eighty-nine -Twelve Left, Shāhjahānābād
-Chak Eighty-nine A, Chukera, Imāmpura
+Chak Eighty-nine A
 Chak Eighty-nine B
 Chak Eighty-nine C
 Chak Eighty-nine D
@@ -20268,6 +20278,7 @@ Chak Eighty-seven Thal Development Authority, Chak 87 TDA, Chak Eighty-Seven TDA
 Chak Eighty-six - Five Right
 Chak Eighty-six -Nine Left
 Chak Eighty-six -Six Right
+Chak Eighty-six -Twelve Left
 Chak Eighty-six A -Twelve Left, Chak Eighty-six A-Twelve L
 Chak Eighty-six A ML, Chak 86 TDA, Chak Eighty-Six TDA
 Chak Eighty-six D
@@ -20277,6 +20288,7 @@ Chak Eighty-six Fateh
 Chak Eighty-six Gugera Branch
 Chak Eighty-six Jhang Branch, Dholmajra, Dhul Mājra
 Chak Eighty-six M
+Chak Eighty-six ML
 Chak Eighty-six North Branch, Chak 86 NB, Kot Baharat
 Chak Eighty-six Panjnad, Chak Eighty-Six NP
 Chak Eighty-six Rakh Branch, Bāruhi, Gandhra, Gandrān, Langūwāl Bārohi
@@ -20320,10 +20332,11 @@ Chak Elahi Bakhsh, Chak Ilāhi Bakhsh
 Chak Elahi Fazal Shah, Lahi Fazal Shāh, Lai Fazal Shah
 Chak Eleven, Abdul Sattārwāla, Lāl Masunda, Sahjowāl, Satān
 Chak Eleven - One Right
-Chak Eleven -Eight A Right, Chak Eleven-Eight R, Mithra Khel
+Chak Eleven -Eight A Right
 Chak Eleven -Four Left
 Chak Eleven -Fourteen Left, Shamali
 Chak Eleven -One A Left, Chak Eleven-One A L
+Chak Eleven -One Left, Chak Eleven-One L
 Chak Eleven -Three Left
 Chak Eleven B- Eight Right, Atāpur, Chak Eleven B-Eight R
 Chak Eleven Bahawal Canal
@@ -20359,6 +20372,7 @@ Chak Eleven T
 Chak Eleven Thal Development Authority
 Chak Eleven Western Bank, Chak Eleven-Eight L
 Chak Eleven and Sixty-three
+Chak Eleven- Eight Right, Chak Eleven-Eight R, Mithra Khel
 Chak Eleven-Gugera Distributary, Kālapur
 Chak Eleven/Sixty-four
 Chak Faiq
@@ -20380,6 +20394,7 @@ Chak Fifteen - Four Left, Chak Fifteen Four L
 Chak Fifteen -Eight B Right
 Chak Fifteen -Gogera Distributary
 Chak Fifteen -One A Left, Chak Fifteen-One A L
+Chak Fifteen -One Left, Chak Fifteen-One L
 Chak Fifteen -One Right
 Chak Fifteen -Twelve Left
 Chak Fifteen BMB
@@ -20409,16 +20424,18 @@ Chak Fifteen and Sixty-three
 Chak Fifteen- Eight Right, Muhammadpur Galcharān, Muhammadpur Gokhrān
 Chak Fifteen- Nine Right, Chak Fifteen-Nine R, Kāla Wāhai
 Chak Fifteen/Sixty-seven
+Chak Fifty, Chhata Tiwāna, Sūr Singh
 Chak Fifty - Five Left, Chak Fifty Five L, Raklo
 Chak Fifty -Three Right, Pīr Sachiār
 Chak Fifty -Twelve Left
 Chak Fifty -Two Left
-Chak Fifty A, Chhata Tiwāna, Sūr Singh
-Chak Fifty A Desert Branch, Chak Fifty A D B, Chak Fifty D B Gharbi, Chak Fifty DB
-Chak Fifty A-Two, Chakki Muzaffar Shāh, Dera Gindalwāla
+Chak Fifty A
+Chak Fifty A Desert Branch, Chak Fifty A D B
+Chak Fifty A-Two
 Chak Fifty B, Sethiāla
 Chak Fifty B - Four Right
 Chak Fifty D
+Chak Fifty Desert Branch, Chak Fifty D B Gharbi, Chak Fifty DB
 Chak Fifty Dolewala Branch
 Chak Fifty Eastern Bar, Jhandharānwāla
 Chak Fifty Fateh
@@ -20449,6 +20466,7 @@ Chak Fifty-eight Desert Branch Shimali, Chak Fifty-eight ADB
 Chak Fifty-eight Dolewala Branch, Chak Fifty-eight DB
 Chak Fifty-eight Eastern Bar, Samurānwāla
 Chak Fifty-eight Gugera Branch
+Chak Fifty-eight Gugera Distributary
 Chak Fifty-eight Kachi Line, Fauji Afsarān, Fouji Afsarān
 Chak Fifty-eight Khidar Branch, Chak Fifty-eight EB, Chak Fifty-eight KB, Gharbi
 Chak Fifty-eight North Branch, Chak 58 NB, Nawān Mitha
@@ -20463,8 +20481,9 @@ Chak Fifty-five, Baba Bukala, Bāba Bakāla, Jangli, Kot Andarson, Kot Rāi Nars
 Chak Fifty-five - Five Left, Bathiānwāla, Chak Fifty-five Five L
 Chak Fifty-five - Four Right
 Chak Fifty-five -Ten Right, Chak Fifty-Five-Ten R
+Chak Fifty-five -Twelve Left, Chak Fifty-five-Twelve L
 Chak Fifty-five -Two Left
-Chak Fifty-five A -Twelve Left, Chak Fifty-five A-Twelve, Chak Fifty-five-Twelve L
+Chak Fifty-five A -Twelve Left, Chak Fifty-five A-Twelve
 Chak Fifty-five D, Jhok Muhār
 Chak Fifty-five Desert Branch Gharbi, Chak Fifty-five D B Gharbi
 Chak Fifty-five Desert Branch Sharqi
@@ -20534,7 +20553,7 @@ Chak Fifty-one -One
 Chak Fifty-one -Three Right
 Chak Fifty-one -Twelve Left, Charibnagar, Gharībnagar
 Chak Fifty-one -Two Left, Chak Fifty-one -Two, Chak Fifty-one Two L
-Chak Fifty-one A South Branch, Chak Fifty-one SB, Sultān Ali Shāhwāla
+Chak Fifty-one A South Branch, Sultān Ali Shāhwāla
 Chak Fifty-one D
 Chak Fifty-one Desert Branch Janubi, Chak Fifty-one DB Janūbi
 Chak Fifty-one Desert Branch Shimalil, Chak Fifty-one DB Shumāli
@@ -20549,6 +20568,7 @@ Chak Fifty-one ML
 Chak Fifty-one North Branch, Chak 51 NB, Kot Bhalli, Kot Bhatti
 Chak Fifty-one Rakh Branch, Annadpura, Chukariān, Chukeriān, Parsorām
 Chak Fifty-one SP
+Chak Fifty-one South Branch, Chak Fifty-one SB
 Chak Fifty-one Thal Development Authority, Chak 51 TDA, Chak Fifty-One TDA
 Chak Fifty-one Western Bank
 Chak Fifty-one/Twelve M, Chak 51/12 MB Zafarābād
@@ -20576,6 +20596,7 @@ Chak Fifty-six - D, Korāyānwāla
 Chak Fifty-six - Five Left, Chak Fifty-six Five L
 Chak Fifty-six -Four Right, Kulānjwāla, Lot Number Seven, Qulanjwāla
 Chak Fifty-six -Ten Right, Gul Amīr Khānwāla
+Chak Fifty-six -Twelve Left, Chak Fifty-six Twelve L
 Chak Fifty-six A -Twelve Left, Chak Fifty-six A-Twelve L
 Chak Fifty-six B-DB
 Chak Fifty-six Desert Branch, Chak Fifty-six ADB, Chak Fifty-six D B, Chak Fifty-six DB
@@ -20615,10 +20636,12 @@ Chak Fifty-three Thal Development Authority, Chak 53 TDA, Chak Fifty-Three TDA
 Chak Fifty-three Western Bar
 Chak Fifty-three-Fifteen Left
 Chak Fifty-three/Fourteen MB Farm, Chak 53/14 MB Farm
+Chak Fifty-two, Dera Gindalwāla
 Chak Fifty-two -Three Right, Bakhshīshpur
 Chak Fifty-two -Twelve Left
 Chak Fifty-two -Two
 Chak Fifty-two -Two Left
+Chak Fifty-two A, Chakki Muzaffar Shāh
 Chak Fifty-two D
 Chak Fifty-two Desert Branch, Chak Fifty-two ADB, Chak Fifty-two DB
 Chak Fifty-two Dolewala Branch
@@ -20637,8 +20660,10 @@ Chak Fifty-two-Fifteen Left, Khichchiānwāla
 Chak Fifty-two/Thirteen MB
 Chak Fify-nine-Fifteen Left, Joiniānwāla
 Chak Five, Chubarvāna, Chūhar Kāna, Rattiān Mahājarān, Rattiān Sikhān, Sikhkhānwāla
+Chak Five - One Right
 Chak Five -Fourteen Left
 Chak Five -One A Left, Chak Five-One A L
+Chak Five -One Left, Chak Five-One L
 Chak Five -One RIght A
 Chak Five / Four Left, Chak Five-Four L
 Chak Five / Three Right, Chak Five-Five R
@@ -20972,7 +20997,7 @@ Chak Forty-five -Gogera Distributary
 Chak Forty-five -Ten Right
 Chak Forty-five -Three Right, Chak Forty-five Three R
 Chak Forty-five -Twelve Left
-Chak Forty-five A Muhajir Branch, Chak Forty-five MB
+Chak Forty-five A Muhajir Branch, Chak 45A MB
 Chak Forty-five D
 Chak Forty-five Dara Nawab Branch, Chak 45 D N B
 Chak Forty-five Dolewala Branch, Chak Forty-five DB
@@ -20981,6 +21006,7 @@ Chak Forty-five Gugera Branch, Taran Tāran, Tarn Tāran, Tiran Tarān
 Chak Forty-five Khidar Branch, Chak Forty-five KB
 Chak Forty-five M
 Chak Forty-five ML
+Chak Forty-five Muhajir Branch, Chak Forty-five MB
 Chak Forty-five Panjnad
 Chak Forty-five Rakh Branch, Marar Kalān, Morār Kalān
 Chak Forty-five SP, Khotīpur
@@ -21033,6 +21059,7 @@ Chak Forty-nine Rakh Branch
 Chak Forty-nine SP, Leikhiānwāla
 Chak Forty-nine Thal Development Authority, Chak 49 TDA
 Chak Forty-nine Western Bank, Chak Forty-nine-Eight L
+Chak Forty-nine-Two L
 Chak Forty-one, Bakhūwāl, Khundian, Kudiān
 Chak Forty-one - Four Left, Chak Forty-one Four L, Pagāliānwāla
 Chak Forty-one - Two Left, Chak Forty-one Two L
@@ -21129,9 +21156,10 @@ Chak Forty-three Thal Development Authority, Chak 43 TDA
 Chak Forty-two, Barariān, Berānwāla, Bhaggal, Goi Rāi, Mutmal Bār, Mutwalbar, Niāz Baig
 Chak Forty-two - Four Left, Chak Forty-two Four L
 Chak Forty-two - Two Left, Chak Forty-two Two L
+Chak Forty-two -Ten Right, Alf Colony
 Chak Forty-two -Three Right, Manaliān, Qutubpur, Sachānwāla
 Chak Forty-two -Twelve Left
-Chak Forty-two A- Ten Right, Alf Colony, Chak Forty-Two A-Ten R, Ratta Kappar, Ratta Kapūr
+Chak Forty-two A- Ten Right, Chak Forty-Two A-Ten R, Ratta Kappar, Ratta Kapūr
 Chak Forty-two D Kalan
 Chak Forty-two D Khurd
 Chak Forty-two Dara Nawab Branch, Chak 42 D N B
@@ -21157,6 +21185,7 @@ Chak Four -Fourteen Left
 Chak Four -Gugera Distributary
 Chak Four -Khekhar Minor
 Chak Four -One A Left, Chak Four-One A, Chak Four-One A L
+Chak Four -One Left, Chak Four-One L
 Chak Four -One Right A
 Chak Four / Four Left, Pandatpur, Panditpur
 Chak Four / Four Right
@@ -21509,12 +21538,14 @@ Chak Four Hundred Twenty-seven B Thal Development Authority
 Chak Four Hundred Twenty-seven Eastern Bar, Chak Four Hundred Twenty-seven EB
 Chak Four Hundred Twenty-seven Gugera Branch, Jhok Dadu
 Chak Four Hundred Twenty-seven Jhang Branch, Chak Number Four Hundred Twenty-Seven, Musalmāni
+Chak Four Hundred Twenty-seven Thal Development Authority, Chak Four Hundred Twenty-Seven TDA
 Chak Four Hundred Twenty-six - One Left
 Chak Four Hundred Twenty-six - Six Right / One Left
-Chak Four Hundred Twenty-six A Thal Development Authority, Chak Four Hundred Twenty-Six A TDA, Nātwāla
+Chak Four Hundred Twenty-six A Thal Development Authority, Chak Four Hundred Twenty-Six A, Nātwāla
 Chak Four Hundred Twenty-six B-Thal Development Authority, Chak Four Hundred Twenty-Six B, Chak Four Hundred Twenty-Six B TDA
 Chak Four Hundred Twenty-six Gugera Branch, Khaddānwāla
 Chak Four Hundred Twenty-six Jhang Branch, Chak Number Four Hundred Twenty-Six, Kanna Kaunta, Kanna Kohta, Kanne Kahuta
+Chak Four Hundred Twenty-six Thal Development Authority, Chak Four Hundred Twenty-Six A TDA
 Chak Four Hundred Twenty-three B
 Chak Four Hundred Twenty-three Eastern Bar, Chak Four Hundred Twenty-three EB
 Chak Four Hundred Twenty-three Gugera Branch, Ainuāna, Aulia Sajjanpur, Chak Number Four Hundred Twenty-Three, Sajanpur Aulia, Tower Wāll Ābādi, Ādān Khurd
@@ -21551,12 +21582,14 @@ Chak Four- Nine Right, Chak Four-Nine R, Dohlatpur
 Chak Four-Eight R
 Chak Four/Three Right
 Chak Fourteen, Gajjal Bangāla, Hargarh, Hargarh Chak, Kala Gujar, Kālru
+Chak Fourteen - One Right
 Chak Fourteen -A One Right, Hazalpur, Hezalpur
 Chak Fourteen -Eleven Left, Chandol
 Chak Fourteen -Gogera Distributary, Mujāhidpur
 Chak Fourteen -One A Left, Chak Fourteen-One A L
-Chak Fourteen A South Branch, Chak Fourteen SB, Phatāwāla
-Chak Fourteen Ahmadpur Branch Canal
+Chak Fourteen -One Left, Chak Fourteen-One L
+Chak Fourteen A South Branch
+Chak Fourteen Ahmadpur Branch Canal, Chak Fourteen A
 Chak Fourteen Bahawal Canal
 Chak Fourteen D
 Chak Fourteen Darkhana
@@ -21578,8 +21611,10 @@ Chak Fourteen North, Chak One Hundred Fourteen NP
 Chak Fourteen North Branch, Chak 14 NB, Chak Fourteen NB
 Chak Fourteen Rakh Branch, Mahhiānwāla, Nawān Pind Warkān
 Chak Fourteen SP
+Chak Fourteen South Branch, Chak Fourteen SB, Phatāwāla
 Chak Fourteen Western Bank, Chak Fourteen-Four R
-Chak Fourteen- Eight A Right, Chak Fourteen-Eight R
+Chak Fourteen- Eight A Right
+Chak Fourteen- Eight Right, Chak Fourteen-Eight R
 Chak Fourteen- Nine Right, Bātiwāla, Chak Fourteen-Nine R
 Chak Fourteen-Gugera Distributary
 Chak Fourteen/Sixty-six, Chak Fourteen and Sixty-three
@@ -21964,11 +21999,12 @@ Chak Niazi
 Chak Nikal, Chah Nikal
 Chak Nikku
 Chak Nine, Basti Kamboh, Dooke, Gahla, Gelan, Jahran, Nand Singhwāla, Phewa, Saudagarwāla
+Chak Nine -Eight Right, Chak Nine-Eight R, Musa Khairābād, Musāfirābād
 Chak Nine -Four Left
 Chak Nine -One A Left
 Chak Nine -One Right
 Chak Nine / Three Left, Chak Nine-Three L
-Chak Nine A-Eight Right, Chak Nine-Eight R, Musa Khairābād, Musāfirābād
+Chak Nine A-Eight Right
 Chak Nine B Eight Right
 Chak Nine Ballo
 Chak Nine D
@@ -22009,6 +22045,7 @@ Chak Nineteen - Three Right
 Chak Nineteen -Eleven Left, Chak Nineteen-Eleven L
 Chak Nineteen -Fourteen Left
 Chak Nineteen -One A Left, Chak Nineteen-One A L
+Chak Nineteen -One Left, Chak Nineteen-One L
 Chak Nineteen -One Right, Rehānawāla
 Chak Nineteen A ML
 Chak Nineteen B ML
@@ -22025,6 +22062,7 @@ Chak Nineteen Janubi
 Chak Nineteen Jhang Branch, Kāduke
 Chak Nineteen Khidar Branch
 Chak Nineteen M
+Chak Nineteen ML
 Chak Nineteen MPR, Chak 19 MPR
 Chak Nineteen Makhdum Rashid
 Chak Nineteen Muhajir Branch, Chak Nineteen MB
@@ -22039,10 +22077,12 @@ Chak Nineteen- Nine Right, Chak Nineteen-Nine R, Criminal Tribe, Gharbi
 Chak Nineteen-Eight R, Chak Nineteen-Eight BR
 Chak Ninety -Fifteen, Gaguwāla
 Chak Ninety -Nine Left
+Chak Ninety -Six Right
+Chak Ninety -Twelve Left, Kālūnagar
 Chak Ninety A - Five Right
 Chak Ninety A -Six Right
-Chak Ninety A -Twelve Left, Chak Ninety-Twelve L, Kālūnagar
-Chak Ninety A Thal Development Authority, Chak 90 TDA, Chak Ninety TDA
+Chak Ninety A -Twelve Left, Chak Ninety-Twelve L
+Chak Ninety A Thal Development Authority
 Chak Ninety B - Five Right
 Chak Ninety D
 Chak Ninety DP
@@ -22056,12 +22096,14 @@ Chak Ninety ML
 Chak Ninety Panjnad
 Chak Ninety Rakh Branch, Chitti Khurd
 Chak Ninety South Branch, Chak Ninety SB
+Chak Ninety Thal Development Authority, Chak 90 TDA, Chak Ninety TDA
 Chak Ninety Western Branch
 Chak Ninety-One ML, Biogas Plant
 Chak Ninety-eight, Chak Number Ninety-Eight, Kābil Koni
 Chak Ninety-eight - Six Right
 Chak Ninety-eight -Fifteen Left, Chanpur, Glanpur
 Chak Ninety-eight -Nine Left
+Chak Ninety-eight -Ten Right
 Chak Ninety-eight -Twelve Left, Chak Ninety-eight-Twelve L
 Chak Ninety-eight A -Ten Right, Chak Ninety-Eight-Ten R
 Chak Ninety-eight D
@@ -22093,6 +22135,7 @@ Chak Ninety-five Jhang Branch, Gahri Gil, Gehrigil
 Chak Ninety-five ML
 Chak Ninety-five North Branch, Chak 95 NB
 Chak Ninety-five Rakh Branch, Dossānj, Dosānj, Dosānjh
+Chak Ninety-five Right
 Chak Ninety-five South Branch
 Chak Ninety-five Thal Development Authority, Chak 95 TDA, Chak Ninety-Five TDA
 Chak Ninety-five Western Bank, Sultānābā
@@ -22115,6 +22158,7 @@ Chak Ninety-four South Branch, Chak Ninety-four SB
 Chak Ninety-four Thal Development Authority, Chak 94 TDA, Chak Ninety-Four TDA
 Chak Ninety-four Western Branch
 Chak Ninety-nine
+Chak Ninety-nine - Six Right
 Chak Ninety-nine -Nine Left
 Chak Ninety-nine -Six A Right
 Chak Ninety-nine -Ten Right, Mohkamwāla
@@ -22141,16 +22185,20 @@ Chak Ninety-one -Fifteen Left, Bosanwāla
 Chak Ninety-one -Nine Left
 Chak Ninety-one -Six Right
 Chak Ninety-one -Twelve Left, Sajawālnagar
-Chak Ninety-one A Desert Branch, Chak Ninety-one ADB, Chak Ninety-one DB
-Chak Ninety-one A Shumali, Chak 91 NB, Chak Ninety-one A NB, Kishengarh
-Chak Ninety-one A South Branch, Chak Ninety-one SB
-Chak Ninety-one A Ten Right
+Chak Ninety-one A Desert Branch, Chak Ninety-one ADB
+Chak Ninety-one A Shumali, Chak Ninety-one A, Chak Ninety-one A NB
+Chak Ninety-one A South Branch
+Chak Ninety-one A Ten Right, Chak Ninety-One A
 Chak Ninety-one D
+Chak Ninety-one Desert Branch, Chak Ninety-one DB
 Chak Ninety-one Eastern Bar
 Chak Ninety-one Fateh
 Chak Ninety-one Gugera Branch
 Chak Ninety-one North Panjnad
 Chak Ninety-one Rakh Branch, Dhahnwāna, Dhannuāna, Dhanuana
+Chak Ninety-one Shumali, Chak 91 NB, Kishengarh
+Chak Ninety-one South Branch, Chak Ninety-one SB
+Chak Ninety-one Ten Right
 Chak Ninety-one Thal Development Authority, Chak 91 TDA, Chak Ninety-One TDA
 Chak Ninety-one Western Bank, Chak Ninety-one-Nine L
 Chak Ninety-seven
@@ -22178,7 +22226,7 @@ Chak Ninety-six -Nine
 Chak Ninety-six -Nine Left, Tegoka
 Chak Ninety-six -Ten, Chak Ninety-Six-Ten R
 Chak Ninety-six -Twelve Left
-Chak Ninety-six A -Ten Right, Kot Muhammadwāla
+Chak Ninety-six A -Ten Right, Chak Ninety-Six A, Kot Muhammadwāla
 Chak Ninety-six D
 Chak Ninety-six Eastern Bar, Chak Ninety-six EB
 Chak Ninety-six Fateh, Phtanawāla
@@ -22191,6 +22239,7 @@ Chak Ninety-six Rakh Branch, Fazlābād
 Chak Ninety-six South Branch
 Chak Ninety-six Thal Development Authority, Chak 96 TDA, Chak Ninety-Six TDA
 Chak Ninety-six Western Branch, Sherān Sher
+Chak Ninety-three
 Chak Ninety-three - Six Right
 Chak Ninety-three -Fifteen Left
 Chak Ninety-three -Nine Left
@@ -22212,6 +22261,7 @@ Chak Ninety-three Western Bank, Chak Ninety-three-Nine L
 Chak Ninety-two, Chak Ninety-Two ML
 Chak Ninety-two -Fifteen Left
 Chak Ninety-two -Nine Left, Kache
+Chak Ninety-two -Six Right
 Chak Ninety-two -Ten Right
 Chak Ninety-two -Twelve Left
 Chak Ninety-two A - Six Right
@@ -22308,6 +22358,7 @@ Chak Number Twenty-one
 Chak Number Twenty-seven, Chak Number 27
 Chak Number Twenty-six
 Chak Number Twenty-three
+Chak Number Twenty-two
 Chak Number Twenty-two A
 Chak Number Twenty-two Alaf, Chak Twenty-two Alaf
 Chak Number Twenty-two Janubi, Chak Twenty-two SB
@@ -22321,6 +22372,8 @@ Chak Nurpur
 Chak Nustrabadwala
 Chak Odanwala
 Chak One, Rosa Tibba, Rusa Tibba, Upper Chenab Canal
+Chak One - One Left, Chak One-One L
+Chak One -Fourteen Left
 Chak One -One A Left, Chak One-One A L
 Chak One -One Right A
 Chak One -Three Left
@@ -22343,6 +22396,7 @@ Chak One Gajjiani B
 Chak One Ghagh
 Chak One Gugera Branch
 Chak One Gulzar, Chak i Gulzār
+Chak One Hundred
 Chak One Hundred - Six Right
 Chak One Hundred -Fifteen Left, Chak One Hundred-Fifteen L
 Chak One Hundred -Nine Left
@@ -22504,10 +22558,12 @@ Chak One Hundred Fifteen Jhang Branch, Diālgarh
 Chak One Hundred Fifteen ML
 Chak One Hundred Fifteen Murad
 Chak One Hundred Fifteen North Panjnad, Chak One Hundred Fifteen NP
+Chak One Hundred Fifteen Southern Branch, Chak One Hundred Fifteen SB
 Chak One Hundred Fifteen-Fifteen Left, Angadpur, Angaelpur
 Chak One Hundred Fiftey-five - Three Left
+Chak One Hundred Fifty, Chak One Hundred Fifty P, Dāddiān, Khokhranda, Khokhrānda Chak, Khoknarwāla
 Chak One Hundred Fifty -Ten Right
-Chak One Hundred Fifty A, Chak One Hundred Fifty P, Dāddiān, Khokhranda, Khokhrānda Chak, Khoknarwāla
+Chak One Hundred Fifty A
 Chak One Hundred Fifty Eastern Bar
 Chak One Hundred Fifty Gugera Branch, Rolānwāla
 Chak One Hundred Fifty M
@@ -22524,9 +22580,11 @@ Chak One Hundred Fifty-Seven NB, Chak 157 NB
 Chak One Hundred Fifty-Six NB, Chak 156 NB
 Chak One Hundred Fifty-Three NB, Chak 153 NB
 Chak One Hundred Fifty-Three RB
+Chak One Hundred Fifty-Two, Bhindiān, Chak 152 NB, Chak One Hundred Fifty-Two NB, Ghuthi Kankake, Ghuthi Komoke, Ghutti Kamoke, Gunna
+Chak One Hundred Fifty-eight, Chak One Hundred Fifty-Eight Mināra, Mināra
 Chak One Hundred Fifty-eight - Hakra Branch
 Chak One Hundred Fifty-eight -Ten Right, Kot Haibat Khān
-Chak One Hundred Fifty-eight A, Chak One Hundred Fifty-Eight Mināra, Mināra
+Chak One Hundred Fifty-eight A
 Chak One Hundred Fifty-eight Eastern Bar, Babriānwāla, Bibriānwāla
 Chak One Hundred Fifty-eight Gugera Branch, Chak Number One Hundred Fifty-Eight, Khākha, Khākhān
 Chak One Hundred Fifty-eight Murad
@@ -22583,17 +22641,18 @@ Chak One Hundred Fifty-six Nine Left
 Chak One Hundred Fifty-six Rakh Branch, Dayāigarh, Derh, Diāl Grah
 Chak One Hundred Fifty-six West Branch
 Chak One Hundred Fifty-six Western Bar, Chak Three Hundred Fifty-six WB
+Chak One Hundred Fifty-three, Ghutti Saiyidān, Ghutti Sayidān, Sāhiānwāla, Thatha Muhammad Shah
 Chak One Hundred Fifty-three - Two Left
 Chak One Hundred Fifty-three -Nine Left
 Chak One Hundred Fifty-three -Ten Right
-Chak One Hundred Fifty-three A, Ghutti Saiyidān, Ghutti Sayidān, Sāhiānwāla, Thatha Muhammad Shah
+Chak One Hundred Fifty-three A
 Chak One Hundred Fifty-three Gugera Branch, Belaggan, Belgan
 Chak One Hundred Fifty-three ML, Chak 153 TDA, Chak One Hundred Fifty-Three TDA
 Chak One Hundred Fifty-three Murad
 Chak One Hundred Fifty-three Rakh Branch, Bhagiāra, Daska
 Chak One Hundred Fifty-two - Hakra Branch
 Chak One Hundred Fifty-two -Ten Right
-Chak One Hundred Fifty-two A, Bhindiān, Chak 152 NB, Chak One Hundred Fifty-Two NB, Ghuthi Kankake, Ghuthi Komoke, Ghutti Kamoke, Gunna
+Chak One Hundred Fifty-two A
 Chak One Hundred Fifty-two Eastern Bar, Chak One Hundred Fifty-two EB
 Chak One Hundred Fifty-two Left
 Chak One Hundred Fifty-two ML One
@@ -22624,7 +22683,8 @@ Chak One Hundred Five- Fifteen Left, Chak One Hundred Five-Fifteen L, Wanjāri
 Chak One Hundred FiveThal Development Authority, Chak 105 TDA, Chak One Hundred Five TDA
 Chak One Hundred Forty, Lāl Koti Khokher, Nadoka Haral, Nawān Ajnāla
 Chak One Hundred Forty - Six Right
-Chak One Hundred Forty A Desert Branch, Chak One Hundred Forty DB, Chak One Hundred-forty ADB
+Chak One Hundred Forty A Desert Branch, Chak One Hundred-forty ADB
+Chak One Hundred Forty Desert Branch, Chak One Hundred Forty DB
 Chak One Hundred Forty EB
 Chak One Hundred Forty Eastern Bar, Chak Five Hundred Thirty-five EB
 Chak One Hundred Forty Gugera Branch
@@ -22661,6 +22721,7 @@ Chak One Hundred Forty-five Nine Left, Kot Guru Nānak
 Chak One Hundred Forty-five Panjnad, Chak One Hundred Forty-five P
 Chak One Hundred Forty-five Rakh Branch, Chit Singh, Tibrānwāla, Wardpur
 Chak One Hundred Forty-five Western Bar
+Chak One Hundred Forty-four
 Chak One Hundred Forty-four - Six Right, Azāfi Basti
 Chak One Hundred Forty-four -One Hundred Forty-five Northern Branch, Chak One Hundred Forty-Four NB, Chak One Hundred Forty-Four/One Hundred Forty-Five NB
 Chak One Hundred Forty-four -Ten Right
@@ -22672,9 +22733,10 @@ Chak One Hundred Forty-four ML
 Chak One Hundred Forty-four Murad
 Chak One Hundred Forty-four Nine Left, Kot Dogriān
 Chak One Hundred Forty-four Rakh Branch, Ghar Tal Kalān, Ghartal Kalān
+Chak One Hundred Forty-nine, Bholuāna
 Chak One Hundred Forty-nine - Six Right
 Chak One Hundred Forty-nine -Ten Right
-Chak One Hundred Forty-nine A, Bholuāna, Dera Eidewāla, Kukwāla, Rāje Ka Dera
+Chak One Hundred Forty-nine A, Dera Eidewāla, Kukwāla, Rāje Ka Dera
 Chak One Hundred Forty-nine Eastern Bar
 Chak One Hundred Forty-nine Gugera Branch, Kuhārke, Kuhātka, Kūhārka
 Chak One Hundred Forty-nine Murad
@@ -22695,10 +22757,11 @@ Chak One Hundred Forty-one Northern Branch, Chak One Hundred Forty-One NB
 Chak One Hundred Forty-one RB, Akil
 Chak One Hundred Forty-one Rakh Branch, Chhidarwāla
 Chak One Hundred Forty-one Southern Branch, Andhera, Chak One Hundred Forty-one SB
+Chak One Hundred Forty-seven, Bhat Nikka, Patkrīkat, Phatnikka
 Chak One Hundred Forty-seven -One Hundred Forty-eight Northern Branch, Chak One Hundred Forty-Seven NB, Chak One Hundred Forty-Seven/One Hundred Forty-Eight NB, Lakhuana
 Chak One Hundred Forty-seven -Ten Right
 Chak One Hundred Forty-seven -Ten Right Branch, Chak One Hundred Forty-Seven-Ten R
-Chak One Hundred Forty-seven A, Bhat Nikka, Patkrīkat, Phatnikka
+Chak One Hundred Forty-seven A
 Chak One Hundred Forty-seven Desert Branch
 Chak One Hundred Forty-seven Eastern Bar
 Chak One Hundred Forty-seven Gugera Branch, Jhok Balāqi, Jhok Blāqi
@@ -22722,9 +22785,10 @@ Chak One Hundred Forty-six Panjnad, Chak One Hundred Forty-six P
 Chak One Hundred Forty-six Rakh Branch, Khwa
 Chak One Hundred Forty-six TDA
 Chak One Hundred Forty-six West Branch, Chak One Hundred Forty-six -Seven R
+Chak One Hundred Forty-three, Kalri Jhak, Kalri Jhok, Kot Jhar, Ratūla
 Chak One Hundred Forty-three - Seven Right
 Chak One Hundred Forty-three -Ten Right
-Chak One Hundred Forty-three A, Kalri Jhak, Kalri Jhok, Kot Jhar, Ratūla
+Chak One Hundred Forty-three A
 Chak One Hundred Forty-three Desert Branch, Chak One Hundred Forty-three DB
 Chak One Hundred Forty-three Eastern Bar
 Chak One Hundred Forty-three Gugera Branch, Khalishābād, Khālsābād
@@ -22734,9 +22798,10 @@ Chak One Hundred Forty-three Nine Left
 Chak One Hundred Forty-three Northern Branch, Chak One Hundred Forty-Three NB, Chardowāla
 Chak One Hundred Forty-three Rakh Branch, Inaitpur Chatta, Ināyatpur Chatta, Motiāni Ināyat Chattha
 Chak One Hundred Forty-three Western Bar
+Chak One Hundred Forty-two, Khīr
 Chak One Hundred Forty-two - Seven Right
 Chak One Hundred Forty-two -Ten Right
-Chak One Hundred Forty-two A, Khīr
+Chak One Hundred Forty-two A
 Chak One Hundred Forty-two Desert Branch, Chak One Hundred Forty-two DB
 Chak One Hundred Forty-two Eastern Bar
 Chak One Hundred Forty-two Gugera Branch, Gariwāl, Giriwāl
@@ -22759,6 +22824,7 @@ Chak One Hundred Four Gugera Branch, Samrah Jandiāla
 Chak One Hundred Four Jhang Branch, Chak One Hundred Four, Harmoha, Harmuiān
 Chak One Hundred Four ML
 Chak One Hundred Four NP, Chak One Hundred - four
+Chak One Hundred Four North Branch, Chak One Hundred Four NB
 Chak One Hundred Four Rakh Branch, Pandianwala, Pāndhiānwāla, Pāndiānwāli
 Chak One Hundred Four Seven Right
 Chak One Hundred Four Southern Branch, Chak 104 SB
@@ -22772,8 +22838,9 @@ Chak One Hundred Fourteen -One Right, Amirbur
 Chak One Hundred Fourteen -Seven Right, Chak One Hundred Fourteen-Seven BR
 Chak One Hundred Fourteen -Ten Right, Manirabād
 Chak One Hundred Fourteen -Twelve Left, Asghari
-Chak One Hundred Fourteen A Desert Branch, Chak One Hundred Fourteen ADB, Chak One Hundred Fourteen DB
+Chak One Hundred Fourteen A Desert Branch, Chak One Hundred Fourteen ADB
 Chak One Hundred Fourteen Dara Nawab Branch, Chak 114 D N B
+Chak One Hundred Fourteen Desert Branch, Chak One Hundred Fourteen DB
 Chak One Hundred Fourteen Fifteen Left
 Chak One Hundred Fourteen Gugera Branch, Mangor
 Chak One Hundred Fourteen Jhang Branch, Shaikh Farīdwāla
@@ -22889,6 +22956,7 @@ Chak One Hundred Ninety-three A Murad
 Chak One Hundred Ninety-three A Murad Gharpi
 Chak One Hundred Ninety-three Eastern Bar
 Chak One Hundred Ninety-three Gugera Branch, Chak One Hundred Ninety-Three GB, Janūbi, Shamāli
+Chak One Hundred Ninety-three Murad
 Chak One Hundred Ninety-three Right
 Chak One Hundred Ninety-two, Augala, Aujala, Chak One Hundred Ninety-Two Batiwāla, Chak One Hundred Ninety-Two GB, Ujla
 Chak One Hundred Ninety-two - Seven Right
@@ -22933,11 +23001,12 @@ Chak One Hundred Seven Thal Development Authority, Chak 107 TDA, Chak One Hundre
 Chak One Hundred Seven Western Bar, Chak One Hundred Seven
 Chak One Hundred Seven- Fifteen Left, Chak One Hundred-Seven-Fifteen L
 Chak One Hundred Seven/Two Rakh Branch, Badāla Kartārgarh, Chudhariwāla
+Chak One Hundred Seventeen, Dhanola
 Chak One Hundred Seventeen - Six Right
 Chak One Hundred Seventeen -Fifteen Left
 Chak One Hundred Seventeen -Seven D Right, Abādi Darsana, Chak One Hundred Seventeen-Seven DR
 Chak One Hundred Seventeen -Twelve Left
-Chak One Hundred Seventeen A, Dhanola
+Chak One Hundred Seventeen A
 Chak One Hundred Seventeen A Northern Branch, Chak One Hundred Seventeen A NB
 Chak One Hundred Seventeen B Thal Development Authority, Chak No 117 B, Chak Number One Hundred Seventeen B, Wāra Gishkori
 Chak One Hundred Seventeen Dara Nawab Branch, Chak 117 D N B
@@ -22948,6 +23017,7 @@ Chak One Hundred Seventeen Gugera Branch, Akālgarh Gharbi, Chak One Hundred Sev
 Chak One Hundred Seventeen ML
 Chak One Hundred Seventeen Murad
 Chak One Hundred Seventeen Nine Left, Bhojiān, Kangniwāla
+Chak One Hundred Seventeen Northern Branch, Chak One Hundred Seventeen NB
 Chak One Hundred Seventeen Panjnad, Chak One Hundred Seventeen P
 Chak One Hundred Seventeen Rakh Branch, Chuhūr Mughliān
 Chak One Hundred Seventeen Southern Branch, Chak One Hundred Seventeen SB
@@ -22963,7 +23033,7 @@ Chak One Hundred Seventy Gugera Branch, Kutrūwāl
 Chak One Hundred Seventy Murad
 Chak One Hundred Seventy Panjnad, Goth Māulviān
 Chak One Hundred Seventy Rakh Branch, Jhundiānwāli, Tabbi Mitu
-Chak One Hundred Seventy Thal Development Authority
+Chak One Hundred Seventy Thal Development Authority, Chak One Hundred Seventy A
 Chak One Hundred Seventy Western Bar
 Chak One Hundred Seventy-Four NB, Chak 174 NB
 Chak One Hundred Seventy-Three NB
@@ -23024,6 +23094,7 @@ Chak One Hundred Seventy-six -Ten Right
 Chak One Hundred Seventy-six A Murad
 Chak One Hundred Seventy-six Eastern Bank, Chak Twenty-one-One Hundred Seventy-six
 Chak One Hundred Seventy-six Gugera Branch, Pile, Puiān, Pīla Gūjar
+Chak One Hundred Seventy-six Murad
 Chak One Hundred Seventy-six Nine Left, Sāhibgarh
 Chak One Hundred Seventy-six Thal Development Authority, Chak 176 TDA
 Chak One Hundred Seventy-six Western Branch, Bugwānpura
@@ -23136,10 +23207,12 @@ Chak One Hundred Sixty-four B Thal Development Authority
 Chak One Hundred Sixty-four EB
 Chak One Hundred Sixty-four Gugera Branch, Chak Number One Hundred Sixty-Four, Nijharpur
 Chak One Hundred Sixty-four Murad
+Chak One Hundred Sixty-four Nine Left
 Chak One Hundred Sixty-four Panjnad, Chak One Hundred Sixty-four P
 Chak One Hundred Sixty-four Rakh Branch, Mahesh, Mais
 Chak One Hundred Sixty-nine, Garwah, Lipāiwāla, Lipālwāla
 Chak One Hundred Sixty-nine - Seven Right
+Chak One Hundred Sixty-nine -Nine Left, Chak One Hundred Sixty-nine-Nine L
 Chak One Hundred Sixty-nine A -Nine Left, Chak One Hundred Sixty-nine A Nine L, Chhotta
 Chak One Hundred Sixty-nine Eastern Bar, Watwunwāla
 Chak One Hundred Sixty-nine Gugera Branch, Natthukot, Thikriānwāla
@@ -23170,7 +23243,7 @@ Chak One Hundred Sixty-seven Western Branch
 Chak One Hundred Sixty-six, Dabāna, Dauka, Doka, Kānyan Bhojiān
 Chak One Hundred Sixty-six - Seven Right
 Chak One Hundred Sixty-six -Nine Left, Chak One Hundred Sixty-three-Nine L
-Chak One Hundred Sixty-six -Ten Right, Sialangwāli, Tibbīpur
+Chak One Hundred Sixty-six -Ten Right, Chak One Hundred Sixty-Six A, Sialangwāli, Tibbīpur
 Chak One Hundred Sixty-six Eastern Bar, Chak One Hundred Sixty-six EB
 Chak One Hundred Sixty-six Gugera Branch
 Chak One Hundred Sixty-six Murad
@@ -23202,6 +23275,7 @@ Chak One Hundred Ten -Twelve Right, Chak One Hundred Ten-Seven AR
 Chak One Hundred Ten A Fateh
 Chak One Hundred Ten Dara Nawab Branch, Chak 110 D N B
 Chak One Hundred Ten Desert Branch, Chak One Hundred Ten DB
+Chak One Hundred Ten Fateh
 Chak One Hundred Ten Gugera Branch, Pindori Najrān, Pindori Nijhrān
 Chak One Hundred Ten Jhang Branch, Majhewāla, Mulāzimābād
 Chak One Hundred Ten North Panjnad, Chak One Hundred Ten NP
@@ -23220,7 +23294,7 @@ Chak One Hundred Thirteen -Nine Left
 Chak One Hundred Thirteen -Sixteen Left, Usaiānwāla
 Chak One Hundred Thirteen -Ten Right
 Chak One Hundred Thirteen -Twelve Left, Nelāmiwāla
-Chak One Hundred Thirteen A Thal Development Authority, Chak 113 TDA, Chak One Hundred Thirteen A TDA
+Chak One Hundred Thirteen A Thal Development Authority, Chak 113A TDA, Chak One Hundred Thirteen A TDA
 Chak One Hundred Thirteen Dara Nawab Branch, Chak 113 D N B
 Chak One Hundred Thirteen Desert Branch, Chak One Hundred Thirteen DB
 Chak One Hundred Thirteen Desert Branch Sharqi, Chak One Hundred Thirteen DB Sharqi
@@ -23232,6 +23306,7 @@ Chak One Hundred Thirteen Murad
 Chak One Hundred Thirteen North Panjnad, Chak One Hundred Thirteen NP
 Chak One Hundred Thirteen Northern Branch, Chak One Hundred Thirteen NB
 Chak One Hundred Thirteen Southern Branch, Chak One Hundred Thirteen SB
+Chak One Hundred Thirteen Thal Development Authority, Chak 113 TDA, Chak One Hundred Thirteen TDA
 Chak One Hundred Thirteen Western Bar, Chak One Hundred Thirteen
 Chak One Hundred Thirty - Six Right / One Left
 Chak One Hundred Thirty - Ten Right, Chak One Hundred Thirty, Chak One Hundred Thirty Ten R
@@ -23299,12 +23374,13 @@ Chak One Hundred Thirty-nine Southern Branch, Chak One Hundred Thirty-nine SB, M
 Chak One Hundred Thirty-nine Ten Right, Chak One Hundred Thirty-Nine New, Chak One Hundred Thirty-Nine Ten R
 Chak One Hundred Thirty-nine Thal Development Authority
 Chak One Hundred Thirty-nine Western Bar
+Chak One Hundred Thirty-one, Nāgnīwāla
 Chak One Hundred Thirty-one - Six Right, Isaianwala
 Chak One Hundred Thirty-one - Six Right / One Left
 Chak One Hundred Thirty-one - Ten Right, Chak One Hundred Thirty-one 10 R
 Chak One Hundred Thirty-one -Nine Left
 Chak One Hundred Thirty-one -Sixteen Left
-Chak One Hundred Thirty-one A, Nāgnīwāla
+Chak One Hundred Thirty-one A
 Chak One Hundred Thirty-one DNB, Mirāna
 Chak One Hundred Thirty-one Eastern Bar
 Chak One Hundred Thirty-one Gugera Branch
@@ -23334,7 +23410,7 @@ Chak One Hundred Thirty-six -Nine Left
 Chak One Hundred Thirty-six Dara Nawab Branch, Chak 136 D N B
 Chak One Hundred Thirty-six Eastern Bar, Chak One Hundred Thirty-six EB
 Chak One Hundred Thirty-six Gugera Branch
-Chak One Hundred Thirty-six ML
+Chak One Hundred Thirty-six ML, Chak 135/A ML, Chak One Hundred Thirty-Five/A ML
 Chak One Hundred Thirty-six Murad
 Chak One Hundred Thirty-six Northern Branch, Chak One Hundred Forty-six NB, Chak One Hundred Thirty-Six NB, Hatrānwāla
 Chak One Hundred Thirty-six One Left
@@ -23414,7 +23490,7 @@ Chak One Hundred Twenty - Ten Right, Chak One Hundred Twenty, Chak One Hundred T
 Chak One Hundred Twenty -Fifteen Left
 Chak One Hundred Twenty -Seven E Right, Chak One Hundred Twenty-seven ER
 Chak One Hundred Twenty -Thirteen A Left, Chak One Hundred Twenty-Thirteen AL
-Chak One Hundred Twenty A Thal Development Authority, Chak 120 TDA, Chak One Hundred Twenty TDA
+Chak One Hundred Twenty A Thal Development Authority
 Chak One Hundred Twenty Dara Nawab Branch, Chak 120 D N B
 Chak One Hundred Twenty Desert Branch, Chak One Hundred Twenty DB
 Chak One Hundred Twenty Gugera Branch
@@ -23423,6 +23499,7 @@ Chak One Hundred Twenty Murad
 Chak One Hundred Twenty Northern Branch, Chak One Hundred Twenty NB
 Chak One Hundred Twenty Punjnad, Chak One Hundred Twenty
 Chak One Hundred Twenty Southern Branch, Chak One Hundred Twenty SB
+Chak One Hundred Twenty Thal Development Authority, Chak 120 TDA, Chak One Hundred Twenty TDA
 Chak One Hundred Twenty West Branch, Veriwāla, Vīrīwāla
 Chak One Hundred Twenty-Eight
 Chak One Hundred Twenty-Five -Fifteen Left
@@ -23464,6 +23541,7 @@ Chak One Hundred Twenty-five Western Bar
 Chak One Hundred Twenty-five-Seven Right, Chak One Hundred Twenty-five-Seven ER
 Chak One Hundred Twenty-four, Lāthiānwāla
 Chak One Hundred Twenty-four - Eastern Bar, Chak One Hundred Twenty-four EB
+Chak One Hundred Twenty-four - Six Right
 Chak One Hundred Twenty-four - Ten Right
 Chak One Hundred Twenty-four -Fifteen Left, Araanwāla, Chak One Hundred Twenty-four-Fifteen L, Hamānd
 Chak One Hundred Twenty-four A - Six Right
@@ -23601,7 +23679,8 @@ Chak One Tarpai, Chak One T
 Chak One Ten Left
 Chak One Thal Development Authority, Chak One TDA
 Chak One Western Bank, Chak One-Eight L
-Chak One- Eight A Right, Chak One-Eight R, Hasan Khānwāla, Jamāl Khānwāla
+Chak One- Eight A Right, Hasan Khānwāla, Jamāl Khānwāla
+Chak One- Eight Right, Chak One-Eight R
 Chak Padda
 Chak Pai Hamdani
 Chak Pakhan, Chak Pākhar, Pākharda Chak
@@ -23713,9 +23792,10 @@ Chak Scheme Wala
 Chak Sethanwala
 Chak Seven, Gābiānwāla, Kot i, Kotli Bāqar Shāh, Sanibār, Shāh Hussainwāla
 Chak Seven - One Right
-Chak Seven -Eight A Right, Chak Seven-Eight R, Dharan Kot, Gharbi
+Chak Seven -Eight A Right, Dharan Kot, Gharbi
 Chak Seven -Fourteen Left
 Chak Seven -One A Left, Chak Seven-One A L
+Chak Seven -One Left, Chak Seven-One L
 Chak Seven / Four Left, Chak Seven Four L
 Chak Seven / Four Right, Chak Seven-Four R
 Chak Seven A Janubi
@@ -23809,6 +23889,7 @@ Chak Seven Thal Development Authority, Chak 7 TDA
 Chak Seven Western Bank, Chak Seven-Eight L
 Chak Seven- Nine Right, Chak Seven-Nine R, Hanunmāngarh, Hanūmāngarh, Janakpur, Janatpur
 Chak Seven-Eight
+Chak Seven-Eight Right, Chak Seven-Eight R
 Chak Seven/Fifty-nine, Chak Seven and Sixty-three
 Chak Seventeen, Balamabad, Ballamābād, Lodhike, Lodiki, Rakh Mundeke Kalān
 Chak Seventeen - Fordwah
@@ -23818,6 +23899,7 @@ Chak Seventeen -Eight B Right
 Chak Seventeen -Eleven Left, Chak Seventeen-Eleven L
 Chak Seventeen -Fourteen Left, Makuāni
 Chak Seventeen -One A Left, Chak Seventeen-One A L
+Chak Seventeen -One Left, Chak Seventeen-One L
 Chak Seventeen Bahawal Canal, Chak Seventeen BC
 Chak Seventeen D
 Chak Seventeen Dera Nawab Branch, Chak Seventeen DNB
@@ -23845,7 +23927,8 @@ Chak Seventy - A - Four Right
 Chak Seventy - B - Four Right
 Chak Seventy -Fifteen Left, Pahūranwāla
 Chak Seventy -Five Left
-Chak Seventy AML
+Chak Seventy -Four Right
+Chak Seventy AML, Chak 70 A ML, Chak Seventy A ML
 Chak Seventy Desert Branch, Chak Seventy D B
 Chak Seventy Eastern Bar
 Chak Seventy Eight - One Left
@@ -23861,6 +23944,8 @@ Chak Seventy Thal Development Authority, Chak 70 TDA, Chak Seventy TDA
 Chak Seventy Western Bar
 Chak Seventy- Ten Right, Aryānagar, Chak Seventy-Ten R
 Chak Seventy-Eight
+Chak Seventy-Five
+Chak Seventy-Four
 Chak Seventy-Twelve Left, Nūrke
 Chak Seventy-Two
 Chak Seventy-eight -Fifteen Left A
@@ -23885,10 +23970,11 @@ Chak Seventy-eight Western Branch
 Chak Seventy-eight- Ten Right, Chak Seventy-Eight-Ten R
 Chak Seventy-five - Five Right, Chak Seventy-five Five R
 Chak Seventy-five - Four Right
-Chak Seventy-five -A -Fifteen Left, Mahtampur Nikiāna, Mahtampur Nikiānwāla, Mamba Kalān, Mamba Kolān, Nikiōnewāla
+Chak Seventy-five -A -Fifteen Left, Mahtampur Nikiāna, Mahtampur Nikiānwāla, Nikiōnewāla
 Chak Seventy-five -B -Fifteen Left, Nandu Balochānwāla, Nāndu Baluchānwāla
+Chak Seventy-five -Fifteen Left, Mamba Kalān, Mamba Kolān
 Chak Seventy-five -Five Left
-Chak Seventy-five A
+Chak Seventy-five A, Chak 75 A
 Chak Seventy-five A South Branch
 Chak Seventy-five B
 Chak Seventy-five D, Chak 75 D
@@ -23901,11 +23987,13 @@ Chak Seventy-five M
 Chak Seventy-five North Branch, Chak Seventy-five NB
 Chak Seventy-five Panjnad
 Chak Seventy-five Rakh Branch, Lohka Kalān, Lohka Khurd, Lohke Kalān, Lohke Khurd
+Chak Seventy-five South Branch
 Chak Seventy-five Thal Development Authority, Chak 75 TDA, Chak Seventy-Five TDA, Chak Seventy-five ML
 Chak Seventy-five Western Bank, Chak Seventy-five-Eight AL
 Chak Seventy-five-Twelve Left, Nūrdādwāla
 Chak Seventy-four - D, Chak 74 D, Lurkiānwāla
-Chak Seventy-four -A -Fifteen Left, Dadhutianwāla, Lamiwāla
+Chak Seventy-four -A -Fifteen Left, Lamiwāla
+Chak Seventy-four -Fifteen Left, Dadhutianwāla
 Chak Seventy-four -Five Left, Bhojuāna, Kariānewāla, Kauriānāwāla, Kuriāna
 Chak Seventy-four -Four Right
 Chak Seventy-four -Ten Right, Tharajanwāla, Tharājābād
@@ -23923,11 +24011,12 @@ Chak Seventy-four Thal Development Authority
 Chak Seventy-four Western Branch
 Chak Seventy-four-Twelve Left, Foujiānwāla
 Chak Seventy-four/Two, Bajāj, Bajāz
+Chak Seventy-nine, Gil Shimāli, Gil Shumali, Gil Shumāliwāla, Nawankote
 Chak Seventy-nine - One Left
 Chak Seventy-nine -Fifteen Left
 Chak Seventy-nine -Five Right
 Chak Seventy-nine -Twelve Left
-Chak Seventy-nine A, Gil Shimāli, Gil Shumali, Gil Shumāliwāla, Nawankote
+Chak Seventy-nine A
 Chak Seventy-nine B
 Chak Seventy-nine D, Daunewāla Lot
 Chak Seventy-nine Eastern Bar
@@ -23942,10 +24031,11 @@ Chak Seventy-nine South Branch, Chak Seventy-nine SB, Chaukera, Chokera, Pindi W
 Chak Seventy-nine Thal Development Authority, Chak Seventy-Seven ML
 Chak Seventy-nine Western Bank
 Chak Seventy-nine- Ten Right, Chak Seventy-Nine-Ten R
+Chak Seventy-one, Chak Seventy-one Fateh, Nagokesarli, Nagoki Sarli, Najoki Sarāli
 Chak Seventy-one - Four Right
 Chak Seventy-one -Five
 Chak Seventy-one -Five Left, Hara Singhwāla, Rājewāla Khu
-Chak Seventy-one A, Chak Number Seventy-one, Chak Seventy-one Fateh, Nagokesarli, Nagoki Sarli, Najoki Sarāli
+Chak Seventy-one A, Chak Number Seventy-one
 Chak Seventy-one D, Chak 71 D, Sehruwāna, Seiāliānwāla
 Chak Seventy-one Desert Branch
 Chak Seventy-one Eastern Bar, Thekiān
@@ -23976,6 +24066,7 @@ Chak Seventy-seven Thal Development Authority, Chak 77 TDA, Chak Seventy-Seven T
 Chak Seventy-seven Twelve Left
 Chak Seventy-seven Western Bank, Chak Seventy-seven-Eight AL
 Chak Seventy-seven- Ten Right, Chak Seventy-Seven-Ten R
+Chak Seventy-six
 Chak Seventy-six - Four Right
 Chak Seventy-six -A, Sogianwāla
 Chak Seventy-six -B -Fifteen Left, Hāji Rehmatullāh, Sohan Lalwāla
@@ -23996,13 +24087,15 @@ Chak Seventy-six Thal Development Authority, Chak 76 TDA, Chak Seventy-Six TDA, 
 Chak Seventy-six- Ten Right, Sheikh Malka
 Chak Seventy-six-Twelve Left
 Chak Seventy-six/Twenty-three
+Chak Seventy-three, Marāliānwāla
 Chak Seventy-three - Fifteen Left Western Branch
 Chak Seventy-three - Four Right
 Chak Seventy-three -Fifteen Left
 Chak Seventy-three -Five Left, Niwān
-Chak Seventy-three A, Chak Number Seventy-three, Marāliānwāla
+Chak Seventy-three A, Chak Number Seventy-three
 Chak Seventy-three D, Chak 73 D, Pohramwāla
 Chak Seventy-three Desert Branch, Chak Seventy-three D B
+Chak Seventy-three Desert Branch (A)
 Chak Seventy-three Eastern Bar
 Chak Seventy-three Gugera Branch, Chak Seventy-Three RB, Gaddiān, Gari Thaman
 Chak Seventy-three Jhang Branch
@@ -24017,15 +24110,17 @@ Chak Seventy-two - Four Right
 Chak Seventy-two -Fifteen Left, Chak Seventy-two-Fifteen L
 Chak Seventy-two -Five Left
 Chak Seventy-two -Seven Right Western Branch, Chak Seventy-two-Seven R WB
-Chak Seventy-two A Desert Branch, Chak Seventy-two A DB, Chak Seventy-two D B
+Chak Seventy-two A Desert Branch, Chak Seventy-two A DB
 Chak Seventy-two A South Branch, Chak Seventy-two A SB
 Chak Seventy-two D, Saiyidahwāla
+Chak Seventy-two Desert Branch, Chak Seventy-two D B
 Chak Seventy-two Eastern Bar
 Chak Seventy-two Gugera Branch, Chak Seventy-Two GB, Channi Tikka, Chhanni Tikka, Chhini Tikka
 Chak Seventy-two Jhang Branch, Dadi Gulabpur, Dodi Gulābipur, Gulālipur
 Chak Seventy-two M
 Chak Seventy-two ML
 Chak Seventy-two Rakh Branch, Jahāngīrābād Sharīf
+Chak Seventy-two South Branch, Chak Seventy-two SB
 Chak Seventy-two Thal Development Authority
 Chak Seventy-two-Twelve Left, Lekhānwāla
 Chak Shadi
@@ -24071,6 +24166,7 @@ Chak Six - Fordwah
 Chak Six - One Right
 Chak Six -Fourteen Left
 Chak Six -One A Left, Chak Six-One A L
+Chak Six -One Left, Chak Six-One L
 Chak Six -Three Left
 Chak Six / Four Left, Chak Six Four L, Rahmpur
 Chak Six / Four Right
@@ -24144,7 +24240,8 @@ Chak Six Hundred Nineteen Thal Development Authority, Chak Six Hundred Nineteen 
 Chak Six Hundred Ninety-Thirty-two Gugera Branch, Chak Six Hundred Ninety-Thirty-two
 Chak Six Hundred Ninety-one-Thirty-three Gugera Branch, Chak Six Hundred Ninety-one-Thirty-three
 Chak Six Hundred Ninety-seven
-Chak Six Hundred Ninety-three-Thirty-five A Gugera Branch, Chak Six Hundred Ninety-three-Thirty-five, Chak Thirty-Five D Plot
+Chak Six Hundred Ninety-three-Thirty-five A Gugera Branch, Chak Six Hundred Ninety-three-Thirty-five
+Chak Six Hundred Ninety-three-Thirty-five Gugera Branch, Chak Thirty-Five D Plot
 Chak Six Hundred Ninety-two-Thirty-four Gugera Branch, Chak Six Hundred Ninety-two-Thirty-four
 Chak Six Hundred One Gugera Branch, Kharaliān da Khu, Khokhrān da Khu, Saifal-di-jhok
 Chak Six Hundred One Thal Development Authority, Chak 601 TDA, Chak Six Hundred One TDA
@@ -24228,9 +24325,10 @@ Chak Six Rakh Mahota Khansar
 Chak Six SB
 Chak Six Tarpai
 Chak Six Western Bank
-Chak Six Zakhira Khanewal
+Chak Six Zakhira Khanewal, Chak Six A
 Chak Six hundred Seventy-four-Fifteen GB, Chak Six Hundred Seventy-four-Fifteen
 Chak Six- Eight A Right, Chak Six-Eight AR, Chak Thirteen-Eight R
+Chak Six-Eight Right
 Chak Six-Nine R, Mehdiwāla
 Chak Sixteen, Bāgh Bahār, Gola ki Ābādi, Goleke, Pannāhke, Rakh Dhag, Tibbinagar di, Wahia Shumāli, Weh Shumali
 Chak Sixteen - Fordwah
@@ -24240,6 +24338,7 @@ Chak Sixteen -Eleven Left
 Chak Sixteen -Fourteen Left, Farid Sharqi
 Chak Sixteen -Gogera Distributary, Chak Sixteen GD, Maddaka
 Chak Sixteen -One A Left, Chak Sixteen-One A L
+Chak Sixteen -One Left, Chak Sixteen-One L
 Chak Sixteen Bahawal Canal, Chak Sixteen BC
 Chak Sixteen Dera Nawab Branch, Chak Sixteen DNB
 Chak Sixteen Dolewala Branch, Chak Sixteen DB
@@ -24293,8 +24392,9 @@ Chak Sixty-eight -Five Left, Mallhowāli Jhok
 Chak Sixty-eight -Nine Left
 Chak Sixty-eight -Sixty-nine
 Chak Sixty-eight -Twelve Left
-Chak Sixty-eight A Desert Branch, Chak Sixty-eight D B, Chak Sixty-eight D B Shumāli
+Chak Sixty-eight A Desert Branch, Chak Sixty-eight D B Shumāli
 Chak Sixty-eight Colony
+Chak Sixty-eight Desert Branch, Chak Sixty-eight D B
 Chak Sixty-eight Desert Branch Sharqi, Chak Sixty-eight D B Sharqi
 Chak Sixty-eight Eastern Bar
 Chak Sixty-eight Fateh
@@ -24310,12 +24410,13 @@ Chak Sixty-five -Fifteen Left, Paththo, Pitha
 Chak Sixty-five -Five Left
 Chak Sixty-five -Ten Right
 Chak Sixty-five -Twelve Left
-Chak Sixty-five A Gugera Distributary, Kamiānawāla, Kamiāniānwāla, Sikhkhān, Sikkhān
+Chak Sixty-five A Gugera Distributary, Sikhkhān, Sikkhān
 Chak Sixty-five Dera Nawab Branch Janubi, Chak Sixty-five DB Janūbi
 Chak Sixty-five Dolewala Branch, Chak Sixty-five DB
 Chak Sixty-five Eastern Bar, Bhakha
 Chak Sixty-five Fateh
 Chak Sixty-five Gugera Branch, Mukandpur, Mukanpur
+Chak Sixty-five Gugera Distributary, Kamiānawāla, Kamiāniānwāla
 Chak Sixty-five Janubi
 Chak Sixty-five ML, Chak Sixty-Five TDA
 Chak Sixty-five North Branch, Chak 65 NB
@@ -24382,6 +24483,7 @@ Chak Sixty-one Southern Branch, Chak Sixty-one SB, Merhiwāla
 Chak Sixty-one Thal Development Authority, Chak 61 TDA, Chak Sixty-One TDA
 Chak Sixty-one Western Bar
 Chak Sixty-one/Eight Muhajir Branch
+Chak Sixty-seven
 Chak Sixty-seven - Four Right, Dheroka
 Chak Sixty-seven -Fifteen Left, Walhianwala
 Chak Sixty-seven -Five Left, Khem Kot
@@ -24498,11 +24600,13 @@ Chak Taranwala
 Chak Tarar
 Chak Tejeka
 Chak Ten, Bholāgarhi, Būlegarhi, Chakdas, Kharepar, Thothiān, Thothiān Kalān, Thothiān Khurd
-Chak Ten -Eight A Right, Chak Ten-Eight R, Pindi Islāmpur, Pindi Islāmpura
+Chak Ten -Eight A Right
 Chak Ten -Four Left, Intoniābād
 Chak Ten -Fourteen Left
 Chak Ten -Gugera Distributary, Teja Singhwāla, Tāja Singhwāla
 Chak Ten -One A Left, Chak Ten-One A L
+Chak Ten -One Left, Chak Ten-One L
+Chak Ten -One Right
 Chak Ten -Twelve Left, Chak One Hundred Nine-Twelve L
 Chak Ten / Three Left, Chak Ten-Three L
 Chak Ten A - One Right
@@ -24542,6 +24646,7 @@ Chak Ten T
 Chak Ten Tarpai
 Chak Ten Thal Development Authority
 Chak Ten Western Bank, Chak Ten-Four R
+Chak Ten- Eight Right, Chak Ten-Eight R, Pindi Islāmpur, Pindi Islāmpura
 Chak Ten/Sixty-three
 Chak Teru, Chak Tiro
 Chak Thaba
@@ -24551,16 +24656,17 @@ Chak Thakra
 Chak Thanedar
 Chak Thathi
 Chak Thirt-nine Muhajir Branch
+Chak Thirteen, Chak Thirteen Lat, Chuknawāli, Dhabān Kalan, Dhabān Khurd, Dhābān Singh Kalān, Dhābān Singh Khurd, Ghoghani, Gogni, Lot, Nūrka, Nūrke, Wāltarganj
 Chak Thirteen - One Right
-Chak Thirteen -Eight A Right, Chak Thirteen-Eight R
+Chak Thirteen -Eight A Right
 Chak Thirteen -Fourteen Left, Tabbiwāla, Tabewāli
-Chak Thirteen -One Left, Chak Thirteen-One A L
+Chak Thirteen -One Left, Chak Thirteen-One A L, Chak Thirteen-One L
 Chak Thirteen -Ten Right
-Chak Thirteen A, Chak Thirteen Lat, Chuknawāli, Dhabān Kalan, Dhabān Khurd, Dhābān Singh Kalān, Dhābān Singh Khurd, Ghoghani, Gogni, Lot, Nūrka, Nūrke, Wāltarganj
+Chak Thirteen A
 Chak Thirteen A South Branch, Chak Thirteen A SB
 Chak Thirteen A/H
 Chak Thirteen AP
-Chak Thirteen Ahmadpur Branch Canal
+Chak Thirteen Ahmadpur Branch Canal, Chak Number Thirteen A
 Chak Thirteen B ML, Chak Thirteen ML
 Chak Thirteen Bahawal Canal
 Chak Thirteen D
@@ -24582,8 +24688,10 @@ Chak Thirteen North Branch, Chak Thirteen NB, Dhamman
 Chak Thirteen Panjnad, Chak Thirteen P
 Chak Thirteen Rakh Branch, Tirliānwāla
 Chak Thirteen SP
+Chak Thirteen South Branch, Chak Thirteen SB
 Chak Thirteen Thal Development Authority, Chak 13 TDA
 Chak Thirteen Western Bank
+Chak Thirteen- Eight Right, Chak Thirteen-Eight R
 Chak Thirteen- Nine Right, Chak Thirteen Nine R
 Chak Thirteen-Eleven Left
 Chak Thirteen/Sixty-five, Chak Thirteen and Sixty-three
@@ -24591,6 +24699,7 @@ Chak Thirty, Chak Thirty Shādīwāl, Fanebura, Fanepur, Fanepura
 Chak Thirty - Four Left, Chak Thirty Four L, Raīsānwāla, Ālu Mahār
 Chak Thirty -Eleven Left, Georgeābād
 Chak Thirty -Fourteen Left
+Chak Thirty -Gogera Distributary, Perokiānwāla
 Chak Thirty -One A Left, Chak Thirty-One A L
 Chak Thirty -Two Left
 Chak Thirty -Two Right A
@@ -24599,6 +24708,7 @@ Chak Thirty Bahawal Canal Sharqi, Chak Thirty BC Sharqi
 Chak Thirty Dara Nawab Branch, Chak 30 D N B
 Chak Thirty Dullewala Branch, Chak Thirty DB
 Chak Thirty Eastern Bar, Kudpura
+Chak Thirty Eight, Chak Number Thirty-Eight, Dabbora, Deo Singhwāla, Jāngliānwāla, Rivazābād Janūbi, Riwazabad Janubi
 Chak Thirty Four, Mandike, Mundāki
 Chak Thirty Gajjiani
 Chak Thirty Gugera Branch, Jalandhar Nau
@@ -24613,7 +24723,7 @@ Chak Thirty South Branch, Chak Thirty SB
 Chak Thirty Thal Development Authority, Chak 30 TDA, Chak Thirty A TDA
 Chak Thirty Western Bank
 Chak Thirty- Ten Right, Chak Thirty-Ten R
-Chak Thirty-A Gogera Distributary, Ahāta Bahāwan Shāh, Perokiānwāla
+Chak Thirty-A Gogera Distributary, Ahāta Bahāwan Shāh, Chak Thirty A
 Chak Thirty-D
 Chak Thirty-Five R
 Chak Thirty-Four M
@@ -24621,13 +24731,15 @@ Chak Thirty-Three Right
 Chak Thirty-eight - Four Left, Chak Thirty-eight Four L
 Chak Thirty-eight -Gogera Distributary, Voungpur, Youngpur
 Chak Thirty-eight -Twelve Left
-Chak Thirty-eight -Two Right A, Gajanwāla, Sabha Singhwāla
-Chak Thirty-eight A, Chak Number Thirty-Eight, Dabbora, Deo Singhwāla, Jāngliānwāla, Rivazābād Janūbi, Riwazabad Janubi
-Chak Thirty-eight A Dolewala Branch, Chak Sixty-eight A DB, Chak Thirty-eight DB
+Chak Thirty-eight -Two Right, Gajanwāla
+Chak Thirty-eight -Two Right A, Sabha Singhwāla
+Chak Thirty-eight A
+Chak Thirty-eight A Dolewala Branch, Chak Sixty-eight A DB
 Chak Thirty-eight Bahawal Canal
 Chak Thirty-eight D Kalan
 Chak Thirty-eight D Khurd
 Chak Thirty-eight Dara Nawab Branch, Chak 38 D N B
+Chak Thirty-eight Dolewala Branch, Chak Thirty-eight DB
 Chak Thirty-eight Eastern Bar
 Chak Thirty-eight Fateh
 Chak Thirty-eight Gugera Branch, Dhanoriān
@@ -24764,12 +24876,13 @@ Chak Thirty-seven-D
 Chak Thirty-seven-Eight L
 Chak Thirty-seven-Three Right
 Chak Thirty-six, Hinda, Jhaido
+Chak Thirty-six - Four Left, Bilandābād, Chak Thirty-six Four L, Malgodāyānwala
 Chak Thirty-six - Two Left, Chak Thirty-six Two L
 Chak Thirty-six -A Gogera Distributary
 Chak Thirty-six -Fourteen Left
 Chak Thirty-six -Thirty-seven -Gogera Distributary, Bahādurnagar, Chak Thirty-seven GD
 Chak Thirty-six -Twelve Left, Chak Thirty-six-Twelve L
-Chak Thirty-six A - Four Left, Bilandābād, Chak Thirty-six Four L, Malgodāyānwala
+Chak Thirty-six A - Four Left
 Chak Thirty-six Bahawal Canal
 Chak Thirty-six Dara Nawab Branch, Chak 36 D N B
 Chak Thirty-six Dullewala Branch, Chak Thirty six DB
@@ -24795,7 +24908,7 @@ Chak Thirty-three -Fourteen Left
 Chak Thirty-three -Gogera Distributary, Khui Khawāja, Kotli Khawājah
 Chak Thirty-three -Twelve Left
 Chak Thirty-three -Two Right A, Chak Thrity-three Two RA
-Chak Thirty-three A Bahawal Canal
+Chak Thirty-three A Bahawal Canal, Chak Thirty-three A
 Chak Thirty-three A Left, Chak Thirty-three-One A L
 Chak Thirty-three Bahawal Canal Gharbi, Chak Thirty-three Gharbi
 Chak Thirty-three Bahawal Canal Sharqi, Chak Thirty-three Sharqi
@@ -24814,13 +24927,15 @@ Chak Thirty-three Western Bank, Ahmad Yār Daulatāna
 Chak Thirty-three- Ten Right, Awāngarh, Chak Thirty-Eight-Ten R
 Chak Thirty-three-D, Chak Parjewāla
 Chak Thirty-three-Three Right
+Chak Thirty-two, Natha Kot
 Chak Thirty-two - Four Left, Chak Thirty-two Four L, Ugūāna
 Chak Thirty-two -One A Left, Chak Thirty-two-One A L
 Chak Thirty-two -Thirty-five Fifteen Left
 Chak Thirty-two -Twelve Left, Hazūrābād
 Chak Thirty-two -Two Right
-Chak Thirty-two A, Natha Kot
+Chak Thirty-two A
 Chak Thirty-two A Bahawal Canal
+Chak Thirty-two Bahawal Canal
 Chak Thirty-two Dara Nawab Branch, Chak 32 D N B
 Chak Thirty-two Dullewala Branch, Chak Thirty-two DB
 Chak Thirty-two Eastern Bar
@@ -24838,8 +24953,10 @@ Chak Thirty-two Western Bank
 Chak Thirty-two- Ten Right, Chak Thirty-Two-Ten R
 Chak Thirty-two-Three Right
 Chak Three, Bhole Khānwāla, Bhāikot, Chak 3 NB, Chak Three NB, Ittānwāli, Itānwāla, Johk Goudwali, Meredithābād, Panjānwala, Pinjānwāla
+Chak Three - One Right
 Chak Three -Fourteen Left, Chak Three-Fourteen L
 Chak Three -One A Left, Chak Three-One A L
+Chak Three -One Left, Chak Three-One L
 Chak Three -One Right A
 Chak Three -Two Left
 Chak Three / Four Left, Chak Three-Four L
@@ -24986,9 +25103,10 @@ Chak Three Hundred Forty-one Hakra Right
 Chak Three Hundred Forty-one Western Bar
 Chak Three Hundred Forty-seven, Chak Chattha
 Chak Three Hundred Forty-seven -One Hundred Twelve Gugera Branch, Chak Three Hundred Forty-Seven-One/Two GB
-Chak Three Hundred Forty-seven A Thal Development Authority, Chak Three Hundred Forty-Seven TDA
+Chak Three Hundred Forty-seven A Thal Development Authority
 Chak Three Hundred Forty-seven Eastern Bar, Chak Three Hundred Forty-seven EB
 Chak Three Hundred Forty-seven Gugera Branch, Chak Three Hundred Forty-Seven GB, Garhi Fāzil
+Chak Three Hundred Forty-seven Thal Development Authority, Chak Three Hundred Forty-Seven TDA
 Chak Three Hundred Forty-seven WB
 Chak Three Hundred Forty-six Gugera Branch, Chak Three Hundred Ninety-Six GB, Ludhiāna Khurd, Rāiiānwāla
 Chak Three Hundred Forty-six Jhang Branch, Bārāi Kodan, Bārāni Kodan, Chak Three Hundred Forty-six, Kodhān, Kot Kodhan
@@ -25058,14 +25176,15 @@ Chak Three Hundred Seven Jhang Branch, Chak Number Three Hundred Seven, Sarok Ji
 Chak Three Hundred Seven Thal Development Authority, Chak 307 TDA, Chak Three Hundred Seven TDA
 Chak Three Hundred Seven Western Bar, Chak Three Hundred Seven WB
 Chak Three Hundred Seventeen A
-Chak Three Hundred Seventeen Eastern Bar
+Chak Three Hundred Seventeen Eastern Bar, Chak Three Hundred Seventeen
 Chak Three Hundred Seventeen Gugera Branch, Chak Three Hundred Seventeen GB, Phūlewāl
 Chak Three Hundred Seventeen Hakra Right
 Chak Three Hundred Seventeen Jhang Branch, Chak Number Three Hundred Seventeen, Khamchun, Khāma Chun
 Chak Three Hundred Seventeen Thal Development Authority, Chak 317 TDA, Chak Three Hundred Seventeen TDA
 Chak Three Hundred Seventy, Kot Ghulām Muhammad
-Chak Three Hundred Seventy A Thal Development Authority, Chak Three Hundred Seventy A TDA, Chak Three Hundred Seventy B TDA
+Chak Three Hundred Seventy A Thal Development Authority, Chak Three Hundred Seventy B TDA
 Chak Three Hundred Seventy Gugera Branch, Chak Number Three Hundred Seventy, Ghanike Bet, Ghaniāke
+Chak Three Hundred Seventy Thal Development Authority, Chak Three Hundred Seventy A TDA
 Chak Three Hundred Seventy Western Bar
 Chak Three Hundred Seventy-Eight
 Chak Three Hundred Seventy-Seven, Patrāna, Pithrana
@@ -25101,8 +25220,9 @@ Chak Three Hundred Seventy-six Thal Development Authority
 Chak Three Hundred Seventy-six Western Bar
 Chak Three Hundred Seventy-three Eastern Bar, Kāli Dāswāla
 Chak Three Hundred Seventy-three Gugera Branch, Chak Number Three Hundred Seventy-Three, Khāldi, Khālida, Pairewāl, Parewal
-Chak Three Hundred Seventy-two A Thal Development Authority, Chak Three Hundred Seventy-Two TDA
+Chak Three Hundred Seventy-two A Thal Development Authority
 Chak Three Hundred Seventy-two Gugera Branch, Bujianwali, Bujiānwāla, Chak Number Three Hundred Seventy-Two, Nūn Chak
+Chak Three Hundred Seventy-two Thal Development Authority, Chak Three Hundred Seventy-Two TDA
 Chak Three Hundred Seventy-two Western Bar, Chak Three Hundred Seventy-two
 Chak Three Hundred Six Gugera Branch, Chak Three Hundred Six GB
 Chak Three Hundred Six Hakra Right
@@ -25118,6 +25238,7 @@ Chak Three Hundred Sixty-Eight A Thal Development Authority, Chak Three Hundred 
 Chak Three Hundred Sixty-Four B Thal Development Authority, Chak Three Hundred Sixty-Four B TDA
 Chak Three Hundred Sixty-Seven Thal Development Authority, Chak Three Hundred Sixty-Seven TDA
 Chak Three Hundred Sixty-eight, Jhok Rehana, Jhok Rihān, Jhok Rihāna
+Chak Three Hundred Sixty-eight Thal Development Authority, Chak Three Hundred Sixty-Eight TDA
 Chak Three Hundred Sixty-eight Western Bar
 Chak Three Hundred Sixty-eigth Gugera Branch, Chak Number Three Hundred Sixty-Eight, Wadla, Widāla, Wāndāla
 Chak Three Hundred Sixty-five
@@ -25127,13 +25248,14 @@ Chak Three Hundred Sixty-five Thal Development Authority
 Chak Three Hundred Sixty-five Western Bar Sharqi, Chak Three Hundred Sixty-five East
 Chak Three Hundred Sixty-five Western Bar West Gharbi, Chak Three Hundred Sixty-five Gharbi, Chak Three Hundred Sixty-five West
 Chak Three Hundred Sixty-four, Chak Number Three Hundred Sixty-Four
-Chak Three Hundred Sixty-four Gogera Branch, Jhok Ali di, Wān Naurang
+Chak Three Hundred Sixty-four Gogera Branch, Wān Naurang
 Chak Three Hundred Sixty-four Thal Development Authority, Chak Three Hundred Sixty-Four TDA
 Chak Three Hundred Sixty-four Western Bar
 Chak Three Hundred Sixty-nine, Reshān
 Chak Three Hundred Sixty-nine A Thal Development Authority
 Chak Three Hundred Sixty-nine Eastern Bar
 Chak Three Hundred Sixty-nine Gugera Branch, Chak Number Three Hundred Sixty-Nine, Santhaksar, Santhoksar, Santokhsar
+Chak Three Hundred Sixty-nine Thal Development Authority, Chak Three Hundred Sixty-nine A
 Chak Three Hundred Sixty-nine Western Bar
 Chak Three Hundred Sixty-one, Chak Number Three Hundred Sixty-One
 Chak Three Hundred Sixty-one Eastern Bar
@@ -25219,6 +25341,7 @@ Chak Three Hundred Thirty-two Thal Development Authority, Chak 332 TDA, Chak Thr
 Chak Three Hundred Three A Hakra Right
 Chak Three Hundred Three Eastern Bar, Chak Three Hundred Three, Chopra, Choupari
 Chak Three Hundred Three Gugera Branch, Chak Three Hundred Three GB
+Chak Three Hundred Three Hakra Right
 Chak Three Hundred Three Thal Development Authority, Chak 303 TDA, Chak Three Hundred Three TDA
 Chak Three Hundred Three Western Bar
 Chak Three Hundred Twelve Gugera Branch, Chak Three Hundred Twelve GB, Kalu Wāhar
@@ -25293,8 +25416,9 @@ Chak Three Tarpai
 Chak Three Ten Left
 Chak Three Thal Development Authority, Chak Three TDA
 Chak Three Western Bank, Chak Three-Eight L
-Chak Three- Eight A Right, Chak Three-Eight AR, Chak Three-Eight R
+Chak Three- Eight A Right, Chak Three-Eight AR
 Chak Three- Nine Right, Chak Three-Nine R, Shahkhanwāla, Shakhhanwāla, Sheikhānawāla
+Chak Three-Eight Right, Chak Three-Eight R
 Chak Three-Four M, Chak Three - Four
 Chak Three/Three Right
 Chak Thrity-Eight Sharqi, Dinga Chak
@@ -25306,11 +25430,12 @@ Chak Toru
 Chak Tuti
 Chak Twelve, Chountranwāla, Choutriānwāla, Salotarianwala, Salotriānwāla, Santwāli
 Chak Twelve - One Right
-Chak Twelve -Eight A Right, Chak Twelve-Eight AR, Chak Twelve-Eight R, Murtazpur, Murtazāpur
+Chak Twelve -Eight A Right, Chak Twelve-Eight AR
 Chak Twelve -Fifteen Left
 Chak Twelve -Four Left, Gokhlepur
 Chak Twelve -Fourteen Left
-Chak Twelve -One A Left, Chak Twelve-One L, Chak Twelve-One R
+Chak Twelve -One A Left, Chak Twelve-One R
+Chak Twelve -One Left, Chak Twelve-One L
 Chak Twelve -Three Left
 Chak Twelve A Dullewala Branch, Chak Twelve A DB
 Chak Twelve AH, Chhotta
@@ -25335,6 +25460,7 @@ Chak Twelve Rakh Branch
 Chak Twelve SP, Kothiwāla
 Chak Twelve South Branch, Chak Twelve SB
 Chak Twelve Western Bank, Chak Twelve-Four R
+Chak Twelve- Eight Right, Chak Twelve-Eight R, Murtazpur, Murtazāpur
 Chak Twelve-Gugera Distributary
 Chak Twelve/Sixty-eight, Chak Twelve and Sixty-three
 Chak Twenty, Dogāij Kalān, Khanke Chhanawan, Khān-ki-Channawān, Khānke, Matsonābād
@@ -25344,9 +25470,9 @@ Chak Twenty - Three Right
 Chak Twenty -Eleven Left
 Chak Twenty -Fourteen
 Chak Twenty -Gogera Distributary, Manyānwāla
-Chak Twenty -One A Left
+Chak Twenty -One A Left, Chak Twenty-One A L
 Chak Twenty -One Right Branch
-Chak Twenty -Two Left
+Chak Twenty -Two Left, Chak Twenty-One L
 Chak Twenty A One A L
 Chak Twenty A Two L
 Chak Twenty DNB
@@ -25372,10 +25498,11 @@ Chak Twenty-Eight R, Chak Twenty-Eight BR
 Chak Twenty-Five M, Chak Twnty-Five M
 Chak Twenty-Nine M
 Chak Twenty-eight, Waltoha
+Chak Twenty-eight - Four Left, Raīsānwāla
 Chak Twenty-eight -Eleven Left
 Chak Twenty-eight -One A Left, Chak Twenty-eight-One A L
 Chak Twenty-eight -Two Right A
-Chak Twenty-eight A - Four Left, Chak Twenty-eight A Four L, Raīsānwāla
+Chak Twenty-eight A - Four Left, Chak Twenty-eight A Four L
 Chak Twenty-eight Bahawal Canal
 Chak Twenty-eight Dara Nawab Branch, Chak 28 D N B
 Chak Twenty-eight Dullewala Branch, Chak Twenty eight DB
@@ -25404,10 +25531,10 @@ Chak Twenty-five -Eleven Left, Chak Twenty-five-Eleven L
 Chak Twenty-five -Fourteen Left
 Chak Twenty-five -Gogera Distributary
 Chak Twenty-five -One A Left, Chak Twenty-five-One A L
-Chak Twenty-five -Two Right A, Sangoka, Sanjūka
+Chak Twenty-five -Two Right A, Chak Twenty-five -Two Right, Sangoka, Sanjūka
 Chak Twenty-five A- Ten Right, Chak Twenty-Five A-Ten R
 Chak Twenty-five AMB
-Chak Twenty-five Bahawal Canal
+Chak Twenty-five Bahawal Canal, Chak Twenty-five A
 Chak Twenty-five Dara Nawab Branch
 Chak Twenty-five Dullewala Branch, Chak Twenty-five DB
 Chak Twenty-five Eastern Bar
@@ -25424,6 +25551,7 @@ Chak Twenty-five Rakh Branch, Sathiāli
 Chak Twenty-five SP
 Chak Twenty-five South Branch, Kalar Colony
 Chak Twenty-five Western Bank, Chak Twenty-five-Eight L
+Chak Twenty-five- Ten Right, Chak Twenty-Five-Ten R
 Chak Twenty-five-D
 Chak Twenty-four, Kattera
 Chak Twenty-four - Four Left, Chak Twenty-four Four L
@@ -25452,12 +25580,13 @@ Chak Twenty-four Thal Development Authority
 Chak Twenty-four Western Bank
 Chak Twenty-four- Ten Right, Chak Twenty-Four-Ten R, Nīlāmgarh
 Chak Twenty-four-D
+Chak Twenty-nine, Ganda Singhwāli, Gogga
 Chak Twenty-nine - Four Left, Bokiānwāla, Chak Twenty-nine Four L
 Chak Twenty-nine -Eleven Left, Betammiān, Betanniān
 Chak Twenty-nine -Fourteen Left
 Chak Twenty-nine -One A Left
 Chak Twenty-nine -Two Right
-Chak Twenty-nine A, Ganda Singhwāli, Gogga
+Chak Twenty-nine A
 Chak Twenty-nine Bahawal Canal
 Chak Twenty-nine Dara Nawab Branch, Chak 29 D N B
 Chak Twenty-nine Dullewala Branch, Chak Twenty-nine DB
@@ -25505,6 +25634,7 @@ Chak Twenty-one MB
 Chak Twenty-one ML, Chak Twenty Twenty-one ML
 Chak Twenty-one MPR, Chak 21 MPR
 Chak Twenty-one MR
+Chak Twenty-one NP
 Chak Twenty-one NP A
 Chak Twenty-one North Branch, Chak Twenty-one NB
 Chak Twenty-one One AL, Kot Matha
@@ -25575,12 +25705,13 @@ Chak Twenty-six- Ten Right, Chak Twenty-Six-Ten R
 Chak Twenty-six-D
 Chak Twenty-six-Three Right, Jhakharānwāla
 Chak Twenty-three, Chak Twenty-three Gilwāla, Shamāii
-Chak Twenty-three -A Gogera Distributary
+Chak Twenty-three - Four Left, Chak Twenty-three B Four L
+Chak Twenty-three -A Gogera Distributary, Chak Twenty-three A
 Chak Twenty-three -Eleven Left, Kot Ganj Bakhsh
 Chak Twenty-three -Fourteen
 Chak Twenty-three -One Right Branch, Dharsābād, Doārsābād
 Chak Twenty-three -Two Left, Chak Twenty-three-Two L
-Chak Twenty-three A - Four Left, Chak Twenty-three A-Four L, Chak Twenty-three B Four L, Kot Hācham, Kot Hāsham, Kot Hāshim
+Chak Twenty-three A - Four Left, Chak 23 A-4 L, Chak Twenty-three A-Four L, Kot Hācham, Kot Hāsham, Kot Hāshim
 Chak Twenty-three Bahawal Canal
 Chak Twenty-three Dara Nawab Branch, Chak 23 D N B
 Chak Twenty-three Dullewala Branch, Chak Twenty-three DB
@@ -25637,7 +25768,9 @@ Chak Twenty/Seventy-five, Chak Mughaliānwāla
 Chak Twenty/Seventy-three, Kot Hākamwāla
 Chak Twenty/Seventy-two, Chah Hakamwlāla
 Chak Tweny-three Rakh Branch, Bernāla, Burnāla
+Chak Two - One Right
 Chak Two -One A Left, Chak Two-One A L
+Chak Two -One Left, Chak Two-One L
 Chak Two -One Right A
 Chak Two / Four Left, Chak Two-Four L
 Chak Two / Four Right, Chak Two-Four R
@@ -25741,6 +25874,7 @@ Chak Two Hundred Fifty Gugera Branch, Naukharwal, Nokarwāla, Nokharwāl, Nokher
 Chak Two Hundred Fifty Hakra
 Chak Two Hundred Fifty Rakh Branch, Baddarke, Umedpur
 Chak Two Hundred Fifty Thal Development Authority, Chak 250 TDA Fatehpur, Chak Two Hundred Fifty TDA Fatehpur, Fatenpur
+Chak Two Hundred Fifty-Four
 Chak Two Hundred Fifty-Nine, Gurupur, Hirkipindwāla, Hīrke Ahāte, Pattuāna, Sultān Pākhra
 Chak Two Hundred Fifty-eight
 Chak Two Hundred Fifty-eight Gugera Branch
@@ -25771,7 +25905,7 @@ Chak Two Hundred Fifty-one Eastern Bar
 Chak Two Hundred Fifty-one Rakh Branch, Banddāla, Bundāla, Kang Budala, Kang Bundāla, Kang Khurdi
 Chak Two Hundred Fifty-one Thal Development Authority, Chak 251 TDA, Chak Two Hundred Fifty-One TDA
 Chak Two Hundred Fifty-one Western Bar, Chak Two Hundred Fifty-one WB
-Chak Two Hundred Fifty-seven, Kot Badal Khan, Kot Bhādor Khān
+Chak Two Hundred Fifty-seven, Chak Two Hundred Fifty-Seven A, Kot Badal Khan, Kot Bhādor Khān
 Chak Two Hundred Fifty-seven Eastern Bar
 Chak Two Hundred Fifty-seven Rakh Branch, Boghan, Jahāngīr Khurd, Julangīr Khurd
 Chak Two Hundred Fifty-seven Thal Development Authority
@@ -25844,6 +25978,7 @@ Chak Two Hundred Forty-two B-Thal Development Authority, Chak Two Hundred Forty-
 Chak Two Hundred Forty-two Gugera Branch
 Chak Two Hundred Forty-two Hakra Left
 Chak Two Hundred Forty-two Rakh Branch, Chak Two Hundred Forty-Two RB, Dasua, Dasūha
+Chak Two Hundred Forty-two Thal Development Authority, Chak Two Hundred Forty-two TDA
 Chak Two Hundred Four, Tuarwāla, Tuarwāli
 Chak Two Hundred Four - Nine Right
 Chak Two Hundred Four A - Hakra Branch
@@ -25914,6 +26049,7 @@ Chak Two Hundred Ninety-seven Thal Development Authority, Chak 297 TDA, Chak Two
 Chak Two Hundred Ninety-seven Western Bar
 Chak Two Hundred Ninety-six A Hakra Right
 Chak Two Hundred Ninety-six Gugera Branch, Chak Two Hundred Ninety-Six GB, Patwārianwāla
+Chak Two Hundred Ninety-six Hakra Right
 Chak Two Hundred Ninety-six Rakh Branch, Chak One Hundred Ninety-Six RB, Chak Two Hundred Ninety-Six RB, Hokīmwāla
 Chak Two Hundred Ninety-six Thal Development Authority, Chak 296 TDA, Chak Two Hundred Ninety-Six TDA
 Chak Two Hundred Ninety-three, Seron, Sherūn
@@ -25943,10 +26079,11 @@ Chak Two Hundred Seven Gugera Branch
 Chak Two Hundred Seven Murad
 Chak Two Hundred Seven Rakj Branch, Chattiān
 Chak Two Hundred Seventeen - Nine Right
-Chak Two Hundred Seventeen A Thal Development Authority, Chak 217 TDA, Chak Two Hundred Seventeen TDA
+Chak Two Hundred Seventeen A Thal Development Authority
 Chak Two Hundred Seventeen Eastern Bar
 Chak Two Hundred Seventeen Gugera Branch, Gujarpind, Gūjar Pind
 Chak Two Hundred Seventeen Jhang Branch, Achhkoro, Chak Two Hundred Seventeen JB, Chakera
+Chak Two Hundred Seventeen Thal Development Authority, Chak 217 TDA, Chak Two Hundred Seventeen TDA
 Chak Two Hundred Seventy, Christiānwāla
 Chak Two Hundred Seventy Gugera Branch, Chadharānwāla, Parhā, Parhāri
 Chak Two Hundred Seventy Hakra Right Gharbi
@@ -25957,6 +26094,7 @@ Chak Two Hundred Seventy Hakra Right Sharqi
 Chak Two Hundred Seventy One H/R
 Chak Two Hundred Seventy Rakh Branch, Mājhiwāl
 Chak Two Hundred Seventy Thal Development Authority, Chak 207 TDA, Chak Two Hundred Seventy TDA
+Chak Two Hundred Seventy-eight
 Chak Two Hundred Seventy-eight A
 Chak Two Hundred Seventy-eight Gugera Branch, Gadhuana, Godhuāna, Shabir ka-Chak
 Chak Two Hundred Seventy-eight Hakra Right Gharbi
@@ -26094,7 +26232,7 @@ Chak Two Hundred Thirty, Chohla, Mastanpur, Shikhāna
 Chak Two Hundred Thirty - Nine Right
 Chak Two Hundred Thirty Eastern Bank, Chak Forty-eight-Two Hundred Thirty
 Chak Two Hundred Thirty Gugera Branch, Bādharawāla
-Chak Two Hundred Thirty Thal Development Authority, Chak 230 A TDA, Chak Two Hundred Thirty A TDA
+Chak Two Hundred Thirty Thal Development Authority, Chak 230 A TDA, Chak 230 TDA, Chak Two Hundred Thirty A TDA, Chak Two Hundred Thirty TDA
 Chak Two Hundred Thirty-eight, Balarwāla, Ballarwāla, Radu
 Chak Two Hundred Thirty-eight - Nine Right
 Chak Two Hundred Thirty-eight Gugera Branch
@@ -26118,6 +26256,7 @@ Chak Two Hundred Thirty-nine B-Thal Development Authority
 Chak Two Hundred Thirty-nine Eastern Bar
 Chak Two Hundred Thirty-nine Gugera Branch, Jhok Kaliār
 Chak Two Hundred Thirty-nine Rakh Branch, Chak Two Hundred Thirty-Nine RB, Harniān, Rao Khannuana, Rāu Khānuāna
+Chak Two Hundred Thirty-nine Thal Development Authority
 Chak Two Hundred Thirty-one, Kamaka, Kāmoka, Thatta Fateh Ali
 Chak Two Hundred Thirty-one - Nine Right, Gujrānwāli
 Chak Two Hundred Thirty-one Eastern Bar
@@ -26172,12 +26311,14 @@ Chak Two Hundred Twenty-Six Gugera Branch
 Chak Two Hundred Twenty-Two RB, Nawābānwāla
 Chak Two Hundred Twenty-eight
 Chak Two Hundred Twenty-eight - Nine Right
-Chak Two Hundred Twenty-eight A Thal Development Authority, Chak 228 TDA, Chak Two Hundred Twenty-Eight A TDA
+Chak Two Hundred Twenty-eight A Thal Development Authority, Chak 228A TDA, Chak Two Hundred Twenty-Eight A TDA
 Chak Two Hundred Twenty-eight Eastern Bank, Chak Forty-seven-Two Hundred Twenty-eight
 Chak Two Hundred Twenty-eight Gugera Branch, Nāra Dāda, Nārādāda
 Chak Two Hundred Twenty-eight Rakh Branch, Bōrān, Chak Two Hundred Twenty-Eight RB
+Chak Two Hundred Twenty-eight Thal Development Authority, Chak 228 TDA, Chak Two Hundred Twenty-Eight TDA
+Chak Two Hundred Twenty-five, Chackāna, Kot Ahmad
 Chak Two Hundred Twenty-five - Nine Right
-Chak Two Hundred Twenty-five A, Chackāna, Kot Ahmad
+Chak Two Hundred Twenty-five A
 Chak Two Hundred Twenty-five Eastern Bar
 Chak Two Hundred Twenty-five Gugera Branch, Chogawan, Chuggānwān, Chugāwan
 Chak Two Hundred Twenty-five Rakh Branch, Malkhanwal
@@ -26255,6 +26396,7 @@ Chak Two Thirty-three - Nine Right, Wallar
 Chak Two hundred Thirty-two GB, Jourīanwāla
 Chak Two- Eight A Right, Chak Two-Eight A R, Chak Two-Eight AR, Chak Two-Eight-R-Radwāla, Multanwāla, Rotiwāla, Sardari Aslamwāla
 Chak Two- Nine Right, Chak Two-Nine R, Rathwāia, Rathwāla, Rothwāla
+Chak Two-Eight Right, Chak Two-Eight R
 Chak Udanwala
 Chak Udhe
 Chak Uggu, Chak Ugga, Chak Uggo
@@ -29818,7 +29960,7 @@ D B Number Twenty-eight, DB Number Twenty-eight
 D Block
 D C Colony
 D Type Colony
-D.B. Number Eighty-seven A
+D.B. Number Eighty-seven A, DB Number Eighty-seven
 DB Eight, DB Number Eight
 DB Eleven, DB Number Eleven
 DB Fifty-eight, DB Number Fifty-eight
@@ -32316,11 +32458,12 @@ Deh Three Hundred Nineteen C
 Deh Three Hundred Seventy
 Deh Three Hundred Seventy-four
 Deh Three Hundred Seventy-six
-Deh Three Hundred Seventy-three A
+Deh Three Hundred Seventy-three A, Deh Three Hundred Seventy-three
 Deh Three Hundred Seventy-two
 Deh Three Hundred Six
 Deh Three Hundred Sixteen
 Deh Three Hundred Sixty
+Deh Three Hundred Sixty-eight
 Deh Three Hundred Sixty-eight A
 Deh Three Hundred Sixty-five
 Deh Three Hundred Sixty-nine
@@ -32368,6 +32511,7 @@ Deh Two Hundred Seventy-one
 Deh Two Hundred Sixty-eight, Ali Bakhsh Rājpūt
 Deh Two Hundred Sixty-five, Sāmejo
 Deh Two Hundred Sixty-four
+Deh Two Hundred Sixty-nine
 Deh Two Hundred Sixty-nine A
 Deh Two Hundred Sixty-seven
 Deh Two Hundred Sixty-seven (c)
@@ -32595,6 +32739,7 @@ Dera Aslam
 Dera Atta Muhammad
 Dera Avub
 Dera Awan
+Dera Awanan
 Dera Awanan Da
 Dera Awananda, Dera Awānānd
 Dera Awananwala
@@ -34871,7 +35016,7 @@ Dhok Dil Muhammad
 Dhok Dilal
 Dhok Ditta
 Dhok Ditwal, Datwāl
-Dhok Doba, Doba Dhok, Pahārian Dhok
+Dhok Doba, Doba Dhok
 Dhok Dodhandi, Dodandi Dhok
 Dhok Dodhari, Dhok Didhan
 Dhok Doharian
@@ -43776,6 +43921,7 @@ Gotal Baihk
 Gotam
 Gotamsar
 Gote Baihk
+Goth
 Goth Aambro
 Goth Aarb Khan Mahar
 Goth Aayo Khan Magsi
@@ -70423,7 +70569,6 @@ Kalu Arain Uttar
 Kalu Baba Dheri
 Kalu Bada
 Kalu Banda
-Kalu Basti
 Kalu Bhor
 Kalu Chak, Chak Kalo
 Kalu Chang
@@ -70754,7 +70899,7 @@ Kamil Chanio
 Kamil Mehar
 Kamil Panwar
 Kamil Shāh
-Kamil di Dhok, Kāmil da Dhok
+Kamil di Dhok
 Kamila
 Kamilabad
 Kamilabad Colony, Kāmalābād Colony
@@ -73579,7 +73724,6 @@ Khairli
 Khairmal
 Khairo
 Khairo Bahalo
-Khairo Basti, Khīr Chara
 Khairo Bhatti
 Khairo Bulra, Khaira Bulra
 Khairo Dero, Goth Dodāi, Goth Dodāi Sāngi
@@ -73597,7 +73741,7 @@ Khairo Mohan, Khairo Mohāno
 Khairo Tagaz
 Khairo Wako
 Khairo Wand
-Khairo-di-Basti
+Khairo-di-Basti, Khīr Chara
 Khairodero, Goth Khairo Daro, Goth Khairo Dero, Khairadero
 Khairowala Khu
 Khairowaro Dara
@@ -73896,6 +74040,7 @@ Khalrai
 Khalrai Bhit
 Khalriwala
 Khalriwala Toba
+Khalsa
 Khalsa And, Khālsa Andān
 Khalsawala
 Khalso
@@ -74039,7 +74184,7 @@ Khan Chandio
 Khan Chandwala
 Khan Channa
 Khan Colony
-Khan Da Kot, Khan Tarh
+Khan Da Kot
 Khan Dad Lund
 Khan Dand
 Khan Dhasht
@@ -74080,6 +74225,7 @@ Khan Khui
 Khan Kili
 Khan Kol
 Khan Korona
+Khan Kot, Khan Tarh
 Khan Kot Qilla, Khan Kot Zarmelan
 Khan Laghari, Nūr Khān Laghāri
 Khan Madad Khan
@@ -74712,6 +74858,7 @@ Khariala Forest
 Khariam, Khairiān
 Kharian
 Kharian Da Dera
+Kharian da Dera
 Kharian di Bhaini
 Kharianwala
 Kharianwali
@@ -75232,6 +75379,7 @@ Kheje
 Khejrar, Khejrāri
 Khekhar
 Khekka, Khīkha
+Khel
 Khel Banda
 Khel Dhok
 Khela, Khilla
@@ -80772,7 +80920,7 @@ Kotki, Kotakai Charmang
 Kotki Bala
 Kotki Khel
 Kotki Payan
-Kotki Said Amir, Said Mir Kotli, Said Mīr di Kotli
+Kotki Said Amir, Said Mir Kotli
 Kotkilai
 Kotkio
 Kotkum
@@ -81038,7 +81186,7 @@ Kotli Madda, Madda Kotli
 Kotli Madharewali, Kotli Madbarewāli
 Kotli Mahtam
 Kotli Mai Karam Bibi
-Kotli Malian di, Kotli Maliān
+Kotli Malian di
 Kotli Malliar, Kotli Malliān
 Kotli Mamola
 Kotli Manalian, Kotli Manan
@@ -84506,6 +84654,7 @@ Lohara Bohia
 Lohara Forest, Lohra Forest
 Loharan
 Loharan Di Basti
+Loharan di Basti
 Loharan di Jhugi, Lohārān de Jhuge
 Loharan-da Gohra, Lahātān Gura
 Loharani Shirani, Loharāni Shirān
@@ -85255,7 +85404,7 @@ Machhewala
 Machhi Ali Muhammad Goth, Goth Māchhi Ali Muhammad
 Machhi Bangla
 Machhi Barohi
-Machhi Basti, Machhi di Basti
+Machhi Basti
 Machhi Chakol
 Machhi Dera, Māchhi Dara
 Machhi Goth
@@ -90438,7 +90587,6 @@ Mian Daka Kas
 Mian Darya Khan
 Mian Dera
 Mian Dheri
-Mian Dhok
 Mian Din Banda
 Mian Dinwala, Miān Dinewāla
 Mian Dost Ali
@@ -90575,7 +90723,7 @@ Mian Zafar Khan Kalle
 Mian Zaman Katbar
 Mian Ziarat
 Mian da Khu, Miān da Khuh
-Mian da Kot, Miān di Kot
+Mian da Kot
 Mian da Thatta, Thatta Muhammad Panāh
 Mian di Bhaini
 Mian di Dhok
@@ -91903,8 +92051,10 @@ Mochi Pachar
 Mochi Panwan
 Mochi Panwar, Mochi Panwān
 Mochi Ziarat
-Mochian Da Khu, Mochian da Khua
+Mochian Da Khu
 Mochian Di Basti
+Mochian da Khu, Mochian da Khua
+Mochian di Basti
 Mochian di Bhain
 Mochian di Bhaini
 Mochian di Dhok
@@ -91934,7 +92084,8 @@ Mod Gasūra
 Modad Khan Banda
 Modahi Gabal Kāri
 Model Colony
-Model Town A, Model Town One, Walton
+Model Town, Model Town One, Walton
+Model Town A
 Model Town B
 Model Town C
 Model Town Uggoke
@@ -92116,7 +92267,7 @@ Mohmand Chak, Chak Muhammad
 Mohmanwali, Mahmūnwāli
 Mohmar
 Mohmit Khel
-Mohna Basti, Mohāna Basti
+Mohna Basti
 Mohni Sabuka
 Mohni Shahwala
 Mohniwala
@@ -93369,6 +93520,7 @@ Muhammad Hasan Rind
 Muhammad Hasan Shah, Muhammad Hasan Shān
 Muhammad Hasan Shar
 Muhammad Hashemi Jatoi
+Muhammad Hashim
 Muhammad Hashim Chah
 Muhammad Hashim Chutto
 Muhammad Hashim Ghori
@@ -98982,6 +99134,7 @@ Oda Shamsher Singh
 Odalwari Bhit
 Odan Di Basti
 Odan da Dera, Thatta Jhakar
+Odan di Basti
 Odan di Bhaini
 Odaniwala
 Odanwala
@@ -110161,6 +110314,7 @@ Sanghot Saiyidan
 Sanghraro Dhand
 Sanghri
 Sanghwala
+Sangi An
 Sangi Farao, Farāha, Pharha
 Sangi Maira, Sanai Maira
 Sangi Pathan
@@ -112371,7 +112525,6 @@ Shah Baqi Killi, Shāh Beqi Kalle, Shāh Bāqi Kalle
 Shah Barah, Shābra
 Shah Barg
 Shah Barri, Shabari
-Shah Basti, Qāzi Shāh ki Baati, Qāzi Shāh ki Basti
 Shah Bator
 Shah Baz Zardari
 Shah Bazi Bullah Goth
@@ -112407,7 +112560,6 @@ Shah Dhana
 Shah Dhand, Shāhdhand
 Shah Dhand Baba Kalle
 Shah Dhanial
-Shah Dher
 Shah Dhera
 Shah Dheri
 Shah Di Bheni
@@ -112643,6 +112795,7 @@ Shah Yusuf
 Shah Zaman Garhi, Sher Zaman Garhi
 Shah Zaman Qala, Naurazābad
 Shah Zamani
+Shah da Dera
 Shah da Khu
 Shah di Dher, Bhurj Kalān
 Shah di Khui
@@ -115571,7 +115724,7 @@ Shāh Muhammadwāla
 Shāh Mīr, Shakh-Mir, Shān Mīr
 Shāh Nawāz
 Shāh Rangpur
-Shāh di Basti, Bakhshu Bhīr
+Shāh di Basti, Bakhshu Bhīr, Qāzi Shāh ki Baati, Qāzi Shāh ki Basti
 Shāh Ālamwāla, Shāh Ālamwāli
 Shāhan
 Shāhbāz Khel, Shahbaz Khel Pacca
@@ -120223,6 +120376,7 @@ Tarkhaiun
 Tarkhan Banda
 Tarkhan Bandi, Narhotar
 Tarkhan Di Basti
+Tarkhan di Basti
 Tarkhanaiwali Bhaini
 Tarkhanan
 Tarkhanan di Basti, Basti Tarkhānā
@@ -120737,7 +120891,7 @@ Thadag
 Thadda Thim
 Thaddi
 Thaddo
-Thaey
+Thaey, The
 Thagano Kalle, Tānda Gāgrai
 Thagas
 Thagganwala
@@ -121547,8 +121701,7 @@ Thatti Raju
 Thatti Ramun, Thatti Rāhmun
 Thatti Sahibzada, Thatti Sāhibazāda, Thatti Sāllibzāda
 Thatti Said Shamir, Thatti Said Shāhmir, Thatti Saiyid Shamir
-Thatti Saiyidan, Thatti Sayyadan, Thatti Shahīdān
-Thatti Saiyidan di
+Thatti Saiyidan di, Thatti Sayyadan, Thatti Shahīdān
 Thatti Saiyidar, Thatthi Saiyidān
 Thatti Sandila, Thatta Sandīlān
 Thatti Shah Hussain, Thatti Shāh Husain
@@ -125914,6 +126067,7 @@ Watarwala, Wīrrānwāla
 Watawaro
 Wateji
 Water And Power Development Authority Colony, Bani Āfghānan
+Water and Power Development Authority Colony
 Water and Power Development Authority Quarter
 Water and Power Development Authority Quarters
 Water and Power Development Authority Scarp Colony
@@ -125943,7 +126097,6 @@ Wattewāla
 Watti, Wati
 Wattiwali, Banghan
 Watto Chauk
-Wattoan Dhani
 Wattoan da Ranewala
 Wattoan di Dhani
 Wattoanwali

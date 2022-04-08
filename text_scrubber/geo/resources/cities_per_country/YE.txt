@@ -2909,41 +2909,40 @@ Amaḩaz̧in, أمحظن
 Ambārāt, أمبارات
 Amghār, أمغار
 Amḩidād, أمحداد
-An Na'āmah, النعامة, نعامة
 An Na'āshūh, النعاشوة
 An Nabjah, النبجة
+An Nadīyah, الندية
 An Naghrah, النغرة
 An Nahjah, النهجة
 An Najab, النجب
 An Najd, 'Ināfah, An Nejade, El Nejade, Najd Khayrān, Najd al Bakīlī, Najd Ḩawwās, Qaryat Najd Khulbān, النجد, النخد, عناقة
 An Najd al A'lá, النجد الأعلى
 An Najd al Asfal, النجد الأسفل
-An Najdayn, النجدين, نجدين
-An Najlah, النجلة, نجلة
+An Najdayn, النجدين
+An Najlah, النجلة
 An Najād, النجاد
-An Nakhl, النخل, نخل
-An Nakhlah, Nakla, النخلة, نخلة
+An Nakhlah, النخلة
 An Nakhlāt, النخلات
 An Nakhāyil, النخايل
-An Nakhīlah, النخيلة, نخيلة
+An Nakhīlah, النخيلة
 An Namiḑah, النمضــة
 An Namr, النمر
 An Namrayn, النمرين
 An Namshá, النمشى
 An Namūţ, النموط
-An Naq', النقع, نقع
-An Naq'ah, Al-Naqa'ah, An Naqa'ah, الناقة, نقعة
-An Naqam, النقم, نقم
+An Naq', النقع
+An Naq'ah, Al-Naqa'ah, An Naqa'ah, الناقة
+An Naqam, النقم
 An Naqā', النقاع
 An Naqāḩah, النقاحة
-An Naqīl, Banī Bāqī, الناقل, النقيل, نقيل
+An Naqīl, Banī Bāqī, الناقل, النقيل
 An Naqū', النقوع
-An Naqḑ, Naqad, التقد, النقد, نقد
+An Naqḑ, التقد, النقد
 An Nashūr, النشور
 An Nasīm, النسيم
-An Nawbah, An Noba-al-Jimjam, Dār Nawbat al Aţwān, Dār Nūbat al Aţwān, Nabat Matwam, Nawbat al Aţwām, Nawbat al Jamjam, Noba, Āl Zāmil, آل زامل, النوبة, نوبة
+An Naw'ah, النوعة
+An Nawbah, An Noba-al-Jimjam, Dār Nawbat al Aţwān, Dār Nūbat al Aţwān, Nabat Matwam, Nawbat al Aţwām, Nawbat al Jamjam, Āl Zāmil, آل زامل, النوبة
 An Nawbah ash Shākrīyah, النوبة الشاكرية
-An Nawwāsh, نواش
 An Nawāb, النواب
 An Nawāqi', النواقع
 An Nayd, النيد
@@ -2956,19 +2955,18 @@ An Naşub, النصب
 An Naţāq, النطاق
 An Naḩr, النحر
 An Naḩyāl, النحيال
-An Ni'mah, النمة, نعمة
+An Ni'mah, النمة
 An Nimrah, النمرة
 An Nishmāt, النشمات
 An Niyābah, النيابة
 An Niyās, النياس
 An Niyū, النيو
 An Niş'ah, النصعة
-An Nu'mān, النعمان, نعمان
+An Nu'mān, النعمان
 An Nubhān, النبهان
 An Nudaysh, النديش
 An Nuhūd, النهود
 An Nujayf, النجيف
-An Nuqaybah, النقيبة, نقيبة
 An Nuqayl, النقيل
 An Nuqm, النقم
 An Nuqūb, Al-Nuqūb, النقوب
@@ -2976,12 +2974,12 @@ An Nushayf, النشيف
 An Nushayfah, النشيفة
 An Nushayqah Āl al Ḩizām, النشيفة ال الحزام
 An Nushmah, النشمة
-An Nuwayrah, النويرة, نويرة
+An Nuwayrah, النويرة
 An Nuzayhah, النزيهة
 An Nuzlah, النزلة
 An Nuşayb, النصيب
 An Nuşbah, النصبة
-An Nuşub, النصب, نصب
+An Nuşub, النصب
 An Nāqiţīyah, الناقطية
 An Nārijī, النارجى
 An Nāyifah, Maḩall an Nā'ifah, النايفة
@@ -5239,6 +5237,7 @@ Mājil ash Shaykh, ماجل الشيخ
 Māliţ al Hajar, مالط الهجر
 Mārḩah, مارحة
 Māwin, ماون
+Na'āmah, نعامة
 Nadl Ma'īn, ندل معين
 Najd Al Athayeb
 Najd Al Tha'ub
@@ -5246,11 +5245,13 @@ Najd al Jawwah, نجد الجوة
 Najd al Mujamma'ah, نجدالمجمعة
 Najd al Qā'idah, نجد القاعدة
 Najd an Naşş, نجد النص
+Nakhl, نخل
 Nakhlān, Al 'Aqm Nakhlān, Al Aqm Nakhtān, نخلان
 Nakhrat al 'Irq, نخرة العرق
 Naq' Ḩamāş, نقع حماص
 Naqa' Ḩaţmān, نقع حطمان
 Naqmāt, نقمات
+Naqīl, نقيل
 Naqīl 'Umar, نقيل عمر
 Naqīl al Fuḩaysh, نقيل الفحيش
 Naqīl al Wā', نقيل الواء
@@ -5258,9 +5259,10 @@ Naqīl ar Rifāf, نقيل الرفاف
 Nashwān, نشوان
 Nasrīn, نسرين
 Nawb al Faras, نوب الفرس
+Nawbah, Noba, Nūbah, نوبة
 Nawbat Bin Ja'far, نوبة بن جعفر
 Nawbat ad Dukām, نوبة الدكام
-Nawāḩ, النوعة, نواح
+Nawwāsh, نواش
 Naybat Qarn, نيبة قرب
 Nayd 'Ā'ishah, نيد عائشة
 Nayd Dalāy, نيد دلاي
@@ -5296,14 +5298,15 @@ Nayd ath Thāhir, نيد الثاهر
 Nayd aş Şu'ayn, نيد الصعيب
 Nayd Ḑumrān, نيد ضمران
 Nayd Ḩamaţī, نيد حمطي
-Naşīr, النسير, نصير
+Naşīr, نصير
 Nishwān, نشوان
 Nu'ayz̧ah, نعيظة
 Nu'ayḑah, نعيضة
+Nuqaybah, نقيبة
 Nuqayl al 'Ayniyāt, نقيل العينيات
 Nuqayl al Ḩimrār, نقيل الحمرار
 Nā'mah, ناعمة
-Nādīyah, الندية, بادية
+Nādīyah, بادية
 Nāqiz̧ al 'Ulyā, ناقظ العليا
 Nīd Jam'ān, نيد جمعان
 Qa'dān, قضان

@@ -51,7 +51,7 @@ Alengkeng, A-leng-k'eng
 Ali, A-li, A-li-ts'un, Hsia-hsüan-erh-she, Hsia-hsün-erh-she, Hsia-tieh-erh, Hsia-tieh-erh-she
 Ali Shan Shanmo, A-li Shan, A-li Shan Shan-mo, 阿里山山脈
 Ali Village, 阿禮村
-Alian, A-lien, A-lien-chuang, A-lien-ts'un
+Alian, A-lian, A-lien, A-lien-chuang, A-lien-ts'un
 Alian District, A-lien, A-lien Hsiang, Alian Siang, Alian Xiang, 阿蓮區, 阿蓮鄉
 Alian Village, 阿蓮里
 Alianzhuang, A-lien-chuang, Alianjhuang, Liu-kou, Liu-kou-ts'un
@@ -87,7 +87,7 @@ Ancun, An-k'eng, An-ts'un
 Ancuo, An-ts'o, An-ts'o-ts'un, Ta-ho-chia
 Andianxiang, An-tien-hsiang, Andiansiang
 Anding, An-ting, Chin-kua-liao
-Anding Cun, An-ting, An-ting Ts'un, 安定村
+Anding Cun, An-ting, An-ting Ts'un, Ting-an, Ting-an Ts'un, 安定村
 Anding District, An-ting, An-ting Hsiang, Anding Siang, Anding Xiang, 安定區
 Anding Village, An-ting, An-ting Li, An-ting Ts'un, Anding Li, 安定里
 Andingwan, An-ting-wan
@@ -137,7 +137,7 @@ Anpingding, An-p'ing-ting, An-pin-chen
 Anpingkeng, An-p'ing, An-p'ing-k'eng, An-p'ing-ts'un, T'ai-ho-ts'un
 Anpo, An-p'o, K'ou-she, K'ou-she-ts'un
 Anpo Village, An-p'o, An-p'o Ts'un, Anpo Cun, Sha-ch'I Ts'un, Sha-his Ts'un, Sha-mo Ts'un, 安坡村
-Anqi
+Anqi, An-ch'i
 Anqian, An-ch'ien
 Anqing Village, Anqing, 安慶里
 Anqingli, An-ch'ing-li
@@ -5592,7 +5592,7 @@ Jingbuqi, Ching-pu-ch'i, Jingbuci
 Jingbuzi, Ching-pu-tzu, Jingbuzih
 Jingdong Village, Jingdong, 景東里
 Jingfancun, Ch'ing-fan-wu, Ching-fan-ts'un
-Jingfeng, A-hou-liao, A-kou-liao, Ching-feng, Jingfong
+Jingfeng, A-hou-liao, A-kou-liao, Ching-feng, Hou-liao, Jingfong
 Jingfu Village, Jingfu, 境福里
 Jingguan, Ching-kuan, Ching-kuan-she, T'o-lo-k'u-she, T'o-lu-k'u
 Jinghe Village, Jinghe, 靖和村
@@ -6499,7 +6499,7 @@ Lifen, Li-fen, Shih-k'eng, Shih-k'eng-li, Shih-kung-k'eng, T'ieh-fen, 棣芬
 Lifen Village, Li-fen, Li-fen Li, Lifen Li, 犁分里
 Lifenzhuangzi, Li-fen, Li-fen-chuang, Li-fen-chuang-tzu, Li-feng-chuang-tzu, Lifenjhuangzih
 Lifu, Li-fu
-Ligang, A-li-kang, Li-chiang, Li-chiang-chuang
+Ligang, A-li-kang, Li-chiang, Li-chiang-chuang, Li-kang
 Ligang Township, Li-kang, Li-kang Hsiang, Ligang Siang, Ligang Xiang, 里港鄉
 Ligong Village, Ligong, 立功里
 Liguan, Li-kuan
@@ -10777,7 +10777,7 @@ Sidaogou, Sihdaogou, Ssu-tao-kou
 Side Village, Side, 四德里
 Sidecuo, Sihdecuo, Ssu-k'uai-ts'o, Ssu-te, Ssu-te-ts'o, Ssu-te-ts'un
 Sidexiang, Sihdesiang, Ssu-she-liao, Ssu-te-hsiang
-Sidu, A-ssu-tu, Sihdu
+Sidu, A-ssu-tu, Sihdu, Ssu-tu
 Sifandi, Sihfandi, Ssu-fan-ti, 四番地
 Sifang Village, Sifang, Sifang Cun, Sihfang Cun, Ssu-fang, Ssu-fang Ts'un, 四芳村
 Sifanglin, Sihfanglin, Ssu-fang-lin, Ssu-fang-lin-she, Ssu-fong-lin-she
@@ -11987,7 +11987,7 @@ Weizinei, Wa-tzu-nei, Wei-tzu-nei, Weizihnei, Wen-hsien, Wen-hsien-ts'un
 Wen'an, Wen-an, Wun'an
 Wen'an Village, 文安里
 Wen'antou, Wen-an-t'ou
-Wenan Cun, Hsin-wen-an, Wen-an Ts'un, Wunan Cun, 文安村
+Wenan Cun, Hsin-wen-an, Wen-an, Wen-an Ts'un, Wunan Cun, 文安村
 Wenbei Village, Wenbei, 文北里
 Wenchang Village, Wenchang, 文昌里
 Wencheng Village, Wencheng, 文成里, 文盛里
@@ -12022,7 +12022,7 @@ Wenjiao, Wen-chiao, Wen-tzu, Wen-tzu-ts'un, Wunjiao, Yü-pu-ts'un
 Wenjin Village, Wen-chin, Wen-chin Ts'un, Wen-ching Ts'un, Wenjin, Wenjin Cun, Wunjin Cun, 文津村
 Wenlan, T'ung-wen, T'ung-wen-ts'un, Wen-lan, Wen-lan-ts'un, Wunlan
 Wenlan Village, 文蘭村
-Wenle Village, P'u-ts'eng-lo-k'o-she, Wen-le Ts'un, Wen-lo, Wen-lo-ts'un, Wenle, Wenle Cun, Wunle Cun, 文樂村
+Wenle Village, P'u-ts'eng-lo-k'o-she, Wen-le, Wen-le Ts'un, Wen-lo, Wen-lo-ts'un, Wenle, Wenle Cun, Wunle Cun, 文樂村
 Wenliaozhuang, Wen-liao, Wen-liao-chuang, Wunliaojhuang
 Wenlin Village, Wenlin, 文林村, 文林里
 Wenling, Wen-ling
@@ -12399,7 +12399,7 @@ Xi Hu, Hsi Hu, 西湖
 Xi Yu, Fisher Island, Gyoo Island, Hsi Yü, Si Yu, Yü-weng Tao, 西嶼
 Xi'ai, Hsi-ai, Hsi-ai-tzu, Hsi-i-tzu, Hsi-yai-tzu, Si'ai
 Xi'an Village, Hsi-an, Hsi-an Ts'un, Si'an Cun, Xi'an, Xi'an Cun, 西垵村
-Xi'anli
+Xi'anli, Hsi-an-li
 Xi'anshan, Hsi-an-shan, Hsien-shan, Si'anshan
 Xi'emei, Hsi-o-mei, Si'emei
 Xia Yu
@@ -13277,7 +13277,7 @@ Xin Lu  Village, Xin Lu, 新路里
 Xin Village, Xin, 新里里
 Xin'aidingliao, Hsin-ai-ting-liao, Sin'aidingliao
 Xin'ailiao, Hsia-ai-liao, Hsia-i-liao, Hsia-yai-liao, Hsin-ai-liao, Hsin-yai-liao, Sin'ailiao
-Xin'an, An-hsin, Ch'i-nan, Hsi-nan, Hsi-nan-ts'un, Sheng-fan-k'eng, Sheng-fan-k'ung, Sin'an
+Xin'an, An-hsin, Ch'i-nan, Hsi-nan, Hsi-nan-ts'un, Hsin-an, Sheng-fan-k'eng, Sheng-fan-k'ung, Sin'an
 Xin'an Village, Hsin-an, Hsin-an Li, Hsin-hua, Hsin-hua Li, Sin'an Li, Xin'an Li, Xinan, 信安里, 溪南村
 Xin'e Village, Xin'e, 信蚵里
 Xin'ercun, Hsin-erh, Hsin-erh-ts'un, Sin'ercun
@@ -13313,7 +13313,7 @@ Xinchuan Village, Xinchuan, 新川里
 Xinchun Village, Xinchun, 新春里
 Xincui Village, Xincui, 新翠里
 Xincun, Hsin-ts'un, Sincun
-Xincuo, An-hsin-ts'un, An-shin, Chia-p'ao-lang, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-hu, Hsin-pu-chiang-lun, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Shang-ssu-hu, Ta-ming-li, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
+Xincuo, An-hsin-ts'un, An-shin, Chia-p'ao-lang, Erh-ch'ung-ch'i, Erh-ch'ung-hsi, Hsia-hsin-ts'o, Hsin-hu, Hsin-pu-chiang-lun, Hsin-shu-ts'un, Hsin-ts'o, Hsin-ts'o-ts'un, Hsin-ts'o-tzu, Hsin-ts'un, Shang-ssu-hu, Ta-ming-li, Ting-hsin-ts'o, Ts'ao-hsin-ts'o
 Xincuo Village, 新厝村, 新厝里
 Xincuocun, Hsin-ts'o-ts'un, Sincuocun
 Xincuodi, Hsin-ts'o-ti, Sincuodi
@@ -13746,7 +13746,7 @@ Xitou, Ch'i-t'ou, Hsi-t'ou, Sitou
 Xitou Senlin Youlequ, Hsi-t'ou Forest Recreation Area, Hsi-t'ou Sen-lin Yu-le-ch'ü, Sitou Senlin Youlecyu, 溪頭森林遊樂區
 Xitou Village, 溪頭村, 溪頭里
 Xitun, Hsi-t'un, Hsi-t'un-chuang, Situn, Xitun Qu, 西屯區
-Xitun District, Hsi-t'un, Hsi-t'un Li, Situn Li, Xitun Li, 西屯里
+Xitun District, Hsi-an Li, Hsi-t'un, Hsi-t'un Li, Situn Li, Xitun Li, 西屯里
 Xitun Village, 西屯里
 Xiu Hu, Hsi-nan-kuei Hu, Hsiu Hu, Siu Hu, 秀湖
 Xiucai, Hsiu-ts'ai, Sioucai

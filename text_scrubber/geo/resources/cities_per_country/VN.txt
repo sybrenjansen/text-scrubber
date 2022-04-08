@@ -4,7 +4,7 @@ Buôn Ma Thuột, Ban Me Thaut, Ban Me Thnot, Ban Me Thot, Ban Me Thout, Ban Mê
 Bình Long, Hớn Quản
 Bạc Liêu, Bach Lieu, Bak Lieu, Thành Phố Bạc Liêu
 Bảo Lộc, Blao, Cong Hinh, Ấp Thánh Tâm
-Bắc Giang, Phu Lang Thong, Phu Lang Thuong, Phu Long Thuong, 北江市
+Bắc Giang, Phu Lang Thong, Phu Lang Thuong, Phu Long Thuong, Thuong, 北江市
 Bắc Kạn, Bak Kan, Bắc Cạn
 Bắc Ninh, Bacht Ninh, Bak Nin, Bak Ninh
 Bến Tre, Trúc Giang
@@ -27,7 +27,7 @@ Cẩm Phả Mines
 Cổ Lóa
 Củ Chi
 Dien Bien Phu, 奠邊府
-Dương Đông
+Dương Đông, Xom Duong Dong
 Ea Drăng
 Gia Nghĩa
 Gò Công, Go Gong
@@ -36,7 +36,7 @@ Hanoi, Ha Nội, Hanoi Municipality, Keicho, Thành Phố Hà Nội, Thủ Đô 
 Ho Chi Minh City, Gia Định, HCMC, HCMV, Ho Chi Minh, Hô Chi Minh Ville, Prey Nokor, Saigon, Sài Gòn, TPHCM, Thành phố Hồ Chí Minh, Thành phố Sài Gòn, ទីក្រុងព្រៃនគរ, 胡志明市
 Hoà Bình, Cua Rao, Cus Rao, Hao Binh, Hoa Bin, Kua Rao, Thành Phố Hòa Bình, Tương Dương
 Huyện Lâm Hà, Lam Ha District
-Huề Đông, Thành phố Huế, 順化, 順化市
+Huế, Hue City, Thành phố Huế, 順化, 順化市
 Hà Giang, Dieu Giang, Nhiễu Giang, Thành Phố Hà Giang
 Hà Tiên
 Hà Tĩnh, Ha Tin, Province de Hà Tĩnh, 河靜市
@@ -44,7 +44,7 @@ Hà Đông, Hoi Tinh
 Hưng Yên, Ấp Hưng Yên
 Hạ Long, Halong, Hon Cay, Hon Gai, Hon Gay, Hon Goi, Honggay, Hồng Gai, Thành Phố Hạ Long, 下龍市
 Hải Dương, Hai Doong, Hai dzung, Hai-Doung, Haidöng, Thành Phố Hải Dương
-Hội An Đông, Faifo, Faifoh, Faifoo, Feifu, So Danh, Soi Danh, 會安市
+Hội An, Faifo, Faifoh, Faifoo, Feifu, 會安市
 Kon Tum, Quận Kontum, Tỉnh Kom Tum, Tỉnh Kon Tum, Tỉnh Kontum, 崑嵩市
 La Gi, Lag, Lagi, Na Gi
 Lao Chải
@@ -60,11 +60,10 @@ Nha Trang, Kanh-Hoa, 芽莊市
 Nhà Bè, Lazaret
 Ninh Bình, Nin Bin, Ninbinh, Thành Phố Ninh Bình
 Ninh Hòa
-Năng Dơng, Tourane, Turan, 岘港
 Phan Rang-Tháp Chàm, Phan Rang, Phan Ranh
 Phan Thiết, Fan Thiet, Fanthit, Fantiet, Phan Tiet, Xa Phan Thiet, 潘切
 Phù Ninh, Ninh hiep, Phúc Ninh
-Phú Khương A
+Phú Khương
 Phú Quốc, Koh Trol, កោះត្រល់, 富國島
 Phủ Lý, Fu Li, Phu Li, Thành Phố Phủ Lý
 Pleiku, Gia Lai, Plây Cu, Plây Ku, Tỉnh Pleiku, 波來古市
@@ -83,30 +82,31 @@ Tam Kỳ, Tanky
 Thành Phố Uông Bí, Thị Xã Uông Bí, Uông Bí
 Thái Bình, Kua Loc, Taibinh, Thai Bin, Thai Dinh, Thành Phố Thái Bình
 Thái Nguyên, Thành Phố Thái Nguyên
-Thạnh Hòa A, Than” Hoa
+Thạnh Hoà, Hòa, Than” Hoa
 Thị Trấn Tân Thành, TTh, Tân Thành, Tân Thành Town, Ville de Tân Thành, 新城
 Thị Trấn Đồng Đăng, Don Dang
 Thủ Dầu Một, 土龍木市社
 Trà Vinh, Tra Vin
 Tuy Hòa, Thành phố Tuy Hòa, Toy Hoa, 綏和市
 Tuyên Quang, Thành Phố Tuyên Quang, Tuyen Kang, Tuyen Kwang
-Tân An Đông, Tan Am
+Tân An, Tan Am
 Tây Ninh, Tai nin, Tei Nin, 西寧市
 Tả Van
 Việt Trì, Vietri
 Vĩnh Châu
 Vĩnh Long
+Vĩnh Thế, Vin, 荣市
 Vĩnh Yên, Vieh Yen
-Vĩnh Đòng, Vin, 荣市
 Vũng Tàu, Cap-Saint-Jacques, Cape Saint James, Saint James, Ville du Cap, Xa Vung Tau
 Vị Thanh, Vi Tanh
 Yên Bài, Yen Bay
 Yên Vĩnh, Yen Vin
 thị xã Quảng Trị
 Ðà Lạt, Dalat
+Ðông Hà, Thi Xã Ðòng Hà
+Đa Năng, Tourane, Turan, 岘港
 Đinh Văn
 Đông Hội, Kwang Binh
 Đưc Trọng, Liên Nghĩa
-Đống Hâ Dông, Thi Xã Ðòng Hà
 Đồng Xoài, Dong Xoa, Ấp Đồng Xoài
 Ấp Tân Ngãi

@@ -600,6 +600,7 @@ Alto da Piedade
 Alto da Repetidora
 Alto da Ressurreição
 Alto da Rocha Negra
+Alto da Serra
 Alto da Terezinha
 Alto da Torre
 Alto da União
@@ -7916,8 +7917,8 @@ Da Chã de Jaqueira
 Da Citex
 Da Esperança
 Da Feirinha
-Da Glória, Santo Antonio da Gloria
-Da Lagoa, Lagoa Santo Antonio, Nhandu
+Da Glória
+Da Lagoa
 Da Mata - São Geraldo
 Da Paz
 Da Subestação
@@ -8654,6 +8655,7 @@ Esperancinha
 Esperantina
 Esperantinópolis
 Esperantista
+Esperança
 Esperança Feliz
 Esperança Nova
 Esperança da Comunidade
@@ -9716,6 +9718,7 @@ Feira Nova
 Feira Nova do Maranhão
 Feira da Mata
 Feira de Santana
+Feirinha
 Feital
 Feiticeiro, Feiticeira
 Feitoria
@@ -10487,6 +10490,7 @@ Gleba Segunda, Gleba II
 Glicério, Glyceria, Glycerio
 Glorinha
 Glucínio
+Glória, Santo Antonio da Gloria
 Glória d'Oeste
 Glória de Cataguases
 Glória de Dourados
@@ -10501,7 +10505,7 @@ Gogó
 Goiaba
 Goiabal, Guaibal
 Goiabas
-Goiabeira, Golabeira
+Goiabeira, Da Goiabeira, Golabeira
 Goiabeiras
 Goiaberira
 Goialândia
@@ -15557,6 +15561,7 @@ Lago dos Ratos
 Lago dos Rodrigues
 Lago Água Fria
 Lago Água Preta
+Lagoa, Lagoa Santo Antonio, Nhandu
 Lagoa Acapu, Lago Acapu
 Lagoa Achada
 Lagoa Agua Bôa
@@ -16640,7 +16645,7 @@ Leonardo
 Leonardo da Vinci, Agrovila Leonardo da Vinci
 Leoncio
 Leonel
-Leonel Barbosa
+Leonel Barbosa, A. Barbosa
 Leoni
 Leonina
 Leopoldina
@@ -16789,7 +16794,7 @@ Livramento de Nossa Senhora
 Livramento de Nossa Sra
 Livramento do Tiúma, Livramento de Tiúma
 Livreiro Gualter
-Lixeira
+Lixeira, Da Lixeira
 Lixão
 Lixão da Cobel
 Lizarda
@@ -20869,6 +20874,7 @@ Paxiua
 Paxiuba
 Paxiubinha
 Paxua
+Paz
 Paz Bela Vista
 Paz de Salobro
 Paço
@@ -22196,6 +22202,7 @@ Poço da Jibóia
 Poço da Júlia
 Poço da Onça
 Poço da Panela
+Poço da Pedra
 Poço da Porta
 Poço da Prefeitura
 Poço da Roça
@@ -22756,7 +22763,7 @@ Prudêncio Thomaz
 Prudêncio e Morais
 Príncipe
 Príncipe Imperial
-Príncipe da Beira, Forte Principe da Beira
+Príncipe da Beira, Forte Principe da Beira, Forte do Principe Da Beira
 Puba
 Pubas
 Puc Minas - Campus Poços de Caldas
@@ -22951,7 +22958,7 @@ Pôrto Marrecas, Pôrto das Marrecas
 Pôrto Martins
 Pôrto Matarazzo
 Pôrto Meira, Pôrto General Meira
-Pôrto Mendes, Mendez, Puerto Mendes, Puerto Méndez, Pôrto Mendes Gonçalves
+Pôrto Mendes, Mendez, Puerto Mendes, Puerto Méndez, Pôrto A. Mendes, Pôrto Mendes Gonçalves
 Pôrto Menezes
 Pôrto Mercedes
 Pôrto Militão
@@ -28218,7 +28225,9 @@ Sítio Antônio B. de Camargo
 Sítio Antônio B. do Amaral
 Sítio Antônio Bacalhal
 Sítio Antônio Balbino
+Sítio Antônio Barbosa
 Sítio Antônio Bassani
+Sítio Antônio Batista
 Sítio Antônio Belniak
 Sítio Antônio Benedito da Silva
 Sítio Antônio Bero
@@ -28256,6 +28265,7 @@ Sítio Antônio Chuves
 Sítio Antônio Ciba
 Sítio Antônio Cidral
 Sítio Antônio Ciscato
+Sítio Antônio Cordeiro
 Sítio Antônio Correia
 Sítio Antônio Cortês
 Sítio Antônio Cândido
@@ -28381,6 +28391,7 @@ Sítio Antônio Pantoba
 Sítio Antônio Paraíba
 Sítio Antônio Paulino
 Sítio Antônio Pedroti
+Sítio Antônio Pereira
 Sítio Antônio Pereira Fogaca
 Sítio Antônio Piculo
 Sítio Antônio Polican
@@ -28406,6 +28417,7 @@ Sítio Antônio Rodrigues
 Sítio Antônio Rolato
 Sítio Antônio Rosin
 Sítio Antônio Rosário
+Sítio Antônio Ruthes
 Sítio Antônio S. Karan
 Sítio Antônio S. de Abreu
 Sítio Antônio S. de Lima
@@ -28416,6 +28428,7 @@ Sítio Antônio Seidel
 Sítio Antônio Selner
 Sítio Antônio Seluski
 Sítio Antônio Shegask
+Sítio Antônio Silva
 Sítio Antônio Silva Pinto
 Sítio Antônio Silvino
 Sítio Antônio Siqueira Mendes
@@ -28450,6 +28463,7 @@ Sítio Antônio da Cruz
 Sítio Antônio da S. Camargo
 Sítio Antônio da S. Maia
 Sítio Antônio de Assis
+Sítio Antônio de Lima
 Sítio Antônio de Mello
 Sítio Antônio de Oliveira
 Sítio Antônio de Paulo
@@ -29013,6 +29027,7 @@ Sítio Carlos Kondlaski
 Sítio Carlos Kosdra
 Sítio Carlos Krüeger
 Sítio Carlos Laska
+Sítio Carlos Machado
 Sítio Carlos Meyer
 Sítio Carlos Miranda
 Sítio Carlos Mirval
@@ -29863,6 +29878,7 @@ Sítio Francisco Mavarrete
 Sítio Francisco Miller
 Sítio Francisco Mineiro
 Sítio Francisco Mordaski
+Sítio Francisco Moreira
 Sítio Francisco Moreno
 Sítio Francisco Neto
 Sítio Francisco Nogueira
@@ -29875,6 +29891,7 @@ Sítio Francisco P. da Silva
 Sítio Francisco Pecshel
 Sítio Francisco Pogeba
 Sítio Francisco Pryzbuk
+Sítio Francisco Pscheidt
 Sítio Francisco Péres
 Sítio Francisco Qrul
 Sítio Francisco R. dos Santos
@@ -29905,6 +29922,7 @@ Sítio Francisco Ville
 Sítio Francisco Wojeik
 Sítio Francisco Zanal
 Sítio Francisco Zandrosk
+Sítio Francisco de Assis
 Sítio Francisco de Oliveira
 Sítio Francisco de P. Cordeira
 Sítio Francisco de Souza
@@ -30647,6 +30665,7 @@ Sítio José Alildo
 Sítio José Alisk
 Sítio José Altair
 Sítio José Alves
+Sítio José André
 Sítio José Anselmo
 Sítio José Antunes
 Sítio José Antônio
@@ -30682,6 +30701,7 @@ Sítio José Blaszkvyovwrsy
 Sítio José Boava
 Sítio José Bockne
 Sítio José Bonifácio da Silva
+Sítio José Borges
 Sítio José Botrova
 Sítio José Bucco
 Sítio José Burkt
@@ -30706,6 +30726,7 @@ Sítio José Cabiúna
 Sítio José Cabral
 Sítio José Caetano
 Sítio José Calil
+Sítio José Camargo
 Sítio José Cantana
 Sítio José Carax
 Sítio José Carazava
@@ -30832,6 +30853,7 @@ Sítio José L. de Oliveira
 Sítio José Lacosk
 Sítio José Ladir
 Sítio José Latocheski
+Sítio José Leite
 Sítio José Leshinoski
 Sítio José Liebl
 Sítio José Lopes
@@ -30852,6 +30874,7 @@ Sítio José Maria Amarante
 Sítio José Maria Bonruque
 Sítio José Maria Rodrigues
 Sítio José Marinho
+Sítio José Marques
 Sítio José Martins
 Sítio José Matias
 Sítio José Mauro
@@ -30899,6 +30922,7 @@ Sítio José P. Ribeiro
 Sítio José P. Santos
 Sítio José P. Sobrinho
 Sítio José P. Soezzeki
+Sítio José P. de Lima
 Sítio José P. dos Santos
 Sítio José Palt
 Sítio José Parmezan
@@ -30909,6 +30933,7 @@ Sítio José Pedro Borges
 Sítio José Pedro Ramos
 Sítio José Pedro de Oliveira
 Sítio José Pepe
+Sítio José Pereira
 Sítio José Pestecolask
 Sítio José Pinheiro
 Sítio José Pinto
@@ -30937,6 +30962,7 @@ Sítio José Resner
 Sítio José Rezende
 Sítio José Ribas
 Sítio José Rita
+Sítio José Rodrigues
 Sítio José Rola
 Sítio José Romeiro
 Sítio José Rosa
@@ -30988,11 +31014,13 @@ Sítio José Z. Filho
 Sítio José Zara
 Sítio José Zava
 Sítio José da L. Peters
+Sítio José da Silva
 Sítio José da São Passos
 Sítio José de C. Filho
 Sítio José de Carvalho
 Sítio José de Castro
 Sítio José de Freitas
+Sítio José de Lima
 Sítio José de Paula
 Sítio José de Paula Bueno
 Sítio José de S. Filho
@@ -31056,6 +31084,7 @@ Sítio João B. da Silva
 Sítio João B. de Abreu
 Sítio João B. de Oliveira
 Sítio João Bahiano
+Sítio João Barbosa
 Sítio João Batista
 Sítio João Batista Mendes
 Sítio João Bento
@@ -31118,6 +31147,7 @@ Sítio João F. Cardoso
 Sítio João F. da Cruz
 Sítio João F. da Silva
 Sítio João F. das Neves
+Sítio João Fagundes
 Sítio João Faot
 Sítio João Felizardo
 Sítio João Fernandes
@@ -31851,6 +31881,7 @@ Sítio Manoel Felipe
 Sítio Manoel Fernandes
 Sítio Manoel Garanhane
 Sítio Manoel Godói
+Sítio Manoel Gomes
 Sítio Manoel Gonçalves
 Sítio Manoel Guedes Morais
 Sítio Manoel J. da Costa
@@ -32121,6 +32152,7 @@ Sítio Miguel Zpson
 Sítio Miguel da Silva Bispo
 Sítio Miguel de Lima
 Sítio Miguel de O. Ribas
+Sítio Miguel de Paula
 Sítio Mijai
 Sítio Mikael Zacour
 Sítio Milhares
@@ -32518,6 +32550,7 @@ Sítio Onofre Rodrigues
 Sítio Onofre Zanardine
 Sítio Onça Branca
 Sítio Onésio A. Toledo
+Sítio Onésio Toledo
 Sítio Oralndo F. Pirito
 Sítio Ordevina dos Santos
 Sítio Orestes de Andrade
@@ -32886,6 +32919,7 @@ Sítio Pedro Fabianski
 Sítio Pedro Farias
 Sítio Pedro Faulote
 Sítio Pedro Ferraz
+Sítio Pedro Ferreira
 Sítio Pedro Fiatt
 Sítio Pedro Ficzoski
 Sítio Pedro Francisquine
@@ -33018,6 +33052,7 @@ Sítio Pirajuçara
 Sítio Piraporinha
 Sítio Piratininga
 Sítio Piratuba
+Sítio Pires
 Sítio Pires A
 Sítio Pires Zacarias
 Sítio Pirico
@@ -33158,6 +33193,7 @@ Sítio Raul da Luz
 Sítio Raulino M. Ribeiro
 Sítio Real
 Sítio Recantinho
+Sítio Recanto
 Sítio Recanto A
 Sítio Recanto Feliz
 Sítio Recanto Nova Esperança
@@ -33629,6 +33665,7 @@ Sítio Sebastião Vicente de Paula
 Sítio Sebastião Vieira
 Sítio Sebastião Zanine
 Sítio Sebastião de Andrade
+Sítio Sebastião de Oliveira
 Sítio Sebastião de P. Pereira
 Sítio Sebastião do Couto
 Sítio Sebastião dos S. Ribas
@@ -35085,7 +35122,7 @@ Teodimiro
 Teodorico
 Teodorinho
 Teodoro
-Teodoro Alvarenga
+Teodoro Alvarenga, A. Alvarenga
 Teodoro Ribeiro
 Teodoro Sampaio
 Teodoro de Oliveira

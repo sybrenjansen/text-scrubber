@@ -20,7 +20,7 @@ Ardara, Ard an Rátha, Ardarn
 Ardee, Baile Átha Fhirdhia
 Ardfert, Ard Fhearta
 Ardfinnan, Ard Fhíonáin
-Ardmore, Aird Mhór
+Ardmore, Aird Mhór, An Aírd Mhór
 Ardnacrusha, Ard na Croise, Castlebank
 Ardskeagh
 Arklow, An tInbhear Mór
@@ -49,7 +49,7 @@ Baldoyle, Baile Dúill, Curtistown Lower
 Balla
 Ballaghaderreen, Bealach an Doirín
 Ballaghkeen, An Bealach
-Ballina, Béal An Átha
+Ballina, Béal An Átha, Béal an Átha
 Ballinabranagh, Ballinabrannagh
 Ballinaclash
 Ballinagar, Béal Átha na gCarr
@@ -62,7 +62,7 @@ Ballinasloe, Béal Átha na Sluaighe
 Ballincar
 Ballindine, Baile an Daighin
 Ballingarry, Baile an Gharraí, Ballingary
-Ballingeary, Béal Átha An Ghaorthaidh
+Ballingeary, Béal Átha An Ghaorthaidh, Béal Átha an Ghaorthaidh
 Ballinlough, Baile an Locha
 Ballinroad, Baile an Rodaigh
 Ballinrobe, Baile an Róba
@@ -107,7 +107,7 @@ Ballyhaise, Béal Átha hÉis
 Ballyhaunis, Béal Átha hAmhnais
 Ballyheige, Baile Uí Thaidhg, Ballyheigue
 Ballyhoge, Baile Uí Cheog, Ballyhogue
-Ballyhooly, An Baile Átha hÚlla
+Ballyhooly, An Baile Átha hÚlla, Baile Átha hÚlla
 Ballyjamesduff, Baile Shéamais Dhuibh
 Ballylanders, Baile an Londraigh
 Ballyliffin, Baile Lifín, Ballyliffen
@@ -155,7 +155,7 @@ Belgooly, Béal Guala
 Bellanagare, Béal Átha na gCarr
 Bellanode, Béal Átha an Fhóid
 Belmont, An Lios Dearg
-Belmullet, Belmuliet, Béal An Mhuirthead
+Belmullet, Belmuliet, Béal An Mhuirthead, Béal an Mhuirthead
 Belturbet, Béal Tairbirt
 Bennettsbridge, Droichead Binéid
 Birr, Biorra, Parsonstown
@@ -191,7 +191,7 @@ Buncrana, Bun Cranncha
 Bundoran, Bun Dobhráin
 Bunratty
 Burnfoot, Bun na hAbhann
-Burtonport, Ailt An Chorráin, Barton Port, Burtan Port, Burton
+Burtonport, Ailt An Chorráin, Ailt an Chorráin, Barton Port, Burtan Port, Burton
 Butlersbridge, Butlers Bridge, Droichead an Bhuitléaraigh
 Buttevant, Cill na Mallach
 Bweeng, Na Boinn
@@ -200,7 +200,7 @@ Cabra, An Chabrach
 Cabragh, Threemilehouse
 Caherconlish, Cathair Chinn Lis
 Cahersiveen, Cahersween, Cahirciveen, Cathair Saidhbhín
-Cahir, An Chathair, Cathair Dún Iascaigh
+Cahir, An Chathair, Cathair Dún Iascaigh, an Chathair
 Callan, Callain
 Calverstown, Baile an Chalbhaigh
 Camolin, Cam Eolaing
@@ -227,7 +227,7 @@ Carrigart, Carraig Airt, Carrickart
 Carrigkerry, Carraig Chiarraí
 Carrignavar, Carraig na bhFear
 Carrigtwohill, Carraig Thuathail, Carrigtohill
-Cashel, An Caiseal
+Cashel, An Caiseal, Caiseal
 Castlebar, Caisleán an Bharraigh
 Castlebellingham, Baile an Ghearlánaigh, Castlebellingham-Kilsaran
 Castleblayney, Baile na Lorgan
@@ -300,7 +300,7 @@ Cloyne, Cluain
 Cluain Meala, Clonmel
 Cnoc Na Muirleog, Crocknamurleog
 Coachford, Áth an Chóiste
-Cobh, Queenstown
+Cobh, An Cóbh, Queenstown
 Collinstown, Baile na gCailleach
 Collon, Collann
 Collooney, Cúil Mhuine
@@ -332,13 +332,13 @@ Crossmolina, Crois Mhaoilíona
 Crumlin, Cromghlinn
 Crusheen, Croisín
 Culdaff, Cúil Dabhcha
-Daingean
+Daingean, An Daingean
 Dalkey, Deilginis
 Danescastle
 Delvin, Dealbhna
 Derrinturn, Doire an tSoirn
 Derrybeg, An Bun Beag-Doirí Beaga, Doirí Beaga
-Dingle, Daingean Uí Chuis
+Dingle, An Daingean, Daingean Uí Chuis
 Dollymount
 Donabate, Domhnach Bat
 Donard, Dunard, Dún Ard
@@ -454,12 +454,12 @@ Glenville, Gleann an Phréacháin
 Glin, An Gleann, Na Gleannta
 Gneevgullia, Gneeveguilla, Gníomh go Leith
 Golden, An Gabhailín
-Goresbridge
+Goresbridge, An Droichead Nua
 Gorey, Guaire
 Gormanston, Baile Mhic Gormáin, Germanstown
-Gort, Gort Inse Guaire
-Gortahork, Gort An Choirce
-Gorteen, An Goirtín
+Gort, An Gort, Gort Inse Guaire
+Gortahork, Gort An Choirce, Gort an Choirce
+Gorteen, An Goirtín, Goirtín
 Gortnahoe, Gort na hUamha, Gortnahoo
 Gowran, Gabhrán
 Grahormack, Grahormac
@@ -492,7 +492,7 @@ Kanturk, Ceann Toirc
 Keadew, Céideadh
 Keenagh, Caonach, Keenaghbeg, Kenagh
 Kells, Ceanannas, Ceanannas Mór, Ceanannus Mór
-Kenmare, An Neidín, Kevmare
+Kenmare, An Neidín, Kevmare, Neidin
 Kentstown
 Kernanstown
 Kerrykeel, An Cheathrú Chaol
@@ -613,7 +613,7 @@ Lixnaw, Leic Snámha
 Longford, An Longfort
 Longwood, Maigh Dearmhaí
 Lough Gowna
-Loughanure, Loch An Iúir
+Loughanure, Loch An Iúir, Loch an Iúir
 Loughfad Hill
 Loughglinn, Loch Glinne, Loughglynn
 Loughlinstown
@@ -666,7 +666,7 @@ Moylough, Maigh Locha, Newtown Bellew
 Moyross
 Mucklagh, An Muclach
 Muff, Magh
-Mullagh, An Mullach
+Mullagh, An Mullach, Mullach
 Mullaghmore, Allerstown, An Mullach Mór
 Mullinahone, Muileann na hUamhan
 Mullinavat, Muileann an Bhata
@@ -806,7 +806,7 @@ Slieverue
 Sligo, Contae Shligigh, County Sligo, Sligeach
 Smithborough, Na Mullaí
 Sneem, An Snaidhm, An tSnaidhm
-Spa
+Spa, An Spá
 Spiddal, An Spidéal, Spiddle
 St Johnston, Baile Suingean, Saint Johnstown
 Stamullin, Stamullen, Steach Maoilín

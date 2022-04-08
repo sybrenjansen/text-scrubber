@@ -222,14 +222,13 @@ _GEO_STRING_SCRUBBER = (TextScrubber().to_ascii()
                                       .remove_digits()
                                       .sub(r'-|/|&|,', ' ')
                                       .remove_punctuation()
-                                      .remove_suffixes({' si', ' Si', ' ri', ' Ri', ' dong', ' Dong'})
                                       .tokenize()
-                                      .remove_stop_words({'der', 'do', 'e', 'le', 'im', 'mail'}, case_sensitive=True)
+                                      .remove_stop_words({'a', 'an', 'and', 'der', 'da', 'di', 'do', 'e', 'le', 'im',
+                                                          'mail'}, case_sensitive=True)
                                       .lowercase(on_tokens=True)
                                       .filter_tokens()
                                       .sub_tokens(lambda token: _GEO_TOKEN_MAP.get(token, token))
-                                      .remove_stop_words({'a', 'an', 'and', 'cedex', 'da', 'di'
-                                                          'email', 'of', 'the'})
+                                      .remove_stop_words({'cedex', 'email', 'of', 'the'})
                                       .join())
 
 

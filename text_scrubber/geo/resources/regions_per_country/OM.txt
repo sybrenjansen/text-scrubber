@@ -1697,8 +1697,8 @@ An Nabrah, النبرة
 An Nadwah, الندوة
 An Nahdah al Janūbīyah, An Nahdah al Janūbiyyah, النهدة الجنوبية
 An Nahdah ash Shamālīyah, An Nahdah ash Shamāliyyah, النهدة الشمالية
-An Nahḑah, An Nihdah, Nidā', Nihada, النهضة
-An Najd, النّجد, نجد
+An Nahḑah, An Nihdah, Nidā', النهضة
+An Najd, النّجد
 An Najdah, An Nuqdah, النجدة
 An Najād, النجاد
 An Najādī, النجادي
@@ -1715,7 +1715,7 @@ An Nasaq, An Nassa, النسق
 An Nashlah, النشلة
 An Nashwah, النشوة
 An Nasīl, النّسيل
-An Naşīb, An Niṣīb, Muşayb, النصيب, النّاصب, ناصب
+An Naşīb, An Niṣīb, Muşayb, النصيب, النّاصب
 An Naţālah, Naţţālah, النطالة
 An Naḩr, An Naḥar, النّحر
 An Ni'aymah, النعيمة
@@ -1728,7 +1728,7 @@ An Nizārī, النّزاري
 An Niţāyil, النطايل
 An Nu'má, النّعمى
 An Nuhaydah, النهيدة
-An Nujayd, An Nijayd, Falaj, Kujad, Najid, النجيد
+An Nujayd, An Nijayd, Falaj, Kujad, Najid, Nujayd, النجيد
 An Nuwayb, النويب
 An Nuwayrinjah, النويرنجة
 An Nuwayy, An Niway, Nawai-i, Nuwa, Nuwai, Nuway', Nuway'ī, Nuwāl, النوي
@@ -3700,7 +3700,7 @@ Khabbat Sūd, Khabbt Suwad, خبّة سود
 Khabbat Sūr Rabī', خبّة سور ربيع
 Khabbat al Ma'āwil, Sūr Ma'āwil, خبّة المعاول
 Khabbat an Na'mān, Khabbat an Nu'mān, خبّة النعمان
-Khabbat an Nawāfil, خبّة النوافل
+Khabbat an Nawāfil, Khabbat An Nawāfil, خبّة النوافل
 Khabbat Āl 'Abd Allāh, Khabbat Āl 'Abdullah, خبّة آل عبداللّه
 Khabbat Āl Khamīs, خبّة آل خميس
 Khabbat Ţannah, خبّة طنّة
@@ -3950,7 +3950,7 @@ Madrūj, مدروج
 Madsah, مدسة
 Madārah
 Madāyir Ţuhaybah, Madāyir Ṭihaybah, مداير طهيبة
-Madīnat An Nahḑah, مدينة النّهضة
+Madīnat An Nahḑah, Madīnat an Nahḍah, مدينة النّهضة
 Madīnat al I'lām, مدينة الإعلام
 Madīnat al Ḩaqq, Madīnat 'Al Ḩaq, مدينة الحق
 Madīnat as Sa'ādah al Janūbīyah, Janub Madinat as Saadah, South Madinat as Sa'dah, مدينة السعادة الجنوبية
@@ -4331,10 +4331,12 @@ Nadd Qarn Jihām, Nad Qarn Jihām, ند قرن جهام
 Nafa'ā', Naf'ah, Naf'ā', نفعاء
 Nafūn, نفون
 Naghat, Naft, نغت
+Nahdah, Nihada
 Nahūr, Nahoor
 Naid
 Najadat
 Najar Akhraym, نجر أخريم
+Najd, نجد
 Najd Madsūs, نجد مدسوس
 Najd al Muşallá, Najd al Miṣallá, نجد المصلى
 Najd al Wāsiţ, Najd al Wāsuţ, نجد الواسط
@@ -4401,7 +4403,7 @@ New Salalah, Aş Şalālah al Jadīdah, Şalālah al Jadīdah, الصلالة ا
 Ni'mah, نعمة
 Niad
 Nidāb, Mazra' Bū Ba'arah, نداب
-Nidābīyīn, Al Nadabiyīn
+Nidābīyīn, Al Nadabiyīn, An Nidābiyīn
 Nigrit
 Nimr
 Niq'at Bārik
@@ -4436,6 +4438,7 @@ Nāfī, نافي
 Nāhiz
 Nār, نار
 Nāshib, ناشب
+Nāşib, ناصب
 Nāţibah, ناطبة
 Nībah, نيبة
 Nīrīn, Nayrīn, نيرين
