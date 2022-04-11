@@ -169,9 +169,13 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
                         skip_match = True
                         break
 
-                    if len(match_1.normalized[0]) > len(match_2.normalized[0]):
+                    # For city/region it returns a tuple, for countries just a string
+                    normalized_1, normalized_2 = match_1.normalized, match_2.normalized
+                    if isinstance(match_1.normalized, tuple):
+                        normalized_1, normalized_2 = normalized_1[0], normalized_2[0]
+                    if len(normalized_1) > len(normalized_2):
                         continue
-                    elif len(match_1.normalized[0]) < len(match_2.normalized[0]):
+                    elif len(normalized_1) < len(normalized_2):
                         skip_match = True
                         break
 
