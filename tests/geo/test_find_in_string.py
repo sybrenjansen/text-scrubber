@@ -11,7 +11,7 @@ from text_scrubber.geo.find_in_string import (
 class FindCountryInStringTest(unittest.TestCase):
     def test_find_single_country_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        examine find_country_in_string where we expect only a single match
         """
         test_samples = [
             (
@@ -48,7 +48,6 @@ class FindCountryInStringTest(unittest.TestCase):
                     )
                 ],
             ),
-            # check blacklist and whitelist
             (
                 "0000 0004 0581 2008, grid. 451052. 7, Essex Partnership University NHS Foundation Trust, Essex SS11 "
                 "7XX UK",
@@ -61,6 +60,7 @@ class FindCountryInStringTest(unittest.TestCase):
                     )
                 ],
             ),
+            # special case of blacklist/whitelist
             (
                 "University of Bern Hochschulstrasse 4 3012CH Bern Switzerland.",
                 [
@@ -72,6 +72,18 @@ class FindCountryInStringTest(unittest.TestCase):
                     )
                 ],
             ),
+            (
+                "Peking University, 5 Yiheyuan Rd, Haidian District, Beijing, CH, 100871",
+                [
+                    Match(
+                        substring_range=(61, 63),
+                        substring="CH",
+                        normalized="China",
+                        score=1.0,
+                    )
+                ]
+            ),
+            # special case of "Papua New Guinea"
             (
                 "Divine Word University, Konedobu, NCD 131, Madang, Papua New Guinea.",
                 [
@@ -91,7 +103,7 @@ class FindCountryInStringTest(unittest.TestCase):
 
     def test_find_multiple_matches_country_name_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        examine find_country_in_string where we expect multiple matches
         """
         test_samples = [
             (
@@ -148,6 +160,24 @@ class FindCountryInStringTest(unittest.TestCase):
                     ),
                 ],
             ),
+            # case with multiple distinguished country names
+            (
+                "Institute of German study, Accra, Ghana",
+                [
+                    Match(
+                        substring_range=(34, 39),
+                        substring='Ghana',
+                        normalized='Ghana',
+                        score=1.0
+                    ),
+                    Match(
+                        substring_range=(13, 19),
+                        substring='German',
+                        normalized='Germany',
+                        score=0.9230769230769231
+                    )
+                ]
+            ),
         ]
         for original, expected_matches in test_samples:
             with self.subTest(original=original, expected_matches=expected_matches):
@@ -168,7 +198,7 @@ class FindCountryInStringTest(unittest.TestCase):
 
     def test_find_no_matches_country_name_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        When the input string doesn't contain the name of a country it should return an empty list
         """
         test_samples = [
             (
@@ -193,7 +223,7 @@ class FindCountryInStringTest(unittest.TestCase):
 class FindCityInStringTest(unittest.TestCase):
     def test_find_multiple_cities_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        examine find_city_in_string where we expect multiple matches
         """
         test_samples = [
             (
@@ -243,20 +273,23 @@ class FindCityInStringTest(unittest.TestCase):
                         normalized=('Ulm', 'Germany'),
                         score=1.0
                     ),
-                    Match(substring_range=(106, 109),
-                          substring='Ulm',
-                          normalized=('Ulm', 'Germany'),
-                          score=1.0
+                    Match(
+                        substring_range=(106, 109),
+                        substring='Ulm',
+                        normalized=('Ulm', 'Germany'),
+                        score=1.0
                     ),
-                    Match(substring_range=(40, 46),
-                          substring='Planck',
-                          normalized=('Planegg', 'Germany'),
-                          score=0.9230769230769231
+                    Match(
+                        substring_range=(40, 46),
+                        substring='Planck',
+                        normalized=('Planegg', 'Germany'),
+                        score=0.9230769230769231
                     ),
-                    Match(substring_range=(80, 85),
-                          substring='Aging',
-                          normalized=('Waging am See', 'Germany'),
-                          score=0.9090909090909091
+                    Match(
+                        substring_range=(80, 85),
+                        substring='Aging',
+                        normalized=('Waging am See', 'Germany'),
+                        score=0.9090909090909091
                     )
                 ]
             ),
@@ -278,6 +311,7 @@ class FindCityInStringTest(unittest.TestCase):
                     ),
                 ],
             ),
+            # special case of "new york city"
             (
                 "Department of Economics, School of Humanities and Social Sciences, Rensselaer Polytechnic Institute "
                 "(RPI), Sage Laboratories Room 3407, Troy, New York 12180, United States",
@@ -324,10 +358,14 @@ class FindCityInStringTest(unittest.TestCase):
 
     def test_find_no_matches_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        When the input string doesn't contains a city name but maybe a region name it should return an empty list
         """
         test_samples = [
-            ("Fur Museum, 7884 Fur, Denmark.", {"Denmark"}, []),
+            (
+                "Fur Museum, 7884 Fur, Denmark.",
+                {"Denmark"},
+                []
+            ),
             (
                 "Centre of Excellence for Omics Driven Computational Biodiscovery, AIMST University, Kedah, Malaysia.",
                 {"Malaysia"},
@@ -351,7 +389,7 @@ class FindCityInStringTest(unittest.TestCase):
 class FindRegionInStringTest(unittest.TestCase):
     def test_find_multiple_regions_in_string(self):
         """
-        When the input string is distorted too much it should return an empty list
+        examine find_region_in_string where we expect multiple matches
         """
         test_samples = [
             (
@@ -449,15 +487,17 @@ class FindRegionInStringTest(unittest.TestCase):
                         normalized=('Ulm', 'Germany'),
                         score=1.0
                     ),
-                    Match(substring_range=(89, 96),
-                          substring='Germany',
-                          normalized=('Federal Republic of Germany', 'Germany'),
-                          score=1.0
+                    Match(
+                        substring_range=(89, 96),
+                        substring='Germany',
+                        normalized=('Federal Republic of Germany', 'Germany'),
+                        score=1.0
                     ),
-                    Match(substring_range=(59, 67),
-                          substring='Einstein',
-                          normalized=('Beinstein', 'Germany'),
-                          score=0.9411764705882353
+                    Match(
+                        substring_range=(59, 67),
+                        substring='Einstein',
+                        normalized=('Beinstein', 'Germany'),
+                        score=0.9411764705882353
                     )
                 ],
             ),
