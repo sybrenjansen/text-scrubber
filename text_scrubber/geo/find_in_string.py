@@ -144,45 +144,56 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
     # Sort desc by score
     matches = sorted(matches, key=lambda c: -c.score)
 
-    # If there's overlap between results, we take the one with the highest score. If scores are equal, we take the
-    # longest normalized one (e.g., 'Guinea' vs 'Papua New Guinea'). If that's also equal, then we take the smallest
-    # original string that lead to it.
-    keep_matches = [True for _ in range(len(matches))]
-    for idx_1, match_1 in enumerate(matches):
+    # Determine which matches to keep and which ones to dismiss when there's overlap in substrings.
+    # The values in this array are as follows: 0=completely dismissed, 1=uncertain, 2=accepted
+    keep_matches = [1 for _ in range(len(matches))]
+    while any(match == 1 for match in keep_matches):
 
-        # Already dismissed?
-        if not keep_matches[idx_1]:
-            continue
+        prev = [k for k in keep_matches]
+        for idx_1, match_1 in enumerate(matches):
 
-        # Check if it has no overlap to any following candidate. If so, check if we need to keep this one
-        for match_2 in matches[idx_1 + 1:]:
-            if _range_has_overlap(match_1.substring_range, match_2.substring_range):
-                if match_1.score > match_2.score:
-                    continue
-                elif match_1.score < match_2.score:
-                    keep_matches[idx_1] = False
-                    continue
+            # Already accepted/dismissed?
+            if keep_matches[idx_1] in {0, 2}:
+                continue
 
-                if len(match_1.normalized) > len(match_2.normalized):
-                    continue
-                elif len(match_1.normalized) < len(match_2.normalized):
-                    keep_matches[idx_1] = False
-                    continue
-
-                if len(match_1.substring) < len(match_2.substring):
-                    continue
-                elif len(match_1.substring) > len(match_2.substring):
-                    keep_matches[idx_1] = False
-                    continue
-
-        # If we keep this one, disable others that have overlap
-        if keep_matches[idx_1]:
+            # Check if it has no overlap to any following candidate that hasn't yet been dimissed entirely. If there's
+            # overlap between results, we take the one with the highest score. If scores are equal, we take the longest
+            # normalized one (e.g., 'Guinea' vs 'Papua New Guinea'). If that's also equal, then we take the smallest
+            # original string that lead to it (e.g., 'New York 1234' vs 'New York').
+            skip_match = False
             for idx_2, match_2 in enumerate(matches[idx_1 + 1:], start=idx_1 + 1):
-                if _range_has_overlap(match_1.substring_range, match_2.substring_range):
-                    keep_matches[idx_2] = False
+                if keep_matches[idx_2] != 0 and _range_has_overlap(match_1.substring_range, match_2.substring_range):
+                    if match_1.score > match_2.score:
+                        continue
+                    elif match_1.score < match_2.score:
+                        skip_match = True
+                        break
+
+                    if len(match_1.normalized[0]) > len(match_2.normalized[0]):
+                        continue
+                    elif len(match_1.normalized[0]) < len(match_2.normalized[0]):
+                        skip_match = True
+                        break
+
+                    if len(match_1.substring) < len(match_2.substring):
+                        continue
+                    elif len(match_1.substring) > len(match_2.substring):
+                        skip_match = True
+                        break
+
+            # If we keep this one, disable others that have overlap
+            if not skip_match:
+                keep_matches[idx_1] = 2
+                for idx_2, match_2 in enumerate(matches):
+                    if idx_1 != idx_2 and _range_has_overlap(match_1.substring_range, match_2.substring_range):
+                        keep_matches[idx_2] = 0
+
+        # Fail-safe to avoid infinite loops. I don't expect there to be any, but just to be safe
+        if prev == keep_matches:
+            break
 
     # Filter
-    return [c for idx, c in enumerate(matches) if keep_matches[idx]]
+    return [c for idx, c in enumerate(matches) if keep_matches[idx] == 2]
 
 
 def find_country_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
