@@ -1,8 +1,10 @@
 Change log
 ==========
 
-Master
-------
+0.3.0
+-----
+
+*(2022-04-13)*
 
 - Renamed `normalize_state` to :meth:`text_scrubber.geo.normalize_region`, as it now handles all kinds of regions
 - Expanded countries, regions, and cities with geonames database, increasing the completeness of the geo database
