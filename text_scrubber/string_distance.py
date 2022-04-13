@@ -3,7 +3,7 @@ from typing import Callable, Dict, Iterable, List, Optional, Pattern, Set, Tuple
 import Levenshtein
 
 
-def find_closest_string(string: str, options: Dict[str, Set[str]]) -> Optional[Tuple[List[str], float]]:
+def find_closest_string(string: str, options: Dict[str, Set[int]]) -> Optional[Tuple[List[str], float]]:
     """
 
     :param string: string to search for
@@ -21,8 +21,9 @@ def find_closest_string(string: str, options: Dict[str, Set[str]]) -> Optional[T
     return result
 
 
-def _find_closest_string(string: str, options: Dict[str, Set[str]], compare_func: Callable,
-                         use_trigrams: bool, min_score: float) -> Optional[Tuple[List[str], float]]:
+def _find_closest_string(
+    string: str, options: Dict[str, Set[int]], compare_func: Callable, use_trigrams: bool, min_score: float
+) -> Optional[Tuple[List[str], float]]:
     """
     Find the closest match for a string from a list of options using Levenshtein edit distance
 
@@ -56,13 +57,16 @@ def _find_closest_string(string: str, options: Dict[str, Set[str]], compare_func
 def get_trigram_tokens(string: str) -> Set[str]:
     """
     Obtain a set of trigram tokens from a string. E.g., 'hello world' --> {'  h', ' he', 'hel', 'ell', 'llo', 'lo ',
-    'o  ', '  w', ' wo', 'wor', 'orl', 'rld', 'ld ', 'd  '}
+    'o  ', '  w', ' wo', 'wor', 'orl', 'rld', 'ld ', 'd  '}.
+
+    The trigrams are converted to integers, to save precious memory and to make the matching process quicker.
 
     :param string: string to extract trigrams from
     :return: set of trigrams
     """
+    global _TRIGRAM_MAP
     string = f"  {string.replace(' ', '  ')}  "
-    return {string[i:i + 3] for i in range(len(string) - 2)}
+    return {_TRIGRAM_MAP.setdefault(string[i:i + 3], len(_TRIGRAM_MAP)) for i in range(len(string) - 2)}
 
 
 def _trigram_similarity(string_trigrams: Set[str], option_trigrams: Set[str]) -> float:
@@ -88,3 +92,7 @@ def pattern_match(string: str, patterns: Iterable[Tuple[Pattern[str], str]]) -> 
     for pattern, replacement_str in patterns:
         if pattern.match(string):
             return replacement_str
+
+
+# Global trigram map for storing {trigram: trigram ID} to save memory
+_TRIGRAM_MAP = {}

@@ -6,7 +6,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='text-scrubber',
-    version='0.2.0',
+    version='0.2.1',
     author='Slimmer.AI',
     description='Python package that offers text scrubbing functionality, providing building blocks for string '
                 'cleaning as well as normalizing geographical text (countries/states/cities)',
@@ -14,15 +14,15 @@ setup(
     url='https://github.com/Slimmer-AI/text-scrubber',
     license='MIT',
     packages=find_packages(),
-    install_requires=['num2words', 'python-Levenshtein', 'anyascii'],
+    install_requires=['anyascii', 'num2words', 'python-Levenshtein', 'tqdm'],
     include_package_data=True,
     extras_require={'docs': ['sphinx==3.2.1',
                              'sphinx-rtd-theme==0.5.0',
                              'sphinx-autodoc-typehints==1.11.0',
                              'sphinx-versions==1.0.1'],
-                    'tests': ['nose2']},
+                    'tests': ['nose2', 'numpy']},
     test_suite='nose2.collector.collector',
-    tests_require=['nose2'],
+    tests_require=['nose2', 'numpy'],
     classifiers=[
         # Development status
         'Development Status :: 5 - Production/Stable',
@@ -31,6 +31,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
 
         # License
         'License :: OSI Approved :: MIT License',

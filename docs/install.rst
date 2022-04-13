@@ -15,6 +15,7 @@ Dependencies
 
 Python packages (installed automatically when installing ``text-scrubber``):
 
+- anyascii
 - num2words
 - python-Levenshtein
-- anyascii
+- tqdm
