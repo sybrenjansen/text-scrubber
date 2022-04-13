@@ -19,12 +19,18 @@ Geo
 
 .. autofunction:: text_scrubber.geo.normalize_country
 
-.. autofunction:: text_scrubber.geo.normalize_state
+.. autofunction:: text_scrubber.geo.normalize_region
 
 .. autofunction:: text_scrubber.geo.normalize_city
 
 .. autofunction:: text_scrubber.geo.clean_country
 
-.. autofunction:: text_scrubber.geo.clean_state
+.. autofunction:: text_scrubber.geo.clean_region
 
 .. autofunction:: text_scrubber.geo.clean_city
+
+.. autofunction:: text_scrubber.geo.find_country_in_string
+
+.. autofunction:: text_scrubber.geo.find_region_in_string
+
+.. autofunction:: text_scrubber.geo.find_city_in_string
