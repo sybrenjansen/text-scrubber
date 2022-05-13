@@ -2,7 +2,7 @@ import re
 from collections import defaultdict
 
 from tqdm import tqdm
-from typing import Any, List, Tuple, Dict, Optional, Set, Iterable, Union
+from typing import Any, List, Tuple, Dict, Optional, Set, Union
 import warnings
 
 from text_scrubber import TextScrubber
@@ -10,7 +10,8 @@ from text_scrubber.io import read_resource_file, read_resource_json_file
 from text_scrubber.string_distance import find_closest_string, get_trigram_tokens, pattern_match
 
 
-def normalize_country(country: str) -> List[Tuple[str, float]]:
+def normalize_country(country: str, min_score_levenshtein: float = 0.8,
+                      min_score_trigram: float = 0.5) -> List[Tuple[str, float]]:
     """
     Cleans up a country by string cleaning and performs some basic country lookups to get the canonical name.
 
@@ -18,6 +19,8 @@ def normalize_country(country: str) -> List[Tuple[str, float]]:
     to Denmark.
 
     :param country: Country string to clean.
+    :param min_score_levenshtein: minimum score to use for Levenshtein similarity
+    :param min_score_trigram: minimum score to use for trigram similarity
     :return: List of (country, score) candidates in canonical form, sorted by score (desc)
     """
     # Clean country
@@ -28,38 +31,45 @@ def normalize_country(country: str) -> List[Tuple[str, float]]:
         return []
 
     # Check if country is part of the known countries list
-    if cleaned_country in _COUNTRY_RESOURCES['cleaned_to_capitilized']:
-        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][cleaned_country]
-        return [(candidate, 1.0)]
+    for countries in _COUNTRY_RESOURCES['countries']['canonical_name'].values():
+        if cleaned_country in countries:
+            candidate = countries[cleaned_country]
+            return [(candidate, 1.0)]
 
     # There's a number of known expansions/translations which can be applied. Check if we can find anything with that
     if cleaned_country in _COUNTRY_RESOURCES['replacements']:
-        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][_COUNTRY_RESOURCES['replacements'][cleaned_country]]
+        replacement = _COUNTRY_RESOURCES['replacements'][cleaned_country]
+        candidate = _COUNTRY_RESOURCES['countries']['canonical_name'][len(replacement)][replacement]
         return [(candidate, 1.0)]
 
     # Check if the country follows a certain country pattern
     known_country = pattern_match(country, _COUNTRY_RESOURCES['replacement_patterns'])
     if known_country:
-        candidate = _COUNTRY_RESOURCES['cleaned_to_capitilized'][known_country]
+        candidate = _COUNTRY_RESOURCES['countries']['canonical_name'][len(known_country)][known_country]
         return [(candidate, 1.0)]
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
-    country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['cleaned_trigrams'])
+    country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['countries'],
+                                        min_score_levenshtein, min_score_trigram)
     if country_match:
         best_matches, score = country_match
-        candidates = (_COUNTRY_RESOURCES['cleaned_to_capitilized'][country] for country in best_matches)
+        candidates = (_COUNTRY_RESOURCES['countries']['canonical_name'][len(country)][country]
+                      for country in best_matches)
         return [(candidate, score) for candidate in candidates]
 
     # No match found
     return []
 
 
-def normalize_region(region: str, restrict_countries: Optional[Set] = None) -> List[Tuple[str, str, float]]:
+def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_score_levenshtein: float = 0.8,
+                     min_score_trigram: float = 0.5) -> List[Tuple[str, str, float]]:
     """
     Cleans up a region by string cleaning and performs region lookups to get the canonical name
 
     :param restrict_countries: A set of countries and/or country codes to restrict the search space
     :param region: City name
+    :param min_score_levenshtein: minimum score to use for Levenshtein similarity
+    :param min_score_trigram: minimum score to use for trigram similarity
     :return: List of (city, country, score) candidates in canonical form, sorted by score (desc)
     """
     # Clean region
@@ -79,30 +89,25 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None) -> L
     not_found = True
     for country_code in country_codes:
         regions_in_country = _REGION_RESOURCES['regions_per_country_code_map'][country_code]
-        if cleaned_region in regions_in_country:
-            # Return the exact name of the region
-            capitalized_region = regions_in_country[cleaned_region][1]
-            capitalize_country = _REGION_RESOURCES['country_to_normalized_country_map'][country_code]
-            candidates.append((capitalized_region, capitalize_country, 1.0))
-            not_found = False
+        for regions in regions_in_country['canonical_name'].values():
+            if cleaned_region in regions:
+                # Return the exact name of the region
+                capitalized_region = regions[cleaned_region]
+                capitalize_country = _REGION_RESOURCES['country_to_normalized_country_map'][country_code]
+                candidates.append((capitalized_region, capitalize_country, 1.0))
+                not_found = False
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     if not_found:
         for country_code in country_codes:
             regions_in_country = _REGION_RESOURCES['regions_per_country_code_map'][country_code]
-
-            # Provide the input that find_closest_string expects to see
-            region_to_region_name = dict()
-            region_country = dict()
-            for region_name, region_value in regions_in_country.items():
-                region_to_region_name[region_name] = region_value[1]
-                region_country[region_name] = region_value[0]
-
-            region_match = find_closest_string(cleaned_region, region_country)  # region_country is {region: trigram}
+            region_match = find_closest_string(cleaned_region, regions_in_country,
+                                               min_score_levenshtein, min_score_trigram)
 
             if region_match:
                 best_matches, score = region_match
-                best_matches = [region_to_region_name[best_match] for best_match in best_matches]
+                best_matches = [regions_in_country['canonical_name'][len(best_match)][best_match]
+                                for best_match in best_matches]
                 capitalize_country = _REGION_RESOURCES['country_to_normalized_country_map'][country_code]
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
@@ -116,12 +121,15 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None) -> L
     return sorted(candidates, key=lambda x: (-x[2], x[0], x[1]))
 
 
-def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[Tuple[str, str, float]]:
+def normalize_city(city: str, restrict_countries: Optional[Set] = None, min_score_levenshtein: float = 0.8,
+                   min_score_trigram: float = 0.5) -> List[Tuple[str, str, float]]:
     """
     Cleans up a city by string cleaning and performs city lookups to get the canonical name
 
-    :param restrict_countries: A set of countries and/or country codes to restrict the search space
     :param city: City name
+    :param restrict_countries: A set of countries and/or country codes to restrict the search space
+    :param min_score_levenshtein: minimum score to use for Levenshtein similarity
+    :param min_score_trigram: minimum score to use for trigram similarity
     :return: List of (city, country, score) candidates in canonical form, sorted by score (desc)
     """
     # Clean city
@@ -141,30 +149,25 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None) -> List[
     not_found = True
     for country_code in country_codes:
         cities_in_country = _CITY_RESOURCES['cities_per_country_code_map'][country_code]
-        if cleaned_city in cities_in_country:
-            # Return the exact name of the city
-            capitalized_city = cities_in_country[cleaned_city][1]
-            capitalize_country = _CITY_RESOURCES['country_to_normalized_country_map'][country_code]
-            candidates.append((capitalized_city, capitalize_country, 1.0))
-            not_found = False
+        for cities in cities_in_country['canonical_name'].values():
+            if cleaned_city in cities:
+                # Return the exact name of the city
+                capitalized_city = cities[cleaned_city]
+                capitalize_country = _CITY_RESOURCES['country_to_normalized_country_map'][country_code]
+                candidates.append((capitalized_city, capitalize_country, 1.0))
+                not_found = False
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     if not_found:
         for country_code in country_codes:
             cities_in_country = _CITY_RESOURCES['cities_per_country_code_map'][country_code]
-
-            # Provide the input that find_closest_string expects to see
-            city_to_city_name = dict()
-            city_country = dict()
-            for city_name, city_value in cities_in_country.items():
-                city_to_city_name[city_name] = city_value[1]
-                city_country[city_name] = city_value[0]
-
-            city_match = find_closest_string(cleaned_city, city_country)  # city_country is {city: trigram}
+            city_match = find_closest_string(cleaned_city, cities_in_country,
+                                             min_score_levenshtein, min_score_trigram)
 
             if city_match:
                 best_matches, score = city_match
-                best_matches = [city_to_city_name[best_match] for best_match in best_matches]
+                best_matches = [cities_in_country['canonical_name'][len(best_match)][best_match]
+                                for best_match in best_matches]
                 capitalize_country = _CITY_RESOURCES['country_to_normalized_country_map'][country_code]
                 for best_match in best_matches:
                     candidates.append((best_match, capitalize_country, score))
@@ -264,11 +267,6 @@ def _get_country_resources() -> Dict[str, Dict]:
     """
     resources = dict()
 
-    # Get a map of cleaned country name to capitalized country name
-    resources['cleaned_to_capitilized'] = {clean_country(country): country for country in read_resource_json_file(
-        __file__, "resources/norm_country_country_codes_map.json"
-    ).keys()}
-
     # Read in a map of common country name replacements
     replacements_file = (line.split(", ") for line in read_resource_file(__file__, 'resources/country_map.txt'))
     resources['replacements'] = {clean_country(country): clean_country(canonical_country)
@@ -279,9 +277,13 @@ def _get_country_resources() -> Dict[str, Dict]:
                                          ((re.compile(r'\d+[a-z]+\d+ canada [a-z]+\d+[a-z]+', re.IGNORECASE), 'canada'),
                                           (re.compile(r'\d+ russia', re.IGNORECASE), 'russia'))]
 
-    # Generate trigrams for the cleaned countries
-    resources['cleaned_trigrams'] = {cleaned_country: get_trigram_tokens(cleaned_country)
-                                     for cleaned_country in resources['cleaned_to_capitilized'].keys()}
+    # Get a map of cleaned country name to canonical country name, and generate trigrams
+    resources['countries'] = {'canonical_name': defaultdict(dict), 'trigram_tokens': defaultdict(dict)}
+    for canonical_country in read_resource_json_file(__file__, "resources/norm_country_country_codes_map.json").keys():
+        cleaned_country = clean_country(canonical_country)
+        trigram_tokens = get_trigram_tokens(cleaned_country)
+        resources['countries']['canonical_name'][len(cleaned_country)][cleaned_country] = canonical_country
+        resources['countries']['trigram_tokens'][len(trigram_tokens)][cleaned_country] = trigram_tokens
 
     return resources
 
@@ -397,7 +399,7 @@ def add_region_resources(countries: Optional[Set] = None, progress_bar: bool = F
             continue
 
         regions = read_resource_file(__file__, f"resources/regions_per_country/{country_code}.txt")
-        _REGION_RESOURCES["regions_per_country_code_map"][country_code] = dict()
+        region_dict = {'canonical_name': defaultdict(dict), 'trigram_tokens': defaultdict(dict)}
         for region_list in regions:
             # A single line can have multiple alternative spellings of the same city. The first spelling is the
             # canonical one and all versions will point to that
@@ -407,9 +409,11 @@ def add_region_resources(countries: Optional[Set] = None, progress_bar: bool = F
                 # Sometimes clean_region removes the whole string
                 if not cleaned_region:
                     continue
-                _REGION_RESOURCES["regions_per_country_code_map"][country_code][cleaned_region] = (
-                    get_trigram_tokens(cleaned_region), canonical_region_name
-                )
+                trigram_tokens = get_trigram_tokens(cleaned_region)
+                region_dict['canonical_name'][len(cleaned_region)][cleaned_region] = canonical_region_name
+                region_dict['trigram_tokens'][len(trigram_tokens)][cleaned_region] = trigram_tokens
+
+        _REGION_RESOURCES["regions_per_country_code_map"][country_code] = region_dict
 
 
 def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = False) -> None:
@@ -432,7 +436,8 @@ def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = Fal
             continue
 
         cities = read_resource_file(__file__, f"resources/cities_per_country/{country_code}.txt")
-        _CITY_RESOURCES["cities_per_country_code_map"][country_code] = dict()
+        cities_dict = {'canonical_name': defaultdict(dict), 'trigram_tokens': defaultdict(dict)}
+
         for city_list in cities:
             # A single line can have multiple alternative spellings of the same city. The first spelling is the
             # canonical one and all versions will point to that
@@ -442,6 +447,8 @@ def add_city_resources(countries: Optional[Set] = None, progress_bar: bool = Fal
                 # Sometimes clean_city removes the whole string
                 if not cleaned_city:
                     continue
-                _CITY_RESOURCES["cities_per_country_code_map"][country_code][cleaned_city] = (
-                    get_trigram_tokens(cleaned_city), canonical_city_name
-                )
+                trigram_tokens = get_trigram_tokens(cleaned_city)
+                cities_dict['canonical_name'][len(cleaned_city)][cleaned_city] = canonical_city_name
+                cities_dict['trigram_tokens'][len(trigram_tokens)][cleaned_city] = trigram_tokens
+
+        _CITY_RESOURCES["cities_per_country_code_map"][country_code] = cities_dict

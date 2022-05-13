@@ -1,8 +1,12 @@
+import inspect
 from collections import namedtuple
 from typing import Callable, Iterable, List, Optional, Set, Tuple
 
+import Levenshtein
+
 from text_scrubber.geo.geo import (clean_city, clean_country, clean_region,
                                    normalize_city, normalize_country, normalize_region, _CITY_RESOURCES)
+from text_scrubber.string_distance import _find_bounds, _trigram_similarity
 
 # Tuple containing start and end idx
 Range = Tuple[int, int]
@@ -10,8 +14,6 @@ Range = Tuple[int, int]
 # Match object. 'substring_range' is a tuple denoting the start and end idx of the substring in the original string.
 Match = namedtuple('Match', ['substring_range', 'substring', 'normalized', 'score'])
 
-
-# TODO: we need write unittests for all functions in this file
 
 def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bool:
     """
@@ -95,19 +97,18 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # If we find any matches, we store the one with the highest score and additionally store the start and end
             # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
             # were lost after calling .split())
+            threshold = match_threshold if len(combination) > threshold_small else match_threshold_small
             if restrict_countries is not None:
-                matches_found = normalize_func(combination, restrict_countries)
+                matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
+                                               min_score_trigram=threshold)
                 matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             else:
-                matches_found = normalize_func(combination)
+                matches_found = normalize_func(combination, min_score_levenshtein=threshold,
+                                               min_score_trigram=threshold)
                 if matches_found and len(matches_found[0]) == 3:
                     matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             if matches_found:
-                # Threshold
                 normalized_match, score = max(matches_found, key=lambda tup: tup[1])
-                if score < (match_threshold if len(normalized_match) > threshold_small else match_threshold_small):
-                    continue
-
                 str_start_idx = token_start_idx[start_idx] + start_idx
                 str_end_idx = str_start_idx + len(combination)
                 matches.append(Match(substring_range=(str_start_idx, str_end_idx), substring=combination,
@@ -127,11 +128,14 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # If we find any matches, we store the one with the highest score and additionally store the start and end
             # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
             # were lost after calling .split())
+            threshold = match_threshold if len(combination) > threshold_small else match_threshold_small
             if restrict_countries is not None:
-                matches_found = normalize_func(combination, restrict_countries)
+                matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
+                                               min_score_trigram=threshold)
                 matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             else:
-                matches_found = normalize_func(combination)
+                matches_found = normalize_func(combination, min_score_levenshtein=threshold,
+                                               min_score_trigram=threshold)
                 if matches_found and len(matches_found[0]) == 3:
                     matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
             if matches_found:
@@ -278,3 +282,28 @@ def find_region_in_string(sample: str, country_set: Optional[set] = None, match_
 
     return _find_in_string(sample, clean_region, normalize_region, blacklist, whitelist_last_resort, match_threshold,
                            match_threshold_small, threshold_small, max_tokens_to_consider, country_set)
+
+
+def _precompute_bounds_find_in_string() -> None:
+    """
+    Precompute bounds for matching for the `find_in_string` functions
+    """
+    country_params = inspect.signature(find_country_in_string).parameters
+    region_params = inspect.signature(find_region_in_string).parameters
+    city_params = inspect.signature(find_city_in_string).parameters
+    for query_size in range(1, 50):
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, country_params['match_threshold'].default)
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, country_params['match_threshold_small'].default)
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, region_params['match_threshold'].default)
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, region_params['match_threshold_small'].default)
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, city_params['match_threshold'].default)
+        _find_bounds('a' * query_size, Levenshtein.ratio, False, city_params['match_threshold_small'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, country_params['match_threshold'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, country_params['match_threshold_small'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, region_params['match_threshold'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, region_params['match_threshold_small'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, city_params['match_threshold'].default)
+        _find_bounds(set(range(query_size)), _trigram_similarity, True, city_params['match_threshold_small'].default)
+
+
+_precompute_bounds_find_in_string()
