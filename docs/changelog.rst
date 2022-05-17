@@ -1,6 +1,12 @@
 Change log
 ==========
 
+Dev
+---
+
+- Optimized Levenshtein and trigram similarity functions, and all normalization functions. Speed-ups of x20-40 are to be
+  expected
+
 0.3.0
 -----
 

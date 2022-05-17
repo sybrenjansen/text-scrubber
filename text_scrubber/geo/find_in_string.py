@@ -1,12 +1,13 @@
 import inspect
 from collections import namedtuple
+from itertools import product
 from typing import Callable, Iterable, List, Optional, Set, Tuple
 
-import Levenshtein
-
-from text_scrubber.geo.geo import (clean_city, clean_country, clean_region,
-                                   normalize_city, normalize_country, normalize_region, _CITY_RESOURCES)
-from text_scrubber.string_distance import _find_bounds, _trigram_similarity
+from text_scrubber.geo.clean import clean_city, clean_country, clean_region
+from text_scrubber.geo.normalize import normalize_city, normalize_country, normalize_region
+from text_scrubber.geo.resources import _COUNTRY_RESOURCES
+from text_scrubber.geo.string_distance_levenshtein import find_levenshtein_bounds
+from text_scrubber.geo.string_distance_trigrams import find_trigram_bounds
 
 # Tuple containing start and end idx
 Range = Tuple[int, int]
@@ -222,9 +223,9 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no countries could
     # be found. In that case we do allow to find those strings, if they're uppercase.
-    all_country_codes_lower = {cc.lower() for cc in _CITY_RESOURCES['all_country_codes']}
-    blacklist = _CITY_RESOURCES['all_country_codes'] | all_country_codes_lower | {'u'}
-    whitelist_last_resort = _CITY_RESOURCES['all_country_codes']
+    all_country_codes_lower = {cc.lower() for cc in _COUNTRY_RESOURCES['all_country_codes']}
+    blacklist = _COUNTRY_RESOURCES['all_country_codes'] | all_country_codes_lower | {'u'}
+    whitelist_last_resort = _COUNTRY_RESOURCES['all_country_codes']
 
     return _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort, match_threshold,
                            match_threshold_small, threshold_small, max_tokens_to_consider)
@@ -292,18 +293,10 @@ def _precompute_bounds_find_in_string() -> None:
     region_params = inspect.signature(find_region_in_string).parameters
     city_params = inspect.signature(find_city_in_string).parameters
     for query_size in range(1, 50):
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, country_params['match_threshold'].default)
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, country_params['match_threshold_small'].default)
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, region_params['match_threshold'].default)
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, region_params['match_threshold_small'].default)
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, city_params['match_threshold'].default)
-        _find_bounds('a' * query_size, Levenshtein.ratio, False, city_params['match_threshold_small'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, country_params['match_threshold'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, country_params['match_threshold_small'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, region_params['match_threshold'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, region_params['match_threshold_small'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, city_params['match_threshold'].default)
-        _find_bounds(set(range(query_size)), _trigram_similarity, True, city_params['match_threshold_small'].default)
+        for params, threshold_name in product((country_params, region_params, city_params),
+                                              ('match_threshold', 'match_threshold_small')):
+            find_levenshtein_bounds(query_size, params[threshold_name].default)
+            find_trigram_bounds(query_size, params[threshold_name].default)
 
 
 _precompute_bounds_find_in_string()

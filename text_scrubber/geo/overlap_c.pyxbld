@@ -1,0 +1,11 @@
+def make_ext(modname, pyxfilename):
+
+    from distutils.extension import Extension
+    import numpy
+
+    ext = Extension(modname,
+                    [pyxfilename],
+                    include_dirs=[numpy.get_include()],
+                    define_macros=[("NPY_NO_DEPRECATED_API", "NPY_1_7_API_VERSION")])
+
+    return ext

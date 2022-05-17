@@ -1,9 +1,10 @@
 import unittest
+from unittest.mock import patch
 
 from numpy import testing
 
-from text_scrubber.geo.geo import (_clean_geo_string, capitalize_geo_string, normalize_country, normalize_region,
-                                   normalize_city)
+from text_scrubber.geo.normalize import normalize_city, normalize_country, normalize_region
+from text_scrubber.geo.string_distance import find_closest_string
 
 
 class NormalizeCountryTest(unittest.TestCase):
@@ -138,6 +139,16 @@ class NormalizeCountryTest(unittest.TestCase):
                     self.assertEqual(country, expected_country)
                     self.assertAlmostEqual(score, expected_score, places=3)
 
+    def test_thresholds_are_passed(self):
+        """
+        Test if the thresholds are correctly passed on to the find_closest_string function
+        """
+        for min_score_levenshtein, min_score_trigram in [(0.8, 0.5), (0.5, 0.8), (0.1, 0.1)]:
+            with self.subTest(min_score_levenshtein=min_score_levenshtein, min_score_trigram=min_score_trigram), \
+                    patch('text_scrubber.geo.normalize.find_closest_string', side_effect=find_closest_string) as p:
+                normalize_country('a country name', min_score_levenshtein, min_score_trigram)
+                self.assertEqual(p.call_args[0][-2:], (min_score_levenshtein, min_score_trigram))
+
 
 class NormalizeRegionTest(unittest.TestCase):
 
@@ -246,6 +257,16 @@ class NormalizeRegionTest(unittest.TestCase):
                 ):
                     self.assertEqual((region, country), (expected_region, expected_country))
                     self.assertAlmostEqual(score, expected_score, places=3)
+
+    def test_thresholds_are_passed(self):
+        """
+        Test if the thresholds are correctly passed on to the find_closest_string function
+        """
+        for min_score_levenshtein, min_score_trigram in [(0.8, 0.5), (0.5, 0.8), (0.1, 0.1)]:
+            with self.subTest(min_score_levenshtein=min_score_levenshtein, min_score_trigram=min_score_trigram), \
+                    patch('text_scrubber.geo.normalize.find_closest_string', side_effect=find_closest_string) as p:
+                normalize_region('a region name', {'NL'}, min_score_levenshtein, min_score_trigram)
+                self.assertEqual(p.call_args[0][-2:], (min_score_levenshtein, min_score_trigram))
 
 
 class NormalizeCityTest(unittest.TestCase):
@@ -428,131 +449,12 @@ class NormalizeCityTest(unittest.TestCase):
                 self.assertCountEqual(expected_city_country_list, city_country_list)
                 testing.assert_almost_equal(expected_score_list, score_list, 3)
 
-
-class CleanGeoStringTest(unittest.TestCase):
-
-    def test_lowercase(self):
+    def test_thresholds_are_passed(self):
         """
-        String should be lowercased
+        Test if the thresholds are correctly passed on to the find_closest_string function
         """
-        test_input = [
-            ('ITALY', 'italy'),
-            ('HELLO WorLD', 'hello world'),
-            ('Diego San', 'diego san')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_to_ascii(self):
-        """
-        Unicode characters should be translated to closest ascii equivalent
-        """
-        test_input = [
-            ('北京', 'beijing'),
-            ('durrës', 'durres'),
-            ('béjaïa', 'bejaia'),
-            ('płońsk', 'plonsk')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_remove_digits(self):
-        """
-        Digits should be removed
-        """
-        test_input = [
-            ('paris 1', 'paris'),
-            ('1234 amsterdam', 'amsterdam'),
-            ('sz4b0lcsv3r3sm4rt', 'szblcsvrsmrt')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_remove_punctuation(self):
-        """
-        Some punctuation will be completely removed
-        """
-        test_input = [
-            ('text_with{a}lot.of"punctuation!@#', 'textwithalotofpunctuation')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_substitute_punctuation(self):
-        """
-        Some punctuation will be replaced by a space
-        """
-        test_input = [
-            ('neustadt/westerwald', 'neustadt westerwald'),
-            ('golub-dobrzyn', 'golub dobrzyn'),
-            ('some,text', 'some text'),
-            ('fort-de-france', 'fort de france')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_substitute_geo_tokens(self):
-        """
-        Some abbreviations should be replaced by the full name
-        """
-        test_input = [
-            ('cent afr rep', 'central african republic'),
-            ('brit isl', 'brittish islands'),
-            ('dem republ', 'democratic republic'),
-            ('equat guinea', 'equatorial guinea'),
-            ('isla bonita', 'islands bonita'),
-            ('is island', 'islands islands'),
-            ('monteneg', 'montenegro'),
-            ('neth', 'netherlands'),
-            ('republik deutschland', 'republic deutschland'),
-            ('sint maarten', 'saint maarten'),
-            ('st vincent', 'saint vincent')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-    def test_remove_stop_words(self):
-        """
-        Some stop words should be removed
-        """
-        test_input = [
-            ('italy e-mail', 'italy'),
-            ('trinidad and tobago', 'trinidad tobago'),
-            ('federated states of micronesia', 'federated states micronesia')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(_clean_geo_string(original), expected)
-
-
-class CapitalizeGeoStringTest(unittest.TestCase):
-
-    def test_capitalize(self):
-        """
-        All tokens should be capitalized
-        """
-        test_input = [
-            ("it doesn't have to be a country", "It Doesn't Have To Be A Country"),
-            ('solomon Islands', 'Solomon Islands'),
-            ('united Arab emirates', 'United Arab Emirates')
-        ]
-        for original, expected in test_input:
-            with self.subTest(original=original, expected=expected):
-                self.assertEqual(capitalize_geo_string(original), expected)
-
-    def test_exlude_and_of(self):
-        """
-        Tokens 'and' and 'of' should not be capitalized
-        """
-        test_input = [
-            ('trinidad and tobago', 'Trinidad and Tobago'),
-            ('united states of america', 'United States of America')
-        ]
-        for original, expected in test_input:
-            self.assertEqual(capitalize_geo_string(original), expected)
+        for min_score_levenshtein, min_score_trigram in [(0.8, 0.5), (0.5, 0.8), (0.1, 0.1)]:
+            with self.subTest(min_score_levenshtein=min_score_levenshtein, min_score_trigram=min_score_trigram), \
+                    patch('text_scrubber.geo.normalize.find_closest_string', side_effect=find_closest_string) as p:
+                normalize_city('a city name', {'NL'}, min_score_levenshtein, min_score_trigram)
+                self.assertEqual(p.call_args[0][-2:], (min_score_levenshtein, min_score_trigram))
