@@ -141,9 +141,10 @@ text dealing with spelling errors, country name variations, etc.:
 Resource loading
 ~~~~~~~~~~~~~~~~
 
-Resources for cities and regions aren't all loaded when you import ``TextScrubber``, they're loaded on the fly. This
-means that the first time you do a query it can take a while. The second time around it will be much faster. You can
-load in resources in advance by using:
+Resources for cities and regions aren't all loaded when you import ``TextScrubber``, they're loaded on the fly per
+country. This means that the first time you do a query it can take a while. The second time around the same query will
+be much faster, as will all other queries involving the same countr(y)(ies). You can load in resources per country in
+advance by using:
 
 .. code-block:: python
 

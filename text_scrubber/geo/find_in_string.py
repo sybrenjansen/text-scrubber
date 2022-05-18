@@ -50,7 +50,7 @@ def cumsum(x: Iterable) -> List:
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
                     whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
                     threshold_small: int = 4, max_tokens_to_consider: int = 4,
-                    restrict_countries: Optional[set] = None) -> List[Match]:
+                    restrict_countries: Optional[Set] = None) -> List[Match]:
     """
     Extracts countries from a sample.
 
@@ -80,6 +80,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
         ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
+    :param restrict_countries: set of countries to use for limiting the search
     :return: list of possible matches
     """
     # First goes through combinations of 1-max_tokens tokens and applies the normalization function of text_scrubber.geo
@@ -95,25 +96,11 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             if combination in blacklist or clean_func(combination) in blacklist:
                 continue
 
-            # If we find any matches, we store the one with the highest score and additionally store the start and end
-            # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
-            # were lost after calling .split())
-            threshold = match_threshold if len(combination) > threshold_small else match_threshold_small
-            if restrict_countries is not None:
-                matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
-                                               min_score_trigram=threshold)
-                matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
-            else:
-                matches_found = normalize_func(combination, min_score_levenshtein=threshold,
-                                               min_score_trigram=threshold)
-                if matches_found and len(matches_found[0]) == 3:
-                    matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
-            if matches_found:
-                normalized_match, score = max(matches_found, key=lambda tup: tup[1])
-                str_start_idx = token_start_idx[start_idx] + start_idx
-                str_end_idx = str_start_idx + len(combination)
-                matches.append(Match(substring_range=(str_start_idx, str_end_idx), substring=combination,
-                                     normalized=normalized_match, score=score))
+            # Look for a match
+            match = _get_matches(combination, token_start_idx, start_idx, normalize_func, match_threshold,
+                                 match_threshold_small, threshold_small, restrict_countries)
+            if match is not None:
+                matches.append(match)
 
     # Do the above again, but now without blacklist and only one token
     # the second condition is for speeding up. Since if the blacklist is empty, it doesn't make sense to check the rest
@@ -126,25 +113,11 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             if combination not in whitelist_last_resort:
                 continue
 
-            # If we find any matches, we store the one with the highest score and additionally store the start and end
-            # idx of the substring. Note that we add start_idx, to accommodate for the spaces after each word (which
-            # were lost after calling .split())
-            threshold = match_threshold if len(combination) > threshold_small else match_threshold_small
-            if restrict_countries is not None:
-                matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
-                                               min_score_trigram=threshold)
-                matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
-            else:
-                matches_found = normalize_func(combination, min_score_levenshtein=threshold,
-                                               min_score_trigram=threshold)
-                if matches_found and len(matches_found[0]) == 3:
-                    matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
-            if matches_found:
-                normalized_match, score = max(matches_found, key=lambda tup: tup[1])
-                str_start_idx = token_start_idx[start_idx] + start_idx
-                str_end_idx = str_start_idx + len(combination)
-                matches.append(Match(substring_range=(str_start_idx, str_end_idx), substring=combination,
-                                     normalized=normalized_match, score=score))
+            # Look for a match
+            match = _get_matches(combination, token_start_idx, start_idx, normalize_func, match_threshold,
+                                 match_threshold_small, threshold_small, restrict_countries)
+            if match is not None:
+                matches.append(match)
 
     # Sort desc by score
     matches = sorted(matches, key=lambda c: -c.score)
@@ -203,6 +176,43 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
 
     # Filter
     return [c for idx, c in enumerate(matches) if keep_matches[idx] == 2]
+
+
+def _get_matches(combination: str, token_start_idx: List[int], start_idx: int, normalize_func: Callable,
+                 match_threshold: float, match_threshold_small: float, threshold_small: int,
+                 restrict_countries: Optional[Set]) -> Optional[Match]:
+    """
+    Try to find a matching location using the normalization function. If we find any matches, we store the one with the
+    highest score and additionally store the start and end idx of the substring. Note that we add start_idx, to
+    accommodate for the spaces after each word (which were lost after calling .split()) in the _find_in_string function.
+
+    :param combination: combination string
+    :param token_start_idx: list of token start indices
+    :param start_idx: start index of the current combination
+    :param normalize_func: normalization function for countries/cities/regions
+    :param match_threshold: threshold for considering a substring a match
+    :param match_threshold_small: threshold for considering a substring a match, applied to smaller normalized countries
+    :param threshold_small: if the length of a candidate string is <= ``threshold_small`` it will use the
+        ``match_threshold_small``, otherwise ``match_threshold``
+    :param restrict_countries: set of countries to use for limiting the search
+    :return: a matching location when available, None otherwise
+    """
+    threshold = match_threshold if len(combination) > threshold_small else match_threshold_small
+    if restrict_countries is not None:
+        matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
+                                       min_score_trigram=threshold)
+        matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
+    else:
+        matches_found = normalize_func(combination, min_score_levenshtein=threshold,
+                                       min_score_trigram=threshold)
+        if matches_found and len(matches_found[0]) == 3:
+            matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
+    if matches_found:
+        normalized_match, score = max(matches_found, key=lambda tup: tup[1])
+        str_start_idx = token_start_idx[start_idx] + start_idx
+        str_end_idx = str_start_idx + len(combination)
+        return Match(substring_range=(str_start_idx, str_end_idx), substring=combination,
+                     normalized=normalized_match, score=score)
 
 
 def find_country_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
@@ -287,8 +297,12 @@ def find_region_in_string(sample: str, country_set: Optional[set] = None, match_
 
 def _precompute_bounds_find_in_string() -> None:
     """
-    Precompute bounds for matching for the `find_in_string` functions
+    Precompute bounds for matching for the `find_in_string` functions. I.e., we find a lower and upper bound for queries
+    of varying size (1-50 characters). If a candidate falls outside these bounds, it is guaranteed that the minimum
+    score will never be reached. These bounds are stored in global maps.
     """
+    # Extract the threshold parameter default values of the find_x_in_string functions so we can precompute bounds based
+    # on those thresholds
     country_params = inspect.signature(find_country_in_string).parameters
     region_params = inspect.signature(find_region_in_string).parameters
     city_params = inspect.signature(find_city_in_string).parameters

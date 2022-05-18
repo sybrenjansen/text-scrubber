@@ -26,7 +26,7 @@ def get_overlap(int32_t[:] query_vector, int32_t[:] candidates_data, int32_t[:] 
     cdef int32_t[:] overlap_view = overlap
 
     # Determine overlap between query and candidates
-    cdef int32_t candidates_nnz = candidates_data.shape[0], data_idx, row_idx, col_idx, row_overlap
+    cdef int32_t data_idx, row_idx, col_idx, row_overlap
     for row_idx in range(n_candidates):
         row_overlap = 0
         for data_idx in range(candidates_indptr[row_idx], candidates_indptr[row_idx + 1]):
