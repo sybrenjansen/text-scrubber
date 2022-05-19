@@ -16,6 +16,9 @@ Dependencies
 Python packages (installed automatically when installing ``text-scrubber``):
 
 - anyascii
+- cython
 - num2words
+- numpy
 - python-Levenshtein
+- scipy
 - tqdm

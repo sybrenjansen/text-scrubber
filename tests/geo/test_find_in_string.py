@@ -1,11 +1,6 @@
 import unittest
 
-from text_scrubber.geo.find_in_string import (
-    find_city_in_string,
-    find_country_in_string,
-    find_region_in_string,
-    Match
-)
+from text_scrubber.geo.find_in_string import find_city_in_string, find_country_in_string, find_region_in_string, Match
 
 
 class FindCountryInStringTest(unittest.TestCase):
@@ -44,7 +39,7 @@ class FindCountryInStringTest(unittest.TestCase):
                         substring_range=(60, 68),
                         substring="Switzerl",
                         normalized="Switzerland",
-                        score=0.8421052631578947,
+                        score=0.842,
                     )
                 ],
             ),
@@ -96,10 +91,20 @@ class FindCountryInStringTest(unittest.TestCase):
                 ],
             ),
         ]
-        for original, expected_match in test_samples:
-            with self.subTest(original=original, expected_match=expected_match):
-                extracted_country = find_country_in_string(original)
-                self.assertEqual(extracted_country, expected_match)
+        for original, expected_matches in test_samples:
+            with self.subTest(original=original, expected_matches=expected_matches):
+                extracted_countries = find_country_in_string(original)
+                for expected_match, extracted_country in zip(expected_matches, extracted_countries):
+                    self.assertEqual(
+                        extracted_country.normalized, expected_match.normalized
+                    )
+                    self.assertAlmostEqual(
+                        extracted_country.score, expected_match.score, places=3
+                    )
+                    self.assertEqual(
+                        extracted_country.substring_range,
+                        expected_match.substring_range,
+                    )
 
     def test_find_multiple_matches_country_name_in_string(self):
         """
@@ -174,7 +179,7 @@ class FindCountryInStringTest(unittest.TestCase):
                         substring_range=(13, 19),
                         substring='German',
                         normalized='Germany',
-                        score=0.9230769230769231
+                        score=0.923
                     )
                 ]
             ),
@@ -182,9 +187,7 @@ class FindCountryInStringTest(unittest.TestCase):
         for original, expected_matches in test_samples:
             with self.subTest(original=original, expected_matches=expected_matches):
                 extracted_countries = find_country_in_string(original)
-                for expected_match, extracted_country in zip(
-                    expected_matches, extracted_countries
-                ):
+                for expected_match, extracted_country in zip(expected_matches, extracted_countries):
                     self.assertEqual(
                         extracted_country.normalized, expected_match.normalized
                     )
@@ -240,7 +243,7 @@ class FindCityInStringTest(unittest.TestCase):
                         substring_range=(14, 20),
                         substring="France",
                         normalized=("La Frasnée", "France"),
-                        score=0.9090909090909091,
+                        score=0.909,
                     )
                 ],
             ),
@@ -255,10 +258,16 @@ class FindCityInStringTest(unittest.TestCase):
                         score=1.0,
                     ),
                     Match(
+                        substring_range=(60, 65),
+                        substring="Saale",
+                        normalized=("Saal", "Germany"),
+                        score=0.889,
+                    ),
+                    Match(
                         substring_range=(39, 45),
                         substring="Straße",
                         normalized=("Trassem", "Germany"),
-                        score=0.8571428571428572,
+                        score=0.857,
                     )
                 ],
             ),
@@ -283,13 +292,13 @@ class FindCityInStringTest(unittest.TestCase):
                         substring_range=(40, 46),
                         substring='Planck',
                         normalized=('Planegg', 'Germany'),
-                        score=0.9230769230769231
+                        score=0.923
                     ),
                     Match(
                         substring_range=(80, 85),
                         substring='Aging',
                         normalized=('Waging am See', 'Germany'),
-                        score=0.9090909090909091
+                        score=0.909
                     )
                 ]
             ),
@@ -372,7 +381,7 @@ class FindCityInStringTest(unittest.TestCase):
                 [],
             ),
             (
-                "Department of Biological Oceanography, Royal Netherlands Institute for Sea Research (NIOZ), Texel, The"
+                "Department of Biological Oceanography, Royal Netherlands Institute for Sea Research (NIOZ), The"
                 " Netherlands",
                 {"Netherlands"},
                 [],
@@ -459,7 +468,7 @@ class FindRegionInStringTest(unittest.TestCase):
                     ),
                 ],
             ),
-                (
+            (
                 "Institute of General Physiology, University of Ulm, Albert Einstein Allee 11, 89081 Ulm, Germany.",
                 {"Germany"},
                 [

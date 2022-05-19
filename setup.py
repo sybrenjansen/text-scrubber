@@ -14,7 +14,7 @@ setup(
     url='https://github.com/Slimmer-AI/text-scrubber',
     license='MIT',
     packages=find_packages(),
-    install_requires=['anyascii', 'num2words', 'python-Levenshtein', 'tqdm'],
+    install_requires=['anyascii', 'cython', 'num2words', 'numpy', 'python-Levenshtein', 'scipy', 'tqdm'],
     include_package_data=True,
     extras_require={'docs': ['sphinx==3.2.1',
                              'sphinx-rtd-theme==0.5.0',

@@ -106,9 +106,11 @@ text dealing with spelling errors, country name variations, etc.:
     #                 normalized=("La Frasnée", "France"), score=0.909)]
 
     find_city_in_string("Bavarian Environment Agency, Hans Högn Straße 12, "
-                        "95030 Hof Saale, Bavaria, Germany", {"Germany})
+                        "95030 Hof Saale, Bavaria, Germany", {"Germany"})
     # Returns: [Match(substring_range=(56, 59), substring='Hof',
     #                 normalized=('Hof', 'Germany'), score=1.0),
+    #           Match(substring_range=(60, 65), substring='Saale',
+    #                 normalized=('Saal', 'Germany'), score=0.889),
     #           Match(substring_range=(39, 45), substring="Straße",
     #                 normalized=("Trassem", "Germany"), score=0.857)]
 
@@ -135,6 +137,27 @@ text dealing with spelling errors, country name variations, etc.:
     Whenever a country is considered part of another country ``normalize_country`` will return the latter.
     E.g., ``Puerto Rico`` is mapped to ``United States`` and ``Greenland`` to ``Denmark``.
 
+
+Resource loading
+~~~~~~~~~~~~~~~~
+
+Resources for cities and regions aren't all loaded when you import ``TextScrubber``, they're loaded on the fly per
+country. This means that the first time you do a query it can take a while. The second time around the same query will
+be much faster, as will all other queries involving the same countr(y)(ies). You can load in resources per country in
+advance by using:
+
+.. code-block:: python
+
+    from text_scrubber.geo import (add_city_resources, add_region_resources,
+                                   normalize_country_to_country_codes)
+
+    country_codes = normalize_country_to_country_codes(['Netherlands', 'China', 'USA'])
+    add_city_resources(country_codes)
+    add_region_resources(country_codes, progress_bar=True)
+
+.. note::
+
+    Whenever a country is considered part of another country ``normalize_country_to_country_codes`` returns both.
 
 Cleaning
 ~~~~~~~~
