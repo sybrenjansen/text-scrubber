@@ -1,8 +1,9 @@
 Change log
 ==========
 
-Dev
----
+0.3.1
+-----
+*(2022-05-19)*
 
 - Optimized Levenshtein and trigram similarity functions, and all normalization functions. Speed-ups of x20-40 are to be
   expected
