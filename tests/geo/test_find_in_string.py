@@ -1,6 +1,7 @@
 import unittest
 
-from text_scrubber.geo.find_in_string import find_city_in_string, find_country_in_string, find_region_in_string, Match
+from text_scrubber.geo.find_in_string import (find_city_in_string, find_country_in_string, find_region_in_string,
+                                              CountryMatch, LocationMatch)
 
 
 class FindCountryInStringTest(unittest.TestCase):
@@ -12,10 +13,11 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "Fur Museum, 7884 Fur, Denmark.",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(22, 29),
                         substring="Denmark",
-                        normalized="Denmark",
+                        canonical_name="Denmark",
+                        matched_name="Denmark",
                         score=1.0,
                     )
                 ],
@@ -24,10 +26,11 @@ class FindCountryInStringTest(unittest.TestCase):
                 "The University of Queensland Diamantina Institute, The University of Queensland, Translational "
                 "Research Institute, Woolloongabba, Queensland, Australia",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(142, 151),
                         substring="Australia",
-                        normalized="Australia",
+                        canonical_name="Australia",
+                        matched_name="Australia",
                         score=1.0,
                     )
                 ],
@@ -35,10 +38,11 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "Institute of Plant Sciences, University of Bern, Bern 3005, Switzerl.",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(60, 68),
                         substring="Switzerl",
-                        normalized="Switzerland",
+                        canonical_name="Switzerland",
+                        matched_name="Switzerland",
                         score=0.842,
                     )
                 ],
@@ -47,10 +51,11 @@ class FindCountryInStringTest(unittest.TestCase):
                 "0000 0004 0581 2008, grid. 451052. 7, Essex Partnership University NHS Foundation Trust, Essex SS11 "
                 "7XX UK",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(104, 106),
                         substring="UK",
-                        normalized="United Kingdom",
+                        canonical_name="United Kingdom",
+                        matched_name="Uk",
                         score=1.0,
                     )
                 ],
@@ -59,10 +64,11 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "University of Bern Hochschulstrasse 4 3012CH Bern Switzerland.",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(50, 61),
                         substring="Switzerland",
-                        normalized="Switzerland",
+                        canonical_name="Switzerland",
+                        matched_name="Switzerland",
                         score=1.0,
                     )
                 ],
@@ -70,10 +76,11 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "Peking University, 5 Yiheyuan Rd, Haidian District, Beijing, CH, 100871",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(61, 63),
                         substring="CH",
-                        normalized="China",
+                        canonical_name="China",
+                        matched_name="Ch",
                         score=1.0,
                     )
                 ]
@@ -82,10 +89,11 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "Divine Word University, Konedobu, NCD 131, Madang, Papua New Guinea.",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(51, 67),
                         substring="Papua New Guinea",
-                        normalized="Papua New Guinea",
+                        canonical_name="Papua New Guinea",
+                        matched_name="Papua New Guinea",
                         score=1.0,
                     )
                 ],
@@ -96,7 +104,10 @@ class FindCountryInStringTest(unittest.TestCase):
                 extracted_countries = find_country_in_string(original)
                 for expected_match, extracted_country in zip(expected_matches, extracted_countries):
                     self.assertEqual(
-                        extracted_country.normalized, expected_match.normalized
+                        extracted_country.canonical_name, expected_match.canonical_name
+                    )
+                    self.assertEqual(
+                        extracted_country.matched_name, expected_match.matched_name
                     )
                     self.assertAlmostEqual(
                         extracted_country.score, expected_match.score, places=3
@@ -115,16 +126,18 @@ class FindCountryInStringTest(unittest.TestCase):
                 "Department of Biological Oceanography, Royal Netherlands Institute for Sea Research (NIOZ), Texel, The"
                 " Netherlands",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(45, 56),
                         substring="Netherlands",
-                        normalized="Netherlands",
+                        canonical_name="Netherlands",
+                        matched_name="Netherlands",
                         score=1.0,
                     ),
-                    Match(
+                    CountryMatch(
                         substring_range=(103, 114),
                         substring="Netherlands",
-                        normalized="Netherlands",
+                        canonical_name="Netherlands",
+                        matched_name="Netherlands",
                         score=1.0,
                     ),
                 ],
@@ -133,16 +146,18 @@ class FindCountryInStringTest(unittest.TestCase):
                 "International Centre for Radio Astronomy Research (ICRAR), M468, University of Western Australia, "
                 "Crawley, WA 6009, Australia",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(87, 96),
                         substring="Australia",
-                        normalized="Australia",
+                        canonical_name="Australia",
+                        matched_name="Australia",
                         score=1.0,
                     ),
-                    Match(
+                    CountryMatch(
                         substring_range=(116, 125),
                         substring="Australia",
-                        normalized="Australia",
+                        canonical_name="Australia",
+                        matched_name="Australia",
                         score=1.0,
                     ),
                 ],
@@ -151,16 +166,18 @@ class FindCountryInStringTest(unittest.TestCase):
                 "Institute of Biochemistry and Genetics, Ufa Science Center, Russian Academy of Sciences, Ufa, Russian"
                 " Federation.",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(94, 112),
                         substring="Russian Federation",
-                        normalized="Russia",
+                        canonical_name="Russia",
+                        matched_name="Russian Federation",
                         score=1.0,
                     ),
-                    Match(
+                    CountryMatch(
                         substring_range=(60, 67),
                         substring="Russian",
-                        normalized="Russia",
+                        canonical_name="Russia",
+                        matched_name="Russia",
                         score=0.923,
                     ),
                 ],
@@ -169,16 +186,18 @@ class FindCountryInStringTest(unittest.TestCase):
             (
                 "Institute of German study, Accra, Ghana",
                 [
-                    Match(
+                    CountryMatch(
                         substring_range=(34, 39),
                         substring='Ghana',
-                        normalized='Ghana',
+                        canonical_name='Ghana',
+                        matched_name='Ghana',
                         score=1.0
                     ),
-                    Match(
+                    CountryMatch(
                         substring_range=(13, 19),
                         substring='German',
-                        normalized='Germany',
+                        canonical_name='Germany',
+                        matched_name='Germany',
                         score=0.923
                     )
                 ]
@@ -189,7 +208,10 @@ class FindCountryInStringTest(unittest.TestCase):
                 extracted_countries = find_country_in_string(original)
                 for expected_match, extracted_country in zip(expected_matches, extracted_countries):
                     self.assertEqual(
-                        extracted_country.normalized, expected_match.normalized
+                        extracted_country.canonical_name, expected_match.canonical_name
+                    )
+                    self.assertEqual(
+                        extracted_country.matched_name, expected_match.matched_name
                     )
                     self.assertAlmostEqual(
                         extracted_country.score, expected_match.score, places=3
@@ -233,16 +255,20 @@ class FindCityInStringTest(unittest.TestCase):
                 "Météorage Pau France",
                 {"France"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(10, 13),
                         substring="Pau",
-                        normalized=("Pau", "France"),
+                        canonical_name="Pau",
+                        matched_name="Pau",
+                        country="France",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(14, 20),
                         substring="France",
-                        normalized=("La Frasnée", "France"),
+                        canonical_name="La Frasnée",
+                        matched_name="La Frasnée",
+                        country="France",
                         score=0.909,
                     )
                 ],
@@ -251,22 +277,28 @@ class FindCityInStringTest(unittest.TestCase):
                 "Bavarian Environment Agency, Hans Högn Straße 12, 95030 Hof Saale, Bavaria, Germany",
                 {"Germany"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(56, 59),
                         substring="Hof",
-                        normalized=("Hof", "Germany"),
+                        canonical_name="Hof",
+                        matched_name="Hof",
+                        country="Germany",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(60, 65),
                         substring="Saale",
-                        normalized=("Saal", "Germany"),
+                        canonical_name="Saal",
+                        matched_name="Saal",
+                        country="Germany",
                         score=0.889,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(39, 45),
                         substring="Straße",
-                        normalized=("Trassem", "Germany"),
+                        canonical_name="Trassem",
+                        matched_name="Trassem",
+                        country="Germany",
                         score=0.857,
                     )
                 ],
@@ -276,28 +308,36 @@ class FindCityInStringTest(unittest.TestCase):
                 "Ulm, Ulm, Germany",
                 {"Germany"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(101, 104),
                         substring='Ulm',
-                        normalized=('Ulm', 'Germany'),
+                        canonical_name='Ulm',
+                        matched_name='Ulm',
+                        country="Germany",
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(106, 109),
                         substring='Ulm',
-                        normalized=('Ulm', 'Germany'),
+                        canonical_name='Ulm',
+                        matched_name='Ulm',
+                        country="Germany",
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(40, 46),
                         substring='Planck',
-                        normalized=('Planegg', 'Germany'),
+                        canonical_name='Planegg',
+                        matched_name='Planegg',
+                        country="Germany",
                         score=0.923
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(80, 85),
                         substring='Aging',
-                        normalized=('Waging am See', 'Germany'),
+                        canonical_name='Waging am See',
+                        matched_name='Waging am See',
+                        country="Germany",
                         score=0.909
                     )
                 ]
@@ -306,16 +346,20 @@ class FindCityInStringTest(unittest.TestCase):
                 "University of Bern Hochschulstrasse 4 3012CH Bern Switzerland.",
                 {"Switzerland"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(14, 18),
                         substring="Bern",
-                        normalized=("Bern", "Switzerland"),
+                        canonical_name="Bern",
+                        matched_name="Bern",
+                        country="Switzerland",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(45, 49),
                         substring="Bern",
-                        normalized=("Bern", "Switzerland"),
+                        canonical_name="Bern",
+                        matched_name="Bern",
+                        country="Switzerland",
                         score=1.0,
                     ),
                 ],
@@ -326,22 +370,28 @@ class FindCityInStringTest(unittest.TestCase):
                 "(RPI), Sage Laboratories Room 3407, Troy, New York 12180, United States",
                 {"United States"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(67, 77),
                         substring="Rensselaer",
-                        normalized=("Rensselaer", "United States"),
+                        canonical_name="Rensselaer",
+                        matched_name="Rensselaer",
+                        country="United States",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(136, 140),
                         substring="Troy",
-                        normalized=("Troy", "United States"),
+                        canonical_name="Troy",
+                        matched_name="Troy",
+                        country="United States",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(142, 150),
                         substring="New York",
-                        normalized=("New York City", "United States"),
+                        canonical_name="New York City",
+                        matched_name="New York City",
+                        country="United States",
                         score=1.0,
                     ),
                 ],
@@ -356,7 +406,7 @@ class FindCityInStringTest(unittest.TestCase):
                     expected_matches, extracted_cities
                 ):
                     self.assertEqual(
-                        extracted_city.normalized, expected_match.normalized
+                        extracted_city.canonical_name, expected_match.canonical_name
                     )
                     self.assertAlmostEqual(
                         extracted_city.score, expected_match.score, places=3
@@ -405,22 +455,28 @@ class FindRegionInStringTest(unittest.TestCase):
                 "Fur Museum, 7884 Fur, Denmark.",
                 {"Denmark"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(0, 3),
                         substring="Fur",
-                        normalized=("Fur", "Denmark"),
+                        canonical_name="Fur",
+                        matched_name="Fur",
+                        country="Denmark",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(17, 20),
                         substring="Fur",
-                        normalized=("Fur", "Denmark"),
+                        canonical_name="Fur",
+                        matched_name="Fur",
+                        country="Denmark",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(22, 29),
                         substring="Denmark",
-                        normalized=("Kingdom of Denmark", "Denmark"),
+                        canonical_name="Kingdom of Denmark",
+                        matched_name="Denmark",
+                        country="Denmark",
                         score=1.0,
                     ),
                 ],
@@ -429,16 +485,20 @@ class FindRegionInStringTest(unittest.TestCase):
                 "Centre of Excellence for Omics Driven Computational Biodiscovery, AIMST University, Kedah, Malaysia.",
                 {"Malaysia"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(84, 89),
                         substring="Kedah",
-                        normalized=("Kedah", "Malaysia"),
+                        canonical_name="Kedah",
+                        matched_name="Kedah",
+                        country="Malaysia",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(91, 99),
                         substring="Malaysia",
-                        normalized=("Malaysia", "Malaysia"),
+                        canonical_name="Malaysia",
+                        matched_name="Malaysia",
+                        country="Malaysia",
                         score=1.0,
                     ),
                 ],
@@ -448,22 +508,28 @@ class FindRegionInStringTest(unittest.TestCase):
                 " Netherlands",
                 {"Netherlands"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(45, 56),
                         substring="Netherlands",
-                        normalized=("Kingdom of the Netherlands", "Netherlands"),
+                        canonical_name="Kingdom of the Netherlands",
+                        matched_name="Netherlands",
+                        country="Netherlands",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(92, 97),
                         substring="Texel",
-                        normalized=("Texel", "Netherlands"),
+                        canonical_name="Texel",
+                        matched_name="Texel",
+                        country="Netherlands",
                         score=1.0,
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(103, 114),
                         substring="Netherlands",
-                        normalized=("Kingdom of the Netherlands", "Netherlands"),
+                        canonical_name="Kingdom of the Netherlands",
+                        matched_name="Netherlands",
+                        country="Netherlands",
                         score=1.0,
                     ),
                 ],
@@ -472,40 +538,52 @@ class FindRegionInStringTest(unittest.TestCase):
                 "Institute of General Physiology, University of Ulm, Albert Einstein Allee 11, 89081 Ulm, Germany.",
                 {"Germany"},
                 [
-                    Match(
+                    LocationMatch(
                         substring_range=(47, 50),
                         substring='Ulm',
-                        normalized=('Ulm', 'Germany'),
+                        canonical_name='Ulm',
+                        matched_name='Ulm',
+                        country='Germany',
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(52, 58),
                         substring='Albert',
-                        normalized=('Albert', 'Germany'),
+                        canonical_name='Albert',
+                        matched_name='Albert',
+                        country='Germany',
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(68, 73),
                         substring='Allee',
-                        normalized=('Allee', 'Germany'),
+                        canonical_name='Allee',
+                        matched_name='Allee',
+                        country='Germany',
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(84, 87),
                         substring='Ulm',
-                        normalized=('Ulm', 'Germany'),
+                        canonical_name='Ulm',
+                        matched_name='Ulm',
+                        country='Germany',
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(89, 96),
                         substring='Germany',
-                        normalized=('Federal Republic of Germany', 'Germany'),
+                        canonical_name='Federal Republic of Germany',
+                        matched_name='Germany',
+                        country='Germany',
                         score=1.0
                     ),
-                    Match(
+                    LocationMatch(
                         substring_range=(59, 67),
                         substring='Einstein',
-                        normalized=('Beinstein', 'Germany'),
+                        canonical_name='Beinstein',
+                        matched_name='Beinstein',
+                        country='Germany',
                         score=0.9411764705882353
                     )
                 ],
@@ -520,7 +598,7 @@ class FindRegionInStringTest(unittest.TestCase):
                     expected_matches, extracted_regions
                 ):
                     self.assertEqual(
-                        extracted_region.normalized, expected_match.normalized
+                        extracted_region.canonical_name, expected_match.canonical_name
                     )
                     self.assertAlmostEqual(
                         extracted_region.score, expected_match.score, places=3

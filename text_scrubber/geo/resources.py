@@ -54,7 +54,7 @@ def add_country_resources():
         resources['countries']['cleaned_location_map'][cleaned_country] = idx
 
         # Add to Levenshtein and trigram maps
-        _add_cleaned_location(cleaned_country, idx, resources['countries'])
+        _add_cleaned_location(cleaned_country, idx, idx, resources['countries'])
 
     # Optimize data structure for Levenshtein and trigram similarity functions
     _optimize_resources_dict(resources['countries'])
@@ -123,18 +123,18 @@ def _add_location_resources(locations: Generator[str, None, None], clean_func: C
         # A single line can have multiple alternative spellings of the same city. The first spelling is the
         # canonical one and all versions will point to that
         location_list = location_list.split(", ")
-        canonical_name = location_list[0]
-        idx = len(location_dict['canonical_names'])
-        location_dict['canonical_names'].append(canonical_name)
-        for cleaned_location in clean_func(location_list):
+        canonical_name_idx = len(location_dict['canonical_names'])
+        for location, cleaned_location in zip(location_list, clean_func(location_list)):
             # Sometimes the clean function removes the whole string
             if not cleaned_location:
                 continue
 
-            location_dict['cleaned_location_map'][cleaned_location] = idx
+            idx = len(location_dict['canonical_names'])
+            location_dict['canonical_names'].append(location)
+            location_dict['cleaned_location_map'][cleaned_location] = canonical_name_idx, idx
 
             # Add to Levenshtein and trigram maps
-            _add_cleaned_location(cleaned_location, idx, location_dict)
+            _add_cleaned_location(cleaned_location, canonical_name_idx, idx, location_dict)
 
     # Optimize data structure for Levenshtein and trigram similarity functions
     _optimize_resources_dict(location_dict)
@@ -142,31 +142,35 @@ def _add_location_resources(locations: Generator[str, None, None], clean_func: C
     return location_dict
 
 
-def _add_cleaned_location(cleaned_location: str, idx: int, resources_dict: Dict[str, Any]) -> None:
+def _add_cleaned_location(cleaned_location: str, canonical_name_idx: int, idx: int,
+                          resources_dict: Dict[str, Any]) -> None:
     """
     Add a cleaned location to the resources dict and make it ready for Levenshtein and trigram similarity functions.
     Post-processing still needs to be done after this, though.
 
     :param cleaned_location: cleaned location string
-    :param idx: index corresponding to the canonical version
+    :param canonical_name_idx: index corresponding to the canonical version of the location
+    :param idx: index corresponding to the location name
     :param resources_dict: dictionary where to store the Levenshtein and trigram information into
     """
     # Add to Levenshtein map
     size = len(cleaned_location)
     if size not in resources_dict['levenshtein']:
-        resources_dict['levenshtein'][size] = {'levenshtein_tokens': [cleaned_location], 'indices': [idx]}
+        resources_dict['levenshtein'][size] = {'levenshtein_tokens': [cleaned_location],
+                                               'indices': [(canonical_name_idx, idx)]}
     else:
         resources_dict['levenshtein'][size]['levenshtein_tokens'].append(cleaned_location)
-        resources_dict['levenshtein'][size]['indices'].append(idx)
+        resources_dict['levenshtein'][size]['indices'].append((canonical_name_idx, idx))
 
     # Add to trigrams map
     trigram_tokens = get_trigram_tokens(cleaned_location)
     size = len(trigram_tokens)
     if len(trigram_tokens) not in resources_dict['trigrams']:
-        resources_dict['trigrams'][size] = {'trigram_tokens': [trigram_tokens], 'indices': [idx]}
+        resources_dict['trigrams'][size] = {'trigram_tokens': [trigram_tokens],
+                                            'indices': [(canonical_name_idx, idx)]}
     else:
         resources_dict['trigrams'][size]['trigram_tokens'].append(trigram_tokens)
-        resources_dict['trigrams'][size]['indices'].append(idx)
+        resources_dict['trigrams'][size]['indices'].append((canonical_name_idx, idx))
 
 
 def _optimize_resources_dict(resources_dict: Dict[str, Any]) -> None:

@@ -15,16 +15,18 @@ _LEVENSHTEIN_OVERLAP_BOUNDS = dict()
 _LEVENSHTEIN_SIZE_BOUNDS = dict()
 
 
-def find_closest_string_levenshtein(query: str,
-                                    candidates: Dict[int, Dict[str, Union[csr_matrix, List[str], List[int]]]],
-                                    min_score: float) -> Optional[Tuple[List[int], float]]:
+def find_closest_string_levenshtein(
+        query: str,
+        candidates: Dict[int, Dict[str, Union[csr_matrix, List[str], List[Tuple[int, int]]]]],
+        min_score: float
+) -> Optional[Tuple[List[Tuple[int, int]], float]]:
     """
     Find the closest match for a query string from a list of candidates using Levenshtein edit distance
 
     :param query: string to search for
     :param candidates: {size: {'levenshtein_tokens': List of cleaned locations (str),
                                'char_matrix': character occurrence matrix (csr_matrix),
-                               'indices': List of corresponding indices (int)}},
+                               'indices': List of corresponding indices (Tuple[int, int]}},
     :param min_score: minimum similarity score to obtain (between 0.0-1.0, 1.0 being a perfect match)
     :return: (best candidates, score) when minimum score is obtained, None otherwise
     """
@@ -69,7 +71,8 @@ def find_closest_string_levenshtein(query: str,
 def get_char_overlap(query_tokens: List[int], char_matrix: csr_matrix) -> np.ndarray:
     """
     The char_matrix contains the different candidates in the rows, and character occurrences in the columns. We take the
-    dot product of the matrix with the query vector, which yields the number of overlapping characters
+    sum over the minimum values at each column of the matrix with the query vector, which yields the number of
+    overlapping characters.
 
     :param query_tokens: list of char tokens
     :param char_matrix: the char_matrix contains the different candidates in the rows, and characters in the columns.

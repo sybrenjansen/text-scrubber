@@ -13,7 +13,9 @@ from text_scrubber.geo.string_distance_trigrams import find_trigram_bounds
 Range = Tuple[int, int]
 
 # Match object. 'substring_range' is a tuple denoting the start and end idx of the substring in the original string.
-Match = namedtuple('Match', ['substring_range', 'substring', 'normalized', 'score'])
+CountryMatch = namedtuple('CountryMatch', ['substring_range', 'substring', 'canonical_name', 'matched_name', 'score'])
+LocationMatch = namedtuple('LocationMatch', ['substring_range', 'substring', 'canonical_name', 'matched_name',
+                                             'country', 'score'])
 
 
 def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bool:
@@ -50,7 +52,7 @@ def cumsum(x: Iterable) -> List:
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
                     whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
                     threshold_small: int = 4, max_tokens_to_consider: int = 4,
-                    restrict_countries: Optional[Set] = None) -> List[Match]:
+                    restrict_countries: Optional[Set] = None) -> List[LocationMatch]:
     """
     Extracts countries from a sample.
 
@@ -147,13 +149,9 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
                         skip_match = True
                         break
 
-                    # For city/region it returns a tuple, for countries just a string
-                    normalized_1, normalized_2 = match_1.normalized, match_2.normalized
-                    if isinstance(match_1.normalized, tuple):
-                        normalized_1, normalized_2 = normalized_1[0], normalized_2[0]
-                    if len(normalized_1) > len(normalized_2):
+                    if len(match_1.canonical_name) > len(match_2.canonical_name):
                         continue
-                    elif len(normalized_1) < len(normalized_2):
+                    elif len(match_1.canonical_name) < len(match_2.canonical_name):
                         skip_match = True
                         break
 
@@ -180,7 +178,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
 
 def _get_matches(combination: str, token_start_idx: List[int], start_idx: int, normalize_func: Callable,
                  match_threshold: float, match_threshold_small: float, threshold_small: int,
-                 restrict_countries: Optional[Set]) -> Optional[Match]:
+                 restrict_countries: Optional[Set]) -> Optional[LocationMatch]:
     """
     Try to find a matching location using the normalization function. If we find any matches, we store the one with the
     highest score and additionally store the start and end idx of the substring. Note that we add start_idx, to
@@ -201,22 +199,20 @@ def _get_matches(combination: str, token_start_idx: List[int], start_idx: int, n
     if restrict_countries is not None:
         matches_found = normalize_func(combination, restrict_countries, min_score_levenshtein=threshold,
                                        min_score_trigram=threshold)
-        matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
     else:
         matches_found = normalize_func(combination, min_score_levenshtein=threshold,
                                        min_score_trigram=threshold)
-        if matches_found and len(matches_found[0]) == 3:
-            matches_found = [((locality, country), score) for (locality, country, score) in matches_found]
     if matches_found:
-        normalized_match, score = max(matches_found, key=lambda tup: tup[1])
+        match = max(matches_found, key=lambda match_: match_.score)
         str_start_idx = token_start_idx[start_idx] + start_idx
         str_end_idx = str_start_idx + len(combination)
-        return Match(substring_range=(str_start_idx, str_end_idx), substring=combination,
-                     normalized=normalized_match, score=score)
+        return LocationMatch(substring_range=(str_start_idx, str_end_idx), substring=combination,
+                             canonical_name=match.canonical_name, matched_name=match.matched_name,
+                             country=match.country if hasattr(match, 'country') else None, score=match.score)
 
 
 def find_country_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                           threshold_small: int = 4, max_tokens_to_consider: int = 4) -> List[Match]:
+                           threshold_small: int = 4, max_tokens_to_consider: int = 4) -> List[CountryMatch]:
     """
     Extracts countries from a sample text.
 
@@ -237,13 +233,17 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     blacklist = _COUNTRY_RESOURCES['all_country_codes'] | all_country_codes_lower | {'u'}
     whitelist_last_resort = _COUNTRY_RESOURCES['all_country_codes']
 
-    return _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort, match_threshold,
-                           match_threshold_small, threshold_small, max_tokens_to_consider)
+    matches = _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort,
+                              match_threshold, match_threshold_small, threshold_small, max_tokens_to_consider)
+
+    # Convert LocationMatch to CountryMatch
+    return [CountryMatch(match.substring_range, match.substring, match.canonical_name, match.matched_name, match.score)
+            for match in matches]
 
 
 def find_city_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                         match_threshold_small: float = 0.90, threshold_small: int = 4,
-                        max_tokens_to_consider: int = 6) -> List[Match]:
+                        max_tokens_to_consider: int = 6) -> List[LocationMatch]:
     """
     Extracts cities from a sample text.
 
@@ -270,7 +270,7 @@ def find_city_in_string(sample: str, country_set: Optional[set] = None, match_th
 
 def find_region_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                           match_threshold_small: float = 0.90, threshold_small: int = 4,
-                          max_tokens_to_consider: int = 6) -> List[Match]:
+                          max_tokens_to_consider: int = 6) -> List[LocationMatch]:
     """
     Extracts regions from a sample text.
 

@@ -28,6 +28,10 @@ Normalization
 
 .. autofunction:: text_scrubber.geo.normalize_country_to_country_codes
 
+.. autoclass:: text_scrubber.geo.normalize.NormalizedCountryMatch
+
+.. autoclass:: text_scrubber.geo.normalize.NormalizedLocationMatch
+
 Cleaning
 ~~~~~~~~
 
@@ -45,6 +49,10 @@ Finding locations within large strings
 .. autofunction:: text_scrubber.geo.find_region_in_string
 
 .. autofunction:: text_scrubber.geo.find_city_in_string
+
+.. autoclass:: text_scrubber.geo.find_in_string.CountryMatch
+
+.. autoclass:: text_scrubber.geo.find_in_string.LocationMatch
 
 Resources
 ~~~~~~~~~

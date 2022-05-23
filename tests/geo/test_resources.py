@@ -43,9 +43,11 @@ class AddCountryResourcesTest(unittest.TestCase):
         max_idx = len(country_dict['canonical_names']) - 1
         self.assertTrue(all(0 <= idx <= max_idx for idx in country_dict['cleaned_location_map'].values()))
         for size_dict in country_dict['levenshtein'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
         for size_dict in country_dict['trigrams'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
 
     def test_bounds(self):
         """
@@ -94,11 +96,14 @@ class AddRegionResourcesTest(unittest.TestCase):
 
         region_dict = _REGION_RESOURCES['regions_per_country_code_map']['DE']
         max_idx = len(region_dict['canonical_names']) - 1
-        self.assertTrue(all(0 <= idx <= max_idx for idx in region_dict['cleaned_location_map'].values()))
+        self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                            for canonical_name_idx, idx in region_dict['cleaned_location_map'].values()))
         for size_dict in region_dict['levenshtein'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
         for size_dict in region_dict['trigrams'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
 
     def test_bounds(self):
         """
@@ -147,11 +152,14 @@ class AddCityResourcesTest(unittest.TestCase):
 
         city_dict = _CITY_RESOURCES['cities_per_country_code_map']['DE']
         max_idx = len(city_dict['canonical_names']) - 1
-        self.assertTrue(all(0 <= idx <= max_idx for idx in city_dict['cleaned_location_map'].values()))
+        self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                            for canonical_name_idx, idx in city_dict['cleaned_location_map'].values()))
         for size_dict in city_dict['levenshtein'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
         for size_dict in city_dict['trigrams'].values():
-            self.assertTrue(all(0 <= idx <= max_idx for idx in size_dict['indices']))
+            self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                                for canonical_name_idx, idx in size_dict['indices']))
 
     def test_bounds(self):
         """
