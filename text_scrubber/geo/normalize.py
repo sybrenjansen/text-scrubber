@@ -39,32 +39,39 @@ def normalize_country(country: str, min_score_levenshtein: float = 0.8,
 
     # Check if country is part of the known countries list
     if cleaned_country in _COUNTRY_RESOURCES['countries']['cleaned_location_map']:
-        country_idx = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][cleaned_country]
-        canonical_country = _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx]
-        return [NormalizedCountryMatch(canonical_country, canonical_country, 1.0)]
-
-    # There's a number of known expansions/translations which can be applied. Check if we can find anything with that
-    if cleaned_country in _COUNTRY_RESOURCES['replacements']:
-        replacement = _COUNTRY_RESOURCES['replacements'][cleaned_country]
-        country_idx = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][replacement]
-        canonical_country = _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx]
-        return [NormalizedCountryMatch(canonical_country, capitalize_geo_string(cleaned_country), 1.0)]
+        canonical_country_idx, country_idx = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][cleaned_country]
+        return [NormalizedCountryMatch(
+            _COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
+            _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx],
+            1.0
+        )]
 
     # Check if the country follows a certain country pattern
     known_country = pattern_match(country, _COUNTRY_RESOURCES['replacement_patterns'])
     if known_country:
-        country_idx = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][known_country]
-        canonical_country = _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx]
-        return [NormalizedCountryMatch(canonical_country, capitalize_geo_string(known_country), 1.0)]
+        canonical_country_idx, _ = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][known_country]
+        return [NormalizedCountryMatch(
+            _COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
+            capitalize_geo_string(known_country),
+            1.0
+        )]
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['countries'],
                                         min_score_levenshtein, min_score_trigram)
     if country_match:
         best_matches, score = country_match
-        return [NormalizedCountryMatch(_COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
-                                       _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx], score)
-                for canonical_country_idx, country_idx in best_matches]
+        candidates = [NormalizedCountryMatch(_COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
+                                             _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx], score)
+                      for canonical_country_idx, country_idx in best_matches]
+
+        # Remove duplicates. E.g., "Netherland" matches to the same country twice: "Netherlands", "The Netherlands"
+        deduped_candidates = defaultdict(list)
+        for candidate in candidates:
+            dedupe_key = (clean_country(candidate.canonical_name), candidate.score)
+            deduped_candidates[dedupe_key].append(candidate)
+        candidates = [process_multiple_names(candidates) for candidates in deduped_candidates.values()]
+        return sorted(candidates, key=lambda x: (-x.score, x.canonical_name))
 
     # No match found
     return []
@@ -237,8 +244,9 @@ def process_multiple_names(
     """
     Does nothing if the name is already a string. However, in the other case where it's a list of strings we
     determine which variant has the most non-ascii characters and return that one. E.g., [Chenet, Chênet] -> Chênet.
-    If there's a tie, we select the longest one. E.g. [Etten, Etten-Leur] -> Etten-Leur. If there's still a tie,
-    sort and return the first one. The other name is added to the alternate names. If they are similar after `
+    If there's a tie, we select the longest one. E.g. [Etten, Etten-Leur] -> Etten-Leur. If there's still a tie, we
+    return the one with the shortest matched name. E.g. [Netherlands, The Netherlands] -> Netherlands. If there's still
+    a tie, sort and return the first one. The other name is added to the alternate names. If they are similar after `
     clean_city`, they will be removed when saving the names to file.
 
     :param candidates: List of normalized location candidates
@@ -247,10 +255,11 @@ def process_multiple_names(
     sorted_candidates = sorted(((len(RE_ALPHA.sub('', candidate.canonical_name)),
                                  len(candidate.canonical_name),
                                  candidate.canonical_name,
+                                 len(candidate.matched_name),
                                  idx)
                                 for idx, candidate in enumerate(candidates)),
-                               key=lambda tup: (-tup[0], -tup[1], tup[2]))
-    return candidates[sorted_candidates[0][3]]
+                               key=lambda tup: (-tup[0], -tup[1], tup[2], tup[3], tup[4]))
+    return candidates[sorted_candidates[0][4]]
 
 
 def capitalize_geo_string(string: str) -> str:

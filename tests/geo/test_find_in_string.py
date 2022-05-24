@@ -55,7 +55,7 @@ class FindCountryInStringTest(unittest.TestCase):
                         substring_range=(104, 106),
                         substring="UK",
                         canonical_name="United Kingdom",
-                        matched_name="Uk",
+                        matched_name="UK",
                         score=1.0,
                     )
                 ],
@@ -79,8 +79,8 @@ class FindCountryInStringTest(unittest.TestCase):
                     CountryMatch(
                         substring_range=(61, 63),
                         substring="CH",
-                        canonical_name="China",
-                        matched_name="Ch",
+                        canonical_name="Switzerland",
+                        matched_name="CH",
                         score=1.0,
                     )
                 ]

@@ -4,6 +4,8 @@ Change log
 Dev
 ---
 
+- Common country replacements have been updated to allow for fuzzy matching
+- Country codes added such that they can be matched through :meth:`text_scrubber.geo.normalize_country`
 - :meth:`text_scrubber.geo.normalize_country`, :meth:`text_scrubber.geo.normalize_region`,
   :meth:`text_scrubber.geo.normalize_city`, :meth:`text_scrubber.geo.find_country_in_string`,
   :meth:`text_scrubber.geo.find_city_in_string`, and :meth:`text_scrubber.geo.find_region_in_string`  now return the

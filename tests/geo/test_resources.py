@@ -15,13 +15,12 @@ class AddCountryResourcesTest(unittest.TestCase):
 
         self.assertListEqual(sorted(_COUNTRY_RESOURCES.keys()),
                              ['all_country_codes', 'countries', 'country_to_normalized_country_map',
-                              'normalized_country_to_country_codes_map', 'replacement_patterns', 'replacements'])
+                              'normalized_country_to_country_codes_map', 'replacement_patterns'])
         self.assertIsInstance(_COUNTRY_RESOURCES['all_country_codes'], set)
         self.assertIsInstance(_COUNTRY_RESOURCES['countries'], dict)
         self.assertIsInstance(_COUNTRY_RESOURCES['country_to_normalized_country_map'], dict)
         self.assertIsInstance(_COUNTRY_RESOURCES['normalized_country_to_country_codes_map'], dict)
         self.assertIsInstance(_COUNTRY_RESOURCES['replacement_patterns'], list)
-        self.assertIsInstance(_COUNTRY_RESOURCES['replacements'], dict)
 
         self.assertListEqual(sorted(_COUNTRY_RESOURCES['countries'].keys()),
                              ['canonical_names', 'cleaned_location_map', 'levenshtein', 'trigrams'])
@@ -41,7 +40,8 @@ class AddCountryResourcesTest(unittest.TestCase):
 
         country_dict = _COUNTRY_RESOURCES['countries']
         max_idx = len(country_dict['canonical_names']) - 1
-        self.assertTrue(all(0 <= idx <= max_idx for idx in country_dict['cleaned_location_map'].values()))
+        self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
+                            for canonical_name_idx, idx in country_dict['cleaned_location_map'].values()))
         for size_dict in country_dict['levenshtein'].values():
             self.assertTrue(all(0 <= idx <= max_idx and 0 <= canonical_name_idx <= max_idx
                                 for canonical_name_idx, idx in size_dict['indices']))

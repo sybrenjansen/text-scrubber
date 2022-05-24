@@ -59,7 +59,7 @@ have been replaced with ``Match`` to make the output more readable.
     """
 
     normalize_country('Peoples rep. of China')
-    # [Match(canonical_name='China', matched_name='Peoples Republic China', score=1.0)]
+    # [Match(canonical_name='China', matched_name='Peoples Republic of China', score=1.0)]
 
     normalize_country('Deutschland')
     # [Match(canonical_name='Germany', matched_name='Deutschland', score=1.0)]
@@ -137,8 +137,9 @@ text dealing with spelling errors, country name variations, etc.:
 
     find_country_in_string("Peking University, 5 Yiheyuan Rd, "
                            "Haidian District, Beijing, CH, 100871")
-    # [CountryMatch(substring_range=(61, 63), substring='CH', canonical_name='China',
-    #               matched_name='Ch', score=1.0)]
+    # This was a trick question though, as CH=Switzerland. China is CN
+    # [CountryMatch(substring_range=(61, 63), substring='CH', canonical_name='Switzerland',
+    #               matched_name='CH', score=1.0)]
 
     """
     Cities

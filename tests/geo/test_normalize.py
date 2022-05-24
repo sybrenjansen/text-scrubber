@@ -57,11 +57,11 @@ class NormalizeCountryTest(unittest.TestCase):
         """
         test_countries = [
             ('republica argentina', [('Argentina', 'Republica Argentina')]),
-            ('kingdom of Bahrain', [('Bahrain', 'Kingdom Bahrain')]),
-            ('Peoples republic of China', [('China', 'Peoples Republic China')]),
-            ('FR', [('France', 'Fr')]),
+            ('kingdom of Bahrain', [('Bahrain', 'Kingdom of Bahrain')]),
+            ('Peoples republic of China', [('China', 'Peoples Republic of China')]),
+            ('FR', [('France', 'FR')]),
             ('Allemagne', [('Germany', 'Allemagne')]),
-            ('KASSR', [('Kazakhstan', 'Kassr')]),
+            ('KASSR', [('Kazakhstan', 'KASSR')]),
             ('cook Islands', [('New Zealand', 'Cook Islands')])
         ]
         for original, expected in test_countries:
