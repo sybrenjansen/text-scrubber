@@ -6,18 +6,9 @@ Dev
 
 - Common country replacements have been updated to allow for fuzzy matching
 - Country codes added such that they can be matched through :meth:`text_scrubber.geo.normalize_country`
-- :meth:`text_scrubber.geo.normalize_country`, :meth:`text_scrubber.geo.normalize_region`,
-  :meth:`text_scrubber.geo.normalize_city`, :meth:`text_scrubber.geo.find_country_in_string`,
-  :meth:`text_scrubber.geo.find_city_in_string`, and :meth:`text_scrubber.geo.find_region_in_string`  now return the
-  canonical name together with the matched name
-- :meth:`text_scrubber.geo.normalize_country` now returns a :class:`text_scrubber.geo.normalize.NormalizedCountryMatch`
-  object
-- :meth:`text_scrubber.geo.normalize_region` and :meth:`text_scrubber.geo.normalize_city` now return a
-  :class:`text_scrubber.geo.normalize.NormalizedLocationMatch` object
-- :meth:`text_scrubber.geo.find_country_in_string` now returns a :meth:`text_scrubber.geo.find_in_string.CountryMatch`
-  object
-- :meth:`text_scrubber.geo.find_city_in_string` and :meth:`text_scrubber.geo.find_region_in_string` now return a
-  :class:`text_scrubber.geo.find_in_string.LocationMatch` object
+- The geo normalize functions now return the canonical name together with the matched name
+- The geo normalize functions now return a :class:`text_scrubber.geo.normalize.Location` object
+- The geo find in string functions now return a :class:`text_scrubber.geo.find_in_string.ExtractedLocation` object
 
 0.3.2
 -----

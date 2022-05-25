@@ -1,36 +1,39 @@
 import inspect
-from collections import namedtuple
+from dataclasses import dataclass
 from itertools import product
-from typing import Callable, Iterable, List, Optional, Set, Tuple
+from typing import Callable, Iterable, List, Optional, Set
 
 from text_scrubber.geo.clean import clean_city, clean_country, clean_region
-from text_scrubber.geo.normalize import normalize_city, normalize_country, normalize_region
+from text_scrubber.geo.normalize import Location, normalize_city, normalize_country, normalize_region
 from text_scrubber.geo.resources import _COUNTRY_RESOURCES
 from text_scrubber.geo.string_distance_levenshtein import find_levenshtein_bounds
 from text_scrubber.geo.string_distance_trigrams import find_trigram_bounds
 
-# Tuple containing start and end idx
-Range = Tuple[int, int]
 
-# Match object. 'substring_range' is a tuple denoting the start and end idx of the substring in the original string.
-CountryMatch = namedtuple('CountryMatch', ['substring_range', 'substring', 'canonical_name', 'matched_name', 'score'])
-LocationMatch = namedtuple('LocationMatch', ['substring_range', 'substring', 'canonical_name', 'matched_name',
-                                             'country', 'score'])
+@dataclass(init=True, frozen=True)
+class Range:
+    start: int
+    end: int
 
 
-def _range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bool:
+@dataclass(init=True, frozen=True)
+class ExtractedLocation:
+    location: Location
+    substring: str
+    substring_range: Range
+
+
+def range_has_overlap(range_1: Optional[Range], range_2: Optional[Range]) -> bool:
     """
     Checks if two ranges overlap based on start_idx and end_idx
 
-    :param range_1: (start, end) range tuple
-    :param range_2: (start, end) range tuple
+    :param range_1: Range object
+    :param range_2: Range object
     :return: Boolean indicating whether there is overlap
     """
     if range_1 is None or range_2 is None:
         return False
-    start_1, end_1 = range_1
-    start_2, end_2 = range_2
-    return max(start_1, start_2) < min(end_1, end_2)
+    return max(range_1.start, range_2.start) < min(range_1.end, range_2.end)
 
 
 def cumsum(x: Iterable) -> List:
@@ -52,7 +55,7 @@ def cumsum(x: Iterable) -> List:
 def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable, blacklist: Set,
                     whitelist_last_resort: Set, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
                     threshold_small: int = 4, max_tokens_to_consider: int = 4,
-                    restrict_countries: Optional[Set] = None) -> List[LocationMatch]:
+                    restrict_countries: Optional[Set] = None) -> List[ExtractedLocation]:
     """
     Extracts countries from a sample.
 
@@ -122,7 +125,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
                 matches.append(match)
 
     # Sort desc by score
-    matches = sorted(matches, key=lambda c: -c.score)
+    matches = sorted(matches, key=lambda c: -c.location.score)
 
     # Determine which matches to keep and which ones to dismiss when there's overlap in substrings.
     # The values in this array are as follows: 0=completely dismissed, 1=uncertain, 2=accepted
@@ -142,16 +145,16 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             # original string that lead to it (e.g., 'New York 1234' vs 'New York').
             skip_match = False
             for idx_2, match_2 in enumerate(matches[idx_1 + 1:], start=idx_1 + 1):
-                if keep_matches[idx_2] != 0 and _range_has_overlap(match_1.substring_range, match_2.substring_range):
-                    if match_1.score > match_2.score:
+                if keep_matches[idx_2] != 0 and range_has_overlap(match_1.substring_range, match_2.substring_range):
+                    if match_1.location.score > match_2.location.score:
                         continue
-                    elif match_1.score < match_2.score:
+                    elif match_1.location.score < match_2.location.score:
                         skip_match = True
                         break
 
-                    if len(match_1.canonical_name) > len(match_2.canonical_name):
+                    if len(match_1.location.canonical_name) > len(match_2.location.canonical_name):
                         continue
-                    elif len(match_1.canonical_name) < len(match_2.canonical_name):
+                    elif len(match_1.location.canonical_name) < len(match_2.location.canonical_name):
                         skip_match = True
                         break
 
@@ -165,7 +168,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
             if not skip_match:
                 keep_matches[idx_1] = 2
                 for idx_2, match_2 in enumerate(matches):
-                    if idx_1 != idx_2 and _range_has_overlap(match_1.substring_range, match_2.substring_range):
+                    if idx_1 != idx_2 and range_has_overlap(match_1.substring_range, match_2.substring_range):
                         keep_matches[idx_2] = 0
 
         # Fail-safe to avoid infinite loops. I don't expect there to be any, but just to be safe
@@ -178,7 +181,7 @@ def _find_in_string(sample: str, clean_func: Callable, normalize_func: Callable,
 
 def _get_matches(combination: str, token_start_idx: List[int], start_idx: int, normalize_func: Callable,
                  match_threshold: float, match_threshold_small: float, threshold_small: int,
-                 restrict_countries: Optional[Set]) -> Optional[LocationMatch]:
+                 restrict_countries: Optional[Set]) -> Optional[ExtractedLocation]:
     """
     Try to find a matching location using the normalization function. If we find any matches, we store the one with the
     highest score and additionally store the start and end idx of the substring. Note that we add start_idx, to
@@ -206,13 +209,12 @@ def _get_matches(combination: str, token_start_idx: List[int], start_idx: int, n
         match = max(matches_found, key=lambda match_: match_.score)
         str_start_idx = token_start_idx[start_idx] + start_idx
         str_end_idx = str_start_idx + len(combination)
-        return LocationMatch(substring_range=(str_start_idx, str_end_idx), substring=combination,
-                             canonical_name=match.canonical_name, matched_name=match.matched_name,
-                             country=match.country if hasattr(match, 'country') else None, score=match.score)
+        return ExtractedLocation(location=match, substring=combination,
+                                 substring_range=Range(str_start_idx, str_end_idx))
 
 
 def find_country_in_string(sample: str, match_threshold: float = 0.84, match_threshold_small: float = 0.90,
-                           threshold_small: int = 4, max_tokens_to_consider: int = 4) -> List[CountryMatch]:
+                           threshold_small: int = 4, max_tokens_to_consider: int = 4) -> List[ExtractedLocation]:
     """
     Extracts countries from a sample text.
 
@@ -225,7 +227,7 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
         ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
-    :return: list of possible matches
+    :return: list of matches
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no countries could
     # be found. In that case we do allow to find those strings, if they're uppercase.
@@ -233,17 +235,13 @@ def find_country_in_string(sample: str, match_threshold: float = 0.84, match_thr
     blacklist = _COUNTRY_RESOURCES['all_country_codes'] | all_country_codes_lower | {'u'}
     whitelist_last_resort = _COUNTRY_RESOURCES['all_country_codes']
 
-    matches = _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort,
-                              match_threshold, match_threshold_small, threshold_small, max_tokens_to_consider)
-
-    # Convert LocationMatch to CountryMatch
-    return [CountryMatch(match.substring_range, match.substring, match.canonical_name, match.matched_name, match.score)
-            for match in matches]
+    return _find_in_string(sample, clean_country, normalize_country, blacklist, whitelist_last_resort,
+                           match_threshold, match_threshold_small, threshold_small, max_tokens_to_consider)
 
 
 def find_city_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                         match_threshold_small: float = 0.90, threshold_small: int = 4,
-                        max_tokens_to_consider: int = 6) -> List[LocationMatch]:
+                        max_tokens_to_consider: int = 6) -> List[ExtractedLocation]:
     """
     Extracts cities from a sample text.
 
@@ -257,7 +255,7 @@ def find_city_in_string(sample: str, country_set: Optional[set] = None, match_th
         ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
-    :return: list of possible matches
+    :return: list of matches
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no cities could be
     # found. In that case we do allow to find those strings.
@@ -270,7 +268,7 @@ def find_city_in_string(sample: str, country_set: Optional[set] = None, match_th
 
 def find_region_in_string(sample: str, country_set: Optional[set] = None, match_threshold: float = 0.84,
                           match_threshold_small: float = 0.90, threshold_small: int = 4,
-                          max_tokens_to_consider: int = 6) -> List[LocationMatch]:
+                          max_tokens_to_consider: int = 6) -> List[ExtractedLocation]:
     """
     Extracts regions from a sample text.
 
@@ -284,7 +282,7 @@ def find_region_in_string(sample: str, country_set: Optional[set] = None, match_
         ``match_threshold_small``, otherwise ``match_threshold``
     :param max_tokens_to_consider: maximum amount of tokens to consider as a combination for comparing to normalized
         countries
-    :return: list of possible matches
+    :return: list of matches
     """
     # We skip certain tokens, as they are too confusing. The whitelist_last_resort is used for when no regions could be
     # found. In that case we do allow to find those strings.

@@ -46,9 +46,8 @@ For a complete list of building blocks please refer to the ``TextScrubber`` API 
 Geo
 ---
 
-The ``text_scrubber.geo`` module contains functions to normalize geographical data which deal with spelling errors,
-country name variations, etc. In the output the ``NormalizedCountryMatch`` and ``NormalizedLocationMatch`` object names
-have been replaced with ``Match`` to make the output more readable.
+The :obj:`text_scrubber.geo` module contains functions to normalize geographical data which deal with spelling errors,
+country name variations, etc.:
 
 .. code-block:: python
 
@@ -59,56 +58,61 @@ have been replaced with ``Match`` to make the output more readable.
     """
 
     normalize_country('Peoples rep. of China')
-    # [Match(canonical_name='China', matched_name='Peoples Republic of China', score=1.0)]
+    # [Location(canonical_name='China', matched_name='Peoples Republic of China', country=None,
+    #           score=1.0)]
 
     normalize_country('Deutschland')
-    # [Match(canonical_name='Germany', matched_name='Deutschland', score=1.0)]
+    # [Location(canonical_name='Germany', matched_name='Deutschland', country=None, score=1.0)]
 
     normalize_country('st Nevis and Kitties')
-    # [Match(canonical_name='Saint Kitts and Nevis', matched_name='Saint Kitts and Nevis',
-    #        score=0.75)]
+    # [Location(canonical_name='Saint Kitts and Nevis', matched_name='Saint Kitts and Nevis',
+    #           country=None, score=0.75)]
 
     normalize_country('ira')
-    # [Match(canonical_name='Iran', matched_name='Iran', score=0.857),
-    #  Match(canonical_name='Iraq', matched_name='Iraq', score=0.857)]
+    # [Location(canonical_name='Iran', matched_name='Iran', country=None, score=0.857...),
+    #  Location(canonical_name='Iraq', matched_name='Iraq', country=None, score=0.857...)]
 
     """
     Cities
     """
 
     normalize_city('Leibnitz', ['Austria'])
-    # [Match(canonical_name='Leibnitz', matched_name='Leibnitz', country='Austria', score=1.0)]
+    # [Location(canonical_name='Leibnitz', matched_name='Leibnitz', country='Austria', score=1.0)]
 
     normalize_city('heidelberg')
-    # [Match(canonical_name='Heidelberg', matched_name='Heidelberg', country='Germany',
-    #        score=1.0),
-    #  Match(canonical_name='Heidelberg', matched_name='Heidelberg', country='South Africa',
-    #        score=1.0),
-    #  Match(canonical_name='Heidelberg', matched_name='Heidelberg', country='United States',
-    #        score=1.0)]
+    # [Location(canonical_name='Heidelberg', matched_name='Heidelberg', country='Germany',
+    #           score=1.0),
+    #  Location(canonical_name='Heidelberg', matched_name='Heidelberg', country='South Africa',
+    #           score=1.0),
+    #  Location(canonical_name='Heidelberg', matched_name='Heidelberg', country='United States',
+    #           score=1.0)]
 
     normalize_city('ohioo', ['US'])
-    # [Match(canonical_name='Ohio', matched_name='Ohio', country='United States', score=0.889)]
+    # [Location(canonical_name='Ohio', matched_name='Ohio', country='United States',
+    #           score=0.888...)]
 
     normalize_city('Madri', ['Spain', 'US', 'Brazil'])
-    # [Match(canonical_name='Madrid', matched_name='Madrid', country='Spain', score=0.909),
-    #  Match(canonical_name='Madrid', matched_name='Madrid', country='United States',
-    #        score=0.909),
-    #  Match(canonical_name='Mari', matched_name='Mari', country='Brazil', score=0.889)]
+    # [Location(canonical_name='Madrid', matched_name='Madrid', country='Spain',
+    #           score=0.909...),
+    #  Location(canonical_name='Madrid', matched_name='Madrid', country='United States',
+    #           score=0.909...),
+    #  Location(canonical_name='Mari', matched_name='Mari', country='Brazil',
+    #           score=0.888...)]
 
     """
     Regions
     """
 
     normalize_region('triangle park', ['US'])
-    # [Match(canonical_name='The Triangle Park', matched_name='The Triangle Park',
-    #        country='United States', score=1.0)]
+    # [Location(canonical_name='The Triangle Park', matched_name='The Triangle Park',
+    #           country='United States', score=1.0)]
 
     normalize_region('Fur', ['Denmark'])
-    # [Match(canonical_name='Fur', matched_name='Fur', country='Denmark', score=1.0)]
+    # [Location(canonical_name='Fur', matched_name='Fur', country='Denmark', score=1.0)]
 
     normalize_region('texel', ['NL'])
-    # [Match(canonical_name='Texel', matched_name='Texel', country='Netherlands', score=1.0)]
+    # [Location(canonical_name='Texel', matched_name='Texel', country='Netherlands', score=1.0)]
+
 
 Each of the above normalization functions return the canonical name, matched name, the match score, and when normalizing
 cities or regions it will also contain the corresponding country. The difference between canonical and matched name
@@ -117,7 +121,12 @@ stems from the fact that some countries, cities, or regions can have alternative
 ``NYC``. The match scores are always between 0.0 and 1.0, where 1.0 is a perfect match. If a known mapping exists, like
 ``Deutschland`` to ``Germany``, then the match score will be 1.0.
 
-The ``text_scrubber.geo`` module also contains functions to find the name of places (country, region, and city) in
+.. note::
+
+    When normalizing a country or finding countries in a string, the ``country`` attribute of a ``LocationMatch`` object
+    is always ``None``. The normalized name can be found using the ``canonical_name`` attribute.
+
+The :obj:`text_scrubber.geo` module also contains functions to find the name of places (country, region, and city) in
 text dealing with spelling errors, country name variations, etc.:
 
 .. code-block:: python
@@ -130,60 +139,72 @@ text dealing with spelling errors, country name variations, etc.:
     """
 
     find_country_in_string("Institute of German study, Accra, Ghana")
-    # [CountryMatch(substring_range=(34, 39), substring='Ghana', canonical_name='Ghana',
-    #               matched_name='Ghana', score=1.0),
-    #  CountryMatch(substring_range=(13, 19), substring='German', canonical_name='Germany',
-    #               matched_name='Germany', score=0.923)]
+    # [ExtractedLocation(location=Location(canonical_name='Ghana', matched_name='Ghana',
+    #                                      country=None, score=1.0),
+    #                    substring='Ghana', substring_range=Range(start=34, end=39)),
+    #  ExtractedLocation(location=Location(canonical_name='Germany', matched_name='Germany',
+    #                                      country=None, score=0.923...),
+    #                    substring='German', substring_range=Range(start=13, end=19))]
 
     find_country_in_string("Peking University, 5 Yiheyuan Rd, "
                            "Haidian District, Beijing, CH, 100871")
     # This was a trick question though, as CH=Switzerland. China is CN
-    # [CountryMatch(substring_range=(61, 63), substring='CH', canonical_name='Switzerland',
-    #               matched_name='CH', score=1.0)]
+    # [ExtractedLocation(location=Location(canonical_name='Switzerland', matched_name='CH',
+    #                                      country=None, score=1.0),
+    #                    substring='CH', substring_range=Range(start=61, end=63))]
 
     """
     Cities
     """
 
     find_city_in_string("Météorage Pau France", {"France"})
-    # [LocationMatch(substring_range=(10, 13), substring='Pau', canonical_name='Pau',
-    #                matched_name='Pau', country='France', score=1.0),
-    #  LocationMatch(substring_range=(14, 20), substring='France', canonical_name='La Frasnée',
-    #                matched_name='Фране', country='France', score=0.9090909090909091)]
+    # [ExtractedLocation(location=Location(canonical_name='Pau', matched_name='Pau',
+    #                                      country='France', score=1.0),
+    #                    substring='Pau', substring_range=Range(start=10, end=13)),
+    #  ExtractedLocation(location=Location(canonical_name='La Frasnée', matched_name='Фране',
+    #                                      country='France', score=0.909...),
+    #                    substring='France', substring_range=Range(start=14, end=20))]
 
     find_city_in_string("Bavarian Environment Agency, Hans Högn Straße 12, "
                         "95030 Hof Saale, Bavaria, Germany", {"Germany"})
-    # [LocationMatch(substring_range=(56, 59), substring='Hof', canonical_name='Hof',
-    #                matched_name='Hof', country='Germany', score=1.0),
-    #  LocationMatch(substring_range=(60, 65), substring='Saale', canonical_name='Saal',
-    #                matched_name='Saal', country='Germany', score=0.8888888888888888),
-    #  LocationMatch(substring_range=(39, 45), substring='Straße', canonical_name='Trassem',
-    #                matched_name='Trassem', country='Germany', score=0.8571428571428571)]
+    # [ExtractedLocation(location=Location(canonical_name='Hof', matched_name='Hof',
+    #                                      country='Germany', score=1.0),
+    #                    substring='Hof', substring_range=Range(start=56, end=59)),
+    #  ExtractedLocation(location=Location(canonical_name='Saal', matched_name='Saal',
+    #                                      country='Germany', score=0.888...),
+    #                    substring='Saale', substring_range=Range(start=60, end=65)),
+    #  ExtractedLocation(location=Location(canonical_name='Trassem', matched_name='Trassem',
+    #                                      country='Germany', score=0.857...),
+    #                    substring='Straße', substring_range=Range(start=39, end=45))]
 
     """
     Regions
     """
 
     find_region_in_string("Fur Museum, 7884 Fur, Denmark.", {"Denmark"})
-    # [LocationMatch(substring_range=(0, 3), substring='Fur', canonical_name='Fur',
-    #                matched_name='Fur', country='Denmark', score=1.0),
-    #  LocationMatch(substring_range=(17, 20), substring='Fur', canonical_name='Fur',
-    #                matched_name='Fur', country='Denmark', score=1.0),
-    #  LocationMatch(substring_range=(22, 29), substring='Denmark',
-    #                canonical_name='Kingdom of Denmark', matched_name='Denmark',
-    #                country='Denmark', score=1.0)]
+    # [ExtractedLocation(location=Location(canonical_name='Fur', matched_name='Fur',
+    #                                      country='Denmark', score=1.0),
+    #                    substring='Fur', substring_range=Range(start=0, end=3)),
+    #  ExtractedLocation(location=Location(canonical_name='Fur', matched_name='Fur',
+    #                                      country='Denmark', score=1.0),
+    #                    substring='Fur', substring_range=Range(start=17, end=20)),
+    #  ExtractedLocation(location=Location(canonical_name='Kingdom of Denmark',
+    #                                      matched_name='Denmark', country='Denmark', score=1.0),
+    #                    substring='Denmark', substring_range=Range(start=22, end=29))]
 
     find_region_in_string("Department of Biological Oceanography, Royal Netherlands Institute "
                           "for Sea Research (NIOZ), Texel, The Netherlands", {"Netherlands"})
-    # [LocationMatch(substring_range=(45, 56), substring='Netherlands',
-    #                canonical_name='Kingdom of the Netherlands', matched_name='Netherlands',
-    #                country='Netherlands', score=1.0),
-    #  LocationMatch(substring_range=(92, 97), substring='Texel', canonical_name='Texel',
-    #                matched_name='Texel', country='Netherlands', score=1.0),
-    #  LocationMatch(substring_range=(103, 114), substring='Netherlands',
-    #                canonical_name='Kingdom of the Netherlands', matched_name='Netherlands',
-    #                country='Netherlands', score=1.0)]
-
+    # [ExtractedLocation(location=Location(canonical_name='Kingdom of the Netherlands',
+    #                                      matched_name='Netherlands', country='Netherlands',
+    #                                      score=1.0),
+    #                    substring='Netherlands', substring_range=Range(start=45, end=56)),
+    #  ExtractedLocation(location=Location(canonical_name='Texel', matched_name='Texel',
+    #                                      country='Netherlands', score=1.0),
+    #                    substring='Texel', substring_range=Range(start=92, end=97)),
+    #  ExtractedLocation(location=Location(canonical_name='Kingdom of the Netherlands',
+    #                                      matched_name='Netherlands', country='Netherlands',
+    #                                      score=1.0),
+    #                    substring='Netherlands', substring_range=Range(start=103, end=114))]
 
 .. note::
 

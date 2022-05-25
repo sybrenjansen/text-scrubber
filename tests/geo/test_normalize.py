@@ -1,8 +1,8 @@
 import unittest
 from unittest.mock import patch
 
-from text_scrubber.geo.normalize import (capitalize_geo_string, normalize_city, normalize_country, normalize_region,
-                                         NormalizedCountryMatch, NormalizedLocationMatch)
+from text_scrubber.geo.normalize import (capitalize_geo_string, Location, normalize_city, normalize_country,
+                                         normalize_region)
 from text_scrubber.geo.string_distance import find_closest_string
 
 
@@ -40,7 +40,7 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), [NormalizedCountryMatch(c, c, 1.0) for c in expected])
+                self.assertEqual(normalize_country(original), [Location(c, c, None, 1.0) for c in expected])
 
     def test_no_match(self):
         """
@@ -66,7 +66,7 @@ class NormalizeCountryTest(unittest.TestCase):
         ]
         for original, expected in test_countries:
             with self.subTest(original=original, expected=expected):
-                self.assertEqual(normalize_country(original), [NormalizedCountryMatch(canonical_name, matched_name, 1.0)
+                self.assertEqual(normalize_country(original), [Location(canonical_name, matched_name, None, 1.0)
                                                                for canonical_name, matched_name in expected])
 
     def test_close_match(self):
@@ -172,7 +172,7 @@ class NormalizeRegionTest(unittest.TestCase):
             country_set = {country for _, _, country in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_region(original, restrict_countries=country_set),
-                                 [NormalizedLocationMatch(canonical_name, matched_name, country, 1.0)
+                                 [Location(canonical_name, matched_name, country, 1.0)
                                   for canonical_name, matched_name, country in expected])
 
     def test_multiple_matches(self):
@@ -188,7 +188,7 @@ class NormalizeRegionTest(unittest.TestCase):
             country_set = {country for _, _, country in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_region(original, restrict_countries=country_set),
-                                 [NormalizedLocationMatch(canonical_name, matched_name, country, 1.0)
+                                 [Location(canonical_name, matched_name, country, 1.0)
                                   for canonical_name, matched_name, country in expected])
 
     def test_no_match(self):
@@ -293,7 +293,7 @@ class NormalizeCityTest(unittest.TestCase):
         for original, expected in test_cities:
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, {"Australia", "Austria", "FR", "IR"}),
-                                 [NormalizedLocationMatch(city, city, country, score)
+                                 [Location(city, city, country, score)
                                   for city, country, score in expected])
 
     def test_multiple_matches(self):
@@ -333,9 +333,9 @@ class NormalizeCityTest(unittest.TestCase):
         for original, expected in test_cities:
             country_set = {country for _, _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
-                self.assertCountEqual(
+                self.assertListEqual(
                     normalize_city(original, country_set),
-                    [NormalizedLocationMatch(canonical_name, matched_name, country, score)
+                    [Location(canonical_name, matched_name, country, score)
                      for canonical_name, matched_name, country, score in expected]
                 )
 
@@ -437,7 +437,7 @@ class NormalizeCityTest(unittest.TestCase):
             country_set = {country for _, _, country, _ in expected}
             with self.subTest(original=original, expected=expected):
                 self.assertEqual(normalize_city(original, country_set),
-                                 [NormalizedLocationMatch(canonical_name, matched_name, country, score)
+                                 [Location(canonical_name, matched_name, country, score)
                                   for canonical_name, matched_name, country, score in expected])
 
     def test_cities_with_restrict_country(self):

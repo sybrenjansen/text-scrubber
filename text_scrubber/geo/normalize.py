@@ -1,7 +1,8 @@
 import re
 import warnings
-from collections import defaultdict, namedtuple
-from typing import Iterable, List, Tuple, Optional, Set, Union
+from collections import defaultdict
+from dataclasses import dataclass
+from typing import Iterable, List, Optional, Set
 
 from text_scrubber.geo.clean import clean_city, clean_country, clean_region
 from text_scrubber.geo.resources import (_CITY_RESOURCES, _COUNTRY_RESOURCES, _REGION_RESOURCES,
@@ -11,13 +12,17 @@ from text_scrubber.geo.string_distance import find_closest_string, pattern_match
 
 RE_ALPHA = re.compile(r'[a-zA-Z]')
 
-# Match objects
-NormalizedCountryMatch = namedtuple('NormalizedCountryMatch', ['canonical_name', 'matched_name', 'score'])
-NormalizedLocationMatch = namedtuple('NormalizedLocationMatch', ['canonical_name', 'matched_name', 'country', 'score'])
+
+@dataclass(init=True, frozen=True)
+class Location:
+    canonical_name: str
+    matched_name: str
+    country: Optional[str]
+    score: float
 
 
 def normalize_country(country: str, min_score_levenshtein: float = 0.8,
-                      min_score_trigram: float = 0.5) -> List[NormalizedCountryMatch]:
+                      min_score_trigram: float = 0.5) -> List[Location]:
     """
     Cleans up a country by string cleaning and performs some basic country lookups to get the canonical name.
 
@@ -27,8 +32,7 @@ def normalize_country(country: str, min_score_levenshtein: float = 0.8,
     :param country: Country string to clean.
     :param min_score_levenshtein: Minimum score to use for Levenshtein similarity
     :param min_score_trigram: Minimum score to use for trigram similarity
-    :return: List of NormalizedMatch candidates containing (canonical country, matched country name, score),
-        sorted by score (desc)
+    :return: List of LocationMatch candidates sorted by score (desc)
     """
     # Clean country
     cleaned_country = clean_country(country)
@@ -37,32 +41,28 @@ def normalize_country(country: str, min_score_levenshtein: float = 0.8,
     if not cleaned_country:
         return []
 
+    canonical_country_names = _COUNTRY_RESOURCES['countries']['canonical_names']
+
     # Check if country is part of the known countries list
     if cleaned_country in _COUNTRY_RESOURCES['countries']['cleaned_location_map']:
         canonical_country_idx, country_idx = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][cleaned_country]
-        return [NormalizedCountryMatch(
-            _COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
-            _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx],
-            1.0
-        )]
+        return [Location(canonical_name=canonical_country_names[canonical_country_idx],
+                         matched_name=canonical_country_names[country_idx], country=None, score=1.0)]
 
     # Check if the country follows a certain country pattern
     known_country = pattern_match(country, _COUNTRY_RESOURCES['replacement_patterns'])
     if known_country:
         canonical_country_idx, _ = _COUNTRY_RESOURCES['countries']['cleaned_location_map'][known_country]
-        return [NormalizedCountryMatch(
-            _COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
-            capitalize_geo_string(known_country),
-            1.0
-        )]
+        return [Location(canonical_name=canonical_country_names[canonical_country_idx],
+                         matched_name=capitalize_geo_string(known_country), country=None, score=1.0)]
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
     country_match = find_closest_string(cleaned_country, _COUNTRY_RESOURCES['countries'],
                                         min_score_levenshtein, min_score_trigram)
     if country_match:
         best_matches, score = country_match
-        candidates = [NormalizedCountryMatch(_COUNTRY_RESOURCES['countries']['canonical_names'][canonical_country_idx],
-                                             _COUNTRY_RESOURCES['countries']['canonical_names'][country_idx], score)
+        candidates = [Location(canonical_name=canonical_country_names[canonical_country_idx],
+                               matched_name=canonical_country_names[country_idx], country=None, score=score)
                       for canonical_country_idx, country_idx in best_matches]
 
         # Remove duplicates. E.g., "Netherland" matches to the same country twice: "Netherlands", "The Netherlands"
@@ -78,7 +78,7 @@ def normalize_country(country: str, min_score_levenshtein: float = 0.8,
 
 
 def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_score_levenshtein: float = 0.8,
-                     min_score_trigram: float = 0.5) -> List[NormalizedLocationMatch]:
+                     min_score_trigram: float = 0.5) -> List[Location]:
     """
     Cleans up a region by string cleaning and performs region lookups to get the canonical name
 
@@ -86,8 +86,7 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_
     :param restrict_countries: A set of countries and/or country codes to restrict the search space
     :param min_score_levenshtein: Minimum score to use for Levenshtein similarity
     :param min_score_trigram: Minimum score to use for trigram similarity
-    :return: List of NormalizedLocationMatch candidates containing
-        (canonical region, matched region name, country, score), sorted by score (desc)
+    :return: List of Location candidates sorted by score (desc)
     """
     # Clean region
     cleaned_region = clean_region(region)
@@ -109,12 +108,10 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_
         if cleaned_region in regions_in_country['cleaned_location_map']:
             # Return the canonical name of the region
             canonical_region_idx, region_idx = regions_in_country['cleaned_location_map'][cleaned_region]
-            candidates.append(NormalizedLocationMatch(
-                regions_in_country['canonical_names'][canonical_region_idx],
-                regions_in_country['canonical_names'][region_idx],
-                _COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code],
-                1.0
-            ))
+            candidates.append(Location(canonical_name=regions_in_country['canonical_names'][canonical_region_idx],
+                                       matched_name=regions_in_country['canonical_names'][region_idx],
+                                       country=_COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code],
+                                       score=1.0))
             not_found = False
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
@@ -127,10 +124,10 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_
             if region_match:
                 best_matches, score = region_match
                 canonical_country = _COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code]
-                candidates.extend(NormalizedLocationMatch(regions_in_country['canonical_names'][canonical_region_idx],
-                                                          regions_in_country['canonical_names'][region_idx],
-                                                          canonical_country, score)
-                                  for canonical_region_idx, region_idx in best_matches)
+                candidates.extend(Location(canonical_name=regions_in_country['canonical_names'][canonical_region_idx],
+                                           matched_name=regions_in_country['canonical_names'][region_idx],
+                                           country=canonical_country,
+                                           score=score) for canonical_region_idx, region_idx in best_matches)
 
     # Remove duplicates. Regions are also considered duplicates if the cleaned version is equal.
     deduped_candidates = defaultdict(list)
@@ -142,7 +139,7 @@ def normalize_region(region: str, restrict_countries: Optional[Set] = None, min_
 
 
 def normalize_city(city: str, restrict_countries: Optional[Set] = None, min_score_levenshtein: float = 0.8,
-                   min_score_trigram: float = 0.5) -> List[NormalizedLocationMatch]:
+                   min_score_trigram: float = 0.5) -> List[Location]:
     """
     Cleans up a city by string cleaning and performs city lookups to get the canonical name
 
@@ -150,8 +147,7 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None, min_scor
     :param restrict_countries: A set of countries and/or country codes to restrict the search space
     :param min_score_levenshtein: minimum score to use for Levenshtein similarity
     :param min_score_trigram: minimum score to use for trigram similarity
-    :return: List of NormalizedLocationMatch candidates containing (canonical city, matched city name, country, score),
-        sorted by score (desc)
+    :return: List of Location candidates sorted by score (desc)
     """
     # Clean city
     cleaned_city = clean_city(city)
@@ -173,12 +169,10 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None, min_scor
         if cleaned_city in cities_in_country['cleaned_location_map']:
             # Return the canonical name of the city
             canonical_city_idx, city_idx = cities_in_country['cleaned_location_map'][cleaned_city]
-            candidates.append(NormalizedLocationMatch(
-                cities_in_country['canonical_names'][canonical_city_idx],
-                cities_in_country['canonical_names'][city_idx],
-                _COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code],
-                1.0
-            ))
+            candidates.append(Location(canonical_name=cities_in_country['canonical_names'][canonical_city_idx],
+                                       matched_name=cities_in_country['canonical_names'][city_idx],
+                                       country=_COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code],
+                                       score=1.0))
             not_found = False
 
     # Check if we can find a close match (using default threshold of 0.8 (magic number))
@@ -191,10 +185,10 @@ def normalize_city(city: str, restrict_countries: Optional[Set] = None, min_scor
             if city_match:
                 best_matches, score = city_match
                 canonical_country = _COUNTRY_RESOURCES['country_to_normalized_country_map'][country_code]
-                candidates.extend(NormalizedLocationMatch(cities_in_country['canonical_names'][canonical_city_idx],
-                                                          cities_in_country['canonical_names'][city_idx],
-                                                          canonical_country, score)
-                                  for canonical_city_idx, city_idx in best_matches)
+                candidates.extend(Location(canonical_name=cities_in_country['canonical_names'][canonical_city_idx],
+                                           matched_name=cities_in_country['canonical_names'][city_idx],
+                                           country=canonical_country,
+                                           score=score) for canonical_city_idx, city_idx in best_matches)
 
     # Remove duplicates such as San Jose (US and Porto Rico). Both of them returns ('San Jose', 'United States', 1.0).
     # Cities are also considered duplicates if the cleaned version is equal.
@@ -226,7 +220,7 @@ def normalize_country_to_country_codes(countries: Optional[Iterable] = None) -> 
                 normalized_country = _COUNTRY_RESOURCES['country_to_normalized_country_map'][country.upper()]
             else:
                 normalized_country = normalize_country(country)
-                normalized_country = normalized_country[0][0] if normalized_country else None
+                normalized_country = normalized_country[0].canonical_name if normalized_country else None
             if normalized_country not in _COUNTRY_RESOURCES['normalized_country_to_country_codes_map']:
                 countries_not_found.append(country)
             else:
@@ -238,9 +232,7 @@ def normalize_country_to_country_codes(countries: Optional[Iterable] = None) -> 
     return country_codes
 
 
-def process_multiple_names(
-        candidates: List[Union[NormalizedCountryMatch, NormalizedLocationMatch]]
-) -> Union[NormalizedCountryMatch, NormalizedLocationMatch]:
+def process_multiple_names(candidates: List[Location]) -> Location:
     """
     Does nothing if the name is already a string. However, in the other case where it's a list of strings we
     determine which variant has the most non-ascii characters and return that one. E.g., [Chenet, Chênet] -> Chênet.
