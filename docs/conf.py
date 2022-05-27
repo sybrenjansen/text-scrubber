@@ -26,7 +26,7 @@ copyright = f'{date.today().year}, Slimmer AI'
 author = 'Slimmer AI'
 
 # The short X.Y version
-version = '0.3.2'
+version = '0.4.0'
 # The full version, including alpha/beta/rc tags
 release = version
 

@@ -1,8 +1,10 @@
 Change log
 ==========
 
-Dev
----
+0.4.0
+-----
+
+*(2022-05-27)*
 
 - Common country replacements have been updated to allow for fuzzy matching
 - Country codes added such that they can be matched through :meth:`text_scrubber.geo.normalize_country`
