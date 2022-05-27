@@ -46,7 +46,7 @@ For a complete list of building blocks please refer to the ``TextScrubber`` API 
 Geo
 ---
 
-The :obj:`text_scrubber.geo` module contains functions to normalize geographical data which deal with spelling errors,
+The ``text_scrubber.geo`` module contains functions to normalize geographical data which deal with spelling errors,
 country name variations, etc.:
 
 .. code-block:: python
@@ -126,7 +126,7 @@ stems from the fact that some countries, cities, or regions can have alternative
     When normalizing a country or finding countries in a string, the ``country`` attribute of a ``LocationMatch`` object
     is always ``None``. The normalized name can be found using the ``canonical_name`` attribute.
 
-The :obj:`text_scrubber.geo` module also contains functions to find the name of places (country, region, and city) in
+The ``text_scrubber.geo`` module also contains functions to find the name of places (country, region, and city) in
 text dealing with spelling errors, country name variations, etc.:
 
 .. code-block:: python

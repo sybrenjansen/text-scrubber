@@ -6,7 +6,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='text-scrubber',
-    version='0.4.0',
+    version='0.4.1',
     author='Slimmer.AI',
     description='Python package that offers text scrubbing functionality, providing building blocks for string '
                 'cleaning as well as normalizing geographical text (countries/states/cities)',

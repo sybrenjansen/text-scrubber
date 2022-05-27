@@ -1,6 +1,13 @@
 Change log
 ==========
 
+0.4.1
+-----
+
+*(2022-05-27)*
+
+- Documentation issue prevented GitHub from uploading ``text-scrubber`` to PyPI
+
 0.4.0
 -----
 
