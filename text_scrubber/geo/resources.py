@@ -32,29 +32,51 @@ def add_country_resources():
         for country_code in country_codes
     }
 
-    # Read in a map of common country name replacements
-    replacements_file = (line.split(", ") for line in read_resource_file(__file__, 'resources/country_map.txt'))
-    resources['replacements'] = {clean_country(country): clean_country(canonical_country)
-                                 for country, canonical_country in replacements_file}
-
     # Replacement patterns additional to the other replacements (mainly filters zipcodes)
     resources['replacement_patterns'] = [(pattern, clean_country(canonical_country)) for pattern, canonical_country in
                                          ((re.compile(r'\d+[a-z]+\d+ canada [a-z]+\d+[a-z]+', re.IGNORECASE), 'canada'),
                                           (re.compile(r'\d+ russia', re.IGNORECASE), 'russia'))]
 
-    # Get a map of cleaned country name to canonical country name, and generate trigrams
+    # Get a map of cleaned country name and country code to canonical country name, and generate trigrams
     resources['countries'] = {'canonical_names': [],
                               'cleaned_location_map': dict(),
                               'levenshtein': dict(),
                               'trigrams': dict()}
-    for canonical_country in resources['normalized_country_to_country_codes_map'].keys():
-        idx = len(resources['countries']['canonical_names'])
+    for canonical_country, country_codes in resources['normalized_country_to_country_codes_map'].items():
+        # Add country name
+        canonical_name_idx = len(resources['countries']['canonical_names'])
         cleaned_country = clean_country(canonical_country)
         resources['countries']['canonical_names'].append(canonical_country)
-        resources['countries']['cleaned_location_map'][cleaned_country] = idx
+        resources['countries']['cleaned_location_map'][cleaned_country] = canonical_name_idx, canonical_name_idx
+        _add_cleaned_location(cleaned_country, canonical_name_idx, canonical_name_idx, resources['countries'])
 
-        # Add to Levenshtein and trigram maps
-        _add_cleaned_location(cleaned_country, idx, resources['countries'])
+        # Add corresponding country codes
+        for country_code in country_codes:
+            idx = len(resources['countries']['canonical_names'])
+            resources['countries']['canonical_names'].append(country_code)
+            resources['countries']['cleaned_location_map'][country_code.lower()] = canonical_name_idx, idx
+            _add_cleaned_location(country_code.lower(), canonical_name_idx, idx, resources['countries'])
+
+    # Add common country replacements
+    for location_list in read_resource_file(__file__, 'resources/country_map.txt'):
+        # A single line can have multiple alternative spellings of the same country. The first spelling is the
+        # canonical one and all versions will point to that
+        location_list = location_list.split(", ")
+        canonical_name_idx = resources['countries']['canonical_names'].index(location_list[0])
+        for location, cleaned_location in zip(location_list[1:], clean_country(location_list[1:])):
+            # Sometimes the clean function removes the whole string
+            if not cleaned_location:
+                continue
+
+            assert cleaned_location not in resources['countries']['cleaned_location_map'], \
+                f"Location {location} already exists. Contact maintainer."
+
+            idx = len(resources['countries']['canonical_names'])
+            resources['countries']['canonical_names'].append(location)
+            resources['countries']['cleaned_location_map'][cleaned_location] = canonical_name_idx, idx
+
+            # Add to Levenshtein and trigram maps
+            _add_cleaned_location(cleaned_location, canonical_name_idx, idx, resources['countries'])
 
     # Optimize data structure for Levenshtein and trigram similarity functions
     _optimize_resources_dict(resources['countries'])
@@ -120,21 +142,21 @@ def _add_location_resources(locations: Generator[str, None, None], clean_func: C
                      'levenshtein': dict(),
                      'trigrams': dict()}
     for location_list in locations:
-        # A single line can have multiple alternative spellings of the same city. The first spelling is the
+        # A single line can have multiple alternative spellings of the same location. The first spelling is the
         # canonical one and all versions will point to that
         location_list = location_list.split(", ")
-        canonical_name = location_list[0]
-        idx = len(location_dict['canonical_names'])
-        location_dict['canonical_names'].append(canonical_name)
-        for cleaned_location in clean_func(location_list):
+        canonical_name_idx = len(location_dict['canonical_names'])
+        for location, cleaned_location in zip(location_list, clean_func(location_list)):
             # Sometimes the clean function removes the whole string
             if not cleaned_location:
                 continue
 
-            location_dict['cleaned_location_map'][cleaned_location] = idx
+            idx = len(location_dict['canonical_names'])
+            location_dict['canonical_names'].append(location)
+            location_dict['cleaned_location_map'][cleaned_location] = canonical_name_idx, idx
 
             # Add to Levenshtein and trigram maps
-            _add_cleaned_location(cleaned_location, idx, location_dict)
+            _add_cleaned_location(cleaned_location, canonical_name_idx, idx, location_dict)
 
     # Optimize data structure for Levenshtein and trigram similarity functions
     _optimize_resources_dict(location_dict)
@@ -142,31 +164,35 @@ def _add_location_resources(locations: Generator[str, None, None], clean_func: C
     return location_dict
 
 
-def _add_cleaned_location(cleaned_location: str, idx: int, resources_dict: Dict[str, Any]) -> None:
+def _add_cleaned_location(cleaned_location: str, canonical_name_idx: int, idx: int,
+                          resources_dict: Dict[str, Any]) -> None:
     """
     Add a cleaned location to the resources dict and make it ready for Levenshtein and trigram similarity functions.
     Post-processing still needs to be done after this, though.
 
     :param cleaned_location: cleaned location string
-    :param idx: index corresponding to the canonical version
+    :param canonical_name_idx: index corresponding to the canonical version of the location
+    :param idx: index corresponding to the location name
     :param resources_dict: dictionary where to store the Levenshtein and trigram information into
     """
     # Add to Levenshtein map
     size = len(cleaned_location)
     if size not in resources_dict['levenshtein']:
-        resources_dict['levenshtein'][size] = {'levenshtein_tokens': [cleaned_location], 'indices': [idx]}
+        resources_dict['levenshtein'][size] = {'levenshtein_tokens': [cleaned_location],
+                                               'indices': [(canonical_name_idx, idx)]}
     else:
         resources_dict['levenshtein'][size]['levenshtein_tokens'].append(cleaned_location)
-        resources_dict['levenshtein'][size]['indices'].append(idx)
+        resources_dict['levenshtein'][size]['indices'].append((canonical_name_idx, idx))
 
     # Add to trigrams map
     trigram_tokens = get_trigram_tokens(cleaned_location)
     size = len(trigram_tokens)
     if len(trigram_tokens) not in resources_dict['trigrams']:
-        resources_dict['trigrams'][size] = {'trigram_tokens': [trigram_tokens], 'indices': [idx]}
+        resources_dict['trigrams'][size] = {'trigram_tokens': [trigram_tokens],
+                                            'indices': [(canonical_name_idx, idx)]}
     else:
         resources_dict['trigrams'][size]['trigram_tokens'].append(trigram_tokens)
-        resources_dict['trigrams'][size]['indices'].append(idx)
+        resources_dict['trigrams'][size]['indices'].append((canonical_name_idx, idx))
 
 
 def _optimize_resources_dict(resources_dict: Dict[str, Any]) -> None:

@@ -1,6 +1,15 @@
 Change log
 ==========
 
+Dev
+---
+
+- Common country replacements have been updated to allow for fuzzy matching
+- Country codes added such that they can be matched through :meth:`text_scrubber.geo.normalize_country`
+- The geo normalize functions now return the canonical name together with the matched name
+- The geo normalize functions now return a :class:`text_scrubber.geo.normalize.Location` object
+- The geo find in string functions now return a :class:`text_scrubber.geo.find_in_string.ExtractedLocation` object
+
 0.3.2
 -----
 

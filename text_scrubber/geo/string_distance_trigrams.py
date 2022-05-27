@@ -11,14 +11,14 @@ _TRIGRAM_MAP = {}
 _TRIGRAM_SIZE_BOUNDS = dict()
 
 
-def find_closest_string_trigrams(query: str, candidates: Dict[int, Dict[str, Union[csr_matrix, List[int]]]],
-                                 min_score: float) -> Optional[Tuple[List[int], float]]:
+def find_closest_string_trigrams(query: str, candidates: Dict[int, Dict[str, Union[csr_matrix, List[Tuple[int, int]]]]],
+                                 min_score: float) -> Optional[Tuple[List[Tuple[int, int]], float]]:
     """
     Find the closest match for a string from a list of options using Levenshtein edit distance
 
     :param query: string to search for
     :param candidates: {size: {'trigram_tokens': trigram matrix (csr_matrix),
-                               'indices': List of corresponding indices (int)}}
+                               'indices': List of corresponding indices (Tuple[int, int])}}
     :param min_score: minimum similarity score to obtain (between 0.0-1.0, 1.0 being a perfect match)
     :return: (best candidates, score) when minimum score is obtained, None otherwise
     """

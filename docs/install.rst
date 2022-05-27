@@ -17,6 +17,7 @@ Python packages (installed automatically when installing ``text-scrubber``):
 
 - anyascii
 - cython
+- dataclasses (only for Python < 3.7)
 - num2words
 - numpy
 - python-Levenshtein
