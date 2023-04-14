@@ -1,6 +1,13 @@
 Change log
 ==========
 
+0.4.2
+-----
+
+*(2023-04-14)*
+
+- Changed ownership of and moved repository from `Slimmer-AI` to `sybrenjansen`
+
 0.4.1
 -----
 

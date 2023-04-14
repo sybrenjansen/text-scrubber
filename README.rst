@@ -3,13 +3,13 @@ text-scrubber
 
 |Build status| |Docs status|
 
-.. |Build status| image:: https://github.com/Slimmer-AI/text-scrubber/workflows/Build/badge.svg?branch=master
-.. |Docs status| image:: https://github.com/Slimmer-AI/text-scrubber/workflows/Docs/badge.svg?branch=master
+.. |Build status| image:: https://github.com/sybrenjansen/text-scrubber/workflows/Build/badge.svg?branch=master
+.. |Docs status| image:: https://github.com/sybrenjansen/text-scrubber/workflows/Docs/badge.svg?branch=master
 
 ``text-scrubber`` is a Python package that offers text scrubbing functionality, providing building blocks for string
 cleaning as well as normalizing geographical text (countries/states/cities).
 
-Full documentation is available at https://slimmer-ai.github.io/text-scrubber/.
+Full documentation is available at https://sybrenjansen.github.io/text-scrubber/.
 
 
 TextScrubber

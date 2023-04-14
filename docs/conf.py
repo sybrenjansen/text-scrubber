@@ -22,11 +22,11 @@ from datetime import date
 # -- Project information -----------------------------------------------------
 
 project = 'text-scrubber'
-copyright = f'{date.today().year}, Slimmer AI'
-author = 'Slimmer AI'
+copyright = f'{date.today().year}, Sybren Jansen'
+author = 'Sybren Jansen'
 
 # The short X.Y version
-version = '0.4.1'
+version = '0.4.2'
 # The full version, including alpha/beta/rc tags
 release = version
 

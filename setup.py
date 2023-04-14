@@ -6,12 +6,12 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='text-scrubber',
-    version='0.4.1',
-    author='Slimmer.AI',
+    version='0.4.2',
+    author='Sybren Jansen',
     description='Python package that offers text scrubbing functionality, providing building blocks for string '
                 'cleaning as well as normalizing geographical text (countries/states/cities)',
     long_description=long_description,
-    url='https://github.com/Slimmer-AI/text-scrubber',
+    url='https://github.com/sybrenjansen/text-scrubber',
     license='MIT',
     packages=find_packages(),
     install_requires=['anyascii',
