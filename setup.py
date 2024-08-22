@@ -27,7 +27,7 @@ setup(
     extras_require={'docs': ['sphinx>=5,<6',
                              'sphinx-rtd-theme==0.5.0',
                              'sphinx-autodoc-typehints==1.11.0',
-                             'sphinx-versions==1.1.3',
+                             'sphinx-versions==1.0.1',
                              'click==8.0.4'],
                     'tests': ['nose2', 'numpy']},
     test_suite='nose2.collector.collector',
