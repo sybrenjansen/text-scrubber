@@ -1,12 +1,15 @@
+import html
 import re
 from functools import partial
 from itertools import filterfalse
 from operator import itemgetter
 from string import punctuation
-from typing import Callable, Generator, Iterable, Match, Pattern, Union, Dict, Set
+from typing import Callable, Generator, Iterable, Match, Optional, Pattern, Union, Dict, Set
 
+import ftfy
 from anyascii import anyascii
 from num2words import num2words
+from pylatexenc.latex2text import LatexNodes2Text
 
 from text_scrubber.io import read_resource_file
 
@@ -14,6 +17,9 @@ WholeText = str
 Token = str
 TokenizedText = Iterable[Token]
 AnyText = Union[WholeText, TokenizedText]
+
+# Pre-initialize a pylatexenc text conversion object
+LATEX_NODES_TO_TEXT = LatexNodes2Text()
 
 # Precompile some regex objects
 RE_TOKENIZE = re.compile(r'[.,!?:;*\-()\[\]\s_\\/]+')
@@ -149,6 +155,17 @@ class TextScrubber:
     # Building blocks
     ##################
 
+    def convert_html_entities(self, on_tokens: bool = False, name: str = 'convert_html_entities') -> 'TextScrubber':
+        """
+        Converts HTML entities to their corresponding characters using Python's html parser.
+        Unlike :meth:`sub_html_chars` this also converts named entities like `&amp;`.
+
+        :param on_tokens: whether to transform on a list of tokens or a single string
+        :param name: Name to give to the pipeline step.
+        """
+        self._add_step(name, html.unescape, on_tokens)
+        return self
+
     def filter_tokens(self, test: Callable[[Token], bool] = lambda t: t, neg: bool = False,
                       name: str = 'filter_tokens') -> 'TextScrubber':
         """
@@ -159,6 +176,20 @@ class TextScrubber:
         :param name: Name to give to the pipeline step.
         """
         return self._add_step(name, partial(filterfalse if neg else filter, test), on_tokens=False)
+
+    def fix_bad_unicode(self, config: Optional[ftfy.TextFixerConfig] = None, on_tokens: bool = False,
+                        name: str = 'fix_bad_unicode') -> 'TextScrubber':
+        """
+        Fixes common unicode issues using the ftfy library, e.g. mojibake like `Ã©` are changed to `é`.
+        See https://ftfy.readthedocs.io/en/latest/index.html for what ftfy will fix and how to configure it.
+
+        :param config: A :class:`ftfy.TextFixerConfig` instance for configuring what ftfy fixes or None to use defaults.
+        :param on_tokens: Whether to transform on a list of tokens or a single string.
+        :param name: Name to give to the pipeline step.
+        """
+        # If the string only contains ascii then there's nothing to do and the string is returned as is
+        self._add_step(name, lambda t: ftfy.fix_text(t, config) if t and not t.isascii() else t, on_tokens)
+        return self
 
     def initials(self, name: str = 'initials') -> 'TextScrubber':
         """
@@ -177,6 +208,18 @@ class TextScrubber:
         :param name: Name to give to the pipeline step.
         """
         return self._add_step(name, sep.join, on_tokens=on_tokens)
+
+    def latex_to_text(self, on_tokens: bool = False, name: str = 'latex_to_text') -> 'TextScrubber':
+        """
+        Converts LaTeX markup to text using the `pylatexenc` library. See https://pylatexenc.readthedocs.io/en/latest/
+        Unlike :meth:`sub_latex_chars` this removes all LaTeX markup, not just commands, and converts mathematical
+        formulas to text as well, at the cost of performance.
+
+        :param on_tokens: Whether to transform on a list of tokens or a single string
+        :param name: Name to give to the pipeline step.
+        """
+        self._add_step(name, LATEX_NODES_TO_TEXT.latex_to_text, on_tokens)
+        return self
 
     def lowercase(self, on_tokens: bool = False, name: str = 'lowercase') -> 'TextScrubber':
         """
