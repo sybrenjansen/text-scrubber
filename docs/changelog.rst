@@ -1,6 +1,16 @@
 Change log
 ==========
 
+0.5.0
+-----
+
+*(2024-08-22)*
+
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.convert_html_entities`
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.fix_bad_unicode`
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.latex_to_text`
+- Removed Python 3.6 support
+
 0.4.2
 -----
 
