@@ -16,7 +16,6 @@ setup(
     packages=find_packages(),
     install_requires=['anyascii',
                       'cython',
-                      'dataclasses; python_version<"3.7"',
                       'ftfy',
                       'num2words',
                       'numpy',
@@ -37,7 +36,6 @@ setup(
         'Development Status :: 5 - Production/Stable',
 
         # Supported Python versions
-        'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
