@@ -25,7 +25,7 @@ setup(
                       'scipy',
                       'tqdm'],
     include_package_data=True,
-    extras_require={'docs': ['sphinx==3.2.1',
+    extras_require={'docs': ['sphinx>=5,<6',
                              'sphinx-rtd-theme==0.5.0',
                              'sphinx-autodoc-typehints==1.11.0',
                              'sphinx-versions==1.0.1'],
