@@ -1,5 +1,6 @@
 import html
 import re
+import unicodedata
 from functools import partial
 from itertools import filterfalse
 from operator import itemgetter
@@ -229,6 +230,17 @@ class TextScrubber:
         :param name: Name to give to the pipeline step.
         """
         return self._add_step(name, str.lower, on_tokens)
+
+    def normalize_unicode(self, form: str, on_tokens: bool = False, name: str = 'normalize_unicode') -> 'TextScrubber':
+        """
+        Normalizes a unicode string using python's `unicodedata` module.
+        See https://docs.python.org/3/library/unicodedata.html#unicodedata.normalize
+
+        :param form: The unicode normalization form to use. Valid values are `NFC`, `NFKC`, `NFD`, and `NFKD`.
+        :param on_tokens: Whether to transform on a list of tokens or a single string.
+        :param name: Name to give to the pipeline step.
+        """
+        return self._add_step(name, partial(unicodedata.normalize, form), on_tokens)
 
     def num2words(self, include_commas: bool = False, language: str = 'en', on_tokens: bool = False,
                   name: str = 'num2words') -> 'TextScrubber':

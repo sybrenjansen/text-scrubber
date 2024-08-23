@@ -129,6 +129,21 @@ class TextScrubberTest(unittest.TestCase):
         self.assertEqual(sc.transform(['Hello World'], on_tokens=True), ['hello world'])
         self.assertEqual(sc.transform([['Hello World', 'slimmer AI']]), [['hello world', 'slimmer ai']])
 
+    def test_normalize_unicode(self):
+        inputs = ['\u212b', '\u1e69', '\u1e9b\u0323']
+
+        # Unicode form NFKC
+        sc = TextScrubber().normalize_unicode('NFKC')
+        outputs = ['\u00c5', '\u1e69', '\u1e69']
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
+        # Unicode form NFD
+        sc = TextScrubber().normalize_unicode('NFD')
+        outputs = ['\u0041\u030a', '\u0073\u0323\u0307', '\u017f\u0323\u0307']
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
     def test_num2words(self):
         # Default settings. On strings
         sc = TextScrubber().num2words(include_commas=False, on_tokens=False)
