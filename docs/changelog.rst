@@ -10,7 +10,7 @@ Change log
 - Added :meth:`text_scrubber.text_scrubber.TextScrubber.fix_bad_unicode`
 - Added :meth:`text_scrubber.text_scrubber.TextScrubber.latex_to_text`
 - Added :meth:`text_scrubber.text_scrubber.TextScrubber.normalize_unicode`
-- Removed Python 3.6 support
+- Removed Python 3.6 and 3.7 support
 - Replaced dependency `Levenshtein` with `rapidfuzz` for licensing reasons
 
 0.4.2
