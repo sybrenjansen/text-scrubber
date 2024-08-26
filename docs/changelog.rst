@@ -4,7 +4,7 @@ Change log
 0.5.0
 -----
 
-*(2024-08-22)*
+*(2024-08-26)*
 
 - Added :meth:`text_scrubber.text_scrubber.TextScrubber.convert_html_entities`
 - Added :meth:`text_scrubber.text_scrubber.TextScrubber.fix_bad_unicode`
