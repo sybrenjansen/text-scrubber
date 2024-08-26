@@ -21,6 +21,7 @@ setup(
                       'numpy',
                       'rapidfuzz',
                       'scipy',
+                      'setuptools',
                       'tqdm'],
     include_package_data=True,
     extras_require={'docs': ['sphinx==3.2.1',
