@@ -19,7 +19,7 @@ setup(
                       'dataclasses; python_version<"3.7"',
                       'num2words',
                       'numpy',
-                      'python-Levenshtein',
+                      'rapidfuzz',
                       'scipy',
                       'tqdm'],
     include_package_data=True,
