@@ -5,7 +5,7 @@ from functools import partial
 from itertools import filterfalse
 from operator import itemgetter
 from string import punctuation
-from typing import Callable, Generator, Iterable, Match, Optional, Pattern, Union, Dict, Set
+from typing import Callable, Generator, Iterable, Literal, Match, Optional, Pattern, Union, Dict, Set
 
 import ftfy
 from anyascii import anyascii
@@ -231,7 +231,8 @@ class TextScrubber:
         """
         return self._add_step(name, str.lower, on_tokens)
 
-    def normalize_unicode(self, form: str, on_tokens: bool = False, name: str = 'normalize_unicode') -> 'TextScrubber':
+    def normalize_unicode(self, form: Literal['NFC', 'NFKC', 'NFD', 'NFKD'], on_tokens: bool = False,
+                          name: str = 'normalize_unicode') -> 'TextScrubber':
         """
         Normalizes a unicode string using python's `unicodedata` module.
         See https://docs.python.org/3/library/unicodedata.html#unicodedata.normalize
