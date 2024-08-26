@@ -50,6 +50,15 @@ class TextScrubberTest(unittest.TestCase):
         self.assertTrue(isinstance(gen, types.GeneratorType))
         self.assertEqual(list(gen), ['hw', 'sA'])
 
+    def test_convert_html_entities(self):
+        sc = TextScrubber().convert_html_entities()
+        inputs = ['No HTML here', '©', '&#x20;', '&#10;', 'Hello&nbsp;World',
+                  'Named entities: &amp; &copy; &uuml; &Eacute;', '&lt;div&gt;Hello&lt;&#x2f;div&gt;']
+        outputs = ['No HTML here', '©', ' ', '\n', 'Hello\xa0World', 'Named entities: & © ü É', '<div>Hello</div>']
+
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
     def test_filter_tokens(self):
         # Default test
         sc = TextScrubber().filter_tokens(test=lambda t: t, neg=False).to_list()
@@ -68,6 +77,14 @@ class TextScrubberTest(unittest.TestCase):
         self.assertEqual(sc.transform([['hello', '', 'world'], [None, 'slimmer', 'AI', False]]),
                          [['hello', 'world'], ['slimmer']])
 
+    def test_fix_bad_unicode(self):
+        sc = TextScrubber().fix_bad_unicode()
+        inputs = ['cafÃ©', 'ascii', 'naïve', '“hello world”', 'âœ” OK', 'G\xf6teborg', 'doesnÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢t', '']
+        outputs = ['café', 'ascii', 'naïve', '"hello world"', '✔ OK', 'Göteborg', "doesn't", '']
+
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
     def test_initials(self):
         # We use a to_list() here such that we don't receive a generator
         sc = TextScrubber().initials().to_list()
@@ -85,6 +102,22 @@ class TextScrubberTest(unittest.TestCase):
         self.assertEqual(sc.transform(['hello', 'world'], on_tokens=True), 'hello & world')
         self.assertEqual(sc.transform([['hello', 'world'], ['slimmer', 'AI']]), ['hello & world', 'slimmer & AI'])
 
+    def test_latex_to_text(self):
+        sc = TextScrubber().latex_to_text()
+        inputs = [r'\textbf{bold}', 'No latex here', r'\textit{italic}', r'\underline{underline}', r'\section{Section}',
+                  r'\begin{itemize}\item First item\item Second item\end{itemize}', r'\frac{a}{b}', r'\sqrt{4}',
+                  r'\alpha{}\beta{}\gamma{}', r'\textcolor{red}{red text}', r'\texttt{monospace}', r'\emph{emphasized}',
+                  r'\textsc{small caps}', r'\begin{enumerate}\item First\item Second\end{enumerate}',
+                  r'\sum_{i=1}^{n} i', r'\int_{a}^{b} f(x) dx']
+        outputs = ['bold', 'No latex here', 'italic', 'underline', '\n\n§ SECTION\n',
+                   '\n  * First item\n  * Second item', 'a/b', '√(4)',
+                   'αβγ', 'red text', '', 'emphasized',
+                   'small caps', '\n  * First\n  * Second',
+                   '∑_i=1^n i', '∫_a^b f(x) dx']
+
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
     def test_lowercase(self):
         # On entire strings
         sc = TextScrubber().lowercase(on_tokens=False)
@@ -95,6 +128,21 @@ class TextScrubberTest(unittest.TestCase):
         sc = TextScrubber().lowercase(on_tokens=True).to_list()
         self.assertEqual(sc.transform(['Hello World'], on_tokens=True), ['hello world'])
         self.assertEqual(sc.transform([['Hello World', 'slimmer AI']]), [['hello world', 'slimmer ai']])
+
+    def test_normalize_unicode(self):
+        inputs = ['\u212b', '\u1e69', '\u1e9b\u0323']
+
+        # Unicode form NFKC
+        sc = TextScrubber().normalize_unicode('NFKC')
+        outputs = ['\u00c5', '\u1e69', '\u1e69']
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
+
+        # Unicode form NFD
+        sc = TextScrubber().normalize_unicode('NFD')
+        outputs = ['\u0041\u030a', '\u0073\u0323\u0307', '\u017f\u0323\u0307']
+        self.assertEqual(sc.transform(inputs), outputs)
+        self.assertEqual(sc.transform(' '.join(inputs), on_tokens=True), ' '.join(outputs))
 
     def test_num2words(self):
         # Default settings. On strings

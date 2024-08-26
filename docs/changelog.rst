@@ -1,9 +1,16 @@
 Change log
 ==========
 
-Unreleased
-----------
+0.5.0
+-----
 
+*(2024-08-26)*
+
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.convert_html_entities`
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.fix_bad_unicode`
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.latex_to_text`
+- Added :meth:`text_scrubber.text_scrubber.TextScrubber.normalize_unicode`
+- Removed Python 3.6 and 3.7 support
 - Replaced dependency `Levenshtein` with `rapidfuzz` for licensing reasons
 
 0.4.2

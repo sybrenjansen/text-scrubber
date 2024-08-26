@@ -6,7 +6,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='text-scrubber',
-    version='0.4.2',
+    version='0.5.0',
     author='Sybren Jansen',
     description='Python package that offers text scrubbing functionality, providing building blocks for string '
                 'cleaning as well as normalizing geographical text (countries/states/cities)',
@@ -16,18 +16,20 @@ setup(
     packages=find_packages(),
     install_requires=['anyascii',
                       'cython',
-                      'dataclasses; python_version<"3.7"',
+                      'ftfy',
                       'num2words',
                       'numpy',
+                      'pylatexenc',
                       'rapidfuzz',
                       'scipy',
                       'setuptools',
                       'tqdm'],
     include_package_data=True,
-    extras_require={'docs': ['sphinx==3.2.1',
+    extras_require={'docs': ['sphinx>=5,<6',
                              'sphinx-rtd-theme==0.5.0',
                              'sphinx-autodoc-typehints==1.11.0',
-                             'sphinx-versions==1.0.1'],
+                             'sphinx-versions==1.0.1',
+                             'click==8.0.4'],
                     'tests': ['nose2', 'numpy']},
     test_suite='nose2.collector.collector',
     tests_require=['nose2', 'numpy'],
@@ -36,10 +38,11 @@ setup(
         'Development Status :: 5 - Production/Stable',
 
         # Supported Python versions
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
 
         # License
         'License :: OSI Approved :: MIT License',
