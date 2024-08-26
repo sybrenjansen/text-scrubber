@@ -1,6 +1,6 @@
 def make_ext(modname, pyxfilename):
 
-    from distutils.extension import Extension
+    from setuptools.extension import Extension
     import numpy
 
     ext = Extension(modname,

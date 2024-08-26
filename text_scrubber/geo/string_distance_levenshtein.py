@@ -1,8 +1,8 @@
 from collections import defaultdict
 from typing import Dict, List, Optional, Tuple, Union
 
-import Levenshtein
 import numpy as np
+from rapidfuzz.fuzz import ratio as levenshtein_ratio
 from scipy.sparse import csr_matrix
 
 from text_scrubber.geo.overlap_c import get_overlap
@@ -56,7 +56,7 @@ def find_closest_string_levenshtein(
         above_threshold = np.where(char_overlap >= overlap_lower_bound)[0]
 
         for idx in above_threshold:
-            score = Levenshtein.ratio(query, levenshtein_tokens[idx])
+            score = levenshtein_ratio(query, levenshtein_tokens[idx]) / 100.0
             if score >= overall_best_score:
                 if score == overall_best_score:
                     overall_best_candidates.append(indices[idx])
@@ -158,9 +158,9 @@ def find_levenshtein_bounds(query_size: int, min_score: float) -> Tuple[Tuple[in
         else:
             query = 'a' * query_size
             lower_bound = upper_bound = query_size
-            while lower_bound >= 0 and Levenshtein.ratio(query, query[:lower_bound]) >= min_score:
+            while lower_bound >= 0 and (levenshtein_ratio(query, query[:lower_bound]) / 100.0) >= min_score:
                 lower_bound -= 1
-            while Levenshtein.ratio(query, query + 'a' * (upper_bound - query_size)) >= min_score:
+            while (levenshtein_ratio(query, query + 'a' * (upper_bound - query_size)) / 100.0) >= min_score:
                 upper_bound += 1
 
         _LEVENSHTEIN_SIZE_BOUNDS[min_score][query_size] = lower_bound + 1, upper_bound
@@ -176,8 +176,9 @@ def find_levenshtein_bounds(query_size: int, min_score: float) -> Tuple[Tuple[in
             for candidate_size in range(lower_bound + 1, upper_bound):
                 lower_bound = candidate_size
                 query = 'a' * query_size
-                while lower_bound >= 0 and \
-                        Levenshtein.ratio(query, 'b' * (candidate_size - lower_bound) + 'a' * lower_bound) >= min_score:
+                while lower_bound >= 0 and (
+                    levenshtein_ratio(query, 'b' * (candidate_size - lower_bound) + 'a' * lower_bound) / 100.0
+                ) >= min_score:
                     lower_bound -= 1
                 _LEVENSHTEIN_OVERLAP_BOUNDS[min_score][query_size][candidate_size] = lower_bound + 1
 

@@ -1,6 +1,11 @@
 Change log
 ==========
 
+Unreleased
+----------
+
+- Replaced dependency `Levenshtein` with `rapidfuzz` for licensing reasons
+
 0.4.2
 -----
 
